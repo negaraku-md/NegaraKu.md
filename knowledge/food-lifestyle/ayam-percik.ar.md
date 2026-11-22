@@ -100,7 +100,7 @@ dishFacts:
   eat: "يُؤكل ساخنًا خارجًا من الشواية مع الأرز؛ وغالبًا ما يُقدَّم إلى جانب أطباق الساحل الشرقي مثل nasi kerabu، ويُعرض بأسلوبَي الصلصة الأبيض (putih) الأخفّ والأحمر (merah) الأكثر حرارة."
   where: "ركيزة الأسواق الليلية (pasar malam) وأسواق Ramadan، خصوصًا في الساحل الشرقي وفي Kelantan، ويُوجد الآن في أكشاك ومطاعم ملايوية في أنحاء البلاد."
 hero: '/media/food/ayam-percik/hero.webp'
-heroAlt: 'A char-grilled chicken quarter coated in creamy orange-red spiced coconut percik sauce on a green-rimmed plate.'
+heroAlt: 'رُبع دجاجة مشويّة على الفحم مغطّاة بصلصة البيرتشيك بجوز الهند المتبّلة الكريميّة بلون برتقاليّ محمرّ، في طبق ذي حافّة خضراء.'
 heroCredit: 'Unilokman25 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ayam_Percik.jpg'

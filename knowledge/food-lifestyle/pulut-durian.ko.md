@@ -100,7 +100,7 @@ dishFacts:
   eat: "따뜻하게 먹어 짭짤하고 소금기 있는 코코넛 밥이 달고 향이 강한 두리안과 어우러지게 한다. 두리안-코코넛 요소는 흰 빵과 함께 또는 그 자체로도 먹는다."
   where: "두리안 철의 가정, 시장, 디저트 노점, 특히 두리안 산지에서. 과일이 싸고 풍부할 때 만든다."
 hero: '/media/food/pulut-durian/hero.webp'
-heroAlt: 'A mound of white glutinous rice on a blue-patterned plate, draped with a thick golden-yellow durian sauce, a spoon resting alongside.'
+heroAlt: '파란 무늬 접시에 담긴 흰 찹쌀밥 더미에 걸쭉한 황금빛 노란 두리안 소스가 끼얹어져 있고, 옆에 숟가락이 놓여 있다.'
 heroCredit: 'Taman Renyah / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ketan_saus_durian.jpg'

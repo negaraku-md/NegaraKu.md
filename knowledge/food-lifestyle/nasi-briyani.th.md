@@ -102,7 +102,7 @@ dishFacts:
   eat: "จานเฉลิมฉลองสำหรับโอกาสใหญ่: ข้าวปรุงเครื่องเทศกับแกงที่คุณเลือก มักเคียงด้วย ayam masak merah, acar, raita หรือโยเกิร์ต และตกแต่งด้วยเม็ดมะม่วงหิมพานต์และลูกเกด"
   where: "ทุกวันที่ร้านอินเดีย-มุสลิมและ mamak ทั่วประเทศ ยะโฮร์ (มัวร์และบาตูปาฮัต) ขึ้นชื่อเรื่อง beriani gam เสิร์ฟในงานแต่งและ kenduri"
 hero: '/media/food/nasi-briyani/hero.webp'
-heroAlt: 'A mounded plate of golden saffron-tinted long-grain biryani rice studded with pieces of tender spiced chicken, served on a white plate.'
+heroAlt: 'ข้าวบริยานีเมล็ดยาวสีทองอมเหลืองจากหญ้าฝรั่น กองพูนบนจานสีขาว โรยด้วยชิ้นไก่ปรุงเครื่องเทศเนื้อนุ่ม'
 heroCredit: 'Umesh Tongbra / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dum_Biryani_Plate.jpg'

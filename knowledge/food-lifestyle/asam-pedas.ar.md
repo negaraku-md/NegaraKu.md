@@ -102,7 +102,7 @@ dishFacts:
   eat: "يُقدَّم ساخناً بمرقه مع الأرزّ الأبيض المطهوّ بالبخار، إذ تقطع الحموضة والحرارة دسامة السمك؛ ويُؤكل غالباً طبقاً رئيسياً مشتركاً في وجبة عائلية أو في kedai."
   where: "طبق رئيسي أساسي في المطابخ المنزلية والمطاعم الملايوية (kedai makan) في أنحاء شبه جزيرة ماليزيا، وتُعدّ Melaka وJohor أوثق الولايات صلةً به."
 hero: '/media/food/asam-pedas/hero.webp'
-heroAlt: 'A whole fish in a glossy bright-red tamarind broth on a floral plate, surrounded by okra pods, tomato wedges and herbs.'
+heroAlt: 'سمكة كاملة في مرق تمر هنديّ أحمر زاهٍ لامع، في طبق مزيّن بالورود، محاطة بقرون البامية وشرائح الطماطم والأعشاب.'
 heroCredit: 'Elly Suhailee / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:ASAM_PEDAS_IKAN_PARI.jpg'

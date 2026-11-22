@@ -96,7 +96,7 @@ dishFacts:
   eat: "주문을 받아 지지며, 가장자리가 아직 바삭할 때 팬에서 바로 뜨겁게 먹는 것이 가장 좋다. 플레인과 달걀 버전은 커리나 처트니와 어울리고, 단맛 버전은 그 자체로 간식으로 먹는다."
   where: "인도계 노점과 식당, 시장, 야시장(pasar malam)에서 팔리며, 흔히 한 줄의 작은 팬에서 지진다. 페낭 길거리 음식의 단골이기도 하며, 그곳에서 꽤 다른 apom balik과 나란히 있다."
 hero: '/media/food/appam/hero.webp'
-heroAlt: 'A bowl-shaped lacy white appam with a soft spongy centre and crisp golden-brown rim on a white plate, served with a bowl of yellow vegetable stew.'
+heroAlt: '흰 접시에 담긴, 가운데는 부드럽고 폭신하며 가장자리는 바삭한 황금빛 갈색을 띠는 그릇 모양의 레이스 같은 흰 아팜과, 노란 채소 스튜 한 그릇.'
 heroCredit: 'Ganesh Mohan T / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Appam_01.jpg'

@@ -96,7 +96,7 @@ dishFacts:
   eat: "يُقدَّم عادةً بارداً لا ساخناً، مع جوز الهند المبشور وسكّر بنّي أو سكّر النخيل (gula melaka)؛ يُؤكل باليد، أحياناً على ورقة موز، لوجبة الفطور أو شاي العصر."
   where: "وجبة باعة متجوّلين وأسواق، كانت تُباع تاريخياً من باب إلى باب على عربات اليد والدرّاجات والدرّاجات النارية، وما زالت تُوجَد في الأكشاك والأسواق الليلية."
 hero: '/media/food/putu-mayam/hero.webp'
-heroAlt: 'Three coiled nests of pale-green string-hopper noodles topped with freshly grated white coconut on a white plate.'
+heroAlt: 'ثلاث خُصلات ملفوفة من شعيرية الأرز (بوتو مايام) خضراء فاتحة، مغطّاة بجوز هند أبيض مبشور طازج، في طبق أبيض.'
 heroCredit: 'Salm Abdullah / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putu_mayang_2.jpg'

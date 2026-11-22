@@ -100,7 +100,7 @@ dishFacts:
   eat: "சூடாக உண்ணப்படுகிறது, இதனால் உப்பு-சுவையான, உப்புள்ள தேங்காய் சோறு இனிப்பான, கடுமணமுள்ள துரியனுக்கு எதிராக விளையாடுகிறது; துரியன்-தேங்காய் கூறு வெள்ளை ரொட்டியுடனோ அல்லது தனியாகவோவும் உண்ணப்படுகிறது."
   where: "துரியன் பருவத்தில் வீடுகள், சந்தைகள் மற்றும் இனிப்புக் கடைகள், குறிப்பாக துரியன் வளரும் பகுதிகளில்; பழம் மலிவாகவும் ஏராளமாகவும் இருக்கும்போது செய்யப்படுகிறது."
 hero: '/media/food/pulut-durian/hero.webp'
-heroAlt: 'A mound of white glutinous rice on a blue-patterned plate, draped with a thick golden-yellow durian sauce, a spoon resting alongside.'
+heroAlt: 'நீல வடிவமைப்புத் தட்டில் ஒரு குவியல் வெள்ளை பிசுபிசுப்பான அரிசி, அடர் தங்க-மஞ்சள் durian சாஸ் பூசப்பட்டு, அருகில் ஒரு ஸ்பூன் வைக்கப்பட்டுள்ளது.'
 heroCredit: 'Taman Renyah / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ketan_saus_durian.jpg'

@@ -101,7 +101,7 @@ dishFacts:
   eat: "Généralement frit jusqu'à être chaud et mangé avec une sauce pimentée sucrée-acide-épicée (piment moulu, vinaigre, sel et sucre de palme) ; vendu frais aux stands de bord de route et sur les marchés."
   where: "Un en-cas de stand de bord de route et de marché dans tout Terengganu et la côte est au sens large ; la zone de Losong, à Kuala Terengganu, lui est particulièrement associée."
 hero: '/media/food/keropok-lekor/hero.webp'
-heroAlt: 'Long golden deep-fried keropok lekor fish sausages piled on a white plate beside a cup of red chilli dipping sauce.'
+heroAlt: 'De longues saucisses de poisson frites et dorées (keropok lekor) empilées sur une assiette blanche, à côté d''une coupelle de sauce pimentée rouge.'
 heroCredit: 'Jpatokal / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Keropok_Lekor_Perhentians.jpg'

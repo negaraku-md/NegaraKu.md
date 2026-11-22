@@ -101,7 +101,7 @@ dishFacts:
   eat: "Biasanya digoreng hingga panas dan disantap dengan cocolan cabai manis-asam-pedas (cabai giling, cuka, garam, dan gula aren); dijual segar di gerai pinggir jalan dan pasar."
   where: "Camilan gerai pinggir jalan dan pasar di seluruh Terengganu dan pesisir timur yang lebih luas; kawasan Losong di Kuala Terengganu terutama dikaitkan dengannya."
 hero: '/media/food/keropok-lekor/hero.webp'
-heroAlt: 'Long golden deep-fried keropok lekor fish sausages piled on a white plate beside a cup of red chilli dipping sauce.'
+heroAlt: 'Keropok lekor panjang keemasan yang digoreng garing menumpuk di piring putih di samping secangkir saus cocol cabai merah.'
 heroCredit: 'Jpatokal / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Keropok_Lekor_Perhentians.jpg'

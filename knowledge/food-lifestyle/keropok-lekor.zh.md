@@ -101,7 +101,7 @@ dishFacts:
   eat: "通常煎炸至热后，搭配又甜又酸又辣的辣椒蘸酱（辣椒碎、醋、盐和棕榈糖）食用；在路边摊和市场新鲜出售。"
   where: "遍布 Terengganu 及更广阔东海岸的路边摊与市场小吃；Kuala Terengganu 的 Losong 一带尤其与它相关。"
 hero: '/media/food/keropok-lekor/hero.webp'
-heroAlt: 'Long golden deep-fried keropok lekor fish sausages piled on a white plate beside a cup of red chilli dipping sauce.'
+heroAlt: '白色盘子上堆着金黄色、炸得长长的鱼肉肠（keropok lekor），旁边是一杯红辣椒蘸酱。'
 heroCredit: 'Jpatokal / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Keropok_Lekor_Perhentians.jpg'

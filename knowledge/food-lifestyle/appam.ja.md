@@ -96,7 +96,7 @@ dishFacts:
   eat: "注文ごとに焼かれ、縁がまだパリッとしているうちに鍋から出して熱いまま食べるのが最良。プレーンと卵の種類はカレーやチャツネと合い、甘口はそのままおやつとして食べる。"
   where: "インド系の屋台や食堂、市場、夜市（pasar malam）で売られ、しばしば一列の小さな鍋で焼かれる。ペナンのストリートフードの定番でもあり、そこではかなり異なる apom balik と並んでいる。"
 hero: '/media/food/appam/hero.webp'
-heroAlt: 'A bowl-shaped lacy white appam with a soft spongy centre and crisp golden-brown rim on a white plate, served with a bowl of yellow vegetable stew.'
+heroAlt: '白い皿にのった、中央が柔らかくふんわり、縁が香ばしくきつね色にパリッとした、ボウル形でレース状の白いアッパム。黄色い野菜カレーの器が添えられている。'
 heroCredit: 'Ganesh Mohan T / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Appam_01.jpg'

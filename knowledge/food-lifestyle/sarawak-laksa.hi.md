@@ -102,7 +102,7 @@ dishFacts:
   eat: "Kuching में आमतौर पर नाश्ते में, ताज़ा और गरम खाया जाता है, जिसमें खट्टेपन और तीखेपन को स्वाद अनुसार समायोजित करने के लिए नींबू और अतिरिक्त sambal belacan किनारे परोसे जाते हैं।"
   where: "सारावाक भर में कॉफ़ी शॉप और फेरीवाला-स्टॉल का व्यंजन, जिसमें Kuching को इसका घर माना जाता है; तैयार laksa पेस्ट ने इस कटोरी को मलेशियाई प्रायद्वीप और उससे आगे भी फैला दिया है।"
 hero: '/media/food/sarawak-laksa/hero.webp'
-heroAlt: 'A white bowl of Sarawak laksa with fine vermicelli noodles in a reddish-brown spiced broth, topped with a prawn, shredded chicken, bean sprouts and fresh coriander.'
+heroAlt: 'सफेद कटोरे में सारावाक लक्सा, लाल-भूरे मसालेदार शोरबे में बारीक चावल की सेवइयाँ, ऊपर एक झींगा, कतरा हुआ चिकन, अंकुरित सेम और ताज़ा हरा धनिया।'
 heroCredit: 'Richx10 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Sarawak_from_Chong_Choon_Cafe.jpg'

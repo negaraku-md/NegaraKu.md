@@ -100,7 +100,7 @@ dishFacts:
   eat: "गर्म खाया जाता है, ताकि नमकीन, नमकयुक्त नारियल चावल मीठे, तेज़ गंध वाले ड्यूरियन के सामने खेल सके; ड्यूरियन-नारियल तत्व को सफ़ेद रोटी के साथ या अकेले भी खाया जाता है।"
   where: "ड्यूरियन के मौसम में घर, बाज़ार और मिठाई की दुकानें, विशेषकर ड्यूरियन उगाने वाले इलाकों में; तब बनाया जाता है जब फल सस्ता और भरपूर होता है।"
 hero: '/media/food/pulut-durian/hero.webp'
-heroAlt: 'A mound of white glutinous rice on a blue-patterned plate, draped with a thick golden-yellow durian sauce, a spoon resting alongside.'
+heroAlt: 'नीले नक़्शे वाली प्लेट पर सफेद चिपचिपे चावल का ढेर, ऊपर गाढ़ी सुनहरी-पीली ड्यूरियन चटनी लिपटी, बगल में एक चम्मच रखा।'
 heroCredit: 'Taman Renyah / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ketan_saus_durian.jpg'

@@ -100,7 +100,7 @@ dishFacts:
   eat: "Disantap panas langsung dari pembakaran dengan nasi; sering disajikan berdampingan dengan hidangan Pantai Timur seperti nasi kerabu, dan ditawarkan dalam gaya saus putih (putih) yang lebih lembut dan merah (merah) yang lebih pedas."
   where: "Tulang punggung pasar malam (pasar malam) dan bazar Ramadan, terutama di Pantai Timur dan di Kelantan, dan kini ditemukan di gerai serta restoran Melayu di seluruh negeri."
 hero: '/media/food/ayam-percik/hero.webp'
-heroAlt: 'A char-grilled chicken quarter coated in creamy orange-red spiced coconut percik sauce on a green-rimmed plate.'
+heroAlt: 'Seperempat ayam panggang arang berlumur saus percik santan berbumbu merah jingga yang kental di piring bertepi hijau.'
 heroCredit: 'Unilokman25 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ayam_Percik.jpg'

@@ -102,7 +102,7 @@ dishFacts:
   eat: "一道用于大场合的庆祝菜：调香米饭配上你选的咖喱，常佐以 ayam masak merah、acar、raita 或酸奶，并以腰果和葡萄干点缀。"
   where: "全国各地的印度穆斯林与 mamak 餐馆日常供应；柔佛（麻坡与峇株巴辖）以 beriani gam 闻名，供于婚宴与 kenduri。"
 hero: '/media/food/nasi-briyani/hero.webp'
-heroAlt: 'A mounded plate of golden saffron-tinted long-grain biryani rice studded with pieces of tender spiced chicken, served on a white plate.'
+heroAlt: '一盘堆得高高的金黄藏红花色长粒印度香饭，点缀着鲜嫩的香料鸡块，盛在白色盘子上。'
 heroCredit: 'Umesh Tongbra / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dum_Biryani_Plate.jpg'

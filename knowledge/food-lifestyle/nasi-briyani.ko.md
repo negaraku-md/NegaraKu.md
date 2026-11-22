@@ -102,7 +102,7 @@ dishFacts:
   eat: "큰 행사를 위한 축제의 한 접시: 향신료 밥에 고른 커리를 곁들이고, 흔히 ayam masak merah, acar, raita 또는 요구르트와 함께 내며, 캐슈너트와 건포도로 장식한다."
   where: "전국의 인도계 무슬림 및 mamak 식당에서 일상적으로. 조호르(무아르와 바투파핫)는 beriani gam으로 유명하며 결혼식과 kenduri에서 낸다."
 hero: '/media/food/nasi-briyani/hero.webp'
-heroAlt: 'A mounded plate of golden saffron-tinted long-grain biryani rice studded with pieces of tender spiced chicken, served on a white plate.'
+heroAlt: '흰 접시에 담긴, 부드러운 양념 닭고기 조각이 박힌 황금빛 사프란 색 장립 비리야니 밥이 수북이 쌓여 있다.'
 heroCredit: 'Umesh Tongbra / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dum_Biryani_Plate.jpg'

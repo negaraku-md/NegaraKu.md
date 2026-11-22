@@ -101,7 +101,7 @@ dishFacts:
   eat: "通常は熱く揚げ、甘酸っぱく辛いチリだれ（挽いた唐辛子、酢、塩、ヤシ糖）とともに食べる。路上の屋台や市場で作りたてが売られる。"
   where: "Terengganu とより広い東海岸一帯の路上屋台・市場のスナック。Kuala Terengganu の Losong 地区がとりわけ結びつく。"
 hero: '/media/food/keropok-lekor/hero.webp'
-heroAlt: 'Long golden deep-fried keropok lekor fish sausages piled on a white plate beside a cup of red chilli dipping sauce.'
+heroAlt: '白い皿に山盛りにされた、長く揚げた黄金色の魚肉ソーセージ（クロポ・レコール）と、赤唐辛子のつけだれの入ったカップ。'
 heroCredit: 'Jpatokal / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Keropok_Lekor_Perhentians.jpg'

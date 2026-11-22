@@ -95,7 +95,7 @@ dishFacts:
   eat: "Idli là món ăn sáng và tiffin: nhẹ, hấp và thường được mô tả là dễ tiêu. Nó được ăn bằng tay, xé hoặc chấm, kéo qua sambar hoặc chutney dừa, hoặc ấn vào idli podi được làm loãng bằng dầu hoặc ghee. Mini idli có thể được phục vụ trộn trong podi hoặc ngâm trong sambar."
   where: "Bạn tìm thấy idli ở các nhà hàng chay Nam Ấn và nhà hàng lá chuối, nơi nó là món quen thuộc buổi sáng và giờ trà cùng thosai và vadai, ở các quầy mamak và trong bếp gia đình; một số quán cà phê ở Kuala Lumpur chuyên về nó."
 hero: '/media/food/idli/hero.webp'
-heroAlt: 'Soft white steamed idli rice cakes arranged on a black plate beside a small bowl of reddish-brown sambar lentil stew with a spoon.'
+heroAlt: 'Những chiếc bánh gạo hấp idli trắng mềm xếp trên đĩa đen, bên cạnh một bát nhỏ súp đậu sambar nâu đỏ kèm thìa.'
 heroCredit: 'Dr. Raju Kasambe / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Idli_Sambar_Food_by_Ms_Ujwala_Kasambe_DSCN9744_(2).jpg'

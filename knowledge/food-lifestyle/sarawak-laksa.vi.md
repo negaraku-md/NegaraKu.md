@@ -102,7 +102,7 @@ dishFacts:
   eat: "Thường được ăn vào bữa sáng ở Kuching, tươi và nóng, với chanh và sambal belacan thêm để bên cạnh để điều chỉnh độ chua và độ cay theo khẩu vị."
   where: "Món của quán cà phê và quầy hàng rong khắp Sarawak, với Kuching được xem là quê nhà; các pa-tê laksa làm sẵn cũng đã mang tô này đến bán đảo Malaysia và xa hơn."
 hero: '/media/food/sarawak-laksa/hero.webp'
-heroAlt: 'A white bowl of Sarawak laksa with fine vermicelli noodles in a reddish-brown spiced broth, topped with a prawn, shredded chicken, bean sprouts and fresh coriander.'
+heroAlt: 'Một tô laksa Sarawak màu trắng với bún gạo sợi nhỏ trong nước dùng gia vị nâu đỏ, bên trên là một con tôm, thịt gà xé, giá đỗ và rau mùi tươi.'
 heroCredit: 'Richx10 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Sarawak_from_Chong_Choon_Cafe.jpg'

@@ -96,7 +96,7 @@ dishFacts:
   eat: "Biasanya dihidang sejuk dan bukannya panas, dengan kelapa parut dan gula perang atau gula melaka; dimakan dengan tangan, kadangkala di atas daun pisang, untuk sarapan atau minum petang."
   where: "Kudapan penjaja bergerak dan pasar, dari segi sejarah dijual dari pintu ke pintu menggunakan kereta sorong, basikal dan motosikal, dan masih ditemui di gerai serta pasar malam."
 hero: '/media/food/putu-mayam/hero.webp'
-heroAlt: 'Three coiled nests of pale-green string-hopper noodles topped with freshly grated white coconut on a white plate.'
+heroAlt: 'Tiga gulungan putu mayam hijau pucat bertabur kelapa putih yang baru diparut di atas pinggan putih.'
 heroCredit: 'Salm Abdullah / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putu_mayang_2.jpg'

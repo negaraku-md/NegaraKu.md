@@ -102,7 +102,7 @@ dishFacts:
   eat: "Dihidangkan panas dalam kuahnya bersama nasi putih, keasaman dan kepedasannya memotong kelemakan ikan; selalunya dimakan sebagai lauk utama yang dikongsi pada hidangan keluarga atau di kedai makan."
   where: "Lauk ruji dapur rumah dan restoran Melayu (kedai makan) di seluruh Semenanjung Malaysia, dengan Melaka dan Johor sebagai negeri yang paling rapat diidentifikasikan dengannya."
 hero: '/media/food/asam-pedas/hero.webp'
-heroAlt: 'A whole fish in a glossy bright-red tamarind broth on a floral plate, surrounded by okra pods, tomato wedges and herbs.'
+heroAlt: 'Seekor ikan utuh dalam kuah asam jawa merah menyala yang berkilat di atas pinggan berbunga, dikelilingi bendi, hirisan tomato dan ulam.'
 heroCredit: 'Elly Suhailee / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:ASAM_PEDAS_IKAN_PARI.jpg'

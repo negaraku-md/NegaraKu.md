@@ -101,7 +101,7 @@ dishFacts:
   eat: "आम तौर पर गरम होने तक तलकर, मीठी-खट्टी-तीखी मिर्च की चटनी (पिसी मिर्च, सिरका, नमक और ताड़ की शक्कर) के साथ खाया जाता है; सड़क किनारे की दुकानों और बाज़ारों में ताज़ा बिकता है।"
   where: "Terengganu और व्यापक पूर्वी तट भर में सड़क-किनारे की दुकान और बाज़ार की स्नैक; Kuala Terengganu का Losong इलाक़ा ख़ासतौर पर इससे जुड़ा है।"
 hero: '/media/food/keropok-lekor/hero.webp'
-heroAlt: 'Long golden deep-fried keropok lekor fish sausages piled on a white plate beside a cup of red chilli dipping sauce.'
+heroAlt: 'सफेद प्लेट पर ढेर लगे लंबे सुनहरे तले हुए मछली के सॉसेज (केरोपोक लेकोर), बगल में लाल मिर्च की डिप सॉस का एक कप।'
 heroCredit: 'Jpatokal / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Keropok_Lekor_Perhentians.jpg'

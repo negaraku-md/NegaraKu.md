@@ -96,7 +96,7 @@ dishFacts:
   eat: "熱々ではなく冷ました状態で、削りココナッツと黒糖かパームシュガー（gula melaka）とともに供されるのが普通。手で、ときにバナナの葉の上で、朝食や午後のお茶に食べる。"
   where: "行商人と市場の菓子で、歴史的には手押し車、自転車、バイクで戸別に売られ、今も露店や夜市で見かける。"
 hero: '/media/food/putu-mayam/hero.webp'
-heroAlt: 'Three coiled nests of pale-green string-hopper noodles topped with freshly grated white coconut on a white plate.'
+heroAlt: '白い皿にのった、淡い緑色のストリングホッパー（プットゥ・マヤム）の三つの渦巻き状の束に、おろしたての白いココナッツがかけられている。'
 heroCredit: 'Salm Abdullah / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putu_mayang_2.jpg'

@@ -100,7 +100,7 @@ dishFacts:
   eat: "趁热吃，让咸香、带盐味的椰浆糯米映衬香甜、气味浓烈的榴梿；这榴梿椰浆的元素也可配白面包或单独享用。"
   where: "榴梿季里的家庭、市集和甜点摊，尤其在榴梿产区；在果实价廉而充裕时制作。"
 hero: '/media/food/pulut-durian/hero.webp'
-heroAlt: 'A mound of white glutinous rice on a blue-patterned plate, draped with a thick golden-yellow durian sauce, a spoon resting alongside.'
+heroAlt: '蓝花纹盘子上一团白色糯米，淋着浓稠的金黄色榴莲酱，旁边搁着一把勺子。'
 heroCredit: 'Taman Renyah / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ketan_saus_durian.jpg'

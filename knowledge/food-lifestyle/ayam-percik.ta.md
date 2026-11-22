@@ -100,7 +100,7 @@ dishFacts:
   eat: "வாட்டத்திலிருந்து சூடாக சோற்றுடன் உண்ணப்படுகிறது; பெரும்பாலும் nasi kerabu போன்ற கிழக்குக் கடற்கரை உணவுகளுடன் பரிமாறப்படுகிறது, மேலும் மென்மையான வெள்ளை (putih) மற்றும் காரமான சிவப்பு (merah) சாஸ் பாணிகளில் வழங்கப்படுகிறது."
   where: "இரவுச் சந்தைகளின் (pasar malam) மற்றும் Ramadan கடைகளின் ஒரு முக்கிய அம்சம், குறிப்பாக கிழக்குக் கடற்கரையிலும் Kelantan-இலும், இப்போது நாடு முழுவதும் உள்ள மலாய் கடைகளிலும் உணவகங்களிலும் காணப்படுகிறது."
 hero: '/media/food/ayam-percik/hero.webp'
-heroAlt: 'A char-grilled chicken quarter coated in creamy orange-red spiced coconut percik sauce on a green-rimmed plate.'
+heroAlt: 'பச்சை விளிம்புத் தட்டில், கிரீமி ஆரஞ்சு-சிவப்பு மசாலா தேங்காய் percik சாஸ் பூசப்பட்ட கரிநெருப்பில் வாட்டிய கால்பங்கு கோழி.'
 heroCredit: 'Unilokman25 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ayam_Percik.jpg'

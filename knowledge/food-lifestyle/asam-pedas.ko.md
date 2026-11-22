@@ -102,7 +102,7 @@ dishFacts:
   eat: "국물째 뜨겁게 흰쌀밥과 함께 내며, 신맛과 매운맛이 생선의 기름진 맛을 잘라 준다; 혼자 먹는 간식이라기보다 가족 식탁이나 kedai 식사에서 함께 나누는 주요리로 먹는 경우가 많다."
   where: "말레이반도 전역의 가정 주방과 말레이 식당(kedai makan)의 주요리로, Melaka와 Johor가 그것과 가장 깊이 결부된 주다."
 hero: '/media/food/asam-pedas/hero.webp'
-heroAlt: 'A whole fish in a glossy bright-red tamarind broth on a floral plate, surrounded by okra pods, tomato wedges and herbs.'
+heroAlt: '꽃무늬 접시에 담긴, 윤기 나는 선명한 붉은 타마린드 국물에 든 생선 한 마리와, 그 둘레의 오크라, 토마토 조각, 허브.'
 heroCredit: 'Elly Suhailee / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:ASAM_PEDAS_IKAN_PARI.jpg'

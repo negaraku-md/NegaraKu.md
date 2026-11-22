@@ -95,7 +95,7 @@ dishFacts:
   eat: "L'idli est un aliment de petit-déjeuner et de tiffin : léger, cuit à la vapeur et souvent décrit comme facile à digérer. Il se mange à la main, déchiré ou trempé, passé dans le sambar ou le chutney de coco, ou pressé dans de l'idli podi détendu à l'huile ou au ghee. Le mini idli peut être servi mélangé au podi ou trempé dans le sambar."
   where: "On trouve l'idli dans les restaurants végétariens sud-indiens et de feuille de bananier, où il est un pilier du matin et de l'heure du thé aux côtés du thosai et du vadai, dans les stands mamak et dans les cuisines familiales ; certains cafés de Kuala Lumpur s'y spécialisent."
 hero: '/media/food/idli/hero.webp'
-heroAlt: 'Soft white steamed idli rice cakes arranged on a black plate beside a small bowl of reddish-brown sambar lentil stew with a spoon.'
+heroAlt: 'De moelleux idli blancs, galettes de riz cuites à la vapeur, disposés sur une assiette noire à côté d''un petit bol de ragoût de lentilles sambar brun-rouge avec une cuillère.'
 heroCredit: 'Dr. Raju Kasambe / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Idli_Sambar_Food_by_Ms_Ujwala_Kasambe_DSCN9744_(2).jpg'

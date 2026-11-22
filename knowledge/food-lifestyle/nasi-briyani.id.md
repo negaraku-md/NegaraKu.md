@@ -102,7 +102,7 @@ dishFacts:
   eat: "Piring perayaan untuk acara besar: nasi berbumbu dengan kari pilihan Anda, sering ditemani ayam masak merah, acar, raita, atau yoghurt, dan dihias dengan kacang mete dan kismis."
   where: "Sehari-hari di rumah makan Muslim India dan mamak di seluruh negeri; Johor (Muar dan Batu Pahat) dikenal dengan beriani gam, disajikan di pernikahan dan kenduri."
 hero: '/media/food/nasi-briyani/hero.webp'
-heroAlt: 'A mounded plate of golden saffron-tinted long-grain biryani rice studded with pieces of tender spiced chicken, served on a white plate.'
+heroAlt: 'Sepiring nasi biryani butir panjang keemasan bersemu safron yang menggunung, bertabur potongan ayam berbumbu yang empuk, disajikan di piring putih.'
 heroCredit: 'Umesh Tongbra / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dum_Biryani_Plate.jpg'

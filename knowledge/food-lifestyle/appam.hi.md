@@ -96,7 +96,7 @@ dishFacts:
   eat: "ऑर्डर पर सेंका जाता है, कड़ाही से उतरते ही गर्म, जब तक किनारा कुरकुरा हो, खाना सबसे अच्छा है; सादा और अंडा संस्करण करी या चटनी के साथ, मीठा संस्करण अकेले नाश्ते के रूप में खाया जाता है।"
   where: "भारतीय स्टॉल और भोजनालयों, बाज़ारों और रात के बाज़ारों (pasar malam) में बिकता है, अक्सर छोटी कड़ाहियों की एक पंक्ति में पकाया जाता है; पेनांग के सड़क-भोजन का भी एक स्थायी हिस्सा, जहाँ यह काफ़ी अलग apom balik के साथ-साथ रहता है।"
 hero: '/media/food/appam/hero.webp'
-heroAlt: 'A bowl-shaped lacy white appam with a soft spongy centre and crisp golden-brown rim on a white plate, served with a bowl of yellow vegetable stew.'
+heroAlt: 'सफेद प्लेट पर कटोरे के आकार का जालीदार सफेद अप्पम, जिसका बीच नरम-स्पंजी और किनारा कुरकुरा सुनहरा-भूरा है, पीली सब्ज़ी के सालन की कटोरी के साथ परोसा गया।'
 heroCredit: 'Ganesh Mohan T / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Appam_01.jpg'

@@ -104,7 +104,7 @@ dishFacts:
   eat: "يُقدَّم وهو يُصلصل في القِدر الفخّارية نفسها التي طُهي فيها، مع رشّ صلصة صويا داكنة كثيفة وتقليبها في الأرزّ والدجاج والنقانق؛ ويكشط الآكلون قشرة القاع المقرمشة في النهاية. ويُطهى عادةً حسب الطلب، فيستغرق وقتًا."
   where: "طبق أكشاك وkopitiam يُوجد في المقاهي الشعبية وساحات الطعام والأسواق الليلية في أنحاء ماليزيا، يُطهى قِدرًا واحدة في كلّ مرّة على الفحم أو الغاز؛ وترتبط به بلدة Kampar في ولاية بيراك على نحوٍ خاصّ."
 hero: '/media/food/claypot-chicken-rice/hero.webp'
-heroAlt: 'A rustic brown clay pot of steamed rice topped with braised chicken pieces, dark soy-glazed Chinese sausage and a scattering of chopped spring onion.'
+heroAlt: 'قِدر فخّاريّ بنّيّ ريفيّ من الأرز المطهوّ بالبخار، مغطّى بقطع الدجاج المطهوّ ببطء ونقانق صينيّة مطليّة بصلصة الصويا الداكنة ورشّة من البصل الأخضر المفروم.'
 heroCredit: 'Lilblackdog29 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Claypot_chicken_rice.jpg'

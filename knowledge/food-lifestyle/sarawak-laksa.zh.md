@@ -102,7 +102,7 @@ dishFacts:
   eat: "在 Kuching 通常当作早餐食用，趁新鲜滚热，青柠和额外的 sambal belacan 另置一旁，供食客按口味调节酸度与辣度。"
   where: "砂拉越各地咖啡店与小贩摊的菜式，Kuching 被视为它的故乡；现成的叻沙酱也已把这碗面带到马来西亚半岛乃至海外。"
 hero: '/media/food/sarawak-laksa/hero.webp'
-heroAlt: 'A white bowl of Sarawak laksa with fine vermicelli noodles in a reddish-brown spiced broth, topped with a prawn, shredded chicken, bean sprouts and fresh coriander.'
+heroAlt: '一个白碗盛的砂拉越叻沙，细米粉浸在红褐色的香料汤底中，上面放着一只虾、鸡丝、豆芽和新鲜香菜。'
 heroCredit: 'Richx10 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Sarawak_from_Chong_Choon_Cafe.jpg'

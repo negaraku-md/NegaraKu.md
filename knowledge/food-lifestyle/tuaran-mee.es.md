@@ -101,7 +101,7 @@ dishFacts:
   eat: "Suele comerse recién salido del wok como plato frito; el mismo fideo también aparece en caldo y en versión salteada en seco ('konlau'), y en giros locales como una preparación hecha con Lihing (el vino de arroz de Sabah)."
   where: "Una especialidad de Sabah arraigada en el pueblo de Tuaran y servida ampliamente por los alrededores de Kota Kinabalu; a veces llamado el plato de fideos más famoso de Sabah."
 hero: '/media/food/tuaran-mee/hero.webp'
-heroAlt: 'A bright green plate piled with glossy wok-fried springy egg noodles, topped with sliced char siu, roast pork, prawns, scrambled egg and leafy greens.'
+heroAlt: 'Un plato verde brillante colmado de fideos de huevo elásticos y lustrosos salteados al wok, coronados con char siu en lonchas, cerdo asado, langostinos, huevo revuelto y verduras de hoja.'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tuaran_Sabah_TuaranMee-1.jpg'

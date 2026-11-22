@@ -102,7 +102,7 @@ dishFacts:
   eat: "Pinggan perayaan untuk majlis besar: nasi berempah bersama kari pilihan anda, selalunya ditemani ayam masak merah, acar, raita atau dadih, dan dihias dengan gajus dan kismis."
   where: "Setiap hari di kedai Muslim India dan mamak di seluruh negara; Johor (Muar dan Batu Pahat) terkenal dengan beriani gam, dihidangkan di majlis perkahwinan dan kenduri."
 hero: '/media/food/nasi-briyani/hero.webp'
-heroAlt: 'A mounded plate of golden saffron-tinted long-grain biryani rice studded with pieces of tender spiced chicken, served on a white plate.'
+heroAlt: 'Sepinggan nasi briyani bijiran panjang keemasan berwarna kunyit kuma-kuma, bertatahkan ketulan ayam berempah yang lembut, dihidang di atas pinggan putih.'
 heroCredit: 'Umesh Tongbra / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dum_Biryani_Plate.jpg'

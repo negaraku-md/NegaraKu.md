@@ -102,7 +102,7 @@ dishFacts:
   eat: "Un plato festivo para las grandes ocasiones: arroz especiado con el curry que elijas, a menudo acompañado de ayam masak merah, acar, raita o yogur, y adornado con anacardos y pasas."
   where: "A diario en los establecimientos indo-musulmanes y mamak de todo el país; Johor (Muar y Batu Pahat) es conocido por el beriani gam, servido en bodas y kenduri."
 hero: '/media/food/nasi-briyani/hero.webp'
-heroAlt: 'A mounded plate of golden saffron-tinted long-grain biryani rice studded with pieces of tender spiced chicken, served on a white plate.'
+heroAlt: 'Un plato colmado de arroz biryani de grano largo teñido de dorado azafrán, salpicado de trozos de pollo especiado y tierno, servido en un plato blanco.'
 heroCredit: 'Umesh Tongbra / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dum_Biryani_Plate.jpg'

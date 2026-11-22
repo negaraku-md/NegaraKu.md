@@ -100,7 +100,7 @@ dishFacts:
   eat: "趁热从烤架上取下配米饭食用；常与 nasi kerabu 等东海岸菜式一同上桌，并提供较温和的白（putih）酱与较辛辣的红（merah）酱两种风格。"
   where: "夜市（pasar malam）和斋戒月（Ramadan）市集的主角，尤其在东海岸和吉兰丹（Kelantan），如今在全国各地的马来摊位和餐馆也能找到。"
 hero: '/media/food/ayam-percik/hero.webp'
-heroAlt: 'A char-grilled chicken quarter coated in creamy orange-red spiced coconut percik sauce on a green-rimmed plate.'
+heroAlt: '绿边盘子上一块炭烤鸡腿，裹着橙红色、浓郁的香料椰浆percik酱。'
 heroCredit: 'Unilokman25 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ayam_Percik.jpg'

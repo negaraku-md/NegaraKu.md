@@ -96,7 +96,7 @@ dishFacts:
   eat: "பொதுவாக சூடாக இல்லாமல் குளிர்ந்த நிலையில், துருவிய தேங்காய் மற்றும் பழுப்பு சர்க்கரை அல்லது பனை சர்க்கரையுடன் (gula melaka) பரிமாறப்படுகிறது; கையால், சில நேரங்களில் வாழை இலையில், காலை உணவுக்கு அல்லது மதியப் பின்னேர தேநீருக்கு சாப்பிடப்படுகிறது."
   where: "ஒரு அலைந்து திரியும்-விற்பனையாளர் மற்றும் சந்தை சிற்றுண்டி, வரலாற்று ரீதியாகத் தள்ளுவண்டிகள், மிதிவண்டிகள் மற்றும் மோட்டார் சைக்கிள்களில் வீடுவீடாக விற்கப்பட்டது, இன்னும் கடைகளிலும் இரவுச் சந்தைகளிலும் காணப்படுகிறது."
 hero: '/media/food/putu-mayam/hero.webp'
-heroAlt: 'Three coiled nests of pale-green string-hopper noodles topped with freshly grated white coconut on a white plate.'
+heroAlt: 'வெள்ளைத் தட்டில், புதிதாகத் துருவிய வெள்ளைத் தேங்காய் தூவப்பட்ட மூன்று சுருள் இளம் பச்சை இடியாப்பக் கூடுகள்.'
 heroCredit: 'Salm Abdullah / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putu_mayang_2.jpg'

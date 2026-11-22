@@ -100,7 +100,7 @@ dishFacts:
   eat: "Se come caliente recién salido de la brasa con arroz; se sirve a menudo junto a platos de la Costa Este como el nasi kerabu, y se ofrece en estilos de salsa blanca (putih) más suave y roja (merah) más picante."
   where: "Un pilar de los mercados nocturnos (pasar malam) y los bazares de Ramadan, sobre todo en la Costa Este y en Kelantan, y hoy presente en puestos y restaurantes malayos de todo el país."
 hero: '/media/food/ayam-percik/hero.webp'
-heroAlt: 'A char-grilled chicken quarter coated in creamy orange-red spiced coconut percik sauce on a green-rimmed plate.'
+heroAlt: 'Un cuarto de pollo a la brasa cubierto con una cremosa salsa percik de coco especiada de color rojo anaranjado, en un plato con borde verde.'
 heroCredit: 'Unilokman25 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ayam_Percik.jpg'

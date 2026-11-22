@@ -101,7 +101,7 @@ dishFacts:
   eat: "Se mange d'ordinaire frais sorti du wok sous forme d'assiette sautée ; la même nouille apparaît aussi en bouillon et en version sautée à sec ('konlau'), et dans des variantes locales comme une préparation faite au Lihing (le vin de riz de Sabah)."
   where: "Une spécialité de Sabah enracinée dans la ville de Tuaran et largement servie autour de Kota Kinabalu ; parfois appelée le plat de nouilles le plus célèbre de Sabah."
 hero: '/media/food/tuaran-mee/hero.webp'
-heroAlt: 'A bright green plate piled with glossy wok-fried springy egg noodles, topped with sliced char siu, roast pork, prawns, scrambled egg and leafy greens.'
+heroAlt: 'Une assiette vert vif débordant de nouilles aux œufs élastiques et brillantes sautées au wok, garnies de char siu en tranches, de porc rôti, de crevettes, d''œufs brouillés et de légumes verts.'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tuaran_Sabah_TuaranMee-1.jpg'

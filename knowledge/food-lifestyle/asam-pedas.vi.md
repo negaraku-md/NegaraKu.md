@@ -102,7 +102,7 @@ dishFacts:
   eat: "Dọn nóng cùng nước dùng với cơm trắng, vị chua và cay cắt cái béo của cá; thường được ăn như món chính chia sẻ trong bữa gia đình hoặc bữa ở kedai."
   where: "Món chính quen thuộc của bếp gia đình và nhà hàng Mã Lai (kedai makan) khắp bán đảo Malaysia, với Melaka và Johor là những bang gắn bó mật thiết nhất với nó."
 hero: '/media/food/asam-pedas/hero.webp'
-heroAlt: 'A whole fish in a glossy bright-red tamarind broth on a floral plate, surrounded by okra pods, tomato wedges and herbs.'
+heroAlt: 'Một con cá nguyên con trong nước dùng me chua đỏ tươi bóng loáng trên đĩa hoa, xung quanh là đậu bắp, cà chua bổ múi và rau thơm.'
 heroCredit: 'Elly Suhailee / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:ASAM_PEDAS_IKAN_PARI.jpg'

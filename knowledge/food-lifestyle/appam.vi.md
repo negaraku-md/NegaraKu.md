@@ -96,7 +96,7 @@ dishFacts:
   eat: "Chiên theo yêu cầu, ngon nhất khi ăn nóng vừa nhấc khỏi chảo lúc viền còn giòn; phiên bản thường và trứng hợp với cà ri hoặc tương chutney, phiên bản ngọt ăn riêng như một món ăn vặt."
   where: "Bán tại các quầy và quán ăn Ấn, chợ và chợ đêm (pasar malam), thường được chiên trong một hàng chảo nhỏ; cũng là một món quen thuộc của ẩm thực đường phố Penang, nơi nó nằm cạnh apom balik khá khác biệt."
 hero: '/media/food/appam/hero.webp'
-heroAlt: 'A bowl-shaped lacy white appam with a soft spongy centre and crisp golden-brown rim on a white plate, served with a bowl of yellow vegetable stew.'
+heroAlt: 'Một chiếc appam trắng hình bát viền ren, phần giữa mềm xốp và vành giòn vàng nâu, trên đĩa trắng, dùng kèm một bát súp rau củ màu vàng.'
 heroCredit: 'Ganesh Mohan T / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Appam_01.jpg'

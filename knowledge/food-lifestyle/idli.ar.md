@@ -95,7 +95,7 @@ dishFacts:
   eat: "Idli طعام فطور وtiffin: خفيف، مطهوّ بالبخار، وكثيراً ما يُوصف بأنه سهل الهضم. يُؤكل باليد، مقطوعاً أو مغموساً، يُسحب في sambar أو chutney جوز الهند، أو يُضغط في idli podi المُرخى بالزيت أو ghee. وقد تُقدَّم mini idli مقلّبة في podi أو منقوعة في sambar."
   where: "تجد idli في المطاعم النباتية الهندية الجنوبية ومطاعم ورق الموز، حيث تكون ثابتة في الصباح ووقت الشاي مع thosai وvadai، وفي أكشاك mamak، وفي مطابخ البيوت؛ وتختصّ بها بعض مقاهي كوالالمبور."
 hero: '/media/food/idli/hero.webp'
-heroAlt: 'Soft white steamed idli rice cakes arranged on a black plate beside a small bowl of reddish-brown sambar lentil stew with a spoon.'
+heroAlt: 'أقراص أرز إيدلي مطهوّة بالبخار بيضاء طريّة مرتّبة في طبق أسود، بجانبها وعاء صغير من يخنة عدس السامبار بلون بنّي محمرّ مع ملعقة.'
 heroCredit: 'Dr. Raju Kasambe / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Idli_Sambar_Food_by_Ms_Ujwala_Kasambe_DSCN9744_(2).jpg'

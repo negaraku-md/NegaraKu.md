@@ -102,7 +102,7 @@ dishFacts:
   eat: "ஒரு விழா, பெரிய-நிகழ்வுத் தட்டு: உங்கள் விருப்பக் கறியுடன் வாசனையூட்டப்பட்ட சோறு, பெரும்பாலும் ayam masak merah, acar, raita அல்லது தயிருடன், மற்றும் முந்திரி மற்றும் திராட்சையால் அலங்கரிக்கப்பட்டது."
   where: "நாடு முழுவதும் இந்திய-முஸ்லிம் மற்றும் mamak உணவகங்களில் அன்றாடம்; ஜொகூர் (முவார் மற்றும் பத்து பகாட்) beriani gam-க்காக அறியப்படுகிறது, திருமணங்கள் மற்றும் kenduri-யில் பரிமாறப்படுகிறது."
 hero: '/media/food/nasi-briyani/hero.webp'
-heroAlt: 'A mounded plate of golden saffron-tinted long-grain biryani rice studded with pieces of tender spiced chicken, served on a white plate.'
+heroAlt: 'வெள்ளைத் தட்டில் பரிமாறப்பட்ட, மென்மையான மசாலா கோழித் துண்டுகள் பதிக்கப்பட்ட, தங்க நிற குங்குமப்பூ கலந்த நீள தானிய பிரியாணி சாதக் குவியல்.'
 heroCredit: 'Umesh Tongbra / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dum_Biryani_Plate.jpg'

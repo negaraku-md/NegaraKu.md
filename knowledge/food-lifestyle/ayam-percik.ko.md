@@ -100,7 +100,7 @@ dishFacts:
   eat: "구이에서 바로 뜨겁게 밥과 함께 먹는다. 흔히 nasi kerabu 같은 동해안 요리와 함께 내며, 더 순한 흰색(putih)과 더 매운 붉은색(merah) 소스 방식으로 제공된다."
   where: "야시장(pasar malam)과 Ramadan(라마단) 시장의 주역으로, 특히 동해안과 Kelantan(클란탄)에서, 이제는 전국의 말레이 노점과 식당에서도 볼 수 있다."
 hero: '/media/food/ayam-percik/hero.webp'
-heroAlt: 'A char-grilled chicken quarter coated in creamy orange-red spiced coconut percik sauce on a green-rimmed plate.'
+heroAlt: '초록 테두리 접시에 담긴, 크리미한 주황빛 붉은 양념 코코넛 퍼칙 소스를 바른 숯불구이 닭 다리 부위.'
 heroCredit: 'Unilokman25 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ayam_Percik.jpg'

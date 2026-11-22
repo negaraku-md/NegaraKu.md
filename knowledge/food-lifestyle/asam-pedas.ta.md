@@ -102,7 +102,7 @@ dishFacts:
   eat: "அதன் குழம்புடன் சூடாக வேகவைத்த வெள்ளை அரிசிச் சோற்றுடன் பரிமாறப்படுகிறது, புளிப்பும் காரமும் மீனின் கொழுப்பை வெட்டுகின்றன; பெரும்பாலும் ஒரு குடும்ப அல்லது kedai உணவில் பகிரப்படும் பிரதான உணவாக உண்ணப்படுகிறது."
   where: "தீபகற்ப மலேசியா முழுவதும் வீட்டுச் சமையலறை மற்றும் மலாய் உணவகம் (kedai makan)-வின் முக்கிய உணவு, Melaka மற்றும் Johor அதனுடன் மிக நெருக்கமாக அடையாளப்படுத்தப்படும் மாநிலங்கள்."
 hero: '/media/food/asam-pedas/hero.webp'
-heroAlt: 'A whole fish in a glossy bright-red tamarind broth on a floral plate, surrounded by okra pods, tomato wedges and herbs.'
+heroAlt: 'பூ வேலைப்பாடு கொண்ட தட்டில், மினுமினுக்கும் பிரகாசமான சிவப்பு புளி குழம்பில் ஒரு முழு மீன், வெண்டைக்காய், தக்காளித் துண்டுகள் மற்றும் மூலிகைகளால் சூழப்பட்டுள்ளது.'
 heroCredit: 'Elly Suhailee / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:ASAM_PEDAS_IKAN_PARI.jpg'

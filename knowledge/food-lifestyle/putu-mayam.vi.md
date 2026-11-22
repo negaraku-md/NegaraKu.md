@@ -96,7 +96,7 @@ dishFacts:
   eat: "Thường được dọn nguội thay vì nóng, với dừa nạo và đường nâu hoặc đường thốt nốt (gula melaka); ăn bằng tay, đôi khi trên lá chuối, cho bữa sáng hoặc trà chiều."
   where: "Một món ăn vặt hàng rong di động và chợ, trong lịch sử được bán tận nhà từ xe đẩy, xe đạp và xe máy, và vẫn thấy ở các quầy và chợ đêm."
 hero: '/media/food/putu-mayam/hero.webp'
-heroAlt: 'Three coiled nests of pale-green string-hopper noodles topped with freshly grated white coconut on a white plate.'
+heroAlt: 'Ba vắt bún gạo putu mayam xanh nhạt cuộn tròn, rắc dừa trắng nạo tươi, trên đĩa trắng.'
 heroCredit: 'Salm Abdullah / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putu_mayang_2.jpg'

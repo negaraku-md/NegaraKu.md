@@ -102,7 +102,7 @@ dishFacts:
   eat: "طبق احتفالي للمناسبات الكبرى: أرز متبّل مع الكاري الذي تختاره، غالباً إلى جانب ayam masak merah وacar وraita أو الزبادي، ومزيّن بالكاجو والزبيب."
   where: "يومياً في مطاعم الهنود المسلمين وأكشاك mamak في أنحاء البلاد؛ وتشتهر جوهور (موار وباتو باهات) بـ beriani gam، ويُقدَّم في الأعراس وولائم kenduri."
 hero: '/media/food/nasi-briyani/hero.webp'
-heroAlt: 'A mounded plate of golden saffron-tinted long-grain biryani rice studded with pieces of tender spiced chicken, served on a white plate.'
+heroAlt: 'طبق مكوّم من أرز البرياني طويل الحبة بلون الزعفران الذهبي، مرصّع بقطع دجاج متبّل طريّ، مقدّم في طبق أبيض.'
 heroCredit: 'Umesh Tongbra / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dum_Biryani_Plate.jpg'

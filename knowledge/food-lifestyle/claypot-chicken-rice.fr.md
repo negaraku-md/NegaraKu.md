@@ -104,7 +104,7 @@ dishFacts:
   eat: "Servi grésillant dans la marmite en terre même où il cuit, avec une sauce soja foncée et épaisse versée et mélangée au riz, au poulet et à la saucisse ; les convives raclent la croûte croustillante du fond à la fin. Généralement cuit à la commande, il demande donc du temps."
   where: "Un plat de stand et de kopitiam que l'on trouve dans les cafés, les aires de restauration et les marchés nocturnes de toute la Malaisie, cuit une marmite à la fois sur charbon ou gaz ; la ville de Kampar, dans le Perak, lui est particulièrement associée."
 hero: '/media/food/claypot-chicken-rice/hero.webp'
-heroAlt: 'A rustic brown clay pot of steamed rice topped with braised chicken pieces, dark soy-glazed Chinese sausage and a scattering of chopped spring onion.'
+heroAlt: 'Une marmite en terre cuite brune et rustique de riz vapeur, garnie de morceaux de poulet braisé, de saucisse chinoise laquée de sauce soja foncée et de ciboule ciselée.'
 heroCredit: 'Lilblackdog29 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Claypot_chicken_rice.jpg'

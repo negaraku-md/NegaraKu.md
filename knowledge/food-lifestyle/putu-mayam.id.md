@@ -96,7 +96,7 @@ dishFacts:
   eat: "Biasanya disajikan dingin alih-alih panas, dengan kelapa parut dan gula merah atau gula aren (gula melaka); disantap dengan tangan, kadang di atas daun pisang, untuk sarapan atau minum teh sore."
   where: "Jajanan pedagang keliling dan pasar, secara historis dijual dari rumah ke rumah dengan gerobak dorong, sepeda, dan sepeda motor, dan masih ditemukan di gerai serta pasar malam."
 hero: '/media/food/putu-mayam/hero.webp'
-heroAlt: 'Three coiled nests of pale-green string-hopper noodles topped with freshly grated white coconut on a white plate.'
+heroAlt: 'Tiga gulungan putu mayam hijau pucat bertabur kelapa putih parut segar di piring putih.'
 heroCredit: 'Salm Abdullah / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putu_mayang_2.jpg'

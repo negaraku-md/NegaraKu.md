@@ -102,7 +102,7 @@ dishFacts:
   eat: "Servi chaud avec sa sauce et du riz blanc vapeur, l'acidité et le piment tranchant le gras du poisson ; il se mange le plus souvent en plat principal partagé lors d'un repas de famille ou au kedai."
   where: "Un plat principal incontournable des cuisines familiales et des restaurants malais (kedai makan) dans toute la Malaisie péninsulaire, Melaka et Johor étant les États qui lui sont le plus associés."
 hero: '/media/food/asam-pedas/hero.webp'
-heroAlt: 'A whole fish in a glossy bright-red tamarind broth on a floral plate, surrounded by okra pods, tomato wedges and herbs.'
+heroAlt: 'Un poisson entier dans un bouillon de tamarin rouge vif et brillant, dans une assiette à motifs floraux, entouré de gombos, de quartiers de tomate et d''herbes.'
 heroCredit: 'Elly Suhailee / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:ASAM_PEDAS_IKAN_PARI.jpg'

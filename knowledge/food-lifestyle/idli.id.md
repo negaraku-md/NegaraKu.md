@@ -95,7 +95,7 @@ dishFacts:
   eat: "Idli adalah makanan sarapan dan tiffin: ringan, dikukus, dan kerap digambarkan mudah dicerna. Ia disantap dengan tangan, disobek atau dicelup, diseret melalui sambar atau chutney kelapa, atau ditekan ke idli podi yang dilonggarkan dengan minyak atau ghee. Mini idli bisa disajikan diaduk dalam podi atau direndam dalam sambar."
   where: "Anda menemukan idli di restoran vegetarian India Selatan dan restoran daun pisang, tempat ia menjadi langganan pagi dan jam minum teh bersama thosai dan vadai, di gerai mamak, dan di dapur rumahan; beberapa kafe di Kuala Lumpur mengkhususkan diri padanya."
 hero: '/media/food/idli/hero.webp'
-heroAlt: 'Soft white steamed idli rice cakes arranged on a black plate beside a small bowl of reddish-brown sambar lentil stew with a spoon.'
+heroAlt: 'Kue beras kukus idli putih lembut tertata di piring hitam di samping semangkuk kecil kari lentil sambar cokelat kemerahan berikut sendok.'
 heroCredit: 'Dr. Raju Kasambe / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Idli_Sambar_Food_by_Ms_Ujwala_Kasambe_DSCN9744_(2).jpg'

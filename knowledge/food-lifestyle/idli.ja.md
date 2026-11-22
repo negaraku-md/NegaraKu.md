@@ -95,7 +95,7 @@ dishFacts:
   eat: "idli は朝食と tiffin の食べ物で、軽く、蒸されており、消化によいとよく言われる。手で、ちぎって、あるいは浸して食べ、sambar やココナッツ chutney にくぐらせ、または油か ghee でゆるめた idli podi に押し付ける。mini idli は podi にまぶすか sambar に浸して供されることがある。"
   where: "idli は南インドのベジタリアン店やバナナリーフ店で見られ、そこでは thosai や vadai とともに朝とティータイムの定番であり、mamak の屋台や家庭の台所でも見かける。クアラルンプールのいくつかのカフェはこれを専門にしている。"
 hero: '/media/food/idli/hero.webp'
-heroAlt: 'Soft white steamed idli rice cakes arranged on a black plate beside a small bowl of reddish-brown sambar lentil stew with a spoon.'
+heroAlt: '黒い皿に並べられた柔らかく白い蒸し米ケーキ（イドリー）と、その横にスプーンを添えた赤褐色のサンバル豆カレーの小鉢。'
 heroCredit: 'Dr. Raju Kasambe / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Idli_Sambar_Food_by_Ms_Ujwala_Kasambe_DSCN9744_(2).jpg'

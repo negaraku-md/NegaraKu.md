@@ -104,7 +104,7 @@ dishFacts:
   eat: "Disajikan mendesis dalam periuk tanah liat yang sama tempat ia dimasak, dengan kecap gelap pekat disiram dan diaduk ke dalam nasi, ayam, dan sosis; penyantap mengerik kerak garing di dasar pada akhirnya. Biasanya dimasak menurut pesanan, jadi butuh waktu."
   where: "Hidangan penjaja dan kopitiam yang ditemukan di kedai kopi, pujasera, dan pasar malam di seluruh Malaysia, dimasak satu periuk sekali waktu di atas arang atau gas; kota Kampar di Perak sangat terkait dengannya."
 hero: '/media/food/claypot-chicken-rice/hero.webp'
-heroAlt: 'A rustic brown clay pot of steamed rice topped with braised chicken pieces, dark soy-glazed Chinese sausage and a scattering of chopped spring onion.'
+heroAlt: 'Sebuah periuk tanah liat cokelat bersahaja berisi nasi kukus bertabur potongan ayam kecap, sosis Cina berlapis kecap pekat, dan taburan daun bawang cincang.'
 heroCredit: 'Lilblackdog29 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Claypot_chicken_rice.jpg'

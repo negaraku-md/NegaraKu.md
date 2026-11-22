@@ -102,7 +102,7 @@ dishFacts:
   eat: "Lazimnya dimakan pada waktu sarapan di Kuching, segar dan panas, dengan limau dan sambal belacan tambahan dihidangkan di tepi untuk melaraskan kemasaman dan kepedasan mengikut citarasa."
   where: "Hidangan kedai kopi dan gerai penjaja di seluruh Sarawak, dengan Kuching dianggap sebagai tanah airnya; pes laksa siap sedia juga telah menyebarkan mangkuk ini ke semenanjung Malaysia dan ke luar negara."
 hero: '/media/food/sarawak-laksa/hero.webp'
-heroAlt: 'A white bowl of Sarawak laksa with fine vermicelli noodles in a reddish-brown spiced broth, topped with a prawn, shredded chicken, bean sprouts and fresh coriander.'
+heroAlt: 'Semangkuk putih laksa Sarawak dengan bihun halus dalam kuah berempah coklat kemerahan, bertabur seekor udang, ayam suwir, taugeh dan daun ketumbar segar.'
 heroCredit: 'Richx10 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Sarawak_from_Chong_Choon_Cafe.jpg'

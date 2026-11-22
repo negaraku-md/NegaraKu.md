@@ -102,7 +102,7 @@ dishFacts:
   eat: "Se come habitualmente en el desayuno en Kuching, fresco y caliente, con lima y más sambal belacan al lado para ajustar la acidez y el picante al gusto."
   where: "Un plato de cafetería y puesto callejero por todo Sarawak, con Kuching considerada su hogar; las pastas de laksa listas para usar también han llevado el tazón a la península malasia y más allá."
 hero: '/media/food/sarawak-laksa/hero.webp'
-heroAlt: 'A white bowl of Sarawak laksa with fine vermicelli noodles in a reddish-brown spiced broth, topped with a prawn, shredded chicken, bean sprouts and fresh coriander.'
+heroAlt: 'Un cuenco blanco de laksa de Sarawak con fideos finos de arroz en un caldo especiado de color pardo rojizo, coronado con un langostino, pollo desmenuzado, brotes de soja y cilantro fresco.'
 heroCredit: 'Richx10 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Sarawak_from_Chong_Choon_Cafe.jpg'

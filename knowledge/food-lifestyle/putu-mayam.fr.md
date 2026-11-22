@@ -96,7 +96,7 @@ dishFacts:
   eat: "Se sert d'ordinaire froid plutôt que chaud, avec de la noix de coco râpée et du sucre roux ou de palme (gula melaka) ; se mange à la main, parfois sur une feuille de bananier, au petit-déjeuner ou au goûter."
   where: "Un en-cas de marchand ambulant et de marché, historiquement vendu de porte en porte depuis des charrettes, des vélos et des motos, et encore présent sur les étals et les marchés de nuit."
 hero: '/media/food/putu-mayam/hero.webp'
-heroAlt: 'Three coiled nests of pale-green string-hopper noodles topped with freshly grated white coconut on a white plate.'
+heroAlt: 'Trois nids enroulés de vermicelles de riz vert pâle (putu mayam) garnis de noix de coco blanche fraîchement râpée, sur une assiette blanche.'
 heroCredit: 'Salm Abdullah / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putu_mayang_2.jpg'

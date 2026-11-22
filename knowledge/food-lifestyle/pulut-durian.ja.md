@@ -100,7 +100,7 @@ dishFacts:
   eat: "温かいまま食べ、塩気のある塩辛いココナッツ米が、甘く香りの強いドリアンに引き立て合う。ドリアン・ココナッツの要素は白パンとともに、またはそれだけでも食べられる。"
   where: "ドリアンの季節の家庭、市場、甘味の屋台、とくにドリアンの産地で。果実が安く豊富なときに作られる。"
 hero: '/media/food/pulut-durian/hero.webp'
-heroAlt: 'A mound of white glutinous rice on a blue-patterned plate, draped with a thick golden-yellow durian sauce, a spoon resting alongside.'
+heroAlt: '青い模様の皿にのった白いもち米の山に、とろりとした黄金色のドリアンソースがかけられ、脇にスプーンが添えられている。'
 heroCredit: 'Taman Renyah / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ketan_saus_durian.jpg'

@@ -104,7 +104,7 @@ dishFacts:
   eat: "उसी मिट्टी की हाँडी में छनछनाती हुई परोसी जाती है जिसमें वह पकती है, गाढ़ी गहरी सोया सॉस डालकर चावल, चिकन और सॉसेज में मिलाई जाती है; खाने वाले अंत में तली की कुरकुरी पपड़ी खुरचते हैं। आमतौर पर ऑर्डर पर पकती है, इसलिए समय लगता है।"
   where: "मलेशिया भर में कॉफ़ी शॉपों, फ़ूड कोर्टों और रात के बाज़ारों में मिलने वाला एक फेरीवाला और kopitiam व्यंजन, कोयले या गैस पर एक बार में एक हाँडी पकाया जाता है; पेराक का Kampar कस्बा इससे विशेष रूप से जुड़ा है।"
 hero: '/media/food/claypot-chicken-rice/hero.webp'
-heroAlt: 'A rustic brown clay pot of steamed rice topped with braised chicken pieces, dark soy-glazed Chinese sausage and a scattering of chopped spring onion.'
+heroAlt: 'भूरे देसी मिट्टी के बर्तन (क्लेपॉट) में पकाए भाप वाले चावल, ऊपर दम किए चिकन के टुकड़े, गहरे सोया में लिपटी चीनी सॉसेज और कटी हरी प्याज़ का छिड़काव।'
 heroCredit: 'Lilblackdog29 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Claypot_chicken_rice.jpg'

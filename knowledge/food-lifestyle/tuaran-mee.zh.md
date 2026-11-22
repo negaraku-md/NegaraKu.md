@@ -101,7 +101,7 @@ dishFacts:
   eat: "通常趁刚离锅时作为炒面享用；同一种面也出现在汤里和干捞（'konlau'）版本中，以及诸如用 Lihing（Sabah 米酒）演绎的本地变体。"
   where: "一道根植于 Tuaran 镇、在 Kota Kinabalu 一带广泛供应的 Sabah 特色美食；有时被称为 Sabah 最著名的面食。"
 hero: '/media/food/tuaran-mee/hero.webp'
-heroAlt: 'A bright green plate piled with glossy wok-fried springy egg noodles, topped with sliced char siu, roast pork, prawns, scrambled egg and leafy greens.'
+heroAlt: '一个鲜绿色盘子上堆着油亮、锅炒的弹牙蛋面，上面放着叉烧片、烧肉、虾、炒蛋和青菜。'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tuaran_Sabah_TuaranMee-1.jpg'

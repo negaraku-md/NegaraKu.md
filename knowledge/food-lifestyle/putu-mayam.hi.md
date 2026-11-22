@@ -96,7 +96,7 @@ dishFacts:
   eat: "आमतौर पर गरम के बजाय ठंडा, कसे नारियल और भूरी चीनी या ताड़ की चीनी (gula melaka) के साथ परोसा जाता है; हाथ से, कभी-कभी केले के पत्ते पर, नाश्ते या दोपहर की चाय के लिए खाया जाता है।"
   where: "एक घूमने-वाले-फेरीवाले और बाज़ार का स्नैक, ऐतिहासिक रूप से हाथगाड़ियों, साइकिलों और मोटरसाइकिलों से घर-घर बेचा जाता था, और अब भी ठेलों तथा रात के बाज़ारों में मिलता है।"
 hero: '/media/food/putu-mayam/hero.webp'
-heroAlt: 'Three coiled nests of pale-green string-hopper noodles topped with freshly grated white coconut on a white plate.'
+heroAlt: 'सफेद प्लेट पर हल्के हरे रंग के स्ट्रिंग-हॉपर नूडल्स (पुटु मायम) की तीन कुंडलित लच्छियाँ, ऊपर ताज़ा कसा हुआ सफेद नारियल।'
 heroCredit: 'Salm Abdullah / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putu_mayang_2.jpg'

@@ -102,7 +102,7 @@ dishFacts:
   eat: "Một đĩa lễ hội cho dịp trọng đại: cơm nêm gia vị với cà ri bạn chọn, thường kèm ayam masak merah, acar, raita hoặc sữa chua, và trang trí bằng hạt điều và nho khô."
   where: "Thường ngày ở các quán Ấn-Hồi và mamak trên khắp cả nước; Johor (Muar và Batu Pahat) nổi tiếng với beriani gam, phục vụ trong đám cưới và kenduri."
 hero: '/media/food/nasi-briyani/hero.webp'
-heroAlt: 'A mounded plate of golden saffron-tinted long-grain biryani rice studded with pieces of tender spiced chicken, served on a white plate.'
+heroAlt: 'Một đĩa cơm briyani hạt dài vàng óng ánh màu nghệ tây, điểm những miếng thịt gà ướp gia vị mềm, bày trên đĩa trắng.'
 heroCredit: 'Umesh Tongbra / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dum_Biryani_Plate.jpg'

@@ -101,7 +101,7 @@ dishFacts:
   eat: "يُؤكل عادةً طازجاً خارجاً من المقلاة كطبق مقلي؛ وتظهر النودلز نفسها في الحساء وكنسخة مخلوطة جافة ('konlau')، وفي تنويعات محلية مثل نسخة تُصنع بـ Lihing (نبيذ أرز Sabah)."
   where: "طبق خاص بـ Sabah متجذّر في بلدة Tuaran ويُقدَّم على نطاق واسع حول Kota Kinabalu؛ ويُسمّى أحياناً أشهر طبق نودلز في Sabah."
 hero: '/media/food/tuaran-mee/hero.webp'
-heroAlt: 'A bright green plate piled with glossy wok-fried springy egg noodles, topped with sliced char siu, roast pork, prawns, scrambled egg and leafy greens.'
+heroAlt: 'طبق أخضر زاهٍ مكوّم بنودلز البيض المطّاطيّة المقليّة في المقلاة اللامعة، مغطّى بشرائح شار سيو ولحم الخنزير المشويّ والروبيان والبيض المخفوق والخضار الورقيّة.'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tuaran_Sabah_TuaranMee-1.jpg'

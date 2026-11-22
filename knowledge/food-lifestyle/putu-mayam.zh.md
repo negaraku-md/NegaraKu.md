@@ -96,7 +96,7 @@ dishFacts:
   eat: "通常放凉吃而非趁热吃，配椰丝和红糖或棕榈糖（gula melaka）；用手拿着吃，有时盛在香蕉叶上，作早餐或下午茶。"
   where: "一种流动小贩与市集小吃，历来以手推车、自行车和摩托车挨家挨户售卖，如今仍可在摊位和夜市（pasar malam）见到。"
 hero: '/media/food/putu-mayam/hero.webp'
-heroAlt: 'Three coiled nests of pale-green string-hopper noodles topped with freshly grated white coconut on a white plate.'
+heroAlt: '白色盘子上三团盘绕的淡绿色米粉丝（putu mayam），撒着新鲜刨丝的白椰丝。'
 heroCredit: 'Salm Abdullah / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putu_mayang_2.jpg'

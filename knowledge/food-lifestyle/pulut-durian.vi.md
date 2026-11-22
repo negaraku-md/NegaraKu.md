@@ -100,7 +100,7 @@ dishFacts:
   eat: "Ăn khi còn ấm, để cơm dừa mặn-đậm, có muối chơi với sầu riêng ngọt, nồng; thành phần sầu riêng-dừa cũng được ăn với bánh mì trắng hoặc ăn không."
   where: "Nhà, chợ và các quầy tráng miệng trong mùa sầu riêng, nhất là ở các vùng trồng sầu riêng; làm khi trái cây rẻ và dồi dào."
 hero: '/media/food/pulut-durian/hero.webp'
-heroAlt: 'A mound of white glutinous rice on a blue-patterned plate, draped with a thick golden-yellow durian sauce, a spoon resting alongside.'
+heroAlt: 'Một nắm xôi trắng trên đĩa hoa văn xanh, phủ lớp sốt sầu riêng vàng óng sánh đặc, một chiếc thìa đặt bên cạnh.'
 heroCredit: 'Taman Renyah / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ketan_saus_durian.jpg'

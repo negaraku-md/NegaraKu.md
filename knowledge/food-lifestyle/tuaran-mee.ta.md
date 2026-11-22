@@ -101,7 +101,7 @@ dishFacts:
   eat: "பொதுவாக வறுத்த தட்டாக வோக்கிலிருந்து புதிதாக உண்ணப்படுகிறது; அதே நூடுல் சூப்பிலும் உலர்-கலவை ('konlau') வகையாகவும் தோன்றுகிறது, மேலும் Lihing (Sabah அரிசி-மதுபானம்) கொண்டு செய்யப்படும் வகை போன்ற உள்ளூர் மாற்றங்களிலும் வருகிறது."
   where: "Tuaran நகரத்தில் வேரூன்றிய, Kota Kinabalu சுற்றிலும் பரவலாகப் பரிமாறப்படும் ஒரு Sabah சிறப்பு உணவு; சில நேரங்களில் Sabah-வின் மிகப் பிரபலமான நூடுல் உணவு என்று அழைக்கப்படுகிறது."
 hero: '/media/food/tuaran-mee/hero.webp'
-heroAlt: 'A bright green plate piled with glossy wok-fried springy egg noodles, topped with sliced char siu, roast pork, prawns, scrambled egg and leafy greens.'
+heroAlt: 'பிரகாசமான பச்சைத் தட்டில் குவிக்கப்பட்ட, மினுமினுக்கும் வோக்கில் வறுத்த கொழகொழப்பான முட்டை நூடுல்ஸ், மேலே char siu துண்டுகள், வறுத்த பன்றி இறைச்சி, இறால், குழைத்த முட்டை மற்றும் பசுங்கீரை.'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tuaran_Sabah_TuaranMee-1.jpg'

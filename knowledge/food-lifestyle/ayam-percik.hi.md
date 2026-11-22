@@ -100,7 +100,7 @@ dishFacts:
   eat: "भूनने से सीधे गरमागरम चावल के साथ खाया जाता है; अक्सर nasi kerabu जैसे पूर्वी तट के व्यंजनों के साथ परोसा जाता है, और हल्की सफ़ेद (putih) तथा अधिक तीखी लाल (merah) सॉस शैलियों में उपलब्ध होता है।"
   where: "रात के बाज़ारों (pasar malam) और Ramadan बाज़ारों का मुख्य आधार, खासकर पूर्वी तट पर और Kelantan में, और अब पूरे देश के मलय स्टॉलों और रेस्तराँ में मिलता है।"
 hero: '/media/food/ayam-percik/hero.webp'
-heroAlt: 'A char-grilled chicken quarter coated in creamy orange-red spiced coconut percik sauce on a green-rimmed plate.'
+heroAlt: 'हरे किनारे वाली प्लेट पर कोयले पर भुना चिकन का चौथाई हिस्सा, जिस पर मलाईदार नारंगी-लाल मसालेदार नारियल परचिक सॉस लिपटा है।'
 heroCredit: 'Unilokman25 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ayam_Percik.jpg'

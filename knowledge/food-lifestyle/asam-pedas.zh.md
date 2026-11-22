@@ -102,7 +102,7 @@ dishFacts:
   eat: "连汤趁热配白米饭食用，酸味与辣味化解鱼的油腴；通常是家庭餐桌或 kedai makan 一餐上众人分享的主菜。"
   where: "马来西亚半岛各地家庭厨房与马来餐馆（kedai makan）的常备主菜，其中 Melaka 和 Johor 是与它关系最密切的州属。"
 hero: '/media/food/asam-pedas/hero.webp'
-heroAlt: 'A whole fish in a glossy bright-red tamarind broth on a floral plate, surrounded by okra pods, tomato wedges and herbs.'
+heroAlt: '花纹盘子上一条整鱼浸在油亮鲜红的亚参（罗望子）汤汁中，周围是秋葵、番茄块和香草。'
 heroCredit: 'Elly Suhailee / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:ASAM_PEDAS_IKAN_PARI.jpg'

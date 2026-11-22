@@ -100,7 +100,7 @@ dishFacts:
   eat: "กินตอนอุ่น ๆ เพื่อให้ข้าวกะทิรสเค็มกลมกล่อมขับกับทุเรียนรสหวานกลิ่นแรง องค์ประกอบทุเรียน-กะทิยังกินกับขนมปังขาวหรือกินเปล่า ๆ ได้ด้วย"
   where: "บ้านเรือน ตลาด และแผงขายของหวานในช่วงฤดูทุเรียน โดยเฉพาะในพื้นที่ปลูกทุเรียน ทำกันเมื่อผลไม้ราคาถูกและมีมาก"
 hero: '/media/food/pulut-durian/hero.webp'
-heroAlt: 'A mound of white glutinous rice on a blue-patterned plate, draped with a thick golden-yellow durian sauce, a spoon resting alongside.'
+heroAlt: 'ข้าวเหนียวขาวกองหนึ่งบนจานลายสีน้ำเงิน ราดด้วยซอสทุเรียนสีเหลืองทองข้น มีช้อนวางอยู่ข้าง ๆ'
 heroCredit: 'Taman Renyah / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ketan_saus_durian.jpg'

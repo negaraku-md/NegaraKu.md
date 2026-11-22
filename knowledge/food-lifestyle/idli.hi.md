@@ -95,7 +95,7 @@ dishFacts:
   eat: "Idli एक नाश्ता और tiffin भोजन है: हल्का, भाप में पका और अक्सर आसानी से पचने वाला बताया जाता है। इसे हाथ से, तोड़कर या डुबोकर, sambar या नारियल chutney में सानकर, या तेल या ghee से ढीली की गई idli podi में दबाकर खाया जाता है। Mini idli को podi में सानकर या sambar में भिगोकर परोसा जा सकता है।"
   where: "आप idli को दक्षिण भारतीय शाकाहारी और केले के पत्ते वाले रेस्तराँ में पाते हैं, जहाँ यह thosai और vadai के साथ सुबह और चाय-समय की नियमित है, mamak स्टॉलों पर और घरेलू रसोइयों में; कुआलालंपुर के कुछ कैफ़े इसी में विशेषज्ञ हैं।"
 hero: '/media/food/idli/hero.webp'
-heroAlt: 'Soft white steamed idli rice cakes arranged on a black plate beside a small bowl of reddish-brown sambar lentil stew with a spoon.'
+heroAlt: 'काली प्लेट पर सजाए गए नरम सफेद भाप में पके इडली चावल के केक, जिनके बगल में चम्मच के साथ लाल-भूरे सांबर दाल की एक छोटी कटोरी है।'
 heroCredit: 'Dr. Raju Kasambe / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Idli_Sambar_Food_by_Ms_Ujwala_Kasambe_DSCN9744_(2).jpg'

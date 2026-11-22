@@ -96,7 +96,7 @@ dishFacts:
   eat: "ஆர்டருக்கு ஏற்பச் சமைக்கப்படுகிறது, விளிம்பு இன்னும் மொறுமொறுப்பாக இருக்கும்போது வாணலியிலிருந்து சூடாக உண்பது சிறந்தது; சாதா மற்றும் முட்டை வகைகள் கறி அல்லது சட்னியுடன் பொருந்துகின்றன, இனிப்பு வகை தனியே சிற்றுண்டியாக உண்ணப்படுகிறது."
   where: "இந்தியக் கடைகள் மற்றும் உணவகங்கள், சந்தைகள் மற்றும் இரவுச் சந்தைகளில் (pasar malam) விற்கப்படுகிறது, பெரும்பாலும் ஒரு வரிசை சிறிய வாணலிகளில் சமைக்கப்படுகிறது; பினாங் தெரு உணவின் ஒரு நிரந்தர அம்சமும் கூட, அங்கு இது மிகவும் வேறுபட்ட apom balik-உடன் அருகருகே இருக்கிறது."
 hero: '/media/food/appam/hero.webp'
-heroAlt: 'A bowl-shaped lacy white appam with a soft spongy centre and crisp golden-brown rim on a white plate, served with a bowl of yellow vegetable stew.'
+heroAlt: 'வெள்ளைத் தட்டில், மென்மையான பஞ்சுபோன்ற நடுப்பகுதியும் மொறுமொறுப்பான தங்கப் பழுப்பு விளிம்பும் கொண்ட கிண்ண வடிவ வலைப்பின்னல் வெள்ளை ஆப்பம், மஞ்சள் காய்கறி குழம்பு கிண்ணத்துடன் பரிமாறப்படுகிறது.'
 heroCredit: 'Ganesh Mohan T / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Appam_01.jpg'

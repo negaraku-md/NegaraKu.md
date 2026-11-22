@@ -102,7 +102,7 @@ dishFacts:
   eat: "बड़े अवसर की उत्सवी प्लेट: आपकी पसंद की करी के साथ मसालेदार चावल, अक्सर ayam masak merah, acar, raita या दही के साथ, और काजू तथा किशमिश से सजाया।"
   where: "देश भर में इंडियन-मुस्लिम और mamak भोजनालयों में रोज़ाना; जोहोर (मुआर और बातू पाहत) beriani gam के लिए जाना जाता है, जो विवाहों और kenduri में परोसा जाता है।"
 hero: '/media/food/nasi-briyani/hero.webp'
-heroAlt: 'A mounded plate of golden saffron-tinted long-grain biryani rice studded with pieces of tender spiced chicken, served on a white plate.'
+heroAlt: 'सफेद प्लेट में परोसे गए सुनहरे केसरिया रंग के लंबे दाने वाले बिरयानी चावल का ढेर, जिसमें नरम मसालेदार चिकन के टुकड़े जड़े हैं।'
 heroCredit: 'Umesh Tongbra / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dum_Biryani_Plate.jpg'

@@ -96,7 +96,7 @@ dishFacts:
   eat: "Cuit à la demande, meilleur mangé chaud à la sortie de la poêle tant que le bord est encore croustillant ; les versions nature et à l'œuf accompagnent currys ou chutney, la version sucrée se mange seule en en-cas."
   where: "Vendu dans les stands et établissements indiens, les marchés et les marchés de nuit (pasar malam), souvent cuit sur une rangée de petites poêles ; c'est aussi un incontournable de la cuisine de rue de Penang, où il côtoie l'apom balik bien différent."
 hero: '/media/food/appam/hero.webp'
-heroAlt: 'A bowl-shaped lacy white appam with a soft spongy centre and crisp golden-brown rim on a white plate, served with a bowl of yellow vegetable stew.'
+heroAlt: 'Un appam blanc en forme de bol au bord dentelé, au centre moelleux et spongieux et au rebord doré et croustillant, dans une assiette blanche, servi avec un bol de ragoût de légumes jaune.'
 heroCredit: 'Ganesh Mohan T / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Appam_01.jpg'

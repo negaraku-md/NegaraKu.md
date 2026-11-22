@@ -104,7 +104,7 @@ dishFacts:
   eat: "炊いたその同じ土鍋でジュージューと供され、濃口の濃い醤油をひと回しして、ご飯、鶏肉、腸詰に混ぜ込む。食べ手は最後に鍋底の香ばしいお焦げをこそげ取る。たいてい注文ごとに作るので時間がかかる。"
   where: "マレーシア各地のコーヒーショップ、フードコート、夜市で見られる屋台・kopitiam の料理で、炭火またはガスで一度に一鍋ずつ作る。Perak（ペラ）州の Kampar の町ととりわけ結びついている。"
 hero: '/media/food/claypot-chicken-rice/hero.webp'
-heroAlt: 'A rustic brown clay pot of steamed rice topped with braised chicken pieces, dark soy-glazed Chinese sausage and a scattering of chopped spring onion.'
+heroAlt: '素朴な茶色の土鍋に入った蒸しご飯の上に、煮込んだ鶏肉、濃い醤油を絡めた中華ソーセージ、刻みネギが散らされている。'
 heroCredit: 'Lilblackdog29 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Claypot_chicken_rice.jpg'

@@ -100,7 +100,7 @@ dishFacts:
   eat: "Dimakan hangat, supaya pulut santan yang gurih dan bergaram itu menentang durian yang manis lagi menyengat; unsur durian-santan itu juga dimakan dengan roti putih atau secara bersendirian."
   where: "Rumah, pasar dan gerai pencuci mulut semasa musim durian, terutamanya di kawasan penanaman durian; dibuat ketika buah itu murah dan melimpah."
 hero: '/media/food/pulut-durian/hero.webp'
-heroAlt: 'A mound of white glutinous rice on a blue-patterned plate, draped with a thick golden-yellow durian sauce, a spoon resting alongside.'
+heroAlt: 'Segumpal pulut putih di atas pinggan bercorak biru, disalut kuah durian kuning keemasan yang pekat, dengan sudu di sebelahnya.'
 heroCredit: 'Taman Renyah / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ketan_saus_durian.jpg'

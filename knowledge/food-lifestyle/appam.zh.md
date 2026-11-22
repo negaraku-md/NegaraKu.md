@@ -96,7 +96,7 @@ dishFacts:
   eat: "现点现做，最好趁热从锅里起来、边缘仍薄脆时享用；原味和加蛋版本配咖喱或酸辣酱，甜味版本则单独当零食吃。"
   where: "在印度人摊档与食肆、市场和夜市（pasar malam）售卖，常在一排小锅里煎制；也是槟城街头美食的常客，与颇为不同的 apom balik 并肩而立。"
 hero: '/media/food/appam/hero.webp'
-heroAlt: 'A bowl-shaped lacy white appam with a soft spongy centre and crisp golden-brown rim on a white plate, served with a bowl of yellow vegetable stew.'
+heroAlt: '白色盘子上一张碗状、带蕾丝边的白色阿帕姆（appam），中心松软、边缘金黄酥脆，配一碗黄色蔬菜咖喱。'
 heroCredit: 'Ganesh Mohan T / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Appam_01.jpg'

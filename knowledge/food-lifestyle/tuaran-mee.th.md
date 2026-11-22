@@ -101,7 +101,7 @@ dishFacts:
   eat: "โดยปกติกินสด ๆ จากกระทะเป็นจานผัด; เส้นเดียวกันยังปรากฏในแบบน้ำและแบบคลุกแห้ง ('konlau') และในการดัดแปลงท้องถิ่น เช่น เวอร์ชันที่ทำด้วย Lihing (เหล้าข้าวของ Sabah)"
   where: "อาหารพิเศษของ Sabah ที่หยั่งรากในเมือง Tuaran และเสิร์ฟอย่างแพร่หลายรอบ ๆ Kota Kinabalu; บางครั้งถูกเรียกว่าเป็นเมนูเส้นที่โด่งดังที่สุดของ Sabah"
 hero: '/media/food/tuaran-mee/hero.webp'
-heroAlt: 'A bright green plate piled with glossy wok-fried springy egg noodles, topped with sliced char siu, roast pork, prawns, scrambled egg and leafy greens.'
+heroAlt: 'จานสีเขียวสดกองด้วยบะหมี่ไข่เหนียวนุ่มผัดกระทะเป็นมันเงา โปะด้วยหมูแดงหั่น หมูย่าง กุ้ง ไข่คน และผักใบเขียว'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tuaran_Sabah_TuaranMee-1.jpg'

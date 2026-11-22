@@ -104,7 +104,7 @@ dishFacts:
   eat: "지은 바로 그 흙냄비에 지글거리며 나오고, 걸쭉한 진간장을 둘러 밥·닭고기·소시지에 섞는다. 먹는 이는 마지막에 바닥의 바삭한 누룽지를 긁어 먹는다. 대개 주문 즉시 짓기에 시간이 걸린다."
   where: "말레이시아 전역의 커피숍, 푸드코트, 야시장에서 볼 수 있는 노점·kopitiam 음식으로, 숯불이나 가스로 한 번에 한 냄비씩 짓는다. 페락주의 Kampar 읍과 특히 연관된다."
 hero: '/media/food/claypot-chicken-rice/hero.webp'
-heroAlt: 'A rustic brown clay pot of steamed rice topped with braised chicken pieces, dark soy-glazed Chinese sausage and a scattering of chopped spring onion.'
+heroAlt: '투박한 갈색 뚝배기에 담긴 찐 밥 위에 조린 닭고기 조각, 진한 간장을 입힌 중국식 소시지, 송송 썬 파가 뿌려져 있다.'
 heroCredit: 'Lilblackdog29 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Claypot_chicken_rice.jpg'

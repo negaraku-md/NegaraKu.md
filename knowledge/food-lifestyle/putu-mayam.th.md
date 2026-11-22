@@ -96,7 +96,7 @@ dishFacts:
   eat: "มักเสิร์ฟแบบเย็นมากกว่าแบบร้อน พร้อมมะพร้าวขูดและน้ำตาลทรายแดงหรือน้ำตาลโตนด (gula melaka); กินด้วยมือ บางครั้งบนใบตอง เป็นอาหารเช้าหรือของว่างยามบ่าย"
   where: "ของว่างของพ่อค้าแม่ค้าเร่ร่อนและตลาด ในอดีตขายตามบ้านด้วยรถเข็น จักรยาน และมอเตอร์ไซค์ และยังพบได้ตามแผงลอยและตลาดกลางคืน"
 hero: '/media/food/putu-mayam/hero.webp'
-heroAlt: 'Three coiled nests of pale-green string-hopper noodles topped with freshly grated white coconut on a white plate.'
+heroAlt: 'ขนมเส้นแป้งข้าวพุตตูมายัมสีเขียวอ่อนขดเป็นก้อนสามก้อนบนจานสีขาว โรยด้วยมะพร้าวขาวขูดสด'
 heroCredit: 'Salm Abdullah / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putu_mayang_2.jpg'

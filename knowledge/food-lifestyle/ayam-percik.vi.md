@@ -100,7 +100,7 @@ dishFacts:
   eat: "Ăn nóng ngay khi vừa ra lò với cơm; thường được dọn kèm các món Bờ Đông như nasi kerabu, và có ở các phong cách sốt trắng (putih) dịu hơn và đỏ (merah) cay hơn."
   where: "Món chủ lực của chợ đêm (pasar malam) và chợ Ramadan, nhất là ở Bờ Đông và tại Kelantan, và nay có mặt ở các quầy và nhà hàng Mã Lai trên khắp cả nước."
 hero: '/media/food/ayam-percik/hero.webp'
-heroAlt: 'A char-grilled chicken quarter coated in creamy orange-red spiced coconut percik sauce on a green-rimmed plate.'
+heroAlt: 'Một phần tư con gà nướng than phủ sốt percik dừa cay sánh màu đỏ cam, trên đĩa viền xanh.'
 heroCredit: 'Unilokman25 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ayam_Percik.jpg'

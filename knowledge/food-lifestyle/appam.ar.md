@@ -96,7 +96,7 @@ dishFacts:
   eat: "يُقلى حسب الطلب، ويُفضَّل أكله ساخنًا من المقلاة ما دامت الحافة مقرمشة؛ تتناسب النسختان السادة والبيض مع الكاري أو الشطني، وتُؤكل النسخة الحلوة وحدها كوجبة خفيفة."
   where: "يُباع في أكشاك ومطاعم الهنود والأسواق والأسواق الليلية (pasar malam)، وغالبًا يُطهى في صفّ من المقالي الصغيرة؛ وهو كذلك من ثوابت طعام الشارع في بينانغ، حيث يقف إلى جانب apom balik المختلف تمامًا."
 hero: '/media/food/appam/hero.webp'
-heroAlt: 'A bowl-shaped lacy white appam with a soft spongy centre and crisp golden-brown rim on a white plate, served with a bowl of yellow vegetable stew.'
+heroAlt: 'قرص أبّام أبيض مُخرّم على شكل وعاء، وسطه طريّ إسفنجيّ وحافّته ذهبيّة مقرمشة، في طبق أبيض، يُقدّم مع وعاء من يخنة الخضار الصفراء.'
 heroCredit: 'Ganesh Mohan T / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Appam_01.jpg'

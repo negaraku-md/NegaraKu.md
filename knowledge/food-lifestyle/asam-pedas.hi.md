@@ -102,7 +102,7 @@ dishFacts:
   eat: "अपनी तरी के साथ गरम, भाप में पके सफेद चावल के साथ परोसा जाता है, खटास और तीखाहट मछली की चिकनाहट को काटती हैं; अक्सर परिवार के या kedai के भोजन में साझा मुख्य व्यंजन के रूप में खाया जाता है।"
   where: "प्रायद्वीपीय मलेशिया भर में घरेलू रसोई और मलय रेस्तराँ (kedai makan) का प्रमुख व्यंजन, जिसमें Melaka और Johor इससे सबसे निकटता से पहचाने जाने वाले राज्य हैं।"
 hero: '/media/food/asam-pedas/hero.webp'
-heroAlt: 'A whole fish in a glossy bright-red tamarind broth on a floral plate, surrounded by okra pods, tomato wedges and herbs.'
+heroAlt: 'फूलों वाली प्लेट पर चमकीले चटक-लाल इमली के शोरबे में एक समूची मछली, जिसके चारों ओर भिंडी, टमाटर की फाँकें और जड़ी-बूटियाँ हैं।'
 heroCredit: 'Elly Suhailee / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:ASAM_PEDAS_IKAN_PARI.jpg'

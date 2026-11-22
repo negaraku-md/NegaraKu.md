@@ -96,7 +96,7 @@ dishFacts:
   eat: "Hecho a la plancha por encargo, mejor comido caliente recién salido de la sartén mientras el borde sigue crujiente; las versiones simple y con huevo acompañan curris o chutney, la versión dulce se come sola como tentempié."
   where: "Se vende en puestos y locales indios, mercados y mercados nocturnos (pasar malam), a menudo cocinado en una hilera de sartenes pequeñas; también un fijo de la comida callejera de Penang, donde convive con el muy distinto apom balik."
 hero: '/media/food/appam/hero.webp'
-heroAlt: 'A bowl-shaped lacy white appam with a soft spongy centre and crisp golden-brown rim on a white plate, served with a bowl of yellow vegetable stew.'
+heroAlt: 'Un appam blanco con forma de cuenco y borde de encaje, de centro suave y esponjoso y reborde dorado crujiente, en un plato blanco, servido con un cuenco de guiso de verduras amarillo.'
 heroCredit: 'Ganesh Mohan T / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Appam_01.jpg'

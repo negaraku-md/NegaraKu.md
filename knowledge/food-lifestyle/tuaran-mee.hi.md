@@ -101,7 +101,7 @@ dishFacts:
   eat: "आमतौर पर तली हुई प्लेट के रूप में वोक से ताज़ा खाया जाता है; वही नूडल सूप में और सूखी मिलाई गई ('konlau') किस्म में भी दिखता है, और Lihing (Sabah की चावल-शराब) से बनी किस्म जैसे स्थानीय रूपांतरों में भी।"
   where: "Tuaran कस्बे में जड़ें रखने वाला और Kota Kinabalu के आसपास व्यापक रूप से परोसा जाने वाला एक Sabah विशेष व्यंजन; कभी-कभी Sabah का सबसे प्रसिद्ध नूडल व्यंजन कहा जाता है।"
 hero: '/media/food/tuaran-mee/hero.webp'
-heroAlt: 'A bright green plate piled with glossy wok-fried springy egg noodles, topped with sliced char siu, roast pork, prawns, scrambled egg and leafy greens.'
+heroAlt: 'चमकीली हरी प्लेट पर कढ़ाई में तले चमकदार लचीले अंडा नूडल्स का ढेर, ऊपर कटा चार सिउ, भुना पोर्क, झींगे, फेंटा अंडा और हरी पत्तेदार सब्ज़ियाँ।'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tuaran_Sabah_TuaranMee-1.jpg'

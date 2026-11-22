@@ -96,7 +96,7 @@ dishFacts:
   eat: "Suele servirse frío en vez de caliente, con coco rallado y azúcar moreno o de palma (gula melaka); se come con la mano, a veces sobre una hoja de plátano, para el desayuno o la merienda."
   where: "Un tentempié de vendedor ambulante y de mercado, históricamente vendido de puerta en puerta desde carritos, bicicletas y motocicletas, y todavía se encuentra en puestos y mercados nocturnos."
 hero: '/media/food/putu-mayam/hero.webp'
-heroAlt: 'Three coiled nests of pale-green string-hopper noodles topped with freshly grated white coconut on a white plate.'
+heroAlt: 'Tres nidos enrollados de fideos de arroz verde pálido (putu mayam) cubiertos con coco blanco recién rallado en un plato blanco.'
 heroCredit: 'Salm Abdullah / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putu_mayang_2.jpg'

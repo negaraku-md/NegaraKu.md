@@ -101,7 +101,7 @@ dishFacts:
   eat: "يُقلى عادةً حتى يسخن ويُؤكل مع صلصة فلفل حلوة-حامضة-حارّة (فلفل مطحون وخلّ وملح وسكّر نخيل)؛ ويُباع طازجاً في بسطات الطرق والأسواق."
   where: "وجبة خفيفة لبسطات الطرق والأسواق في أنحاء Terengganu والساحل الشرقي الأوسع؛ وترتبط منطقة Losong في Kuala Terengganu به خصوصاً."
 hero: '/media/food/keropok-lekor/hero.webp'
-heroAlt: 'Long golden deep-fried keropok lekor fish sausages piled on a white plate beside a cup of red chilli dipping sauce.'
+heroAlt: 'أصابع كروبوك ليكور من سجق السمك المقليّ الذهبيّ الطويل مكوّمة في طبق أبيض، بجانب كوب من صلصة الفلفل الأحمر الحارّ للغمس.'
 heroCredit: 'Jpatokal / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Keropok_Lekor_Perhentians.jpg'

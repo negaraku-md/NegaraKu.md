@@ -102,7 +102,7 @@ dishFacts:
   eat: "大きな機会のための祝祭の一皿：スパイスを効かせた米に好みのカレー、しばしば ayam masak merah、acar、raita またはヨーグルトを添え、カシューナッツとレーズンで飾る。"
   where: "全国のインド系ムスリムおよび mamak の店で日常的に。ジョホール（ムアルとバトゥ・パハ）は beriani gam で知られ、結婚式や kenduri で供される。"
 hero: '/media/food/nasi-briyani/hero.webp'
-heroAlt: 'A mounded plate of golden saffron-tinted long-grain biryani rice studded with pieces of tender spiced chicken, served on a white plate.'
+heroAlt: '白い皿に盛られた、黄金色のサフラン色をした長粒のビリヤニご飯の山に、柔らかいスパイスチキンの塊がちりばめられている。'
 heroCredit: 'Umesh Tongbra / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dum_Biryani_Plate.jpg'

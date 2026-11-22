@@ -102,7 +102,7 @@ dishFacts:
   eat: "Kuching-இல் பொதுவாகக் காலை உணவாக, புதிதாகவும் சூடாகவும் உண்ணப்படுகிறது; புளிப்பையும் காரத்தையும் ருசிக்கேற்ப சரிசெய்ய எலுமிச்சையும் கூடுதல் sambal belacan-உம் பக்கத்தில் பரிமாறப்படுகிறது."
   where: "சரவாக் முழுவதும் காபிக் கடை மற்றும் தெருவணிகக் கடை உணவு, Kuching அதன் இல்லமாகக் கருதப்படுகிறது; தயாராகக் கிடைக்கும் laksa விழுதுகள் இந்தக் கிண்ணத்தை மலேசியத் தீபகற்பத்துக்கும் அதற்கு அப்பாலும் பரப்பியுள்ளன."
 hero: '/media/food/sarawak-laksa/hero.webp'
-heroAlt: 'A white bowl of Sarawak laksa with fine vermicelli noodles in a reddish-brown spiced broth, topped with a prawn, shredded chicken, bean sprouts and fresh coriander.'
+heroAlt: 'வெள்ளைக் கிண்ணத்தில் சரவாக் லக்சா, சிவப்புக் கலந்த பழுப்பு மசாலா குழம்பில் மெல்லிய ரைஸ் வெர்மிசெல்லி நூடுல்ஸ், மேலே ஒரு இறால், கிழித்த கோழிக்கறி, முளைக்கீரை மற்றும் புதிய கொத்தமல்லி.'
 heroCredit: 'Richx10 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Sarawak_from_Chong_Choon_Cafe.jpg'

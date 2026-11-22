@@ -101,7 +101,7 @@ dishFacts:
   eat: "Biasanya dimakan segar terus dari kuali sebagai pinggan goreng; mi yang sama turut muncul dalam sup dan sebagai versi gaul kering ('konlau'), serta dalam variasi tempatan seperti rendisi yang dibuat dengan Lihing (arak beras Sabah)."
   where: "Makanan istimewa Sabah yang berakar umbi di pekan Tuaran dan dihidangkan secara meluas sekitar Kota Kinabalu; kadangkala disebut sebagai hidangan mi paling terkenal di Sabah."
 hero: '/media/food/tuaran-mee/hero.webp'
-heroAlt: 'A bright green plate piled with glossy wok-fried springy egg noodles, topped with sliced char siu, roast pork, prawns, scrambled egg and leafy greens.'
+heroAlt: 'Sepinggan hijau terang ditimbun mi telur kenyal goreng kuali yang berkilat, bertabur hirisan char siu, daging babi panggang, udang, telur hancur dan sayur hijau.'
 heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tuaran_Sabah_TuaranMee-1.jpg'

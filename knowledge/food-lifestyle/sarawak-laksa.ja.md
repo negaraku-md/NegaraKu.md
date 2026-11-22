@@ -102,7 +102,7 @@ dishFacts:
   eat: "Kuching では一般に朝食として、できたての熱いうちに食べられ、酸味と辛さを好みに合わせて調整できるよう、ライムと追加の sambal belacan が添えられる。"
   where: "サラワク各地のコーヒーショップや屋台の料理で、Kuching がその故郷とされる。出来合いの laksa ペーストはこのボウルをマレー半島やその先へも広げてきた。"
 hero: '/media/food/sarawak-laksa/hero.webp'
-heroAlt: 'A white bowl of Sarawak laksa with fine vermicelli noodles in a reddish-brown spiced broth, topped with a prawn, shredded chicken, bean sprouts and fresh coriander.'
+heroAlt: '白い丼に入ったサラワク・ラクサ。赤褐色のスパイシーなスープに細いビーフンが入り、エビ、ほぐした鶏肉、もやし、生のコリアンダーがのっている。'
 heroCredit: 'Richx10 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Sarawak_from_Chong_Choon_Cafe.jpg'

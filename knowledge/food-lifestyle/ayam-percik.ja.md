@@ -100,7 +100,7 @@ dishFacts:
   eat: "焼きたてを熱いうちに米とともに食べる。しばしば nasi kerabu のような東海岸の料理と並べて供され、よりまろやかな白（putih）とより辛い赤（merah）のソースの様式で提供される。"
   where: "夜市（pasar malam）と Ramadan（断食月）の市場の定番で、とりわけ東海岸と Kelantan（クランタン）で、いまや全国のマレー系の屋台や食堂でも見られる。"
 hero: '/media/food/ayam-percik/hero.webp'
-heroAlt: 'A char-grilled chicken quarter coated in creamy orange-red spiced coconut percik sauce on a green-rimmed plate.'
+heroAlt: '緑の縁の皿にのった、クリーミーなオレンジがかった赤いスパイシーなココナッツ・プルチッ・ソースをまとった炭火焼きの鶏の四半身。'
 heroCredit: 'Unilokman25 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ayam_Percik.jpg'

@@ -102,7 +102,7 @@ dishFacts:
   eat: "มักกินเป็นอาหารเช้าใน Kuching สด ๆ และร้อน ๆ โดยมีมะนาวและ sambal belacan เพิ่มวางไว้ข้าง ๆ เพื่อปรับความเปรี้ยวและความเผ็ดตามใจชอบ"
   where: "อาหารของร้านกาแฟและแผงหาบเร่ทั่วซาราวัก โดยถือว่า Kuching เป็นบ้านของมัน พริกแกง laksa สำเร็จรูปยังได้พาชามนี้ไปสู่คาบสมุทรมาเลเซียและไกลออกไป"
 hero: '/media/food/sarawak-laksa/hero.webp'
-heroAlt: 'A white bowl of Sarawak laksa with fine vermicelli noodles in a reddish-brown spiced broth, topped with a prawn, shredded chicken, bean sprouts and fresh coriander.'
+heroAlt: 'ลักซาซาราวักในชามสีขาว เส้นหมี่ขาวเส้นเล็กในน้ำซุปเครื่องเทศสีน้ำตาลแดง โปะด้วยกุ้ง ไก่ฉีก ถั่วงอก และผักชีสด'
 heroCredit: 'Richx10 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Sarawak_from_Chong_Choon_Cafe.jpg'

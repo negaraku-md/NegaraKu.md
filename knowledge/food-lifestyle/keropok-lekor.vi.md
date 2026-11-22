@@ -101,7 +101,7 @@ dishFacts:
   eat: "Thường được chiên nóng và ăn với nước chấm ớt ngọt-chua-cay (ớt xay, giấm, muối và đường thốt nốt); bán tươi tại các quầy ven đường và chợ."
   where: "Món ăn vặt của quầy ven đường và chợ khắp Terengganu và bờ biển phía đông rộng hơn; vùng Losong của Kuala Terengganu gắn bó đặc biệt với nó."
 hero: '/media/food/keropok-lekor/hero.webp'
-heroAlt: 'Long golden deep-fried keropok lekor fish sausages piled on a white plate beside a cup of red chilli dipping sauce.'
+heroAlt: 'Những khúc chả cá chiên keropok lekor dài vàng óng chất đống trên đĩa trắng, bên cạnh một chén nước chấm ớt đỏ.'
 heroCredit: 'Jpatokal / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Keropok_Lekor_Perhentians.jpg'

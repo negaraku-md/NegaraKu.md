@@ -102,7 +102,7 @@ dishFacts:
   eat: "Kuching에서 흔히 아침 식사로, 갓 만들어 뜨거울 때 먹으며, 신맛과 매운맛을 취향대로 조절할 수 있도록 라임과 여분의 sambal belacan을 곁들여 낸다."
   where: "사라왁 전역의 커피숍과 노점 음식으로, Kuching이 그 본고장으로 여겨진다. 완제품 laksa 페이스트는 이 그릇을 말레이반도와 그 너머로도 퍼뜨렸다."
 hero: '/media/food/sarawak-laksa/hero.webp'
-heroAlt: 'A white bowl of Sarawak laksa with fine vermicelli noodles in a reddish-brown spiced broth, topped with a prawn, shredded chicken, bean sprouts and fresh coriander.'
+heroAlt: '흰 그릇에 담긴 사라왁 락사. 적갈색 양념 국물에 가는 쌀국수가 들어 있고, 새우 한 마리, 찢은 닭고기, 숙주, 신선한 고수가 올라가 있다.'
 heroCredit: 'Richx10 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Laksa_Sarawak_from_Chong_Choon_Cafe.jpg'

@@ -104,7 +104,7 @@ dishFacts:
   eat: "就盛在烹煮它的那只瓦煲里，趁热滋滋作响地上桌，淋上浓稠黑酱油并拌入米饭、鸡肉和腊肠；食客在最后把煲底焦脆锅巴刮起来吃。通常现点现做，所以需要等候。"
   where: "一道小贩与 kopitiam 菜式，见于马来西亚各地的咖啡店、美食广场和夜市，一次一煲地以炭火或煤气烹煮；霹雳州的 Kampar（金宝）镇与它尤其相关联。"
 hero: '/media/food/claypot-chicken-rice/hero.webp'
-heroAlt: 'A rustic brown clay pot of steamed rice topped with braised chicken pieces, dark soy-glazed Chinese sausage and a scattering of chopped spring onion.'
+heroAlt: '一个质朴的棕色砂锅盛着蒸饭，上面放着焖鸡块、深色酱油裹的腊肠和撒上的葱花。'
 heroCredit: 'Lilblackdog29 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Claypot_chicken_rice.jpg'

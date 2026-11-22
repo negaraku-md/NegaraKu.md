@@ -95,7 +95,7 @@ dishFacts:
   eat: "Idli 是一种早餐和 tiffin 食物：轻盈、蒸制，常被形容为易消化。它用手食用，撕开或蘸取，在 sambar 或椰子 chutney 中拖拉，或压入用油或 ghee 调稀的 idli podi 中。Mini idli 可能拌入 podi 或泡在 sambar 中食用。"
   where: "你可以在南印度素食餐厅和香蕉叶饭餐厅找到 idli，在那里它与 thosai 和 vadai 一同成为早晨和下午茶时段的常备，也可在 mamak 摊档和家庭厨房中找到；吉隆坡的一些咖啡馆专门经营它。"
 hero: '/media/food/idli/hero.webp'
-heroAlt: 'Soft white steamed idli rice cakes arranged on a black plate beside a small bowl of reddish-brown sambar lentil stew with a spoon.'
+heroAlt: '黑色盘子上摆放着柔软洁白的蒸米糕（idli），旁边是一小碗红褐色的桑巴扁豆糊和一把勺子。'
 heroCredit: 'Dr. Raju Kasambe / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Idli_Sambar_Food_by_Ms_Ujwala_Kasambe_DSCN9744_(2).jpg'

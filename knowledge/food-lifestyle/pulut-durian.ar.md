@@ -100,7 +100,7 @@ dishFacts:
   eat: "يُؤكل دافئاً، كي يتقابل أرز جوز الهند المالح اللذيذ مع الدوريان الحلو النفّاذ؛ كما يُؤكل عنصر الدوريان-جوز الهند مع الخبز الأبيض أو وحده."
   where: "البيوت والأسواق وبسطات الحلوى أثناء موسم الدوريان، لا سيّما في مناطق زراعة الدوريان؛ يُصنع حين تكون الفاكهة رخيصة ووفيرة."
 hero: '/media/food/pulut-durian/hero.webp'
-heroAlt: 'A mound of white glutinous rice on a blue-patterned plate, draped with a thick golden-yellow durian sauce, a spoon resting alongside.'
+heroAlt: 'كومة من الأرز الدبق الأبيض في طبق بزخارف زرقاء، مغطّاة بصلصة دوريان صفراء ذهبيّة كثيفة، وملعقة موضوعة بجانبها.'
 heroCredit: 'Taman Renyah / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ketan_saus_durian.jpg'

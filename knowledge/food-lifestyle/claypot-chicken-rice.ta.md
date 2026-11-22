@@ -104,7 +104,7 @@ dishFacts:
   eat: "அது சமைக்கப்படும் அதே களிமண் பானையில் கொதித்துக்கொண்டே பரிமாறப்படுகிறது, அடர்த்தியான கரும் சோயா சாஸ் தெளித்து சோறு, கோழி மற்றும் தொத்திறைச்சியுடன் கலக்கப்படுகிறது; உண்பவர்கள் இறுதியில் அடியில் உள்ள மொறுமொறுப்பான பொருக்கைச் சுரண்டி எடுக்கிறார்கள். பொதுவாக ஆர்டருக்கு ஏற்பச் சமைக்கப்படுவதால், அது நேரம் எடுக்கும்."
   where: "மலேசியா முழுவதும் காபிக்கடைகள், உணவு அங்காடிகள் மற்றும் இரவுச் சந்தைகளில் காணப்படும் ஒரு தெருவணிக மற்றும் kopitiam உணவு, கரி அல்லது எரிவாயு மீது ஒரு நேரத்தில் ஒரு பானையாகச் சமைக்கப்படுகிறது; Perak-ல் உள்ள Kampar நகரம் இதனுடன் குறிப்பாகத் தொடர்புடையது."
 hero: '/media/food/claypot-chicken-rice/hero.webp'
-heroAlt: 'A rustic brown clay pot of steamed rice topped with braised chicken pieces, dark soy-glazed Chinese sausage and a scattering of chopped spring onion.'
+heroAlt: 'கரடுமுரடான பழுப்பு மண் பானையில் ஆவியில் வேகவைத்த சாதம், மேலே கிச்சாப்பில் சமைத்த கோழித் துண்டுகள், கரும் சோயா பூசிய சீன தொத்திறைச்சி மற்றும் தூவிய வெங்காயத்தாள்.'
 heroCredit: 'Lilblackdog29 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Claypot_chicken_rice.jpg'

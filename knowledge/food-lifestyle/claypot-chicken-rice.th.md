@@ -104,7 +104,7 @@ dishFacts:
   eat: "เสิร์ฟร้อนฉ่าในหม้อดินใบเดียวกับที่หุง ราดซีอิ๊วดำข้นแล้วคลุกเข้ากับข้าว ไก่ และกุนเชียง ผู้กินขูดข้าวตังกรอบที่ก้นในตอนท้าย มักปรุงตามสั่ง จึงใช้เวลา"
   where: "อาหารของแผงหาบเร่และ kopitiam พบได้ตามร้านกาแฟ ศูนย์อาหาร และตลาดกลางคืนทั่วมาเลเซีย หุงทีละหม้อบนเตาถ่านหรือแก๊ส เมือง Kampar ในรัฐเประมีความเกี่ยวโยงกับมันเป็นพิเศษ"
 hero: '/media/food/claypot-chicken-rice/hero.webp'
-heroAlt: 'A rustic brown clay pot of steamed rice topped with braised chicken pieces, dark soy-glazed Chinese sausage and a scattering of chopped spring onion.'
+heroAlt: 'หม้อดินสีน้ำตาลทรงเรียบง่ายใส่ข้าวนึ่ง โปะด้วยชิ้นไก่ตุ๋น กุนเชียงจีนเคลือบซีอิ๊วดำ และต้นหอมซอยโรย'
 heroCredit: 'Lilblackdog29 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Claypot_chicken_rice.jpg'

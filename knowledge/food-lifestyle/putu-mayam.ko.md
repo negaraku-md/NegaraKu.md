@@ -96,7 +96,7 @@ dishFacts:
   eat: "뜨겁게가 아니라 식혀서, 간 코코넛과 흑설탕이나 야자설탕(gula melaka)과 함께 내는 것이 보통이다; 손으로, 때로 바나나 잎 위에서, 아침 식사나 오후 차로 먹는다."
   where: "떠돌이 행상과 시장의 간식으로, 역사적으로 손수레, 자전거, 오토바이로 집집마다 팔았고, 지금도 노점과 야시장에서 볼 수 있다."
 hero: '/media/food/putu-mayam/hero.webp'
-heroAlt: 'Three coiled nests of pale-green string-hopper noodles topped with freshly grated white coconut on a white plate.'
+heroAlt: '흰 접시에 담긴, 갓 간 흰 코코넛을 올린 연녹색 스트링호퍼 국수 세 덩이의 똬리.'
 heroCredit: 'Salm Abdullah / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putu_mayang_2.jpg'

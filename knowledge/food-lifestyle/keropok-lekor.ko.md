@@ -101,7 +101,7 @@ dishFacts:
   eat: "보통 뜨겁게 튀겨 새콤달콤 매운 고추 소스(간 고추, 식초, 소금, 야자설탕)와 함께 먹는다. 길가 노점과 시장에서 갓 만든 것을 판다."
   where: "Terengganu와 더 넓은 동해안 전역의 길가 노점과 시장 간식; Kuala Terengganu의 Losong 지역이 특히 이것과 연관된다."
 hero: '/media/food/keropok-lekor/hero.webp'
-heroAlt: 'Long golden deep-fried keropok lekor fish sausages piled on a white plate beside a cup of red chilli dipping sauce.'
+heroAlt: '흰 접시에 수북이 쌓인 길고 노릇하게 튀긴 생선 소시지 크로폭 레코르와, 그 옆의 붉은 고추 디핑 소스 한 컵.'
 heroCredit: 'Jpatokal / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Keropok_Lekor_Perhentians.jpg'

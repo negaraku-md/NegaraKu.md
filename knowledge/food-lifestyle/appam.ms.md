@@ -96,7 +96,7 @@ dishFacts:
   eat: "Digoreng mengikut pesanan, paling sedap dimakan panas-panas terus dari kuali selagi tepinya masih rangup; versi biasa dan telur sepadan dengan kari atau cutni, versi manis dimakan bersendirian sebagai snek."
   where: "Dijual di gerai dan kedai makan India, pasar dan pasar malam, selalunya dimasak dalam sebaris kuali kecil; juga satu kemestian makanan jalanan Pulau Pinang, tempat ia duduk bersebelahan dengan apom balik yang agak berbeza."
 hero: '/media/food/appam/hero.webp'
-heroAlt: 'A bowl-shaped lacy white appam with a soft spongy centre and crisp golden-brown rim on a white plate, served with a bowl of yellow vegetable stew.'
+heroAlt: 'Sekeping appam putih berenda berbentuk mangkuk dengan bahagian tengah yang lembut gebu dan tepi coklat keemasan rangup di atas pinggan putih, dihidang bersama semangkuk kari sayur kuning.'
 heroCredit: 'Ganesh Mohan T / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Appam_01.jpg'

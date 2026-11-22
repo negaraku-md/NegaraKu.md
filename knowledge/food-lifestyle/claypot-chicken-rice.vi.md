@@ -104,7 +104,7 @@ dishFacts:
   eat: "Dọn xèo xèo ngay trong chiếc niêu đất đã nấu nó, rưới xì dầu đen sánh rồi trộn đều với cơm, gà và lạp xưởng; người ăn cạo lớp cơm cháy giòn dưới đáy vào cuối bữa. Thường nấu theo yêu cầu nên mất thời gian."
   where: "Một món của hàng rong và kopitiam thấy ở các quán cà phê, khu ẩm thực và chợ đêm khắp Malaysia, nấu mỗi lần một niêu trên than hoặc gas; thị trấn Kampar ở bang Perak gắn bó với nó một cách đặc biệt."
 hero: '/media/food/claypot-chicken-rice/hero.webp'
-heroAlt: 'A rustic brown clay pot of steamed rice topped with braised chicken pieces, dark soy-glazed Chinese sausage and a scattering of chopped spring onion.'
+heroAlt: 'Một thố đất nung màu nâu mộc mạc đựng cơm hấp, bên trên là thịt gà kho, lạp xưởng phủ xì dầu sẫm màu và hành lá thái nhỏ rắc lên.'
 heroCredit: 'Lilblackdog29 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Claypot_chicken_rice.jpg'

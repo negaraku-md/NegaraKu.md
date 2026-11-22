@@ -100,7 +100,7 @@ dishFacts:
   eat: "Se come tibio, para que el arroz de coco sabroso y salado juegue contra el durián dulce y penetrante; el elemento de durián y coco también se come con pan blanco o solo."
   where: "Hogares, mercados y puestos de postres durante la temporada del durián, sobre todo en zonas productoras de durián; se elabora cuando la fruta es barata y abundante."
 hero: '/media/food/pulut-durian/hero.webp'
-heroAlt: 'A mound of white glutinous rice on a blue-patterned plate, draped with a thick golden-yellow durian sauce, a spoon resting alongside.'
+heroAlt: 'Un montículo de arroz glutinoso blanco en un plato de motivos azules, cubierto con una espesa salsa de durián amarillo dorado, con una cuchara al lado.'
 heroCredit: 'Taman Renyah / Wikimedia Commons'
 heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ketan_saus_durian.jpg'

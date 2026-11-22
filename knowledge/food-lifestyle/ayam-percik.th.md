@@ -100,7 +100,7 @@ dishFacts:
   eat: "กินร้อน ๆ จากเตาย่างกับข้าว มักเสิร์ฟเคียงกับอาหารชายฝั่งตะวันออกอย่าง nasi kerabu และมีให้เลือกในสไตล์ซอสขาว (putih) ที่อ่อนกว่าและแดง (merah) ที่เผ็ดกว่า"
   where: "ของหลักของตลาดกลางคืน (pasar malam) และตลาด Ramadan โดยเฉพาะที่ชายฝั่งตะวันออกและใน Kelantan (กลันตัน) และปัจจุบันพบได้ตามแผงและร้านอาหารมลายูทั่วประเทศ"
 hero: '/media/food/ayam-percik/hero.webp'
-heroAlt: 'A char-grilled chicken quarter coated in creamy orange-red spiced coconut percik sauce on a green-rimmed plate.'
+heroAlt: 'ไก่ย่างถ่านหนึ่งส่วนสี่ตัว เคลือบซอสเปอร์จิกกะทิปรุงเครื่องเทศสีส้มแดงเข้มข้น บนจานขอบสีเขียว'
 heroCredit: 'Unilokman25 / Wikimedia Commons'
 heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ayam_Percik.jpg'
