@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/textiles-apparel-industry/hero.webp'
+heroAlt: 'Pekerja menjahit dan mengemas pakaian di sepanjang barisan pemasangan di dalam sebuah kilang pakaian.'
+heroCredit: 'Tareq Salahuddin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Jauh sebelum Malaysia dikenali kerana cip komputer dan minyak sawit, ia membuat kain dan pakaian. Industri tekstil, pakaian dan kasut ialah salah satu sektor pembuatan moden tertua di negara ini — jenis perniagaan intensif buruh dan berorientasikan eksport yang membantu mencetuskan perindustrian pada 1970-an dan 1980-an. Hari ini ia sekeping kecil daripada ekonomi yang jauh lebih besar, tetapi ia kekal majikan sebenar, pengeksport mantap, dan sektor yang sedang cuba dibentuk semula secara aktif oleh kerajaan.

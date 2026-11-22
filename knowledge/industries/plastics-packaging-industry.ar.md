@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/plastics-packaging-industry/hero.webp'
+heroAlt: 'آلة حقن القوالب مزوّدة بذراع آليّة تضع صواني بلاستيكية مشكّلة حديثًا على سير ناقل داخل مصنع.'
+heroCredit: 'The robotic engineer1 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 يكاد كل منتج مادي يغادر مصنعًا ماليزيًا — علبة نودلز سريعة، أو هاتف ذكي، أو مصدّ سيارة، أو طول أنبوب ماء — يعتمد على بلاستيك شُكّل في مكان ما داخل البلاد. فالبلاستيك أحد نقاط القوة الصناعية الهادئة في ماليزيا: أقلّ بريقًا من أشباه الموصّلات، لكنه منسوج في كل قطاع تصنيعي آخر تقريبًا، وبصورة متزايدة في النقاش الوطني حول النفايات والاستدامة.

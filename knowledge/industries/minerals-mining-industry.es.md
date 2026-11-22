@@ -97,6 +97,13 @@ keywords:
   - JMG
   - Lynas
 framework: profile
+hero: '/media/industries/minerals-mining-industry/hero.webp'
+heroAlt: 'La draga de extracción de estaño TT5 conservada, erguida junto a un antiguo estanque minero en Perak, Malasia, reliquia de la era del dragado de estaño del país.'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TT5_Tin_Dredge_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 La economía moderna de Malasia fue, literalmente, excavada del suelo. Mucho antes del aceite de palma, la electrónica o los semiconductores, fue el **estaño** lo que hizo que la península importara al mundo: financió ferrocarriles, hizo crecer ciudades como Ipoh y Kuala Lumpur y atrajo a generaciones de mineros migrantes. La minería es la historia industrial más antigua del país y, aunque ya no domina la economía, se está reescribiendo discretamente en torno a un premio muy moderno: los elementos de tierras raras.

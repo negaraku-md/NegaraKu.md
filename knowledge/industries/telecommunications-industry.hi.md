@@ -100,6 +100,13 @@ revisions:
     reviewer: null
 framework: profile
 wikidata: "Q5621005"
+hero: '/media/industries/telecommunications-industry/hero.webp'
+heroAlt: 'साफ आसमान के सामने कई पैनल एंटीना वाले एक सेलुलर दूरसंचार टावर।'
+heroCredit: 'David Ratledge / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cellular_Telephone_Tower_-_Knoxville,_Tennessee_-_May_26,_2014.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 मलेशिया में लगभग हर कोई एक मोबाइल कनेक्शन रखता है, और अधिकांश घरों में किसी न किसी रूप में ब्रॉडबैंड है। यह दूरसंचार को देश के सबसे महत्वपूर्ण और सबसे परिपक्व उद्योगों में से एक बनाता है — डिजिटल अर्थव्यवस्था, ऑनलाइन बैंकिंग, ई-गवर्नमेंट और रोज़मर्रा के जीवन के नीचे की अदृश्य नलसाज़ी। फिर भी परिचित ब्रांड नामों के पीछे एक ऐसा बाज़ार बैठा है जो हाल के वर्षों में नाटकीय रूप से बदल गया है: कम ऑपरेटर, बड़े विलय और 5G बनाने के तरीके पर एक राष्ट्रीय प्रयोग।

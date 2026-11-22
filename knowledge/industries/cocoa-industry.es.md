@@ -107,6 +107,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/cocoa-industry/hero.webp'
+heroAlt: 'Dos grandes vainas verdes de cacao que crecen directamente del tronco de un árbol de cacao en una plantación sombreada.'
+heroCredit: 'Hanay / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cacao_fruit_in_C%C3%B4te_d''Ivoire_(11).JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Malasia es uno de los grandes procesadores de cacao del mundo que casi ha dejado de cultivarlo. En una sola generación, el país pasó de ser un productor de granos entre los cuatro primeros, con sus laderas de Sabah y la Malasia peninsular cargadas de mazorcas, a un lugar que importa granos por barcos enteros y apenas cosecha unos cientos de toneladas propias. Lo que permaneció, y prosperó, fue el extremo fabril: los molinos de molturación, las refinerías y las líneas de chocolate que convierten los granos importados en manteca, polvo, licor de cacao y confitería terminada para la exportación. El resultado es una "paradoja del cacao": una industria aguas abajo de talla mundial asentada sobre un sector aguas arriba que prácticamente ha desaparecido.

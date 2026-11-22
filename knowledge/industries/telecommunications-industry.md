@@ -99,6 +99,13 @@ revisions:
     reviewer: null
 framework: profile
 wikidata: "Q5621005"
+hero: '/media/industries/telecommunications-industry/hero.webp'
+heroAlt: 'A cellular telecommunications tower carrying multiple panel antennas against a clear sky.'
+heroCredit: 'David Ratledge / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cellular_Telephone_Tower_-_Knoxville,_Tennessee_-_May_26,_2014.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Almost everyone in Malaysia carries a mobile connection, and most homes have some form of broadband. That makes telecommunications one of the country's most important and most mature industries — the invisible plumbing beneath the digital economy, online banking, e-government and everyday life. Yet behind the familiar brand names sits a market that has changed dramatically in recent years: fewer operators, bigger mergers and a national experiment in how to build 5G.

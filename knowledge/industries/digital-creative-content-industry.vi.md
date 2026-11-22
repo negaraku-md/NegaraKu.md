@@ -114,6 +114,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/digital-creative-content-industry/hero.webp'
+heroAlt: 'Một studio sản xuất ghi hình chuyển động với sân khấu ghi hình kẻ ô lưới, giàn camera trên cao gắn trên khung trần và một trạm làm việc của người vận hành với nhiều màn hình.'
+heroCredit: 'Gabriela Cybulska / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bones_Studio_hala.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Khi _Upin & Ipin Universe_ của Les' Copaque đến với các máy console trên toàn thế giới vào **ngày 17 tháng 7 năm 2025**, nó đã khép lại một vòng tròn bắt đầu bằng một loạt phim hoạt hình ngắn về hai cậu bé song sinh tinh nghịch. Một bộ phim hoạt hình Malaysia đã trở thành một trò chơi điện tử được xuất bản toàn cầu — và một minh họa gọn gàng cho những gì ngành nội dung sáng tạo số của đất nước đã âm thầm xây dựng trong hai thập kỷ.

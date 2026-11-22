@@ -107,6 +107,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/medical-devices-industry/hero.webp'
+heroAlt: 'قوالب على شكل أيدٍ مغطّاة باللاتكس السائل على خطّ الغمس، وهي العملية الأساسية في تصنيع القفازات أحادية الاستخدام.'
+heroCredit: 'Marketingdepascale / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 إن سبق أن ارتديت قفازًا جراحيًا، أو سُحب دمك عبر قثطار، أو تعافيت بمساعدة غرسة عظمية، فثمة احتمال معقول أن الجهاز صُنع في ماليزيا. فإلى جانب قفازات المطاط الشهيرة، صارت البلاد بهدوء أهم مكان لتصنيع الأجهزة الطبية في جنوب شرق آسيا — وواحدة من أهم قواعد تصنيع التقنية الطبية في أي مكان في العالم.

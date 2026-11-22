@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/gig-platform-economy-industry/hero.webp'
+heroAlt: 'मलेशिया के पिनांग में एक सड़क चौराहे पर इंसुलेटेड डिलीवरी बॉक्स के साथ मोटरसाइकिल पर प्रतीक्षा करता एक खाद्य-वितरण राइडर।'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 हर दिन, मलेशिया में लाखों लेन-देन किसी दुकान, कार्यालय या टैक्सी-स्टैंड द्वारा नहीं, बल्कि एक ऐप द्वारा तय किए जाते हैं: सड़क के किनारे बुलाई गई एक कार, मोटरसाइकिल पर शहर के पार ले जाया गया भोजन का एक थैला, एक ऐसे ग्राहक के लिए डिज़ाइन किया गया लोगो जिससे फ़्रीलांसर कभी नहीं मिलेगा। यह है गिग एवं प्लेटफ़ॉर्म अर्थव्यवस्था — डिजिटल प्लेटफ़ॉर्मों द्वारा मध्यस्थता किया गया काम — और केवल एक दशक से कुछ अधिक समय में यह नवीनता से बढ़कर मलेशियाई कार्य-जीवन की सबसे दृश्यमान विशेषताओं में से एक बन गई है।

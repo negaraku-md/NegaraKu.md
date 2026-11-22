@@ -103,6 +103,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/aquaculture-industry/hero.webp'
+heroAlt: 'Hileras de jaulas flotantes de red para la cría de peces dispuestas sobre la superficie tranquila de un lago, con una caseta de vigilancia en un extremo.'
+heroCredit: 'Sophia Guevara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Foto_Keramba_Ikan_(Panatapan,_Parapat,_Simalungun).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 La mayor parte del pescado en el plato de una cena malasia todavía proviene del mar, pero una proporción que crece rápido ahora proviene de un estanque, una jaula o una balsa de línea larga. Eso es la acuicultura: el cultivo deliberado de vida acuática, en contraposición a atrapar lo que nada en estado silvestre. A medida que la captura silvestre de Malasia se estanca y la demanda de proteína aumenta, la acuicultura se ha convertido en la principal palanca del país para mantener el pescado en la mesa. Este artículo profundiza en el lado del cultivo del negocio; para el panorama más amplio, incluida la flota pesquera, el bienestar de los pescadores y la vigilancia, consulta la [panorámica de la industria pesquera](/es/agriculture/malaysian-fisheries-industry/).

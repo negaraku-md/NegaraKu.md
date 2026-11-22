@@ -108,6 +108,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/space-industry/hero.webp'
+heroAlt: 'Une station terrienne de satellite dotée d''une antenne parabolique, d''une antenne yagi et d''un radôme servant à suivre les engins spatiaux et à communiquer avec eux.'
+heroCredit: 'Satopsnz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Antennas_at_Awarua_Satellite_Ground_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 La Malaisie ne lance pas ses propres fusées, et pourtant elle a fait voler un astronaute, construit et exploité des microsatellites, et adopté une loi pour accorder des licences à l'activité spatiale privée avant la plupart de ses voisins. Son secteur spatial est restreint et discrètement stratégique — imbriqué dans la politique du haut débit, la défense, la surveillance des catastrophes et le prestige national. Ce guide cartographie l'agence, la loi, les satellites et les ambitions qui composent l'économie spatiale de la Malaisie.

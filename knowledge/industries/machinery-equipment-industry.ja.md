@@ -93,6 +93,13 @@ keywords:
   - Industry4WRD
   - MIDA
 framework: profile
+hero: '/media/industries/machinery-equipment-industry/hero.webp'
+heroAlt: 'CNC工作機械と作業員が並ぶ工場のフロア。機械・設備製造業に典型的な光景である。'
+heroCredit: 'Antoniusaw / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CNC_Machine_Facility.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 あらゆる工場は機械で動いている――そしてその機械は、誰かが作らねばならない。機械・装置（M&E）産業は、*他の*あらゆる産業が依存する生産ライン、プロセス機械、金属加工工具、動力システム、自動化を作る、製造業の一部である。経済の中で最も目立たない大産業であり、まさにその理由ゆえに、最も戦略的に重要なものの一つである。

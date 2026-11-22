@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/chemicals-petrochemicals-industry/hero.webp'
+heroAlt: 'Kompleks loji penapisan petrokimia yang luas bergemerlapan pada waktu malam, dengan menara penyulingan dan paip-paipnya bersinar di sisi obor pembakaran gas berhampiran kawasan tepi air.'
+heroCredit: 'Makubex1985 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Plastik, baja, detergen, getah sintetik, kosmetik, cat dan resin di dalam sarung telefon anda semuanya bermula sebagai bahan kimia — dan sebahagian yang mengejutkan daripadanya, atau blok binaannya, dibuat di Malaysia. Di sebalik kisah minyak-dan-gas serta minyak sawit yang lebih terkenal di negara ini, terletak sebuah industri kimia dan petrokimia yang besar dan secara senyap bersifat strategik, yang menukarkan hidrokarbon mentah dan minyak sayuran menjadi bahan yang menjadi sandaran kehidupan moden.

@@ -86,6 +86,13 @@ relations:
 related: []
 keywords: ["industri pembinaan", "CIDB", "gred kontraktor", "G1 G7", "Akta 520", "kad hijau", "pendaftaran kontraktor", "NCP 2030", "CITP"]
 framework: rules
+hero: '/media/industries/construction-industry/hero.webp'
+heroAlt: '쿠알라룸푸르의 고층 건축 현장의 깊은 기초 굴착 현장으로, 타워 크레인과 붉은색 버팀대, 작업자들이 있고 그 뒤로 도시 스카이라인이 펼쳐진다.'
+heroCredit: 'InterEdit88 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 계약자 등록 증서를 소지하지 않은 채 RM250,000짜리 학교 담장을 세워 보십시오. 첫 기둥을 박기도 전에 프로젝트가 즉시 중지 명령을 받을 수 있습니다. 말레이시아에서 건설할 권리는 기계나 노동에서 시작하지 않습니다 — 그것은 하나의 등록부에서 시작합니다.

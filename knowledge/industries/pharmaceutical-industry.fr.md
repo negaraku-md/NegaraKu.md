@@ -98,6 +98,13 @@ keywords:
   - remplissage-finition de vaccins
   - BPF PIC/S
 framework: profile
+hero: '/media/industries/pharmaceutical-industry/hero.webp'
+heroAlt: 'Des flacons de médicament bouchés avançant sur un convoyeur automatisé d''une ligne de fabrication pharmaceutique.'
+heroCredit: 'Josep Lago, European Commission / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Chaque fois qu'un Malaisien fait exécuter une ordonnance pour un antibiotique, un antalgique ou un comprimé contre l'hypertension, il y a de bonnes chances que le médicament ait été fabriqué en Malaisie — non pas inventé ici, mais formulé, comprimé, rempli et conditionné dans une usine locale travaillant selon des normes de fabrication internationales. C'est le cœur de l'industrie pharmaceutique de la Malaisie : une base de fabrication solide, axée sur les génériques, qui garde la pharmacie nationale approvisionnée, associée à deux paris plus ambitieux — les produits pharmaceutiques halal et la production de vaccins — dont le pays espère qu'ils le feront monter dans la chaîne de valeur.

@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/chemicals-petrochemicals-industry/hero.webp'
+heroAlt: 'A sprawling petrochemical refinery complex lit up at night, its distillation towers and pipework glowing beside a flare stack burning off gas near the waterfront.'
+heroCredit: 'Makubex1985 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Plastics, fertilisers, detergents, synthetic rubber, cosmetics, paints and the resins inside your phone casing all start as chemicals — and a surprising share of them, or their building blocks, are made in Malaysia. Behind the country's better-known oil-and-gas and palm-oil stories sits a large, quietly strategic chemicals and petrochemicals industry that turns raw hydrocarbons and vegetable oils into the materials modern life depends on.

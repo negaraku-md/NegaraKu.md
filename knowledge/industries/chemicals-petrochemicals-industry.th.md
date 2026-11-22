@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/chemicals-petrochemicals-industry/hero.webp'
+heroAlt: 'โรงกลั่นปิโตรเคมีขนาดใหญ่ส่องสว่างในยามค่ำคืน หอกลั่นและระบบท่อเปล่งแสงอยู่ข้างปล่องเผาแก๊สที่กำลังเผาแก๊สทิ้งใกล้ริมน้ำ'
+heroCredit: 'Makubex1985 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 พลาสติก ปุ๋ย ผงซักฟอก ยางสังเคราะห์ เครื่องสำอาง สี และเรซินภายในเคสโทรศัพท์ของคุณ ล้วนเริ่มต้นจากเคมีภัณฑ์ — และสัดส่วนที่น่าประหลาดใจของสิ่งเหล่านี้ หรือองค์ประกอบพื้นฐานของมัน ถูกผลิตขึ้นในมาเลเซีย เบื้องหลังเรื่องราวน้ำมัน-ก๊าซและน้ำมันปาล์มที่เป็นที่รู้จักกว่า คืออุตสาหกรรมเคมีและปิโตรเคมีขนาดใหญ่ที่เงียบ ๆ แต่มีความสำคัญเชิงยุทธศาสตร์ ซึ่งแปรไฮโดรคาร์บอนดิบและน้ำมันพืชให้กลายเป็นวัสดุที่ชีวิตสมัยใหม่พึ่งพา

@@ -103,6 +103,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/aquaculture-industry/hero.webp'
+heroAlt: 'Barisan sangkar jaring terapung untuk ternakan ikan disusun merentasi permukaan tasik yang tenang, dengan pondok penjaga di satu hujungnya.'
+heroCredit: 'Sophia Guevara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Foto_Keramba_Ikan_(Panatapan,_Parapat,_Simalungun).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Kebanyakan ikan di pinggan makan malam rakyat Malaysia masih datang dari laut — tetapi bahagian yang semakin membesar kini datang dari sebuah kolam, sangkar atau rakit tali panjang. Itulah akuakultur: penternakan hidupan akuatik yang disengajakan, berbeza daripada menangkap apa yang berenang di alam liar. Apabila tangkapan liar Malaysia mendatar dan permintaan protein meningkat, akuakultur telah menjadi tuas utama negara untuk mengekalkan ikan di atas meja. Artikel ini meneliti secara mendalam bahagian ternak perniagaan ini; untuk gambaran yang lebih luas, termasuk armada perikanan, kebajikan nelayan dan penguatkuasaan, lihat [gambaran keseluruhan industri perikanan](/agriculture/malaysian-fisheries-industry/).

@@ -95,6 +95,13 @@ keywords:
   - Samsung SDI
   - EV adoption
 framework: profile
+hero: '/media/industries/electric-vehicle-battery-industry/hero.webp'
+heroAlt: 'マレーシアの高速道路のサービスエリアで、電気自動車用に区画された駐車スペースに直流急速充電器が設置されている。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 マレーシアは半世紀にわたって車を作ってきた。いまや同国はそれを電化しようとしており――そして同じくらい重要なことに、電気自動車が依存するバッテリーを作り、充電網を築こうとしている。これは、主にガソリン車とディーゼル車についての物語である[マレーシアの自動車産業](/ja/industries/automotive-industry/)のガイドとは別の物語だ。ここでの主題はEV・バッテリーの*エコシステム*である。すなわち、車両、優遇措置、充電器、そして工場――これらが相まって、マレーシアがどれだけ速く電気モビリティへ移行するかを決める。

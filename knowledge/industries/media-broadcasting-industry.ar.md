@@ -101,6 +101,13 @@ revisions:
     reviewer: null
 framework: profile
 wikidata: "Q6805904"
+hero: '/media/industries/media-broadcasting-industry/hero.webp'
+heroAlt: 'مجمّع أنغكاسابوري للبثّ في كوالالمبور، مقرّ هيئة البثّ العامّة الوطنية في ماليزيا.'
+heroCredit: 'Two hundred percent / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angkasapuri,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 حين يتحدّث الماليزيون عن «الإعلام»، يعنون عادةً اسمًا من أسماء مألوفة قليلة: طبق Astro الفضائي المثبّت على جانب المنزل، أو نشرة أخبار TV3، أو برنامج إذاعي صباحي في طريق العمل، أو — بصورة متزايدة — أيًّا كان ما يُعرَض على هاتف أثناء التنقّل. وتنتمي نقاط اللمس اليومية تلك إلى صناعة واحدة متشعّبة: الإعلام والبثّ. وهي أحد أكثر قطاعات الخدمات ظهورًا في البلاد، وأحد أكثرها تعرّضًا للاضطراب.

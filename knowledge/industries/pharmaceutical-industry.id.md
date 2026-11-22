@@ -98,6 +98,13 @@ keywords:
   - fill-finish vaksin
   - PIC/S GMP
 framework: profile
+hero: '/media/industries/pharmaceutical-industry/hero.webp'
+heroAlt: 'Vial obat bertutup bergerak di sepanjang konveyor otomatis pada lini manufaktur farmasi.'
+heroCredit: 'Josep Lago, European Commission / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Setiap kali seorang warga Malaysia menebus resep antibiotik, pereda nyeri, atau tablet tekanan darah, ada kemungkinan besar obat itu dibuat di Malaysia — bukan ditemukan di sini, melainkan diformulasikan, dicetak, diisi, dan dikemas di pabrik lokal yang bekerja menurut standar manufaktur internasional. Itulah jantung industri farmasi Malaysia: basis manufaktur yang kokoh dan dipimpin generik yang menjaga lemari obat nasional tetap terisi, dipadukan dengan dua taruhan yang lebih ambisius — farmasi halal dan produksi vaksin — yang diharapkan negara ini akan membawanya naik di rantai nilai.

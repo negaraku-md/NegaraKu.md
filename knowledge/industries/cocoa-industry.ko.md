@@ -107,6 +107,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/cocoa-industry/hero.webp'
+heroAlt: '그늘진 농장에서 카카오 나무의 줄기에서 직접 자라고 있는 두 개의 큰 초록색 카카오 꼬투리.'
+heroCredit: 'Hanay / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cacao_fruit_in_C%C3%B4te_d''Ivoire_(11).JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 말레이시아는 코코아 재배를 거의 멈춘, 세계 굴지의 코코아 가공국이다. 한 세대 만에 이 나라는 사바와 반도 말레이시아의 언덕이 꼬투리로 가득했던 세계 4대 원두 생산국에서, 원두를 선박 단위로 수입하면서 자국 원두는 연간 수백 톤밖에 수확하지 못하는 나라로 바뀌었다. 남아서 번창한 것은 공장 쪽, 즉 수입 원두를 코코아버터, 분말, 리큐어, 완제품 과자로 바꿔 수출하는 분쇄 공장, 정제소, 초콜릿 생산라인이었다. 그 결과가 "코코아 역설"이다 - 거의 사라진 상류 부문 위에 세계적 수준의 하류 산업이 올라앉아 있다.

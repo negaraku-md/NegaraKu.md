@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/plastics-packaging-industry/hero.webp'
+heroAlt: 'เครื่องฉีดพลาสติกที่ติดตั้งแขนกลกำลังวางถาดพลาสติกที่เพิ่งขึ้นรูปเสร็จลงบนสายพานลำเลียงในโรงงาน'
+heroCredit: 'The robotic engineer1 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 สินค้าทางกายภาพแทบทุกชิ้นที่ออกจากโรงงานมาเลเซีย — บะหมี่กึ่งสำเร็จรูปสักซอง สมาร์ตโฟน กันชนรถยนต์ ท่อน้ำสักท่อน — ล้วนพึ่งพาพลาสติกที่ถูกขึ้นรูปที่ไหนสักแห่งในประเทศ พลาสติกเป็นหนึ่งในความแข็งแกร่งทางอุตสาหกรรมที่เงียบ ๆ ของมาเลเซีย: ไม่หวือหวาเท่าเซมิคอนดักเตอร์ แต่ถักทออยู่ในแทบทุกภาคการผลิตอื่น และเพิ่มมากขึ้นเรื่อย ๆ ในการถกเถียงระดับชาติเรื่องขยะและความยั่งยืน

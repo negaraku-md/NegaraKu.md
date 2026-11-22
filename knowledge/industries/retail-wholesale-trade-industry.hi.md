@@ -96,6 +96,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/retail-wholesale-trade-industry/hero.webp'
+heroAlt: 'मलेशिया के कुआलालंपुर में NU Sentral शॉपिंग मॉल के बहु-मंजिला आलिंद में फैले खरीदार, दुकानें और खुदरा कियोस्क।'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_NU_Sentral,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 एक मलेशियाई भौतिक वस्तुओं पर जो लगभग हर रिंगिट खर्च करता है — किराना, एक फ़ोन, एक कार, खाना पकाने के तेल की एक बोतल — वह खुदरा और थोक व्यापार से होकर गुज़रता है। यह रोज़मर्रा के उपभोग की नलसाज़ी है: आयातकों, थोक विक्रेताओं, वितरकों, दुकानों, बाज़ारों और ऑनलाइन स्टोरों का वह नेटवर्क जो उत्पादों को उनके निर्माण-स्थल से उनके खरीद-स्थल तक पहुँचाता है। अधिकारी इस नेटवर्क को **वितरण व्यापार** कहते हैं, और यह मलेशियाई अर्थव्यवस्था के सबसे बड़े और सबसे दृश्यमान हिस्सों में से एक है।

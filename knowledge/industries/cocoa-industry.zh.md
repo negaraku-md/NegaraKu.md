@@ -107,6 +107,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/cocoa-industry/hero.webp'
+heroAlt: '两颗大的绿色可可荚直接长在遮荫种植园里一棵可可树的树干上。'
+heroCredit: 'Hanay / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cacao_fruit_in_C%C3%B4te_d''Ivoire_(11).JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 马来西亚是全球可可加工大国之一，却几乎已停止种植可可。在短短一代人的时间里，这个国家从一个全球四大可可豆生产国——沙巴和马来半岛的山坡上曾结满可可荚——变成了一个靠整船进口可可豆、自身却仅收获区区数百吨的地方。留存下来并蓬勃发展的，是工厂端：将进口可可豆转化为可可脂、可可粉、可可液块和成品糖果以供出口的研磨厂、精炼厂和巧克力生产线。由此形成了一种"可可悖论"——一个世界级的下游产业坐落在一个几乎消失殆尽的上游之上。

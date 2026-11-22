@@ -103,6 +103,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/aquaculture-industry/hero.webp'
+heroAlt: '養魚用の浮き網いけすが列をなして静かな湖面に並び、その一端に管理人の小屋が建っている。'
+heroCredit: 'Sophia Guevara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Foto_Keramba_Ikan_(Panatapan,_Parapat,_Simalungun).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシアの食卓に並ぶ魚の大半は今も海から来ている。しかし今や、増え続ける一部は池、生け簀、あるいは延縄のいかだから来ている。それが養殖だ。天然のものを捕まえるのとは対照的に、水生生物を意図的に育てることである。マレーシアの天然漁獲が頭打ちになり、タンパク質への需要が高まるにつれ、養殖は食卓に魚を乗せ続けるための国の主要なてことなった。本稿では養殖側のビジネスを深く掘り下げる。漁船団、漁民の福祉、取り締まりを含むより広い全体像については、[漁業産業の概観](/ja/agriculture/malaysian-fisheries-industry/)を参照されたい。

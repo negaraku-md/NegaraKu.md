@@ -83,6 +83,13 @@ relations:
 related: ["johor-singapore-special-economic-zone"]
 keywords: ["मलेशिया डेटा सेंटर", "Malaysia data centre", "क्लाउड अवसंरचना", "cloud infrastructure", "जोहोर डेटा सेंटर", "Johor data centre", "DESAC incentive", "डेटा सेंटर बिजली पानी", "hyperscale Malaysia"]
 framework: profile
+hero: '/media/industries/data-centre-cloud-industry/hero.webp'
+heroAlt: 'नीली चमकती स्थिति रोशनियों वाले सर्वर रैक की पंक्तियाँ एक डेटा सेंटर के गलियारे को भर देती हैं।'
+heroCredit: 'BalticServers.com / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 2019 में, सिंगापुर ने बड़े नए डेटा सेंटरों को मंज़ूरी देना बंद कर दिया। चार वर्षों के भीतर, जिन सर्वरों को उसने ठुकरा दिया था, उन्होंने कॉज़वे के पार बीस मिनट की दूरी पर एक नया उद्योग खड़ा कर दिया — और जोहोर एक शांत मलेशियाई राज्य से दक्षिण-पूर्व एशिया का सबसे व्यस्त डेटा सेंटर बाज़ार बन गया।

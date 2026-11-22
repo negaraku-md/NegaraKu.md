@@ -110,6 +110,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/pepper-industry/hero.webp'
+heroAlt: 'Des rangées de plants de poivre noir palissés sur des tuteurs en bois dans une plantation du Sarawak, le principal État producteur de poivre de la Malaisie.'
+heroCredit: 'Nick Allen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plant_climbing_poles.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Le poivre est l'un des produits agricoles les plus anciens et les plus géographiquement distinctifs de la Malaisie : une liane importée du sous-continent indien et de Sumatra qui a trouvé son habitat idéal dans les collines humides et bien drainées du Sarawak, où elle est devenue l'ossature de milliers de petites exploitations rurales. Bien que la Malaisie soit un acteur modeste en volume mondial, elle pèse plus que son poids par sa réputation, vendant un « poivre de Sarawak » premium et certifié d'origine sur des marchés exigeants. Cet article présente la structure, la géographie, le commerce et les perspectives du secteur en tant qu'industrie à part entière.

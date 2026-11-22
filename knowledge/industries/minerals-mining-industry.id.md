@@ -97,6 +97,13 @@ keywords:
   - JMG
   - Lynas
 framework: profile
+hero: '/media/industries/minerals-mining-industry/hero.webp'
+heroAlt: 'Kapal keruk timah TT5 yang terpelihara berdiri di samping bekas kolam penambangan di Perak, Malaysia, peninggalan era pengerukan timah negeri ini.'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TT5_Tin_Dredge_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Ekonomi modern Malaysia, secara harfiah, digali dari dalam tanah. Jauh sebelum minyak sawit, elektronik, atau semikonduktor, **timah**-lah yang membuat semenanjung ini penting bagi dunia — membiayai rel kereta, menumbuhkan kota-kota seperti Ipoh dan Kuala Lumpur, serta menarik generasi demi generasi penambang migran. Pertambangan adalah kisah industri tertua negara ini, dan meski tak lagi mendominasi ekonomi, ia diam-diam ditulis ulang di seputar hadiah yang sangat modern: unsur tanah jarang.

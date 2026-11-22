@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/chemicals-petrochemicals-industry/hero.webp'
+heroAlt: 'रात में रोशन एक विशाल पेट्रोरसायन रिफाइनरी परिसर, जिसके आसवन स्तंभ और पाइपलाइन चमक रहे हैं, जलमार्ग के पास गैस जलाती एक फ्लेयर स्टैक के बगल में।'
+heroCredit: 'Makubex1985 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 प्लास्टिक, उर्वरक, डिटर्जेंट, सिंथेटिक रबर, सौंदर्य-प्रसाधन, पेंट और आपके फ़ोन के कवर के भीतर की रेज़िन — ये सब रसायनों के रूप में शुरू होते हैं — और इनका, या इनके निर्माण-खंडों का, एक आश्चर्यजनक हिस्सा मलेशिया में बनता है। देश की बेहतर-ज्ञात तेल-और-गैस तथा पाम-तेल कहानियों के पीछे एक बड़ा, चुपचाप रणनीतिक रसायन एवं पेट्रोरसायन उद्योग बैठा है जो कच्चे हाइड्रोकार्बन और वनस्पति तेलों को उन सामग्रियों में बदलता है जिन पर आधुनिक जीवन निर्भर करता है।

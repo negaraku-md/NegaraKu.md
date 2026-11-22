@@ -103,6 +103,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/aquaculture-industry/hero.webp'
+heroAlt: '물고기 양식용 부유식 그물 가두리가 잔잔한 호수 수면 위에 줄지어 배치되어 있고, 한쪽 끝에는 관리인의 오두막이 있다.'
+heroCredit: 'Sophia Guevara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Foto_Keramba_Ikan_(Panatapan,_Parapat,_Simalungun).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 말레이시아 식탁에 오르는 생선 대부분은 여전히 바다에서 온다 - 그러나 이제 빠르게 늘어나는 몫이 연못, 가두리, 또는 연승 뗏목에서 온다. 그것이 양식이다. 야생에서 헤엄치는 것을 잡는 것이 아니라, 수생생물을 의도적으로 사육하는 것이다. 말레이시아의 야생 어획량이 정체되고 단백질 수요가 늘면서, 양식은 식탁에 생선을 유지하는 국가의 주된 지렛대가 되었다. 이 글은 사업의 양식 측면을 깊이 다룬다. 어선, 어민 복지, 단속을 포함한 더 넓은 그림은 [수산업 개요](/ko/agriculture/malaysian-fisheries-industry/)를 참고하라.

@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/biotechnology-life-sciences-industry/hero.webp'
+heroAlt: '防護ガウンに手袋とフェイスシールドを着けた科学者が、実験室の生物安全キャビネット内でピペットを使い、試料をバイアルに移している。'
+heroCredit: 'James Gathany / CDC / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシアは、ボストンや上海のような深い研究大学やベンチャーキャピタルの厚みを持たないが、バイオテクノロジーを長期の論理的な賭けにする三つのものを持っている。世界で最も豊かな熱帯生物多様性の宝庫の一つ、膨大なパーム油・農業バイオマスの流れ、そして世界的に認められたハラル認証の権威だ。20年以上にわたり、政府はこれらの賦存を近代的なライフサイエンス産業へ変えようとしてきた。このガイドでは、その取り組みがどう組織されているか、何を築いてきたか、そしてどこへ向かっているかを説明する。

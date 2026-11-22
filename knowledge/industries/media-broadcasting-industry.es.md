@@ -101,6 +101,13 @@ revisions:
     reviewer: null
 framework: profile
 wikidata: "Q6805904"
+hero: '/media/industries/media-broadcasting-industry/hero.webp'
+heroAlt: 'El complejo de radiodifusión Angkasapuri en Kuala Lumpur, sede de la emisora pública nacional de Malasia.'
+heroCredit: 'Two hundred percent / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angkasapuri,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Cuando los malasios hablan de "los medios", suelen referirse a uno de unos pocos nombres familiares: la antena parabólica de Astro atornillada al costado de la casa, el boletín de noticias de TV3, un programa matinal de radio camino del trabajo o —cada vez más— lo que sea que esté reproduciéndose en un teléfono durante el trayecto. Esos puntos de contacto cotidianos pertenecen a una sola industria, vasta y dispersa: los medios y la radiodifusión. Es uno de los sectores de servicios más visibles del país, y también uno de los más disrumpidos.

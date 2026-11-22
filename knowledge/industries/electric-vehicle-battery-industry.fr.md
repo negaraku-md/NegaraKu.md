@@ -95,6 +95,13 @@ keywords:
   - Samsung SDI
   - adoption des VE
 framework: profile
+hero: '/media/industries/electric-vehicle-battery-industry/hero.webp'
+heroAlt: 'Une borne de recharge rapide en courant continu se dresse dans un emplacement réservé aux véhicules électriques sur une aire de repos d''autoroute en Malaisie.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 La Malaisie a passé un demi-siècle à construire des voitures. Elle tente désormais de les électrifier — et, tout aussi important, de fabriquer les batteries et de bâtir le réseau de recharge dont dépendent les véhicules électriques. C'est une histoire différente de celle racontée dans le guide de l'[industrie automobile de la Malaisie](/fr/industries/automotive-industry/), qui porte largement sur les voitures à essence et diesel. Ici, le sujet est l'*écosystème* des VE et des batteries : les véhicules, les incitations, les bornes et les usines qui décident ensemble de la rapidité avec laquelle la Malaisie passe à la mobilité électrique.

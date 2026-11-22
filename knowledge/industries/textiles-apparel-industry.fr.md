@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/textiles-apparel-industry/hero.webp'
+heroAlt: 'Des ouvriers cousant et finissant des vêtements le long d''une chaîne de montage à l''intérieur d''une usine de confection.'
+heroCredit: 'Tareq Salahuddin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Bien avant d'être connue pour ses puces informatiques et son huile de palme, la Malaisie fabriquait du tissu et des vêtements. L'industrie du textile, de l'habillement et de la chaussure est l'un des plus anciens secteurs manufacturiers modernes du pays — le type d'activité à forte intensité de main-d'œuvre et orientée vers l'exportation qui a contribué à amorcer l'industrialisation dans les années 1970 et 1980. Aujourd'hui, elle représente une part plus réduite d'une économie bien plus vaste, mais elle demeure un véritable employeur, un exportateur régulier, et un secteur que le gouvernement s'efforce activement de réinventer.

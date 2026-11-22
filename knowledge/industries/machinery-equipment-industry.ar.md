@@ -99,6 +99,13 @@ keywords:
   - "Industry4WRD"
   - "MIDA"
 framework: profile
+hero: '/media/industries/machinery-equipment-industry/hero.webp'
+heroAlt: 'أرضية مصنع مصطفّة بآلات التصنيع ذات التحكم الرقمي (CNC) وعمّال، نموذجية لتصنيع الآلات والمعدّات.'
+heroCredit: 'Antoniusaw / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CNC_Machine_Facility.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 يعمل كل مصنع على آلات — وتلك الآلات لا بدّ أن يبنيها أحد. صناعة الآلات والمعدات (M&E) هي الجزء من التصنيع الذي يصنع خطوط الإنتاج وآلات العمليات وأدوات تشغيل المعادن وأنظمة الطاقة والأتمتة التي تعتمد عليها كل صناعة *أخرى*. وهي أقلّ الصناعات الكبيرة ظهورًا في الاقتصاد، ولهذا السبب تحديدًا، من أكثرها أهميةً استراتيجيًا.

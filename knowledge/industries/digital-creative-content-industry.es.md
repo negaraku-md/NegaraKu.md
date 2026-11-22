@@ -114,6 +114,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/digital-creative-content-industry/hero.webp'
+heroAlt: 'Un estudio de producción de captura de movimiento con un escenario de captura cuadriculado, un soporte de cámaras en lo alto sobre estructuras y una estación de trabajo de operador con varios monitores.'
+heroCredit: 'Gabriela Cybulska / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bones_Studio_hala.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Cuando _Upin & Ipin Universe_ de Les' Copaque llegó a las consolas de todo el mundo el **17 de julio de 2025**, cerró un círculo que comenzó con una breve serie animada sobre dos traviesos gemelos. Un dibujo animado malasio se había convertido en un videojuego publicado globalmente, y en una pulcra ilustración de lo que la industria de contenido creativo digital del país ha construido discretamente a lo largo de dos décadas.

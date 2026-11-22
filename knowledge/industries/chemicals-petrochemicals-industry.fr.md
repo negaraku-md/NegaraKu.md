@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/chemicals-petrochemicals-industry/hero.webp'
+heroAlt: 'Un vaste complexe de raffinerie pétrochimique illuminé la nuit, ses tours de distillation et sa tuyauterie brillant à côté d''une torchère brûlant du gaz près du bord de l''eau.'
+heroCredit: 'Makubex1985 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Les plastiques, les engrais, les détergents, le caoutchouc synthétique, les cosmétiques, les peintures et les résines à l'intérieur de la coque de votre téléphone commencent tous sous forme de produits chimiques — et une part surprenante d'entre eux, ou de leurs composants de base, est fabriquée en Malaisie. Derrière les histoires mieux connues du pétrole et du gaz et de l'huile de palme se trouve une grande industrie chimique et pétrochimique, discrètement stratégique, qui transforme des hydrocarbures bruts et des huiles végétales en matériaux dont dépend la vie moderne.

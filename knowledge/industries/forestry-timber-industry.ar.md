@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/forestry-timber-industry/hero.webp'
+heroAlt: 'لودر بعجلات وعمّال يعالجون جذوع الأخشاب الصلبة المقطوعة حديثًا في ساحة منشرة في صباح بماليزيا.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sawmill-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 تمتطي ماليزيا بعضًا من أقدم الغابات المطيرة على الأرض، ولمعظم تاريخها الحديث كانت تجارة الخشب الصلب الاستوائي أحد أعمدة الاقتصاد الوطني. وذلك العالم في المنبع — الغابات نفسها، ورخص قطعها، والمعالجة الأولى للجذوع الخام إلى أخشاب — صناعة متمايزة عن مصانع الأثاث ومصدّري منتجات الخشب الأبعد في السلسلة. يغطّي هذا الدليل **قطاع الغابات ومورد الأخشاب**: من أين يأتي الخشب، ومن يسيطر عليه، وكيف يُصدَّر، وضغوط الاستدامة والسوق التي تعيد تشكيله الآن.

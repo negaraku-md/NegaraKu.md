@@ -96,6 +96,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/retail-wholesale-trade-industry/hero.webp'
+heroAlt: 'Para pembeli, toko, dan kios ritel di sepanjang atrium bertingkat pusat perbelanjaan NU Sentral di Kuala Lumpur, Malaysia.'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_NU_Sentral,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Hampir setiap ringgit yang dibelanjakan orang Malaysia untuk barang fisik — bahan makanan, sebuah ponsel, sebuah mobil, sebotol minyak goreng — melewati perdagangan ritel dan grosir. Inilah pipa saluran konsumsi sehari-hari: jaringan importir, pedagang grosir, distributor, toko, pasar, dan toko daring yang memindahkan produk dari tempat produksinya ke tempat pembeliannya. Pejabat menyebut jaringan ini **perdagangan distributif**, dan ia adalah salah satu bagian terbesar dan paling terlihat dari perekonomian Malaysia.

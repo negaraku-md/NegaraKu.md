@@ -110,6 +110,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/pepper-industry/hero.webp'
+heroAlt: '马来西亚沙捞越一处种植园里，一排排黑胡椒藤蔓攀爬在木制支撑杆上，沙捞越是马来西亚主要的胡椒种植州。'
+heroCredit: 'Nick Allen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plant_climbing_poles.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 胡椒是马来西亚最古老、地理特色最鲜明的农产品之一：这种从印度次大陆和苏门答腊引进的藤蔓植物，在砂拉越湿润、排水良好的丘陵地带找到了理想的家园，成为数千个乡村小农园的支柱。尽管马来西亚按全球产量计算只是一个不起眼的角色，但它凭借声誉超越其体量，向识货的市场销售高端的、经原产地认证的"砂拉越胡椒"。本文将胡椒业作为一个独立产业，剖析其结构、地理、贸易与前景。

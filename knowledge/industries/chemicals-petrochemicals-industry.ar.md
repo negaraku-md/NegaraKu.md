@@ -102,6 +102,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/chemicals-petrochemicals-industry/hero.webp'
+heroAlt: 'مجمّع ضخم لتكرير البتروكيماويات مضاء ليلاً، تتوهّج أبراج التقطير والأنابيب فيه بجانب برج شعلة يحرق الغاز قرب الواجهة المائية.'
+heroCredit: 'Makubex1985 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 تبدأ اللدائن والأسمدة والمنظفات والمطاط الصناعي ومستحضرات التجميل والدهانات والراتنجات داخل غلاف هاتفك، جميعها، على هيئة كيماويات — وحصة مفاجئة منها، أو من لبِناتها الأساسية، تُصنع في ماليزيا. فخلف قصص النفط والغاز وزيت النخيل الأشهر في البلاد تجلس صناعة كيماويات وبتروكيماويات كبيرة واستراتيجية بهدوء، تحوّل الهيدروكربونات الخام والزيوت النباتية إلى المواد التي تعتمد عليها الحياة الحديثة.

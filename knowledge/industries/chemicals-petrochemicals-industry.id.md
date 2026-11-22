@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/chemicals-petrochemicals-industry/hero.webp'
+heroAlt: 'Kompleks kilang pengolahan petrokimia yang luas bercahaya pada malam hari, dengan menara distilasi dan jaringan pipanya berpendar di samping cerobong suar yang membakar gas di dekat tepi perairan.'
+heroCredit: 'Makubex1985 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Plastik, pupuk, deterjen, karet sintetis, kosmetik, cat, dan resin di dalam casing ponsel Anda semuanya bermula sebagai bahan kimia — dan sebagian besar yang mengejutkan dari semuanya, atau blok penyusunnya, dibuat di Malaysia. Di balik kisah minyak-dan-gas serta minyak sawit yang lebih terkenal, berdiri sebuah industri kimia dan petrokimia yang besar dan diam-diam strategis, yang mengubah hidrokarbon mentah dan minyak nabati menjadi material yang menjadi sandaran kehidupan modern.

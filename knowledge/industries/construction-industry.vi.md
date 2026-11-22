@@ -86,6 +86,13 @@ relations:
 related: []
 keywords: ["industri pembinaan", "CIDB", "gred kontraktor", "G1 G7", "Akta 520", "kad hijau", "pendaftaran kontraktor", "NCP 2030", "CITP"]
 framework: rules
+hero: '/media/industries/construction-industry/hero.webp'
+heroAlt: 'Hố đào móng sâu tại một công trường xây nhà cao tầng ở Kuala Lumpur, với các cần cẩu tháp, thanh chống đỏ và công nhân, phía sau là đường chân trời thành phố.'
+heroCredit: 'InterEdit88 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Thử dựng một hàng rào trường học trị giá RM250,000 mà không có chứng nhận đăng ký nhà thầu, và dự án của bạn có thể bị lệnh dừng ngay lập tức — trước khi cả cây cọc đầu tiên được cắm. Tại Malaysia, quyền xây dựng không bắt đầu với máy móc hay lao động; nó bắt đầu với một sổ đăng ký.

@@ -107,6 +107,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/cocoa-industry/hero.webp'
+heroAlt: '日陰のプランテーションで、カカオの木の幹から直接生えている二つの大きな緑色のカカオポッド。'
+heroCredit: 'Hanay / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cacao_fruit_in_C%C3%B4te_d''Ivoire_(11).JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシアは、カカオの栽培をほとんどやめてしまった世界有数のカカオ加工国である。わずか一世代のうちに、サバ半島やマレー半島の丘陵地が莢で重く垂れ下がるトップ4の豆生産国から、船積みで豆を輸入し自国ではわずか数百トンしか収穫しない国へと変貌した。残り、そして栄えたのは工場側だった。輸入した豆をカカオバター、パウダー、リカー、そして輸出用の完成菓子に変える加工ミル、精製所、チョコレート製造ラインである。その結果が「カカオのパラドックス」、すなわち、ほぼ消滅した上流の上に世界クラスの下流産業が乗っている状態だ。

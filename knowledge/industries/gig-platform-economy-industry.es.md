@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/gig-platform-economy-industry/hero.webp'
+heroAlt: 'Un repartidor de comida en motocicleta con una caja de reparto aislada espera en un cruce de calles en Penang, Malasia.'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Cada día, millones de transacciones en Malasia se organizan no por una tienda, una oficina o una parada de taxis, sino por una aplicación: un coche convocado a un bordillo, una bolsa de comida llevada por la ciudad en una motocicleta, un logotipo diseñado para un cliente que el autónomo nunca conocerá. Esta es la economía gig y de plataformas —trabajo mediado por plataformas digitales— y en poco más de una década ha pasado de ser una novedad a uno de los rasgos más visibles de la vida laboral malasia.

@@ -96,6 +96,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/retail-wholesale-trade-industry/hero.webp'
+heroAlt: 'Người mua sắm, các cửa hàng và quầy bán lẻ trải khắp khu sảnh nhiều tầng của trung tâm thương mại NU Sentral ở Kuala Lumpur, Malaysia.'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_NU_Sentral,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Gần như mỗi ringgit mà một người Malaysia chi cho hàng hóa vật chất — thực phẩm, một chiếc điện thoại, một chiếc xe hơi, một chai dầu ăn — đều đi qua thương mại bán lẻ và bán buôn. Đó là hệ thống ống dẫn của tiêu dùng thường ngày: mạng lưới các nhà nhập khẩu, nhà bán buôn, nhà phân phối, cửa hàng, chợ và cửa hàng trực tuyến đưa sản phẩm từ nơi làm ra đến nơi được mua. Giới chức gọi mạng lưới này là **thương mại phân phối (distributive trade)**, và nó là một trong những phần lớn nhất và dễ thấy nhất của nền kinh tế Malaysia.

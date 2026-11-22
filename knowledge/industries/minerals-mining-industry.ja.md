@@ -97,6 +97,13 @@ keywords:
   - JMG
   - Lynas
 framework: profile
+hero: '/media/industries/minerals-mining-industry/hero.webp'
+heroAlt: 'マレーシア・ペラ州のかつての採掘池のそばに立つ、保存されたTT5錫採掘用浚渫船。同国の錫浚渫時代の遺物である。'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TT5_Tin_Dredge_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 マレーシアの近代経済は、文字どおり地中から掘り出された。パーム油、電子機器、半導体よりずっと前、この半島を世界にとって重要なものにしたのは**スズ**だった――鉄道の資金を生み、Ipohやクアラルンプールのような町を育て、世代を重ねる移民鉱夫を引き寄せた。鉱業は同国の最も古い産業の物語であり、もはや経済を支配してはいないが、きわめて現代的な賞品――希土類元素――を軸に静かに書き換えられつつある。

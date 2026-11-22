@@ -93,6 +93,13 @@ keywords:
   - Industry4WRD
   - MIDA
 framework: profile
+hero: '/media/industries/machinery-equipment-industry/hero.webp'
+heroAlt: 'Một sàn nhà máy xếp đầy các máy công cụ CNC và công nhân, điển hình cho ngành sản xuất máy móc và thiết bị.'
+heroCredit: 'Antoniusaw / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CNC_Machine_Facility.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Mọi nhà máy đều vận hành trên máy móc — và những cỗ máy đó phải được ai đó chế tạo. Ngành máy móc và thiết bị (M&E) là phần của chế tạo làm ra các dây chuyền sản xuất, máy móc quy trình, dụng cụ gia công kim loại, hệ thống điện và tự động hóa mà *mọi* ngành khác phụ thuộc vào. Nó là ngành lớn ít được thấy nhất trong nền kinh tế và, chính vì lý do đó, một trong những ngành quan trọng chiến lược nhất.

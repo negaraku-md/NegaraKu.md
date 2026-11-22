@@ -114,6 +114,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/digital-creative-content-industry/hero.webp'
+heroAlt: 'Sebuah studio penerbitan tangkapan gerak dengan pentas tangkapan bergrid, rig kamera atas pada kekuda dan stesen kerja operator dengan pelbagai monitor.'
+heroCredit: 'Gabriela Cybulska / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bones_Studio_hala.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Apabila _Upin & Ipin Universe_ oleh Les' Copaque sampai ke konsol di seluruh dunia pada **17 Julai 2025**, ia menutup satu kitaran yang bermula dengan sebuah siri animasi pendek tentang dua kembar yang nakal. Sebuah kartun Malaysia telah menjadi permainan video yang diterbitkan secara global — dan satu ilustrasi kemas tentang apa yang industri kandungan kreatif digital negara telah bina secara senyap selama dua dekad.

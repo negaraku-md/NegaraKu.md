@@ -114,6 +114,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/digital-creative-content-industry/hero.webp'
+heroAlt: 'สตูดิโอผลิตโมชันแคปเจอร์ที่มีเวทีจับภาพแบบตาราง ชุดกล้องเหนือศีรษะติดตั้งบนโครงทรัส และเวิร์กสเตชันของผู้ควบคุมพร้อมจอภาพหลายจอ'
+heroCredit: 'Gabriela Cybulska / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bones_Studio_hala.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 เมื่อ _Upin & Ipin Universe_ ของ Les' Copaque ไปถึงเครื่องคอนโซลทั่วโลกในวันที่ **17 กรกฎาคม 2025** มันได้ปิดวงจรที่เริ่มต้นด้วยซีรีส์แอนิเมชันสั้นเกี่ยวกับฝาแฝดจอมซนสองคน การ์ตูนมาเลเซียได้กลายเป็นวิดีโอเกมที่เผยแพร่ระดับโลก — และเป็นภาพประกอบที่ชัดเจนของสิ่งที่อุตสาหกรรมเนื้อหาสร้างสรรค์ดิจิทัลของประเทศได้สร้างขึ้นอย่างเงียบ ๆ ตลอดสองทศวรรษ

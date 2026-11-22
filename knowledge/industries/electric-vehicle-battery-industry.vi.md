@@ -95,6 +95,13 @@ keywords:
   - Samsung SDI
   - áp dụng EV
 framework: profile
+hero: '/media/industries/electric-vehicle-battery-industry/hero.webp'
+heroAlt: 'Một trụ sạc nhanh DC đặt tại ô đỗ dành riêng cho xe điện ở một trạm dừng chân trên đường cao tốc Malaysia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Malaysia đã dành nửa thế kỷ để chế tạo ô tô. Giờ đây đất nước đang cố gắng điện khí hóa chúng — và, quan trọng không kém, làm ra pin và xây dựng mạng sạc mà xe điện phụ thuộc vào. Đây là một câu chuyện khác với câu chuyện được kể trong hướng dẫn về [ngành ô tô của Malaysia](/vi/industries/automotive-industry/), vốn chủ yếu nói về xe xăng và dầu diesel. Ở đây chủ đề là *hệ sinh thái* EV và pin: các phương tiện, các ưu đãi, các trụ sạc và các nhà máy cùng nhau quyết định Malaysia chuyển sang di chuyển bằng điện nhanh ra sao.

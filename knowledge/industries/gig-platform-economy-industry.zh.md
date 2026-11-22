@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/gig-platform-economy-industry/hero.webp'
+heroAlt: '在马来西亚槟城的一个街道路口，一名骑着摩托车、带着保温送餐箱的外卖骑手正在等候。'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在马来西亚，每天有数以百万计的交易不是由商店、办公室或德士站安排的，而是由一个应用安排的：一辆被召唤到路边的车、一袋由摩托车载着穿城而过的食物、一个为素未谋面的客户设计的标志。这就是零工与平台经济——经由数字平台中介的工作——在短短十余年间，它已从新奇事物变成马来西亚职场生活最可见的特征之一。

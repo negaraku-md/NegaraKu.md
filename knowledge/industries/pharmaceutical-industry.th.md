@@ -98,6 +98,13 @@ keywords:
   - การบรรจุและสำเร็จวัคซีน
   - PIC/S GMP
 framework: profile
+hero: '/media/industries/pharmaceutical-industry/hero.webp'
+heroAlt: 'ขวดยาที่ปิดฝาแล้วเคลื่อนไปตามสายพานลำเลียงอัตโนมัติบนสายการผลิตยา'
+heroCredit: 'Josep Lago, European Commission / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ทุกครั้งที่ชาวมาเลเซียรับยาตามใบสั่งแพทย์สำหรับยาปฏิชีวนะ ยาแก้ปวด หรือยาลดความดัน มีโอกาสดีที่ยานั้นผลิตในมาเลเซีย — ไม่ได้ถูกคิดค้นที่นี่ แต่ถูกตั้งตำรับ อัดเม็ด บรรจุ และห่อในโรงงานท้องถิ่นที่ทำงานตามมาตรฐานการผลิตระดับสากล นั่นคือหัวใจของอุตสาหกรรมเภสัชกรรมของมาเลเซีย: ฐานการผลิตที่มั่นคงและนำโดยยาสามัญซึ่งเติมตู้ยาแห่งชาติให้เต็ม จับคู่กับการเดิมพันที่ทะเยอทะยานขึ้นอีกสองประการ — เภสัชภัณฑ์ฮาลาลและการผลิตวัคซีน — ที่ประเทศหวังว่าจะพาตัวเองขึ้นในห่วงโซ่มูลค่า

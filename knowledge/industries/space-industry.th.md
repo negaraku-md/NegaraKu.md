@@ -108,6 +108,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/space-industry/hero.webp'
+heroAlt: 'สถานีภาคพื้นดินดาวเทียมที่มีจานสายอากาศ สายอากาศยากิ และเรโดม ใช้สำหรับติดตามและสื่อสารกับยานอวกาศ'
+heroCredit: 'Satopsnz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Antennas_at_Awarua_Satellite_Ground_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 มาเลเซียไม่ได้ปล่อยจรวดของตนเอง แต่ก็ได้ส่งนักบินอวกาศ สร้างและดำเนินการไมโครดาวเทียม และผ่านกฎหมายเพื่อออกใบอนุญาตกิจกรรมอวกาศเอกชนก่อนประเทศเพื่อนบ้านส่วนใหญ่ ภาคอวกาศของมาเลเซียเล็กและเชิงกลยุทธ์อย่างเงียบ ๆ — ร้อยเรียงผ่านนโยบายบรอดแบนด์ การกลาโหม การเฝ้าระวังภัยพิบัติ และศักดิ์ศรีของชาติ คู่มือนี้แมปสำนักงาน กฎหมาย ดาวเทียม และความทะเยอทะยานที่ประกอบขึ้นเป็นเศรษฐกิจอวกาศของมาเลเซีย

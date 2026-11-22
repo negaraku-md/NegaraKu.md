@@ -106,6 +106,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/digital-creative-content-industry/hero.webp'
+heroAlt: 'モーションキャプチャ制作スタジオ。グリッド状のキャプチャステージ、トラスに吊るされた頭上のカメラリグ、複数のモニターを備えたオペレーター用ワークステーションがある。'
+heroCredit: 'Gabriela Cybulska / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bones_Studio_hala.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Les' Copaque の _Upin & Ipin Universe_ が**2025年7月17日**に世界中のコンソールに届いたとき、二人のいたずら好きな双子についての短編アニメシリーズから始まった一つの輪が閉じた。マレーシアのアニメが世界的に出版されるビデオゲームになった — そして、同国のデジタルクリエイティブコンテンツ産業が20年かけて静かに築き上げてきたものの見事な実例となった。

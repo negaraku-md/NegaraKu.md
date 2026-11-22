@@ -101,6 +101,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/medical-devices-industry/hero.webp'
+heroAlt: '浸渍生产线上涂有液态乳胶的手形模具，这是一次性手套制造的核心工序。'
+heroCredit: 'Marketingdepascale / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 如果你曾戴过外科手套、通过导管抽过血，或在骨科植入物的帮助下康复，那么这件器械很有可能是在马来西亚制造的。在闻名遐迩的橡胶手套之外，这个国家已悄然成为东南亚最重要的医疗器械制造地——也是全球较具分量的医疗科技制造基地之一。

@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/plastics-packaging-industry/hero.webp'
+heroAlt: '工場内で、ロボットアームを備えた射出成形機が、成形したばかりのプラスチックトレイをコンベヤーに載せている。'
+heroCredit: 'The robotic engineer1 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシアの工場から出てくるほぼすべての物理的な製品――インスタントラーメンの一袋、スマートフォン、車のバンパー、一本の水道管――は、国内のどこかで成形されたプラスチックに依存している。プラスチックはマレーシアの静かな産業的強みの一つだ。半導体ほど華やかではないが、他のほぼすべての製造部門に織り込まれ、そしてますます、廃棄物と持続可能性をめぐる国内の議論にも織り込まれている。

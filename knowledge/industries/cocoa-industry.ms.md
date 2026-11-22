@@ -107,6 +107,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/cocoa-industry/hero.webp'
+heroAlt: 'Dua buah koko hijau besar tumbuh terus dari batang pokok kakao di ladang yang teduh.'
+heroCredit: 'Hanay / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cacao_fruit_in_C%C3%B4te_d''Ivoire_(11).JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Malaysia ialah salah satu pemproses koko terhebat dunia yang hampir berhenti menanam koko. Dalam satu generasi sahaja, negara ini beralih daripada pengeluar biji koko empat teratas, dengan lereng bukitnya di Sabah dan Semenanjung Malaysia sarat dengan buah koko, kepada sebuah tempat yang mengimport biji koko dengan kapal demi kapal dan hampir-hampir tidak menuai beberapa ratus tan hasilnya sendiri. Apa yang kekal, dan berkembang maju, ialah bahagian kilang: kilang pengisaran, penapisan dan talian coklat yang menukar biji koko import menjadi lemak koko, serbuk, likur dan konfeksi siap untuk eksport. Hasilnya ialah satu "paradoks koko" - industri hiliran bertaraf dunia yang duduk di atas sektor huluan yang hampir lenyap sepenuhnya.

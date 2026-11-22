@@ -101,6 +101,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/medical-devices-industry/hero.webp'
+heroAlt: 'Moldes con forma de mano recubiertos de látex líquido en una línea de inmersión, el proceso central en la fabricación de guantes desechables.'
+heroCredit: 'Marketingdepascale / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Si alguna vez has llevado un guante quirúrgico, te han extraído sangre a través de un catéter o te has recuperado con la ayuda de un implante ortopédico, hay una posibilidad razonable de que el dispositivo se fabricara en Malasia. Más allá de sus famosos guantes de caucho, el país se ha convertido discretamente en el lugar más importante del Sudeste Asiático para fabricar dispositivos médicos, y en una de las bases de fabricación de tecnología médica más significativas de cualquier parte del mundo.

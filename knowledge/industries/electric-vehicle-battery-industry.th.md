@@ -95,6 +95,13 @@ keywords:
   - Samsung SDI
   - การรับยานยนต์ไฟฟ้า
 framework: profile
+hero: '/media/industries/electric-vehicle-battery-industry/hero.webp'
+heroAlt: 'เครื่องชาร์จเร็วกระแสตรงตั้งอยู่ในช่องจอดสำหรับยานยนต์ไฟฟ้าที่มีเครื่องหมายกำกับ ณ จุดพักริมทางด่วนในมาเลเซีย'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 มาเลเซียใช้เวลาครึ่งศตวรรษสร้างรถยนต์ ตอนนี้กำลังพยายามเปลี่ยนให้เป็นไฟฟ้า — และที่สำคัญไม่แพ้กัน คือการผลิตแบตเตอรี่และสร้างเครือข่ายการชาร์จที่ยานยนต์ไฟฟ้าพึ่งพา นี่เป็นเรื่องราวที่ต่างจากที่เล่าในคู่มือ[อุตสาหกรรมยานยนต์ของมาเลเซีย](/th/industries/automotive-industry/) ซึ่งส่วนใหญ่เกี่ยวกับรถยนต์เบนซินและดีเซล ที่นี่หัวข้อคือ *ระบบนิเวศ* EV และแบตเตอรี่: ยานยนต์ สิทธิประโยชน์ เครื่องชาร์จ และโรงงานที่ร่วมกันกำหนดว่ามาเลเซียจะเปลี่ยนไปสู่การขับเคลื่อนด้วยไฟฟ้าเร็วเพียงใด

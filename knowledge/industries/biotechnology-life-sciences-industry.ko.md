@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/biotechnology-life-sciences-industry/hero.webp'
+heroAlt: '방호복과 장갑, 얼굴 보호막을 착용한 과학자가 실험실 생물안전작업대 안에서 피펫으로 시료를 바이알에 옮기고 있다.'
+heroCredit: 'James Gathany / CDC / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 말레이시아에는 보스턴이나 상하이 같은 깊은 연구중심 대학이나 벤처캐피털의 두께가 없지만, 생명공학을 논리적인 장기 베팅으로 만드는 세 가지가 있습니다. 세계에서 가장 풍부한 열대 생물다양성의 보고 중 하나, 거대한 팜유·농업 바이오매스의 흐름, 그리고 세계적으로 인정받는 할랄 인증 권위입니다. 20년 넘게 정부는 그 자산을 현대 생명과학 산업으로 바꾸려 노력해 왔습니다. 이 가이드는 그 노력이 어떻게 조직되는지, 무엇을 구축했는지, 그리고 어디로 향하는지를 설명합니다.

@@ -101,6 +101,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/medical-devices-industry/hero.webp'
+heroAlt: 'डिपिंग लाइन पर तरल लेटेक्स से लेपित हाथ के आकार के फॉर्मर, जो डिस्पोजेबल दस्ताना निर्माण की मुख्य प्रक्रिया है।'
+heroCredit: 'Marketingdepascale / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 यदि आपने कभी सर्जिकल दस्ताना पहना है, कैथेटर के माध्यम से रक्त निकलवाया है, या किसी आर्थोपेडिक इम्प्लांट की मदद से स्वस्थ हुए हैं, तो इसकी उचित संभावना है कि वह उपकरण मलेशिया में बना हो। अपने प्रसिद्ध रबर के दस्तानों से परे, देश चुपचाप दक्षिण-पूर्व एशिया का चिकित्सा उपकरण बनाने का सबसे महत्वपूर्ण स्थान बन गया है — और दुनिया में कहीं भी अधिक महत्वपूर्ण मेडटेक विनिर्माण आधारों में से एक।

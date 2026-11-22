@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/gig-platform-economy-industry/hero.webp'
+heroAlt: 'ไรเดอร์ส่งอาหารบนรถจักรยานยนต์พร้อมกล่องส่งอาหารเก็บอุณหภูมิกำลังรออยู่ที่สี่แยกถนนในปีนัง ประเทศมาเลเซีย'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ทุกวัน ธุรกรรมหลายล้านรายการในมาเลเซียถูกจัดการ ไม่ใช่โดยร้านค้า สำนักงาน หรือจุดจอดแท็กซี่ แต่โดยแอป: รถที่ถูกเรียกมาที่ขอบทาง ถุงอาหารที่ถูกนำข้ามเมืองบนรถจักรยานยนต์ โลโก้ที่ถูกออกแบบให้ลูกค้าที่ฟรีแลนซ์จะไม่เคยพบ นี่คือเศรษฐกิจกิกและแพลตฟอร์ม — งานที่สื่อกลางผ่านแพลตฟอร์มดิจิทัล — และในเวลาเพียงกว่าทศวรรษ มันได้ย้ายจากของแปลกใหม่มาเป็นหนึ่งในลักษณะที่มองเห็นได้ชัดที่สุดของชีวิตการทำงานของชาวมาเลเซีย

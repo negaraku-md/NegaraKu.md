@@ -98,6 +98,13 @@ keywords:
   - Malaysia Digital
   - délocalisation
 framework: profile
+hero: '/media/industries/global-business-services-industry/hero.webp'
+heroAlt: 'Un immeuble de bureaux d''entreprise moderne à Cyberjaya, l''un des principaux pôles de la Malaisie pour la technologie et les services aux entreprises à l''échelle mondiale.'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Quelque part à Cyberjaya ou à Kuala Lumpur, à l'instant même, un comptable clôture les livres mensuels d'une entreprise dont le siège est à Londres, un agent de support résout un ticket pour un client à Sydney, et un analyste de données construit un tableau de bord pour une usine en Allemagne. Aucun de ces employeurs ne fabrique quoi que ce soit en Malaisie. Ce qu'ils exploitent ici est quelque chose de moins visible mais de plus en plus précieux : leur back-office mondial.

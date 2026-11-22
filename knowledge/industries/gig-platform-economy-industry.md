@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/gig-platform-economy-industry/hero.webp'
+heroAlt: 'A food-delivery rider on a motorcycle with an insulated delivery box waits at a street junction in Penang, Malaysia.'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Every day, millions of transactions in Malaysia are arranged not by a shop, an office or a taxi rank, but by an app: a car summoned to a kerb, a bag of food carried across town on a motorcycle, a logo designed for a client the freelancer will never meet. This is the gig and platform economy — work mediated by digital platforms — and in little more than a decade it has moved from novelty to one of the most visible features of Malaysian working life.

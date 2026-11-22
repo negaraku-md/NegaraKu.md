@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/forestry-timber-industry/hero.webp'
+heroAlt: 'マレーシア・サバ州の製材所のヤードで、ホイールローダーと作業員が伐採したばかりの広葉樹の丸太を処理している。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sawmill-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 マレーシアは、地球上で最も古い熱帯雨林のいくつかにまたがって位置しており、その近代史の多くにおいて、熱帯広葉樹の取引は国民経済の柱の一つであった。その上流の世界――森林そのもの、それを伐採する免許、そして原木を木材へと最初に加工すること――は、連鎖のさらに下流にある家具工場や木材製品の輸出業者とは別個の産業である。このガイドは、**林業・木材資源部門**を扱う。木材がどこから来るか、誰がそれを管理するか、どう輸出されるか、そしていまやそれを作り変えつつある持続可能性と市場の圧力である。

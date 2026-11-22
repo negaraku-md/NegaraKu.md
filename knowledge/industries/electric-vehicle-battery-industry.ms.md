@@ -95,6 +95,13 @@ keywords:
   - Samsung SDI
   - penggunaan EV
 framework: profile
+hero: '/media/industries/electric-vehicle-battery-industry/hero.webp'
+heroAlt: 'Sebuah unit pengecas pantas DC berdiri di petak kenderaan elektrik bertanda di sebuah kawasan rehat lebuh raya di Malaysia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Malaysia telah menghabiskan setengah abad membina kereta. Kini ia cuba mengelektrikkannya — dan, sama pentingnya, membuat bateri serta membina rangkaian pengecasan yang menjadi sandaran kenderaan elektrik. Ini kisah yang berbeza daripada yang diceritakan dalam panduan kepada [industri automotif Malaysia](/industries/automotive-industry/), yang sebahagian besarnya tentang kereta petrol dan diesel. Di sini subjeknya ialah *ekosistem* EV dan bateri: kenderaan, insentif, pengecas dan kilang yang bersama-sama menentukan sepantas mana Malaysia beralih kepada mobiliti elektrik.

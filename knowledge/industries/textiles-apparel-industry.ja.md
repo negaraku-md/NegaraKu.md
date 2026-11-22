@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/textiles-apparel-industry/hero.webp'
+heroAlt: '縫製工場の組立ラインで、作業員が衣類を縫い、仕上げをしている。'
+heroCredit: 'Tareq Salahuddin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシアがコンピュータチップやパーム油で知られるようになるはるか以前、同国は布と衣服を作っていた。繊維・アパレル・履物産業は、同国最古の近代製造業の一つである――1970年代から1980年代にかけて工業化の口火を切るのを助けた、労働集約的で輸出志向の事業だ。今日でははるかに大きな経済のなかの小さな一片になったが、それでも実際の雇用主であり、安定した輸出者であり、政府が積極的に作り変えようとしている部門であり続けている。

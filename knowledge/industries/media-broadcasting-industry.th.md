@@ -101,6 +101,13 @@ revisions:
     reviewer: null
 framework: profile
 wikidata: "Q6805904"
+hero: '/media/industries/media-broadcasting-industry/hero.webp'
+heroAlt: 'อาคารกระจายเสียงอังกาซาปูรีในกัวลาลัมเปอร์ อันเป็นที่ตั้งขององค์กรกระจายเสียงสาธารณะแห่งชาติของมาเลเซีย'
+heroCredit: 'Two hundred percent / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angkasapuri,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 เมื่อชาวมาเลเซียพูดถึง "สื่อ" พวกเขามักหมายถึงชื่อที่คุ้นเคยไม่กี่ชื่อ: จานดาวเทียม Astro ที่ยึดติดข้างบ้าน ข่าวภาคค่ำของ TV3 รายการวิทยุยามเช้าระหว่างขับรถไปทำงาน หรือ — เพิ่มขึ้นเรื่อย ๆ — สิ่งที่เล่นอยู่บนโทรศัพท์ระหว่างการเดินทาง จุดสัมผัสในชีวิตประจำวันเหล่านั้นเป็นของอุตสาหกรรมเดียวที่กว้างใหญ่: สื่อและการแพร่ภาพกระจายเสียง มันเป็นหนึ่งในภาคบริการที่เห็นได้ชัดกว่าในประเทศ และเป็นหนึ่งในภาคที่ถูกปั่นป่วนมากที่สุดด้วย

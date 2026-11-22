@@ -97,6 +97,13 @@ keywords:
   - JMG
   - 莱纳斯
 framework: profile
+hero: '/media/industries/minerals-mining-industry/hero.webp'
+heroAlt: '马来西亚霹雳州一座昔日矿湖旁矗立着保存下来的TT5采锡挖泥船，是该国锡矿挖掘时代的遗迹。'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TT5_Tin_Dredge_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 马来西亚的现代经济，确确实实是从地里挖出来的。早在棕榈油、电子或半导体之前，是**锡**让这片半岛对世界举足轻重——它为铁路融资、催生了怡保与吉隆坡等城镇，并吸引了一代又一代的移民矿工。采矿是这个国家最古老的工业故事，尽管它已不再主宰经济，却正围绕一个非常现代的奖赏——稀土元素——被悄悄改写。

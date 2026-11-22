@@ -100,6 +100,13 @@ revisions:
     reviewer: null
 framework: profile
 wikidata: "Q5621005"
+hero: '/media/industries/telecommunications-industry/hero.webp'
+heroAlt: 'เสาสัญญาณโทรคมนาคมเซลลูลาร์ที่ติดตั้งเสาอากาศแบบแผงหลายต้นตัดกับท้องฟ้าแจ่มใส'
+heroCredit: 'David Ratledge / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cellular_Telephone_Tower_-_Knoxville,_Tennessee_-_May_26,_2014.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 เกือบทุกคนในมาเลเซียพกการเชื่อมต่อมือถือ และบ้านส่วนใหญ่มีบรอดแบนด์รูปแบบใดรูปแบบหนึ่ง นั่นทำให้โทรคมนาคมเป็นหนึ่งในอุตสาหกรรมที่สำคัญและโตเต็มวัยที่สุดของประเทศ — ท่อประปาที่มองไม่เห็นใต้เศรษฐกิจดิจิทัล ธนาคารออนไลน์ รัฐบาลอิเล็กทรอนิกส์ และชีวิตประจำวัน กระนั้น เบื้องหลังชื่อแบรนด์ที่คุ้นเคยคือตลาดที่เปลี่ยนแปลงอย่างมากในช่วงปีที่ผ่านมา: ผู้ให้บริการน้อยลง การควบรวมใหญ่ขึ้น และการทดลองระดับชาติในวิธีสร้าง 5G

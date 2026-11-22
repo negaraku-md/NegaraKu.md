@@ -118,6 +118,13 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["Malaysia ports", "Port Klang", "Port of Tanjung Pelepas", "PTP", "transhipment", "container port", "logistics Malaysia", "freight forwarding", "ECRL", "free zone", "TEU", "Strait of Malacca"]
 framework: profile
+hero: '/media/industries/logistics-ports-industry/hero.webp'
+heroAlt: 'Barisan kren gantri kapal-ke-darat mengendalikan kontena di Pelabuhan Tanjung Pelepas di Johor, Malaysia.'
+heroCredit: 'Chareinity / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Teal_Striped_Container_Cranes_at_Tanjung_Pelepas_Port_Ver2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Port Klang menggerakkan 15.14 juta kontena perkapalan pada 2025 — cukup untuk memintas Hong Kong dan menembusi sepuluh pelabuhan tersibuk di dunia buat pertama kali. Sebuah lagi pelabuhan Malaysia, Tanjung Pelepas, menggerakkan 14 juta lagi. Kedua-dua angka ini tidak menggambarkan sebuah negara yang menghasilkan kebanyakan barangan tersebut. Ia menggambarkan sebuah negara yang terletak di tempat yang betul dan telah belajar untuk mengenakan sewa ke atas perdagangan dunia.

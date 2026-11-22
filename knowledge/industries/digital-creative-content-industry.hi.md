@@ -114,6 +114,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/digital-creative-content-industry/hero.webp'
+heroAlt: 'ग्रिड वाले कैप्चर स्टेज, ट्रस पर लगे ऊपरी कैमरा रिग और कई मॉनिटरों वाले एक ऑपरेटर वर्कस्टेशन के साथ एक मोशन-कैप्चर प्रोडक्शन स्टूडियो।'
+heroCredit: 'Gabriela Cybulska / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bones_Studio_hala.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 जब Les' Copaque का _Upin & Ipin Universe_ **17 जुलाई 2025** को दुनिया भर के कंसोल तक पहुँचा, तो उसने एक ऐसी गोल पूरी कर दी जो दो शरारती जुड़वाँ भाइयों के बारे में एक छोटी एनिमेटेड शृंखला से शुरू हुई थी। एक मलेशियाई कार्टून एक विश्व-स्तर पर प्रकाशित वीडियो गेम बन गया था — और इस बात का एक सुंदर उदाहरण कि देश के डिजिटल क्रिएटिव कंटेंट उद्योग ने दो दशकों में चुपचाप क्या बनाया है।

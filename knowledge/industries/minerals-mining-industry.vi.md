@@ -97,6 +97,13 @@ keywords:
   - JMG
   - Lynas
 framework: profile
+hero: '/media/industries/minerals-mining-industry/hero.webp'
+heroAlt: 'Chiếc tàu nạo vét khai thác thiếc TT5 được bảo tồn đứng bên cạnh một hồ khai thác cũ ở Perak, Malaysia, di tích của thời kỳ nạo vét thiếc của đất nước.'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TT5_Tin_Dredge_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Nền kinh tế hiện đại của Malaysia, theo nghĩa đen, được đào lên từ lòng đất. Rất lâu trước dầu cọ, điện tử hay bán dẫn, chính **thiếc** đã khiến bán đảo trở nên quan trọng với thế giới — tài trợ cho đường sắt, làm lớn các thị trấn như Ipoh và Kuala Lumpur, và thu hút các thế hệ thợ mỏ di cư. Khai khoáng là câu chuyện công nghiệp lâu đời nhất của đất nước, và dù không còn thống trị nền kinh tế, nó đang được viết lại một cách lặng lẽ quanh một phần thưởng rất hiện đại: các nguyên tố đất hiếm.

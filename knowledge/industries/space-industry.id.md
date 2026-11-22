@@ -108,6 +108,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/space-industry/hero.webp'
+heroAlt: 'Sebuah stasiun bumi satelit dengan antena parabola, antena yagi, dan radome yang digunakan untuk melacak dan berkomunikasi dengan wahana antariksa.'
+heroCredit: 'Satopsnz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Antennas_at_Awarua_Satellite_Ground_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Malaysia tidak meluncurkan roket sendiri, namun ia telah menerbangkan seorang antariksawan, membangun dan mengoperasikan mikrosatelit, serta mengesahkan undang-undang untuk melisensikan kegiatan antariksa swasta sebelum sebagian besar tetangganya. Sektor antariksanya kecil dan diam-diam strategis — terjalin melalui kebijakan jalur lebar, pertahanan, pemantauan bencana dan prestise nasional. Panduan ini memetakan agensi, undang-undang, satelit dan ambisi yang membentuk ekonomi antariksa Malaysia.

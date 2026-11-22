@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/biotechnology-life-sciences-industry/hero.webp'
+heroAlt: 'Seorang saintis yang memakai gaun pelindung, sarung tangan dan pelindung muka menggunakan pipet untuk memindahkan sampel ke dalam vial di dalam kabinet biokeselamatan makmal.'
+heroCredit: 'James Gathany / CDC / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Malaysia tidak mempunyai universiti penyelidikan mendalam atau kedalaman modal teroka seperti Boston atau Shanghai, tetapi ia mempunyai tiga perkara yang menjadikan bioteknologi pertaruhan jangka panjang yang logik: salah satu khazanah biodiversiti tropika terkaya dunia, aliran biojisim minyak sawit dan pertanian yang amat besar, serta kuasa yang diiktiraf global dalam pensijilan halal. Selama lebih dua dekad kerajaan telah cuba menukar kurniaan itu menjadi industri sains hayat moden. Panduan ini menerangkan bagaimana usaha itu disusun, apa yang telah dibinanya, dan ke mana ia menuju.

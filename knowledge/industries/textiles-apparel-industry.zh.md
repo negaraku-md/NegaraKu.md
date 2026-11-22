@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/textiles-apparel-industry/hero.webp'
+heroAlt: '工人们在一家制衣厂的流水线上缝制和整理服装。'
+heroCredit: 'Tareq Salahuddin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 早在马来西亚以电脑芯片和棕榈油闻名之前，它就已经在生产布匹与衣服。纺织、成衣与鞋类产业是这个国家最古老的现代制造业领域之一——正是这种劳动密集、以出口为导向的生意，在 1970 与 1980 年代帮助启动了工业化。如今它在一个大得多的经济体中只占较小一块，但它仍是实实在在的雇主、稳定的出口者，也是政府正积极设法再造的一个领域。

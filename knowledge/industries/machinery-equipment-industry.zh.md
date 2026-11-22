@@ -93,6 +93,13 @@ keywords:
   - Industry4WRD
   - MIDA
 framework: profile
+hero: '/media/industries/machinery-equipment-industry/hero.webp'
+heroAlt: '一座工厂车间里排列着CNC数控机床和工人，这是机械设备制造业的典型景象。'
+heroCredit: 'Antoniusaw / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CNC_Machine_Facility.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 每一家工厂都靠机器运转——而这些机器总得有人来造。机械与设备（M&E）产业，正是制造业中打造生产线、工艺机械、金属加工工具、动力系统与自动化的那一部分，而其*每一个*其他产业都依赖于此。它是整个经济体中最不显眼的大产业，也正因如此，成了最具战略重要性的产业之一。

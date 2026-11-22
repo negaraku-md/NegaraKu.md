@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/textiles-apparel-industry/hero.webp'
+heroAlt: 'Trabajadores cosiendo y rematando prendas a lo largo de una línea de montaje dentro de una fábrica de confección.'
+heroCredit: 'Tareq Salahuddin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Mucho antes de que Malasia fuera conocida por los chips de ordenador y el aceite de palma, fabricaba tela y ropa. La industria textil, de confección y calzado es uno de los sectores manufactureros modernos más antiguos del país: ese tipo de negocio intensivo en mano de obra y orientado a la exportación que ayudó a poner en marcha la industrialización en las décadas de 1970 y 1980. Hoy es una porción más pequeña de una economía mucho más grande, pero sigue siendo un empleador real, un exportador estable y un sector que el gobierno intenta reinventar activamente.

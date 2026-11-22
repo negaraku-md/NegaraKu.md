@@ -107,6 +107,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/cocoa-industry/hero.webp'
+heroAlt: 'Hai quả ca cao lớn màu xanh mọc trực tiếp từ thân cây ca cao trong một vườn cây rợp bóng mát.'
+heroCredit: 'Hanay / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cacao_fruit_in_C%C3%B4te_d''Ivoire_(11).JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Malaysia là một trong những nước chế biến ca cao lớn của thế giới nhưng gần như đã ngừng trồng ca cao. Chỉ trong một thế hệ, đất nước này đã đi từ một nước sản xuất hạt thuộc nhóm bốn hàng đầu, với những sườn đồi ở Sabah và Bán đảo Malaysia trĩu nặng quả, trở thành một nơi nhập khẩu hạt theo từng con tàu và chỉ thu hoạch vài trăm tấn của riêng mình. Điều còn lại, và phát triển mạnh, là phần nhà máy: các xưởng nghiền, nhà máy tinh luyện và dây chuyền sô cô la biến hạt nhập khẩu thành bơ, bột, chất lỏng ca cao và bánh kẹo thành phẩm để xuất khẩu. Kết quả là một "nghịch lý ca cao" - một ngành hạ nguồn đẳng cấp thế giới ngự trị trên một thượng nguồn gần như đã biến mất.

@@ -103,6 +103,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/aquaculture-industry/hero.webp'
+heroAlt: 'صفوف من الأقفاص الشبكية العائمة لتربية الأسماك موزّعة على سطح بحيرة هادئ، مع كوخ للحارس في أحد الأطراف.'
+heroCredit: 'Sophia Guevara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Foto_Keramba_Ikan_(Panatapan,_Parapat,_Simalungun).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 لا يزال معظم السمك على مائدة العشاء الماليزية يأتي من البحر — لكن حصة متنامية بسرعة باتت تأتي الآن من بركة أو قفص أو طوف خط طويل. ذلك هو الاستزراع المائي: التربية المتعمَّدة للكائنات المائية، في مقابل اصطياد ما يسبح في البرية. ومع بلوغ صيد ماليزيا البري حده الأقصى وتصاعد الطلب على البروتين، صار الاستزراع المائي الرافعة الرئيسية للبلاد لإبقاء السمك على المائدة. يتعمّق هذا المقال في الجانب المستزرع من الأعمال؛ وللصورة الأوسع، بما في ذلك أسطول الصيد ورعاية الصيادين والإنفاذ، انظر [نظرة عامة على صناعة مصايد الأسماك](/ar/agriculture/malaysian-fisheries-industry/).

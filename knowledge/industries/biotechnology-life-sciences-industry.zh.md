@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/biotechnology-life-sciences-industry/hero.webp'
+heroAlt: '一名身穿防护服、戴着手套和面罩的科学家在实验室的生物安全柜内用移液器将样本转移到小瓶中。'
+heroCredit: 'James Gathany / CDC / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 马来西亚没有波士顿或上海那样深厚的研究型大学与风险投资底蕴，但它拥有三样东西，使生物科技成为合乎逻辑的长期押注：全球最丰富的热带生物多样性宝库之一、一股庞大的棕榈油与农业生物质流，以及在清真认证上获全球认可的权威。二十多年来，政府一直设法把这些禀赋转化为一个现代生命科学产业。本指南将说明这一努力如何组织、已经建成了什么，以及正走向何方。

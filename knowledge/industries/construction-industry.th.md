@@ -86,6 +86,13 @@ relations:
 related: []
 keywords: ["industri pembinaan", "CIDB", "gred kontraktor", "G1 G7", "Akta 520", "kad hijau", "pendaftaran kontraktor", "NCP 2030", "CITP"]
 framework: rules
+hero: '/media/industries/construction-industry/hero.webp'
+heroAlt: 'การขุดฐานรากลึกของไซต์ก่อสร้างอาคารสูงในกัวลาลัมเปอร์ มีเครนหอคอย ค้ำยันสีแดงและคนงาน โดยมีเส้นขอบฟ้าของเมืองเป็นฉากหลัง'
+heroCredit: 'InterEdit88 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ลองสร้างรั้วโรงเรียนมูลค่า RM250,000 โดยไม่มีใบรับรองการจดทะเบียนผู้รับเหมา แล้วโครงการของคุณอาจถูกสั่งให้หยุดทันที — ก่อนที่เสาต้นแรกจะถูกปักลงด้วยซ้ำ ในมาเลเซีย สิทธิ์ในการก่อสร้างไม่ได้เริ่มต้นด้วยเครื่องจักรหรือแรงงาน; มันเริ่มต้นด้วยทะเบียนหนึ่งฉบับ

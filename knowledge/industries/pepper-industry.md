@@ -109,6 +109,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/pepper-industry/hero.webp'
+heroAlt: 'Rows of black-pepper vines trained up wooden climbing poles on a Sarawak plantation, Malaysia''s main pepper-growing state.'
+heroCredit: 'Nick Allen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plant_climbing_poles.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Pepper is one of Malaysia's oldest and most geographically distinctive agricultural commodities: a vine imported from the Indian subcontinent and Sumatra that found its ideal home in the humid, well-drained hills of Sarawak, where it became the backbone of thousands of rural smallholdings. Though Malaysia is a modest player by global volume, it punches above its weight on reputation, selling a premium, origin-certified "Sarawak Pepper" into discerning markets. This article profiles the structure, geography, trade and prospects of the sector as a standalone industry.

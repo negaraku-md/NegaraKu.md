@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/chemicals-petrochemicals-industry/hero.webp'
+heroAlt: '巨大な石油化学精製所の施設群が夜にライトアップされ、蒸留塔と配管が、水辺近くでガスを燃やすフレアスタックのそばで輝いている。'
+heroCredit: 'Makubex1985 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 プラスチック、肥料、洗剤、合成ゴム、化粧品、塗料、そしてあなたのスマートフォンの筐体の中にある樹脂――これらはすべて化学物質として始まる。そして、その驚くほど多くが、あるいはその構成要素が、マレーシアで作られている。同国のよりよく知られた石油・ガスやパーム油の物語の背後には、大規模で、静かに戦略的な化学・石油化学産業が控えており、未加工の炭化水素と植物油を、現代の暮らしが依存する素材へと変えている。

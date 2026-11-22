@@ -102,6 +102,13 @@ keywords:
   - "JMG"
   - "Lynas"
 framework: profile
+hero: '/media/industries/minerals-mining-industry/hero.webp'
+heroAlt: 'جرّافة تعدين القصدير المحفوظة TT5 قائمة بجانب بركة تعدين سابقة في بيراك بماليزيا، أثر من حقبة تجريف القصدير في البلاد.'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TT5_Tin_Dredge_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 بُني اقتصاد ماليزيا الحديث، حرفيًا، بما حُفر من الأرض. فقبل زيت النخيل والإلكترونيات وأشباه الموصلات بزمن طويل، كان **القصدير** هو ما جعل شبه الجزيرة مهمة للعالم — فمّوّل السكك الحديدية، وأنمى مدنًا مثل إيبوه وكوالالمبور، واجتذب أجيالًا من المعدّنين المهاجرين. والتعدين أقدم قصة صناعية في البلاد، ومع أنه لم يعد يهيمن على الاقتصاد، تُعاد كتابته بهدوء حول جائزة حديثة جدًا: عناصر الأرض النادرة.

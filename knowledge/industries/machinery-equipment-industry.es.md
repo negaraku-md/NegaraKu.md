@@ -93,6 +93,13 @@ keywords:
   - Industry4WRD
   - MIDA
 framework: profile
+hero: '/media/industries/machinery-equipment-industry/hero.webp'
+heroAlt: 'Una nave de fábrica llena de máquinas herramienta CNC y trabajadores, típica de la fabricación de maquinaria y equipos.'
+heroCredit: 'Antoniusaw / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CNC_Machine_Facility.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Toda fábrica funciona con máquinas, y esas máquinas tiene que construirlas alguien. La industria de maquinaria y equipos (M&E) es la parte de la manufactura que fabrica las líneas de producción, la maquinaria de proceso, las herramientas para trabajar metales, los sistemas de potencia y la automatización de los que depende cada *otra* industria. Es la gran industria menos visible de la economía y, precisamente por esa razón, una de las más estratégicamente importantes.

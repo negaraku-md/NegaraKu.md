@@ -108,6 +108,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/space-industry/hero.webp'
+heroAlt: 'अंतरिक्ष यान को ट्रैक करने और उससे संवाद करने के लिए प्रयुक्त एक डिश एंटीना, एक यागी एंटीना और एक रेडोम वाला एक उपग्रह भू-स्टेशन।'
+heroCredit: 'Satopsnz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Antennas_at_Awarua_Satellite_Ground_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 मलेशिया अपने स्वयं के रॉकेट नहीं छोड़ता, फिर भी उसने एक अंतरिक्ष यात्री को उड़ाया है, माइक्रोसैटेलाइट बनाए और संचालित किए हैं, और अपने अधिकांश पड़ोसियों से पहले निजी अंतरिक्ष गतिविधि को लाइसेंस देने के लिए एक कानून पारित किया है। इसका अंतरिक्ष क्षेत्र छोटा और चुपचाप रणनीतिक है — ब्रॉडबैंड नीति, रक्षा, आपदा निगरानी और राष्ट्रीय प्रतिष्ठा में पिरोया हुआ। यह गाइड उस एजेंसी, कानून, उपग्रहों और महत्वाकांक्षाओं का मानचित्रण करती है जो मलेशिया की अंतरिक्ष अर्थव्यवस्था को बनाती हैं।

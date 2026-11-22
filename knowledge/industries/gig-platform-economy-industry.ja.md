@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/gig-platform-economy-industry/hero.webp'
+heroAlt: 'マレーシア・ペナンの街角の交差点で、保温配達ボックスを積んだバイクのフードデリバリー配達員が信号待ちをしている。'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 マレーシアでは毎日、何百万もの取引が、店でも、オフィスでも、タクシー乗り場でもなく、アプリによって手配されている。歩道に呼び出される車、オートバイで街を横切って運ばれる食べ物の袋、二度と会うことのない顧客のためにデザインされたロゴ。これがギグ・プラットフォーム経済――デジタルプラットフォームを介した仕事――であり、わずか10年あまりで、物珍しいものからマレーシアの労働生活の最も目に見える特徴の一つへと移ってきた。

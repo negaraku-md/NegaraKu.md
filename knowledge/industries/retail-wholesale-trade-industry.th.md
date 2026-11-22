@@ -96,6 +96,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/retail-wholesale-trade-industry/hero.webp'
+heroAlt: 'นักช็อป ร้านค้า และซุ้มขายปลีกทั่วโถงกลางหลายชั้นของห้างสรรพสินค้า NU Sentral ในกัวลาลัมเปอร์ ประเทศมาเลเซีย'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_NU_Sentral,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 แทบทุกริงกิตที่ชาวมาเลเซียใช้จ่ายไปกับสินค้าที่จับต้องได้ — ของชำ โทรศัพท์ รถยนต์ น้ำมันปรุงอาหารสักขวด — ล้วนผ่านการค้าปลีกและค้าส่ง มันคือระบบท่อน้ำของการบริโภคในชีวิตประจำวัน: เครือข่ายของผู้นำเข้า ผู้ค้าส่ง ผู้จัดจำหน่าย ร้านค้า ตลาด และร้านค้าออนไลน์ ที่เคลื่อนย้ายสินค้าจากที่ผลิตไปยังที่ซื้อ เจ้าหน้าที่เรียกเครือข่ายนี้ว่า **การค้าแบบกระจายสินค้า (distributive trade)** และมันเป็นหนึ่งในส่วนที่ใหญ่ที่สุดและเห็นได้ชัดที่สุดของเศรษฐกิจมาเลเซีย

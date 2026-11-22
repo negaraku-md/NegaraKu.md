@@ -95,6 +95,13 @@ keywords:
   - 三星 SDI
   - 电动车普及
 framework: profile
+hero: '/media/industries/electric-vehicle-battery-industry/hero.webp'
+heroAlt: '一台直流快速充电装置矗立在马来西亚一处高速公路休息站标有电动车标志的车位上。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 马来西亚造车已有半个世纪。如今它正试图让汽车电动化——同样重要的是，制造电动车所依赖的电池，并建设充电网络。这与[马来西亚汽车产业](/zh/industries/automotive-industry/)指南所讲的故事不同，后者主要关乎汽油车与柴油车。这里的主题是电动车与电池*生态系统*：车辆、激励、充电桩与工厂，它们共同决定马来西亚切换到电动出行的速度。

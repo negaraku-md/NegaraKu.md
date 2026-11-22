@@ -86,6 +86,13 @@ relations:
 related: []
 keywords: ["industri pembinaan", "CIDB", "gred kontraktor", "G1 G7", "Akta 520", "kad hijau", "pendaftaran kontraktor", "NCP 2030", "CITP"]
 framework: rules
+hero: '/media/industries/construction-industry/hero.webp'
+heroAlt: 'கோலாலம்பூரில் ஒரு உயரமான கட்டிடக் கட்டுமானத் தளத்தின் ஆழமான அடித்தள தோண்டுதல், கோபுர கிரேன்கள், சிவப்பு தாங்கு கம்பிகள் மற்றும் தொழிலாளர்களுடன், நகர வானளாவிய காட்சியை பின்னணியாகக் கொண்டு.'
+heroCredit: 'InterEdit88 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ஒப்பந்ததாரர் பதிவுச் சான்றிதழை வைத்திருக்காமல் RM250,000 மதிப்புள்ள ஒரு பள்ளி வேலியை எழுப்ப முயலுங்கள் — முதல் கம்பம் நடப்படுவதற்கு முன்பே உங்கள் திட்டத்தை உடனடியாக நிறுத்துமாறு உத்தரவிடப்படலாம். மலேசியாவில், கட்டுவதற்கான உரிமை இயந்திரங்களுடனோ தொழிலாளர்களுடனோ தொடங்குவதில்லை; அது ஒரே ஒரு பதிவுடன் தொடங்குகிறது.

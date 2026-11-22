@@ -101,6 +101,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/medical-devices-industry/hero.webp'
+heroAlt: 'Cetakan berbentuk tangan yang dilapisi lateks cair pada lini pencelupan, proses inti dalam pembuatan sarung tangan sekali pakai.'
+heroCredit: 'Marketingdepascale / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Jika Anda pernah mengenakan sarung tangan bedah, diambil darahnya melalui kateter, atau pulih dengan bantuan implan ortopedi, ada kemungkinan yang masuk akal bahwa peranti itu dibuat di Malaysia. Di luar sarung tangan karetnya yang terkenal, negara ini diam-diam telah menjadi tempat terpenting di Asia Tenggara untuk memproduksi peranti medis — dan salah satu basis manufaktur medtech yang lebih signifikan di mana pun di dunia.

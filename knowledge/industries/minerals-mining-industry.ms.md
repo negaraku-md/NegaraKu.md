@@ -97,6 +97,13 @@ keywords:
   - JMG
   - Lynas
 framework: profile
+hero: '/media/industries/minerals-mining-industry/hero.webp'
+heroAlt: 'Kapal korek bijih timah TT5 yang terpelihara berdiri di sisi bekas kolam perlombongan di Perak, Malaysia, satu peninggalan era pengorekan bijih timah negara.'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TT5_Tin_Dredge_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Ekonomi moden Malaysia, secara harfiah, digali keluar dari tanah. Jauh sebelum minyak sawit, elektronik atau semikonduktor, **bijih timah**-lah yang menjadikan semenanjung ini penting kepada dunia — membiayai landasan kereta api, menumbuhkan bandar seperti Ipoh dan Kuala Lumpur, dan menarik generasi pelombong pendatang. Perlombongan ialah kisah perindustrian tertua negara, dan walaupun ia tidak lagi mendominasi ekonomi, ia secara senyap ditulis semula di sekitar satu hadiah yang sangat moden: unsur nadir bumi.

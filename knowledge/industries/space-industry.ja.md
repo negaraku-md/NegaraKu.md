@@ -108,6 +108,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/space-industry/hero.webp'
+heroAlt: 'パラボラアンテナ、八木アンテナ、レドームを備えた衛星地上局。宇宙機の追跡および通信に用いられる。'
+heroCredit: 'Satopsnz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Antennas_at_Awarua_Satellite_Ground_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシアは自国のロケットを打ち上げていないが、宇宙飛行士を飛ばし、マイクロ衛星を製造・運用し、近隣の多くの国に先駆けて民間宇宙活動を許認可する法律を可決した。その宇宙部門は小規模で、静かに戦略的だ — ブロードバンド政策、防衛、災害監視、そして国家の威信に糸を通している。本ガイドは、マレーシアの宇宙経済を構成する機関、法律、衛星、そして野望を地図にする。

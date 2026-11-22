@@ -96,6 +96,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/retail-wholesale-trade-industry/hero.webp'
+heroAlt: 'Pembeli-belah, kedai dan kiosk runcit di sepanjang atrium berbilang tingkat pusat beli-belah NU Sentral di Kuala Lumpur, Malaysia.'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_NU_Sentral,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Hampir setiap ringgit yang dibelanjakan rakyat Malaysia ke atas barangan fizikal — barangan runcit, telefon, kereta, sebotol minyak masak — melalui perdagangan runcit dan borong. Ia ialah paip kepada penggunaan harian: rangkaian pengimport, pemborong, pengedar, kedai, pasar dan gedung dalam talian yang menggerakkan produk daripada tempat ia dibuat ke tempat ia dibeli. Pegawai memanggil rangkaian ini **perdagangan edaran**, dan ia ialah salah satu bahagian ekonomi Malaysia yang terbesar dan paling ketara.

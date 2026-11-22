@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/plastics-packaging-industry/hero.webp'
+heroAlt: 'Một máy ép phun được trang bị cánh tay robot đặt những khay nhựa vừa đúc xong lên băng chuyền trong một nhà máy.'
+heroCredit: 'The robotic engineer1 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Gần như mọi sản phẩm vật chất rời khỏi một nhà máy Malaysia — một gói mì ăn liền, một chiếc điện thoại thông minh, một cản xe hơi, một đoạn ống nước — đều phụ thuộc vào nhựa được tạo hình ở đâu đó trong nước. Nhựa là một trong những thế mạnh công nghiệp thầm lặng của Malaysia: ít hào nhoáng hơn bán dẫn, nhưng dệt vào gần như mọi khu vực chế tạo khác và, ngày càng, vào cuộc tranh luận quốc gia về rác thải và tính bền vững.

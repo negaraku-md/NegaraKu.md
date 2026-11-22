@@ -110,6 +110,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/pepper-industry/hero.webp'
+heroAlt: 'صفوف من كروم الفلفل الأسود مدرّبة على أعمدة تسلّق خشبية في مزرعة في ساراواك، الولاية الرئيسية لزراعة الفلفل في ماليزيا.'
+heroCredit: 'Nick Allen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plant_climbing_poles.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 الفلفل من أقدم السلع الزراعية الماليزية وأكثرها تميّزاً جغرافياً: كرمة استُقدمت من شبه القارة الهندية وسومطرة فوجدت موطنها المثالي في تلال سراواك الرطبة جيدة الصرف، حيث غدت العمود الفقري لآلاف الحيازات الريفية الصغيرة. ومع أن ماليزيا لاعب متواضع من حيث الحجم العالمي، فهي أكبر من حجمها من حيث السمعة، إذ تبيع "فلفل سراواك" المتميّز المعتمد المنشأ إلى أسواق مميّزة. يستعرض هذا المقال بنية القطاع وجغرافيته وتجارته وآفاقه بوصفه صناعة قائمة بذاتها.

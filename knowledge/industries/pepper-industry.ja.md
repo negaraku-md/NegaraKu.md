@@ -109,6 +109,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/pepper-industry/hero.webp'
+heroAlt: 'マレーシア・サラワク州のプランテーションで、木の支柱に這わせて育てられた黒コショウのつるが列をなす。サラワク州はマレーシア主要のコショウ栽培州である。'
+heroCredit: 'Nick Allen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plant_climbing_poles.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 コショウはマレーシアで最も古く、最も地理的に特徴的な農産物の一つである。インド亜大陸とスマトラから持ち込まれたこのつる植物は、湿潤で水はけのよいサラワク州の丘陵地に理想の棲み家を見出し、何千もの農村の小規模農地の屋台骨となった。マレーシアは世界的な量では控えめな存在だが、評判では実力以上の力を発揮し、原産地証明付きのプレミアムな「サラワク・コショウ」を目の肥えた市場に売り込んでいる。本稿では、独立した一産業としての同部門の構造、地理、貿易、見通しを紹介する。

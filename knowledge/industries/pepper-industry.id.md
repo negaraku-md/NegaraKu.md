@@ -110,6 +110,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/pepper-industry/hero.webp'
+heroAlt: 'Deretan tanaman lada hitam yang dirambatkan pada tiang panjat kayu di sebuah perkebunan di Sarawak, negara bagian penghasil lada utama Malaysia.'
+heroCredit: 'Nick Allen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plant_climbing_poles.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Lada adalah salah satu komoditas pertanian Malaysia yang tertua dan paling khas secara geografis: sulur yang diimpor dari anak benua India dan Sumatra yang menemukan rumah idealnya di perbukitan Sarawak yang lembap dan berdrainase baik, tempat ia menjadi tulang punggung ribuan kebun kecil pedesaan. Meski Malaysia adalah pemain sederhana dari sisi volume global, ia bertarung melampaui bobotnya dari sisi reputasi, menjual "Lada Sarawak" premium bersertifikat asal ke pasar yang jeli. Artikel ini memprofilkan struktur, geografi, perdagangan dan prospek sektor ini sebagai industri yang berdiri sendiri.

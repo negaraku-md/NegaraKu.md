@@ -107,6 +107,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/cocoa-industry/hero.webp'
+heroAlt: 'Dua buah kakao hijau besar tumbuh langsung dari batang pohon kakao di perkebunan yang teduh.'
+heroCredit: 'Hanay / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cacao_fruit_in_C%C3%B4te_d''Ivoire_(11).JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Malaysia adalah salah satu pengolah kakao terbesar dunia yang nyaris berhenti menanam kakao. Dalam satu generasi, negara ini berubah dari produsen biji empat besar, dengan lerengnya di Sabah dan Semenanjung Malaysia sarat buah kakao, menjadi tempat yang mengimpor biji dengan kapal kargo dan hampir tidak memanen beberapa ratus ton biji sendiri. Yang bertahan, dan berkembang, adalah ujung pabrik: pabrik penggilingan, kilang penyulingan, dan lini cokelat yang mengubah biji impor menjadi mentega kakao, bubuk, pasta dan cokelat jadi untuk diekspor. Hasilnya adalah "paradoks kakao" - industri hilir kelas dunia yang bertengger di atas sektor hulu yang nyaris lenyap.

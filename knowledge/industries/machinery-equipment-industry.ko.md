@@ -94,6 +94,13 @@ keywords:
   - Industry4WRD
   - MIDA
 framework: profile
+hero: '/media/industries/machinery-equipment-industry/hero.webp'
+heroAlt: 'CNC 공작기계와 작업자들이 늘어선 공장 작업장으로, 기계 및 장비 제조업의 전형적인 모습이다.'
+heroCredit: 'Antoniusaw / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CNC_Machine_Facility.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 모든 공장은 기계로 돌아가며 — 그 기계는 누군가가 만들어야 합니다. 기계·장비(M&E) 산업은 다른 *모든* 산업이 의존하는 생산 라인, 공정 기계, 금속가공 공구, 동력 시스템, 자동화를 만드는 제조업의 한 부분입니다. 경제에서 가장 눈에 띄지 않는 대형 산업이면서, 바로 그 이유로 가장 전략적으로 중요한 산업 중 하나입니다.

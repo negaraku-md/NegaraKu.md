@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/biotechnology-life-sciences-industry/hero.webp'
+heroAlt: 'Seorang ilmuwan yang mengenakan gaun pelindung, sarung tangan, dan pelindung wajah menggunakan pipet untuk memindahkan sampel ke dalam vial di dalam kabinet biosafety laboratorium.'
+heroCredit: 'James Gathany / CDC / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Malaysia tidak memiliki universitas riset yang mendalam atau kedalaman modal ventura seperti Boston atau Shanghai, tetapi ia memiliki tiga hal yang menjadikan bioteknologi taruhan jangka panjang yang logis: salah satu khazanah keanekaragaman hayati tropis terkaya di dunia, aliran biomassa minyak sawit dan pertanian yang sangat besar, serta otoritas yang diakui secara global dalam sertifikasi halal. Selama lebih dari dua dekade pemerintah telah berupaya mengubah anugerah itu menjadi industri ilmu hayati modern. Panduan ini menjelaskan bagaimana upaya itu diorganisasi, apa yang telah dibangunnya, dan ke mana arahnya.

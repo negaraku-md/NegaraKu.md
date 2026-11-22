@@ -100,6 +100,13 @@ keywords:
   - "Samsung SDI"
   - "تبنّي المركبات الكهربائية"
 framework: profile
+hero: '/media/industries/electric-vehicle-battery-industry/hero.webp'
+heroAlt: 'وحدة شحن سريع بالتيار المستمر قائمة في موقف مخصّص للمركبات الكهربائية في استراحة على طريق سريع في ماليزيا.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 قضت ماليزيا نصف قرن تبني السيارات. والآن تحاول كهربتها — والأهم أن تصنع البطاريات وتبني شبكة الشحن التي تعتمد عليها المركبات الكهربائية. وهذه قصة مختلفة عن تلك التي يرويها دليل [صناعة السيارات في ماليزيا](/ar/industries/automotive-industry/)، المعنيّ أساسًا بسيارات البنزين والديزل. أما الموضوع هنا فهو *منظومة* المركبات الكهربائية والبطاريات: المركبات والحوافز والشواحن والمصانع التي تقرّر معًا سرعة تحوّل ماليزيا إلى التنقّل الكهربائي.

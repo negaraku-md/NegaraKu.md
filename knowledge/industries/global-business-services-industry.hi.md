@@ -98,6 +98,13 @@ keywords:
   - Malaysia Digital
   - ऑफशोरिंग
 framework: profile
+hero: '/media/industries/global-business-services-industry/hero.webp'
+heroAlt: 'साइबरजया में एक आधुनिक कॉर्पोरेट कार्यालय भवन, जो प्रौद्योगिकी और वैश्विक व्यापार सेवाओं के लिए मलेशिया के प्रमुख केंद्रों में से एक है।'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 अभी इसी समय साइबरजया या कुआलालंपुर में कहीं, एक एकाउंटेंट लंदन में मुख्यालय वाली किसी कंपनी की मासिक बहियाँ बंद कर रहा है, एक हेल्प-डेस्क एजेंट सिडनी में किसी ग्राहक का टिकट हल कर रहा है, और एक डेटा विश्लेषक जर्मनी में किसी कारखाने के लिए एक डैशबोर्ड बना रहा है। इनमें से कोई भी नियोक्ता मलेशिया में कुछ नहीं बनाता। जो वे यहाँ चलाते हैं वह कुछ कम दृश्य पर तेज़ी से मूल्यवान है: उनका वैश्विक बैक-ऑफिस।

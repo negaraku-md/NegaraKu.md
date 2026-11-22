@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/textiles-apparel-industry/hero.webp'
+heroAlt: 'ஒரு ஆடை தொழிற்சாலைக்குள் ஒரு அசெம்பிளி வரிசையில் ஆடைகளை தைத்து முடிக்கும் தொழிலாளர்கள்.'
+heroCredit: 'Tareq Salahuddin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 மலேசியா கணினி சிப்புகள் மற்றும் பனை எண்ணெய்க்காக அறியப்படுவதற்கு நீண்ட காலத்திற்கு முன்பே, அது துணி மற்றும் ஆடைகளைத் தயாரித்தது. ஜவுளி, ஆடை மற்றும் காலணித் தொழில் நாட்டின் பழமையான நவீன உற்பத்தித் துறைகளில் ஒன்றாகும் — 1970கள் மற்றும் 1980களில் தொழில்மயமாக்கலைத் தொடங்க உதவிய உழைப்பு-செறிந்த, ஏற்றுமதி-நோக்கிய வணிகம். இன்று அது மிகப் பெரிய பொருளாதாரத்தின் ஒரு சிறிய பகுதி, ஆனால் அது ஒரு உண்மையான வேலைவாய்ப்பு அளிப்பவராகவும், நிலையான ஏற்றுமதியாளராகவும், அரசாங்கம் தீவிரமாக மறுஉருவாக்க முயலும் துறையாகவும் இருக்கிறது.

@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/textiles-apparel-industry/hero.webp'
+heroAlt: 'Công nhân may và hoàn thiện quần áo dọc theo dây chuyền lắp ráp bên trong một nhà máy may mặc.'
+heroCredit: 'Tareq Salahuddin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Rất lâu trước khi Malaysia được biết đến vì chip máy tính và dầu cọ, nước này đã làm ra vải và quần áo. Ngành dệt may, trang phục và giày dép là một trong những khu vực chế tạo hiện đại lâu đời nhất của đất nước — loại hình kinh doanh thâm dụng lao động, hướng xuất khẩu đã giúp khởi động công nghiệp hóa trong thập niên 1970 và 1980. Ngày nay nó là một lát cắt nhỏ hơn của một nền kinh tế lớn hơn nhiều, nhưng vẫn là một nhà tuyển dụng thực sự, một nhà xuất khẩu ổn định, và là một lĩnh vực mà chính phủ đang tích cực cố gắng tái sinh.

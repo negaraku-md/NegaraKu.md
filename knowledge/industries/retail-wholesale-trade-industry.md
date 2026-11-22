@@ -95,6 +95,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/retail-wholesale-trade-industry/hero.webp'
+heroAlt: 'Shoppers, stores and retail kiosks across the multi-level atrium of NU Sentral shopping mall in Kuala Lumpur, Malaysia.'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_NU_Sentral,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Almost every ringgit a Malaysian spends on physical goods — groceries, a phone, a car, a bottle of cooking oil — passes through the retail and wholesale trade. It is the plumbing of everyday consumption: the network of importers, wholesalers, distributors, shops, markets and online stores that moves products from where they are made to where they are bought. Officials call this network **distributive trade**, and it is one of the largest and most visible parts of the Malaysian economy.

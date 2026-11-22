@@ -107,6 +107,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/cocoa-industry/hero.webp'
+heroAlt: 'ثمرتان كبيرتان خضراوان من الكاكاو تنموان مباشرةً من جذع شجرة كاكاو في مزرعة مظلّلة.'
+heroCredit: 'Hanay / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cacao_fruit_in_C%C3%B4te_d''Ivoire_(11).JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ماليزيا من كبار معالجي الكاكاو في العالم رغم أنها كادت تتوقف عن زراعته. ففي جيل واحد، انتقلت البلاد من كونها من أكبر أربعة منتجين للحبوب، تثقل القرون سفوحها في صباح وشبه الجزيرة الماليزية، إلى مكان يستورد الحبوب بالشحنات ولا يكاد يحصد بضع مئات من الأطنان من إنتاجه. أما ما بقي وازدهر فهو الطرف الصناعي: مطاحن الطحن والمصافي وخطوط الشوكولاتة التي تحوّل الحبوب المستوردة إلى زبدة كاكاو ومسحوق وسائل وحلويات جاهزة للتصدير. والنتيجة "مفارقة الكاكاو" - صناعة نهائية عالمية المستوى تقوم على مرحلة أولية اختفت تقريباً.

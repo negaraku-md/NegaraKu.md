@@ -98,6 +98,13 @@ keywords:
   - Malaysia Digital
   - offshoring
 framework: profile
+hero: '/media/industries/global-business-services-industry/hero.webp'
+heroAlt: 'Sebuah gedung perkantoran korporat modern di Cyberjaya, salah satu pusat utama Malaysia untuk teknologi dan layanan bisnis global.'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Di suatu tempat di Cyberjaya atau Kuala Lumpur saat ini, seorang akuntan sedang menutup pembukuan bulanan bagi sebuah perusahaan yang berkantor pusat di London, seorang agen help-desk sedang menyelesaikan tiket bagi pelanggan di Sydney, dan seorang analis data sedang membangun dasbor bagi sebuah pabrik di Jerman. Tak satu pun dari pemberi kerja itu memproduksi apa pun di Malaysia. Yang mereka jalankan di sini adalah sesuatu yang kurang kasatmata tetapi kian bernilai: back office global mereka.

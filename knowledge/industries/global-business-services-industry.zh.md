@@ -98,6 +98,13 @@ keywords:
   - 马来西亚数字
   - 离岸外包
 framework: profile
+hero: '/media/industries/global-business-services-industry/hero.webp'
+heroAlt: '马来西亚赛城的一栋现代化企业办公大楼，赛城是马来西亚科技与全球商业服务的主要中心之一。'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 此刻在赛城或吉隆坡的某处，一名会计正为一家总部设在伦敦的公司结算月度账目，一名服务台专员正为一位悉尼的客户解决工单，一名数据分析师正为一家德国工厂构建仪表板。这些雇主没有一家在马来西亚制造任何东西。他们在这里运行的，是某种不那么显眼却日益珍贵的东西：他们的全球后台。

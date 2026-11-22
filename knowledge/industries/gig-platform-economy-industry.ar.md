@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/gig-platform-economy-industry/hero.webp'
+heroAlt: 'سائق توصيل طعام على درّاجة نارية مزوّدة بصندوق توصيل معزول ينتظر عند تقاطع شارع في بينانغ بماليزيا.'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 كل يوم، تُرتَّب ملايين المعاملات في ماليزيا لا عبر متجر أو مكتب أو موقف سيارات أجرة، بل عبر تطبيق: سيارة تُستدعى إلى الرصيف، وكيس طعام يُحمل عبر المدينة على دراجة نارية، وشعار يُصمَّم لعميل لن يلتقيه المستقلّ أبدًا. هذا هو اقتصاد العمل الحرّ والمنصّات — عملٌ تتوسّطه المنصّات الرقمية — وفي ما يزيد قليلًا على عقد انتقل من طرافة إلى واحدة من أكثر سمات حياة العمل الماليزية ظهورًا.

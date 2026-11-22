@@ -103,6 +103,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/aquaculture-industry/hero.webp'
+heroAlt: '一排排用于养鱼的浮动网箱整齐地排列在平静的湖面上，湖的一端有一座看守人的小屋。'
+heroCredit: 'Sophia Guevara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Foto_Keramba_Ikan_(Panatapan,_Parapat,_Simalungun).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 马来西亚人餐桌上的大部分鱼仍然来自海洋——但如今有一个快速增长的份额来自池塘、网箱或延绳养殖筏。那就是水产养殖：有意识地养殖水生生物，而非捕捞野外游动的鱼。随着马来西亚野生捕捞量趋于停滞、蛋白质需求攀升，水产养殖已成为该国保持餐桌有鱼的主要杠杆。本文深入探讨这项业务的养殖端；关于包括渔船队、渔民福利和执法在内的更全面情况，请参阅[渔业概览](/zh/agriculture/malaysian-fisheries-industry/)。

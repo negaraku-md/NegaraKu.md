@@ -106,6 +106,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/cocoa-industry/hero.webp'
+heroAlt: 'Two large green cocoa pods growing directly from the trunk of a cacao tree in a shaded plantation.'
+heroCredit: 'Hanay / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cacao_fruit_in_C%C3%B4te_d''Ivoire_(11).JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Malaysia is one of the world's great cocoa processors that has almost stopped growing cocoa. In a single generation the country went from a top-four bean producer, its hillsides in Sabah and Peninsular Malaysia heavy with pods, to a place that imports beans by the shipload and barely harvests a few hundred tonnes of its own. What stayed, and thrived, was the factory end: the grinding mills, refineries and chocolate lines that turn imported beans into cocoa butter, powder, liquor and finished confectionery for export. The result is a "cocoa paradox" - a world-class downstream industry sitting on an upstream that has all but disappeared.

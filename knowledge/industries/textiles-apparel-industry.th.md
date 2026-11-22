@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/textiles-apparel-industry/hero.webp'
+heroAlt: 'คนงานกำลังเย็บและตกแต่งเสื้อผ้าตามสายการประกอบภายในโรงงานตัดเย็บเสื้อผ้า'
+heroCredit: 'Tareq Salahuddin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 นานก่อนที่มาเลเซียจะเป็นที่รู้จักในเรื่องชิปคอมพิวเตอร์และน้ำมันปาล์ม ประเทศนี้ผลิตผ้าและเสื้อผ้า อุตสาหกรรมสิ่งทอ เครื่องนุ่งห่ม และรองเท้าเป็นหนึ่งในภาคการผลิตสมัยใหม่ที่เก่าแก่ที่สุดของประเทศ — ธุรกิจแบบใช้แรงงานเข้มข้นและมุ่งส่งออกที่ช่วยจุดชนวนการพัฒนาอุตสาหกรรมในทศวรรษ 1970 และ 1980 ทุกวันนี้มันเป็นส่วนเล็กกว่าของเศรษฐกิจที่ใหญ่กว่ามาก แต่ยังคงเป็นนายจ้างจริง ผู้ส่งออกที่มั่นคง และเป็นภาคที่รัฐบาลกำลังพยายามปรับโฉมอย่างแข็งขัน

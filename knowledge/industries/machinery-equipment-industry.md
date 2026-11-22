@@ -92,6 +92,13 @@ keywords:
   - Industry4WRD
   - MIDA
 framework: profile
+hero: '/media/industries/machinery-equipment-industry/hero.webp'
+heroAlt: 'A factory floor lined with CNC machine tools and workers, typical of machinery and equipment manufacturing.'
+heroCredit: 'Antoniusaw / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CNC_Machine_Facility.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Every factory runs on machines — and those machines have to be built by someone. The machinery & equipment (M&E) industry is the part of manufacturing that makes the production lines, process machinery, metalworking tools, power systems and automation that every *other* industry depends on. It is the least visible big industry in the economy and, for exactly that reason, one of the most strategically important.

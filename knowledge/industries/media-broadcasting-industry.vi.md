@@ -101,6 +101,13 @@ revisions:
     reviewer: null
 framework: profile
 wikidata: "Q6805904"
+hero: '/media/industries/media-broadcasting-industry/hero.webp'
+heroAlt: 'Khu phức hợp phát thanh truyền hình Angkasapuri ở Kuala Lumpur, trụ sở của đài truyền hình công cộng quốc gia Malaysia.'
+heroCredit: 'Two hundred percent / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angkasapuri,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Khi người Malaysia nói về "truyền thông," họ thường muốn nói đến một trong vài cái tên quen thuộc: chảo vệ tinh Astro gắn bên hông nhà, bản tin TV3, một chương trình phát thanh buổi sáng trên đường đi làm, hoặc — ngày càng nhiều — bất cứ thứ gì đang phát trên điện thoại khi di chuyển. Những điểm chạm hằng ngày đó thuộc về một ngành duy nhất, rộng lớn: truyền thông và phát sóng. Nó là một trong những khu vực dịch vụ dễ thấy hơn của đất nước, và cũng là một trong những khu vực bị xáo trộn nhiều nhất.

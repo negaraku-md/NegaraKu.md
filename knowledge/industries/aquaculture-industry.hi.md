@@ -103,6 +103,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/aquaculture-industry/hero.webp'
+heroAlt: 'एक झील की शांत सतह पर पंक्तियों में व्यवस्थित मछली पालन के लिए तैरते जाल पिंजरे, एक छोर पर देखभालकर्ता की झोपड़ी के साथ।'
+heroCredit: 'Sophia Guevara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Foto_Keramba_Ikan_(Panatapan,_Parapat,_Simalungun).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 किसी मलेशियाई डिनर प्लेट की अधिकांश मछली अब भी समुद्र से आती है — पर एक तेज़ी से बढ़ता हिस्सा अब एक तालाब, एक पिंजरे या एक लॉन्ग-लाइन राफ़्ट से आता है। यही जलकृषि है: जलीय जीवन का जानबूझकर किया गया पालन, न कि जंगल में जो तैरता है उसे पकड़ना। जैसे-जैसे मलेशिया की जंगली पकड़ स्थिर होती है और प्रोटीन की माँग बढ़ती है, जलकृषि देश का मेज़ पर मछली रखने का मुख्य लीवर बन गई है। यह लेख व्यवसाय के पाले गए पक्ष पर गहराई से जाता है; व्यापक तस्वीर के लिए, जिसमें मछली पकड़ने का बेड़ा, मछुआरों का कल्याण और प्रवर्तन शामिल है, [मत्स्य उद्योग अवलोकन](/hi/agriculture/malaysian-fisheries-industry/) देखें।

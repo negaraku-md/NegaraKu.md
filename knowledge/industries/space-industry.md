@@ -107,6 +107,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/space-industry/hero.webp'
+heroAlt: 'A satellite ground station with a dish antenna, a yagi antenna and a radome used to track and communicate with spacecraft.'
+heroCredit: 'Satopsnz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Antennas_at_Awarua_Satellite_Ground_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Malaysia does not launch rockets of its own, yet it has flown an astronaut, built and operated microsatellites, and passed a law to license private space activity before most of its neighbours. Its space sector is small and quietly strategic — threaded through broadband policy, defence, disaster monitoring and national prestige. This guide maps the agency, the law, the satellites and the ambitions that make up Malaysia's space economy.

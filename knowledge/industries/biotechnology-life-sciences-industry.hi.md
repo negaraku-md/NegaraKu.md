@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/biotechnology-life-sciences-industry/hero.webp'
+heroAlt: 'सुरक्षात्मक गाउन, दस्ताने और फेस शील्ड पहने एक वैज्ञानिक प्रयोगशाला के बायोसेफ्टी कैबिनेट के अंदर पिपेट से नमूनों को शीशियों में स्थानांतरित करता है।'
+heroCredit: 'James Gathany / CDC / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 मलेशिया के पास किसी बोस्टन या शंघाई जैसी गहन शोध विश्वविद्यालयों या वेंचर-कैपिटल की गहराई नहीं है, लेकिन उसके पास तीन चीज़ें हैं जो जैव-प्रौद्योगिकी को एक तार्किक दीर्घकालिक दाँव बनाती हैं: उष्णकटिबंधीय जैव-विविधता के दुनिया के सबसे समृद्ध भंडारों में से एक, पाम-तेल और कृषि बायोमास की एक विशाल धारा, और हलाल प्रमाणन में एक विश्व-स्तर पर मान्यता-प्राप्त अधिकार। दो दशकों से अधिक समय से सरकार इन संपदाओं को एक आधुनिक जीव-विज्ञान उद्योग में बदलने का प्रयास कर रही है। यह मार्गदर्शिका बताती है कि यह प्रयास कैसे संगठित है, इसने क्या बनाया है, और यह किस ओर जा रहा है।

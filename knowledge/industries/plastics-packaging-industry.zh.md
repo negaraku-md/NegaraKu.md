@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/plastics-packaging-industry/hero.webp'
+heroAlt: '工厂里一台配有机械臂的注塑机正把刚成型的塑料托盘放到传送带上。'
+heroCredit: 'The robotic engineer1 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 几乎每一件走出马来西亚工厂的实物产品——一包即食面、一部智能手机、一个汽车保险杠、一段水管——都依赖于在这个国家某处成型的塑料。塑料是马来西亚安静的工业强项之一：不如半导体那般光鲜，却几乎编织进其他每一个制造业领域，而且日益深入关于废料与可持续性的全国辩论之中。

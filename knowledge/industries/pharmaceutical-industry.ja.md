@@ -98,6 +98,13 @@ keywords:
   - vaccine fill-finish
   - PIC/S GMP
 framework: profile
+hero: '/media/industries/pharmaceutical-industry/hero.webp'
+heroAlt: 'キャップを閉めた薬剤バイアルが、製薬製造ラインの自動コンベヤー上を移動している。'
+heroCredit: 'Josep Lago, European Commission / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシア人が抗生物質、鎮痛剤、あるいは血圧の錠剤の処方を受けるたびに、その医薬品がマレーシアで作られた可能性は十分にある――ここで発明されたのではなく、国際的な製造基準に準拠して操業する地場の工場で、処方され、打錠され、充填され、包装されたのだ。それこそがマレーシアの製薬産業の核心である。すなわち、国民の薬箱を満たし続ける堅実な、ジェネリック主導の製造基盤と、同国がバリューチェーンを駆け上がる助けになると期待する、より野心的な二つの賭け――ハラル医薬品とワクチン生産――である。

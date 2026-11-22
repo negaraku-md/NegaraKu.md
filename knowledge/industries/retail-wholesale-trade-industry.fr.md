@@ -96,6 +96,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/retail-wholesale-trade-industry/hero.webp'
+heroAlt: 'Des clients, des boutiques et des kiosques de vente au détail répartis dans l''atrium à plusieurs niveaux du centre commercial NU Sentral à Kuala Lumpur, en Malaisie.'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_NU_Sentral,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Presque chaque ringgit qu'un Malaisien dépense en biens physiques — des courses, un téléphone, une voiture, une bouteille d'huile de cuisson — transite par le commerce de détail et de gros. C'est la plomberie de la consommation quotidienne : le réseau d'importateurs, de grossistes, de distributeurs, de magasins, de marchés et de boutiques en ligne qui achemine les produits de leur lieu de fabrication jusqu'à leur lieu d'achat. Les autorités appellent ce réseau le **commerce de distribution**, et c'est l'une des composantes les plus vastes et les plus visibles de l'économie malaisienne.

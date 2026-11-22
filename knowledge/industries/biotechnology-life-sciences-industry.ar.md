@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/biotechnology-life-sciences-industry/hero.webp'
+heroAlt: 'عالِم يرتدي ثوبًا واقيًا وقفازات وواقيًا للوجه يستخدم ماصّة لنقل العينات إلى قوارير داخل خزانة السلامة الحيوية في المختبر.'
+heroCredit: 'James Gathany / CDC / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 لا تملك ماليزيا الجامعات البحثية العميقة ولا عمق رأس المال المغامر اللذين لبوسطن أو شنغهاي، لكنها تملك ثلاثة أشياء تجعل التقنية الحيوية رهانًا منطقيًا طويل الأمد: واحدة من أغنى كنوز العالم من التنوّع الحيوي الاستوائي، وتيّارًا هائلًا من الكتلة الحيوية من زيت النخيل والزراعة، وسلطةً معترَفًا بها عالميًا في الاعتماد الحلال. ولأكثر من عقدين، ظلّت الحكومة تحاول تحويل تلك الثروات إلى صناعة علوم حياة حديثة. يشرح هذا الدليل كيف يُنظَّم ذلك الجهد، وما بناه، وإلى أين يتجه.

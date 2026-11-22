@@ -101,6 +101,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/medical-devices-industry/hero.webp'
+heroAlt: 'Acuan berbentuk tangan bersalut lateks cair pada barisan celupan, proses teras dalam pembuatan sarung tangan pakai buang.'
+heroCredit: 'Marketingdepascale / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Jika anda pernah memakai sarung tangan pembedahan, diambil darah melalui kateter, atau pulih dengan bantuan implan ortopedik, ada kemungkinan munasabah peranti itu dibuat di Malaysia. Selain sarung tangan getahnya yang terkenal, negara ini secara senyap telah menjadi tempat paling penting di Asia Tenggara untuk membuat peranti perubatan — dan salah satu asas pembuatan medtek yang lebih ketara di mana-mana di dunia.

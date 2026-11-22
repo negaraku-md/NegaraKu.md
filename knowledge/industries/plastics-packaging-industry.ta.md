@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/plastics-packaging-industry/hero.webp'
+heroAlt: 'ஒரு தொழிற்சாலையில் புதிதாக வார்க்கப்பட்ட பிளாஸ்டிக் தட்டுகளை கன்வேயரில் வைக்கும் ரோபோ கையுடன் பொருத்தப்பட்ட ஒரு ஊசி-வார்ப்பு இயந்திரம்.'
+heroCredit: 'The robotic engineer1 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ஒரு மலேசியத் தொழிற்சாலையிலிருந்து வெளியேறும் ஏறக்குறைய ஒவ்வொரு உடல்-ரீதியான பொருளும் — ஒரு இன்ஸ்டன்ட் நூடுல்ஸ் பாக்கெட், ஒரு ஸ்மார்ட்போன், ஒரு கார் பம்பர், ஒரு நீர்க்குழாய் நீளம் — நாட்டில் எங்காவது வடிவமைக்கப்பட்ட பிளாஸ்டிக்கைச் சார்ந்துள்ளது. பிளாஸ்டிக்குகள் மலேசியாவின் அமைதியான தொழில்துறை பலங்களில் ஒன்று: அரைக்கடத்திகளை விட குறைந்த கவர்ச்சி, ஆனால் ஏறக்குறைய ஒவ்வொரு மற்ற உற்பத்தித் துறையிலும், மற்றும் பெருகிய முறையில் கழிவு மற்றும் நிலைத்தன்மை குறித்த தேசிய விவாதத்திலும் பிணைந்துள்ளது.

@@ -86,6 +86,13 @@ relations:
 related: []
 keywords: ["industri pembinaan", "CIDB", "gred kontraktor", "G1 G7", "Akta 520", "kad hijau", "pendaftaran kontraktor", "NCP 2030", "CITP"]
 framework: rules
+hero: '/media/industries/construction-industry/hero.webp'
+heroAlt: 'クアラルンプールの高層ビル建設現場の深い基礎掘削。タワークレーンや赤い山留め支保工、作業員が見え、背景に街のスカイラインが広がる。'
+heroCredit: 'InterEdit88 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 請負業者登録証を持たずにRM250,000相当の学校フェンス建設を試みれば、最初の支柱を打ち込む前に、プロジェクトは即座に停止を命じられかねない。マレーシアでは、建設する権利は機械や労働力から始まるのではなく、一つの登録から始まる。

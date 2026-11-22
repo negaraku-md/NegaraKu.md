@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/biotechnology-life-sciences-industry/hero.webp'
+heroAlt: 'Un scientifique vêtu d''une blouse de protection, de gants et d''une visière utilise une pipette pour transférer des échantillons dans des flacons à l''intérieur d''une enceinte de biosécurité de laboratoire.'
+heroCredit: 'James Gathany / CDC / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 La Malaisie n'a pas les universités de recherche de pointe ni la profondeur de capital-risque d'un Boston ou d'un Shanghai, mais elle possède trois atouts qui font de la biotechnologie un pari logique à long terme : l'un des trésors de biodiversité tropicale les plus riches au monde, un flux énorme de biomasse d'huile de palme et agricole, et une autorité mondialement reconnue en matière de certification halal. Depuis plus de deux décennies, le gouvernement s'efforce de transformer ces dotations en une industrie moderne des sciences de la vie. Ce guide explique comment cet effort est organisé, ce qu'il a bâti, et vers où il se dirige.

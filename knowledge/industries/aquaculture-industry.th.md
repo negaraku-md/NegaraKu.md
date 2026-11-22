@@ -103,6 +103,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/aquaculture-industry/hero.webp'
+heroAlt: 'กระชังตาข่ายลอยน้ำสำหรับเลี้ยงปลาเรียงเป็นแถวบนผิวน้ำอันสงบนิ่งของทะเลสาบ โดยมีกระท่อมของผู้ดูแลอยู่ที่ปลายด้านหนึ่ง'
+heroCredit: 'Sophia Guevara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Foto_Keramba_Ikan_(Panatapan,_Parapat,_Simalungun).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ปลาส่วนใหญ่บนจานอาหารเย็นของชาวมาเลเซียยังคงมาจากทะเล — แต่ส่วนแบ่งที่เติบโตอย่างรวดเร็วในปัจจุบันมาจากบ่อ กระชัง หรือแพไลน์ยาว นั่นคือการเพาะเลี้ยงสัตว์น้ำ: การเลี้ยงสิ่งมีชีวิตในน้ำอย่างจงใจ ซึ่งตรงข้ามกับการจับสิ่งที่ว่ายอยู่ในธรรมชาติ เมื่อการจับจากธรรมชาติของมาเลเซียถึงจุดอิ่มตัวและความต้องการโปรตีนสูงขึ้น การเพาะเลี้ยงสัตว์น้ำจึงกลายเป็นกลไกหลักของประเทศในการคงปลาไว้บนโต๊ะอาหาร บทความนี้เจาะลึกฝั่งการเพาะเลี้ยงของธุรกิจ; สำหรับภาพรวมในวงกว้าง รวมถึงกองเรือประมง สวัสดิการของชาวประมง และการบังคับใช้กฎหมาย ดู[ภาพรวมอุตสาหกรรมประมง](/th/agriculture/malaysian-fisheries-industry/)

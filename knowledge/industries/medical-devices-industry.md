@@ -100,6 +100,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/medical-devices-industry/hero.webp'
+heroAlt: 'Hand-shaped formers coated with liquid latex on a dipping line, the core process in disposable-glove manufacturing.'
+heroCredit: 'Marketingdepascale / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 If you have ever worn a surgical glove, had blood drawn through a catheter, or recovered with the help of an orthopaedic implant, there is a reasonable chance the device was made in Malaysia. Beyond its famous rubber gloves, the country has quietly become South-East Asia's most important place to manufacture medical devices — and one of the more significant medtech manufacturing bases anywhere in the world.

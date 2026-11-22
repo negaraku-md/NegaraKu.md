@@ -86,6 +86,13 @@ relations:
 related: []
 keywords: ["industri pembinaan", "CIDB", "gred kontraktor", "G1 G7", "Akta 520", "kad hijau", "pendaftaran kontraktor", "NCP 2030", "CITP"]
 framework: rules
+hero: '/media/industries/construction-industry/hero.webp'
+heroAlt: '吉隆坡一处高层建筑工地的深基坑开挖，设有塔吊、红色支撑支架和工人，背后是城市天际线。'
+heroCredit: 'InterEdit88 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 试着在没有持有承包商注册证书的情况下建造一道价值 RM250,000 的校园围栏，你的项目就可能被立即勒令停工——甚至在第一根柱子还没埋下之前。在马来西亚，建造的权利并非从机器或劳工开始；它从一份注册开始。

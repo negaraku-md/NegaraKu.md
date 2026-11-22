@@ -86,6 +86,13 @@ relations:
 related: []
 keywords: ["صناعة الإنشاءات", "industri pembinaan", "CIDB", "درجات المقاولين", "gred kontraktor", "G1 G7", "Akta 520", "البطاقة الخضراء", "kad hijau", "تسجيل المقاولين", "NCP 2030", "CITP"]
 framework: rules
+hero: '/media/industries/construction-industry/hero.webp'
+heroAlt: 'حفر أساسات عميقة في موقع بناء ناطحة سحاب في كوالالمبور، مع رافعات برجية ودعامات إسناد حمراء وعمّال، تعلوها أفق المدينة.'
+heroCredit: 'InterEdit88 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 حاول أن تُشيّد سياج مدرسة بقيمة RM250,000 دون أن تحمل شهادة تسجيل مقاول، وقد يُؤمَر مشروعك بالتوقف فوراً — قبل أن تُغرَس أول دعامة. ففي ماليزيا، لا يبدأ الحق في البناء بالآلات أو العمالة؛ بل يبدأ بتسجيل واحد.

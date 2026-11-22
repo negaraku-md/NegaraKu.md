@@ -108,6 +108,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/space-industry/hero.webp'
+heroAlt: 'Una estación terrena de satélite con una antena parabólica, una antena yagi y un radomo utilizados para rastrear y comunicarse con naves espaciales.'
+heroCredit: 'Satopsnz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Antennas_at_Awarua_Satellite_Ground_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Malasia no lanza cohetes propios y, sin embargo, ha hecho volar a un astronauta, ha construido y operado microsatélites y ha aprobado una ley para licenciar la actividad espacial privada antes que la mayoría de sus vecinos. Su sector espacial es pequeño y discretamente estratégico, entretejido con la política de banda ancha, la defensa, el monitoreo de desastres y el prestigio nacional. Esta guía mapea la agencia, la ley, los satélites y las ambiciones que componen la economía espacial de Malasia.

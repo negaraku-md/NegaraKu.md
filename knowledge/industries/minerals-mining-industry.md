@@ -96,6 +96,13 @@ keywords:
   - JMG
   - Lynas
 framework: profile
+hero: '/media/industries/minerals-mining-industry/hero.webp'
+heroAlt: 'The preserved TT5 tin-mining dredge standing beside a former mining pond in Perak, Malaysia, a relic of the country''s tin-dredging era.'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TT5_Tin_Dredge_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Malaysia's modern economy was, quite literally, dug out of the ground. Long before palm oil, electronics or semiconductors, it was **tin** that made the peninsula matter to the world — financing railways, growing towns such as Ipoh and Kuala Lumpur, and drawing in generations of migrant miners. Mining is the country's oldest industrial story, and although it no longer dominates the economy, it is quietly being rewritten around a very modern prize: rare earth elements.

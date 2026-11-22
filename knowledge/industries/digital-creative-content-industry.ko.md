@@ -106,6 +106,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/digital-creative-content-industry/hero.webp'
+heroAlt: '격자가 그려진 캡처 스테이지, 트러스에 설치된 머리 위 카메라 리그, 여러 대의 모니터를 갖춘 오퍼레이터 워크스테이션이 있는 모션 캡처 제작 스튜디오.'
+heroCredit: 'Gabriela Cybulska / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bones_Studio_hala.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Les' Copaque의 _Upin & Ipin Universe_가 **2025년 7월 17일** 전 세계 콘솔에 도달했을 때, 그것은 장난꾸러기 쌍둥이에 관한 짧은 애니메이션 시리즈로 시작된 고리를 닫았다. 말레이시아 만화가 세계적으로 출시된 비디오 게임이 된 것이다 - 그리고 이 나라의 디지털 크리에이티브 콘텐츠 산업이 20년에 걸쳐 조용히 쌓아 올린 것의 깔끔한 예시다.

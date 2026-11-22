@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/plastics-packaging-industry/hero.webp'
+heroAlt: 'एक कारखाने में रोबोट भुजा से लैस एक इंजेक्शन-मोल्डिंग मशीन, जो ताजे ढाले गए प्लास्टिक ट्रे को कन्वेयर पर रखती है।'
+heroCredit: 'The robotic engineer1 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 मलेशियाई फ़ैक्टरी से निकलने वाला लगभग हर भौतिक उत्पाद — इंस्टेंट नूडल्स का एक पैकेट, एक स्मार्टफ़ोन, एक कार बंपर, पानी के पाइप का एक टुकड़ा — उस प्लास्टिक पर निर्भर करता है जिसे देश में कहीं आकार दिया गया था। प्लास्टिक मलेशिया की शांत औद्योगिक शक्तियों में से एक है: अर्धचालकों से कम आकर्षक, लेकिन लगभग हर दूसरे विनिर्माण क्षेत्र में बुना हुआ और, बढ़ते हुए, अपशिष्ट तथा स्थिरता के बारे में राष्ट्रीय बहस में।

@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/plastics-packaging-industry/hero.webp'
+heroAlt: 'An injection-moulding machine fitted with a robot arm placing freshly moulded plastic trays onto a conveyor in a factory.'
+heroCredit: 'The robotic engineer1 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Almost every physical product that leaves a Malaysian factory — a packet of instant noodles, a smartphone, a car bumper, a length of water pipe — depends on plastic that was shaped somewhere in the country. Plastics are one of Malaysia's quiet industrial strengths: less glamorous than semiconductors, but woven into nearly every other manufacturing sector and, increasingly, into the national debate about waste and sustainability.

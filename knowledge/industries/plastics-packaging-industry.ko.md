@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/plastics-packaging-industry/hero.webp'
+heroAlt: '공장에서 로봇 팔이 장착된 사출 성형기가 갓 성형한 플라스틱 트레이를 컨베이어 위에 올려놓고 있다.'
+heroCredit: 'The robotic engineer1 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 말레이시아 공장에서 나오는 거의 모든 실물 제품 — 인스턴트 라면 한 봉지, 스마트폰, 자동차 범퍼, 수도 파이프 한 토막 — 은 이 나라 어딘가에서 성형된 플라스틱에 의존합니다. 플라스틱은 말레이시아의 조용한 산업적 강점 중 하나입니다. 반도체만큼 화려하지는 않지만, 거의 모든 다른 제조 부문에 엮여 있고, 점점 더 폐기물과 지속가능성에 관한 국가적 논의에도 엮여 있습니다.

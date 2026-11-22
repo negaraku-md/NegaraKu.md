@@ -109,6 +109,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/pepper-industry/hero.webp'
+heroAlt: 'Hileras de plantas de pimienta negra guiadas sobre postes de madera para trepar en una plantación de Sarawak, el principal estado productor de pimienta de Malasia.'
+heroCredit: 'Nick Allen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plant_climbing_poles.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 La pimienta es una de las materias primas agrícolas más antiguas y geográficamente distintivas de Malasia: una vid importada del subcontinente indio y Sumatra que encontró su hogar ideal en las húmedas y bien drenadas colinas de Sarawak, donde se convirtió en el sustento de miles de pequeñas explotaciones rurales. Aunque Malasia es un actor modesto por volumen mundial, rinde por encima de su peso en reputación, vendiendo una "Pimienta de Sarawak" premium y con origen certificado a mercados exigentes. Este artículo perfila la estructura, la geografía, el comercio y las perspectivas del sector como industria independiente.

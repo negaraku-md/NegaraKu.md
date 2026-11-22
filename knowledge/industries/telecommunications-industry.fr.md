@@ -100,6 +100,13 @@ revisions:
     reviewer: null
 framework: profile
 wikidata: "Q5621005"
+hero: '/media/industries/telecommunications-industry/hero.webp'
+heroAlt: 'Une tour de télécommunications cellulaire portant plusieurs antennes panneaux sur fond de ciel dégagé.'
+heroCredit: 'David Ratledge / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cellular_Telephone_Tower_-_Knoxville,_Tennessee_-_May_26,_2014.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Presque tout le monde en Malaisie porte une connexion mobile, et la plupart des foyers disposent d'une forme de haut débit. Cela fait des télécommunications l'une des industries les plus importantes et les plus matures du pays — la plomberie invisible sous l'économie numérique, la banque en ligne, l'administration électronique et la vie quotidienne. Pourtant, derrière les noms de marque familiers se trouve un marché qui a profondément changé ces dernières années : moins d'opérateurs, de plus grandes fusions et une expérience nationale sur la façon de construire la 5G.

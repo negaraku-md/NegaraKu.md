@@ -83,6 +83,13 @@ relations:
 related: ["johor-singapore-special-economic-zone"]
 keywords: ["Malaysia data centre", "cloud infrastructure", "Johor data centre", "DESAC incentive", "data centre power water", "hyperscale Malaysia"]
 framework: profile
+hero: '/media/industries/data-centre-cloud-industry/hero.webp'
+heroAlt: 'Hileras de racks de servidores con luces de estado azules encendidas llenan el pasillo de un centro de datos.'
+heroCredit: 'BalticServers.com / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 En 2019, Singapur dejó de aprobar grandes centros de datos nuevos. En cuatro años, los servidores que rechazó habían levantado una nueva industria a veinte minutos al otro lado del Causeway — y Johor pasó de ser un tranquilo estado malasio al mercado de centros de datos más activo del Sudeste Asiático.

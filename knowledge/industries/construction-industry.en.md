@@ -86,6 +86,13 @@ relations:
 related: []
 keywords: ["industri pembinaan", "CIDB", "gred kontraktor", "G1 G7", "Akta 520", "kad hijau", "pendaftaran kontraktor", "NCP 2030", "CITP"]
 framework: rules
+hero: '/media/industries/construction-industry/hero.webp'
+heroAlt: 'Deep foundation excavation of a high-rise construction site in Kuala Lumpur, with tower cranes, red shoring struts and workers, backed by the city skyline.'
+heroCredit: 'InterEdit88 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Try to erect a school fence worth RM250,000 without holding a contractor registration certificate, and your project can be ordered to stop immediately — before the first post is even planted. In Malaysia, the right to build does not begin with machinery or labour; it begins with a single registration.

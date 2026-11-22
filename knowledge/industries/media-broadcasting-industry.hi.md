@@ -101,6 +101,13 @@ revisions:
     reviewer: null
 framework: profile
 wikidata: "Q6805904"
+hero: '/media/industries/media-broadcasting-industry/hero.webp'
+heroAlt: 'कुआलालंपुर में अंगकासापुरी प्रसारण परिसर, जो मलेशिया के राष्ट्रीय सार्वजनिक प्रसारक का मुख्यालय है।'
+heroCredit: 'Two hundred percent / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angkasapuri,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 जब मलेशियावासी "मीडिया" की बात करते हैं, तो उनका आशय आमतौर पर कुछ परिचित नामों में से एक होता है: घर की दीवार से लगी Astro की सैटेलाइट डिश, TV3 का समाचार बुलेटिन, काम पर जाते समय सुना जाने वाला सुबह का रेडियो शो, या — बढ़ते हुए — आवागमन के दौरान फ़ोन पर जो कुछ भी चल रहा हो। ये रोज़मर्रा के संपर्क-बिंदु एक अकेले, विशाल उद्योग से संबंधित हैं: मीडिया एवं प्रसारण। यह देश के अधिक दृश्यमान सेवा क्षेत्रों में से एक है, और सबसे अधिक बाधित होने वालों में से भी।

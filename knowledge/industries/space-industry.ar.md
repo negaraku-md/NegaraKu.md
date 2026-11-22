@@ -108,6 +108,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/space-industry/hero.webp'
+heroAlt: 'محطّة أرضية للأقمار الصناعية بها هوائي طبقي وهوائي ياغي وقبّة رادار تُستخدم لتتبّع المركبات الفضائية والتواصل معها.'
+heroCredit: 'Satopsnz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Antennas_at_Awarua_Satellite_Ground_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 لا تُطلق ماليزيا صواريخ خاصة بها، ومع ذلك أطارت رائد فضاء، وبنت أقماراً صغيرة وشغّلتها، وسنّت قانوناً لترخيص النشاط الفضائي الخاص قبل معظم جيرانها. وقطاعها الفضائي صغير واستراتيجي بهدوء — متشابك مع سياسة النطاق العريض والدفاع ومراقبة الكوارث والهيبة الوطنية. يرسم هذا الدليل خريطة الوكالة والقانون والأقمار والطموحات التي تؤلف اقتصاد الفضاء في ماليزيا.

@@ -101,6 +101,13 @@ revisions:
     reviewer: null
 framework: profile
 wikidata: "Q6805904"
+hero: '/media/industries/media-broadcasting-industry/hero.webp'
+heroAlt: '쿠알라룸푸르에 있는 앙카사푸리 방송 단지로, 말레이시아 국영 공영 방송사의 본거지이다.'
+heroCredit: 'Two hundred percent / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angkasapuri,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 말레이시아인이 「미디어」를 말할 때, 보통 몇몇 익숙한 이름 중 하나를 뜻합니다. 집 벽에 달린 Astro의 위성 접시, TV3 뉴스, 출근길 아침 라디오 프로그램, 또는 — 점점 더 — 통근 중 휴대폰에서 재생되는 무언가입니다. 그 일상의 접점들은 하나의 방대한 산업, 즉 미디어·방송에 속합니다. 이는 이 나라에서 더 눈에 띄는 서비스 부문 중 하나이자, 가장 많이 뒤흔들린 부문 중 하나이기도 합니다.

@@ -101,6 +101,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/medical-devices-industry/hero.webp'
+heroAlt: 'แม่พิมพ์รูปมือเคลือบน้ำยางเหลวบนสายการจุ่ม ซึ่งเป็นกระบวนการหลักในการผลิตถุงมือแบบใช้แล้วทิ้ง'
+heroCredit: 'Marketingdepascale / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 หากคุณเคยสวมถุงมือผ่าตัด เจาะเลือดผ่านสายสวน หรือฟื้นตัวด้วยความช่วยเหลือจากวัสดุฝังในกระดูกและข้อ มีความเป็นไปได้พอสมควรที่อุปกรณ์นั้นผลิตในมาเลเซีย นอกเหนือจากถุงมือยางที่โด่งดัง ประเทศนี้ได้กลายเป็นสถานที่ผลิตอุปกรณ์การแพทย์ที่สำคัญที่สุดของเอเชียตะวันออกเฉียงใต้อย่างเงียบ ๆ — และเป็นหนึ่งในฐานการผลิตเมดเทคที่สำคัญกว่าที่ใดในโลก

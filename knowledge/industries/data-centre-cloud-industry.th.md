@@ -83,6 +83,13 @@ relations:
 related: ["johor-singapore-special-economic-zone"]
 keywords: ["Malaysia data centre", "cloud infrastructure", "Johor data centre", "DESAC incentive", "data centre power water", "hyperscale Malaysia"]
 framework: profile
+hero: '/media/industries/data-centre-cloud-industry/hero.webp'
+heroAlt: 'แร็กเซิร์ฟเวอร์เรียงเป็นแถวพร้อมไฟสถานะสีน้ำเงินส่องสว่างเต็มช่องทางเดินของศูนย์ข้อมูล'
+heroCredit: 'BalticServers.com / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ในปี 2019 สิงคโปร์ (Singapore) หยุดอนุมัติศูนย์ข้อมูลขนาดใหญ่แห่งใหม่ ภายในสี่ปี เซิร์ฟเวอร์ที่ถูกปฏิเสธได้สร้างอุตสาหกรรมใหม่ขึ้นในระยะยี่สิบนาทีข้ามสะพานเชื่อม (Causeway) — และยะโฮร์ (Johor) เปลี่ยนจากรัฐเงียบสงบของมาเลเซียมาเป็นตลาดศูนย์ข้อมูลที่คึกคักที่สุดในเอเชียตะวันออกเฉียงใต้

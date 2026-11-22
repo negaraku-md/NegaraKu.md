@@ -96,6 +96,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/textiles-apparel-industry/hero.webp'
+heroAlt: 'Workers sewing and finishing clothing along an assembly line inside a garment factory.'
+heroCredit: 'Tareq Salahuddin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Long before Malaysia became known for computer chips and palm oil, it made cloth and clothes. The textiles, apparel and footwear industry is one of the country's oldest modern manufacturing sectors — the kind of labour-intensive, export-oriented business that helped kick-start industrialisation in the 1970s and 1980s. Today it is a smaller slice of a much larger economy, but it remains a real employer, a steady exporter, and a sector the government is actively trying to reinvent.

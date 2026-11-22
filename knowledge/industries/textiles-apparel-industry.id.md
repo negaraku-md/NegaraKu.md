@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/textiles-apparel-industry/hero.webp'
+heroAlt: 'Para pekerja menjahit dan menyelesaikan pakaian di sepanjang lini perakitan di dalam sebuah pabrik garmen.'
+heroCredit: 'Tareq Salahuddin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Jauh sebelum Malaysia dikenal karena cip komputer dan minyak sawit, ia membuat kain dan pakaian. Industri tekstil, pakaian, dan alas kaki adalah salah satu sektor manufaktur modern tertua di negara ini — jenis bisnis padat karya dan berorientasi ekspor yang membantu memulai industrialisasi pada 1970-an dan 1980-an. Hari ini ia adalah irisan yang lebih kecil dari perekonomian yang jauh lebih besar, tetapi tetap menjadi penyerap tenaga kerja nyata, eksportir yang stabil, dan sektor yang sedang aktif dicoba ditata ulang oleh pemerintah.

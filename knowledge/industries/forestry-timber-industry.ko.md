@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/forestry-timber-industry/hero.webp'
+heroAlt: '말레이시아 사바주의 제재소 야적장에서 휠 로더와 작업자들이 갓 벌목한 활엽수 원목을 처리하고 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sawmill-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 말레이시아는 지구에서 가장 오래된 열대우림의 일부에 걸쳐 있으며, 현대사의 상당 기간 열대 경목(硬木) 교역은 국가 경제의 기둥 중 하나였습니다. 그 업스트림 세계 — 산림 자체, 그것을 벌목할 면허, 그리고 원목을 목재로 만드는 1차 가공 — 는 사슬 아래쪽의 가구 공장·목재 제품 수출업체와는 별개의 산업입니다. 이 가이드는 **임업·목재 자원 부문**을 다룹니다. 목재가 어디서 오는지, 누가 통제하는지, 어떻게 수출되는지, 그리고 이제 이를 재편하는 지속가능성·시장 압박은 무엇인지입니다.

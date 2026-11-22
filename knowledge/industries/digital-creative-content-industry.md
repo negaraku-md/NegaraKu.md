@@ -113,6 +113,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/digital-creative-content-industry/hero.webp'
+heroAlt: 'A motion-capture production studio with a gridded capture stage, overhead camera rig on trusses and an operator workstation with multiple monitors.'
+heroCredit: 'Gabriela Cybulska / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bones_Studio_hala.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 When Les' Copaque's _Upin & Ipin Universe_ reached consoles worldwide on **17 July 2025**, it closed a loop that began with a short animated series about two mischievous twins. A Malaysian cartoon had become a globally published video game — and a neat illustration of what the country's digital creative content industry has quietly built over two decades.

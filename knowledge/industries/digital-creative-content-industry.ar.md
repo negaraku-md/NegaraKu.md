@@ -114,6 +114,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/digital-creative-content-industry/hero.webp'
+heroAlt: 'استوديو إنتاج لالتقاط الحركة يضمّ منصّة التقاط مقسّمة بشبكة، وحامل كاميرات علويًّا على جمالونات، ومحطّة عمل للمشغّل بعدّة شاشات.'
+heroCredit: 'Gabriela Cybulska / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bones_Studio_hala.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 حين وصلت لعبة _Upin & Ipin Universe_ من Les' Copaque إلى أجهزة الكونسول حول العالم في **17 يوليو 2025**، أغلقت حلقة بدأت بمسلسل رسوم متحركة قصير عن توأمين مشاغبين. فقد صار كرتون ماليزي لعبة فيديو منشورة عالمياً — وتوضيحاً أنيقاً لما بنته صناعة المحتوى الإبداعي الرقمي في البلاد بهدوء على مدى عقدين.

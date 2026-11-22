@@ -100,6 +100,13 @@ revisions:
     reviewer: null
 framework: profile
 wikidata: "Q5621005"
+hero: '/media/industries/telecommunications-industry/hero.webp'
+heroAlt: '複数のパネルアンテナを搭載した移動体通信の電波塔が、晴れた空を背景に立っている。'
+heroCredit: 'David Ratledge / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cellular_Telephone_Tower_-_Knoxville,_Tennessee_-_May_26,_2014.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシアでは、ほとんど誰もがモバイル接続を携え、大半の家庭が何らかのブロードバンドを持っている。それが電気通信を、同国で最も重要かつ最も成熟した産業の一つにしている――デジタル経済、オンラインバンキング、電子政府、日々の暮らしの下にある、目に見えない配管である。だが、おなじみのブランド名の背後には、近年劇的に変化した市場が控えている。事業者の減少、大型合併、そして5Gをどう築くかという国家的な実験だ。

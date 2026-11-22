@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/plastics-packaging-industry/hero.webp'
+heroAlt: 'Sebuah mesin pengacuan suntikan yang dilengkapi lengan robot meletakkan dulang plastik yang baru diacu ke atas penghantar di sebuah kilang.'
+heroCredit: 'The robotic engineer1 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Hampir setiap produk fizikal yang keluar dari kilang Malaysia — sepeket mi segera, telefon pintar, bampar kereta, sebatang paip air — bergantung pada plastik yang dibentuk di suatu tempat di negara ini. Plastik ialah salah satu kekuatan perindustrian senyap Malaysia: kurang glamor berbanding semikonduktor, tetapi terjalin ke dalam hampir setiap sektor pembuatan lain dan, semakin, ke dalam perdebatan nasional tentang sisa dan kelestarian.

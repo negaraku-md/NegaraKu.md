@@ -104,6 +104,13 @@ keywords:
   - "الاستعانة بمصادر خارجية"
   - "offshoring"
 framework: profile
+hero: '/media/industries/global-business-services-industry/hero.webp'
+heroAlt: 'مبنى مكاتب شركات حديث في سايبرجايا، أحد أبرز مراكز ماليزيا للتكنولوجيا وخدمات الأعمال العالمية.'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في مكان ما في سايبرجايا أو كوالالمبور الآن، يُغلق محاسب الدفاتر الشهرية لشركة مقرّها لندن، ويحلّ موظف مكتب مساعدة تذكرة لعميل في سيدني، ويبني محلّل بيانات لوحة لمصنع في ألمانيا. ولا يصنع أيٌّ من هؤلاء أصحاب العمل شيئًا في ماليزيا. فما يديرونه هنا أقلّ وضوحًا لكنه متزايد القيمة: مكتبهم الخلفي العالمي.

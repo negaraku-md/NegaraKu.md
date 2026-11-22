@@ -94,6 +94,13 @@ keywords:
   - Samsung SDI
   - EV adoption
 framework: profile
+hero: '/media/industries/electric-vehicle-battery-industry/hero.webp'
+heroAlt: 'A DC fast-charging unit stands in a marked electric-vehicle bay at a Malaysian highway rest area.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Malaysia has spent half a century building cars. Now it is trying to electrify them — and, just as importantly, to make the batteries and build the charging network that electric vehicles depend on. This is a different story from the one told in the guide to [Malaysia's automotive industry](/en/industries/automotive-industry/), which is largely about petrol and diesel cars. Here the subject is the EV and battery *ecosystem*: the vehicles, the incentives, the chargers and the factories that together decide how fast Malaysia switches to electric mobility.

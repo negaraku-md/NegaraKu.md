@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/textiles-apparel-industry/hero.webp'
+heroAlt: 'عمّال يخيطون الملابس ويُنهونها على طول خطّ تجميع داخل مصنع ملابس.'
+heroCredit: 'Tareq Salahuddin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 قبل أن تُعرَف ماليزيا بالرقائق الحاسوبية وزيت النخيل بوقت طويل، كانت تصنع القماش والملابس. فصناعة المنسوجات والملابس والأحذية من أقدم قطاعات التصنيع الحديثة في البلاد — من ذلك النوع الكثيف العمالة والموجّه للتصدير الذي ساعد على إطلاق التصنيع في السبعينيات والثمانينيات. وهي اليوم شريحة أصغر من اقتصاد أكبر بكثير، لكنها تظل مشغِّلًا حقيقيًا ومصدّرًا مطّردًا، وقطاعًا تسعى الحكومة فعليًا إلى إعادة ابتكاره.

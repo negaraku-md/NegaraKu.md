@@ -98,6 +98,13 @@ keywords:
   - 백신 충전·완제
   - PIC/S GMP
 framework: profile
+hero: '/media/industries/pharmaceutical-industry/hero.webp'
+heroAlt: '뚜껑을 닫은 약병이 제약 제조 라인의 자동 컨베이어를 따라 이동하고 있다.'
+heroCredit: 'Josep Lago, European Commission / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 말레이시아인이 항생제, 진통제, 혈압약 처방을 받을 때마다, 그 약이 말레이시아에서 만들어졌을 가능성이 큽니다 — 이곳에서 발명된 것이 아니라, 국제 제조 표준에 맞춰 일하는 현지 공장에서 배합·압축·충전·포장된 것으로서 말입니다. 그것이 말레이시아 제약 산업의 핵심입니다. 국가의 상비약장을 채워 두는 탄탄한 제네릭 중심 제조 기반에, 이 나라가 가치사슬을 올라가게 해 주기를 바라는 두 가지 더 야심찬 베팅 — 할랄 의약품과 백신 생산 — 이 더해진 것입니다.

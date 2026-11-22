@@ -94,6 +94,13 @@ keywords:
   - Industry4WRD
   - MIDA
 framework: profile
+hero: '/media/industries/machinery-equipment-industry/hero.webp'
+heroAlt: 'พื้นโรงงานที่เรียงรายด้วยเครื่องมือกลซีเอ็นซีและคนงาน ซึ่งเป็นภาพทั่วไปของอุตสาหกรรมการผลิตเครื่องจักรและอุปกรณ์'
+heroCredit: 'Antoniusaw / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CNC_Machine_Facility.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ทุกโรงงานทำงานบนเครื่องจักร — และเครื่องจักรเหล่านั้นต้องมีคนสร้าง อุตสาหกรรมเครื่องจักรและอุปกรณ์ (M&E) คือส่วนหนึ่งของการผลิตที่สร้างสายการผลิต เครื่องจักรกระบวนการ เครื่องมืองานโลหะ ระบบพลังงาน และระบบอัตโนมัติที่ทุกอุตสาหกรรม *อื่น ๆ* พึ่งพา มันเป็นอุตสาหกรรมใหญ่ที่มองเห็นได้น้อยที่สุดในเศรษฐกิจ และด้วยเหตุผลนั้นเองจึงเป็นหนึ่งในที่สำคัญเชิงยุทธศาสตร์ที่สุด

@@ -86,6 +86,13 @@ relations:
 related: []
 keywords: ["industri pembinaan", "CIDB", "gred kontraktor", "G1 G7", "Akta 520", "kad hijau", "pendaftaran kontraktor", "NCP 2030", "CITP"]
 framework: rules
+hero: '/media/industries/construction-industry/hero.webp'
+heroAlt: 'Excavación profunda de los cimientos de una obra de construcción de un rascacielos en Kuala Lumpur, con grúas torre, puntales rojos de apuntalamiento y trabajadores, con el horizonte de la ciudad al fondo.'
+heroCredit: 'InterEdit88 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Intente levantar una valla escolar por valor de RM250,000 sin poseer un certificado de registro de contratista, y pueden ordenar la paralización inmediata de su proyecto — antes incluso de plantar el primer poste. En Malasia, el derecho a construir no empieza con la maquinaria ni con la mano de obra; empieza con un único registro.

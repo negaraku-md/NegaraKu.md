@@ -101,6 +101,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/medical-devices-industry/hero.webp'
+heroAlt: 'Các khuôn hình bàn tay phủ latex lỏng trên dây chuyền nhúng, công đoạn cốt lõi trong sản xuất găng tay dùng một lần.'
+heroCredit: 'Marketingdepascale / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Nếu bạn từng đeo một chiếc găng tay phẫu thuật, được lấy máu qua một ống thông, hay hồi phục nhờ một cấy ghép chỉnh hình, thì có khả năng hợp lý rằng thiết bị đó được làm ra ở Malaysia. Bên cạnh những chiếc găng tay cao su nổi tiếng của mình, đất nước này đã lặng lẽ trở thành nơi quan trọng nhất Đông Nam Á để chế tạo thiết bị y tế — và là một trong những cơ sở chế tạo medtech đáng kể hơn ở bất cứ đâu trên thế giới.

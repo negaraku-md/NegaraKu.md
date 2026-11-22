@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/gig-platform-economy-industry/hero.webp'
+heroAlt: 'Seorang penghantar makanan menunggang motosikal dengan kotak penghantaran bertebat menunggu di persimpangan jalan di Pulau Pinang, Malaysia.'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Setiap hari, berjuta-juta transaksi di Malaysia diatur bukan oleh kedai, pejabat atau pangkalan teksi, tetapi oleh aplikasi: kereta dipanggil ke tepi jalan, sebeg makanan dibawa merentasi bandar atas motosikal, logo direka untuk pelanggan yang pekerja bebas itu tidak akan pernah temui. Inilah ekonomi gig dan platform — kerja yang diperantarakan platform digital — dan dalam sedikit lebih sedekad ia telah beralih daripada benda baharu kepada salah satu ciri paling ketara dalam kehidupan pekerja Malaysia.

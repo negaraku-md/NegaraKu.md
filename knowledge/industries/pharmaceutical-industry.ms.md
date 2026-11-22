@@ -98,6 +98,13 @@ keywords:
   - isi-dan-siap vaksin
   - PIC/S GMP
 framework: profile
+hero: '/media/industries/pharmaceutical-industry/hero.webp'
+heroAlt: 'Vial ubat bertutup bergerak di sepanjang penghantar automatik pada barisan pembuatan farmaseutikal.'
+heroCredit: 'Josep Lago, European Commission / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Setiap kali seorang rakyat Malaysia menebus preskripsi untuk antibiotik, ubat tahan sakit atau pil tekanan darah, ada kemungkinan besar ubat itu dibuat di Malaysia — bukan dicipta di sini, tetapi diformulasi, dimampat, diisi dan dibungkus di sebuah kilang tempatan yang bekerja mengikut standard pembuatan antarabangsa. Itulah teras industri farmaseutikal Malaysia: asas pembuatan diterajui generik yang kukuh yang mengisi kabinet ubat negara, berpasangan dengan dua pertaruhan yang lebih bercita-cita tinggi — farmaseutikal halal dan pengeluaran vaksin — yang negara harap akan membawanya naik rantaian nilai.

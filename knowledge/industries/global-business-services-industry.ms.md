@@ -98,6 +98,13 @@ keywords:
   - Malaysia Digital
   - luar pesisir
 framework: profile
+hero: '/media/industries/global-business-services-industry/hero.webp'
+heroAlt: 'Sebuah bangunan pejabat korporat moden di Cyberjaya, salah satu hab utama Malaysia untuk teknologi dan perkhidmatan perniagaan global.'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Di suatu tempat di Cyberjaya atau Kuala Lumpur pada ketika ini, seorang akauntan sedang menutup buku bulanan bagi sebuah syarikat yang beribu pejabat di London, seorang ejen meja bantuan sedang menyelesaikan tiket bagi pelanggan di Sydney, dan seorang penganalisis data sedang membina papan pemuka bagi sebuah kilang di Jerman. Tiada satu pun daripada majikan itu membuat apa-apa di Malaysia. Apa yang mereka jalankan di sini ialah sesuatu yang kurang kelihatan tetapi semakin bernilai: pejabat belakang global mereka.

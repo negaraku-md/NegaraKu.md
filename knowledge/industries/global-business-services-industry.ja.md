@@ -98,6 +98,13 @@ keywords:
   - Malaysia Digital
   - offshoring
 framework: profile
+hero: '/media/industries/global-business-services-industry/hero.webp'
+heroAlt: 'マレーシアのサイバージャヤにある近代的な企業オフィスビル。サイバージャヤはマレーシアの技術とグローバル・ビジネス・サービスの主要拠点の一つである。'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 いまこの瞬間、Cyberjayaかクアラルンプールのどこかで、一人の会計士がロンドンに本社を置く企業の月次決算を締め、ヘルプデスクの担当者がシドニーの顧客のチケットを解決し、データアナリストがドイツの工場向けのダッシュボードを作っている。これらの雇用主のいずれも、マレーシアで何かを製造しているわけではない。彼らがここで運営しているのは、より目立たないが、ますます価値を増すもの――グローバルなバックオフィスである。

@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/plastics-packaging-industry/hero.webp'
+heroAlt: 'Une machine de moulage par injection équipée d''un bras robotisé plaçant des plateaux en plastique fraîchement moulés sur un convoyeur dans une usine.'
+heroCredit: 'The robotic engineer1 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Presque chaque produit physique qui sort d'une usine malaisienne — un paquet de nouilles instantanées, un smartphone, un pare-chocs de voiture, une longueur de tuyau d'eau — dépend d'un plastique qui a été façonné quelque part dans le pays. Les plastiques sont l'une des forces industrielles discrètes de la Malaisie : moins glamour que les semi-conducteurs, mais tissés dans presque tous les autres secteurs manufacturiers et, de plus en plus, dans le débat national sur les déchets et la durabilité.

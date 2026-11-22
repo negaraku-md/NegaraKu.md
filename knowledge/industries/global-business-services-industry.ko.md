@@ -98,6 +98,13 @@ keywords:
   - 말레이시아 디지털
   - 오프쇼어링
 framework: profile
+hero: '/media/industries/global-business-services-industry/hero.webp'
+heroAlt: '말레이시아 사이버자야에 있는 현대적인 기업 사무용 건물로, 사이버자야는 말레이시아의 기술 및 글로벌 비즈니스 서비스의 주요 거점 중 하나이다.'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 지금 사이버자야나 쿠알라룸푸르 어딘가에서는, 한 회계사가 런던에 본사를 둔 회사의 월 결산을 마무리하고, 한 헬프데스크 상담원이 시드니 고객의 문의를 해결하며, 한 데이터 분석가가 독일 공장을 위한 대시보드를 만들고 있습니다. 그 고용주 중 누구도 말레이시아에서 무언가를 제조하지 않습니다. 이들이 이곳에서 운영하는 것은 덜 눈에 띄지만 점점 더 값진 것 — 그들의 글로벌 후방 사무소입니다.

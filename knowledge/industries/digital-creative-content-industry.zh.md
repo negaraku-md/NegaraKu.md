@@ -114,6 +114,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/digital-creative-content-industry/hero.webp'
+heroAlt: '一间动作捕捉制作工作室，设有带网格的捕捉舞台、架设在桁架上的头顶摄像机装置，以及配有多台显示器的操作员工作站。'
+heroCredit: 'Gabriela Cybulska / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bones_Studio_hala.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 当Les' Copaque的《_Upin & Ipin Universe_》于**2025年7月17日**登陆全球主机平台时，它为一段始于讲述两个淘气双胞胎的动画短片系列的历程画上了一个圆满的闭环。一部马来西亚动画片成了一款全球发行的电子游戏——也恰如其分地展示了这个国家的数字创意内容产业在二十年里悄然构建起的成果。

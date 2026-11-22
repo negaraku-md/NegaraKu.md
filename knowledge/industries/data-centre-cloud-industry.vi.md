@@ -83,6 +83,13 @@ relations:
 related: ["johor-singapore-special-economic-zone"]
 keywords: ["Malaysia data centre", "cloud infrastructure", "Johor data centre", "DESAC incentive", "data centre power water", "hyperscale Malaysia"]
 framework: profile
+hero: '/media/industries/data-centre-cloud-industry/hero.webp'
+heroAlt: 'Những hàng tủ rack máy chủ với đèn trạng thái màu xanh lấp lánh lấp đầy lối đi của một trung tâm dữ liệu.'
+heroCredit: 'BalticServers.com / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Vào năm 2019, Singapore ngừng phê duyệt các trung tâm dữ liệu lớn mới. Trong vòng bốn năm, các máy chủ mà nó từ chối đã xây nên một ngành công nghiệp mới cách hai mươi phút bên kia Causeway — và Johor đi từ một bang Malaysia yên tĩnh trở thành thị trường trung tâm dữ liệu bận rộn nhất Đông Nam Á.

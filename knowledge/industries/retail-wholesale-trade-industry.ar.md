@@ -96,6 +96,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/retail-wholesale-trade-industry/hero.webp'
+heroAlt: 'متسوّقون ومتاجر وأكشاك بيع بالتجزئة في البهو متعدّد الطوابق لمركز NU Sentral التجاري في كوالالمبور بماليزيا.'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_NU_Sentral,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 يكاد كل رينغيت ينفقه الماليزي على السلع المادية — البقالة، أو هاتف، أو سيارة، أو قارورة زيت طهي — يمرّ عبر تجارة التجزئة والجملة. فهي السباكة التي يجري فيها الاستهلاك اليومي: شبكة المستوردين وتجار الجملة والموزّعين والمتاجر والأسواق والمتاجر الإلكترونية التي تنقل المنتجات من حيث تُصنع إلى حيث تُشترى. ويسمّي المسؤولون هذه الشبكة **التجارة التوزيعية**، وهي من أكبر أجزاء الاقتصاد الماليزي وأكثرها ظهورًا.

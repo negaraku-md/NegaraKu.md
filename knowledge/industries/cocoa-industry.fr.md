@@ -107,6 +107,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/cocoa-industry/hero.webp'
+heroAlt: 'Deux grosses cabosses de cacao vertes poussant directement sur le tronc d''un cacaoyer dans une plantation ombragée.'
+heroCredit: 'Hanay / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cacao_fruit_in_C%C3%B4te_d''Ivoire_(11).JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 La Malaisie est l'un des grands transformateurs mondiaux de cacao qui a presque cessé d'en cultiver. En une seule génération, le pays est passé de producteur de fèves du top quatre, ses collines de Sabah et de la Malaisie péninsulaire chargées de cabosses, à un pays qui importe des fèves par cargaisons entières et n'en récolte à peine que quelques centaines de tonnes. Ce qui est resté, et a prospéré, c'est le volet usinier : les broyeurs, raffineries et lignes de chocolat qui transforment les fèves importées en beurre, poudre, liqueur de cacao et confiserie finie destinés à l'exportation. Le résultat est un « paradoxe du cacao » - une industrie en aval de classe mondiale reposant sur un amont qui a quasiment disparu.

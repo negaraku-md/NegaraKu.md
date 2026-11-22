@@ -110,6 +110,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/pepper-industry/hero.webp'
+heroAlt: 'मलेशिया के मुख्य काली मिर्च उगाने वाले राज्य सारावाक में एक बागान में लकड़ी के खंभों पर चढ़ाई गई काली मिर्च की लताओं की पंक्तियाँ।'
+heroCredit: 'Nick Allen / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plant_climbing_poles.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 काली मिर्च मलेशिया की सबसे पुरानी और भौगोलिक रूप से सबसे विशिष्ट कृषि जिंसों में से एक है: भारतीय उपमहाद्वीप और सुमात्रा से आयातित एक बेल जिसने Sarawak की आर्द्र, अच्छी जल-निकासी वाली पहाड़ियों में अपना आदर्श घर पाया, जहाँ यह हज़ारों ग्रामीण लघु खेतों की रीढ़ बन गई। हालाँकि मलेशिया वैश्विक मात्रा के हिसाब से एक मामूली खिलाड़ी है, यह प्रतिष्ठा पर अपने वज़न से ऊपर प्रहार करता है, एक प्रीमियम, उत्पत्ति-प्रमाणित "Sarawak Pepper" को समझदार बाज़ारों में बेचता है। यह लेख इस क्षेत्र की संरचना, भूगोल, व्यापार और संभावनाओं को एक स्वतंत्र उद्योग के रूप में प्रस्तुत करता है।

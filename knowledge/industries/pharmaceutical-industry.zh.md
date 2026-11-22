@@ -98,6 +98,13 @@ keywords:
   - 疫苗灌装封装
   - PIC/S GMP
 framework: profile
+hero: '/media/industries/pharmaceutical-industry/hero.webp'
+heroAlt: '加盖的药瓶在制药生产线的自动传送带上移动。'
+heroCredit: 'Josep Lago, European Commission / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 每当一名马来西亚人拿着抗生素、止痛药或降压片的处方去配药，这种药很有可能就是在马来西亚制造的——不是在这里发明，而是在一家按国际制造标准作业的本地工厂里配方、压片、灌装与包装。这正是马来西亚制药产业的核心：一个稳固、以仿制药为主导的制造基地，让国家的药柜保持充盈，并搭配两项更有雄心的押注——清真制药与疫苗生产——这个国家希望借此沿价值链向上攀升。

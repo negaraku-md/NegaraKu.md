@@ -102,6 +102,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/aquaculture-industry/hero.webp'
+heroAlt: 'Rows of floating net cages for fish farming arranged across the calm surface of a lake, with a caretaker''s hut at one end.'
+heroCredit: 'Sophia Guevara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Foto_Keramba_Ikan_(Panatapan,_Parapat,_Simalungun).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Most of the fish on a Malaysian dinner plate still comes from the sea — but a fast-growing share now comes from a pond, a cage or a long-line raft. That is aquaculture: the deliberate farming of aquatic life, as opposed to catching what swims in the wild. As Malaysia's wild catch plateaus and demand for protein climbs, aquaculture has become the country's main lever for keeping fish on the table. This article goes deep on the farmed side of the business; for the wider picture, including the fishing fleet, fishermen's welfare and enforcement, see the [fisheries industry overview](/en/agriculture/malaysian-fisheries-industry/).

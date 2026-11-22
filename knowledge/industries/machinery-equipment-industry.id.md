@@ -93,6 +93,13 @@ keywords:
   - Industry4WRD
   - MIDA
 framework: profile
+hero: '/media/industries/machinery-equipment-industry/hero.webp'
+heroAlt: 'Lantai pabrik yang dipenuhi mesin perkakas CNC dan para pekerja, khas industri manufaktur mesin dan peralatan.'
+heroCredit: 'Antoniusaw / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CNC_Machine_Facility.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Setiap pabrik berjalan di atas mesin — dan mesin-mesin itu harus dibangun oleh seseorang. Industri mesin & peralatan (M&E) adalah bagian dari manufaktur yang membuat lini produksi, mesin proses, perkakas pengerjaan logam, sistem daya, dan otomasi yang menjadi sandaran setiap industri *lain*. Ia adalah industri besar yang paling tak kasatmata dalam ekonomi dan, justru karena alasan itu, salah satu yang paling strategis.

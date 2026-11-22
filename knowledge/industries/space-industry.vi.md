@@ -108,6 +108,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/space-industry/hero.webp'
+heroAlt: 'Một trạm mặt đất vệ tinh với ăng-ten chảo, ăng-ten yagi và một mái che radar dùng để theo dõi và liên lạc với tàu vũ trụ.'
+heroCredit: 'Satopsnz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Antennas_at_Awarua_Satellite_Ground_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Malaysia không phóng tên lửa của riêng mình, nhưng đã đưa một phi hành gia bay, chế tạo và vận hành các vi vệ tinh, và thông qua một đạo luật để cấp phép hoạt động vũ trụ tư nhân trước hầu hết các nước láng giềng. Ngành vũ trụ của nước này nhỏ và mang tính chiến lược một cách lặng lẽ — len lỏi qua chính sách băng rộng, quốc phòng, giám sát thảm họa và uy tín quốc gia. Hướng dẫn này lập bản đồ cơ quan, luật pháp, các vệ tinh và những tham vọng tạo nên nền kinh tế vũ trụ của Malaysia.

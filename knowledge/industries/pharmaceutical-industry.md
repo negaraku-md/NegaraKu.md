@@ -97,6 +97,13 @@ keywords:
   - vaccine fill-finish
   - PIC/S GMP
 framework: profile
+hero: '/media/industries/pharmaceutical-industry/hero.webp'
+heroAlt: 'Capped medicine vials moving along an automated conveyor on a pharmaceutical manufacturing line.'
+heroCredit: 'Josep Lago, European Commission / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Every time a Malaysian fills a prescription for an antibiotic, a painkiller or a blood-pressure tablet, there is a good chance the medicine was made in Malaysia — not invented here, but formulated, pressed, filled and packaged in a local factory working to international manufacturing standards. That is the heart of Malaysia's pharmaceutical industry: a solid, generics-led manufacturing base that keeps the national medicine cabinet stocked, paired with two more ambitious bets — halal pharmaceuticals and vaccine production — that the country hopes will carry it up the value chain.

@@ -98,6 +98,13 @@ keywords:
   - वैक्सीन फिल-फिनिश
   - PIC/S GMP
 framework: profile
+hero: '/media/industries/pharmaceutical-industry/hero.webp'
+heroAlt: 'एक फार्मास्यूटिकल निर्माण लाइन पर स्वचालित कन्वेयर पर चलती ढक्कनदार दवा की शीशियाँ।'
+heroCredit: 'Josep Lago, European Commission / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 हर बार जब कोई मलेशियाई किसी एंटीबायोटिक, दर्द-निवारक या रक्तचाप की गोली के लिए पर्चा भरवाता है, तो इसकी अच्छी संभावना होती है कि वह दवा मलेशिया में बनी हो — यहाँ आविष्कृत नहीं, बल्कि अंतरराष्ट्रीय विनिर्माण मानकों पर काम करने वाले एक स्थानीय कारखाने में सूत्रबद्ध, दबाई, भरी और पैक की गई। यही मलेशिया के फार्मास्युटिकल उद्योग का केंद्र है: एक ठोस, जेनेरिक-नेतृत्व वाला विनिर्माण आधार जो राष्ट्रीय दवा-अलमारी को भरा रखता है, जिसके साथ दो अधिक महत्वाकांक्षी दाँव जुड़े हैं — हलाल फार्मास्युटिकल्स और वैक्सीन उत्पादन — जिनके बारे में देश को उम्मीद है कि वे उसे मूल्य शृंखला में ऊपर ले जाएँगे।

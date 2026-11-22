@@ -101,6 +101,13 @@ revisions:
     reviewer: null
 framework: profile
 wikidata: "Q6805904"
+hero: '/media/industries/media-broadcasting-industry/hero.webp'
+heroAlt: '位于吉隆坡的Angkasapuri广播综合大楼，是马来西亚国家公共广播机构的所在地。'
+heroCredit: 'Two hundred percent / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angkasapuri,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 当马来西亚人谈起「媒体」时，他们通常指的是几个熟悉的名字：装在屋侧的 Astro 卫星天线、TV3 的新闻报道、上班途中收听的早间电台节目，或者——越来越多地——通勤时手机上正在播放的任何内容。这些日常触点都属于同一个庞杂的产业：媒体与广播。它是这个国家较显眼的服务业领域之一，也是受冲击最严重的领域之一。

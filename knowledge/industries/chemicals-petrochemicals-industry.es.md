@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/chemicals-petrochemicals-industry/hero.webp'
+heroAlt: 'Un extenso complejo de refinería petroquímica iluminado por la noche, con sus torres de destilación y tuberías brillando junto a una antorcha que quema gas cerca de la orilla del agua.'
+heroCredit: 'Makubex1985 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Los plásticos, los fertilizantes, los detergentes, el caucho sintético, los cosméticos, las pinturas y las resinas del interior de la carcasa de tu teléfono empiezan todos como productos químicos, y una proporción sorprendente de ellos, o de sus componentes básicos, se fabrica en Malasia. Detrás de las historias más conocidas del país sobre el petróleo y gas y el aceite de palma se encuentra una gran industria química y petroquímica, discretamente estratégica, que convierte hidrocarburos y aceites vegetales brutos en los materiales de los que depende la vida moderna.

@@ -95,6 +95,13 @@ keywords:
   - Samsung SDI
   - adopción de VE
 framework: profile
+hero: '/media/industries/electric-vehicle-battery-industry/hero.webp'
+heroAlt: 'Una unidad de carga rápida de CC se encuentra en una plaza señalizada para vehículos eléctricos en un área de descanso de autopista en Malasia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Malasia ha pasado medio siglo construyendo coches. Ahora intenta electrificarlos y, lo que es igual de importante, fabricar las baterías y construir la red de carga de la que dependen los vehículos eléctricos. Esta es una historia distinta de la que se cuenta en la guía de la [industria automotriz de Malasia](/es/industries/automotive-industry/), que trata en gran medida de coches de gasolina y diésel. Aquí el tema es el *ecosistema* de VE y baterías: los vehículos, los incentivos, los cargadores y las fábricas que juntos deciden la rapidez con la que Malasia cambia a la movilidad eléctrica.

@@ -101,6 +101,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/medical-devices-industry/hero.webp'
+heroAlt: 'Des moules en forme de main enduits de latex liquide sur une ligne de trempage, le procédé central de la fabrication de gants jetables.'
+heroCredit: 'Marketingdepascale / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Si vous avez déjà porté un gant chirurgical, subi une prise de sang par cathéter, ou récupéré grâce à un implant orthopédique, il y a de bonnes chances que le dispositif ait été fabriqué en Malaisie. Au-delà de ses célèbres gants en caoutchouc, le pays est discrètement devenu le lieu le plus important d'Asie du Sud-Est pour fabriquer des dispositifs médicaux — et l'une des bases de fabrication medtech les plus significatives au monde.

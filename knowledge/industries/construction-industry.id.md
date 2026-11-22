@@ -86,6 +86,13 @@ relations:
 related: []
 keywords: ["industri pembinaan", "CIDB", "gred kontraktor", "G1 G7", "Akta 520", "kad hijau", "pendaftaran kontraktor", "NCP 2030", "CITP"]
 framework: rules
+hero: '/media/industries/construction-industry/hero.webp'
+heroAlt: 'Penggalian fondasi dalam di sebuah lokasi konstruksi gedung tinggi di Kuala Lumpur, dengan derek menara, penyangga merah, dan para pekerja, berlatar belakang cakrawala kota.'
+heroCredit: 'InterEdit88 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Coba dirikan pagar sekolah bernilai RM250,000 tanpa memegang sertifikat pendaftaran kontraktor, dan proyek Anda dapat diperintahkan berhenti seketika — sebelum tiang pertama pun ditanam. Di Malaysia, hak untuk membangun tidak bermula dengan mesin atau buruh; ia bermula dengan satu pendaftaran.

@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/plastics-packaging-industry/hero.webp'
+heroAlt: 'Una máquina de moldeo por inyección equipada con un brazo robótico que coloca bandejas de plástico recién moldeadas sobre una cinta transportadora en una fábrica.'
+heroCredit: 'The robotic engineer1 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Casi todo producto físico que sale de una fábrica malasia —un paquete de fideos instantáneos, un teléfono inteligente, un parachoques de coche, un tramo de tubería de agua— depende de un plástico que se moldeó en algún lugar del país. Los plásticos son una de las silenciosas fortalezas industriales de Malasia: menos glamurosos que los semiconductores, pero entretejidos en casi todos los demás sectores manufactureros y, cada vez más, en el debate nacional sobre los residuos y la sostenibilidad.

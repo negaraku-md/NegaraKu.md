@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/biotechnology-life-sciences-industry/hero.webp'
+heroAlt: 'Một nhà khoa học mặc áo choàng bảo hộ, đeo găng tay và tấm chắn mặt dùng pipette chuyển mẫu vào các lọ bên trong tủ an toàn sinh học của phòng thí nghiệm.'
+heroCredit: 'James Gathany / CDC / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Malaysia không có các đại học nghiên cứu sâu hay chiều sâu vốn mạo hiểm của một Boston hay một Thượng Hải, nhưng nó có ba thứ khiến công nghệ sinh học trở thành một canh bạc dài hạn hợp lý: một trong những kho đa dạng sinh học nhiệt đới phong phú nhất thế giới, một dòng sinh khối dầu cọ và nông nghiệp khổng lồ, và một thẩm quyền được công nhận toàn cầu về chứng nhận halal. Trong hơn hai thập kỷ, chính phủ đã cố gắng biến các tài sản đó thành một ngành khoa học đời sống hiện đại. Hướng dẫn này giải thích nỗ lực đó được tổ chức ra sao, nó đã xây dựng được gì, và nó đang đi về đâu.

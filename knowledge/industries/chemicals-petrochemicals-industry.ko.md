@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/chemicals-petrochemicals-industry/hero.webp'
+heroAlt: '거대한 석유화학 정제 단지가 밤에 환하게 불을 밝히고 있으며, 증류탑과 배관이 물가 근처에서 가스를 태우는 플레어 스택 옆에서 빛나고 있다.'
+heroCredit: 'Makubex1985 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 플라스틱, 비료, 세제, 합성고무, 화장품, 페인트, 그리고 당신 휴대폰 케이스 안의 수지 — 이 모두는 화학물질에서 출발하며, 그 가운데 놀라울 만큼 많은 양 또는 그 구성요소가 말레이시아에서 만들어집니다. 이 나라의 더 잘 알려진 석유·가스 이야기와 팜유 이야기 뒤에는, 원유 탄화수소와 식물성 유지를 현대 생활이 의존하는 소재로 바꾸는 크고 조용히 전략적인 화학·석유화학 산업이 자리합니다.

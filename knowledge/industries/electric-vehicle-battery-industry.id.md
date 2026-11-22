@@ -95,6 +95,13 @@ keywords:
   - Samsung SDI
   - adopsi EV
 framework: profile
+hero: '/media/industries/electric-vehicle-battery-industry/hero.webp'
+heroAlt: 'Sebuah unit pengisian cepat DC berdiri di bay kendaraan listrik bertanda di sebuah area peristirahatan jalan tol di Malaysia.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Malaysia telah menghabiskan setengah abad membangun mobil. Kini negara ini berupaya melistrikkannya — dan, yang sama pentingnya, membuat baterai dan membangun jaringan pengisian daya yang menjadi sandaran kendaraan listrik. Ini adalah kisah yang berbeda dari yang diceritakan dalam panduan [industri otomotif Malaysia](/id/industries/automotive-industry/), yang sebagian besar tentang mobil bensin dan diesel. Di sini subjeknya adalah *ekosistem* EV dan baterai: kendaraannya, insentifnya, pengisi dayanya, dan pabrik-pabrik yang bersama-sama menentukan seberapa cepat Malaysia beralih ke mobilitas listrik.

@@ -100,6 +100,13 @@ revisions:
     reviewer: null
 framework: profile
 wikidata: "Q5621005"
+hero: '/media/industries/telecommunications-industry/hero.webp'
+heroAlt: 'Một tháp viễn thông di động mang nhiều ăng-ten dạng tấm trên nền trời quang đãng.'
+heroCredit: 'David Ratledge / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cellular_Telephone_Tower_-_Knoxville,_Tennessee_-_May_26,_2014.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Gần như mọi người ở Malaysia đều mang theo một kết nối di động, và phần lớn các hộ gia đình có một dạng băng rộng nào đó. Điều đó khiến viễn thông là một trong những ngành quan trọng nhất và trưởng thành nhất của đất nước — hệ thống đường ống vô hình bên dưới kinh tế số, ngân hàng trực tuyến, chính phủ điện tử và đời sống hàng ngày. Tuy vậy, đằng sau những tên thương hiệu quen thuộc là một thị trường đã thay đổi mạnh mẽ trong những năm gần đây: ít nhà mạng hơn, các vụ sáp nhập lớn hơn và một thử nghiệm quốc gia về cách xây dựng 5G.

@@ -104,6 +104,13 @@ revisions:
     reviewer: null
 framework: profile
 wikidata: "Q5621005"
+hero: '/media/industries/telecommunications-industry/hero.webp'
+heroAlt: 'برج اتصالات خلوية يحمل عدّة هوائيات لوحية في مواجهة سماء صافية.'
+heroCredit: 'David Ratledge / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cellular_Telephone_Tower_-_Knoxville,_Tennessee_-_May_26,_2014.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 يحمل كل شخص في ماليزيا تقريبًا اتصالًا جوالًا، ولدى معظم المنازل شكل من النطاق العريض. وهذا يجعل الاتصالات إحدى أهم صناعات البلاد وأكثرها نضجًا — السباكة غير المرئية تحت الاقتصاد الرقمي والصيرفة الإلكترونية والحكومة الإلكترونية والحياة اليومية. ومع ذلك، خلف الأسماء التجارية المألوفة تجلس سوق تغيّرت تغيّرًا كبيرًا في السنوات الأخيرة: مشغّلون أقلّ، واندماجات أكبر، وتجربة وطنية في كيفية بناء 5G.

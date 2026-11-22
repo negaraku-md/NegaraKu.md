@@ -95,6 +95,13 @@ keywords:
   - 삼성SDI
   - EV 보급
 framework: profile
+hero: '/media/industries/electric-vehicle-battery-industry/hero.webp'
+heroAlt: '말레이시아 고속도로 휴게소의 전기차 전용 구획 주차 공간에 DC 급속 충전기가 설치되어 있다.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 말레이시아는 반세기 동안 자동차를 만들어 왔습니다. 이제 이 나라는 그것을 전동화하려 하고 있으며 — 그만큼 중요하게, 전기차가 의존하는 배터리를 만들고 충전망을 구축하려 합니다. 이는 주로 휘발유·경유 차량에 관한 [말레이시아 자동차 산업](/ko/industries/automotive-industry/) 가이드가 전하는 이야기와는 다릅니다. 여기서 다루는 주제는 EV·배터리 *생태계*입니다. 차량, 인센티브, 충전기, 그리고 말레이시아가 전기 모빌리티로 얼마나 빨리 전환할지를 함께 결정하는 공장들입니다.

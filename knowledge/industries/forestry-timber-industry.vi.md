@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/forestry-timber-industry/hero.webp'
+heroAlt: 'Một máy xúc lật bánh lốp và công nhân xử lý các khúc gỗ cứng mới đốn tại bãi xưởng cưa ở Sabah, Malaysia.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sawmill-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Malaysia nằm vắt ngang một số rừng mưa già cỗi nhất Trái Đất, và trong phần lớn lịch sử hiện đại của mình, việc buôn bán gỗ cứng nhiệt đới là một trong những trụ cột của nền kinh tế quốc gia. Thế giới khâu trước đó — bản thân những khu rừng, các giấy phép để khai thác chúng, và việc chế biến ban đầu gỗ tròn thô thành gỗ xẻ — là một ngành tách biệt với các nhà máy nội thất và nhà xuất khẩu sản phẩm gỗ ở phía dưới chuỗi. Hướng dẫn này bao quát **khu vực lâm nghiệp và tài nguyên gỗ**: gỗ đến từ đâu, ai kiểm soát nó, nó được xuất khẩu ra sao, và các áp lực bền vững và thị trường nay đang định hình lại nó.

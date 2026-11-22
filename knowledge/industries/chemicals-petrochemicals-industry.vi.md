@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/chemicals-petrochemicals-industry/hero.webp'
+heroAlt: 'Một tổ hợp nhà máy lọc hóa dầu rộng lớn sáng đèn vào ban đêm, các tháp chưng cất và hệ thống đường ống rực sáng bên cạnh một ống đuốc đốt khí gần bờ nước.'
+heroCredit: 'Makubex1985 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Nhựa, phân bón, chất tẩy rửa, cao su tổng hợp, mỹ phẩm, sơn và các loại nhựa resin bên trong vỏ điện thoại của bạn đều bắt đầu từ hóa chất — và một tỷ lệ đáng ngạc nhiên trong số đó, hoặc các khối cấu thành của chúng, được làm ra ở Malaysia. Đằng sau những câu chuyện quen thuộc hơn về dầu khí và dầu cọ của đất nước là một ngành hóa chất và hóa dầu lớn, chiến lược một cách lặng lẽ, biến hydrocarbon thô và dầu thực vật thành những vật liệu mà cuộc sống hiện đại phụ thuộc vào.

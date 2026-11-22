@@ -96,6 +96,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/retail-wholesale-trade-industry/hero.webp'
+heroAlt: 'マレーシア・クアラルンプールのNUセントラル・ショッピングモールの複数階からなるアトリウムに広がる買い物客、店舗、小売キオスク。'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_NU_Sentral,_2023_(01).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 マレーシア人が物品――食料品、電話、車、料理用油の一本――に使うほぼすべてのリンギットは、小売・卸売業を通り抜けていく。それは日々の消費を支える配管設備のようなものだ。すなわち、製品が作られた場所から買われる場所へと動かす、輸入業者・卸売業者・流通業者・店舗・市場・オンラインストアのネットワークである。当局はこのネットワークを**流通取引（distributive trade）**と呼び、マレーシア経済の最も大きく、最も目に見える部分の一つとなっている。

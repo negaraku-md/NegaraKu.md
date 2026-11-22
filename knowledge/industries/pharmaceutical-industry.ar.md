@@ -102,6 +102,13 @@ keywords:
   - "vaccine fill-finish"
   - "PIC/S GMP"
 framework: profile
+hero: '/media/industries/pharmaceutical-industry/hero.webp'
+heroAlt: 'قوارير أدوية مُغطّاة بأغطية تتحرّك على سير ناقل آلي في خطّ تصنيع صيدلاني.'
+heroCredit: 'Josep Lago, European Commission / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 في كل مرة يصرف فيها ماليزي وصفة لمضاد حيوي أو مسكّن أو قرص لضغط الدم، ثمة احتمال جيد أن الدواء صُنع في ماليزيا — لم يُخترع هنا، لكنه صِيغ وكُبِس وعُبِّئ وغُلِّف في مصنع محلي يعمل وفق معايير تصنيع دولية. وهذا هو جوهر صناعة الأدوية في ماليزيا: قاعدة تصنيع متينة تقودها الأدوية الجنيسة تبقي خزانة دواء البلاد مزوّدة، مقترنةً برهانين أكثر طموحًا — الأدوية الحلال وإنتاج اللقاحات — تأمل البلاد أن يرقيا بها في سلسلة القيمة.

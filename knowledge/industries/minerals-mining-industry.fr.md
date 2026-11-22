@@ -97,6 +97,13 @@ keywords:
   - JMG
   - Lynas
 framework: profile
+hero: '/media/industries/minerals-mining-industry/hero.webp'
+heroAlt: 'La drague d''extraction d''étain TT5 conservée, dressée à côté d''un ancien bassin minier à Perak, en Malaisie, vestige de l''ère du dragage de l''étain du pays.'
+heroCredit: 'Tony Ng / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TT5_Tin_Dredge_-_panoramio.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 L'économie moderne de la Malaisie a été, au sens propre, tirée du sol. Bien avant l'huile de palme, l'électronique ou les semi-conducteurs, c'est l'**étain** qui a rendu la péninsule importante pour le monde — finançant les chemins de fer, faisant croître des villes telles qu'Ipoh et Kuala Lumpur, et attirant des générations de mineurs migrants. L'exploitation minière est le plus ancien récit industriel du pays, et bien qu'elle ne domine plus l'économie, elle se réécrit discrètement autour d'un prix très moderne : les éléments de terres rares.

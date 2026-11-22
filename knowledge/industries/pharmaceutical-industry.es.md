@@ -98,6 +98,13 @@ keywords:
   - llenado y acabado de vacunas
   - BPM PIC/S
 framework: profile
+hero: '/media/industries/pharmaceutical-industry/hero.webp'
+heroAlt: 'Viales de medicamento tapados avanzando por una cinta transportadora automatizada en una línea de fabricación farmacéutica.'
+heroCredit: 'Josep Lago, European Commission / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Cada vez que un malasio surte una receta de un antibiótico, un analgésico o una pastilla para la tensión, hay buenas probabilidades de que el medicamento se fabricara en Malasia: no inventado aquí, pero sí formulado, prensado, llenado y envasado en una fábrica local que trabaja conforme a normas internacionales de fabricación. Ese es el corazón de la industria farmacéutica de Malasia: una base de fabricación sólida y liderada por los genéricos que mantiene surtido el botiquín nacional, emparejada con dos apuestas más ambiciosas —los fármacos halal y la producción de vacunas— que el país espera que lo lleven a ascender en la cadena de valor.

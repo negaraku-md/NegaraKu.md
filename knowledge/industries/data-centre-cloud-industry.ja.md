@@ -82,6 +82,13 @@ relations:
 related: ["johor-singapore-special-economic-zone"]
 keywords: ["Malaysia data centre", "cloud infrastructure", "Johor data centre", "DESAC incentive", "data centre power water", "hyperscale Malaysia"]
 framework: profile
+hero: '/media/industries/data-centre-cloud-industry/hero.webp'
+heroAlt: '青いステータスランプを灯したサーバーラックが列をなし、データセンターの通路を埋め尽くしている。'
+heroCredit: 'BalticServers.com / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 2019年、シンガポールは大型の新規データセンターの承認を停止した。それから4年のうちに、同国が締め出したサーバー群は、コーズウェイを挟んで20分の場所に新たな産業を築き上げた——そしてジョホールは、静かなマレーシアの州から、東南アジアで最も活気のあるデータセンター市場へと変わった。

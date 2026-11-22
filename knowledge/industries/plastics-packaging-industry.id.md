@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/plastics-packaging-industry/hero.webp'
+heroAlt: 'Sebuah mesin cetak injeksi yang dilengkapi lengan robot menempatkan nampan plastik yang baru dicetak ke atas konveyor di sebuah pabrik.'
+heroCredit: 'The robotic engineer1 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Hampir setiap produk fisik yang keluar dari pabrik Malaysia — sebungkus mi instan, sebuah ponsel pintar, bemper mobil, sepotong pipa air — bergantung pada plastik yang dibentuk di suatu tempat di negara ini. Plastik adalah salah satu kekuatan industri Malaysia yang senyap: kurang glamor daripada semikonduktor, tetapi terjalin ke hampir setiap sektor manufaktur lain dan, kian lama, ke dalam perdebatan nasional tentang sampah dan keberlanjutan.

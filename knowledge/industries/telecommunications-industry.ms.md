@@ -100,6 +100,13 @@ revisions:
     reviewer: null
 framework: profile
 wikidata: "Q5621005"
+hero: '/media/industries/telecommunications-industry/hero.webp'
+heroAlt: 'Sebuah menara telekomunikasi selular membawa pelbagai antena panel dengan latar langit cerah.'
+heroCredit: 'David Ratledge / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Cellular_Telephone_Tower_-_Knoxville,_Tennessee_-_May_26,_2014.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Hampir semua orang di Malaysia membawa sambungan mudah alih, dan kebanyakan rumah mempunyai sejenis jalur lebar. Itu menjadikan telekomunikasi salah satu industri paling penting dan paling matang negara — paip tersembunyi di bawah ekonomi digital, perbankan dalam talian, e-kerajaan dan kehidupan harian. Namun di sebalik nama jenama yang biasa terletak pasaran yang telah berubah secara dramatik dalam tahun-tahun kebelakangan: pengendali lebih sedikit, penggabungan lebih besar dan satu eksperimen nasional tentang cara membina 5G.

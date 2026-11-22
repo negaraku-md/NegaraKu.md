@@ -101,6 +101,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/medical-devices-industry/hero.webp'
+heroAlt: '浸漬ラインで液状ラテックスをコーティングした手の形の成形型。使い捨て手袋製造の中核となる工程である。'
+heroCredit: 'Marketingdepascale / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 もしあなたが手術用の手袋をはめたことがあれば、カテーテルで採血されたことがあれば、あるいは整形外科インプラントの助けを借りて回復したことがあれば、その機器はマレーシアで作られた可能性が十分にある。有名なゴム手袋を越えて、同国は静かに東南アジアで最も重要な医療機器の製造地となり――そして世界のどこと比べても有数のメドテック製造基盤の一つとなった。

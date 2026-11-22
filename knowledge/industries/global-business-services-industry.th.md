@@ -98,6 +98,13 @@ keywords:
   - Malaysia Digital
   - การย้ายงานไปต่างประเทศ
 framework: profile
+hero: '/media/industries/global-business-services-industry/hero.webp'
+heroAlt: 'อาคารสำนักงานองค์กรสมัยใหม่ในไซเบอร์จายา หนึ่งในศูนย์กลางหลักด้านเทคโนโลยีและบริการธุรกิจระดับโลกของมาเลเซีย'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ที่ไหนสักแห่งใน Cyberjaya หรือกัวลาลัมเปอร์ในขณะนี้ นักบัญชีกำลังปิดบัญชีประจำเดือนให้บริษัทที่มีสำนักงานใหญ่ในลอนดอน เจ้าหน้าที่ help-desk กำลังแก้ปัญหาให้ลูกค้าในซิดนีย์ และนักวิเคราะห์ข้อมูลกำลังสร้างแดชบอร์ดให้โรงงานในเยอรมนี ไม่มีนายจ้างเหล่านั้นผลิตอะไรในมาเลเซีย สิ่งที่พวกเขาดำเนินงานที่นี่คือสิ่งที่มองเห็นได้น้อยกว่าแต่มีมูลค่ามากขึ้นเรื่อย ๆ: สำนักงานสนับสนุนระดับโลกของพวกเขา

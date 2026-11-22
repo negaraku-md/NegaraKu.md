@@ -108,6 +108,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/space-industry/hero.webp'
+heroAlt: 'Sebuah stesen bumi satelit dengan antena piring, antena yagi dan radom yang digunakan untuk menjejak dan berkomunikasi dengan kapal angkasa.'
+heroCredit: 'Satopsnz / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Antennas_at_Awarua_Satellite_Ground_Station.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Malaysia tidak melancarkan roket sendiri, namun ia telah menerbangkan seorang angkasawan, membina dan mengendalikan mikrosatelit, serta meluluskan undang-undang untuk melesenkan aktiviti angkasa swasta sebelum kebanyakan jirannya. Sektor angkasanya kecil dan strategik secara senyap — terjalin melalui dasar jalur lebar, pertahanan, pemantauan bencana dan maruah negara. Panduan ini memetakan agensi, undang-undang, satelit dan cita-cita yang membentuk ekonomi angkasa Malaysia.

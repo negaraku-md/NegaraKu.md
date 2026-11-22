@@ -96,6 +96,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/biotechnology-life-sciences-industry/hero.webp'
+heroAlt: 'A scientist in a protective gown, gloves and face shield uses a pipette to transfer samples into vials inside a laboratory biosafety cabinet.'
+heroCredit: 'James Gathany / CDC / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Malaysia does not have the deep research universities or venture-capital depth of a Boston or a Shanghai, but it has three things that make biotechnology a logical long-term bet: one of the world's richest troves of tropical biodiversity, an enormous stream of palm-oil and agricultural biomass, and a globally recognised authority in halal certification. For more than two decades the government has been trying to turn those endowments into a modern life sciences industry. This guide explains how that effort is organised, what it has built, and where it is heading.

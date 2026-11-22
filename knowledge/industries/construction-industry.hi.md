@@ -86,6 +86,13 @@ relations:
 related: []
 keywords: ["निर्माण उद्योग", "industri pembinaan", "CIDB", "ठेकेदार ग्रेड", "gred kontraktor", "G1 G7", "Akta 520", "ग्रीन कार्ड", "kad hijau", "ठेकेदार पंजीकरण", "NCP 2030", "CITP"]
 framework: rules
+hero: '/media/industries/construction-industry/hero.webp'
+heroAlt: 'कुआलालंपुर में एक ऊँची इमारत के निर्माण स्थल की गहरी नींव खुदाई, जिसमें टावर क्रेन, लाल सहारा देने वाली छड़ें और मजदूर हैं, पीछे शहर की गगनचुंबी रेखा है।'
+heroCredit: 'InterEdit88 / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ठेकेदार पंजीकरण प्रमाणपत्र रखे बिना RM250,000 मूल्य की एक स्कूल बाड़ खड़ी करने की कोशिश करें, और आपकी परियोजना को तुरंत रुकने का आदेश दिया जा सकता है — पहला खंभा गाड़े जाने से भी पहले। मलेशिया में, निर्माण का अधिकार मशीनरी या श्रम से नहीं शुरू होता; यह एक अकेले पंजीकरण से शुरू होता है।

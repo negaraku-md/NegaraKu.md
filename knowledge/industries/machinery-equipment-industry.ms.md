@@ -93,6 +93,13 @@ keywords:
   - Industry4WRD
   - MIDA
 framework: profile
+hero: '/media/industries/machinery-equipment-industry/hero.webp'
+heroAlt: 'Lantai kilang yang dipenuhi mesin alat CNC dan pekerja, tipikal bagi pembuatan jentera dan peralatan.'
+heroCredit: 'Antoniusaw / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:CNC_Machine_Facility.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Setiap kilang berjalan atas mesin — dan mesin itu perlu dibina oleh seseorang. Industri jentera & peralatan (M&E) ialah bahagian pembuatan yang membuat barisan pengeluaran, jentera proses, alat pengerjaan logam, sistem kuasa dan automasi yang menjadi sandaran setiap industri *lain*. Ia industri besar yang paling tidak kelihatan dalam ekonomi dan, atas sebab itulah, salah satu yang paling penting dari segi strategik.

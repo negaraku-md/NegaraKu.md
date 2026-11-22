@@ -98,6 +98,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/gig-platform-economy-industry/hero.webp'
+heroAlt: 'Un livreur de repas à motocyclette, muni d''un caisson de livraison isotherme, attend à un carrefour de rue à Penang, en Malaisie.'
+heroCredit: 'Sharon Hahn Darlin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Chaque jour, des millions de transactions en Malaisie sont organisées non par un magasin, un bureau ou une station de taxis, mais par une application : une voiture appelée au bord du trottoir, un sac de nourriture transporté à travers la ville à moto, un logo conçu pour un client que le travailleur indépendant ne rencontrera jamais. C'est l'économie du gig et des plateformes — le travail intermédié par des plateformes numériques — et en à peine plus d'une décennie, elle est passée de curiosité à l'une des caractéristiques les plus visibles de la vie active malaisienne.

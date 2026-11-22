@@ -6028,5 +6028,334 @@
       "subject": "logging truck carrying timber in Sarawak",
       "alt": "A truck loaded with large tropical hardwood logs travels along a wet road beside rainforest in Sarawak."
     }
+  },
+  "industries/aquaculture-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Foto_Keramba_Ikan_%28Panatapan%2C_Parapat%2C_Simalungun%29.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Sophia Guevara",
+      "page": "https://commons.wikimedia.org/wiki/File:Foto_Keramba_Ikan_(Panatapan,_Parapat,_Simalungun).jpg",
+      "kind": "representative",
+      "subject": "Floating fish cages",
+      "alt": "Rows of floating net cages for fish farming arranged across the calm surface of a lake, with a caretaker's hut at one end."
+    }
+  },
+  "industries/biotechnology-life-sciences-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/CDC_scientist_transfers_H7N9.png",
+      "license": "Public domain",
+      "by": "James Gathany / CDC",
+      "page": "https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png",
+      "kind": "representative",
+      "subject": "Life-sciences laboratory",
+      "alt": "A scientist in a protective gown, gloves and face shield uses a pipette to transfer samples into vials inside a laboratory biosafety cabinet."
+    }
+  },
+  "industries/chemicals-petrochemicals-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Petron_bataan_refinery_2.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Makubex1985",
+      "page": "https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg",
+      "kind": "representative",
+      "subject": "Petrochemical refinery complex",
+      "alt": "A sprawling petrochemical refinery complex lit up at night, its distillation towers and pipework glowing beside a flare stack burning off gas near the waterfront."
+    }
+  },
+  "industries/cocoa-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Cacao_fruit_in_C%C3%B4te_d%27Ivoire_%2811%29.JPG",
+      "license": "CC BY-SA 4.0",
+      "by": "Hanay",
+      "page": "https://commons.wikimedia.org/wiki/File:Cacao_fruit_in_C%C3%B4te_d'Ivoire_(11).JPG",
+      "kind": "representative",
+      "subject": "Cocoa pods on the tree",
+      "alt": "Two large green cocoa pods growing directly from the trunk of a cacao tree in a shaded plantation.",
+      "position": "centre"
+    }
+  },
+  "industries/construction-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Fairmont_Kuala_Lumpur_construction_site_20240409.jpg",
+      "license": "CC0",
+      "by": "InterEdit88",
+      "page": "https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg",
+      "kind": "actual",
+      "subject": "High-rise construction site",
+      "alt": "Deep foundation excavation of a high-rise construction site in Kuala Lumpur, with tower cranes, red shoring struts and workers, backed by the city skyline."
+    }
+  },
+  "industries/data-centre-cloud-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/BalticServers_data_center.jpg",
+      "license": "CC BY-SA 3.0",
+      "by": "BalticServers.com",
+      "page": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg",
+      "kind": "representative",
+      "subject": "Data centre server racks",
+      "alt": "Rows of server racks with glowing blue status lights fill the aisle of a data centre."
+    }
+  },
+  "industries/electric-vehicle-battery-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ayer_Keroh_Rest_Area_%28Southbound%29_-_Electric_Vehicle_Charging_Station.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Chongkian",
+      "page": "https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg",
+      "kind": "actual",
+      "subject": "EV charging station, Malaysia",
+      "alt": "A DC fast-charging unit stands in a marked electric-vehicle bay at a Malaysian highway rest area."
+    }
+  },
+  "industries/forestry-timber-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Sandakan_Sabah_Sawmill-02.jpg",
+      "license": "CC BY-SA 3.0",
+      "by": "CEphoto, Uwe Aranas",
+      "page": "https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sawmill-02.jpg",
+      "kind": "actual",
+      "subject": "Sawmill log yard, Sabah",
+      "alt": "A wheel loader and workers process freshly cut hardwood logs at a sawmill yard in Sabah, Malaysia."
+    }
+  },
+  "industries/gig-platform-economy-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Halal_delivery_%26_Hindu_temple%2C_Gelugor%2C_Penang%2C_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg",
+      "license": "CC BY 2.0",
+      "by": "Sharon Hahn Darlin",
+      "page": "https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg",
+      "kind": "actual",
+      "subject": "Food-delivery rider, Penang",
+      "alt": "A food-delivery rider on a motorcycle with an insulated delivery box waits at a street junction in Penang, Malaysia.",
+      "position": "centre"
+    }
+  },
+  "industries/global-business-services-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/TMR%26D_Office.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Wanobi88",
+      "page": "https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg",
+      "kind": "actual",
+      "subject": "Modern corporate office building in Cyberjaya, a Malaysian technology and business-services hub",
+      "alt": "A modern corporate office building in Cyberjaya, one of Malaysia's main hubs for technology and global business services.",
+      "position": "centre"
+    }
+  },
+  "industries/logistics-ports-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Teal_Striped_Container_Cranes_at_Tanjung_Pelepas_Port_Ver2.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Chareinity",
+      "page": "https://commons.wikimedia.org/wiki/File:Teal_Striped_Container_Cranes_at_Tanjung_Pelepas_Port_Ver2.jpg",
+      "kind": "actual",
+      "subject": "Ship-to-shore container cranes at the Port of Tanjung Pelepas, Johor, Malaysia",
+      "alt": "Rows of ship-to-shore gantry cranes handling containers at the Port of Tanjung Pelepas in Johor, Malaysia.",
+      "position": "centre"
+    }
+  },
+  "industries/machinery-equipment-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/CNC_Machine_Facility.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Antoniusaw",
+      "page": "https://commons.wikimedia.org/wiki/File:CNC_Machine_Facility.jpg",
+      "kind": "representative",
+      "subject": "Factory floor with CNC machine tools in a machinery and equipment plant",
+      "alt": "A factory floor lined with CNC machine tools and workers, typical of machinery and equipment manufacturing.",
+      "position": "centre"
+    }
+  },
+  "industries/media-broadcasting-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Angkasapuri%2C_Kuala_Lumpur.jpg",
+      "license": "CC BY-SA 3.0",
+      "by": "Two hundred percent",
+      "page": "https://commons.wikimedia.org/wiki/File:Angkasapuri,_Kuala_Lumpur.jpg",
+      "kind": "actual",
+      "subject": "Angkasapuri broadcasting complex in Kuala Lumpur, home of Malaysia's national public broadcaster",
+      "alt": "The Angkasapuri broadcasting complex in Kuala Lumpur, home of Malaysia's national public broadcaster.",
+      "position": "centre"
+    }
+  },
+  "industries/medical-devices-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sector_Dipping%2C_Industria_De_Pascale.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Marketingdepascale",
+      "page": "https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg",
+      "kind": "representative",
+      "subject": "Hand-shaped formers coated with liquid latex on a disposable-glove dipping line",
+      "alt": "Hand-shaped formers coated with liquid latex on a dipping line, the core process in disposable-glove manufacturing.",
+      "position": "centre"
+    }
+  },
+  "industries/minerals-mining-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/TT5_Tin_Dredge_-_panoramio.jpg",
+      "license": "CC BY-SA 3.0",
+      "by": "Tony Ng",
+      "page": "https://commons.wikimedia.org/wiki/File:TT5_Tin_Dredge_-_panoramio.jpg",
+      "kind": "actual",
+      "subject": "Preserved Tanjung Tualang Dredge No. 5 (TT5) tin-mining dredge, Perak, Malaysia",
+      "alt": "The preserved TT5 tin-mining dredge standing beside a former mining pond in Perak, Malaysia, a relic of the country's tin-dredging era.",
+      "position": "centre"
+    }
+  },
+  "industries/pepper-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Sarawak_pepper_plant_climbing_poles.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Nick Allen",
+      "page": "https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plant_climbing_poles.jpg",
+      "kind": "actual",
+      "subject": "Pepper vines trained on climbing poles at a smallholding in Sarawak, Malaysia",
+      "alt": "Rows of black-pepper vines trained up wooden climbing poles on a Sarawak plantation, Malaysia's main pepper-growing state.",
+      "position": "centre"
+    }
+  },
+  "industries/pharmaceutical-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg",
+      "license": "CC BY 4.0",
+      "by": "Josep Lago, European Commission",
+      "page": "https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg",
+      "kind": "representative",
+      "subject": "Pharmaceutical production line with vials moving along a conveyor",
+      "alt": "Capped medicine vials moving along an automated conveyor on a pharmaceutical manufacturing line.",
+      "position": "centre"
+    }
+  },
+  "industries/plastics-packaging-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Injection_Molding_Machine_with_a_robot_arm.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "The robotic engineer1",
+      "page": "https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg",
+      "kind": "representative",
+      "subject": "Plastic injection-moulding machine with a robot arm unloading moulded trays onto a conveyor",
+      "alt": "An injection-moulding machine fitted with a robot arm placing freshly moulded plastic trays onto a conveyor in a factory.",
+      "position": "centre"
+    }
+  },
+  "industries/retail-wholesale-trade-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Interior_of_NU_Sentral%2C_2023_%2801%29.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Bahnfrend",
+      "page": "https://commons.wikimedia.org/wiki/File:Interior_of_NU_Sentral,_2023_(01).jpg",
+      "kind": "actual",
+      "subject": "Interior atrium of NU Sentral shopping mall, Kuala Lumpur, Malaysia",
+      "alt": "Shoppers, stores and retail kiosks across the multi-level atrium of NU Sentral shopping mall in Kuala Lumpur, Malaysia.",
+      "position": "centre"
+    }
+  },
+  "industries/space-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Antennas_at_Awarua_Satellite_Ground_Station.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Satopsnz",
+      "page": "https://commons.wikimedia.org/wiki/File:Antennas_at_Awarua_Satellite_Ground_Station.jpg",
+      "kind": "representative",
+      "subject": "satellite ground station antennas",
+      "alt": "A satellite ground station with a dish antenna, a yagi antenna and a radome used to track and communicate with spacecraft.",
+      "position": "centre"
+    }
+  },
+  "industries/telecommunications-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Cellular_Telephone_Tower_-_Knoxville%2C_Tennessee_-_May_26%2C_2014.jpg",
+      "license": "CC BY 4.0",
+      "by": "David Ratledge",
+      "page": "https://commons.wikimedia.org/wiki/File:Cellular_Telephone_Tower_-_Knoxville,_Tennessee_-_May_26,_2014.jpg",
+      "kind": "representative",
+      "subject": "cellular telecommunications tower",
+      "alt": "A cellular telecommunications tower carrying multiple panel antennas against a clear sky.",
+      "position": "centre"
+    }
+  },
+  "industries/textiles-apparel-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Garment_factory_in_Bangladesh_Women_working.jpg",
+      "license": "CC BY 2.0",
+      "by": "Tareq Salahuddin",
+      "page": "https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg",
+      "kind": "representative",
+      "subject": "garment factory assembly line",
+      "alt": "Workers sewing and finishing clothing along an assembly line inside a garment factory.",
+      "position": "centre"
+    }
+  },
+  "industries/digital-creative-content-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bones_Studio_hala.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Gabriela Cybulska",
+      "page": "https://commons.wikimedia.org/wiki/File:Bones_Studio_hala.jpg",
+      "kind": "representative",
+      "subject": "motion-capture production studio",
+      "alt": "A motion-capture production studio with a gridded capture stage, overhead camera rig on trusses and an operator workstation with multiple monitors.",
+      "position": "centre"
+    }
+  },
+  "public-safety/road-safety-in-malaysia": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/North_South_Expressway_1.jpg",
+      "license": "CC0",
+      "by": "Slleong",
+      "page": "https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg",
+      "kind": "actual",
+      "subject": "North-South Expressway, Malaysia",
+      "alt": "Traffic on the divided North-South Expressway in Malaysia, with lane markings, crash barriers and roadside billboards under a clear sky.",
+      "position": "centre"
+    }
+  },
+  "public-safety/civil-defence-force-apm": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Tatra_truck_of_Malaysia_Civil_Defence_Force_in_Kuantan_2023_NDP.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Kistara",
+      "page": "https://commons.wikimedia.org/wiki/File:Tatra_truck_of_Malaysia_Civil_Defence_Force_in_Kuantan_2023_NDP.jpg",
+      "kind": "actual",
+      "subject": "Malaysia Civil Defence Force (APM) rescue truck",
+      "alt": "A Malaysia Civil Defence Force (Angkatan Pertahanan Awam Malaysia) rescue truck bearing the APM emblem, with a uniformed volunteer aboard, during a parade in Kuantan, Malaysia.",
+      "position": "centre"
+    }
+  },
+  "public-safety/national-disaster-management-agency-nadma": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Banjir_Sandakan_Januari_2025_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Taufik",
+      "page": "https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg",
+      "kind": "representative",
+      "subject": "Flooding in Sandakan, Sabah, Malaysia",
+      "alt": "Floodwaters inundate a rural area during heavy monsoon rain in Sandakan, Sabah, Malaysia.",
+      "position": "centre"
+    }
+  },
+  "companies/capital-a-and-airasia": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/AirAsia_-_Airbus_A320_-_9M-AGP_-_Now_Everyone_Can_Fly_Livery_-_KUL.jpg",
+      "license": "CC BY-SA 2.0",
+      "by": "Jovi Choo",
+      "page": "https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AGP_-_Now_Everyone_Can_Fly_Livery_-_KUL.jpg",
+      "kind": "actual",
+      "subject": "AirAsia Airbus A320 in red livery at Kuala Lumpur",
+      "alt": "A red-liveried AirAsia Airbus A320 (registration 9M-AGP) bearing the \"Now Everyone Can Fly\" slogan, parked at a gate at Kuala Lumpur International Airport.",
+      "position": "centre"
+    }
+  },
+  "companies/malaysias-big-banks": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Kuala_Lumpur%2C_Malaysia%2C_View_of_KLCC.jpg",
+      "license": "CC BY 4.0",
+      "by": "Vyacheslav Argenberg",
+      "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_View_of_KLCC.jpg",
+      "kind": "representative",
+      "subject": "Kuala Lumpur city-centre skyline, Malaysia",
+      "alt": "The high-rise skyline of Kuala Lumpur's city centre, Malaysia's main financial district, dominated by the Petronas Twin Towers.",
+      "position": "centre"
+    }
   }
 }

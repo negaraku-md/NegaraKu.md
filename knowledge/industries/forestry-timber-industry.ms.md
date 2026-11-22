@@ -97,6 +97,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/forestry-timber-industry/hero.webp'
+heroAlt: 'Sebuah jentera pemuat beroda dan pekerja memproses kayu keras yang baru ditebang di laman kilang papan di Sabah, Malaysia.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sawmill-02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Malaysia terletak merentasi sebahagian hutan hujan tertua di Bumi, dan bagi sebahagian besar sejarah modennya perdagangan kayu keras tropika ialah salah satu tiang ekonomi nasional. Dunia huluan itu — hutan itu sendiri, lesen untuk membalaknya, dan pemprosesan awal balak mentah menjadi kayu — ialah industri yang tersendiri daripada kilang perabot dan pengeksport produk kayu lebih jauh ke bawah rantaian. Panduan ini meliputi **sektor perhutanan dan sumber kayu**: dari mana kayu datang, siapa yang mengawalnya, bagaimana ia dieksport, dan tekanan kelestarian serta pasaran yang kini membentuknya semula.

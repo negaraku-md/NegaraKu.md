@@ -118,6 +118,13 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["मलेशिया के बंदरगाह", "Malaysia ports", "Port Klang", "Port of Tanjung Pelepas", "PTP", "ट्रांसशिपमेंट", "transhipment", "container port", "मलेशिया लॉजिस्टिक्स", "freight forwarding", "ECRL", "free zone", "TEU", "Strait of Malacca"]
 framework: profile
+hero: '/media/industries/logistics-ports-industry/hero.webp'
+heroAlt: 'मलेशिया के जोहोर में तंजुंग पेलेपास बंदरगाह पर कंटेनरों को संभालती शिप-टू-शोर गैन्ट्री क्रेनों की पंक्तियाँ।'
+heroCredit: 'Chareinity / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Teal_Striped_Container_Cranes_at_Tanjung_Pelepas_Port_Ver2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Port Klang ने 2025 में 1.514 करोड़ शिपिंग कंटेनर — यानी 15.14 मिलियन — आगे बढ़ाए, जो हांगकांग को पछाड़ने और पहली बार दुनिया के दस सबसे व्यस्त बंदरगाहों में घुसने के लिए पर्याप्त थे। एक दूसरे मलेशियाई बंदरगाह, Tanjung Pelepas, ने और 14 मिलियन आगे बढ़ाए। इनमें से कोई भी आँकड़ा ऐसे देश का वर्णन नहीं करता जो उन अधिकांश वस्तुओं को बनाता हो। यह ऐसे देश का वर्णन करता है जो सही जगह पर बैठा है और जिसने दुनिया के व्यापार पर किराया वसूलना सीख लिया है।

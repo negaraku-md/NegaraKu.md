@@ -118,6 +118,13 @@ relations:
 related: ["east-coast-rail-link-ecrl"]
 keywords: ["Malaysia ports", "Port Klang", "Port of Tanjung Pelepas", "PTP", "transhipment", "container port", "logistics Malaysia", "freight forwarding", "ECRL", "free zone", "TEU", "Strait of Malacca"]
 framework: profile
+hero: '/media/industries/logistics-ports-industry/hero.webp'
+heroAlt: 'Hileras de grúas pórtico de muelle manipulando contenedores en el Puerto de Tanjung Pelepas en Johor, Malasia.'
+heroCredit: 'Chareinity / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Teal_Striped_Container_Cranes_at_Tanjung_Pelepas_Port_Ver2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Port Klang movió 15.14 millones de contenedores de transporte marítimo en 2025, suficientes para adelantar a Hong Kong e irrumpir por primera vez entre los diez puertos más activos del mundo. Un segundo puerto malasio, Tanjung Pelepas, movió otros 14 millones. Ninguna de esas cifras describe un país que fabrique la mayor parte de esas mercancías. Describe un país que está en el lugar correcto y que ha aprendido a cobrar renta por el comercio del mundo.
