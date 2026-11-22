@@ -81,6 +81,13 @@ relations:
 related: []
 keywords: ["velodrom nasional", "राष्ट्रीय वेलोड्रोम", "Nilai", "ट्रैक साइक्लिंग", "keirin", "कीरिन", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
 framework: profile
+hero: '/media/sports/track-cycling-velodrome-malaysia/hero.webp'
+heroAlt: 'निलाई में नेशनल वेलोड्रोम का कोणीय लाल, ग्रे और सफेद अग्रभाग एक खाली कार पार्क के ऊपर खड़ा है।'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Velodrome,_Nilai.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 निलाई के बाहरी इलाके में एक लंबा, छत वाला अखाड़ा अब वह जगह है जहाँ मलेशिया के सबसे तेज़ राइडर अपनी स्प्रिंट को धार देते हैं — और इसे विशेष रूप से और अधिक विश्व ट्रैक चैंपियन तैयार करने के लिए बनाया गया था।

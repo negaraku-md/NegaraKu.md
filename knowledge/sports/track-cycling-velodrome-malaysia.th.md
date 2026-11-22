@@ -81,6 +81,13 @@ relations:
 related: []
 keywords: ["velodrom nasional", "Nilai", "lumba basikal trek", "keirin", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
 framework: profile
+hero: '/media/sports/track-cycling-velodrome-malaysia/hero.webp'
+heroAlt: 'ผนังด้านหน้าทรงเหลี่ยมสีแดง เทา และขาวของเวโลโดรมแห่งชาติในนีไล ตั้งตระหง่านเหนือลานจอดรถที่ว่างเปล่า'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Velodrome,_Nilai.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 สนามมีหลังคายาวที่ขอบเมืองนีไลตอนนี้เป็นที่ที่นักจักรยานที่เร็วที่สุดของมาเลเซียขัดเกลาการวิ่งของตน และมันถูกสร้างขึ้นโดยเฉพาะเพื่อผลิตแชมป์จักรยานลู่โลกให้มากขึ้น

@@ -87,6 +87,13 @@ keywords:
   - "kedudukan hoki dunia FIH Malaysia"
   - "Piala Dunia hoki 1975 Kuala Lumpur"
 framework: history-culture
+hero: '/media/sports/field-hockey-malaysia/hero.webp'
+heroAlt: 'Các cầu thủ khúc côn cầu trên sân đuổi theo bóng trong một trận đấu của Malaysia tại World Cup Khúc côn cầu.'
+heroCredit: 'Hans Peters for Anefo / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen,_Nederland_tegen_Maleisi_4-0,_Ties_Kruize_(rech,_Bestanddeelnr_926-6422.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Vào ngày 15 tháng 3 năm 1975, một sân vận động ở Kuala Lumpur chứng kiến Ấn Độ nâng Cúp Thế giới khúc côn cầu nam lần duy nhất trong lịch sử của họ — và chủ nhà không phải Ấn Độ, mà là Malaysia. Nửa thế kỷ sau, cũng chính quốc gia đó vẫn mời các cường quốc khúc côn cầu thế giới đến Ipoh mỗi năm. Khúc côn cầu trên sân có thể không phải môn thể thao phổ biến nhất ở Malaysia ngày nay, nhưng nó có lẽ là di sản thể thao được tôn trọng nhất của đất nước ở tầm quốc tế.

@@ -94,6 +94,13 @@ relations:
 related: []
 keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
 framework: history-culture
+hero: '/media/sports/football-in-malaysia/hero.webp'
+heroAlt: 'Stadion Nasional Bukit Jalil yang bermandikan lampu sorot dan dipadati penggemar menghadap ke sebuah pertandingan sepak bola yang sedang berlangsung.'
+heroCredit: 'Phalinn Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Pada 1921, Singapura mengalahkan Selangor 2-1 di final sebuah kejuaraan sepak bola baru di Tanah Melayu. Lebih dari seabad kemudian, turnamen itu — kini dikenal sebagai Piala Malaysia — masih menjadi mahkota paling bergengsi dalam olahraga paling digemari negara.

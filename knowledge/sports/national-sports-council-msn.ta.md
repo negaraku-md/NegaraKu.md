@@ -68,6 +68,13 @@ relations: []
 related: []
 keywords: ["Majlis Sukan Negara", "MSN", "National Sports Council of Malaysia", "NSC Malaysia", "MSN Bukit Jalil", "Akta Majlis Sukan Negara 1971", "Institut Sukan Negara", "ISN", "Kompleks Sukan Negara Bukit Jalil", "Majlis Sukan Negeri", "Kementerian Belia dan Sukan", "MSN atlet", "pembangunan sukan Malaysia"]
 framework: profile
+hero: '/media/sports/national-sports-council-msn/hero.webp'
+heroAlt: 'மஜ்லிஸ் சுகான் நெகாரா மலேசியாவின் (Majlis Sukan Negara) வண்ணமயமான தலைமையகக் கட்டிடம் புக்கிட் ஜாலிலில் அதன் பெயர் சுவரில் இருக்க நிற்கிறது.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia,_Bukit_Jalil_(220713).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ஒரு மலேசிய குறுந்தூர ஓட்ட வீரர் ஒலிம்பிக்கில் போட்டிக்கு நிற்கும்போது, அல்லது ஒரு இளம் கால்பந்து வீரர் தேசிய அணிக்குத் தேர்ந்தெடுக்கப்படும்போது, அவர்களை அந்த நிலைக்குக் கொண்டுவந்த பயிற்சி, கோச்சிங் மற்றும் வசதிகளுக்குப் பின்னால் ஒரே ஒரு அரசு அமைப்பு நிற்கிறது: **மலேசிய தேசிய விளையாட்டு மன்றம்** (National Sports Council of Malaysia), மலாய் மொழியில் **Majlis Sukan Negara (MSN)** என்று அறியப்படுகிறது. இது தேசிய விளையாட்டுக் கொள்கையை உண்மையான வீரர்களாக மாற்றும் சட்டப்பூர்வ முகமையாகும்.

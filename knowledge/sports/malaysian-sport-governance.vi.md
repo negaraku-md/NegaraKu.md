@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["tadbir urus sukan Malaysia", "Majlis Sukan Negara", "Pesuruhjaya Sukan", "Akta Pembangunan Sukan 1997", "Majlis Olimpik Malaysia", "Kementerian Belia dan Sukan", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/malaysian-sport-governance/hero.webp'
+heroAlt: 'Mặt tiền bằng lá chớp màu bạc của Sân vận động Quốc gia Bukit Jalil vươn lên phía trên một khoảng sân trống.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Một câu lạc bộ bóng đá mới ở Johor có thể mua áo đấu, thuê sân và đăng ký cầu thủ — nhưng nó vẫn không thể hợp pháp cử bất kỳ ai đại diện cho "Malaysia" đến bất kỳ giải đấu nào. Lý do không phải tiền bạc hay tài năng. Đó là vấn đề ai cho phép. Ở Malaysia, quyền tồn tại như một cơ quan thể thao, quyền được tài trợ, và quyền mang tên đất nước đến từ bốn thiết chế khác nhau thường bị nhầm lẫn là một.

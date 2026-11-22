@@ -95,6 +95,13 @@ relations:
 related: []
 keywords: ["Majlis Paralimpik Malaysia", "Paralympic Council Malaysia", "para sukan", "Sukan Paralimpik", "Bonnie Bunyau Gustin", "Cheah Liek Hou", "Abdul Latif Romly"]
 framework: explainer
+hero: '/media/sports/malaysia-paralympics-para-sports/hero.webp'
+heroAlt: 'Un nageur handisport avance en nage sur le dos dans un couloir du bassin de compétition.'
+heroCredit: 'Staff Sgt. Michael Hunnisett, U.S. Army / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sgt_1st_Class_Elizabeth_Marks_Competes_at_2023_Para_Swimming_World_Championships_(7942899).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Lorsque Cheah Liek Hou a défendu sa médaille d'or de badminton SU5 à Paris 2024, ce triomphe a confirmé que le parasport malaisien dispose désormais d'une liste de champions plus solide, et non plus seulement d'une réussite occasionnelle. Derrière ce moment se trouve une structure de gouvernance propre, distincte du monde olympique plus connu.

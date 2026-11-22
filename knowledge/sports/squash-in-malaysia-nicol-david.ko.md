@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["squash", "Nicol David", "SRAM", "Malaysian squash", "Ng Eain Yow", "Sivasangari Subramaniam", "World Open"]
 framework: profile
+hero: '/media/sports/squash-in-malaysia-nicol-david/hero.webp'
+heroAlt: '말레이시아 스쿼시 챔피언 니콜 데이비드가 토너먼트 경기에서 몸을 뻗어 포핸드를 치고 있다.'
+heroCredit: 'stevecubbins / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nicol_David_Hong_Kong_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 9년 연속으로, 지구상 최고의 스쿼시 선수는 페낭 출신이었습니다. 니콜 데이비드(Nicol David)는 단지 말레이시아에서 가장 성공한 개인 종목에서 이긴 것이 아니라 — 그 종목에서 지배가 어떤 모습인지를 다시 썼습니다. 2015년 9월까지 **108개월 연속** 세계 1위를 유지했는데, 이는 이 경기가 지금껏 본 가장 긴 무패의 재위입니다.

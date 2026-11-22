@@ -69,6 +69,13 @@ relations:
 related: []
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
 framework: explainer
+hero: '/media/sports/national-sports-day-malaysia/hero.webp'
+heroAlt: 'Sekumpulan pelari mengalir melepasi Bangunan Sultan Abdul Samad yang bermandi cahaya lampu semasa larian jalan raya malam di Kuala Lumpur.'
+heroCredit: 'Klmarathon / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pacers_Running.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Setiap Sabtu minggu kedua bulan Oktober, padang, taman dan dewan sukan di seluruh Malaysia sepatutnya penuh sesak — itulah rekaan Hari Sukan Negara.

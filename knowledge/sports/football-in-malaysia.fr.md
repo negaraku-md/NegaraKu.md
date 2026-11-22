@@ -94,6 +94,13 @@ relations:
 related: []
 keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
 framework: history-culture
+hero: '/media/sports/football-in-malaysia/hero.webp'
+heroAlt: 'Le stade national de Bukit Jalil illuminé par les projecteurs et bondé de supporters domine un match de football en cours.'
+heroCredit: 'Phalinn Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 En 1921, Singapour a battu Selangor 2-1 en finale d'un nouveau tournoi de football en Malaya. Plus d'un siècle plus tard, cette compétition — aujourd'hui connue sous le nom de Coupe de Malaisie — demeure la couronne la plus prestigieuse du sport le plus aimé du pays.

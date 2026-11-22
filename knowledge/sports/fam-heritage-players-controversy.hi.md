@@ -81,6 +81,13 @@ relations:
 related: []
 keywords: ["नागरिकीकरण", "वंशज खिलाड़ी", "FAM", "FIFA", "CAS", "Harimau Malaya", "जाली दस्तावेज़", "अनुच्छेद 22", "एशियन कप 2027"]
 framework: explainer
+hero: '/media/sports/fam-heritage-players-controversy/hero.webp'
+heroAlt: 'मलेशियाई बाघ स्कोरबोर्ड के नीचे हरिमाउ मलाया प्रशंसकों की पीली भीड़ बुकित जलिल राष्ट्रीय स्टेडियम को भर देती है।'
+heroCredit: 'Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ultras_Malaya_in_Bukit_Jalil_Stadium,_2014_AFF_Championship_Final.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 जून 2025 में सात विदेश-जन्मे खिलाड़ियों ने हरिमाउ मलाया जर्सी पहनी। एक साल से भी कम समय में, दुनिया की सर्वोच्च खेल पंचाट संस्था ने पुष्टि कर दी कि उन्हें मलेशिया के लिए खेलने के योग्य बनाने वाले दस्तावेज़ जाली किए गए थे। इस मामले ने FIFA की अनुशासनात्मक कार्यवाहियों की एक शृंखला, खेल पंचाट न्यायालय (CAS) में एक अपील, और मलेशिया में एक पुलिस रिपोर्ट को जन्म दिया।

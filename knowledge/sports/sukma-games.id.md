@@ -99,6 +99,13 @@ relations:
 related: []
 keywords: ["SUKMA", "Sukan Malaysia", "Majlis Sukan Negara", "Program Podium", "atlet remaja", "pembangunan sukan", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/sukma-games/hero.webp'
+heroAlt: 'Kontingen negara bagian membawa bendera dan papan nama mereka selama upacara pembukaan SUKMA Games di Malaysia.'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Setiap dua tahun, ribuan atlet remaja berbaris masuk ke sebuah stadion negeri tuan rumah — bukan untuk medali dunia, tetapi untuk martabat negeri masing-masing dan, bagi yang paling berbakat, satu tiket ke panggung elite negara. Itulah SUKMA.

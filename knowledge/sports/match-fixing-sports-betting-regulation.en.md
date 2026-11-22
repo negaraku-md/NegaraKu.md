@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["pengaturan perlawanan", "match-fixing", "pertaruhan sukan", "Akta Rumah Judi Terbuka 1953", "Akta Pertaruhan 1953", "SPRM", "integriti sukan", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/match-fixing-sports-betting-regulation/hero.webp'
+heroAlt: 'An empty football pitch sits before deserted grandstand seating under an overcast sky.'
+heroCredit: 'Affinity24 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Football_Pitch_Ahmadu_Bello_Stadium_Kaduna.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 When more than 100 footballers were rounded up by police during the 1993–1994 season, it was not merely a sporting crisis — it opened a legal question that remains not fully resolved today: how does a country that prohibits almost all sports betting deal with a crime born of that very betting?

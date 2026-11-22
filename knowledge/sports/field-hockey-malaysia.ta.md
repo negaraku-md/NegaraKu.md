@@ -87,6 +87,13 @@ keywords:
   - "kedudukan hoki dunia FIH Malaysia"
   - "Piala Dunia hoki 1975 Kuala Lumpur"
 framework: history-culture
+hero: '/media/sports/field-hockey-malaysia/hero.webp'
+heroAlt: 'ஹாக்கி உலகக் கோப்பையில் ஒரு மலேசியா போட்டியின் போது புல்வெளி ஹாக்கி வீரர்கள் பந்தைத் துரத்துகிறார்கள்.'
+heroCredit: 'Hans Peters for Anefo / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen,_Nederland_tegen_Maleisi_4-0,_Ties_Kruize_(rech,_Bestanddeelnr_926-6422.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1975 மார்ச் 15 அன்று, Kuala Lumpur-இல் உள்ள ஒரு அரங்கம் India தமது வரலாற்றில் ஒரே ஒரு முறை ஆண்கள் ஹாக்கி உலகக் கோப்பையை உயர்த்திப் பிடித்ததைக் கண்டது — அதன் புரவலர் India அல்ல, மலேசியாவே. அரை நூற்றாண்டுக்குப் பின்னரும், அதே நாடு இன்னும் உலகின் ஹாக்கி வல்லரசுகளை ஒவ்வோர் ஆண்டும் Ipoh-க்கு அழைக்கிறது. புல் ஹாக்கி இன்று மலேசியாவின் மிகப் பிரபலமான விளையாட்டாக இல்லாமல் இருக்கலாம், ஆனால் அது நாட்டின் சர்வதேச அளவில் மிகவும் மதிக்கப்படும் விளையாட்டு மரபாக இருக்கலாம்.

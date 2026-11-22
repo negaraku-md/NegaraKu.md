@@ -99,6 +99,13 @@ relations:
 related: []
 keywords: ["سوكما", "SUKMA", "الألعاب الماليزية", "Sukan Malaysia", "المجلس الوطني للرياضة", "Majlis Sukan Negara", "برنامج المنصة", "Program Podium", "الرياضيون الناشئون", "تطوير الرياضة", "المعهد الوطني للرياضة", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/sukma-games/hero.webp'
+heroAlt: 'وفود الولايات تحمل أعلامها ولافتات أسمائها خلال حفل افتتاح دورة ألعاب سوكما في ماليزيا.'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 كل سنتين، يتقدّم آلاف الرياضيين الشباب إلى ملعب ولاية مستضيفة — لا من أجل ميداليات عالمية، بل من أجل كرامة ولاياتهم، وبالنسبة للأكثر موهبةً، تذكرة إلى منصة النخبة الوطنية. تلك هي سوكما.

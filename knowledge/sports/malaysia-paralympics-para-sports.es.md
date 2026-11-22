@@ -95,6 +95,13 @@ relations:
 related: []
 keywords: ["Majlis Paralimpik Malaysia", "Paralympic Council Malaysia", "para sukan", "Sukan Paralimpik", "Bonnie Bunyau Gustin", "Cheah Liek Hou", "Abdul Latif Romly"]
 framework: explainer
+hero: '/media/sports/malaysia-paralympics-para-sports/hero.webp'
+heroAlt: 'Un nadador paralímpico avanza con brazada de espalda a través de una calle de la piscina de competición.'
+heroCredit: 'Staff Sgt. Michael Hunnisett, U.S. Army / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sgt_1st_Class_Elizabeth_Marks_Competes_at_2023_Para_Swimming_World_Championships_(7942899).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Cuando Cheah Liek Hou defendió su oro de bádminton SU5 en París 2024, el triunfo confirmó que el deporte paralímpico malasio cuenta ahora con una nómina de campeones más sólida, y no ya con un logro ocasional. Detrás de aquel momento hay una estructura de gobernanza propia, separada del mundo olímpico más conocido.

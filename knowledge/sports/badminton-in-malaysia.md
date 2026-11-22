@@ -99,6 +99,13 @@ keywords:
   - "Lee Zii Jia"
   - "juara All England Malaysia"
 framework: history-culture
+hero: '/media/sports/badminton-in-malaysia/hero.webp'
+heroAlt: 'Bintang badminton Malaysia Lee Chong Wei merendahkan badan untuk memukul pukulan forehand ketika perlawanan Olimpik.'
+heroCredit: 'Antony Stanley / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lee_Chong_Wei,_Malaysia_(7758886922).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Pada Mei 1992, seluruh negara berhenti seketika. Di Stadium Negara, Kuala Lumpur, sepasukan pemuda diketuai adik-beradik Sidek menewaskan Indonesia untuk mengangkat Piala Thomas — dan seperti kata Datuk Rashid Sidek, "seluruh Malaysia menjadi viral dan semua orang mahu bermain badminton". Tiga dekad kemudian, trofi itu masih belum kembali. Kisah badminton Malaysia ialah kisah kegemilangan awal, kemarau yang menyakitkan, dan seorang-dua juara yang membawa harapan sebuah negara di atas bahu mereka.

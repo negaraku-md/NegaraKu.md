@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/malaysia-cup-domestic-football-leagues/hero.webp'
+heroAlt: '2017年のマレーシアカップの試合で、黄色をまとったペラ州のサッカーサポーターがスタジアムのスタンドを埋め尽くしている。'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perak_football_supporters,_2017_Malaysia_Cup_quarter-finals.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ほぼ一世紀にわたり、単一の団体——マレーシアサッカー協会（FAM）——が国内のすべてのリーグ戦を主催していた。その後、このスポーツの形を変える一手として、リーグを運営する権限が商業会社に移譲された。これが今日のマレーシア国内サッカーの仕組みの基礎である。

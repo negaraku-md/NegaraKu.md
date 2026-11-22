@@ -81,6 +81,13 @@ relations:
 related: []
 keywords: ["velodrom nasional", "Nilai", "lumba basikal trek", "keirin", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
 framework: profile
+hero: '/media/sports/track-cycling-velodrome-malaysia/hero.webp'
+heroAlt: '尼莱国家自行车馆棱角分明的红、灰、白三色外立面矗立在空荡荡的停车场之上。'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Velodrome,_Nilai.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 汝来郊外一座屋顶绵长的场馆，如今成了马来西亚最快车手磨炼冲刺的所在——而它正是为培育更多场地自行车世界冠军而专门建造的。

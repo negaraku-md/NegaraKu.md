@@ -100,6 +100,13 @@ keywords:
   - "Lee Zii Jia"
   - "juara All England Malaysia"
 framework: history-culture
+hero: '/media/sports/badminton-in-malaysia/hero.webp'
+heroAlt: 'Malaysian badminton star Lee Chong Wei lunges to play a forehand during an Olympic match.'
+heroCredit: 'Antony Stanley / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lee_Chong_Wei,_Malaysia_(7758886922).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 In May 1992, the whole nation paused for a moment. At Stadium Negara, Kuala Lumpur, a team of young men led by the Sidek brothers defeated Indonesia to lift the Thomas Cup — and as Datuk Rashid Sidek put it, "all of Malaysia went viral and everyone wanted to play badminton." Three decades later, the trophy still has not returned. The story of Malaysian badminton is a story of early glory, a painful drought, and a champion or two carrying a nation's hopes on their shoulders.

@@ -100,6 +100,13 @@ keywords:
   - "Lee Zii Jia"
   - "juara All England Malaysia"
 framework: history-culture
+hero: '/media/sports/badminton-in-malaysia/hero.webp'
+heroAlt: '马来西亚羽毛球名将李宗伟在一场奥运比赛中弓步击出一记正手球。'
+heroCredit: 'Antony Stanley / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lee_Chong_Wei,_Malaysia_(7758886922).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1992年5月，整个国家为之屏息。在吉隆坡国家体育馆，一支由西德（Sidek）三兄弟领军的年轻队伍击败印尼，捧起汤姆斯杯——正如拿督拉昔·西德所说，"全马来西亚都疯狂了，人人都想打羽毛球"。三十年过去，这座奖杯仍未归来。马来西亚羽毛球的故事，是一个关于早期辉煌、痛苦荒年，以及一两位肩负全国希望的冠军的故事。

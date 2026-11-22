@@ -102,6 +102,13 @@ relations:
 related: []
 keywords: ["sepak takraw", "sepak raga", "sukan kebangsaan malaysia", "peraturan sepak takraw", "piala raja sepak takraw", "persekutuan sepaktakraw malaysia"]
 framework: history-culture
+hero: '/media/sports/sepak-takraw/hero.webp'
+heroAlt: 'Một cầu thủ trẻ ở Malaysia tung cú đá cao về phía quả bóng sepak takraw đan bằng mây đang lơ lửng trên không.'
+heroCredit: 'Mohd Fahmi Mohd Azmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepak_takraw.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Hãy hình dung bóng chuyền, rồi tước đi đôi tay của mỗi cầu thủ. Những gì còn lại — cú đập xoay người cao ngang đầu, cú chuyền bằng ngực, cú phát bóng được tung cao lên không trung và đá bằng gót chân — đó chính là sepak takraw: một trong những môn thể thao nhào lộn nhất thế giới, và là một trong những môn gắn bó chặt chẽ nhất với bản sắc của Thế giới Mã Lai.

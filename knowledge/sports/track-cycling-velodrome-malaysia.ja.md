@@ -81,6 +81,13 @@ relations:
 related: []
 keywords: ["velodrom nasional", "Nilai", "lumba basikal trek", "keirin", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
 framework: profile
+hero: '/media/sports/track-cycling-velodrome-malaysia/hero.webp'
+heroAlt: 'ニライにある国立ベロドロームの、赤・灰・白の角張った外壁が、空いた駐車場の上にそびえている。'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Velodrome,_Nilai.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ニライの郊外にある屋根の長い一つの競技場が、いまやマレーシア最速の選手たちが走りを磨く場所となっている——そしてそれは、より多くのトラック世界王者を輩出するために特別に建設されたものだ。

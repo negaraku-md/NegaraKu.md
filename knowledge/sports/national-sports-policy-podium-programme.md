@@ -92,6 +92,13 @@ keywords:
   - "pembiayaan atlet elit"
   - "Institut Sukan Negara Podium"
 framework: explainer
+hero: '/media/sports/national-sports-policy-podium-programme/hero.webp'
+heroAlt: 'Ahli gimnastik pemenang pingat berdiri di atas podium di Sukan SEA Kuala Lumpur 2017 ketika seorang atlet Malaysia memegang bendera kebangsaan.'
+heroCredit: 'U.S. Embassy Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Women%27s_Vault_Podium_at_the_2017_SEA_Games.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Setiap kali seorang atlet Malaysia melangkah ke podium Olimpik, dua sistem yang berlainan sebenarnya sedang bekerja di belakangnya — satu yang cuba mengajak seluruh rakyat bergerak, dan satu lagi yang menumpukan sumber besar kepada segelintir kecil yang mampu menang. Kedua-duanya hidup di bawah satu dokumen dasar yang sama, tetapi dibiayai dan diukur dengan cara yang sangat berbeza.

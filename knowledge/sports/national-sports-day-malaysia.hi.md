@@ -70,6 +70,13 @@ relations:
 related: []
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
 framework: explainer
+hero: '/media/sports/national-sports-day-malaysia/hero.webp'
+heroAlt: 'कुआलालंपुर में एक रात्रि सड़क दौड़ के दौरान फ्लडलाइट से रोशन सुल्तान अब्दुल समद इमारत के पास से धावकों की भीड़ गुजरती है।'
+heroCredit: 'Klmarathon / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pacers_Running.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 अक्टूबर के दूसरे सप्ताह के हर शनिवार को, पूरे मलेशिया के खेल मैदान, पार्क और हॉल खचाखच भरे होने चाहिए — यही राष्ट्रीय खेल दिवस के पीछे का उद्देश्य है।

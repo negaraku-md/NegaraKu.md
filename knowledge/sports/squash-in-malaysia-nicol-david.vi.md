@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["squash", "Nicol David", "SRAM", "Malaysian squash", "Ng Eain Yow", "Sivasangari Subramaniam", "World Open"]
 framework: profile
+hero: '/media/sports/squash-in-malaysia-nicol-david/hero.webp'
+heroAlt: 'Nhà vô địch bóng quần Malaysia Nicol David vươn người để đánh cú thuận tay trong một trận đấu giải.'
+heroCredit: 'stevecubbins / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nicol_David_Hong_Kong_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Trong chín năm liên tiếp, tay vợt bóng quần giỏi nhất hành tinh đến từ Penang. Nicol David không chỉ chiến thắng trong môn thể thao cá nhân thành công nhất của Malaysia — cô còn viết lại thế nào là sự thống trị trong nó, giữ vị trí số 1 thế giới trong **108 tháng liên tiếp** cho đến tháng 9 năm 2015, triều đại không gián đoạn dài nhất mà môn thể thao này từng chứng kiến.

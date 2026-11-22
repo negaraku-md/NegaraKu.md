@@ -99,6 +99,13 @@ relations:
 related: []
 keywords: ["SUKMA", "Sukan Malaysia", "Majlis Sukan Negara", "Program Podium", "atletas juveniles", "desarrollo deportivo", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/sukma-games/hero.webp'
+heroAlt: 'Las delegaciones estatales portan sus banderas y carteles con su nombre durante la ceremonia de apertura de los Juegos SUKMA en Malasia.'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Cada dos años, miles de jóvenes atletas desfilan hacia el estadio de un estado anfitrión — no por medallas mundiales, sino por el orgullo de sus respectivos estados y, para los más talentosos, por un billete al escenario nacional de élite. Eso es SUKMA.

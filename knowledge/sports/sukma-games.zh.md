@@ -99,6 +99,13 @@ relations:
 related: []
 keywords: ["SUKMA", "Sukan Malaysia", "Majlis Sukan Negara", "Program Podium", "atlet remaja", "pembangunan sukan", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/sukma-games/hero.webp'
+heroAlt: '在马来西亚一场 SUKMA 运动会开幕式上，各州代表队举着本州州旗和名牌入场。'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 每隔两年，数以千计的青少年运动员就会列队走进主办州的体育场——争夺的不是世界奖牌，而是各自州属的荣誉；而对于那些最有天赋的人来说，则是一张通往国家精英舞台的入场券。这就是SUKMA。

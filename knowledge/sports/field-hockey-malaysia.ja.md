@@ -87,6 +87,13 @@ keywords:
   - "kedudukan hoki dunia FIH Malaysia"
   - "Piala Dunia hoki 1975 Kuala Lumpur"
 framework: history-culture
+hero: '/media/sports/field-hockey-malaysia/hero.webp'
+heroAlt: 'ホッケー・ワールドカップのマレーシアの試合で、フィールドホッケーの選手たちがボールを追いかけている。'
+heroCredit: 'Hans Peters for Anefo / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen,_Nederland_tegen_Maleisi_4-0,_Ties_Kruize_(rech,_Bestanddeelnr_926-6422.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1975年3月15日、クアラルンプールのあるスタジアムは、インドが男子ホッケー・ワールドカップを掲げる瞬間を目撃した——それは彼らの歴史上唯一の栄冠であり——そして開催国はインドではなく、マレーシアであった。半世紀を経ても、同じ国が今なお毎年、世界のホッケー強豪をイポーに招いている。ホッケー（フィールドホッケー）は今日のマレーシアで最も人気のあるスポーツではないかもしれないが、この国が国際的に最も尊敬を集めるスポーツ遺産と言えるだろう。

@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["حوكمة الرياضة في ماليزيا", "Majlis Sukan Negara", "مفوّض الرياضة", "قانون تطوير الرياضة 1997", "المجلس الأولمبي الماليزي", "وزارة الشباب والرياضة", "المعهد الوطني للرياضة"]
 framework: explainer
+hero: '/media/sports/malaysian-sport-governance/hero.webp'
+heroAlt: 'الواجهة الفضية المشرّعة بشرائح لملعب بوكيت جليل الوطني ترتفع فوق ساحة أمامية خالية.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 يستطيع نادٍ جديد لكرة القدم في جوهور شراء القمصان واستئجار ملعب وتسجيل اللاعبين — ومع ذلك لا يزال لا يستطيع قانونيًا إرسال أحد ليمثّل «ماليزيا» في أي مسابقة. والسبب ليس المال ولا الموهبة. إنه مسألة مَن يمنح الإذن. ففي ماليزيا، يأتي حقّ الوجود هيئةً رياضية، وحقّ التمويل، وحقّ حمل اسم الأمة، من أربع مؤسسات مختلفة كثيرًا ما يُظَنّ أنها واحدة.

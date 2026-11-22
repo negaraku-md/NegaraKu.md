@@ -100,6 +100,13 @@ keywords:
   - "Lee Zii Jia"
   - "juara All England Malaysia"
 framework: history-culture
+hero: '/media/sports/badminton-in-malaysia/hero.webp'
+heroAlt: 'Bintang bulu tangkis Malaysia Lee Chong Wei merunduk untuk memainkan pukulan forehand dalam sebuah pertandingan Olimpiade.'
+heroCredit: 'Antony Stanley / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lee_Chong_Wei,_Malaysia_(7758886922).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Pada Mei 1992, seluruh negara berhenti sejenak. Di Stadium Negara, Kuala Lumpur, sebuah tim muda yang dipimpin Sidek bersaudara mengalahkan Indonesia untuk mengangkat Piala Thomas — dan seperti kata Datuk Rashid Sidek, "seluruh Malaysia menjadi viral dan semua orang ingin bermain bulu tangkis". Tiga dekade kemudian, trofi itu masih belum kembali. Kisah bulu tangkis Malaysia adalah kisah kegemilangan awal, paceklik yang menyakitkan, dan satu-dua juara yang memikul harapan sebuah negara di atas bahu mereka.

@@ -94,6 +94,13 @@ relations:
 related: []
 keywords: ["Majlis Paralimpik Malaysia", "Paralympic Council Malaysia", "para sukan", "Sukan Paralimpik", "Bonnie Bunyau Gustin", "Cheah Liek Hou", "Abdul Latif Romly"]
 framework: explainer
+hero: '/media/sports/malaysia-paralympics-para-sports/hero.webp'
+heroAlt: 'Một vận động viên bơi khuyết tật rẽ nước mạnh mẽ bằng kiểu bơi ngửa dọc theo một làn trong hồ bơi thi đấu.'
+heroCredit: 'Staff Sgt. Michael Hunnisett, U.S. Army / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sgt_1st_Class_Elizabeth_Marks_Competes_at_2023_Para_Swimming_World_Championships_(7942899).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Khi Cheah Liek Hou bảo vệ huy chương vàng cầu lông SU5 của mình tại Paris 2024, thành công đó xác nhận rằng thể thao người khuyết tật của Malaysia nay có một dàn nhà vô địch vững chắc hơn, không còn là một thành tích thi thoảng nữa. Đằng sau khoảnh khắc đó là một cấu trúc quản trị riêng biệt, tách khỏi thế giới Olympic nổi tiếng hơn.

@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["pengaturan perlawanan", "match-fixing", "pertaruhan sukan", "Akta Rumah Judi Terbuka 1953", "Akta Pertaruhan 1953", "SPRM", "integriti sukan", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/match-fixing-sports-betting-regulation/hero.webp'
+heroAlt: 'Một sân bóng đá trống trải nằm trước những hàng ghế khán đài chính vắng vẻ dưới bầu trời u ám.'
+heroCredit: 'Affinity24 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Football_Pitch_Ahmadu_Bello_Stadium_Kaduna.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Khi hơn 100 cầu thủ bóng đá bị cảnh sát đưa đi vào mùa giải 1993–1994, đó không chỉ là một cuộc khủng hoảng thể thao — nó mở ra một câu hỏi pháp lý vẫn chưa được giải quyết hoàn toàn cho đến ngày nay: làm thế nào một quốc gia cấm gần như mọi hình thức cá cược thể thao xử lý tội phạm sinh ra từ chính hoạt động cá cược đó.

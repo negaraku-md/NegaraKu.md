@@ -94,6 +94,13 @@ relations:
 related: []
 keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
 framework: history-culture
+hero: '/media/sports/football-in-malaysia/hero.webp'
+heroAlt: 'สนามกีฬาแห่งชาติบูกิตจาลิลที่เปิดไฟสปอตไลต์และเต็มไปด้วยแฟนบอล มองลงมายังการแข่งขันฟุตบอลที่กำลังดำเนินอยู่'
+heroCredit: 'Phalinn Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ในปี 1921 สิงคโปร์เอาชนะสลังงอร์ 2-1 ในรอบชิงชนะเลิศของการแข่งขันฟุตบอลใหม่ในแหลมมลายู กว่าหนึ่งศตวรรษต่อมา การแข่งขันนั้น ปัจจุบันรู้จักในชื่อปิยาลามาเลเซีย ยังคงเป็นมงกุฎที่ทรงเกียรติที่สุดในกีฬาที่ได้รับความนิยมที่สุดของประเทศ

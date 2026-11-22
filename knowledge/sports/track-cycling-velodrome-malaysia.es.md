@@ -81,6 +81,13 @@ relations:
 related: []
 keywords: ["velodrom nasional", "Nilai", "ciclismo en pista", "keirin", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
 framework: profile
+hero: '/media/sports/track-cycling-velodrome-malaysia/hero.webp'
+heroAlt: 'La fachada angular roja, gris y blanca del Velódromo Nacional en Nilai se alza sobre un aparcamiento vacío.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Velodrome,_Nilai.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Un recinto largo y techado en las afueras de Nilai es ahora donde los ciclistas más rápidos de Malasia afinan sus esprints — y se construyó específicamente para producir más campeones mundiales de pista.

@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["tadbir urus sukan Malaysia", "Majlis Sukan Negara", "Pesuruhjaya Sukan", "Akta Pembangunan Sukan 1997", "Majlis Olimpik Malaysia", "Kementerian Belia dan Sukan", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/malaysian-sport-governance/hero.webp'
+heroAlt: 'ブキ・ジャリル国立競技場の銀色のルーバー状の外壁が、人けのない前庭の上にそびえている。'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ジョホールの新設サッカークラブは、ユニフォームを購入し、グラウンドを借り、選手を登録することができる——しかし、それでもなお、「マレーシア」を代表して誰かをいかなる大会にも合法的に送り出すことはできない。その理由は金でも才能でもない。誰が許可を与えるか、という問題である。マレーシアでは、スポーツ団体として存在する権利、資金を受ける権利、そして国名を名乗る権利は、しばしば一つと混同される四つの異なる機関から来ている。

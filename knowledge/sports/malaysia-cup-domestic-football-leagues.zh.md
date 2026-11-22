@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/malaysia-cup-domestic-football-leagues/hero.webp'
+heroAlt: '身穿黄色的霹雳州足球球迷在 2017 年马来西亚杯一场比赛中挤满体育场看台。'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perak_football_supporters,_2017_Malaysia_Cup_quarter-finals.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 近一个世纪以来，一个单一机构——马来西亚足球总会（FAM）——主办着全国每一场联赛。后来，在一项重塑这项运动的举措中，运营联赛的权力被移交给了一家商业公司。这正是今日马来西亚国内足球运作方式的基础。

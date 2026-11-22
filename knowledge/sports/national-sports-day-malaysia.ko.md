@@ -70,6 +70,13 @@ relations:
 related: []
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
 framework: explainer
+hero: '/media/sports/national-sports-day-malaysia/hero.webp'
+heroAlt: '쿠알라룸푸르의 야간 도로 경주에서 수많은 러너들이 조명이 밝혀진 술탄 압둘 사마드 빌딩 앞을 줄지어 지나가고 있다.'
+heroCredit: 'Klmarathon / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pacers_Running.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 10월 둘째 주 토요일마다, 말레이시아 전역의 경기장과 공원, 스포츠 홀은 사람들로 가득 차야 합니다 — 그것이 바로 국가스포츠의 날의 설계입니다.

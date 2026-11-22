@@ -94,6 +94,13 @@ relations:
 related: []
 keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
 framework: history-culture
+hero: '/media/sports/football-in-malaysia/hero.webp'
+heroAlt: '조명이 환하게 켜지고 팬들로 가득 찬 부킷잘릴 국립경기장이 진행 중인 축구 경기를 내려다보고 있다.'
+heroCredit: 'Phalinn Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1921년, 싱가포르가 말라야의 한 새로운 축구 대회 결승에서 슬랑오르를 2-1로 꺾었습니다. 그로부터 한 세기가 지난 지금도 그 대회는 — 이제 말레이시아 컵으로 알려진 — 나라에서 가장 사랑받는 스포츠의 가장 권위 있는 왕관으로 남아 있습니다.

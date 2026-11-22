@@ -101,6 +101,13 @@ relations:
 related: []
 keywords: ["sepak takraw", "sepak raga", "sukan kebangsaan malaysia", "peraturan sepak takraw", "piala raja sepak takraw", "persekutuan sepaktakraw malaysia"]
 framework: history-culture
+hero: '/media/sports/sepak-takraw/hero.webp'
+heroAlt: 'マレーシアの若い選手が、空中にある籐編みのセパタクローのボールに向かって高く足を上げている。'
+heroCredit: 'Mohd Fahmi Mohd Azmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepak_takraw.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 バレーボールを思い浮かべ、そこから各選手の両手を取り上げてほしい。残るもの——頭の高さのバックフリップ・アタック、胸を使ったトス、高く上げてかかとで蹴るサーブ——それがセパタクローである。世界でもっともアクロバティックなスポーツの一つであり、マレー世界のアイデンティティともっとも深く結びついた競技の一つだ。

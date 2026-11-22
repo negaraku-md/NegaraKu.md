@@ -86,6 +86,13 @@ relations:
 related: ["negaraku-anthem"]
 keywords: ["Malaysia Olympic medals", "SEA Games", "Commonwealth Games 1998", "Lee Chong Wei", "Malaysia gold medal", "medal tally"]
 framework: data-reference
+hero: '/media/sports/sea-games-commonwealth-olympic-record/hero.webp'
+heroAlt: '2008年オリンピックの開会式で、オレンジ色の伝統衣装をまとったマレーシア選手団が、国旗「ジャルル・グミラン」の後ろを行進している。'
+heroCredit: 'U.S. Army / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2008_Summer_Olympics_-_Opening_Ceremony_-_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 マレーシアはオリンピックの表彰台に15回上がった——そしてそのたびに、他国の国歌が流れるのを聞いてきた。

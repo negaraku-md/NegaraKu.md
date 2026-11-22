@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["pengaturan perlawanan", "match-fixing", "pertaruhan sukan", "Akta Rumah Judi Terbuka 1953", "Akta Pertaruhan 1953", "SPRM", "integriti sukan", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/match-fixing-sports-betting-regulation/hero.webp'
+heroAlt: '잔뜩 흐린 하늘 아래 텅 빈 축구장이 아무도 없는 관중석 앞에 펼쳐져 있다.'
+heroCredit: 'Affinity24 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Football_Pitch_Ahmadu_Bello_Stadium_Kaduna.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1993–1994 시즌에 100명이 넘는 축구 선수가 경찰에 연행되었을 때, 그것은 단순한 스포츠 위기가 아니었습니다 — 오늘날까지도 완전히 해결되지 않은 하나의 법적 물음을 열어젖혔습니다. 즉, 거의 모든 스포츠 베팅을 금지하는 나라가 바로 그 베팅에서 태어난 범죄를 어떻게 다루는가 하는 물음입니다.

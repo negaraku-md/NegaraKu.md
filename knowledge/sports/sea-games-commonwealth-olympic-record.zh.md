@@ -86,6 +86,13 @@ relations:
 related: ["negaraku-anthem"]
 keywords: ["Malaysia Olympic medals", "SEA Games", "Commonwealth Games 1998", "Lee Chong Wei", "Malaysia gold medal", "medal tally"]
 framework: data-reference
+hero: '/media/sports/sea-games-commonwealth-olympic-record/hero.webp'
+heroAlt: '身穿橙色传统服饰的马来西亚代表队在 2008 年奥运会开幕式上跟随“辉煌条纹”国旗列队入场。'
+heroCredit: 'U.S. Army / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2008_Summer_Olympics_-_Opening_Ceremony_-_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 马来西亚已15次登上奥运领奖台——而每一次响起的都是别国的国歌。

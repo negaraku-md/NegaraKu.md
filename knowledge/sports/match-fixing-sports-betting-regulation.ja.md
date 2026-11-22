@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["pengaturan perlawanan", "match-fixing", "pertaruhan sukan", "Akta Rumah Judi Terbuka 1953", "Akta Pertaruhan 1953", "SPRM", "integriti sukan", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/match-fixing-sports-betting-regulation/hero.webp'
+heroAlt: 'どんよりとした空の下、無人の観客席の前に空のサッカー場が広がっている。'
+heroCredit: 'Affinity24 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Football_Pitch_Ahmadu_Bello_Stadium_Kaduna.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1993〜1994年シーズンに100名を超えるサッカー選手が警察に連行されたとき、それは単なるスポーツの危機ではなかった——それは今日でもなお完全には解決されていない一つの法的問題を明るみに出した。ほぼすべてのスポーツ賭博を禁止する国が、その賭博そのものから生まれる犯罪にどう対処するのか、という問題である。

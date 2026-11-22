@@ -100,6 +100,13 @@ keywords:
   - "Lee Zii Jia"
   - "champion All England Malaisie"
 framework: history-culture
+hero: '/media/sports/badminton-in-malaysia/hero.webp'
+heroAlt: 'La star malaisienne du badminton Lee Chong Wei se fend pour jouer un coup droit lors d''un match olympique.'
+heroCredit: 'Antony Stanley / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lee_Chong_Wei,_Malaysia_(7758886922).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 En mai 1992, toute la nation s'est arrêtée un instant. Au Stadium Negara, à Kuala Lumpur, une équipe de jeunes hommes menée par les frères Sidek a battu l'Indonésie pour soulever la Coupe Thomas, et, comme l'a exprimé Datuk Rashid Sidek, « toute la Malaisie est devenue virale et tout le monde voulait jouer au badminton ». Trois décennies plus tard, le trophée n'est toujours pas revenu. L'histoire du badminton malaisien est une histoire de gloire précoce, d'une disette douloureuse et d'un champion ou deux portant sur leurs épaules les espoirs d'une nation.

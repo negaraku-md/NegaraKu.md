@@ -86,6 +86,13 @@ relations:
 related: ["negaraku-anthem"]
 keywords: ["Malaysia Olympic medals", "SEA Games", "Commonwealth Games 1998", "Lee Chong Wei", "Malaysia gold medal", "medal tally"]
 framework: data-reference
+hero: '/media/sports/sea-games-commonwealth-olympic-record/hero.webp'
+heroAlt: '2008년 올림픽 개회식에서 주황색 전통 의상을 입은 말레이시아 선수단이 국기 ‘잘루르 그밀랑’ 뒤를 따라 행진하고 있다.'
+heroCredit: 'U.S. Army / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2008_Summer_Olympics_-_Opening_Ceremony_-_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 말레이시아는 올림픽 시상대에 열다섯 번 올랐습니다 — 그리고 그때마다 매번 다른 나라의 국가가 울려 퍼지는 것을 들었습니다.

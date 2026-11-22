@@ -70,6 +70,13 @@ relations:
 related: []
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
 framework: explainer
+hero: '/media/sports/national-sports-day-malaysia/hero.webp'
+heroAlt: 'Một đám đông người chạy lướt qua Tòa nhà Sultan Abdul Samad rực sáng đèn pha trong một cuộc chạy đường phố ban đêm ở Kuala Lumpur.'
+heroCredit: 'Klmarathon / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pacers_Running.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Mỗi thứ Bảy của tuần thứ hai tháng 10, các sân bãi, công viên và nhà thi đấu thể thao khắp Malaysia lẽ ra phải chật kín người — đó chính là thiết kế của Ngày Thể thao Quốc gia.

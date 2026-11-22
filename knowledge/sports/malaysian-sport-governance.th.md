@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["tadbir urus sukan Malaysia", "Majlis Sukan Negara", "Pesuruhjaya Sukan", "Akta Pembangunan Sukan 1997", "Majlis Olimpik Malaysia", "Kementerian Belia dan Sukan", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/malaysian-sport-governance/hero.webp'
+heroAlt: 'ผนังด้านหน้าแบบบานเกล็ดสีเงินของสนามกีฬาแห่งชาติบูกิตจาลิลตั้งตระหง่านเหนือลานด้านหน้าที่ว่างเปล่า'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 สโมสรฟุตบอลใหม่แห่งหนึ่งในยะโฮร์สามารถซื้อเสื้อ เช่าสนาม และลงทะเบียนผู้เล่นได้ แต่ยังไม่สามารถส่งใครเป็นตัวแทน "มาเลเซีย" ไปแข่งขันใด ๆ ได้อย่างถูกกฎหมาย เหตุผลไม่ใช่เงินหรือความสามารถ เป็นเรื่องว่าใครเป็นผู้ให้อนุญาต ในมาเลเซีย สิทธิ์ที่จะมีอยู่ในฐานะองค์กรกีฬา สิทธิ์ที่จะได้รับทุน และสิทธิ์ที่จะใช้ชื่อประเทศ มาจากสถาบันสี่แห่งที่แตกต่างกันซึ่งมักถูกสับสนว่าเป็นหนึ่งเดียว

@@ -81,6 +81,13 @@ relations:
 related: []
 keywords: ["naturalisasi", "pemain warisan", "FAM", "FIFA", "CAS", "Harimau Malaya", "dokumen palsu", "Artikel 22", "Piala Asia 2027"]
 framework: explainer
+hero: '/media/sports/fam-heritage-players-controversy/hero.webp'
+heroAlt: 'Một đám đông áo vàng chật kín của các cổ động viên Harimau Malaya lấp đầy Sân vận động Quốc gia Bukit Jalil bên dưới bảng điểm hình hổ Malaysia.'
+heroCredit: 'Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ultras_Malaya_in_Bukit_Jalil_Stadium,_2014_AFF_Championship_Final.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Bảy cầu thủ sinh ở nước ngoài khoác lên chiếc áo Harimau Malaya vào tháng 6 năm 2025. Chưa đầy một năm sau, cơ quan trọng tài thể thao cao nhất thế giới xác nhận rằng các giấy tờ giúp họ đủ tư cách chơi cho Malaysia đã bị giả mạo. Vụ việc này đã khởi động một chuỗi các thủ tục kỷ luật của FIFA, một kháng cáo lên Tòa Trọng tài Thể thao (CAS), và một bản trình báo cảnh sát tại Malaysia.

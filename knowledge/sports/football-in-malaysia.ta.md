@@ -94,6 +94,13 @@ relations:
 related: []
 keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
 framework: history-culture
+hero: '/media/sports/football-in-malaysia/hero.webp'
+heroAlt: 'ஒளிவெள்ளத்தில் மூழ்கிய, ரசிகர்களால் நிரம்பிய புக்கிட் ஜாலில் தேசிய அரங்கம் (Bukit Jalil) நடந்து கொண்டிருக்கும் ஒரு கால்பந்து போட்டியை நோக்குகிறது.'
+heroCredit: 'Phalinn Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1921-இல், Malaya-வில் ஒரு புதிய கால்பந்துப் போட்டியின் இறுதியில் Singapore, Selangor-ஐ 2-1 என்று வென்றது. ஒரு நூற்றாண்டுக்கும் மேலாகிய பின்னரும், அந்தப் போட்டி — இப்போது Malaysia Cup என அறியப்படுவது — நாட்டின் மிகவும் நேசிக்கப்படும் விளையாட்டின் மிகவும் மதிப்புமிக்க மகுடமாக இன்னும் திகழ்கிறது.

@@ -102,6 +102,13 @@ relations:
 related: []
 keywords: ["سيباك تاكرو", "sepak takraw", "سيباك راغا", "sepak raga", "الرياضة الوطنية الماليزية", "قواعد السيباك تاكرو", "كأس الملك", "اتحاد السيباك تاكرو الماليزي", "persekutuan sepaktakraw malaysia"]
 framework: history-culture
+hero: '/media/sports/sepak-takraw/hero.webp'
+heroAlt: 'لاعب شاب في ماليزيا يرفع ركلة عالية نحو كرة السيباك تاكراو (sepak takraw) المصنوعة من الروطان المضفور في الهواء.'
+heroCredit: 'Mohd Fahmi Mohd Azmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepak_takraw.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 تخيّل الكرة الطائرة، ثم انزع يدَي كل لاعب. ما يتبقّى — الضربة الساحقة بقلبة خلفية بارتفاع الرأس، والتمريرة بالصدر، والإرسال الذي يُقذَف عاليًا في الهواء ويُضرَب بالعَقِب — هو السيباك تاكرو: إحدى أكثر الرياضات بهلوانيةً في العالم، وإحدى أوثقها ارتباطًا بهوية العالم الملايوي.

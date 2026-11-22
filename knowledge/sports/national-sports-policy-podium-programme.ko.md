@@ -93,6 +93,13 @@ keywords:
   - "pembiayaan atlet elit"
   - "Institut Sukan Negara Podium"
 framework: explainer
+hero: '/media/sports/national-sports-policy-podium-programme/hero.webp'
+heroAlt: '2017년 쿠알라룸푸르 SEA 게임에서 메달을 딴 체조 선수들이 시상대에 서 있고, 말레이시아 선수가 국기를 들고 있다.'
+heroCredit: 'U.S. Embassy Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Women%27s_Vault_Podium_at_the_2017_SEA_Games.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 말레이시아 선수가 올림픽 시상대에 오를 때마다, 그 뒤에서는 실은 서로 다른 두 개의 시스템이 작동하고 있습니다 — 하나는 온 국민을 움직이게 하려는 시스템이고, 다른 하나는 이길 수 있는 소수의 선수에게 막대한 자원을 집중하는 시스템입니다. 둘 다 동일한 하나의 정책 문서 아래 존재하지만, 매우 다른 방식으로 재정 지원되고 측정됩니다.

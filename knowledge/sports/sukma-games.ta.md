@@ -99,6 +99,13 @@ relations:
 related: []
 keywords: ["SUKMA", "Sukan Malaysia", "Majlis Sukan Negara", "Program Podium", "atlet remaja", "pembangunan sukan", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/sukma-games/hero.webp'
+heroAlt: 'மலேசியாவில் ஒரு SUKMA Games தொடக்க விழாவின் போது மாநிலக் குழுக்கள் தங்கள் கொடிகளையும் பெயர்ப் பலகைகளையும் ஏந்திச் செல்கின்றனர்.'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ஒவ்வொரு இரண்டு ஆண்டுகளுக்கும் ஒருமுறை, ஆயிரக்கணக்கான இளம் வீரர்கள் விருந்தோம்பி மாநிலத்தின் ஒரு அரங்கத்திற்குள் அணிவகுத்து நுழைகிறார்கள் — உலகப் பதக்கங்களுக்காக அல்ல, மாறாக தத்தம் மாநிலத்தின் பெருமைக்காக, மேலும் மிகத் திறமையானவர்களுக்கு தேசிய தலைசிறந்த அரங்கத்திற்கான ஒரு நுழைவுச் சீட்டுக்காக. அதுதான் SUKMA.

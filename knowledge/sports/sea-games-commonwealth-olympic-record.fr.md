@@ -86,6 +86,13 @@ relations:
 related: ["negaraku-anthem"]
 keywords: ["Malaysia Olympic medals", "SEA Games", "Commonwealth Games 1998", "Lee Chong Wei", "Malaysia gold medal", "medal tally"]
 framework: data-reference
+hero: '/media/sports/sea-games-commonwealth-olympic-record/hero.webp'
+heroAlt: 'L''équipe de Malaisie en tenue traditionnelle orange défile derrière le drapeau Jalur Gemilang lors de la cérémonie d''ouverture des Jeux olympiques de 2008.'
+heroCredit: 'U.S. Army / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2008_Summer_Olympics_-_Opening_Ceremony_-_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 La Malaisie est montée sur un podium olympique quinze fois — et a entendu retentir l'hymne national d'une autre nation à chacune de ces fois.

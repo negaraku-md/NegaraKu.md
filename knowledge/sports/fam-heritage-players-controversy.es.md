@@ -81,6 +81,13 @@ relations:
 related: []
 keywords: ["naturalisasi", "pemain warisan", "FAM", "FIFA", "CAS", "Harimau Malaya", "dokumen palsu", "Artikel 22", "Piala Asia 2027"]
 framework: explainer
+hero: '/media/sports/fam-heritage-players-controversy/hero.webp'
+heroAlt: 'Una compacta multitud amarilla de aficionados de Harimau Malaya llena el Estadio Nacional Bukit Jalil bajo el marcador del tigre malasio.'
+heroCredit: 'Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ultras_Malaya_in_Bukit_Jalil_Stadium,_2014_AFF_Championship_Final.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Siete jugadores nacidos en el extranjero vistieron la camiseta de los Harimau Malaya en junio de 2025. Menos de un año después, el máximo órgano de arbitraje deportivo del mundo confirmó que los documentos que los habilitaban para jugar con Malasia habían sido falsificados. El caso desencadenó una serie de procedimientos disciplinarios de la FIFA, una apelación ante el Tribunal de Arbitraje Deportivo (TAS) y una denuncia policial en Malasia.

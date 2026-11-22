@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["الدوري الممتاز", "كأس ماليزيا", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "كرة القدم الماليزية"]
 framework: explainer
+hero: '/media/sports/malaysia-cup-domestic-football-leagues/hero.webp'
+heroAlt: 'مشجعو فريق بيراك لكرة القدم المرتدون الأصفر يملؤون مدرجات الملعب خلال مباراة في كأس ماليزيا 2017.'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perak_football_supporters,_2017_Malaysia_Cup_quarter-finals.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 على مدى قرن تقريبًا، كانت هيئة واحدة — الاتحاد الكروي الماليزي (FAM) — تنظّم كل مباراة في الدوري الوطني. ثم، في خطوة أعادت تشكيل اللعبة، سُلِّمت سلطةُ إدارة الدوريات إلى شركة تجارية. هذا هو الأساس الذي تقوم عليه كرة القدم المحلية الماليزية اليوم.

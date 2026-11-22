@@ -81,6 +81,13 @@ relations:
 related: []
 keywords: ["velodrom nasional", "Nilai", "lumba basikal trek", "keirin", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
 framework: profile
+hero: '/media/sports/track-cycling-velodrome-malaysia/hero.webp'
+heroAlt: 'Fasad bersudut merah, abu-abu dan putih Velodrom Nasional di Nilai berdiri di atas sebuah tempat parkir yang kosong.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Velodrome,_Nilai.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sebuah gelanggang beratap panjang di pinggir Nilai kini menjadi tempat pembalap tercepat Malaysia mengasah larinya — dan ia dibangun khusus untuk melahirkan lebih banyak juara trek dunia.

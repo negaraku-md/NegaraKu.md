@@ -94,6 +94,13 @@ relations:
 related: []
 keywords: ["Majlis Paralimpik Malaysia", "Paralympic Council Malaysia", "para sukan", "Sukan Paralimpik", "Bonnie Bunyau Gustin", "Cheah Liek Hou", "Abdul Latif Romly"]
 framework: explainer
+hero: '/media/sports/malaysia-paralympics-para-sports/hero.webp'
+heroAlt: 'パラ水泳の選手が競技用プールのレーンで背泳ぎのストロークを力強くこなしている。'
+heroCredit: 'Staff Sgt. Michael Hunnisett, U.S. Army / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sgt_1st_Class_Elizabeth_Marks_Competes_at_2023_Para_Swimming_World_Championships_(7942899).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 チア・リクホウが2024年パリ大会でバドミントンSU5の金メダルを防衛したとき、その勝利は、マレーシアのパラスポーツがいまや、ときおりの一過性の成果ではなく、より確固たる王者の布陣を擁するに至ったことを裏づけた。その瞬間の背後には、より広く知られたオリンピックの世界とは切り離された、独自の統治構造が存在している。

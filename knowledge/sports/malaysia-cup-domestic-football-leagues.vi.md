@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/malaysia-cup-domestic-football-leagues/hero.webp'
+heroAlt: 'Các cổ động viên bóng đá Perak mặc áo vàng chật kín khán đài sân vận động trong một trận đấu Cúp Malaysia 2017.'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perak_football_supporters,_2017_Malaysia_Cup_quarter-finals.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Trong gần một thế kỷ, một cơ quan duy nhất — Hiệp hội Bóng đá Malaysia (FAM) — tổ chức mọi trận đấu giải quốc gia. Rồi, trong một bước đi làm thay đổi hình hài của môn thể thao đó, quyền điều hành giải đấu được trao cho một công ty thương mại. Đây là nền tảng cho cách bóng đá trong nước của Malaysia vận hành ngày nay.

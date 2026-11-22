@@ -81,6 +81,13 @@ relations:
 related: []
 keywords: ["velodrom nasional", "Nilai", "lumba basikal trek", "keirin", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
 framework: profile
+hero: '/media/sports/track-cycling-velodrome-malaysia/hero.webp'
+heroAlt: 'நிலாயில் (Nilai) உள்ள தேசிய வெலோட்ரோமின் (National Velodrome) கோணமான சிவப்பு, சாம்பல் மற்றும் வெள்ளை முகப்பு ஒரு காலியான கார் நிறுத்துமிடத்திற்கு மேலே நிற்கிறது.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Velodrome,_Nilai.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 நிலாயின் ஓரத்தில் அமைந்துள்ள ஒரு நீளமான கூரை போர்த்திய களம் இன்று மலேசியாவின் வேகமான சைக்கிள் வீரர்கள் தங்கள் ஓட்டத்தைக் கூர்மைப்படுத்தும் இடமாக மாறியுள்ளது — மேலும் இது மேலும் பல உலக டிராக் சாம்பியன்களை உருவாக்கும் நோக்கத்தோடு பிரத்யேகமாகக் கட்டப்பட்டது.

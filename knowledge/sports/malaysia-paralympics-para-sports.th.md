@@ -94,6 +94,13 @@ relations:
 related: []
 keywords: ["Majlis Paralimpik Malaysia", "Paralympic Council Malaysia", "para sukan", "Sukan Paralimpik", "Bonnie Bunyau Gustin", "Cheah Liek Hou", "Abdul Latif Romly"]
 framework: explainer
+hero: '/media/sports/malaysia-paralympics-para-sports/hero.webp'
+heroAlt: 'นักว่ายน้ำพาราพุ่งตัวด้วยท่ากรรเชียงไปตามลู่สระว่ายน้ำที่ใช้แข่งขัน'
+heroCredit: 'Staff Sgt. Michael Hunnisett, U.S. Army / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sgt_1st_Class_Elizabeth_Marks_Competes_at_2023_Para_Swimming_World_Championships_(7942899).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 เมื่อ Cheah Liek Hou ป้องกันเหรียญทองแบดมินตัน SU5 ของเขาที่ปารีส 2024 ความสำเร็จนั้นยืนยันว่าพาราสปอร์ตของมาเลเซียปัจจุบันมีแนวนักกีฬาแชมป์ที่มั่นคงกว่า ไม่ใช่ความสำเร็จเป็นครั้งคราวอีกต่อไป เบื้องหลังช่วงเวลานั้นมีโครงสร้างการกำกับดูแลเฉพาะที่แยกจากโลกโอลิมปิกที่มีชื่อเสียงกว่า

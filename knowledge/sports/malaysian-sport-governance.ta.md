@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["tadbir urus sukan Malaysia", "Majlis Sukan Negara", "Pesuruhjaya Sukan", "Akta Pembangunan Sukan 1997", "Majlis Olimpik Malaysia", "Kementerian Belia dan Sukan", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/malaysian-sport-governance/hero.webp'
+heroAlt: 'புக்கிட் ஜாலில் தேசிய அரங்கத்தின் (Bukit Jalil) வெள்ளி நிற சலாகை முகப்பு ஒரு காலியான முற்றத்திற்கு மேலே உயர்கிறது.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ஜொகூரில் புதிதாக உருவாகும் ஒரு கால்பந்து கழகம் ஜெர்சிகளை வாங்கலாம், மைதானத்தை வாடகைக்கு எடுக்கலாம், வீரர்களைப் பதிவு செய்யலாம் — ஆனாலும் "மலேசியா"வைப் பிரதிநிதித்துவப்படுத்த யாரையும் எந்தப் போட்டிக்கும் அது இன்னும் சட்டப்பூர்வமாக அனுப்ப முடியாது. காரணம் பணமோ திறமையோ அல்ல. அது யார் அனுமதி அளிக்கிறார்கள் என்ற கேள்வி. மலேசியாவில், ஒரு விளையாட்டு அமைப்பாக இருப்பதற்கான உரிமை, நிதியுதவி பெறுவதற்கான உரிமை, மற்றும் நாட்டின் பெயரைச் சுமப்பதற்கான உரிமை ஆகியவை, பெரும்பாலும் ஒன்றாகக் குழப்பப்படும் நான்கு வெவ்வேறு நிறுவனங்களிடமிருந்து வருகின்றன.

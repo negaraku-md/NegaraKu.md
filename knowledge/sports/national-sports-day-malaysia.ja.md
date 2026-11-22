@@ -70,6 +70,13 @@ relations:
 related: []
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
 framework: explainer
+hero: '/media/sports/national-sports-day-malaysia/hero.webp'
+heroAlt: 'クアラルンプールの夜のロードレースで、ランナーの群れがライトアップされたスルタン・アブドゥル・サマド・ビルの前を流れるように走り過ぎていく。'
+heroCredit: 'Klmarathon / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pacers_Running.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 毎年10月の第2土曜日には、マレーシア全国の競技場、公園、体育館が人でにぎわうはず——それが国家スポーツの日の狙いである。

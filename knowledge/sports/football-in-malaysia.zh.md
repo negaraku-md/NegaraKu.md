@@ -94,6 +94,13 @@ relations:
 related: []
 keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
 framework: history-culture
+hero: '/media/sports/football-in-malaysia/hero.webp'
+heroAlt: '灯光通明的武吉加里尔国家体育场座无虚席，俯瞰着正在进行的一场足球比赛。'
+heroCredit: 'Phalinn Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1921年，新加坡在马来亚一项全新足球赛事的决赛中以2比1击败雪兰莪。一个多世纪之后，这项赛事——如今称为马来西亚杯——依然是这个国家最受喜爱运动中最负盛名的桂冠。

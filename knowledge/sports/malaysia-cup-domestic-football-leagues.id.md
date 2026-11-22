@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/malaysia-cup-domestic-football-leagues/hero.webp'
+heroAlt: 'Suporter sepak bola Perak berpakaian kuning memadati tribun stadion selama pertandingan Piala Malaysia 2017.'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perak_football_supporters,_2017_Malaysia_Cup_quarter-finals.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Selama hampir satu abad, badan tunggal — Persatuan Sepak Bola Malaysia (FAM) — menyelenggarakan setiap pertandingan liga negara. Kemudian, dalam satu langkah yang mengubah bentuk olahraga tersebut, kewenangan untuk menjalankan liga diserahkan kepada sebuah perusahaan komersial. Inilah dasar dari cara sepak bola domestik Malaysia bekerja hari ini.

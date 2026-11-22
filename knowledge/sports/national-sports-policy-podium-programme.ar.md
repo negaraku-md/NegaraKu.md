@@ -97,6 +97,13 @@ keywords:
   - "تمويل الرياضيين النخبة"
   - "Institut Sukan Negara Podium"
 framework: explainer
+hero: '/media/sports/national-sports-policy-podium-programme/hero.webp'
+heroAlt: 'لاعبات جمباز فائزات بميداليات يقفن على منصة التتويج في دورة ألعاب جنوب شرق آسيا 2017 بكوالالمبور بينما تحمل رياضية ماليزية العلم الوطني.'
+heroCredit: 'U.S. Embassy Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Women%27s_Vault_Podium_at_the_2017_SEA_Games.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 في كل مرة يصعد فيها رياضي ماليزي إلى المنصة الأولمبية، يعمل خلفه في الواقع نظامان مختلفان — أحدهما يحاول تحريك عموم السكان، والآخر يركّز موارد ضخمة على الحفنة الصغيرة القادرة على الفوز. وكلاهما يعيش تحت وثيقة السياسة نفسها، لكنهما يُموَّلان ويُقاسان بطرق مختلفة جداً.

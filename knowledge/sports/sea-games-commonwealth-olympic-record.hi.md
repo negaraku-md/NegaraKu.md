@@ -86,6 +86,13 @@ relations:
 related: ["negaraku-anthem"]
 keywords: ["मलेशिया ओलंपिक पदक", "Malaysia Olympic medals", "SEA Games", "राष्ट्रमंडल खेल 1998", "Commonwealth Games 1998", "ली चोंग वेई", "Lee Chong Wei", "मलेशिया स्वर्ण पदक", "पदक तालिका"]
 framework: data-reference
+hero: '/media/sports/sea-games-commonwealth-olympic-record/hero.webp'
+heroAlt: '2008 ओलंपिक उद्घाटन समारोह में नारंगी पारंपरिक पोशाक में मलेशिया की टीम जालुर गेमिलांग ध्वज के पीछे परेड करती है।'
+heroCredit: 'U.S. Army / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2008_Summer_Olympics_-_Opening_Ceremony_-_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 मलेशिया पंद्रह बार ओलंपिक पोडियम पर चढ़ा है — और हर एक बार उसने किसी और का राष्ट्रगान बजते सुना है।

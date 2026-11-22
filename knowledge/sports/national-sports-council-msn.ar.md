@@ -68,6 +68,13 @@ relations: []
 related: []
 keywords: ["Majlis Sukan Negara", "MSN", "مجلس الرياضة الوطني", "National Sports Council of Malaysia", "NSC Malaysia", "MSN Bukit Jalil", "قانون مجلس الرياضة الوطني 1971", "المعهد الوطني للرياضة", "Institut Sukan Negara", "ISN", "المجمّع الرياضي الوطني بوكيت جليل", "Majlis Sukan Negeri", "وزارة الشباب والرياضة", "Kementerian Belia dan Sukan", "تطوير الرياضة الماليزية"]
 framework: profile
+hero: '/media/sports/national-sports-council-msn/hero.webp'
+heroAlt: 'مبنى المقر الرئيسي الملون لمجلس سوكان نيغارا ماليزيا يقف في بوكيت جليل واسمه مكتوب على الجدار.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia,_Bukit_Jalil_(220713).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 عندما يصطفّ عدّاء ماليزي في الأولمبياد أو يُكتشف لاعب كرة قدم شاب ليُضمّ إلى منتخب وطني، تقف وراء التدريب والإعداد والمرافق التي أوصلته إلى هناك هيئة حكومية واحدة: **مجلس الرياضة الوطني الماليزي**، المعروف بالماليزية باسم **Majlis Sukan Negara (MSN)**. إنه الوكالة القانونية التي تحوّل السياسة الرياضية الوطنية إلى رياضيين فعليين.

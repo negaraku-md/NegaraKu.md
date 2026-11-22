@@ -102,6 +102,13 @@ relations:
 related: []
 keywords: ["sepak takraw", "sepak raga", "sukan kebangsaan malaysia", "peraturan sepak takraw", "piala raja sepak takraw", "persekutuan sepaktakraw malaysia"]
 framework: history-culture
+hero: '/media/sports/sepak-takraw/hero.webp'
+heroAlt: 'ผู้เล่นรุ่นเยาว์ในมาเลเซียยกขาเตะสูงไปยังลูกตะกร้อหวายสานที่ลอยอยู่กลางอากาศ'
+heroCredit: 'Mohd Fahmi Mohd Azmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepak_takraw.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ลองนึกภาพวอลเลย์บอล แล้วตัดมือของผู้เล่นทุกคนออก สิ่งที่เหลืออยู่ คือการตบด้วยส้นเท้าสูงระดับศีรษะ การชงด้วยอก การเสิร์ฟที่ปล่อยขึ้นสูงในอากาศแล้วเตะด้วยส้น นั่นคือเซปักตะกร้อ หนึ่งในกีฬาที่ผาดโผนที่สุดในโลก และเป็นหนึ่งในกีฬาที่ผูกพันแนบแน่นที่สุดกับอัตลักษณ์ของโลกมลายู

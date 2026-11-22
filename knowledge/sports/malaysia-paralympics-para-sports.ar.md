@@ -95,6 +95,13 @@ relations:
 related: []
 keywords: ["Majlis Paralimpik Malaysia", "Paralympic Council Malaysia", "الرياضة البارالمبية", "الألعاب البارالمبية", "Bonnie Bunyau Gustin", "Cheah Liek Hou", "Abdul Latif Romly"]
 framework: explainer
+hero: '/media/sports/malaysia-paralympics-para-sports/hero.webp'
+heroAlt: 'سبّاح من ذوي الإعاقة يندفع بقوة بسباحة الظهر عبر مسار في حوض المنافسة.'
+heroCredit: 'Staff Sgt. Michael Hunnisett, U.S. Army / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sgt_1st_Class_Elizabeth_Marks_Competes_at_2023_Para_Swimming_World_Championships_(7942899).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 حين دافع تشيا ليك هو عن ذهبيته في تنس الريشة فئة SU5 في باريس 2024، أكّد ذلك الانتصار أن الرياضة البارالمبية الماليزية صار لها الآن صفّ أمتن من الأبطال، لا مجرد إنجاز عابر. وخلف تلك اللحظة بنية حوكمة متمايزة، منفصلة عن العالم الأولمبي الأشهر.

@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["tadbir urus sukan Malaysia", "Majlis Sukan Negara", "Pesuruhjaya Sukan", "Akta Pembangunan Sukan 1997", "Majlis Olimpik Malaysia", "Kementerian Belia dan Sukan", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/malaysian-sport-governance/hero.webp'
+heroAlt: 'The silver louvred facade of Bukit Jalil National Stadium rises above an empty forecourt.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 A new football club in Johor can buy jerseys, rent a pitch and register players — yet it still cannot lawfully send anyone to represent "Malaysia" at any competition. The reason is not money or talent. It is a question of who grants permission. In Malaysia, the right to exist as a sports body, the right to be funded, and the right to bear the nation's name come from four different institutions that are often mistaken for one.

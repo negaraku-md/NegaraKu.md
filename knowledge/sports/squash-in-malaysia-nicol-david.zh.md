@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["squash", "Nicol David", "SRAM", "Malaysian squash", "Ng Eain Yow", "Sivasangari Subramaniam", "World Open"]
 framework: profile
+hero: '/media/sports/squash-in-malaysia-nicol-david/hero.webp'
+heroAlt: '马来西亚壁球冠军妮科尔·戴维（Nicol David）在一场锦标赛中伸展身体击出一记正手球。'
+heroCredit: 'stevecubbins / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nicol_David_Hong_Kong_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 连续九年，全球最出色的壁球选手都来自槟城。妮科尔·大卫不仅在马来西亚最成功的个人项目中屡屡夺冠——她更重新定义了何谓在这项运动中的统治力，连续 **108个月** 位居世界第一，直至2015年9月，创下这项运动有史以来最长的不间断纪录。

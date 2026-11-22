@@ -94,6 +94,13 @@ relations:
 related: []
 keywords: ["Majlis Paralimpik Malaysia", "Paralympic Council Malaysia", "para sukan", "Sukan Paralimpik", "Bonnie Bunyau Gustin", "Cheah Liek Hou", "Abdul Latif Romly"]
 framework: explainer
+hero: '/media/sports/malaysia-paralympics-para-sports/hero.webp'
+heroAlt: '장애인 수영 선수가 경기용 수영장 레인에서 배영 동작을 힘차게 이어가고 있다.'
+heroCredit: 'Staff Sgt. Michael Hunnisett, U.S. Army / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sgt_1st_Class_Elizabeth_Marks_Competes_at_2023_Para_Swimming_World_Championships_(7942899).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Cheah Liek Hou가 2024년 파리 대회에서 배드민턴 SU5 금메달을 방어했을 때, 그 성취는 말레이시아 장애인 스포츠가 이제 더 이상 이따금씩 나오는 성과가 아니라 한층 탄탄한 챔피언 진용을 갖추었음을 확인해 주었습니다. 그 순간 이면에는, 더 널리 알려진 올림픽 세계와 분리된 독자적인 거버넌스 구조가 있습니다.

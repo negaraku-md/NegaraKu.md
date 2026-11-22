@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/malaysia-cup-domestic-football-leagues/hero.webp'
+heroAlt: 'แฟนบอลรัฐเปรักที่สวมชุดสีเหลืองแน่นขนัดเต็มอัฒจันทร์ระหว่างการแข่งขันมาเลเซียคัพปี 2017'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perak_football_supporters,_2017_Malaysia_Cup_quarter-finals.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 เกือบหนึ่งศตวรรษที่องค์กรเดียว คือสมาคมฟุตบอลมาเลเซีย (Persatuan Bola Sepak Malaysia, FAM) จัดทุกการแข่งขันลีกของประเทศ จากนั้นในก้าวที่เปลี่ยนรูปแบบของกีฬานี้ อำนาจในการดำเนินลีกถูกส่งมอบให้บริษัทเชิงพาณิชย์ นี่คือรากฐานของวิธีที่ฟุตบอลในประเทศของมาเลเซียทำงานในปัจจุบัน

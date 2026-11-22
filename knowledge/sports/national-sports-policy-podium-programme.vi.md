@@ -93,6 +93,13 @@ keywords:
   - "pembiayaan atlet elit"
   - "Institut Sukan Negara Podium"
 framework: explainer
+hero: '/media/sports/national-sports-policy-podium-programme/hero.webp'
+heroAlt: 'Các vận động viên thể dục dụng cụ đoạt huy chương đứng trên bục trao giải tại SEA Games 2017 Kuala Lumpur khi một vận động viên Malaysia cầm quốc kỳ.'
+heroCredit: 'U.S. Embassy Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Women%27s_Vault_Podium_at_the_2017_SEA_Games.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Mỗi khi một vận động viên Malaysia bước lên bục vinh quang Olympic, thực ra có hai hệ thống khác nhau đang làm việc phía sau người đó — một hệ thống cố gắng mời gọi cả dân tộc vận động, và một hệ thống khác dồn những nguồn lực lớn cho một số ít có khả năng chiến thắng. Cả hai đều tồn tại dưới cùng một văn kiện chính sách, nhưng được tài trợ và đo lường theo những cách rất khác nhau.

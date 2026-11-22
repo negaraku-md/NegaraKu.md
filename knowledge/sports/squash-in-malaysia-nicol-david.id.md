@@ -91,6 +91,13 @@ relations:
 related: []
 keywords: ["squash", "Nicol David", "SRAM", "Malaysian squash", "Ng Eain Yow", "Sivasangari Subramaniam", "World Open"]
 framework: profile
+hero: '/media/sports/squash-in-malaysia-nicol-david/hero.webp'
+heroAlt: 'Juara squash Malaysia Nicol David merentang untuk memainkan pukulan forehand dalam sebuah pertandingan turnamen.'
+heroCredit: 'stevecubbins / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nicol_David_Hong_Kong_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Selama sembilan tahun berturut-turut, pemain squash terbaik di dunia berasal dari Pulau Pinang. Nicol David bukan sekadar menang dalam olahraga individu paling sukses di Malaysia — ia menulis ulang wajah dominasi dalam olahraga tersebut, memegang posisi nomor satu dunia selama **108 bulan berturut-turut** hingga September 2015, dominasi tanpa putus terpanjang yang pernah disaksikan dalam olahraga ini.

@@ -70,6 +70,13 @@ relations:
 related: []
 keywords: ["اليوم الوطني للرياضة", "hari sukan negara", "HSN", "الشهر الوطني للرياضة", "bulan sukan negara", "وزارة الشباب والرياضة", "kementerian belia dan sukan", "أمة رياضية", "negara bersukan", "نمط حياة نشط"]
 framework: explainer
+hero: '/media/sports/national-sports-day-malaysia/hero.webp'
+heroAlt: 'حشد من العدّائين يتدفق مارًّا بمبنى سلطان عبد الصمد المضاء بالأضواء الكاشفة خلال سباق طريق ليلي في كوالالمبور.'
+heroCredit: 'Klmarathon / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pacers_Running.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 في كل سبت من الأسبوع الثاني من أكتوبر، يُفترَض أن تمتلئ الملاعب والحدائق والصالات في جميع أنحاء ماليزيا — تلك هي الغاية من اليوم الوطني للرياضة.

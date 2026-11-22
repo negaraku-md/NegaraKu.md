@@ -93,6 +93,13 @@ keywords:
   - "pembiayaan atlet elit"
   - "Institut Sukan Negara Podium"
 framework: explainer
+hero: '/media/sports/national-sports-policy-podium-programme/hero.webp'
+heroAlt: '2017年クアラルンプールSEAゲームズで、メダルを獲得した体操選手が表彰台に立ち、マレーシアの選手が国旗を掲げている。'
+heroCredit: 'U.S. Embassy Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Women%27s_Vault_Podium_at_the_2017_SEA_Games.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシアの選手がオリンピックの表彰台に立つたびに、その背後では実は二つの異なる仕組みが働いている——一つは国民全体を動かそうとするもの、もう一つは勝てる可能性のあるごく一握りに大きな資源を集中させるものである。両者は同じ一つの政策文書の下に生きているが、資金供給と評価のされ方はまったく異なる。

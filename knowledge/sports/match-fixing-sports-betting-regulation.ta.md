@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["pengaturan perlawanan", "match-fixing", "pertaruhan sukan", "Akta Rumah Judi Terbuka 1953", "Akta Pertaruhan 1953", "SPRM", "integriti sukan", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/match-fixing-sports-betting-regulation/hero.webp'
+heroAlt: 'மேகமூட்டமான வானத்தின் கீழ் வெறிச்சோடிய பிரதான மேடை இருக்கைகளுக்கு முன் ஒரு காலியான கால்பந்து மைதானம் உள்ளது.'
+heroCredit: 'Affinity24 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Football_Pitch_Ahmadu_Bello_Stadium_Kaduna.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1993–1994 பருவத்தில் 100-க்கும் மேற்பட்ட கால்பந்து வீரர்கள் காவல்துறையினரால் அழைத்துச் செல்லப்பட்டபோது, அது வெறும் விளையாட்டு நெருக்கடி மட்டுமல்ல — இன்றுவரை முழுமையாகத் தீர்க்கப்படாத ஒரு சட்ட வினாவை அது திறந்து விட்டது: கிட்டத்தட்ட அனைத்து விளையாட்டு பந்தயங்களையும் தடைசெய்யும் ஒரு நாடு, அந்த பந்தயத்திலிருந்தே பிறக்கும் குற்றத்தை எவ்வாறு கையாள்கிறது?

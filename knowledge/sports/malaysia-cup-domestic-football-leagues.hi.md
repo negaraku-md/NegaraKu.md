@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/malaysia-cup-domestic-football-leagues/hero.webp'
+heroAlt: '2017 मलेशिया कप मैच के दौरान पीले वस्त्र पहने पेराक फुटबॉल समर्थक स्टेडियम की दीर्घाओं को भर देते हैं।'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perak_football_supporters,_2017_Malaysia_Cup_quarter-finals.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 लगभग एक सदी तक, एक ही निकाय — मलेशिया फुटबॉल एसोसिएशन (FAM) — प्रत्येक राष्ट्रीय लीग मैच का आयोजन करता था। फिर, खेल को नया रूप देने वाले एक कदम में, लीगों को चलाने की शक्ति एक वाणिज्यिक कंपनी को सौंप दी गई। यही वह नींव है जिस पर मलेशियाई घरेलू फुटबॉल आज काम करता है।

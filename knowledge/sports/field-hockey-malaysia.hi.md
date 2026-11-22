@@ -87,6 +87,13 @@ keywords:
   - "मलेशिया विश्व हॉकी रैंकिंग FIH"
   - "हॉकी विश्व कप 1975 कुआलालंपुर"
 framework: history-culture
+hero: '/media/sports/field-hockey-malaysia/hero.webp'
+heroAlt: 'हॉकी विश्व कप में एक मलेशिया मैच के दौरान फील्ड हॉकी खिलाड़ी गेंद का पीछा करते हैं।'
+heroCredit: 'Hans Peters for Anefo / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen,_Nederland_tegen_Maleisi_4-0,_Ties_Kruize_(rech,_Bestanddeelnr_926-6422.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 15 March 1975 को, कुआलालंपुर के एक स्टेडियम ने भारत को अपने इतिहास में एकमात्र बार पुरुष हॉकी विश्व कप उठाते देखा — और मेज़बान भारत नहीं, बल्कि मलेशिया था। आधी सदी बाद, वही देश अब भी हर साल दुनिया की हॉकी शक्तियों को इपोह आमंत्रित करता है। फील्ड हॉकी आज मलेशिया का सबसे लोकप्रिय खेल भले न हो, पर यह राष्ट्र की अंतरराष्ट्रीय रूप से सबसे सम्मानित खेल विरासत हो सकती है।

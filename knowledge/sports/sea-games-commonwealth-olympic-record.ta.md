@@ -86,6 +86,13 @@ relations:
 related: ["negaraku-anthem"]
 keywords: ["Malaysia Olympic medals", "SEA Games", "Commonwealth Games 1998", "Lee Chong Wei", "Malaysia gold medal", "medal tally"]
 framework: data-reference
+hero: '/media/sports/sea-games-commonwealth-olympic-record/hero.webp'
+heroAlt: '2008 ஒலிம்பிக் தொடக்க விழாவில் ஆரஞ்சு நிற பாரம்பரிய உடை அணிந்த மலேசிய அணி ஜாலூர் ஜெமிலாங் (Jalur Gemilang) கொடிக்குப் பின்னால் அணிவகுத்துச் செல்கிறது.'
+heroCredit: 'U.S. Army / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2008_Summer_Olympics_-_Opening_Ceremony_-_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 மலேசியா ஒலிம்பிக் பரிசு மேடையில் பதினைந்து முறை ஏறியுள்ளது — ஆனால் ஒவ்வொரு முறையும் வேறு நாட்டின் தேசியக் கீதம் ஒலிப்பதைத்தான் கேட்டுள்ளது.

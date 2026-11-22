@@ -70,6 +70,13 @@ relations:
 related: []
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
 framework: explainer
+hero: '/media/sports/national-sports-day-malaysia/hero.webp'
+heroAlt: 'Una multitud de corredores pasa junto al iluminado Edificio Sultan Abdul Samad durante una carrera nocturna de calle en Kuala Lumpur.'
+heroCredit: 'Klmarathon / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pacers_Running.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Cada sábado de la segunda semana de octubre, los campos deportivos, parques y pabellones de toda Malasia deberían estar abarrotados: esa es la intención que hay detrás del Día Nacional del Deporte.

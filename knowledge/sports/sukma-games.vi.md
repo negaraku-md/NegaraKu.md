@@ -99,6 +99,13 @@ relations:
 related: []
 keywords: ["SUKMA", "Sukan Malaysia", "Majlis Sukan Negara", "Program Podium", "atlet remaja", "pembangunan sukan", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/sukma-games/hero.webp'
+heroAlt: 'Các đoàn bang mang cờ và biển tên của mình trong lễ khai mạc Đại hội Thể thao SUKMA ở Malaysia.'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Cứ mỗi hai năm, hàng nghìn vận động viên tuổi thiếu niên diễu hành vào một sân vận động của bang chủ nhà — không phải vì huy chương thế giới, mà vì danh dự của bang mình và, đối với những người tài năng nhất, một tấm vé đến sân khấu tinh nhuệ của quốc gia. Đó chính là SUKMA.

@@ -100,6 +100,13 @@ keywords:
   - "Lee Zii Jia"
   - "juara All England Malaysia"
 framework: history-culture
+hero: '/media/sports/badminton-in-malaysia/hero.webp'
+heroAlt: 'Ngôi sao cầu lông Malaysia Lee Chong Wei lao người để đánh cú thuận tay trong một trận đấu Olympic.'
+heroCredit: 'Antony Stanley / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lee_Chong_Wei,_Malaysia_(7758886922).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Vào tháng 5 năm 1992, cả nước dừng lại trong chốc lát. Tại Stadium Negara, Kuala Lumpur, một đội hình các chàng trai trẻ do anh em nhà Sidek dẫn dắt đã đánh bại Indonesia để nâng Thomas Cup — và như lời Datuk Rashid Sidek, "cả Malaysia trở nên lan truyền và mọi người đều muốn chơi cầu lông". Ba thập kỷ sau, chiếc cúp đó vẫn chưa trở lại. Câu chuyện cầu lông Malaysia là câu chuyện về sự rực rỡ ban đầu, một cơn khát đau đớn, và một vài nhà vô địch mang niềm hy vọng của cả một quốc gia trên vai họ.

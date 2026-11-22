@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["التلاعب بنتائج المباريات", "match-fixing", "المراهنات الرياضية", "pertaruhan sukan", "قانون دور المقامرة العامة 1953", "Common Gaming Houses Act 1953", "قانون المراهنات 1953", "Betting Act 1953", "SPRM", "MACC", "نزاهة الرياضة", "كرة القدم الماليزية", "FAM"]
 framework: explainer
+hero: '/media/sports/match-fixing-sports-betting-regulation/hero.webp'
+heroAlt: 'ملعب كرة قدم خالٍ يمتد أمام مدرجات رئيسية مهجورة تحت سماء غائمة.'
+heroCredit: 'Affinity24 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Football_Pitch_Ahmadu_Bello_Stadium_Kaduna.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 عندما جمعت الشرطة أكثر من 100 لاعب كرة قدم خلال موسم 1993–1994، لم تكن تلك مجرد أزمة رياضية — بل فتحت سؤالاً قانونياً لا يزال غير محسوم تماماً حتى اليوم: كيف تتعامل دولة تحظر معظم المراهنات الرياضية مع جريمة وُلدت من تلك المراهنات نفسها؟

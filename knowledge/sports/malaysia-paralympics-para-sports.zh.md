@@ -94,6 +94,13 @@ relations:
 related: []
 keywords: ["Majlis Paralimpik Malaysia", "Paralympic Council Malaysia", "para sukan", "Sukan Paralimpik", "Bonnie Bunyau Gustin", "Cheah Liek Hou", "Abdul Latif Romly"]
 framework: explainer
+hero: '/media/sports/malaysia-paralympics-para-sports/hero.webp'
+heroAlt: '一名残障游泳运动员在比赛泳池的泳道中奋力划出一记仰泳动作。'
+heroCredit: 'Staff Sgt. Michael Hunnisett, U.S. Army / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sgt_1st_Class_Elizabeth_Marks_Competes_at_2023_Para_Swimming_World_Championships_(7942899).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 当Cheah Liek Hou在2024年巴黎残奥会成功卫冕羽毛球SU5金牌时，这一胜利印证了马来西亚残障运动如今拥有更稳固的冠军阵容，而不再是偶尔一现的成就。在那一刻的背后，是一套独特的治理架构，与更为知名的奥运世界彼此分离。

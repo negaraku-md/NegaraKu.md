@@ -81,6 +81,13 @@ relations:
 related: []
 keywords: ["velodrom nasional", "Nilai", "lumba basikal trek", "keirin", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
 framework: profile
+hero: '/media/sports/track-cycling-velodrome-malaysia/hero.webp'
+heroAlt: '닐라이에 있는 국립 벨로드롬의 각진 빨강·회색·흰색 외벽이 텅 빈 주차장 위로 서 있다.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Velodrome,_Nilai.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 닐라이 외곽의 긴 지붕을 인 한 경기장은 이제 말레이시아에서 가장 빠른 선수들이 주행을 다듬는 곳이 되었습니다 — 그리고 그곳은 더 많은 세계 트랙 챔피언을 배출하기 위해 특별히 지어졌습니다.

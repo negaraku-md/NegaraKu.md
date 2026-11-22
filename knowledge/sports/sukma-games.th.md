@@ -99,6 +99,13 @@ relations:
 related: []
 keywords: ["SUKMA", "Sukan Malaysia", "Majlis Sukan Negara", "Program Podium", "atlet remaja", "pembangunan sukan", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/sukma-games/hero.webp'
+heroAlt: 'คณะนักกีฬาจากแต่ละรัฐถือธงและป้ายชื่อรัฐของตนระหว่างพิธีเปิดการแข่งขันซูกมา (SUKMA) ในมาเลเซีย'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ทุกสองปี นักกีฬาวัยรุ่นหลายพันคนเดินสวนสนามเข้าสู่สนามกีฬาของรัฐเจ้าภาพ ไม่ใช่เพื่อเหรียญระดับโลก แต่เพื่อศักดิ์ศรีของรัฐของตน และสำหรับผู้ที่มีความสามารถที่สุด ตั๋วสู่เวทีชั้นนำของประเทศ นั่นคือ SUKMA

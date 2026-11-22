@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["Liga Super", "Piala Malaysia", "MFL", "Malaysian Football League", "FMLLP", "Johor Darul Ta'zim", "FAM", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/malaysia-cup-domestic-football-leagues/hero.webp'
+heroAlt: 'Des supporters de football de Perak vêtus de jaune remplissent les tribunes du stade lors d''un match de la Coupe de Malaisie 2017.'
+heroCredit: 'hams Nocete / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Perak_football_supporters,_2017_Malaysia_Cup_quarter-finals.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Pendant près d'un siècle, un seul organisme — l'Association de football de Malaisie (FAM) — a organisé chaque match de la ligue nationale. Puis, dans un mouvement qui a remodelé ce sport, le pouvoir de diriger les ligues fut confié à une entreprise commerciale. C'est le fondement du fonctionnement du football interne malaisien aujourd'hui.

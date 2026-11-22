@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["squash", "Nicol David", "SRAM", "Malaysian squash", "Ng Eain Yow", "Sivasangari Subramaniam", "World Open"]
 framework: profile
+hero: '/media/sports/squash-in-malaysia-nicol-david/hero.webp'
+heroAlt: 'マレーシアのスカッシュ王者ニコル・デビッドが、トーナメントの試合で体を伸ばしてフォアハンドを打っている。'
+heroCredit: 'stevecubbins / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nicol_David_Hong_Kong_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 9年連続で、世界最高のスカッシュ選手はペナン出身だった。ニコル・デビッドはマレーシアで最も成功した個人競技で勝ち続けただけではない——彼女はこの競技における支配とは何かを塗り替え、2015年9月まで **108か月連続** で世界ランキング1位を守り、これはこの競技が経験した中で最も長い途切れない在位となった。

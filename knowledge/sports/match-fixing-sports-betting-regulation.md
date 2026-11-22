@@ -82,6 +82,13 @@ relations:
 related: []
 keywords: ["pengaturan perlawanan", "match-fixing", "pertaruhan sukan", "Akta Rumah Judi Terbuka 1953", "Akta Pertaruhan 1953", "SPRM", "integriti sukan", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/match-fixing-sports-betting-regulation/hero.webp'
+heroAlt: 'Sebuah padang bola sepak yang kosong terbentang di hadapan tempat duduk pentas penonton yang lengang di bawah langit mendung.'
+heroCredit: 'Affinity24 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Football_Pitch_Ahmadu_Bello_Stadium_Kaduna.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Apabila lebih 100 pemain bola sepak diambil oleh polis pada musim 1993–1994, ia bukan sekadar krisis sukan — ia membuka satu persoalan undang-undang yang masih belum selesai sepenuhnya hari ini: bagaimana sesebuah negara yang melarang hampir semua pertaruhan sukan menangani jenayah yang lahir daripada pertaruhan itu sendiri.

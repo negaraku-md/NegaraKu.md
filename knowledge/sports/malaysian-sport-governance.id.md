@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["tadbir urus sukan Malaysia", "Majlis Sukan Negara", "Pesuruhjaya Sukan", "Akta Pembangunan Sukan 1997", "Majlis Olimpik Malaysia", "Kementerian Belia dan Sukan", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/malaysian-sport-governance/hero.webp'
+heroAlt: 'Fasad bilah perak Stadion Nasional Bukit Jalil menjulang di atas halaman depan yang kosong.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Sebuah klub sepak bola baru di Johor dapat membeli jersi, menyewa lapangan dan mendaftarkan pemain — tetapi ia masih tidak boleh secara sah mengirim siapa pun mewakili "Malaysia" ke kompetisi mana pun. Sebabnya bukan uang atau bakat. Ini soal siapa yang memberi izin. Di Malaysia, hak untuk berdiri sebagai badan olahraga, hak untuk dibiayai, dan hak untuk memakai nama negara berasal dari empat institusi berbeda yang sering dianggap keliru sebagai satu.

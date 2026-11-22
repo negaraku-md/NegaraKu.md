@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["squash", "Nicol David", "SRAM", "Malaysian squash", "Ng Eain Yow", "Sivasangari Subramaniam", "World Open"]
 framework: profile
+hero: '/media/sports/squash-in-malaysia-nicol-david/hero.webp'
+heroAlt: 'மலேசிய ஸ்குவாஷ் சாம்பியன் நிகோல் டேவிட் (Nicol David) ஒரு போட்டியின் போது ஃபோர்ஹேண்ட் அடிக்க நீண்டு செல்கிறார்.'
+heroCredit: 'stevecubbins / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nicol_David_Hong_Kong_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 தொடர்ச்சியாக ஒன்பது ஆண்டுகளுக்கு, உலகின் மிகச்சிறந்த ஸ்குவாஷ் வீராங்கனை Penangஇலிருந்து வந்தார். Nicol David மலேசியாவின் மிகவும் வெற்றிகரமான தனிநபர் விளையாட்டில் வென்றது மட்டுமல்ல — அதில் ஆதிக்கம் என்றால் என்ன என்பதையே மறுவரையறை செய்தார், 2015 செப்டம்பர் வரை தொடர்ச்சியாக **108 மாதங்கள்** உலக நம்பர் ஒன் தரவரிசையைத் தக்கவைத்து, இந்த விளையாட்டு இதுவரை கண்ட மிக நீண்ட தொடர்ச்சியான ஆட்சியைப் பதிவு செய்தார்.

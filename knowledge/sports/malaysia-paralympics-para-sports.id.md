@@ -94,6 +94,13 @@ relations:
 related: []
 keywords: ["Majlis Paralimpik Malaysia", "Paralympic Council Malaysia", "para sukan", "Sukan Paralimpik", "Bonnie Bunyau Gustin", "Cheah Liek Hou", "Abdul Latif Romly"]
 framework: explainer
+hero: '/media/sports/malaysia-paralympics-para-sports/hero.webp'
+heroAlt: 'Seorang perenang para melaju dengan kayuhan gaya punggung menyeberangi lintasan kolam pertandingan.'
+heroCredit: 'Staff Sgt. Michael Hunnisett, U.S. Army / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sgt_1st_Class_Elizabeth_Marks_Competes_at_2023_Para_Swimming_World_Championships_(7942899).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Ketika Cheah Liek Hou mempertahankan emas bulu tangkis SU5-nya di Paris 2024, keberhasilan itu menegaskan bahwa para olahraga Malaysia kini memiliki barisan juara yang lebih mantap, bukan lagi pencapaian sesekali. Di balik momen itu terdapat sebuah struktur tata kelola tersendiri, terpisah dari dunia Olimpik yang lebih terkenal.

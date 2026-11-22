@@ -100,6 +100,13 @@ keywords:
   - "Lee Zii Jia"
   - "juara All England Malaysia"
 framework: history-culture
+hero: '/media/sports/badminton-in-malaysia/hero.webp'
+heroAlt: 'ลี ชอง เหว่ย นักแบดมินตันชื่อดังของมาเลเซีย พุ่งตัวเพื่อตีลูกโฟร์แฮนด์ระหว่างการแข่งขันโอลิมปิก'
+heroCredit: 'Antony Stanley / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lee_Chong_Wei,_Malaysia_(7758886922).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ในเดือนพฤษภาคม 1992 ทั้งประเทศหยุดนิ่งชั่วขณะ ที่สนามกีฬาแห่งชาติ กัวลาลัมเปอร์ ทีมของชายหนุ่มที่นำโดยพี่น้อง Sidek เอาชนะอินโดนีเซียเพื่อยกถ้วยโธมัส และดังคำของ Datuk Rashid Sidek "ทั้งมาเลเซียกลายเป็นไวรัลและทุกคนอยากเล่นแบดมินตัน" สามทศวรรษต่อมา ถ้วยนั้นยังไม่กลับมา เรื่องราวแบดมินตันมาเลเซียเป็นเรื่องราวของความรุ่งโรจน์ยุคแรก ช่วงแล้งที่เจ็บปวด และแชมป์หนึ่งหรือสองคนที่แบกความหวังของทั้งประเทศไว้บนบ่า

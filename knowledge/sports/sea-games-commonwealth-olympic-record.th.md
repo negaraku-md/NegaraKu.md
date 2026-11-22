@@ -86,6 +86,13 @@ relations:
 related: ["negaraku-anthem"]
 keywords: ["Malaysia Olympic medals", "SEA Games", "Commonwealth Games 1998", "Lee Chong Wei", "Malaysia gold medal", "medal tally"]
 framework: data-reference
+hero: '/media/sports/sea-games-commonwealth-olympic-record/hero.webp'
+heroAlt: 'คณะนักกีฬามาเลเซียในชุดประจำชาติสีส้มเดินพาเหรดตามหลังธงชาติ “จาลูร์ เกมีลัง” ในพิธีเปิดโอลิมปิก 2008'
+heroCredit: 'U.S. Army / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2008_Summer_Olympics_-_Opening_Ceremony_-_Malaysia.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 มาเลเซียก้าวขึ้นสู่โพเดียมโอลิมปิกสิบห้าครั้ง และได้ยินเพลงชาติของชาติอื่นบรรเลงทุกครั้ง

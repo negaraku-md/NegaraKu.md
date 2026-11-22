@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["pengaturan perlawanan", "match-fixing", "pertaruhan sukan", "Akta Rumah Judi Terbuka 1953", "Akta Pertaruhan 1953", "SPRM", "integriti sukan", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/match-fixing-sports-betting-regulation/hero.webp'
+heroAlt: 'สนามฟุตบอลที่ว่างเปล่าตั้งอยู่หน้าอัฒจันทร์ที่ไร้ผู้คนภายใต้ท้องฟ้าครึ้ม'
+heroCredit: 'Affinity24 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Football_Pitch_Ahmadu_Bello_Stadium_Kaduna.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 เมื่อนักฟุตบอลกว่า 100 คนถูกตำรวจควบคุมตัวในฤดูกาล 1993–1994 มันไม่ใช่เพียงวิกฤตกีฬา แต่เปิดคำถามทางกฎหมายที่ยังไม่ได้รับการแก้ไขอย่างสมบูรณ์จนถึงวันนี้ ว่าประเทศที่ห้ามการพนันกีฬาเกือบทั้งหมดจะจัดการกับอาชญากรรมที่เกิดจากการพนันนั้นเองอย่างไร

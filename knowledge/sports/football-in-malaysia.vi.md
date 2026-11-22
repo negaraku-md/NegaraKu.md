@@ -94,6 +94,13 @@ relations:
 related: []
 keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
 framework: history-culture
+hero: '/media/sports/football-in-malaysia/hero.webp'
+heroAlt: 'Sân vận động Quốc gia Bukit Jalil rực sáng đèn pha chật kín khán giả nhìn xuống một trận bóng đá đang diễn ra.'
+heroCredit: 'Phalinn Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Vào năm 1921, Singapore đánh bại Selangor 2-1 trong trận chung kết của một giải bóng đá mới ở Malaya. Hơn một thế kỷ sau, giải đấu đó — nay được biết đến là Cúp Malaysia — vẫn là vương miện danh giá nhất trong môn thể thao được yêu thích nhất của đất nước.

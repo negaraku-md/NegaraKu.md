@@ -70,6 +70,13 @@ relations:
 related: []
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
 framework: explainer
+hero: '/media/sports/national-sports-day-malaysia/hero.webp'
+heroAlt: 'கோலாலம்பூரில் ஒரு இரவு சாலை ஓட்டப் போட்டியின் போது ஒளிவெள்ளத்தில் மூழ்கிய சுல்தான் அப்துல் சமாத் கட்டிடத்தை (Sultan Abdul Samad) கடந்து ஓட்டக்காரர்களின் கூட்டம் ஓடுகிறது.'
+heroCredit: 'Klmarathon / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pacers_Running.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ஒவ்வொரு அக்டோபர் இரண்டாவது வார சனிக்கிழமையிலும், மலேசியா முழுவதும் உள்ள மைதானங்கள், பூங்காக்கள் மற்றும் விளையாட்டு அரங்குகள் மக்களால் நிரம்பி வழிய வேண்டும் — அதுவே தேசிய விளையாட்டு தினத்தின் வடிவமைப்பு.

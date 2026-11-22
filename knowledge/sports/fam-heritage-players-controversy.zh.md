@@ -81,6 +81,13 @@ relations:
 related: []
 keywords: ["naturalisasi", "pemain warisan", "FAM", "FIFA", "CAS", "Harimau Malaya", "dokumen palsu", "Artikel 22", "Piala Asia 2027"]
 framework: explainer
+hero: '/media/sports/fam-heritage-players-controversy/hero.webp'
+heroAlt: '身穿黄色的“马来亚虎”球迷挤满武吉加里尔国家体育场，看台上方是印有马来西亚虎的记分牌。'
+heroCredit: 'Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ultras_Malaya_in_Bukit_Jalil_Stadium,_2014_AFF_Championship_Final.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 2025年6月，七名海外出生的球员身披马来亚之虎（Harimau Malaya）的球衣上阵。不到一年后，世界最高体育仲裁机构确认，使他们得以代表马来西亚出赛的文件系伪造。此案引发了国际足联（FIFA）一系列纪律程序、一宗向体育仲裁法庭（CAS）提起的上诉，以及一份在马来西亚提交的警方报案。

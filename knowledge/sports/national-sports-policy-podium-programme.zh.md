@@ -93,6 +93,13 @@ keywords:
   - "pembiayaan atlet elit"
   - "Institut Sukan Negara Podium"
 framework: explainer
+hero: '/media/sports/national-sports-policy-podium-programme/hero.webp'
+heroAlt: '在 2017 年吉隆坡东南亚运动会上，获奖的体操运动员站上领奖台，一名马来西亚运动员手持国旗。'
+heroCredit: 'U.S. Embassy Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Women%27s_Vault_Podium_at_the_2017_SEA_Games.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 每当一名马来西亚运动员踏上奥运颁奖台，其背后其实有两套截然不同的系统在运作——一套试图带动全体国民动起来，另一套则把庞大资源集中投向少数有能力夺胜的人。两者都活在同一份政策文件之下，但资助与衡量的方式却大相径庭。

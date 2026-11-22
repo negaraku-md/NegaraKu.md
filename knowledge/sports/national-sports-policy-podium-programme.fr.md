@@ -93,6 +93,13 @@ keywords:
   - "pembiayaan atlet elit"
   - "Institut Sukan Negara Podium"
 framework: explainer
+hero: '/media/sports/national-sports-policy-podium-programme/hero.webp'
+heroAlt: 'Des gymnastes médaillés se tiennent sur le podium aux Jeux d''Asie du Sud-Est de Kuala Lumpur 2017 tandis qu''une athlète malaisienne tient le drapeau national.'
+heroCredit: 'U.S. Embassy Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Women%27s_Vault_Podium_at_the_2017_SEA_Games.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Chaque fois qu'un athlète malaisien monte sur le podium olympique, deux systèmes distincts sont en réalité à l'œuvre derrière lui : l'un qui tente de mettre toute la population en mouvement, et l'autre qui concentre d'énormes ressources sur la petite poignée de personnes capables de gagner. Les deux relèvent du même document de politique, mais ils sont financés et mesurés de façons très différentes.

@@ -81,6 +81,13 @@ relations:
 related: []
 keywords: ["velodrom nasional", "Nilai", "lumba basikal trek", "keirin", "Azizulhasni Awang", "MNCF", "Majlis Sukan Negara"]
 framework: profile
+hero: '/media/sports/track-cycling-velodrome-malaysia/hero.webp'
+heroAlt: 'Mặt tiền góc cạnh màu đỏ, xám và trắng của Velodrome Quốc gia ở Nilai đứng phía trên một bãi đỗ xe trống.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Velodrome,_Nilai.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Một sân đấu có mái che dài ở rìa Nilai nay là nơi tay đua nhanh nhất của Malaysia mài giũa những cú nước rút của mình — và nó được xây dựng riêng để sản sinh thêm nhiều nhà vô địch lòng chảo thế giới.

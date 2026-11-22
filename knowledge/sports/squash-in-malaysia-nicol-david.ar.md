@@ -91,6 +91,13 @@ relations:
 related: []
 keywords: ["إسكواش", "squash", "نيكول ديفيد", "Nicol David", "SRAM", "الإسكواش الماليزي", "نغ إين يو", "Ng Eain Yow", "سيفاسانغاري سوبرامانيام", "Sivasangari Subramaniam", "البطولة المفتوحة العالمية", "World Open"]
 framework: profile
+hero: '/media/sports/squash-in-malaysia-nicol-david/hero.webp'
+heroAlt: 'بطلة الإسكواش الماليزية نيكول ديفيد تمدّ جسدها لأداء ضربة أمامية خلال مباراة في بطولة.'
+heroCredit: 'stevecubbins / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nicol_David_Hong_Kong_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 على مدى تسع سنوات متتالية، كانت أفضل لاعبة إسكواش على وجه الأرض تنحدر من بينانغ. لم تكتفِ نيكول ديفيد بالفوز في أنجح رياضة فردية لماليزيا — بل أعادت تعريف ما تعنيه الهيمنة فيها، محتفظةً بالمرتبة الأولى عالميًا لمدة **108 أشهر متتالية** حتى سبتمبر 2015، وهي أطول فترة هيمنة متواصلة شهدتها اللعبة على الإطلاق.

@@ -81,6 +81,13 @@ relations:
 related: []
 keywords: ["naturalisasi", "pemain warisan", "FAM", "FIFA", "CAS", "Harimau Malaya", "dokumen palsu", "Artikel 22", "Piala Asia 2027"]
 framework: explainer
+hero: '/media/sports/fam-heritage-players-controversy/hero.webp'
+heroAlt: 'แฟนบอล “ฮาริเมา มาลายา” ที่สวมชุดสีเหลืองแน่นขนัดเต็มสนามกีฬาแห่งชาติบูกิตจาลิล ใต้สกอร์บอร์ดรูปเสือมาเลเซีย'
+heroCredit: 'Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ultras_Malaya_in_Bukit_Jalil_Stadium,_2014_AFF_Championship_Final.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ผู้เล่นที่เกิดในต่างประเทศเจ็ดคนสวมเสื้อทีมชาติ Harimau Malaya ในเดือนมิถุนายน 2025 ไม่ถึงหนึ่งปีต่อมา องค์กรอนุญาโตตุลาการกีฬาสูงสุดของโลกยืนยันว่าเอกสารที่ทำให้พวกเขามีคุณสมบัติเล่นให้มาเลเซียถูกปลอมแปลง คดีนี้จุดชนวนชุดของกระบวนการทางจริยธรรมของ FIFA การอุทธรณ์ต่อศาลอนุญาโตตุลาการกีฬา (Court of Arbitration for Sport, CAS) และการแจ้งความต่อตำรวจในมาเลเซีย

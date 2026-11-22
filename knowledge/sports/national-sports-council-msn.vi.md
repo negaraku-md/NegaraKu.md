@@ -68,6 +68,13 @@ relations: []
 related: []
 keywords: ["Majlis Sukan Negara", "MSN", "National Sports Council of Malaysia", "NSC Malaysia", "MSN Bukit Jalil", "Akta Majlis Sukan Negara 1971", "Institut Sukan Negara", "ISN", "Kompleks Sukan Negara Bukit Jalil", "Majlis Sukan Negeri", "Kementerian Belia dan Sukan", "MSN atlet", "pembangunan sukan Malaysia"]
 framework: profile
+hero: '/media/sports/national-sports-council-msn/hero.webp'
+heroAlt: 'Tòa nhà trụ sở nhiều màu sắc của Majlis Sukan Negara Malaysia đứng tại Bukit Jalil với tên của nó trên tường.'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia,_Bukit_Jalil_(220713).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Khi một vận động viên chạy nước rút Malaysia xếp hàng tại Thế vận hội hay một cầu thủ trẻ được tuyển vào một đội tuyển quốc gia, có một cơ quan chính phủ duy nhất đứng đằng sau việc huấn luyện, việc dạy dỗ và các cơ sở đã đưa họ đến đó: **Hội đồng Thể thao Quốc gia Malaysia**, được biết đến trong tiếng Mã Lai là **Majlis Sukan Negara (MSN)**. Đó là cơ quan theo luật định biến chính sách thể thao quốc gia thành các vận động viên thực sự.

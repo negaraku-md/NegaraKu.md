@@ -101,6 +101,13 @@ keywords:
   - "Lee Zii Jia"
   - "أبطال أول إنجلترا"
 framework: history-culture
+hero: '/media/sports/badminton-in-malaysia/hero.webp'
+heroAlt: 'نجم الريشة الطائرة الماليزي لي تشونغ وي يندفع لأداء ضربة أمامية خلال مباراة أولمبية.'
+heroCredit: 'Antony Stanley / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lee_Chong_Wei,_Malaysia_(7758886922).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في مايو 1992، توقّفت الأمة كلها لحظةً. ففي ستاد نيغارا بكوالالمبور، هزم فريقٌ من الشباب بقيادة الإخوة سيدك إندونيسيا ليرفع كأس توماس — وكما قال داتوك راشد سيدك، «انتشرت ماليزيا كلها كالنار في الهشيم وأراد الجميع أن يلعبوا الريشة الطائرة». وبعد ثلاثة عقود، لم يعد الكأس بعد. قصة الريشة الطائرة الماليزية قصة مجدٍ مبكر، وجفافٍ موجع، وبطلٍ أو اثنين يحملان آمال أمة على كتفيهما.

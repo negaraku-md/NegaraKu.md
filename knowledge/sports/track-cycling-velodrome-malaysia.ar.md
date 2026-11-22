@@ -81,6 +81,13 @@ relations:
 related: []
 keywords: ["velodrom nasional", "الفيلودروم الوطني", "Nilai", "سباق الدراجات على المضمار", "keirin", "الكيرين", "Azizulhasni Awang", "عزيز الحسني أوانغ", "MNCF", "Majlis Sukan Negara"]
 framework: profile
+hero: '/media/sports/track-cycling-velodrome-malaysia/hero.webp'
+heroAlt: 'الواجهة الزاويّة الحمراء والرمادية والبيضاء لفيلودروم نيلاي الوطني ترتفع فوق موقف سيارات خالٍ.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Velodrome,_Nilai.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 حلبة طويلة مسقوفة على أطراف نيلاي هي اليوم المكان الذي يصقل فيه أسرع دراجي ماليزيا انطلاقاتهم — وقد بُنيت خصيصاً لإنجاب مزيد من أبطال العالم على المضمار.

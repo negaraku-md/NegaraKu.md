@@ -87,6 +87,13 @@ keywords:
   - "kedudukan hoki dunia FIH Malaysia"
   - "Piala Dunia hoki 1975 Kuala Lumpur"
 framework: history-culture
+hero: '/media/sports/field-hockey-malaysia/hero.webp'
+heroAlt: '하키 월드컵의 말레이시아 경기에서 필드하키 선수들이 공을 쫓고 있다.'
+heroCredit: 'Hans Peters for Anefo / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen,_Nederland_tegen_Maleisi_4-0,_Ties_Kruize_(rech,_Bestanddeelnr_926-6422.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1975년 3월 15일, 쿠알라룸푸르의 한 스타디움은 인도가 역사상 유일하게 남자 하키 월드컵을 들어 올리는 장면을 지켜보았습니다 — 그리고 그 개최국은 인도가 아니라 말레이시아였습니다. 반세기가 지난 지금도, 같은 나라는 매년 세계 하키 강국들을 이포로 초청합니다. 필드하키는 오늘날 말레이시아에서 가장 인기 있는 스포츠는 아닐지 몰라도, 국제 무대에서 가장 존경받는 나라의 스포츠 유산일 것입니다.

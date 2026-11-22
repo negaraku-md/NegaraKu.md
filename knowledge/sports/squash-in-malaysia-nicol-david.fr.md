@@ -91,6 +91,13 @@ relations:
 related: []
 keywords: ["squash", "Nicol David", "SRAM", "squash malaisien", "Ng Eain Yow", "Sivasangari Subramaniam", "Open du monde"]
 framework: profile
+hero: '/media/sports/squash-in-malaysia-nicol-david/hero.webp'
+heroAlt: 'La championne malaisienne de squash Nicol David s''étire pour jouer un coup droit lors d''un match de tournoi.'
+heroCredit: 'stevecubbins / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nicol_David_Hong_Kong_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Pendant neuf années d'affilée, la meilleure joueuse de squash de la planète venait de Penang. Nicol David ne s'est pas contentée de gagner dans le sport individuel le plus prospère de la Malaisie — elle a réécrit ce que signifie y dominer, conservant la place de numéro 1 mondiale pendant **108 mois consécutifs** jusqu'en septembre 2015, le plus long règne ininterrompu que ce sport ait jamais connu.

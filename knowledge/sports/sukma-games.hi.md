@@ -99,6 +99,13 @@ relations:
 related: []
 keywords: ["सुकमा", "SUKMA", "मलेशिया खेल", "Sukan Malaysia", "राष्ट्रीय खेल परिषद", "Majlis Sukan Negara", "पोडियम कार्यक्रम", "Program Podium", "युवा खिलाड़ी", "खेल विकास", "राष्ट्रीय खेल संस्थान", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/sukma-games/hero.webp'
+heroAlt: 'मलेशिया में एक सुकमा गेम्स उद्घाटन समारोह के दौरान राज्य दल अपने झंडे और नाम पट्टिकाएं लेकर चलते हैं।'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 हर दो साल में, हज़ारों युवा खिलाड़ी किसी मेज़बान राज्य के स्टेडियम में कदम रखते हैं — विश्व पदकों के लिए नहीं, बल्कि अपने-अपने राज्यों के गौरव के लिए और, सबसे प्रतिभाशाली खिलाड़ियों के लिए, राष्ट्रीय शीर्ष मंच का टिकट पाने के लिए। यही है SUKMA।

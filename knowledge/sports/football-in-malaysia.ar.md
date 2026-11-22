@@ -94,6 +94,13 @@ relations:
 related: []
 keywords: ["كرة القدم الماليزية", "كأس ماليزيا", "هاريماو مالايا", "FAM", "الدوري الممتاز", "AFF", "football malaysia"]
 framework: history-culture
+hero: '/media/sports/football-in-malaysia/hero.webp'
+heroAlt: 'ملعب بوكيت جليل الوطني المضاء بالأضواء الكاشفة والممتلئ بالمشجعين يطل على مباراة كرة قدم جارية.'
+heroCredit: 'Phalinn Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في 1921، فازت سنغافورة على سلانغور 2-1 في نهائي بطولة كرة قدم جديدة في ملايا. وبعد أكثر من قرن، ما زالت تلك المسابقة — المعروفة اليوم باسم كأس ماليزيا — أعرق تاج في أحبّ رياضات البلاد إلى قلوب أهلها.

@@ -87,6 +87,13 @@ keywords:
   - "kedudukan hoki dunia FIH Malaysia"
   - "Piala Dunia hoki 1975 Kuala Lumpur"
 framework: history-culture
+hero: '/media/sports/field-hockey-malaysia/hero.webp'
+heroAlt: 'นักกีฬาฮอกกี้สนามวิ่งไล่ลูกบอลระหว่างการแข่งขันของมาเลเซียในฮอกกี้เวิลด์คัพ'
+heroCredit: 'Hans Peters for Anefo / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen,_Nederland_tegen_Maleisi_4-0,_Ties_Kruize_(rech,_Bestanddeelnr_926-6422.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 เมื่อวันที่ 15 มีนาคม 1975 สนามกีฬาแห่งหนึ่งในกัวลาลัมเปอร์เป็นสักขีพยานให้อินเดียยกถ้วยฟุตบอลโลกฮอกกี้ชายเพียงครั้งเดียวในประวัติศาสตร์ของพวกเขา และเจ้าภาพไม่ใช่อินเดีย แต่เป็นมาเลเซีย ครึ่งศตวรรษต่อมา ประเทศเดียวกันยังคงเชิญมหาอำนาจฮอกกี้โลกมายังอีโปห์ทุกปี ฮอกกี้สนามอาจไม่ใช่กีฬาที่ได้รับความนิยมที่สุดในมาเลเซียในปัจจุบัน แต่อาจเป็นมรดกทางกีฬาของประเทศที่ได้รับความเคารพมากที่สุดในระดับนานาชาติ

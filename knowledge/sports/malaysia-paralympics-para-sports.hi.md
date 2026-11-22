@@ -95,6 +95,13 @@ relations:
 related: []
 keywords: ["Majlis Paralimpik Malaysia", "Paralympic Council Malaysia", "para sukan", "Sukan Paralimpik", "Bonnie Bunyau Gustin", "Cheah Liek Hou", "Abdul Latif Romly"]
 framework: explainer
+hero: '/media/sports/malaysia-paralympics-para-sports/hero.webp'
+heroAlt: 'एक पैरा-तैराक प्रतियोगिता पूल लेन में बैकस्ट्रोक से जोर लगाकर आगे बढ़ता है।'
+heroCredit: 'Staff Sgt. Michael Hunnisett, U.S. Army / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sgt_1st_Class_Elizabeth_Marks_Competes_at_2023_Para_Swimming_World_Championships_(7942899).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 जब चेआ लिएक होउ ने पेरिस 2024 में अपने SU5 बैडमिंटन स्वर्ण का बचाव किया, तो उस जीत ने पुष्टि की कि मलेशियाई पैरा खेल के पास अब चैंपियनों की एक अधिक ठोस कतार है, न कि केवल कभी-कभार की उपलब्धि। उस क्षण के पीछे एक विशिष्ट शासन संरचना है, जो अधिक प्रसिद्ध ओलंपिक दुनिया से अलग है।

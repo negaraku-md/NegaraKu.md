@@ -93,6 +93,13 @@ keywords:
   - "pembiayaan atlet elit"
   - "Institut Sukan Negara Podium"
 framework: explainer
+hero: '/media/sports/national-sports-policy-podium-programme/hero.webp'
+heroAlt: '2017 கோலாலம்பூர் SEA Games போட்டியில் பதக்கம் வென்ற சிம்னாஸ்டிக் வீராங்கனைகள் மேடையில் நிற்கிறார்கள், ஒரு மலேசிய வீராங்கனை தேசியக் கொடியை ஏந்தியுள்ளார்.'
+heroCredit: 'U.S. Embassy Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Women%27s_Vault_Podium_at_the_2017_SEA_Games.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ஒரு மலேசிய வீரர் ஒலிம்பிக் பதக்க மேடையில் (podium) ஏறும் ஒவ்வொரு முறையும், அவருக்குப் பின்னால் உண்மையில் இரு வெவ்வேறு அமைப்புகள் இயங்கிக்கொண்டிருக்கின்றன — ஒன்று ஒட்டுமொத்த மக்களையும் அசைந்து செயல்படச் செய்ய முயல்கிறது, மற்றொன்று வெல்லும் திறன் கொண்ட ஒரு சிறு பிரிவினருக்குப் பெரும் வளங்களைக் குவிக்கிறது. இவை இரண்டும் ஒரே கொள்கை ஆவணத்தின் கீழ் வாழ்கின்றன, ஆனால் மிகவும் வேறுபட்ட முறையில் நிதியளிக்கப்பட்டு அளவிடப்படுகின்றன.

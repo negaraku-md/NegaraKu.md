@@ -83,6 +83,13 @@ relations:
 related: []
 keywords: ["pengaturan perlawanan", "match-fixing", "pertaruhan sukan", "Akta Rumah Judi Terbuka 1953", "Akta Pertaruhan 1953", "SPRM", "integriti sukan", "bola sepak Malaysia"]
 framework: explainer
+hero: '/media/sports/match-fixing-sports-betting-regulation/hero.webp'
+heroAlt: 'Un terrain de football vide s''étend devant une tribune déserte sous un ciel couvert.'
+heroCredit: 'Affinity24 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Football_Pitch_Ahmadu_Bello_Stadium_Kaduna.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Lorsque plus de 100 footballeurs ont été raflés par la police au cours de la saison 1993-1994, ce ne fut pas simplement une crise sportive — cela ouvrit une question juridique qui demeure aujourd'hui non entièrement résolue : comment un pays qui interdit presque tous les paris sportifs traite-t-il un crime né de ces mêmes paris ?

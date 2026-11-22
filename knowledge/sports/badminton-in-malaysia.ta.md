@@ -100,6 +100,13 @@ keywords:
   - "Lee Zii Jia"
   - "juara All England Malaysia"
 framework: history-culture
+hero: '/media/sports/badminton-in-malaysia/hero.webp'
+heroAlt: 'மலேசிய இறகுப்பந்து நட்சத்திரம் லீ சோங் வெய் (Lee Chong Wei) ஒரு ஒலிம்பிக் போட்டியின் போது ஃபோர்ஹேண்ட் அடிக்க முன்னேறிக் குதிக்கிறார்.'
+heroCredit: 'Antony Stanley / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lee_Chong_Wei,_Malaysia_(7758886922).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1992 மேயில், நாடு முழுவதும் ஒரு கணம் நின்றது. கோலாலம்பூர், Stadium Negaraவில், Sidek சகோதரர்கள் தலைமையிலான இளைஞர்கள் அணி இந்தோனேசியாவை வீழ்த்தி தாமஸ் கோப்பையை உயர்த்தியது — Datuk Rashid Sidek சொன்னது போல், “மலேசியா முழுவதும் வைரலாகிவிட்டது, எல்லோரும் பூப்பந்து விளையாட விரும்பினர்.” மூன்று தசாப்தங்களுக்குப் பிறகும், அந்தக் கோப்பை இன்னும் திரும்பவில்லை. மலேசிய பூப்பந்தின் கதை என்பது ஆரம்பகால புகழ், வேதனையான வறட்சி, மற்றும் ஒரு நாட்டின் நம்பிக்கைகளைத் தங்கள் தோள்களில் சுமந்த ஓரிரு சாம்பியன்களின் கதை.

@@ -86,6 +86,13 @@ keywords:
   - "kedudukan hoki dunia FIH Malaysia"
   - "Piala Dunia hoki 1975 Kuala Lumpur"
 framework: history-culture
+hero: '/media/sports/field-hockey-malaysia/hero.webp'
+heroAlt: 'Pemain hoki padang mengejar bola semasa perlawanan Malaysia di Piala Dunia Hoki.'
+heroCredit: 'Hans Peters for Anefo / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen,_Nederland_tegen_Maleisi_4-0,_Ties_Kruize_(rech,_Bestanddeelnr_926-6422.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Pada 15 Mac 1975, sebuah stadium di Kuala Lumpur menyaksikan India mengangkat Piala Dunia hoki lelaki buat satu-satunya kali dalam sejarah mereka — dan tuan rumahnya bukan India, tetapi Malaysia. Setengah abad kemudian, negara yang sama masih menjemput kuasa-kuasa hoki dunia ke Ipoh setiap tahun. Hoki padang mungkin bukan sukan paling popular di Malaysia hari ini, tetapi ia mungkin warisan sukan negara yang paling dihormati di peringkat antarabangsa.

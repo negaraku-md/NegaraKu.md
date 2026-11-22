@@ -87,6 +87,13 @@ keywords:
   - "تصنيف ماليزيا في الهوكي العالمي FIH"
   - "كأس العالم للهوكي 1975 كوالالمبور"
 framework: history-culture
+hero: '/media/sports/field-hockey-malaysia/hero.webp'
+heroAlt: 'لاعبو هوكي الحقل يطاردون الكرة خلال مباراة لماليزيا في كأس العالم للهوكي.'
+heroCredit: 'Hans Peters for Anefo / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen,_Nederland_tegen_Maleisi_4-0,_Ties_Kruize_(rech,_Bestanddeelnr_926-6422.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في 15 مارس 1975، شاهد استاد في كوالالمبور الهندَ ترفع كأس العالم للهوكي للرجال للمرة الوحيدة في تاريخها — ولم يكن المضيف الهند، بل ماليزيا. وبعد نصف قرن، ما زال البلد نفسه يدعو قوى الهوكي في العالم إلى إيبوه كل عام. قد لا يكون هوكي الحقل أكثر الرياضات شعبية في ماليزيا اليوم، لكنه قد يكون أكثر موروثات البلاد الرياضية احترامًا على المستوى الدولي.

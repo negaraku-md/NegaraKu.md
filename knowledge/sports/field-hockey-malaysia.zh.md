@@ -87,6 +87,13 @@ keywords:
   - "kedudukan hoki dunia FIH Malaysia"
   - "Piala Dunia hoki 1975 Kuala Lumpur"
 framework: history-culture
+hero: '/media/sports/field-hockey-malaysia/hero.webp'
+heroAlt: '曲棍球选手在一场世界杯曲棍球赛的马来西亚比赛中追逐着球。'
+heroCredit: 'Hans Peters for Anefo / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen,_Nederland_tegen_Maleisi_4-0,_Ties_Kruize_(rech,_Bestanddeelnr_926-6422.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1975年3月15日，吉隆坡的一座体育场见证了印度举起男子曲棍球世界杯——这是他们历史上唯一的一次——而东道主并非印度，而是马来西亚。半个世纪后，同一个国家仍然每年邀请世界曲棍球强国来到怡保。草地曲棍球或许不是今日马来西亚最受欢迎的运动，但它可能是这个国家在国际上最受敬重的体育传统。

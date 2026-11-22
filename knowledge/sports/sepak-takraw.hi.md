@@ -102,6 +102,13 @@ relations:
 related: []
 keywords: ["सेपाक ताक्रॉ", "sepak takraw", "सेपाक राग", "sepak raga", "मलेशिया राष्ट्रीय खेल", "सेपाक ताक्रॉ नियम", "किंग्स कप", "सेपाकताक्रॉ फेडरेशन मलेशिया", "persekutuan sepaktakraw malaysia"]
 framework: history-culture
+hero: '/media/sports/sepak-takraw/hero.webp'
+heroAlt: 'मलेशिया में एक युवा खिलाड़ी हवा में बुने हुए रतन सेपाक टाकरॉ (sepak takraw) गेंद की ओर ऊंची किक मारता है।'
+heroCredit: 'Mohd Fahmi Mohd Azmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepak_takraw.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 वॉलीबॉल की कल्पना कीजिए, फिर हर खिलाड़ी के हाथ हटा दीजिए। जो बचता है — सिर की ऊँचाई पर साइकिल-किक स्पाइक, छाती से पास, हवा में ऊँचा उछाली और एड़ी से मारी गई सर्व — वही सेपाक ताक्रॉ है: दुनिया के सबसे कलाबाज़ खेलों में से एक, और मलय जगत की पहचान से सबसे गहराई से जुड़े खेलों में से एक।

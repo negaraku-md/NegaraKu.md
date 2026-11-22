@@ -81,6 +81,13 @@ relations:
 related: []
 keywords: ["naturalisasi", "pemain warisan", "FAM", "FIFA", "CAS", "Harimau Malaya", "dokumen palsu", "Artikel 22", "Piala Asia 2027"]
 framework: explainer
+hero: '/media/sports/fam-heritage-players-controversy/hero.webp'
+heroAlt: 'A packed yellow crowd of Harimau Malaya fans fills Bukit Jalil National Stadium beneath the Malaysian tiger scoreboard.'
+heroCredit: 'Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ultras_Malaya_in_Bukit_Jalil_Stadium,_2014_AFF_Championship_Final.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Seven foreign-born players pulled on the Harimau Malaya jersey in June 2025. Less than a year later, the world's highest sports arbitration body confirmed that the documents making them eligible to play for Malaysia had been forged. The case set off a series of FIFA disciplinary proceedings, an appeal to the Court of Arbitration for Sport (CAS), and a police report in Malaysia.

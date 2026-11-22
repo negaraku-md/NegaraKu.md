@@ -94,6 +94,13 @@ relations:
 related: []
 keywords: ["मलेशियाई फुटबॉल", "मलेशिया कप", "हरिमाउ मलाया", "FAM", "सुपर लीग", "AFF", "football malaysia"]
 framework: history-culture
+hero: '/media/sports/football-in-malaysia/hero.webp'
+heroAlt: 'फ्लडलाइट से रोशन, प्रशंसकों से भरा बुकित जलिल राष्ट्रीय स्टेडियम चल रहे एक फुटबॉल मैच को देखता है।'
+heroCredit: 'Phalinn Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1921 में, मलाया में एक नए फुटबॉल टूर्नामेंट के फाइनल में सिंगापुर ने सेलंगोर को 2-1 से हराया। एक सदी से भी अधिक समय बाद, वह प्रतियोगिता — जिसे अब मलेशिया कप के रूप में जाना जाता है — देश के सबसे प्रिय खेल का सबसे प्रतिष्ठित ताज बनी हुई है।

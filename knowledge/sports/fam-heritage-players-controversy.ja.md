@@ -81,6 +81,13 @@ relations:
 related: []
 keywords: ["naturalisasi", "pemain warisan", "FAM", "FIFA", "CAS", "Harimau Malaya", "dokumen palsu", "Artikel 22", "Piala Asia 2027"]
 framework: explainer
+hero: '/media/sports/fam-heritage-players-controversy/hero.webp'
+heroAlt: '黄色に染まったハリマウ・マラヤのサポーターがブキ・ジャリル国立競技場を埋め尽くし、マレーシアの虎が描かれたスコアボードが見下ろしている。'
+heroCredit: 'Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ultras_Malaya_in_Bukit_Jalil_Stadium,_2014_AFF_Championship_Final.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 7名の外国生まれの選手が、2025年6月にハリマウ・マラヤのジャージーに袖を通した。それから1年も経たないうちに、世界最高峰のスポーツ仲裁機関が、彼らにマレーシアでのプレー資格を与えた書類が偽造されていたことを確認した。この事件は、一連のFIFAの規律手続き、スポーツ仲裁裁判所（CAS）への上訴、そしてマレーシアでの警察への通報を引き起こした。

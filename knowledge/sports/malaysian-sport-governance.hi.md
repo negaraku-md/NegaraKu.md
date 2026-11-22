@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["tadbir urus sukan Malaysia", "Majlis Sukan Negara", "Pesuruhjaya Sukan", "Akta Pembangunan Sukan 1997", "Majlis Olimpik Malaysia", "Kementerian Belia dan Sukan", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/malaysian-sport-governance/hero.webp'
+heroAlt: 'बुकित जलिल राष्ट्रीय स्टेडियम का चांदी रंग का झिरीदार अग्रभाग एक खाली प्रांगण के ऊपर उठता है।'
+heroCredit: '*angys* / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_(220713).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 जोहोर में एक नया फुटबॉल क्लब जर्सी खरीद सकता है, मैदान किराए पर ले सकता है और खिलाड़ियों को पंजीकृत कर सकता है — फिर भी वह किसी भी प्रतियोगिता में "मलेशिया" का प्रतिनिधित्व करने के लिए किसी को कानूनी रूप से नहीं भेज सकता। कारण पैसा या प्रतिभा नहीं है। यह सवाल है कि अनुमति कौन देता है। मलेशिया में, एक खेल निकाय के रूप में अस्तित्व का अधिकार, वित्तपोषित होने का अधिकार, और राष्ट्र का नाम धारण करने का अधिकार चार अलग-अलग संस्थानों से आते हैं जिन्हें अक्सर एक ही समझ लिया जाता है।

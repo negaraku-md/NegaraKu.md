@@ -102,6 +102,13 @@ relations:
 related: []
 keywords: ["sepak takraw", "sepak raga", "deporte nacional de malasia", "reglas del sepak takraw", "copa del rey sepak takraw", "persekutuan sepaktakraw malaysia"]
 framework: history-culture
+hero: '/media/sports/sepak-takraw/hero.webp'
+heroAlt: 'Un jeune joueur en Malaisie lève un coup de pied haut vers la balle de sepak takraw en rotin tressé en plein vol.'
+heroCredit: 'Mohd Fahmi Mohd Azmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepak_takraw.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Imaginez le volley-ball, puis retirez les mains à chaque joueur. Ce qui reste — le

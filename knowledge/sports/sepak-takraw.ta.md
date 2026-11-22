@@ -102,6 +102,13 @@ relations:
 related: []
 keywords: ["sepak takraw", "sepak raga", "sukan kebangsaan malaysia", "peraturan sepak takraw", "piala raja sepak takraw", "persekutuan sepaktakraw malaysia"]
 framework: history-culture
+hero: '/media/sports/sepak-takraw/hero.webp'
+heroAlt: 'மலேசியாவில் ஒரு இளம் வீரர் காற்றில் உள்ள பின்னப்பட்ட பிரம்பு சேபாக் டக்ரா (sepak takraw) பந்தை நோக்கி உயரமாக உதைக்கிறார்.'
+heroCredit: 'Mohd Fahmi Mohd Azmi / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sepak_takraw.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 கைப்பந்தை கற்பனை செய்துபாருங்கள், பிறகு ஒவ்வொரு வீரரின் கைகளையும் அகற்றிவிடுங்கள்.

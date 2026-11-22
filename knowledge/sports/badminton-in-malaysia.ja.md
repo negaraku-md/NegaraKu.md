@@ -100,6 +100,13 @@ keywords:
   - "Lee Zii Jia"
   - "juara All England Malaysia"
 framework: history-culture
+hero: '/media/sports/badminton-in-malaysia/hero.webp'
+heroAlt: 'マレーシアのバドミントン・スター、リー・チョンウェイがオリンピックの試合でフォアハンドを打つために踏み込む。'
+heroCredit: 'Antony Stanley / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lee_Chong_Wei,_Malaysia_(7758886922).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1992年5月、国全体が一瞬息を止めた。クアラルンプールのスタジアム・ネガラで、シデック（Sidek）三兄弟に率いられた若者たちのチームがインドネシアを破り、トマス杯を掲げた——そしてダトゥ・ラシド・シデックが言うように、「マレーシア中が沸き立ち、誰もがバドミントンをやりたがった」のだ。それから三十年、このトロフィーはいまだ戻ってきていない。マレーシアのバドミントンの物語は、初期の栄光、痛みを伴う不作、そして国の希望を双肩に背負ったひとり二人の王者の物語である。

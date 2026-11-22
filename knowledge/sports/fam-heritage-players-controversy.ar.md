@@ -81,6 +81,13 @@ relations:
 related: []
 keywords: ["التجنيس", "لاعبو الأصول", "FAM", "FIFA", "CAS", "Harimau Malaya", "وثائق مزورة", "المادة 22", "كأس آسيا 2027"]
 framework: explainer
+hero: '/media/sports/fam-heritage-players-controversy/hero.webp'
+heroAlt: 'حشد أصفر غفير من مشجعي هاريماو مالايا يملأ ملعب بوكيت جليل الوطني تحت لوحة النتائج التي تحمل شعار النمر الماليزي.'
+heroCredit: 'Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ultras_Malaya_in_Bukit_Jalil_Stadium,_2014_AFF_Championship_Final.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ارتدى سبعة لاعبين مولودين خارج البلاد قميص نمور مالايا (Harimau Malaya) في يونيو 2025. وبعد أقل من عام، أكّدت أعلى هيئة تحكيم رياضي في العالم أن الوثائق التي أهّلتهم للعب لماليزيا قد زُوِّرت. وأطلقت القضية سلسلةً من الإجراءات التأديبية للفيفا، واستئنافًا أمام محكمة التحكيم الرياضية (CAS)، وبلاغًا للشرطة في ماليزيا.

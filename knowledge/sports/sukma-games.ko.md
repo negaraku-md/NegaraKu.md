@@ -99,6 +99,13 @@ relations:
 related: []
 keywords: ["SUKMA", "Sukan Malaysia", "Majlis Sukan Negara", "Program Podium", "atlet remaja", "pembangunan sukan", "Institut Sukan Negara"]
 framework: explainer
+hero: '/media/sports/sukma-games/hero.webp'
+heroAlt: '말레이시아의 SUKMA 대회 개회식에서 각 주 선수단이 주 깃발과 이름 플래카드를 들고 있다.'
+heroCredit: 'UNIMAS Sarawak / Wikimedia Commons'
+heroLicense: 'CC BY 2.5'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 2년마다 수천 명의 청소년 선수가 개최 주의 경기장으로 행진해 들어옵니다 — 세계 메달을 위해서가 아니라 각자의 주의 명예를 위해서, 그리고 가장 재능 있는 이들에게는 국가 엘리트 무대로 가는 티켓을 위해서입니다. 그것이 SUKMA입니다.

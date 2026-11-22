@@ -90,6 +90,13 @@ relations:
 related: []
 keywords: ["squash", "Nicol David", "SRAM", "Malaysian squash", "Ng Eain Yow", "Sivasangari Subramaniam", "World Open"]
 framework: profile
+hero: '/media/sports/squash-in-malaysia-nicol-david/hero.webp'
+heroAlt: 'นิโคล เดวิด แชมป์สควอชชาวมาเลเซีย ยืดตัวตีลูกโฟร์แฮนด์ระหว่างการแข่งขันทัวร์นาเมนต์'
+heroCredit: 'stevecubbins / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Nicol_David_Hong_Kong_2.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 เป็นเวลาเก้าปีติดต่อกัน นักสควอชที่ดีที่สุดในโลกมาจากปีนัง Nicol David ไม่เพียงชนะในกีฬาประเภทเดี่ยวที่ประสบความสำเร็จที่สุดของมาเลเซีย เธอเขียนใหม่ว่าการครองในกีฬานี้มีหน้าตาอย่างไร ครองอันดับมือหนึ่งของโลก **108 เดือนติดต่อกัน** จนถึงเดือนกันยายน 2015 การครองที่ไม่ขาดตอนยาวนานที่สุดที่กีฬานี้เคยเห็น

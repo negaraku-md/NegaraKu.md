@@ -70,6 +70,13 @@ relations:
 related: []
 keywords: ["hari sukan negara", "HSN", "bulan sukan negara", "kementerian belia dan sukan", "negara bersukan", "gaya hidup aktif"]
 framework: explainer
+hero: '/media/sports/national-sports-day-malaysia/hero.webp'
+heroAlt: 'ฝูงนักวิ่งไหลผ่านอาคารสุลต่านอับดุล ซาหมัดที่เปิดไฟสว่างระหว่างการแข่งวิ่งถนนยามค่ำคืนในกัวลาลัมเปอร์'
+heroCredit: 'Klmarathon / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Pacers_Running.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ทุกวันเสาร์สัปดาห์ที่สองของเดือนตุลาคม สนาม สวนสาธารณะ และหอกีฬาทั่วมาเลเซียควรเต็มแน่น นั่นคือการออกแบบของวันกีฬาแห่งชาติ

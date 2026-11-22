@@ -93,6 +93,13 @@ keywords:
   - "pembiayaan atlet elit"
   - "Institut Sukan Negara Podium"
 framework: explainer
+hero: '/media/sports/national-sports-policy-podium-programme/hero.webp'
+heroAlt: 'นักยิมนาสติกที่คว้าเหรียญรางวัลยืนบนโพเดียมในการแข่งขันซีเกมส์กัวลาลัมเปอร์ 2017 ขณะที่นักกีฬามาเลเซียถือธงชาติ'
+heroCredit: 'U.S. Embassy Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Women%27s_Vault_Podium_at_the_2017_SEA_Games.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ทุกครั้งที่นักกีฬามาเลเซียก้าวขึ้นสู่โพเดียมโอลิมปิก มีสองระบบที่แตกต่างกันกำลังทำงานอยู่เบื้องหลังจริง ๆ ระบบหนึ่งพยายามชักชวนประชาชนทั้งหมดให้เคลื่อนไหว และอีกระบบหนึ่งทุ่มทรัพยากรมหาศาลให้แก่คนเพียงส่วนน้อยที่มีความสามารถชนะ ทั้งสองอยู่ภายใต้เอกสารนโยบายฉบับเดียวกัน แต่ได้รับทุนและวัดผลด้วยวิธีที่แตกต่างกันมาก

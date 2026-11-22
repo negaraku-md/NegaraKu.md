@@ -87,6 +87,13 @@ keywords:
   - "kedudukan hoki dunia FIH Malaysia"
   - "Piala Dunia hoki 1975 Kuala Lumpur"
 framework: history-culture
+hero: '/media/sports/field-hockey-malaysia/hero.webp'
+heroAlt: 'Des joueurs de hockey sur gazon courent après la balle lors d''un match de la Malaisie à la Coupe du monde de hockey.'
+heroCredit: 'Hans Peters for Anefo / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen,_Nederland_tegen_Maleisi_4-0,_Ties_Kruize_(rech,_Bestanddeelnr_926-6422.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Le 15 March 1975, un stade de Kuala Lumpur a vu l'Inde soulever la Coupe du monde masculine de hockey pour la seule fois de son histoire, et l'hôte n'était pas l'Inde, mais la Malaisie. Un demi-siècle plus tard, le même pays continue d'inviter chaque année les puissances mondiales du hockey à Ipoh. Le hockey sur gazon n'est peut-être pas le sport le plus populaire de Malaisie aujourd'hui, mais il pourrait bien être l'héritage sportif du pays le plus respecté sur le plan international.

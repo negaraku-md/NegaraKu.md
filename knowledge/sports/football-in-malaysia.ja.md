@@ -94,6 +94,13 @@ relations:
 related: []
 keywords: ["bola sepak malaysia", "piala malaysia", "harimau malaya", "FAM", "liga super", "AFF", "football malaysia"]
 framework: history-culture
+hero: '/media/sports/football-in-malaysia/hero.webp'
+heroAlt: '照明に照らされ観客で埋め尽くされたブキ・ジャリル国立競技場が、進行中のサッカーの試合を見下ろしている。'
+heroCredit: 'Phalinn Ooi / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1921年、シンガポールはマラヤで行われた新しいサッカー大会の決勝でスランゴールを2対1で破った。それから1世紀以上を経た今も、その大会——現在はマレーシアカップとして知られる——は、この国で最も愛されるスポーツにおける最も権威ある栄冠であり続けている。
