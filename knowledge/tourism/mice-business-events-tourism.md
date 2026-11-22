@@ -80,6 +80,13 @@ relations:
 related: ["penang-george-town-visitor-guide", "tourist-safety-health-practical-tips"]
 keywords: ["MICE Malaysia", "business events", "MyCEB", "convention bureau", "KLCC", "MITEC", "Borneo Convention Centre Kuching", "exhibitions"]
 framework: profile
+hero: '/media/tourism/mice-business-events-tourism/hero.webp'
+heroAlt: 'The Kuala Lumpur Convention Centre at night, its wave-shaped roof and glass facade lit warmly above a wet paved forecourt with slanted steel columns.'
+heroCredit: 'martiniko / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_convention_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 When 3.2 million delegates fly in for a conference, they book hotels, hire translators, fill restaurants and sign deals — and Malaysia has spent more than a decade building the venues and the bureau to capture them.

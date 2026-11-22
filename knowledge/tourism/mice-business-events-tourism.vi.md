@@ -81,6 +81,13 @@ relations:
 related: ["penang-george-town-visitor-guide", "tourist-safety-health-practical-tips"]
 keywords: ["MICE Malaysia", "business events", "MyCEB", "convention bureau", "KLCC", "MITEC", "Borneo Convention Centre Kuching", "exhibitions"]
 framework: profile
+hero: '/media/tourism/mice-business-events-tourism/hero.webp'
+heroAlt: 'Trung tâm Hội nghị Kuala Lumpur về đêm, mái hình sóng và mặt kính được chiếu sáng ấm áp phía trên khoảng sân lát đá ẩm ướt với những cột thép nghiêng.'
+heroCredit: 'martiniko / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_convention_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Khi 3,2 triệu đại biểu bay đến dự một hội nghị, họ đặt phòng khách sạn, thuê phiên dịch, lấp đầy nhà hàng và ký kết các thỏa thuận — và Malaysia đã dành hơn một thập kỷ để xây dựng các địa điểm cùng cục điều phối nhằm thu hút họ.

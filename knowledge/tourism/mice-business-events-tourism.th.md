@@ -81,6 +81,13 @@ relations:
 related: ["penang-george-town-visitor-guide", "tourist-safety-health-practical-tips"]
 keywords: ["MICE Malaysia", "business events", "MyCEB", "convention bureau", "KLCC", "MITEC", "Borneo Convention Centre Kuching", "exhibitions"]
 framework: profile
+hero: '/media/tourism/mice-business-events-tourism/hero.webp'
+heroAlt: 'ศูนย์การประชุมกัวลาลัมเปอร์ยามค่ำคืน หลังคาทรงคลื่นและผนังกระจกส่องแสงอบอุ่นเหนือลานหน้าปูหินเปียกที่มีเสาเหล็กเอียง'
+heroCredit: 'martiniko / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_convention_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 เมื่อผู้แทน 3.2 ล้านคนบินมาร่วมการประชุม พวกเขาจองโรงแรม ว่าจ้างล่าม เติมเต็มร้านอาหาร และลงนามในข้อตกลง และมาเลเซียได้ใช้เวลากว่าทศวรรษในการสร้างสถานที่จัดงานและสำนักงานเพื่อดึงดูดพวกเขาเหล่านั้น

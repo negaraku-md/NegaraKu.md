@@ -98,6 +98,13 @@ relations:
 related: []
 keywords: ["Malaysia visa", "MDAC", "Malaysia Digital Arrival Card", "eVISA Malaysia", "MYVISA", "visa-free Malaysia", "Malaysia entry requirements", "autogate Malaysia", "passport validity Malaysia"]
 framework: rules
+hero: '/media/tourism/malaysia-entry-visa-requirements/hero.webp'
+heroAlt: 'கோலாலம்பூர் சர்வதேச விமான நிலையத்தின் முதன்மை முனையத்தின் பிரகாசமான உட்புற மண்டபம், வளைந்த மரக் கூரை, வரி-இல்லா கடைகள் மற்றும் பயணப் பெட்டிகளுடன் நடக்கும் பயணிகள்.'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_main_terminal_building,_KLIA,_2023_(01).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 நீங்கள் விமானத்தை முன்பதிவு செய்து, பையைக் கட்டி, வாயிலில் நிற்கும் போதுதான் அந்தக் கேள்வி வந்து விழுகிறது: நீங்கள் வருவதற்கு முன் மலேசியா உங்களிடம் எதையாவது எதிர்பார்க்கிறதா? பெரும்பாலான பயணிகளுக்கு இந்த ஆச்சரியம் இருபுறமும் வெட்டுகிறது — உங்களுக்குப் பெரும்பாலும் விசா தேவையில்லை, ஆனால் MDAC என்று அழைக்கப்படும் ஒரு சிறிய இணையப் படிவத்தை நீங்கள் கிட்டத்தட்ட நிச்சயமாகத் தாக்கல் செய்ய வேண்டும், அந்த இரண்டையும் குழப்பிக்கொள்வதுதான் ஒரு மன அழுத்தமான வருகை மண்டபத்துக்கு வழிவகுக்கும் விரைவான வழி.

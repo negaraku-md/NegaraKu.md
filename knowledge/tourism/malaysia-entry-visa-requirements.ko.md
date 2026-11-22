@@ -98,6 +98,13 @@ relations:
 related: []
 keywords: ["Malaysia visa", "MDAC", "Malaysia Digital Arrival Card", "eVISA Malaysia", "MYVISA", "visa-free Malaysia", "Malaysia entry requirements", "autogate Malaysia", "passport validity Malaysia"]
 framework: rules
+hero: '/media/tourism/malaysia-entry-visa-requirements/hero.webp'
+heroAlt: '쿠알라룸푸르 국제공항 메인 터미널의 밝은 실내 콘코스. 곡선형 목재 천장, 면세점, 짐을 들고 걷는 여행자들이 보인다.'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_main_terminal_building,_KLIA,_2023_(01).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 항공편을 예약하고, 가방을 싸고, 탑승구에 이르러서야 비로소 이런 질문이 떠오릅니다. 말레이시아는 도착 전에 내게서 무언가를 요구하는가? 대부분의 여행자에게 이 의외의 사실은 양쪽으로 작용합니다 — 아마 비자는 필요 없겠지만, MDAC라는 작은 온라인 양식은 거의 틀림없이 제출해야 하며, 이 둘을 혼동하는 것이 스트레스 가득한 입국장으로 가는 가장 빠른 길입니다.

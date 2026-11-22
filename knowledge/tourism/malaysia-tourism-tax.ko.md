@@ -79,6 +79,13 @@ relations:
 related: ["sales-and-service-tax"]
 keywords: ["tourism tax", "TTx", "Malaysia", "MyTTx", "RM10 per room", "DPSP", "hotel tax", "RMCD"]
 framework: rules
+hero: '/media/tourism/malaysia-tourism-tax/hero.webp'
+heroAlt: '밤의 쿠알라룸푸르 스카이라인. 불 밝힌 사무실과 호텔 건물 뒤로 조명을 받은 쌍둥이 페트로나스 트윈타워가 솟아 있고, 빛나는 Solaris Mont Kiara 간판이 보인다.'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:57_Kuala_Lumpur_skyline_with_Mont_Kiara_and_Petronas_Towers_by_night.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 외국 여권을 소지하고 쿠알라룸푸르(Kuala Lumpur)의 거의 모든 호텔에 체크인하면 청구서에 흥미로운 항목이 하나 나타납니다. 투숙한 매 박마다 정액 RM10입니다. 이것이 말레이시아의 관광세(TTx)로, 여행자가 다른 나라에서 접하는 비율 기반 호텔세와는 상당히 다르게 작동하는 작고 고정된 부과금입니다.

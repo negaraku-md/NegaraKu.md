@@ -81,6 +81,13 @@ relations:
 related: ["penang-george-town-visitor-guide", "tourist-safety-health-practical-tips"]
 keywords: ["MICE Malaysia", "business events", "MyCEB", "convention bureau", "KLCC", "MITEC", "Borneo Convention Centre Kuching", "exhibitions"]
 framework: profile
+hero: '/media/tourism/mice-business-events-tourism/hero.webp'
+heroAlt: 'இரவில் கோலாலம்பூர் மாநாட்டு மையம், அதன் அலை வடிவக் கூரையும் கண்ணாடி முகப்பும் சாய்ந்த எஃகு தூண்கள் கொண்ட ஈரமான கற்தள முற்றத்திற்கு மேல் சூடான ஒளியில் மின்னுகிறது.'
+heroCredit: 'martiniko / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_convention_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ஒரு மாநாட்டிற்காக 3.2 மில்லியன் பிரதிநிதிகள் விமானத்தில் வரும்போது, அவர்கள் விடுதிகளை முன்பதிவு செய்கிறார்கள், மொழிபெயர்ப்பாளர்களை அமர்த்துகிறார்கள், உணவகங்களை நிரப்புகிறார்கள், ஒப்பந்தங்களில் கையெழுத்திடுகிறார்கள் — மேலும் அவர்களைப் பிடித்துக்கொள்வதற்கான மையங்களையும் பணியகத்தையும் கட்டியெழுப்ப மலேசியா ஒரு தசாப்தத்திற்கும் மேலாக செலவிட்டுள்ளது.

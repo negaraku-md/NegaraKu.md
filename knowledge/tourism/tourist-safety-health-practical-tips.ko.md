@@ -74,6 +74,13 @@ relations:
 related: ["getting-around-malaysia"]
 keywords: ["Malaysia travel tips", "999 emergency Malaysia", "Malaysia SIM card tourist", "Malaysia monsoon season", "Malaysia travel vaccinations", "tipping in Malaysia"]
 framework: explainer
+hero: '/media/tourism/tourist-safety-health-practical-tips/hero.webp'
+heroAlt: '밤의 쿠알라룸푸르 프탈링 거리. 붉은 등이 걸려 있고, 지붕 덮인 상점가 사이에서 사람들이 불 밝힌 과일 수레와 시장 노점을 둘러보고 있다.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur,_24_March_2019.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 착륙했고, 시차에 지쳤으며, 휴대전화에는 신호가 잡히지 않습니다. 완벽한 나시 르막(nasi lemak)을 걱정하기 전에, 지루하지만 중요한 것들을 먼저 정리하십시오 — 작동하는 SIM, 알맞은 비상 전화번호, 그리고 하늘이 곧 열릴지 아는 것. 다음은 검증된 짧은 목록입니다.

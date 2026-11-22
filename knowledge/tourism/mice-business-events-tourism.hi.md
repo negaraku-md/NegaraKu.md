@@ -81,6 +81,13 @@ relations:
 related: ["penang-george-town-visitor-guide", "tourist-safety-health-practical-tips"]
 keywords: ["MICE मलेशिया", "MICE Malaysia", "व्यावसायिक आयोजन", "MyCEB", "सम्मेलन ब्यूरो", "KLCC", "MITEC", "Borneo Convention Centre Kuching"]
 framework: profile
+hero: '/media/tourism/mice-business-events-tourism/hero.webp'
+heroAlt: 'रात में कुआलालंपुर कन्वेंशन सेंटर, जिसकी लहर-आकार की छत और काँच का अग्रभाग गर्म रोशनी में चमक रहा है, नीचे तिरछे इस्पात स्तंभों वाला गीला पक्का अग्रप्रांगण है।'
+heroCredit: 'martiniko / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_convention_night.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 जब 3.2 मिलियन प्रतिनिधि किसी सम्मेलन के लिए उड़ान भरकर आते हैं, तो वे होटल बुक करते हैं, अनुवादक नियुक्त करते हैं, रेस्तराँ भरते हैं और सौदे करते हैं — और मलेशिया ने एक दशक से अधिक समय उन्हें पकड़ने के लिए स्थल और ब्यूरो बनाने में बिताया है।

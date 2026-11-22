@@ -98,6 +98,13 @@ relations:
 related: []
 keywords: ["تأشيرة ماليزيا", "Malaysia visa", "MDAC", "Malaysia Digital Arrival Card", "eVISA Malaysia", "MYVISA", "الدخول دون تأشيرة إلى ماليزيا", "شروط الدخول إلى ماليزيا", "autogate Malaysia", "صلاحية جواز السفر"]
 framework: rules
+hero: '/media/tourism/malaysia-entry-visa-requirements/hero.webp'
+heroAlt: 'بهو داخليّ مضيء في المبنى الرئيسيّ لمطار كوالالمبور الدوليّ، بسقف خشبيّ منحنٍ ومتاجر السوق الحرّة ومسافرين يسيرون حاملين أمتعتهم.'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_main_terminal_building,_KLIA,_2023_(01).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 حجزت الرحلة، وحزمت الحقيبة، وعند البوابة فقط يحضر السؤال: هل تريد ماليزيا شيئاً منك قبل أن تصل؟ بالنسبة إلى معظم المسافرين، تأتي المفاجأة في اتجاهين — فأنت على الأرجح لا تحتاج إلى تأشيرة، لكنك شبه مؤكَّد تحتاج إلى تعبئة استمارة صغيرة عبر الإنترنت اسمها MDAC، والخلط بين الاثنين هو أسرع طريق إلى قاعة وصول مرهِقة.

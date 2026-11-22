@@ -79,6 +79,13 @@ relations:
 related: ["sales-and-service-tax"]
 keywords: ["impuesto de turismo", "TTx", "Malasia", "MyTTx", "RM10 por habitación", "DPSP", "impuesto hotelero", "RMCD"]
 framework: rules
+hero: '/media/tourism/malaysia-tourism-tax/hero.webp'
+heroAlt: 'El perfil urbano de Kuala Lumpur de noche, con las iluminadas Torres Gemelas Petronas alzándose tras edificios de oficinas y hoteles encendidos y un letrero luminoso de Solaris Mont Kiara.'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:57_Kuala_Lumpur_skyline_with_Mont_Kiara_and_Petronas_Towers_by_night.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Haga el check-in en casi cualquier hotel de Kuala Lumpur con un pasaporte extranjero y aparecerá una línea curiosa en la factura: RM10, fijos, por cada noche que se alojó. Ese es el impuesto de turismo de Malasia (TTx) — un gravamen pequeño y fijo que se comporta de forma muy distinta de los impuestos hoteleros basados en porcentajes que los viajeros encuentran en otros lugares.

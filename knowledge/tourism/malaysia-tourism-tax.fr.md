@@ -79,6 +79,13 @@ relations:
 related: ["sales-and-service-tax"]
 keywords: ["taxe de tourisme", "TTx", "Malaisie", "MyTTx", "RM10 par chambre", "DPSP", "taxe hôtelière", "RMCD"]
 framework: rules
+hero: '/media/tourism/malaysia-tourism-tax/hero.webp'
+heroAlt: 'La ligne d''horizon de Kuala Lumpur la nuit, avec les tours jumelles Petronas illuminées s''élevant derrière des immeubles de bureaux et des hôtels éclairés et une enseigne lumineuse Solaris Mont Kiara.'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:57_Kuala_Lumpur_skyline_with_Mont_Kiara_and_Petronas_Towers_by_night.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Enregistrez-vous dans presque n'importe quel hôtel de Kuala Lumpur avec un passeport étranger et une ligne curieuse apparaît sur la note : RM10, forfaitaires, pour chaque nuit passée. C'est la taxe de tourisme de Malaisie (TTx) — un petit prélèvement fixe qui se comporte très différemment des taxes hôtelières fondées sur un pourcentage que les voyageurs rencontrent ailleurs.

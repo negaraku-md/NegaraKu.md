@@ -74,6 +74,13 @@ relations:
 related: ["getting-around-malaysia"]
 keywords: ["Malaysia travel tips", "999 emergency Malaysia", "Malaysia SIM card tourist", "Malaysia monsoon season", "Malaysia travel vaccinations", "tipping in Malaysia"]
 framework: explainer
+hero: '/media/tourism/tourist-safety-health-practical-tips/hero.webp'
+heroAlt: 'இரவில் கோலாலம்பூரில் Petaling Street, சிவப்பு லாந்தர்களால் அலங்கரிக்கப்பட்டு, கூரையிட்ட கடை வீடுகளுக்கு இடையே ஒளிரும் பழ வண்டி மற்றும் சந்தைக் கடைகளை மக்கள் பார்வையிடுகின்றனர்.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur,_24_March_2019.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 நீங்கள் தரையிறங்கிவிட்டீர்கள், நேர வித்தியாசத்தால் சோர்வாக இருக்கிறீர்கள், உங்கள் தொலைபேசியிலோ சிக்னல் இல்லை. அந்தச் சரியான நாசி லெமாக்கைப் பற்றிக் கவலைப்படுவதற்கு முன், சலிப்பானாலும் முக்கியமான விஷயங்களைச் செய்து முடியுங்கள் — இயங்கும் ஒரு SIM, சரியான அவசர எண், மற்றும் வானம் திறக்கப் போகிறதா என்பதை அறிவது. இதோ சரிபார்க்கப்பட்ட சுருக்கப் பட்டியல்.

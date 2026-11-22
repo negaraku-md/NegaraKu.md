@@ -79,6 +79,13 @@ relations:
 related: ["sales-and-service-tax"]
 keywords: ["tourism tax", "TTx", "Malaysia", "MyTTx", "RM10 per room", "DPSP", "hotel tax", "RMCD"]
 framework: rules
+hero: '/media/tourism/malaysia-tourism-tax/hero.webp'
+heroAlt: 'Đường chân trời Kuala Lumpur về đêm, với tháp đôi Petronas rực sáng vươn lên sau các tòa nhà văn phòng và khách sạn sáng đèn cùng biển hiệu Solaris Mont Kiara phát sáng.'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:57_Kuala_Lumpur_skyline_with_Mont_Kiara_and_Petronas_Towers_by_night.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Nhận phòng tại gần như bất kỳ khách sạn nào ở Kuala Lumpur bằng một hộ chiếu nước ngoài và một dòng kỳ lạ xuất hiện trên hóa đơn: RM10, cố định, cho mỗi đêm bạn ở lại. Đó là thuế du lịch (TTx) của Malaysia — một khoản thu nhỏ, cố định hành xử rất khác so với các loại thuế khách sạn dựa trên phần trăm mà du khách gặp ở nơi khác.

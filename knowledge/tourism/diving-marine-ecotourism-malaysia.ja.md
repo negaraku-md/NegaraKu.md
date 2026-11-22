@@ -77,6 +77,13 @@ visitFacts:
   permit: 'Sipadanは公認業者だけが保有する1日ごとの上限付き許可枠で運用されるため、直接購入はできず、割当を持つ業者を通じて予約する必要があり、連邦（漁業局）の海洋公園は代わりに桟橋で徴収される保全料を課す。'
   watch: 'Sipadanは直接予約できず、少なくともAdvanced Open Waterの認定が必要で、その人数枠とダイビング規則は随時改定されるため、計画前に現在の制限を業者に確認すること。'
   next: '現在の料金、許可、人数枠は、半島の公園についてはDepartment of Fisheries Malaysiaで、SipadanについてはSabah Parksで確認すること。'
+hero: '/media/tourism/diving-marine-ecotourism-malaysia/hero.webp'
+heroAlt: 'シパダンの水中風景。サンゴ礁のそばで銀色の魚の大群が密集して渦を巻き、礁にはオレンジ色のハナダイがいて、青い水を通して差し込む陽光に照らされている。'
+heroCredit: 'Johnny Chen / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 マレーシアで最も澄んだ海は、同時に最もたどり着きにくい：[シパダン（Sipadan）](/ja/tourism/sipadan-and-semporna)の壁に飛び込むには、いくら金を積んでも直接は買えない政府の許可が必要だ。この一点が、この国のダイブ観光の運営のされ方を言い尽くしている——立ち入りは配給され、値付けされ、そしてあなたがどの海に潜り込みたいかに応じて、二つのまったく異なる当局に分けられている。

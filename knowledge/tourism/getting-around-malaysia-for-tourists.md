@@ -118,6 +118,13 @@ relations:
 related: []
 keywords: ["getting around Malaysia", "KLIA Ekspres", "KTM ETS train", "domestic flights Malaysia", "AirBorneo", "Grab Malaysia", "Malaysia ferry", "driving in Malaysia", "Touch n Go"]
 framework: explainer
+hero: '/media/tourism/getting-around-malaysia-for-tourists/hero.webp'
+heroAlt: 'A traveller with a wheeled suitcase stands at a pink KLIA Ekspres airport-train ticket counter in KL Sentral station, where a staff member serves him through the glass.'
+heroCredit: 'Fabio Achilli from Milano, Italy / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLIA_Ekspres_Train_Ticket_Counter,_KL_Sentral,_Kuala_Lumpur_(14968236330).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 You land at Kuala Lumpur International Airport at midnight, jet-lagged, and the taxi touts are already circling. The good news: Malaysia has one of the most tourist-friendly transport systems in Southeast Asia, and you can skip the hassle entirely — a fast, fixed-price airport train, a phone app that summons a metered car, and cheap domestic flights that make Borneo a weekend hop. The trick is knowing which mode to reach for, and when.

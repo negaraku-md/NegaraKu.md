@@ -80,6 +80,13 @@ relations:
 related: []
 keywords: ["Tourism Malaysia", "MOTAC", "Malaysia Tourism Promotion Board", "Sarawak Tourism Board", "Sabah Tourism Board", "Penang Global Tourism", "tourism licensing Malaysia"]
 framework: profile
+hero: '/media/tourism/tourism-malaysia-and-tourism-agencies/hero.webp'
+heroAlt: 'A stone monument reading ''Pusat Pelancongan Malaysia / Malaysia Tourism Centre'' with the MaTiC hibiscus logo, above a tiered pot fountain framed by palm trees.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Malaysia-Tourism_Centre-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 When a "Malaysia Truly Asia" advert catches your eye, one statutory body paid for it — but a different ministry decides whether the tour operator behind your trip is even allowed to sell it. Malaysian tourism runs on a division of labour, and knowing who does what saves a lot of confusion.

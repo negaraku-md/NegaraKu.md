@@ -81,6 +81,13 @@ relations:
 related: []
 keywords: ["Tourism Malaysia", "MOTAC", "المجلس الماليزي لترويج السياحة", "مجلس سياحة ساراواك", "مجلس سياحة صباح", "ترخيص السياحة في ماليزيا", "Malaysia Tourism Promotion Board", "Sarawak Tourism Board", "Sabah Tourism Board", "Penang Global Tourism", "tourism licensing Malaysia"]
 framework: profile
+hero: '/media/tourism/tourism-malaysia-and-tourism-agencies/hero.webp'
+heroAlt: 'نصب حجريّ كُتب عليه ''Pusat Pelancongan Malaysia / Malaysia Tourism Centre'' مع شعار الكركديه الخاصّ بـ MaTiC، فوق نافورة على شكل جرار متدرّجة تحيط بها أشجار النخيل.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Malaysia-Tourism_Centre-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 عندما يلفت نظرَك إعلان «Malaysia Truly Asia»، تكون هيئة قانونية واحدة قد دفعت ثمنه — لكن وزارة مختلفة هي من تقرر ما إذا كان مشغّل الرحلات الذي يقف خلف رحلتك مسموحاً له أصلاً ببيعها. تقوم السياحة الماليزية على تقسيم للعمل، ومعرفة الجهة المسؤولة عن كل مهمة توفّر كثيراً من اللبس.

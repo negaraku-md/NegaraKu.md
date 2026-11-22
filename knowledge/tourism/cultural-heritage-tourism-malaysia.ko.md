@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["Malaysia UNESCO World Heritage", "heritage tourism Malaysia", "homestay programme Malaysia", "George Town Melaka", "mosque etiquette Malaysia", "cultural tourism"]
 framework: explainer
+hero: '/media/tourism/cultural-heritage-tourism-malaysia/hero.webp'
+heroAlt: '조지타운의 좁은 거리. 색칠된 오래된 상점가 건물, 붉은 등, 바틱 회화 박물관 간판이 늘어서 있고, 오각기 보행로를 따라 기념품 노점과 관광객이 있다.'
+heroCredit: 'philip.mallis / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 한 나라 안의 여섯 곳이 이제 유네스코의 인증을 받고 있습니다 — 오전에는 수백 년 된 네덜란드 식민지 시대 광장을 걷고, 비행기로 잠깐 이동해 광대한 보르네오 동굴 방 안에 설 수 있습니다. 말레이시아의 유산은 바라보는 박물관이 아닙니다. 먹고, 자고, 기도하며 지나갈 수 있는 살아 있는 거리입니다.

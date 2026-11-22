@@ -118,6 +118,13 @@ relations:
 related: []
 keywords: ["getting around Malaysia", "KLIA Ekspres", "KTM ETS train", "domestic flights Malaysia", "AirBorneo", "Grab Malaysia", "Malaysia ferry", "driving in Malaysia", "Touch n Go"]
 framework: explainer
+hero: '/media/tourism/getting-around-malaysia-for-tourists/hero.webp'
+heroAlt: 'キャスター付きスーツケースを持った旅行者が、KLセントラル駅のピンク色のKLIAエクスプレス空港鉄道の切符売り場に立ち、係員がガラス越しに対応している。'
+heroCredit: 'Fabio Achilli from Milano, Italy / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLIA_Ekspres_Train_Ticket_Counter,_KL_Sentral,_Kuala_Lumpur_(14968236330).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 あなたは真夜中に時差ぼけのままクアラルンプール国際空港に降り立ち、客引きのタクシー運転手はすでに周りを取り囲んでいる。良い知らせは、マレーシアが東南アジアで最も旅行者にやさしい交通システムの一つを備えていて、そうした煩わしさを完全に避けられるということだ——速くて定額の空港鉄道、メーター制の車を呼び出せるスマートフォンアプリ、そしてボルネオを週末旅行にしてしまう安価な国内線。コツは、どの交通手段を、いつ選べばよいかを知ることだ。

@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["Malaysia UNESCO World Heritage", "heritage tourism Malaysia", "homestay programme Malaysia", "George Town Melaka", "mosque etiquette Malaysia", "cultural tourism"]
 framework: explainer
+hero: '/media/tourism/cultural-heritage-tourism-malaysia/hero.webp'
+heroAlt: 'ถนนแคบในจอร์จทาวน์ที่เรียงรายด้วยตึกแถวเก่าทาสี โคมแดง และป้ายพิพิธภัณฑ์จิตรกรรมบาติก มีร้านขายของที่ระลึกและนักท่องเที่ยวตามทางเดินห้าฟุต'
+heroCredit: 'philip.mallis / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 หกแห่งในประเทศเดียวได้รับตราประทับจาก UNESCO แล้ว และคุณสามารถเดินชมจัตุรัสสไตล์อาณานิคมดัตช์เก่าแก่หลายศตวรรษในตอนเช้า แล้วยืนอยู่ในห้องถ้ำอันกว้างใหญ่ของเกาะบอร์เนียวหลังบินไปเพียงเที่ยวเดียว มรดกของมาเลเซียไม่ใช่พิพิธภัณฑ์ที่คุณเพียงมองดู หากเป็นถนนที่มีชีวิตซึ่งคุณสามารถกิน นอน และสวดภาวนาผ่านไปได้

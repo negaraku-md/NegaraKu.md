@@ -13,7 +13,8 @@ const UA = 'NegaraKuBot/1.0 (https://negaraku.md; ub image sourcing)';
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 const clean = u => String(u).split('?')[0];
 async function dl(url) { for (let i = 0; i < 5; i++) { try { const r = await fetch(url, { headers: { 'User-Agent': UA, 'Referer': 'https://commons.wikimedia.org/' }, signal: AbortSignal.timeout(90000) }); if (r.ok) return Buffer.from(await r.arrayBuffer()); } catch {} await sleep(1500 * (i + 1)); } return null; }
-async function toWebp(buf, out) { let q = 82, o; for (; q >= 30; q -= 6) { o = await sharp(buf).resize(1600, 900, { fit: 'cover', position: 'attention' }).modulate({ saturation: 1.04, brightness: 1.02 }).webp({ quality: q }).toBuffer(); if (o.length <= 180 * 1024) break; } fs.writeFileSync(out, o); return Math.round(o.length / 1024); }
+async function toWebp(buf, out, position = 'attention') { let q = 82, o; for (; q >= 30; q -= 6) { o = await sharp(buf).resize(1600, 900, { fit: 'cover', position }).modulate({ saturation: 1.04, brightness: 1.02 }).webp({ quality: q }).toBuffer(); if (o.length <= 180 * 1024) break; } fs.writeFileSync(out, o); return Math.round(o.length / 1024); }
+const FORCE = process.argv.includes('--force');
 const data = JSON.parse(fs.readFileSync(DATA, 'utf8'));
 const meta = {};
 for (const [key, set] of Object.entries(data)) {
@@ -22,8 +23,14 @@ for (const [key, set] of Object.entries(data)) {
   const entry = { hero: null, body: [] };
   const jobs = [['hero', set.hero], ...(set.body || []).map((b, i) => [`body-${i + 1}`, b])];
   for (const [name, im] of jobs) { if (!im?.url) continue;
-    const buf = await dl(clean(im.url)); if (!buf) { console.log('DL FAIL', key, name); continue; }
-    const kb = await toWebp(buf, path.join(dir, `${name}.webp`));
+    const outFile = path.join(dir, `${name}.webp`);
+    let kb;
+    if (fs.existsSync(outFile) && !FORCE) {           // idempotent: skip re-download of already-built images
+      kb = Math.round(fs.statSync(outFile).size / 1024);
+    } else {
+      const buf = await dl(clean(im.url)); if (!buf) { console.log('DL FAIL', key, name); continue; }
+      kb = await toWebp(buf, outFile, im.position);
+    }
     const rec = { file: `/media/${cat}/${slug}/${name}.webp`, credit: `${im.by} / Wikimedia Commons`, license: im.license, source: im.page, kind: im.kind || 'actual', origin: 'third-party', subject: im.subject || '', alt: im.alt, kb };
     if (name === 'hero') entry.hero = rec; else entry.body.push(rec);
     console.log(`${key}/${name}  ${kb}KB  (${im.by}, ${im.license})`);

@@ -80,6 +80,13 @@ relations:
 related: ["tourism"]
 keywords: ["medical tourism Malaysia", "healthcare travel", "MHTC", "Malaysia Healthcare Travel Council", "JCI hospitals Malaysia", "IVF Malaysia", "cardiac care Malaysia"]
 framework: profile
+hero: '/media/tourism/medical-tourism-malaysia/hero.webp'
+heroAlt: '吉隆坡 Prince Court Medical Centre 的弧形屋顶建筑，外墙上标有名称，前方有一块绿色路牌和急诊科招牌。'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 一个印尼家庭飞抵槟城做心脏搭桥手术，一对来自海湾地区的夫妇前来做试管婴儿，一位来自澳大利亚的退休人士预约了一次全身筛查——在自己国内做要贵上三倍。他们共同构成了一个低调产业的一部分，这个产业在一年之内就为马来西亚带来了逾 160 万人——不是来观光，而是来求医康复。

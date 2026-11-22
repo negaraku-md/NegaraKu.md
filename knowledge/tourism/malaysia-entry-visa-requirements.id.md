@@ -98,6 +98,13 @@ relations:
 related: []
 keywords: ["Malaysia visa", "MDAC", "Malaysia Digital Arrival Card", "eVISA Malaysia", "MYVISA", "visa-free Malaysia", "Malaysia entry requirements", "autogate Malaysia", "passport validity Malaysia"]
 framework: rules
+hero: '/media/tourism/malaysia-entry-visa-requirements/hero.webp'
+heroAlt: 'Concourse interior yang terang di terminal utama Bandara Internasional Kuala Lumpur, dengan langit-langit kayu melengkung, toko bebas bea, dan pelancong berjalan membawa bagasi.'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_main_terminal_building,_KLIA,_2023_(01).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Anda sudah memesan penerbangan, mengemas tas, dan baru di pintu keberangkatan pertanyaan itu muncul: apakah Malaysia memerlukan sesuatu dari Anda sebelum Anda tiba? Bagi sebagian besar pelancong, kejutannya terjadi dua arah — Anda mungkin tidak memerlukan visa, tetapi hampir pasti Anda perlu mengisi satu formulir daring kecil bernama MDAC, dan membingungkan keduanya adalah cara tercepat untuk sampai ke aula kedatangan yang penuh tekanan.

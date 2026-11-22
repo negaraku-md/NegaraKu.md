@@ -1075,7 +1075,7 @@
   "arts-culture/national-heritage-sites": {
     "hero": {
       "file": "/media/arts-culture/national-heritage-sites/hero.webp",
-      "credit": "Wikimedia Commons (CC0)",
+      "credit": "Wikimedia Commons (CC0) / Wikimedia Commons",
       "license": "CC0",
       "source": "https://commons.wikimedia.org/wiki/File:20190822_Sultan_Abdul_Samad_Building-10.jpg",
       "kind": "actual",
@@ -1582,7 +1582,7 @@
   "industries/automotive-industry": {
     "hero": {
       "file": "/media/industries/automotive-industry/hero.webp",
-      "credit": "Wikimedia Commons (CC0)",
+      "credit": "Wikimedia Commons (CC0) / Wikimedia Commons",
       "license": "CC0",
       "source": "https://commons.wikimedia.org/wiki/File:Proton_Saga_2019.jpg",
       "kind": "actual",
@@ -1749,7 +1749,7 @@
         "origin": "third-party",
         "subject": "Orange industrial robot arms palletizing packaged food on an automated factory line",
         "alt": "Several orange robotic arms palletizing yellow crates on an automated production line in a factory",
-        "kb": 218
+        "kb": 183
       },
       {
         "file": "/media/industries/manufacturing-industry-overview/body-2.webp",
@@ -1848,7 +1848,7 @@
       "origin": "third-party",
       "subject": "Oil-palm plantation covering the hills of Kunak District, Sabah, Malaysia",
       "alt": "Rows of mature oil palms blanketing hillsides beside a plantation road in Kunak, Sabah",
-      "kb": 184
+      "kb": 165
     },
     "body": [
       {
@@ -1959,7 +1959,7 @@
       "origin": "third-party",
       "subject": "Tapped rubber tree with latex running down the spiral cut into a collection cup, Malaysia",
       "alt": "A rubber tree with a fresh diagonal tapping cut, white latex dripping down the trunk into a black cup tied at its base",
-      "kb": 195
+      "kb": 168
     },
     "body": []
   },
@@ -1973,7 +1973,7 @@
       "origin": "third-party",
       "subject": "Macro of a decapped integrated-circuit die with fine circuitry and gold bond wires",
       "alt": "Extreme close-up of an integrated-circuit die showing intricate silver-and-purple on-chip circuitry, with thin gold bond wires fanning out to gold package leads",
-      "kb": 241
+      "kb": 168
     },
     "body": [
       {
@@ -2262,7 +2262,7 @@
   "business/doing-business-kuala-lumpur": {
     "hero": {
       "file": "/media/business/doing-business-kuala-lumpur/hero.webp",
-      "credit": "Wikimedia Commons (CC0)",
+      "credit": "Wikimedia Commons (CC0) / Wikimedia Commons",
       "license": "CC0",
       "source": "https://commons.wikimedia.org/wiki/File:PetronastowersKLCBD.jpg",
       "kind": "actual",
@@ -2521,7 +2521,7 @@
   "business/tun-razak-exchange-trx": {
     "hero": {
       "file": "/media/business/tun-razak-exchange-trx/hero.webp",
-      "credit": "Wikimedia Commons (CC0)",
+      "credit": "Wikimedia Commons (CC0) / Wikimedia Commons",
       "license": "CC0",
       "source": "https://commons.wikimedia.org/wiki/File:The_Exchange_106_with_other_buildings.jpg",
       "kind": "actual",
@@ -2533,7 +2533,7 @@
     "body": [
       {
         "file": "/media/business/tun-razak-exchange-trx/body-1.webp",
-        "credit": "Wikimedia Commons (CC0)",
+        "credit": "Wikimedia Commons (CC0) / Wikimedia Commons",
         "license": "CC0",
         "source": "https://commons.wikimedia.org/wiki/File:The_Exchange_106_20241022_-_full.jpg",
         "kind": "actual",
@@ -2602,7 +2602,7 @@
       "origin": "third-party",
       "subject": "The Leong San Tong Khoo Kongsi, the ornate Khoo clan association temple in George Town, Penang",
       "alt": "The elaborately carved Leong San Tong Khoo Kongsi clan house in Penang, its swooping tiled roof crowded with colourful ceramic dragons and figures, seen from the courtyard under a blue sky",
-      "kb": 217
+      "kb": 188
     },
     "body": [
       {
@@ -2951,7 +2951,7 @@
       },
       {
         "file": "/media/arts-culture/pongal/body-2.webp",
-        "credit": "Wikimedia Commons (CC0)",
+        "credit": "Wikimedia Commons (CC0) / Wikimedia Commons",
         "license": "CC0",
         "source": "https://commons.wikimedia.org/wiki/File:Pongal_pot_design.jpg",
         "kind": "representative",
@@ -3261,7 +3261,7 @@
   "technology/kl20-startup-ecosystem": {
     "hero": {
       "file": "/media/technology/kl20-startup-ecosystem/hero.webp",
-      "credit": "Wikimedia Commons (CC0)",
+      "credit": "Wikimedia Commons (CC0) / Wikimedia Commons",
       "license": "CC0",
       "source": "https://commons.wikimedia.org/wiki/File:KLCC_(Unsplash).jpg",
       "kind": "representative",
@@ -4605,7 +4605,7 @@
     "body": [
       {
         "file": "/media/government/ssm/body-1.webp",
-        "credit": "Wikimedia Commons (CC0)",
+        "credit": "Wikimedia Commons (CC0) / Wikimedia Commons",
         "license": "CC0",
         "source": "https://commons.wikimedia.org/wiki/File:KL_Sentral_1.jpg",
         "kind": "representative",
@@ -4681,5 +4681,131 @@
         "kb": 170
       }
     ]
+  },
+  "tourism/cultural-heritage-tourism-malaysia": {
+    "hero": {
+      "file": "/media/tourism/cultural-heritage-tourism-malaysia/hero.webp",
+      "credit": "philip.mallis / Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Armenian Street in the George Town UNESCO heritage quarter, Penang",
+      "alt": "A narrow George Town street lined with old painted shophouses, red lanterns and a Batik Painting Museum signboard, with souvenir stalls and tourists along the five-foot way.",
+      "kb": 175
+    },
+    "body": []
+  },
+  "tourism/diving-marine-ecotourism-malaysia": {
+    "hero": {
+      "file": "/media/tourism/diving-marine-ecotourism-malaysia/hero.webp",
+      "credit": "Johnny Chen / Wikimedia Commons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "underwater reef with a large school of fish at Sipadan",
+      "alt": "An underwater view at Sipadan of a dense swirling school of silver fish beside a coral reef with orange anthias, lit by sunrays filtering through blue water.",
+      "kb": 143
+    },
+    "body": []
+  },
+  "tourism/getting-around-malaysia-for-tourists": {
+    "hero": {
+      "file": "/media/tourism/getting-around-malaysia-for-tourists/hero.webp",
+      "credit": "Fabio Achilli from Milano, Italy / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:KLIA_Ekspres_Train_Ticket_Counter,_KL_Sentral,_Kuala_Lumpur_(14968236330).jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "traveller buying a ticket at the KLIA Ekspres airport-train counter in KL Sentral",
+      "alt": "A traveller with a wheeled suitcase stands at a pink KLIA Ekspres airport-train ticket counter in KL Sentral station, where a staff member serves him through the glass.",
+      "kb": 180
+    },
+    "body": []
+  },
+  "tourism/malaysia-entry-visa-requirements": {
+    "hero": {
+      "file": "/media/tourism/malaysia-entry-visa-requirements/hero.webp",
+      "credit": "Bahnfrend / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Interior_of_main_terminal_building,_KLIA,_2023_(01).jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "concourse inside the main terminal building of Kuala Lumpur International Airport",
+      "alt": "The bright interior concourse of Kuala Lumpur International Airport's main terminal, with a curved wooden ceiling, duty-free shops and travellers walking with luggage.",
+      "kb": 171
+    },
+    "body": []
+  },
+  "tourism/malaysia-tourism-tax": {
+    "hero": {
+      "file": "/media/tourism/malaysia-tourism-tax/hero.webp",
+      "credit": "Marek Ślusarczyk (Tupungato) / Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:57_Kuala_Lumpur_skyline_with_Mont_Kiara_and_Petronas_Towers_by_night.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Kuala Lumpur night skyline with the Petronas Towers and city buildings",
+      "alt": "The Kuala Lumpur skyline at night, with the illuminated twin Petronas Towers rising behind lit office and hotel buildings and a glowing Solaris Mont Kiara sign.",
+      "kb": 66
+    },
+    "body": []
+  },
+  "tourism/medical-tourism-malaysia": {
+    "hero": {
+      "file": "/media/tourism/medical-tourism-malaysia/hero.webp",
+      "credit": "Vano111ru / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "exterior of Prince Court Medical Centre, a private hospital in Kuala Lumpur",
+      "alt": "The curved-roofed building of Prince Court Medical Centre in Kuala Lumpur, with its name on the facade and a green road sign and Emergency signboard in front.",
+      "kb": 179
+    },
+    "body": []
+  },
+  "tourism/mice-business-events-tourism": {
+    "hero": {
+      "file": "/media/tourism/mice-business-events-tourism/hero.webp",
+      "credit": "martiniko / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:KLCC_convention_night.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Kuala Lumpur Convention Centre exterior lit at night",
+      "alt": "The Kuala Lumpur Convention Centre at night, its wave-shaped roof and glass facade lit warmly above a wet paved forecourt with slanted steel columns.",
+      "kb": 129
+    },
+    "body": []
+  },
+  "tourism/tourism-malaysia-and-tourism-agencies": {
+    "hero": {
+      "file": "/media/tourism/tourism-malaysia-and-tourism-agencies/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Malaysia-Tourism_Centre-01.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "entrance monument and signage of the Malaysia Tourism Centre (MaTiC) in Kuala Lumpur",
+      "alt": "A stone monument reading \"Pusat Pelancongan Malaysia / Malaysia Tourism Centre\" with the MaTiC hibiscus logo, above a tiered pot fountain framed by palm trees.",
+      "kb": 169
+    },
+    "body": []
+  },
+  "tourism/tourist-safety-health-practical-tips": {
+    "hero": {
+      "file": "/media/tourism/tourist-safety-health-practical-tips/hero.webp",
+      "credit": "Alexey Komarov / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur,_24_March_2019.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "evening street-market scene at Petaling Street, Kuala Lumpur",
+      "alt": "Petaling Street in Kuala Lumpur at night, hung with red lanterns, where people browse a lit fruit cart and market stalls between covered shophouses.",
+      "kb": 177
+    },
+    "body": []
   }
 }

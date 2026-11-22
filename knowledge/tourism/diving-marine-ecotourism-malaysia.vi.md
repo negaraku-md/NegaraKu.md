@@ -77,6 +77,13 @@ visitFacts:
   permit: 'Sipadan vận hành theo một hạn ngạch giấy phép hằng ngày có giới hạn chỉ do các nhà điều hành có giấy phép nắm giữ, nên bạn không thể tự mua trực tiếp mà phải đặt qua một nhà điều hành có phân bổ; trong khi đó các công viên biển liên bang (Cục Thủy sản) thu một khoản phí bảo tồn tại bến tàu.'
   watch: 'Bạn không thể đặt Sipadan trực tiếp và cần ít nhất chứng chỉ Advanced Open Water, và hạn ngạch cùng quy định lặn của nơi này được sửa đổi định kỳ, nên hãy xác nhận các giới hạn hiện tại với nhà điều hành của bạn trước khi lên kế hoạch.'
   next: 'Hãy xác nhận phí, giấy phép và hạn ngạch hiện tại với Cục Thủy sản Malaysia (Department of Fisheries) cho các công viên bán đảo và với Sabah Parks cho Sipadan.'
+hero: '/media/tourism/diving-marine-ecotourism-malaysia/hero.webp'
+heroAlt: 'Cảnh dưới nước ở Sipadan: một đàn cá bạc dày đặc xoáy tròn bên rạn san hô có cá anthias cam, được chiếu sáng bởi tia nắng xuyên qua làn nước xanh.'
+heroCredit: 'Johnny Chen / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Vùng nước trong nhất Malaysia cũng là nơi khó đến nhất: để thả mình xuống bức tường của [Sipadan](/vi/tourism/sipadan-and-semporna) bạn cần một giấy phép của chính phủ mà không số tiền nào cho phép bạn mua trực tiếp. Một dữ kiện đơn lẻ đó nắm bắt cách đất nước vận hành du lịch lặn biển của mình — việc tiếp cận được phân phối hạn chế, định giá, và chia giữa hai cơ quan rất khác nhau tùy thuộc vào vùng biển nào bạn muốn lặn xuống.

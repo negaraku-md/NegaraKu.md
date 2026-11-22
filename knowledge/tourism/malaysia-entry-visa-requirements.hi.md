@@ -98,6 +98,13 @@ relations:
 related: []
 keywords: ["मलेशिया वीज़ा", "Malaysia visa", "MDAC", "Malaysia Digital Arrival Card", "eVISA Malaysia", "MYVISA", "वीज़ा-मुक्त मलेशिया", "autogate Malaysia", "पासपोर्ट वैधता मलेशिया"]
 framework: rules
+hero: '/media/tourism/malaysia-entry-visa-requirements/hero.webp'
+heroAlt: 'कुआलालंपुर अंतरराष्ट्रीय हवाई अड्डे के मुख्य टर्मिनल का उज्ज्वल भीतरी कॉनकोर्स, जिसमें घुमावदार लकड़ी की छत, ड्यूटी-फ्री दुकानें और सामान के साथ चलते यात्री हैं।'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_main_terminal_building,_KLIA,_2023_(01).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 आपने उड़ान बुक की, बैग पैक किया, और केवल गेट पर जाकर सवाल उभरता है: क्या मलेशिया को आपके पहुँचने से पहले आपसे कुछ चाहिए? अधिकांश यात्रियों के लिए यह आश्चर्य दोनों तरफ़ से काटता है — आपको संभवतः वीज़ा की आवश्यकता नहीं है, लेकिन आपको लगभग निश्चित रूप से MDAC नामक एक छोटा ऑनलाइन फ़ॉर्म भरना है, और इन दोनों को आपस में मिला देना एक तनावपूर्ण आगमन हॉल तक पहुँचने का सबसे तेज़ रास्ता है।

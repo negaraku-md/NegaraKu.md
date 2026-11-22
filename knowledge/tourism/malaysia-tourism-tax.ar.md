@@ -79,6 +79,13 @@ relations:
 related: ["sales-and-service-tax"]
 keywords: ["ضريبة السياحة", "tourism tax", "TTx", "ماليزيا", "Malaysia", "MyTTx", "RM10 لكل غرفة", "DPSP", "ضريبة الفنادق", "RMCD"]
 framework: rules
+hero: '/media/tourism/malaysia-tourism-tax/hero.webp'
+heroAlt: 'أفق كوالالمبور ليلاً، حيث يرتفع برجا بتروناس التوأمان المضيئان خلف مباني المكاتب والفنادق المضاءة ولافتة Solaris Mont Kiara المتوهّجة.'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:57_Kuala_Lumpur_skyline_with_Mont_Kiara_and_Petronas_Towers_by_night.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 سجّل دخولك إلى أي فندق تقريباً في كوالالمبور بجواز سفر أجنبي وسيظهر سطر لافت على الفاتورة: RM10، ثابت، عن كل ليلة أقمتها. تلك هي ضريبة السياحة الماليزية (TTx) — رسم صغير ثابت يتصرف تصرفاً مختلفاً جداً عن ضرائب الفنادق القائمة على النسبة المئوية التي يصادفها المسافرون في أماكن أخرى.

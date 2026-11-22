@@ -98,6 +98,13 @@ relations:
 related: []
 keywords: ["Malaysia visa", "MDAC", "Malaysia Digital Arrival Card", "eVISA Malaysia", "MYVISA", "visa-free Malaysia", "Malaysia entry requirements", "autogate Malaysia", "passport validity Malaysia"]
 framework: rules
+hero: '/media/tourism/malaysia-entry-visa-requirements/hero.webp'
+heroAlt: '吉隆坡国际机场主航站楼明亮的室内大厅，有弧形木质天花板、免税店，以及携带行李走动的旅客。'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_main_terminal_building,_KLIA,_2023_(01).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 你订好了机票，收拾好了行李，直到登机口那一刻才想起这个问题：在你抵达之前，马来西亚是否需要你先办点什么？对大多数旅客来说，答案两头都出人意料——你多半不需要签证，但你几乎肯定得填一份叫作 MDAC 的小型在线表格，而把这两者混为一谈，正是让入境大厅变得手忙脚乱的最快方式。

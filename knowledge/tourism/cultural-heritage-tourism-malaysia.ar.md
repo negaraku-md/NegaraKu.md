@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["التراث العالمي لليونسكو في ماليزيا", "السياحة التراثية في ماليزيا", "برنامج الإقامة المنزلية في ماليزيا", "جورج تاون ملقا", "آداب المسجد في ماليزيا", "السياحة الثقافية", "Malaysia UNESCO World Heritage", "heritage tourism Malaysia", "homestay programme Malaysia", "George Town Melaka"]
 framework: explainer
+hero: '/media/tourism/cultural-heritage-tourism-malaysia/hero.webp'
+heroAlt: 'شارع ضيّق في جورج تاون تصطفّ على جانبيه بيوت المتاجر القديمة المطليّة والفوانيس الحمراء ولافتة متحف الرسم الباتيكي، مع أكشاك الهدايا التذكاريّة والسيّاح على طول ممرّ الأقدام الخمسة.'
+heroCredit: 'philip.mallis / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ستة مواقع في بلد واحد تحمل اليوم ختم اليونسكو — ويمكنك أن تمشي صباحًا في ساحة استعمارية هولندية عمرها قرون، وأن تقف داخل قاعة كهف بورنيّة شاسعة بعد رحلة طيران واحدة. تراث ماليزيا ليس متحفًا تنظر إليه؛ بل شارع حيّ يمكنك أن تأكل وتنام وتصلّي على طول أرجائه.

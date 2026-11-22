@@ -74,6 +74,13 @@ relations:
 related: ["getting-around-malaysia"]
 keywords: ["Malaysia travel tips", "999 emergency Malaysia", "Malaysia SIM card tourist", "Malaysia monsoon season", "Malaysia travel vaccinations", "tipping in Malaysia"]
 framework: explainer
+hero: '/media/tourism/tourist-safety-health-practical-tips/hero.webp'
+heroAlt: 'Petaling Street di Kuala Lumpur pada waktu malam, berhias tanglung merah, tempat orang ramai meninjau gerai buah bercahaya dan gerai pasar di antara rumah kedai berbumbung.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur,_24_March_2019.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Anda baru mendarat, anda keletihan akibat jet lag, dan telefon anda tidak menunjukkan sebarang isyarat. Sebelum anda risau tentang nasi lemak yang sempurna, uruskan perkara yang membosankan tetapi penting — SIM yang berfungsi, nombor kecemasan yang betul, dan mengetahui sama ada langit akan mencurah hujan. Berikut ialah senarai pendek yang disahkan.

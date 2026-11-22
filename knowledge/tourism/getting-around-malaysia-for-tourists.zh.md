@@ -119,6 +119,13 @@ relations:
 related: []
 keywords: ["getting around Malaysia", "KLIA Ekspres", "KTM ETS train", "domestic flights Malaysia", "AirBorneo", "Grab Malaysia", "Malaysia ferry", "driving in Malaysia", "Touch n Go"]
 framework: explainer
+hero: '/media/tourism/getting-around-malaysia-for-tourists/hero.webp'
+heroAlt: '一位拖着行李箱的旅客站在吉隆坡中央车站粉红色的 KLIA Ekspres 机场列车售票柜台前，一名职员隔着玻璃为他服务。'
+heroCredit: 'Fabio Achilli from Milano, Italy / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLIA_Ekspres_Train_Ticket_Counter,_KL_Sentral,_Kuala_Lumpur_(14968236330).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 你在午夜时分抵达吉隆坡国际机场，饱受时差之苦，而拉客的德士司机已经围了上来。好消息是：马来西亚拥有东南亚最适合游客的交通系统之一，你完全可以省去这些麻烦——一列快捷、定价固定的机场火车，一个能召来计费轿车的手机应用，以及让婆罗洲变成周末即可往返的廉价国内航班。诀窍在于知道该选哪种方式，以及何时选它。

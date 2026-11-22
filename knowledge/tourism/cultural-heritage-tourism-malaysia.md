@@ -76,6 +76,13 @@ relations:
 related: []
 keywords: ["Malaysia UNESCO World Heritage", "heritage tourism Malaysia", "homestay programme Malaysia", "George Town Melaka", "mosque etiquette Malaysia", "cultural tourism"]
 framework: explainer
+hero: '/media/tourism/cultural-heritage-tourism-malaysia/hero.webp'
+heroAlt: 'A narrow George Town street lined with old painted shophouses, red lanterns and a Batik Painting Museum signboard, with souvenir stalls and tourists along the five-foot way.'
+heroCredit: 'philip.mallis / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Six sites in one country now carry UNESCO's stamp — and you can walk a centuries-old Dutch colonial square in the morning and stand inside a vast Bornean cave chamber a flight away. Malaysia's heritage is not a museum you look at; it is a living street you can eat, sleep and pray your way through.

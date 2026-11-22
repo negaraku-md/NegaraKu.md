@@ -81,6 +81,13 @@ relations:
 related: []
 keywords: ["Tourism Malaysia", "MOTAC", "Malaysia Tourism Promotion Board", "Sarawak Tourism Board", "Sabah Tourism Board", "Penang Global Tourism", "tourism licensing Malaysia"]
 framework: profile
+hero: '/media/tourism/tourism-malaysia-and-tourism-agencies/hero.webp'
+heroAlt: 'อนุสรณ์หินสลักข้อความ ''Pusat Pelancongan Malaysia / Malaysia Tourism Centre'' พร้อมโลโก้ชบา MaTiC อยู่เหนือน้ำพุรูปไหซ้อนชั้นที่ล้อมรอบด้วยต้นปาล์ม'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Malaysia-Tourism_Centre-01.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 เมื่อโฆษณา "Malaysia Truly Asia" สะดุดตาคุณ องค์การตามกฎหมายหนึ่งจ่ายค่ามัน แต่กระทรวงอีกแห่งเป็นผู้ตัดสินว่าผู้ประกอบการทัวร์เบื้องหลังทริปของคุณได้รับอนุญาตให้ขายมันหรือไม่ การท่องเที่ยวมาเลเซียดำเนินด้วยการแบ่งงานกันทำ และการรู้ว่าใครทำอะไรช่วยลดความสับสนได้มาก

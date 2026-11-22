@@ -80,6 +80,13 @@ relations:
 related: ["tourism"]
 keywords: ["medical tourism Malaysia", "healthcare travel", "MHTC", "Malaysia Healthcare Travel Council", "JCI hospitals Malaysia", "IVF Malaysia", "cardiac care Malaysia"]
 framework: profile
+hero: '/media/tourism/medical-tourism-malaysia/hero.webp'
+heroAlt: '쿠알라룸푸르의 프린스 코트 메디컬 센터의 곡선 지붕 건물. 외벽에 이름이 적혀 있고, 앞에는 녹색 도로 표지판과 응급실 간판이 있다.'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 인도네시아 가족이 심장 우회 수술을 위해 페낭으로 날아오고, 걸프 지역의 부부가 체외수정을 위해 오며, 호주에서 온 은퇴자가 고국에서라면 세 배가 들 전신 검진을 예약합니다. 이들은 함께 한 해에 160만 명이 넘는 사람을 말레이시아로 데려온 조용한 산업의 일부입니다 — 관광이 아니라 건강을 되찾기 위해서입니다.

@@ -77,6 +77,13 @@ visitFacts:
   permit: 'Sipadan funciona con un cupo diario limitado de permisos en manos únicamente de operadores autorizados, así que no puede comprar uno directamente y debe reservar a través de un operador que tenga una asignación; los parques marinos federales (Departamento de Pesca) cobran en cambio una tasa de conservación que se recauda en el embarcadero.'
   watch: 'No puede reservar Sipadan directamente y necesita al menos la certificación Advanced Open Water, y sus cupos y normas de buceo se revisan periódicamente, así que confirme los límites vigentes con su operador antes de planificar.'
   next: 'Confirme las tarifas, los permisos y los cupos vigentes con el Departamento de Pesca de Malasia (Department of Fisheries Malaysia) para los parques peninsulares y con Sabah Parks para Sipadan.'
+hero: '/media/tourism/diving-marine-ecotourism-malaysia/hero.webp'
+heroAlt: 'Una vista submarina en Sipadan de un denso banco de peces plateados girando junto a un arrecife de coral con antias naranjas, iluminado por rayos de sol que atraviesan el agua azul.'
+heroCredit: 'Johnny Chen / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 El agua más clara de Malasia es también la más difícil de alcanzar: para dejarte caer por la pared de [Sipadan](/es/tourism/sipadan-and-semporna) necesitas un permiso del gobierno que ninguna cantidad de dinero te permitirá comprar directamente. Ese solo hecho resume cómo el país gestiona su turismo de buceo — el acceso se raciona, se cobra y se reparte entre dos autoridades muy distintas según el mar al que quieras descender.

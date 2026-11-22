@@ -79,6 +79,13 @@ relations:
 related: ["sales-and-service-tax"]
 keywords: ["पर्यटन कर", "tourism tax", "TTx", "Malaysia", "MyTTx", "RM10 प्रति कमरा", "DPSP", "होटल कर", "RMCD"]
 framework: rules
+hero: '/media/tourism/malaysia-tourism-tax/hero.webp'
+heroAlt: 'रात में कुआलालंपुर की क्षितिज-रेखा, जहाँ रोशन दफ्तर और होटल इमारतों के पीछे जगमगाते जुड़वाँ पेट्रोनास टावर्स खड़े हैं और एक चमकता Solaris Mont Kiara साइनबोर्ड है।'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:57_Kuala_Lumpur_skyline_with_Mont_Kiara_and_Petronas_Towers_by_night.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 विदेशी पासपोर्ट पर कुआलालंपुर के लगभग किसी भी होटल में चेक-इन करें और बिल पर एक दिलचस्प पंक्ति दिखाई देती है: RM10, एक समान, आपके द्वारा ठहरी हर रात के लिए। यह मलेशिया का पर्यटन कर (TTx) है — एक छोटा, निश्चित उद्ग्रहण जो उन प्रतिशत-आधारित होटल करों से बहुत अलग व्यवहार करता है जिनका सामना यात्री अन्यत्र करते हैं।

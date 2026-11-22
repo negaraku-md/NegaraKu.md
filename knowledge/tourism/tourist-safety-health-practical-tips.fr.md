@@ -74,6 +74,13 @@ relations:
 related: ["getting-around-malaysia"]
 keywords: ["conseils voyage Malaisie", "999 urgence Malaisie", "carte SIM touriste Malaisie", "saison mousson Malaisie", "vaccins voyage Malaisie", "pourboires en Malaisie", "Malaysia travel tips"]
 framework: explainer
+hero: '/media/tourism/tourist-safety-health-practical-tips/hero.webp'
+heroAlt: 'La rue Petaling de Kuala Lumpur la nuit, ornée de lanternes rouges, où les gens flânent devant un chariot de fruits éclairé et des étals de marché entre des maisons-boutiques couvertes.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur,_24_March_2019.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Vous avez atterri, vous avez le décalage horaire et votre téléphone n'affiche aucun signal. Avant de vous soucier du nasi lemak parfait, réglez les choses ennuyeuses mais importantes — une SIM qui fonctionne, le bon numéro d'urgence et le fait de savoir si le ciel est sur le point de s'ouvrir. Voici la courte liste vérifiée.

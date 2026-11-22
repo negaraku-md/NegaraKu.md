@@ -119,6 +119,13 @@ relations:
 related: []
 keywords: ["التنقّل في ماليزيا", "KLIA Ekspres", "قطار KTM ETS", "الرحلات الجوية الداخلية في ماليزيا", "AirBorneo", "Grab ماليزيا", "عبّارة ماليزيا", "القيادة في ماليزيا", "Touch n Go", "getting around Malaysia", "domestic flights Malaysia", "driving in Malaysia"]
 framework: explainer
+hero: '/media/tourism/getting-around-malaysia-for-tourists/hero.webp'
+heroAlt: 'مسافر يحمل حقيبة بعجلات يقف عند شبّاك تذاكر قطار المطار KLIA Ekspres الورديّ في محطّة KL Sentral، حيث يخدمه موظّف من خلف الزجاج.'
+heroCredit: 'Fabio Achilli from Milano, Italy / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:KLIA_Ekspres_Train_Ticket_Counter,_KL_Sentral,_Kuala_Lumpur_(14968236330).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 تهبط في مطار كوالالمبور الدولي عند منتصف الليل، منهكًا من فارق التوقيت، وسماسرة سيارات الأجرة يحومون فعلًا. والخبر السارّ: لدى ماليزيا أحد أكثر أنظمة النقل ملاءمةً للسيّاح في جنوب شرق آسيا، ويمكنك تجنّب العناء كليًّا — قطار مطار سريع ثابت السعر، وتطبيق هاتف يستدعي سيارة بعدّاد، ورحلات جوية داخلية رخيصة تجعل بورنيو قفزة عطلة نهاية أسبوع. والحيلة هي معرفة أي وسيلة تختار، ومتى.

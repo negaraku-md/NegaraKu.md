@@ -77,6 +77,13 @@ visitFacts:
   permit: 'Sipadan fonctionne selon un quota journalier plafonné de permis détenus uniquement par des opérateurs agréés, de sorte que vous ne pouvez pas en acheter directement et devez réserver via un opérateur disposant d''une allocation ; les parcs marins fédéraux (Département des pêches) prélèvent en revanche une redevance de conservation perçue à la jetée.'
   watch: 'Vous ne pouvez pas réserver Sipadan directement et devez posséder au minimum la certification Advanced Open Water, et comme ses quotas et règles de plongée sont périodiquement révisés, confirmez les limites en vigueur auprès de votre opérateur avant de planifier.'
   next: 'Confirmez les tarifs, permis et quotas en vigueur auprès du Département des pêches de Malaisie (Department of Fisheries Malaysia) pour les parcs de la péninsule et auprès de Sabah Parks pour Sipadan.'
+hero: '/media/tourism/diving-marine-ecotourism-malaysia/hero.webp'
+heroAlt: 'Une vue sous-marine à Sipadan d''un dense banc de poissons argentés tourbillonnant près d''un récif corallien aux anthias orange, éclairé par les rayons du soleil filtrant à travers l''eau bleue.'
+heroCredit: 'Johnny Chen / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 L'eau la plus claire de la Malaisie est aussi la plus difficile à atteindre : pour vous laisser glisser le long du tombant de [Sipadan](/fr/tourism/sipadan-and-semporna), il vous faut un permis gouvernemental qu'aucune somme d'argent ne vous permettra d'acheter directement. Ce seul fait résume la façon dont le pays gère son tourisme de plongée — l'accès est rationné, tarifé et réparti entre deux autorités très différentes selon la mer dans laquelle vous souhaitez descendre.

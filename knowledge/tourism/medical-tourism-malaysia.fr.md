@@ -80,6 +80,13 @@ relations:
 related: ["tourism"]
 keywords: ["tourisme médical Malaisie", "voyage de santé", "MHTC", "Malaysia Healthcare Travel Council", "hôpitaux JCI Malaisie", "FIV Malaisie", "soins cardiaques Malaisie"]
 framework: profile
+hero: '/media/tourism/medical-tourism-malaysia/hero.webp'
+heroAlt: 'Le bâtiment au toit incurvé du Prince Court Medical Centre à Kuala Lumpur, avec son nom sur la façade et un panneau routier vert et une enseigne Urgences devant.'
+heroCredit: 'Vano111ru / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Une famille indonésienne s'envole pour Penang en vue d'un pontage cardiaque, un couple du Golfe vient pour un traitement de FIV, et un retraité australien réserve un bilan corporel complet qui coûterait trois fois plus cher chez lui. Ensemble, ils font partie d'un secteur discret qui, en une seule année, a amené plus de 1,6 million de personnes en Malaisie : non pour faire du tourisme, mais pour retrouver la santé.

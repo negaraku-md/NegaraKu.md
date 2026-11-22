@@ -76,6 +76,13 @@ visitFacts:
   permit: 'Sipadan runs on a capped daily permit quota held only by licensed operators, so you cannot buy one directly and must book through an operator holding an allocation; federal (Department of Fisheries) marine parks instead levy a conservation charge collected at the jetty.'
   watch: 'You cannot book Sipadan directly and need at least Advanced Open Water certification, and its quotas and dive rules are periodically revised, so confirm the current limits with your operator before planning.'
   next: 'Confirm current fees, permits and quotas with the Department of Fisheries Malaysia for peninsular parks and with Sabah Parks for Sipadan.'
+hero: '/media/tourism/diving-marine-ecotourism-malaysia/hero.webp'
+heroAlt: 'An underwater view at Sipadan of a dense swirling school of silver fish beside a coral reef with orange anthias, lit by sunrays filtering through blue water.'
+heroCredit: 'Johnny Chen / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 The clearest water in Malaysia is also the hardest to reach: to drop into [Sipadan](/tourism/sipadan-and-semporna)'s wall you need a government permit that no amount of money will let you buy directly. That single fact captures how the country runs its dive tourism — access is rationed, priced, and split between two very different authorities depending on which sea you want to descend into.

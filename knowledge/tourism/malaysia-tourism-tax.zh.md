@@ -79,6 +79,13 @@ relations:
 related: ["sales-and-service-tax"]
 keywords: ["tourism tax", "TTx", "Malaysia", "MyTTx", "RM10 per room", "DPSP", "hotel tax", "RMCD"]
 framework: rules
+hero: '/media/tourism/malaysia-tourism-tax/hero.webp'
+heroAlt: '吉隆坡的夜景天际线，灯火通明的双峰塔矗立在亮灯的办公楼和酒店之后，还有发光的 Solaris Mont Kiara 招牌。'
+heroCredit: 'Marek Ślusarczyk (Tupungato) / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:57_Kuala_Lumpur_skyline_with_Mont_Kiara_and_Petronas_Towers_by_night.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 持外国护照入住吉隆坡几乎任何一家酒店时，账单上都会出现一行耐人寻味的项目：每住一晚，统一收取RM10。这就是马来西亚的旅游税（TTx）——一项金额固定的小额征费，其运作方式与旅客在别处遇到的按百分比计算的酒店税大不相同。

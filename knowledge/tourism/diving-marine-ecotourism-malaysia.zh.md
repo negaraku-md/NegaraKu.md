@@ -77,6 +77,13 @@ visitFacts:
   permit: 'Sipadan 实行每日准证配额上限，且配额仅由持牌业者持有，因此你无法直接购买，必须透过握有配额的业者预订；联邦（渔业局 Department of Fisheries）海洋公园则改为在码头征收保育费。'
   watch: '你无法直接预订 Sipadan，且至少须持有进阶开放水域（Advanced Open Water）认证，而其配额与潜水规定会不时修订，故规划前请向业者确认当前限额。'
   next: '半岛海洋公园请向马来西亚渔业局（Department of Fisheries Malaysia）、Sipadan 请向 Sabah Parks 确认当前的收费、准证与配额。'
+hero: '/media/tourism/diving-marine-ecotourism-malaysia/hero.webp'
+heroAlt: '西巴丹的水下景象：一大群银色鱼在珊瑚礁旁密集回旋，礁石上有橙色花鮨，阳光穿透蓝色海水洒下。'
+heroCredit: 'Johnny Chen / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 马来西亚最清澈的海水，恰恰也是最难抵达的：要跃入[诗巴丹（Sipadan）](/zh/tourism/sipadan-and-semporna)的峭壁，你需要一张再多钱也无法直接购买的政府许可证。这一个事实道尽了这个国家如何经营其潜水旅游——准入是被配给、被定价的，并且依你想潜入哪片海而分属两个截然不同的当局。

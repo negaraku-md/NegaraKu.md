@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["Patrimonio Mundial UNESCO Malasia", "turismo patrimonial Malasia", "programa de homestay Malasia", "George Town Melaka", "etiqueta en mezquitas Malasia", "turismo cultural"]
 framework: explainer
+hero: '/media/tourism/cultural-heritage-tourism-malaysia/hero.webp'
+heroAlt: 'Una calle estrecha de George Town flanqueada por antiguas casas-tienda pintadas, farolillos rojos y un cartel del Museo de Pintura Batik, con puestos de recuerdos y turistas a lo largo del pasaje de cinco pies.'
+heroCredit: 'philip.mallis / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Seis sitios en un solo país llevan hoy el sello de la UNESCO — y puedes recorrer por la mañana una plaza colonial neerlandesa de siglos de antigüedad y, a un vuelo de distancia, plantarte dentro de una vasta cámara de cueva borneana. El patrimonio de Malasia no es un museo que se mira; es una calle viva por la que puedes comer, dormir y rezar a tu paso.

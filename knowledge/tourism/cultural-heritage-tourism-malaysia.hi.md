@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["मलेशिया यूनेस्को विश्व विरासत", "विरासत पर्यटन मलेशिया", "होमस्टे कार्यक्रम मलेशिया", "जॉर्ज टाउन मेलाका", "मस्जिद शिष्टाचार मलेशिया", "सांस्कृतिक पर्यटन", "Malaysia UNESCO World Heritage", "heritage tourism Malaysia", "homestay programme Malaysia", "George Town Melaka"]
 framework: explainer
+hero: '/media/tourism/cultural-heritage-tourism-malaysia/hero.webp'
+heroAlt: 'जॉर्ज टाउन की एक संकरी गली, जिसके किनारे पुरानी रंगी हुई शॉपहाउस, लाल लालटेन और एक बाटिक पेंटिंग संग्रहालय का बोर्ड है, और पाँच-फुट रास्ते पर स्मारिका स्टॉल और पर्यटक हैं।'
+heroCredit: 'philip.mallis / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Lebuh_Armenian_in_heritage_quarter_of_George_Town,_Penang_-_53829016602.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 एक ही देश में छह स्थल आज यूनेस्को की मुहर रखते हैं — और आप सुबह एक सदियों पुराने डच औपनिवेशिक चौक में टहल सकते हैं और एक उड़ान की दूरी पर एक विशाल बोर्नियो गुफा-कक्ष के भीतर खड़े हो सकते हैं। मलेशिया की विरासत कोई संग्रहालय नहीं जिसे आप देखते हैं; यह एक जीवंत गली है जिससे होकर आप खाते, सोते और प्रार्थना करते हुए गुज़र सकते हैं।

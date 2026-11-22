@@ -77,6 +77,13 @@ visitFacts:
   permit: 'Sipadan beroperasi dengan kuota izin harian yang dibatasi dan hanya dipegang oleh operator berlisensi, jadi Anda tidak bisa membelinya langsung dan harus memesan melalui operator yang memegang alokasi; taman laut federal (Jabatan Perikanan) sebaliknya mengenakan biaya konservasi yang dipungut di dermaga.'
   watch: 'Anda tidak bisa memesan Sipadan langsung dan memerlukan setidaknya sertifikasi Advanced Open Water, dan kuota serta aturan selamnya ditinjau secara berkala, jadi konfirmasikan batas terkini dengan operator Anda sebelum merencanakan.'
   next: 'Konfirmasikan biaya, izin, dan kuota terkini dengan Jabatan Perikanan Malaysia (Department of Fisheries Malaysia) untuk taman di Semenanjung dan dengan Sabah Parks untuk Sipadan.'
+hero: '/media/tourism/diving-marine-ecotourism-malaysia/hero.webp'
+heroAlt: 'Pemandangan bawah air di Sipadan: kawanan ikan perak berputar padat di samping terumbu karang berisi anthias oranye, disinari cahaya matahari yang menembus air biru.'
+heroCredit: 'Johnny Chen / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Beneath_Sipadan_Island.jpeg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Air paling jernih di Malaysia juga yang paling sulit dicapai: untuk menyelam ke dinding [Sipadan](/id/tourism/sipadan-and-semporna) Anda memerlukan izin pemerintah yang tidak dapat dibeli secara langsung dengan uang berapa banyak pun. Fakta tunggal itu menggambarkan cara negara ini mengelola pariwisata selamnya — akses dijatah, diberi harga, dan dibagi antara dua otoritas yang sangat berbeda bergantung pada laut mana yang ingin Anda selami.

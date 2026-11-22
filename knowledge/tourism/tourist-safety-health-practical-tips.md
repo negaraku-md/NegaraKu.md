@@ -73,6 +73,13 @@ relations:
 related: ["getting-around-malaysia"]
 keywords: ["Malaysia travel tips", "999 emergency Malaysia", "Malaysia SIM card tourist", "Malaysia monsoon season", "Malaysia travel vaccinations", "tipping in Malaysia"]
 framework: explainer
+hero: '/media/tourism/tourist-safety-health-practical-tips/hero.webp'
+heroAlt: 'Petaling Street in Kuala Lumpur at night, hung with red lanterns, where people browse a lit fruit cart and market stalls between covered shophouses.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur,_24_March_2019.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 You have landed, you are jet-lagged, and your phone shows no signal. Before you worry about the perfect nasi lemak, sort the boring-but-important things — a working SIM, the right emergency number, and knowing whether the sky is about to open. Here is the verified shortlist.

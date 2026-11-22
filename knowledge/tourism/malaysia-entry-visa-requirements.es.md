@@ -98,6 +98,13 @@ relations:
 related: []
 keywords: ["visado Malasia", "MDAC", "Tarjeta Digital de Llegada a Malasia", "eVISA Malasia", "MYVISA", "Malasia sin visado", "requisitos de entrada a Malasia", "puerta automática Malasia", "validez del pasaporte Malasia"]
 framework: rules
+hero: '/media/tourism/malaysia-entry-visa-requirements/hero.webp'
+heroAlt: 'El luminoso vestíbulo interior de la terminal principal del Aeropuerto Internacional de Kuala Lumpur, con un techo de madera curvo, tiendas libres de impuestos y viajeros caminando con equipaje.'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_main_terminal_building,_KLIA,_2023_(01).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Reservó el vuelo, hizo la maleta, y solo en la puerta de embarque surge la pregunta: ¿Malasia quiere algo de usted antes de que llegue? Para la mayoría de los viajeros la sorpresa corta por los dos lados — probablemente no necesite visado, pero casi con certeza necesita presentar un pequeño formulario en línea llamado MDAC, y confundir esas dos cosas es la vía más rápida a una sala de llegadas estresante.

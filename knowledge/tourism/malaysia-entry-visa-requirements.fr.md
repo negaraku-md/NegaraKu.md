@@ -98,6 +98,13 @@ relations:
 related: []
 keywords: ["visa Malaisie", "MDAC", "Carte d'arrivée numérique de Malaisie", "eVISA Malaisie", "MYVISA", "Malaisie sans visa", "conditions d'entrée en Malaisie", "portique automatique Malaisie", "validité du passeport Malaisie"]
 framework: rules
+hero: '/media/tourism/malaysia-entry-visa-requirements/hero.webp'
+heroAlt: 'Le hall intérieur lumineux du terminal principal de l''aéroport international de Kuala Lumpur, avec un plafond en bois courbe, des boutiques hors taxes et des voyageurs marchant avec leurs bagages.'
+heroCredit: 'Bahnfrend / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_main_terminal_building,_KLIA,_2023_(01).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Vous avez réservé le vol, bouclé la valise, et ce n'est qu'à la porte d'embarquement que la question surgit : la Malaisie attend-elle quelque chose de vous avant votre arrivée ? Pour la plupart des voyageurs, la surprise joue dans les deux sens — vous n'avez probablement pas besoin de visa, mais vous devez presque certainement soumettre un petit formulaire en ligne appelé MDAC, et confondre ces deux choses est le moyen le plus rapide de se retrouver dans un hall d'arrivée stressant.

@@ -74,6 +74,13 @@ relations:
 related: ["getting-around-malaysia"]
 keywords: ["Malaysia travel tips", "999 emergency Malaysia", "Malaysia SIM card tourist", "Malaysia monsoon season", "Malaysia travel vaccinations", "tipping in Malaysia"]
 framework: explainer
+hero: '/media/tourism/tourist-safety-health-practical-tips/hero.webp'
+heroAlt: 'Phố Petaling ở Kuala Lumpur về đêm, treo đầy đèn lồng đỏ, nơi người ta dạo xem một xe trái cây sáng đèn và các quầy chợ giữa những dãy nhà phố có mái che.'
+heroCredit: 'Alexey Komarov / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur,_24_March_2019.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Bạn đã hạ cánh, bạn mệt vì lệch múi giờ, và điện thoại của bạn không hiện sóng. Trước khi bạn lo lắng về món nasi lemak hoàn hảo, hãy giải quyết những thứ nhàm chán-nhưng-quan trọng — một chiếc SIM hoạt động, đúng số khẩn cấp, và biết liệu trời có sắp đổ mưa hay không. Đây là danh sách ngắn đã được kiểm chứng.
