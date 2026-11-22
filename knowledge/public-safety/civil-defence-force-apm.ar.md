@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["APM", "JPAM", "قوة الدفاع المدني الماليزية", "الدفاع المدني", "المساعدة الطارئة", "PASPA", "Akta 221", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "sukarelawan pertahanan awam"]
 framework: profile
+hero: '/media/public-safety/civil-defence-force-apm/hero.webp'
+heroAlt: 'شاحنة إنقاذ تابعة لقوّة الدفاع المدني الماليزية (Angkatan Pertahanan Awam Malaysia) تحمل شعار APM، يعتليها متطوّع بالزيّ الرسمي، خلال موكب في كوانتان بماليزيا.'
+heroCredit: 'Kistara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tatra_truck_of_Malaysia_Civil_Defence_Force_in_Kuantan_2023_NDP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 حين يضرب فيضان كبير أو ينهار مبنى، كثيرًا ما يكون أحد أوائل الفرق وصولاً بالقوارب والحبال ومعدات الإنقاذ فريقًا يرتدي زي APM البرتقالي. فقوة الدفاع المدني الماليزية (APM) هي العمود الفقري للإغاثة الإنسانية في البلاد — حاضرةٌ قبل الكارثة وأثناءها وبعدها.

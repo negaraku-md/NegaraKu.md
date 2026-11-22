@@ -111,6 +111,13 @@ relations:
 related: []
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
 framework: explainer
+hero: '/media/public-safety/road-safety-in-malaysia/hero.webp'
+heroAlt: 'Lalu lintas di jalan tol berpembatas North-South Expressway di Malaysia, dengan marka lajur, pagar pengaman, dan papan reklame tepi jalan di bawah langit cerah.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Setiap hari, sekitar 18 nyawa melayang di jalan raya Malaysia. Angka itu menjadikan jalan raya salah satu penyebab kematian tidak wajar yang paling menonjol di negara ini, dan alasan utama undang-undang, kamera, dan lembaga khusus dikerahkan untuk menanganinya.

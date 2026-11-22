@@ -111,6 +111,13 @@ relations:
 related: []
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
 framework: explainer
+hero: '/media/public-safety/road-safety-in-malaysia/hero.webp'
+heroAlt: 'மலேசியாவில் தெளிவான வானத்தின் கீழ், பாதை குறியீடுகள், மோதல் தடுப்புகள் மற்றும் சாலையோர விளம்பரப் பலகைகளுடன் கூடிய பிரிக்கப்பட்ட வடக்கு-தெற்கு நெடுஞ்சாலையில் போக்குவரத்து.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ஒவ்வொரு நாளும், மலேசியச் சாலைகளில் ஏறத்தாழ 18 உயிர்கள் பறிபோகின்றன. இந்த எண்ணிக்கை சாலைகளை நாட்டின் மிக முக்கியமான இயற்கைக்கு மாறான மரணக் காரணங்களில் ஒன்றாக ஆக்குகிறது, மேலும் இதை எதிர்கொள்ளச் சிறப்புச் சட்டங்கள், கேமராக்கள் மற்றும் முகமைகள் களமிறக்கப்படுவதற்கான முதன்மைக் காரணமும் இதுவே.

@@ -111,6 +111,13 @@ relations:
 related: []
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
 framework: explainer
+hero: '/media/public-safety/road-safety-in-malaysia/hero.webp'
+heroAlt: '马来西亚南北大道上的车流行驶在分隔式公路上，晴朗的天空下设有车道标线、防撞护栏和路边广告牌。'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 每一天，马来西亚的道路上约有 18 条生命消逝。这个数字使道路成为该国最显著的非自然死亡原因之一，也是当局动用法律、摄像头与专责机构加以应对的主要原因。

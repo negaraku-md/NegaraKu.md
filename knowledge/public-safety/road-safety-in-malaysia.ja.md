@@ -110,6 +110,13 @@ relations:
 related: []
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
 framework: explainer
+hero: '/media/public-safety/road-safety-in-malaysia/hero.webp'
+heroAlt: 'マレーシアの南北高速道路の中央分離された車道を走る車の流れ。晴れた空の下に車線標示、防護柵、沿道の広告看板が見える。'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 毎日、マレーシアの道路では約18人の命が失われている。この数字は、道路を国内で最も顕著な不慮の死の原因の一つとし、それに対処するために法律、カメラ、専門の機関が投入される主な理由となっている。

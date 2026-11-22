@@ -79,6 +79,13 @@ relations:
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "gestión de desastres", "Directiva NADMA N.º 1", "Directiva MKN 20", "inundación", "SMART", "Departamento del Primer Ministro"]
 framework: profile
+hero: '/media/public-safety/national-disaster-management-agency-nadma/hero.webp'
+heroAlt: 'Las aguas de una inundación anegan una zona rural durante fuertes lluvias monzónicas en Sandakan, Sabah, Malasia.'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Cuando una gran inundación golpea varios estados a la vez, ¿quién pulsa el botón para coordinar al ejército, los bomberos, la policía y los voluntarios bajo un único mando? En Malasia, la respuesta es NADMA.

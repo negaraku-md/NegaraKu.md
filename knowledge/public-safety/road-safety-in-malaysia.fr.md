@@ -111,6 +111,13 @@ relations:
 related: []
 keywords: ["sécurité routière", "accidents de la route Malaisie", "conduite sous l'emprise de l'alcool", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
 framework: explainer
+hero: '/media/public-safety/road-safety-in-malaysia/hero.webp'
+heroAlt: 'Circulation sur l''autoroute à chaussées séparées North-South Expressway en Malaisie, avec marquages de voies, glissières de sécurité et panneaux publicitaires en bord de route sous un ciel dégagé.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Chaque jour, environ 18 vies sont perdues sur les routes de Malaisie. Ce chiffre fait des routes l'une des causes les plus importantes de mort non naturelle dans le pays, et la principale raison pour laquelle des lois, des caméras et des agences dédiées ont été déployées pour y remédier.

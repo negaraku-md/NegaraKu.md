@@ -111,6 +111,13 @@ relations:
 related: []
 keywords: ["seguridad vial", "accidentes de tráfico Malasia", "conducción bajo los efectos del alcohol", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
 framework: explainer
+hero: '/media/public-safety/road-safety-in-malaysia/hero.webp'
+heroAlt: 'Tráfico en la autopista dividida North-South Expressway de Malasia, con marcas de carril, barreras de contención y vallas publicitarias al borde de la carretera bajo un cielo despejado.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Cada día se pierden unas 18 vidas en las carreteras de Malasia. Esa cifra convierte a las carreteras en una de las causas más significativas de muerte no natural del país, y es la principal razón por la que se han desplegado leyes, cámaras y agencias dedicadas a abordarla.

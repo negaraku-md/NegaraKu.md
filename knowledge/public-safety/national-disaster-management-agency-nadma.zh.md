@@ -79,6 +79,13 @@ relations:
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "pengurusan bencana", "Arahan NADMA No. 1", "Arahan MKN 20", "banjir", "SMART", "Jabatan Perdana Menteri"]
 framework: profile
+hero: '/media/public-safety/national-disaster-management-agency-nadma/hero.webp'
+heroAlt: '马来西亚沙巴山打根在季风强降雨期间，洪水淹没了一处乡村地区。'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 当大水灾同时侵袭多个州属时，是谁按下按钮，把军队、消防、警察和志愿者统一在一道指令之下进行协调？在马来西亚，答案就是 NADMA。

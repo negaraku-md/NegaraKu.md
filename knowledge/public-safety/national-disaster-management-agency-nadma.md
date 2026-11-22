@@ -78,6 +78,13 @@ relations:
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "pengurusan bencana", "Arahan NADMA No. 1", "Arahan MKN 20", "banjir", "SMART", "Jabatan Perdana Menteri"]
 framework: profile
+hero: '/media/public-safety/national-disaster-management-agency-nadma/hero.webp'
+heroAlt: 'Air banjir menenggelamkan kawasan luar bandar semasa hujan monsun lebat di Sandakan, Sabah, Malaysia.'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Bila banjir besar melanda beberapa negeri sekaligus, siapa yang menekan butang untuk menyelaras tentera, bomba, polis dan sukarelawan di bawah satu arahan? Di Malaysia, jawapannya ialah NADMA.

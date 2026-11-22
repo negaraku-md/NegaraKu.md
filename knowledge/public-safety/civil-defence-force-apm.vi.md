@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["APM", "JPAM", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "bantuan kecemasan", "PASPA", "Akta 221", "sukarelawan pertahanan awam"]
 framework: profile
+hero: '/media/public-safety/civil-defence-force-apm/hero.webp'
+heroAlt: 'Một xe cứu hộ của Lực lượng Phòng vệ Dân sự Malaysia (Angkatan Pertahanan Awam Malaysia) mang biểu tượng APM, với một tình nguyện viên mặc đồng phục trên xe, trong một cuộc diễu hành ở Kuantan, Malaysia.'
+heroCredit: 'Kistara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tatra_truck_of_Malaysia_Civil_Defence_Force_in_Kuantan_2023_NDP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Khi lũ lớn ập đến hoặc một tòa nhà sụp đổ, một trong những đội đầu tiên tới nơi với thuyền, dây và thiết bị cứu hộ thường mặc áo cam của APM. Lực lượng Phòng vệ Dân sự Malaysia (APM) là xương sống của hỗ trợ nhân đạo quốc gia — có mặt trước, trong và sau một thảm họa.

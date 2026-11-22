@@ -79,6 +79,13 @@ relations:
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "आपदा प्रबंधन", "NADMA निर्देश सं. 1", "MKN निर्देश 20", "बाढ़", "SMART", "प्रधानमंत्री विभाग"]
 framework: profile
+hero: '/media/public-safety/national-disaster-management-agency-nadma/hero.webp'
+heroAlt: 'मलेशिया के सबाह के सैंडकान में भारी मानसूनी बारिश के दौरान बाढ़ का पानी एक ग्रामीण क्षेत्र को जलमग्न कर देता है।'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 जब कोई बड़ी बाढ़ एक साथ कई राज्यों पर प्रहार करती है, तो सेना, अग्निशमन दल, पुलिस और स्वयंसेवकों को एक ही कमान के तहत समन्वित करने का बटन कौन दबाता है? मलेशिया में, इसका उत्तर है NADMA।

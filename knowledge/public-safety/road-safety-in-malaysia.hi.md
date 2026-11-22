@@ -111,6 +111,13 @@ relations:
 related: []
 keywords: ["सड़क सुरक्षा", "मलेशिया सड़क दुर्घटनाएँ", "नशे में वाहन चलाना", "AES", "KEJARA", "MIROS", "Road Transport Act 1987"]
 framework: explainer
+hero: '/media/public-safety/road-safety-in-malaysia/hero.webp'
+heroAlt: 'मलेशिया में साफ आसमान के नीचे विभाजित उत्तर-दक्षिण एक्सप्रेसवे पर यातायात, जिसमें लेन चिह्न, क्रैश बैरियर और सड़क किनारे होर्डिंग हैं।'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 हर दिन मलेशिया की सड़कों पर लगभग 18 जानें चली जाती हैं। यह आँकड़ा सड़कों को देश में अप्राकृतिक मृत्यु के सबसे बड़े कारणों में से एक बनाता है, और यही मुख्य कारण है कि इससे निपटने के लिए समर्पित कानून, कैमरे और एजेंसियाँ तैनात की गई हैं।

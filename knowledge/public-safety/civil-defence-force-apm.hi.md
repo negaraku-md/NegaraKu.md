@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["APM", "JPAM", "मलेशिया नागरिक सुरक्षा बल", "नागरिक सुरक्षा", "आपातकालीन सहायता", "PASPA", "Akta 221", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "sukarelawan pertahanan awam"]
 framework: profile
+hero: '/media/public-safety/civil-defence-force-apm/hero.webp'
+heroAlt: 'मलेशिया के कुआंतान में एक परेड के दौरान APM प्रतीक धारण किए एक मलेशिया नागरिक सुरक्षा बल (Angkatan Pertahanan Awam Malaysia) बचाव ट्रक, जिसमें एक वर्दीधारी स्वयंसेवक सवार है।'
+heroCredit: 'Kistara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tatra_truck_of_Malaysia_Civil_Defence_Force_in_Kuantan_2023_NDP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 जब कोई बड़ी बाढ़ आती है या कोई इमारत ढह जाती है, तो नावों, रस्सियों और बचाव उपकरणों के साथ पहुँचने वाली पहली टीमों में से एक अक्सर APM की नारंगी वर्दी में होती है। मलेशिया नागरिक सुरक्षा बल (APM) देश की मानवीय राहत की रीढ़ है — आपदा से पहले, उसके दौरान और बाद में मौजूद।

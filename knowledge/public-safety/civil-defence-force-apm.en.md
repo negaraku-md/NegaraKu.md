@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["APM", "JPAM", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "bantuan kecemasan", "PASPA", "Akta 221", "sukarelawan pertahanan awam"]
 framework: profile
+hero: '/media/public-safety/civil-defence-force-apm/hero.webp'
+heroAlt: 'A Malaysia Civil Defence Force (Angkatan Pertahanan Awam Malaysia) rescue truck bearing the APM emblem, with a uniformed volunteer aboard, during a parade in Kuantan, Malaysia.'
+heroCredit: 'Kistara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tatra_truck_of_Malaysia_Civil_Defence_Force_in_Kuantan_2023_NDP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 When major floods strike or a building collapses, one of the first teams to arrive with boats, ropes and rescue equipment is often in APM's orange uniforms. The Malaysia Civil Defence Force (APM) is the nation's humanitarian relief backbone — present before, during and after a disaster.

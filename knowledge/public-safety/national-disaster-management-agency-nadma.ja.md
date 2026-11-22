@@ -79,6 +79,13 @@ relations:
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "pengurusan bencana", "Arahan NADMA No. 1", "Arahan MKN 20", "banjir", "SMART", "Jabatan Perdana Menteri"]
 framework: profile
+hero: '/media/public-safety/national-disaster-management-agency-nadma/hero.webp'
+heroAlt: 'マレーシア・サバ州サンダカンで、モンスーンの大雨の際に農村地域を洪水が浸水させている。'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 大規模な洪水が複数の州を同時に襲ったとき、軍・消防・警察・ボランティアを一つの指令のもとで調整するボタンを押すのは誰か？マレーシアでは、その答えがNADMAである。

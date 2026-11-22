@@ -111,6 +111,13 @@ relations:
 related: []
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
 framework: explainer
+hero: '/media/public-safety/road-safety-in-malaysia/hero.webp'
+heroAlt: '말레이시아 남북 고속도로의 중앙분리된 도로를 달리는 차량들로, 맑은 하늘 아래 차선 표시와 충돌 방지 가드레일, 도로변 광고판이 있다.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 매일 약 18명의 생명이 말레이시아 도로에서 사라집니다. 그 수치는 도로를 이 나라에서 가장 두드러진 비자연적 사망 원인 중 하나로 만들며, 이를 다루기 위해 법률, 카메라 및 전담 기관이 동원되는 주요 이유입니다.

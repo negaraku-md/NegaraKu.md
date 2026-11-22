@@ -111,6 +111,13 @@ relations:
 related: []
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
 framework: explainer
+hero: '/media/public-safety/road-safety-in-malaysia/hero.webp'
+heroAlt: 'Traffic on the divided North-South Expressway in Malaysia, with lane markings, crash barriers and roadside billboards under a clear sky.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Every day, roughly 18 lives are lost on Malaysia's roads. That figure makes the roads one of the country's most significant causes of unnatural death, and the main reason dedicated laws, cameras and agencies have been deployed to address it.

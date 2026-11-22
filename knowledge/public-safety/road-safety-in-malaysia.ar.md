@@ -111,6 +111,13 @@ relations:
 related: []
 keywords: ["السلامة على الطرق", "حوادث الطرق في ماليزيا", "القيادة تحت تأثير الكحول", "AES", "KEJARA", "MIROS", "Road Transport Act 1987"]
 framework: explainer
+hero: '/media/public-safety/road-safety-in-malaysia/hero.webp'
+heroAlt: 'حركة المرور على الطريق السريع الشمالي الجنوبي المقسّم في ماليزيا، مع علامات المسارات وحواجز الاصطدام ولوحات إعلانية على جانب الطريق تحت سماء صافية.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 كل يوم، تُزهَق نحو 18 نفساً على طرق ماليزيا. ويجعل هذا الرقمُ الطرقَ من أبرز أسباب الوفاة غير الطبيعية في البلاد، والسبب الرئيسي في تخصيص قوانين وكاميرات وجهات للتصدي له.

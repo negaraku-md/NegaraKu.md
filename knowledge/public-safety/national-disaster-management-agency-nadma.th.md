@@ -79,6 +79,13 @@ relations:
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "pengurusan bencana", "Arahan NADMA No. 1", "Arahan MKN 20", "banjir", "SMART", "Jabatan Perdana Menteri"]
 framework: profile
+hero: '/media/public-safety/national-disaster-management-agency-nadma/hero.webp'
+heroAlt: 'น้ำท่วมเข้าท่วมพื้นที่ชนบทระหว่างฝนมรสุมตกหนักในเมืองซันดากัน รัฐซาบะฮ์ ประเทศมาเลเซีย'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 เมื่ออุทกภัยครั้งใหญ่เกิดขึ้นในหลายรัฐพร้อมกัน ใครคือผู้กดปุ่มเพื่อประสานงานทหาร ดับเพลิง ตำรวจ และอาสาสมัครภายใต้คำสั่งเดียว? ในมาเลเซีย คำตอบคือ NADMA

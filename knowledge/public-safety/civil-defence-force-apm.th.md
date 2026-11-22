@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["APM", "JPAM", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "bantuan kecemasan", "PASPA", "Akta 221", "sukarelawan pertahanan awam"]
 framework: profile
+hero: '/media/public-safety/civil-defence-force-apm/hero.webp'
+heroAlt: 'รถกู้ภัยของกองกำลังป้องกันพลเรือนมาเลเซีย (Angkatan Pertahanan Awam Malaysia) ที่มีตราสัญลักษณ์ APM พร้อมอาสาสมัครในเครื่องแบบประจำอยู่บนรถ ระหว่างขบวนพาเหรดในเมืองกวนตัน ประเทศมาเลเซีย'
+heroCredit: 'Kistara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tatra_truck_of_Malaysia_Civil_Defence_Force_in_Kuantan_2023_NDP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 เมื่ออุทกภัยครั้งใหญ่โจมตีหรืออาคารถล่ม หนึ่งในทีมแรกที่มาถึงพร้อมเรือ เชือก และอุปกรณ์กู้ภัยมักสวมเสื้อสีส้มของ APM กองกำลังป้องกันภัยฝ่ายพลเรือนมาเลเซีย (APM) เป็นกระดูกสันหลังของการช่วยเหลือด้านมนุษยธรรมของประเทศ — ปรากฏตัวก่อน ระหว่าง และหลังภัยพิบัติ

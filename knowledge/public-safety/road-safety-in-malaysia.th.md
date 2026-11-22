@@ -111,6 +111,13 @@ relations:
 related: []
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
 framework: explainer
+hero: '/media/public-safety/road-safety-in-malaysia/hero.webp'
+heroAlt: 'การจราจรบนทางด่วนสายเหนือ-ใต้ของมาเลเซียที่มีเกาะกลางแบ่งทิศทาง พร้อมเส้นแบ่งช่องจราจร แผงกั้นกันชน และป้ายโฆษณาริมทางภายใต้ท้องฟ้าแจ่มใส'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ทุกวัน มีผู้เสียชีวิตประมาณ 18 รายบนถนนของมาเลเซีย ตัวเลขนี้ทำให้ถนนเป็นหนึ่งในสาเหตุการเสียชีวิตที่ไม่เป็นไปตามธรรมชาติที่โดดเด่นที่สุดในประเทศ และเป็นเหตุผลหลักที่มีการระดมกฎหมาย กล้อง และหน่วยงานเฉพาะเพื่อรับมือกับมัน

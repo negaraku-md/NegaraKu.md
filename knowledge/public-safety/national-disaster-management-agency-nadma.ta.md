@@ -79,6 +79,13 @@ relations:
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "pengurusan bencana", "Arahan NADMA No. 1", "Arahan MKN 20", "banjir", "SMART", "Jabatan Perdana Menteri"]
 framework: profile
+hero: '/media/public-safety/national-disaster-management-agency-nadma/hero.webp'
+heroAlt: 'மலேசியாவின் சபாவில் உள்ள சண்டகானில் கடுமையான பருவமழையின் போது வெள்ள நீர் ஒரு கிராமப்புற பகுதியை மூழ்கடிக்கிறது.'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 பல மாநிலங்களைப் பெரும் வெள்ளம் ஒரே நேரத்தில் தாக்கும்போது, இராணுவம், தீயணைப்புப் படை, காவல்துறை மற்றும் தன்னார்வலர்களை ஒரே கட்டளையின் கீழ் ஒருங்கிணைக்க யார் பொத்தானை அழுத்துகிறார்கள்? மலேசியாவில், அதற்கான பதில் NADMA.

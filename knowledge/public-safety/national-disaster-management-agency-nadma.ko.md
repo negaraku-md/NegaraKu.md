@@ -79,6 +79,13 @@ relations:
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "pengurusan bencana", "Arahan NADMA No. 1", "Arahan MKN 20", "banjir", "SMART", "Jabatan Perdana Menteri"]
 framework: profile
+hero: '/media/public-safety/national-disaster-management-agency-nadma/hero.webp'
+heroAlt: '말레이시아 사바주 산다칸에서 몬순 폭우가 내리는 동안 홍수가 농촌 지역을 침수시키고 있다.'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 대규모 홍수가 여러 주를 동시에 덮칠 때, 군·소방·경찰·자원봉사자를 하나의 지휘 아래 조정하는 버튼을 누르는 것은 누구입니까? 말레이시아에서 그 답은 NADMA입니다.

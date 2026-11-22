@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["APM", "JPAM", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "bantuan kecemasan", "PASPA", "Akta 221", "sukarelawan pertahanan awam"]
 framework: profile
+hero: '/media/public-safety/civil-defence-force-apm/hero.webp'
+heroAlt: 'Sebuah truk penyelamat Angkatan Pertahanan Awam Malaysia (Pasukan Pertahanan Sipil Malaysia) yang membawa lambang APM, dengan seorang relawan berseragam di atasnya, saat parade di Kuantan, Malaysia.'
+heroCredit: 'Kistara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tatra_truck_of_Malaysia_Civil_Defence_Force_in_Kuantan_2023_NDP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Ketika banjir besar melanda atau sebuah bangunan runtuh, salah satu pasukan pertama yang tiba dengan perahu, tali, dan peralatan penyelamat sering kali berseragam oranye APM. Angkatan Pertahanan Awam Malaysia (APM) adalah tulang punggung bantuan kemanusiaan negara — hadir sebelum, selama, dan setelah suatu bencana.

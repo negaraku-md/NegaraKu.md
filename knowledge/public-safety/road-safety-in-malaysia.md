@@ -110,6 +110,13 @@ relations:
 related: []
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
 framework: explainer
+hero: '/media/public-safety/road-safety-in-malaysia/hero.webp'
+heroAlt: 'Lalu lintas di Lebuhraya Utara–Selatan yang berlorong terbahagi di Malaysia, dengan tanda lorong, penghadang nahas dan papan iklan tepi jalan di bawah langit cerah.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Setiap hari, kira-kira 18 nyawa terkorban di jalan raya Malaysia. Angka itu menjadikan jalan raya salah satu punca kematian tidak semula jadi yang paling ketara di negara ini, dan sebab utama undang-undang, kamera dan agensi khas dikerah untuk menanganinya.

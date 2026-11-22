@@ -79,6 +79,13 @@ relations:
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "إدارة الكوارث", "توجيه NADMA رقم 1", "توجيه MKN رقم 20", "الفيضانات", "SMART", "دائرة رئيس الوزراء"]
 framework: profile
+hero: '/media/public-safety/national-disaster-management-agency-nadma/hero.webp'
+heroAlt: 'مياه الفيضانات تغمر منطقة ريفية خلال أمطار موسمية غزيرة في سانداكان بصباح، ماليزيا.'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 عندما يضرب فيضان كبير عدة ولايات في وقت واحد، فمن الذي يضغط الزر لتنسيق الجيش وفرق الإطفاء والشرطة والمتطوعين تحت قيادة واحدة؟ في ماليزيا، الجواب هو NADMA.

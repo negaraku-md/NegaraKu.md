@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["APM", "JPAM", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "bantuan kecemasan", "PASPA", "Akta 221", "sukarelawan pertahanan awam"]
 framework: profile
+hero: '/media/public-safety/civil-defence-force-apm/hero.webp'
+heroAlt: '말레이시아 콴탄에서 열린 퍼레이드 중 APM 엠블럼이 새겨진 말레이시아 민방위대(Angkatan Pertahanan Awam Malaysia) 구조 트럭에 제복을 입은 대원이 타고 있다.'
+heroCredit: 'Kistara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tatra_truck_of_Malaysia_Civil_Defence_Force_in_Kuantan_2023_NDP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 대규모 홍수가 덮치거나 건물이 붕괴할 때, 보트와 밧줄, 구조 장비를 들고 가장 먼저 도착하는 부대 가운데 하나는 흔히 주황색 제복을 입은 APM입니다. 말레이시아 민방위대(APM)는 재난 발생 전·중·후에 항상 함께하는 국가 인도적 지원의 중추입니다.

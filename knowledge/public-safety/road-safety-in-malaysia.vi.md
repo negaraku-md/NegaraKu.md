@@ -111,6 +111,13 @@ relations:
 related: []
 keywords: ["keselamatan jalan raya", "kemalangan jalan raya Malaysia", "pemanduan mabuk", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
 framework: explainer
+hero: '/media/public-safety/road-safety-in-malaysia/hero.webp'
+heroAlt: 'Giao thông trên đường cao tốc Bắc-Nam có dải phân cách ở Malaysia, với vạch kẻ làn, rào chắn va chạm và biển quảng cáo ven đường dưới bầu trời quang đãng.'
+heroCredit: 'Slleong / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Mỗi ngày, khoảng 18 sinh mạng bị cướp đi trên đường sá Malaysia. Con số đó khiến giao thông đường bộ trở thành một trong những nguyên nhân tử vong không tự nhiên nổi bật nhất tại quốc gia này, và là lý do chính khiến luật pháp, camera và các cơ quan chuyên trách được huy động để đối phó.

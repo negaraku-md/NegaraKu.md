@@ -79,6 +79,13 @@ relations:
 related: ["civil-defence-force-apm", "fire-and-rescue-department-bomba"]
 keywords: ["NADMA", "gestion des catastrophes", "Directive NADMA no 1", "Directive MKN 20", "inondation", "SMART", "Département du Premier ministre"]
 framework: profile
+hero: '/media/public-safety/national-disaster-management-agency-nadma/hero.webp'
+heroAlt: 'Les eaux de crue submergent une zone rurale lors de fortes pluies de mousson à Sandakan, Sabah, en Malaisie.'
+heroCredit: 'Taufik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Lorsqu'une inondation majeure frappe plusieurs États à la fois, qui appuie sur le

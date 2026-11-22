@@ -77,6 +77,13 @@ relations:
 related: []
 keywords: ["APM", "JPAM", "Angkatan Pertahanan Awam Malaysia", "pertahanan awam", "bantuan kecemasan", "PASPA", "Akta 221", "sukarelawan pertahanan awam"]
 framework: profile
+hero: '/media/public-safety/civil-defence-force-apm/hero.webp'
+heroAlt: '马来西亚关丹一场游行中，一辆印有APM徽标的马来西亚民防部队（Angkatan Pertahanan Awam Malaysia）救援车上载着一名身着制服的志愿者。'
+heroCredit: 'Kistara / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tatra_truck_of_Malaysia_Civil_Defence_Force_in_Kuantan_2023_NDP.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 当大水灾来袭或楼房倒塌时，最先带着船只、绳索和救援器材抵达现场的队伍之一，往往身穿橙色制服的 APM 人员。马来西亚民防部队（APM）是国家人道援助的中坚力量——在灾难发生之前、期间及之后都在场。
