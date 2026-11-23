@@ -58,6 +58,13 @@ relations:
 related: ["jalur-gemilang", "negaraku-anthem", "nine-royal-houses"]
 keywords: ["Jata Negara", "lambang kebangsaan Malaysia", "Bersekutu Bertambah Mutu", "maksud Jata Negara", "dua ekor harimau perisai", "lima bilah keris", "Bunga Raya", "anak bulan bintang pecah 14"]
 framework: explainer
+hero: '/media/malaysia/coat-of-arms/hero.webp'
+heroAlt: 'マレーシアの国章を描いた彩色レリーフ。二頭のトラが盾を挟んで立ち、その上に三日月と星、下に標語「Bersekutu Bertambah Mutu」が記されている。'
+heroCredit: 'Hayden Soloviev / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Malaysia_in_Ottawa.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # 国章 Jata Negara：マレーシア国家紋章の要素を読み解く

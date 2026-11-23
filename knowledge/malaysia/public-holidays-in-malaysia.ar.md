@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/malaysia/public-holidays-in-malaysia/hero.webp'
+heroAlt: 'ألعاب نارية ملوّنة تتفجّر فوق برجي بتروناس التوأمين وأفق مدينة كوالالمبور ليلاً.'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 خطّط لرحلة أو إطلاق منتج أو تشغيل كشوف رواتب عبر ماليزيا وسرعان ما تكتشف أمرًا يفاجئ الغرباء: فاليوم الذي هو عطلة رسمية في كوالالمبور قد يكون يوم عمل عاديًا في كوتشينغ، والعكس صحيح. فماليزيا لا تملك قائمة عطل وطنية واحدة بقدر ما تملك طبقة وطنية وثلاث عشرة طبقة ولائية مكدّسة فوق بعضها.

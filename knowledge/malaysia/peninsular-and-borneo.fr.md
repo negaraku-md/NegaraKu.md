@@ -77,6 +77,13 @@ relations:
 related: ["sabah", "sarawak", "ma63", "formation-of-malaysia-1963", "singapore-separation-1965"]
 keywords: ["Peninsular Malaysia", "East Malaysia", "Sabah Sarawak border", "South China Sea Malaysia", "Immigration Act 1959/63 Section 66", "Sarawak Land Code", "Sabah Land Ordinance", "Malaysian Standard Time 1982"]
 framework: explainer
+hero: '/media/malaysia/peninsular-and-borneo/hero.webp'
+heroAlt: 'Une carte régionale de la Malaisie avec la Malaisie péninsulaire et la Malaisie orientale sur Bornéo représentées comme des blocs distincts codés par couleur de part et d''autre de la mer de Chine méridionale.'
+heroCredit: 'Peter Fitzgerald / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_regions_map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Prenez un vol intérieur de Kuala Lumpur à Kota Kinabalu et vous atterrirez dans le même pays que celui que vous avez quitté. Même monnaie, même passeport, même drapeau sur l'empennage. Et pourtant, à la salle d'arrivée, vous faites la queue à un guichet de type immigration et quelqu'un vérifie votre carte d'identité ou votre passeport avant de vous laisser passer. Aucun autre vol à l'intérieur de la Malaisie ne fonctionne ainsi.

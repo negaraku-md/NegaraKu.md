@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/malaysia/public-holidays-in-malaysia/hero.webp'
+heroAlt: 'พลุหลากสีระเบิดเหนือตึกแฝดเปโตรนาสและเส้นขอบฟ้าของเมืองกัวลาลัมเปอร์ยามค่ำคืน'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 วางแผนการเดินทาง การเปิดตัวสินค้า หรือการจ่ายเงินเดือนข้ามรัฐในมาเลเซีย แล้วคุณจะพบสิ่งที่ทำให้คนนอกตั้งตัวไม่ทันอย่างรวดเร็ว: วันที่เป็นวันหยุดนักขัตฤกษ์ในกัวลาลัมเปอร์อาจเป็นวันทำงานธรรมดาในกูชิง และในทางกลับกัน มาเลเซียไม่ได้มีรายการวันหยุดระดับชาติเพียงรายการเดียว หากแต่มีชั้นระดับชาติหนึ่งชั้นและชั้นระดับรัฐอีกสิบสามชั้นวางซ้อนกันอยู่

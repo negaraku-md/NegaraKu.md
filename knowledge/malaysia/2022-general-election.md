@@ -66,6 +66,13 @@ related: ["anwar-ibrahim", "ismail-sabri-yaakob", "muhyiddin-yassin", "prime-min
 keywords: ["GE15", "2022 general election Malaysia", "hung parliament", "unity government", "Undi18"]
 framework: history-culture
 wikidata: "Q84080655"
+hero: '/media/malaysia/2022-general-election/hero.webp'
+heroAlt: 'A voter''s left index finger stained with purple indelible ink after casting a ballot.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:GE15_Ink.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > **Draft — sensitive.** This article is a neutral, work-in-progress summary and

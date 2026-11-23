@@ -55,6 +55,13 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["what is Malaysia", "federation of Malaysia", "13 states 3 federal territories", "elective monarchy Malaysia", "federal structure Malaysia", "Yang di-Pertuan Agong", "Federal Constitution"]
 framework: explainer
+hero: '/media/malaysia/what-malaysia-is/hero.webp'
+heroAlt: 'แผนที่การเมืองของมาเลเซีย แสดงคาบสมุทรมาเลเซียทางทิศตะวันตก และซาบาห์กับซาราวักบนเกาะบอร์เนียวทางทิศตะวันออก พร้อมป้ายชื่อเมืองสำคัญ'
+heroCredit: 'U.S. Central Intelligence Agency (CIA) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 มาเลเซียไม่ใช่ที่แห่งเดียวที่มีรัฐบาลเดียว มันเป็นสหพันธรัฐ คือ ประเทศเดียวที่ถูกเย็บรวมจากสิบสามรัฐและสามดินแดนสหพันธ์ ตั้งอยู่บนผืนแผ่นดินสองส่วนที่ถูกคั่นด้วยทะเลจีนใต้หลายร้อยกิโลเมตร การเข้าใจโครงสร้างนั้นก่อนทำให้เกือบทุกสิ่งอื่นเกี่ยวกับประเทศนี้ตามได้ง่ายขึ้น

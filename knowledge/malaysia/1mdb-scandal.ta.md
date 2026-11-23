@@ -80,6 +80,13 @@ sources:
 related: ["2018-change-of-government", "barisan-nasional", "prime-ministers-of-malaysia"]
 keywords: ["1MDB", "1Malaysia Development Berhad", "Najib Razak", "Jho Low", "Malaysia financial scandal"]
 framework: history-culture
+hero: '/media/malaysia/1mdb-scandal/hero.webp'
+heroAlt: 'கோலாலம்பூரில் உள்ள Tun Razak Exchange நிதி மாவட்டத்திற்கு மேலே உயர்ந்து நிற்கும் Exchange 106 வானளாவிய கட்டிடம்.'
+heroCredit: 'Henrywky961122 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Exchange_106.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 **1மலேசியா டெவலப்மென்ட் பெர்ஹாட் (1MDB)** என்பது [நஜிப் ரசாக்](/ta/malaysia/najib-razak) பிரதமராக இருந்த

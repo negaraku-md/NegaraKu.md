@@ -59,6 +59,13 @@ relations:
 related: ["jalur-gemilang", "negaraku-anthem", "nine-royal-houses"]
 keywords: ["Jata Negara", "lambang kebangsaan Malaysia", "Bersekutu Bertambah Mutu", "maksud Jata Negara", "dua ekor harimau perisai", "lima bilah keris", "Bunga Raya", "anak bulan bintang pecah 14"]
 framework: explainer
+hero: '/media/malaysia/coat-of-arms/hero.webp'
+heroAlt: '말레이시아 국장을 그린 채색 부조로, 두 마리의 호랑이가 방패를 사이에 두고 서 있고 그 위에 초승달과 별, 아래에 표어 Bersekutu Bertambah Mutu가 있다.'
+heroCredit: 'Hayden Soloviev / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Malaysia_in_Ottawa.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # 자타 느가라(Jata Negara): 말레이시아 국장, 요소 하나하나 읽기

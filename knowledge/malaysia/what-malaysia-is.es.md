@@ -56,6 +56,13 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["qué es Malasia", "what is Malaysia", "federación de Malasia", "federation of Malaysia", "13 estados 3 territorios federales", "monarquía electiva Malasia", "elective monarchy Malaysia", "estructura federal Malasia", "Yang di-Pertuan Agong", "Constitución Federal", "Federal Constitution"]
 framework: explainer
+hero: '/media/malaysia/what-malaysia-is/hero.webp'
+heroAlt: 'Un mapa político de Malasia que muestra la Malasia peninsular al oeste y Sabah y Sarawak en Borneo al este, con las principales ciudades rotuladas.'
+heroCredit: 'U.S. Central Intelligence Agency (CIA) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Malasia no es un solo lugar con un solo gobierno. Es una federación — un solo país cosido a partir de trece estados y tres territorios federales, asentado sobre dos masas de tierra separadas por varios cientos de kilómetros del Mar de China Meridional. Entender primero esa estructura hace que casi todo lo demás sobre el país sea más fácil de seguir.

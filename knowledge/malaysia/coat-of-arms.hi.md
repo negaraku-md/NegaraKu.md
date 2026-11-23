@@ -60,6 +60,13 @@ relations:
 related: ["jalur-gemilang", "negaraku-anthem", "nine-royal-houses"]
 keywords: ["Jata Negara", "मलेशिया का राष्ट्रीय राजचिह्न", "Bersekutu Bertambah Mutu", "जाता नेगारा का अर्थ", "ढाल धारण करते दो बाघ", "पाँच क्रिस फलक", "Bunga Raya", "अर्धचंद्र और 14-नोक वाला तारा", "Malaysia coat of arms"]
 framework: explainer
+hero: '/media/malaysia/coat-of-arms/hero.webp'
+heroAlt: 'मलेशिया के राजचिह्न की एक चित्रित उभरी नक्काशी, जिसमें एक अर्धचंद्र और तारे के नीचे एक ढाल के दोनों ओर दो बाघ हैं, और नीचे आदर्श वाक्य Bersekutu Bertambah Mutu अंकित है।'
+heroCredit: 'Hayden Soloviev / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Malaysia_in_Ottawa.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # जाता नेगारा: मलेशिया के राष्ट्रीय राजचिह्न को, तत्व-दर-तत्व, पढ़ना

@@ -75,6 +75,13 @@ relations:
 related: ["sabah", "sarawak", "ma63", "formation-of-malaysia-1963", "singapore-separation-1965"]
 keywords: ["Peninsular Malaysia", "East Malaysia", "Sabah Sarawak border", "South China Sea Malaysia", "Immigration Act 1959/63 Section 66", "Sarawak Land Code", "Sabah Land Ordinance", "Malaysian Standard Time 1982"]
 framework: explainer
+hero: '/media/malaysia/peninsular-and-borneo/hero.webp'
+heroAlt: 'マレーシアの地域区分地図。半島マレーシアとボルネオ島の東マレーシアが、南シナ海を挟んで色分けされた別々のブロックとして示されている。'
+heroCredit: 'Peter Fitzgerald / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_regions_map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 クアラルンプールからコタキナバルへ国内線で飛べば、あなたが降り立つのは、出発したときと同じ国である。同じ通貨、同じパスポート、尾翼には同じ国旗。それでも到着ロビーでは、移民審査のような窓口に並び、通過を許される前に身分証明書やパスポートを確認される。マレーシア国内の他のどの便も、そのようには機能しない。

@@ -80,6 +80,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/malaysia/public-holidays-in-malaysia/hero.webp'
+heroAlt: 'Colourful fireworks bursting over the Petronas Twin Towers and the Kuala Lumpur city skyline at night.'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Plan a trip, a product launch or a payroll run across Malaysia and you quickly discover something that catches outsiders off guard: a day that is a public holiday in Kuala Lumpur may be an ordinary working day in Kuching, and vice versa. Malaysia does not have one national holiday list so much as a national layer and thirteen state layers stacked on top of each other.

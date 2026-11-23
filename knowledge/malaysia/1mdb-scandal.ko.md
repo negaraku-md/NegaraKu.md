@@ -80,6 +80,13 @@ sources:
 related: ["2018-change-of-government", "barisan-nasional", "prime-ministers-of-malaysia"]
 keywords: ["1MDB", "1Malaysia Development Berhad", "Najib Razak", "Jho Low", "Malaysia financial scandal"]
 framework: history-culture
+hero: '/media/malaysia/1mdb-scandal/hero.webp'
+heroAlt: '쿠알라룸푸르의 툰 라작 익스체인지 금융지구 위로 솟아오른 익스체인지 106 마천루.'
+heroCredit: 'Henrywky961122 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Exchange_106.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 **1Malaysia Development Berhad(1MDB)**는 전략적 경제 개발을 촉진하기 위해

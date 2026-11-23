@@ -66,6 +66,13 @@ related: ["najib-razak", "anwar-ibrahim", "barisan-nasional", "2018-change-of-go
 keywords: ["GE13", "2013 general election Malaysia", "Barisan Nasional", "Pakatan Rakyat", "popular vote"]
 framework: history-culture
 wikidata: "Q6742054"
+hero: '/media/malaysia/2013-general-election/hero.webp'
+heroAlt: 'An election official applies indelible ink to a voter''s fingernail at a Malaysian polling station.'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAYSIA_GE13_(8713449487).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > **Draft — sensitive.** This article is a neutral, work-in-progress summary and

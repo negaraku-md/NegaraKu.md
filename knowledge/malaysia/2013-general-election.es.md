@@ -66,6 +66,13 @@ sources:
 related: ["najib-razak", "anwar-ibrahim", "barisan-nasional", "2018-change-of-government", "how-elections-work"]
 keywords: ["GE13", "elecciones generales 2013 Malasia", "Barisan Nasional", "Pakatan Rakyat", "voto popular"]
 framework: history-culture
+hero: '/media/malaysia/2013-general-election/hero.webp'
+heroAlt: 'Un funcionario electoral aplica tinta indeleble en la uña de un votante en un centro de votación de Malasia.'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAYSIA_GE13_(8713449487).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > **Borrador — sensible.** Este artículo es un resumen neutral y en elaboración que

@@ -66,6 +66,13 @@ sources:
 related: ["anwar-ibrahim", "ismail-sabri-yaakob", "muhyiddin-yassin", "prime-ministers-of-malaysia", "how-elections-work"]
 keywords: ["GE15", "2022 general election Malaysia", "hung parliament", "unity government", "Undi18"]
 framework: history-culture
+hero: '/media/malaysia/2022-general-election/hero.webp'
+heroAlt: '투표를 마친 유권자의 왼쪽 검지에 보라색 지워지지 않는 잉크가 묻어 있다.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:GE15_Ink.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > **초안 — 민감.** 이 글은 중립적이고 작성 중인 요약이며 발행을 위한 검토를

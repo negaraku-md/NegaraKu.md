@@ -76,6 +76,13 @@ relations:
 related: ["sabah", "sarawak", "ma63", "formation-of-malaysia-1963", "singapore-separation-1965"]
 keywords: ["Peninsular Malaysia", "East Malaysia", "Sabah Sarawak border", "South China Sea Malaysia", "Immigration Act 1959/63 Section 66", "Sarawak Land Code", "Sabah Land Ordinance", "Malaysian Standard Time 1982"]
 framework: explainer
+hero: '/media/malaysia/peninsular-and-borneo/hero.webp'
+heroAlt: '马来西亚分区地图，马来西亚半岛与婆罗洲上的东马来西亚以色块区分，隔着南中国海分列两侧。'
+heroCredit: 'Peter Fitzgerald / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_regions_map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 从吉隆坡搭乘国内航班飞往哥打京那巴鲁，你降落的仍是你离开时的那个国家。同样的货币，同样的护照，机尾上同样的国旗。然而，在抵达大厅，你却要在一个具有移民关卡性质的柜台前排队，有人会在放行之前检查你的身份证或护照。马来西亚境内没有其他任何一趟航班是这样运作的。

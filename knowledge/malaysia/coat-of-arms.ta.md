@@ -60,6 +60,13 @@ relations:
 related: ["jalur-gemilang", "negaraku-anthem", "nine-royal-houses"]
 keywords: ["Jata Negara", "lambang kebangsaan Malaysia", "Bersekutu Bertambah Mutu", "maksud Jata Negara", "dua ekor harimau perisai", "lima bilah keris", "Bunga Raya", "anak bulan bintang pecah 14"]
 framework: explainer
+hero: '/media/malaysia/coat-of-arms/hero.webp'
+heroAlt: 'பிறை நிலவு மற்றும் நட்சத்திரத்திற்குக் கீழே ஒரு கேடயத்தின் இருபுறமும் இரண்டு புலிகள் நிற்கும், Bersekutu Bertambah Mutu என்ற குறிக்கோள் வாசகத்திற்கு மேலே அமைந்த மலேசியாவின் சின்னத்தின் வண்ணம் தீட்டிய புடைப்புச் சிற்பம்.'
+heroCredit: 'Hayden Soloviev / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Malaysia_in_Ottawa.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # ஜாதா நெகாரா (Jata Negara): மலேசியாவின் தேசியக் கேடயத்தை உறுப்பு உறுப்பாக வாசித்தல்

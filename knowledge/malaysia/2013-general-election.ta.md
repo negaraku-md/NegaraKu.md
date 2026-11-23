@@ -66,6 +66,13 @@ sources:
 related: ["najib-razak", "anwar-ibrahim", "barisan-nasional", "2018-change-of-government", "how-elections-work"]
 keywords: ["GE13", "2013 general election Malaysia", "Barisan Nasional", "Pakatan Rakyat", "popular vote"]
 framework: history-culture
+hero: '/media/malaysia/2013-general-election/hero.webp'
+heroAlt: 'மலேசியாவில் ஒரு வாக்குச்சாவடியில் வாக்காளரின் விரல் நகத்தில் தேர்தல் அதிகாரி அழியாத மையைத் தடவுகிறார்.'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAYSIA_GE13_(8713449487).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > **வரைவு — உணர்திறன் வாய்ந்தது.** இக்கட்டுரை ஒரு நடுநிலையான, பணியில் உள்ள

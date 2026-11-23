@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/malaysia/public-holidays-in-malaysia/hero.webp'
+heroAlt: 'रात में पेट्रोनास ट्विन टावर्स और कुआलालंपुर के शहरी क्षितिज के ऊपर फूटती रंगबिरंगी आतिशबाजी।'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 मलेशिया भर में एक यात्रा, एक उत्पाद लॉन्च या एक पेरोल चक्र की योजना बनाएँ और आपको जल्द ही कुछ ऐसा पता चलेगा जो बाहरी लोगों को चौंका देता है: जो दिन कुआलालंपुर में सार्वजनिक छुट्टी है वह कुचिंग में एक सामान्य कार्यदिवस हो सकता है, और इसके विपरीत भी। मलेशिया में एक राष्ट्रीय छुट्टी सूची नहीं है बल्कि एक राष्ट्रीय परत और तेरह राज्य परतें एक-दूसरे के ऊपर रखी हुई हैं।

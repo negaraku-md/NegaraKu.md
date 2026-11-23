@@ -78,6 +78,13 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution", "urbanisation", "religion-statistics", "independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malaysia facts", "Malaysia population", "Malaysia land area", "Malaysian ringgit", "Kuala Lumpur capital", "Putrajaya", "Bahasa Melayu", "Malaysia GDP", "DOSM", "Bank Negara Malaysia", "Malaysia at a glance"]
 framework: data-reference
+hero: '/media/malaysia/malaysia-at-a-glance/hero.webp'
+heroAlt: 'பெட்ரோனாஸ் இரட்டை கோபுரங்கள் மற்றும் சுற்றியுள்ள வானளாவிய கட்டிடங்களால் நிறைந்த, இரவில் ஒளிரும் கோலாலம்பூர் வானோரக் காட்சி.'
+heroCredit: 'Lah sadzik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_skyline_at_night.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 "மலேசியா எவ்வளவு பெரியது" அல்லது "மலேசியாவின் மக்கள்தொகை என்ன" என்று கேளுங்கள் — நீங்கள் எந்த வலைத்தளத்தை அடைகிறீர்கள் என்பதைப் பொறுத்து வெவ்வேறு பதிலைப் பெறுவீர்கள்; சிலர் 2020 மக்கள்தொகை கணக்கெடுப்பு எண்களை மேற்கோள் காட்டுகின்றனர், சிலர் இரண்டு திருத்தங்கள் பின்தங்கிய உலக வங்கியின் (World Bank) மதிப்பீட்டை மேற்கோள் காட்டுகின்றனர். இதைச் சரிசெய்யவே இந்தப் பக்கம் உள்ளது: கீழேயுள்ள ஒவ்வொரு எண்ணும் ஒரு பெயரிடப்பட்ட அலுவல்முறை வெளியீட்டிலிருந்து, தேதியுடன் வருகிறது; அதனால் அது எவ்வளவு புதியது என்பதை நீங்கள் துல்லியமாகக் காணலாம், நீங்களே சரிபார்க்கவும் முடியும்.

@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/malaysia/public-holidays-in-malaysia/hero.webp'
+heroAlt: '밤하늘에 화려한 불꽃이 페트로나스 트윈 타워와 쿠알라룸푸르 도시 스카이라인 위로 터지고 있다.'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 말레이시아 전역에서 여행, 제품 출시, 급여 지급을 계획하다 보면, 외부인을 당황하게 하는 사실을 금방 발견합니다. 쿠알라룸푸르에서 공휴일인 날이 쿠칭에서는 평범한 근무일일 수 있고, 그 반대도 마찬가지입니다. 말레이시아에는 하나의 국가 공휴일 목록이 있다기보다, 하나의 국가 층과 그 위에 쌓인 열세 개의 주 층이 있습니다.

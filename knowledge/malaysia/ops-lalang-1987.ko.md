@@ -93,6 +93,13 @@ relations:
 related: []
 keywords: ["Ops Lalang", "Operation Lalang", "Internal Security Act", "ISA 1960", "detention without trial", "1987 Malaysia", "SOSMA", "press freedom Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/ops-lalang-1987/hero.webp'
+heroAlt: '푸트라자야에 있는 사법궁(Palace of Justice)으로, 말레이시아 상급 법원이 자리한 곳이다.'
+heroCredit: 'Wolfiewhite / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angled_view_of_the_front_of_Palace_of_Justice,_Putrajaya.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1987년 10월 하순, 체포가 시작된 그 밤에 닫힌 문은 감방 문만이 아니었습니다. 며칠 사이에 세 개의 신문이 문을 닫았고, "랄랑 작전(Ops Lalang)"이라는 말은 재판 없는 구금을 뜻하는 말레이시아 정치 기억의 상징으로 자리 잡았습니다. 거의 40년이 지난 지금도 이 사건은 여전히 논쟁의 대상입니다. 무엇을 막았는가, 무엇을 침묵시켰는가, 그리고 국가가 시민에 대해 가질 수 있는 권한에 관해 무엇을 말하는가.

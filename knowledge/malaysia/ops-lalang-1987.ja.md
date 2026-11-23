@@ -93,6 +93,13 @@ relations:
 related: []
 keywords: ["Ops Lalang", "Operation Lalang", "Internal Security Act", "ISA 1960", "detention without trial", "1987 Malaysia", "SOSMA", "press freedom Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/ops-lalang-1987/hero.webp'
+heroAlt: 'プトラジャヤにある司法宮殿（パレス・オブ・ジャスティス）。マレーシアの上級裁判所が置かれている。'
+heroCredit: 'Wolfiewhite / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angled_view_of_the_front_of_Palace_of_Justice,_Putrajaya.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1987年10月下旬に逮捕が始まった夜、閉ざされたのは独房の扉だけではなかった——数日のうちに三つの新聞が沈黙し、「茅草行動（Ops Lalang）」という言葉は、裁判なしの拘禁を指す略称としてマレーシアの政治的記憶に刻まれた。四十年近くを経た今もなお、それは論争の的であり続けている——それが何を防いだのか、何を封じたのか、そして国家がその市民に対してどのような権力を保持しうるかについて、それが何を物語るのか。

@@ -93,6 +93,13 @@ relations:
 related: []
 keywords: ["Ops Lalang", "Operation Lalang", "Internal Security Act", "ISA 1960", "detention without trial", "1987 Malaysia", "SOSMA", "press freedom Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/ops-lalang-1987/hero.webp'
+heroAlt: 'Bangunan Istana Kehakiman di Putrajaya, tempat mahkamah atasan Malaysia.'
+heroCredit: 'Wolfiewhite / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angled_view_of_the_front_of_Palace_of_Justice,_Putrajaya.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Pada malam tangkapan itu bermula pada hujung Oktober 1987, pintu yang tertutup bukan sahaja pintu sel — tiga akhbar terpadam dalam beberapa hari, dan ungkapan "Ops Lalang" masuk ke dalam ingatan politik Malaysia sebagai singkatan bagi penahanan tanpa perbicaraan. Hampir empat dekad kemudian, ia masih diperdebatkan: apa yang dicegahnya, apa yang dibungkamnya, dan apa yang ia gambarkan tentang kuasa yang boleh dipegang sesebuah negara ke atas rakyatnya.

@@ -66,6 +66,13 @@ sources:
 related: ["najib-razak", "anwar-ibrahim", "barisan-nasional", "2018-change-of-government", "how-elections-work"]
 keywords: ["GE13", "2013 general election Malaysia", "Barisan Nasional", "Pakatan Rakyat", "popular vote"]
 framework: history-culture
+hero: '/media/malaysia/2013-general-election/hero.webp'
+heroAlt: 'マレーシアの投票所で、選挙管理官が有権者の爪に消えないインクを塗っている。'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAYSIA_GE13_(8713449487).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > **草稿——センシティブ。** 本稿は中立的な、作成途上の要約であり、公開に向けた審査をまだ経ていない。本稿は選挙、および当時用いられた種族的な語りの枠組みを扱っており、3R+1のテーマに触れるものであり、公開されていない。

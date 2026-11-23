@@ -59,6 +59,13 @@ relations:
 related: ["jalur-gemilang", "negaraku-anthem", "nine-royal-houses"]
 keywords: ["Jata Negara", "lambang kebangsaan Malaysia", "Bersekutu Bertambah Mutu", "maksud Jata Negara", "dua ekor harimau perisai", "lima bilah keris", "Bunga Raya", "anak bulan bintang pecah 14"]
 framework: explainer
+hero: '/media/malaysia/coat-of-arms/hero.webp'
+heroAlt: '马来西亚国徽的彩绘浮雕，两只老虎分立盾徽两侧，盾徽上方为新月与星，下方为格言Bersekutu Bertambah Mutu。'
+heroCredit: 'Hayden Soloviev / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Malaysia_in_Ottawa.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # 国徽 Jata Negara：逐一解读马来西亚国家徽章的每个元素

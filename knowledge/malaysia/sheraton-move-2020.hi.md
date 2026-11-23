@@ -66,6 +66,13 @@ sources:
 related: ["muhyiddin-yassin", "mahathir-mohamad", "anwar-ibrahim", "2018-change-of-government", "2022-general-election"]
 keywords: ["शेरेटन मूव", "लांगकाह शेरेटन", "2020 मलेशिया राजनीतिक संकट", "परिकातान नासिओनाल", "सरकार परिवर्तन 2020", "Sheraton Move", "Langkah Sheraton", "Perikatan Nasional"]
 framework: history-culture
+hero: '/media/malaysia/sheraton-move-2020/hero.webp'
+heroAlt: 'पुत्रजय में मलेशिया के प्रधानमंत्री कार्यालय वाली पर्दाना पुत्र इमारत, जिसका हरा गुंबद है।'
+heroCredit: 'Stress 043 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Front_building_Perdana_Putra_Putrajaya_2024.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > **मसौदा — संवेदनशील।** यह लेख एक तटस्थ, कार्य-प्रगति-पर सारांश है और इसकी

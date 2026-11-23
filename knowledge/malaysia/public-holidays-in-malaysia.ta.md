@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/malaysia/public-holidays-in-malaysia/hero.webp'
+heroAlt: 'இரவில் பெட்ரோனாஸ் இரட்டை கோபுரங்கள் மற்றும் கோலாலம்பூர் நகர வானோரத்திற்கு மேலே வெடிக்கும் வண்ணமயமான வானவேடிக்கை.'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 மலேசியா முழுவதும் ஒரு பயணத்தை, ஒரு தயாரிப்பு வெளியீட்டை அல்லது ஒரு சம்பளக் கணக்கீட்டைத் திட்டமிட்டால், வெளியாட்களைத் திகைக்க வைக்கும் ஒன்றை நீங்கள் விரைவில் கண்டுபிடிப்பீர்கள்: Kuala Lumpur இல் பொது விடுமுறையாக உள்ள ஒரு நாள் Kuching இல் ஒரு சாதாரண வேலைநாளாக இருக்கலாம், அல்லது நேர்மாறாகவும் இருக்கலாம். மலேசியாவுக்கு ஒரே தேசிய விடுமுறைப் பட்டியல் இல்லை, மாறாக ஒரு தேசிய அடுக்கும் அதன் மேல் அடுக்கப்பட்ட பதின்மூன்று மாநில அடுக்குகளும் உள்ளன.

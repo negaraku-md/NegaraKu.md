@@ -76,6 +76,13 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution", "urbanisation", "religion-statistics", "independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malaysia facts", "Malaysia population", "Malaysia land area", "Malaysian ringgit", "Kuala Lumpur capital", "Putrajaya", "Bahasa Melayu", "Malaysia GDP", "DOSM", "Bank Negara Malaysia", "Malaysia at a glance"]
 framework: data-reference
+hero: '/media/malaysia/malaysia-at-a-glance/hero.webp'
+heroAlt: '夜に照らされたクアラルンプールのスカイライン。ペトロナスツインタワーと周囲の高層ビル群がひときわ目立つ。'
+heroCredit: 'Lah sadzik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_skyline_at_night.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 「マレーシアはどれくらいの大きさか」「マレーシアの人口はどれくらいか」と尋ねれば、どのウェブサイトにたどり着くかによって異なる答えが返ってくる——あるものは2020年国勢調査の数字を引用し、あるものは2回分古い世界銀行の推計値を引用している。本ページはその問題を解決するために存在する。以下の数値はすべて、具名の公式発表に基づき発表日が付されているため、それがどれだけ新しいかを正確に確認でき、自分自身で検証することもできる。

@@ -93,6 +93,13 @@ relations:
 related: []
 keywords: ["Ops Lalang", "ऑप्स लालांग", "Operation Lalang", "Internal Security Act", "आंतरिक सुरक्षा अधिनियम", "ISA 1960", "बिना मुकदमे के हिरासत", "detention without trial", "1987 Malaysia", "SOSMA", "मलेशिया में प्रेस स्वतंत्रता"]
 framework: history-culture
+hero: '/media/malaysia/ops-lalang-1987/hero.webp'
+heroAlt: 'पुत्रजय में पैलेस ऑफ जस्टिस की इमारत, जो मलेशिया की उच्चतर अदालतों का स्थान है।'
+heroCredit: 'Wolfiewhite / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angled_view_of_the_front_of_Palace_of_Justice,_Putrajaya.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 अक्टूबर 1987 के अंत में जिस रात गिरफ्तारियाँ आरंभ हुईं, जो दरवाज़े बंद हुए वे केवल कोठरियों के दरवाज़े नहीं थे — कुछ ही दिनों में तीन समाचारपत्र शांत हो गए, और "ऑप्स लालांग" वाक्यांश बिना मुकदमे के हिरासत के संक्षिप्त रूप के रूप में मलेशियाई राजनीतिक स्मृति में प्रविष्ट हो गया। लगभग चार दशक बाद, इस पर अब भी बहस होती है: इसने क्या रोका, इसने क्या शांत किया, और यह उन शक्तियों के बारे में क्या कहता है जो एक राज्य अपने नागरिकों पर धारण कर सकता है।

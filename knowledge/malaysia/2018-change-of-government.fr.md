@@ -61,6 +61,13 @@ relations:
 related: ["spr-election-commission", "dewan-rakyat", "how-elections-work", "federal-constitution", "independence-1957"]
 keywords: ["14es élections générales", "GE14", "PRU14", "élections générales de Malaisie de 2018", "changement de gouvernement Malaisie", "Pakatan Harapan", "Barisan Nasional", "Dewan Rakyat 222 sièges", "article 43 de la Constitution fédérale", "Mahathir septième Premier ministre"]
 framework: history-culture
+hero: '/media/malaysia/2018-change-of-government/hero.webp'
+heroAlt: 'Un bâtiment scolaire utilisé comme bureau de vote le jour des élections en Malaisie, avec des panneaux directionnels pour les électeurs.'
+heroCredit: 'Two hundred percent / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:2008_general_election_polling_station,_Kajang.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Pendant 61 ans, des premières élections fédérales après l'indépendance de 1957 jusqu'en 2018, chaque gouvernement fédéral de la Malaisie a été formé par une seule coalition — [l'Alliance](/malaysia/the-alliance), et à partir des années 1970 son successeur, le [Barisan Nasional](/malaysia/barisan-nasional). Lors des 14es élections générales, cette continuité a pris fin : une coalition différente a remporté une majorité des sièges du Dewan Rakyat.

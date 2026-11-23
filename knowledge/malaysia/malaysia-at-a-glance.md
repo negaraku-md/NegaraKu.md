@@ -77,6 +77,13 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution", "urbanisation", "religion-statistics", "independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malaysia facts", "Malaysia population", "Malaysia land area", "Malaysian ringgit", "Kuala Lumpur capital", "Putrajaya", "Bahasa Melayu", "Malaysia GDP", "DOSM", "Bank Negara Malaysia", "Malaysia at a glance"]
 framework: data-reference
+hero: '/media/malaysia/malaysia-at-a-glance/hero.webp'
+heroAlt: 'The illuminated Kuala Lumpur skyline at night, dominated by the Petronas Twin Towers and surrounding skyscrapers.'
+heroCredit: 'Lah sadzik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_skyline_at_night.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Ask "how big is Malaysia" or "what's Malaysia's population" and you'll get a different answer depending on which website you land on — some quoting 2020 census figures, some quoting a World Bank estimate two revisions behind. This page exists to fix that: every figure below comes from a named official release, dated, so you can see exactly how current it is and check it yourself.

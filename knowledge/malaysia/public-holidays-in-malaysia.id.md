@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/malaysia/public-holidays-in-malaysia/hero.webp'
+heroAlt: 'Kembang api warna-warni meledak di atas Menara Kembar Petronas dan kaki langit kota Kuala Lumpur pada malam hari.'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Rencanakan sebuah perjalanan, peluncuran produk, atau proses penggajian lintas Malaysia, dan Anda akan segera menemukan sesuatu yang mengejutkan orang luar: hari yang menjadi hari libur umum di Kuala Lumpur bisa jadi merupakan hari kerja biasa di Kuching, dan sebaliknya. Malaysia tidak memiliki satu daftar hari libur nasional, melainkan satu lapisan nasional dan tiga belas lapisan negara bagian yang ditumpuk di atasnya.

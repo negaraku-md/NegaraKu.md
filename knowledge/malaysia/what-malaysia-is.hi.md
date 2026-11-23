@@ -55,6 +55,13 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["मलेशिया क्या है", "what is Malaysia", "मलेशिया का संघ", "federation of Malaysia", "13 राज्य 3 संघीय क्षेत्र", "निर्वाचनात्मक राजशाही", "elective monarchy Malaysia", "मलेशिया की संघीय संरचना", "Yang di-Pertuan Agong", "संघीय संविधान", "Federal Constitution"]
 framework: explainer
+hero: '/media/malaysia/what-malaysia-is/hero.webp'
+heroAlt: 'मलेशिया का एक राजनीतिक मानचित्र जिसमें पश्चिम में प्रायद्वीपीय मलेशिया और पूर्व में बोर्नियो पर साबाह तथा सारावाक दर्शाए गए हैं, और प्रमुख शहर अंकित हैं।'
+heroCredit: 'U.S. Central Intelligence Agency (CIA) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 मलेशिया एक सरकार वाला कोई एक स्थान नहीं है। यह एक संघ है — एक ऐसा देश जो तेरह राज्यों और तीन संघीय क्षेत्रों को जोड़कर बुना गया है, और जो दो भूभागों पर स्थित है जिनके बीच दक्षिण चीन सागर के कई सौ किलोमीटर की दूरी है। इस संरचना को पहले समझ लेने से इस देश के बारे में लगभग हर दूसरी बात का अनुसरण करना कहीं आसान हो जाता है।

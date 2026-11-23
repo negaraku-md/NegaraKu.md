@@ -6997,5 +6997,161 @@
       "alt": "A black-and-white portrait of the Malay nationalist leader Ibrahim Yaacob in a buttoned jacket.",
       "position": "top"
     }
+  },
+  "malaysia/what-malaysia-is": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Malaysia-CIA_WFB_Map.png",
+      "license": "Public domain",
+      "by": "U.S. Central Intelligence Agency (CIA)",
+      "page": "https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png",
+      "kind": "representative",
+      "subject": "A reference map of Malaysia showing Peninsular Malaysia and the states of Sabah and Sarawak on the island of Borneo, with major cities marked.",
+      "alt": "A political map of Malaysia showing Peninsular Malaysia to the west and Sabah and Sarawak on Borneo to the east, labelled with major cities.",
+      "position": "centre"
+    }
+  },
+  "malaysia/peninsular-and-borneo": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Malaysia_regions_map.png",
+      "license": "CC BY-SA 4.0",
+      "by": "Peter Fitzgerald",
+      "page": "https://commons.wikimedia.org/wiki/File:Malaysia_regions_map.png",
+      "kind": "representative",
+      "subject": "A colour-coded regions map of Malaysia distinguishing Peninsular Malaysia from East Malaysia (Sabah and Sarawak) on Borneo, separated by the South China Sea.",
+      "alt": "A regions map of Malaysia with Peninsular Malaysia and East Malaysia on Borneo shown as separate colour-coded blocks across the South China Sea.",
+      "position": "centre"
+    }
+  },
+  "malaysia/malaysia-at-a-glance": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Kuala_Lumpur_skyline_at_night.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Lah sadzik",
+      "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_skyline_at_night.jpg",
+      "kind": "representative",
+      "subject": "The Kuala Lumpur skyline at night, with the Petronas Twin Towers and other high-rise buildings of Malaysia's capital city.",
+      "alt": "The illuminated Kuala Lumpur skyline at night, dominated by the Petronas Twin Towers and surrounding skyscrapers.",
+      "position": "attention"
+    }
+  },
+  "malaysia/ma63": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "CEphoto, Uwe Aranas",
+      "page": "https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg",
+      "kind": "representative",
+      "subject": "The Sarawak State Legislative Assembly building (Dewan Undangan Negeri Sarawak), with its distinctive umbrella-shaped roof, in Kuching — a symbol of the Borneo state's autonomy under the Malaysia Agreement 1963.",
+      "alt": "The Sarawak State Legislative Assembly building in Kuching, topped by a tall golden umbrella-shaped roof, beside the Sarawak River.",
+      "position": "attention"
+    }
+  },
+  "malaysia/1mdb-scandal": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Exchange_106.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Henrywky961122",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Exchange_106.jpg",
+      "kind": "representative",
+      "subject": "The Exchange 106 tower at the Tun Razak Exchange (TRX) financial district in Kuala Lumpur, the development historically associated with 1MDB.",
+      "alt": "The Exchange 106 skyscraper rising above the Tun Razak Exchange financial district in Kuala Lumpur.",
+      "position": "attention"
+    }
+  },
+  "malaysia/ops-lalang-1987": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Angled_view_of_the_front_of_Palace_of_Justice%2C_Putrajaya.jpg",
+      "license": "CC0",
+      "by": "Wolfiewhite",
+      "page": "https://commons.wikimedia.org/wiki/File:Angled_view_of_the_front_of_Palace_of_Justice,_Putrajaya.jpg",
+      "kind": "representative",
+      "subject": "The Palace of Justice (Istana Kehakiman) in Putrajaya, which houses Malaysia's Court of Appeal and Federal Court.",
+      "alt": "The Palace of Justice building in Putrajaya, home of Malaysia's superior courts.",
+      "position": "attention"
+    }
+  },
+  "malaysia/sheraton-move-2020": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Front_building_Perdana_Putra_Putrajaya_2024.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Stress 043",
+      "page": "https://commons.wikimedia.org/wiki/File:Front_building_Perdana_Putra_Putrajaya_2024.jpg",
+      "kind": "representative",
+      "subject": "Perdana Putra, the office complex of the Prime Minister of Malaysia at Putrajaya.",
+      "alt": "The Perdana Putra building housing the Malaysian Prime Minister's Office in Putrajaya, with its green dome.",
+      "position": "attention"
+    }
+  },
+  "malaysia/1998-reformasi": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Bank_Negara_Malaysia.JPG",
+      "license": "CC BY-SA 3.0",
+      "by": "Kaihsu Tai",
+      "page": "https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia.JPG",
+      "kind": "representative",
+      "subject": "Bank Negara Malaysia, the country's central bank in Kuala Lumpur, a neutral depiction tied to the Asian financial crisis context.",
+      "alt": "The Bank Negara Malaysia central bank building in Kuala Lumpur.",
+      "position": "attention"
+    }
+  },
+  "malaysia/2013-general-election": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/MALAYSIA_GE13_%288713449487%29.jpg",
+      "license": "CC BY-SA 2.0",
+      "by": "Firdaus Latif",
+      "page": "https://commons.wikimedia.org/wiki/File:MALAYSIA_GE13_(8713449487).jpg",
+      "kind": "representative",
+      "subject": "Indelible ink is applied to a voter's finger during Malaysia's 2013 general election in Kuala Lumpur.",
+      "alt": "An election official applies indelible ink to a voter's fingernail at a Malaysian polling station.",
+      "position": "attention"
+    }
+  },
+  "malaysia/2018-change-of-government": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/2008_general_election_polling_station%2C_Kajang.jpg",
+      "license": "CC BY-SA 3.0",
+      "by": "Two hundred percent",
+      "page": "https://commons.wikimedia.org/wiki/File:2008_general_election_polling_station,_Kajang.jpg",
+      "kind": "representative",
+      "subject": "A Malaysian school serves as a polling station on a general-election polling day.",
+      "alt": "A school building in use as a polling station on election day in Malaysia, with directional signs for voters.",
+      "position": "attention"
+    }
+  },
+  "malaysia/2022-general-election": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/GE15_Ink.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "AyyanD",
+      "page": "https://commons.wikimedia.org/wiki/File:GE15_Ink.jpg",
+      "kind": "representative",
+      "subject": "A voter's finger is marked with indelible ink during Malaysia's 2022 general election.",
+      "alt": "A voter's left index finger stained with purple indelible ink after casting a ballot.",
+      "position": "attention"
+    }
+  },
+  "malaysia/public-holidays-in-malaysia": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/MALAM_TAHUN_BARU_%285309956159%29.jpg",
+      "license": "CC BY-SA 2.0",
+      "by": "Firdaus Latif",
+      "page": "https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg",
+      "kind": "representative",
+      "subject": "Fireworks light up the night sky above the Petronas Twin Towers and the Kuala Lumpur skyline during a festive celebration.",
+      "alt": "Colourful fireworks bursting over the Petronas Twin Towers and the Kuala Lumpur city skyline at night.",
+      "position": "attention"
+    }
+  },
+  "malaysia/coat-of-arms": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Coat_of_arms_of_Malaysia_in_Ottawa.jpg",
+      "license": "CC BY 4.0",
+      "by": "Hayden Soloviev",
+      "page": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Malaysia_in_Ottawa.jpg",
+      "kind": "actual",
+      "subject": "The Jata Negara, the coat of arms of Malaysia, mounted on the facade of a Malaysian diplomatic mission.",
+      "alt": "A painted relief of Malaysia's coat of arms, with two tigers flanking a shield beneath a crescent and star above the motto Bersekutu Bertambah Mutu.",
+      "position": "attention"
+    }
   }
 }

@@ -66,6 +66,13 @@ sources:
 related: ["muhyiddin-yassin", "mahathir-mohamad", "anwar-ibrahim", "2018-change-of-government", "2022-general-election"]
 keywords: ["Sheraton Move", "Langkah Sheraton", "2020 political crisis Malaysia", "Perikatan Nasional", "change of government 2020"]
 framework: history-culture
+hero: '/media/malaysia/sheraton-move-2020/hero.webp'
+heroAlt: 'プトラジャヤにある緑のドームを備えたプルダナ・プトラ（Perdana Putra）。マレーシア首相府が置かれている。'
+heroCredit: 'Stress 043 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Front_building_Perdana_Putra_Putrajaya_2024.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > **下書き——機微な内容。** 本記事は中立的な、作業中の要約であり、公開に向けた

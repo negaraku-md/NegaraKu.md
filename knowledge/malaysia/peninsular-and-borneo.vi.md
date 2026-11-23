@@ -77,6 +77,13 @@ relations:
 related: ["sabah", "sarawak", "ma63", "formation-of-malaysia-1963", "singapore-separation-1965"]
 keywords: ["Peninsular Malaysia", "East Malaysia", "Sabah Sarawak border", "South China Sea Malaysia", "Immigration Act 1959/63 Section 66", "Sarawak Land Code", "Sabah Land Ordinance", "Malaysian Standard Time 1982"]
 framework: explainer
+hero: '/media/malaysia/peninsular-and-borneo/hero.webp'
+heroAlt: 'Bản đồ các vùng của Malaysia với Bán đảo Malaysia và Đông Malaysia trên đảo Borneo được thể hiện thành những khối riêng biệt phân theo màu, nằm hai bên Biển Đông.'
+heroCredit: 'Peter Fitzgerald / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_regions_map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Bay nội địa từ Kuala Lumpur đến Kota Kinabalu và bạn hạ cánh ở chính đất nước mà bạn đã rời đi. Cùng đồng tiền, cùng hộ chiếu, cùng lá cờ trên đuôi máy bay. Vậy mà, tại sảnh đến, bạn xếp hàng ở một quầy kiểu nhập cư và ai đó kiểm tra thẻ căn cước hoặc hộ chiếu của bạn trước khi bạn được đi qua. Không một chuyến bay nào khác bên trong Malaysia hoạt động theo cách đó.

@@ -60,6 +60,13 @@ relations:
 related: ["jalur-gemilang", "negaraku-anthem", "nine-royal-houses"]
 keywords: ["Jata Negara", "emblema nacional de Malasia", "Bersekutu Bertambah Mutu", "significado del Jata Negara", "dos tigres sosteniendo el escudo", "cinco hojas de kris", "Bunga Raya", "luna creciente y estrella de 14 puntas", "Malaysia coat of arms"]
 framework: explainer
+hero: '/media/malaysia/coat-of-arms/hero.webp'
+heroAlt: 'Un relieve pintado del escudo de armas de Malasia, con dos tigres flanqueando un escudo bajo una luna creciente y una estrella, sobre el lema Bersekutu Bertambah Mutu.'
+heroCredit: 'Hayden Soloviev / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Malaysia_in_Ottawa.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # Jata Negara: leer el escudo nacional de Malasia, elemento por elemento

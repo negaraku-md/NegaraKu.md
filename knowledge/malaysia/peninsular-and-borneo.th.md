@@ -76,6 +76,13 @@ relations:
 related: ["sabah", "sarawak", "ma63", "formation-of-malaysia-1963", "singapore-separation-1965"]
 keywords: ["Peninsular Malaysia", "East Malaysia", "Sabah Sarawak border", "South China Sea Malaysia", "Immigration Act 1959/63 Section 66", "Sarawak Land Code", "Sabah Land Ordinance", "Malaysian Standard Time 1982"]
 framework: explainer
+hero: '/media/malaysia/peninsular-and-borneo/hero.webp'
+heroAlt: 'แผนที่แสดงภูมิภาคของมาเลเซีย โดยคาบสมุทรมาเลเซียและมาเลเซียตะวันออกบนเกาะบอร์เนียวแสดงเป็นบล็อกแยกกันด้วยสีคนละสี คั่นด้วยทะเลจีนใต้'
+heroCredit: 'Peter Fitzgerald / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_regions_map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 บินภายในประเทศจากกัวลาลัมเปอร์ไปโกตากินาบาลูแล้วคุณลงจอดในประเทศเดียวกับที่คุณจากมา สกุลเงินเดียวกัน หนังสือเดินทางเดียวกัน ธงเดียวกันบนหางเครื่อง แต่ที่โถงผู้โดยสารขาเข้า คุณต่อคิวที่เคาน์เตอร์แบบตรวจคนเข้าเมืองและมีคนตรวจบัตรประจำตัวหรือหนังสือเดินทางของคุณก่อนที่คุณจะผ่านได้ ไม่มีเที่ยวบินอื่นภายในมาเลเซียที่ทำงานเช่นนั้น

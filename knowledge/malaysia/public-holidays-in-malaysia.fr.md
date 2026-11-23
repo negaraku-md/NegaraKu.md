@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/malaysia/public-holidays-in-malaysia/hero.webp'
+heroAlt: 'Des feux d''artifice colorés éclatant au-dessus des Petronas Twin Towers et de la ligne d''horizon de Kuala Lumpur la nuit.'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Planifiez un voyage, un lancement de produit ou une paie à travers la Malaisie et vous découvrez vite une chose qui prend les étrangers au dépourvu : un jour qui est férié à Kuala Lumpur peut être un jour ouvrable ordinaire à Kuching, et inversement. La Malaisie n'a pas tant une liste de jours fériés nationale qu'une couche nationale et treize couches d'État empilées les unes sur les autres.

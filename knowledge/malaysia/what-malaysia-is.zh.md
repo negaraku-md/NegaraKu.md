@@ -55,6 +55,13 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["what is Malaysia", "federation of Malaysia", "13 states 3 federal territories", "elective monarchy Malaysia", "federal structure Malaysia", "Yang di-Pertuan Agong", "Federal Constitution"]
 framework: explainer
+hero: '/media/malaysia/what-malaysia-is/hero.webp'
+heroAlt: '马来西亚政治地图，西边是马来西亚半岛，东边是婆罗洲上的沙巴和砂拉越，并标注了主要城市。'
+heroCredit: 'U.S. Central Intelligence Agency (CIA) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 马来西亚不是一个由单一政府治理的单一地方。它是一个联邦——一个由十三个州属与三个联邦直辖区拼合而成的单一国家，坐落在被数百公里南中国海分隔的两块陆地之上。先理解这一结构，会让这个国家的几乎其他一切都更容易理解。

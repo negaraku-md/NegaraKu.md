@@ -66,6 +66,13 @@ relations:
 related: ["new-economic-policy", "13-may-1969", "independence-1957", "formation-of-malaysia-1963", "federal-constitution"]
 keywords: ["1998 Malaysia", "Asian Financial Crisis Malaysia", "capital controls", "ringgit peg RM3.80", "selective exchange controls", "Reformasi", "Anwar Ibrahim 1998", "National Economic Recovery Plan", "Danaharta", "Danamodal", "managed float 2005"]
 framework: history-culture
+hero: '/media/malaysia/1998-reformasi/hero.webp'
+heroAlt: 'クアラルンプールにあるマレーシア国立銀行（中央銀行）の建物。'
+heroCredit: 'Kaihsu Tai / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1998年9月のわずか一週間のうちに、マレーシアは、それぞれが長年にわたり議論され続けることになる二つのことを行った。自国通貨のオフショア市場を閉鎖し、リンギットを米ドルに固定したのである——これは、国際通貨基金（IMF）が当時この地域に推奨していた正統的な方針からの逸脱であった。そして、副首相と財務大臣を兼任していた人物を解任し、改革運動（Reformasi）という名を冠した抗議運動を引き起こした。

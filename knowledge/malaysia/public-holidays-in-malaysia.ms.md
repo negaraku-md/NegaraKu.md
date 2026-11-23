@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/malaysia/public-holidays-in-malaysia/hero.webp'
+heroAlt: 'Bunga api berwarna-warni meletup di atas Menara Berkembar Petronas dan kaki langit bandar raya Kuala Lumpur pada waktu malam.'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Rancang satu perjalanan, pelancaran produk atau proses gaji merentasi Malaysia dan anda akan cepat mendapati sesuatu yang mengejutkan orang luar: hari yang menjadi cuti umum di Kuala Lumpur mungkin merupakan hari bekerja biasa di Kuching, dan sebaliknya. Malaysia bukannya mempunyai satu senarai cuti kebangsaan, sebaliknya satu lapisan kebangsaan dan tiga belas lapisan negeri yang bertindih antara satu sama lain.

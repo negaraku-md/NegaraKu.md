@@ -67,6 +67,13 @@ relations:
 related: ["new-economic-policy", "13-may-1969", "independence-1957", "formation-of-malaysia-1963", "federal-constitution"]
 keywords: ["1998 Malaisie", "crise financière asiatique Malaisie", "contrôles des capitaux", "ancrage du ringgit RM3.80", "contrôles sélectifs des changes", "Reformasi", "Anwar Ibrahim 1998", "Plan national de redressement économique", "Danaharta", "Danamodal", "flottement dirigé 2005"]
 framework: history-culture
+hero: '/media/malaysia/1998-reformasi/hero.webp'
+heroAlt: 'Le bâtiment de la banque centrale Bank Negara Malaysia à Kuala Lumpur.'
+heroCredit: 'Kaihsu Tai / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 En une seule semaine de septembre 1998, la Malaisie a fait deux choses qui allaient chacune être débattues pendant des années. Elle a fermé le marché offshore de sa propre monnaie et a ancré le ringgit au dollar américain — une rupture avec l'orthodoxie que le Fonds monétaire international préconisait pour la région. Et elle a démis l'homme qui était à la fois vice-Premier ministre et ministre des Finances, déclenchant un mouvement de protestation qui a pris le nom de Reformasi.

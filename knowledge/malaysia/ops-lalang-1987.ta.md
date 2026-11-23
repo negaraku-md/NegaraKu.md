@@ -93,6 +93,13 @@ relations:
 related: []
 keywords: ["Ops Lalang", "Operation Lalang", "Internal Security Act", "ISA 1960", "detention without trial", "1987 Malaysia", "SOSMA", "press freedom Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/ops-lalang-1987/hero.webp'
+heroAlt: 'மலேசியாவின் மேல் நீதிமன்றங்கள் அமைந்துள்ள, புத்ராஜெயாவில் உள்ள நீதி அரண்மனை (Istana Kehakiman) கட்டிடம்.'
+heroCredit: 'Wolfiewhite / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Angled_view_of_the_front_of_Palace_of_Justice,_Putrajaya.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1987 ஆம் ஆண்டு அக்டோபர் இறுதியில் கைதுகள் தொடங்கிய அந்த இரவில், அடைக்கப்பட்டவை சிறைக்கூட வாசல்கள் மட்டுமல்ல — சில நாட்களுக்குள் மூன்று செய்தித்தாள்கள் இருளடைந்தன, மேலும் "Ops Lalang" என்ற சொற்றொடர் விசாரணையின்றித் தடுப்புக்காவலுக்கான சுருக்கமான குறியீடாக மலேசிய அரசியல் நினைவில் இடம்பெற்றது. கிட்டத்தட்ட நான்கு தசாப்தங்களுக்குப் பிறகும், அது எதைத் தடுத்தது, எதை மௌனமாக்கியது, மற்றும் தன் குடிமக்கள் மீது ஒரு அரசு கொண்டிருக்கக்கூடிய அதிகாரங்கள் குறித்து அது என்ன சொல்கிறது என்பது இன்னும் விவாதிக்கப்பட்டு வருகிறது.

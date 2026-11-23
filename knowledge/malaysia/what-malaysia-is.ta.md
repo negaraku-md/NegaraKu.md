@@ -56,6 +56,13 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["what is Malaysia", "federation of Malaysia", "13 states 3 federal territories", "elective monarchy Malaysia", "federal structure Malaysia", "Yang di-Pertuan Agong", "Federal Constitution"]
 framework: explainer
+hero: '/media/malaysia/what-malaysia-is/hero.webp'
+heroAlt: 'மேற்கே தீபகற்ப மலேசியாவையும் கிழக்கே போர்னியோவில் சபா மற்றும் சரவாக்கையும் காட்டும், முக்கிய நகரங்கள் பெயரிடப்பட்ட மலேசியாவின் அரசியல் வரைபடம்.'
+heroCredit: 'U.S. Central Intelligence Agency (CIA) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 மலேசியா ஒரே அரசைக் கொண்ட ஒரே இடம் அல்ல. இது ஒரு கூட்டமைப்பு — பதின்மூன்று மாநிலங்கள் மற்றும் மூன்று கூட்டாட்சிப் பிரதேசங்களில் இருந்து ஒன்றாகத் தைக்கப்பட்ட ஒரே நாடு, தென் சீனக் கடலின் பல நூறு கிலோமீட்டர்களால் பிரிக்கப்பட்ட இரண்டு நிலப்பரப்புகளின் மேல் அமைந்துள்ளது. அந்தக் கட்டமைப்பை முதலில் புரிந்துகொள்வது, இந்த நாட்டைப் பற்றிய ஏறக்குறைய மற்ற எல்லாவற்றையும் பின்தொடர்வதை எளிதாக்குகிறது.

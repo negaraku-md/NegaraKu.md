@@ -55,6 +55,13 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["ما هي ماليزيا", "what is Malaysia", "اتحاد ماليزيا الفيدرالي", "federation of Malaysia", "13 ولاية 3 أقاليم اتحادية", "الملكية الانتخابية", "elective monarchy Malaysia", "البنية الفيدرالية", "Yang di-Pertuan Agong", "الدستور الاتحادي", "Federal Constitution"]
 framework: explainer
+hero: '/media/malaysia/what-malaysia-is/hero.webp'
+heroAlt: 'خريطة سياسية لماليزيا تُظهر شبه جزيرة ماليزيا في الغرب وصباح وساراواك على جزيرة بورنيو في الشرق، مع تسمية المدن الكبرى.'
+heroCredit: 'U.S. Central Intelligence Agency (CIA) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ماليزيا ليست مكانًا واحدًا بحكومة واحدة. إنها اتحاد فيدرالي — بلد واحد نُسِج من ثلاث عشرة ولاية وثلاثة أقاليم اتحادية، يقع على كتلتين بريّتين يفصل بينهما بضع مئات من الكيلومترات من بحر الصين الجنوبي. وفهم هذه البنية أولًا يجعل تتبّع كل شيء آخر تقريبًا عن البلد أيسر بكثير.

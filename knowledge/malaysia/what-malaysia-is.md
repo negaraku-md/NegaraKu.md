@@ -55,6 +55,13 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["what is Malaysia", "federation of Malaysia", "13 states 3 federal territories", "elective monarchy Malaysia", "federal structure Malaysia", "Yang di-Pertuan Agong", "Federal Constitution"]
 framework: explainer
+hero: '/media/malaysia/what-malaysia-is/hero.webp'
+heroAlt: 'A political map of Malaysia showing Peninsular Malaysia to the west and Sabah and Sarawak on Borneo to the east, labelled with major cities.'
+heroCredit: 'U.S. Central Intelligence Agency (CIA) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Malaysia is not one place with one government. It is a federation — a single country stitched together from thirteen states and three federal territories, sitting on two land masses that are separated by several hundred kilometres of the South China Sea. Understanding that structure first makes almost everything else about the country easier to follow.

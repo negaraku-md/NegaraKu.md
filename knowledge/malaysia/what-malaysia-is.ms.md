@@ -56,6 +56,13 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["what is Malaysia", "federation of Malaysia", "13 states 3 federal territories", "elective monarchy Malaysia", "federal structure Malaysia", "Yang di-Pertuan Agong", "Federal Constitution"]
 framework: explainer
+hero: '/media/malaysia/what-malaysia-is/hero.webp'
+heroAlt: 'Peta politik Malaysia menunjukkan Semenanjung Malaysia di sebelah barat serta Sabah dan Sarawak di Borneo di sebelah timur, berlabelkan bandar-bandar utama.'
+heroCredit: 'U.S. Central Intelligence Agency (CIA) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Malaysia bukanlah satu tempat dengan satu kerajaan. Ia adalah sebuah persekutuan — sebuah negara tunggal yang dijalin daripada tiga belas buah negeri dan tiga wilayah persekutuan, terletak di atas dua daratan yang dipisahkan oleh beberapa ratus kilometer Laut China Selatan. Memahami struktur itu terlebih dahulu menjadikan hampir semua perkara lain tentang negara ini lebih mudah difahami.

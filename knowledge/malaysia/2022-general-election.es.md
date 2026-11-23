@@ -66,6 +66,13 @@ sources:
 related: ["anwar-ibrahim", "ismail-sabri-yaakob", "muhyiddin-yassin", "prime-ministers-of-malaysia", "how-elections-work"]
 keywords: ["GE15", "elecciones generales de Malasia 2022", "parlamento sin mayoría", "gobierno de unidad", "Undi18"]
 framework: history-culture
+hero: '/media/malaysia/2022-general-election/hero.webp'
+heroAlt: 'El dedo índice izquierdo de un votante manchado con tinta indeleble morada tras emitir su voto.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:GE15_Ink.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > **Borrador — sensible.** Este artículo es un resumen neutral, en curso de

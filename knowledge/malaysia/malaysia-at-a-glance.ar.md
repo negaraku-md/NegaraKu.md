@@ -78,6 +78,13 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution", "urbanisation", "religion-statistics", "independence-1957", "formation-of-malaysia-1963"]
 keywords: ["وقائع ماليزيا", "عدد سكان ماليزيا", "مساحة ماليزيا", "الرينغيت الماليزي", "عاصمة كوالالمبور", "بوتراجايا", "اللغة الملايوية", "الناتج المحلي الإجمالي لماليزيا", "DOSM", "Bank Negara Malaysia", "Malaysia facts", "Malaysia at a glance"]
 framework: data-reference
+hero: '/media/malaysia/malaysia-at-a-glance/hero.webp'
+heroAlt: 'أفق كوالالمبور المضاء ليلاً، تتوسطه برجا بتروناس التوأمان وناطحات السحاب المحيطة.'
+heroCredit: 'Lah sadzik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_skyline_at_night.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 اسأل «ما حجم ماليزيا؟» أو «كم عدد سكان ماليزيا؟» وستحصل على إجابة مختلفة بحسب الموقع الذي تصل إليه — فبعضها يقتبس أرقام تعداد 2020، وبعضها يقتبس تقديراً للبنك الدولي متأخراً بمراجعتين. وُجدت هذه الصفحة لتصحيح ذلك: كل رقم أدناه مأخوذ من إصدار رسمي مُسمّى ومؤرَّخ، كي ترى بدقة مدى حداثته وتتحقق منه بنفسك.

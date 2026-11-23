@@ -77,6 +77,13 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution", "urbanisation", "religion-statistics", "independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malaysia facts", "Malaysia population", "Malaysia land area", "Malaysian ringgit", "Kuala Lumpur capital", "Putrajaya", "Bahasa Melayu", "Malaysia GDP", "DOSM", "Bank Negara Malaysia", "Malaysia at a glance"]
 framework: data-reference
+hero: '/media/malaysia/malaysia-at-a-glance/hero.webp'
+heroAlt: '夜晚灯火通明的吉隆坡天际线，国家石油双子塔及周围的摩天大楼最为突出。'
+heroCredit: 'Lah sadzik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_skyline_at_night.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 问「马来西亚有多大」或「马来西亚人口有多少」，你会得到不同的答案，视乎你打开的是哪个网站——有些引用2020年人口普查数字，有些引用已经过时两次修订的世界银行估计值。本页的目的正是要解决这个问题：以下每一个数字，都来自一个具名的官方发布，并附有日期，让你能清楚看到它有多新，也能自行核实。

@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/malaysia/public-holidays-in-malaysia/hero.webp'
+heroAlt: 'Coloridos fuegos artificiales estallando sobre las Petronas Twin Towers y el horizonte de la ciudad de Kuala Lumpur de noche.'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Planifica un viaje, el lanzamiento de un producto o una ejecución de nómina en toda Malasia y pronto descubrirás algo que toma por sorpresa a los de fuera: un día que es festivo en Kuala Lumpur puede ser un día laborable normal en Kuching, y viceversa. Malasia no tiene tanto una lista nacional de días festivos como una capa nacional y trece capas estatales apiladas una sobre otra.

@@ -59,6 +59,13 @@ relations:
 related: ["jalur-gemilang", "negaraku-anthem", "nine-royal-houses"]
 keywords: ["Jata Negara", "شعار ماليزيا الوطني", "Bersekutu Bertambah Mutu", "معنى جاتا نيغارا", "النمران حاملا الدرع", "خمسة نصال كريس", "Bunga Raya", "الهلال والنجمة ذات الأربعة عشر رأساً", "Malaysia coat of arms"]
 framework: explainer
+hero: '/media/malaysia/coat-of-arms/hero.webp'
+heroAlt: 'نقش بارز ملوّن لشعار ماليزيا، يحيط به نمران بجانبي درع أسفل هلال ونجمة، فوق شعار Bersekutu Bertambah Mutu.'
+heroCredit: 'Hayden Soloviev / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Malaysia_in_Ottawa.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # جاتا نيغارا: قراءة شعار ماليزيا الوطني، عنصراً عنصراً

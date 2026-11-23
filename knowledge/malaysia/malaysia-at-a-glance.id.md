@@ -78,6 +78,13 @@ relations:
 related: ["population-composition", "languages-spoken", "federal-constitution", "urbanisation", "religion-statistics", "independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malaysia facts", "Malaysia population", "Malaysia land area", "Malaysian ringgit", "Kuala Lumpur capital", "Putrajaya", "Bahasa Melayu", "Malaysia GDP", "DOSM", "Bank Negara Malaysia", "Malaysia at a glance"]
 framework: data-reference
+hero: '/media/malaysia/malaysia-at-a-glance/hero.webp'
+heroAlt: 'Kaki langit Kuala Lumpur yang bercahaya pada malam hari, didominasi oleh Menara Kembar Petronas dan gedung-gedung pencakar langit di sekitarnya.'
+heroCredit: 'Lah sadzik / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_skyline_at_night.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Tanyakan "berapa besar Malaysia" atau "berapa populasi Malaysia" dan Anda akan mendapat jawaban berbeda-beda bergantung pada situs web mana yang Anda kunjungi — ada yang mengutip angka sensus 2020, ada yang mengutip perkiraan Bank Dunia yang sudah dua revisi tertinggal. Halaman ini ada untuk membetulkan keadaan itu: setiap angka di bawah berasal dari rilis resmi bernama, bertanggal, agar Anda dapat melihat dengan tepat betapa terkininya ia dan memeriksanya sendiri.

@@ -76,6 +76,13 @@ relations:
 related: ["sabah", "sarawak", "ma63", "formation-of-malaysia-1963", "singapore-separation-1965"]
 keywords: ["Peninsular Malaysia", "East Malaysia", "Sabah Sarawak border", "South China Sea Malaysia", "Immigration Act 1959/63 Section 66", "Sarawak Land Code", "Sabah Land Ordinance", "Malaysian Standard Time 1982"]
 framework: explainer
+hero: '/media/malaysia/peninsular-and-borneo/hero.webp'
+heroAlt: '말레이시아 권역 지도로, 반도 말레이시아와 보르네오섬의 동말레이시아가 남중국해를 사이에 두고 색으로 구분된 별개의 블록으로 표시되어 있다.'
+heroCredit: 'Peter Fitzgerald / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_regions_map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 쿠알라룸푸르(Kuala Lumpur)에서 코타키나발루(Kota Kinabalu)까지 국내선을 타면, 떠나온 곳과 같은 나라에 내립니다. 같은 통화, 같은 여권, 꼬리 날개에 같은 국기입니다. 그런데도 도착장에서는 출입국 심사대 같은 창구에 줄을 서고, 통과하기 전에 누군가가 신분증이나 여권을 확인합니다. 말레이시아 안의 다른 어떤 항공편도 이런 식으로 운영되지 않습니다.

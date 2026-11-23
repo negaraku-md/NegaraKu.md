@@ -66,6 +66,13 @@ sources:
 related: ["najib-razak", "anwar-ibrahim", "barisan-nasional", "2018-change-of-government", "how-elections-work"]
 keywords: ["PRU13", "GE13", "pilihan raya umum 2013 Malaysia", "Barisan Nasional", "Pakatan Rakyat", "undi popular"]
 framework: history-culture
+hero: '/media/malaysia/2013-general-election/hero.webp'
+heroAlt: 'Seorang petugas pilihan raya menyapukan dakwat kekal pada kuku jari seorang pengundi di sebuah pusat mengundi di Malaysia.'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAYSIA_GE13_(8713449487).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > **Draf — sensitif.** Artikel ini ialah ringkasan neutral yang masih dalam

@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/malaysia/public-holidays-in-malaysia/hero.webp'
+heroAlt: 'Pháo hoa nhiều màu sắc bừng nở trên Tháp đôi Petronas và đường chân trời thành phố Kuala Lumpur về đêm.'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Hãy lên kế hoạch cho một chuyến đi, một đợt ra mắt sản phẩm hoặc một kỳ trả lương trên khắp Malaysia và bạn sẽ nhanh chóng phát hiện ra điều khiến người ngoài bất ngờ: một ngày là ngày lễ công ở Kuala Lumpur có thể là một ngày làm việc bình thường ở Kuching, và ngược lại. Malaysia không có một danh sách ngày lễ quốc gia duy nhất mà đúng hơn là một lớp quốc gia và mười ba lớp tiểu bang chồng lên nhau.

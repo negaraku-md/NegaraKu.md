@@ -66,6 +66,13 @@ sources:
 related: ["muhyiddin-yassin", "mahathir-mohamad", "anwar-ibrahim", "2018-change-of-government", "2022-general-election"]
 keywords: ["Mouvement Sheraton", "Langkah Sheraton", "crise politique de 2020 en Malaisie", "Perikatan Nasional", "changement de gouvernement 2020"]
 framework: history-culture
+hero: '/media/malaysia/sheraton-move-2020/hero.webp'
+heroAlt: 'Le bâtiment Perdana Putra abritant le cabinet du Premier ministre de Malaisie à Putrajaya, avec son dôme vert.'
+heroCredit: 'Stress 043 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Front_building_Perdana_Putra_Putrajaya_2024.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > **Brouillon — sensible.** Cet article est un résumé neutre et en cours d'élaboration

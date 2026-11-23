@@ -66,6 +66,13 @@ sources:
 related: ["najib-razak", "anwar-ibrahim", "barisan-nasional", "2018-change-of-government", "how-elections-work"]
 keywords: ["GE13", "élections générales 2013 Malaisie", "Barisan Nasional", "Pakatan Rakyat", "vote populaire"]
 framework: history-culture
+hero: '/media/malaysia/2013-general-election/hero.webp'
+heroAlt: 'Un agent électoral applique de l''encre indélébile sur l''ongle d''un électeur dans un bureau de vote malaisien.'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAYSIA_GE13_(8713449487).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > **Brouillon — sensible.** Cet article est un résumé neutre, en cours d'élaboration,

@@ -81,6 +81,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: explainer
+hero: '/media/malaysia/public-holidays-in-malaysia/hero.webp'
+heroAlt: '夜空に色とりどりの花火が、ペトロナスツインタワーとクアラルンプールの街のスカイラインの上で弾けている。'
+heroCredit: 'Firdaus Latif / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシア全土にまたがる旅行、製品の発売、あるいは給与計算を計画すると、よそ者の不意を突くことにすぐ気づく。クアラルンプールでは祝日である日が、クチンでは普通の労働日であり、その逆もある。マレーシアには一つの全国的な祝日一覧があるというより、国家の層と、その上に積み重なった13の州の層がある。

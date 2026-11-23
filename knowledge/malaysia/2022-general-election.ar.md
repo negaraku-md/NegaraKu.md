@@ -66,6 +66,13 @@ sources:
 related: ["anwar-ibrahim", "ismail-sabri-yaakob", "muhyiddin-yassin", "prime-ministers-of-malaysia", "how-elections-work"]
 keywords: ["GE15", "الانتخابات العامة 2022 ماليزيا", "2022 general election Malaysia", "برلمان معلّق", "hung parliament", "حكومة وحدة", "unity government", "Undi18"]
 framework: history-culture
+hero: '/media/malaysia/2022-general-election/hero.webp'
+heroAlt: 'سبّابة اليد اليسرى لناخب ملطّخة بحبر بنفسجي لا يُمحى بعد الإدلاء بصوته.'
+heroCredit: 'AyyanD / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:GE15_Ink.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > **مسودة — حسّاسة.** هذا المقال ملخّص حيادي قيد الإعداد ولم يُراجَع للنشر.

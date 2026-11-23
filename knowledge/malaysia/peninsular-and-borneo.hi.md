@@ -77,6 +77,13 @@ relations:
 related: ["sabah", "sarawak", "ma63", "formation-of-malaysia-1963", "singapore-separation-1965"]
 keywords: ["प्रायद्वीपीय मलेशिया", "Peninsular Malaysia", "पूर्वी मलेशिया", "East Malaysia", "सबा सारावाक सीमा", "Sabah Sarawak border", "दक्षिण चीन सागर मलेशिया", "South China Sea Malaysia", "Immigration Act 1959/63 Section 66", "Sarawak Land Code", "Sabah Land Ordinance", "मलेशियाई मानक समय 1982"]
 framework: explainer
+hero: '/media/malaysia/peninsular-and-borneo/hero.webp'
+heroAlt: 'मलेशिया का एक क्षेत्रीय मानचित्र जिसमें प्रायद्वीपीय मलेशिया और बोर्नियो पर पूर्वी मलेशिया को दक्षिण चीन सागर के आर-पार अलग-अलग रंग-कोडित खंडों के रूप में दर्शाया गया है।'
+heroCredit: 'Peter Fitzgerald / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_regions_map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 कुआलालंपुर से कोटा किनाबालू की घरेलू उड़ान भरिए और आप उसी देश में उतरते हैं जहाँ से आप निकले थे। वही मुद्रा, वही पासपोर्ट, पूँछ पर वही झंडा। और फिर भी, आगमन हॉल में, आप एक आप्रवासन-शैली के काउंटर पर कतार में लगते हैं और कोई आपको आगे जाने देने से पहले आपके पहचान पत्र या पासपोर्ट की जाँच करता है। मलेशिया के भीतर कोई दूसरी उड़ान इस तरह काम नहीं करती।

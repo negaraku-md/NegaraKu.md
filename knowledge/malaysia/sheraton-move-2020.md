@@ -66,6 +66,13 @@ related: ["muhyiddin-yassin", "mahathir-mohamad", "anwar-ibrahim", "2018-change-
 keywords: ["Sheraton Move", "Langkah Sheraton", "2020 political crisis Malaysia", "Perikatan Nasional", "change of government 2020"]
 framework: history-culture
 wikidata: "Q86509170"
+hero: '/media/malaysia/sheraton-move-2020/hero.webp'
+heroAlt: 'The Perdana Putra building housing the Malaysian Prime Minister''s Office in Putrajaya, with its green dome.'
+heroCredit: 'Stress 043 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Front_building_Perdana_Putra_Putrajaya_2024.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > **Draft — sensitive.** This article is a neutral, work-in-progress summary and

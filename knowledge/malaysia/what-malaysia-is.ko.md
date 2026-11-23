@@ -55,6 +55,13 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963", "parliament", "yang-di-pertuan-agong"]
 keywords: ["what is Malaysia", "federation of Malaysia", "13 states 3 federal territories", "elective monarchy Malaysia", "federal structure Malaysia", "Yang di-Pertuan Agong", "Federal Constitution"]
 framework: explainer
+hero: '/media/malaysia/what-malaysia-is/hero.webp'
+heroAlt: '말레이시아 정치 지도로, 서쪽에 반도 말레이시아, 동쪽에 보르네오섬의 사바와 사라왁이 있으며 주요 도시가 표시되어 있다.'
+heroCredit: 'U.S. Central Intelligence Agency (CIA) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 말레이시아는 하나의 정부를 둔 단일한 장소가 아닙니다. 말레이시아는 연방 국가입니다. 즉, 13개 주와 3개 연방직할구를 하나로 엮어 만든 단일 국가로, 남중국해(South China Sea)의 수백 킬로미터에 걸쳐 갈라진 두 개의 육지 위에 자리하고 있습니다. 이 구조를 먼저 이해하면 이 나라에 관한 거의 모든 것을 훨씬 수월하게 따라갈 수 있습니다.

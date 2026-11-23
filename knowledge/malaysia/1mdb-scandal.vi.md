@@ -80,6 +80,13 @@ sources:
 related: ["2018-change-of-government", "barisan-nasional", "prime-ministers-of-malaysia"]
 keywords: ["1MDB", "1Malaysia Development Berhad", "Najib Razak", "Jho Low", "Malaysia financial scandal"]
 framework: history-culture
+hero: '/media/malaysia/1mdb-scandal/hero.webp'
+heroAlt: 'Tòa nhà chọc trời Exchange 106 vươn cao phía trên khu tài chính Tun Razak Exchange ở Kuala Lumpur.'
+heroCredit: 'Henrywky961122 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Exchange_106.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 **1Malaysia Development Berhad (1MDB)** là một quỹ đầu tư thuộc sở hữu của chính phủ

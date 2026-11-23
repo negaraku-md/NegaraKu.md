@@ -66,6 +66,13 @@ sources:
 related: ["muhyiddin-yassin", "mahathir-mohamad", "anwar-ibrahim", "2018-change-of-government", "2022-general-election"]
 keywords: ["حركة شيراتون", "لانغكاه شيراتون", "الأزمة السياسية الماليزية 2020", "بريكاتان ناسيونال", "تغيير الحكومة 2020", "Sheraton Move", "Langkah Sheraton", "Perikatan Nasional"]
 framework: history-culture
+hero: '/media/malaysia/sheraton-move-2020/hero.webp'
+heroAlt: 'مبنى بردانا بوترا الذي يضم مكتب رئيس وزراء ماليزيا في بوتراجايا، بقبته الخضراء.'
+heroCredit: 'Stress 043 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Front_building_Perdana_Putra_Putrajaya_2024.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 > **مسودّة — حسّاسة.** هذه المقالة ملخّص محايد لا يزال قيد الإعداد ولم تُراجَع
