@@ -33,7 +33,7 @@ faq:
   - q: "¿Qué ocurrió al final con los dos grupos?"
     a: "Tanto los Estados Malayos Federados como los No Federados fueron disueltos en la Unión Malaya el 1 de abril de 1946, que a su vez fue reemplazada en pocos años por la Federación Malaya."
 lang: "es"
-sourceContentHash: "3bcc3b32fd59d463"
+sourceContentHash: "e4da032afb1762ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-05.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-1.webp
+    alt: La reluciente estación de ferrocarril colonial blanca de Ipoh, un largo edificio eduardiano-morisco con columnatas de arcos y torres con cúpulas construido bajo el dominio británico en Perak.
+    kind: actual
+    origin: third-party
+    subject: Estación de ferrocarril de Ipoh, un hito de la época colonial británica en Perak
+    credit: FBilula / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-2.webp
+    alt: La ornamentada fachada blanca de la antigua estación de ferrocarril de Kuala Lumpur, un edificio colonial británico de arcos de herradura moriscos, cupulines y agujas a modo de minaretes, terminado en 1910.
+    kind: actual
+    origin: third-party
+    subject: La antigua estación de ferrocarril de Kuala Lumpur (1910), una terminal de estilo morisco de la época británica
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_railway_station_(Rawang-Seremban_%26_Sentul-Port_Klang_Line)_(frontal_facade),_Kuala_Lumpur.jpg
 ---
 
 Nueve estados malayos, una sola potencia imperial — y, sin embargo, no un solo arreglo, sino dos. Esa división es lo que la mayoría de los resúmenes de la Malaya colonial pasan por alto, y es el objeto entero de este artículo.

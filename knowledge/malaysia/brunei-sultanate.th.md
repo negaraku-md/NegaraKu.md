@@ -21,7 +21,7 @@ appliesTo: "ผู้ที่พยายามเข้าใจว่าซ�
 lang: "th"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e1e12abca406eef4"
+sourceContentHash: "44249e29dc164a59"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -67,6 +67,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/brunei-sultanate/body-1.webp
+    alt: กลุ่มเรือนไม้ยกเสาสูงและทางเดินเชื่อมถึงกันกระจายอยู่ทั่วผืนแม่น้ำบรูไนอันสงบนิ่ง หมู่บ้านกลางน้ำอายุหลายศตวรรษ ณ ใจกลางประวัติศาสตร์ของเมืองหลวงบรูไน
+    kind: actual
+    origin: third-party
+    subject: กัมปงอาเยอร์ (Kampong Ayer) หมู่บ้านกลางน้ำเสาสูงอันเก่าแก่บนแม่น้ำบรูไน (Brunei River) เมืองบันดาร์เสรีเบกาวัน (Bandar Seri Begawan)
+    credit: Tourism Development Department of Brunei / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampong_Ayer_Brunei_Darussalam.jpg
+  - role: scene
+    src: /media/malaysia/brunei-sultanate/body-2.webp
+    alt: ลาเปา ท้องพระโรงพระราชพิธีของบรูไนที่ซึ่งสุลต่านทรงรับการสวมมงกุฎ ตั้งอยู่ท่ามกลางสวนที่จัดภูมิทัศน์และไม้พุ่มออกดอกในเมืองบันดาร์เสรีเบกาวัน
+    kind: actual
+    origin: third-party
+    subject: ลาเปา (The Lapau) ท้องพระโรงพระราชพิธีของบรูไน ในเมืองบันดาร์เสรีเบกาวัน
+    credit: Xiquinho Silva / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lapau_Brunei_2024_01.jpg
 ---
 
 ยืนอยู่บนริมน้ำที่บันดาร์เสรีเบอกาวัน (Bandar Seri Begawan) ทุกวันนี้ บรูไนดูเล็ก: รัฐสุลต่านที่มั่งคั่งและอุดมด้วยน้ำมันซึ่งโอบรอบชายฝั่งบอร์เนียวสองแถบแคบ ๆ ใกล้พอที่จะขับรถข้ามได้ในบ่ายวันเดียว ง่ายที่จะลืมว่านี่คือเศษซากที่หลงเหลือของจักรวรรดิ — ว่าเมื่อห้าศตวรรษก่อน สุลต่านแห่งบรูไนสามารถเรียกเก็บบรรณาการจากท่าเรือที่เรียงรายตามชายฝั่งเหนือและตะวันตกส่วนใหญ่ของเกาะ และว่าสองรัฐมาเลเซียที่คุณไปถึงได้จากที่นี่โดยทางถนน คือซาราวักและซาบะฮ์ ครั้งหนึ่งเคยเป็นของพระองค์ที่จะยกให้ เรื่องราวของการที่อาณาจักรทางทะเลบอร์เนียวรุ่งเรืองขึ้น ถึงจุดสูงสุด แล้วส่งมอบชายฝั่งเหล่านั้นไปทีละชิ้น เป็นหนึ่งในเส้นสายสำคัญของประวัติศาสตร์มาเลเซีย — แม้บรูไนเองจะไม่เคยกลายเป็นส่วนหนึ่งของมาเลเซีย

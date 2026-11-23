@@ -21,7 +21,7 @@ appliesTo: "Pembaca, pelajar, dan peneliti yang ingin memahami lembaga-lembaga r
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3ca914281b042f21"
+sourceContentHash: "ab49aa8dea4f66ad"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -66,6 +66,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Lama_Seri_Menanti_February_1964.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-1.webp
+    alt: Sebuah istana kerajaan berwarna krem yang anggun dengan sayap simetris dan sepasang menara beratap pelana, berdiri di belakang taman terawat rapi di bawah perbukitan berhutan di Seri Menanti.
+    kind: actual
+    origin: third-party
+    subject: Istana Besar Seri Menanti, istana kerajaan Negeri Sembilan saat ini
+    credit: Adiput / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Menanti_palace.jpg
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-2.webp
+    alt: Sebuah menara pemerintahan modern yang tinggi dimahkotai atap tanduk kerbau Minangkabau yang melengkung dramatis ke atas, menjulang di atas sayap lebih rendah dan halaman rumput di pusat Seremban.
+    kind: actual
+    origin: third-party
+    subject: Wisma Negeri, bangunan administrasi negara bagian beratap Minangkabau, di Seremban
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban.jpg
 ---
 
 Di jantung semenanjung Malaysia terletak sebuah kerajaan yang melanggar setiap aturan monarki Melayu. Penguasanya tidak terlahir untuk takhta melainkan dipilih untuknya. Keluarga-keluarga besarnya menelusuri keturunannya bukan melalui ayah melainkan melalui ibu. Dan namanya sendiri, Negeri Sembilan, "Negeri yang Sembilan", mengenang bukan sebuah wangsa raja tunggal melainkan sebuah konfederasi daerah yang dirajut menjadi satu melintasi perbukitan pedalaman. Memahami bagaimana lembaga yang unik ini terwujud adalah mengikuti sebuah garis migran Minangkabau yang menyeberangi Selat Melaka dari Sumatra, membawa serta sebuah adat, dan pada waktunya mengirim utusan pulang untuk meminta seorang pangeran memerintah mereka.

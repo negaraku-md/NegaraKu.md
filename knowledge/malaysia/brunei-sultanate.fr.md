@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Toute personne cherchant à comprendre comment le Sarawak et le Sabah en vinrent à faire partie de la Malaisie, et pourquoi le Brunei voisin est un pays souverain distinct."
 lang: "fr"
 masterLanguage: "en"
-sourceContentHash: "e1e12abca406eef4"
+sourceContentHash: "44249e29dc164a59"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
@@ -67,6 +67,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/brunei-sultanate/body-1.webp
+    alt: Des grappes de maisons de bois sur pilotis et de passerelles qui les relient s'étendent sur les eaux calmes de la rivière Brunei, le village lacustre pluriséculaire au cœur historique de la capitale brunéienne.
+    kind: actual
+    origin: third-party
+    subject: Kampong Ayer, le village lacustre historique sur pilotis sur la rivière Brunei, Bandar Seri Begawan
+    credit: Tourism Development Department of Brunei / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampong_Ayer_Brunei_Darussalam.jpg
+  - role: scene
+    src: /media/malaysia/brunei-sultanate/body-2.webp
+    alt: Le Lapau, la salle royale des cérémonies de Brunei où sont couronnés les sultans, niché parmi des jardins paysagers et des arbustes en fleurs à Bandar Seri Begawan.
+    kind: actual
+    origin: third-party
+    subject: Le Lapau, la salle royale des cérémonies de Brunei, à Bandar Seri Begawan
+    credit: Xiquinho Silva / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lapau_Brunei_2024_01.jpg
 ---
 
 Tenez-vous sur le front de mer de Bandar Seri Begawan aujourd'hui et Brunei paraît petit : un sultanat prospère et riche en pétrole enroulé autour de deux minces bandes de la côte de Bornéo, assez proches pour les traverser en voiture en une après-midi. On oublie aisément que c'est le fragment survivant d'un empire — qu'il y a cinq siècles un Sultan de Brunei pouvait réclamer tribut à des ports échelonnés le long de la majeure partie des rives septentrionales et occidentales de l'île, et que deux des États malaisiens que l'on peut atteindre d'ici par la route, le Sarawak et le Sabah, étaient autrefois siens à offrir. L'histoire de la façon dont un royaume maritime de Bornéo s'éleva, atteignit son apogée, puis remit ces côtes pièce par pièce, est l'un des fils essentiels de l'histoire malaisienne — même si Brunei lui-même ne fit jamais partie de la Malaisie.

@@ -21,7 +21,7 @@ appliesTo: "マレー・イスラム文明の最古の中心地の一つがい�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2c6762e4651a8f16"
+sourceContentHash: "73aca5637e651d06"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -68,6 +68,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Maziah_Palace,_Kuala_Terengganu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-1.webp
+    alt: 白く輝くモスク。大きな金色の中央ドームを小さなドームと高いミナレットが囲み、塀に囲まれた中庭の奥に建ち、明るい熱帯の空が広がる。
+    kind: actual
+    origin: third-party
+    subject: クアラ・トレンガヌ（Kuala Terengganu）にある、トレンガヌ州の旧王室モスク、マスジッド・アビディン（Masjid Abidin）
+    credit: ToofanwikiCommon / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abidin_Mosque_(old_state_royal_mosque),_Kuala_Terengganu,_Malaysia.jpg
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-2.webp
+    alt: 広い川を渡る近代的な長い跳ね橋。2基の高い展望塔の間を優美な白いアーチが支え、対岸には町のスカイラインが連なる。
+    kind: actual
+    origin: third-party
+    subject: トレンガヌ川（Terengganu River）に架かる跳ね橋、ジャンバタン・アンカット（Jambatan Angkat、クアラ・トレンガヌ跳ね橋）
+    credit: PenangLion / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_drawbridge,_August_2025.jpg
 ---
 
 いかなるスルタンもその王座に座るはるか以前から、トレンガヌ内陸の川辺にある一枚の花崗岩の石板が、すでに州の運命を石に刻み込んでいた。トレンガヌのバトゥ・ブルスラット——トレンガヌ刻文石——は、1303年と読める年代を刻み、その風化した面に、アラビア文字に由来する丸みを帯びた[ジャウィ文字](/ja/arts-culture/jawi-script)で、一人の統治者がその民にイスラムを固く守るよう命じている。それは、マレー世界のどこにおいても、ジャウィの筆記とイスラム法の最古の年代付き証拠である。この地の名をやがて帯びることになる王国の到来は、それより四世紀あまり後であった——しかしそれが守ることになる信仰は、まずここに刻まれたのである。

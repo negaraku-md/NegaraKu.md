@@ -21,7 +21,7 @@ appliesTo: "Siapa pun yang ingin memahami bagaimana salah satu pusat peradaban M
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2c6762e4651a8f16"
+sourceContentHash: "73aca5637e651d06"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -68,6 +68,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Maziah_Palace,_Kuala_Terengganu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-1.webp
+    alt: Sebuah masjid putih berkilau dengan kubah pusat besar berwarna emas diapit kubah-kubah lebih kecil dan sebuah menara tinggi, berdiri di belakang halaman berpagar di bawah langit tropis yang cerah.
+    kind: actual
+    origin: third-party
+    subject: Masjid Abidin, bekas masjid kerajaan negeri Terengganu, di Kuala Terengganu
+    credit: ToofanwikiCommon / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abidin_Mosque_(old_state_royal_mosque),_Kuala_Terengganu,_Malaysia.jpg
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-2.webp
+    alt: Sebuah jembatan angkat modern yang panjang membentang di atas sungai lebar, ditopang lengkungan putih yang menyapu di antara dua menara pengamatan tinggi, dengan cakrawala kota di sepanjang tepian seberang.
+    kind: actual
+    origin: third-party
+    subject: Jambatan Angkat (Jembatan Angkat Kuala Terengganu) di atas Sungai Terengganu
+    credit: PenangLion / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_drawbridge,_August_2025.jpg
 ---
 
 Jauh sebelum ada sultan yang duduk di atas takhtanya, sebongkah granit di tepi sungai di pedalaman Terengganu telah menuliskan takdir negeri itu di atas batu. Batu Bersurat Terengganu — Batu Bertulis Terengganu — mengusung tarikh yang terbaca sebagai tahun 1303, dan di permukaannya yang lapuk, dalam huruf-huruf melingkar turunan Arab dari [aksara Jawi](/id/arts-culture/jawi-script), seorang penguasa memerintahkan rakyatnya untuk berpegang teguh pada Islam. Ia adalah bukti bertarikh tertua tentang tulisan Jawi dan hukum Islam di mana pun di dunia Melayu. Kesultanan yang akhirnya menyandang nama tanah itu baru tiba lebih dari empat abad kemudian — tetapi iman yang akan dibelanya telah terukir di sini lebih dahulu.

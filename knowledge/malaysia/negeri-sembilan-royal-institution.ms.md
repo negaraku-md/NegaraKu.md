@@ -21,7 +21,7 @@ appliesTo: "Pembaca, pelajar dan penyelidik yang ingin memahami institusi diraja
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3ca914281b042f21"
+sourceContentHash: "ab49aa8dea4f66ad"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -66,6 +66,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Lama_Seri_Menanti_February_1964.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-1.webp
+    alt: Sebuah istana diraja berwarna krim yang anggun dengan sayap simetri dan sepasang menara beratap tirus, terletak di belakang taman terjaga rapi di bawah bukit berhutan di Seri Menanti.
+    kind: actual
+    origin: third-party
+    subject: Istana Besar Seri Menanti, istana diraja Negeri Sembilan kini
+    credit: Adiput / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Menanti_palace.jpg
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-2.webp
+    alt: Sebuah menara kerajaan moden yang tinggi dimahkotai bumbung tanduk kerbau Minangkabau yang melengkung dramatik ke atas, menjulang di atas sayap lebih rendah dan laman rumput di tengah Seremban.
+    kind: actual
+    origin: third-party
+    subject: Wisma Negeri, bangunan pentadbiran negeri beratap Minangkabau, di Seremban
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban.jpg
 ---
 
 Di jantung Semenanjung Malaysia terletak sebuah kerajaan yang memecah setiap peraturan monarki Melayu. Pemerintahnya tidak dilahirkan untuk takhta tetapi dipilih untuknya. Keluarga besarnya menjejaki keturunan mereka bukan menerusi bapa tetapi menerusi ibu. Dan nama negeri itu sendiri, Negeri Sembilan, "Negeri yang Sembilan", mengenang bukan satu wangsa diraja tunggal tetapi sebuah konfederasi daerah yang disatukan merentasi bukit-bukau pedalaman. Untuk memahami bagaimana institusi tunggal ini terbentuk bererti mengikuti satu barisan pendatang Minangkabau yang menyeberangi Selat Melaka dari Sumatera, membawa satu adat bersama mereka, dan pada waktunya menjemput seorang putera dari kampung halaman untuk memerintah mereka.

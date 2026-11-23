@@ -21,7 +21,7 @@ appliesTo: "말레이-이슬람 문명의 가장 오래된 중심지 가운데 �
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2c6762e4651a8f16"
+sourceContentHash: "73aca5637e651d06"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -68,6 +68,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Maziah_Palace,_Kuala_Terengganu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-1.webp
+    alt: 눈부시게 하얀 모스크로, 커다란 금빛 중앙 돔을 작은 돔들과 높은 미너렛이 둘러싸고 있으며, 담장으로 둘러싸인 안뜰 뒤로 밝은 열대 하늘 아래 자리 잡고 있다.
+    kind: actual
+    origin: third-party
+    subject: 쿠알라트렝가누(Kuala Terengganu)에 있는 트렝가누주의 옛 왕실 모스크, 마스지드 아비딘(Masjid Abidin)
+    credit: ToofanwikiCommon / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abidin_Mosque_(old_state_royal_mosque),_Kuala_Terengganu,_Malaysia.jpg
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-2.webp
+    alt: 넓은 강을 가로지르는 길고 현대적인 도개교로, 두 개의 높은 전망탑 사이를 우아한 흰색 아치가 떠받치고 있으며, 건너편 강가에는 마을의 스카이라인이 펼쳐진다.
+    kind: actual
+    origin: third-party
+    subject: 트렝가누강(Terengganu River)을 가로지르는 도개교, 잠바탄 앙캇(Jambatan Angkat, 쿠알라트렝가누 도개교)
+    credit: PenangLion / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_drawbridge,_August_2025.jpg
 ---
 
 어떤 술탄도 그 왕좌에 앉기 훨씬 전에, 트렝가누 내륙의 한 강가에 놓인 화강암 석판은 이미 그 주의 운명을 돌에 새겨 두었습니다. 바투 브르수랏 트렝가누(Batu Bersurat Terengganu) — 트렝가누 비문석(Inscribed Stone of Terengganu) — 는 1303년으로 읽히는 연대를 지니고 있으며, 풍화된 면에는 [자위(Jawi) 문자](/ko/arts-culture/jawi-script)의 아라비아 유래 둥근 글자로 한 통치자가 백성에게 이슬람을 굳게 지키라고 명합니다. 그것은 말레이 세계 어디에서든 자위 문자와 이슬람법의 가장 이른, 연대가 매겨진 증거입니다. 결국 이 땅의 이름을 지니게 될 술탄국은 그로부터 네 세기도 더 지나 등장했지만 — 그것이 수호하게 될 신앙은 이곳에 먼저 새겨졌습니다.

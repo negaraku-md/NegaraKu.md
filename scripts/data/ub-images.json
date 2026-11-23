@@ -6756,7 +6756,29 @@
       "subject": "Istana Lama Seri Menanti, the historic four-storey all-timber Minangkabau-style royal palace at Seri Menanti, Negeri Sembilan.",
       "alt": "A grand dark-timber palace crowned with a tall tiered tower and sweeping shingled roofs stands against forested hills beyond a wide green field.",
       "position": "attention"
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Seri_Menanti_palace.jpg",
+        "license": "Public domain",
+        "by": "Adiput",
+        "page": "https://commons.wikimedia.org/wiki/File:Seri_Menanti_palace.jpg",
+        "kind": "actual",
+        "subject": "Istana Besar Seri Menanti, the current royal palace of Negeri Sembilan",
+        "alt": "A stately cream royal palace with symmetrical wings and twin gabled towers, set behind manicured gardens below forested hills at Seri Menanti.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Wisma_Negeri_complex%2C_Seremban.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "AyyanD",
+        "page": "https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban.jpg",
+        "kind": "actual",
+        "subject": "Wisma Negeri, the Minangkabau-roofed state administrative building, in Seremban",
+        "alt": "A tall modern government tower crowned with dramatic upswept Minangkabau buffalo-horn roofs, rising above lower wings and lawns in central Seremban.",
+        "position": "attention"
+      }
+    ]
   },
   "malaysia/terengganu-sultanate": {
     "hero": {
@@ -6768,7 +6790,29 @@
       "subject": "Istana Maziah, the royal palace of the Terengganu Sultanate in Kuala Terengganu.",
       "alt": "A cream-and-gold colonial-style palace with red-tiled turrets and arched arcades sits bathed in sunlight under a deep blue sky beyond a broad lawn.",
       "position": "attention"
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Abidin_Mosque_%28old_state_royal_mosque%29%2C_Kuala_Terengganu%2C_Malaysia.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "ToofanwikiCommon",
+        "page": "https://commons.wikimedia.org/wiki/File:Abidin_Mosque_(old_state_royal_mosque),_Kuala_Terengganu,_Malaysia.jpg",
+        "kind": "actual",
+        "subject": "Masjid Abidin, the old Terengganu state royal mosque, in Kuala Terengganu",
+        "alt": "A gleaming white mosque with a large golden central dome flanked by smaller domes and a tall minaret, set behind a walled courtyard under a bright tropical sky.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Kuala_Terengganu_drawbridge%2C_August_2025.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "PenangLion",
+        "page": "https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_drawbridge,_August_2025.jpg",
+        "kind": "actual",
+        "subject": "Jambatan Angkat (the Kuala Terengganu Drawbridge) over the Terengganu River",
+        "alt": "A long modern drawbridge spanning a wide river, carried on sweeping white arches between two tall observation towers, with the town skyline along the far bank.",
+        "position": "attention"
+      }
+    ]
   },
   "malaysia/kelantan-sultanate": {
     "hero": {
@@ -6780,7 +6824,29 @@
       "subject": "Istana Jahar, the ornate historic royal palace in Kota Bharu, now the Kelantan Royal Ceremonies Museum (Muzium Adat Istiadat).",
       "alt": "An ornate black timber palace with yellow pillars, carved fascias and tiered roofs rises behind a vintage horse carriage parked on a circular brick forecourt.",
       "position": "attention"
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Istana_Batu.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Comelote",
+        "page": "https://commons.wikimedia.org/wiki/File:Istana_Batu.jpg",
+        "kind": "actual",
+        "subject": "Istana Batu (the Kelantan Royal Museum / Muzium DiRaja) in Kota Bharu",
+        "alt": "A graceful pale-yellow 1930s royal residence with wide arched verandahs, shuttered windows and a low tiled roof, now the Kelantan Royal Museum, set behind a lawn in the Kota Bharu royal quarter.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Street_view_of_the_Muhammadi_Mosque.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Neponenpasila",
+        "page": "https://commons.wikimedia.org/wiki/File:Street_view_of_the_Muhammadi_Mosque.jpg",
+        "kind": "actual",
+        "subject": "Masjid Muhammadi, the Kelantan state mosque, in Kota Bharu",
+        "alt": "A grand cream-and-white state mosque with a broad central dome, corner cupolas and a soaring minaret, seen from the street behind iron railings under a blue sky.",
+        "position": "attention"
+      }
+    ]
   },
   "malaysia/nine-royal-houses": {
     "hero": {
@@ -6792,7 +6858,29 @@
       "subject": "The ornate ceremonial main gatehouse of the new Istana Negara (National Palace) on Jalan Tuanku Abdul Halim, Kuala Lumpur, official residence of the Yang di-Pertuan Agong.",
       "alt": "The grand arched gatehouse of the National Palace, crowned with twin gold onion domes and a gilded gate bearing the royal crest, stands against a clear blue sky.",
       "position": "attention"
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-02.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "CEphoto, Uwe Aranas",
+        "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-02.jpg",
+        "kind": "actual",
+        "subject": "Istana Negara, the national palace on Jalan Tuanku Abdul Halim, Kuala Lumpur",
+        "alt": "A wide daytime view of Malaysia's national palace, a long cream-and-white complex crowned by golden onion domes set on a landscaped rise behind perimeter fencing.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Istana_Negara_KL_12_2007_019.jpg",
+        "license": "Public domain",
+        "by": "Gryffindor",
+        "page": "https://commons.wikimedia.org/wiki/File:Istana_Negara_KL_12_2007_019.jpg",
+        "kind": "actual",
+        "subject": "The former Istana Negara on Jalan Istana, Kuala Lumpur, now the Royal Museum (Muzium Diraja)",
+        "alt": "The old Istana Negara, a stately cream-coloured palace with a prominent dome and arched facade among tropical greenery, Malaysia's former national palace now preserved as the Royal Museum.",
+        "position": "attention"
+      }
+    ]
   },
   "malaysia/malay-sultanate-system": {
     "hero": {
@@ -6816,7 +6904,29 @@
       "subject": "The Sultan Omar Ali Saifuddien Mosque in Bandar Seri Begawan, Brunei, a landmark of the historical Brunei Sultanate.",
       "alt": "A golden-domed white mosque with a tall minaret glows above its lagoon and ceremonial stone barge at dusk.",
       "position": "attention"
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Kampong_Ayer_Brunei_Darussalam.jpg",
+        "license": "CC BY 4.0",
+        "by": "Tourism Development Department of Brunei",
+        "page": "https://commons.wikimedia.org/wiki/File:Kampong_Ayer_Brunei_Darussalam.jpg",
+        "kind": "actual",
+        "subject": "Kampong Ayer, the historic stilt water village on the Brunei River, Bandar Seri Begawan",
+        "alt": "Clusters of wooden stilt houses and connecting walkways spread across the calm Brunei River, the centuries-old water village at the historic heart of Brunei's capital.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Lapau_Brunei_2024_01.jpg",
+        "license": "CC BY 2.0",
+        "by": "Xiquinho Silva",
+        "page": "https://commons.wikimedia.org/wiki/File:Lapau_Brunei_2024_01.jpg",
+        "kind": "actual",
+        "subject": "The Lapau, Brunei's royal ceremonial hall, in Bandar Seri Begawan",
+        "alt": "The Lapau, Brunei's royal ceremonial hall where the sultans are crowned, set among landscaped gardens and flowering shrubs in Bandar Seri Begawan.",
+        "position": "attention"
+      }
+    ]
   },
   "malaysia/federated-unfederated-states": {
     "hero": {
@@ -6828,7 +6938,29 @@
       "subject": "The Sultan Abdul Samad Building in Kuala Lumpur, the Moorish-style former Federated Malay States government secretariat on Dataran Merdeka.",
       "alt": "A long Moorish facade of ochre brick and white arches crowned by copper domes and a tall central clock tower under a blue sky.",
       "position": "attention"
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Ipoh_railway_station_2024%2C_Perak_Malaysia_07.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "FBilula",
+        "page": "https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg",
+        "kind": "actual",
+        "subject": "Ipoh Railway Station, a British colonial-era landmark in Perak",
+        "alt": "The gleaming white colonial Ipoh Railway Station, a long Edwardian-Moorish building with arched colonnades and domed towers built under British rule in Perak.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Kuala_Lumpur_railway_station_%28Rawang-Seremban_%26_Sentul-Port_Klang_Line%29_%28frontal_facade%29%2C_Kuala_Lumpur.jpg",
+        "license": "CC BY-SA 2.5",
+        "by": "Two hundred percent",
+        "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_railway_station_(Rawang-Seremban_%26_Sentul-Port_Klang_Line)_(frontal_facade),_Kuala_Lumpur.jpg",
+        "kind": "actual",
+        "subject": "The old Kuala Lumpur Railway Station (1910), a Moorish-style British-era terminus",
+        "alt": "The ornate white facade of the old Kuala Lumpur Railway Station, a British colonial building of Moorish horseshoe arches, cupolas and minaret-like spires completed in 1910.",
+        "position": "attention"
+      }
+    ]
   },
   "malaysia/formation-of-malaysia-1963": {
     "hero": {

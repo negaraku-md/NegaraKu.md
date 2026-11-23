@@ -68,6 +68,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Maziah_Palace,_Kuala_Terengganu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-1.webp
+    alt: A gleaming white mosque with a large golden central dome flanked by smaller domes and a tall minaret, set behind a walled courtyard under a bright tropical sky.
+    kind: actual
+    origin: third-party
+    subject: Masjid Abidin, the old Terengganu state royal mosque, in Kuala Terengganu
+    credit: ToofanwikiCommon / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abidin_Mosque_(old_state_royal_mosque),_Kuala_Terengganu,_Malaysia.jpg
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-2.webp
+    alt: A long modern drawbridge spanning a wide river, carried on sweeping white arches between two tall observation towers, with the town skyline along the far bank.
+    kind: actual
+    origin: third-party
+    subject: Jambatan Angkat (the Kuala Terengganu Drawbridge) over the Terengganu River
+    credit: PenangLion / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_drawbridge,_August_2025.jpg
 ---
 
 Long before any sultan sat on its throne, a slab of granite on a riverbank in the Terengganu interior had already written the state's destiny in stone. The Batu Bersurat Terengganu — the Inscribed Stone of Terengganu — carries a date that reads as the year 1303, and on its weathered faces, in the looping Arabic-derived letters of the [Jawi script](/arts-culture/jawi-script), a ruler commands his people to hold fast to Islam. It is the oldest dated evidence of Jawi writing and of Islamic law anywhere in the Malay world. The sultanate that would eventually bear the land's name arrived more than four centuries later — but the faith it would defend had been carved here first.

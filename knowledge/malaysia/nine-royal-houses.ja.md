@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "マレーシアの統治者を有する九つの州を把握し、統治者の憲法上の地位を記述的に理解したい読者——学生、研究者、記者、公務員及び一般読者。"
 
 lang: "ja"
-sourceContentHash: "2e19d7c57053d5f0"
+sourceContentHash: "6bbe0081be695bba"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-1.webp
+    alt: 昼間の広い視界で捉えたマレーシアの国立王宮。金色の玉ねぎ型ドームを頂く長大なクリーム色と白の建物群が、整備された高台に建ち、外周を柵で囲まれている。
+    kind: actual
+    origin: third-party
+    subject: クアラ・ルンプール（Kuala Lumpur）のジャラン・トゥアンク・アブドゥル・ハリム（Jalan Tuanku Abdul Halim）にある国立王宮、イスタナ・ヌガラ（Istana Negara）
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-02.jpg
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-2.webp
+    alt: 旧イスタナ・ヌガラ。目を引くドームとアーチ型のファサードを備えた堂々たるクリーム色の宮殿で、熱帯の緑に囲まれ、かつてのマレーシア国立王宮が現在は王室博物館として保存されている。
+    kind: actual
+    origin: third-party
+    subject: クアラ・ルンプールのジャラン・イスタナ（Jalan Istana）にある旧国立王宮イスタナ・ヌガラ（Istana Negara）、現在の王室博物館（Muzium Diraja）
+    credit: Gryffindor / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Negara_KL_12_2007_019.jpg
 ---
 
 マレーシアには十三の州があるが、統治者（Raja）を有するのはそのうち九州のみである。残る四州——マラッカ、ペナン、サバ及びサラワク——は、統治者ではなく、任命された州元首（Yang di-Pertua Negeri）によって統治されている。

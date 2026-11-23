@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "말레이시아의 아홉 개 군주 주를 식별하고 통치자들의 헌법적 지위를 서술적으로 이해하고자 하는 독자 — 학생, 연구자, 기자, 공무원 및 일반 독자."
 
 lang: "ko"
-sourceContentHash: "2e19d7c57053d5f0"
+sourceContentHash: "6bbe0081be695bba"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-1.webp
+    alt: 낮에 넓게 담은 말레이시아 국립 왕궁의 모습으로, 금빛 양파 모양 돔을 얹은 길고 크림색과 흰색의 건물군이 조경된 언덕 위에 자리하고 둘레에 울타리가 쳐져 있다.
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르(Kuala Lumpur) 잘란 투안쿠 압둘 할림(Jalan Tuanku Abdul Halim)에 있는 국립 왕궁, 이스타나 느가라(Istana Negara)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-02.jpg
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-2.webp
+    alt: 옛 이스타나 느가라로, 두드러진 돔과 아치형 정면을 갖춘 위엄 있는 크림색 궁전이며, 열대 녹음에 둘러싸인 말레이시아의 옛 국립 왕궁으로 현재는 왕실 박물관으로 보존되고 있다.
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 잘란 이스타나(Jalan Istana)에 있는 옛 국립 왕궁 이스타나 느가라(Istana Negara), 현재의 왕실 박물관(Muzium Diraja)
+    credit: Gryffindor / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Negara_KL_12_2007_019.jpg
 ---
 
 말레이시아에는 열세 개의 주가 있지만, 그 가운데 통치 군주를 두고 있는 곳은 아홉 개뿐입니다. 나머지 네 개 주 — 말라카(Melaka), 페낭(Pulau Pinang), 사바(Sabah), 사라왁(Sarawak) — 는 군주가 아니라 임명된 양 디페르투아 느그리(Yang di-Pertua Negeri, 주지사)가 이끕니다.

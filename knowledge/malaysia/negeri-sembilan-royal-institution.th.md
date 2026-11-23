@@ -21,7 +21,7 @@ appliesTo: "ผู้อ่าน นักเรียน และนักว
 lang: "th"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3ca914281b042f21"
+sourceContentHash: "ab49aa8dea4f66ad"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -66,6 +66,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Lama_Seri_Menanti_February_1964.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-1.webp
+    alt: พระราชวังหลวงสีครีมอันสง่างาม มีปีกสองข้างสมมาตรและหอคอยคู่หน้าจั่ว ตั้งอยู่หลังสวนที่ตกแต่งอย่างประณีตเชิงเขาป่าไม้ที่เซอรีเมนันตี
+    kind: actual
+    origin: third-party
+    subject: อิสตานาเบอซาร์เซอรีเมนันตี (Istana Besar Seri Menanti) พระราชวังหลวงปัจจุบันของรัฐเนเกรีเซมบีลัน (Negeri Sembilan)
+    credit: Adiput / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Menanti_palace.jpg
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-2.webp
+    alt: อาคารราชการสมัยใหม่สูงตระหง่าน ยอดเป็นหลังคาทรงเขาควายมีนังกาเบาเชิดขึ้นอย่างโดดเด่น ตั้งตระหง่านเหนือปีกอาคารเตี้ยและสนามหญ้าใจกลางเซอเริมบัน
+    kind: actual
+    origin: third-party
+    subject: วิสมาเนเกรี (Wisma Negeri) อาคารบริหารรัฐหลังคาทรงมีนังกาเบา ในเซอเริมบัน (Seremban)
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban.jpg
 ---
 
 ใจกลางคาบสมุทรมาเลเซียมีอาณาจักรหนึ่งที่หักกฎทุกข้อของระบอบกษัตริย์มลายู ผู้ปกครองของมันมิได้ประสูติมาเพื่อราชบัลลังก์ แต่ถูกเลือกให้ครองมัน ตระกูลใหญ่ของมันสืบเชื้อสายมิใช่ผ่านบิดา แต่ผ่านมารดา และชื่อของมันเอง เนอเกอรีเซิมบีลัน "รัฐแห่งเก้า" ระลึกถึงมิใช่ราชวงศ์เดียว แต่สมาพันธ์อำเภอที่เย็บรวมกันข้ามเนินเขาของแผ่นดินภายใน การเข้าใจว่าสถาบันอันเป็นหนึ่งเดียวนี้เกิดขึ้นมาได้อย่างไร คือการติดตามสายของผู้อพยพมีนังกาเบาที่ข้ามช่องแคบมะละกามาจากสุมาตรา นำจารีตมาด้วย และในเวลาต่อมาก็ส่งข่าวกลับบ้านเพื่อขอเจ้าชายมาปกครองพวกเขา

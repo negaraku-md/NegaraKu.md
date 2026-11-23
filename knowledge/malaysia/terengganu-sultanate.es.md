@@ -21,7 +21,7 @@ appliesTo: "Cualquiera que quiera entender cómo uno de los centros más antiguo
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2c6762e4651a8f16"
+sourceContentHash: "73aca5637e651d06"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -68,6 +68,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Maziah_Palace,_Kuala_Terengganu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-1.webp
+    alt: Una reluciente mezquita blanca con una gran cúpula central dorada flanqueada por cúpulas más pequeñas y un alto minarete, situada tras un patio amurallado bajo un luminoso cielo tropical.
+    kind: actual
+    origin: third-party
+    subject: Masjid Abidin, la antigua mezquita real del estado de Terengganu, en Kuala Terengganu
+    credit: ToofanwikiCommon / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abidin_Mosque_(old_state_royal_mosque),_Kuala_Terengganu,_Malaysia.jpg
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-2.webp
+    alt: Un largo puente levadizo moderno que cruza un ancho río, sostenido por elegantes arcos blancos entre dos altas torres de observación, con el perfil de la ciudad en la orilla opuesta.
+    kind: actual
+    origin: third-party
+    subject: Jambatan Angkat (el puente levadizo de Kuala Terengganu) sobre el río Terengganu
+    credit: PenangLion / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_drawbridge,_August_2025.jpg
 ---
 
 Mucho antes de que ningún sultán se sentara en su trono, una losa de granito en una ribera del interior de Terengganu ya había escrito en piedra el destino del estado. La Batu Bersurat Terengganu —la Piedra Inscrita de Terengganu— lleva una fecha que se lee como el año 1303, y en sus caras erosionadas, en las letras curvas de origen árabe de la [escritura jawi](/es/arts-culture/jawi-script), un gobernante ordena a su pueblo que se aferre al islam. Es la prueba fechada más antigua de la escritura jawi y del derecho islámico en todo el mundo malayo. El sultanato que acabaría llevando el nombre de la tierra llegaría más de cuatro siglos después, pero la fe que defendería ya había sido tallada aquí primero.

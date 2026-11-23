@@ -21,7 +21,7 @@ appliesTo: "任何试图理解砂拉越与沙巴如何成为马来西亚一部�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e1e12abca406eef4"
+sourceContentHash: "44249e29dc164a59"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -67,6 +67,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/brunei-sultanate/body-1.webp
+    alt: 一簇簇木制高脚屋与相连的栈道遍布在平静的文莱河上，这座有数百年历史的水上村落坐落在文莱首都的历史核心地带。
+    kind: actual
+    origin: third-party
+    subject: 甘榜亚逸（Kampong Ayer），文莱河（Brunei River）上历史悠久的水上高脚屋村落，位于斯里巴加湾市（Bandar Seri Begawan）
+    credit: Tourism Development Department of Brunei / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampong_Ayer_Brunei_Darussalam.jpg
+  - role: scene
+    src: /media/malaysia/brunei-sultanate/body-2.webp
+    alt: 拉抛殿，文莱加冕苏丹的皇家礼仪大殿，坐落在斯里巴加湾市景观化的花园与繁花灌木之间。
+    kind: actual
+    origin: third-party
+    subject: 拉抛殿（The Lapau），文莱的皇家礼仪大殿，位于斯里巴加湾市
+    credit: Xiquinho Silva / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lapau_Brunei_2024_01.jpg
 ---
 
 今日站在斯里巴加湾市（Bandar Seri Begawan）的滨水区，文莱看起来很小：一个富裕的、盛产石油的苏丹王朝，裹在婆罗洲海岸两片狭长之地上，近得一个下午就能驱车穿越。人们很容易忘记，这是一个帝国幸存下来的碎片——五个世纪以前，一位文莱苏丹能够向沿着这座岛屿北岸与西岸、星罗棋布的港口索取贡赋，而你从这里驱车可达的两个马来西亚州属——砂拉越与沙巴——曾经是他可以随手送人的领土。一个婆罗洲海上王国如何崛起、臻于顶峰、而后又把那些海岸一块块拱手让出，这故事是马来西亚历史中几条根本线索之一——尽管文莱本身从未成为马来西亚的一部分。

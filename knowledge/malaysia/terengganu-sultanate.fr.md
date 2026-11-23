@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Toute personne souhaitant comprendre comment l'un des plus anciens centres de la civilisation malaise-islamique de Malaisie devint un sultanat, et comment sa maison royale s'insère dans la fédération aujourd'hui."
 lang: "fr"
 masterLanguage: "en"
-sourceContentHash: "2c6762e4651a8f16"
+sourceContentHash: "73aca5637e651d06"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
@@ -68,6 +68,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Maziah_Palace,_Kuala_Terengganu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-1.webp
+    alt: Une mosquée d'un blanc éclatant coiffée d'une grande coupole centrale dorée flanquée de coupoles plus petites et d'un haut minaret, dressée derrière une cour fortifiée sous un ciel tropical lumineux.
+    kind: actual
+    origin: third-party
+    subject: Masjid Abidin, l'ancienne mosquée royale de l'État de Terengganu, à Kuala Terengganu
+    credit: ToofanwikiCommon / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abidin_Mosque_(old_state_royal_mosque),_Kuala_Terengganu,_Malaysia.jpg
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-2.webp
+    alt: Un long pont levant moderne enjambant une large rivière, porté par de gracieuses arches blanches entre deux hautes tours d'observation, avec la silhouette de la ville sur la rive opposée.
+    kind: actual
+    origin: third-party
+    subject: Jambatan Angkat (le pont levant de Kuala Terengganu) sur la rivière Terengganu
+    credit: PenangLion / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_drawbridge,_August_2025.jpg
 ---
 
 Bien avant qu'un sultan ne siège sur son trône, une dalle de granit sur une rive de rivière de l'intérieur du Terengganu avait déjà écrit le destin de l'État dans la pierre. La Batu Bersurat Terengganu — la pierre gravée de Terengganu — porte une date qui se lit comme l'an 1303, et sur ses faces érodées, dans les lettres bouclées dérivées de l'arabe de [l'écriture jawi](/fr/arts-culture/jawi-script), un souverain ordonne à son peuple de s'attacher fermement à l'islam. C'est la plus ancienne preuve datée de l'écriture jawi et de la loi islamique où que ce soit dans le monde malais. Le sultanat qui allait finalement porter le nom de la terre arriva plus de quatre siècles plus tard — mais la foi qu'il allait défendre avait d'abord été gravée ici.

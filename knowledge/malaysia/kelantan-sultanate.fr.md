@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Lecteurs, étudiants et chercheurs souhaitant comprendre les origines de la monarchie du Kelantan, son contexte patanais et siamois, et la façon dont l'une des neuf maisons royales de Malaisie prit sa forme moderne."
 lang: "fr"
 masterLanguage: "en"
-sourceContentHash: "7959d9e4e2088c71"
+sourceContentHash: "833e2466c2324461"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
@@ -68,6 +68,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-1.webp
+    alt: Une gracieuse résidence royale des années 1930 d'un jaune pâle, aux larges vérandas en arcades, aux fenêtres à volets et au toit bas de tuiles, aujourd'hui le Musée royal de Kelantan, dressée derrière une pelouse dans le quartier royal de Kota Bharu.
+    kind: actual
+    origin: third-party
+    subject: Istana Batu (le Musée royal de Kelantan / Muzium DiRaja) à Kota Bharu
+    credit: Comelote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Batu.jpg
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-2.webp
+    alt: Une imposante mosquée d'État crème et blanche, à large coupole centrale, coupoles d'angle et minaret élancé, vue depuis la rue derrière des grilles de fer sous un ciel bleu.
+    kind: actual
+    origin: third-party
+    subject: Masjid Muhammadi, la mosquée d'État de Kelantan, à Kota Bharu
+    credit: Neponenpasila / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_view_of_the_Muhammadi_Mosque.jpg
 ---
 
 Sur l'épaule nord-est de la péninsule malaise, là où les rivières descendent vers la mer de Chine méridionale et où la côte regardait autrefois autant vers l'ancien royaume de Patani que vers le cœur malais, un trône fut forgé dans la guerre civile. Son fondateur n'était pas né roi. C'était un chef de guerre d'origine patanaise qui survécut à ses rivaux, et la dynastie qu'il fonda — la maison de Long Yunus — règne encore au Kelantan aujourd'hui, plus de deux siècles et demi plus tard.

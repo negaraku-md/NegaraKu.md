@@ -21,7 +21,7 @@ appliesTo: "希望理解马来西亚王室制度、宪制君主制以及森美�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3ca914281b042f21"
+sourceContentHash: "ab49aa8dea4f66ad"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -66,6 +66,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Lama_Seri_Menanti_February_1964.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-1.webp
+    alt: 一座庄严的乳白色王宫，两翼对称，设有一对带山墙的塔楼，坐落在斯里门南蒂（Seri Menanti）修剪整齐的花园之后，背倚林木葱郁的山峦。
+    kind: actual
+    origin: third-party
+    subject: 斯里门南蒂大王宫（Istana Besar Seri Menanti），森美兰（Negeri Sembilan）现今的王宫
+    credit: Adiput / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Menanti_palace.jpg
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-2.webp
+    alt: 一座高耸的现代政府大楼，顶部是气势磅礴、向上翘起的米南加保水牛角形屋顶，矗立在芙蓉市中心较低的楼翼与草坪之上。
+    kind: actual
+    origin: third-party
+    subject: 芙蓉（Seremban）的州级行政大楼——顶着米南加保式屋顶的州务大厦（Wisma Negeri）
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban.jpg
 ---
 
 在马来半岛的心脏地带，坐落着一个打破马来君主制一切规则的王国。它的统治者不是生而为王，而是被推选出来的。它的大家族循着母亲、而非父亲追溯世系。而它的名字本身——森美兰（Negeri Sembilan），「九之州」——铭记的不是单一个王室，而是一个跨越内陆丘陵缝合而成的辖区联盟。要理解这项独特的制度如何形成，就要追随一批米南加保（Minangkabau）移民——他们从苏门答腊渡过马六甲海峡，带来了一套习俗，并在时机成熟时派人回乡，请来一位王子来统治他们。

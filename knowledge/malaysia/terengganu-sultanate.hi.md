@@ -21,7 +21,7 @@ appliesTo: "कोई भी जो यह समझना चाहता ह�
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2c6762e4651a8f16"
+sourceContentHash: "73aca5637e651d06"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -68,6 +68,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Maziah_Palace,_Kuala_Terengganu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-1.webp
+    alt: चमकदार सफ़ेद एक मस्जिद जिसके केंद्र में एक बड़ा सुनहरा गुंबद है, जिसके दोनों ओर छोटे गुंबद और एक ऊँची मीनार है, जो चमकीले उष्णकटिबंधीय आकाश के नीचे एक चारदीवारी वाले प्रांगण के पीछे स्थित है।
+    kind: actual
+    origin: third-party
+    subject: मस्जिद अबिदिन, तेरेंगानु की पुरानी राजकीय शाही मस्जिद, कुआला तेरेंगानु में
+    credit: ToofanwikiCommon / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abidin_Mosque_(old_state_royal_mosque),_Kuala_Terengganu,_Malaysia.jpg
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-2.webp
+    alt: एक चौड़ी नदी पर फैला एक लंबा आधुनिक ड्रॉब्रिज, जो दो ऊँचे अवलोकन बुर्जों के बीच सुंदर सफ़ेद मेहराबों पर टिका है, और दूर किनारे पर नगर का क्षितिज दिखाई देता है।
+    kind: actual
+    origin: third-party
+    subject: जम्बातान अंगकट (कुआला तेरेंगानु ड्रॉब्रिज) तेरेंगानु नदी के ऊपर
+    credit: PenangLion / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_drawbridge,_August_2025.jpg
 ---
 
 इससे पहले कि कोई सुल्तान उसके सिंहासन पर बैठता, तेरेंगानु के आंतरिक भाग में एक नदी-तट पर ग्रेनाइट का एक शिलाखंड राज्य के भाग्य को पहले ही पत्थर में लिख चुका था। बातू बेरसुरत तेरेंगानु — तेरेंगानु का शिलालेख — एक ऐसी तिथि धारण करता है जो वर्ष 1303 के रूप में पढ़ी जाती है, और उसके क्षरित फलकों पर, [जावी लिपि](/hi/arts-culture/jawi-script) के अरबी-व्युत्पन्न घुमावदार अक्षरों में, एक शासक अपनी प्रजा को इस्लाम को दृढ़ता से धारण करने का आदेश देता है। यह मलय जगत में कहीं भी जावी लेखन और इस्लामी कानून का सबसे पुराना तिथि-निर्धारित प्रमाण है। जो सल्तनत अंततः इस भूमि का नाम धारण करेगी वह चार शताब्दियों से अधिक बाद आई — पर जिस आस्था की वह रक्षा करेगी वह यहाँ पहले ही उकेरी जा चुकी थी।

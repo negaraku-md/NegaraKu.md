@@ -40,7 +40,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "2e19d7c57053d5f0"
+sourceContentHash: "6bbe0081be695bba"
 sources:
   - title: "Federal Constitution (Reprint 2020) — Article 3, Article 32, Article 38, Fifth Schedule"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-1.webp
+    alt: A wide daytime view of Malaysia's national palace, a long cream-and-white complex crowned by golden onion domes set on a landscaped rise behind perimeter fencing.
+    kind: actual
+    origin: third-party
+    subject: Istana Negara, the national palace on Jalan Tuanku Abdul Halim, Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-02.jpg
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-2.webp
+    alt: The old Istana Negara, a stately cream-coloured palace with a prominent dome and arched facade among tropical greenery, Malaysia's former national palace now preserved as the Royal Museum.
+    kind: actual
+    origin: third-party
+    subject: The former Istana Negara on Jalan Istana, Kuala Lumpur, now the Royal Museum (Muzium Diraja)
+    credit: Gryffindor / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Negara_KL_12_2007_019.jpg
 ---
 
 Malaysia has thirteen states, but only nine of them have a reigning Ruler. The other four states — Melaka, Penang, Sabah and Sarawak — are headed by an appointed Yang di-Pertua Negeri, not by a Ruler.

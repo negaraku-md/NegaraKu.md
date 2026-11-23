@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "القرّاء الراغبون في تحديد الولايات الملكية التسع في ماليزيا وفهم المكانة الدستورية للحكّام بأسلوب وصفي — الطلاب والباحثون والصحفيون والموظفون العموميون والقرّاء عامةً."
 
 lang: "ar"
-sourceContentHash: "2e19d7c57053d5f0"
+sourceContentHash: "6bbe0081be695bba"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-1.webp
+    alt: منظر نهاري واسع للقصر الوطني الماليزي، مجمَّع طويل كريمي وأبيض تعلوه قباب بصلية ذهبية، قائم على مرتفع منسَّق خلف سياج محيط.
+    kind: actual
+    origin: third-party
+    subject: إستانا نيغارا، القصر الوطني في شارع توانكو عبد الحليم، كوالالمبور
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-02.jpg
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-2.webp
+    alt: إستانا نيغارا القديم، قصر مهيب بلون كريمي بقبة بارزة وواجهة مقوَّسة بين خضرة استوائية، كان القصر الوطني لماليزيا وصار اليوم محفوظًا متحفًا ملكيًا.
+    kind: actual
+    origin: third-party
+    subject: إستانا نيغارا القديم في شارع إستانا، كوالالمبور، وهو الآن المتحف الملكي (متحف ديراجا)
+    credit: Gryffindor / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Negara_KL_12_2007_019.jpg
 ---
 
 تضم ماليزيا ثلاث عشرة ولاية، لكن تسعاً منها فقط لها حاكم متوّج. أما الولايات الأربع الأخرى — ملقا (Melaka) وبينانغ (Penang) وصباح (Sabah) وساراواك (Sarawak) — فيرأسها حاكم ولاية مُعيَّن (Yang di-Pertua Negeri)، لا حاكم متوّج.

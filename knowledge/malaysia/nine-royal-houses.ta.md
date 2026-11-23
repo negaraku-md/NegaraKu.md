@@ -40,7 +40,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "2e19d7c57053d5f0"
+sourceContentHash: "6bbe0081be695bba"
 sources:
   - title: "கூட்டாட்சி அரசியலமைப்பு (2020 மறுபதிப்பு) — பிரிவு 3, பிரிவு 32, பிரிவு 38, ஐந்தாவது அட்டவணை (Federal Constitution (Reprint 2020) — Article 3, Article 32, Article 38, Fifth Schedule)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-1.webp
+    alt: மலேசியாவின் தேசிய அரண்மனையின் அகலமான பகல்நேரக் காட்சி, தங்க நிற வெங்காய கோபுரங்களால் முடிசூட்டப்பட்ட நீளமான கிரீம்-வெள்ளை நிற வளாகம், எல்லை வேலியின் பின்னால் நிலத்தோற்றம் அமைக்கப்பட்ட உயர்தளத்தில் அமைந்துள்ளது.
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர், ஜாலான் துவாங்கு அப்துல் ஹாலிமில் உள்ள தேசிய அரண்மனையான இஸ்தானா நெகாரா
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-02.jpg
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-2.webp
+    alt: பழைய இஸ்தானா நெகாரா, தனித்து நிற்கும் கோபுரமும் வளைவுமான முகப்பும் கொண்ட கம்பீரமான கிரீம் நிற அரண்மனை, வெப்பமண்டலப் பசுமைக்கு மத்தியில், மலேசியாவின் முன்னாள் தேசிய அரண்மனை இப்போது அரச அருங்காட்சியகமாகப் பாதுகாக்கப்படுகிறது.
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர், ஜாலான் இஸ்தானாவில் இருந்த பழைய இஸ்தானா நெகாரா, இப்போது அரச அருங்காட்சியகம் (முசியம் டிராஜா)
+    credit: Gryffindor / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Negara_KL_12_2007_019.jpg
 ---
 
 மலேசியாவில் பதின்மூன்று மாநிலங்கள் உள்ளன, ஆனால் அவற்றுள் ஒன்பது மாநிலங்களுக்கு மட்டுமே ஆளும் அரசர் உண்டு. மற்ற நான்கு மாநிலங்கள் — Melaka, Pulau Pinang, Sabah மற்றும் Sarawak — நியமிக்கப்பட்ட மாநில ஆளுநரால் (Yang di-Pertua Negeri) தலைமை தாங்கப்படுகின்றன, ஒரு அரசரால் அல்ல.

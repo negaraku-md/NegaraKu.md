@@ -33,7 +33,7 @@ faq:
   - q: "अंत में दोनों समूहों का क्या हुआ?"
     a: "संघबद्ध और असंघबद्ध मलय राज्य दोनों 1 अप्रैल 1946 को मलायन यूनियन में विलीन कर दिए गए, जिसे खुद कुछ ही वर्षों में मलाया संघ (Federation of Malaya) ने प्रतिस्थापित कर दिया।"
 lang: "hi"
-sourceContentHash: "3bcc3b32fd59d463"
+sourceContentHash: "e4da032afb1762ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-05.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-1.webp
+    alt: चमकदार सफ़ेद औपनिवेशिक इपोह रेलवे स्टेशन, मेहराबदार स्तंभ-पंक्तियों और गुंबदनुमा बुर्जों वाला एक लंबा एडवर्डियन-मूरिश भवन, जो ब्रिटिश शासन के अधीन पेराक में बना।
+    kind: actual
+    origin: third-party
+    subject: इपोह रेलवे स्टेशन, पेराक में ब्रिटिश औपनिवेशिक काल का एक स्थल
+    credit: FBilula / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-2.webp
+    alt: पुराने कुआला लुम्पुर रेलवे स्टेशन का अलंकृत सफ़ेद अग्रभाग, मूरिश घोड़े-की-नाल जैसे मेहराबों, छोटे गुंबदों और मीनार जैसी शिखरों वाला एक ब्रिटिश औपनिवेशिक भवन, जो 1910 में पूर्ण हुआ।
+    kind: actual
+    origin: third-party
+    subject: पुराना कुआला लुम्पुर रेलवे स्टेशन (1910), मूरिश शैली का ब्रिटिश काल का टर्मिनस
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_railway_station_(Rawang-Seremban_%26_Sentul-Port_Klang_Line)_(frontal_facade),_Kuala_Lumpur.jpg
 ---
 
 नौ मलय राज्य, एक साम्राज्यवादी शक्ति — और फिर भी एक व्यवस्था नहीं बल्कि दो। वही विभाजन वह चीज़ है जिसे औपनिवेशिक मलाया के अधिकांश सार छोड़ देते हैं, और यही इस पूरे लेख का मुद्दा है।

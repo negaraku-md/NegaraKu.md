@@ -33,7 +33,7 @@ faq:
   - q: "두 부류는 결국 어떻게 되었습니까?"
     a: "연합 말레이 주와 비연합 말레이 주는 모두 1946년 4월 1일 말라야 연합(Malayan Union)으로 해체되었으며, 이 말라야 연합 자체도 몇 년 안에 말라야 연방(Federation of Malaya)으로 대체되었습니다."
 lang: "ko"
-sourceContentHash: "3bcc3b32fd59d463"
+sourceContentHash: "e4da032afb1762ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-05.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-1.webp
+    alt: 눈부시게 하얀 식민지 시대의 이포 기차역으로, 아치형 열주 회랑과 돔 지붕 탑을 갖춘 길쭉한 에드워드-무어 양식 건물이며 영국 통치하의 페락에 세워졌다.
+    kind: actual
+    origin: third-party
+    subject: 페락(Perak)의 영국 식민지 시대 명소, 이포 기차역(Ipoh Railway Station)
+    credit: FBilula / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-2.webp
+    alt: 옛 쿠알라룸푸르 기차역의 화려한 흰색 정면으로, 무어 양식의 말굽형 아치와 작은 돔, 미너렛 같은 첨탑을 갖춘 영국 식민지 시대 건물이며 1910년에 완공되었다.
+    kind: actual
+    origin: third-party
+    subject: 옛 쿠알라룸푸르 기차역(1910년), 무어 양식의 영국 시대 종착역
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_railway_station_(Rawang-Seremban_%26_Sentul-Port_Klang_Line)_(frontal_facade),_Kuala_Lumpur.jpg
 ---
 
 아홉 개의 말레이 국가, 하나의 제국 열강 — 그러나 하나의 방식이 아니라 둘이었습니다. 그 분할은 식민지 말라야(Malaya)에 대한 대부분의 요약이 지나쳐 버리는 것이며, 이 글의 온전한 요점입니다.

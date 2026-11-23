@@ -19,7 +19,7 @@ keyTakeaways:
   - "Hiệp ước Anh-Xiêm năm 1909 chuyển quyền thượng tôn đối với Kelantan từ Xiêm sang Anh, khiến nó trở thành một Bang Mã Lai Không Liên bang với một Cố vấn Anh; Vương tộc Long Yunus vẫn trị vì, ngày nay dưới thời Sultan Muhammad V"
 appliesTo: "Độc giả, học sinh - sinh viên và nhà nghiên cứu muốn hiểu nguồn gốc chế độ quân chủ của Kelantan, bối cảnh Patani và Xiêm của nó, và cách một trong chín vương tộc của Malaysia định hình hiện đại của nó."
 lang: "vi"
-sourceContentHash: "7959d9e4e2088c71"
+sourceContentHash: "833e2466c2324461"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-1.webp
+    alt: Một dinh thự hoàng gia màu vàng nhạt thanh nhã từ thập niên 1930 với hành lang vòm rộng, cửa sổ chớp lật và mái ngói thấp, nay là Bảo tàng Hoàng gia Kelantan, nằm sau bãi cỏ trong khu hoàng gia Kota Bharu.
+    kind: actual
+    origin: third-party
+    subject: Istana Batu (Bảo tàng Hoàng gia Kelantan / Muzium DiRaja) ở Kota Bharu
+    credit: Comelote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Batu.jpg
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-2.webp
+    alt: Một nhà thờ Hồi giáo cấp bang bề thế màu kem và trắng với mái vòm trung tâm rộng, các vòm nhỏ ở góc và một ngọn tháp vút cao, nhìn từ đường phố sau hàng rào sắt dưới bầu trời xanh.
+    kind: actual
+    origin: third-party
+    subject: Masjid Muhammadi, nhà thờ Hồi giáo cấp bang của Kelantan, ở Kota Bharu
+    credit: Neponenpasila / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_view_of_the_Muhammadi_Mosque.jpg
 ---
 
 Trên vai đông bắc của Bán đảo Mã Lai, nơi các con sông chảy xuống Biển Đông và bờ biển từng hướng về vương quốc Patani cổ cũng nhiều như hướng về vùng lõi Mã Lai, một ngai vàng được rèn ra từ nội chiến. Người sáng lập nó không sinh ra đã là vua. Ông là một thủ lĩnh quân sự gốc Patani đã trụ lâu hơn các đối thủ của mình, và vương triều ông khởi đầu — Vương tộc Long Yunus — vẫn trị vì ở Kelantan ngày nay, hơn hai thế kỷ rưỡi sau.

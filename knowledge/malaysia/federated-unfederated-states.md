@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-05.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-1.webp
+    alt: The gleaming white colonial Ipoh Railway Station, a long Edwardian-Moorish building with arched colonnades and domed towers built under British rule in Perak.
+    kind: actual
+    origin: third-party
+    subject: Ipoh Railway Station, a British colonial-era landmark in Perak
+    credit: FBilula / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-2.webp
+    alt: The ornate white facade of the old Kuala Lumpur Railway Station, a British colonial building of Moorish horseshoe arches, cupolas and minaret-like spires completed in 1910.
+    kind: actual
+    origin: third-party
+    subject: The old Kuala Lumpur Railway Station (1910), a Moorish-style British-era terminus
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_railway_station_(Rawang-Seremban_%26_Sentul-Port_Klang_Line)_(frontal_facade),_Kuala_Lumpur.jpg
 ---
 
 Nine Malay states, one imperial power — and yet not one arrangement but two. That split is the thing most summaries of colonial Malaya skip past, and it is the whole point of this article.

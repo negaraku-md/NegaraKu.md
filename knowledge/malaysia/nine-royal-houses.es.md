@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Lectores que quieran identificar los nueve estados reales de Malasia y comprender la posición constitucional de los Gobernantes en términos descriptivos — estudiantes, investigadores, periodistas, funcionarios públicos y lectores en general."
 
 lang: "es"
-sourceContentHash: "2e19d7c57053d5f0"
+sourceContentHash: "6bbe0081be695bba"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-1.webp
+    alt: Una amplia vista diurna del palacio nacional de Malasia, un largo complejo crema y blanco coronado por cúpulas bulbosas doradas, situado sobre una elevación ajardinada tras un cercado perimetral.
+    kind: actual
+    origin: third-party
+    subject: Istana Negara, el palacio nacional en Jalan Tuanku Abdul Halim, Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-02.jpg
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-2.webp
+    alt: El antiguo Istana Negara, un majestuoso palacio de color crema con una prominente cúpula y una fachada de arcos entre vegetación tropical, el anterior palacio nacional de Malasia hoy conservado como Museo Real.
+    kind: actual
+    origin: third-party
+    subject: El antiguo Istana Negara en Jalan Istana, Kuala Lumpur, hoy el Museo Real (Muzium Diraja)
+    credit: Gryffindor / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Negara_KL_12_2007_019.jpg
 ---
 
 Malasia tiene trece estados, pero solo nueve de ellos tienen un Gobernante reinante. Los otros cuatro estados — Melaka, Penang, Sabah y Sarawak — están encabezados por un Yang di-Pertua Negeri designado, no por un Gobernante.

@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "ผู้อ่านที่ต้องการระบุเก้ารัฐที่มีเจ้าผู้ครองของมาเลเซียและเข้าใจสถานะตามรัฐธรรมนูญของบรรดาเจ้าผู้ครองอย่างเป็นการพรรณนา คือ นักเรียน นักวิจัย นักข่าว ข้าราชการ และผู้อ่านทั่วไป"
 
 lang: "th"
-sourceContentHash: "2e19d7c57053d5f0"
+sourceContentHash: "6bbe0081be695bba"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-1.webp
+    alt: ภาพมุมกว้างยามกลางวันของพระราชวังแห่งชาติมาเลเซีย อาคารยาวสีครีมและขาวที่มีโดมหัวหอมสีทองประดับยอด ตั้งอยู่บนเนินที่จัดภูมิทัศน์หลังรั้วรอบขอบชิด
+    kind: actual
+    origin: third-party
+    subject: อิสตานาเนการา (Istana Negara) พระราชวังแห่งชาติบนถนนจาลันตวนกูอับดุลฮาลิม (Jalan Tuanku Abdul Halim) กรุงกัวลาลัมเปอร์ (Kuala Lumpur)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-02.jpg
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-2.webp
+    alt: อดีตอิสตานาเนการา พระราชวังสีครีมอันสง่างามที่มีโดมเด่นและด้านหน้าทรงโค้ง ท่ามกลางพรรณไม้เขตร้อน เป็นอดีตพระราชวังแห่งชาติของมาเลเซียที่ปัจจุบันได้รับการอนุรักษ์ไว้เป็นพิพิธภัณฑ์หลวง
+    kind: actual
+    origin: third-party
+    subject: อดีตอิสตานาเนการา (Istana Negara) บนถนนจาลันอิสตานา (Jalan Istana) กรุงกัวลาลัมเปอร์ ปัจจุบันคือพิพิธภัณฑ์หลวง (Muzium Diraja)
+    credit: Gryffindor / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Negara_KL_12_2007_019.jpg
 ---
 
 มาเลเซียมีสิบสามรัฐ แต่มีเพียงเก้ารัฐเท่านั้นที่มีเจ้าผู้ครอง อีกสี่รัฐ คือ มะละกา ปูเลาปีนัง ซาบาห์ และซาราวัก มียังดี-เปอร์ตัว เนอเกอรี (Yang di-Pertua Negeri) ที่ได้รับการแต่งตั้งเป็นประมุข ไม่ใช่เจ้าผู้ครอง

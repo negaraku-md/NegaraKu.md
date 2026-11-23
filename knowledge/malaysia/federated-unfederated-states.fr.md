@@ -33,7 +33,7 @@ faq:
   - q: "Qu'advint-il finalement des deux groupes ?"
     a: "Les États malais fédérés comme les États malais non fédérés furent dissous dans l'Union malaise le 1er avril 1946, elle-même remplacée en quelques années par la Fédération de Malaya."
 lang: "fr"
-sourceContentHash: "3bcc3b32fd59d463"
+sourceContentHash: "e4da032afb1762ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-05.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-1.webp
+    alt: La resplendissante gare coloniale blanche d'Ipoh, un long bâtiment édouardien-mauresque aux colonnades en arcades et aux tours à coupoles, construit sous la domination britannique au Perak.
+    kind: actual
+    origin: third-party
+    subject: La gare d'Ipoh, un monument de l'époque coloniale britannique au Perak
+    credit: FBilula / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-2.webp
+    alt: La façade blanche ornée de l'ancienne gare de Kuala Lumpur, un bâtiment colonial britannique aux arcs mauresques en fer à cheval, aux coupoles et aux flèches en forme de minarets, achevé en 1910.
+    kind: actual
+    origin: third-party
+    subject: L'ancienne gare de Kuala Lumpur (1910), un terminus de style mauresque de l'époque britannique
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_railway_station_(Rawang-Seremban_%26_Sentul-Port_Klang_Line)_(frontal_facade),_Kuala_Lumpur.jpg
 ---
 
 Neuf États malais, une seule puissance impériale — et pourtant non pas un seul arrangement, mais deux. Cette division est ce que la plupart des résumés de la Malaya coloniale passent sous silence, et c'est tout l'objet de cet article.

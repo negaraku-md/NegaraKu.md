@@ -21,7 +21,7 @@ appliesTo: "사라왁과 사바가 어떻게 말레이시아의 일부가 되었
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e1e12abca406eef4"
+sourceContentHash: "44249e29dc164a59"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -67,6 +67,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/brunei-sultanate/body-1.webp
+    alt: 잔잔한 브루나이강 위로 펼쳐진 목조 수상 가옥 무리와 이를 잇는 통로로, 브루나이 수도의 역사적 중심에 자리한 수백 년 역사의 수상 마을이다.
+    kind: actual
+    origin: third-party
+    subject: 반다르스리브가완(Bandar Seri Begawan)의 브루나이강(Brunei River) 위에 자리한 유서 깊은 수상 가옥 마을, 캄퐁 아예르(Kampong Ayer)
+    credit: Tourism Development Department of Brunei / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampong_Ayer_Brunei_Darussalam.jpg
+  - role: scene
+    src: /media/malaysia/brunei-sultanate/body-2.webp
+    alt: 라파우로, 술탄의 대관식이 거행되는 브루나이의 왕실 의전 전당이며, 반다르스리브가완의 조경된 정원과 꽃핀 관목 사이에 자리한다.
+    kind: actual
+    origin: third-party
+    subject: 반다르스리브가완에 있는 브루나이의 왕실 의전 전당, 라파우(The Lapau)
+    credit: Xiquinho Silva / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lapau_Brunei_2024_01.jpg
 ---
 
 오늘날 반다르스리브가완(Bandar Seri Begawan)의 물가에 서 보면 브루나이는 작아 보입니다: 보르네오(Borneo) 해안의 두 자락을 감싼, 오후 한나절이면 차로 가로지를 만큼 가까운 부유한 산유 술탄국입니다. 이것이 한 제국의 살아남은 조각이라는 사실 — 다섯 세기 전 브루나이의 술탄이 그 섬 북·서 해안의 대부분에 늘어선 항구들에서 공물을 받을 수 있었고, 여기서 차로 닿을 수 있는 두 말레이시아 주 사라왁(Sarawak)과 사바(Sabah)가 한때 그가 떼어 줄 수 있는 그의 것이었다는 사실 — 은 잊히기 쉽습니다. 보르네오의 한 해상 왕국이 어떻게 일어나 정점에 이르고, 그 뒤 그 해안들을 조각조각 넘겨주었는지에 관한 이야기는 — 브루나이 자신은 결코 말레이시아의 일부가 되지 않았음에도 — 말레이시아 역사의 핵심 실 가운데 하나입니다.

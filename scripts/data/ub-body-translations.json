@@ -15892,5 +15892,737 @@
         "subject": "Balai Nobat, கெடா அரச நோபாத் இசைக்குழுவைக் கொண்டுள்ள எண்கோண கோபுரம், Alor Setar-இல்"
       }
     ]
+  },
+  "malaysia/terengganu-sultanate": {
+    "zh": [
+      {
+        "alt": "一座洁白闪亮的清真寺，中央有一个巨大的金色圆顶，两侧环绕着较小的圆顶和一座高耸的宣礼塔，坐落在带围墙的庭院之后，上方是明亮的热带天空。",
+        "subject": "阿比丁清真寺（Masjid Abidin），瓜拉登嘉楼（Kuala Terengganu）的登嘉楼旧州级皇家清真寺"
+      },
+      {
+        "alt": "一座现代化的长型开合桥横跨宽阔的河流，由优美的白色拱架支撑，矗立于两座高耸的瞭望塔之间，远岸是城镇的天际线。",
+        "subject": "跨越登嘉楼河（Terengganu River）的开合桥（Jambatan Angkat，瓜拉登嘉楼开合桥）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "白く輝くモスク。大きな金色の中央ドームを小さなドームと高いミナレットが囲み、塀に囲まれた中庭の奥に建ち、明るい熱帯の空が広がる。",
+        "subject": "クアラ・トレンガヌ（Kuala Terengganu）にある、トレンガヌ州の旧王室モスク、マスジッド・アビディン（Masjid Abidin）"
+      },
+      {
+        "alt": "広い川を渡る近代的な長い跳ね橋。2基の高い展望塔の間を優美な白いアーチが支え、対岸には町のスカイラインが連なる。",
+        "subject": "トレンガヌ川（Terengganu River）に架かる跳ね橋、ジャンバタン・アンカット（Jambatan Angkat、クアラ・トレンガヌ跳ね橋）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "눈부시게 하얀 모스크로, 커다란 금빛 중앙 돔을 작은 돔들과 높은 미너렛이 둘러싸고 있으며, 담장으로 둘러싸인 안뜰 뒤로 밝은 열대 하늘 아래 자리 잡고 있다.",
+        "subject": "쿠알라트렝가누(Kuala Terengganu)에 있는 트렝가누주의 옛 왕실 모스크, 마스지드 아비딘(Masjid Abidin)"
+      },
+      {
+        "alt": "넓은 강을 가로지르는 길고 현대적인 도개교로, 두 개의 높은 전망탑 사이를 우아한 흰색 아치가 떠받치고 있으며, 건너편 강가에는 마을의 스카이라인이 펼쳐진다.",
+        "subject": "트렝가누강(Terengganu River)을 가로지르는 도개교, 잠바탄 앙캇(Jambatan Angkat, 쿠알라트렝가누 도개교)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "มัสยิดสีขาวเปล่งประกาย มีโดมกลางสีทองขนาดใหญ่ขนาบด้วยโดมเล็กกว่าและหอคอยสุเหร่าสูง ตั้งอยู่หลังลานที่มีกำแพงล้อมรอบ ภายใต้ท้องฟ้าเขตร้อนสดใส",
+        "subject": "มัสยิดอาบีดิน (Masjid Abidin) มัสยิดหลวงเก่าประจำรัฐตรังกานู ในกัวลาตรังกานู (Kuala Terengganu)"
+      },
+      {
+        "alt": "สะพานชักสมัยใหม่ทอดยาวข้ามแม่น้ำกว้าง รองรับด้วยโค้งสีขาวอ่อนช้อยระหว่างหอสังเกตการณ์สูงสองหอ โดยมีเส้นขอบฟ้าของเมืองเรียงรายอยู่ริมฝั่งตรงข้าม",
+        "subject": "จัมบาตันอังกัต (Jambatan Angkat สะพานชักกัวลาตรังกานู) ข้ามแม่น้ำตรังกานู (Terengganu River)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "चमकदार सफ़ेद एक मस्जिद जिसके केंद्र में एक बड़ा सुनहरा गुंबद है, जिसके दोनों ओर छोटे गुंबद और एक ऊँची मीनार है, जो चमकीले उष्णकटिबंधीय आकाश के नीचे एक चारदीवारी वाले प्रांगण के पीछे स्थित है।",
+        "subject": "मस्जिद अबिदिन, तेरेंगानु की पुरानी राजकीय शाही मस्जिद, कुआला तेरेंगानु में"
+      },
+      {
+        "alt": "एक चौड़ी नदी पर फैला एक लंबा आधुनिक ड्रॉब्रिज, जो दो ऊँचे अवलोकन बुर्जों के बीच सुंदर सफ़ेद मेहराबों पर टिका है, और दूर किनारे पर नगर का क्षितिज दिखाई देता है।",
+        "subject": "जम्बातान अंगकट (कुआला तेरेंगानु ड्रॉब्रिज) तेरेंगानु नदी के ऊपर"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مسجد أبيض لامع تعلوه قبة ذهبية مركزية كبيرة تحيط بها قباب أصغر ومئذنة شاهقة، يقع خلف فناء مسوَّر تحت سماء استوائية مشرقة.",
+        "subject": "مسجد عابدين، المسجد الملكي القديم لولاية تيرينغانو، في كوالا تيرينغانو"
+      },
+      {
+        "alt": "جسر رفعي حديث طويل يمتد فوق نهر واسع، محمول على أقواس بيضاء منسابة بين برجَي مراقبة شاهقين، مع أفق البلدة على الضفة البعيدة.",
+        "subject": "جمباتان أنغكات (جسر كوالا تيرينغانو الرفعي) فوق نهر تيرينغانو"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una reluciente mezquita blanca con una gran cúpula central dorada flanqueada por cúpulas más pequeñas y un alto minarete, situada tras un patio amurallado bajo un luminoso cielo tropical.",
+        "subject": "Masjid Abidin, la antigua mezquita real del estado de Terengganu, en Kuala Terengganu"
+      },
+      {
+        "alt": "Un largo puente levadizo moderno que cruza un ancho río, sostenido por elegantes arcos blancos entre dos altas torres de observación, con el perfil de la ciudad en la orilla opuesta.",
+        "subject": "Jambatan Angkat (el puente levadizo de Kuala Terengganu) sobre el río Terengganu"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une mosquée d'un blanc éclatant coiffée d'une grande coupole centrale dorée flanquée de coupoles plus petites et d'un haut minaret, dressée derrière une cour fortifiée sous un ciel tropical lumineux.",
+        "subject": "Masjid Abidin, l'ancienne mosquée royale de l'État de Terengganu, à Kuala Terengganu"
+      },
+      {
+        "alt": "Un long pont levant moderne enjambant une large rivière, porté par de gracieuses arches blanches entre deux hautes tours d'observation, avec la silhouette de la ville sur la rive opposée.",
+        "subject": "Jambatan Angkat (le pont levant de Kuala Terengganu) sur la rivière Terengganu"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah masjid putih berkilau dengan kubah pusat besar berwarna emas diapit kubah-kubah lebih kecil dan sebuah menara tinggi, terletak di belakang laman berpagar di bawah langit tropika yang cerah.",
+        "subject": "Masjid Abidin, bekas masjid diraja negeri Terengganu, di Kuala Terengganu"
+      },
+      {
+        "alt": "Sebuah jambatan angkat moden yang panjang merentangi sungai yang luas, disokong oleh gerbang putih melengkung antara dua menara tinjauan tinggi, dengan kaki langit pekan di sepanjang tebing seberang.",
+        "subject": "Jambatan Angkat Kuala Terengganu merentasi Sungai Terengganu"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah masjid putih berkilau dengan kubah pusat besar berwarna emas diapit kubah-kubah lebih kecil dan sebuah menara tinggi, berdiri di belakang halaman berpagar di bawah langit tropis yang cerah.",
+        "subject": "Masjid Abidin, bekas masjid kerajaan negeri Terengganu, di Kuala Terengganu"
+      },
+      {
+        "alt": "Sebuah jembatan angkat modern yang panjang membentang di atas sungai lebar, ditopang lengkungan putih yang menyapu di antara dua menara pengamatan tinggi, dengan cakrawala kota di sepanjang tepian seberang.",
+        "subject": "Jambatan Angkat (Jembatan Angkat Kuala Terengganu) di atas Sungai Terengganu"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một nhà thờ Hồi giáo màu trắng lấp lánh với mái vòm trung tâm lớn mạ vàng, hai bên là các mái vòm nhỏ hơn và một ngọn tháp cao, nằm sau sân có tường bao dưới bầu trời nhiệt đới rực sáng.",
+        "subject": "Masjid Abidin, nhà thờ Hồi giáo hoàng gia cũ của bang Terengganu, ở Kuala Terengganu"
+      },
+      {
+        "alt": "Một cây cầu cất hiện đại dài bắc qua con sông rộng, đỡ trên những vòm trắng uốn cong giữa hai tháp quan sát cao, với đường chân trời thị trấn dọc bờ bên kia.",
+        "subject": "Jambatan Angkat (Cầu cất Kuala Terengganu) bắc qua sông Terengganu"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஒளிரும் வெள்ளை நிற பள்ளிவாசல், பெரிய தங்க நிற மைய கோபுரத்தையும் அதனை அடுத்த சிறிய கோபுரங்களையும் உயரமான ஒரு மினாரத்தையும் கொண்டு, பிரகாசமான வெப்பமண்டல வானத்தின் கீழ் சுவர் சூழ்ந்த முற்றத்தின் பின்னால் அமைந்துள்ளது.",
+        "subject": "தெரெங்கானு மாநிலத்தின் பழைய அரச பள்ளிவாசலான மஸ்ஜித் அபிடின், கோலா தெரெங்கானுவில்"
+      },
+      {
+        "alt": "அகலமான ஆற்றின் குறுக்கே நீண்ட நவீன தூக்குப் பாலம், இரு உயரமான கண்காணிப்புக் கோபுரங்களுக்கு இடையே வளைந்த வெள்ளை வளைவுகளில் தாங்கப்பட்டு, எதிர்க் கரையோரம் நகரின் வானெல்லையுடன் நீள்கிறது.",
+        "subject": "தெரெங்கானு ஆற்றின் மேல் ஜம்பாத்தான் அங்காட் (கோலா தெரெங்கானு தூக்குப் பாலம்)"
+      }
+    ]
+  },
+  "malaysia/kelantan-sultanate": {
+    "zh": [
+      {
+        "alt": "一座优雅的淡黄色1930年代皇家宅邸，设有宽阔的拱形回廊、百叶窗和低矮的瓦顶，如今是吉兰丹皇家博物馆，坐落在哥打峇鲁皇城区的草坪之后。",
+        "subject": "哥打峇鲁（Kota Bharu）的石宫（Istana Batu，吉兰丹皇家博物馆／Muzium DiRaja）"
+      },
+      {
+        "alt": "一座宏伟的乳白色州级清真寺，拥有宽阔的中央圆顶、角楼小圆顶和一座高耸的宣礼塔，从街道上隔着铁栏杆望去，上方是蓝天。",
+        "subject": "哥打峇鲁的吉兰丹州清真寺——穆罕默迪清真寺（Masjid Muhammadi）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "優美な淡黄色の1930年代の王室邸宅。広いアーチ型のベランダ、鎧戸付きの窓、低い瓦屋根を備え、現在はクランタン王室博物館となり、コタ・バルの王室地区の芝生の奥に建つ。",
+        "subject": "コタ・バル（Kota Bharu）にあるイスタナ・バトゥ（Istana Batu、クランタン王室博物館／Muzium DiRaja）"
+      },
+      {
+        "alt": "クリーム色と白の壮大な州モスク。広い中央ドーム、隅の小塔、そびえ立つミナレットを備え、青空の下、鉄柵越しに通りから望む。",
+        "subject": "コタ・バルにあるクランタン州モスク、マスジッド・ムハマディ（Masjid Muhammadi）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "우아한 연노랑빛 1930년대 왕실 저택으로, 넓은 아치형 베란다, 덧문이 달린 창, 낮은 기와지붕을 갖추었으며, 현재는 클란탄 왕실 박물관으로 쓰이고 코타바루 왕실 구역의 잔디밭 뒤에 자리한다.",
+        "subject": "코타바루(Kota Bharu)에 있는 이스타나 바투(Istana Batu, 클란탄 왕실 박물관／Muzium DiRaja)"
+      },
+      {
+        "alt": "크림색과 흰색의 웅장한 주립 모스크로, 넓은 중앙 돔과 모서리의 작은 돔들, 하늘로 솟은 미너렛을 갖추었으며, 푸른 하늘 아래 철제 난간 너머 거리에서 바라본 모습이다.",
+        "subject": "코타바루에 있는 클란탄 주립 모스크, 마스지드 무하마디(Masjid Muhammadi)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "คฤหาสน์หลวงสีเหลืองอ่อนอันสง่างามจากทศวรรษ 1930 มีระเบียงโค้งกว้าง หน้าต่างบานเกล็ด และหลังคากระเบื้องเตี้ย ปัจจุบันเป็นพิพิธภัณฑ์หลวงกลันตัน ตั้งอยู่หลังสนามหญ้าในเขตพระราชฐานโกตาบารู",
+        "subject": "อิสตานาบาตู (Istana Batu พิพิธภัณฑ์หลวงกลันตัน / Muzium DiRaja) ในโกตาบารู (Kota Bharu)"
+      },
+      {
+        "alt": "มัสยิดประจำรัฐอันยิ่งใหญ่สีครีมและขาว มีโดมกลางกว้าง โดมมุมเล็ก และหอคอยสุเหร่าสูงเสียดฟ้า มองจากถนนผ่านรั้วเหล็กภายใต้ท้องฟ้าสีคราม",
+        "subject": "มัสยิดมูฮัมมาดี (Masjid Muhammadi) มัสยิดประจำรัฐกลันตัน ในโกตาบารู"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "वर्ष 1930 के दशक का एक सुंदर हल्के-पीले रंग का शाही निवास जिसमें चौड़े मेहराबदार बरामदे, झिलमिली वाली खिड़कियाँ और एक नीची टाइल वाली छत है, जो अब कोटा भारू के शाही क्षेत्र में एक लॉन के पीछे स्थित केलंतन शाही संग्रहालय है।",
+        "subject": "इस्ताना बातु (केलंतन शाही संग्रहालय / मुज़ियम दिराजा) कोटा भारू में"
+      },
+      {
+        "alt": "एक भव्य क्रीम-और-सफ़ेद राजकीय मस्जिद जिसमें एक चौड़ा केंद्रीय गुंबद, कोनों पर छोटे गुंबद और एक ऊँची मीनार है, जो नीले आकाश के नीचे लोहे की रेलिंग के पीछे सड़क से दिखाई देती है।",
+        "subject": "मस्जिद मुहम्मदी, केलंतन की राजकीय मस्जिद, कोटा भारू में"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مقر ملكي أنيق أصفر باهت من ثلاثينيات القرن العشرين، بشرفات مقوّسة واسعة ونوافذ مغلقة بمصاريع وسقف قرميدي منخفض، صار الآن متحف كلنتان الملكي، يقع خلف مرج في الحي الملكي بكوتا بهارو.",
+        "subject": "إستانا باتو (متحف كلنتان الملكي / متحف ديراجا) في كوتا بهارو"
+      },
+      {
+        "alt": "مسجد ولائي فخم بلونَي الكريمي والأبيض، بقبة مركزية واسعة وقباب صغيرة في الأركان ومئذنة شاهقة، يُرى من الشارع خلف سياج حديدي تحت سماء زرقاء.",
+        "subject": "مسجد محمدي، مسجد ولاية كلنتان، في كوتا بهارو"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una elegante residencia real de los años treinta de color amarillo pálido, con amplios porches de arcos, ventanas con contraventanas y un tejado bajo de tejas, hoy el Museo Real de Kelantan, situada tras un césped en el barrio real de Kota Bharu.",
+        "subject": "Istana Batu (el Museo Real de Kelantan / Muzium DiRaja) en Kota Bharu"
+      },
+      {
+        "alt": "Una imponente mezquita estatal en tonos crema y blanco, con una amplia cúpula central, cupulines en las esquinas y un minarete que se eleva, vista desde la calle tras unas verjas de hierro bajo un cielo azul.",
+        "subject": "Masjid Muhammadi, la mezquita estatal de Kelantan, en Kota Bharu"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une gracieuse résidence royale des années 1930 d'un jaune pâle, aux larges vérandas en arcades, aux fenêtres à volets et au toit bas de tuiles, aujourd'hui le Musée royal de Kelantan, dressée derrière une pelouse dans le quartier royal de Kota Bharu.",
+        "subject": "Istana Batu (le Musée royal de Kelantan / Muzium DiRaja) à Kota Bharu"
+      },
+      {
+        "alt": "Une imposante mosquée d'État crème et blanche, à large coupole centrale, coupoles d'angle et minaret élancé, vue depuis la rue derrière des grilles de fer sous un ciel bleu.",
+        "subject": "Masjid Muhammadi, la mosquée d'État de Kelantan, à Kota Bharu"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah kediaman diraja berwarna kuning pucat anggun dari tahun 1930-an dengan beranda melengkung yang luas, tingkap berbidai dan bumbung berjubin rendah, kini menjadi Muzium DiRaja Kelantan, terletak di belakang halaman rumput di daerah diraja Kota Bharu.",
+        "subject": "Istana Batu (Muzium DiRaja Kelantan) di Kota Bharu"
+      },
+      {
+        "alt": "Sebuah masjid negeri yang megah berwarna krim dan putih dengan kubah pusat yang luas, kubah kecil di penjuru dan menara menjulang tinggi, dilihat dari jalan di belakang pagar besi di bawah langit biru.",
+        "subject": "Masjid Muhammadi, masjid negeri Kelantan, di Kota Bharu"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah kediaman kerajaan berwarna kuning pucat yang anggun dari era 1930-an dengan beranda melengkung yang luas, jendela berdaun pintu dan atap genteng rendah, kini menjadi Museum Kerajaan Kelantan, berdiri di belakang halaman rumput di kawasan kerajaan Kota Bharu.",
+        "subject": "Istana Batu (Muzium DiRaja Kelantan) di Kota Bharu"
+      },
+      {
+        "alt": "Sebuah masjid negara bagian yang megah berwarna krem dan putih dengan kubah pusat yang lebar, kubah kecil di sudut dan menara menjulang tinggi, terlihat dari jalan di belakang pagar besi di bawah langit biru.",
+        "subject": "Masjid Muhammadi, masjid negara bagian Kelantan, di Kota Bharu"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một dinh thự hoàng gia màu vàng nhạt thanh nhã từ thập niên 1930 với hành lang vòm rộng, cửa sổ chớp lật và mái ngói thấp, nay là Bảo tàng Hoàng gia Kelantan, nằm sau bãi cỏ trong khu hoàng gia Kota Bharu.",
+        "subject": "Istana Batu (Bảo tàng Hoàng gia Kelantan / Muzium DiRaja) ở Kota Bharu"
+      },
+      {
+        "alt": "Một nhà thờ Hồi giáo cấp bang bề thế màu kem và trắng với mái vòm trung tâm rộng, các vòm nhỏ ở góc và một ngọn tháp vút cao, nhìn từ đường phố sau hàng rào sắt dưới bầu trời xanh.",
+        "subject": "Masjid Muhammadi, nhà thờ Hồi giáo cấp bang của Kelantan, ở Kota Bharu"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "1930-களைச் சேர்ந்த அழகிய வெளிர் மஞ்சள் நிற அரச மாளிகை, அகலமான வளைவுத் திண்ணைகள், தட்டிச் சாளரங்கள் மற்றும் தாழ்வான ஓட்டு கூரையுடன், இப்போது கிளந்தான் அரச அருங்காட்சியகமாக, கோட்டா பாரு அரச பகுதியில் புல்வெளியின் பின்னால் அமைந்துள்ளது.",
+        "subject": "கோட்டா பாருவில் உள்ள இஸ்தானா பாத்து (கிளந்தான் அரச அருங்காட்சியகம் / முசியம் டிராஜா)"
+      },
+      {
+        "alt": "அகலமான மைய கோபுரம், மூலைக் குமிழ்கள் மற்றும் வானளாவிய மினாரத்துடன் கூடிய கிரீம்-வெள்ளை நிற பிரமாண்டமான மாநிலப் பள்ளிவாசல், நீல வானத்தின் கீழ் இரும்பு வேலியின் பின்னால் தெருவிலிருந்து காணப்படுகிறது.",
+        "subject": "கோட்டா பாருவில் உள்ள கிளந்தான் மாநிலப் பள்ளிவாசலான மஸ்ஜித் முஹம்மதி"
+      }
+    ]
+  },
+  "malaysia/negeri-sembilan-royal-institution": {
+    "zh": [
+      {
+        "alt": "一座庄严的乳白色王宫，两翼对称，设有一对带山墙的塔楼，坐落在斯里门南蒂（Seri Menanti）修剪整齐的花园之后，背倚林木葱郁的山峦。",
+        "subject": "斯里门南蒂大王宫（Istana Besar Seri Menanti），森美兰（Negeri Sembilan）现今的王宫"
+      },
+      {
+        "alt": "一座高耸的现代政府大楼，顶部是气势磅礴、向上翘起的米南加保水牛角形屋顶，矗立在芙蓉市中心较低的楼翼与草坪之上。",
+        "subject": "芙蓉（Seremban）的州级行政大楼——顶着米南加保式屋顶的州务大厦（Wisma Negeri）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "堂々としたクリーム色の王宮。左右対称の翼と2基の切妻屋根の塔を備え、スリ・ムナンティの手入れの行き届いた庭園の奥、森に覆われた丘の麓に建つ。",
+        "subject": "ヌグリ・スンビラン（Negeri Sembilan）の現在の王宮、イスタナ・ブサール・スリ・ムナンティ（Istana Besar Seri Menanti）"
+      },
+      {
+        "alt": "高くそびえる近代的な政府庁舎。ミナンカバウの水牛の角のように劇的に反り上がった屋根を頂き、スレンバン中心部の低層の翼棟と芝生の上に立つ。",
+        "subject": "スレンバン（Seremban）にある、ミナンカバウ屋根を頂く州行政庁舎、ウィスマ・ヌグリ（Wisma Negeri）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "위엄 있는 크림색 왕궁으로, 좌우 대칭의 양 날개와 박공을 얹은 쌍둥이 탑을 갖추었으며, 스리므난티의 잘 손질된 정원 뒤, 숲이 우거진 언덕 아래 자리한다.",
+        "subject": "느그리슴빌란(Negeri Sembilan)의 현 왕궁, 이스타나 브사르 스리므난티(Istana Besar Seri Menanti)"
+      },
+      {
+        "alt": "미낭카바우 물소 뿔 모양으로 극적으로 치켜 올라간 지붕을 얹은 높은 현대식 정부 청사로, 스름반 도심의 낮은 부속동과 잔디밭 위로 솟아 있다.",
+        "subject": "스름반(Seremban)에 있는 미낭카바우식 지붕의 주 행정 청사, 위스마 느그리(Wisma Negeri)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "พระราชวังหลวงสีครีมอันสง่างาม มีปีกสองข้างสมมาตรและหอคอยคู่หน้าจั่ว ตั้งอยู่หลังสวนที่ตกแต่งอย่างประณีตเชิงเขาป่าไม้ที่เซอรีเมนันตี",
+        "subject": "อิสตานาเบอซาร์เซอรีเมนันตี (Istana Besar Seri Menanti) พระราชวังหลวงปัจจุบันของรัฐเนเกรีเซมบีลัน (Negeri Sembilan)"
+      },
+      {
+        "alt": "อาคารราชการสมัยใหม่สูงตระหง่าน ยอดเป็นหลังคาทรงเขาควายมีนังกาเบาเชิดขึ้นอย่างโดดเด่น ตั้งตระหง่านเหนือปีกอาคารเตี้ยและสนามหญ้าใจกลางเซอเริมบัน",
+        "subject": "วิสมาเนเกรี (Wisma Negeri) อาคารบริหารรัฐหลังคาทรงมีนังกาเบา ในเซอเริมบัน (Seremban)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक भव्य क्रीम रंग का शाही महल जिसमें सममित पंख और दो त्रिकोणीय शिखर वाले बुर्ज हैं, जो सेरी मेनंती में जंगली पहाड़ियों के नीचे सुव्यवस्थित बगीचों के पीछे स्थित है।",
+        "subject": "इस्ताना बेसार सेरी मेनंती, नेगेरी सेम्बिलान का वर्तमान शाही महल"
+      },
+      {
+        "alt": "एक ऊँचा आधुनिक सरकारी भवन जिसके ऊपर नाटकीय रूप से ऊपर की ओर मुड़ी मिनांगकाबाउ भैंस-सींग वाली छतें हैं, जो सेरेम्बान के केंद्र में निचले पंखों और लॉन के ऊपर उठा हुआ है।",
+        "subject": "विस्मा नेगेरी, मिनांगकाबाउ-छत वाला राजकीय प्रशासनिक भवन, सेरेम्बान में"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "قصر ملكي مهيب بلون كريمي، بجناحين متناظرين وبرجين توأمين مجمَّلين، يقع خلف حدائق مشذَّبة أسفل تلال كثيفة الأشجار في سري مننتي.",
+        "subject": "إستانا بيسار سري مننتي، القصر الملكي الحالي لنݢري سمبيلان"
+      },
+      {
+        "alt": "برج حكومي حديث شاهق تعلوه أسقف ميننݢكاباو المميزة المرتفعة على هيئة قرون الجاموس، يرتفع فوق أجنحة أدنى ومروج في وسط سريمبان.",
+        "subject": "ويسما نݢري، المبنى الإداري للولاية بسقف ميننݢكاباو، في سريمبان"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un majestuoso palacio real de color crema con alas simétricas y dos torres gemelas con hastiales, situado tras cuidados jardines al pie de colinas boscosas en Seri Menanti.",
+        "subject": "Istana Besar Seri Menanti, el actual palacio real de Negeri Sembilan"
+      },
+      {
+        "alt": "Una alta torre gubernamental moderna coronada por espectaculares techos minangkabau en forma de cuernos de búfalo que se alzan hacia arriba, elevándose sobre alas más bajas y céspedes en el centro de Seremban.",
+        "subject": "Wisma Negeri, el edificio administrativo estatal con techo minangkabau, en Seremban"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un majestueux palais royal couleur crème aux ailes symétriques et aux deux tours jumelles à pignon, dressé derrière des jardins soignés au pied de collines boisées à Seri Menanti.",
+        "subject": "Istana Besar Seri Menanti, l'actuel palais royal de Negeri Sembilan"
+      },
+      {
+        "alt": "Une haute tour gouvernementale moderne coiffée de spectaculaires toits minangkabau en cornes de buffle relevées, s'élevant au-dessus d'ailes plus basses et de pelouses au centre de Seremban.",
+        "subject": "Wisma Negeri, le bâtiment administratif de l'État au toit minangkabau, à Seremban"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah istana diraja berwarna krim yang anggun dengan sayap simetri dan sepasang menara beratap tirus, terletak di belakang taman terjaga rapi di bawah bukit berhutan di Seri Menanti.",
+        "subject": "Istana Besar Seri Menanti, istana diraja Negeri Sembilan kini"
+      },
+      {
+        "alt": "Sebuah menara kerajaan moden yang tinggi dimahkotai bumbung tanduk kerbau Minangkabau yang melengkung dramatik ke atas, menjulang di atas sayap lebih rendah dan laman rumput di tengah Seremban.",
+        "subject": "Wisma Negeri, bangunan pentadbiran negeri beratap Minangkabau, di Seremban"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah istana kerajaan berwarna krem yang anggun dengan sayap simetris dan sepasang menara beratap pelana, berdiri di belakang taman terawat rapi di bawah perbukitan berhutan di Seri Menanti.",
+        "subject": "Istana Besar Seri Menanti, istana kerajaan Negeri Sembilan saat ini"
+      },
+      {
+        "alt": "Sebuah menara pemerintahan modern yang tinggi dimahkotai atap tanduk kerbau Minangkabau yang melengkung dramatis ke atas, menjulang di atas sayap lebih rendah dan halaman rumput di pusat Seremban.",
+        "subject": "Wisma Negeri, bangunan administrasi negara bagian beratap Minangkabau, di Seremban"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một cung điện hoàng gia màu kem trang nghiêm với các cánh đối xứng và hai tháp mái đầu hồi sinh đôi, nằm sau khu vườn được chăm chút dưới chân đồi rừng ở Seri Menanti.",
+        "subject": "Istana Besar Seri Menanti, cung điện hoàng gia hiện nay của Negeri Sembilan"
+      },
+      {
+        "alt": "Một tòa tháp chính quyền hiện đại cao vút được đội mái sừng trâu Minangkabau cong vút ấn tượng, vươn lên trên các cánh thấp hơn và bãi cỏ ở trung tâm Seremban.",
+        "subject": "Wisma Negeri, tòa nhà hành chính cấp bang mái Minangkabau, ở Seremban"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "சமச்சீர் பக்கப் பகுதிகளும் இரட்டை முக்கூரை கோபுரங்களும் கொண்ட கம்பீரமான கிரீம் நிற அரச மாளிகை, செரி மெனந்தியில் காடுகள் சூழ்ந்த மலைகளுக்குக் கீழே நேர்த்தியாகப் பராமரிக்கப்பட்ட தோட்டங்களின் பின்னால் அமைந்துள்ளது.",
+        "subject": "நெகிரி செம்பிலானின் தற்போதைய அரச மாளிகையான இஸ்தானா பேசார் செரி மெனந்தி"
+      },
+      {
+        "alt": "நாடகீயமாக மேல்நோக்கி வளைந்த மினாங்கபாவ் எருமைக்கொம்பு கூரைகளால் முடிசூட்டப்பட்ட உயரமான நவீன அரசாங்க கோபுரம், செரம்பான் மையத்தில் தாழ்வான பக்கப் பகுதிகளுக்கும் புல்வெளிகளுக்கும் மேலாக எழும்புகிறது.",
+        "subject": "செரம்பானில் உள்ள மினாங்கபாவ் கூரை கொண்ட மாநில நிர்வாகக் கட்டிடமான விஸ்மா நெகிரி"
+      }
+    ]
+  },
+  "malaysia/nine-royal-houses": {
+    "zh": [
+      {
+        "alt": "白天宽阔视角下的马来西亚国家皇宫，一座绵长的乳白色建筑群，顶着金色的洋葱形圆顶，坐落在景观化的高地上，四周围以围栏。",
+        "subject": "国家皇宫（Istana Negara），位于吉隆坡（Kuala Lumpur）端姑阿都哈林路（Jalan Tuanku Abdul Halim）"
+      },
+      {
+        "alt": "旧国家皇宫，一座庄严的乳白色宫殿，拥有醒目的圆顶和拱形立面，掩映于热带绿意之中，是马来西亚昔日的国家皇宫，如今作为皇家博物馆保存下来。",
+        "subject": "吉隆坡皇宫路（Jalan Istana）的旧国家皇宫（Istana Negara），现为皇家博物馆（Muzium Diraja）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "昼間の広い視界で捉えたマレーシアの国立王宮。金色の玉ねぎ型ドームを頂く長大なクリーム色と白の建物群が、整備された高台に建ち、外周を柵で囲まれている。",
+        "subject": "クアラ・ルンプール（Kuala Lumpur）のジャラン・トゥアンク・アブドゥル・ハリム（Jalan Tuanku Abdul Halim）にある国立王宮、イスタナ・ヌガラ（Istana Negara）"
+      },
+      {
+        "alt": "旧イスタナ・ヌガラ。目を引くドームとアーチ型のファサードを備えた堂々たるクリーム色の宮殿で、熱帯の緑に囲まれ、かつてのマレーシア国立王宮が現在は王室博物館として保存されている。",
+        "subject": "クアラ・ルンプールのジャラン・イスタナ（Jalan Istana）にある旧国立王宮イスタナ・ヌガラ（Istana Negara）、現在の王室博物館（Muzium Diraja）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "낮에 넓게 담은 말레이시아 국립 왕궁의 모습으로, 금빛 양파 모양 돔을 얹은 길고 크림색과 흰색의 건물군이 조경된 언덕 위에 자리하고 둘레에 울타리가 쳐져 있다.",
+        "subject": "쿠알라룸푸르(Kuala Lumpur) 잘란 투안쿠 압둘 할림(Jalan Tuanku Abdul Halim)에 있는 국립 왕궁, 이스타나 느가라(Istana Negara)"
+      },
+      {
+        "alt": "옛 이스타나 느가라로, 두드러진 돔과 아치형 정면을 갖춘 위엄 있는 크림색 궁전이며, 열대 녹음에 둘러싸인 말레이시아의 옛 국립 왕궁으로 현재는 왕실 박물관으로 보존되고 있다.",
+        "subject": "쿠알라룸푸르 잘란 이스타나(Jalan Istana)에 있는 옛 국립 왕궁 이스타나 느가라(Istana Negara), 현재의 왕실 박물관(Muzium Diraja)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ภาพมุมกว้างยามกลางวันของพระราชวังแห่งชาติมาเลเซีย อาคารยาวสีครีมและขาวที่มีโดมหัวหอมสีทองประดับยอด ตั้งอยู่บนเนินที่จัดภูมิทัศน์หลังรั้วรอบขอบชิด",
+        "subject": "อิสตานาเนการา (Istana Negara) พระราชวังแห่งชาติบนถนนจาลันตวนกูอับดุลฮาลิม (Jalan Tuanku Abdul Halim) กรุงกัวลาลัมเปอร์ (Kuala Lumpur)"
+      },
+      {
+        "alt": "อดีตอิสตานาเนการา พระราชวังสีครีมอันสง่างามที่มีโดมเด่นและด้านหน้าทรงโค้ง ท่ามกลางพรรณไม้เขตร้อน เป็นอดีตพระราชวังแห่งชาติของมาเลเซียที่ปัจจุบันได้รับการอนุรักษ์ไว้เป็นพิพิธภัณฑ์หลวง",
+        "subject": "อดีตอิสตานาเนการา (Istana Negara) บนถนนจาลันอิสตานา (Jalan Istana) กรุงกัวลาลัมเปอร์ ปัจจุบันคือพิพิธภัณฑ์หลวง (Muzium Diraja)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "मलेशिया के राष्ट्रीय महल का दिन के समय का एक विस्तृत दृश्य, एक लंबा क्रीम-और-सफ़ेद परिसर जिसके ऊपर सुनहरे प्याज़नुमा गुंबद हैं, जो परिधि की बाड़ के पीछे एक सुसज्जित ऊँचाई पर स्थित है।",
+        "subject": "इस्ताना नेगारा, जालान तुआंकू अब्दुल हलीम, कुआला लुम्पुर पर राष्ट्रीय महल"
+      },
+      {
+        "alt": "पुराना इस्ताना नेगारा, एक भव्य क्रीम रंग का महल जिसमें एक प्रमुख गुंबद और मेहराबदार अग्रभाग है, उष्णकटिबंधीय हरियाली के बीच, मलेशिया का पूर्व राष्ट्रीय महल जो अब शाही संग्रहालय के रूप में संरक्षित है।",
+        "subject": "जालान इस्ताना, कुआला लुम्पुर पर पुराना इस्ताना नेगारा, अब शाही संग्रहालय (मुज़ियम दिराजा)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "منظر نهاري واسع للقصر الوطني الماليزي، مجمَّع طويل كريمي وأبيض تعلوه قباب بصلية ذهبية، قائم على مرتفع منسَّق خلف سياج محيط.",
+        "subject": "إستانا نيغارا، القصر الوطني في شارع توانكو عبد الحليم، كوالالمبور"
+      },
+      {
+        "alt": "إستانا نيغارا القديم، قصر مهيب بلون كريمي بقبة بارزة وواجهة مقوَّسة بين خضرة استوائية، كان القصر الوطني لماليزيا وصار اليوم محفوظًا متحفًا ملكيًا.",
+        "subject": "إستانا نيغارا القديم في شارع إستانا، كوالالمبور، وهو الآن المتحف الملكي (متحف ديراجا)"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una amplia vista diurna del palacio nacional de Malasia, un largo complejo crema y blanco coronado por cúpulas bulbosas doradas, situado sobre una elevación ajardinada tras un cercado perimetral.",
+        "subject": "Istana Negara, el palacio nacional en Jalan Tuanku Abdul Halim, Kuala Lumpur"
+      },
+      {
+        "alt": "El antiguo Istana Negara, un majestuoso palacio de color crema con una prominente cúpula y una fachada de arcos entre vegetación tropical, el anterior palacio nacional de Malasia hoy conservado como Museo Real.",
+        "subject": "El antiguo Istana Negara en Jalan Istana, Kuala Lumpur, hoy el Museo Real (Muzium Diraja)"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une large vue diurne du palais national de Malaisie, un long complexe crème et blanc couronné de coupoles bulbeuses dorées, posé sur une éminence paysagée derrière une clôture périmétrique.",
+        "subject": "Istana Negara, le palais national sur Jalan Tuanku Abdul Halim, Kuala Lumpur"
+      },
+      {
+        "alt": "L'ancien Istana Negara, un majestueux palais couleur crème à la coupole proéminente et à la façade en arcades parmi une végétation tropicale, ancien palais national de la Malaisie aujourd'hui préservé en Musée royal.",
+        "subject": "L'ancien Istana Negara sur Jalan Istana, Kuala Lumpur, aujourd'hui le Musée royal (Muzium Diraja)"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pemandangan siang yang luas Istana Negara Malaysia, sebuah kompleks panjang berwarna krim dan putih dimahkotai kubah bawang emas yang terletak di atas tanah tinggi berlandskap di belakang pagar sempadan.",
+        "subject": "Istana Negara di Jalan Tuanku Abdul Halim, Kuala Lumpur"
+      },
+      {
+        "alt": "Bekas Istana Negara, sebuah istana berwarna krim yang anggun dengan kubah menonjol dan fasad bergerbang di tengah kehijauan tropika, bekas istana negara Malaysia yang kini dipelihara sebagai Muzium Diraja.",
+        "subject": "Bekas Istana Negara di Jalan Istana, Kuala Lumpur, kini Muzium Diraja"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Pemandangan siang yang luas Istana Negara Malaysia, sebuah kompleks panjang berwarna krem dan putih dimahkotai kubah bawang keemasan yang berdiri di atas tanah tinggi berlanskap di belakang pagar perimeter.",
+        "subject": "Istana Negara di Jalan Tuanku Abdul Halim, Kuala Lumpur"
+      },
+      {
+        "alt": "Bekas Istana Negara, sebuah istana berwarna krem yang anggun dengan kubah menonjol dan fasad berlengkung di tengah kehijauan tropis, bekas istana negara Malaysia yang kini dilestarikan sebagai Muzium Diraja.",
+        "subject": "Bekas Istana Negara di Jalan Istana, Kuala Lumpur, kini Muzium Diraja"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Toàn cảnh ban ngày cung điện quốc gia của Malaysia, một quần thể dài màu kem và trắng đội những mái vòm củ hành vàng óng nằm trên gò đất được tạo cảnh quan sau hàng rào bao quanh.",
+        "subject": "Istana Negara, cung điện quốc gia trên đường Jalan Tuanku Abdul Halim, Kuala Lumpur"
+      },
+      {
+        "alt": "Istana Negara cũ, một cung điện màu kem trang nghiêm với mái vòm nổi bật và mặt tiền vòm giữa cây xanh nhiệt đới, cung điện quốc gia trước đây của Malaysia nay được bảo tồn làm Bảo tàng Hoàng gia.",
+        "subject": "Istana Negara cũ trên đường Jalan Istana, Kuala Lumpur, nay là Bảo tàng Hoàng gia (Muzium Diraja)"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "மலேசியாவின் தேசிய அரண்மனையின் அகலமான பகல்நேரக் காட்சி, தங்க நிற வெங்காய கோபுரங்களால் முடிசூட்டப்பட்ட நீளமான கிரீம்-வெள்ளை நிற வளாகம், எல்லை வேலியின் பின்னால் நிலத்தோற்றம் அமைக்கப்பட்ட உயர்தளத்தில் அமைந்துள்ளது.",
+        "subject": "கோலாலம்பூர், ஜாலான் துவாங்கு அப்துல் ஹாலிமில் உள்ள தேசிய அரண்மனையான இஸ்தானா நெகாரா"
+      },
+      {
+        "alt": "பழைய இஸ்தானா நெகாரா, தனித்து நிற்கும் கோபுரமும் வளைவுமான முகப்பும் கொண்ட கம்பீரமான கிரீம் நிற அரண்மனை, வெப்பமண்டலப் பசுமைக்கு மத்தியில், மலேசியாவின் முன்னாள் தேசிய அரண்மனை இப்போது அரச அருங்காட்சியகமாகப் பாதுகாக்கப்படுகிறது.",
+        "subject": "கோலாலம்பூர், ஜாலான் இஸ்தானாவில் இருந்த பழைய இஸ்தானா நெகாரா, இப்போது அரச அருங்காட்சியகம் (முசியம் டிராஜா)"
+      }
+    ]
+  },
+  "malaysia/brunei-sultanate": {
+    "zh": [
+      {
+        "alt": "一簇簇木制高脚屋与相连的栈道遍布在平静的文莱河上，这座有数百年历史的水上村落坐落在文莱首都的历史核心地带。",
+        "subject": "甘榜亚逸（Kampong Ayer），文莱河（Brunei River）上历史悠久的水上高脚屋村落，位于斯里巴加湾市（Bandar Seri Begawan）"
+      },
+      {
+        "alt": "拉抛殿，文莱加冕苏丹的皇家礼仪大殿，坐落在斯里巴加湾市景观化的花园与繁花灌木之间。",
+        "subject": "拉抛殿（The Lapau），文莱的皇家礼仪大殿，位于斯里巴加湾市"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "穏やかなブルネイ川一面に広がる木造の高床式家屋の群れと、それらをつなぐ遊歩道。ブルネイの首都の歴史的中心に位置する、数世紀の歴史をもつ水上集落。",
+        "subject": "バンダル・スリ・ブガワン（Bandar Seri Begawan）のブルネイ川（Brunei River）に浮かぶ歴史ある水上の高床式集落、カンポン・アイール（Kampong Ayer）"
+      },
+      {
+        "alt": "ラパウ。スルタンの戴冠が行われるブルネイの王室儀式殿で、バンダル・スリ・ブガワンの手入れされた庭園と花咲く低木に囲まれて建つ。",
+        "subject": "バンダル・スリ・ブガワンにあるブルネイの王室儀式殿、ラパウ（The Lapau）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "잔잔한 브루나이강 위로 펼쳐진 목조 수상 가옥 무리와 이를 잇는 통로로, 브루나이 수도의 역사적 중심에 자리한 수백 년 역사의 수상 마을이다.",
+        "subject": "반다르스리브가완(Bandar Seri Begawan)의 브루나이강(Brunei River) 위에 자리한 유서 깊은 수상 가옥 마을, 캄퐁 아예르(Kampong Ayer)"
+      },
+      {
+        "alt": "라파우로, 술탄의 대관식이 거행되는 브루나이의 왕실 의전 전당이며, 반다르스리브가완의 조경된 정원과 꽃핀 관목 사이에 자리한다.",
+        "subject": "반다르스리브가완에 있는 브루나이의 왕실 의전 전당, 라파우(The Lapau)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "กลุ่มเรือนไม้ยกเสาสูงและทางเดินเชื่อมถึงกันกระจายอยู่ทั่วผืนแม่น้ำบรูไนอันสงบนิ่ง หมู่บ้านกลางน้ำอายุหลายศตวรรษ ณ ใจกลางประวัติศาสตร์ของเมืองหลวงบรูไน",
+        "subject": "กัมปงอาเยอร์ (Kampong Ayer) หมู่บ้านกลางน้ำเสาสูงอันเก่าแก่บนแม่น้ำบรูไน (Brunei River) เมืองบันดาร์เสรีเบกาวัน (Bandar Seri Begawan)"
+      },
+      {
+        "alt": "ลาเปา ท้องพระโรงพระราชพิธีของบรูไนที่ซึ่งสุลต่านทรงรับการสวมมงกุฎ ตั้งอยู่ท่ามกลางสวนที่จัดภูมิทัศน์และไม้พุ่มออกดอกในเมืองบันดาร์เสรีเบกาวัน",
+        "subject": "ลาเปา (The Lapau) ท้องพระโรงพระราชพิธีของบรูไน ในเมืองบันดาร์เสรีเบกาวัน"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "शांत ब्रूनेई नदी पर फैले लकड़ी के खंभों पर टिके मकानों और जोड़ने वाले रास्तों के समूह, ब्रूनेई की राजधानी के ऐतिहासिक हृदय में सदियों पुराना जल-गाँव।",
+        "subject": "कम्पोंग आयर, ब्रूनेई नदी पर ऐतिहासिक खंभों पर टिका जल-गाँव, बंदर सेरी बेगावान"
+      },
+      {
+        "alt": "द लापाउ, ब्रूनेई का शाही समारोह भवन जहाँ सुल्तानों का राज्याभिषेक होता है, बंदर सेरी बेगावान में सुसज्जित बगीचों और फूलों वाली झाड़ियों के बीच स्थित है।",
+        "subject": "द लापाउ, ब्रूनेई का शाही समारोह भवन, बंदर सेरी बेगावान में"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مجموعات من البيوت الخشبية القائمة على ركائز وممرات تربط بينها تنتشر على صفحة نهر بروناي الهادئ، وهي قرية مائية عمرها قرون في القلب التاريخي لعاصمة بروناي.",
+        "subject": "كامبونغ آير، القرية المائية التاريخية القائمة على ركائز على نهر بروناي، بندر سري بݢاوان"
+      },
+      {
+        "alt": "اللاباو، قاعة بروناي الملكية للمراسم حيث يُتوَّج السلاطين، تقع بين حدائق منسَّقة وشجيرات مزهرة في بندر سري بݢاوان.",
+        "subject": "اللاباو، قاعة بروناي الملكية للمراسم، في بندر سري بݢاوان"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Grupos de casas de madera sobre pilotes y pasarelas que las conectan se extienden por el apacible río Brunei, la aldea acuática de siglos de antigüedad en el corazón histórico de la capital de Brunéi.",
+        "subject": "Kampong Ayer, la histórica aldea acuática sobre pilotes en el río Brunei, Bandar Seri Begawan"
+      },
+      {
+        "alt": "El Lapau, el salón ceremonial real de Brunéi donde se corona a los sultanes, situado entre jardines ajardinados y arbustos en flor en Bandar Seri Begawan.",
+        "subject": "El Lapau, el salón ceremonial real de Brunéi, en Bandar Seri Begawan"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des grappes de maisons de bois sur pilotis et de passerelles qui les relient s'étendent sur les eaux calmes de la rivière Brunei, le village lacustre pluriséculaire au cœur historique de la capitale brunéienne.",
+        "subject": "Kampong Ayer, le village lacustre historique sur pilotis sur la rivière Brunei, Bandar Seri Begawan"
+      },
+      {
+        "alt": "Le Lapau, la salle royale des cérémonies de Brunei où sont couronnés les sultans, niché parmi des jardins paysagers et des arbustes en fleurs à Bandar Seri Begawan.",
+        "subject": "Le Lapau, la salle royale des cérémonies de Brunei, à Bandar Seri Begawan"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Kelompok rumah kayu bertiang dan laluan penghubung terbentang di seberang Sungai Brunei yang tenang, kampung air berusia berabad-abad di jantung bersejarah ibu kota Brunei.",
+        "subject": "Kampong Ayer, kampung air bertiang bersejarah di Sungai Brunei, Bandar Seri Begawan"
+      },
+      {
+        "alt": "Lapau, dewan istiadat diraja Brunei tempat sultan ditabalkan, terletak di tengah taman berlandskap dan pokok renek berbunga di Bandar Seri Begawan.",
+        "subject": "Lapau, dewan istiadat diraja Brunei, di Bandar Seri Begawan"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Gugusan rumah kayu panggung dan jalan penghubung terbentang di seberang Sungai Brunei yang tenang, kampung air berusia berabad-abad di jantung bersejarah ibu kota Brunei.",
+        "subject": "Kampong Ayer, kampung air panggung bersejarah di Sungai Brunei, Bandar Seri Begawan"
+      },
+      {
+        "alt": "Lapau, balai upacara kerajaan Brunei tempat para sultan dinobatkan, berada di tengah taman berlanskap dan semak berbunga di Bandar Seri Begawan.",
+        "subject": "Lapau, balai upacara kerajaan Brunei, di Bandar Seri Begawan"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những cụm nhà sàn gỗ và lối đi nối liền trải rộng trên sông Brunei phẳng lặng, ngôi làng nổi hàng thế kỷ tuổi ở trung tâm lịch sử của thủ đô Brunei.",
+        "subject": "Kampong Ayer, làng nổi nhà sàn lịch sử trên sông Brunei, Bandar Seri Begawan"
+      },
+      {
+        "alt": "Lapau, sảnh nghi lễ hoàng gia của Brunei nơi các quốc vương đăng quang, nằm giữa khu vườn tạo cảnh quan và các bụi cây ra hoa ở Bandar Seri Begawan.",
+        "subject": "Lapau, sảnh nghi lễ hoàng gia của Brunei, ở Bandar Seri Begawan"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "அமைதியான புருணை ஆற்றின் குறுக்கே பரவியுள்ள மரக் கம்பத் தூண் வீடுகளும் இணைப்பு நடைபாதைகளும் கொண்ட தொகுதிகள், புருணையின் தலைநகரின் வரலாற்று மையத்தில் நூற்றாண்டுகள் பழமையான நீர்க்கிராமம்.",
+        "subject": "பந்தர் செரி பெகவானில், புருணை ஆற்றின் மேல் உள்ள வரலாற்று மிக்க தூண் நீர்க்கிராமமான கம்போங் ஆயர்"
+      },
+      {
+        "alt": "சுல்தான்கள் முடிசூட்டப்படும் புருணையின் அரச விழா மண்டபமான லாபாவ், பந்தர் செரி பெகவானில் நிலத்தோற்றம் அமைக்கப்பட்ட தோட்டங்களுக்கும் பூக்கும் புதர்களுக்கும் இடையே அமைந்துள்ளது.",
+        "subject": "பந்தர் செரி பெகவானில் உள்ள புருணையின் அரச விழா மண்டபமான லாபாவ்"
+      }
+    ]
+  },
+  "malaysia/federated-unfederated-states": {
+    "zh": [
+      {
+        "alt": "洁白闪亮的殖民时期怡保火车站，一座绵长的爱德华式—摩尔式建筑，设有拱形柱廊和圆顶塔楼，由英国统治时期在霹雳州兴建。",
+        "subject": "怡保火车站（Ipoh Railway Station），霹雳州（Perak）的英国殖民时期地标"
+      },
+      {
+        "alt": "旧吉隆坡火车站华丽的白色立面，一座英国殖民时期建筑，拥有摩尔式马蹄形拱门、小圆顶和宣礼塔般的尖塔，于1910年落成。",
+        "subject": "旧吉隆坡火车站（1910年），一座摩尔式的英殖时期车站"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "白く輝く植民地時代のイポー駅。アーチ型の列柱廊とドーム型の塔を備えた長いエドワード様式・ムーア様式の建物で、英国統治下のペラに建てられた。",
+        "subject": "ペラ（Perak）にある英国植民地時代の名所、イポー駅（Ipoh Railway Station）"
+      },
+      {
+        "alt": "旧クアラ・ルンプール駅の装飾豊かな白いファサード。ムーア様式の馬蹄形アーチ、小ドーム、ミナレット風の尖塔を備えた英国植民地時代の建物で、1910年に完成した。",
+        "subject": "旧クアラ・ルンプール駅（1910年）、ムーア様式の英国時代のターミナル駅"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "눈부시게 하얀 식민지 시대의 이포 기차역으로, 아치형 열주 회랑과 돔 지붕 탑을 갖춘 길쭉한 에드워드-무어 양식 건물이며 영국 통치하의 페락에 세워졌다.",
+        "subject": "페락(Perak)의 영국 식민지 시대 명소, 이포 기차역(Ipoh Railway Station)"
+      },
+      {
+        "alt": "옛 쿠알라룸푸르 기차역의 화려한 흰색 정면으로, 무어 양식의 말굽형 아치와 작은 돔, 미너렛 같은 첨탑을 갖춘 영국 식민지 시대 건물이며 1910년에 완공되었다.",
+        "subject": "옛 쿠알라룸푸르 기차역(1910년), 무어 양식의 영국 시대 종착역"
+      }
+    ],
+    "th": [
+      {
+        "alt": "สถานีรถไฟอีโปห์ยุคอาณานิคมสีขาวเปล่งประกาย อาคารสไตล์เอ็ดเวิร์ด-มัวร์หลังยาวที่มีระเบียงเสาโค้งและหอโดม สร้างขึ้นภายใต้การปกครองของอังกฤษในรัฐเประ",
+        "subject": "สถานีรถไฟอีโปห์ (Ipoh Railway Station) สถานที่สำคัญยุคอาณานิคมอังกฤษในรัฐเประ (Perak)"
+      },
+      {
+        "alt": "ด้านหน้าสีขาววิจิตรของสถานีรถไฟกัวลาลัมเปอร์เก่า อาคารยุคอาณานิคมอังกฤษที่มีซุ้มโค้งเกือกม้าแบบมัวร์ โดมเล็ก และยอดแหลมคล้ายหอคอยสุเหร่า สร้างเสร็จในปี 1910",
+        "subject": "สถานีรถไฟกัวลาลัมเปอร์เก่า (ปี 1910) สถานีปลายทางยุคอังกฤษสไตล์มัวร์"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "चमकदार सफ़ेद औपनिवेशिक इपोह रेलवे स्टेशन, मेहराबदार स्तंभ-पंक्तियों और गुंबदनुमा बुर्जों वाला एक लंबा एडवर्डियन-मूरिश भवन, जो ब्रिटिश शासन के अधीन पेराक में बना।",
+        "subject": "इपोह रेलवे स्टेशन, पेराक में ब्रिटिश औपनिवेशिक काल का एक स्थल"
+      },
+      {
+        "alt": "पुराने कुआला लुम्पुर रेलवे स्टेशन का अलंकृत सफ़ेद अग्रभाग, मूरिश घोड़े-की-नाल जैसे मेहराबों, छोटे गुंबदों और मीनार जैसी शिखरों वाला एक ब्रिटिश औपनिवेशिक भवन, जो 1910 में पूर्ण हुआ।",
+        "subject": "पुराना कुआला लुम्पुर रेलवे स्टेशन (1910), मूरिश शैली का ब्रिटिश काल का टर्मिनस"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "محطة إيبوه للسكك الحديدية البيضاء اللامعة من الطراز الاستعماري، مبنى طويل إدواردي-مغربي بأروقة مقوَّسة وأبراج ذات قباب، شُيِّد في عهد الحكم البريطاني في بيراك.",
+        "subject": "محطة إيبوه للسكك الحديدية، معلم من الحقبة الاستعمارية البريطانية في بيراك"
+      },
+      {
+        "alt": "الواجهة البيضاء المزخرفة لمحطة كوالالمبور القديمة للسكك الحديدية، مبنى استعماري بريطاني بأقواس مغربية على هيئة حدوة الفرس وقباب وأبراج تشبه المآذن، اكتمل عام 1910.",
+        "subject": "محطة كوالالمبور القديمة للسكك الحديدية (1910)، محطة نهائية بريطانية الحقبة بالطراز المغربي"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La reluciente estación de ferrocarril colonial blanca de Ipoh, un largo edificio eduardiano-morisco con columnatas de arcos y torres con cúpulas construido bajo el dominio británico en Perak.",
+        "subject": "Estación de ferrocarril de Ipoh, un hito de la época colonial británica en Perak"
+      },
+      {
+        "alt": "La ornamentada fachada blanca de la antigua estación de ferrocarril de Kuala Lumpur, un edificio colonial británico de arcos de herradura moriscos, cupulines y agujas a modo de minaretes, terminado en 1910.",
+        "subject": "La antigua estación de ferrocarril de Kuala Lumpur (1910), una terminal de estilo morisco de la época británica"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "La resplendissante gare coloniale blanche d'Ipoh, un long bâtiment édouardien-mauresque aux colonnades en arcades et aux tours à coupoles, construit sous la domination britannique au Perak.",
+        "subject": "La gare d'Ipoh, un monument de l'époque coloniale britannique au Perak"
+      },
+      {
+        "alt": "La façade blanche ornée de l'ancienne gare de Kuala Lumpur, un bâtiment colonial britannique aux arcs mauresques en fer à cheval, aux coupoles et aux flèches en forme de minarets, achevé en 1910.",
+        "subject": "L'ancienne gare de Kuala Lumpur (1910), un terminus de style mauresque de l'époque britannique"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Stesen Keretapi Ipoh kolonial berwarna putih berkilau, sebuah bangunan panjang bergaya Edwardian-Moor dengan tiang bergerbang dan menara berkubah yang dibina di bawah pemerintahan British di Perak.",
+        "subject": "Stesen Keretapi Ipoh, mercu tanda era kolonial British di Perak"
+      },
+      {
+        "alt": "Fasad putih berukir Stesen Keretapi Kuala Lumpur lama, sebuah bangunan kolonial British bergaya Moor dengan gerbang ladam kuda, kubah kecil dan puncak menara seakan minaret yang disiapkan pada 1910.",
+        "subject": "Stesen Keretapi Kuala Lumpur lama (1910), sebuah terminus era British bergaya Moor"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Stasiun Kereta Api Ipoh kolonial berwarna putih berkilau, sebuah bangunan panjang bergaya Edwardian-Moor dengan barisan tiang berlengkung dan menara berkubah yang dibangun di bawah pemerintahan Britania di Perak.",
+        "subject": "Stesen Keretapi Ipoh, penanda era kolonial Britania di Perak"
+      },
+      {
+        "alt": "Fasad putih berornamen Stasiun Kereta Api Kuala Lumpur lama, sebuah bangunan kolonial Britania bergaya Moor dengan lengkungan tapal kuda, kubah kecil dan puncak menara menyerupai minaret yang rampung pada 1910.",
+        "subject": "Stesen Keretapi Kuala Lumpur lama (1910), sebuah terminus era Britania bergaya Moor"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Nhà ga Ipoh thuộc địa màu trắng sáng lấp lánh, một tòa nhà dài phong cách Edwardian-Moor với hàng cột vòm và những tháp mái vòm được xây dựng dưới thời cai trị của Anh ở Perak.",
+        "subject": "Nhà ga Ipoh, một địa danh thời thuộc địa Anh ở Perak"
+      },
+      {
+        "alt": "Mặt tiền trắng chạm trổ công phu của nhà ga Kuala Lumpur cũ, một công trình thuộc địa Anh theo phong cách Moor với những vòm móng ngựa, mái vòm nhỏ và chóp nhọn tựa tháp giáo đường hoàn thành năm 1910.",
+        "subject": "Nhà ga Kuala Lumpur cũ (1910), một ga cuối thời Anh theo phong cách Moor"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஒளிரும் வெள்ளை நிற காலனித்துவ ஈப்போ ரயில் நிலையம், வளைவுத் தூண் வரிசைகளும் கோபுரக் குமிழ்களும் கொண்ட நீளமான எட்வர்டியன்-மூரிஷ் பாணிக் கட்டிடம், பேராக்கில் பிரிட்டிஷ் ஆட்சியின் கீழ் கட்டப்பட்டது.",
+        "subject": "பேராக்கில் உள்ள பிரிட்டிஷ் காலனித்துவ காலத்தின் அடையாளச் சின்னமான ஈப்போ ரயில் நிலையம்"
+      },
+      {
+        "alt": "பழைய கோலாலம்பூர் ரயில் நிலையத்தின் அலங்கார வெள்ளை முகப்பு, குதிரைக்குளம்பு வளைவுகள், சிறு குமிழ்கள் மற்றும் மினாரத் போன்ற சிகரங்களைக் கொண்ட, 1910-இல் முடிக்கப்பட்ட மூரிஷ் பாணி பிரிட்டிஷ் காலனித்துவக் கட்டிடம்.",
+        "subject": "பழைய கோலாலம்பூர் ரயில் நிலையம் (1910), மூரிஷ் பாணி பிரிட்டிஷ் கால முனையம்"
+      }
+    ]
   }
 }

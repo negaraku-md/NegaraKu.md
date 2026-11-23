@@ -21,7 +21,7 @@ appliesTo: "Lectores, estudiantes e investigadores que busquen entender las inst
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3ca914281b042f21"
+sourceContentHash: "ab49aa8dea4f66ad"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -66,6 +66,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Lama_Seri_Menanti_February_1964.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-1.webp
+    alt: Un majestuoso palacio real de color crema con alas simétricas y dos torres gemelas con hastiales, situado tras cuidados jardines al pie de colinas boscosas en Seri Menanti.
+    kind: actual
+    origin: third-party
+    subject: Istana Besar Seri Menanti, el actual palacio real de Negeri Sembilan
+    credit: Adiput / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Menanti_palace.jpg
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-2.webp
+    alt: Una alta torre gubernamental moderna coronada por espectaculares techos minangkabau en forma de cuernos de búfalo que se alzan hacia arriba, elevándose sobre alas más bajas y céspedes en el centro de Seremban.
+    kind: actual
+    origin: third-party
+    subject: Wisma Negeri, el edificio administrativo estatal con techo minangkabau, en Seremban
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban.jpg
 ---
 
 En el corazón de la Malasia peninsular se asienta un reino que rompe todas las reglas de la monarquía malaya. Su gobernante no nace para el trono, sino que es elegido para él. Sus grandes familias trazan su descendencia no a través de los padres, sino de las madres. Y su propio nombre, Negeri Sembilan, el «Estado de los Nueve», recuerda no a una sola casa real, sino a una confederación de distritos cosidos entre sí a través de las colinas del interior. Entender cómo llegó a existir esta singular institución es seguir un linaje de migrantes minangkabau que cruzaron el Estrecho de Malaca desde Sumatra, llevaron consigo una costumbre y, con el tiempo, mandaron a buscar a un príncipe para que los gobernara.

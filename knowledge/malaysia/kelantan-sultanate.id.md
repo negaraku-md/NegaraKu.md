@@ -21,7 +21,7 @@ appliesTo: "Pembaca, pelajar, dan peneliti yang ingin memahami asal-usul monarki
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7959d9e4e2088c71"
+sourceContentHash: "833e2466c2324461"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -68,6 +68,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-1.webp
+    alt: Sebuah kediaman kerajaan berwarna kuning pucat yang anggun dari era 1930-an dengan beranda melengkung yang luas, jendela berdaun pintu dan atap genteng rendah, kini menjadi Museum Kerajaan Kelantan, berdiri di belakang halaman rumput di kawasan kerajaan Kota Bharu.
+    kind: actual
+    origin: third-party
+    subject: Istana Batu (Muzium DiRaja Kelantan) di Kota Bharu
+    credit: Comelote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Batu.jpg
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-2.webp
+    alt: Sebuah masjid negara bagian yang megah berwarna krem dan putih dengan kubah pusat yang lebar, kubah kecil di sudut dan menara menjulang tinggi, terlihat dari jalan di belakang pagar besi di bawah langit biru.
+    kind: actual
+    origin: third-party
+    subject: Masjid Muhammadi, masjid negara bagian Kelantan, di Kota Bharu
+    credit: Neponenpasila / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_view_of_the_Muhammadi_Mosque.jpg
 ---
 
 Di bahu timur laut Semenanjung Melayu, tempat sungai-sungai mengalir turun ke Laut Tiongkok Selatan dan pesisirnya pernah menghadap sama banyaknya ke kerajaan lama Patani seperti ke jantung tanah Melayu, sebuah takhta ditempa dari perang saudara. Pendirinya tidak terlahir sebagai raja. Ia seorang panglima perang berketurunan Patani yang bertahan melampaui para saingannya, dan dinasti yang ia mulai — Wangsa Long Yunus — masih memerintah di Kelantan hari ini, lebih dari dua setengah abad kemudian.

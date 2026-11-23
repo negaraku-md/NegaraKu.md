@@ -21,7 +21,7 @@ appliesTo: "القرّاء والطلاب والباحثون الذين يريد
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7959d9e4e2088c71"
+sourceContentHash: "833e2466c2324461"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -68,6 +68,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-1.webp
+    alt: مقر ملكي أنيق أصفر باهت من ثلاثينيات القرن العشرين، بشرفات مقوّسة واسعة ونوافذ مغلقة بمصاريع وسقف قرميدي منخفض، صار الآن متحف كلنتان الملكي، يقع خلف مرج في الحي الملكي بكوتا بهارو.
+    kind: actual
+    origin: third-party
+    subject: إستانا باتو (متحف كلنتان الملكي / متحف ديراجا) في كوتا بهارو
+    credit: Comelote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Batu.jpg
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-2.webp
+    alt: مسجد ولائي فخم بلونَي الكريمي والأبيض، بقبة مركزية واسعة وقباب صغيرة في الأركان ومئذنة شاهقة، يُرى من الشارع خلف سياج حديدي تحت سماء زرقاء.
+    kind: actual
+    origin: third-party
+    subject: مسجد محمدي، مسجد ولاية كلنتان، في كوتا بهارو
+    credit: Neponenpasila / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_view_of_the_Muhammadi_Mosque.jpg
 ---
 
 على الكتف الشمالي الشرقي لشبه الجزيرة الملايوية، حيث تنحدر الأنهار إلى بحر الصين الجنوبي وحيث كان الساحل ينظر ذات يوم إلى مملكة باتاني (Patani) القديمة بقدر ما ينظر إلى القلب الملايوي، صِيغ عرشٌ من رحم حرب أهلية. لم يُولد مؤسِّسه ملكًا. كان أمير حرب من أصل باتاني بقي بعد خصومه، والسلالة التي بدأها — بيت لونغ يونس (Long Yunus) — لا تزال تحكم في كلنتان اليوم، بعد أكثر من قرنين ونصف القرن.

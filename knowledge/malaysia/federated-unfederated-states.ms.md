@@ -33,7 +33,7 @@ faq:
   - q: "Apa yang berlaku kepada kedua-dua kumpulan itu pada akhirnya?"
     a: "Kedua-dua Negeri-Negeri Melayu Bersekutu dan Tidak Bersekutu dibubarkan ke dalam Malayan Union pada 1 April 1946, yang sendirinya digantikan dalam beberapa tahun oleh Persekutuan Tanah Melayu."
 lang: "ms"
-sourceContentHash: "3bcc3b32fd59d463"
+sourceContentHash: "e4da032afb1762ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-05.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-1.webp
+    alt: Stesen Keretapi Ipoh kolonial berwarna putih berkilau, sebuah bangunan panjang bergaya Edwardian-Moor dengan tiang bergerbang dan menara berkubah yang dibina di bawah pemerintahan British di Perak.
+    kind: actual
+    origin: third-party
+    subject: Stesen Keretapi Ipoh, mercu tanda era kolonial British di Perak
+    credit: FBilula / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-2.webp
+    alt: Fasad putih berukir Stesen Keretapi Kuala Lumpur lama, sebuah bangunan kolonial British bergaya Moor dengan gerbang ladam kuda, kubah kecil dan puncak menara seakan minaret yang disiapkan pada 1910.
+    kind: actual
+    origin: third-party
+    subject: Stesen Keretapi Kuala Lumpur lama (1910), sebuah terminus era British bergaya Moor
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_railway_station_(Rawang-Seremban_%26_Sentul-Port_Klang_Line)_(frontal_facade),_Kuala_Lumpur.jpg
 ---
 
 Sembilan negeri Melayu, satu kuasa penjajah — namun bukan satu susunan tetapi dua. Perpecahan itulah perkara yang paling kerap dilangkau oleh kebanyakan ringkasan mengenai Tanah Melayu zaman kolonial, dan itulah keseluruhan intipati artikel ini.

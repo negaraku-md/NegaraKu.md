@@ -21,7 +21,7 @@ appliesTo: "任何想理解马来—伊斯兰文明最古老中心之一如何�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2c6762e4651a8f16"
+sourceContentHash: "73aca5637e651d06"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -68,6 +68,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Maziah_Palace,_Kuala_Terengganu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-1.webp
+    alt: 一座洁白闪亮的清真寺，中央有一个巨大的金色圆顶，两侧环绕着较小的圆顶和一座高耸的宣礼塔，坐落在带围墙的庭院之后，上方是明亮的热带天空。
+    kind: actual
+    origin: third-party
+    subject: 阿比丁清真寺（Masjid Abidin），瓜拉登嘉楼（Kuala Terengganu）的登嘉楼旧州级皇家清真寺
+    credit: ToofanwikiCommon / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abidin_Mosque_(old_state_royal_mosque),_Kuala_Terengganu,_Malaysia.jpg
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-2.webp
+    alt: 一座现代化的长型开合桥横跨宽阔的河流，由优美的白色拱架支撑，矗立于两座高耸的瞭望塔之间，远岸是城镇的天际线。
+    kind: actual
+    origin: third-party
+    subject: 跨越登嘉楼河（Terengganu River）的开合桥（Jambatan Angkat，瓜拉登嘉楼开合桥）
+    credit: PenangLion / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_drawbridge,_August_2025.jpg
 ---
 
 早在任何苏丹坐上它的王座之前，登嘉楼内陆一处河畔的一方花岗岩，便已把这个州的命运刻进了石头里。登嘉楼碑文石（Batu Bersurat Terengganu）——登嘉楼的铭刻之石——带着一个读作1303年的纪年，在它那风化的石面上，以[爪夷文](/zh/arts-culture/jawi-script)那源自阿拉伯、盘绕回环的字母，一位统治者命令他的子民坚守伊斯兰。它是马来世界任何地方中，爪夷书写与伊斯兰教法有确切纪年的最古老证据。那个最终将以这片土地为名的苏丹王朝，要在四个多世纪之后才会到来——但它将要捍卫的那份信仰，早已先在此处被刻下。

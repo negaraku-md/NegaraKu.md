@@ -19,7 +19,7 @@ keyTakeaways:
   - "Vương tộc tiếp tục đến ngày nay, và Sultan Mizan Zainal Abidin từng là Yang di-Pertuan Agong thứ 13 (2006–2011)"
 appliesTo: "Bất kỳ ai muốn hiểu cách một trong những trung tâm văn minh Mã Lai - Hồi giáo lâu đời nhất của Malaysia trở thành một vương quốc Hồi giáo, và cách vương tộc của nó hòa vào liên bang ngày nay."
 lang: "vi"
-sourceContentHash: "2c6762e4651a8f16"
+sourceContentHash: "73aca5637e651d06"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Maziah_Palace,_Kuala_Terengganu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-1.webp
+    alt: Một nhà thờ Hồi giáo màu trắng lấp lánh với mái vòm trung tâm lớn mạ vàng, hai bên là các mái vòm nhỏ hơn và một ngọn tháp cao, nằm sau sân có tường bao dưới bầu trời nhiệt đới rực sáng.
+    kind: actual
+    origin: third-party
+    subject: Masjid Abidin, nhà thờ Hồi giáo hoàng gia cũ của bang Terengganu, ở Kuala Terengganu
+    credit: ToofanwikiCommon / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abidin_Mosque_(old_state_royal_mosque),_Kuala_Terengganu,_Malaysia.jpg
+  - role: scene
+    src: /media/malaysia/terengganu-sultanate/body-2.webp
+    alt: Một cây cầu cất hiện đại dài bắc qua con sông rộng, đỡ trên những vòm trắng uốn cong giữa hai tháp quan sát cao, với đường chân trời thị trấn dọc bờ bên kia.
+    kind: actual
+    origin: third-party
+    subject: Jambatan Angkat (Cầu cất Kuala Terengganu) bắc qua sông Terengganu
+    credit: PenangLion / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_drawbridge,_August_2025.jpg
 ---
 
 Rất lâu trước khi bất kỳ sultan nào ngồi trên ngai vàng của nó, một phiến đá granite trên một bờ sông trong vùng nội địa Terengganu đã khắc định mệnh của bang vào đá. Batu Bersurat Terengganu — Bia đá khắc chữ của Terengganu — mang một niên đại đọc là năm 1303, và trên những mặt đá đã phong hóa của nó, bằng những nét chữ uốn lượn phái sinh từ tiếng Ả Rập của [chữ Jawi](/vi/arts-culture/jawi-script), một vị vua ra lệnh cho dân chúng của mình giữ vững Hồi giáo. Đó là bằng chứng có niên đại cổ nhất về chữ viết Jawi và về luật Hồi giáo ở bất cứ đâu trong thế giới Mã Lai. Vương quốc Hồi giáo mà cuối cùng sẽ mang tên vùng đất này đến hơn bốn thế kỷ sau — nhưng đức tin mà nó sẽ bảo vệ đã được khắc ở đây trước tiên.

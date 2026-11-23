@@ -21,7 +21,7 @@ appliesTo: "كل من يحاول فهم كيف صارت ساراواك وصبا�
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e1e12abca406eef4"
+sourceContentHash: "44249e29dc164a59"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -67,6 +67,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/brunei-sultanate/body-1.webp
+    alt: مجموعات من البيوت الخشبية القائمة على ركائز وممرات تربط بينها تنتشر على صفحة نهر بروناي الهادئ، وهي قرية مائية عمرها قرون في القلب التاريخي لعاصمة بروناي.
+    kind: actual
+    origin: third-party
+    subject: كامبونغ آير، القرية المائية التاريخية القائمة على ركائز على نهر بروناي، بندر سري بݢاوان
+    credit: Tourism Development Department of Brunei / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampong_Ayer_Brunei_Darussalam.jpg
+  - role: scene
+    src: /media/malaysia/brunei-sultanate/body-2.webp
+    alt: اللاباو، قاعة بروناي الملكية للمراسم حيث يُتوَّج السلاطين، تقع بين حدائق منسَّقة وشجيرات مزهرة في بندر سري بݢاوان.
+    kind: actual
+    origin: third-party
+    subject: اللاباو، قاعة بروناي الملكية للمراسم، في بندر سري بݢاوان
+    credit: Xiquinho Silva / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lapau_Brunei_2024_01.jpg
 ---
 
 قف على واجهة بندر سري بكاوان (Bandar Seri Begawan) اليوم وستبدو بروناي صغيرة: سلطنة ثرية غنية بالنفط ملتفّة حول شريطين ضيّقين من ساحل بورنيو، قريبة بما يكفي لعبورها بالسيارة في بعد ظهيرة واحد. ومن السهل نسيان أن هذا هو الشظية الباقية من إمبراطورية — أن سلطان بروناي قبل خمسة قرون كان يستطيع المطالبة بالجزية من موانئ مصفوفة على معظم السواحل الشمالية والغربية للجزيرة، وأن ولايتين ماليزيتين يمكنك بلوغهما من هنا برًّا، ساراواك وصباح، كانتا ذات يوم ملكه يهبهما لمن يشاء. وقصة كيف صعدت مملكة بورنيو البحرية، وبلغت ذروتها، ثم سلّمت تلك السواحل قطعةً إثر قطعة، واحدة من الخيوط الجوهرية في التاريخ الماليزي — وإن لم تصر بروناي نفسها قط جزءًا من ماليزيا.

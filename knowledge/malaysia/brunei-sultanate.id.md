@@ -21,7 +21,7 @@ appliesTo: "Siapa pun yang mencoba memahami bagaimana Sarawak dan Sabah menjadi 
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e1e12abca406eef4"
+sourceContentHash: "44249e29dc164a59"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -67,6 +67,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/brunei-sultanate/body-1.webp
+    alt: Gugusan rumah kayu panggung dan jalan penghubung terbentang di seberang Sungai Brunei yang tenang, kampung air berusia berabad-abad di jantung bersejarah ibu kota Brunei.
+    kind: actual
+    origin: third-party
+    subject: Kampong Ayer, kampung air panggung bersejarah di Sungai Brunei, Bandar Seri Begawan
+    credit: Tourism Development Department of Brunei / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampong_Ayer_Brunei_Darussalam.jpg
+  - role: scene
+    src: /media/malaysia/brunei-sultanate/body-2.webp
+    alt: Lapau, balai upacara kerajaan Brunei tempat para sultan dinobatkan, berada di tengah taman berlanskap dan semak berbunga di Bandar Seri Begawan.
+    kind: actual
+    origin: third-party
+    subject: Lapau, balai upacara kerajaan Brunei, di Bandar Seri Begawan
+    credit: Xiquinho Silva / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lapau_Brunei_2024_01.jpg
 ---
 
 Berdirilah di tepi air di Bandar Seri Begawan hari ini dan Brunei tampak kecil: sebuah kesultanan kaya minyak yang membalut dua keping tipis pesisir Borneo, cukup dekat untuk diseberangi dengan berkendara dalam satu sore. Mudah untuk lupa bahwa inilah serpihan yang masih bertahan dari sebuah kekaisaran — bahwa lima abad lalu seorang Sultan Brunei dapat menuntut upeti dari pelabuhan-pelabuhan yang berjejer di sepanjang sebagian besar pesisir utara dan barat pulau itu, dan bahwa dua negeri Malaysia yang dapat Anda capai dari sini dengan jalan darat, Sarawak dan Sabah, dahulu adalah miliknya untuk dianugerahkan. Kisah bagaimana sebuah kerajaan-laut Borneo bangkit, mencapai puncaknya, lalu menyerahkan pesisir-pesisir itu sepotong demi sepotong adalah salah satu benang mendasar sejarah Malaysia — sekalipun Brunei sendiri tidak pernah menjadi bagian dari Malaysia.

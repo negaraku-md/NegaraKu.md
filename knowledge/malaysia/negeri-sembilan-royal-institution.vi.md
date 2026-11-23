@@ -19,7 +19,7 @@ keyTakeaways:
   - "Hai vị vua Negeri Sembilan đã từng làm Yang di-Pertuan Agong: Tuanku Abdul Rahman (vị đầu tiên, 1957) và Tuanku Ja'afar (vị thứ mười, 1994)."
 appliesTo: "Độc giả, học sinh - sinh viên và nhà nghiên cứu muốn hiểu các định chế hoàng gia của Malaysia, chế độ quân chủ lập hiến và di sản Minangkabau đặc trưng của Negeri Sembilan."
 lang: "vi"
-sourceContentHash: "3ca914281b042f21"
+sourceContentHash: "ab49aa8dea4f66ad"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Lama_Seri_Menanti_February_1964.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-1.webp
+    alt: Một cung điện hoàng gia màu kem trang nghiêm với các cánh đối xứng và hai tháp mái đầu hồi sinh đôi, nằm sau khu vườn được chăm chút dưới chân đồi rừng ở Seri Menanti.
+    kind: actual
+    origin: third-party
+    subject: Istana Besar Seri Menanti, cung điện hoàng gia hiện nay của Negeri Sembilan
+    credit: Adiput / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Menanti_palace.jpg
+  - role: scene
+    src: /media/malaysia/negeri-sembilan-royal-institution/body-2.webp
+    alt: Một tòa tháp chính quyền hiện đại cao vút được đội mái sừng trâu Minangkabau cong vút ấn tượng, vươn lên trên các cánh thấp hơn và bãi cỏ ở trung tâm Seremban.
+    kind: actual
+    origin: third-party
+    subject: Wisma Negeri, tòa nhà hành chính cấp bang mái Minangkabau, ở Seremban
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban.jpg
 ---
 
 Giữa lòng bán đảo Malaysia tọa lạc một vương quốc phá vỡ mọi quy tắc của chế độ quân chủ Mã Lai. Vị vua của nó không sinh ra để lên ngôi mà được chọn để lên ngôi. Các đại gia tộc của nó truy dòng dõi không qua cha mà qua mẹ. Và chính cái tên của nó, Negeri Sembilan, "Bang của Chín", gợi nhớ không phải một vương tộc duy nhất mà một liên minh các huyện được khâu lại với nhau trên các ngọn đồi của vùng nội địa. Hiểu định chế độc nhất này đã hình thành ra sao là đi theo một dòng các di dân Minangkabau vượt Eo biển Malacca từ Sumatra, mang theo một phong tục, và đến lúc đã gửi về quê để xin một hoàng tử trị vì họ.

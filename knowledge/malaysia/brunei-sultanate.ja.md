@@ -21,7 +21,7 @@ appliesTo: "サラワクとサバがいかにマレーシアの一部となっ�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e1e12abca406eef4"
+sourceContentHash: "44249e29dc164a59"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -67,6 +67,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/brunei-sultanate/body-1.webp
+    alt: 穏やかなブルネイ川一面に広がる木造の高床式家屋の群れと、それらをつなぐ遊歩道。ブルネイの首都の歴史的中心に位置する、数世紀の歴史をもつ水上集落。
+    kind: actual
+    origin: third-party
+    subject: バンダル・スリ・ブガワン（Bandar Seri Begawan）のブルネイ川（Brunei River）に浮かぶ歴史ある水上の高床式集落、カンポン・アイール（Kampong Ayer）
+    credit: Tourism Development Department of Brunei / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampong_Ayer_Brunei_Darussalam.jpg
+  - role: scene
+    src: /media/malaysia/brunei-sultanate/body-2.webp
+    alt: ラパウ。スルタンの戴冠が行われるブルネイの王室儀式殿で、バンダル・スリ・ブガワンの手入れされた庭園と花咲く低木に囲まれて建つ。
+    kind: actual
+    origin: third-party
+    subject: バンダル・スリ・ブガワンにあるブルネイの王室儀式殿、ラパウ（The Lapau）
+    credit: Xiquinho Silva / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lapau_Brunei_2024_01.jpg
 ---
 
 今日、バンダル・スリ・ブガワンの水辺に立つと、ブルネイは小さく見える——ボルネオ海岸の二つの細長い土地を囲む、裕福で石油に富むスルタン国で、午後のうちに車で横断できるほど近い。これが一つの帝国の残った断片であること——五世紀前には、ブルネイのスルタンが島の北岸と西岸のほぼ全域に連なる港から貢物を要求でき、ここから車で行けるマレーシアの二つの州、サラワクとサバが、かつては彼が与えることのできる領地であったこと——を忘れるのはたやすい。ボルネオの海の王国がいかに興り、その頂点に達し、そしてそれらの海岸を一つまた一つと引き渡していったかの物語は、マレーシア史の欠かせない筋道の一つである——ブルネイ自身がマレーシアの一部に決してならなかったとしても。

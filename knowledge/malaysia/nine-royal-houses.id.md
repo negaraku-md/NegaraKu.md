@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Pembaca yang ingin mengidentifikasi kesembilan negeri beraja Malaysia dan memahami kedudukan konstitusional Raja-Raja secara deskriptif — pelajar, peneliti, wartawan, pegawai negeri, dan pembaca umum."
 
 lang: "id"
-sourceContentHash: "2e19d7c57053d5f0"
+sourceContentHash: "6bbe0081be695bba"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-1.webp
+    alt: Pemandangan siang yang luas Istana Negara Malaysia, sebuah kompleks panjang berwarna krem dan putih dimahkotai kubah bawang keemasan yang berdiri di atas tanah tinggi berlanskap di belakang pagar perimeter.
+    kind: actual
+    origin: third-party
+    subject: Istana Negara di Jalan Tuanku Abdul Halim, Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-02.jpg
+  - role: scene
+    src: /media/malaysia/nine-royal-houses/body-2.webp
+    alt: Bekas Istana Negara, sebuah istana berwarna krem yang anggun dengan kubah menonjol dan fasad berlengkung di tengah kehijauan tropis, bekas istana negara Malaysia yang kini dilestarikan sebagai Muzium Diraja.
+    kind: actual
+    origin: third-party
+    subject: Bekas Istana Negara di Jalan Istana, Kuala Lumpur, kini Muzium Diraja
+    credit: Gryffindor / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Negara_KL_12_2007_019.jpg
 ---
 
 Malaysia memiliki tiga belas negeri, tetapi hanya sembilan di antaranya yang memiliki Raja pemerintah. Empat negeri lainnya — Melaka, Pulau Pinang, Sabah, dan Sarawak — dikepalai oleh Yang di-Pertua Negeri yang dilantik, bukan oleh seorang Raja.

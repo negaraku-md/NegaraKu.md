@@ -33,7 +33,7 @@ faq:
   - q: "ماذا حلّ بالمجموعتين في النهاية؟"
     a: "حُلّت الولايات الملايوية المتّحدة وغير المتّحدة كلتاهما في اتّحاد الملايو (Malayan Union) في 1 أبريل 1946، الذي حلّ محلّه بدوره خلال سنوات قليلة اتّحاد مالايا (Federation of Malaya)."
 lang: "ar"
-sourceContentHash: "3bcc3b32fd59d463"
+sourceContentHash: "e4da032afb1762ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-05.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-1.webp
+    alt: محطة إيبوه للسكك الحديدية البيضاء اللامعة من الطراز الاستعماري، مبنى طويل إدواردي-مغربي بأروقة مقوَّسة وأبراج ذات قباب، شُيِّد في عهد الحكم البريطاني في بيراك.
+    kind: actual
+    origin: third-party
+    subject: محطة إيبوه للسكك الحديدية، معلم من الحقبة الاستعمارية البريطانية في بيراك
+    credit: FBilula / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-2.webp
+    alt: الواجهة البيضاء المزخرفة لمحطة كوالالمبور القديمة للسكك الحديدية، مبنى استعماري بريطاني بأقواس مغربية على هيئة حدوة الفرس وقباب وأبراج تشبه المآذن، اكتمل عام 1910.
+    kind: actual
+    origin: third-party
+    subject: محطة كوالالمبور القديمة للسكك الحديدية (1910)، محطة نهائية بريطانية الحقبة بالطراز المغربي
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_railway_station_(Rawang-Seremban_%26_Sentul-Port_Klang_Line)_(frontal_facade),_Kuala_Lumpur.jpg
 ---
 
 تسع ولايات ملايوية، وقوّة إمبراطورية واحدة — ومع ذلك لم يكن الترتيب واحداً بل اثنين. وذلك الانقسام هو ما تتجاوزه أكثر ملخّصات مالايا الاستعمارية، وهو لبّ هذا المقال كلّه.

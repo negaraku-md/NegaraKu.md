@@ -33,7 +33,7 @@ faq:
   - q: "这两大分组最终有何下场？"
     a: "马来联邦与非联邦马来属邦皆于1946年4月1日并入马来亚联邦，而马来亚联邦本身在数年之内又被马来亚联合邦（Federation of Malaya）取代。"
 lang: "zh"
-sourceContentHash: "3bcc3b32fd59d463"
+sourceContentHash: "e4da032afb1762ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-05.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-1.webp
+    alt: 洁白闪亮的殖民时期怡保火车站，一座绵长的爱德华式—摩尔式建筑，设有拱形柱廊和圆顶塔楼，由英国统治时期在霹雳州兴建。
+    kind: actual
+    origin: third-party
+    subject: 怡保火车站（Ipoh Railway Station），霹雳州（Perak）的英国殖民时期地标
+    credit: FBilula / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg
+  - role: scene
+    src: /media/malaysia/federated-unfederated-states/body-2.webp
+    alt: 旧吉隆坡火车站华丽的白色立面，一座英国殖民时期建筑，拥有摩尔式马蹄形拱门、小圆顶和宣礼塔般的尖塔，于1910年落成。
+    kind: actual
+    origin: third-party
+    subject: 旧吉隆坡火车站（1910年），一座摩尔式的英殖时期车站
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_railway_station_(Rawang-Seremban_%26_Sentul-Port_Klang_Line)_(frontal_facade),_Kuala_Lumpur.jpg
 ---
 
 九个马来州属，一个殖民宗主国——然而并非一种安排，而是两种。这一分裂正是多数关于殖民地时代马来亚的概述所略过的地方，也正是本文的全部要点。

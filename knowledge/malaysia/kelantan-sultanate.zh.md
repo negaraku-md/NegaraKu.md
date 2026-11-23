@@ -21,7 +21,7 @@ appliesTo: "想理解吉兰丹君主制起源、其北大年与暹罗背景，�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7959d9e4e2088c71"
+sourceContentHash: "833e2466c2324461"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -68,6 +68,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-1.webp
+    alt: 一座优雅的淡黄色1930年代皇家宅邸，设有宽阔的拱形回廊、百叶窗和低矮的瓦顶，如今是吉兰丹皇家博物馆，坐落在哥打峇鲁皇城区的草坪之后。
+    kind: actual
+    origin: third-party
+    subject: 哥打峇鲁（Kota Bharu）的石宫（Istana Batu，吉兰丹皇家博物馆／Muzium DiRaja）
+    credit: Comelote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Batu.jpg
+  - role: scene
+    src: /media/malaysia/kelantan-sultanate/body-2.webp
+    alt: 一座宏伟的乳白色州级清真寺，拥有宽阔的中央圆顶、角楼小圆顶和一座高耸的宣礼塔，从街道上隔着铁栏杆望去，上方是蓝天。
+    kind: actual
+    origin: third-party
+    subject: 哥打峇鲁的吉兰丹州清真寺——穆罕默迪清真寺（Masjid Muhammadi）
+    credit: Neponenpasila / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_view_of_the_Muhammadi_Mosque.jpg
 ---
 
 在马来半岛东北的肩部，河流向着南中国海奔流而下、海岸线一度既朝向古老的北大年（Patani）王国、也朝向马来心脏地带之处，一座王座从内战中被锻造出来。它的创建者并非生而为王。他是一名北大年裔的军阀，熬过了他的对手；而他所开创的王朝——Long Yunus 王室——两个半世纪多以后，至今仍在吉兰丹在位。
