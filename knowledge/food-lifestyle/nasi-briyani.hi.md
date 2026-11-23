@@ -48,6 +48,7 @@ verificationNeeded:
   - "beriani gam को विशेष रूप से जोहोर के मुआर और बातू पाहत ज़िलों से जोड़ना, और 'gam'/'dam' नामकरण, मुख्यतः JKKN धरोहर अभिलेख पर टिका है; सत्यापित करें कि यह शैली और शब्द जोहोर के लिए अनन्य हैं या अधिक व्यापक रूप से साझा।"
 revisions:
   - date: 2026-11-22
+    revision: 0
     change: "Reviewed and published."
     reviewer: "ashton-tan"
 updated: 2026-11-22

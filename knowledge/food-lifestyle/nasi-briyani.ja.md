@@ -48,6 +48,7 @@ verificationNeeded:
   - "beriani gam をとくにジョホールのムアルとバトゥ・パハ両地区に帰すること、および 'gam'/'dam' の呼称は、主に JKKN の遺産記録に依拠している。この様式と語がジョホールに固有か、より広く共有されているかを検証すること。"
 revisions:
   - date: 2026-11-22
+    revision: 0
     change: "Reviewed and published."
     reviewer: "ashton-tan"
 updated: 2026-11-22

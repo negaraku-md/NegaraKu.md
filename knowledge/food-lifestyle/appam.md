@@ -43,6 +43,7 @@ publishedBy: null
 revision: 0
 revisions:
   - date: 2026-11-22
+    revision: 0
     change: "Reviewed and published."
     reviewer: "ashton-tan"
 verificationNeeded:

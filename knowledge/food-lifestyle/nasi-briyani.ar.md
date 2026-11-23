@@ -48,6 +48,7 @@ verificationNeeded:
   - "نسبة beriani gam تحديداً إلى منطقتَي موار وباتو باهات في جوهور، وتسمية 'gam'/'dam'، تستندان أساساً إلى سجلّ التراث لدى JKKN؛ تحقّق مما إذا كان الأسلوب والمصطلح خاصّين بجوهور أم مشتركين على نطاق أوسع."
 revisions:
   - date: 2026-11-22
+    revision: 0
     change: "Reviewed and published."
     reviewer: "ashton-tan"
 updated: 2026-11-22

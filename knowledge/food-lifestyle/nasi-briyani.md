@@ -47,6 +47,7 @@ verificationNeeded:
   - "The attribution of beriani gam specifically to Johor's Muar and Batu Pahat districts, and the 'gam'/'dam' naming, rests mainly on the JKKN heritage record; verify whether the style and term are exclusive to Johor or more widely shared."
 revisions:
   - date: 2026-11-22
+    revision: 0
     change: "Reviewed and published."
     reviewer: "ashton-tan"
 updated: 2026-11-22

@@ -48,6 +48,7 @@ verificationNeeded:
   - "La atribución del beriani gam específicamente a los distritos de Muar y Batu Pahat en Johor, y la denominación 'gam'/'dam', se apoyan principalmente en el registro patrimonial de la JKKN; verifica si el estilo y el término son exclusivos de Johor o están más ampliamente compartidos."
 revisions:
   - date: 2026-11-22
+    revision: 0
     change: "Reviewed and published."
     reviewer: "ashton-tan"
 updated: 2026-11-22

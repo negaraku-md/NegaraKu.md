@@ -48,6 +48,7 @@ verificationNeeded:
   - "Việc quy beriani gam riêng cho các huyện Muar và Batu Pahat của Johor, và cách gọi tên 'gam'/'dam', chủ yếu dựa trên hồ sơ di sản của JKKN; hãy xác minh xem phong cách và thuật ngữ này chỉ riêng của Johor hay được chia sẻ rộng hơn."
 revisions:
   - date: 2026-11-22
+    revision: 0
     change: "Reviewed and published."
     reviewer: "ashton-tan"
 updated: 2026-11-22

@@ -48,6 +48,7 @@ verificationNeeded:
   - "การระบุ beriani gam ให้เป็นของอำเภอมัวร์และบาตูปาฮัตของยะโฮร์โดยเฉพาะ และการตั้งชื่อ 'gam'/'dam' อาศัยบันทึกมรดกของ JKKN เป็นหลัก ควรตรวจสอบว่ารูปแบบและคำนี้เป็นของยะโฮร์โดยเฉพาะหรือแพร่หลายร่วมกันในวงกว้างกว่านั้น"
 revisions:
   - date: 2026-11-22
+    revision: 0
     change: "Reviewed and published."
     reviewer: "ashton-tan"
 updated: 2026-11-22

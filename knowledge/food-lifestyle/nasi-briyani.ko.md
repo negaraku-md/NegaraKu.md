@@ -48,6 +48,7 @@ verificationNeeded:
   - "beriani gam을 특히 조호르의 무아르와 바투파핫 지구에 귀속시키는 것과 'gam'/'dam' 명칭은 주로 JKKN 유산 기록에 근거한다. 이 양식과 용어가 조호르에만 고유한지, 더 넓게 공유되는지 검증할 것."
 revisions:
   - date: 2026-11-22
+    revision: 0
     change: "Reviewed and published."
     reviewer: "ashton-tan"
 updated: 2026-11-22

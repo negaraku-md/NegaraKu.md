@@ -48,6 +48,7 @@ verificationNeeded:
   - "把 beriani gam 专门归于柔佛麻坡与峇株巴辖两县，以及 'gam'/'dam' 的命名，主要依据 JKKN 遗产记录；须核实这一风格与术语是否为柔佛所独有，抑或更广泛地共享。"
 revisions:
   - date: 2026-11-22
+    revision: 0
     change: "Reviewed and published."
     reviewer: "ashton-tan"
 updated: 2026-11-22

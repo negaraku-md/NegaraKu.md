@@ -48,6 +48,7 @@ verificationNeeded:
   - "Pengaitan beriani gam khususnya dengan daerah Muar dan Batu Pahat di Johor, serta penamaan 'gam'/'dam', bersandar terutamanya pada rekod warisan JKKN; sahkan sama ada gaya dan istilah ini eksklusif kepada Johor atau lebih meluas dikongsi."
 revisions:
   - date: 2026-11-22
+    revision: 0
     change: "Reviewed and published."
     reviewer: "ashton-tan"
 updated: 2026-11-22
