@@ -99,6 +99,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/natural-gas-lng-malaysia/body-1.webp
+    alt: A large liquefied-natural-gas carrier ship under way on open water, its long deck lined with big insulated cargo-tank structures and pipework, leaving a wake under a clear sky
+    kind: representative
+    origin: third-party
+    subject: a liquefied-natural-gas carrier of the type that ships Malaysian LNG to overseas buyers
+    credit: Rhetos / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Minerva_Amorgos_(LNG-Tanker).jpg
+  - role: scene
+    src: /media/energy/natural-gas-lng-malaysia/body-2.webp
+    alt: A sprawling onshore gas-processing terminal with tall distillation columns, silver storage spheres, flare stacks and a dense lattice of pipework, set on cleared coastal land with hills behind
+    kind: actual
+    origin: third-party
+    subject: the Sabah Oil and Gas Terminal (SOGT) at Kimanis, Sabah, a Petronas onshore gas-processing facility
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-30.jpg
 ---
 
 Every time a power plant in Selangor fires up or a glove factory in Penang heats its ovens, the gas most likely began its journey hundreds of kilometres away, offshore Terengganu or across the South China Sea in Sarawak. Malaysia is at once a heavyweight gas exporter and, increasingly, a gas importer, and the pipes and terminals that reconcile those two facts are among the country's most valuable energy assets.

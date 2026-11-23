@@ -69,7 +69,7 @@ keywords:
   - Kelantan Terengganu rain
   - southwest monsoon
   - rainy season Malaysia
-sourceContentHash: "87793e0da2237cfd"
+sourceContentHash: "f4ce8e4f34f4c543"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -88,6 +88,25 @@ heroLicense: 'CC BY 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:December_2021_Malaysian_floods_in_Klang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/northeast-monsoon/body-1.webp
+    alt: Nước lũ đọng ngập ngang tuyến đường liên bang K151 sau khi nước sông dâng đột ngột tại Kampung Padang Pusing, Pendang, Kedah
+    kind: actual
+    origin: third-party
+    subject: Nước lũ tràn trên đường sau khi nước sông dâng đột ngột, Pendang, Kedah
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Padang_Pusing,_Pendang_20240917_125046.jpg
+  - role: scene
+    src: /media/environment/northeast-monsoon/body-2.webp
+    alt: Những đám mây giông gió mùa đen kịt đang kéo đến trên một vùng cảnh quan nhiệt đới
+    kind: representative
+    origin: third-party
+    subject: Mây giông gió mùa (ảnh minh họa)
+    credit: lensnmatter / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Monsoon_(36877269620).jpg
 ---
 
 Hằng năm, vào khoảng thời gian phần còn lại của thế giới bước vào mùa đông, bờ đông của Malaysia tự chuẩn bị tinh thần. Thuyền bè được kéo lên bờ, các khu nghỉ dưỡng trên đảo đóng cửa, các trung tâm cứu trợ lũ lụt được sẵn sàng, và các gia đình ở những thị trấn vùng trũng dõi theo các con sông. Đây là **gió mùa Đông Bắc** — ảnh hưởng đơn lẻ lớn nhất đến thời tiết của Malaysia, và là lý do đất nước này về cơ bản có một mùa mưa riêng biệt thay vì mưa nhiệt đới đều đặn quanh năm.

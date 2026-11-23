@@ -29,7 +29,7 @@ faq:
     a: "Ha sido sustituida por la Directiva NADMA N.º 1, aprobada en una reunión del Consejo de Seguridad Nacional (MKN) presidida por el Primer Ministro el 1 de agosto de 2024."
 
 lang: "es"
-sourceContentHash: "cb54d0894eec9ad2"
+sourceContentHash: "626601c85061b283"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-1.webp
+    alt: Un equipo de rescate acuático en una barca de fondo plano navegando por el agua de inundación durante una operación de búsqueda y rescate
+    kind: representative
+    origin: third-party
+    subject: Equipo de rescate en inundaciones en una barca durante una operación de búsqueda (imagen representativa)
+    credit: Marvin Nauman, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_32076_-_A_water_rescue_team_in_a_boat_searching_for_people_in_Oklahoma.jpg
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-2.webp
+    alt: Un muro protector de sacos de arena levantado para contener el agua de inundación que sube alrededor de un edificio
+    kind: representative
+    origin: third-party
+    subject: Barrera de protección contra inundaciones con sacos de arena (imagen representativa)
+    credit: Jocelyn Augustino, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_34762_-_Residents_building_a_sandbag_wall_in_flood_waters_in_Arkansas.jpg
 ---
 
 Cuando una gran inundación golpea varios estados a la vez, ¿quién pulsa el botón para coordinar al ejército, los bomberos, la policía y los voluntarios bajo un único mando? En Malasia, la respuesta es NADMA.

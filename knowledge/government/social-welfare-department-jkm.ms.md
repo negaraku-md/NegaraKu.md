@@ -30,7 +30,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f9a688b158d9b46c"
+sourceContentHash: "38bcfc6c21ff8b52"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Department_of_Social_Welfar
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Social Welfare Department (Jabatan Kebajikan Masyarakat, JKM) district office in Pontian, Johor, with a large ''Pejabat Kebajikan Masyarakat Daerah Pontian'' signboard and jkm.gov.my contact details'
+images:
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-1.webp
+    alt: Papan tanda dan premis sebuah persatuan jagaan kebajikan kanak-kanak kurang upaya di Johor Bahru, sebuah perkhidmatan kebajikan masyarakat
+    kind: representative
+    origin: third-party
+    subject: Pusat jagaan kebajikan kanak-kanak kurang upaya di Johor Bahru
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Handicapped_and_Mentally_Disabled_Children_Association_Johor_Bahru.jpg
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-2.webp
+    alt: Sebuah rumah kebajikan di Batu Pahat, Johor, sebuah institusi kebajikan kediaman
+    kind: actual
+    origin: third-party
+    subject: Rumah kebajikan di Batu Pahat, Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batu_Pahat_Welfare_House.jpg
 ---
 
 **Jabatan Kebajikan Masyarakat** — dikenali di mana-mana dengan akronimnya **JKM** — ialah agensi persekutuan yang menyambut rakyat Malaysia ketika mereka jatuh. Ia ditubuhkan pada tahun **1946**, pada mulanya sebagai tindak balas terhadap masalah sosial yang berpunca daripada Perang Dunia Kedua, dan peranannya kemudian berkembang kepada **perlindungan, pemulihan, pencegahan, pembangunan dan integrasi masyarakat**. Hasil carian untuk JKM didominasi oleh blog "cara menuntut bantuan" bertanda tahun dan halaman perkhidmatan yang ringkas; halaman ini sebaliknya menerangkan JKM sebagai sebuah institusi dan bagaimana perkhidmatannya berkait rentas seluruh kitaran hidup — daripada kanak-kanak kepada orang kurang upaya kepada warga emas.

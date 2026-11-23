@@ -29,7 +29,7 @@ faq:
     a: "首相が議長を務める国家安全保障会議（MKN）の会合で2024年8月1日に承認されたNADMA指令第1号（Arahan NADMA No. 1）により置き換えられた。"
 
 lang: "ja"
-sourceContentHash: "cb54d0894eec9ad2"
+sourceContentHash: "626601c85061b283"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-1.webp
+    alt: 捜索救助活動中、平底ボートに乗った水難救助隊が洪水の中を進む様子
+    kind: representative
+    origin: third-party
+    subject: 捜索救助活動中、ボートに乗る水害救助隊(イメージ)
+    credit: Marvin Nauman, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_32076_-_A_water_rescue_team_in_a_boat_searching_for_people_in_Oklahoma.jpg
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-2.webp
+    alt: 上昇する洪水を食い止めるため建物の周囲に積み上げられた土のうの防護壁
+    kind: representative
+    origin: third-party
+    subject: 土のうの防水バリア(イメージ)
+    credit: Jocelyn Augustino, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_34762_-_Residents_building_a_sandbag_wall_in_flood_waters_in_Arkansas.jpg
 ---
 
 大規模な洪水が複数の州を同時に襲ったとき、軍・消防・警察・ボランティアを一つの指令のもとで調整するボタンを押すのは誰か？マレーシアでは、その答えがNADMAである。

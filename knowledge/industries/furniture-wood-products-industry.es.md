@@ -31,7 +31,7 @@ faq:
   - q: ¿Quiénes son los principales clientes de los muebles malasios?
     a: Estados Unidos es con diferencia el mayor mercado individual —se llevó cerca de la mitad de las exportaciones de muebles en 2024—, seguido de mercados como Singapur, Australia, Japón y el Reino Unido. Esta fuerte concentración en Estados Unidos también hace que la industria sea sensible a la demanda estadounidense de vivienda y a la política arancelaria.
 lang: es
-sourceContentHash: "156e73848cc57164"
+sourceContentHash: "32c9844fa3d127af"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -109,6 +109,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-1.webp
+    alt: El llamativo edificio en esquina de color rojo y blanco de la tienda de muebles Home Best en Kluang, Johor, con sus letreros que rezan Pusat Perabot Home Best Furniture en malayo y chino contra un cielo azul despejado.
+    kind: actual
+    origin: third-party
+    subject: Una tienda de muebles, Pusat Perabot Home Best, en Jalan Manggis, en la localidad de Kluang, Johor, Malasia
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Home_Best_Furniture_May_2024.jpg
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-2.webp
+    alt: Hileras pulcramente apiladas de tablones de madera tropical recién aserrada llenan un depósito de madera techado y de lados abiertos en Sandakan, Sabah, con su veta cálida color miel y pardo rojizo iluminada por el sol de la tarde.
+    kind: actual
+    origin: third-party
+    subject: Pilas de tablas de madera tropical aserrada a la venta en un depósito de madera en Sandakan, Sabah, Malasia
+    credit: CEphoto / Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sale-of-timbers-01.jpg
 ---
 
 En algún lugar de un hogar de Texas o California, hay buenas probabilidades de que la silla de comedor, la estructura de la cama o la estantería se fabricaran en Malasia —muy posiblemente en torno a un solo pueblo, a partir de la madera de un árbol del caucho que antaño producía látex para guantes y neumáticos—. La industria del mueble y los productos de madera de Malasia es uno de los pesos pesados silenciosos de su economía manufacturera: no glamurosa, pero un exportador mundial sistemáticamente entre los diez primeros que ha convertido un subproducto del sector de las plantaciones en bienes acabados vendidos por todo el mundo.

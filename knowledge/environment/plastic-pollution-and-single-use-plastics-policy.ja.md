@@ -31,7 +31,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "a24e4c1da4f3ae42"
+sourceContentHash: "70c761205e65cf72"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-1.webp
+    alt: 海岸の波打ち際に沿って集まるプラスチックごみと海洋漂着ごみ
+    kind: representative
+    origin: third-party
+    subject: 海岸に打ち上げられた海洋プラスチックごみ(イメージ)
+    credit: VariousPhotography / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Marine_debris_and_plastic_waste_on_beach.jpg
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-2.webp
+    alt: リサイクルに回すため回収拠点に集められた使用済みのペットボトル
+    kind: representative
+    origin: third-party
+    subject: リサイクル用のペットボトル回収拠点(イメージ)
+    credit: DoronDoron / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_plastic_bottle_collection_facility_for_recycling.jpg
 ---
 
 レジ会計カウンターの薄いレジ袋は通常ほんの短時間しか使われないが、環境中には長期間残ることがある。この問題に対処するため、マレーシアは即座の全面禁止を選ばなかった——その代わりに、小額の課金からより広範な禁止へと移行する段階的なロードマップを採用した。

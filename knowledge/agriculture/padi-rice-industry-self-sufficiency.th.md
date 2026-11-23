@@ -34,7 +34,7 @@ faq:
     a: "Padiberas Nasional Berhad (BERNAS) ถือบทบาทผู้นำเข้าข้าวรายเดียวของประเทศ ซึ่งเป็นบทบาทที่สืบทอดมาจากคณะกรรมการข้าวเปลือกและข้าวสารแห่งชาติ (LPN) ที่เข้ารับช่วงการนำเข้าข้าวและกลายเป็นผู้นำเข้ารายเดียวในปี 1974 สืบเนื่องจากวิกฤตอาหารโลกปี 1973 BERNAS ยังบริหารข้าวสำรองของประเทศและสนับสนุนโรงสีภูมิบุตร (Bumiputera) บริษัทถูกแปรรูปเมื่อวันที่ 12 มกราคม 1996"
 
 lang: "th"
-sourceContentHash: "8f44d2a10fa14edb"
+sourceContentHash: "a3e4b8ba2156b900"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-1.webp
+    alt: รถเกี่ยวนวดข้าวสีเหลืองกำลังเกี่ยวข้าวสุกสีทองในนาข้าวที่รัฐกลันตัน
+    kind: actual
+    origin: third-party
+    subject: รถเกี่ยวนวดข้าวกำลังเกี่ยวข้าวสุกในรัฐกลันตัน
+    credit: Zamwan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menuai_padi_di_Kelantan.jpg
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-2.webp
+    alt: นาข้าวสุกสีทองพร้อมเก็บเกี่ยวโดยมีเนินเขาปกคลุมด้วยป่าอยู่ด้านหลัง ที่ลังกาวี รัฐเกอดะฮ์
+    kind: actual
+    origin: third-party
+    subject: นาข้าวสุกสีทองพร้อมเก็บเกี่ยวที่ลังกาวี รัฐเกอดะฮ์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-05.jpg
 ---
 
 ทุกครั้งที่ราคาข้าวสูงขึ้นหรือชั้นวางในซูเปอร์มาร์เก็ตว่างเปล่า คำถามเก่าแก่ก็กลับมาหลอกหลอนมาเลเซีย เหตุใดประเทศที่อุดมด้วยผืนนากลับยังต้องนำเข้าข้าวเกือบครึ่งหนึ่งของตน คำตอบอยู่ที่อุตสาหกรรมหนึ่งที่ขับเคลื่อนด้วยเงินอุดหนุน คุ้มครองด้วยราคาที่รับประกัน และถูกไล่ตามด้วยเป้าหมายการพึ่งพาตนเองที่ยังไปไม่ถึง

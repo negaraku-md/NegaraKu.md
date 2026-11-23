@@ -34,7 +34,7 @@ faq:
     a: "Padiberas Nasional Berhad (BERNAS) memegang peran importir tunggal beras negara, satu peran yang diwarisi dari Lembaga Padi dan Beras Negara (LPN), yang mengambil alih impor beras dan menjadi importir tunggal pada 1974 menyusul krisis pangan dunia 1973. BERNAS juga mengelola stok penyangga beras negara dan mendukung penggiling Bumiputera. Ia diprivatisasi pada 12 Januari 1996."
 
 lang: "id"
-sourceContentHash: "8f44d2a10fa14edb"
+sourceContentHash: "a3e4b8ba2156b900"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-1.webp
+    alt: Sebuah mesin pemanen gabungan berwarna kuning memanen padi matang keemasan di sebuah sawah di Kelantan
+    kind: actual
+    origin: third-party
+    subject: Sebuah mesin pemanen gabungan (combine harvester) memanen padi matang di Kelantan
+    credit: Zamwan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menuai_padi_di_Kelantan.jpg
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-2.webp
+    alt: Hamparan padi matang keemasan yang siap dipanen dengan sebuah bukit berhutan di latar belakang, di Langkawi, Kedah
+    kind: actual
+    origin: third-party
+    subject: Sawah padi matang keemasan yang siap dipanen di Langkawi, Kedah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-05.jpg
 ---
 
 Setiap kali harga beras naik atau rak supermarket kosong, satu pertanyaan lama kembali menghantui Malaysia: mengapa negara yang subur dengan sawah masih perlu mengimpor hampir separuh berasnya? Jawabannya terletak pada satu industri yang didorong subsidi, dilindungi harga terjamin, dan dikejar oleh target swasembada yang masih belum tercapai.

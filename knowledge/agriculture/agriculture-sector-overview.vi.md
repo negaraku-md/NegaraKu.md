@@ -35,7 +35,7 @@ faq:
     a: "Vì cả hai được quản lý như những ngành kinh doanh khác nhau. Cọ là một mặt hàng xuất khẩu quy mô lớn sinh lời trên đất phù hợp, trong khi lúa là một cây lương thực biên lợi nhuận thấp phụ thuộc vào trợ cấp và tưới tiêu. Đất đai, vốn và lao động có xu hướng chảy về các cây hàng hóa sinh lời hơn."
 
 lang: "vi"
-sourceContentHash: "e80995e62391c5c0"
+sourceContentHash: "86c39872c39e72b3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -111,6 +111,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-1.webp
+    alt: Những nông trại rau bậc thang và nhà vòm nhựa trên các sườn đồi của Thung lũng Bertam ở Cameron Highlands, Pahang
+    kind: actual
+    origin: third-party
+    subject: Các nông trại rau vùng cao ở Thung lũng sông Bertam, Cameron Highlands, Pahang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bertam_3.jpg
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-2.webp
+    alt: Những luống rau lá bậc thang ngập nắng phía trên một ngôi làng vùng cao tại Kampung Raja, Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Nông trại rau ngoài trời ở Kampung Raja, Cameron Highlands, Pahang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Raja_5.jpg
 ---
 
 Năm 2024, Malaysia sản xuất hơn 100 triệu tấn buồng quả tươi của cọ — khoảng 100.2 triệu tấn theo Cục Thống kê Malaysia (DOSM) — đủ để duy trì vị trí trong số hai nhà sản xuất dầu cọ lớn nhất thế giới. Cùng năm đó, đất nước này nhập khẩu gần một nửa lượng gạo mà người dân của mình tiêu thụ.

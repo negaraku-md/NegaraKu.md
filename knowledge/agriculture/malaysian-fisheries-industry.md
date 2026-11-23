@@ -94,6 +94,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PENANG_ISLAND_FISHING_BOATS_MALAYSIA_JAN_2012_(6868741024).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-1.webp
+    alt: Bot nelayan berlabuh di sepanjang sungai di sisi rumah berpanggung di perkampungan nelayan di Kuala Kedah
+    kind: actual
+    origin: third-party
+    subject: Bot nelayan dan sebuah perkampungan pesisir di Kuala Kedah
+    credit: Marufish from Alor Setar, Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fishing_Village_at_Kuala_Kedah_(2638400370).jpg
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-2.webp
+    alt: Sederet ikan tempatan segar disusun untuk dijual di pasar hujung minggu Satok di Kuching, Sarawak
+    kind: actual
+    origin: third-party
+    subject: Ikan tempatan segar dipamerkan di pasar Satok, Kuching, Sarawak
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fresh_fish_in_market_(27002392530).jpg
 ---
 
 Sebelum subuh di jeti sepanjang Selat Melaka dan Laut China Selatan, ribuan

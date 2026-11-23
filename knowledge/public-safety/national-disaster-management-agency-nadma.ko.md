@@ -29,7 +29,7 @@ faq:
     a: "이 지침은 2024년 8월 1일 총리가 주재한 국가안보회의(MKN) 회의에서 승인된 NADMA 지침 제1호(Arahan NADMA No. 1)로 대체되었습니다."
 
 lang: "ko"
-sourceContentHash: "cb54d0894eec9ad2"
+sourceContentHash: "626601c85061b283"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-1.webp
+    alt: 수색 구조 작전 중 평저선에 탄 수상 구조대가 홍수 속을 헤쳐 나가는 모습
+    kind: representative
+    origin: third-party
+    subject: 수색 구조 작전 중 보트에 탄 홍수 구조대(예시)
+    credit: Marvin Nauman, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_32076_-_A_water_rescue_team_in_a_boat_searching_for_people_in_Oklahoma.jpg
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-2.webp
+    alt: 불어나는 홍수물을 막기 위해 건물 둘레에 쌓아 올린 모래주머니 방호벽
+    kind: representative
+    origin: third-party
+    subject: 모래주머니 방수 방벽(예시)
+    credit: Jocelyn Augustino, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_34762_-_Residents_building_a_sandbag_wall_in_flood_waters_in_Arkansas.jpg
 ---
 
 대규모 홍수가 여러 주를 동시에 덮칠 때, 군·소방·경찰·자원봉사자를 하나의 지휘 아래 조정하는 버튼을 누르는 것은 누구입니까? 말레이시아에서 그 답은 NADMA입니다.

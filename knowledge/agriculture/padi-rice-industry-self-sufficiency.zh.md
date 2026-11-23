@@ -36,7 +36,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8f44d2a10fa14edb"
+sourceContentHash: "a3e4b8ba2156b900"
 
 status: "published"
 aiAssisted: true
@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-1.webp
+    alt: 吉兰丹一片稻田里,一台黄色联合收割机正收割成熟的金黄稻谷
+    kind: actual
+    origin: third-party
+    subject: 吉兰丹一台联合收割机正收割成熟的稻谷
+    credit: Zamwan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menuai_padi_di_Kelantan.jpg
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-2.webp
+    alt: 吉打浮罗交怡一片待收割的金黄成熟稻田,后方是一座林木覆盖的山丘
+    kind: actual
+    origin: third-party
+    subject: 吉打浮罗交怡一片待收割的金黄成熟稻田
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-05.jpg
 ---
 
 每当大米价格上涨或超市货架空空如也，一个由来已久的问题就再次困扰着马来西亚：一个稻田肥沃的国家，为何仍需进口近半的大米？答案在于一个由补贴推动、由保障价格庇护、并被至今仍未达成的自给目标所追逐的产业。

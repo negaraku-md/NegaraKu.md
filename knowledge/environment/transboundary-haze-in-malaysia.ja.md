@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "f6dc09ddaaf77bcf"
+sourceContentHash: "043be6570dc41e09"
 
 status: "published"
 aiAssisted: true
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-1.webp
+    alt: クアラルンプールの診療所脇の通りに立ちこめる、かすんで視界の悪い大気
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールの診療所付近のヘイズ(煙害)の状況
+    credit: SNN95 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2026_Haze_at_Kuala_Lumpur_Health_Clinic_01.jpg
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-2.webp
+    alt: 濃い越境ヘイズが、普段は見える地平線上の丘を覆い隠す
+    kind: representative
+    origin: third-party
+    subject: 2013年の東南アジア越境ヘイズがシンガポールを覆う様子(イメージ)
+    credit: Oliverlyc. / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Effects_of_2013_Southeast_Asian_haze_on_Singapore.jpg
 ---
 
 乾季にモンスーンの風向きが変わるたび、クランバレー、サラワク、そして半島部の大部分の空は、わずか数日でどんよりとした灰色に変わりうる——太陽はかすみ、煙の臭いが家の中まで入り込み、電話にはAPI警報が鳴り響く。これが越境ヘイズである。すなわち、国内だけで生み出されたわけではない汚染でありながら、毎年何百万人ものマレーシア人が吸い込んでいるものだ。

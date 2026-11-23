@@ -30,7 +30,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "66daf0f263dfbde4"
+sourceContentHash: "815d7997668ec8b0"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Fish-Market-Hall-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-1.webp
+    alt: パハン州クアンタンの漁業団地で、停泊した漁船のそばで鮮魚を木箱に仕分ける作業員たち
+    kind: actual
+    origin: third-party
+    subject: パハン州クアンタンの水揚げ場で新鮮な漁獲物を仕分ける作業員
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BG_Fisheries_and_Frozen_Market_in_Kuantan_20260622_-_17.jpg
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-2.webp
+    alt: サバ州クアラ・ペニューのマングローブに縁取られたシトンポック川に係留された大型の浮き式エビ養殖いけす平台
+    kind: actual
+    origin: third-party
+    subject: サバ州シトンポック川のマングローブ河川に浮かぶエビ養殖いけす
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RiversOfSabah_SungaiSitompok-06.jpg
 ---
 
 マレーシア水域で合法的に網を下ろすすべての船は、最終的には一つの機関に対して責任を負う。**マレーシア漁業局（DOF）**――*Jabatan Perikanan Malaysia*――は、国家の海洋・水産養殖資源を管理し、すべての漁業活動に許可を発行する連邦機関である。**農業・食料安全保障省（MAFS）**の傘下で運営され、**1985年漁業法（Fisheries Act 1985、Act 317）**を執行し、**漁業局長官（Director-General of Fisheries）**が率いている。本部はプトラジャヤのWisma Taniにあり、各州・県の事務所網に支えられている。

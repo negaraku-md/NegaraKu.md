@@ -94,6 +94,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-1.webp
+    alt: Sebuah jentera penuai gabungan berwarna kuning menuai padi masak keemasan di sebuah sawah di Kelantan
+    kind: actual
+    origin: third-party
+    subject: Sebuah jentera penuai gabungan menuai padi masak di Kelantan
+    credit: Zamwan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menuai_padi_di_Kelantan.jpg
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-2.webp
+    alt: Hamparan padi masak keemasan yang sedia dituai dengan sebuah bukit berhutan di latar belakang, di Langkawi, Kedah
+    kind: actual
+    origin: third-party
+    subject: Sawah padi masak keemasan yang sedia dituai di Langkawi, Kedah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-05.jpg
 ---
 
 Setiap kali harga beras naik atau rak pasar raya kosong, satu soalan lama kembali menghantui Malaysia: mengapa negara yang subur dengan sawah masih perlu mengimport hampir separuh berasnya? Jawapannya terletak pada satu industri yang dipacu subsidi, dilindungi harga terjamin, dan dikejar oleh sasaran sara diri yang masih belum dicapai.

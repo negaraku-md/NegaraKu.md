@@ -78,6 +78,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-1.webp
+    alt: Sampah plastik dan serpihan marin yang berkumpul di sepanjang garis pasang surut sebuah pantai
+    kind: representative
+    origin: third-party
+    subject: Serpihan plastik marin yang terdampar di pantai (perwakilan)
+    credit: VariousPhotography / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Marine_debris_and_plastic_waste_on_beach.jpg
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-2.webp
+    alt: Botol plastik terpakai yang dikumpulkan di pusat pengumpulan untuk dihantar bagi kitar semula
+    kind: representative
+    origin: third-party
+    subject: Pusat pengumpulan botol plastik untuk kitar semula (perwakilan)
+    credit: DoronDoron / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_plastic_bottle_collection_facility_for_recycling.jpg
 ---
 
 Beg plastik nipis di kaunter pembayaran lazimnya digunakan sebentar sahaja, tetapi boleh kekal di alam sekitar untuk tempoh yang lama. Untuk menangani isu ini, Malaysia tidak memilih satu larangan menyeluruh serta-merta — sebaliknya satu peta jalan berperingkat yang bergerak daripada caj kecil kepada larangan yang lebih luas.

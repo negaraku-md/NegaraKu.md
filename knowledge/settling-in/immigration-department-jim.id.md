@@ -27,7 +27,7 @@ faq:
   - q: "Berapa harga paspor 10 tahun yang baru?"
     a: "Paspor 10 tahun berharga RM350 untuk pemohon berusia 18–59 tahun, RM175 untuk lansia 60 tahun ke atas, dan gratis untuk pemegang kartu OKU (penyandang disabilitas) berusia 18 tahun ke atas, di bawah Perintah Fi (Pasport dan Visa) (Pindaan) 2026."
 lang: "id"
-sourceContentHash: "050995b2068c647c"
+sourceContentHash: "d38b062bdbd5abc0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-1.webp
+    alt: Kantor cabang Departemen Imigrasi di Semporna, Sabah
+    kind: actual
+    origin: third-party
+    subject: Kantor cabang Departemen Imigrasi (Jabatan Imigresen) di Semporna, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semporna_Sabah_Jabatan-Imigresen-01.jpg
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-2.webp
+    alt: Sebuah stempel paspor imigrasi Malaysia, yang diterbitkan di pos pemeriksaan Departemen Imigrasi
+    kind: actual
+    origin: third-party
+    subject: Stempel paspor keluar/masuk imigrasi Malaysia
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Passport_Stamp_Bukit_Berapit_1.jpg
 ---
 
 Satu lembaga berdiri di balik hampir setiap dokumen yang memungkinkan seseorang melintasi perbatasan Malaysia, tinggal di sini, atau bekerja di sini. **Jabatan Imigresen Malaysia** (**JIM**) adalah badan di bawah **Kementerian Dalam Negeri** yang menerbitkan paspor kepada warga negara, memberikan visa dan pas kepada warga asing, menempatkan staf di setiap loket bandara dan perbatasan darat, serta menegakkan undang-undang imigrasi. Lembaga ini melayani warga negara Malaysia, penduduk tetap, dan pengunjung asing, dan telah beroperasi sejak **21 Juli 1922**. Tantangan bagi pendatang baru adalah layanannya tersebar di beberapa situs web resmi — halaman ini memetakannya.

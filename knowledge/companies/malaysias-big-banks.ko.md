@@ -31,7 +31,7 @@ faq:
     a: "CIMB는 말레이시아, 인도네시아, 싱가포르, 태국을 포함한 시장에서 운영하는 아세안 중심 그룹으로 자신을 규정합니다. RHB는 일곱 개 지역 시장에서 운영합니다. Maybank는 세 개의 본국 시장 — 말레이시아, 싱가포르, 인도네시아 — 에 더해 아세안 전반과 주요 글로벌 금융 중심지에서 사업을 운영합니다."
 
 lang: "ko"
-sourceContentHash: "14c6f8fee1c877fb"
+sourceContentHash: "ae9e39ab428b7fce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,6 +96,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_View_of_KLCC.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-1.webp
+    alt: 한 쌍의 곡선형 칼날 같은 타워가 메이뱅크 본점을 이루는 높이 솟은 흰색 초고층 빌딩. 주변 나무와 도심 거리 위로 솟아올라 파란 하늘을 배경으로 한다
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 도심의 말라얀 뱅킹(메이뱅크) 본점 건물 메나라 메이뱅크. 말레이시아 최대 은행
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Maybank_Tower.jpg
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-2.webp
+    alt: 길가 층에 CIMB 은행 지점과 빨간 CIMB 간판을 내건 다층 건물. 유리 외관 앞으로 보행자들이 지나가고 하늘이 맑다
+    kind: actual
+    origin: third-party
+    subject: UMNO 빌딩 길가 층의 CIMB 은행 지점. CIMB는 자산 기준 말레이시아 최대 은행 중 하나
+    credit: Qhairy / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank,_Bangunan_UMNO.jpg
 ---
 
 거의 모든 말레이시아 번화가를 지배하는 다섯 개의 이름 — [Maybank](/ko/companies/maybank), CIMB, Public Bank, RHB, Hong Leong — 을 나란히 놓으면, 국가의 급여, 주택담보대출, 무역을 결제하는 은행 시스템의 핵심을 보는 것입니다. 이들은 모두 말레이시아에 설립되었고, 모두 Bursa Malaysia에 상장되어 있으며, 모두 같은 중앙은행의 면허를 받습니다. 그 너머에서는 뚜렷이 갈립니다. 하나는 나머지를 규모로 압도하고, 일부는 사실상 정부가 지분의 축이며, 둘은 여전히 창업 가문이 이끕니다.

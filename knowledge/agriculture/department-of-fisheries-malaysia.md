@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Fish-Market-Hall-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-1.webp
+    alt: Workers sorting fresh fish into crates beside a moored fishing boat at a fisheries complex in Kuantan, Pahang
+    kind: actual
+    origin: third-party
+    subject: Workers sorting the fresh catch at a fisheries landing in Kuantan, Pahang
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BG_Fisheries_and_Frozen_Market_in_Kuantan_20260622_-_17.jpg
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-2.webp
+    alt: Large floating prawn-farm cage platforms moored on the mangrove-lined Sungai Sitompok at Kuala Penyu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Floating prawn-farm cages on a mangrove river at Sungai Sitompok, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RiversOfSabah_SungaiSitompok-06.jpg
 ---
 
 Every boat that legally casts a net in Malaysian waters answers, in the end, to one agency. The **Department of Fisheries Malaysia (DOF)** — *Jabatan Perikanan Malaysia* — is the federal body that manages the nation's marine and aquaculture resources and licenses all fishing activity. It operates under the **Ministry of Agriculture and Food Security (MAFS)**, administers the **[Fisheries Act 1985](/en/law/fisheries-act-1985) (Act 317)**, and is led by the **Director-General of Fisheries**. Its headquarters is at Wisma Tani, Putrajaya, supported by a network of state and district offices.

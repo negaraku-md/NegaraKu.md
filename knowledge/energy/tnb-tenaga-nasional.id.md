@@ -30,7 +30,7 @@ faq:
     a: "Operasi inti TNB mencakup Semenanjung Malaysia. Di Sabah dan Labuan, pasokan listrik ditangani oleh Sabah Electricity Sdn. Bhd., yang mayoritas sahamnya (82,75%) dimiliki TNB, dengan Pemerintah Negeri Sabah memegang 17,24%. Sarawak dipasok oleh utilitas terpisah, bukan TNB."
 
 lang: "id"
-sourceContentHash: "b6b33bf3419779ac"
+sourceContentHash: "3db20cd889aecd5a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Power_Station.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-1.webp
+    alt: Sebuah gedung kantor bermerek TNB yang menampilkan nama dan logo Tenaga Nasional pada fasadnya, dengan halaman depan bertaman dan tempat parkir di bawah langit biru cerah
+    kind: actual
+    origin: third-party
+    subject: Sebuah kantor Tenaga Nasional Berhad (TNB) di Alor Setar, Kedah, salah satu gedung layanan negara bagian perusahaan utilitas nasional itu
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TNB_Alor_Setar.jpg
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-2.webp
+    alt: Menara transmisi listrik rangka baja yang direntangi kabel tegangan tinggi membentang melintasi selat laut yang lebar di samping sebuah jembatan jalan raya yang panjang, dengan sebuah pulau dan perbukitan daratan utama di kejauhan
+    kind: actual
+    origin: third-party
+    subject: Menara transmisi tegangan tinggi TNB yang membawa saluran listrik melintasi selat di samping Jembatan Penang menuju Pulau Gazumbo
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge,_TNB_transmission_towers,_and_Pulau_Gazumbo_from_The_Waterfront_Shoppes_rooftop_(261108).jpg
 ---
 
 Setiap kali lampu menyala di rumah, pabrik, atau pusat data di Semenanjung Malaysia, kemungkinan besar elektron-elektron itu mengalir melalui jaringan yang dimiliki oleh satu perusahaan: Tenaga Nasional Berhad. Perusahaan ini bukan sekadar pembangkit listrik, melainkan tulang punggung sistem energi nasional — dari stasiun pembangkit hingga meteran listrik di dinding.

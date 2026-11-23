@@ -32,7 +32,7 @@ faq:
     a: "முக்கிய காரணம் சுமத்ரா மற்றும் கலிமந்தானில் ஏற்படும் நிலம் மற்றும் காட்டுத் தீ — விவசாயத்திற்காக கரிமண் தீ மற்றும் வெட்டி-எரிக்கும் நிலம் அகற்றுதல் உட்பட — ஆகும்; இவை எல் நினோ (El Nino) நிகழ்வால் பாதிக்கப்படும் வறண்ட காலங்களில் அடிக்கடியும் மோசமாகவும் ஏற்படுகின்றன."
 
 lang: "ta"
-sourceContentHash: "f6dc09ddaaf77bcf"
+sourceContentHash: "043be6570dc41e09"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-1.webp
+    alt: கோலாலம்பூரில் ஒரு சுகாதார கிளினிக்கின் அருகேயுள்ள தெருவில் குறைந்த தெரிவுத்திறனுடன் கூடிய புகைமூட்டமான காற்று
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூரில் ஒரு சுகாதார கிளினிக்கிற்கு அருகே புகைமூட்ட நிலை
+    credit: SNN95 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2026_Haze_at_Kuala_Lumpur_Health_Clinic_01.jpg
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-2.webp
+    alt: வழக்கமாக அடிவானத்தில் தெரியும் குன்றுகளை மறைக்கும் அடர்த்தியான எல்லை கடந்த புகைமூட்டம்
+    kind: representative
+    origin: third-party
+    subject: 2013 தென்கிழக்காசிய எல்லை கடந்த புகைமூட்டம் சிங்கப்பூருக்கு மேலே (பிரதிநிதித்துவக் காட்சி)
+    credit: Oliverlyc. / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Effects_of_2013_Southeast_Asian_haze_on_Singapore.jpg
 ---
 
 வறண்ட காலத்தில் பருவக்காற்று திசை மாறும் ஒவ்வொரு முறையும், க்லாங் பள்ளத்தாக்கு (Klang Valley), சரவாக் (Sarawak) மற்றும் தீபகற்பத்தின் பெரும்பகுதி மீதான வானம் சில நாட்களிலேயே சாம்பல் நிறமாக மாறிவிடும் — சூரியன் மங்கிப்போகிறது, புகையின் வாசனை வீடுகளுக்குள் நுழைகிறது, மேலும் தொலைபேசிகள் API எச்சரிக்கைகளுடன் ஒலிக்கின்றன. இதுவே எல்லை கடந்த புகைமூட்டம்: நாட்டுக்குள் முழுவதுமாக உற்பத்தி செய்யப்படாத, ஆனால் ஒவ்வொரு ஆண்டும் மில்லியன் கணக்கான மலேசியர்களால் சுவாசிக்கப்படும் மாசுபாடு.

@@ -30,7 +30,7 @@ faq:
     a: "Pembangkit Hidroelektrik Bakun dengan kapasitas tersedia 2,520MW adalah fasilitas pembangkitan terbesar di Sarawak."
 
 lang: "id"
-sourceContentHash: "842a8fcd8feb3418"
+sourceContentHash: "b4478573670990b9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY 2.5'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-1.webp
+    alt: Dinding bendungan pembangkit listrik tenaga air bermuka beton yang masif menurun ke dalam ngarai sungai, dengan pelimpah bertingkat dan rumah pembangkit di dasarnya, dikelilingi lereng yang telah dibuka dan perbukitan berselimut hutan hujan
+    kind: actual
+    origin: third-party
+    subject: Bendungan pembangkit listrik tenaga air Bakun di Sarawak, bendungan urugan batu bermuka beton raksasa yang menjadi inti sistem kelistrikan negara bagian itu
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-2.webp
+    alt: Sebuah bendungan beton tinggi membentang di lembah sungai dengan pintu pelimpah dan jalan di puncaknya, air waduk hijau pekat di satu sisi dan pegunungan berhutan menjulang di sekelilingnya
+    kind: actual
+    origin: third-party
+    subject: Bendungan pembangkit listrik tenaga air Murum di pedalaman Sarawak, bagian dari rangkaian bertingkat bendungan tenaga air negara bagian itu
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum.jpg
 ---
 
 Ketika Semenanjung Malaysia bergantung pada Tenaga Nasional Berhad, Sarawak menyalakan lampunya sendiri melalui satu utilitas yang gridnya sama sekali tidak tersambung dengan grid nasional — dan hampir keseluruhannya dibangkitkan oleh air terjun bendungan raksasa di pedalaman.

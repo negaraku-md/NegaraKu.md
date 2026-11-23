@@ -31,7 +31,7 @@ faq:
     a: "CIMB tự mô tả mình là một tập đoàn tập trung vào ASEAN hoạt động trên các thị trường bao gồm Malaysia, Indonesia, Singapore và Thái Lan. RHB hoạt động trên bảy thị trường khu vực. Maybank trải rộng qua ba thị trường quê nhà — Malaysia, Singapore và Indonesia — cộng với các hoạt động trên khắp ASEAN và các trung tâm tài chính toàn cầu chủ chốt."
 
 lang: "vi"
-sourceContentHash: "14c6f8fee1c877fb"
+sourceContentHash: "ae9e39ab428b7fce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,6 +96,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_View_of_KLCC.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-1.webp
+    alt: Một tòa nhà chọc trời màu trắng cao với cặp tháp cong hình lưỡi dao tạo nên trụ sở chính của Maybank, vươn lên trên những hàng cây và đường phố xung quanh trên nền trời xanh
+    kind: actual
+    origin: third-party
+    subject: Menara Maybank, tòa tháp trụ sở chính của Malayan Banking (Maybank) ở trung tâm Kuala Lumpur, ngân hàng lớn nhất Malaysia
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Maybank_Tower.jpg
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-2.webp
+    alt: Một tòa nhà nhiều tầng với một chi nhánh CIMB Bank và biển hiệu CIMB màu đỏ ở tầng trệt, mặt tiền kính và người đi bộ qua lại trên vỉa hè phía trước dưới bầu trời quang đãng
+    kind: actual
+    origin: third-party
+    subject: Một chi nhánh CIMB Bank ở tầng trệt của Bangunan UMNO, CIMB là một trong những ngân hàng lớn nhất Malaysia xét theo tài sản
+    credit: Qhairy / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank,_Bangunan_UMNO.jpg
 ---
 
 Xếp năm cái tên thống trị gần như mọi con phố lớn của Malaysia — [Maybank](/vi/companies/maybank), CIMB, Public Bank, RHB và Hong Leong — và bạn đang nhìn vào lõi của một hệ thống ngân hàng thanh toán tiền lương, các khoản vay mua nhà và thương mại của đất nước. Tất cả đều thành lập tại Malaysia, tất cả đều niêm yết trên Bursa Malaysia, và tất cả đều được cùng một ngân hàng trung ương cấp phép. Ngoài điểm đó, chúng khác nhau rõ rệt: một tập đoàn vượt trội các tập đoàn còn lại về quy mô, một số về cơ bản được neo bởi nhà nước, và hai tập đoàn vẫn được lèo lái bởi các gia đình đã sáng lập ra chúng.

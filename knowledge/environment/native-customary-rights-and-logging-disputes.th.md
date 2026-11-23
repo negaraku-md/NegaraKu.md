@@ -29,7 +29,7 @@ faq:
     a: "ใบอนุญาตไม้ซุงและสัญญาเช่าสวนที่ออกโดยรัฐสามารถครอบคลุมพื้นที่ที่ชุมชนอ้างว่าเป็นที่ดินตามจารีตประเพณี เมื่อคู่กรณีไม่เห็นพ้องกันว่าพื้นที่หนึ่งเป็นที่ดิน NCR หรือไม่ ข้อพิพาทมักถูกตัดสินในศาล"
 
 lang: "th"
-sourceContentHash: "28337553336a3000"
+sourceContentHash: "b18f95dc322c1c87"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Logging_trucks_in_Sarawak.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-1.webp
+    alt: ภาพมุมสูงของสวนปาล์มน้ำมันที่ปกคลุมพื้นที่ป่าที่ถูกถางในรัฐซาราวัก เกาะบอร์เนียว
+    kind: actual
+    origin: third-party
+    subject: สวนปาล์มน้ำมันบนพื้นที่ที่เคยเป็นป่าในรัฐซาราวัก
+    credit: Ben Sutherland / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantations_in_Sarawak.jpg
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-2.webp
+    alt: ซุงไม้เนื้อแข็งเขตร้อนกองซ้อนกันที่ลานเก็บและขนส่งซุงในกาลาบากัน รัฐซาบาห์
+    kind: actual
+    origin: third-party
+    subject: ลานเก็บซุงในกาลาบากัน รัฐซาบาห์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kalabakan_Sabah_Timber-storage-area-01.jpg
 ---
 
 ชุมชนบ้านยาว (longhouse) แห่งหนึ่งกล่าวว่าผืนป่าแห่งหนึ่งเป็นของตนมาหลายชั่วอายุคน บริษัทไม้ซุงหรือสวนถือใบอนุญาตที่ออกโดยรัฐซึ่งครอบคลุมพื้นที่เดียวกัน ทั้งสองฝ่ายชี้ไปที่กฎหมาย ในซาราวักและซาบาห์ การปะทะกันนั้นถูกโต้แย้งในห้องพิจารณาคดีมานานกว่าสองทศวรรษ และศาลก็ไม่ได้เห็นพ้องเสมอไปว่าเส้นแบ่งอยู่ที่ใด

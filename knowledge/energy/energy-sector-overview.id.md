@@ -34,7 +34,7 @@ faq:
     a: "PETRA (Kementerian Peralihan Tenaga dan Transformasi Air) adalah kementerian yang merumuskan kebijakan energi dan air negara serta memacu peralihan ke arah emisi karbon nol menjelang 2050. Suruhanjaya Tenaga adalah badan statutori regulator di bawah PETRA yang melisensikan, menetapkan tarif, dan menegakkan undang-undang pasokan listrik dan gas."
 
 lang: "id"
-sourceContentHash: "13e97e8a9ffe1cf9"
+sourceContentHash: "becb3a419d467637"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jimah_East_Coal-Fired_Power_Plant_(Aerial_View).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-1.webp
+    alt: Sebuah pembangkit listrik tenaga gas dengan aula turbin, cerobong gas buang logam, dan gardu induk berpagar berisi trafo dan rangka baja, berdiri di atas lahan yang telah dibuka dengan perbukitan berhutan dan langit cerah di belakangnya
+    kind: actual
+    origin: third-party
+    subject: Pembangkit listrik Rugading dekat Kota Kinabalu, Sabah, sebuah pembangkit listrik tenaga gas yang memasok jaringan listrik Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Rugading-Power-Station-02.jpg
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-2.webp
+    alt: Sebuah pembangkit listrik pesisir dengan bangunan industri rendah, saluran logam, dan cerobong asap tinggi di balik pagar pembatas, dengan pohon palem dan lahan terbuka di dekatnya di bawah langit berkabut
+    kind: actual
+    origin: third-party
+    subject: Pembangkit listrik Tanjung Kling di pesisir Melaka, bagian dari armada pembangkit Semenanjung Malaysia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjung_Kling_Power_Station.JPG
 ---
 
 Nyalakan sakelar lampu di Kuala Lumpur, isi bensin RON95 di Ipoh, atau pasang panel

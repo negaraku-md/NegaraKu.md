@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b3fe7bab59216408"
+sourceContentHash: "e9afe3ee3471e8d4"
 
 status: "published"
 aiAssisted: true
@@ -81,6 +81,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Empty_Singapore-Malaysia_Ca
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Johor Bahru skyline and the Johor–Singapore Causeway at night'
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-johor-bahru/body-1.webp
+    alt: ジョホールバルのブキット・インダの週市に並ぶ生鮮食品の屋台
+    kind: actual
+    origin: third-party
+    subject: ジョホールバルのブキット・インダの週市(生鮮市場)
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wednesday_market,_Bukit_Indah,_Johor_Bahru,_Johor,_Malaysia.jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-johor-bahru/body-2.webp
+    alt: ジョホールバル中心部の主要商店街、ワン・アフォック通り沿いの店舗と買い物客
+    kind: actual
+    origin: third-party
+    subject: ワン・アフォック通り。ジョホールバルの主要商店街
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wong_Ah_Fook_Street.jpg
 ---
 
 マレーシアの全国最低賃金である月額RM1,700で働く労働者が、似たような一日の仕事でRM4,000

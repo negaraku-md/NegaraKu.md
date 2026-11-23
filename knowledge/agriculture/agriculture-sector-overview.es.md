@@ -35,7 +35,7 @@ faq:
     a: "Porque ambos se gestionan como negocios distintos. El aceite de palma es una materia prima de exportación rentable y a gran escala en tierras adecuadas, mientras que el arroz es un cultivo alimentario de bajo margen dependiente de subsidios y de riego. La tierra, el capital y la mano de obra tienden a fluir hacia los cultivos de materias primas más rentables."
 
 lang: "es"
-sourceContentHash: "e80995e62391c5c0"
+sourceContentHash: "86c39872c39e72b3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -111,6 +111,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-1.webp
+    alt: Granjas de hortalizas en terrazas y túneles de plástico en las laderas del valle de Bertam, en Cameron Highlands, Pahang
+    kind: actual
+    origin: third-party
+    subject: Granjas de hortalizas de montaña en el valle del río Bertam, Cameron Highlands, Pahang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bertam_3.jpg
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-2.webp
+    alt: Parcelas en terrazas de hortalizas de hoja iluminadas por el sol sobre una aldea de montaña en Kampung Raja, Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Huerta de hortalizas a cielo abierto en Kampung Raja, Cameron Highlands, Pahang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Raja_5.jpg
 ---
 
 En 2024, Malasia produjo más de 100 millones de toneladas de racimos de fruta

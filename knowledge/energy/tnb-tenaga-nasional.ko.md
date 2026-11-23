@@ -30,7 +30,7 @@ faq:
     a: "TNB의 핵심 사업은 말레이반도를 대상으로 한다. 사바와 라부안에서는 전력 공급을 Sabah Electricity Sdn. Bhd.가 담당하며, 이 회사의 과반 지분(82.75%)은 TNB가, 17.24%는 사바 주정부가 보유하고 있다. 사라왁은 별도의 공익사업체가 전력을 공급하며 TNB가 아니다."
 
 lang: "ko"
-sourceContentHash: "b6b33bf3419779ac"
+sourceContentHash: "3db20cd889aecd5a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Power_Station.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-1.webp
+    alt: 외벽에 Tenaga Nasional 이름과 로고를 내건 TNB 브랜드 사무용 건물. 앞쪽에 조경된 녹지와 주차장이 있고 파란 하늘이 펼쳐진다
+    kind: actual
+    origin: third-party
+    subject: 케다주 알로르스타르의 테나가 나시오날(TNB) 사무소. 국영 전력회사의 주 단위 서비스 건물 중 하나
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TNB_Alor_Setar.jpg
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-2.webp
+    alt: 고압 케이블을 건 철골 송전탑이 긴 도로 교량을 따라 넓은 해협을 가로질러 늘어서 있고 멀리 섬과 본토의 언덕이 보인다
+    kind: actual
+    origin: third-party
+    subject: 페낭대교를 따라 가줌보섬으로 해협을 가로지르는 TNB 고압 송전탑
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge,_TNB_transmission_towers,_and_Pulau_Gazumbo_from_The_Waterfront_Shoppes_rooftop_(261108).jpg
 ---
 
 말레이반도의 주택, 공장 또는 데이터센터에 불이 켜질 때마다, 그 전자들은 십중팔구 단 한 회사가 소유한 전력망을 통해 흐른다 — 바로 테나가 나시오날 베르하드이다. 이 회사는 단순한 발전사업자가 아니라 발전소에서 벽의 전력계량기에 이르기까지 국가 에너지 시스템의 척추를 이루는 존재이다.

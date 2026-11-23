@@ -36,7 +36,7 @@ faq:
     a: "Après l'amendement de 2019 à la Loi sur les pêches de 1985 (Loi A1601), l'amende maximale pour le propriétaire ou le capitaine d'un navire étranger intrus a été portée de RM1 million à RM6 millions, et pour chaque membre d'équipage de RM100,000 à RM600,000."
 
 lang: "fr"
-sourceContentHash: "fa3345cedd03dd8d"
+sourceContentHash: "8c0e702d9b4ea4d2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PENANG_ISLAND_FISHING_BOATS_MALAYSIA_JAN_2012_(6868741024).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-1.webp
+    alt: Bateaux de pêche amarrés le long de la rivière près des maisons sur pilotis du village de pêcheurs de Kuala Kedah
+    kind: actual
+    origin: third-party
+    subject: Bateaux de pêche et village côtier à Kuala Kedah
+    credit: Marufish from Alor Setar, Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fishing_Village_at_Kuala_Kedah_(2638400370).jpg
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-2.webp
+    alt: Une rangée de poissons locaux frais disposés pour la vente au marché de week-end de Satok, à Kuching, Sarawak
+    kind: actual
+    origin: third-party
+    subject: Poisson local frais présenté au marché de Satok, Kuching, Sarawak
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fresh_fish_in_market_(27002392530).jpg
 ---
 
 Avant l'aube, aux embarcadères le long du détroit de Malacca et de la mer de

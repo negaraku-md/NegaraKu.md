@@ -34,7 +34,7 @@ faq:
     a: "PETRA（能源转型与水务转型部）是制定国家能源与水务政策、并推动迈向 2050 年净零排放转型的部门。能源委员会则是隶属 PETRA 的法定监管机构，负责发放执照、制定电费，并执行电力与天然气供应的相关法律。"
 
 lang: "zh"
-sourceContentHash: "13e97e8a9ffe1cf9"
+sourceContentHash: "becb3a419d467637"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jimah_East_Coal-Fired_Power_Plant_(Aerial_View).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-1.webp
+    alt: 一座燃气发电厂,设有汽轮机厂房、金属排气烟囱,以及围栏内布满变压器与钢制龙门架的变电站,坐落在开辟出的空地上,后方是林木覆盖的山丘与明亮的天空
+    kind: actual
+    origin: third-party
+    subject: 沙巴亚庇附近的鲁加丁发电厂,一座为沙巴电网供电的燃气发电厂
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Rugading-Power-Station-02.jpg
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-2.webp
+    alt: 一座沿海发电厂,围墙后方有低矮的工业建筑、金属管道与一根高耸的烟囱,附近棕榈树与空地在朦胧的天空下
+    kind: actual
+    origin: third-party
+    subject: 马六甲海岸的丹绒吉灵发电厂,马来西亚半岛发电机组的一部分
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjung_Kling_Power_Station.JPG
 ---
 
 在吉隆坡按下灯的开关、在怡保加满一箱 RON95 汽油，或在柔佛的屋顶装上太阳能板——在每一个动作背后，都有一张消费者鲜少看见的机构、法律与政策网络。马来西亚的能源领域不是单一的东西；它是四个相互交叠的世界：电力、石油与天然气、燃料，以及再生能源。本指南将梳理出谁负责什么，以及这一切如何衔接在一起。

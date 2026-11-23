@@ -34,7 +34,7 @@ faq:
     a: "การเข้าถึงของบุคคลที่สาม (TPA) ให้ผู้ขนส่งที่มีคุณสมบัติ ไม่ใช่เพียง PETRONAS จองกำลังการผลิตบนเทอร์มินัลแปลงสภาพเป็นก๊าซ ท่อส่ง และท่อจำหน่ายบนเงื่อนไขเดียวกัน เริ่มเมื่อ 16 มกราคม 2017 ภายใต้พระราชบัญญัติการจ่ายก๊าซ (แก้ไข) ปี 2016 และกำกับดูแลโดยคณะกรรมการพลังงาน"
 
 lang: "th"
-sourceContentHash: "4e24ddc5a51e8881"
+sourceContentHash: "5679eeb98bbb3cbf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/natural-gas-lng-malaysia/body-1.webp
+    alt: เรือขนส่งก๊าซธรรมชาติเหลวขนาดใหญ่กำลังแล่นในน่านน้ำเปิด ดาดฟ้ายาวเรียงรายด้วยโครงถังสินค้าหุ้มฉนวนขนาดใหญ่และท่อ ทิ้งร่องคลื่นไว้ภายใต้ท้องฟ้าแจ่มใส
+    kind: representative
+    origin: third-party
+    subject: เรือขนส่งก๊าซธรรมชาติเหลวประเภทที่ใช้ขนส่ง LNG ของมาเลเซียไปยังผู้ซื้อในต่างประเทศ
+    credit: Rhetos / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Minerva_Amorgos_(LNG-Tanker).jpg
+  - role: scene
+    src: /media/energy/natural-gas-lng-malaysia/body-2.webp
+    alt: สถานีแปรรูปก๊าซบนบกขนาดใหญ่ที่มีหอกลั่นสูง ถังเก็บทรงกลมสีเงิน ปล่องเผาแก๊ส และโครงท่อหนาแน่น ตั้งอยู่บนพื้นที่ชายฝั่งที่ถางแล้วโดยมีเนินเขาอยู่ด้านหลัง
+    kind: actual
+    origin: third-party
+    subject: สถานีก๊าซซาบาห์ (SOGT) ที่กิมานิส รัฐซาบาห์ โรงแปรรูปก๊าซบนบกของปิโตรนาส
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-30.jpg
 ---
 
 ทุกครั้งที่โรงไฟฟ้าในสลังงอร์เริ่มเดินเครื่องหรือโรงงานถุงมือในปีนังอุ่นเตาของมัน ก๊าซนั้นน่าจะเริ่มการเดินทางจากที่ห่างออกไปหลายร้อยกิโลเมตร นอกชายฝั่งตรังกานูหรือข้ามทะเลจีนใต้ในซาราวัก มาเลเซียเป็นทั้งผู้ส่งออกก๊าซระดับหนักและ ในเวลาเดียวกัน ผู้นำเข้าก๊าซที่เพิ่มขึ้น และท่อและเทอร์มินัลที่ประสานสองข้อเท็จจริงนั้นเป็นสินทรัพย์พลังงานที่มีค่าที่สุดของประเทศ

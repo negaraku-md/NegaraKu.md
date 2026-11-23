@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b3fe7bab59216408"
+sourceContentHash: "e9afe3ee3471e8d4"
 
 status: "published"
 aiAssisted: true
@@ -83,6 +83,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Empty_Singapore-Malaysia_Ca
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Johor Bahru skyline and the Johor–Singapore Causeway at night'
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-johor-bahru/body-1.webp
+    alt: Gerai hasil tani segar di pasar mingguan di Bukit Indah, Johor Bahru
+    kind: actual
+    origin: third-party
+    subject: Pasar hasil tani segar mingguan di Bukit Indah, Johor Bahru
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wednesday_market,_Bukit_Indah,_Johor_Bahru,_Johor,_Malaysia.jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-johor-bahru/body-2.webp
+    alt: Kedai dan pembeli-belah di sepanjang Jalan Wong Ah Fook, jalan perdagangan utama di tengah Johor Bahru
+    kind: actual
+    origin: third-party
+    subject: Jalan Wong Ah Fook, jalan perdagangan utama Johor Bahru
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wong_Ah_Fook_Street.jpg
 ---
 
 Seorang pekerja yang menerima gaji minimum penuh kebangsaan Malaysia, RM1,700

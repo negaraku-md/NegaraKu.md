@@ -30,7 +30,7 @@ faq:
     a: "L'APM opère en vertu de la Loi de 1951 sur la défense civile (Loi 221), qui définit ses missions en temps de paix et en temps de guerre pour protéger les vies et les biens."
 
 lang: "fr"
-sourceContentHash: "1cc8bccf4a7c831a"
+sourceContentHash: "8efaac4be728913a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tatra_truck_of_Malaysia_Civil_Defence_Force_in_Kuantan_2023_NDP.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-1.webp
+    alt: Une tour de guet de sauvetage de plage de l'Angkatan Pertahanan Awam (Force de défense civile) sur le rivage de Bagan Lalang
+    kind: actual
+    origin: third-party
+    subject: Tour de guet de sauvetage de plage de l'APM (Force de défense civile), Bagan Lalang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_1.jpg
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-2.webp
+    alt: Une tour de sauveteurs et de secours côtiers de la Force de défense civile surplombant la plage ouverte de Bagan Lalang
+    kind: actual
+    origin: third-party
+    subject: Tour de sauveteurs côtiers de l'APM surplombant la plage, Bagan Lalang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_2.jpg
 ---
 
 Lorsque de grandes inondations surviennent ou qu'un bâtiment s'effondre, l'une des premières équipes à arriver avec des embarcations, des cordes et du matériel de sauvetage porte souvent les uniformes orange de l'APM. La Force de défense civile de Malaisie (APM) est la colonne vertébrale du secours humanitaire du pays — présente avant, pendant et après une catastrophe.

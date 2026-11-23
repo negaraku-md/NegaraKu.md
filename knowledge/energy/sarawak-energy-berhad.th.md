@@ -30,7 +30,7 @@ faq:
     a: "โรงไฟฟ้าพลังน้ำ Bakun ด้วยกำลังการผลิตที่มีอยู่ 2,520MW เป็นสิ่งอำนวยความสะดวกการผลิตที่ใหญ่ที่สุดในซาราวัก"
 
 lang: "th"
-sourceContentHash: "842a8fcd8feb3418"
+sourceContentHash: "b4478573670990b9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY 2.5'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-1.webp
+    alt: ผนังเขื่อนไฟฟ้าพลังน้ำดาดคอนกรีตขนาดมหึมาลาดลงสู่หุบเขาลำน้ำ มีทางระบายน้ำล้นแบบขั้นบันไดและโรงไฟฟ้าอยู่ที่ฐาน ล้อมรอบด้วยไหล่เขาที่ถางแล้วและเนินเขาปกคลุมด้วยป่าฝน
+    kind: actual
+    origin: third-party
+    subject: เขื่อนไฟฟ้าพลังน้ำบากุนในรัฐซาราวัก เขื่อนหินถมดาดคอนกรีตขนาดยักษ์ที่เป็นหัวใจของระบบไฟฟ้าของรัฐ
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-2.webp
+    alt: เขื่อนคอนกรีตสูงพาดข้ามหุบเขาลำน้ำ มีประตูระบายน้ำล้นและถนนสันเขื่อน น้ำในอ่างเก็บสีเขียวเข้มอยู่ด้านหนึ่ง และมีภูเขาปกคลุมด้วยป่าตั้งตระหง่านโดยรอบ
+    kind: actual
+    origin: third-party
+    subject: เขื่อนไฟฟ้าพลังน้ำมูรุมในแผ่นดินตอนในของรัฐซาราวัก ส่วนหนึ่งของเขื่อนพลังน้ำแบบขั้นบันไดของรัฐ
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum.jpg
 ---
 
 ขณะที่คาบสมุทรมาเลเซียพึ่งพา Tenaga Nasional Berhad ซาราวักจุดไฟของตนเองผ่านบริษัทสาธารณูปโภคหนึ่งที่กริดไม่เชื่อมต่อกับกริดของประเทศเลย และเกือบทั้งหมดผลิตด้วยน้ำที่ไหลจากเขื่อนยักษ์ในพื้นที่ตอนใน

@@ -29,7 +29,7 @@ faq:
     a: "Les licences forestières et les baux de plantation délivrés par l'État peuvent couvrir des zones que les communautés revendiquent comme terre coutumière. Lorsque les parties ne s'accordent pas sur le fait qu'une zone est une terre NCR, le litige est souvent tranché en justice."
 
 lang: "fr"
-sourceContentHash: "28337553336a3000"
+sourceContentHash: "b18f95dc322c1c87"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Logging_trucks_in_Sarawak.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-1.webp
+    alt: Vue aérienne de plantations de palmiers à huile couvrant des terres forestières défrichées à Sarawak, Bornéo
+    kind: actual
+    origin: third-party
+    subject: Plantations de palmiers à huile sur d'anciennes terres forestières, Sarawak
+    credit: Ben Sutherland / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantations_in_Sarawak.jpg
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-2.webp
+    alt: Grumes de bois dur tropical empilées dans un parc de stockage et d'expédition de bois à Kalabakan, Sabah
+    kind: actual
+    origin: third-party
+    subject: Parc de stockage de grumes de bois, Kalabakan, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kalabakan_Sabah_Timber-storage-area-01.jpg
 ---
 
 Une communauté d'une maison longue (longhouse) affirme qu'une bande de forêt lui appartient depuis des générations. Une entreprise forestière ou de plantation détient une licence, délivrée par l'État, qui couvre le même terrain. Toutes deux invoquent la loi. Au Sarawak et à Sabah, cette collision est plaidée devant les tribunaux depuis plus de deux décennies — et les tribunaux ne se sont pas toujours accordés sur l'endroit où tracer la ligne.

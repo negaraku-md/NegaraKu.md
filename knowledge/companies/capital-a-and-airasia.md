@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AGP_-_Now_Everyone_Can_Fly_Livery_-_KUL.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/companies/capital-a-and-airasia/body-1.webp
+    alt: An AirAsia Airbus A320 narrow-body jet wearing a special commemorative livery with airasia titles along the fuselage, standing on the apron at Langkawi airport under a clear sky
+    kind: actual
+    origin: third-party
+    subject: an AirAsia Airbus A320 (Malaysian registration 9M-AQH) in a special commemorative livery at Langkawi International Airport
+    credit: Jovi Choo / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AQH_-_100th_Awesome_Plane_Livery_-_LGK.jpg
+  - role: scene
+    src: /media/companies/capital-a-and-airasia/body-2.webp
+    alt: Red-liveried AirAsia aircraft lined up at the boarding gates of the klia2 low-cost carrier terminal, the long terminal building and jet bridges stretching along the apron under a tropical sky
+    kind: actual
+    origin: third-party
+    subject: AirAsia aircraft at klia2, the low-cost carrier terminal of Kuala Lumpur International Airport and the airline's main Malaysian hub
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Air_Asia,_KLIA2,_Kuala_Lumpur_Airport_Low_Cost_Terminal_(15154635675).jpg
 ---
 
 For years, "AirAsia" and "Capital A" were used almost interchangeably. After a multi-year restructuring, they now describe two different listed companies.

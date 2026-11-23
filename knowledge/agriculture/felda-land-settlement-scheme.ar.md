@@ -32,7 +32,7 @@ faq:
     a: "Felda Global Ventures (المعروفة الآن باسم FGV Holdings) هي الذراع الاستثمارية التي تدير مزارع FELDA. أُدرجت في بورصة ماليزيا في 28 يونيو 2012، وكانت وقت الاكتتاب تدير نحو 500,000 هكتار يعمل فيها نحو 112,600 مستوطن."
 
 lang: "ar"
-sourceContentHash: "827c6da5e0f2c397"
+sourceContentHash: "ecd41197a456d74c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:FELDA_Ayer_Hitam_-_Entrance_Gate.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-1.webp
+    alt: طريق هادئ تصطفّ على جانبيه أشجار النخيل الملكي ومنازل المستوطنين في مشروع FELDA Bukit Batu، Kulai، Johor
+    kind: actual
+    origin: third-party
+    subject: منازل المستوطنين على طول طريق تصطفّ على جانبيه أشجار النخيل في FELDA Bukit Batu، Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FELDA_Bukit_Batu.jpg
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-2.webp
+    alt: مصنع زيت النخيل Fajar Harapan بمداخنه في مجمّع مستوطنة FELDA Sahabat، Sabah
+    kind: actual
+    origin: third-party
+    subject: مصنع زيت النخيل Fajar Harapan في مجمّع FELDA Sahabat، Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Felda-Sahabat_Cenderawasih_Sabah_Kilang-Sawit-Fajar-Harapan-03.jpg
 ---
 
 تخيّل أسرة فقيرة نُقلت إلى غابة حديثة الإزالة، ومُنحت قطعة أرض وأجرًا شهريًا، ثم طُلب إليها الانتظار سنوات حتى تنضج أشجار المطاط أو زيت النخيل. تلك هي العروض التي غيّرت حياة أكثر من 100,000 أسرة ريفية ماليزية — وكان محرّكها FELDA.

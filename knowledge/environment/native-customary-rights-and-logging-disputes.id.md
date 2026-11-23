@@ -29,7 +29,7 @@ faq:
     a: "Lisensi tebang dan sewa perkebunan yang dikeluarkan oleh negeri dapat meliputi kawasan yang diklaim oleh komunitas sebagai tanah adat. Ketika pihak-pihak berselisih apakah suatu kawasan itu tanah NCR, sengketa tersebut biasanya diputuskan di pengadilan."
 
 lang: "id"
-sourceContentHash: "28337553336a3000"
+sourceContentHash: "b18f95dc322c1c87"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Logging_trucks_in_Sarawak.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-1.webp
+    alt: Pemandangan udara perkebunan kelapa sawit yang menutupi lahan hutan yang telah dibuka di Sarawak, Borneo
+    kind: actual
+    origin: third-party
+    subject: Perkebunan kelapa sawit di atas bekas lahan hutan, Sarawak
+    credit: Ben Sutherland / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantations_in_Sarawak.jpg
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-2.webp
+    alt: Kayu gelondongan keras tropis yang ditumpuk di area penyimpanan dan pengapalan kayu di Kalabakan, Sabah
+    kind: actual
+    origin: third-party
+    subject: Area penyimpanan kayu gelondongan, Kalabakan, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kalabakan_Sabah_Timber-storage-area-01.jpg
 ---
 
 Sebuah komunitas rumah panjang mengatakan sebidang hutan telah menjadi milik mereka sejak turun-temurun. Sebuah perusahaan tebang atau perkebunan sendiri memegang lisensi, yang dikeluarkan oleh negeri, yang meliputi kawasan yang sama. Keduanya merujuk pada hukum. Di Sarawak dan Sabah, benturan itu telah diperdebatkan di ruang sidang selama lebih dari dua dekade — dan pengadilan tidak selalu sependapat tentang di mana garis itu jatuh.

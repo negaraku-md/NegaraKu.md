@@ -30,7 +30,7 @@ faq:
     a: "Les activités principales de TNB couvrent la Malaisie péninsulaire. À Sabah et à Labuan, l'approvisionnement est assuré par Sabah Electricity Sdn. Bhd., dont la majorité des parts (82,75 %) est détenue par TNB, le gouvernement de l'État de Sabah détenant 17,24 %. Le Sarawak est alimenté par un service public distinct, et non par TNB."
 
 lang: "fr"
-sourceContentHash: "b6b33bf3419779ac"
+sourceContentHash: "3db20cd889aecd5a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Power_Station.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-1.webp
+    alt: Un immeuble de bureaux de marque TNB portant le nom et le logo de Tenaga Nasional sur sa façade, avec un parvis paysager et un parking sous un ciel bleu lumineux
+    kind: actual
+    origin: third-party
+    subject: un bureau de Tenaga Nasional Berhad (TNB) à Alor Setar, Kedah, l'un des bâtiments de service de l'opérateur électrique national dans l'État
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TNB_Alor_Setar.jpg
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-2.webp
+    alt: Des pylônes électriques en treillis d'acier tendus de câbles à haute tension traversant un large chenal maritime le long d'un long pont routier, avec une île et les collines du continent au loin
+    kind: actual
+    origin: third-party
+    subject: des pylônes de transport à haute tension de TNB portant des lignes électriques à travers le chenal près du pont de Penang vers Pulau Gazumbo
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge,_TNB_transmission_towers,_and_Pulau_Gazumbo_from_The_Waterfront_Shoppes_rooftop_(261108).jpg
 ---
 
 Chaque fois qu'une lumière s'allume dans une maison, une usine ou un centre de données de la Malaisie péninsulaire, ces électrons circulent très probablement à travers un réseau détenu par une seule entreprise : Tenaga Nasional Berhad. Ce n'est pas seulement un producteur d'électricité, mais l'épine dorsale du système énergétique national — de la centrale électrique au compteur sur le mur.

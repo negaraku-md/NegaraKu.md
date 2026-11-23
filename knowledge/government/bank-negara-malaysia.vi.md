@@ -87,7 +87,27 @@ sources:
     url: "https://www.bnm.gov.my/governors/rasheed"
     publisher: "Bank Negara Malaysia"
   - title: "Policy consistency, strong fundamentals anchor investor confidence — Bank Negara governor"
-    url: "https://www.thestar.com.my/business/business-news/2026/08/14/policy-consistency-strong-fundamentals-anchor-investor-confidence---bank-negara-governo"
+    url: "https://www.thestar.com.my/business/business-news/2026/08/14/policy-consistency-strong-fundamentals-anchor-investor-confidence
+images:
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-1.webp
+    alt: Lối vào một văn phòng Bank Negara Malaysia ở Kota Kinabalu, trưng tên ngân hàng trung ương và biểu tượng con mang (kijang) cùng cờ Malaysia và cờ Sabah
+    kind: actual
+    origin: third-party
+    subject: Văn phòng khu vực của Bank Negara Malaysia ở Kota Kinabalu, Sabah, với tên ngân hàng trung ương và biểu tượng con mang (kijang)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Bank-Negara-Malaysia-02.jpg
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-2.webp
+    alt: Một tờ tiền giấy ringgit thời kỳ đầu của Bank Negara Malaysia thuộc loạt phát hành đầu tiên năm 1967, mang tên ngân hàng trung ương
+    kind: actual
+    origin: third-party
+    subject: Tờ tiền giấy ringgit đầu tiên của Bank Negara Malaysia (mẫu thuộc loạt phát hành năm 1967)
+    credit: Bank Negara Malaysia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SERIBU_RINGGIT_-_OBSERVE_VIEW_(1967).png
+---bank-negara-governo"
     publisher: "The Star"
     date: "2026-08-14"
   - title: "MPC Meeting Decision Schedule — tag/mpc-2026"

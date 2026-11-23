@@ -28,7 +28,7 @@ faq:
   - q: "Tôi đăng ký là OKU (người khuyết tật) như thế nào?"
     a: "Công dân Malaysia được một chuyên gia y tế của chính phủ chứng nhận nộp mẫu đăng ký BPPOKU (Sửa đổi 2/2019) cùng báo cáo xác minh y tế và bản sao MyKad (hoặc giấy khai sinh đối với người nộp đơn dưới 12 tuổi), hoặc tại quầy JKM hoặc trực tuyến qua cổng MyDaftar OKU. Người nộp đơn thành công nhận được Thẻ OKU ghi rõ nhóm khuyết tật của họ."
 lang: "vi"
-sourceContentHash: "f9a688b158d9b46c"
+sourceContentHash: "38bcfc6c21ff8b52"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Department_of_Social_Welfar
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Social Welfare Department (Jabatan Kebajikan Masyarakat, JKM) district office in Pontian, Johor, with a large ''Pejabat Kebajikan Masyarakat Daerah Pontian'' signboard and jkm.gov.my contact details'
+images:
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-1.webp
+    alt: Biển hiệu và cơ sở của một hội chăm sóc phúc lợi cho trẻ em khuyết tật ở Johor Bahru, một dịch vụ phúc lợi cộng đồng
+    kind: representative
+    origin: third-party
+    subject: Trung tâm chăm sóc phúc lợi cho trẻ em khuyết tật ở Johor Bahru
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Handicapped_and_Mentally_Disabled_Children_Association_Johor_Bahru.jpg
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-2.webp
+    alt: Một nhà phúc lợi ở Batu Pahat, Johor, một cơ sở phúc lợi nội trú
+    kind: actual
+    origin: third-party
+    subject: Nhà phúc lợi (rumah kebajikan) ở Batu Pahat, Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batu_Pahat_Welfare_House.jpg
 ---
 
 **Cục Phúc lợi Xã hội** — *Jabatan Kebajikan Masyarakat*, được biết đến ở khắp nơi qua tên viết tắt **JKM** — là cơ quan liên bang đỡ người Malaysia khi họ vấp ngã. Nó được thành lập vào năm **1946**, ban đầu để đáp ứng các vấn đề xã hội do Thế chiến thứ hai gây ra, và vai trò của nó về sau mở rộng sang **bảo vệ, phục hồi chức năng, phòng ngừa, phát triển và hòa nhập cộng đồng**. Kết quả tìm kiếm về JKM bị chi phối bởi các blog "cách xin trợ cấp" đóng dấu năm và các trang dịch vụ trống trơn; trang này thay vào đó giải thích JKM như một thiết chế và cách các dịch vụ của nó kết nối xuyên suốt cả vòng đời — từ trẻ em đến người khuyết tật đến người cao tuổi.

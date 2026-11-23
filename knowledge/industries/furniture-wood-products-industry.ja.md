@@ -31,7 +31,7 @@ faq:
   - q: マレーシアの家具の主要な顧客は誰ですか。
     a: 最大の単一市場はずば抜けて米国で――2024年には家具輸出の半分近くを占めました――次いでシンガポール、オーストラリア、日本、英国といった市場です。この米国への大きな集中は、同産業を米国の住宅需要や関税政策にも敏感にしています。
 lang: ja
-sourceContentHash: "156e73848cc57164"
+sourceContentHash: "32c9844fa3d127af"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -109,6 +109,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-1.webp
+    alt: ジョホール州クランのホームベスト家具店の目を引く赤と白の角地の建物。看板にはマレー語と中国語でPusat Perabot Home Best Furnitureと記され、晴れた青空を背にする
+    kind: actual
+    origin: third-party
+    subject: マレーシア、ジョホール州クランの町のジャラン・マンギスにある家具店Pusat Perabot Home Best
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Home_Best_Furniture_May_2024.jpg
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-2.webp
+    alt: サバ州サンダカンの片側開放の屋根付き製材所に、きれいに積み上げられた切りたての熱帯材の板が並び、蜂蜜色と赤褐色の木目が午後の日差しに照らされる
+    kind: actual
+    origin: third-party
+    subject: マレーシア、サバ州サンダカンの製材所で売られる切り出した熱帯材の板の山
+    credit: CEphoto / Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sale-of-timbers-01.jpg
 ---
 
 テキサスやカリフォルニアのどこかの家で、そのダイニングチェア、ベッドフレーム、本棚がマレーシアで作られた――それも、おそらくはひとつの町とその周辺で、かつて手袋やタイヤ用のラテックスを産出したゴムの木の木材から作られた――という見込みはかなり高い。マレーシアの家具・木材製品産業は、製造経済の静かな重量級の一つだ。華やかではないが、一貫して世界トップ10に入る輸出国であり、プランテーション部門の副産物を、世界中で売られる仕上げ品へと変えてきた。

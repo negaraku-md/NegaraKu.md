@@ -108,6 +108,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-1.webp
+    alt: The bold red-and-white corner building of the Home Best furniture store in Kluang, Johor, its signboards reading Pusat Perabot Home Best Furniture in Malay and Chinese against a clear blue sky.
+    kind: actual
+    origin: third-party
+    subject: A furniture retailer, Pusat Perabot Home Best, on Jalan Manggis in Kluang town, Johor, Malaysia
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Home_Best_Furniture_May_2024.jpg
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-2.webp
+    alt: Neatly stacked rows of freshly sawn tropical timber planks fill an open-sided roofed timber yard in Sandakan, Sabah, their warm honey and reddish-brown grain lit by afternoon sun.
+    kind: actual
+    origin: third-party
+    subject: Stacks of sawn tropical timber boards on sale at a timber yard in Sandakan, Sabah, Malaysia
+    credit: CEphoto / Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sale-of-timbers-01.jpg
 ---
 
 Somewhere in a home in Texas or California, there is a good chance the dining chair, bed frame or bookshelf was made in Malaysia — very possibly in and around one town, from the timber of a rubber tree that once produced latex for gloves and tyres. Malaysia's furniture and wood products industry is one of the quiet heavyweights of its manufacturing economy: not glamorous, but a consistent top-ten global exporter that has turned a by-product of the plantation sector into finished goods sold around the world.

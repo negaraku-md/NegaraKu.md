@@ -28,7 +28,7 @@ faq:
   - q: "장애인(OKU)으로 어떻게 등록합니까?"
     a: "정부 의료 전문가의 확인을 받은 말레이시아 국민은 의료 확인 보고서와 MyKad 사본(12세 미만 신청자는 출생증명서)을 갖춘 BPPOKU 등록 서식(개정 2/2019)을 JKM 창구나 MyDaftar OKU 포털을 통해 온라인으로 제출합니다. 승인된 신청자는 그 장애 범주를 표시한 장애인 카드(OKU Card)를 받습니다."
 lang: "ko"
-sourceContentHash: "f9a688b158d9b46c"
+sourceContentHash: "38bcfc6c21ff8b52"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Department_of_Social_Welfar
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Social Welfare Department (Jabatan Kebajikan Masyarakat, JKM) district office in Pontian, Johor, with a large ''Pejabat Kebajikan Masyarakat Daerah Pontian'' signboard and jkm.gov.my contact details'
+images:
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-1.webp
+    alt: 조호르바루에 있는 장애 아동 복지케어 협회의 간판과 시설. 지역 복지 서비스
+    kind: representative
+    origin: third-party
+    subject: 조호르바루의 장애 아동 복지케어센터
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Handicapped_and_Mentally_Disabled_Children_Association_Johor_Bahru.jpg
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-2.webp
+    alt: 조호르주 바투파핫에 있는 복지원. 입소형 복지시설
+    kind: actual
+    origin: third-party
+    subject: 조호르주 바투파핫의 복지원(rumah kebajikan)
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batu_Pahat_Welfare_House.jpg
 ---
 
 **사회복지청** — *Jabatan Kebajikan Masyarakat*, 어디서나 그 약칭 **JKM**으로 알려진 — 은 말레이시아인이 넘어질 때 그들을 받아 주는 연방 기관입니다. **1946년**에 처음에는 제2차 세계대전이 야기한 사회 문제에 대응하여 설립되었으며, 그 역할은 이후 **보호, 재활, 예방, 발전, 지역사회 통합**으로 확대되었습니다. JKM에 대한 검색 결과는 연도가 붙은 "지원 신청 방법" 블로그와 무미건조한 서비스 페이지가 지배합니다. 이 페이지는 대신 JKM을 하나의 제도로 설명하고, 그 서비스가 어떻게 전 생애 주기에 걸쳐 — 아동에서 장애인, 노인에 이르기까지 — 연결되는지를 설명합니다.

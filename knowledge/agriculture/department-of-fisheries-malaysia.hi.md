@@ -28,7 +28,7 @@ faq:
   - q: "DOF किस कानून का प्रशासन करता है?"
     a: "इसका प्रमुख कानून मत्स्य अधिनियम 1985 (Act 317) है, जो मलेशियाई जल में मछली पकड़ने और मत्स्य पालन के संरक्षण, प्रबंधन और विकास को कवर करता है, जिसमें लाइसेंसिंग, जलकृषि, जलीय स्तनधारी और कछुए शामिल हैं।"
 lang: "hi"
-sourceContentHash: "66daf0f263dfbde4"
+sourceContentHash: "815d7997668ec8b0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Fish-Market-Hall-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-1.webp
+    alt: कुआंतान, पहांग के एक मत्स्य परिसर में एक लंगर डाली नाव के पास ताज़ी मछलियों को टोकरों में छाँटते मज़दूर
+    kind: actual
+    origin: third-party
+    subject: कुआंतान, पहांग के एक मछली अवतरण स्थल पर ताज़ा पकड़ी गई मछली छाँटते मज़दूर
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BG_Fisheries_and_Frozen_Market_in_Kuantan_20260622_-_17.jpg
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-2.webp
+    alt: सबा के कुआला पेन्यू में मैंग्रोव से घिरी सुंगई सितोम्पोक पर लंगर डाले बड़े तैरते झींगा-फार्म पिंजरा मंच
+    kind: actual
+    origin: third-party
+    subject: सबा के सुंगई सितोम्पोक की मैंग्रोव नदी पर तैरते झींगा-फार्म के पिंजरे
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RiversOfSabah_SungaiSitompok-06.jpg
 ---
 
 मलेशियाई जल में कानूनी रूप से जाल डालने वाली हर नौका अंततः एक ही एजेंसी के प्रति जवाबदेह होती है। **मलेशिया मत्स्य विभाग (DOF)** — *Jabatan Perikanan Malaysia* — वह संघीय निकाय है जो देश के समुद्री एवं जलकृषि संसाधनों का प्रबंधन करता है और सभी मछली पकड़ने की गतिविधियों को लाइसेंस देता है। यह **कृषि एवं खाद्य सुरक्षा मंत्रालय (MAFS)** के अधीन काम करता है, **मत्स्य अधिनियम 1985 (Act 317)** का प्रशासन करता है, और इसका नेतृत्व **मत्स्य महानिदेशक** करते हैं। इसका मुख्यालय Wisma Tani, पुत्राजया में है, जिसे राज्य एवं जिला कार्यालयों के एक नेटवर्क का सहयोग प्राप्त है।

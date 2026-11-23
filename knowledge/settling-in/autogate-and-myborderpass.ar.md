@@ -35,7 +35,7 @@ faq:
     a: "نعم، دائماً. فالتطبيقات ورموز QR تسرّع البوابة، لكنها لا تحل محل وثيقة سفرك. وحتى أوائل 2026 لا يُعدّ أيٌّ من التطبيقات إلزامياً، ولا تزال Autogate والمنافذ اليدوية تقبل جواز السفر الورقي. احتفظ بصلاحية جواز سفر لا تقل عن ستة أشهر."
 
 lang: "ar"
-sourceContentHash: "dd15b2531cb454e6"
+sourceContentHash: "fe905739669d5516"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 3.0 de'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-1.webp
+    alt: قاعة الوصول في Kuala Lumpur International Airport Terminal 1، حيث ينهي المسافرون إجراءات الهجرة
+    kind: actual
+    origin: third-party
+    subject: قاعة الوصول في Kuala Lumpur International Airport Terminal 1
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arrival_hall_of_Kuala_Lumpur_International_Airport_Terminal_1_20250828_212245.jpg
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-2.webp
+    alt: مجمّع نقطة تفتيش الهجرة Bangunan Sultan Iskandar عند المعبر البرّي في Johor Bahru
+    kind: actual
+    origin: third-party
+    subject: مجمّع Bangunan Sultan Iskandar CIQ، المعبر البرّي من Johor Bahru إلى Singapore
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Sultan_Iskandar_2.jpg
 ---
 
 **Autogate** بوابة هجرة آلية: تقرأ الشريحة في جواز سفرك، وتطابق وجهك بالصورة، ثم تُفتح — من دون موظف، ومن دون ختم حبري، وعادةً في أقل من نصف دقيقة بكثير. ومسارات رمز QR الأحدث أسرع بعدُ، إذ تمرّر المسافر في نحو خمس إلى سبع ثوانٍ. ولأي شخص يعبر الحدود الماليزية بانتظام، فإن معرفة أي مسار يُسمح لك باستخدامه توفّر وقتاً حقيقياً.

@@ -31,7 +31,7 @@ faq:
     a: "Di antara banyak lainnya, MARDI telah melepas seri MR (seperti MR 297 dan MR 219), varietas wangi MRQ, dan KADARIA 1, padi hibrida pertama Malaysia."
 
 lang: "id"
-sourceContentHash: "9bb5af4c19ea1667"
+sourceContentHash: "77561bed3c65c105"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Main_entrance_of_MARDI.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/mardi-agricultural-research-institute/body-1.webp
+    alt: Barisan tanaman stroberi yang ditanam dalam palung substrat yang ditinggikan di dalam rumah kaca di Cameron Highlands
+    kind: representative
+    origin: third-party
+    subject: Budidaya stroberi terlindung di dalam rumah kaca di Cameron Highlands
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
+  - role: scene
+    src: /media/agriculture/mardi-agricultural-research-institute/body-2.webp
+    alt: Barisan bedengan tanam bermulsa perak dengan bibit muda dan naungan hujan rumah kaca di kebun penelitian Fakultas Pertanian, Universiti Putra Malaysia
+    kind: representative
+    origin: third-party
+    subject: Bedengan tanaman dan rumah kaca di kebun penelitian pertanian sebuah universitas Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0912).jpg
 ---
 
 Hampir setiap piring nasi lokal di Malaysia menelusuri asalnya ke varietas yang dimuliakan di stasiun ladang MARDI. Di balik padi, ternak unggas, buah tropis dan rak makanan olahan negara ini terletak satu institut federal yang tugasnya menerjemahkan sains menjadi hasil yang lebih tinggi.

@@ -32,7 +32,7 @@ faq:
     a: "Le Règlement de l'UE sur la déforestation définit les produits comme « sans déforestation » uniquement s'ils sont cultivés sur des terres non déboisées après le 31 décembre 2020 (Règlement (UE) 2023/1115, article 2). Il exige une géolocalisation au niveau de la parcelle — une cartographie de polygones pour les parcelles de plus de 4 hectares, un seul point GPS étant admis pour les parcelles de 4 hectares ou moins —, ce qui est techniquement difficile à produire par eux-mêmes pour des agriculteurs petits, souvent âgés et isolés."
 
 lang: "fr"
-sourceContentHash: "ebff3a00ed279872"
+sourceContentHash: "75a4f66def4cf783"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-1.webp
+    alt: Un récolteur d'une plantation de palmiers à huile porte sur l'épaule une longue perche à faucille parmi les palmiers matures, un régime de fruits frais coupé au sol, dans le district de Tenom, Sabah
+    kind: actual
+    origin: third-party
+    subject: Un ouvrier de plantation portant une perche de récolte parmi des palmiers à huile matures à Tenom, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenom-District_Sabah_Fruit-Bunch-Cutter-01.jpg
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-2.webp
+    alt: Gros plan de régimes de fruits frais rougeâtres mûrissant à la couronne d'un palmier à huile à Kimanis Estate, Sabah
+    kind: actual
+    origin: third-party
+    subject: Régimes de fruits frais mûrissant sur un palmier à huile à Kimanis Estate, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Palm-oil-fruits-of-Kimanis-Estate-02.jpg
 ---
 
 Un agriculteur de Bintulu qui peut parcourir de mémoire chaque limite de sa parcelle de palmier à huile doit désormais transformer ces « cartes mentales » en polygones GPS avant qu'un acheteur d'Europe ne touche à son fruit. Cet écart — entre connaître sa terre et la documenter à la satisfaction d'un auditeur — est l'histoire silencieuse derrière l'économie de l'huile de palme des petits exploitants de la Malaisie.

@@ -38,7 +38,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "fa3345cedd03dd8d"
+sourceContentHash: "8c0e702d9b4ea4d2"
 
 status: "published"
 aiAssisted: true
@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PENANG_ISLAND_FISHING_BOATS_MALAYSIA_JAN_2012_(6868741024).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-1.webp
+    alt: クアラ・ケダの漁村の高床式の家のそばで、川沿いに係留された漁船
+    kind: actual
+    origin: third-party
+    subject: クアラ・ケダの漁船と沿岸の漁村
+    credit: Marufish from Alor Setar, Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fishing_Village_at_Kuala_Kedah_(2638400370).jpg
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-2.webp
+    alt: サラワク州クチンのサトック週末市場に売り物として並べられた地元産の鮮魚の列
+    kind: actual
+    origin: third-party
+    subject: サラワク州クチンのサトック市場に並ぶ地元産の鮮魚
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fresh_fish_in_market_(27002392530).jpg
 ---
 
 マラッカ海峡と南シナ海沿岸の桟橋では、夜明け前から数千隻の沿岸漁船が漁に

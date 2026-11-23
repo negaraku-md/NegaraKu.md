@@ -31,7 +31,7 @@ faq:
     a: "Nhà sản xuất có thể tiếp thị trực tiếp cho người tiêu dùng qua các kênh của FAMA như Pasar Tani Kekal, Agrobazaar, My Farm Outlet và Gerai Buah-buahan Segar, hoặc tham gia các chương trình như Ladang Kontrak và RANTAI. Chi tiết tham gia được xác nhận tại fama.gov.my."
 
 lang: "vi"
-sourceContentHash: "63ddd6b5ce85bb78"
+sourceContentHash: "ce96afd3a2e0d14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Tani-Putrajaya.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fama-agricultural-marketing-authority/body-1.webp
+    alt: Một quầy xe đẩy chất đầy chôm chôm và bòn bon, phủ lá cờ Malaysia, tại Chợ Trung tâm (Central Market), Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Người bán trái cây rong trên phố bán chôm chôm và bòn bon ở Kuala Lumpur
+    credit: Mohd Fazlin Mohd Effendy Ooi from Kuala Lumpur, Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rambutan_%26_Langsat_Stall_(2749936426).jpg
+  - role: scene
+    src: /media/agriculture/fama-agricultural-marketing-authority/body-2.webp
+    alt: Một quầy chợ bày măng tây, bơ, xoài và bí đỏ với giá niêm yết bằng ringgit tại Kea Farm, Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Nông sản địa phương tươi được bày bán tại một quầy chợ Kea Farm, Cameron Highlands
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kea_Farm_produce_2.jpg
 ---
 
 Một nông dân trồng rau ở [Cameron Highlands](/vi/tourism/cameron-highlands-visitor-guide) có thể trồng ra những sản phẩm tốt nhất, nhưng giá mà họ nhận được tại ruộng thường khác xa với giá tại quầy hàng ở thành phố. Chính khoảng cách đó — giữa đồng ruộng và bàn ăn — là công việc của một cơ quan theo luật định ít khi được nhắc tên nhưng lại thường xuyên được chạm đến qua thành quả của nó.

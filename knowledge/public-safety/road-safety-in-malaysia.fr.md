@@ -35,7 +35,7 @@ faq:
     a: "L'Institut malaisien de recherche sur la sécurité routière (MIROS), créé en 2007, se charge de la recherche fondée sur les données, tandis que la Division de la sécurité routière de la JPJ (anciennement JKJR) pilote la sensibilisation et la prévention. Les deux relèvent du Ministère des Transports."
 
 lang: "fr"
-sourceContentHash: "681af11f157961d9"
+sourceContentHash: "6230ba2101db75a9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -118,6 +118,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-1.webp
+    alt: Une vue vers le nord le long de la Jalan Kluang-Kota Tinggi à deux voies (route fédérale 91) près de Kluang, Johor
+    kind: actual
+    origin: third-party
+    subject: Route fédérale à deux voies (Route 91), Kluang, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151246.jpg
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-2.webp
+    alt: Un passage piéton marqué à un carrefour routier de nuit à Kota Damansara, Selangor
+    kind: actual
+    origin: third-party
+    subject: Passage piéton à un carrefour routier, Kota Damansara, Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Persiaran_Surian-Persiaran_Kenanga_Intersection_Pedestrian_Crossing,_Kota_Damansara_20240125_192828.jpg
 ---
 
 Chaque jour, environ 18 vies sont perdues sur les routes de Malaisie. Ce chiffre fait des routes l'une des causes les plus importantes de mort non naturelle dans le pays, et la principale raison pour laquelle des lois, des caméras et des agences dédiées ont été déployées pour y remédier.

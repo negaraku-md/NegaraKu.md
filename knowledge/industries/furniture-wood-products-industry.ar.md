@@ -31,7 +31,7 @@ faq:
   - q: "من هم أبرز عملاء الأثاث الماليزي؟"
     a: "الولايات المتحدة هي أكبر سوق منفردة بفارق كبير — تلقّت قرابة نصف صادرات الأثاث في 2024 — تليها أسواق مثل سنغافورة وأستراليا واليابان والمملكة المتحدة. وهذا التركّز الأمريكي الثقيل يجعل الصناعة أيضًا حسّاسة للطلب على الإسكان الأمريكي ولسياسة التعريفات."
 lang: ar
-sourceContentHash: "156e73848cc57164"
+sourceContentHash: "32c9844fa3d127af"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -109,6 +109,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-1.webp
+    alt: المبنى الزاوي الأحمر والأبيض الزاهي لمتجر الأثاث Home Best في Kluang، Johor، وعلى لافتاته عبارة Pusat Perabot Home Best Furniture بالملايوية والصينية أمام سماء زرقاء صافية.
+    kind: actual
+    origin: third-party
+    subject: متجر أثاث، Pusat Perabot Home Best، في Jalan Manggis بمدينة Kluang، Johor، ماليزيا
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Home_Best_Furniture_May_2024.jpg
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-2.webp
+    alt: صفوف مرتّبة بعناية من ألواح الأخشاب الاستوائية الطازجة المنشورة تملأ ساحة أخشاب مسقوفة مفتوحة الجوانب في Sandakan، Sabah، وتتلألأ خطوط حبوبها العسلية الدافئة والبنّية المحمرّة في شمس العصر.
+    kind: actual
+    origin: third-party
+    subject: أكوام من ألواح الأخشاب الاستوائية المنشورة معروضة للبيع في ساحة أخشاب في Sandakan، Sabah، ماليزيا
+    credit: CEphoto / Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sale-of-timbers-01.jpg
 ---
 
 في مكان ما داخل منزل في تكساس أو كاليفورنيا، ثمة احتمال كبير أن كرسي الطعام أو إطار السرير أو رفّ الكتب قد صُنع في ماليزيا — وربما في بلدة واحدة وما حولها، من خشب شجرة مطّاط كانت يومًا تنتج اللاتكس للقفازات والإطارات. فصناعة الأثاث ومنتجات الخشب في ماليزيا أحد الأثقال الهادئة في اقتصادها التصنيعي: ليست برّاقة، لكنها مصدّر عالمي ضمن العشرة الأوائل باستمرار، حوّل منتجًا ثانويًا من قطاع المزارع إلى سلع منتهية تُباع حول العالم.

@@ -29,7 +29,7 @@ faq:
     a: "Nó đã được thay thế bởi Chỉ thị NADMA số 1, được phê duyệt tại cuộc họp của Hội đồng An ninh Quốc gia (MKN) do Thủ tướng chủ trì vào ngày 1 tháng 8 năm 2024."
 
 lang: "vi"
-sourceContentHash: "cb54d0894eec9ad2"
+sourceContentHash: "626601c85061b283"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-1.webp
+    alt: Một đội cứu hộ đường thủy trên một chiếc thuyền đáy bằng di chuyển qua vùng nước lũ trong một chiến dịch tìm kiếm cứu nạn
+    kind: representative
+    origin: third-party
+    subject: Đội cứu hộ lũ lụt trên một chiếc thuyền trong một chiến dịch tìm kiếm (ảnh minh họa)
+    credit: Marvin Nauman, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_32076_-_A_water_rescue_team_in_a_boat_searching_for_people_in_Oklahoma.jpg
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-2.webp
+    alt: Một bức tường bảo vệ bằng bao cát được xếp cao để ngăn nước lũ đang dâng quanh một tòa nhà
+    kind: representative
+    origin: third-party
+    subject: Rào chắn chống lũ bằng bao cát (ảnh minh họa)
+    credit: Jocelyn Augustino, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_34762_-_Residents_building_a_sandbag_wall_in_flood_waters_in_Arkansas.jpg
 ---
 
 Khi lũ lụt lớn ập vào nhiều tiểu bang cùng lúc, ai là người bấm nút để điều phối quân đội, cứu hỏa, cảnh sát và tình nguyện viên dưới một mệnh lệnh duy nhất? Tại Malaysia, câu trả lời là NADMA.

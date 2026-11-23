@@ -34,7 +34,7 @@ faq:
     a: "نعم. يمنح القسم 4(2)(d) SUHAKAM صلاحية زيارة أي مكان احتجاز أو مؤسسة أو مكان آخر، وتقديم التوصيات اللازمة. وينص القسم 4(3)، الذي أُدرج بتعديل 2024، على أنه لا يجوز للمسؤول عن المكان المعني رفض هذه الزيارة ما دامت الإجراءات المقررة مستوفاة."
 
 lang: "ar"
-sourceContentHash: "41da53bbfb03e372"
+sourceContentHash: "a19e277de86aa738"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_20260505_09.jp
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Menara TH Perdana on Jalan Sultan Ismail, Kuala Lumpur — the office tower that houses the headquarters of the Human Rights Commission of Malaysia (SUHAKAM). Confirmed as Menara TH Perdana by the building signage and the Commons category; SUHAKAM''s own signage is not visible, so the shot stands in for its HQ building'
+images:
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-1.webp
+    alt: مشاركون في تجمّع سلمي للمجتمع المدني في Kuala Lumpur، يوضّح سياق حقوق الإنسان
+    kind: representative
+    origin: third-party
+    subject: تجمّع للمجتمع المدني في Kuala Lumpur (سياق حقوق الإنسان)
+    credit: Khairil Yusof / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bersih_4_rally_Human_Rights_Defender.jpg
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-2.webp
+    alt: تجمّع عامّ سلمي يملأ أحد شوارع Kuala Lumpur ليلاً، يوضّح الحريات التي تشرف عليها لجنة حقوق الإنسان
+    kind: representative
+    origin: third-party
+    subject: تجمّع عامّ سلمي في أحد شوارع Kuala Lumpur (سياق حقوق الإنسان)
+    credit: Apa masalah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muslim_protesters_performing_Ishah_prayer_during_Bersih_4_protests.jpg
 ---
 
 حين يقدّم شخص ما شكوى بانتهاك لحقوق الإنسان إلى SUHAKAM، فما الذي يمكن للجنة فعله تحديدًا وما الذي لا يمكنها فعله؟ الجواب ليس بلاغةً — بل يكمن في قانون موجز صادر عام 1999 يحدد بدقة أربع وظائف، وسلسلة من الصلاحيات التحقيقية، وبضعة خطوط حمراء لا يجوز تجاوزها.

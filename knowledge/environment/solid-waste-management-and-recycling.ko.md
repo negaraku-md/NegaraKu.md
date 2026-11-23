@@ -31,7 +31,7 @@ faq:
     a: "대부분은 매립지로 갑니다. 말레이시아는 135개 매립지 — 114개 개방형 투기장과 22개 위생 매립지 — 를 운영하며, 매립지가 여전히 국가의 지배적 처리 방식입니다."
 
 lang: "ko"
-sourceContentHash: "1d664666863d04f5"
+sourceContentHash: "6f03b4a914139a0d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -113,6 +113,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-1.webp
+    alt: 슬랑오르주 훌루슬랑오르 캄풍 스파캇 인근의 부킷타가르 위생매립지
+    kind: actual
+    origin: third-party
+    subject: 슬랑오르주 훌루슬랑오르의 부킷타가르 위생매립지
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Tagar_Landfill,_Kampung_Sepakat_20231226_141258.jpg
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-2.webp
+    alt: 사바주 쿠닷에서 지방의회가 운영하는 시 쓰레기 수거차
+    kind: actual
+    origin: third-party
+    subject: 사바주 쿠닷의 시 쓰레기 수거차
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat_Sabah_Garbage-Collection-Truck-01.jpg
 ---
 
 조호르에서 쓰레기를 버리면 연방정부의 소관이 되고, 페낭에서 똑같은 쓰레기를 버리면 여전히 지방의회의 소관입니다. 그것이 말레이시아가 고형폐기물을 관리하는 방식의 핵심적 특이함입니다 — 위풍당당한 하나의 연방법이 있지만, 오직 채택에 동의한 곳에서만 발효됩니다.

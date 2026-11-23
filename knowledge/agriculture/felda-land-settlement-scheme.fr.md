@@ -32,7 +32,7 @@ faq:
     a: "Felda Global Ventures (aujourd'hui FGV Holdings) est le bras d'investissement qui gère les plantations de FELDA. Elle a été cotée à la Bursa Malaysia le 28 juin 2012 et, au moment de l'introduction en bourse, gérait environ 500,000 hectares exploités par quelque 112,600 colons."
 
 lang: "fr"
-sourceContentHash: "827c6da5e0f2c397"
+sourceContentHash: "ecd41197a456d74c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:FELDA_Ayer_Hitam_-_Entrance_Gate.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-1.webp
+    alt: Une route tranquille bordée de palmiers royaux et de maisons de colons dans le programme FELDA Bukit Batu, Kulai, Johor
+    kind: actual
+    origin: third-party
+    subject: Maisons de colons le long d'une route bordée de palmiers à FELDA Bukit Batu, Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FELDA_Bukit_Batu.jpg
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-2.webp
+    alt: L'huilerie de palme Fajar Harapan et ses cheminées dans le complexe de colonisation FELDA Sahabat, Sabah
+    kind: actual
+    origin: third-party
+    subject: Huilerie de palme Fajar Harapan dans le complexe FELDA Sahabat, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Felda-Sahabat_Cenderawasih_Sabah_Kilang-Sawit-Fajar-Harapan-03.jpg
 ---
 
 Imaginez une famille pauvre déplacée vers une forêt fraîchement défrichée, à qui l'on remet une parcelle de terre et un salaire mensuel, puis à qui l'on demande d'attendre des années jusqu'à ce que ses hévéas ou ses palmiers à huile arrivent à maturité. Telle fut l'offre qui a changé la vie de plus de 100,000 familles rurales malaisiennes — et son moteur fut FELDA.

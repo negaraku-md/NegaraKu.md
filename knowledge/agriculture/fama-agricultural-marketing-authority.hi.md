@@ -31,7 +31,7 @@ faq:
     a: "उत्पादक स्थायी किसान बाज़ार, Agrobazaar, My Farm Outlet और ताज़ा फल स्टॉल जैसे FAMA चैनलों के माध्यम से सीधे उपभोक्ताओं को विपणन कर सकते हैं, या अनुबंध खेती और RANTAI जैसे कार्यक्रमों में भाग ले सकते हैं। भागीदारी का विवरण fama.gov.my पर पुष्ट किया जाता है।"
 
 lang: "hi"
-sourceContentHash: "63ddd6b5ce85bb78"
+sourceContentHash: "ce96afd3a2e0d14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Tani-Putrajaya.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fama-agricultural-marketing-authority/body-1.webp
+    alt: कुआलालंपुर के सेंट्रल मार्केट में मलेशियाई झंडे से सजी, रामबूतान और लंगसत से भरी एक ठेला दुकान
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर में रामबूतान और लंगसत बेचता सड़क किनारे फल विक्रेता
+    credit: Mohd Fazlin Mohd Effendy Ooi from Kuala Lumpur, Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rambutan_%26_Langsat_Stall_(2749936426).jpg
+  - role: scene
+    src: /media/agriculture/fama-agricultural-marketing-authority/body-2.webp
+    alt: कैमरन हाइलैंड्स के किआ फार्म में रिंगगिट में कीमत लगी शतावरी, एवोकाडो, आम और कद्दू प्रदर्शित करता एक बाज़ार स्टॉल
+    kind: actual
+    origin: third-party
+    subject: कैमरन हाइलैंड्स के किआ फार्म बाज़ार स्टॉल पर बिकती ताज़ी स्थानीय उपज
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kea_Farm_produce_2.jpg
 ---
 
 [कैमरन हाइलैंड्स](/tourism/cameron-highlands-visitor-guide) का एक सब्ज़ी किसान भले ही बेहतरीन उपज उगाए, फिर भी

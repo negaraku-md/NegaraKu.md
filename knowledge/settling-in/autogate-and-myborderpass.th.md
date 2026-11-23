@@ -35,7 +35,7 @@ faq:
     a: "ต้องมีเสมอ แอปและคิวอาร์โค้ดช่วยเร่งที่ประตู แต่ไม่ได้แทนที่เอกสารการเดินทางของคุณ ณ ต้นปี 2026 ไม่มีแอปใดเป็นข้อบังคับ และ Autogate กับเคาน์เตอร์แบบใช้เจ้าหน้าที่ยังรับหนังสือเดินทางเล่มจริง รักษาอายุหนังสือเดินทางให้เหลืออย่างน้อยหกเดือน"
 
 lang: "th"
-sourceContentHash: "dd15b2531cb454e6"
+sourceContentHash: "fe905739669d5516"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 3.0 de'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-1.webp
+    alt: โถงผู้โดยสารขาเข้าที่อาคารผู้โดยสาร 1 ท่าอากาศยานนานาชาติกัวลาลัมเปอร์ ซึ่งผู้โดยสารผ่านพิธีการตรวจคนเข้าเมือง
+    kind: actual
+    origin: third-party
+    subject: โถงผู้โดยสารขาเข้าที่อาคารผู้โดยสาร 1 ท่าอากาศยานนานาชาติกัวลาลัมเปอร์
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arrival_hall_of_Kuala_Lumpur_International_Airport_Terminal_1_20250828_212245.jpg
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-2.webp
+    alt: อาคารด่านตรวจคนเข้าเมืองสุลต่านอิสกันดาร์ที่ด่านพรมแดนทางบกยะโฮร์บาห์รูไปยังสิงคโปร์
+    kind: actual
+    origin: third-party
+    subject: อาคารด่าน CIQ สุลต่านอิสกันดาร์ ด่านพรมแดนทางบกยะโฮร์บาห์รูไปยังสิงคโปร์
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Sultan_Iskandar_2.jpg
 ---
 
 **Autogate** คือประตูตรวจคนเข้าเมืองอัตโนมัติ: อ่านชิปในหนังสือเดินทางของคุณ จับคู่ใบหน้าของคุณกับรูปถ่าย แล้วเปิด — ไม่มีเจ้าหน้าที่ ไม่มีตราประทับหมึก โดยปกติใช้เวลาไม่ถึงครึ่งนาที ช่องคิวอาร์โค้ดใหม่เร็วยิ่งกว่า ผ่านผู้เดินทางได้ในราวห้าถึงเจ็ดวินาที สำหรับใครก็ตามที่ข้ามพรมแดนมาเลเซียเป็นประจำ การรู้ว่าคุณได้รับอนุญาตให้ใช้ช่องใดช่วยประหยัดเวลาได้จริง

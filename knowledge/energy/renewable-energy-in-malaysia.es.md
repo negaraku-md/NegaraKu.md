@@ -27,7 +27,7 @@ faq:
   - q: "¿Cómo puede una empresa comprar energía renovable sin instalar sus propios paneles?"
     a: "El Corporate Green Power Programme (CGPP) permite a un consumidor corporativo firmar un acuerdo virtual de compra de energía con un productor de energía solar por la energía renovable y sus atributos verdes, con un suministro firme respaldado por la empresa de servicios públicos. Su cuota de 800 MW quedó totalmente suscrita en noviembre de 2023. Las corporaciones que no la alcanzaron pueden usar el Corporate Renewable Energy Supply Scheme (CRESS), lanzado en septiembre de 2024, que entrega energía verde a través de la red de TNB a cambio de un Cargo de Acceso al Sistema."
 lang: "es"
-sourceContentHash: "d9838f1e57d307b7"
+sourceContentHash: "50784100ca6e3481"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -119,6 +119,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-1.webp
+    alt: Largas hileras de paneles solares fotovoltaicos de color azul oscuro sobre bastidores metálicos bajos a lo largo de un campo de hierba despejado, vallado y extendiéndose hacia una lejana línea de árboles bajo un cielo azul luminoso con nubes dispersas
+    kind: actual
+    origin: third-party
+    subject: una planta solar fotovoltaica montada en suelo en Sungai-Sungai, Sabah, que genera electricidad para la red rural
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-01.jpg
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-2.webp
+    alt: Una presa curva que retiene un embalse verde entre colinas boscosas, con un canal aliviadero y estructuras de toma en su paramento, y densa selva tropical cubriendo las laderas circundantes
+    kind: actual
+    origin: third-party
+    subject: la presa y el embalse hidroeléctricos de Pergau en Kelantan, un proyecto de energía hidroeléctrica renovable de la Malasia peninsular
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pergau_Dam.jpg
 ---
 
 Si ha intentado informarse sobre la energía renovable (RE) en Malasia, probablemente se haya topado con tres cifras de meta distintas —31%, 40% y 70%— y con un muro de siglas: FiT, NEM, LSS, CGPP, CRESS, SELCO. Nada de ello es contradictorio; simplemente está repartido entre media docena de organismos, cada uno documentando solo su propio rincón. Esta guía reúne todo el panorama en un solo lugar: las metas nacionales y las hojas de ruta que las sustentan, la familia de esquemas y —la parte que la mayoría de las fuentes omite— qué programa está realmente pensado para un propietario de vivienda, una empresa o un desarrollador.

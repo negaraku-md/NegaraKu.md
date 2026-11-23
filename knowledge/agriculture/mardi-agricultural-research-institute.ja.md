@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9bb5af4c19ea1667"
+sourceContentHash: "77561bed3c65c105"
 
 status: "published"
 aiAssisted: true
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Main_entrance_of_MARDI.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/mardi-agricultural-research-institute/body-1.webp
+    alt: キャメロンハイランドの温室内で、嵩上げした培地トラフに植えられて並ぶイチゴの株
+    kind: representative
+    origin: third-party
+    subject: キャメロンハイランドの温室で行われる施設イチゴ栽培
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
+  - role: scene
+    src: /media/agriculture/mardi-agricultural-research-institute/body-2.webp
+    alt: マレーシア・プトラ大学農学部の研究農場に並ぶ、銀色マルチを張った苗床の若い苗と温室の雨よけ
+    kind: representative
+    origin: third-party
+    subject: マレーシアの大学の農業研究農場にある栽培ベッドと温室
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0912).jpg
 ---
 
 マレーシアで供される地元産の米は、そのほぼすべてがMARDIの試験場で育種された品種にたどり着く。この国の水稲、養鶏、熱帯果実、そして加工食品の棚の背後には、科学をより高い収量へと変える一つの連邦研究機関が控えている。

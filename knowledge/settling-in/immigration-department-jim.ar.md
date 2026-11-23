@@ -27,7 +27,7 @@ faq:
   - q: "كم يكلّف جواز السفر الجديد صالحية عشر سنوات؟"
     a: "يكلّف جواز السفر صالحية عشر سنوات RM350 لمقدّمي الطلبات من سن 18–59، وRM175 لكبار السن 60 فأكثر، وهو مجاني لحاملي بطاقة OKU (ذوي الإعاقة) من سن 18 فأكثر، بموجب أمر الرسوم (جوازات السفر والتأشيرات) (التعديل) 2026."
 lang: "ar"
-sourceContentHash: "050995b2068c647c"
+sourceContentHash: "d38b062bdbd5abc0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-1.webp
+    alt: المكتب الفرعي لدائرة الهجرة في Semporna، Sabah
+    kind: actual
+    origin: third-party
+    subject: مكتب فرعي لدائرة الهجرة (Jabatan Imigresen) في Semporna، Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semporna_Sabah_Jabatan-Imigresen-01.jpg
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-2.webp
+    alt: ختم جواز سفر من الهجرة الماليزية، صادر عند نقطة تفتيش تابعة لدائرة الهجرة
+    kind: actual
+    origin: third-party
+    subject: ختم جواز سفر للدخول/الخروج من الهجرة الماليزية
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Passport_Stamp_Bukit_Berapit_1.jpg
 ---
 
 تقف دائرة واحدة خلف كل وثيقة تقريباً تتيح للشخص عبور حدود ماليزيا أو العيش فيها أو العمل بها. **دائرة الهجرة الماليزية** — *Jabatan Imigresen Malaysia* (**JIM**) — هي الهيئة التابعة لـ**وزارة الداخلية** التي تصدر جوازات السفر للمواطنين، وتمنح التأشيرات والتصاريح للأجانب، وتزوّد كل منافذ المطارات والحدود البرية بالموظفين، وتنفّذ قوانين الهجرة. وهي تخدم المواطنين الماليزيين والمقيمين الدائمين والزوار الأجانب، وتعمل منذ **21 يوليو 1922**. والعقبة أمام الوافدين الجدد أن خدماتها موزعة على عدة مواقع رسمية — وهذه الصفحة ترسم خريطتها.

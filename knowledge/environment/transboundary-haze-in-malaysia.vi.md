@@ -32,7 +32,7 @@ faq:
     a: "Nguyên nhân chính là các đám cháy đất và rừng — bao gồm cháy đất than bùn và việc phát quang đất bằng cách đốt cho nông nghiệp — ở Sumatra và Kalimantan, trở nên thường xuyên và tồi tệ hơn trong mùa khô chịu ảnh hưởng của hiện tượng El Nino."
 
 lang: "vi"
-sourceContentHash: "f6dc09ddaaf77bcf"
+sourceContentHash: "043be6570dc41e09"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-1.webp
+    alt: Không khí mù mịt, tầm nhìn thấp trên một con phố bên cạnh một phòng khám y tế ở Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Tình trạng khói mù gần một phòng khám y tế ở Kuala Lumpur
+    credit: SNN95 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2026_Haze_at_Kuala_Lumpur_Health_Clinic_01.jpg
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-2.webp
+    alt: Lớp khói mù xuyên biên giới dày đặc che khuất những ngọn đồi vốn thường nhìn thấy ở đường chân trời
+    kind: representative
+    origin: third-party
+    subject: Khói mù xuyên biên giới Đông Nam Á năm 2013 bao phủ Singapore (ảnh minh họa)
+    credit: Oliverlyc. / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Effects_of_2013_Southeast_Asian_haze_on_Singapore.jpg
 ---
 
 Mỗi khi gió mùa đổi hướng vào mùa khô, bầu trời ở Thung lũng Klang, Sarawak và phần lớn Bán đảo có thể chuyển sang màu xám chỉ trong vài ngày — mặt trời trở nên mờ mịt, mùi khói lọt vào nhà, và điện thoại reo lên với các cảnh báo API. Đây là khói mù xuyên biên giới: ô nhiễm không hoàn toàn được tạo ra trong nước, nhưng được hàng triệu người dân Malaysia hít vào mỗi năm.

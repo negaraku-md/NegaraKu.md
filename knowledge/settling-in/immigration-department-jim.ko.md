@@ -27,7 +27,7 @@ faq:
   - q: "새 10년 여권은 얼마입니까?"
     a: "10년 여권은 수수료(여권 및 비자)(개정) 명령 2026(Fees (Passports and Visas) (Amendment) Order 2026)에 따라 18~59세 신청자에게 RM350, 60세 이상 고령자에게 RM175이며, 18세 이상 OKU(장애인) 카드 소지자에게는 무료입니다."
 lang: "ko"
-sourceContentHash: "050995b2068c647c"
+sourceContentHash: "d38b062bdbd5abc0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-1.webp
+    alt: 사바주 셈포르나의 이민국(Jabatan Imigresen) 지국 사무소
+    kind: actual
+    origin: third-party
+    subject: 사바주 셈포르나의 이민국(Jabatan Imigresen) 지국
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semporna_Sabah_Jabatan-Imigresen-01.jpg
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-2.webp
+    alt: 이민국 검문소에서 찍은 말레이시아 출입국 여권 스탬프
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 출입국 여권 스탬프
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Passport_Stamp_Bukit_Berapit_1.jpg
 ---
 
 한 기관이 사람이 말레이시아 국경을 넘거나, 이곳에 살거나, 이곳에서 일하게 해주는 거의 모든 문서 뒤에 서 있습니다. **말레이시아 이민국** — *Jabatan Imigresen Malaysia*(**JIM**) — 은 **내무부** 산하 기관으로, 시민에게 여권을 발급하고, 외국인에게 비자와 패스를 부여하며, 모든 공항과 육상 국경 창구에 인력을 배치하고, 이민법을 집행합니다. 말레이시아 국민, 영주권자, 외국인 방문객을 대상으로 하며, **1922년 7월 21일**부터 운영되어 왔습니다. 새로 오는 사람에게 함정은 그 서비스가 여러 공식 웹사이트에 흩어져 있다는 점입니다 — 이 페이지가 그것들을 지도로 정리합니다.

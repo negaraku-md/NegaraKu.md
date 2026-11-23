@@ -82,6 +82,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Empty_Singapore-Malaysia_Ca
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Johor Bahru skyline and the Johor–Singapore Causeway at night'
+
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-johor-bahru/body-1.webp
+    alt: Stalls of fresh produce at the weekly market in Bukit Indah, Johor Bahru
+    kind: actual
+    origin: third-party
+    subject: Weekly fresh-produce market at Bukit Indah, Johor Bahru
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wednesday_market,_Bukit_Indah,_Johor_Bahru,_Johor,_Malaysia.jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-johor-bahru/body-2.webp
+    alt: Shops and shoppers along Jalan Wong Ah Fook, the main commercial street in central Johor Bahru
+    kind: actual
+    origin: third-party
+    subject: Jalan Wong Ah Fook, the main commercial street of Johor Bahru
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wong_Ah_Fook_Street.jpg
 ---
 
 A worker on Malaysia's full national minimum wage, RM1,700 a month, can live two

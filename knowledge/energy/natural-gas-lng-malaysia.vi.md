@@ -34,7 +34,7 @@ faq:
     a: "Tiếp cận Bên thứ ba (TPA) cho phép các nhà vận chuyển đủ điều kiện, không chỉ PETRONAS, đặt công suất trên các terminal tái hóa khí, các đường ống truyền tải, và các đường ống phân phối theo cùng điều kiện. Nó bắt đầu vào ngày 16 tháng 1 năm 2017 theo Gas Supply (Amendment) Act 2016 và do Ủy ban Năng lượng quản lý."
 
 lang: "vi"
-sourceContentHash: "4e24ddc5a51e8881"
+sourceContentHash: "5679eeb98bbb3cbf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/natural-gas-lng-malaysia/body-1.webp
+    alt: Một con tàu chở khí thiên nhiên hóa lỏng lớn đang chạy trên vùng biển rộng, boong dài của nó xếp đầy những cấu trúc bồn chứa cách nhiệt lớn và hệ thống đường ống, để lại vệt nước dưới bầu trời quang đãng
+    kind: representative
+    origin: third-party
+    subject: Một tàu chở khí thiên nhiên hóa lỏng thuộc loại vận chuyển LNG của Malaysia đến các khách mua nước ngoài
+    credit: Rhetos / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Minerva_Amorgos_(LNG-Tanker).jpg
+  - role: scene
+    src: /media/energy/natural-gas-lng-malaysia/body-2.webp
+    alt: Một nhà ga xử lý khí trên bờ trải rộng với những tháp chưng cất cao, các bồn chứa hình cầu màu bạc, ống đốt khí thừa và mạng lưới đường ống dày đặc, nằm trên khu đất ven biển đã phát quang với những ngọn đồi phía sau
+    kind: actual
+    origin: third-party
+    subject: Nhà ga Dầu khí Sabah (SOGT) tại Kimanis, Sabah, một cơ sở xử lý khí trên bờ của Petronas
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-30.jpg
 ---
 
 Mỗi lần một nhà máy điện ở Selangor khởi động hoặc một nhà máy găng tay ở Penang đốt nóng các lò của mình, lượng khí đốt đó rất có thể đã bắt đầu hành trình của nó cách xa hàng trăm kilômét, ngoài khơi Terengganu hoặc bên kia Biển Đông ở Sarawak. Malaysia vừa là một nhà xuất khẩu khí đốt hạng nặng vừa, ngày càng nhiều, là một nhà nhập khẩu khí đốt, và các đường ống cùng terminal dung hòa hai sự thật đó nằm trong số các tài sản năng lượng giá trị nhất của đất nước.

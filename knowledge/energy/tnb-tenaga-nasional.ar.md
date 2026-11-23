@@ -30,7 +30,7 @@ faq:
     a: "تغطي عمليات TNB الأساسية شبه جزيرة ماليزيا. أما في سابا ولابوان فيتولى إمداد الكهرباء شركة Sabah Electricity Sdn. Bhd.، التي تملك TNB أغلبية أسهمها (82.75%) وتملك حكومة ولاية سابا 17.24%. وتُزوَّد ساراواك بالكهرباء من مرفق مستقل منفصل، وليس TNB."
 
 lang: "ar"
-sourceContentHash: "b6b33bf3419779ac"
+sourceContentHash: "3db20cd889aecd5a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Power_Station.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-1.webp
+    alt: مبنى مكاتب بعلامة TNB يحمل اسم Tenaga Nasional وشعارها على واجهته، بواجهة منسّقة الحدائق وموقف سيارات تحت سماء زرقاء مشرقة
+    kind: actual
+    origin: third-party
+    subject: مكتب لشركة Tenaga Nasional Berhad (TNB) في Alor Setar، Kedah، أحد مباني الخدمة التابعة للمرفق الوطني في الولاية
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TNB_Alor_Setar.jpg
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-2.webp
+    alt: أبراج نقل كهرباء شبكية فولاذية مشدودة بكابلات عالية الجهد تمتدّ عبر ممرّ بحري واسع بمحاذاة جسر طرقي طويل، مع جزيرة وتلال البرّ الرئيسي في البعيد
+    kind: actual
+    origin: third-party
+    subject: أبراج نقل عالية الجهد لـ TNB تحمل خطوط الكهرباء عبر الممرّ المائي بجانب جسر Penang باتجاه Pulau Gazumbo
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge,_TNB_transmission_towers,_and_Pulau_Gazumbo_from_The_Waterfront_Shoppes_rooftop_(261108).jpg
 ---
 
 في كل مرة يُضاء فيها مصباح في منزل أو مصنع أو مركز بيانات في شبه جزيرة ماليزيا، يُرجَّح أن تلك الإلكترونات تتدفق عبر شبكة تملكها شركة واحدة: تيناغا ناسيونال برهاد. وهي ليست مجرد مولِّد للطاقة، بل العمود الفقري لمنظومة الطاقة الوطنية — من محطة التوليد حتى عدّاد الكهرباء على الجدار.

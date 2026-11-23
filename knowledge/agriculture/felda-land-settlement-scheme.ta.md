@@ -32,7 +32,7 @@ faq:
     a: "Felda Global Ventures (இப்போது FGV Holdings) என்பது FELDA தோட்டங்களை நிர்வகிக்கும் முதலீட்டுப் பிரிவு ஆகும். இது 2012 ஜூன் 28 அன்று Bursa Malaysia-வில் பட்டியலிடப்பட்டது; IPO நேரத்தில் சுமார் 112,600 குடியேறிகளால் பயிரிடப்பட்ட சுமார் 500,000 ஹெக்டேரை நிர்வகித்தது."
 
 lang: "ta"
-sourceContentHash: "827c6da5e0f2c397"
+sourceContentHash: "ecd41197a456d74c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:FELDA_Ayer_Hitam_-_Entrance_Gate.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-1.webp
+    alt: ஜொகூர், குலாய், ஃபெல்டா புக்கிட் பத்து திட்டத்தில் அரச பனைமரங்களும் குடியேற்றவாசிகளின் வீடுகளும் வரிசையாக அமைந்த ஒரு அமைதியான சாலை
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர், ஃபெல்டா புக்கிட் பத்துவில் பனைமரங்கள் சூழ்ந்த சாலையோரம் அமைந்த குடியேற்றவாசிகளின் வீடுகள்
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FELDA_Bukit_Batu.jpg
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-2.webp
+    alt: சபா, ஃபெல்டா சாஹாபாட் குடியேற்ற வளாகத்தில் புகைபோக்கிகளுடன் கூடிய ஃபஜார் ஹரபான் பாமாயில் ஆலை
+    kind: actual
+    origin: third-party
+    subject: சபா, ஃபெல்டா சாஹாபாட் வளாகத்தில் உள்ள ஃபஜார் ஹரபான் பாமாயில் ஆலை
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Felda-Sahabat_Cenderawasih_Sabah_Kilang-Sawit-Fajar-Harapan-03.jpg
 ---
 
 புதிதாக வெட்டப்பட்ட ஒரு காட்டுக்கு இடம்பெயர்க்கப்பட்ட ஒரு ஏழைக் குடும்பத்தை கற்பனை செய்யுங்கள் — அவர்களுக்கு ஒரு நிலத்துண்டும் மாதாந்திர ஊதியமும் வழங்கப்பட்டு, பின்னர் அவர்களின் ரப்பர் அல்லது பாமாயில் மரங்கள் முதிர்ச்சியடையும் வரை பல ஆண்டுகள் காத்திருக்கச் சொல்லப்பட்டது. மலேசியாவின் 100,000-க்கும் மேற்பட்ட கிராமப்புற குடும்பங்களின் வாழ்க்கையை மாற்றிய வாய்ப்பு அதுவே — அதன் இயந்திரம் FELDA.

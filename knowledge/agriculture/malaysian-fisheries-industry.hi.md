@@ -36,7 +36,7 @@ faq:
     a: "मत्स्य अधिनियम 1985 में 2019 के संशोधन (अधिनियम A1601) के बाद, घुसपैठ करने वाले विदेशी जहाज़ के मालिक या कप्तान के लिए अधिकतम जुर्माना RM1 मिलियन से बढ़ाकर RM6 मिलियन, और प्रत्येक चालक-दल सदस्य के लिए RM100,000 से बढ़ाकर RM600,000 कर दिया गया।"
 
 lang: "hi"
-sourceContentHash: "fa3345cedd03dd8d"
+sourceContentHash: "8c0e702d9b4ea4d2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PENANG_ISLAND_FISHING_BOATS_MALAYSIA_JAN_2012_(6868741024).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-1.webp
+    alt: कुआला केदाह के मछुआरा गाँव के खंभों पर बने घरों के पास नदी किनारे लंगर डाली मछली पकड़ने वाली नौकाएँ
+    kind: actual
+    origin: third-party
+    subject: कुआला केदाह में मछली पकड़ने वाली नौकाएँ और एक तटीय गाँव
+    credit: Marufish from Alor Setar, Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fishing_Village_at_Kuala_Kedah_(2638400370).jpg
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-2.webp
+    alt: कुचिंग, सरवाक के सातोक सप्ताहांत बाज़ार में बिक्री के लिए कतार में रखी ताज़ी स्थानीय मछलियाँ
+    kind: actual
+    origin: third-party
+    subject: कुचिंग, सरवाक के सातोक बाज़ार में प्रदर्शित ताज़ी स्थानीय मछली
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fresh_fish_in_market_(27002392530).jpg
 ---
 
 मलक्का जलडमरूमध्य और दक्षिण चीन सागर के किनारे जेटियों पर भोर से पहले, हज़ारों तटीय मछली पकड़ने वाली नौकाएँ समुद्र की ओर निकलती हैं ताकि देश भर में खाई जाने वाली लगभग नौ-दसवीं मछली की आपूर्ति कर सकें। उसी समय, अधिक दूर के जल में, कोई मलेशियाई ध्वज न फहराने वाले ट्रॉलर उन सीमाओं के पार अपने जाल खींचते हैं जिन्हें आँख नहीं देख सकती।

@@ -33,7 +33,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9bb5af4c19ea1667"
+sourceContentHash: "77561bed3c65c105"
 
 status: "published"
 aiAssisted: true
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Main_entrance_of_MARDI.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/mardi-agricultural-research-institute/body-1.webp
+    alt: கேமரூன் ஹைலண்ட்ஸில் ஒரு பசுமைக் குடிலுக்குள் உயர்த்தப்பட்ட ஊடகத் தொட்டிகளில் வளர்க்கப்படும் ஸ்ட்ராபெரி செடிகளின் வரிசைகள்
+    kind: representative
+    origin: third-party
+    subject: கேமரூன் ஹைலண்ட்ஸில் ஒரு பசுமைக் குடிலுக்குள் பாதுகாக்கப்பட்ட ஸ்ட்ராபெரி சாகுபடி
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
+  - role: scene
+    src: /media/agriculture/mardi-agricultural-research-institute/body-2.webp
+    alt: யுனிவர்சிட்டி புத்ரா மலேசியா, வேளாண்மை பீடத்தின் ஆராய்ச்சிப் பண்ணையில் வெள்ளி நிற மூடுபொருள் விரிக்கப்பட்ட, இளம் நாற்றுகளுடன் கூடிய நடவுப் படுகைகளின் வரிசைகளும் பசுமைக் குடில் மழைக் கூரைகளும்
+    kind: representative
+    origin: third-party
+    subject: ஒரு மலேசியப் பல்கலைக்கழகத்தின் வேளாண் ஆராய்ச்சிப் பண்ணையில் பயிர்ப் படுகைகளும் பசுமைக் குடில்களும்
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0912).jpg
 ---
 
 மலேசியாவில் உள்ளூர் அரிசியின் கிட்டத்தட்ட ஒவ்வொரு கிண்ணமும், MARDI-இன் கள நிலையம் ஒன்றில் இனப்பெருக்கம் செய்யப்பட்ட ஓர் இரகத்தில் தொடங்குகிறது. நாட்டின் நெல், கோழி வளர்ப்பு, வெப்பமண்டலப் பழங்கள் மற்றும் பதப்படுத்தப்பட்ட உணவு அடுக்குகளுக்குப் பின்னால், அறிவியலை உயர்ந்த விளைச்சலாக மாற்றுவதை வேலையாகக் கொண்ட ஒரு கூட்டாட்சி நிறுவனம் அமர்ந்துள்ளது.

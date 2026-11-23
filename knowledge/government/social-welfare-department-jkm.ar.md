@@ -28,7 +28,7 @@ faq:
   - q: "كيف أُسجّل بصفتي من ذوي الإعاقة (OKU)؟"
     a: "يُقدّم المواطنون الماليزيون المُصدَّق عليهم من قِبَل خبير طبي حكومي استمارة تسجيل BPPOKU (التعديل 2/2019) مع تقرير تحقّق طبي ونسخة من MyKad (أو شهادة ميلاد للمتقدمين دون سن 12)، إما عند منصة JKM أو عبر الإنترنت عبر بوابة MyDaftar OKU. ويتلقّى المتقدّم الناجح بطاقة OKU تُبيّن فئة إعاقته."
 lang: "ar"
-sourceContentHash: "f9a688b158d9b46c"
+sourceContentHash: "38bcfc6c21ff8b52"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Department_of_Social_Welfar
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Social Welfare Department (Jabatan Kebajikan Masyarakat, JKM) district office in Pontian, Johor, with a large ''Pejabat Kebajikan Masyarakat Daerah Pontian'' signboard and jkm.gov.my contact details'
+images:
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-1.webp
+    alt: لافتة ومبنى جمعية رعاية اجتماعية للأطفال ذوي الإعاقة في Johor Bahru، وهي خدمة رعاية مجتمعية
+    kind: representative
+    origin: third-party
+    subject: مركز رعاية اجتماعية للأطفال ذوي الإعاقة في Johor Bahru
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Handicapped_and_Mentally_Disabled_Children_Association_Johor_Bahru.jpg
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-2.webp
+    alt: دار رعاية اجتماعية في Batu Pahat، Johor، وهي مؤسسة رعاية سكنية
+    kind: actual
+    origin: third-party
+    subject: دار رعاية اجتماعية (rumah kebajikan) في Batu Pahat، Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batu_Pahat_Welfare_House.jpg
 ---
 
 إنّ **دائرة الرعاية الاجتماعية** — *Jabatan Kebajikan Masyarakat*، المعروفة في

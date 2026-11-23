@@ -36,7 +36,7 @@ faq:
     a: "在《1985 年渔业法令》于 2019 年修正（A1601 号法令）之后，越界侵入的外国渔船船东或船长的最高罚款从 100 万令吉提高至 600 万令吉，每名船员则从 10 万令吉提高至 60 万令吉。"
 
 lang: "zh"
-sourceContentHash: "fa3345cedd03dd8d"
+sourceContentHash: "8c0e702d9b4ea4d2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PENANG_ISLAND_FISHING_BOATS_MALAYSIA_JAN_2012_(6868741024).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-1.webp
+    alt: 瓜拉吉打渔村的高脚屋旁,渔船沿河停泊
+    kind: actual
+    origin: third-party
+    subject: 瓜拉吉打的渔船与沿海渔村
+    credit: Marufish from Alor Setar, Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fishing_Village_at_Kuala_Kedah_(2638400370).jpg
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-2.webp
+    alt: 砂拉越古晋沙督周末市集上一排排陈列待售的本地鲜鱼
+    kind: actual
+    origin: third-party
+    subject: 砂拉越古晋沙督市场陈列的本地鲜鱼
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fresh_fish_in_market_(27002392530).jpg
 ---
 
 黎明前，在马六甲海峡与南中国海沿岸的码头上，数以千计的沿岸渔船

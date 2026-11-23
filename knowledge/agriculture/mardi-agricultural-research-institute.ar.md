@@ -31,7 +31,7 @@ faq:
     a: "من بين كثير غيرها، أطلق MARDI سلسلة MR (مثل MR 297 وMR 219)، وأصناف MRQ العطرية، وKADARIA 1، أول أرز هجين في ماليزيا."
 
 lang: "ar"
-sourceContentHash: "9bb5af4c19ea1667"
+sourceContentHash: "77561bed3c65c105"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Main_entrance_of_MARDI.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/mardi-agricultural-research-institute/body-1.webp
+    alt: صفوف من نباتات الفراولة تُزرع في أحواض ركيزة مرتفعة داخل بيت زجاجي في Cameron Highlands
+    kind: representative
+    origin: third-party
+    subject: زراعة الفراولة المحمية داخل بيت زجاجي في Cameron Highlands
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
+  - role: scene
+    src: /media/agriculture/mardi-agricultural-research-institute/body-2.webp
+    alt: صفوف من أحواض الزراعة المغطّاة بنشارة فضية مع شتلات صغيرة ومظلّات مطرية زجاجية في مزرعة أبحاث كلية الزراعة بجامعة Universiti Putra Malaysia
+    kind: representative
+    origin: third-party
+    subject: أحواض محاصيل وبيوت زجاجية في مزرعة أبحاث زراعية تابعة لجامعة ماليزية
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0912).jpg
 ---
 
 يكاد كل وعاء أرز محلي في ماليزيا يعود في أصله إلى صنف رُبّي في محطة ميدانية لـ MARDI. فوراء الأرز الخام والدواجن والفواكه الاستوائية ورفوف الأغذية المصنّعة في البلاد يقف معهد فيدرالي واحد مهمّته تحويل العلم إلى غلّات أعلى.

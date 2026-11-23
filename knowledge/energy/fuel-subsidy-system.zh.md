@@ -71,7 +71,27 @@ sources:
     url: "https://www.mof.gov.my/portal/en/news/press-release/government-implements-targeted-diesel-subsidy-for-peninsular-malaysia-effective-10-june-2024"
     publisher: "马来西亚财政部（MOF）"
   - title: "政府通过柴油补贴合理化节省 50 亿令吉 — 财政部 (Govt Saves RM5 Bln Through Diesel Subsidy Rationalisation — MoF)"
-    url: "https://www.mof.gov.my/portal/en/news/press-citations/govt-saves-rm5-bln-through-diesel-subsidy-rationalisation---mof"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/govt-saves-rm5-bln-through-diesel-subsidy-rationalisation
+images:
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-1.webp
+    alt: 一座壳牌加油站,红边顶棚覆盖着几组油泵岛,路边立柱招牌上是黄色的壳牌贝壳标志,附近是店屋与车辆,天空明亮
+    kind: actual
+    origin: third-party
+    subject: 新山彩虹花园一座壳牌加油站的前场,顶棚下设有油泵岛
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Taman_Pelangi.jpg
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-2.webp
+    alt: 一座加油站前场,宽阔平顶的顶棚遮盖着油泵,路边立着高大发亮的价格牌立柱,旁边是一栋便利店建筑,天色阴沉
+    kind: actual
+    origin: third-party
+    subject: 雪兰莪依约一座FIVE品牌加油站,马来西亚独立燃油零售连锁之一,设有前场与价格立柱
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ijok_FIVE_petrol_station_(230318).jpg
+---mof"
     publisher: "马来西亚财政部（MOF）"
   - title: "BUDI 柴油明日启动，70 万车主每公升付 RM2.10 (BUDI Diesel Starts Tomorrow, 700,000 Vehicle Owners To Pay RM2.10 A Litre)"
     url: "https://www.mof.gov.my/portal/en/news/press-citations/budi-diesel-starts-tomorrow-700-000-vehicle-owners-to-pay-rm2-10-a-litre"

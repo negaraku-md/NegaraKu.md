@@ -28,7 +28,7 @@ faq:
   - q: "¿Cómo me registro como OKU (persona con discapacidad)?"
     a: "Los ciudadanos malasios certificados por un experto médico del gobierno presentan el formulario de registro BPPOKU (Enmienda 2/2019) con un informe de verificación médica y una copia del MyKad (o la partida de nacimiento para solicitantes menores de 12 años), ya sea en un mostrador del JKM o en línea a través del portal MyDaftar OKU. El solicitante aprobado recibe una Tarjeta OKU que muestra su categoría de discapacidad."
 lang: "es"
-sourceContentHash: "f9a688b158d9b46c"
+sourceContentHash: "38bcfc6c21ff8b52"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Department_of_Social_Welfar
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Social Welfare Department (Jabatan Kebajikan Masyarakat, JKM) district office in Pontian, Johor, with a large ''Pejabat Kebajikan Masyarakat Daerah Pontian'' signboard and jkm.gov.my contact details'
+images:
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-1.webp
+    alt: El letrero y las instalaciones de una asociación de asistencia social para niños con discapacidad en Johor Bahru, un servicio de bienestar comunitario
+    kind: representative
+    origin: third-party
+    subject: Centro de asistencia social para niños con discapacidad en Johor Bahru
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Handicapped_and_Mentally_Disabled_Children_Association_Johor_Bahru.jpg
+  - role: scene
+    src: /media/government/social-welfare-department-jkm/body-2.webp
+    alt: Una casa de asistencia social en Batu Pahat, Johor, una institución de acogida de bienestar
+    kind: actual
+    origin: third-party
+    subject: Casa de asistencia social (rumah kebajikan) en Batu Pahat, Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Batu_Pahat_Welfare_House.jpg
 ---
 
 El **Departamento de Bienestar Social** — *Jabatan Kebajikan Masyarakat*,

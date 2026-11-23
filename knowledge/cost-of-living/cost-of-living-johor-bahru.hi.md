@@ -27,7 +27,7 @@ verificationNeeded:
   - "जोहोर बहरू के लिए विशिष्ट कोई आधिकारिक किराया सूचकांक नहीं मिल सका; सिंगापुर-जुड़ी माँग से उपजे किराया दबाव के बारे में कथन गुणात्मक हैं, किसी प्रकाशित आँकड़े से समर्थित नहीं।"
 
 lang: "hi"
-sourceContentHash: "b3fe7bab59216408"
+sourceContentHash: "e9afe3ee3471e8d4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Empty_Singapore-Malaysia_Ca
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Johor Bahru skyline and the Johor–Singapore Causeway at night'
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-johor-bahru/body-1.webp
+    alt: बुकित इंदाह, जोहोर बाहरू में साप्ताहिक बाज़ार में ताज़ी उपज के स्टॉल
+    kind: actual
+    origin: third-party
+    subject: बुकित इंदाह, जोहोर बाहरू में साप्ताहिक ताज़ी-उपज बाज़ार
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wednesday_market,_Bukit_Indah,_Johor_Bahru,_Johor,_Malaysia.jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-johor-bahru/body-2.webp
+    alt: मध्य जोहोर बाहरू की मुख्य वाणिज्यिक सड़क जालान वोंग आह फूक के किनारे दुकानें और खरीदार
+    kind: actual
+    origin: third-party
+    subject: जालान वोंग आह फूक, जोहोर बाहरू की मुख्य वाणिज्यिक सड़क
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wong_Ah_Fook_Street.jpg
 ---
 
 मलेशिया की पूरी राष्ट्रीय न्यूनतम मज़दूरी, RM1,700 प्रति माह, पर काम करने वाला

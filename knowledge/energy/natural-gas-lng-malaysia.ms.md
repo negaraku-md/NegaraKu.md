@@ -36,7 +36,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4e24ddc5a51e8881"
+sourceContentHash: "5679eeb98bbb3cbf"
 
 status: "published"
 aiAssisted: true
@@ -100,6 +100,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/natural-gas-lng-malaysia/body-1.webp
+    alt: Sebuah kapal pengangkut gas asli cecair yang besar sedang belayar di laut terbuka, dek panjangnya dipenuhi struktur tangki kargo bertebat yang besar dan paip, meninggalkan alur air di bawah langit cerah
+    kind: representative
+    origin: third-party
+    subject: Sebuah kapal pengangkut gas asli cecair jenis yang menghantar LNG Malaysia kepada pembeli luar negara
+    credit: Rhetos / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Minerva_Amorgos_(LNG-Tanker).jpg
+  - role: scene
+    src: /media/energy/natural-gas-lng-malaysia/body-2.webp
+    alt: Sebuah terminal pemprosesan gas di darat yang luas dengan turus penyulingan tinggi, sfera simpanan perak, serombong suar dan jalinan paip yang padat, terletak di tanah pesisir yang diteroka dengan bukit di latar belakang
+    kind: actual
+    origin: third-party
+    subject: Terminal Minyak dan Gas Sabah (SOGT) di Kimanis, Sabah, sebuah kemudahan pemprosesan gas di darat milik Petronas
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-30.jpg
 ---
 
 Setiap kali sebuah loji kuasa di Selangor mula beroperasi atau sebuah kilang sarung tangan di Pulau Pinang memanaskan ketuhar, gas itu berkemungkinan besar bermula perjalanannya beratus-ratus kilometer jauhnya, di luar pesisir Terengganu atau merentasi Laut China Selatan di Sarawak. Malaysia sekali gus merupakan pengeksport gas berat serta, semakin lama, pengimport gas, dan paip serta terminal yang mendamaikan kedua-dua hakikat ini adalah antara aset tenaga paling bernilai di negara ini.

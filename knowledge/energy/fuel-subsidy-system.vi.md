@@ -71,7 +71,27 @@ sources:
     url: "https://www.mof.gov.my/portal/en/news/press-release/government-implements-targeted-diesel-subsidy-for-peninsular-malaysia-effective-10-june-2024"
     publisher: "Bộ Tài chính Malaysia (MOF)"
   - title: "Chính phủ tiết kiệm RM5 tỷ nhờ hợp lý hóa trợ giá diesel — MoF (Govt Saves RM5 Bln Through Diesel Subsidy Rationalisation — MoF)"
-    url: "https://www.mof.gov.my/portal/en/news/press-citations/govt-saves-rm5-bln-through-diesel-subsidy-rationalisation---mof"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/govt-saves-rm5-bln-through-diesel-subsidy-rationalisation
+images:
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-1.webp
+    alt: Một trạm xăng mang thương hiệu Shell với mái che viền đỏ phía trên nhiều cụm trụ bơm nhiên liệu, logo vỏ sò Shell màu vàng trên biển hiệu trụ đứng bên đường, cùng các dãy cửa hàng và ô tô gần đó dưới bầu trời sáng
+    kind: actual
+    origin: third-party
+    subject: Sân trạm xăng Shell ở Taman Pelangi, Johor Bahru, với các trụ bơm nhiên liệu dưới mái che
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Taman_Pelangi.jpg
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-2.webp
+    alt: Sân một trạm xăng bên dưới mái che bằng phẳng rộng che các trụ bơm nhiên liệu, một trụ bảng giá cao có đèn chiếu sáng đứng bên đường và một tòa nhà cửa hàng tiện lợi bên cạnh trong một ngày trời âm u
+    kind: actual
+    origin: third-party
+    subject: Một trạm xăng mang thương hiệu FIVE ở Ijok, Selangor, một trong những chuỗi bán lẻ nhiên liệu độc lập của Malaysia, với sân trạm và trụ bảng giá
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ijok_FIVE_petrol_station_(230318).jpg
+---mof"
     publisher: "Bộ Tài chính Malaysia (MOF)"
   - title: "BUDI Diesel bắt đầu vào ngày mai, 700.000 chủ xe sẽ trả RM2,10/lít (BUDI Diesel Starts Tomorrow, 700,000 Vehicle Owners To Pay RM2.10 A Litre)"
     url: "https://www.mof.gov.my/portal/en/news/press-citations/budi-diesel-starts-tomorrow-700-000-vehicle-owners-to-pay-rm2-10-a-litre"

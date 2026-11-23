@@ -29,7 +29,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "050995b2068c647c"
+sourceContentHash: "d38b062bdbd5abc0"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-1.webp
+    alt: サバ州スンポルナの入国管理局(Jabatan Imigresen)支局の事務所
+    kind: actual
+    origin: third-party
+    subject: サバ州スンポルナの入国管理局(Jabatan Imigresen)支局
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semporna_Sabah_Jabatan-Imigresen-01.jpg
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-2.webp
+    alt: 入国管理局の検問所で押されたマレーシアの入国審査のパスポートスタンプ
+    kind: actual
+    origin: third-party
+    subject: マレーシアの出入国パスポートスタンプ
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Passport_Stamp_Bukit_Berapit_1.jpg
 ---
 
 人がマレーシアの国境を越え、この国に住み、あるいはここで働くことを可能にする書類のほぼすべての背後に、一つの機関が立っている。**マレーシア移民局**——*Jabatan Imigresen Malaysia*（**JIM**）——は、**内務省（Ministry of Home Affairs、KDN）**傘下の機関であり、国民にパスポートを発給し、外国人にビザとパスを付与し、すべての空港と陸路国境の窓口に人員を配置し、移民法を執行する。同局はマレーシア国民、永住者及び外国人訪問者に対応しており、**1922年7月21日**から運営を続けている。新規に来た者にとっての落とし穴は、そのサービスが複数の公式ウェブサイトに分散していることである——本ページはそれらを整理する。

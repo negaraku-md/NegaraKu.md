@@ -87,7 +87,27 @@ sources:
     url: "https://www.bnm.gov.my/governors/rasheed"
     publisher: "Bank Negara Malaysia"
   - title: "Policy consistency, strong fundamentals anchor investor confidence — Bank Negara governor"
-    url: "https://www.thestar.com.my/business/business-news/2026/08/14/policy-consistency-strong-fundamentals-anchor-investor-confidence---bank-negara-governo"
+    url: "https://www.thestar.com.my/business/business-news/2026/08/14/policy-consistency-strong-fundamentals-anchor-investor-confidence
+images:
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-1.webp
+    alt: ทางเข้าสำนักงานธนาคารกลางมาเลเซียในโกตากีนาบาลู แสดงชื่อธนาคารกลางและตรากีจัง (กวาง) พร้อมธงชาติมาเลเซียและธงรัฐซาบาห์
+    kind: actual
+    origin: third-party
+    subject: สำนักงานภูมิภาคของธนาคารกลางมาเลเซียในโกตากีนาบาลู รัฐซาบาห์ พร้อมชื่อธนาคารกลางและตรากีจัง (กวาง)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Bank-Negara-Malaysia-02.jpg
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-2.webp
+    alt: ธนบัตรริงกิตยุคแรกของธนาคารกลางมาเลเซียชุดแรกปี 1967 ซึ่งมีชื่อธนาคารกลางปรากฏอยู่
+    kind: actual
+    origin: third-party
+    subject: ธนบัตรริงกิตยุคแรกของธนาคารกลางมาเลเซีย (ตัวอย่างชุดปี 1967)
+    credit: Bank Negara Malaysia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SERIBU_RINGGIT_-_OBSERVE_VIEW_(1967).png
+---bank-negara-governo"
     publisher: "The Star"
     date: "2026-08-14"
   - title: "MPC Meeting Decision Schedule — tag/mpc-2026"

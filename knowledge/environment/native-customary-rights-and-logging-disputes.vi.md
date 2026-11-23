@@ -29,7 +29,7 @@ faq:
     a: "Các giấy phép khai thác gỗ và hợp đồng thuê đồn điền do bang cấp có thể bao phủ các khu vực mà các cộng đồng yêu sách là đất tập quán. Nơi các bên bất đồng về việc liệu một khu vực có phải là đất NCR hay không, tranh chấp thường được quyết định tại tòa án."
 
 lang: "vi"
-sourceContentHash: "28337553336a3000"
+sourceContentHash: "b18f95dc322c1c87"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Logging_trucks_in_Sarawak.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-1.webp
+    alt: Góc nhìn từ trên cao về những đồn điền cọ dầu phủ kín vùng đất rừng đã bị phát quang ở Sarawak, Borneo
+    kind: actual
+    origin: third-party
+    subject: Những đồn điền cọ dầu trên vùng đất rừng trước đây, Sarawak
+    credit: Ben Sutherland / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantations_in_Sarawak.jpg
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-2.webp
+    alt: Những khúc gỗ cứng nhiệt đới xếp chồng tại một bãi chứa và bốc xếp gỗ ở Kalabakan, Sabah
+    kind: actual
+    origin: third-party
+    subject: Bãi chứa gỗ khúc, Kalabakan, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kalabakan_Sabah_Timber-storage-area-01.jpg
 ---
 
 Một cộng đồng nhà dài nói rằng một dải rừng đã thuộc về họ qua nhiều thế hệ. Một công ty gỗ hoặc đồn điền nắm một giấy phép, do bang cấp, bao phủ cùng mảnh đất đó. Cả hai đều viện dẫn luật pháp. Ở Sarawak và Sabah, sự va chạm đó đã được tranh luận tại các phòng xử án trong hơn hai thập niên — và các tòa án không phải lúc nào cũng thống nhất về nơi ranh giới rơi vào.

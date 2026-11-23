@@ -30,7 +30,7 @@ faq:
     a: "محطة باكون الكهرومائية، بسعة متاحة تبلغ 2,520 ميغاواط، هي أكبر منشأة توليد في ساراواك."
 
 lang: "ar"
-sourceContentHash: "842a8fcd8feb3418"
+sourceContentHash: "b4478573670990b9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY 2.5'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-1.webp
+    alt: جدار سدّ كهرومائي ضخم ذو واجهة خرسانية ينحدر إلى مضيق نهري، مع مسيل تصريف مدرَّج ومحطة توليد عند قاعدته، تحيط به منحدرات مُزالة أشجارها وتلال مكسوّة بالغابات المطيرة
+    kind: actual
+    origin: third-party
+    subject: سدّ Bakun الكهرومائي في Sarawak، السدّ الركامي العملاق ذو الواجهة الخرسانية في قلب نظام الطاقة في الولاية
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-2.webp
+    alt: سدّ خرساني مرتفع يمتدّ عبر وادٍ نهري ببوابات تصريف وطريق على قمّته، مياه خزّان خضراء داكنة على أحد جانبيه وجبال مكسوّة بالغابات ترتفع في كل اتجاه
+    kind: actual
+    origin: third-party
+    subject: سدّ Murum الكهرومائي في داخل Sarawak، جزء من سلسلة سدود الطاقة المائية في الولاية
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum.jpg
 ---
 
 بينما تعتمد شبه جزيرة ماليزيا على شركة تيناغا ناسيونال (Tenaga Nasional Berhad)، تُنير ساراواك مصابيحها بنفسها عبر مرفق واحد لا تتّصل شبكته بالشبكة الوطنية مطلقًا — ويُولَّد كله تقريبًا من مساقط مياه سدود عملاقة في الداخل.

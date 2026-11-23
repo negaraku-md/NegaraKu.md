@@ -27,7 +27,7 @@ faq:
   - q: "기업은 자체 패널을 설치하지 않고 어떻게 재생에너지를 구매할 수 있습니까?"
     a: "기업 그린전력 프로그램(CGPP)은 기업 소비자가 태양광 발전사업자와 재생에너지 및 그 녹색 속성에 대한 가상 전력구매계약을 체결하게 하며, 확고한 공급은 전력회사가 뒷받침합니다. 그 800MW 쿼터는 2023년 11월 완전히 소진되었습니다. 이를 놓친 기업은 2024년 9월 출범한 기업 재생에너지 공급제도(CRESS)를 이용할 수 있으며, 이는 시스템 접근요금을 받고 TNB 그리드를 통해 그린 전력을 전달합니다."
 lang: "ko"
-sourceContentHash: "d9838f1e57d307b7"
+sourceContentHash: "50784100ca6e3481"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -119,6 +119,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-1.webp
+    alt: 개간된 풀밭에 낮은 금속 프레임에 얹힌 짙은 남색 태양광 패널이 길게 줄지어 서 있고 울타리가 둘러쳐져 먼 숲 가장자리까지 이어진다. 파란 하늘에 구름이 흩어져 있다
+    kind: actual
+    origin: third-party
+    subject: 사바주 숭아이숭아이의 지상 설치형 태양광 발전소. 농촌 전력망에 전기를 공급한다
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-01.jpg
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-2.webp
+    alt: 숲으로 덮인 산들 사이로 초록빛 저수지를 막아 세운 곡선형 댐. 댐면에 여수로와 취수 구조물이 있고 주위 비탈은 울창한 열대 정글로 덮여 있다
+    kind: actual
+    origin: third-party
+    subject: 켈란탄주의 페르가우 수력발전 댐과 저수지. 반도 말레이시아의 재생 수력발전 사업
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pergau_Dam.jpg
 ---
 
 말레이시아의 재생에너지(RE)를 알아보려 했다면, 아마 세 개의 서로 다른 목표 숫자 — 31%, 40%, 70% — 와 약어의 벽 — FiT, NEM, LSS, CGPP, CRESS, SELCO — 에 부딪혔을 것입니다. 그중 어느 것도 모순되지 않습니다. 단지 여섯 곳 남짓의 기관에 흩어져 있고, 각 기관이 자기 구석만 문서화할 뿐입니다. 이 안내는 그 전체 지형을 한곳에 모읍니다: 국가 목표와 그 뒤의 로드맵, 제도의 무리, 그리고 — 대부분의 출처가 건너뛰는 부분 — 어느 프로그램이 실제로 주택 소유자, 기업, 개발자를 위한 것인지입니다.

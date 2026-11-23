@@ -32,7 +32,7 @@ faq:
     a: "총리실(Jabatan Perdana Menteri) 산하의 연방직할구청(Jabatan Wilayah Persekutuan, JWP)은 세 직할구의 정책과 개발을 연방 차원에서 조정하는 반면, 쿠알라룸푸르시청(DBKL), 푸트라자야공사(Perbadanan Putrajaya), 라부안공사(Perbadanan Labuan)는 각 직할구에서 인허가, 도시계획, 시정 서비스 같은 일상 업무를 수행하는 지방자치단체입니다."
 
 lang: "ko"
-sourceContentHash: "9bb7978f0345dc23"
+sourceContentHash: "8bf6e6135ecc6c79"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/government/federal-territories-governance/body-1.webp
+    alt: 푸트라자야 연방 직할구를 관할하는 지방 당국인 푸트라자야 코퍼레이션의 행정 건물
+    kind: actual
+    origin: third-party
+    subject: 푸트라자야 연방 직할구의 지방 당국, 푸트라자야 코퍼레이션 본부
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-perbadanan.jpg
+  - role: scene
+    src: /media/government/federal-territories-governance/body-2.webp
+    alt: 말레이시아 연방 국장이 새겨진 푸트라자야 사법궁의 돔형 외관. 연방 직할구의 정부 건물
+    kind: actual
+    origin: third-party
+    subject: 사법궁(이스타나 케하키만). 푸트라자야의 연방 정부 건물
+    credit: Wolfiewhite / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Direct_view_of_the_front_of_Palace_of_Justice,_Putrajaya.jpg
 ---
 
 한 주(state)에는 술탄이나 주지사(Yang di-Pertua Negeri)가 있고, 주총리(Menteri Besar)나 수석장관(Ketua Menteri)이 있으며, 국민이 선출한 주 입법의회(Dewan Undangan Negeri)가 있습니다. 쿠알라룸푸르(Kuala Lumpur), 푸트라자야(Putrajaya), 라부안(Labuan)에는 그중 어느 것도 없습니다. 이 세 곳은 주가 아니라 — 연방직할구이며, 연방정부가 직접 통치합니다.

@@ -34,7 +34,7 @@ faq:
     a: "हाँ। धारा 4(2)(d) SUHAKAM को किसी भी निरोध-स्थल, संस्था और अन्य स्थान का दौरा करने और आवश्यक सिफारिशें करने की शक्ति देती है। धारा 4(3), जो 2024 के संशोधन द्वारा जोड़ी गई, कहती है कि जब तक निर्धारित प्रक्रियाओं का पालन किया जाता है, संबंधित स्थान के लिए उत्तरदायी व्यक्ति ऐसे दौरे से इनकार नहीं कर सकता।"
 
 lang: "hi"
-sourceContentHash: "41da53bbfb03e372"
+sourceContentHash: "a19e277de86aa738"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_20260505_09.jp
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Menara TH Perdana on Jalan Sultan Ismail, Kuala Lumpur — the office tower that houses the headquarters of the Human Rights Commission of Malaysia (SUHAKAM). Confirmed as Menara TH Perdana by the building signage and the Commons category; SUHAKAM''s own signage is not visible, so the shot stands in for its HQ building'
+images:
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-1.webp
+    alt: कुआलालंपुर में एक शांतिपूर्ण नागरिक-समाज रैली के प्रतिभागी, मानवाधिकार संदर्भ को दर्शाते हुए
+    kind: representative
+    origin: third-party
+    subject: कुआलालंपुर में नागरिक-समाज का जमावड़ा (मानवाधिकार संदर्भ)
+    credit: Khairil Yusof / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bersih_4_rally_Human_Rights_Defender.jpg
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-2.webp
+    alt: रात को कुआलालंपुर की एक सड़क भरती एक शांतिपूर्ण सार्वजनिक सभा, मानवाधिकार आयोग जिन स्वतंत्रताओं की निगरानी करता है उन्हें दर्शाती हुई
+    kind: representative
+    origin: third-party
+    subject: कुआलालंपुर की एक सड़क पर शांतिपूर्ण सार्वजनिक सभा (मानवाधिकार संदर्भ)
+    credit: Apa masalah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muslim_protesters_performing_Ishah_prayer_during_Bersih_4_protests.jpg
 ---
 
 जब कोई व्यक्ति मानवाधिकार उल्लंघन की शिकायत SUHAKAM को प्रस्तुत करता है, तो आयोग वास्तव में क्या

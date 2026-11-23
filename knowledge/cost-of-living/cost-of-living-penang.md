@@ -81,6 +81,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Skyline_of_George_Town,_Pen
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'George Town skyline at dusk, Penang'
+
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-1.webp
+    alt: High-rise residential flats on Maccalum Street in George Town, Penang, illustrating urban housing
+    kind: actual
+    origin: third-party
+    subject: High-rise public housing flats on Maccalum Street, George Town, Penang
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Maccalum_Street_Flats,_George_Town,_Penang_(2024).jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-2.webp
+    alt: Vendors and stalls at the Sungai Bakap wet market in Penang
+    kind: actual
+    origin: third-party
+    subject: Wet market at Sungai Bakap, Penang
+    credit: Dreamtrooper / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Bakap_Wet_Market.JPG
 ---
 
 Penang is the one Malaysian state where "cost of living" cannot be answered

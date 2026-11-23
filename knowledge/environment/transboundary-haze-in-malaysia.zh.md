@@ -32,7 +32,7 @@ faq:
     a: "主要成因是苏门答腊与加里曼丹的土地及森林火灾——包括泥炭地火灾及为农业而进行的烧芭开垦——在受厄尔尼诺（El Nino）现象影响的旱季变得更频繁、更严重。"
 
 lang: "zh"
-sourceContentHash: "f6dc09ddaaf77bcf"
+sourceContentHash: "043be6570dc41e09"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-1.webp
+    alt: 吉隆坡一家诊所旁的街道上,空气烟霾弥漫、能见度低
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡一家诊所附近的烟霾状况
+    credit: SNN95 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2026_Haze_at_Kuala_Lumpur_Health_Clinic_01.jpg
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-2.webp
+    alt: 浓重的跨境烟霾遮蔽了地平线上平日可见的山丘
+    kind: representative
+    origin: third-party
+    subject: 2013年东南亚跨境烟霾笼罩新加坡(示意)
+    credit: Oliverlyc. / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Effects_of_2013_Southeast_Asian_haze_on_Singapore.jpg
 ---
 
 每当旱季季风转向，巴生谷、砂拉越以及半岛大部分地区的天空，往往在短短几天内就变得灰蒙蒙——太阳变得朦胧，烟味钻进屋内，手机响起API警报。这就是跨境烟霾：一种并非完全在本国产生、却由数百万马来西亚人年复一年吸入体内的污染。

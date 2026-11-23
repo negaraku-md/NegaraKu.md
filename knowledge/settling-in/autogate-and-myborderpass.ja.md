@@ -35,7 +35,7 @@ faq:
     a: "はい、常に必要である。アプリとQRコードはゲートを速めるが、旅行証明書の代わりにはならない。2026年初頭時点でこれらのアプリはいずれも義務ではなく、Autogateと有人カウンターは依然として物理的なパスポートを受け付ける。パスポートの残存有効期間は少なくとも6か月を保つこと。"
 
 lang: "ja"
-sourceContentHash: "dd15b2531cb454e6"
+sourceContentHash: "fe905739669d5516"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 3.0 de'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-1.webp
+    alt: 旅客が入国審査を通過するクアラルンプール国際空港第1ターミナルの到着ロビー
+    kind: actual
+    origin: third-party
+    subject: クアラルンプール国際空港第1ターミナルの到着ロビー
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arrival_hall_of_Kuala_Lumpur_International_Airport_Terminal_1_20250828_212245.jpg
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-2.webp
+    alt: ジョホールバルの陸路国境検問所、シンガポールへ渡るスルタン・イスカンダル・ビルの出入国検問施設
+    kind: actual
+    origin: third-party
+    subject: スルタン・イスカンダル・ビルのCIQ施設。シンガポールへ渡るジョホールバルの陸路国境
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Sultan_Iskandar_2.jpg
 ---
 
 **Autogate**とは、自動化された入国審査ゲートである：パスポートのICチップを読み取り、顔を写真と照合して開く——職員なし、インクのスタンプなし、通常は30秒足らずで済む。新しいQRコードレーンはさらに速く、旅行者をおよそ5〜7秒で通過させる。マレーシアの国境を頻繁に越える人にとって、自分がどのレーンを使ってよいかを知っておくことは、実際に時間の節約になる。

@@ -30,7 +30,7 @@ faq:
     a: "يعمل APM بموجب قانون الدفاع المدني لسنة 1951 (Act 221)، الذي ينص على واجباته في السلم والحرب لحماية الأرواح والممتلكات."
 
 lang: "ar"
-sourceContentHash: "1cc8bccf4a7c831a"
+sourceContentHash: "8efaac4be728913a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tatra_truck_of_Malaysia_Civil_Defence_Force_in_Kuantan_2023_NDP.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-1.webp
+    alt: برج مراقبة للإنقاذ على الشاطئ تابع لـ Angkatan Pertahanan Awam (قوة الدفاع المدني) على ساحل Bagan Lalang
+    kind: actual
+    origin: third-party
+    subject: برج مراقبة للإنقاذ على الشاطئ تابع لـ APM (قوة الدفاع المدني)، Bagan Lalang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_1.jpg
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-2.webp
+    alt: برج إنقاذ وحراسة ساحلي تابع لقوة الدفاع المدني يطلّ على الشاطئ المفتوح في Bagan Lalang
+    kind: actual
+    origin: third-party
+    subject: برج إنقاذ ساحلي تابع لـ APM يطلّ على الشاطئ، Bagan Lalang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_2.jpg
 ---
 
 حين يضرب فيضان كبير أو ينهار مبنى، كثيرًا ما يكون أحد أوائل الفرق وصولاً بالقوارب والحبال ومعدات الإنقاذ فريقًا يرتدي زي APM البرتقالي. فقوة الدفاع المدني الماليزية (APM) هي العمود الفقري للإغاثة الإنسانية في البلاد — حاضرةٌ قبل الكارثة وأثناءها وبعدها.

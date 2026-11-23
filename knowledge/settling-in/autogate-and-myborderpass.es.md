@@ -35,7 +35,7 @@ faq:
     a: "Sí, siempre. Las aplicaciones y los códigos QR agilizan la puerta, pero no sustituyen a tu documento de viaje. A principios de 2026 ninguna de las aplicaciones es obligatoria, y la Autogate y los mostradores manuales siguen aceptando el pasaporte físico. Mantén al menos seis meses de validez del pasaporte."
 
 lang: "es"
-sourceContentHash: "dd15b2531cb454e6"
+sourceContentHash: "fe905739669d5516"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 3.0 de'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-1.webp
+    alt: El vestíbulo de llegadas de la Terminal 1 del Aeropuerto Internacional de Kuala Lumpur, donde los viajeros pasan el control de inmigración
+    kind: actual
+    origin: third-party
+    subject: Vestíbulo de llegadas de la Terminal 1 del Aeropuerto Internacional de Kuala Lumpur
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arrival_hall_of_Kuala_Lumpur_International_Airport_Terminal_1_20250828_212245.jpg
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-2.webp
+    alt: El complejo del puesto de control de inmigración Bangunan Sultan Iskandar en el paso fronterizo terrestre de Johor Bahru
+    kind: actual
+    origin: third-party
+    subject: Complejo CIQ Bangunan Sultan Iskandar, el paso fronterizo terrestre de Johor Bahru hacia Singapur
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Sultan_Iskandar_2.jpg
 ---
 
 Una **Autogate** es una puerta de inmigración automatizada: lee el chip de tu pasaporte, coteja tu rostro con la foto y se abre — sin funcionario, sin sello de tinta, por lo general en bastante menos de medio minuto. Los carriles con código QR más nuevos son aún más rápidos, y dejan pasar a un viajero en unos cinco a siete segundos. Para quien cruza con regularidad la frontera malasia, saber qué carril tienes permitido usar supone un ahorro de tiempo real.

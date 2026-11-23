@@ -34,7 +34,7 @@ faq:
     a: "تحتفظ Padiberas Nasional Berhad (BERNAS) بدور المستورد الوحيد للأرز في البلاد، وهو دور ورثته عن مجلس الأرز غير المقشور والأرز الوطني (LPN)، الذي تولّى استيراد الأرز وأصبح المستورد الوحيد في 1974 بعد أزمة الغذاء العالمية 1973. كما تدير BERNAS المخزون الاحتياطي الوطني من الأرز وتدعم المطاحن البوميبوترا. وقد خُصخصت في 12 يناير 1996."
 
 lang: "ar"
-sourceContentHash: "8f44d2a10fa14edb"
+sourceContentHash: "a3e4b8ba2156b900"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-1.webp
+    alt: حصّادة دمج صفراء تحصد الأرز الذهبي الناضج في حقل أرز في Kelantan
+    kind: actual
+    origin: third-party
+    subject: حصّادة دمج تحصد الأرز الناضج في Kelantan
+    credit: Zamwan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menuai_padi_di_Kelantan.jpg
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-2.webp
+    alt: حقل من الأرز الذهبي الناضج جاهز للحصاد وخلفه تلّة مكسوّة بالغابات، في Langkawi، Kedah
+    kind: actual
+    origin: third-party
+    subject: حقل أرز ذهبي ناضج جاهز للحصاد في Langkawi، Kedah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-05.jpg
 ---
 
 في كل مرة ترتفع فيها أسعار الأرز أو تفرغ رفوف المتاجر الكبرى، يعود سؤال قديم

@@ -36,7 +36,7 @@ faq:
     a: "หลังการแก้ไขพระราชบัญญัติการประมง 1985 ในปี 2019 (Akta A1601) ค่าปรับสูงสุดสำหรับเจ้าของหรือนายท้ายเรือต่างชาติที่รุกล้ำถูกปรับขึ้นจาก RM1 ล้านเป็น RM6 ล้าน และสำหรับลูกเรือแต่ละคนจาก RM100,000 เป็น RM600,000"
 
 lang: "th"
-sourceContentHash: "fa3345cedd03dd8d"
+sourceContentHash: "8c0e702d9b4ea4d2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PENANG_ISLAND_FISHING_BOATS_MALAYSIA_JAN_2012_(6868741024).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-1.webp
+    alt: เรือประมงจอดเรียงรายตามลำน้ำข้างบ้านยกพื้นของหมู่บ้านชาวประมงที่กัวลาเกอดะฮ์
+    kind: actual
+    origin: third-party
+    subject: เรือประมงและหมู่บ้านชาวประมงชายฝั่งที่กัวลาเกอดะฮ์
+    credit: Marufish from Alor Setar, Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fishing_Village_at_Kuala_Kedah_(2638400370).jpg
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-2.webp
+    alt: ปลาสดในท้องถิ่นวางเรียงเป็นแถวเพื่อจำหน่ายที่ตลาดนัดสุดสัปดาห์ซาต็อกในกูชิง รัฐซาราวัก
+    kind: actual
+    origin: third-party
+    subject: ปลาสดในท้องถิ่นวางจำหน่ายที่ตลาดซาต็อก กูชิง รัฐซาราวัก
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fresh_fish_in_market_(27002392530).jpg
 ---
 
 ก่อนรุ่งสางที่ท่าเทียบเรือตลอดช่องแคบมะละกาและทะเลจีนใต้ เรือประมงชายฝั่งนับพันลำออกสู่ทะเลเพื่อจัดหาปลาเกือบเก้าในสิบส่วนที่ทั้งประเทศบริโภค ในเวลาเดียวกัน ในน่านน้ำที่ไกลออกไป เรืออวนลากที่ไม่ได้ชักธงมาเลเซียก็ลากอวนของพวกเขาข้ามพรมแดนที่สายตามองไม่เห็น

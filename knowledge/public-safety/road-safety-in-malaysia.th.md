@@ -35,7 +35,7 @@ faq:
     a: "สถาบันวิจัยความปลอดภัยทางถนนมาเลเซีย (MIROS) ซึ่งก่อตั้งในปี 2007 ดำเนินการวิจัยบนพื้นฐานของหลักฐาน ขณะที่ฝ่ายความปลอดภัยทางถนนของ JPJ (เดิมคือ JKJR) เป็นผู้นำด้านการรณรงค์และการสร้างความตระหนัก ทั้งสองอยู่ภายใต้กระทรวงคมนาคม"
 
 lang: "th"
-sourceContentHash: "681af11f157961d9"
+sourceContentHash: "6230ba2101db75a9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -118,6 +118,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-1.webp
+    alt: ภาพมองไปทางเหนือตามถนนกลวง-โกตาติงกิสองช่องจราจร (ทางหลวงสหพันธ์หมายเลข 91) ใกล้กลวง รัฐยะโฮร์
+    kind: actual
+    origin: third-party
+    subject: ทางหลวงสหพันธ์สองช่องจราจร (หมายเลข 91) ที่กลวง รัฐยะโฮร์
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151246.jpg
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-2.webp
+    alt: ทางม้าลายที่ตีเส้นตรงทางแยกในเวลากลางคืนที่โกตาดามันซารา รัฐสลังงอร์
+    kind: actual
+    origin: third-party
+    subject: ทางม้าลายที่ทางแยกในโกตาดามันซารา รัฐสลังงอร์
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Persiaran_Surian-Persiaran_Kenanga_Intersection_Pedestrian_Crossing,_Kota_Damansara_20240125_192828.jpg
 ---
 
 ทุกวัน มีผู้เสียชีวิตประมาณ 18 รายบนถนนของมาเลเซีย ตัวเลขนี้ทำให้ถนนเป็นหนึ่งในสาเหตุการเสียชีวิตที่ไม่เป็นไปตามธรรมชาติที่โดดเด่นที่สุดในประเทศ และเป็นเหตุผลหลักที่มีการระดมกฎหมาย กล้อง และหน่วยงานเฉพาะเพื่อรับมือกับมัน

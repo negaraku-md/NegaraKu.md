@@ -34,7 +34,7 @@ faq:
     a: "그렇습니다. 제4조 제(2)항 (d)호는 SUHAKAM에게 어떠한 구금 장소, 시설 및 그 밖의 장소든 방문하고 필요한 권고를 할 권한을 부여합니다. 2024년 개정으로 삽입된 제4조 제(3)항은, 정해진 절차가 준수되는 한 해당 장소를 책임지는 사람이 그 방문을 거부할 수 없다고 규정합니다."
 
 lang: "ko"
-sourceContentHash: "41da53bbfb03e372"
+sourceContentHash: "a19e277de86aa738"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_20260505_09.jp
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Menara TH Perdana on Jalan Sultan Ismail, Kuala Lumpur — the office tower that houses the headquarters of the Human Rights Commission of Malaysia (SUHAKAM). Confirmed as Menara TH Perdana by the building signage and the Commons category; SUHAKAM''s own signage is not visible, so the shot stands in for its HQ building'
+images:
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-1.webp
+    alt: 쿠알라룸푸르의 평화로운 시민사회 집회 참가자들. 인권의 맥락을 보여 준다
+    kind: representative
+    origin: third-party
+    subject: 쿠알라룸푸르의 시민사회 집회(인권 맥락)
+    credit: Khairil Yusof / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bersih_4_rally_Human_Rights_Defender.jpg
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-2.webp
+    alt: 밤에 쿠알라룸푸르 거리를 가득 메운 평화로운 공개 집회. 인권위원회가 감독하는 자유들을 보여 준다
+    kind: representative
+    origin: third-party
+    subject: 쿠알라룸푸르 거리의 평화로운 공개 집회(인권 맥락)
+    credit: Apa masalah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muslim_protesters_performing_Ishah_prayer_during_Bersih_4_protests.jpg
 ---
 
 누군가가 인권 침해 진정을 SUHAKAM에 보낼 때, 그 위원회가 실제로 무엇을 할 수 있고 무엇을 할 수 없는가? 그 답은 수사(修辭)가 아니라 — 정확히 네 기능, 한 줄의 조사 권한, 그리고 넘을 수 없는 몇 개의 붉은 선을 정하는 간결한 1999년 법에 있습니다.

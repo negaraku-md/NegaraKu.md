@@ -31,7 +31,7 @@ faq:
     a: "CIMB தன்னை மலேசியா, Indonesia, Singapore மற்றும் Thailand உள்ளிட்ட சந்தைகள் முழுவதும் இயங்கும் ASEAN-மையக் குழுமமாக விவரிக்கிறது. RHB ஏழு பிராந்திய சந்தைகளில் இயங்குகிறது. Maybank மூன்று தாய்ச் சந்தைகளை — மலேசியா, Singapore மற்றும் Indonesia — உள்ளடக்குகிறது, மேலும் ASEAN முழுவதும் மற்றும் முக்கிய உலகளாவிய நிதி மையங்களில் செயல்பாடுகளையும் கொண்டுள்ளது."
 
 lang: "ta"
-sourceContentHash: "14c6f8fee1c877fb"
+sourceContentHash: "ae9e39ab428b7fce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,6 +96,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_View_of_KLCC.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-1.webp
+    alt: இணையான வளைந்த கத்தி போன்ற கோபுரங்கள் மேபேங்க் தலைமையகத்தை உருவாக்கும் ஒரு உயரமான வெள்ளை வானளாவிய கட்டிடம், நீல வானத்தைப் பின்னணியாகக் கொண்டு சுற்றியுள்ள மரங்களுக்கும் நகரத் தெருக்களுக்கும் மேலே உயர்ந்து நிற்கிறது
+    kind: actual
+    origin: third-party
+    subject: மெனாரா மேபேங்க், கோலாலம்பூர் மையப்பகுதியில் உள்ள மலாயன் பேங்கிங் (Maybank) நிறுவனத்தின் தலைமையகக் கோபுரம், மலேசியாவின் மிகப்பெரிய வங்கி
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Maybank_Tower.jpg
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-2.webp
+    alt: தெரு மட்டத்தில் ஒரு CIMB வங்கிக் கிளையும் அதன் சிவப்பு CIMB பலகையும் கொண்ட ஒரு பல மாடிக் கட்டிடம், ஒரு கண்ணாடி முகப்பு, மற்றும் தெளிந்த வானத்தின் கீழ் முன்பக்க நடைபாதையில் நடந்து செல்லும் பாதசாரிகள்
+    kind: actual
+    origin: third-party
+    subject: பாங்குனான் UMNO-வின் தெரு மட்டத்தில் உள்ள ஒரு CIMB வங்கிக் கிளை; சொத்துகளின் அடிப்படையில் மலேசியாவின் மிகப்பெரிய வங்கிகளில் CIMB ஒன்றாகும்
+    credit: Qhairy / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank,_Bangunan_UMNO.jpg
 ---
 
 கிட்டத்தட்ட ஒவ்வொரு மலேசிய நகரத் தெருவிலும் ஆதிக்கம் செலுத்தும் ஐந்து பெயர்களை வரிசைப்படுத்துங்கள் — [Maybank](/ta/companies/maybank), CIMB, Public Bank, RHB மற்றும் Hong Leong — நாட்டின் சம்பளங்கள், வீட்டுக் கடன்கள் மற்றும் வர்த்தகத்தை நிலைநிறுத்தும் ஒரு வங்கி அமைப்பின் மையத்தை நீங்கள் பார்க்கிறீர்கள். இவை அனைத்தும் மலேசியாவில் இணைக்கப்பட்டவை, அனைத்தும் Bursa Malaysia-வில் பட்டியலிடப்பட்டவை, மேலும் அனைத்தும் ஒரே மத்திய வங்கியால் உரிமம் பெற்றவை. அதற்கு அப்பால், அவை கூர்மையாக வேறுபடுகின்றன: ஒன்று அளவில் மற்றவற்றை மிகச் சிறியதாக்குகிறது, சில நடைமுறையில் அரசாங்கத்தால் நங்கூரமிடப்பட்டுள்ளன, மேலும் இரண்டு தங்களை நிறுவிய குடும்பங்களால் இன்னும் வழிநடத்தப்படுகின்றன.

@@ -69,7 +69,7 @@ keywords:
   - Kelantan Terengganu rain
   - southwest monsoon
   - rainy season Malaysia
-sourceContentHash: "87793e0da2237cfd"
+sourceContentHash: "f4ce8e4f34f4c543"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -88,6 +88,25 @@ heroLicense: 'CC BY 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:December_2021_Malaysian_floods_in_Klang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/northeast-monsoon/body-1.webp
+    alt: Agua de inundación estancada sobre la carretera federal K151 tras una súbita crecida del río en Kampung Padang Pusing, Pendang, Kedah
+    kind: actual
+    origin: third-party
+    subject: Agua de inundación sobre una carretera tras una súbita crecida del río, Pendang, Kedah
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Padang_Pusing,_Pendang_20240917_125046.jpg
+  - role: scene
+    src: /media/environment/northeast-monsoon/body-2.webp
+    alt: Oscuras nubes de tormenta monzónica acumulándose sobre un paisaje tropical
+    kind: representative
+    origin: third-party
+    subject: Nubes de tormenta monzónica (imagen representativa)
+    credit: lensnmatter / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Monsoon_(36877269620).jpg
 ---
 
 Cada año, hacia la época en que el resto del mundo se adentra en el invierno, la costa este de Malasia se prepara. Se sacan las embarcaciones del agua, los complejos turísticos de las islas cierran sus puertas, se alistan los centros de ayuda ante inundaciones y las familias de los pueblos en zonas bajas vigilan los ríos. Este es el **monzón del noreste**: la mayor influencia sobre el clima de Malasia, y la razón por la que el país tiene, en efecto, una temporada húmeda diferenciada en lugar de una lluvia tropical uniforme durante todo el año.

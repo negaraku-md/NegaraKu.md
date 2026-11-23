@@ -71,7 +71,27 @@ sources:
     url: "https://www.mof.gov.my/portal/en/news/press-release/government-implements-targeted-diesel-subsidy-for-peninsular-malaysia-effective-10-june-2024"
     publisher: "وزارة المالية الماليزية (MOF)"
   - title: "الحكومة توفّر RM5 مليار عبر ترشيد دعم الديزل — وزارة المالية (Govt Saves RM5 Bln Through Diesel Subsidy Rationalisation — MoF)"
-    url: "https://www.mof.gov.my/portal/en/news/press-citations/govt-saves-rm5-bln-through-diesel-subsidy-rationalisation---mof"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/govt-saves-rm5-bln-through-diesel-subsidy-rationalisation
+images:
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-1.webp
+    alt: محطة وقود بعلامة Shell ذات مظلّة بحافة حمراء تغطّي عدة جزر لمضخّات الوقود، وشعار Shell pecten الأصفر على لوحة العمود الجانبية، ومحلات وسيارات قريبة تحت سماء مشرقة
+    kind: actual
+    origin: third-party
+    subject: ساحة محطة وقود Shell في Taman Pelangi، Johor Bahru، بجزرها لمضخّات الوقود تحت مظلّة
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Taman_Pelangi.jpg
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-2.webp
+    alt: ساحة محطة وقود تحت مظلّة مسطّحة واسعة تظلّل مضخّات الوقود، وعمود لوحة أسعار مرتفع مُضاء قائم عند جانب الطريق، ومبنى متجر صغير بجانبه في يوم غائم
+    kind: actual
+    origin: third-party
+    subject: محطة وقود بعلامة FIVE في Ijok، Selangor، إحدى سلاسل بيع الوقود المستقلة في ماليزيا، بساحتها وعمود الأسعار
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ijok_FIVE_petrol_station_(230318).jpg
+---mof"
     publisher: "وزارة المالية الماليزية (MOF)"
   - title: "برنامج Budi Diesel يبدأ غداً، 700,000 من أصحاب المركبات سيدفعون RM2.10 لكل لتر (BUDI Diesel Starts Tomorrow, 700,000 Vehicle Owners To Pay RM2.10 A Litre)"
     url: "https://www.mof.gov.my/portal/en/news/press-citations/budi-diesel-starts-tomorrow-700-000-vehicle-owners-to-pay-rm2-10-a-litre"

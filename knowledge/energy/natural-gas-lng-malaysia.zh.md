@@ -36,7 +36,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4e24ddc5a51e8881"
+sourceContentHash: "5679eeb98bbb3cbf"
 
 status: "published"
 aiAssisted: true
@@ -100,6 +100,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/natural-gas-lng-malaysia/body-1.webp
+    alt: 一艘大型液化天然气运输船在开阔水域航行,长长的甲板上排列着大型隔热货舱结构与管道,在晴朗的天空下留下航迹
+    kind: representative
+    origin: third-party
+    subject: 一艘液化天然气运输船,属于向海外买家运送马来西亚液化天然气的船型
+    credit: Rhetos / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Minerva_Amorgos_(LNG-Tanker).jpg
+  - role: scene
+    src: /media/energy/natural-gas-lng-malaysia/body-2.webp
+    alt: 一座占地广阔的陆上天然气处理终端,设有高耸的蒸馏塔、银色球形储罐、火炬塔与密集的管道网络,坐落在开辟出的沿海土地上,后方是山丘
+    kind: actual
+    origin: third-party
+    subject: 沙巴基马尼斯的沙巴油气终端(SOGT),国家石油公司(Petronas)的一座陆上天然气处理设施
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-30.jpg
 ---
 
 每当雪兰莪的一座发电厂启动，或槟城的一家手套工厂点燃烤炉时，所用的天然气很可能是从数百公里之外——登嘉楼近海，或跨越南中国海的砂拉越——开始它的旅程的。马来西亚既是举足轻重的天然气出口国，又日益成为天然气进口国，而调和这两个事实的管道和终端，正是这个国家最有价值的能源资产之一。

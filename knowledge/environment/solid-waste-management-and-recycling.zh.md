@@ -33,7 +33,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1d664666863d04f5"
+sourceContentHash: "6f03b4a914139a0d"
 
 status: "published"
 aiAssisted: true
@@ -113,6 +113,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-1.webp
+    alt: 雪兰莪乌鲁雪兰莪色巴甲村附近的武吉达加卫生堆填区
+    kind: actual
+    origin: third-party
+    subject: 雪兰莪乌鲁雪兰莪的武吉达加卫生堆填区
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Tagar_Landfill,_Kampung_Sepakat_20231226_141258.jpg
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-2.webp
+    alt: 沙巴古达由地方议会运营的一辆市政垃圾收集车
+    kind: actual
+    origin: third-party
+    subject: 沙巴古达的市政垃圾收集车
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat_Sabah_Garbage-Collection-Truck-01.jpg
 ---
 
 在柔佛丢一袋垃圾，它便成了联邦政府的事务；把同一袋垃圾丢在槟城，它却仍是地方议会的事务。这正是马来西亚管理其固体废物方式的核心怪象——一部气派的联邦法律，却只在同意采纳它的地方生效。

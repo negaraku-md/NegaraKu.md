@@ -31,7 +31,7 @@ faq:
   - q: मलेशियाई फर्नीचर के मुख्य ग्राहक कौन हैं?
     a: संयुक्त राज्य अमेरिका कहीं अधिक अंतर से सबसे बड़ा एकल बाज़ार है — जिसने 2024 में फर्नीचर निर्यात का लगभग आधा हिस्सा लिया — इसके बाद सिंगापुर, ऑस्ट्रेलिया, जापान और यूनाइटेड किंगडम जैसे बाज़ार आते हैं। यह भारी अमेरिकी संकेंद्रण उद्योग को अमेरिकी आवास माँग और टैरिफ नीति के प्रति भी संवेदनशील बना देता है।
 lang: hi
-sourceContentHash: "156e73848cc57164"
+sourceContentHash: "32c9844fa3d127af"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -109,6 +109,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-1.webp
+    alt: क्लुआंग, जोहोर में Home Best फर्नीचर स्टोर की चटख लाल-और-सफ़ेद कोने वाली इमारत, जिसके साइनबोर्ड पर मलय और चीनी में Pusat Perabot Home Best Furniture लिखा है, साफ़ नीले आकाश के सामने।
+    kind: actual
+    origin: third-party
+    subject: एक फर्नीचर विक्रेता, Pusat Perabot Home Best, जालान मंगगिस, क्लुआंग शहर, जोहोर, मलेशिया में
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Home_Best_Furniture_May_2024.jpg
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-2.webp
+    alt: सांदाकान, सबा में एक खुले-किनारे वाले छतयुक्त लकड़ी यार्ड को भरते ताज़ा चिरी उष्णकटिबंधीय लकड़ी के तख्तों की करीने से लगी कतारें, जिनकी गरम शहद और लालिमा-भूरी रेशे-बनावट दोपहर की धूप में चमक रही है।
+    kind: actual
+    origin: third-party
+    subject: सांदाकान, सबा, मलेशिया में एक लकड़ी यार्ड में बिक्री के लिए चिरी हुई उष्णकटिबंधीय लकड़ी के तख्तों के ढेर
+    credit: CEphoto / Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sale-of-timbers-01.jpg
 ---
 
 टेक्सास या कैलिफ़ोर्निया के किसी घर में, अच्छी संभावना है कि वहाँ की डाइनिंग कुर्सी, पलंग का फ्रेम या किताबों की अलमारी मलेशिया में बनी थी — बहुत संभव है कि एक ही कस्बे में और उसके आसपास, एक ऐसे रबर के पेड़ की लकड़ी से जो कभी दस्तानों और टायरों के लिए लेटेक्स पैदा करता था। मलेशिया का फर्नीचर एवं लकड़ी-उत्पाद उद्योग उसकी विनिर्माण अर्थव्यवस्था के चुपचाप दिग्गजों में से एक है: भले ही चमकदार न हो, पर एक लगातार शीर्ष-दस वैश्विक निर्यातक, जिसने बागान क्षेत्र के एक उप-उत्पाद को दुनिया भर में बिकने वाले तैयार माल में बदल दिया है।

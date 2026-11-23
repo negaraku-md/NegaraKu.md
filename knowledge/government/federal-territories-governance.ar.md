@@ -32,7 +32,7 @@ faq:
     a: "تنسّق دائرة الأقاليم الاتحادية (JWP) التابعة لدائرة رئيس الوزراء السياسة والتنمية عبر الأقاليم الثلاثة على المستوى الاتحادي، في حين أن DBKL وهيئة بوتراجايا وهيئة لابوان هي السلطات المحلية التي تتولى الشؤون اليومية مثل التراخيص والتخطيط العمراني والخدمات البلدية في أقاليمها."
 
 lang: "ar"
-sourceContentHash: "9bb7978f0345dc23"
+sourceContentHash: "8bf6e6135ecc6c79"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/government/federal-territories-governance/body-1.webp
+    alt: المبنى الإداري لهيئة Putrajaya، السلطة المحلية التي تحكم إقليم Putrajaya الاتحادي
+    kind: actual
+    origin: third-party
+    subject: مقرّ Perbadanan Putrajaya (هيئة بوتراجايا)، السلطة المحلية لإقليم Putrajaya الاتحادي
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-perbadanan.jpg
+  - role: scene
+    src: /media/government/federal-territories-governance/body-2.webp
+    alt: الواجهة المقبّبة لقصر العدل في Putrajaya، وعليها شعار النبالة الاتحادي الماليزي، وهو مبنى حكومي للإقليم الاتحادي
+    kind: actual
+    origin: third-party
+    subject: قصر العدل (Istana Kehakiman)، مبنى حكومي اتحادي في Putrajaya
+    credit: Wolfiewhite / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Direct_view_of_the_front_of_Palace_of_Justice,_Putrajaya.jpg
 ---
 
 في الولاية، هناك سلطان أو يانغ دي-بِرتوا نيݢري (Yang di-Pertua Negeri)، وهناك رئيس وزراء الولاية (Menteri Besar) أو كبير الوزراء (Chief Minister)، وهناك مجلس تشريعي للولاية ينتخبه الناس. أما في كوالالمبور وبوتراجايا ولابوان، فلا شيء من ذلك. فهذه الأماكن الثلاثة ليست ولايات — بل هي أقاليم اتحادية، وتديرها الحكومة الاتحادية مباشرةً.

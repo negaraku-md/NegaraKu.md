@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4e24ddc5a51e8881"
+sourceContentHash: "5679eeb98bbb3cbf"
 
 status: "published"
 aiAssisted: true
@@ -99,6 +99,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bintulu_LNG_port.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/natural-gas-lng-malaysia/body-1.webp
+    alt: 開けた水面を進む大型の液化天然ガス運搬船。長い甲板には大きな断熱式の貨物タンク構造と配管が並び、晴れた空の下で航跡を残す
+    kind: representative
+    origin: third-party
+    subject: マレーシア産LNGを海外の買い手へ運ぶ型式の液化天然ガス運搬船
+    credit: Rhetos / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Minerva_Amorgos_(LNG-Tanker).jpg
+  - role: scene
+    src: /media/energy/natural-gas-lng-malaysia/body-2.webp
+    alt: 高い蒸留塔、銀色の球形タンク、フレアスタック、密集した配管の格子を備えた広大な陸上ガス処理ターミナル。切り開かれた沿岸の土地に立ち、後方には丘が広がる
+    kind: actual
+    origin: third-party
+    subject: サバ州キマニスのサバ石油ガスターミナル(SOGT)。ペトロナスの陸上ガス処理施設
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-30.jpg
 ---
 
 セランゴールの発電所が稼働し、あるいはペナンの手袋工場が炉を温めるたびに、その天然ガスはおそらく数百キロメートル離れた場所——トレンガヌ沖合、あるいは南シナ海を越えたサラワク——で旅を始めている。マレーシアは有数の天然ガス輸出国であると同時に、ますます天然ガスの輸入国となりつつある。この二つの事実を調和させる配管とターミナルこそ、同国で最も価値あるエネルギー資産の一つである。

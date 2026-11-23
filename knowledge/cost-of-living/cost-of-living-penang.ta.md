@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "பினாங்கின் வாழ்க்கைச் செலவை கிள்ளான் பள்ளத்தாக்குடன் ஒப்பிடுபவர்கள், அல்லது இடம்பெயர்வதற்கு, வாடகைக்கு எடுப்பதற்கு அல்லது தொழில் தொடங்குவதற்கு முன் பினாங்கு தீவுக்கும் Seberang Perai க்கும் இடையே முடிவெடுப்பவர்கள் அனைவருக்கும்."
 
 lang: "ta"
-sourceContentHash: "be67d52caf0f3908"
+sourceContentHash: "cbe6d680c7337a93"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Skyline_of_George_Town,_Pen
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'George Town skyline at dusk, Penang'
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-1.webp
+    alt: பினாங், ஜார்ஜ் டவுனில் மக்காலம் தெருவில் உயரமான குடியிருப்புத் தொகுதிகள், நகர்ப்புற வீட்டுவசதியைச் சித்தரிக்கிறது
+    kind: actual
+    origin: third-party
+    subject: பினாங், ஜார்ஜ் டவுன், மக்காலம் தெருவில் உயரமான பொதுக் குடியிருப்பு வீட்டுத் தொகுதிகள்
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Maccalum_Street_Flats,_George_Town,_Penang_(2024).jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-2.webp
+    alt: பினாங், சுங்கை பாக்காப் ஈரச் சந்தையில் வியாபாரிகளும் கடைகளும்
+    kind: actual
+    origin: third-party
+    subject: பினாங், சுங்கை பாக்காப்பில் ஈரச் சந்தை
+    credit: Dreamtrooper / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Bakap_Wet_Market.JPG
 ---
 
 “வாழ்க்கைச் செலவை” ஒரே எண்ணால் பதிலளிக்க முடியாத ஒரே மலேசிய மாநிலம்

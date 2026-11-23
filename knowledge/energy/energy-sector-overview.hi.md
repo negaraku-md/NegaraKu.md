@@ -34,7 +34,7 @@ faq:
     a: "PETRA (Ministry of Energy Transition and Water Transformation) वह मंत्रालय है जो राष्ट्रीय ऊर्जा और जल नीति तैयार करता है और 2050 तक शुद्ध-शून्य उत्सर्जन की ओर संक्रमण को चलाता है। ऊर्जा आयोग PETRA के अधीन वह वैधानिक नियामक निकाय है जो बिजली और गैस आपूर्ति को नियंत्रित करने वाले कानूनों को लाइसेंस देता है, टैरिफ निर्धारित करता है और प्रवर्तित करता है।"
 
 lang: "hi"
-sourceContentHash: "13e97e8a9ffe1cf9"
+sourceContentHash: "becb3a419d467637"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jimah_East_Coal-Fired_Power_Plant_(Aerial_View).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-1.webp
+    alt: टरबाइन हॉल, धातु के निकास स्टैक और ट्रांसफार्मर व स्टील गैंट्री के बाड़ वाले स्विचयार्ड वाला एक गैस-आधारित पावर स्टेशन, साफ़ की गई ज़मीन पर, पीछे वनाच्छादित पहाड़ियाँ और चमकीला आकाश
+    kind: actual
+    origin: third-party
+    subject: कोटा किनाबालू, सबा के पास रुगाडिंग पावर स्टेशन, सबा ग्रिड को बिजली देने वाला एक गैस-आधारित उत्पादन संयंत्र
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Rugading-Power-Station-02.jpg
+  - role: scene
+    src: /media/energy/energy-sector-overview/body-2.webp
+    alt: एक तटीय पावर स्टेशन, जिसमें नीची औद्योगिक इमारतें, धातु की नलिकाएँ और सीमा-बाड़ के पीछे एक ऊँची चिमनी है, पास में ताड़ के पेड़ और खुली ज़मीन, धुंधले आकाश के नीचे
+    kind: actual
+    origin: third-party
+    subject: मेलाका के तट पर तंजुंग क्लिंग पावर स्टेशन, प्रायद्वीपीय मलेशिया के उत्पादन बेड़े का हिस्सा
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjung_Kling_Power_Station.JPG
 ---
 
 कुआलालंपुर में एक लाइट स्विच दबाएँ, इपोह में RON95 भरवाएँ, या जोहोर में किसी छत पर सौर

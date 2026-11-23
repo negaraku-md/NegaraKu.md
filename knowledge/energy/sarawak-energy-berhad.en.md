@@ -30,7 +30,7 @@ faq:
     a: "The Bakun Hydroelectric Plant, with an available capacity of 2,520MW, is the largest generation facility in Sarawak."
 
 lang: "en"
-sourceContentHash: "842a8fcd8feb3418"
+sourceContentHash: "b4478573670990b9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY 2.5'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-1.webp
+    alt: A massive concrete-faced hydroelectric dam wall descending into a river gorge, with a stepped spillway and powerhouse at its base, ringed by cleared slopes and rainforest-covered hills
+    kind: actual
+    origin: third-party
+    subject: the Bakun hydroelectric dam in Sarawak, the giant concrete-face rockfill dam at the heart of the state's power system
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-2.webp
+    alt: A tall concrete dam set across a river valley with spillway gates and a crest roadway, deep green reservoir water on one side and forested mountains rising all around
+    kind: actual
+    origin: third-party
+    subject: the Murum hydroelectric dam in the Sarawak interior, part of the state's cascade of hydropower dams
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum.jpg
 ---
 
 While Peninsular Malaysia relies on Tenaga Nasional Berhad, Sarawak lights its own lamps through a single utility whose grid is not connected at all to the national grid — and which is generated almost entirely by the waterfalls of giant dams in the interior.

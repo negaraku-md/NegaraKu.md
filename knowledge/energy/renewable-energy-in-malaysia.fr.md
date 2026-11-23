@@ -27,7 +27,7 @@ faq:
   - q: "Comment une entreprise peut-elle acheter de l'énergie renouvelable sans installer ses propres panneaux ?"
     a: "Le Corporate Green Power Programme (CGPP) permet à un consommateur d'entreprise de signer un accord virtuel d'achat d'énergie avec un producteur d'énergie solaire pour l'énergie renouvelable et ses attributs verts, avec une fourniture ferme soutenue par le service public. Son quota de 800 MW a été entièrement souscrit en novembre 2023. Les entreprises qui l'ont manqué peuvent recourir au Corporate Renewable Energy Supply Scheme (CRESS), lancé en septembre 2024, qui achemine l'énergie verte à travers le réseau de TNB moyennant une Charge d'accès au système."
 lang: "fr"
-sourceContentHash: "d9838f1e57d307b7"
+sourceContentHash: "50784100ca6e3481"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -119,6 +119,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-1.webp
+    alt: De longues rangées de panneaux solaires photovoltaïques bleu foncé sur de bas châssis métalliques à travers un champ herbeux défriché, clôturé et s'étendant vers une lointaine lisière d'arbres sous un ciel bleu lumineux parsemé de nuages
+    kind: actual
+    origin: third-party
+    subject: une centrale solaire photovoltaïque au sol à Sungai-Sungai, Sabah, produisant de l'électricité pour le réseau rural
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-01.jpg
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-2.webp
+    alt: Un barrage incurvé retenant un réservoir vert parmi des collines boisées, avec un canal d'évacuation de crue et des ouvrages de prise d'eau sur son parement, et une dense jungle tropicale couvrant les versants environnants
+    kind: actual
+    origin: third-party
+    subject: le barrage et le réservoir hydroélectriques de Pergau à Kelantan, un projet d'hydroélectricité renouvelable de la Malaisie péninsulaire
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pergau_Dam.jpg
 ---
 
 Si vous avez cherché à vous renseigner sur l'énergie renouvelable (RE) en Malaisie, vous êtes probablement tombé sur trois chiffres d'objectif différents — 31 %, 40 % et 70 % — et sur un mur de sigles : FiT, NEM, LSS, CGPP, CRESS, SELCO. Rien de tout cela n'est contradictoire ; c'est simplement réparti entre une demi-douzaine d'organismes, chacun ne documentant que son propre coin. Ce guide réunit l'ensemble du paysage en un seul endroit : les objectifs nationaux et les feuilles de route qui les sous-tendent, la famille de dispositifs et — la partie que la plupart des sources omettent — quel programme est réellement destiné à un propriétaire, à une entreprise ou à un développeur.

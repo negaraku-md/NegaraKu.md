@@ -35,7 +35,7 @@ faq:
     a: "क्योंकि दोनों को अलग-अलग व्यवसायों के रूप में प्रबंधित किया जाता है। ताड़-तेल उपयुक्त भूमि पर एक बड़े-पैमाने की, लाभदायक निर्यात जिंस है, जबकि चावल सब्सिडी और सिंचाई पर निर्भर एक कम-मार्जिन वाली खाद्य फसल है। भूमि, पूँजी और श्रम अधिक लाभदायक जिंस-फसलों की ओर बहने की प्रवृत्ति रखते हैं।"
 
 lang: "hi"
-sourceContentHash: "e80995e62391c5c0"
+sourceContentHash: "86c39872c39e72b3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -111,6 +111,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-1.webp
+    alt: कैमरन हाइलैंड्स, पहांग में बरतम घाटी की पहाड़ियों पर सीढ़ीनुमा सब्ज़ी के खेत और पॉलीटनल
+    kind: actual
+    origin: third-party
+    subject: कैमरन हाइलैंड्स, पहांग के बरतम नदी घाटी में पहाड़ी सब्ज़ी के खेत
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bertam_3.jpg
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-2.webp
+    alt: कैमरन हाइलैंड्स के कम्पुंग राजा में एक पहाड़ी गाँव के ऊपर धूप में नहाए पत्तेदार सब्ज़ियों के सीढ़ीनुमा खेत
+    kind: actual
+    origin: third-party
+    subject: कैमरन हाइलैंड्स, पहांग के कम्पुंग राजा में खुले मैदान का सब्ज़ी खेत
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Raja_5.jpg
 ---
 
 2024 में, मलेशिया ने तेल-ताड़ के 100 मिलियन टन से अधिक ताज़ा फल-गुच्छे उत्पादित किए —

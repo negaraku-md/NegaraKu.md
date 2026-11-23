@@ -27,7 +27,7 @@ faq:
   - q: "Bagaimana sebuah perusahaan dapat membeli energi terbarukan tanpa memasang panelnya sendiri?"
     a: "Program Listrik Hijau Korporat (CGPP) memungkinkan pengguna korporat menandatangani perjanjian pembelian listrik virtual dengan produsen listrik surya untuk energi terbarukan dan atribut hijaunya, dengan pasokan tetap didukung oleh utilitas. Kuota 800 MW-nya telah dilanggan penuh pada November 2023. Korporat yang terlewat dapat menggunakan Skema Pasokan Energi Terbarukan Korporat (CRESS), diluncurkan pada September 2024, yang menyalurkan listrik hijau melalui grid TNB dengan Biaya Akses Sistem."
 lang: "id"
-sourceContentHash: "d9838f1e57d307b7"
+sourceContentHash: "50784100ca6e3481"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -119,6 +119,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-1.webp
+    alt: Barisan panjang panel fotovoltaik surya biru tua di atas rangka logam rendah melintasi lapangan berumput yang telah dibuka, berpagar dan membentang ke arah deretan pohon di kejauhan di bawah langit biru cerah dengan awan yang tersebar
+    kind: actual
+    origin: third-party
+    subject: Sebuah ladang fotovoltaik surya terpasang di tanah di Sungai-Sungai, Sabah, membangkitkan listrik untuk jaringan pedesaan
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-01.jpg
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-2.webp
+    alt: Sebuah bendungan melengkung yang menahan waduk berwarna hijau di antara perbukitan berhutan, dengan saluran pelimpah dan struktur pengambilan air di mukanya serta hutan tropis lebat yang menyelimuti lereng di sekelilingnya
+    kind: actual
+    origin: third-party
+    subject: Bendungan dan waduk pembangkit listrik tenaga air Pergau di Kelantan, sebuah skema tenaga air terbarukan di Semenanjung Malaysia
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pergau_Dam.jpg
 ---
 
 Jika Anda pernah mencoba membaca tentang energi terbarukan (RE) di Malaysia, Anda mungkin telah bertemu tiga angka sasaran yang berbeda — 31%, 40% dan 70% — dan sederet tembok akronim: FiT, NEM, LSS, CGPP, CRESS, SELCO. Tidak satu pun yang bertentangan; semua itu hanya tersebar di setengah lusin lembaga, masing-masing mendokumentasikan hanya bagiannya sendiri. Panduan ini menghimpun keseluruhan lanskap ke satu tempat: sasaran nasional dan peta jalan di baliknya, keluarga skema, dan — bagian yang kebanyakan sumber lewati — program mana yang sebenarnya ditujukan untuk pemilik rumah, bisnis, atau pengembang.

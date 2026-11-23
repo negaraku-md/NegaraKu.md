@@ -30,7 +30,7 @@ faq:
     a: "ธุรกิจหลักของ TNB ครอบคลุมคาบสมุทรมาเลเซีย ในซาบาห์และลาบวน การจ่ายไฟฟ้าดำเนินการโดย Sabah Electricity Sdn. Bhd. ซึ่ง TNB ถือหุ้นส่วนใหญ่ (82.75%) และรัฐบาลรัฐซาบาห์ถือครอง 17.24% ส่วนซาราวักจ่ายไฟฟ้าโดยสาธารณูปโภคแยกต่างหาก ไม่ใช่ TNB"
 
 lang: "th"
-sourceContentHash: "b6b33bf3419779ac"
+sourceContentHash: "3db20cd889aecd5a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Power_Station.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-1.webp
+    alt: อาคารสำนักงานแบรนด์ TNB ที่มีชื่อ Tenaga Nasional และโลโก้อยู่บนด้านหน้าอาคาร มีสวนจัดภูมิทัศน์และลานจอดรถด้านหน้า ภายใต้ท้องฟ้าสีครามสดใส
+    kind: actual
+    origin: third-party
+    subject: สำนักงานเตอนากานาซีอองนัล (TNB) ที่อาโลร์เซอตาร์ รัฐเกอดะฮ์ หนึ่งในอาคารบริการระดับรัฐของการไฟฟ้าแห่งชาติ
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TNB_Alor_Setar.jpg
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-2.webp
+    alt: เสาส่งไฟฟ้าโครงเหล็กขึงสายไฟแรงสูงเรียงรายข้ามช่องแคบทะเลกว้างเลียบสะพานถนนยาว โดยมีเกาะและเนินเขาแผ่นดินใหญ่อยู่ไกล ๆ
+    kind: actual
+    origin: third-party
+    subject: เสาส่งไฟฟ้าแรงสูงของ TNB ขึงสายไฟข้ามช่องแคบเลียบสะพานปีนังไปยังเกาะกาซุมโบ
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge,_TNB_transmission_towers,_and_Pulau_Gazumbo_from_The_Waterfront_Shoppes_rooftop_(261108).jpg
 ---
 
 ทุกครั้งที่ไฟสว่างขึ้นในบ้าน โรงงาน หรือศูนย์ข้อมูลในคาบสมุทรมาเลเซีย อิเล็กตรอนเหล่านั้นมีแนวโน้มสูงที่จะไหลผ่านโครงข่ายที่บริษัทเดียวเป็นเจ้าของ นั่นคือ Tenaga Nasional Berhad บริษัทนี้ไม่ได้เป็นเพียงผู้ผลิตไฟฟ้าเท่านั้น แต่ยังเป็นกระดูกสันหลังของระบบพลังงานของประเทศ ตั้งแต่สถานีผลิตไฟฟ้าไปจนถึงมิเตอร์ไฟฟ้าบนผนัง

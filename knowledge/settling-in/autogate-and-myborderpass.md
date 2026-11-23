@@ -96,6 +96,25 @@ heroLicense: 'CC BY-SA 3.0 de'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-1.webp
+    alt: The arrival hall at Kuala Lumpur International Airport Terminal 1, where travellers clear immigration
+    kind: actual
+    origin: third-party
+    subject: Arrival hall at Kuala Lumpur International Airport Terminal 1
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arrival_hall_of_Kuala_Lumpur_International_Airport_Terminal_1_20250828_212245.jpg
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-2.webp
+    alt: The Bangunan Sultan Iskandar immigration checkpoint complex at the Johor Bahru land border crossing
+    kind: actual
+    origin: third-party
+    subject: Bangunan Sultan Iskandar CIQ complex, the Johor Bahru land border crossing to Singapore
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Sultan_Iskandar_2.jpg
 ---
 
 An **autogate** is an automated immigration gate: it reads the chip in your passport, matches your face to the photo, and opens — no officer, no ink stamp, usually in well under half a minute. The newer QR-code lanes are faster still, clearing a traveller in about five to seven seconds. For anyone who crosses the Malaysian border regularly, knowing which lane you are allowed to use saves real time.

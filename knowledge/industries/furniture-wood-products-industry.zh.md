@@ -31,7 +31,7 @@ faq:
   - q: 马来西亚家具的主要客户是谁？
     a: 美国是迄今为止单一最大市场——2024 年占家具出口近一半——其次是新加坡、澳大利亚、日本与英国等市场。这种对美国的高度集中，也使该产业对美国的房市需求与关税政策颇为敏感。
 lang: zh
-sourceContentHash: "156e73848cc57164"
+sourceContentHash: "32c9844fa3d127af"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -109,6 +109,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-1.webp
+    alt: 柔佛居銮Home Best家具店醒目的红白转角建筑,招牌以马来文与中文写着Pusat Perabot Home Best Furniture,衬着晴朗的蓝天
+    kind: actual
+    origin: third-party
+    subject: 马来西亚柔佛居銮市山竹路上的家具零售店Pusat Perabot Home Best
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Home_Best_Furniture_May_2024.jpg
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-2.webp
+    alt: 沙巴山打根一处敞开式带顶木材场里,整齐堆叠着一排排刚锯好的热带木板,蜜色与红棕色的木纹在午后阳光下泛光
+    kind: actual
+    origin: third-party
+    subject: 马来西亚沙巴山打根一处木材场出售的成堆锯制热带木板
+    credit: CEphoto / Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sale-of-timbers-01.jpg
 ---
 
 在得克萨斯或加利福尼亚某个家庭里，那张餐椅、床架或书架很有可能产自马来西亚——很可能就出自一个小镇及其周边，用的是一棵曾为手套和轮胎产胶的橡胶树的木材。马来西亚的家具与木制品产业是其制造经济中安静的重量级选手之一：并不光鲜，却是稳定的全球前十出口国，把种植业的一种副产品变成了行销世界的成品。

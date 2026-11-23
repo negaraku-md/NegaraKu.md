@@ -31,7 +31,7 @@ faq:
   - q: "Qui sont les principaux clients du meuble malaisien ?"
     a: "Les États-Unis sont de loin le plus grand marché unique — absorbant près de la moitié des exportations de meubles en 2024 — suivis de marchés tels que Singapour, l'Australie, le Japon et le Royaume-Uni. Cette forte concentration sur les États-Unis rend aussi l'industrie sensible à la demande immobilière américaine et à la politique tarifaire."
 lang: fr
-sourceContentHash: "156e73848cc57164"
+sourceContentHash: "32c9844fa3d127af"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -109,6 +109,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-1.webp
+    alt: Le bâtiment d'angle rouge et blanc éclatant du magasin de meubles Home Best à Kluang, Johor, dont les enseignes indiquent Pusat Perabot Home Best Furniture en malais et en chinois sur fond de ciel bleu dégagé.
+    kind: actual
+    origin: third-party
+    subject: Un magasin de meubles, Pusat Perabot Home Best, sur Jalan Manggis, dans la ville de Kluang, Johor, Malaisie
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Home_Best_Furniture_May_2024.jpg
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-2.webp
+    alt: Des rangées soigneusement empilées de planches de bois tropical fraîchement scié remplissent un parc à bois couvert et ouvert sur les côtés à Sandakan, Sabah, leur veinage chaud couleur miel et brun rougeâtre illuminé par le soleil de l'après-midi.
+    kind: actual
+    origin: third-party
+    subject: Piles de planches de bois tropical scié en vente dans un parc à bois à Sandakan, Sabah, Malaisie
+    credit: CEphoto / Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sale-of-timbers-01.jpg
 ---
 
 Quelque part dans une maison du Texas ou de Californie, il y a de bonnes chances que la chaise de salle à manger, le cadre de lit ou l'étagère ait été fabriqué en Malaisie — très probablement dans une seule ville et ses environs, à partir du bois d'un hévéa qui produisait autrefois du latex pour les gants et les pneus. L'industrie malaisienne du meuble et des produits du bois est l'un des poids lourds discrets de son économie manufacturière : pas glamour, mais un exportateur mondial régulier du top dix qui a transformé un sous-produit du secteur des plantations en biens finis vendus dans le monde entier.

@@ -32,7 +32,7 @@ faq:
     a: "首相府傘下の連邦直轄区局（JWP）は、三つの直轄区の政策と開発を連邦レベルで調整する。一方、DBKL、プトラジャヤ公社、ラブアン公社は、それぞれの直轄区で発行業務、都市計画、市政サービスといった日常業務を行う地方自治体である。"
 
 lang: "ja"
-sourceContentHash: "9bb7978f0345dc23"
+sourceContentHash: "8bf6e6135ecc6c79"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/government/federal-territories-governance/body-1.webp
+    alt: プトラジャヤ連邦直轄領を統治する地方自治体、プトラジャヤ・コーポレーションの行政庁舎
+    kind: actual
+    origin: third-party
+    subject: プトラジャヤ連邦直轄領の地方自治体、プトラジャヤ・コーポレーションの本部
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-perbadanan.jpg
+  - role: scene
+    src: /media/government/federal-territories-governance/body-2.webp
+    alt: マレーシア連邦国章を掲げたプトラジャヤの司法宮のドーム状の外観。連邦直轄領の政府建物
+    kind: actual
+    origin: third-party
+    subject: 司法宮(イスタナ・ケハキマン)。プトラジャヤにある連邦政府の建物
+    credit: Wolfiewhite / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Direct_view_of_the_front_of_Palace_of_Justice,_Putrajaya.jpg
 ---
 
 州には、スルタン（Sultan）や州元首（Yang di-Pertua Negeri）がおり、州首相（Menteri Besar）や首席大臣（Ketua Menteri）がおり、そして住民が選ぶ州議会（Dewan Undangan Negeri）がある。しかしクアラルンプール、プトラジャヤ、ラブアンには、そのいずれも存在しない。この三つの地域は州ではなく——連邦直轄区（Wilayah Persekutuan）であり、連邦政府によって直接統治されている。

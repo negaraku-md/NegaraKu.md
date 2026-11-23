@@ -71,7 +71,27 @@ sources:
     url: "https://www.mof.gov.my/portal/en/news/press-release/government-implements-targeted-diesel-subsidy-for-peninsular-malaysia-effective-10-june-2024"
     publisher: "กระทรวงการคลังมาเลเซีย (MOF)"
   - title: "รัฐบาลประหยัด RM5 พันล้านผ่านการปรับโครงสร้างการอุดหนุนดีเซล — กระทรวงการคลัง (Govt Saves RM5 Bln Through Diesel Subsidy Rationalisation — MoF)"
-    url: "https://www.mof.gov.my/portal/en/news/press-citations/govt-saves-rm5-bln-through-diesel-subsidy-rationalisation---mof"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/govt-saves-rm5-bln-through-diesel-subsidy-rationalisation
+images:
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-1.webp
+    alt: สถานีบริการน้ำมันเชลล์ที่มีหลังคาขอบแดงคลุมเกาะตู้จ่ายน้ำมันหลายเกาะ มีโลโก้หอยเชลล์สีเหลืองบนป้ายเสาริมถนน พร้อมอาคารร้านค้าและรถยนต์อยู่ใกล้ ๆ ภายใต้ท้องฟ้าสว่าง
+    kind: actual
+    origin: third-party
+    subject: ลานหน้าสถานีบริการน้ำมันเชลล์ที่ตามันเปอลางี ยะโฮร์บาห์รู มีเกาะตู้จ่ายน้ำมันอยู่ใต้หลังคา
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Taman_Pelangi.jpg
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-2.webp
+    alt: ลานหน้าสถานีบริการน้ำมันใต้หลังคาแบนกว้างคลุมตู้จ่ายน้ำมัน มีเสาป้ายบอกราคาสูงส่องสว่างตั้งอยู่ริมถนนและอาคารร้านสะดวกซื้ออยู่ข้าง ๆ ในวันที่ฟ้าครึ้ม
+    kind: actual
+    origin: third-party
+    subject: สถานีบริการน้ำมันแบรนด์ FIVE ที่อีจก รัฐสลังงอร์ หนึ่งในเครือค้าปลีกน้ำมันอิสระของมาเลเซีย พร้อมลานหน้าและเสาบอกราคา
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ijok_FIVE_petrol_station_(230318).jpg
+---mof"
     publisher: "กระทรวงการคลังมาเลเซีย (MOF)"
   - title: "BUDI ดีเซลเริ่มพรุ่งนี้ เจ้าของรถ 700,000 รายจ่ายลิตรละ RM2.10 (BUDI Diesel Starts Tomorrow, 700,000 Vehicle Owners To Pay RM2.10 A Litre)"
     url: "https://www.mof.gov.my/portal/en/news/press-citations/budi-diesel-starts-tomorrow-700-000-vehicle-owners-to-pay-rm2-10-a-litre"

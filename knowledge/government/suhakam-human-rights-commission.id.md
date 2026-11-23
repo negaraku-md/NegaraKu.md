@@ -34,7 +34,7 @@ faq:
     a: "Ya. Pasal 4(2)(d) memberi SUHAKAM kekuasaan mengunjungi tempat penahanan, institusi, dan tempat lain mana pun, dan membuat rekomendasi yang perlu. Pasal 4(3), yang dimasukkan oleh amendemen 2024, menyatakan kunjungan itu tidak boleh ditolak oleh orang yang bertanggung jawab atas tempat tersebut selama prosedur yang ditetapkan dipatuhi."
 
 lang: "id"
-sourceContentHash: "41da53bbfb03e372"
+sourceContentHash: "a19e277de86aa738"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_20260505_09.jp
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Menara TH Perdana on Jalan Sultan Ismail, Kuala Lumpur — the office tower that houses the headquarters of the Human Rights Commission of Malaysia (SUHAKAM). Confirmed as Menara TH Perdana by the building signage and the Commons category; SUHAKAM''s own signage is not visible, so the shot stands in for its HQ building'
+images:
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-1.webp
+    alt: Para peserta dalam aksi damai masyarakat sipil di Kuala Lumpur, menggambarkan konteks hak asasi manusia
+    kind: representative
+    origin: third-party
+    subject: Pertemuan masyarakat sipil di Kuala Lumpur (konteks hak asasi manusia)
+    credit: Khairil Yusof / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bersih_4_rally_Human_Rights_Defender.jpg
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-2.webp
+    alt: Aksi berkumpul damai yang memenuhi sebuah jalan di Kuala Lumpur pada malam hari, menggambarkan kebebasan yang diawasi oleh komisi hak asasi manusia
+    kind: representative
+    origin: third-party
+    subject: Aksi berkumpul damai di sebuah jalan di Kuala Lumpur (konteks hak asasi manusia)
+    credit: Apa masalah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muslim_protesters_performing_Ishah_prayer_during_Bersih_4_protests.jpg
 ---
 
 Ketika seseorang mengirim pengaduan pelanggaran hak asasi kepada SUHAKAM, apa

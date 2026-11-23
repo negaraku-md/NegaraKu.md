@@ -83,6 +83,25 @@ heroLicense: 'CC BY 2.5'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-1.webp
+    alt: Dinding empangan hidroelektrik bermuka konkrit yang gergasi menurun ke dalam gaung sungai, dengan saluran limpah berperingkat dan rumah jana kuasa di dasarnya, dikelilingi lereng yang diteroka dan bukit berselaput hutan hujan
+    kind: actual
+    origin: third-party
+    subject: Empangan hidroelektrik Bakun di Sarawak, empangan isian batu bermuka konkrit gergasi yang menjadi teras sistem kuasa negeri itu
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-2.webp
+    alt: Sebuah empangan konkrit tinggi merentangi lembah sungai dengan pintu air limpah dan jalan di puncaknya, air takungan hijau pekat di satu sisi dan gunung berhutan menjulang di sekeliling
+    kind: actual
+    origin: third-party
+    subject: Empangan hidroelektrik Murum di pedalaman Sarawak, sebahagian daripada rangkaian empangan hidrokuasa negeri itu
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum.jpg
 ---
 
 Ketika Semenanjung Malaysia bergantung pada Tenaga Nasional Berhad, Sarawak menyalakan lampunya sendiri melalui satu utiliti yang gridnya langsung tidak bersambung dengan grid negara — dan hampir keseluruhannya dijana oleh air terjun empangan raksasa di pedalaman.

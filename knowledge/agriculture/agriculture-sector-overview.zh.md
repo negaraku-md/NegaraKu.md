@@ -37,7 +37,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e80995e62391c5c0"
+sourceContentHash: "86c39872c39e72b3"
 
 status: "published"
 aiAssisted: true
@@ -111,6 +111,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-1.webp
+    alt: 彭亨金马伦高原比丹谷山坡上的梯田菜园与塑料大棚
+    kind: actual
+    origin: third-party
+    subject: 彭亨金马伦高原比丹河谷的高地蔬菜农场
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bertam_3.jpg
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-2.webp
+    alt: 金马伦高原甘榜拉惹一座高地村庄上方,阳光照耀的叶菜梯田地块
+    kind: actual
+    origin: third-party
+    subject: 彭亨金马伦高原甘榜拉惹的露天蔬菜农场
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Raja_5.jpg
 ---
 
 2024年，马来西亚生产超过1亿吨油棕鲜果串——据马来西亚统计局（DOSM）约为1.002亿吨——足以维持其作为全球两大棕油生产国之一的地位。同一年，这个国家进口了国民所食用大米的近一半。

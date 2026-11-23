@@ -31,7 +31,7 @@ faq:
   - q: Ai là khách hàng chính của nội thất Malaysia?
     a: Hoa Kỳ là thị trường đơn lẻ lớn nhất rất xa — chiếm gần một nửa xuất khẩu nội thất năm 2024 — theo sau là các thị trường như Singapore, Úc, Nhật Bản và Vương quốc Anh. Sự tập trung nặng vào Hoa Kỳ này cũng khiến ngành nhạy cảm với nhu cầu nhà ở của Mỹ và chính sách thuế quan.
 lang: vi
-sourceContentHash: "156e73848cc57164"
+sourceContentHash: "32c9844fa3d127af"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -109,6 +109,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-1.webp
+    alt: Tòa nhà góc phố màu đỏ-trắng nổi bật của cửa hàng nội thất Home Best ở Kluang, Johor, với các biển hiệu ghi Pusat Perabot Home Best Furniture bằng tiếng Mã Lai và tiếng Hoa trên nền trời xanh trong.
+    kind: actual
+    origin: third-party
+    subject: Một cửa hàng bán lẻ nội thất, Pusat Perabot Home Best, trên đường Jalan Manggis ở thị trấn Kluang, Johor, Malaysia
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Home_Best_Furniture_May_2024.jpg
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-2.webp
+    alt: Những hàng ván gỗ nhiệt đới mới xẻ xếp ngay ngắn chất đầy một bãi gỗ có mái che hở hông ở Sandakan, Sabah, vân gỗ màu mật ong ấm áp và nâu đỏ của chúng được ánh nắng chiều chiếu rọi.
+    kind: actual
+    origin: third-party
+    subject: Những chồng ván gỗ nhiệt đới đã xẻ được bày bán tại một bãi gỗ ở Sandakan, Sabah, Malaysia
+    credit: CEphoto / Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sale-of-timbers-01.jpg
 ---
 
 Đâu đó trong một ngôi nhà ở Texas hoặc California, nhiều khả năng chiếc ghế ăn, khung giường hay kệ sách được làm ở Malaysia — rất có thể ở trong và quanh một thị trấn, từ gỗ của một cây cao su từng cho mủ làm găng tay và lốp xe. Ngành nội thất và sản phẩm gỗ của Malaysia là một trong những "ông lớn thầm lặng" của nền kinh tế chế tạo của nó: không hào nhoáng, nhưng là một nhà xuất khẩu tốp mười toàn cầu ổn định đã biến một sản phẩm phụ của khu vực đồn điền thành hàng thành phẩm bán khắp thế giới.

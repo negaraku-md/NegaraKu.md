@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8f44d2a10fa14edb"
+sourceContentHash: "a3e4b8ba2156b900"
 
 status: "published"
 aiAssisted: true
@@ -94,6 +94,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-1.webp
+    alt: クランタン州の水田で、黄色いコンバインが黄金色に実った稲を刈り取る様子
+    kind: actual
+    origin: third-party
+    subject: クランタン州で黄金色に実った稲を刈り取るコンバイン
+    credit: Zamwan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menuai_padi_di_Kelantan.jpg
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-2.webp
+    alt: ケダ州ランカウイで、後方に森に覆われた丘を背に、収穫を待つ黄金色に熟した稲の田
+    kind: actual
+    origin: third-party
+    subject: ケダ州ランカウイの収穫間近の黄金色の水田
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-05.jpg
 ---
 
 米の値段が上がるたび、あるいはスーパーの棚が空になるたびに、マレーシアには長年つきまとう一つの疑問が舞い戻ってくる——稲田が豊かなこの国が、なぜいまだに米のほぼ半分を輸入しなければならないのか。答えは、補助金に支えられ、保証価格に守られ、いまだ達成されていない自給目標に追われ続ける一つの産業のなかにある。

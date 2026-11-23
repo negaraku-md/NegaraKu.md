@@ -31,7 +31,7 @@ faq:
     a: "여러 품종 중에서 MARDI는 MR 계열(예: MR 297, MR 219), 향미(香米) MRQ 품종, 그리고 말레이시아 최초의 하이브리드 벼인 KADARIA 1을 보급했습니다."
 
 lang: "ko"
-sourceContentHash: "9bb5af4c19ea1667"
+sourceContentHash: "77561bed3c65c105"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Main_entrance_of_MARDI.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/mardi-agricultural-research-institute/body-1.webp
+    alt: 카메론하이랜드의 온실 안에서 높인 배지 트로프에 심어져 줄지어 자라는 딸기 모종
+    kind: representative
+    origin: third-party
+    subject: 카메론하이랜드 온실 내 시설 딸기 재배
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
+  - role: scene
+    src: /media/agriculture/mardi-agricultural-research-institute/body-2.webp
+    alt: 말레이시아 푸트라 대학교 농학부 연구 농장에 줄지어 선 은색 멀칭 재배 베드의 어린 모종과 온실 비가림 시설
+    kind: representative
+    origin: third-party
+    subject: 말레이시아 한 대학교 농업 연구 농장의 재배 베드와 온실
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0912).jpg
 ---
 
 말레이시아에서 거의 모든 그릇의 국산 쌀은 MARDI 시험장에서 육종된 품종으로 거슬러 올라갑니다. 이 나라의 벼, 가금, 열대 과일, 가공식품 진열대 뒤에는 과학을 더 높은 수확량으로 바꾸는 것이 임무인 하나의 연방 연구원이 있습니다.

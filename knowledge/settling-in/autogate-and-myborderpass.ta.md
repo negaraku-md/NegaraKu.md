@@ -35,7 +35,7 @@ faq:
     a: "ஆம், எப்போதும். செயலிகளும் QR குறியீடுகளும் வாயிலை வேகப்படுத்துகின்றன, ஆனால் அவை உங்கள் பயண ஆவணத்தை மாற்றுவதில்லை. 2026 ஆம் ஆண்டின் தொடக்கத்தில் செயலிகள் எதுவும் கட்டாயமில்லை, மேலும் Autogate மற்றும் கைமுறை கவுண்டர்கள் இன்னும் உடல்ரீதியான கடவுச்சீட்டை ஏற்றுக்கொள்கின்றன. குறைந்தது ஆறு மாத கடவுச்சீட்டு செல்லுபடியைப் பராமரிக்கவும்."
 
 lang: "ta"
-sourceContentHash: "dd15b2531cb454e6"
+sourceContentHash: "fe905739669d5516"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 3.0 de'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-1.webp
+    alt: கோலாலம்பூர் சர்வதேச விமான நிலையம் டெர்மினல் 1-ல் பயணிகள் குடிநுழைவுச் சோதனையைக் கடக்கும் வருகை மண்டபம்
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர் சர்வதேச விமான நிலையம் டெர்மினல் 1-ல் வருகை மண்டபம்
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arrival_hall_of_Kuala_Lumpur_International_Airport_Terminal_1_20250828_212245.jpg
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-2.webp
+    alt: ஜொகூர் பாரு தரை எல்லைக் கடவையில் உள்ள பாங்குனான் சுல்தான் இஸ்கந்தர் குடிநுழைவுச் சோதனைச் சாவடி வளாகம்
+    kind: actual
+    origin: third-party
+    subject: பாங்குனான் சுல்தான் இஸ்கந்தர் CIQ வளாகம், சிங்கப்பூருக்கான ஜொகூர் பாரு தரை எல்லைக் கடவை
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Sultan_Iskandar_2.jpg
 ---
 
 **Autogate** என்பது ஒரு தானியங்கி குடிவரவு வாயிலாகும்: இது உங்கள் கடவுச்சீட்டில் உள்ள சிப்பை வாசித்து, உங்கள் முகத்தை புகைப்படத்துடன் பொருத்தி, திறக்கிறது — அதிகாரி இன்றி, மை முத்திரை இன்றி, பொதுவாக அரை நிமிடத்திற்கும் குறைவாக. புதிய QR-குறியீட்டு வழித்தடங்கள் இன்னும் வேகமானவை, ஒரு பயணியை சுமார் ஐந்து முதல் ஏழு நொடிகளில் அனுமதிக்கின்றன. மலேசிய எல்லையைத் தொடர்ந்து கடப்பவர் எவருக்கும், எந்த வழித்தடத்தைப் பயன்படுத்த அனுமதிக்கப்பட்டுள்ளீர்கள் என்பதை அறிவது உண்மையான நேரத்தை மிச்சப்படுத்துகிறது.

@@ -34,7 +34,7 @@ faq:
     a: "Padiberas Nasional Berhad(BERNAS)는 국가의 단독 쌀 수입업체 역할을 보유하며, 이는 1973년 세계 식량 위기에 뒤이어 1974년에 쌀 수입을 인수하여 단독 수입업체가 된 국가벼쌀위원회(LPN)로부터 물려받은 역할입니다. BERNAS는 또한 국가 쌀 완충 재고를 관리하고 부미푸트라 정미업자를 지원합니다. 1996년 1월 12일에 민영화되었습니다."
 
 lang: "ko"
-sourceContentHash: "8f44d2a10fa14edb"
+sourceContentHash: "a3e4b8ba2156b900"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-1.webp
+    alt: 켈란탄주의 논에서 노란 콤바인이 누렇게 익은 벼를 베어 들이는 모습
+    kind: actual
+    origin: third-party
+    subject: 켈란탄주에서 누렇게 익은 벼를 수확하는 콤바인
+    credit: Zamwan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menuai_padi_di_Kelantan.jpg
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-2.webp
+    alt: 케다주 랑카위에서 뒤편에 숲으로 덮인 언덕을 두고 수확을 앞둔 황금빛으로 익은 논
+    kind: actual
+    origin: third-party
+    subject: 케다주 랑카위의 수확을 앞둔 황금빛 논
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-05.jpg
 ---
 
 쌀값이 오르거나 슈퍼마켓 진열대가 비워질 때마다, 오래된 질문 하나가 말레이시아를 다시 괴롭힙니다: 논이 비옥한 나라가 왜 아직도 쌀의 거의 절반을 수입해야 하는가? 그 답은 보조금이 추동하고, 보장 가격으로 보호되며, 아직 달성되지 않은 자급 목표에 쫓기는 한 산업에 있습니다.

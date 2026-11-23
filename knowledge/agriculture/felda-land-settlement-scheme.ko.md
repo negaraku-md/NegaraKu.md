@@ -32,7 +32,7 @@ faq:
     a: "Felda Global Ventures(현 FGV Holdings)는 FELDA의 농장을 관리하는 투자 부문입니다. 2012년 6월 28일 부르사 말레이시아에 상장되었으며 IPO 당시 약 112,600명의 정착민이 경작하는 약 500,000헥타르를 관리했습니다."
 
 lang: "ko"
-sourceContentHash: "827c6da5e0f2c397"
+sourceContentHash: "ecd41197a456d74c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:FELDA_Ayer_Hitam_-_Entrance_Gate.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-1.webp
+    alt: 조호르주 쿨라이 FELDA 부킷바투 정착지에서 대왕야자와 정착민 주택이 늘어선 한적한 도로
+    kind: actual
+    origin: third-party
+    subject: 조호르주 FELDA 부킷바투의 야자수 늘어선 길가에 자리한 정착민 주택
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FELDA_Bukit_Batu.jpg
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-2.webp
+    alt: 사바주 FELDA 사하밧 정착 단지에 굴뚝이 솟은 Fajar Harapan 팜유 공장
+    kind: actual
+    origin: third-party
+    subject: 사바주 FELDA 사하밧 단지 내 Fajar Harapan 팜유 공장
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Felda-Sahabat_Cenderawasih_Sabah_Kilang-Sawit-Fajar-Harapan-03.jpg
 ---
 
 한 가난한 가정이 새로 벌목된 숲으로 이주하여, 토지 한 필지와 월 임금을 받고, 그들의 고무나무나 기름야자가 성숙할 때까지 여러 해를 기다리라는 요청을 받았다고 상상해 보십시오. 그것이 10만 가구가 넘는 말레이시아 농촌 가정의 삶을 바꾼 제안이었습니다 — 그리고 그 엔진이 FELDA였습니다.

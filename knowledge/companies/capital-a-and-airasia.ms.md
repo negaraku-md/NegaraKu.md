@@ -30,7 +30,7 @@ faq:
     a: "Selepas pelupusan syarikat penerbangan, Capital A ialah sebuah kumpulan perkhidmatan penerbangan dan digital yang dibina sekitar lima perniagaan: Asia Digital Engineering, Teleport, AirAsia MOVE, AirAsia Next dan Santan."
 
 lang: "ms"
-sourceContentHash: "649108ce940fc47e"
+sourceContentHash: "9b61b5a378f528a3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AGP_-_Now_Everyone_Can_Fly_Livery_-_KUL.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/companies/capital-a-and-airasia/body-1.webp
+    alt: Sebuah jet badan sempit Airbus A320 AirAsia berlivery peringatan khas dengan tulisan airasia di sepanjang fiuslaj, berada di apron Lapangan Terbang Langkawi di bawah langit cerah
+    kind: actual
+    origin: third-party
+    subject: Sebuah Airbus A320 AirAsia (pendaftaran Malaysia 9M-AQH) dengan livery peringatan khas di Lapangan Terbang Antarabangsa Langkawi
+    credit: Jovi Choo / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AQH_-_100th_Awesome_Plane_Livery_-_LGK.jpg
+  - role: scene
+    src: /media/companies/capital-a-and-airasia/body-2.webp
+    alt: Pesawat AirAsia berlivery merah berbaris di pintu kenaikan pesawat terminal penerbangan tambang murah klia2, bangunan terminal yang panjang dan jambatan udara terbentang di sepanjang apron di bawah langit tropika
+    kind: actual
+    origin: third-party
+    subject: Pesawat AirAsia di klia2, terminal penerbangan tambang murah Lapangan Terbang Antarabangsa Kuala Lumpur dan hab utama syarikat penerbangan itu di Malaysia
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Air_Asia,_KLIA2,_Kuala_Lumpur_Airport_Low_Cost_Terminal_(15154635675).jpg
 ---
 
 Selama bertahun-tahun, "AirAsia" dan "Capital A" digunakan hampir secara bergantian. Selepas penstrukturan semula selama beberapa tahun, kedua-duanya kini merujuk kepada dua syarikat tersenarai yang berbeza.

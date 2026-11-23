@@ -30,7 +30,7 @@ faq:
     a: "TNB's core operations cover Peninsular Malaysia. In Sabah and Labuan, supply is handled by Sabah Electricity Sdn. Bhd., which is majority-owned (82.75%) by TNB, with the Sabah State Government holding 17.24%. Sarawak is supplied by a separate utility, not TNB."
 
 lang: "en"
-sourceContentHash: "b6b33bf3419779ac"
+sourceContentHash: "3db20cd889aecd5a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Power_Station.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-1.webp
+    alt: A TNB-branded office building carrying the Tenaga Nasional name and logo on its facade, with a landscaped frontage and car park under a bright blue sky
+    kind: actual
+    origin: third-party
+    subject: a Tenaga Nasional Berhad (TNB) office in Alor Setar, Kedah, one of the national utility's state service buildings
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TNB_Alor_Setar.jpg
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-2.webp
+    alt: Steel lattice electricity transmission towers strung with high-voltage cables marching across a wide sea channel alongside a long road bridge, with an island and mainland hills in the distance
+    kind: actual
+    origin: third-party
+    subject: TNB high-voltage transmission towers carrying power lines across the channel beside the Penang Bridge toward Pulau Gazumbo
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge,_TNB_transmission_towers,_and_Pulau_Gazumbo_from_The_Waterfront_Shoppes_rooftop_(261108).jpg
 ---
 
 Every time a light switches on in a home, factory or data centre in Peninsular Malaysia, its electrons most likely flow through a network owned by a single company: Tenaga Nasional Berhad. It is not merely a power generator, but the backbone of the nation's energy system — from the power station all the way to the meter on the wall.

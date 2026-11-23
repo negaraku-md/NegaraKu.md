@@ -29,7 +29,7 @@ faq:
     a: "Di antaranya tingkat daur ulang kemasan plastik 25% menjelang 2025, rata-rata tingkat pengumpulan-untuk-daur-ulang (CFR) 76% menjelang 2030, dan rata-rata kandungan daur ulang 15% menjelang 2030. Target tingkat daur ulang 100% ditargetkan menjelang 2050."
 
 lang: "id"
-sourceContentHash: "a24e4c1da4f3ae42"
+sourceContentHash: "70c761205e65cf72"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-1.webp
+    alt: Sampah plastik dan serpihan laut yang menumpuk di sepanjang garis pasang surut sebuah pantai
+    kind: representative
+    origin: third-party
+    subject: Serpihan plastik laut yang terdampar di pantai (ilustrasi)
+    credit: VariousPhotography / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Marine_debris_and_plastic_waste_on_beach.jpg
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-2.webp
+    alt: Botol plastik bekas yang dikumpulkan di titik pengumpulan untuk dikirim ke daur ulang
+    kind: representative
+    origin: third-party
+    subject: Titik pengumpulan botol plastik untuk daur ulang (ilustrasi)
+    credit: DoronDoron / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_plastic_bottle_collection_facility_for_recycling.jpg
 ---
 
 Kantong plastik tipis di kasir lazimnya digunakan sebentar saja, tetapi dapat bertahan di lingkungan hidup untuk waktu yang lama. Untuk menangani isu ini, Malaysia tidak memilih larangan menyeluruh secara serta-merta — melainkan sebuah peta jalan bertahap yang beranjak dari pungutan kecil ke larangan yang lebih luas.

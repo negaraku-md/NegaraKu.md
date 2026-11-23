@@ -29,7 +29,7 @@ faq:
     a: "Among them are a 25% recycling rate for plastic packaging by 2025, a 76% average collection-for-recycling rate (CFR) by 2030, and a 15% average recycled content by 2030. A 100% recycling rate is targeted by 2050."
 
 lang: "en"
-sourceContentHash: "a24e4c1da4f3ae42"
+sourceContentHash: "70c761205e65cf72"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-1.webp
+    alt: Plastic trash and marine debris collecting along the tideline of a beach
+    kind: representative
+    origin: third-party
+    subject: Marine plastic debris washed up on a beach (representative)
+    credit: VariousPhotography / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Marine_debris_and_plastic_waste_on_beach.jpg
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-2.webp
+    alt: Used plastic bottles gathered at a collection point to be sent for recycling
+    kind: representative
+    origin: third-party
+    subject: Plastic-bottle collection point for recycling (representative)
+    credit: DoronDoron / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_plastic_bottle_collection_facility_for_recycling.jpg
 ---
 
 Thin plastic bags at the checkout counter are typically used for only a moment, yet they can persist in the environment for a very long time. To address this issue, Malaysia has not opted for a single sweeping, immediate ban — instead, it uses a phased roadmap that moves from small charges to broader bans.

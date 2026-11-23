@@ -32,7 +32,7 @@ faq:
     a: "Le Département des territoires fédéraux (JWP), relevant du Département du Premier ministre, coordonne la politique et le développement dans les trois territoires au niveau fédéral, tandis que DBKL, la Corporation de Putrajaya et la Corporation de Labuan sont les autorités locales qui mènent les affaires quotidiennes telles que la délivrance de licences, l'urbanisme et les services municipaux dans leurs territoires respectifs."
 
 lang: "fr"
-sourceContentHash: "9bb7978f0345dc23"
+sourceContentHash: "8bf6e6135ecc6c79"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/government/federal-territories-governance/body-1.webp
+    alt: Le bâtiment administratif de la Corporation de Putrajaya, l'autorité locale qui administre le territoire fédéral de Putrajaya
+    kind: actual
+    origin: third-party
+    subject: Siège de Perbadanan Putrajaya (Corporation de Putrajaya), l'autorité locale du territoire fédéral de Putrajaya
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-perbadanan.jpg
+  - role: scene
+    src: /media/government/federal-territories-governance/body-2.webp
+    alt: La façade à coupole du Palais de justice de Putrajaya, portant les armoiries fédérales de la Malaisie, un bâtiment gouvernemental du territoire fédéral
+    kind: actual
+    origin: third-party
+    subject: Palais de justice (Istana Kehakiman), un bâtiment du gouvernement fédéral à Putrajaya
+    credit: Wolfiewhite / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Direct_view_of_the_front_of_Palace_of_Justice,_Putrajaya.jpg
 ---
 
 Dans un État, il y a un Sultan ou un Yang di-Pertua Negeri, il y a un Menteri Besar ou un Ministre en chef, et il y a une Assemblée législative d'État élue par le peuple. À Kuala Lumpur, Putrajaya et Labuan, rien de tout cela n'existe. Ces trois lieux ne sont pas des États — ce sont des Territoires fédéraux, et ils sont administrés directement par le gouvernement fédéral.

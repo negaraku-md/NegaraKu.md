@@ -4611,7 +4611,30 @@
       "alt": "JKM Social Welfare Department district office in Pontian, Johor, fronted by a large yellow signboard reading 'Pejabat Kebajikan Masyarakat KPWKM Daerah Pontian' with the JKM logo and a jkm.gov.my email, beside a Malaysian flag",
       "kb": 152
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/government/social-welfare-department-jkm/body-1.webp",
+        "credit": "Chongkian / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Handicapped_and_Mentally_Disabled_Children_Association_Johor_Bahru.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Welfare-care centre for disabled children in Johor Bahru",
+        "alt": "The signboard and premises of a welfare-care association for disabled children in Johor Bahru, a community welfare service",
+        "kb": 166
+      },
+      {
+        "file": "/media/government/social-welfare-department-jkm/body-2.webp",
+        "credit": "Chongkian / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Batu_Pahat_Welfare_House.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Welfare house (rumah kebajikan) in Batu Pahat, Johor",
+        "alt": "A welfare house in Batu Pahat, Johor, a residential welfare institution",
+        "kb": 168
+      }
+    ]
   },
   "government/suhakam-human-rights-commission": {
     "hero": {
@@ -4625,7 +4648,30 @@
       "alt": "Menara TH Perdana, a curved high-rise office tower in Kuala Lumpur with prominent 'MENARA TH PERDANA' signage and a glass-canopied entrance, which houses SUHAKAM's headquarters",
       "kb": 171
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/government/suhakam-human-rights-commission/body-1.webp",
+        "credit": "Khairil Yusof / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bersih_4_rally_Human_Rights_Defender.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Civil-society gathering in Kuala Lumpur (human-rights context)",
+        "alt": "Participants at a peaceful civil-society rally in Kuala Lumpur, illustrating the human-rights context",
+        "kb": 103
+      },
+      {
+        "file": "/media/government/suhakam-human-rights-commission/body-2.webp",
+        "credit": "Apa masalah / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Muslim_protesters_performing_Ishah_prayer_during_Bersih_4_protests.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Peaceful public assembly on a Kuala Lumpur street (human-rights context)",
+        "alt": "A peaceful public assembly filling a Kuala Lumpur street at night, illustrating freedoms the human-rights commission oversees",
+        "kb": 174
+      }
+    ]
   },
   "international/johor-singapore-special-economic-zone": {
     "hero": {
@@ -10604,7 +10650,30 @@
       "alt": "A lush green rice paddy with an irrigation channel running to the horizon in Sekinchan, Malaysia.",
       "kb": 157
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/agriculture/agriculture-sector-overview/body-1.webp",
+        "credit": "Slleong / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bertam_3.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Highland vegetable farms in the Bertam River Valley, Cameron Highlands, Pahang",
+        "alt": "Terraced vegetable farms and polytunnels on the hillsides of the Bertam Valley in Cameron Highlands, Pahang",
+        "kb": 167
+      },
+      {
+        "file": "/media/agriculture/agriculture-sector-overview/body-2.webp",
+        "credit": "Slleong / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kampung_Raja_5.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Open-field vegetable farm at Kampung Raja, Cameron Highlands, Pahang",
+        "alt": "Sunlit terraced plots of leafy vegetables above a highland village at Kampung Raja, Cameron Highlands",
+        "kb": 201
+      }
+    ]
   },
   "agriculture/padi-rice-industry-self-sufficiency": {
     "hero": {
@@ -10618,7 +10687,30 @@
       "alt": "A green rice paddy with a scarecrow and forested hills behind in Langkawi, Malaysia.",
       "kb": 178
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/agriculture/padi-rice-industry-self-sufficiency/body-1.webp",
+        "credit": "Zamwan / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Menuai_padi_di_Kelantan.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A combine harvester cutting ripe paddy in Kelantan",
+        "alt": "A yellow combine harvester cutting ripe golden paddy in a rice field in Kelantan",
+        "kb": 149
+      },
+      {
+        "file": "/media/agriculture/padi-rice-industry-self-sufficiency/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-05.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A ripe golden paddy field ready for harvest in Langkawi, Kedah",
+        "alt": "A field of ripe golden rice ready for harvest with a forested hill behind, in Langkawi, Kedah",
+        "kb": 200
+      }
+    ]
   },
   "agriculture/oil-palm-smallholders-mspo-sustainability": {
     "hero": {
@@ -10632,7 +10724,30 @@
       "alt": "A young oil palm plantation covering rolling land in Mersing, Malaysia.",
       "kb": 174
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/agriculture/oil-palm-smallholders-mspo-sustainability/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tenom-District_Sabah_Fruit-Bunch-Cutter-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A plantation worker carrying a harvesting pole among mature oil palms in Tenom, Sabah",
+        "alt": "An oil-palm estate harvester shouldering a long sickle pole among mature palms, with a cut fresh fruit bunch on the ground, in Tenom District, Sabah",
+        "kb": 172
+      },
+      {
+        "file": "/media/agriculture/oil-palm-smallholders-mspo-sustainability/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Palm-oil-fruits-of-Kimanis-Estate-02.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Fresh fruit bunches ripening on an oil palm at Kimanis Estate, Sabah",
+        "alt": "Close-up of reddish fresh fruit bunches ripening at the crown of an oil palm on Kimanis Estate, Sabah",
+        "kb": 167
+      }
+    ]
   },
   "agriculture/felda-land-settlement-scheme": {
     "hero": {
@@ -10646,7 +10761,30 @@
       "alt": "A roadside arch marking the entrance to the FELDA Ayer Hitam land settlement in Malaysia.",
       "kb": 77
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/agriculture/felda-land-settlement-scheme/body-1.webp",
+        "credit": "Chongkian / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:FELDA_Bukit_Batu.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Settler houses along a palm-lined road in FELDA Bukit Batu, Johor",
+        "alt": "A quiet road lined with royal palms and settler houses in the FELDA Bukit Batu scheme, Kulai, Johor",
+        "kb": 178
+      },
+      {
+        "file": "/media/agriculture/felda-land-settlement-scheme/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Felda-Sahabat_Cenderawasih_Sabah_Kilang-Sawit-Fajar-Harapan-03.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Fajar Harapan palm-oil mill in the FELDA Sahabat complex, Sabah",
+        "alt": "The Fajar Harapan palm-oil mill with its chimneys in the FELDA Sahabat settlement complex, Sabah",
+        "kb": 178
+      }
+    ]
   },
   "agriculture/fama-agricultural-marketing-authority": {
     "hero": {
@@ -10660,7 +10798,30 @@
       "alt": "Rows of canopy stalls at a Pasar Tani farmers' market in Putrajaya, Malaysia.",
       "kb": 126
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/agriculture/fama-agricultural-marketing-authority/body-1.webp",
+        "credit": "Mohd Fazlin Mohd Effendy Ooi from Kuala Lumpur, Malaysia / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rambutan_%26_Langsat_Stall_(2749936426).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Street fruit vendor selling rambutan and langsat in Kuala Lumpur",
+        "alt": "A handcart stall heaped with rambutan and langsat, draped with the Malaysian flag, at Central Market, Kuala Lumpur",
+        "kb": 161
+      },
+      {
+        "file": "/media/agriculture/fama-agricultural-marketing-authority/body-2.webp",
+        "credit": "AyyanD / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kea_Farm_produce_2.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Fresh local produce on sale at a Kea Farm market stall, Cameron Highlands",
+        "alt": "A market stall displaying asparagus, avocados, mangoes and pumpkins priced in ringgit at Kea Farm, Cameron Highlands",
+        "kb": 156
+      }
+    ]
   },
   "agriculture/department-of-fisheries-malaysia": {
     "hero": {
@@ -10674,7 +10835,30 @@
       "alt": "A circular fish market hall with fishing boats moored alongside the wharf in Sandakan, Malaysia.",
       "kb": 178
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/agriculture/department-of-fisheries-malaysia/body-1.webp",
+        "credit": "Wiki Asmah / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BG_Fisheries_and_Frozen_Market_in_Kuantan_20260622_-_17.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Workers sorting the fresh catch at a fisheries landing in Kuantan, Pahang",
+        "alt": "Workers sorting fresh fish into crates beside a moored fishing boat at a fisheries complex in Kuantan, Pahang",
+        "kb": 165
+      },
+      {
+        "file": "/media/agriculture/department-of-fisheries-malaysia/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:RiversOfSabah_SungaiSitompok-06.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Floating prawn-farm cages on a mangrove river at Sungai Sitompok, Sabah",
+        "alt": "Large floating prawn-farm cage platforms moored on the mangrove-lined Sungai Sitompok at Kuala Penyu, Sabah",
+        "kb": 163
+      }
+    ]
   },
   "agriculture/malaysian-fisheries-industry": {
     "hero": {
@@ -10688,7 +10872,30 @@
       "alt": "Wooden fishing trawlers moored at a jetty off Penang Island, Malaysia.",
       "kb": 177
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/agriculture/malaysian-fisheries-industry/body-1.webp",
+        "credit": "Marufish from Alor Setar, Malaysia / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Fishing_Village_at_Kuala_Kedah_(2638400370).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Fishing boats and a coastal village at Kuala Kedah",
+        "alt": "Fishing boats moored along the river beside stilt houses of the fishing village at Kuala Kedah",
+        "kb": 120
+      },
+      {
+        "file": "/media/agriculture/malaysian-fisheries-industry/body-2.webp",
+        "credit": "Thomas Quine / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Fresh_fish_in_market_(27002392530).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Fresh local fish on display at Satok market, Kuching, Sarawak",
+        "alt": "A row of fresh local fish laid out for sale at the Satok weekend market in Kuching, Sarawak",
+        "kb": 171
+      }
+    ]
   },
   "agriculture/mardi-agricultural-research-institute": {
     "hero": {
@@ -10702,7 +10909,30 @@
       "alt": "The main entrance gate of the MARDI agricultural research institute in Malaysia.",
       "kb": 168
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/agriculture/mardi-agricultural-research-institute/body-1.webp",
+        "credit": "Arne Müseler / Wikimedia Commons",
+        "license": "CC BY-SA 3.0 de",
+        "source": "https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Protected strawberry cultivation under a greenhouse in Cameron Highlands",
+        "alt": "Rows of strawberry plants grown in raised substrate troughs inside a greenhouse in Cameron Highlands",
+        "kb": 177
+      },
+      {
+        "file": "/media/agriculture/mardi-agricultural-research-institute/body-2.webp",
+        "credit": "Wee Hong / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0912).jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Crop beds and greenhouses at a Malaysian university agricultural research farm",
+        "alt": "Rows of silver-mulched planting beds with young seedlings and greenhouse rain-shelters at the Faculty of Agriculture research farm, Universiti Putra Malaysia",
+        "kb": 101
+      }
+    ]
   },
   "energy/energy-sector-overview": {
     "hero": {
@@ -10716,7 +10946,30 @@
       "alt": "An aerial view of a coastal coal-fired power station with chimney stacks and jetties extending into the sea.",
       "kb": 39
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/energy/energy-sector-overview/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Rugading-Power-Station-02.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "the Rugading power station near Kota Kinabalu, Sabah, a gas-fired generating plant feeding the Sabah grid",
+        "alt": "A gas-fired power station with turbine halls, metal exhaust stacks and a fenced switchyard of transformers and steel gantries, set on cleared ground with forested hills and a bright sky behind",
+        "kb": 176
+      },
+      {
+        "file": "/media/energy/energy-sector-overview/body-2.webp",
+        "credit": "Chongkian / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tanjung_Kling_Power_Station.JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "the Tanjung Kling power station on the coast of Melaka, part of Peninsular Malaysia's generating fleet",
+        "alt": "A coastal power station with low industrial buildings, metal ducting and a tall chimney stack behind a boundary fence, with palms and open ground nearby under a hazy sky",
+        "kb": 157
+      }
+    ]
   },
   "energy/natural-gas-lng-malaysia": {
     "hero": {
@@ -10730,7 +10983,30 @@
       "alt": "An offshore liquefied-natural-gas loading terminal with pipework and jetties over shallow coastal water at Bintulu, Malaysia.",
       "kb": 179
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/energy/natural-gas-lng-malaysia/body-1.webp",
+        "credit": "Rhetos / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Minerva_Amorgos_(LNG-Tanker).jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "a liquefied-natural-gas carrier of the type that ships Malaysian LNG to overseas buyers",
+        "alt": "A large liquefied-natural-gas carrier ship under way on open water, its long deck lined with big insulated cargo-tank structures and pipework, leaving a wake under a clear sky",
+        "kb": 162
+      },
+      {
+        "file": "/media/energy/natural-gas-lng-malaysia/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-30.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "the Sabah Oil and Gas Terminal (SOGT) at Kimanis, Sabah, a Petronas onshore gas-processing facility",
+        "alt": "A sprawling onshore gas-processing terminal with tall distillation columns, silver storage spheres, flare stacks and a dense lattice of pipework, set on cleared coastal land with hills behind",
+        "kb": 172
+      }
+    ]
   },
   "energy/renewable-energy-in-malaysia": {
     "hero": {
@@ -10744,7 +11020,30 @@
       "alt": "A floating solar photovoltaic array alongside a covered walkway on a campus lake in Malaysia.",
       "kb": 165
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/energy/renewable-energy-in-malaysia/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a ground-mounted solar photovoltaic farm at Sungai-Sungai, Sabah, generating electricity for the rural grid",
+        "alt": "Long rows of dark-blue solar photovoltaic panels on low metal frames across a cleared grassy field, fenced and stretching toward a distant tree line under a bright blue sky with scattered cloud",
+        "kb": 176
+      },
+      {
+        "file": "/media/energy/renewable-energy-in-malaysia/body-2.webp",
+        "credit": "TheHolySnail / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pergau_Dam.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "the Pergau hydroelectric dam and reservoir in Kelantan, a renewable hydropower scheme in Peninsular Malaysia",
+        "alt": "A curved dam holding back a green reservoir among forested hills, with a spillway channel and intake structures at its face and dense tropical jungle covering the surrounding slopes",
+        "kb": 152
+      }
+    ]
   },
   "energy/sarawak-energy-berhad": {
     "hero": {
@@ -10758,7 +11057,30 @@
       "alt": "A concrete hydroelectric dam with a spillway set among forested highlands at Murum, Sarawak.",
       "kb": 162
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/energy/sarawak-energy-berhad/body-1.webp",
+        "credit": "TheHolySnail / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "the Bakun hydroelectric dam in Sarawak, the giant concrete-face rockfill dam at the heart of the state's power system",
+        "alt": "A massive concrete-faced hydroelectric dam wall descending into a river gorge, with a stepped spillway and powerhouse at its base, ringed by cleared slopes and rainforest-covered hills",
+        "kb": 174
+      },
+      {
+        "file": "/media/energy/sarawak-energy-berhad/body-2.webp",
+        "credit": "TheHolySnail / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Murum.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "the Murum hydroelectric dam in the Sarawak interior, part of the state's cascade of hydropower dams",
+        "alt": "A tall concrete dam set across a river valley with spillway gates and a crest roadway, deep green reservoir water on one side and forested mountains rising all around",
+        "kb": 174
+      }
+    ]
   },
   "energy/tnb-tenaga-nasional": {
     "hero": {
@@ -10772,7 +11094,30 @@
       "alt": "A thermal power station with chimney stacks behind a dense cluster of high-voltage transmission towers in Malaysia.",
       "kb": 154
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/energy/tnb-tenaga-nasional/body-1.webp",
+        "credit": "Chongkian / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:TNB_Alor_Setar.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a Tenaga Nasional Berhad (TNB) office in Alor Setar, Kedah, one of the national utility's state service buildings",
+        "alt": "A TNB-branded office building carrying the Tenaga Nasional name and logo on its facade, with a landscaped frontage and car park under a bright blue sky",
+        "kb": 135
+      },
+      {
+        "file": "/media/energy/tnb-tenaga-nasional/body-2.webp",
+        "credit": "*angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Penang_Bridge,_TNB_transmission_towers,_and_Pulau_Gazumbo_from_The_Waterfront_Shoppes_rooftop_(261108).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "TNB high-voltage transmission towers carrying power lines across the channel beside the Penang Bridge toward Pulau Gazumbo",
+        "alt": "Steel lattice electricity transmission towers strung with high-voltage cables marching across a wide sea channel alongside a long road bridge, with an island and mainland hills in the distance",
+        "kb": 91
+      }
+    ]
   },
   "energy/fuel-subsidy-system": {
     "hero": {
@@ -10786,7 +11131,30 @@
       "alt": "A Petronas petrol station forecourt with fuel pumps beneath a canopy in Malaysia.",
       "kb": 61
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/energy/fuel-subsidy-system/body-1.webp",
+        "credit": "Chongkian / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Shell_Taman_Pelangi.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a Shell petrol station forecourt in Taman Pelangi, Johor Bahru, with fuel-pump islands under a canopy",
+        "alt": "A Shell-branded petrol station with a red-trimmed canopy over several fuel-pump islands, the yellow Shell pecten logo on the roadside pylon sign, and shoplots and cars nearby under a bright sky",
+        "kb": 144
+      },
+      {
+        "file": "/media/energy/fuel-subsidy-system/body-2.webp",
+        "credit": "*angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ijok_FIVE_petrol_station_(230318).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a FIVE-branded petrol station in Ijok, Selangor, one of Malaysia's independent fuel-retail chains, with its forecourt and price pylon",
+        "alt": "A petrol station forecourt beneath a wide flat canopy sheltering fuel pumps, a tall illuminated price-board pylon standing at the roadside and a convenience-store building alongside on an overcast day",
+        "kb": 53
+      }
+    ]
   },
   "environment/transboundary-haze-in-malaysia": {
     "hero": {
@@ -10800,7 +11168,30 @@
       "alt": "The Kuala Lumpur skyline obscured by thick grey haze, with the tall towers barely visible.",
       "kb": 125
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/environment/transboundary-haze-in-malaysia/body-1.webp",
+        "credit": "SNN95 / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2026_Haze_at_Kuala_Lumpur_Health_Clinic_01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Haze conditions near a Kuala Lumpur health clinic",
+        "alt": "Hazy, low-visibility air on a street beside a health clinic in Kuala Lumpur",
+        "kb": 128
+      },
+      {
+        "file": "/media/environment/transboundary-haze-in-malaysia/body-2.webp",
+        "credit": "Oliverlyc. / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Effects_of_2013_Southeast_Asian_haze_on_Singapore.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "2013 Southeast Asian transboundary haze over Singapore (representative)",
+        "alt": "Thick transboundary haze obscuring hills that are normally visible on the horizon",
+        "kb": 37
+      }
+    ]
   },
   "environment/northeast-monsoon": {
     "hero": {
@@ -10814,7 +11205,30 @@
       "alt": "An aerial view of a residential neighbourhood in Klang, Malaysia with houses surrounded by brown floodwater.",
       "kb": 175
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/environment/northeast-monsoon/body-1.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kampung_Padang_Pusing,_Pendang_20240917_125046.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Floodwater over a road after sudden river rise, Pendang, Kedah",
+        "alt": "Floodwater standing across federal road K151 after a sudden river rise at Kampung Padang Pusing, Pendang, Kedah",
+        "kb": 107
+      },
+      {
+        "file": "/media/environment/northeast-monsoon/body-2.webp",
+        "credit": "lensnmatter / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Monsoon_(36877269620).jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Monsoon storm clouds (representative)",
+        "alt": "Dark monsoon storm clouds gathering over a tropical landscape",
+        "kb": 54
+      }
+    ]
   },
   "environment/plastic-pollution-and-single-use-plastics-policy": {
     "hero": {
@@ -10828,7 +11242,30 @@
       "alt": "Discarded plastic bottles and other litter strewn across the sand of a beach beside the sea.",
       "kb": 141
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/environment/plastic-pollution-and-single-use-plastics-policy/body-1.webp",
+        "credit": "VariousPhotography / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Marine_debris_and_plastic_waste_on_beach.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Marine plastic debris washed up on a beach (representative)",
+        "alt": "Plastic trash and marine debris collecting along the tideline of a beach",
+        "kb": 179
+      },
+      {
+        "file": "/media/environment/plastic-pollution-and-single-use-plastics-policy/body-2.webp",
+        "credit": "DoronDoron / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:A_plastic_bottle_collection_facility_for_recycling.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Plastic-bottle collection point for recycling (representative)",
+        "alt": "Used plastic bottles gathered at a collection point to be sent for recycling",
+        "kb": 185
+      }
+    ]
   },
   "environment/solid-waste-management-and-recycling": {
     "hero": {
@@ -10842,7 +11279,30 @@
       "alt": "A supermarket recycling collection centre in Johor, Malaysia, with bins labelled in Malay for clothing, paper, plastic, glass and aluminium.",
       "kb": 74
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/environment/solid-waste-management-and-recycling/body-1.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bukit_Tagar_Landfill,_Kampung_Sepakat_20231226_141258.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Bukit Tagar sanitary landfill, Hulu Selangor",
+        "alt": "The Bukit Tagar sanitary landfill site near Kampung Sepakat, Hulu Selangor, Selangor",
+        "kb": 144
+      },
+      {
+        "file": "/media/environment/solid-waste-management-and-recycling/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kudat_Sabah_Garbage-Collection-Truck-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Municipal garbage-collection truck, Kudat, Sabah",
+        "alt": "A municipal garbage-collection truck operated by the local council in Kudat, Sabah",
+        "kb": 179
+      }
+    ]
   },
   "environment/native-customary-rights-and-logging-disputes": {
     "hero": {
@@ -10856,7 +11316,30 @@
       "alt": "A truck loaded with large tropical hardwood logs travels along a wet road beside rainforest in Sarawak.",
       "kb": 155
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/environment/native-customary-rights-and-logging-disputes/body-1.webp",
+        "credit": "Ben Sutherland / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Oil_palm_plantations_in_Sarawak.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Oil palm plantations on former forest land, Sarawak",
+        "alt": "Aerial view of oil palm plantations covering cleared forest land in Sarawak, Borneo",
+        "kb": 71
+      },
+      {
+        "file": "/media/environment/native-customary-rights-and-logging-disputes/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kalabakan_Sabah_Timber-storage-area-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Timber log storage yard, Kalabakan, Sabah",
+        "alt": "Stacked tropical hardwood logs at a timber storage and shipping yard in Kalabakan, Sabah",
+        "kb": 173
+      }
+    ]
   },
   "industries/aquaculture-industry": {
     "hero": {
@@ -11721,7 +12204,30 @@
       "alt": "Traffic on the divided North-South Expressway in Malaysia, with lane markings, crash barriers and roadside billboards under a clear sky.",
       "kb": 158
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/public-safety/road-safety-in-malaysia/body-1.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151246.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Two-lane federal highway (Route 91), Kluang, Johor",
+        "alt": "A view north along the two-lane Jalan Kluang-Kota Tinggi (Federal Route 91) near Kluang, Johor",
+        "kb": 83
+      },
+      {
+        "file": "/media/public-safety/road-safety-in-malaysia/body-2.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Persiaran_Surian-Persiaran_Kenanga_Intersection_Pedestrian_Crossing,_Kota_Damansara_20240125_192828.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Pedestrian crossing at a road junction, Kota Damansara, Selangor",
+        "alt": "A marked pedestrian crossing at a road junction at night in Kota Damansara, Selangor",
+        "kb": 167
+      }
+    ]
   },
   "public-safety/civil-defence-force-apm": {
     "hero": {
@@ -11735,7 +12241,30 @@
       "alt": "A Malaysia Civil Defence Force (Angkatan Pertahanan Awam Malaysia) rescue truck bearing the APM emblem, with a uniformed volunteer aboard, during a parade in Kuantan, Malaysia.",
       "kb": 124
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/public-safety/civil-defence-force-apm/body-1.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_1.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "APM (Civil Defence Force) beach rescue watchtower, Bagan Lalang",
+        "alt": "An Angkatan Pertahanan Awam (Civil Defence Force) beach rescue watchtower on the shore at Bagan Lalang",
+        "kb": 119
+      },
+      {
+        "file": "/media/public-safety/civil-defence-force-apm/body-2.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_2.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "APM coastal lifeguard tower overlooking the beach, Bagan Lalang",
+        "alt": "A Civil Defence Force coastal lifeguard and rescue tower overlooking the open beach at Bagan Lalang",
+        "kb": 185
+      }
+    ]
   },
   "public-safety/national-disaster-management-agency-nadma": {
     "hero": {
@@ -11749,7 +12278,30 @@
       "alt": "Floodwaters inundate a rural area during heavy monsoon rain in Sandakan, Sabah, Malaysia.",
       "kb": 138
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/public-safety/national-disaster-management-agency-nadma/body-1.webp",
+        "credit": "Marvin Nauman, FEMA / Wikimedia Commons",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:FEMA_-_32076_-_A_water_rescue_team_in_a_boat_searching_for_people_in_Oklahoma.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Flood rescue team in a boat during a search operation (representative)",
+        "alt": "A water rescue team in a flat-bottomed boat navigating floodwater during a search-and-rescue operation",
+        "kb": 174
+      },
+      {
+        "file": "/media/public-safety/national-disaster-management-agency-nadma/body-2.webp",
+        "credit": "Jocelyn Augustino, FEMA / Wikimedia Commons",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:FEMA_-_34762_-_Residents_building_a_sandbag_wall_in_flood_waters_in_Arkansas.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Sandbag flood-protection barrier (representative)",
+        "alt": "A protective wall of sandbags built up to hold back rising floodwater around a building",
+        "kb": 92
+      }
+    ]
   },
   "companies/capital-a-and-airasia": {
     "hero": {
@@ -11763,7 +12315,30 @@
       "alt": "A red-liveried AirAsia Airbus A320 (registration 9M-AGP) bearing the \"Now Everyone Can Fly\" slogan, parked at a gate at Kuala Lumpur International Airport.",
       "kb": 148
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/companies/capital-a-and-airasia/body-1.webp",
+        "credit": "Jovi Choo / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AQH_-_100th_Awesome_Plane_Livery_-_LGK.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "an AirAsia Airbus A320 (Malaysian registration 9M-AQH) in a special commemorative livery at Langkawi International Airport",
+        "alt": "An AirAsia Airbus A320 narrow-body jet wearing a special commemorative livery with airasia titles along the fuselage, standing on the apron at Langkawi airport under a clear sky",
+        "kb": 102
+      },
+      {
+        "file": "/media/companies/capital-a-and-airasia/body-2.webp",
+        "credit": "Fabio Achilli / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Air_Asia,_KLIA2,_Kuala_Lumpur_Airport_Low_Cost_Terminal_(15154635675).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "AirAsia aircraft at klia2, the low-cost carrier terminal of Kuala Lumpur International Airport and the airline's main Malaysian hub",
+        "alt": "Red-liveried AirAsia aircraft lined up at the boarding gates of the klia2 low-cost carrier terminal, the long terminal building and jet bridges stretching along the apron under a tropical sky",
+        "kb": 119
+      }
+    ]
   },
   "companies/malaysias-big-banks": {
     "hero": {
@@ -11777,7 +12352,30 @@
       "alt": "The high-rise skyline of Kuala Lumpur's city centre, Malaysia's main financial district, dominated by the Petronas Twin Towers.",
       "kb": 176
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/companies/malaysias-big-banks/body-1.webp",
+        "credit": "Vyacheslav Argenberg / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Maybank_Tower.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Menara Maybank, the headquarters tower of Malayan Banking (Maybank) in central Kuala Lumpur, Malaysia's largest bank",
+        "alt": "A tall white skyscraper whose paired curved blade-like towers form the Maybank headquarters, rising above surrounding trees and city streets against a blue sky",
+        "kb": 179
+      },
+      {
+        "file": "/media/companies/malaysias-big-banks/body-2.webp",
+        "credit": "Qhairy / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:CIMB_Bank,_Bangunan_UMNO.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a CIMB Bank branch at street level of Bangunan UMNO, CIMB being one of Malaysia's largest banks by assets",
+        "alt": "A multi-storey building with a CIMB Bank branch and its red CIMB signage at street level, a glass frontage and pedestrians passing on the walkway in front under a clear sky",
+        "kb": 160
+      }
+    ]
   },
   "malaysia/mount-kinabalu": {
     "hero": {
@@ -12161,7 +12759,30 @@
       "alt": "A row of automated self-service passport e-gates with glass barriers and scanning kiosks in a bright airport immigration hall.",
       "kb": 150
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/settling-in/autogate-and-myborderpass/body-1.webp",
+        "credit": "Taufik / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Arrival_hall_of_Kuala_Lumpur_International_Airport_Terminal_1_20250828_212245.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Arrival hall at Kuala Lumpur International Airport Terminal 1",
+        "alt": "The arrival hall at Kuala Lumpur International Airport Terminal 1, where travellers clear immigration",
+        "kb": 170
+      },
+      {
+        "file": "/media/settling-in/autogate-and-myborderpass/body-2.webp",
+        "credit": "Slleong / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bangunan_Sultan_Iskandar_2.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Bangunan Sultan Iskandar CIQ complex, the Johor Bahru land border crossing to Singapore",
+        "alt": "The Bangunan Sultan Iskandar immigration checkpoint complex at the Johor Bahru land border crossing",
+        "kb": 165
+      }
+    ]
   },
   "settling-in/immigration-department-jim": {
     "hero": {
@@ -12175,7 +12796,30 @@
       "alt": "The tall ornate facade of the Immigration Department of Malaysia headquarters in Putrajaya, bearing the Jabatan Imigresen Malaysia name and departmental crest, with flags flying above the entrance.",
       "kb": 98
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/settling-in/immigration-department-jim/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Semporna_Sabah_Jabatan-Imigresen-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Immigration Department (Jabatan Imigresen) branch office in Semporna, Sabah",
+        "alt": "The Immigration Department branch office in Semporna, Sabah",
+        "kb": 165
+      },
+      {
+        "file": "/media/settling-in/immigration-department-jim/body-2.webp",
+        "credit": "Slleong / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Malaysia_Passport_Stamp_Bukit_Berapit_1.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Malaysian immigration entry/exit passport stamp",
+        "alt": "A Malaysian immigration passport stamp, issued at a Department of Immigration checkpoint",
+        "kb": 153
+      }
+    ]
   },
   "government/bank-negara-malaysia": {
     "hero": {
@@ -12189,7 +12833,30 @@
       "alt": "A large grey modernist concrete office complex of stepped horizontal floors bearing the Bank Negara Malaysia emblem, rising above a screen of green trees and a roadside with hibiscus-flower lamp decorations.",
       "kb": 166
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/government/bank-negara-malaysia/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Bank-Negara-Malaysia-02.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Bank Negara Malaysia regional office in Kota Kinabalu, Sabah, with the central bank's name and kijang emblem",
+        "alt": "The entrance of a Bank Negara Malaysia office in Kota Kinabalu, displaying the central bank's name and kijang emblem with the Malaysian and Sabah flags",
+        "kb": 163
+      },
+      {
+        "file": "/media/government/bank-negara-malaysia/body-2.webp",
+        "credit": "Bank Negara Malaysia / Wikimedia Commons",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:SERIBU_RINGGIT_-_OBSERVE_VIEW_(1967).png",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Early Bank Negara Malaysia ringgit banknote (1967 series specimen)",
+        "alt": "An early Bank Negara Malaysia ringgit banknote from the 1967 first series, bearing the central bank's name",
+        "kb": 290
+      }
+    ]
   },
   "government/federal-territories-governance": {
     "hero": {
@@ -12203,7 +12870,30 @@
       "alt": "Putrajaya across the lake, with the pink-domed Putra Mosque and its tall minaret on the left and the green-domed Perdana Putra government complex on the right under a cloudy sky.",
       "kb": 155
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/government/federal-territories-governance/body-1.webp",
+        "credit": "Balou46 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:MY-putrajaya-perbadanan.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Perbadanan Putrajaya (Putrajaya Corporation) headquarters, the local authority of the Putrajaya federal territory",
+        "alt": "The Putrajaya Corporation administrative building, the local authority governing the Putrajaya federal territory",
+        "kb": 169
+      },
+      {
+        "file": "/media/government/federal-territories-governance/body-2.webp",
+        "credit": "Wolfiewhite / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Direct_view_of_the_front_of_Palace_of_Justice,_Putrajaya.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Palace of Justice (Istana Kehakiman), a federal government building in Putrajaya",
+        "alt": "The domed facade of the Palace of Justice in Putrajaya, bearing the Malaysian federal coat of arms, a government building of the federal territory",
+        "kb": 133
+      }
+    ]
   },
   "malaysia/melaka-sultanate": {
     "hero": {
@@ -13620,6 +14310,60 @@
         "subject": "Stacks of sawn tropical timber boards on sale at a timber yard in Sandakan, Sabah, Malaysia",
         "alt": "Neatly stacked rows of freshly sawn tropical timber planks fill an open-sided roofed timber yard in Sandakan, Sabah, their warm honey and reddish-brown grain lit by afternoon sun.",
         "kb": 171
+      }
+    ]
+  },
+  "cost-of-living/cost-of-living-johor-bahru": {
+    "hero": null,
+    "body": [
+      {
+        "file": "/media/cost-of-living/cost-of-living-johor-bahru/body-1.webp",
+        "credit": "Sharon Hahn Darlin / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Wednesday_market,_Bukit_Indah,_Johor_Bahru,_Johor,_Malaysia.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Weekly fresh-produce market at Bukit Indah, Johor Bahru",
+        "alt": "Stalls of fresh produce at the weekly market in Bukit Indah, Johor Bahru",
+        "kb": 171
+      },
+      {
+        "file": "/media/cost-of-living/cost-of-living-johor-bahru/body-2.webp",
+        "credit": "Chongkian / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Wong_Ah_Fook_Street.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Jalan Wong Ah Fook, the main commercial street of Johor Bahru",
+        "alt": "Shops and shoppers along Jalan Wong Ah Fook, the main commercial street in central Johor Bahru",
+        "kb": 152
+      }
+    ]
+  },
+  "cost-of-living/cost-of-living-penang": {
+    "hero": null,
+    "body": [
+      {
+        "file": "/media/cost-of-living/cost-of-living-penang/body-1.webp",
+        "credit": "HundenvonPenang / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Maccalum_Street_Flats,_George_Town,_Penang_(2024).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "High-rise public housing flats on Maccalum Street, George Town, Penang",
+        "alt": "High-rise residential flats on Maccalum Street in George Town, Penang, illustrating urban housing",
+        "kb": 170
+      },
+      {
+        "file": "/media/cost-of-living/cost-of-living-penang/body-2.webp",
+        "credit": "Dreamtrooper / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sungai_Bakap_Wet_Market.JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Wet market at Sungai Bakap, Penang",
+        "alt": "Vendors and stalls at the Sungai Bakap wet market in Penang",
+        "kb": 95
       }
     ]
   }

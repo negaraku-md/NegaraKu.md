@@ -71,7 +71,27 @@ sources:
     url: "https://www.mof.gov.my/portal/en/news/press-release/government-implements-targeted-diesel-subsidy-for-peninsular-malaysia-effective-10-june-2024"
     publisher: "Ministerio de Finanzas de Malasia (MOF)"
   - title: "El Gobierno ahorra RM5 mil millones mediante la racionalización del subsidio al diésel — MoF (Govt Saves RM5 Bln Through Diesel Subsidy Rationalisation — MoF)"
-    url: "https://www.mof.gov.my/portal/en/news/press-citations/govt-saves-rm5-bln-through-diesel-subsidy-rationalisation---mof"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/govt-saves-rm5-bln-through-diesel-subsidy-rationalisation
+images:
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-1.webp
+    alt: Una gasolinera de marca Shell con una marquesina de borde rojo sobre varias islas de surtidores, el logotipo amarillo del pecten de Shell en el tótem junto a la carretera, y locales comerciales y coches cerca bajo un cielo luminoso
+    kind: actual
+    origin: third-party
+    subject: la explanada de una gasolinera Shell en Taman Pelangi, Johor Bahru, con islas de surtidores bajo una marquesina
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Taman_Pelangi.jpg
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-2.webp
+    alt: La explanada de una gasolinera bajo una amplia marquesina plana que cubre los surtidores, un alto tótem iluminado con el panel de precios junto a la carretera y un edificio de tienda de conveniencia al lado en un día nublado
+    kind: actual
+    origin: third-party
+    subject: una gasolinera de marca FIVE en Ijok, Selangor, una de las cadenas independientes de venta de combustible de Malasia, con su explanada y su tótem de precios
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ijok_FIVE_petrol_station_(230318).jpg
+---mof"
     publisher: "Ministerio de Finanzas de Malasia (MOF)"
   - title: "Budi Diesel comienza mañana; 700,000 propietarios de vehículos pagarán RM2.10 por litro (BUDI Diesel Starts Tomorrow, 700,000 Vehicle Owners To Pay RM2.10 A Litre)"
     url: "https://www.mof.gov.my/portal/en/news/press-citations/budi-diesel-starts-tomorrow-700-000-vehicle-owners-to-pay-rm2-10-a-litre"

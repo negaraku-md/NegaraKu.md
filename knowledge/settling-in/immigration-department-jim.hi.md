@@ -27,7 +27,7 @@ faq:
   - q: "नया 10-वर्षीय पासपोर्ट कितने का है?"
     a: "10-वर्षीय पासपोर्ट 18–59 आयु के आवेदकों के लिए RM350, 60 वर्ष और उससे अधिक के वरिष्ठ नागरिकों के लिए RM175 का है, और शुल्क (पासपोर्ट एवं वीज़ा) (संशोधन) आदेश 2026 के तहत 18 वर्ष और उससे अधिक के OKU (दिव्यांग) कार्ड धारकों के लिए मुफ़्त है।"
 lang: "hi"
-sourceContentHash: "050995b2068c647c"
+sourceContentHash: "d38b062bdbd5abc0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-1.webp
+    alt: सेम्पोर्ना, सबा में आव्रजन विभाग की शाखा कार्यालय
+    kind: actual
+    origin: third-party
+    subject: सेम्पोर्ना, सबा में आव्रजन विभाग (Jabatan Imigresen) की शाखा कार्यालय
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semporna_Sabah_Jabatan-Imigresen-01.jpg
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-2.webp
+    alt: एक मलेशियाई आव्रजन पासपोर्ट मुहर, जो एक आव्रजन विभाग चौकी पर लगाई गई
+    kind: actual
+    origin: third-party
+    subject: मलेशियाई आव्रजन प्रवेश/निकास पासपोर्ट मुहर
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Passport_Stamp_Bukit_Berapit_1.jpg
 ---
 
 लगभग हर उस दस्तावेज़ के पीछे एक ही एजेंसी खड़ी है जो किसी व्यक्ति को मलेशिया की सीमा पार करने, यहाँ रहने या यहाँ काम करने देता है। **मलेशिया का आव्रजन विभाग** — *Jabatan Imigresen Malaysia* (**JIM**) — **गृह मंत्रालय** के अधीन वह निकाय है जो नागरिकों को पासपोर्ट जारी करता है, विदेशियों को वीज़ा और पास देता है, हर हवाई अड्डे और भू-सीमा काउंटर पर कर्मचारी तैनात करता है, और आव्रजन क़ानूनों को लागू करता है। यह मलेशियाई नागरिकों, स्थायी निवासियों और विदेशी आगंतुकों की सेवा करता है, और यह **21 July 1922** से चल रहा है। नए लोगों के लिए अड़चन यह है कि इसकी सेवाएँ कई आधिकारिक वेबसाइटों में बिखरी हुई हैं — यह पृष्ठ उन्हें एक नक़्शे में रखता है।

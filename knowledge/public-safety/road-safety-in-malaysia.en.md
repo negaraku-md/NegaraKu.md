@@ -37,7 +37,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "681af11f157961d9"
+sourceContentHash: "6230ba2101db75a9"
 
 status: "published"
 aiAssisted: true
@@ -118,6 +118,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-1.webp
+    alt: A view north along the two-lane Jalan Kluang-Kota Tinggi (Federal Route 91) near Kluang, Johor
+    kind: actual
+    origin: third-party
+    subject: Two-lane federal highway (Route 91), Kluang, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151246.jpg
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-2.webp
+    alt: A marked pedestrian crossing at a road junction at night in Kota Damansara, Selangor
+    kind: actual
+    origin: third-party
+    subject: Pedestrian crossing at a road junction, Kota Damansara, Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Persiaran_Surian-Persiaran_Kenanga_Intersection_Pedestrian_Crossing,_Kota_Damansara_20240125_192828.jpg
 ---
 
 Every day, roughly 18 lives are lost on Malaysia's roads. That figure makes the roads one of the country's most significant causes of unnatural death, and the main reason dedicated laws, cameras and agencies have been deployed to address it.

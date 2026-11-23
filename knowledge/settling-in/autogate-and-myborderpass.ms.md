@@ -35,7 +35,7 @@ faq:
     a: "Ya, sentiasa. Aplikasi dan kod QR mempercepatkan pintu, tetapi ia tidak menggantikan dokumen perjalanan anda. Setakat awal 2026 tiada satu pun aplikasi diwajibkan, dan autogate serta kaunter manual masih menerima pasport fizikal. Simpan sekurang-kurangnya enam bulan kesahihan pasport."
 
 lang: "ms"
-sourceContentHash: "dd15b2531cb454e6"
+sourceContentHash: "fe905739669d5516"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 3.0 de'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-1.webp
+    alt: Dewan ketibaan di Lapangan Terbang Antarabangsa Kuala Lumpur Terminal 1, tempat pengembara melepasi imigresen
+    kind: actual
+    origin: third-party
+    subject: Dewan ketibaan di Lapangan Terbang Antarabangsa Kuala Lumpur Terminal 1
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arrival_hall_of_Kuala_Lumpur_International_Airport_Terminal_1_20250828_212245.jpg
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-2.webp
+    alt: Kompleks pusat pemeriksaan imigresen Bangunan Sultan Iskandar di lintasan sempadan darat Johor Bahru
+    kind: actual
+    origin: third-party
+    subject: Kompleks CIQ Bangunan Sultan Iskandar, lintasan sempadan darat Johor Bahru ke Singapura
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Sultan_Iskandar_2.jpg
 ---
 
 **Autogate** ialah pintu imigresen automatik: ia membaca cip dalam pasport anda, memadankan wajah anda dengan foto, dan terbuka — tanpa pegawai, tanpa cop dakwat, biasanya dalam masa kurang daripada setengah minit. Laluan kod QR yang lebih baharu lebih pantas lagi, melepaskan seorang pengembara dalam kira-kira lima hingga tujuh saat. Bagi sesiapa yang melintasi sempadan Malaysia dengan kerap, mengetahui laluan mana yang anda dibenarkan guna menjimatkan masa yang nyata.

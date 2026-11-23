@@ -71,7 +71,27 @@ sources:
     url: "https://www.mof.gov.my/portal/en/news/press-release/government-implements-targeted-diesel-subsidy-for-peninsular-malaysia-effective-10-june-2024"
     publisher: "Kementerian Kewangan Malaysia (MOF)"
   - title: "Govt Saves RM5 Bln Through Diesel Subsidy Rationalisation — MoF"
-    url: "https://www.mof.gov.my/portal/en/news/press-citations/govt-saves-rm5-bln-through-diesel-subsidy-rationalisation---mof"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/govt-saves-rm5-bln-through-diesel-subsidy-rationalisation
+images:
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-1.webp
+    alt: A Shell-branded petrol station with a red-trimmed canopy over several fuel-pump islands, the yellow Shell pecten logo on the roadside pylon sign, and shoplots and cars nearby under a bright sky
+    kind: actual
+    origin: third-party
+    subject: a Shell petrol station forecourt in Taman Pelangi, Johor Bahru, with fuel-pump islands under a canopy
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Taman_Pelangi.jpg
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-2.webp
+    alt: A petrol station forecourt beneath a wide flat canopy sheltering fuel pumps, a tall illuminated price-board pylon standing at the roadside and a convenience-store building alongside on an overcast day
+    kind: actual
+    origin: third-party
+    subject: a FIVE-branded petrol station in Ijok, Selangor, one of Malaysia's independent fuel-retail chains, with its forecourt and price pylon
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ijok_FIVE_petrol_station_(230318).jpg
+---mof"
     publisher: "Kementerian Kewangan Malaysia (MOF)"
   - title: "BUDI Diesel Starts Tomorrow, 700,000 Vehicle Owners To Pay RM2.10 A Litre"
     url: "https://www.mof.gov.my/portal/en/news/press-citations/budi-diesel-starts-tomorrow-700-000-vehicle-owners-to-pay-rm2-10-a-litre"

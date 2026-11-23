@@ -29,7 +29,7 @@ faq:
     a: "قد تشمل تراخيص الأخشاب وعقود إيجار المزارع الصادرة عن الولاية مناطق تطالب بها المجتمعات المحلية بوصفها أرضًا عرفية. وحيث يختلف الطرفان على ما إذا كانت منطقة ما أرض NCR، كثيرًا ما يُفصَل في النزاع أمام المحكمة."
 
 lang: "ar"
-sourceContentHash: "28337553336a3000"
+sourceContentHash: "b18f95dc322c1c87"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Logging_trucks_in_Sarawak.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-1.webp
+    alt: منظر جوّي لمزارع نخيل الزيت تغطّي أرض غابة مُزالة في Sarawak، Borneo
+    kind: actual
+    origin: third-party
+    subject: مزارع نخيل الزيت على أرض كانت غابة، Sarawak
+    credit: Ben Sutherland / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantations_in_Sarawak.jpg
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-2.webp
+    alt: جذوع أخشاب استوائية صلبة مكدّسة في ساحة لتخزين وشحن الأخشاب في Kalabakan، Sabah
+    kind: actual
+    origin: third-party
+    subject: ساحة تخزين جذوع الأخشاب، Kalabakan، Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kalabakan_Sabah_Timber-storage-area-01.jpg
 ---
 
 يقول مجتمع يسكن بيتًا طويلًا (longhouse) إن رقعة من الغابة ملك له منذ أجيال. وتحمل شركة أخشاب أو مزارع ترخيصًا، صادرًا عن الولاية، يشمل الأرض نفسها. ويستند كلاهما إلى القانون. وفي ساراواك وصباح، جرى الجدال في هذا التصادم داخل قاعات المحاكم أكثر من عقدين — ولم تتفق المحاكم دائمًا على موضع الخط الفاصل.

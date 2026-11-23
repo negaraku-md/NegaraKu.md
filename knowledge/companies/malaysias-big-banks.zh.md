@@ -31,7 +31,7 @@ faq:
     a: "联昌国际自称为一家聚焦东盟的集团，业务遍及马来西亚、印尼、新加坡与泰国等市场。兴业银行在七个区域市场经营。马来亚银行覆盖三个本土市场——马来西亚、新加坡与印尼——并在整个东盟及主要全球金融中心开展业务。"
 
 lang: "zh"
-sourceContentHash: "14c6f8fee1c877fb"
+sourceContentHash: "ae9e39ab428b7fce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,6 +96,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_View_of_KLCC.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-1.webp
+    alt: 一栋高耸的白色摩天大楼,一对弧形如刀刃般的塔楼构成马来亚银行总部,高出周围树木与城市街道,衬着蓝天
+    kind: actual
+    origin: third-party
+    subject: 马来亚银行大厦(Menara Maybank),马来亚银行(Maybank)在吉隆坡市中心的总部大楼,马来西亚最大的银行
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Maybank_Tower.jpg
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-2.webp
+    alt: 一栋多层建筑,街面设有CIMB银行分行及其红色CIMB招牌,玻璃门面,行人在前方人行道上经过,天空晴朗
+    kind: actual
+    origin: third-party
+    subject: 巫统大厦街面的一家CIMB银行分行,CIMB是马来西亚按资产计最大的银行之一
+    credit: Qhairy / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank,_Bangunan_UMNO.jpg
 ---
 
 把几乎主宰马来西亚每一条大街的五个名字并排放在一起——[马来亚银行](/zh/companies/maybank)、联昌国际、大众银行、兴业银行与丰隆银行——你看到的就是一个银行体系的核心，它为这个国家结算工资、房贷与贸易款项。它们全都在马来西亚注册成立，全都在马来西亚交易所（Bursa Malaysia）上市，也全都由同一家中央银行颁发牌照。除此之外，它们的差异极为鲜明：一家在规模上让其余四家相形见绌，有些实际上以政府为核心支撑，还有两家至今仍由创办它们的家族掌舵。

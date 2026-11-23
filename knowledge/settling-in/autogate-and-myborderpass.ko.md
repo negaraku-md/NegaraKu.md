@@ -35,7 +35,7 @@ faq:
     a: "네, 언제나 필요합니다. 앱과 QR 코드는 게이트를 빠르게 하지만, 여행 증명서를 대체하지는 않습니다. 2026년 초 기준으로 이 앱들은 어느 것도 의무가 아니며, Autogate와 수동 카운터는 여전히 실물 여권을 인정합니다. 여권 유효기간은 최소 6개월을 유지하십시오."
 
 lang: "ko"
-sourceContentHash: "dd15b2531cb454e6"
+sourceContentHash: "fe905739669d5516"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 3.0 de'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-1.webp
+    alt: 여행객이 입국 심사를 받는 쿠알라룸푸르 국제공항 제1터미널 입국장
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 국제공항 제1터미널 입국장
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arrival_hall_of_Kuala_Lumpur_International_Airport_Terminal_1_20250828_212245.jpg
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-2.webp
+    alt: 싱가포르로 건너가는 조호르바루 육로 국경의 술탄 이스칸다르 빌딩 출입국 검문 단지
+    kind: actual
+    origin: third-party
+    subject: 술탄 이스칸다르 빌딩 CIQ 단지. 싱가포르로 통하는 조호르바루 육로 국경
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Sultan_Iskandar_2.jpg
 ---
 
 **Autogate**는 자동 입국 심사 게이트입니다: 여권의 칩을 읽고, 얼굴을 사진과 대조한 뒤 열립니다 — 심사관도 없고, 잉크 도장도 없이, 보통 30초도 걸리지 않습니다. 더 새로운 QR 코드 레인은 더욱 빨라서 여행자를 약 5~7초 만에 통과시킵니다. 말레이시아 국경을 자주 넘는 사람이라면, 자신이 어느 레인을 쓸 수 있는지 아는 것이 실질적인 시간 절약이 됩니다.

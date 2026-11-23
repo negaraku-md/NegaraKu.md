@@ -32,7 +32,7 @@ faq:
     a: "Felda Global Ventures (ahora FGV Holdings) es el brazo de inversión que gestiona las plantaciones de FELDA. Cotizó en Bursa Malaysia el 28 de junio de 2012 y, en el momento de la OPV, gestionaba alrededor de 500,000 hectáreas trabajadas por unos 112,600 colonos."
 
 lang: "es"
-sourceContentHash: "827c6da5e0f2c397"
+sourceContentHash: "ecd41197a456d74c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:FELDA_Ayer_Hitam_-_Entrance_Gate.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-1.webp
+    alt: Una tranquila carretera bordeada de palmeras reales y casas de colonos en el programa FELDA Bukit Batu, Kulai, Johor
+    kind: actual
+    origin: third-party
+    subject: Casas de colonos a lo largo de una carretera bordeada de palmeras en FELDA Bukit Batu, Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FELDA_Bukit_Batu.jpg
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-2.webp
+    alt: La planta extractora de aceite de palma Fajar Harapan con sus chimeneas en el complejo de colonización FELDA Sahabat, Sabah
+    kind: actual
+    origin: third-party
+    subject: Planta extractora de aceite de palma Fajar Harapan en el complejo FELDA Sahabat, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Felda-Sahabat_Cenderawasih_Sabah_Kilang-Sawit-Fajar-Harapan-03.jpg
 ---
 
 Imagine a una familia pobre trasladada a un bosque recién desbrozado, a la que se le entrega una parcela de tierra y un salario mensual, y a la que luego se le pide esperar años hasta que sus árboles de caucho o palma aceitera maduren. Esa fue la oferta que cambió la vida de más de 100,000 familias rurales malasias — y su motor fue FELDA.

@@ -30,7 +30,7 @@ faq:
     a: "APM ஆனது சிவில் பாதுகாப்புச் சட்டம் 1951 (Akta 221) இன் கீழ் இயங்குகிறது; இச்சட்டம் உயிரையும் உடைமையையும் பாதுகாக்க அமைதிக் காலத்திலும் போர்க் காலத்திலும் அதன் கடமைகளை வரையறுக்கிறது."
 
 lang: "ta"
-sourceContentHash: "1cc8bccf4a7c831a"
+sourceContentHash: "8efaac4be728913a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tatra_truck_of_Malaysia_Civil_Defence_Force_in_Kuantan_2023_NDP.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-1.webp
+    alt: பாகான் லாலாங் கடற்கரையில் உள்ள அங்காட்டான் பர்தஹானான் அவாம் (சிவில் பாதுகாப்புப் படை) கடற்கரை மீட்புக் கண்காணிப்புக் கோபுரம்
+    kind: actual
+    origin: third-party
+    subject: APM (அங்காட்டான் பர்தஹானான் அவாம், சிவில் பாதுகாப்புப் படை) கடற்கரை மீட்புக் கண்காணிப்புக் கோபுரம், பாகான் லாலாங்
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_1.jpg
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-2.webp
+    alt: பாகான் லாலாங்கில் திறந்த கடற்கரையை நோக்கியுள்ள ஒரு சிவில் பாதுகாப்புப் படையின் கடலோர உயிர்காப்பு மற்றும் மீட்புக் கோபுரம்
+    kind: actual
+    origin: third-party
+    subject: கடற்கரையை நோக்கும் APM கடலோர உயிர்காப்பாளர் கோபுரம், பாகான் லாலாங்
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_2.jpg
 ---
 
 பெரும் வெள்ளம் தாக்கும்போது அல்லது ஒரு கட்டிடம் இடிந்து விழும்போது, படகுகள், கயிறுகள் மற்றும் மீட்புக் கருவிகளுடன் முதலில் வந்து சேரும் அணிகளில் ஒன்று பெரும்பாலும் ஆரஞ்சு நிற உடையணிந்த APM அணியாகவே இருக்கும். மலேசிய சிவில் பாதுகாப்புப் படை (Angkatan Pertahanan Awam Malaysia, APM) என்பது நாட்டின் மனிதாபிமான உதவியின் முதுகெலும்பாகும் — ஒரு பேரிடர் நிகழும் முன், அதன்போது மற்றும் அதற்குப் பின் என எப்போதும் களத்தில் இருக்கும்.

@@ -29,7 +29,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d9838f1e57d307b7"
+sourceContentHash: "50784100ca6e3481"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -119,6 +119,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Floating_solar_%26_walkway,_UPM.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-1.webp
+    alt: திறந்த புல்வெளியில் தாழ்வான உலோக சட்டங்களில் அமைந்த கரு நீல சூரிய ஒளிமின்னழுத்தப் பலகைகளின் நீண்ட வரிசைகள், வேலியிடப்பட்டு, சிதறிய மேகங்களுடன் கூடிய தெளிந்த நீல வானத்தின் கீழ் தொலைவில் உள்ள மரவரிசையை நோக்கி நீண்டுள்ளது
+    kind: actual
+    origin: third-party
+    subject: சபா, சுங்கை-சுங்கையில் தரையில் நிறுவப்பட்ட ஒரு சூரிய ஒளிமின்னழுத்தப் பண்ணை, கிராமப்புற மின்வலையமைப்புக்கு மின்சாரம் உற்பத்தி செய்கிறது
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Solar-Panel-Station-01.jpg
+  - role: scene
+    src: /media/energy/renewable-energy-in-malaysia/body-2.webp
+    alt: காடுசூழ் குன்றுகளுக்கு இடையே ஒரு பசுமையான நீர்த்தேக்கத்தைத் தடுத்து நிறுத்தும் ஒரு வளைந்த அணை, அதன் முகப்பில் ஒரு நீர்வழிந்தோடும் கால்வாயும் நீரெடுப்புக் கட்டமைப்புகளும், மற்றும் சுற்றியுள்ள சரிவுகளை மூடியிருக்கும் அடர்ந்த வெப்பமண்டலக் காடு
+    kind: actual
+    origin: third-party
+    subject: கிளாந்தானில் உள்ள பெர்காவ் நீர்மின் அணை மற்றும் நீர்த்தேக்கம், தீபகற்ப மலேசியாவில் ஒரு புதுப்பிக்கத்தக்க நீர்மின் திட்டம்
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pergau_Dam.jpg
 ---
 
 மலேசியாவில் புதுப்பிக்கத்தக்க ஆற்றல் (RE) பற்றி நீங்கள் படிக்க முயற்சித்திருந்தால், நீங்கள் அநேகமாக மூன்று வெவ்வேறு இலக்கு எண்களைச் — 31%, 40% மற்றும் 70% — சந்தித்திருப்பீர்கள், மேலும் சுருக்கெழுத்துக்களின் ஒரு சுவரையும்: FiT, NEM, LSS, CGPP, CRESS, SELCO. அவற்றில் எதுவும் முரண்பாடானது அல்ல; அது வெறுமனே அரை டஜன் நிறுவனங்களில் பரவியுள்ளது, ஒவ்வொன்றும் தன் சொந்த மூலையை மட்டுமே ஆவணப்படுத்துகிறது. இந்த வழிகாட்டி முழு நிலப்பரப்பையும் ஒரே இடத்தில் கொண்டு வருகிறது: தேசிய இலக்குகள் மற்றும் அவற்றுக்குப் பின்னால் உள்ள பாதைவரைபடங்கள், திட்டங்களின் குடும்பம், மேலும் — பெரும்பாலான ஆதாரங்கள் தவிர்க்கும் பகுதி — ஒரு வீட்டு உரிமையாளருக்கோ, ஒரு வணிகத்துக்கோ, அல்லது ஒரு உருவாக்குநருக்கோ உண்மையில் எந்தத் திட்டம் நோக்கப்பட்டுள்ளது என்பது.

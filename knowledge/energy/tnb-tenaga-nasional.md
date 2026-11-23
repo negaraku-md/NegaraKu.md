@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Power_Station.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-1.webp
+    alt: Sebuah bangunan pejabat berjenama TNB yang memaparkan nama dan logo Tenaga Nasional pada fasadnya, dengan kawasan hadapan berlandskap dan tempat letak kereta di bawah langit biru cerah
+    kind: actual
+    origin: third-party
+    subject: Sebuah pejabat Tenaga Nasional Berhad (TNB) di Alor Setar, Kedah, salah satu bangunan perkhidmatan negeri utiliti nasional itu
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TNB_Alor_Setar.jpg
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-2.webp
+    alt: Menara penghantaran elektrik kekisi keluli yang disambung dengan kabel voltan tinggi merentasi selat laut yang luas di sebelah sebuah jambatan jalan raya yang panjang, dengan sebuah pulau dan bukit tanah besar di kejauhan
+    kind: actual
+    origin: third-party
+    subject: Menara penghantaran voltan tinggi TNB membawa talian kuasa merentasi selat di sebelah Jambatan Pulau Pinang ke arah Pulau Gazumbo
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge,_TNB_transmission_towers,_and_Pulau_Gazumbo_from_The_Waterfront_Shoppes_rooftop_(261108).jpg
 ---
 
 Setiap kali lampu menyala di rumah, kilang atau pusat data di Semenanjung Malaysia, kemungkinan besar elektronnya mengalir melalui rangkaian yang dimiliki satu syarikat: Tenaga Nasional Berhad. Ia bukan sekadar penjana kuasa, tetapi tulang belakang sistem tenaga negara — dari stesen janakuasa hingga ke meter di dinding.

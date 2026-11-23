@@ -31,7 +31,7 @@ faq:
     a: "CIMB se describe a sí mismo como un grupo centrado en la ASEAN que opera en mercados como Malasia, Indonesia, Singapur y Tailandia. RHB opera en siete mercados regionales. Maybank abarca tres mercados de origen —Malasia, Singapur e Indonesia— además de operaciones por toda la ASEAN y en los principales centros financieros mundiales."
 
 lang: "es"
-sourceContentHash: "14c6f8fee1c877fb"
+sourceContentHash: "ae9e39ab428b7fce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,6 +96,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_View_of_KLCC.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-1.webp
+    alt: Un alto rascacielos blanco cuyas torres gemelas curvas en forma de hoja constituyen la sede de Maybank, alzándose sobre los árboles y las calles circundantes contra un cielo azul
+    kind: actual
+    origin: third-party
+    subject: Menara Maybank, la torre sede de Malayan Banking (Maybank) en el centro de Kuala Lumpur, el mayor banco de Malasia
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Maybank_Tower.jpg
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-2.webp
+    alt: Un edificio de varias plantas con una sucursal de CIMB Bank y su rótulo rojo CIMB a pie de calle, una fachada de cristal y peatones pasando por la acera de enfrente bajo un cielo despejado
+    kind: actual
+    origin: third-party
+    subject: una sucursal de CIMB Bank en la planta baja del Bangunan UMNO; CIMB es uno de los mayores bancos de Malasia por activos
+    credit: Qhairy / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank,_Bangunan_UMNO.jpg
 ---
 
 Ponga en fila los cinco nombres que dominan casi todas las calles principales de Malasia —[Maybank](/es/companies/maybank), CIMB, Public Bank, RHB y Hong Leong— y estará mirando el núcleo de un sistema bancario que liquida los salarios, las hipotecas y el comercio del país. Todos están constituidos en Malasia, todos cotizan en Bursa Malaysia y todos están licenciados por el mismo banco central. Más allá de eso, divergen marcadamente: uno empequeñece al resto en escala, algunos están efectivamente anclados por el gobierno y dos siguen dirigidos por las familias que los fundaron.

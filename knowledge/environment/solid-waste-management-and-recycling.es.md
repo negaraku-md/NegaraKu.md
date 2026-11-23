@@ -31,7 +31,7 @@ faq:
     a: "En su mayoría a vertederos. Malasia opera 135 vertederos — 114 basureros a cielo abierto y 22 vertederos sanitarios — y el depósito en vertedero sigue siendo el método de eliminación dominante del país."
 
 lang: "es"
-sourceContentHash: "1d664666863d04f5"
+sourceContentHash: "6f03b4a914139a0d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -113,6 +113,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-1.webp
+    alt: El emplazamiento del vertedero sanitario de Bukit Tagar cerca de Kampung Sepakat, Hulu Selangor, Selangor
+    kind: actual
+    origin: third-party
+    subject: Vertedero sanitario de Bukit Tagar, Hulu Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Tagar_Landfill,_Kampung_Sepakat_20231226_141258.jpg
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-2.webp
+    alt: Un camión municipal de recogida de basura operado por el ayuntamiento local en Kudat, Sabah
+    kind: actual
+    origin: third-party
+    subject: Camión municipal de recogida de basura, Kudat, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat_Sabah_Garbage-Collection-Truck-01.jpg
 ---
 
 Tire la basura en Johor y se convierte en un asunto del gobierno federal; tire la misma basura en Penang y sigue siendo competencia del consejo local. Esa es la peculiaridad central de cómo gestiona Malasia sus residuos sólidos — una gran ley federal, pero una que solo entra en vigor en los lugares que han accedido a adoptarla.

@@ -71,7 +71,27 @@ sources:
     url: "https://www.mof.gov.my/portal/en/news/press-release/government-implements-targeted-diesel-subsidy-for-peninsular-malaysia-effective-10-june-2024"
     publisher: "மலேசிய நிதி அமைச்சு (MOF)"
   - title: "டீசல் மானிய நெறிப்படுத்தல் மூலம் அரசாங்கம் RM5 பில்லியன் சேமிக்கிறது — நிதி அமைச்சு (Govt Saves RM5 Bln Through Diesel Subsidy Rationalisation — MoF)"
-    url: "https://www.mof.gov.my/portal/en/news/press-citations/govt-saves-rm5-bln-through-diesel-subsidy-rationalisation---mof"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/govt-saves-rm5-bln-through-diesel-subsidy-rationalisation
+images:
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-1.webp
+    alt: பல எரிபொருள் பம்ப் தீவுகளுக்கு மேல் சிவப்பு விளிம்பு விதானம், சாலையோர தூண் பலகையில் மஞ்சள் ஷெல் சிப்பி சின்னம், மற்றும் அருகில் கடை வரிசைகளும் கார்களும் கொண்ட, தெளிவான வானத்தின் கீழ் அமைந்த ஒரு ஷெல் பெட்ரோல் நிலையம்
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர் பாரு, தாமான் பெலாங்கியில் உள்ள ஒரு ஷெல் பெட்ரோல் நிலைய முற்றம், விதானத்தின் கீழ் எரிபொருள் பம்ப் தீவுகளுடன்
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Taman_Pelangi.jpg
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-2.webp
+    alt: எரிபொருள் பம்புகளை மறைக்கும் அகலமான தட்டையான விதானத்தின் கீழ் அமைந்த ஒரு பெட்ரோல் நிலைய முற்றம், சாலையோரம் நிற்கும் ஒரு உயரமான ஒளிரும் விலைப்பலகைத் தூண், மற்றும் பக்கத்தில் ஒரு வசதிக் கடை கட்டிடம், மேகமூட்டமான ஒரு நாளில்
+    kind: actual
+    origin: third-party
+    subject: செலாங்கூர், இஜோக்கில் உள்ள FIVE என்ற பெயரிலான ஒரு பெட்ரோல் நிலையம், மலேசியாவின் சுயாதீன எரிபொருள் சில்லறை விற்பனைச் சங்கிலிகளில் ஒன்று; அதன் முற்றம் மற்றும் விலைத் தூணுடன்
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ijok_FIVE_petrol_station_(230318).jpg
+---mof"
     publisher: "மலேசிய நிதி அமைச்சு (MOF)"
   - title: "BUDI டீசல் நாளை தொடங்குகிறது, 700,000 வாகன உரிமையாளர்கள் லிட்டருக்கு RM2.10 செலுத்துவர் (BUDI Diesel Starts Tomorrow, 700,000 Vehicle Owners To Pay RM2.10 A Litre)"
     url: "https://www.mof.gov.my/portal/en/news/press-citations/budi-diesel-starts-tomorrow-700-000-vehicle-owners-to-pay-rm2-10-a-litre"

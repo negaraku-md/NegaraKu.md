@@ -36,7 +36,7 @@ faq:
     a: "Setelah amandemen Akta Perikanan 1985 pada 2019 (Akta A1601), denda maksimum bagi pemilik atau nakhoda kapal asing yang menyusup dinaikkan dari RM1 juta menjadi RM6 juta, dan bagi setiap awak kapal dari RM100,000 menjadi RM600,000."
 
 lang: "id"
-sourceContentHash: "fa3345cedd03dd8d"
+sourceContentHash: "8c0e702d9b4ea4d2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PENANG_ISLAND_FISHING_BOATS_MALAYSIA_JAN_2012_(6868741024).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-1.webp
+    alt: Perahu nelayan yang bersandar di sepanjang sungai di samping rumah panggung kampung nelayan di Kuala Kedah
+    kind: actual
+    origin: third-party
+    subject: Perahu nelayan dan sebuah kampung pesisir di Kuala Kedah
+    credit: Marufish from Alor Setar, Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fishing_Village_at_Kuala_Kedah_(2638400370).jpg
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-2.webp
+    alt: Sederet ikan lokal segar ditata untuk dijual di pasar akhir pekan Satok di Kuching, Sarawak
+    kind: actual
+    origin: third-party
+    subject: Ikan lokal segar dipajang di pasar Satok, Kuching, Sarawak
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fresh_fish_in_market_(27002392530).jpg
 ---
 
 Sebelum subuh di dermaga sepanjang Selat Melaka dan Laut China Selatan, ribuan

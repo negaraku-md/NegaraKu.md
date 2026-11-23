@@ -87,7 +87,27 @@ sources:
     url: "https://www.bnm.gov.my/governors/rasheed"
     publisher: "Bank Negara Malaysia"
   - title: "Policy consistency, strong fundamentals anchor investor confidence — Bank Negara governor"
-    url: "https://www.thestar.com.my/business/business-news/2026/08/14/policy-consistency-strong-fundamentals-anchor-investor-confidence---bank-negara-governo"
+    url: "https://www.thestar.com.my/business/business-news/2026/08/14/policy-consistency-strong-fundamentals-anchor-investor-confidence
+images:
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-1.webp
+    alt: L'entrée d'un bureau de la Bank Negara Malaysia à Kota Kinabalu, affichant le nom de la banque centrale et l'emblème du kijang avec les drapeaux de la Malaisie et de Sabah
+    kind: actual
+    origin: third-party
+    subject: Bureau régional de la Bank Negara Malaysia à Kota Kinabalu, Sabah, avec le nom de la banque centrale et l'emblème du kijang
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Bank-Negara-Malaysia-02.jpg
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-2.webp
+    alt: Un des premiers billets de ringgit de la Bank Negara Malaysia issu de la première série de 1967, portant le nom de la banque centrale
+    kind: actual
+    origin: third-party
+    subject: Premier billet de ringgit de la Bank Negara Malaysia (spécimen de la série de 1967)
+    credit: Bank Negara Malaysia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SERIBU_RINGGIT_-_OBSERVE_VIEW_(1967).png
+---bank-negara-governo"
     publisher: "The Star"
     date: "2026-08-14"
   - title: "MPC Meeting Decision Schedule — tag/mpc-2026"

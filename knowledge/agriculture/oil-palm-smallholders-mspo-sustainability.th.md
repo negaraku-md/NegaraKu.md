@@ -32,7 +32,7 @@ faq:
     a: "กฎระเบียบว่าด้วยการปลอดการตัดไม้ทำลายป่าของสหภาพยุโรปนิยามผลิตภัณฑ์ว่า 'ปลอดการตัดไม้ทำลายป่า' เฉพาะเมื่อปลูกบนที่ดินที่ไม่ได้ถูกตัดไม้ทำลายป่าหลังวันที่ 31 ธันวาคม 2020 (Regulation (EU) 2023/1115, Article 2) โดยกำหนดให้ระบุพิกัดตำแหน่งระดับแปลง — การทำแผนที่รูปหลายเหลี่ยมสำหรับแปลงที่มีขนาดใหญ่กว่า 4 เฮกตาร์ และอนุญาตให้ใช้จุด GPS จุดเดียวสำหรับแปลงขนาด 4 เฮกตาร์หรือน้อยกว่า — ซึ่งเป็นเรื่องยากในทางเทคนิคสำหรับเกษตรกรรายเล็ก ที่มักสูงวัย และอยู่ห่างไกล ที่จะจัดทำด้วยตนเอง"
 
 lang: "th"
-sourceContentHash: "ebff3a00ed279872"
+sourceContentHash: "75a4f66def4cf783"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Oil_palm_plantation_in_Mersing_District.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-1.webp
+    alt: คนงานเก็บเกี่ยวแบกไม้เกี่ยวด้ามยาวเดินท่ามกลางต้นปาล์มน้ำมันที่โตเต็มที่ โดยมีทะลายปาล์มสดที่เพิ่งตัดวางอยู่บนพื้น ในอำเภอเตอโนม รัฐซาบาห์
+    kind: actual
+    origin: third-party
+    subject: คนงานสวนแบกไม้เกี่ยวทะลายปาล์มท่ามกลางต้นปาล์มน้ำมันที่โตเต็มที่ในเตอโนม รัฐซาบาห์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tenom-District_Sabah_Fruit-Bunch-Cutter-01.jpg
+  - role: scene
+    src: /media/agriculture/oil-palm-smallholders-mspo-sustainability/body-2.webp
+    alt: ภาพระยะใกล้ของทะลายปาล์มสดสีแดงเรื่อกำลังสุกที่ยอดต้นปาล์มน้ำมันในสวนกิมานิส รัฐซาบาห์
+    kind: actual
+    origin: third-party
+    subject: ทะลายปาล์มสดกำลังสุกบนต้นปาล์มน้ำมันในสวนกิมานิส รัฐซาบาห์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_Palm-oil-fruits-of-Kimanis-Estate-02.jpg
 ---
 
 เกษตรกรในบินตูลู (Bintulu) ที่สามารถเดินไปตามแนวเขตทุกด้านของแปลงปาล์มน้ำมันของตนได้จากความจำ ในตอนนี้ต้องเปลี่ยน "แผนที่ในใจ" เหล่านั้นให้เป็นรูปหลายเหลี่ยม GPS ก่อนที่ผู้ซื้อในยุโรปจะยอมแตะผลผลิตของเขา ช่องว่างนั้น — ระหว่างการรู้จักที่ดินของตนกับการจัดทำเอกสารให้เป็นที่พอใจของผู้ตรวจสอบ — คือเรื่องราวที่เงียบงันเบื้องหลังเศรษฐกิจปาล์มน้ำมันของเกษตรกรรายย่อยในมาเลเซีย

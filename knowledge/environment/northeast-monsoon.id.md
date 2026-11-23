@@ -69,7 +69,7 @@ keywords:
   - Kelantan Terengganu rain
   - southwest monsoon
   - rainy season Malaysia
-sourceContentHash: "87793e0da2237cfd"
+sourceContentHash: "f4ce8e4f34f4c543"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -88,6 +88,25 @@ heroLicense: 'CC BY 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:December_2021_Malaysian_floods_in_Klang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/northeast-monsoon/body-1.webp
+    alt: Air banjir menggenang melintasi jalan federal K151 setelah sungai meluap mendadak di Kampung Padang Pusing, Pendang, Kedah
+    kind: actual
+    origin: third-party
+    subject: Air banjir menggenangi jalan setelah sungai meluap mendadak, Pendang, Kedah
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Padang_Pusing,_Pendang_20240917_125046.jpg
+  - role: scene
+    src: /media/environment/northeast-monsoon/body-2.webp
+    alt: Awan badai monsun gelap berkumpul di atas bentang alam tropis
+    kind: representative
+    origin: third-party
+    subject: Awan badai monsun (ilustrasi)
+    credit: lensnmatter / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Monsoon_(36877269620).jpg
 ---
 
 Setiap tahun, sekitar waktu belahan dunia lainnya memasuki musim dingin, pantai timur Malaysia bersiap-siap. Perahu-perahu ditarik ke darat, resor pulau menutup pintunya, pusat bantuan banjir disiapkan, dan keluarga-keluarga di kota dataran rendah mengawasi sungai. Inilah **monsun timur laut** — pengaruh tunggal terbesar terhadap cuaca Malaysia, dan alasan mengapa negara ini secara efektif memiliki musim hujan tersendiri alih-alih hujan tropis yang seragam sepanjang tahun.

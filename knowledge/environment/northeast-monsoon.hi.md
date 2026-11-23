@@ -69,7 +69,7 @@ keywords:
   - Kelantan Terengganu rain
   - southwest monsoon
   - rainy season Malaysia
-sourceContentHash: "87793e0da2237cfd"
+sourceContentHash: "f4ce8e4f34f4c543"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -88,6 +88,25 @@ heroLicense: 'CC BY 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:December_2021_Malaysian_floods_in_Klang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/northeast-monsoon/body-1.webp
+    alt: कम्पुंग पादांग पुसिंग, पेंडांग, केदाह में नदी के अचानक बढ़ने के बाद संघीय सड़क K151 पर जमा बाढ़ का पानी
+    kind: actual
+    origin: third-party
+    subject: नदी के अचानक बढ़ने के बाद सड़क पर बाढ़ का पानी, पेंडांग, केदाह
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Padang_Pusing,_Pendang_20240917_125046.jpg
+  - role: scene
+    src: /media/environment/northeast-monsoon/body-2.webp
+    alt: एक उष्णकटिबंधीय परिदृश्य के ऊपर घिरते गहरे मानसूनी तूफ़ानी बादल
+    kind: representative
+    origin: third-party
+    subject: मानसून के तूफ़ानी बादल (प्रतीकात्मक)
+    credit: lensnmatter / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Monsoon_(36877269620).jpg
 ---
 
 हर साल, लगभग उसी समय जब बाकी दुनिया सर्दियों की ओर बढ़ रही होती है, मलेशिया का पूर्वी तट खुद को तैयार कर लेता है। नावें ऊपर खींच ली जाती हैं, द्वीप रिज़ॉर्ट अपने दरवाज़े बंद कर देते हैं, बाढ़-राहत केंद्र तैयार किए जाते हैं, और निचले इलाकों के कस्बों के परिवार नदियों पर नज़र रखते हैं। यह है **पूर्वोत्तर मानसून** — मलेशिया के मौसम पर सबसे बड़ा एकल प्रभाव, और वह कारण जिससे देश में साल भर एक समान उष्णकटिबंधीय बारिश के बजाय प्रभावी रूप से एक अलग बरसात का मौसम होता है।

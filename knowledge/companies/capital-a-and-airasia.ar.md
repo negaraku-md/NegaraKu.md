@@ -30,7 +30,7 @@ faq:
     a: "بعد التخلّص من شركات الطيران، أصبحت Capital A مجموعةَ خدمات طيران ورقمية مبنيةً حول خمسة أعمال: Asia Digital Engineering، وTeleport، وAirAsia MOVE، وAirAsia Next، وSantan."
 
 lang: "ar"
-sourceContentHash: "649108ce940fc47e"
+sourceContentHash: "9b61b5a378f528a3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AGP_-_Now_Everyone_Can_Fly_Livery_-_KUL.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/companies/capital-a-and-airasia/body-1.webp
+    alt: طائرة AirAsia من طراز Airbus A320 ضيّقة البدن تحمل طلاءً تذكارياً خاصاً مع كلمة airasia على طول جسمها، واقفة على مدرج الوقوف في مطار Langkawi تحت سماء صافية
+    kind: actual
+    origin: third-party
+    subject: طائرة AirAsia من طراز Airbus A320 (التسجيل الماليزي 9M-AQH) بطلاء تذكاري خاص في مطار Langkawi International Airport
+    credit: Jovi Choo / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AirAsia_-_Airbus_A320_-_9M-AQH_-_100th_Awesome_Plane_Livery_-_LGK.jpg
+  - role: scene
+    src: /media/companies/capital-a-and-airasia/body-2.webp
+    alt: طائرات AirAsia بطلاء أحمر مصطفّة عند بوابات الصعود في مبنى الناقلات منخفضة التكلفة klia2، ويمتدّ مبنى المحطة الطويل وجسور الصعود على طول مدرج الوقوف تحت سماء استوائية
+    kind: actual
+    origin: third-party
+    subject: طائرات AirAsia في klia2، مبنى الناقلات منخفضة التكلفة في Kuala Lumpur International Airport والمحور الماليزي الرئيسي للشركة
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Air_Asia,_KLIA2,_Kuala_Lumpur_Airport_Low_Cost_Terminal_(15154635675).jpg
 ---
 
 لسنوات، كان اسما «AirAsia» و«Capital A» يُستخدمان على نحو شبه متبادل. وبعد إعادة هيكلة امتدّت سنوات عدة، أصبحا الآن يصفان شركتين مدرجتين مختلفتين.

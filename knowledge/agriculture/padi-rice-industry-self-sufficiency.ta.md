@@ -36,7 +36,7 @@ faq:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "8f44d2a10fa14edb"
+sourceContentHash: "a3e4b8ba2156b900"
 
 status: "published"
 aiAssisted: true
@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-1.webp
+    alt: கிளாந்தானில் ஒரு நெல் வயலில் முற்றிய தங்க நிற நெல்லை அறுவடை செய்யும் ஒரு மஞ்சள் நிற கம்பைன் அறுவடை இயந்திரம்
+    kind: actual
+    origin: third-party
+    subject: கிளாந்தானில் முற்றிய நெல்லை அறுவடை செய்யும் ஒரு கம்பைன் அறுவடை இயந்திரம்
+    credit: Zamwan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menuai_padi_di_Kelantan.jpg
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-2.webp
+    alt: கெடா, லங்காவியில் பின்னணியில் ஒரு காடுசூழ் குன்றுடன், அறுவடைக்குத் தயாராக முற்றிய தங்க நிற நெல் வயல்
+    kind: actual
+    origin: third-party
+    subject: கெடா, லங்காவியில் அறுவடைக்குத் தயாராக முற்றிய தங்க நிற நெல் வயல்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-05.jpg
 ---
 
 அரிசி விலை உயரும் ஒவ்வொரு முறையும் அல்லது பேரங்காடி அலமாரிகள் காலியாகும் ஒவ்வொரு முறையும், ஒரு பழைய கேள்வி மீண்டும் மலேசியாவை வேட்டையாடுகிறது: வயல்களால் வளமான ஒரு நாடு ஏன் இன்னும் தனது அரிசியில் கிட்டத்தட்ட பாதியை இறக்குமதி செய்ய வேண்டியுள்ளது? பதில், மானியத்தால் இயக்கப்படும், உத்தரவாத விலையால் பாதுகாக்கப்படும், மற்றும் இன்னும் அடையப்படாத தன்னிறைவு இலக்குகளால் துரத்தப்படும் ஒரு தொழிலில் உள்ளது.

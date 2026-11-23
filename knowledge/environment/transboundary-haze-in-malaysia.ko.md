@@ -32,7 +32,7 @@ faq:
     a: "주요 원인은 토지와 산림 화재 — 이탄지 화재와 농업을 위한 화전식 토지 개간 포함 — 로, 수마트라와 칼리만탄에서 발생하며 엘니뇨 현상의 영향을 받는 건기에 더 잦고 심해집니다."
 
 lang: "ko"
-sourceContentHash: "f6dc09ddaaf77bcf"
+sourceContentHash: "043be6570dc41e09"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-1.webp
+    alt: 쿠알라룸푸르의 한 진료소 옆 거리에 뿌옇게 끼어 시야가 나쁜 대기
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 진료소 인근의 연무 상황
+    credit: SNN95 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2026_Haze_at_Kuala_Lumpur_Health_Clinic_01.jpg
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-2.webp
+    alt: 짙은 월경성 연무가 평소에는 보이던 지평선의 언덕을 가리는 모습
+    kind: representative
+    origin: third-party
+    subject: 2013년 동남아시아 월경성 연무가 싱가포르를 뒤덮은 모습(예시)
+    credit: Oliverlyc. / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Effects_of_2013_Southeast_Asian_haze_on_Singapore.jpg
 ---
 
 건기에 몬순 바람의 방향이 바뀔 때마다, 클랑밸리(Klang Valley), 사라왁(Sarawak), 그리고 반도 대부분의 하늘은 단 며칠 만에 잿빛으로 변할 수 있습니다 — 해가 흐릿해지고, 연기 냄새가 집 안으로 스며들며, 휴대전화가 API 경보로 울립니다. 이것이 국경 넘는 연무입니다. 국내에서 전부 만들어진 것은 아니지만, 매년 수백만 말레이시아인이 들이마시는 오염입니다.

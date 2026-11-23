@@ -31,7 +31,7 @@ faq:
     a: "ในบรรดาพันธุ์จำนวนมาก MARDI ได้เผยแพร่พันธุ์ชุด MR (เช่น MR 297 และ MR 219) พันธุ์ข้าวหอมชุด MRQ และ KADARIA 1 ซึ่งเป็นข้าวลูกผสมพันธุ์แรกของมาเลเซีย"
 
 lang: "th"
-sourceContentHash: "9bb5af4c19ea1667"
+sourceContentHash: "77561bed3c65c105"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Main_entrance_of_MARDI.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/mardi-agricultural-research-institute/body-1.webp
+    alt: ต้นสตรอว์เบอร์รีปลูกในรางวัสดุปลูกยกพื้นเรียงเป็นแถวในโรงเรือนที่คาเมรอนไฮแลนด์
+    kind: representative
+    origin: third-party
+    subject: การปลูกสตรอว์เบอร์รีในโรงเรือนที่คาเมรอนไฮแลนด์
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
+  - role: scene
+    src: /media/agriculture/mardi-agricultural-research-institute/body-2.webp
+    alt: แปลงปลูกคลุมด้วยพลาสติกสีเงินพร้อมต้นกล้าและโรงเรือนกันฝนเรียงเป็นแถวที่ฟาร์มวิจัยคณะเกษตร มหาวิทยาลัยปุตรามาเลเซีย
+    kind: representative
+    origin: third-party
+    subject: แปลงเพาะปลูกและโรงเรือนที่ฟาร์มวิจัยการเกษตรของมหาวิทยาลัยในมาเลเซีย
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0912).jpg
 ---
 
 ข้าวท้องถิ่นเกือบทุกชามในมาเลเซียสืบย้อนกลับไปถึงพันธุ์ที่ปรับปรุงขึ้นในสถานีทดลองภาคสนามของ MARDI เบื้องหลังชั้นวางข้าวเปลือก สัตว์ปีก ผลไม้เมืองร้อน และอาหารแปรรูปของประเทศ คือสถาบันระดับสหพันธรัฐแห่งหนึ่งที่มีหน้าที่เปลี่ยนวิทยาศาสตร์ให้กลายเป็นผลผลิตที่สูงขึ้น

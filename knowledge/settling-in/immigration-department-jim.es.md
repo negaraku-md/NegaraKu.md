@@ -27,7 +27,7 @@ faq:
   - q: "¿Cuánto cuesta el nuevo pasaporte de 10 años?"
     a: "El pasaporte de 10 años cuesta RM350 para los solicitantes de 18 a 59 años, RM175 para los mayores de 60 años y es gratuito para los titulares de tarjeta OKU (discapacidad) de 18 años en adelante, conforme a la Orden de Tasas (Pasaportes y Visados) (Enmienda) de 2026."
 lang: "es"
-sourceContentHash: "050995b2068c647c"
+sourceContentHash: "d38b062bdbd5abc0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jabatan_Imigresen_Malaysia_Putrajaya-7_Disember_2022-(2).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-1.webp
+    alt: La oficina de la sucursal del Departamento de Inmigración en Semporna, Sabah
+    kind: actual
+    origin: third-party
+    subject: Oficina de la sucursal del Departamento de Inmigración (Jabatan Imigresen) en Semporna, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Semporna_Sabah_Jabatan-Imigresen-01.jpg
+  - role: scene
+    src: /media/settling-in/immigration-department-jim/body-2.webp
+    alt: Un sello de inmigración de Malasia en el pasaporte, estampado en un puesto de control del Departamento de Inmigración
+    kind: actual
+    origin: third-party
+    subject: Sello de entrada/salida de inmigración de Malasia en el pasaporte
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Passport_Stamp_Bukit_Berapit_1.jpg
 ---
 
 Una sola agencia respalda casi todos los documentos que permiten a una persona cruzar la frontera de Malasia, vivir aquí o trabajar aquí. El **Departamento de Inmigración de Malasia** —*Jabatan Imigresen Malaysia* (**JIM**)— es el organismo dependiente del **Ministerio del Interior** que expide pasaportes a los ciudadanos, otorga visados y pases a los extranjeros, dota de personal cada mostrador de aeropuerto y frontera terrestre, y hace cumplir las leyes de inmigración. Presta servicio a ciudadanos malasios, residentes permanentes y visitantes extranjeros, y funciona desde el **21 July 1922**. La dificultad para los recién llegados es que sus servicios están dispersos entre varios sitios web oficiales — esta página los ordena en un mapa.

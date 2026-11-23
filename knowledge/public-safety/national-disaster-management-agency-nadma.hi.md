@@ -29,7 +29,7 @@ faq:
     a: "इसका स्थान NADMA निर्देश सं. 1 ने ले लिया है, जिसे 1 अगस्त 2024 को प्रधानमंत्री की अध्यक्षता में हुई राष्ट्रीय सुरक्षा परिषद (MKN) की बैठक में अनुमोदित किया गया।"
 
 lang: "hi"
-sourceContentHash: "cb54d0894eec9ad2"
+sourceContentHash: "626601c85061b283"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-1.webp
+    alt: एक खोज-एवं-बचाव अभियान के दौरान बाढ़ के पानी में एक सपाट-तल वाली नाव चलाता एक जल बचाव दल
+    kind: representative
+    origin: third-party
+    subject: एक खोज अभियान के दौरान नाव में बाढ़ बचाव दल (प्रतीकात्मक)
+    credit: Marvin Nauman, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_32076_-_A_water_rescue_team_in_a_boat_searching_for_people_in_Oklahoma.jpg
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-2.webp
+    alt: एक इमारत के चारों ओर बढ़ते बाढ़ के पानी को रोकने के लिए बनाई गई रेत की बोरियों की सुरक्षात्मक दीवार
+    kind: representative
+    origin: third-party
+    subject: रेत की बोरियों से बना बाढ़-सुरक्षा अवरोध (प्रतीकात्मक)
+    credit: Jocelyn Augustino, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_34762_-_Residents_building_a_sandbag_wall_in_flood_waters_in_Arkansas.jpg
 ---
 
 जब कोई बड़ी बाढ़ एक साथ कई राज्यों पर प्रहार करती है, तो सेना, अग्निशमन दल, पुलिस और स्वयंसेवकों को एक ही कमान के तहत समन्वित करने का बटन कौन दबाता है? मलेशिया में, इसका उत्तर है NADMA।

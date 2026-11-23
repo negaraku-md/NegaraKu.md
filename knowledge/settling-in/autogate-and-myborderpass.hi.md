@@ -35,7 +35,7 @@ faq:
     a: "हाँ, हमेशा। ऐप और QR कोड गेट को तेज़ करते हैं, लेकिन वे आपके यात्रा दस्तावेज़ की जगह नहीं लेते। 2026 की शुरुआत तक कोई भी ऐप अनिवार्य नहीं है, और Autogate तथा मैनुअल काउंटर अब भी भौतिक पासपोर्ट स्वीकार करते हैं। कम से कम छह महीने की पासपोर्ट वैधता बनाए रखें।"
 
 lang: "hi"
-sourceContentHash: "dd15b2531cb454e6"
+sourceContentHash: "fe905739669d5516"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 3.0 de'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-1.webp
+    alt: कुआलालंपुर अंतर्राष्ट्रीय हवाई अड्डा टर्मिनल 1 का आगमन हॉल, जहाँ यात्री आव्रजन से गुज़रते हैं
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर अंतर्राष्ट्रीय हवाई अड्डा टर्मिनल 1 का आगमन हॉल
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arrival_hall_of_Kuala_Lumpur_International_Airport_Terminal_1_20250828_212245.jpg
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-2.webp
+    alt: जोहोर बाहरू के ज़मीनी सीमा-पारगमन पर Bangunan Sultan Iskandar आव्रजन चौकी परिसर
+    kind: actual
+    origin: third-party
+    subject: Bangunan Sultan Iskandar CIQ परिसर, सिंगापुर के लिए जोहोर बाहरू का ज़मीनी सीमा-पारगमन
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Sultan_Iskandar_2.jpg
 ---
 
 **Autogate** एक स्वचालित आप्रवासन गेट है: यह आपके पासपोर्ट में लगे चिप को पढ़ता है, आपके चेहरे का फोटो से मिलान करता है, और खुल जाता है — कोई अधिकारी नहीं, कोई स्याही की मुहर नहीं, आमतौर पर आधे मिनट से भी कम में। नए QR-कोड लेन और भी तेज़ हैं, जो एक यात्री को लगभग पाँच से सात सेकंड में पार करा देते हैं। जो कोई भी मलेशियाई सीमा नियमित रूप से पार करता है, उसके लिए यह जानना कि आपको कौन-सा लेन उपयोग करने की अनुमति है, वास्तविक समय बचाता है।

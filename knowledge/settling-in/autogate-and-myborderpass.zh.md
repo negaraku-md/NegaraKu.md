@@ -35,7 +35,7 @@ faq:
     a: "需要，始终如此。应用和二维码可加快通关，但它们不能取代你的旅行证件。截至 2026 年初这些应用都不是强制性的，Autogate 和人工柜台仍接受实体护照。请保留至少六个月的护照有效期。"
 
 lang: "zh"
-sourceContentHash: "dd15b2531cb454e6"
+sourceContentHash: "fe905739669d5516"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 3.0 de'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-1.webp
+    alt: 吉隆坡国际机场第一航站楼的入境大厅,旅客在此办理入境手续
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡国际机场第一航站楼的入境大厅
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arrival_hall_of_Kuala_Lumpur_International_Airport_Terminal_1_20250828_212245.jpg
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-2.webp
+    alt: 新山陆路边境通往新加坡的苏丹依斯干达大厦移民检查站综合大楼
+    kind: actual
+    origin: third-party
+    subject: 苏丹依斯干达大厦CIQ综合大楼,新山通往新加坡的陆路边境口岸
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Sultan_Iskandar_2.jpg
 ---
 
 **Autogate** 是一种自动化移民通道：它读取你护照中的芯片，将你的脸与照片比对，然后开门——无需人工，无需墨印盖章，通常在不到半分钟内完成。较新的二维码通道更快，约五到七秒即可放行一名旅客。对于经常往返马来西亚边境的人来说，知道自己可以使用哪条通道能省下实实在在的时间。

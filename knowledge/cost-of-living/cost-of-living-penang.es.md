@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que compare el costo de vida de Penang con el del Valle de Klang, o que decida entre la isla de Penang y Seberang Perai antes de mudarse, alquilar o abrir un negocio."
 
 lang: "es"
-sourceContentHash: "be67d52caf0f3908"
+sourceContentHash: "cbe6d680c7337a93"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Skyline_of_George_Town,_Pen
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'George Town skyline at dusk, Penang'
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-1.webp
+    alt: Bloques residenciales en altura en Maccalum Street, en George Town, Penang, que ilustran la vivienda urbana
+    kind: actual
+    origin: third-party
+    subject: Bloques de vivienda pública en altura en Maccalum Street, George Town, Penang
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Maccalum_Street_Flats,_George_Town,_Penang_(2024).jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-2.webp
+    alt: Vendedores y puestos en el mercado de productos frescos de Sungai Bakap, en Penang
+    kind: actual
+    origin: third-party
+    subject: Mercado de productos frescos en Sungai Bakap, Penang
+    credit: Dreamtrooper / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Bakap_Wet_Market.JPG
 ---
 
 Penang es el único estado malasio donde el "costo de vida" no puede responderse con

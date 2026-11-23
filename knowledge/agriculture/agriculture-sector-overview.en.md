@@ -37,7 +37,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e80995e62391c5c0"
+sourceContentHash: "86c39872c39e72b3"
 
 status: "published"
 aiAssisted: true
@@ -111,6 +111,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-1.webp
+    alt: Terraced vegetable farms and polytunnels on the hillsides of the Bertam Valley in Cameron Highlands, Pahang
+    kind: actual
+    origin: third-party
+    subject: Highland vegetable farms in the Bertam River Valley, Cameron Highlands, Pahang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bertam_3.jpg
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-2.webp
+    alt: Sunlit terraced plots of leafy vegetables above a highland village at Kampung Raja, Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Open-field vegetable farm at Kampung Raja, Cameron Highlands, Pahang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Raja_5.jpg
 ---
 
 In 2024, Malaysia produced over 100 million tonnes of fresh fruit bunches of oil palm — about 100.2 million tonnes according to the Department of Statistics Malaysia (DOSM) — enough to maintain its position among the world's two largest palm oil producers. In the same year, the country imported nearly half of the rice its people ate.

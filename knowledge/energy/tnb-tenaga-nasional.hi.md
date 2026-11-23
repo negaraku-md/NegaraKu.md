@@ -30,7 +30,7 @@ faq:
     a: "TNB का मुख्य परिचालन प्रायद्वीपीय मलेशिया को कवर करता है। सबा और लाबुआन में बिजली आपूर्ति Sabah Electricity Sdn. Bhd. द्वारा संभाली जाती है, जिसकी बहुमत हिस्सेदारी (82.75%) TNB के पास है और सबा राज्य सरकार के पास 17.24% है। सारावाक को एक अलग उपयोगिता कंपनी द्वारा बिजली दी जाती है, TNB द्वारा नहीं।"
 
 lang: "hi"
-sourceContentHash: "b6b33bf3419779ac"
+sourceContentHash: "3db20cd889aecd5a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Power_Station.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-1.webp
+    alt: अपने अग्रभाग पर Tenaga Nasional नाम और लोगो वाली एक TNB कार्यालय इमारत, भूदृश्य-सज्जित अग्रभाग और पार्किंग के साथ, चमकीले नीले आकाश के नीचे
+    kind: actual
+    origin: third-party
+    subject: केदाह के अलोर सेतार में एक Tenaga Nasional Berhad (TNB) कार्यालय, राष्ट्रीय उपयोगिता की राज्य सेवा इमारतों में से एक
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TNB_Alor_Setar.jpg
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-2.webp
+    alt: एक लंबे सड़क पुल के साथ-साथ एक चौड़े समुद्री जलमार्ग के आर-पार उच्च-वोल्टेज केबलों से जुड़े स्टील जालीदार बिजली ट्रांसमिशन टावर, दूरी में एक द्वीप और मुख्य भूमि की पहाड़ियाँ
+    kind: actual
+    origin: third-party
+    subject: पिनांग ब्रिज के पास जलमार्ग के आर-पार पुलाउ गाज़ुम्बो की ओर बिजली लाइनें ले जाते TNB उच्च-वोल्टेज ट्रांसमिशन टावर
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge,_TNB_transmission_towers,_and_Pulau_Gazumbo_from_The_Waterfront_Shoppes_rooftop_(261108).jpg
 ---
 
 जब भी प्रायद्वीपीय मलेशिया के किसी घर, कारख़ाने या डेटा सेंटर में बत्ती जलती है, तो संभावना यही है कि वे इलेक्ट्रॉन एक ही कंपनी के स्वामित्व वाले नेटवर्क से होकर बहते हैं: तेनागा नासिओनल बरहाद। यह केवल एक बिजली उत्पादक नहीं, बल्कि राष्ट्र की ऊर्जा प्रणाली की रीढ़ है — बिजलीघर से लेकर दीवार पर लगे बिजली-मीटर तक।

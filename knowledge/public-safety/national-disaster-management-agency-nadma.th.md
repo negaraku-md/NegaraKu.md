@@ -29,7 +29,7 @@ faq:
     a: "คำสั่งนี้ถูกแทนที่ด้วยคำสั่ง NADMA ฉบับที่ 1 ซึ่งได้รับอนุมัติในการประชุมสภาความมั่นคงแห่งชาติ (MKN) ที่มีนายกรัฐมนตรีเป็นประธานเมื่อวันที่ 1 สิงหาคม 2024"
 
 lang: "th"
-sourceContentHash: "cb54d0894eec9ad2"
+sourceContentHash: "626601c85061b283"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-1.webp
+    alt: ทีมกู้ภัยทางน้ำในเรือท้องแบนฝ่ากระแสน้ำท่วมระหว่างปฏิบัติการค้นหาและกู้ภัย
+    kind: representative
+    origin: third-party
+    subject: ทีมกู้ภัยน้ำท่วมในเรือระหว่างปฏิบัติการค้นหาและกู้ภัย (ภาพประกอบ)
+    credit: Marvin Nauman, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_32076_-_A_water_rescue_team_in_a_boat_searching_for_people_in_Oklahoma.jpg
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-2.webp
+    alt: แนวกำแพงกระสอบทรายที่ก่อขึ้นเพื่อกั้นน้ำท่วมที่เพิ่มระดับรอบอาคาร
+    kind: representative
+    origin: third-party
+    subject: แนวกระสอบทรายกันน้ำท่วม (ภาพประกอบ)
+    credit: Jocelyn Augustino, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_34762_-_Residents_building_a_sandbag_wall_in_flood_waters_in_Arkansas.jpg
 ---
 
 เมื่ออุทกภัยครั้งใหญ่เกิดขึ้นในหลายรัฐพร้อมกัน ใครคือผู้กดปุ่มเพื่อประสานงานทหาร ดับเพลิง ตำรวจ และอาสาสมัครภายใต้คำสั่งเดียว? ในมาเลเซีย คำตอบคือ NADMA

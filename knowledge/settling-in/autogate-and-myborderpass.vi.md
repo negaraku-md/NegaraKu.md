@@ -35,7 +35,7 @@ faq:
     a: "Có, luôn luôn. Các ứng dụng và mã QR tăng tốc tại cổng, nhưng chúng không thay thế giấy tờ đi lại của bạn. Tính đến đầu năm 2026 không ứng dụng nào là bắt buộc, và Autogate cùng các quầy thủ công vẫn chấp nhận hộ chiếu vật lý. Hãy giữ ít nhất sáu tháng hiệu lực hộ chiếu."
 
 lang: "vi"
-sourceContentHash: "dd15b2531cb454e6"
+sourceContentHash: "fe905739669d5516"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 3.0 de'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-1.webp
+    alt: Sảnh đến tại Nhà ga số 1, Sân bay Quốc tế Kuala Lumpur, nơi hành khách làm thủ tục xuất nhập cảnh
+    kind: actual
+    origin: third-party
+    subject: Sảnh đến tại Nhà ga số 1, Sân bay Quốc tế Kuala Lumpur
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arrival_hall_of_Kuala_Lumpur_International_Airport_Terminal_1_20250828_212245.jpg
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-2.webp
+    alt: Khu phức hợp trạm kiểm soát xuất nhập cảnh Bangunan Sultan Iskandar tại cửa khẩu đường bộ Johor Bahru
+    kind: actual
+    origin: third-party
+    subject: Khu phức hợp CIQ Bangunan Sultan Iskandar, cửa khẩu đường bộ Johor Bahru sang Singapore
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Sultan_Iskandar_2.jpg
 ---
 
 **Autogate** là một cổng nhập cảnh tự động: nó đọc chip trong hộ chiếu của bạn, đối chiếu khuôn mặt bạn với ảnh, rồi mở ra — không cán bộ, không dấu mực, thường trong chưa đầy nửa phút. Các làn mã QR mới hơn còn nhanh hơn, thông quan một du khách trong khoảng năm đến bảy giây. Với bất kỳ ai thường xuyên qua biên giới Malaysia, biết mình được phép dùng làn nào giúp tiết kiệm thời gian thực sự.

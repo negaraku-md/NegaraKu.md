@@ -32,7 +32,7 @@ faq:
     a: "Felda Global Ventures (now FGV Holdings) is the investment arm that manages FELDA's plantations. It was listed on Bursa Malaysia on 28 June 2012 and, at the time of the IPO, managed around 500,000 hectares worked by about 112,600 settlers."
 
 lang: "en"
-sourceContentHash: "827c6da5e0f2c397"
+sourceContentHash: "ecd41197a456d74c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:FELDA_Ayer_Hitam_-_Entrance_Gate.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-1.webp
+    alt: A quiet road lined with royal palms and settler houses in the FELDA Bukit Batu scheme, Kulai, Johor
+    kind: actual
+    origin: third-party
+    subject: Settler houses along a palm-lined road in FELDA Bukit Batu, Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FELDA_Bukit_Batu.jpg
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-2.webp
+    alt: The Fajar Harapan palm-oil mill with its chimneys in the FELDA Sahabat settlement complex, Sabah
+    kind: actual
+    origin: third-party
+    subject: Fajar Harapan palm-oil mill in the FELDA Sahabat complex, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Felda-Sahabat_Cenderawasih_Sabah_Kilang-Sawit-Fajar-Harapan-03.jpg
 ---
 
 Imagine a poor family moved to a freshly cleared forest, given a plot of land and a monthly wage, then asked to wait for years until their rubber or oil palm trees matured. That was the offer that changed the lives of more than 100,000 rural Malaysian families — and its engine was FELDA.

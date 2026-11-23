@@ -87,6 +87,25 @@ heroLicense: 'CC BY 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:December_2021_Malaysian_floods_in_Klang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/northeast-monsoon/body-1.webp
+    alt: Floodwater standing across federal road K151 after a sudden river rise at Kampung Padang Pusing, Pendang, Kedah
+    kind: actual
+    origin: third-party
+    subject: Floodwater over a road after sudden river rise, Pendang, Kedah
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Padang_Pusing,_Pendang_20240917_125046.jpg
+  - role: scene
+    src: /media/environment/northeast-monsoon/body-2.webp
+    alt: Dark monsoon storm clouds gathering over a tropical landscape
+    kind: representative
+    origin: third-party
+    subject: Monsoon storm clouds (representative)
+    credit: lensnmatter / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Monsoon_(36877269620).jpg
 ---
 
 Every year, around the time the rest of the world is heading into winter, Malaysia's east coast braces itself. Boats are pulled up, island resorts shut their doors, flood-relief centres are readied, and families in low-lying towns watch the rivers. This is the **northeast monsoon** — the single biggest influence on Malaysia's weather, and the reason the country effectively has a distinct wet season rather than year-round uniform tropical rain.

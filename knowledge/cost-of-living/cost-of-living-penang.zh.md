@@ -41,7 +41,7 @@ verificationNeeded:
   - "州级消费者物价指数是月度系列数据；本页引用的2025年1月数据，在用于当月比较之前，应对照DOSM最新公布的消费者物价指数更新。"
 
 updated: 2026-07-24
-sourceContentHash: "be67d52caf0f3908"
+sourceContentHash: "cbe6d680c7337a93"
 sources:
   - title: "家庭收入调查报告 2024（马来西亚及各州）(Household Income Survey Report 2024 (Malaysia & States))"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024"
@@ -81,6 +81,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Skyline_of_George_Town,_Pen
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'George Town skyline at dusk, Penang'
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-1.webp
+    alt: 槟城乔治市马加兰街的高层住宅组屋,展现城市住房状况
+    kind: actual
+    origin: third-party
+    subject: 槟城乔治市马加兰街的高层公共住房组屋
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Maccalum_Street_Flats,_George_Town,_Penang_(2024).jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-2.webp
+    alt: 槟城双溪峇甲巴刹的摊贩与摊位
+    kind: actual
+    origin: third-party
+    subject: 槟城双溪峇甲的巴刹(菜市)
+    credit: Dreamtrooper / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Bakap_Wet_Market.JPG
 ---
 
 槟城是马来西亚唯一一个无法用单一数字回答"生活成本"的州属，因为槟城并非单一地方。它是一座岛屿加上一条大陆地带，由两座大桥和一条渡轮相连，一边是联合国教科文组织世界遗产核心区，另一边则是货柜港口工业城镇。任何将"槟城"压平成一行数字的做法，都已经丢弃了最有用的信息。

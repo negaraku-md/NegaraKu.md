@@ -32,7 +32,7 @@ faq:
     a: "Penyebab utamanya adalah kebakaran lahan dan hutan — termasuk kebakaran lahan gambut dan pembukaan lahan dengan cara bakar untuk pertanian — di Sumatera dan Kalimantan, yang menjadi lebih sering dan parah pada musim kemarau yang dipengaruhi fenomena El Nino."
 
 lang: "id"
-sourceContentHash: "f6dc09ddaaf77bcf"
+sourceContentHash: "043be6570dc41e09"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-1.webp
+    alt: Udara berkabut asap dengan jarak pandang rendah di sebuah jalan di samping klinik kesehatan di Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Kondisi kabut asap di dekat sebuah klinik kesehatan di Kuala Lumpur
+    credit: SNN95 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2026_Haze_at_Kuala_Lumpur_Health_Clinic_01.jpg
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-2.webp
+    alt: Kabut asap lintas batas yang tebal mengaburkan perbukitan yang biasanya terlihat di cakrawala
+    kind: representative
+    origin: third-party
+    subject: Kabut asap lintas batas Asia Tenggara tahun 2013 di atas Singapura (ilustrasi)
+    credit: Oliverlyc. / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Effects_of_2013_Southeast_Asian_haze_on_Singapore.jpg
 ---
 
 Setiap kali angin muson berubah arah pada musim kemarau, langit di Lembah Klang, Sarawak, dan sebagian besar Semenanjung bisa berubah kelabu hanya dalam beberapa hari — matahari menjadi kabur, bau asap masuk ke dalam rumah, dan telepon berbunyi dengan notifikasi API. Inilah kabut asap lintas batas: pencemaran yang tidak sepenuhnya dihasilkan di dalam negeri, tetapi dihirup setiap tahun oleh jutaan rakyat Malaysia.

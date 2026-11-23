@@ -31,7 +31,7 @@ faq:
   - q: Siapa pelanggan utama furnitur Malaysia?
     a: Amerika Serikat sejauh ini adalah pasar tunggal terbesar — mengambil hampir separuh ekspor furnitur pada 2024 — diikuti pasar seperti Singapura, Australia, Jepang, dan Inggris. Konsentrasi berat pada Amerika Serikat ini juga membuat industri peka terhadap permintaan perumahan dan kebijakan tarif Amerika.
 lang: id
-sourceContentHash: "156e73848cc57164"
+sourceContentHash: "32c9844fa3d127af"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -109,6 +109,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-1.webp
+    alt: Bangunan sudut merah-putih yang mencolok milik toko furnitur Home Best di Kluang, Johor, dengan papan namanya bertuliskan Pusat Perabot Home Best Furniture dalam bahasa Melayu dan Tionghoa berlatar langit biru cerah.
+    kind: actual
+    origin: third-party
+    subject: Sebuah peritel furnitur, Pusat Perabot Home Best, di Jalan Manggis di kota Kluang, Johor, Malaysia
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Home_Best_Furniture_May_2024.jpg
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-2.webp
+    alt: Barisan papan kayu tropis yang baru digergaji ditata rapi memenuhi sebuah depot kayu beratap dengan sisi terbuka di Sandakan, Sabah, dengan serat kayunya berwarna madu hangat dan cokelat kemerahan yang disinari matahari sore.
+    kind: actual
+    origin: third-party
+    subject: Tumpukan papan kayu tropis gergajian yang dijual di sebuah depot kayu di Sandakan, Sabah, Malaysia
+    credit: CEphoto / Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sale-of-timbers-01.jpg
 ---
 
 Di suatu rumah di Texas atau California, ada kemungkinan besar kursi makan, rangka tempat tidur, atau rak buku itu dibuat di Malaysia — sangat mungkin di dalam dan sekitar satu kota, dari kayu sebatang pohon karet yang dulu menghasilkan lateks untuk sarung tangan dan ban. Industri furnitur dan produk kayu Malaysia adalah salah satu kelas berat yang senyap dari perekonomian manufakturnya: tidak glamor, tetapi eksportir sepuluh besar global yang konsisten, yang telah mengubah produk sampingan sektor perkebunan menjadi barang jadi yang dijual ke seluruh dunia.

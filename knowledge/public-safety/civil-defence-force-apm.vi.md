@@ -30,7 +30,7 @@ faq:
     a: "APM hoạt động theo Civil Defence Act 1951 (Act 221), quy định các nhiệm vụ của nó trong thời bình và thời chiến để bảo vệ tính mạng và tài sản."
 
 lang: "vi"
-sourceContentHash: "1cc8bccf4a7c831a"
+sourceContentHash: "8efaac4be728913a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tatra_truck_of_Malaysia_Civil_Defence_Force_in_Kuantan_2023_NDP.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-1.webp
+    alt: Một tháp canh cứu hộ bãi biển của Angkatan Pertahanan Awam (Lực lượng Phòng vệ Dân sự) trên bờ biển tại Bagan Lalang
+    kind: actual
+    origin: third-party
+    subject: Tháp canh cứu hộ bãi biển của APM (Lực lượng Phòng vệ Dân sự), Bagan Lalang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_1.jpg
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-2.webp
+    alt: Một tháp cứu hộ và cứu nạn ven biển của Lực lượng Phòng vệ Dân sự nhìn ra bãi biển rộng tại Bagan Lalang
+    kind: actual
+    origin: third-party
+    subject: Tháp cứu hộ ven biển của APM nhìn ra bãi biển, Bagan Lalang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_2.jpg
 ---
 
 Khi lũ lớn ập đến hoặc một tòa nhà sụp đổ, một trong những đội đầu tiên tới nơi với thuyền, dây và thiết bị cứu hộ thường mặc áo cam của APM. Lực lượng Phòng vệ Dân sự Malaysia (APM) là xương sống của hỗ trợ nhân đạo quốc gia — có mặt trước, trong và sau một thảm họa.

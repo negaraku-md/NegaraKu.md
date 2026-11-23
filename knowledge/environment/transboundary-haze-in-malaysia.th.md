@@ -32,7 +32,7 @@ faq:
     a: "สาเหตุหลักคือไฟไหม้พื้นดินและป่า รวมถึงไฟไหม้พื้นที่พรุและการเปิดพื้นที่ด้วยการเผาเพื่อการเกษตร ในสุมาตราและกาลีมันตัน ซึ่งเกิดบ่อยและรุนแรงขึ้นในช่วงฤดูแล้งที่ได้รับอิทธิพลจากปรากฏการณ์เอลนีโญ"
 
 lang: "th"
-sourceContentHash: "f6dc09ddaaf77bcf"
+sourceContentHash: "043be6570dc41e09"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-1.webp
+    alt: อากาศขมุกขมัวทัศนวิสัยต่ำบนถนนข้างคลินิกสุขภาพในกัวลาลัมเปอร์
+    kind: actual
+    origin: third-party
+    subject: สภาพหมอกควันใกล้คลินิกสุขภาพในกัวลาลัมเปอร์
+    credit: SNN95 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2026_Haze_at_Kuala_Lumpur_Health_Clinic_01.jpg
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-2.webp
+    alt: หมอกควันข้ามพรมแดนหนาทึบบดบังเนินเขาที่ปกติมองเห็นได้บนเส้นขอบฟ้า
+    kind: representative
+    origin: third-party
+    subject: หมอกควันข้ามพรมแดนในเอเชียตะวันออกเฉียงใต้ปี 2013 ปกคลุมสิงคโปร์ (ภาพประกอบ)
+    credit: Oliverlyc. / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Effects_of_2013_Southeast_Asian_haze_on_Singapore.jpg
 ---
 
 ทุกครั้งที่ลมมรสุมเปลี่ยนทิศในฤดูแล้ง ท้องฟ้าในหุบเขากลัง ซาราวัก และคาบสมุทรส่วนใหญ่สามารถกลายเป็นสีเทาได้ในเวลาเพียงไม่กี่วัน ดวงอาทิตย์เลือนราง กลิ่นควันเข้ามาในบ้าน และโทรศัพท์ดังขึ้นพร้อมการแจ้งเตือน API นี่คือหมอกควันข้ามพรมแดน มลพิษที่ไม่ได้เกิดขึ้นในประเทศทั้งหมด แต่ถูกสูดหายใจทุกปีโดยชาวมาเลเซียหลายล้านคน

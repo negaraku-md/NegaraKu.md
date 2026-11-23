@@ -32,7 +32,7 @@ faq:
     a: "Felda Global Ventures (ปัจจุบันคือ FGV Holdings) เป็นแขนงการลงทุนที่บริหารสวนของ FELDA บริษัทเข้าจดทะเบียนใน Bursa Malaysia เมื่อวันที่ 28 มิถุนายน 2012 และ ณ เวลาทำ IPO บริหารพื้นที่ประมาณ 500,000 เฮกตาร์ที่ดำเนินการโดยผู้ตั้งถิ่นฐานราว 112,600 ราย"
 
 lang: "th"
-sourceContentHash: "827c6da5e0f2c397"
+sourceContentHash: "ecd41197a456d74c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:FELDA_Ayer_Hitam_-_Entrance_Gate.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-1.webp
+    alt: ถนนเงียบสงบขนาบด้วยต้นปาล์มราชาและบ้านผู้ตั้งถิ่นฐานในโครงการ FELDA บูกิตบาตู กูลัย รัฐยะโฮร์
+    kind: actual
+    origin: third-party
+    subject: บ้านผู้ตั้งถิ่นฐานริมถนนที่เรียงรายด้วยต้นปาล์มในโครงการ FELDA บูกิตบาตู รัฐยะโฮร์
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FELDA_Bukit_Batu.jpg
+  - role: scene
+    src: /media/agriculture/felda-land-settlement-scheme/body-2.webp
+    alt: โรงงานน้ำมันปาล์ม Fajar Harapan ที่มีปล่องควันตั้งตระหง่านในนิคม FELDA ซาฮาบัต รัฐซาบาห์
+    kind: actual
+    origin: third-party
+    subject: โรงงานน้ำมันปาล์ม Fajar Harapan ในนิคม FELDA ซาฮาบัต รัฐซาบาห์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Felda-Sahabat_Cenderawasih_Sabah_Kilang-Sawit-Fajar-Harapan-03.jpg
 ---
 
 ลองจินตนาการถึงครอบครัวยากจนครอบครัวหนึ่งที่ถูกย้ายไปยังผืนป่าที่เพิ่งถูกถางใหม่ ได้รับที่ดินหนึ่งแปลงและค่าจ้างรายเดือน แล้วถูกขอให้รอเป็นเวลาหลายปีจนกว่าต้นยางหรือปาล์มน้ำมันของพวกเขาจะให้ผล นั่นคือข้อเสนอที่เปลี่ยนชีวิตของครอบครัวชนบทมาเลเซียกว่า 100,000 ครอบครัว — และเครื่องยนต์ของมันคือ FELDA

@@ -30,7 +30,7 @@ faq:
     a: "APM नागरिक सुरक्षा अधिनियम 1951 (Act 221) के तहत काम करता है, जो शांतिकाल और युद्धकाल में जीवन और संपत्ति की रक्षा के लिए उसके कर्तव्यों का प्रावधान करता है।"
 
 lang: "hi"
-sourceContentHash: "1cc8bccf4a7c831a"
+sourceContentHash: "8efaac4be728913a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tatra_truck_of_Malaysia_Civil_Defence_Force_in_Kuantan_2023_NDP.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-1.webp
+    alt: बागान लालंग के किनारे पर एक Angkatan Pertahanan Awam (नागरिक सुरक्षा बल) समुद्र तट बचाव निगरानी मीनार
+    kind: actual
+    origin: third-party
+    subject: APM (नागरिक सुरक्षा बल) समुद्र तट बचाव निगरानी मीनार, बागान लालंग
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_1.jpg
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-2.webp
+    alt: बागान लालंग के खुले समुद्र तट की ओर देखती एक नागरिक सुरक्षा बल तटीय लाइफगार्ड और बचाव मीनार
+    kind: actual
+    origin: third-party
+    subject: समुद्र तट की ओर देखती APM तटीय लाइफगार्ड मीनार, बागान लालंग
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_2.jpg
 ---
 
 जब कोई बड़ी बाढ़ आती है या कोई इमारत ढह जाती है, तो नावों, रस्सियों और बचाव उपकरणों के साथ पहुँचने वाली पहली टीमों में से एक अक्सर APM की नारंगी वर्दी में होती है। मलेशिया नागरिक सुरक्षा बल (APM) देश की मानवीय राहत की रीढ़ है — आपदा से पहले, उसके दौरान और बाद में मौजूद।

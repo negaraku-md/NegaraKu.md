@@ -110,6 +110,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sekinchan_Paddy_Fields.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-1.webp
+    alt: Ladang sayur berteres dan terowong plastik di lereng bukit Lembah Bertam di Cameron Highlands, Pahang
+    kind: actual
+    origin: third-party
+    subject: Ladang sayur tanah tinggi di Lembah Sungai Bertam, Cameron Highlands, Pahang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bertam_3.jpg
+  - role: scene
+    src: /media/agriculture/agriculture-sector-overview/body-2.webp
+    alt: Petak berteres sayur berdaun yang disinari matahari di atas sebuah kampung tanah tinggi di Kampung Raja, Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Ladang sayur ruang terbuka di Kampung Raja, Cameron Highlands, Pahang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Raja_5.jpg
 ---
 
 Pada 2024, Malaysia mengeluarkan lebih 100 juta tan buah tandan segar sawit — kira-kira 100.2 juta tan menurut Jabatan Perangkaan Malaysia (DOSM) — cukup untuk mengekalkan kedudukannya antara dua pengeluar minyak sawit terbesar dunia. Pada tahun yang sama, negara ini mengimport hampir separuh daripada beras yang dimakan rakyatnya.

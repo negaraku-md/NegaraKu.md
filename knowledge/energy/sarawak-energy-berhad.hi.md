@@ -30,7 +30,7 @@ faq:
     a: "बाकुन जलविद्युत संयंत्र, जिसकी उपलब्ध क्षमता 2,520MW है, सारावाक की सबसे बड़ी उत्पादन सुविधा है।"
 
 lang: "hi"
-sourceContentHash: "842a8fcd8feb3418"
+sourceContentHash: "b4478573670990b9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY 2.5'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-1.webp
+    alt: एक नदी घाटी में उतरती एक विशाल कंक्रीट-मुख जलविद्युत बाँध दीवार, जिसके आधार पर एक सीढ़ीदार स्पिलवे और पावरहाउस है, साफ़ की गई ढलानों और वर्षावन से ढकी पहाड़ियों से घिरी
+    kind: actual
+    origin: third-party
+    subject: सरवाक में बाकुन जलविद्युत बाँध, राज्य की बिजली प्रणाली के केंद्र में स्थित विशाल कंक्रीट-मुख रॉकफिल बाँध
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-2.webp
+    alt: एक नदी घाटी के आर-पार बना एक ऊँचा कंक्रीट बाँध, जिसमें स्पिलवे गेट और शिखर पर एक सड़क है, एक ओर गहरा हरा जलाशय जल और चारों ओर उठती वनाच्छादित पहाड़ियाँ
+    kind: actual
+    origin: third-party
+    subject: सरवाक के भीतरी इलाके में मुरुम जलविद्युत बाँध, राज्य के जलविद्युत बाँधों की शृंखला का हिस्सा
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum.jpg
 ---
 
 जहाँ प्रायद्वीपीय मलेशिया तेनागा नासिओनल बरहाद (Tenaga Nasional Berhad) पर निर्भर है, वहीं सारावाक अपने दीप स्वयं जलाता है एक ही उपयोगिता के माध्यम से, जिसकी ग्रिड राष्ट्रीय ग्रिड से बिल्कुल भी जुड़ी नहीं है — और जो लगभग पूरी तरह आंतरिक क्षेत्र के विशाल बाँधों के जलप्रपातों से उत्पन्न होती है।

@@ -28,7 +28,7 @@ faq:
   - q: "Undang-undang apa yang dikelola oleh DOF?"
     a: "Statuta utamanya adalah Akta Perikanan 1985 (Akta 317), yang mencakup konservasi, pengelolaan dan pengembangan penangkapan ikan dan perikanan di perairan Malaysia, termasuk pelisensian, akuakultur, mamalia akuatik dan penyu."
 lang: "id"
-sourceContentHash: "66daf0f263dfbde4"
+sourceContentHash: "815d7997668ec8b0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Fish-Market-Hall-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-1.webp
+    alt: Pekerja memilah ikan segar ke dalam peti di samping perahu nelayan yang bersandar di kompleks perikanan di Kuantan, Pahang
+    kind: actual
+    origin: third-party
+    subject: Pekerja memilah hasil tangkapan segar di pangkalan pendaratan ikan di Kuantan, Pahang
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BG_Fisheries_and_Frozen_Market_in_Kuantan_20260622_-_17.jpg
+  - role: scene
+    src: /media/agriculture/department-of-fisheries-malaysia/body-2.webp
+    alt: Platform keramba budidaya udang terapung berukuran besar yang bersandar di Sungai Sitompok yang ditumbuhi bakau di Kuala Penyu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Keramba budidaya udang terapung di sungai bakau di Sungai Sitompok, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RiversOfSabah_SungaiSitompok-06.jpg
 ---
 
 Setiap perahu yang menebar pukat secara sah di perairan Malaysia pada akhirnya bertanggung jawab kepada satu lembaga. **Departemen Perikanan Malaysia (DOF)** — *Department of Fisheries Malaysia* — adalah badan federal yang mengelola sumber daya laut dan akuakultur negara serta melisensikan semua aktivitas perikanan. Ia beroperasi di bawah **Kementerian Pertanian dan Ketahanan Pangan (MAFS)**, mengelola **Akta Perikanan 1985 (Akta 317)**, dan dipimpin oleh **Direktur Jenderal Perikanan**. Kantor pusatnya terletak di Wisma Tani, Putrajaya, didukung oleh jaringan kantor negara bagian dan daerah.

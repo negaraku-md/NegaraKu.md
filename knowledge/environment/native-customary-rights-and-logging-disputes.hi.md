@@ -29,7 +29,7 @@ faq:
     a: "राज्य द्वारा जारी लकड़ी लाइसेंस और बागान पट्टे ऐसे क्षेत्रों को कवर कर सकते हैं जिन्हें समुदाय प्रथागत भूमि के रूप में दावा करते हैं। जहाँ पक्ष इस बात पर असहमत होते हैं कि कोई क्षेत्र NCR भूमि है या नहीं, वहाँ विवाद अक्सर अदालत में तय किया जाता है।"
 
 lang: "hi"
-sourceContentHash: "28337553336a3000"
+sourceContentHash: "b18f95dc322c1c87"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Logging_trucks_in_Sarawak.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-1.webp
+    alt: सरवाक, बोर्नियो में साफ़ की गई वन भूमि को ढकते ऑयल पाम बागानों का हवाई दृश्य
+    kind: actual
+    origin: third-party
+    subject: पूर्व वन भूमि पर ऑयल पाम बागान, सरवाक
+    credit: Ben Sutherland / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_palm_plantations_in_Sarawak.jpg
+  - role: scene
+    src: /media/environment/native-customary-rights-and-logging-disputes/body-2.webp
+    alt: कालाबाकान, सबा में एक लकड़ी भंडारण और शिपिंग यार्ड में ढेर लगाए उष्णकटिबंधीय दृढ़काष्ठ के लट्ठे
+    kind: actual
+    origin: third-party
+    subject: लकड़ी के लट्ठों का भंडारण यार्ड, कालाबाकान, सबा
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kalabakan_Sabah_Timber-storage-area-01.jpg
 ---
 
 एक लॉन्गहाउस समुदाय कहता है कि वन की एक पट्टी पीढ़ियों से उसकी रही है। एक लकड़ी या बागान कंपनी राज्य द्वारा जारी एक लाइसेंस रखती है जो उसी ज़मीन को कवर करता है। दोनों कानून की ओर इशारा करते हैं। सारावाक और सबाह में, वह टकराव दो दशकों से अधिक समय से अदालत-कक्षों में तर्कित होता रहा है — और अदालतें हमेशा इस बात पर सहमत नहीं रही हैं कि रेखा कहाँ पड़ती है।

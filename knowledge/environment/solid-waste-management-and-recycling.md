@@ -112,6 +112,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-1.webp
+    alt: Tapak pelupusan sampah sanitari Bukit Tagar berhampiran Kampung Sepakat, Hulu Selangor, Selangor
+    kind: actual
+    origin: third-party
+    subject: Tapak pelupusan sampah sanitari Bukit Tagar, Hulu Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Tagar_Landfill,_Kampung_Sepakat_20231226_141258.jpg
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-2.webp
+    alt: Sebuah lori pungutan sampah perbandaran yang dikendalikan oleh majlis tempatan di Kudat, Sabah
+    kind: actual
+    origin: third-party
+    subject: Lori pungutan sampah perbandaran, Kudat, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat_Sabah_Garbage-Collection-Truck-01.jpg
 ---
 
 Buang sampah di Johor dan ia menjadi urusan kerajaan persekutuan; buang sampah yang sama di Pulau Pinang dan ia masih urusan majlis tempatan. Itulah keanehan teras cara Malaysia mengurus sisa pepejalnya — satu undang-undang persekutuan yang gah, tetapi hanya berkuat kuasa di tempat yang bersetuju memakainya.

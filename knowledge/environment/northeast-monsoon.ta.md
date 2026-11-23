@@ -69,7 +69,7 @@ keywords:
   - Kelantan Terengganu rain
   - southwest monsoon
   - rainy season Malaysia
-sourceContentHash: "87793e0da2237cfd"
+sourceContentHash: "f4ce8e4f34f4c543"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -88,6 +88,25 @@ heroLicense: 'CC BY 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:December_2021_Malaysian_floods_in_Klang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/northeast-monsoon/body-1.webp
+    alt: கெடா, பெண்டாங், காம்போங் படாங் புசிங்கில் திடீரென ஆறு பெருகியதைத் தொடர்ந்து கூட்டாட்சிச் சாலை K151 முழுவதும் தேங்கிய வெள்ள நீர்
+    kind: actual
+    origin: third-party
+    subject: கெடா, பெண்டாங்கில் திடீரென ஆறு பெருகியதைத் தொடர்ந்து சாலையில் வெள்ள நீர்
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Padang_Pusing,_Pendang_20240917_125046.jpg
+  - role: scene
+    src: /media/environment/northeast-monsoon/body-2.webp
+    alt: ஒரு வெப்பமண்டல நிலக்காட்சிக்கு மேலே திரளும் கரிய பருவக்காற்று புயல் மேகங்கள்
+    kind: representative
+    origin: third-party
+    subject: பருவக்காற்று புயல் மேகங்கள் (பிரதிநிதித்துவக் காட்சி)
+    credit: lensnmatter / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Monsoon_(36877269620).jpg
 ---
 
 ஒவ்வோர் ஆண்டும், உலகின் மற்ற பகுதிகள் குளிர்காலத்தை நோக்கிச் செல்லும் நேரத்தில், மலேசியாவின் கிழக்குக் கடற்கரை தன்னை தயார்படுத்திக்கொள்கிறது. படகுகள் மேலே இழுக்கப்படுகின்றன, தீவு ரிசார்ட்டுகள் தங்கள் கதவுகளை மூடுகின்றன, வெள்ள-நிவாரண மையங்கள் தயார்படுத்தப்படுகின்றன, மேலும் தாழ்வான நகரங்களில் உள்ள குடும்பங்கள் ஆறுகளைக் கவனிக்கின்றன. இதுவே **வடகிழக்குப் பருவமழை** — மலேசியாவின் வானிலையில் தனிப்பெரிய செல்வாக்கு, மேலும் நாட்டிற்கு ஆண்டு முழுவதும் ஒரே சீரான வெப்பமண்டல மழைக்குப் பதிலாக ஒரு தனித்துவமான ஈரமான பருவம் இருப்பதற்குக் காரணம்.

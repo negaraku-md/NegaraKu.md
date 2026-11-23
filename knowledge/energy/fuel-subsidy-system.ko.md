@@ -71,7 +71,27 @@ sources:
     url: "https://www.mof.gov.my/portal/en/news/press-release/government-implements-targeted-diesel-subsidy-for-peninsular-malaysia-effective-10-june-2024"
     publisher: "말레이시아 재무부(MOF)"
   - title: "정부, 디젤 보조 합리화로 50억 링깃 절감 — 재무부 (Govt Saves RM5 Bln Through Diesel Subsidy Rationalisation — MoF)"
-    url: "https://www.mof.gov.my/portal/en/news/press-citations/govt-saves-rm5-bln-through-diesel-subsidy-rationalisation---mof"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/govt-saves-rm5-bln-through-diesel-subsidy-rationalisation
+images:
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-1.webp
+    alt: 붉은 테두리 지붕이 여러 주유 아일랜드를 덮은 셸 브랜드 주유소. 길가 기둥 간판에 노란 셸 조개 로고가 있고 인근에 상가와 차량이 있으며 하늘이 밝다
+    kind: actual
+    origin: third-party
+    subject: 조호르바루 타만플랑이의 셸 주유소 앞마당. 지붕 아래에 주유 아일랜드가 있다
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Taman_Pelangi.jpg
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-2.webp
+    alt: 넓고 평평한 지붕이 주유기를 덮은 주유소 앞마당. 길가에 높고 환하게 불 밝힌 가격 표시 기둥이 서 있고 옆에 편의점 건물이 있는 흐린 날
+    kind: actual
+    origin: third-party
+    subject: 슬랑오르주 이족의 FIVE 브랜드 주유소. 말레이시아 독립계 연료 소매 체인 중 하나로 앞마당과 가격 기둥을 갖추고 있다
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ijok_FIVE_petrol_station_(230318).jpg
+---mof"
     publisher: "말레이시아 재무부(MOF)"
   - title: "BUDI 디젤 내일 시작, 차량 소유자 70만 명 리터당 RM2.10 지불 (BUDI Diesel Starts Tomorrow, 700,000 Vehicle Owners To Pay RM2.10 A Litre)"
     url: "https://www.mof.gov.my/portal/en/news/press-citations/budi-diesel-starts-tomorrow-700-000-vehicle-owners-to-pay-rm2-10-a-litre"

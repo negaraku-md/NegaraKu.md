@@ -30,7 +30,7 @@ faq:
     a: "TNB-இன் மைய செயல்பாடுகள் தீபகற்ப மலேசியாவை உள்ளடக்கியவை. சபா மற்றும் லபுவானில், மின்சார வழங்கல் Sabah Electricity Sdn. Bhd. மூலம் கையாளப்படுகிறது; இந்நிறுவனத்தின் பெரும்பான்மைப் பங்கை (82.75%) TNB வைத்திருக்கிறது, சபா மாநில அரசு 17.24% வைத்திருக்கிறது. சரவாக் தனி பொதுப் பயன்பாட்டு நிறுவனத்தால் மின்சாரம் பெறுகிறது, TNB அல்ல."
 
 lang: "ta"
-sourceContentHash: "b6b33bf3419779ac"
+sourceContentHash: "3db20cd889aecd5a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Power_Station.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-1.webp
+    alt: முகப்பில் தெனாகா நேசனல் பெயரையும் சின்னத்தையும் தாங்கிய ஒரு TNB அலுவலகக் கட்டிடம், தெளிந்த நீல வானத்தின் கீழ் நிலக்காட்சி அமைக்கப்பட்ட முன்பகுதியும் கார் நிறுத்துமிடமும் கொண்டது
+    kind: actual
+    origin: third-party
+    subject: கெடா, அலோர் ஸ்டார்-ல் உள்ள ஒரு தெனாகா நேசனல் பெர்ஹாட் (TNB) அலுவலகம், தேசிய மின் நிறுவனத்தின் மாநில சேவைக் கட்டிடங்களில் ஒன்று
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TNB_Alor_Setar.jpg
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-2.webp
+    alt: உயர் மின்னழுத்தக் கம்பிகளால் இணைக்கப்பட்ட எஃகு சட்ட மின்கடத்து கோபுரங்கள் ஒரு நீண்ட சாலைப் பாலத்தின் அருகே அகலமான கடல் நீரிணையைக் கடந்து செல்கின்றன; தொலைவில் ஒரு தீவும் பிரதான நிலப்பகுதிக் குன்றுகளும்
+    kind: actual
+    origin: third-party
+    subject: பினாங் பாலத்தின் அருகே உள்ள நீரிணையைக் கடந்து புலாவ் கசும்போவை நோக்கி மின் கம்பிகளைச் சுமந்து செல்லும் TNB உயர் மின்னழுத்த மின்கடத்து கோபுரங்கள்
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge,_TNB_transmission_towers,_and_Pulau_Gazumbo_from_The_Waterfront_Shoppes_rooftop_(261108).jpg
 ---
 
 தீபகற்ப மலேசியாவில் ஒரு வீட்டிலோ, தொழிற்சாலையிலோ, தரவு மையத்திலோ விளக்கு எரியும் ஒவ்வொரு முறையும், அந்த எலக்ட்ரான்கள் பெரும்பாலும் ஒரே ஒரு நிறுவனத்தால் சொந்தமாக வைத்திருக்கப்படும் வலையமைப்பின் வழியாகவே பாய்கின்றன: தேனாகா நேசனல் பெர்ஹாட். இது வெறும் மின் உற்பத்தியாளர் மட்டுமல்ல, நாட்டின் எரிசக்தி அமைப்பின் முதுகெலும்பு — மின்நிலையங்களிலிருந்து சுவரில் உள்ள மின்மானி வரை.

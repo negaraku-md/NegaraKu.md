@@ -37,7 +37,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "681af11f157961d9"
+sourceContentHash: "6230ba2101db75a9"
 
 status: "published"
 aiAssisted: true
@@ -117,6 +117,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:North_South_Expressway_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-1.webp
+    alt: ジョホール州クラン近郊で、二車線のジャラン・クラン=コタ・ティンギ(連邦道91号)を北に望む眺め
+    kind: actual
+    origin: third-party
+    subject: ジョホール州クランの二車線の連邦道(91号線)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151246.jpg
+  - role: scene
+    src: /media/public-safety/road-safety-in-malaysia/body-2.webp
+    alt: スランゴール州コタ・ダマンサラの交差点にある、夜間の横断歩道標示
+    kind: actual
+    origin: third-party
+    subject: スランゴール州コタ・ダマンサラの交差点の横断歩道
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Persiaran_Surian-Persiaran_Kenanga_Intersection_Pedestrian_Crossing,_Kota_Damansara_20240125_192828.jpg
 ---
 
 毎日、マレーシアの道路では約18人の命が失われている。この数字は、道路を国内で最も顕著な不慮の死の原因の一つとし、それに対処するために法律、カメラ、専門の機関が投入される主な理由となっている。

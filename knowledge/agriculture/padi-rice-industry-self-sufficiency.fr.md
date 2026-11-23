@@ -34,7 +34,7 @@ faq:
     a: "Padiberas Nasional Berhad (BERNAS) détient le rôle d'importateur unique de riz du pays, un rôle hérité du Conseil national du padi et du riz (LPN), qui a repris les importations de riz et est devenu l'importateur unique en 1974 à la suite de la crise alimentaire mondiale de 1973. BERNAS gère aussi le stock tampon national de riz et soutient les meuniers bumiputera. Elle a été privatisée le 12 janvier 1996."
 
 lang: "fr"
-sourceContentHash: "8f44d2a10fa14edb"
+sourceContentHash: "a3e4b8ba2156b900"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-1.webp
+    alt: Une moissonneuse-batteuse jaune récoltant du riz doré mûr dans une rizière à Kelantan
+    kind: actual
+    origin: third-party
+    subject: Une moissonneuse-batteuse récoltant du riz mûr à Kelantan
+    credit: Zamwan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menuai_padi_di_Kelantan.jpg
+  - role: scene
+    src: /media/agriculture/padi-rice-industry-self-sufficiency/body-2.webp
+    alt: Un champ de riz doré mûr prêt pour la récolte avec une colline boisée en arrière-plan, à Langkawi, Kedah
+    kind: actual
+    origin: third-party
+    subject: Une rizière dorée et mûre prête pour la récolte à Langkawi, Kedah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Rice-Paddy-05.jpg
 ---
 
 Chaque fois que les prix du riz grimpent ou que les rayons des supermarchés se vident, une vieille question revient hanter la Malaisie : pourquoi un pays aussi riche en rizières a-t-il encore besoin d'importer près de la moitié de son riz ? La réponse réside dans une industrie animée par les subventions, protégée par des prix garantis et poursuivie par un objectif d'autosuffisance qui n'a pas encore été atteint.

@@ -31,7 +31,7 @@ faq:
     a: "在众多品种中，MARDI 释放了 MR 系列（如 MR 297 和 MR 219）、香米 MRQ 系列，以及马来西亚首个杂交水稻 KADARIA 1。"
 
 lang: "zh"
-sourceContentHash: "9bb5af4c19ea1667"
+sourceContentHash: "77561bed3c65c105"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Main_entrance_of_MARDI.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/mardi-agricultural-research-institute/body-1.webp
+    alt: 金马伦高原一座温室内,草莓植株种在抬高的基质槽中成排生长
+    kind: representative
+    origin: third-party
+    subject: 金马伦高原温室内的保护地草莓栽培
+    credit: Arne Müseler / Wikimedia Commons
+    license: CC BY-SA 3.0 de
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fungiculture_cameron_erdbeeren_1.jpg
+  - role: scene
+    src: /media/agriculture/mardi-agricultural-research-institute/body-2.webp
+    alt: 马来西亚博特拉大学农学院研究农场里,一排排铺着银色地膜、长着幼苗的苗床与温室挡雨棚
+    kind: representative
+    origin: third-party
+    subject: 马来西亚一所大学农业研究农场的栽培苗床与温室
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0912).jpg
 ---
 
 马来西亚几乎每一碗本地米饭，都可以追溯到某个在 MARDI 试验站培育出来的品种。在这个国家的水稻、家禽、热带水果与加工食品货架背后，坐镇着一家联邦研究院，它的使命就是把科学转化为更高的产量。

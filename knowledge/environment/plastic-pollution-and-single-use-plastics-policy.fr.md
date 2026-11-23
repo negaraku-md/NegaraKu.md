@@ -29,7 +29,7 @@ faq:
     a: "Parmi eux figurent un taux de recyclage de 25 % pour les emballages plastiques en 2025, un taux moyen de collecte pour recyclage (CFR) de 76 % en 2030, et un contenu recyclé moyen de 15 % en 2030. Un taux de recyclage de 100 % est visé pour 2050."
 
 lang: "fr"
-sourceContentHash: "a24e4c1da4f3ae42"
+sourceContentHash: "70c761205e65cf72"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-1.webp
+    alt: Déchets plastiques et débris marins s'accumulant le long de la laisse de mer sur une plage
+    kind: representative
+    origin: third-party
+    subject: Déchets plastiques marins échoués sur une plage (image représentative)
+    credit: VariousPhotography / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Marine_debris_and_plastic_waste_on_beach.jpg
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-2.webp
+    alt: Bouteilles en plastique usagées rassemblées à un point de collecte pour être envoyées au recyclage
+    kind: representative
+    origin: third-party
+    subject: Point de collecte de bouteilles en plastique pour le recyclage (image représentative)
+    credit: DoronDoron / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_plastic_bottle_collection_facility_for_recycling.jpg
 ---
 
 Les sacs plastiques fins de la caisse du supermarché ne sont généralement utilisés qu'un instant, mais ils peuvent persister dans l'environnement très longtemps. Pour s'attaquer à ce problème, la Malaisie n'a pas opté pour une unique interdiction radicale et immédiate — elle utilise plutôt une feuille de route par phases qui passe de petites taxes à des interdictions plus larges.

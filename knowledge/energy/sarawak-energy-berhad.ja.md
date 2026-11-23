@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "842a8fcd8feb3418"
+sourceContentHash: "b4478573670990b9"
 
 status: "published"
 aiAssisted: true
@@ -84,6 +84,25 @@ heroLicense: 'CC BY 2.5'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-1.webp
+    alt: 川の峡谷へと下る巨大なコンクリート表面遮水型の水力発電ダムの壁。基部には階段状の洪水吐きと発電所があり、切り開かれた斜面と熱帯雨林に覆われた丘に囲まれる
+    kind: actual
+    origin: third-party
+    subject: サラワク州のバクン水力発電ダム。州の電力系統の中核をなす巨大なコンクリート表面遮水型ロックフィルダム
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-2.webp
+    alt: 川の谷を横切って立つ高いコンクリートダム。洪水吐きのゲートと堤頂道路を備え、片側には深い緑色の貯水池が広がり、周囲には森に覆われた山々がそびえる
+    kind: actual
+    origin: third-party
+    subject: サラワク州内陸のムルム水力発電ダム。州の梯状の水力発電ダム群の一つ
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum.jpg
 ---
 
 マレーシア半島部がテナガ・ナショナル・ベルハッド（Tenaga Nasional Berhad、TNB）に依存する一方、サラワクは国家電力網と一切接続されていない独自の電力会社によって自らの灯りをともしている——そしてその電力のほぼすべては、内陸部の巨大ダムの落水によって生み出されている。

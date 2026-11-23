@@ -27,7 +27,7 @@ verificationNeeded:
   - "لم يمكن العثور على مؤشر إيجار رسمي خاص بجوهور بهرو؛ والعبارات بشأن ضغط الإيجار الناشئ عن الطلب المرتبط بسنغافورة نوعية، غير مدعومة برقم منشور."
 
 lang: "ar"
-sourceContentHash: "b3fe7bab59216408"
+sourceContentHash: "e9afe3ee3471e8d4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Empty_Singapore-Malaysia_Ca
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'Johor Bahru skyline and the Johor–Singapore Causeway at night'
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-johor-bahru/body-1.webp
+    alt: أكشاك للمنتجات الطازجة في السوق الأسبوعي في Bukit Indah، Johor Bahru
+    kind: actual
+    origin: third-party
+    subject: سوق أسبوعي للمنتجات الطازجة في Bukit Indah، Johor Bahru
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wednesday_market,_Bukit_Indah,_Johor_Bahru,_Johor,_Malaysia.jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-johor-bahru/body-2.webp
+    alt: محلات ومتسوّقون على طول Jalan Wong Ah Fook، الشارع التجاري الرئيسي في وسط Johor Bahru
+    kind: actual
+    origin: third-party
+    subject: Jalan Wong Ah Fook، الشارع التجاري الرئيسي في Johor Bahru
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wong_Ah_Fook_Street.jpg
 ---
 
 يمكن لعامل يتقاضى الحد الأدنى الوطني الكامل للأجور في ماليزيا، RM1,700 شهريًا، أن يعيش على بُعد شارعين من جار يجني ما يعادل RM4,000 أو أكثر عن عمل يوم مماثل — المدينة نفسها، والسوق الرطبة نفسها، وسجل الإيجار نفسه للغرفة المجاورة. لا شيء في اقتصاد جوهور بهرو نفسه يفسّر تلك الفجوة. فالجار يتقاضى أجره بالدولار السنغافوري.

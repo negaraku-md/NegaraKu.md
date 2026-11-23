@@ -30,7 +30,7 @@ faq:
     a: "APM operates under the Civil Defence Act 1951 (Act 221), which provides for its duties in peacetime and wartime to protect lives and property."
 
 lang: "en"
-sourceContentHash: "1cc8bccf4a7c831a"
+sourceContentHash: "8efaac4be728913a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tatra_truck_of_Malaysia_Civil_Defence_Force_in_Kuantan_2023_NDP.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-1.webp
+    alt: An Angkatan Pertahanan Awam (Civil Defence Force) beach rescue watchtower on the shore at Bagan Lalang
+    kind: actual
+    origin: third-party
+    subject: APM (Civil Defence Force) beach rescue watchtower, Bagan Lalang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_1.jpg
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-2.webp
+    alt: A Civil Defence Force coastal lifeguard and rescue tower overlooking the open beach at Bagan Lalang
+    kind: actual
+    origin: third-party
+    subject: APM coastal lifeguard tower overlooking the beach, Bagan Lalang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_2.jpg
 ---
 
 When major floods strike or a building collapses, one of the first teams to arrive with boats, ropes and rescue equipment is often in APM's orange uniforms. The Malaysia Civil Defence Force (APM) is the nation's humanitarian relief backbone — present before, during and after a disaster.

@@ -69,7 +69,7 @@ keywords:
   - Kelantan Terengganu rain
   - southwest monsoon
   - rainy season Malaysia
-sourceContentHash: "87793e0da2237cfd"
+sourceContentHash: "f4ce8e4f34f4c543"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -88,6 +88,25 @@ heroLicense: 'CC BY 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:December_2021_Malaysian_floods_in_Klang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/northeast-monsoon/body-1.webp
+    alt: 케다주 펜당 캄풍 파당 푸싱에서 갑작스러운 하천 범람 후 연방도로 K151에 고인 홍수물
+    kind: actual
+    origin: third-party
+    subject: 케다주 펜당에서 갑작스러운 하천 범람 후 도로를 덮은 홍수물
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Padang_Pusing,_Pendang_20240917_125046.jpg
+  - role: scene
+    src: /media/environment/northeast-monsoon/body-2.webp
+    alt: 열대 지형 위로 모여드는 어두운 몬순 폭풍 구름
+    kind: representative
+    origin: third-party
+    subject: 몬순 폭풍 구름(예시)
+    credit: lensnmatter / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Monsoon_(36877269620).jpg
 ---
 
 해마다 세계의 나머지가 겨울로 접어드는 무렵, 말레이시아 동해안은 긴장합니다. 배를 뭍으로 끌어올리고, 섬 리조트는 문을 닫고, 수해 구호 센터를 준비하며, 저지대 마을의 가족들은 하천을 지켜봅니다. 이것이 **북동 몬순** — 말레이시아 날씨에 가장 큰 영향을 미치는 단일 요인이자, 이 나라가 연중 균일한 열대 강우가 아니라 사실상 뚜렷한 우기를 갖게 되는 이유입니다.

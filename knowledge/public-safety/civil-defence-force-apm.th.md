@@ -30,7 +30,7 @@ faq:
     a: "APM ดำเนินการภายใต้พระราชบัญญัติป้องกันภัยฝ่ายพลเรือน (Civil Defence Act 1951, Act 221) ซึ่งกำหนดหน้าที่ในยามสงบและยามสงครามเพื่อปกป้องชีวิตและทรัพย์สิน"
 
 lang: "th"
-sourceContentHash: "1cc8bccf4a7c831a"
+sourceContentHash: "8efaac4be728913a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tatra_truck_of_Malaysia_Civil_Defence_Force_in_Kuantan_2023_NDP.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-1.webp
+    alt: หอสังเกตการณ์กู้ภัยชายหาดของกองกำลังป้องกันภัยฝ่ายพลเรือน (Angkatan Pertahanan Awam) ริมชายฝั่งที่บาฆันลาลัง
+    kind: actual
+    origin: third-party
+    subject: หอสังเกตการณ์กู้ภัยชายหาดของกองกำลังป้องกันภัยฝ่ายพลเรือน (APM) ที่บาฆันลาลัง
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_1.jpg
+  - role: scene
+    src: /media/public-safety/civil-defence-force-apm/body-2.webp
+    alt: หอเฝ้าระวังและกู้ภัยชายฝั่งของกองกำลังป้องกันภัยฝ่ายพลเรือนมองลงสู่ชายหาดเปิดโล่งที่บาฆันลาลัง
+    kind: actual
+    origin: third-party
+    subject: หอเฝ้าระวังชายฝั่งของกองกำลังป้องกันภัยฝ่ายพลเรือนมองลงสู่ชายหาดที่บาฆันลาลัง
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Menara_Penyelamat_Pantai_APM_Pantai_Bagan_Lalang_(220731)_2.jpg
 ---
 
 เมื่ออุทกภัยครั้งใหญ่โจมตีหรืออาคารถล่ม หนึ่งในทีมแรกที่มาถึงพร้อมเรือ เชือก และอุปกรณ์กู้ภัยมักสวมเสื้อสีส้มของ APM กองกำลังป้องกันภัยฝ่ายพลเรือนมาเลเซีย (APM) เป็นกระดูกสันหลังของการช่วยเหลือด้านมนุษยธรรมของประเทศ — ปรากฏตัวก่อน ระหว่าง และหลังภัยพิบัติ

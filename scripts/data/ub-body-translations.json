@@ -41268,5 +41268,4031 @@
         "subject": "Gâteaux de riz ketupat tressés pour Hari Raya"
       }
     ]
+  },
+  "agriculture/agriculture-sector-overview": {
+    "zh": [
+      {
+        "alt": "彭亨金马伦高原比丹谷山坡上的梯田菜园与塑料大棚",
+        "subject": "彭亨金马伦高原比丹河谷的高地蔬菜农场"
+      },
+      {
+        "alt": "金马伦高原甘榜拉惹一座高地村庄上方,阳光照耀的叶菜梯田地块",
+        "subject": "彭亨金马伦高原甘榜拉惹的露天蔬菜农场"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "パハン州キャメロンハイランドのベルタム渓谷の斜面に広がる段々畑の野菜農場とビニールトンネル",
+        "subject": "パハン州キャメロンハイランド、ベルタム川流域の高地野菜農場"
+      },
+      {
+        "alt": "キャメロンハイランドのカンポン・ラジャにある高地の村を見下ろす、陽光を浴びた段々の葉物野菜畑",
+        "subject": "パハン州キャメロンハイランド、カンポン・ラジャの露地野菜農場"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "파항주 카메론하이랜드 베르탐 계곡 산비탈에 조성된 계단식 채소밭과 비닐 터널",
+        "subject": "파항주 카메론하이랜드 베르탐강 계곡의 고지대 채소 농장"
+      },
+      {
+        "alt": "카메론하이랜드 캄풍 라자의 고지대 마을 위쪽, 햇빛을 받은 계단식 잎채소 밭",
+        "subject": "파항주 카메론하이랜드 캄풍 라자의 노지 채소 농장"
+      }
+    ],
+    "th": [
+      {
+        "alt": "แปลงผักขั้นบันไดและโรงเรือนพลาสติกบนไหล่เขาของหุบเขาเบอร์ตัมในคาเมรอนไฮแลนด์ รัฐปะหัง",
+        "subject": "ฟาร์มผักบนที่สูงในหุบเขาแม่น้ำเบอร์ตัม คาเมรอนไฮแลนด์ รัฐปะหัง"
+      },
+      {
+        "alt": "แปลงผักใบขั้นบันไดต้องแสงแดดเหนือหมู่บ้านบนที่สูงที่กัมปงราชา คาเมรอนไฮแลนด์",
+        "subject": "ฟาร์มผักกลางแจ้งที่กัมปงราชา คาเมรอนไฮแลนด์ รัฐปะหัง"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Ladang sayur berteres dan terowong plastik di lereng bukit Lembah Bertam di Cameron Highlands, Pahang",
+        "subject": "Ladang sayur tanah tinggi di Lembah Sungai Bertam, Cameron Highlands, Pahang"
+      },
+      {
+        "alt": "Petak berteres sayur berdaun yang disinari matahari di atas sebuah kampung tanah tinggi di Kampung Raja, Cameron Highlands",
+        "subject": "Ladang sayur ruang terbuka di Kampung Raja, Cameron Highlands, Pahang"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Perkebunan sayur berterasering dan terowongan plastik (polytunnel) di lereng bukit Lembah Bertam, Cameron Highlands, Pahang",
+        "subject": "Perkebunan sayur dataran tinggi di Lembah Sungai Bertam, Cameron Highlands, Pahang"
+      },
+      {
+        "alt": "Petak-petak berterasering sayuran berdaun yang disinari matahari di atas sebuah kampung dataran tinggi di Kampung Raja, Cameron Highlands",
+        "subject": "Perkebunan sayur lahan terbuka di Kampung Raja, Cameron Highlands, Pahang"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những nông trại rau bậc thang và nhà vòm nhựa trên các sườn đồi của Thung lũng Bertam ở Cameron Highlands, Pahang",
+        "subject": "Các nông trại rau vùng cao ở Thung lũng sông Bertam, Cameron Highlands, Pahang"
+      },
+      {
+        "alt": "Những luống rau lá bậc thang ngập nắng phía trên một ngôi làng vùng cao tại Kampung Raja, Cameron Highlands",
+        "subject": "Nông trại rau ngoài trời ở Kampung Raja, Cameron Highlands, Pahang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பஹாங், கேமரூன் ஹைலண்ட்ஸ், பெர்தாம் பள்ளத்தாக்கின் மலைச்சரிவுகளில் படிநிலைக் காய்கறிப் பண்ணைகளும் பிளாஸ்டிக் சுரங்கக் கொட்டகைகளும்",
+        "subject": "பஹாங், கேமரூன் ஹைலண்ட்ஸ், பெர்தாம் நதிப் பள்ளத்தாக்கில் உள்ள மலைவாழ் காய்கறிப் பண்ணைகள்"
+      },
+      {
+        "alt": "கேமரூன் ஹைலண்ட்ஸ், காம்போங் ராஜாவில் ஒரு மலைவாழ் கிராமத்திற்கு மேலே சூரிய ஒளியில் படிநிலையாக அமைந்த இலைக்காய்கறிப் படுகைகள்",
+        "subject": "பஹாங், கேமரூன் ஹைலண்ட்ஸ், காம்போங் ராஜாவில் உள்ள திறந்தவெளிக் காய்கறிப் பண்ணை"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कैमरन हाइलैंड्स, पहांग में बरतम घाटी की पहाड़ियों पर सीढ़ीनुमा सब्ज़ी के खेत और पॉलीटनल",
+        "subject": "कैमरन हाइलैंड्स, पहांग के बरतम नदी घाटी में पहाड़ी सब्ज़ी के खेत"
+      },
+      {
+        "alt": "कैमरन हाइलैंड्स के कम्पुंग राजा में एक पहाड़ी गाँव के ऊपर धूप में नहाए पत्तेदार सब्ज़ियों के सीढ़ीनुमा खेत",
+        "subject": "कैमरन हाइलैंड्स, पहांग के कम्पुंग राजा में खुले मैदान का सब्ज़ी खेत"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مزارع خضروات مدرَّجة وأنفاق بلاستيكية على سفوح وادي Bertam في Cameron Highlands، Pahang",
+        "subject": "مزارع الخضروات المرتفعة في وادي نهر Bertam، Cameron Highlands، Pahang"
+      },
+      {
+        "alt": "قطع أرض مدرَّجة من الخضروات الورقية تغمرها الشمس فوق قرية مرتفعة في Kampung Raja، Cameron Highlands",
+        "subject": "مزرعة خضروات في حقل مكشوف في Kampung Raja، Cameron Highlands، Pahang"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Granjas de hortalizas en terrazas y túneles de plástico en las laderas del valle de Bertam, en Cameron Highlands, Pahang",
+        "subject": "Granjas de hortalizas de montaña en el valle del río Bertam, Cameron Highlands, Pahang"
+      },
+      {
+        "alt": "Parcelas en terrazas de hortalizas de hoja iluminadas por el sol sobre una aldea de montaña en Kampung Raja, Cameron Highlands",
+        "subject": "Huerta de hortalizas a cielo abierto en Kampung Raja, Cameron Highlands, Pahang"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Fermes maraîchères en terrasses et tunnels plastiques sur les versants de la vallée de Bertam, à Cameron Highlands, Pahang",
+        "subject": "Fermes maraîchères d'altitude dans la vallée de la rivière Bertam, Cameron Highlands, Pahang"
+      },
+      {
+        "alt": "Parcelles en terrasses de légumes-feuilles baignées de soleil au-dessus d'un village d'altitude à Kampung Raja, Cameron Highlands",
+        "subject": "Ferme maraîchère en plein champ à Kampung Raja, Cameron Highlands, Pahang"
+      }
+    ]
+  },
+  "agriculture/department-of-fisheries-malaysia": {
+    "zh": [
+      {
+        "alt": "彭亨关丹一处渔业综合中心内,工人在停泊的渔船旁将鲜鱼分装入箱",
+        "subject": "工人在彭亨关丹的渔业卸货点分拣当天渔获"
+      },
+      {
+        "alt": "沙巴瓜拉班尤红树林环绕的西通波河上停泊着大型浮动养虾网箱平台",
+        "subject": "沙巴西通波河红树林河道上的浮动养虾网箱"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "パハン州クアンタンの漁業団地で、停泊した漁船のそばで鮮魚を木箱に仕分ける作業員たち",
+        "subject": "パハン州クアンタンの水揚げ場で新鮮な漁獲物を仕分ける作業員"
+      },
+      {
+        "alt": "サバ州クアラ・ペニューのマングローブに縁取られたシトンポック川に係留された大型の浮き式エビ養殖いけす平台",
+        "subject": "サバ州シトンポック川のマングローブ河川に浮かぶエビ養殖いけす"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "파항주 쿠안탄의 수산단지에서 정박한 어선 옆에 신선한 생선을 상자에 담아 분류하는 작업자들",
+        "subject": "파항주 쿠안탄의 어획물 하역장에서 당일 어획물을 분류하는 작업자"
+      },
+      {
+        "alt": "사바주 쿠알라페뉴, 맹그로브로 둘러싸인 시톰폭강에 정박한 대형 부유식 새우 양식 가두리 플랫폼",
+        "subject": "사바주 시톰폭강 맹그로브 하천에 떠 있는 새우 양식 가두리"
+      }
+    ],
+    "th": [
+      {
+        "alt": "คนงานคัดแยกปลาสดลงลังข้างเรือประมงที่จอดเทียบท่าในศูนย์ประมงที่กวนตัน รัฐปะหัง",
+        "subject": "คนงานคัดแยกปลาสดที่ท่าขึ้นปลาในกวนตัน รัฐปะหัง"
+      },
+      {
+        "alt": "กระชังเลี้ยงกุ้งลอยน้ำขนาดใหญ่ผูกจอดอยู่บนแม่น้ำสิตมปกที่ขนาบด้วยป่าชายเลนที่กัวลาเปอญู รัฐซาบาห์",
+        "subject": "กระชังเลี้ยงกุ้งลอยน้ำบนแม่น้ำป่าชายเลนสิตมปก รัฐซาบาห์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pekerja mengasingkan ikan segar ke dalam peti di sisi bot nelayan yang berlabuh di kompleks perikanan di Kuantan, Pahang",
+        "subject": "Pekerja mengasingkan hasil tangkapan segar di pangkalan perikanan di Kuantan, Pahang"
+      },
+      {
+        "alt": "Pelantar sangkar ternakan udang terapung yang besar berlabuh di Sungai Sitompok yang dipagari bakau di Kuala Penyu, Sabah",
+        "subject": "Sangkar ternakan udang terapung di sungai bakau di Sungai Sitompok, Sabah"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Pekerja memilah ikan segar ke dalam peti di samping perahu nelayan yang bersandar di kompleks perikanan di Kuantan, Pahang",
+        "subject": "Pekerja memilah hasil tangkapan segar di pangkalan pendaratan ikan di Kuantan, Pahang"
+      },
+      {
+        "alt": "Platform keramba budidaya udang terapung berukuran besar yang bersandar di Sungai Sitompok yang ditumbuhi bakau di Kuala Penyu, Sabah",
+        "subject": "Keramba budidaya udang terapung di sungai bakau di Sungai Sitompok, Sabah"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Công nhân phân loại cá tươi vào các thùng bên cạnh chiếc thuyền đánh cá neo đậu tại khu phức hợp thủy sản ở Kuantan, Pahang",
+        "subject": "Công nhân phân loại mẻ cá tươi tại bến cá ở Kuantan, Pahang"
+      },
+      {
+        "alt": "Những bệ lồng nuôi tôm nổi lớn neo đậu trên dòng Sungai Sitompok viền rừng ngập mặn tại Kuala Penyu, Sabah",
+        "subject": "Những lồng nuôi tôm nổi trên con sông ngập mặn ở Sungai Sitompok, Sabah"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பஹாங், குவாந்தானில் உள்ள மீன்வளக் கட்டமைப்பில் நங்கூரமிட்ட மீன்பிடிப் படகுக்கு அருகே புதிய மீன்களைப் பெட்டிகளில் வகைப்படுத்தும் தொழிலாளர்கள்",
+        "subject": "பஹாங், குவாந்தானில் உள்ள மீன்பிடித் துறையில் புதிய மீன் பிடிப்பை வகைப்படுத்தும் தொழிலாளர்கள்"
+      },
+      {
+        "alt": "சபா, குவாலா பென்யூவில் சதுப்புக்காடுகள் சூழ்ந்த சுங்கை சிதோம்போக்கில் நங்கூரமிட்ட பெரிய மிதக்கும் இறால் வளர்ப்புக் கூண்டு மேடைகள்",
+        "subject": "சபா, சுங்கை சிதோம்போக்கில் ஒரு சதுப்புநில ஆற்றில் மிதக்கும் இறால் வளர்ப்புக் கூண்டுகள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कुआंतान, पहांग के एक मत्स्य परिसर में एक लंगर डाली नाव के पास ताज़ी मछलियों को टोकरों में छाँटते मज़दूर",
+        "subject": "कुआंतान, पहांग के एक मछली अवतरण स्थल पर ताज़ा पकड़ी गई मछली छाँटते मज़दूर"
+      },
+      {
+        "alt": "सबा के कुआला पेन्यू में मैंग्रोव से घिरी सुंगई सितोम्पोक पर लंगर डाले बड़े तैरते झींगा-फार्म पिंजरा मंच",
+        "subject": "सबा के सुंगई सितोम्पोक की मैंग्रोव नदी पर तैरते झींगा-फार्म के पिंजरे"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "عمال يفرزون الأسماك الطازجة في صناديق بجانب قارب صيد راسٍ في مجمّع لمصايد الأسماك في Kuantan، Pahang",
+        "subject": "عمال يفرزون الصيد الطازج في مرسى لإنزال الأسماك في Kuantan، Pahang"
+      },
+      {
+        "alt": "منصّات أقفاص عائمة كبيرة لتربية الروبيان راسية على Sungai Sitompok المحاط بأشجار المانغروف في Kuala Penyu، Sabah",
+        "subject": "أقفاص عائمة لتربية الروبيان على نهر مانغروف عند Sungai Sitompok، Sabah"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Trabajadores clasificando pescado fresco en cajas junto a un barco pesquero amarrado en un complejo pesquero de Kuantan, Pahang",
+        "subject": "Trabajadores clasificando la pesca fresca en un desembarcadero pesquero de Kuantan, Pahang"
+      },
+      {
+        "alt": "Grandes plataformas de jaulas flotantes para cría de langostinos amarradas en el Sungai Sitompok, bordeado de manglares, en Kuala Penyu, Sabah",
+        "subject": "Jaulas flotantes de cría de langostinos en un río de manglar en Sungai Sitompok, Sabah"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des ouvriers trient du poisson frais dans des caisses près d'un bateau de pêche amarré dans un complexe de pêche à Kuantan, Pahang",
+        "subject": "Des ouvriers trient la pêche fraîche sur un point de débarquement de poisson à Kuantan, Pahang"
+      },
+      {
+        "alt": "De grandes plateformes de cages flottantes d'élevage de crevettes amarrées sur le Sungai Sitompok bordé de mangrove, à Kuala Penyu, Sabah",
+        "subject": "Cages flottantes d'élevage de crevettes sur une rivière de mangrove à Sungai Sitompok, Sabah"
+      }
+    ]
+  },
+  "agriculture/fama-agricultural-marketing-authority": {
+    "zh": [
+      {
+        "alt": "吉隆坡中央市场一辆堆满红毛丹与龙宫果、披着马来西亚国旗的手推车摊位",
+        "subject": "吉隆坡街头售卖红毛丹与龙宫果的水果小贩"
+      },
+      {
+        "alt": "金马伦高原基亚农场一个市集摊位,陈列着以令吉标价的芦笋、牛油果、芒果与南瓜",
+        "subject": "金马伦高原基亚农场市集摊位上出售的本地新鲜农产品"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "クアラルンプールのセントラルマーケットで、マレーシア国旗を掛け、ランブータンとランサットを山盛りにした手押し車の屋台",
+        "subject": "クアラルンプールの路上でランブータンとランサットを売る果物の行商人"
+      },
+      {
+        "alt": "キャメロンハイランドのキアファームの市場屋台に、リンギット表示で並ぶアスパラガス、アボカド、マンゴー、カボチャ",
+        "subject": "キャメロンハイランドのキアファームの市場屋台で売られる地元産の新鮮な青果"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "쿠알라룸푸르 센트럴 마켓에서 말레이시아 국기를 두르고 람부탄과 랑삿을 수북이 쌓아 올린 손수레 노점",
+        "subject": "쿠알라룸푸르 길거리에서 람부탄과 랑삿을 파는 과일 행상"
+      },
+      {
+        "alt": "카메론하이랜드 케아팜의 시장 노점에 링깃으로 가격이 매겨진 아스파라거스, 아보카도, 망고, 호박이 진열된 모습",
+        "subject": "카메론하이랜드 케아팜 시장 노점에서 판매되는 지역산 신선 농산물"
+      }
+    ],
+    "th": [
+      {
+        "alt": "รถเข็นแผงลอยกองเงาะและลางสาดพูนสูง ประดับธงชาติมาเลเซีย ที่เซ็นทรัลมาร์เก็ต กัวลาลัมเปอร์",
+        "subject": "พ่อค้าผลไม้ริมถนนขายเงาะและลางสาดในกัวลาลัมเปอร์"
+      },
+      {
+        "alt": "แผงตลาดจัดแสดงหน่อไม้ฝรั่ง อะโวคาโด มะม่วง และฟักทอง ติดราคาเป็นริงกิตที่เคียฟาร์ม คาเมรอนไฮแลนด์",
+        "subject": "ผลผลิตสดในท้องถิ่นวางขายที่แผงตลาดเคียฟาร์ม คาเมรอนไฮแลนด์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Gerai kereta sorong penuh dengan rambutan dan langsat, dihiasi bendera Malaysia, di Pasar Seni, Kuala Lumpur",
+        "subject": "Penjaja buah tepi jalan menjual rambutan dan langsat di Kuala Lumpur"
+      },
+      {
+        "alt": "Gerai pasar mempamerkan asparagus, avokado, mangga dan labu yang berharga dalam ringgit di Kea Farm, Cameron Highlands",
+        "subject": "Hasil tani tempatan segar dijual di gerai pasar Kea Farm, Cameron Highlands"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Lapak gerobak dorong yang penuh dengan rambutan dan langsat, dihiasi bendera Malaysia, di Central Market, Kuala Lumpur",
+        "subject": "Pedagang buah kaki lima menjual rambutan dan langsat di Kuala Lumpur"
+      },
+      {
+        "alt": "Lapak pasar yang memajang asparagus, alpukat, mangga, dan labu dengan harga dalam ringgit di Kea Farm, Cameron Highlands",
+        "subject": "Hasil tani lokal segar dijual di lapak pasar Kea Farm, Cameron Highlands"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một quầy xe đẩy chất đầy chôm chôm và bòn bon, phủ lá cờ Malaysia, tại Chợ Trung tâm (Central Market), Kuala Lumpur",
+        "subject": "Người bán trái cây rong trên phố bán chôm chôm và bòn bon ở Kuala Lumpur"
+      },
+      {
+        "alt": "Một quầy chợ bày măng tây, bơ, xoài và bí đỏ với giá niêm yết bằng ringgit tại Kea Farm, Cameron Highlands",
+        "subject": "Nông sản địa phương tươi được bày bán tại một quầy chợ Kea Farm, Cameron Highlands"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கோலாலம்பூர், சென்ட்ரல் மார்க்கெட்டில் ரம்புட்டான் மற்றும் லங்சாட் பழங்கள் குவிந்த, மலேசியக் கொடி அணிவித்த ஒரு கைவண்டிக் கடை",
+        "subject": "கோலாலம்பூரில் ரம்புட்டான் மற்றும் லங்சாட் பழங்களை விற்கும் தெரு பழ வியாபாரி"
+      },
+      {
+        "alt": "கேமரூன் ஹைலண்ட்ஸ், கியா ஃபார்மில் ரிங்கிட்டில் விலையிடப்பட்ட அஸ்பாரகஸ், அவகேடோ, மாம்பழம் மற்றும் பூசணிகளைக் காட்சிப்படுத்தும் ஒரு சந்தைக் கடை",
+        "subject": "கேமரூன் ஹைலண்ட்ஸ், கியா ஃபார்ம் சந்தைக் கடையில் விற்பனைக்கு வைக்கப்பட்டுள்ள புதிய உள்ளூர் விளைபொருட்கள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कुआलालंपुर के सेंट्रल मार्केट में मलेशियाई झंडे से सजी, रामबूतान और लंगसत से भरी एक ठेला दुकान",
+        "subject": "कुआलालंपुर में रामबूतान और लंगसत बेचता सड़क किनारे फल विक्रेता"
+      },
+      {
+        "alt": "कैमरन हाइलैंड्स के किआ फार्म में रिंगगिट में कीमत लगी शतावरी, एवोकाडो, आम और कद्दू प्रदर्शित करता एक बाज़ार स्टॉल",
+        "subject": "कैमरन हाइलैंड्स के किआ फार्म बाज़ार स्टॉल पर बिकती ताज़ी स्थानीय उपज"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "عربة يد مكدّسة بالرامبوتان واللانغسات ومغطّاة بعلم ماليزيا في Central Market، Kuala Lumpur",
+        "subject": "بائع فاكهة متجوّل يبيع الرامبوتان واللانغسات في Kuala Lumpur"
+      },
+      {
+        "alt": "كشك سوق يعرض الهليون والأفوكادو والمانجو واليقطين بأسعار بالرينغيت في Kea Farm، Cameron Highlands",
+        "subject": "منتجات محلية طازجة معروضة للبيع في كشك سوق Kea Farm، Cameron Highlands"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un puesto con carretilla rebosante de rambután y langsat, cubierto con la bandera de Malasia, en Central Market, Kuala Lumpur",
+        "subject": "Vendedor ambulante de fruta que vende rambután y langsat en Kuala Lumpur"
+      },
+      {
+        "alt": "Un puesto de mercado que exhibe espárragos, aguacates, mangos y calabazas con precios en ringgit en Kea Farm, Cameron Highlands",
+        "subject": "Productos locales frescos a la venta en un puesto del mercado de Kea Farm, Cameron Highlands"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un étal sur charrette débordant de ramboutans et de langsats, drapé du drapeau malaisien, au Central Market de Kuala Lumpur",
+        "subject": "Vendeur de fruits ambulant proposant des ramboutans et des langsats à Kuala Lumpur"
+      },
+      {
+        "alt": "Un étal de marché présentant asperges, avocats, mangues et potirons affichés en ringgit à Kea Farm, Cameron Highlands",
+        "subject": "Produits locaux frais en vente sur un étal du marché de Kea Farm, Cameron Highlands"
+      }
+    ]
+  },
+  "agriculture/felda-land-settlement-scheme": {
+    "zh": [
+      {
+        "alt": "柔佛古来FELDA武吉巴都垦殖区内,一条两旁栽种大王椰子、排列垦殖民住宅的宁静道路",
+        "subject": "柔佛FELDA武吉巴都棕榈夹道旁的垦殖民住宅"
+      },
+      {
+        "alt": "沙巴FELDA沙哈巴垦殖综合区内,竖着烟囱的Fajar Harapan棕油厂",
+        "subject": "沙巴FELDA沙哈巴综合区内的Fajar Harapan棕油厂"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ジョホール州クライのFELDAブキット・バトゥ入植地で、ダイオウヤシと入植者の住宅が並ぶ静かな道路",
+        "subject": "ジョホール州FELDAブキット・バトゥのヤシ並木道沿いに建つ入植者の住宅"
+      },
+      {
+        "alt": "サバ州FELDAサハバト入植団地にある、煙突のそびえるFajar Harapanパーム油製油所",
+        "subject": "サバ州FELDAサハバト団地内のFajar Harapanパーム油製油所"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "조호르주 쿨라이 FELDA 부킷바투 정착지에서 대왕야자와 정착민 주택이 늘어선 한적한 도로",
+        "subject": "조호르주 FELDA 부킷바투의 야자수 늘어선 길가에 자리한 정착민 주택"
+      },
+      {
+        "alt": "사바주 FELDA 사하밧 정착 단지에 굴뚝이 솟은 Fajar Harapan 팜유 공장",
+        "subject": "사바주 FELDA 사하밧 단지 내 Fajar Harapan 팜유 공장"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ถนนเงียบสงบขนาบด้วยต้นปาล์มราชาและบ้านผู้ตั้งถิ่นฐานในโครงการ FELDA บูกิตบาตู กูลัย รัฐยะโฮร์",
+        "subject": "บ้านผู้ตั้งถิ่นฐานริมถนนที่เรียงรายด้วยต้นปาล์มในโครงการ FELDA บูกิตบาตู รัฐยะโฮร์"
+      },
+      {
+        "alt": "โรงงานน้ำมันปาล์ม Fajar Harapan ที่มีปล่องควันตั้งตระหง่านในนิคม FELDA ซาฮาบัต รัฐซาบาห์",
+        "subject": "โรงงานน้ำมันปาล์ม Fajar Harapan ในนิคม FELDA ซาฮาบัต รัฐซาบาห์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Jalan yang tenang dipagari pokok palma diraja dan rumah peneroka di rancangan FELDA Bukit Batu, Kulai, Johor",
+        "subject": "Rumah peneroka di sepanjang jalan berpokok palma di FELDA Bukit Batu, Johor"
+      },
+      {
+        "alt": "Kilang minyak sawit Fajar Harapan dengan cerobongnya di kompleks penempatan FELDA Sahabat, Sabah",
+        "subject": "Kilang minyak sawit Fajar Harapan di kompleks FELDA Sahabat, Sabah"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Jalan sepi yang berjajar pohon palem raja dan rumah pemukim di skema FELDA Bukit Batu, Kulai, Johor",
+        "subject": "Rumah-rumah pemukim di sepanjang jalan bertepi pohon palem di FELDA Bukit Batu, Johor"
+      },
+      {
+        "alt": "Pabrik minyak sawit Fajar Harapan dengan cerobong asapnya di kompleks permukiman FELDA Sahabat, Sabah",
+        "subject": "Pabrik minyak sawit Fajar Harapan di kompleks FELDA Sahabat, Sabah"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một con đường yên tĩnh viền hàng cọ hoàng gia và nhà của người định cư trong chương trình FELDA Bukit Batu, Kulai, Johor",
+        "subject": "Những ngôi nhà của người định cư dọc con đường rợp bóng cọ ở FELDA Bukit Batu, Johor"
+      },
+      {
+        "alt": "Nhà máy dầu cọ Fajar Harapan với những ống khói của nó trong khu phức hợp định cư FELDA Sahabat, Sabah",
+        "subject": "Nhà máy dầu cọ Fajar Harapan trong khu phức hợp FELDA Sahabat, Sabah"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஜொகூர், குலாய், ஃபெல்டா புக்கிட் பத்து திட்டத்தில் அரச பனைமரங்களும் குடியேற்றவாசிகளின் வீடுகளும் வரிசையாக அமைந்த ஒரு அமைதியான சாலை",
+        "subject": "ஜொகூர், ஃபெல்டா புக்கிட் பத்துவில் பனைமரங்கள் சூழ்ந்த சாலையோரம் அமைந்த குடியேற்றவாசிகளின் வீடுகள்"
+      },
+      {
+        "alt": "சபா, ஃபெல்டா சாஹாபாட் குடியேற்ற வளாகத்தில் புகைபோக்கிகளுடன் கூடிய ஃபஜார் ஹரபான் பாமாயில் ஆலை",
+        "subject": "சபா, ஃபெல்டா சாஹாபாட் வளாகத்தில் உள்ள ஃபஜார் ஹரபான் பாமாயில் ஆலை"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "जोहोर के कुलाई स्थित FELDA बुकित बातू योजना में शाही ताड़ के पेड़ों और बसने वालों के घरों से घिरी एक शांत सड़क",
+        "subject": "जोहोर के FELDA बुकित बातू में ताड़ के पेड़ों वाली सड़क के किनारे बसने वालों के घर"
+      },
+      {
+        "alt": "सबा के FELDA सहाबात बस्ती परिसर में अपनी चिमनियों के साथ फजर हरापान पाम-ऑयल मिल",
+        "subject": "सबा के FELDA सहाबात परिसर में फजर हरापान पाम-ऑयल मिल"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "طريق هادئ تصطفّ على جانبيه أشجار النخيل الملكي ومنازل المستوطنين في مشروع FELDA Bukit Batu، Kulai، Johor",
+        "subject": "منازل المستوطنين على طول طريق تصطفّ على جانبيه أشجار النخيل في FELDA Bukit Batu، Johor"
+      },
+      {
+        "alt": "مصنع زيت النخيل Fajar Harapan بمداخنه في مجمّع مستوطنة FELDA Sahabat، Sabah",
+        "subject": "مصنع زيت النخيل Fajar Harapan في مجمّع FELDA Sahabat، Sabah"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una tranquila carretera bordeada de palmeras reales y casas de colonos en el programa FELDA Bukit Batu, Kulai, Johor",
+        "subject": "Casas de colonos a lo largo de una carretera bordeada de palmeras en FELDA Bukit Batu, Johor"
+      },
+      {
+        "alt": "La planta extractora de aceite de palma Fajar Harapan con sus chimeneas en el complejo de colonización FELDA Sahabat, Sabah",
+        "subject": "Planta extractora de aceite de palma Fajar Harapan en el complejo FELDA Sahabat, Sabah"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une route tranquille bordée de palmiers royaux et de maisons de colons dans le programme FELDA Bukit Batu, Kulai, Johor",
+        "subject": "Maisons de colons le long d'une route bordée de palmiers à FELDA Bukit Batu, Johor"
+      },
+      {
+        "alt": "L'huilerie de palme Fajar Harapan et ses cheminées dans le complexe de colonisation FELDA Sahabat, Sabah",
+        "subject": "Huilerie de palme Fajar Harapan dans le complexe FELDA Sahabat, Sabah"
+      }
+    ]
+  },
+  "agriculture/malaysian-fisheries-industry": {
+    "zh": [
+      {
+        "alt": "瓜拉吉打渔村的高脚屋旁,渔船沿河停泊",
+        "subject": "瓜拉吉打的渔船与沿海渔村"
+      },
+      {
+        "alt": "砂拉越古晋沙督周末市集上一排排陈列待售的本地鲜鱼",
+        "subject": "砂拉越古晋沙督市场陈列的本地鲜鱼"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "クアラ・ケダの漁村の高床式の家のそばで、川沿いに係留された漁船",
+        "subject": "クアラ・ケダの漁船と沿岸の漁村"
+      },
+      {
+        "alt": "サラワク州クチンのサトック週末市場に売り物として並べられた地元産の鮮魚の列",
+        "subject": "サラワク州クチンのサトック市場に並ぶ地元産の鮮魚"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "쿠알라케다 어촌의 고상가옥 옆으로 강을 따라 정박한 어선들",
+        "subject": "쿠알라케다의 어선과 해안 어촌"
+      },
+      {
+        "alt": "사라왁주 쿠칭 사톡 주말시장에 판매용으로 늘어놓은 지역산 신선 생선",
+        "subject": "사라왁주 쿠칭 사톡 시장에 진열된 지역산 신선 생선"
+      }
+    ],
+    "th": [
+      {
+        "alt": "เรือประมงจอดเรียงรายตามลำน้ำข้างบ้านยกพื้นของหมู่บ้านชาวประมงที่กัวลาเกอดะฮ์",
+        "subject": "เรือประมงและหมู่บ้านชาวประมงชายฝั่งที่กัวลาเกอดะฮ์"
+      },
+      {
+        "alt": "ปลาสดในท้องถิ่นวางเรียงเป็นแถวเพื่อจำหน่ายที่ตลาดนัดสุดสัปดาห์ซาต็อกในกูชิง รัฐซาราวัก",
+        "subject": "ปลาสดในท้องถิ่นวางจำหน่ายที่ตลาดซาต็อก กูชิง รัฐซาราวัก"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Bot nelayan berlabuh di sepanjang sungai di sisi rumah berpanggung di perkampungan nelayan di Kuala Kedah",
+        "subject": "Bot nelayan dan sebuah perkampungan pesisir di Kuala Kedah"
+      },
+      {
+        "alt": "Sederet ikan tempatan segar disusun untuk dijual di pasar hujung minggu Satok di Kuching, Sarawak",
+        "subject": "Ikan tempatan segar dipamerkan di pasar Satok, Kuching, Sarawak"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Perahu nelayan yang bersandar di sepanjang sungai di samping rumah panggung kampung nelayan di Kuala Kedah",
+        "subject": "Perahu nelayan dan sebuah kampung pesisir di Kuala Kedah"
+      },
+      {
+        "alt": "Sederet ikan lokal segar ditata untuk dijual di pasar akhir pekan Satok di Kuching, Sarawak",
+        "subject": "Ikan lokal segar dipajang di pasar Satok, Kuching, Sarawak"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những chiếc thuyền đánh cá neo đậu dọc con sông bên cạnh những ngôi nhà sàn của làng chài ở Kuala Kedah",
+        "subject": "Những chiếc thuyền đánh cá và một làng ven biển ở Kuala Kedah"
+      },
+      {
+        "alt": "Một hàng cá tươi địa phương được bày ra để bán tại chợ cuối tuần Satok ở Kuching, Sarawak",
+        "subject": "Cá tươi địa phương được bày bán tại chợ Satok, Kuching, Sarawak"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "குவாலா கெடாவில் மீன்பிடிக் கிராமத்தின் கால்கட்டை வீடுகளுக்கு அருகே ஆற்றோரம் நங்கூரமிட்ட மீன்பிடிப் படகுகள்",
+        "subject": "குவாலா கெடாவில் மீன்பிடிப் படகுகளும் ஒரு கடலோரக் கிராமமும்"
+      },
+      {
+        "alt": "சரவாக், குச்சிங், சாத்தோக் வார இறுதிச் சந்தையில் விற்பனைக்காக வரிசையாக அடுக்கப்பட்டுள்ள புதிய உள்ளூர் மீன்கள்",
+        "subject": "சரவாக், குச்சிங், சாத்தோக் சந்தையில் காட்சிப்படுத்தப்பட்டுள்ள புதிய உள்ளூர் மீன்கள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कुआला केदाह के मछुआरा गाँव के खंभों पर बने घरों के पास नदी किनारे लंगर डाली मछली पकड़ने वाली नौकाएँ",
+        "subject": "कुआला केदाह में मछली पकड़ने वाली नौकाएँ और एक तटीय गाँव"
+      },
+      {
+        "alt": "कुचिंग, सरवाक के सातोक सप्ताहांत बाज़ार में बिक्री के लिए कतार में रखी ताज़ी स्थानीय मछलियाँ",
+        "subject": "कुचिंग, सरवाक के सातोक बाज़ार में प्रदर्शित ताज़ी स्थानीय मछली"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "قوارب صيد راسية على طول النهر بجوار منازل قائمة على ركائز في قرية الصيد بـ Kuala Kedah",
+        "subject": "قوارب صيد وقرية ساحلية في Kuala Kedah"
+      },
+      {
+        "alt": "صفّ من الأسماك المحلية الطازجة معروضة للبيع في سوق Satok الأسبوعي في Kuching، Sarawak",
+        "subject": "أسماك محلية طازجة معروضة في سوق Satok، Kuching، Sarawak"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Barcos de pesca amarrados a lo largo del río junto a las casas sobre pilotes de la aldea pesquera de Kuala Kedah",
+        "subject": "Barcos de pesca y una aldea costera en Kuala Kedah"
+      },
+      {
+        "alt": "Una hilera de pescado local fresco dispuesto para la venta en el mercado de fin de semana de Satok, en Kuching, Sarawak",
+        "subject": "Pescado local fresco expuesto en el mercado de Satok, Kuching, Sarawak"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Bateaux de pêche amarrés le long de la rivière près des maisons sur pilotis du village de pêcheurs de Kuala Kedah",
+        "subject": "Bateaux de pêche et village côtier à Kuala Kedah"
+      },
+      {
+        "alt": "Une rangée de poissons locaux frais disposés pour la vente au marché de week-end de Satok, à Kuching, Sarawak",
+        "subject": "Poisson local frais présenté au marché de Satok, Kuching, Sarawak"
+      }
+    ]
+  },
+  "agriculture/mardi-agricultural-research-institute": {
+    "zh": [
+      {
+        "alt": "金马伦高原一座温室内,草莓植株种在抬高的基质槽中成排生长",
+        "subject": "金马伦高原温室内的保护地草莓栽培"
+      },
+      {
+        "alt": "马来西亚博特拉大学农学院研究农场里,一排排铺着银色地膜、长着幼苗的苗床与温室挡雨棚",
+        "subject": "马来西亚一所大学农业研究农场的栽培苗床与温室"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "キャメロンハイランドの温室内で、嵩上げした培地トラフに植えられて並ぶイチゴの株",
+        "subject": "キャメロンハイランドの温室で行われる施設イチゴ栽培"
+      },
+      {
+        "alt": "マレーシア・プトラ大学農学部の研究農場に並ぶ、銀色マルチを張った苗床の若い苗と温室の雨よけ",
+        "subject": "マレーシアの大学の農業研究農場にある栽培ベッドと温室"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "카메론하이랜드의 온실 안에서 높인 배지 트로프에 심어져 줄지어 자라는 딸기 모종",
+        "subject": "카메론하이랜드 온실 내 시설 딸기 재배"
+      },
+      {
+        "alt": "말레이시아 푸트라 대학교 농학부 연구 농장에 줄지어 선 은색 멀칭 재배 베드의 어린 모종과 온실 비가림 시설",
+        "subject": "말레이시아 한 대학교 농업 연구 농장의 재배 베드와 온실"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ต้นสตรอว์เบอร์รีปลูกในรางวัสดุปลูกยกพื้นเรียงเป็นแถวในโรงเรือนที่คาเมรอนไฮแลนด์",
+        "subject": "การปลูกสตรอว์เบอร์รีในโรงเรือนที่คาเมรอนไฮแลนด์"
+      },
+      {
+        "alt": "แปลงปลูกคลุมด้วยพลาสติกสีเงินพร้อมต้นกล้าและโรงเรือนกันฝนเรียงเป็นแถวที่ฟาร์มวิจัยคณะเกษตร มหาวิทยาลัยปุตรามาเลเซีย",
+        "subject": "แปลงเพาะปลูกและโรงเรือนที่ฟาร์มวิจัยการเกษตรของมหาวิทยาลัยในมาเลเซีย"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Barisan pokok strawberi yang ditanam dalam palung substrat tinggi di dalam rumah hijau di Cameron Highlands",
+        "subject": "Penanaman strawberi terlindung di bawah rumah hijau di Cameron Highlands"
+      },
+      {
+        "alt": "Barisan petak tanaman bersungkup perak dengan anak benih muda dan rumah hijau pelindung hujan di ladang penyelidikan Fakulti Pertanian, Universiti Putra Malaysia",
+        "subject": "Petak tanaman dan rumah hijau di ladang penyelidikan pertanian sebuah universiti Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Barisan tanaman stroberi yang ditanam dalam palung substrat yang ditinggikan di dalam rumah kaca di Cameron Highlands",
+        "subject": "Budidaya stroberi terlindung di dalam rumah kaca di Cameron Highlands"
+      },
+      {
+        "alt": "Barisan bedengan tanam bermulsa perak dengan bibit muda dan naungan hujan rumah kaca di kebun penelitian Fakultas Pertanian, Universiti Putra Malaysia",
+        "subject": "Bedengan tanaman dan rumah kaca di kebun penelitian pertanian sebuah universitas Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những hàng cây dâu tây được trồng trong các máng giá thể nâng cao bên trong một nhà kính ở Cameron Highlands",
+        "subject": "Canh tác dâu tây trong nhà kính được che chắn ở Cameron Highlands"
+      },
+      {
+        "alt": "Những hàng luống trồng phủ màng bạc với cây giống non và những mái che mưa nhà kính tại nông trại nghiên cứu của Khoa Nông nghiệp, Universiti Putra Malaysia",
+        "subject": "Các luống cây trồng và nhà kính tại một nông trại nghiên cứu nông nghiệp của trường đại học Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கேமரூன் ஹைலண்ட்ஸில் ஒரு பசுமைக் குடிலுக்குள் உயர்த்தப்பட்ட ஊடகத் தொட்டிகளில் வளர்க்கப்படும் ஸ்ட்ராபெரி செடிகளின் வரிசைகள்",
+        "subject": "கேமரூன் ஹைலண்ட்ஸில் ஒரு பசுமைக் குடிலுக்குள் பாதுகாக்கப்பட்ட ஸ்ட்ராபெரி சாகுபடி"
+      },
+      {
+        "alt": "யுனிவர்சிட்டி புத்ரா மலேசியா, வேளாண்மை பீடத்தின் ஆராய்ச்சிப் பண்ணையில் வெள்ளி நிற மூடுபொருள் விரிக்கப்பட்ட, இளம் நாற்றுகளுடன் கூடிய நடவுப் படுகைகளின் வரிசைகளும் பசுமைக் குடில் மழைக் கூரைகளும்",
+        "subject": "ஒரு மலேசியப் பல்கலைக்கழகத்தின் வேளாண் ஆராய்ச்சிப் பண்ணையில் பயிர்ப் படுகைகளும் பசுமைக் குடில்களும்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कैमरन हाइलैंड्स में एक ग्रीनहाउस के अंदर ऊँची सब्सट्रेट क्यारियों में उगाए गए स्ट्रॉबेरी के पौधों की कतारें",
+        "subject": "कैमरन हाइलैंड्स में ग्रीनहाउस के भीतर संरक्षित स्ट्रॉबेरी की खेती"
+      },
+      {
+        "alt": "Universiti Putra Malaysia के कृषि संकाय अनुसंधान फार्म पर चाँदी-मल्च वाली क्यारियाँ, नन्हे पौधे और ग्रीनहाउस वर्षा-आश्रय की कतारें",
+        "subject": "एक मलेशियाई विश्वविद्यालय के कृषि अनुसंधान फार्म पर फसल क्यारियाँ और ग्रीनहाउस"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "صفوف من نباتات الفراولة تُزرع في أحواض ركيزة مرتفعة داخل بيت زجاجي في Cameron Highlands",
+        "subject": "زراعة الفراولة المحمية داخل بيت زجاجي في Cameron Highlands"
+      },
+      {
+        "alt": "صفوف من أحواض الزراعة المغطّاة بنشارة فضية مع شتلات صغيرة ومظلّات مطرية زجاجية في مزرعة أبحاث كلية الزراعة بجامعة Universiti Putra Malaysia",
+        "subject": "أحواض محاصيل وبيوت زجاجية في مزرعة أبحاث زراعية تابعة لجامعة ماليزية"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Hileras de plantas de fresa cultivadas en bandejas de sustrato elevadas dentro de un invernadero en Cameron Highlands",
+        "subject": "Cultivo protegido de fresas bajo invernadero en Cameron Highlands"
+      },
+      {
+        "alt": "Hileras de bancales con acolchado plateado, plántulas jóvenes y cubiertas de invernadero contra la lluvia en la granja de investigación de la Facultad de Agricultura de la Universiti Putra Malaysia",
+        "subject": "Bancales de cultivo e invernaderos en una granja de investigación agrícola de una universidad malasia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Rangées de fraisiers cultivés dans des bacs de substrat surélevés à l'intérieur d'une serre à Cameron Highlands",
+        "subject": "Culture protégée de fraises sous serre à Cameron Highlands"
+      },
+      {
+        "alt": "Rangées de planches de culture paillées d'argenté avec de jeunes plants et des abris-serres contre la pluie, à la ferme de recherche de la Faculté d'agriculture de l'Universiti Putra Malaysia",
+        "subject": "Planches de culture et serres dans une ferme de recherche agricole d'une université malaisienne"
+      }
+    ]
+  },
+  "agriculture/oil-palm-smallholders-mspo-sustainability": {
+    "zh": [
+      {
+        "alt": "沙巴丹南县,一名油棕园收割工肩扛长镰杆穿行于成熟的油棕之间,地上放着一串刚割下的鲜果串",
+        "subject": "沙巴丹南一名种植园工人在成熟油棕间扛着收割杆"
+      },
+      {
+        "alt": "沙巴基马尼斯园丘一棵油棕树冠处,红中带色的鲜果串逐渐成熟的特写",
+        "subject": "沙巴基马尼斯园丘一棵油棕上成熟中的鲜果串"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "サバ州テノム郡で、成木のアブラヤシの間を長い鎌付きの竿を担いで歩く収穫作業員と、地面に置かれた切り出したばかりの新鮮果房",
+        "subject": "サバ州テノムで成木のアブラヤシの間を収穫竿を担いで歩く農園作業員"
+      },
+      {
+        "alt": "サバ州キマニス農園のアブラヤシの樹冠で赤みを帯びて熟していく新鮮果房のクローズアップ",
+        "subject": "サバ州キマニス農園のアブラヤシで熟しつつある新鮮果房"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "사바주 테놈 지구에서 다 자란 기름야자 사이로 긴 낫 장대를 둘러멘 수확 작업자와 바닥에 놓인 갓 잘라낸 신선 열매송이",
+        "subject": "사바주 테놈에서 다 자란 기름야자 사이로 수확용 장대를 멘 농장 작업자"
+      },
+      {
+        "alt": "사바주 키마니스 농원 기름야자 수관에서 붉은빛을 띠며 익어가는 신선 열매송이 클로즈업",
+        "subject": "사바주 키마니스 농원의 기름야자에서 익어가는 신선 열매송이"
+      }
+    ],
+    "th": [
+      {
+        "alt": "คนงานเก็บเกี่ยวแบกไม้เกี่ยวด้ามยาวเดินท่ามกลางต้นปาล์มน้ำมันที่โตเต็มที่ โดยมีทะลายปาล์มสดที่เพิ่งตัดวางอยู่บนพื้น ในอำเภอเตอโนม รัฐซาบาห์",
+        "subject": "คนงานสวนแบกไม้เกี่ยวทะลายปาล์มท่ามกลางต้นปาล์มน้ำมันที่โตเต็มที่ในเตอโนม รัฐซาบาห์"
+      },
+      {
+        "alt": "ภาพระยะใกล้ของทะลายปาล์มสดสีแดงเรื่อกำลังสุกที่ยอดต้นปาล์มน้ำมันในสวนกิมานิส รัฐซาบาห์",
+        "subject": "ทะลายปาล์มสดกำลังสุกบนต้นปาล์มน้ำมันในสวนกิมานิส รัฐซาบาห์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Seorang penuai ladang sawit memikul galah sabit panjang di antara pokok sawit matang, dengan setandan buah segar yang dipotong di atas tanah, di Daerah Tenom, Sabah",
+        "subject": "Seorang pekerja ladang membawa galah penuai di antara pokok sawit matang di Tenom, Sabah"
+      },
+      {
+        "alt": "Pandangan dekat tandan buah segar kemerahan yang semakin masak di mahkota pokok sawit di Ladang Kimanis, Sabah",
+        "subject": "Tandan buah segar yang semakin masak pada pokok sawit di Ladang Kimanis, Sabah"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Seorang pemanen perkebunan kelapa sawit memanggul galah sabit panjang di antara pohon sawit dewasa, dengan satu tandan buah segar yang telah dipotong di tanah, di Distrik Tenom, Sabah",
+        "subject": "Seorang pekerja perkebunan membawa galah pemanen di antara pohon kelapa sawit dewasa di Tenom, Sabah"
+      },
+      {
+        "alt": "Bidikan dekat tandan buah segar kemerahan yang sedang matang di mahkota pohon kelapa sawit di Perkebunan Kimanis, Sabah",
+        "subject": "Tandan buah segar yang sedang matang pada pohon kelapa sawit di Perkebunan Kimanis, Sabah"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một người thu hoạch tại đồn điền cọ dầu vác chiếc sào liềm dài giữa những cây cọ trưởng thành, với một buồng quả tươi vừa cắt nằm dưới đất, ở Huyện Tenom, Sabah",
+        "subject": "Một công nhân đồn điền mang sào thu hoạch giữa những cây cọ dầu trưởng thành ở Tenom, Sabah"
+      },
+      {
+        "alt": "Cận cảnh những buồng quả tươi ngả đỏ đang chín ở ngọn một cây cọ dầu tại Đồn điền Kimanis, Sabah",
+        "subject": "Những buồng quả tươi đang chín trên cây cọ dầu tại Đồn điền Kimanis, Sabah"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "சபா, தெனோம் மாவட்டத்தில், முதிர்ந்த பனைமரங்களுக்கு இடையே நீண்ட அரிவாள் கழியைத் தோளில் சுமந்து செல்லும் ஒரு எண்ணெய்ப் பனைத் தோட்ட அறுவடையாளர், தரையில் வெட்டப்பட்ட ஒரு புதிய பழக் குலையுடன்",
+        "subject": "சபா, தெனோமில் முதிர்ந்த எண்ணெய்ப் பனை மரங்களுக்கு இடையே அறுவடைக் கழியைச் சுமந்து செல்லும் ஒரு தோட்டத் தொழிலாளி"
+      },
+      {
+        "alt": "சபா, கிமானிஸ் தோட்டத்தில் ஒரு எண்ணெய்ப் பனை மரத்தின் உச்சியில் பழுத்து வரும் சிவப்பு கலந்த புதிய பழக் குலைகளின் அருகிலான காட்சி",
+        "subject": "சபா, கிமானிஸ் தோட்டத்தில் ஒரு எண்ணெய்ப் பனை மரத்தில் பழுத்து வரும் புதிய பழக் குலைகள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "सबा के तेनोम ज़िले में परिपक्व ताड़ के बीच लंबा हँसिया-डंडा कंधे पर रखे एक ऑयल-पाम बागान कटाई-कर्मी, ज़मीन पर कटा हुआ ताज़ा फल गुच्छा",
+        "subject": "सबा के तेनोम में परिपक्व ऑयल पाम के बीच कटाई का डंडा लिए एक बागान मज़दूर"
+      },
+      {
+        "alt": "सबा के किमानिस एस्टेट में एक ऑयल पाम के शीर्ष पर पकते लाल रंग के ताज़े फल गुच्छों का नज़दीकी दृश्य",
+        "subject": "सबा के किमानिस एस्टेट में एक ऑयल पाम पर पकते ताज़े फल गुच्छे"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "حاصد في مزرعة نخيل زيت يحمل على كتفه عصا منجل طويلة بين النخيل الناضج، وعلى الأرض عذق ثمار طازج مقطوع، في مقاطعة Tenom، Sabah",
+        "subject": "عامل مزرعة يحمل عصا حصاد بين أشجار نخيل الزيت الناضجة في Tenom، Sabah"
+      },
+      {
+        "alt": "لقطة قريبة لعذوق ثمار طازجة محمرّة تنضج عند تاج نخلة زيت في Kimanis Estate، Sabah",
+        "subject": "عذوق ثمار طازجة تنضج على نخلة زيت في Kimanis Estate، Sabah"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un cosechador de una finca de palma aceitera carga al hombro una larga pértiga con hoz entre palmas maduras, con un racimo de fruta fresca cortado en el suelo, en el distrito de Tenom, Sabah",
+        "subject": "Un trabajador de plantación con una pértiga de cosecha entre palmas aceiteras maduras en Tenom, Sabah"
+      },
+      {
+        "alt": "Primer plano de racimos de fruta fresca rojizos madurando en la corona de una palma aceitera en Kimanis Estate, Sabah",
+        "subject": "Racimos de fruta fresca madurando en una palma aceitera en Kimanis Estate, Sabah"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un récolteur d'une plantation de palmiers à huile porte sur l'épaule une longue perche à faucille parmi les palmiers matures, un régime de fruits frais coupé au sol, dans le district de Tenom, Sabah",
+        "subject": "Un ouvrier de plantation portant une perche de récolte parmi des palmiers à huile matures à Tenom, Sabah"
+      },
+      {
+        "alt": "Gros plan de régimes de fruits frais rougeâtres mûrissant à la couronne d'un palmier à huile à Kimanis Estate, Sabah",
+        "subject": "Régimes de fruits frais mûrissant sur un palmier à huile à Kimanis Estate, Sabah"
+      }
+    ]
+  },
+  "agriculture/padi-rice-industry-self-sufficiency": {
+    "zh": [
+      {
+        "alt": "吉兰丹一片稻田里,一台黄色联合收割机正收割成熟的金黄稻谷",
+        "subject": "吉兰丹一台联合收割机正收割成熟的稻谷"
+      },
+      {
+        "alt": "吉打浮罗交怡一片待收割的金黄成熟稻田,后方是一座林木覆盖的山丘",
+        "subject": "吉打浮罗交怡一片待收割的金黄成熟稻田"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "クランタン州の水田で、黄色いコンバインが黄金色に実った稲を刈り取る様子",
+        "subject": "クランタン州で黄金色に実った稲を刈り取るコンバイン"
+      },
+      {
+        "alt": "ケダ州ランカウイで、後方に森に覆われた丘を背に、収穫を待つ黄金色に熟した稲の田",
+        "subject": "ケダ州ランカウイの収穫間近の黄金色の水田"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "켈란탄주의 논에서 노란 콤바인이 누렇게 익은 벼를 베어 들이는 모습",
+        "subject": "켈란탄주에서 누렇게 익은 벼를 수확하는 콤바인"
+      },
+      {
+        "alt": "케다주 랑카위에서 뒤편에 숲으로 덮인 언덕을 두고 수확을 앞둔 황금빛으로 익은 논",
+        "subject": "케다주 랑카위의 수확을 앞둔 황금빛 논"
+      }
+    ],
+    "th": [
+      {
+        "alt": "รถเกี่ยวนวดข้าวสีเหลืองกำลังเกี่ยวข้าวสุกสีทองในนาข้าวที่รัฐกลันตัน",
+        "subject": "รถเกี่ยวนวดข้าวกำลังเกี่ยวข้าวสุกในรัฐกลันตัน"
+      },
+      {
+        "alt": "นาข้าวสุกสีทองพร้อมเก็บเกี่ยวโดยมีเนินเขาปกคลุมด้วยป่าอยู่ด้านหลัง ที่ลังกาวี รัฐเกอดะฮ์",
+        "subject": "นาข้าวสุกสีทองพร้อมเก็บเกี่ยวที่ลังกาวี รัฐเกอดะฮ์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah jentera penuai gabungan berwarna kuning menuai padi masak keemasan di sebuah sawah di Kelantan",
+        "subject": "Sebuah jentera penuai gabungan menuai padi masak di Kelantan"
+      },
+      {
+        "alt": "Hamparan padi masak keemasan yang sedia dituai dengan sebuah bukit berhutan di latar belakang, di Langkawi, Kedah",
+        "subject": "Sawah padi masak keemasan yang sedia dituai di Langkawi, Kedah"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah mesin pemanen gabungan berwarna kuning memanen padi matang keemasan di sebuah sawah di Kelantan",
+        "subject": "Sebuah mesin pemanen gabungan (combine harvester) memanen padi matang di Kelantan"
+      },
+      {
+        "alt": "Hamparan padi matang keemasan yang siap dipanen dengan sebuah bukit berhutan di latar belakang, di Langkawi, Kedah",
+        "subject": "Sawah padi matang keemasan yang siap dipanen di Langkawi, Kedah"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một chiếc máy gặt đập liên hợp màu vàng đang cắt lúa chín vàng óng trên một cánh đồng lúa ở Kelantan",
+        "subject": "Một máy gặt đập liên hợp đang cắt lúa chín ở Kelantan"
+      },
+      {
+        "alt": "Một cánh đồng lúa chín vàng óng sẵn sàng thu hoạch với một ngọn đồi rừng phía sau, ở Langkawi, Kedah",
+        "subject": "Một cánh đồng lúa chín vàng sẵn sàng thu hoạch ở Langkawi, Kedah"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கிளாந்தானில் ஒரு நெல் வயலில் முற்றிய தங்க நிற நெல்லை அறுவடை செய்யும் ஒரு மஞ்சள் நிற கம்பைன் அறுவடை இயந்திரம்",
+        "subject": "கிளாந்தானில் முற்றிய நெல்லை அறுவடை செய்யும் ஒரு கம்பைன் அறுவடை இயந்திரம்"
+      },
+      {
+        "alt": "கெடா, லங்காவியில் பின்னணியில் ஒரு காடுசூழ் குன்றுடன், அறுவடைக்குத் தயாராக முற்றிய தங்க நிற நெல் வயல்",
+        "subject": "கெடா, லங்காவியில் அறுவடைக்குத் தயாராக முற்றிய தங்க நிற நெல் வயல்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "केलंतान के एक धान के खेत में पकी सुनहरी धान काटता एक पीला कंबाइन हार्वेस्टर",
+        "subject": "केलंतान में पकी धान की फसल काटता एक कंबाइन हार्वेस्टर"
+      },
+      {
+        "alt": "लंगकावी, केदाह में पीछे एक वनाच्छादित पहाड़ी के साथ कटाई के लिए तैयार पकी सुनहरी धान का खेत",
+        "subject": "लंगकावी, केदाह में कटाई के लिए तैयार एक पका सुनहरा धान का खेत"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "حصّادة دمج صفراء تحصد الأرز الذهبي الناضج في حقل أرز في Kelantan",
+        "subject": "حصّادة دمج تحصد الأرز الناضج في Kelantan"
+      },
+      {
+        "alt": "حقل من الأرز الذهبي الناضج جاهز للحصاد وخلفه تلّة مكسوّة بالغابات، في Langkawi، Kedah",
+        "subject": "حقل أرز ذهبي ناضج جاهز للحصاد في Langkawi، Kedah"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una cosechadora amarilla segando arroz dorado maduro en un arrozal de Kelantan",
+        "subject": "Una cosechadora segando arroz maduro en Kelantan"
+      },
+      {
+        "alt": "Un campo de arroz dorado maduro listo para la cosecha con una colina boscosa al fondo, en Langkawi, Kedah",
+        "subject": "Un arrozal dorado y maduro listo para la cosecha en Langkawi, Kedah"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une moissonneuse-batteuse jaune récoltant du riz doré mûr dans une rizière à Kelantan",
+        "subject": "Une moissonneuse-batteuse récoltant du riz mûr à Kelantan"
+      },
+      {
+        "alt": "Un champ de riz doré mûr prêt pour la récolte avec une colline boisée en arrière-plan, à Langkawi, Kedah",
+        "subject": "Une rizière dorée et mûre prête pour la récolte à Langkawi, Kedah"
+      }
+    ]
+  },
+  "energy/energy-sector-overview": {
+    "zh": [
+      {
+        "alt": "一座燃气发电厂,设有汽轮机厂房、金属排气烟囱,以及围栏内布满变压器与钢制龙门架的变电站,坐落在开辟出的空地上,后方是林木覆盖的山丘与明亮的天空",
+        "subject": "沙巴亚庇附近的鲁加丁发电厂,一座为沙巴电网供电的燃气发电厂"
+      },
+      {
+        "alt": "一座沿海发电厂,围墙后方有低矮的工业建筑、金属管道与一根高耸的烟囱,附近棕榈树与空地在朦胧的天空下",
+        "subject": "马六甲海岸的丹绒吉灵发电厂,马来西亚半岛发电机组的一部分"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "タービン建屋、金属製の排気煙突、変圧器と鉄構の並ぶフェンス付き開閉所を備えたガス火力発電所。切り開かれた土地に立ち、後方には森に覆われた丘と明るい空が広がる",
+        "subject": "サバ州コタキナバル近郊のルガディン発電所。サバの送電網に電力を供給するガス火力発電所"
+      },
+      {
+        "alt": "境界フェンスの奥に低い工業建屋、金属ダクト、高い煙突のそびえる沿岸の発電所。近くにはヤシの木と空き地があり、かすんだ空が広がる",
+        "subject": "マラッカ沿岸のタンジュン・クリン発電所。半島マレーシアの発電設備群の一つ"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "터빈 건물, 금속 배기 굴뚝, 변압기와 철골 가대가 늘어선 울타리 친 개폐소를 갖춘 가스화력발전소. 개간된 땅에 자리하고 뒤로 숲으로 덮인 언덕과 밝은 하늘이 펼쳐진다",
+        "subject": "사바주 코타키나발루 인근의 루가딩 발전소. 사바 전력망에 전기를 공급하는 가스화력발전소"
+      },
+      {
+        "alt": "경계 울타리 너머로 낮은 산업 건물, 금속 덕트, 높은 굴뚝이 솟은 해안 발전소. 인근에 야자수와 빈터가 있고 뿌연 하늘이 펼쳐진다",
+        "subject": "믈라카 해안의 탄중클링 발전소. 반도 말레이시아 발전 설비의 일부"
+      }
+    ],
+    "th": [
+      {
+        "alt": "โรงไฟฟ้าพลังก๊าซที่มีอาคารกังหัน ปล่องไอเสียโลหะ และลานไกสวิตช์ที่มีรั้วล้อมเต็มไปด้วยหม้อแปลงและโครงเหล็ก ตั้งอยู่บนพื้นที่โล่งที่ถางแล้วโดยมีเนินเขาปกคลุมด้วยป่าและท้องฟ้าสว่างอยู่ด้านหลัง",
+        "subject": "โรงไฟฟ้ารูกาดิงใกล้โกตากีนาบาลู รัฐซาบาห์ โรงไฟฟ้าพลังก๊าซที่ป้อนไฟเข้าโครงข่ายซาบาห์"
+      },
+      {
+        "alt": "โรงไฟฟ้าชายฝั่งที่มีอาคารอุตสาหกรรมเตี้ย ท่อโลหะ และปล่องควันสูงอยู่หลังรั้วเขต โดยมีต้นปาล์มและพื้นที่โล่งอยู่ใกล้ ๆ ภายใต้ท้องฟ้าขมุกขมัว",
+        "subject": "โรงไฟฟ้าตันจุงกลิงริมชายฝั่งรัฐมะละกา ส่วนหนึ่งของกลุ่มโรงไฟฟ้าในมาเลเซียคาบสมุทร"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah stesen janakuasa berasaskan gas dengan dewan turbin, serombong ekzos logam dan halaman suis berpagar yang penuh dengan pengubah dan gantri keluli, terletak di atas tanah yang diteroka dengan bukit berhutan dan langit cerah di latar belakang",
+        "subject": "Stesen janakuasa Rugading berhampiran Kota Kinabalu, Sabah, sebuah loji janakuasa berasaskan gas yang membekal grid Sabah"
+      },
+      {
+        "alt": "Sebuah stesen janakuasa pesisir dengan bangunan industri rendah, saluran logam dan sebuah serombong tinggi di sebalik pagar sempadan, dengan pokok palma dan tanah lapang berdekatan di bawah langit berjerebu",
+        "subject": "Stesen janakuasa Tanjung Kling di pantai Melaka, sebahagian daripada armada penjanaan Semenanjung Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah pembangkit listrik tenaga gas dengan aula turbin, cerobong gas buang logam, dan gardu induk berpagar berisi trafo dan rangka baja, berdiri di atas lahan yang telah dibuka dengan perbukitan berhutan dan langit cerah di belakangnya",
+        "subject": "Pembangkit listrik Rugading dekat Kota Kinabalu, Sabah, sebuah pembangkit listrik tenaga gas yang memasok jaringan listrik Sabah"
+      },
+      {
+        "alt": "Sebuah pembangkit listrik pesisir dengan bangunan industri rendah, saluran logam, dan cerobong asap tinggi di balik pagar pembatas, dengan pohon palem dan lahan terbuka di dekatnya di bawah langit berkabut",
+        "subject": "Pembangkit listrik Tanjung Kling di pesisir Melaka, bagian dari armada pembangkit Semenanjung Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một nhà máy điện chạy bằng khí đốt với các gian tua-bin, ống khói xả bằng kim loại và một trạm biến áp có hàng rào gồm các máy biến áp và giàn khung thép, nằm trên khu đất đã phát quang với những ngọn đồi rừng và bầu trời sáng phía sau",
+        "subject": "Nhà máy điện Rugading gần Kota Kinabalu, Sabah, một nhà máy phát điện chạy bằng khí đốt cấp điện cho lưới điện Sabah"
+      },
+      {
+        "alt": "Một nhà máy điện ven biển với các tòa nhà công nghiệp thấp, hệ thống ống dẫn kim loại và một ống khói cao phía sau hàng rào ranh giới, với những cây cọ và khu đất trống gần đó dưới bầu trời mờ sương",
+        "subject": "Nhà máy điện Tanjung Kling trên bờ biển Melaka, một phần của đội ngũ nhà máy phát điện của Bán đảo Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "டர்பைன் கூடங்கள், உலோக புகை போக்கிகள், மின்மாற்றிகள் மற்றும் எஃகு சட்டங்கள் நிறைந்த வேலியிடப்பட்ட மின்மாற்று முற்றம் ஆகியவற்றுடன் கூடிய ஒரு எரிவாயு மின் நிலையம்; பின்னணியில் காடுசூழ் குன்றுகளும் தெளிவான வானமும் கொண்ட திறந்த நிலத்தில் அமைந்துள்ளது",
+        "subject": "சபா, கோத்தா கினபாலுவுக்கு அருகே உள்ள ருகடிங் மின் நிலையம், சபா மின்வலையமைப்புக்கு மின்சாரம் வழங்கும் ஒரு எரிவாயு மின் உற்பத்தி நிலையம்"
+      },
+      {
+        "alt": "எல்லை வேலிக்குப் பின்னால் தாழ்வான தொழிற்சாலை கட்டிடங்கள், உலோகக் குழாய்கள் மற்றும் ஒரு உயரமான புகைபோக்கியுடன் கூடிய ஒரு கடலோர மின் நிலையம்; அருகில் பனைமரங்களும் திறந்தவெளி நிலமும், மங்கலான வானத்தின் கீழ்",
+        "subject": "மலாக்கா கடற்கரையில் உள்ள தஞ்சோங் க்லிங் மின் நிலையம், தீபகற்ப மலேசியாவின் மின் உற்பத்தித் தொகுப்பின் ஒரு பகுதி"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "टरबाइन हॉल, धातु के निकास स्टैक और ट्रांसफार्मर व स्टील गैंट्री के बाड़ वाले स्विचयार्ड वाला एक गैस-आधारित पावर स्टेशन, साफ़ की गई ज़मीन पर, पीछे वनाच्छादित पहाड़ियाँ और चमकीला आकाश",
+        "subject": "कोटा किनाबालू, सबा के पास रुगाडिंग पावर स्टेशन, सबा ग्रिड को बिजली देने वाला एक गैस-आधारित उत्पादन संयंत्र"
+      },
+      {
+        "alt": "एक तटीय पावर स्टेशन, जिसमें नीची औद्योगिक इमारतें, धातु की नलिकाएँ और सीमा-बाड़ के पीछे एक ऊँची चिमनी है, पास में ताड़ के पेड़ और खुली ज़मीन, धुंधले आकाश के नीचे",
+        "subject": "मेलाका के तट पर तंजुंग क्लिंग पावर स्टेशन, प्रायद्वीपीय मलेशिया के उत्पादन बेड़े का हिस्सा"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "محطة كهرباء تعمل بالغاز تضمّ قاعات توربينات ومداخن عادم معدنية وساحة مفاتيح مسيّجة من المحوّلات والدعامات الفولاذية، أُقيمت على أرض مُزالة أشجارها، وخلفها تلال مكسوّة بالغابات وسماء مشرقة",
+        "subject": "محطة توليد الكهرباء Rugading قرب Kota Kinabalu، Sabah، وهي محطة تعمل بالغاز تغذّي شبكة Sabah"
+      },
+      {
+        "alt": "محطة كهرباء ساحلية ذات مبانٍ صناعية منخفضة ومجارٍ معدنية ومدخنة مرتفعة خلف سياج حدودي، وبالقرب منها نخيل وأرض مكشوفة تحت سماء ضبابية",
+        "subject": "محطة توليد الكهرباء Tanjung Kling على ساحل Melaka، جزء من أسطول التوليد في شبه جزيرة ماليزيا"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una central eléctrica a gas con salas de turbinas, chimeneas metálicas de escape y una subestación vallada de transformadores y pórticos de acero, en un terreno despejado con colinas boscosas y un cielo luminoso al fondo",
+        "subject": "la central eléctrica de Rugading, cerca de Kota Kinabalu, Sabah, una planta de generación a gas que alimenta la red de Sabah"
+      },
+      {
+        "alt": "Una central eléctrica costera con edificios industriales bajos, conductos metálicos y una alta chimenea tras una valla perimetral, con palmeras y terreno abierto cerca bajo un cielo brumoso",
+        "subject": "la central eléctrica de Tanjung Kling en la costa de Melaka, parte del parque de generación de la Malasia peninsular"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une centrale électrique à gaz avec des halls de turbines, des cheminées d'échappement métalliques et un poste électrique clôturé de transformateurs et de portiques en acier, sur un terrain défriché avec des collines boisées et un ciel lumineux en arrière-plan",
+        "subject": "la centrale électrique de Rugading, près de Kota Kinabalu, Sabah, une centrale à gaz alimentant le réseau de Sabah"
+      },
+      {
+        "alt": "Une centrale électrique côtière avec de bas bâtiments industriels, des gaines métalliques et une haute cheminée derrière une clôture périmétrique, avec des palmiers et un terrain dégagé à proximité sous un ciel brumeux",
+        "subject": "la centrale électrique de Tanjung Kling sur la côte de Melaka, qui fait partie du parc de production de la Malaisie péninsulaire"
+      }
+    ]
+  },
+  "energy/fuel-subsidy-system": {
+    "zh": [
+      {
+        "alt": "一座壳牌加油站,红边顶棚覆盖着几组油泵岛,路边立柱招牌上是黄色的壳牌贝壳标志,附近是店屋与车辆,天空明亮",
+        "subject": "新山彩虹花园一座壳牌加油站的前场,顶棚下设有油泵岛"
+      },
+      {
+        "alt": "一座加油站前场,宽阔平顶的顶棚遮盖着油泵,路边立着高大发亮的价格牌立柱,旁边是一栋便利店建筑,天色阴沉",
+        "subject": "雪兰莪依约一座FIVE品牌加油站,马来西亚独立燃油零售连锁之一,设有前场与价格立柱"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "赤い縁取りの屋根が複数の給油アイランドを覆うシェルブランドのガソリンスタンド。路肩のポール看板には黄色いシェルのペクテン(帆立貝)ロゴがあり、近くには店舗と車が並び、空は明るい",
+        "subject": "ジョホールバルのタマン・プランギにあるシェルのガソリンスタンドの前庭。屋根の下に給油アイランドが並ぶ"
+      },
+      {
+        "alt": "幅広く平らな屋根が給油機を覆うガソリンスタンドの前庭。路肩には高く光る価格表示ポールが立ち、傍らにコンビニ店舗が建つ曇り空の日",
+        "subject": "スランゴール州イジョクのFIVEブランドのガソリンスタンド。マレーシアの独立系燃料小売チェーンの一つで、前庭と価格ポールを備える"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "붉은 테두리 지붕이 여러 주유 아일랜드를 덮은 셸 브랜드 주유소. 길가 기둥 간판에 노란 셸 조개 로고가 있고 인근에 상가와 차량이 있으며 하늘이 밝다",
+        "subject": "조호르바루 타만플랑이의 셸 주유소 앞마당. 지붕 아래에 주유 아일랜드가 있다"
+      },
+      {
+        "alt": "넓고 평평한 지붕이 주유기를 덮은 주유소 앞마당. 길가에 높고 환하게 불 밝힌 가격 표시 기둥이 서 있고 옆에 편의점 건물이 있는 흐린 날",
+        "subject": "슬랑오르주 이족의 FIVE 브랜드 주유소. 말레이시아 독립계 연료 소매 체인 중 하나로 앞마당과 가격 기둥을 갖추고 있다"
+      }
+    ],
+    "th": [
+      {
+        "alt": "สถานีบริการน้ำมันเชลล์ที่มีหลังคาขอบแดงคลุมเกาะตู้จ่ายน้ำมันหลายเกาะ มีโลโก้หอยเชลล์สีเหลืองบนป้ายเสาริมถนน พร้อมอาคารร้านค้าและรถยนต์อยู่ใกล้ ๆ ภายใต้ท้องฟ้าสว่าง",
+        "subject": "ลานหน้าสถานีบริการน้ำมันเชลล์ที่ตามันเปอลางี ยะโฮร์บาห์รู มีเกาะตู้จ่ายน้ำมันอยู่ใต้หลังคา"
+      },
+      {
+        "alt": "ลานหน้าสถานีบริการน้ำมันใต้หลังคาแบนกว้างคลุมตู้จ่ายน้ำมัน มีเสาป้ายบอกราคาสูงส่องสว่างตั้งอยู่ริมถนนและอาคารร้านสะดวกซื้ออยู่ข้าง ๆ ในวันที่ฟ้าครึ้ม",
+        "subject": "สถานีบริการน้ำมันแบรนด์ FIVE ที่อีจก รัฐสลังงอร์ หนึ่งในเครือค้าปลีกน้ำมันอิสระของมาเลเซีย พร้อมลานหน้าและเสาบอกราคา"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah stesen minyak berjenama Shell dengan kanopi berbingkai merah di atas beberapa pulau pam minyak, logo pecten Shell kuning pada papan tanda pylon di tepi jalan, serta deretan kedai dan kereta berdekatan di bawah langit cerah",
+        "subject": "Perkarangan stesen minyak Shell di Taman Pelangi, Johor Bahru, dengan pulau pam minyak di bawah kanopi"
+      },
+      {
+        "alt": "Perkarangan stesen minyak di bawah kanopi rata yang luas melindungi pam minyak, sebuah pylon papan harga tinggi bercahaya berdiri di tepi jalan dan sebuah bangunan kedai serbaneka di sebelahnya pada hari mendung",
+        "subject": "Sebuah stesen minyak berjenama FIVE di Ijok, Selangor, salah satu rangkaian runcit minyak bebas Malaysia, dengan perkarangan dan pylon harganya"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah SPBU bermerek Shell dengan kanopi berlis merah di atas beberapa pulau pompa bahan bakar, logo pecten Shell kuning pada papan pylon di tepi jalan, serta ruko dan mobil di dekatnya di bawah langit cerah",
+        "subject": "Halaman depan SPBU Shell di Taman Pelangi, Johor Bahru, dengan pulau pompa bahan bakar di bawah kanopi"
+      },
+      {
+        "alt": "Halaman depan SPBU di bawah kanopi datar lebar yang menaungi pompa bahan bakar, sebuah pylon papan harga tinggi bercahaya berdiri di tepi jalan, dan sebuah bangunan minimarket di sampingnya pada hari mendung",
+        "subject": "Sebuah SPBU bermerek FIVE di Ijok, Selangor, salah satu jaringan ritel bahan bakar independen Malaysia, dengan halaman depan dan pylon harganya"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một trạm xăng mang thương hiệu Shell với mái che viền đỏ phía trên nhiều cụm trụ bơm nhiên liệu, logo vỏ sò Shell màu vàng trên biển hiệu trụ đứng bên đường, cùng các dãy cửa hàng và ô tô gần đó dưới bầu trời sáng",
+        "subject": "Sân trạm xăng Shell ở Taman Pelangi, Johor Bahru, với các trụ bơm nhiên liệu dưới mái che"
+      },
+      {
+        "alt": "Sân một trạm xăng bên dưới mái che bằng phẳng rộng che các trụ bơm nhiên liệu, một trụ bảng giá cao có đèn chiếu sáng đứng bên đường và một tòa nhà cửa hàng tiện lợi bên cạnh trong một ngày trời âm u",
+        "subject": "Một trạm xăng mang thương hiệu FIVE ở Ijok, Selangor, một trong những chuỗi bán lẻ nhiên liệu độc lập của Malaysia, với sân trạm và trụ bảng giá"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பல எரிபொருள் பம்ப் தீவுகளுக்கு மேல் சிவப்பு விளிம்பு விதானம், சாலையோர தூண் பலகையில் மஞ்சள் ஷெல் சிப்பி சின்னம், மற்றும் அருகில் கடை வரிசைகளும் கார்களும் கொண்ட, தெளிவான வானத்தின் கீழ் அமைந்த ஒரு ஷெல் பெட்ரோல் நிலையம்",
+        "subject": "ஜொகூர் பாரு, தாமான் பெலாங்கியில் உள்ள ஒரு ஷெல் பெட்ரோல் நிலைய முற்றம், விதானத்தின் கீழ் எரிபொருள் பம்ப் தீவுகளுடன்"
+      },
+      {
+        "alt": "எரிபொருள் பம்புகளை மறைக்கும் அகலமான தட்டையான விதானத்தின் கீழ் அமைந்த ஒரு பெட்ரோல் நிலைய முற்றம், சாலையோரம் நிற்கும் ஒரு உயரமான ஒளிரும் விலைப்பலகைத் தூண், மற்றும் பக்கத்தில் ஒரு வசதிக் கடை கட்டிடம், மேகமூட்டமான ஒரு நாளில்",
+        "subject": "செலாங்கூர், இஜோக்கில் உள்ள FIVE என்ற பெயரிலான ஒரு பெட்ரோல் நிலையம், மலேசியாவின் சுயாதீன எரிபொருள் சில்லறை விற்பனைச் சங்கிலிகளில் ஒன்று; அதன் முற்றம் மற்றும் விலைத் தூணுடன்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कई ईंधन-पंप द्वीपों पर लाल किनारी वाले छत्र वाला एक Shell पेट्रोल स्टेशन, सड़क किनारे पाइलन साइन पर पीला Shell pecten लोगो, और पास में दुकानें व कारें, चमकीले आकाश के नीचे",
+        "subject": "जोहोर बाहरू के तामान पेलंगी में एक Shell पेट्रोल स्टेशन का फोरकोर्ट, छत्र के नीचे ईंधन-पंप द्वीप"
+      },
+      {
+        "alt": "एक पेट्रोल स्टेशन का फोरकोर्ट, जिसमें ईंधन पंपों को ढकता एक चौड़ा सपाट छत्र है, सड़क किनारे खड़ा एक ऊँचा रोशन मूल्य-बोर्ड पाइलन और साथ में एक सुविधा-स्टोर इमारत, बादल भरे दिन में",
+        "subject": "सेलांगोर के इजोक में एक FIVE पेट्रोल स्टेशन, मलेशिया की स्वतंत्र ईंधन-खुदरा शृंखलाओं में से एक, अपने फोरकोर्ट और मूल्य पाइलन के साथ"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "محطة وقود بعلامة Shell ذات مظلّة بحافة حمراء تغطّي عدة جزر لمضخّات الوقود، وشعار Shell pecten الأصفر على لوحة العمود الجانبية، ومحلات وسيارات قريبة تحت سماء مشرقة",
+        "subject": "ساحة محطة وقود Shell في Taman Pelangi، Johor Bahru، بجزرها لمضخّات الوقود تحت مظلّة"
+      },
+      {
+        "alt": "ساحة محطة وقود تحت مظلّة مسطّحة واسعة تظلّل مضخّات الوقود، وعمود لوحة أسعار مرتفع مُضاء قائم عند جانب الطريق، ومبنى متجر صغير بجانبه في يوم غائم",
+        "subject": "محطة وقود بعلامة FIVE في Ijok، Selangor، إحدى سلاسل بيع الوقود المستقلة في ماليزيا، بساحتها وعمود الأسعار"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una gasolinera de marca Shell con una marquesina de borde rojo sobre varias islas de surtidores, el logotipo amarillo del pecten de Shell en el tótem junto a la carretera, y locales comerciales y coches cerca bajo un cielo luminoso",
+        "subject": "la explanada de una gasolinera Shell en Taman Pelangi, Johor Bahru, con islas de surtidores bajo una marquesina"
+      },
+      {
+        "alt": "La explanada de una gasolinera bajo una amplia marquesina plana que cubre los surtidores, un alto tótem iluminado con el panel de precios junto a la carretera y un edificio de tienda de conveniencia al lado en un día nublado",
+        "subject": "una gasolinera de marca FIVE en Ijok, Selangor, una de las cadenas independientes de venta de combustible de Malasia, con su explanada y su tótem de precios"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une station-service de marque Shell avec un auvent à liseré rouge couvrant plusieurs îlots de pompes, le logo jaune du pecten Shell sur le totem en bord de route, et des commerces et des voitures à proximité sous un ciel lumineux",
+        "subject": "l'aire d'une station-service Shell à Taman Pelangi, Johor Bahru, avec des îlots de pompes à carburant sous un auvent"
+      },
+      {
+        "alt": "L'aire d'une station-service sous un large auvent plat abritant les pompes, un haut totem lumineux d'affichage des prix dressé au bord de la route et un bâtiment de supérette à côté par temps couvert",
+        "subject": "une station-service de marque FIVE à Ijok, Selangor, l'une des chaînes indépendantes de distribution de carburant de Malaisie, avec son aire et son totem de prix"
+      }
+    ]
+  },
+  "energy/natural-gas-lng-malaysia": {
+    "zh": [
+      {
+        "alt": "一艘大型液化天然气运输船在开阔水域航行,长长的甲板上排列着大型隔热货舱结构与管道,在晴朗的天空下留下航迹",
+        "subject": "一艘液化天然气运输船,属于向海外买家运送马来西亚液化天然气的船型"
+      },
+      {
+        "alt": "一座占地广阔的陆上天然气处理终端,设有高耸的蒸馏塔、银色球形储罐、火炬塔与密集的管道网络,坐落在开辟出的沿海土地上,后方是山丘",
+        "subject": "沙巴基马尼斯的沙巴油气终端(SOGT),国家石油公司(Petronas)的一座陆上天然气处理设施"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "開けた水面を進む大型の液化天然ガス運搬船。長い甲板には大きな断熱式の貨物タンク構造と配管が並び、晴れた空の下で航跡を残す",
+        "subject": "マレーシア産LNGを海外の買い手へ運ぶ型式の液化天然ガス運搬船"
+      },
+      {
+        "alt": "高い蒸留塔、銀色の球形タンク、フレアスタック、密集した配管の格子を備えた広大な陸上ガス処理ターミナル。切り開かれた沿岸の土地に立ち、後方には丘が広がる",
+        "subject": "サバ州キマニスのサバ石油ガスターミナル(SOGT)。ペトロナスの陸上ガス処理施設"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "트인 수면을 항해하는 대형 액화천연가스 운반선. 긴 갑판에 큰 단열 화물탱크 구조물과 배관이 늘어서 있고 맑은 하늘 아래 항적을 남긴다",
+        "subject": "말레이시아산 LNG를 해외 수요처로 실어 나르는 유형의 액화천연가스 운반선"
+      },
+      {
+        "alt": "높은 증류탑, 은색 구형 저장탱크, 플레어스택, 빽빽한 배관망을 갖춘 광활한 육상 가스 처리 터미널. 개간된 해안 부지에 자리하고 뒤로 언덕이 펼쳐진다",
+        "subject": "사바주 키마니스의 사바 석유가스 터미널(SOGT). 페트로나스의 육상 가스 처리 시설"
+      }
+    ],
+    "th": [
+      {
+        "alt": "เรือขนส่งก๊าซธรรมชาติเหลวขนาดใหญ่กำลังแล่นในน่านน้ำเปิด ดาดฟ้ายาวเรียงรายด้วยโครงถังสินค้าหุ้มฉนวนขนาดใหญ่และท่อ ทิ้งร่องคลื่นไว้ภายใต้ท้องฟ้าแจ่มใส",
+        "subject": "เรือขนส่งก๊าซธรรมชาติเหลวประเภทที่ใช้ขนส่ง LNG ของมาเลเซียไปยังผู้ซื้อในต่างประเทศ"
+      },
+      {
+        "alt": "สถานีแปรรูปก๊าซบนบกขนาดใหญ่ที่มีหอกลั่นสูง ถังเก็บทรงกลมสีเงิน ปล่องเผาแก๊ส และโครงท่อหนาแน่น ตั้งอยู่บนพื้นที่ชายฝั่งที่ถางแล้วโดยมีเนินเขาอยู่ด้านหลัง",
+        "subject": "สถานีก๊าซซาบาห์ (SOGT) ที่กิมานิส รัฐซาบาห์ โรงแปรรูปก๊าซบนบกของปิโตรนาส"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah kapal pengangkut gas asli cecair yang besar sedang belayar di laut terbuka, dek panjangnya dipenuhi struktur tangki kargo bertebat yang besar dan paip, meninggalkan alur air di bawah langit cerah",
+        "subject": "Sebuah kapal pengangkut gas asli cecair jenis yang menghantar LNG Malaysia kepada pembeli luar negara"
+      },
+      {
+        "alt": "Sebuah terminal pemprosesan gas di darat yang luas dengan turus penyulingan tinggi, sfera simpanan perak, serombong suar dan jalinan paip yang padat, terletak di tanah pesisir yang diteroka dengan bukit di latar belakang",
+        "subject": "Terminal Minyak dan Gas Sabah (SOGT) di Kimanis, Sabah, sebuah kemudahan pemprosesan gas di darat milik Petronas"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah kapal pengangkut gas alam cair berukuran besar sedang berlayar di perairan terbuka, geladak panjangnya dipenuhi struktur tangki kargo berinsulasi besar dan jaringan pipa, meninggalkan jejak air di bawah langit cerah",
+        "subject": "Sebuah kapal pengangkut gas alam cair jenis yang mengirim LNG Malaysia ke pembeli luar negeri"
+      },
+      {
+        "alt": "Sebuah terminal pemrosesan gas darat yang luas dengan kolom distilasi tinggi, bola penyimpanan perak, cerobong suar, dan jalinan pipa yang rapat, berdiri di lahan pesisir yang telah dibuka dengan perbukitan di belakangnya",
+        "subject": "Terminal Minyak dan Gas Sabah (SOGT) di Kimanis, Sabah, sebuah fasilitas pemrosesan gas darat milik Petronas"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một con tàu chở khí thiên nhiên hóa lỏng lớn đang chạy trên vùng biển rộng, boong dài của nó xếp đầy những cấu trúc bồn chứa cách nhiệt lớn và hệ thống đường ống, để lại vệt nước dưới bầu trời quang đãng",
+        "subject": "Một tàu chở khí thiên nhiên hóa lỏng thuộc loại vận chuyển LNG của Malaysia đến các khách mua nước ngoài"
+      },
+      {
+        "alt": "Một nhà ga xử lý khí trên bờ trải rộng với những tháp chưng cất cao, các bồn chứa hình cầu màu bạc, ống đốt khí thừa và mạng lưới đường ống dày đặc, nằm trên khu đất ven biển đã phát quang với những ngọn đồi phía sau",
+        "subject": "Nhà ga Dầu khí Sabah (SOGT) tại Kimanis, Sabah, một cơ sở xử lý khí trên bờ của Petronas"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "திறந்த கடலில் பயணிக்கும் ஒரு பெரிய திரவமாக்கப்பட்ட இயற்கை எரிவாயு கப்பல், அதன் நீண்ட தளம் பெரிய வெப்பக்காப்பு சரக்குத் தொட்டி கட்டமைப்புகளாலும் குழாய்களாலும் நிரம்பி, தெளிவான வானத்தின் கீழ் நீர் அலையை விட்டுச் செல்கிறது",
+        "subject": "மலேசிய LNG-யை வெளிநாட்டு வாங்குநர்களுக்கு ஏற்றிச் செல்லும் வகையைச் சேர்ந்த ஒரு திரவமாக்கப்பட்ட இயற்கை எரிவாயு கப்பல்"
+      },
+      {
+        "alt": "உயரமான வடிகட்டல் கம்பங்கள், வெள்ளி நிற சேமிப்புக் கோளங்கள், எரிவாயு எரிப்புக் கழிகள் மற்றும் அடர்த்தியான குழாய் வலையமைப்புடன் கூடிய ஒரு பரந்து விரிந்த கரைவழி எரிவாயு பதப்படுத்தும் முனையம்; பின்னணியில் குன்றுகளுடன் திறந்த கடலோர நிலத்தில் அமைந்துள்ளது",
+        "subject": "சபா, கிமானிஸில் உள்ள சபா எண்ணெய் மற்றும் எரிவாயு முனையம் (SOGT), பெட்ரோனாஸின் ஒரு கரைவழி எரிவாயு பதப்படுத்தும் வசதி"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "खुले पानी पर चलता एक बड़ा तरलीकृत-प्राकृतिक-गैस वाहक जहाज़, जिसके लंबे डेक पर बड़े रोधित कार्गो-टैंक ढाँचे और पाइपलाइनें कतार में हैं, साफ़ आकाश के नीचे अपने पीछे लहर छोड़ता हुआ",
+        "subject": "तरलीकृत प्राकृतिक गैस का एक वाहक, जिस प्रकार का जहाज़ मलेशियाई LNG विदेशी खरीदारों तक पहुँचाता है"
+      },
+      {
+        "alt": "ऊँचे आसवन स्तंभों, चाँदी के भंडारण गोलों, फ्लेयर स्टैक और पाइपलाइनों के घने जाल वाला एक विशाल तटवर्ती गैस-प्रसंस्करण टर्मिनल, साफ़ की गई तटीय ज़मीन पर, पीछे पहाड़ियाँ",
+        "subject": "किमानिस, सबा स्थित सबा ऑयल एंड गैस टर्मिनल (SOGT), एक Petronas तटवर्ती गैस-प्रसंस्करण सुविधा"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "سفينة ناقلة كبيرة للغاز الطبيعي المُسال تمخر المياه المفتوحة، يصطفّ على سطحها الطويل هياكل خزّانات شحن معزولة كبيرة وأنابيب، تاركة أثراً في الماء تحت سماء صافية",
+        "subject": "ناقلة غاز طبيعي مُسال من النوع الذي يشحن LNG الماليزي إلى المشترين في الخارج"
+      },
+      {
+        "alt": "محطة برّية مترامية لمعالجة الغاز ذات أعمدة تقطير مرتفعة وكرات تخزين فضّية ومداخن شعلات وشبكة كثيفة من الأنابيب، أُقيمت على أرض ساحلية مُزالة أشجارها وخلفها تلال",
+        "subject": "محطة Sabah Oil and Gas Terminal (SOGT) في Kimanis، Sabah، وهي منشأة برّية لمعالجة الغاز تابعة لـ Petronas"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un gran buque de gas natural licuado navegando en mar abierto, con su larga cubierta flanqueada por grandes estructuras de tanques de carga aislados y tuberías, dejando una estela bajo un cielo despejado",
+        "subject": "un buque de gas natural licuado del tipo que transporta el GNL malasio a compradores del extranjero"
+      },
+      {
+        "alt": "Una extensa terminal terrestre de procesamiento de gas con altas columnas de destilación, esferas de almacenamiento plateadas, antorchas y una densa trama de tuberías, en un terreno costero despejado con colinas al fondo",
+        "subject": "la terminal de petróleo y gas de Sabah (SOGT) en Kimanis, Sabah, una instalación terrestre de procesamiento de gas de Petronas"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un grand méthanier naviguant en haute mer, son long pont bordé de grandes structures de cuves de cargaison isolées et de tuyauteries, laissant un sillage sous un ciel dégagé",
+        "subject": "un méthanier du type de ceux qui acheminent le GNL malaisien vers les acheteurs étrangers"
+      },
+      {
+        "alt": "Un vaste terminal terrestre de traitement du gaz avec de hautes colonnes de distillation, des sphères de stockage argentées, des torchères et un dense réseau de tuyauteries, sur un terrain côtier défriché avec des collines en arrière-plan",
+        "subject": "le terminal pétrolier et gazier de Sabah (SOGT) à Kimanis, Sabah, une installation terrestre de traitement du gaz de Petronas"
+      }
+    ]
+  },
+  "energy/renewable-energy-in-malaysia": {
+    "zh": [
+      {
+        "alt": "一片开辟出的草地上,成排深蓝色太阳能光伏板架设在低矮的金属支架上,有围栏,向远处的树线延伸,晴朗的蓝天上飘着零散的云",
+        "subject": "沙巴双溪双溪一座地面安装的太阳能光伏电场,为乡村电网发电"
+      },
+      {
+        "alt": "一座弧形大坝将绿色水库拦蓄于林木覆盖的群山之间,坝面设有溢洪道与取水结构,周围山坡覆盖着茂密的热带丛林",
+        "subject": "吉兰丹的柏高水电站与水库,马来西亚半岛的一座可再生水电工程"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "切り開かれた草地に、低い金属フレームに載った濃紺の太陽光パネルが長い列をなして並び、フェンスで囲まれ、遠くの林縁まで続く。青空には雲が点在する",
+        "subject": "サバ州スンガイ・スンガイの地上設置型太陽光発電所。農村の送電網に電力を供給する"
+      },
+      {
+        "alt": "森に覆われた山々の間に緑色の貯水池をせき止める湾曲したダム。ダム面には洪水吐きと取水設備があり、周囲の斜面は深い熱帯のジャングルに覆われる",
+        "subject": "クランタン州のプルガウ水力発電ダムと貯水池。半島マレーシアの再生可能な水力発電事業"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "개간된 풀밭에 낮은 금속 프레임에 얹힌 짙은 남색 태양광 패널이 길게 줄지어 서 있고 울타리가 둘러쳐져 먼 숲 가장자리까지 이어진다. 파란 하늘에 구름이 흩어져 있다",
+        "subject": "사바주 숭아이숭아이의 지상 설치형 태양광 발전소. 농촌 전력망에 전기를 공급한다"
+      },
+      {
+        "alt": "숲으로 덮인 산들 사이로 초록빛 저수지를 막아 세운 곡선형 댐. 댐면에 여수로와 취수 구조물이 있고 주위 비탈은 울창한 열대 정글로 덮여 있다",
+        "subject": "켈란탄주의 페르가우 수력발전 댐과 저수지. 반도 말레이시아의 재생 수력발전 사업"
+      }
+    ],
+    "th": [
+      {
+        "alt": "แผงโซลาร์เซลล์สีน้ำเงินเข้มเรียงเป็นแถวยาวบนโครงเหล็กเตี้ยทั่วทุ่งหญ้าที่ถางแล้ว มีรั้วล้อมและทอดยาวไปจนถึงแนวต้นไม้ไกล ๆ ภายใต้ท้องฟ้าสีครามสดใสที่มีเมฆกระจาย",
+        "subject": "ฟาร์มโซลาร์เซลล์ติดตั้งบนพื้นที่ซูไงซูไง รัฐซาบาห์ ผลิตไฟฟ้าให้โครงข่ายในชนบท"
+      },
+      {
+        "alt": "เขื่อนโค้งกักอ่างเก็บน้ำสีเขียวไว้ท่ามกลางเนินเขาปกคลุมด้วยป่า มีทางระบายน้ำล้นและอาคารรับน้ำที่หน้าเขื่อน รายล้อมด้วยป่าดิบเขตร้อนหนาทึบตามไหล่เขา",
+        "subject": "เขื่อนไฟฟ้าพลังน้ำเปอร์เกาและอ่างเก็บน้ำในรัฐกลันตัน โครงการพลังน้ำหมุนเวียนในมาเลเซียคาบสมุทร"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Barisan panjang panel fotovolta suria biru gelap di atas rangka logam rendah merentasi padang berumput yang diteroka, berpagar dan terbentang ke arah barisan pokok yang jauh di bawah langit biru cerah berawan berselerak",
+        "subject": "Sebuah ladang fotovolta suria dipasang di tanah di Sungai-Sungai, Sabah, menjana elektrik untuk grid luar bandar"
+      },
+      {
+        "alt": "Sebuah empangan melengkung menahan takungan hijau di antara bukit berhutan, dengan saluran limpah dan struktur pengambilan di mukanya serta hutan tropika tebal menyelubungi lereng di sekeliling",
+        "subject": "Empangan dan takungan hidroelektrik Pergau di Kelantan, sebuah skim hidrokuasa boleh baharu di Semenanjung Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Barisan panjang panel fotovoltaik surya biru tua di atas rangka logam rendah melintasi lapangan berumput yang telah dibuka, berpagar dan membentang ke arah deretan pohon di kejauhan di bawah langit biru cerah dengan awan yang tersebar",
+        "subject": "Sebuah ladang fotovoltaik surya terpasang di tanah di Sungai-Sungai, Sabah, membangkitkan listrik untuk jaringan pedesaan"
+      },
+      {
+        "alt": "Sebuah bendungan melengkung yang menahan waduk berwarna hijau di antara perbukitan berhutan, dengan saluran pelimpah dan struktur pengambilan air di mukanya serta hutan tropis lebat yang menyelimuti lereng di sekelilingnya",
+        "subject": "Bendungan dan waduk pembangkit listrik tenaga air Pergau di Kelantan, sebuah skema tenaga air terbarukan di Semenanjung Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những hàng dài tấm pin quang điện mặt trời màu xanh thẫm trên các khung kim loại thấp trải khắp một bãi cỏ đã phát quang, được rào lại và kéo dài về phía hàng cây xa xa dưới bầu trời xanh trong với mây rải rác",
+        "subject": "Một trang trại điện mặt trời lắp trên mặt đất ở Sungai-Sungai, Sabah, phát điện cho lưới điện nông thôn"
+      },
+      {
+        "alt": "Một con đập cong giữ lại hồ chứa màu xanh giữa những ngọn đồi rừng, với một kênh xả tràn và các công trình lấy nước ở mặt đập cùng rừng nhiệt đới rậm rạp phủ kín các sườn dốc xung quanh",
+        "subject": "Đập và hồ chứa thủy điện Pergau ở Kelantan, một dự án thủy điện tái tạo ở Bán đảo Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "திறந்த புல்வெளியில் தாழ்வான உலோக சட்டங்களில் அமைந்த கரு நீல சூரிய ஒளிமின்னழுத்தப் பலகைகளின் நீண்ட வரிசைகள், வேலியிடப்பட்டு, சிதறிய மேகங்களுடன் கூடிய தெளிந்த நீல வானத்தின் கீழ் தொலைவில் உள்ள மரவரிசையை நோக்கி நீண்டுள்ளது",
+        "subject": "சபா, சுங்கை-சுங்கையில் தரையில் நிறுவப்பட்ட ஒரு சூரிய ஒளிமின்னழுத்தப் பண்ணை, கிராமப்புற மின்வலையமைப்புக்கு மின்சாரம் உற்பத்தி செய்கிறது"
+      },
+      {
+        "alt": "காடுசூழ் குன்றுகளுக்கு இடையே ஒரு பசுமையான நீர்த்தேக்கத்தைத் தடுத்து நிறுத்தும் ஒரு வளைந்த அணை, அதன் முகப்பில் ஒரு நீர்வழிந்தோடும் கால்வாயும் நீரெடுப்புக் கட்டமைப்புகளும், மற்றும் சுற்றியுள்ள சரிவுகளை மூடியிருக்கும் அடர்ந்த வெப்பமண்டலக் காடு",
+        "subject": "கிளாந்தானில் உள்ள பெர்காவ் நீர்மின் அணை மற்றும் நீர்த்தேக்கம், தீபகற்ப மலேசியாவில் ஒரு புதுப்பிக்கத்தக்க நீர்மின் திட்டம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "साफ़ किए गए घास के मैदान में नीची धातु फ्रेमों पर गहरे-नीले सौर फोटोवोल्टिक पैनलों की लंबी कतारें, बाड़ से घिरी और दूर की पेड़-कतार की ओर फैली हुई, छिटपुट बादलों वाले चमकीले नीले आकाश के नीचे",
+        "subject": "सबा के सुंगई-सुंगई में ज़मीन पर लगा एक सौर फोटोवोल्टिक फार्म, ग्रामीण ग्रिड के लिए बिजली उत्पन्न करता हुआ"
+      },
+      {
+        "alt": "वनाच्छादित पहाड़ियों के बीच एक हरे जलाशय को रोकता एक घुमावदार बाँध, जिसके मुख पर एक स्पिलवे चैनल और प्रवेश-संरचनाएँ हैं, और आसपास की ढलानों को ढकता घना उष्णकटिबंधीय जंगल",
+        "subject": "केलंतान में पेरगाउ जलविद्युत बाँध और जलाशय, प्रायद्वीपीय मलेशिया की एक नवीकरणीय जलविद्युत परियोजना"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "صفوف طويلة من الألواح الكهروضوئية الزرقاء الداكنة على هياكل معدنية منخفضة عبر حقل عشبي مُزال، مسيّجة وممتدّة نحو خطّ أشجار بعيد تحت سماء زرقاء مشرقة تتناثر فيها الغيوم",
+        "subject": "مزرعة طاقة شمسية كهروضوئية مثبّتة على الأرض في Sungai-Sungai، Sabah، تولّد الكهرباء للشبكة الريفية"
+      },
+      {
+        "alt": "سدّ مقوّس يحجز خزّاناً أخضر بين تلال مكسوّة بالغابات، وفي واجهته قناة تصريف ومنشآت سحب، وتغطّي أدغال استوائية كثيفة المنحدرات المحيطة",
+        "subject": "سدّ وخزّان Pergau الكهرومائي في Kelantan، مشروع طاقة مائية متجددة في شبه جزيرة ماليزيا"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Largas hileras de paneles solares fotovoltaicos de color azul oscuro sobre bastidores metálicos bajos a lo largo de un campo de hierba despejado, vallado y extendiéndose hacia una lejana línea de árboles bajo un cielo azul luminoso con nubes dispersas",
+        "subject": "una planta solar fotovoltaica montada en suelo en Sungai-Sungai, Sabah, que genera electricidad para la red rural"
+      },
+      {
+        "alt": "Una presa curva que retiene un embalse verde entre colinas boscosas, con un canal aliviadero y estructuras de toma en su paramento, y densa selva tropical cubriendo las laderas circundantes",
+        "subject": "la presa y el embalse hidroeléctricos de Pergau en Kelantan, un proyecto de energía hidroeléctrica renovable de la Malasia peninsular"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "De longues rangées de panneaux solaires photovoltaïques bleu foncé sur de bas châssis métalliques à travers un champ herbeux défriché, clôturé et s'étendant vers une lointaine lisière d'arbres sous un ciel bleu lumineux parsemé de nuages",
+        "subject": "une centrale solaire photovoltaïque au sol à Sungai-Sungai, Sabah, produisant de l'électricité pour le réseau rural"
+      },
+      {
+        "alt": "Un barrage incurvé retenant un réservoir vert parmi des collines boisées, avec un canal d'évacuation de crue et des ouvrages de prise d'eau sur son parement, et une dense jungle tropicale couvrant les versants environnants",
+        "subject": "le barrage et le réservoir hydroélectriques de Pergau à Kelantan, un projet d'hydroélectricité renouvelable de la Malaisie péninsulaire"
+      }
+    ]
+  },
+  "energy/sarawak-energy-berhad": {
+    "zh": [
+      {
+        "alt": "一道巨大的混凝土面板水电大坝坝墙沿着河谷峡谷倾泻而下,坝底设有阶梯式溢洪道与发电厂房,四周环绕着开辟出的山坡与雨林覆盖的群山",
+        "subject": "砂拉越巴贡水电站,位于该州电力系统核心的巨型混凝土面板堆石坝"
+      },
+      {
+        "alt": "一座高大的混凝土大坝横跨河谷,设有溢洪闸门与坝顶道路,一侧是深绿色的水库,四周耸立着林木覆盖的群山",
+        "subject": "砂拉越内陆的慕伦水电站,该州梯级水电站群的一部分"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "川の峡谷へと下る巨大なコンクリート表面遮水型の水力発電ダムの壁。基部には階段状の洪水吐きと発電所があり、切り開かれた斜面と熱帯雨林に覆われた丘に囲まれる",
+        "subject": "サラワク州のバクン水力発電ダム。州の電力系統の中核をなす巨大なコンクリート表面遮水型ロックフィルダム"
+      },
+      {
+        "alt": "川の谷を横切って立つ高いコンクリートダム。洪水吐きのゲートと堤頂道路を備え、片側には深い緑色の貯水池が広がり、周囲には森に覆われた山々がそびえる",
+        "subject": "サラワク州内陸のムルム水力発電ダム。州の梯状の水力発電ダム群の一つ"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "강 협곡으로 내려가는 거대한 콘크리트 차수벽형 수력발전 댐 벽. 하단에 계단식 여수로와 발전소가 있고 개간된 비탈과 열대우림으로 덮인 언덕에 둘러싸여 있다",
+        "subject": "사라왁주 바쿤 수력발전 댐. 주 전력계통의 중심에 자리한 거대한 콘크리트 차수벽형 석괴댐"
+      },
+      {
+        "alt": "강 계곡을 가로질러 선 높은 콘크리트 댐. 여수로 수문과 댐마루 도로를 갖추고 한쪽에 짙은 초록빛 저수지가 펼쳐지며 주위로 숲에 덮인 산들이 솟아 있다",
+        "subject": "사라왁주 내륙의 무룸 수력발전 댐. 주의 계단식 수력발전 댐 연쇄의 일부"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ผนังเขื่อนไฟฟ้าพลังน้ำดาดคอนกรีตขนาดมหึมาลาดลงสู่หุบเขาลำน้ำ มีทางระบายน้ำล้นแบบขั้นบันไดและโรงไฟฟ้าอยู่ที่ฐาน ล้อมรอบด้วยไหล่เขาที่ถางแล้วและเนินเขาปกคลุมด้วยป่าฝน",
+        "subject": "เขื่อนไฟฟ้าพลังน้ำบากุนในรัฐซาราวัก เขื่อนหินถมดาดคอนกรีตขนาดยักษ์ที่เป็นหัวใจของระบบไฟฟ้าของรัฐ"
+      },
+      {
+        "alt": "เขื่อนคอนกรีตสูงพาดข้ามหุบเขาลำน้ำ มีประตูระบายน้ำล้นและถนนสันเขื่อน น้ำในอ่างเก็บสีเขียวเข้มอยู่ด้านหนึ่ง และมีภูเขาปกคลุมด้วยป่าตั้งตระหง่านโดยรอบ",
+        "subject": "เขื่อนไฟฟ้าพลังน้ำมูรุมในแผ่นดินตอนในของรัฐซาราวัก ส่วนหนึ่งของเขื่อนพลังน้ำแบบขั้นบันไดของรัฐ"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Dinding empangan hidroelektrik bermuka konkrit yang gergasi menurun ke dalam gaung sungai, dengan saluran limpah berperingkat dan rumah jana kuasa di dasarnya, dikelilingi lereng yang diteroka dan bukit berselaput hutan hujan",
+        "subject": "Empangan hidroelektrik Bakun di Sarawak, empangan isian batu bermuka konkrit gergasi yang menjadi teras sistem kuasa negeri itu"
+      },
+      {
+        "alt": "Sebuah empangan konkrit tinggi merentangi lembah sungai dengan pintu air limpah dan jalan di puncaknya, air takungan hijau pekat di satu sisi dan gunung berhutan menjulang di sekeliling",
+        "subject": "Empangan hidroelektrik Murum di pedalaman Sarawak, sebahagian daripada rangkaian empangan hidrokuasa negeri itu"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Dinding bendungan pembangkit listrik tenaga air bermuka beton yang masif menurun ke dalam ngarai sungai, dengan pelimpah bertingkat dan rumah pembangkit di dasarnya, dikelilingi lereng yang telah dibuka dan perbukitan berselimut hutan hujan",
+        "subject": "Bendungan pembangkit listrik tenaga air Bakun di Sarawak, bendungan urugan batu bermuka beton raksasa yang menjadi inti sistem kelistrikan negara bagian itu"
+      },
+      {
+        "alt": "Sebuah bendungan beton tinggi membentang di lembah sungai dengan pintu pelimpah dan jalan di puncaknya, air waduk hijau pekat di satu sisi dan pegunungan berhutan menjulang di sekelilingnya",
+        "subject": "Bendungan pembangkit listrik tenaga air Murum di pedalaman Sarawak, bagian dari rangkaian bertingkat bendungan tenaga air negara bagian itu"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một bức tường đập thủy điện mặt bê tông đồ sộ đổ xuống một hẻm núi sông, với một đập tràn bậc thang và nhà máy điện ở chân đập, bao quanh là những sườn dốc đã phát quang và những ngọn đồi phủ rừng mưa nhiệt đới",
+        "subject": "Đập thủy điện Bakun ở Sarawak, con đập đá đổ mặt bê tông khổng lồ ở trung tâm hệ thống điện của bang"
+      },
+      {
+        "alt": "Một con đập bê tông cao bắc ngang một thung lũng sông với các cửa xả tràn và một tuyến đường trên đỉnh đập, nước hồ chứa xanh thẫm ở một bên và những ngọn núi rừng nhô lên xung quanh",
+        "subject": "Đập thủy điện Murum ở vùng nội địa Sarawak, một phần trong chuỗi đập thủy điện bậc thang của bang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஒரு ஆற்றுப் பள்ளத்தாக்கிற்குள் இறங்கும் ஒரு மாபெரும் கான்கிரீட் முக நீர்மின் அணைச் சுவர், அதன் அடிப்பகுதியில் ஒரு படிநிலை நீர்வழிப்பாதையும் மின் உற்பத்தி கூடமும், சுற்றிலும் திறக்கப்பட்ட சரிவுகளும் மழைக்காடு மூடிய குன்றுகளும்",
+        "subject": "சரவாக்கில் உள்ள பகுன் நீர்மின் அணை, மாநிலத்தின் மின் அமைப்பின் மையமாக விளங்கும் ஒரு பிரம்மாண்டமான கான்கிரீட் முக பாறை நிரப்பு அணை"
+      },
+      {
+        "alt": "நீர்வழிப் பாதை வாயில்களும் உச்சியில் ஒரு சாலையும் கொண்டு ஒரு ஆற்றுப் பள்ளத்தாக்கை குறுக்காக அமைக்கப்பட்ட ஒரு உயரமான கான்கிரீட் அணை, ஒரு பக்கத்தில் கடும் பச்சை நிற நீர்த்தேக்க நீர், சுற்றிலும் காடுசூழ் மலைகள் எழும்புகின்றன",
+        "subject": "சரவாக் உள்நாட்டில் உள்ள முரும் நீர்மின் அணை, மாநிலத்தின் படிநிலை நீர்மின் அணைத் தொடரின் ஒரு பகுதி"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक नदी घाटी में उतरती एक विशाल कंक्रीट-मुख जलविद्युत बाँध दीवार, जिसके आधार पर एक सीढ़ीदार स्पिलवे और पावरहाउस है, साफ़ की गई ढलानों और वर्षावन से ढकी पहाड़ियों से घिरी",
+        "subject": "सरवाक में बाकुन जलविद्युत बाँध, राज्य की बिजली प्रणाली के केंद्र में स्थित विशाल कंक्रीट-मुख रॉकफिल बाँध"
+      },
+      {
+        "alt": "एक नदी घाटी के आर-पार बना एक ऊँचा कंक्रीट बाँध, जिसमें स्पिलवे गेट और शिखर पर एक सड़क है, एक ओर गहरा हरा जलाशय जल और चारों ओर उठती वनाच्छादित पहाड़ियाँ",
+        "subject": "सरवाक के भीतरी इलाके में मुरुम जलविद्युत बाँध, राज्य के जलविद्युत बाँधों की शृंखला का हिस्सा"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "جدار سدّ كهرومائي ضخم ذو واجهة خرسانية ينحدر إلى مضيق نهري، مع مسيل تصريف مدرَّج ومحطة توليد عند قاعدته، تحيط به منحدرات مُزالة أشجارها وتلال مكسوّة بالغابات المطيرة",
+        "subject": "سدّ Bakun الكهرومائي في Sarawak، السدّ الركامي العملاق ذو الواجهة الخرسانية في قلب نظام الطاقة في الولاية"
+      },
+      {
+        "alt": "سدّ خرساني مرتفع يمتدّ عبر وادٍ نهري ببوابات تصريف وطريق على قمّته، مياه خزّان خضراء داكنة على أحد جانبيه وجبال مكسوّة بالغابات ترتفع في كل اتجاه",
+        "subject": "سدّ Murum الكهرومائي في داخل Sarawak، جزء من سلسلة سدود الطاقة المائية في الولاية"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un enorme muro de presa hidroeléctrica con cara de hormigón que desciende hacia un desfiladero fluvial, con un aliviadero escalonado y una central al pie, rodeado de laderas despejadas y colinas cubiertas de selva tropical",
+        "subject": "la presa hidroeléctrica de Bakun en Sarawak, la gigantesca presa de escollera con cara de hormigón en el corazón del sistema eléctrico del estado"
+      },
+      {
+        "alt": "Una alta presa de hormigón que atraviesa un valle fluvial con compuertas de aliviadero y una carretera en la coronación, agua de embalse verde oscuro a un lado y montañas boscosas alzándose por todas partes",
+        "subject": "la presa hidroeléctrica de Murum en el interior de Sarawak, parte de la cascada de presas hidroeléctricas del estado"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un immense mur de barrage hydroélectrique à masque de béton descendant dans une gorge fluviale, avec un évacuateur de crue en gradins et une centrale à sa base, entouré de versants défrichés et de collines couvertes de forêt tropicale",
+        "subject": "le barrage hydroélectrique de Bakun à Sarawak, le gigantesque barrage en enrochement à masque de béton au cœur du système électrique de l'État"
+      },
+      {
+        "alt": "Un haut barrage en béton barrant une vallée fluviale, avec des vannes d'évacuation et une route de crête, une eau de réservoir vert foncé d'un côté et des montagnes boisées s'élevant tout autour",
+        "subject": "le barrage hydroélectrique de Murum dans l'intérieur de Sarawak, qui fait partie de la cascade de barrages hydroélectriques de l'État"
+      }
+    ]
+  },
+  "energy/tnb-tenaga-nasional": {
+    "zh": [
+      {
+        "alt": "一栋TNB品牌办公楼,外墙印有Tenaga Nasional名称与标志,前方有绿化景观与停车场,晴朗的蓝天",
+        "subject": "吉打亚罗士打一座国家能源有限公司(TNB)办公楼,国家电力公司的州级服务建筑之一"
+      },
+      {
+        "alt": "钢制格构输电塔架着高压电缆,沿着一座长桥跨越宽阔的海峡列队前行,远处是岛屿与大陆的山丘",
+        "subject": "TNB高压输电塔架着电缆,沿槟城大桥跨越海峡通往加占波岛"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "外壁にTenaga Nasionalの名称とロゴを掲げたTNBブランドのオフィスビル。前面には緑地の造園と駐車場があり、青空が広がる",
+        "subject": "ケダ州アロースターのテナガ・ナショナル(TNB)のオフィス。国営電力会社の州サービス施設の一つ"
+      },
+      {
+        "alt": "高圧ケーブルを張った鋼製鉄塔が、長い道路橋に沿って広い海峡を横切って連なり、遠くに島と本土の丘が見える",
+        "subject": "ペナン大橋に沿ってガザンボ島へと海峡を横切るTNBの高圧送電鉄塔"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "외벽에 Tenaga Nasional 이름과 로고를 내건 TNB 브랜드 사무용 건물. 앞쪽에 조경된 녹지와 주차장이 있고 파란 하늘이 펼쳐진다",
+        "subject": "케다주 알로르스타르의 테나가 나시오날(TNB) 사무소. 국영 전력회사의 주 단위 서비스 건물 중 하나"
+      },
+      {
+        "alt": "고압 케이블을 건 철골 송전탑이 긴 도로 교량을 따라 넓은 해협을 가로질러 늘어서 있고 멀리 섬과 본토의 언덕이 보인다",
+        "subject": "페낭대교를 따라 가줌보섬으로 해협을 가로지르는 TNB 고압 송전탑"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารสำนักงานแบรนด์ TNB ที่มีชื่อ Tenaga Nasional และโลโก้อยู่บนด้านหน้าอาคาร มีสวนจัดภูมิทัศน์และลานจอดรถด้านหน้า ภายใต้ท้องฟ้าสีครามสดใส",
+        "subject": "สำนักงานเตอนากานาซีอองนัล (TNB) ที่อาโลร์เซอตาร์ รัฐเกอดะฮ์ หนึ่งในอาคารบริการระดับรัฐของการไฟฟ้าแห่งชาติ"
+      },
+      {
+        "alt": "เสาส่งไฟฟ้าโครงเหล็กขึงสายไฟแรงสูงเรียงรายข้ามช่องแคบทะเลกว้างเลียบสะพานถนนยาว โดยมีเกาะและเนินเขาแผ่นดินใหญ่อยู่ไกล ๆ",
+        "subject": "เสาส่งไฟฟ้าแรงสูงของ TNB ขึงสายไฟข้ามช่องแคบเลียบสะพานปีนังไปยังเกาะกาซุมโบ"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah bangunan pejabat berjenama TNB yang memaparkan nama dan logo Tenaga Nasional pada fasadnya, dengan kawasan hadapan berlandskap dan tempat letak kereta di bawah langit biru cerah",
+        "subject": "Sebuah pejabat Tenaga Nasional Berhad (TNB) di Alor Setar, Kedah, salah satu bangunan perkhidmatan negeri utiliti nasional itu"
+      },
+      {
+        "alt": "Menara penghantaran elektrik kekisi keluli yang disambung dengan kabel voltan tinggi merentasi selat laut yang luas di sebelah sebuah jambatan jalan raya yang panjang, dengan sebuah pulau dan bukit tanah besar di kejauhan",
+        "subject": "Menara penghantaran voltan tinggi TNB membawa talian kuasa merentasi selat di sebelah Jambatan Pulau Pinang ke arah Pulau Gazumbo"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah gedung kantor bermerek TNB yang menampilkan nama dan logo Tenaga Nasional pada fasadnya, dengan halaman depan bertaman dan tempat parkir di bawah langit biru cerah",
+        "subject": "Sebuah kantor Tenaga Nasional Berhad (TNB) di Alor Setar, Kedah, salah satu gedung layanan negara bagian perusahaan utilitas nasional itu"
+      },
+      {
+        "alt": "Menara transmisi listrik rangka baja yang direntangi kabel tegangan tinggi membentang melintasi selat laut yang lebar di samping sebuah jembatan jalan raya yang panjang, dengan sebuah pulau dan perbukitan daratan utama di kejauhan",
+        "subject": "Menara transmisi tegangan tinggi TNB yang membawa saluran listrik melintasi selat di samping Jembatan Penang menuju Pulau Gazumbo"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một tòa nhà văn phòng mang thương hiệu TNB với tên và logo Tenaga Nasional trên mặt tiền, có khuôn viên phía trước được cảnh quan hóa và bãi đỗ xe dưới bầu trời xanh trong",
+        "subject": "Một văn phòng Tenaga Nasional Berhad (TNB) ở Alor Setar, Kedah, một trong những tòa nhà dịch vụ cấp bang của công ty điện lực quốc gia"
+      },
+      {
+        "alt": "Những cột truyền tải điện bằng khung thép mắc cáp điện cao thế nối nhau băng qua một eo biển rộng dọc theo một cây cầu đường bộ dài, với một hòn đảo và những ngọn đồi đất liền ở phía xa",
+        "subject": "Những cột truyền tải điện cao thế của TNB đưa đường dây điện băng qua eo biển bên cạnh Cầu Penang hướng về Pulau Gazumbo"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "முகப்பில் தெனாகா நேசனல் பெயரையும் சின்னத்தையும் தாங்கிய ஒரு TNB அலுவலகக் கட்டிடம், தெளிந்த நீல வானத்தின் கீழ் நிலக்காட்சி அமைக்கப்பட்ட முன்பகுதியும் கார் நிறுத்துமிடமும் கொண்டது",
+        "subject": "கெடா, அலோர் ஸ்டார்-ல் உள்ள ஒரு தெனாகா நேசனல் பெர்ஹாட் (TNB) அலுவலகம், தேசிய மின் நிறுவனத்தின் மாநில சேவைக் கட்டிடங்களில் ஒன்று"
+      },
+      {
+        "alt": "உயர் மின்னழுத்தக் கம்பிகளால் இணைக்கப்பட்ட எஃகு சட்ட மின்கடத்து கோபுரங்கள் ஒரு நீண்ட சாலைப் பாலத்தின் அருகே அகலமான கடல் நீரிணையைக் கடந்து செல்கின்றன; தொலைவில் ஒரு தீவும் பிரதான நிலப்பகுதிக் குன்றுகளும்",
+        "subject": "பினாங் பாலத்தின் அருகே உள்ள நீரிணையைக் கடந்து புலாவ் கசும்போவை நோக்கி மின் கம்பிகளைச் சுமந்து செல்லும் TNB உயர் மின்னழுத்த மின்கடத்து கோபுரங்கள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "अपने अग्रभाग पर Tenaga Nasional नाम और लोगो वाली एक TNB कार्यालय इमारत, भूदृश्य-सज्जित अग्रभाग और पार्किंग के साथ, चमकीले नीले आकाश के नीचे",
+        "subject": "केदाह के अलोर सेतार में एक Tenaga Nasional Berhad (TNB) कार्यालय, राष्ट्रीय उपयोगिता की राज्य सेवा इमारतों में से एक"
+      },
+      {
+        "alt": "एक लंबे सड़क पुल के साथ-साथ एक चौड़े समुद्री जलमार्ग के आर-पार उच्च-वोल्टेज केबलों से जुड़े स्टील जालीदार बिजली ट्रांसमिशन टावर, दूरी में एक द्वीप और मुख्य भूमि की पहाड़ियाँ",
+        "subject": "पिनांग ब्रिज के पास जलमार्ग के आर-पार पुलाउ गाज़ुम्बो की ओर बिजली लाइनें ले जाते TNB उच्च-वोल्टेज ट्रांसमिशन टावर"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مبنى مكاتب بعلامة TNB يحمل اسم Tenaga Nasional وشعارها على واجهته، بواجهة منسّقة الحدائق وموقف سيارات تحت سماء زرقاء مشرقة",
+        "subject": "مكتب لشركة Tenaga Nasional Berhad (TNB) في Alor Setar، Kedah، أحد مباني الخدمة التابعة للمرفق الوطني في الولاية"
+      },
+      {
+        "alt": "أبراج نقل كهرباء شبكية فولاذية مشدودة بكابلات عالية الجهد تمتدّ عبر ممرّ بحري واسع بمحاذاة جسر طرقي طويل، مع جزيرة وتلال البرّ الرئيسي في البعيد",
+        "subject": "أبراج نقل عالية الجهد لـ TNB تحمل خطوط الكهرباء عبر الممرّ المائي بجانب جسر Penang باتجاه Pulau Gazumbo"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un edificio de oficinas de marca TNB que luce el nombre y el logotipo de Tenaga Nasional en su fachada, con un frente ajardinado y aparcamiento bajo un cielo azul luminoso",
+        "subject": "una oficina de Tenaga Nasional Berhad (TNB) en Alor Setar, Kedah, uno de los edificios de servicio estatal de la empresa eléctrica nacional"
+      },
+      {
+        "alt": "Torres de transmisión eléctrica de celosía de acero tendidas con cables de alta tensión que avanzan a través de un ancho canal marino junto a un largo puente de carretera, con una isla y colinas del continente a lo lejos",
+        "subject": "torres de transmisión de alta tensión de TNB que llevan líneas eléctricas a través del canal junto al Puente de Penang hacia Pulau Gazumbo"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un immeuble de bureaux de marque TNB portant le nom et le logo de Tenaga Nasional sur sa façade, avec un parvis paysager et un parking sous un ciel bleu lumineux",
+        "subject": "un bureau de Tenaga Nasional Berhad (TNB) à Alor Setar, Kedah, l'un des bâtiments de service de l'opérateur électrique national dans l'État"
+      },
+      {
+        "alt": "Des pylônes électriques en treillis d'acier tendus de câbles à haute tension traversant un large chenal maritime le long d'un long pont routier, avec une île et les collines du continent au loin",
+        "subject": "des pylônes de transport à haute tension de TNB portant des lignes électriques à travers le chenal près du pont de Penang vers Pulau Gazumbo"
+      }
+    ]
+  },
+  "companies/capital-a-and-airasia": {
+    "zh": [
+      {
+        "alt": "一架亚航空客A320窄体客机,机身沿途印有airasia字样并涂着特别纪念涂装,停在浮罗交怡机场停机坪上,天空晴朗",
+        "subject": "一架亚航空客A320(马来西亚注册号9M-AQH)以特别纪念涂装停在浮罗交怡国际机场"
+      },
+      {
+        "alt": "红色涂装的亚航客机在吉隆坡国际机场klia2廉价航站楼的登机口排列,长长的航站楼与登机廊桥沿停机坪延伸,热带天空下",
+        "subject": "亚航客机停在klia2,即吉隆坡国际机场的廉价航空航站楼,也是该航空公司在马来西亚的主要枢纽"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "機体にairasiaの文字を記し特別記念塗装をまとったエアアジアのエアバスA320ナローボディ機が、晴れた空の下、ランカウイ空港のエプロンに駐機する",
+        "subject": "特別記念塗装をまとったエアアジアのエアバスA320(マレーシア登録記号9M-AQH)がランカウイ国際空港に駐機"
+      },
+      {
+        "alt": "赤い塗装のエアアジア機がklia2格安航空ターミナルの搭乗ゲートに並び、長いターミナル建屋とボーディングブリッジが熱帯の空の下、エプロンに沿って延びる",
+        "subject": "クアラルンプール国際空港の格安航空ターミナルklia2に駐機するエアアジア機。同社のマレーシアの主要拠点"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "동체에 airasia 글자를 새기고 특별 기념 도장을 입힌 에어아시아 에어버스 A320 협동체기가 맑은 하늘 아래 랑카위 공항 계류장에 서 있다",
+        "subject": "특별 기념 도장을 입힌 에어아시아 에어버스 A320(말레이시아 등록기호 9M-AQH)이 랑카위 국제공항에 서 있는 모습"
+      },
+      {
+        "alt": "빨간 도장의 에어아시아 항공기들이 klia2 저비용항공사 터미널 탑승 게이트에 늘어서 있고, 긴 터미널 건물과 탑승교가 열대 하늘 아래 계류장을 따라 뻗어 있다",
+        "subject": "쿠알라룸푸르 국제공항 저비용항공사 터미널 klia2에 서 있는 에어아시아 항공기. 이 항공사의 말레이시아 주요 허브"
+      }
+    ],
+    "th": [
+      {
+        "alt": "เครื่องบินลำตัวแคบแอร์บัส A320 ของแอร์เอเชียในลวดลายที่ระลึกพิเศษ มีตัวอักษร airasia พาดตามลำตัว จอดอยู่บนลานจอดที่ท่าอากาศยานลังกาวีภายใต้ท้องฟ้าแจ่มใส",
+        "subject": "เครื่องบินแอร์บัส A320 ของแอร์เอเชีย (ทะเบียนมาเลเซีย 9M-AQH) ในลวดลายที่ระลึกพิเศษ ที่ท่าอากาศยานนานาชาติลังกาวี"
+      },
+      {
+        "alt": "เครื่องบินแอร์เอเชียลวดลายสีแดงจอดเรียงรายที่ประตูขึ้นเครื่องของอาคารสายการบินต้นทุนต่ำ klia2 อาคารผู้โดยสารยาวและงวงช้างทอดไปตามลานจอดภายใต้ท้องฟ้าเขตร้อน",
+        "subject": "เครื่องบินแอร์เอเชียที่ klia2 อาคารสายการบินต้นทุนต่ำของท่าอากาศยานนานาชาติกัวลาลัมเปอร์ และเป็นฐานหลักของสายการบินในมาเลเซีย"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah jet badan sempit Airbus A320 AirAsia berlivery peringatan khas dengan tulisan airasia di sepanjang fiuslaj, berada di apron Lapangan Terbang Langkawi di bawah langit cerah",
+        "subject": "Sebuah Airbus A320 AirAsia (pendaftaran Malaysia 9M-AQH) dengan livery peringatan khas di Lapangan Terbang Antarabangsa Langkawi"
+      },
+      {
+        "alt": "Pesawat AirAsia berlivery merah berbaris di pintu kenaikan pesawat terminal penerbangan tambang murah klia2, bangunan terminal yang panjang dan jambatan udara terbentang di sepanjang apron di bawah langit tropika",
+        "subject": "Pesawat AirAsia di klia2, terminal penerbangan tambang murah Lapangan Terbang Antarabangsa Kuala Lumpur dan hab utama syarikat penerbangan itu di Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah jet berbadan sempit Airbus A320 AirAsia bercorak livery peringatan khusus dengan tulisan airasia di sepanjang badan pesawat, berdiri di apron Bandara Langkawi di bawah langit cerah",
+        "subject": "Sebuah Airbus A320 AirAsia (registrasi Malaysia 9M-AQH) dengan livery peringatan khusus di Bandara Internasional Langkawi"
+      },
+      {
+        "alt": "Pesawat AirAsia berlivery merah berjajar di gerbang keberangkatan terminal maskapai berbiaya rendah klia2, bangunan terminal yang panjang dan garbarata membentang di sepanjang apron di bawah langit tropis",
+        "subject": "Pesawat AirAsia di klia2, terminal maskapai berbiaya rendah Bandara Internasional Kuala Lumpur dan pusat utama maskapai itu di Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một chiếc máy bay phản lực thân hẹp Airbus A320 của AirAsia khoác bộ sơn kỷ niệm đặc biệt với dòng chữ airasia dọc thân máy bay, đang đứng trên sân đỗ tại sân bay Langkawi dưới bầu trời quang đãng",
+        "subject": "Một chiếc Airbus A320 của AirAsia (đăng ký Malaysia 9M-AQH) trong bộ sơn kỷ niệm đặc biệt tại Sân bay Quốc tế Langkawi"
+      },
+      {
+        "alt": "Những chiếc máy bay AirAsia sơn màu đỏ xếp hàng tại các cửa lên máy bay của nhà ga hàng không giá rẻ klia2, tòa nhà ga dài và các cầu ống lồng trải dọc sân đỗ dưới bầu trời nhiệt đới",
+        "subject": "Máy bay AirAsia tại klia2, nhà ga hàng không giá rẻ của Sân bay Quốc tế Kuala Lumpur và là trung tâm hoạt động chính của hãng tại Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "உடற்பகுதி முழுவதும் airasia எழுத்துகளுடன் ஒரு சிறப்பு நினைவு வண்ணப்பூச்சு அணிந்த ஒரு AirAsia ஏர்பஸ் A320 குறுகிய உடல் ஜெட் விமானம், தெளிந்த வானத்தின் கீழ் லங்காவி விமான நிலைய நிறுத்துமிடத்தில் நிற்கிறது",
+        "subject": "லங்காவி சர்வதேச விமான நிலையத்தில் ஒரு சிறப்பு நினைவு வண்ணப்பூச்சில் உள்ள ஒரு AirAsia ஏர்பஸ் A320 (மலேசியப் பதிவு 9M-AQH)"
+      },
+      {
+        "alt": "klia2 குறைந்த கட்டண விமான முனையத்தின் ஏறும் வாயில்களில் வரிசையாக நிற்கும் சிவப்பு வண்ணப்பூச்சு அணிந்த AirAsia விமானங்கள், வெப்பமண்டல வானத்தின் கீழ் நீண்ட முனையக் கட்டிடமும் விமானப் பாலங்களும் நிறுத்துமிடம் முழுவதும் நீண்டுள்ளன",
+        "subject": "கோலாலம்பூர் சர்வதேச விமான நிலையத்தின் குறைந்த கட்டண விமான முனையமான klia2-ல் உள்ள AirAsia விமானங்கள், இது மலேசியாவில் அந்த விமான நிறுவனத்தின் முதன்மை மையம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "फ्यूज़लाज के साथ airasia शीर्षक वाली एक विशेष स्मारक livery पहने एक AirAsia Airbus A320 नैरो-बॉडी जेट, लंगकावी हवाई अड्डे के एप्रन पर खड़ा, साफ़ आकाश के नीचे",
+        "subject": "लंगकावी अंतर्राष्ट्रीय हवाई अड्डे पर एक विशेष स्मारक livery में एक AirAsia Airbus A320 (मलेशियाई पंजीकरण 9M-AQH)"
+      },
+      {
+        "alt": "klia2 कम-लागत वाहक टर्मिनल के बोर्डिंग गेटों पर कतार में लगे लाल livery वाले AirAsia विमान, उष्णकटिबंधीय आकाश के नीचे एप्रन के साथ फैली लंबी टर्मिनल इमारत और जेट ब्रिज",
+        "subject": "klia2 पर AirAsia विमान, कुआलालंपुर अंतर्राष्ट्रीय हवाई अड्डे का कम-लागत वाहक टर्मिनल और एयरलाइन का मुख्य मलेशियाई हब"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "طائرة AirAsia من طراز Airbus A320 ضيّقة البدن تحمل طلاءً تذكارياً خاصاً مع كلمة airasia على طول جسمها، واقفة على مدرج الوقوف في مطار Langkawi تحت سماء صافية",
+        "subject": "طائرة AirAsia من طراز Airbus A320 (التسجيل الماليزي 9M-AQH) بطلاء تذكاري خاص في مطار Langkawi International Airport"
+      },
+      {
+        "alt": "طائرات AirAsia بطلاء أحمر مصطفّة عند بوابات الصعود في مبنى الناقلات منخفضة التكلفة klia2، ويمتدّ مبنى المحطة الطويل وجسور الصعود على طول مدرج الوقوف تحت سماء استوائية",
+        "subject": "طائرات AirAsia في klia2، مبنى الناقلات منخفضة التكلفة في Kuala Lumpur International Airport والمحور الماليزي الرئيسي للشركة"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un reactor Airbus A320 de fuselaje estrecho de AirAsia con una librea conmemorativa especial y el rótulo airasia a lo largo del fuselaje, parado en la plataforma del aeropuerto de Langkawi bajo un cielo despejado",
+        "subject": "un Airbus A320 de AirAsia (matrícula malasia 9M-AQH) con una librea conmemorativa especial en el Aeropuerto Internacional de Langkawi"
+      },
+      {
+        "alt": "Aviones de AirAsia con librea roja alineados en las puertas de embarque de la terminal de bajo coste klia2, con el largo edificio terminal y las pasarelas de embarque extendiéndose a lo largo de la plataforma bajo un cielo tropical",
+        "subject": "aviones de AirAsia en klia2, la terminal de bajo coste del Aeropuerto Internacional de Kuala Lumpur y principal centro de operaciones de la aerolínea en Malasia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un Airbus A320 à fuselage étroit d'AirAsia arborant une livrée commémorative spéciale avec le logo airasia le long du fuselage, stationné sur l'aire de trafic de l'aéroport de Langkawi sous un ciel dégagé",
+        "subject": "un Airbus A320 d'AirAsia (immatriculation malaisienne 9M-AQH) arborant une livrée commémorative spéciale à l'aéroport international de Langkawi"
+      },
+      {
+        "alt": "Des avions d'AirAsia en livrée rouge alignés aux portes d'embarquement du terminal à bas coûts klia2, le long bâtiment du terminal et les passerelles d'embarquement s'étendant le long de l'aire de trafic sous un ciel tropical",
+        "subject": "des avions d'AirAsia à klia2, le terminal des compagnies à bas coûts de l'aéroport international de Kuala Lumpur et principale plateforme malaisienne de la compagnie"
+      }
+    ]
+  },
+  "companies/malaysias-big-banks": {
+    "zh": [
+      {
+        "alt": "一栋高耸的白色摩天大楼,一对弧形如刀刃般的塔楼构成马来亚银行总部,高出周围树木与城市街道,衬着蓝天",
+        "subject": "马来亚银行大厦(Menara Maybank),马来亚银行(Maybank)在吉隆坡市中心的总部大楼,马来西亚最大的银行"
+      },
+      {
+        "alt": "一栋多层建筑,街面设有CIMB银行分行及其红色CIMB招牌,玻璃门面,行人在前方人行道上经过,天空晴朗",
+        "subject": "巫统大厦街面的一家CIMB银行分行,CIMB是马来西亚按资产计最大的银行之一"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "一対の湾曲した刃のような塔がメイバンク本店を形づくる、高くそびえる白い超高層ビル。周囲の木々や市街の通りの上にそびえ、青空を背にする",
+        "subject": "クアラルンプール中心部にあるマラヤン・バンキング(メイバンク)の本店ビル、メナラ・メイバンク。マレーシア最大の銀行"
+      },
+      {
+        "alt": "街路面にCIMB銀行の支店と赤いCIMBの看板を掲げた多層ビル。ガラス張りの外観の前を歩行者が行き交い、空は晴れている",
+        "subject": "UMNOビルの街路面にあるCIMB銀行支店。CIMBは資産規模でマレーシア最大級の銀行の一つ"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "한 쌍의 곡선형 칼날 같은 타워가 메이뱅크 본점을 이루는 높이 솟은 흰색 초고층 빌딩. 주변 나무와 도심 거리 위로 솟아올라 파란 하늘을 배경으로 한다",
+        "subject": "쿠알라룸푸르 도심의 말라얀 뱅킹(메이뱅크) 본점 건물 메나라 메이뱅크. 말레이시아 최대 은행"
+      },
+      {
+        "alt": "길가 층에 CIMB 은행 지점과 빨간 CIMB 간판을 내건 다층 건물. 유리 외관 앞으로 보행자들이 지나가고 하늘이 맑다",
+        "subject": "UMNO 빌딩 길가 층의 CIMB 은행 지점. CIMB는 자산 기준 말레이시아 최대 은행 중 하나"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ตึกระฟ้าสีขาวสูงตระหง่านที่มีอาคารคู่ทรงโค้งคล้ายใบมีดประกอบกันเป็นสำนักงานใหญ่เมย์แบงก์ สูงเหนือต้นไม้และถนนในเมืองโดยรอบตัดกับท้องฟ้าสีคราม",
+        "subject": "เมอนาราเมย์แบงก์ อาคารสำนักงานใหญ่ของมาลายันแบงกิง (เมย์แบงก์) ใจกลางกัวลาลัมเปอร์ ธนาคารที่ใหญ่ที่สุดของมาเลเซีย"
+      },
+      {
+        "alt": "อาคารหลายชั้นที่มีสาขาธนาคาร CIMB และป้าย CIMB สีแดงอยู่ระดับถนน หน้าอาคารเป็นกระจกและมีผู้คนเดินผ่านบนทางเท้าด้านหน้าภายใต้ท้องฟ้าแจ่มใส",
+        "subject": "สาขาธนาคาร CIMB ที่ระดับถนนของอาคารอัมโน โดย CIMB เป็นหนึ่งในธนาคารที่ใหญ่ที่สุดของมาเลเซียเมื่อวัดจากสินทรัพย์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah pencakar langit putih yang tinggi dengan sepasang menara melengkung berbentuk bilah membentuk ibu pejabat Maybank, menjulang di atas pepohonan dan jalan bandar di sekeliling dengan latar langit biru",
+        "subject": "Menara Maybank, menara ibu pejabat Malayan Banking (Maybank) di tengah Kuala Lumpur, bank terbesar Malaysia"
+      },
+      {
+        "alt": "Sebuah bangunan bertingkat dengan cawangan CIMB Bank dan papan tanda CIMB merahnya di aras jalan, fasad kaca dan pejalan kaki lalu di laluan pejalan kaki di hadapannya di bawah langit cerah",
+        "subject": "Sebuah cawangan CIMB Bank di aras jalan Bangunan UMNO, dengan CIMB merupakan salah satu bank terbesar Malaysia dari segi aset"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah pencakar langit putih tinggi yang sepasang menara melengkung berbentuk bilahnya membentuk kantor pusat Maybank, menjulang di atas pepohonan dan jalan-jalan kota di sekitarnya dengan latar langit biru",
+        "subject": "Menara Maybank, menara kantor pusat Malayan Banking (Maybank) di pusat Kuala Lumpur, bank terbesar Malaysia"
+      },
+      {
+        "alt": "Sebuah gedung bertingkat dengan cabang CIMB Bank dan papan nama CIMB merahnya di lantai dasar, fasad kaca dan pejalan kaki yang melintas di trotoar di depannya di bawah langit cerah",
+        "subject": "Sebuah cabang CIMB Bank di lantai dasar Bangunan UMNO, dengan CIMB merupakan salah satu bank terbesar Malaysia dari segi aset"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một tòa nhà chọc trời màu trắng cao với cặp tháp cong hình lưỡi dao tạo nên trụ sở chính của Maybank, vươn lên trên những hàng cây và đường phố xung quanh trên nền trời xanh",
+        "subject": "Menara Maybank, tòa tháp trụ sở chính của Malayan Banking (Maybank) ở trung tâm Kuala Lumpur, ngân hàng lớn nhất Malaysia"
+      },
+      {
+        "alt": "Một tòa nhà nhiều tầng với một chi nhánh CIMB Bank và biển hiệu CIMB màu đỏ ở tầng trệt, mặt tiền kính và người đi bộ qua lại trên vỉa hè phía trước dưới bầu trời quang đãng",
+        "subject": "Một chi nhánh CIMB Bank ở tầng trệt của Bangunan UMNO, CIMB là một trong những ngân hàng lớn nhất Malaysia xét theo tài sản"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "இணையான வளைந்த கத்தி போன்ற கோபுரங்கள் மேபேங்க் தலைமையகத்தை உருவாக்கும் ஒரு உயரமான வெள்ளை வானளாவிய கட்டிடம், நீல வானத்தைப் பின்னணியாகக் கொண்டு சுற்றியுள்ள மரங்களுக்கும் நகரத் தெருக்களுக்கும் மேலே உயர்ந்து நிற்கிறது",
+        "subject": "மெனாரா மேபேங்க், கோலாலம்பூர் மையப்பகுதியில் உள்ள மலாயன் பேங்கிங் (Maybank) நிறுவனத்தின் தலைமையகக் கோபுரம், மலேசியாவின் மிகப்பெரிய வங்கி"
+      },
+      {
+        "alt": "தெரு மட்டத்தில் ஒரு CIMB வங்கிக் கிளையும் அதன் சிவப்பு CIMB பலகையும் கொண்ட ஒரு பல மாடிக் கட்டிடம், ஒரு கண்ணாடி முகப்பு, மற்றும் தெளிந்த வானத்தின் கீழ் முன்பக்க நடைபாதையில் நடந்து செல்லும் பாதசாரிகள்",
+        "subject": "பாங்குனான் UMNO-வின் தெரு மட்டத்தில் உள்ள ஒரு CIMB வங்கிக் கிளை; சொத்துகளின் அடிப்படையில் மலேசியாவின் மிகப்பெரிய வங்கிகளில் CIMB ஒன்றாகும்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक ऊँचा सफ़ेद गगनचुंबी भवन, जिसके युग्मित घुमावदार ब्लेड जैसे टावर Maybank मुख्यालय बनाते हैं, आसपास के पेड़ों और शहर की सड़कों के ऊपर नीले आकाश के सामने उठते हुए",
+        "subject": "मेनारा Maybank, मध्य कुआलालंपुर में Malayan Banking (Maybank) का मुख्यालय टावर, मलेशिया का सबसे बड़ा बैंक"
+      },
+      {
+        "alt": "भूतल पर एक CIMB Bank शाखा और उसके लाल CIMB साइनबोर्ड वाली एक बहुमंज़िला इमारत, एक काँच का अग्रभाग और सामने पैदल-पथ पर गुज़रते राहगीर, साफ़ आकाश के नीचे",
+        "subject": "Bangunan UMNO के भूतल पर एक CIMB Bank शाखा, CIMB परिसंपत्तियों के हिसाब से मलेशिया के सबसे बड़े बैंकों में से एक है"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "ناطحة سحاب بيضاء شاهقة يشكّل برجاها المنحنيان المتقابلان الشبيهان بالنصل المقرّ الرئيسي لـ Maybank، ترتفع فوق الأشجار المحيطة وشوارع المدينة أمام سماء زرقاء",
+        "subject": "برج Menara Maybank، المقرّ الرئيسي لبنك Malayan Banking (Maybank) في وسط Kuala Lumpur، أكبر بنك في ماليزيا"
+      },
+      {
+        "alt": "مبنى متعدّد الطوابق به فرع لبنك CIMB Bank ولافتته الحمراء CIMB في الطابق الأرضي، بواجهة زجاجية ومارّة يعبرون على الممشى أمامه تحت سماء صافية",
+        "subject": "فرع لبنك CIMB Bank في الطابق الأرضي من Bangunan UMNO، وCIMB من أكبر بنوك ماليزيا من حيث الأصول"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un alto rascacielos blanco cuyas torres gemelas curvas en forma de hoja constituyen la sede de Maybank, alzándose sobre los árboles y las calles circundantes contra un cielo azul",
+        "subject": "Menara Maybank, la torre sede de Malayan Banking (Maybank) en el centro de Kuala Lumpur, el mayor banco de Malasia"
+      },
+      {
+        "alt": "Un edificio de varias plantas con una sucursal de CIMB Bank y su rótulo rojo CIMB a pie de calle, una fachada de cristal y peatones pasando por la acera de enfrente bajo un cielo despejado",
+        "subject": "una sucursal de CIMB Bank en la planta baja del Bangunan UMNO; CIMB es uno de los mayores bancos de Malasia por activos"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un haut gratte-ciel blanc dont les deux tours jumelles incurvées en forme de lame forment le siège de Maybank, s'élevant au-dessus des arbres et des rues environnantes sur fond de ciel bleu",
+        "subject": "Menara Maybank, la tour siège de Malayan Banking (Maybank) au centre de Kuala Lumpur, la plus grande banque de Malaisie"
+      },
+      {
+        "alt": "Un immeuble de plusieurs étages abritant une agence de CIMB Bank et son enseigne rouge CIMB au rez-de-chaussée, une façade vitrée et des piétons passant sur le trottoir devant sous un ciel dégagé",
+        "subject": "une agence de CIMB Bank au rez-de-chaussée du Bangunan UMNO, CIMB étant l'une des plus grandes banques de Malaisie par les actifs"
+      }
+    ]
+  },
+  "environment/native-customary-rights-and-logging-disputes": {
+    "zh": [
+      {
+        "alt": "砂拉越(婆罗洲)油棕种植园覆盖已砍伐林地的鸟瞰图",
+        "subject": "砂拉越昔日林地上的油棕种植园"
+      },
+      {
+        "alt": "沙巴卡拉巴干一处木材堆放与装运场里堆叠的热带硬木原木",
+        "subject": "沙巴卡拉巴干的木材堆场"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ボルネオのサラワク州で、切り開かれた森林地を覆うアブラヤシ農園の空撮",
+        "subject": "サラワク州のかつての森林地に広がるアブラヤシ農園"
+      },
+      {
+        "alt": "サバ州カラバカンの木材貯木・積出場に積み上げられた熱帯産広葉樹の丸太",
+        "subject": "サバ州カラバカンの木材貯木場"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "보르네오 사라왁주에서 벌채된 산림지를 뒤덮은 기름야자 농장의 항공 전경",
+        "subject": "사라왁주의 옛 산림지에 들어선 기름야자 농장"
+      },
+      {
+        "alt": "사바주 칼라바칸의 목재 저장·선적장에 쌓아 올린 열대 활엽수 원목",
+        "subject": "사바주 칼라바칸의 원목 저장장"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ภาพมุมสูงของสวนปาล์มน้ำมันที่ปกคลุมพื้นที่ป่าที่ถูกถางในรัฐซาราวัก เกาะบอร์เนียว",
+        "subject": "สวนปาล์มน้ำมันบนพื้นที่ที่เคยเป็นป่าในรัฐซาราวัก"
+      },
+      {
+        "alt": "ซุงไม้เนื้อแข็งเขตร้อนกองซ้อนกันที่ลานเก็บและขนส่งซุงในกาลาบากัน รัฐซาบาห์",
+        "subject": "ลานเก็บซุงในกาลาบากัน รัฐซาบาห์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pandangan udara ladang kelapa sawit yang menutupi tanah hutan yang diteroka di Sarawak, Borneo",
+        "subject": "Ladang kelapa sawit di atas bekas tanah hutan, Sarawak"
+      },
+      {
+        "alt": "Balak kayu keras tropika yang disusun di kawasan penyimpanan dan penghantaran balak di Kalabakan, Sabah",
+        "subject": "Kawasan simpanan balak, Kalabakan, Sabah"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Pemandangan udara perkebunan kelapa sawit yang menutupi lahan hutan yang telah dibuka di Sarawak, Borneo",
+        "subject": "Perkebunan kelapa sawit di atas bekas lahan hutan, Sarawak"
+      },
+      {
+        "alt": "Kayu gelondongan keras tropis yang ditumpuk di area penyimpanan dan pengapalan kayu di Kalabakan, Sabah",
+        "subject": "Area penyimpanan kayu gelondongan, Kalabakan, Sabah"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Góc nhìn từ trên cao về những đồn điền cọ dầu phủ kín vùng đất rừng đã bị phát quang ở Sarawak, Borneo",
+        "subject": "Những đồn điền cọ dầu trên vùng đất rừng trước đây, Sarawak"
+      },
+      {
+        "alt": "Những khúc gỗ cứng nhiệt đới xếp chồng tại một bãi chứa và bốc xếp gỗ ở Kalabakan, Sabah",
+        "subject": "Bãi chứa gỗ khúc, Kalabakan, Sabah"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "போர்னியோ, சரவாக்கில் திறக்கப்பட்ட வனநிலத்தை மூடியிருக்கும் எண்ணெய்ப் பனைத் தோட்டங்களின் வான்வழிக் காட்சி",
+        "subject": "சரவாக், முன்னாள் வனநிலத்தில் அமைந்த எண்ணெய்ப் பனைத் தோட்டங்கள்"
+      },
+      {
+        "alt": "சபா, கலபாகானில் ஒரு மரச் சேமிப்பு மற்றும் ஏற்றுமதி முற்றத்தில் அடுக்கப்பட்ட வெப்பமண்டல கடின மரக் கட்டைகள்",
+        "subject": "சபா, கலபாகானில் மரக்கட்டை சேமிப்பு முற்றம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "सरवाक, बोर्नियो में साफ़ की गई वन भूमि को ढकते ऑयल पाम बागानों का हवाई दृश्य",
+        "subject": "पूर्व वन भूमि पर ऑयल पाम बागान, सरवाक"
+      },
+      {
+        "alt": "कालाबाकान, सबा में एक लकड़ी भंडारण और शिपिंग यार्ड में ढेर लगाए उष्णकटिबंधीय दृढ़काष्ठ के लट्ठे",
+        "subject": "लकड़ी के लट्ठों का भंडारण यार्ड, कालाबाकान, सबा"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "منظر جوّي لمزارع نخيل الزيت تغطّي أرض غابة مُزالة في Sarawak، Borneo",
+        "subject": "مزارع نخيل الزيت على أرض كانت غابة، Sarawak"
+      },
+      {
+        "alt": "جذوع أخشاب استوائية صلبة مكدّسة في ساحة لتخزين وشحن الأخشاب في Kalabakan، Sabah",
+        "subject": "ساحة تخزين جذوع الأخشاب، Kalabakan، Sabah"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Vista aérea de plantaciones de palma aceitera que cubren tierras forestales desbrozadas en Sarawak, Borneo",
+        "subject": "Plantaciones de palma aceitera sobre antiguas tierras forestales, Sarawak"
+      },
+      {
+        "alt": "Troncos de madera dura tropical apilados en un patio de almacenamiento y embarque de madera en Kalabakan, Sabah",
+        "subject": "Patio de almacenamiento de troncos de madera, Kalabakan, Sabah"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Vue aérienne de plantations de palmiers à huile couvrant des terres forestières défrichées à Sarawak, Bornéo",
+        "subject": "Plantations de palmiers à huile sur d'anciennes terres forestières, Sarawak"
+      },
+      {
+        "alt": "Grumes de bois dur tropical empilées dans un parc de stockage et d'expédition de bois à Kalabakan, Sabah",
+        "subject": "Parc de stockage de grumes de bois, Kalabakan, Sabah"
+      }
+    ]
+  },
+  "environment/northeast-monsoon": {
+    "zh": [
+      {
+        "alt": "吉打本当巴东普辛村河水骤涨后,积水漫过K151联邦公路",
+        "subject": "吉打本当河水骤涨后道路被积水淹没"
+      },
+      {
+        "alt": "季候风暴云在热带地景上空聚集的昏暗景象",
+        "subject": "季候风暴云(示意)"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ケダ州プンダンのカンポン・パダン・プシンで急な増水の後、連邦道K151にたまった洪水",
+        "subject": "ケダ州プンダンで急な増水の後、道路を覆う洪水"
+      },
+      {
+        "alt": "熱帯の風景の上空に集まる暗いモンスーンの嵐雲",
+        "subject": "モンスーンの嵐雲(イメージ)"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "케다주 펜당 캄풍 파당 푸싱에서 갑작스러운 하천 범람 후 연방도로 K151에 고인 홍수물",
+        "subject": "케다주 펜당에서 갑작스러운 하천 범람 후 도로를 덮은 홍수물"
+      },
+      {
+        "alt": "열대 지형 위로 모여드는 어두운 몬순 폭풍 구름",
+        "subject": "몬순 폭풍 구름(예시)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "น้ำท่วมขังบนทางหลวงสหพันธ์ K151 หลังแม่น้ำเพิ่มระดับอย่างฉับพลันที่หมู่บ้านปาดังปูซิง เปินดัง รัฐเกอดะฮ์",
+        "subject": "น้ำท่วมขังบนถนนหลังแม่น้ำเพิ่มระดับอย่างฉับพลันที่เปินดัง รัฐเกอดะฮ์"
+      },
+      {
+        "alt": "เมฆฝนมรสุมสีเข้มก่อตัวเหนือภูมิประเทศเขตร้อน",
+        "subject": "เมฆฝนมรสุม (ภาพประกอบ)"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Air banjir bertakung merentasi jalan persekutuan K151 selepas sungai naik secara mengejut di Kampung Padang Pusing, Pendang, Kedah",
+        "subject": "Air banjir di atas jalan selepas sungai naik secara mengejut, Pendang, Kedah"
+      },
+      {
+        "alt": "Awan ribut monsun gelap berkumpul di atas landskap tropika",
+        "subject": "Awan ribut monsun (perwakilan)"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Air banjir menggenang melintasi jalan federal K151 setelah sungai meluap mendadak di Kampung Padang Pusing, Pendang, Kedah",
+        "subject": "Air banjir menggenangi jalan setelah sungai meluap mendadak, Pendang, Kedah"
+      },
+      {
+        "alt": "Awan badai monsun gelap berkumpul di atas bentang alam tropis",
+        "subject": "Awan badai monsun (ilustrasi)"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Nước lũ đọng ngập ngang tuyến đường liên bang K151 sau khi nước sông dâng đột ngột tại Kampung Padang Pusing, Pendang, Kedah",
+        "subject": "Nước lũ tràn trên đường sau khi nước sông dâng đột ngột, Pendang, Kedah"
+      },
+      {
+        "alt": "Những đám mây giông gió mùa đen kịt đang kéo đến trên một vùng cảnh quan nhiệt đới",
+        "subject": "Mây giông gió mùa (ảnh minh họa)"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கெடா, பெண்டாங், காம்போங் படாங் புசிங்கில் திடீரென ஆறு பெருகியதைத் தொடர்ந்து கூட்டாட்சிச் சாலை K151 முழுவதும் தேங்கிய வெள்ள நீர்",
+        "subject": "கெடா, பெண்டாங்கில் திடீரென ஆறு பெருகியதைத் தொடர்ந்து சாலையில் வெள்ள நீர்"
+      },
+      {
+        "alt": "ஒரு வெப்பமண்டல நிலக்காட்சிக்கு மேலே திரளும் கரிய பருவக்காற்று புயல் மேகங்கள்",
+        "subject": "பருவக்காற்று புயல் மேகங்கள் (பிரதிநிதித்துவக் காட்சி)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कम्पुंग पादांग पुसिंग, पेंडांग, केदाह में नदी के अचानक बढ़ने के बाद संघीय सड़क K151 पर जमा बाढ़ का पानी",
+        "subject": "नदी के अचानक बढ़ने के बाद सड़क पर बाढ़ का पानी, पेंडांग, केदाह"
+      },
+      {
+        "alt": "एक उष्णकटिबंधीय परिदृश्य के ऊपर घिरते गहरे मानसूनी तूफ़ानी बादल",
+        "subject": "मानसून के तूफ़ानी बादल (प्रतीकात्मक)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مياه فيضان راكدة على الطريق الاتحادي K151 بعد ارتفاع مفاجئ لمنسوب النهر في Kampung Padang Pusing، Pendang، Kedah",
+        "subject": "مياه الفيضان تغطّي طريقاً بعد ارتفاع مفاجئ لمنسوب النهر، Pendang، Kedah"
+      },
+      {
+        "alt": "غيوم عاصفة موسمية داكنة تتجمّع فوق منظر طبيعي استوائي",
+        "subject": "غيوم عاصفة موسمية (صورة توضيحية)"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Agua de inundación estancada sobre la carretera federal K151 tras una súbita crecida del río en Kampung Padang Pusing, Pendang, Kedah",
+        "subject": "Agua de inundación sobre una carretera tras una súbita crecida del río, Pendang, Kedah"
+      },
+      {
+        "alt": "Oscuras nubes de tormenta monzónica acumulándose sobre un paisaje tropical",
+        "subject": "Nubes de tormenta monzónica (imagen representativa)"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Eaux de crue stagnant en travers de la route fédérale K151 après une montée soudaine de la rivière à Kampung Padang Pusing, Pendang, Kedah",
+        "subject": "Eaux de crue sur une route après une montée soudaine de la rivière, Pendang, Kedah"
+      },
+      {
+        "alt": "De sombres nuages d'orage de mousson s'amoncelant au-dessus d'un paysage tropical",
+        "subject": "Nuages d'orage de mousson (image représentative)"
+      }
+    ]
+  },
+  "environment/plastic-pollution-and-single-use-plastics-policy": {
+    "zh": [
+      {
+        "alt": "塑料垃圾与海洋废弃物沿着海滩潮线堆积",
+        "subject": "冲上海滩的海洋塑料垃圾(示意)"
+      },
+      {
+        "alt": "用过的塑料瓶在一处回收点收集,待送往回收处理",
+        "subject": "供回收的塑料瓶收集点(示意)"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "海岸の波打ち際に沿って集まるプラスチックごみと海洋漂着ごみ",
+        "subject": "海岸に打ち上げられた海洋プラスチックごみ(イメージ)"
+      },
+      {
+        "alt": "リサイクルに回すため回収拠点に集められた使用済みのペットボトル",
+        "subject": "リサイクル用のペットボトル回収拠点(イメージ)"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "해변 조수선을 따라 모인 플라스틱 쓰레기와 해양 쓰레기",
+        "subject": "해변에 밀려온 해양 플라스틱 쓰레기(예시)"
+      },
+      {
+        "alt": "재활용을 위해 수거장에 모아 둔 다 쓴 플라스틱병",
+        "subject": "재활용용 플라스틱병 수거장(예시)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ขยะพลาสติกและเศษขยะทะเลสะสมอยู่ตามแนวน้ำขึ้นน้ำลงของชายหาด",
+        "subject": "ขยะพลาสติกในทะเลที่ถูกซัดขึ้นชายหาด (ภาพประกอบ)"
+      },
+      {
+        "alt": "ขวดพลาสติกใช้แล้วรวบรวมไว้ที่จุดรับเพื่อส่งไปรีไซเคิล",
+        "subject": "จุดรับขวดพลาสติกเพื่อรีไซเคิล (ภาพประกอบ)"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sampah plastik dan serpihan marin yang berkumpul di sepanjang garis pasang surut sebuah pantai",
+        "subject": "Serpihan plastik marin yang terdampar di pantai (perwakilan)"
+      },
+      {
+        "alt": "Botol plastik terpakai yang dikumpulkan di pusat pengumpulan untuk dihantar bagi kitar semula",
+        "subject": "Pusat pengumpulan botol plastik untuk kitar semula (perwakilan)"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sampah plastik dan serpihan laut yang menumpuk di sepanjang garis pasang surut sebuah pantai",
+        "subject": "Serpihan plastik laut yang terdampar di pantai (ilustrasi)"
+      },
+      {
+        "alt": "Botol plastik bekas yang dikumpulkan di titik pengumpulan untuk dikirim ke daur ulang",
+        "subject": "Titik pengumpulan botol plastik untuk daur ulang (ilustrasi)"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Rác thải nhựa và mảnh vụn từ biển dồn lại dọc theo ngấn nước thủy triều của một bãi biển",
+        "subject": "Rác thải nhựa đại dương dạt vào một bãi biển (ảnh minh họa)"
+      },
+      {
+        "alt": "Những chai nhựa đã qua sử dụng được gom tại một điểm thu gom để gửi đi tái chế",
+        "subject": "Điểm thu gom chai nhựa để tái chế (ảnh minh họa)"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஒரு கடற்கரையின் அலை எல்லை வழியே குவியும் பிளாஸ்டிக் குப்பைகளும் கடல் கழிவுகளும்",
+        "subject": "ஒரு கடற்கரையில் ஒதுங்கிய கடல் பிளாஸ்டிக் கழிவுகள் (பிரதிநிதித்துவக் காட்சி)"
+      },
+      {
+        "alt": "மறுசுழற்சிக்கு அனுப்புவதற்காக ஒரு சேகரிப்பு மையத்தில் திரட்டப்பட்ட பயன்படுத்திய பிளாஸ்டிக் பாட்டில்கள்",
+        "subject": "மறுசுழற்சிக்கான பிளாஸ்டிக் பாட்டில் சேகரிப்பு மையம் (பிரதிநிதித்துவக் காட்சி)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक समुद्र तट की ज्वार-रेखा के साथ जमा होता प्लास्टिक कचरा और समुद्री मलबा",
+        "subject": "एक समुद्र तट पर बहकर आया समुद्री प्लास्टिक कचरा (प्रतीकात्मक)"
+      },
+      {
+        "alt": "रीसाइक्लिंग के लिए भेजे जाने हेतु एक संग्रह बिंदु पर एकत्र की गई इस्तेमाल की हुई प्लास्टिक की बोतलें",
+        "subject": "रीसाइक्लिंग के लिए प्लास्टिक-बोतल संग्रह बिंदु (प्रतीकात्मक)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "نفايات بلاستيكية وركام بحري يتجمّع على طول خطّ المدّ على شاطئ",
+        "subject": "نفايات بلاستيكية بحرية جرفتها المياه إلى شاطئ (صورة توضيحية)"
+      },
+      {
+        "alt": "زجاجات بلاستيكية مستعملة مجموعة في نقطة تجميع لإرسالها لإعادة التدوير",
+        "subject": "نقطة تجميع للزجاجات البلاستيكية لإعادة التدوير (صورة توضيحية)"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Basura plástica y residuos marinos acumulándose a lo largo de la línea de marea de una playa",
+        "subject": "Residuos plásticos marinos arrastrados a una playa (imagen representativa)"
+      },
+      {
+        "alt": "Botellas de plástico usadas reunidas en un punto de recogida para ser enviadas a reciclaje",
+        "subject": "Punto de recogida de botellas de plástico para reciclaje (imagen representativa)"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Déchets plastiques et débris marins s'accumulant le long de la laisse de mer sur une plage",
+        "subject": "Déchets plastiques marins échoués sur une plage (image représentative)"
+      },
+      {
+        "alt": "Bouteilles en plastique usagées rassemblées à un point de collecte pour être envoyées au recyclage",
+        "subject": "Point de collecte de bouteilles en plastique pour le recyclage (image représentative)"
+      }
+    ]
+  },
+  "environment/solid-waste-management-and-recycling": {
+    "zh": [
+      {
+        "alt": "雪兰莪乌鲁雪兰莪色巴甲村附近的武吉达加卫生堆填区",
+        "subject": "雪兰莪乌鲁雪兰莪的武吉达加卫生堆填区"
+      },
+      {
+        "alt": "沙巴古达由地方议会运营的一辆市政垃圾收集车",
+        "subject": "沙巴古达的市政垃圾收集车"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "スランゴール州フル・スランゴールのカンポン・スパカット近くにあるブキット・タガー衛生埋立地",
+        "subject": "スランゴール州フル・スランゴールのブキット・タガー衛生埋立地"
+      },
+      {
+        "alt": "サバ州クダットで地元自治体が運用する市のゴミ収集車",
+        "subject": "サバ州クダットの市のゴミ収集車"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "슬랑오르주 훌루슬랑오르 캄풍 스파캇 인근의 부킷타가르 위생매립지",
+        "subject": "슬랑오르주 훌루슬랑오르의 부킷타가르 위생매립지"
+      },
+      {
+        "alt": "사바주 쿠닷에서 지방의회가 운영하는 시 쓰레기 수거차",
+        "subject": "사바주 쿠닷의 시 쓰레기 수거차"
+      }
+    ],
+    "th": [
+      {
+        "alt": "หลุมฝังกลบขยะถูกสุขลักษณะบูกิตตาการ์ใกล้หมู่บ้านเซอปากัต ฮูลูสลังงอร์ รัฐสลังงอร์",
+        "subject": "หลุมฝังกลบขยะถูกสุขลักษณะบูกิตตาการ์ ฮูลูสลังงอร์ รัฐสลังงอร์"
+      },
+      {
+        "alt": "รถเก็บขยะเทศบาลที่ดำเนินการโดยองค์กรปกครองส่วนท้องถิ่นในกูดัต รัฐซาบาห์",
+        "subject": "รถเก็บขยะเทศบาลในกูดัต รัฐซาบาห์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Tapak pelupusan sampah sanitari Bukit Tagar berhampiran Kampung Sepakat, Hulu Selangor, Selangor",
+        "subject": "Tapak pelupusan sampah sanitari Bukit Tagar, Hulu Selangor"
+      },
+      {
+        "alt": "Sebuah lori pungutan sampah perbandaran yang dikendalikan oleh majlis tempatan di Kudat, Sabah",
+        "subject": "Lori pungutan sampah perbandaran, Kudat, Sabah"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Lokasi tempat pembuangan akhir sampah sanitasi Bukit Tagar dekat Kampung Sepakat, Hulu Selangor, Selangor",
+        "subject": "Tempat pembuangan akhir sampah sanitasi Bukit Tagar, Hulu Selangor"
+      },
+      {
+        "alt": "Sebuah truk pengangkut sampah kota yang dioperasikan oleh pemerintah daerah di Kudat, Sabah",
+        "subject": "Truk pengangkut sampah kota, Kudat, Sabah"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Khu bãi chôn lấp rác hợp vệ sinh Bukit Tagar gần Kampung Sepakat, Hulu Selangor, Selangor",
+        "subject": "Bãi chôn lấp rác hợp vệ sinh Bukit Tagar, Hulu Selangor"
+      },
+      {
+        "alt": "Một chiếc xe tải thu gom rác đô thị do hội đồng địa phương vận hành tại Kudat, Sabah",
+        "subject": "Xe tải thu gom rác đô thị, Kudat, Sabah"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "செலாங்கூர், ஹுலு செலாங்கூர், காம்போங் செபாக்காத்துக்கு அருகே உள்ள புக்கிட் தாகர் சுகாதார குப்பைக் கிடங்கு தளம்",
+        "subject": "ஹுலு செலாங்கூர், புக்கிட் தாகர் சுகாதார குப்பைக் கிடங்கு"
+      },
+      {
+        "alt": "சபா, குடாட்டில் உள்ளூர் மன்றத்தால் இயக்கப்படும் ஒரு நகராட்சி குப்பை சேகரிப்பு லாரி",
+        "subject": "சபா, குடாட்டில் நகராட்சி குப்பை சேகரிப்பு லாரி"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कम्पुंग सेपाकात, हुलु सेलांगोर, सेलांगोर के पास बुकित तागार स्वच्छता लैंडफिल स्थल",
+        "subject": "बुकित तागार स्वच्छता लैंडफिल, हुलु सेलांगोर"
+      },
+      {
+        "alt": "कुदात, सबा में स्थानीय परिषद द्वारा संचालित एक नगरपालिका कचरा-संग्रह ट्रक",
+        "subject": "नगरपालिका कचरा-संग्रह ट्रक, कुदात, सबा"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "موقع مكبّ النفايات الصحّي Bukit Tagar قرب Kampung Sepakat، Hulu Selangor، Selangor",
+        "subject": "مكبّ النفايات الصحّي Bukit Tagar، Hulu Selangor"
+      },
+      {
+        "alt": "شاحنة بلدية لجمع القمامة يشغّلها المجلس المحلي في Kudat، Sabah",
+        "subject": "شاحنة بلدية لجمع القمامة، Kudat، Sabah"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El emplazamiento del vertedero sanitario de Bukit Tagar cerca de Kampung Sepakat, Hulu Selangor, Selangor",
+        "subject": "Vertedero sanitario de Bukit Tagar, Hulu Selangor"
+      },
+      {
+        "alt": "Un camión municipal de recogida de basura operado por el ayuntamiento local en Kudat, Sabah",
+        "subject": "Camión municipal de recogida de basura, Kudat, Sabah"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Le site de la décharge sanitaire de Bukit Tagar près de Kampung Sepakat, Hulu Selangor, Selangor",
+        "subject": "Décharge sanitaire de Bukit Tagar, Hulu Selangor"
+      },
+      {
+        "alt": "Un camion municipal de collecte des ordures exploité par le conseil local à Kudat, Sabah",
+        "subject": "Camion municipal de collecte des ordures, Kudat, Sabah"
+      }
+    ]
+  },
+  "environment/transboundary-haze-in-malaysia": {
+    "zh": [
+      {
+        "alt": "吉隆坡一家诊所旁的街道上,空气烟霾弥漫、能见度低",
+        "subject": "吉隆坡一家诊所附近的烟霾状况"
+      },
+      {
+        "alt": "浓重的跨境烟霾遮蔽了地平线上平日可见的山丘",
+        "subject": "2013年东南亚跨境烟霾笼罩新加坡(示意)"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "クアラルンプールの診療所脇の通りに立ちこめる、かすんで視界の悪い大気",
+        "subject": "クアラルンプールの診療所付近のヘイズ(煙害)の状況"
+      },
+      {
+        "alt": "濃い越境ヘイズが、普段は見える地平線上の丘を覆い隠す",
+        "subject": "2013年の東南アジア越境ヘイズがシンガポールを覆う様子(イメージ)"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "쿠알라룸푸르의 한 진료소 옆 거리에 뿌옇게 끼어 시야가 나쁜 대기",
+        "subject": "쿠알라룸푸르 진료소 인근의 연무 상황"
+      },
+      {
+        "alt": "짙은 월경성 연무가 평소에는 보이던 지평선의 언덕을 가리는 모습",
+        "subject": "2013년 동남아시아 월경성 연무가 싱가포르를 뒤덮은 모습(예시)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อากาศขมุกขมัวทัศนวิสัยต่ำบนถนนข้างคลินิกสุขภาพในกัวลาลัมเปอร์",
+        "subject": "สภาพหมอกควันใกล้คลินิกสุขภาพในกัวลาลัมเปอร์"
+      },
+      {
+        "alt": "หมอกควันข้ามพรมแดนหนาทึบบดบังเนินเขาที่ปกติมองเห็นได้บนเส้นขอบฟ้า",
+        "subject": "หมอกควันข้ามพรมแดนในเอเชียตะวันออกเฉียงใต้ปี 2013 ปกคลุมสิงคโปร์ (ภาพประกอบ)"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Udara berjerebu dengan jarak penglihatan rendah di sebuah jalan di sebelah klinik kesihatan di Kuala Lumpur",
+        "subject": "Keadaan jerebu berhampiran sebuah klinik kesihatan di Kuala Lumpur"
+      },
+      {
+        "alt": "Jerebu rentas sempadan yang tebal mengaburkan bukit yang biasanya kelihatan di kaki langit",
+        "subject": "Jerebu rentas sempadan Asia Tenggara 2013 di atas Singapura (perwakilan)"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Udara berkabut asap dengan jarak pandang rendah di sebuah jalan di samping klinik kesehatan di Kuala Lumpur",
+        "subject": "Kondisi kabut asap di dekat sebuah klinik kesehatan di Kuala Lumpur"
+      },
+      {
+        "alt": "Kabut asap lintas batas yang tebal mengaburkan perbukitan yang biasanya terlihat di cakrawala",
+        "subject": "Kabut asap lintas batas Asia Tenggara tahun 2013 di atas Singapura (ilustrasi)"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Không khí mù mịt, tầm nhìn thấp trên một con phố bên cạnh một phòng khám y tế ở Kuala Lumpur",
+        "subject": "Tình trạng khói mù gần một phòng khám y tế ở Kuala Lumpur"
+      },
+      {
+        "alt": "Lớp khói mù xuyên biên giới dày đặc che khuất những ngọn đồi vốn thường nhìn thấy ở đường chân trời",
+        "subject": "Khói mù xuyên biên giới Đông Nam Á năm 2013 bao phủ Singapore (ảnh minh họa)"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கோலாலம்பூரில் ஒரு சுகாதார கிளினிக்கின் அருகேயுள்ள தெருவில் குறைந்த தெரிவுத்திறனுடன் கூடிய புகைமூட்டமான காற்று",
+        "subject": "கோலாலம்பூரில் ஒரு சுகாதார கிளினிக்கிற்கு அருகே புகைமூட்ட நிலை"
+      },
+      {
+        "alt": "வழக்கமாக அடிவானத்தில் தெரியும் குன்றுகளை மறைக்கும் அடர்த்தியான எல்லை கடந்த புகைமூட்டம்",
+        "subject": "2013 தென்கிழக்காசிய எல்லை கடந்த புகைமூட்டம் சிங்கப்பூருக்கு மேலே (பிரதிநிதித்துவக் காட்சி)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कुआलालंपुर में एक स्वास्थ्य क्लिनिक के पास एक सड़क पर धुंधली, कम-दृश्यता वाली हवा",
+        "subject": "कुआलालंपुर के एक स्वास्थ्य क्लिनिक के पास धुंध की स्थिति"
+      },
+      {
+        "alt": "आमतौर पर क्षितिज पर दिखने वाली पहाड़ियों को ढकती घनी सीमा-पार धुंध",
+        "subject": "2013 का दक्षिण-पूर्व एशियाई सीमा-पार धुंध सिंगापुर के ऊपर (प्रतीकात्मक)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "هواء ضبابي منخفض الرؤية في شارع بجوار عيادة صحّية في Kuala Lumpur",
+        "subject": "أجواء ضبابية قرب عيادة صحّية في Kuala Lumpur"
+      },
+      {
+        "alt": "ضباب دخاني كثيف عابر للحدود يحجب تلالاً تُرى عادةً عند الأفق",
+        "subject": "الضباب الدخاني العابر للحدود في جنوب شرق آسيا عام 2013 فوق Singapore (صورة توضيحية)"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Aire brumoso de baja visibilidad en una calle junto a una clínica de salud en Kuala Lumpur",
+        "subject": "Condiciones de bruma contaminante cerca de una clínica de salud de Kuala Lumpur"
+      },
+      {
+        "alt": "Densa bruma contaminante transfronteriza que oculta unas colinas normalmente visibles en el horizonte",
+        "subject": "La bruma contaminante transfronteriza del Sudeste Asiático de 2013 sobre Singapur (imagen representativa)"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Air brumeux à faible visibilité dans une rue près d'une clinique de santé à Kuala Lumpur",
+        "subject": "Conditions de brume de pollution près d'une clinique de santé de Kuala Lumpur"
+      },
+      {
+        "alt": "Épaisse brume de pollution transfrontalière masquant des collines normalement visibles à l'horizon",
+        "subject": "La brume de pollution transfrontalière d'Asie du Sud-Est de 2013 au-dessus de Singapour (image représentative)"
+      }
+    ]
+  },
+  "public-safety/civil-defence-force-apm": {
+    "zh": [
+      {
+        "alt": "峇眼拉浪海岸上一座民防部队(Angkatan Pertahanan Awam)海滩救援瞭望塔",
+        "subject": "峇眼拉浪的民防部队(APM)海滩救援瞭望塔"
+      },
+      {
+        "alt": "峇眼拉浪一座俯瞰开阔海滩的民防部队海岸救生与救援塔",
+        "subject": "峇眼拉浪俯瞰海滩的民防部队海岸救生塔"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "バガン・ラランの海辺に立つ民間防衛隊(Angkatan Pertahanan Awam)のビーチ救助監視塔",
+        "subject": "バガン・ラランの民間防衛隊(APM)のビーチ救助監視塔"
+      },
+      {
+        "alt": "バガン・ラランで開けた海辺を見渡す民間防衛隊の沿岸ライフガード兼救助塔",
+        "subject": "バガン・ランのビーチを見渡す民間防衛隊の沿岸ライフガード塔"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "바간랄랑 해변에 선 민방위대(Angkatan Pertahanan Awam)의 해변 구조 감시탑",
+        "subject": "바간랄랑의 민방위대(APM) 해변 구조 감시탑"
+      },
+      {
+        "alt": "바간랄랑에서 트인 해변을 내려다보는 민방위대의 해안 인명구조 겸 구조탑",
+        "subject": "바간랄랑의 해변을 내려다보는 민방위대 해안 인명구조탑"
+      }
+    ],
+    "th": [
+      {
+        "alt": "หอสังเกตการณ์กู้ภัยชายหาดของกองกำลังป้องกันภัยฝ่ายพลเรือน (Angkatan Pertahanan Awam) ริมชายฝั่งที่บาฆันลาลัง",
+        "subject": "หอสังเกตการณ์กู้ภัยชายหาดของกองกำลังป้องกันภัยฝ่ายพลเรือน (APM) ที่บาฆันลาลัง"
+      },
+      {
+        "alt": "หอเฝ้าระวังและกู้ภัยชายฝั่งของกองกำลังป้องกันภัยฝ่ายพลเรือนมองลงสู่ชายหาดเปิดโล่งที่บาฆันลาลัง",
+        "subject": "หอเฝ้าระวังชายฝั่งของกองกำลังป้องกันภัยฝ่ายพลเรือนมองลงสู่ชายหาดที่บาฆันลาลัง"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah menara pemerhatian penyelamat pantai Angkatan Pertahanan Awam (APM) di pesisir Bagan Lalang",
+        "subject": "Menara pemerhatian penyelamat pantai APM (Angkatan Pertahanan Awam), Bagan Lalang"
+      },
+      {
+        "alt": "Sebuah menara penyelamat nyawa dan menyelamat pesisir Angkatan Pertahanan Awam yang menghadap pantai terbuka di Bagan Lalang",
+        "subject": "Menara penyelamat nyawa pesisir APM yang menghadap pantai, Bagan Lalang"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah menara pengawas penyelamat pantai Angkatan Pertahanan Awam (APM) di pesisir Bagan Lalang",
+        "subject": "Menara pengawas penyelamat pantai APM (Angkatan Pertahanan Awam/Pasukan Pertahanan Sipil), Bagan Lalang"
+      },
+      {
+        "alt": "Sebuah menara penjaga pantai dan penyelamat pesisir Angkatan Pertahanan Awam yang menghadap pantai terbuka di Bagan Lalang",
+        "subject": "Menara penjaga pantai pesisir APM yang menghadap pantai, Bagan Lalang"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một tháp canh cứu hộ bãi biển của Angkatan Pertahanan Awam (Lực lượng Phòng vệ Dân sự) trên bờ biển tại Bagan Lalang",
+        "subject": "Tháp canh cứu hộ bãi biển của APM (Lực lượng Phòng vệ Dân sự), Bagan Lalang"
+      },
+      {
+        "alt": "Một tháp cứu hộ và cứu nạn ven biển của Lực lượng Phòng vệ Dân sự nhìn ra bãi biển rộng tại Bagan Lalang",
+        "subject": "Tháp cứu hộ ven biển của APM nhìn ra bãi biển, Bagan Lalang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பாகான் லாலாங் கடற்கரையில் உள்ள அங்காட்டான் பர்தஹானான் அவாம் (சிவில் பாதுகாப்புப் படை) கடற்கரை மீட்புக் கண்காணிப்புக் கோபுரம்",
+        "subject": "APM (அங்காட்டான் பர்தஹானான் அவாம், சிவில் பாதுகாப்புப் படை) கடற்கரை மீட்புக் கண்காணிப்புக் கோபுரம், பாகான் லாலாங்"
+      },
+      {
+        "alt": "பாகான் லாலாங்கில் திறந்த கடற்கரையை நோக்கியுள்ள ஒரு சிவில் பாதுகாப்புப் படையின் கடலோர உயிர்காப்பு மற்றும் மீட்புக் கோபுரம்",
+        "subject": "கடற்கரையை நோக்கும் APM கடலோர உயிர்காப்பாளர் கோபுரம், பாகான் லாலாங்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "बागान लालंग के किनारे पर एक Angkatan Pertahanan Awam (नागरिक सुरक्षा बल) समुद्र तट बचाव निगरानी मीनार",
+        "subject": "APM (नागरिक सुरक्षा बल) समुद्र तट बचाव निगरानी मीनार, बागान लालंग"
+      },
+      {
+        "alt": "बागान लालंग के खुले समुद्र तट की ओर देखती एक नागरिक सुरक्षा बल तटीय लाइफगार्ड और बचाव मीनार",
+        "subject": "समुद्र तट की ओर देखती APM तटीय लाइफगार्ड मीनार, बागान लालंग"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "برج مراقبة للإنقاذ على الشاطئ تابع لـ Angkatan Pertahanan Awam (قوة الدفاع المدني) على ساحل Bagan Lalang",
+        "subject": "برج مراقبة للإنقاذ على الشاطئ تابع لـ APM (قوة الدفاع المدني)، Bagan Lalang"
+      },
+      {
+        "alt": "برج إنقاذ وحراسة ساحلي تابع لقوة الدفاع المدني يطلّ على الشاطئ المفتوح في Bagan Lalang",
+        "subject": "برج إنقاذ ساحلي تابع لـ APM يطلّ على الشاطئ، Bagan Lalang"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una torre de vigilancia y rescate de playa de la Angkatan Pertahanan Awam (Fuerza de Defensa Civil) en la orilla de Bagan Lalang",
+        "subject": "Torre de vigilancia y rescate de playa de la APM (Fuerza de Defensa Civil), Bagan Lalang"
+      },
+      {
+        "alt": "Una torre de socorrismo y rescate costero de la Fuerza de Defensa Civil con vistas a la playa abierta de Bagan Lalang",
+        "subject": "Torre de socorrismo costero de la APM con vistas a la playa, Bagan Lalang"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une tour de guet de sauvetage de plage de l'Angkatan Pertahanan Awam (Force de défense civile) sur le rivage de Bagan Lalang",
+        "subject": "Tour de guet de sauvetage de plage de l'APM (Force de défense civile), Bagan Lalang"
+      },
+      {
+        "alt": "Une tour de sauveteurs et de secours côtiers de la Force de défense civile surplombant la plage ouverte de Bagan Lalang",
+        "subject": "Tour de sauveteurs côtiers de l'APM surplombant la plage, Bagan Lalang"
+      }
+    ]
+  },
+  "public-safety/national-disaster-management-agency-nadma": {
+    "zh": [
+      {
+        "alt": "一支水上救援队乘坐平底船在搜救行动中穿行于洪水之中",
+        "subject": "搜救行动中洪灾救援队乘船(示意)"
+      },
+      {
+        "alt": "环绕建筑物堆砌起来的沙袋防护墙,用以阻挡上涨的洪水",
+        "subject": "沙袋防洪屏障(示意)"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "捜索救助活動中、平底ボートに乗った水難救助隊が洪水の中を進む様子",
+        "subject": "捜索救助活動中、ボートに乗る水害救助隊(イメージ)"
+      },
+      {
+        "alt": "上昇する洪水を食い止めるため建物の周囲に積み上げられた土のうの防護壁",
+        "subject": "土のうの防水バリア(イメージ)"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "수색 구조 작전 중 평저선에 탄 수상 구조대가 홍수 속을 헤쳐 나가는 모습",
+        "subject": "수색 구조 작전 중 보트에 탄 홍수 구조대(예시)"
+      },
+      {
+        "alt": "불어나는 홍수물을 막기 위해 건물 둘레에 쌓아 올린 모래주머니 방호벽",
+        "subject": "모래주머니 방수 방벽(예시)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ทีมกู้ภัยทางน้ำในเรือท้องแบนฝ่ากระแสน้ำท่วมระหว่างปฏิบัติการค้นหาและกู้ภัย",
+        "subject": "ทีมกู้ภัยน้ำท่วมในเรือระหว่างปฏิบัติการค้นหาและกู้ภัย (ภาพประกอบ)"
+      },
+      {
+        "alt": "แนวกำแพงกระสอบทรายที่ก่อขึ้นเพื่อกั้นน้ำท่วมที่เพิ่มระดับรอบอาคาร",
+        "subject": "แนวกระสอบทรายกันน้ำท่วม (ภาพประกอบ)"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah pasukan penyelamat air dalam bot berdasar rata meredah air banjir semasa operasi mencari dan menyelamat",
+        "subject": "Pasukan penyelamat banjir dalam bot semasa operasi mencari (perwakilan)"
+      },
+      {
+        "alt": "Sebuah tembok perlindungan guni pasir yang dibina untuk menahan air banjir yang meningkat di sekeliling sebuah bangunan",
+        "subject": "Benteng perlindungan banjir guni pasir (perwakilan)"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah tim penyelamat air dalam perahu berdasar rata menerjang air banjir saat operasi pencarian dan penyelamatan",
+        "subject": "Tim penyelamat banjir dalam perahu saat operasi pencarian (ilustrasi)"
+      },
+      {
+        "alt": "Sebuah dinding pelindung dari karung pasir yang dibangun untuk menahan air banjir yang naik di sekeliling sebuah bangunan",
+        "subject": "Barikade pelindung banjir dari karung pasir (ilustrasi)"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một đội cứu hộ đường thủy trên một chiếc thuyền đáy bằng di chuyển qua vùng nước lũ trong một chiến dịch tìm kiếm cứu nạn",
+        "subject": "Đội cứu hộ lũ lụt trên một chiếc thuyền trong một chiến dịch tìm kiếm (ảnh minh họa)"
+      },
+      {
+        "alt": "Một bức tường bảo vệ bằng bao cát được xếp cao để ngăn nước lũ đang dâng quanh một tòa nhà",
+        "subject": "Rào chắn chống lũ bằng bao cát (ảnh minh họa)"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஒரு தேடுதல் மற்றும் மீட்பு நடவடிக்கையின்போது வெள்ள நீரைக் கடக்கும் தட்டையான அடிப்பகுதி படகில் உள்ள ஒரு நீர் மீட்புக் குழு",
+        "subject": "ஒரு தேடுதல் நடவடிக்கையின்போது படகில் உள்ள வெள்ள மீட்புக் குழு (பிரதிநிதித்துவக் காட்சி)"
+      },
+      {
+        "alt": "ஒரு கட்டிடத்தைச் சுற்றி உயரும் வெள்ள நீரைத் தடுக்க எழுப்பப்பட்ட மணல் மூட்டைகளின் ஒரு பாதுகாப்புச் சுவர்",
+        "subject": "மணல் மூட்டை வெள்ளத் தடுப்பு அரண் (பிரதிநிதித்துவக் காட்சி)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक खोज-एवं-बचाव अभियान के दौरान बाढ़ के पानी में एक सपाट-तल वाली नाव चलाता एक जल बचाव दल",
+        "subject": "एक खोज अभियान के दौरान नाव में बाढ़ बचाव दल (प्रतीकात्मक)"
+      },
+      {
+        "alt": "एक इमारत के चारों ओर बढ़ते बाढ़ के पानी को रोकने के लिए बनाई गई रेत की बोरियों की सुरक्षात्मक दीवार",
+        "subject": "रेत की बोरियों से बना बाढ़-सुरक्षा अवरोध (प्रतीकात्मक)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "فريق إنقاذ مائي في قارب مسطّح القاع يشقّ مياه الفيضان أثناء عملية بحث وإنقاذ",
+        "subject": "فريق إنقاذ من الفيضانات في قارب أثناء عملية بحث (صورة توضيحية)"
+      },
+      {
+        "alt": "جدار واقٍ من أكياس الرمل بُني لحجز مياه الفيضان المتصاعدة حول مبنى",
+        "subject": "حاجز حماية من الفيضان من أكياس الرمل (صورة توضيحية)"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un equipo de rescate acuático en una barca de fondo plano navegando por el agua de inundación durante una operación de búsqueda y rescate",
+        "subject": "Equipo de rescate en inundaciones en una barca durante una operación de búsqueda (imagen representativa)"
+      },
+      {
+        "alt": "Un muro protector de sacos de arena levantado para contener el agua de inundación que sube alrededor de un edificio",
+        "subject": "Barrera de protección contra inundaciones con sacos de arena (imagen representativa)"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une équipe de secours nautique dans une embarcation à fond plat naviguant dans les eaux de crue lors d'une opération de recherche et de sauvetage",
+        "subject": "Équipe de secours en inondation dans une embarcation lors d'une opération de recherche (image représentative)"
+      },
+      {
+        "alt": "Un mur protecteur de sacs de sable dressé pour contenir la montée des eaux de crue autour d'un bâtiment",
+        "subject": "Barrière de protection contre les inondations en sacs de sable (image représentative)"
+      }
+    ]
+  },
+  "public-safety/road-safety-in-malaysia": {
+    "zh": [
+      {
+        "alt": "柔佛居銮附近,沿双线道的居銮-哥打丁宜路(91号联邦公路)向北望去的景象",
+        "subject": "柔佛居銮的双线联邦公路(91号公路)"
+      },
+      {
+        "alt": "雪兰莪哥打白沙罗夜间一处路口的标线行人过路处",
+        "subject": "雪兰莪哥打白沙罗一处路口的行人过路处"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ジョホール州クラン近郊で、二車線のジャラン・クラン=コタ・ティンギ(連邦道91号)を北に望む眺め",
+        "subject": "ジョホール州クランの二車線の連邦道(91号線)"
+      },
+      {
+        "alt": "スランゴール州コタ・ダマンサラの交差点にある、夜間の横断歩道標示",
+        "subject": "スランゴール州コタ・ダマンサラの交差点の横断歩道"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "조호르주 클루앙 인근에서 왕복 2차선 잘란 클루앙-코타팅기(연방도로 91호선)를 북쪽으로 바라본 모습",
+        "subject": "조호르주 클루앙의 왕복 2차선 연방도로(91호선)"
+      },
+      {
+        "alt": "슬랑오르주 코타다만사라의 교차로에 야간에 표시된 횡단보도",
+        "subject": "슬랑오르주 코타다만사라 교차로의 횡단보도"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ภาพมองไปทางเหนือตามถนนกลวง-โกตาติงกิสองช่องจราจร (ทางหลวงสหพันธ์หมายเลข 91) ใกล้กลวง รัฐยะโฮร์",
+        "subject": "ทางหลวงสหพันธ์สองช่องจราจร (หมายเลข 91) ที่กลวง รัฐยะโฮร์"
+      },
+      {
+        "alt": "ทางม้าลายที่ตีเส้นตรงทางแยกในเวลากลางคืนที่โกตาดามันซารา รัฐสลังงอร์",
+        "subject": "ทางม้าลายที่ทางแยกในโกตาดามันซารา รัฐสลังงอร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pemandangan ke utara di sepanjang Jalan Kluang-Kota Tinggi dua lorong (Laluan Persekutuan 91) berhampiran Kluang, Johor",
+        "subject": "Lebuh raya persekutuan dua lorong (Laluan 91), Kluang, Johor"
+      },
+      {
+        "alt": "Lintasan pejalan kaki bertanda di persimpangan jalan pada waktu malam di Kota Damansara, Selangor",
+        "subject": "Lintasan pejalan kaki di persimpangan jalan, Kota Damansara, Selangor"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Pemandangan ke arah utara di sepanjang Jalan Kluang-Kota Tinggi dua lajur (Rute Federal 91) dekat Kluang, Johor",
+        "subject": "Jalan raya federal dua lajur (Rute 91), Kluang, Johor"
+      },
+      {
+        "alt": "Penyeberangan pejalan kaki bertanda di persimpangan jalan pada malam hari di Kota Damansara, Selangor",
+        "subject": "Penyeberangan pejalan kaki di persimpangan jalan, Kota Damansara, Selangor"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Góc nhìn về hướng bắc dọc theo đường Jalan Kluang-Kota Tinggi hai làn xe (Tuyến Liên bang 91) gần Kluang, Johor",
+        "subject": "Quốc lộ liên bang hai làn xe (Tuyến 91), Kluang, Johor"
+      },
+      {
+        "alt": "Một vạch sang đường cho người đi bộ có kẻ vạch tại một giao lộ vào ban đêm ở Kota Damansara, Selangor",
+        "subject": "Lối sang đường cho người đi bộ tại một giao lộ, Kota Damansara, Selangor"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஜொகூர், கிளுவாங்கிற்கு அருகே இரு வழி ஜாலான் கிளுவாங்-கோத்தா திங்கி (கூட்டாட்சி வழி 91) வழியே வடக்கு நோக்கிய காட்சி",
+        "subject": "ஜொகூர், கிளுவாங்கில் இரு வழி கூட்டாட்சி நெடுஞ்சாலை (வழி 91)"
+      },
+      {
+        "alt": "செலாங்கூர், கோத்தா டமன்சாராவில் இரவில் ஒரு சாலைச் சந்திப்பில் குறியிடப்பட்ட பாதசாரிக் கடவை",
+        "subject": "செலாங்கூர், கோத்தா டமன்சாராவில் ஒரு சாலைச் சந்திப்பில் பாதசாரிக் கடவை"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "क्लुआंग, जोहोर के पास दो-लेन जालान क्लुआंग-कोटा तिंगगी (संघीय रूट 91) के साथ उत्तर की ओर का दृश्य",
+        "subject": "दो-लेन संघीय राजमार्ग (रूट 91), क्लुआंग, जोहोर"
+      },
+      {
+        "alt": "कोटा दमनसरा, सेलांगोर में रात को एक सड़क चौराहे पर एक चिह्नित पैदल-पार पथ",
+        "subject": "एक सड़क चौराहे पर पैदल-पार पथ, कोटा दमनसरा, सेलांगोर"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "منظر باتجاه الشمال على طول طريق Jalan Kluang-Kota Tinggi ذي المسارين (Federal Route 91) قرب Kluang، Johor",
+        "subject": "طريق اتحادي سريع بمسارين (Route 91)، Kluang، Johor"
+      },
+      {
+        "alt": "ممرّ مشاة مُعلَّم عند تقاطع طرق ليلاً في Kota Damansara، Selangor",
+        "subject": "ممرّ مشاة عند تقاطع طرق، Kota Damansara، Selangor"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una vista hacia el norte a lo largo de la Jalan Kluang-Kota Tinggi de dos carriles (Ruta Federal 91) cerca de Kluang, Johor",
+        "subject": "Carretera federal de dos carriles (Ruta 91), Kluang, Johor"
+      },
+      {
+        "alt": "Un paso de peatones señalizado en un cruce de carreteras de noche en Kota Damansara, Selangor",
+        "subject": "Paso de peatones en un cruce de carreteras, Kota Damansara, Selangor"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une vue vers le nord le long de la Jalan Kluang-Kota Tinggi à deux voies (route fédérale 91) près de Kluang, Johor",
+        "subject": "Route fédérale à deux voies (Route 91), Kluang, Johor"
+      },
+      {
+        "alt": "Un passage piéton marqué à un carrefour routier de nuit à Kota Damansara, Selangor",
+        "subject": "Passage piéton à un carrefour routier, Kota Damansara, Selangor"
+      }
+    ]
+  },
+  "government/bank-negara-malaysia": {
+    "zh": [
+      {
+        "alt": "沙巴亚庇一座马来西亚国家银行办事处的入口,展示着中央银行的名称与麂鹿(kijang)徽记,并悬挂马来西亚国旗与沙巴州旗",
+        "subject": "沙巴亚庇的马来西亚国家银行地区办事处,带有中央银行名称与麂鹿(kijang)徽记"
+      },
+      {
+        "alt": "一张马来西亚国家银行1967年首套系列的早期令吉纸币,印有中央银行的名称",
+        "subject": "早期马来西亚国家银行令吉纸币(1967年系列样本)"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "サバ州コタキナバルのマレーシア国立銀行事務所の入口。中央銀行の名称とキジャン(マメジカ)の紋章を掲げ、マレーシア国旗とサバ州旗が掲揚される",
+        "subject": "サバ州コタキナバルのマレーシア国立銀行地方事務所。中央銀行の名称とキジャン(マメジカ)の紋章を掲げる"
+      },
+      {
+        "alt": "中央銀行の名称が記された、マレーシア国立銀行1967年第1シリーズの初期のリンギット紙幣",
+        "subject": "初期のマレーシア国立銀行リンギット紙幣(1967年シリーズの見本)"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "사바주 코타키나발루의 말레이시아 국립은행 사무소 입구. 중앙은행 명칭과 키장(사슴) 문장을 내걸고 말레이시아 국기와 사바 주기를 게양하고 있다",
+        "subject": "사바주 코타키나발루의 말레이시아 국립은행 지역 사무소. 중앙은행 명칭과 키장(사슴) 문장이 있다"
+      },
+      {
+        "alt": "중앙은행 명칭이 찍힌 말레이시아 국립은행 1967년 1차 시리즈의 초기 링깃 지폐",
+        "subject": "초기 말레이시아 국립은행 링깃 지폐(1967년 시리즈 견본)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ทางเข้าสำนักงานธนาคารกลางมาเลเซียในโกตากีนาบาลู แสดงชื่อธนาคารกลางและตรากีจัง (กวาง) พร้อมธงชาติมาเลเซียและธงรัฐซาบาห์",
+        "subject": "สำนักงานภูมิภาคของธนาคารกลางมาเลเซียในโกตากีนาบาลู รัฐซาบาห์ พร้อมชื่อธนาคารกลางและตรากีจัง (กวาง)"
+      },
+      {
+        "alt": "ธนบัตรริงกิตยุคแรกของธนาคารกลางมาเลเซียชุดแรกปี 1967 ซึ่งมีชื่อธนาคารกลางปรากฏอยู่",
+        "subject": "ธนบัตรริงกิตยุคแรกของธนาคารกลางมาเลเซีย (ตัวอย่างชุดปี 1967)"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pintu masuk pejabat Bank Negara Malaysia di Kota Kinabalu, memaparkan nama bank pusat dan lambang kijang bersama bendera Malaysia dan Sabah",
+        "subject": "Pejabat wilayah Bank Negara Malaysia di Kota Kinabalu, Sabah, dengan nama bank pusat dan lambang kijangnya"
+      },
+      {
+        "alt": "Sekeping wang kertas ringgit Bank Negara Malaysia terawal daripada siri pertama 1967, membawa nama bank pusat",
+        "subject": "Wang kertas ringgit Bank Negara Malaysia terawal (spesimen siri 1967)"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Pintu masuk kantor Bank Negara Malaysia di Kota Kinabalu, menampilkan nama bank sentral dan lambang kijang beserta bendera Malaysia dan Sabah",
+        "subject": "Kantor regional Bank Negara Malaysia di Kota Kinabalu, Sabah, dengan nama bank sentral dan lambang kijangnya"
+      },
+      {
+        "alt": "Selembar uang kertas ringgit Bank Negara Malaysia paling awal dari seri pertama 1967, yang membawa nama bank sentral",
+        "subject": "Uang kertas ringgit Bank Negara Malaysia paling awal (spesimen seri 1967)"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Lối vào một văn phòng Bank Negara Malaysia ở Kota Kinabalu, trưng tên ngân hàng trung ương và biểu tượng con mang (kijang) cùng cờ Malaysia và cờ Sabah",
+        "subject": "Văn phòng khu vực của Bank Negara Malaysia ở Kota Kinabalu, Sabah, với tên ngân hàng trung ương và biểu tượng con mang (kijang)"
+      },
+      {
+        "alt": "Một tờ tiền giấy ringgit thời kỳ đầu của Bank Negara Malaysia thuộc loạt phát hành đầu tiên năm 1967, mang tên ngân hàng trung ương",
+        "subject": "Tờ tiền giấy ringgit đầu tiên của Bank Negara Malaysia (mẫu thuộc loạt phát hành năm 1967)"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கோத்தா கினபாலுவில் ஒரு பேங்க் நெகாரா மலேசியா அலுவலகத்தின் நுழைவாயில், மத்திய வங்கியின் பெயரையும் கிஜாங் சின்னத்தையும் மலேசிய மற்றும் சபா கொடிகளுடன் காட்டுகிறது",
+        "subject": "சபா, கோத்தா கினபாலுவில் உள்ள பேங்க் நெகாரா மலேசியா பிராந்திய அலுவலகம், மத்திய வங்கியின் பெயர் மற்றும் கிஜாங் (மான்) சின்னத்துடன்"
+      },
+      {
+        "alt": "மத்திய வங்கியின் பெயரைத் தாங்கிய, 1967 முதல் தொடரைச் சேர்ந்த பேங்க் நெகாரா மலேசியாவின் ஆரம்பகால ரிங்கிட் காகித நாணயத் தாள்",
+        "subject": "பேங்க் நெகாரா மலேசியாவின் ஆரம்பகால ரிங்கிட் காகித நாணயத் தாள் (1967 தொடர் மாதிரி)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कोटा किनाबालू में एक Bank Negara Malaysia कार्यालय का प्रवेश द्वार, जिस पर केंद्रीय बैंक का नाम और kijang प्रतीक तथा मलेशियाई व सबा के झंडे दिखते हैं",
+        "subject": "कोटा किनाबालू, सबा में Bank Negara Malaysia का क्षेत्रीय कार्यालय, केंद्रीय बैंक के नाम और kijang प्रतीक के साथ"
+      },
+      {
+        "alt": "1967 की पहली शृंखला का एक आरंभिक Bank Negara Malaysia रिंगगिट नोट, जिस पर केंद्रीय बैंक का नाम अंकित है",
+        "subject": "Bank Negara Malaysia का आरंभिक रिंगगिट नोट (1967 शृंखला का नमूना)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مدخل مكتب Bank Negara Malaysia في Kota Kinabalu، يظهر عليه اسم البنك المركزي وشعار kijang مع علمي ماليزيا وSabah",
+        "subject": "المكتب الإقليمي لـ Bank Negara Malaysia في Kota Kinabalu، Sabah، مع اسم البنك المركزي وشعار kijang"
+      },
+      {
+        "alt": "ورقة نقدية مبكرة بالرينغيت من Bank Negara Malaysia من الإصدار الأول لعام 1967، تحمل اسم البنك المركزي",
+        "subject": "ورقة نقدية مبكرة بالرينغيت من Bank Negara Malaysia (نموذج من إصدار 1967)"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La entrada de una oficina del Bank Negara Malaysia en Kota Kinabalu, que muestra el nombre del banco central y el emblema del kijang junto con las banderas de Malasia y de Sabah",
+        "subject": "Oficina regional del Bank Negara Malaysia en Kota Kinabalu, Sabah, con el nombre del banco central y el emblema del kijang"
+      },
+      {
+        "alt": "Un primer billete de ringgit del Bank Negara Malaysia de la primera serie de 1967, con el nombre del banco central",
+        "subject": "Primer billete de ringgit del Bank Negara Malaysia (espécimen de la serie de 1967)"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "L'entrée d'un bureau de la Bank Negara Malaysia à Kota Kinabalu, affichant le nom de la banque centrale et l'emblème du kijang avec les drapeaux de la Malaisie et de Sabah",
+        "subject": "Bureau régional de la Bank Negara Malaysia à Kota Kinabalu, Sabah, avec le nom de la banque centrale et l'emblème du kijang"
+      },
+      {
+        "alt": "Un des premiers billets de ringgit de la Bank Negara Malaysia issu de la première série de 1967, portant le nom de la banque centrale",
+        "subject": "Premier billet de ringgit de la Bank Negara Malaysia (spécimen de la série de 1967)"
+      }
+    ]
+  },
+  "government/federal-territories-governance": {
+    "zh": [
+      {
+        "alt": "布城机构(Putrajaya Corporation)行政大楼,管辖布城联邦直辖区的地方政府",
+        "subject": "布城机构(Putrajaya Corporation)总部,布城联邦直辖区的地方政府"
+      },
+      {
+        "alt": "布城司法宫的圆顶立面,印有马来西亚联邦国徽,是联邦直辖区的一座政府建筑",
+        "subject": "司法宫(Istana Kehakiman),布城的一座联邦政府建筑"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "プトラジャヤ連邦直轄領を統治する地方自治体、プトラジャヤ・コーポレーションの行政庁舎",
+        "subject": "プトラジャヤ連邦直轄領の地方自治体、プトラジャヤ・コーポレーションの本部"
+      },
+      {
+        "alt": "マレーシア連邦国章を掲げたプトラジャヤの司法宮のドーム状の外観。連邦直轄領の政府建物",
+        "subject": "司法宮(イスタナ・ケハキマン)。プトラジャヤにある連邦政府の建物"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "푸트라자야 연방 직할구를 관할하는 지방 당국인 푸트라자야 코퍼레이션의 행정 건물",
+        "subject": "푸트라자야 연방 직할구의 지방 당국, 푸트라자야 코퍼레이션 본부"
+      },
+      {
+        "alt": "말레이시아 연방 국장이 새겨진 푸트라자야 사법궁의 돔형 외관. 연방 직할구의 정부 건물",
+        "subject": "사법궁(이스타나 케하키만). 푸트라자야의 연방 정부 건물"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารบริหารขององค์การปุตราจายา (Putrajaya Corporation) องค์กรปกครองท้องถิ่นที่ปกครองดินแดนสหพันธ์ปุตราจายา",
+        "subject": "สำนักงานใหญ่องค์การปุตราจายา (Putrajaya Corporation) องค์กรปกครองท้องถิ่นของดินแดนสหพันธ์ปุตราจายา"
+      },
+      {
+        "alt": "ด้านหน้าทรงโดมของวังยุติธรรมในปุตราจายา ประดับตราแผ่นดินสหพันธ์มาเลเซีย เป็นอาคารราชการของดินแดนสหพันธ์",
+        "subject": "วังยุติธรรม (อิสตานาเกอฮากีมัน) อาคารราชการของรัฐบาลสหพันธ์ในปุตราจายา"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Bangunan pentadbiran Perbadanan Putrajaya, pihak berkuasa tempatan yang mentadbir wilayah persekutuan Putrajaya",
+        "subject": "Ibu pejabat Perbadanan Putrajaya, pihak berkuasa tempatan wilayah persekutuan Putrajaya"
+      },
+      {
+        "alt": "Fasad berkubah Istana Kehakiman di Putrajaya, membawa jata kerajaan persekutuan Malaysia, sebuah bangunan kerajaan wilayah persekutuan",
+        "subject": "Istana Kehakiman, sebuah bangunan kerajaan persekutuan di Putrajaya"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Gedung administrasi Putrajaya Corporation, otoritas lokal yang mengelola wilayah federal Putrajaya",
+        "subject": "Kantor pusat Perbadanan Putrajaya (Putrajaya Corporation), otoritas lokal wilayah persekutuan Putrajaya"
+      },
+      {
+        "alt": "Fasad berkubah Istana Kehakiman di Putrajaya, mengusung lambang negara federal Malaysia, sebuah gedung pemerintah wilayah federal",
+        "subject": "Istana Kehakiman (Palace of Justice), sebuah gedung pemerintah federal di Putrajaya"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Tòa nhà hành chính của Tập đoàn Putrajaya, chính quyền địa phương quản lý lãnh thổ liên bang Putrajaya",
+        "subject": "Trụ sở chính của Perbadanan Putrajaya (Tập đoàn Putrajaya), chính quyền địa phương của lãnh thổ liên bang Putrajaya"
+      },
+      {
+        "alt": "Mặt tiền có mái vòm của Cung Tư pháp ở Putrajaya, mang quốc huy liên bang Malaysia, một tòa nhà chính phủ của lãnh thổ liên bang",
+        "subject": "Cung Tư pháp (Istana Kehakiman), một tòa nhà chính phủ liên bang ở Putrajaya"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "புத்ராஜெயா கூட்டாட்சிப் பகுதியை நிர்வகிக்கும் உள்ளூர் ஆளுநர் அமைப்பான புத்ராஜெயா கழகத்தின் நிர்வாகக் கட்டிடம்",
+        "subject": "பெர்படானான் புத்ராஜெயா (புத்ராஜெயா கழகம்) தலைமையகம், புத்ராஜெயா கூட்டாட்சிப் பகுதியின் உள்ளூர் ஆளுநர் அமைப்பு"
+      },
+      {
+        "alt": "புத்ராஜெயாவில் உள்ள நீதி அரண்மனையின் குவிமாட முகப்பு, மலேசியக் கூட்டாட்சி அரச சின்னத்தைத் தாங்கியது, கூட்டாட்சிப் பகுதியின் ஒரு அரசாங்கக் கட்டிடம்",
+        "subject": "இஸ்தானா கெஹாகிமான் (நீதி அரண்மனை), புத்ராஜெயாவில் உள்ள ஒரு கூட்டாட்சி அரசாங்கக் கட்டிடம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "पुत्राजया निगम की प्रशासनिक इमारत, पुत्राजया संघीय क्षेत्र का शासन करने वाला स्थानीय प्राधिकरण",
+        "subject": "Perbadanan Putrajaya (पुत्राजया निगम) मुख्यालय, पुत्राजया संघीय क्षेत्र का स्थानीय प्राधिकरण"
+      },
+      {
+        "alt": "पुत्राजया में न्याय के महल का गुंबदाकार अग्रभाग, जिस पर मलेशियाई संघीय राजचिह्न अंकित है, संघीय क्षेत्र की एक सरकारी इमारत",
+        "subject": "न्याय का महल (Istana Kehakiman), पुत्राजया में एक संघीय सरकारी इमारत"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "المبنى الإداري لهيئة Putrajaya، السلطة المحلية التي تحكم إقليم Putrajaya الاتحادي",
+        "subject": "مقرّ Perbadanan Putrajaya (هيئة بوتراجايا)، السلطة المحلية لإقليم Putrajaya الاتحادي"
+      },
+      {
+        "alt": "الواجهة المقبّبة لقصر العدل في Putrajaya، وعليها شعار النبالة الاتحادي الماليزي، وهو مبنى حكومي للإقليم الاتحادي",
+        "subject": "قصر العدل (Istana Kehakiman)، مبنى حكومي اتحادي في Putrajaya"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El edificio administrativo de la Corporación de Putrajaya, la autoridad local que gobierna el territorio federal de Putrajaya",
+        "subject": "Sede de Perbadanan Putrajaya (Corporación de Putrajaya), la autoridad local del territorio federal de Putrajaya"
+      },
+      {
+        "alt": "La fachada abovedada del Palacio de Justicia de Putrajaya, con el escudo federal de Malasia, un edificio gubernamental del territorio federal",
+        "subject": "Palacio de Justicia (Istana Kehakiman), un edificio del gobierno federal en Putrajaya"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Le bâtiment administratif de la Corporation de Putrajaya, l'autorité locale qui administre le territoire fédéral de Putrajaya",
+        "subject": "Siège de Perbadanan Putrajaya (Corporation de Putrajaya), l'autorité locale du territoire fédéral de Putrajaya"
+      },
+      {
+        "alt": "La façade à coupole du Palais de justice de Putrajaya, portant les armoiries fédérales de la Malaisie, un bâtiment gouvernemental du territoire fédéral",
+        "subject": "Palais de justice (Istana Kehakiman), un bâtiment du gouvernement fédéral à Putrajaya"
+      }
+    ]
+  },
+  "government/social-welfare-department-jkm": {
+    "zh": [
+      {
+        "alt": "新山一家残障儿童福利关怀协会的招牌与会所,一项社区福利服务",
+        "subject": "新山的残障儿童福利关怀中心"
+      },
+      {
+        "alt": "柔佛峇株巴辖的一家福利之家,一所收容型福利机构",
+        "subject": "柔佛峇株巴辖的福利之家(rumah kebajikan)"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ジョホールバルにある障害児福祉ケア協会の看板と施設。地域の福祉サービス",
+        "subject": "ジョホールバルの障害児福祉ケアセンター"
+      },
+      {
+        "alt": "ジョホール州バトゥ・パハにある福祉ホーム。入所型の福祉施設",
+        "subject": "ジョホール州バトゥ・パハの福祉ホーム(rumah kebajikan)"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "조호르바루에 있는 장애 아동 복지케어 협회의 간판과 시설. 지역 복지 서비스",
+        "subject": "조호르바루의 장애 아동 복지케어센터"
+      },
+      {
+        "alt": "조호르주 바투파핫에 있는 복지원. 입소형 복지시설",
+        "subject": "조호르주 바투파핫의 복지원(rumah kebajikan)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ป้ายและอาคารของสมาคมสงเคราะห์เด็กพิการในยะโฮร์บาห์รู บริการสวัสดิการชุมชน",
+        "subject": "ศูนย์สงเคราะห์เด็กพิการในยะโฮร์บาห์รู"
+      },
+      {
+        "alt": "บ้านสงเคราะห์ในบาตูปาฮัต รัฐยะโฮร์ สถานสงเคราะห์แบบพักอาศัย",
+        "subject": "บ้านสงเคราะห์ (rumah kebajikan) ในบาตูปาฮัต รัฐยะโฮร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Papan tanda dan premis sebuah persatuan jagaan kebajikan kanak-kanak kurang upaya di Johor Bahru, sebuah perkhidmatan kebajikan masyarakat",
+        "subject": "Pusat jagaan kebajikan kanak-kanak kurang upaya di Johor Bahru"
+      },
+      {
+        "alt": "Sebuah rumah kebajikan di Batu Pahat, Johor, sebuah institusi kebajikan kediaman",
+        "subject": "Rumah kebajikan di Batu Pahat, Johor"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Papan nama dan bangunan sebuah perkumpulan perawatan kesejahteraan anak-anak penyandang disabilitas di Johor Bahru, sebuah layanan kesejahteraan masyarakat",
+        "subject": "Pusat perawatan kesejahteraan anak-anak penyandang disabilitas di Johor Bahru"
+      },
+      {
+        "alt": "Sebuah rumah kesejahteraan di Batu Pahat, Johor, sebuah lembaga kesejahteraan berasrama",
+        "subject": "Rumah kesejahteraan (rumah kebajikan) di Batu Pahat, Johor"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Biển hiệu và cơ sở của một hội chăm sóc phúc lợi cho trẻ em khuyết tật ở Johor Bahru, một dịch vụ phúc lợi cộng đồng",
+        "subject": "Trung tâm chăm sóc phúc lợi cho trẻ em khuyết tật ở Johor Bahru"
+      },
+      {
+        "alt": "Một nhà phúc lợi ở Batu Pahat, Johor, một cơ sở phúc lợi nội trú",
+        "subject": "Nhà phúc lợi (rumah kebajikan) ở Batu Pahat, Johor"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஜொகூர் பாருவில் மாற்றுத்திறனாளி குழந்தைகளுக்கான ஒரு நலன்புரி பராமரிப்புச் சங்கத்தின் பலகையும் வளாகமும், ஒரு சமூக நலன்புரி சேவை",
+        "subject": "ஜொகூர் பாருவில் மாற்றுத்திறனாளி குழந்தைகளுக்கான நலன்புரி பராமரிப்பு மையம்"
+      },
+      {
+        "alt": "ஜொகூர், பத்து பாஹாட்டில் ஒரு நலன்புரி இல்லம், ஒரு தங்குமிட நலன்புரி நிறுவனம்",
+        "subject": "ஜொகூர், பத்து பாஹாட்டில் நலன்புரி இல்லம் (ரூமா கெபாஜிகான்)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "जोहोर बाहरू में विकलांग बच्चों के लिए एक कल्याण-देखभाल संघ का साइनबोर्ड और परिसर, एक सामुदायिक कल्याण सेवा",
+        "subject": "जोहोर बाहरू में विकलांग बच्चों के लिए कल्याण-देखभाल केंद्र"
+      },
+      {
+        "alt": "बातू पाहात, जोहोर में एक कल्याण गृह, एक आवासीय कल्याण संस्थान",
+        "subject": "बातू पाहात, जोहोर में कल्याण गृह (rumah kebajikan)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "لافتة ومبنى جمعية رعاية اجتماعية للأطفال ذوي الإعاقة في Johor Bahru، وهي خدمة رعاية مجتمعية",
+        "subject": "مركز رعاية اجتماعية للأطفال ذوي الإعاقة في Johor Bahru"
+      },
+      {
+        "alt": "دار رعاية اجتماعية في Batu Pahat، Johor، وهي مؤسسة رعاية سكنية",
+        "subject": "دار رعاية اجتماعية (rumah kebajikan) في Batu Pahat، Johor"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El letrero y las instalaciones de una asociación de asistencia social para niños con discapacidad en Johor Bahru, un servicio de bienestar comunitario",
+        "subject": "Centro de asistencia social para niños con discapacidad en Johor Bahru"
+      },
+      {
+        "alt": "Una casa de asistencia social en Batu Pahat, Johor, una institución de acogida de bienestar",
+        "subject": "Casa de asistencia social (rumah kebajikan) en Batu Pahat, Johor"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "L'enseigne et les locaux d'une association d'aide sociale pour enfants handicapés à Johor Bahru, un service de protection sociale communautaire",
+        "subject": "Centre d'aide sociale pour enfants handicapés à Johor Bahru"
+      },
+      {
+        "alt": "Un foyer d'aide sociale à Batu Pahat, Johor, un établissement d'hébergement social",
+        "subject": "Foyer d'aide sociale (rumah kebajikan) à Batu Pahat, Johor"
+      }
+    ]
+  },
+  "government/suhakam-human-rights-commission": {
+    "zh": [
+      {
+        "alt": "吉隆坡一场和平公民社会集会的参与者,体现人权议题的背景",
+        "subject": "吉隆坡的公民社会集会(人权背景)"
+      },
+      {
+        "alt": "夜间挤满吉隆坡街道的一场和平公众集会,展现人权委员会所监督的各项自由",
+        "subject": "吉隆坡街头的和平公众集会(人权背景)"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "クアラルンプールの平和的な市民社会集会の参加者。人権の文脈を示す",
+        "subject": "クアラルンプールの市民社会の集会(人権の文脈)"
+      },
+      {
+        "alt": "夜にクアラルンプールの通りを埋め尽くす平和的な公開集会。人権委員会が監督する諸自由を示す",
+        "subject": "クアラルンプールの街路での平和的な公開集会(人権の文脈)"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "쿠알라룸푸르의 평화로운 시민사회 집회 참가자들. 인권의 맥락을 보여 준다",
+        "subject": "쿠알라룸푸르의 시민사회 집회(인권 맥락)"
+      },
+      {
+        "alt": "밤에 쿠알라룸푸르 거리를 가득 메운 평화로운 공개 집회. 인권위원회가 감독하는 자유들을 보여 준다",
+        "subject": "쿠알라룸푸르 거리의 평화로운 공개 집회(인권 맥락)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ผู้เข้าร่วมการชุมนุมภาคประชาสังคมโดยสงบในกัวลาลัมเปอร์ สะท้อนบริบทด้านสิทธิมนุษยชน",
+        "subject": "การชุมนุมภาคประชาสังคมในกัวลาลัมเปอร์ (บริบทสิทธิมนุษยชน)"
+      },
+      {
+        "alt": "การชุมนุมสาธารณะโดยสงบที่เนืองแน่นถนนในกัวลาลัมเปอร์ยามค่ำคืน แสดงถึงเสรีภาพที่คณะกรรมการสิทธิมนุษยชนกำกับดูแล",
+        "subject": "การชุมนุมสาธารณะโดยสงบบนถนนในกัวลาลัมเปอร์ (บริบทสิทธิมนุษยชน)"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Peserta pada perhimpunan masyarakat sivil yang aman di Kuala Lumpur, menggambarkan konteks hak asasi manusia",
+        "subject": "Perhimpunan masyarakat sivil di Kuala Lumpur (konteks hak asasi manusia)"
+      },
+      {
+        "alt": "Perhimpunan awam aman yang memenuhi sebuah jalan di Kuala Lumpur pada waktu malam, menggambarkan kebebasan yang diawasi oleh suruhanjaya hak asasi manusia",
+        "subject": "Perhimpunan awam aman di sebuah jalan di Kuala Lumpur (konteks hak asasi manusia)"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Para peserta dalam aksi damai masyarakat sipil di Kuala Lumpur, menggambarkan konteks hak asasi manusia",
+        "subject": "Pertemuan masyarakat sipil di Kuala Lumpur (konteks hak asasi manusia)"
+      },
+      {
+        "alt": "Aksi berkumpul damai yang memenuhi sebuah jalan di Kuala Lumpur pada malam hari, menggambarkan kebebasan yang diawasi oleh komisi hak asasi manusia",
+        "subject": "Aksi berkumpul damai di sebuah jalan di Kuala Lumpur (konteks hak asasi manusia)"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những người tham gia một cuộc tuần hành ôn hòa của xã hội dân sự ở Kuala Lumpur, minh họa cho bối cảnh nhân quyền",
+        "subject": "Buổi tụ họp của xã hội dân sự ở Kuala Lumpur (bối cảnh nhân quyền)"
+      },
+      {
+        "alt": "Một cuộc tụ họp công cộng ôn hòa phủ kín một con phố ở Kuala Lumpur vào ban đêm, minh họa cho các quyền tự do mà ủy ban nhân quyền giám sát",
+        "subject": "Cuộc tụ họp công cộng ôn hòa trên một con phố ở Kuala Lumpur (bối cảnh nhân quyền)"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கோலாலம்பூரில் ஒரு அமைதியான சிவில் சமூகப் பேரணியில் பங்கேற்பாளர்கள், மனித உரிமைகள் சூழலைச் சித்தரிக்கிறது",
+        "subject": "கோலாலம்பூரில் சிவில் சமூகக் கூட்டம் (மனித உரிமைகள் சூழல்)"
+      },
+      {
+        "alt": "இரவில் ஒரு கோலாலம்பூர் தெருவை நிரப்பும் ஒரு அமைதியான பொதுக் கூட்டம், மனித உரிமைகள் ஆணையம் மேற்பார்வையிடும் சுதந்திரங்களைச் சித்தரிக்கிறது",
+        "subject": "கோலாலம்பூர் தெருவில் அமைதியான பொதுக் கூட்டம் (மனித உரிமைகள் சூழல்)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कुआलालंपुर में एक शांतिपूर्ण नागरिक-समाज रैली के प्रतिभागी, मानवाधिकार संदर्भ को दर्शाते हुए",
+        "subject": "कुआलालंपुर में नागरिक-समाज का जमावड़ा (मानवाधिकार संदर्भ)"
+      },
+      {
+        "alt": "रात को कुआलालंपुर की एक सड़क भरती एक शांतिपूर्ण सार्वजनिक सभा, मानवाधिकार आयोग जिन स्वतंत्रताओं की निगरानी करता है उन्हें दर्शाती हुई",
+        "subject": "कुआलालंपुर की एक सड़क पर शांतिपूर्ण सार्वजनिक सभा (मानवाधिकार संदर्भ)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مشاركون في تجمّع سلمي للمجتمع المدني في Kuala Lumpur، يوضّح سياق حقوق الإنسان",
+        "subject": "تجمّع للمجتمع المدني في Kuala Lumpur (سياق حقوق الإنسان)"
+      },
+      {
+        "alt": "تجمّع عامّ سلمي يملأ أحد شوارع Kuala Lumpur ليلاً، يوضّح الحريات التي تشرف عليها لجنة حقوق الإنسان",
+        "subject": "تجمّع عامّ سلمي في أحد شوارع Kuala Lumpur (سياق حقوق الإنسان)"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Participantes en una concentración pacífica de la sociedad civil en Kuala Lumpur, que ilustra el contexto de los derechos humanos",
+        "subject": "Concentración de la sociedad civil en Kuala Lumpur (contexto de derechos humanos)"
+      },
+      {
+        "alt": "Una reunión pública pacífica que llena una calle de Kuala Lumpur de noche, ilustrando las libertades que supervisa la comisión de derechos humanos",
+        "subject": "Reunión pública pacífica en una calle de Kuala Lumpur (contexto de derechos humanos)"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des participants à un rassemblement pacifique de la société civile à Kuala Lumpur, illustrant le contexte des droits humains",
+        "subject": "Rassemblement de la société civile à Kuala Lumpur (contexte des droits humains)"
+      },
+      {
+        "alt": "Un rassemblement public pacifique emplissant une rue de Kuala Lumpur la nuit, illustrant les libertés que supervise la commission des droits humains",
+        "subject": "Rassemblement public pacifique dans une rue de Kuala Lumpur (contexte des droits humains)"
+      }
+    ]
+  },
+  "cost-of-living/cost-of-living-johor-bahru": {
+    "zh": [
+      {
+        "alt": "新山武吉英达每周市集上一排排新鲜农产品摊位",
+        "subject": "新山武吉英达的每周新鲜农产品市集"
+      },
+      {
+        "alt": "新山市中心主要商业街黄亚福街沿街的商店与顾客",
+        "subject": "黄亚福街,新山的主要商业街"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ジョホールバルのブキット・インダの週市に並ぶ生鮮食品の屋台",
+        "subject": "ジョホールバルのブキット・インダの週市(生鮮市場)"
+      },
+      {
+        "alt": "ジョホールバル中心部の主要商店街、ワン・アフォック通り沿いの店舗と買い物客",
+        "subject": "ワン・アフォック通り。ジョホールバルの主要商店街"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "조호르바루 부킷인다의 주간 장에 늘어선 신선 농산물 노점",
+        "subject": "조호르바루 부킷인다의 주간 농산물 시장"
+      },
+      {
+        "alt": "조호르바루 도심 주요 상업 거리인 웡아푹 거리를 따라 늘어선 상점과 쇼핑객",
+        "subject": "웡아푹 거리, 조호르바루의 주요 상업 거리"
+      }
+    ],
+    "th": [
+      {
+        "alt": "แผงขายผลผลิตสดในตลาดนัดประจำสัปดาห์ที่บูกิตอินดะฮ์ ยะโฮร์บาห์รู",
+        "subject": "ตลาดผลผลิตสดประจำสัปดาห์ที่บูกิตอินดะฮ์ ยะโฮร์บาห์รู"
+      },
+      {
+        "alt": "ร้านค้าและผู้คนจับจ่ายตามถนนวงอาฟุก ถนนการค้าสายหลักใจกลางยะโฮร์บาห์รู",
+        "subject": "ถนนวงอาฟุก ถนนการค้าสายหลักของยะโฮร์บาห์รู"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Gerai hasil tani segar di pasar mingguan di Bukit Indah, Johor Bahru",
+        "subject": "Pasar hasil tani segar mingguan di Bukit Indah, Johor Bahru"
+      },
+      {
+        "alt": "Kedai dan pembeli-belah di sepanjang Jalan Wong Ah Fook, jalan perdagangan utama di tengah Johor Bahru",
+        "subject": "Jalan Wong Ah Fook, jalan perdagangan utama Johor Bahru"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Lapak hasil tani segar di pasar mingguan di Bukit Indah, Johor Bahru",
+        "subject": "Pasar mingguan hasil tani segar di Bukit Indah, Johor Bahru"
+      },
+      {
+        "alt": "Toko-toko dan pembeli di sepanjang Jalan Wong Ah Fook, jalan komersial utama di pusat Johor Bahru",
+        "subject": "Jalan Wong Ah Fook, jalan komersial utama Johor Bahru"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những quầy nông sản tươi tại phiên chợ hằng tuần ở Bukit Indah, Johor Bahru",
+        "subject": "Chợ nông sản tươi hằng tuần ở Bukit Indah, Johor Bahru"
+      },
+      {
+        "alt": "Các cửa hàng và người mua sắm dọc theo Jalan Wong Ah Fook, con phố thương mại chính ở trung tâm Johor Bahru",
+        "subject": "Jalan Wong Ah Fook, con phố thương mại chính của Johor Bahru"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஜொகூர் பாரு, புக்கிட் இந்தாவில் வாராந்திர சந்தையில் புதிய விளைபொருள் கடைகள்",
+        "subject": "ஜொகூர் பாரு, புக்கிட் இந்தாவில் வாராந்திர புதிய விளைபொருள் சந்தை"
+      },
+      {
+        "alt": "ஜொகூர் பாரு மையப்பகுதியின் முதன்மை வணிகத் தெருவான ஜாலான் வோங் அ ஃபூக் வழியே கடைகளும் வாங்குநர்களும்",
+        "subject": "ஜாலான் வோங் அ ஃபூக், ஜொகூர் பாருவின் முதன்மை வணிகத் தெரு"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "बुकित इंदाह, जोहोर बाहरू में साप्ताहिक बाज़ार में ताज़ी उपज के स्टॉल",
+        "subject": "बुकित इंदाह, जोहोर बाहरू में साप्ताहिक ताज़ी-उपज बाज़ार"
+      },
+      {
+        "alt": "मध्य जोहोर बाहरू की मुख्य वाणिज्यिक सड़क जालान वोंग आह फूक के किनारे दुकानें और खरीदार",
+        "subject": "जालान वोंग आह फूक, जोहोर बाहरू की मुख्य वाणिज्यिक सड़क"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "أكشاك للمنتجات الطازجة في السوق الأسبوعي في Bukit Indah، Johor Bahru",
+        "subject": "سوق أسبوعي للمنتجات الطازجة في Bukit Indah، Johor Bahru"
+      },
+      {
+        "alt": "محلات ومتسوّقون على طول Jalan Wong Ah Fook، الشارع التجاري الرئيسي في وسط Johor Bahru",
+        "subject": "Jalan Wong Ah Fook، الشارع التجاري الرئيسي في Johor Bahru"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Puestos de productos frescos en el mercado semanal de Bukit Indah, Johor Bahru",
+        "subject": "Mercado semanal de productos frescos en Bukit Indah, Johor Bahru"
+      },
+      {
+        "alt": "Comercios y compradores a lo largo de Jalan Wong Ah Fook, la principal calle comercial del centro de Johor Bahru",
+        "subject": "Jalan Wong Ah Fook, la principal calle comercial de Johor Bahru"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Étals de produits frais au marché hebdomadaire de Bukit Indah, Johor Bahru",
+        "subject": "Marché hebdomadaire de produits frais à Bukit Indah, Johor Bahru"
+      },
+      {
+        "alt": "Commerces et passants le long de Jalan Wong Ah Fook, la principale rue commerçante du centre de Johor Bahru",
+        "subject": "Jalan Wong Ah Fook, la principale rue commerçante de Johor Bahru"
+      }
+    ]
+  },
+  "cost-of-living/cost-of-living-penang": {
+    "zh": [
+      {
+        "alt": "槟城乔治市马加兰街的高层住宅组屋,展现城市住房状况",
+        "subject": "槟城乔治市马加兰街的高层公共住房组屋"
+      },
+      {
+        "alt": "槟城双溪峇甲巴刹的摊贩与摊位",
+        "subject": "槟城双溪峇甲的巴刹(菜市)"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ペナン州ジョージタウンのマッカラム通りにある高層住宅。都市住宅の様子を示す",
+        "subject": "ペナン州ジョージタウンのマッカラム通りの高層公営住宅"
+      },
+      {
+        "alt": "ペナン州スンガイ・バカップの生鮮市場の売り手と屋台",
+        "subject": "ペナン州スンガイ・バカップの生鮮市場"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "페낭주 조지타운 마칼럼 거리의 고층 주택. 도시 주거 모습을 보여 준다",
+        "subject": "페낭주 조지타운 마칼럼 거리의 고층 공공주택"
+      },
+      {
+        "alt": "페낭주 숭아이바캅 재래시장의 상인과 노점",
+        "subject": "페낭주 숭아이바캅의 재래시장"
+      }
+    ],
+    "th": [
+      {
+        "alt": "แฟลตที่พักอาศัยสูงบนถนนมักกาลัมในจอร์จทาวน์ รัฐปีนัง แสดงถึงที่อยู่อาศัยในเมือง",
+        "subject": "แฟลตการเคหะสูงบนถนนมักกาลัม จอร์จทาวน์ รัฐปีนัง"
+      },
+      {
+        "alt": "พ่อค้าแม่ค้าและแผงลอยที่ตลาดสดซูไงบากัป รัฐปีนัง",
+        "subject": "ตลาดสดที่ซูไงบากัป รัฐปีนัง"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pangsapuri kediaman bertingkat tinggi di Jalan Maccalum di George Town, Pulau Pinang, menggambarkan perumahan bandar",
+        "subject": "Pangsapuri perumahan awam bertingkat tinggi di Jalan Maccalum, George Town, Pulau Pinang"
+      },
+      {
+        "alt": "Penjaja dan gerai di pasar basah Sungai Bakap di Pulau Pinang",
+        "subject": "Pasar basah di Sungai Bakap, Pulau Pinang"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Rumah susun hunian bertingkat tinggi di Maccalum Street di George Town, Penang, menggambarkan perumahan perkotaan",
+        "subject": "Rumah susun publik bertingkat tinggi di Maccalum Street, George Town, Penang"
+      },
+      {
+        "alt": "Para pedagang dan lapak di pasar basah Sungai Bakap di Penang",
+        "subject": "Pasar basah di Sungai Bakap, Penang"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những khối chung cư cao tầng trên phố Maccalum ở George Town, Penang, minh họa cho nhà ở đô thị",
+        "subject": "Những khối chung cư nhà ở xã hội cao tầng trên phố Maccalum, George Town, Penang"
+      },
+      {
+        "alt": "Những người bán hàng và các quầy hàng tại chợ tươi sống Sungai Bakap ở Penang",
+        "subject": "Chợ tươi sống ở Sungai Bakap, Penang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பினாங், ஜார்ஜ் டவுனில் மக்காலம் தெருவில் உயரமான குடியிருப்புத் தொகுதிகள், நகர்ப்புற வீட்டுவசதியைச் சித்தரிக்கிறது",
+        "subject": "பினாங், ஜார்ஜ் டவுன், மக்காலம் தெருவில் உயரமான பொதுக் குடியிருப்பு வீட்டுத் தொகுதிகள்"
+      },
+      {
+        "alt": "பினாங், சுங்கை பாக்காப் ஈரச் சந்தையில் வியாபாரிகளும் கடைகளும்",
+        "subject": "பினாங், சுங்கை பாக்காப்பில் ஈரச் சந்தை"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "जॉर्ज टाउन, पिनांग में मकालम स्ट्रीट पर ऊँचे आवासीय फ्लैट, शहरी आवास को दर्शाते हुए",
+        "subject": "मकालम स्ट्रीट, जॉर्ज टाउन, पिनांग पर ऊँचे सार्वजनिक आवास फ्लैट"
+      },
+      {
+        "alt": "पिनांग में सुंगई बाकाप गीले बाज़ार के विक्रेता और स्टॉल",
+        "subject": "सुंगई बाकाप, पिनांग में गीला बाज़ार"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "شقق سكنية شاهقة في Maccalum Street في George Town، Penang، توضّح السكن الحضري",
+        "subject": "شقق سكنية عامة شاهقة في Maccalum Street، George Town، Penang"
+      },
+      {
+        "alt": "باعة وأكشاك في سوق Sungai Bakap للمواد الطازجة في Penang",
+        "subject": "سوق للمواد الطازجة في Sungai Bakap، Penang"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Bloques residenciales en altura en Maccalum Street, en George Town, Penang, que ilustran la vivienda urbana",
+        "subject": "Bloques de vivienda pública en altura en Maccalum Street, George Town, Penang"
+      },
+      {
+        "alt": "Vendedores y puestos en el mercado de productos frescos de Sungai Bakap, en Penang",
+        "subject": "Mercado de productos frescos en Sungai Bakap, Penang"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Immeubles résidentiels en hauteur sur Maccalum Street, à George Town, Penang, illustrant le logement urbain",
+        "subject": "Immeubles de logements sociaux en hauteur sur Maccalum Street, George Town, Penang"
+      },
+      {
+        "alt": "Vendeurs et étals au marché de produits frais de Sungai Bakap, à Penang",
+        "subject": "Marché de produits frais à Sungai Bakap, Penang"
+      }
+    ]
+  },
+  "settling-in/autogate-and-myborderpass": {
+    "zh": [
+      {
+        "alt": "吉隆坡国际机场第一航站楼的入境大厅,旅客在此办理入境手续",
+        "subject": "吉隆坡国际机场第一航站楼的入境大厅"
+      },
+      {
+        "alt": "新山陆路边境通往新加坡的苏丹依斯干达大厦移民检查站综合大楼",
+        "subject": "苏丹依斯干达大厦CIQ综合大楼,新山通往新加坡的陆路边境口岸"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "旅客が入国審査を通過するクアラルンプール国際空港第1ターミナルの到着ロビー",
+        "subject": "クアラルンプール国際空港第1ターミナルの到着ロビー"
+      },
+      {
+        "alt": "ジョホールバルの陸路国境検問所、シンガポールへ渡るスルタン・イスカンダル・ビルの出入国検問施設",
+        "subject": "スルタン・イスカンダル・ビルのCIQ施設。シンガポールへ渡るジョホールバルの陸路国境"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "여행객이 입국 심사를 받는 쿠알라룸푸르 국제공항 제1터미널 입국장",
+        "subject": "쿠알라룸푸르 국제공항 제1터미널 입국장"
+      },
+      {
+        "alt": "싱가포르로 건너가는 조호르바루 육로 국경의 술탄 이스칸다르 빌딩 출입국 검문 단지",
+        "subject": "술탄 이스칸다르 빌딩 CIQ 단지. 싱가포르로 통하는 조호르바루 육로 국경"
+      }
+    ],
+    "th": [
+      {
+        "alt": "โถงผู้โดยสารขาเข้าที่อาคารผู้โดยสาร 1 ท่าอากาศยานนานาชาติกัวลาลัมเปอร์ ซึ่งผู้โดยสารผ่านพิธีการตรวจคนเข้าเมือง",
+        "subject": "โถงผู้โดยสารขาเข้าที่อาคารผู้โดยสาร 1 ท่าอากาศยานนานาชาติกัวลาลัมเปอร์"
+      },
+      {
+        "alt": "อาคารด่านตรวจคนเข้าเมืองสุลต่านอิสกันดาร์ที่ด่านพรมแดนทางบกยะโฮร์บาห์รูไปยังสิงคโปร์",
+        "subject": "อาคารด่าน CIQ สุลต่านอิสกันดาร์ ด่านพรมแดนทางบกยะโฮร์บาห์รูไปยังสิงคโปร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Dewan ketibaan di Lapangan Terbang Antarabangsa Kuala Lumpur Terminal 1, tempat pengembara melepasi imigresen",
+        "subject": "Dewan ketibaan di Lapangan Terbang Antarabangsa Kuala Lumpur Terminal 1"
+      },
+      {
+        "alt": "Kompleks pusat pemeriksaan imigresen Bangunan Sultan Iskandar di lintasan sempadan darat Johor Bahru",
+        "subject": "Kompleks CIQ Bangunan Sultan Iskandar, lintasan sempadan darat Johor Bahru ke Singapura"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Ruang kedatangan di Bandara Internasional Kuala Lumpur Terminal 1, tempat para pelancong melewati imigrasi",
+        "subject": "Ruang kedatangan di Bandara Internasional Kuala Lumpur Terminal 1"
+      },
+      {
+        "alt": "Kompleks pos pemeriksaan imigrasi Bangunan Sultan Iskandar di lintas batas darat Johor Bahru",
+        "subject": "Kompleks CIQ Bangunan Sultan Iskandar, lintas batas darat Johor Bahru menuju Singapura"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Sảnh đến tại Nhà ga số 1, Sân bay Quốc tế Kuala Lumpur, nơi hành khách làm thủ tục xuất nhập cảnh",
+        "subject": "Sảnh đến tại Nhà ga số 1, Sân bay Quốc tế Kuala Lumpur"
+      },
+      {
+        "alt": "Khu phức hợp trạm kiểm soát xuất nhập cảnh Bangunan Sultan Iskandar tại cửa khẩu đường bộ Johor Bahru",
+        "subject": "Khu phức hợp CIQ Bangunan Sultan Iskandar, cửa khẩu đường bộ Johor Bahru sang Singapore"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கோலாலம்பூர் சர்வதேச விமான நிலையம் டெர்மினல் 1-ல் பயணிகள் குடிநுழைவுச் சோதனையைக் கடக்கும் வருகை மண்டபம்",
+        "subject": "கோலாலம்பூர் சர்வதேச விமான நிலையம் டெர்மினல் 1-ல் வருகை மண்டபம்"
+      },
+      {
+        "alt": "ஜொகூர் பாரு தரை எல்லைக் கடவையில் உள்ள பாங்குனான் சுல்தான் இஸ்கந்தர் குடிநுழைவுச் சோதனைச் சாவடி வளாகம்",
+        "subject": "பாங்குனான் சுல்தான் இஸ்கந்தர் CIQ வளாகம், சிங்கப்பூருக்கான ஜொகூர் பாரு தரை எல்லைக் கடவை"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कुआलालंपुर अंतर्राष्ट्रीय हवाई अड्डा टर्मिनल 1 का आगमन हॉल, जहाँ यात्री आव्रजन से गुज़रते हैं",
+        "subject": "कुआलालंपुर अंतर्राष्ट्रीय हवाई अड्डा टर्मिनल 1 का आगमन हॉल"
+      },
+      {
+        "alt": "जोहोर बाहरू के ज़मीनी सीमा-पारगमन पर Bangunan Sultan Iskandar आव्रजन चौकी परिसर",
+        "subject": "Bangunan Sultan Iskandar CIQ परिसर, सिंगापुर के लिए जोहोर बाहरू का ज़मीनी सीमा-पारगमन"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "قاعة الوصول في Kuala Lumpur International Airport Terminal 1، حيث ينهي المسافرون إجراءات الهجرة",
+        "subject": "قاعة الوصول في Kuala Lumpur International Airport Terminal 1"
+      },
+      {
+        "alt": "مجمّع نقطة تفتيش الهجرة Bangunan Sultan Iskandar عند المعبر البرّي في Johor Bahru",
+        "subject": "مجمّع Bangunan Sultan Iskandar CIQ، المعبر البرّي من Johor Bahru إلى Singapore"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El vestíbulo de llegadas de la Terminal 1 del Aeropuerto Internacional de Kuala Lumpur, donde los viajeros pasan el control de inmigración",
+        "subject": "Vestíbulo de llegadas de la Terminal 1 del Aeropuerto Internacional de Kuala Lumpur"
+      },
+      {
+        "alt": "El complejo del puesto de control de inmigración Bangunan Sultan Iskandar en el paso fronterizo terrestre de Johor Bahru",
+        "subject": "Complejo CIQ Bangunan Sultan Iskandar, el paso fronterizo terrestre de Johor Bahru hacia Singapur"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Le hall d'arrivée du Terminal 1 de l'aéroport international de Kuala Lumpur, où les voyageurs passent le contrôle de l'immigration",
+        "subject": "Hall d'arrivée du Terminal 1 de l'aéroport international de Kuala Lumpur"
+      },
+      {
+        "alt": "Le complexe du poste de contrôle de l'immigration Bangunan Sultan Iskandar au poste-frontière terrestre de Johor Bahru",
+        "subject": "Complexe CIQ Bangunan Sultan Iskandar, le poste-frontière terrestre de Johor Bahru vers Singapour"
+      }
+    ]
+  },
+  "settling-in/immigration-department-jim": {
+    "zh": [
+      {
+        "alt": "沙巴仙本那的移民局(Jabatan Imigresen)分局办事处",
+        "subject": "沙巴仙本那的移民局(Jabatan Imigresen)分局"
+      },
+      {
+        "alt": "一枚在移民局检查站加盖的马来西亚移民护照印章",
+        "subject": "马来西亚移民出入境护照印章"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "サバ州スンポルナの入国管理局(Jabatan Imigresen)支局の事務所",
+        "subject": "サバ州スンポルナの入国管理局(Jabatan Imigresen)支局"
+      },
+      {
+        "alt": "入国管理局の検問所で押されたマレーシアの入国審査のパスポートスタンプ",
+        "subject": "マレーシアの出入国パスポートスタンプ"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "사바주 셈포르나의 이민국(Jabatan Imigresen) 지국 사무소",
+        "subject": "사바주 셈포르나의 이민국(Jabatan Imigresen) 지국"
+      },
+      {
+        "alt": "이민국 검문소에서 찍은 말레이시아 출입국 여권 스탬프",
+        "subject": "말레이시아 출입국 여권 스탬프"
+      }
+    ],
+    "th": [
+      {
+        "alt": "สำนักงานสาขาของสำนักงานตรวจคนเข้าเมือง (Jabatan Imigresen) ในเซิมปอร์นา รัฐซาบาห์",
+        "subject": "สาขาสำนักงานตรวจคนเข้าเมือง (Jabatan Imigresen) ในเซิมปอร์นา รัฐซาบาห์"
+      },
+      {
+        "alt": "ตราประทับหนังสือเดินทางเข้าออกของมาเลเซียที่ประทับ ณ ด่านตรวจคนเข้าเมือง",
+        "subject": "ตราประทับหนังสือเดินทางเข้าออกของมาเลเซีย"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pejabat cawangan Jabatan Imigresen di Semporna, Sabah",
+        "subject": "Pejabat cawangan Jabatan Imigresen di Semporna, Sabah"
+      },
+      {
+        "alt": "Sebuah cop pasport imigresen Malaysia, yang dikeluarkan di pusat pemeriksaan Jabatan Imigresen",
+        "subject": "Cop pasport masuk/keluar imigresen Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Kantor cabang Departemen Imigrasi di Semporna, Sabah",
+        "subject": "Kantor cabang Departemen Imigrasi (Jabatan Imigresen) di Semporna, Sabah"
+      },
+      {
+        "alt": "Sebuah stempel paspor imigrasi Malaysia, yang diterbitkan di pos pemeriksaan Departemen Imigrasi",
+        "subject": "Stempel paspor keluar/masuk imigrasi Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Văn phòng chi nhánh Cục Di trú ở Semporna, Sabah",
+        "subject": "Văn phòng chi nhánh Cục Di trú (Jabatan Imigresen) ở Semporna, Sabah"
+      },
+      {
+        "alt": "Một con dấu hộ chiếu của cơ quan di trú Malaysia, được đóng tại một trạm kiểm soát của Cục Di trú",
+        "subject": "Dấu nhập/xuất cảnh trên hộ chiếu của cơ quan di trú Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "சபா, செம்போர்னாவில் உள்ள குடிவரவுத் துறை கிளை அலுவலகம்",
+        "subject": "சபா, செம்போர்னாவில் குடிவரவுத் துறை (ஜபாத்தான் இமிகிரேசன்) கிளை அலுவலகம்"
+      },
+      {
+        "alt": "குடிவரவுத் துறை சோதனைச் சாவடியில் வழங்கப்பட்ட ஒரு மலேசிய குடிவரவு கடவுச்சீட்டு முத்திரை",
+        "subject": "மலேசிய குடிவரவு நுழைவு/வெளியேற்ற கடவுச்சீட்டு முத்திரை"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "सेम्पोर्ना, सबा में आव्रजन विभाग की शाखा कार्यालय",
+        "subject": "सेम्पोर्ना, सबा में आव्रजन विभाग (Jabatan Imigresen) की शाखा कार्यालय"
+      },
+      {
+        "alt": "एक मलेशियाई आव्रजन पासपोर्ट मुहर, जो एक आव्रजन विभाग चौकी पर लगाई गई",
+        "subject": "मलेशियाई आव्रजन प्रवेश/निकास पासपोर्ट मुहर"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "المكتب الفرعي لدائرة الهجرة في Semporna، Sabah",
+        "subject": "مكتب فرعي لدائرة الهجرة (Jabatan Imigresen) في Semporna، Sabah"
+      },
+      {
+        "alt": "ختم جواز سفر من الهجرة الماليزية، صادر عند نقطة تفتيش تابعة لدائرة الهجرة",
+        "subject": "ختم جواز سفر للدخول/الخروج من الهجرة الماليزية"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La oficina de la sucursal del Departamento de Inmigración en Semporna, Sabah",
+        "subject": "Oficina de la sucursal del Departamento de Inmigración (Jabatan Imigresen) en Semporna, Sabah"
+      },
+      {
+        "alt": "Un sello de inmigración de Malasia en el pasaporte, estampado en un puesto de control del Departamento de Inmigración",
+        "subject": "Sello de entrada/salida de inmigración de Malasia en el pasaporte"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Le bureau local du Département de l'immigration à Semporna, Sabah",
+        "subject": "Bureau local du Département de l'immigration (Jabatan Imigresen) à Semporna, Sabah"
+      },
+      {
+        "alt": "Un cachet de passeport de l'immigration malaisienne, apposé à un poste de contrôle du Département de l'immigration",
+        "subject": "Cachet de passeport d'entrée/sortie de l'immigration malaisienne"
+      }
+    ]
+  },
+  "industries/furniture-wood-products-industry": {
+    "zh": [
+      {
+        "alt": "柔佛居銮Home Best家具店醒目的红白转角建筑,招牌以马来文与中文写着Pusat Perabot Home Best Furniture,衬着晴朗的蓝天",
+        "subject": "马来西亚柔佛居銮市山竹路上的家具零售店Pusat Perabot Home Best"
+      },
+      {
+        "alt": "沙巴山打根一处敞开式带顶木材场里,整齐堆叠着一排排刚锯好的热带木板,蜜色与红棕色的木纹在午后阳光下泛光",
+        "subject": "马来西亚沙巴山打根一处木材场出售的成堆锯制热带木板"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ジョホール州クランのホームベスト家具店の目を引く赤と白の角地の建物。看板にはマレー語と中国語でPusat Perabot Home Best Furnitureと記され、晴れた青空を背にする",
+        "subject": "マレーシア、ジョホール州クランの町のジャラン・マンギスにある家具店Pusat Perabot Home Best"
+      },
+      {
+        "alt": "サバ州サンダカンの片側開放の屋根付き製材所に、きれいに積み上げられた切りたての熱帯材の板が並び、蜂蜜色と赤褐色の木目が午後の日差しに照らされる",
+        "subject": "マレーシア、サバ州サンダカンの製材所で売られる切り出した熱帯材の板の山"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "조호르주 클루앙의 홈베스트 가구점의 눈에 띄는 빨강과 흰색 모퉁이 건물. 간판에 말레이어와 중국어로 Pusat Perabot Home Best Furniture라고 적혀 있고 맑은 파란 하늘을 배경으로 한다",
+        "subject": "말레이시아 조호르주 클루앙 시내 잘란 망기스의 가구점 Pusat Perabot Home Best"
+      },
+      {
+        "alt": "사바주 산다칸의 한쪽이 트인 지붕 덮인 목재장에 갓 켠 열대 목재 판재가 가지런히 줄지어 쌓여 있고 꿀빛과 적갈색 나뭇결이 오후 햇살에 빛난다",
+        "subject": "말레이시아 사바주 산다칸의 목재장에서 판매되는 켜 놓은 열대 목재 판재 더미"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารหัวมุมสีแดง-ขาวสะดุดตาของร้านเฟอร์นิเจอร์โฮมเบสต์ในกลวง รัฐยะโฮร์ ป้ายเขียนว่า Pusat Perabot Home Best Furniture ทั้งภาษามลายูและภาษาจีน ตัดกับท้องฟ้าสีครามแจ่มใส",
+        "subject": "ร้านค้าปลีกเฟอร์นิเจอร์ Pusat Perabot Home Best บนถนนมังกิสในเมืองกลวง รัฐยะโฮร์ มาเลเซีย"
+      },
+      {
+        "alt": "ไม้เนื้อแข็งเขตร้อนที่เพิ่งเลื่อยเสร็จวางซ้อนเป็นแถวอย่างเป็นระเบียบเต็มลานไม้มีหลังคาเปิดโล่งด้านข้างในซันดากัน รัฐซาบาห์ ลายไม้สีน้ำผึ้งและสีน้ำตาลแดงต้องแสงยามบ่าย",
+        "subject": "ไม้เนื้อแข็งเขตร้อนเลื่อยแล้ววางขายเป็นกองที่ลานไม้ในซันดากัน รัฐซาบาห์ มาเลเซีย"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Bangunan penjuru merah-putih yang menonjol milik kedai perabot Home Best di Kluang, Johor, dengan papan tandanya tertera Pusat Perabot Home Best Furniture dalam bahasa Melayu dan Cina berlatarkan langit biru cerah.",
+        "subject": "Sebuah peruncit perabot, Pusat Perabot Home Best, di Jalan Manggis di pekan Kluang, Johor, Malaysia"
+      },
+      {
+        "alt": "Barisan papan kayu tropika yang baru digergaji disusun kemas memenuhi sebuah depoh kayu beratap bersisi terbuka di Sandakan, Sabah, dengan ira kayunya berwarna madu hangat dan perang kemerahan disinari matahari petang.",
+        "subject": "Longgokan papan kayu tropika yang digergaji dijual di sebuah depoh kayu di Sandakan, Sabah, Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Bangunan sudut merah-putih yang mencolok milik toko furnitur Home Best di Kluang, Johor, dengan papan namanya bertuliskan Pusat Perabot Home Best Furniture dalam bahasa Melayu dan Tionghoa berlatar langit biru cerah.",
+        "subject": "Sebuah peritel furnitur, Pusat Perabot Home Best, di Jalan Manggis di kota Kluang, Johor, Malaysia"
+      },
+      {
+        "alt": "Barisan papan kayu tropis yang baru digergaji ditata rapi memenuhi sebuah depot kayu beratap dengan sisi terbuka di Sandakan, Sabah, dengan serat kayunya berwarna madu hangat dan cokelat kemerahan yang disinari matahari sore.",
+        "subject": "Tumpukan papan kayu tropis gergajian yang dijual di sebuah depot kayu di Sandakan, Sabah, Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Tòa nhà góc phố màu đỏ-trắng nổi bật của cửa hàng nội thất Home Best ở Kluang, Johor, với các biển hiệu ghi Pusat Perabot Home Best Furniture bằng tiếng Mã Lai và tiếng Hoa trên nền trời xanh trong.",
+        "subject": "Một cửa hàng bán lẻ nội thất, Pusat Perabot Home Best, trên đường Jalan Manggis ở thị trấn Kluang, Johor, Malaysia"
+      },
+      {
+        "alt": "Những hàng ván gỗ nhiệt đới mới xẻ xếp ngay ngắn chất đầy một bãi gỗ có mái che hở hông ở Sandakan, Sabah, vân gỗ màu mật ong ấm áp và nâu đỏ của chúng được ánh nắng chiều chiếu rọi.",
+        "subject": "Những chồng ván gỗ nhiệt đới đã xẻ được bày bán tại một bãi gỗ ở Sandakan, Sabah, Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஜொகூர், கிளுவாங்கில் உள்ள ஹோம் பெஸ்ட் தளபாடக் கடையின் தெளிவான நீல வானத்தைப் பின்னணியாகக் கொண்ட, கண்ணைக் கவரும் சிவப்பு-வெள்ளை மூலைக் கட்டிடம்; அதன் பலகைகளில் மலாய் மற்றும் சீன மொழிகளில் புசாட் பெராபோட் ஹோம் பெஸ்ட் ஃபர்னிச்சர் என்று எழுதப்பட்டுள்ளது.",
+        "subject": "மலேசியா, ஜொகூர், கிளுவாங் நகரில் ஜாலான் மங்கிஸ் சாலையில் உள்ள ஒரு தளபாடச் சில்லறை விற்பனையகம், புசாட் பெராபோட் ஹோம் பெஸ்ட்"
+      },
+      {
+        "alt": "சபா, சண்டகானில் பக்கங்கள் திறந்த ஒரு கூரையிட்ட மரக்கட்டை முற்றத்தை நிரப்பும், புதிதாக அறுக்கப்பட்ட வெப்பமண்டல மரப் பலகைகளின் நேர்த்தியாக அடுக்கப்பட்ட வரிசைகள்; பிற்பகல் சூரிய ஒளியில் அவற்றின் தேன் நிற மற்றும் சிவப்பு கலந்த பழுப்பு நிற மரநார் ஒளிர்கிறது.",
+        "subject": "மலேசியா, சபா, சண்டகானில் ஒரு மரக்கட்டை முற்றத்தில் விற்பனைக்கு வைக்கப்பட்டுள்ள அறுக்கப்பட்ட வெப்பமண்டல மரப் பலகைகளின் அடுக்குகள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "क्लुआंग, जोहोर में Home Best फर्नीचर स्टोर की चटख लाल-और-सफ़ेद कोने वाली इमारत, जिसके साइनबोर्ड पर मलय और चीनी में Pusat Perabot Home Best Furniture लिखा है, साफ़ नीले आकाश के सामने।",
+        "subject": "एक फर्नीचर विक्रेता, Pusat Perabot Home Best, जालान मंगगिस, क्लुआंग शहर, जोहोर, मलेशिया में"
+      },
+      {
+        "alt": "सांदाकान, सबा में एक खुले-किनारे वाले छतयुक्त लकड़ी यार्ड को भरते ताज़ा चिरी उष्णकटिबंधीय लकड़ी के तख्तों की करीने से लगी कतारें, जिनकी गरम शहद और लालिमा-भूरी रेशे-बनावट दोपहर की धूप में चमक रही है।",
+        "subject": "सांदाकान, सबा, मलेशिया में एक लकड़ी यार्ड में बिक्री के लिए चिरी हुई उष्णकटिबंधीय लकड़ी के तख्तों के ढेर"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "المبنى الزاوي الأحمر والأبيض الزاهي لمتجر الأثاث Home Best في Kluang، Johor، وعلى لافتاته عبارة Pusat Perabot Home Best Furniture بالملايوية والصينية أمام سماء زرقاء صافية.",
+        "subject": "متجر أثاث، Pusat Perabot Home Best، في Jalan Manggis بمدينة Kluang، Johor، ماليزيا"
+      },
+      {
+        "alt": "صفوف مرتّبة بعناية من ألواح الأخشاب الاستوائية الطازجة المنشورة تملأ ساحة أخشاب مسقوفة مفتوحة الجوانب في Sandakan، Sabah، وتتلألأ خطوط حبوبها العسلية الدافئة والبنّية المحمرّة في شمس العصر.",
+        "subject": "أكوام من ألواح الأخشاب الاستوائية المنشورة معروضة للبيع في ساحة أخشاب في Sandakan، Sabah، ماليزيا"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El llamativo edificio en esquina de color rojo y blanco de la tienda de muebles Home Best en Kluang, Johor, con sus letreros que rezan Pusat Perabot Home Best Furniture en malayo y chino contra un cielo azul despejado.",
+        "subject": "Una tienda de muebles, Pusat Perabot Home Best, en Jalan Manggis, en la localidad de Kluang, Johor, Malasia"
+      },
+      {
+        "alt": "Hileras pulcramente apiladas de tablones de madera tropical recién aserrada llenan un depósito de madera techado y de lados abiertos en Sandakan, Sabah, con su veta cálida color miel y pardo rojizo iluminada por el sol de la tarde.",
+        "subject": "Pilas de tablas de madera tropical aserrada a la venta en un depósito de madera en Sandakan, Sabah, Malasia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Le bâtiment d'angle rouge et blanc éclatant du magasin de meubles Home Best à Kluang, Johor, dont les enseignes indiquent Pusat Perabot Home Best Furniture en malais et en chinois sur fond de ciel bleu dégagé.",
+        "subject": "Un magasin de meubles, Pusat Perabot Home Best, sur Jalan Manggis, dans la ville de Kluang, Johor, Malaisie"
+      },
+      {
+        "alt": "Des rangées soigneusement empilées de planches de bois tropical fraîchement scié remplissent un parc à bois couvert et ouvert sur les côtés à Sandakan, Sabah, leur veinage chaud couleur miel et brun rougeâtre illuminé par le soleil de l'après-midi.",
+        "subject": "Piles de planches de bois tropical scié en vente dans un parc à bois à Sandakan, Sabah, Malaisie"
+      }
+    ]
   }
 }

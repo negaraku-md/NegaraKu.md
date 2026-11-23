@@ -31,7 +31,7 @@ faq:
     a: "Produsen bisa memasarkan langsung kepada konsumen melalui saluran FAMA seperti Pasar Tani Kekal, Agrobazaar, My Farm Outlet dan Gerai Buah-buahan Segar, atau ikut program seperti Ladang Kontrak dan RANTAI. Rincian keikutsertaan dikonfirmasi di fama.gov.my."
 
 lang: "id"
-sourceContentHash: "63ddd6b5ce85bb78"
+sourceContentHash: "ce96afd3a2e0d14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pasar_Tani-Putrajaya.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/fama-agricultural-marketing-authority/body-1.webp
+    alt: Lapak gerobak dorong yang penuh dengan rambutan dan langsat, dihiasi bendera Malaysia, di Central Market, Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Pedagang buah kaki lima menjual rambutan dan langsat di Kuala Lumpur
+    credit: Mohd Fazlin Mohd Effendy Ooi from Kuala Lumpur, Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rambutan_%26_Langsat_Stall_(2749936426).jpg
+  - role: scene
+    src: /media/agriculture/fama-agricultural-marketing-authority/body-2.webp
+    alt: Lapak pasar yang memajang asparagus, alpukat, mangga, dan labu dengan harga dalam ringgit di Kea Farm, Cameron Highlands
+    kind: actual
+    origin: third-party
+    subject: Hasil tani lokal segar dijual di lapak pasar Kea Farm, Cameron Highlands
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kea_Farm_produce_2.jpg
 ---
 
 Seorang petani sayur di [Cameron Highlands](/id/tourism/cameron-highlands-visitor-guide) bisa menanam hasil terbaik, tetapi

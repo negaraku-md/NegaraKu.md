@@ -29,7 +29,7 @@ faq:
     a: "حلّ محله توجيه NADMA رقم 1، الذي أُقرّ في اجتماع مجلس الأمن الوطني (MKN) برئاسة رئيس الوزراء في 1 أغسطس 2024."
 
 lang: "ar"
-sourceContentHash: "cb54d0894eec9ad2"
+sourceContentHash: "626601c85061b283"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Banjir_Sandakan_Januari_2025_01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-1.webp
+    alt: فريق إنقاذ مائي في قارب مسطّح القاع يشقّ مياه الفيضان أثناء عملية بحث وإنقاذ
+    kind: representative
+    origin: third-party
+    subject: فريق إنقاذ من الفيضانات في قارب أثناء عملية بحث (صورة توضيحية)
+    credit: Marvin Nauman, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_32076_-_A_water_rescue_team_in_a_boat_searching_for_people_in_Oklahoma.jpg
+  - role: scene
+    src: /media/public-safety/national-disaster-management-agency-nadma/body-2.webp
+    alt: جدار واقٍ من أكياس الرمل بُني لحجز مياه الفيضان المتصاعدة حول مبنى
+    kind: representative
+    origin: third-party
+    subject: حاجز حماية من الفيضان من أكياس الرمل (صورة توضيحية)
+    credit: Jocelyn Augustino, FEMA / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:FEMA_-_34762_-_Residents_building_a_sandbag_wall_in_flood_waters_in_Arkansas.jpg
 ---
 
 عندما يضرب فيضان كبير عدة ولايات في وقت واحد، فمن الذي يضغط الزر لتنسيق الجيش وفرق الإطفاء والشرطة والمتطوعين تحت قيادة واحدة؟ في ماليزيا، الجواب هو NADMA.

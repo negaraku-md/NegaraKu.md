@@ -30,7 +30,7 @@ faq:
     a: "峇贡水力发电站（Bakun）可用装机容量为2,520MW，是砂拉越最大的发电设施。"
 
 lang: "zh"
-sourceContentHash: "842a8fcd8feb3418"
+sourceContentHash: "b4478573670990b9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY 2.5'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Murum_Dam_view_from_afar.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-1.webp
+    alt: 一道巨大的混凝土面板水电大坝坝墙沿着河谷峡谷倾泻而下,坝底设有阶梯式溢洪道与发电厂房,四周环绕着开辟出的山坡与雨林覆盖的群山
+    kind: actual
+    origin: third-party
+    subject: 砂拉越巴贡水电站,位于该州电力系统核心的巨型混凝土面板堆石坝
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bakun-HEP.jpg
+  - role: scene
+    src: /media/energy/sarawak-energy-berhad/body-2.webp
+    alt: 一座高大的混凝土大坝横跨河谷,设有溢洪闸门与坝顶道路,一侧是深绿色的水库,四周耸立着林木覆盖的群山
+    kind: actual
+    origin: third-party
+    subject: 砂拉越内陆的慕伦水电站,该州梯级水电站群的一部分
+    credit: TheHolySnail / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murum.jpg
 ---
 
 当马来西亚半岛依赖国家能源有限公司（Tenaga Nasional Berhad）时，砂拉越却由一家公用事业点亮自己的灯火——它的电网完全不与国家电网相连，而且几乎全部电力都由内陆巨型水坝的落水发电而来。

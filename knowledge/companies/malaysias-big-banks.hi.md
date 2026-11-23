@@ -31,7 +31,7 @@ faq:
     a: "CIMB स्वयं को एक ASEAN-केंद्रित समूह बताता है जो मलेशिया, इंडोनेशिया, सिंगापुर और थाईलैंड सहित बाजारों में काम करता है। RHB सात क्षेत्रीय बाजारों में काम करता है। Maybank तीन गृह बाजारों — मलेशिया, सिंगापुर और इंडोनेशिया — तक फैला है, साथ ही ASEAN भर में और प्रमुख वैश्विक वित्तीय केंद्रों में इसकी गतिविधियाँ हैं।"
 
 lang: "hi"
-sourceContentHash: "14c6f8fee1c877fb"
+sourceContentHash: "ae9e39ab428b7fce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -96,6 +96,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_View_of_KLCC.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-1.webp
+    alt: एक ऊँचा सफ़ेद गगनचुंबी भवन, जिसके युग्मित घुमावदार ब्लेड जैसे टावर Maybank मुख्यालय बनाते हैं, आसपास के पेड़ों और शहर की सड़कों के ऊपर नीले आकाश के सामने उठते हुए
+    kind: actual
+    origin: third-party
+    subject: मेनारा Maybank, मध्य कुआलालंपुर में Malayan Banking (Maybank) का मुख्यालय टावर, मलेशिया का सबसे बड़ा बैंक
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Maybank_Tower.jpg
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-2.webp
+    alt: भूतल पर एक CIMB Bank शाखा और उसके लाल CIMB साइनबोर्ड वाली एक बहुमंज़िला इमारत, एक काँच का अग्रभाग और सामने पैदल-पथ पर गुज़रते राहगीर, साफ़ आकाश के नीचे
+    kind: actual
+    origin: third-party
+    subject: Bangunan UMNO के भूतल पर एक CIMB Bank शाखा, CIMB परिसंपत्तियों के हिसाब से मलेशिया के सबसे बड़े बैंकों में से एक है
+    credit: Qhairy / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank,_Bangunan_UMNO.jpg
 ---
 
 उन पाँच नामों को एक कतार में रखिए जो लगभग हर मलेशियाई मुख्य बाजार पर हावी हैं — [Maybank](/hi/companies/maybank), CIMB, Public Bank, RHB और Hong Leong — तो आप उस बैंकिंग प्रणाली के केंद्र को देख रहे हैं जो देश के वेतन, गृह-ऋण और व्यापार का निपटारा करती है। ये सभी मलेशिया में निगमित हैं, सभी Bursa Malaysia पर सूचीबद्ध हैं, और सभी को एक ही केंद्रीय बैंक द्वारा लाइसेंस प्राप्त है। इसके आगे, वे तीखे रूप से अलग होती हैं: एक पैमाने में बाकियों को बौना कर देती है, कुछ प्रभावी रूप से सरकार-आधारित हैं, और दो आज भी उन्हीं परिवारों द्वारा संचालित हैं जिन्होंने उन्हें स्थापित किया।

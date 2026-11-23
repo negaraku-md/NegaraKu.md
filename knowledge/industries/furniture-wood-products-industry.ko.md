@@ -31,7 +31,7 @@ faq:
   - q: 말레이시아 가구의 주요 고객은 누구인가요?
     a: 미국이 단연 최대 단일 시장으로 — 2024년 가구 수출의 절반 가까이를 가져갔습니다 — 싱가포르·호주·일본·영국 같은 시장이 그 뒤를 잇습니다. 이런 높은 미국 집중은 산업을 미국 주택 수요와 관세 정책에도 민감하게 만듭니다.
 lang: ko
-sourceContentHash: "156e73848cc57164"
+sourceContentHash: "32c9844fa3d127af"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -109,6 +109,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-1.webp
+    alt: 조호르주 클루앙의 홈베스트 가구점의 눈에 띄는 빨강과 흰색 모퉁이 건물. 간판에 말레이어와 중국어로 Pusat Perabot Home Best Furniture라고 적혀 있고 맑은 파란 하늘을 배경으로 한다
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 조호르주 클루앙 시내 잘란 망기스의 가구점 Pusat Perabot Home Best
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Home_Best_Furniture_May_2024.jpg
+  - role: scene
+    src: /media/industries/furniture-wood-products-industry/body-2.webp
+    alt: 사바주 산다칸의 한쪽이 트인 지붕 덮인 목재장에 갓 켠 열대 목재 판재가 가지런히 줄지어 쌓여 있고 꿀빛과 적갈색 나뭇결이 오후 햇살에 빛난다
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 사바주 산다칸의 목재장에서 판매되는 켜 놓은 열대 목재 판재 더미
+    credit: CEphoto / Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sale-of-timbers-01.jpg
 ---
 
 텍사스나 캘리포니아의 어느 가정에서, 그 식탁 의자나 침대 프레임, 책장이 말레이시아에서 — 그것도 한 도시 일대에서, 한때 장갑과 타이어용 라텍스를 내던 고무나무의 목재로 — 만들어졌을 가능성이 꽤 높습니다. 말레이시아의 가구·목재 제품 산업은 제조 경제의 조용한 중량급 중 하나입니다. 화려하지는 않지만, 플랜테이션 부문의 부산물을 전 세계에 팔리는 완제품으로 바꿔 온 꾸준한 세계 상위 10대 수출국입니다.

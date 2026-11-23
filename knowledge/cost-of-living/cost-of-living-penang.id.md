@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang membandingkan biaya hidup Pulau Pinang dengan Lembah Klang, atau yang membuat keputusan antara Pulau Pinang dan Seberang Perai sebelum pindah, menyewa, atau membuka usaha."
 
 lang: "id"
-sourceContentHash: "be67d52caf0f3908"
+sourceContentHash: "cbe6d680c7337a93"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Skyline_of_George_Town,_Pen
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'George Town skyline at dusk, Penang'
+images:
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-1.webp
+    alt: Rumah susun hunian bertingkat tinggi di Maccalum Street di George Town, Penang, menggambarkan perumahan perkotaan
+    kind: actual
+    origin: third-party
+    subject: Rumah susun publik bertingkat tinggi di Maccalum Street, George Town, Penang
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Maccalum_Street_Flats,_George_Town,_Penang_(2024).jpg
+  - role: scene
+    src: /media/cost-of-living/cost-of-living-penang/body-2.webp
+    alt: Para pedagang dan lapak di pasar basah Sungai Bakap di Penang
+    kind: actual
+    origin: third-party
+    subject: Pasar basah di Sungai Bakap, Penang
+    credit: Dreamtrooper / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sungai_Bakap_Wet_Market.JPG
 ---
 
 Pulau Pinang adalah satu-satunya negara bagian Malaysia yang "biaya hidup"nya

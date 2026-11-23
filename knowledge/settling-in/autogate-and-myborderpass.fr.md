@@ -35,7 +35,7 @@ faq:
     a: "Oui, toujours. Les applications et les codes QR accélèrent le portique, mais ne remplacent pas votre document de voyage. Début 2026, aucune des applications n'est obligatoire, et l'Autogate comme les comptoirs manuels acceptent toujours le passeport physique. Conservez au moins six mois de validité du passeport."
 
 lang: "fr"
-sourceContentHash: "dd15b2531cb454e6"
+sourceContentHash: "fe905739669d5516"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 3.0 de'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-1.webp
+    alt: Le hall d'arrivée du Terminal 1 de l'aéroport international de Kuala Lumpur, où les voyageurs passent le contrôle de l'immigration
+    kind: actual
+    origin: third-party
+    subject: Hall d'arrivée du Terminal 1 de l'aéroport international de Kuala Lumpur
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arrival_hall_of_Kuala_Lumpur_International_Airport_Terminal_1_20250828_212245.jpg
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-2.webp
+    alt: Le complexe du poste de contrôle de l'immigration Bangunan Sultan Iskandar au poste-frontière terrestre de Johor Bahru
+    kind: actual
+    origin: third-party
+    subject: Complexe CIQ Bangunan Sultan Iskandar, le poste-frontière terrestre de Johor Bahru vers Singapour
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Sultan_Iskandar_2.jpg
 ---
 
 Une **Autogate** est un portique d'immigration automatisé : il lit la puce de votre passeport, compare votre visage à la photo et s'ouvre — sans agent, sans tampon à l'encre, généralement en bien moins d'une demi-minute. Les files à code QR plus récentes sont encore plus rapides et laissent passer un voyageur en cinq à sept secondes environ. Pour quiconque franchit régulièrement la frontière malaisienne, savoir quelle file vous êtes autorisé à utiliser fait gagner un temps réel.

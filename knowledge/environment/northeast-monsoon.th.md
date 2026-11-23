@@ -69,7 +69,7 @@ keywords:
   - Kelantan Terengganu rain
   - southwest monsoon
   - rainy season Malaysia
-sourceContentHash: "87793e0da2237cfd"
+sourceContentHash: "f4ce8e4f34f4c543"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -88,6 +88,25 @@ heroLicense: 'CC BY 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:December_2021_Malaysian_floods_in_Klang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/northeast-monsoon/body-1.webp
+    alt: น้ำท่วมขังบนทางหลวงสหพันธ์ K151 หลังแม่น้ำเพิ่มระดับอย่างฉับพลันที่หมู่บ้านปาดังปูซิง เปินดัง รัฐเกอดะฮ์
+    kind: actual
+    origin: third-party
+    subject: น้ำท่วมขังบนถนนหลังแม่น้ำเพิ่มระดับอย่างฉับพลันที่เปินดัง รัฐเกอดะฮ์
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Padang_Pusing,_Pendang_20240917_125046.jpg
+  - role: scene
+    src: /media/environment/northeast-monsoon/body-2.webp
+    alt: เมฆฝนมรสุมสีเข้มก่อตัวเหนือภูมิประเทศเขตร้อน
+    kind: representative
+    origin: third-party
+    subject: เมฆฝนมรสุม (ภาพประกอบ)
+    credit: lensnmatter / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Monsoon_(36877269620).jpg
 ---
 
 ทุกปี ราวช่วงเวลาที่ส่วนอื่นของโลกกำลังก้าวเข้าสู่ฤดูหนาว ชายฝั่งตะวันออกของมาเลเซียก็เตรียมรับมือ เรือถูกลากขึ้นฝั่ง รีสอร์ตบนเกาะปิดประตู ศูนย์บรรเทาอุทกภัยถูกจัดเตรียมไว้ และครอบครัวในเมืองลุ่มต่ำเฝ้าดูแม่น้ำ นี่คือ **มรสุมตะวันออกเฉียงเหนือ** — อิทธิพลที่ใหญ่ที่สุดเพียงหนึ่งเดียวต่อสภาพอากาศของมาเลเซีย และเป็นเหตุผลที่ประเทศมีฤดูฝนที่ชัดเจนแยกต่างหาก แทนที่จะเป็นฝนเขตร้อนที่ตกสม่ำเสมอตลอดทั้งปี

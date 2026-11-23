@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "14c6f8fee1c877fb"
+sourceContentHash: "ae9e39ab428b7fce"
 
 status: "published"
 aiAssisted: true
@@ -96,6 +96,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_View_of_KLCC.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-1.webp
+    alt: 一対の湾曲した刃のような塔がメイバンク本店を形づくる、高くそびえる白い超高層ビル。周囲の木々や市街の通りの上にそびえ、青空を背にする
+    kind: actual
+    origin: third-party
+    subject: クアラルンプール中心部にあるマラヤン・バンキング(メイバンク)の本店ビル、メナラ・メイバンク。マレーシア最大の銀行
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Maybank_Tower.jpg
+  - role: scene
+    src: /media/companies/malaysias-big-banks/body-2.webp
+    alt: 街路面にCIMB銀行の支店と赤いCIMBの看板を掲げた多層ビル。ガラス張りの外観の前を歩行者が行き交い、空は晴れている
+    kind: actual
+    origin: third-party
+    subject: UMNOビルの街路面にあるCIMB銀行支店。CIMBは資産規模でマレーシア最大級の銀行の一つ
+    credit: Qhairy / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CIMB_Bank,_Bangunan_UMNO.jpg
 ---
 
 マレーシアのほぼすべての目抜き通りを席巻する五つの名前——[Maybank](/ja/companies/maybank)、CIMB、Public Bank、RHB、Hong Leong——を並べてみると、そこに見えてくるのは、この国の給与、住宅ローン、貿易決済を担う銀行システムの中核である。これらはすべてマレーシアで設立され、すべてマレーシア証券取引所（Bursa Malaysia）に上場し、すべて同一の中央銀行から免許を受けている。しかしそれ以外の点では大きく異なる。一行が規模で他を圧倒し、一部は実質的に政府を後ろ盾とし、そして二行は今なお創業家によって舵取りされている。

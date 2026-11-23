@@ -34,7 +34,7 @@ faq:
     a: "Oui. La section 4(2)(d) confère à SUHAKAM le pouvoir de visiter tout lieu de détention, institution ou autre lieu, et de formuler les recommandations nécessaires. La section 4(3), introduite par l'amendement de 2024, établit qu'une telle visite ne peut pas être refusée par la personne responsable du lieu concerné, pour autant que les procédures prescrites soient respectées."
 
 lang: "fr"
-sourceContentHash: "41da53bbfb03e372"
+sourceContentHash: "a19e277de86aa738"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_20260505_09.jp
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Menara TH Perdana on Jalan Sultan Ismail, Kuala Lumpur — the office tower that houses the headquarters of the Human Rights Commission of Malaysia (SUHAKAM). Confirmed as Menara TH Perdana by the building signage and the Commons category; SUHAKAM''s own signage is not visible, so the shot stands in for its HQ building'
+images:
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-1.webp
+    alt: Des participants à un rassemblement pacifique de la société civile à Kuala Lumpur, illustrant le contexte des droits humains
+    kind: representative
+    origin: third-party
+    subject: Rassemblement de la société civile à Kuala Lumpur (contexte des droits humains)
+    credit: Khairil Yusof / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bersih_4_rally_Human_Rights_Defender.jpg
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-2.webp
+    alt: Un rassemblement public pacifique emplissant une rue de Kuala Lumpur la nuit, illustrant les libertés que supervise la commission des droits humains
+    kind: representative
+    origin: third-party
+    subject: Rassemblement public pacifique dans une rue de Kuala Lumpur (contexte des droits humains)
+    credit: Apa masalah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muslim_protesters_performing_Ishah_prayer_during_Bersih_4_protests.jpg
 ---
 
 Lorsqu'une personne dépose une plainte pour violation des droits de l'homme auprès de

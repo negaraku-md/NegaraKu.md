@@ -32,7 +32,7 @@ faq:
     a: "กรมดินแดนสหพันธ์ (Jabatan Wilayah Persekutuan, JWP) ภายใต้สำนักนายกรัฐมนตรีทำหน้าที่ประสานงานด้านนโยบายและการพัฒนาของทั้งสามดินแดนในระดับสหพันธ์ ในขณะที่ DBKL องค์การปุตราจายา และองค์การลาบวนเป็นองค์กรปกครองส่วนท้องถิ่นที่ดำเนินกิจการประจำวัน เช่น การออกใบอนุญาต การวางผังเมือง และบริการเทศบาลในดินแดนของตน"
 
 lang: "th"
-sourceContentHash: "9bb7978f0345dc23"
+sourceContentHash: "8bf6e6135ecc6c79"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/government/federal-territories-governance/body-1.webp
+    alt: อาคารบริหารขององค์การปุตราจายา (Putrajaya Corporation) องค์กรปกครองท้องถิ่นที่ปกครองดินแดนสหพันธ์ปุตราจายา
+    kind: actual
+    origin: third-party
+    subject: สำนักงานใหญ่องค์การปุตราจายา (Putrajaya Corporation) องค์กรปกครองท้องถิ่นของดินแดนสหพันธ์ปุตราจายา
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-perbadanan.jpg
+  - role: scene
+    src: /media/government/federal-territories-governance/body-2.webp
+    alt: ด้านหน้าทรงโดมของวังยุติธรรมในปุตราจายา ประดับตราแผ่นดินสหพันธ์มาเลเซีย เป็นอาคารราชการของดินแดนสหพันธ์
+    kind: actual
+    origin: third-party
+    subject: วังยุติธรรม (อิสตานาเกอฮากีมัน) อาคารราชการของรัฐบาลสหพันธ์ในปุตราจายา
+    credit: Wolfiewhite / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Direct_view_of_the_front_of_Palace_of_Justice,_Putrajaya.jpg
 ---
 
 ในรัฐหนึ่ง มีสุลต่านหรือผู้ว่าการรัฐ (Yang di-Pertua Negeri) มีมุขมนตรี (Menteri Besar) หรือหัวหน้าคณะรัฐมนตรีของรัฐ (Ketua Menteri) และมีสภานิติบัญญัติแห่งรัฐที่มาจากการเลือกตั้งของประชาชน ในกัวลาลัมเปอร์ ปุตราจายา และลาบวน ไม่มีสักอย่างในสิ่งเหล่านั้น สามที่นี้ไม่ใช่รัฐ — เป็นดินแดนสหพันธ์ และถูกปกครองโดยตรงโดยรัฐบาลสหพันธ์

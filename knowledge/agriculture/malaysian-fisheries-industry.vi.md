@@ -36,7 +36,7 @@ faq:
     a: "Sau khi sửa đổi Fisheries Act 1985 vào năm 2019 (Act A1601), mức phạt tối đa cho chủ hoặc thuyền trưởng tàu nước ngoài xâm phạm được nâng từ RM1 triệu lên RM6 triệu, và cho mỗi thuyền viên từ RM100,000 lên RM600,000."
 
 lang: "vi"
-sourceContentHash: "fa3345cedd03dd8d"
+sourceContentHash: "8c0e702d9b4ea4d2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PENANG_ISLAND_FISHING_BOATS_MALAYSIA_JAN_2012_(6868741024).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-1.webp
+    alt: Những chiếc thuyền đánh cá neo đậu dọc con sông bên cạnh những ngôi nhà sàn của làng chài ở Kuala Kedah
+    kind: actual
+    origin: third-party
+    subject: Những chiếc thuyền đánh cá và một làng ven biển ở Kuala Kedah
+    credit: Marufish from Alor Setar, Malaysia / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fishing_Village_at_Kuala_Kedah_(2638400370).jpg
+  - role: scene
+    src: /media/agriculture/malaysian-fisheries-industry/body-2.webp
+    alt: Một hàng cá tươi địa phương được bày ra để bán tại chợ cuối tuần Satok ở Kuching, Sarawak
+    kind: actual
+    origin: third-party
+    subject: Cá tươi địa phương được bày bán tại chợ Satok, Kuching, Sarawak
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fresh_fish_in_market_(27002392530).jpg
 ---
 
 Trước bình minh tại các bến dọc Eo biển Malacca và Biển Đông, hàng nghìn tàu cá ven bờ ra khơi để cung cấp gần chín phần mười lượng cá mà cả nước tiêu thụ. Cùng lúc đó, ở những vùng biển xa hơn, các tàu lưới kéo không mang cờ Malaysia kéo lưới của họ băng qua những ranh giới mà mắt thường không thấy được.

@@ -30,7 +30,7 @@ faq:
     a: "Hoạt động cốt lõi của TNB bao phủ bán đảo Malaysia. Tại Sabah và Labuan, việc cung cấp điện do Sabah Electricity Sdn. Bhd. đảm nhận, công ty này có phần lớn cổ phần (82,75%) thuộc về TNB, còn Chính quyền bang Sabah nắm giữ 17,24%. Sarawak được cung cấp điện bởi một công ty công ích riêng biệt, không phải TNB."
 
 lang: "vi"
-sourceContentHash: "b6b33bf3419779ac"
+sourceContentHash: "3db20cd889aecd5a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Power_Station.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-1.webp
+    alt: Một tòa nhà văn phòng mang thương hiệu TNB với tên và logo Tenaga Nasional trên mặt tiền, có khuôn viên phía trước được cảnh quan hóa và bãi đỗ xe dưới bầu trời xanh trong
+    kind: actual
+    origin: third-party
+    subject: Một văn phòng Tenaga Nasional Berhad (TNB) ở Alor Setar, Kedah, một trong những tòa nhà dịch vụ cấp bang của công ty điện lực quốc gia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TNB_Alor_Setar.jpg
+  - role: scene
+    src: /media/energy/tnb-tenaga-nasional/body-2.webp
+    alt: Những cột truyền tải điện bằng khung thép mắc cáp điện cao thế nối nhau băng qua một eo biển rộng dọc theo một cây cầu đường bộ dài, với một hòn đảo và những ngọn đồi đất liền ở phía xa
+    kind: actual
+    origin: third-party
+    subject: Những cột truyền tải điện cao thế của TNB đưa đường dây điện băng qua eo biển bên cạnh Cầu Penang hướng về Pulau Gazumbo
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Bridge,_TNB_transmission_towers,_and_Pulau_Gazumbo_from_The_Waterfront_Shoppes_rooftop_(261108).jpg
 ---
 
 Mỗi khi đèn bật sáng trong một ngôi nhà, nhà máy hay trung tâm dữ liệu ở bán đảo Malaysia, nhiều khả năng những electron ấy chảy qua mạng lưới do một công ty duy nhất sở hữu: Tenaga Nasional Berhad. Đây không chỉ là một đơn vị phát điện, mà còn là xương sống của hệ thống năng lượng quốc gia — từ nhà máy điện cho đến công tơ điện gắn trên tường.

@@ -31,7 +31,7 @@ faq:
     a: "अधिकतर लैंडफिल में। मलेशिया 135 लैंडफिल संचालित करता है — 114 खुले डंपसाइट और 22 स्वच्छता लैंडफिल — और लैंडफिलिंग देश की प्रमुख निपटान पद्धति बनी हुई है।"
 
 lang: "hi"
-sourceContentHash: "1d664666863d04f5"
+sourceContentHash: "6f03b4a914139a0d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -113,6 +113,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tesco_Bukit_Indah_-_Recycling_Collection_Center.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-1.webp
+    alt: कम्पुंग सेपाकात, हुलु सेलांगोर, सेलांगोर के पास बुकित तागार स्वच्छता लैंडफिल स्थल
+    kind: actual
+    origin: third-party
+    subject: बुकित तागार स्वच्छता लैंडफिल, हुलु सेलांगोर
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Tagar_Landfill,_Kampung_Sepakat_20231226_141258.jpg
+  - role: scene
+    src: /media/environment/solid-waste-management-and-recycling/body-2.webp
+    alt: कुदात, सबा में स्थानीय परिषद द्वारा संचालित एक नगरपालिका कचरा-संग्रह ट्रक
+    kind: actual
+    origin: third-party
+    subject: नगरपालिका कचरा-संग्रह ट्रक, कुदात, सबा
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kudat_Sabah_Garbage-Collection-Truck-01.jpg
 ---
 
 जोहोर में कचरा फेंकिए और यह संघीय सरकार का मामला बन जाता है; वही कचरा पेनांग में फेंकिए और यह स्थानीय परिषद का काम बना रहता है। मलेशिया अपने ठोस अपशिष्ट का प्रबंधन कैसे करता है, इसकी मूल विचित्रता यही है — एक भव्य संघीय कानून, पर ऐसा जो केवल उन्हीं जगहों पर प्रभावी होता है जिन्होंने इसे अपनाने पर सहमति जताई है।

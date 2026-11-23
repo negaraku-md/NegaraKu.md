@@ -29,7 +29,7 @@ faq:
     a: "ในจำนวนนั้นได้แก่ อัตราการรีไซเคิลบรรจุภัณฑ์พลาสติก 25% ภายในปี 2025 อัตราการเก็บเพื่อรีไซเคิลเฉลี่ย (CFR) 76% ภายในปี 2030 และปริมาณวัสดุรีไซเคิลเฉลี่ย 15% ภายในปี 2030 เป้าหมายอัตราการรีไซเคิล 100% ถูกตั้งไว้ภายในปี 2050"
 
 lang: "th"
-sourceContentHash: "a24e4c1da4f3ae42"
+sourceContentHash: "70c761205e65cf72"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Water_Pollution_with_Trash_Disposal_of_Waste_at_the_Garbage_Beach.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-1.webp
+    alt: ขยะพลาสติกและเศษขยะทะเลสะสมอยู่ตามแนวน้ำขึ้นน้ำลงของชายหาด
+    kind: representative
+    origin: third-party
+    subject: ขยะพลาสติกในทะเลที่ถูกซัดขึ้นชายหาด (ภาพประกอบ)
+    credit: VariousPhotography / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Marine_debris_and_plastic_waste_on_beach.jpg
+  - role: scene
+    src: /media/environment/plastic-pollution-and-single-use-plastics-policy/body-2.webp
+    alt: ขวดพลาสติกใช้แล้วรวบรวมไว้ที่จุดรับเพื่อส่งไปรีไซเคิล
+    kind: representative
+    origin: third-party
+    subject: จุดรับขวดพลาสติกเพื่อรีไซเคิล (ภาพประกอบ)
+    credit: DoronDoron / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:A_plastic_bottle_collection_facility_for_recycling.jpg
 ---
 
 ถุงพลาสติกบางที่เคาน์เตอร์ชำระเงินโดยทั่วไปถูกใช้เพียงชั่วครู่ แต่สามารถคงอยู่ในสิ่งแวดล้อมได้เป็นเวลานาน เพื่อจัดการกับประเด็นนี้ มาเลเซียไม่ได้เลือกการห้ามครอบคลุมในทันที แต่เลือกแผนที่นำทางแบบเป็นระยะที่เคลื่อนจากค่าธรรมเนียมเล็กน้อยไปสู่การห้ามที่กว้างกว่า

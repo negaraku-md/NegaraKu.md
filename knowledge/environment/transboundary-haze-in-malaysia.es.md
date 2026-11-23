@@ -32,7 +32,7 @@ faq:
     a: "La causa principal son los incendios de tierras y bosques — incluidos los incendios de turberas y la roza y quema para la agricultura — en Sumatra y Kalimantan, que se vuelven más frecuentes y graves durante las estaciones secas influidas por el fenómeno de El Niño."
 
 lang: "es"
-sourceContentHash: "f6dc09ddaaf77bcf"
+sourceContentHash: "043be6570dc41e09"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_hazy_skyline_2019.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-1.webp
+    alt: Aire brumoso de baja visibilidad en una calle junto a una clínica de salud en Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Condiciones de bruma contaminante cerca de una clínica de salud de Kuala Lumpur
+    credit: SNN95 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2026_Haze_at_Kuala_Lumpur_Health_Clinic_01.jpg
+  - role: scene
+    src: /media/environment/transboundary-haze-in-malaysia/body-2.webp
+    alt: Densa bruma contaminante transfronteriza que oculta unas colinas normalmente visibles en el horizonte
+    kind: representative
+    origin: third-party
+    subject: La bruma contaminante transfronteriza del Sudeste Asiático de 2013 sobre Singapur (imagen representativa)
+    credit: Oliverlyc. / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Effects_of_2013_Southeast_Asian_haze_on_Singapore.jpg
 ---
 
 Cada vez que los vientos monzónicos cambian de dirección durante la estación seca, los cielos sobre el valle de Klang, Sarawak y buena parte de la Península pueden tornarse grises en cuestión de días — el sol se atenúa, el olor a humo se cuela en los hogares y los teléfonos vibran con alertas del API. Esto es la bruma transfronteriza: contaminación que no se produce enteramente dentro del país, pero que respiran cada año millones de malasios.

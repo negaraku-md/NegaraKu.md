@@ -35,7 +35,7 @@ faq:
     a: "Ya, selalu. Aplikasi dan kode QR mempercepat gerbang, tetapi tidak menggantikan dokumen perjalanan Anda. Per awal 2026 tidak satu pun aplikasi diwajibkan, dan Autogate serta konter manual masih menerima paspor fisik. Pertahankan masa berlaku paspor setidaknya enam bulan."
 
 lang: "id"
-sourceContentHash: "dd15b2531cb454e6"
+sourceContentHash: "fe905739669d5516"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 3.0 de'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Germany_Munich_Airport_EasyPASS_gates.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-1.webp
+    alt: Ruang kedatangan di Bandara Internasional Kuala Lumpur Terminal 1, tempat para pelancong melewati imigrasi
+    kind: actual
+    origin: third-party
+    subject: Ruang kedatangan di Bandara Internasional Kuala Lumpur Terminal 1
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arrival_hall_of_Kuala_Lumpur_International_Airport_Terminal_1_20250828_212245.jpg
+  - role: scene
+    src: /media/settling-in/autogate-and-myborderpass/body-2.webp
+    alt: Kompleks pos pemeriksaan imigrasi Bangunan Sultan Iskandar di lintas batas darat Johor Bahru
+    kind: actual
+    origin: third-party
+    subject: Kompleks CIQ Bangunan Sultan Iskandar, lintas batas darat Johor Bahru menuju Singapura
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Sultan_Iskandar_2.jpg
 ---
 
 **Autogate** adalah gerbang imigrasi otomatis: ia membaca cip di paspor Anda, mencocokkan wajah Anda dengan foto, lalu terbuka — tanpa petugas, tanpa cap tinta, biasanya dalam waktu kurang dari setengah menit. Jalur kode QR yang lebih baru lebih cepat lagi, meloloskan seorang pelancong dalam sekitar lima hingga tujuh detik. Bagi siapa pun yang sering melintasi perbatasan Malaysia, mengetahui jalur mana yang boleh Anda gunakan menghemat waktu yang nyata.

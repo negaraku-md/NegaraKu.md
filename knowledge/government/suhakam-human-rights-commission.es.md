@@ -34,7 +34,7 @@ faq:
     a: "Sí. La Sección 4(2)(d) otorga a SUHAKAM la facultad de visitar cualquier lugar de detención, institución u otro lugar, y de formular las recomendaciones necesarias. La Sección 4(3), introducida por la enmienda de 2024, establece que tal visita no puede ser denegada por la persona responsable del lugar de que se trate, siempre que se cumplan los procedimientos prescritos."
 
 lang: "es"
-sourceContentHash: "41da53bbfb03e372"
+sourceContentHash: "a19e277de86aa738"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_20260505_09.jp
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Menara TH Perdana on Jalan Sultan Ismail, Kuala Lumpur — the office tower that houses the headquarters of the Human Rights Commission of Malaysia (SUHAKAM). Confirmed as Menara TH Perdana by the building signage and the Commons category; SUHAKAM''s own signage is not visible, so the shot stands in for its HQ building'
+images:
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-1.webp
+    alt: Participantes en una concentración pacífica de la sociedad civil en Kuala Lumpur, que ilustra el contexto de los derechos humanos
+    kind: representative
+    origin: third-party
+    subject: Concentración de la sociedad civil en Kuala Lumpur (contexto de derechos humanos)
+    credit: Khairil Yusof / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bersih_4_rally_Human_Rights_Defender.jpg
+  - role: scene
+    src: /media/government/suhakam-human-rights-commission/body-2.webp
+    alt: Una reunión pública pacífica que llena una calle de Kuala Lumpur de noche, ilustrando las libertades que supervisa la comisión de derechos humanos
+    kind: representative
+    origin: third-party
+    subject: Reunión pública pacífica en una calle de Kuala Lumpur (contexto de derechos humanos)
+    credit: Apa masalah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muslim_protesters_performing_Ishah_prayer_during_Bersih_4_protests.jpg
 ---
 
 Cuando alguien presenta una queja de violación de derechos humanos ante SUHAKAM,
