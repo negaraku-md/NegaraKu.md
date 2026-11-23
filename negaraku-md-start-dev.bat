@@ -6,5 +6,5 @@ cd /d "%~dp0"
 echo Opening LOCAL server and PUBLIC tunnel in separate windows...
 echo   - Close the PUBLIC window to stop sharing (server stays up).
 echo   - Close the LOCAL window to stop the server.
-start "" "%~dp0start-local.bat"
-start "" "%~dp0start-public.bat"
+start "" "%~dp0negaraku-md-start-local.bat"
+start "" "%~dp0negaraku-md-start-public.bat"
