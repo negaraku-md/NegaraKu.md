@@ -349,46 +349,50 @@ async function main() {
   // cuts ~75% of the bytes (~42 KB PNG → ~10 KB) — a big saving on every listing
   // page (home/explore/latest/most-read/sections/search) for the mobile audience.
   const toThumb = (svg, file) => sharp(Buffer.from(svg)).resize(640, 336).webp({ quality: 72, effort: 6 }).toFile(file);
-  // --- Font-presence guard -----------------------------------------------------
+  // --- Font-presence guard (self-healing, non-blocking) ------------------------
   // The box-glyph bug (CJK/Tamil/Thai/Arabic/Devanagari titles rendering as □□□)
   // happens when a build runs without the required Noto script fonts resolving:
-  // libvips then types that whole run's non-Latin cards as fallback boxes, and the
-  // stale boxed cards stick on R2 (their content hash never changes, so they are
-  // never re-rendered). sharp/libvips render deterministically, so re-rendering the
-  // same card in-build can't recover it — the only robust guard is to not let such
-  // a build ship. Probe each script (its own font vs a Latin-only fallback): if they
-  // render to ~the same byte size, the "glyphs" are boxes and the font is missing.
-  // Fail the build in CI (so the deploy surfaces it and the fonts get fixed); only
-  // warn locally — dev machines legitimately lack these fonts and never deploy their
-  // OG cards. A normal build-og edit bumps the template hash below, so the next good
-  // deploy also regenerates (and thereby repairs) any previously-boxed cards.
-  const assertFontsPresent = async () => {
+  // libvips then types that run's non-Latin cards as fallback boxes, and the stale
+  // boxed cards stick on R2 (their content hash never changes, so they are never
+  // re-rendered). sharp/libvips render deterministically, so re-rendering the same
+  // card in-build can't recover it. Probe each script (its own font vs a Latin-only
+  // fallback): if they render to ~the same byte size, the "glyphs" are boxes and the
+  // font is missing. We then return the set of missing scripts and SKIP those
+  // languages' cards for this run (leaving any prior card untouched — never shipping
+  // a fresh corpus of boxes), rather than throwing: OG social-card fonts must never
+  // block the site deploy (deploy.yml says the same). The deploy logs a ::warning::
+  // so the font gap is visible and gets fixed; a build-og edit bumps the template
+  // hash below, so the next run WITH fonts present re-renders (and repairs) them.
+  const probeMissingFonts = async () => {
     const PROBE = { zh: '测试文字', ja: 'テスト文字', ko: '테스트문자', ta: 'சோதனை', th: 'ทดสอบ', ar: 'اختبار', hi: 'परीक्षण' };
     const FONT = { zh: "'Noto Sans CJK SC'", ja: "'Noto Sans CJK JP'", ko: "'Noto Sans CJK KR'", ta: "'Noto Sans Tamil'", th: "'Noto Sans Thai'", ar: "'Noto Naskh Arabic'", hi: "'Noto Sans Devanagari'" };
     const render = (text, family) => sharp(Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" width="480" height="140"><rect width="100%" height="100%" fill="#000"/><text x="12" y="96" font-family="${family}" font-size="72" fill="#fff">${text}</text></svg>`)).png().toBuffer();
-    const missing = [];
+    const missing = new Set();
     for (const [lang, text] of Object.entries(PROBE)) {
       try {
         const [withFont, latin] = await Promise.all([render(text, FONT[lang] + ', sans-serif'), render(text, 'sans-serif')]);
-        if (withFont.length <= latin.length * 1.05) missing.push(lang); // script font ≈ Latin boxes → not resolving
-      } catch { missing.push(lang); }
+        if (withFont.length <= latin.length * 1.05) missing.add(lang); // script font ≈ Latin boxes → not resolving
+      } catch { missing.add(lang); }
     }
-    if (missing.length) {
-      const msg = `[og] script fonts not resolving: ${missing.join(', ')} — their cards would render as box glyphs. Install Noto fonts (deploy.yml: cp assets/og-fonts/*.ttf ~/.fonts/ && fc-cache -f) before generating OG cards.`;
-      if (process.env.CI === 'true' || process.env.GITHUB_ACTIONS === 'true') throw new Error(msg);
-      console.warn(msg + ' (dev: continuing with box glyphs — these local cards are not deployed)');
+    if (missing.size) {
+      const inCI = process.env.CI === 'true' || process.env.GITHUB_ACTIONS === 'true';
+      const msg = `[og] script fonts not resolving: ${[...missing].join(', ')} — these languages' cards are LEFT UNCHANGED this run (not re-rendered as box glyphs). Install Noto fonts (deploy.yml: fonts-noto-cjk/-core + fc-cache) to render them.`;
+      console.warn(inCI ? `::warning::${msg}` : `${msg} (dev: local cards are not deployed)`);
     }
+    return missing;
   };
+  // Probe BEFORE any card render so the default + per-article loops can skip the
+  // scripts whose font is missing (see the render loop below).
+  const missingFonts = await probeMissingFonts();
+
   // Localized default cards: /og/default.png (ms) + /og/{en,zh}/default.png.
+  // The zh default carries Chinese text, so skip it when the CJK font is missing
+  // (keep whatever default is already there) — ms/en are Latin and always safe.
   await mkdir(path.join(OUT_DIR, 'en'), { recursive: true });
   await mkdir(path.join(OUT_DIR, 'zh'), { recursive: true });
   await toPng(defaultCard('ms'), path.join(OUT_DIR, 'default.png'));
   await toPng(defaultCard('en'), path.join(OUT_DIR, 'en', 'default.png'));
-  await toPng(defaultCard('zh'), path.join(OUT_DIR, 'zh', 'default.png'));
-
-  // Guard: never generate a corpus of box-glyph cards because a build's non-Latin
-  // fonts weren't installed. Fails the build in CI; warns (and continues) locally.
-  await assertFontsPresent();
+  if (!missingFonts.has('zh')) await toPng(defaultCard('zh'), path.join(OUT_DIR, 'zh', 'default.png'));
 
   let manifest = [];
   try {
@@ -423,14 +427,18 @@ async function main() {
   const next = {};
   const wanted = new Set();
   const failed = [];
-  let made = 0, cached = 0;
+  let made = 0, cached = 0, skippedFont = 0;
   const CONC = 10;
   let batchNo = 0;
   for (let i = 0; i < items.length; i += CONC) {
     await Promise.all(
       items.slice(i, i + CONC).map(async (a) => {
         const key = `${a.lang}/${a.category}/${a.slug}`;
-        wanted.add(key);
+        wanted.add(key); // added before any skip so a prior good card is never pruned
+        // Font for this card's script is missing — leave any existing card as-is and
+        // don't record it in `next`, so the next run (with fonts present) re-renders
+        // it. Never render it now: that would stamp a box glyph over a good card.
+        if (missingFonts.has(a.lang)) { skippedFont++; return; }
         const overdue = a.reviewDue ? new Date(a.reviewDue) < NOW : false;
         const hash = ogHash(a, overdue, tv);
         const file = path.join(OUT_DIR, a.lang, a.category, `${a.slug}.png`);
@@ -487,7 +495,8 @@ async function main() {
   }
 
   await writeFile(CACHE_FILE, JSON.stringify({ version: tv, images: next }));
-  console.log(`[og] default cards + ${made} regenerated, ${cached} cached, ${pruned} pruned, ${failed.length} skipped`);
+  console.log(`[og] default cards + ${made} regenerated, ${cached} cached, ${pruned} pruned, ${failed.length} error-skipped, ${skippedFont} font-skipped`);
+  if (skippedFont) console.warn(`[og] ${skippedFont} card(s) left unchanged — missing script font(s): ${[...missingFonts].join(', ')}. Fix the font install to render them next run.`);
   if (failed.length) console.warn(`[og] skipped cards (${failed.length}): ${failed.slice(0, 30).join(', ')}${failed.length > 30 ? ' …' : ''}`);
 }
 

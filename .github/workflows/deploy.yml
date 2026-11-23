@@ -90,10 +90,10 @@ jobs:
           if ls ~/og-fonts-deb/*.deb >/dev/null 2>&1; then
             sudo dpkg -i ~/og-fonts-deb/*.deb || sudo apt-get -f install -y --no-install-recommends || true
           else
-            for i in 1 2 3; do
+            for i in 1 2 3 4 5 6; do
               sudo apt-get update && \
               sudo apt-get install -y --no-install-recommends --download-only fonts-noto-cjk fonts-liberation fonts-noto-core && break
-              echo "apt attempt $i failed; retrying in 5s"; sleep 5
+              echo "apt attempt $i failed; retrying in 10s"; sleep 10
             done
             cp /var/cache/apt/archives/*.deb ~/og-fonts-deb/ 2>/dev/null || true
             sudo dpkg -i ~/og-fonts-deb/*.deb 2>/dev/null || sudo apt-get install -y --no-install-recommends fonts-noto-cjk fonts-liberation fonts-noto-core || true
