@@ -81,6 +81,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cassia_Homes,_Forest_Heights,_Seremban.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/buying-a-home-process/body-1.webp
+    alt: Freshly built houses and bare earth mark a new housing development rising at Kepayang Heights, the kind of project where buyers sign up off a sales gallery plan.
+    kind: representative
+    origin: third-party
+    subject: New housing development under construction at Kepayang Heights, Negeri Sembilan
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:New_housing_development,_Kepayang_Heights_-_panoramio.jpg
+  - role: scene
+    src: /media/property/buying-a-home-process/body-2.webp
+    alt: A newly completed street of uniform landed homes in Taman Idaman, Penang, the kind of finished development a buyer moves into after keys are handed over.
+    kind: representative
+    origin: third-party
+    subject: Completed landed homes in Taman Idaman, Seberang Perai Selatan, Penang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg
 ---
 
 Two lawyers usually touch a Malaysian home purchase, and most buyers never notice they're two different people. One drafts and stamps the Sale and Purchase Agreement that moves the property. The other — appointed by the bank, sometimes the same firm — drafts and stamps the loan and the charge that lets the bank seize the property if the loan isn't repaid. Buyers who think of "the lawyer" as a single character in this story tend to be the ones confused later about why two sets of legal fees showed up, or why the keys didn't arrive the day the loan was approved.

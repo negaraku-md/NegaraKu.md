@@ -30,7 +30,7 @@ faq:
     a: "Harta pusaka kecil yang mengandung harta tidak bergerak dan bernilai di bawah RM5 juta ditangani oleh Administrator Tanah melalui Kantor Pertanahan Daerah, yang mengeluarkan Perintah Pembagian."
 
 lang: "id"
-sourceContentHash: "7da221c06c43a7d9"
+sourceContentHash: "2343c4808c8495fb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-1.webp
+    alt: Sebuah rumah Melayu kayu tradisional berpanggung dengan atap berbentuk pelana di kawasan pedesaan
+    kind: representative
+    origin: third-party
+    subject: Rumah kampung Melayu kayu tradisional, jenis rumah keluarga yang lazim diwariskan
+    credit: Syahmir / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_house_(6880664352).jpg
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-2.webp
+    alt: Sebuah rumah tapak satu lantai yang kian tua di Temoh, Perak, jenis yang sering diwariskan kepada ahli waris
+    kind: representative
+    origin: third-party
+    subject: Sebuah rumah keluarga tapak yang tua di Temoh, Perak
+    credit: Coach lai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:An_old.house,_Temoh,_Malaysia.jpg
 ---
 
 Ketika seseorang meninggal dunia di Malaysia, siapa yang mewarisi rumahnya bergantung pada satu hal mendasar terlebih dahulu: apakah pewaris seorang Islam atau non-Islam. Dua sistem hukum yang berbeda mengatur jawaban itu, dan keduanya berjalan melalui pihak berwenang yang berlainan sebelum sertifikat tanah mana pun dapat berganti nama.

@@ -33,7 +33,7 @@ faq:
     a: "حكم المحكمة نهائي وملزم ويمكن إنفاذه كأمر قضائي. وعدم الامتثال للحكم جريمة يعاقَب عليها بغرامة تتراوح بين RM10,000 وRM50,000 أو بالسجن حتى سنتين، أو بكليهما."
 
 lang: "ar"
-sourceContentHash: "df503ce18f77fc3f"
+sourceContentHash: "7d201d8e93333584"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Abandoned_building_in_Kampung_Masjid,_Gombak_20230930_102344.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-1.webp
+    alt: منزل متهالك من طابق واحد تُرك مهجورًا، تكسوه نباتات متضخّمة وجدران من الطوب العاري
+    kind: actual
+    origin: third-party
+    subject: منزل مهجور غير مكتمل في Desa Subang Permai، سلانجور
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_house_located_in_Desa_Subang_Permai_1.jpg
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-2.webp
+    alt: مبنى مهجور عليه آثار الطقس، بطلاء متقشّر وفتحات نوافذ خالية في ملقا
+    kind: actual
+    origin: third-party
+    subject: مبنى مهجور ومهمل في ملقا
+    credit: User:Katangais / Wikimedia Commons
+    license: CC BY 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_Building_Melaka.jpg
 ---
 
 دفعت العربون، ووقّعت اتفاقية البيع والشراء، وأنت تنتظر المفاتيح — ثم يصمت موقع البناء أشهرًا. فبالنسبة لمشتري المنازل السكنية الجديدة في شبه جزيرة ماليزيا، يوفّر القانون في الواقع عدة طبقات من الحماية قبل نشوء وضعٍ كهذا وأثناءه وبعده. والمفتاح هو معرفة ما هو محميّ وإلى أين تتجه حين يختلّ شيءٌ ما.

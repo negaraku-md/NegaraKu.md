@@ -6528,7 +6528,29 @@
       "subject": "Row of modern double-storey terraced houses in Bandar Sri Sendayan, Seremban — the kind of residential property on which assessment rates (cukai pintu) and quit rent (cukai tanah) are levied.",
       "alt": "A row of modern double-storey terraced houses behind a fence in a Malaysian housing estate, Seremban.",
       "position": "centre"
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Taman_Ria_Terrace.jpg",
+        "license": "PD",
+        "by": "Megnitute",
+        "page": "https://commons.wikimedia.org/wiki/File:Taman_Ria_Terrace.jpg",
+        "kind": "representative",
+        "subject": "Double-storey terrace houses in a Malaysian taman",
+        "alt": "A row of double-storey terrace houses lines a quiet Malaysian residential street, the kind of landed property billed for assessment rates and quit rent.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Aerial_view_of_Mutiara_Rini_Township_Johor.jpg",
+        "license": "CC0",
+        "by": "Muhammad Rifqi MR",
+        "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Mutiara_Rini_Township_Johor.jpg",
+        "kind": "representative",
+        "subject": "Aerial view of Mutiara Rini township, Iskandar Puteri, Johor",
+        "alt": "An aerial sweep over Mutiara Rini township in Iskandar Puteri shows thousands of landed homes on gridded streets, each a rateable property on the local council roll.",
+        "position": "attention"
+      }
+    ]
   },
   "property/buying-a-home-process": {
     "hero": {
@@ -6539,7 +6561,29 @@
       "kind": "representative",
       "subject": "Entrance to the Cassia Homes residential development at Forest Heights, Seremban — a typical Malaysian landed housing estate of the sort bought through the standard home-purchase process.",
       "alt": "The signposted entrance and guardhouse of the Cassia Homes housing development in Seremban at dusk, with terraced houses behind."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/New_housing_development%2C_Kepayang_Heights_-_panoramio.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "hermitaurous",
+        "page": "https://commons.wikimedia.org/wiki/File:New_housing_development,_Kepayang_Heights_-_panoramio.jpg",
+        "kind": "representative",
+        "subject": "New housing development under construction at Kepayang Heights, Negeri Sembilan",
+        "alt": "Freshly built houses and bare earth mark a new housing development rising at Kepayang Heights, the kind of project where buyers sign up off a sales gallery plan.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Taman_Idaman%2C_Jalan_Kendi_%28220903%29_1.jpg",
+        "license": "CC0",
+        "by": "Wiki Farazi",
+        "page": "https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg",
+        "kind": "representative",
+        "subject": "Completed landed homes in Taman Idaman, Seberang Perai Selatan, Penang",
+        "alt": "A newly completed street of uniform landed homes in Taman Idaman, Penang, the kind of finished development a buyer moves into after keys are handed over.",
+        "position": "attention"
+      }
+    ]
   },
   "property/condo-living-maintenance-fees": {
     "hero": {
@@ -6551,7 +6595,29 @@
       "subject": "Bistari Condominium, a high-rise residential strata tower in Kuala Lumpur — representative of condominium living where owners pay monthly maintenance fees and a sinking fund.",
       "alt": "A tall red-and-white residential condominium tower against a blue sky in Kuala Lumpur.",
       "position": "centre"
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Condominium_Near_By_Tesco_Ampang_-_panoramio.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "龍崎 Jeffrey (Panoramio)",
+        "page": "https://commons.wikimedia.org/wiki/File:Condominium_Near_By_Tesco_Ampang_-_panoramio.jpg",
+        "kind": "actual",
+        "subject": "A cluster of condominium towers in Ampang, Kuala Lumpur",
+        "alt": "Several condominium towers rise together over Ampang in Kuala Lumpur, a high-rise cluster whose residents share the maintenance fees that keep lifts, pools and security running.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Riana_Green_Condominium_from_NKVE_in_Petaling_Jaya%2C_Selangor_20250402_155722.jpg",
+        "license": "CC0",
+        "by": "Wiki Farazi",
+        "page": "https://commons.wikimedia.org/wiki/File:Riana_Green_Condominium_from_NKVE_in_Petaling_Jaya,_Selangor_20250402_155722.jpg",
+        "kind": "actual",
+        "subject": "Riana Green Condominium cluster seen from the NKVE, Petaling Jaya, Selangor",
+        "alt": "The multiple towers of the Riana Green Condominium rise together amid greenery in Petaling Jaya, a gated strata development whose residents share maintenance fees and a sinking fund.",
+        "position": "attention"
+      }
+    ]
   },
   "property/electricity-tnb-account": {
     "hero": {
@@ -6562,7 +6628,29 @@
       "kind": "actual",
       "subject": "A single-phase Tenaga Nasional Berhad (TNB) domestic electricity meter in Segamat, Malaysia, showing the account label — a direct depiction of a residential TNB electricity account.",
       "alt": "A wall-mounted Tenaga Nasional Berhad electricity meter with a handwritten account number card, at a house in Malaysia."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bandar_Utama_TNB_Electrical_Substation.jpg",
+        "license": "CC0",
+        "by": "Wiki Farazi",
+        "page": "https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Electrical_Substation.jpg",
+        "kind": "actual",
+        "subject": "Tenaga Nasional electrical substation at Bandar Utama, Petaling Jaya",
+        "alt": "A fenced Tenaga Nasional electrical substation in Bandar Utama, Petaling Jaya, one link in the grid that feeds every household TNB account across Selangor.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bandar_Utama_TNB_Transmission_Main_Intake.jpg",
+        "license": "CC0",
+        "by": "Wiki Farazi",
+        "page": "https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Transmission_Main_Intake.jpg",
+        "kind": "actual",
+        "subject": "Tenaga Nasional main intake (PPU) transmission station, Bandar Utama",
+        "alt": "Tenaga Nasional's Bandar Utama main intake station bristles with switchgear and gantries, the high-voltage step before power reaches the meters on consumers' homes.",
+        "position": "attention"
+      }
+    ]
   },
   "property/foreigners-buying-property": {
     "hero": {
@@ -6574,7 +6662,29 @@
       "subject": "The 348 Sentral / Ascott serviced-residence glass towers at KL Sentral, Kuala Lumpur — the upmarket high-rise segment foreigners typically buy into under minimum-price thresholds.",
       "alt": "Modern glass-clad residential high-rise towers (Ascott, 348 Sentral) in Kuala Lumpur.",
       "position": "centre"
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Skyline_of_Mont_Kiara%2C_Kuala_Lumpur.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Azreey",
+        "page": "https://commons.wikimedia.org/wiki/File:Skyline_of_Mont_Kiara,_Kuala_Lumpur.jpg",
+        "kind": "actual",
+        "subject": "High-rise condominium skyline of Mont Kiara, Kuala Lumpur",
+        "alt": "Rows of upmarket high-rise condominiums crowd the Mont Kiara skyline in Kuala Lumpur, an expatriate-favoured enclave where foreign buyers must clear the state price threshold.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/201905_Forest_City%2C_Johor_in_development.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Jonashtand",
+        "page": "https://commons.wikimedia.org/wiki/File:201905_Forest_City,_Johor_in_development.jpg",
+        "kind": "actual",
+        "subject": "Forest City luxury waterfront development under construction, Johor",
+        "alt": "The Forest City luxury waterfront towers rise over reclaimed land in Johor, a mega-project marketed heavily to foreign purchasers near the Singapore border.",
+        "position": "attention"
+      }
+    ]
   },
   "property/freehold-leasehold-strata-landed": {
     "hero": {
@@ -6585,7 +6695,29 @@
       "kind": "representative",
       "subject": "Jesselton Residences, a waterfront strata condominium development in Kota Kinabalu, Sabah — representative of strata-titled high-rise property alongside the freehold/leasehold/landed tenure spectrum.",
       "alt": "Twin waterfront condominium towers of Jesselton Residences beside a marina and the sea in Kota Kinabalu, Sabah."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/JB_black_and_white_bungalow.JPG",
+        "license": "CC BY 2.5",
+        "by": "Terence Ong",
+        "page": "https://commons.wikimedia.org/wiki/File:JB_black_and_white_bungalow.JPG",
+        "kind": "actual",
+        "subject": "A detached bungalow in Johor Bahru",
+        "alt": "A single detached bungalow sits on its own fenced plot in Johor Bahru, the archetypal landed property that carries an individual land title rather than a strata share.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/PPR_in_Bukit_Jalil%2C_Kuala_Lumpur.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Brownc",
+        "page": "https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg",
+        "kind": "actual",
+        "subject": "Public low-cost flats (PPR) in Bukit Jalil, Kuala Lumpur",
+        "alt": "Blocks of public low-cost PPR flats stand in Bukit Jalil, Kuala Lumpur, where each unit is held under a strata title with shared ownership of the common property.",
+        "position": "attention"
+      }
+    ]
   },
   "property/gated-communities-and-security": {
     "hero": {
@@ -6596,7 +6728,29 @@
       "kind": "actual",
       "subject": "The guarded main entrance arch and boom gate of the Arden Hill gated-and-guarded community at Forest Heights, Seremban — a direct depiction of a Malaysian gated community.",
       "alt": "An illuminated gated-community entrance arch reading 'Arden Hill Precinct 2' with a guardhouse and boom gate at dusk, Seremban."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Arden_Hill%2C_Forest_Heights%2C_Seremban.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "AyyanD",
+        "page": "https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg",
+        "kind": "actual",
+        "subject": "Arden Hill upscale gated community, Forest Heights, Seremban",
+        "alt": "Arden Hill, an upscale gated community inside the Forest Heights township in Seremban, lays out landed homes behind a single controlled perimeter.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Horizon_Hills.JPG",
+        "license": "CC BY-SA 4.0",
+        "by": "Chongkian",
+        "page": "https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG",
+        "kind": "actual",
+        "subject": "Horizon Hills gated township, Iskandar Puteri, Johor",
+        "alt": "Landed homes and manicured greenery fill the Horizon Hills gated-and-guarded township in Iskandar Puteri, Johor, a large security-managed residential enclave.",
+        "position": "attention"
+      }
+    ]
   },
   "property/home-loan-mortgage-financing": {
     "hero": {
@@ -6607,7 +6761,29 @@
       "kind": "representative",
       "subject": "Signage of Public Bank Berhad (a major Malaysian commercial bank and home-loan lender) outside its building in Kuala Lumpur — representative of mortgage financing.",
       "alt": "The red Public Bank Berhad and Public Investment Bank signage on a landscaped plaza outside a Malaysian bank building in Kuala Lumpur."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Standard_Chartered_Bank%2C_Seremban_branch_along_the_main_street_%28Jalan_Dato_Bandar_Tunggal%29_-_panoramio.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "hermitaurous",
+        "page": "https://commons.wikimedia.org/wiki/File:Standard_Chartered_Bank,_Seremban_branch_along_the_main_street_(Jalan_Dato_Bandar_Tunggal)_-_panoramio.jpg",
+        "kind": "representative",
+        "subject": "A Standard Chartered Bank branch on the main street in Seremban, Negeri Sembilan",
+        "alt": "Street view of a Standard Chartered Bank branch on a shoplot row in Seremban town centre",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Kluang_-_Bank_Muamalat_May_2024.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Dominic Nelson",
+        "page": "https://commons.wikimedia.org/wiki/File:Kluang_-_Bank_Muamalat_May_2024.jpg",
+        "kind": "representative",
+        "subject": "A Bank Muamalat (Islamic bank) branch in Kluang, Johor",
+        "alt": "Street view of a Bank Muamalat Islamic bank branch on a shoplot row in Kluang, Johor",
+        "position": "attention"
+      }
+    ]
   },
   "property/homebuyer-protection-abandoned-projects": {
     "hero": {
@@ -6618,7 +6794,29 @@
       "kind": "representative",
       "subject": "An abandoned, half-built multi-storey concrete structure overgrown with vegetation at Kampung Masjid, Gombak, Selangor — representative of the stalled and abandoned housing projects that homebuyer-protection rules address.",
       "alt": "A derelict unfinished concrete multi-storey building overgrown with greenery, with Malaysian flags in the foreground, in Gombak."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Abandoned_house_located_in_Desa_Subang_Permai_1.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Serpicozaure",
+        "page": "https://commons.wikimedia.org/wiki/File:Abandoned_house_located_in_Desa_Subang_Permai_1.jpg",
+        "kind": "actual",
+        "subject": "An abandoned, unfinished house in Desa Subang Permai, Selangor",
+        "alt": "A derelict single-storey house left abandoned, with overgrown vegetation and bare brickwork",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Abandoned_Building_Melaka.jpg",
+        "license": "CC BY 2.5 my",
+        "by": "User:Katangais",
+        "page": "https://commons.wikimedia.org/wiki/File:Abandoned_Building_Melaka.jpg",
+        "kind": "actual",
+        "subject": "A disused, abandoned building in Melaka",
+        "alt": "A weathered abandoned building with peeling paint and empty window openings in Melaka",
+        "position": "attention"
+      }
+    ]
   },
   "property/internet-and-fibre": {
     "hero": {
@@ -6629,7 +6827,29 @@
       "kind": "representative",
       "subject": "Telekom Malaysia technician working on a street cable distribution point",
       "alt": "A Telekom Malaysia technician working on a street-side telecommunications cable distribution point in Kuala Lumpur."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/TM_building_in_Putrajaya.JPG",
+        "license": "CC BY-SA 4.0",
+        "by": "Khairul hazim",
+        "page": "https://commons.wikimedia.org/wiki/File:TM_building_in_Putrajaya.JPG",
+        "kind": "representative",
+        "subject": "A Telekom Malaysia (TM) office building in Putrajaya",
+        "alt": "A Telekom Malaysia office building, the national fixed-line and fibre operator, in Putrajaya",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Unifi_FiberHome.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Thebaldball",
+        "page": "https://commons.wikimedia.org/wiki/File:Unifi_FiberHome.jpg",
+        "kind": "representative",
+        "subject": "A Unifi fibre broadband modem (FiberHome ONT) installed in a Malaysian home",
+        "alt": "A FiberHome-branded Unifi fibre optic modem mounted on a wall inside a home",
+        "position": "attention"
+      }
+    ]
   },
   "property/landlord-has-not-returned-the-deposit": {
     "hero": {
@@ -6640,7 +6860,29 @@
       "kind": "representative",
       "subject": "Malaysian high-rise rental apartment flats",
       "alt": "The Puncak Desa high-rise apartment flats in Kepong, Kuala Lumpur, a typical Malaysian rental housing block."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/KL-_Pekeliling_Flats_2009.JPG",
+        "license": "CC BY-SA 3.0",
+        "by": "Azreey",
+        "page": "https://commons.wikimedia.org/wiki/File:KL-_Pekeliling_Flats_2009.JPG",
+        "kind": "representative",
+        "subject": "Older walk-up rental flats (the Pekeliling Flats) in Kuala Lumpur",
+        "alt": "A block of older low-rise public walk-up flats with laundry hanging from windows in Kuala Lumpur",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Terrace_houses_in_Rasa%2C_Selangor.jpg",
+        "license": "CC BY-SA 2.5",
+        "by": "User:Two hundred percent",
+        "page": "https://commons.wikimedia.org/wiki/File:Terrace_houses_in_Rasa,_Selangor.jpg",
+        "kind": "representative",
+        "subject": "A row of terrace houses in Rasa, Selangor, a common type of rented home",
+        "alt": "A row of single-storey terrace houses along a residential street in Rasa, Selangor",
+        "position": "attention"
+      }
+    ]
   },
   "property/property-agents-and-fees": {
     "hero": {
@@ -6651,7 +6893,29 @@
       "kind": "representative",
       "subject": "new Malaysian semi-detached housing development",
       "alt": "Modern semi-detached houses behind the Taman Soga Sutera development signboard in Batu Pahat, Johor."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/%22Anda_berada_di_kawasan_perumahan_Taman_Sri_Serdang%2C_43300_Seri_Kembangan%22._Papan_tanda_Majlis_Perbandaran_Subang_Jaya_-_panoramio.jpg",
+        "license": "CC BY 3.0",
+        "by": "Gula Kapas",
+        "page": "https://commons.wikimedia.org/wiki/File:%22Anda_berada_di_kawasan_perumahan_Taman_Sri_Serdang,_43300_Seri_Kembangan%22._Papan_tanda_Majlis_Perbandaran_Subang_Jaya_-_panoramio.jpg",
+        "kind": "representative",
+        "subject": "A housing-estate signboard at Taman Sri Serdang, Seri Kembangan, Selangor",
+        "alt": "A roadside signboard marking the entrance to the Taman Sri Serdang residential estate",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Kluang_-_house_and_palm_tree_on_Jalan_Anggerik_May_2024.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Dominic Nelson",
+        "page": "https://commons.wikimedia.org/wiki/File:Kluang_-_house_and_palm_tree_on_Jalan_Anggerik_May_2024.jpg",
+        "kind": "representative",
+        "subject": "A suburban landed house on a residential street in Kluang, Johor",
+        "alt": "A single-storey suburban house with a front yard and a palm tree on Jalan Anggerik, Kluang, Johor",
+        "position": "attention"
+      }
+    ]
   },
   "property/property-inheritance-faraid-distribution": {
     "hero": {
@@ -6662,7 +6926,29 @@
       "kind": "representative",
       "subject": "established Malaysian terrace-house neighbourhood",
       "alt": "A row of established terrace houses behind the Taman Idaman neighbourhood signboard in Malaysia."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Traditional_Malay_house_%286880664352%29.jpg",
+        "license": "CC BY 2.0",
+        "by": "Syahmir",
+        "page": "https://commons.wikimedia.org/wiki/File:Traditional_Malay_house_(6880664352).jpg",
+        "kind": "representative",
+        "subject": "A traditional timber Malay kampung house, a commonly inherited type of family home",
+        "alt": "A traditional stilted timber Malay house with a pitched roof in a rural setting",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/An_old.house%2C_Temoh%2C_Malaysia.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Coach lai",
+        "page": "https://commons.wikimedia.org/wiki/File:An_old.house,_Temoh,_Malaysia.jpg",
+        "kind": "representative",
+        "subject": "An old landed family house in Temoh, Perak",
+        "alt": "An ageing single-storey landed house in Temoh, Perak, of a kind often passed down to heirs",
+        "position": "attention"
+      }
+    ]
   },
   "property/real-property-gains-tax": {
     "hero": {
@@ -6673,7 +6959,29 @@
       "kind": "representative",
       "subject": "Kuala Lumpur condominium development",
       "alt": "Verdana condominium towers rising over the North Kiara residential area of Kuala Lumpur."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Riana_Dutamas_Sales_Gallery%2C_Kampung_Pasir_Segambut_20230304_115010.jpg",
+        "license": "CC0",
+        "by": "Wiki Farazi",
+        "page": "https://commons.wikimedia.org/wiki/File:Riana_Dutamas_Sales_Gallery,_Kampung_Pasir_Segambut_20230304_115010.jpg",
+        "kind": "representative",
+        "subject": "The sales gallery and signage of the Riana Dutamas residential development, Segambut, Kuala Lumpur",
+        "alt": "The roadside sales gallery pavilion and large lettered signage of the Riana Dutamas residential development in Segambut, Kuala Lumpur, where new homes are marketed and sold",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Kampung_Kuala_Lah_Modern_House.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Ahmad Ali Karim",
+        "page": "https://commons.wikimedia.org/wiki/File:Kampung_Kuala_Lah_Modern_House.jpg",
+        "kind": "representative",
+        "subject": "A modern detached village house in Kampung Kuala Lah",
+        "alt": "A modern detached Malaysian kampung house with a metal roof, representing a landed home whose disposal can trigger real property gains tax",
+        "position": "attention"
+      }
+    ]
   },
   "property/renovation-permits-and-ccc": {
     "hero": {
@@ -6684,7 +6992,29 @@
       "kind": "actual",
       "subject": "home renovation in progress",
       "alt": "Interior of a two-storey terraced house under renovation in Selangor, Malaysia, with a neighbouring house visible through the doorway."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Renovation_of_a_two-storey_terraced_house_in_Selangor%2C_Malaysia_20191006_163651.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Frostpolar",
+        "page": "https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_163651.jpg",
+        "kind": "representative",
+        "subject": "Freshly plastered walls and new window openings during a terrace-house renovation in Selangor",
+        "alt": "Cement-rendered walls with newly formed window openings and bags of building material during a Malaysian terrace-house renovation",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Renovation_of_a_two-storey_terraced_house_in_Selangor%2C_Malaysia_20191006_162147.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Frostpolar",
+        "page": "https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162147.jpg",
+        "kind": "representative",
+        "subject": "A skip of construction debris at a terrace-house renovation site in Selangor",
+        "alt": "A metal skip filled with timber offcuts and building debris outside a Malaysian terrace house undergoing renovation",
+        "position": "attention"
+      }
+    ]
   },
   "property/renting-a-home-tenancy": {
     "hero": {
@@ -6695,7 +7025,29 @@
       "kind": "representative",
       "subject": "Malaysian apartment rental housing",
       "alt": "High-rise apartment flats beside an LRT line at Taman Miharja, Kuala Lumpur."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Abdullah_Hukum_Apartments_and_Putra_Ria_Apartments.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Serpicozaure",
+        "page": "https://commons.wikimedia.org/wiki/File:Abdullah_Hukum_Apartments_and_Putra_Ria_Apartments.jpg",
+        "kind": "representative",
+        "subject": "High-rise apartment flats at Abdullah Hukum, Kuala Lumpur",
+        "alt": "Dense high-rise apartment flats beside a river in Kuala Lumpur, representing rental housing in Malaysia",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Apartment_buildings_in_suburban_George_Town%2C_Penang.jpg",
+        "license": "CC BY-SA 2.0",
+        "by": "philip.mallis",
+        "page": "https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg",
+        "kind": "representative",
+        "subject": "Apartment blocks in suburban George Town, Penang",
+        "alt": "Mid-rise and high-rise apartment blocks in suburban George Town, Penang, typical of homes offered for rent in Malaysia",
+        "position": "attention"
+      }
+    ]
   },
   "property/rubbish-and-local-council": {
     "hero": {
@@ -6706,7 +7058,29 @@
       "kind": "actual",
       "subject": "local-council waste-collection lorry",
       "alt": "A KDEB Waste Management refuse lorry collecting rubbish outside a flat block in Kota Damansara, Selangor."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Rubbish_bin_MBPJ-PJU5-Cecawi_6-27-119_at_Taman_Seksyen_6_Kota_Damansara_20240220_090528.jpg",
+        "license": "CC0",
+        "by": "Wiki Farazi",
+        "page": "https://commons.wikimedia.org/wiki/File:Rubbish_bin_MBPJ-PJU5-Cecawi_6-27-119_at_Taman_Seksyen_6_Kota_Damansara_20240220_090528.jpg",
+        "kind": "representative",
+        "subject": "A council rubbish bin bearing the MBPJ (Petaling Jaya City Council) crest in Kota Damansara",
+        "alt": "A blue public litter bin marked with the MBPJ local-council crest on a grass verge in Kota Damansara, Selangor",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Recycle_bins_in_Kuala_Lumpur%2C_Malaysia_27042026_-_01.jpg",
+        "license": "CC BY 4.0",
+        "by": "Wiki Asmah",
+        "page": "https://commons.wikimedia.org/wiki/File:Recycle_bins_in_Kuala_Lumpur,_Malaysia_27042026_-_01.jpg",
+        "kind": "representative",
+        "subject": "Separated recycling bins for paper, cans and plastic, glass and non-recyclable waste in Kuala Lumpur",
+        "alt": "A row of four labelled recycling bins for paper, cans and plastic, glass and non-recyclable waste at a public spot in Kuala Lumpur",
+        "position": "attention"
+      }
+    ]
   },
   "property/strata-management-jmb-mc": {
     "hero": {
@@ -6717,7 +7091,29 @@
       "kind": "actual",
       "subject": "Kuala Lumpur strata condominium towers",
       "alt": "The Orion Condominium and Sky Residences strata high-rises in Kuala Lumpur."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Harbour_View%2C_Butterworth_20250917_103104.jpg",
+        "license": "CC0",
+        "by": "Wiki Farazi",
+        "page": "https://commons.wikimedia.org/wiki/File:Harbour_View,_Butterworth_20250917_103104.jpg",
+        "kind": "representative",
+        "subject": "A cluster of strata condominium high-rises at Harbour View, Butterworth",
+        "alt": "A cluster of modern strata condominium towers at Harbour View in Butterworth, Penang, the kind of development run by a JMB or management corporation",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Cmglee_Penang_Oasis_condominium.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Cmglee",
+        "page": "https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Oasis_condominium.jpg",
+        "kind": "representative",
+        "subject": "The guarded entrance and clubhouse of The Oasis condominium in Gelugor, Penang",
+        "alt": "The gated entrance, guardhouse and common clubhouse block of The Oasis strata condominium in Gelugor, Penang, with its residential towers behind",
+        "position": "attention"
+      }
+    ]
   },
   "property/water-supply": {
     "hero": {
@@ -6728,7 +7124,29 @@
       "kind": "actual",
       "subject": "Malaysian water-supply reservoir",
       "alt": "The Babagon Dam reservoir in Sabah, a raw-water source for treated drinking-water supply, with an information signboard at the waterside."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Padang-Matsirat_Langkawi_Sungai-Padang-Matsirat-Dam-01.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "CEphoto, Uwe Aranas",
+        "page": "https://commons.wikimedia.org/wiki/File:Padang-Matsirat_Langkawi_Sungai-Padang-Matsirat-Dam-01.jpg",
+        "kind": "representative",
+        "subject": "A river weir and water-control structure on Sungai Padang Matsirat, Langkawi",
+        "alt": "A small concrete weir and gated water-control structure spanning Sungai Padang Matsirat in Langkawi, part of Malaysia's water-supply infrastructure",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Taman_Setia_Tropika_Water_Tower.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "PM Poon",
+        "page": "https://commons.wikimedia.org/wiki/File:Taman_Setia_Tropika_Water_Tower.jpg",
+        "kind": "representative",
+        "subject": "An elevated water storage tank at Taman Setia Tropika, Johor",
+        "alt": "A large white elevated water storage tank marked Taman Setia Tropika in Johor, holding treated water for the local supply",
+        "position": "attention"
+      }
+    ]
   },
   "healthcare/abortion-law-in-malaysia": {
     "hero": {

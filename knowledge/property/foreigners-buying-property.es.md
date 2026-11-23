@@ -28,7 +28,7 @@ verificationNeeded:
   - "The exact citation and year of the National Land Code amendment that closed the earlier industrial-land exemption from State Authority consent could not be confirmed against the amending Act's own text; it is described here based on convergent secondary legal commentary rather than a directly read primary clause."
 
 lang: "es"
-sourceContentHash: "108b77146a2f6cd9"
+sourceContentHash: "78ee4bcd8de014e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_348-Sentral-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-1.webp
+    alt: Hileras de condominios de gran altura y alto nivel abarrotan el perfil urbano de Mont Kiara en Kuala Lumpur, un enclave predilecto de expatriados donde los compradores extranjeros deben superar el umbral de precio fijado por el estado.
+    kind: actual
+    origin: third-party
+    subject: Perfil urbano de condominios de gran altura en Mont Kiara, Kuala Lumpur
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skyline_of_Mont_Kiara,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-2.webp
+    alt: Las torres de lujo frente al mar de Forest City se elevan sobre terreno ganado al mar en Johor, un megaproyecto comercializado intensamente entre compradores extranjeros cerca de la frontera con Singapur.
+    kind: actual
+    origin: third-party
+    subject: Promoción de lujo frente al mar Forest City en construcción, Johor
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City,_Johor_in_development.jpg
 ---
 
 Un comprador de Hong Kong acuerda pagar RM1.8 millones por una casa pareada en Petaling Jaya. La financiación está arreglada, el vendedor está dispuesto, el precio supera todos los umbrales que alguien citó en internet. Aun así, la operación no puede cerrarse hasta que una oficina del gobierno estatal en Shah Alam decida — a su propia discreción — si permite que un extranjero ostente ese título en absoluto.

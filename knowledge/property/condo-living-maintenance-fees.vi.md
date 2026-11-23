@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai sở hữu, đang mua, hoặc đang thuê một căn trong một chung cư, căn hộ, hoặc bất động sản phân tầng (có quyền sở hữu strata) khác của Malaysia ở Bán đảo Malaysia hoặc Lãnh thổ Liên bang Labuan."
 
 lang: "vi"
-sourceContentHash: "02c5304754ea1783"
+sourceContentHash: "e57ff10a7a230e8f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bistari_Condominium,_Kuala_Lumpur_20240212_134920.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-1.webp
+    alt: Nhiều tháp chung cư cùng vươn lên trên khu Ampang ở Kuala Lumpur, một cụm nhà cao tầng mà cư dân cùng chia sẻ phí bảo trì để duy trì thang máy, hồ bơi và an ninh hoạt động.
+    kind: actual
+    origin: third-party
+    subject: Một cụm tháp chung cư ở Ampang, Kuala Lumpur
+    credit: 龍崎 Jeffrey (Panoramio) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Condominium_Near_By_Tesco_Ampang_-_panoramio.jpg
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-2.webp
+    alt: Nhiều tòa tháp của chung cư Riana Green cùng vươn lên giữa mảng xanh ở Petaling Jaya, một dự án strata có cổng kiểm soát mà cư dân cùng đóng phí bảo trì và quỹ dự phòng (sinking fund).
+    kind: actual
+    origin: third-party
+    subject: Cụm chung cư Riana Green nhìn từ đường NKVE, Petaling Jaya, Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Green_Condominium_from_NKVE_in_Petaling_Jaya,_Selangor_20250402_155722.jpg
 ---
 
 Bạn đã mua căn hộ. Bạn không mua thang máy, chòi bảo vệ, hồ bơi, hay đường ống chạy qua bức tường bạn chung với hàng xóm. Vẫn phải có ai đó trả cho tất cả những thứ đó — và luật chia hóa đơn thành hai tài khoản mà bạn buộc phải giữ riêng về mặt pháp lý.

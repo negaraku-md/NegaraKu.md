@@ -94,6 +94,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-1.webp
+    alt: Sekelompok menara kondominium strata moden di Harbour View, Butterworth, Pulau Pinang, jenis pembangunan yang diuruskan oleh JMB atau perbadanan pengurusan
+    kind: representative
+    origin: third-party
+    subject: Sekelompok kondominium strata bertingkat tinggi di Harbour View, Butterworth
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Harbour_View,_Butterworth_20250917_103104.jpg
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-2.webp
+    alt: Pintu masuk berpagar, pondok pengawal dan blok rumah kelab bersama Kondominium strata The Oasis di Gelugor, Pulau Pinang, dengan menara kediamannya di belakang
+    kind: representative
+    origin: third-party
+    subject: Pintu masuk berpengawal dan rumah kelab Kondominium The Oasis di Gelugor, Pulau Pinang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Oasis_condominium.jpg
 ---
 
 Anda beli sebuah unit kondominium, tetapi siapa sebenarnya yang memiliki lif, kolam renang dan lorong tempat letak kereta — dan siapa yang berhak mengutip yuran bulanan daripada anda? Jawapannya terletak pada satu lapisan tadbir urus yang jarang dibaca pembeli sehingga wujud pertikaian: rangka kerja Akta Pengurusan Strata 2013 (Akta 757).

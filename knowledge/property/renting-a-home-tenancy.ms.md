@@ -24,7 +24,7 @@ appliesTo: "Sesiapa yang menyewa atau menyewakan hartanah kediaman di Malaysia â
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "22529f1f29bdf0fb"
+sourceContentHash: "0548eebf82cca3c3"
 
 status: "published"
 aiAssisted: true
@@ -89,6 +89,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-1.webp
+    alt: Pangsapuri bertingkat tinggi yang padat di tepi sungai di Kuala Lumpur, mewakili perumahan sewa di Malaysia
+    kind: representative
+    origin: third-party
+    subject: Pangsapuri bertingkat tinggi di Abdullah Hukum, Kuala Lumpur
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abdullah_Hukum_Apartments_and_Putra_Ria_Apartments.jpg
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-2.webp
+    alt: Blok pangsapuri bertingkat sederhana dan tinggi di pinggir bandar George Town, Pulau Pinang, tipikal rumah yang ditawarkan untuk disewa di Malaysia
+    kind: representative
+    origin: third-party
+    subject: Blok pangsapuri di pinggir bandar George Town, Pulau Pinang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
 ---
 
 Tanya seorang tuan rumah dan seorang penyewa di Malaysia undang-undang mana yang melindungi mereka, dan kebanyakan akan meneka salah. Tiada "Akta Sewaan Kediaman" untuk dirujuk â€” tiada satu statut tunggal yang menetapkan tempoh notis, mengehadkan deposit, atau menyatakan dengan jelas apa yang tuan rumah boleh dan tidak boleh lakukan semasa pindah keluar.

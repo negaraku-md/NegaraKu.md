@@ -30,7 +30,7 @@ faq:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "a8a8202635252bef"
+sourceContentHash: "733f8b4e0ffd792a"
 
 status: "published"
 aiAssisted: true
@@ -78,6 +78,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-1.webp
+    alt: மலேசியாவில் வரிசை வீடு புதுப்பிப்பின்போது சிமெண்ட் பூசப்பட்ட சுவர்கள், புதிதாக உருவாக்கப்பட்ட ஜன்னல் திறப்புகள் மற்றும் கட்டுமானப் பொருள் மூட்டைகள்
+    kind: representative
+    origin: third-party
+    subject: செலாங்கூரில் வரிசை வீடு புதுப்பிப்பின்போது புதிதாகப் பூசப்பட்ட சுவர்களும் புதிய ஜன்னல் திறப்புகளும்
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_163651.jpg
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-2.webp
+    alt: மலேசியாவில் புதுப்பிக்கப்பட்டு வரும் ஒரு வரிசை வீட்டிற்கு வெளியே மரத்துண்டுகளும் கட்டுமானக் கழிவுகளும் நிறைந்த ஒரு பெரிய உலோகக் கழிவுத் தொட்டி
+    kind: representative
+    origin: third-party
+    subject: செலாங்கூரில் வரிசை வீடு புதுப்பிப்புத் தளத்தில் கட்டுமானக் கழிவுகள் நிறைந்த பெரிய கழிவுத் தொட்டி
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162147.jpg
 ---
 
 வீட்டின் பின்புறத்தில் ஒரு சமையலறையைக் கூட்ட விரும்புகிறீர்கள் அல்லது ஒரு மாடி எழுப்ப நினைக்கிறீர்கள் — திடீரென அண்டை வீட்டார் “முதலில் மன்றத்தில் விண்ணப்பிக்க வேண்டும்” என்கிறார். இது உண்மையா? பெரும்பாலான மறுசீரமைப்பு வேலைகளுக்கு, ஆம்.

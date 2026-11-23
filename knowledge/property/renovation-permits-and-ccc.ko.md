@@ -28,7 +28,7 @@ faq:
     a: "CCC는 주택이 승인 도면에 따라 지어져 거주에 안전함을 확인합니다. CCC가 없으면 건물은 공식적으로 거주 자격이 없고 공과금 공급이 영향을 받을 수 있습니다."
 
 lang: "ko"
-sourceContentHash: "a8a8202635252bef"
+sourceContentHash: "733f8b4e0ffd792a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-1.webp
+    alt: 슬랑오르주의 테라스하우스 개보수 중 시멘트로 미장한 벽면, 새로 낸 창문 구멍, 그리고 쌓인 건축 자재 포대
+    kind: representative
+    origin: third-party
+    subject: 슬랑오르주 테라스하우스 개보수 중 갓 미장한 벽과 새로 낸 창문 구멍
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_163651.jpg
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-2.webp
+    alt: 슬랑오르주의 테라스하우스 개보수 현장 밖에 놓인, 목재 자투리와 건축 폐기물로 가득 찬 금속 폐기물 수거함(skip)
+    kind: representative
+    origin: third-party
+    subject: 슬랑오르주 테라스하우스 개보수 현장의 건축 폐기물이 가득한 수거함(skip)
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162147.jpg
 ---
 
 집 뒤에 부엌을 더하거나 층을 올리고 싶은데 — 갑자기 이웃이 「먼저 시청에 신청해야 한다」고 말합니다. 정말일까요? 대부분의 개조 공사의 경우, 그렇습니다.

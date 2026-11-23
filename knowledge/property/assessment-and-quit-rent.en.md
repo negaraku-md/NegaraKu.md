@@ -25,7 +25,7 @@ appliesTo: "Homeowners, landowners and property buyers in Peninsular Malaysia wh
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b2facf160acd431e"
+sourceContentHash: "6e7b14e11b1194be"
 
 status: "published"
 aiAssisted: true
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Terraced_house,_Bandar_Sri_Sendayan,_Seremban.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-1.webp
+    alt: A row of double-storey terrace houses lines a quiet Malaysian residential street, the kind of landed property billed for assessment rates and quit rent.
+    kind: representative
+    origin: third-party
+    subject: Double-storey terrace houses in a Malaysian taman
+    credit: Megnitute / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Ria_Terrace.jpg
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-2.webp
+    alt: An aerial sweep over Mutiara Rini township in Iskandar Puteri shows thousands of landed homes on gridded streets, each a rateable property on the local council roll.
+    kind: representative
+    origin: third-party
+    subject: Aerial view of Mutiara Rini township, Iskandar Puteri, Johor
+    credit: Muhammad Rifqi MR / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Mutiara_Rini_Township_Johor.jpg
 ---
 
 Many new homeowners are startled to receive a second bill they didn't expect. They've already paid "land tax" this year — so why is the municipal council sending a demand notice as well?

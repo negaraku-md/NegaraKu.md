@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Citoyens malaisiens, résidents permanents, primo-accédants et acheteurs étrangers (soumis à des restrictions et à des taux de droit supplémentaires)"
 
 lang: "fr"
-sourceContentHash: "7bbb4ca3cdb29e8e"
+sourceContentHash: "1351b65e9c82e4a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cassia_Homes,_Forest_Heights,_Seremban.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/buying-a-home-process/body-1.webp
+    alt: Des maisons fraîchement bâties et de la terre nue marquent un nouveau programme immobilier qui s'élève à Kepayang Heights, le type de projet où les acheteurs s'engagent sur plan depuis une galerie de vente.
+    kind: representative
+    origin: third-party
+    subject: Nouveau programme immobilier en construction à Kepayang Heights, Negeri Sembilan
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:New_housing_development,_Kepayang_Heights_-_panoramio.jpg
+  - role: scene
+    src: /media/property/buying-a-home-process/body-2.webp
+    alt: Une rue tout juste achevée de maisons individuelles uniformes à Taman Idaman, Penang, le type de programme fini où un acheteur emménage après la remise des clés.
+    kind: representative
+    origin: third-party
+    subject: Maisons individuelles achevées à Taman Idaman, Seberang Perai Selatan, Penang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg
 ---
 
 Deux avocats interviennent généralement dans l'achat d'un logement en Malaisie, et la plupart des acheteurs ne remarquent jamais qu'il s'agit de deux personnes différentes. L'un rédige et fait timbrer le Contrat de vente qui transfère le bien. L'autre — désigné par la banque, parfois la même firme — rédige et fait timbrer le prêt et la charge qui permettent à la banque de s'approprier le bien si le prêt n'est pas remboursé. Les acheteurs qui pensent à « l'avocat » comme à un personnage unique de cette histoire sont souvent ceux qui s'étonnent ensuite de voir apparaître deux jeux d'honoraires juridiques, ou de constater que les clés ne sont pas arrivées le jour où le prêt a été approuvé.

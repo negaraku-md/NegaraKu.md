@@ -35,7 +35,7 @@ faq:
     a: "できる。改装及び改良の費用のような、不動産の価値を増加又は保存する経費は、有効な領収書及び書類で裏付けられていれば控除できる。"
 
 lang: "ja"
-sourceContentHash: "d30bca1500940866"
+sourceContentHash: "2413423d254ace48"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-1.webp
+    alt: クアラルンプールのSegambutにあるRiana Dutamas住宅開発の、道路脇の販売ギャラリー棟と大きな文字看板。ここで新築住宅が売り込まれ、販売される。
+    kind: representative
+    origin: third-party
+    subject: クアラルンプール・SegambutのRiana Dutamas住宅開発の販売ギャラリーと看板
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Dutamas_Sales_Gallery,_Kampung_Pasir_Segambut_20230304_115010.jpg
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-2.webp
+    alt: Kampung Kuala Lahにある金属屋根の現代的な独立型カンポン家屋。売却時に不動産譲渡益税（RPGT）が生じうる有地住宅を表す。
+    kind: representative
+    origin: third-party
+    subject: Kampung Kuala Lahの現代的な独立型カンポン家屋
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Kuala_Lah_Modern_House.jpg
 ---
 
 家を売って利益を得た——しかしその金が口座に入る前に、政府はその取り分を求める。それがRPGTであり、決済の場で弁護士が数千リンギットを留保するまで、売主がしばしば見落としている税である。

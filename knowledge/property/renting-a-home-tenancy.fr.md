@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Toute personne qui loue ou donne à bail un bien à usage d'habitation en Malaisie : locataires signant leur premier contrat de bail, et bailleurs qui le rédigent, en Malaisie péninsulaire, au Sabah ou au Sarawak."
 
 lang: "fr"
-sourceContentHash: "22529f1f29bdf0fb"
+sourceContentHash: "0548eebf82cca3c3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-1.webp
+    alt: Des immeubles d'appartements de grande hauteur serrés au bord d'une rivière à Kuala Lumpur, représentatifs du logement locatif en Malaisie
+    kind: representative
+    origin: third-party
+    subject: Immeubles d'appartements de grande hauteur à Abdullah Hukum, Kuala Lumpur
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abdullah_Hukum_Apartments_and_Putra_Ria_Apartments.jpg
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-2.webp
+    alt: Des immeubles d'appartements de moyenne et grande hauteur dans la banlieue de George Town, Penang, typiques des logements proposés à la location en Malaisie
+    kind: representative
+    origin: third-party
+    subject: Immeubles d'appartements dans la banlieue de George Town, Penang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
 ---
 
 Demandez à un bailleur et à un locataire en Malaisie quelle loi les protège, et la plupart se tromperont. Il n'existe pas de « loi sur le bail d'habitation » à laquelle se référer, ni de texte unique fixant les délais de préavis, plafonnant les dépôts ou détaillant ce qu'un bailleur peut et ne peut pas faire au moment du départ.

@@ -23,7 +23,7 @@ appliesTo: "マレーシアで物件を購入、売却または評価する人�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "81ade88de6968b5f"
+sourceContentHash: "9a7f91c78e576173"
 
 status: "published"
 aiAssisted: true
@@ -70,6 +70,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jesselton_Residences_Kota_Kinabalu,_Sabah,_Malaysia.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-1.webp
+    alt: 一戸の独立型バンガローが、ジョホールバルで自らのフェンスで囲まれた区画に建つ。ストラータの持分ではなく個別の土地権利証を持つ、有地物件の典型である。
+    kind: actual
+    origin: third-party
+    subject: ジョホールバルの独立型バンガロー
+    credit: Terence Ong / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JB_black_and_white_bungalow.JPG
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-2.webp
+    alt: 公共低価格住宅（PPR）の棟が、クアラルンプールのブキ・ジャリルに立ち並ぶ。各戸はストラータ権利証（strata title）で保有され、共用部分を共同所有する。
+    kind: actual
+    origin: third-party
+    subject: クアラルンプール・ブキ・ジャリルの公共低価格フラット（PPR）
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
 ---
 
 同じ通りに並ぶ、ほとんど瓜二つの二軒のテラスハウスが、州政府からまるで異なる約束を背負っていることがある。一方の権利証には「フリーホールド」とあり、もう一方には「リースホールド、99年、2118年満了」とある。もう一つの、これとは無関係な問いは、あなたが四十世帯の隣人とエレベーターホールやプールを共同所有することになるのか、それとも敷地内通路や屋根が完全にあなた自身の問題なのかを決める。買主はしばしばこの二つの問いを一つにまとめてしまう——「これはフリーホールドか、それともコンドミニアムか？」——が、物件は常にこの両方に、それぞれ独立して答えているのである。

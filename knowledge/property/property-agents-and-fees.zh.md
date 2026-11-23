@@ -28,7 +28,7 @@ faq:
     a: "根据官方收费表，出租收费为 1.25 至 1.75 个月毛租金（最低收费 1 个月租金），视租期而定；由谁承担则是双方之间协议的事项。"
 
 lang: "zh"
-sourceContentHash: "9b3350b7ffce400c"
+sourceContentHash: "e05f23481d201ddf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -76,6 +76,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Semi-detached_house_at_Taman_Soga_Sutera_from_Jalan_Kluang_(Malaysia_Federal_Highway_50)_in_Batu_Pahat,_Johor_20250212_161809.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/property-agents-and-fees/body-1.webp
+    alt: 标示Taman Sri Serdang住宅区入口的路边招牌
+    kind: representative
+    origin: third-party
+    subject: 雪兰莪Seri Kembangan的Taman Sri Serdang住宅区招牌
+    credit: Gula Kapas / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:%22Anda_berada_di_kawasan_perumahan_Taman_Sri_Serdang,_43300_Seri_Kembangan%22._Papan_tanda_Majlis_Perbandaran_Subang_Jaya_-_panoramio.jpg
+  - role: scene
+    src: /media/property/property-agents-and-fees/body-2.webp
+    alt: 柔佛居銮Jalan Anggerik上一栋带前院与一棵棕榈树的单层郊区房屋
+    kind: representative
+    origin: third-party
+    subject: 柔佛居銮一条住宅街道上的郊区有地房屋
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_house_and_palm_tree_on_Jalan_Anggerik_May_2024.jpg
 ---
 
 经纪人胸牌上的号码不是装饰品——它是快速区分合法协商员与仅仅自称经纪人者的唯一途径。在马来西亚，谁可以代表你买卖、出租或协商房地产，受到法律的严格管制。

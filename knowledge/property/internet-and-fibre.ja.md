@@ -24,7 +24,7 @@ appliesTo: "マレーシアで住まいを賃借、購入、または引っ越�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "bbd067458507d9b6"
+sourceContentHash: "1f75dbb83189587b"
 
 status: "published"
 aiAssisted: true
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Telekom-Malaysia-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/internet-and-fibre/body-1.webp
+    alt: プトラジャヤにあるTelekom Malaysia（TM）の社屋。全国の固定回線・光ファイバー事業者である。
+    kind: representative
+    origin: third-party
+    subject: プトラジャヤのTelekom Malaysia（TM）社屋
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TM_building_in_Putrajaya.JPG
+  - role: scene
+    src: /media/property/internet-and-fibre/body-2.webp
+    alt: 家の中の壁に取り付けられた、FiberHomeブランドのUnifi光ファイバーモデム
+    kind: representative
+    origin: third-party
+    subject: マレーシアの家庭に設置されたUnifi光ファイバーブロードバンドモデム（FiberHome ONT）
+    credit: Thebaldball / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Unifi_FiberHome.jpg
 ---
 
 わずか1リンギットの価格を比較する前に、もっと大切な問いがある。光ファイバーは

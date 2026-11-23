@@ -35,7 +35,7 @@ faq:
 
 lang: "ko"
 translationStatus: "in-sync"
-sourceContentHash: "41f000c53719467c"
+sourceContentHash: "781014ba8db210af"
 masterLanguage: "en"
 
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/landlord-has-not-returned-the-deposit/body-1.webp
+    alt: 창문마다 빨래가 널린, 쿠알라룸푸르의 오래된 저층 공공 계단식 아파트 한 동
+    kind: representative
+    origin: third-party
+    subject: 쿠알라룸푸르의 오래된 계단식 임대 아파트(Pekeliling Flats)
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL-_Pekeliling_Flats_2009.JPG
+  - role: scene
+    src: /media/property/landlord-has-not-returned-the-deposit/body-2.webp
+    alt: 슬랑오르주 Rasa의 주택가 거리를 따라 늘어선 단층 테라스하우스의 줄
+    kind: representative
+    origin: third-party
+    subject: 슬랑오르주 Rasa의 테라스하우스 한 줄, 흔한 임대 주택 유형
+    credit: User:Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terrace_houses_in_Rasa,_Selangor.jpg
 ---
 
 집주인이 보증금을 돌려주지 않는 것만큼 임대차의 끝을 씁쓸하게 만드는 일도 드뭅니다. 보통 적지 않은 금액이고, 부당하게 느껴지는 경우가 많으며, 당장 강하게 밀어붙이고 싶은 유혹이 생깁니다. 그러기 전에, 말레이시아에서 보증금 분쟁의 모든 것을 좌우하는 한 가지 사실을 이해하는 것이 도움이 됩니다 — 많은 세입자가 생각하는 것과 다르기 때문입니다.

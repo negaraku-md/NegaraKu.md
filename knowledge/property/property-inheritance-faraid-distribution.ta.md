@@ -32,7 +32,7 @@ faq:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "7da221c06c43a7d9"
+sourceContentHash: "2343c4808c8495fb"
 
 status: "published"
 aiAssisted: true
@@ -91,6 +91,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-1.webp
+    alt: கிராமப்புறத்தில் சரிவு கூரையுடன் தூண்களின் மேல் கட்டப்பட்ட பாரம்பரிய மரத்தாலான மலாய் வீடு
+    kind: representative
+    origin: third-party
+    subject: பாரம்பரிய மரத்தாலான மலாய் கிராம (கம்போங்) வீடு; பொதுவாக வாரிசாகக் கிடைக்கும் குடும்ப வீட்டு வகை
+    credit: Syahmir / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_house_(6880664352).jpg
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-2.webp
+    alt: பேராக், Temoh இல் பழமையடைந்து வரும் ஒற்றைத் தள நிலத்துடன் கூடிய வீடு; பெரும்பாலும் வாரிசுகளுக்குக் கைமாற்றப்படும் வகை இது
+    kind: representative
+    origin: third-party
+    subject: பேராக், Temoh இல் ஒரு பழைய நிலத்துடன் கூடிய குடும்ப வீடு
+    credit: Coach lai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:An_old.house,_Temoh,_Malaysia.jpg
 ---
 
 மலேசியாவில் ஒருவர் இறக்கும்போது, அவரது வீட்டை யார் வாரிசாகப் பெறுகிறார் என்பது முதலில் ஒரு அடிப்படை விஷயத்தைப் பொறுத்தது: இறந்தவர் ஒரு முஸ்லிமா அல்லது முஸ்லிம் அல்லாதவரா என்பது. இரண்டு வெவ்வேறு சட்ட அமைப்புகள் அந்த விடையைக் கட்டுப்படுத்துகின்றன, மேலும் எந்தவொரு நிலப் பட்டா (geran tanah) பெயர் மாறுவதற்கு முன்பு இரண்டும் வெவ்வேறு அதிகாரிகள் வழியாகச் செல்கின்றன.

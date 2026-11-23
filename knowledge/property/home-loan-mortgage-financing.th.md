@@ -36,7 +36,7 @@ faq:
     a: "อากรแสตมป์คือ 0.5% ของจำนวนสินเชื่อภายใต้พระราชบัญญัติอากรแสตมป์ 1949 ตัวอย่างเช่น สินเชื่อ RM450,000 เสียอากร RM2,250 ต้องชำระภายใน 30 วันนับจากวันที่ลงนามในสัญญา"
 
 lang: "th"
-sourceContentHash: "b1c14566767fa9fb"
+sourceContentHash: "f5d22f7070491839"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -110,6 +110,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-1.webp
+    alt: ภาพถนนของสาขาธนาคาร Standard Chartered บนแถวอาคารพาณิชย์(shoplot)ในใจกลางเมืองเซอเริมบัน
+    kind: representative
+    origin: third-party
+    subject: สาขาธนาคาร Standard Chartered บนถนนสายหลักในเซอเริมบัน รัฐเนอเกอรีเซิมบีลัน
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Standard_Chartered_Bank,_Seremban_branch_along_the_main_street_(Jalan_Dato_Bandar_Tunggal)_-_panoramio.jpg
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-2.webp
+    alt: ภาพถนนของสาขาธนาคารอิสลาม Bank Muamalat บนแถวอาคารพาณิชย์ในกลวง รัฐยะโฮร์
+    kind: representative
+    origin: third-party
+    subject: สาขาธนาคารอิสลาม Bank Muamalat ในกลวง รัฐยะโฮร์
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Bank_Muamalat_May_2024.jpg
 ---
 
 บ้านในฝันอาจราคา RM450,000 แต่ธนาคารจะไม่ส่งมอบเงินนั้นจนกว่าจะมั่นใจว่าคุณสามารถชำระคืนได้ตลอด 30 ปีข้างหน้า นั่นคือจุดที่โลกของการจัดหาเงินทุนจำนองเริ่มต้นขึ้น ได้แก่ มาร์จิน อัตราส่วนภาระหนี้ ประกัน เงินออม KWSP และอากรแสตมป์ ซึ่งทั้งหมดเป็นตัวกำหนดว่ากุญแจบ้านหลังนั้นจะย้ายมาอยู่ในมือคุณหรือไม่

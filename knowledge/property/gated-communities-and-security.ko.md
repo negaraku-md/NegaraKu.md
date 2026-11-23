@@ -52,7 +52,27 @@ sources:
     publisher: "말레이시아 반도 도시농촌계획국, 주택지방정부부"
     date: "2010-09-02"
   - title: "도로·배수·건축물법 1974(법률 제133호) — 공식 재판본, 제46조(방해) (Street, Drainage and Building Act 1974 (Act 133) — official reprint text, s.46 (Obstruction))"
-    url: "https://www.ppj.gov.my/storage/7476/133---STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
+    url: "https://www.ppj.gov.my/storage/7476/133
+images:
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-1.webp
+    alt: Arden Hill은 스름반 Forest Heights 주택단지 안에 자리한 고급 게이티드 커뮤니티로, 하나의 통제된 외곽 경계 안에 유지 주택을 배치한다.
+    kind: actual
+    origin: third-party
+    subject: 스름반 Forest Heights의 Arden Hill 고급 게이티드 커뮤니티
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-2.webp
+    alt: 유지 주택과 잘 다듬어진 녹지가 조호르주 이스칸다르 푸테리의 Horizon Hills 게이티드 앤 가디드 주택단지를 채운다. 경비가 관리하는 대규모 주거 지구다.
+    kind: actual
+    origin: third-party
+    subject: 조호르주 이스칸다르 푸테리의 Horizon Hills 게이티드 주택단지
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
+---STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
     publisher: "Laws of Malaysia / 푸트라자야 공사"
   - title: "분양건물관리법 2013(법률 제757호), 제17·21·32조 — 공동관리기구(JMB)의 설립, 권한 및 세칙 (Strata Management Act 2013 (Act 757), ss.17, 21, 32 — establishment, powers and by-laws of the Joint Management Body)"
     url: "https://www.leepartners.my/wp-content/uploads/2016/08/STRATA_MANAGEMENT_ACT_2013_ACT_757.pdf"

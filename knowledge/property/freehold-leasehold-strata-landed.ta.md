@@ -24,7 +24,7 @@ appliesTo: "ஒரு விளம்பரத்தின் உரிமைக
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "81ade88de6968b5f"
+sourceContentHash: "9a7f91c78e576173"
 
 status: "published"
 aiAssisted: true
@@ -72,6 +72,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jesselton_Residences_Kota_Kinabalu,_Sabah,_Malaysia.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-1.webp
+    alt: ஜொகூர் பாருவில் தனக்கே உரிய வேலியிட்ட மனையில் ஒரு தனித்த பங்களா வீடு அமைந்துள்ளது; இது ஸ்ட்ரேட்டா பங்கிற்குப் பதிலாக தனிப்பட்ட நில உரிமைப் பத்திரத்தைக் கொண்ட பொதுவான நிலத்துடன் கூடிய சொத்து.
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர் பாருவில் ஒரு தனித்த பங்களா வீடு
+    credit: Terence Ong / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JB_black_and_white_bungalow.JPG
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-2.webp
+    alt: கோலாலம்பூர், புக்கிட் ஜாலிலில் பொது குறைந்த செலவு PPR குடியிருப்புத் தொகுதிகள் நிற்கின்றன; இங்கு ஒவ்வொரு யூனிட்டும் பொதுச் சொத்தின் கூட்டு உரிமையுடன் ஸ்ட்ரேட்டா உரிமைப் பத்திரத்தின் கீழ் வைத்திருக்கப்படுகிறது.
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர், புக்கிட் ஜாலிலில் உள்ள பொது குறைந்த செலவு குடியிருப்புகள் (PPR)
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
 ---
 
 ஒரே தெருவில் உள்ள கிட்டத்தட்ட ஒரே மாதிரியான இரண்டு வரிசை வீடுகள், மாநிலத்திடமிருந்து மிகவும் வேறுபட்ட வாக்குறுதிகளைச் சுமக்கலாம்: ஒரு உரிமப் பத்திரம் "நிரந்தர உரிமை (freehold)" என்று கூறுகிறது, மற்றொன்று "குத்தகை உரிமை, 99 ஆண்டுகள், 2118-இல் காலாவதியாகிறது" என்று கூறுகிறது. இரண்டாவது, தொடர்பற்ற ஒரு கேள்வி — நீங்கள் மற்றொரு நாற்பது வீட்டினருடன் சேர்ந்து ஒரு லிஃப்ட் நுழைவாயிலையும் நீச்சல் குளத்தையும் கூட்டாக உரிமையாக்குகிறீர்களா, அல்லது வண்டிப் பாதையும் கூரையும் முழுக்க முழுக்க உங்கள் சொந்தப் பிரச்சினையா என்பதைத் தீர்மானிக்கிறது. வாங்குபவர்கள் வழக்கமாக இரு கேள்விகளையும் ஒன்றாகச் சுருக்கிவிடுகிறார்கள் — "இது நிரந்தர உரிமையா அல்லது கொண்டோவா?" — ஆனால் ஒரு சொத்து எப்போதும் இரண்டையும், தனித்தனியாக, பதிலளித்துக்கொண்டே இருக்கிறது.

@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "मलेशिया में आवासीय संपत्ति किराए पर लेने या देने वाला कोई भी व्यक्ति — प्रायद्वीपीय मलेशिया, सबाह या सारावाक में अपना पहला किराएदारी अनुबंध हस्ताक्षरित करने वाले किराएदार, और इसे तैयार करने वाले मकान मालिक।"
 
 lang: "hi"
-sourceContentHash: "22529f1f29bdf0fb"
+sourceContentHash: "0548eebf82cca3c3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-1.webp
+    alt: कुआलालंपुर में एक नदी के किनारे घने ऊँचे अपार्टमेंट फ्लैट, मलेशिया में किराये के आवास का प्रतिनिधित्व करते हैं
+    kind: representative
+    origin: third-party
+    subject: अब्दुल्लाह हुकुम, कुआलालंपुर में ऊँचे अपार्टमेंट फ्लैट
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abdullah_Hukum_Apartments_and_Putra_Ria_Apartments.jpg
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-2.webp
+    alt: उपनगरीय जॉर्ज टाउन, पेनांग में मध्यम और ऊँचे अपार्टमेंट ब्लॉक, मलेशिया में किराये पर दिए जाने वाले घरों के विशिष्ट
+    kind: representative
+    origin: third-party
+    subject: उपनगरीय जॉर्ज टाउन, पेनांग में अपार्टमेंट ब्लॉक
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
 ---
 
 मलेशिया में किसी मकान मालिक और किराएदार से पूछें कि कौन-सा कानून उनकी रक्षा करता है, और अधिकांश गलत अनुमान लगाएँगे। कोई "आवासीय किराएदारी अधिनियम" नहीं है जिसका सहारा लिया जाए — कोई एकल कानून नहीं जो नोटिस अवधि तय करे, जमा पर सीमा लगाए, या स्पष्ट करे कि मकान खाली कराते समय मकान मालिक क्या कर सकता है और क्या नहीं।

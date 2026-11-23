@@ -30,7 +30,7 @@ faq:
     a: "Di sản nhỏ gồm tài sản bất động sản và có giá trị dưới RM5 triệu được xử lý bởi Người quản lý Đất đai (Land Administrator) qua Văn phòng Địa chính Quận, cơ quan cấp Lệnh Phân chia."
 
 lang: "vi"
-sourceContentHash: "7da221c06c43a7d9"
+sourceContentHash: "2343c4808c8495fb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-1.webp
+    alt: Một ngôi nhà gỗ truyền thống của người Mã Lai dựng trên cột sàn với mái dốc ở vùng nông thôn
+    kind: representative
+    origin: third-party
+    subject: Ngôi nhà gỗ truyền thống của người Mã Lai ở làng (kampung), một loại nhà gia đình thường được thừa kế
+    credit: Syahmir / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_house_(6880664352).jpg
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-2.webp
+    alt: Một ngôi nhà gắn liền với đất một tầng đang xuống cấp ở Temoh, Perak, loại thường được truyền lại cho người thừa kế
+    kind: representative
+    origin: third-party
+    subject: Một ngôi nhà gia đình gắn liền với đất cũ kỹ ở Temoh, Perak
+    credit: Coach lai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:An_old.house,_Temoh,_Malaysia.jpg
 ---
 
 Khi một người qua đời ở Malaysia, ai thừa kế ngôi nhà của họ phụ thuộc trước hết vào một điều cơ bản: người đã khuất là người Hồi giáo hay không phải người Hồi giáo. Hai hệ thống pháp luật khác nhau chi phối câu trả lời đó, và cả hai đều đi qua những cơ quan có thẩm quyền khác nhau trước khi bất kỳ giấy chứng nhận quyền sử dụng đất nào có thể đổi tên.

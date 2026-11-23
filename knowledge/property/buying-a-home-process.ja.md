@@ -38,7 +38,7 @@ revisions:
 sensitivity: "none"
 
 updated: 2026-07-24
-sourceContentHash: "7bbb4ca3cdb29e8e"
+sourceContentHash: "1351b65e9c82e4a6"
 sources:
   - title: "1949年印紙税法附表1の対象となる証書に対する印紙税賦課ガイドライン（LHDN.AG.600-1/10/3）— セクションC、不動産の所有権移転証書に対する印紙税の賦課 (Garis Panduan Pengenaan Duti Setem Bagi Surat Cara Yang Tertakluk Kepada Jadual Pertama Akta Setem 1949 (LHDN.AG.600-1/10/3) — Section C, Pengenaan Duti Setem Ke Atas Surat Cara Pindah Milik Harta Tanah)"
     url: "https://www.hasil.gov.my/wp-content/uploads/garis-panduan-pengenaan-duti-setem-jadual-pertama-as-1949.pdf"
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cassia_Homes,_Forest_Heights,_Seremban.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/buying-a-home-process/body-1.webp
+    alt: 新築の家々とむき出しの地面が、ヌグリ・スンビラン州Kepayang Heightsに立ち上がる新しい住宅開発を示す。買い手が販売ギャラリーの図面を見て申し込む、まさにそうしたプロジェクトだ。
+    kind: representative
+    origin: third-party
+    subject: ヌグリ・スンビラン州Kepayang Heightsで建設中の新しい住宅開発
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:New_housing_development,_Kepayang_Heights_-_panoramio.jpg
+  - role: scene
+    src: /media/property/buying-a-home-process/body-2.webp
+    alt: ペナン州スブラン・プライ・スラタンのTaman Idamanにある、竣工したばかりの統一感のある有地住宅の街並み。鍵の引き渡しを終えた買い手が入居する、こうした完成済み開発の典型だ。
+    kind: representative
+    origin: third-party
+    subject: ペナン州スブラン・プライ・スラタン、Taman Idamanの完成した有地住宅
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg
 ---
 
 マレーシアの住宅購入には通常二人の弁護士が関わるが、大半の買主はその二人が別々の人物であることに気づきさえしない。一人は物件を移転させる売買契約（Sale and Purchase Agreement、SPA）を起草し、印紙を貼る。もう一人は——銀行に選任され、時には同じ事務所が——貸付金と担保（charge）を起草して印紙を貼る。この担保こそ、貸付が返済されないときに銀行が物件を差し押さえられるようにする文書である。「弁護士」をこの物語の一人の登場人物だと思い込む買主は、後になって、なぜ二組の弁護士費用が現れたのか、あるいはなぜ貸付が承認された日に鍵が届かなかったのか、と戸惑うことになりがちだ。

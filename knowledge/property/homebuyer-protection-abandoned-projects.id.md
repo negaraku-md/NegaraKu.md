@@ -33,7 +33,7 @@ faq:
     a: "Putusan Tribunal adalah final dan mengikat serta dapat ditegakkan seperti perintah pengadilan. Kegagalan mematuhi putusan adalah satu pelanggaran yang dapat dikenakan denda RM10,000 hingga RM50,000 atau penjara hingga dua tahun, atau keduanya."
 
 lang: "id"
-sourceContentHash: "df503ce18f77fc3f"
+sourceContentHash: "7d201d8e93333584"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Abandoned_building_in_Kampung_Masjid,_Gombak_20230930_102344.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-1.webp
+    alt: Sebuah rumah satu lantai yang rusak dibiarkan telantar, dengan tumbuhan liar dan dinding bata yang terbuka
+    kind: actual
+    origin: third-party
+    subject: Rumah telantar yang belum rampung di Desa Subang Permai, Selangor
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_house_located_in_Desa_Subang_Permai_1.jpg
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-2.webp
+    alt: Sebuah bangunan telantar yang lapuk dengan cat mengelupas dan lubang jendela kosong di Melaka
+    kind: actual
+    origin: third-party
+    subject: Sebuah bangunan telantar yang tidak lagi terpakai di Melaka
+    credit: User:Katangais / Wikimedia Commons
+    license: CC BY 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_Building_Melaka.jpg
 ---
 
 Anda sudah membayar deposit, menandatangani Perjanjian Jual Beli, dan menunggu kunci rumah — kemudian lokasi pembangunan senyap selama berbulan-bulan. Untuk pembeli rumah hunian baru di Semenanjung Malaysia, undang-undang sebenarnya menyediakan beberapa lapisan perlindungan sebelum, selama, dan setelah keadaan seperti ini terjadi. Kuncinya adalah mengetahui apa yang dilindungi dan ke mana harus pergi ketika sesuatu tidak beres.

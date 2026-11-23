@@ -24,7 +24,7 @@ appliesTo: "マレーシア半島またはラブアン連邦直轄区におい�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "02c5304754ea1783"
+sourceContentHash: "e57ff10a7a230e8f"
 
 status: "published"
 aiAssisted: true
@@ -81,6 +81,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bistari_Condominium,_Kuala_Lumpur_20240212_134920.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-1.webp
+    alt: クアラルンプールのアンパンに複数のコンドミニアム（kondominium）の塔が寄り添って立つ。この高層群の住民は、エレベーター・プール・警備を維持する管理費を分担して負担する。
+    kind: actual
+    origin: third-party
+    subject: クアラルンプール・アンパンのコンドミニアム群
+    credit: 龍崎 Jeffrey (Panoramio) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Condominium_Near_By_Tesco_Ampang_-_panoramio.jpg
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-2.webp
+    alt: NKVE（北クラン・バレー高速道路）から望むと、Riana Greenコンドミニアムの複数の塔が緑に囲まれてペタリン・ジャヤに並び立つ。ゲート付きのストラータ（strata）開発であり、住民は管理費とシンキングファンドを分担する。
+    kind: actual
+    origin: third-party
+    subject: NKVEから望むペタリン・ジャヤのRiana Greenコンドミニアム群
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Green_Condominium_from_NKVE_in_Petaling_Jaya,_Selangor_20250402_155722.jpg
 ---
 
 あなたはその専有部分を買った。エレベーターも、警備室も、プールも、隣人と共有する壁を通る配管も、買ったわけではない。それでも、そのすべてに誰かが支払わなければならない——そして法律は、その請求を、あなたが法律上分けて管理することを義務づけられている二つの口座に分割する。

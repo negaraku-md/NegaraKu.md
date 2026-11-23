@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que se traslade a una casa o local nuevos en Malasia y necesite abrir, transferir o cerrar una cuenta de suministro eléctrico — ya sea en Malasia Peninsular, Sabah o Sarawak."
 
 lang: "es"
-sourceContentHash: "163ba8d9c69cf9c9"
+sourceContentHash: "bbe7cffbe5401aa2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hezery99-TNB_electricity_meter.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-1.webp
+    alt: Una subestación eléctrica vallada de Tenaga Nasional en Bandar Utama, Petaling Jaya, un eslabón de la red que alimenta cada cuenta doméstica de TNB en todo Selangor.
+    kind: actual
+    origin: third-party
+    subject: Subestación eléctrica de Tenaga Nasional en Bandar Utama, Petaling Jaya
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Electrical_Substation.jpg
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-2.webp
+    alt: La estación de toma principal de Tenaga Nasional en Bandar Utama se eriza de aparamenta y pórticos, el paso de alta tensión antes de que la electricidad llegue a los contadores de las viviendas de los consumidores.
+    kind: actual
+    origin: third-party
+    subject: Estación de transmisión de toma principal (PPU) de Tenaga Nasional, Bandar Utama
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Transmission_Main_Intake.jpg
 ---
 
 Ya tienes las llaves de tu nueva casa, pero el interruptor de la luz no hace nada. El contador de fuera sigue girando a nombre del anterior propietario — y hasta que esa cuenta cambie de nombre, cada kilovatio que uses sigue técnicamente colgando de la responsabilidad de otra persona. Mucha gente supone que «llamar a TNB» basta para arreglar esto. En Malasia Peninsular, sí. En Sabah y Sarawak, ese es el número de teléfono equivocado por completo.

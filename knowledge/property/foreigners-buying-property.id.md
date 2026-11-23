@@ -28,7 +28,7 @@ verificationNeeded:
   - "Kutipan dan tahun tepat amendemen National Land Code yang menutup pengecualian tanah industri terdahulu dari persetujuan Pihak Berwenang Negeri tidak dapat dipastikan dibandingkan teks Act amendemen itu sendiri; ia digambarkan di sini berdasarkan komentar hukum sekunder yang paralel, bukan dari ketentuan primer yang dibaca langsung."
 
 lang: "id"
-sourceContentHash: "108b77146a2f6cd9"
+sourceContentHash: "78ee4bcd8de014e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_348-Sentral-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-1.webp
+    alt: Deretan kondominium mewah bertingkat tinggi memadati cakrawala Mont Kiara di Kuala Lumpur, sebuah kawasan favorit ekspatriat tempat pembeli asing harus memenuhi ambang harga minimum negara bagian.
+    kind: actual
+    origin: third-party
+    subject: Cakrawala kondominium pencakar langit di Mont Kiara, Kuala Lumpur
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skyline_of_Mont_Kiara,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-2.webp
+    alt: Menara-menara mewah tepi laut Forest City menjulang di atas tanah reklamasi di Johor, sebuah proyek raksasa yang gencar dipasarkan kepada pembeli asing dekat perbatasan Singapura.
+    kind: actual
+    origin: third-party
+    subject: Proyek mewah tepi laut Forest City yang sedang dibangun, Johor
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City,_Johor_in_development.jpg
 ---
 
 Seorang pembeli dari Hong Kong setuju membayar RM1.8 juta untuk sebuah rumah kembar di Petaling Jaya. Pembiayaan telah diatur, penjual setuju, dan harga itu melewati setiap ambang yang disebut di internet. Namun transaksi itu tetap tidak dapat selesai sampai sebuah kantor pemerintah negeri di Shah Alam membuat keputusan — atas diskresinya sendiri — apakah mau mengizinkan seorang warga asing memegang hak milik itu secara langsung.

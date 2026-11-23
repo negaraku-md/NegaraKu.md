@@ -33,7 +33,7 @@ faq:
     a: "仲裁庭的裁决为最终裁决并具约束力，可像法庭命令一样强制执行。未能遵从裁决属于一项罪行，可处以 RM10,000 至 RM50,000 罚款，或最长两年监禁，或两者兼施。"
 
 lang: "zh"
-sourceContentHash: "df503ce18f77fc3f"
+sourceContentHash: "7d201d8e93333584"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Abandoned_building_in_Kampung_Masjid,_Gombak_20230930_102344.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-1.webp
+    alt: 一栋荒废、未完工的单层房屋，杂草丛生、砖墙裸露
+    kind: actual
+    origin: third-party
+    subject: 雪兰莪Desa Subang Permai一栋被废弃、未完工的房屋
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_house_located_in_Desa_Subang_Permai_1.jpg
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-2.webp
+    alt: 马六甲一栋饱经风霜的废弃建筑，油漆剥落、窗口空洞
+    kind: actual
+    origin: third-party
+    subject: 马六甲一栋弃置、废弃的建筑
+    credit: User:Katangais / Wikimedia Commons
+    license: CC BY 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_Building_Melaka.jpg
 ---
 
 你已经付了订金、签了买卖合约、等着领取房屋钥匙——然后建筑工地却接连数月悄无声息。对于西马购买新住宅的购房者而言，法律实际上在这类情况发生之前、期间和之后都提供了数层保护。关键在于了解哪些受到保护，以及当事情不对劲时该往何处求助。

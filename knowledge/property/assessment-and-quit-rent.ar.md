@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "أصحاب المنازل ومالكو الأراضي ومشترو العقارات في شبه جزيرة ماليزيا الذين يحتاجون إلى فهم فواتير الضرائب العقارية السنوية الخاصة بهم."
 
 lang: "ar"
-sourceContentHash: "b2facf160acd431e"
+sourceContentHash: "6e7b14e11b1194be"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Terraced_house,_Bandar_Sri_Sendayan,_Seremban.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-1.webp
+    alt: صفّ من المنازل الصفّية ذات الطابقين يمتدّ على طول شارع سكني ماليزي هادئ، وهو نوع العقارات الأرضية التي تُفرض عليها رسوم التقييم وضريبة الأرض (quit rent).
+    kind: representative
+    origin: third-party
+    subject: منازل صفّية من طابقين في تامان ماليزي
+    credit: Megnitute / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Ria_Terrace.jpg
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-2.webp
+    alt: لقطة جوية فوق بلدة Mutiara Rini في Iskandar Puteri تُظهر آلاف المنازل الأرضية على شوارع مُخطّطة شبكيًا، كلٌّ منها عقار خاضع للرسوم في سجلّ المجلس المحلي.
+    kind: representative
+    origin: third-party
+    subject: منظر جوي لبلدة Mutiara Rini في Iskandar Puteri، جوهور
+    credit: Muhammad Rifqi MR / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Mutiara_Rini_Township_Johor.jpg
 ---
 
 يُفاجأ كثير من أصحاب المنازل الجدد بتلقّي فاتورة ثانية لم يتوقّعوها. فقد دفعوا بالفعل «ضريبة الأرض» هذه السنة — فلماذا يرسل المجلس البلدي إشعار مطالبة أيضاً؟

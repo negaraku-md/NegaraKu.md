@@ -35,7 +35,7 @@ faq:
     a: "हाँ। ऐसे खर्च जो संपत्ति के मूल्य को बढ़ाते या बनाए रखते हैं, जैसे नवीनीकरण और सुधार लागत, घटाए जा सकते हैं, बशर्ते वे वैध रसीदों और दस्तावेज़ों से समर्थित हों।"
 
 lang: "hi"
-sourceContentHash: "d30bca1500940866"
+sourceContentHash: "2413423d254ace48"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-1.webp
+    alt: सेगाम्बुत, कुआलालंपुर में Riana Dutamas आवासीय विकास का सड़क-किनारे का सेल्स गैलरी मंडप और बड़े अक्षरों वाला साइनबोर्ड, जहाँ नए घरों का विपणन और बिक्री होती है
+    kind: representative
+    origin: third-party
+    subject: Riana Dutamas आवासीय विकास की सेल्स गैलरी और साइनबोर्ड, सेगाम्बुत, कुआलालंपुर
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Dutamas_Sales_Gallery,_Kampung_Pasir_Segambut_20230304_115010.jpg
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-2.webp
+    alt: धातु की छत वाला एक आधुनिक स्वतंत्र मलेशियाई कम्पुंग मकान, एक भू-स्वामित्व वाले घर का प्रतिनिधित्व करता है जिसके निपटान पर रियल प्रॉपर्टी गेंस टैक्स लग सकता है
+    kind: representative
+    origin: third-party
+    subject: कम्पुंग कुआला लाह में एक आधुनिक स्वतंत्र गाँव का मकान
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Kuala_Lah_Modern_House.jpg
 ---
 
 आप एक मकान मुनाफे पर बेचते हैं — लेकिन पैसा आपके खाते में पहुँचने से पहले ही सरकार अपना हिस्सा चाहती है। यही RPGT है, एक ऐसा कर जिसे विक्रेता अक्सर तब तक नज़रअंदाज़ करते हैं जब तक वकील निपटान की मेज़ पर हज़ारों रिंगिट रोक नहीं लेता।

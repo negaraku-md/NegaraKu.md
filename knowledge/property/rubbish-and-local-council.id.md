@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang tinggal di Malaysia dan perlu memahami siapa yang mengumpulkan sampah di kawasan mereka, apakah mereka wajib memilah limbah di sumber, dan apa risikonya jika tidak."
 
 lang: "id"
-sourceContentHash: "e61c9e41571bda53"
+sourceContentHash: "6100de3c986f35cf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,6 +75,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hino_500_BPQ_1074_of_KDEB_Waste_Management_lorry_at_Lorong_Camar_4-5C,_Kota_Damansara_20230930_124457.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-1.webp
+    alt: Sebuah tempat sampah publik berwarna biru bertanda lambang dewan setempat MBPJ di tepi rumput di Kota Damansara, Selangor
+    kind: representative
+    origin: third-party
+    subject: Tempat sampah dinas dengan lambang MBPJ (Majlis Bandaraya Petaling Jaya) di Kota Damansara
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubbish_bin_MBPJ-PJU5-Cecawi_6-27-119_at_Taman_Seksyen_6_Kota_Damansara_20240220_090528.jpg
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-2.webp
+    alt: Sederet empat tempat sampah daur ulang berlabel untuk kertas, kaleng dan plastik, kaca, serta sampah tidak dapat didaur ulang di sebuah tempat umum di Kuala Lumpur
+    kind: representative
+    origin: third-party
+    subject: Tempat sampah daur ulang terpisah untuk kertas, kaleng dan plastik, kaca, serta sampah tidak dapat didaur ulang di Kuala Lumpur
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Recycle_bins_in_Kuala_Lumpur,_Malaysia_27042026_-_01.jpg
 ---
 
 Tong sampah Anda diambil dua kali seminggu, tapi pernahkah Anda bertanya siapa sebenarnya yang mengambilnya — majelis setempat, atau perusahaan lain yang ditunjuk majelis? Dan mengapa tetangga Anda di negeri sebelah bisa kena denda karena tidak memisahkan botol plastik dari sisa makanan, sedangkan Anda tidak?

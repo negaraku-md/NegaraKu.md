@@ -68,6 +68,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/water-supply/body-1.webp
+    alt: Sebuah empangan kecil konkrit dan struktur kawalan air berpintu yang merentasi Sungai Padang Matsirat di Langkawi, sebahagian daripada infrastruktur bekalan air Malaysia
+    kind: representative
+    origin: third-party
+    subject: Empangan kecil sungai dan struktur kawalan air di Sungai Padang Matsirat, Langkawi
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Padang-Matsirat_Langkawi_Sungai-Padang-Matsirat-Dam-01.jpg
+  - role: scene
+    src: /media/property/water-supply/body-2.webp
+    alt: Sebuah tangki simpanan air tinggi berwarna putih yang besar bertanda Taman Setia Tropika di Johor, menyimpan air yang telah dirawat untuk bekalan tempatan
+    kind: representative
+    origin: third-party
+    subject: Tangki simpanan air tinggi di Taman Setia Tropika, Johor
+    credit: PM Poon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Setia_Tropika_Water_Tower.jpg
 ---
 
 Anda berpindah dari Selangor ke Johor. Akaun bank sama. Talian telefon boleh dibawa sekali. Tapi akaun air anda? Ia tidak ikut serta — kerana syarikat yang membekalkan air ke rumah baharu anda bukan syarikat yang sama sekali.

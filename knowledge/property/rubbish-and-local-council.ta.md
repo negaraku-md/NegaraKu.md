@@ -24,7 +24,7 @@ appliesTo: "மலேசியாவில் வாழும் எவரும
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e61c9e41571bda53"
+sourceContentHash: "6100de3c986f35cf"
 
 status: "published"
 aiAssisted: true
@@ -75,6 +75,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hino_500_BPQ_1074_of_KDEB_Waste_Management_lorry_at_Lorong_Camar_4-5C,_Kota_Damansara_20230930_124457.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-1.webp
+    alt: செலாங்கூர், Kota Damansara இல் புல் ஓரத்தில் MBPJ உள்ளூர் மன்றச் சின்னம் பொறித்த ஒரு நீல நிற பொது குப்பைத் தொட்டி
+    kind: representative
+    origin: third-party
+    subject: Kota Damansara இல் MBPJ (பெட்டாலிங் ஜெயா நகர மன்றம்) சின்னம் பொறித்த மன்றக் குப்பைத் தொட்டி
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubbish_bin_MBPJ-PJU5-Cecawi_6-27-119_at_Taman_Seksyen_6_Kota_Damansara_20240220_090528.jpg
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-2.webp
+    alt: கோலாலம்பூரில் ஒரு பொது இடத்தில் காகிதம், டின் மற்றும் பிளாஸ்டிக், கண்ணாடி, மறுசுழற்சி செய்ய முடியாத கழிவு ஆகியவற்றுக்கு லேபிள் இடப்பட்ட நான்கு மறுசுழற்சித் தொட்டிகளின் வரிசை
+    kind: representative
+    origin: third-party
+    subject: கோலாலம்பூரில் காகிதம், டின் மற்றும் பிளாஸ்டிக், கண்ணாடி, மறுசுழற்சி செய்ய முடியாத கழிவு ஆகியவற்றுக்கான தனித்தனி மறுசுழற்சித் தொட்டிகள்
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Recycle_bins_in_Kuala_Lumpur,_Malaysia_27042026_-_01.jpg
 ---
 
 உங்கள் குப்பைத் தொட்டி வாரத்திற்கு இருமுறை காலி செய்யப்படுகிறது, ஆனால் அதை உண்மையில் யார் எடுக்கிறார்கள் என்று நீங்கள் எப்போதாவது கேட்டிருக்கிறீர்களா — உள்ளூராட்சி மன்றமா, அல்லது மன்றம் நியமித்த வேறு நிறுவனமா? மேலும், அடுத்த மாநிலத்தில் உள்ள உங்கள் அண்டைவீட்டார் பிளாஸ்டிக் பாட்டில்களை உணவுக் கழிவிலிருந்து பிரிக்காததற்காக அபராதம் விதிக்கப்படலாம், ஆனால் உங்களுக்கு இல்லை — ஏன்?

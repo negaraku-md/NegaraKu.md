@@ -35,7 +35,7 @@ faq:
 
 lang: "ja"
 translationStatus: "in-sync"
-sourceContentHash: "41f000c53719467c"
+sourceContentHash: "781014ba8db210af"
 masterLanguage: "en"
 
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/landlord-has-not-returned-the-deposit/body-1.webp
+    alt: 窓から洗濯物が吊るされた、クアラルンプールの古い低層の公共階段式フラット一棟
+    kind: representative
+    origin: third-party
+    subject: クアラルンプールの古い階段式賃貸フラット（Pekeliling Flats）
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL-_Pekeliling_Flats_2009.JPG
+  - role: scene
+    src: /media/property/landlord-has-not-returned-the-deposit/body-2.webp
+    alt: セランゴール州Rasaの住宅街に沿って並ぶ平屋のテラスハウスの列
+    kind: representative
+    origin: third-party
+    subject: セランゴール州Rasaのテラスハウスの列。賃貸住宅としてよく見られる型
+    credit: User:Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terrace_houses_in_Rasa,_Selangor.jpg
 ---
 
 賃貸の終わりを、保証金を返さない大家ほど後味悪くするものはそうありません。たいてい相当な金額で、しばしば不当に感じられ、すぐにでも事を荒立てたくなります。そうする前に、マレーシアでの保証金争いのすべてを形づくるひとつの事実を理解しておくと役立ちます――それは多くの賃借人が思い込んでいるものとは違うからです。

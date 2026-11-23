@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai thuê hoặc cho thuê một bất động sản nhà ở tại Malaysia — người thuê ký hợp đồng thuê đầu tiên của mình, và chủ nhà soạn thảo một hợp đồng, tại Bán đảo Malaysia, Sabah hoặc Sarawak."
 
 lang: "vi"
-sourceContentHash: "22529f1f29bdf0fb"
+sourceContentHash: "0548eebf82cca3c3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-1.webp
+    alt: Những khối chung cư căn hộ cao tầng dày đặc bên bờ sông ở Kuala Lumpur, tiêu biểu cho nhà ở cho thuê tại Malaysia
+    kind: representative
+    origin: third-party
+    subject: Chung cư căn hộ cao tầng tại Abdullah Hukum, Kuala Lumpur
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abdullah_Hukum_Apartments_and_Putra_Ria_Apartments.jpg
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-2.webp
+    alt: Các khối chung cư căn hộ tầm trung và cao tầng ở vùng ven George Town, Penang, điển hình cho nhà cho thuê tại Malaysia
+    kind: representative
+    origin: third-party
+    subject: Các khối chung cư căn hộ ở vùng ven George Town, Penang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
 ---
 
 Hãy hỏi một chủ nhà và một người thuê ở Malaysia luật nào bảo vệ họ, và phần lớn sẽ đoán sai. Không có một "Luật Thuê nhà ở" nào để viện đến — không có một luật đơn lẻ nào đặt ra thời hạn báo trước, giới hạn tiền đặt cọc, hay nêu rõ chủ nhà được và không được làm gì khi dọn ra.

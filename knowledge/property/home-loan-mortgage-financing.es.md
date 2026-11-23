@@ -36,7 +36,7 @@ faq:
     a: "El impuesto de timbre es del 0.5% del importe del préstamo bajo el Stamp Act 1949. Por ejemplo, un préstamo de RM450,000 genera un impuesto de RM2,250. El pago debe realizarse en un plazo de 30 días desde la fecha de firma del contrato."
 
 lang: "es"
-sourceContentHash: "b1c14566767fa9fb"
+sourceContentHash: "f5d22f7070491839"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -110,6 +110,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-1.webp
+    alt: Vista desde la calle de una sucursal del Standard Chartered Bank en una hilera de locales comerciales en el centro de Seremban
+    kind: representative
+    origin: third-party
+    subject: Una sucursal del Standard Chartered Bank en la calle principal de Seremban, Negeri Sembilan
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Standard_Chartered_Bank,_Seremban_branch_along_the_main_street_(Jalan_Dato_Bandar_Tunggal)_-_panoramio.jpg
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-2.webp
+    alt: Vista desde la calle de una sucursal del banco islámico Bank Muamalat en una hilera de locales comerciales en Kluang, Johor
+    kind: representative
+    origin: third-party
+    subject: Una sucursal del Bank Muamalat (banco islámico) en Kluang, Johor
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Bank_Muamalat_May_2024.jpg
 ---
 
 La casa de sus sueños puede costar RM450,000, pero el banco no entregará ese dinero hasta estar seguro de que usted puede devolverlo a lo largo de los próximos 30 años. Ahí empieza el mundo de la financiación hipotecaria — márgenes, ratios de servicio de la deuda, seguros, ahorros de la EPF e impuesto de timbre, todo lo cual determina si las llaves de esa casa acaban en sus manos.

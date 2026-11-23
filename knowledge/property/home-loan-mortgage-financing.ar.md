@@ -36,7 +36,7 @@ faq:
     a: "رسوم الدمغة هي 0.5% من مبلغ القرض بموجب قانون الدمغة لسنة 1949 (Stamp Act 1949). فمثلًا، يُفرض على قرض قدره RM450,000 رسم قدره RM2,250. ويجب الدفع خلال 30 يومًا من تاريخ توقيع الاتفاقية."
 
 lang: "ar"
-sourceContentHash: "b1c14566767fa9fb"
+sourceContentHash: "f5d22f7070491839"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -110,6 +110,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-1.webp
+    alt: منظر من الشارع لفرع بنك Standard Chartered في صفّ محلات بوسط مدينة سيرمبان
+    kind: representative
+    origin: third-party
+    subject: فرع لبنك Standard Chartered على الشارع الرئيسي في سيرمبان، نيجري سمبيلان
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Standard_Chartered_Bank,_Seremban_branch_along_the_main_street_(Jalan_Dato_Bandar_Tunggal)_-_panoramio.jpg
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-2.webp
+    alt: منظر من الشارع لفرع مصرف Bank Muamalat الإسلامي في صفّ محلات بـ Kluang، جوهور
+    kind: representative
+    origin: third-party
+    subject: فرع لـ Bank Muamalat (مصرف إسلامي) في Kluang، جوهور
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Bank_Muamalat_May_2024.jpg
 ---
 
 قد يكلّف منزل أحلامك RM450,000، لكن المصرف لن يسلّمك ذلك المال حتى يطمئن إلى قدرتك على سداده على مدى الثلاثين سنة المقبلة. من هنا يبدأ عالم تمويل الرهن العقاري — نسب التمويل، ونسب خدمة الدَّين، والتأمين، ومدخرات EPF، ورسوم الدمغة، وكلها تحدّد ما إذا كانت مفاتيح ذلك المنزل ستنتهي في يديك.

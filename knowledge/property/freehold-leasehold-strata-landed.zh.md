@@ -23,7 +23,7 @@ appliesTo: "任何在马来西亚购买、出售或评估房产、需要弄清�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "81ade88de6968b5f"
+sourceContentHash: "9a7f91c78e576173"
 
 status: "published"
 aiAssisted: true
@@ -71,6 +71,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jesselton_Residences_Kota_Kinabalu,_Sabah,_Malaysia.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-1.webp
+    alt: 一栋独立式洋房坐落在柔佛新山（Johor Bahru）自家围起的地段上，这是最典型的有地房产，持有的是个别地契而非分层（strata）份额。
+    kind: actual
+    origin: third-party
+    subject: 柔佛新山的一栋独立式洋房
+    credit: Terence Ong / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JB_black_and_white_bungalow.JPG
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-2.webp
+    alt: 一栋栋公共廉价组屋（PPR）矗立于吉隆坡武吉加里尔（Bukit Jalil），每个单位以分层地契（strata title）持有，共同拥有公共产业。
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡武吉加里尔的公共廉价组屋（PPR）
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
 ---
 
 同一条街上两间几乎一模一样的排屋，可能来自州政府当局截然不同的承诺：一份地契写着「永久地契」，另一份写着「租赁地契，99 年，2118 年到期」。另一个不相关的问题，则决定你是否要与另外四十户人家共同拥有电梯大堂与泳池，还是车道与屋顶完全是你自己的事。买家常把这两个问题混成一个——「这是永久地契，还是公寓？」——但一处房产其实永远同时、各自独立地回答着这两个问题。

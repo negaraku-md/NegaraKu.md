@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang membeli, menjual atau menilai properti di Malaysia yang perlu memahami apa sebenarnya yang dijanjikan oleh jangka kepemilikan dan jenis hak milik dalam suatu listing."
 
 lang: "id"
-sourceContentHash: "81ade88de6968b5f"
+sourceContentHash: "9a7f91c78e576173"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -72,6 +72,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jesselton_Residences_Kota_Kinabalu,_Sabah,_Malaysia.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-1.webp
+    alt: Sebuah rumah bungalow terpisah berdiri di atas kaveling berpagar miliknya sendiri di Johor Bahru, properti tapak khas yang memegang sertifikat tanah individu, bukan bagian strata.
+    kind: actual
+    origin: third-party
+    subject: Rumah bungalow terpisah di Johor Bahru
+    credit: Terence Ong / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JB_black_and_white_bungalow.JPG
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-2.webp
+    alt: Blok-blok rumah susun murah PPR milik publik berdiri di Bukit Jalil, Kuala Lumpur, tempat setiap unit dipegang di bawah sertifikat strata dengan kepemilikan bersama atas properti bersama.
+    kind: actual
+    origin: third-party
+    subject: Rumah susun murah milik publik (PPR) di Bukit Jalil, Kuala Lumpur
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
 ---
 
 Dua buah rumah teres yang hampir sama di jalan yang sama dapat membawa janji yang sangat berbeda dari pihak berwenang negeri: satu hak milik menyatakan "hak milik bebas," sedangkan yang lain menyatakan "pajakan, 99 tahun, berakhir 2118." Satu pertanyaan kedua yang tidak berkaitan menentukan apakah Anda turut berbagi kepemilikan lobi lift dan kolam renang dengan empat puluh rumah tangga lain, atau apakah jalan masuk mobil dan atap sepenuhnya urusan Anda sendiri. Pembeli sering mencampuradukkan kedua pertanyaan ini menjadi satu — "apakah ia hak milik bebas atau apakah ia kondominium?" — padahal suatu properti selalu menjawab keduanya, secara terpisah.

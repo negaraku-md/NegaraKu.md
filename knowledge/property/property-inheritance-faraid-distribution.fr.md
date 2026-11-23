@@ -30,7 +30,7 @@ faq:
     a: "Une petite succession comprenant des biens immeubles et évaluée à moins de RM5 millions est gérée par l'administrateur foncier via le bureau foncier de district (District Land Office), qui délivre une ordonnance de distribution (Distribution Order)."
 
 lang: "fr"
-sourceContentHash: "7da221c06c43a7d9"
+sourceContentHash: "2343c4808c8495fb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-1.webp
+    alt: Une maison malaise traditionnelle en bois sur pilotis au toit en pente dans un cadre rural
+    kind: representative
+    origin: third-party
+    subject: Une maison malaise traditionnelle en bois de kampung, un type de maison familiale souvent transmise en héritage
+    credit: Syahmir / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_house_(6880664352).jpg
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-2.webp
+    alt: Une maison individuelle de plain-pied vieillissante à Temoh, Perak, du type souvent transmis aux héritiers
+    kind: representative
+    origin: third-party
+    subject: Une ancienne maison familiale individuelle à Temoh, Perak
+    credit: Coach lai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:An_old.house,_Temoh,_Malaysia.jpg
 ---
 
 Lorsqu'une personne décède en Malaisie, celui qui hérite de son logement dépend d'abord d'une question fondamentale : le défunt était-il musulman ou non-musulman ? Deux systèmes juridiques distincts régissent la réponse, et les deux passent par des autorités différentes avant qu'un titre foncier puisse changer de nom.

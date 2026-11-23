@@ -30,7 +30,7 @@ faq:
     a: "不動産を含み、価額がRM500万未満の小規模遺産は、県土地事務所を通じて土地管理官（Pentadbir Tanah）が扱い、分配命令（Perintah Pembahagian）を発する。"
 
 lang: "ja"
-sourceContentHash: "7da221c06c43a7d9"
+sourceContentHash: "2343c4808c8495fb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-1.webp
+    alt: 切妻屋根を持つ、高床式の伝統的なマレー木造家屋が田園の中に建つ
+    kind: representative
+    origin: third-party
+    subject: 伝統的な木造のマレー・カンポン（kampung）家屋。相続されることの多い家族の住まいの型
+    credit: Syahmir / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_house_(6880664352).jpg
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-2.webp
+    alt: ペラ州Temohの古びた平屋の有地住宅。しばしば相続人へ受け継がれる類のもの
+    kind: representative
+    origin: third-party
+    subject: ペラ州Temohの古い有地の家族住宅
+    credit: Coach lai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:An_old.house,_Temoh,_Malaysia.jpg
 ---
 
 マレーシアで誰かが亡くなったとき、誰がその家を相続するかは、まず一つの根本的な事柄にかかっている。すなわち、死者がムスリムか非ムスリムかである。その答えは二つの異なる法体系によって規律され、いずれも土地地権が名義変更される前に、それぞれ別の主管機関を経由する。

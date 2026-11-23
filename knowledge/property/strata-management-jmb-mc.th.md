@@ -35,7 +35,7 @@ faq:
     a: "การไม่ปฏิบัติตามคำตัดสินเป็นความผิดอาญาภายใต้มาตรา 123 ปรับไม่เกิน RM250,000 หรือจำคุกไม่เกิน 3 ปี หรือทั้งสองอย่าง โดยมีค่าปรับเพิ่มเติมสูงถึง RM5,000 ต่อวันสำหรับความผิดที่ต่อเนื่อง การร้องเรียนทำต่อกรรมาธิการอาคาร (COB)"
 
 lang: "th"
-sourceContentHash: "c33c12700672ddab"
+sourceContentHash: "80ac685b0a5c215d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-1.webp
+    alt: กลุ่มอาคารคอนโดมิเนียมแบบสตราตาสมัยใหม่ที่ Harbour View ในบัตเตอร์เวิร์ธ รัฐปีนัง อันเป็นโครงการประเภทที่บริหารโดย JMB หรือนิติบุคคลอาคารชุด(MC)
+    kind: representative
+    origin: third-party
+    subject: กลุ่มอาคารคอนโดมิเนียมแบบสตราตาที่ Harbour View บัตเตอร์เวิร์ธ
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Harbour_View,_Butterworth_20250917_103104.jpg
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-2.webp
+    alt: ทางเข้าแบบมีรั้ว ป้อมยาม และอาคารคลับเฮาส์ส่วนกลางของคอนโดมิเนียมแบบสตราตา The Oasis ในเกอลูโกร์ รัฐปีนัง โดยมีอาคารที่พักอาศัยอยู่ด้านหลัง
+    kind: representative
+    origin: third-party
+    subject: ทางเข้าที่มีการ์ดและคลับเฮาส์ของคอนโดมิเนียม The Oasis ในเกอลูโกร์ รัฐปีนัง
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Oasis_condominium.jpg
 ---
 
 คุณซื้อหน่วยคอนโดมิเนียมหนึ่งหน่วย แต่ใครเป็นเจ้าของลิฟต์ สระว่ายน้ำ และทางเดินที่จอดรถจริง และใครมีสิทธิเก็บค่าธรรมเนียมรายเดือนจากคุณ? คำตอบอยู่ที่ชั้นการบริหารจัดการหนึ่งที่ผู้ซื้อมักไม่ได้อ่านจนกว่าจะเกิดข้อพิพาท: กรอบพระราชบัญญัติการจัดการอาคารชุด 2013 (Act 757)

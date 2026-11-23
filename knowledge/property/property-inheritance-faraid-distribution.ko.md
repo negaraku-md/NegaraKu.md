@@ -30,7 +30,7 @@ faq:
     a: "부동산을 포함하고 RM500만 미만인 소액 유산은 지방 토지청을 통해 토지관리관이 처리하며, 분배 명령(Perintah Pembahagian)을 발급합니다."
 
 lang: "ko"
-sourceContentHash: "7da221c06c43a7d9"
+sourceContentHash: "2343c4808c8495fb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-1.webp
+    alt: 박공지붕을 얹은 전통 고상식 말레이 목조 가옥이 시골 풍경 속에 서 있다
+    kind: representative
+    origin: third-party
+    subject: 전통 목조 말레이 캄풍(kampung) 가옥, 흔히 상속되는 가족 주택 유형
+    credit: Syahmir / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_house_(6880664352).jpg
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-2.webp
+    alt: 페락주 Temoh의 낡은 단층 유지 주택, 흔히 상속인에게 물려주는 유형
+    kind: representative
+    origin: third-party
+    subject: 페락주 Temoh의 오래된 유지 가족 주택
+    credit: Coach lai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:An_old.house,_Temoh,_Malaysia.jpg
 ---
 
 말레이시아에서 누군가 사망하면, 누가 그의 주택을 상속하는지는 먼저 한 가지 기본적인 사실에 달려 있습니다: 사망자가 무슬림인지 비무슬림인지. 서로 다른 두 법 체계가 그 답을 규율하며, 어떤 토지 소유증서든 명의를 바꾸기 전에 두 체계 모두 서로 다른 관청을 거칩니다.

@@ -30,7 +30,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "108b77146a2f6cd9"
+sourceContentHash: "78ee4bcd8de014e0"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_348-Sentral-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-1.webp
+    alt: கோலாலம்பூரின் Mont Kiara வானக்கோட்டை ஆடம்பர உயரமான கான்டோமினியங்களின் வரிசைகள் நிரப்புகின்றன; வெளிநாட்டவர் விரும்பும் இந்தப் பகுதியில் வெளிநாட்டு வாங்குநர்கள் மாநிலத்தின் குறைந்தபட்ச விலை வரம்பை நிறைவேற்ற வேண்டும்.
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர், Mont Kiara இன் உயரமான கான்டோமினியம் வானளாவிய காட்சி
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skyline_of_Mont_Kiara,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-2.webp
+    alt: ஜொகூரில் நிலத்தூர்வு செய்யப்பட்ட நிலத்தின் மேல் Forest City ஆடம்பர கடற்கரை கோபுரங்கள் உயர்ந்து நிற்கின்றன; சிங்கப்பூர் எல்லைக்கு அருகில் வெளிநாட்டு வாங்குநர்களை இலக்காகக் கொண்டு பெரிதும் சந்தைப்படுத்தப்பட்ட மாபெரும் திட்டம் இது.
+    kind: actual
+    origin: third-party
+    subject: ஜொகூரில் கட்டுமானத்தில் உள்ள Forest City ஆடம்பர கடற்கரை வளர்ச்சித் திட்டம்
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City,_Johor_in_development.jpg
 ---
 
 ஹாங்காங்கிலிருந்து (Hong Kong) வந்த ஒரு வாங்குபவர், பெட்டாலிங் ஜெயாவில் (Petaling Jaya) ஒரு அரை-தனித்த வீட்டிற்கு RM1.8 million செலுத்த ஒப்புக்கொள்கிறார். நிதி ஏற்பாடு செய்யப்பட்டுள்ளது, விற்பவர் விற்க விரும்புகிறார், இணையத்தில் யாராவது மேற்கோள் காட்டிய ஒவ்வொரு வரம்பையும் விலை கடக்கிறது. இருப்பினும், ஒரு வெளிநாட்டவரை அந்த உரிமப் பத்திரத்தை வைத்திருக்க அனுமதிக்கலாமா என்பதை — தன் சொந்த சுயவிருப்பப்படி — ஷா ஆலாமில் (Shah Alam) உள்ள ஒரு மாநில அரசு அலுவலகம் தீர்மானிக்கும் வரை, இந்த ஒப்பந்தத்தை நிறைவேற்ற முடியாது.

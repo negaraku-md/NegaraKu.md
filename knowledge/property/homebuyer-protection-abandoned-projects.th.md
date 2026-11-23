@@ -33,7 +33,7 @@ faq:
     a: "คำตัดสินของศาลชำนัญพิเศษเป็นที่สุดและมีผลผูกพัน และสามารถบังคับใช้ได้เหมือนคำสั่งศาล การไม่ปฏิบัติตามคำตัดสินเป็นความผิดที่อาจถูกปรับ RM10,000 ถึง RM50,000 หรือจำคุกสูงสุดสองปี หรือทั้งสองอย่าง"
 
 lang: "th"
-sourceContentHash: "df503ce18f77fc3f"
+sourceContentHash: "7d201d8e93333584"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Abandoned_building_in_Kampung_Masjid,_Gombak_20230930_102344.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-1.webp
+    alt: บ้านชั้นเดียวที่ถูกทิ้งร้างและยังสร้างไม่เสร็จ มีวัชพืชขึ้นรกและผนังอิฐเปลือย
+    kind: actual
+    origin: third-party
+    subject: บ้านที่ถูกทิ้งร้างและสร้างไม่เสร็จใน Desa Subang Permai รัฐเซอลาโงร์
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_house_located_in_Desa_Subang_Permai_1.jpg
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-2.webp
+    alt: อาคารร้างที่ผุพังตามกาลเวลา สีลอกและช่องหน้าต่างว่างเปล่าในมะละกา
+    kind: actual
+    origin: third-party
+    subject: อาคารร้างที่ถูกทิ้งไม่ใช้งานในมะละกา
+    credit: User:Katangais / Wikimedia Commons
+    license: CC BY 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_Building_Melaka.jpg
 ---
 
 คุณจ่ายเงินมัดจำแล้ว ลงนามในสัญญาซื้อขาย และรอกุญแจบ้าน จากนั้นไซต์ก่อสร้างก็เงียบสงัดไปหลายเดือน สำหรับผู้ซื้อบ้านที่อยู่อาศัยใหม่ในคาบสมุทรมาเลเซีย กฎหมายจัดให้มีการคุ้มครองหลายชั้นทั้งก่อน ระหว่าง และหลังจากสถานการณ์เช่นนี้เกิดขึ้น กุญแจสำคัญคือการรู้ว่าอะไรได้รับการคุ้มครองและจะไปที่ไหนเมื่อมีบางอย่างผิดพลาด

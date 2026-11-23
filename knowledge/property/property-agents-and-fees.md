@@ -75,6 +75,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Semi-detached_house_at_Taman_Soga_Sutera_from_Jalan_Kluang_(Malaysia_Federal_Highway_50)_in_Batu_Pahat,_Johor_20250212_161809.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/property-agents-and-fees/body-1.webp
+    alt: Sebuah papan tanda tepi jalan yang menandai pintu masuk ke taman perumahan Taman Sri Serdang
+    kind: representative
+    origin: third-party
+    subject: Papan tanda taman perumahan di Taman Sri Serdang, Seri Kembangan, Selangor
+    credit: Gula Kapas / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:%22Anda_berada_di_kawasan_perumahan_Taman_Sri_Serdang,_43300_Seri_Kembangan%22._Papan_tanda_Majlis_Perbandaran_Subang_Jaya_-_panoramio.jpg
+  - role: scene
+    src: /media/property/property-agents-and-fees/body-2.webp
+    alt: Sebuah rumah pinggir bandar setingkat dengan laman depan dan sebatang pokok palma di Jalan Anggerik, Kluang, Johor
+    kind: representative
+    origin: third-party
+    subject: Rumah bertanah pinggir bandar di sebuah jalan kediaman di Kluang, Johor
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_house_and_palm_tree_on_Jalan_Anggerik_May_2024.jpg
 ---
 
 Nombor pada tag dada ejen itu bukan hiasan — ia satu-satunya cara pantas membezakan seorang perunding yang sah daripada seseorang yang hanya mendakwa dirinya ejen. Di Malaysia, siapa yang boleh menjual, menyewakan atau merunding hartanah bagi pihak anda dikawal ketat oleh undang-undang.

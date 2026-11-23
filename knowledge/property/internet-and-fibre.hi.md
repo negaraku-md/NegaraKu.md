@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "मलेशिया में किराए पर घर लेने, खरीदने या किसी घर में रहने जाने वाला कोई भी व्यक्ति जिसे फ़िक्स्ड ब्रॉडबैंड कनेक्ट कराने की ज़रूरत है।"
 
 lang: "hi"
-sourceContentHash: "bbd067458507d9b6"
+sourceContentHash: "1f75dbb83189587b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Telekom-Malaysia-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/internet-and-fibre/body-1.webp
+    alt: पुत्रजया में Telekom Malaysia का एक कार्यालय भवन, राष्ट्रीय फिक्स्ड-लाइन और फाइबर ऑपरेटर
+    kind: representative
+    origin: third-party
+    subject: पुत्रजया में एक Telekom Malaysia (TM) कार्यालय भवन
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TM_building_in_Putrajaya.JPG
+  - role: scene
+    src: /media/property/internet-and-fibre/body-2.webp
+    alt: एक घर के अंदर दीवार पर लगा FiberHome-ब्रांड का Unifi फाइबर ऑप्टिक मॉडेम
+    kind: representative
+    origin: third-party
+    subject: एक मलेशियाई घर में लगा एक Unifi फाइबर ब्रॉडबैंड मॉडेम (FiberHome ONT)
+    credit: Thebaldball / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Unifi_FiberHome.jpg
 ---
 
 इससे पहले कि आप कीमत का एक भी रिंगिट तुलना करें, एक सवाल और भी अहम है: क्या फ़ाइबर आपके दरवाज़े तक पहुँचता भी है? इसे जाँचे बिना दो साल का अनुबंध कर लें, और इंस्टॉलेशन के दिन आपको पता चल सकता है कि तकनीशियन असल में आपकी इकाई तक लाइन खींच ही नहीं सकता।

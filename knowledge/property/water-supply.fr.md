@@ -22,7 +22,7 @@ verificationNeeded:
   - "Les noms exacts des compagnies des eaux d'État pour Pahang, Negeri Sembilan et Kedah sont répertoriés sur le site span.gov.my mais n'ont pas pu être entièrement extraits lors de la préparation de ce brouillon ; cela doit être revérifié directement sur span.gov.my."
   - "Les cadres législatifs spécifiques de Sabah et de Sarawak (les noms des décrets/ordonnances d'État concernés) n'ont pas été directement vérifiés auprès d'une source officielle lors de la préparation de ce brouillon ; PAAB confirme l'exclusion générale des deux États du modèle PAAB, mais l'ensemble des détails législatifs doit être revérifié."
 lang: "fr"
-sourceContentHash: "cd6088681198b24d"
+sourceContentHash: "09a303e0c18c73b1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -69,6 +69,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/water-supply/body-1.webp
+    alt: Un petit seuil en béton et un ouvrage de régulation des eaux à vannes franchissant le Sungai Padang Matsirat à Langkawi, élément de l'infrastructure d'approvisionnement en eau de la Malaisie
+    kind: representative
+    origin: third-party
+    subject: Un seuil de rivière et un ouvrage de régulation des eaux sur Sungai Padang Matsirat, Langkawi
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Padang-Matsirat_Langkawi_Sungai-Padang-Matsirat-Dam-01.jpg
+  - role: scene
+    src: /media/property/water-supply/body-2.webp
+    alt: Un grand réservoir d'eau surélevé blanc portant la mention Taman Setia Tropika à Johor, contenant de l'eau traitée pour l'approvisionnement local
+    kind: representative
+    origin: third-party
+    subject: Un réservoir d'eau surélevé à Taman Setia Tropika, Johor
+    credit: PM Poon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Setia_Tropika_Water_Tower.jpg
 ---
 
 Vous déménagez de Selangor à Johor. Votre compte bancaire reste le même. Votre ligne téléphonique peut vous suivre. Mais votre compte d'eau ? Lui ne vous suit pas — parce que la compagnie qui approvisionne votre nouveau logement en eau est une entreprise entièrement différente.

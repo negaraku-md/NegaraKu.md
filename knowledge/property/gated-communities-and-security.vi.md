@@ -53,7 +53,27 @@ sources:
     publisher: "Cục Quy hoạch Đô thị và Nông thôn Bán đảo Malaysia, Bộ Nhà ở và Chính quyền Địa phương"
     date: "2010-09-02"
   - title: "Street, Drainage and Building Act 1974 (Act 133) — văn bản tái bản chính thức, s.46 (Vật cản) (Street, Drainage and Building Act 1974 (Act 133) — official reprint text, s.46 (Obstruction))"
-    url: "https://www.ppj.gov.my/storage/7476/133---STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
+    url: "https://www.ppj.gov.my/storage/7476/133
+images:
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-1.webp
+    alt: Arden Hill, một khu dân cư cao cấp có cổng kiểm soát bên trong khu đô thị Forest Heights ở Seremban, bố trí các ngôi nhà gắn liền với đất sau một vành đai kiểm soát duy nhất.
+    kind: actual
+    origin: third-party
+    subject: Khu dân cư cao cấp có cổng kiểm soát Arden Hill, Forest Heights, Seremban
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-2.webp
+    alt: Nhà gắn liền với đất và mảng xanh được chăm chút lấp đầy khu đô thị có cổng và bảo vệ Horizon Hills ở Iskandar Puteri, Johor, một khu dân cư lớn được quản lý an ninh.
+    kind: actual
+    origin: third-party
+    subject: Khu đô thị có cổng kiểm soát Horizon Hills, Iskandar Puteri, Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
+---STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
     publisher: "Laws of Malaysia / Perbadanan Putrajaya"
   - title: "Strata Management Act 2013 (Act 757), ss.17, 21, 32 — việc thành lập, quyền hạn và quy chế nội bộ của Cơ quan Quản lý Chung (Strata Management Act 2013 (Act 757), ss.17, 21, 32 — establishment, powers and by-laws of the Joint Management Body)"
     url: "https://www.leepartners.my/wp-content/uploads/2016/08/STRATA_MANAGEMENT_ACT_2013_ACT_757.pdf"

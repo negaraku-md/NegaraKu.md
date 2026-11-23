@@ -28,7 +28,7 @@ verificationNeeded:
   - "لم يتسنَّ تأكيد الاستشهاد الدقيق وسنة تعديل قانون الأراضي الوطني الذي أغلق الإعفاء السابق للأراضي الصناعية من موافقة سلطة الولاية مقابل نصّ قانون التعديل نفسه؛ وهو موصوف هنا استنادًا إلى تعليق قانوني ثانوي متوافق لا إلى بند أوّلي مقروء مباشرة."
 
 lang: "ar"
-sourceContentHash: "108b77146a2f6cd9"
+sourceContentHash: "78ee4bcd8de014e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_348-Sentral-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-1.webp
+    alt: تزدحم صفوف من أبراج الكوندومينيوم الراقية في أفق Mont Kiara بكوالالمبور، وهو حيّ مُفضَّل لدى المغتربين يتعيّن فيه على المشترين الأجانب تجاوز الحدّ الأدنى للسعر الذي تحدّده الولاية.
+    kind: actual
+    origin: third-party
+    subject: أفق أبراج الكوندومينيوم الشاهقة في Mont Kiara، كوالالمبور
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skyline_of_Mont_Kiara,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-2.webp
+    alt: ترتفع أبراج Forest City الفاخرة على الواجهة البحرية فوق أرض مستصلحة في جوهور، وهو مشروع ضخم يُسوَّق بكثافة للمشترين الأجانب قرب الحدود مع سنغافورة.
+    kind: actual
+    origin: third-party
+    subject: مشروع Forest City الفاخر على الواجهة البحرية قيد الإنشاء، جوهور
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City,_Johor_in_development.jpg
 ---
 
 يوافق مشترٍ من هونغ كونغ على دفع RM1.8 مليون لبيت شبه منفصل في بيتالينغ جايا. التمويل مُرتَّب، والبائع راغب، والسعر يتجاوز كلّ حدّ ذكره أحد على الإنترنت. ومع ذلك لا يمكن إتمام الصفقة إلى أن يقرّر مكتب حكومة ولاية في شاه عالم — وفق تقديره الخاصّ — ما إذا كان سيسمح لأجنبي بحيازة ذلك السند أصلًا.

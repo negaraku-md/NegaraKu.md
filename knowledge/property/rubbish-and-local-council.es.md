@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que viva en Malasia y necesite entender quién recoge la basura en su zona, si está obligada a separar los residuos en origen y cuál es el riesgo si no lo hace."
 
 lang: "es"
-sourceContentHash: "e61c9e41571bda53"
+sourceContentHash: "6100de3c986f35cf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,6 +75,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hino_500_BPQ_1074_of_KDEB_Waste_Management_lorry_at_Lorong_Camar_4-5C,_Kota_Damansara_20230930_124457.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-1.webp
+    alt: Una papelera pública azul marcada con el escudo del ayuntamiento MBPJ en un arcén de hierba en Kota Damansara, Selangor
+    kind: representative
+    origin: third-party
+    subject: Un contenedor de basura municipal con el escudo del MBPJ (Ayuntamiento de Petaling Jaya) en Kota Damansara
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubbish_bin_MBPJ-PJU5-Cecawi_6-27-119_at_Taman_Seksyen_6_Kota_Damansara_20240220_090528.jpg
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-2.webp
+    alt: Una hilera de cuatro contenedores de reciclaje etiquetados para papel, latas y plástico, vidrio y residuos no reciclables en un lugar público de Kuala Lumpur
+    kind: representative
+    origin: third-party
+    subject: Contenedores de reciclaje separados para papel, latas y plástico, vidrio y residuos no reciclables en Kuala Lumpur
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Recycle_bins_in_Kuala_Lumpur,_Malaysia_27042026_-_01.jpg
 ---
 
 Tu contenedor de basura se recoge dos veces por semana, pero ¿alguna vez te has preguntado quién la recoge realmente — el consejo local u otra empresa que el consejo ha nombrado? ¿Y por qué tu vecino del estado de al lado puede ser multado por no separar las botellas de plástico de los restos de comida, mientras que tú no?

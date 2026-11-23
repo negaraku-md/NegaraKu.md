@@ -35,7 +35,7 @@ faq:
     a: "재정 불이행은 제123조에 따른 형사 범죄입니다 — RM250,000을 넘지 않는 벌금 또는 3년을 넘지 않는 징역 또는 두 가지 모두이며, 계속되는 위반에는 하루당 최대 RM5,000의 추가 벌금이 부과됩니다. 민원은 건물감독관(COB)에게 제기합니다."
 
 lang: "ko"
-sourceContentHash: "c33c12700672ddab"
+sourceContentHash: "80ac685b0a5c215d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-1.webp
+    alt: 페낭주 버터워스 Harbour View에 들어선 현대식 스트라타 콘도미니엄 타워 군집. JMB(공동관리기구)나 관리법인(MC)이 운영하는, 바로 이런 유형의 개발 단지다.
+    kind: representative
+    origin: third-party
+    subject: 버터워스 Harbour View의 스트라타 콘도미니엄 고층 군집
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Harbour_View,_Butterworth_20250917_103104.jpg
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-2.webp
+    alt: 페낭주 겔루고르 The Oasis 스트라타 콘도미니엄의 출입 통제 입구, 경비실, 공용 클럽하우스 동. 그 뒤로 주거 타워가 자리한다.
+    kind: representative
+    origin: third-party
+    subject: 페낭주 겔루고르 The Oasis 콘도미니엄의 경비 입구와 클럽하우스
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Oasis_condominium.jpg
 ---
 
 콘도미니엄 세대를 샀는데, 엘리베이터, 수영장, 주차장 통로를 실제로 누가 소유하며 — 누가 당신에게 월 부과금을 징수할 권리가 있습니까? 답은 매수인이 분쟁이 생기기 전까지는 거의 읽지 않는 한 층위의 거버넌스에 있습니다: 구분소유관리법 2013(Strata Management Act 2013, Act 757)의 틀.

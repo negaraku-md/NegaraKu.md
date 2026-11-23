@@ -26628,5 +26628,2323 @@
         "subject": "Quai ferroviaire interurbain de KTM à KL Sentral"
       }
     ]
+  },
+  "property/assessment-and-quit-rent": {
+    "zh": [
+      {
+        "alt": "一排双层排屋沿着一条安静的马来西亚住宅街道延伸，正是这类有地房产需缴纳门牌税（assessment）与地税（quit rent）。",
+        "subject": "马来西亚taman（花园住宅区）里的双层排屋"
+      },
+      {
+        "alt": "从空中俯瞰柔佛依斯干达公主城（Iskandar Puteri）的Mutiara Rini住宅区，数以千计的有地房屋排列在棋盘式街道上，每一栋都是地方议会税册上的应课税房产。",
+        "subject": "柔佛依斯干达公主城Mutiara Rini住宅区的空中俯瞰图"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "静かなマレーシアの住宅街に沿って二階建てのテラスハウスが一列に並ぶ。門牌税（assessment）と地租（quit rent）が課される、まさにこうした一戸建て系の有地物件である。",
+        "subject": "マレーシアのtaman（住宅団地）に建つ二階建てテラスハウス"
+      },
+      {
+        "alt": "ジョホール州イスカンダル・プトリのMutiara Rini住宅団地を上空から一望すると、碁盤目状の街路に数千戸の有地住宅が並び、その一戸一戸が地方議会の課税台帳に載る課税対象物件である。",
+        "subject": "ジョホール州イスカンダル・プトリ、Mutiara Rini住宅団地の空撮"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "조용한 말레이시아 주택가 거리를 따라 2층 테라스하우스가 한 줄로 늘어서 있다. 문패세(assessment)와 지세(quit rent)가 부과되는, 바로 이런 유형의 단독형 유지(有地) 부동산이다.",
+        "subject": "말레이시아 taman(주택단지)에 들어선 2층 테라스하우스"
+      },
+      {
+        "alt": "조호르주 이스칸다르 푸테리의 Mutiara Rini 주택단지를 상공에서 내려다보면 바둑판처럼 뻗은 거리에 수천 채의 유지 주택이 늘어서 있으며, 그 한 채 한 채가 지방의회 과세대장에 오른 과세 대상 부동산이다.",
+        "subject": "조호르주 이스칸다르 푸테리 Mutiara Rini 주택단지 항공 전경"
+      }
+    ],
+    "th": [
+      {
+        "alt": "บ้านทาวน์เฮาส์สองชั้นเรียงรายไปตามถนนย่านที่พักอาศัยอันเงียบสงบในมาเลเซีย ซึ่งเป็นอสังหาริมทรัพย์แบบมีที่ดินประเภทที่ต้องเสียภาษีโรงเรือน(assessment)และภาษีที่ดิน(quit rent)",
+        "subject": "บ้านทาวน์เฮาส์สองชั้นในหมู่บ้านจัดสรร(taman)ของมาเลเซีย"
+      },
+      {
+        "alt": "ภาพมุมสูงเหนือหมู่บ้านจัดสรร Mutiara Rini ในอิสกันดาร์ปูเตอรี รัฐยะโฮร์ เผยให้เห็นบ้านมีที่ดินนับพันหลังบนถนนที่วางผังเป็นตาราง แต่ละหลังเป็นอสังหาริมทรัพย์ที่ต้องเสียภาษีในทะเบียนของสภาท้องถิ่น",
+        "subject": "ภาพมุมสูงหมู่บ้านจัดสรร Mutiara Rini อิสกันดาร์ปูเตอรี รัฐยะโฮร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sederet rumah teres dua tingkat menyusuri jalan kediaman yang tenang di Malaysia, jenis hartanah bertanah yang dikenakan cukai taksiran dan cukai tanah.",
+        "subject": "Rumah teres dua tingkat di sebuah taman perumahan di Malaysia"
+      },
+      {
+        "alt": "Imbasan udara ke atas perbandaran Mutiara Rini di Iskandar Puteri memperlihatkan beribu-ribu rumah bertanah di jalan bergrid, setiap satu hartanah bercukai dalam rekod majlis tempatan.",
+        "subject": "Pandangan udara bandar Mutiara Rini, Iskandar Puteri, Johor"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sederet rumah deret dua lantai berjajar di jalan permukiman yang tenang di Malaysia, jenis properti tapak yang dikenai pajak penilaian (cukai taksiran) dan pajak tanah (cukai tanah).",
+        "subject": "Rumah deret dua lantai di sebuah kompleks perumahan di Malaysia"
+      },
+      {
+        "alt": "Bidikan udara menyeluruh atas kawasan Mutiara Rini di Iskandar Puteri memperlihatkan ribuan rumah tapak di jalan-jalan bergrid, masing-masing properti kena pajak dalam daftar dewan setempat.",
+        "subject": "Pemandangan udara kawasan Mutiara Rini, Iskandar Puteri, Johor"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một dãy nhà phố liền kề hai tầng chạy dọc con đường dân cư yên tĩnh ở Malaysia, loại bất động sản gắn liền với đất phải chịu thuế định giá (cukai taksiran) và thuế đất (cukai tanah).",
+        "subject": "Nhà phố liền kề hai tầng trong một khu dân cư (taman) ở Malaysia"
+      },
+      {
+        "alt": "Góc nhìn từ trên cao bao quát khu đô thị Mutiara Rini ở Iskandar Puteri cho thấy hàng nghìn ngôi nhà gắn liền với đất trên các con phố ô bàn cờ, mỗi căn là một bất động sản chịu thuế trong sổ bộ của hội đồng địa phương.",
+        "subject": "Toàn cảnh từ trên cao khu đô thị Mutiara Rini, Iskandar Puteri, Johor"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "மலேசியாவின் அமைதியான ஒரு குடியிருப்புத் தெருவில் இரண்டு மாடி வரிசை வீடுகள் வரிசையாக அமைந்துள்ளன; இவை மதிப்பீட்டு வரியும் நிலவரியும் விதிக்கப்படும் நிலத்துடன் கூடிய சொத்து வகை.",
+        "subject": "மலேசியாவின் ஒரு குடியிருப்புப் பகுதியில் (taman) இரண்டு மாடி வரிசை வீடுகள்"
+      },
+      {
+        "alt": "இஸ்கந்தர் புத்திரியில் உள்ள Mutiara Rini நகரத்தின் மேலான வான்வழிப் பார்வையில், கட்டம்போட்ட தெருக்களில் ஆயிரக்கணக்கான நிலத்துடன் கூடிய வீடுகள் தெரிகின்றன; ஒவ்வொன்றும் உள்ளூர் மன்றப் பதிவேட்டில் வரி விதிக்கத்தக்க சொத்து.",
+        "subject": "ஜொகூர், இஸ்கந்தர் புத்திரியில் உள்ள Mutiara Rini நகரத்தின் வான்வழிக் காட்சி"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "दो-मंज़िला टैरेस मकानों की एक कतार एक शांत मलेशियाई आवासीय गली के किनारे खड़ी है, यह वही प्रकार की भू-संपत्ति है जिस पर निर्धारण दर (assessment) और भू-लगान (quit rent) लगाया जाता है।",
+        "subject": "मलेशियाई तमन में दो-मंज़िला टैरेस मकान"
+      },
+      {
+        "alt": "इस्कंदर पुतेरी में Mutiara Rini टाउनशिप के ऊपर एक हवाई दृश्य ग्रिड वाली गलियों पर हज़ारों भू-स्वामित्व वाले घर दिखाता है, जिनमें से हर एक स्थानीय परिषद की सूची में कर-योग्य संपत्ति है।",
+        "subject": "Mutiara Rini टाउनशिप, इस्कंदर पुतेरी, जोहोर का हवाई दृश्य"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "صفّ من المنازل الصفّية ذات الطابقين يمتدّ على طول شارع سكني ماليزي هادئ، وهو نوع العقارات الأرضية التي تُفرض عليها رسوم التقييم وضريبة الأرض (quit rent).",
+        "subject": "منازل صفّية من طابقين في تامان ماليزي"
+      },
+      {
+        "alt": "لقطة جوية فوق بلدة Mutiara Rini في Iskandar Puteri تُظهر آلاف المنازل الأرضية على شوارع مُخطّطة شبكيًا، كلٌّ منها عقار خاضع للرسوم في سجلّ المجلس المحلي.",
+        "subject": "منظر جوي لبلدة Mutiara Rini في Iskandar Puteri، جوهور"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una hilera de casas adosadas de dos plantas se alinea en una tranquila calle residencial malasia, el tipo de propiedad con terreno por la que se cobran las tasas municipales (assessment) y el impuesto sobre la tierra (quit rent).",
+        "subject": "Casas adosadas de dos plantas en un taman malasio"
+      },
+      {
+        "alt": "Una panorámica aérea sobre la urbanización Mutiara Rini, en Iskandar Puteri, muestra miles de viviendas con terreno en calles cuadriculadas, cada una una propiedad gravable en el registro del consejo local.",
+        "subject": "Vista aérea de la urbanización Mutiara Rini, Iskandar Puteri, Johor"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une rangée de maisons mitoyennes à deux étages borde une rue résidentielle malaisienne tranquille, le type de propriété foncière soumise aux taxes d'évaluation (assessment) et à la redevance foncière (quit rent).",
+        "subject": "Maisons mitoyennes à deux étages dans un taman malaisien"
+      },
+      {
+        "alt": "Un survol aérien du lotissement Mutiara Rini à Iskandar Puteri révèle des milliers de maisons individuelles sur des rues en damier, chacune une propriété imposable au rôle du conseil local.",
+        "subject": "Vue aérienne du lotissement Mutiara Rini, Iskandar Puteri, Johor"
+      }
+    ]
+  },
+  "property/buying-a-home-process": {
+    "zh": [
+      {
+        "alt": "新建的房屋与裸露的土地标示出森美兰Kepayang Heights正在崛起的新住宅发展项目，正是这类买家凭销售展示厅的图纸认购的工程。",
+        "subject": "森美兰Kepayang Heights在建的新住宅发展项目"
+      },
+      {
+        "alt": "槟城南威南（Seberang Perai Selatan）Taman Idaman一条刚竣工、房屋样式整齐划一的街道，正是买家在交匙后便可迁入的这类完工项目。",
+        "subject": "槟城南威南Taman Idaman已竣工的有地房屋"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "新築の家々とむき出しの地面が、ヌグリ・スンビラン州Kepayang Heightsに立ち上がる新しい住宅開発を示す。買い手が販売ギャラリーの図面を見て申し込む、まさにそうしたプロジェクトだ。",
+        "subject": "ヌグリ・スンビラン州Kepayang Heightsで建設中の新しい住宅開発"
+      },
+      {
+        "alt": "ペナン州スブラン・プライ・スラタンのTaman Idamanにある、竣工したばかりの統一感のある有地住宅の街並み。鍵の引き渡しを終えた買い手が入居する、こうした完成済み開発の典型だ。",
+        "subject": "ペナン州スブラン・プライ・スラタン、Taman Idamanの完成した有地住宅"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "갓 지은 집들과 드러난 맨땅이 느그리슴빌란주 Kepayang Heights에 들어서는 신규 주택 개발을 보여준다. 구매자가 분양 갤러리의 도면을 보고 청약하는, 바로 그런 유형의 프로젝트다.",
+        "subject": "느그리슴빌란주 Kepayang Heights에서 건설 중인 신규 주택 개발"
+      },
+      {
+        "alt": "페낭주 스브랑 프라이 슬라탄의 Taman Idaman에 막 완공된, 모양이 균일한 유지 주택이 늘어선 거리. 열쇠를 넘겨받은 뒤 구매자가 입주하는 이런 완성 개발의 전형이다.",
+        "subject": "페낭주 스브랑 프라이 슬라탄 Taman Idaman의 완공된 유지 주택"
+      }
+    ],
+    "th": [
+      {
+        "alt": "บ้านที่เพิ่งสร้างเสร็จและผืนดินเปล่าบ่งบอกถึงโครงการที่อยู่อาศัยใหม่ที่กำลังผุดขึ้นที่ Kepayang Heights รัฐเนอเกอรีเซิมบีลัน ซึ่งเป็นโครงการประเภทที่ผู้ซื้อจองจากแบบแปลนในห้องขายโครงการ",
+        "subject": "โครงการที่อยู่อาศัยใหม่ที่กำลังก่อสร้างที่ Kepayang Heights รัฐเนอเกอรีเซิมบีลัน"
+      },
+      {
+        "alt": "ถนนสายหนึ่งของบ้านมีที่ดินรูปแบบเหมือนกันที่เพิ่งสร้างเสร็จใน Taman Idaman รัฐปีนัง อันเป็นโครงการที่สร้างเสร็จประเภทที่ผู้ซื้อเข้าอยู่หลังการส่งมอบกุญแจ",
+        "subject": "บ้านมีที่ดินที่สร้างเสร็จแล้วใน Taman Idaman เขตเซอเบอรังเปอไรเซอลาตัน รัฐปีนัง"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Rumah yang baru siap dibina dan tanah lapang menandai pembangunan perumahan baharu yang sedang dibina di Kepayang Heights, jenis projek yang pembelinya mendaftar berdasarkan pelan di galeri jualan.",
+        "subject": "Pembangunan perumahan baharu yang sedang dibina di Kepayang Heights, Negeri Sembilan"
+      },
+      {
+        "alt": "Satu jalan rumah bertanah seragam yang baru siap di Taman Idaman, Pulau Pinang, jenis pembangunan siap yang dimasuki pembeli selepas kunci diserahkan.",
+        "subject": "Rumah bertanah yang telah siap di Taman Idaman, Seberang Perai Selatan, Pulau Pinang"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Rumah-rumah yang baru dibangun dan tanah kosong menandai proyek perumahan baru yang tengah berkembang di Kepayang Heights, jenis proyek yang pembelinya mendaftar berdasarkan denah di galeri penjualan.",
+        "subject": "Proyek perumahan baru yang sedang dibangun di Kepayang Heights, Negeri Sembilan"
+      },
+      {
+        "alt": "Sebuah jalan berisi rumah tapak seragam yang baru rampung di Taman Idaman, Penang, jenis proyek jadi yang ditempati pembeli setelah kunci diserahkan.",
+        "subject": "Rumah tapak yang telah rampung di Taman Idaman, Seberang Perai Selatan, Penang"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những ngôi nhà vừa xây xong và nền đất trống đánh dấu một dự án khu dân cư mới đang mọc lên tại Kepayang Heights, loại dự án mà người mua đăng ký dựa trên bản vẽ tại phòng trưng bày bán hàng.",
+        "subject": "Dự án khu dân cư mới đang xây dựng tại Kepayang Heights, Negeri Sembilan"
+      },
+      {
+        "alt": "Một con phố nhà gắn liền với đất đồng bộ vừa hoàn thiện tại Taman Idaman, Penang, loại dự án đã xong mà người mua dọn vào ở sau khi được bàn giao chìa khóa.",
+        "subject": "Những ngôi nhà gắn liền với đất đã hoàn thiện tại Taman Idaman, Seberang Perai Selatan, Penang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "புதிதாகக் கட்டப்பட்ட வீடுகளும் வெற்று நிலமும் Kepayang Heights இல் உருவாகி வரும் புதிய வீட்டுத் திட்டத்தைக் காட்டுகின்றன; விற்பனைக் கூடத்தின் வரைபடத்தைப் பார்த்து வாங்குபவர்கள் பதிவு செய்யும் வகைத் திட்டம் இது.",
+        "subject": "நெகிரி செம்பிலானில் Kepayang Heights இல் கட்டுமானத்தில் உள்ள புதிய வீட்டுத் திட்டம்"
+      },
+      {
+        "alt": "பினாங்கின் Taman Idaman இல் புதிதாகக் கட்டி முடிக்கப்பட்ட, ஒரே மாதிரியான நிலத்துடன் கூடிய வீடுகள் நிறைந்த தெரு; சாவி ஒப்படைக்கப்பட்ட பிறகு வாங்குபவர் குடியேறும் முடிந்த திட்ட வகை இது.",
+        "subject": "பினாங்கு, செபிராங் பிறை செலாத்தானில் உள்ள Taman Idaman இல் கட்டி முடிக்கப்பட்ட நிலத்துடன் கூடிய வீடுகள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "ताज़ा बने मकान और खुली मिट्टी Kepayang Heights में उभरती एक नई आवासीय परियोजना को दर्शाते हैं, यह वही प्रकार की परियोजना है जहाँ खरीदार एक सेल्स गैलरी की योजना देखकर बुकिंग करते हैं।",
+        "subject": "Kepayang Heights, नेगेरी संबिलान में निर्माणाधीन नई आवासीय परियोजना"
+      },
+      {
+        "alt": "Taman Idaman, पेनांग में नव-निर्मित एकसमान भू-स्वामित्व वाले मकानों की एक गली, यह वही प्रकार का तैयार विकास है जिसमें खरीदार चाबियाँ सौंपे जाने के बाद रहने आता है।",
+        "subject": "Taman Idaman, सेबेरांग पेराई सेलातान, पेनांग में पूर्ण हुए भू-स्वामित्व वाले मकान"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "منازل حديثة البناء وأرض عارية تُميّزان مشروعًا سكنيًا جديدًا يرتفع في Kepayang Heights، وهو نوع المشاريع التي يسجّل فيها المشترون اعتمادًا على مخطط في معرض البيع.",
+        "subject": "مشروع إسكاني جديد قيد الإنشاء في Kepayang Heights، نيجري سمبيلان"
+      },
+      {
+        "alt": "شارع حديث الاكتمال من منازل أرضية متماثلة في Taman Idaman، بينانغ، وهو نوع المشاريع المنجزة التي ينتقل إليها المشتري بعد تسليم المفاتيح.",
+        "subject": "منازل أرضية مكتملة في Taman Idaman، Seberang Perai Selatan، بينانغ"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Casas recién construidas y tierra desnuda marcan una nueva promoción de viviendas que se levanta en Kepayang Heights, el tipo de proyecto en el que los compradores se inscriben a partir del plano de una galería de ventas.",
+        "subject": "Nueva promoción de viviendas en construcción en Kepayang Heights, Negeri Sembilan"
+      },
+      {
+        "alt": "Una calle recién terminada de viviendas con terreno uniformes en Taman Idaman, Penang, el tipo de promoción acabada en la que un comprador se instala tras la entrega de llaves.",
+        "subject": "Viviendas con terreno ya terminadas en Taman Idaman, Seberang Perai Selatan, Penang"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des maisons fraîchement bâties et de la terre nue marquent un nouveau programme immobilier qui s'élève à Kepayang Heights, le type de projet où les acheteurs s'engagent sur plan depuis une galerie de vente.",
+        "subject": "Nouveau programme immobilier en construction à Kepayang Heights, Negeri Sembilan"
+      },
+      {
+        "alt": "Une rue tout juste achevée de maisons individuelles uniformes à Taman Idaman, Penang, le type de programme fini où un acheteur emménage après la remise des clés.",
+        "subject": "Maisons individuelles achevées à Taman Idaman, Seberang Perai Selatan, Penang"
+      }
+    ]
+  },
+  "property/condo-living-maintenance-fees": {
+    "zh": [
+      {
+        "alt": "数栋公寓楼在吉隆坡安邦（Ampang）一同拔地而起，这一高楼群的住户共同分摊维持电梯、泳池与保安运作的管理费。",
+        "subject": "吉隆坡安邦的一组公寓楼群"
+      },
+      {
+        "alt": "从北部中环大道（NKVE）望去，Riana Green公寓的多栋高楼在八打灵再也的绿意中并肩而立，这是一个围篱式的分层（strata）发展项目，住户共同分摊管理费与偿债基金（sinking fund）。",
+        "subject": "从NKVE望向八打灵再也Riana Green公寓楼群"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "クアラルンプールのアンパンに複数のコンドミニアム（kondominium）の塔が寄り添って立つ。この高層群の住民は、エレベーター・プール・警備を維持する管理費を分担して負担する。",
+        "subject": "クアラルンプール・アンパンのコンドミニアム群"
+      },
+      {
+        "alt": "NKVE（北クラン・バレー高速道路）から望むと、Riana Greenコンドミニアムの複数の塔が緑に囲まれてペタリン・ジャヤに並び立つ。ゲート付きのストラータ（strata）開発であり、住民は管理費とシンキングファンドを分担する。",
+        "subject": "NKVEから望むペタリン・ジャヤのRiana Greenコンドミニアム群"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "쿠알라룸푸르 암팡 위로 여러 콘도미니엄 타워가 함께 솟아 있다. 이 고층 단지의 입주민들은 엘리베이터·수영장·경비를 유지하는 관리비를 함께 분담한다.",
+        "subject": "쿠알라룸푸르 암팡의 콘도미니엄 타워 군집"
+      },
+      {
+        "alt": "NKVE(북부 클랑밸리 고속도로)에서 바라보면 Riana Green 콘도미니엄의 여러 타워가 페탈링자야의 녹음 속에 나란히 솟아 있다. 출입이 통제되는 스트라타(strata) 개발 단지로, 입주민들이 관리비와 적립기금(sinking fund)을 함께 분담한다.",
+        "subject": "NKVE에서 바라본 페탈링자야 Riana Green 콘도미니엄 군집"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารคอนโดมิเนียมหลายหลังทะยานขึ้นด้วยกันเหนือย่านอัมปังในกัวลาลัมเปอร์ เป็นกลุ่มอาคารสูงที่ผู้อยู่อาศัยร่วมกันจ่ายค่าส่วนกลางซึ่งใช้ดูแลลิฟต์ สระว่ายน้ำ และระบบรักษาความปลอดภัย",
+        "subject": "กลุ่มอาคารคอนโดมิเนียมในย่านอัมปัง กัวลาลัมเปอร์"
+      },
+      {
+        "alt": "อาคารหลายหลังของคอนโดมิเนียม Riana Green ทะยานขึ้นด้วยกันท่ามกลางพื้นที่สีเขียวในเปอตาลิงจายา เมื่อมองจากทางด่วน NKVE เป็นโครงการสตราตา(strata)แบบรั้วรอบที่ผู้อยู่อาศัยร่วมกันจ่ายค่าส่วนกลางและเงินกองทุนสำรอง",
+        "subject": "กลุ่มอาคารคอนโดมิเนียม Riana Green มองจากทางด่วน NKVE เปอตาลิงจายา รัฐเซอลาโงร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Beberapa menara kondominium menjulang bersama di Ampang, Kuala Lumpur, sebuah kelompok bangunan tinggi yang penghuninya berkongsi yuran penyelenggaraan bagi memastikan lif, kolam dan keselamatan terus beroperasi.",
+        "subject": "Sekelompok menara kondominium di Ampang, Kuala Lumpur"
+      },
+      {
+        "alt": "Pelbagai menara Kondominium Riana Green menjulang bersama di tengah kehijauan di Petaling Jaya, sebuah pembangunan strata berpagar yang penghuninya berkongsi yuran penyelenggaraan dan kumpulan wang penjelas.",
+        "subject": "Kelompok Kondominium Riana Green dilihat dari NKVE, Petaling Jaya, Selangor"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Beberapa menara kondominium menjulang bersama di atas Ampang, Kuala Lumpur, sebuah gugus gedung tinggi yang penghuninya berbagi iuran pemeliharaan agar lift, kolam renang, dan keamanan tetap berjalan.",
+        "subject": "Sekelompok menara apartemen (kondominium) di Ampang, Kuala Lumpur"
+      },
+      {
+        "alt": "Beberapa menara Kondominium Riana Green menjulang bersama di tengah rimbun hijau di Petaling Jaya, sebuah proyek strata berpagar yang penghuninya berbagi iuran pemeliharaan dan dana cadangan (sinking fund).",
+        "subject": "Gugus Kondominium Riana Green dilihat dari NKVE, Petaling Jaya, Selangor"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Nhiều tháp chung cư cùng vươn lên trên khu Ampang ở Kuala Lumpur, một cụm nhà cao tầng mà cư dân cùng chia sẻ phí bảo trì để duy trì thang máy, hồ bơi và an ninh hoạt động.",
+        "subject": "Một cụm tháp chung cư ở Ampang, Kuala Lumpur"
+      },
+      {
+        "alt": "Nhiều tòa tháp của chung cư Riana Green cùng vươn lên giữa mảng xanh ở Petaling Jaya, một dự án strata có cổng kiểm soát mà cư dân cùng đóng phí bảo trì và quỹ dự phòng (sinking fund).",
+        "subject": "Cụm chung cư Riana Green nhìn từ đường NKVE, Petaling Jaya, Selangor"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கோலாலம்பூரின் அம்பாங்கில் பல கான்டோமினியம் கோபுரங்கள் ஒன்றாக உயர்ந்து நிற்கின்றன; உயரமான கட்டிடங்களின் இந்தத் தொகுப்பின் குடியிருப்பாளர்கள், மின்தூக்கி, நீச்சல் குளம், பாதுகாப்பு ஆகியவை இயங்கத் தேவையான பராமரிப்புக் கட்டணத்தைப் பகிர்ந்து கொள்கின்றனர்.",
+        "subject": "கோலாலம்பூர், அம்பாங்கில் உள்ள கான்டோமினியம் கோபுரங்களின் தொகுப்பு"
+      },
+      {
+        "alt": "பெட்டாலிங் ஜெயாவில் பசுமைக்கு நடுவே Riana Green கான்டோமினியத்தின் பல கோபுரங்கள் ஒன்றாக உயர்ந்து நிற்கின்றன; வேலியிட்ட இந்த ஸ்ட்ரேட்டா திட்டத்தின் குடியிருப்பாளர்கள் பராமரிப்புக் கட்டணத்தையும் சின்கிங் நிதியையும் பகிர்ந்து கொள்கின்றனர்.",
+        "subject": "செலாங்கூர், பெட்டாலிங் ஜெயாவில் NKVE வழியில் இருந்து தெரியும் Riana Green கான்டோமினியம் தொகுப்பு"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कुआलालंपुर के अंपांग के ऊपर कई कोंडोमिनियम टावर एक साथ उठते हैं, एक ऊँची इमारतों का समूह जिसके निवासी उन रखरखाव शुल्कों को साझा करते हैं जो लिफ्ट, पूल और सुरक्षा को चालू रखते हैं।",
+        "subject": "अंपांग, कुआलालंपुर में कोंडोमिनियम टावरों का समूह"
+      },
+      {
+        "alt": "Riana Green Condominium के कई टावर पेटालिंग जया की हरियाली के बीच एक साथ उठते हैं, एक गेटेड स्ट्रेटा विकास जिसके निवासी रखरखाव शुल्क और एक सिंकिंग फंड साझा करते हैं।",
+        "subject": "NKVE से दिखता Riana Green Condominium समूह, पेटालिंग जया, सेलांगोर"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "ترتفع عدة أبراج كوندومينيوم معًا فوق Ampang في كوالالمبور، مجموعة شاهقة يتقاسم سكّانها رسوم الصيانة التي تُبقي المصاعد والمسابح والأمن تعمل.",
+        "subject": "مجموعة من أبراج الكوندومينيوم في Ampang، كوالالمبور"
+      },
+      {
+        "alt": "ترتفع أبراج Riana Green Condominium المتعددة معًا وسط المساحات الخضراء في Petaling Jaya، وهو مشروع ستراتا مُسوَّر يتقاسم سكّانه رسوم الصيانة وصندوق احتياطي (sinking fund).",
+        "subject": "مجموعة Riana Green Condominium كما تُرى من طريق NKVE، Petaling Jaya، سلانجور"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Varias torres de condominios se elevan juntas sobre Ampang, en Kuala Lumpur, un conjunto de rascacielos cuyos residentes comparten las cuotas de mantenimiento que mantienen en funcionamiento ascensores, piscinas y seguridad.",
+        "subject": "Un conjunto de torres de condominios en Ampang, Kuala Lumpur"
+      },
+      {
+        "alt": "Las múltiples torres del Riana Green Condominium se elevan juntas entre la vegetación de Petaling Jaya, una promoción en régimen de strata cerrada cuyos residentes comparten las cuotas de mantenimiento y un fondo de reserva.",
+        "subject": "El conjunto Riana Green Condominium visto desde la NKVE, Petaling Jaya, Selangor"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Plusieurs tours de copropriété s'élèvent ensemble au-dessus d'Ampang à Kuala Lumpur, un ensemble de gratte-ciel dont les résidents partagent les charges d'entretien qui font fonctionner ascenseurs, piscines et sécurité.",
+        "subject": "Un ensemble de tours de copropriété à Ampang, Kuala Lumpur"
+      },
+      {
+        "alt": "Les multiples tours du Riana Green Condominium s'élèvent ensemble au milieu de la verdure à Petaling Jaya, une résidence en copropriété (strata) fermée dont les résidents partagent les charges d'entretien et un fonds de prévoyance.",
+        "subject": "L'ensemble Riana Green Condominium vu depuis la NKVE, Petaling Jaya, Selangor"
+      }
+    ]
+  },
+  "property/electricity-tnb-account": {
+    "zh": [
+      {
+        "alt": "八打灵再也Bandar Utama一座围起来的国能（TNB）变电站，是供电给雪兰莪每一个家庭TNB户头的电网中的一环。",
+        "subject": "八打灵再也Bandar Utama的国能（TNB）变电站"
+      },
+      {
+        "alt": "国能（TNB）位于Bandar Utama的主进电站（PPU）布满开关设备与龙门架，是电力抵达用户家中电表前的高压降压环节。",
+        "subject": "Bandar Utama的国能（TNB）主进电站（PPU）输电站"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ペタリン・ジャヤのBandar Utamaにある、フェンスで囲まれたTenaga Nasional（TNB）の変電所。セランゴール中の各家庭のTNB契約（アカウント）に電気を送る送電網の一つの結び目である。",
+        "subject": "ペタリン・ジャヤ、Bandar UtamaのTenaga Nasional（TNB）変電所"
+      },
+      {
+        "alt": "Tenaga Nasional（TNB）のBandar Utama主受電所（PPU）は開閉装置と鉄構で埋め尽くされ、電力が需要家の家のメーターに届く前の高圧の降圧段を担う。",
+        "subject": "Bandar UtamaのTenaga Nasional（TNB）主受電所（PPU）送電ステーション"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "페탈링자야 Bandar Utama에 울타리로 둘러싸인 Tenaga Nasional(TNB) 변전소. 슬랑오르 전역 각 가정의 TNB 계정에 전기를 보내는 전력망의 한 고리다.",
+        "subject": "페탈링자야 Bandar Utama의 Tenaga Nasional(TNB) 변전소"
+      },
+      {
+        "alt": "Tenaga Nasional(TNB)의 Bandar Utama 주수전소(PPU)는 개폐장치와 철구조물로 빼곡하며, 전력이 수용가 가정의 계량기에 도달하기 전의 고압 강압 단계를 맡는다.",
+        "subject": "Bandar Utama의 Tenaga Nasional(TNB) 주수전소(PPU) 송전소"
+      }
+    ],
+    "th": [
+      {
+        "alt": "สถานีไฟฟ้าย่อยของ Tenaga Nasional (TNB) ที่มีรั้วล้อมในย่านบันดาร์อูตามา เปอตาลิงจายา เป็นข้อต่อหนึ่งในโครงข่ายที่จ่ายไฟให้บัญชี TNB ของทุกครัวเรือนทั่วรัฐเซอลาโงร์",
+        "subject": "สถานีไฟฟ้าย่อยของ Tenaga Nasional (TNB) ที่บันดาร์อูตามา เปอตาลิงจายา"
+      },
+      {
+        "alt": "สถานีรับไฟหลัก(PPU)ของ Tenaga Nasional ที่บันดาร์อูตามาเต็มไปด้วยอุปกรณ์สวิตช์เกียร์และโครงเหล็ก เป็นขั้นแปลงแรงดันไฟฟ้าสูงก่อนที่ไฟจะไปถึงมิเตอร์ตามบ้านของผู้ใช้",
+        "subject": "สถานีส่งไฟฟ้ารับไฟหลัก(PPU)ของ Tenaga Nasional ที่บันดาร์อูตามา"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah pencawang elektrik Tenaga Nasional berpagar di Bandar Utama, Petaling Jaya, satu rangkai dalam grid yang membekalkan tenaga kepada setiap akaun TNB isi rumah di seluruh Selangor.",
+        "subject": "Pencawang elektrik Tenaga Nasional di Bandar Utama, Petaling Jaya"
+      },
+      {
+        "alt": "Pencawang pengambilan utama Tenaga Nasional di Bandar Utama dipenuhi suis gear dan gantri, langkah voltan tinggi sebelum kuasa sampai ke meter di rumah pengguna.",
+        "subject": "Pencawang penghantaran pengambilan utama (PPU) Tenaga Nasional, Bandar Utama"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah gardu listrik Tenaga Nasional berpagar di Bandar Utama, Petaling Jaya, satu mata rantai dalam jaringan yang memasok listrik ke setiap akun TNB rumah tangga di seluruh Selangor.",
+        "subject": "Gardu listrik Tenaga Nasional di Bandar Utama, Petaling Jaya"
+      },
+      {
+        "alt": "Gardu pengambilan utama Tenaga Nasional di Bandar Utama dipenuhi switchgear dan gantri, tahap tegangan tinggi sebelum listrik sampai ke meteran di rumah konsumen.",
+        "subject": "Gardu induk transmisi pengambilan utama (PPU) Tenaga Nasional, Bandar Utama"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một trạm biến áp điện Tenaga Nasional có hàng rào tại Bandar Utama, Petaling Jaya, một mắt xích trong lưới điện cấp điện cho mọi tài khoản hộ gia đình TNB trên khắp Selangor.",
+        "subject": "Trạm biến áp điện Tenaga Nasional tại Bandar Utama, Petaling Jaya"
+      },
+      {
+        "alt": "Trạm đầu vào chính Tenaga Nasional tại Bandar Utama dày đặc thiết bị đóng cắt và giàn khung, bước cao thế trước khi điện đến công tơ tại nhà người tiêu dùng.",
+        "subject": "Trạm truyền tải đầu vào chính (PPU) của Tenaga Nasional, Bandar Utama"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பெட்டாலிங் ஜெயாவின் Bandar Utama இல் வேலியிட்ட Tenaga Nasional மின் துணைமின்நிலையம்; செலாங்கூர் முழுவதும் ஒவ்வொரு வீட்டு TNB கணக்கிற்கும் மின்சாரம் வழங்கும் மின்வலையமைப்பின் ஒரு இணைப்பு இது.",
+        "subject": "பெட்டாலிங் ஜெயா, Bandar Utama இல் உள்ள Tenaga Nasional மின் துணைமின்நிலையம்"
+      },
+      {
+        "alt": "Bandar Utama இல் உள்ள Tenaga Nasional இன் முதன்மை உள்வாங்கல் நிலையம் சுவிட்ச்கியர் மற்றும் கம்பித் தாங்கிகளால் நிறைந்துள்ளது; நுகர்வோர் வீடுகளில் உள்ள மீட்டர்களை மின்சாரம் அடைவதற்கு முந்தைய உயர் மின்னழுத்தப் படி இது.",
+        "subject": "Tenaga Nasional இன் முதன்மை உள்வாங்கல் (PPU) செலுத்துகை நிலையம், Bandar Utama"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "बंदर उतामा, पेटालिंग जया में एक बाड़बंद Tenaga Nasional विद्युत सबस्टेशन, उस ग्रिड की एक कड़ी जो पूरे सेलांगोर में हर घरेलू TNB खाते को बिजली पहुँचाती है।",
+        "subject": "बंदर उतामा, पेटालिंग जया में Tenaga Nasional का विद्युत सबस्टेशन"
+      },
+      {
+        "alt": "Tenaga Nasional का बंदर उतामा मुख्य इनटेक स्टेशन स्विचगियर और गैंट्रियों से भरा है, वह उच्च-वोल्टेज चरण जिससे पहले बिजली उपभोक्ताओं के घरों के मीटरों तक पहुँचती है।",
+        "subject": "Tenaga Nasional का मुख्य इनटेक (PPU) ट्रांसमिशन स्टेशन, बंदर उतामा"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "محطة كهرباء فرعية مسوّرة تابعة لـ Tenaga Nasional في Bandar Utama، Petaling Jaya، حلقة في الشبكة التي تغذّي كل حساب TNB منزلي في أنحاء سلانجور.",
+        "subject": "محطة كهرباء فرعية تابعة لـ Tenaga Nasional في Bandar Utama، Petaling Jaya"
+      },
+      {
+        "alt": "تكتظّ محطة الاستقبال الرئيسية في Bandar Utama التابعة لـ Tenaga Nasional بمعدات التبديل والجسور المعدنية، وهي المرحلة عالية الجهد قبل أن تصل الكهرباء إلى العدّادات في منازل المستهلكين.",
+        "subject": "محطة النقل الرئيسية للاستقبال (PPU) التابعة لـ Tenaga Nasional، Bandar Utama"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una subestación eléctrica vallada de Tenaga Nasional en Bandar Utama, Petaling Jaya, un eslabón de la red que alimenta cada cuenta doméstica de TNB en todo Selangor.",
+        "subject": "Subestación eléctrica de Tenaga Nasional en Bandar Utama, Petaling Jaya"
+      },
+      {
+        "alt": "La estación de toma principal de Tenaga Nasional en Bandar Utama se eriza de aparamenta y pórticos, el paso de alta tensión antes de que la electricidad llegue a los contadores de las viviendas de los consumidores.",
+        "subject": "Estación de transmisión de toma principal (PPU) de Tenaga Nasional, Bandar Utama"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un poste électrique clôturé de Tenaga Nasional à Bandar Utama, Petaling Jaya, un maillon du réseau qui alimente chaque compte TNB domestique à travers le Selangor.",
+        "subject": "Poste électrique de Tenaga Nasional à Bandar Utama, Petaling Jaya"
+      },
+      {
+        "alt": "Le poste de prise principale de Tenaga Nasional à Bandar Utama est hérissé d'appareillages de commutation et de portiques, l'étape haute tension avant que le courant n'atteigne les compteurs des habitations des consommateurs.",
+        "subject": "Poste de transport de prise principale (PPU) de Tenaga Nasional, Bandar Utama"
+      }
+    ]
+  },
+  "property/foreigners-buying-property": {
+    "zh": [
+      {
+        "alt": "一排排高档高层公寓挤满吉隆坡满家乐（Mont Kiara）的天际线，这是外籍人士偏爱的聚居区，外国买家须跨过州定的最低房价门槛方可购置。",
+        "subject": "吉隆坡满家乐（Mont Kiara）的高层公寓天际线"
+      },
+      {
+        "alt": "森林城市（Forest City）的豪华滨海高楼在柔佛的填海土地上拔地而起，这是一个主力向外国买家推销、紧邻新加坡边境的超大型项目。",
+        "subject": "柔佛在建的森林城市（Forest City）豪华滨海发展项目"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "高級高層コンドミニアムが列をなしてクアラルンプールのMont Kiaraのスカイラインを埋める。駐在員に好まれるこの一角では、外国人買い手は州の最低価格基準を満たさねばならない。",
+        "subject": "クアラルンプール、Mont Kiaraの高層コンドミニアムのスカイライン"
+      },
+      {
+        "alt": "Forest Cityの高級ウォーターフロントの塔が、ジョホールの埋立地の上に立ち上がる。シンガポール国境近くで、外国人購入者に向けて大々的に売り込まれる巨大プロジェクトだ。",
+        "subject": "ジョホールで建設中のForest City高級ウォーターフロント開発"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "고급 고층 콘도미니엄이 줄지어 쿠알라룸푸르 Mont Kiara의 스카이라인을 가득 메운다. 주재원들이 선호하는 이 지역에서 외국인 구매자는 주가 정한 최저 가격 기준을 넘어야 한다.",
+        "subject": "쿠알라룸푸르 Mont Kiara의 고층 콘도미니엄 스카이라인"
+      },
+      {
+        "alt": "Forest City의 고급 워터프런트 타워들이 조호르의 매립지 위로 솟아오른다. 싱가포르 국경 인근에서 외국인 매수자를 겨냥해 대대적으로 마케팅되는 초대형 프로젝트다.",
+        "subject": "조호르에서 건설 중인 Forest City 고급 워터프런트 개발"
+      }
+    ],
+    "th": [
+      {
+        "alt": "คอนโดมิเนียมสูงระดับหรูเรียงรายแน่นขนัดเหนือเส้นขอบฟ้าของมอนต์เกียรา(Mont Kiara)ในกัวลาลัมเปอร์ ย่านที่ชาวต่างชาติผู้พำนักนิยม ซึ่งผู้ซื้อต่างชาติต้องผ่านเกณฑ์ราคาขั้นต่ำที่รัฐกำหนด",
+        "subject": "เส้นขอบฟ้าคอนโดมิเนียมสูงของมอนต์เกียรา(Mont Kiara) กัวลาลัมเปอร์"
+      },
+      {
+        "alt": "อาคารริมน้ำสุดหรูของ Forest City ทะยานขึ้นเหนือพื้นที่ถมทะเลในรัฐยะโฮร์ เป็นเมกะโปรเจกต์ที่ทำการตลาดอย่างหนักแก่ผู้ซื้อต่างชาติใกล้ชายแดนสิงคโปร์",
+        "subject": "โครงการริมน้ำสุดหรู Forest City ที่กำลังก่อสร้างในรัฐยะโฮร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Deretan kondominium mewah bertingkat tinggi memenuhi kaki langit Mont Kiara di Kuala Lumpur, sebuah kawasan yang digemari ekspatriat tempat pembeli asing perlu memenuhi had harga minimum negeri.",
+        "subject": "Kaki langit kondominium bertingkat tinggi di Mont Kiara, Kuala Lumpur"
+      },
+      {
+        "alt": "Menara mewah tepi air Forest City menjulang di atas tanah tambak di Johor, sebuah projek mega yang dipasarkan hebat kepada pembeli asing berhampiran sempadan Singapura.",
+        "subject": "Pembangunan mewah tepi air Forest City yang sedang dibina, Johor"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Deretan kondominium mewah bertingkat tinggi memadati cakrawala Mont Kiara di Kuala Lumpur, sebuah kawasan favorit ekspatriat tempat pembeli asing harus memenuhi ambang harga minimum negara bagian.",
+        "subject": "Cakrawala kondominium pencakar langit di Mont Kiara, Kuala Lumpur"
+      },
+      {
+        "alt": "Menara-menara mewah tepi laut Forest City menjulang di atas tanah reklamasi di Johor, sebuah proyek raksasa yang gencar dipasarkan kepada pembeli asing dekat perbatasan Singapura.",
+        "subject": "Proyek mewah tepi laut Forest City yang sedang dibangun, Johor"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những dãy chung cư cao cấp cao tầng chen chúc trên đường chân trời Mont Kiara ở Kuala Lumpur, một khu vực được giới expat ưa chuộng, nơi người mua nước ngoài phải đạt ngưỡng giá tối thiểu của bang.",
+        "subject": "Đường chân trời chung cư cao tầng của Mont Kiara, Kuala Lumpur"
+      },
+      {
+        "alt": "Những tòa tháp ven biển hạng sang Forest City vươn lên trên vùng đất lấn biển ở Johor, một siêu dự án được quảng bá mạnh đến người mua nước ngoài gần biên giới Singapore.",
+        "subject": "Dự án ven biển hạng sang Forest City đang xây dựng, Johor"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கோலாலம்பூரின் Mont Kiara வானக்கோட்டை ஆடம்பர உயரமான கான்டோமினியங்களின் வரிசைகள் நிரப்புகின்றன; வெளிநாட்டவர் விரும்பும் இந்தப் பகுதியில் வெளிநாட்டு வாங்குநர்கள் மாநிலத்தின் குறைந்தபட்ச விலை வரம்பை நிறைவேற்ற வேண்டும்.",
+        "subject": "கோலாலம்பூர், Mont Kiara இன் உயரமான கான்டோமினியம் வானளாவிய காட்சி"
+      },
+      {
+        "alt": "ஜொகூரில் நிலத்தூர்வு செய்யப்பட்ட நிலத்தின் மேல் Forest City ஆடம்பர கடற்கரை கோபுரங்கள் உயர்ந்து நிற்கின்றன; சிங்கப்பூர் எல்லைக்கு அருகில் வெளிநாட்டு வாங்குநர்களை இலக்காகக் கொண்டு பெரிதும் சந்தைப்படுத்தப்பட்ட மாபெரும் திட்டம் இது.",
+        "subject": "ஜொகூரில் கட்டுமானத்தில் உள்ள Forest City ஆடம்பர கடற்கரை வளர்ச்சித் திட்டம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कुआलालंपुर में Mont Kiara की क्षितिज-रेखा पर ऊँचे, महँगे कोंडोमिनियमों की कतारें भरी हैं, एक प्रवासी-पसंदीदा इलाका जहाँ विदेशी खरीदारों को राज्य की न्यूनतम मूल्य सीमा पार करनी होती है।",
+        "subject": "Mont Kiara, कुआलालंपुर की ऊँची कोंडोमिनियम क्षितिज-रेखा"
+      },
+      {
+        "alt": "Forest City के विलासितापूर्ण तटवर्ती टावर जोहोर में समुद्र से पुनः प्राप्त भूमि पर उठते हैं, सिंगापुर सीमा के पास एक मेगा-परियोजना जिसका ज़ोरदार विपणन विदेशी खरीदारों के लिए किया गया है।",
+        "subject": "निर्माणाधीन Forest City विलासिता तटवर्ती विकास, जोहोर"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "تزدحم صفوف من أبراج الكوندومينيوم الراقية في أفق Mont Kiara بكوالالمبور، وهو حيّ مُفضَّل لدى المغتربين يتعيّن فيه على المشترين الأجانب تجاوز الحدّ الأدنى للسعر الذي تحدّده الولاية.",
+        "subject": "أفق أبراج الكوندومينيوم الشاهقة في Mont Kiara، كوالالمبور"
+      },
+      {
+        "alt": "ترتفع أبراج Forest City الفاخرة على الواجهة البحرية فوق أرض مستصلحة في جوهور، وهو مشروع ضخم يُسوَّق بكثافة للمشترين الأجانب قرب الحدود مع سنغافورة.",
+        "subject": "مشروع Forest City الفاخر على الواجهة البحرية قيد الإنشاء، جوهور"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Hileras de condominios de gran altura y alto nivel abarrotan el perfil urbano de Mont Kiara en Kuala Lumpur, un enclave predilecto de expatriados donde los compradores extranjeros deben superar el umbral de precio fijado por el estado.",
+        "subject": "Perfil urbano de condominios de gran altura en Mont Kiara, Kuala Lumpur"
+      },
+      {
+        "alt": "Las torres de lujo frente al mar de Forest City se elevan sobre terreno ganado al mar en Johor, un megaproyecto comercializado intensamente entre compradores extranjeros cerca de la frontera con Singapur.",
+        "subject": "Promoción de lujo frente al mar Forest City en construcción, Johor"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des rangées de condominiums haut de gamme de grande hauteur encombrent la ligne d'horizon de Mont Kiara à Kuala Lumpur, une enclave prisée des expatriés où les acheteurs étrangers doivent franchir le seuil de prix fixé par l'État.",
+        "subject": "Ligne d'horizon de condominiums de grande hauteur de Mont Kiara, Kuala Lumpur"
+      },
+      {
+        "alt": "Les tours de luxe en front de mer de Forest City s'élèvent sur des terres gagnées sur la mer à Johor, un mégaprojet massivement commercialisé auprès des acheteurs étrangers près de la frontière singapourienne.",
+        "subject": "Programme de luxe en front de mer Forest City en construction, Johor"
+      }
+    ]
+  },
+  "property/freehold-leasehold-strata-landed": {
+    "zh": [
+      {
+        "alt": "一栋独立式洋房坐落在柔佛新山（Johor Bahru）自家围起的地段上，这是最典型的有地房产，持有的是个别地契而非分层（strata）份额。",
+        "subject": "柔佛新山的一栋独立式洋房"
+      },
+      {
+        "alt": "一栋栋公共廉价组屋（PPR）矗立于吉隆坡武吉加里尔（Bukit Jalil），每个单位以分层地契（strata title）持有，共同拥有公共产业。",
+        "subject": "吉隆坡武吉加里尔的公共廉价组屋（PPR）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "一戸の独立型バンガローが、ジョホールバルで自らのフェンスで囲まれた区画に建つ。ストラータの持分ではなく個別の土地権利証を持つ、有地物件の典型である。",
+        "subject": "ジョホールバルの独立型バンガロー"
+      },
+      {
+        "alt": "公共低価格住宅（PPR）の棟が、クアラルンプールのブキ・ジャリルに立ち並ぶ。各戸はストラータ権利証（strata title）で保有され、共用部分を共同所有する。",
+        "subject": "クアラルンプール・ブキ・ジャリルの公共低価格フラット（PPR）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "단독 방갈로 한 채가 조호르바루에서 울타리로 둘러싸인 자기 필지 위에 서 있다. 스트라타 지분이 아니라 개별 토지권리증을 지니는, 유지 부동산의 전형이다.",
+        "subject": "조호르바루의 단독 방갈로"
+      },
+      {
+        "alt": "공공 저가 주택(PPR) 동들이 쿠알라룸푸르 부킷잘릴에 서 있다. 각 세대는 스트라타 권리증(strata title)으로 보유되며 공용 부분을 공동 소유한다.",
+        "subject": "쿠알라룸푸르 부킷잘릴의 공공 저가 주택(PPR)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "บ้านเดี่ยวหลังหนึ่งตั้งอยู่บนที่ดินมีรั้วรอบของตนเองในยะโฮร์บาห์รู เป็นอสังหาริมทรัพย์แบบมีที่ดินต้นแบบที่ถือครองด้วยโฉนดที่ดินแยกรายแปลง ไม่ใช่ส่วนแบ่งแบบสตราตา(strata)",
+        "subject": "บ้านเดี่ยวหลังหนึ่งในยะโฮร์บาห์รู"
+      },
+      {
+        "alt": "อาคารแฟลตการเคหะราคาประหยัด(PPR)ตั้งอยู่ในบูกิตจาลิล กัวลาลัมเปอร์ ซึ่งแต่ละยูนิตถือครองภายใต้โฉนดแบบสตราตา(strata title)โดยเป็นเจ้าของร่วมในทรัพย์ส่วนกลาง",
+        "subject": "แฟลตการเคหะราคาประหยัด(PPR)ในบูกิตจาลิล กัวลาลัมเปอร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah rumah banglo berasingan terletak di atas lot berpagarnya sendiri di Johor Bahru, hartanah bertanah tipikal yang memegang hak milik tanah individu dan bukannya bahagian strata.",
+        "subject": "Rumah banglo berasingan di Johor Bahru"
+      },
+      {
+        "alt": "Blok-blok flat PPR kos rendah awam berdiri di Bukit Jalil, Kuala Lumpur, tempat setiap unit dipegang di bawah hak milik strata dengan pemilikan bersama harta bersama.",
+        "subject": "Flat kos rendah awam (PPR) di Bukit Jalil, Kuala Lumpur"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah rumah bungalow terpisah berdiri di atas kaveling berpagar miliknya sendiri di Johor Bahru, properti tapak khas yang memegang sertifikat tanah individu, bukan bagian strata.",
+        "subject": "Rumah bungalow terpisah di Johor Bahru"
+      },
+      {
+        "alt": "Blok-blok rumah susun murah PPR milik publik berdiri di Bukit Jalil, Kuala Lumpur, tempat setiap unit dipegang di bawah sertifikat strata dengan kepemilikan bersama atas properti bersama.",
+        "subject": "Rumah susun murah milik publik (PPR) di Bukit Jalil, Kuala Lumpur"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một căn biệt thự đơn lập tọa lạc trên thửa đất có hàng rào riêng ở Johor Bahru, bất động sản gắn liền với đất điển hình mang sổ đỏ đất riêng chứ không phải phần sở hữu strata.",
+        "subject": "Một căn biệt thự đơn lập ở Johor Bahru"
+      },
+      {
+        "alt": "Các khối chung cư giá rẻ công cộng PPR đứng tại Bukit Jalil, Kuala Lumpur, nơi mỗi căn hộ được nắm giữ theo sổ strata với quyền sở hữu chung đối với phần tài sản chung.",
+        "subject": "Chung cư giá rẻ công cộng (PPR) ở Bukit Jalil, Kuala Lumpur"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஜொகூர் பாருவில் தனக்கே உரிய வேலியிட்ட மனையில் ஒரு தனித்த பங்களா வீடு அமைந்துள்ளது; இது ஸ்ட்ரேட்டா பங்கிற்குப் பதிலாக தனிப்பட்ட நில உரிமைப் பத்திரத்தைக் கொண்ட பொதுவான நிலத்துடன் கூடிய சொத்து.",
+        "subject": "ஜொகூர் பாருவில் ஒரு தனித்த பங்களா வீடு"
+      },
+      {
+        "alt": "கோலாலம்பூர், புக்கிட் ஜாலிலில் பொது குறைந்த செலவு PPR குடியிருப்புத் தொகுதிகள் நிற்கின்றன; இங்கு ஒவ்வொரு யூனிட்டும் பொதுச் சொத்தின் கூட்டு உரிமையுடன் ஸ்ட்ரேட்டா உரிமைப் பத்திரத்தின் கீழ் வைத்திருக்கப்படுகிறது.",
+        "subject": "கோலாலம்பூர், புக்கிட் ஜாலிலில் உள்ள பொது குறைந்த செலவு குடியிருப்புகள் (PPR)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "जोहोर बाहरू में एक अकेला स्वतंत्र बंगला अपने ही बाड़बंद भूखंड पर स्थित है, वह आदर्श भू-संपत्ति जो स्ट्रेटा हिस्से के बजाय एक व्यक्तिगत भूमि-स्वामित्व रखती है।",
+        "subject": "जोहोर बाहरू में एक स्वतंत्र बंगला"
+      },
+      {
+        "alt": "बुकित जलील, कुआलालंपुर में सार्वजनिक कम-लागत PPR फ्लैटों के ब्लॉक खड़े हैं, जहाँ हर इकाई एक स्ट्रेटा-स्वामित्व के तहत रखी जाती है, जिसमें साझा संपत्ति का सामूहिक स्वामित्व होता है।",
+        "subject": "बुकित जलील, कुआलालंपुर में सार्वजनिक कम-लागत फ्लैट (PPR)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "تقع فيلا منفصلة واحدة على قطعة أرض مسوّرة خاصة بها في Johor Bahru، وهي النموذج الأصيل للعقار الأرضي الذي يحمل سند ملكية أرض فرديًا لا حصّة ستراتا.",
+        "subject": "فيلا منفصلة في Johor Bahru"
+      },
+      {
+        "alt": "تقف مبانٍ من شقق PPR العامة المنخفضة التكلفة في Bukit Jalil، كوالالمبور، حيث تُملَك كل وحدة بموجب سند ستراتا مع ملكية مشتركة للأملاك العامة.",
+        "subject": "شقق عامة منخفضة التكلفة (PPR) في Bukit Jalil، كوالالمبور"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un bungaló independiente se asienta en su propia parcela vallada en Johor Bahru, la propiedad con terreno por excelencia, que posee un título de propiedad individual en lugar de una cuota de strata.",
+        "subject": "Un bungaló independiente en Johor Bahru"
+      },
+      {
+        "alt": "Bloques de pisos públicos de bajo coste PPR se alzan en Bukit Jalil, Kuala Lumpur, donde cada unidad se posee bajo un título de strata con propiedad compartida de los elementos comunes.",
+        "subject": "Pisos públicos de bajo coste (PPR) en Bukit Jalil, Kuala Lumpur"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un bungalow individuel se dresse sur sa propre parcelle clôturée à Johor Bahru, la propriété foncière par excellence, qui porte un titre foncier individuel plutôt qu'une quote-part de copropriété (strata).",
+        "subject": "Un bungalow individuel à Johor Bahru"
+      },
+      {
+        "alt": "Des blocs de logements sociaux à bas coût PPR se dressent à Bukit Jalil, Kuala Lumpur, où chaque unité est détenue sous un titre de strata avec propriété partagée des parties communes.",
+        "subject": "Logements sociaux à bas coût (PPR) à Bukit Jalil, Kuala Lumpur"
+      }
+    ]
+  },
+  "property/gated-communities-and-security": {
+    "zh": [
+      {
+        "alt": "Arden Hill是芙蓉（Seremban）Forest Heights住宅区内的一个高档封闭式社区，将有地房屋布置在单一受控的围墙界线之内。",
+        "subject": "芙蓉Forest Heights的Arden Hill高档封闭式社区"
+      },
+      {
+        "alt": "有地房屋与修剪整齐的绿意填满柔佛依斯干达公主城Horizon Hills的封闭与守卫（gated-and-guarded）式住宅区，这是一个大型、由保安管理的住宅聚居区。",
+        "subject": "柔佛依斯干达公主城的Horizon Hills封闭式住宅区"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "Arden Hillは、スレンバンのForest Heights住宅団地内にある高級ゲーテッドコミュニティで、単一の管理された外周の内側に有地住宅を配している。",
+        "subject": "スレンバン、Forest HeightsのArden Hill高級ゲーテッドコミュニティ"
+      },
+      {
+        "alt": "有地住宅と手入れされた緑が、ジョホール州イスカンダル・プトリのHorizon Hillsゲート＆ガード式住宅団地を満たす。警備が管理する大規模な住宅エンクレーブだ。",
+        "subject": "ジョホール州イスカンダル・プトリのHorizon Hillsゲーテッド住宅団地"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "Arden Hill은 스름반 Forest Heights 주택단지 안에 자리한 고급 게이티드 커뮤니티로, 하나의 통제된 외곽 경계 안에 유지 주택을 배치한다.",
+        "subject": "스름반 Forest Heights의 Arden Hill 고급 게이티드 커뮤니티"
+      },
+      {
+        "alt": "유지 주택과 잘 다듬어진 녹지가 조호르주 이스칸다르 푸테리의 Horizon Hills 게이티드 앤 가디드 주택단지를 채운다. 경비가 관리하는 대규모 주거 지구다.",
+        "subject": "조호르주 이스칸다르 푸테리의 Horizon Hills 게이티드 주택단지"
+      }
+    ],
+    "th": [
+      {
+        "alt": "Arden Hill ชุมชนปิดระดับหรูภายในหมู่บ้านจัดสรร Forest Heights ในเซอเริมบัน จัดวางบ้านมีที่ดินไว้หลังแนวรั้วควบคุมเพียงแนวเดียว",
+        "subject": "ชุมชนปิดระดับหรู Arden Hill ใน Forest Heights เซอเริมบัน"
+      },
+      {
+        "alt": "บ้านมีที่ดินและพื้นที่สีเขียวที่ตัดแต่งเรียบร้อยเต็มไปทั่วหมู่บ้านจัดสรรแบบปิดและมีการ์ด Horizon Hills ในอิสกันดาร์ปูเตอรี รัฐยะโฮร์ อันเป็นชุมชนที่พักอาศัยขนาดใหญ่ที่บริหารจัดการด้านความปลอดภัย",
+        "subject": "หมู่บ้านจัดสรรแบบปิด Horizon Hills อิสกันดาร์ปูเตอรี รัฐยะโฮร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Arden Hill, sebuah komuniti berpagar mewah di dalam perbandaran Forest Heights di Seremban, menyusun rumah bertanah di sebalik satu perimeter terkawal.",
+        "subject": "Komuniti berpagar mewah Arden Hill, Forest Heights, Seremban"
+      },
+      {
+        "alt": "Rumah bertanah dan kehijauan yang terurus memenuhi perbandaran berpagar dan berpengawal Horizon Hills di Iskandar Puteri, Johor, sebuah enklaf kediaman besar yang diurus keselamatannya.",
+        "subject": "Perbandaran berpagar Horizon Hills, Iskandar Puteri, Johor"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Arden Hill, sebuah komunitas berpagar mewah di dalam kawasan Forest Heights di Seremban, menata rumah tapak di balik satu perimeter terkendali.",
+        "subject": "Komunitas berpagar mewah Arden Hill, Forest Heights, Seremban"
+      },
+      {
+        "alt": "Rumah tapak dan hijauan tertata memenuhi kawasan berpagar dan berpenjaga Horizon Hills di Iskandar Puteri, Johor, sebuah enklave hunian besar yang dikelola keamanannya.",
+        "subject": "Kawasan hunian berpagar Horizon Hills, Iskandar Puteri, Johor"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Arden Hill, một khu dân cư cao cấp có cổng kiểm soát bên trong khu đô thị Forest Heights ở Seremban, bố trí các ngôi nhà gắn liền với đất sau một vành đai kiểm soát duy nhất.",
+        "subject": "Khu dân cư cao cấp có cổng kiểm soát Arden Hill, Forest Heights, Seremban"
+      },
+      {
+        "alt": "Nhà gắn liền với đất và mảng xanh được chăm chút lấp đầy khu đô thị có cổng và bảo vệ Horizon Hills ở Iskandar Puteri, Johor, một khu dân cư lớn được quản lý an ninh.",
+        "subject": "Khu đô thị có cổng kiểm soát Horizon Hills, Iskandar Puteri, Johor"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "செரம்பானில் Forest Heights நகரத்திற்குள் அமைந்த உயர்தர வேலியிட்ட குடியிருப்புச் சமூகமான Arden Hill, ஒரே கட்டுப்படுத்தப்பட்ட எல்லைக்குள் நிலத்துடன் கூடிய வீடுகளை வரிசைப்படுத்துகிறது.",
+        "subject": "செரம்பான், Forest Heights இல் உள்ள Arden Hill உயர்தர வேலியிட்ட குடியிருப்புச் சமூகம்"
+      },
+      {
+        "alt": "ஜொகூர், இஸ்கந்தர் புத்திரியில் உள்ள வேலியிட்டு காவல் கொண்ட Horizon Hills நகரத்தை நிலத்துடன் கூடிய வீடுகளும் நேர்த்தியாகப் பராமரிக்கப்பட்ட பசுமையும் நிரப்புகின்றன; இது பாதுகாப்பு நிர்வகிக்கப்படும் பெரிய குடியிருப்புப் பகுதி.",
+        "subject": "ஜொகூர், இஸ்கந்தர் புத்திரியில் உள்ள Horizon Hills வேலியிட்ட நகரம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "Arden Hill, सेरेम्बान में Forest Heights टाउनशिप के भीतर एक विशिष्ट गेटेड समुदाय, एक ही नियंत्रित परिधि के पीछे भू-स्वामित्व वाले घर सजाता है।",
+        "subject": "Arden Hill विशिष्ट गेटेड समुदाय, Forest Heights, सेरेम्बान"
+      },
+      {
+        "alt": "भू-स्वामित्व वाले घर और सुव्यवस्थित हरियाली इस्कंदर पुतेरी, जोहोर में Horizon Hills गेटेड-एंड-गार्डेड टाउनशिप को भरते हैं, एक बड़ा सुरक्षा-प्रबंधित आवासीय इलाका।",
+        "subject": "Horizon Hills गेटेड टाउनशिप, इस्कंदर पुतेरी, जोहोर"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "يُنظّم Arden Hill، وهو مجمّع سكني مسوَّر راقٍ داخل بلدة Forest Heights في سيرمبان، منازل أرضية خلف محيط واحد خاضع للرقابة.",
+        "subject": "مجمّع Arden Hill السكني المسوَّر الراقي، Forest Heights، سيرمبان"
+      },
+      {
+        "alt": "تملأ المنازل الأرضية والمساحات الخضراء المنسّقة بلدة Horizon Hills المسوَّرة والمحروسة في Iskandar Puteri، جوهور، وهي حيّ سكني كبير مُدار أمنيًا.",
+        "subject": "بلدة Horizon Hills المسوَّرة، Iskandar Puteri، جوهور"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Arden Hill, una urbanización cerrada de lujo dentro del municipio de Forest Heights en Seremban, dispone viviendas con terreno tras un único perímetro controlado.",
+        "subject": "Urbanización cerrada de lujo Arden Hill, Forest Heights, Seremban"
+      },
+      {
+        "alt": "Viviendas con terreno y vegetación cuidada llenan el municipio cerrado y vigilado de Horizon Hills en Iskandar Puteri, Johor, un amplio enclave residencial gestionado con seguridad.",
+        "subject": "Municipio cerrado Horizon Hills, Iskandar Puteri, Johor"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Arden Hill, une résidence fermée haut de gamme au sein du lotissement de Forest Heights à Seremban, dispose des maisons individuelles derrière un unique périmètre contrôlé.",
+        "subject": "Résidence fermée haut de gamme Arden Hill, Forest Heights, Seremban"
+      },
+      {
+        "alt": "Des maisons individuelles et une verdure soignée emplissent le lotissement clôturé et gardé de Horizon Hills à Iskandar Puteri, Johor, une vaste enclave résidentielle à sécurité gérée.",
+        "subject": "Lotissement fermé Horizon Hills, Iskandar Puteri, Johor"
+      }
+    ]
+  },
+  "property/home-loan-mortgage-financing": {
+    "zh": [
+      {
+        "alt": "芙蓉市中心一排店屋（shoplot）上渣打银行（Standard Chartered）分行的街景",
+        "subject": "森美兰芙蓉主街上的渣打银行（Standard Chartered）分行"
+      },
+      {
+        "alt": "柔佛居銮（Kluang）一排店屋上马来西亚慕阿马拉银行（Bank Muamalat，伊斯兰银行）分行的街景",
+        "subject": "柔佛居銮的马来西亚慕阿马拉银行（Bank Muamalat，伊斯兰银行）分行"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "スレンバンの町の中心、ショップロット（店舗付き建物）が並ぶ一角に建つStandard Chartered銀行支店のストリートビュー",
+        "subject": "ヌグリ・スンビラン州スレンバンの目抜き通りに建つStandard Chartered銀行の支店"
+      },
+      {
+        "alt": "ジョホール州クルアンのショップロットが並ぶ一角に建つBank Muamalat（イスラム銀行）支店のストリートビュー",
+        "subject": "ジョホール州クルアンのBank Muamalat（イスラム銀行）の支店"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "스름반 시내 상가주택(shoplot)이 늘어선 거리에 자리한 Standard Chartered 은행 지점의 거리 풍경",
+        "subject": "느그리슴빌란주 스름반 중심가의 Standard Chartered 은행 지점"
+      },
+      {
+        "alt": "조호르주 클루앙의 상가주택이 늘어선 거리에 자리한 Bank Muamalat(이슬람 은행) 지점의 거리 풍경",
+        "subject": "조호르주 클루앙의 Bank Muamalat(이슬람 은행) 지점"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ภาพถนนของสาขาธนาคาร Standard Chartered บนแถวอาคารพาณิชย์(shoplot)ในใจกลางเมืองเซอเริมบัน",
+        "subject": "สาขาธนาคาร Standard Chartered บนถนนสายหลักในเซอเริมบัน รัฐเนอเกอรีเซิมบีลัน"
+      },
+      {
+        "alt": "ภาพถนนของสาขาธนาคารอิสลาม Bank Muamalat บนแถวอาคารพาณิชย์ในกลวง รัฐยะโฮร์",
+        "subject": "สาขาธนาคารอิสลาม Bank Muamalat ในกลวง รัฐยะโฮร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pemandangan jalan sebuah cawangan Standard Chartered Bank di deretan lot kedai di pusat bandar Seremban",
+        "subject": "Cawangan Standard Chartered Bank di jalan utama di Seremban, Negeri Sembilan"
+      },
+      {
+        "alt": "Pemandangan jalan sebuah cawangan bank Islam Bank Muamalat di deretan lot kedai di Kluang, Johor",
+        "subject": "Cawangan Bank Muamalat (bank Islam) di Kluang, Johor"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Pemandangan jalan sebuah kantor cabang Standard Chartered Bank di deretan ruko di pusat kota Seremban",
+        "subject": "Kantor cabang Standard Chartered Bank di jalan utama di Seremban, Negeri Sembilan"
+      },
+      {
+        "alt": "Pemandangan jalan sebuah kantor cabang bank syariah Bank Muamalat di deretan ruko di Kluang, Johor",
+        "subject": "Kantor cabang Bank Muamalat (bank syariah) di Kluang, Johor"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Cảnh đường phố một chi nhánh Standard Chartered Bank trên dãy nhà phố thương mại ở trung tâm thị trấn Seremban",
+        "subject": "Một chi nhánh Standard Chartered Bank trên con phố chính ở Seremban, Negeri Sembilan"
+      },
+      {
+        "alt": "Cảnh đường phố một chi nhánh ngân hàng Hồi giáo Bank Muamalat trên dãy nhà phố thương mại ở Kluang, Johor",
+        "subject": "Một chi nhánh Bank Muamalat (ngân hàng Hồi giáo) ở Kluang, Johor"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "செரம்பான் நகர மையத்தில் கடைத் தொகுதி வரிசையில் அமைந்த ஒரு Standard Chartered Bank கிளையின் தெருக் காட்சி",
+        "subject": "நெகிரி செம்பிலான், செரம்பானின் பிரதான வீதியில் ஒரு Standard Chartered Bank கிளை"
+      },
+      {
+        "alt": "ஜொகூர், க்லுவாங்கில் கடைத் தொகுதி வரிசையில் அமைந்த Bank Muamalat இஸ்லாமிய வங்கிக் கிளையின் தெருக் காட்சி",
+        "subject": "ஜொகூர், க்லுவாங்கில் ஒரு Bank Muamalat (இஸ்லாமிய வங்கி) கிளை"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "सेरेम्बान शहर के केंद्र में एक दुकान-पंक्ति पर स्थित Standard Chartered Bank शाखा का सड़क-दृश्य",
+        "subject": "सेरेम्बान, नेगेरी संबिलान की मुख्य सड़क पर एक Standard Chartered Bank शाखा"
+      },
+      {
+        "alt": "क्लुआंग, जोहोर में एक दुकान-पंक्ति पर स्थित Bank Muamalat इस्लामी बैंक शाखा का सड़क-दृश्य",
+        "subject": "क्लुआंग, जोहोर में एक Bank Muamalat (इस्लामी बैंक) शाखा"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "منظر من الشارع لفرع بنك Standard Chartered في صفّ محلات بوسط مدينة سيرمبان",
+        "subject": "فرع لبنك Standard Chartered على الشارع الرئيسي في سيرمبان، نيجري سمبيلان"
+      },
+      {
+        "alt": "منظر من الشارع لفرع مصرف Bank Muamalat الإسلامي في صفّ محلات بـ Kluang، جوهور",
+        "subject": "فرع لـ Bank Muamalat (مصرف إسلامي) في Kluang، جوهور"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Vista desde la calle de una sucursal del Standard Chartered Bank en una hilera de locales comerciales en el centro de Seremban",
+        "subject": "Una sucursal del Standard Chartered Bank en la calle principal de Seremban, Negeri Sembilan"
+      },
+      {
+        "alt": "Vista desde la calle de una sucursal del banco islámico Bank Muamalat en una hilera de locales comerciales en Kluang, Johor",
+        "subject": "Una sucursal del Bank Muamalat (banco islámico) en Kluang, Johor"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Vue depuis la rue d'une agence Standard Chartered Bank dans une rangée de commerces au centre-ville de Seremban",
+        "subject": "Une agence Standard Chartered Bank sur la rue principale de Seremban, Negeri Sembilan"
+      },
+      {
+        "alt": "Vue depuis la rue d'une agence de la banque islamique Bank Muamalat dans une rangée de commerces à Kluang, Johor",
+        "subject": "Une agence Bank Muamalat (banque islamique) à Kluang, Johor"
+      }
+    ]
+  },
+  "property/homebuyer-protection-abandoned-projects": {
+    "zh": [
+      {
+        "alt": "一栋荒废、未完工的单层房屋，杂草丛生、砖墙裸露",
+        "subject": "雪兰莪Desa Subang Permai一栋被废弃、未完工的房屋"
+      },
+      {
+        "alt": "马六甲一栋饱经风霜的废弃建筑，油漆剥落、窗口空洞",
+        "subject": "马六甲一栋弃置、废弃的建筑"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "雑草が生い茂り、むき出しのれんがが残る、放置された未完成の平屋",
+        "subject": "セランゴール州Desa Subang Permaiの放置された未完成の家"
+      },
+      {
+        "alt": "塗装が剥がれ、窓の開口部が空いたまま風化した、マラッカの廃屋",
+        "subject": "マラッカの使われなくなった廃墟の建物"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "잡초가 무성하게 자라고 벽돌이 그대로 드러난 채 방치된 미완성 단층 주택",
+        "subject": "슬랑오르주 Desa Subang Permai의 버려진 미완성 주택"
+      },
+      {
+        "alt": "페인트가 벗겨지고 창문 구멍이 뻥 뚫린 채 풍화된 믈라카의 폐건물",
+        "subject": "믈라카의 버려진 폐건물"
+      }
+    ],
+    "th": [
+      {
+        "alt": "บ้านชั้นเดียวที่ถูกทิ้งร้างและยังสร้างไม่เสร็จ มีวัชพืชขึ้นรกและผนังอิฐเปลือย",
+        "subject": "บ้านที่ถูกทิ้งร้างและสร้างไม่เสร็จใน Desa Subang Permai รัฐเซอลาโงร์"
+      },
+      {
+        "alt": "อาคารร้างที่ผุพังตามกาลเวลา สีลอกและช่องหน้าต่างว่างเปล่าในมะละกา",
+        "subject": "อาคารร้างที่ถูกทิ้งไม่ใช้งานในมะละกา"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah rumah setingkat yang usang dibiarkan terbengkalai, dengan tumbuhan yang meliar dan dinding bata yang terdedah",
+        "subject": "Rumah terbengkalai yang tidak siap di Desa Subang Permai, Selangor"
+      },
+      {
+        "alt": "Sebuah bangunan terbengkalai yang lusuh dengan cat terkelupas dan bukaan tingkap yang kosong di Melaka",
+        "subject": "Bangunan terbengkalai yang tidak lagi digunakan di Melaka"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah rumah satu lantai yang rusak dibiarkan telantar, dengan tumbuhan liar dan dinding bata yang terbuka",
+        "subject": "Rumah telantar yang belum rampung di Desa Subang Permai, Selangor"
+      },
+      {
+        "alt": "Sebuah bangunan telantar yang lapuk dengan cat mengelupas dan lubang jendela kosong di Melaka",
+        "subject": "Sebuah bangunan telantar yang tidak lagi terpakai di Melaka"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một ngôi nhà một tầng đổ nát bị bỏ hoang, với cây cỏ mọc um tùm và tường gạch trần",
+        "subject": "Một ngôi nhà bị bỏ hoang, xây dở tại Desa Subang Permai, Selangor"
+      },
+      {
+        "alt": "Một tòa nhà bỏ hoang cũ kỹ với lớp sơn bong tróc và các ô cửa sổ trống hoác ở Melaka",
+        "subject": "Một tòa nhà bị bỏ hoang, không còn sử dụng ở Melaka"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "மண்டிக் கிடக்கும் செடிகளுடனும் வெளித்தெரியும் செங்கல் சுவருடனும், கைவிடப்பட்டு பாழடைந்த ஒரு ஒற்றைத் தள வீடு",
+        "subject": "செலாங்கூர், Desa Subang Permai இல் கைவிடப்பட்ட, முடிக்கப்படாத வீடு"
+      },
+      {
+        "alt": "மலாக்காவில் உரிந்த வண்ணப்பூச்சுடனும் வெற்று ஜன்னல் திறப்புகளுடனும் பழுதடைந்த ஒரு கைவிடப்பட்ட கட்டிடம்",
+        "subject": "மலாக்காவில் பயன்பாடற்ற, கைவிடப்பட்ட கட்டிடம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक जर्जर एक-मंज़िला मकान जिसे छोड़ दिया गया है, जिसमें उगी हुई वनस्पति और नंगी ईंटें हैं",
+        "subject": "देसा सुबांग पर्माई, सेलांगोर में एक परित्यक्त, अधूरा मकान"
+      },
+      {
+        "alt": "मेलाका में एक मौसम-मारी परित्यक्त इमारत, जिसका रंग उखड़ रहा है और खिड़कियों के खुले खाली छेद हैं",
+        "subject": "मेलाका में एक बेकार, परित्यक्त इमारत"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "منزل متهالك من طابق واحد تُرك مهجورًا، تكسوه نباتات متضخّمة وجدران من الطوب العاري",
+        "subject": "منزل مهجور غير مكتمل في Desa Subang Permai، سلانجور"
+      },
+      {
+        "alt": "مبنى مهجور عليه آثار الطقس، بطلاء متقشّر وفتحات نوافذ خالية في ملقا",
+        "subject": "مبنى مهجور ومهمل في ملقا"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una casa ruinosa de una sola planta dejada en abandono, con vegetación crecida y ladrillo visto",
+        "subject": "Una casa abandonada y sin terminar en Desa Subang Permai, Selangor"
+      },
+      {
+        "alt": "Un edificio abandonado y deteriorado por la intemperie, con la pintura descascarillada y los huecos de las ventanas vacíos, en Melaka",
+        "subject": "Un edificio abandonado y en desuso en Melaka"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une maison délabrée de plain-pied laissée à l'abandon, envahie par la végétation et aux briques nues",
+        "subject": "Une maison abandonnée et inachevée à Desa Subang Permai, Selangor"
+      },
+      {
+        "alt": "Un bâtiment abandonné rongé par les intempéries, à la peinture écaillée et aux ouvertures de fenêtres vides, à Melaka",
+        "subject": "Un bâtiment désaffecté et abandonné à Melaka"
+      }
+    ]
+  },
+  "property/internet-and-fibre": {
+    "zh": [
+      {
+        "alt": "坐落于布城（Putrajaya）的马来西亚电信（Telekom Malaysia）办公大楼，该公司是国家固网与光纤运营商",
+        "subject": "布城的马来西亚电信（TM）办公大楼"
+      },
+      {
+        "alt": "安装在家中墙上、标有FiberHome字样的Unifi光纤调制解调器",
+        "subject": "安装在马来西亚家庭中的Unifi光纤宽带调制解调器（FiberHome ONT）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "プトラジャヤにあるTelekom Malaysia（TM）の社屋。全国の固定回線・光ファイバー事業者である。",
+        "subject": "プトラジャヤのTelekom Malaysia（TM）社屋"
+      },
+      {
+        "alt": "家の中の壁に取り付けられた、FiberHomeブランドのUnifi光ファイバーモデム",
+        "subject": "マレーシアの家庭に設置されたUnifi光ファイバーブロードバンドモデム（FiberHome ONT）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "푸트라자야에 있는 Telekom Malaysia(TM) 사옥. 전국 유선 및 광섬유 사업자다.",
+        "subject": "푸트라자야의 Telekom Malaysia(TM) 사옥"
+      },
+      {
+        "alt": "집 안 벽에 설치된 FiberHome 브랜드의 Unifi 광섬유 모뎀",
+        "subject": "말레이시아 가정에 설치된 Unifi 광섬유 브로드밴드 모뎀(FiberHome ONT)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารสำนักงานของ Telekom Malaysia ในปุตราจายา ซึ่งเป็นผู้ให้บริการโทรศัพท์พื้นฐานและไฟเบอร์ระดับชาติ",
+        "subject": "อาคารสำนักงานของ Telekom Malaysia (TM) ในปุตราจายา"
+      },
+      {
+        "alt": "โมเด็มไฟเบอร์ออปติก Unifi ยี่ห้อ FiberHome ติดตั้งอยู่บนผนังภายในบ้าน",
+        "subject": "โมเด็มบรอดแบนด์ไฟเบอร์ Unifi (FiberHome ONT) ที่ติดตั้งในบ้านของมาเลเซีย"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah bangunan pejabat Telekom Malaysia, pengendali talian tetap dan gentian optik kebangsaan, di Putrajaya",
+        "subject": "Bangunan pejabat Telekom Malaysia (TM) di Putrajaya"
+      },
+      {
+        "alt": "Sebuah modem gentian optik Unifi berjenama FiberHome dipasang pada dinding di dalam sebuah rumah",
+        "subject": "Modem jalur lebar gentian optik Unifi (ONT FiberHome) yang dipasang di sebuah rumah di Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah gedung kantor Telekom Malaysia, operator telepon kabel dan fiber optik nasional, di Putrajaya",
+        "subject": "Gedung kantor Telekom Malaysia (TM) di Putrajaya"
+      },
+      {
+        "alt": "Sebuah modem fiber optik Unifi bermerek FiberHome terpasang di dinding di dalam sebuah rumah",
+        "subject": "Modem broadband fiber optik Unifi (ONT FiberHome) yang terpasang di sebuah rumah di Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một tòa nhà văn phòng Telekom Malaysia, nhà mạng điện thoại cố định và cáp quang quốc gia, ở Putrajaya",
+        "subject": "Tòa nhà văn phòng Telekom Malaysia (TM) ở Putrajaya"
+      },
+      {
+        "alt": "Một modem cáp quang Unifi nhãn hiệu FiberHome gắn trên tường bên trong một ngôi nhà",
+        "subject": "Modem băng thông rộng cáp quang Unifi (ONT FiberHome) lắp đặt trong một ngôi nhà ở Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "புத்ராஜெயாவில் தேசிய நிலையான தொலைபேசி இணைப்பு மற்றும் ஒளியிழை இணைப்பு நிறுவனமான Telekom Malaysia இன் அலுவலகக் கட்டிடம்",
+        "subject": "புத்ராஜெயாவில் உள்ள Telekom Malaysia (TM) அலுவலகக் கட்டிடம்"
+      },
+      {
+        "alt": "ஒரு வீட்டிற்குள் சுவரில் பொருத்தப்பட்ட, FiberHome பிராண்ட் கொண்ட Unifi ஒளியிழை மோடம்",
+        "subject": "மலேசிய வீடொன்றில் பொருத்தப்பட்ட Unifi ஒளியிழை பிராட்பேண்ட் மோடம் (FiberHome ONT)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "पुत्रजया में Telekom Malaysia का एक कार्यालय भवन, राष्ट्रीय फिक्स्ड-लाइन और फाइबर ऑपरेटर",
+        "subject": "पुत्रजया में एक Telekom Malaysia (TM) कार्यालय भवन"
+      },
+      {
+        "alt": "एक घर के अंदर दीवार पर लगा FiberHome-ब्रांड का Unifi फाइबर ऑप्टिक मॉडेम",
+        "subject": "एक मलेशियाई घर में लगा एक Unifi फाइबर ब्रॉडबैंड मॉडेम (FiberHome ONT)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مبنى مكاتب تابع لـ Telekom Malaysia، المشغّل الوطني للخطوط الثابتة والألياف البصرية، في بوتراجايا",
+        "subject": "مبنى مكاتب لـ Telekom Malaysia (TM) في بوتراجايا"
+      },
+      {
+        "alt": "مودم ألياف بصرية من Unifi يحمل علامة FiberHome مثبّت على جدار داخل منزل",
+        "subject": "مودم إنترنت بالألياف البصرية من Unifi (FiberHome ONT) مُركَّب في منزل ماليزي"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un edificio de oficinas de Telekom Malaysia, el operador nacional de telefonía fija y fibra, en Putrajaya",
+        "subject": "Un edificio de oficinas de Telekom Malaysia (TM) en Putrajaya"
+      },
+      {
+        "alt": "Un módem de fibra óptica Unifi de marca FiberHome montado en la pared dentro de una vivienda",
+        "subject": "Un módem de banda ancha por fibra Unifi (ONT FiberHome) instalado en una vivienda malasia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un immeuble de bureaux de Telekom Malaysia, l'opérateur national de la ligne fixe et de la fibre, à Putrajaya",
+        "subject": "Un immeuble de bureaux de Telekom Malaysia (TM) à Putrajaya"
+      },
+      {
+        "alt": "Un modem à fibre optique Unifi de marque FiberHome fixé à un mur à l'intérieur d'une maison",
+        "subject": "Un modem haut débit par fibre Unifi (ONT FiberHome) installé dans une maison malaisienne"
+      }
+    ]
+  },
+  "property/landlord-has-not-returned-the-deposit": {
+    "zh": [
+      {
+        "alt": "吉隆坡一栋较老旧的低层公共无电梯组屋，窗口晾着衣物",
+        "subject": "吉隆坡较老旧的无电梯出租组屋（百乐宫组屋Pekeliling Flats）"
+      },
+      {
+        "alt": "雪兰莪Rasa一条住宅街道旁的一排单层排屋",
+        "subject": "雪兰莪Rasa的一排排屋，一种常见的出租住宅类型"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "窓から洗濯物が吊るされた、クアラルンプールの古い低層の公共階段式フラット一棟",
+        "subject": "クアラルンプールの古い階段式賃貸フラット（Pekeliling Flats）"
+      },
+      {
+        "alt": "セランゴール州Rasaの住宅街に沿って並ぶ平屋のテラスハウスの列",
+        "subject": "セランゴール州Rasaのテラスハウスの列。賃貸住宅としてよく見られる型"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "창문마다 빨래가 널린, 쿠알라룸푸르의 오래된 저층 공공 계단식 아파트 한 동",
+        "subject": "쿠알라룸푸르의 오래된 계단식 임대 아파트(Pekeliling Flats)"
+      },
+      {
+        "alt": "슬랑오르주 Rasa의 주택가 거리를 따라 늘어선 단층 테라스하우스의 줄",
+        "subject": "슬랑오르주 Rasa의 테라스하우스 한 줄, 흔한 임대 주택 유형"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารแฟลตสาธารณะแบบเดินขึ้นเตี้ยๆ รุ่นเก่าที่มีผ้าซักตากห้อยจากหน้าต่างในกัวลาลัมเปอร์",
+        "subject": "แฟลตเช่าแบบเดินขึ้นรุ่นเก่า (Pekeliling Flats) ในกัวลาลัมเปอร์"
+      },
+      {
+        "alt": "แถวบ้านทาวน์เฮาส์ชั้นเดียวริมถนนย่านที่พักอาศัยใน Rasa รัฐเซอลาโงร์",
+        "subject": "แถวบ้านทาวน์เฮาส์ใน Rasa รัฐเซอลาโงร์ ซึ่งเป็นบ้านเช่าประเภทที่พบได้ทั่วไป"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah blok flat awam tanpa lif yang lama dan rendah dengan pakaian tersidai di tingkap di Kuala Lumpur",
+        "subject": "Flat sewa tanpa lif yang lama (Flat Pekeliling) di Kuala Lumpur"
+      },
+      {
+        "alt": "Sederet rumah teres setingkat di sepanjang jalan kediaman di Rasa, Selangor",
+        "subject": "Sederet rumah teres di Rasa, Selangor, jenis rumah sewa yang biasa"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah blok rumah susun publik tanpa lift model lama dan bertingkat rendah dengan jemuran menggantung di jendela di Kuala Lumpur",
+        "subject": "Rumah susun sewa tanpa lift model lama (Flat Pekeliling) di Kuala Lumpur"
+      },
+      {
+        "alt": "Sederet rumah deret satu lantai di sepanjang jalan permukiman di Rasa, Selangor",
+        "subject": "Sederet rumah deret di Rasa, Selangor, jenis rumah sewa yang umum"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một khối chung cư công cộng kiểu cũ, thấp tầng, không thang máy với quần áo phơi treo bên cửa sổ ở Kuala Lumpur",
+        "subject": "Chung cư cho thuê kiểu cũ không thang máy (khu Flat Pekeliling) ở Kuala Lumpur"
+      },
+      {
+        "alt": "Một dãy nhà phố liền kề một tầng dọc theo con đường dân cư ở Rasa, Selangor",
+        "subject": "Một dãy nhà phố liền kề ở Rasa, Selangor, một loại nhà cho thuê phổ biến"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கோலாலம்பூரில் ஜன்னல்களில் துணிகள் தொங்கவிடப்பட்ட, லிப்ட் இல்லாத பழைய, தாழ்வான பொதுக் குடியிருப்புத் தொகுதி ஒன்று",
+        "subject": "கோலாலம்பூரில் லிப்ட் இல்லாத பழைய வாடகைக் குடியிருப்புகள் (Pekeliling Flats)"
+      },
+      {
+        "alt": "செலாங்கூர், Rasa வில் ஒரு குடியிருப்புத் தெரு வழியே அமைந்த ஒற்றைத் தள வரிசை வீடுகளின் வரிசை",
+        "subject": "செலாங்கூர், Rasa வில் வரிசை வீடுகளின் ஒரு வரிசை; வாடகைக்கு வழக்கமாக எடுக்கப்படும் வீட்டு வகை"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कुआलालंपुर में पुराने निचले सार्वजनिक वॉक-अप फ्लैटों का एक ब्लॉक, जिसकी खिड़कियों से कपड़े लटके हुए हैं",
+        "subject": "कुआलालंपुर में पुराने वॉक-अप किराये के फ्लैट (Pekeliling Flats)"
+      },
+      {
+        "alt": "Rasa, सेलांगोर में एक आवासीय गली के किनारे एक-मंज़िला टैरेस मकानों की एक कतार",
+        "subject": "Rasa, सेलांगोर में टैरेस मकानों की एक कतार, किराये के घर का एक आम प्रकार"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مبنى من شقق عامة قديمة منخفضة الارتفاع بلا مصاعد، تتدلّى الغسيل من نوافذه في كوالالمبور",
+        "subject": "شقق إيجار قديمة بلا مصاعد (Pekeliling Flats) في كوالالمبور"
+      },
+      {
+        "alt": "صفّ من المنازل الصفّية ذات الطابق الواحد على طول شارع سكني في Rasa، سلانجور",
+        "subject": "صفّ من المنازل الصفّية في Rasa، سلانجور، وهو نوع شائع من المنازل المؤجَّرة"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un bloque de antiguos pisos públicos de poca altura sin ascensor, con ropa tendida en las ventanas, en Kuala Lumpur",
+        "subject": "Antiguos pisos de alquiler sin ascensor (los Pekeliling Flats) en Kuala Lumpur"
+      },
+      {
+        "alt": "Una hilera de casas adosadas de una sola planta a lo largo de una calle residencial en Rasa, Selangor",
+        "subject": "Una hilera de casas adosadas en Rasa, Selangor, un tipo habitual de vivienda de alquiler"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un bloc d'anciens logements publics de faible hauteur sans ascenseur, du linge pendu aux fenêtres, à Kuala Lumpur",
+        "subject": "Anciens logements locatifs sans ascenseur (les Pekeliling Flats) à Kuala Lumpur"
+      },
+      {
+        "alt": "Une rangée de maisons mitoyennes de plain-pied le long d'une rue résidentielle à Rasa, Selangor",
+        "subject": "Une rangée de maisons mitoyennes à Rasa, Selangor, un type courant de logement loué"
+      }
+    ]
+  },
+  "property/property-agents-and-fees": {
+    "zh": [
+      {
+        "alt": "标示Taman Sri Serdang住宅区入口的路边招牌",
+        "subject": "雪兰莪Seri Kembangan的Taman Sri Serdang住宅区招牌"
+      },
+      {
+        "alt": "柔佛居銮Jalan Anggerik上一栋带前院与一棵棕榈树的单层郊区房屋",
+        "subject": "柔佛居銮一条住宅街道上的郊区有地房屋"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "Taman Sri Serdang住宅地の入口を示す道路脇の看板",
+        "subject": "セランゴール州スリ・クンバンガンのTaman Sri Serdang住宅地の看板"
+      },
+      {
+        "alt": "ジョホール州クルアンのJalan Anggerikにある、前庭とヤシの木を備えた平屋の郊外住宅",
+        "subject": "ジョホール州クルアンの住宅街に建つ郊外の有地住宅"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "Taman Sri Serdang 주택단지 입구를 표시하는 길가 간판",
+        "subject": "슬랑오르주 스리 큼방안의 Taman Sri Serdang 주택단지 간판"
+      },
+      {
+        "alt": "조호르주 클루앙 Jalan Anggerik에 있는, 앞마당과 야자수 한 그루를 갖춘 단층 교외 주택",
+        "subject": "조호르주 클루앙의 주택가 거리에 자리한 교외 유지 주택"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ป้ายริมถนนที่บ่งบอกทางเข้าหมู่บ้านที่พักอาศัย Taman Sri Serdang",
+        "subject": "ป้ายหมู่บ้านจัดสรร Taman Sri Serdang ในเซอรีเกิมบางัน รัฐเซอลาโงร์"
+      },
+      {
+        "alt": "บ้านชานเมืองชั้นเดียวพร้อมสนามหน้าบ้านและต้นปาล์มบนถนนจาลันอังเกอริกในกลวง รัฐยะโฮร์",
+        "subject": "บ้านมีที่ดินชานเมืองบนถนนย่านที่พักอาศัยในกลวง รัฐยะโฮร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah papan tanda tepi jalan yang menandai pintu masuk ke taman perumahan Taman Sri Serdang",
+        "subject": "Papan tanda taman perumahan di Taman Sri Serdang, Seri Kembangan, Selangor"
+      },
+      {
+        "alt": "Sebuah rumah pinggir bandar setingkat dengan laman depan dan sebatang pokok palma di Jalan Anggerik, Kluang, Johor",
+        "subject": "Rumah bertanah pinggir bandar di sebuah jalan kediaman di Kluang, Johor"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah papan nama di tepi jalan yang menandai pintu masuk ke kompleks perumahan Taman Sri Serdang",
+        "subject": "Papan nama kompleks perumahan di Taman Sri Serdang, Seri Kembangan, Selangor"
+      },
+      {
+        "alt": "Sebuah rumah pinggiran kota satu lantai dengan halaman depan dan sebatang pohon palem di Jalan Anggerik, Kluang, Johor",
+        "subject": "Rumah tapak pinggiran kota di sebuah jalan permukiman di Kluang, Johor"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một tấm bảng hiệu bên đường đánh dấu lối vào khu dân cư Taman Sri Serdang",
+        "subject": "Bảng hiệu khu dân cư tại Taman Sri Serdang, Seri Kembangan, Selangor"
+      },
+      {
+        "alt": "Một ngôi nhà vùng ven một tầng với sân trước và một cây cọ trên đường Jalan Anggerik, Kluang, Johor",
+        "subject": "Một ngôi nhà gắn liền với đất ở vùng ven trên con phố dân cư tại Kluang, Johor"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "Taman Sri Serdang குடியிருப்புப் பகுதியின் நுழைவாயிலைக் குறிக்கும் சாலையோர பெயர்ப்பலகை",
+        "subject": "செலாங்கூர், Seri Kembangan, Taman Sri Serdang இல் ஒரு குடியிருப்புப் பகுதி பெயர்ப்பலகை"
+      },
+      {
+        "alt": "ஜொகூர், க்லுவாங்கில் Jalan Anggerik இல் முன்புற முற்றமும் ஒரு பனை மரமும் கொண்ட ஒற்றைத் தள புறநகர் வீடு",
+        "subject": "ஜொகூர், க்லுவாங்கில் ஒரு குடியிருப்புத் தெருவில் அமைந்த புறநகர் நிலத்துடன் கூடிய வீடு"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "Taman Sri Serdang आवासीय कॉलोनी के प्रवेश को चिह्नित करता एक सड़क-किनारे का साइनबोर्ड",
+        "subject": "Taman Sri Serdang, Seri Kembangan, सेलांगोर में एक आवासीय कॉलोनी का साइनबोर्ड"
+      },
+      {
+        "alt": "क्लुआंग, जोहोर में Jalan Anggerik पर एक सामने के आँगन और एक ताड़ के पेड़ वाला एक-मंज़िला उपनगरीय मकान",
+        "subject": "क्लुआंग, जोहोर में एक आवासीय गली पर एक उपनगरीय भू-स्वामित्व वाला मकान"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "لافتة على جانب الطريق تحدّد مدخل حيّ Taman Sri Serdang السكني",
+        "subject": "لافتة حيّ سكني في Taman Sri Serdang، Seri Kembangan، سلانجور"
+      },
+      {
+        "alt": "منزل من طابق واحد في الضواحي بفناء أمامي ونخلة على Jalan Anggerik، Kluang، جوهور",
+        "subject": "منزل أرضي في الضواحي على شارع سكني في Kluang، جوهور"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un cartel a pie de carretera que señala la entrada a la urbanización residencial Taman Sri Serdang",
+        "subject": "Un cartel de urbanización residencial en Taman Sri Serdang, Seri Kembangan, Selangor"
+      },
+      {
+        "alt": "Una casa suburbana de una sola planta con jardín delantero y una palmera en Jalan Anggerik, Kluang, Johor",
+        "subject": "Una casa suburbana con terreno en una calle residencial de Kluang, Johor"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un panneau en bord de route marquant l'entrée du lotissement résidentiel de Taman Sri Serdang",
+        "subject": "Un panneau de lotissement résidentiel à Taman Sri Serdang, Seri Kembangan, Selangor"
+      },
+      {
+        "alt": "Une maison de banlieue de plain-pied avec une cour avant et un palmier sur Jalan Anggerik, Kluang, Johor",
+        "subject": "Une maison individuelle de banlieue dans une rue résidentielle de Kluang, Johor"
+      }
+    ]
+  },
+  "property/property-inheritance-faraid-distribution": {
+    "zh": [
+      {
+        "alt": "一栋传统的高脚木造马来屋，有坡形屋顶，坐落在乡村环境中",
+        "subject": "传统的木造马来甘榜（kampung）屋，一种常被继承的家庭住宅类型"
+      },
+      {
+        "alt": "霹雳Temoh一栋老旧的单层有地房屋，是常传给后代继承的那一类",
+        "subject": "霹雳Temoh一栋老旧的有地祖屋"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "切妻屋根を持つ、高床式の伝統的なマレー木造家屋が田園の中に建つ",
+        "subject": "伝統的な木造のマレー・カンポン（kampung）家屋。相続されることの多い家族の住まいの型"
+      },
+      {
+        "alt": "ペラ州Temohの古びた平屋の有地住宅。しばしば相続人へ受け継がれる類のもの",
+        "subject": "ペラ州Temohの古い有地の家族住宅"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "박공지붕을 얹은 전통 고상식 말레이 목조 가옥이 시골 풍경 속에 서 있다",
+        "subject": "전통 목조 말레이 캄풍(kampung) 가옥, 흔히 상속되는 가족 주택 유형"
+      },
+      {
+        "alt": "페락주 Temoh의 낡은 단층 유지 주택, 흔히 상속인에게 물려주는 유형",
+        "subject": "페락주 Temoh의 오래된 유지 가족 주택"
+      }
+    ],
+    "th": [
+      {
+        "alt": "บ้านไม้มลายูแบบดั้งเดิมยกเสาสูงหลังคาจั่วตั้งอยู่ในบรรยากาศชนบท",
+        "subject": "บ้านไม้มลายูแบบกัมปง(kampung)ดั้งเดิม ซึ่งเป็นบ้านครอบครัวประเภทที่มักได้รับสืบทอดเป็นมรดก"
+      },
+      {
+        "alt": "บ้านมีที่ดินชั้นเดียวหลังเก่าใน Temoh รัฐเประ ประเภทที่มักส่งต่อให้ทายาท",
+        "subject": "บ้านครอบครัวแบบมีที่ดินหลังเก่าใน Temoh รัฐเประ"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah rumah Melayu kayu tradisional bertiang dengan bumbung bercerun di kawasan luar bandar",
+        "subject": "Rumah kampung Melayu kayu tradisional, jenis rumah keluarga yang lazim diwarisi"
+      },
+      {
+        "alt": "Sebuah rumah bertanah setingkat yang semakin usang di Temoh, Perak, jenis yang sering diwariskan kepada waris",
+        "subject": "Sebuah rumah keluarga bertanah yang lama di Temoh, Perak"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah rumah Melayu kayu tradisional berpanggung dengan atap berbentuk pelana di kawasan pedesaan",
+        "subject": "Rumah kampung Melayu kayu tradisional, jenis rumah keluarga yang lazim diwariskan"
+      },
+      {
+        "alt": "Sebuah rumah tapak satu lantai yang kian tua di Temoh, Perak, jenis yang sering diwariskan kepada ahli waris",
+        "subject": "Sebuah rumah keluarga tapak yang tua di Temoh, Perak"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một ngôi nhà gỗ truyền thống của người Mã Lai dựng trên cột sàn với mái dốc ở vùng nông thôn",
+        "subject": "Ngôi nhà gỗ truyền thống của người Mã Lai ở làng (kampung), một loại nhà gia đình thường được thừa kế"
+      },
+      {
+        "alt": "Một ngôi nhà gắn liền với đất một tầng đang xuống cấp ở Temoh, Perak, loại thường được truyền lại cho người thừa kế",
+        "subject": "Một ngôi nhà gia đình gắn liền với đất cũ kỹ ở Temoh, Perak"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கிராமப்புறத்தில் சரிவு கூரையுடன் தூண்களின் மேல் கட்டப்பட்ட பாரம்பரிய மரத்தாலான மலாய் வீடு",
+        "subject": "பாரம்பரிய மரத்தாலான மலாய் கிராம (கம்போங்) வீடு; பொதுவாக வாரிசாகக் கிடைக்கும் குடும்ப வீட்டு வகை"
+      },
+      {
+        "alt": "பேராக், Temoh இல் பழமையடைந்து வரும் ஒற்றைத் தள நிலத்துடன் கூடிய வீடு; பெரும்பாலும் வாரிசுகளுக்குக் கைமாற்றப்படும் வகை இது",
+        "subject": "பேராக், Temoh இல் ஒரு பழைய நிலத்துடன் கூடிய குடும்ப வீடு"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "ग्रामीण परिवेश में एक पारंपरिक, खंभों पर खड़ा, ढलवाँ छत वाला लकड़ी का मलय मकान",
+        "subject": "एक पारंपरिक लकड़ी का मलय कम्पुंग मकान, पारिवारिक घर का एक आमतौर पर विरासत में मिलने वाला प्रकार"
+      },
+      {
+        "alt": "तेमोह, पेराक में एक पुराना होता एक-मंज़िला भू-स्वामित्व वाला मकान, जिस प्रकार का घर अक्सर वारिसों को सौंपा जाता है",
+        "subject": "तेमोह, पेराक में एक पुराना भू-स्वामित्व वाला पारिवारिक मकान"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "منزل ماليزي تقليدي من الخشب قائم على ركائز بسقف مائل في بيئة ريفية",
+        "subject": "منزل كامبونغ ماليزي تقليدي من الخشب، وهو نوع شائع من منازل العائلة التي تُورَّث"
+      },
+      {
+        "alt": "منزل أرضي قديم من طابق واحد في Temoh، بيراك، من النوع الذي كثيرًا ما يُورَّث للورثة",
+        "subject": "منزل عائلي أرضي قديم في Temoh، بيراك"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una casa malaya tradicional de madera sobre pilotes con tejado a dos aguas en un entorno rural",
+        "subject": "Una casa malaya tradicional de madera de kampung, un tipo de vivienda familiar que suele heredarse"
+      },
+      {
+        "alt": "Una envejecida casa con terreno de una sola planta en Temoh, Perak, del tipo que a menudo se transmite a los herederos",
+        "subject": "Una antigua casa familiar con terreno en Temoh, Perak"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une maison malaise traditionnelle en bois sur pilotis au toit en pente dans un cadre rural",
+        "subject": "Une maison malaise traditionnelle en bois de kampung, un type de maison familiale souvent transmise en héritage"
+      },
+      {
+        "alt": "Une maison individuelle de plain-pied vieillissante à Temoh, Perak, du type souvent transmis aux héritiers",
+        "subject": "Une ancienne maison familiale individuelle à Temoh, Perak"
+      }
+    ]
+  },
+  "property/real-property-gains-tax": {
+    "zh": [
+      {
+        "alt": "吉隆坡Segambut的Riana Dutamas住宅发展项目路边的销售展示厅与巨型字母招牌，新房便是在此推销与售出",
+        "subject": "吉隆坡Segambut的Riana Dutamas住宅发展项目的销售展示厅与招牌"
+      },
+      {
+        "alt": "Kampung Kuala Lah一栋现代独立式甘榜房屋，带金属屋顶，代表一栋脱售时可能触发房产盈利税（RPGT）的有地住宅",
+        "subject": "Kampung Kuala Lah一栋现代独立式甘榜房屋"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "クアラルンプールのSegambutにあるRiana Dutamas住宅開発の、道路脇の販売ギャラリー棟と大きな文字看板。ここで新築住宅が売り込まれ、販売される。",
+        "subject": "クアラルンプール・SegambutのRiana Dutamas住宅開発の販売ギャラリーと看板"
+      },
+      {
+        "alt": "Kampung Kuala Lahにある金属屋根の現代的な独立型カンポン家屋。売却時に不動産譲渡益税（RPGT）が生じうる有地住宅を表す。",
+        "subject": "Kampung Kuala Lahの現代的な独立型カンポン家屋"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "쿠알라룸푸르 Segambut의 Riana Dutamas 주택 개발 길가에 선 분양 갤러리 건물과 큰 글자 간판. 이곳에서 새 주택이 마케팅되고 판매된다.",
+        "subject": "쿠알라룸푸르 Segambut Riana Dutamas 주택 개발의 분양 갤러리와 간판"
+      },
+      {
+        "alt": "Kampung Kuala Lah에 있는 금속 지붕의 현대식 단독 캄풍 가옥. 처분 시 부동산양도소득세(RPGT)가 발생할 수 있는 유지 주택을 나타낸다.",
+        "subject": "Kampung Kuala Lah의 현대식 단독 캄풍 가옥"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ศาลาห้องขายโครงการริมถนนและป้ายตัวอักษรขนาดใหญ่ของโครงการที่อยู่อาศัย Riana Dutamas ในเซอกัมบุต กัวลาลัมเปอร์ ที่ซึ่งบ้านใหม่ถูกทำการตลาดและจำหน่าย",
+        "subject": "ศาลาห้องขายและป้ายของโครงการที่อยู่อาศัย Riana Dutamas ในเซอกัมบุต กัวลาลัมเปอร์"
+      },
+      {
+        "alt": "บ้านกัมปงเดี่ยวสมัยใหม่หลังคาโลหะใน Kampung Kuala Lah ซึ่งแทนบ้านมีที่ดินที่การจำหน่ายอาจทำให้เกิดภาษีกำไรจากการขายอสังหาริมทรัพย์(RPGT)",
+        "subject": "บ้านกัมปงเดี่ยวสมัยใหม่ใน Kampung Kuala Lah"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pavilion galeri jualan tepi jalan dan papan tanda bertulisan besar pembangunan kediaman Riana Dutamas di Segambut, Kuala Lumpur, tempat rumah baharu dipasarkan dan dijual",
+        "subject": "Galeri jualan dan papan tanda pembangunan kediaman Riana Dutamas, Segambut, Kuala Lumpur"
+      },
+      {
+        "alt": "Sebuah rumah kampung Malaysia berasingan moden dengan bumbung logam, mewakili rumah bertanah yang pelupusannya boleh mencetuskan cukai keuntungan harta tanah",
+        "subject": "Sebuah rumah kampung berasingan moden di Kampung Kuala Lah"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Paviliun galeri penjualan di tepi jalan dan papan bertuliskan huruf besar proyek hunian Riana Dutamas di Segambut, Kuala Lumpur, tempat rumah baru dipasarkan dan dijual",
+        "subject": "Galeri penjualan dan papan penanda proyek hunian Riana Dutamas, Segambut, Kuala Lumpur"
+      },
+      {
+        "alt": "Sebuah rumah kampung Malaysia terpisah modern dengan atap logam, mewakili rumah tapak yang penjualannya dapat memicu pajak keuntungan atas properti (real property gains tax)",
+        "subject": "Sebuah rumah kampung terpisah modern di Kampung Kuala Lah"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Gian phòng trưng bày bán hàng bên đường và biển hiệu chữ lớn của dự án nhà ở Riana Dutamas tại Segambut, Kuala Lumpur, nơi những ngôi nhà mới được quảng bá và rao bán",
+        "subject": "Phòng trưng bày bán hàng và biển hiệu của dự án nhà ở Riana Dutamas, Segambut, Kuala Lumpur"
+      },
+      {
+        "alt": "Một ngôi nhà làng (kampung) Malaysia đơn lập hiện đại với mái tôn, tiêu biểu cho nhà gắn liền với đất mà việc chuyển nhượng có thể phát sinh thuế lợi nhuận bất động sản (RPGT)",
+        "subject": "Một ngôi nhà làng đơn lập hiện đại ở Kampung Kuala Lah"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கோலாலம்பூர், Segambut இல் புதிய வீடுகள் சந்தைப்படுத்தப்பட்டு விற்கப்படும் Riana Dutamas குடியிருப்புத் திட்டத்தின் சாலையோர விற்பனைக் கூட மண்டபம் மற்றும் பெரிய எழுத்துப் பெயர்ப்பலகை",
+        "subject": "கோலாலம்பூர், Segambut இல் உள்ள Riana Dutamas குடியிருப்புத் திட்டத்தின் விற்பனைக் கூடம் மற்றும் பெயர்ப்பலகை"
+      },
+      {
+        "alt": "உலோகக் கூரையுடன் கூடிய ஒரு நவீன தனித்த மலேசிய கிராம (கம்போங்) வீடு; விற்பனை செய்தால் ரியல் ப்ராப்பர்ட்டி கெயின்ஸ் வரி (RPGT) விதிக்கப்படக்கூடிய நிலத்துடன் கூடிய வீட்டைக் குறிக்கிறது",
+        "subject": "Kampung Kuala Lah இல் ஒரு நவீன தனித்த கிராம வீடு"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "सेगाम्बुत, कुआलालंपुर में Riana Dutamas आवासीय विकास का सड़क-किनारे का सेल्स गैलरी मंडप और बड़े अक्षरों वाला साइनबोर्ड, जहाँ नए घरों का विपणन और बिक्री होती है",
+        "subject": "Riana Dutamas आवासीय विकास की सेल्स गैलरी और साइनबोर्ड, सेगाम्बुत, कुआलालंपुर"
+      },
+      {
+        "alt": "धातु की छत वाला एक आधुनिक स्वतंत्र मलेशियाई कम्पुंग मकान, एक भू-स्वामित्व वाले घर का प्रतिनिधित्व करता है जिसके निपटान पर रियल प्रॉपर्टी गेंस टैक्स लग सकता है",
+        "subject": "कम्पुंग कुआला लाह में एक आधुनिक स्वतंत्र गाँव का मकान"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "جناح معرض البيع على جانب الطريق واللافتة الكبيرة بحروف بارزة لمشروع Riana Dutamas السكني في Segambut، كوالالمبور، حيث تُسوَّق المنازل الجديدة وتُباع",
+        "subject": "معرض البيع ولافتات مشروع Riana Dutamas السكني، Segambut، كوالالمبور"
+      },
+      {
+        "alt": "منزل كامبونغ ماليزي حديث منفصل بسقف معدني، يمثّل منزلًا أرضيًا قد يستوجب التصرّف فيه ضريبة أرباح العقارات (real property gains tax)",
+        "subject": "منزل قروي حديث منفصل في Kampung Kuala Lah"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El pabellón de la galería de ventas a pie de carretera y la gran rotulación de la promoción residencial Riana Dutamas en Segambut, Kuala Lumpur, donde se comercializan y venden las viviendas nuevas",
+        "subject": "La galería de ventas y la rotulación de la promoción residencial Riana Dutamas, Segambut, Kuala Lumpur"
+      },
+      {
+        "alt": "Una moderna casa de kampung malasia independiente con tejado metálico, que representa una vivienda con terreno cuya transmisión puede dar lugar al impuesto sobre las plusvalías inmobiliarias",
+        "subject": "Una moderna casa de pueblo independiente en Kampung Kuala Lah"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Le pavillon de la galerie de vente en bord de route et la grande signalétique en lettres du programme résidentiel Riana Dutamas à Segambut, Kuala Lumpur, où les logements neufs sont commercialisés et vendus",
+        "subject": "La galerie de vente et la signalétique du programme résidentiel Riana Dutamas, Segambut, Kuala Lumpur"
+      },
+      {
+        "alt": "Une maison de kampung malaisienne moderne et individuelle au toit métallique, représentant une propriété foncière dont la cession peut déclencher l'impôt sur les plus-values immobilières",
+        "subject": "Une maison de village moderne individuelle à Kampung Kuala Lah"
+      }
+    ]
+  },
+  "property/renovation-permits-and-ccc": {
+    "zh": [
+      {
+        "alt": "雪兰莪一场排屋翻新中，水泥批荡的墙面、新开凿的窗口以及一袋袋建材",
+        "subject": "雪兰莪排屋翻新期间新批荡的墙面与新开的窗口"
+      },
+      {
+        "alt": "雪兰莪一处排屋翻新工地上，一个盛满木料边角料与建筑碎料的金属垃圾斗（skip）",
+        "subject": "雪兰莪排屋翻新工地上一个盛满建筑废料的垃圾斗（skip）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "セランゴール州でのテラスハウス改修中の、セメントで仕上げた壁、新たに開けた窓の開口部、そして積まれた建材の袋",
+        "subject": "セランゴール州のテラスハウス改修で仕上げたばかりの壁と新設の窓開口"
+      },
+      {
+        "alt": "セランゴール州のテラスハウス改修現場の外に置かれた、木材の端材と建設がれきで満たされた金属製のスキップ（廃材用コンテナ）",
+        "subject": "セランゴール州のテラスハウス改修現場の建設がれきを満載したスキップ"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "슬랑오르주의 테라스하우스 개보수 중 시멘트로 미장한 벽면, 새로 낸 창문 구멍, 그리고 쌓인 건축 자재 포대",
+        "subject": "슬랑오르주 테라스하우스 개보수 중 갓 미장한 벽과 새로 낸 창문 구멍"
+      },
+      {
+        "alt": "슬랑오르주의 테라스하우스 개보수 현장 밖에 놓인, 목재 자투리와 건축 폐기물로 가득 찬 금속 폐기물 수거함(skip)",
+        "subject": "슬랑오르주 테라스하우스 개보수 현장의 건축 폐기물이 가득한 수거함(skip)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ผนังฉาบปูนและช่องหน้าต่างที่เพิ่งเจาะใหม่ พร้อมถุงวัสดุก่อสร้างระหว่างการปรับปรุงบ้านทาวน์เฮาส์ในรัฐเซอลาโงร์",
+        "subject": "ผนังที่เพิ่งฉาบปูนและช่องหน้าต่างใหม่ระหว่างการปรับปรุงบ้านทาวน์เฮาส์ในรัฐเซอลาโงร์"
+      },
+      {
+        "alt": "ถังขยะโลหะ(skip)ที่เต็มไปด้วยเศษไม้และเศษวัสดุก่อสร้างนอกบ้านทาวน์เฮาส์ที่กำลังปรับปรุงในรัฐเซอลาโงร์",
+        "subject": "ถังขยะโลหะ(skip)ที่เต็มไปด้วยเศษวัสดุก่อสร้างที่ไซต์ปรับปรุงบ้านทาวน์เฮาส์ในรัฐเซอลาโงร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Dinding bersalut simen dengan bukaan tingkap yang baru dibentuk dan beg bahan binaan semasa pengubahsuaian rumah teres di Malaysia",
+        "subject": "Dinding yang baru diplaster dan bukaan tingkap baharu semasa pengubahsuaian rumah teres di Selangor"
+      },
+      {
+        "alt": "Sebuah tong logam besar penuh dengan cebisan kayu dan serpihan binaan di luar sebuah rumah teres di Malaysia yang sedang diubah suai",
+        "subject": "Tong sampah besar berisi serpihan pembinaan di tapak pengubahsuaian rumah teres di Selangor"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Dinding berlapis semen dengan bukaan jendela yang baru dibentuk dan karung bahan bangunan saat renovasi rumah deret di Malaysia",
+        "subject": "Dinding yang baru diplester dan bukaan jendela baru saat renovasi rumah deret di Selangor"
+      },
+      {
+        "alt": "Sebuah kontainer logam besar penuh potongan kayu dan puing bangunan di luar sebuah rumah deret di Malaysia yang sedang direnovasi",
+        "subject": "Kontainer sampah berisi puing konstruksi di lokasi renovasi rumah deret di Selangor"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những bức tường trát vữa xi măng với các ô cửa sổ vừa tạo và các bao vật liệu xây dựng trong lúc cải tạo một căn nhà phố liền kề ở Malaysia",
+        "subject": "Những bức tường vừa trát và các ô cửa sổ mới trong lúc cải tạo nhà phố liền kề ở Selangor"
+      },
+      {
+        "alt": "Một thùng kim loại lớn chứa đầy gỗ vụn và phế thải xây dựng bên ngoài một căn nhà phố liền kề ở Malaysia đang được cải tạo",
+        "subject": "Một thùng chứa phế thải xây dựng tại công trường cải tạo nhà phố liền kề ở Selangor"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "மலேசியாவில் வரிசை வீடு புதுப்பிப்பின்போது சிமெண்ட் பூசப்பட்ட சுவர்கள், புதிதாக உருவாக்கப்பட்ட ஜன்னல் திறப்புகள் மற்றும் கட்டுமானப் பொருள் மூட்டைகள்",
+        "subject": "செலாங்கூரில் வரிசை வீடு புதுப்பிப்பின்போது புதிதாகப் பூசப்பட்ட சுவர்களும் புதிய ஜன்னல் திறப்புகளும்"
+      },
+      {
+        "alt": "மலேசியாவில் புதுப்பிக்கப்பட்டு வரும் ஒரு வரிசை வீட்டிற்கு வெளியே மரத்துண்டுகளும் கட்டுமானக் கழிவுகளும் நிறைந்த ஒரு பெரிய உலோகக் கழிவுத் தொட்டி",
+        "subject": "செலாங்கூரில் வரிசை வீடு புதுப்பிப்புத் தளத்தில் கட்டுமானக் கழிவுகள் நிறைந்த பெரிய கழிவுத் தொட்டி"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक मलेशियाई टैरेस-मकान के नवीनीकरण के दौरान सीमेंट से पलस्तर की गई दीवारें, जिनमें नई बनी खिड़की की खुली जगहें और निर्माण सामग्री के बोरे हैं",
+        "subject": "सेलांगोर में एक टैरेस-मकान के नवीनीकरण के दौरान ताज़ा प्लास्टर की गई दीवारें और नई खिड़की की खुली जगहें"
+      },
+      {
+        "alt": "नवीनीकरण के दौर से गुज़र रहे एक मलेशियाई टैरेस मकान के बाहर लकड़ी के कटे टुकड़ों और निर्माण मलबे से भरा एक धातु का स्किप",
+        "subject": "सेलांगोर में एक टैरेस-मकान के नवीनीकरण स्थल पर निर्माण मलबे से भरा एक स्किप"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "جدران مكسوّة بالإسمنت بفتحات نوافذ حديثة التشكيل وأكياس من مواد البناء أثناء تجديد منزل صفّي ماليزي",
+        "subject": "جدران حديثة التلييس وفتحات نوافذ جديدة أثناء تجديد منزل صفّي في سلانجور"
+      },
+      {
+        "alt": "حاوية معدنية مملوءة بقصاصات الخشب ومخلفات البناء خارج منزل صفّي ماليزي قيد التجديد",
+        "subject": "حاوية نفايات (skip) مملوءة بمخلفات البناء في موقع تجديد منزل صفّي في سلانجور"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Paredes revestidas de cemento con huecos de ventana recién abiertos y sacos de material de construcción durante la reforma de una casa adosada malasia",
+        "subject": "Paredes recién enlucidas y nuevos huecos de ventana durante la reforma de una casa adosada en Selangor"
+      },
+      {
+        "alt": "Un contenedor metálico lleno de recortes de madera y escombros de obra frente a una casa adosada malasia en reforma",
+        "subject": "Un contenedor de escombros de obra en una casa adosada en reforma en Selangor"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Murs enduits de ciment aux ouvertures de fenêtres nouvellement formées et sacs de matériaux de construction lors de la rénovation d'une maison mitoyenne malaisienne",
+        "subject": "Murs fraîchement enduits et nouvelles ouvertures de fenêtres lors de la rénovation d'une maison mitoyenne au Selangor"
+      },
+      {
+        "alt": "Une benne métallique remplie de chutes de bois et de gravats de chantier devant une maison mitoyenne malaisienne en cours de rénovation",
+        "subject": "Une benne de gravats de chantier sur un chantier de rénovation de maison mitoyenne au Selangor"
+      }
+    ]
+  },
+  "property/renting-a-home-tenancy": {
+    "zh": [
+      {
+        "alt": "吉隆坡河畔密集的高层公寓组屋，代表马来西亚的出租住房",
+        "subject": "吉隆坡Abdullah Hukum的高层公寓组屋"
+      },
+      {
+        "alt": "槟城乔治市（George Town）郊区的中高层公寓楼，是马来西亚常见供出租的住宅类型",
+        "subject": "槟城乔治市郊区的公寓楼"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "クアラルンプールの川沿いに密集する高層アパートのフラット群。マレーシアの賃貸住宅を表す。",
+        "subject": "クアラルンプール・Abdullah Hukumの高層アパートフラット"
+      },
+      {
+        "alt": "ペナン州ジョージタウン郊外の中高層アパート群。マレーシアで賃貸に出される住宅の典型だ。",
+        "subject": "ペナン州ジョージタウン郊外のアパート群"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "쿠알라룸푸르 강변에 빽빽이 들어선 고층 아파트 단지. 말레이시아의 임대 주택을 나타낸다.",
+        "subject": "쿠알라룸푸르 Abdullah Hukum의 고층 아파트"
+      },
+      {
+        "alt": "페낭주 조지타운 교외의 중·고층 아파트 단지. 말레이시아에서 임대로 나오는 주택의 전형이다.",
+        "subject": "페낭주 조지타운 교외의 아파트 단지"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารอพาร์ตเมนต์สูงหนาแน่นริมแม่น้ำในกัวลาลัมเปอร์ ซึ่งแทนที่พักอาศัยสำหรับเช่าในมาเลเซีย",
+        "subject": "อาคารอพาร์ตเมนต์สูงที่ Abdullah Hukum กัวลาลัมเปอร์"
+      },
+      {
+        "alt": "อาคารอพาร์ตเมนต์ระดับกลางถึงสูงในย่านชานเมืองของจอร์จทาวน์ รัฐปีนัง อันเป็นแบบฉบับของบ้านที่เปิดให้เช่าในมาเลเซีย",
+        "subject": "อาคารอพาร์ตเมนต์ในย่านชานเมืองจอร์จทาวน์ รัฐปีนัง"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pangsapuri bertingkat tinggi yang padat di tepi sungai di Kuala Lumpur, mewakili perumahan sewa di Malaysia",
+        "subject": "Pangsapuri bertingkat tinggi di Abdullah Hukum, Kuala Lumpur"
+      },
+      {
+        "alt": "Blok pangsapuri bertingkat sederhana dan tinggi di pinggir bandar George Town, Pulau Pinang, tipikal rumah yang ditawarkan untuk disewa di Malaysia",
+        "subject": "Blok pangsapuri di pinggir bandar George Town, Pulau Pinang"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Apartemen bertingkat tinggi yang padat di tepi sungai di Kuala Lumpur, mewakili perumahan sewa di Malaysia",
+        "subject": "Apartemen bertingkat tinggi di Abdullah Hukum, Kuala Lumpur"
+      },
+      {
+        "alt": "Blok apartemen bertingkat menengah dan tinggi di pinggiran kota George Town, Penang, khas rumah yang ditawarkan untuk disewa di Malaysia",
+        "subject": "Blok apartemen di pinggiran kota George Town, Penang"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những khối chung cư căn hộ cao tầng dày đặc bên bờ sông ở Kuala Lumpur, tiêu biểu cho nhà ở cho thuê tại Malaysia",
+        "subject": "Chung cư căn hộ cao tầng tại Abdullah Hukum, Kuala Lumpur"
+      },
+      {
+        "alt": "Các khối chung cư căn hộ tầm trung và cao tầng ở vùng ven George Town, Penang, điển hình cho nhà cho thuê tại Malaysia",
+        "subject": "Các khối chung cư căn hộ ở vùng ven George Town, Penang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கோலாலம்பூரில் ஆற்றங்கரையில் அடர்த்தியாக அமைந்த உயரமான அடுக்குமாடிக் குடியிருப்புகள்; மலேசியாவில் வாடகை வீடுகளைக் குறிக்கின்றன",
+        "subject": "கோலாலம்பூர், Abdullah Hukum இல் உயரமான அடுக்குமாடிக் குடியிருப்புகள்"
+      },
+      {
+        "alt": "பினாங்கு, புறநகர் ஜார்ஜ் டவுனில் நடுத்தர மற்றும் உயரமான அடுக்குமாடிக் கட்டிடத் தொகுதிகள்; மலேசியாவில் வாடகைக்கு வழங்கப்படும் வீடுகளுக்கு வழக்கமானவை",
+        "subject": "பினாங்கு, புறநகர் ஜார்ஜ் டவுனில் அடுக்குமாடிக் கட்டிடத் தொகுதிகள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कुआलालंपुर में एक नदी के किनारे घने ऊँचे अपार्टमेंट फ्लैट, मलेशिया में किराये के आवास का प्रतिनिधित्व करते हैं",
+        "subject": "अब्दुल्लाह हुकुम, कुआलालंपुर में ऊँचे अपार्टमेंट फ्लैट"
+      },
+      {
+        "alt": "उपनगरीय जॉर्ज टाउन, पेनांग में मध्यम और ऊँचे अपार्टमेंट ब्लॉक, मलेशिया में किराये पर दिए जाने वाले घरों के विशिष्ट",
+        "subject": "उपनगरीय जॉर्ज टाउन, पेनांग में अपार्टमेंट ब्लॉक"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "شقق سكنية شاهقة كثيفة بجانب نهر في كوالالمبور، تمثّل الإسكان الإيجاري في ماليزيا",
+        "subject": "شقق سكنية شاهقة في Abdullah Hukum، كوالالمبور"
+      },
+      {
+        "alt": "مبانٍ سكنية متوسطة وشاهقة الارتفاع في ضواحي George Town، بينانغ، نموذجية للمنازل المعروضة للإيجار في ماليزيا",
+        "subject": "مبانٍ سكنية في ضواحي George Town، بينانغ"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Densos pisos de apartamentos de gran altura junto a un río en Kuala Lumpur, representativos de la vivienda de alquiler en Malasia",
+        "subject": "Pisos de apartamentos de gran altura en Abdullah Hukum, Kuala Lumpur"
+      },
+      {
+        "alt": "Bloques de apartamentos de altura media y gran altura en los suburbios de George Town, Penang, típicos de las viviendas que se ofrecen en alquiler en Malasia",
+        "subject": "Bloques de apartamentos en los suburbios de George Town, Penang"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des immeubles d'appartements de grande hauteur serrés au bord d'une rivière à Kuala Lumpur, représentatifs du logement locatif en Malaisie",
+        "subject": "Immeubles d'appartements de grande hauteur à Abdullah Hukum, Kuala Lumpur"
+      },
+      {
+        "alt": "Des immeubles d'appartements de moyenne et grande hauteur dans la banlieue de George Town, Penang, typiques des logements proposés à la location en Malaisie",
+        "subject": "Immeubles d'appartements dans la banlieue de George Town, Penang"
+      }
+    ]
+  },
+  "property/rubbish-and-local-council": {
+    "zh": [
+      {
+        "alt": "雪兰莪哥打白沙罗（Kota Damansara）一处草地边缘，一个标有MBPJ地方议会徽章的蓝色公共垃圾桶",
+        "subject": "哥打白沙罗一个印有MBPJ（八打灵再也市政厅）徽章的议会垃圾桶"
+      },
+      {
+        "alt": "吉隆坡一处公共场所的一排四个贴有标签的回收桶，分别回收纸张、罐与塑料、玻璃以及不可回收垃圾",
+        "subject": "吉隆坡用于纸张、罐与塑料、玻璃及不可回收垃圾的分类回收桶"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "セランゴール州コタ・ダマンサラの草地の縁に置かれた、MBPJ地方議会の紋章が入った青い公共ごみ箱",
+        "subject": "コタ・ダマンサラの、MBPJ（ペタリン・ジャヤ市議会）の紋章を掲げた議会のごみ箱"
+      },
+      {
+        "alt": "クアラルンプールの公共スペースに並ぶ、紙、缶とプラスチック、ガラス、リサイクル不可のごみ用にラベル付けされた4つのリサイクル箱の列",
+        "subject": "クアラルンプールの、紙・缶とプラスチック・ガラス・リサイクル不可のごみを分別するリサイクル箱"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "슬랑오르주 코타 다만사라의 잔디밭 가장자리에 놓인, MBPJ 지방의회 문장이 표시된 파란색 공공 쓰레기통",
+        "subject": "코타 다만사라의 MBPJ(페탈링자야 시의회) 문장이 새겨진 의회 쓰레기통"
+      },
+      {
+        "alt": "쿠알라룸푸르의 한 공공장소에 놓인, 종이, 캔과 플라스틱, 유리, 재활용 불가 쓰레기용으로 라벨이 붙은 재활용함 네 개가 늘어선 줄",
+        "subject": "쿠알라룸푸르의 종이·캔과 플라스틱·유리·재활용 불가 쓰레기 분리 재활용함"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ถังขยะสาธารณะสีน้ำเงินที่มีตราสัญลักษณ์ของสภาท้องถิ่น MBPJ ตั้งอยู่บนขอบสนามหญ้าในโกตาดามันซารา รัฐเซอลาโงร์",
+        "subject": "ถังขยะของสภาท้องถิ่นที่มีตราสัญลักษณ์ MBPJ (สภาเทศบาลนครเปอตาลิงจายา) ในโกตาดามันซารา"
+      },
+      {
+        "alt": "ถังรีไซเคิลติดป้ายสี่ใบเรียงกันสำหรับกระดาษ กระป๋องและพลาสติก แก้ว และขยะที่รีไซเคิลไม่ได้ ณ สถานที่สาธารณะในกัวลาลัมเปอร์",
+        "subject": "ถังรีไซเคิลแยกประเภทสำหรับกระดาษ กระป๋องและพลาสติก แก้ว และขยะที่รีไซเคิลไม่ได้ในกัวลาลัมเปอร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah tong sampah awam berwarna biru bertanda jata majlis tempatan MBPJ di tepi rumput di Kota Damansara, Selangor",
+        "subject": "Tong sampah majlis dengan jata MBPJ (Majlis Bandaraya Petaling Jaya) di Kota Damansara"
+      },
+      {
+        "alt": "Sederet empat tong kitar semula berlabel untuk kertas, tin dan plastik, kaca serta sisa tidak boleh dikitar semula di sebuah lokasi awam di Kuala Lumpur",
+        "subject": "Tong kitar semula berasingan untuk kertas, tin dan plastik, kaca serta sisa tidak boleh dikitar semula di Kuala Lumpur"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah tempat sampah publik berwarna biru bertanda lambang dewan setempat MBPJ di tepi rumput di Kota Damansara, Selangor",
+        "subject": "Tempat sampah dinas dengan lambang MBPJ (Majlis Bandaraya Petaling Jaya) di Kota Damansara"
+      },
+      {
+        "alt": "Sederet empat tempat sampah daur ulang berlabel untuk kertas, kaleng dan plastik, kaca, serta sampah tidak dapat didaur ulang di sebuah tempat umum di Kuala Lumpur",
+        "subject": "Tempat sampah daur ulang terpisah untuk kertas, kaleng dan plastik, kaca, serta sampah tidak dapat didaur ulang di Kuala Lumpur"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một thùng rác công cộng màu xanh mang huy hiệu hội đồng địa phương MBPJ trên dải cỏ ven đường ở Kota Damansara, Selangor",
+        "subject": "Thùng rác của hội đồng mang huy hiệu MBPJ (Hội đồng Thành phố Petaling Jaya) ở Kota Damansara"
+      },
+      {
+        "alt": "Một dãy bốn thùng tái chế có nhãn cho giấy, lon và nhựa, thủy tinh, và rác không tái chế được tại một địa điểm công cộng ở Kuala Lumpur",
+        "subject": "Các thùng tái chế phân loại cho giấy, lon và nhựa, thủy tinh, và rác không tái chế được ở Kuala Lumpur"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "செலாங்கூர், Kota Damansara இல் புல் ஓரத்தில் MBPJ உள்ளூர் மன்றச் சின்னம் பொறித்த ஒரு நீல நிற பொது குப்பைத் தொட்டி",
+        "subject": "Kota Damansara இல் MBPJ (பெட்டாலிங் ஜெயா நகர மன்றம்) சின்னம் பொறித்த மன்றக் குப்பைத் தொட்டி"
+      },
+      {
+        "alt": "கோலாலம்பூரில் ஒரு பொது இடத்தில் காகிதம், டின் மற்றும் பிளாஸ்டிக், கண்ணாடி, மறுசுழற்சி செய்ய முடியாத கழிவு ஆகியவற்றுக்கு லேபிள் இடப்பட்ட நான்கு மறுசுழற்சித் தொட்டிகளின் வரிசை",
+        "subject": "கோலாலம்பூரில் காகிதம், டின் மற்றும் பிளாஸ்டிக், கண்ணாடி, மறுசுழற்சி செய்ய முடியாத கழிவு ஆகியவற்றுக்கான தனித்தனி மறுசுழற்சித் தொட்டிகள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कोटा दमनसारा, सेलांगोर में एक घास की पट्टी पर MBPJ स्थानीय-परिषद के प्रतीक-चिह्न से अंकित एक नीला सार्वजनिक कूड़ादान",
+        "subject": "कोटा दमनसारा में MBPJ (पेटालिंग जया नगर परिषद) के प्रतीक-चिह्न वाला एक परिषद कूड़ादान"
+      },
+      {
+        "alt": "कुआलालंपुर में एक सार्वजनिक स्थान पर कागज़, डिब्बे और प्लास्टिक, काँच तथा गैर-पुनर्चक्रण-योग्य कचरे के लिए चार लेबल वाले रीसाइक्लिंग डिब्बों की एक कतार",
+        "subject": "कुआलालंपुर में कागज़, डिब्बे और प्लास्टिक, काँच तथा गैर-पुनर्चक्रण-योग्य कचरे के लिए अलग-अलग रीसाइक्लिंग डिब्बे"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "حاوية قمامة عامة زرقاء تحمل شعار المجلس المحلي MBPJ على حافة عشبية في Kota Damansara، سلانجور",
+        "subject": "حاوية قمامة تابعة للمجلس تحمل شعار MBPJ (مجلس مدينة Petaling Jaya) في Kota Damansara"
+      },
+      {
+        "alt": "صفّ من أربع حاويات إعادة تدوير معنونة للورق والعلب والبلاستيك والزجاج والنفايات غير القابلة لإعادة التدوير في مكان عام بكوالالمبور",
+        "subject": "حاويات إعادة تدوير مفصولة للورق والعلب والبلاستيك والزجاج والنفايات غير القابلة لإعادة التدوير في كوالالمبور"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una papelera pública azul marcada con el escudo del ayuntamiento MBPJ en un arcén de hierba en Kota Damansara, Selangor",
+        "subject": "Un contenedor de basura municipal con el escudo del MBPJ (Ayuntamiento de Petaling Jaya) en Kota Damansara"
+      },
+      {
+        "alt": "Una hilera de cuatro contenedores de reciclaje etiquetados para papel, latas y plástico, vidrio y residuos no reciclables en un lugar público de Kuala Lumpur",
+        "subject": "Contenedores de reciclaje separados para papel, latas y plástico, vidrio y residuos no reciclables en Kuala Lumpur"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une poubelle publique bleue marquée du blason du conseil local MBPJ sur un bas-côté herbeux à Kota Damansara, Selangor",
+        "subject": "Une poubelle municipale portant le blason du MBPJ (conseil municipal de Petaling Jaya) à Kota Damansara"
+      },
+      {
+        "alt": "Une rangée de quatre bacs de recyclage étiquetés pour le papier, les canettes et le plastique, le verre et les déchets non recyclables dans un lieu public de Kuala Lumpur",
+        "subject": "Bacs de recyclage séparés pour le papier, les canettes et le plastique, le verre et les déchets non recyclables à Kuala Lumpur"
+      }
+    ]
+  },
+  "property/strata-management-jmb-mc": {
+    "zh": [
+      {
+        "alt": "北海（Butterworth）Harbour View的一组现代分层（strata）公寓高楼，正是这类由联合管理机构（JMB）或管理机构（MC）运营的发展项目",
+        "subject": "北海Harbour View的一组分层公寓高楼"
+      },
+      {
+        "alt": "槟城垄尾（Gelugor）The Oasis分层公寓的围篱入口、守卫亭与公共会所楼，其后方是住宅高楼",
+        "subject": "槟城垄尾The Oasis公寓的守卫入口与会所"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ペナン州バターワースのHarbour Viewに建つ現代的なストラータ・コンドミニアムの塔の一群。JMB（共同管理体）や管理法人（MC）が運営する、まさにこうした開発だ。",
+        "subject": "バターワース・Harbour Viewのストラータ・コンドミニアム高層群"
+      },
+      {
+        "alt": "ペナン州ゲルゴールのThe Oasisストラータ・コンドミニアムのゲート付き入口、守衛所、共用クラブハウス棟。その後ろに住宅塔が控える。",
+        "subject": "ペナン州ゲルゴールのThe Oasisコンドミニアムの守衛付き入口とクラブハウス"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "페낭주 버터워스 Harbour View에 들어선 현대식 스트라타 콘도미니엄 타워 군집. JMB(공동관리기구)나 관리법인(MC)이 운영하는, 바로 이런 유형의 개발 단지다.",
+        "subject": "버터워스 Harbour View의 스트라타 콘도미니엄 고층 군집"
+      },
+      {
+        "alt": "페낭주 겔루고르 The Oasis 스트라타 콘도미니엄의 출입 통제 입구, 경비실, 공용 클럽하우스 동. 그 뒤로 주거 타워가 자리한다.",
+        "subject": "페낭주 겔루고르 The Oasis 콘도미니엄의 경비 입구와 클럽하우스"
+      }
+    ],
+    "th": [
+      {
+        "alt": "กลุ่มอาคารคอนโดมิเนียมแบบสตราตาสมัยใหม่ที่ Harbour View ในบัตเตอร์เวิร์ธ รัฐปีนัง อันเป็นโครงการประเภทที่บริหารโดย JMB หรือนิติบุคคลอาคารชุด(MC)",
+        "subject": "กลุ่มอาคารคอนโดมิเนียมแบบสตราตาที่ Harbour View บัตเตอร์เวิร์ธ"
+      },
+      {
+        "alt": "ทางเข้าแบบมีรั้ว ป้อมยาม และอาคารคลับเฮาส์ส่วนกลางของคอนโดมิเนียมแบบสตราตา The Oasis ในเกอลูโกร์ รัฐปีนัง โดยมีอาคารที่พักอาศัยอยู่ด้านหลัง",
+        "subject": "ทางเข้าที่มีการ์ดและคลับเฮาส์ของคอนโดมิเนียม The Oasis ในเกอลูโกร์ รัฐปีนัง"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sekelompok menara kondominium strata moden di Harbour View, Butterworth, Pulau Pinang, jenis pembangunan yang diuruskan oleh JMB atau perbadanan pengurusan",
+        "subject": "Sekelompok kondominium strata bertingkat tinggi di Harbour View, Butterworth"
+      },
+      {
+        "alt": "Pintu masuk berpagar, pondok pengawal dan blok rumah kelab bersama Kondominium strata The Oasis di Gelugor, Pulau Pinang, dengan menara kediamannya di belakang",
+        "subject": "Pintu masuk berpengawal dan rumah kelab Kondominium The Oasis di Gelugor, Pulau Pinang"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sekelompok menara kondominium strata modern di Harbour View, Butterworth, Penang, jenis proyek yang dikelola oleh JMB atau badan pengelola (management corporation)",
+        "subject": "Gugus kondominium strata bertingkat tinggi di Harbour View, Butterworth"
+      },
+      {
+        "alt": "Pintu masuk berpagar, pos penjaga, dan blok gedung klub bersama Kondominium strata The Oasis di Gelugor, Penang, dengan menara huniannya di belakang",
+        "subject": "Pintu masuk berpenjaga dan gedung klub Kondominium The Oasis di Gelugor, Penang"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một cụm tháp chung cư strata hiện đại tại Harbour View, Butterworth, Penang, loại dự án do JMB hoặc công ty quản lý (management corporation) điều hành",
+        "subject": "Một cụm chung cư strata cao tầng tại Harbour View, Butterworth"
+      },
+      {
+        "alt": "Lối vào có cổng, chòi bảo vệ và khối nhà câu lạc bộ chung của chung cư strata The Oasis ở Gelugor, Penang, với các tòa tháp căn hộ phía sau",
+        "subject": "Lối vào có bảo vệ và nhà câu lạc bộ của chung cư The Oasis ở Gelugor, Penang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பினாங்கு, Butterworth, Harbour View இல் நவீன ஸ்ட்ரேட்டா கான்டோமினியம் கோபுரங்களின் தொகுப்பு; JMB அல்லது மேலாண்மைக் கழகத்தால் நிர்வகிக்கப்படும் வகைத் திட்டம் இது",
+        "subject": "Butterworth, Harbour View இல் உயரமான ஸ்ட்ரேட்டா கான்டோமினியங்களின் தொகுப்பு"
+      },
+      {
+        "alt": "பினாங்கு, Gelugor இல் The Oasis ஸ்ட்ரேட்டா கான்டோமினியத்தின் வேலியிட்ட நுழைவாயில், காவல் அறை மற்றும் பொதுக் கிளப் ஹவுஸ் தொகுதி; பின்னால் அதன் குடியிருப்புக் கோபுரங்கள்",
+        "subject": "பினாங்கு, Gelugor இல் The Oasis கான்டோமினியத்தின் காவல் கொண்ட நுழைவாயிலும் கிளப் ஹவுஸும்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "बटरवर्थ, पेनांग में Harbour View पर आधुनिक स्ट्रेटा कोंडोमिनियम टावरों का एक समूह, वह प्रकार का विकास जिसे एक JMB या प्रबंधन निगम चलाता है",
+        "subject": "Harbour View, बटरवर्थ में स्ट्रेटा कोंडोमिनियम ऊँची इमारतों का एक समूह"
+      },
+      {
+        "alt": "गेलुगोर, पेनांग में The Oasis स्ट्रेटा कोंडोमिनियम का गेटेड प्रवेश, गार्डहाउस और साझा क्लबहाउस ब्लॉक, जिसके पीछे इसके आवासीय टावर हैं",
+        "subject": "गेलुगोर, पेनांग में The Oasis कोंडोमिनियम का पहरेदार प्रवेश और क्लबहाउस"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مجموعة من أبراج الكوندومينيوم الحديثة بنظام الستراتا في Harbour View بـ Butterworth، بينانغ، وهو نوع المشاريع التي تديرها هيئة إدارة مشتركة (JMB) أو مؤسسة إدارة",
+        "subject": "مجموعة من أبراج الكوندومينيوم الشاهقة بنظام الستراتا في Harbour View، Butterworth"
+      },
+      {
+        "alt": "المدخل المسوَّر وكشك الحراسة ومبنى النادي المشترك لكوندومينيوم The Oasis بنظام الستراتا في Gelugor، بينانغ، وخلفه أبراجه السكنية",
+        "subject": "المدخل المحروس والنادي المشترك لكوندومينيوم The Oasis في Gelugor، بينانغ"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un conjunto de modernas torres de condominios en régimen de strata en Harbour View, Butterworth, Penang, el tipo de promoción gestionada por un JMB o una corporación de gestión",
+        "subject": "Un conjunto de rascacielos de condominios en régimen de strata en Harbour View, Butterworth"
+      },
+      {
+        "alt": "La entrada cerrada, la caseta de vigilancia y el bloque de casa club común del condominio en régimen de strata The Oasis en Gelugor, Penang, con sus torres residenciales detrás",
+        "subject": "La entrada vigilada y la casa club del condominio The Oasis en Gelugor, Penang"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un ensemble de tours de copropriété modernes en régime strata à Harbour View, Butterworth, Penang, le type de résidence gérée par un JMB ou une société de gestion",
+        "subject": "Un ensemble de gratte-ciel de copropriété en régime strata à Harbour View, Butterworth"
+      },
+      {
+        "alt": "L'entrée fermée, la guérite de gardien et le bâtiment commun du club-house de la copropriété en régime strata The Oasis à Gelugor, Penang, avec ses tours résidentielles à l'arrière",
+        "subject": "L'entrée gardée et le club-house de la copropriété The Oasis à Gelugor, Penang"
+      }
+    ]
+  },
+  "property/water-supply": {
+    "zh": [
+      {
+        "alt": "横跨兰卡威Sungai Padang Matsirat的一座小型混凝土拦河堰与闸控水工建筑，是马来西亚供水基础设施的一部分",
+        "subject": "兰卡威Sungai Padang Matsirat上的一座拦河堰与水位控制建筑"
+      },
+      {
+        "alt": "柔佛一座标有Taman Setia Tropika字样的大型白色高架储水塔，为当地供水储存经处理的清水",
+        "subject": "柔佛Taman Setia Tropika的一座高架储水塔"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ランカウイのSungai Padang Matsiratに架かる、小さなコンクリート製の堰とゲート付き水位制御構造物。マレーシアの給水インフラの一部である。",
+        "subject": "ランカウイのSungai Padang Matsiratにある堰と水位制御構造物"
+      },
+      {
+        "alt": "ジョホール州の、Taman Setia Tropikaと記された大きな白い高架貯水タンク。地元の給水のために処理済みの水を貯めている。",
+        "subject": "ジョホール州Taman Setia Tropikaの高架貯水タンク"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "랑카위의 Sungai Padang Matsirat을 가로지르는 작은 콘크리트 보와 수문이 달린 수위 조절 구조물. 말레이시아 급수 기반시설의 일부다.",
+        "subject": "랑카위 Sungai Padang Matsirat의 보와 수위 조절 구조물"
+      },
+      {
+        "alt": "조호르주의 Taman Setia Tropika라고 표시된 큰 흰색 고가 저수탱크. 지역 급수를 위해 정수 처리된 물을 저장한다.",
+        "subject": "조호르주 Taman Setia Tropika의 고가 저수탱크"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ฝายคอนกรีตขนาดเล็กและโครงสร้างควบคุมน้ำแบบมีประตูระบายที่คร่อม Sungai Padang Matsirat ในลังกาวี อันเป็นส่วนหนึ่งของโครงสร้างพื้นฐานการประปาของมาเลเซีย",
+        "subject": "ฝายและโครงสร้างควบคุมระดับน้ำบน Sungai Padang Matsirat ในลังกาวี"
+      },
+      {
+        "alt": "ถังเก็บน้ำยกสูงสีขาวขนาดใหญ่ที่มีข้อความ Taman Setia Tropika ในรัฐยะโฮร์ ซึ่งกักเก็บน้ำประปาที่ผ่านการบำบัดไว้สำหรับการจ่ายน้ำในท้องถิ่น",
+        "subject": "ถังเก็บน้ำยกสูงที่ Taman Setia Tropika รัฐยะโฮร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah empangan kecil konkrit dan struktur kawalan air berpintu yang merentasi Sungai Padang Matsirat di Langkawi, sebahagian daripada infrastruktur bekalan air Malaysia",
+        "subject": "Empangan kecil sungai dan struktur kawalan air di Sungai Padang Matsirat, Langkawi"
+      },
+      {
+        "alt": "Sebuah tangki simpanan air tinggi berwarna putih yang besar bertanda Taman Setia Tropika di Johor, menyimpan air yang telah dirawat untuk bekalan tempatan",
+        "subject": "Tangki simpanan air tinggi di Taman Setia Tropika, Johor"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah bendung beton kecil dan struktur pengendali air berpintu yang melintasi Sungai Padang Matsirat di Langkawi, bagian dari infrastruktur pasokan air Malaysia",
+        "subject": "Bendung sungai dan struktur pengendali air di Sungai Padang Matsirat, Langkawi"
+      },
+      {
+        "alt": "Sebuah menara air tinggi berwarna putih berukuran besar bertanda Taman Setia Tropika di Johor, menampung air olahan untuk pasokan setempat",
+        "subject": "Menara air tinggi di Taman Setia Tropika, Johor"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một đập tràn bê tông nhỏ và công trình điều tiết nước có cửa van bắc qua Sungai Padang Matsirat ở Langkawi, một phần hạ tầng cấp nước của Malaysia",
+        "subject": "Đập tràn trên sông và công trình điều tiết nước trên Sungai Padang Matsirat, Langkawi"
+      },
+      {
+        "alt": "Một tháp chứa nước trên cao màu trắng lớn có chữ Taman Setia Tropika ở Johor, chứa nước đã xử lý cho nguồn cấp địa phương",
+        "subject": "Một tháp chứa nước trên cao tại Taman Setia Tropika, Johor"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "லங்காவியில் Sungai Padang Matsirat ஆற்றைக் குறுக்காகக் கடக்கும் ஒரு சிறிய கான்கிரீட் தடுப்பணையும் கதவு பொருத்திய நீர் கட்டுப்பாட்டு அமைப்பும்; மலேசியாவின் நீர் வழங்கல் உள்கட்டமைப்பின் ஒரு பகுதி",
+        "subject": "லங்காவி, Sungai Padang Matsirat இல் ஒரு ஆற்றுத் தடுப்பணையும் நீர் கட்டுப்பாட்டு அமைப்பும்"
+      },
+      {
+        "alt": "ஜொகூர், Taman Setia Tropika எனப் பெயரிடப்பட்ட ஒரு பெரிய வெள்ளை உயரமான நீர்த் தேக்கத் தொட்டி; உள்ளூர் வழங்கலுக்காக சுத்திகரிக்கப்பட்ட நீரைச் சேமித்து வைக்கிறது",
+        "subject": "ஜொகூர், Taman Setia Tropika இல் ஒரு உயரமான நீர்த் தேக்கத் தொட்டி"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "लंगकावी में Sungai Padang Matsirat पर फैली एक छोटी कंक्रीट की बाँध और गेट वाली जल-नियंत्रण संरचना, मलेशिया के जल-आपूर्ति ढाँचे का हिस्सा",
+        "subject": "Sungai Padang Matsirat, लंगकावी पर एक नदी बाँध और जल-नियंत्रण संरचना"
+      },
+      {
+        "alt": "जोहोर में Taman Setia Tropika अंकित एक बड़ा सफ़ेद ऊँचा जल-भंडारण टैंक, जो स्थानीय आपूर्ति के लिए शोधित पानी रखता है",
+        "subject": "Taman Setia Tropika, जोहोर में एक ऊँचा जल-भंडारण टैंक"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "سدّ خرساني صغير ومنشأة للتحكم في المياه ذات بوابات تمتدّ عبر Sungai Padang Matsirat في لنكاوي، جزء من بنية إمدادات المياه في ماليزيا",
+        "subject": "سدّ نهري ومنشأة للتحكم في المياه على Sungai Padang Matsirat، لنكاوي"
+      },
+      {
+        "alt": "خزان مياه مرتفع أبيض كبير يحمل اسم Taman Setia Tropika في جوهور، يحفظ المياه المعالَجة للإمداد المحلي",
+        "subject": "خزان مياه مرتفع في Taman Setia Tropika، جوهور"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un pequeño azud de hormigón y una estructura de control de agua con compuertas que cruza el Sungai Padang Matsirat en Langkawi, parte de la infraestructura de abastecimiento de agua de Malasia",
+        "subject": "Un azud fluvial y una estructura de control de agua en Sungai Padang Matsirat, Langkawi"
+      },
+      {
+        "alt": "Un gran depósito de agua elevado de color blanco marcado con Taman Setia Tropika en Johor, que almacena agua tratada para el abastecimiento local",
+        "subject": "Un depósito de agua elevado en Taman Setia Tropika, Johor"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un petit seuil en béton et un ouvrage de régulation des eaux à vannes franchissant le Sungai Padang Matsirat à Langkawi, élément de l'infrastructure d'approvisionnement en eau de la Malaisie",
+        "subject": "Un seuil de rivière et un ouvrage de régulation des eaux sur Sungai Padang Matsirat, Langkawi"
+      },
+      {
+        "alt": "Un grand réservoir d'eau surélevé blanc portant la mention Taman Setia Tropika à Johor, contenant de l'eau traitée pour l'approvisionnement local",
+        "subject": "Un réservoir d'eau surélevé à Taman Setia Tropika, Johor"
+      }
+    ]
   }
 }

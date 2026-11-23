@@ -88,6 +88,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-1.webp
+    alt: Dense high-rise apartment flats beside a river in Kuala Lumpur, representing rental housing in Malaysia
+    kind: representative
+    origin: third-party
+    subject: High-rise apartment flats at Abdullah Hukum, Kuala Lumpur
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abdullah_Hukum_Apartments_and_Putra_Ria_Apartments.jpg
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-2.webp
+    alt: Mid-rise and high-rise apartment blocks in suburban George Town, Penang, typical of homes offered for rent in Malaysia
+    kind: representative
+    origin: third-party
+    subject: Apartment blocks in suburban George Town, Penang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
 ---
 
 Ask a landlord and a tenant in Malaysia which law protects them, and most will guess wrong. There is no "Residential Tenancy Act" to reach for — no single statute setting notice periods, capping deposits, or spelling out what a landlord can and can't do at move-out.

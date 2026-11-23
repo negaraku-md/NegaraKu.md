@@ -35,7 +35,7 @@ faq:
     a: "ได้ ค่าใช้จ่ายที่เพิ่มหรือรักษามูลค่าของอสังหาริมทรัพย์ เช่น ค่าปรับปรุงและค่าต่อเติม สามารถหักได้ตราบใดที่มีใบเสร็จและเอกสารที่ถูกต้องรองรับ"
 
 lang: "th"
-sourceContentHash: "d30bca1500940866"
+sourceContentHash: "2413423d254ace48"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-1.webp
+    alt: ศาลาห้องขายโครงการริมถนนและป้ายตัวอักษรขนาดใหญ่ของโครงการที่อยู่อาศัย Riana Dutamas ในเซอกัมบุต กัวลาลัมเปอร์ ที่ซึ่งบ้านใหม่ถูกทำการตลาดและจำหน่าย
+    kind: representative
+    origin: third-party
+    subject: ศาลาห้องขายและป้ายของโครงการที่อยู่อาศัย Riana Dutamas ในเซอกัมบุต กัวลาลัมเปอร์
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Dutamas_Sales_Gallery,_Kampung_Pasir_Segambut_20230304_115010.jpg
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-2.webp
+    alt: บ้านกัมปงเดี่ยวสมัยใหม่หลังคาโลหะใน Kampung Kuala Lah ซึ่งแทนบ้านมีที่ดินที่การจำหน่ายอาจทำให้เกิดภาษีกำไรจากการขายอสังหาริมทรัพย์(RPGT)
+    kind: representative
+    origin: third-party
+    subject: บ้านกัมปงเดี่ยวสมัยใหม่ใน Kampung Kuala Lah
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Kuala_Lah_Modern_House.jpg
 ---
 
 คุณขายบ้านได้กำไร แต่ก่อนที่เงินจะเข้าบัญชี รัฐบาลต้องการส่วนแบ่งของตน นั่นคือ RPGT ภาษีที่ผู้ขายมักมองข้ามจนกระทั่งทนายหักเงินหลายพันริงกิตที่โต๊ะปิดการซื้อขาย

@@ -33,7 +33,7 @@ faq:
     a: "심판원 재정은 최종적이고 구속력이 있으며 법원 명령처럼 집행할 수 있습니다. 재정 불이행은 RM10,000에서 RM50,000의 벌금 또는 최대 2년의 징역, 또는 두 가지 모두에 처해질 수 있는 범죄입니다."
 
 lang: "ko"
-sourceContentHash: "df503ce18f77fc3f"
+sourceContentHash: "7d201d8e93333584"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Abandoned_building_in_Kampung_Masjid,_Gombak_20230930_102344.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-1.webp
+    alt: 잡초가 무성하게 자라고 벽돌이 그대로 드러난 채 방치된 미완성 단층 주택
+    kind: actual
+    origin: third-party
+    subject: 슬랑오르주 Desa Subang Permai의 버려진 미완성 주택
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_house_located_in_Desa_Subang_Permai_1.jpg
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-2.webp
+    alt: 페인트가 벗겨지고 창문 구멍이 뻥 뚫린 채 풍화된 믈라카의 폐건물
+    kind: actual
+    origin: third-party
+    subject: 믈라카의 버려진 폐건물
+    credit: User:Katangais / Wikimedia Commons
+    license: CC BY 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_Building_Melaka.jpg
 ---
 
 보증금을 이미 냈고, 매매계약에 서명했으며, 집 열쇠를 기다립니다 — 그런데 공사 현장이 몇 달째 조용합니다. 반도 말레이시아의 신규 주거용 주택 매수인에게, 법은 이런 상황이 벌어지기 전·도중·후에 걸쳐 실제로 여러 겹의 보호를 마련해 두고 있습니다. 관건은 무엇이 보호되는지, 그리고 일이 잘못되었을 때 어디로 가야 하는지를 아는 것입니다.

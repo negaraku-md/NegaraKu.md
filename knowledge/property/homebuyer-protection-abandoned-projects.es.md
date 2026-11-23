@@ -33,7 +33,7 @@ faq:
     a: "Un laudo del Tribunal es firme y vinculante y puede ejecutarse como una orden judicial. El incumplimiento de un laudo es un delito castigado con una multa de RM10,000 a RM50,000 o prisión de hasta dos años, o ambos."
 
 lang: "es"
-sourceContentHash: "df503ce18f77fc3f"
+sourceContentHash: "7d201d8e93333584"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Abandoned_building_in_Kampung_Masjid,_Gombak_20230930_102344.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-1.webp
+    alt: Una casa ruinosa de una sola planta dejada en abandono, con vegetación crecida y ladrillo visto
+    kind: actual
+    origin: third-party
+    subject: Una casa abandonada y sin terminar en Desa Subang Permai, Selangor
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_house_located_in_Desa_Subang_Permai_1.jpg
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-2.webp
+    alt: Un edificio abandonado y deteriorado por la intemperie, con la pintura descascarillada y los huecos de las ventanas vacíos, en Melaka
+    kind: actual
+    origin: third-party
+    subject: Un edificio abandonado y en desuso en Melaka
+    credit: User:Katangais / Wikimedia Commons
+    license: CC BY 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_Building_Melaka.jpg
 ---
 
 Ha pagado el depósito, ha firmado el Contrato de Compraventa y está esperando las llaves — y de repente la obra queda en silencio durante meses. Para los compradores de viviendas residenciales nuevas en la Malasia Peninsular, la ley en realidad ofrece varias capas de protección antes, durante y después de que surja una situación así. La clave está en saber qué está protegido y a quién acudir cuando algo sale mal.

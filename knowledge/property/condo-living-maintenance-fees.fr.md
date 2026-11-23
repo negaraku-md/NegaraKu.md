@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Toute personne qui possède, achète ou loue une unité dans un condominium, un appartement ou tout autre bien en copropriété (à titre de copropriété, strata-titled) de Malaisie, en Malaisie péninsulaire ou dans le Territoire fédéral de Labuan."
 
 lang: "fr"
-sourceContentHash: "02c5304754ea1783"
+sourceContentHash: "e57ff10a7a230e8f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bistari_Condominium,_Kuala_Lumpur_20240212_134920.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-1.webp
+    alt: Plusieurs tours de copropriété s'élèvent ensemble au-dessus d'Ampang à Kuala Lumpur, un ensemble de gratte-ciel dont les résidents partagent les charges d'entretien qui font fonctionner ascenseurs, piscines et sécurité.
+    kind: actual
+    origin: third-party
+    subject: Un ensemble de tours de copropriété à Ampang, Kuala Lumpur
+    credit: 龍崎 Jeffrey (Panoramio) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Condominium_Near_By_Tesco_Ampang_-_panoramio.jpg
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-2.webp
+    alt: Les multiples tours du Riana Green Condominium s'élèvent ensemble au milieu de la verdure à Petaling Jaya, une résidence en copropriété (strata) fermée dont les résidents partagent les charges d'entretien et un fonds de prévoyance.
+    kind: actual
+    origin: third-party
+    subject: L'ensemble Riana Green Condominium vu depuis la NKVE, Petaling Jaya, Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Green_Condominium_from_NKVE_in_Petaling_Jaya,_Selangor_20250402_155722.jpg
 ---
 
 Vous avez acheté l'unité. Vous n'avez pas acheté l'ascenseur, la guérite, la piscine, ni la canalisation qui traverse le mur que vous partagez avec votre voisin. Quelqu'un doit tout de même payer tout cela — et la loi scinde la facture en deux comptes que vous êtes légalement tenu de garder séparés.

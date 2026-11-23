@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "任何在马来西亚租房、购房或搬迁入住、需要接通固定宽带的人士。"
 
 lang: "zh"
-sourceContentHash: "bbd067458507d9b6"
+sourceContentHash: "1f75dbb83189587b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Telekom-Malaysia-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/internet-and-fibre/body-1.webp
+    alt: 坐落于布城（Putrajaya）的马来西亚电信（Telekom Malaysia）办公大楼，该公司是国家固网与光纤运营商
+    kind: representative
+    origin: third-party
+    subject: 布城的马来西亚电信（TM）办公大楼
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TM_building_in_Putrajaya.JPG
+  - role: scene
+    src: /media/property/internet-and-fibre/body-2.webp
+    alt: 安装在家中墙上、标有FiberHome字样的Unifi光纤调制解调器
+    kind: representative
+    origin: third-party
+    subject: 安装在马来西亚家庭中的Unifi光纤宽带调制解调器（FiberHome ONT）
+    credit: Thebaldball / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Unifi_FiberHome.jpg
 ---
 
 在你比较哪怕一令吉的价格之前，有一个更要紧的问题：光纤到底有没有接到你家门口？

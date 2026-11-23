@@ -27,7 +27,7 @@ verificationNeeded:
   - "이전의 산업용지에 대한 주 당국 동의 면제를 폐지한 국가토지법 개정의 정확한 인용과 연도는 개정법 자체의 원문과 대조하여 확인할 수 없었습니다. 이는 직접 읽은 1차 조항이 아니라 서로 수렴하는 2차 법률 해설에 근거하여 여기에 기술됩니다."
 
 lang: "ko"
-sourceContentHash: "108b77146a2f6cd9"
+sourceContentHash: "78ee4bcd8de014e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_348-Sentral-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-1.webp
+    alt: 고급 고층 콘도미니엄이 줄지어 쿠알라룸푸르 Mont Kiara의 스카이라인을 가득 메운다. 주재원들이 선호하는 이 지역에서 외국인 구매자는 주가 정한 최저 가격 기준을 넘어야 한다.
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 Mont Kiara의 고층 콘도미니엄 스카이라인
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skyline_of_Mont_Kiara,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-2.webp
+    alt: Forest City의 고급 워터프런트 타워들이 조호르의 매립지 위로 솟아오른다. 싱가포르 국경 인근에서 외국인 매수자를 겨냥해 대대적으로 마케팅되는 초대형 프로젝트다.
+    kind: actual
+    origin: third-party
+    subject: 조호르에서 건설 중인 Forest City 고급 워터프런트 개발
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City,_Johor_in_development.jpg
 ---
 
 홍콩에서 온 매수인이 페탈링자야(Petaling Jaya)의 세미디 하우스에 RM180만을 지불하기로 합의합니다. 금융이 마련되고, 매도인도 의사가 있으며, 가격은 온라인에서 인용되는 모든 기준을 통과합니다. 그럼에도 이 거래는, 샤알람(Shah Alam)의 한 주 정부 사무소가 — 자체 재량으로 — 외국인이 그 소유권을 갖도록 허용할지 결정하기 전까지는 완결될 수 없습니다.

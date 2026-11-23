@@ -35,7 +35,7 @@ faq:
     a: "Le non-respect d'une sentence est une infraction pénale en vertu de l'article 123 — une amende ne dépassant pas RM250,000 ou une peine d'emprisonnement ne dépassant pas 3 ans, ou les deux, avec une amende supplémentaire pouvant atteindre RM5,000 par jour pour une infraction continue. La plainte est déposée auprès du Commissaire aux bâtiments (COB)."
 
 lang: "fr"
-sourceContentHash: "c33c12700672ddab"
+sourceContentHash: "80ac685b0a5c215d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-1.webp
+    alt: Un ensemble de tours de copropriété modernes en régime strata à Harbour View, Butterworth, Penang, le type de résidence gérée par un JMB ou une société de gestion
+    kind: representative
+    origin: third-party
+    subject: Un ensemble de gratte-ciel de copropriété en régime strata à Harbour View, Butterworth
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Harbour_View,_Butterworth_20250917_103104.jpg
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-2.webp
+    alt: L'entrée fermée, la guérite de gardien et le bâtiment commun du club-house de la copropriété en régime strata The Oasis à Gelugor, Penang, avec ses tours résidentielles à l'arrière
+    kind: representative
+    origin: third-party
+    subject: L'entrée gardée et le club-house de la copropriété The Oasis à Gelugor, Penang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Oasis_condominium.jpg
 ---
 
 Vous achetez un lot de condominium, mais qui possède réellement l'ascenseur, la piscine et l'allée du parking — et qui a le droit de vous facturer une redevance mensuelle ? La réponse se trouve dans un niveau de gouvernance dont les acheteurs entendent rarement parler jusqu'à ce qu'un litige survienne : le cadre de la Loi sur la gestion de la copropriété de 2013 (loi 757).

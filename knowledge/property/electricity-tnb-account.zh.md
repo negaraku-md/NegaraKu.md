@@ -22,7 +22,7 @@ appliesTo: "任何搬入马来西亚新住宅或新场所、需要开通、过�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "163ba8d9c69cf9c9"
+sourceContentHash: "bbe7cffbe5401aa2"
 
 status: "published"
 aiAssisted: true
@@ -76,6 +76,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hezery99-TNB_electricity_meter.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-1.webp
+    alt: 八打灵再也Bandar Utama一座围起来的国能（TNB）变电站，是供电给雪兰莪每一个家庭TNB户头的电网中的一环。
+    kind: actual
+    origin: third-party
+    subject: 八打灵再也Bandar Utama的国能（TNB）变电站
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Electrical_Substation.jpg
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-2.webp
+    alt: 国能（TNB）位于Bandar Utama的主进电站（PPU）布满开关设备与龙门架，是电力抵达用户家中电表前的高压降压环节。
+    kind: actual
+    origin: third-party
+    subject: Bandar Utama的国能（TNB）主进电站（PPU）输电站
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Transmission_Main_Intake.jpg
 ---
 
 你已经拿到新家的钥匙，但电灯开关毫无反应。屋外的电表仍在旧屋主名下运转着——而在账户过户之前，你用的每一度电，名义上都还挂在别人的欠款责任上。许多人以为「打电话给 TNB」就能解决这个问题。在马来西亚半岛，没错。但在沙巴与砂拉越，那完全是打错电话。

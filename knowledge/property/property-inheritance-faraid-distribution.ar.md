@@ -30,7 +30,7 @@ faq:
     a: "تتولى التركة الصغيرة المتضمّنة أموالًا غير منقولة والمُقدَّرة بأقل من RM5 مليون إدارةُ مدير الأراضي عبر مكتب الأراضي المحلي (District Land Office)، الذي يُصدر أمر توزيع (Distribution Order)."
 
 lang: "ar"
-sourceContentHash: "7da221c06c43a7d9"
+sourceContentHash: "2343c4808c8495fb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-1.webp
+    alt: منزل ماليزي تقليدي من الخشب قائم على ركائز بسقف مائل في بيئة ريفية
+    kind: representative
+    origin: third-party
+    subject: منزل كامبونغ ماليزي تقليدي من الخشب، وهو نوع شائع من منازل العائلة التي تُورَّث
+    credit: Syahmir / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_house_(6880664352).jpg
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-2.webp
+    alt: منزل أرضي قديم من طابق واحد في Temoh، بيراك، من النوع الذي كثيرًا ما يُورَّث للورثة
+    kind: representative
+    origin: third-party
+    subject: منزل عائلي أرضي قديم في Temoh، بيراك
+    credit: Coach lai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:An_old.house,_Temoh,_Malaysia.jpg
 ---
 
 عندما يتوفّى شخص في ماليزيا، يتوقّف تحديد من يرث منزله أولًا على أمر أساسي واحد: أكان المتوفّى مسلمًا أم غير مسلم. فنظامان قانونيان مختلفان يحكمان الجواب، ويمرّ كلاهما عبر جهات مختلفة قبل أن يتغيّر اسم أي سند أرض.

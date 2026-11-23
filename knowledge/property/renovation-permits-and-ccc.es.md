@@ -28,7 +28,7 @@ faq:
     a: "El CCC confirma que la vivienda se construyó conforme a los planos aprobados y es segura para habitar. Sin el CCC, el edificio oficialmente no es apto para habitar y el suministro de servicios puede verse afectado."
 
 lang: "es"
-sourceContentHash: "a8a8202635252bef"
+sourceContentHash: "733f8b4e0ffd792a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-1.webp
+    alt: Paredes revestidas de cemento con huecos de ventana recién abiertos y sacos de material de construcción durante la reforma de una casa adosada malasia
+    kind: representative
+    origin: third-party
+    subject: Paredes recién enlucidas y nuevos huecos de ventana durante la reforma de una casa adosada en Selangor
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_163651.jpg
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-2.webp
+    alt: Un contenedor metálico lleno de recortes de madera y escombros de obra frente a una casa adosada malasia en reforma
+    kind: representative
+    origin: third-party
+    subject: Un contenedor de escombros de obra en una casa adosada en reforma en Selangor
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162147.jpg
 ---
 
 Quiere añadir una cocina en la parte trasera de la casa o construir un piso superior, y de repente un vecino le dice «primero tienes que solicitarlo al municipio». ¿Es cierto? Para la mayoría de los trabajos de renovación, sí.

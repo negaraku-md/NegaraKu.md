@@ -35,7 +35,7 @@ faq:
 
 lang: "ar"
 translationStatus: "in-sync"
-sourceContentHash: "41f000c53719467c"
+sourceContentHash: "781014ba8db210af"
 masterLanguage: "en"
 
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/landlord-has-not-returned-the-deposit/body-1.webp
+    alt: مبنى من شقق عامة قديمة منخفضة الارتفاع بلا مصاعد، تتدلّى الغسيل من نوافذه في كوالالمبور
+    kind: representative
+    origin: third-party
+    subject: شقق إيجار قديمة بلا مصاعد (Pekeliling Flats) في كوالالمبور
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL-_Pekeliling_Flats_2009.JPG
+  - role: scene
+    src: /media/property/landlord-has-not-returned-the-deposit/body-2.webp
+    alt: صفّ من المنازل الصفّية ذات الطابق الواحد على طول شارع سكني في Rasa، سلانجور
+    kind: representative
+    origin: third-party
+    subject: صفّ من المنازل الصفّية في Rasa، سلانجور، وهو نوع شائع من المنازل المؤجَّرة
+    credit: User:Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terrace_houses_in_Rasa,_Selangor.jpg
 ---
 
 قليلة هي الأمور التي تُفسِد نهاية الإيجار مثل مالكٍ يحتفظ بالتأمين. فهو عادةً مبلغ ذو قيمة، وكثيراً ما يبدو ظلماً، والإغراء هو التصعيد فوراً. وقبل أن تفعل، يساعدك أن تفهم الحقيقة الواحدة التي تشكّل كل شيء في نزاع التأمين في ماليزيا — لأنها ليست ما يفترضه كثير من المستأجرين.

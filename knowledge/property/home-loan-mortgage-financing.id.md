@@ -36,7 +36,7 @@ faq:
     a: "Bea meterai adalah 0.5% dari jumlah pinjaman di bawah Stamp Act 1949. Misalnya, pinjaman RM450,000 dikenakan bea RM2,250. Pembayaran perlu dilakukan dalam 30 hari dari tanggal perjanjian ditandatangani."
 
 lang: "id"
-sourceContentHash: "b1c14566767fa9fb"
+sourceContentHash: "f5d22f7070491839"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -110,6 +110,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-1.webp
+    alt: Pemandangan jalan sebuah kantor cabang Standard Chartered Bank di deretan ruko di pusat kota Seremban
+    kind: representative
+    origin: third-party
+    subject: Kantor cabang Standard Chartered Bank di jalan utama di Seremban, Negeri Sembilan
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Standard_Chartered_Bank,_Seremban_branch_along_the_main_street_(Jalan_Dato_Bandar_Tunggal)_-_panoramio.jpg
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-2.webp
+    alt: Pemandangan jalan sebuah kantor cabang bank syariah Bank Muamalat di deretan ruko di Kluang, Johor
+    kind: representative
+    origin: third-party
+    subject: Kantor cabang Bank Muamalat (bank syariah) di Kluang, Johor
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Bank_Muamalat_May_2024.jpg
 ---
 
 Rumah idaman mungkin RM450,000, tetapi bank tidak akan menyerahkan uang itu sampai ia yakin Anda mampu membayarnya kembali selama 30 tahun mendatang. Di situlah dimulainya dunia pembiayaan hipotek — margin, rasio layanan utang, asuransi, simpanan KWSP dan bea meterai yang semuanya menentukan apakah kunci rumah itu berpindah ke tangan Anda.

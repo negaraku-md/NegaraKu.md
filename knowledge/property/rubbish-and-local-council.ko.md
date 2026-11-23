@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "말레이시아에 거주하며 자기 지역의 쓰레기를 누가 수거하는지, 발생원 폐기물 분리 의무가 있는지, 그리고 하지 않으면 어떤 위험이 있는지 이해해야 하는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "e61c9e41571bda53"
+sourceContentHash: "6100de3c986f35cf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hino_500_BPQ_1074_of_KDEB_Waste_Management_lorry_at_Lorong_Camar_4-5C,_Kota_Damansara_20230930_124457.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-1.webp
+    alt: 슬랑오르주 코타 다만사라의 잔디밭 가장자리에 놓인, MBPJ 지방의회 문장이 표시된 파란색 공공 쓰레기통
+    kind: representative
+    origin: third-party
+    subject: 코타 다만사라의 MBPJ(페탈링자야 시의회) 문장이 새겨진 의회 쓰레기통
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubbish_bin_MBPJ-PJU5-Cecawi_6-27-119_at_Taman_Seksyen_6_Kota_Damansara_20240220_090528.jpg
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-2.webp
+    alt: 쿠알라룸푸르의 한 공공장소에 놓인, 종이, 캔과 플라스틱, 유리, 재활용 불가 쓰레기용으로 라벨이 붙은 재활용함 네 개가 늘어선 줄
+    kind: representative
+    origin: third-party
+    subject: 쿠알라룸푸르의 종이·캔과 플라스틱·유리·재활용 불가 쓰레기 분리 재활용함
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Recycle_bins_in_Kuala_Lumpur,_Malaysia_27042026_-_01.jpg
 ---
 
 당신의 쓰레기통은 주 2회 비워지지만, 누가 실제로 그것을 가져가는지 물어본 적이 있습니까 — 지방 의회입니까, 아니면 의회가 지정한 다른 회사입니까? 그리고 왜 옆 주의 이웃은 플라스틱 병을 음식물 쓰레기와 분리하지 않았다고 벌금을 물 수 있는데, 당신은 그렇지 않습니까?

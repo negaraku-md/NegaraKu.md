@@ -28,7 +28,7 @@ faq:
     a: "CCC mengesahkan rumah dibangun menurut rencana yang disetujui dan aman dihuni. Tanpa CCC, bangunan secara resmi tidak layak dihuni dan pasokan utilitas dapat terdampak."
 
 lang: "id"
-sourceContentHash: "a8a8202635252bef"
+sourceContentHash: "733f8b4e0ffd792a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-1.webp
+    alt: Dinding berlapis semen dengan bukaan jendela yang baru dibentuk dan karung bahan bangunan saat renovasi rumah deret di Malaysia
+    kind: representative
+    origin: third-party
+    subject: Dinding yang baru diplester dan bukaan jendela baru saat renovasi rumah deret di Selangor
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_163651.jpg
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-2.webp
+    alt: Sebuah kontainer logam besar penuh potongan kayu dan puing bangunan di luar sebuah rumah deret di Malaysia yang sedang direnovasi
+    kind: representative
+    origin: third-party
+    subject: Kontainer sampah berisi puing konstruksi di lokasi renovasi rumah deret di Selangor
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162147.jpg
 ---
 
 Anda ingin menambah dapur di belakang rumah atau menambah lantai — dan tiba-tiba tetangga bilang "harus mohon ke majelis dulu". Benarkah? Untuk kebanyakan pekerjaan renovasi, ya.

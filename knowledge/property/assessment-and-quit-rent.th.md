@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "เจ้าของบ้าน เจ้าของที่ดิน และผู้ซื้ออสังหาริมทรัพย์ในคาบสมุทรมาเลเซียที่ต้องเข้าใจใบเรียกเก็บภาษีทรัพย์สินรายปีของตน"
 
 lang: "th"
-sourceContentHash: "b2facf160acd431e"
+sourceContentHash: "6e7b14e11b1194be"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Terraced_house,_Bandar_Sri_Sendayan,_Seremban.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-1.webp
+    alt: บ้านทาวน์เฮาส์สองชั้นเรียงรายไปตามถนนย่านที่พักอาศัยอันเงียบสงบในมาเลเซีย ซึ่งเป็นอสังหาริมทรัพย์แบบมีที่ดินประเภทที่ต้องเสียภาษีโรงเรือน(assessment)และภาษีที่ดิน(quit rent)
+    kind: representative
+    origin: third-party
+    subject: บ้านทาวน์เฮาส์สองชั้นในหมู่บ้านจัดสรร(taman)ของมาเลเซีย
+    credit: Megnitute / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Ria_Terrace.jpg
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-2.webp
+    alt: ภาพมุมสูงเหนือหมู่บ้านจัดสรร Mutiara Rini ในอิสกันดาร์ปูเตอรี รัฐยะโฮร์ เผยให้เห็นบ้านมีที่ดินนับพันหลังบนถนนที่วางผังเป็นตาราง แต่ละหลังเป็นอสังหาริมทรัพย์ที่ต้องเสียภาษีในทะเบียนของสภาท้องถิ่น
+    kind: representative
+    origin: third-party
+    subject: ภาพมุมสูงหมู่บ้านจัดสรร Mutiara Rini อิสกันดาร์ปูเตอรี รัฐยะโฮร์
+    credit: Muhammad Rifqi MR / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Mutiara_Rini_Township_Johor.jpg
 ---
 
 เจ้าของบ้านใหม่หลายคนแปลกใจเมื่อได้รับใบเรียกเก็บเงินใบที่สองที่พวกเขาไม่คาดคิดว่ามีอยู่ พวกเขาชำระ "ภาษีที่ดิน" ปีนี้ไปแล้ว เหตุใดสภาเทศบาลจึงส่งหนังสือทวงถามอีก?

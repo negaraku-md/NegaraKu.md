@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai chuyển đến một căn nhà hoặc cơ sở mới tại Malaysia và cần mở, chuyển tên, hoặc đóng tài khoản nguồn điện — dù ở Bán đảo, Sabah hay Sarawak."
 
 lang: "vi"
-sourceContentHash: "163ba8d9c69cf9c9"
+sourceContentHash: "bbe7cffbe5401aa2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hezery99-TNB_electricity_meter.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-1.webp
+    alt: Một trạm biến áp điện Tenaga Nasional có hàng rào tại Bandar Utama, Petaling Jaya, một mắt xích trong lưới điện cấp điện cho mọi tài khoản hộ gia đình TNB trên khắp Selangor.
+    kind: actual
+    origin: third-party
+    subject: Trạm biến áp điện Tenaga Nasional tại Bandar Utama, Petaling Jaya
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Electrical_Substation.jpg
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-2.webp
+    alt: Trạm đầu vào chính Tenaga Nasional tại Bandar Utama dày đặc thiết bị đóng cắt và giàn khung, bước cao thế trước khi điện đến công tơ tại nhà người tiêu dùng.
+    kind: actual
+    origin: third-party
+    subject: Trạm truyền tải đầu vào chính (PPU) của Tenaga Nasional, Bandar Utama
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Transmission_Main_Intake.jpg
 ---
 
 Bạn nhận chìa khóa nhà mới, nhưng công tắc đèn không làm gì cả. Công tơ ở

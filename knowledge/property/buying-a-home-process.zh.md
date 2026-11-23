@@ -39,7 +39,7 @@ revisions:
 sensitivity: "none"
 
 updated: 2026-07-24
-sourceContentHash: "7bbb4ca3cdb29e8e"
+sourceContentHash: "1351b65e9c82e4a6"
 sources:
   - title: "关于须受《1949年印花税法令》附表一约束的文书征收印花税的指南（LHDN.AG.600-1/10/3）— 第C节，不动产转让文书的印花税征收 (Garis Panduan Pengenaan Duti Setem Bagi Surat Cara Yang Tertakluk Kepada Jadual Pertama Akta Setem 1949 (LHDN.AG.600-1/10/3) — Section C, Pengenaan Duti Setem Ke Atas Surat Cara Pindah Milik Harta Tanah)"
     url: "https://www.hasil.gov.my/wp-content/uploads/garis-panduan-pengenaan-duti-setem-jadual-pertama-as-1949.pdf"
@@ -81,6 +81,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cassia_Homes,_Forest_Heights,_Seremban.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/buying-a-home-process/body-1.webp
+    alt: 新建的房屋与裸露的土地标示出森美兰Kepayang Heights正在崛起的新住宅发展项目，正是这类买家凭销售展示厅的图纸认购的工程。
+    kind: representative
+    origin: third-party
+    subject: 森美兰Kepayang Heights在建的新住宅发展项目
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:New_housing_development,_Kepayang_Heights_-_panoramio.jpg
+  - role: scene
+    src: /media/property/buying-a-home-process/body-2.webp
+    alt: 槟城南威南（Seberang Perai Selatan）Taman Idaman一条刚竣工、房屋样式整齐划一的街道，正是买家在交匙后便可迁入的这类完工项目。
+    kind: representative
+    origin: third-party
+    subject: 槟城南威南Taman Idaman已竣工的有地房屋
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg
 ---
 
 一宗马来西亚房屋买卖通常牵涉两位律师，而大多数买家根本没注意到他们是两个不同的人。一位负责草拟并盖印那份移转产业的买卖合约（Sale and Purchase Agreement，SPA）。另一位——由银行委任，有时是同一间律师楼——负责草拟并盖印贷款合约与押记（Charge），那份押记正是让银行在贷款未获偿还时得以没收产业的文件。把"律师"想成故事里单一角色的买家，往后往往就是那些搞不懂为什么出现两笔律师费、或为什么贷款获批当天钥匙却没有送到的人。

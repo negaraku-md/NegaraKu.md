@@ -51,7 +51,27 @@ sources:
     publisher: "マレーシア半島都市農村計画局、住宅地方自治省"
     date: "2010-09-02"
   - title: "街路・排水・建築物法1974（法律133号）— 公式再版、第46条（妨害） (Street, Drainage and Building Act 1974 (Act 133) — official reprint text, s.46 (Obstruction))"
-    url: "https://www.ppj.gov.my/storage/7476/133---STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
+    url: "https://www.ppj.gov.my/storage/7476/133
+images:
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-1.webp
+    alt: Arden Hillは、スレンバンのForest Heights住宅団地内にある高級ゲーテッドコミュニティで、単一の管理された外周の内側に有地住宅を配している。
+    kind: actual
+    origin: third-party
+    subject: スレンバン、Forest HeightsのArden Hill高級ゲーテッドコミュニティ
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-2.webp
+    alt: 有地住宅と手入れされた緑が、ジョホール州イスカンダル・プトリのHorizon Hillsゲート＆ガード式住宅団地を満たす。警備が管理する大規模な住宅エンクレーブだ。
+    kind: actual
+    origin: third-party
+    subject: ジョホール州イスカンダル・プトリのHorizon Hillsゲーテッド住宅団地
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
+---STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
     publisher: "Laws of Malaysia／プトラジャヤ公社"
   - title: "区分所有管理法2013（法律757号）、第17条・第21条・第32条 — 共同管理体（JMB）の設立、権限および細則 (Strata Management Act 2013 (Act 757), ss.17, 21, 32 — establishment, powers and by-laws of the Joint Management Body)"
     url: "https://www.leepartners.my/wp-content/uploads/2016/08/STRATA_MANAGEMENT_ACT_2013_ACT_757.pdf"

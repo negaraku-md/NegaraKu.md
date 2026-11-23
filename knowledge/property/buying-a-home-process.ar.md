@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "المواطنون الماليزيون، والمقيمون الدائمون، ومشترو المنازل للمرة الأولى، والمشترون الأجانب (رهناً بقيود ومعدلات رسم إضافية)"
 
 lang: "ar"
-sourceContentHash: "7bbb4ca3cdb29e8e"
+sourceContentHash: "1351b65e9c82e4a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cassia_Homes,_Forest_Heights,_Seremban.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/buying-a-home-process/body-1.webp
+    alt: منازل حديثة البناء وأرض عارية تُميّزان مشروعًا سكنيًا جديدًا يرتفع في Kepayang Heights، وهو نوع المشاريع التي يسجّل فيها المشترون اعتمادًا على مخطط في معرض البيع.
+    kind: representative
+    origin: third-party
+    subject: مشروع إسكاني جديد قيد الإنشاء في Kepayang Heights، نيجري سمبيلان
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:New_housing_development,_Kepayang_Heights_-_panoramio.jpg
+  - role: scene
+    src: /media/property/buying-a-home-process/body-2.webp
+    alt: شارع حديث الاكتمال من منازل أرضية متماثلة في Taman Idaman، بينانغ، وهو نوع المشاريع المنجزة التي ينتقل إليها المشتري بعد تسليم المفاتيح.
+    kind: representative
+    origin: third-party
+    subject: منازل أرضية مكتملة في Taman Idaman، Seberang Perai Selatan، بينانغ
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg
 ---
 
 عادةً ما يلمس عملية شراء منزل في ماليزيا محاميان، ومعظم المشترين لا ينتبهون أبداً إلى أنهما شخصان مختلفان. أحدهما يصوغ ويختم اتفاقية البيع والشراء التي تنقل العقار. والآخر — يعيّنه المصرف، وقد يكون الشركة نفسها — يصوغ ويختم القرض والرهن اللذين يتيحان للمصرف الاستيلاء على العقار إن لم يُسدَّد القرض. والمشترون الذين يتصوّرون «المحامي» شخصية واحدة في هذه الحكاية هم غالباً من يحتارون لاحقاً في سبب ظهور مجموعتين من الأتعاب القانونية، أو في سبب عدم وصول المفاتيح يوم اعتماد القرض.

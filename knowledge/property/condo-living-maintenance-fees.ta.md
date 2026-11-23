@@ -25,7 +25,7 @@ appliesTo: "தீபகற்ப மலேசியா அல்லது ல�
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "02c5304754ea1783"
+sourceContentHash: "e57ff10a7a230e8f"
 
 status: "published"
 aiAssisted: true
@@ -83,6 +83,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bistari_Condominium,_Kuala_Lumpur_20240212_134920.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-1.webp
+    alt: கோலாலம்பூரின் அம்பாங்கில் பல கான்டோமினியம் கோபுரங்கள் ஒன்றாக உயர்ந்து நிற்கின்றன; உயரமான கட்டிடங்களின் இந்தத் தொகுப்பின் குடியிருப்பாளர்கள், மின்தூக்கி, நீச்சல் குளம், பாதுகாப்பு ஆகியவை இயங்கத் தேவையான பராமரிப்புக் கட்டணத்தைப் பகிர்ந்து கொள்கின்றனர்.
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர், அம்பாங்கில் உள்ள கான்டோமினியம் கோபுரங்களின் தொகுப்பு
+    credit: 龍崎 Jeffrey (Panoramio) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Condominium_Near_By_Tesco_Ampang_-_panoramio.jpg
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-2.webp
+    alt: பெட்டாலிங் ஜெயாவில் பசுமைக்கு நடுவே Riana Green கான்டோமினியத்தின் பல கோபுரங்கள் ஒன்றாக உயர்ந்து நிற்கின்றன; வேலியிட்ட இந்த ஸ்ட்ரேட்டா திட்டத்தின் குடியிருப்பாளர்கள் பராமரிப்புக் கட்டணத்தையும் சின்கிங் நிதியையும் பகிர்ந்து கொள்கின்றனர்.
+    kind: actual
+    origin: third-party
+    subject: செலாங்கூர், பெட்டாலிங் ஜெயாவில் NKVE வழியில் இருந்து தெரியும் Riana Green கான்டோமினியம் தொகுப்பு
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Green_Condominium_from_NKVE_in_Petaling_Jaya,_Selangor_20250402_155722.jpg
 ---
 
 நீங்கள் யூனிட்டை வாங்கினீர்கள். மின்தூக்கியையோ, காவல் அறையையோ, நீச்சல் குளத்தையோ, அல்லது உங்கள் அண்டை வீட்டாருடன் நீங்கள் பகிர்ந்துகொள்ளும் சுவரின் வழியாக ஓடும் குழாயையோ நீங்கள் வாங்கவில்லை. இவை அனைத்திற்கும் யாராவது பணம் செலுத்த வேண்டும் — மேலும் சட்டம் அந்த பில்லை, நீங்கள் சட்டப்படி தனித்தனியாக வைத்திருக்க வேண்டிய இரண்டு கணக்குகளாகப் பிரிக்கிறது.

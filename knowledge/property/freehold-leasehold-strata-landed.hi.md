@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "मलेशिया में संपत्ति खरीदने, बेचने या उसका आकलन करने वाला कोई भी व्यक्ति जिसे यह समझने की ज़रूरत है कि किसी सूची का कार्यकाल (tenure) और सनद का प्रकार असल में उसे किस बात के लिए बाध्य करता है।"
 
 lang: "hi"
-sourceContentHash: "81ade88de6968b5f"
+sourceContentHash: "9a7f91c78e576173"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -72,6 +72,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jesselton_Residences_Kota_Kinabalu,_Sabah,_Malaysia.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-1.webp
+    alt: जोहोर बाहरू में एक अकेला स्वतंत्र बंगला अपने ही बाड़बंद भूखंड पर स्थित है, वह आदर्श भू-संपत्ति जो स्ट्रेटा हिस्से के बजाय एक व्यक्तिगत भूमि-स्वामित्व रखती है।
+    kind: actual
+    origin: third-party
+    subject: जोहोर बाहरू में एक स्वतंत्र बंगला
+    credit: Terence Ong / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JB_black_and_white_bungalow.JPG
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-2.webp
+    alt: बुकित जलील, कुआलालंपुर में सार्वजनिक कम-लागत PPR फ्लैटों के ब्लॉक खड़े हैं, जहाँ हर इकाई एक स्ट्रेटा-स्वामित्व के तहत रखी जाती है, जिसमें साझा संपत्ति का सामूहिक स्वामित्व होता है।
+    kind: actual
+    origin: third-party
+    subject: बुकित जलील, कुआलालंपुर में सार्वजनिक कम-लागत फ्लैट (PPR)
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
 ---
 
 एक ही गली पर खड़े दो लगभग एक जैसे टैरेस घर राज्य की ओर से बहुत अलग वादे ले सकते हैं: एक सनद कहती है "फ्रीहोल्ड", तो दूसरी "लीज़होल्ड, 99 साल, समाप्ति 2118"। एक दूसरा, असंबद्ध सवाल यह तय करता है कि क्या आप चालीस अन्य परिवारों के साथ एक लिफ्ट लॉबी और पूल के सह-मालिक भी हैं, या फिर ड्राइववे और छत पूरी तरह आपकी ही समस्या हैं। खरीदार अक्सर दोनों सवालों को एक में समेट देते हैं — "क्या यह फ्रीहोल्ड है या यह कॉन्डो है?" — जबकि कोई संपत्ति हमेशा दोनों का, स्वतंत्र रूप से, जवाब दे रही होती है।

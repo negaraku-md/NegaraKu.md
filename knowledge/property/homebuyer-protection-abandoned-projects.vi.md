@@ -33,7 +33,7 @@ faq:
     a: "Phán quyết của Tòa Tài phán là chung thẩm và ràng buộc, và có thể được thực thi như một lệnh của tòa án. Việc không tuân thủ phán quyết là một hành vi phạm tội có thể bị phạt từ RM10,000 đến RM50,000 hoặc phạt tù đến hai năm, hoặc cả hai."
 
 lang: "vi"
-sourceContentHash: "df503ce18f77fc3f"
+sourceContentHash: "7d201d8e93333584"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Abandoned_building_in_Kampung_Masjid,_Gombak_20230930_102344.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-1.webp
+    alt: Một ngôi nhà một tầng đổ nát bị bỏ hoang, với cây cỏ mọc um tùm và tường gạch trần
+    kind: actual
+    origin: third-party
+    subject: Một ngôi nhà bị bỏ hoang, xây dở tại Desa Subang Permai, Selangor
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_house_located_in_Desa_Subang_Permai_1.jpg
+  - role: scene
+    src: /media/property/homebuyer-protection-abandoned-projects/body-2.webp
+    alt: Một tòa nhà bỏ hoang cũ kỹ với lớp sơn bong tróc và các ô cửa sổ trống hoác ở Melaka
+    kind: actual
+    origin: third-party
+    subject: Một tòa nhà bị bỏ hoang, không còn sử dụng ở Melaka
+    credit: User:Katangais / Wikimedia Commons
+    license: CC BY 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abandoned_Building_Melaka.jpg
 ---
 
 Bạn đã trả tiền đặt cọc, ký Hợp đồng Mua bán, và chờ đợi chìa khóa nhà — rồi công trường im lìm suốt nhiều tháng. Đối với người mua nhà ở mới tại Bán đảo Malaysia, luật pháp thực ra cung cấp nhiều lớp bảo vệ trước, trong và sau khi tình huống như thế này xảy ra. Điều cốt yếu là biết được điều gì được bảo vệ và cần đi đâu khi có gì đó không ổn.

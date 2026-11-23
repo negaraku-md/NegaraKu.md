@@ -22,7 +22,7 @@ verificationNeeded:
   - "الأسماء الدقيقة لشركات مياه الولايات لباهانج ونيجري سمبيلان وكيدا مدرجة على موقع span.gov.my لكن تعذّر استخراجها بالكامل أثناء إعداد هذه المسودة؛ يلزم التحقق منها مجددًا مباشرةً على span.gov.my."
   - "الأطر التشريعية الخاصة بصباح وساراواك (أسماء المراسيم/القوانين الولائية ذات الصلة) لم يُتحقق منها مباشرةً مقابل مصدر رسمي أثناء إعداد هذه المسودة؛ وتؤكد PAAB الاستثناء العام لكلتا الولايتين من نموذج PAAB، لكن يلزم إعادة التحقق من التفاصيل التشريعية الكاملة."
 lang: "ar"
-sourceContentHash: "cd6088681198b24d"
+sourceContentHash: "09a303e0c18c73b1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -69,6 +69,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/water-supply/body-1.webp
+    alt: سدّ خرساني صغير ومنشأة للتحكم في المياه ذات بوابات تمتدّ عبر Sungai Padang Matsirat في لنكاوي، جزء من بنية إمدادات المياه في ماليزيا
+    kind: representative
+    origin: third-party
+    subject: سدّ نهري ومنشأة للتحكم في المياه على Sungai Padang Matsirat، لنكاوي
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Padang-Matsirat_Langkawi_Sungai-Padang-Matsirat-Dam-01.jpg
+  - role: scene
+    src: /media/property/water-supply/body-2.webp
+    alt: خزان مياه مرتفع أبيض كبير يحمل اسم Taman Setia Tropika في جوهور، يحفظ المياه المعالَجة للإمداد المحلي
+    kind: representative
+    origin: third-party
+    subject: خزان مياه مرتفع في Taman Setia Tropika، جوهور
+    credit: PM Poon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Setia_Tropika_Water_Tower.jpg
 ---
 
 تنتقل من سلانجور إلى جوهور. يبقى حسابك المصرفي كما هو. وخطك الهاتفي يمكن أن يأتي معك. لكن حساب مياهك؟ لا يتبعك — لأن الشركة التي تزوّد منزلك الجديد بالماء شركة مختلفة تمامًا.

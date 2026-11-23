@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "매년 부과되는 재산세 고지서를 이해해야 하는, 반도 말레이시아의 주택 소유자, 토지 소유자, 부동산 매수인."
 
 lang: "ko"
-sourceContentHash: "b2facf160acd431e"
+sourceContentHash: "6e7b14e11b1194be"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Terraced_house,_Bandar_Sri_Sendayan,_Seremban.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-1.webp
+    alt: 조용한 말레이시아 주택가 거리를 따라 2층 테라스하우스가 한 줄로 늘어서 있다. 문패세(assessment)와 지세(quit rent)가 부과되는, 바로 이런 유형의 단독형 유지(有地) 부동산이다.
+    kind: representative
+    origin: third-party
+    subject: 말레이시아 taman(주택단지)에 들어선 2층 테라스하우스
+    credit: Megnitute / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Ria_Terrace.jpg
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-2.webp
+    alt: 조호르주 이스칸다르 푸테리의 Mutiara Rini 주택단지를 상공에서 내려다보면 바둑판처럼 뻗은 거리에 수천 채의 유지 주택이 늘어서 있으며, 그 한 채 한 채가 지방의회 과세대장에 오른 과세 대상 부동산이다.
+    kind: representative
+    origin: third-party
+    subject: 조호르주 이스칸다르 푸테리 Mutiara Rini 주택단지 항공 전경
+    credit: Muhammad Rifqi MR / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Mutiara_Rini_Township_Johor.jpg
 ---
 
 많은 새 주택 소유자는 있는 줄도 몰랐던 두 번째 고지서를 받고 놀랍니다. 올해 「토지세」를 이미 냈는데 — 왜 시청이 또 청구 통지를 보내는 걸까요?

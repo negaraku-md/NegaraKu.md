@@ -36,7 +36,7 @@ faq:
     a: "인지세는 인지세법(Stamp Act 1949)에 따라 대출 금액의 0.5%입니다. 예를 들어 RM450,000 대출에는 RM2,250의 인지세가 부과됩니다. 납부는 계약 서명일로부터 30일 이내에 해야 합니다."
 
 lang: "ko"
-sourceContentHash: "b1c14566767fa9fb"
+sourceContentHash: "f5d22f7070491839"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -110,6 +110,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Public_Bank_Berhad_Building-02.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-1.webp
+    alt: 스름반 시내 상가주택(shoplot)이 늘어선 거리에 자리한 Standard Chartered 은행 지점의 거리 풍경
+    kind: representative
+    origin: third-party
+    subject: 느그리슴빌란주 스름반 중심가의 Standard Chartered 은행 지점
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Standard_Chartered_Bank,_Seremban_branch_along_the_main_street_(Jalan_Dato_Bandar_Tunggal)_-_panoramio.jpg
+  - role: scene
+    src: /media/property/home-loan-mortgage-financing/body-2.webp
+    alt: 조호르주 클루앙의 상가주택이 늘어선 거리에 자리한 Bank Muamalat(이슬람 은행) 지점의 거리 풍경
+    kind: representative
+    origin: third-party
+    subject: 조호르주 클루앙의 Bank Muamalat(이슬람 은행) 지점
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Bank_Muamalat_May_2024.jpg
 ---
 
 꿈꾸던 집이 RM450,000일 수 있지만, 은행은 당신이 앞으로 30년 동안 갚을 수 있다고 확신하기 전까지 그 돈을 내주지 않습니다. 바로 여기서 모기지 금융의 세계가 시작됩니다 — 대출 한도, 부채상환비율, 보험, EPF 저축, 인지세, 이 모두가 그 집 열쇠가 당신 손으로 넘어올지를 결정합니다.

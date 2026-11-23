@@ -22,7 +22,7 @@ appliesTo: "マレーシアの新居や新しい物件へ引っ越し、電力�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "163ba8d9c69cf9c9"
+sourceContentHash: "bbe7cffbe5401aa2"
 
 status: "published"
 aiAssisted: true
@@ -75,6 +75,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hezery99-TNB_electricity_meter.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-1.webp
+    alt: ペタリン・ジャヤのBandar Utamaにある、フェンスで囲まれたTenaga Nasional（TNB）の変電所。セランゴール中の各家庭のTNB契約（アカウント）に電気を送る送電網の一つの結び目である。
+    kind: actual
+    origin: third-party
+    subject: ペタリン・ジャヤ、Bandar UtamaのTenaga Nasional（TNB）変電所
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Electrical_Substation.jpg
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-2.webp
+    alt: Tenaga Nasional（TNB）のBandar Utama主受電所（PPU）は開閉装置と鉄構で埋め尽くされ、電力が需要家の家のメーターに届く前の高圧の降圧段を担う。
+    kind: actual
+    origin: third-party
+    subject: Bandar UtamaのTenaga Nasional（TNB）主受電所（PPU）送電ステーション
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Transmission_Main_Intake.jpg
 ---
 
 新居の鍵は手に入れたのに、照明のスイッチは何も反応しない。屋外のメーターは

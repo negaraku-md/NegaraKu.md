@@ -53,7 +53,27 @@ sources:
     publisher: "प्रायद्वीपीय मलेशिया नगर एवं ग्राम नियोजन विभाग, आवास एवं स्थानीय सरकार मंत्रालय (KPKT)"
     date: "2010-09-02"
   - title: "Street, Drainage and Building Act 1974 (Act 133) — आधिकारिक पुनर्मुद्रित पाठ, s.46 (अवरोध) (Street, Drainage and Building Act 1974 (Act 133) — official reprint text, s.46 (Obstruction))"
-    url: "https://www.ppj.gov.my/storage/7476/133---STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
+    url: "https://www.ppj.gov.my/storage/7476/133
+images:
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-1.webp
+    alt: Arden Hill, सेरेम्बान में Forest Heights टाउनशिप के भीतर एक विशिष्ट गेटेड समुदाय, एक ही नियंत्रित परिधि के पीछे भू-स्वामित्व वाले घर सजाता है।
+    kind: actual
+    origin: third-party
+    subject: Arden Hill विशिष्ट गेटेड समुदाय, Forest Heights, सेरेम्बान
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-2.webp
+    alt: भू-स्वामित्व वाले घर और सुव्यवस्थित हरियाली इस्कंदर पुतेरी, जोहोर में Horizon Hills गेटेड-एंड-गार्डेड टाउनशिप को भरते हैं, एक बड़ा सुरक्षा-प्रबंधित आवासीय इलाका।
+    kind: actual
+    origin: third-party
+    subject: Horizon Hills गेटेड टाउनशिप, इस्कंदर पुतेरी, जोहोर
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
+---STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
     publisher: "मलेशिया के कानून / पुत्राजया निगम (Perbadanan Putrajaya)"
   - title: "Strata Management Act 2013 (Act 757), ss.17, 21, 32 — संयुक्त प्रबंधन निकाय की स्थापना, शक्तियाँ और उप-नियम (Strata Management Act 2013 (Act 757), ss.17, 21, 32 — establishment, powers and by-laws of the Joint Management Body)"
     url: "https://www.leepartners.my/wp-content/uploads/2016/08/STRATA_MANAGEMENT_ACT_2013_ACT_757.pdf"

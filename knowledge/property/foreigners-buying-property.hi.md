@@ -28,7 +28,7 @@ verificationNeeded:
   - "राष्ट्रीय भूमि संहिता के उस संशोधन का सटीक उद्धरण और वर्ष जिसने राज्य प्राधिकरण की सहमति से औद्योगिक-भूमि की पहले की छूट को समाप्त किया, संशोधनकारी अधिनियम के अपने पाठ के विरुद्ध पुष्ट नहीं किया जा सका; इसे यहाँ किसी सीधे पढ़े गए प्राथमिक प्रावधान के बजाय अभिसरणी गौण क़ानूनी टिप्पणी के आधार पर वर्णित किया गया है।"
 
 lang: "hi"
-sourceContentHash: "108b77146a2f6cd9"
+sourceContentHash: "78ee4bcd8de014e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_348-Sentral-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-1.webp
+    alt: कुआलालंपुर में Mont Kiara की क्षितिज-रेखा पर ऊँचे, महँगे कोंडोमिनियमों की कतारें भरी हैं, एक प्रवासी-पसंदीदा इलाका जहाँ विदेशी खरीदारों को राज्य की न्यूनतम मूल्य सीमा पार करनी होती है।
+    kind: actual
+    origin: third-party
+    subject: Mont Kiara, कुआलालंपुर की ऊँची कोंडोमिनियम क्षितिज-रेखा
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skyline_of_Mont_Kiara,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-2.webp
+    alt: Forest City के विलासितापूर्ण तटवर्ती टावर जोहोर में समुद्र से पुनः प्राप्त भूमि पर उठते हैं, सिंगापुर सीमा के पास एक मेगा-परियोजना जिसका ज़ोरदार विपणन विदेशी खरीदारों के लिए किया गया है।
+    kind: actual
+    origin: third-party
+    subject: निर्माणाधीन Forest City विलासिता तटवर्ती विकास, जोहोर
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City,_Johor_in_development.jpg
 ---
 
 हांगकांग का एक ख़रीदार पेटालिंग जया में एक सेमी-डिटैच्ड घर के लिए RM1.8

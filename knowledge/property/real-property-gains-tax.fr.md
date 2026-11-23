@@ -35,7 +35,7 @@ faq:
     a: "Oui. Les dépenses qui augmentent ou préservent la valeur du bien, comme les coûts de rénovation et d'amélioration, peuvent être déduites à condition d'être justifiées par des reçus et documents valables."
 
 lang: "fr"
-sourceContentHash: "d30bca1500940866"
+sourceContentHash: "2413423d254ace48"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-1.webp
+    alt: Le pavillon de la galerie de vente en bord de route et la grande signalétique en lettres du programme résidentiel Riana Dutamas à Segambut, Kuala Lumpur, où les logements neufs sont commercialisés et vendus
+    kind: representative
+    origin: third-party
+    subject: La galerie de vente et la signalétique du programme résidentiel Riana Dutamas, Segambut, Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Dutamas_Sales_Gallery,_Kampung_Pasir_Segambut_20230304_115010.jpg
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-2.webp
+    alt: Une maison de kampung malaisienne moderne et individuelle au toit métallique, représentant une propriété foncière dont la cession peut déclencher l'impôt sur les plus-values immobilières
+    kind: representative
+    origin: third-party
+    subject: Une maison de village moderne individuelle à Kampung Kuala Lah
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Kuala_Lah_Modern_House.jpg
 ---
 
 Vous vendez une maison avec bénéfice, mais avant que l'argent n'arrive sur votre compte, le gouvernement veut sa part. C'est le RPGT, un impôt que les vendeurs négligent souvent jusqu'à ce que l'avocat retienne des milliers de ringgit à la table de règlement.

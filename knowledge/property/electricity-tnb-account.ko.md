@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "말레이시아에서 새 주택이나 건물로 이사하여 — 반도, 사바, 사라왁 어디서든 — 전기 공급 계정을 새로 열거나, 명의를 이전하거나, 해지해야 하는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "163ba8d9c69cf9c9"
+sourceContentHash: "bbe7cffbe5401aa2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -76,6 +76,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hezery99-TNB_electricity_meter.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-1.webp
+    alt: 페탈링자야 Bandar Utama에 울타리로 둘러싸인 Tenaga Nasional(TNB) 변전소. 슬랑오르 전역 각 가정의 TNB 계정에 전기를 보내는 전력망의 한 고리다.
+    kind: actual
+    origin: third-party
+    subject: 페탈링자야 Bandar Utama의 Tenaga Nasional(TNB) 변전소
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Electrical_Substation.jpg
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-2.webp
+    alt: Tenaga Nasional(TNB)의 Bandar Utama 주수전소(PPU)는 개폐장치와 철구조물로 빼곡하며, 전력이 수용가 가정의 계량기에 도달하기 전의 고압 강압 단계를 맡는다.
+    kind: actual
+    origin: third-party
+    subject: Bandar Utama의 Tenaga Nasional(TNB) 주수전소(PPU) 송전소
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Transmission_Main_Intake.jpg
 ---
 
 새집 열쇠를 받았는데 전등 스위치가 아무것도 하지 않습니다. 밖의 계량기는 여전히 이전 소유자의 이름으로 돌아가고 있고 — 그 계정이 명의를 바꾸기 전까지는 당신이 쓰는 모든 킬로와트가 기술적으로는 여전히 다른 사람의 책임에 걸려 있습니다. 많은 사람이 「TNB에 연락」하면 이 문제가 해결된다고 생각합니다. 반도에서는 맞습니다. 사바와 사라왁에서는, 그것은 완전히 잘못된 전화번호입니다.

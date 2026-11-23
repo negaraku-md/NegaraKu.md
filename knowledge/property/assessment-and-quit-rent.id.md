@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Pemilik rumah, pemilik tanah dan pembeli properti di Semenanjung Malaysia yang perlu memahami tagihan pajak properti tahunan mereka."
 
 lang: "id"
-sourceContentHash: "b2facf160acd431e"
+sourceContentHash: "6e7b14e11b1194be"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Terraced_house,_Bandar_Sri_Sendayan,_Seremban.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-1.webp
+    alt: Sederet rumah deret dua lantai berjajar di jalan permukiman yang tenang di Malaysia, jenis properti tapak yang dikenai pajak penilaian (cukai taksiran) dan pajak tanah (cukai tanah).
+    kind: representative
+    origin: third-party
+    subject: Rumah deret dua lantai di sebuah kompleks perumahan di Malaysia
+    credit: Megnitute / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Ria_Terrace.jpg
+  - role: scene
+    src: /media/property/assessment-and-quit-rent/body-2.webp
+    alt: Bidikan udara menyeluruh atas kawasan Mutiara Rini di Iskandar Puteri memperlihatkan ribuan rumah tapak di jalan-jalan bergrid, masing-masing properti kena pajak dalam daftar dewan setempat.
+    kind: representative
+    origin: third-party
+    subject: Pemandangan udara kawasan Mutiara Rini, Iskandar Puteri, Johor
+    credit: Muhammad Rifqi MR / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Mutiara_Rini_Township_Johor.jpg
 ---
 
 Banyak pemilik rumah baru terkejut saat menerima tagihan kedua yang tidak mereka duga ada. Mereka sudah membayar "pajak tanah" tahun ini — mengapa majlis bandaran malah mengirim surat tuntutan?

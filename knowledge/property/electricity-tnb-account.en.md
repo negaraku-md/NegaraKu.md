@@ -23,7 +23,7 @@ appliesTo: "Anyone moving into a new house or premises in Malaysia who needs to 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "163ba8d9c69cf9c9"
+sourceContentHash: "bbe7cffbe5401aa2"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hezery99-TNB_electricity_meter.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-1.webp
+    alt: A fenced Tenaga Nasional electrical substation in Bandar Utama, Petaling Jaya, one link in the grid that feeds every household TNB account across Selangor.
+    kind: actual
+    origin: third-party
+    subject: Tenaga Nasional electrical substation at Bandar Utama, Petaling Jaya
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Electrical_Substation.jpg
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-2.webp
+    alt: Tenaga Nasional's Bandar Utama main intake station bristles with switchgear and gantries, the high-voltage step before power reaches the meters on consumers' homes.
+    kind: actual
+    origin: third-party
+    subject: Tenaga Nasional main intake (PPU) transmission station, Bandar Utama
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Transmission_Main_Intake.jpg
 ---
 
 You've got the keys to your new home, but the light switch does nothing.

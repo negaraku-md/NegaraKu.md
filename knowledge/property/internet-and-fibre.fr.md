@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Toute personne qui loue, achète ou emménage dans un logement en Malaisie et qui a besoin de faire raccorder un haut débit fixe."
 
 lang: "fr"
-sourceContentHash: "bbd067458507d9b6"
+sourceContentHash: "1f75dbb83189587b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Telekom-Malaysia-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/internet-and-fibre/body-1.webp
+    alt: Un immeuble de bureaux de Telekom Malaysia, l'opérateur national de la ligne fixe et de la fibre, à Putrajaya
+    kind: representative
+    origin: third-party
+    subject: Un immeuble de bureaux de Telekom Malaysia (TM) à Putrajaya
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TM_building_in_Putrajaya.JPG
+  - role: scene
+    src: /media/property/internet-and-fibre/body-2.webp
+    alt: Un modem à fibre optique Unifi de marque FiberHome fixé à un mur à l'intérieur d'une maison
+    kind: representative
+    origin: third-party
+    subject: Un modem haut débit par fibre Unifi (ONT FiberHome) installé dans une maison malaisienne
+    credit: Thebaldball / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Unifi_FiberHome.jpg
 ---
 
 Avant de comparer le moindre ringgit de prix, il y a une question qui compte

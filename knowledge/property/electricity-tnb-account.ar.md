@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "كلّ من ينتقل إلى منزل أو عقار جديد في ماليزيا ويحتاج إلى فتح حساب إمداد كهرباء أو نقله أو إغلاقه — سواء في شبه الجزيرة أو صباح أو ساراواك."
 
 lang: "ar"
-sourceContentHash: "163ba8d9c69cf9c9"
+sourceContentHash: "bbe7cffbe5401aa2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hezery99-TNB_electricity_meter.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-1.webp
+    alt: محطة كهرباء فرعية مسوّرة تابعة لـ Tenaga Nasional في Bandar Utama، Petaling Jaya، حلقة في الشبكة التي تغذّي كل حساب TNB منزلي في أنحاء سلانجور.
+    kind: actual
+    origin: third-party
+    subject: محطة كهرباء فرعية تابعة لـ Tenaga Nasional في Bandar Utama، Petaling Jaya
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Electrical_Substation.jpg
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-2.webp
+    alt: تكتظّ محطة الاستقبال الرئيسية في Bandar Utama التابعة لـ Tenaga Nasional بمعدات التبديل والجسور المعدنية، وهي المرحلة عالية الجهد قبل أن تصل الكهرباء إلى العدّادات في منازل المستهلكين.
+    kind: actual
+    origin: third-party
+    subject: محطة النقل الرئيسية للاستقبال (PPU) التابعة لـ Tenaga Nasional، Bandar Utama
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Transmission_Main_Intake.jpg
 ---
 
 حصلتَ على مفاتيح منزلك الجديد، لكنّ مفتاح الإضاءة لا يفعل شيئًا.

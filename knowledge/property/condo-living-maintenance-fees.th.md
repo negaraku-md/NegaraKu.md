@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "ทุกคนที่เป็นเจ้าของ กำลังซื้อ หรือกำลังเช่าหน่วยในคอนโดมิเนียม อพาร์ตเมนต์ หรืออสังหาริมทรัพย์แบบแบ่งชั้น (strata-titled) อื่น ๆ ในมาเลเซียในคาบสมุทรมาเลเซียหรือเขตสหพันธ์ลาบวน"
 
 lang: "th"
-sourceContentHash: "02c5304754ea1783"
+sourceContentHash: "e57ff10a7a230e8f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bistari_Condominium,_Kuala_Lumpur_20240212_134920.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-1.webp
+    alt: อาคารคอนโดมิเนียมหลายหลังทะยานขึ้นด้วยกันเหนือย่านอัมปังในกัวลาลัมเปอร์ เป็นกลุ่มอาคารสูงที่ผู้อยู่อาศัยร่วมกันจ่ายค่าส่วนกลางซึ่งใช้ดูแลลิฟต์ สระว่ายน้ำ และระบบรักษาความปลอดภัย
+    kind: actual
+    origin: third-party
+    subject: กลุ่มอาคารคอนโดมิเนียมในย่านอัมปัง กัวลาลัมเปอร์
+    credit: 龍崎 Jeffrey (Panoramio) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Condominium_Near_By_Tesco_Ampang_-_panoramio.jpg
+  - role: scene
+    src: /media/property/condo-living-maintenance-fees/body-2.webp
+    alt: อาคารหลายหลังของคอนโดมิเนียม Riana Green ทะยานขึ้นด้วยกันท่ามกลางพื้นที่สีเขียวในเปอตาลิงจายา เมื่อมองจากทางด่วน NKVE เป็นโครงการสตราตา(strata)แบบรั้วรอบที่ผู้อยู่อาศัยร่วมกันจ่ายค่าส่วนกลางและเงินกองทุนสำรอง
+    kind: actual
+    origin: third-party
+    subject: กลุ่มอาคารคอนโดมิเนียม Riana Green มองจากทางด่วน NKVE เปอตาลิงจายา รัฐเซอลาโงร์
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Green_Condominium_from_NKVE_in_Petaling_Jaya,_Selangor_20250402_155722.jpg
 ---
 
 คุณซื้อหน่วยที่อยู่อาศัยแล้ว แต่คุณไม่ได้ซื้อลิฟต์ ป้อมยาม สระว่ายน้ำ หรือท่อที่วิ่งผ่านผนังที่คุณใช้ร่วมกับเพื่อนบ้าน ยังต้องมีคนจ่ายค่าทั้งหมดนั้น และกฎหมายแบ่งใบเรียกเก็บเงินออกเป็นสองบัญชีที่คุณมีหน้าที่ตามกฎหมายต้องแยกออกจากกัน

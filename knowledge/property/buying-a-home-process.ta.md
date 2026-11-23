@@ -24,7 +24,7 @@ appliesTo: "மலேசியக் குடிமக்கள், நிர�
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7bbb4ca3cdb29e8e"
+sourceContentHash: "1351b65e9c82e4a6"
 
 status: "published"
 aiAssisted: true
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cassia_Homes,_Forest_Heights,_Seremban.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/buying-a-home-process/body-1.webp
+    alt: புதிதாகக் கட்டப்பட்ட வீடுகளும் வெற்று நிலமும் Kepayang Heights இல் உருவாகி வரும் புதிய வீட்டுத் திட்டத்தைக் காட்டுகின்றன; விற்பனைக் கூடத்தின் வரைபடத்தைப் பார்த்து வாங்குபவர்கள் பதிவு செய்யும் வகைத் திட்டம் இது.
+    kind: representative
+    origin: third-party
+    subject: நெகிரி செம்பிலானில் Kepayang Heights இல் கட்டுமானத்தில் உள்ள புதிய வீட்டுத் திட்டம்
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:New_housing_development,_Kepayang_Heights_-_panoramio.jpg
+  - role: scene
+    src: /media/property/buying-a-home-process/body-2.webp
+    alt: பினாங்கின் Taman Idaman இல் புதிதாகக் கட்டி முடிக்கப்பட்ட, ஒரே மாதிரியான நிலத்துடன் கூடிய வீடுகள் நிறைந்த தெரு; சாவி ஒப்படைக்கப்பட்ட பிறகு வாங்குபவர் குடியேறும் முடிந்த திட்ட வகை இது.
+    kind: representative
+    origin: third-party
+    subject: பினாங்கு, செபிராங் பிறை செலாத்தானில் உள்ள Taman Idaman இல் கட்டி முடிக்கப்பட்ட நிலத்துடன் கூடிய வீடுகள்
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg
 ---
 
 ஒரு மலேசிய வீட்டுக் கொள்முதலை வழக்கமாக இரண்டு வழக்கறிஞர்கள் தொடுகிறார்கள், ஆனால் அவர்கள் இருவேறு நபர்கள் என்பதை பெரும்பாலான வாங்குபவர்கள் ஒருபோதும் கவனிப்பதில்லை. ஒருவர் சொத்தை நகர்த்தும் விற்பனை மற்றும் கொள்முதல் ஒப்பந்தத்தை வரைந்து முத்திரையிடுகிறார். மற்றவர் — வங்கியால் நியமிக்கப்படுபவர், சில நேரங்களில் அதே நிறுவனம் — கடன் திருப்பிச் செலுத்தப்படாவிட்டால் வங்கி சொத்தைப் பறிமுதல் செய்ய அனுமதிக்கும் கடனையும் பிணையத்தையும் வரைந்து முத்திரையிடுகிறார். "வழக்கறிஞர்" என்பதை இந்தக் கதையில் ஒரே பாத்திரமாக நினைப்பவர்கள்தான், பின்னர் ஏன் இரண்டு தொகுப்பு சட்டக் கட்டணங்கள் தோன்றின, அல்லது கடன் அங்கீகரிக்கப்பட்ட அன்று ஏன் சாவிகள் வரவில்லை என்று குழம்பியவர்களாக இருக்க முனைகிறார்கள்.

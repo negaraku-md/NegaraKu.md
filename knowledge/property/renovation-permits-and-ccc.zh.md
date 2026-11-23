@@ -28,7 +28,7 @@ faq:
     a: "CCC 确认房屋已按核准图纸建成并可安全入住。没有 CCC，建筑物在正式意义上不适合入住，公用设施供应也可能受影响。"
 
 lang: "zh"
-sourceContentHash: "a8a8202635252bef"
+sourceContentHash: "733f8b4e0ffd792a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-1.webp
+    alt: 雪兰莪一场排屋翻新中，水泥批荡的墙面、新开凿的窗口以及一袋袋建材
+    kind: representative
+    origin: third-party
+    subject: 雪兰莪排屋翻新期间新批荡的墙面与新开的窗口
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_163651.jpg
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-2.webp
+    alt: 雪兰莪一处排屋翻新工地上，一个盛满木料边角料与建筑碎料的金属垃圾斗（skip）
+    kind: representative
+    origin: third-party
+    subject: 雪兰莪排屋翻新工地上一个盛满建筑废料的垃圾斗（skip）
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162147.jpg
 ---
 
 你想在屋后加建一间厨房，或者往上加盖一层——突然邻居说"得先向市议会申请"。这是真的吗？对于大多数装修工程，答案是：是的。

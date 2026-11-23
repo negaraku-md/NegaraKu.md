@@ -37,7 +37,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "c33c12700672ddab"
+sourceContentHash: "80ac685b0a5c215d"
 
 status: "published"
 aiAssisted: true
@@ -95,6 +95,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-1.webp
+    alt: ペナン州バターワースのHarbour Viewに建つ現代的なストラータ・コンドミニアムの塔の一群。JMB（共同管理体）や管理法人（MC）が運営する、まさにこうした開発だ。
+    kind: representative
+    origin: third-party
+    subject: バターワース・Harbour Viewのストラータ・コンドミニアム高層群
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Harbour_View,_Butterworth_20250917_103104.jpg
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-2.webp
+    alt: ペナン州ゲルゴールのThe Oasisストラータ・コンドミニアムのゲート付き入口、守衛所、共用クラブハウス棟。その後ろに住宅塔が控える。
+    kind: representative
+    origin: third-party
+    subject: ペナン州ゲルゴールのThe Oasisコンドミニアムの守衛付き入口とクラブハウス
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Oasis_condominium.jpg
 ---
 
 コンドミニアムの一室を購入したとして、エレベーター、プール、駐車通路を実際に所有するのは誰か——そして毎月の費用をあなたから徴収する権利を持つのは誰か。その答えは、紛争が生じるまで購入者がめったに読まないひとつのガバナンス階層にある。すなわち2013年区分所有管理法（Act 757）の枠組みである。

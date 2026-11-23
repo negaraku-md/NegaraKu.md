@@ -40,7 +40,7 @@ revisions:
 sensitivity: "none"
 
 updated: 2026-07-24
-sourceContentHash: "7bbb4ca3cdb29e8e"
+sourceContentHash: "1351b65e9c82e4a6"
 sources:
   - title: "Garis Panduan Pengenaan Duti Setem Bagi Surat Cara Yang Tertakluk Kepada Jadual Pertama Akta Setem 1949 (LHDN.AG.600-1/10/3) — Seksyen C, Pengenaan Duti Setem Ke Atas Surat Cara Pindah Milik Harta Tanah (Garis Panduan Pengenaan Duti Setem Bagi Surat Cara Yang Tertakluk Kepada Jadual Pertama Akta Setem 1949 (LHDN.AG.600-1/10/3) — Section C, Pengenaan Duti Setem Ke Atas Surat Cara Pindah Milik Harta Tanah)"
     url: "https://www.hasil.gov.my/wp-content/uploads/garis-panduan-pengenaan-duti-setem-jadual-pertama-as-1949.pdf"
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cassia_Homes,_Forest_Heights,_Seremban.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/buying-a-home-process/body-1.webp
+    alt: Rumah yang baru siap dibina dan tanah lapang menandai pembangunan perumahan baharu yang sedang dibina di Kepayang Heights, jenis projek yang pembelinya mendaftar berdasarkan pelan di galeri jualan.
+    kind: representative
+    origin: third-party
+    subject: Pembangunan perumahan baharu yang sedang dibina di Kepayang Heights, Negeri Sembilan
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:New_housing_development,_Kepayang_Heights_-_panoramio.jpg
+  - role: scene
+    src: /media/property/buying-a-home-process/body-2.webp
+    alt: Satu jalan rumah bertanah seragam yang baru siap di Taman Idaman, Pulau Pinang, jenis pembangunan siap yang dimasuki pembeli selepas kunci diserahkan.
+    kind: representative
+    origin: third-party
+    subject: Rumah bertanah yang telah siap di Taman Idaman, Seberang Perai Selatan, Pulau Pinang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg
 ---
 
 Kebiasaannya dua orang peguam terlibat dalam satu-satu pembelian rumah di Malaysia, dan kebanyakan pembeli langsung tidak perasan bahawa mereka adalah dua orang yang berbeza. Seorang menyediakan dan menyetem Perjanjian Jual Beli yang memindahkan hartanah itu. Seorang lagi — dilantik oleh bank, kadangkala firma yang sama — menyediakan dan menyetem perjanjian pinjaman serta gadaian yang membolehkan bank merampas hartanah itu sekiranya pinjaman tidak dibayar balik. Pembeli yang menganggap "peguam" itu sebagai satu watak tunggal dalam cerita ini biasanya keliru kemudian mengapa dua set yuran guaman muncul, atau mengapa kunci rumah tidak sampai pada hari pinjaman diluluskan.

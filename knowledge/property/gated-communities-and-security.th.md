@@ -53,7 +53,27 @@ sources:
     publisher: "กรมผังเมืองและชนบทคาบสมุทรมาเลเซีย กระทรวงการเคหะและการปกครองท้องถิ่น"
     date: "2010-09-02"
   - title: "พระราชบัญญัติถนน การระบายน้ำ และอาคาร 1974 (พระราชบัญญัติ 133) — ฉบับพิมพ์ซ้ำทางการ มาตรา 46 (การกีดขวาง) (Street, Drainage and Building Act 1974 (Act 133) — official reprint text, s.46 (Obstruction))"
-    url: "https://www.ppj.gov.my/storage/7476/133---STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
+    url: "https://www.ppj.gov.my/storage/7476/133
+images:
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-1.webp
+    alt: Arden Hill ชุมชนปิดระดับหรูภายในหมู่บ้านจัดสรร Forest Heights ในเซอเริมบัน จัดวางบ้านมีที่ดินไว้หลังแนวรั้วควบคุมเพียงแนวเดียว
+    kind: actual
+    origin: third-party
+    subject: ชุมชนปิดระดับหรู Arden Hill ใน Forest Heights เซอเริมบัน
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-2.webp
+    alt: บ้านมีที่ดินและพื้นที่สีเขียวที่ตัดแต่งเรียบร้อยเต็มไปทั่วหมู่บ้านจัดสรรแบบปิดและมีการ์ด Horizon Hills ในอิสกันดาร์ปูเตอรี รัฐยะโฮร์ อันเป็นชุมชนที่พักอาศัยขนาดใหญ่ที่บริหารจัดการด้านความปลอดภัย
+    kind: actual
+    origin: third-party
+    subject: หมู่บ้านจัดสรรแบบปิด Horizon Hills อิสกันดาร์ปูเตอรี รัฐยะโฮร์
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
+---STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
     publisher: "Laws of Malaysia / องค์การปุตราจายา"
   - title: "พระราชบัญญัติการจัดการอาคารชุด 2013 (พระราชบัญญัติ 757) มาตรา 17, 21, 32 — การจัดตั้ง อำนาจ และข้อบังคับของคณะกรรมการบริหารร่วม (Strata Management Act 2013 (Act 757), ss.17, 21, 32 — establishment, powers and by-laws of the Joint Management Body)"
     url: "https://www.leepartners.my/wp-content/uploads/2016/08/STRATA_MANAGEMENT_ACT_2013_ACT_757.pdf"

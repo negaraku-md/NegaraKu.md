@@ -52,7 +52,27 @@ sources:
     publisher: "马来西亚半岛城乡规划局，房屋及地方政府部"
     date: "2010-09-02"
   - title: "1974年道路、排水与建筑物法令（第133号法令）— 官方重印文本，第46条（阻碍） (Street, Drainage and Building Act 1974 (Act 133) — official reprint text, s.46 (Obstruction))"
-    url: "https://www.ppj.gov.my/storage/7476/133---STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
+    url: "https://www.ppj.gov.my/storage/7476/133
+images:
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-1.webp
+    alt: Arden Hill是芙蓉（Seremban）Forest Heights住宅区内的一个高档封闭式社区，将有地房屋布置在单一受控的围墙界线之内。
+    kind: actual
+    origin: third-party
+    subject: 芙蓉Forest Heights的Arden Hill高档封闭式社区
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-2.webp
+    alt: 有地房屋与修剪整齐的绿意填满柔佛依斯干达公主城Horizon Hills的封闭与守卫（gated-and-guarded）式住宅区，这是一个大型、由保安管理的住宅聚居区。
+    kind: actual
+    origin: third-party
+    subject: 柔佛依斯干达公主城的Horizon Hills封闭式住宅区
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
+---STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
     publisher: "Laws of Malaysia / 布城机构"
   - title: "2013年分层管理法令（第757号法令），第17、21、32条 — 联合管理机构的设立、权力与附例 (Strata Management Act 2013 (Act 757), ss.17, 21, 32 — establishment, powers and by-laws of the Joint Management Body)"
     url: "https://www.leepartners.my/wp-content/uploads/2016/08/STRATA_MANAGEMENT_ACT_2013_ACT_757.pdf"

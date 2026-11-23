@@ -22,7 +22,7 @@ verificationNeeded:
   - "Tên chính xác của công ty nước bang cho Pahang, Negeri Sembilan và Kedah được liệt kê tại trang span.gov.my nhưng không thể trích xuất đầy đủ khi soạn bản thảo này; cần kiểm tra lại trực tiếp tại span.gov.my."
   - "Khuôn khổ pháp lý cụ thể của Sabah và Sarawak (tên sắc luật/pháp lệnh của bang liên quan) không được xác nhận trực tiếp trên nguồn chính thức khi soạn bản thảo này; PAAB xác nhận việc miễn trừ chung của cả hai bang khỏi mô hình PAAB, nhưng chi tiết pháp lý đầy đủ cần được kiểm tra lại."
 lang: "vi"
-sourceContentHash: "cd6088681198b24d"
+sourceContentHash: "09a303e0c18c73b1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -69,6 +69,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/water-supply/body-1.webp
+    alt: Một đập tràn bê tông nhỏ và công trình điều tiết nước có cửa van bắc qua Sungai Padang Matsirat ở Langkawi, một phần hạ tầng cấp nước của Malaysia
+    kind: representative
+    origin: third-party
+    subject: Đập tràn trên sông và công trình điều tiết nước trên Sungai Padang Matsirat, Langkawi
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Padang-Matsirat_Langkawi_Sungai-Padang-Matsirat-Dam-01.jpg
+  - role: scene
+    src: /media/property/water-supply/body-2.webp
+    alt: Một tháp chứa nước trên cao màu trắng lớn có chữ Taman Setia Tropika ở Johor, chứa nước đã xử lý cho nguồn cấp địa phương
+    kind: representative
+    origin: third-party
+    subject: Một tháp chứa nước trên cao tại Taman Setia Tropika, Johor
+    credit: PM Poon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Setia_Tropika_Water_Tower.jpg
 ---
 
 Bạn chuyển từ Selangor sang Johor. Tài khoản ngân hàng vẫn vậy. Đường dây điện thoại có thể mang theo. Nhưng tài khoản nước của bạn thì sao? Nó không đi theo — vì công ty cung cấp nước cho ngôi nhà mới của bạn hoàn toàn không phải cùng một công ty.

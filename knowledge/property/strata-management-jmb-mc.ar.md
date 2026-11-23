@@ -35,7 +35,7 @@ faq:
     a: "عدم الامتثال للقرار جريمة بموجب المادة 123 — غرامة لا تتجاوز RM250,000 أو السجن مدة لا تتجاوز 3 سنوات أو كلاهما، مع غرامة إضافية تصل إلى RM5,000 يوميًا عن الجريمة المستمرة. وتُقدَّم الشكوى إلى مفوّض المباني (COB)."
 
 lang: "ar"
-sourceContentHash: "c33c12700672ddab"
+sourceContentHash: "80ac685b0a5c215d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-1.webp
+    alt: مجموعة من أبراج الكوندومينيوم الحديثة بنظام الستراتا في Harbour View بـ Butterworth، بينانغ، وهو نوع المشاريع التي تديرها هيئة إدارة مشتركة (JMB) أو مؤسسة إدارة
+    kind: representative
+    origin: third-party
+    subject: مجموعة من أبراج الكوندومينيوم الشاهقة بنظام الستراتا في Harbour View، Butterworth
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Harbour_View,_Butterworth_20250917_103104.jpg
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-2.webp
+    alt: المدخل المسوَّر وكشك الحراسة ومبنى النادي المشترك لكوندومينيوم The Oasis بنظام الستراتا في Gelugor، بينانغ، وخلفه أبراجه السكنية
+    kind: representative
+    origin: third-party
+    subject: المدخل المحروس والنادي المشترك لكوندومينيوم The Oasis في Gelugor، بينانغ
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Oasis_condominium.jpg
 ---
 
 تشتري وحدة كوندومينيوم، لكن من الذي يملك فعلاً المصعد وحمام السباحة وممر موقف السيارات — ومن له الحق في تحصيل رسم شهري منك؟ يكمن الجواب في طبقة من الحوكمة نادرًا ما يقرأ عنها المشترون حتى ينشأ نزاع: إطار قانون إدارة العقارات الطبقية لسنة 2013 (Strata Management Act 2013 / Act 757).

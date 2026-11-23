@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_348-Sentral-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-1.webp
+    alt: Rows of upmarket high-rise condominiums crowd the Mont Kiara skyline in Kuala Lumpur, an expatriate-favoured enclave where foreign buyers must clear the state price threshold.
+    kind: actual
+    origin: third-party
+    subject: High-rise condominium skyline of Mont Kiara, Kuala Lumpur
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skyline_of_Mont_Kiara,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-2.webp
+    alt: The Forest City luxury waterfront towers rise over reclaimed land in Johor, a mega-project marketed heavily to foreign purchasers near the Singapore border.
+    kind: actual
+    origin: third-party
+    subject: Forest City luxury waterfront development under construction, Johor
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City,_Johor_in_development.jpg
 ---
 
 A buyer from Hong Kong agrees to pay RM1.8 million for a semi-detached house in Petaling Jaya. The financing is arranged, the seller is willing, the price clears every threshold anyone quoted online. The deal still cannot complete until a state government office in Shah Alam decides — at its own discretion — whether to let a foreigner hold that title at all.

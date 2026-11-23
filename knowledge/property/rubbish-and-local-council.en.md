@@ -24,7 +24,7 @@ appliesTo: "Anyone living in Malaysia who needs to understand who collects rubbi
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e61c9e41571bda53"
+sourceContentHash: "6100de3c986f35cf"
 
 status: "published"
 aiAssisted: true
@@ -75,6 +75,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hino_500_BPQ_1074_of_KDEB_Waste_Management_lorry_at_Lorong_Camar_4-5C,_Kota_Damansara_20230930_124457.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-1.webp
+    alt: A blue public litter bin marked with the MBPJ local-council crest on a grass verge in Kota Damansara, Selangor
+    kind: representative
+    origin: third-party
+    subject: A council rubbish bin bearing the MBPJ (Petaling Jaya City Council) crest in Kota Damansara
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubbish_bin_MBPJ-PJU5-Cecawi_6-27-119_at_Taman_Seksyen_6_Kota_Damansara_20240220_090528.jpg
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-2.webp
+    alt: A row of four labelled recycling bins for paper, cans and plastic, glass and non-recyclable waste at a public spot in Kuala Lumpur
+    kind: representative
+    origin: third-party
+    subject: Separated recycling bins for paper, cans and plastic, glass and non-recyclable waste in Kuala Lumpur
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Recycle_bins_in_Kuala_Lumpur,_Malaysia_27042026_-_01.jpg
 ---
 
 Your rubbish bin is collected twice a week, but have you ever asked who actually collects it — the local council, or another company the council has appointed? And why can your neighbour in the next state be fined for not separating plastic bottles from food waste, while you are not?

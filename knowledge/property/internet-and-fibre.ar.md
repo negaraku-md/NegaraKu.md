@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "كل من يستأجر أو يشتري أو ينتقل إلى منزل في ماليزيا ويحتاج إلى توصيل نطاق عريض ثابت."
 
 lang: "ar"
-sourceContentHash: "bbd067458507d9b6"
+sourceContentHash: "1f75dbb83189587b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Telekom-Malaysia-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/internet-and-fibre/body-1.webp
+    alt: مبنى مكاتب تابع لـ Telekom Malaysia، المشغّل الوطني للخطوط الثابتة والألياف البصرية، في بوتراجايا
+    kind: representative
+    origin: third-party
+    subject: مبنى مكاتب لـ Telekom Malaysia (TM) في بوتراجايا
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TM_building_in_Putrajaya.JPG
+  - role: scene
+    src: /media/property/internet-and-fibre/body-2.webp
+    alt: مودم ألياف بصرية من Unifi يحمل علامة FiberHome مثبّت على جدار داخل منزل
+    kind: representative
+    origin: third-party
+    subject: مودم إنترنت بالألياف البصرية من Unifi (FiberHome ONT) مُركَّب في منزل ماليزي
+    credit: Thebaldball / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Unifi_FiberHome.jpg
 ---
 
 قبل أن تقارن حتى رينغيتًا واحدًا من السعر، هناك سؤال أهم: هل تصل الألياف أصلًا إلى باب منزلك؟ وقّع عقدًا لعامين قبل التحقق من ذلك، وقد تكتشف يوم التركيب أن الفنّي لا يستطيع فعلًا مدّ خط إلى وحدتك.

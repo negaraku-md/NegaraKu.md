@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "மலேசியாவில் வீடு வாடகைக்கு எடுக்கும், வாங்கும் அல்லது குடியேறும், நிலையான பிராட்பேண்டை இணைக்க வேண்டிய எவரும்."
 
 lang: "ta"
-sourceContentHash: "bbd067458507d9b6"
+sourceContentHash: "1f75dbb83189587b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Telekom-Malaysia-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/internet-and-fibre/body-1.webp
+    alt: புத்ராஜெயாவில் தேசிய நிலையான தொலைபேசி இணைப்பு மற்றும் ஒளியிழை இணைப்பு நிறுவனமான Telekom Malaysia இன் அலுவலகக் கட்டிடம்
+    kind: representative
+    origin: third-party
+    subject: புத்ராஜெயாவில் உள்ள Telekom Malaysia (TM) அலுவலகக் கட்டிடம்
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TM_building_in_Putrajaya.JPG
+  - role: scene
+    src: /media/property/internet-and-fibre/body-2.webp
+    alt: ஒரு வீட்டிற்குள் சுவரில் பொருத்தப்பட்ட, FiberHome பிராண்ட் கொண்ட Unifi ஒளியிழை மோடம்
+    kind: representative
+    origin: third-party
+    subject: மலேசிய வீடொன்றில் பொருத்தப்பட்ட Unifi ஒளியிழை பிராட்பேண்ட் மோடம் (FiberHome ONT)
+    credit: Thebaldball / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Unifi_FiberHome.jpg
 ---
 
 நீங்கள் ஒரு ரிங்கிட் விலையைக் கூட ஒப்பிடுவதற்கு முன், அதைவிட முக்கியமான ஒரு

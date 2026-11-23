@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que alquile o arriende una propiedad residencial en Malasia: inquilinos que firman su primer contrato de arrendamiento, y arrendadores que lo redactan, en Malasia Peninsular, Sabah o Sarawak."
 
 lang: "es"
-sourceContentHash: "22529f1f29bdf0fb"
+sourceContentHash: "0548eebf82cca3c3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-1.webp
+    alt: Densos pisos de apartamentos de gran altura junto a un río en Kuala Lumpur, representativos de la vivienda de alquiler en Malasia
+    kind: representative
+    origin: third-party
+    subject: Pisos de apartamentos de gran altura en Abdullah Hukum, Kuala Lumpur
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abdullah_Hukum_Apartments_and_Putra_Ria_Apartments.jpg
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-2.webp
+    alt: Bloques de apartamentos de altura media y gran altura en los suburbios de George Town, Penang, típicos de las viviendas que se ofrecen en alquiler en Malasia
+    kind: representative
+    origin: third-party
+    subject: Bloques de apartamentos en los suburbios de George Town, Penang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
 ---
 
 Pregunte a un arrendador y a un inquilino en Malasia qué ley los protege, y la mayoría se equivocará. No hay una «Ley de Arrendamiento Residencial» a la que recurrir, ni una única norma que fije los plazos de preaviso, limite los depósitos o detalle lo que un arrendador puede y no puede hacer al momento de la mudanza.

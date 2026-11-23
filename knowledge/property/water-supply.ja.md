@@ -28,7 +28,7 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2028-07-24
-sourceContentHash: "cd6088681198b24d"
+sourceContentHash: "09a303e0c18c73b1"
 revision: 0
 revisions:
   - revision: 0
@@ -67,6 +67,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/water-supply/body-1.webp
+    alt: ランカウイのSungai Padang Matsiratに架かる、小さなコンクリート製の堰とゲート付き水位制御構造物。マレーシアの給水インフラの一部である。
+    kind: representative
+    origin: third-party
+    subject: ランカウイのSungai Padang Matsiratにある堰と水位制御構造物
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Padang-Matsirat_Langkawi_Sungai-Padang-Matsirat-Dam-01.jpg
+  - role: scene
+    src: /media/property/water-supply/body-2.webp
+    alt: ジョホール州の、Taman Setia Tropikaと記された大きな白い高架貯水タンク。地元の給水のために処理済みの水を貯めている。
+    kind: representative
+    origin: third-party
+    subject: ジョホール州Taman Setia Tropikaの高架貯水タンク
+    credit: PM Poon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Setia_Tropika_Water_Tower.jpg
 ---
 
 あなたはセランゴールからジョホールへ引っ越す。銀行口座は同じ。電話番号もそのまま持っていける。しかし、あなたの水道口座は？それはついてこない——なぜなら、あなたの新居に水を供給する会社は、まったく別の会社だからだ。

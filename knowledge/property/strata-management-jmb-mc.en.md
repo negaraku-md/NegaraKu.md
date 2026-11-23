@@ -35,7 +35,7 @@ faq:
     a: "Non-compliance with an award is a criminal offence under Section 123 — a fine not exceeding RM250,000 or imprisonment not exceeding 3 years or both, with a further fine of up to RM5,000 a day for a continuing offence. A complaint is made to the Commissioner of Buildings (COB)."
 
 lang: "en"
-sourceContentHash: "c33c12700672ddab"
+sourceContentHash: "80ac685b0a5c215d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-1.webp
+    alt: A cluster of modern strata condominium towers at Harbour View in Butterworth, Penang, the kind of development run by a JMB or management corporation
+    kind: representative
+    origin: third-party
+    subject: A cluster of strata condominium high-rises at Harbour View, Butterworth
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Harbour_View,_Butterworth_20250917_103104.jpg
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-2.webp
+    alt: The gated entrance, guardhouse and common clubhouse block of The Oasis strata condominium in Gelugor, Penang, with its residential towers behind
+    kind: representative
+    origin: third-party
+    subject: The guarded entrance and clubhouse of The Oasis condominium in Gelugor, Penang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Oasis_condominium.jpg
 ---
 
 You buy a condominium unit, but who actually owns the lift, the swimming pool and the car-park driveway — and who has the right to collect a monthly fee from you? The answer lies in a layer of governance that buyers rarely read about until a dispute arises: the framework of the Strata Management Act 2013 (Act 757).

@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "मलेशियाई नागरिक, स्थायी निवासी, पहली बार घर खरीदने वाले, और विदेशी खरीदार (अतिरिक्त प्रतिबंधों और शुल्क दरों के अधीन)"
 
 lang: "hi"
-sourceContentHash: "7bbb4ca3cdb29e8e"
+sourceContentHash: "1351b65e9c82e4a6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cassia_Homes,_Forest_Heights,_Seremban.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/buying-a-home-process/body-1.webp
+    alt: ताज़ा बने मकान और खुली मिट्टी Kepayang Heights में उभरती एक नई आवासीय परियोजना को दर्शाते हैं, यह वही प्रकार की परियोजना है जहाँ खरीदार एक सेल्स गैलरी की योजना देखकर बुकिंग करते हैं।
+    kind: representative
+    origin: third-party
+    subject: Kepayang Heights, नेगेरी संबिलान में निर्माणाधीन नई आवासीय परियोजना
+    credit: hermitaurous / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:New_housing_development,_Kepayang_Heights_-_panoramio.jpg
+  - role: scene
+    src: /media/property/buying-a-home-process/body-2.webp
+    alt: Taman Idaman, पेनांग में नव-निर्मित एकसमान भू-स्वामित्व वाले मकानों की एक गली, यह वही प्रकार का तैयार विकास है जिसमें खरीदार चाबियाँ सौंपे जाने के बाद रहने आता है।
+    kind: representative
+    origin: third-party
+    subject: Taman Idaman, सेबेरांग पेराई सेलातान, पेनांग में पूर्ण हुए भू-स्वामित्व वाले मकान
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg
 ---
 
 मलेशिया में घर की खरीद को आमतौर पर दो वकील छूते हैं, और अधिकांश खरीदार कभी नहीं भाँप पाते कि वे दो अलग-अलग व्यक्ति हैं। एक उस बिक्री और खरीद समझौते का मसौदा तैयार करता है और उसे स्टैम्प करता है जो संपत्ति को आगे बढ़ाता है। दूसरा — बैंक द्वारा नियुक्त, कभी-कभी वही फ़र्म — उस ऋण और चार्ज का मसौदा तैयार करता है और स्टैम्प करता है जो बैंक को संपत्ति ज़ब्त करने देता है यदि ऋण न चुकाया जाए। जो खरीदार इस कहानी में «वकील» को एक ही किरदार मानते हैं, वे अक्सर बाद में उलझ जाते हैं कि कानूनी शुल्क के दो सेट क्यों दिखे, या ऋण स्वीकृत होने के दिन चाबियाँ क्यों नहीं आईं।

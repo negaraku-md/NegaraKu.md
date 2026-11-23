@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que alquile, compre o se mude a una vivienda en Malasia y necesite conectar banda ancha fija."
 
 lang: "es"
-sourceContentHash: "bbd067458507d9b6"
+sourceContentHash: "1f75dbb83189587b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Telekom-Malaysia-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/internet-and-fibre/body-1.webp
+    alt: Un edificio de oficinas de Telekom Malaysia, el operador nacional de telefonía fija y fibra, en Putrajaya
+    kind: representative
+    origin: third-party
+    subject: Un edificio de oficinas de Telekom Malaysia (TM) en Putrajaya
+    credit: Khairul hazim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:TM_building_in_Putrajaya.JPG
+  - role: scene
+    src: /media/property/internet-and-fibre/body-2.webp
+    alt: Un módem de fibra óptica Unifi de marca FiberHome montado en la pared dentro de una vivienda
+    kind: representative
+    origin: third-party
+    subject: Un módem de banda ancha por fibra Unifi (ONT FiberHome) instalado en una vivienda malasia
+    credit: Thebaldball / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Unifi_FiberHome.jpg
 ---
 
 Antes de comparar un solo ringgit de precio, hay una pregunta que importa

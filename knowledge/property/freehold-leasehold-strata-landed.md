@@ -71,6 +71,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jesselton_Residences_Kota_Kinabalu,_Sabah,_Malaysia.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-1.webp
+    alt: A single detached bungalow sits on its own fenced plot in Johor Bahru, the archetypal landed property that carries an individual land title rather than a strata share.
+    kind: actual
+    origin: third-party
+    subject: A detached bungalow in Johor Bahru
+    credit: Terence Ong / Wikimedia Commons
+    license: CC BY 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JB_black_and_white_bungalow.JPG
+  - role: scene
+    src: /media/property/freehold-leasehold-strata-landed/body-2.webp
+    alt: Blocks of public low-cost PPR flats stand in Bukit Jalil, Kuala Lumpur, where each unit is held under a strata title with shared ownership of the common property.
+    kind: actual
+    origin: third-party
+    subject: Public low-cost flats (PPR) in Bukit Jalil, Kuala Lumpur
+    credit: Brownc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:PPR_in_Bukit_Jalil,_Kuala_Lumpur.jpg
 ---
 
 Two near-identical terrace houses on the same street can carry very different promises from the State: one title says "freehold," the other "leasehold, 99 years, expiring 2118." A second, unrelated question decides whether you also co-own a lift lobby and pool with forty other households, or whether the driveway and roof are entirely your own problem. Buyers routinely collapse both questions into one — "is it freehold or is it a condo?" — when a property is always answering both, independently.

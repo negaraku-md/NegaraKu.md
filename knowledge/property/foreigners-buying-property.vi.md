@@ -28,7 +28,7 @@ verificationNeeded:
   - "Trích dẫn và năm chính xác của sửa đổi National Land Code vốn đóng lại miễn trừ trước đó cho đất công nghiệp khỏi sự đồng ý của Chính quyền Bang không thể xác nhận được so với chính văn bản của Đạo luật sửa đổi; nó được mô tả ở đây dựa trên bình luận pháp lý thứ cấp hội tụ chứ không phải một điều khoản gốc được đọc trực tiếp."
 
 lang: "vi"
-sourceContentHash: "108b77146a2f6cd9"
+sourceContentHash: "78ee4bcd8de014e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_348-Sentral-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-1.webp
+    alt: Những dãy chung cư cao cấp cao tầng chen chúc trên đường chân trời Mont Kiara ở Kuala Lumpur, một khu vực được giới expat ưa chuộng, nơi người mua nước ngoài phải đạt ngưỡng giá tối thiểu của bang.
+    kind: actual
+    origin: third-party
+    subject: Đường chân trời chung cư cao tầng của Mont Kiara, Kuala Lumpur
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skyline_of_Mont_Kiara,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-2.webp
+    alt: Những tòa tháp ven biển hạng sang Forest City vươn lên trên vùng đất lấn biển ở Johor, một siêu dự án được quảng bá mạnh đến người mua nước ngoài gần biên giới Singapore.
+    kind: actual
+    origin: third-party
+    subject: Dự án ven biển hạng sang Forest City đang xây dựng, Johor
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City,_Johor_in_development.jpg
 ---
 
 Một người mua từ Hồng Kông đồng ý trả RM1.8 triệu cho một căn nhà bán biệt lập ở Petaling Jaya. Tài trợ đã được thu xếp, người bán sẵn lòng, giá vượt mọi ngưỡng mà bất kỳ ai báo trên mạng. Giao dịch vẫn không thể hoàn tất cho đến khi một văn phòng của chính quyền bang ở Shah Alam quyết định — theo tùy nghi của mình — liệu có cho một người nước ngoài giữ quyền sở hữu đó hay không.

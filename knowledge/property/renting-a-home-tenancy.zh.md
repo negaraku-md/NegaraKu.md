@@ -23,7 +23,7 @@ appliesTo: "在马来西亚半岛、沙巴或砂拉越租住或出租住宅物�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "22529f1f29bdf0fb"
+sourceContentHash: "0548eebf82cca3c3"
 
 status: "published"
 aiAssisted: true
@@ -88,6 +88,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Miharja_Apartment_20241130_144810.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-1.webp
+    alt: 吉隆坡河畔密集的高层公寓组屋，代表马来西亚的出租住房
+    kind: representative
+    origin: third-party
+    subject: 吉隆坡Abdullah Hukum的高层公寓组屋
+    credit: Serpicozaure / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Abdullah_Hukum_Apartments_and_Putra_Ria_Apartments.jpg
+  - role: scene
+    src: /media/property/renting-a-home-tenancy/body-2.webp
+    alt: 槟城乔治市（George Town）郊区的中高层公寓楼，是马来西亚常见供出租的住宅类型
+    kind: representative
+    origin: third-party
+    subject: 槟城乔治市郊区的公寓楼
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_suburban_George_Town,_Penang.jpg
 ---
 
 问马来西亚的房东和租客哪部法律保护他们，大多数人都会猜错。这里没有一部可以援引的「住宅租赁法」——没有单一成文法规定通知期、设定押金上限，或明确列出房东在租客搬出时能做与不能做的事。

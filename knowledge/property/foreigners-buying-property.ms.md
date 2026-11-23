@@ -30,7 +30,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "108b77146a2f6cd9"
+sourceContentHash: "78ee4bcd8de014e0"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_348-Sentral-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-1.webp
+    alt: Deretan kondominium mewah bertingkat tinggi memenuhi kaki langit Mont Kiara di Kuala Lumpur, sebuah kawasan yang digemari ekspatriat tempat pembeli asing perlu memenuhi had harga minimum negeri.
+    kind: actual
+    origin: third-party
+    subject: Kaki langit kondominium bertingkat tinggi di Mont Kiara, Kuala Lumpur
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skyline_of_Mont_Kiara,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-2.webp
+    alt: Menara mewah tepi air Forest City menjulang di atas tanah tambak di Johor, sebuah projek mega yang dipasarkan hebat kepada pembeli asing berhampiran sempadan Singapura.
+    kind: actual
+    origin: third-party
+    subject: Pembangunan mewah tepi air Forest City yang sedang dibina, Johor
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City,_Johor_in_development.jpg
 ---
 
 Seorang pembeli dari Hong Kong bersetuju membayar RM1.8 juta untuk sebuah rumah berkembar di Petaling Jaya. Pembiayaan telah diatur, penjual bersetuju, dan harga itu melepasi setiap ambang yang disebut di internet. Namun urus niaga itu masih tidak boleh selesai sehingga sebuah pejabat kerajaan negeri di Shah Alam membuat keputusan — atas budi bicaranya sendiri — sama ada mahu membenarkan seorang warga asing memegang hak milik itu langsung.

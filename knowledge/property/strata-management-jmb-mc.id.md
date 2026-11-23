@@ -35,7 +35,7 @@ faq:
     a: "Ketidakpatuhan terhadap putusan adalah tindak pidana di bawah Pasal 123 — denda tidak melebihi RM250,000 atau penjara tidak melebihi 3 tahun atau keduanya, dengan denda tambahan hingga RM5,000 per hari bagi pelanggaran berkelanjutan. Pengaduan dibuat kepada Komisioner Bangunan (COB)."
 
 lang: "id"
-sourceContentHash: "c33c12700672ddab"
+sourceContentHash: "80ac685b0a5c215d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Orion_Condominium_and_Sky_Residences,_Kuala_Lumpur_20250121_122146.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-1.webp
+    alt: Sekelompok menara kondominium strata modern di Harbour View, Butterworth, Penang, jenis proyek yang dikelola oleh JMB atau badan pengelola (management corporation)
+    kind: representative
+    origin: third-party
+    subject: Gugus kondominium strata bertingkat tinggi di Harbour View, Butterworth
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Harbour_View,_Butterworth_20250917_103104.jpg
+  - role: scene
+    src: /media/property/strata-management-jmb-mc/body-2.webp
+    alt: Pintu masuk berpagar, pos penjaga, dan blok gedung klub bersama Kondominium strata The Oasis di Gelugor, Penang, dengan menara huniannya di belakang
+    kind: representative
+    origin: third-party
+    subject: Pintu masuk berpenjaga dan gedung klub Kondominium The Oasis di Gelugor, Penang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Oasis_condominium.jpg
 ---
 
 Anda membeli sebuah unit kondominium, tetapi siapa sebenarnya yang memiliki lift, kolam renang dan lorong tempat parkir — dan siapa yang berhak memungut iuran bulanan dari Anda? Jawabannya terletak pada satu lapisan tata kelola yang jarang dibaca pembeli sampai muncul sengketa: kerangka Strata Management Act 2013 (Act 757).

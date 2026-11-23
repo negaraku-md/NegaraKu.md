@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "108b77146a2f6cd9"
+sourceContentHash: "78ee4bcd8de014e0"
 
 status: "published"
 aiAssisted: true
@@ -96,6 +96,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_348-Sentral-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-1.webp
+    alt: 高級高層コンドミニアムが列をなしてクアラルンプールのMont Kiaraのスカイラインを埋める。駐在員に好まれるこの一角では、外国人買い手は州の最低価格基準を満たさねばならない。
+    kind: actual
+    origin: third-party
+    subject: クアラルンプール、Mont Kiaraの高層コンドミニアムのスカイライン
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skyline_of_Mont_Kiara,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-2.webp
+    alt: Forest Cityの高級ウォーターフロントの塔が、ジョホールの埋立地の上に立ち上がる。シンガポール国境近くで、外国人購入者に向けて大々的に売り込まれる巨大プロジェクトだ。
+    kind: actual
+    origin: third-party
+    subject: ジョホールで建設中のForest City高級ウォーターフロント開発
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City,_Johor_in_development.jpg
 ---
 
 香港からの買主が、プタリンジャヤ（Petaling Jaya）の一戸のセミデタッチハウスを RM180万で購入することに合意する。融資は手配され、売主も応じ、価格はネット上で誰かが提示したあらゆる基準を上回っている。それでもこの取引は、シャアラム（Shah Alam）の州政府の事務所が——自らの裁量で——そもそも外国人にその権利を保有させるかどうかを決定するまで、完了できない。

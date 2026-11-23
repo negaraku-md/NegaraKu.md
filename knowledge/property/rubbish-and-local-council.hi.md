@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "मलेशिया में रहने वाला कोई भी व्यक्ति जिसे यह समझने की आवश्यकता है कि उसके क्षेत्र में कचरा कौन उठाता है, क्या उसे स्रोत पर कचरा अलग करना आवश्यक है, और यदि वह न करे तो क्या जोखिम है।"
 
 lang: "hi"
-sourceContentHash: "e61c9e41571bda53"
+sourceContentHash: "6100de3c986f35cf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,6 +75,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hino_500_BPQ_1074_of_KDEB_Waste_Management_lorry_at_Lorong_Camar_4-5C,_Kota_Damansara_20230930_124457.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-1.webp
+    alt: कोटा दमनसारा, सेलांगोर में एक घास की पट्टी पर MBPJ स्थानीय-परिषद के प्रतीक-चिह्न से अंकित एक नीला सार्वजनिक कूड़ादान
+    kind: representative
+    origin: third-party
+    subject: कोटा दमनसारा में MBPJ (पेटालिंग जया नगर परिषद) के प्रतीक-चिह्न वाला एक परिषद कूड़ादान
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubbish_bin_MBPJ-PJU5-Cecawi_6-27-119_at_Taman_Seksyen_6_Kota_Damansara_20240220_090528.jpg
+  - role: scene
+    src: /media/property/rubbish-and-local-council/body-2.webp
+    alt: कुआलालंपुर में एक सार्वजनिक स्थान पर कागज़, डिब्बे और प्लास्टिक, काँच तथा गैर-पुनर्चक्रण-योग्य कचरे के लिए चार लेबल वाले रीसाइक्लिंग डिब्बों की एक कतार
+    kind: representative
+    origin: third-party
+    subject: कुआलालंपुर में कागज़, डिब्बे और प्लास्टिक, काँच तथा गैर-पुनर्चक्रण-योग्य कचरे के लिए अलग-अलग रीसाइक्लिंग डिब्बे
+    credit: Wiki Asmah / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Recycle_bins_in_Kuala_Lumpur,_Malaysia_27042026_-_01.jpg
 ---
 
 आपका कचरादान सप्ताह में दो बार उठाया जाता है, लेकिन क्या आपने कभी पूछा है कि इसे वास्तव में कौन उठाता है — स्थानीय परिषद, या कोई अन्य कंपनी जिसे परिषद ने नियुक्त किया है? और क्यों आपके पड़ोसी राज्य का पड़ोसी प्लास्टिक की बोतलों को खाद्य अपशिष्ट से अलग न करने पर दंडित हो सकता है, जबकि आप नहीं?

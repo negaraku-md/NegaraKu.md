@@ -35,7 +35,7 @@ faq:
     a: "Sí. Los gastos que aumenten o preserven el valor de la propiedad, como los costos de renovación y mejora, pueden deducirse siempre que estén respaldados por recibos y documentos válidos."
 
 lang: "es"
-sourceContentHash: "d30bca1500940866"
+sourceContentHash: "2413423d254ace48"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-1.webp
+    alt: El pabellón de la galería de ventas a pie de carretera y la gran rotulación de la promoción residencial Riana Dutamas en Segambut, Kuala Lumpur, donde se comercializan y venden las viviendas nuevas
+    kind: representative
+    origin: third-party
+    subject: La galería de ventas y la rotulación de la promoción residencial Riana Dutamas, Segambut, Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Dutamas_Sales_Gallery,_Kampung_Pasir_Segambut_20230304_115010.jpg
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-2.webp
+    alt: Una moderna casa de kampung malasia independiente con tejado metálico, que representa una vivienda con terreno cuya transmisión puede dar lugar al impuesto sobre las plusvalías inmobiliarias
+    kind: representative
+    origin: third-party
+    subject: Una moderna casa de pueblo independiente en Kampung Kuala Lah
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Kuala_Lah_Modern_House.jpg
 ---
 
 Usted vende una casa con beneficio, pero antes de que el dinero llegue a su cuenta, el gobierno quiere su parte. Eso es el RPGT, un impuesto que los vendedores suelen pasar por alto hasta que el abogado retiene miles de ringgit en la mesa de liquidación.

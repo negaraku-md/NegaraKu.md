@@ -22,7 +22,7 @@ verificationNeeded:
   - "पाहांग, नेगेरी सेम्बिलान और केदाह के लिए राज्य जल कंपनियों के सटीक नाम span.gov.my वेबसाइट पर सूचीबद्ध हैं लेकिन इस मसौदे को तैयार करते समय पूरी तरह निकाले नहीं जा सके; इसे सीधे span.gov.my पर फिर से जाँचने की आवश्यकता है।"
   - "सबाह और सारावाक के विशिष्ट विधायी ढाँचों (संबंधित राज्य अधिनियमों/अध्यादेशों के नाम) का इस मसौदे को तैयार करते समय किसी आधिकारिक स्रोत के विरुद्ध सीधे सत्यापन नहीं किया गया; PAAB दोनों राज्यों के PAAB मॉडल से सामान्य बहिष्करण की पुष्टि करता है, लेकिन पूर्ण विधायी विवरण को फिर से जाँचने की आवश्यकता है।"
 lang: "hi"
-sourceContentHash: "cd6088681198b24d"
+sourceContentHash: "09a303e0c18c73b1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -69,6 +69,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/water-supply/body-1.webp
+    alt: लंगकावी में Sungai Padang Matsirat पर फैली एक छोटी कंक्रीट की बाँध और गेट वाली जल-नियंत्रण संरचना, मलेशिया के जल-आपूर्ति ढाँचे का हिस्सा
+    kind: representative
+    origin: third-party
+    subject: Sungai Padang Matsirat, लंगकावी पर एक नदी बाँध और जल-नियंत्रण संरचना
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Padang-Matsirat_Langkawi_Sungai-Padang-Matsirat-Dam-01.jpg
+  - role: scene
+    src: /media/property/water-supply/body-2.webp
+    alt: जोहोर में Taman Setia Tropika अंकित एक बड़ा सफ़ेद ऊँचा जल-भंडारण टैंक, जो स्थानीय आपूर्ति के लिए शोधित पानी रखता है
+    kind: representative
+    origin: third-party
+    subject: Taman Setia Tropika, जोहोर में एक ऊँचा जल-भंडारण टैंक
+    credit: PM Poon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Setia_Tropika_Water_Tower.jpg
 ---
 
 आप सेलांगोर से जोहोर जाते हैं। आपका बैंक खाता वही रहता है। आपकी फ़ोन लाइन आपके साथ आ सकती है। लेकिन आपका जल खाता? वह आपका अनुसरण नहीं करता — क्योंकि आपके नए घर को पानी की आपूर्ति करने वाली कंपनी पूरी तरह से एक अलग कंपनी है।

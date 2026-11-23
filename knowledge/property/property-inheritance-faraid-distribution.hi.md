@@ -30,7 +30,7 @@ faq:
     a: "अचल संपत्ति वाली और RM5 मिलियन से कम मूल्य की छोटी संपदा का प्रशासन भूमि प्रशासक जिला भूमि कार्यालय (District Land Office) के माध्यम से करता है, जो एक वितरण आदेश (Distribution Order) जारी करता है।"
 
 lang: "hi"
-sourceContentHash: "7da221c06c43a7d9"
+sourceContentHash: "2343c4808c8495fb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-1.webp
+    alt: ग्रामीण परिवेश में एक पारंपरिक, खंभों पर खड़ा, ढलवाँ छत वाला लकड़ी का मलय मकान
+    kind: representative
+    origin: third-party
+    subject: एक पारंपरिक लकड़ी का मलय कम्पुंग मकान, पारिवारिक घर का एक आमतौर पर विरासत में मिलने वाला प्रकार
+    credit: Syahmir / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_house_(6880664352).jpg
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-2.webp
+    alt: तेमोह, पेराक में एक पुराना होता एक-मंज़िला भू-स्वामित्व वाला मकान, जिस प्रकार का घर अक्सर वारिसों को सौंपा जाता है
+    kind: representative
+    origin: third-party
+    subject: तेमोह, पेराक में एक पुराना भू-स्वामित्व वाला पारिवारिक मकान
+    credit: Coach lai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:An_old.house,_Temoh,_Malaysia.jpg
 ---
 
 जब मलेशिया में किसी की मृत्यु होती है, तो उसके घर का वारिस कौन होगा, यह पहले एक बुनियादी बात पर निर्भर करता है: मृतक मुसलमान था या गैर-मुसलमान। दो अलग-अलग कानूनी प्रणालियाँ इसका उत्तर तय करती हैं, और किसी भी भूमि के स्वामित्व का नाम बदलने से पहले दोनों अलग-अलग प्राधिकरणों से होकर गुज़रती हैं।

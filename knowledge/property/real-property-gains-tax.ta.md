@@ -37,7 +37,7 @@ faq:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d30bca1500940866"
+sourceContentHash: "2413423d254ace48"
 
 status: "published"
 aiAssisted: true
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-1.webp
+    alt: கோலாலம்பூர், Segambut இல் புதிய வீடுகள் சந்தைப்படுத்தப்பட்டு விற்கப்படும் Riana Dutamas குடியிருப்புத் திட்டத்தின் சாலையோர விற்பனைக் கூட மண்டபம் மற்றும் பெரிய எழுத்துப் பெயர்ப்பலகை
+    kind: representative
+    origin: third-party
+    subject: கோலாலம்பூர், Segambut இல் உள்ள Riana Dutamas குடியிருப்புத் திட்டத்தின் விற்பனைக் கூடம் மற்றும் பெயர்ப்பலகை
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Dutamas_Sales_Gallery,_Kampung_Pasir_Segambut_20230304_115010.jpg
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-2.webp
+    alt: உலோகக் கூரையுடன் கூடிய ஒரு நவீன தனித்த மலேசிய கிராம (கம்போங்) வீடு; விற்பனை செய்தால் ரியல் ப்ராப்பர்ட்டி கெயின்ஸ் வரி (RPGT) விதிக்கப்படக்கூடிய நிலத்துடன் கூடிய வீட்டைக் குறிக்கிறது
+    kind: representative
+    origin: third-party
+    subject: Kampung Kuala Lah இல் ஒரு நவீன தனித்த கிராம வீடு
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Kuala_Lah_Modern_House.jpg
 ---
 
 நீங்கள் ஒரு வீட்டை லாபத்துடன் விற்கிறீர்கள் — ஆனால் பணம் உங்கள் கணக்கிற்கு வருவதற்கு முன், அரசு தன் பங்கை விரும்புகிறது. அதுதான் RPGT; தீர்வு மேசையில் வழக்கறிஞர் ஆயிரக்கணக்கான ரிங்கிட்டைத் தடுத்து வைக்கும் வரை விற்பனையாளர்களால் அடிக்கடி கவனிக்கப்படாமல் போகும் வரி.

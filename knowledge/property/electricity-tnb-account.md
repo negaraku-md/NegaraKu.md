@@ -76,6 +76,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hezery99-TNB_electricity_meter.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-1.webp
+    alt: Sebuah pencawang elektrik Tenaga Nasional berpagar di Bandar Utama, Petaling Jaya, satu rangkai dalam grid yang membekalkan tenaga kepada setiap akaun TNB isi rumah di seluruh Selangor.
+    kind: actual
+    origin: third-party
+    subject: Pencawang elektrik Tenaga Nasional di Bandar Utama, Petaling Jaya
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Electrical_Substation.jpg
+  - role: scene
+    src: /media/property/electricity-tnb-account/body-2.webp
+    alt: Pencawang pengambilan utama Tenaga Nasional di Bandar Utama dipenuhi suis gear dan gantri, langkah voltan tinggi sebelum kuasa sampai ke meter di rumah pengguna.
+    kind: actual
+    origin: third-party
+    subject: Pencawang penghantaran pengambilan utama (PPU) Tenaga Nasional, Bandar Utama
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bandar_Utama_TNB_Transmission_Main_Intake.jpg
 ---
 
 Anda dapat kunci rumah baharu, tapi suis lampu tidak buat apa-apa. Meter di

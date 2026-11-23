@@ -35,7 +35,7 @@ faq:
     a: "예. 개조 및 개량 비용처럼 부동산의 가치를 더하거나 유지하는 경비는, 유효한 영수증과 서류로 뒷받침되는 한 공제할 수 있습니다."
 
 lang: "ko"
-sourceContentHash: "d30bca1500940866"
+sourceContentHash: "2413423d254ace48"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Verdana_condominium,_North_Kiara,_Kuala_Lumpur.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-1.webp
+    alt: 쿠알라룸푸르 Segambut의 Riana Dutamas 주택 개발 길가에 선 분양 갤러리 건물과 큰 글자 간판. 이곳에서 새 주택이 마케팅되고 판매된다.
+    kind: representative
+    origin: third-party
+    subject: 쿠알라룸푸르 Segambut Riana Dutamas 주택 개발의 분양 갤러리와 간판
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Riana_Dutamas_Sales_Gallery,_Kampung_Pasir_Segambut_20230304_115010.jpg
+  - role: scene
+    src: /media/property/real-property-gains-tax/body-2.webp
+    alt: Kampung Kuala Lah에 있는 금속 지붕의 현대식 단독 캄풍 가옥. 처분 시 부동산양도소득세(RPGT)가 발생할 수 있는 유지 주택을 나타낸다.
+    kind: representative
+    origin: third-party
+    subject: Kampung Kuala Lah의 현대식 단독 캄풍 가옥
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Kuala_Lah_Modern_House.jpg
 ---
 
 집을 이익을 남기고 팔았습니다 — 그러나 돈이 계좌에 들어오기 전에, 정부가 자기 몫을 원합니다. 그것이 RPGT이며, 변호사가 정산 테이블에서 수천 링깃을 원천징수할 때까지 매도인이 흔히 간과하는 세금입니다.

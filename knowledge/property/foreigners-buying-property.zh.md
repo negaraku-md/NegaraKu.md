@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "108b77146a2f6cd9"
+sourceContentHash: "78ee4bcd8de014e0"
 
 status: "published"
 aiAssisted: true
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_348-Sentral-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-1.webp
+    alt: 一排排高档高层公寓挤满吉隆坡满家乐（Mont Kiara）的天际线，这是外籍人士偏爱的聚居区，外国买家须跨过州定的最低房价门槛方可购置。
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡满家乐（Mont Kiara）的高层公寓天际线
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Skyline_of_Mont_Kiara,_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/property/foreigners-buying-property/body-2.webp
+    alt: 森林城市（Forest City）的豪华滨海高楼在柔佛的填海土地上拔地而起，这是一个主力向外国买家推销、紧邻新加坡边境的超大型项目。
+    kind: actual
+    origin: third-party
+    subject: 柔佛在建的森林城市（Forest City）豪华滨海发展项目
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201905_Forest_City,_Johor_in_development.jpg
 ---
 
 一名来自香港的买家同意以 RM1.8 million 的价格购买八打灵再也（Petaling Jaya）的一间半独立式住宅。融资已经安排妥当，卖方也愿意出售，价格跨过了网上所能查到的每一道门槛。然而，这笔交易仍然无法完成，除非莎阿南（Shah Alam）的一个州政府机构做出决定——完全由其自行酌情——是否允许一名外国人持有这份地契。

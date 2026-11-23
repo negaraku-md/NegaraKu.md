@@ -30,7 +30,7 @@ faq:
     a: "มรดกขนาดเล็กที่มีอสังหาริมทรัพย์และมีมูลค่าต่ำกว่า RM5 ล้านดำเนินการโดยผู้จัดการที่ดิน (Pentadbir Tanah) ผ่านสำนักงานที่ดินอำเภอ ซึ่งออกคำสั่งแบ่งมรดก (Perintah Pembahagian)"
 
 lang: "th"
-sourceContentHash: "7da221c06c43a7d9"
+sourceContentHash: "2343c4808c8495fb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Idaman,_Jalan_Kendi_(220903)_1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-1.webp
+    alt: บ้านไม้มลายูแบบดั้งเดิมยกเสาสูงหลังคาจั่วตั้งอยู่ในบรรยากาศชนบท
+    kind: representative
+    origin: third-party
+    subject: บ้านไม้มลายูแบบกัมปง(kampung)ดั้งเดิม ซึ่งเป็นบ้านครอบครัวประเภทที่มักได้รับสืบทอดเป็นมรดก
+    credit: Syahmir / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Traditional_Malay_house_(6880664352).jpg
+  - role: scene
+    src: /media/property/property-inheritance-faraid-distribution/body-2.webp
+    alt: บ้านมีที่ดินชั้นเดียวหลังเก่าใน Temoh รัฐเประ ประเภทที่มักส่งต่อให้ทายาท
+    kind: representative
+    origin: third-party
+    subject: บ้านครอบครัวแบบมีที่ดินหลังเก่าใน Temoh รัฐเประ
+    credit: Coach lai / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:An_old.house,_Temoh,_Malaysia.jpg
 ---
 
 เมื่อบุคคลหนึ่งเสียชีวิตในมาเลเซีย ใครเป็นผู้รับมรดกบ้านของเขาขึ้นอยู่กับเรื่องพื้นฐานเรื่องหนึ่งก่อน คือ ผู้เสียชีวิตเป็นชาวมุสลิมหรือไม่ใช่มุสลิม ระบบกฎหมายที่แตกต่างกันสองระบบควบคุมคำตอบนั้น และทั้งสองดำเนินการผ่านหน่วยงานที่แตกต่างกันก่อนที่โฉนดที่ดินใด ๆ จะเปลี่ยนชื่อได้

@@ -37,7 +37,7 @@ revisions:
     reviewer: null
 sensitivity: "none"
 updated: 2026-07-24
-sourceContentHash: "cd6088681198b24d"
+sourceContentHash: "09a303e0c18c73b1"
 sources:
   - title: "官方网站 — SPAN监管下的各州水务公司名单 (Laman rasmi — senarai syarikat air negeri di bawah seliaan SPAN)"
     url: "https://www.span.gov.my/"
@@ -68,6 +68,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Babagon_Sabah_Babagon-Dam-07a.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/water-supply/body-1.webp
+    alt: 横跨兰卡威Sungai Padang Matsirat的一座小型混凝土拦河堰与闸控水工建筑，是马来西亚供水基础设施的一部分
+    kind: representative
+    origin: third-party
+    subject: 兰卡威Sungai Padang Matsirat上的一座拦河堰与水位控制建筑
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Padang-Matsirat_Langkawi_Sungai-Padang-Matsirat-Dam-01.jpg
+  - role: scene
+    src: /media/property/water-supply/body-2.webp
+    alt: 柔佛一座标有Taman Setia Tropika字样的大型白色高架储水塔，为当地供水储存经处理的清水
+    kind: representative
+    origin: third-party
+    subject: 柔佛Taman Setia Tropika的一座高架储水塔
+    credit: PM Poon / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Setia_Tropika_Water_Tower.jpg
 ---
 
 你从雪兰莪搬到柔佛。银行账户不变，电话号码可以直接携带过去。但你的水表账户呢？它不会跟着走——因为为你新家供水的公司，根本就是完全不同的一家公司。

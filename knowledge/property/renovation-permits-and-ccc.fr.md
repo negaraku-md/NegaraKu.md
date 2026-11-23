@@ -28,7 +28,7 @@ faq:
     a: "Le CCC confirme que le logement a été construit conformément aux plans approuvés et qu'il est sûr à habiter. Sans le CCC, le bâtiment n'est officiellement pas propre à l'habitation et l'approvisionnement en services peut en être affecté."
 
 lang: "fr"
-sourceContentHash: "a8a8202635252bef"
+sourceContentHash: "733f8b4e0ffd792a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-1.webp
+    alt: Murs enduits de ciment aux ouvertures de fenêtres nouvellement formées et sacs de matériaux de construction lors de la rénovation d'une maison mitoyenne malaisienne
+    kind: representative
+    origin: third-party
+    subject: Murs fraîchement enduits et nouvelles ouvertures de fenêtres lors de la rénovation d'une maison mitoyenne au Selangor
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_163651.jpg
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-2.webp
+    alt: Une benne métallique remplie de chutes de bois et de gravats de chantier devant une maison mitoyenne malaisienne en cours de rénovation
+    kind: representative
+    origin: third-party
+    subject: Une benne de gravats de chantier sur un chantier de rénovation de maison mitoyenne au Selangor
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162147.jpg
 ---
 
 Vous voulez ajouter une cuisine à l'arrière de la maison ou construire un étage supérieur, et soudain un voisin vous dit « il faut d'abord faire une demande à la municipalité ». Est-ce vrai ? Pour la plupart des travaux de rénovation, oui.

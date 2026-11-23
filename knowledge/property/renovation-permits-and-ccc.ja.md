@@ -30,7 +30,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "a8a8202635252bef"
+sourceContentHash: "733f8b4e0ffd792a"
 
 status: "published"
 aiAssisted: true
@@ -78,6 +78,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162256.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-1.webp
+    alt: セランゴール州でのテラスハウス改修中の、セメントで仕上げた壁、新たに開けた窓の開口部、そして積まれた建材の袋
+    kind: representative
+    origin: third-party
+    subject: セランゴール州のテラスハウス改修で仕上げたばかりの壁と新設の窓開口
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_163651.jpg
+  - role: scene
+    src: /media/property/renovation-permits-and-ccc/body-2.webp
+    alt: セランゴール州のテラスハウス改修現場の外に置かれた、木材の端材と建設がれきで満たされた金属製のスキップ（廃材用コンテナ）
+    kind: representative
+    origin: third-party
+    subject: セランゴール州のテラスハウス改修現場の建設がれきを満載したスキップ
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Renovation_of_a_two-storey_terraced_house_in_Selangor,_Malaysia_20191006_162147.jpg
 ---
 
 家の裏に台所を増築したい、あるいは上に一階分を建て増したい——すると突然、近所の人が「まず市議会に申請しないといけないよ」と言う。本当だろうか。ほとんどの改修工事については、答えはイエスだ。

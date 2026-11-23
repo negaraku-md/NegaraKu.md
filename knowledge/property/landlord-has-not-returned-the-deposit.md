@@ -84,6 +84,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Puncak_Desa_Apartment,_Kepong_20240101_104402.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/landlord-has-not-returned-the-deposit/body-1.webp
+    alt: A block of older low-rise public walk-up flats with laundry hanging from windows in Kuala Lumpur
+    kind: representative
+    origin: third-party
+    subject: Older walk-up rental flats (the Pekeliling Flats) in Kuala Lumpur
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL-_Pekeliling_Flats_2009.JPG
+  - role: scene
+    src: /media/property/landlord-has-not-returned-the-deposit/body-2.webp
+    alt: A row of single-storey terrace houses along a residential street in Rasa, Selangor
+    kind: representative
+    origin: third-party
+    subject: A row of terrace houses in Rasa, Selangor, a common type of rented home
+    credit: User:Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 2.5
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terrace_houses_in_Rasa,_Selangor.jpg
 ---
 
 Few things sour the end of a tenancy like a landlord who keeps the deposit. It is usually a meaningful sum, it often feels unjust, and the temptation is to escalate straight away. Before you do, it helps to understand the one fact that shapes everything about a deposit dispute in Malaysia — because it is not what many tenants assume.
