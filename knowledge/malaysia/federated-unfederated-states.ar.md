@@ -73,6 +73,13 @@ relations:
 related: ["straits-settlements", "malayan-union", "nine-royal-houses", "malay-sultanate-system"]
 keywords: ["الولايات الملايوية المتّحدة", "الولايات الملايوية غير المتّحدة", "نظام المقيم البريطاني", "نظام المستشار البريطاني", "معاهدة بانكور 1874", "المقيم العام كوالالمبور", "المعاهدة الإنجليزية-السيامية 1909", "المستشار العام جوهور", "Federated Malay States", "Unfederated Malay States", "Pangkor Treaty 1874", "Anglo-Siamese Treaty 1909"]
 framework: explainer
+hero: '/media/malaysia/federated-unfederated-states/hero.webp'
+heroAlt: 'واجهة مغاربية طويلة من الطوب المغرة والأقواس البيضاء تعلوها قباب نحاسية وبرج ساعة مركزي شامخ تحت سماء زرقاء.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 تسع ولايات ملايوية، وقوّة إمبراطورية واحدة — ومع ذلك لم يكن الترتيب واحداً بل اثنين. وذلك الانقسام هو ما تتجاوزه أكثر ملخّصات مالايا الاستعمارية، وهو لبّ هذا المقال كلّه.

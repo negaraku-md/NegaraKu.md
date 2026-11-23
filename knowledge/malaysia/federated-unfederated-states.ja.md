@@ -72,6 +72,13 @@ relations:
 related: ["straits-settlements", "malayan-union", "nine-royal-houses", "malay-sultanate-system"]
 keywords: ["Federated Malay States", "Unfederated Malay States", "British Resident system", "British Adviser system", "Pangkor Treaty 1874", "Resident-General Kuala Lumpur", "Anglo-Siamese Treaty 1909", "Johor General Adviser", "Malay Rulers British protection", "colonial Malaya"]
 framework: explainer
+hero: '/media/malaysia/federated-unfederated-states/hero.webp'
+heroAlt: '黄土色のれんがと白いアーチが連なるムーア様式の長いファサード。銅葺きのドームと高い中央時計塔を頂き、青空が広がる。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 九つのマレー州、一つの帝国列強——それでいて、取り決めは一つではなく二つあった。この分裂こそ、植民地時代マラヤについての大半の概説が見落としている点であり、本稿の主題そのものである。

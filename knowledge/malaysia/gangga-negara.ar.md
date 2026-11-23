@@ -57,6 +57,13 @@ relations:
 related: ["langkasuka", "srivijaya"]
 keywords: ["Gangga Negara", "غانغا نيغارا", "Beruas", "بيرواس", "ممالك الملايو المبكرة", "تاريخ بيراك", "Chola", "تشولا", "Rajendra Chola I", "Hikayat Merong Mahawangsa", "Muzium Beruas", "متحف بيرواس"]
 framework: explainer
+hero: '/media/malaysia/gangga-negara/hero.webp'
+heroAlt: 'تمثال بوذيساتفا برونزي نحيل متعدّد الأذرع، اكتسى باللون الأخضر بفعل الزمن، مُضاء أمام خلفية متحفية داكنة.'
+heroCredit: 'Gryffindor / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Muzium_Negara_KL30.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ابحث عن «غانغا نيغارا» على الإنترنت وستجد صورة واضحة المعالم: مملكة ذهبية على ضفاف نهر بيراك (Perak)، تأسّست في القرن الثاني الميلادي، ودمّرتها قوات تشولا (Chola) من الهند عام 1025. وتاريخٌ بهذه الدقة كان ينبغي أن يعني وجود سجل مكتوب معاصر في مكان ما — نقش، أو قطعة من وثائق البلاط. والمشكلة: حين يُدقَّق سطراً سطراً في النقش الذي يُربط أكثر من غيره بذلك السقوط — نقش تانجافور (Thanjavur) الخاص براجندرا تشولا الأول نفسه — لا يكون اسم «غانغا نيغارا» موجوداً فيه ببساطة.

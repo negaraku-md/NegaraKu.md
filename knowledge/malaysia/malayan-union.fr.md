@@ -91,6 +91,13 @@ keywords:
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
 framework: history-culture
+hero: '/media/malaysia/malayan-union/hero.webp'
+heroAlt: 'Un grand manoir colonial aux murs crème et au toit de tuiles rouges, entouré de pelouses soignées et de verdure tropicale.'
+heroCredit: 'mulberry leaves / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Carcosa_Seri_Negara.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Pendant un an et dix mois, Malaya fut gouvernée selon une constitution qu'aujourd'hui presque personne ne connaît au-delà de son nom. L'Union malaise commença le 1er avril 1946 et prit fin le 31 janvier 1948 — assez brève pour ne jamais laisser derrière elle de bâtiments, de monnaie ni de génération d'administrateurs propres.

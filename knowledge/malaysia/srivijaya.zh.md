@@ -63,6 +63,13 @@ faq:
   - q: 已知最古老的古马来语碑铭是哪一块,它与三佛齐有何关系?
     a: 那是格杜干武吉碑铭(Kedukan Bukit inscription),年代定于公元682年,记载了一次三佛齐的军事与宗教仪式远征。除了在苏门答腊历史上的意义之外,它的重要之处在于是已知最古老的以古马来语书写的碑铭——现代马来语与现代印尼语的直系祖先。随着三佛齐贸易网络的扩张,古马来语在任何苏丹王朝出现之前的数百年,便已作为通行的通用语(lingua franca)传遍整个群岛。
 framework: history-culture
+hero: '/media/malaysia/srivijaya/hero.webp'
+heroAlt: '一尊风化的灰色花岗岩佛像，双腿已失，在三佛齐古都圣山的绿叶映衬下静静伫立。'
+heroCredit: 'Gunawan Kartapranata / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Buddha_Seguntang_Palembang.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1396年，拜里米苏拉从淡马锡（今新加坡）出逃，来到后来成为马六甲的那道河岸时，他并非凭空冒出来的无名之辈。马六甲州政府自己的记载至今仍明确称他为「一位来自巨港的王室王子」。巨港位于苏门答腊南部的穆西河（Musi River）畔，在拜里米苏拉出生前约六百年，一直是一个统治马六甲海峡的海上强权的都城——这个王国名为室利佛逝。等到拜里米苏拉抵达半岛时，那个王国的政治权力早已烟消云散。但他所建立的马六甲苏丹国，却将其血脉——可以说还有马来贸易港口该有的整套模式——直接承袭自室利佛逝的废墟之中。

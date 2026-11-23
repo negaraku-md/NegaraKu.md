@@ -64,6 +64,13 @@ faq:
   - q: Văn bia cổ nhất được biết đến bằng tiếng Mã Lai Cổ là gì, và nó liên quan thế nào đến Srivijaya?
     a: Đó là văn bia Kedukan Bukit, có niên đại năm 682 CN, ghi lại một cuộc viễn chinh quân sự và nghi lễ của Srivijaya. Ngoài ý nghĩa trong lịch sử Sumatra, nó quan trọng với tư cách là văn bia cổ nhất được biết đến viết bằng tiếng Mã Lai Cổ — tổ tiên trực tiếp của cả tiếng Mã Lai hiện đại lẫn tiếng Indonesia hiện đại. Khi mạng lưới thương mại của Srivijaya mở rộng, tiếng Mã Lai Cổ lan khắp quần đảo như một ngôn ngữ chung (lingua franca) thực dụng, nhiều thế kỷ trước khi bất kỳ vương quốc Hồi giáo nào tồn tại.
 framework: history-culture
+hero: '/media/malaysia/srivijaya/hero.webp'
+heroAlt: 'Một pho tượng Phật bằng đá granit xám đã phong hóa, mất phần chân, đứng an nhiên trên nền tán lá xanh trên ngọn đồi thiêng của cố đô Srivijaya.'
+heroCredit: 'Gunawan Kartapranata / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Buddha_Seguntang_Palembang.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Khi Parameswara chạy khỏi Temasek vào năm 1396 và tình cờ đặt chân lên bờ sông về sau trở thành Melaka, ông không phải một kẻ vô danh xuất hiện từ hư không. Chính chính quyền bang Melaka vẫn ghi ông, một cách thẳng thắn, là "một hoàng tử hoàng gia từ Palembang." Palembang, trên sông Musi ở nam Sumatra, đã từng là kinh đô của một thế lực biển cai trị Eo biển Melaka trong khoảng sáu trăm năm trước khi Parameswara ra đời — một vương quốc mang tên Srivijaya. Vào lúc Parameswara đến bán đảo, quyền lực chính trị của vương quốc đó đã không còn. Nhưng Vương triều Melaka mà ông sáng lập đã mang dòng máu của nó, và có thể nói là cả mô hình về việc một hải cảng thương mại Mã Lai nên như thế nào, thẳng ra từ đống tàn tích của Srivijaya.

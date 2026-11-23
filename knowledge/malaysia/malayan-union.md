@@ -94,6 +94,13 @@ keywords:
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
 framework: history-culture
+hero: '/media/malaysia/malayan-union/hero.webp'
+heroAlt: 'Banglo kolonial yang megah dengan dinding berwarna krim dan bumbung berjubin merah, terletak di tengah laman terjaga rapi dan kehijauan tropika.'
+heroCredit: 'mulberry leaves / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Carcosa_Seri_Negara.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Selama satu tahun sepuluh bulan, Tanah Melayu diperintah di bawah sebuah perlembagaan yang hari ini hampir tidak dikenali sesiapa selain namanya. Malayan Union bermula pada 1 April 1946 dan berakhir pada 31 Januari 1948 — cukup singkat untuk tidak sempat meninggalkan bangunan, mata wang atau generasi pentadbir sendiri.

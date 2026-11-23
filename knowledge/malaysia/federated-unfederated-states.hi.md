@@ -73,6 +73,13 @@ relations:
 related: ["straits-settlements", "malayan-union", "nine-royal-houses", "malay-sultanate-system"]
 keywords: ["संघबद्ध मलय राज्य", "असंघबद्ध मलय राज्य", "ब्रिटिश रेज़िडेंट प्रणाली", "ब्रिटिश सलाहकार प्रणाली", "पांगकोर संधि 1874", "रेज़िडेंट-जनरल कुआलालंपुर", "एंग्लो-सियामी संधि 1909", "जोहोर जनरल एडवाइज़र", "Federated Malay States", "Unfederated Malay States", "Pangkor Treaty 1874", "Anglo-Siamese Treaty 1909"]
 framework: explainer
+hero: '/media/malaysia/federated-unfederated-states/hero.webp'
+heroAlt: 'नीले आसमान के नीचे गेरुआ ईंट और सफेद मेहराबों वाला एक लंबा मूरिश अग्रभाग, जिसके ऊपर तांबे के गुंबद और एक ऊँची केंद्रीय घड़ी मीनार है।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 नौ मलय राज्य, एक साम्राज्यवादी शक्ति — और फिर भी एक व्यवस्था नहीं बल्कि दो। वही विभाजन वह चीज़ है जिसे औपनिवेशिक मलाया के अधिकांश सार छोड़ देते हैं, और यही इस पूरे लेख का मुद्दा है।

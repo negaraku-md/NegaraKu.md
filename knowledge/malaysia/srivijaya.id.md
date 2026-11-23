@@ -63,6 +63,13 @@ faq:
   - q: Apa prasasti tertua yang diketahui dalam bahasa Melayu Kuno, dan bagaimana kaitannya dengan Sriwijaya?
     a: Itu adalah prasasti Kedukan Bukit, yang bertarikh 682 M, yang mencatat sebuah ekspedisi militer dan ritual Sriwijaya. Di luar sejarah Sumatra, prasasti ini penting sebagai prasasti tertua yang diketahui ditulis dalam bahasa Melayu Kuno — leluhur langsung baik bahasa Melayu modern maupun bahasa Indonesia modern. Seiring meluasnya jaringan perdagangan Sriwijaya, bahasa Melayu Kuno menyebar ke seluruh nusantara sebagai lingua franca yang berfungsi, berabad-abad sebelum kesultanan mana pun ada.
 framework: history-culture
+hero: '/media/malaysia/srivijaya/hero.webp'
+heroAlt: 'Arca Buddha dari granit abu-abu yang lapuk, tanpa kaki, berdiri tenang berlatar dedaunan hijau di atas bukit suci bekas ibu kota Srivijaya.'
+heroCredit: 'Gunawan Kartapranata / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Buddha_Seguntang_Palembang.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Ketika Parameswara melarikan diri dari Temasek pada tahun 1396 dan tersandung ke tepi sungai yang kelak menjadi Melaka, ia bukanlah sosok yang muncul entah dari mana. Pemerintah negeri Melaka sendiri masih mencatatnya, secara jelas, sebagai "seorang putra diraja dari Palembang." Palembang, di Sungai Musi, di selatan Sumatera, pernah menjadi ibu kota sebuah kekuatan lautan yang menguasai Selat Melaka selama sekitar enam ratus tahun sebelum Parameswara dilahirkan — sebuah kerajaan bernama Sriwijaya. Menjelang Parameswara tiba di semenanjung, kekuasaan politik kerajaan itu sudah lenyap. Tetapi Kesultanan Melaka yang didirikannya mewarisi darah keturunannya, bahkan bisa dikatakan seluruh model tentang bagaimana sebuah pelabuhan dagang Melayu seharusnya berfungsi, langsung dari reruntuhan Sriwijaya.

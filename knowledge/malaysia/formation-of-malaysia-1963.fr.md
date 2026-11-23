@@ -66,6 +66,13 @@ relations:
 related: ["independence-1957", "federal-constitution", "sarawak"]
 keywords: ["formation de la Malaisie 1963", "Commission Cobbold", "Konfrontasi", "séparation de Singapour 1965", "fusion du Sabah et du Sarawak"]
 framework: history-culture
+hero: '/media/malaysia/formation-of-malaysia-1963/hero.webp'
+heroAlt: 'Une scène de rue de 1963 où la foule et les bâtiments décorés célèbrent la première Journée de la Malaisie à Singapour.'
+heroCredit: 'Don Christie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Quatre territoires devinrent un seul pays le 16 septembre 1963, et en moins de deux ans l'un d'eux était déjà parti. Ce seul fait vous dit que la fusion de 1963 ne fut pas un exercice administratif bien ordonné — ce fut un projet politique contesté, auquel s'opposèrent deux gouvernements voisins et qui se défit sous l'effet de tensions internes presque dès qu'il eut abouti.

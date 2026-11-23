@@ -65,6 +65,13 @@ relations:
 related: ["independence-1957", "federal-constitution", "sarawak"]
 keywords: ["formation of Malaysia 1963", "Cobbold Commission", "Konfrontasi", "Singapore separation 1965", "Sabah Sarawak merger"]
 framework: history-culture
+hero: '/media/malaysia/formation-of-malaysia-1963/hero.webp'
+heroAlt: '1963년 거리 풍경, 싱가포르에서 첫 말레이시아의 날을 축하하는 군중과 장식된 건물들.'
+heroCredit: 'Don Christie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1963년 9월 16일 네 영토가 하나의 국가가 되었고, 2년도 채 되지 않아 그중 하나는 이미 떠났습니다. 이 사실 하나만으로도 1963년의 통합이 말끔한 행정 절차가 아니었음을 알 수 있습니다. 그것은 두 이웃 정부가 반대한 논쟁적인 정치 사업이었으며, 성공하자마자 거의 곧바로 내부 갈등으로 풀려나가기 시작했습니다.

@@ -64,6 +64,13 @@ faq:
   - q: ¿Cuál es la inscripción más antigua que se conoce en malayo antiguo y cómo se relaciona con Srivijaya?
     a: Es la inscripción de Kedukan Bukit, fechada en el año 682 d. C., que registra una expedición militar y ritual de Srivijaya. Más allá de la historia de Sumatra, importa por ser la inscripción más antigua que se conoce escrita en malayo antiguo, el antepasado directo tanto del malayo moderno como del indonesio moderno. A medida que la red comercial de Srivijaya se expandía, el malayo antiguo se difundió por todo el archipiélago como lengua franca de uso práctico, siglos antes de que existiera sultanato alguno.
 framework: history-culture
+hero: '/media/malaysia/srivijaya/hero.webp'
+heroAlt: 'Un desgastado Buda de granito gris, sin piernas, de pie sereno ante follaje verde en la colina sagrada de la antigua capital de Srivijaya.'
+heroCredit: 'Gunawan Kartapranata / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Buddha_Seguntang_Palembang.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Cuando Parameswara huyó de Temasek en 1396 y fue a dar con la ribera que se convertiría en Melaka, no era un don nadie que llegaba de la nada. El propio gobierno estatal de Melaka todavía lo registra, sin rodeos, como «un príncipe real de Palembang». Palembang, a orillas del río Musi, al sur de Sumatra, había sido la capital de una potencia marítima que gobernó el estrecho de Melaka durante unos seiscientos años antes de que Parameswara naciera: un reino llamado Srivijaya. Para cuando Parameswara llegó a la península, el poder político de aquel reino ya había desaparecido. Pero el Sultanato de Melaka que fundó llevaba consigo su linaje, y posiblemente todo su modelo de lo que debía ser un puerto comercial malayo, salido directamente de las ruinas de Srivijaya.

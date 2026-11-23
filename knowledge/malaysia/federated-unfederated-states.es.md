@@ -73,6 +73,13 @@ relations:
 related: ["straits-settlements", "malayan-union", "nine-royal-houses", "malay-sultanate-system"]
 keywords: ["Estados Malayos Federados", "Estados Malayos No Federados", "sistema de Residentes británicos", "sistema de Asesores británicos", "Tratado de Pangkor 1874", "Residente General Kuala Lumpur", "Tratado Anglo-Siamés 1909", "Asesor General de Johor", "Gobernantes Malayos protección británica", "Malaya colonial"]
 framework: explainer
+hero: '/media/malaysia/federated-unfederated-states/hero.webp'
+heroAlt: 'Una larga fachada morisca de ladrillo ocre y arcos blancos coronada por cúpulas de cobre y una alta torre central del reloj bajo un cielo azul.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Nueve estados malayos, una sola potencia imperial — y, sin embargo, no un solo arreglo, sino dos. Esa división es lo que la mayoría de los resúmenes de la Malaya colonial pasan por alto, y es el objeto entero de este artículo.

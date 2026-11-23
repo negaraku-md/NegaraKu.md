@@ -41,6 +41,13 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 keywords: ["Langkasuka", "early Malay kingdoms", "Kedah ancient history", "Lang-ya-xiu", "pre-Islamic Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/langkasuka/hero.webp'
+heroAlt: 'ブジャン渓谷の草地に立つ、低い階段状の石造寺院の基壇。ヤシの木と緑の丘に囲まれている。'
+heroCredit: 'abdullatif hamidin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Candi_Batu_Pahat_of_Bujang_Valley.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 7世紀、『梁書』を編纂した中国宮廷の史官は、それ以前の使節が報告していた南方はるか遠くの王国について書き記した——城壁に囲まれた都市、象に乗る王、家臣たちが両手を合わせて君主の前で礼をする宮廷。史官はその地を「Lang-ya-xiu」と呼んだ。彼が描いていたのはほぼ間違いなくランカスカ王国（Langkasuka）である——そしてその一節は、まったく別の目的で編纂された王朝史の中に埋もれながらも、この地について今なお世界のどこかに残る、数少ない詳細な記述の一つとなっている。

@@ -73,6 +73,13 @@ relations:
 related: ["straits-settlements", "malayan-union", "nine-royal-houses", "malay-sultanate-system"]
 keywords: ["Federated Malay States", "Unfederated Malay States", "British Resident system", "British Adviser system", "Pangkor Treaty 1874", "Resident-General Kuala Lumpur", "Anglo-Siamese Treaty 1909", "Johor General Adviser", "Malay Rulers British protection", "colonial Malaya"]
 framework: explainer
+hero: '/media/malaysia/federated-unfederated-states/hero.webp'
+heroAlt: '赭色砖墙与白色拱廊构成的摩尔式长立面，顶部矗立铜制圆顶和一座高耸的中央钟楼，背景是蓝天。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 九个马来州属，一个殖民宗主国——然而并非一种安排，而是两种。这一分裂正是多数关于殖民地时代马来亚的概述所略过的地方，也正是本文的全部要点。

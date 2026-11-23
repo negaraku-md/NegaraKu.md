@@ -6685,5 +6685,77 @@
       "alt": "A golden-domed white mosque with a tall minaret glows above its lagoon and ceremonial stone barge at dusk.",
       "position": "attention"
     }
+  },
+  "malaysia/federated-unfederated-states": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-05.jpg",
+      "license": "CC BY-SA 3.0",
+      "by": "CEphoto, Uwe Aranas",
+      "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-05.jpg",
+      "kind": "actual",
+      "subject": "The Sultan Abdul Samad Building in Kuala Lumpur, the Moorish-style former Federated Malay States government secretariat on Dataran Merdeka.",
+      "alt": "A long Moorish facade of ochre brick and white arches crowned by copper domes and a tall central clock tower under a blue sky.",
+      "position": "attention"
+    }
+  },
+  "malaysia/formation-of-malaysia-1963": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Malaysia_Day_in_Singapore_1963.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Don Christie",
+      "page": "https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg",
+      "kind": "actual",
+      "subject": "Malaysia Day celebrations in Singapore on 16 September 1963, when Malaya, Singapore, Sabah and Sarawak joined to form Malaysia.",
+      "alt": "A 1963 street scene of crowds and decorated buildings celebrating the first Malaysia Day in Singapore.",
+      "position": "attention"
+    }
+  },
+  "malaysia/malayan-union": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Carcosa_Seri_Negara.jpg",
+      "license": "CC BY 2.0",
+      "by": "mulberry leaves",
+      "page": "https://commons.wikimedia.org/wiki/File:Carcosa_Seri_Negara.jpg",
+      "kind": "representative",
+      "subject": "Carcosa Seri Negara in Kuala Lumpur, the former residence of the British High Commissioner during the colonial period of the Malayan Union and Federation of Malaya.",
+      "alt": "A grand colonial mansion of cream walls and a red-tiled roof set among manicured lawns and tropical greenery.",
+      "position": "attention"
+    }
+  },
+  "malaysia/srivijaya": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Buddha_Seguntang_Palembang.jpg",
+      "license": "CC BY-SA 3.0",
+      "by": "Gunawan Kartapranata",
+      "page": "https://commons.wikimedia.org/wiki/File:Buddha_Seguntang_Palembang.jpg",
+      "kind": "representative",
+      "subject": "A monumental granite Buddha statue unearthed at Bukit Seguntang, the sacred hill at the heart of Srivijaya's capital at Palembang in Sumatra, now displayed in a Palembang museum.",
+      "alt": "A weathered grey granite Buddha, legs lost, standing serene against green foliage on the sacred hill of Srivijaya's old capital.",
+      "position": "attention"
+    }
+  },
+  "malaysia/langkasuka": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Candi_Batu_Pahat_of_Bujang_Valley.jpg",
+      "license": "CC BY-SA 2.0",
+      "by": "abdullatif hamidin",
+      "page": "https://commons.wikimedia.org/wiki/File:Candi_Batu_Pahat_of_Bujang_Valley.jpg",
+      "kind": "representative",
+      "subject": "The reconstructed Candi Bukit Batu Pahat (c. 6th century) in the Bujang Valley, Kedah, a Hindu-Buddhist temple of the early Kedah civilisation of the same region and era associated with Langkasuka, whose own capital site remains archaeologically unconfirmed.",
+      "alt": "A low stepped stone temple plinth on a grassy clearing framed by palms and green hills in the Bujang Valley.",
+      "position": "attention"
+    }
+  },
+  "malaysia/gangga-negara": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Muzium_Negara_KL30.JPG",
+      "license": "CC BY 3.0",
+      "by": "Gryffindor",
+      "page": "https://commons.wikimedia.org/wiki/File:Muzium_Negara_KL30.JPG",
+      "kind": "representative",
+      "subject": "An eighth-to-ninth-century bronze Avalokiteshvara found at Bidor, Perak in 1936, now in the National Museum, Kuala Lumpur, a genuine Perak Hindu-Buddhist artefact of the era linked to the Gangga Negara legend, not an object tied to the unconfirmed kingdom itself.",
+      "alt": "A slender, many-armed bronze bodhisattva figure, green with age, lit against a dark museum backdrop.",
+      "position": "attention"
+    }
   }
 }

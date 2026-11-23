@@ -91,6 +91,13 @@ keywords:
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
 framework: history-culture
+hero: '/media/malaysia/malayan-union/hero.webp'
+heroAlt: 'Một dinh thự thuộc địa nguy nga với tường màu kem và mái ngói đỏ, nằm giữa những bãi cỏ được cắt tỉa gọn gàng và cây xanh nhiệt đới.'
+heroCredit: 'mulberry leaves / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Carcosa_Seri_Negara.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Trong một năm mười tháng, Tanah Melayu được cai trị dưới một hiến pháp mà ngày nay hầu như không ai biết đến ngoài cái tên của nó. Malayan Union bắt đầu vào ngày 1 tháng 4 năm 1946 và kết thúc vào ngày 31 tháng 1 năm 1948 — đủ ngắn để không kịp để lại các tòa nhà, đồng tiền hay một thế hệ các nhà quản lý riêng của mình.

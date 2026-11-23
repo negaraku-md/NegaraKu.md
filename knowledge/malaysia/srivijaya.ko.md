@@ -63,6 +63,13 @@ faq:
   - q: 고대 말레이어로 알려진 가장 오래된 비문은 무엇이며, 그것은 스리위자야와 어떻게 관련되나요?
     a: 그것은 크두칸 부킷 비문(Kedukan Bukit inscription)으로, 서기 682년의 것으로 추정되며, 스리위자야의 군사적·의례적 원정을 기록하고 있습니다. 수마트라 역사라는 틀을 넘어, 그것은 고대 말레이어로 쓰인 알려진 가장 오래된 비문으로서 중요합니다——고대 말레이어는 현대 말레이어와 현대 인도네시아어 양쪽의 직접적인 조상입니다. 스리위자야의 교역망이 확장되면서, 고대 말레이어는 어떤 술탄국이 존재하기 수 세기 전에 이미 실용적인 공용어(링구아 프랑카)로서 군도 전역에 퍼졌습니다.
 framework: history-culture
+hero: '/media/malaysia/srivijaya/hero.webp'
+heroAlt: '풍화된 회색 화강암 불상, 다리는 사라졌지만 스리비자야 옛 수도의 성스러운 언덕에서 푸른 잎을 배경으로 평온하게 서 있다.'
+heroCredit: 'Gunawan Kartapranata / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Buddha_Seguntang_Palembang.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 파라메스와라가 1396년 테마섹(Temasek)에서 달아나 훗날 말라카가 된 강기슭에 우연히 다다랐을 때, 그는 난데없이 나타난 이름 없는 인물이 아니었습니다. 말라카 주 정부는 지금도 그를 명백하게 "팔렘방 출신의 왕자"로 기록합니다. 수마트라 남부 무시강(Musi River) 유역의 팔렘방은 파라메스와라가 태어나기 전 약 600년 동안 말라카 해협을 지배한 해상 강국의 수도였습니다 — 스리비자야라는 왕국이었습니다. 파라메스와라가 반도에 이르렀을 무렵, 그 왕국의 정치적 힘은 이미 사라진 상태였습니다. 그러나 그가 창건한 말라카 술탄국은 그 혈통을, 그리고 어쩌면 말레이 교역 항구가 어떠해야 하는가에 관한 그 모델 전체를, 스리비자야의 폐허에서 곧바로 이어받았습니다.

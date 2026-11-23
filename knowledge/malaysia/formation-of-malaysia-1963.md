@@ -64,6 +64,13 @@ relations:
 related: ["independence-1957", "federal-constitution", "sarawak"]
 keywords: ["formation of Malaysia 1963", "Cobbold Commission", "Konfrontasi", "Singapore separation 1965", "Sabah Sarawak merger"]
 framework: history-culture
+hero: '/media/malaysia/formation-of-malaysia-1963/hero.webp'
+heroAlt: 'A 1963 street scene of crowds and decorated buildings celebrating the first Malaysia Day in Singapore.'
+heroCredit: 'Don Christie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Four territories became one country on 16 September 1963, and within two years one of them had already left. That fact alone tells you the 1963 merger was not a tidy administrative exercise — it was a contested political project, opposed by two neighbouring governments and unravelled by internal strain almost as soon as it succeeded.

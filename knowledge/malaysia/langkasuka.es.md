@@ -42,6 +42,13 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 keywords: ["Langkasuka", "early Malay kingdoms", "Kedah ancient history", "Lang-ya-xiu", "pre-Islamic Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/langkasuka/hero.webp'
+heroAlt: 'Un bajo plinto escalonado de piedra de un templo en un claro cubierto de hierba, enmarcado por palmeras y colinas verdes en el valle de Bujang.'
+heroCredit: 'abdullatif hamidin / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Candi_Batu_Pahat_of_Bujang_Valley.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 En el siglo VII, un historiador de la corte china que compilaba el Libro de Liang anotó lo que enviados anteriores habían relatado sobre un reino muy al sur: una ciudad amurallada, un rey que montaba un elefante, una corte donde los funcionarios se inclinaban con las manos juntas ante su soberano. El historiador llamó al lugar «Lang-ya-xiu». Casi con certeza estaba describiendo Langkasuka — y esa frase, sepultada en una historia dinástica compilada con fines completamente distintos, es una de las únicas descripciones detalladas del lugar que sobreviven en parte alguna.

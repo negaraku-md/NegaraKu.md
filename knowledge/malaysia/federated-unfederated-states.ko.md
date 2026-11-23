@@ -73,6 +73,13 @@ relations:
 related: ["straits-settlements", "malayan-union", "nine-royal-houses", "malay-sultanate-system"]
 keywords: ["Federated Malay States", "Unfederated Malay States", "British Resident system", "British Adviser system", "Pangkor Treaty 1874", "Resident-General Kuala Lumpur", "Anglo-Siamese Treaty 1909", "Johor General Adviser", "Malay Rulers British protection", "colonial Malaya"]
 framework: explainer
+hero: '/media/malaysia/federated-unfederated-states/hero.webp'
+heroAlt: '황토색 벽돌과 흰 아치가 늘어선 무어 양식의 긴 파사드, 구리 돔과 높은 중앙 시계탑이 솟아 있고 푸른 하늘이 펼쳐져 있다.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 아홉 개의 말레이 국가, 하나의 제국 열강 — 그러나 하나의 방식이 아니라 둘이었습니다. 그 분할은 식민지 말라야(Malaya)에 대한 대부분의 요약이 지나쳐 버리는 것이며, 이 글의 온전한 요점입니다.

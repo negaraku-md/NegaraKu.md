@@ -91,6 +91,13 @@ keywords:
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
 framework: history-culture
+hero: '/media/malaysia/malayan-union/hero.webp'
+heroAlt: '웅장한 식민지 시대 저택, 크림색 벽과 붉은 기와지붕이 잘 손질된 잔디밭과 열대 녹음 사이에 자리하고 있다.'
+heroCredit: 'mulberry leaves / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Carcosa_Seri_Negara.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1년 10개월 동안, 말라야는 오늘날 그 이름 말고는 거의 아무도 알지 못하는 한 헌법 아래에서 통치되었습니다. 말라야 연합은 1946년 4월 1일에 시작되어 1948년 1월 31일에 끝났습니다. 건물도, 화폐도, 자신만의 행정가 세대도 남길 겨를이 없을 만큼 짧았습니다.

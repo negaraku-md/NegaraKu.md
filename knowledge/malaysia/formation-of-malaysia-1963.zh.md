@@ -66,6 +66,13 @@ relations:
 related: ["independence-1957", "federal-constitution", "sarawak"]
 keywords: ["马来西亚成立 1963", "科博尔德委员会 Cobbold Commission", "Konfrontasi 对抗", "新加坡分离 1965", "沙巴砂拉越合并"]
 framework: history-culture
+hero: '/media/malaysia/formation-of-malaysia-1963/hero.webp'
+heroAlt: '1963年的街头景象，人群与装饰华丽的建筑，庆祝新加坡首个马来西亚日。'
+heroCredit: 'Don Christie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 四个领地在1963年9月16日成为一个国家，而在两年之内，其中一个已经退出。单凭这一事实就能告诉你，1963年的合并并非一场整洁的行政操作——它是一个充满争议的政治工程，遭到两个邻国政府反对，并在成功后几乎立即因内部张力而瓦解。

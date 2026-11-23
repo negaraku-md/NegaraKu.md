@@ -57,6 +57,13 @@ relations:
 related: ["langkasuka", "srivijaya"]
 keywords: ["Gangga Negara", "Beruas", "kerajaan Melayu awal", "sejarah Perak", "Chola", "Rajendra Chola I", "Hikayat Merong Mahawangsa", "Muzium Beruas"]
 framework: explainer
+hero: '/media/malaysia/gangga-negara/hero.webp'
+heroAlt: '細身で多くの腕をもつ青銅の菩薩像。年月を経て緑青を帯び、暗い博物館の背景に照らし出されている。'
+heroCredit: 'Gryffindor / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Muzium_Negara_KL30.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 「ガンガ・ヌガラ（Gangga Negara）」をインターネットで検索すると、明快な一つの構図に行き当たる——西暦2世紀に建国され、1025年にインドのチョーラ軍によって滅ぼされた、Sungai Perak岸辺の黄金の王国、というものだ。これほど正確な年代が示されているのなら、どこかに同時代の文書記録——一つの碑文、一片の宮廷文書——が存在するはずだと思わせる。しかし問題がある。その滅亡と常に結び付けられてきた碑文——ラージェーンドラ・チョーラ1世（Rajendra Chola I）自身によるタンジャーヴール碑文——を一行ずつ確認しても、「ガンガ・ヌガラ」という名前はそこにまったく登場しないのである。

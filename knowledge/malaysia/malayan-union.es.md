@@ -91,6 +91,13 @@ keywords:
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
 framework: history-culture
+hero: '/media/malaysia/malayan-union/hero.webp'
+heroAlt: 'Una gran mansión colonial de paredes color crema y tejado de tejas rojas, rodeada de céspedes cuidados y vegetación tropical.'
+heroCredit: 'mulberry leaves / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Carcosa_Seri_Negara.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Durante un año y diez meses, Malaya se rigió por una constitución que hoy apenas conoce nadie más allá de su nombre. La Unión Malaya comenzó el 1 de abril de 1946 y terminó el 31 de enero de 1948 — tan breve que nunca llegó a dejar tras de sí edificios, una moneda ni una generación propia de administradores.

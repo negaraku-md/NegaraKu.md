@@ -91,6 +91,13 @@ keywords:
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
 framework: history-culture
+hero: '/media/malaysia/malayan-union/hero.webp'
+heroAlt: 'คฤหาสน์ยุคอาณานิคมอันโอ่อ่า ผนังสีครีมและหลังคากระเบื้องสีแดง ตั้งอยู่ท่ามกลางสนามหญ้าที่ตัดแต่งเรียบร้อยและพรรณไม้เขตร้อนเขียวขจี'
+heroCredit: 'mulberry leaves / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Carcosa_Seri_Negara.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 เป็นเวลาหนึ่งปีสิบเดือน แผ่นดินมลายูถูกปกครองภายใต้รัฐธรรมนูญที่ในปัจจุบันแทบไม่มีใครรู้จักนอกจากชื่อ สหภาพมลายา (Malayan Union) เริ่มขึ้นเมื่อวันที่ 1 เมษายน 1946 และสิ้นสุดเมื่อวันที่ 31 มกราคม 1948 สั้นพอที่จะไม่ทันทิ้งอาคาร เงินตรา หรือรุ่นของนักบริหารของตนเองไว้

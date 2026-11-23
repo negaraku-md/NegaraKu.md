@@ -91,6 +91,13 @@ keywords:
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
 framework: history-culture
+hero: '/media/malaysia/malayan-union/hero.webp'
+heroAlt: 'கிரீம் நிற சுவர்களும் சிவப்பு ஓட்டு கூரையும் கொண்ட ஒரு பிரமாண்டமான காலனித்துவ மாளிகை, நேர்த்தியாக பராமரிக்கப்பட்ட புல்வெளிகளுக்கும் வெப்பமண்டல பசுமைக்கும் இடையே அமைந்துள்ளது.'
+heroCredit: 'mulberry leaves / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Carcosa_Seri_Negara.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ஒரு வருடம் பத்து மாதங்களுக்கு, தனா மலாயு (Tanah Melayu) அதன் பெயரைத் தவிர இன்று யாருக்கும் அறிமுகமில்லாத ஒரு அரசியலமைப்பின் கீழ் ஆளப்பட்டது. மலாயன் யூனியன் 1 ஏப்ரல் 1946 அன்று தொடங்கி 31 ஜனவரி 1948 அன்று முடிவடைந்தது — கட்டிடங்களையோ, நாணயத்தையோ, அல்லது தனக்கென்று ஒரு தலைமுறை நிர்வாகிகளையோ விட்டுச்செல்ல முடியாத அளவுக்கு மிகவும் குறுகியது.

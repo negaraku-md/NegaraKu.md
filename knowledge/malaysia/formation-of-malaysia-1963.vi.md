@@ -65,6 +65,13 @@ relations:
 related: ["independence-1957", "federal-constitution", "sarawak"]
 keywords: ["formation of Malaysia 1963", "Cobbold Commission", "Konfrontasi", "Singapore separation 1965", "Sabah Sarawak merger"]
 framework: history-culture
+hero: '/media/malaysia/formation-of-malaysia-1963/hero.webp'
+heroAlt: 'Cảnh đường phố năm 1963 với đám đông và những tòa nhà được trang trí mừng Ngày Malaysia đầu tiên tại Singapore.'
+heroCredit: 'Don Christie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Bốn lãnh thổ trở thành một đất nước vào ngày 16 tháng 9 năm 1963, và trong vòng hai năm một trong số đó đã rời đi. Chỉ riêng sự thật đó cho bạn biết cuộc hợp nhất năm 1963 không phải là một bài toán hành chính gọn gàng — nó là một dự án chính trị bị tranh cãi, bị hai chính phủ láng giềng phản đối và bị căng thẳng nội bộ tháo gỡ gần như ngay khi nó thành công.

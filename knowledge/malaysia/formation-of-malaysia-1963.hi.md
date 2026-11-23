@@ -65,6 +65,13 @@ relations:
 related: ["independence-1957", "federal-constitution", "sarawak"]
 keywords: ["मलेशिया का गठन 1963", "कोबोल्ड आयोग", "कोंफ्रोंतासी", "सिंगापुर अलगाव 1965", "साबाह सारावाक विलय", "formation of Malaysia 1963", "Cobbold Commission", "Konfrontasi", "Singapore separation 1965", "Sabah Sarawak merger"]
 framework: history-culture
+hero: '/media/malaysia/formation-of-malaysia-1963/hero.webp'
+heroAlt: '1963 की एक सड़क का दृश्य जिसमें भीड़ और सजी हुई इमारतें सिंगापुर में पहले मलेशिया दिवस का जश्न मना रही हैं।'
+heroCredit: 'Don Christie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 16 सितंबर 1963 को चार क्षेत्र एक देश बने, और दो साल के भीतर उनमें से एक पहले ही जा चुका था। यह तथ्य अकेले ही आपको बता देता है कि 1963 का विलय कोई सुव्यवस्थित प्रशासनिक कवायद नहीं था — यह एक विवादित राजनीतिक परियोजना थी, जिसका विरोध दो पड़ोसी सरकारों ने किया और जो सफल होते ही लगभग तुरंत आंतरिक तनाव से बिखरने लगी।

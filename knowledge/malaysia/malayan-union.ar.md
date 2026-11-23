@@ -97,6 +97,13 @@ keywords:
   - "التاريخ الدستوري لماليزيا"
   - "sejarah perlembagaan Malaysia"
 framework: history-culture
+hero: '/media/malaysia/malayan-union/hero.webp'
+heroAlt: 'قصر استعماري فخم بجدران كريمية وسقف من القرميد الأحمر وسط مروج مشذّبة وخضرة استوائية.'
+heroCredit: 'mulberry leaves / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Carcosa_Seri_Negara.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 طيلة عام وعشرة أشهر، حُكمت الملايو في ظل دستور بالكاد يعرفه اليوم أحدٌ غير اسمه. بدأ الاتحاد الملايوي (Malayan Union) في 1 أبريل 1946 وانتهى في 31 يناير 1948 — قصيرٌ بما يكفي لئلّا يترك وراءه مبانيَ، أو عملةً، أو جيلًا من الإداريين خاصًّا به.

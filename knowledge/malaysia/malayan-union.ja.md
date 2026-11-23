@@ -90,6 +90,13 @@ keywords:
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
 framework: history-culture
+hero: '/media/malaysia/malayan-union/hero.webp'
+heroAlt: '壮麗な植民地時代の邸宅。クリーム色の壁と赤瓦の屋根をもち、手入れされた芝生と熱帯の緑に囲まれている。'
+heroCredit: 'mulberry leaves / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Carcosa_Seri_Negara.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 一年十か月のあいだ、マラヤはいまではほとんど名前しか知られていない一つの憲法のもとで統治されていた。マラヤ連合（Malayan Union）は1946年4月1日に始まり、1948年1月31日に終わった——自前の建物、通貨、あるいは一世代分の行政官を残すには短すぎる期間であった。

@@ -91,6 +91,13 @@ keywords:
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
 framework: history-culture
+hero: '/media/malaysia/malayan-union/hero.webp'
+heroAlt: 'क्रीम रंग की दीवारों और लाल खपरैल की छत वाली एक भव्य औपनिवेशिक हवेली, जो सुव्यवस्थित लॉन और उष्णकटिबंधीय हरियाली के बीच स्थित है।'
+heroCredit: 'mulberry leaves / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Carcosa_Seri_Negara.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 एक वर्ष और दस महीने तक, मलाया एक ऐसे संविधान के तहत शासित था जिसे आज उसके नाम से परे शायद ही कोई जानता है। मलायन यूनियन 1 अप्रैल 1946 को शुरू हुआ और 31 जनवरी 1948 को समाप्त हुआ — इतना छोटा कि उसे अपने पीछे इमारतें, एक मुद्रा, या प्रशासकों की अपनी एक पीढ़ी छोड़ने का अवसर ही नहीं मिला।

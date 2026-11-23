@@ -73,6 +73,13 @@ relations:
 related: ["straits-settlements", "malayan-union", "nine-royal-houses", "malay-sultanate-system"]
 keywords: ["Federated Malay States", "Unfederated Malay States", "British Resident system", "British Adviser system", "Pangkor Treaty 1874", "Resident-General Kuala Lumpur", "Anglo-Siamese Treaty 1909", "Johor General Adviser", "Malay Rulers British protection", "colonial Malaya"]
 framework: explainer
+hero: '/media/malaysia/federated-unfederated-states/hero.webp'
+heroAlt: 'Mặt tiền kiểu Moor dài bằng gạch màu đất son và những vòm trắng, bên trên là các mái vòm đồng và một tháp đồng hồ trung tâm cao vút dưới bầu trời xanh.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-05.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Chín bang Mã Lai, một cường quốc đế quốc — thế mà không phải một sự sắp đặt mà là hai. Sự phân chia đó là điều mà hầu hết các bản tóm tắt về Malaya thuộc địa bỏ qua, và nó là toàn bộ chủ đề của bài viết này.

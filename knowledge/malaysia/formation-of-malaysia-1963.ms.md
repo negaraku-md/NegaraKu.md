@@ -66,6 +66,13 @@ relations:
 related: ["independence-1957", "federal-constitution", "sarawak"]
 keywords: ["pembentukan Malaysia 1963", "Suruhanjaya Cobbold", "Konfrontasi", "perpisahan Singapura 1965", "penggabungan Sabah Sarawak"]
 framework: history-culture
+hero: '/media/malaysia/formation-of-malaysia-1963/hero.webp'
+heroAlt: 'Pemandangan jalan pada tahun 1963 dengan orang ramai dan bangunan berhias meraikan Hari Malaysia pertama di Singapura.'
+heroCredit: 'Don Christie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Empat wilayah menjadi satu negara pada 16 September 1963, dan dalam masa dua tahun salah satu daripadanya telah pun keluar. Fakta itu sahaja memberitahu anda bahawa penggabungan 1963 bukanlah satu latihan pentadbiran yang kemas — ia merupakan satu projek politik yang dipertikaikan, ditentang oleh dua kerajaan jiran dan terungkai oleh ketegangan dalaman hampir sebaik sahaja ia berjaya.

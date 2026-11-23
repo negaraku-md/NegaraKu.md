@@ -91,6 +91,13 @@ keywords:
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
 framework: history-culture
+hero: '/media/malaysia/malayan-union/hero.webp'
+heroAlt: 'A grand colonial mansion of cream walls and a red-tiled roof set among manicured lawns and tropical greenery.'
+heroCredit: 'mulberry leaves / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Carcosa_Seri_Negara.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 For one year and ten months, Malaya was governed under a constitution that today is barely known to anyone beyond its name. The Malayan Union began on 1 April 1946 and ended on 31 January 1948 — short enough that it never got around to leaving behind buildings, a currency, or a generation of administrators of its own.

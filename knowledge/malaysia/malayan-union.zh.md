@@ -91,6 +91,13 @@ keywords:
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
 framework: history-culture
+hero: '/media/malaysia/malayan-union/hero.webp'
+heroAlt: '一座宏伟的殖民时期宅邸，奶油色墙面配红瓦屋顶，坐落于修剪整齐的草坪与热带绿植之间。'
+heroCredit: 'mulberry leaves / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Carcosa_Seri_Negara.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 整整一年十个月间，马来亚在一部如今除了名称之外几乎无人知晓的宪法下受统治。马来亚联邦（Malayan Union）始于1946年4月1日，终于1948年1月31日——短暂到来不及留下自己的建筑物、货币，或一代自己的行政官员。

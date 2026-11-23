@@ -62,6 +62,13 @@ faq:
   - q: What is the oldest known inscription in Old Malay, and how does it relate to Srivijaya?
     a: It is the Kedukan Bukit inscription, dated to 682 CE, which records a Srivijayan military and ritual expedition. Beyond Sumatran history it matters as the oldest known inscription written in Old Malay — the direct ancestor of both modern Malay and modern Indonesian. As Srivijaya's trading network expanded, Old Malay spread across the archipelago as a working lingua franca centuries before any sultanate existed.
 framework: history-culture
+hero: '/media/malaysia/srivijaya/hero.webp'
+heroAlt: 'A weathered grey granite Buddha, legs lost, standing serene against green foliage on the sacred hill of Srivijaya''s old capital.'
+heroCredit: 'Gunawan Kartapranata / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Buddha_Seguntang_Palembang.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 When Parameswara fled Temasek in 1396 and stumbled onto the riverbank that became Melaka, he wasn't a nobody arriving out of nowhere. Melaka's own state government still records him, plainly, as "a royal prince from Palembang." Palembang, on the Musi River in southern Sumatra, had been the capital of a sea power that ruled the Strait of Melaka for roughly six hundred years before Parameswara was born — a kingdom called Srivijaya. By the time Parameswara reached the peninsula, that kingdom's political power was already gone. But the Melaka Sultanate he founded carried its bloodline, and arguably its whole model of what a Malay trading port should be, straight out of Srivijaya's ruins.

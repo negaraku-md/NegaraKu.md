@@ -56,6 +56,13 @@ relations:
 related: ["langkasuka", "srivijaya"]
 keywords: ["Gangga Negara", "Beruas", "kerajaan Melayu awal", "sejarah Perak", "Chola", "Rajendra Chola I", "Hikayat Merong Mahawangsa", "Muzium Beruas"]
 framework: explainer
+hero: '/media/malaysia/gangga-negara/hero.webp'
+heroAlt: '가느다랗고 여러 팔을 지닌 청동 보살상, 세월에 녹이 슬어 푸르스름하며 어두운 박물관 배경 속에서 조명을 받고 있다.'
+heroCredit: 'Gryffindor / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Muzium_Negara_KL30.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 인터넷에서 "강가 느가라(Gangga Negara)"를 검색하면 선명한 지도를 만나게 됩니다. 페락강(Sungai Perak) 기슭의 황금 왕국, 2세기에 세워져 1025년 인도에서 온 촐라(Chola) 군대에 멸망했다는. 그토록 정확한 연대라면 어딘가에 동시대의 문자 기록 — 하나의 비문, 한 장의 왕실 문서 — 이 있어야 마땅합니다. 문제는, 그 멸망과 흔히 연결되는 비문 — 라젠드라 촐라 1세(Rajendra Chola I) 자신의 탄자부르(Thanjavur) 비문 — 을 한 줄 한 줄 살펴보면, "강가 느가라"라는 이름이 그 어디에도 전혀 없다는 점입니다.

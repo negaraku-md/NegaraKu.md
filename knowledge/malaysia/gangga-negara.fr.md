@@ -57,6 +57,13 @@ relations:
 related: ["langkasuka", "srivijaya"]
 keywords: ["Gangga Negara", "Beruas", "royaume malais ancien", "histoire du Perak", "Chola", "Rajendra Chola I", "Hikayat Merong Mahawangsa", "Muzium Beruas"]
 framework: explainer
+hero: '/media/malaysia/gangga-negara/hero.webp'
+heroAlt: 'Une mince figure de bodhisattva en bronze aux multiples bras, verdie par le temps, éclairée sur un fond de musée sombre.'
+heroCredit: 'Gryffindor / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Muzium_Negara_KL30.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Cherchez « Gangga Negara » sur internet et vous trouverez une image aux contours nets : un royaume doré sur les rives de la rivière Perak, fondé au IIe siècle de notre ère, détruit par les forces chola de l'Inde en 1025. Une date aussi précise devrait signifier qu'il existe quelque part un registre écrit contemporain — une inscription, un fragment de documentation de cour. Le problème : lorsque l'inscription le plus souvent reliée à cette chute — l'inscription de Thanjavur de Rajendra Chola Ier elle-même — est examinée ligne par ligne, le nom « Gangga Negara » n'y figure tout simplement pas.

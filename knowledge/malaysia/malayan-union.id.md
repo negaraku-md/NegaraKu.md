@@ -91,6 +91,13 @@ keywords:
   - "syarat kerakyatan Tanah Melayu"
   - "sejarah perlembagaan Malaysia"
 framework: history-culture
+hero: '/media/malaysia/malayan-union/hero.webp'
+heroAlt: 'Rumah besar kolonial yang megah dengan dinding krem dan atap genteng merah, terletak di antara halaman terawat rapi dan kehijauan tropis.'
+heroCredit: 'mulberry leaves / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Carcosa_Seri_Negara.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Selama satu tahun sepuluh bulan, Tanah Melayu diperintah di bawah sebuah konstitusi yang hari ini hampir tidak dikenal siapa pun selain namanya. Malayan Union bermula pada 1 April 1946 dan berakhir pada 31 Januari 1948 — cukup singkat untuk tidak sempat meninggalkan bangunan, mata uang, atau generasi administrator sendiri.

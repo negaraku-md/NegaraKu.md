@@ -65,6 +65,13 @@ relations:
 related: ["independence-1957", "federal-constitution", "sarawak"]
 keywords: ["formation of Malaysia 1963", "Cobbold Commission", "Konfrontasi", "Singapore separation 1965", "Sabah Sarawak merger"]
 framework: history-culture
+hero: '/media/malaysia/formation-of-malaysia-1963/hero.webp'
+heroAlt: '1963年の街頭風景。着飾られた建物と群衆が、シンガポールで初のマレーシア・デーを祝っている。'
+heroCredit: 'Don Christie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 四つの領域が1963年9月16日に一つの国となり、その2年以内に、そのうちの一つはすでに離脱していた。この事実だけでも、1963年の合併が整然とした行政上の手続きではなかったことを物語っている——それは、二つの近隣政府から反対され、成功するとほぼ同時に内部の緊張によって崩れ始めた、争いに満ちた政治的プロジェクトであった。

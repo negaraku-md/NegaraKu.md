@@ -65,6 +65,13 @@ relations:
 related: ["independence-1957", "federal-constitution", "sarawak"]
 keywords: ["formation of Malaysia 1963", "Cobbold Commission", "Konfrontasi", "Singapore separation 1965", "Sabah Sarawak merger"]
 framework: history-culture
+hero: '/media/malaysia/formation-of-malaysia-1963/hero.webp'
+heroAlt: 'ภาพถนนในปี 1963 ฝูงชนและอาคารประดับประดาเฉลิมฉลองวันมาเลเซียครั้งแรกในสิงคโปร์'
+heroCredit: 'Don Christie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 สี่ดินแดนกลายเป็นประเทศเดียวเมื่อวันที่ 16 กันยายน 1963 และภายในสองปีหนึ่งในนั้นก็ได้ออกไปแล้ว ข้อเท็จจริงนั้นเพียงอย่างเดียวก็บอกคุณได้ว่าการรวมปี 1963 ไม่ใช่การดำเนินการทางการบริหารที่เรียบร้อย มันเป็นโครงการทางการเมืองที่เป็นข้อโต้แย้ง ถูกคัดค้านโดยรัฐบาลเพื่อนบ้านสองประเทศและคลี่คลายไปด้วยความตึงเครียดภายในแทบจะทันทีที่สำเร็จ

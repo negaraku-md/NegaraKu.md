@@ -57,6 +57,13 @@ relations:
 related: ["langkasuka", "srivijaya"]
 keywords: ["Gangga Negara", "Beruas", "kerajaan Melayu awal", "sejarah Perak", "Chola", "Rajendra Chola I", "Hikayat Merong Mahawangsa", "Muzium Beruas"]
 framework: explainer
+hero: '/media/malaysia/gangga-negara/hero.webp'
+heroAlt: 'รูปพระโพธิสัตว์สำริดเพรียวบางหลายกร สีเขียวจากคราบสนิมตามกาลเวลา ส่องสว่างตัดกับฉากหลังพิพิธภัณฑ์อันมืดสลัว'
+heroCredit: 'Gryffindor / Wikimedia Commons'
+heroLicense: 'CC BY 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Muzium_Negara_KL30.JPG'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 หากคุณค้น "Gangga Negara" ในอินเทอร์เน็ต คุณจะพบแผนที่ที่ชัดเจน อาณาจักรทองคำบนฝั่งแม่น้ำเประ ก่อตั้งในคริสต์ศตวรรษที่สอง ถูกกองทัพโจฬะจากอินเดียทำลายในปี 1025 วันที่ที่แม่นยำเช่นนั้นควรจะหมายความว่ามีบันทึกที่เขียนไว้ร่วมสมัยอยู่ที่ใดที่หนึ่ง คือ ศิลาจารึก เอกสารของอาณาจักรสักชิ้น ปัญหาคือ เมื่อศิลาจารึกที่มักถูกเชื่อมโยงกับการล่มสลายนั้น คือ จารึกธานจาวูร์ของราเชนทระโจฬะที่ 1 เอง ถูกตรวจสอบทีละบรรทัด ชื่อ "คังกาเนอการา" ไม่มีอยู่เลย
