@@ -103,14 +103,6 @@ relations:
 related: ["mdec-digital-status", "sme-financing-malaysia", "equity-crowdfunding-p2p-malaysia", "cyberjaya-tech-hub", "digital-economy-overview"]
 keywords: ["Malaysia startup ecosystem", "Cradle Fund CIP Spark", "MRANTI", "MYStartup single window", "MAVCAP", "Jelawang Capital", "Malaysia venture capital", "KL20"]
 framework: explainer
-hero: '/media/technology/malaysia-startup-ecosystem/hero.webp'
-heroAlt: 'สำนักงาน coworking หลายชั้นที่สว่างมองจากด้านบน พร้อมราวกันตกกระจก บันไดเปิดโล่งและผู้คนทำงานที่โต๊ะหลายระดับใต้หลังคากระจก'
-heroCredit: 'Jasmanna / Wikimedia Commons'
-heroLicense: 'CC BY-SA 4.0'
-heroSource: 'https://commons.wikimedia.org/wiki/File:Coworking_Space_in_Melbourne.jpg'
-heroKind: "representative"
-heroOrigin: "third-party"
-heroSubject: 'A bright multi-level modern coworking office with glass staircases and people working'
 
 images:
   - role: scene
@@ -131,6 +123,14 @@ images:
     credit: Fredericknoronha / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Making_a_pitch,_startups_at_the_GIZ_Techathon_2018.jpg
+hero: '/media/technology/malaysia-startup-ecosystem/hero.webp'
+heroAlt: 'อาคารสำนักงานเทคโนโลยีหลายชั้นสไตล์ทันสมัยในไซเบอร์จายา ประเทศมาเลเซีย มีผนังด้านนอกเป็นแผงบานเกล็ดกระจกและโลหะแนวนอน พร้อมป้าย ''TM Innovation Centre'' (ศูนย์นวัตกรรมทีเอ็ม) ภายใต้ท้องฟ้าสีครามแจ่มใส'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The TM Innovation Centre (Telekom Malaysia Research & Development) in Cyberjaya, one of the technology and R&D facilities anchoring Malaysia''s innovation hub.'
 ---
 
 ถามผู้ก่อตั้งชาวมาเลเซียสิบคนว่าเงินสตาร์ทอัพของรัฐบาลมาจากไหน แล้วคุณจะได้ตัวย่อสิบตัวที่ต่างกัน กลไกเป็นจริงและใจดี แต่มันกระจายอยู่ในหน่วยงานที่แต่ละแห่งเป็นเจ้าของส่วนหนึ่ง — เงินอุดหนุนที่นี่ พื้นที่ห้องปฏิบัติการที่นั่น เงินร่วมลงทุนที่อื่นอีก — และการรู้ว่าควรเคาะประตูใดช่วยประหยัดเวลาหลายเดือน

@@ -92,14 +92,6 @@ relations:
 related: ["malaysia-startup-ecosystem", "cradle-cip-grant", "malaysia-digital-economy-in-numbers", "mydigital-blueprint"]
 keywords: ["KL20", "KL20 Summit 2024", "KL20 Action Paper", "Malaysia startup ecosystem", "top 20 global startup hub", "Golden Pass", "pelan tindakan KL20", "Cradle Fund startup"]
 framework: explainer
-hero: '/media/technology/kl20-startup-ecosystem/hero.webp'
-heroAlt: 'Les tours jumelles Petronas s''élevant au-dessus de la silhouette de Kuala Lumpur dans une douce brume matinale'
-heroCredit: 'Wikimedia Commons (CC0)'
-heroLicense: 'CC0'
-heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_(Unsplash).jpg'
-heroKind: "representative"
-heroOrigin: "third-party"
-heroSubject: 'Kuala Lumpur city-centre skyline with the Petronas Twin Towers in morning mist — KL as Malaysia''s startup-ecosystem hub'
 
 images:
   - role: scene
@@ -121,6 +113,14 @@ images:
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
 wikidata: "Q142236014"
+hero: '/media/technology/kl20-startup-ecosystem/hero.webp'
+heroAlt: 'Les tours jumelles Petronas s''élèvent au centre d''une silhouette urbaine nette du centre-ville de Kuala Lumpur, avec le centre commercial et le parc KLCC en contrebas et des gratte-ciel environnants sous un ciel dégagé.'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716)_(3to4-1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'The Petronas Twin Towers and the Kuala Lumpur city-centre skyline, standing in for KL as the hub of Malaysia''s startup ecosystem.'
 ---
 
 En avril 2024, la Malaisie a cessé de parler de ses startups dans le langage de l'espoir pour commencer à en parler dans celui des classements. L'annonce était directe : faire entrer Kuala Lumpur dans les 20 premiers écosystèmes de startups au monde d'ici 2030, ou admettre que le pays avait tourné au ralenti.

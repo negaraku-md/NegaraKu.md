@@ -103,14 +103,6 @@ relations:
 related: ["mdec-digital-status", "sme-financing-malaysia", "equity-crowdfunding-p2p-malaysia", "cyberjaya-tech-hub", "digital-economy-overview"]
 keywords: ["Malaysia startup ecosystem", "Cradle Fund CIP Spark", "MRANTI", "MYStartup single window", "MAVCAP", "Jelawang Capital", "Malaysia venture capital", "KL20"]
 framework: explainer
-hero: '/media/technology/malaysia-startup-ecosystem/hero.webp'
-heroAlt: 'Kantor coworking bertingkat terang dilihat dari atas, dengan pagar kaca, tangga terbuka, dan orang-orang bekerja di meja di beberapa lantai di bawah atap kaca'
-heroCredit: 'Jasmanna / Wikimedia Commons'
-heroLicense: 'CC BY-SA 4.0'
-heroSource: 'https://commons.wikimedia.org/wiki/File:Coworking_Space_in_Melbourne.jpg'
-heroKind: "representative"
-heroOrigin: "third-party"
-heroSubject: 'A bright multi-level modern coworking office with glass staircases and people working'
 
 images:
   - role: scene
@@ -131,6 +123,14 @@ images:
     credit: Fredericknoronha / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Making_a_pitch,_startups_at_the_GIZ_Techathon_2018.jpg
+hero: '/media/technology/malaysia-startup-ecosystem/hero.webp'
+heroAlt: 'Sebuah gedung kantor teknologi modern bertingkat di Cyberjaya, Malaysia, dengan fasad kaca dan logam berkisi-kisi horizontal serta papan nama ''TM Innovation Centre'', di bawah langit biru cerah.'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The TM Innovation Centre (Telekom Malaysia Research & Development) in Cyberjaya, one of the technology and R&D facilities anchoring Malaysia''s innovation hub.'
 ---
 
 Tanya sepuluh pendiri Malaysia dari mana datangnya uang startup pemerintah dan Anda akan mendapat sepuluh akronim yang berbeda. Mesin itu nyata dan murah hati, tetapi ia tersebar di agensi yang masing-masing memiliki sebagiannya — hibah di sini, ruang laboratorium di sana, modal ventura di tempat lain — dan mengetahui pintu mana untuk diketuk menghemat berbulan-bulan.

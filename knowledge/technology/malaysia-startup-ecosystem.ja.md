@@ -102,14 +102,6 @@ relations:
 related: ["mdec-digital-status", "sme-financing-malaysia", "equity-crowdfunding-p2p-malaysia", "cyberjaya-tech-hub", "digital-economy-overview"]
 keywords: ["Malaysia startup ecosystem", "Cradle Fund CIP Spark", "MRANTI", "MYStartup single window", "MAVCAP", "Jelawang Capital", "Malaysia venture capital", "KL20"]
 framework: explainer
-hero: '/media/technology/malaysia-startup-ecosystem/hero.webp'
-heroAlt: 'ガラスの手すり、開放的な階段、ガラス屋根の下の複数階のデスクで働く人々をもつ、上から見た明るい複数階のコワーキングオフィス'
-heroCredit: 'Jasmanna / Wikimedia Commons'
-heroLicense: 'CC BY-SA 4.0'
-heroSource: 'https://commons.wikimedia.org/wiki/File:Coworking_Space_in_Melbourne.jpg'
-heroKind: "representative"
-heroOrigin: "third-party"
-heroSubject: 'A bright multi-level modern coworking office with glass staircases and people working'
 
 images:
   - role: scene
@@ -130,6 +122,14 @@ images:
     credit: Fredericknoronha / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Making_a_pitch,_startups_at_the_GIZ_Techathon_2018.jpg
+hero: '/media/technology/malaysia-startup-ecosystem/hero.webp'
+heroAlt: 'マレーシアのサイバージャヤにある現代的な多層階のテクノロジーオフィスビル。水平に連なるガラスと金属のルーバー外壁を備え、「TM Innovation Centre」（TM イノベーションセンター）の看板が掲げられ、澄んだ青空の下に立つ。'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The TM Innovation Centre (Telekom Malaysia Research & Development) in Cyberjaya, one of the technology and R&D facilities anchoring Malaysia''s innovation hub.'
 ---
 
 マレーシアの創業者10人に政府のスタートアップ資金がどこから来るのかを尋ねれば、10通りの異なる略語が返ってくるだろう。この仕組みは実在し、しかも手厚いが、それぞれが一部分——助成金はここ、実験室はそこ、ベンチャーキャピタルはまた別のところ——を担う複数の機関に分散しており、どの扉を叩くべきかを知っていれば数か月を節約できる。

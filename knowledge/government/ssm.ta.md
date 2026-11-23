@@ -78,14 +78,6 @@ relations:
 related: ["companies-act-2016", "register-sdn-bhd", "sdn-bhd", "ssm-fees-malaysia"]
 keywords: ["SSM Malaysia", "Suruhanjaya Syarikat Malaysia", "Companies Commission of Malaysia", "MyCoID", "EzBiz"]
 framework: profile
-hero: '/media/government/ssm/hero.webp'
-heroAlt: 'Kuala Lumpur-ல் KL Sentral வானோரம்; Le Meridien, Q Sentral, St Regis போன்ற கோபுரங்களுக்கிடையே முன்னணியில், சிவப்பு SSM சின்னம் கொண்ட தனித்துவமான பச்சை-ஜன்னல்திரை SSM தலைமையகமான Menara SSM@Sentral'
-heroCredit: 'Renek78 / Wikimedia Commons'
-heroLicense: 'CC BY-SA 4.0'
-heroSource: 'https://commons.wikimedia.org/wiki/File:KL_Sentral_seen_from_Aloft_top_floor_2.jpg'
-heroKind: "actual"
-heroOrigin: "third-party"
-heroSubject: 'Menara SSM@Sentral, the Companies Commission of Malaysia (SSM) headquarters at KL Sentral, Kuala Lumpur — the green-louvered building bearing the red SSM logo (foreground centre), shown amid the KL Sentral skyline'
 
 images:
   - role: scene

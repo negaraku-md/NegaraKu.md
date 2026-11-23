@@ -92,14 +92,6 @@ relations:
 related: ["malaysia-startup-ecosystem", "cradle-cip-grant", "malaysia-digital-economy-in-numbers", "mydigital-blueprint"]
 keywords: ["KL20", "KL20 Summit 2024", "KL20 Action Paper", "Malaysia startup ecosystem", "top 20 global startup hub", "Golden Pass", "pelan tindakan KL20", "Cradle Fund startup"]
 framework: explainer
-hero: '/media/technology/kl20-startup-ecosystem/hero.webp'
-heroAlt: 'Tháp đôi Petronas vươn lên trên đường chân trời Kuala Lumpur trong làn sương mù buổi sáng dịu nhẹ'
-heroCredit: 'Wikimedia Commons (CC0)'
-heroLicense: 'CC0'
-heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_(Unsplash).jpg'
-heroKind: "representative"
-heroOrigin: "third-party"
-heroSubject: 'Kuala Lumpur city-centre skyline with the Petronas Twin Towers in morning mist — KL as Malaysia''s startup-ecosystem hub'
 
 images:
   - role: scene
@@ -121,6 +113,14 @@ images:
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
 wikidata: "Q142236014"
+hero: '/media/technology/kl20-startup-ecosystem/hero.webp'
+heroAlt: 'Tháp đôi Petronas vươn lên ở trung tâm đường chân trời rõ nét của khu trung tâm Kuala Lumpur, phía dưới là trung tâm thương mại và công viên KLCC cùng những tòa nhà cao tầng bao quanh dưới bầu trời quang đãng.'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716)_(3to4-1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'The Petronas Twin Towers and the Kuala Lumpur city-centre skyline, standing in for KL as the hub of Malaysia''s startup ecosystem.'
 ---
 
 Vào tháng 4 năm 2024, Malaysia ngừng nói về các startup của mình bằng ngôn ngữ của hy vọng và bắt đầu nói bằng ngôn ngữ của thứ hạng. Lời chào mời thẳng thắn: đưa Kuala Lumpur vào top 20 hệ sinh thái khởi nghiệp của thế giới vào năm 2030, hoặc thừa nhận rằng đất nước đã và đang đủng đỉnh.

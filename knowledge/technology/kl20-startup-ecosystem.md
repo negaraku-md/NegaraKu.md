@@ -91,14 +91,6 @@ relations:
 related: ["malaysia-startup-ecosystem", "cradle-cip-grant", "malaysia-digital-economy-in-numbers", "mydigital-blueprint"]
 keywords: ["KL20", "KL20 Summit 2024", "KL20 Action Paper", "Malaysia startup ecosystem", "top 20 global startup hub", "Golden Pass", "pelan tindakan KL20", "Cradle Fund startup"]
 framework: explainer
-hero: '/media/technology/kl20-startup-ecosystem/hero.webp'
-heroAlt: 'The Petronas Twin Towers rising above the Kuala Lumpur skyline in soft morning mist'
-heroCredit: 'Wikimedia Commons (CC0)'
-heroLicense: 'CC0'
-heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_(Unsplash).jpg'
-heroKind: "representative"
-heroOrigin: "third-party"
-heroSubject: 'Kuala Lumpur city-centre skyline with the Petronas Twin Towers in morning mist — KL as Malaysia''s startup-ecosystem hub'
 
 images:
   - role: scene
@@ -120,6 +112,14 @@ images:
     license: CC BY-SA 3.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg
 wikidata: "Q142236014"
+hero: '/media/technology/kl20-startup-ecosystem/hero.webp'
+heroAlt: 'The Petronas Twin Towers rising at the centre of a crisp Kuala Lumpur city-centre skyline, with the KLCC mall and park below and surrounding high-rise towers under a clear sky.'
+heroCredit: 'James Kerwin / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716)_(3to4-1).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: 'The Petronas Twin Towers and the Kuala Lumpur city-centre skyline, standing in for KL as the hub of Malaysia''s startup ecosystem.'
 ---
 
 In April 2024, Malaysia stopped talking about its startups in the language of hope and started talking in the language of rankings. The pitch was blunt: get Kuala Lumpur into the world's top 20 startup ecosystems by 2030, or admit the country had been coasting.

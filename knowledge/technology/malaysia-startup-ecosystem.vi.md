@@ -103,14 +103,6 @@ relations:
 related: ["mdec-digital-status", "sme-financing-malaysia", "equity-crowdfunding-p2p-malaysia", "cyberjaya-tech-hub", "digital-economy-overview"]
 keywords: ["Malaysia startup ecosystem", "Cradle Fund CIP Spark", "MRANTI", "MYStartup single window", "MAVCAP", "Jelawang Capital", "Malaysia venture capital", "KL20"]
 framework: explainer
-hero: '/media/technology/malaysia-startup-ecosystem/hero.webp'
-heroAlt: 'Một văn phòng làm việc chung nhiều tầng sáng sủa nhìn từ trên cao, với lan can kính, cầu thang mở và người làm việc tại bàn trên nhiều tầng dưới một mái kính'
-heroCredit: 'Jasmanna / Wikimedia Commons'
-heroLicense: 'CC BY-SA 4.0'
-heroSource: 'https://commons.wikimedia.org/wiki/File:Coworking_Space_in_Melbourne.jpg'
-heroKind: "representative"
-heroOrigin: "third-party"
-heroSubject: 'A bright multi-level modern coworking office with glass staircases and people working'
 
 images:
   - role: scene
@@ -131,6 +123,14 @@ images:
     credit: Fredericknoronha / Wikimedia Commons
     license: CC BY-SA 4.0
     sourceUrl: https://commons.wikimedia.org/wiki/File:Making_a_pitch,_startups_at_the_GIZ_Techathon_2018.jpg
+hero: '/media/technology/malaysia-startup-ecosystem/hero.webp'
+heroAlt: 'Một tòa nhà văn phòng công nghệ hiện đại nhiều tầng ở Cyberjaya, Malaysia, với mặt tiền kính và kim loại chớp ngang cùng bảng hiệu ''TM Innovation Centre'' (Trung tâm Đổi mới TM), dưới bầu trời trong xanh.'
+heroCredit: 'Wanobi88 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
+heroSubject: 'The TM Innovation Centre (Telekom Malaysia Research & Development) in Cyberjaya, one of the technology and R&D facilities anchoring Malaysia''s innovation hub.'
 ---
 
 Hãy hỏi mười nhà sáng lập Malaysia tiền khởi nghiệp của chính phủ đến từ đâu và bạn sẽ nhận được mười từ viết tắt khác nhau. Bộ máy là có thật và hào phóng, nhưng nó được trải khắp các cơ quan mà mỗi cơ quan sở hữu một lát cắt — tài trợ ở đây, không gian phòng thí nghiệm ở kia, vốn mạo hiểm ở một nơi khác nữa — và biết cần gõ cửa nào tiết kiệm hàng tháng trời.
