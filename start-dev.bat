@@ -1,18 +1,10 @@
 @echo off
-title NegaraKu.md - local server
-rem Start the local dev server from wherever this repo is cloned.
+rem Convenience launcher: opens the LOCAL server and the PUBLIC tunnel in two
+rem SEPARATE windows. Close the PUBLIC window alone to stop public access -
+rem the LOCAL server keeps running. (You can also run the two .bat files directly.)
 cd /d "%~dp0"
-echo ============================================================
-echo   NegaraKu.md  -  starting local dev server
-echo.
-echo   URL:   http://localhost:4321
-echo.
-echo   Full local stack: site + login (GitHub OAuth) + analytics.
-echo   Keep this window OPEN while you work.
-echo   Press Ctrl+C or close it to stop the server.
-echo ============================================================
-echo.
-call npm run dev:tunnel
-echo.
-echo Server stopped.
-pause
+echo Opening LOCAL server and PUBLIC tunnel in separate windows...
+echo   - Close the PUBLIC window to stop sharing (server stays up).
+echo   - Close the LOCAL window to stop the server.
+start "" "%~dp0start-local.bat"
+start "" "%~dp0start-public.bat"
