@@ -61,6 +61,13 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "srivijaya", "independence-1957"]
 keywords: ["kesultanan Melayu", "sistem pembesar", "daulat", "waadat", "adat perpatih", "adat temenggung", "Bendahara", "Majlis Raja-Raja", "Yang di-Pertuan Agong", "raja berperlembagaan"]
 framework: explainer
+hero: '/media/malaysia/malay-sultanate-system/hero.webp'
+heroAlt: '一座传统马来木造宫殿，有着竹编墙壁、陡峭的瓦顶和雕花山墙，矗立在明朗的天空之下。'
+heroCredit: 'Akml5599 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 试想象一个没有档案、没有表格、没有编号部门的国家。政令以口头传达，正义在王廷（balairung）中裁决，而整个社会秩序都系于一个无法精确译成现代语言的词：*daulat*。那便是马来苏丹国的世界——一套在数百年间安排沿海与河岸上千万生灵生活的体系，其身影至今仍可见于马来西亚宪法之中。

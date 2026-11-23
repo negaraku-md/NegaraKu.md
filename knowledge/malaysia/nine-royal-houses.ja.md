@@ -67,6 +67,13 @@ relations:
 related: ["majlis-raja-raja", "yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["negeri beraja Malaysia", "sembilan Raja Melayu", "Sultan Raja Yang di-Pertuan Besar", "Majlis Raja-Raja", "Ketua agama Islam negeri", "Undang Yang Empat Negeri Sembilan"]
 framework: explainer
+hero: '/media/malaysia/nine-royal-houses/hero.webp'
+heroAlt: '一対の金色の玉ねぎ型ドームを戴き、王室の紋章を掲げた金色の門扉を備えた国立王宮（イスタナ・ネガラ）の壮麗なアーチ型の門楼が、澄んだ青空を背に立っている。'
+heroCredit: 'EmpAhmadK / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 マレーシアには十三の州があるが、統治者（Raja）を有するのはそのうち九州のみである。残る四州——マラッカ、ペナン、サバ及びサラワク——は、統治者ではなく、任命された州元首（Yang di-Pertua Negeri）によって統治されている。

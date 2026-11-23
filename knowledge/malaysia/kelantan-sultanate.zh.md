@@ -61,6 +61,13 @@ social:
 verificationNeeded:
   - "Long Yunus 登上吉兰丹王座的确切年份在各资料中说法不一（约1760年、1763年、1764年及约1774年皆有出现）；本文采用「1760年代」，在断言任何单一年份之前，应对照一部专门的历史研究加以调和。"
 framework: history-culture
+hero: '/media/malaysia/kelantan-sultanate/hero.webp'
+heroAlt: '一座装饰华丽的黑色木造宫殿，有着黄色立柱、雕花檐板和层叠屋顶，耸立在一辆停于圆形砖砌前庭的古董马车之后。'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在马来半岛东北的肩部，河流向着南中国海奔流而下、海岸线一度既朝向古老的北大年（Patani）王国、也朝向马来心脏地带之处，一座王座从内战中被锻造出来。它的创建者并非生而为王。他是一名北大年裔的军阀，熬过了他的对手；而他所开创的王朝——Long Yunus 王室——两个半世纪多以后，至今仍在吉兰丹在位。

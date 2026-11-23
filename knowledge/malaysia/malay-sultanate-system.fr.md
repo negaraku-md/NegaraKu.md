@@ -62,6 +62,13 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "srivijaya", "independence-1957"]
 keywords: ["kesultanan Melayu", "sistem pembesar", "daulat", "waadat", "adat perpatih", "adat temenggung", "Bendahara", "Majlis Raja-Raja", "Yang di-Pertuan Agong", "raja berperlembagaan"]
 framework: explainer
+hero: '/media/malaysia/malay-sultanate-system/hero.webp'
+heroAlt: 'Un palais malais traditionnel en bois, aux murs de bambou tressé, aux toits de tuiles en forte pente et aux pignons sculptés, se dresse sous un ciel lumineux.'
+heroCredit: 'Akml5599 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Imaginez un État sans archives, sans formulaires, sans départements numérotés. Les ordres se transmettaient de bouche à oreille, la justice se prononçait au balairung, et tout l'ordre de la société reposait sur un seul mot qui ne peut être traduit précisément dans le langage moderne : *daulat*. C'était là le monde du sultanat malais — un système qui a ordonné des milliers de vies le long des côtes et des rivières pendant des siècles, et dont l'ombre est encore visible aujourd'hui dans la Constitution de la Malaisie.

@@ -69,6 +69,13 @@ relations:
 related: ["majlis-raja-raja", "yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["negeri beraja Malaysia", "sembilan Raja Melayu", "Sultan Raja Yang di-Pertuan Besar", "Majlis Raja-Raja", "Ketua agama Islam negeri", "Undang Yang Empat Negeri Sembilan"]
 framework: explainer
+hero: '/media/malaysia/nine-royal-houses/hero.webp'
+heroAlt: 'இரட்டை தங்க வெங்காய குவிமாடங்களாலும் அரச சின்னத்தைத் தாங்கிய பொன்முலாம் பூசிய வாயிற்கதவாலும் மகுடம் சூடிய இஸ்தானா நெகாரா (தேசிய அரண்மனை)யின் கம்பீரமான வளைவு வாயில்மாடம், தெளிந்த நீல வானத்திற்கு முன்னால் நிற்கிறது.'
+heroCredit: 'EmpAhmadK / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 மலேசியாவில் பதின்மூன்று மாநிலங்கள் உள்ளன, ஆனால் அவற்றுள் ஒன்பது மாநிலங்களுக்கு மட்டுமே ஆளும் அரசர் உண்டு. மற்ற நான்கு மாநிலங்கள் — Melaka, Pulau Pinang, Sabah மற்றும் Sarawak — நியமிக்கப்பட்ட மாநில ஆளுநரால் (Yang di-Pertua Negeri) தலைமை தாங்கப்படுகின்றன, ஒரு அரசரால் அல்ல.

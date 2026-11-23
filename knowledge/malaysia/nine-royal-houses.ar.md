@@ -69,6 +69,13 @@ relations:
 related: ["majlis-raja-raja", "yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["الولايات الملكية في ماليزيا", "negeri beraja Malaysia", "الحكّام الملايو التسعة", "Majlis Raja-Raja", "مجلس الحكّام", "Sultan Raja Yang di-Pertuan Besar", "رئيس الدين الإسلامي في الولاية", "Yang di-Pertuan Agong", "Undang Yang Empat"]
 framework: explainer
+hero: '/media/malaysia/nine-royal-houses/hero.webp'
+heroAlt: 'البوابة المقوسة الكبرى للقصر الوطني، يعلوها قبتان ذهبيتان على شكل بصلة وبوابة مذهبة تحمل الشعار الملكي، تقف أمام سماء زرقاء صافية.'
+heroCredit: 'EmpAhmadK / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 تضم ماليزيا ثلاث عشرة ولاية، لكن تسعاً منها فقط لها حاكم متوّج. أما الولايات الأربع الأخرى — ملقا (Melaka) وبينانغ (Penang) وصباح (Sabah) وساراواك (Sarawak) — فيرأسها حاكم ولاية مُعيَّن (Yang di-Pertua Negeri)، لا حاكم متوّج.

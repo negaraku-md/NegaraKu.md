@@ -60,6 +60,13 @@ social:
   hashtags: ["BruneiSultanate", "BorneoHistory", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded: []
 framework: history-culture
+hero: '/media/malaysia/brunei-sultanate/hero.webp'
+heroAlt: 'مسجد أبيض بقبة ذهبية ومئذنة عالية يتلألأ فوق بحيرته وزورقه الحجري الاحتفالي عند الغسق.'
+heroCredit: 'sam garza from Los Angeles, USA / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 قف على واجهة بندر سري بكاوان (Bandar Seri Begawan) اليوم وستبدو بروناي صغيرة: سلطنة ثرية غنية بالنفط ملتفّة حول شريطين ضيّقين من ساحل بورنيو، قريبة بما يكفي لعبورها بالسيارة في بعد ظهيرة واحد. ومن السهل نسيان أن هذا هو الشظية الباقية من إمبراطورية — أن سلطان بروناي قبل خمسة قرون كان يستطيع المطالبة بالجزية من موانئ مصفوفة على معظم السواحل الشمالية والغربية للجزيرة، وأن ولايتين ماليزيتين يمكنك بلوغهما من هنا برًّا، ساراواك وصباح، كانتا ذات يوم ملكه يهبهما لمن يشاء. وقصة كيف صعدت مملكة بورنيو البحرية، وبلغت ذروتها، ثم سلّمت تلك السواحل قطعةً إثر قطعة، واحدة من الخيوط الجوهرية في التاريخ الماليزي — وإن لم تصر بروناي نفسها قط جزءًا من ماليزيا.

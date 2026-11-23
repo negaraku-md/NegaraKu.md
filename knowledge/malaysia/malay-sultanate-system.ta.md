@@ -62,6 +62,13 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "srivijaya", "independence-1957"]
 keywords: ["kesultanan Melayu", "sistem pembesar", "daulat", "waadat", "adat perpatih", "adat temenggung", "Bendahara", "Majlis Raja-Raja", "Yang di-Pertuan Agong", "raja berperlembagaan"]
 framework: explainer
+hero: '/media/malaysia/malay-sultanate-system/hero.webp'
+heroAlt: 'பின்னப்பட்ட மூங்கில் சுவர்கள், செங்குத்தான ஓட்டுக் கூரைகள் மற்றும் செதுக்கப்பட்ட முகப்புகளைக் கொண்ட பாரம்பரிய மலாய் மர அரண்மனை, பிரகாசமான வானத்தின் கீழ் நிற்கிறது.'
+heroCredit: 'Akml5599 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 கோப்புகள் இல்லாத, படிவங்கள் இல்லாத, எண் இடப்பட்ட துறைகள் இல்லாத ஒரு நாட்டைக் கற்பனை செய்து பாருங்கள். கட்டளைகள் வாய்மொழியாகக் கொண்டு செல்லப்பட்டன, நீதி balairung-இல் (அரச மண்டபம்) வழங்கப்பட்டது, மேலும் சமூகத்தின் முழு அமைப்பும் நவீன மொழியில் துல்லியமாக மொழிபெயர்க்க முடியாத ஒரே சொல்லைச் சார்ந்திருந்தது: *daulat*. அதுதான் மலாய் சுல்தானகத்தின் உலகம் — கடற்கரைகளிலும் ஆறுகளிலும் நூற்றாண்டுகளாக ஆயிரக்கணக்கான உயிர்களை ஒழுங்குபடுத்திய அமைப்பு; அதன் நிழல் இன்றும் மலேசியாவின் அரசியலமைப்பில் காணப்படுகிறது.

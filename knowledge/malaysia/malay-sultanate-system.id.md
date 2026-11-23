@@ -62,6 +62,13 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "srivijaya", "independence-1957"]
 keywords: ["kesultanan Melayu", "sistem pembesar", "daulat", "waadat", "adat perpatih", "adat temenggung", "Bendahara", "Majlis Raja-Raja", "Yang di-Pertuan Agong", "raja berperlembagaan"]
 framework: explainer
+hero: '/media/malaysia/malay-sultanate-system/hero.webp'
+heroAlt: 'Istana kayu Melayu tradisional dengan dinding bambu anyaman, atap genting curam dan gevel berukir berdiri di bawah langit cerah.'
+heroCredit: 'Akml5599 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Bayangkan sebuah negeri tanpa berkas, tanpa formulir, tanpa departemen bernomor. Perintah dibawa dengan lidah, keadilan dijatuhkan di balairung, dan seluruh susunan masyarakat bergantung pada satu kata yang tidak dapat diterjemahkan dengan tepat ke dalam bahasa modern: *daulat*. Itulah dunia kesultanan Melayu — sebuah sistem yang menyusun ribuan jiwa di sepanjang pantai dan sungai selama berabad-abad, dan yang bayangnya masih tampak dalam Konstitusi Malaysia hari ini.

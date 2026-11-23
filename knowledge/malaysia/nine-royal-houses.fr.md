@@ -69,6 +69,13 @@ relations:
 related: ["majlis-raja-raja", "yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["negeri beraja Malaysia", "sembilan Raja Melayu", "Sultan Raja Yang di-Pertuan Besar", "Majlis Raja-Raja", "Ketua agama Islam negeri", "Undang Yang Empat Negeri Sembilan"]
 framework: explainer
+hero: '/media/malaysia/nine-royal-houses/hero.webp'
+heroAlt: 'Le grand portail en arc du Palais national, couronné de deux coupoles bulbeuses dorées et d''une grille dorée portant les armoiries royales, se dresse sous un ciel bleu dégagé.'
+heroCredit: 'EmpAhmadK / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 La Malaisie compte treize États, mais seuls neuf d'entre eux ont un Souverain régnant. Les quatre autres États — Melaka, Penang, Sabah et Sarawak — sont dirigés par un Yang di-Pertua Negeri nommé, et non par un Souverain.

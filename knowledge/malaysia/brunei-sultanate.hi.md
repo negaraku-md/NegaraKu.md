@@ -60,6 +60,13 @@ social:
   hashtags: ["BruneiSultanate", "BorneoHistory", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded: []
 framework: history-culture
+hero: '/media/malaysia/brunei-sultanate/hero.webp'
+heroAlt: 'सुनहरे गुंबद और ऊँची मीनार वाली एक सफ़ेद मस्जिद, गोधूलि बेला में अपनी झील और औपचारिक पत्थर की नौका के ऊपर दमकती है।'
+heroCredit: 'sam garza from Los Angeles, USA / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 आज बंदर सेरी बेगवान के जलतट पर खड़े हों तो ब्रुनेई छोटा दिखता है: बोर्नियो तट के दो टुकड़ों के इर्द-गिर्द लिपटा एक समृद्ध, तेल-धनी सल्तनत, इतना निकट कि एक दोपहर में गाड़ी से पार किया जा सके। यह भूलना आसान है कि यह एक साम्राज्य का बचा हुआ अंश है — कि पाँच शताब्दी पहले एक ब्रुनेई सुल्तान द्वीप के उत्तरी और पश्चिमी तटों के अधिकांश भाग पर फैले बंदरगाहों से भेंट का दावा कर सकता था, और यहाँ से जिन दो मलेशियाई राज्यों तक आप सड़क से पहुँच सकते हैं, सरवाक और साबा, कभी उसके थे, उसके देने के लिए। कैसे एक बोर्नियो समुद्री-राज्य उठा, अपने चरमोत्कर्ष पर पहुँचा, और फिर उन तटों को टुकड़े-टुकड़े करके सौंप दिया, इसकी कहानी मलेशियाई इतिहास के आवश्यक सूत्रों में से एक है — भले ही ब्रुनेई स्वयं कभी मलेशिया का हिस्सा नहीं बना।

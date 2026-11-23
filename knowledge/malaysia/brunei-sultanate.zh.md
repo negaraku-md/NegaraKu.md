@@ -60,6 +60,13 @@ social:
   hashtags: ["BruneiSultanate", "BorneoHistory", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded: []
 framework: history-culture
+hero: '/media/malaysia/brunei-sultanate/hero.webp'
+heroAlt: '一座金顶白色清真寺，耸立着高高的宣礼塔，在暮色中于潟湖及礼仪石舫之上熠熠生辉。'
+heroCredit: 'sam garza from Los Angeles, USA / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 今日站在斯里巴加湾市（Bandar Seri Begawan）的滨水区，文莱看起来很小：一个富裕的、盛产石油的苏丹王朝，裹在婆罗洲海岸两片狭长之地上，近得一个下午就能驱车穿越。人们很容易忘记，这是一个帝国幸存下来的碎片——五个世纪以前，一位文莱苏丹能够向沿着这座岛屿北岸与西岸、星罗棋布的港口索取贡赋，而你从这里驱车可达的两个马来西亚州属——砂拉越与沙巴——曾经是他可以随手送人的领土。一个婆罗洲海上王国如何崛起、臻于顶峰、而后又把那些海岸一块块拱手让出，这故事是马来西亚历史中几条根本线索之一——尽管文莱本身从未成为马来西亚的一部分。

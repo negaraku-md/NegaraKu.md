@@ -61,6 +61,13 @@ social:
 verificationNeeded:
   - "王国の正確な建国年——資料は1708年（ジョホールの宗主による擁立）と1724／1725年（完全な独立）をさまざまに挙げる。正確な日付は、ハジ・ブヨン・アディルのSejarah Terengganuのような学術的歴史に照らして確認されるべきである。"
 framework: history-culture
+hero: '/media/malaysia/terengganu-sultanate/hero.webp'
+heroAlt: '広い芝生の向こう、深い青空の下、赤瓦の小塔とアーチ型の回廊を備えたクリーム色と金色の植民地様式の宮殿が、陽光を浴びて立っている。'
+heroCredit: 'Abie Sudiono / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Maziah_Palace,_Kuala_Terengganu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 いかなるスルタンもその王座に座るはるか以前から、トレンガヌ内陸の川辺にある一枚の花崗岩の石板が、すでに州の運命を石に刻み込んでいた。トレンガヌのバトゥ・ブルスラット——トレンガヌ刻文石——は、1303年と読める年代を刻み、その風化した面に、アラビア文字に由来する丸みを帯びた[ジャウィ文字](/ja/arts-culture/jawi-script)で、一人の統治者がその民にイスラムを固く守るよう命じている。それは、マレー世界のどこにおいても、ジャウィの筆記とイスラム法の最古の年代付き証拠である。この地の名をやがて帯びることになる王国の到来は、それより四世紀あまり後であった——しかしそれが守ることになる信仰は、まずここに刻まれたのである。

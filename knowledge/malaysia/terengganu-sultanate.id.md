@@ -61,6 +61,13 @@ social:
 verificationNeeded:
   - "Tahun pendirian pasti kesultanan — sumber-sumber beragam memberikan 1708 (pelantikan oleh para penguasa tertinggi Johor) dan 1724/1725 (kemerdekaan penuh); tanggal yang tepat sebaiknya diperiksa terhadap sejarah ilmiah seperti Sejarah Terengganu karya Haji Buyong Adil."
 framework: history-culture
+hero: '/media/malaysia/terengganu-sultanate/hero.webp'
+heroAlt: 'Istana bergaya kolonial berwarna krem dan emas dengan menara beratap genting merah dan serambi berlengkung terletak dimandikan sinar matahari di bawah langit biru pekat di seberang halaman luas.'
+heroCredit: 'Abie Sudiono / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Maziah_Palace,_Kuala_Terengganu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Jauh sebelum ada sultan yang duduk di atas takhtanya, sebongkah granit di tepi sungai di pedalaman Terengganu telah menuliskan takdir negeri itu di atas batu. Batu Bersurat Terengganu — Batu Bertulis Terengganu — mengusung tarikh yang terbaca sebagai tahun 1303, dan di permukaannya yang lapuk, dalam huruf-huruf melingkar turunan Arab dari [aksara Jawi](/id/arts-culture/jawi-script), seorang penguasa memerintahkan rakyatnya untuk berpegang teguh pada Islam. Ia adalah bukti bertarikh tertua tentang tulisan Jawi dan hukum Islam di mana pun di dunia Melayu. Kesultanan yang akhirnya menyandang nama tanah itu baru tiba lebih dari empat abad kemudian — tetapi iman yang akan dibelanya telah terukir di sini lebih dahulu.

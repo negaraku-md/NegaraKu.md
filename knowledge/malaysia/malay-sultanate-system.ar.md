@@ -61,6 +61,13 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "srivijaya", "independence-1957"]
 keywords: ["السلطنة الملايوية", "kesultanan Melayu", "نظام الكبراء", "sistem pembesar", "daulat", "waadat", "adat perpatih", "adat temenggung", "Bendahara", "مجلس الحكّام", "Majlis Raja-Raja", "Yang di-Pertuan Agong", "الملكية الدستورية", "raja berperlembagaan"]
 framework: explainer
+hero: '/media/malaysia/malay-sultanate-system/hero.webp'
+heroAlt: 'قصر ملايوي تقليدي من الخشب بجدران من الخيزران المنسوج وأسطح قرميدية شديدة الانحدار وجملونات منحوتة، يقف تحت سماء مشرقة.'
+heroCredit: 'Akml5599 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 تخيّل دولةً بلا ملفّات، ولا استمارات، ولا دوائر مرقّمة. كانت الأوامر تُنقل بالكلام، ويُقضى في العدل في الـ balairung (قاعة العرش)، وكان نظام المجتمع كله يستند إلى كلمة واحدة لا تُترجم بدقة إلى اللغة الحديثة: *daulat*. ذلك كان عالم السلطنة الملايوية — نظام نظّم آلاف الأرواح على طول السواحل والأنهار قرونًا، ولا يزال ظلّه مرئيًا في دستور ماليزيا اليوم.

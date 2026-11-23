@@ -61,6 +61,13 @@ social:
 verificationNeeded:
   - "Tahun pasti Long Yunus naik takhta Kelantan diberikan berbeda-beda di berbagai sumber (sekitar 1760, 1763, 1764, dan sekitar 1774 semuanya muncul); artikel ini menggunakan 'tahun 1760-an' dan sebaiknya diselaraskan terhadap sebuah kajian sejarah khusus sebelum satu tahun tunggal ditegaskan."
 framework: history-culture
+hero: '/media/malaysia/kelantan-sultanate/hero.webp'
+heroAlt: 'Istana kayu hitam yang berukir indah dengan tiang kuning, lis ukiran dan atap bertingkat menjulang di belakang sebuah kereta kuda antik yang terparkir di halaman depan bata berbentuk lingkaran.'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Di bahu timur laut Semenanjung Melayu, tempat sungai-sungai mengalir turun ke Laut Tiongkok Selatan dan pesisirnya pernah menghadap sama banyaknya ke kerajaan lama Patani seperti ke jantung tanah Melayu, sebuah takhta ditempa dari perang saudara. Pendirinya tidak terlahir sebagai raja. Ia seorang panglima perang berketurunan Patani yang bertahan melampaui para saingannya, dan dinasti yang ia mulai — Wangsa Long Yunus — masih memerintah di Kelantan hari ini, lebih dari dua setengah abad kemudian.

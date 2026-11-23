@@ -6613,5 +6613,77 @@
       "alt": "A majestic white Moorish mosque crowned by clustered black onion domes and slender minarets, its ornate arched facade rising above an open plaza beneath dramatic clouds.",
       "position": "attention"
     }
+  },
+  "malaysia/negeri-sembilan-royal-institution": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Istana_Lama_Seri_Menanti_February_1964.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Don Christie",
+      "page": "https://commons.wikimedia.org/wiki/File:Istana_Lama_Seri_Menanti_February_1964.jpg",
+      "kind": "actual",
+      "subject": "Istana Lama Seri Menanti, the historic four-storey all-timber Minangkabau-style royal palace at Seri Menanti, Negeri Sembilan.",
+      "alt": "A grand dark-timber palace crowned with a tall tiered tower and sweeping shingled roofs stands against forested hills beyond a wide green field.",
+      "position": "attention"
+    }
+  },
+  "malaysia/terengganu-sultanate": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Maziah_Palace%2C_Kuala_Terengganu.jpg",
+      "license": "CC BY 2.0",
+      "by": "Abie Sudiono",
+      "page": "https://commons.wikimedia.org/wiki/File:Maziah_Palace,_Kuala_Terengganu.jpg",
+      "kind": "actual",
+      "subject": "Istana Maziah, the royal palace of the Terengganu Sultanate in Kuala Terengganu.",
+      "alt": "A cream-and-gold colonial-style palace with red-tiled turrets and arched arcades sits bathed in sunlight under a deep blue sky beyond a broad lawn.",
+      "position": "attention"
+    }
+  },
+  "malaysia/kelantan-sultanate": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Istana_Jahar%2C_Kota_Bharu.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Comelote",
+      "page": "https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg",
+      "kind": "actual",
+      "subject": "Istana Jahar, the ornate historic royal palace in Kota Bharu, now the Kelantan Royal Ceremonies Museum (Muzium Adat Istiadat).",
+      "alt": "An ornate black timber palace with yellow pillars, carved fascias and tiered roofs rises behind a vintage horse carriage parked on a circular brick forecourt.",
+      "position": "attention"
+    }
+  },
+  "malaysia/nine-royal-houses": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Istana_Negara_15.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "EmpAhmadK",
+      "page": "https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg",
+      "kind": "actual",
+      "subject": "The ornate ceremonial main gatehouse of the new Istana Negara (National Palace) on Jalan Tuanku Abdul Halim, Kuala Lumpur, official residence of the Yang di-Pertuan Agong.",
+      "alt": "The grand arched gatehouse of the National Palace, crowned with twin gold onion domes and a gilded gate bearing the royal crest, stands against a clear blue sky.",
+      "position": "attention"
+    }
+  },
+  "malaysia/malay-sultanate-system": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Istana_Kenangan_front_view.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Akml5599",
+      "page": "https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg",
+      "kind": "representative",
+      "subject": "Istana Kenangan in Kuala Kangsar, Perak, a historic woven-bamboo-walled timber royal palace now serving as the Perak Royal Museum.",
+      "alt": "A traditional Malay timber palace with woven bamboo walls, steep tiled roofs and carved gables stands beneath a bright sky.",
+      "position": "centre"
+    }
+  },
+  "malaysia/brunei-sultanate": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg",
+      "license": "CC BY 2.0",
+      "by": "sam garza from Los Angeles, USA",
+      "page": "https://commons.wikimedia.org/wiki/File:Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg",
+      "kind": "actual",
+      "subject": "The Sultan Omar Ali Saifuddien Mosque in Bandar Seri Begawan, Brunei, a landmark of the historical Brunei Sultanate.",
+      "alt": "A golden-domed white mosque with a tall minaret glows above its lagoon and ceremonial stone barge at dusk.",
+      "position": "attention"
+    }
   }
 }

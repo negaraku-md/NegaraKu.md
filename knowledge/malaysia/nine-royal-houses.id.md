@@ -69,6 +69,13 @@ relations:
 related: ["majlis-raja-raja", "yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["negeri beraja Malaysia", "sembilan Raja Melayu", "Sultan Raja Yang di-Pertuan Besar", "Majlis Raja-Raja", "Ketua agama Islam negeri", "Undang Yang Empat Negeri Sembilan"]
 framework: explainer
+hero: '/media/malaysia/nine-royal-houses/hero.webp'
+heroAlt: 'Gerbang berlengkung megah Istana Negara, bermahkota dua kubah bawang emas kembar dan gerbang bersepuh emas yang membawa lambang kerajaan, berdiri di hadapan langit biru cerah.'
+heroCredit: 'EmpAhmadK / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Malaysia memiliki tiga belas negeri, tetapi hanya sembilan di antaranya yang memiliki Raja pemerintah. Empat negeri lainnya — Melaka, Pulau Pinang, Sabah, dan Sarawak — dikepalai oleh Yang di-Pertua Negeri yang dilantik, bukan oleh seorang Raja.

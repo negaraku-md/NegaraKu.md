@@ -62,6 +62,13 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "srivijaya", "independence-1957"]
 keywords: ["kesultanan Melayu", "sistem pembesar", "daulat", "waadat", "adat perpatih", "adat temenggung", "Bendahara", "Majlis Raja-Raja", "Yang di-Pertuan Agong", "raja berperlembagaan"]
 framework: explainer
+hero: '/media/malaysia/malay-sultanate-system/hero.webp'
+heroAlt: 'Một cung điện gỗ Mã Lai truyền thống với tường tre đan, mái ngói dốc và đầu hồi chạm khắc đứng dưới bầu trời sáng.'
+heroCredit: 'Akml5599 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Hãy hình dung một bang không có hồ sơ, không có biểu mẫu, không có các phòng ban được đánh số. Mệnh lệnh được truyền đi bằng lời, công lý được tuyên tại điện thiết triều, và toàn bộ trật tự xã hội phụ thuộc vào một từ không thể dịch chính xác sang ngôn ngữ hiện đại: *daulat*. Đó là thế giới của vương triều Mã Lai — một hệ thống đã sắp xếp hàng nghìn sinh mạng dọc các bờ biển và con sông trong nhiều thế kỷ, và mà bóng dáng của nó vẫn còn nhìn thấy trong Hiến pháp Malaysia ngày nay.

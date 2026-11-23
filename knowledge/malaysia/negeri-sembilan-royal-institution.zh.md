@@ -59,6 +59,13 @@ verificationNeeded:
   - "2025–2026年的继承争议是一桩进行中的事件，各方说法相互矛盾；Sungai Ujong 的 Undang 之地位、2026年4月19日的罢免宣告，以及对立的宣告，在任何细节被视为定论之前，均应对照官方州属来源重新查证。"
   - "Tuanku Muhriz 作为第11任严端的确切登基／宣告日期（通常给出2008年12月29日），应对照州属王室门户网站加以确认。"
 framework: history-culture
+hero: '/media/malaysia/negeri-sembilan-royal-institution/hero.webp'
+heroAlt: '一座宏伟的深色木造宫殿矗立在一片宽阔的绿茵草地之后，宫殿顶部耸立着高高的多层塔楼和层叠起伏的木瓦屋顶，背后是林木葱郁的山峦。'
+heroCredit: 'Don Christie / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Lama_Seri_Menanti_February_1964.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在马来半岛的心脏地带，坐落着一个打破马来君主制一切规则的王国。它的统治者不是生而为王，而是被推选出来的。它的大家族循着母亲、而非父亲追溯世系。而它的名字本身——森美兰（Negeri Sembilan），「九之州」——铭记的不是单一个王室，而是一个跨越内陆丘陵缝合而成的辖区联盟。要理解这项独特的制度如何形成，就要追随一批米南加保（Minangkabau）移民——他们从苏门答腊渡过马六甲海峡，带来了一套习俗，并在时机成熟时派人回乡，请来一位王子来统治他们。

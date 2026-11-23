@@ -60,6 +60,13 @@ social:
   hashtags: ["BruneiSultanate", "BorneoHistory", "MalaysianHistory", "MalaySultanates"]
 verificationNeeded: []
 framework: history-culture
+hero: '/media/malaysia/brunei-sultanate/hero.webp'
+heroAlt: 'Una mezquita blanca de cúpula dorada y alto alminar resplandece sobre su laguna y su barcaza ceremonial de piedra al atardecer.'
+heroCredit: 'sam garza from Los Angeles, USA / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Párate hoy en el paseo marítimo de Bandar Seri Begawan y Brunéi parece pequeño: un sultanato próspero y rico en petróleo envuelto en torno a dos fragmentos de la costa de Borneo, lo bastante cerca como para cruzarlo en coche en una tarde. Es fácil olvidar que este es el fragmento superviviente de un imperio —que hace cinco siglos un Sultán de Brunéi podía reclamar tributo de los puertos ensartados a lo largo de la mayor parte de las orillas norte y oeste de la isla, y que dos de los estados malasios a los que se puede llegar desde aquí por carretera, Sarawak y Sabah, fueron en otro tiempo suyos para regalarlos—. La historia de cómo un reino marítimo de Borneo se alzó, alcanzó su cima y luego entregó esas costas pieza a pieza es uno de los hilos esenciales de la historia de Malasia, aunque el propio Brunéi nunca llegó a formar parte de Malasia.

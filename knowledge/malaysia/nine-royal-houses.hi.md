@@ -69,6 +69,13 @@ relations:
 related: ["majlis-raja-raja", "yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["मलेशिया के राजसी राज्य", "negeri beraja Malaysia", "नौ मलय शासक", "Majlis Raja-Raja", "शासक सम्मेलन", "Sultan Raja Yang di-Pertuan Besar", "राज्य में इस्लाम धर्म का प्रमुख", "Yang di-Pertuan Agong", "Undang Yang Empat"]
 framework: explainer
+hero: '/media/malaysia/nine-royal-houses/hero.webp'
+heroAlt: 'राष्ट्रीय महल का भव्य मेहराबदार प्रवेश-द्वार, जिसके ऊपर जुड़वाँ सुनहरे प्याज़नुमा गुंबद हैं और राजचिह्न वाला सोने का फाटक है, स्वच्छ नीले आकाश की पृष्ठभूमि में खड़ा है।'
+heroCredit: 'EmpAhmadK / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 मलेशिया में तेरह राज्य हैं, लेकिन उनमें से केवल नौ का एक शासनरत शासक है। अन्य चार राज्य — मलक्का (Melaka), पिनांग (Penang), सबा (Sabah) और सारावाक (Sarawak) — का प्रमुख एक नियुक्त यांग दी-पर्तुआ नेगेरी (Yang di-Pertua Negeri) है, न कि कोई शासक।

@@ -61,6 +61,13 @@ social:
 verificationNeeded:
   - "L'année exacte où Long Yunus monta sur le trône du Kelantan est donnée différemment selon les sources (v. 1760, 1763, 1764 et v. 1774 apparaissent tous) ; cet article utilise « les années 1760 » et devrait être harmonisé avec une étude historique dédiée avant d'affirmer une année unique."
 framework: history-culture
+hero: '/media/malaysia/kelantan-sultanate/hero.webp'
+heroAlt: 'Un palais orné en bois noir, aux colonnes jaunes, aux bandeaux sculptés et aux toits à étages, s''élève derrière une calèche d''époque garée sur un parvis circulaire en briques.'
+heroCredit: 'Comelote / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sur l'épaule nord-est de la péninsule malaise, là où les rivières descendent vers la mer de Chine méridionale et où la côte regardait autrefois autant vers l'ancien royaume de Patani que vers le cœur malais, un trône fut forgé dans la guerre civile. Son fondateur n'était pas né roi. C'était un chef de guerre d'origine patanaise qui survécut à ses rivaux, et la dynastie qu'il fonda — la maison de Long Yunus — règne encore au Kelantan aujourd'hui, plus de deux siècles et demi plus tard.

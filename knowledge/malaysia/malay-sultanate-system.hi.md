@@ -61,6 +61,13 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "srivijaya", "independence-1957"]
 keywords: ["kesultanan Melayu", "sistem pembesar", "daulat", "waadat", "adat perpatih", "adat temenggung", "Bendahara", "Majlis Raja-Raja", "Yang di-Pertuan Agong", "raja berperlembagaan"]
 framework: explainer
+hero: '/media/malaysia/malay-sultanate-system/hero.webp'
+heroAlt: 'बुनी हुई बाँस की दीवारों, तीखी ढलान वाली खपरैल छतों और नक्काशीदार गैबलों वाला एक पारंपरिक मलय लकड़ी का महल, चमकीले आकाश के नीचे खड़ा है।'
+heroCredit: 'Akml5599 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 एक ऐसे राज्य की कल्पना कीजिए जहाँ कोई फ़ाइल नहीं, कोई फ़ॉर्म नहीं, कोई क्रमांकित विभाग नहीं। आदेश मौखिक रूप से पहुँचाए जाते थे, न्याय बालाईरुंग (दरबार) में सुनाया जाता था, और समाज की समूची व्यवस्था एक ही शब्द पर टिकी थी जिसका आधुनिक भाषा में ठीक-ठीक अनुवाद नहीं हो सकता: *daulat*। वह मलय सल्तनत की दुनिया थी — एक ऐसी व्यवस्था जिसने सदियों तक तटों और नदियों के किनारे हज़ारों जीवनों को व्यवस्थित किया, और जिसकी छाया आज भी मलेशिया के संविधान में दिखाई देती है।

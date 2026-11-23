@@ -61,6 +61,13 @@ relations:
 related: ["melaka-sultanate", "langkasuka", "srivijaya", "independence-1957"]
 keywords: ["kesultanan Melayu", "sistem pembesar", "daulat", "waadat", "adat perpatih", "adat temenggung", "Bendahara", "Majlis Raja-Raja", "Yang di-Pertuan Agong", "raja berperlembagaan"]
 framework: explainer
+hero: '/media/malaysia/malay-sultanate-system/hero.webp'
+heroAlt: 'พระราชวังไม้แบบมลายูดั้งเดิม มีผนังสานจากไม้ไผ่ หลังคามุงกระเบื้องลาดชัน และหน้าจั่วแกะสลัก ตั้งอยู่ใต้ท้องฟ้าสดใส'
+heroCredit: 'Akml5599 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ลองจินตนาการถึงรัฐที่ไม่มีแฟ้มเอกสาร ไม่มีแบบฟอร์ม ไม่มีหน่วยงานที่มีหมายเลข คำสั่งถูกส่งด้วยลิ้น ความยุติธรรมถูกตัดสินในท้องพระโรง และโครงสร้างทั้งหมดของสังคมขึ้นอยู่กับคำเดียวที่ไม่สามารถแปลได้อย่างแม่นยำเป็นภาษาสมัยใหม่ คือ *เดาลัต (daulat)* นั่นคือโลกของรัฐสุลต่านมลายู ระบบที่จัดชีวิตหลายพันชีวิตตลอดชายฝั่งและแม่น้ำเป็นเวลาหลายศตวรรษ และที่เงาของมันยังคงเห็นได้ในรัฐธรรมนูญของมาเลเซียในปัจจุบัน

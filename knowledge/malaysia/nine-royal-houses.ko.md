@@ -68,6 +68,13 @@ relations:
 related: ["majlis-raja-raja", "yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["negeri beraja Malaysia", "sembilan Raja Melayu", "Sultan Raja Yang di-Pertuan Besar", "Majlis Raja-Raja", "Ketua agama Islam negeri", "Undang Yang Empat Negeri Sembilan"]
 framework: explainer
+hero: '/media/malaysia/nine-royal-houses/hero.webp'
+heroAlt: '한 쌍의 금색 양파형 돔을 이고 왕실 문장을 새긴 금빛 정문을 갖춘 국립 왕궁(이스타나 네가라)의 웅장한 아치형 문루가 맑고 푸른 하늘을 배경으로 서 있다.'
+heroCredit: 'EmpAhmadK / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 말레이시아에는 열세 개의 주가 있지만, 그 가운데 통치 군주를 두고 있는 곳은 아홉 개뿐입니다. 나머지 네 개 주 — 말라카(Melaka), 페낭(Pulau Pinang), 사바(Sabah), 사라왁(Sarawak) — 는 군주가 아니라 임명된 양 디페르투아 느그리(Yang di-Pertua Negeri, 주지사)가 이끕니다.

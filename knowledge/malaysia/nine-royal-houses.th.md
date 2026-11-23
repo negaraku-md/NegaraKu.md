@@ -69,6 +69,13 @@ relations:
 related: ["majlis-raja-raja", "yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["negeri beraja Malaysia", "sembilan Raja Melayu", "Sultan Raja Yang di-Pertuan Besar", "Majlis Raja-Raja", "Ketua agama Islam negeri", "Undang Yang Empat Negeri Sembilan"]
 framework: explainer
+hero: '/media/malaysia/nine-royal-houses/hero.webp'
+heroAlt: 'ประตูซุ้มโค้งอันโอ่อ่าของพระราชวังหลวง (อิสตานา เนการา) ประดับยอดด้วยโดมทรงหัวหอมสีทองคู่ และประตูสีทองที่สลักตราประจำราชวงศ์ ตั้งตระหง่านตัดกับท้องฟ้าสีฟ้าใส'
+heroCredit: 'EmpAhmadK / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 มาเลเซียมีสิบสามรัฐ แต่มีเพียงเก้ารัฐเท่านั้นที่มีเจ้าผู้ครอง อีกสี่รัฐ คือ มะละกา ปูเลาปีนัง ซาบาห์ และซาราวัก มียังดี-เปอร์ตัว เนอเกอรี (Yang di-Pertua Negeri) ที่ได้รับการแต่งตั้งเป็นประมุข ไม่ใช่เจ้าผู้ครอง

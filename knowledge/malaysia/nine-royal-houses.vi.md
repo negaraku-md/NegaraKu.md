@@ -69,6 +69,13 @@ relations:
 related: ["majlis-raja-raja", "yang-di-pertuan-agong", "federal-constitution"]
 keywords: ["negeri beraja Malaysia", "sembilan Raja Melayu", "Sultan Raja Yang di-Pertuan Besar", "Majlis Raja-Raja", "Ketua agama Islam negeri", "Undang Yang Empat Negeri Sembilan"]
 framework: explainer
+hero: '/media/malaysia/nine-royal-houses/hero.webp'
+heroAlt: 'Cổng vòm nguy nga của Cung điện Quốc gia, với hai mái vòm củ hành vàng song sinh và cánh cổng mạ vàng mang huy hiệu hoàng gia, đứng trước bầu trời xanh trong.'
+heroCredit: 'EmpAhmadK / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Malaysia có mười ba bang, nhưng chỉ chín bang trong số đó có Quân vương trị vì. Bốn bang còn lại — Melaka, Pulau Pinang, Sabah và Sarawak — do các Thống đốc bang (Yang di-Pertua Negeri) được bổ nhiệm đứng đầu, chứ không phải một Quân vương.
