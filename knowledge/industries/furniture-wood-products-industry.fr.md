@@ -102,6 +102,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/furniture-wood-products-industry/hero.webp'
+heroAlt: 'Workers strip bark from logs at the peeling-line infeed inside a plywood factory in Sandakan, Sabah, under a steel-framed roof hung with lifting gear.'
+heroCredit: 'CEphoto / Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Quelque part dans une maison du Texas ou de Californie, il y a de bonnes chances que la chaise de salle à manger, le cadre de lit ou l'étagère ait été fabriqué en Malaisie — très probablement dans une seule ville et ses environs, à partir du bois d'un hévéa qui produisait autrefois du latex pour les gants et les pneus. L'industrie malaisienne du meuble et des produits du bois est l'un des poids lourds discrets de son économie manufacturière : pas glamour, mais un exportateur mondial régulier du top dix qui a transformé un sous-produit du secteur des plantations en biens finis vendus dans le monde entier.

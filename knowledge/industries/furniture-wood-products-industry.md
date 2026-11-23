@@ -101,6 +101,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/furniture-wood-products-industry/hero.webp'
+heroAlt: 'Workers strip bark from logs at the peeling-line infeed inside a plywood factory in Sandakan, Sabah, under a steel-framed roof hung with lifting gear.'
+heroCredit: 'CEphoto / Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Somewhere in a home in Texas or California, there is a good chance the dining chair, bed frame or bookshelf was made in Malaysia — very possibly in and around one town, from the timber of a rubber tree that once produced latex for gloves and tyres. Malaysia's furniture and wood products industry is one of the quiet heavyweights of its manufacturing economy: not glamorous, but a consistent top-ten global exporter that has turned a by-product of the plantation sector into finished goods sold around the world.

@@ -102,6 +102,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/furniture-wood-products-industry/hero.webp'
+heroAlt: 'Workers strip bark from logs at the peeling-line infeed inside a plywood factory in Sandakan, Sabah, under a steel-framed roof hung with lifting gear.'
+heroCredit: 'CEphoto / Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 En algún lugar de un hogar de Texas o California, hay buenas probabilidades de que la silla de comedor, la estructura de la cama o la estantería se fabricaran en Malasia —muy posiblemente en torno a un solo pueblo, a partir de la madera de un árbol del caucho que antaño producía látex para guantes y neumáticos—. La industria del mueble y los productos de madera de Malasia es uno de los pesos pesados silenciosos de su economía manufacturera: no glamurosa, pero un exportador mundial sistemáticamente entre los diez primeros que ha convertido un subproducto del sector de las plantaciones en bienes acabados vendidos por todo el mundo.

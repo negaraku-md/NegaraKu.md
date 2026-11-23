@@ -102,6 +102,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/furniture-wood-products-industry/hero.webp'
+heroAlt: 'Workers strip bark from logs at the peeling-line infeed inside a plywood factory in Sandakan, Sabah, under a steel-framed roof hung with lifting gear.'
+heroCredit: 'CEphoto / Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 டெக்சாஸ் அல்லது கலிஃபோர்னியாவில் உள்ள ஒரு வீட்டில் எங்கோ, உணவுமேசை நாற்காலி, படுக்கைச் சட்டம் அல்லது புத்தக அலமாரி மலேசியாவில் தயாரிக்கப்பட்டிருக்க நல்ல வாய்ப்பு உள்ளது — மிகவும் சாத்தியமாக ஒரு நகரத்தைச் சுற்றியும் அதற்குள்ளும், கையுறைகள் மற்றும் டயர்களுக்கு ஒருமுறை லேடெக்ஸ் உற்பத்தி செய்த ஒரு ரப்பர் மரத்தின் மரத்திலிருந்து. மலேசியாவின் தளபாடம் மற்றும் மரப் பொருட்கள் தொழில் அதன் உற்பத்திப் பொருளாதாரத்தின் அமைதியான கனரக எடைகளில் ஒன்று: கவர்ச்சிகரமானதல்ல, ஆனால் தோட்டத் துறையின் ஒரு துணைப்பொருளை உலகம் முழுவதும் விற்கப்படும் முடிக்கப்பட்ட பொருட்களாக மாற்றிய ஒரு நிலையான முதல்-பத்து உலகளாவிய ஏற்றுமதியாளர்.

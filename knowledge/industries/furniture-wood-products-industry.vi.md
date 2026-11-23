@@ -102,6 +102,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/furniture-wood-products-industry/hero.webp'
+heroAlt: 'Workers strip bark from logs at the peeling-line infeed inside a plywood factory in Sandakan, Sabah, under a steel-framed roof hung with lifting gear.'
+heroCredit: 'CEphoto / Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Đâu đó trong một ngôi nhà ở Texas hoặc California, nhiều khả năng chiếc ghế ăn, khung giường hay kệ sách được làm ở Malaysia — rất có thể ở trong và quanh một thị trấn, từ gỗ của một cây cao su từng cho mủ làm găng tay và lốp xe. Ngành nội thất và sản phẩm gỗ của Malaysia là một trong những "ông lớn thầm lặng" của nền kinh tế chế tạo của nó: không hào nhoáng, nhưng là một nhà xuất khẩu tốp mười toàn cầu ổn định đã biến một sản phẩm phụ của khu vực đồn điền thành hàng thành phẩm bán khắp thế giới.

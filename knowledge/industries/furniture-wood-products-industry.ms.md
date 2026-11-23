@@ -102,6 +102,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/furniture-wood-products-industry/hero.webp'
+heroAlt: 'Workers strip bark from logs at the peeling-line infeed inside a plywood factory in Sandakan, Sabah, under a steel-framed roof hung with lifting gear.'
+heroCredit: 'CEphoto / Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Di suatu tempat dalam rumah di Texas atau California, ada kemungkinan besar kerusi makan, rangka katil atau rak buku itu dibuat di Malaysia — sangat mungkin di dalam dan sekitar satu pekan, daripada kayu pokok getah yang pernah menghasilkan lateks untuk sarung tangan dan tayar. Industri perabot dan produk kayu Malaysia ialah salah satu gergasi senyap ekonomi pembuatannya: tidak glamor, tetapi pengeksport global sepuluh teratas yang konsisten yang telah menukar hasil sampingan sektor ladang menjadi barangan siap yang dijual di seluruh dunia.

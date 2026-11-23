@@ -102,6 +102,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/furniture-wood-products-industry/hero.webp'
+heroAlt: 'Workers strip bark from logs at the peeling-line infeed inside a plywood factory in Sandakan, Sabah, under a steel-framed roof hung with lifting gear.'
+heroCredit: 'CEphoto / Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在得克萨斯或加利福尼亚某个家庭里，那张餐椅、床架或书架很有可能产自马来西亚——很可能就出自一个小镇及其周边，用的是一棵曾为手套和轮胎产胶的橡胶树的木材。马来西亚的家具与木制品产业是其制造经济中安静的重量级选手之一：并不光鲜，却是稳定的全球前十出口国，把种植业的一种副产品变成了行销世界的成品。

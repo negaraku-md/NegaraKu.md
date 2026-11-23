@@ -102,6 +102,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/furniture-wood-products-industry/hero.webp'
+heroAlt: 'Workers strip bark from logs at the peeling-line infeed inside a plywood factory in Sandakan, Sabah, under a steel-framed roof hung with lifting gear.'
+heroCredit: 'CEphoto / Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في مكان ما داخل منزل في تكساس أو كاليفورنيا، ثمة احتمال كبير أن كرسي الطعام أو إطار السرير أو رفّ الكتب قد صُنع في ماليزيا — وربما في بلدة واحدة وما حولها، من خشب شجرة مطّاط كانت يومًا تنتج اللاتكس للقفازات والإطارات. فصناعة الأثاث ومنتجات الخشب في ماليزيا أحد الأثقال الهادئة في اقتصادها التصنيعي: ليست برّاقة، لكنها مصدّر عالمي ضمن العشرة الأوائل باستمرار، حوّل منتجًا ثانويًا من قطاع المزارع إلى سلع منتهية تُباع حول العالم.

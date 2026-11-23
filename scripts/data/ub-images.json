@@ -10806,5 +10806,39 @@
         "position": "attention"
       }
     ]
+  },
+  "industries/furniture-wood-products-industry": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Sandakan_Sabah_Plywood-Factory-20.jpg",
+      "license": "CC BY-SA 3.0",
+      "by": "CEphoto / Uwe Aranas",
+      "page": "https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg",
+      "kind": "actual",
+      "subject": "Interior of a plywood factory in Sandakan, Sabah, Malaysia, with workers at the log-peeling infeed line",
+      "alt": "Workers strip bark from logs at the peeling-line infeed inside a plywood factory in Sandakan, Sabah, under a steel-framed roof hung with lifting gear.",
+      "role": "hero"
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Kluang_-_Home_Best_Furniture_May_2024.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Dominic Nelson",
+        "page": "https://commons.wikimedia.org/wiki/File:Kluang_-_Home_Best_Furniture_May_2024.jpg",
+        "kind": "actual",
+        "subject": "A furniture retailer, Pusat Perabot Home Best, on Jalan Manggis in Kluang town, Johor, Malaysia",
+        "alt": "The bold red-and-white corner building of the Home Best furniture store in Kluang, Johor, its signboards reading Pusat Perabot Home Best Furniture in Malay and Chinese against a clear blue sky.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandakan_Sabah_Sale-of-timbers-01.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "CEphoto / Uwe Aranas",
+        "page": "https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sale-of-timbers-01.jpg",
+        "kind": "actual",
+        "subject": "Stacks of sawn tropical timber boards on sale at a timber yard in Sandakan, Sabah, Malaysia",
+        "alt": "Neatly stacked rows of freshly sawn tropical timber planks fill an open-sided roofed timber yard in Sandakan, Sabah, their warm honey and reddish-brown grain lit by afternoon sun.",
+        "position": "attention"
+      }
+    ]
   }
 }

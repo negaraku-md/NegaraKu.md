@@ -12481,5 +12481,42 @@
         "kb": 160
       }
     ]
+  },
+  "industries/furniture-wood-products-industry": {
+    "hero": {
+      "file": "/media/industries/furniture-wood-products-industry/hero.webp",
+      "credit": "CEphoto / Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Interior of a plywood factory in Sandakan, Sabah, Malaysia, with workers at the log-peeling infeed line",
+      "alt": "Workers strip bark from logs at the peeling-line infeed inside a plywood factory in Sandakan, Sabah, under a steel-framed roof hung with lifting gear.",
+      "kb": 167
+    },
+    "body": [
+      {
+        "file": "/media/industries/furniture-wood-products-industry/body-1.webp",
+        "credit": "Dominic Nelson / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kluang_-_Home_Best_Furniture_May_2024.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A furniture retailer, Pusat Perabot Home Best, on Jalan Manggis in Kluang town, Johor, Malaysia",
+        "alt": "The bold red-and-white corner building of the Home Best furniture store in Kluang, Johor, its signboards reading Pusat Perabot Home Best Furniture in Malay and Chinese against a clear blue sky.",
+        "kb": 169
+      },
+      {
+        "file": "/media/industries/furniture-wood-products-industry/body-2.webp",
+        "credit": "CEphoto / Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sale-of-timbers-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Stacks of sawn tropical timber boards on sale at a timber yard in Sandakan, Sabah, Malaysia",
+        "alt": "Neatly stacked rows of freshly sawn tropical timber planks fill an open-sided roofed timber yard in Sandakan, Sabah, their warm honey and reddish-brown grain lit by afternoon sun.",
+        "kb": 171
+      }
+    ]
   }
 }

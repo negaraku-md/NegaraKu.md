@@ -102,6 +102,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/furniture-wood-products-industry/hero.webp'
+heroAlt: 'Workers strip bark from logs at the peeling-line infeed inside a plywood factory in Sandakan, Sabah, under a steel-framed roof hung with lifting gear.'
+heroCredit: 'CEphoto / Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 टेक्सास या कैलिफ़ोर्निया के किसी घर में, अच्छी संभावना है कि वहाँ की डाइनिंग कुर्सी, पलंग का फ्रेम या किताबों की अलमारी मलेशिया में बनी थी — बहुत संभव है कि एक ही कस्बे में और उसके आसपास, एक ऐसे रबर के पेड़ की लकड़ी से जो कभी दस्तानों और टायरों के लिए लेटेक्स पैदा करता था। मलेशिया का फर्नीचर एवं लकड़ी-उत्पाद उद्योग उसकी विनिर्माण अर्थव्यवस्था के चुपचाप दिग्गजों में से एक है: भले ही चमकदार न हो, पर एक लगातार शीर्ष-दस वैश्विक निर्यातक, जिसने बागान क्षेत्र के एक उप-उत्पाद को दुनिया भर में बिकने वाले तैयार माल में बदल दिया है।

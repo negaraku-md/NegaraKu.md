@@ -102,6 +102,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/furniture-wood-products-industry/hero.webp'
+heroAlt: 'Workers strip bark from logs at the peeling-line infeed inside a plywood factory in Sandakan, Sabah, under a steel-framed roof hung with lifting gear.'
+heroCredit: 'CEphoto / Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 テキサスやカリフォルニアのどこかの家で、そのダイニングチェア、ベッドフレーム、本棚がマレーシアで作られた――それも、おそらくはひとつの町とその周辺で、かつて手袋やタイヤ用のラテックスを産出したゴムの木の木材から作られた――という見込みはかなり高い。マレーシアの家具・木材製品産業は、製造経済の静かな重量級の一つだ。華やかではないが、一貫して世界トップ10に入る輸出国であり、プランテーション部門の副産物を、世界中で売られる仕上げ品へと変えてきた。

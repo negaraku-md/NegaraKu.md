@@ -102,6 +102,13 @@ revisions:
     contributor: null
     reviewer: null
 framework: profile
+hero: '/media/industries/furniture-wood-products-industry/hero.webp'
+heroAlt: 'Workers strip bark from logs at the peeling-line infeed inside a plywood factory in Sandakan, Sabah, under a steel-framed roof hung with lifting gear.'
+heroCredit: 'CEphoto / Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Plywood-Factory-20.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ที่ไหนสักแห่งในบ้านหลังหนึ่งในเท็กซัสหรือแคลิฟอร์เนีย มีโอกาสดีที่เก้าอี้รับประทานอาหาร โครงเตียง หรือชั้นหนังสือ ถูกผลิตในมาเลเซีย — เป็นไปได้มากว่าในและรอบเมืองเดียว จากไม้ของต้นยางพาราที่เคยผลิตน้ำยางสำหรับถุงมือและยางรถยนต์ อุตสาหกรรมเฟอร์นิเจอร์และผลิตภัณฑ์ไม้ของมาเลเซียเป็นหนึ่งในยักษ์ใหญ่ที่เงียบของเศรษฐกิจการผลิต: ไม่หวือหวา แต่เป็นผู้ส่งออกสิบอันดับแรกของโลกอย่างสม่ำเสมอที่เปลี่ยนผลพลอยได้จากภาคการเพาะปลูกให้เป็นสินค้าสำเร็จรูปที่ขายทั่วโลก
