@@ -31,7 +31,7 @@ faq:
   - q: "क्या मलेशिया का अंतरिक्ष उद्योग उसके एयरोस्पेस उद्योग से अलग है?"
     a: "हाँ। एयरोस्पेस उद्योग विमानन, रखरखाव, मरम्मत और ओवरहॉल (MRO) और विमानों के लिए एयरोस्ट्रक्चर को कवर करता है। अंतरिक्ष उद्योग उपग्रह, प्रक्षेपण, अंतरिक्ष विनियमन और उपग्रह संचार तथा सुदूर संवेदन जैसी डाउनस्ट्रीम सेवाओं को कवर करता है।"
 lang: hi
-sourceContentHash: "c74b519cf5166ca0"
+sourceContentHash: "932846867c424136"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -115,6 +115,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Antennas_at_Awarua_Satellite_Ground_Station.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/space-industry/body-1.webp
+    alt: हल्के हरे और सफ़ेद क्लीनरूम कवरऑल और टोपी पहने इंजीनियर एक चमकीले प्रकाशित क्लीनरूम में एक पहिएदार प्लेटफ़ॉर्म पर पीले उठाने वाले गियर से लटकी एक ऊँची सफ़ेद शंक्वाकार रॉकेट फ़ेयरिंग के चारों ओर काम करते हैं।
+    kind: representative
+    origin: third-party
+    subject: क्लीनरूम सूट में तकनीशियन अपने लॉन्च-वाहन के ऊपरी कंपोजिट पर एक एनकैप्सुलेटेड उपग्रह तैयार करते हुए, उपग्रह निर्माण और लॉन्च तैयारी का प्रतिनिधित्व करते हुए
+    credit: ESA_events / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sentinel-2A_satellite_-_On_the_transportation_platform.jpg
+  - role: scene
+    src: /media/industries/space-industry/body-2.webp
+    alt: शांत पानी के ऊपर एक गहरे रात के आसमान को प्रकाश की दो चमकीली घुमावदार लकीरें पार करती हैं, एक बाईं ओर एक चमकीले प्रकाशित लॉन्च पैड से तेज़ी से उठती और एक और हल्की दाईं ओर उतरती हुई।
+    kind: representative
+    origin: third-party
+    subject: एक लंबे-एक्सपोज़र वाला रात का रॉकेट लॉन्च, आरोहण की चमकीली चाप और बूस्टर की वापसी की एक दूसरी चाप के साथ, लॉन्च सेवाओं का प्रतिनिधित्व करता हुआ
+    credit: SpaceX / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CRS-9_mission_(28348649546).jpg
 ---
 
 मलेशिया अपने स्वयं के रॉकेट नहीं छोड़ता, फिर भी उसने एक अंतरिक्ष यात्री को उड़ाया है, माइक्रोसैटेलाइट बनाए और संचालित किए हैं, और अपने अधिकांश पड़ोसियों से पहले निजी अंतरिक्ष गतिविधि को लाइसेंस देने के लिए एक कानून पारित किया है। इसका अंतरिक्ष क्षेत्र छोटा और चुपचाप रणनीतिक है — ब्रॉडबैंड नीति, रक्षा, आपदा निगरानी और राष्ट्रीय प्रतिष्ठा में पिरोया हुआ। यह गाइड उस एजेंसी, कानून, उपग्रहों और महत्वाकांक्षाओं का मानचित्रण करती है जो मलेशिया की अंतरिक्ष अर्थव्यवस्था को बनाती हैं।

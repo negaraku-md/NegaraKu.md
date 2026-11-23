@@ -104,6 +104,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-1.webp
+    alt: Several workers in blue coats and caps stand around a work bench covered with closely packed rows of small dark medicine bottles, handling and checking them, in a bright pharmaceutical plant with glass-fronted cabinets along the wall
+    kind: representative
+    origin: third-party
+    subject: workers in blue uniforms and hair caps inspecting and packing rows of filled medicine bottles on a bench in a pharmaceutical packing division
+    credit: Aditiaudi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayursun_Packing_Division.jpg
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-2.webp
+    alt: A pair of hands in blue nitrile gloves and a white lab coat positioning a clear plastic tray of pills onto a stainless-steel laboratory instrument labelled with a warning about hot surfaces
+    kind: representative
+    origin: third-party
+    subject: a gloved technician loading a tablet sample tray into testing equipment in a pharmaceutical quality-control laboratory
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_Drug_Research_(5917)_(8493715800).jpg
 ---
 
 Every time a Malaysian fills a prescription for an antibiotic, a painkiller or a blood-pressure tablet, there is a good chance the medicine was made in Malaysia — not invented here, but formulated, pressed, filled and packaged in a local factory working to international manufacturing standards. That is the heart of Malaysia's pharmaceutical industry: a solid, generics-led manufacturing base that keeps the national medicine cabinet stocked, paired with two more ambitious bets — halal pharmaceuticals and vaccine production — that the country hopes will carry it up the value chain.

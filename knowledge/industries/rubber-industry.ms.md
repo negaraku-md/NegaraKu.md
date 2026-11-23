@@ -36,7 +36,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "26170231d376fbab"
+sourceContentHash: "02c9f76b97e77ffc"
 
 status: "published"
 aiAssisted: true
@@ -110,6 +110,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Rubber_tree_and_latex_cup.j
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Tapped rubber tree with latex running down the spiral cut into a collection cup, Malaysia'
+images:
+  - role: scene
+    src: /media/industries/rubber-industry/body-1.webp
+    alt: Barisan teratur pokok getah yang langsing dengan batang pucat berbelang menganjur ke kejauhan merentasi lantai estet berumput, cawan lateks gelap kecil dipasang rendah pada beberapa batang
+    kind: actual
+    origin: third-party
+    subject: barisan kemas pokok getah matang yang dilengkapi cawan pengumpul lateks di sebuah ladang estet di Johor, tulang belakang industri getah Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubber_plantation_in_Johor.jpg
+  - role: scene
+    src: /media/industries/rubber-industry/body-2.webp
+    alt: Seorang lelaki berbaju kelabu memandu sekeping lateks putih yang telah ditekan antara penggelek berat sebuah mesin pengeping besi tuang berwarna kuning di pinggir kebun getah, satu lagi penggelek beralur di sebelahnya
+    kind: representative
+    origin: third-party
+    subject: seorang pekerja menyuap sekeping lateks beku melalui mesin penggelek kepingan getah berengkol tangan, satu langkah penting dalam memproses getah asli
+    credit: Blue Plover / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Processing_rubber_in_Thailand.JPG
 ---
 
 Getah yang membina Tanah Melayu zaman penjajah tidak lagi memberi pulangan di ladang — ia memberi pulangan di lantai kilang. Malaysia masih menoreh pokok, tetapi kekayaan getahnya kini bergantung pada sarung tangan perubatan, tayar dan barangan lateks yang dikeluarkannya, satu perniagaan yang memproses lebih banyak getah daripada yang ditanam oleh negara itu sendiri.

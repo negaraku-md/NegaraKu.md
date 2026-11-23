@@ -31,7 +31,7 @@ faq:
   - q: "هل هذا نفسه صناعة الأثاث في ماليزيا؟"
     a: "لا. فهذا الدليل يغطّي قطاع المورد في المنبع — الغابات وقطع الأشجار والمنتجات الأولية كالجذوع والخشب المنشور والخشب الرقائقي. أما قطاع الأثاث ومنتجات الخشب المنتهية فهو طرف التصنيع في المصبّ الذي يحوّل تلك المنتجات الأولية إلى سلع أعلى قيمة للتصدير. والاثنان مرتبطان لكنهما يُعامَلان عادةً صناعتين منفصلتين."
 lang: ar
-sourceContentHash: "21ca9448b6bc735f"
+sourceContentHash: "ecb30ab62f1f2cdc"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -104,6 +104,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sawmill-02.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/forestry-timber-industry/body-1.webp
+    alt: أكوام من ألواح الخشب الصلب المنشور والجذوع تحت سقف مكشوف لمنشرة ريفية في Sabah، ماليزيا.
+    kind: actual
+    origin: third-party
+    subject: منشرة خشب في Kampung Mempakad، Sabah، ماليزيا
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AMempakad_Sabah_Sawmill-01.jpg
+  - role: scene
+    src: /media/industries/forestry-timber-industry/body-2.webp
+    alt: لودر مزوّد بعجلات ينقل جذوع خشب صلب استوائي نحو وحدة التشذيب في مصنع خشب رقائقي في Sandakan، Sabah.
+    kind: actual
+    origin: third-party
+    subject: ساحة جذوع مصنع خشب رقائقي في Sandakan، Sabah، ماليزيا
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ASandakan_Sabah_Plywood-Factory-05.jpg
 ---
 
 تمتطي ماليزيا بعضًا من أقدم الغابات المطيرة على الأرض، ولمعظم تاريخها الحديث كانت تجارة الخشب الصلب الاستوائي أحد أعمدة الاقتصاد الوطني. وذلك العالم في المنبع — الغابات نفسها، ورخص قطعها، والمعالجة الأولى للجذوع الخام إلى أخشاب — صناعة متمايزة عن مصانع الأثاث ومصدّري منتجات الخشب الأبعد في السلسلة. يغطّي هذا الدليل **قطاع الغابات ومورد الأخشاب**: من أين يأتي الخشب، ومن يسيطر عليه، وكيف يُصدَّر، وضغوط الاستدامة والسوق التي تعيد تشكيله الآن.

@@ -31,7 +31,7 @@ faq:
   - q: Đây có giống ngành nội thất của Malaysia không?
     a: Không. Hướng dẫn này bao quát khu vực tài nguyên khâu trước — rừng, khai thác gỗ và các sản phẩm sơ cấp như gỗ tròn, gỗ xẻ và gỗ dán. Khu vực nội thất và sản phẩm gỗ thành phẩm là đầu hạ nguồn, chế tạo biến các sản phẩm sơ cấp đó thành hàng giá trị cao hơn để xuất khẩu. Hai khu vực liên kết nhưng thường được coi là các ngành riêng biệt.
 lang: vi
-sourceContentHash: "21ca9448b6bc735f"
+sourceContentHash: "ecb30ab62f1f2cdc"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -104,6 +104,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sawmill-02.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/forestry-timber-industry/body-1.webp
+    alt: Những chồng ván gỗ cứng đã xẻ và khúc gỗ dưới mái che hở của một xưởng cưa nông thôn ở Sabah, Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Xưởng cưa tại Kampung Mempakad, Sabah, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AMempakad_Sabah_Sawmill-01.jpg
+  - role: scene
+    src: /media/industries/forestry-timber-industry/body-2.webp
+    alt: Một xe xúc lật bánh lốp di chuyển các khúc gỗ cứng nhiệt đới về phía bộ phận cắt xén tại một nhà máy ván ép ở Sandakan, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Bãi gỗ của nhà máy ván ép ở Sandakan, Sabah, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ASandakan_Sabah_Plywood-Factory-05.jpg
 ---
 
 Malaysia nằm vắt ngang một số rừng mưa già cỗi nhất Trái Đất, và trong phần lớn lịch sử hiện đại của mình, việc buôn bán gỗ cứng nhiệt đới là một trong những trụ cột của nền kinh tế quốc gia. Thế giới khâu trước đó — bản thân những khu rừng, các giấy phép để khai thác chúng, và việc chế biến ban đầu gỗ tròn thô thành gỗ xẻ — là một ngành tách biệt với các nhà máy nội thất và nhà xuất khẩu sản phẩm gỗ ở phía dưới chuỗi. Hướng dẫn này bao quát **khu vực lâm nghiệp và tài nguyên gỗ**: gỗ đến từ đâu, ai kiểm soát nó, nó được xuất khẩu ra sao, và các áp lực bền vững và thị trường nay đang định hình lại nó.

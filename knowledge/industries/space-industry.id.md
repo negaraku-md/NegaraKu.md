@@ -31,7 +31,7 @@ faq:
   - q: "Apakah industri antariksa Malaysia berbeda dari industri kedirgantaraannya?"
     a: "Ya. Industri kedirgantaraan mencakup penerbangan, pemeliharaan, perbaikan dan overhaul (MRO) serta aerostruktur untuk pesawat. Industri antariksa mencakup satelit, peluncuran, regulasi antariksa dan layanan hilir seperti komunikasi satelit dan penginderaan jauh."
 lang: id
-sourceContentHash: "c74b519cf5166ca0"
+sourceContentHash: "932846867c424136"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -115,6 +115,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Antennas_at_Awarua_Satellite_Ground_Station.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/space-industry/body-1.webp
+    alt: Para insinyur berpakaian terusan dan bertopi ruang bersih hijau pucat dan putih bekerja mengelilingi sebuah selubung roket berbentuk kerucut putih yang tinggi, tergantung oleh alat angkat kuning pada platform beroda di dalam ruang bersih yang terang benderang
+    kind: representative
+    origin: third-party
+    subject: teknisi berpakaian ruang bersih menyiapkan satelit terenkapsulasi pada komposit atas roket peluncurnya, mewakili pembuatan satelit dan persiapan peluncuran
+    credit: ESA_events / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sentinel-2A_satellite_-_On_the_transportation_platform.jpg
+  - role: scene
+    src: /media/industries/space-industry/body-2.webp
+    alt: Langit malam gelap di atas air tenang dilintasi oleh dua garis cahaya melengkung yang bercahaya, satu menanjak curam dari landasan peluncuran yang terang di sebelah kiri dan satu lagi yang lebih redup menurun untuk mendarat di sebelah kanan
+    kind: representative
+    origin: third-party
+    subject: peluncuran roket malam hari dengan eksposur panjang, menampilkan busur terang saat menanjak dan busur kedua pendorong yang kembali mendarat, mewakili layanan peluncuran
+    credit: SpaceX / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CRS-9_mission_(28348649546).jpg
 ---
 
 Malaysia tidak meluncurkan roket sendiri, namun ia telah menerbangkan seorang antariksawan, membangun dan mengoperasikan mikrosatelit, serta mengesahkan undang-undang untuk melisensikan kegiatan antariksa swasta sebelum sebagian besar tetangganya. Sektor antariksanya kecil dan diam-diam strategis — terjalin melalui kebijakan jalur lebar, pertahanan, pemantauan bencana dan prestise nasional. Panduan ini memetakan agensi, undang-undang, satelit dan ambisi yang membentuk ekonomi antariksa Malaysia.

@@ -31,7 +31,7 @@ faq:
   - q: マレーシアのクリエイティブコンテンツ・アニメ産業とは何ですか。
     a: 映画、テレビ番組、アニメ、音楽、ゲームを制作する事業で、国内市場だけでなくますます輸出向けにも作られています。とりわけマレーシアのアニメは国際的な成功を収めており、最もよく知られた例はLes' Copaqueが制作する子ども向けシリーズ『Upin & Ipin』です。政府は、MyCreative VenturesやFINASといった基金・機関を通じて同部門を支援しています。
 lang: ja
-sourceContentHash: "3e8bc7e3b643f33d"
+sourceContentHash: "a83d9b0038878f0e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -108,6 +108,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Angkasapuri,_Kuala_Lumpur.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-1.webp
+    alt: 生放送中、テレビスタジオの副調整室で、ずらりと並ぶモニターとミキシングデスクに向かうプロデューサーたち。
+    kind: representative
+    origin: third-party
+    subject: テレビの生放送制作中の副調整室（代表例）
+    credit: NASA Hubble / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATelevision_Studio_Control_Room_-_39071734671.jpg
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-2.webp
+    alt: カメラ、スタジオ照明、司会者用デスクを備えたテレビ放送スタジオのセット。
+    kind: representative
+    origin: third-party
+    subject: カメラと司会者用デスクのあるテレビ放送スタジオのセット（代表例）
+    credit: Leif Jørgensen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AUEFA_Euro_2020_-_Television_studio_01.jpg
 ---
 
 マレーシア人が「メディア」について話すとき、たいていはいくつかのなじみの名前のどれかを指している。家の横に取り付けられたAstroの衛星アンテナ、TV3のニュース速報、通勤中の朝のラジオ番組、あるいは――ますます――通勤中にスマホで再生されている何か、である。こうした日々の接点は、ひとつの広大な産業に属している。メディア・放送だ。それは国内でより目に見えるサービス部門の一つであり、同時に最も揺さぶられている部門の一つでもある。

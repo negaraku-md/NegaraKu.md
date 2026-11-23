@@ -34,7 +34,7 @@ faq:
     a: "MITI-ன் Guidelines for Sustainable Development of Data Centre (30 டிசம்பர் 2024), இயக்குநர்கள் ISO/IEC 30134 தரநிலைகளுக்கு எதிராக வடிவமைப்பு PUE, WUE மற்றும் CUE-ஐ அறிவிக்க வேண்டும் என்றும், வழிகாட்டுதல் அதன் இட-தேர்வு நிபந்தனையை வார்த்தையாக்கியுள்ளபடி, நீர் அழுத்தச் சுட்டெண் (water stress index, WSI) 0.8-ஐ விடக் குறைவாக உள்ள தீபகற்ப மலேசிய இடங்களைக் கருத்தில் கொள்ள வேண்டும் என்றும் கோருகிறது."
 
 lang: "ta"
-sourceContentHash: "06223fcd2dad5f61"
+sourceContentHash: "907afdfe924c77bf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -89,6 +89,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-1.webp
+    alt: கட்டமைக்கப்பட்ட குளிர்-நடைபாதை அடைப்புடன் கூடிய பெரிய தரவு மையக் கூடத்தை சேவையக மற்றும் உபகரண அடுக்குகளின் நீண்ட வரிசைகள் நிரப்புகின்றன.
+    kind: representative
+    origin: third-party
+    subject: உபகரண அடுக்குகளின் வரிசைகள் கொண்ட தரவு மையக் கூடம்
+    credit: Hugovanmeijeren / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cern_datacenter.jpg
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-2.webp
+    alt: ஒரு தரவு மைய அமைப்பில் சேவையக அடுக்குகளின் பின்புறம் முழுவதும் அடர்த்தியான வலையமைப்புக் கம்பிக் கற்றைகள் செல்கின்றன.
+    kind: representative
+    origin: third-party
+    subject: தரவு மைய சேவையக அடுக்குகளுக்குப் பின்னால் வலையமைப்புக் கம்பி இணைப்புகள்
+    credit: RobH / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sdtpa_wmf-7.jpg
 ---
 
 2019-ல், சிங்கப்பூர் புதிய பெரிய தரவு மையங்களுக்கு அனுமதி வழங்குவதை நிறுத்தியது. நான்கு ஆண்டுகளுக்குள், அது திருப்பியனுப்பிய சேவையகங்கள் காஸ்வேக்கு அப்பால் இருபது நிமிட தூரத்தில் ஒரு புதிய தொழிலைக் கட்டியெழுப்பின — மேலும் ஜோகூர் ஒரு அமைதியான மலேசிய மாநிலத்திலிருந்து தென்கிழக்கு ஆசியாவின் மிகப் பரபரப்பான தரவு மையச் சந்தையாக மாறியது.

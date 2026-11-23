@@ -31,7 +31,7 @@ faq:
   - q: "ما هو مخطط التنقّل منخفض الكربون؟"
     a: "هو خارطة طريق ماليزيا 2021–2030 للنقل الأنظف، تقودها وزارة البيئة والمؤسسة الماليزية للتكنولوجيا الخضراء (MGTC). ويضع أهدافًا لتبنّي المركبات الكهربائية وبنية الشحن التحتية، ويسند الحوافز الضريبية المقدَّمة لمشتري المركبات الكهربائية وصانعيها."
 lang: ar
-sourceContentHash: "eeaa8a20be933a74"
+sourceContentHash: "0995851146679cfc"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-1.webp
+    alt: خليّتا بطارية أسطوانيتان من نوع ليثيوم-أيون، إحداهما بمقاس 18650 والأخرى بمقاس 21700 الأكبر، واقفتان جنبًا إلى جنب.
+    kind: representative
+    origin: third-party
+    subject: خلايا بطارية أسطوانية من ليثيوم-أيون
+    credit: Sevenethics / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:18650_and_21700_lithium_ion_battery_cell.jpg
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-2.webp
+    alt: حزمة بطارية جرّ مسطّحة من ليثيوم-أيون لسيارة كهربائية، معروضة لإظهار ترتيب خلاياها المعياري.
+    kind: representative
+    origin: third-party
+    subject: حزمة بطارية جرّ من ليثيوم-أيون لمركبة كهربائية
+    credit: Rainerhaufe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016-04-12_e-up_Batterie.JPG
 ---
 
 قضت ماليزيا نصف قرن تبني السيارات. والآن تحاول كهربتها — والأهم أن تصنع البطاريات وتبني شبكة الشحن التي تعتمد عليها المركبات الكهربائية. وهذه قصة مختلفة عن تلك التي يرويها دليل [صناعة السيارات في ماليزيا](/ar/industries/automotive-industry/)، المعنيّ أساسًا بسيارات البنزين والديزل. أما الموضوع هنا فهو *منظومة* المركبات الكهربائية والبطاريات: المركبات والحوافز والشواحن والمصانع التي تقرّر معًا سرعة تحوّل ماليزيا إلى التنقّل الكهربائي.

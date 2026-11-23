@@ -35,7 +35,7 @@ faq:
     a: "يُعترف بالرياضات الإلكترونية بوصفها تخصصاً تنافسياً، وقد نُوفِست في دورة ألعاب جنوب شرق آسيا (SEA Games). خصّصت ميزانية 2020 مبلغ RM20 million، وأنشأت KBS وكالة Esports Integrated في 2020 لقيادة خارطة طريق وطنية للرياضات الإلكترونية وتطوير الرياضيين."
 
 lang: ar
-sourceContentHash: "44ce56e91b46210b"
+sourceContentHash: "51c91ba2e97025e2"
 masterLanguage: en
 translationStatus: "in-sync"
 
@@ -121,6 +121,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bones_Studio_hala.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/digital-creative-content-industry/body-1.webp
+    alt: مطوّرون يعملون على مكاتب متعددة الشاشات في أرجاء استوديو مفتوح لشركة تطوير ألعاب فيديو.
+    kind: representative
+    origin: third-party
+    subject: أرضية استوديو لتطوير ألعاب الفيديو
+    credit: Microsoft Corporation / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gears_4_The_Coalition.jpg
+  - role: scene
+    src: /media/industries/digital-creative-content-industry/body-2.webp
+    alt: لوح رسم رقمي وقلم موضوعان أمام شاشة تعرض لوحة رقمية في محطة عمل أحد صنّاع المحتوى.
+    kind: representative
+    origin: third-party
+    subject: محطة عمل لفنان رقمي لإنتاج اللوحات الرقمية
+    credit: David Revoy / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2022-09-01_intuos-pro-large.jpg
 ---
 
 حين وصلت لعبة _Upin & Ipin Universe_ من Les' Copaque إلى أجهزة الكونسول حول العالم في **17 يوليو 2025**، أغلقت حلقة بدأت بمسلسل رسوم متحركة قصير عن توأمين مشاغبين. فقد صار كرتون ماليزي لعبة فيديو منشورة عالمياً — وتوضيحاً أنيقاً لما بنته صناعة المحتوى الإبداعي الرقمي في البلاد بهدوء على مدى عقدين.

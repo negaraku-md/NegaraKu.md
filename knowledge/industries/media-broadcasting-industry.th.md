@@ -31,7 +31,7 @@ faq:
   - q: อุตสาหกรรมคอนเทนต์สร้างสรรค์และแอนิเมชันของมาเลเซียคืออะไร?
     a: เป็นธุรกิจการผลิตภาพยนตร์ รายการโทรทัศน์ แอนิเมชัน ดนตรี และเกม — เพื่อการส่งออกมากขึ้นควบคู่กับตลาดในประเทศ แอนิเมชันมาเลเซียโดยเฉพาะประสบความสำเร็จในระดับนานาชาติ ตัวอย่างที่รู้จักกันดีที่สุดคือซีรีส์สำหรับเด็ก Upin & Ipin ที่ผลิตโดย Les' Copaque รัฐบาลสนับสนุนภาคนี้ผ่านกองทุนและหน่วยงานอย่าง MyCreative Ventures และ FINAS
 lang: th
-sourceContentHash: "3e8bc7e3b643f33d"
+sourceContentHash: "a83d9b0038878f0e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -108,6 +108,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Angkasapuri,_Kuala_Lumpur.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-1.webp
+    alt: โปรดิวเซอร์ประจำแผงจอมอนิเตอร์และโต๊ะผสมสัญญาณในห้องควบคุมสตูดิโอโทรทัศน์ระหว่างการออกอากาศสด
+    kind: representative
+    origin: third-party
+    subject: ห้องควบคุมการออกอากาศระหว่างการผลิตรายการโทรทัศน์สด (ตัวอย่าง)
+    credit: NASA Hubble / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATelevision_Studio_Control_Room_-_39071734671.jpg
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-2.webp
+    alt: ฉากสตูดิโอออกอากาศโทรทัศน์พร้อมกล้อง ไฟสตูดิโอ และโต๊ะผู้ดำเนินรายการ
+    kind: representative
+    origin: third-party
+    subject: ฉากสตูดิโอออกอากาศโทรทัศน์พร้อมกล้องและโต๊ะผู้ดำเนินรายการ (ตัวอย่าง)
+    credit: Leif Jørgensen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AUEFA_Euro_2020_-_Television_studio_01.jpg
 ---
 
 เมื่อชาวมาเลเซียพูดถึง "สื่อ" พวกเขามักหมายถึงชื่อที่คุ้นเคยไม่กี่ชื่อ: จานดาวเทียม Astro ที่ยึดติดข้างบ้าน ข่าวภาคค่ำของ TV3 รายการวิทยุยามเช้าระหว่างขับรถไปทำงาน หรือ — เพิ่มขึ้นเรื่อย ๆ — สิ่งที่เล่นอยู่บนโทรศัพท์ระหว่างการเดินทาง จุดสัมผัสในชีวิตประจำวันเหล่านั้นเป็นของอุตสาหกรรมเดียวที่กว้างใหญ่: สื่อและการแพร่ภาพกระจายเสียง มันเป็นหนึ่งในภาคบริการที่เห็นได้ชัดกว่าในประเทศ และเป็นหนึ่งในภาคที่ถูกปั่นป่วนมากที่สุดด้วย

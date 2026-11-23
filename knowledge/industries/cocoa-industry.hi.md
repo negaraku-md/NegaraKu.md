@@ -31,7 +31,7 @@ faq:
   - q: मलेशिया में कोको अब भी कहाँ उगाया जाता है?
     a: "मुख्यतः Sabah में, विशेष रूप से भीतरी इलाके और Tawau क्षेत्र में, जिसने ऐतिहासिक रूप से 1980 के दशक की तेज़ी को आगे बढ़ाया था और अब भी शेष रोपित क्षेत्र तथा उत्पादन के अधिकांश हिस्से का योगदान करता है।"
 lang: hi
-sourceContentHash: "794991b243f75e9b"
+sourceContentHash: "bbbb8e26421eae19"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -114,6 +114,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cacao_fruit_in_C%C3%B4te_d''Ivoire_(11).JPG'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/cocoa-industry/body-1.webp
+    alt: किण्वित कोको बीन्स को सुखाने के लिए एक लकड़ी की ट्रे में खुली धूप के नीचे फैलाया गया है।
+    kind: representative
+    origin: third-party
+    subject: धूप में सूखते कोको बीन्स
+    credit: Chuck Moravec / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sao_Tome_Monteforte_Cocoa_Beans_Drying_3_(15629101423).jpg
+  - role: scene
+    src: /media/industries/cocoa-industry/body-2.webp
+    alt: चॉकलेट प्रसंस्करण के दौरान पीसने वाली चक्की में डालने के लिए तैयार भुने हुए गहरे रंग के कोको बीन्स का ढेर।
+    kind: representative
+    origin: third-party
+    subject: प्रसंस्करण के लिए तैयार भुने हुए कोको बीन्स
+    credit: ElmerGuevara / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cacao_Tostado..JPG
 ---
 
 मलेशिया दुनिया के महान कोको प्रसंस्करणकर्ताओं में से एक है जिसने कोको उगाना लगभग बंद कर दिया है। एक ही पीढ़ी में यह देश एक शीर्ष-चार बीन उत्पादक से, जिसकी Sabah और प्रायद्वीपीय मलेशिया की पहाड़ियाँ फलियों से लदी रहती थीं, एक ऐसी जगह बन गया जो जहाज़ों से बीन्स आयात करता है और मुश्किल से अपने कुछ सौ टन बीन्स की कटाई करता है। जो बचा और फला-फूला, वह था फ़ैक्ट्री वाला सिरा: पीसने की मिलें, रिफ़ाइनरियाँ और चॉकलेट लाइनें जो आयातित बीन्स को निर्यात के लिए कोको बटर, पाउडर, लिकर और तैयार कन्फ़ेक्शनरी में बदलती हैं। परिणाम एक "कोको विरोधाभास" है - एक विश्व-स्तरीय डाउनस्ट्रीम उद्योग जो एक ऐसी अपस्ट्रीम पर टिका है जो लगभग लुप्त हो चुकी है।

@@ -31,7 +31,7 @@ faq:
   - q: "なぜ養殖がマレーシアの食料安全保障にとって重要なのですか。"
     a: "魚はマレーシアの主な動物性タンパク質源であり、天然漁獲は頭打ちになっています。養殖は国家の魚類自給率 — 2025年に約90.7% — を高める主要なてこであり、国家農食料政策は将来の需要を満たすために天然魚よりも養殖魚を明確に優先しています。"
 lang: ja
-sourceContentHash: "8e2067b1d42a9bd3"
+sourceContentHash: "b24cfb615c370a6d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -110,6 +110,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Foto_Keramba_Ikan_(Panatapan,_Parapat,_Simalungun).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-1.webp
+    alt: マレーシア、サバ州カンポン・ティアンにある、緑に縁取られた穏やかな淡水養殖池。
+    kind: actual
+    origin: third-party
+    subject: サバ州カンポン・ティアンの魚類養殖池
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tiang_Sabah_Fish-aquaculture-01.jpg
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-2.webp
+    alt: マレーシア・プトラ大学農学部の農場で実習に使われている土づくりの養殖池。
+    kind: actual
+    origin: third-party
+    subject: マレーシア・プトラ大学の水産養殖教育用養殖池
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0906).jpg
 ---
 
 マレーシアの食卓に並ぶ魚の大半は今も海から来ている。しかし今や、増え続ける一部は池、生け簀、あるいは延縄のいかだから来ている。それが養殖だ。天然のものを捕まえるのとは対照的に、水生生物を意図的に育てることである。マレーシアの天然漁獲が頭打ちになり、タンパク質への需要が高まるにつれ、養殖は食卓に魚を乗せ続けるための国の主要なてことなった。本稿では養殖側のビジネスを深く掘り下げる。漁船団、漁民の福祉、取り締まりを含むより広い全体像については、[漁業産業の概観](/ja/agriculture/malaysian-fisheries-industry/)を参照されたい。

@@ -31,7 +31,7 @@ faq:
   - q: वस्त्र और परिधान निवेश को कौन-से प्रोत्साहन समर्थन देते हैं?
     a: MIDA इस उप-क्षेत्र के लिए विनिर्माण-लाइसेंस स्वीकृतियों और कर प्रोत्साहनों का प्रशासन करता है, जो New Industrial Master Plan (NIMP) 2030 के तहत एक प्राथमिकता क्षेत्र है। 2026 की पहली तिमाही से, योग्य निवेश एक नए परिणाम-आधारित New Investment Incentive Framework के अंतर्गत आते हैं, जिसमें प्रौद्योगिकी, कौशल और स्थानीय जुड़ावों जैसे परिणामों से बँधे श्रेणीबद्ध प्रोत्साहन होते हैं। वर्तमान दरों और शर्तों की पुष्टि MIDA से करें।
 lang: hi
-sourceContentHash: "97b0b938d8bbc429"
+sourceContentHash: "eb32cad92737b99d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -104,6 +104,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-1.webp
+    alt: समृद्ध रूप से पैटर्न वाले बुने हुए कपड़े का एक क्लोज़-अप जिसमें घने सुनहरे पुष्प ब्रोकेड का एक केंद्रीय लाल पैनल है, जो सोने के हीरे और तारे के रूपांकनों वाले मैरून बॉर्डरों से घिरा है।
+    kind: actual
+    origin: third-party
+    subject: तेरेंगानु के एक मलय songket कपड़े का एक विवरण जो सुनहरे धातु के धागे से बुना गया है, मलेशिया की वस्त्र विरासत का एक प्रमुख शिल्प
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-2.webp
+    alt: एक ईंट-दीवार वाली कार्यशाला में एक लकड़ी का हथकरघा, जिसका फ़्रेम ताने के धागों और लाल, हरे और नीले धागे के बॉबिनों की एक पंक्ति से बुना है, दूर की ओर काम करता एक बुनकर आंशिक रूप से दिखाई देता है।
+    kind: representative
+    origin: third-party
+    subject: एक बुनाई कार्यशाला में रंगीन धागे की बॉबिनों से बँधा एक लकड़ी का करघा चलाता एक बुनकर, वस्त्र उद्योग में कपड़ा बुनाई का प्रतिनिधित्व करता हुआ
+    credit: Tarunsamanta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Power_loom_Weaving_in_Hooghly_District_09.jpg
 ---
 
 मलेशिया के कंप्यूटर चिप और पाम तेल के लिए जाने जाने से बहुत पहले, वह कपड़ा और वस्त्र बनाता था। वस्त्र, परिधान एवं जूता उद्योग देश के सबसे पुराने आधुनिक विनिर्माण क्षेत्रों में से एक है — उस तरह का श्रम-गहन, निर्यात-उन्मुख व्यवसाय जिसने 1970 और 1980 के दशक में औद्योगिकीकरण को गति देने में मदद की। आज यह एक बहुत बड़ी अर्थव्यवस्था का एक छोटा हिस्सा है, लेकिन यह एक वास्तविक नियोक्ता, एक स्थिर निर्यातक, और एक ऐसा क्षेत्र बना हुआ है जिसे सरकार सक्रिय रूप से नया रूप देने का प्रयास कर रही है।

@@ -31,7 +31,7 @@ faq:
   - q: "Est-ce la même chose que l'industrie du meuble de la Malaisie ?"
     a: "Non. Ce guide couvre le secteur amont de la ressource — forêts, exploitation forestière et produits primaires tels que grumes, bois scié et contreplaqué. Le secteur du meuble et des produits du bois finis est l'extrémité aval, celle de la fabrication, qui transforme ces produits primaires en biens à plus forte valeur destinés à l'exportation. Les deux sont liés mais sont généralement traités comme des industries distinctes."
 lang: fr
-sourceContentHash: "21ca9448b6bc735f"
+sourceContentHash: "ecb30ab62f1f2cdc"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -104,6 +104,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sawmill-02.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/forestry-timber-industry/body-1.webp
+    alt: Des piles de planches et de grumes de bois dur scié sous le toit ouvert d'une scierie rurale dans le Sabah, en Malaisie.
+    kind: actual
+    origin: third-party
+    subject: Scierie à Kampung Mempakad, Sabah, Malaisie
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AMempakad_Sabah_Sawmill-01.jpg
+  - role: scene
+    src: /media/industries/forestry-timber-industry/body-2.webp
+    alt: Une chargeuse sur pneus déplaçant des grumes de bois dur tropical vers l'unité de tronçonnage dans une usine de contreplaqué à Sandakan, dans le Sabah.
+    kind: actual
+    origin: third-party
+    subject: Parc à grumes d'une usine de contreplaqué à Sandakan, Sabah, Malaisie
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ASandakan_Sabah_Plywood-Factory-05.jpg
 ---
 
 La Malaisie chevauche certaines des plus anciennes forêts tropicales de la Terre, et pendant une grande partie de son histoire moderne, le commerce du bois dur tropical a été l'un des piliers de l'économie nationale. Ce monde amont — les forêts elles-mêmes, les licences pour les exploiter, et la première transformation des grumes brutes en bois — est une industrie distincte des usines de meubles et des exportateurs de produits du bois plus en aval de la chaîne. Ce guide couvre le **secteur de la foresterie et de la ressource en bois** : d'où vient le bois, qui le contrôle, comment il est exporté, et les pressions de durabilité et de marché qui le remodèlent désormais.

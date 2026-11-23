@@ -64,7 +64,27 @@ sources:
     url: https://www.digitalnewsasia.com/business/malaysias-gbs-sector-urged-expand-beyond-klang-valley-through-state-specialisation
     publisher: Digital News Asia
   - title: Malaysia Digital Status — Tax Incentives
-    url: https://www.crowe.com/my/insights/malaysia-digital-status---tax-incentives
+    url: https://www.crowe.com/my/insights/malaysia-digital-status
+images:
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-1.webp
+    alt: 말레이시아 슬랑오르주 사이버자야 비즈니스 파크에 있는 현대적인 유리·콘크리트 중층 기업 사무 건물.
+    kind: representative
+    origin: third-party
+    subject: 말레이시아 글로벌 서비스 거점 사이버자야의 기업 사무 건물
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-2.webp
+    alt: 매우 넓은 개방형 콜센터 플로어에 컴퓨터 작업석마다 줄지어 앉은 상담원들.
+    kind: representative
+    origin: third-party
+    subject: 대형 콜센터 사무 플로어(공유 서비스/BPO 작업장의 대표 사례)
+    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
+---tax-incentives
     publisher: Crowe Malaysia
   - title: "Malaysia's thriving GBS sector: A driving force in the digital economy"
     url: https://knightfrank.com/your-space/2024-03-26-malaysias-thriving-gbs-sector-a-driving-force-in-the-digital-economy

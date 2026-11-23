@@ -31,7 +31,7 @@ faq:
   - q: なぜマレーシアは生の希土類の輸出を禁じているのですか。
     a: 政府によれば、このモラトリアム――2024年初頭から施行――は、同国の希土類資源が未処理のまま輸出されるのを止め、地場の精製や下流産業を通じて国内で付加価値を付けさせるためのものです。当局者はこれを戦略的資源の保護と説明してきました。正確な政策の条件は時とともに変わってきたため、最新の政府声明と照合して確認すべきです。
 lang: ja
-sourceContentHash: "2cfb1c127d0860c5"
+sourceContentHash: "10843756be8e6a62"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -104,6 +104,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:TT5_Tin_Dredge_-_panoramio.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-1.webp
+    alt: マレーシア・サバ州キナバタンガン郡のジャラン・スカウにある石切場の、露出した岩壁と採掘された段々の作業面。
+    kind: actual
+    origin: third-party
+    subject: マレーシア・サバ州キナバタンガン郡ジャラン・スカウの石切場
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AKinabatangan_Sabah_Quarry-at-Jalan-Sukau-01.jpg
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-2.webp
+    alt: マレーシア・サバ州サラロム付近で、ベルトコンベヤーと砂利の山を備え、石を加工する間に合わせの砕石場。
+    kind: actual
+    origin: third-party
+    subject: マレーシア・サバ州サラロム付近で石を砕いて砂利にする砕石場（kilang batu）
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ADistrict-Nabawan_Sabah_Rock-Mill-01.jpg
 ---
 
 マレーシアの近代経済は、文字どおり地中から掘り出された。パーム油、電子機器、半導体よりずっと前、この半島を世界にとって重要なものにしたのは**スズ**だった――鉄道の資金を生み、Ipohやクアラルンプールのような町を育て、世代を重ねる移民鉱夫を引き寄せた。鉱業は同国の最も古い産業の物語であり、もはや経済を支配してはいないが、きわめて現代的な賞品――希土類元素――を軸に静かに書き換えられつつある。

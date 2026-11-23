@@ -89,6 +89,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-1.webp
+    alt: Long rows of server and equipment racks fill a large data-centre hall with structured cold-aisle containment.
+    kind: representative
+    origin: third-party
+    subject: A data-centre hall with rows of equipment racks
+    credit: Hugovanmeijeren / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cern_datacenter.jpg
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-2.webp
+    alt: Dense bundles of network cabling run across the rear of server racks in a data-centre deployment.
+    kind: representative
+    origin: third-party
+    subject: Network cabling behind data-centre server racks
+    credit: RobH / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sdtpa_wmf-7.jpg
 ---
 
 In 2019, Singapore stopped approving large new data centres. Within four years, the servers it turned away had built a new industry twenty minutes across the Causeway — and Johor went from a quiet Malaysian state to the busiest data centre market in Southeast Asia.

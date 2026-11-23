@@ -31,7 +31,7 @@ faq:
   - q: メーカーにはどのような優遇措置がありますか。
     a: 医療機器はMIDAが促進する活動であり、パイオニア・ステータス（一定期間の部分的から全額までの所得税免除）や、適格な資本的支出に対する投資税額控除といった優遇措置の対象となります。医療機器は新産業マスタープラン2030の優先分野にも指定されています。現行の条件と適格要件はMIDAに直接確認してください。
 lang: ja
-sourceContentHash: "7fd1c6521ba9829e"
+sourceContentHash: "f59d1ed2e2b0ce72"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -108,6 +108,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-1.webp
+    alt: 無菌の製薬生産ラインで、保護用のガウンとキャップを身につけて設備を操作する作業員たち。
+    kind: representative
+    origin: third-party
+    subject: ガウンを着た作業員のいる無菌の製薬／医療製品生産ライン（医療製造業の代表例）
+    credit: Josep Lago, European Commission / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AView_of_a_production_line_at_the_Reig_Jofre_company's_headquarters.jpg
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-2.webp
+    alt: 医療製品製造施設内のクリーンルーム生産ラインにいる、ガウンを着た技術者とステンレス製の設備。
+    kind: representative
+    origin: third-party
+    subject: 医療製品製造施設内のクリーンルーム生産ライン（代表例）
+    credit: Tehran Times / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACOVIran_Barekat_vaccine_production_03.jpg
 ---
 
 もしあなたが手術用の手袋をはめたことがあれば、カテーテルで採血されたことがあれば、あるいは整形外科インプラントの助けを借りて回復したことがあれば、その機器はマレーシアで作られた可能性が十分にある。有名なゴム手袋を越えて、同国は静かに東南アジアで最も重要な医療機器の製造地となり――そして世界のどこと比べても有数のメドテック製造基盤の一つとなった。

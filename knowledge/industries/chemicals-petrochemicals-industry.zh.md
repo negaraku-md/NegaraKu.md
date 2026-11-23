@@ -31,7 +31,7 @@ faq:
   - q: 政府如何扶持化学产业？
     a: 马来西亚投资发展局（MIDA）通过其化学与先进材料组评估制造许可申请，并提供先锋地位（Pioneer Status）与投资税务补贴（Investment Tax Allowance）等激励。石油与石化项目还受《1974 年石油发展法令》规管。《2030 年化学工业路线图》与《2030 年新工业大蓝图》则确立了迈向特种、高价值化学品的战略方向。
 lang: zh
-sourceContentHash: "dd296a225bbc1577"
+sourceContentHash: "5b202e406f8d70f8"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-1.webp
+    alt: 白昼下，森美兰州波德申以东恒源（Hengyuan）炼油厂的蒸馏塔与储油罐。
+    kind: actual
+    origin: third-party
+    subject: 森美兰州波德申的恒源炼油厂
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-2.webp
+    alt: 白昼天空下，沙巴吉马尼斯沙巴油气终端站（SOGT）的火炬塔与处理设施。
+    kind: actual
+    origin: third-party
+    subject: 吉马尼斯的沙巴油气终端站（SOGT）
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-01a.jpg
 ---
 
 塑料、化肥、洗涤剂、合成橡胶、化妆品、油漆，乃至你手机外壳里的树脂，全都始于化学品——而其中出人意料的一大部分，或它们的基础原料，正是在马来西亚制造的。在这个国家更为人熟知的油气与棕榈油故事背后，坐落着一个庞大而静悄悄具有战略意义的化学与石化产业，它把原始的碳氢化合物与植物油转化为现代生活所依赖的各种材料。

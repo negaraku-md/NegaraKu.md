@@ -31,7 +31,7 @@ faq:
   - q: มาเลเซียทำอะไรเกี่ยวกับมลพิษพลาสติก?
     a: แผนงานความยั่งยืนด้านพลาสติกมาเลเซีย 2021–2030 ซึ่งนำโดยกระทรวงสิ่งแวดล้อม กำหนดเป้าหมายในการเลิกใช้พลาสติกครั้งเดียวที่เป็นปัญหา ยกอัตราการรีไซเคิลและสัดส่วนวัสดุรีไซเคิล และทำให้บรรจุภัณฑ์พลาสติกรีไซเคิลได้ นอกจากนี้ยังนำเสนอโครงการความรับผิดชอบที่ขยายของผู้ผลิต (EPR) ที่ทำให้ผู้ผลิตช่วยสนับสนุนทุนการเก็บรวบรวมและการรีไซเคิล
 lang: th
-sourceContentHash: "de0d1c6868348e76"
+sourceContentHash: "2bc730fc5eac1f19"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-1.webp
+    alt: เครื่องอัดรีดอุตสาหกรรมสีเขียวและครีมมีกรวยป้อนรูปกรวยอยู่ด้านบนและกระบอกให้ความร้อนแนวนอนยาวพันด้วยสายไฟ ทอดยาวไปทางขวา ตัดกับผนังโรงงานสีน้ำเงินและขาว
+    kind: representative
+    origin: third-party
+    subject: สายการอัดรีดพลาสติกที่มีกรวยป้อนและกระบอกให้ความร้อนขึ้นรูปวัสดุพลาสติกต่อเนื่อง ซึ่งเป็นกระบวนการหลักของอุตสาหกรรมพลาสติกและบรรจุภัณฑ์
+    credit: Ikiwaner / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pipe_extrusion_line.jpg
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-2.webp
+    alt: ก้อนขวดพลาสติกใสบดอัดทรงลูกบาศก์ขนาดใหญ่ที่มีฝาและฉลากสีกระจายอยู่ วางซ้อนกันสองถึงสามชั้นบนพื้นยางมะตอยข้างถังโลหะเป็นสนิม มีต้นไม้และท้องฟ้าสีเทาอยู่เบื้องหลัง
+    kind: representative
+    origin: third-party
+    subject: ก้อนขวดเครื่องดื่ม PET ใสบดอัดแน่นวางซ้อนกันเพื่อนำไปรีไซเคิลเป็นวัตถุดิบพลาสติกใหม่
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bales_of_PET_bottles_stacked.jpg
 ---
 
 สินค้าทางกายภาพแทบทุกชิ้นที่ออกจากโรงงานมาเลเซีย — บะหมี่กึ่งสำเร็จรูปสักซอง สมาร์ตโฟน กันชนรถยนต์ ท่อน้ำสักท่อน — ล้วนพึ่งพาพลาสติกที่ถูกขึ้นรูปที่ไหนสักแห่งในประเทศ พลาสติกเป็นหนึ่งในความแข็งแกร่งทางอุตสาหกรรมที่เงียบ ๆ ของมาเลเซีย: ไม่หวือหวาเท่าเซมิคอนดักเตอร์ แต่ถักทออยู่ในแทบทุกภาคการผลิตอื่น และเพิ่มมากขึ้นเรื่อย ๆ ในการถกเถียงระดับชาติเรื่องขยะและความยั่งยืน

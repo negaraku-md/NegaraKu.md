@@ -34,7 +34,7 @@ faq:
     a: "말레이시아는 세계은행 물류성과지수 2023에서 26위로, 2018년 41위에서 상승했고 ASEAN 국가 중 싱가포르에 이어 2위였습니다."
 
 lang: "ko"
-sourceContentHash: "28b83f8fb5bdfc96"
+sourceContentHash: "a329af0d43f2fad4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -125,6 +125,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Teal_Striped_Container_Cranes_at_Tanjung_Pelepas_Port_Ver2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-1.webp
+    alt: 말레이시아 사라왁주 빈툴루 국제 컨테이너 터미널에서 줄지어 쌓인 컨테이너 위를 가로지르는 고무 타이어 갠트리 크레인.
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 사라왁주 빈툴루 국제 컨테이너 터미널에서 쌓인 컨테이너 위를 가로지르는 고무 타이어 갠트리 크레인
+    credit: Richard W Sinyem from Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ARTG_at_Bintulu_International_Container_Terminal_(BICT).jpg
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-2.webp
+    alt: 말레이시아 슬랑오르주 포트클랑에 정박한 컨테이너선 갑판에 쌓인 알록달록한 컨테이너들.
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 포트클랑에서 선박에 실린 컨테이너들
+    credit: jgmorard / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A090301.020.PortKlang.jpg
 ---
 
 포트클랑은 2025년 1,514만 개의 컨테이너를 옮겼습니다 — 홍콩을 앞지르고 처음으로 세계 10대 가장 붐비는 항만에 진입하기에 충분한 양입니다. 두 번째 말레이시아 항만인 탄중 펠레파스는 여기에 1,400만 개를 더 옮겼습니다. 어느 수치도 그 상품 대부분을 만드는 나라를 묘사하지 않습니다. 그것은 알맞은 자리에 앉아 세계 무역에 임대료를 매기는 법을 배운 나라를 묘사합니다.

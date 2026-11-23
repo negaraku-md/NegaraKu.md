@@ -31,7 +31,7 @@ faq:
   - q: "Adakah industri angkasa Malaysia berbeza daripada industri aeroangkasanya?"
     a: "Ya. Industri aeroangkasa merangkumi penerbangan, penyelenggaraan, pembaikan dan baik pulih (MRO) serta struktur udara untuk pesawat. Industri angkasa merangkumi satelit, pelancaran, kawal selia angkasa serta perkhidmatan hiliran seperti komunikasi satelit dan penderiaan jauh."
 lang: ms
-sourceContentHash: "c74b519cf5166ca0"
+sourceContentHash: "932846867c424136"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -115,6 +115,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Antennas_at_Awarua_Satellite_Ground_Station.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/space-industry/body-1.webp
+    alt: Jurutera berpakaian keseluruhan dan bertopi bilik bersih hijau pucat dan putih bekerja mengelilingi sebuah penutup roket berbentuk kon putih yang tinggi, digantung oleh alat angkat kuning pada pelantar beroda di dalam bilik bersih yang terang benderang
+    kind: representative
+    origin: third-party
+    subject: juruteknik berpakaian bilik bersih menyediakan satelit terkapsul pada komposit atas kenderaan pelancarnya, mewakili pembinaan satelit dan persediaan pelancaran
+    credit: ESA_events / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sentinel-2A_satellite_-_On_the_transportation_platform.jpg
+  - role: scene
+    src: /media/industries/space-industry/body-2.webp
+    alt: Langit malam gelap di atas air tenang direntasi oleh dua jalur cahaya melengkung bercahaya, satu menaik curam dari pelantar pelancaran yang terang di sebelah kiri dan satu lagi yang lebih malap menurun untuk mendarat di sebelah kanan
+    kind: representative
+    origin: third-party
+    subject: pelancaran roket waktu malam dengan dedahan panjang, menampilkan lengkung terang pendakian dan lengkung kedua penggalak yang kembali mendarat, mewakili perkhidmatan pelancaran
+    credit: SpaceX / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CRS-9_mission_(28348649546).jpg
 ---
 
 Malaysia tidak melancarkan roket sendiri, namun ia telah menerbangkan seorang angkasawan, membina dan mengendalikan mikrosatelit, serta meluluskan undang-undang untuk melesenkan aktiviti angkasa swasta sebelum kebanyakan jirannya. Sektor angkasanya kecil dan strategik secara senyap — terjalin melalui dasar jalur lebar, pertahanan, pemantauan bencana dan maruah negara. Panduan ini memetakan agensi, undang-undang, satelit dan cita-cita yang membentuk ekonomi angkasa Malaysia.

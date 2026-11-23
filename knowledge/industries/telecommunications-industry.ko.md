@@ -31,7 +31,7 @@ faq:
   - q: 말레이시아의 통신 시장은 여전히 성장하나요?
     a: 시장이 거의 포화되어 가입자 성장은 대체로 멈췄습니다. 향후 성장은 많은 신규 사용자를 확보하는 데서가 아니라 더 높은 부가가치의 서비스 — 5G, 광케이블 업그레이드, 기업 연결성, 디지털 서비스 — 에서 나올 것으로 예상됩니다.
 lang: ko
-sourceContentHash: "71058a53ca5ab530"
+sourceContentHash: "0c39b625a601c6e7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cellular_Telephone_Tower_-_Knoxville,_Tennessee_-_May_26,_2014.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-1.webp
+    alt: 상단에 CelcomDigi 로고와 브랜드명이 환히 켜진 커다란 짙은 색 전시 부스와, CelcomDigi fibre, Ultra Smooth Low Latency라고 적힌 파랗게 빛나는 패널, 그 아래 마스크를 쓴 방문객들이 모여 있다
+    kind: actual
+    origin: third-party
+    subject: 광섬유 브로드밴드를 홍보하는 CelcomDigi 전시 부스로, 말레이시아 이동통신·브로드밴드 사업자의 소비자 대상 존재감을 보여 준다
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CelcomDigi_booth_at_Comic_Fiesta_2023.jpg
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-2.webp
+    alt: 랙마운트형 컴퓨터 서버가 길게 늘어선 벽이 비스듬히 멀어지고, 각 단은 짙은 금속 캐비닛을 배경으로 반짝이는 파란 상태 표시등으로 가득 차 있다
+    kind: representative
+    origin: third-party
+    subject: 통신망을 떠받치는 기반 시설인, 데이터센터에서 파란 표시등을 밝힌 채 늘어선 네트워크·서버 장비
+    credit: BalticServers.com / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg
 ---
 
 말레이시아에서는 거의 모든 사람이 이동통신 회선을 들고 다니고, 대부분의 가정에 어떤 형태든 브로드밴드가 있습니다. 그래서 통신은 이 나라에서 가장 중요하고 가장 성숙한 산업 중 하나 — 디지털 경제, 온라인 뱅킹, 전자정부, 일상생활 아래의 보이지 않는 배관 — 입니다. 그러나 익숙한 브랜드 이름 뒤에는 최근 몇 년 사이 극적으로 바뀐 시장이 있습니다. 더 적은 사업자, 더 큰 합병, 그리고 5G를 어떻게 구축할지에 대한 국가적 실험입니다.

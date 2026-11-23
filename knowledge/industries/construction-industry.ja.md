@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "6895d1dde5da9e4f"
+sourceContentHash: "2f048d788112b135"
 
 status: "published"
 aiAssisted: true
@@ -93,6 +93,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/construction-industry/body-1.webp
+    alt: マレーシア・クアラルンプール中心部で建設中の高層ビルの上にそびえるタワークレーン。
+    kind: representative
+    origin: third-party
+    subject: クアラルンプールの高層ビル建設現場
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg
+  - role: scene
+    src: /media/industries/construction-industry/body-2.webp
+    alt: クアラルンプールのブキッ・ジャリル近く、ジャラン・クダ・エマスで建設中の鉄筋コンクリート造サービスアパートメントの高層棟。
+    kind: representative
+    origin: third-party
+    subject: クアラルンプール、ブキッ・ジャリル近くのサービスアパートメント建設
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serviced_apartment_construction_on_Jalan_Kuda_Emas,_Kuala_Lumpur_20240525_152253.jpg
 ---
 
 請負業者登録証を持たずにRM250,000相当の学校フェンス建設を試みれば、最初の支柱を打ち込む前に、プロジェクトは即座に停止を命じられかねない。マレーシアでは、建設する権利は機械や労働力から始まるのではなく、一つの登録から始まる。

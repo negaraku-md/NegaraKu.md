@@ -31,7 +31,7 @@ faq:
   - q: Malaysia đang làm gì về ô nhiễm nhựa?
     a: Lộ trình Bền vững Nhựa Malaysia 2021–2030, do bộ môi trường dẫn dắt, đặt các mục tiêu loại bỏ dần các loại nhựa dùng một lần gây rắc rối, nâng tỷ lệ tái chế và hàm lượng tái chế, và làm cho bao bì nhựa có thể tái chế được. Nó cũng giới thiệu một chương trình Trách nhiệm Mở rộng của Nhà sản xuất (EPR) buộc các nhà sản xuất góp phần tài trợ việc thu gom và tái chế.
 lang: vi
-sourceContentHash: "de0d1c6868348e76"
+sourceContentHash: "2bc730fc5eac1f19"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-1.webp
+    alt: Một máy đùn công nghiệp màu xanh lá và màu kem với phễu hình phễu ở phía trên và một trục gia nhiệt nằm ngang dài quấn dây điện, chạy về phía bên phải trước bức tường nhà máy xanh và trắng
+    kind: representative
+    origin: third-party
+    subject: một dây chuyền đùn nhựa với phễu nạp liệu và trục gia nhiệt tạo ra phôi nhựa liên tục, một công đoạn cốt lõi trong ngành nhựa và bao bì
+    credit: Ikiwaner / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pipe_extrusion_line.jpg
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-2.webp
+    alt: Những kiện hình hộp lớn gồm các chai nhựa trong suốt đã ép dẹt, lấm tấm nắp và nhãn nhiều màu, chất cao hai ba lớp trên nền nhựa đường bên cạnh một thùng kim loại gỉ sét, phía sau là cây cối và bầu trời xám
+    kind: representative
+    origin: third-party
+    subject: những kiện chai nước uống PET trong suốt đã nghiền được nén chặt, chất đống để tái chế thành nguyên liệu nhựa mới
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bales_of_PET_bottles_stacked.jpg
 ---
 
 Gần như mọi sản phẩm vật chất rời khỏi một nhà máy Malaysia — một gói mì ăn liền, một chiếc điện thoại thông minh, một cản xe hơi, một đoạn ống nước — đều phụ thuộc vào nhựa được tạo hình ở đâu đó trong nước. Nhựa là một trong những thế mạnh công nghiệp thầm lặng của Malaysia: ít hào nhoáng hơn bán dẫn, nhưng dệt vào gần như mọi khu vực chế tạo khác và, ngày càng, vào cuộc tranh luận quốc gia về rác thải và tính bền vững.

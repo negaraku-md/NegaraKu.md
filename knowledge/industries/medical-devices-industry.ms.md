@@ -31,7 +31,7 @@ faq:
   - q: Apakah insentif yang ada untuk pengeluar?
     a: Peranti perubatan ialah aktiviti yang digalakkan MIDA, layak untuk insentif seperti Taraf Perintis (pengecualian cukai pendapatan separa-ke-penuh untuk tempoh tertentu) dan Elaun Cukai Pelaburan ke atas perbelanjaan modal yang layak. Peranti perubatan juga dinamakan sektor keutamaan di bawah Pelan Induk Perindustrian Baharu 2030. Sahkan terma dan kelayakan semasa terus dengan MIDA.
 lang: ms
-sourceContentHash: "7fd1c6521ba9829e"
+sourceContentHash: "f59d1ed2e2b0ce72"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -108,6 +108,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-1.webp
+    alt: Pekerja bergaun dan bertopi pelindung mengendalikan peralatan pada barisan pengeluaran farmaseutikal steril.
+    kind: representative
+    origin: third-party
+    subject: Barisan pengeluaran produk farmaseutikal/perubatan steril dengan pekerja bergaun (mewakili pembuatan perubatan)
+    credit: Josep Lago, European Commission / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AView_of_a_production_line_at_the_Reig_Jofre_company's_headquarters.jpg
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-2.webp
+    alt: Juruteknik bergaun dan peralatan keluli tahan karat pada barisan pengeluaran bilik bersih di dalam sebuah kemudahan pembuatan produk perubatan.
+    kind: representative
+    origin: third-party
+    subject: Barisan pengeluaran bilik bersih di sebuah kemudahan pembuatan produk perubatan (mewakili)
+    credit: Tehran Times / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACOVIran_Barekat_vaccine_production_03.jpg
 ---
 
 Jika anda pernah memakai sarung tangan pembedahan, diambil darah melalui kateter, atau pulih dengan bantuan implan ortopedik, ada kemungkinan munasabah peranti itu dibuat di Malaysia. Selain sarung tangan getahnya yang terkenal, negara ini secara senyap telah menjadi tempat paling penting di Asia Tenggara untuk membuat peranti perubatan — dan salah satu asas pembuatan medtek yang lebih ketara di mana-mana di dunia.

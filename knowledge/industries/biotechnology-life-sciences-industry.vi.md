@@ -31,7 +31,7 @@ faq:
   - q: Công nghệ sinh học có phải một phần lớn của nền kinh tế Malaysia không?
     a: Nó là một khu vực chiến lược nhưng vẫn đang nổi lên chứ không phải một khu vực chiếm ưu thế. Tổng công ty Kinh tế Sinh học đã báo cáo một đóng góp tích lũy khoảng RM39,9 tỷ cho GDP trong hai thập kỷ đầu của mình. Công nghệ sinh học quan trọng hơn vì tiềm năng tương lai của nó — trong an ninh lương thực, y tế và kinh tế sinh học — hơn là vì tỷ trọng sản lượng hiện tại của nó.
 lang: vi
-sourceContentHash: "613e62dc50c4f5a9"
+sourceContentHash: "1247f6184dd5b071"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -104,6 +104,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-1.webp
+    alt: Các giá đựng bình nuôi cấy vô trùng dưới ánh sáng được kiểm soát trong phòng thí nghiệm nuôi cấy mô thực vật tại Universiti Malaysia Terengganu.
+    kind: actual
+    origin: third-party
+    subject: Phòng thí nghiệm nuôi cấy mô thực vật tại Universiti Malaysia Terengganu
+    credit: Rafi Bin Tofa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Plant_Tissue_Culture_Laboratory,_UMT.jpg
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-2.webp
+    alt: Một bình phản ứng sinh học bằng thép không gỉ và thủy tinh với ống dẫn và thiết bị điều khiển đang chạy nuôi cấy tế bào sống trong phòng thí nghiệm.
+    kind: representative
+    origin: third-party
+    subject: Bình phản ứng sinh học trong phòng thí nghiệm đang chạy một mẻ nuôi cấy tế bào
+    credit: Habin Zhang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bioreactor_in_operation.jpg
 ---
 
 Malaysia không có các đại học nghiên cứu sâu hay chiều sâu vốn mạo hiểm của một Boston hay một Thượng Hải, nhưng nó có ba thứ khiến công nghệ sinh học trở thành một canh bạc dài hạn hợp lý: một trong những kho đa dạng sinh học nhiệt đới phong phú nhất thế giới, một dòng sinh khối dầu cọ và nông nghiệp khổng lồ, và một thẩm quyền được công nhận toàn cầu về chứng nhận halal. Trong hơn hai thập kỷ, chính phủ đã cố gắng biến các tài sản đó thành một ngành khoa học đời sống hiện đại. Hướng dẫn này giải thích nỗ lực đó được tổ chức ra sao, nó đã xây dựng được gì, và nó đang đi về đâu.

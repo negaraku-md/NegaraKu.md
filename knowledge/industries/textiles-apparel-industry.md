@@ -103,6 +103,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-1.webp
+    alt: A close-up of richly patterned woven cloth with a central red panel of dense gold floral brocade flanked by maroon borders of gold diamond and star motifs
+    kind: actual
+    origin: third-party
+    subject: a detail of a Malay songket cloth from Terengganu woven with gold metallic thread, a flagship craft of Malaysia's textile heritage
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-2.webp
+    alt: A wooden handloom in a brick-walled workshop, its frame strung with warp threads and a row of red, green and blue thread bobbins, a weaver partly visible working at the far side
+    kind: representative
+    origin: third-party
+    subject: a weaver working a wooden loom strung with coloured thread bobbins in a weaving workshop, representing fabric weaving in the textile industry
+    credit: Tarunsamanta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Power_loom_Weaving_in_Hooghly_District_09.jpg
 ---
 
 Long before Malaysia became known for computer chips and palm oil, it made cloth and clothes. The textiles, apparel and footwear industry is one of the country's oldest modern manufacturing sectors — the kind of labour-intensive, export-oriented business that helped kick-start industrialisation in the 1970s and 1980s. Today it is a smaller slice of a much larger economy, but it remains a real employer, a steady exporter, and a sector the government is actively trying to reinvent.

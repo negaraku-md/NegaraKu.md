@@ -31,7 +31,7 @@ faq:
   - q: Di mana kakao masih ditanam di Malaysia?
     a: "Sebagian besar di Sabah, terutama wilayah pedalaman dan kawasan Tawau, yang secara historis mendorong ledakan tahun 1980-an dan masih menyumbang mayoritas luas tanam dan produksi yang tersisa."
 lang: id
-sourceContentHash: "794991b243f75e9b"
+sourceContentHash: "bbbb8e26421eae19"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -114,6 +114,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cacao_fruit_in_C%C3%B4te_d''Ivoire_(11).JPG'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/cocoa-industry/body-1.webp
+    alt: Biji kakao yang telah difermentasi dihamparkan di atas nampan kayu untuk dijemur di bawah sinar matahari terbuka.
+    kind: representative
+    origin: third-party
+    subject: Biji kakao dijemur di bawah matahari
+    credit: Chuck Moravec / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sao_Tome_Monteforte_Cocoa_Beans_Drying_3_(15629101423).jpg
+  - role: scene
+    src: /media/industries/cocoa-industry/body-2.webp
+    alt: Tumpukan biji kakao gelap yang telah disangrai, siap dimasukkan ke dalam mesin penggiling saat pengolahan cokelat.
+    kind: representative
+    origin: third-party
+    subject: Biji kakao sangrai siap untuk diproses
+    credit: ElmerGuevara / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cacao_Tostado..JPG
 ---
 
 Malaysia adalah salah satu pengolah kakao terbesar dunia yang nyaris berhenti menanam kakao. Dalam satu generasi, negara ini berubah dari produsen biji empat besar, dengan lerengnya di Sabah dan Semenanjung Malaysia sarat buah kakao, menjadi tempat yang mengimpor biji dengan kapal kargo dan hampir tidak memanen beberapa ratus ton biji sendiri. Yang bertahan, dan berkembang, adalah ujung pabrik: pabrik penggilingan, kilang penyulingan, dan lini cokelat yang mengubah biji impor menjadi mentega kakao, bubuk, pasta dan cokelat jadi untuk diekspor. Hasilnya adalah "paradoks kakao" - industri hilir kelas dunia yang bertengger di atas sektor hulu yang nyaris lenyap.

@@ -60,7 +60,27 @@ sources:
     url: https://mohr.gov.my/images/pdf/KENYATAAN%20MEDIA%20PEKERJA%20GIG.pdf
     publisher: Bộ Nhân lực (KESUMA), Malaysia
   - title: Nội các phê duyệt SEGiM để bảo vệ phúc lợi lao động gig (Cabinet approves SEGiM to safeguard gig workers' welfare)
-    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig---tpm
+    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig
+images:
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-1.webp
+    alt: Một tài xế giao đồ ăn mặc áo khoác và đội mũ bảo hiểm foodpanda màu hồng trên một chiếc xe máy số (kapcai), chở một thùng giao hàng giữ nhiệt foodpanda màu hồng lớn trong lúc dừng giữa dòng xe trên phố.
+    kind: representative
+    origin: third-party
+    subject: Tài xế giao đồ ăn bằng xe máy Foodpanda với thùng giao hàng giữ nhiệt màu hồng (minh họa công việc nền tảng gig; không phải Grab)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-2.webp
+    alt: Một người giao đồ ăn qua nền tảng đứng trên vỉa hè, đeo một chiếc ba lô giao đồ ăn giữ nhiệt cỡ lớn.
+    kind: representative
+    origin: third-party
+    subject: Người giao đồ ăn với túi giao hàng nền tảng giữ nhiệt (không phải Grab)
+    credit: Alexander Corkhill / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
+---tpm
     publisher: Sinar Harian
   - title: Nghị viện thông qua Dự luật Lao động Gig 2025 (Parliament Passes Gig Workers Bill 2025)
     url: https://ringgitplus.com/en/blog/personal-finance-news/parliament-passes-gig-workers-bill-2025.html

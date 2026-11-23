@@ -31,7 +31,7 @@ faq:
   - q: 말레이시아의 창작 콘텐츠·애니메이션 산업이란 무엇인가요?
     a: 영화, 텔레비전 프로그램, 애니메이션, 음악, 게임을 — 점점 더 내수뿐 아니라 수출용으로 — 제작하는 사업입니다. 특히 말레이시아 애니메이션은 국제적 성공을 거뒀는데, 가장 잘 알려진 예가 Les' Copaque가 제작한 어린이 시리즈 Upin & Ipin입니다. 정부는 MyCreative Ventures와 FINAS 같은 기금·기관을 통해 이 부문을 지원합니다.
 lang: ko
-sourceContentHash: "3e8bc7e3b643f33d"
+sourceContentHash: "a83d9b0038878f0e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -108,6 +108,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Angkasapuri,_Kuala_Lumpur.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-1.webp
+    alt: 생방송 중 텔레비전 스튜디오 부조정실에서 줄지어 늘어선 모니터와 믹싱 데스크 앞에 앉은 제작진.
+    kind: representative
+    origin: third-party
+    subject: 텔레비전 생방송 제작 중의 방송 부조정실(대표 사례)
+    credit: NASA Hubble / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATelevision_Studio_Control_Room_-_39071734671.jpg
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-2.webp
+    alt: 카메라, 스튜디오 조명, 진행자 책상을 갖춘 텔레비전 방송 스튜디오 세트.
+    kind: representative
+    origin: third-party
+    subject: 카메라와 진행자 책상이 있는 텔레비전 방송 스튜디오 세트(대표 사례)
+    credit: Leif Jørgensen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AUEFA_Euro_2020_-_Television_studio_01.jpg
 ---
 
 말레이시아인이 「미디어」를 말할 때, 보통 몇몇 익숙한 이름 중 하나를 뜻합니다. 집 벽에 달린 Astro의 위성 접시, TV3 뉴스, 출근길 아침 라디오 프로그램, 또는 — 점점 더 — 통근 중 휴대폰에서 재생되는 무언가입니다. 그 일상의 접점들은 하나의 방대한 산업, 즉 미디어·방송에 속합니다. 이는 이 나라에서 더 눈에 띄는 서비스 부문 중 하나이자, 가장 많이 뒤흔들린 부문 중 하나이기도 합니다.

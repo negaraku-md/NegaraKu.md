@@ -28946,5 +28946,2933 @@
         "subject": "Un réservoir d'eau surélevé à Taman Setia Tropika, Johor"
       }
     ]
+  },
+  "industries/aquaculture-industry": {
+    "zh": [
+      {
+        "alt": "马来西亚沙巴甘榜迪昂（Kampung Tiang）一处平静的淡水养殖池塘，四周环绕着绿意。",
+        "subject": "沙巴甘榜迪昂的鱼类养殖池塘"
+      },
+      {
+        "alt": "马来西亚博特拉大学农学院农场用于实践课程的泥底养殖鱼塘。",
+        "subject": "马来西亚博特拉大学的水产养殖教学鱼塘"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マレーシア、サバ州カンポン・ティアンにある、緑に縁取られた穏やかな淡水養殖池。",
+        "subject": "サバ州カンポン・ティアンの魚類養殖池"
+      },
+      {
+        "alt": "マレーシア・プトラ大学農学部の農場で実習に使われている土づくりの養殖池。",
+        "subject": "マレーシア・プトラ大学の水産養殖教育用養殖池"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "말레이시아 사바주 캄풍 티앙의 녹음에 둘러싸인 잔잔한 담수 양식 연못.",
+        "subject": "사바주 캄풍 티앙의 어류 양식 연못"
+      },
+      {
+        "alt": "말레이시아 푸트라 대학교 농학부 농장에서 실습 수업에 쓰이는 흙바닥 양식 연못.",
+        "subject": "말레이시아 푸트라 대학교의 수산 양식 교육용 연못"
+      }
+    ],
+    "th": [
+      {
+        "alt": "บ่อเพาะเลี้ยงสัตว์น้ำจืดที่นิ่งสงบล้อมรอบด้วยพรรณไม้เขียวขจีที่กัมปงเตียง รัฐซาบะฮ์ ประเทศมาเลเซีย",
+        "subject": "บ่อเพาะเลี้ยงปลาที่กัมปงเตียง รัฐซาบะฮ์"
+      },
+      {
+        "alt": "บ่อเพาะเลี้ยงปลาก้นดินที่ใช้สำหรับการเรียนภาคปฏิบัติที่ฟาร์มของคณะในมหาวิทยาลัยปุตรามาเลเซีย",
+        "subject": "บ่อปลาเพื่อการเรียนการสอนด้านการเพาะเลี้ยงสัตว์น้ำที่มหาวิทยาลัยปุตรามาเลเซีย"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah kolam akuakultur air tawar yang tenang dikelilingi tumbuhan hijau di Kampung Tiang, Sabah, Malaysia.",
+        "subject": "Kolam akuakultur ikan di Kampung Tiang, Sabah"
+      },
+      {
+        "alt": "Sebuah kolam ikan akuakultur bertanah yang digunakan untuk kelas amali di ladang Fakulti Universiti Putra Malaysia.",
+        "subject": "Kolam ikan pengajaran akuakultur di Universiti Putra Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah kolam akuakultur air tawar yang tenang dikelilingi tanaman hijau di Kampung Tiang, Sabah, Malaysia.",
+        "subject": "Kolam akuakultur ikan di Kampung Tiang, Sabah"
+      },
+      {
+        "alt": "Sebuah kolam ikan akuakultur dari tanah yang digunakan untuk kelas praktik di kebun Fakultas Universiti Putra Malaysia.",
+        "subject": "Kolam ikan pengajaran akuakultur di Universiti Putra Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một ao nuôi trồng thủy sản nước ngọt tĩnh lặng được bao quanh bởi cây xanh tại Kampung Tiang, Sabah, Malaysia.",
+        "subject": "Ao nuôi trồng thủy sản cá tại Kampung Tiang, Sabah"
+      },
+      {
+        "alt": "Một ao cá nuôi trồng thủy sản bằng đất dùng cho các lớp thực hành tại trang trại của Khoa thuộc Universiti Putra Malaysia.",
+        "subject": "Ao cá giảng dạy nuôi trồng thủy sản tại Universiti Putra Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "மலேசியாவின் சபாவில் உள்ள காம்போங் தியாங்கில் பசுமையால் சூழப்பட்ட அமைதியான நன்னீர் நீர்வாழ் வளர்ப்புக் குளம்.",
+        "subject": "காம்போங் தியாங், சபாவில் மீன் நீர்வாழ் வளர்ப்புக் குளம்"
+      },
+      {
+        "alt": "புத்ரா மலேசியா பல்கலைக்கழகத்தின் பீடப் பண்ணையில் நடைமுறை வகுப்புகளுக்குப் பயன்படுத்தப்படும் மண் நீர்வாழ் வளர்ப்பு மீன் குளம்.",
+        "subject": "புத்ரா மலேசியா பல்கலைக்கழகத்தில் நீர்வாழ் வளர்ப்புக் கற்பித்தல் மீன் குளம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "मलेशिया के साबाह स्थित कम्पुंग तियांग में हरियाली से घिरा एक शांत मीठे पानी का जलकृषि तालाब।",
+        "subject": "साबाह के कम्पुंग तियांग में मछली जलकृषि तालाब"
+      },
+      {
+        "alt": "यूनिवर्सिटी पुत्रा मलेशिया के संकाय फार्म में व्यावहारिक कक्षाओं के लिए उपयोग किया जाने वाला एक मिट्टी का जलकृषि मछली तालाब।",
+        "subject": "यूनिवर्सिटी पुत्रा मलेशिया में जलकृषि शिक्षण मछली तालाब"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "بركة استزراع مائي هادئة بالمياه العذبة تحيط بها الخضرة في Kampung Tiang بولاية Sabah، ماليزيا.",
+        "subject": "بركة استزراع مائي للأسماك في Kampung Tiang، Sabah"
+      },
+      {
+        "alt": "بركة استزراع مائي ترابية للأسماك تُستخدم للحصص العملية في مزرعة كلية Universiti Putra Malaysia.",
+        "subject": "بركة أسماك تعليمية للاستزراع المائي في Universiti Putra Malaysia"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un tranquilo estanque de acuicultura de agua dulce bordeado de vegetación en Kampung Tiang, en Sabah, Malasia.",
+        "subject": "Estanque de acuicultura de peces en Kampung Tiang, Sabah"
+      },
+      {
+        "alt": "Un estanque de acuicultura de tierra utilizado para las clases prácticas en la granja de la Facultad de la Universiti Putra Malaysia.",
+        "subject": "Estanque de acuicultura didáctico en la Universiti Putra Malaysia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un paisible bassin d'aquaculture en eau douce bordé de végétation à Kampung Tiang, dans le Sabah, en Malaisie.",
+        "subject": "Bassin d'aquaculture piscicole à Kampung Tiang, Sabah"
+      },
+      {
+        "alt": "Un bassin d'aquaculture en terre servant aux travaux pratiques à la ferme de la Faculté de l'Universiti Putra Malaysia.",
+        "subject": "Bassin piscicole pédagogique d'aquaculture à l'Universiti Putra Malaysia"
+      }
+    ]
+  },
+  "industries/biotechnology-life-sciences-industry": {
+    "zh": [
+      {
+        "alt": "马来西亚登嘉楼大学植物组织培养实验室内，可控光照下排列着一架架无菌培养容器。",
+        "subject": "马来西亚登嘉楼大学的植物组织培养实验室"
+      },
+      {
+        "alt": "一台不锈钢与玻璃制成的生物反应器，配有管路与控制仪表，在实验室中运行着活细胞培养。",
+        "subject": "实验室中运行细胞培养的生物反应器"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マレーシア・トレンガヌ大学の植物組織培養実験室で、制御された照明の下に並ぶ無菌培養容器の棚。",
+        "subject": "マレーシア・トレンガヌ大学の植物組織培養実験室"
+      },
+      {
+        "alt": "配管と制御計器を備え、実験室で生きた細胞培養を行うステンレス製とガラス製のバイオリアクター。",
+        "subject": "細胞培養を行う実験室用バイオリアクター"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "말레이시아 트렝가누 대학교 식물 조직 배양 실험실에서 조절된 조명 아래 늘어선 무균 배양 용기 선반들.",
+        "subject": "말레이시아 트렝가누 대학교의 식물 조직 배양 실험실"
+      },
+      {
+        "alt": "배관과 제어 계측기를 갖추고 실험실에서 살아 있는 세포 배양을 진행하는 스테인리스강·유리 바이오리액터.",
+        "subject": "세포 배양을 진행하는 실험실용 바이오리액터"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ชั้นวางภาชนะเพาะเลี้ยงปลอดเชื้อภายใต้แสงไฟที่ควบคุมในห้องปฏิบัติการเพาะเลี้ยงเนื้อเยื่อพืชที่มหาวิทยาลัยมาเลเซียตรังกานู",
+        "subject": "ห้องปฏิบัติการเพาะเลี้ยงเนื้อเยื่อพืชที่มหาวิทยาลัยมาเลเซียตรังกานู"
+      },
+      {
+        "alt": "ถังปฏิกรณ์ชีวภาพทำจากสเตนเลสและแก้วพร้อมท่อและเครื่องมือควบคุม กำลังเดินกระบวนการเพาะเลี้ยงเซลล์มีชีวิตในห้องปฏิบัติการ",
+        "subject": "ถังปฏิกรณ์ชีวภาพในห้องปฏิบัติการที่เดินกระบวนการเพาะเลี้ยงเซลล์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Rak-rak bekas kultur steril di bawah pencahayaan terkawal di makmal kultur tisu tumbuhan di Universiti Malaysia Terengganu.",
+        "subject": "Makmal kultur tisu tumbuhan di Universiti Malaysia Terengganu"
+      },
+      {
+        "alt": "Sebuah bioreaktor keluli tahan karat dan kaca dengan tiub serta instrumen kawalan yang menjalankan kultur sel hidup di dalam makmal.",
+        "subject": "Bioreaktor makmal yang menjalankan kultur sel"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Rak-rak wadah kultur steril di bawah pencahayaan terkendali di laboratorium kultur jaringan tumbuhan di Universiti Malaysia Terengganu.",
+        "subject": "Laboratorium kultur jaringan tumbuhan di Universiti Malaysia Terengganu"
+      },
+      {
+        "alt": "Sebuah bioreaktor baja nirkarat dan kaca dengan selang serta instrumen kendali yang menjalankan kultur sel hidup di dalam laboratorium.",
+        "subject": "Bioreaktor laboratorium yang menjalankan kultur sel"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Các giá đựng bình nuôi cấy vô trùng dưới ánh sáng được kiểm soát trong phòng thí nghiệm nuôi cấy mô thực vật tại Universiti Malaysia Terengganu.",
+        "subject": "Phòng thí nghiệm nuôi cấy mô thực vật tại Universiti Malaysia Terengganu"
+      },
+      {
+        "alt": "Một bình phản ứng sinh học bằng thép không gỉ và thủy tinh với ống dẫn và thiết bị điều khiển đang chạy nuôi cấy tế bào sống trong phòng thí nghiệm.",
+        "subject": "Bình phản ứng sinh học trong phòng thí nghiệm đang chạy một mẻ nuôi cấy tế bào"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "திரெங்கானு மலேசியா பல்கலைக்கழகத்தின் தாவர திசுவளர்ப்பு ஆய்வகத்தில் கட்டுப்படுத்தப்பட்ட விளக்கொளியின் கீழ் மலட்டு வளர்ப்புக் கலன்களின் அடுக்குகள்.",
+        "subject": "திரெங்கானு மலேசியா பல்கலைக்கழகத்தில் தாவர திசுவளர்ப்பு ஆய்வகம்"
+      },
+      {
+        "alt": "குழாய்களும் கட்டுப்பாட்டு கருவிகளும் கொண்ட துருப்பிடிக்காத எஃகு மற்றும் கண்ணாடி பயோரியாக்டர் ஆய்வகத்தில் உயிருள்ள செல் வளர்ப்பை இயக்குகிறது.",
+        "subject": "செல் வளர்ப்பை இயக்கும் ஆய்வக உயிர்வினையாக்கி (பயோரியாக்டர்)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "यूनिवर्सिटी मलेशिया तेरेंगानु की पादप ऊतक संवर्धन प्रयोगशाला में नियंत्रित प्रकाश के नीचे रखे गए बाँझ संवर्धन पात्रों की रैक।",
+        "subject": "यूनिवर्सिटी मलेशिया तेरेंगानु में पादप ऊतक संवर्धन प्रयोगशाला"
+      },
+      {
+        "alt": "एक प्रयोगशाला में नलियों और नियंत्रण उपकरणों के साथ जीवित कोशिका संवर्धन चलाता हुआ स्टेनलेस स्टील और काँच का बायोरिएक्टर।",
+        "subject": "कोशिका संवर्धन चलाता हुआ एक प्रयोगशाला बायोरिएक्टर"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "رفوف من أوعية الزراعة المعقّمة تحت إضاءة مضبوطة في مختبر زراعة الأنسجة النباتية بجامعة Universiti Malaysia Terengganu.",
+        "subject": "مختبر زراعة الأنسجة النباتية في Universiti Malaysia Terengganu"
+      },
+      {
+        "alt": "مفاعل حيوي من الفولاذ المقاوم للصدأ والزجاج مزوّد بأنابيب وأجهزة تحكّم يُشغّل زراعة خلوية حية في مختبر.",
+        "subject": "مفاعل حيوي مختبري يُشغّل زراعة خلوية"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Estanterías de recipientes de cultivo estériles bajo iluminación controlada en el laboratorio de cultivo de tejidos vegetales de la Universiti Malaysia Terengganu.",
+        "subject": "Laboratorio de cultivo de tejidos vegetales en la Universiti Malaysia Terengganu"
+      },
+      {
+        "alt": "Un biorreactor de acero inoxidable y vidrio, con tubos e instrumentos de control, que mantiene un cultivo celular vivo en un laboratorio.",
+        "subject": "Un biorreactor de laboratorio que mantiene un cultivo celular"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des rangées de récipients de culture stériles sous un éclairage contrôlé dans le laboratoire de culture de tissus végétaux de l'Universiti Malaysia Terengganu.",
+        "subject": "Laboratoire de culture de tissus végétaux à l'Universiti Malaysia Terengganu"
+      },
+      {
+        "alt": "Un bioréacteur en acier inoxydable et en verre, équipé de tuyaux et d'instruments de contrôle, faisant tourner une culture cellulaire vivante dans un laboratoire.",
+        "subject": "Un bioréacteur de laboratoire faisant tourner une culture cellulaire"
+      }
+    ]
+  },
+  "industries/chemicals-petrochemicals-industry": {
+    "zh": [
+      {
+        "alt": "白昼下，森美兰州波德申以东恒源（Hengyuan）炼油厂的蒸馏塔与储油罐。",
+        "subject": "森美兰州波德申的恒源炼油厂"
+      },
+      {
+        "alt": "白昼天空下，沙巴吉马尼斯沙巴油气终端站（SOGT）的火炬塔与处理设施。",
+        "subject": "吉马尼斯的沙巴油气终端站（SOGT）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "日中に見た、ヌグリ・スンビラン州ポート・ディクソン東方のHengyuan製油所の蒸留塔と貯蔵タンク。",
+        "subject": "ヌグリ・スンビラン州ポート・ディクソンのHengyuan製油所"
+      },
+      {
+        "alt": "昼間の空の下、サバ州キマニスにあるサバ石油ガスターミナル（SOGT）のフレアスタックと処理設備。",
+        "subject": "キマニスのサバ石油ガスターミナル（SOGT）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "대낮에 본 느그리슴빌란주 포트딕슨 동쪽 Hengyuan 정유소의 증류탑과 저장 탱크들.",
+        "subject": "느그리슴빌란주 포트딕슨의 Hengyuan 정유소"
+      },
+      {
+        "alt": "낮 하늘 아래 사바주 키마니스의 사바 석유가스 터미널(SOGT)의 플레어 스택과 처리 시설.",
+        "subject": "키마니스의 사바 석유가스 터미널(SOGT)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "หอกลั่นและถังเก็บของโรงกลั่นน้ำมัน Hengyuan ทางตะวันออกของพอร์ตดิกสัน รัฐเนอเกอรีเซิมบีลัน มองเห็นในเวลากลางวัน",
+        "subject": "โรงกลั่นน้ำมัน Hengyuan ที่พอร์ตดิกสัน รัฐเนอเกอรีเซิมบีลัน"
+      },
+      {
+        "alt": "ปล่องเผาแก๊สและโครงสร้างกระบวนการผลิตของสถานีน้ำมันและแก๊สซาบะฮ์ (SOGT) ที่กีมานิส รัฐซาบะฮ์ ใต้ท้องฟ้ากลางวัน",
+        "subject": "สถานีน้ำมันและแก๊สซาบะฮ์ (SOGT) ที่กีมานิส"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Menara penyulingan dan tangki simpanan loji penapisan minyak Hengyuan di sebelah timur Port Dickson, Negeri Sembilan, dilihat pada waktu siang.",
+        "subject": "Loji penapisan minyak Hengyuan di Port Dickson, Negeri Sembilan"
+      },
+      {
+        "alt": "Menara suar dan struktur pemprosesan Terminal Minyak dan Gas Sabah di Kimanis, Sabah, di bawah langit siang hari.",
+        "subject": "Terminal Minyak & Gas Sabah (SOGT) di Kimanis"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Kolom distilasi dan tangki penyimpanan kilang minyak Hengyuan di sebelah timur Port Dickson, Negeri Sembilan, terlihat pada siang hari.",
+        "subject": "Kilang penyulingan minyak Hengyuan di Port Dickson, Negeri Sembilan"
+      },
+      {
+        "alt": "Cerobong suar dan struktur pengolahan Terminal Minyak dan Gas Sabah di Kimanis, Sabah, di bawah langit siang hari.",
+        "subject": "Terminal Minyak & Gas Sabah (SOGT) di Kimanis"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Các tháp chưng cất và bồn chứa của nhà máy lọc dầu Hengyuan ở phía đông Port Dickson, Negeri Sembilan, nhìn thấy vào ban ngày.",
+        "subject": "Nhà máy lọc dầu Hengyuan tại Port Dickson, Negeri Sembilan"
+      },
+      {
+        "alt": "Ống đuốc đốt và các kết cấu xử lý của Trạm Dầu khí Sabah tại Kimanis, Sabah, dưới bầu trời ban ngày.",
+        "subject": "Trạm Dầu khí Sabah (SOGT) tại Kimanis"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "நெகிரி செம்பிலானின் போர்ட் டிக்சனுக்குக் கிழக்கே உள்ள ஹெங்யுவான் எண்ணெய் சுத்திகரிப்பு நிலையத்தின் வடித்தல் கோபுரங்களும் சேமிப்புத் தொட்டிகளும் பகல் வெளிச்சத்தில் காணப்படுகின்றன.",
+        "subject": "நெகிரி செம்பிலானின் போர்ட் டிக்சனில் ஹெங்யுவான் எண்ணெய் சுத்திகரிப்பு நிலையம்"
+      },
+      {
+        "alt": "சபாவின் கிமானிஸில் உள்ள சபா எண்ணெய் மற்றும் எரிவாயு முனையத்தின் சுடர் புகைபோக்கியும் பதப்படுத்தும் கட்டமைப்புகளும் பகல் வானத்தின் கீழ்.",
+        "subject": "கிமானிஸில் உள்ள சபா எண்ணெய் மற்றும் எரிவாயு முனையம் (SOGT)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "नेगेरी सेम्बिलन में पोर्ट डिक्सन के पूर्व में स्थित Hengyuan तेल रिफ़ाइनरी के आसवन स्तंभ और भंडारण टंकियाँ, दिन के उजाले में।",
+        "subject": "नेगेरी सेम्बिलन में पोर्ट डिक्सन स्थित Hengyuan तेल रिफ़ाइनरी"
+      },
+      {
+        "alt": "साबाह के किमानिस में Sabah Oil and Gas Terminal (SOGT) का फ़्लेयर स्टैक और प्रसंस्करण संरचनाएँ, दिन के आकाश के नीचे।",
+        "subject": "किमानिस में Sabah Oil & Gas Terminal (SOGT)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "أعمدة التقطير وخزانات التخزين في مصفاة Hengyuan النفطية شرق Port Dickson بولاية Negeri Sembilan، في وضح النهار.",
+        "subject": "مصفاة Hengyuan النفطية في Port Dickson، Negeri Sembilan"
+      },
+      {
+        "alt": "برج الشعلة ومنشآت المعالجة في محطة Sabah Oil and Gas Terminal (SOGT) في Kimanis، Sabah، تحت سماء نهارية.",
+        "subject": "محطة النفط والغاز Sabah Oil & Gas Terminal (SOGT) في Kimanis"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Columnas de destilación y tanques de almacenamiento de la refinería de petróleo Hengyuan, al este de Port Dickson, en Negeri Sembilan, vistos a la luz del día.",
+        "subject": "La refinería de petróleo Hengyuan en Port Dickson, Negeri Sembilan"
+      },
+      {
+        "alt": "La antorcha y las estructuras de procesamiento de la Sabah Oil and Gas Terminal (SOGT) en Kimanis, Sabah, bajo un cielo diurno.",
+        "subject": "La Sabah Oil & Gas Terminal (SOGT) en Kimanis"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Les colonnes de distillation et les réservoirs de stockage de la raffinerie de pétrole Hengyuan, à l'est de Port Dickson, dans le Negeri Sembilan, vus à la lumière du jour.",
+        "subject": "La raffinerie de pétrole Hengyuan à Port Dickson, Negeri Sembilan"
+      },
+      {
+        "alt": "La torchère et les installations de traitement du Sabah Oil and Gas Terminal (SOGT) à Kimanis, dans le Sabah, sous un ciel diurne.",
+        "subject": "Le Sabah Oil & Gas Terminal (SOGT) à Kimanis"
+      }
+    ]
+  },
+  "industries/cocoa-industry": {
+    "zh": [
+      {
+        "alt": "经过发酵的可可豆摊放在木盘中，于露天日光下晾晒。",
+        "subject": "日晒中的可可豆"
+      },
+      {
+        "alt": "一堆烘焙过的深色可可豆，准备在巧克力加工过程中投入研磨机。",
+        "subject": "待加工的烘焙可可豆"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "発酵させたカカオ豆を木製のトレイに広げ、屋外の日差しの下で乾燥させている様子。",
+        "subject": "天日で乾燥させるカカオ豆"
+      },
+      {
+        "alt": "チョコレート加工の工程で粉砕機に投入される準備が整った、焙煎された濃い色のカカオ豆の山。",
+        "subject": "加工を待つ焙煎済みのカカオ豆"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "발효를 거친 카카오 콩을 나무 쟁반에 펼쳐 노천의 햇볕 아래 말리는 모습.",
+        "subject": "햇볕에 말리는 카카오 콩"
+      },
+      {
+        "alt": "초콜릿 가공 과정에서 분쇄기에 투입될 준비가 된, 볶은 짙은 색 카카오 콩 더미.",
+        "subject": "가공을 앞둔 볶은 카카오 콩"
+      }
+    ],
+    "th": [
+      {
+        "alt": "เมล็ดโกโก้ที่ผ่านการหมักแผ่กระจายอยู่ในถาดไม้เพื่อตากแห้งกลางแดดจ้า",
+        "subject": "เมล็ดโกโก้ที่กำลังตากแดด"
+      },
+      {
+        "alt": "กองเมล็ดโกโก้สีเข้มที่คั่วแล้ว พร้อมป้อนเข้าเครื่องบดในกระบวนการแปรรูปช็อกโกแลต",
+        "subject": "เมล็ดโกโก้คั่วพร้อมสำหรับการแปรรูป"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Biji koko yang telah ditapai dibiarkan di dalam dulang kayu untuk dikeringkan di bawah cahaya matahari terbuka.",
+        "subject": "Biji koko dikeringkan di bawah matahari"
+      },
+      {
+        "alt": "Timbunan biji koko gelap yang telah dipanggang, sedia dimasukkan ke dalam pengisar semasa pemprosesan coklat.",
+        "subject": "Biji koko dipanggang sedia untuk diproses"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Biji kakao yang telah difermentasi dihamparkan di atas nampan kayu untuk dijemur di bawah sinar matahari terbuka.",
+        "subject": "Biji kakao dijemur di bawah matahari"
+      },
+      {
+        "alt": "Tumpukan biji kakao gelap yang telah disangrai, siap dimasukkan ke dalam mesin penggiling saat pengolahan cokelat.",
+        "subject": "Biji kakao sangrai siap untuk diproses"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Hạt ca cao đã lên men được trải ra trên khay gỗ để phơi dưới nắng ngoài trời.",
+        "subject": "Hạt ca cao phơi dưới nắng"
+      },
+      {
+        "alt": "Một đống hạt ca cao sẫm màu đã rang, sẵn sàng đưa vào máy nghiền trong quá trình chế biến sô cô la.",
+        "subject": "Hạt ca cao đã rang sẵn sàng để chế biến"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "புளிக்கவைக்கப்பட்ட கோகோ விதைகள் திறந்த வெயிலில் உலர்த்துவதற்காக மரத் தட்டில் பரப்பப்பட்டுள்ளன.",
+        "subject": "வெயிலில் உலர்த்தப்படும் கோகோ விதைகள்"
+      },
+      {
+        "alt": "சாக்லேட் பதப்படுத்தும்போது அரைக்கும் ஆலையில் இடுவதற்குத் தயாராக வறுக்கப்பட்ட, கரும்பழுப்பு கோகோ விதைகளின் குவியல்.",
+        "subject": "பதப்படுத்தத் தயாராக வறுக்கப்பட்ட கோகோ விதைகள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "किण्वित कोको बीन्स को सुखाने के लिए एक लकड़ी की ट्रे में खुली धूप के नीचे फैलाया गया है।",
+        "subject": "धूप में सूखते कोको बीन्स"
+      },
+      {
+        "alt": "चॉकलेट प्रसंस्करण के दौरान पीसने वाली चक्की में डालने के लिए तैयार भुने हुए गहरे रंग के कोको बीन्स का ढेर।",
+        "subject": "प्रसंस्करण के लिए तैयार भुने हुए कोको बीन्स"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "حبوب كاكاو مخمّرة مفروشة في صينية خشبية لتجفّ تحت أشعة الشمس المكشوفة.",
+        "subject": "حبوب كاكاو تجفّ في الشمس"
+      },
+      {
+        "alt": "كومة من حبوب الكاكاو المحمّصة الداكنة جاهزة لإدخالها في مطحنة الطحن أثناء تصنيع الشوكولاتة.",
+        "subject": "حبوب كاكاو محمّصة جاهزة للتصنيع"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Granos de cacao fermentados extendidos en una bandeja de madera para secarse al sol.",
+        "subject": "Granos de cacao secándose al sol"
+      },
+      {
+        "alt": "Un montón de granos de cacao tostados y oscuros, listos para pasar al molino durante el procesado del chocolate.",
+        "subject": "Granos de cacao tostados listos para el procesado"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des fèves de cacao fermentées étalées dans un plateau en bois pour sécher au grand soleil.",
+        "subject": "Des fèves de cacao séchant au soleil"
+      },
+      {
+        "alt": "Un tas de fèves de cacao torréfiées et foncées, prêtes à être introduites dans le broyeur lors de la transformation du chocolat.",
+        "subject": "Des fèves de cacao torréfiées prêtes pour la transformation"
+      }
+    ]
+  },
+  "industries/construction-industry": {
+    "zh": [
+      {
+        "alt": "塔式起重机耸立在马来西亚吉隆坡市中心一栋在建高层建筑之上。",
+        "subject": "吉隆坡的一处高层建筑工地"
+      },
+      {
+        "alt": "吉隆坡武吉加里尔附近金马路（Jalan Kuda Emas）上一栋在建的钢筋混凝土服务式公寓大楼。",
+        "subject": "吉隆坡武吉加里尔附近的服务式公寓建设"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マレーシア・クアラルンプール中心部で建設中の高層ビルの上にそびえるタワークレーン。",
+        "subject": "クアラルンプールの高層ビル建設現場"
+      },
+      {
+        "alt": "クアラルンプールのブキッ・ジャリル近く、ジャラン・クダ・エマスで建設中の鉄筋コンクリート造サービスアパートメントの高層棟。",
+        "subject": "クアラルンプール、ブキッ・ジャリル近くのサービスアパートメント建設"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "말레이시아 쿠알라룸푸르 도심에서 건설 중인 고층 건물 위로 솟아오른 타워 크레인들.",
+        "subject": "쿠알라룸푸르의 고층 건물 공사 현장"
+      },
+      {
+        "alt": "쿠알라룸푸르 부킷 잘릴 인근 잘란 쿠다 에마스에서 건설 중인 철근 콘크리트 서비스드 아파트 타워.",
+        "subject": "쿠알라룸푸르 부킷 잘릴 인근의 서비스드 아파트 공사"
+      }
+    ],
+    "th": [
+      {
+        "alt": "เครนหอสูงตั้งตระหง่านเหนืออาคารสูงที่กำลังก่อสร้างใจกลางกรุงกัวลาลัมเปอร์ ประเทศมาเลเซีย",
+        "subject": "ไซต์ก่อสร้างอาคารสูงในกรุงกัวลาลัมเปอร์"
+      },
+      {
+        "alt": "อาคารเซอร์วิสอพาร์ตเมนต์คอนกรีตเสริมเหล็กที่กำลังก่อสร้างบนถนนจาลันกูดาเอมัสใกล้บูกิตจาลิล กรุงกัวลาลัมเปอร์",
+        "subject": "การก่อสร้างเซอร์วิสอพาร์ตเมนต์ใกล้บูกิตจาลิล กรุงกัวลาลัมเปอร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Kren menara menjulang di atas sebuah bangunan tinggi yang sedang dibina di tengah bandar Kuala Lumpur, Malaysia.",
+        "subject": "Tapak pembinaan bangunan tinggi di Kuala Lumpur"
+      },
+      {
+        "alt": "Sebuah menara apartmen servis konkrit bertetulang yang sedang dibina di Jalan Kuda Emas berhampiran Bukit Jalil, Kuala Lumpur.",
+        "subject": "Pembinaan apartmen servis berhampiran Bukit Jalil, Kuala Lumpur"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Derek menara menjulang di atas sebuah gedung bertingkat tinggi yang sedang dibangun di pusat kota Kuala Lumpur, Malaysia.",
+        "subject": "Lokasi konstruksi gedung bertingkat tinggi di Kuala Lumpur"
+      },
+      {
+        "alt": "Sebuah menara apartemen berlayanan dari beton bertulang yang sedang dibangun di Jalan Kuda Emas dekat Bukit Jalil, Kuala Lumpur.",
+        "subject": "Pembangunan apartemen berlayanan dekat Bukit Jalil, Kuala Lumpur"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những cần cẩu tháp vươn cao trên một tòa nhà cao tầng đang được xây dựng ở trung tâm Kuala Lumpur, Malaysia.",
+        "subject": "Công trường xây dựng nhà cao tầng ở Kuala Lumpur"
+      },
+      {
+        "alt": "Một tòa căn hộ dịch vụ bằng bê tông cốt thép đang được xây dựng trên đường Jalan Kuda Emas gần Bukit Jalil, Kuala Lumpur.",
+        "subject": "Công trình xây dựng căn hộ dịch vụ gần Bukit Jalil, Kuala Lumpur"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "மலேசியாவின் கோலாலம்பூர் நடுநகரில் கட்டப்பட்டுக் கொண்டிருக்கும் உயரமான கட்டிடத்தின் மேல் கோபுர கிரேன்கள் உயர்ந்து நிற்கின்றன.",
+        "subject": "கோலாலம்பூரில் ஒரு உயரமான கட்டிடக் கட்டுமானத் தளம்"
+      },
+      {
+        "alt": "கோலாலம்பூர், புக்கிட் ஜாலிலுக்கு அருகே ஜாலான் குடா எமாஸில் கட்டப்பட்டுக் கொண்டிருக்கும் இரும்புக் கம்பி கொண்ட கான்கிரீட் சேவை அடுக்குமாடிக் கோபுரம்.",
+        "subject": "கோலாலம்பூர், புக்கிட் ஜாலிலுக்கு அருகே சேவை அடுக்குமாடிக் கட்டுமானம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "मलेशिया के मध्य कुआलालंपुर में निर्माणाधीन एक ऊँची इमारत पर उठती टावर क्रेनें।",
+        "subject": "कुआलालंपुर में एक ऊँची इमारत का निर्माण स्थल"
+      },
+      {
+        "alt": "कुआलालंपुर के बुकित जलील के पास जालान कुडा एमास पर निर्माणाधीन एक प्रबलित-कंक्रीट सर्विस्ड अपार्टमेंट टावर।",
+        "subject": "कुआलालंपुर के बुकित जलील के पास सर्विस्ड अपार्टमेंट निर्माण"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "رافعات برجية تعلو مبنى شاهقًا قيد الإنشاء في وسط Kuala Lumpur، ماليزيا.",
+        "subject": "موقع إنشاء مبنى شاهق في Kuala Lumpur"
+      },
+      {
+        "alt": "برج شقق مخدومة من الخرسانة المسلّحة قيد الإنشاء في Jalan Kuda Emas قرب Bukit Jalil، Kuala Lumpur.",
+        "subject": "إنشاء شقق مخدومة قرب Bukit Jalil، Kuala Lumpur"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Grúas torre se alzan sobre un edificio de gran altura en construcción en el centro de Kuala Lumpur, Malasia.",
+        "subject": "Una obra de construcción de un edificio de gran altura en Kuala Lumpur"
+      },
+      {
+        "alt": "Una torre de apartamentos con servicios, de hormigón armado, en construcción en Jalan Kuda Emas, cerca de Bukit Jalil, en Kuala Lumpur.",
+        "subject": "Construcción de apartamentos con servicios cerca de Bukit Jalil, Kuala Lumpur"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des grues à tour s'élèvent au-dessus d'un gratte-ciel en construction dans le centre de Kuala Lumpur, en Malaisie.",
+        "subject": "Un chantier de gratte-ciel à Kuala Lumpur"
+      },
+      {
+        "alt": "Une tour d'appartements avec services en béton armé en construction sur Jalan Kuda Emas, près de Bukit Jalil, à Kuala Lumpur.",
+        "subject": "Construction d'appartements avec services près de Bukit Jalil, Kuala Lumpur"
+      }
+    ]
+  },
+  "industries/data-centre-cloud-industry": {
+    "zh": [
+      {
+        "alt": "一座大型数据中心机房内，一排排服务器与设备机架排列整齐，并设有规整的冷通道封闭系统。",
+        "subject": "排列着成排设备机架的数据中心机房"
+      },
+      {
+        "alt": "数据中心部署中，密集成束的网络线缆穿行于服务器机架背部。",
+        "subject": "数据中心服务器机架背后的网络布线"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "整然としたコールドアイル・コンテインメントを備えた大型データセンターのホールを埋め尽くす、長く連なるサーバーおよび機器ラック。",
+        "subject": "機器ラックが並ぶデータセンターのホール"
+      },
+      {
+        "alt": "データセンターの構築現場で、サーバーラックの背面を縦横に走る密集した束のネットワークケーブル。",
+        "subject": "データセンターのサーバーラック背面のネットワーク配線"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "정연한 콜드 아일 격납 설비를 갖춘 대형 데이터센터 홀을 가득 채운, 길게 늘어선 서버 및 장비 랙들.",
+        "subject": "장비 랙이 줄지어 늘어선 데이터센터 홀"
+      },
+      {
+        "alt": "데이터센터 구축 현장에서 서버 랙 후면을 가로질러 뻗은 빽빽한 네트워크 케이블 다발.",
+        "subject": "데이터센터 서버 랙 뒤편의 네트워크 배선"
+      }
+    ],
+    "th": [
+      {
+        "alt": "แถวแร็กเซิร์ฟเวอร์และอุปกรณ์เรียงยาวเต็มห้องศูนย์ข้อมูลขนาดใหญ่พร้อมระบบกั้นช่องทางลมเย็นที่เป็นระเบียบ",
+        "subject": "ห้องศูนย์ข้อมูลที่มีแร็กอุปกรณ์เรียงเป็นแถว"
+      },
+      {
+        "alt": "มัดสายเครือข่ายอันหนาแน่นพาดผ่านด้านหลังแร็กเซิร์ฟเวอร์ในงานติดตั้งศูนย์ข้อมูล",
+        "subject": "การเดินสายเครือข่ายด้านหลังแร็กเซิร์ฟเวอร์ในศูนย์ข้อมูล"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Deretan panjang rak pelayan dan peralatan memenuhi sebuah dewan pusat data yang besar dengan kurungan lorong sejuk berstruktur.",
+        "subject": "Dewan pusat data dengan deretan rak peralatan"
+      },
+      {
+        "alt": "Ikatan padat kabel rangkaian terbentang di bahagian belakang rak pelayan dalam pemasangan pusat data.",
+        "subject": "Pengkabelan rangkaian di belakang rak pelayan pusat data"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Deretan panjang rak server dan peralatan memenuhi sebuah aula pusat data yang besar dengan kontainmen lorong dingin terstruktur.",
+        "subject": "Aula pusat data dengan deretan rak peralatan"
+      },
+      {
+        "alt": "Ikatan padat kabel jaringan membentang di bagian belakang rak server dalam penerapan pusat data.",
+        "subject": "Pengkabelan jaringan di belakang rak server pusat data"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những dãy dài tủ rack máy chủ và thiết bị lấp đầy một sảnh trung tâm dữ liệu rộng lớn với hệ thống ngăn luồng khí lạnh có cấu trúc.",
+        "subject": "Một sảnh trung tâm dữ liệu với các dãy tủ rack thiết bị"
+      },
+      {
+        "alt": "Những bó cáp mạng dày đặc chạy dọc phía sau các tủ rack máy chủ trong một hệ thống trung tâm dữ liệu.",
+        "subject": "Hệ thống cáp mạng phía sau các tủ rack máy chủ của trung tâm dữ liệu"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கட்டமைக்கப்பட்ட குளிர்-நடைபாதை அடைப்புடன் கூடிய பெரிய தரவு மையக் கூடத்தை சேவையக மற்றும் உபகரண அடுக்குகளின் நீண்ட வரிசைகள் நிரப்புகின்றன.",
+        "subject": "உபகரண அடுக்குகளின் வரிசைகள் கொண்ட தரவு மையக் கூடம்"
+      },
+      {
+        "alt": "ஒரு தரவு மைய அமைப்பில் சேவையக அடுக்குகளின் பின்புறம் முழுவதும் அடர்த்தியான வலையமைப்புக் கம்பிக் கற்றைகள் செல்கின்றன.",
+        "subject": "தரவு மைய சேவையக அடுக்குகளுக்குப் பின்னால் வலையமைப்புக் கம்பி இணைப்புகள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "सर्वर और उपकरण रैक की लंबी कतारें संरचित कोल्ड-आइल कंटेनमेंट के साथ एक बड़े डेटा-सेंटर हॉल को भरती हैं।",
+        "subject": "उपकरण रैक की कतारों वाला एक डेटा-सेंटर हॉल"
+      },
+      {
+        "alt": "एक डेटा-सेंटर परिनियोजन में सर्वर रैक के पिछले हिस्से पर दौड़ते नेटवर्क केबलिंग के घने बंडल।",
+        "subject": "डेटा-सेंटर सर्वर रैक के पीछे नेटवर्क केबलिंग"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "صفوف طويلة من خزائن الخوادم والمعدّات تملأ قاعة مركز بيانات كبيرة مع احتواء منظّم للممرات الباردة.",
+        "subject": "قاعة مركز بيانات بصفوف من خزائن المعدّات"
+      },
+      {
+        "alt": "حُزم كثيفة من كابلات الشبكة تمتدّ خلف خزائن الخوادم في مركز بيانات.",
+        "subject": "كابلات الشبكة خلف خزائن خوادم مركز البيانات"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Largas filas de bastidores de servidores y equipos llenan la gran sala de un centro de datos con contención estructurada de pasillo frío.",
+        "subject": "Una sala de centro de datos con filas de bastidores de equipos"
+      },
+      {
+        "alt": "Densos haces de cableado de red recorren la parte trasera de los bastidores de servidores en un centro de datos.",
+        "subject": "Cableado de red detrás de los bastidores de servidores de un centro de datos"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "De longues rangées de baies de serveurs et d'équipements remplissent une grande salle de centre de données avec confinement structuré d'allée froide.",
+        "subject": "Une salle de centre de données avec des rangées de baies d'équipements"
+      },
+      {
+        "alt": "Des faisceaux denses de câblage réseau courent à l'arrière des baies de serveurs dans un centre de données.",
+        "subject": "Câblage réseau derrière les baies de serveurs d'un centre de données"
+      }
+    ]
+  },
+  "industries/digital-creative-content-industry": {
+    "zh": [
+      {
+        "alt": "开放式的游戏开发工作室内，开发者们在配有多显示器的工位上工作。",
+        "subject": "一处电子游戏开发工作室"
+      },
+      {
+        "alt": "内容创作者的工位上，一台绘图板和触控笔摆在显示着一幅数字绘画的显示器前。",
+        "subject": "用于创作数字绘画的数字艺术家工位"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ビデオゲーム開発会社のオープンなスタジオフロアで、マルチモニターのデスクに向かって作業する開発者たち。",
+        "subject": "ビデオゲーム開発スタジオのフロア"
+      },
+      {
+        "alt": "コンテンツクリエイターの作業スペースで、デジタル絵画を表示したモニターの前に置かれたペンタブレットとスタイラス。",
+        "subject": "デジタル絵画を制作するデジタルアーティストの作業スペース"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "개방형 비디오 게임 개발사 스튜디오 플로어에서 멀티 모니터 책상에 앉아 작업하는 개발자들.",
+        "subject": "비디오 게임 개발 스튜디오 플로어"
+      },
+      {
+        "alt": "콘텐츠 크리에이터의 작업 공간에서 디지털 페인팅이 표시된 모니터 앞에 놓인 그래픽 태블릿과 스타일러스.",
+        "subject": "디지털 페인팅을 제작하는 디지털 아티스트의 작업 공간"
+      }
+    ],
+    "th": [
+      {
+        "alt": "นักพัฒนาทำงานที่โต๊ะหลายจอทั่วพื้นที่สตูดิโอแบบเปิดโล่งของบริษัทพัฒนาวิดีโอเกม",
+        "subject": "พื้นที่สตูดิโอพัฒนาวิดีโอเกม"
+      },
+      {
+        "alt": "แท็บเล็ตวาดภาพและปากกาสไตลัสวางอยู่หน้าจอที่แสดงภาพวาดดิจิทัล ณ โต๊ะทำงานของผู้สร้างคอนเทนต์",
+        "subject": "โต๊ะทำงานของศิลปินดิจิทัลสำหรับสร้างภาพวาดดิจิทัล"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pembangun bekerja di meja berbilang monitor di seluruh ruang studio terbuka sebuah syarikat pembangunan permainan video.",
+        "subject": "Ruang studio pembangunan permainan video"
+      },
+      {
+        "alt": "Sebuah tablet grafik dan stylus terletak di hadapan monitor yang memaparkan lukisan digital di stesen kerja seorang pencipta kandungan.",
+        "subject": "Stesen kerja artis digital untuk menghasilkan lukisan digital"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Para pengembang bekerja di meja bermonitor ganda di seluruh lantai studio terbuka sebuah rumah pengembangan gim video.",
+        "subject": "Lantai studio pengembangan gim video"
+      },
+      {
+        "alt": "Sebuah tablet grafis dan stylus terletak di depan monitor yang menampilkan lukisan digital di stasiun kerja seorang kreator konten.",
+        "subject": "Stasiun kerja seniman digital untuk membuat lukisan digital"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Các lập trình viên làm việc tại những bàn nhiều màn hình trên khắp sàn studio mở của một hãng phát triển trò chơi điện tử.",
+        "subject": "Sàn làm việc của một studio phát triển trò chơi điện tử"
+      },
+      {
+        "alt": "Một bảng vẽ đồ họa và bút cảm ứng đặt trước màn hình đang hiển thị một bức tranh kỹ thuật số tại bàn làm việc của một nhà sáng tạo nội dung.",
+        "subject": "Bàn làm việc của một họa sĩ kỹ thuật số để tạo tranh kỹ thuật số"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஒரு வீடியோ கேம் உருவாக்க நிறுவனத்தின் திறந்த ஸ்டுடியோ தளம் முழுவதும் டெவலப்பர்கள் பல-மானிட்டர் மேசைகளில் பணியாற்றுகின்றனர்.",
+        "subject": "வீடியோ கேம் உருவாக்க ஸ்டுடியோ தளம்"
+      },
+      {
+        "alt": "ஒரு உள்ளடக்க உருவாக்குநரின் பணிநிலையத்தில் டிஜிட்டல் ஓவியத்தைக் காட்டும் மானிட்டருக்கு முன் கிராபிக்ஸ் டேப்லெட்டும் ஸ்டைலஸும் உள்ளன.",
+        "subject": "டிஜிட்டல் ஓவியங்களை உருவாக்கும் டிஜிட்டல் கலைஞரின் பணிநிலையம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक वीडियो-गेम विकास कंपनी के खुले स्टूडियो फ़्लोर पर डेवलपर्स कई-मॉनिटर वाले डेस्क पर काम करते हैं।",
+        "subject": "एक वीडियो-गेम विकास स्टूडियो फ़्लोर"
+      },
+      {
+        "alt": "एक कंटेंट क्रिएटर के वर्कस्टेशन पर डिजिटल पेंटिंग दिखाते मॉनिटर के सामने रखी एक ग्राफ़िक्स टैबलेट और स्टाइलस।",
+        "subject": "डिजिटल पेंटिंग बनाने के लिए एक डिजिटल कलाकार का वर्कस्टेशन"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مطوّرون يعملون على مكاتب متعددة الشاشات في أرجاء استوديو مفتوح لشركة تطوير ألعاب فيديو.",
+        "subject": "أرضية استوديو لتطوير ألعاب الفيديو"
+      },
+      {
+        "alt": "لوح رسم رقمي وقلم موضوعان أمام شاشة تعرض لوحة رقمية في محطة عمل أحد صنّاع المحتوى.",
+        "subject": "محطة عمل لفنان رقمي لإنتاج اللوحات الرقمية"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Desarrolladores trabajan en escritorios con varios monitores por toda la planta abierta de un estudio de desarrollo de videojuegos.",
+        "subject": "La planta de un estudio de desarrollo de videojuegos"
+      },
+      {
+        "alt": "Una tableta gráfica y un lápiz óptico frente a un monitor que muestra una pintura digital en el puesto de trabajo de un creador de contenido.",
+        "subject": "El puesto de trabajo de un artista digital para crear pinturas digitales"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des développeurs travaillent à des bureaux à plusieurs écrans dans l'open space d'un studio de développement de jeux vidéo.",
+        "subject": "Le plateau d'un studio de développement de jeux vidéo"
+      },
+      {
+        "alt": "Une tablette graphique et un stylet devant un écran affichant une peinture numérique, au poste de travail d'un créateur de contenu.",
+        "subject": "Le poste de travail d'un artiste numérique pour produire des peintures numériques"
+      }
+    ]
+  },
+  "industries/electric-vehicle-battery-industry": {
+    "zh": [
+      {
+        "alt": "两枚圆柱形锂离子电池单体——一枚18650与一枚更大的21700规格——并排竖立。",
+        "subject": "圆柱形锂离子电池单体"
+      },
+      {
+        "alt": "一块电动汽车的扁平锂离子动力电池组，经展开以呈现其模块化电芯布局。",
+        "subject": "电动汽车的锂离子动力电池组"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "18650と、より大型の21700フォーマットの円筒形リチウムイオン電池セル2本を並べて立てたもの。",
+        "subject": "円筒形リチウムイオン電池セル"
+      },
+      {
+        "alt": "モジュール式のセル配置を示すために展示された、電気自動車の平たいリチウムイオン駆動用バッテリーパック。",
+        "subject": "電気自動車のリチウムイオン駆動用バッテリーパック"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "18650과 더 큰 21700 규격의 원통형 리튬이온 배터리 셀 두 개를 나란히 세워 놓은 모습.",
+        "subject": "원통형 리튬이온 배터리 셀"
+      },
+      {
+        "alt": "모듈식 셀 배치를 보여 주기 위해 전시한 전기차의 납작한 리튬이온 구동 배터리 팩.",
+        "subject": "전기차의 리튬이온 구동 배터리 팩"
+      }
+    ],
+    "th": [
+      {
+        "alt": "เซลล์แบตเตอรี่ลิเธียมไอออนทรงกระบอกสองเซลล์ ขนาด 18650 และขนาด 21700 ที่ใหญ่กว่า ตั้งเรียงเคียงกัน",
+        "subject": "เซลล์แบตเตอรี่ลิเธียมไอออนทรงกระบอก"
+      },
+      {
+        "alt": "แพ็กแบตเตอรี่ขับเคลื่อนลิเธียมไอออนแบนของรถยนต์ไฟฟ้า จัดแสดงเพื่อให้เห็นการวางเซลล์แบบโมดูลาร์",
+        "subject": "แพ็กแบตเตอรี่ขับเคลื่อนลิเธียมไอออนของรถยนต์ไฟฟ้า"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Dua sel bateri litium-ion berbentuk silinder, satu format 18650 dan satu lagi format 21700 yang lebih besar, berdiri bersebelahan.",
+        "subject": "Sel bateri litium-ion berbentuk silinder"
+      },
+      {
+        "alt": "Pek bateri penggerak litium-ion rata sebuah kereta elektrik, dipamerkan untuk menunjukkan susun atur selnya yang bermodul.",
+        "subject": "Pek bateri penggerak litium-ion kenderaan elektrik"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Dua sel baterai litium-ion berbentuk silinder, satu format 18650 dan satu lagi format 21700 yang lebih besar, berdiri berdampingan.",
+        "subject": "Sel baterai litium-ion berbentuk silinder"
+      },
+      {
+        "alt": "Paket baterai traksi litium-ion datar sebuah mobil listrik, dipamerkan untuk menunjukkan tata letak selnya yang modular.",
+        "subject": "Paket baterai traksi litium-ion kendaraan listrik"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Hai cell pin lithium-ion hình trụ, một loại 18650 và một loại 21700 lớn hơn, đặt cạnh nhau.",
+        "subject": "Các cell pin lithium-ion hình trụ"
+      },
+      {
+        "alt": "Bộ pin kéo lithium-ion dạng dẹt của một chiếc ô tô điện, được trưng bày để cho thấy cách bố trí cell theo mô-đun.",
+        "subject": "Bộ pin kéo lithium-ion của xe điện"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "இரண்டு உருளை வடிவ லித்தியம்-அயன் பேட்டரி செல்கள், ஒன்று 18650 வடிவமும் மற்றொன்று பெரிய 21700 வடிவமும், அருகருகே நிற்கின்றன.",
+        "subject": "உருளை வடிவ லித்தியம்-அயன் பேட்டரி செல்கள்"
+      },
+      {
+        "alt": "ஒரு மின்சார காரின் தட்டையான லித்தியம்-அயன் உந்துதல் பேட்டரி தொகுப்பு, அதன் தொகுதி செல் அமைப்பைக் காட்ட காட்சிப்படுத்தப்பட்டுள்ளது.",
+        "subject": "மின்சார வாகனத்தின் லித்தியம்-அயன் உந்துதல் பேட்டரி தொகுப்பு"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "दो बेलनाकार लिथियम-आयन बैटरी सेल, एक 18650 और एक बड़ा 21700 फ़ॉर्मेट, एक-दूसरे के बगल में खड़े।",
+        "subject": "बेलनाकार लिथियम-आयन बैटरी सेल"
+      },
+      {
+        "alt": "एक इलेक्ट्रिक कार का सपाट लिथियम-आयन ट्रैक्शन बैटरी पैक, इसके मॉड्यूलर सेल विन्यास को दिखाने के लिए प्रदर्शित।",
+        "subject": "एक इलेक्ट्रिक-वाहन लिथियम-आयन ट्रैक्शन बैटरी पैक"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "خليّتا بطارية أسطوانيتان من نوع ليثيوم-أيون، إحداهما بمقاس 18650 والأخرى بمقاس 21700 الأكبر، واقفتان جنبًا إلى جنب.",
+        "subject": "خلايا بطارية أسطوانية من ليثيوم-أيون"
+      },
+      {
+        "alt": "حزمة بطارية جرّ مسطّحة من ليثيوم-أيون لسيارة كهربائية، معروضة لإظهار ترتيب خلاياها المعياري.",
+        "subject": "حزمة بطارية جرّ من ليثيوم-أيون لمركبة كهربائية"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Dos celdas cilíndricas de batería de iones de litio, una de formato 18650 y otra mayor de formato 21700, dispuestas una junto a la otra.",
+        "subject": "Celdas cilíndricas de batería de iones de litio"
+      },
+      {
+        "alt": "El paquete plano de batería de tracción de iones de litio de un coche eléctrico, expuesto para mostrar su disposición modular de celdas.",
+        "subject": "Un paquete de batería de tracción de iones de litio de un vehículo eléctrico"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Deux cellules cylindriques de batterie lithium-ion, l'une au format 18650 et l'autre, plus grande, au format 21700, placées côte à côte.",
+        "subject": "Cellules cylindriques de batterie lithium-ion"
+      },
+      {
+        "alt": "Le pack plat de batterie de traction lithium-ion d'une voiture électrique, exposé pour montrer la disposition modulaire de ses cellules.",
+        "subject": "Un pack de batterie de traction lithium-ion de véhicule électrique"
+      }
+    ]
+  },
+  "industries/forestry-timber-industry": {
+    "zh": [
+      {
+        "alt": "马来西亚沙巴一座乡村锯木厂的开敞屋顶下，堆叠着一垛垛锯好的硬木板材与原木。",
+        "subject": "马来西亚沙巴甘榜曼巴卡（Kampung Mempakad）的锯木厂"
+      },
+      {
+        "alt": "在沙巴山打根一家胶合板厂，一台轮式装载机正将热带硬木原木运往修边车间。",
+        "subject": "马来西亚沙巴山打根胶合板厂的原木堆场"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マレーシア・サバ州の地方の製材所の、屋根だけの建屋の下に積み上げられた製材済みの広葉樹板材と丸太の山。",
+        "subject": "マレーシア・サバ州カンポン・ムンパカッの製材所"
+      },
+      {
+        "alt": "サバ州サンダカンの合板工場で、ホイールローダーが熱帯産広葉樹の丸太をトリミング工程へと運んでいる様子。",
+        "subject": "マレーシア・サバ州サンダカンの合板工場の丸太置き場"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "말레이시아 사바주의 한 시골 제재소 지붕만 덮인 건물 아래 쌓인 켠 활엽수 판재와 통나무 더미들.",
+        "subject": "말레이시아 사바주 캄풍 멈파카드의 제재소"
+      },
+      {
+        "alt": "사바주 산다칸의 합판 공장에서 휠 로더가 열대 활엽수 통나무를 재단 공정으로 옮기고 있는 모습.",
+        "subject": "말레이시아 사바주 산다칸 합판 공장의 통나무 야적장"
+      }
+    ],
+    "th": [
+      {
+        "alt": "กองไม้เนื้อแข็งแปรรูปและท่อนซุงใต้หลังคาโปร่งของโรงเลื่อยในชนบทรัฐซาบะฮ์ ประเทศมาเลเซีย",
+        "subject": "โรงเลื่อยที่กัมปงเมิมปากัด รัฐซาบะฮ์ ประเทศมาเลเซีย"
+      },
+      {
+        "alt": "รถตักล้อยางกำลังเคลื่อนย้ายท่อนซุงไม้เนื้อแข็งเขตร้อนไปยังหน่วยตัดแต่งที่โรงงานไม้อัดในซันดากัน รัฐซาบะฮ์",
+        "subject": "ลานกองซุงของโรงงานไม้อัดในซันดากัน รัฐซาบะฮ์ ประเทศมาเลเซีย"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Timbunan papan dan balak kayu keras yang telah digergaji di bawah bumbung terbuka sebuah kilang papan luar bandar di Sabah, Malaysia.",
+        "subject": "Kilang papan di Kampung Mempakad, Sabah, Malaysia"
+      },
+      {
+        "alt": "Sebuah jentera pemunggah beroda mengangkut balak kayu keras tropika ke arah unit pemangkasan di sebuah kilang papan lapis di Sandakan, Sabah.",
+        "subject": "Kawasan simpanan balak kilang papan lapis di Sandakan, Sabah, Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Tumpukan papan dan gelondongan kayu keras yang telah digergaji di bawah atap terbuka sebuah penggergajian kayu pedesaan di Sabah, Malaysia.",
+        "subject": "Penggergajian kayu di Kampung Mempakad, Sabah, Malaysia"
+      },
+      {
+        "alt": "Sebuah loader beroda memindahkan gelondongan kayu keras tropis menuju unit pemotongan di sebuah pabrik kayu lapis di Sandakan, Sabah.",
+        "subject": "Area tumpukan gelondongan pabrik kayu lapis di Sandakan, Sabah, Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những chồng ván gỗ cứng đã xẻ và khúc gỗ dưới mái che hở của một xưởng cưa nông thôn ở Sabah, Malaysia.",
+        "subject": "Xưởng cưa tại Kampung Mempakad, Sabah, Malaysia"
+      },
+      {
+        "alt": "Một xe xúc lật bánh lốp di chuyển các khúc gỗ cứng nhiệt đới về phía bộ phận cắt xén tại một nhà máy ván ép ở Sandakan, Sabah.",
+        "subject": "Bãi gỗ của nhà máy ván ép ở Sandakan, Sabah, Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "மலேசியா, சபாவில் உள்ள ஒரு கிராமப்புற மரவெட்டு ஆலையின் திறந்த கூரையின் கீழ் அறுக்கப்பட்ட கடின மரப் பலகைகள் மற்றும் மரக்கட்டைகளின் குவியல்கள்.",
+        "subject": "மலேசியா, சபா, காம்போங் மெம்பகாட்டில் மரவெட்டு ஆலை"
+      },
+      {
+        "alt": "சபா, சண்டாக்கானில் உள்ள ஒரு பிளைவுட் தொழிற்சாலையில் சக்கர ஏற்றி ஒன்று வெப்பமண்டல கடின மரக்கட்டைகளை வெட்டும் பிரிவை நோக்கி நகர்த்துகிறது.",
+        "subject": "மலேசியா, சபா, சண்டாக்கானில் பிளைவுட் தொழிற்சாலையின் மரக்கட்டை முற்றம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "मलेशिया के साबाह में एक ग्रामीण आरा मिल की खुली छत के नीचे चिरी हुई दृढ़ लकड़ी की तख्तियों और लट्ठों के ढेर।",
+        "subject": "कम्पुंग मेम्पाकाद, साबाह, मलेशिया में आरा मिल"
+      },
+      {
+        "alt": "साबाह के सांडाकान में एक प्लाईवुड कारखाने में उष्णकटिबंधीय दृढ़ लकड़ी के लट्ठों को ट्रिमिंग यूनिट की ओर ले जाता एक पहिएदार लोडर।",
+        "subject": "सांडाकान, साबाह, मलेशिया में प्लाईवुड कारखाने का लट्ठा यार्ड"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "أكوام من ألواح الخشب الصلب المنشور والجذوع تحت سقف مكشوف لمنشرة ريفية في Sabah، ماليزيا.",
+        "subject": "منشرة خشب في Kampung Mempakad، Sabah، ماليزيا"
+      },
+      {
+        "alt": "لودر مزوّد بعجلات ينقل جذوع خشب صلب استوائي نحو وحدة التشذيب في مصنع خشب رقائقي في Sandakan، Sabah.",
+        "subject": "ساحة جذوع مصنع خشب رقائقي في Sandakan، Sabah، ماليزيا"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Pilas de tablas y troncos de madera dura aserrada bajo el techo abierto de un aserradero rural en Sabah, Malasia.",
+        "subject": "Aserradero en Kampung Mempakad, Sabah, Malasia"
+      },
+      {
+        "alt": "Una cargadora de ruedas desplaza troncos de madera dura tropical hacia la unidad de recorte en una fábrica de contrachapado en Sandakan, Sabah.",
+        "subject": "Patio de troncos de una fábrica de contrachapado en Sandakan, Sabah, Malasia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des piles de planches et de grumes de bois dur scié sous le toit ouvert d'une scierie rurale dans le Sabah, en Malaisie.",
+        "subject": "Scierie à Kampung Mempakad, Sabah, Malaisie"
+      },
+      {
+        "alt": "Une chargeuse sur pneus déplaçant des grumes de bois dur tropical vers l'unité de tronçonnage dans une usine de contreplaqué à Sandakan, dans le Sabah.",
+        "subject": "Parc à grumes d'une usine de contreplaqué à Sandakan, Sabah, Malaisie"
+      }
+    ]
+  },
+  "industries/gig-platform-economy-industry": {
+    "zh": [
+      {
+        "alt": "一名身穿粉色foodpanda夹克、戴着头盔的送餐骑手，骑着一辆小型摩托车（kapcai），车上载着一个粉色的foodpanda大号保温送餐箱，停在街道车流中。",
+        "subject": "使用粉色保温送餐箱的foodpanda摩托车送餐骑手（代表性的零工平台工作；非Grab）"
+      },
+      {
+        "alt": "一名平台送餐员站在人行道上，背着一个大号保温送餐背包。",
+        "subject": "背着平台保温送餐包的送餐员（非Grab）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ピンク色のfoodpandaのジャケットとヘルメットを身につけた配達員が、大きなピンクのfoodpanda保温配達ボックスを積んだアンダーボーン型バイク（kapcai）に乗り、路上の渋滞で停車している様子。",
+        "subject": "ピンクの保温配達ボックスを積んだfoodpandaのバイク配達員（ギグプラットフォーム労働の代表例、Grabではない）"
+      },
+      {
+        "alt": "大きな保温配達用バックパックを背負って歩道に立つ、プラットフォームのフード配達員。",
+        "subject": "プラットフォームの保温配達バッグを背負った配達員（Grabではない）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "분홍색 foodpanda 재킷과 헬멧을 착용한 배달원이 커다란 분홍색 foodpanda 보온 배달 박스를 실은 언더본(kapcai) 오토바이를 타고 도로 정체 속에 멈춰 선 모습.",
+        "subject": "분홍색 보온 배달 박스를 실은 foodpanda 오토바이 배달원(긱 플랫폼 노동의 대표 사례, Grab 아님)"
+      },
+      {
+        "alt": "커다란 보온 배달 백팩을 멘 채 보도에 서 있는 플랫폼 음식 배달원.",
+        "subject": "플랫폼 보온 배달 가방을 멘 음식 배달원(Grab 아님)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ไรเดอร์ส่งอาหารสวมแจ็กเก็ตและหมวกกันน็อก foodpanda สีชมพู ขี่รถจักรยานยนต์แบบครอบเครื่อง (kapcai) บรรทุกกล่องส่งอาหารเก็บอุณหภูมิ foodpanda สีชมพูขนาดใหญ่ ขณะจอดอยู่ท่ามกลางการจราจรบนถนน",
+        "subject": "ไรเดอร์ส่งอาหารรถจักรยานยนต์ foodpanda พร้อมกล่องส่งอาหารเก็บอุณหภูมิสีชมพู (ตัวอย่างงานแพลตฟอร์มกิ๊ก ไม่ใช่ Grab)"
+      },
+      {
+        "alt": "พนักงานส่งอาหารแพลตฟอร์มยืนอยู่บนทางเท้าสะพายกระเป๋าเป้ส่งอาหารเก็บอุณหภูมิขนาดใหญ่",
+        "subject": "พนักงานส่งอาหารพร้อมกระเป๋าส่งอาหารเก็บอุณหภูมิของแพลตฟอร์ม (ไม่ใช่ Grab)"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Seorang penunggang penghantaran makanan berjaket dan bertopi keledar foodpanda merah jambu menunggang motosikal kapcai sambil membawa kotak penghantaran bertebat foodpanda merah jambu yang besar ketika berhenti dalam lalu lintas jalan.",
+        "subject": "Penunggang penghantaran makanan motosikal Foodpanda dengan kotak penghantaran bertebat merah jambu (kerja platform gig yang mewakili; bukan Grab)"
+      },
+      {
+        "alt": "Seorang kurier penghantaran makanan platform berdiri di atas kaki lima memakai beg galas penghantaran makanan bertebat yang besar.",
+        "subject": "Kurier penghantaran makanan dengan beg penghantaran platform bertebat (bukan Grab)"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Seorang kurir pengiriman makanan berjaket dan berhelm foodpanda merah muda mengendarai sepeda motor bebek (kapcai) sambil membawa kotak pengiriman berinsulasi foodpanda merah muda yang besar saat berhenti di tengah lalu lintas jalan.",
+        "subject": "Pengendara pengiriman makanan sepeda motor Foodpanda dengan kotak pengiriman berinsulasi merah muda (pekerjaan platform gig yang mewakili; non-Grab)"
+      },
+      {
+        "alt": "Seorang kurir pengiriman makanan platform berdiri di trotoar mengenakan ransel pengiriman makanan berinsulasi berukuran besar.",
+        "subject": "Kurir pengiriman makanan dengan tas pengiriman platform berinsulasi (non-Grab)"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một tài xế giao đồ ăn mặc áo khoác và đội mũ bảo hiểm foodpanda màu hồng trên một chiếc xe máy số (kapcai), chở một thùng giao hàng giữ nhiệt foodpanda màu hồng lớn trong lúc dừng giữa dòng xe trên phố.",
+        "subject": "Tài xế giao đồ ăn bằng xe máy Foodpanda với thùng giao hàng giữ nhiệt màu hồng (minh họa công việc nền tảng gig; không phải Grab)"
+      },
+      {
+        "alt": "Một người giao đồ ăn qua nền tảng đứng trên vỉa hè, đeo một chiếc ba lô giao đồ ăn giữ nhiệt cỡ lớn.",
+        "subject": "Người giao đồ ăn với túi giao hàng nền tảng giữ nhiệt (không phải Grab)"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "இளஞ்சிவப்பு foodpanda ஜாக்கெட்டும் தலைக்கவசமும் அணிந்த உணவு விநியோக ஓட்டுநர் ஒருவர், ஒரு கப்சாய் மோட்டார்சைக்கிளில், பெரிய இளஞ்சிவப்பு foodpanda வெப்பக்காப்பு விநியோகப் பெட்டியைச் சுமந்தபடி தெரு போக்குவரத்தில் நின்றுகொண்டிருக்கிறார்.",
+        "subject": "இளஞ்சிவப்பு வெப்பக்காப்பு விநியோகப் பெட்டியுடன் Foodpanda மோட்டார்சைக்கிள் உணவு விநியோக ஓட்டுநர் (பிரதிநிதித்துவ கிக் தளப் பணி; Grab அல்ல)"
+      },
+      {
+        "alt": "ஒரு தள உணவு விநியோக தூதர், பெரிய வெப்பக்காப்பு உணவு விநியோக முதுகுப்பையை அணிந்தபடி நடைபாதையில் நிற்கிறார்.",
+        "subject": "வெப்பக்காப்பு தள விநியோகப் பையுடன் உணவு விநியோக தூதர் (Grab அல்ல)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "गुलाबी Foodpanda जैकेट और हेलमेट पहने एक खाना-डिलीवरी राइडर एक अंडरबोन (kapcai) मोटरसाइकिल पर एक बड़ा गुलाबी Foodpanda इंसुलेटेड डिलीवरी बॉक्स ले जाते हुए सड़क के ट्रैफ़िक में रुका है।",
+        "subject": "गुलाबी इंसुलेटेड डिलीवरी बॉक्स के साथ Foodpanda मोटरसाइकिल खाना-डिलीवरी राइडर (प्रतिनिधि गिग प्लेटफ़ॉर्म कार्य; गैर-Grab)"
+      },
+      {
+        "alt": "फुटपाथ पर खड़ा एक प्लेटफ़ॉर्म खाना-डिलीवरी कूरियर एक बड़ा इंसुलेटेड फ़ूड डिलीवरी बैकपैक पहने हुए।",
+        "subject": "इंसुलेटेड प्लेटफ़ॉर्म डिलीवरी बैग के साथ खाना-डिलीवरी कूरियर (गैर-Grab)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "عامل توصيل طعام يرتدي سترة وخوذة Foodpanda وردية على دراجة نارية من نوع underbone (kapcai) يحمل صندوق توصيل Foodpanda معزولًا كبيرًا ورديًا بينما يتوقف في زحام الشارع.",
+        "subject": "عامل توصيل طعام على دراجة نارية من Foodpanda مع صندوق توصيل معزول وردي (عمل منصّات مثال؛ غير Grab)"
+      },
+      {
+        "alt": "عامل توصيل طعام عبر منصّة يقف على الرصيف مرتديًا حقيبة ظهر كبيرة معزولة لتوصيل الطعام.",
+        "subject": "عامل توصيل طعام بحقيبة توصيل معزولة لمنصّة (غير Grab)"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un repartidor de comida con chaqueta y casco rosa de Foodpanda sobre una motocicleta tipo underbone (kapcai), que lleva una gran caja de reparto térmica rosa de Foodpanda mientras está detenido en el tráfico.",
+        "subject": "Repartidor de comida en moto de Foodpanda con caja de reparto térmica rosa (trabajo representativo de plataformas gig; no Grab)"
+      },
+      {
+        "alt": "Un repartidor de comida de plataforma de pie en la acera con una gran mochila térmica de reparto de comida.",
+        "subject": "Repartidor de comida con una bolsa térmica de reparto de plataforma (no Grab)"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un livreur de repas en veste et casque roses Foodpanda sur une motocyclette de type underbone (kapcai), transportant une grande caisse de livraison isotherme rose Foodpanda, arrêté dans la circulation.",
+        "subject": "Livreur de repas à moto Foodpanda avec caisse de livraison isotherme rose (travail de plateforme représentatif ; hors Grab)"
+      },
+      {
+        "alt": "Un livreur de repas de plateforme debout sur le trottoir, portant un grand sac à dos isotherme de livraison de repas.",
+        "subject": "Livreur de repas avec un sac de livraison isotherme de plateforme (hors Grab)"
+      }
+    ]
+  },
+  "industries/global-business-services-industry": {
+    "zh": [
+      {
+        "alt": "马来西亚雪兰莪赛城商业园区内一栋现代化的玻璃与混凝土多层企业办公楼。",
+        "subject": "马来西亚全球服务枢纽赛城的企业办公楼"
+      },
+      {
+        "alt": "一个超大型开放式呼叫中心楼面上，一排排客服专员坐在电脑工位前。",
+        "subject": "大型呼叫中心办公楼面（代表性的共享服务／BPO工作场所）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マレーシア・スランゴール州のサイバージャヤ・ビジネスパークにある、現代的なガラスとコンクリート造の中層企業オフィスビル。",
+        "subject": "マレーシアのグローバルサービス拠点サイバージャヤの企業オフィスビル"
+      },
+      {
+        "alt": "非常に大きなオープンプランのコールセンターフロアで、コンピューターの作業席に並ぶオペレーターたち。",
+        "subject": "大規模なコールセンターのオフィスフロア（シェアードサービス／BPO職場の代表例）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "말레이시아 슬랑오르주 사이버자야 비즈니스 파크에 있는 현대적인 유리·콘크리트 중층 기업 사무 건물.",
+        "subject": "말레이시아 글로벌 서비스 거점 사이버자야의 기업 사무 건물"
+      },
+      {
+        "alt": "매우 넓은 개방형 콜센터 플로어에 컴퓨터 작업석마다 줄지어 앉은 상담원들.",
+        "subject": "대형 콜센터 사무 플로어(공유 서비스/BPO 작업장의 대표 사례)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารสำนักงานบริษัทระดับกลางสมัยใหม่ที่ทำจากกระจกและคอนกรีตในนิคมธุรกิจไซเบอร์จายา รัฐเซอลาโงร์ ประเทศมาเลเซีย",
+        "subject": "อาคารสำนักงานบริษัทในไซเบอร์จายา ศูนย์กลางบริการระดับโลกของมาเลเซีย"
+      },
+      {
+        "alt": "เจ้าหน้าที่นั่งประจำสถานีงานคอมพิวเตอร์เรียงเป็นแถวทั่วพื้นที่คอลเซ็นเตอร์แบบเปิดโล่งขนาดใหญ่มาก",
+        "subject": "พื้นที่สำนักงานคอลเซ็นเตอร์ขนาดใหญ่ (ตัวอย่างสถานที่ทำงานบริการร่วม/BPO)"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah bangunan pejabat korporat kaca dan konkrit bertingkat sederhana yang moden di taman perniagaan Cyberjaya, Selangor, Malaysia.",
+        "subject": "Bangunan pejabat korporat di Cyberjaya, hab perkhidmatan global Malaysia"
+      },
+      {
+        "alt": "Deretan ejen di stesen kerja komputer di seluruh ruang pusat panggilan pelan terbuka yang sangat besar.",
+        "subject": "Ruang pejabat pusat panggilan yang besar (mewakili tempat kerja perkhidmatan dikongsi/BPO)"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah gedung kantor korporat kaca dan beton bertingkat sedang yang modern di kawasan bisnis Cyberjaya, Selangor, Malaysia.",
+        "subject": "Gedung kantor korporat di Cyberjaya, pusat layanan global Malaysia"
+      },
+      {
+        "alt": "Deretan agen di stasiun kerja komputer di seluruh lantai pusat panggilan berdenah terbuka yang sangat besar.",
+        "subject": "Lantai kantor pusat panggilan yang besar (mewakili tempat kerja layanan bersama/BPO)"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một tòa nhà văn phòng doanh nghiệp bằng kính và bê tông tầm trung hiện đại trong khu kinh doanh Cyberjaya, Selangor, Malaysia.",
+        "subject": "Tòa nhà văn phòng doanh nghiệp ở Cyberjaya, trung tâm dịch vụ toàn cầu của Malaysia"
+      },
+      {
+        "alt": "Những dãy nhân viên tại các bàn làm việc máy tính trên khắp một sàn tổng đài không gian mở rất lớn.",
+        "subject": "Sàn văn phòng tổng đài lớn (minh họa nơi làm việc dịch vụ dùng chung/BPO)"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "மலேசியா, சிலாங்கூர், சைபர்ஜெயா வணிகப் பூங்காவில் கண்ணாடி மற்றும் கான்கிரீட்டால் ஆன நவீன நடுத்தர-உயர நிறுவன அலுவலகக் கட்டிடம்.",
+        "subject": "மலேசியாவின் உலகளாவிய சேவை மையமான சைபர்ஜெயாவில் ஒரு நிறுவன அலுவலகக் கட்டிடம்"
+      },
+      {
+        "alt": "மிகப் பெரிய திறந்த-வடிவமைப்பு அழைப்பு மையத் தளம் முழுவதும் கணினி பணிநிலையங்களில் முகவர்களின் வரிசைகள்.",
+        "subject": "பெரிய அழைப்பு மைய அலுவலகத் தளம் (பகிர்-சேவை/BPO பணியிடத்தை பிரதிநிதித்துவப்படுத்துகிறது)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "मलेशिया के सेलांगोर स्थित साइबरजया बिज़नेस पार्क में काँच और कंक्रीट की एक आधुनिक मध्यम-ऊँचाई की कॉर्पोरेट कार्यालय इमारत।",
+        "subject": "मलेशिया के वैश्विक-सेवा केंद्र साइबरजया में कॉर्पोरेट कार्यालय इमारत"
+      },
+      {
+        "alt": "एक बहुत बड़े खुले-लेआउट कॉल-सेंटर फ़्लोर पर कंप्यूटर वर्कस्टेशनों पर एजेंटों की कतारें।",
+        "subject": "बड़ा कॉल-सेंटर कार्यालय फ़्लोर (प्रतिनिधि साझा-सेवा/BPO कार्यस्थल)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مبنى مكاتب شركات حديث متوسط الارتفاع من الزجاج والخرسانة في مجمّع Cyberjaya للأعمال، Selangor، ماليزيا.",
+        "subject": "مبنى مكاتب شركات في Cyberjaya، مركز الخدمات العالمية في ماليزيا"
+      },
+      {
+        "alt": "صفوف من الموظفين على محطات عمل حاسوبية في أرضية مركز اتصال واسعة جدًا مفتوحة التصميم.",
+        "subject": "أرضية مكتب مركز اتصال كبير (مكان عمل مثال للخدمات المشتركة/BPO)"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un moderno edificio de oficinas corporativas de altura media, de vidrio y hormigón, en el parque empresarial de Cyberjaya, Selangor, Malasia.",
+        "subject": "Edificio de oficinas corporativas en Cyberjaya, el centro de servicios globales de Malasia"
+      },
+      {
+        "alt": "Filas de agentes en puestos de trabajo con ordenador a lo largo de una planta de centro de llamadas muy amplia y diáfana.",
+        "subject": "Amplia planta de oficinas de un centro de llamadas (lugar de trabajo representativo de servicios compartidos/BPO)"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un immeuble de bureaux d'entreprise moderne de hauteur moyenne, en verre et en béton, dans le parc d'affaires de Cyberjaya, dans le Selangor, en Malaisie.",
+        "subject": "Immeuble de bureaux d'entreprise à Cyberjaya, pôle de services mondiaux de la Malaisie"
+      },
+      {
+        "alt": "Des rangées d'agents à des postes de travail informatiques sur un très vaste plateau de centre d'appels en open space.",
+        "subject": "Vaste plateau de bureaux d'un centre d'appels (lieu de travail représentatif des services partagés/BPO)"
+      }
+    ]
+  },
+  "industries/logistics-ports-industry": {
+    "zh": [
+      {
+        "alt": "在马来西亚砂拉越民都鲁国际集装箱码头，一台轮胎式龙门起重机横跨在一排排堆叠的集装箱之上。",
+        "subject": "马来西亚砂拉越民都鲁国际集装箱码头跨越堆叠集装箱的轮胎式龙门起重机"
+      },
+      {
+        "alt": "色彩斑斓的集装箱堆叠在停泊于马来西亚雪兰莪巴生港一艘集装箱船的甲板上。",
+        "subject": "马来西亚巴生港一艘船上装载的集装箱"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マレーシア・サラワク州ビントゥル国際コンテナターミナルで、積み上げられたコンテナの列をまたぐラバータイヤ式ガントリークレーン。",
+        "subject": "マレーシア・サラワク州ビントゥル国際コンテナターミナルで積み上げられたコンテナをまたぐラバータイヤ式ガントリークレーン"
+      },
+      {
+        "alt": "マレーシア・スランゴール州ポートクランに接岸したコンテナ船の甲板に積み上げられた色とりどりのコンテナ。",
+        "subject": "マレーシア・ポートクランで船に積み込まれたコンテナ"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "말레이시아 사라왁주 빈툴루 국제 컨테이너 터미널에서 줄지어 쌓인 컨테이너 위를 가로지르는 고무 타이어 갠트리 크레인.",
+        "subject": "말레이시아 사라왁주 빈툴루 국제 컨테이너 터미널에서 쌓인 컨테이너 위를 가로지르는 고무 타이어 갠트리 크레인"
+      },
+      {
+        "alt": "말레이시아 슬랑오르주 포트클랑에 정박한 컨테이너선 갑판에 쌓인 알록달록한 컨테이너들.",
+        "subject": "말레이시아 포트클랑에서 선박에 실린 컨테이너들"
+      }
+    ],
+    "th": [
+      {
+        "alt": "เครนคานล้อยางคร่อมแถวตู้คอนเทนเนอร์ที่วางซ้อนกันที่ท่าเทียบเรือตู้สินค้านานาชาติบินตูลู รัฐซาราวัก ประเทศมาเลเซีย",
+        "subject": "เครนคานล้อยางคร่อมตู้คอนเทนเนอร์ที่ท่าเทียบเรือตู้สินค้านานาชาติบินตูลู รัฐซาราวัก ประเทศมาเลเซีย"
+      },
+      {
+        "alt": "ตู้คอนเทนเนอร์หลากสีวางซ้อนกันบนดาดฟ้าเรือบรรทุกตู้สินค้าที่เทียบท่าที่ท่าเรือกลัง รัฐเซอลาโงร์ ประเทศมาเลเซีย",
+        "subject": "ตู้คอนเทนเนอร์ที่บรรทุกบนเรือที่ท่าเรือกลัง ประเทศมาเลเซีย"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah kren gantri bertayar getah mengangkangi deretan kontena penghantaran bertindan di Terminal Kontena Antarabangsa Bintulu, Sarawak.",
+        "subject": "Kren gantri bertayar getah di atas kontena bertindan di Terminal Kontena Antarabangsa Bintulu, Sarawak, Malaysia"
+      },
+      {
+        "alt": "Kontena penghantaran berwarna-warni bertindan di atas dek sebuah kapal kontena yang berlabuh di Pelabuhan Klang, Selangor, Malaysia.",
+        "subject": "Kontena penghantaran dimuatkan di atas kapal di Pelabuhan Klang, Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah derek gantri ban karet mengangkangi deretan peti kemas pengiriman yang bertumpuk di Terminal Peti Kemas Internasional Bintulu, Sarawak.",
+        "subject": "Derek gantri ban karet di atas peti kemas bertumpuk di Terminal Peti Kemas Internasional Bintulu, Sarawak, Malaysia"
+      },
+      {
+        "alt": "Peti kemas pengiriman berwarna-warni bertumpuk di atas dek sebuah kapal peti kemas yang bersandar di Pelabuhan Klang, Selangor, Malaysia.",
+        "subject": "Peti kemas dimuat di atas kapal di Pelabuhan Klang, Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một cần cẩu giàn bánh lốp cao su đứng dạng trên các hàng container vận chuyển xếp chồng tại Cảng Container Quốc tế Bintulu, Sarawak.",
+        "subject": "Cẩu giàn bánh lốp cao su trên các container xếp chồng tại Cảng Container Quốc tế Bintulu, Sarawak, Malaysia"
+      },
+      {
+        "alt": "Những container vận chuyển đầy màu sắc xếp chồng trên boong một con tàu container đang cập bến tại Cảng Klang, Selangor, Malaysia.",
+        "subject": "Container được xếp lên tàu tại Cảng Klang, Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "சரவாக், பிந்துலு சர்வதேச கொள்கலன் முனையத்தில் அடுக்கப்பட்ட கப்பல் கொள்கலன் வரிசைகளை ஒரு ரப்பர் டயர் கேன்ட்ரி கிரேன் இரு பக்கமும் தாண்டி நிற்கிறது.",
+        "subject": "மலேசியா, சரவாக், பிந்துலு சர்வதேச கொள்கலன் முனையத்தில் அடுக்கப்பட்ட கொள்கலன்களுக்கு மேல் ரப்பர் டயர் கேன்ட்ரி கிரேன்"
+      },
+      {
+        "alt": "மலேசியா, சிலாங்கூர், போர்ட் கிளாங்கில் நங்கூரமிட்ட ஒரு கொள்கலன் கப்பலின் தளத்தில் அடுக்கப்பட்ட வண்ணமயமான கப்பல் கொள்கலன்கள்.",
+        "subject": "மலேசியா, போர்ட் கிளாங்கில் ஒரு கப்பலில் ஏற்றப்பட்ட கப்பல் கொள்கலன்கள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "सरवाक के बिंटुलु इंटरनेशनल कंटेनर टर्मिनल पर ढेर किए गए शिपिंग कंटेनरों की कतारों को ढकती एक रबर-टायर वाली गैंट्री क्रेन।",
+        "subject": "बिंटुलु इंटरनेशनल कंटेनर टर्मिनल, सरवाक, मलेशिया में ढेर किए गए कंटेनरों पर रबर-टायर वाली गैंट्री क्रेन"
+      },
+      {
+        "alt": "मलेशिया के सेलांगोर स्थित पोर्ट क्लांग पर लंगर डाले एक कंटेनर जहाज़ के डेक पर ढेर किए गए रंगबिरंगे शिपिंग कंटेनर।",
+        "subject": "पोर्ट क्लांग, मलेशिया में एक जहाज़ पर लदे शिपिंग कंटेनर"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "رافعة جسرية بإطارات مطاطية تمتدّ فوق صفوف من حاويات الشحن المكدّسة في Bintulu International Container Terminal، Sarawak.",
+        "subject": "رافعة جسرية بإطارات مطاطية فوق حاويات مكدّسة في Bintulu International Container Terminal، Sarawak، ماليزيا"
+      },
+      {
+        "alt": "حاويات شحن ملوّنة مكدّسة على سطح سفينة حاويات راسية في Port Klang، Selangor، ماليزيا.",
+        "subject": "حاويات شحن محمّلة على سفينة في Port Klang، ماليزيا"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una grúa pórtico sobre neumáticos a horcajadas sobre filas de contenedores de transporte apilados en la Terminal Internacional de Contenedores de Bintulu, en Sarawak.",
+        "subject": "Grúa pórtico sobre neumáticos sobre contenedores apilados en la Terminal Internacional de Contenedores de Bintulu, Sarawak, Malasia"
+      },
+      {
+        "alt": "Coloridos contenedores de transporte apilados en la cubierta de un buque portacontenedores atracado en Port Klang, Selangor, Malasia.",
+        "subject": "Contenedores de transporte cargados en un buque en Port Klang, Malasia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un portique sur pneus enjambant des rangées de conteneurs de transport empilés au Bintulu International Container Terminal, dans le Sarawak.",
+        "subject": "Portique sur pneus au-dessus de conteneurs empilés au Bintulu International Container Terminal, Sarawak, Malaisie"
+      },
+      {
+        "alt": "Des conteneurs de transport colorés empilés sur le pont d'un porte-conteneurs à quai à Port Klang, dans le Selangor, en Malaisie.",
+        "subject": "Conteneurs de transport chargés sur un navire à Port Klang, Malaisie"
+      }
+    ]
+  },
+  "industries/machinery-equipment-industry": {
+    "zh": [
+      {
+        "alt": "一座大型工业制造车间内，排列着部分组装完成的黄色重型工程机械。",
+        "subject": "重型机械制造厂（代表性的工业机械生产）"
+      },
+      {
+        "alt": "重型设备工厂内一条自动化机器人焊接生产线正在装配线上焊接大型钢板。",
+        "subject": "重型设备工厂内的机器人焊接装配线（代表性）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "大型の産業用製造ホール内に並べられた、組み立て途中の黄色い大型建設機械。",
+        "subject": "重機械製造工場（産業機械生産の代表例）"
+      },
+      {
+        "alt": "重機工場内の組立ラインで大型鋼板を接合する自動ロボット溶接ライン。",
+        "subject": "重機工場内のロボット溶接組立ライン（代表例）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "대형 산업 제조 홀 안에 늘어선 부분 조립된 노란색 중장비 건설 기계들.",
+        "subject": "중장비 제조 공장(산업 기계 생산의 대표 사례)"
+      },
+      {
+        "alt": "중장비 공장 내 조립 라인에서 대형 강판을 접합하는 자동 로봇 용접 라인.",
+        "subject": "중장비 공장 내 로봇 용접 조립 라인(대표 사례)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "เครื่องจักรก่อสร้างหนักสีเหลืองที่ประกอบบางส่วนเรียงรายอยู่ภายในโรงงานผลิตอุตสาหกรรมขนาดใหญ่",
+        "subject": "โรงงานผลิตเครื่องจักรหนัก (ตัวอย่างการผลิตเครื่องจักรอุตสาหกรรม)"
+      },
+      {
+        "alt": "สายการเชื่อมด้วยหุ่นยนต์อัตโนมัติเชื่อมแผ่นเหล็กขนาดใหญ่บนสายการประกอบภายในโรงงานอุปกรณ์หนัก",
+        "subject": "สายการประกอบด้วยการเชื่อมด้วยหุ่นยนต์ในโรงงานอุปกรณ์หนัก (ตัวอย่าง)"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Jentera pembinaan berat berwarna kuning yang separa dipasang berbaris di dalam sebuah dewan pembuatan industri yang besar.",
+        "subject": "Loji pembuatan jentera berat (mewakili pengeluaran jentera industri)"
+      },
+      {
+        "alt": "Sebuah barisan kimpalan robotik automatik menyambung panel keluli besar pada talian pemasangan di dalam sebuah kilang peralatan berat.",
+        "subject": "Barisan pemasangan kimpalan robotik di sebuah kilang peralatan berat (mewakili)"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Mesin konstruksi berat berwarna kuning yang sebagian terakit berjajar di dalam sebuah aula manufaktur industri yang besar.",
+        "subject": "Pabrik pembuatan mesin berat (mewakili produksi mesin industri)"
+      },
+      {
+        "alt": "Sebuah lini pengelasan robotik otomatis menyambung panel baja besar pada lini perakitan di dalam sebuah pabrik alat berat.",
+        "subject": "Lini perakitan pengelasan robotik di sebuah pabrik alat berat (mewakili)"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những cỗ máy xây dựng hạng nặng màu vàng được lắp ráp một phần xếp hàng bên trong một xưởng sản xuất công nghiệp lớn.",
+        "subject": "Nhà máy sản xuất máy móc hạng nặng (minh họa sản xuất máy móc công nghiệp)"
+      },
+      {
+        "alt": "Một dây chuyền hàn robot tự động nối các tấm thép lớn trên dây chuyền lắp ráp bên trong một nhà máy thiết bị hạng nặng.",
+        "subject": "Dây chuyền lắp ráp hàn robot trong một nhà máy thiết bị hạng nặng (minh họa)"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஒரு பெரிய தொழில்துறை உற்பத்திக் கூடத்தின் உள்ளே பகுதியாக அசெம்பிள் செய்யப்பட்ட மஞ்சள் கன கட்டுமான இயந்திரங்கள் வரிசையாக நிற்கின்றன.",
+        "subject": "கன இயந்திர உற்பத்தி ஆலை (தொழில்துறை இயந்திர உற்பத்தியை பிரதிநிதித்துவப்படுத்துகிறது)"
+      },
+      {
+        "alt": "ஒரு கன உபகரண தொழிற்சாலையின் உள்ளே தானியங்கி ரோபோ வெல்டிங் வரிசை ஒன்று அசெம்பிளி வரிசையில் பெரிய எஃகு பலகைகளை இணைக்கிறது.",
+        "subject": "கன உபகரண தொழிற்சாலையில் ரோபோ வெல்டிங் அசெம்பிளி வரிசை (பிரதிநிதித்துவம்)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक बड़े औद्योगिक विनिर्माण हॉल के अंदर कतार में खड़ी आंशिक रूप से असेंबल की गई पीली भारी निर्माण मशीनरी।",
+        "subject": "भारी-मशीनरी विनिर्माण संयंत्र (प्रतिनिधि औद्योगिक मशीनरी उत्पादन)"
+      },
+      {
+        "alt": "एक भारी-उपकरण कारखाने के अंदर असेंबली लाइन पर बड़े स्टील पैनलों को जोड़ती एक स्वचालित रोबोटिक वेल्डिंग लाइन।",
+        "subject": "एक भारी-उपकरण कारखाने में रोबोटिक वेल्डिंग असेंबली लाइन (प्रतिनिधि)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "آلات إنشاء ثقيلة صفراء مجمّعة جزئيًا مصطفّة داخل قاعة تصنيع صناعية كبيرة.",
+        "subject": "مصنع لتصنيع الآلات الثقيلة (مثال لإنتاج الآلات الصناعية)"
+      },
+      {
+        "alt": "خط لحام روبوتي آلي يصل ألواحًا فولاذية كبيرة على خط تجميع داخل مصنع للمعدّات الثقيلة.",
+        "subject": "خط تجميع لحام روبوتي في مصنع للمعدّات الثقيلة (مثال)"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Maquinaria pesada de construcción, amarilla y parcialmente ensamblada, alineada dentro de una gran nave de fabricación industrial.",
+        "subject": "Planta de fabricación de maquinaria pesada (producción representativa de maquinaria industrial)"
+      },
+      {
+        "alt": "Una línea de soldadura robotizada y automatizada que une grandes paneles de acero en una línea de montaje dentro de una fábrica de equipos pesados.",
+        "subject": "Línea de montaje con soldadura robotizada en una fábrica de equipos pesados (representativa)"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des engins de construction lourds jaunes, partiellement assemblés, alignés à l'intérieur d'une grande halle de fabrication industrielle.",
+        "subject": "Usine de fabrication d'engins lourds (production représentative de machines industrielles)"
+      },
+      {
+        "alt": "Une ligne de soudage robotisée et automatisée assemblant de grands panneaux d'acier sur une chaîne de montage dans une usine d'équipements lourds.",
+        "subject": "Chaîne de montage à soudage robotisé dans une usine d'équipements lourds (représentative)"
+      }
+    ]
+  },
+  "industries/media-broadcasting-industry": {
+    "zh": [
+      {
+        "alt": "直播期间，制作人员坐在电视演播室导控室内一整排监视器与调音台前。",
+        "subject": "电视直播制作期间的广播导控室（代表性）"
+      },
+      {
+        "alt": "一处配有摄像机、演播室灯光和主持人桌的电视演播室布景。",
+        "subject": "配有摄像机和主持人桌的电视演播室布景（代表性）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "生放送中、テレビスタジオの副調整室で、ずらりと並ぶモニターとミキシングデスクに向かうプロデューサーたち。",
+        "subject": "テレビの生放送制作中の副調整室（代表例）"
+      },
+      {
+        "alt": "カメラ、スタジオ照明、司会者用デスクを備えたテレビ放送スタジオのセット。",
+        "subject": "カメラと司会者用デスクのあるテレビ放送スタジオのセット（代表例）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "생방송 중 텔레비전 스튜디오 부조정실에서 줄지어 늘어선 모니터와 믹싱 데스크 앞에 앉은 제작진.",
+        "subject": "텔레비전 생방송 제작 중의 방송 부조정실(대표 사례)"
+      },
+      {
+        "alt": "카메라, 스튜디오 조명, 진행자 책상을 갖춘 텔레비전 방송 스튜디오 세트.",
+        "subject": "카메라와 진행자 책상이 있는 텔레비전 방송 스튜디오 세트(대표 사례)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "โปรดิวเซอร์ประจำแผงจอมอนิเตอร์และโต๊ะผสมสัญญาณในห้องควบคุมสตูดิโอโทรทัศน์ระหว่างการออกอากาศสด",
+        "subject": "ห้องควบคุมการออกอากาศระหว่างการผลิตรายการโทรทัศน์สด (ตัวอย่าง)"
+      },
+      {
+        "alt": "ฉากสตูดิโอออกอากาศโทรทัศน์พร้อมกล้อง ไฟสตูดิโอ และโต๊ะผู้ดำเนินรายการ",
+        "subject": "ฉากสตูดิโอออกอากาศโทรทัศน์พร้อมกล้องและโต๊ะผู้ดำเนินรายการ (ตัวอย่าง)"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Penerbit di hadapan deretan monitor dan meja pengadun di bilik kawalan studio televisyen semasa siaran langsung.",
+        "subject": "Bilik kawalan siaran semasa penerbitan televisyen langsung (mewakili)"
+      },
+      {
+        "alt": "Sebuah set studio siaran televisyen dengan kamera, pencahayaan studio dan meja juruacara.",
+        "subject": "Set studio siaran televisyen dengan kamera dan meja juruacara (mewakili)"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Para produser di depan deretan monitor dan meja mixing di ruang kendali studio televisi saat siaran langsung.",
+        "subject": "Ruang kendali siaran saat produksi televisi langsung (mewakili)"
+      },
+      {
+        "alt": "Sebuah set studio siaran televisi dengan kamera, pencahayaan studio dan meja pembawa acara.",
+        "subject": "Set studio siaran televisi dengan kamera dan meja pembawa acara (mewakili)"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Các nhà sản xuất tại dãy màn hình và bàn trộn trong phòng điều khiển của một trường quay truyền hình trong lúc phát sóng trực tiếp.",
+        "subject": "Phòng điều khiển phát sóng trong một buổi sản xuất truyền hình trực tiếp (minh họa)"
+      },
+      {
+        "alt": "Một phim trường phát sóng truyền hình với máy quay, ánh sáng trường quay và bàn người dẫn chương trình.",
+        "subject": "Phim trường phát sóng truyền hình với máy quay và bàn người dẫn chương trình (minh họa)"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "நேரடி ஒளிபரப்பின்போது ஒரு தொலைக்காட்சி ஸ்டுடியோ கட்டுப்பாட்டு அறையில் தயாரிப்பாளர்கள் மானிட்டர்கள் மற்றும் கலவை மேசைகளின் வரிசையில்.",
+        "subject": "நேரடி தொலைக்காட்சி தயாரிப்பின்போது ஒளிபரப்புக் கட்டுப்பாட்டு அறை (பிரதிநிதித்துவம்)"
+      },
+      {
+        "alt": "கேமராக்கள், ஸ்டுடியோ விளக்கு மற்றும் தொகுப்பாளர் மேசையுடன் கூடிய தொலைக்காட்சி ஒளிபரப்பு ஸ்டுடியோ அமைப்பு.",
+        "subject": "கேமராக்கள் மற்றும் தொகுப்பாளர் மேசையுடன் தொலைக்காட்சி ஒளிபரப்பு ஸ்டுடியோ அமைப்பு (பிரதிநிதித்துவம்)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक लाइव प्रसारण के दौरान एक टेलीविज़न स्टूडियो कंट्रोल रूम में मॉनिटरों और मिक्सिंग डेस्क की पंक्ति पर प्रोड्यूसर।",
+        "subject": "एक लाइव टेलीविज़न प्रोडक्शन के दौरान प्रसारण कंट्रोल रूम (प्रतिनिधि)"
+      },
+      {
+        "alt": "कैमरों, स्टूडियो प्रकाश व्यवस्था और एक प्रस्तुतकर्ता डेस्क के साथ एक टेलीविज़न प्रसारण स्टूडियो सेट।",
+        "subject": "कैमरों और प्रस्तुतकर्ता डेस्क के साथ टेलीविज़न प्रसारण स्टूडियो सेट (प्रतिनिधि)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "منتجون أمام صفّ من الشاشات وطاولات المزج في غرفة تحكّم استوديو تلفزيوني أثناء بثّ مباشر.",
+        "subject": "غرفة تحكّم بثّ أثناء إنتاج تلفزيوني مباشر (مثال)"
+      },
+      {
+        "alt": "موقع تصوير استوديو بثّ تلفزيوني يضمّ كاميرات وإضاءة استوديو وطاولة مقدّم برامج.",
+        "subject": "موقع تصوير استوديو بثّ تلفزيوني بكاميرات وطاولة مقدّم (مثال)"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Realizadores ante un conjunto de monitores y mesas de mezclas en la sala de control de un estudio de televisión durante una emisión en directo.",
+        "subject": "Sala de control de emisión durante una producción televisiva en directo (representativa)"
+      },
+      {
+        "alt": "El plató de un estudio de emisión televisiva con cámaras, iluminación de estudio y una mesa de presentador.",
+        "subject": "Plató de un estudio de emisión televisiva con cámaras y mesa de presentador (representativo)"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des réalisateurs devant une batterie d'écrans et de tables de mixage dans la régie d'un studio de télévision pendant une émission en direct.",
+        "subject": "Régie de diffusion pendant une production télévisée en direct (représentative)"
+      },
+      {
+        "alt": "Le plateau d'un studio de diffusion télévisée avec des caméras, un éclairage de studio et un bureau de présentateur.",
+        "subject": "Plateau d'un studio de diffusion télévisée avec caméras et bureau de présentateur (représentatif)"
+      }
+    ]
+  },
+  "industries/medical-devices-industry": {
+    "zh": [
+      {
+        "alt": "身穿防护服、戴着帽子的工人在一条无菌制药生产线上操作设备。",
+        "subject": "有身着无尘服工人的无菌制药／医疗产品生产线（代表医疗制造业）"
+      },
+      {
+        "alt": "医疗产品制造厂的洁净室生产线上，身着无尘服的技术人员与不锈钢设备。",
+        "subject": "医疗产品制造厂内的洁净室生产线（代表性）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "無菌の製薬生産ラインで、保護用のガウンとキャップを身につけて設備を操作する作業員たち。",
+        "subject": "ガウンを着た作業員のいる無菌の製薬／医療製品生産ライン（医療製造業の代表例）"
+      },
+      {
+        "alt": "医療製品製造施設内のクリーンルーム生産ラインにいる、ガウンを着た技術者とステンレス製の設備。",
+        "subject": "医療製品製造施設内のクリーンルーム生産ライン（代表例）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "무균 제약 생산 라인에서 보호용 가운과 모자를 착용하고 장비를 조작하는 작업자들.",
+        "subject": "가운을 입은 작업자가 있는 무균 제약/의료 제품 생산 라인(의료 제조업의 대표 사례)"
+      },
+      {
+        "alt": "의료 제품 제조 시설 내 클린룸 생산 라인의 가운을 입은 기술자들과 스테인리스강 장비.",
+        "subject": "의료 제품 제조 시설 내 클린룸 생산 라인(대표 사례)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "คนงานในชุดกาวน์และหมวกคลุมป้องกันกำลังควบคุมอุปกรณ์บนสายการผลิตยาปลอดเชื้อ",
+        "subject": "สายการผลิตยา/ผลิตภัณฑ์การแพทย์ปลอดเชื้อที่มีคนงานสวมชุดกาวน์ (ตัวอย่างการผลิตทางการแพทย์)"
+      },
+      {
+        "alt": "ช่างเทคนิคในชุดกาวน์และอุปกรณ์สเตนเลสบนสายการผลิตในห้องสะอาดภายในโรงงานผลิตผลิตภัณฑ์การแพทย์",
+        "subject": "สายการผลิตในห้องสะอาดในโรงงานผลิตผลิตภัณฑ์การแพทย์ (ตัวอย่าง)"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pekerja bergaun dan bertopi pelindung mengendalikan peralatan pada barisan pengeluaran farmaseutikal steril.",
+        "subject": "Barisan pengeluaran produk farmaseutikal/perubatan steril dengan pekerja bergaun (mewakili pembuatan perubatan)"
+      },
+      {
+        "alt": "Juruteknik bergaun dan peralatan keluli tahan karat pada barisan pengeluaran bilik bersih di dalam sebuah kemudahan pembuatan produk perubatan.",
+        "subject": "Barisan pengeluaran bilik bersih di sebuah kemudahan pembuatan produk perubatan (mewakili)"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Pekerja bergaun dan bertopi pelindung mengoperasikan peralatan pada lini produksi farmasi steril.",
+        "subject": "Lini produksi produk farmasi/medis steril dengan pekerja bergaun (mewakili manufaktur medis)"
+      },
+      {
+        "alt": "Teknisi bergaun dan peralatan baja nirkarat pada lini produksi ruang bersih di dalam sebuah fasilitas manufaktur produk medis.",
+        "subject": "Lini produksi ruang bersih di sebuah fasilitas manufaktur produk medis (mewakili)"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Công nhân mặc áo choàng và đội mũ bảo hộ vận hành thiết bị trên một dây chuyền sản xuất dược phẩm vô trùng.",
+        "subject": "Dây chuyền sản xuất dược phẩm/sản phẩm y tế vô trùng với công nhân mặc áo bảo hộ (minh họa sản xuất y tế)"
+      },
+      {
+        "alt": "Các kỹ thuật viên mặc áo bảo hộ và thiết bị bằng thép không gỉ trên một dây chuyền sản xuất phòng sạch bên trong một cơ sở sản xuất sản phẩm y tế.",
+        "subject": "Dây chuyền sản xuất phòng sạch trong một cơ sở sản xuất sản phẩm y tế (minh họa)"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பாதுகாப்பு அங்கிகளும் தொப்பிகளும் அணிந்த தொழிலாளர்கள் ஒரு மலட்டு மருந்து உற்பத்தி வரிசையில் உபகரணங்களை இயக்குகின்றனர்.",
+        "subject": "அங்கி அணிந்த தொழிலாளர்களுடன் மலட்டு மருந்து/மருத்துவ தயாரிப்பு உற்பத்தி வரிசை (மருத்துவ உற்பத்தியை பிரதிநிதித்துவப்படுத்துகிறது)"
+      },
+      {
+        "alt": "ஒரு மருத்துவ தயாரிப்பு உற்பத்தி வசதியின் உள்ளே சுத்தஅறை உற்பத்தி வரிசையில் அங்கி அணிந்த தொழில்நுட்பர்களும் துருப்பிடிக்காத எஃகு உபகரணங்களும்.",
+        "subject": "மருத்துவ தயாரிப்பு உற்பத்தி வசதியில் சுத்தஅறை உற்பத்தி வரிசை (பிரதிநிதித்துவம்)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक बाँझ फार्मास्युटिकल उत्पादन लाइन पर सुरक्षात्मक गाउन और टोपी पहने उपकरण चलाते श्रमिक।",
+        "subject": "गाउन पहने श्रमिकों के साथ बाँझ फार्मास्युटिकल/चिकित्सा-उत्पाद उत्पादन लाइन (चिकित्सा विनिर्माण का प्रतिनिधि)"
+      },
+      {
+        "alt": "एक चिकित्सा-उत्पाद विनिर्माण सुविधा के अंदर क्लीनरूम उत्पादन लाइन पर गाउन पहने तकनीशियन और स्टेनलेस-स्टील उपकरण।",
+        "subject": "एक चिकित्सा-उत्पाद विनिर्माण सुविधा में क्लीनरूम उत्पादन लाइन (प्रतिनिधि)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "عمّال يرتدون أرواب وأغطية رأس واقية يشغّلون معدّات على خطّ إنتاج دوائي معقّم.",
+        "subject": "خطّ إنتاج دوائي/منتجات طبية معقّم بعمّال مرتدين أروابًا (مثال للتصنيع الطبي)"
+      },
+      {
+        "alt": "فنّيون يرتدون أروابًا ومعدّات من الفولاذ المقاوم للصدأ على خطّ إنتاج في غرفة نظيفة داخل منشأة لتصنيع المنتجات الطبية.",
+        "subject": "خطّ إنتاج في غرفة نظيفة بمنشأة لتصنيع المنتجات الطبية (مثال)"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Trabajadores con batas y gorros de protección manejan equipos en una línea de producción farmacéutica estéril.",
+        "subject": "Línea de producción farmacéutica/de productos médicos estéril con trabajadores con bata (representativa de la fabricación médica)"
+      },
+      {
+        "alt": "Técnicos con bata y equipos de acero inoxidable en una línea de producción en sala blanca dentro de una planta de fabricación de productos médicos.",
+        "subject": "Línea de producción en sala blanca en una planta de fabricación de productos médicos (representativa)"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des travailleurs en blouses et charlottes de protection manœuvrent des équipements sur une ligne de production pharmaceutique stérile.",
+        "subject": "Ligne de production pharmaceutique/de produits médicaux stérile avec des travailleurs en blouse (représentative de la fabrication médicale)"
+      },
+      {
+        "alt": "Des techniciens en blouse et des équipements en acier inoxydable sur une ligne de production en salle blanche, dans une usine de fabrication de produits médicaux.",
+        "subject": "Ligne de production en salle blanche dans une usine de fabrication de produits médicaux (représentative)"
+      }
+    ]
+  },
+  "industries/minerals-mining-industry": {
+    "zh": [
+      {
+        "alt": "马来西亚沙巴京那巴当岸县苏考路（Jalan Sukau）一处采石场裸露的岩壁与开采作业的台阶。",
+        "subject": "马来西亚沙巴京那巴当岸县苏考路的采石场"
+      },
+      {
+        "alt": "马来西亚沙巴沙拉伦（Salarom）附近一座临时搭建的碎石厂，配有传送带和一堆堆碎石，正在加工石料。",
+        "subject": "马来西亚沙巴沙拉伦附近将石料碾碎成砾石的碎石厂（kilang batu）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マレーシア・サバ州キナバタンガン郡のジャラン・スカウにある石切場の、露出した岩壁と採掘された段々の作業面。",
+        "subject": "マレーシア・サバ州キナバタンガン郡ジャラン・スカウの石切場"
+      },
+      {
+        "alt": "マレーシア・サバ州サラロム付近で、ベルトコンベヤーと砂利の山を備え、石を加工する間に合わせの砕石場。",
+        "subject": "マレーシア・サバ州サラロム付近で石を砕いて砂利にする砕石場（kilang batu）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "말레이시아 사바주 키나바탕안 지구 잘란 수카우에 있는 채석장의 드러난 암벽과 채굴된 계단식 작업면.",
+        "subject": "말레이시아 사바주 키나바탕안 지구 잘란 수카우의 채석장"
+      },
+      {
+        "alt": "말레이시아 사바주 살라롬 인근에서 컨베이어와 자갈 더미를 갖추고 돌을 가공하는 임시 쇄석장.",
+        "subject": "말레이시아 사바주 살라롬 인근에서 돌을 부숴 자갈로 만드는 쇄석장(kilang batu)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "หน้าผาหินที่เปิดโล่งและขั้นบันไดทำงานของเหมืองหินที่จาลันซูเกา อำเภอกินาบาตางัน รัฐซาบะฮ์ ประเทศมาเลเซีย",
+        "subject": "เหมืองหินที่จาลันซูเกา อำเภอกินาบาตางัน รัฐซาบะฮ์ ประเทศมาเลเซีย"
+      },
+      {
+        "alt": "โรงบดหินแบบชั่วคราวพร้อมสายพานลำเลียงและกองกรวดกำลังแปรรูปหินใกล้ซาลารม รัฐซาบะฮ์ ประเทศมาเลเซีย",
+        "subject": "โรงบดหิน (kilang batu) ที่บดหินเป็นกรวดใกล้ซาลารม รัฐซาบะฮ์ ประเทศมาเลเซีย"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Permukaan batu yang terdedah dan teres kerja sebuah kuari batu di Jalan Sukau dalam daerah Kinabatangan, Sabah.",
+        "subject": "Kuari batu di Jalan Sukau, daerah Kinabatangan, Sabah, Malaysia"
+      },
+      {
+        "alt": "Sebuah kilang penghancur batu sementara dengan penghantar dan timbunan kerikil yang memproses batu berhampiran Salarom, Sabah, Malaysia.",
+        "subject": "Kilang batu yang menghancurkan batu menjadi kerikil berhampiran Salarom, Sabah, Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Permukaan batu yang tersingkap dan jenjang kerja sebuah tambang batu di Jalan Sukau di distrik Kinabatangan, Sabah.",
+        "subject": "Tambang batu di Jalan Sukau, distrik Kinabatangan, Sabah, Malaysia"
+      },
+      {
+        "alt": "Sebuah pabrik penghancur batu darurat dengan konveyor dan tumpukan kerikil yang mengolah batu dekat Salarom, Sabah, Malaysia.",
+        "subject": "Pabrik batu (kilang batu) yang menghancurkan batu menjadi kerikil dekat Salarom, Sabah, Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Vách đá lộ thiên và các bậc khai thác của một mỏ đá tại Jalan Sukau ở huyện Kinabatangan, Sabah.",
+        "subject": "Mỏ đá tại Jalan Sukau, huyện Kinabatangan, Sabah, Malaysia"
+      },
+      {
+        "alt": "Một nhà máy nghiền đá tạm bợ với băng tải và các đống sỏi đang chế biến đá gần Salarom, Sabah, Malaysia.",
+        "subject": "Nhà máy nghiền đá (kilang batu) nghiền đá thành sỏi gần Salarom, Sabah, Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "சபாவின் கினபட்டாங்கான் மாவட்டத்தில் ஜாலான் சுகாவில் உள்ள ஒரு கல் குவாரியின் வெளிப்பட்ட பாறை முகப்பும் வேலை செய்யப்பட்ட படிகளும்.",
+        "subject": "மலேசியா, சபா, கினபட்டாங்கான் மாவட்டம், ஜாலான் சுகாவில் கல் குவாரி"
+      },
+      {
+        "alt": "மலேசியா, சபா, சலாரோமுக்கு அருகே கன்வேயர்களும் சரளைக் குவியல்களும் கொண்ட தற்காலிக கல்-நொறுக்கும் ஆலை ஒன்று கல்லைப் பதப்படுத்துகிறது.",
+        "subject": "மலேசியா, சபா, சலாரோமுக்கு அருகே கல்லை சரளையாக நொறுக்கும் கல் ஆலை (கிலாங் பாத்து)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "साबाह के किनाबातांगान ज़िले में जालान सुकाउ पर एक पत्थर की खदान की उजागर चट्टानी सतह और खुदाई किए गए बेंच।",
+        "subject": "जालान सुकाउ, किनाबातांगान ज़िला, साबाह, मलेशिया में पत्थर की खदान"
+      },
+      {
+        "alt": "मलेशिया के साबाह में सलारोम के पास कन्वेयर और बजरी के ढेरों के साथ पत्थर को प्रसंस्कृत करती एक अस्थायी पत्थर-कुचाई मिल।",
+        "subject": "सलारोम, साबाह, मलेशिया के पास पत्थर को बजरी में कुचलती रॉक मिल (kilang batu)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "واجهة صخرية مكشوفة ومصاطب مستغَلّة لمحجر حجارة في Jalan Sukau بمنطقة Kinabatangan في Sabah.",
+        "subject": "محجر حجارة في Jalan Sukau، منطقة Kinabatangan، Sabah، ماليزيا"
+      },
+      {
+        "alt": "مطحنة حجارة مؤقّتة مزوّدة بسيور ناقلة وأكوام من الحصى تعالج الحجارة قرب Salarom، Sabah، ماليزيا.",
+        "subject": "مطحنة حجارة (kilang batu) تسحق الحجر إلى حصى قرب Salarom، Sabah، ماليزيا"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un frente rocoso expuesto y los bancos trabajados de una cantera de piedra en Jalan Sukau, en el distrito de Kinabatangan, Sabah.",
+        "subject": "Cantera de roca en Jalan Sukau, distrito de Kinabatangan, Sabah, Malasia"
+      },
+      {
+        "alt": "Un molino improvisado de trituración de piedra, con cintas transportadoras y montones de grava, procesando roca cerca de Salarom, Sabah, Malasia.",
+        "subject": "Molino de piedra (kilang batu) triturando roca en grava cerca de Salarom, Sabah, Malasia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un front rocheux à nu et les gradins exploités d'une carrière de pierre à Jalan Sukau, dans le district de Kinabatangan, dans le Sabah.",
+        "subject": "Carrière de roche à Jalan Sukau, district de Kinabatangan, Sabah, Malaisie"
+      },
+      {
+        "alt": "Un concasseur de pierre de fortune, avec convoyeurs et tas de gravier, traitant de la roche près de Salarom, dans le Sabah, en Malaisie.",
+        "subject": "Concasseur de pierre (kilang batu) broyant la roche en gravier près de Salarom, Sabah, Malaisie"
+      }
+    ]
+  },
+  "industries/pepper-industry": {
+    "zh": [
+      {
+        "alt": "一株胡椒植物的特写，数串下垂的穗上密密地缀满圆润的绿色胡椒粒，衬以宽大油亮的深绿色叶片，背景是一片模糊的绿色农园",
+        "subject": "在马来西亚胡椒产业核心地带砂拉越的一座胡椒农园，黑胡椒植株上一串串绿色胡椒粒结成长穗渐渐成熟垂挂着"
+      },
+      {
+        "alt": "一处刷白的屋顶，边缘围着低矮的栏杆，上面摆放着数个方形网筛，筛中铺晒着深色的胡椒粒，背后蕉树、椰树与林木覆盖的山丘在蓝天下连绵起伏",
+        "subject": "收获的胡椒粒摊放在屋顶的网筛上日晒，这一晾晒阶段将绿色浆果转化为黑胡椒"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "コショウの木のクローズアップ。丸い緑色の実がびっしりと連なって垂れ下がる数本の穂が、大きく光沢のある濃緑の葉に縁取られ、奥にはぼやけた緑の農園が広がる。",
+        "subject": "マレーシアのコショウ産業の中心地サラワクのコショウ農園で、黒コショウの木に長い穂をなして垂れ下がり、熟しつつある緑色のコショウの実の房"
+      },
+      {
+        "alt": "低い手すりで縁取られた白塗りの屋上に、濃い色の乾燥中のコショウの実を敷いた四角いメッシュのトレイがいくつも並べられ、背後にはバナナやヤシの木、青空の下に森に覆われた丘が連なる。",
+        "subject": "収穫したコショウの実を屋上のメッシュトレイに広げて天日干しする、緑色の実を黒コショウへと変える乾燥工程"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "후추나무의 클로즈업으로, 둥근 초록 후추 열매가 빽빽이 달린 채 늘어진 여러 이삭이 크고 윤기 나는 짙은 녹색 잎에 둘러싸여 있고, 뒤로는 흐릿한 초록빛 농원이 펼쳐져 있다",
+        "subject": "말레이시아 후추 산업의 중심지 사라왁의 한 후추 농원에서, 검은 후추나무에 긴 이삭을 이루며 익어 가는 초록 후추 열매 송이들이 늘어져 있는 모습"
+      },
+      {
+        "alt": "낮은 난간으로 둘러싸인 흰색으로 칠한 옥상에 짙은 색으로 말라 가는 후추 열매를 담은 네모난 그물 쟁반 여러 개가 펼쳐져 있고, 뒤로는 바나나와 야자나무, 푸른 하늘 아래 숲으로 덮인 언덕이 솟아 있다",
+        "subject": "수확한 후추 열매를 옥상의 그물 쟁반에 펼쳐 햇볕에 말리는 모습으로, 초록 열매를 검은 후추로 바꾸는 건조 단계"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ภาพระยะใกล้ของต้นพริกไทยที่มีช่อห้อยลงหลายช่อร้อยด้วยเม็ดพริกไทยสีเขียวทรงกลมอย่างหนาแน่น ขนาบด้วยใบสีเขียวเข้มเป็นมันขนาดใหญ่ โดยมีสวนสีเขียวเบลอเป็นฉากหลัง",
+        "subject": "ช่อเม็ดพริกไทยสีเขียวที่กำลังสุกห้อยเป็นช่อยาวบนต้นพริกไทยดำที่สวนพริกไทยในรัฐซาราวัก ใจกลางอุตสาหกรรมพริกไทยของมาเลเซีย"
+      },
+      {
+        "alt": "ดาดฟ้าทาสีขาวมีราวเตี้ยกั้นขอบ มีถาดตาข่ายทรงสี่เหลี่ยมหลายใบวางเม็ดพริกไทยสีเข้มตากแห้งอยู่ มีต้นกล้วยและต้นมะพร้าวและเนินเขาที่ปกคลุมด้วยป่าทอดยาวอยู่เบื้องหลังใต้ท้องฟ้าสีคราม",
+        "subject": "เม็ดพริกไทยที่เก็บเกี่ยวแล้วนำมาตากแดดบนถาดตาข่ายบนดาดฟ้า ขั้นตอนการตากแห้งที่เปลี่ยนผลสีเขียวให้กลายเป็นพริกไทยดำ"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pandangan dekat sebuah pokok lada dengan beberapa tandan merunduk yang padat dengan biji lada hijau bulat, dibingkai oleh daun hijau gelap berkilat yang besar, dengan latar ladang hijau yang kabur",
+        "subject": "gugusan biji lada hijau yang semakin masak tergantung dalam tandan panjang pada pokok lada hitam di sebuah ladang lada di Sarawak, nadi industri lada Malaysia"
+      },
+      {
+        "alt": "Sebuah bumbung bercat putih yang dibatasi susur tangan rendah dengan beberapa dulang jaring segi empat berisi biji lada gelap yang sedang dikeringkan, pokok pisang dan kelapa serta bukit berhutan menjulang di belakang di bawah langit biru",
+        "subject": "biji lada yang dituai dibiarkan kering di bawah matahari di atas dulang jaring pada bumbung, peringkat pengeringan yang menukar beri hijau menjadi lada hitam"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Foto dekat sebuah tanaman lada dengan beberapa malai merunduk yang padat berisi butir lada hijau bulat, dibingkai oleh daun hijau tua mengilap yang besar, dengan latar kebun hijau yang buram",
+        "subject": "gugus lada hitam hijau yang mulai matang menggantung dalam malai panjang pada tanaman lada hitam di sebuah kebun lada di Sarawak, jantung industri lada Malaysia"
+      },
+      {
+        "alt": "Sebuah atap bercat putih yang dibatasi pagar rendah dengan beberapa nampan jaring persegi berisi butir lada gelap yang sedang dijemur, pohon pisang dan kelapa serta bukit berhutan menjulang di belakang di bawah langit biru",
+        "subject": "butir lada hasil panen dihamparkan untuk dijemur di bawah matahari di atas nampan jaring di sebuah atap, tahap pengeringan yang mengubah buah hijau menjadi lada hitam"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Cận cảnh một cây tiêu với nhiều gié rủ xuống dày đặc những hạt tiêu xanh tròn, được bao quanh bởi những chiếc lá lớn xanh đậm bóng, với phông nền trang trại xanh mờ phía xa",
+        "subject": "những chùm hạt tiêu xanh đang chín treo thành các gié dài trên một cây tiêu đen tại một trang trại tiêu ở Sarawak, trái tim của ngành hồ tiêu Malaysia"
+      },
+      {
+        "alt": "Một sân thượng quét vôi trắng viền bởi lan can thấp, trên đó bày nhiều khay lưới vuông đựng hạt tiêu sẫm màu đang phơi khô, phía sau là cây chuối, cây dừa và những ngọn đồi rừng vươn lên dưới bầu trời xanh",
+        "subject": "những hạt tiêu đã thu hoạch được trải ra phơi nắng trên các khay lưới trên sân thượng, công đoạn phơi khô biến quả xanh thành hạt tiêu đen"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பல தொங்கும் கதிர்கள் வட்ட வடிவ பச்சை மிளகுகளால் அடர்த்தியாக நிறைந்த ஒரு மிளகுச் செடியின் நெருக்கமான காட்சி, பெரிய பளபளப்பான கரும்பச்சை இலைகளால் சூழப்பட்டு, பின்னணியில் மங்கலான பச்சைப் பண்ணையுடன்",
+        "subject": "மலேசியாவின் மிளகுத் தொழிலின் இதயமான சரவாக்கில் உள்ள ஒரு மிளகுப் பண்ணையில், கருமிளகுச் செடியில் நீண்ட கதிர்களாகத் தொங்கும் பழுத்துவரும் பச்சை மிளகுக் கொத்துகள்"
+      },
+      {
+        "alt": "குறைந்த தடுப்புச் சுவரால் விளிம்பிடப்பட்ட வெள்ளையடிக்கப்பட்ட கூரையில் பல சதுர வலைத் தட்டுகளில் கரும் மிளகுகள் உலர்த்தப் பரப்பப்பட்டுள்ளன, பின்னால் வாழை, தென்னை மரங்களும் காடு சூழ்ந்த குன்றுகளும் நீல வானத்தின் கீழ் உயர்ந்து நிற்கின்றன",
+        "subject": "அறுவடை செய்யப்பட்ட மிளகுகள் ஒரு கூரையின் மேல் வலைத் தட்டுகளில் வெயிலில் உலர்த்தப் பரப்பப்பட்டுள்ளன, பச்சை பழங்களைக் கருமிளகாக மாற்றும் உலர்த்தும் நிலை"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कई झुकती बालियों वाले एक काली मिर्च के पौधे का क्लोज़-अप, जिन पर घनी रूप से गोल हरी मिर्च के दाने गुँथे हैं, बड़ी चमकदार गहरे-हरे पत्तों से घिरा हुआ, पीछे एक धुँधला हरा खेत।",
+        "subject": "सरवाक के एक काली मिर्च के खेत में काली-मिर्च के पौधे पर लंबी बालियों में लटकते पकते हरे मिर्च के दानों के गुच्छे, जो मलेशिया के काली मिर्च उद्योग का केंद्र है"
+      },
+      {
+        "alt": "एक नीची मुँडेर से घिरी सफ़ेदी की हुई छत पर रखी गहरे रंग के सूखते मिर्च के दानों की कई चौकोर जालीदार ट्रे, पीछे नीले आसमान के नीचे उठते केले और नारियल के पेड़ और वनाच्छादित पहाड़ियाँ।",
+        "subject": "काटे गए मिर्च के दाने एक छत पर जालीदार ट्रे में धूप में सूखने के लिए फैलाए गए, वह सुखाने का चरण जो हरे दानों को काली मिर्च में बदल देता है"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "لقطة مقرّبة لنبتة فلفل بعدة سنابل متدلّية مرصّعة بكثافة بحبّات فلفل خضراء مستديرة، تحيط بها أوراق كبيرة لمّاعة داكنة الخضرة، وخلفها مزرعة خضراء ضبابية.",
+        "subject": "عناقيد من حبّات الفلفل الخضراء الناضجة تتدلّى في سنابل طويلة على نبتة فلفل أسود في مزرعة فلفل بـ Sarawak، قلب صناعة الفلفل في ماليزيا"
+      },
+      {
+        "alt": "سطح مطليّ بالأبيض تحيط به حاجزة منخفضة، عليه عدة صواني شبكية مربّعة من حبّات الفلفل الداكنة المفروشة للتجفيف، وخلفها أشجار موز ونخيل جوز الهند وتلال مكسوّة بالغابات ترتفع تحت سماء زرقاء.",
+        "subject": "حبّات فلفل محصودة مفروشة لتجفّ في الشمس على صواني شبكية فوق سطح، مرحلة التجفيف التي تحوّل الحبّات الخضراء إلى فلفل أسود"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Primer plano de una planta de pimienta con varias espigas colgantes densamente cuajadas de granos de pimienta verdes y redondos, enmarcada por grandes hojas lustrosas de un verde oscuro, con una granja verde difuminada al fondo.",
+        "subject": "Racimos de granos de pimienta verdes madurando en largas espigas colgantes en una planta de pimienta negra, en una finca de pimienta de Sarawak, el corazón de la industria pimentera de Malasia"
+      },
+      {
+        "alt": "Una azotea encalada bordeada por una balaustrada baja con varias bandejas de malla cuadradas de granos de pimienta oscuros secándose, con plataneras, cocoteros y colinas boscosas alzándose detrás bajo un cielo azul.",
+        "subject": "Granos de pimienta cosechados extendidos para secarse al sol en bandejas de malla sobre una azotea, la fase de secado que convierte las bayas verdes en pimienta negra"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Gros plan d'un poivrier portant plusieurs épis tombants densément garnis de grains de poivre verts et ronds, encadré de grandes feuilles luisantes vert foncé, avec une plantation verte floue en arrière-plan.",
+        "subject": "Grappes de grains de poivre verts en train de mûrir, suspendus en longs épis sur un poivrier noir dans une plantation de poivre du Sarawak, au cœur de l'industrie poivrière de la Malaisie"
+      },
+      {
+        "alt": "Un toit-terrasse blanchi à la chaux bordé d'une balustrade basse, où sont disposés plusieurs plateaux grillagés carrés de grains de poivre foncés en train de sécher, avec des bananiers, des cocotiers et des collines boisées s'élevant derrière sous un ciel bleu.",
+        "subject": "Des grains de poivre récoltés étalés pour sécher au soleil sur des plateaux grillagés sur un toit-terrasse, l'étape de séchage qui transforme les baies vertes en poivre noir"
+      }
+    ]
+  },
+  "industries/pharmaceutical-industry": {
+    "zh": [
+      {
+        "alt": "几名身穿蓝色工作服、戴着工作帽的工人围站在一张工作台旁，台上密密排列着一排排深色小药瓶，他们正逐一拿取检查，所在的明亮制药车间墙边设有玻璃门柜",
+        "subject": "身穿蓝色制服、戴着发帽的工人在制药包装部门的工作台上检查并包装一排排已灌装的药瓶"
+      },
+      {
+        "alt": "一双戴着蓝色丁腈手套、身穿白色实验服的手，正将一个透明塑料药片托盘放到一台不锈钢实验仪器上，仪器标有高温表面警示",
+        "subject": "一名戴手套的技术人员在制药质量控制实验室中将一个药片样品托盘装入检测设备"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "青い上着と帽子を着けた数名の作業員が、濃い色の小さな薬瓶がびっしりと並ぶ作業台を囲んで立ち、それらを手に取って確認している。壁際にガラス戸の棚が並ぶ明るい製薬工場の中。",
+        "subject": "製薬の包装部門で、作業台に並ぶ充填済みの薬瓶を検査し梱包する、青い制服とヘアキャップを着けた作業員たち"
+      },
+      {
+        "alt": "青いニトリル手袋と白衣をまとった両手が、高温面への注意を示す警告ラベルの貼られたステンレス製の実験器具に、透明なプラスチック製の錠剤トレイをセットしている。",
+        "subject": "製薬の品質管理実験室で、錠剤サンプルのトレイを検査装置に取り付ける手袋をはめた技術者"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "파란 상의와 모자를 쓴 작업자 여러 명이 짙은 색 작은 약병이 빽빽이 늘어선 작업대를 둘러서서 약병을 집어 확인하고 있고, 벽을 따라 유리문 수납장이 늘어선 밝은 제약 공장 안이다",
+        "subject": "제약 포장 부서의 작업대에서 줄지어 놓인 충전 완료된 약병을 검사하고 포장하는, 파란 제복과 헤어캡을 쓴 작업자들"
+      },
+      {
+        "alt": "파란 니트릴 장갑과 흰 실험복 차림의 두 손이 고온 표면 경고가 표시된 스테인리스강 실험 기기에 투명 플라스틱 알약 트레이를 올려놓고 있다",
+        "subject": "제약 품질관리 실험실에서 알약 샘플 트레이를 검사 장비에 장착하는 장갑 낀 기술자"
+      }
+    ],
+    "th": [
+      {
+        "alt": "คนงานหลายคนในเสื้อคลุมและหมวกสีน้ำเงินยืนล้อมโต๊ะทำงานที่เต็มไปด้วยขวดยาสีเข้มขนาดเล็กเรียงชิดกันเป็นแถว กำลังหยิบจับและตรวจสอบ ในโรงงานยาที่สว่างซึ่งมีตู้บานกระจกเรียงตามผนัง",
+        "subject": "คนงานในเครื่องแบบสีน้ำเงินและหมวกคลุมผมกำลังตรวจสอบและบรรจุขวดยาที่กรอกแล้วเรียงเป็นแถวบนโต๊ะในแผนกบรรจุยา"
+      },
+      {
+        "alt": "มือสองข้างสวมถุงมือไนไตรล์สีน้ำเงินและเสื้อกาวน์สีขาวกำลังวางถาดพลาสติกใสบรรจุเม็ดยาลงบนเครื่องมือห้องปฏิบัติการสเตนเลสที่ติดป้ายเตือนเกี่ยวกับพื้นผิวร้อน",
+        "subject": "ช่างเทคนิคสวมถุงมือกำลังใส่ถาดตัวอย่างเม็ดยาเข้าในเครื่องตรวจสอบในห้องปฏิบัติการควบคุมคุณภาพยา"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Beberapa pekerja berkot dan bertopi biru berdiri mengelilingi meja kerja yang dipenuhi deretan rapat botol ubat kecil berwarna gelap, mengendali dan memeriksanya, di dalam sebuah loji farmaseutikal yang terang dengan kabinet bermuka kaca di sepanjang dinding",
+        "subject": "pekerja berpakaian seragam biru dan bertopi rambut memeriksa serta membungkus deretan botol ubat yang telah diisi di atas meja di bahagian pembungkusan farmaseutikal"
+      },
+      {
+        "alt": "Sepasang tangan bersarung tangan nitril biru dan berkot makmal putih meletakkan dulang plastik lutsinar berisi pil ke atas sebuah instrumen makmal keluli tahan karat yang berlabel amaran tentang permukaan panas",
+        "subject": "seorang juruteknik bersarung tangan memasukkan dulang sampel tablet ke dalam peralatan ujian di makmal kawalan mutu farmaseutikal"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Beberapa pekerja berjas dan bertopi biru berdiri mengelilingi meja kerja yang dipenuhi deretan rapat botol obat kecil berwarna gelap, menangani dan memeriksanya, di dalam sebuah pabrik farmasi yang terang dengan lemari berkaca di sepanjang dinding",
+        "subject": "pekerja berseragam biru dan bertopi rambut memeriksa serta mengemas deretan botol obat yang telah diisi di atas meja di divisi pengemasan farmasi"
+      },
+      {
+        "alt": "Sepasang tangan bersarung tangan nitril biru dan berjas lab putih menempatkan nampan plastik bening berisi pil ke atas sebuah instrumen laboratorium baja nirkarat yang berlabel peringatan tentang permukaan panas",
+        "subject": "seorang teknisi bersarung tangan memasukkan nampan sampel tablet ke dalam peralatan pengujian di laboratorium pengendalian mutu farmasi"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Vài công nhân mặc áo khoác và đội mũ màu xanh đứng quanh một bàn làm việc phủ đầy các dãy chai thuốc nhỏ sẫm màu xếp sát nhau, cầm và kiểm tra chúng, trong một nhà máy dược phẩm sáng sủa với những tủ mặt kính dọc theo tường",
+        "subject": "công nhân mặc đồng phục xanh và đội mũ trùm tóc kiểm tra và đóng gói những dãy chai thuốc đã được chiết trên bàn tại bộ phận đóng gói dược phẩm"
+      },
+      {
+        "alt": "Một đôi tay đeo găng nitrile xanh và mặc áo blouse trắng đang đặt một khay nhựa trong suốt đựng thuốc viên lên một thiết bị phòng thí nghiệm bằng thép không gỉ có dán nhãn cảnh báo về bề mặt nóng",
+        "subject": "một kỹ thuật viên đeo găng tay đưa khay mẫu viên thuốc vào thiết bị thử nghiệm trong phòng thí nghiệm kiểm soát chất lượng dược phẩm"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "நீல கோட்டுகளும் தொப்பிகளும் அணிந்த பல தொழிலாளர்கள், சிறிய கரும் மருந்து பாட்டில்களின் நெருக்கமான வரிசைகளால் நிறைந்த ஒரு வேலை மேசையைச் சுற்றி நின்று அவற்றைக் கையாண்டு சரிபார்க்கின்றனர், சுவரெங்கும் கண்ணாடி முகப்பு அலமாரிகள் கொண்ட ஒளிமயமான மருந்து ஆலையில்",
+        "subject": "நீல சீருடையும் தலை தொப்பியும் அணிந்த தொழிலாளர்கள் ஒரு மருந்துப் பொதியிடும் பிரிவில் மேசையில் நிரப்பப்பட்ட மருந்து பாட்டில் வரிசைகளை பரிசோதித்து பொதிகட்டுகின்றனர்"
+      },
+      {
+        "alt": "நீல நைட்ரைல் கையுறைகளும் வெள்ளை ஆய்வக கோட்டும் அணிந்த ஒரு ஜோடி கைகள், மாத்திரைகள் நிறைந்த தெளிவான பிளாஸ்டிக் தட்டை, சூடான மேற்பரப்புகள் பற்றிய எச்சரிக்கை பொறிக்கப்பட்ட துருப்பிடிக்காத எஃகு ஆய்வக கருவியின் மேல் வைக்கின்றன",
+        "subject": "கையுறை அணிந்த தொழில்நுட்பர் ஒருவர் மருந்து தர-கட்டுப்பாட்டு ஆய்வகத்தில் மாத்திரை மாதிரித் தட்டை சோதனை உபகரணத்தில் ஏற்றுகிறார்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "नीले कोट और टोपी पहने कई श्रमिक एक कार्यबेंच के चारों ओर खड़े हैं, जो छोटी गहरे रंग की दवा की शीशियों की सघन पंक्तियों से ढकी है, उन्हें संभालते और जाँचते हुए, एक उज्ज्वल फार्मास्युटिकल संयंत्र में जिसकी दीवार के साथ काँच-सामने वाली अलमारियाँ हैं।",
+        "subject": "एक फार्मास्युटिकल पैकिंग विभाग में नीली वर्दी और हेयर कैप पहने श्रमिक एक बेंच पर भरी हुई दवा की शीशियों की पंक्तियों का निरीक्षण और पैकिंग करते हुए"
+      },
+      {
+        "alt": "नीले नाइट्राइल दस्ताने और सफ़ेद लैब कोट में दोनों हाथ गोलियों की एक पारदर्शी प्लास्टिक ट्रे को गर्म सतहों के बारे में चेतावनी के साथ लेबल किए गए एक स्टेनलेस-स्टील प्रयोगशाला उपकरण पर रखते हुए।",
+        "subject": "एक फार्मास्युटिकल गुणवत्ता-नियंत्रण प्रयोगशाला में दस्ताने पहने एक तकनीशियन परीक्षण उपकरण में टैबलेट नमूना ट्रे लोड करते हुए"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "عدة عمّال بمعاطف وأغطية رأس زرقاء يقفون حول طاولة عمل مغطّاة بصفوف متراصّة من زجاجات دواء صغيرة داكنة، يتناولونها ويفحصونها، في مصنع أدوية ساطع الإضاءة مع خزائن زجاجية الواجهة على طول الجدار.",
+        "subject": "عمّال بزيّ أزرق وأغطية شعر يفحصون ويعبّئون صفوفًا من زجاجات الدواء المعبّأة على طاولة في قسم تعبئة بمصنع أدوية"
+      },
+      {
+        "alt": "يدان بقفّازي نتريل زرقاوين ومعطف مختبر أبيض تضعان صينية بلاستيكية شفافة من الحبوب على جهاز مختبري من الفولاذ المقاوم للصدأ عليه ملصق تحذير من الأسطح الساخنة.",
+        "subject": "فنّي يرتدي قفّازات يُدخل صينية عيّنة أقراص في جهاز فحص في مختبر مراقبة الجودة بصناعة الأدوية"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Varios trabajadores con batas y gorros azules de pie alrededor de una mesa de trabajo cubierta de filas muy juntas de pequeños frascos de medicina oscuros, manipulándolos y revisándolos, en una luminosa planta farmacéutica con vitrinas a lo largo de la pared.",
+        "subject": "Trabajadores con uniforme azul y gorros para el cabello inspeccionando y envasando filas de frascos de medicina llenos sobre una mesa en una división de envasado farmacéutico"
+      },
+      {
+        "alt": "Un par de manos con guantes de nitrilo azules y bata blanca de laboratorio colocando una bandeja de plástico transparente con pastillas sobre un instrumento de laboratorio de acero inoxidable etiquetado con una advertencia sobre superficies calientes.",
+        "subject": "Un técnico con guantes cargando una bandeja de muestra de comprimidos en un equipo de ensayo en un laboratorio farmacéutico de control de calidad"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Plusieurs travailleurs en blouses et charlottes bleues debout autour d'un établi couvert de rangées serrées de petits flacons de médicament foncés, qu'ils manipulent et vérifient, dans une usine pharmaceutique lumineuse avec des armoires vitrées le long du mur.",
+        "subject": "Des travailleurs en uniforme bleu et charlotte inspectant et conditionnant des rangées de flacons de médicament remplis sur un établi dans un service de conditionnement pharmaceutique"
+      },
+      {
+        "alt": "Une paire de mains gantées de nitrile bleu et en blouse de laboratoire blanche positionnant un plateau en plastique transparent de comprimés sur un instrument de laboratoire en acier inoxydable portant un avertissement relatif aux surfaces chaudes.",
+        "subject": "Un technicien ganté chargeant un plateau d'échantillons de comprimés dans un appareil de test dans un laboratoire pharmaceutique de contrôle qualité"
+      }
+    ]
+  },
+  "industries/plastics-packaging-industry": {
+    "zh": [
+      {
+        "alt": "一台绿色与奶白色相间的工业挤出机，顶部有一个漏斗状加料斗，一根缠绕着布线的长型水平加热机筒向右延伸，背景是蓝白相间的厂房墙壁",
+        "subject": "一条配有加料斗与加热机筒、连续成型塑料坯料的塑料挤出生产线，这是塑料与包装产业的核心工序"
+      },
+      {
+        "alt": "一捆捆压扁的透明塑料瓶被压实成大型方块，点缀着彩色瓶盖和标签，两三层高地堆放在柏油地面上，旁边是一个生锈的金属箱，背后是树木与灰色天空",
+        "subject": "一捆捆压实的碎透明PET饮料瓶，堆放待回收成新的塑料原料"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "上部に漏斗状のホッパーを備え、配線が巻かれた長い水平の加熱バレルが右へと延びる、緑とクリーム色の工業用押出成形機。青と白の工場の壁を背景に稼働している。",
+        "subject": "ホッパーと加熱バレルを備え、連続した樹脂素材を成形する、プラスチック・包装産業の中核工程であるプラスチック押出ライン"
+      },
+      {
+        "alt": "色付きのキャップやラベルが点々と混じった、押し潰された透明なプラスチックボトルの大きな直方体の梱が、さびた金属製の容器のそばのアスファルト上に2段3段と積み上げられ、背後に樹木と灰色の空が広がる。",
+        "subject": "新たなプラスチック原料へと再生するために積み上げられた、押し潰された透明なPET飲料ボトルの固く圧縮された梱"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "상단에 깔때기 모양 호퍼가 있고 배선이 감긴 긴 수평 가열 배럴이 오른쪽으로 뻗은 초록·크림색 산업용 압출 성형기가, 파랑과 흰색 공장 벽을 배경으로 가동되고 있다",
+        "subject": "호퍼와 가열 배럴을 갖추고 연속적인 플라스틱 소재를 성형하는, 플라스틱·포장 산업의 핵심 공정인 플라스틱 압출 라인"
+      },
+      {
+        "alt": "색색의 뚜껑과 라벨이 점점이 섞인, 납작하게 눌린 투명 플라스틱 병의 큰 직육면체 더미가 녹슨 금속 통 옆 아스팔트 위에 두세 단 높이로 쌓여 있고, 뒤로는 나무와 잿빛 하늘이 펼쳐져 있다",
+        "subject": "새 플라스틱 원료로 재활용하기 위해 쌓아 둔, 으깬 투명 PET 음료 병을 단단히 압축한 더미"
+      }
+    ],
+    "th": [
+      {
+        "alt": "เครื่องอัดรีดอุตสาหกรรมสีเขียวและครีมมีกรวยป้อนรูปกรวยอยู่ด้านบนและกระบอกให้ความร้อนแนวนอนยาวพันด้วยสายไฟ ทอดยาวไปทางขวา ตัดกับผนังโรงงานสีน้ำเงินและขาว",
+        "subject": "สายการอัดรีดพลาสติกที่มีกรวยป้อนและกระบอกให้ความร้อนขึ้นรูปวัสดุพลาสติกต่อเนื่อง ซึ่งเป็นกระบวนการหลักของอุตสาหกรรมพลาสติกและบรรจุภัณฑ์"
+      },
+      {
+        "alt": "ก้อนขวดพลาสติกใสบดอัดทรงลูกบาศก์ขนาดใหญ่ที่มีฝาและฉลากสีกระจายอยู่ วางซ้อนกันสองถึงสามชั้นบนพื้นยางมะตอยข้างถังโลหะเป็นสนิม มีต้นไม้และท้องฟ้าสีเทาอยู่เบื้องหลัง",
+        "subject": "ก้อนขวดเครื่องดื่ม PET ใสบดอัดแน่นวางซ้อนกันเพื่อนำไปรีไซเคิลเป็นวัตถุดิบพลาสติกใหม่"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah mesin penyemperitan industri berwarna hijau dan krim dengan hoper berbentuk corong di atasnya dan tong mendatar berpemanas yang panjang dibalut dengan pendawaian, menganjur ke arah kanan di hadapan dinding kilang biru dan putih",
+        "subject": "sebuah barisan penyemperitan plastik dengan hoper suapan dan tong berpemanas yang membentuk stok plastik berterusan, satu proses teras dalam industri plastik dan pembungkusan"
+      },
+      {
+        "alt": "Bal berbentuk kuboid besar botol plastik lut sinar yang dileperkan, berbintik penutup dan label berwarna, ditimbun dua dan tiga tinggi di atas tarmak di sebelah tong logam berkarat, dengan pokok dan langit kelabu di belakang",
+        "subject": "bal botol minuman PET jernih yang dihancurkan dan dimampatkan padat, ditimbun untuk dikitar semula menjadi bahan suapan plastik baharu"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah mesin ekstrusi industri berwarna hijau dan krem dengan corong berbentuk cerobong di atasnya dan tabung horizontal berpemanas yang panjang dibalut kabel, menjulur ke arah kanan di depan dinding pabrik biru dan putih",
+        "subject": "sebuah lini ekstrusi plastik dengan corong umpan dan tabung berpemanas yang membentuk stok plastik berkesinambungan, sebuah proses inti dalam industri plastik dan pengemasan"
+      },
+      {
+        "alt": "Bal berbentuk kubus besar berisi botol plastik transparan yang dipipihkan, berbintik tutup dan label berwarna, ditumpuk dua dan tiga tingkat di atas aspal di samping tong logam berkarat, dengan pepohonan dan langit kelabu di belakang",
+        "subject": "bal botol minuman PET bening yang dihancurkan dan dipadatkan rapat, ditumpuk untuk didaur ulang menjadi bahan baku plastik baru"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một máy đùn công nghiệp màu xanh lá và màu kem với phễu hình phễu ở phía trên và một trục gia nhiệt nằm ngang dài quấn dây điện, chạy về phía bên phải trước bức tường nhà máy xanh và trắng",
+        "subject": "một dây chuyền đùn nhựa với phễu nạp liệu và trục gia nhiệt tạo ra phôi nhựa liên tục, một công đoạn cốt lõi trong ngành nhựa và bao bì"
+      },
+      {
+        "alt": "Những kiện hình hộp lớn gồm các chai nhựa trong suốt đã ép dẹt, lấm tấm nắp và nhãn nhiều màu, chất cao hai ba lớp trên nền nhựa đường bên cạnh một thùng kim loại gỉ sét, phía sau là cây cối và bầu trời xám",
+        "subject": "những kiện chai nước uống PET trong suốt đã nghiền được nén chặt, chất đống để tái chế thành nguyên liệu nhựa mới"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "மேலே புனல் வடிவ ஊட்டக் குழாயும், கம்பிகளால் சுற்றப்பட்ட நீண்ட கிடைமட்ட சூடேற்றப்பட்ட பீப்பாயும் கொண்ட பச்சை மற்றும் கிரீம் நிற தொழில்துறை வெளித்தள்ளல் இயந்திரம், நீல மற்றும் வெள்ளை தொழிற்சாலை சுவருக்கு எதிரே வலப்புறம் நோக்கி நீள்கிறது",
+        "subject": "ஊட்டக் குழாய் மற்றும் சூடேற்றப்பட்ட பீப்பாயுடன் தொடர்ச்சியான பிளாஸ்டிக் கச்சாப் பொருளை உருவாக்கும் பிளாஸ்டிக் வெளித்தள்ளல் (எக்ஸ்ட்ரூஷன்) வரிசை, பிளாஸ்டிக் மற்றும் பொதியிடல் தொழிலின் ஒரு மைய செயல்முறை"
+      },
+      {
+        "alt": "வண்ண மூடிகளும் லேபிள்களும் படிந்த, தட்டையாக்கப்பட்ட வெளிப்படையான பிளாஸ்டிக் பாட்டில்களின் பெரிய கனசதுர மூட்டைகள், துருப்பிடித்த உலோகத் தொட்டி அருகே தார்ச்சாலையில் இரண்டு மூன்றாக அடுக்கப்பட்டுள்ளன, பின்னால் மரங்களும் சாம்பல் வானமும்",
+        "subject": "நொறுக்கப்பட்ட தெளிவான PET பானப் பாட்டில்களின் இறுக்கமாக அழுத்தப்பட்ட மூட்டைகள், புதிய பிளாஸ்டிக் கச்சாப் பொருளாக மறுசுழற்சி செய்ய அடுக்கப்பட்டுள்ளன"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "ऊपर एक फ़नल के आकार का हॉपर और एक लंबी क्षैतिज गर्म बैरल, जिस पर तारें लिपटी हैं, वाली एक हरी और क्रीम रंग की औद्योगिक एक्सट्रूज़न मशीन, जो नीली और सफ़ेद कारखाने की दीवार के सामने दाईं ओर चलती है।",
+        "subject": "एक फ़ीड हॉपर और गर्म बैरल वाली एक प्लास्टिक एक्सट्रूज़न लाइन जो निरंतर प्लास्टिक स्टॉक बनाती है, प्लास्टिक और पैकेजिंग उद्योग की एक मुख्य प्रक्रिया"
+      },
+      {
+        "alt": "चपटी पारदर्शी प्लास्टिक बोतलों के बड़े घनाकार गट्ठर, रंगीन ढक्कनों और लेबलों से चितकबरे, टार की सड़क पर एक जंग लगे धातु के डिब्बे के बगल में दो और तीन ऊँचे ढेर किए गए, पीछे पेड़ और धूसर आकाश।",
+        "subject": "नए प्लास्टिक फ़ीडस्टॉक में पुनर्चक्रण के लिए ढेर किए गए कुचली हुई पारदर्शी PET पेय बोतलों के कसकर दबाए गए गट्ठर"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "آلة بثق صناعية بلون أخضر وكريمي ذات قادوس على شكل قمع في الأعلى وبرميل أفقي طويل ساخن ملفوف بالأسلاك، ممتدّة نحو اليمين أمام جدار مصنع أزرق وأبيض.",
+        "subject": "خطّ بثق بلاستيكي بقادوس تغذية وبرميل ساخن يشكّل مادة بلاستيكية مستمرّة، عملية أساسية في صناعة البلاستيك والتغليف"
+      },
+      {
+        "alt": "بالات مكعّبة كبيرة من زجاجات بلاستيكية شفافة مفلطحة، منقّطة بأغطية وملصقات ملوّنة، مكدّسة بارتفاع طبقتين وثلاث على الإسفلت بجانب حاوية معدنية صدئة، وخلفها أشجار وسماء رمادية.",
+        "subject": "بالات مضغوطة بإحكام من زجاجات مشروبات PET شفافة مسحوقة مكدّسة لإعادة تدويرها إلى مادة بلاستيكية خام جديدة"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una máquina de extrusión industrial verde y crema, con una tolva en forma de embudo en la parte superior y un largo cilindro horizontal caliente envuelto en cableado, que se extiende hacia la derecha contra una pared de fábrica azul y blanca.",
+        "subject": "Una línea de extrusión de plástico, con tolva de alimentación y cilindro calentado, que forma material plástico continuo, un proceso esencial de la industria del plástico y el embalaje"
+      },
+      {
+        "alt": "Grandes balas cúbicas de botellas de plástico transparente aplastadas, salpicadas de tapones y etiquetas de colores, apiladas de dos y tres en alto sobre el asfalto junto a un contenedor metálico oxidado, con árboles y un cielo gris detrás.",
+        "subject": "Balas fuertemente compactadas de botellas de bebida de PET transparente trituradas, apiladas para reciclarlas en nueva materia prima plástica"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une extrudeuse industrielle verte et crème, avec une trémie en forme d'entonnoir sur le dessus et un long fourreau horizontal chauffé enveloppé de câblage, s'étendant vers la droite devant un mur d'usine bleu et blanc.",
+        "subject": "Une ligne d'extrusion de plastique, avec trémie d'alimentation et fourreau chauffé, formant une matière plastique en continu, un procédé clé de l'industrie du plastique et de l'emballage"
+      },
+      {
+        "alt": "De grandes balles cubiques de bouteilles en plastique transparent écrasées, mouchetées de bouchons et d'étiquettes colorés, empilées sur deux et trois hauteurs sur le bitume à côté d'une benne métallique rouillée, avec des arbres et un ciel gris derrière.",
+        "subject": "Des balles fortement compactées de bouteilles de boisson en PET transparent broyées, empilées pour être recyclées en nouvelle matière première plastique"
+      }
+    ]
+  },
+  "industries/retail-wholesale-trade-industry": {
+    "zh": [
+      {
+        "alt": "一条长长的超市货架通道，白色货架上摆满袋装糖、食用油和包装商品，上方绿色货架指示牌写着GULA AGAR-AGAR 21，洁净的瓷砖地面向远处延伸",
+        "subject": "马来西亚雪兰莪哥打白沙罗一家Giant霸级市场内摆满商品的食品货架通道，这是马来西亚零售业的主流业态"
+      },
+      {
+        "alt": "一座狭长的单层开放式市场棚屋，屋顶呈陈旧的棕色，一辆载满农产品的罗里和两辆较小的卡车停在前方阳光照射的柏油空地上，天空湛蓝明亮",
+        "subject": "马来西亚柔佛再也一座有罗里运送新鲜农产品的传统敞开式巴刹，是马来西亚批发与零售食品贸易的一部分"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "長い通路に白い棚が並び、袋入りの砂糖、食用油、包装商品がぎっしりと置かれ、GULA AGAR-AGAR 21と記された緑の通路表示の下、清潔なタイル張りの床が奥へと続く。",
+        "subject": "マレーシア・スランゴール州コタ・ダマンサラのGiantハイパーマーケットの商品が並んだ食品通路。マレーシアの小売業を支える主要な業態である"
+      },
+      {
+        "alt": "色あせた茶色の屋根を持つ細長い平屋の開放型市場の建屋。農産物を積んだローリー1台と、小型トラック2台が、日の当たるアスファルトの区画に、明るい青空の下で停まっている。",
+        "subject": "マレーシア・ジョホール・ジャヤで、ローリーが生鮮農産物を搬入する伝統的な開放型の市場（バザール）。マレーシアの卸売・小売食品取引の一端を担う"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "긴 슈퍼마켓 통로에 흰색 진열대가 봉지 설탕, 식용유, 포장 상품으로 가득 차 있고, GULA AGAR-AGAR 21이라고 적힌 초록색 통로 표지판 아래로 깨끗한 타일 바닥이 멀리 이어진다",
+        "subject": "말레이시아 슬랑오르주 코타 다만사라의 Giant 하이퍼마켓에 상품이 가득 찬 식품 통로로, 말레이시아 소매업의 주류 업태이다"
+      },
+      {
+        "alt": "빛바랜 갈색 지붕을 얹은 길고 단층인 개방형 시장 건물. 농산물을 가득 실은 로리 한 대와 소형 트럭 두 대가 햇볕이 드는 아스팔트 공터에 밝고 푸른 하늘 아래 주차되어 있다",
+        "subject": "말레이시아 조호르 자야에서 로리가 신선한 농산물을 들여오는 전통 개방형 시장으로, 말레이시아 도매·소매 식품 거래의 한 부분이다"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ทางเดินซูเปอร์มาร์เก็ตที่ยาวพร้อมชั้นวางสีขาวเต็มไปด้วยน้ำตาลบรรจุถุง น้ำมันปรุงอาหารและสินค้าบรรจุหีบห่อ ใต้ป้ายทางเดินสีเขียวที่เขียนว่า GULA AGAR-AGAR 21 พื้นกระเบื้องสะอาดทอดยาวไปในระยะไกล",
+        "subject": "ทางเดินสินค้าของชำที่เต็มไปด้วยสินค้าในไฮเปอร์มาร์เก็ต Giant ที่โกตาดามันซารา รัฐเซอลาโงร์ รูปแบบหลักของการค้าปลีกในมาเลเซีย"
+      },
+      {
+        "alt": "โรงตลาดเปิดโล่งชั้นเดียวที่ยาวพร้อมหลังคาสีน้ำตาลเก่า มีรถบรรทุกบรรทุกผลผลิตและรถบรรทุกเล็กสองคันจอดอยู่ด้านหน้าบนลานยางมะตอยที่มีแดดส่องใต้ท้องฟ้าสีครามสดใส",
+        "subject": "ตลาดสดเปิดโล่งแบบดั้งเดิมที่ยะโฮร์จายาซึ่งมีรถบรรทุกส่งผลผลิตสด ส่วนหนึ่งของการค้าอาหารค้าส่งและค้าปลีกของมาเลเซีย"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah lorong pasar raya yang panjang dengan rak putih yang penuh dengan gula berbungkus, minyak masak dan barangan berbungkus di bawah papan tanda lorong hijau bertulis GULA AGAR-AGAR 21, dengan lantai berjubin bersih yang menganjur ke kejauhan",
+        "subject": "lorong barangan runcit yang penuh dengan stok di hipermarket Giant di Kota Damansara, Selangor, satu format tunggak perdagangan runcit Malaysia"
+      },
+      {
+        "alt": "Sebuah bangsal pasar terbuka setingkat yang panjang dengan bumbung coklat lusuh, sebuah lori yang dipenuhi hasil tani dan dua buah trak lebih kecil diletakkan di hadapan di atas kawasan tarmak bermandikan cahaya matahari di bawah langit biru cerah",
+        "subject": "sebuah pasar basah tradisional terbuka di Johor Jaya dengan lori menghantar hasil segar, sebahagian daripada perdagangan makanan borong dan runcit Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah lorong supermarket yang panjang dengan rak putih yang penuh gula kemasan, minyak goreng dan barang kemasan di bawah papan petunjuk lorong hijau bertuliskan GULA AGAR-AGAR 21, dengan lantai berubin bersih yang memanjang ke kejauhan",
+        "subject": "lorong bahan pangan yang penuh stok di hipermarket Giant di Kota Damansara, Selangor, sebuah format andalan perdagangan ritel Malaysia"
+      },
+      {
+        "alt": "Sebuah los pasar terbuka satu lantai yang panjang dengan atap cokelat lapuk, sebuah truk bermuatan hasil bumi dan dua truk lebih kecil terparkir di depan di atas lahan beraspal yang disinari matahari di bawah langit biru cerah",
+        "subject": "sebuah pasar basah tradisional terbuka di Johor Jaya dengan truk mengantarkan hasil bumi segar, bagian dari perdagangan pangan grosir dan ritel Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một lối đi siêu thị dài với kệ trắng chất đầy đường đóng gói, dầu ăn và hàng đóng gói dưới tấm biển lối đi màu xanh ghi GULA AGAR-AGAR 21, với sàn lát gạch sạch sẽ trải dài về phía xa",
+        "subject": "một lối đi hàng tạp hóa đầy ắp hàng tại đại siêu thị Giant ở Kota Damansara, Selangor, một mô hình chủ lực của ngành bán lẻ Malaysia"
+      },
+      {
+        "alt": "Một dãy nhà chợ một tầng thông thoáng dài với mái nâu bạc màu, một xe tải chất đầy nông sản và hai xe tải nhỏ hơn đậu phía trước trên bãi nhựa đường ngập nắng dưới bầu trời xanh trong",
+        "subject": "một khu chợ ẩm ướt truyền thống thông thoáng ở Johor Jaya với những xe tải chở nông sản tươi đến, một phần của ngành buôn bán thực phẩm bán sỉ và bán lẻ Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "நீண்ட பல்பொருள் அங்காடி நடைபாதை, வெள்ளை அடுக்குகளில் பைகளில் அடைக்கப்பட்ட சர்க்கரை, சமையல் எண்ணெய் மற்றும் பொதியிடப்பட்ட பொருட்கள் நிறைந்து, GULA AGAR-AGAR 21 என எழுதப்பட்ட பச்சை நடைபாதை பலகையின் கீழ், சுத்தமான ஓடு பதித்த தரை தூரத்தில் நீள்கிறது",
+        "subject": "சிலாங்கூர், கோட்டா டமன்சாராவில் உள்ள ஜயன்ட் ஹைப்பர்மார்க்கெட்டில் பொருட்கள் நிறைந்த மளிகை நடைபாதை, மலேசியாவின் சில்லறை வர்த்தகத்தின் ஒரு முக்கிய வடிவம்"
+      },
+      {
+        "alt": "நீண்ட ஒற்றைத் தள திறந்த சந்தைக் கொட்டகை, காலத்தால் மங்கிய பழுப்பு கூரையுடன், விளைபொருட்கள் நிறைந்த ஒரு லாரியும் இரண்டு சிறிய லாரிகளும் முன்பக்கம் வெயில் படர்ந்த தார்த் தளத்தில் நிறுத்தப்பட்டுள்ளன, தெளிந்த நீல வானத்தின் கீழ்",
+        "subject": "ஜோகூர் ஜெயாவில் லாரிகள் புதிய விளைபொருட்களை வழங்கும் ஒரு பாரம்பரிய திறந்த-பக்க ஈர சந்தை, மலேசியாவின் மொத்த மற்றும் சில்லறை உணவு வர்த்தகத்தின் ஒரு பகுதி"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक लंबा सुपरमार्केट गलियारा जिसमें सफ़ेद अलमारियाँ थैलियों में चीनी, खाना पकाने के तेल और पैकेज्ड सामान से भरी हैं, GULA AGAR-AGAR 21 लिखे एक हरे गलियारा चिह्न के नीचे, एक साफ़ टाइल वाला फ़र्श दूरी में पीछे जाता हुआ।",
+        "subject": "सेलांगोर के कोटा दामनसारा में एक Giant हाइपरमार्केट में भरा हुआ किराना गलियारा, मलेशिया के खुदरा व्यापार का एक प्रमुख स्वरूप"
+      },
+      {
+        "alt": "एक लंबा एकमंज़िला खुला बाज़ार शेड जिसकी छत मौसम से झुलसी भूरी है, सामने धूप में भीगे टार के मैदान पर उपज से लदा एक लॉरी और दो छोटे ट्रक खड़े हैं, चमकीले नीले आकाश के नीचे।",
+        "subject": "जोहोर जया में एक पारंपरिक खुले-किनारे वाला गीला बाज़ार जहाँ लॉरियाँ ताज़ा उपज पहुँचाती हैं, मलेशिया के थोक और खुदरा खाद्य व्यापार का हिस्सा"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "ممرّ طويل في سوبرماركت برفوف بيضاء مكدّسة بأكياس السكّر وزيت الطهي والسلع المعبّأة تحت لافتة ممرّ خضراء مكتوب عليها GULA AGAR-AGAR 21، وأرضية بلاط نظيفة تمتدّ نحو البعيد.",
+        "subject": "ممرّ بقالة مملوء في هايبرماركت Giant في Kota Damansara، Selangor، صيغة أساسية في تجارة التجزئة الماليزية"
+      },
+      {
+        "alt": "سقيفة سوق مفتوحة طويلة من طابق واحد بسقف بنّي باهت متآكل، وشاحنة محمّلة بالمنتجات وشاحنتان أصغر متوقّفة أمامها على ساحة إسفلتية مشمسة تحت سماء زرقاء ساطعة.",
+        "subject": "سوق رطب تقليدي مفتوح الجوانب في Johor Jaya حيث توصّل الشاحنات المنتجات الطازجة، جزء من تجارة الأغذية بالجملة والتجزئة في ماليزيا"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un largo pasillo de supermercado con estanterías blancas repletas de azúcar en bolsas, aceite de cocina y productos envasados, bajo un cartel de pasillo verde que dice GULA AGAR-AGAR 21, con un suelo de baldosas limpio que se aleja en la distancia.",
+        "subject": "Un pasillo de comestibles surtido en un hipermercado Giant en Kota Damansara, Selangor, un formato fundamental del comercio minorista de Malasia"
+      },
+      {
+        "alt": "Un largo cobertizo de mercado abierto de una sola planta con un techo marrón desgastado, un camión cargado de productos y dos camionetas más pequeñas aparcados delante en una explanada asfaltada y soleada bajo un cielo azul intenso.",
+        "subject": "Un mercado tradicional de abastos abierto por los lados en Johor Jaya, con camiones que entregan productos frescos, parte del comercio mayorista y minorista de alimentos de Malasia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une longue allée de supermarché aux étagères blanches remplies de sucre en sachets, d'huile de cuisson et de produits emballés, sous un panneau d'allée vert indiquant GULA AGAR-AGAR 21, avec un sol carrelé propre s'éloignant au loin.",
+        "subject": "Une allée d'épicerie bien achalandée dans un hypermarché Giant à Kota Damansara, dans le Selangor, un format phare du commerce de détail de la Malaisie"
+      },
+      {
+        "alt": "Un long hangar de marché ouvert de plain-pied au toit brun patiné, avec un camion chargé de produits et deux camionnettes plus petites garés devant, sur un terrain bitumé ensoleillé sous un ciel bleu vif.",
+        "subject": "Un marché frais traditionnel à côtés ouverts à Johor Jaya où des camions livrent des produits frais, un maillon du commerce de gros et de détail alimentaire de la Malaisie"
+      }
+    ]
+  },
+  "industries/rubber-industry": {
+    "zh": [
+      {
+        "alt": "一行行细长的橡胶树，树干呈斑驳的浅色，整齐地向远处延伸，穿过长满青草的园地，数棵树干低处挂着深色的小胶杯",
+        "subject": "马来西亚柔佛一处种植园庄园内整齐成行、装有乳胶收集杯的成熟橡胶树，是马来西亚橡胶业的支柱"
+      },
+      {
+        "alt": "一名身穿灰色衬衫的男子在橡胶林边，将一张压制过的白色乳胶片送入一台黄色铸铁制片机的沉重滚轴之间，他身旁还有第二个带纹路的滚轴",
+        "subject": "一名工人用手摇橡胶压片机碾压一张凝固的乳胶片，这是加工天然橡胶的关键步骤"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "淡くまだら模様の細い幹を持つゴムの木が整然と列をなし、草の生えた農園の地面を奥へと続いていく。いくつかの幹の低い位置に、小さな黒いラテックス採取用カップが取り付けられている。",
+        "subject": "マレーシアのゴム産業の屋台骨である、ジョホールの農園エステートで、ラテックス採取用カップを取り付けて整然と並ぶ成熟したゴムの木"
+      },
+      {
+        "alt": "灰色のシャツを着た男性が、ゴム林の端で、黄色い鋳鉄製の圧延機の重いローラーの間に、圧搾された白いラテックスのシートを通している。そのかたわらには畝のついた2本目のローラーがある。",
+        "subject": "天然ゴム加工の重要な工程である、手回し式のゴム圧延機で凝固したラテックスのシートを圧延する作業員"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "옅고 얼룩덜룩한 줄기를 지닌 가느다란 고무나무가 풀이 자란 농원 바닥을 따라 가지런히 줄지어 멀리 이어지고, 몇몇 줄기 낮은 곳에 작고 검은 라텍스 수집용 컵이 달려 있다",
+        "subject": "말레이시아 고무 산업의 근간인 조호르의 한 플랜테이션 에스테이트에서 라텍스 수집용 컵을 단 채 가지런히 줄지어 선 성숙한 고무나무들"
+      },
+      {
+        "alt": "회색 셔츠를 입은 남성이 고무 숲 가장자리에서 눌러 편 흰색 라텍스 시트를 노란색 주철 압연기의 무거운 롤러 사이로 밀어 넣고 있고, 그 옆에는 골이 진 두 번째 롤러가 있다",
+        "subject": "천연고무 가공의 핵심 단계인, 손으로 돌리는 고무 압연기로 응고된 라텍스 시트를 밀어 넣는 작업자"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ต้นยางพาราเรียวบางเรียงเป็นแถวเป็นระเบียบ ลำต้นสีซีดด่าง ทอดยาวไปในระยะไกลข้ามพื้นสวนที่มีหญ้าขึ้น มีถ้วยรองน้ำยางสีเข้มขนาดเล็กติดอยู่ที่ลำต้นหลายต้นในระดับต่ำ",
+        "subject": "ต้นยางพาราโตเต็มวัยเรียงเป็นแถวเป็นระเบียบติดถ้วยรองน้ำยางในสวนยางที่รัฐยะโฮร์ เสาหลักของอุตสาหกรรมยางพาราของมาเลเซีย"
+      },
+      {
+        "alt": "ชายสวมเสื้อสีเทากำลังส่งแผ่นยางที่รีดแล้วสีขาวผ่านลูกกลิ้งหนักของเครื่องรีดแผ่นยางเหล็กหล่อสีเหลืองที่ขอบสวนยาง โดยมีลูกกลิ้งร่องตัวที่สองอยู่ข้างเขา",
+        "subject": "คนงานกำลังป้อนแผ่นน้ำยางที่จับตัวเป็นก้อนเข้าเครื่องรีดแผ่นยางแบบหมุนมือ ขั้นตอนสำคัญในการแปรรูปยางธรรมชาติ"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Barisan teratur pokok getah yang langsing dengan batang pucat berbelang menganjur ke kejauhan merentasi lantai estet berumput, cawan lateks gelap kecil dipasang rendah pada beberapa batang",
+        "subject": "barisan kemas pokok getah matang yang dilengkapi cawan pengumpul lateks di sebuah ladang estet di Johor, tulang belakang industri getah Malaysia"
+      },
+      {
+        "alt": "Seorang lelaki berbaju kelabu memandu sekeping lateks putih yang telah ditekan antara penggelek berat sebuah mesin pengeping besi tuang berwarna kuning di pinggir kebun getah, satu lagi penggelek beralur di sebelahnya",
+        "subject": "seorang pekerja menyuap sekeping lateks beku melalui mesin penggelek kepingan getah berengkol tangan, satu langkah penting dalam memproses getah asli"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Barisan teratur pohon karet ramping dengan batang pucat berbelang memanjang ke kejauhan melintasi lantai perkebunan berumput, mangkuk lateks gelap kecil terpasang rendah pada beberapa batang",
+        "subject": "barisan rapi pohon karet dewasa yang dilengkapi mangkuk penampung lateks di sebuah perkebunan di Johor, tulang punggung industri karet Malaysia"
+      },
+      {
+        "alt": "Seorang pria berbaju abu-abu mengarahkan selembar lateks putih yang telah ditekan di antara rol-rol berat sebuah mesin penggiling besi tuang berwarna kuning di tepi kebun karet, sebuah rol beralur kedua di sampingnya",
+        "subject": "seorang pekerja memasukkan lembaran lateks beku melalui mesin giling lembaran karet yang diengkol tangan, sebuah langkah penting dalam mengolah karet alam"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những hàng cây cao su mảnh khảnh ngay ngắn với thân cây nhợt nhạt loang lổ trải dài về phía xa trên nền đồn điền cỏ mọc, những chén hứng mủ nhỏ sẫm màu gắn thấp trên nhiều thân cây",
+        "subject": "những hàng cây cao su trưởng thành ngay ngắn gắn chén hứng mủ tại một đồn điền ở Johor, xương sống của ngành cao su Malaysia"
+      },
+      {
+        "alt": "Một người đàn ông mặc áo xám đưa một tấm mủ cao su ép trắng qua các trục nặng của một máy cán gang màu vàng ở rìa một vườn cao su, một trục có gân thứ hai bên cạnh anh ta",
+        "subject": "một công nhân đưa tấm mủ cao su đông tụ qua máy cán tấm cao su quay tay, một bước quan trọng trong chế biến cao su thiên nhiên"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "வெளிர் புள்ளிகள் கொண்ட தண்டுகளுடன் மெல்லிய ரப்பர் மரங்களின் ஒழுங்கான வரிசைகள் புல் படர்ந்த எஸ்டேட் தரை முழுவதும் தூரத்தில் நீள்கின்றன, பல தண்டுகளில் தாழ்வாக சிறிய கரும் லேடெக்ஸ் கிண்ணங்கள் பொருத்தப்பட்டுள்ளன",
+        "subject": "ஜோகூரில் உள்ள ஒரு தோட்ட எஸ்டேட்டில் லேடெக்ஸ் சேகரிப்புக் கிண்ணங்கள் பொருத்தப்பட்ட முதிர்ந்த ரப்பர் மரங்களின் நேர்த்தியான வரிசைகள், மலேசியாவின் ரப்பர் தொழிலின் முதுகெலும்பு"
+      },
+      {
+        "alt": "சாம்பல் சட்டை அணிந்த ஒரு ஆண், அழுத்தப்பட்ட வெள்ளை லேடெக்ஸ் தாளை ஒரு ரப்பர் தோப்பின் விளிம்பில் உள்ள மஞ்சள் வார்ப்பிரும்பு தாள் இயந்திரத்தின் கனமான உருளைகளுக்கு இடையே செலுத்துகிறார், அவருக்குப் பக்கத்தில் இரண்டாவது சல்லடை உருளை",
+        "subject": "ஒரு தொழிலாளர் உறைந்த லேடெக்ஸ் தாளை கை-சுழற்று ரப்பர் தாள் உருட்டு இயந்திரத்தின் வழியே செலுத்துகிறார், இயற்கை ரப்பரைப் பதப்படுத்தும் ஒரு முக்கியப் படி"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "पतले रबर के पेड़ों की व्यवस्थित कतारें जिनके तने हल्के चितकबरे हैं, एक घासदार एस्टेट फ़र्श के पार दूरी में पीछे जाती हुईं, कई तनों पर नीचे लगे छोटे गहरे रंग के लेटेक्स कप।",
+        "subject": "जोहोर के एक बागान एस्टेट में लेटेक्स संग्रह कपों से लैस परिपक्व रबर के पेड़ों की सुथरी कतारें, जो मलेशिया के रबर उद्योग की रीढ़ है"
+      },
+      {
+        "alt": "एक रबर के उपवन के किनारे पर भूरे कमीज़ में एक आदमी एक पीली ढलवाँ-लोहे की शीटिंग मशीन के भारी रोलरों के बीच दबाए गए लेटेक्स की एक सफ़ेद शीट को मार्गदर्शित करता है, उसके बगल में एक दूसरा खाँचेदार रोलर।",
+        "subject": "एक श्रमिक एक हाथ से घुमाई जाने वाली रबर शीटिंग मैंगल के बीच से जमे हुए लेटेक्स की एक शीट डालते हुए, प्राकृतिक रबर के प्रसंस्करण में एक प्रमुख चरण"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "صفوف منظّمة من أشجار المطّاط النحيلة ذات الجذوع الشاحبة المبقّعة تمتدّ نحو البعيد عبر أرضية مزرعة عشبية، مع أكواب لاتكس داكنة صغيرة مثبّتة في أسفل عدة جذوع.",
+        "subject": "صفوف مرتّبة من أشجار المطّاط الناضجة المزوّدة بأكواب جمع اللاتكس في مزرعة بـ Johor، ركيزة لصناعة المطّاط في ماليزيا"
+      },
+      {
+        "alt": "رجل بقميص رمادي يوجّه صفيحة بيضاء من اللاتكس المكبوس بين أسطوانات ثقيلة لماكينة تصفيح صفراء من الحديد الزهر عند حافة بستان مطّاط، وبجانبه أسطوانة مضلّعة ثانية.",
+        "subject": "عامل يُمرّر صفيحة من اللاتكس المتخثّر عبر مِعصرة تصفيح مطّاط تُدار يدويًا، خطوة رئيسية في معالجة المطّاط الطبيعي"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Hileras ordenadas de esbeltos árboles del caucho de troncos pálidos y moteados que se alejan en la distancia por el suelo cubierto de hierba de una finca, con pequeñas tazas oscuras de látex sujetas en la parte baja de varios troncos.",
+        "subject": "Hileras pulcras de árboles del caucho maduros provistos de tazas de recogida de látex en una finca de plantación de Johor, un pilar de la industria del caucho de Malasia"
+      },
+      {
+        "alt": "Un hombre con camisa gris guía una lámina blanca de látex prensado entre los pesados rodillos de una máquina laminadora de hierro fundido amarilla, al borde de un bosquecillo de caucho, con un segundo rodillo acanalado a su lado.",
+        "subject": "Un trabajador pasando una lámina de látex coagulado por un rodillo laminador de caucho de manivela, un paso clave en el procesado del caucho natural"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des rangées ordonnées de minces hévéas aux troncs pâles et marbrés s'éloignant au loin à travers le sol herbeux d'une plantation, avec de petites tasses à latex foncées fixées bas sur plusieurs troncs.",
+        "subject": "Des rangées soignées d'hévéas matures équipés de tasses de collecte du latex dans une plantation du Johor, un pilier de l'industrie du caoutchouc de la Malaisie"
+      },
+      {
+        "alt": "Un homme en chemise grise guide une feuille blanche de latex pressé entre les lourds rouleaux d'une laminoir en fonte jaune, en lisière d'une plantation d'hévéas, un second rouleau cannelé à côté de lui.",
+        "subject": "Un travailleur faisant passer une feuille de latex coagulé dans une essoreuse à feuilles de caoutchouc à manivelle, une étape clé de la transformation du caoutchouc naturel"
+      }
+    ]
+  },
+  "industries/space-industry": {
+    "zh": [
+      {
+        "alt": "身穿浅绿色与白色洁净室连体服、戴着帽子的工程师在一个明亮的洁净室内，围着一个由黄色吊装设备悬吊、安置在带轮平台上的高大白色锥形火箭整流罩工作",
+        "subject": "身穿洁净室服的技术人员在运载火箭上面级组合体上准备封装好的卫星，代表卫星制造与发射准备"
+      },
+      {
+        "alt": "平静水面上方的漆黑夜空中划过两道明亮弯曲的光迹，一道从左侧灯火通明的发射台陡然升起，另一道较暗淡的则向右侧降落着陆",
+        "subject": "一次长曝光的夜间火箭发射，呈现出明亮的上升弧线以及助推器返回着陆的第二道弧线，代表发射服务"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "淡い緑と白のクリーンルーム用つなぎと帽子を身につけた技術者たちが、明るいクリーンルーム内で、黄色い吊り上げ装置によって吊るされ車輪付きの台に載せられた、高く白い円錐形のロケットフェアリングの周りで作業している。",
+        "subject": "衛星の製造と打ち上げ準備を表す、ロケットの上段複合体にカプセル化された衛星を準備するクリーンルーム用スーツを着た技術者たち"
+      },
+      {
+        "alt": "穏やかな水面の上に広がる暗い夜空を、2本の輝く曲線状の光の筋が横切る。1本は左側の明るく照らされた発射台から急角度で立ち上がり、もう1本はより淡く右側へ降下して着陸する。",
+        "subject": "打ち上げサービスを表す、明るい上昇の弧と、ブースターが着陸へと戻るもう1本の弧を捉えた長時間露光の夜間ロケット打ち上げ"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "연한 초록색과 흰색 클린룸 작업복과 모자를 착용한 기술자들이 밝은 클린룸 안에서 노란색 인양 장비로 매달려 바퀴 달린 받침대에 놓인, 높고 흰 원뿔형 로켓 페어링 주위에서 작업하고 있다",
+        "subject": "위성 제작과 발사 준비를 나타내는, 발사체 상단 복합체에 캡슐화된 위성을 준비하는 클린룸 작업복 차림의 기술자들"
+      },
+      {
+        "alt": "잔잔한 수면 위로 펼쳐진 어두운 밤하늘을 가로지르는 두 줄기의 밝고 휘어진 빛의 궤적으로, 하나는 왼쪽의 환히 밝혀진 발사대에서 가파르게 솟아오르고 다른 하나는 더 희미하게 오른쪽으로 내려와 착륙한다",
+        "subject": "발사 서비스를 나타내는, 밝은 상승 궤적과 부스터가 착륙을 위해 되돌아오는 두 번째 궤적을 담은 장노출 야간 로켓 발사"
+      }
+    ],
+    "th": [
+      {
+        "alt": "วิศวกรในชุดคลุมคลีนรูมสีเขียวอ่อนและขาวพร้อมหมวกคลุมทำงานรอบครอบจรวดทรงกรวยสีขาวสูงที่แขวนด้วยอุปกรณ์ยกสีเหลืองบนแท่นมีล้อในคลีนรูมที่สว่างจ้า",
+        "subject": "ช่างเทคนิคในชุดคลีนรูมกำลังเตรียมดาวเทียมที่หุ้มแล้วบนส่วนประกอบท่อนบนของจรวดขนส่ง แทนการสร้างและเตรียมการปล่อยดาวเทียม"
+      },
+      {
+        "alt": "ท้องฟ้ายามค่ำคืนมืดเหนือผืนน้ำสงบมีลำแสงโค้งสว่างสองเส้นพาดผ่าน เส้นหนึ่งพุ่งขึ้นชันจากแท่นปล่อยที่สว่างไสวทางซ้าย และอีกเส้นที่จางกว่ากำลังลดระดับลงจอดทางขวา",
+        "subject": "การปล่อยจรวดยามค่ำคืนแบบเปิดรับแสงนาน แสดงเส้นโค้งสว่างของการทะยานขึ้นและเส้นโค้งที่สองของบูสเตอร์ที่กลับมาลงจอด แทนบริการการปล่อยจรวด"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Jurutera berpakaian keseluruhan dan bertopi bilik bersih hijau pucat dan putih bekerja mengelilingi sebuah penutup roket berbentuk kon putih yang tinggi, digantung oleh alat angkat kuning pada pelantar beroda di dalam bilik bersih yang terang benderang",
+        "subject": "juruteknik berpakaian bilik bersih menyediakan satelit terkapsul pada komposit atas kenderaan pelancarnya, mewakili pembinaan satelit dan persediaan pelancaran"
+      },
+      {
+        "alt": "Langit malam gelap di atas air tenang direntasi oleh dua jalur cahaya melengkung bercahaya, satu menaik curam dari pelantar pelancaran yang terang di sebelah kiri dan satu lagi yang lebih malap menurun untuk mendarat di sebelah kanan",
+        "subject": "pelancaran roket waktu malam dengan dedahan panjang, menampilkan lengkung terang pendakian dan lengkung kedua penggalak yang kembali mendarat, mewakili perkhidmatan pelancaran"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Para insinyur berpakaian terusan dan bertopi ruang bersih hijau pucat dan putih bekerja mengelilingi sebuah selubung roket berbentuk kerucut putih yang tinggi, tergantung oleh alat angkat kuning pada platform beroda di dalam ruang bersih yang terang benderang",
+        "subject": "teknisi berpakaian ruang bersih menyiapkan satelit terenkapsulasi pada komposit atas roket peluncurnya, mewakili pembuatan satelit dan persiapan peluncuran"
+      },
+      {
+        "alt": "Langit malam gelap di atas air tenang dilintasi oleh dua garis cahaya melengkung yang bercahaya, satu menanjak curam dari landasan peluncuran yang terang di sebelah kiri dan satu lagi yang lebih redup menurun untuk mendarat di sebelah kanan",
+        "subject": "peluncuran roket malam hari dengan eksposur panjang, menampilkan busur terang saat menanjak dan busur kedua pendorong yang kembali mendarat, mewakili layanan peluncuran"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Các kỹ sư mặc bộ liền quần và đội mũ phòng sạch màu xanh nhạt và trắng làm việc xung quanh một chóp mũi tên lửa hình nón màu trắng cao, được treo bằng thiết bị nâng màu vàng trên một bệ có bánh xe trong một phòng sạch được chiếu sáng rực rỡ",
+        "subject": "các kỹ thuật viên mặc bộ đồ phòng sạch chuẩn bị một vệ tinh đã được bọc kín trên tổ hợp phần trên của tên lửa phóng, minh họa việc chế tạo vệ tinh và chuẩn bị phóng"
+      },
+      {
+        "alt": "Bầu trời đêm tối trên mặt nước phẳng lặng bị cắt ngang bởi hai vệt sáng cong rực rỡ, một vệt bốc lên dốc đứng từ bệ phóng sáng rực bên trái và một vệt mờ hơn hạ xuống đáp đất bên phải",
+        "subject": "một vụ phóng tên lửa ban đêm chụp phơi sáng lâu, với vệt sáng cong khi bay lên và vệt cong thứ hai của tầng đẩy quay về hạ cánh, minh họa dịch vụ phóng"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "வெளிர் பச்சை மற்றும் வெள்ளை சுத்தஅறை முழு உடைகளும் தொப்பிகளும் அணிந்த பொறியாளர்கள், பிரகாசமாக ஒளியூட்டப்பட்ட சுத்தஅறையில் சக்கர மேடை மீது மஞ்சள் தூக்கும் கருவியால் தொங்கவிடப்பட்ட உயரமான வெள்ளை கூம்பு வடிவ ராக்கெட் முகப்புக் கவசத்தைச் சுற்றி வேலை செய்கின்றனர்",
+        "subject": "சுத்தஅறை உடைகள் அணிந்த தொழில்நுட்பர்கள் ஏவுகணையின் மேல் தொகுப்பில் மூடப்பட்ட செயற்கைக்கோளைத் தயார் செய்கின்றனர், செயற்கைக்கோள் கட்டுமானம் மற்றும் ஏவுதல் தயாரிப்பை பிரதிநிதித்துவப்படுத்துகிறது"
+      },
+      {
+        "alt": "அமைதியான நீருக்கு மேல் இருண்ட இரவு வானத்தை இரண்டு ஒளிரும் வளைந்த ஒளிக்கோடுகள் கடக்கின்றன, ஒன்று இடதுபுறம் பிரகாசமாக ஒளியூட்டப்பட்ட ஏவுதளத்திலிருந்து செங்குத்தாக உயர்கிறது, மற்றொன்று மங்கலாக வலதுபுறம் தரையிறங்க இறங்குகிறது",
+        "subject": "நீண்ட-வெளிப்பாடு இரவு ராக்கெட் ஏவுதல், மேலேறும் பிரகாசமான வளைவும் தரையிறங்கத் திரும்பும் பூஸ்டரின் இரண்டாவது வளைவும் கொண்டது, ஏவுதல் சேவைகளை பிரதிநிதித்துவப்படுத்துகிறது"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "हल्के हरे और सफ़ेद क्लीनरूम कवरऑल और टोपी पहने इंजीनियर एक चमकीले प्रकाशित क्लीनरूम में एक पहिएदार प्लेटफ़ॉर्म पर पीले उठाने वाले गियर से लटकी एक ऊँची सफ़ेद शंक्वाकार रॉकेट फ़ेयरिंग के चारों ओर काम करते हैं।",
+        "subject": "क्लीनरूम सूट में तकनीशियन अपने लॉन्च-वाहन के ऊपरी कंपोजिट पर एक एनकैप्सुलेटेड उपग्रह तैयार करते हुए, उपग्रह निर्माण और लॉन्च तैयारी का प्रतिनिधित्व करते हुए"
+      },
+      {
+        "alt": "शांत पानी के ऊपर एक गहरे रात के आसमान को प्रकाश की दो चमकीली घुमावदार लकीरें पार करती हैं, एक बाईं ओर एक चमकीले प्रकाशित लॉन्च पैड से तेज़ी से उठती और एक और हल्की दाईं ओर उतरती हुई।",
+        "subject": "एक लंबे-एक्सपोज़र वाला रात का रॉकेट लॉन्च, आरोहण की चमकीली चाप और बूस्टर की वापसी की एक दूसरी चाप के साथ, लॉन्च सेवाओं का प्रतिनिधित्व करता हुआ"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مهندسون بأفرهول وأغطية غرف نظيفة بلون أخضر فاتح وأبيض يعملون حول غطاء صاروخ مخروطي أبيض طويل معلّق بأداة رفع صفراء على منصّة متحرّكة في غرفة نظيفة ساطعة الإضاءة.",
+        "subject": "فنّيون ببدلات غرف نظيفة يجهّزون قمرًا صناعيًا مغلّفًا على المركّب العلوي لمركبة الإطلاق، تمثيلًا لبناء الأقمار الصناعية والتحضير للإطلاق"
+      },
+      {
+        "alt": "سماء ليلية مظلمة فوق مياه هادئة يعبرها خطّان مضيئان منحنيان من الضوء، أحدهما يرتفع بحدّة من منصّة إطلاق ساطعة على اليسار وآخر أخفت ينحدر للهبوط على اليمين.",
+        "subject": "إطلاق صاروخ ليلي بتعريض طويل، بقوس صعود ساطع وقوس ثانٍ للمعزّز العائد إلى الهبوط، تمثيلًا لخدمات الإطلاق"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Ingenieros con monos y gorros de sala blanca en verde claro y blanco trabajan alrededor de una alta cofia cónica blanca de cohete, suspendida por un aparejo de elevación amarillo sobre una plataforma con ruedas, en una sala blanca muy iluminada.",
+        "subject": "Técnicos con trajes de sala blanca preparando un satélite encapsulado sobre el compuesto superior de su vehículo lanzador, en representación de la construcción de satélites y la preparación del lanzamiento"
+      },
+      {
+        "alt": "Un cielo nocturno oscuro sobre aguas tranquilas cruzado por dos luminosos trazos curvos de luz, uno que asciende abruptamente desde una plataforma de lanzamiento muy iluminada a la izquierda y otro más tenue que desciende para aterrizar a la derecha.",
+        "subject": "Un lanzamiento de cohete nocturno de larga exposición, con el brillante arco de ascenso y un segundo arco del propulsor regresando a tierra, en representación de los servicios de lanzamiento"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des ingénieurs en combinaisons et charlottes de salle blanche vert pâle et blanches travaillent autour d'une haute coiffe conique blanche de fusée, suspendue par un palan jaune sur une plateforme à roulettes, dans une salle blanche très éclairée.",
+        "subject": "Des techniciens en combinaisons de salle blanche préparant un satellite encapsulé sur le composite supérieur de son lanceur, représentant la construction de satellites et la préparation du lancement"
+      },
+      {
+        "alt": "Un ciel nocturne sombre au-dessus d'une eau calme traversé par deux traînées lumineuses courbes, l'une s'élevant abruptement depuis un pas de tir très éclairé à gauche et une autre plus faible redescendant pour atterrir à droite.",
+        "subject": "Un lancement de fusée nocturne en pose longue, avec l'arc lumineux de l'ascension et un second arc du propulseur revenant se poser, représentant les services de lancement"
+      }
+    ]
+  },
+  "industries/telecommunications-industry": {
+    "zh": [
+      {
+        "alt": "一个深色的大型展览展台，顶部亮着CelcomDigi的标志与品牌名，一块发光的蓝色展板写着CelcomDigi fibre, Ultra Smooth Low Latency，下方聚集着戴着口罩的参观者",
+        "subject": "一个推广光纤宽带的CelcomDigi展览展台，展现一家马来西亚移动与宽带运营商的消费者形象"
+      },
+      {
+        "alt": "一长排机架式计算机服务器以一定角度向远处延伸，每一层都密布着闪烁的蓝色状态指示灯，映衬着深色的金属机柜",
+        "subject": "数据中心里一排排亮着蓝色指示灯的网络与服务器设备，这是支撑电信网络的基础设施"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "上部にCelcomDigiのロゴとブランド名が光る大きな暗色の展示ブースと、CelcomDigi fibre, Ultra Smooth Low Latencyと記された青く光るパネル。その下にマスクを着けた来場者が集まっている。",
+        "subject": "光ファイバーブロードバンドを宣伝するCelcomDigiの展示ブース。マレーシアの移動体通信・ブロードバンド事業者の消費者向けの存在を示す"
+      },
+      {
+        "alt": "ラックマウント式のコンピューターサーバーの長い壁が斜めに奥へと続き、各段が暗い金属製のキャビネットを背景にきらめく青いステータスランプで埋め尽くされている。",
+        "subject": "電気通信網を支えるインフラである、データセンターで青いインジケーターランプを灯して並ぶネットワークおよびサーバー機器"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "상단에 CelcomDigi 로고와 브랜드명이 환히 켜진 커다란 짙은 색 전시 부스와, CelcomDigi fibre, Ultra Smooth Low Latency라고 적힌 파랗게 빛나는 패널, 그 아래 마스크를 쓴 방문객들이 모여 있다",
+        "subject": "광섬유 브로드밴드를 홍보하는 CelcomDigi 전시 부스로, 말레이시아 이동통신·브로드밴드 사업자의 소비자 대상 존재감을 보여 준다"
+      },
+      {
+        "alt": "랙마운트형 컴퓨터 서버가 길게 늘어선 벽이 비스듬히 멀어지고, 각 단은 짙은 금속 캐비닛을 배경으로 반짝이는 파란 상태 표시등으로 가득 차 있다",
+        "subject": "통신망을 떠받치는 기반 시설인, 데이터센터에서 파란 표시등을 밝힌 채 늘어선 네트워크·서버 장비"
+      }
+    ],
+    "th": [
+      {
+        "alt": "บูธนิทรรศการสีเข้มขนาดใหญ่มีโลโก้และชื่อแบรนด์ CelcomDigi ส่องสว่างอยู่ด้านบนและแผงสีน้ำเงินเรืองแสงที่เขียนว่า CelcomDigi fibre, Ultra Smooth Low Latency โดยมีผู้เยี่ยมชมสวมหน้ากากอนามัยรวมตัวกันอยู่ด้านล่าง",
+        "subject": "บูธนิทรรศการ CelcomDigi ที่โปรโมตบรอดแบนด์ไฟเบอร์ แสดงการมีอยู่ในตลาดผู้บริโภคของผู้ให้บริการมือถือและบรอดแบนด์ของมาเลเซีย"
+      },
+      {
+        "alt": "กำแพงยาวของเซิร์ฟเวอร์คอมพิวเตอร์แบบติดตั้งในแร็กทอดยาวเฉียงออกไป แต่ละชั้นประดับด้วยไฟสถานะสีน้ำเงินระยิบระยับตัดกับตู้โลหะสีเข้ม",
+        "subject": "แถวอุปกรณ์เครือข่ายและเซิร์ฟเวอร์ที่เรืองแสงด้วยไฟแสดงสถานะสีน้ำเงินในศูนย์ข้อมูล โครงสร้างพื้นฐานที่รองรับเครือข่ายโทรคมนาคม"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah gerai pameran gelap yang besar dengan logo dan nama jenama CelcomDigi bercahaya di bahagian atas serta panel biru bercahaya bertulis CelcomDigi fibre, Ultra Smooth Low Latency, dengan pengunjung bertopeng muka berkumpul di bawahnya",
+        "subject": "sebuah gerai pameran CelcomDigi yang mempromosikan jalur lebar fiber, menunjukkan kehadiran pengguna sebuah pengendali mudah alih dan jalur lebar Malaysia"
+      },
+      {
+        "alt": "Sebuah dinding panjang pelayan komputer yang dipasang pada rak menganjur pada satu sudut, setiap tingkat dihiasi lampu status biru berkilauan berlatarkan kabinet logam gelap",
+        "subject": "deretan peralatan rangkaian dan pelayan yang bersinar dengan lampu penunjuk biru di sebuah pusat data, infrastruktur yang menyokong rangkaian telekomunikasi"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah stan pameran gelap yang besar dengan logo dan nama merek CelcomDigi menyala di bagian atas serta panel biru menyala bertuliskan CelcomDigi fibre, Ultra Smooth Low Latency, dengan para pengunjung bermasker berkumpul di bawahnya",
+        "subject": "sebuah stan pameran CelcomDigi yang mempromosikan broadband fiber, menunjukkan kehadiran konsumen sebuah operator seluler dan broadband Malaysia"
+      },
+      {
+        "alt": "Sebuah dinding panjang server komputer yang terpasang pada rak memanjang pada suatu sudut, setiap tingkat dihiasi lampu status biru berkilauan dengan latar lemari logam gelap",
+        "subject": "deretan peralatan jaringan dan server yang menyala dengan lampu indikator biru di sebuah pusat data, infrastruktur yang menopang jaringan telekomunikasi"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một gian triển lãm lớn màu tối với logo và tên thương hiệu CelcomDigi phát sáng ở phía trên và một bảng xanh phát sáng ghi CelcomDigi fibre, Ultra Smooth Low Latency, với những khách tham quan đeo khẩu trang tụ tập bên dưới",
+        "subject": "một gian trưng bày CelcomDigi quảng bá internet cáp quang băng thông rộng, cho thấy sự hiện diện với người tiêu dùng của một nhà mạng di động và băng thông rộng Malaysia"
+      },
+      {
+        "alt": "Một bức tường dài gồm các máy chủ gắn trên tủ rack trải dài theo một góc nghiêng, mỗi tầng điểm xuyết những đèn trạng thái màu xanh lấp lánh trên nền các tủ kim loại sẫm màu",
+        "subject": "những dãy thiết bị mạng và máy chủ phát sáng với đèn báo màu xanh trong một trung tâm dữ liệu, hạ tầng nền tảng cho các mạng viễn thông"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "மேற்பகுதியில் ஒளிரும் CelcomDigi லோகோ மற்றும் பிராண்ட் பெயருடன், CelcomDigi fibre, Ultra Smooth Low Latency என எழுதப்பட்ட ஒளிரும் நீல பலகையுடன் கூடிய ஒரு பெரிய இருண்ட கண்காட்சி அரங்கு, கீழே முகக்கவசம் அணிந்த பார்வையாளர்கள் கூடியுள்ளனர்",
+        "subject": "ஃபைபர் பிராட்பேண்டை விளம்பரப்படுத்தும் ஒரு CelcomDigi கண்காட்சி அரங்கு, ஒரு மலேசிய மொபைல் மற்றும் பிராட்பேண்ட் நிறுவனத்தின் நுகர்வோர் இருப்பைக் காட்டுகிறது"
+      },
+      {
+        "alt": "ஒரு கோணத்தில் நீளும் ராக்கில் பொருத்தப்பட்ட கணினி சேவையகங்களின் நீண்ட சுவர், ஒவ்வொரு அடுக்கும் இருண்ட உலோக அலமாரிகளுக்கு எதிராக மின்னும் நீல நிலை விளக்குகளால் பதிக்கப்பட்டுள்ளது",
+        "subject": "ஒரு தரவு மையத்தில் நீல குறிகாட்டி விளக்குகளுடன் ஒளிரும் வலையமைப்பு மற்றும் சேவையக உபகரணங்களின் வரிசைகள், தொலைத்தொடர்பு வலையமைப்புகளுக்கு அடித்தளமான உள்கட்டமைப்பு"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक बड़ा गहरा प्रदर्शनी बूथ जिसके शीर्ष पर एक प्रकाशित CelcomDigi लोगो और ब्रांड नाम है और एक चमकता नीला पैनल है जिस पर CelcomDigi fibre, Ultra Smooth Low Latency लिखा है, नीचे फ़ेस मास्क पहने आगंतुक जमा हैं।",
+        "subject": "फ़ाइबर ब्रॉडबैंड को बढ़ावा देता एक CelcomDigi प्रदर्शनी स्टैंड, जो एक मलेशियाई मोबाइल और ब्रॉडबैंड ऑपरेटर की उपभोक्ता उपस्थिति दिखाता है"
+      },
+      {
+        "alt": "रैक-माउंटेड कंप्यूटर सर्वरों की एक लंबी दीवार एक कोण पर पीछे जाती हुई, प्रत्येक स्तर गहरे धातु के कैबिनेटों के विरुद्ध चमकती नीली स्थिति रोशनियों से जड़ा हुआ।",
+        "subject": "एक डेटा सेंटर में नीली संकेतक रोशनियों से चमकते नेटवर्किंग और सर्वर उपकरण की कतारें, वह अवसंरचना जो दूरसंचार नेटवर्कों को आधार देती है"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "جناح معرض كبير داكن يحمل في أعلاه شعار CelcomDigi مضاءً واسم العلامة، ولوحة زرقاء متوهّجة مكتوب عليها CelcomDigi fibre, Ultra Smooth Low Latency، وزوّار يرتدون كمامات متجمّعون في الأسفل.",
+        "subject": "جناح معرض لـ CelcomDigi يروّج للإنترنت عبر الألياف، يُظهر الحضور الاستهلاكي لمشغّل ماليزي للهاتف المحمول والإنترنت"
+      },
+      {
+        "alt": "جدار طويل من خوادم الحاسوب المركّبة على رفوف يمتدّ بزاوية، كل طبقة مرصّعة بأضواء حالة زرقاء متلألئة على خلفية الخزائن المعدنية الداكنة.",
+        "subject": "صفوف من معدّات الشبكات والخوادم تتوهّج بأضواء مؤشّرات زرقاء في مركز بيانات، البنية التحتية التي تدعم شبكات الاتصالات"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un gran estand de exposición oscuro con el logotipo y el nombre de marca CelcomDigi iluminados en la parte superior y un panel azul brillante que dice CelcomDigi fibre, Ultra Smooth Low Latency, con visitantes con mascarilla reunidos debajo.",
+        "subject": "Un estand de exposición de CelcomDigi que promociona la banda ancha por fibra, muestra de la presencia de consumo de un operador malasio de móvil y banda ancha"
+      },
+      {
+        "alt": "Una larga pared de servidores informáticos montados en bastidor que se aleja en ángulo, cada nivel tachonado de luces de estado azules centelleantes sobre los oscuros armarios metálicos.",
+        "subject": "Filas de equipos de redes y servidores que brillan con luces indicadoras azules en un centro de datos, la infraestructura que sustenta las redes de telecomunicaciones"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un grand stand d'exposition sombre portant en haut le logo et le nom de marque CelcomDigi éclairés et un panneau bleu lumineux indiquant CelcomDigi fibre, Ultra Smooth Low Latency, avec des visiteurs masqués rassemblés en dessous.",
+        "subject": "Un stand d'exposition CelcomDigi faisant la promotion du haut débit par fibre, illustrant la présence grand public d'un opérateur malaisien de mobile et de haut débit"
+      },
+      {
+        "alt": "Un long mur de serveurs informatiques montés en baie s'éloignant en biais, chaque niveau constellé de voyants d'état bleus scintillants sur les armoires métalliques sombres.",
+        "subject": "Des rangées d'équipements réseau et de serveurs scintillant de voyants bleus dans un centre de données, l'infrastructure qui sous-tend les réseaux de télécommunications"
+      }
+    ]
+  },
+  "industries/textiles-apparel-industry": {
+    "zh": [
+      {
+        "alt": "一幅图案繁复的织锦特写，中央是一块以密实金色花卉锦纹织成的红色面板，两侧以缀有金色菱形与星形纹样的栗色边框相衬",
+        "subject": "一块产自登嘉楼、以金色金属线织就的马来songket布料的局部，是马来西亚纺织遗产的代表性工艺"
+      },
+      {
+        "alt": "一台砖墙作坊里的木制手工织机，机架上绷着经线，排列着一排红、绿、蓝三色的线轴，一名织工在织机另一侧半隐着身影劳作",
+        "subject": "一名织工在织布作坊操作一台绷着彩色线轴的木制织机，代表纺织业中的织布工艺"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "豊かな文様の織物のクローズアップ。中央に金色の花柄ブロケードが密に織り込まれた赤い帯があり、金色の菱形と星の文様が入ったマルーン色の縁取りが両側を挟む。",
+        "subject": "マレーシアの繊維遺産を代表する工芸である、金色の金属糸で織られたトレンガヌ産のマレーのsongket布の細部"
+      },
+      {
+        "alt": "レンガ壁の工房にある木製の手織り機。その枠に経糸が張られ、赤・緑・青の糸巻きが一列に並び、織り手が向こう側で半ば見える姿で作業している。",
+        "subject": "繊維産業における布の織りを表す、色とりどりの糸巻きを張った木製の織り機で作業する織り手"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "무늬가 풍성한 직물의 클로즈업으로, 중앙에는 촘촘한 금색 꽃무늬 브로케이드로 짠 붉은 패널이 있고, 그 양옆을 금색 마름모와 별 문양이 들어간 적갈색 테두리가 감싸고 있다",
+        "subject": "말레이시아 섬유 유산의 대표 공예인, 금색 금속실로 짠 트렝가누산 말레이 songket 천의 세부"
+      },
+      {
+        "alt": "벽돌 벽 작업장에 놓인 나무 수직기로, 틀에 날실이 걸려 있고 빨강·초록·파랑 실패가 한 줄로 늘어서 있으며, 직공이 반대편에서 반쯤 보이는 채로 작업하고 있다",
+        "subject": "섬유 산업의 직조를 나타내는, 색색의 실패를 건 나무 베틀로 작업하는 직공"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ภาพระยะใกล้ของผ้าทอลวดลายวิจิตร มีแผงสีแดงตรงกลางเป็นลายดอกไม้ยกทองหนาแน่น ขนาบด้วยขอบสีแดงเลือดหมูที่มีลายข้าวหลามตัดและดาวสีทอง",
+        "subject": "รายละเอียดของผ้าซงเก็ต (songket) ของชาวมลายูจากตรังกานูที่ทอด้วยด้ายโลหะสีทอง งานหัตถกรรมชั้นนำของมรดกสิ่งทอมาเลเซีย"
+      },
+      {
+        "alt": "กี่ทอมือไม้ในโรงงานผนังอิฐ โครงขึงด้วยเส้นด้ายยืนและมีหลอดด้ายสีแดง เขียวและน้ำเงินเรียงเป็นแถว โดยมองเห็นช่างทอบางส่วนกำลังทำงานอยู่อีกฝั่งหนึ่ง",
+        "subject": "ช่างทอกำลังทำงานกับกี่ไม้ที่ขึงด้วยหลอดด้ายสีต่าง ๆ ในโรงทอผ้า แทนการทอผ้าในอุตสาหกรรมสิ่งทอ"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pandangan dekat kain tenunan bercorak indah dengan panel merah di tengah berisi brokat bunga emas yang padat, diapit oleh sempadan merah marun bermotif berlian dan bintang emas",
+        "subject": "perincian sehelai kain songket Melayu dari Terengganu yang ditenun dengan benang logam emas, kraf utama warisan tekstil Malaysia"
+      },
+      {
+        "alt": "Sebuah kek tenun tangan kayu di dalam bengkel berdinding bata, rangkanya dipasang dengan benang loseng dan sebaris gelendong benang merah, hijau dan biru, seorang penenun kelihatan separa bekerja di sisi jauh",
+        "subject": "seorang penenun mengendalikan kek tenun kayu yang dipasang dengan gelendong benang berwarna di sebuah bengkel tenunan, mewakili penenunan kain dalam industri tekstil"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Foto dekat kain tenun bercorak indah dengan panel merah di tengah berisi brokat bunga emas yang padat, diapit oleh pinggiran merah marun bermotif berlian dan bintang emas",
+        "subject": "detail selembar kain songket Melayu dari Terengganu yang ditenun dengan benang logam emas, kriya unggulan warisan tekstil Malaysia"
+      },
+      {
+        "alt": "Sebuah alat tenun tangan kayu di dalam bengkel berdinding bata, rangkanya dipasangi benang lungsin dan sederet kumparan benang merah, hijau dan biru, seorang penenun tampak sebagian sedang bekerja di sisi jauh",
+        "subject": "seorang penenun mengoperasikan alat tenun kayu yang dipasangi kumparan benang berwarna di sebuah bengkel tenun, mewakili penenunan kain dalam industri tekstil"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Cận cảnh tấm vải dệt hoa văn cầu kỳ với một mảng đỏ ở trung tâm phủ đầy gấm hoa vàng dày đặc, hai bên là viền màu hạt dẻ với họa tiết kim cương và ngôi sao vàng",
+        "subject": "chi tiết một tấm vải songket Mã Lai từ Terengganu dệt bằng sợi kim loại vàng, một nghề thủ công hàng đầu của di sản dệt may Malaysia"
+      },
+      {
+        "alt": "Một khung cửi tay bằng gỗ trong một xưởng tường gạch, khung được mắc các sợi dọc và một hàng ống chỉ màu đỏ, xanh lá và xanh dương, một người thợ dệt thấp thoáng đang làm việc ở phía xa",
+        "subject": "một người thợ dệt đang làm việc trên khung cửi gỗ mắc đầy các ống chỉ màu trong một xưởng dệt, minh họa việc dệt vải trong ngành dệt may"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "அடர்த்தியான தங்க மலர் ஜரிகை கொண்ட நடுவில் சிவப்பு பலகையுடன், தங்க வைரம் மற்றும் நட்சத்திர வடிவங்கள் கொண்ட மெரூன் விளிம்புகளால் சூழப்பட்ட, வளமான வடிவங்கள் கொண்ட நெய்த துணியின் நெருக்கமான காட்சி",
+        "subject": "திரெங்கானுவிலிருந்து தங்க உலோக நூலால் நெய்யப்பட்ட மலாய் சொங்கெட் துணியின் நுணுக்கம், மலேசியாவின் ஜவுளி பாரம்பரியத்தின் ஒரு முதன்மை கைவினை"
+      },
+      {
+        "alt": "செங்கல் சுவர் பட்டறையில் ஒரு மரக் கைத்தறி, அதன் சட்டத்தில் பாவு நூல்களும் சிவப்பு, பச்சை மற்றும் நீல நூல் கண்டுகளின் வரிசையும் கட்டப்பட்டுள்ளன, தொலைவில் ஒரு நெசவாளர் பகுதியாகத் தெரிந்தபடி வேலை செய்கிறார்",
+        "subject": "ஒரு நெசவாளர் ஒரு நெசவுப் பட்டறையில் வண்ண நூல் கண்டுகள் கட்டப்பட்ட மரத் தறியில் வேலை செய்கிறார், ஜவுளித் தொழிலில் துணி நெய்தலை பிரதிநிதித்துவப்படுத்துகிறது"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "समृद्ध रूप से पैटर्न वाले बुने हुए कपड़े का एक क्लोज़-अप जिसमें घने सुनहरे पुष्प ब्रोकेड का एक केंद्रीय लाल पैनल है, जो सोने के हीरे और तारे के रूपांकनों वाले मैरून बॉर्डरों से घिरा है।",
+        "subject": "तेरेंगानु के एक मलय songket कपड़े का एक विवरण जो सुनहरे धातु के धागे से बुना गया है, मलेशिया की वस्त्र विरासत का एक प्रमुख शिल्प"
+      },
+      {
+        "alt": "एक ईंट-दीवार वाली कार्यशाला में एक लकड़ी का हथकरघा, जिसका फ़्रेम ताने के धागों और लाल, हरे और नीले धागे के बॉबिनों की एक पंक्ति से बुना है, दूर की ओर काम करता एक बुनकर आंशिक रूप से दिखाई देता है।",
+        "subject": "एक बुनाई कार्यशाला में रंगीन धागे की बॉबिनों से बँधा एक लकड़ी का करघा चलाता एक बुनकर, वस्त्र उद्योग में कपड़ा बुनाई का प्रतिनिधित्व करता हुआ"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "لقطة مقرّبة لقماش منسوج غنيّ الزخارف بلوحة مركزية حمراء من بروكار زهري ذهبي كثيف، يكتنفها حدّان بلون كستنائي بزخارف ذهبية على شكل معيّنات ونجوم.",
+        "subject": "تفصيل من قماش songket ملاوي من Terengganu منسوج بخيط ذهبي معدني، حرفة رائدة في التراث النسيجي لماليزيا"
+      },
+      {
+        "alt": "نول يدوي خشبي في ورشة بجدران من الطوب، إطاره مشدود بخيوط السداة وصفّ من بكرات خيوط حمراء وخضراء وزرقاء، ويظهر نسّاج جزئيًا يعمل على الجانب البعيد.",
+        "subject": "نسّاج يشغّل نولًا خشبيًا مشدودًا ببكرات خيوط ملوّنة في ورشة نسيج، تمثيلًا لنسج الأقمشة في صناعة النسيج"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un primer plano de un tejido ricamente estampado con un panel central rojo de denso brocado floral dorado, flanqueado por orillos granates con motivos dorados de rombos y estrellas.",
+        "subject": "Un detalle de una tela de songket malaya de Terengganu tejida con hilo metálico dorado, una artesanía emblemática del patrimonio textil de Malasia"
+      },
+      {
+        "alt": "Un telar manual de madera en un taller de paredes de ladrillo, con su bastidor tendido de hilos de urdimbre y una fila de bobinas de hilo rojo, verde y azul, y un tejedor parcialmente visible trabajando al fondo.",
+        "subject": "Un tejedor manejando un telar de madera cargado de bobinas de hilo de colores en un taller de tejido, en representación del tejido de telas en la industria textil"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un gros plan d'un tissu richement orné à panneau central rouge de dense brocart floral doré, encadré de lisières bordeaux à motifs dorés de losanges et d'étoiles.",
+        "subject": "Un détail d'une étoffe de songket malais de Terengganu tissée de fil métallique doré, un artisanat phare du patrimoine textile de la Malaisie"
+      },
+      {
+        "alt": "Un métier à tisser manuel en bois dans un atelier aux murs de brique, son cadre tendu de fils de chaîne et d'une rangée de bobines de fil rouge, vert et bleu, un tisserand partiellement visible travaillant de l'autre côté.",
+        "subject": "Un tisserand actionnant un métier à tisser en bois chargé de bobines de fil coloré dans un atelier de tissage, représentant le tissage d'étoffes dans l'industrie textile"
+      }
+    ]
   }
 }

@@ -60,7 +60,27 @@ sources:
     url: https://mohr.gov.my/images/pdf/KENYATAAN%20MEDIA%20PEKERJA%20GIG.pdf
     publisher: กระทรวงทรัพยากรมนุษย์ (KESUMA) มาเลเซีย
   - title: "คณะรัฐมนตรีอนุมัติ SEGiM เพื่อคุ้มครองสวัสดิการแรงงานกิก (Cabinet approves SEGiM to safeguard gig workers' welfare)"
-    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig---tpm
+    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig
+images:
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-1.webp
+    alt: ไรเดอร์ส่งอาหารสวมแจ็กเก็ตและหมวกกันน็อก foodpanda สีชมพู ขี่รถจักรยานยนต์แบบครอบเครื่อง (kapcai) บรรทุกกล่องส่งอาหารเก็บอุณหภูมิ foodpanda สีชมพูขนาดใหญ่ ขณะจอดอยู่ท่ามกลางการจราจรบนถนน
+    kind: representative
+    origin: third-party
+    subject: ไรเดอร์ส่งอาหารรถจักรยานยนต์ foodpanda พร้อมกล่องส่งอาหารเก็บอุณหภูมิสีชมพู (ตัวอย่างงานแพลตฟอร์มกิ๊ก ไม่ใช่ Grab)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-2.webp
+    alt: พนักงานส่งอาหารแพลตฟอร์มยืนอยู่บนทางเท้าสะพายกระเป๋าเป้ส่งอาหารเก็บอุณหภูมิขนาดใหญ่
+    kind: representative
+    origin: third-party
+    subject: พนักงานส่งอาหารพร้อมกระเป๋าส่งอาหารเก็บอุณหภูมิของแพลตฟอร์ม (ไม่ใช่ Grab)
+    credit: Alexander Corkhill / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
+---tpm
     publisher: Sinar Harian
   - title: "รัฐสภาผ่านร่างพระราชบัญญัติแรงงานกิก 2025 (Parliament Passes Gig Workers Bill 2025)"
     url: https://ringgitplus.com/en/blog/personal-finance-news/parliament-passes-gig-workers-bill-2025.html

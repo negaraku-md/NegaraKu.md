@@ -31,7 +31,7 @@ faq:
   - q: Apa yang Malaysia lakukan tentang pencemaran plastik?
     a: Pelan Hala Tuju Kelestarian Plastik Malaysia 2021–2030, diterajui kementerian alam sekitar, menetapkan sasaran untuk menghapuskan secara berperingkat plastik sekali guna yang bermasalah, menaikkan kadar kitar semula dan kandungan kitar semula, serta menjadikan pembungkusan plastik boleh dikitar semula. Ia juga memperkenalkan skim Tanggungjawab Pengeluar Lanjutan (EPR) yang menjadikan pengeluar membantu membiayai pengumpulan dan kitar semula.
 lang: ms
-sourceContentHash: "de0d1c6868348e76"
+sourceContentHash: "2bc730fc5eac1f19"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-1.webp
+    alt: Sebuah mesin penyemperitan industri berwarna hijau dan krim dengan hoper berbentuk corong di atasnya dan tong mendatar berpemanas yang panjang dibalut dengan pendawaian, menganjur ke arah kanan di hadapan dinding kilang biru dan putih
+    kind: representative
+    origin: third-party
+    subject: sebuah barisan penyemperitan plastik dengan hoper suapan dan tong berpemanas yang membentuk stok plastik berterusan, satu proses teras dalam industri plastik dan pembungkusan
+    credit: Ikiwaner / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pipe_extrusion_line.jpg
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-2.webp
+    alt: Bal berbentuk kuboid besar botol plastik lut sinar yang dileperkan, berbintik penutup dan label berwarna, ditimbun dua dan tiga tinggi di atas tarmak di sebelah tong logam berkarat, dengan pokok dan langit kelabu di belakang
+    kind: representative
+    origin: third-party
+    subject: bal botol minuman PET jernih yang dihancurkan dan dimampatkan padat, ditimbun untuk dikitar semula menjadi bahan suapan plastik baharu
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bales_of_PET_bottles_stacked.jpg
 ---
 
 Hampir setiap produk fizikal yang keluar dari kilang Malaysia — sepeket mi segera, telefon pintar, bampar kereta, sebatang paip air — bergantung pada plastik yang dibentuk di suatu tempat di negara ini. Plastik ialah salah satu kekuatan perindustrian senyap Malaysia: kurang glamor berbanding semikonduktor, tetapi terjalin ke dalam hampir setiap sektor pembuatan lain dan, semakin, ke dalam perdebatan nasional tentang sisa dan kelestarian.

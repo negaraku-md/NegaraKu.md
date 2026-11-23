@@ -32,7 +32,7 @@ faq:
   - q: Quels sont les principaux défis de l'industrie ?
     a: Le secteur est confronté à une population d'agriculteurs vieillissante, à des prix mondiaux volatils, au stress climatique et à une concurrence féroce de producteurs plus grands tels que le Vietnam, l'Indonésie et l'Inde. La faible mécanisation et la dépendance aux exportations de grains bruts maintiennent les marges faibles, ce qui explique pourquoi la politique met désormais l'accent sur la replantation, la technologie et la transformation en aval.
 lang: fr
-sourceContentHash: "919642eafa94442f"
+sourceContentHash: "d190e9e277335f4c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -117,6 +117,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plant_climbing_poles.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pepper-industry/body-1.webp
+    alt: Gros plan d'un poivrier portant plusieurs épis tombants densément garnis de grains de poivre verts et ronds, encadré de grandes feuilles luisantes vert foncé, avec une plantation verte floue en arrière-plan.
+    kind: actual
+    origin: third-party
+    subject: Grappes de grains de poivre verts en train de mûrir, suspendus en longs épis sur un poivrier noir dans une plantation de poivre du Sarawak, au cœur de l'industrie poivrière de la Malaisie
+    credit: Nick Allen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plants.jpg
+  - role: scene
+    src: /media/industries/pepper-industry/body-2.webp
+    alt: Un toit-terrasse blanchi à la chaux bordé d'une balustrade basse, où sont disposés plusieurs plateaux grillagés carrés de grains de poivre foncés en train de sécher, avec des bananiers, des cocotiers et des collines boisées s'élevant derrière sous un ciel bleu.
+    kind: representative
+    origin: third-party
+    subject: Des grains de poivre récoltés étalés pour sécher au soleil sur des plateaux grillagés sur un toit-terrasse, l'étape de séchage qui transforme les baies vertes en poivre noir
+    credit: Rainer Halama / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pepper_drying_in_Munnar_Hills-WUS07148.jpg
 ---
 
 Le poivre est l'un des produits agricoles les plus anciens et les plus géographiquement distinctifs de la Malaisie : une liane importée du sous-continent indien et de Sumatra qui a trouvé son habitat idéal dans les collines humides et bien drainées du Sarawak, où elle est devenue l'ossature de milliers de petites exploitations rurales. Bien que la Malaisie soit un acteur modeste en volume mondial, elle pèse plus que son poids par sa réputation, vendant un « poivre de Sarawak » premium et certifié d'origine sur des marchés exigeants. Cet article présente la structure, la géographie, le commerce et les perspectives du secteur en tant qu'industrie à part entière.

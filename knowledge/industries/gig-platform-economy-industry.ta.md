@@ -60,7 +60,27 @@ sources:
     url: https://mohr.gov.my/images/pdf/KENYATAAN%20MEDIA%20PEKERJA%20GIG.pdf
     publisher: மனித வள அமைச்சகம் (KESUMA), மலேசியா
   - title: கிக் தொழிலாளர்களின் நலனைப் பாதுகாக்க SEGiM ஐ அமைச்சரவை அங்கீகரிக்கிறது (Cabinet approves SEGiM to safeguard gig workers' welfare)
-    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig---tpm
+    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig
+images:
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-1.webp
+    alt: இளஞ்சிவப்பு foodpanda ஜாக்கெட்டும் தலைக்கவசமும் அணிந்த உணவு விநியோக ஓட்டுநர் ஒருவர், ஒரு கப்சாய் மோட்டார்சைக்கிளில், பெரிய இளஞ்சிவப்பு foodpanda வெப்பக்காப்பு விநியோகப் பெட்டியைச் சுமந்தபடி தெரு போக்குவரத்தில் நின்றுகொண்டிருக்கிறார்.
+    kind: representative
+    origin: third-party
+    subject: இளஞ்சிவப்பு வெப்பக்காப்பு விநியோகப் பெட்டியுடன் Foodpanda மோட்டார்சைக்கிள் உணவு விநியோக ஓட்டுநர் (பிரதிநிதித்துவ கிக் தளப் பணி; Grab அல்ல)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-2.webp
+    alt: ஒரு தள உணவு விநியோக தூதர், பெரிய வெப்பக்காப்பு உணவு விநியோக முதுகுப்பையை அணிந்தபடி நடைபாதையில் நிற்கிறார்.
+    kind: representative
+    origin: third-party
+    subject: வெப்பக்காப்பு தள விநியோகப் பையுடன் உணவு விநியோக தூதர் (Grab அல்ல)
+    credit: Alexander Corkhill / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
+---tpm
     publisher: Sinar Harian
   - title: நாடாளுமன்றம் Gig Workers Bill 2025 ஐ நிறைவேற்றுகிறது (Parliament Passes Gig Workers Bill 2025)
     url: https://ringgitplus.com/en/blog/personal-finance-news/parliament-passes-gig-workers-bill-2025.html

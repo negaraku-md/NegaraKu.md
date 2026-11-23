@@ -31,7 +31,7 @@ faq:
   - q: "水产养殖为何对马来西亚的粮食安全至关重要？"
     a: "鱼是马来西亚主要的动物蛋白来源，而野生捕捞已趋于停滞。水产养殖是提高全国鱼类自给率（2025年约90.7%）的主要杠杆，《国家农粮政策》明确倾向于养殖鱼而非捕捞鱼以满足未来需求。"
 lang: zh
-sourceContentHash: "8e2067b1d42a9bd3"
+sourceContentHash: "b24cfb615c370a6d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -110,6 +110,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Foto_Keramba_Ikan_(Panatapan,_Parapat,_Simalungun).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-1.webp
+    alt: 马来西亚沙巴甘榜迪昂（Kampung Tiang）一处平静的淡水养殖池塘，四周环绕着绿意。
+    kind: actual
+    origin: third-party
+    subject: 沙巴甘榜迪昂的鱼类养殖池塘
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tiang_Sabah_Fish-aquaculture-01.jpg
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-2.webp
+    alt: 马来西亚博特拉大学农学院农场用于实践课程的泥底养殖鱼塘。
+    kind: actual
+    origin: third-party
+    subject: 马来西亚博特拉大学的水产养殖教学鱼塘
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0906).jpg
 ---
 
 马来西亚人餐桌上的大部分鱼仍然来自海洋——但如今有一个快速增长的份额来自池塘、网箱或延绳养殖筏。那就是水产养殖：有意识地养殖水生生物，而非捕捞野外游动的鱼。随着马来西亚野生捕捞量趋于停滞、蛋白质需求攀升，水产养殖已成为该国保持餐桌有鱼的主要杠杆。本文深入探讨这项业务的养殖端；关于包括渔船队、渔民福利和执法在内的更全面情况，请参阅[渔业概览](/zh/agriculture/malaysian-fisheries-industry/)。

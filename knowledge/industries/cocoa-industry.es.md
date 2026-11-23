@@ -31,7 +31,7 @@ faq:
   - q: ¿Dónde se sigue cultivando cacao en Malasia?
     a: "Principalmente en Sabah, especialmente en el interior y la región de Tawau, que históricamente impulsaron el auge de la década de 1980 y aún representan la mayor parte de la superficie plantada y la producción restantes."
 lang: es
-sourceContentHash: "794991b243f75e9b"
+sourceContentHash: "bbbb8e26421eae19"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -114,6 +114,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cacao_fruit_in_C%C3%B4te_d''Ivoire_(11).JPG'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/cocoa-industry/body-1.webp
+    alt: Granos de cacao fermentados extendidos en una bandeja de madera para secarse al sol.
+    kind: representative
+    origin: third-party
+    subject: Granos de cacao secándose al sol
+    credit: Chuck Moravec / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sao_Tome_Monteforte_Cocoa_Beans_Drying_3_(15629101423).jpg
+  - role: scene
+    src: /media/industries/cocoa-industry/body-2.webp
+    alt: Un montón de granos de cacao tostados y oscuros, listos para pasar al molino durante el procesado del chocolate.
+    kind: representative
+    origin: third-party
+    subject: Granos de cacao tostados listos para el procesado
+    credit: ElmerGuevara / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cacao_Tostado..JPG
 ---
 
 Malasia es uno de los grandes procesadores de cacao del mundo que casi ha dejado de cultivarlo. En una sola generación, el país pasó de ser un productor de granos entre los cuatro primeros, con sus laderas de Sabah y la Malasia peninsular cargadas de mazorcas, a un lugar que importa granos por barcos enteros y apenas cosecha unos cientos de toneladas propias. Lo que permaneció, y prosperó, fue el extremo fabril: los molinos de molturación, las refinerías y las líneas de chocolate que convierten los granos importados en manteca, polvo, licor de cacao y confitería terminada para la exportación. El resultado es una "paradoja del cacao": una industria aguas abajo de talla mundial asentada sobre un sector aguas arriba que prácticamente ha desaparecido.

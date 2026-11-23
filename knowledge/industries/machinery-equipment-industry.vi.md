@@ -31,7 +31,7 @@ faq:
   - q: Có những hỗ trợ nào của chính phủ cho lĩnh vực M&E?
     a: M&E là một ngành công nghệ cao ưu tiên của MIDA, đủ điều kiện cho các ưu đãi đầu tư, và nó là trung tâm của chính sách Công nghiệp 4.0 quốc gia Industry4WRD, vốn đưa ra các khoản tài trợ như Quỹ Can thiệp Industry4WRD và Quỹ Chiến lược Đầu tư Nội địa cho các hãng áp dụng tự động hóa và công nghệ tiên tiến.
 lang: vi
-sourceContentHash: "e4dca19fd76c4c0c"
+sourceContentHash: "a4476ce582345f78"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -100,6 +100,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:CNC_Machine_Facility.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/machinery-equipment-industry/body-1.webp
+    alt: Những cỗ máy xây dựng hạng nặng màu vàng được lắp ráp một phần xếp hàng bên trong một xưởng sản xuất công nghiệp lớn.
+    kind: representative
+    origin: third-party
+    subject: Nhà máy sản xuất máy móc hạng nặng (minh họa sản xuất máy móc công nghiệp)
+    credit: Huangdan2060 / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ASany_Heavy_Industry_1.jpg
+  - role: scene
+    src: /media/industries/machinery-equipment-industry/body-2.webp
+    alt: Một dây chuyền hàn robot tự động nối các tấm thép lớn trên dây chuyền lắp ráp bên trong một nhà máy thiết bị hạng nặng.
+    kind: representative
+    origin: third-party
+    subject: Dây chuyền lắp ráp hàn robot trong một nhà máy thiết bị hạng nặng (minh họa)
+    credit: AKomkova / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A%D0%9B%D0%B8%D0%BD%D0%B8%D1%8F_%D1%81%D0%B2%D0%B0%D1%80%D0%BA%D0%B8_%D0%B1%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D1%81%D1%82%D0%B5%D0%BD%D1%8B_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%B0._%C2%AB%D0%A2%D0%B8%D1%85%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%C2%BB.jpg
 ---
 
 Mọi nhà máy đều vận hành trên máy móc — và những cỗ máy đó phải được ai đó chế tạo. Ngành máy móc và thiết bị (M&E) là phần của chế tạo làm ra các dây chuyền sản xuất, máy móc quy trình, dụng cụ gia công kim loại, hệ thống điện và tự động hóa mà *mọi* ngành khác phụ thuộc vào. Nó là ngành lớn ít được thấy nhất trong nền kinh tế và, chính vì lý do đó, một trong những ngành quan trọng chiến lược nhất.

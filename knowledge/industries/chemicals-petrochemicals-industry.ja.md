@@ -31,7 +31,7 @@ faq:
   - q: 政府はどのように化学産業を支援していますか。
     a: マレーシア投資開発庁（MIDA）は、その化学・先端材料部門（Chemical and Advanced Material Division）を通じて製造免許を審査し、パイオニア・ステータス（Pioneer Status）や投資税額控除（Investment Tax Allowance）といった優遇措置を提供しています。石油・石油化学の活動は1974年石油開発法（Petroleum Development Act 1974）の下でも規律されます。化学産業ロードマップ2030と新産業マスタープラン2030が、スペシャルティで付加価値の高い化学品へ向けた戦略的方向性を定めています。
 lang: ja
-sourceContentHash: "dd296a225bbc1577"
+sourceContentHash: "5b202e406f8d70f8"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-1.webp
+    alt: 日中に見た、ヌグリ・スンビラン州ポート・ディクソン東方のHengyuan製油所の蒸留塔と貯蔵タンク。
+    kind: actual
+    origin: third-party
+    subject: ヌグリ・スンビラン州ポート・ディクソンのHengyuan製油所
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-2.webp
+    alt: 昼間の空の下、サバ州キマニスにあるサバ石油ガスターミナル（SOGT）のフレアスタックと処理設備。
+    kind: actual
+    origin: third-party
+    subject: キマニスのサバ石油ガスターミナル（SOGT）
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-01a.jpg
 ---
 
 プラスチック、肥料、洗剤、合成ゴム、化粧品、塗料、そしてあなたのスマートフォンの筐体の中にある樹脂――これらはすべて化学物質として始まる。そして、その驚くほど多くが、あるいはその構成要素が、マレーシアで作られている。同国のよりよく知られた石油・ガスやパーム油の物語の背後には、大規模で、静かに戦略的な化学・石油化学産業が控えており、未加工の炭化水素と植物油を、現代の暮らしが依存する素材へと変えている。

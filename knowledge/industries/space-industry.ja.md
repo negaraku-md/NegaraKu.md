@@ -31,7 +31,7 @@ faq:
   - q: "マレーシアの宇宙産業は航空宇宙産業とは別物ですか。"
     a: "はい。航空宇宙産業は航空、整備・修理・オーバーホール（MRO）、航空機の機体構造を対象とします。宇宙産業は衛星、打ち上げ、宇宙規制、そして衛星通信やリモートセンシングといった下流サービスを対象とします。"
 lang: ja
-sourceContentHash: "c74b519cf5166ca0"
+sourceContentHash: "932846867c424136"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -115,6 +115,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Antennas_at_Awarua_Satellite_Ground_Station.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/space-industry/body-1.webp
+    alt: 淡い緑と白のクリーンルーム用つなぎと帽子を身につけた技術者たちが、明るいクリーンルーム内で、黄色い吊り上げ装置によって吊るされ車輪付きの台に載せられた、高く白い円錐形のロケットフェアリングの周りで作業している。
+    kind: representative
+    origin: third-party
+    subject: 衛星の製造と打ち上げ準備を表す、ロケットの上段複合体にカプセル化された衛星を準備するクリーンルーム用スーツを着た技術者たち
+    credit: ESA_events / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sentinel-2A_satellite_-_On_the_transportation_platform.jpg
+  - role: scene
+    src: /media/industries/space-industry/body-2.webp
+    alt: 穏やかな水面の上に広がる暗い夜空を、2本の輝く曲線状の光の筋が横切る。1本は左側の明るく照らされた発射台から急角度で立ち上がり、もう1本はより淡く右側へ降下して着陸する。
+    kind: representative
+    origin: third-party
+    subject: 打ち上げサービスを表す、明るい上昇の弧と、ブースターが着陸へと戻るもう1本の弧を捉えた長時間露光の夜間ロケット打ち上げ
+    credit: SpaceX / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CRS-9_mission_(28348649546).jpg
 ---
 
 マレーシアは自国のロケットを打ち上げていないが、宇宙飛行士を飛ばし、マイクロ衛星を製造・運用し、近隣の多くの国に先駆けて民間宇宙活動を許認可する法律を可決した。その宇宙部門は小規模で、静かに戦略的だ — ブロードバンド政策、防衛、災害監視、そして国家の威信に糸を通している。本ガイドは、マレーシアの宇宙経済を構成する機関、法律、衛星、そして野望を地図にする。

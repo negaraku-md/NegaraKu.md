@@ -31,7 +31,7 @@ faq:
   - q: "Quel soutien gouvernemental existe-t-il pour le secteur M&E ?"
     a: "Le M&E est une industrie de haute technologie prioritaire de la MIDA, éligible aux incitations à l'investissement, et il est central dans la politique nationale d'Industrie 4.0 Industry4WRD, qui offre des subventions telles que l'Industry4WRD Intervention Fund et le Domestic Investment Strategic Fund aux firmes qui adoptent l'automatisation et la technologie avancée."
 lang: fr
-sourceContentHash: "e4dca19fd76c4c0c"
+sourceContentHash: "a4476ce582345f78"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -100,6 +100,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:CNC_Machine_Facility.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/machinery-equipment-industry/body-1.webp
+    alt: Des engins de construction lourds jaunes, partiellement assemblés, alignés à l'intérieur d'une grande halle de fabrication industrielle.
+    kind: representative
+    origin: third-party
+    subject: Usine de fabrication d'engins lourds (production représentative de machines industrielles)
+    credit: Huangdan2060 / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ASany_Heavy_Industry_1.jpg
+  - role: scene
+    src: /media/industries/machinery-equipment-industry/body-2.webp
+    alt: Une ligne de soudage robotisée et automatisée assemblant de grands panneaux d'acier sur une chaîne de montage dans une usine d'équipements lourds.
+    kind: representative
+    origin: third-party
+    subject: Chaîne de montage à soudage robotisé dans une usine d'équipements lourds (représentative)
+    credit: AKomkova / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A%D0%9B%D0%B8%D0%BD%D0%B8%D1%8F_%D1%81%D0%B2%D0%B0%D1%80%D0%BA%D0%B8_%D0%B1%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D1%81%D1%82%D0%B5%D0%BD%D1%8B_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%B0._%C2%AB%D0%A2%D0%B8%D1%85%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%C2%BB.jpg
 ---
 
 Chaque usine fonctionne grâce à des machines — et ces machines doivent être construites par quelqu'un. L'industrie des machines et équipements (M&E) est la partie de la fabrication qui réalise les lignes de production, les machines de procédé, les outils d'usinage des métaux, les systèmes d'énergie et l'automatisation dont dépend chaque *autre* industrie. C'est la grande industrie la moins visible de l'économie et, pour cette raison même, l'une des plus stratégiquement importantes.

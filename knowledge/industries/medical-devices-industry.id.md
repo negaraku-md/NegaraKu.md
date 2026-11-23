@@ -31,7 +31,7 @@ faq:
   - q: Apa saja insentif bagi produsen?
     a: Peranti medis adalah aktivitas yang dipromosikan MIDA, memenuhi syarat untuk insentif seperti Pioneer Status (pembebasan pajak penghasilan sebagian hingga penuh untuk jangka waktu tertentu) dan Investment Tax Allowance atas belanja modal yang memenuhi syarat. Peranti medis juga disebut sebagai sektor prioritas di bawah New Industrial Master Plan 2030. Konfirmasikan ketentuan dan kelayakan terkini langsung kepada MIDA.
 lang: id
-sourceContentHash: "7fd1c6521ba9829e"
+sourceContentHash: "f59d1ed2e2b0ce72"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -108,6 +108,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-1.webp
+    alt: Pekerja bergaun dan bertopi pelindung mengoperasikan peralatan pada lini produksi farmasi steril.
+    kind: representative
+    origin: third-party
+    subject: Lini produksi produk farmasi/medis steril dengan pekerja bergaun (mewakili manufaktur medis)
+    credit: Josep Lago, European Commission / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AView_of_a_production_line_at_the_Reig_Jofre_company's_headquarters.jpg
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-2.webp
+    alt: Teknisi bergaun dan peralatan baja nirkarat pada lini produksi ruang bersih di dalam sebuah fasilitas manufaktur produk medis.
+    kind: representative
+    origin: third-party
+    subject: Lini produksi ruang bersih di sebuah fasilitas manufaktur produk medis (mewakili)
+    credit: Tehran Times / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACOVIran_Barekat_vaccine_production_03.jpg
 ---
 
 Jika Anda pernah mengenakan sarung tangan bedah, diambil darahnya melalui kateter, atau pulih dengan bantuan implan ortopedi, ada kemungkinan yang masuk akal bahwa peranti itu dibuat di Malaysia. Di luar sarung tangan karetnya yang terkenal, negara ini diam-diam telah menjadi tempat terpenting di Asia Tenggara untuk memproduksi peranti medis — dan salah satu basis manufaktur medtech yang lebih signifikan di mana pun di dunia.

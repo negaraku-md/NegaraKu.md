@@ -31,7 +31,7 @@ faq:
   - q: மலேசியா ஏன் கச்சா அரிய மண் ஏற்றுமதியைத் தடை செய்கிறது?
     a: இந்தத் தடை — 2024 தொடக்கத்திலிருந்து அமலில் — நாட்டின் அரிய மண் வளங்கள் செயலாக்கப்படாமல் ஏற்றுமதி செய்யப்படுவதைத் தடுத்து, உள்ளூர் சுத்திகரிப்பு மற்றும் கீழ்நிலைத் தொழில்கள் மூலம் நாட்டிற்குள் மதிப்பு சேர்க்கப்படுவதைக் கட்டாயப்படுத்துவதற்காக என்று அரசாங்கம் கூறுகிறது. அதிகாரிகள் இதை ஒரு மூலோபாய வளத்தைப் பாதுகாப்பதாக விவரித்துள்ளனர்; சரியான கொள்கை விதிமுறைகள் காலப்போக்கில் மாறியுள்ளன மற்றும் சமீபத்திய அரசாங்க அறிக்கைக்கு எதிராக சரிபார்க்கப்பட வேண்டும்.
 lang: ta
-sourceContentHash: "2cfb1c127d0860c5"
+sourceContentHash: "10843756be8e6a62"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -104,6 +104,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:TT5_Tin_Dredge_-_panoramio.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-1.webp
+    alt: சபாவின் கினபட்டாங்கான் மாவட்டத்தில் ஜாலான் சுகாவில் உள்ள ஒரு கல் குவாரியின் வெளிப்பட்ட பாறை முகப்பும் வேலை செய்யப்பட்ட படிகளும்.
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, சபா, கினபட்டாங்கான் மாவட்டம், ஜாலான் சுகாவில் கல் குவாரி
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AKinabatangan_Sabah_Quarry-at-Jalan-Sukau-01.jpg
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-2.webp
+    alt: மலேசியா, சபா, சலாரோமுக்கு அருகே கன்வேயர்களும் சரளைக் குவியல்களும் கொண்ட தற்காலிக கல்-நொறுக்கும் ஆலை ஒன்று கல்லைப் பதப்படுத்துகிறது.
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, சபா, சலாரோமுக்கு அருகே கல்லை சரளையாக நொறுக்கும் கல் ஆலை (கிலாங் பாத்து)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ADistrict-Nabawan_Sabah_Rock-Mill-01.jpg
 ---
 
 மலேசியாவின் நவீனப் பொருளாதாரம், மிகவும் உண்மையாகவே, தரையிலிருந்து தோண்டியெடுக்கப்பட்டது. பனை எண்ணெய், மின்னணுவியல் அல்லது குறைக்கடத்திகளுக்கு நீண்ட காலத்திற்கு முன்பு, தீபகற்பத்தை உலகிற்கு முக்கியமாக்கியது **தகரம்** தான் — இரயில்பாதைகளுக்கு நிதியளித்தது, Ipoh மற்றும் கோலாலம்பூர் போன்ற நகரங்களை வளர்த்தது, மேலும் தலைமுறை தலைமுறையான புலம்பெயர்ந்த சுரங்கத் தொழிலாளர்களை ஈர்த்தது. சுரங்கம் நாட்டின் பழமையான தொழில்துறைக் கதையாகும், மேலும் அது இனி பொருளாதாரத்தில் ஆதிக்கம் செலுத்தாவிட்டாலும், அது ஒரு மிகவும் நவீன பரிசைச் சுற்றி அமைதியாக மீண்டும் எழுதப்படுகிறது: அரிய மண் தனிமங்கள்.

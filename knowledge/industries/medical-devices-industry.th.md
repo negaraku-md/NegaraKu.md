@@ -31,7 +31,7 @@ faq:
   - q: มีสิทธิประโยชน์อะไรบ้างสำหรับผู้ผลิต?
     a: อุปกรณ์การแพทย์เป็นกิจกรรมที่ MIDA ส่งเสริม มีสิทธิได้รับสิทธิประโยชน์ เช่น สถานะผู้บุกเบิก (การยกเว้นภาษีเงินได้บางส่วนถึงเต็มจำนวนในช่วงเวลาที่กำหนด) และเงินอุดหนุนภาษีการลงทุนสำหรับรายจ่ายลงทุนที่เข้าเกณฑ์ อุปกรณ์การแพทย์ยังถูกระบุเป็นภาคส่วนสำคัญภายใต้แผนแม่บทอุตสาหกรรมฉบับใหม่ 2030 ควรยืนยันเงื่อนไขและคุณสมบัติปัจจุบันกับ MIDA โดยตรง
 lang: th
-sourceContentHash: "7fd1c6521ba9829e"
+sourceContentHash: "f59d1ed2e2b0ce72"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -108,6 +108,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-1.webp
+    alt: คนงานในชุดกาวน์และหมวกคลุมป้องกันกำลังควบคุมอุปกรณ์บนสายการผลิตยาปลอดเชื้อ
+    kind: representative
+    origin: third-party
+    subject: สายการผลิตยา/ผลิตภัณฑ์การแพทย์ปลอดเชื้อที่มีคนงานสวมชุดกาวน์ (ตัวอย่างการผลิตทางการแพทย์)
+    credit: Josep Lago, European Commission / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AView_of_a_production_line_at_the_Reig_Jofre_company's_headquarters.jpg
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-2.webp
+    alt: ช่างเทคนิคในชุดกาวน์และอุปกรณ์สเตนเลสบนสายการผลิตในห้องสะอาดภายในโรงงานผลิตผลิตภัณฑ์การแพทย์
+    kind: representative
+    origin: third-party
+    subject: สายการผลิตในห้องสะอาดในโรงงานผลิตผลิตภัณฑ์การแพทย์ (ตัวอย่าง)
+    credit: Tehran Times / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACOVIran_Barekat_vaccine_production_03.jpg
 ---
 
 หากคุณเคยสวมถุงมือผ่าตัด เจาะเลือดผ่านสายสวน หรือฟื้นตัวด้วยความช่วยเหลือจากวัสดุฝังในกระดูกและข้อ มีความเป็นไปได้พอสมควรที่อุปกรณ์นั้นผลิตในมาเลเซีย นอกเหนือจากถุงมือยางที่โด่งดัง ประเทศนี้ได้กลายเป็นสถานที่ผลิตอุปกรณ์การแพทย์ที่สำคัญที่สุดของเอเชียตะวันออกเฉียงใต้อย่างเงียบ ๆ — และเป็นหนึ่งในฐานการผลิตเมดเทคที่สำคัญกว่าที่ใดในโลก

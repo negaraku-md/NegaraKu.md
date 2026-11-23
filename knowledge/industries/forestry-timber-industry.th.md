@@ -31,7 +31,7 @@ faq:
   - q: นี่คือสิ่งเดียวกับอุตสาหกรรมเฟอร์นิเจอร์ของมาเลเซียหรือไม่?
     a: ไม่ คู่มือนี้ครอบคลุมภาคทรัพยากรต้นน้ำ — ป่า การตัดไม้ และผลิตภัณฑ์ปฐมภูมิ เช่น ท่อนซุง ไม้แปรรูป และไม้อัด ภาคเฟอร์นิเจอร์และผลิตภัณฑ์ไม้สำเร็จรูปเป็นปลายน้ำ ด้านการผลิตที่เปลี่ยนผลิตภัณฑ์ปฐมภูมิเหล่านั้นเป็นสินค้ามูลค่าสูงกว่าเพื่อการส่งออก ทั้งสองเชื่อมโยงกันแต่มักถูกถือเป็นอุตสาหกรรมแยกกัน
 lang: th
-sourceContentHash: "21ca9448b6bc735f"
+sourceContentHash: "ecb30ab62f1f2cdc"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -104,6 +104,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sawmill-02.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/forestry-timber-industry/body-1.webp
+    alt: กองไม้เนื้อแข็งแปรรูปและท่อนซุงใต้หลังคาโปร่งของโรงเลื่อยในชนบทรัฐซาบะฮ์ ประเทศมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: โรงเลื่อยที่กัมปงเมิมปากัด รัฐซาบะฮ์ ประเทศมาเลเซีย
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AMempakad_Sabah_Sawmill-01.jpg
+  - role: scene
+    src: /media/industries/forestry-timber-industry/body-2.webp
+    alt: รถตักล้อยางกำลังเคลื่อนย้ายท่อนซุงไม้เนื้อแข็งเขตร้อนไปยังหน่วยตัดแต่งที่โรงงานไม้อัดในซันดากัน รัฐซาบะฮ์
+    kind: actual
+    origin: third-party
+    subject: ลานกองซุงของโรงงานไม้อัดในซันดากัน รัฐซาบะฮ์ ประเทศมาเลเซีย
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ASandakan_Sabah_Plywood-Factory-05.jpg
 ---
 
 มาเลเซียตั้งอยู่คร่อมป่าฝนที่เก่าแก่ที่สุดบางส่วนบนโลก และตลอดประวัติศาสตร์สมัยใหม่ส่วนใหญ่ การค้าไม้เนื้อแข็งเขตร้อนเป็นหนึ่งในเสาหลักของเศรษฐกิจของชาติ โลกต้นน้ำนั้น — ตัวป่าเอง ใบอนุญาตตัดไม้ และการแปรรูปขั้นแรกของท่อนซุงดิบเป็นไม้ — เป็นอุตสาหกรรมที่แตกต่างจากโรงงานเฟอร์นิเจอร์และผู้ส่งออกผลิตภัณฑ์ไม้ที่อยู่ปลายน้ำ คู่มือนี้ครอบคลุม **ภาคทรัพยากรป่าไม้และไม้**: ไม้มาจากไหน ใครควบคุมมัน มันถูกส่งออกอย่างไร และแรงกดดันด้านความยั่งยืนและตลาดที่กำลังปรับโฉมมัน

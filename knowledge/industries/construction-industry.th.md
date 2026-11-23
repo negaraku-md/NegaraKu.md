@@ -34,7 +34,7 @@ faq:
     a: "NCP 2030 คือนโยบายที่เปิดตัวในงาน ICW 2021 หลังสิ้นสุดระยะเวลาของโครงการเปลี่ยนผ่านอุตสาหกรรมการก่อสร้าง (CITP) 2016–2020 มันวางแกนยุทธศาสตร์หกด้านเพื่อเปลี่ยนผ่านภาคการก่อสร้างสู่ยุคดิจิทัลภายในปี 2030 รวมถึงเป้าหมายการทำให้วงจรอุตสาหกรรม 50% เป็นดิจิทัล"
 
 lang: "th"
-sourceContentHash: "6895d1dde5da9e4f"
+sourceContentHash: "2f048d788112b135"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/construction-industry/body-1.webp
+    alt: เครนหอสูงตั้งตระหง่านเหนืออาคารสูงที่กำลังก่อสร้างใจกลางกรุงกัวลาลัมเปอร์ ประเทศมาเลเซีย
+    kind: representative
+    origin: third-party
+    subject: ไซต์ก่อสร้างอาคารสูงในกรุงกัวลาลัมเปอร์
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg
+  - role: scene
+    src: /media/industries/construction-industry/body-2.webp
+    alt: อาคารเซอร์วิสอพาร์ตเมนต์คอนกรีตเสริมเหล็กที่กำลังก่อสร้างบนถนนจาลันกูดาเอมัสใกล้บูกิตจาลิล กรุงกัวลาลัมเปอร์
+    kind: representative
+    origin: third-party
+    subject: การก่อสร้างเซอร์วิสอพาร์ตเมนต์ใกล้บูกิตจาลิล กรุงกัวลาลัมเปอร์
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serviced_apartment_construction_on_Jalan_Kuda_Emas,_Kuala_Lumpur_20240525_152253.jpg
 ---
 
 ลองสร้างรั้วโรงเรียนมูลค่า RM250,000 โดยไม่มีใบรับรองการจดทะเบียนผู้รับเหมา แล้วโครงการของคุณอาจถูกสั่งให้หยุดทันที — ก่อนที่เสาต้นแรกจะถูกปักลงด้วยซ้ำ ในมาเลเซีย สิทธิ์ในการก่อสร้างไม่ได้เริ่มต้นด้วยเครื่องจักรหรือแรงงาน; มันเริ่มต้นด้วยทะเบียนหนึ่งฉบับ

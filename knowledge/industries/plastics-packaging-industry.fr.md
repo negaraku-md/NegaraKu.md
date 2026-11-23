@@ -31,7 +31,7 @@ faq:
   - q: "Que fait la Malaisie contre la pollution plastique ?"
     a: "La Feuille de route malaisienne pour la durabilité des plastiques 2021–2030, pilotée par le ministère de l'Environnement, fixe des objectifs pour éliminer progressivement les plastiques à usage unique problématiques, augmenter les taux de recyclage et le contenu recyclé, et rendre les emballages plastiques recyclables. Elle introduit également un régime de responsabilité élargie des producteurs (REP) qui fait participer les producteurs au financement de la collecte et du recyclage."
 lang: fr
-sourceContentHash: "de0d1c6868348e76"
+sourceContentHash: "2bc730fc5eac1f19"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-1.webp
+    alt: Une extrudeuse industrielle verte et crème, avec une trémie en forme d'entonnoir sur le dessus et un long fourreau horizontal chauffé enveloppé de câblage, s'étendant vers la droite devant un mur d'usine bleu et blanc.
+    kind: representative
+    origin: third-party
+    subject: Une ligne d'extrusion de plastique, avec trémie d'alimentation et fourreau chauffé, formant une matière plastique en continu, un procédé clé de l'industrie du plastique et de l'emballage
+    credit: Ikiwaner / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pipe_extrusion_line.jpg
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-2.webp
+    alt: De grandes balles cubiques de bouteilles en plastique transparent écrasées, mouchetées de bouchons et d'étiquettes colorés, empilées sur deux et trois hauteurs sur le bitume à côté d'une benne métallique rouillée, avec des arbres et un ciel gris derrière.
+    kind: representative
+    origin: third-party
+    subject: Des balles fortement compactées de bouteilles de boisson en PET transparent broyées, empilées pour être recyclées en nouvelle matière première plastique
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bales_of_PET_bottles_stacked.jpg
 ---
 
 Presque chaque produit physique qui sort d'une usine malaisienne — un paquet de nouilles instantanées, un smartphone, un pare-chocs de voiture, une longueur de tuyau d'eau — dépend d'un plastique qui a été façonné quelque part dans le pays. Les plastiques sont l'une des forces industrielles discrètes de la Malaisie : moins glamour que les semi-conducteurs, mais tissés dans presque tous les autres secteurs manufacturiers et, de plus en plus, dans le débat national sur les déchets et la durabilité.

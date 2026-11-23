@@ -103,6 +103,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-1.webp
+    alt: Racks of sterile culture vessels under controlled lighting in the plant tissue culture laboratory at Universiti Malaysia Terengganu.
+    kind: actual
+    origin: third-party
+    subject: Plant tissue culture laboratory at Universiti Malaysia Terengganu
+    credit: Rafi Bin Tofa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Plant_Tissue_Culture_Laboratory,_UMT.jpg
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-2.webp
+    alt: A stainless-steel and glass bioreactor with tubing and control instruments running a live cell culture in a laboratory.
+    kind: representative
+    origin: third-party
+    subject: A laboratory bioreactor running a cell culture
+    credit: Habin Zhang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bioreactor_in_operation.jpg
 ---
 
 Malaysia does not have the deep research universities or venture-capital depth of a Boston or a Shanghai, but it has three things that make biotechnology a logical long-term bet: one of the world's richest troves of tropical biodiversity, an enormous stream of palm-oil and agricultural biomass, and a globally recognised authority in halal certification. For more than two decades the government has been trying to turn those endowments into a modern life sciences industry. This guide explains how that effort is organised, what it has built, and where it is heading.

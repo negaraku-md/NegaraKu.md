@@ -31,7 +31,7 @@ faq:
   - q: อีคอมเมิร์ซเปลี่ยนแปลงค้าปลีกของมาเลเซียอย่างไร?
     a: การช็อปปิงออนไลน์เติบโตอย่างรวดเร็ว นำโดยแพลตฟอร์มอย่าง Shopee และ Lazada และเส้นแบ่งระหว่างค้าปลีกออนไลน์กับหน้าร้านจริงพร่าเลือนลง เมื่อผู้ค้าปลีกดั้งเดิมเพิ่มบริการจัดส่ง คลิก-แอนด์-คอลเลกต์ และหน้าร้านออนไลน์ ตัวเลขรายได้อีคอมเมิร์ซของ DOSM สูงถึงระดับหลายล้านล้านริงกิต แม้ว่ายอดรวมนั้นจะครอบคลุมภาคการผลิตและบริการ ไม่ใช่เฉพาะค้าปลีก
 lang: th
-sourceContentHash: "7023892418e3b1e5"
+sourceContentHash: "563295af54c5015d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -103,6 +103,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_NU_Sentral,_2023_(01).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-1.webp
+    alt: ทางเดินซูเปอร์มาร์เก็ตที่ยาวพร้อมชั้นวางสีขาวเต็มไปด้วยน้ำตาลบรรจุถุง น้ำมันปรุงอาหารและสินค้าบรรจุหีบห่อ ใต้ป้ายทางเดินสีเขียวที่เขียนว่า GULA AGAR-AGAR 21 พื้นกระเบื้องสะอาดทอดยาวไปในระยะไกล
+    kind: actual
+    origin: third-party
+    subject: ทางเดินสินค้าของชำที่เต็มไปด้วยสินค้าในไฮเปอร์มาร์เก็ต Giant ที่โกตาดามันซารา รัฐเซอลาโงร์ รูปแบบหลักของการค้าปลีกในมาเลเซีย
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sugar_and_agar-agar_powder_section_(Aisle_21)_of_Giant_Hypermarket_Kota_Damansara_at_Dataran_Sunway_in_Kota_Damansara,_Selangor_20250315_103201.jpg
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-2.webp
+    alt: โรงตลาดเปิดโล่งชั้นเดียวที่ยาวพร้อมหลังคาสีน้ำตาลเก่า มีรถบรรทุกบรรทุกผลผลิตและรถบรรทุกเล็กสองคันจอดอยู่ด้านหน้าบนลานยางมะตอยที่มีแดดส่องใต้ท้องฟ้าสีครามสดใส
+    kind: actual
+    origin: third-party
+    subject: ตลาดสดเปิดโล่งแบบดั้งเดิมที่ยะโฮร์จายาซึ่งมีรถบรรทุกส่งผลผลิตสด ส่วนหนึ่งของการค้าอาหารค้าส่งและค้าปลีกของมาเลเซีย
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Jaya_Wet_Market.jpg
 ---
 
 แทบทุกริงกิตที่ชาวมาเลเซียใช้จ่ายไปกับสินค้าที่จับต้องได้ — ของชำ โทรศัพท์ รถยนต์ น้ำมันปรุงอาหารสักขวด — ล้วนผ่านการค้าปลีกและค้าส่ง มันคือระบบท่อน้ำของการบริโภคในชีวิตประจำวัน: เครือข่ายของผู้นำเข้า ผู้ค้าส่ง ผู้จัดจำหน่าย ร้านค้า ตลาด และร้านค้าออนไลน์ ที่เคลื่อนย้ายสินค้าจากที่ผลิตไปยังที่ซื้อ เจ้าหน้าที่เรียกเครือข่ายนี้ว่า **การค้าแบบกระจายสินค้า (distributive trade)** และมันเป็นหนึ่งในส่วนที่ใหญ่ที่สุดและเห็นได้ชัดที่สุดของเศรษฐกิจมาเลเซีย

@@ -31,7 +31,7 @@ faq:
   - q: Apakah sokongan kerajaan yang wujud untuk sektor M&E?
     a: M&E ialah industri berteknologi tinggi keutamaan MIDA yang layak untuk insentif pelaburan, dan ia menjadi teras kepada dasar Industri 4.0 negara Industry4WRD, yang menawarkan geran seperti Dana Intervensi Industry4WRD dan Dana Strategik Pelaburan Domestik untuk firma yang menerima pakai automasi dan teknologi termaju.
 lang: ms
-sourceContentHash: "e4dca19fd76c4c0c"
+sourceContentHash: "a4476ce582345f78"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -100,6 +100,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:CNC_Machine_Facility.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/machinery-equipment-industry/body-1.webp
+    alt: Jentera pembinaan berat berwarna kuning yang separa dipasang berbaris di dalam sebuah dewan pembuatan industri yang besar.
+    kind: representative
+    origin: third-party
+    subject: Loji pembuatan jentera berat (mewakili pengeluaran jentera industri)
+    credit: Huangdan2060 / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ASany_Heavy_Industry_1.jpg
+  - role: scene
+    src: /media/industries/machinery-equipment-industry/body-2.webp
+    alt: Sebuah barisan kimpalan robotik automatik menyambung panel keluli besar pada talian pemasangan di dalam sebuah kilang peralatan berat.
+    kind: representative
+    origin: third-party
+    subject: Barisan pemasangan kimpalan robotik di sebuah kilang peralatan berat (mewakili)
+    credit: AKomkova / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A%D0%9B%D0%B8%D0%BD%D0%B8%D1%8F_%D1%81%D0%B2%D0%B0%D1%80%D0%BA%D0%B8_%D0%B1%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D1%81%D1%82%D0%B5%D0%BD%D1%8B_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%B0._%C2%AB%D0%A2%D0%B8%D1%85%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%C2%BB.jpg
 ---
 
 Setiap kilang berjalan atas mesin — dan mesin itu perlu dibina oleh seseorang. Industri jentera & peralatan (M&E) ialah bahagian pembuatan yang membuat barisan pengeluaran, jentera proses, alat pengerjaan logam, sistem kuasa dan automasi yang menjadi sandaran setiap industri *lain*. Ia industri besar yang paling tidak kelihatan dalam ekonomi dan, atas sebab itulah, salah satu yang paling penting dari segi strategik.

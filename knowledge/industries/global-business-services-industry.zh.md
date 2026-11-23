@@ -64,7 +64,27 @@ sources:
     url: https://www.digitalnewsasia.com/business/malaysias-gbs-sector-urged-expand-beyond-klang-valley-through-state-specialisation
     publisher: Digital News Asia
   - title: 马来西亚数字地位——税务激励 (Malaysia Digital Status — Tax Incentives)
-    url: https://www.crowe.com/my/insights/malaysia-digital-status---tax-incentives
+    url: https://www.crowe.com/my/insights/malaysia-digital-status
+images:
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-1.webp
+    alt: 马来西亚雪兰莪赛城商业园区内一栋现代化的玻璃与混凝土多层企业办公楼。
+    kind: representative
+    origin: third-party
+    subject: 马来西亚全球服务枢纽赛城的企业办公楼
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-2.webp
+    alt: 一个超大型开放式呼叫中心楼面上，一排排客服专员坐在电脑工位前。
+    kind: representative
+    origin: third-party
+    subject: 大型呼叫中心办公楼面（代表性的共享服务／BPO工作场所）
+    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
+---tax-incentives
     publisher: Crowe Malaysia
   - title: "马来西亚蓬勃的 GBS 领域：数字经济的驱动力 (Malaysia's thriving GBS sector: A driving force in the digital economy)"
     url: https://knightfrank.com/your-space/2024-03-26-malaysias-thriving-gbs-sector-a-driving-force-in-the-digital-economy

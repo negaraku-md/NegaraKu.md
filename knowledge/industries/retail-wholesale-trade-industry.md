@@ -102,6 +102,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_NU_Sentral,_2023_(01).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-1.webp
+    alt: A long supermarket aisle with white shelving packed with bagged sugar, cooking oil and packaged goods under a green aisle sign reading GULA AGAR-AGAR 21, with a clean tiled floor receding into the distance
+    kind: actual
+    origin: third-party
+    subject: a stocked grocery aisle at a Giant hypermarket in Kota Damansara, Selangor, a mainstay format of Malaysia's retail trade
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sugar_and_agar-agar_powder_section_(Aisle_21)_of_Giant_Hypermarket_Kota_Damansara_at_Dataran_Sunway_in_Kota_Damansara,_Selangor_20250315_103201.jpg
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-2.webp
+    alt: A long single-storey open market shed with a weathered brown roof, a lorry stacked with produce and two smaller trucks parked in front on a sunlit tarmac lot under a bright blue sky
+    kind: actual
+    origin: third-party
+    subject: a traditional open-sided wet market in Johor Jaya with lorries delivering fresh produce, part of Malaysia's wholesale and retail food trade
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Jaya_Wet_Market.jpg
 ---
 
 Almost every ringgit a Malaysian spends on physical goods — groceries, a phone, a car, a bottle of cooking oil — passes through the retail and wholesale trade. It is the plumbing of everyday consumption: the network of importers, wholesalers, distributors, shops, markets and online stores that moves products from where they are made to where they are bought. Officials call this network **distributive trade**, and it is one of the largest and most visible parts of the Malaysian economy.

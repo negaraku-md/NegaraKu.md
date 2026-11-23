@@ -31,7 +31,7 @@ faq:
   - q: M&E துறைக்கு என்ன அரசாங்க ஆதரவு உள்ளது?
     a: M&E முதலீட்டு ஊக்கத்தொகைகளுக்குத் தகுதியான ஒரு MIDA முன்னுரிமை உயர்-தொழில்நுட்பத் தொழிலாகும், மேலும் இது Industry4WRD தேசிய தொழில் 4.0 கொள்கைக்கு மையமானது, இது தானியக்கம் மற்றும் மேம்பட்ட தொழில்நுட்பத்தைப் பின்பற்றும் நிறுவனங்களுக்கு Industry4WRD தலையீட்டு நிதி மற்றும் உள்நாட்டு முதலீட்டு மூலோபாய நிதி போன்ற மானியங்களை வழங்குகிறது.
 lang: ta
-sourceContentHash: "e4dca19fd76c4c0c"
+sourceContentHash: "a4476ce582345f78"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -100,6 +100,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:CNC_Machine_Facility.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/machinery-equipment-industry/body-1.webp
+    alt: ஒரு பெரிய தொழில்துறை உற்பத்திக் கூடத்தின் உள்ளே பகுதியாக அசெம்பிள் செய்யப்பட்ட மஞ்சள் கன கட்டுமான இயந்திரங்கள் வரிசையாக நிற்கின்றன.
+    kind: representative
+    origin: third-party
+    subject: கன இயந்திர உற்பத்தி ஆலை (தொழில்துறை இயந்திர உற்பத்தியை பிரதிநிதித்துவப்படுத்துகிறது)
+    credit: Huangdan2060 / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ASany_Heavy_Industry_1.jpg
+  - role: scene
+    src: /media/industries/machinery-equipment-industry/body-2.webp
+    alt: ஒரு கன உபகரண தொழிற்சாலையின் உள்ளே தானியங்கி ரோபோ வெல்டிங் வரிசை ஒன்று அசெம்பிளி வரிசையில் பெரிய எஃகு பலகைகளை இணைக்கிறது.
+    kind: representative
+    origin: third-party
+    subject: கன உபகரண தொழிற்சாலையில் ரோபோ வெல்டிங் அசெம்பிளி வரிசை (பிரதிநிதித்துவம்)
+    credit: AKomkova / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A%D0%9B%D0%B8%D0%BD%D0%B8%D1%8F_%D1%81%D0%B2%D0%B0%D1%80%D0%BA%D0%B8_%D0%B1%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D1%81%D1%82%D0%B5%D0%BD%D1%8B_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%B0._%C2%AB%D0%A2%D0%B8%D1%85%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%C2%BB.jpg
 ---
 
 ஒவ்வொரு தொழிற்சாலையும் இயந்திரங்களில் இயங்குகிறது — மேலும் அந்த இயந்திரங்களை யாரோ ஒருவர் கட்டமைக்க வேண்டும். இயந்திரங்கள் மற்றும் உபகரண (M&E) தொழில் என்பது ஒவ்வொரு *மற்ற* தொழிலும் சார்ந்திருக்கும் உற்பத்தி வரிகள், செயல்முறை இயந்திரங்கள், உலோக வேலை கருவிகள், மின்சக்தி அமைப்புகள் மற்றும் தானியக்கத்தைச் செய்யும் உற்பத்தியின் பகுதியாகும். இது பொருளாதாரத்தில் குறைவாகத் தெரியும் பெரிய தொழிலாகும், மேலும் சரியாக அந்தக் காரணத்திற்காக, மிகவும் மூலோபாய ரீதியாக முக்கியமானவற்றுள் ஒன்று.

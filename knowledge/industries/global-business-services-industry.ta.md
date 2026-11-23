@@ -64,7 +64,27 @@ sources:
     url: https://www.digitalnewsasia.com/business/malaysias-gbs-sector-urged-expand-beyond-klang-valley-through-state-specialisation
     publisher: Digital News Asia
   - title: Malaysia Digital நிலை — வரி ஊக்கத்தொகைகள் (Malaysia Digital Status — Tax Incentives)
-    url: https://www.crowe.com/my/insights/malaysia-digital-status---tax-incentives
+    url: https://www.crowe.com/my/insights/malaysia-digital-status
+images:
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-1.webp
+    alt: மலேசியா, சிலாங்கூர், சைபர்ஜெயா வணிகப் பூங்காவில் கண்ணாடி மற்றும் கான்கிரீட்டால் ஆன நவீன நடுத்தர-உயர நிறுவன அலுவலகக் கட்டிடம்.
+    kind: representative
+    origin: third-party
+    subject: மலேசியாவின் உலகளாவிய சேவை மையமான சைபர்ஜெயாவில் ஒரு நிறுவன அலுவலகக் கட்டிடம்
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-2.webp
+    alt: மிகப் பெரிய திறந்த-வடிவமைப்பு அழைப்பு மையத் தளம் முழுவதும் கணினி பணிநிலையங்களில் முகவர்களின் வரிசைகள்.
+    kind: representative
+    origin: third-party
+    subject: பெரிய அழைப்பு மைய அலுவலகத் தளம் (பகிர்-சேவை/BPO பணியிடத்தை பிரதிநிதித்துவப்படுத்துகிறது)
+    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
+---tax-incentives
     publisher: Crowe Malaysia
   - title: "மலேசியாவின் செழிக்கும் GBS துறை: டிஜிட்டல் பொருளாதாரத்தில் ஒரு இயக்கு சக்தி (Malaysia's thriving GBS sector: A driving force in the digital economy)"
     url: https://knightfrank.com/your-space/2024-03-26-malaysias-thriving-gbs-sector-a-driving-force-in-the-digital-economy

@@ -31,7 +31,7 @@ faq:
   - q: "อุตสาหกรรมอวกาศของมาเลเซียแตกต่างจากอุตสาหกรรมการบินและอวกาศหรือไม่?"
     a: "ใช่ อุตสาหกรรมการบินและอวกาศครอบคลุมการบิน การซ่อมบำรุงและยกเครื่อง (MRO) และโครงสร้างอากาศยาน ส่วนอุตสาหกรรมอวกาศครอบคลุมดาวเทียม การปล่อย การกำกับดูแลอวกาศ และบริการปลายน้ำอย่างการสื่อสารผ่านดาวเทียมและการสำรวจระยะไกล"
 lang: th
-sourceContentHash: "c74b519cf5166ca0"
+sourceContentHash: "932846867c424136"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -115,6 +115,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Antennas_at_Awarua_Satellite_Ground_Station.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/space-industry/body-1.webp
+    alt: วิศวกรในชุดคลุมคลีนรูมสีเขียวอ่อนและขาวพร้อมหมวกคลุมทำงานรอบครอบจรวดทรงกรวยสีขาวสูงที่แขวนด้วยอุปกรณ์ยกสีเหลืองบนแท่นมีล้อในคลีนรูมที่สว่างจ้า
+    kind: representative
+    origin: third-party
+    subject: ช่างเทคนิคในชุดคลีนรูมกำลังเตรียมดาวเทียมที่หุ้มแล้วบนส่วนประกอบท่อนบนของจรวดขนส่ง แทนการสร้างและเตรียมการปล่อยดาวเทียม
+    credit: ESA_events / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sentinel-2A_satellite_-_On_the_transportation_platform.jpg
+  - role: scene
+    src: /media/industries/space-industry/body-2.webp
+    alt: ท้องฟ้ายามค่ำคืนมืดเหนือผืนน้ำสงบมีลำแสงโค้งสว่างสองเส้นพาดผ่าน เส้นหนึ่งพุ่งขึ้นชันจากแท่นปล่อยที่สว่างไสวทางซ้าย และอีกเส้นที่จางกว่ากำลังลดระดับลงจอดทางขวา
+    kind: representative
+    origin: third-party
+    subject: การปล่อยจรวดยามค่ำคืนแบบเปิดรับแสงนาน แสดงเส้นโค้งสว่างของการทะยานขึ้นและเส้นโค้งที่สองของบูสเตอร์ที่กลับมาลงจอด แทนบริการการปล่อยจรวด
+    credit: SpaceX / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CRS-9_mission_(28348649546).jpg
 ---
 
 มาเลเซียไม่ได้ปล่อยจรวดของตนเอง แต่ก็ได้ส่งนักบินอวกาศ สร้างและดำเนินการไมโครดาวเทียม และผ่านกฎหมายเพื่อออกใบอนุญาตกิจกรรมอวกาศเอกชนก่อนประเทศเพื่อนบ้านส่วนใหญ่ ภาคอวกาศของมาเลเซียเล็กและเชิงกลยุทธ์อย่างเงียบ ๆ — ร้อยเรียงผ่านนโยบายบรอดแบนด์ การกลาโหม การเฝ้าระวังภัยพิบัติ และศักดิ์ศรีของชาติ คู่มือนี้แมปสำนักงาน กฎหมาย ดาวเทียม และความทะเยอทะยานที่ประกอบขึ้นเป็นเศรษฐกิจอวกาศของมาเลเซีย

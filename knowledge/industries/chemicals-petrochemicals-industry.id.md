@@ -31,7 +31,7 @@ faq:
   - q: Bagaimana pemerintah mendukung industri kimia?
     a: Malaysian Investment Development Authority (MIDA), melalui Chemical and Advanced Material Division-nya, mengevaluasi lisensi manufaktur dan menawarkan insentif seperti Pioneer Status dan Investment Tax Allowance. Proyek minyak bumi dan petrokimia juga diatur di bawah Petroleum Development Act 1974. Chemical Industry Roadmap 2030 dan New Industrial Master Plan 2030 menetapkan arah strategis menuju kimia khusus yang bernilai lebih tinggi.
 lang: id
-sourceContentHash: "dd296a225bbc1577"
+sourceContentHash: "5b202e406f8d70f8"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-1.webp
+    alt: Kolom distilasi dan tangki penyimpanan kilang minyak Hengyuan di sebelah timur Port Dickson, Negeri Sembilan, terlihat pada siang hari.
+    kind: actual
+    origin: third-party
+    subject: Kilang penyulingan minyak Hengyuan di Port Dickson, Negeri Sembilan
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-2.webp
+    alt: Cerobong suar dan struktur pengolahan Terminal Minyak dan Gas Sabah di Kimanis, Sabah, di bawah langit siang hari.
+    kind: actual
+    origin: third-party
+    subject: Terminal Minyak & Gas Sabah (SOGT) di Kimanis
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-01a.jpg
 ---
 
 Plastik, pupuk, deterjen, karet sintetis, kosmetik, cat, dan resin di dalam casing ponsel Anda semuanya bermula sebagai bahan kimia — dan sebagian besar yang mengejutkan dari semuanya, atau blok penyusunnya, dibuat di Malaysia. Di balik kisah minyak-dan-gas serta minyak sawit yang lebih terkenal, berdiri sebuah industri kimia dan petrokimia yang besar dan diam-diam strategis, yang mengubah hidrokarbon mentah dan minyak nabati menjadi material yang menjadi sandaran kehidupan modern.

@@ -31,7 +31,7 @@ faq:
   - q: マレーシアでカカオはどこで今も栽培されていますか。
     a: "主にサバ州、特に内陸部とタワウ地域です。ここは1980年代のブームを牽引し、現在も残存する作付面積と生産量の大半を占めています。"
 lang: ja
-sourceContentHash: "794991b243f75e9b"
+sourceContentHash: "bbbb8e26421eae19"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -114,6 +114,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cacao_fruit_in_C%C3%B4te_d''Ivoire_(11).JPG'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/cocoa-industry/body-1.webp
+    alt: 発酵させたカカオ豆を木製のトレイに広げ、屋外の日差しの下で乾燥させている様子。
+    kind: representative
+    origin: third-party
+    subject: 天日で乾燥させるカカオ豆
+    credit: Chuck Moravec / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sao_Tome_Monteforte_Cocoa_Beans_Drying_3_(15629101423).jpg
+  - role: scene
+    src: /media/industries/cocoa-industry/body-2.webp
+    alt: チョコレート加工の工程で粉砕機に投入される準備が整った、焙煎された濃い色のカカオ豆の山。
+    kind: representative
+    origin: third-party
+    subject: 加工を待つ焙煎済みのカカオ豆
+    credit: ElmerGuevara / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cacao_Tostado..JPG
 ---
 
 マレーシアは、カカオの栽培をほとんどやめてしまった世界有数のカカオ加工国である。わずか一世代のうちに、サバ半島やマレー半島の丘陵地が莢で重く垂れ下がるトップ4の豆生産国から、船積みで豆を輸入し自国ではわずか数百トンしか収穫しない国へと変貌した。残り、そして栄えたのは工場側だった。輸入した豆をカカオバター、パウダー、リカー、そして輸出用の完成菓子に変える加工ミル、精製所、チョコレート製造ラインである。その結果が「カカオのパラドックス」、すなわち、ほぼ消滅した上流の上に世界クラスの下流産業が乗っている状態だ。

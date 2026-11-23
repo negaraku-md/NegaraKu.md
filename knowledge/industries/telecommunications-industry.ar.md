@@ -31,7 +31,7 @@ faq:
   - q: "هل لا يزال سوق الاتصالات في ماليزيا ينمو؟"
     a: "نمو المشتركين استقرّ إلى حد كبير لأن السوق شبه مُشبَعة. ويُتوقّع أن يأتي النمو المستقبلي من خدمات أعلى قيمة — 5G وترقيات الألياف والاتصال المؤسسي والخدمات الرقمية — لا من تسجيل أعداد كبيرة من المستخدمين الجدد."
 lang: ar
-sourceContentHash: "71058a53ca5ab530"
+sourceContentHash: "0c39b625a601c6e7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -111,6 +111,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cellular_Telephone_Tower_-_Knoxville,_Tennessee_-_May_26,_2014.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-1.webp
+    alt: جناح معرض كبير داكن يحمل في أعلاه شعار CelcomDigi مضاءً واسم العلامة، ولوحة زرقاء متوهّجة مكتوب عليها CelcomDigi fibre, Ultra Smooth Low Latency، وزوّار يرتدون كمامات متجمّعون في الأسفل.
+    kind: actual
+    origin: third-party
+    subject: جناح معرض لـ CelcomDigi يروّج للإنترنت عبر الألياف، يُظهر الحضور الاستهلاكي لمشغّل ماليزي للهاتف المحمول والإنترنت
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CelcomDigi_booth_at_Comic_Fiesta_2023.jpg
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-2.webp
+    alt: جدار طويل من خوادم الحاسوب المركّبة على رفوف يمتدّ بزاوية، كل طبقة مرصّعة بأضواء حالة زرقاء متلألئة على خلفية الخزائن المعدنية الداكنة.
+    kind: representative
+    origin: third-party
+    subject: صفوف من معدّات الشبكات والخوادم تتوهّج بأضواء مؤشّرات زرقاء في مركز بيانات، البنية التحتية التي تدعم شبكات الاتصالات
+    credit: BalticServers.com / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg
 ---
 
 يحمل كل شخص في ماليزيا تقريبًا اتصالًا جوالًا، ولدى معظم المنازل شكل من النطاق العريض. وهذا يجعل الاتصالات إحدى أهم صناعات البلاد وأكثرها نضجًا — السباكة غير المرئية تحت الاقتصاد الرقمي والصيرفة الإلكترونية والحكومة الإلكترونية والحياة اليومية. ومع ذلك، خلف الأسماء التجارية المألوفة تجلس سوق تغيّرت تغيّرًا كبيرًا في السنوات الأخيرة: مشغّلون أقلّ، واندماجات أكبر، وتجربة وطنية في كيفية بناء 5G.

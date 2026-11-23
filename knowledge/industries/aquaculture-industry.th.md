@@ -31,7 +31,7 @@ faq:
   - q: "เหตุใดการเพาะเลี้ยงสัตว์น้ำจึงสำคัญต่อความมั่นคงทางอาหารของมาเลเซีย?"
     a: "ปลาเป็นแหล่งโปรตีนจากสัตว์หลักของมาเลเซีย และการจับจากธรรมชาติได้ถึงจุดอิ่มตัวแล้ว การเพาะเลี้ยงสัตว์น้ำเป็นกลไกหลักในการยกระดับอัตราการพึ่งพาตนเองด้านปลาของชาติ — ราว 90.7% ในปี 2025 — และนโยบายอาหารเกษตรแห่งชาติสนับสนุนปลาเพาะเลี้ยงมากกว่าปลาจับอย่างชัดเจนเพื่อรองรับความต้องการในอนาคต"
 lang: th
-sourceContentHash: "8e2067b1d42a9bd3"
+sourceContentHash: "b24cfb615c370a6d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -110,6 +110,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Foto_Keramba_Ikan_(Panatapan,_Parapat,_Simalungun).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-1.webp
+    alt: บ่อเพาะเลี้ยงสัตว์น้ำจืดที่นิ่งสงบล้อมรอบด้วยพรรณไม้เขียวขจีที่กัมปงเตียง รัฐซาบะฮ์ ประเทศมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: บ่อเพาะเลี้ยงปลาที่กัมปงเตียง รัฐซาบะฮ์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tiang_Sabah_Fish-aquaculture-01.jpg
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-2.webp
+    alt: บ่อเพาะเลี้ยงปลาก้นดินที่ใช้สำหรับการเรียนภาคปฏิบัติที่ฟาร์มของคณะในมหาวิทยาลัยปุตรามาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: บ่อปลาเพื่อการเรียนการสอนด้านการเพาะเลี้ยงสัตว์น้ำที่มหาวิทยาลัยปุตรามาเลเซีย
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0906).jpg
 ---
 
 ปลาส่วนใหญ่บนจานอาหารเย็นของชาวมาเลเซียยังคงมาจากทะเล — แต่ส่วนแบ่งที่เติบโตอย่างรวดเร็วในปัจจุบันมาจากบ่อ กระชัง หรือแพไลน์ยาว นั่นคือการเพาะเลี้ยงสัตว์น้ำ: การเลี้ยงสิ่งมีชีวิตในน้ำอย่างจงใจ ซึ่งตรงข้ามกับการจับสิ่งที่ว่ายอยู่ในธรรมชาติ เมื่อการจับจากธรรมชาติของมาเลเซียถึงจุดอิ่มตัวและความต้องการโปรตีนสูงขึ้น การเพาะเลี้ยงสัตว์น้ำจึงกลายเป็นกลไกหลักของประเทศในการคงปลาไว้บนโต๊ะอาหาร บทความนี้เจาะลึกฝั่งการเพาะเลี้ยงของธุรกิจ; สำหรับภาพรวมในวงกว้าง รวมถึงกองเรือประมง สวัสดิการของชาวประมง และการบังคับใช้กฎหมาย ดู[ภาพรวมอุตสาหกรรมประมง](/th/agriculture/malaysian-fisheries-industry/)

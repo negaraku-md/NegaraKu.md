@@ -31,7 +31,7 @@ faq:
   - q: これはマレーシアの家具産業と同じですか。
     a: いいえ。このガイドは上流の資源部門――森林、伐採、そして原木・製材・合板といった一次製品――を扱います。家具・仕上げ木材製品の部門は、それらの一次製品を輸出向けのより付加価値の高い品へと変える下流の製造側です。両者は結びついていますが、通常は別々の産業として扱われます。
 lang: ja
-sourceContentHash: "21ca9448b6bc735f"
+sourceContentHash: "ecb30ab62f1f2cdc"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -104,6 +104,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sawmill-02.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/forestry-timber-industry/body-1.webp
+    alt: マレーシア・サバ州の地方の製材所の、屋根だけの建屋の下に積み上げられた製材済みの広葉樹板材と丸太の山。
+    kind: actual
+    origin: third-party
+    subject: マレーシア・サバ州カンポン・ムンパカッの製材所
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AMempakad_Sabah_Sawmill-01.jpg
+  - role: scene
+    src: /media/industries/forestry-timber-industry/body-2.webp
+    alt: サバ州サンダカンの合板工場で、ホイールローダーが熱帯産広葉樹の丸太をトリミング工程へと運んでいる様子。
+    kind: actual
+    origin: third-party
+    subject: マレーシア・サバ州サンダカンの合板工場の丸太置き場
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ASandakan_Sabah_Plywood-Factory-05.jpg
 ---
 
 マレーシアは、地球上で最も古い熱帯雨林のいくつかにまたがって位置しており、その近代史の多くにおいて、熱帯広葉樹の取引は国民経済の柱の一つであった。その上流の世界――森林そのもの、それを伐採する免許、そして原木を木材へと最初に加工すること――は、連鎖のさらに下流にある家具工場や木材製品の輸出業者とは別個の産業である。このガイドは、**林業・木材資源部門**を扱う。木材がどこから来るか、誰がそれを管理するか、どう輸出されるか、そしていまやそれを作り変えつつある持続可能性と市場の圧力である。

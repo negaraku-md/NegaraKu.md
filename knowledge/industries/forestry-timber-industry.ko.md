@@ -31,7 +31,7 @@ faq:
   - q: 이것은 말레이시아 가구 산업과 같은 것인가요?
     a: 아닙니다. 이 가이드는 업스트림 자원 부문 — 산림, 벌목, 그리고 원목·제재목·합판 같은 1차 제품 — 을 다룹니다. 가구·완제품 목재 부문은 그 1차 제품을 더 높은 부가가치의 수출 상품으로 바꾸는 다운스트림 제조 끝입니다. 둘은 연결되어 있지만 대개 별개의 산업으로 다뤄집니다.
 lang: ko
-sourceContentHash: "21ca9448b6bc735f"
+sourceContentHash: "ecb30ab62f1f2cdc"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -104,6 +104,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sawmill-02.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/forestry-timber-industry/body-1.webp
+    alt: 말레이시아 사바주의 한 시골 제재소 지붕만 덮인 건물 아래 쌓인 켠 활엽수 판재와 통나무 더미들.
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 사바주 캄풍 멈파카드의 제재소
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AMempakad_Sabah_Sawmill-01.jpg
+  - role: scene
+    src: /media/industries/forestry-timber-industry/body-2.webp
+    alt: 사바주 산다칸의 합판 공장에서 휠 로더가 열대 활엽수 통나무를 재단 공정으로 옮기고 있는 모습.
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 사바주 산다칸 합판 공장의 통나무 야적장
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ASandakan_Sabah_Plywood-Factory-05.jpg
 ---
 
 말레이시아는 지구에서 가장 오래된 열대우림의 일부에 걸쳐 있으며, 현대사의 상당 기간 열대 경목(硬木) 교역은 국가 경제의 기둥 중 하나였습니다. 그 업스트림 세계 — 산림 자체, 그것을 벌목할 면허, 그리고 원목을 목재로 만드는 1차 가공 — 는 사슬 아래쪽의 가구 공장·목재 제품 수출업체와는 별개의 산업입니다. 이 가이드는 **임업·목재 자원 부문**을 다룹니다. 목재가 어디서 오는지, 누가 통제하는지, 어떻게 수출되는지, 그리고 이제 이를 재편하는 지속가능성·시장 압박은 무엇인지입니다.

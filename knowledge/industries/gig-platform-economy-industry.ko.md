@@ -60,7 +60,27 @@ sources:
     url: https://mohr.gov.my/images/pdf/KENYATAAN%20MEDIA%20PEKERJA%20GIG.pdf
     publisher: 말레이시아 인적자원부 (KESUMA)
   - title: Cabinet approves SEGiM to safeguard gig workers' welfare
-    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig---tpm
+    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig
+images:
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-1.webp
+    alt: 분홍색 foodpanda 재킷과 헬멧을 착용한 배달원이 커다란 분홍색 foodpanda 보온 배달 박스를 실은 언더본(kapcai) 오토바이를 타고 도로 정체 속에 멈춰 선 모습.
+    kind: representative
+    origin: third-party
+    subject: 분홍색 보온 배달 박스를 실은 foodpanda 오토바이 배달원(긱 플랫폼 노동의 대표 사례, Grab 아님)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-2.webp
+    alt: 커다란 보온 배달 백팩을 멘 채 보도에 서 있는 플랫폼 음식 배달원.
+    kind: representative
+    origin: third-party
+    subject: 플랫폼 보온 배달 가방을 멘 음식 배달원(Grab 아님)
+    credit: Alexander Corkhill / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
+---tpm
     publisher: Sinar Harian
   - title: Parliament Passes Gig Workers Bill 2025
     url: https://ringgitplus.com/en/blog/personal-finance-news/parliament-passes-gig-workers-bill-2025.html

@@ -31,7 +31,7 @@ faq:
   - q: 同産業が直面する主な課題は何ですか。
     a: 同部門は、農家の高齢化、変動の激しい世界価格、気候ストレス、そしてベトナム、インドネシア、インドといったより大規模な生産国との熾烈な競争に直面しています。低い機械化率と生豆輸出への依存がマージンを薄く保っており、だからこそ政策は現在、再植栽、技術、下流加工を重視しています。
 lang: ja
-sourceContentHash: "919642eafa94442f"
+sourceContentHash: "d190e9e277335f4c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -116,6 +116,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plant_climbing_poles.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pepper-industry/body-1.webp
+    alt: コショウの木のクローズアップ。丸い緑色の実がびっしりと連なって垂れ下がる数本の穂が、大きく光沢のある濃緑の葉に縁取られ、奥にはぼやけた緑の農園が広がる。
+    kind: actual
+    origin: third-party
+    subject: マレーシアのコショウ産業の中心地サラワクのコショウ農園で、黒コショウの木に長い穂をなして垂れ下がり、熟しつつある緑色のコショウの実の房
+    credit: Nick Allen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plants.jpg
+  - role: scene
+    src: /media/industries/pepper-industry/body-2.webp
+    alt: 低い手すりで縁取られた白塗りの屋上に、濃い色の乾燥中のコショウの実を敷いた四角いメッシュのトレイがいくつも並べられ、背後にはバナナやヤシの木、青空の下に森に覆われた丘が連なる。
+    kind: representative
+    origin: third-party
+    subject: 収穫したコショウの実を屋上のメッシュトレイに広げて天日干しする、緑色の実を黒コショウへと変える乾燥工程
+    credit: Rainer Halama / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pepper_drying_in_Munnar_Hills-WUS07148.jpg
 ---
 
 コショウはマレーシアで最も古く、最も地理的に特徴的な農産物の一つである。インド亜大陸とスマトラから持ち込まれたこのつる植物は、湿潤で水はけのよいサラワク州の丘陵地に理想の棲み家を見出し、何千もの農村の小規模農地の屋台骨となった。マレーシアは世界的な量では控えめな存在だが、評判では実力以上の力を発揮し、原産地証明付きのプレミアムな「サラワク・コショウ」を目の肥えた市場に売り込んでいる。本稿では、独立した一産業としての同部門の構造、地理、貿易、見通しを紹介する。

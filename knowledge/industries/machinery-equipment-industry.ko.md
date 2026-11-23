@@ -31,7 +31,7 @@ faq:
   - q: M&E 부문에는 어떤 정부 지원이 있나요?
     a: M&E는 투자 인센티브를 받을 수 있는 MIDA 우선 첨단기술 산업이며, 국가 산업 4.0 정책인 Industry4WRD의 중심입니다. 이 정책은 자동화와 첨단기술을 도입하는 기업에 Industry4WRD 개입기금과 국내투자전략기금 같은 보조금을 제공합니다.
 lang: ko
-sourceContentHash: "e4dca19fd76c4c0c"
+sourceContentHash: "a4476ce582345f78"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -101,6 +101,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:CNC_Machine_Facility.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/machinery-equipment-industry/body-1.webp
+    alt: 대형 산업 제조 홀 안에 늘어선 부분 조립된 노란색 중장비 건설 기계들.
+    kind: representative
+    origin: third-party
+    subject: 중장비 제조 공장(산업 기계 생산의 대표 사례)
+    credit: Huangdan2060 / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ASany_Heavy_Industry_1.jpg
+  - role: scene
+    src: /media/industries/machinery-equipment-industry/body-2.webp
+    alt: 중장비 공장 내 조립 라인에서 대형 강판을 접합하는 자동 로봇 용접 라인.
+    kind: representative
+    origin: third-party
+    subject: 중장비 공장 내 로봇 용접 조립 라인(대표 사례)
+    credit: AKomkova / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A%D0%9B%D0%B8%D0%BD%D0%B8%D1%8F_%D1%81%D0%B2%D0%B0%D1%80%D0%BA%D0%B8_%D0%B1%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D1%81%D1%82%D0%B5%D0%BD%D1%8B_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%B0._%C2%AB%D0%A2%D0%B8%D1%85%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%C2%BB.jpg
 ---
 
 모든 공장은 기계로 돌아가며 — 그 기계는 누군가가 만들어야 합니다. 기계·장비(M&E) 산업은 다른 *모든* 산업이 의존하는 생산 라인, 공정 기계, 금속가공 공구, 동력 시스템, 자동화를 만드는 제조업의 한 부분입니다. 경제에서 가장 눈에 띄지 않는 대형 산업이면서, 바로 그 이유로 가장 전략적으로 중요한 산업 중 하나입니다.

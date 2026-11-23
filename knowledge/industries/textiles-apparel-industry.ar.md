@@ -31,7 +31,7 @@ faq:
   - q: "ما الحوافز الداعمة لاستثمار المنسوجات والملابس؟"
     a: "تدير MIDA موافقات رخص التصنيع والحوافز الضريبية للقطاع الفرعي، وهو مجال أولوية في ظل الخطة الصناعية الرئيسية الجديدة (NIMP) 2030. واعتبارًا من الربع الأول 2026، تقع الاستثمارات المؤهَّلة ضمن إطار حوافز الاستثمار الجديد القائم على النتائج، بحوافز متدرّجة مرتبطة بنتائج كالتكنولوجيا والمهارات والروابط المحلية. تأكّد من المعدّلات والشروط الحالية مع MIDA."
 lang: ar
-sourceContentHash: "97b0b938d8bbc429"
+sourceContentHash: "eb32cad92737b99d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -104,6 +104,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-1.webp
+    alt: لقطة مقرّبة لقماش منسوج غنيّ الزخارف بلوحة مركزية حمراء من بروكار زهري ذهبي كثيف، يكتنفها حدّان بلون كستنائي بزخارف ذهبية على شكل معيّنات ونجوم.
+    kind: actual
+    origin: third-party
+    subject: تفصيل من قماش songket ملاوي من Terengganu منسوج بخيط ذهبي معدني، حرفة رائدة في التراث النسيجي لماليزيا
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-2.webp
+    alt: نول يدوي خشبي في ورشة بجدران من الطوب، إطاره مشدود بخيوط السداة وصفّ من بكرات خيوط حمراء وخضراء وزرقاء، ويظهر نسّاج جزئيًا يعمل على الجانب البعيد.
+    kind: representative
+    origin: third-party
+    subject: نسّاج يشغّل نولًا خشبيًا مشدودًا ببكرات خيوط ملوّنة في ورشة نسيج، تمثيلًا لنسج الأقمشة في صناعة النسيج
+    credit: Tarunsamanta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Power_loom_Weaving_in_Hooghly_District_09.jpg
 ---
 
 قبل أن تُعرَف ماليزيا بالرقائق الحاسوبية وزيت النخيل بوقت طويل، كانت تصنع القماش والملابس. فصناعة المنسوجات والملابس والأحذية من أقدم قطاعات التصنيع الحديثة في البلاد — من ذلك النوع الكثيف العمالة والموجّه للتصدير الذي ساعد على إطلاق التصنيع في السبعينيات والثمانينيات. وهي اليوم شريحة أصغر من اقتصاد أكبر بكثير، لكنها تظل مشغِّلًا حقيقيًا ومصدّرًا مطّردًا، وقطاعًا تسعى الحكومة فعليًا إلى إعادة ابتكاره.

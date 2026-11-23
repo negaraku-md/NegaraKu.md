@@ -31,7 +31,7 @@ faq:
   - q: ¿Qué incentivos existen para los fabricantes?
     a: Los dispositivos médicos son una actividad promovida por MIDA, elegible para incentivos como el Estatus Pionero (una exención parcial a total del impuesto sobre la renta durante un periodo determinado) y la Deducción por Inversión en Activos sobre el gasto de capital cualificable. Los dispositivos médicos también están nombrados sector prioritario en el Nuevo Plan Maestro Industrial 2030. Confirma los términos actuales y la elegibilidad directamente con MIDA.
 lang: es
-sourceContentHash: "7fd1c6521ba9829e"
+sourceContentHash: "f59d1ed2e2b0ce72"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -108,6 +108,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-1.webp
+    alt: Trabajadores con batas y gorros de protección manejan equipos en una línea de producción farmacéutica estéril.
+    kind: representative
+    origin: third-party
+    subject: Línea de producción farmacéutica/de productos médicos estéril con trabajadores con bata (representativa de la fabricación médica)
+    credit: Josep Lago, European Commission / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AView_of_a_production_line_at_the_Reig_Jofre_company's_headquarters.jpg
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-2.webp
+    alt: Técnicos con bata y equipos de acero inoxidable en una línea de producción en sala blanca dentro de una planta de fabricación de productos médicos.
+    kind: representative
+    origin: third-party
+    subject: Línea de producción en sala blanca en una planta de fabricación de productos médicos (representativa)
+    credit: Tehran Times / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACOVIran_Barekat_vaccine_production_03.jpg
 ---
 
 Si alguna vez has llevado un guante quirúrgico, te han extraído sangre a través de un catéter o te has recuperado con la ayuda de un implante ortopédico, hay una posibilidad razonable de que el dispositivo se fabricara en Malasia. Más allá de sus famosos guantes de caucho, el país se ha convertido discretamente en el lugar más importante del Sudeste Asiático para fabricar dispositivos médicos, y en una de las bases de fabricación de tecnología médica más significativas de cualquier parte del mundo.

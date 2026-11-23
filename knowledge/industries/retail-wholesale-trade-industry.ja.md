@@ -31,7 +31,7 @@ faq:
   - q: eコマースはマレーシアの小売をどう変えましたか。
     a: オンラインショッピングは、ShopeeやLazadaといったプラットフォームを筆頭に急速に成長し、伝統的な小売業者が配送、クリック・アンド・コレクト、オンライン店舗を加えるにつれて、オンラインと実店舗の境界は曖昧になっています。DOSMのeコマース収入の数字は数兆リンギット規模に達しますが、その総額は製造業やサービス業にまたがるもので、小売だけではありません。
 lang: ja
-sourceContentHash: "7023892418e3b1e5"
+sourceContentHash: "563295af54c5015d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -103,6 +103,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_NU_Sentral,_2023_(01).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-1.webp
+    alt: 長い通路に白い棚が並び、袋入りの砂糖、食用油、包装商品がぎっしりと置かれ、GULA AGAR-AGAR 21と記された緑の通路表示の下、清潔なタイル張りの床が奥へと続く。
+    kind: actual
+    origin: third-party
+    subject: マレーシア・スランゴール州コタ・ダマンサラのGiantハイパーマーケットの商品が並んだ食品通路。マレーシアの小売業を支える主要な業態である
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sugar_and_agar-agar_powder_section_(Aisle_21)_of_Giant_Hypermarket_Kota_Damansara_at_Dataran_Sunway_in_Kota_Damansara,_Selangor_20250315_103201.jpg
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-2.webp
+    alt: 色あせた茶色の屋根を持つ細長い平屋の開放型市場の建屋。農産物を積んだローリー1台と、小型トラック2台が、日の当たるアスファルトの区画に、明るい青空の下で停まっている。
+    kind: actual
+    origin: third-party
+    subject: マレーシア・ジョホール・ジャヤで、ローリーが生鮮農産物を搬入する伝統的な開放型の市場（バザール）。マレーシアの卸売・小売食品取引の一端を担う
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Jaya_Wet_Market.jpg
 ---
 
 マレーシア人が物品――食料品、電話、車、料理用油の一本――に使うほぼすべてのリンギットは、小売・卸売業を通り抜けていく。それは日々の消費を支える配管設備のようなものだ。すなわち、製品が作られた場所から買われる場所へと動かす、輸入業者・卸売業者・流通業者・店舗・市場・オンラインストアのネットワークである。当局はこのネットワークを**流通取引（distributive trade）**と呼び、マレーシア経済の最も大きく、最も目に見える部分の一つとなっている。

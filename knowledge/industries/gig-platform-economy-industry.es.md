@@ -60,7 +60,27 @@ sources:
     url: https://mohr.gov.my/images/pdf/KENYATAAN%20MEDIA%20PEKERJA%20GIG.pdf
     publisher: Ministerio de Recursos Humanos (KESUMA), Malasia
   - title: El Gabinete aprueba la SEGiM para salvaguardar el bienestar de los trabajadores gig (Cabinet approves SEGiM to safeguard gig workers' welfare)
-    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig---tpm
+    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig
+images:
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-1.webp
+    alt: Un repartidor de comida con chaqueta y casco rosa de Foodpanda sobre una motocicleta tipo underbone (kapcai), que lleva una gran caja de reparto térmica rosa de Foodpanda mientras está detenido en el tráfico.
+    kind: representative
+    origin: third-party
+    subject: Repartidor de comida en moto de Foodpanda con caja de reparto térmica rosa (trabajo representativo de plataformas gig; no Grab)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-2.webp
+    alt: Un repartidor de comida de plataforma de pie en la acera con una gran mochila térmica de reparto de comida.
+    kind: representative
+    origin: third-party
+    subject: Repartidor de comida con una bolsa térmica de reparto de plataforma (no Grab)
+    credit: Alexander Corkhill / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
+---tpm
     publisher: Sinar Harian
   - title: El Parlamento aprueba el Proyecto de Ley de Trabajadores Gig de 2025 (Parliament Passes Gig Workers Bill 2025)
     url: https://ringgitplus.com/en/blog/personal-finance-news/parliament-passes-gig-workers-bill-2025.html

@@ -31,7 +31,7 @@ faq:
   - q: Bagaimana kerajaan menyokong industri kimia?
     a: Lembaga Pembangunan Pelaburan Malaysia (MIDA), melalui Bahagian Kimia dan Bahan Termaju, menilai permohonan lesen pembuatan dan menawarkan insentif seperti Taraf Perintis dan Elaun Cukai Pelaburan. Projek petroleum dan petrokimia juga dikawal di bawah Akta Kemajuan Petroleum 1974. Pelan Hala Tuju Industri Kimia 2030 dan Pelan Induk Perindustrian Baharu 2030 menetapkan arah strategik ke arah kimia istimewa yang bernilai lebih tinggi.
 lang: ms
-sourceContentHash: "dd296a225bbc1577"
+sourceContentHash: "5b202e406f8d70f8"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-1.webp
+    alt: Menara penyulingan dan tangki simpanan loji penapisan minyak Hengyuan di sebelah timur Port Dickson, Negeri Sembilan, dilihat pada waktu siang.
+    kind: actual
+    origin: third-party
+    subject: Loji penapisan minyak Hengyuan di Port Dickson, Negeri Sembilan
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-2.webp
+    alt: Menara suar dan struktur pemprosesan Terminal Minyak dan Gas Sabah di Kimanis, Sabah, di bawah langit siang hari.
+    kind: actual
+    origin: third-party
+    subject: Terminal Minyak & Gas Sabah (SOGT) di Kimanis
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-01a.jpg
 ---
 
 Plastik, baja, detergen, getah sintetik, kosmetik, cat dan resin di dalam sarung telefon anda semuanya bermula sebagai bahan kimia — dan sebahagian yang mengejutkan daripadanya, atau blok binaannya, dibuat di Malaysia. Di sebalik kisah minyak-dan-gas serta minyak sawit yang lebih terkenal di negara ini, terletak sebuah industri kimia dan petrokimia yang besar dan secara senyap bersifat strategik, yang menukarkan hidrokarbon mentah dan minyak sayuran menjadi bahan yang menjadi sandaran kehidupan moden.

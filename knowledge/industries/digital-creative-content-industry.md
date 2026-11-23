@@ -120,6 +120,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bones_Studio_hala.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/digital-creative-content-industry/body-1.webp
+    alt: Developers work at multi-monitor desks across the open studio floor of a video-game development house.
+    kind: representative
+    origin: third-party
+    subject: A video-game development studio floor
+    credit: Microsoft Corporation / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gears_4_The_Coalition.jpg
+  - role: scene
+    src: /media/industries/digital-creative-content-industry/body-2.webp
+    alt: A graphics tablet and stylus sit before a monitor showing a digital painting at a content creator's workstation.
+    kind: representative
+    origin: third-party
+    subject: A digital artist's workstation for producing digital paintings
+    credit: David Revoy / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2022-09-01_intuos-pro-large.jpg
 ---
 
 When Les' Copaque's _Upin & Ipin Universe_ reached consoles worldwide on **17 July 2025**, it closed a loop that began with a short animated series about two mischievous twins. A Malaysian cartoon had become a globally published video game — and a neat illustration of what the country's digital creative content industry has quietly built over two decades.

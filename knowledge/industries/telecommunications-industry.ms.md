@@ -31,7 +31,7 @@ faq:
   - q: Adakah pasaran telekomunikasi Malaysia masih berkembang?
     a: Pertumbuhan pelanggan sebahagian besarnya telah mendatar kerana pasaran hampir tepu. Pertumbuhan masa depan dijangka datang daripada perkhidmatan bernilai lebih tinggi — 5G, naik taraf fiber, ketersambungan perusahaan dan perkhidmatan digital — dan bukannya daripada mendaftarkan sejumlah besar pengguna baharu.
 lang: ms
-sourceContentHash: "71058a53ca5ab530"
+sourceContentHash: "0c39b625a601c6e7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cellular_Telephone_Tower_-_Knoxville,_Tennessee_-_May_26,_2014.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-1.webp
+    alt: Sebuah gerai pameran gelap yang besar dengan logo dan nama jenama CelcomDigi bercahaya di bahagian atas serta panel biru bercahaya bertulis CelcomDigi fibre, Ultra Smooth Low Latency, dengan pengunjung bertopeng muka berkumpul di bawahnya
+    kind: actual
+    origin: third-party
+    subject: sebuah gerai pameran CelcomDigi yang mempromosikan jalur lebar fiber, menunjukkan kehadiran pengguna sebuah pengendali mudah alih dan jalur lebar Malaysia
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CelcomDigi_booth_at_Comic_Fiesta_2023.jpg
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-2.webp
+    alt: Sebuah dinding panjang pelayan komputer yang dipasang pada rak menganjur pada satu sudut, setiap tingkat dihiasi lampu status biru berkilauan berlatarkan kabinet logam gelap
+    kind: representative
+    origin: third-party
+    subject: deretan peralatan rangkaian dan pelayan yang bersinar dengan lampu penunjuk biru di sebuah pusat data, infrastruktur yang menyokong rangkaian telekomunikasi
+    credit: BalticServers.com / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg
 ---
 
 Hampir semua orang di Malaysia membawa sambungan mudah alih, dan kebanyakan rumah mempunyai sejenis jalur lebar. Itu menjadikan telekomunikasi salah satu industri paling penting dan paling matang negara — paip tersembunyi di bawah ekonomi digital, perbankan dalam talian, e-kerajaan dan kehidupan harian. Namun di sebalik nama jenama yang biasa terletak pasaran yang telah berubah secara dramatik dalam tahun-tahun kebelakangan: pengendali lebih sedikit, penggabungan lebih besar dan satu eksperimen nasional tentang cara membina 5G.

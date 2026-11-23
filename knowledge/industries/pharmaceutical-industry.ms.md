@@ -31,7 +31,7 @@ faq:
   - q: Apakah syarikat farmaseutikal Malaysia yang utama?
     a: Pengeluar tempatan yang paling dikenali ialah Pharmaniaga (pembuat, pengedar dan pemegang konsesi kerajaan yang bersepadu), Duopharma Biotech (yang tumbuh daripada kumpulan CCM dan membuat biosimilar), CCM, Kotra Pharma dan Hovid. Syarikat multinasional seperti Pfizer, Novartis dan GSK memberi tumpuan terutamanya kepada ubat berpaten dan bukan pengeluaran tempatan berskala besar.
 lang: ms
-sourceContentHash: "74d70b70b888e308"
+sourceContentHash: "efa98834cc20c854"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -105,6 +105,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-1.webp
+    alt: Beberapa pekerja berkot dan bertopi biru berdiri mengelilingi meja kerja yang dipenuhi deretan rapat botol ubat kecil berwarna gelap, mengendali dan memeriksanya, di dalam sebuah loji farmaseutikal yang terang dengan kabinet bermuka kaca di sepanjang dinding
+    kind: representative
+    origin: third-party
+    subject: pekerja berpakaian seragam biru dan bertopi rambut memeriksa serta membungkus deretan botol ubat yang telah diisi di atas meja di bahagian pembungkusan farmaseutikal
+    credit: Aditiaudi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayursun_Packing_Division.jpg
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-2.webp
+    alt: Sepasang tangan bersarung tangan nitril biru dan berkot makmal putih meletakkan dulang plastik lutsinar berisi pil ke atas sebuah instrumen makmal keluli tahan karat yang berlabel amaran tentang permukaan panas
+    kind: representative
+    origin: third-party
+    subject: seorang juruteknik bersarung tangan memasukkan dulang sampel tablet ke dalam peralatan ujian di makmal kawalan mutu farmaseutikal
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_Drug_Research_(5917)_(8493715800).jpg
 ---
 
 Setiap kali seorang rakyat Malaysia menebus preskripsi untuk antibiotik, ubat tahan sakit atau pil tekanan darah, ada kemungkinan besar ubat itu dibuat di Malaysia — bukan dicipta di sini, tetapi diformulasi, dimampat, diisi dan dibungkus di sebuah kilang tempatan yang bekerja mengikut standard pembuatan antarabangsa. Itulah teras industri farmaseutikal Malaysia: asas pembuatan diterajui generik yang kukuh yang mengisi kabinet ubat negara, berpasangan dengan dua pertaruhan yang lebih bercita-cita tinggi — farmaseutikal halal dan pengeluaran vaksin — yang negara harap akan membawanya naik rantaian nilai.

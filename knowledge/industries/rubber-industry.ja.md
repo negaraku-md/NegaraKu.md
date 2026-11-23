@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "26170231d376fbab"
+sourceContentHash: "02c9f76b97e77ffc"
 
 status: "published"
 aiAssisted: true
@@ -109,6 +109,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Rubber_tree_and_latex_cup.j
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Tapped rubber tree with latex running down the spiral cut into a collection cup, Malaysia'
+images:
+  - role: scene
+    src: /media/industries/rubber-industry/body-1.webp
+    alt: 淡くまだら模様の細い幹を持つゴムの木が整然と列をなし、草の生えた農園の地面を奥へと続いていく。いくつかの幹の低い位置に、小さな黒いラテックス採取用カップが取り付けられている。
+    kind: actual
+    origin: third-party
+    subject: マレーシアのゴム産業の屋台骨である、ジョホールの農園エステートで、ラテックス採取用カップを取り付けて整然と並ぶ成熟したゴムの木
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubber_plantation_in_Johor.jpg
+  - role: scene
+    src: /media/industries/rubber-industry/body-2.webp
+    alt: 灰色のシャツを着た男性が、ゴム林の端で、黄色い鋳鉄製の圧延機の重いローラーの間に、圧搾された白いラテックスのシートを通している。そのかたわらには畝のついた2本目のローラーがある。
+    kind: representative
+    origin: third-party
+    subject: 天然ゴム加工の重要な工程である、手回し式のゴム圧延機で凝固したラテックスのシートを圧延する作業員
+    credit: Blue Plover / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Processing_rubber_in_Thailand.JPG
 ---
 
 かつて植民地時代のマラヤを築いたゴムは、もはやプランテーションで稼いでいるのではない——工場の現場で稼いでいるのである。マレーシアは今なお樹木からゴムを採取しているが、その富は今や自国が製造する医療用手袋、タイヤ、ラテックス製品にかかっており、この産業は自国が栽培する量を上回るゴムを扱っている。

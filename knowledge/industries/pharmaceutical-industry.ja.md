@@ -31,7 +31,7 @@ faq:
   - q: マレーシアの主な製薬会社はどこですか。
     a: 最もよく知られた地場メーカーは、Pharmaniaga（統合型のメーカー・流通業者・政府コンセッション保有者）、Duopharma Biotech（CCMグループから育ち、バイオシミラーを作る）、CCM、Kotra Pharma、Hovidです。Pfizer、Novartis、GSKといった多国籍企業は、大規模な地場生産というより主に特許医薬品に注力しています。
 lang: ja
-sourceContentHash: "74d70b70b888e308"
+sourceContentHash: "efa98834cc20c854"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -105,6 +105,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:View_of_a_production_line_at_the_Reig_Jofre_company%27s_headquarters.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-1.webp
+    alt: 青い上着と帽子を着けた数名の作業員が、濃い色の小さな薬瓶がびっしりと並ぶ作業台を囲んで立ち、それらを手に取って確認している。壁際にガラス戸の棚が並ぶ明るい製薬工場の中。
+    kind: representative
+    origin: third-party
+    subject: 製薬の包装部門で、作業台に並ぶ充填済みの薬瓶を検査し梱包する、青い制服とヘアキャップを着けた作業員たち
+    credit: Aditiaudi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayursun_Packing_Division.jpg
+  - role: scene
+    src: /media/industries/pharmaceutical-industry/body-2.webp
+    alt: 青いニトリル手袋と白衣をまとった両手が、高温面への注意を示す警告ラベルの貼られたステンレス製の実験器具に、透明なプラスチック製の錠剤トレイをセットしている。
+    kind: representative
+    origin: third-party
+    subject: 製薬の品質管理実験室で、錠剤サンプルのトレイを検査装置に取り付ける手袋をはめた技術者
+    credit: The U.S. Food and Drug Administration / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_Drug_Research_(5917)_(8493715800).jpg
 ---
 
 マレーシア人が抗生物質、鎮痛剤、あるいは血圧の錠剤の処方を受けるたびに、その医薬品がマレーシアで作られた可能性は十分にある――ここで発明されたのではなく、国際的な製造基準に準拠して操業する地場の工場で、処方され、打錠され、充填され、包装されたのだ。それこそがマレーシアの製薬産業の核心である。すなわち、国民の薬箱を満たし続ける堅実な、ジェネリック主導の製造基盤と、同国がバリューチェーンを駆け上がる助けになると期待する、より野心的な二つの賭け――ハラル医薬品とワクチン生産――である。

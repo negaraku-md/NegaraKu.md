@@ -35,7 +35,7 @@ faq:
     a: "Esports được công nhận là một bộ môn thi đấu và đã được tranh tài tại SEA Games. Ngân sách 2020 phân bổ RM20 triệu, và KBS thành lập Esports Integrated năm 2020 để thúc đẩy một lộ trình esports quốc gia và phát triển vận động viên."
 
 lang: vi
-sourceContentHash: "44ce56e91b46210b"
+sourceContentHash: "51c91ba2e97025e2"
 masterLanguage: en
 translationStatus: "in-sync"
 
@@ -121,6 +121,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bones_Studio_hala.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/digital-creative-content-industry/body-1.webp
+    alt: Các lập trình viên làm việc tại những bàn nhiều màn hình trên khắp sàn studio mở của một hãng phát triển trò chơi điện tử.
+    kind: representative
+    origin: third-party
+    subject: Sàn làm việc của một studio phát triển trò chơi điện tử
+    credit: Microsoft Corporation / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gears_4_The_Coalition.jpg
+  - role: scene
+    src: /media/industries/digital-creative-content-industry/body-2.webp
+    alt: Một bảng vẽ đồ họa và bút cảm ứng đặt trước màn hình đang hiển thị một bức tranh kỹ thuật số tại bàn làm việc của một nhà sáng tạo nội dung.
+    kind: representative
+    origin: third-party
+    subject: Bàn làm việc của một họa sĩ kỹ thuật số để tạo tranh kỹ thuật số
+    credit: David Revoy / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2022-09-01_intuos-pro-large.jpg
 ---
 
 Khi _Upin & Ipin Universe_ của Les' Copaque đến với các máy console trên toàn thế giới vào **ngày 17 tháng 7 năm 2025**, nó đã khép lại một vòng tròn bắt đầu bằng một loạt phim hoạt hình ngắn về hai cậu bé song sinh tinh nghịch. Một bộ phim hoạt hình Malaysia đã trở thành một trò chơi điện tử được xuất bản toàn cầu — và một minh họa gọn gàng cho những gì ngành nội dung sáng tạo số của đất nước đã âm thầm xây dựng trong hai thập kỷ.

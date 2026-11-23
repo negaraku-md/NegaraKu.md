@@ -64,7 +64,27 @@ sources:
     url: https://www.digitalnewsasia.com/business/malaysias-gbs-sector-urged-expand-beyond-klang-valley-through-state-specialisation
     publisher: Digital News Asia
   - title: "สถานะ Malaysia Digital — สิทธิประโยชน์ภาษี (Malaysia Digital Status — Tax Incentives)"
-    url: https://www.crowe.com/my/insights/malaysia-digital-status---tax-incentives
+    url: https://www.crowe.com/my/insights/malaysia-digital-status
+images:
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-1.webp
+    alt: อาคารสำนักงานบริษัทระดับกลางสมัยใหม่ที่ทำจากกระจกและคอนกรีตในนิคมธุรกิจไซเบอร์จายา รัฐเซอลาโงร์ ประเทศมาเลเซีย
+    kind: representative
+    origin: third-party
+    subject: อาคารสำนักงานบริษัทในไซเบอร์จายา ศูนย์กลางบริการระดับโลกของมาเลเซีย
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-2.webp
+    alt: เจ้าหน้าที่นั่งประจำสถานีงานคอมพิวเตอร์เรียงเป็นแถวทั่วพื้นที่คอลเซ็นเตอร์แบบเปิดโล่งขนาดใหญ่มาก
+    kind: representative
+    origin: third-party
+    subject: พื้นที่สำนักงานคอลเซ็นเตอร์ขนาดใหญ่ (ตัวอย่างสถานที่ทำงานบริการร่วม/BPO)
+    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
+---tax-incentives
     publisher: Crowe Malaysia
   - title: "ภาค GBS ที่เฟื่องฟูของมาเลเซีย: แรงขับเคลื่อนในเศรษฐกิจดิจิทัล (Malaysia's thriving GBS sector: A driving force in the digital economy)"
     url: https://knightfrank.com/your-space/2024-03-26-malaysias-thriving-gbs-sector-a-driving-force-in-the-digital-economy

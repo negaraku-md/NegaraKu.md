@@ -31,7 +31,7 @@ faq:
   - q: Insentif apa yang mendukung investasi tekstil dan pakaian?
     a: MIDA mengelola persetujuan lisensi manufaktur dan insentif pajak untuk subsektor ini, yang menjadi area prioritas di bawah New Industrial Master Plan (NIMP) 2030. Mulai kuartal pertama 2026, investasi yang memenuhi syarat masuk dalam New Investment Incentive Framework berbasis hasil yang baru, dengan insentif berjenjang yang dikaitkan pada hasil seperti teknologi, keterampilan, dan keterkaitan lokal. Konfirmasikan tarif dan syarat terkini dengan MIDA.
 lang: id
-sourceContentHash: "97b0b938d8bbc429"
+sourceContentHash: "eb32cad92737b99d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -104,6 +104,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-1.webp
+    alt: Foto dekat kain tenun bercorak indah dengan panel merah di tengah berisi brokat bunga emas yang padat, diapit oleh pinggiran merah marun bermotif berlian dan bintang emas
+    kind: actual
+    origin: third-party
+    subject: detail selembar kain songket Melayu dari Terengganu yang ditenun dengan benang logam emas, kriya unggulan warisan tekstil Malaysia
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-2.webp
+    alt: Sebuah alat tenun tangan kayu di dalam bengkel berdinding bata, rangkanya dipasangi benang lungsin dan sederet kumparan benang merah, hijau dan biru, seorang penenun tampak sebagian sedang bekerja di sisi jauh
+    kind: representative
+    origin: third-party
+    subject: seorang penenun mengoperasikan alat tenun kayu yang dipasangi kumparan benang berwarna di sebuah bengkel tenun, mewakili penenunan kain dalam industri tekstil
+    credit: Tarunsamanta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Power_loom_Weaving_in_Hooghly_District_09.jpg
 ---
 
 Jauh sebelum Malaysia dikenal karena cip komputer dan minyak sawit, ia membuat kain dan pakaian. Industri tekstil, pakaian, dan alas kaki adalah salah satu sektor manufaktur modern tertua di negara ini — jenis bisnis padat karya dan berorientasi ekspor yang membantu memulai industrialisasi pada 1970-an dan 1980-an. Hari ini ia adalah irisan yang lebih kecil dari perekonomian yang jauh lebih besar, tetapi tetap menjadi penyerap tenaga kerja nyata, eksportir yang stabil, dan sektor yang sedang aktif dicoba ditata ulang oleh pemerintah.

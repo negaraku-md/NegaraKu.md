@@ -31,7 +31,7 @@ faq:
   - q: "L'industrie spatiale de la Malaisie est-elle distincte de son industrie aérospatiale ?"
     a: "Oui. L'industrie aérospatiale couvre l'aviation, la maintenance, la réparation et la révision (MRO) et les aérostructures pour aéronefs. L'industrie spatiale couvre les satellites, le lancement, la réglementation spatiale et les services en aval tels que les communications par satellite et la télédétection."
 lang: fr
-sourceContentHash: "c74b519cf5166ca0"
+sourceContentHash: "932846867c424136"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -115,6 +115,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Antennas_at_Awarua_Satellite_Ground_Station.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/space-industry/body-1.webp
+    alt: Des ingénieurs en combinaisons et charlottes de salle blanche vert pâle et blanches travaillent autour d'une haute coiffe conique blanche de fusée, suspendue par un palan jaune sur une plateforme à roulettes, dans une salle blanche très éclairée.
+    kind: representative
+    origin: third-party
+    subject: Des techniciens en combinaisons de salle blanche préparant un satellite encapsulé sur le composite supérieur de son lanceur, représentant la construction de satellites et la préparation du lancement
+    credit: ESA_events / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sentinel-2A_satellite_-_On_the_transportation_platform.jpg
+  - role: scene
+    src: /media/industries/space-industry/body-2.webp
+    alt: Un ciel nocturne sombre au-dessus d'une eau calme traversé par deux traînées lumineuses courbes, l'une s'élevant abruptement depuis un pas de tir très éclairé à gauche et une autre plus faible redescendant pour atterrir à droite.
+    kind: representative
+    origin: third-party
+    subject: Un lancement de fusée nocturne en pose longue, avec l'arc lumineux de l'ascension et un second arc du propulseur revenant se poser, représentant les services de lancement
+    credit: SpaceX / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CRS-9_mission_(28348649546).jpg
 ---
 
 La Malaisie ne lance pas ses propres fusées, et pourtant elle a fait voler un astronaute, construit et exploité des microsatellites, et adopté une loi pour accorder des licences à l'activité spatiale privée avant la plupart de ses voisins. Son secteur spatial est restreint et discrètement stratégique — imbriqué dans la politique du haut débit, la défense, la surveillance des catastrophes et le prestige national. Ce guide cartographie l'agence, la loi, les satellites et les ambitions qui composent l'économie spatiale de la Malaisie.

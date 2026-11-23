@@ -34,7 +34,7 @@ faq:
     a: "China es con diferencia el mayor destino, llevándose alrededor del 49% de las exportaciones de caucho natural en diciembre de 2024, seguida de Alemania (12.9%), los Emiratos Árabes Unidos (7.3%), Estados Unidos y Portugal."
 
 lang: "es"
-sourceContentHash: "26170231d376fbab"
+sourceContentHash: "02c9f76b97e77ffc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -110,6 +110,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Rubber_tree_and_latex_cup.j
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Tapped rubber tree with latex running down the spiral cut into a collection cup, Malaysia'
+images:
+  - role: scene
+    src: /media/industries/rubber-industry/body-1.webp
+    alt: Hileras ordenadas de esbeltos árboles del caucho de troncos pálidos y moteados que se alejan en la distancia por el suelo cubierto de hierba de una finca, con pequeñas tazas oscuras de látex sujetas en la parte baja de varios troncos.
+    kind: actual
+    origin: third-party
+    subject: Hileras pulcras de árboles del caucho maduros provistos de tazas de recogida de látex en una finca de plantación de Johor, un pilar de la industria del caucho de Malasia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubber_plantation_in_Johor.jpg
+  - role: scene
+    src: /media/industries/rubber-industry/body-2.webp
+    alt: Un hombre con camisa gris guía una lámina blanca de látex prensado entre los pesados rodillos de una máquina laminadora de hierro fundido amarilla, al borde de un bosquecillo de caucho, con un segundo rodillo acanalado a su lado.
+    kind: representative
+    origin: third-party
+    subject: Un trabajador pasando una lámina de látex coagulado por un rodillo laminador de caucho de manivela, un paso clave en el procesado del caucho natural
+    credit: Blue Plover / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Processing_rubber_in_Thailand.JPG
 ---
 
 El caucho que construyó la Malaya colonial ya no se gana la vida en la plantación — se la gana en la fábrica. Malasia sigue extrayendo de los árboles, pero su fortuna del caucho cabalga ahora sobre los guantes médicos, los neumáticos y los productos de látex que fabrica, un negocio que procesa más caucho del que el propio país cultiva.

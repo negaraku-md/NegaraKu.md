@@ -31,7 +31,7 @@ faq:
   - q: "هل التقنية الحيوية جزء كبير من اقتصاد ماليزيا؟"
     a: "هي قطاع استراتيجي لكنه ما زال ناشئًا لا مهيمنًا. فقد أبلغت مؤسسة الاقتصاد الحيوي عن مساهمة تراكمية بنحو RM39.9 مليار في الناتج المحلي الإجمالي على مدى عقديها الأولين. والتقنية الحيوية تهمّ أكثر لإمكانها المستقبلي — في الأمن الغذائي والصحة والاقتصاد الحيوي — منها لحصتها الحالية من الناتج."
 lang: ar
-sourceContentHash: "613e62dc50c4f5a9"
+sourceContentHash: "1247f6184dd5b071"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -104,6 +104,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-1.webp
+    alt: رفوف من أوعية الزراعة المعقّمة تحت إضاءة مضبوطة في مختبر زراعة الأنسجة النباتية بجامعة Universiti Malaysia Terengganu.
+    kind: actual
+    origin: third-party
+    subject: مختبر زراعة الأنسجة النباتية في Universiti Malaysia Terengganu
+    credit: Rafi Bin Tofa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Plant_Tissue_Culture_Laboratory,_UMT.jpg
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-2.webp
+    alt: مفاعل حيوي من الفولاذ المقاوم للصدأ والزجاج مزوّد بأنابيب وأجهزة تحكّم يُشغّل زراعة خلوية حية في مختبر.
+    kind: representative
+    origin: third-party
+    subject: مفاعل حيوي مختبري يُشغّل زراعة خلوية
+    credit: Habin Zhang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bioreactor_in_operation.jpg
 ---
 
 لا تملك ماليزيا الجامعات البحثية العميقة ولا عمق رأس المال المغامر اللذين لبوسطن أو شنغهاي، لكنها تملك ثلاثة أشياء تجعل التقنية الحيوية رهانًا منطقيًا طويل الأمد: واحدة من أغنى كنوز العالم من التنوّع الحيوي الاستوائي، وتيّارًا هائلًا من الكتلة الحيوية من زيت النخيل والزراعة، وسلطةً معترَفًا بها عالميًا في الاعتماد الحلال. ولأكثر من عقدين، ظلّت الحكومة تحاول تحويل تلك الثروات إلى صناعة علوم حياة حديثة. يشرح هذا الدليل كيف يُنظَّم ذلك الجهد، وما بناه، وإلى أين يتجه.

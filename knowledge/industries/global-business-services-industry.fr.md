@@ -64,7 +64,27 @@ sources:
     url: https://www.digitalnewsasia.com/business/malaysias-gbs-sector-urged-expand-beyond-klang-valley-through-state-specialisation
     publisher: Digital News Asia
   - title: "Statut Malaysia Digital — incitations fiscales (Malaysia Digital Status — Tax Incentives)"
-    url: https://www.crowe.com/my/insights/malaysia-digital-status---tax-incentives
+    url: https://www.crowe.com/my/insights/malaysia-digital-status
+images:
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-1.webp
+    alt: Un immeuble de bureaux d'entreprise moderne de hauteur moyenne, en verre et en béton, dans le parc d'affaires de Cyberjaya, dans le Selangor, en Malaisie.
+    kind: representative
+    origin: third-party
+    subject: Immeuble de bureaux d'entreprise à Cyberjaya, pôle de services mondiaux de la Malaisie
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-2.webp
+    alt: Des rangées d'agents à des postes de travail informatiques sur un très vaste plateau de centre d'appels en open space.
+    kind: representative
+    origin: third-party
+    subject: Vaste plateau de bureaux d'un centre d'appels (lieu de travail représentatif des services partagés/BPO)
+    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
+---tax-incentives
     publisher: Crowe Malaysia
   - title: "Le secteur GBS florissant de la Malaisie : une force motrice de l'économie numérique (Malaysia's thriving GBS sector: A driving force in the digital economy)"
     url: https://knightfrank.com/your-space/2024-03-26-malaysias-thriving-gbs-sector-a-driving-force-in-the-digital-economy

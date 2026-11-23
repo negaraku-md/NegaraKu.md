@@ -31,7 +31,7 @@ faq:
   - q: 对 M&E 领域有哪些政府支持？
     a: M&E 是 MIDA 的优先高科技产业，有资格获得投资激励，并且是 Industry4WRD 国家工业 4.0 政策的核心，该政策为采用自动化与先进技术的企业提供 Industry4WRD 干预基金与国内投资战略基金等补助金。
 lang: zh
-sourceContentHash: "e4dca19fd76c4c0c"
+sourceContentHash: "a4476ce582345f78"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -100,6 +100,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:CNC_Machine_Facility.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/machinery-equipment-industry/body-1.webp
+    alt: 一座大型工业制造车间内，排列着部分组装完成的黄色重型工程机械。
+    kind: representative
+    origin: third-party
+    subject: 重型机械制造厂（代表性的工业机械生产）
+    credit: Huangdan2060 / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ASany_Heavy_Industry_1.jpg
+  - role: scene
+    src: /media/industries/machinery-equipment-industry/body-2.webp
+    alt: 重型设备工厂内一条自动化机器人焊接生产线正在装配线上焊接大型钢板。
+    kind: representative
+    origin: third-party
+    subject: 重型设备工厂内的机器人焊接装配线（代表性）
+    credit: AKomkova / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A%D0%9B%D0%B8%D0%BD%D0%B8%D1%8F_%D1%81%D0%B2%D0%B0%D1%80%D0%BA%D0%B8_%D0%B1%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D1%81%D1%82%D0%B5%D0%BD%D1%8B_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%B0._%C2%AB%D0%A2%D0%B8%D1%85%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%C2%BB.jpg
 ---
 
 每一家工厂都靠机器运转——而这些机器总得有人来造。机械与设备（M&E）产业，正是制造业中打造生产线、工艺机械、金属加工工具、动力系统与自动化的那一部分，而其*每一个*其他产业都依赖于此。它是整个经济体中最不显眼的大产业，也正因如此，成了最具战略重要性的产业之一。

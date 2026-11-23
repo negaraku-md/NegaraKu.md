@@ -31,7 +31,7 @@ faq:
   - q: バイオテクノロジーはマレーシア経済の大きな部分ですか。
     a: 支配的ではなく、戦略的だがなお新興の部門です。バイオエコノミー公社は、最初の20年間でGDPへおよそRM399億の累積貢献をしたと報告しています。バイオテクノロジーは、現在の産出シェアよりも――食料安全保障、健康、バイオエコノミーにおける――将来の可能性において重要です。
 lang: ja
-sourceContentHash: "613e62dc50c4f5a9"
+sourceContentHash: "1247f6184dd5b071"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -104,6 +104,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-1.webp
+    alt: マレーシア・トレンガヌ大学の植物組織培養実験室で、制御された照明の下に並ぶ無菌培養容器の棚。
+    kind: actual
+    origin: third-party
+    subject: マレーシア・トレンガヌ大学の植物組織培養実験室
+    credit: Rafi Bin Tofa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Plant_Tissue_Culture_Laboratory,_UMT.jpg
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-2.webp
+    alt: 配管と制御計器を備え、実験室で生きた細胞培養を行うステンレス製とガラス製のバイオリアクター。
+    kind: representative
+    origin: third-party
+    subject: 細胞培養を行う実験室用バイオリアクター
+    credit: Habin Zhang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bioreactor_in_operation.jpg
 ---
 
 マレーシアは、ボストンや上海のような深い研究大学やベンチャーキャピタルの厚みを持たないが、バイオテクノロジーを長期の論理的な賭けにする三つのものを持っている。世界で最も豊かな熱帯生物多様性の宝庫の一つ、膨大なパーム油・農業バイオマスの流れ、そして世界的に認められたハラル認証の権威だ。20年以上にわたり、政府はこれらの賦存を近代的なライフサイエンス産業へ変えようとしてきた。このガイドでは、その取り組みがどう組織されているか、何を築いてきたか、そしてどこへ向かっているかを説明する。

@@ -34,7 +34,7 @@ faq:
     a: "La NCP 2030 es una política lanzada en la ICW 2021, tras la conclusión del Programa de Transformación de la Industria de la Construcción (CITP) 2016–2020. Establece seis ejes estratégicos para transformar el sector de la construcción hacia la era digital para 2030, incluida una meta de digitalizar el 50% del ciclo de la industria."
 
 lang: "es"
-sourceContentHash: "6895d1dde5da9e4f"
+sourceContentHash: "2f048d788112b135"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/construction-industry/body-1.webp
+    alt: Grúas torre se alzan sobre un edificio de gran altura en construcción en el centro de Kuala Lumpur, Malasia.
+    kind: representative
+    origin: third-party
+    subject: Una obra de construcción de un edificio de gran altura en Kuala Lumpur
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg
+  - role: scene
+    src: /media/industries/construction-industry/body-2.webp
+    alt: Una torre de apartamentos con servicios, de hormigón armado, en construcción en Jalan Kuda Emas, cerca de Bukit Jalil, en Kuala Lumpur.
+    kind: representative
+    origin: third-party
+    subject: Construcción de apartamentos con servicios cerca de Bukit Jalil, Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serviced_apartment_construction_on_Jalan_Kuda_Emas,_Kuala_Lumpur_20240525_152253.jpg
 ---
 
 Intente levantar una valla escolar por valor de RM250,000 sin poseer un certificado de registro de contratista, y pueden ordenar la paralización inmediata de su proyecto — antes incluso de plantar el primer poste. En Malasia, el derecho a construir no empieza con la maquinaria ni con la mano de obra; empieza con un único registro.

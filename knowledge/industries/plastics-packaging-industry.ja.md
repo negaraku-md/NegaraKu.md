@@ -31,7 +31,7 @@ faq:
   - q: マレーシアはプラスチック汚染に対して何をしていますか。
     a: 環境省が主導するマレーシア・プラスチック持続可能性ロードマップ2021～2030は、問題のある使い捨てプラスチックを段階的に廃止し、リサイクル率と再生材含有率を高め、プラスチック包装をリサイクル可能にする目標を定めています。また、生産者が回収・リサイクルの資金を負担することを求める拡大生産者責任（EPR）制度も導入しています。
 lang: ja
-sourceContentHash: "de0d1c6868348e76"
+sourceContentHash: "2bc730fc5eac1f19"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-1.webp
+    alt: 上部に漏斗状のホッパーを備え、配線が巻かれた長い水平の加熱バレルが右へと延びる、緑とクリーム色の工業用押出成形機。青と白の工場の壁を背景に稼働している。
+    kind: representative
+    origin: third-party
+    subject: ホッパーと加熱バレルを備え、連続した樹脂素材を成形する、プラスチック・包装産業の中核工程であるプラスチック押出ライン
+    credit: Ikiwaner / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pipe_extrusion_line.jpg
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-2.webp
+    alt: 色付きのキャップやラベルが点々と混じった、押し潰された透明なプラスチックボトルの大きな直方体の梱が、さびた金属製の容器のそばのアスファルト上に2段3段と積み上げられ、背後に樹木と灰色の空が広がる。
+    kind: representative
+    origin: third-party
+    subject: 新たなプラスチック原料へと再生するために積み上げられた、押し潰された透明なPET飲料ボトルの固く圧縮された梱
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bales_of_PET_bottles_stacked.jpg
 ---
 
 マレーシアの工場から出てくるほぼすべての物理的な製品――インスタントラーメンの一袋、スマートフォン、車のバンパー、一本の水道管――は、国内のどこかで成形されたプラスチックに依存している。プラスチックはマレーシアの静かな産業的強みの一つだ。半導体ほど華やかではないが、他のほぼすべての製造部門に織り込まれ、そしてますます、廃棄物と持続可能性をめぐる国内の議論にも織り込まれている。

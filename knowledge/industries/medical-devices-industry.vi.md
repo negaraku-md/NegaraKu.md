@@ -31,7 +31,7 @@ faq:
   - q: Có những ưu đãi nào cho nhà sản xuất?
     a: Thiết bị y tế là một hoạt động được MIDA thúc đẩy, đủ điều kiện cho các ưu đãi như Vị thế Tiên phong (Pioneer Status, miễn thuế thu nhập một phần đến toàn bộ trong một thời hạn nhất định) và Trợ cấp Thuế Đầu tư (Investment Tax Allowance) trên chi tiêu vốn đủ điều kiện. Thiết bị y tế cũng được nêu tên là ngành ưu tiên theo Kế hoạch Tổng thể Công nghiệp Mới 2030. Xác nhận các điều khoản và điều kiện hiện hành trực tiếp với MIDA.
 lang: vi
-sourceContentHash: "7fd1c6521ba9829e"
+sourceContentHash: "f59d1ed2e2b0ce72"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -108,6 +108,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-1.webp
+    alt: Công nhân mặc áo choàng và đội mũ bảo hộ vận hành thiết bị trên một dây chuyền sản xuất dược phẩm vô trùng.
+    kind: representative
+    origin: third-party
+    subject: Dây chuyền sản xuất dược phẩm/sản phẩm y tế vô trùng với công nhân mặc áo bảo hộ (minh họa sản xuất y tế)
+    credit: Josep Lago, European Commission / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AView_of_a_production_line_at_the_Reig_Jofre_company's_headquarters.jpg
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-2.webp
+    alt: Các kỹ thuật viên mặc áo bảo hộ và thiết bị bằng thép không gỉ trên một dây chuyền sản xuất phòng sạch bên trong một cơ sở sản xuất sản phẩm y tế.
+    kind: representative
+    origin: third-party
+    subject: Dây chuyền sản xuất phòng sạch trong một cơ sở sản xuất sản phẩm y tế (minh họa)
+    credit: Tehran Times / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACOVIran_Barekat_vaccine_production_03.jpg
 ---
 
 Nếu bạn từng đeo một chiếc găng tay phẫu thuật, được lấy máu qua một ống thông, hay hồi phục nhờ một cấy ghép chỉnh hình, thì có khả năng hợp lý rằng thiết bị đó được làm ra ở Malaysia. Bên cạnh những chiếc găng tay cao su nổi tiếng của mình, đất nước này đã lặng lẽ trở thành nơi quan trọng nhất Đông Nam Á để chế tạo thiết bị y tế — và là một trong những cơ sở chế tạo medtech đáng kể hơn ở bất cứ đâu trên thế giới.

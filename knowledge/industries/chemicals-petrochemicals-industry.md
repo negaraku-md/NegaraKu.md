@@ -104,6 +104,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-1.webp
+    alt: Distillation columns and storage tanks of the Hengyuan oil refinery east of Port Dickson, Negeri Sembilan, seen in daylight.
+    kind: actual
+    origin: third-party
+    subject: The Hengyuan oil refinery at Port Dickson, Negeri Sembilan
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-2.webp
+    alt: The flare stack and processing structures of the Sabah Oil and Gas Terminal at Kimanis, Sabah, under a daytime sky.
+    kind: actual
+    origin: third-party
+    subject: The Sabah Oil & Gas Terminal (SOGT) at Kimanis
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-01a.jpg
 ---
 
 Plastics, fertilisers, detergents, synthetic rubber, cosmetics, paints and the resins inside your phone casing all start as chemicals — and a surprising share of them, or their building blocks, are made in Malaysia. Behind the country's better-known oil-and-gas and palm-oil stories sits a large, quietly strategic chemicals and petrochemicals industry that turns raw hydrocarbons and vegetable oils into the materials modern life depends on.

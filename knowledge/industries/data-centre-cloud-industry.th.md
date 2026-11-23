@@ -34,7 +34,7 @@ faq:
     a: "แนวทางเพื่อการพัฒนาศูนย์ข้อมูลอย่างยั่งยืน (Guidelines for Sustainable Development of Data Centre) ของ MITI (30 December 2024) กำหนดให้ผู้ดำเนินการประกาศค่า PUE, WUE และ CUE ของการออกแบบเทียบกับมาตรฐาน ISO/IEC 30134 และให้พิจารณาที่ตั้งในคาบสมุทรมาเลเซียที่มีดัชนีความเครียดของน้ำ (water stress index, WSI) น้อยกว่า 0.8 ตามที่แนวทางระบุเงื่อนไขการเลือกที่ตั้ง"
 
 lang: "th"
-sourceContentHash: "06223fcd2dad5f61"
+sourceContentHash: "907afdfe924c77bf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-1.webp
+    alt: แถวแร็กเซิร์ฟเวอร์และอุปกรณ์เรียงยาวเต็มห้องศูนย์ข้อมูลขนาดใหญ่พร้อมระบบกั้นช่องทางลมเย็นที่เป็นระเบียบ
+    kind: representative
+    origin: third-party
+    subject: ห้องศูนย์ข้อมูลที่มีแร็กอุปกรณ์เรียงเป็นแถว
+    credit: Hugovanmeijeren / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cern_datacenter.jpg
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-2.webp
+    alt: มัดสายเครือข่ายอันหนาแน่นพาดผ่านด้านหลังแร็กเซิร์ฟเวอร์ในงานติดตั้งศูนย์ข้อมูล
+    kind: representative
+    origin: third-party
+    subject: การเดินสายเครือข่ายด้านหลังแร็กเซิร์ฟเวอร์ในศูนย์ข้อมูล
+    credit: RobH / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sdtpa_wmf-7.jpg
 ---
 
 ในปี 2019 สิงคโปร์ (Singapore) หยุดอนุมัติศูนย์ข้อมูลขนาดใหญ่แห่งใหม่ ภายในสี่ปี เซิร์ฟเวอร์ที่ถูกปฏิเสธได้สร้างอุตสาหกรรมใหม่ขึ้นในระยะยี่สิบนาทีข้ามสะพานเชื่อม (Causeway) — และยะโฮร์ (Johor) เปลี่ยนจากรัฐเงียบสงบของมาเลเซียมาเป็นตลาดศูนย์ข้อมูลที่คึกคักที่สุดในเอเชียตะวันออกเฉียงใต้

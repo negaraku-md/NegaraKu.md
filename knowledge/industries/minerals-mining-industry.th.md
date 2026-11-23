@@ -31,7 +31,7 @@ faq:
   - q: ทำไมมาเลเซียจึงห้ามส่งออกธาตุหายากดิบ?
     a: รัฐบาลระบุว่ามาตรการพักการส่งออก — มีผลตั้งแต่ต้นปี 2024 — มีขึ้นเพื่อหยุดการส่งออกทรัพยากรธาตุหายากของประเทศโดยไม่แปรรูป และบังคับให้เพิ่มมูลค่าในประเทศผ่านการกลั่นท้องถิ่นและอุตสาหกรรมปลายน้ำ เจ้าหน้าที่อธิบายว่าเป็นการปกป้องทรัพยากรเชิงยุทธศาสตร์ เงื่อนไขนโยบายที่แน่ชัดเปลี่ยนไปตามเวลาและควรตรวจสอบกับคำแถลงล่าสุดของรัฐบาล
 lang: th
-sourceContentHash: "2cfb1c127d0860c5"
+sourceContentHash: "10843756be8e6a62"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -104,6 +104,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:TT5_Tin_Dredge_-_panoramio.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-1.webp
+    alt: หน้าผาหินที่เปิดโล่งและขั้นบันไดทำงานของเหมืองหินที่จาลันซูเกา อำเภอกินาบาตางัน รัฐซาบะฮ์ ประเทศมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: เหมืองหินที่จาลันซูเกา อำเภอกินาบาตางัน รัฐซาบะฮ์ ประเทศมาเลเซีย
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AKinabatangan_Sabah_Quarry-at-Jalan-Sukau-01.jpg
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-2.webp
+    alt: โรงบดหินแบบชั่วคราวพร้อมสายพานลำเลียงและกองกรวดกำลังแปรรูปหินใกล้ซาลารม รัฐซาบะฮ์ ประเทศมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: โรงบดหิน (kilang batu) ที่บดหินเป็นกรวดใกล้ซาลารม รัฐซาบะฮ์ ประเทศมาเลเซีย
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ADistrict-Nabawan_Sabah_Rock-Mill-01.jpg
 ---
 
 เศรษฐกิจสมัยใหม่ของมาเลเซียถูกขุดขึ้นมาจากพื้นดินอย่างแท้จริง นานก่อนน้ำมันปาล์ม อิเล็กทรอนิกส์ หรือเซมิคอนดักเตอร์ **ดีบุก** คือสิ่งที่ทำให้คาบสมุทรนี้มีความสำคัญต่อโลก — เป็นทุนให้ทางรถไฟ ทำให้เมืองอย่างอีโปห์และกัวลาลัมเปอร์เติบโต และดึงดูดนักขุดอพยพรุ่นแล้วรุ่นเล่า การทำเหมืองเป็นเรื่องราวอุตสาหกรรมที่เก่าแก่ที่สุดของประเทศ และแม้ไม่ครองเศรษฐกิจอีกต่อไป มันกำลังถูกเขียนใหม่อย่างเงียบ ๆ รอบรางวัลที่ทันสมัยมาก: ธาตุหายาก

@@ -34,7 +34,7 @@ faq:
     a: "मलेशिया विश्व बैंक लॉजिस्टिक्स परफॉर्मेंस इंडेक्स 2023 में 26वें स्थान पर रहा, जो 2018 के 41वें स्थान से ऊपर है, और आसियान देशों में सिंगापुर के बाद दूसरे स्थान पर है।"
 
 lang: "hi"
-sourceContentHash: "28b83f8fb5bdfc96"
+sourceContentHash: "a329af0d43f2fad4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -125,6 +125,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Teal_Striped_Container_Cranes_at_Tanjung_Pelepas_Port_Ver2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-1.webp
+    alt: सरवाक के बिंटुलु इंटरनेशनल कंटेनर टर्मिनल पर ढेर किए गए शिपिंग कंटेनरों की कतारों को ढकती एक रबर-टायर वाली गैंट्री क्रेन।
+    kind: actual
+    origin: third-party
+    subject: बिंटुलु इंटरनेशनल कंटेनर टर्मिनल, सरवाक, मलेशिया में ढेर किए गए कंटेनरों पर रबर-टायर वाली गैंट्री क्रेन
+    credit: Richard W Sinyem from Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ARTG_at_Bintulu_International_Container_Terminal_(BICT).jpg
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-2.webp
+    alt: मलेशिया के सेलांगोर स्थित पोर्ट क्लांग पर लंगर डाले एक कंटेनर जहाज़ के डेक पर ढेर किए गए रंगबिरंगे शिपिंग कंटेनर।
+    kind: actual
+    origin: third-party
+    subject: पोर्ट क्लांग, मलेशिया में एक जहाज़ पर लदे शिपिंग कंटेनर
+    credit: jgmorard / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A090301.020.PortKlang.jpg
 ---
 
 Port Klang ने 2025 में 1.514 करोड़ शिपिंग कंटेनर — यानी 15.14 मिलियन — आगे बढ़ाए, जो हांगकांग को पछाड़ने और पहली बार दुनिया के दस सबसे व्यस्त बंदरगाहों में घुसने के लिए पर्याप्त थे। एक दूसरे मलेशियाई बंदरगाह, Tanjung Pelepas, ने और 14 मिलियन आगे बढ़ाए। इनमें से कोई भी आँकड़ा ऐसे देश का वर्णन नहीं करता जो उन अधिकांश वस्तुओं को बनाता हो। यह ऐसे देश का वर्णन करता है जो सही जगह पर बैठा है और जिसने दुनिया के व्यापार पर किराया वसूलना सीख लिया है।

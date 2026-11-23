@@ -60,7 +60,27 @@ sources:
     url: https://mohr.gov.my/images/pdf/KENYATAAN%20MEDIA%20PEKERJA%20GIG.pdf
     publisher: "Ministère des ressources humaines (KESUMA), Malaisie"
   - title: "Le Cabinet approuve la SEGiM pour protéger le bien-être des travailleurs du gig (Cabinet approves SEGiM to safeguard gig workers' welfare)"
-    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig---tpm
+    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig
+images:
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-1.webp
+    alt: Un livreur de repas en veste et casque roses Foodpanda sur une motocyclette de type underbone (kapcai), transportant une grande caisse de livraison isotherme rose Foodpanda, arrêté dans la circulation.
+    kind: representative
+    origin: third-party
+    subject: Livreur de repas à moto Foodpanda avec caisse de livraison isotherme rose (travail de plateforme représentatif ; hors Grab)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-2.webp
+    alt: Un livreur de repas de plateforme debout sur le trottoir, portant un grand sac à dos isotherme de livraison de repas.
+    kind: representative
+    origin: third-party
+    subject: Livreur de repas avec un sac de livraison isotherme de plateforme (hors Grab)
+    credit: Alexander Corkhill / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
+---tpm
     publisher: Sinar Harian
   - title: "Le Parlement adopte le Gig Workers Bill 2025 (Parliament Passes Gig Workers Bill 2025)"
     url: https://ringgitplus.com/en/blog/personal-finance-news/parliament-passes-gig-workers-bill-2025.html

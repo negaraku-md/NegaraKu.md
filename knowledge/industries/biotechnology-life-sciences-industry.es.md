@@ -31,7 +31,7 @@ faq:
   - q: ¿Es la biotecnología una gran parte de la economía de Malasia?
     a: Es un sector estratégico pero aún emergente, más que dominante. La Corporación de la Bioeconomía ha reportado una contribución acumulada de aproximadamente RM39,9 mil millones al PIB a lo largo de sus dos primeras décadas. La biotecnología importa más por su potencial futuro —en seguridad alimentaria, salud y la bioeconomía— que por su cuota actual de producción.
 lang: es
-sourceContentHash: "613e62dc50c4f5a9"
+sourceContentHash: "1247f6184dd5b071"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -104,6 +104,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-1.webp
+    alt: Estanterías de recipientes de cultivo estériles bajo iluminación controlada en el laboratorio de cultivo de tejidos vegetales de la Universiti Malaysia Terengganu.
+    kind: actual
+    origin: third-party
+    subject: Laboratorio de cultivo de tejidos vegetales en la Universiti Malaysia Terengganu
+    credit: Rafi Bin Tofa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Plant_Tissue_Culture_Laboratory,_UMT.jpg
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-2.webp
+    alt: Un biorreactor de acero inoxidable y vidrio, con tubos e instrumentos de control, que mantiene un cultivo celular vivo en un laboratorio.
+    kind: representative
+    origin: third-party
+    subject: Un biorreactor de laboratorio que mantiene un cultivo celular
+    credit: Habin Zhang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bioreactor_in_operation.jpg
 ---
 
 Malasia no tiene las profundas universidades de investigación ni la hondura de capital riesgo de un Boston o un Shanghái, pero tiene tres cosas que hacen de la biotecnología una apuesta lógica a largo plazo: uno de los tesoros de biodiversidad tropical más ricos del mundo, un enorme flujo de biomasa de aceite de palma y agrícola, y una autoridad reconocida mundialmente en certificación halal. Durante más de dos décadas el gobierno ha intentado convertir esas dotaciones en una industria moderna de ciencias de la vida. Esta guía explica cómo se organiza ese esfuerzo, qué ha construido y hacia dónde se dirige.

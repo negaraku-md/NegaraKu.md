@@ -31,7 +31,7 @@ faq:
   - q: 정부는 화학 산업을 어떻게 지원하나요?
     a: 말레이시아투자개발청(MIDA)은 화학·첨단소재부를 통해 제조 면허를 심사하고 파이어니어 스테이터스(Pioneer Status)와 투자세액공제(Investment Tax Allowance) 같은 인센티브를 제공합니다. 석유 및 석유화학 프로젝트는 1974년 석유개발법의 적용도 받습니다. 화학산업 로드맵 2030과 신산업마스터플랜 2030은 특수·고부가가치 화학으로 나아가는 전략적 방향을 제시합니다.
 lang: ko
-sourceContentHash: "dd296a225bbc1577"
+sourceContentHash: "5b202e406f8d70f8"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-1.webp
+    alt: 대낮에 본 느그리슴빌란주 포트딕슨 동쪽 Hengyuan 정유소의 증류탑과 저장 탱크들.
+    kind: actual
+    origin: third-party
+    subject: 느그리슴빌란주 포트딕슨의 Hengyuan 정유소
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-2.webp
+    alt: 낮 하늘 아래 사바주 키마니스의 사바 석유가스 터미널(SOGT)의 플레어 스택과 처리 시설.
+    kind: actual
+    origin: third-party
+    subject: 키마니스의 사바 석유가스 터미널(SOGT)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-01a.jpg
 ---
 
 플라스틱, 비료, 세제, 합성고무, 화장품, 페인트, 그리고 당신 휴대폰 케이스 안의 수지 — 이 모두는 화학물질에서 출발하며, 그 가운데 놀라울 만큼 많은 양 또는 그 구성요소가 말레이시아에서 만들어집니다. 이 나라의 더 잘 알려진 석유·가스 이야기와 팜유 이야기 뒤에는, 원유 탄화수소와 식물성 유지를 현대 생활이 의존하는 소재로 바꾸는 크고 조용히 전략적인 화학·석유화학 산업이 자리합니다.

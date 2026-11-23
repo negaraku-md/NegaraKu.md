@@ -31,7 +31,7 @@ faq:
   - q: "Quelles incitations soutiennent l'investissement dans le textile et l'habillement ?"
     a: "La MIDA administre les approbations de licence de fabrication et les incitations fiscales pour le sous-secteur, qui est un domaine prioritaire du Nouveau Plan directeur industriel 2030 (NIMP 2030). À partir du premier trimestre 2026, les investissements admissibles relèvent d'un nouveau cadre d'incitations à l'investissement fondé sur les résultats (New Investment Incentive Framework), avec des incitations échelonnées liées à des résultats tels que la technologie, les compétences et les retombées locales. Confirmer les taux et conditions en vigueur auprès de la MIDA."
 lang: fr
-sourceContentHash: "97b0b938d8bbc429"
+sourceContentHash: "eb32cad92737b99d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -104,6 +104,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-1.webp
+    alt: Un gros plan d'un tissu richement orné à panneau central rouge de dense brocart floral doré, encadré de lisières bordeaux à motifs dorés de losanges et d'étoiles.
+    kind: actual
+    origin: third-party
+    subject: Un détail d'une étoffe de songket malais de Terengganu tissée de fil métallique doré, un artisanat phare du patrimoine textile de la Malaisie
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-2.webp
+    alt: Un métier à tisser manuel en bois dans un atelier aux murs de brique, son cadre tendu de fils de chaîne et d'une rangée de bobines de fil rouge, vert et bleu, un tisserand partiellement visible travaillant de l'autre côté.
+    kind: representative
+    origin: third-party
+    subject: Un tisserand actionnant un métier à tisser en bois chargé de bobines de fil coloré dans un atelier de tissage, représentant le tissage d'étoffes dans l'industrie textile
+    credit: Tarunsamanta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Power_loom_Weaving_in_Hooghly_District_09.jpg
 ---
 
 Bien avant d'être connue pour ses puces informatiques et son huile de palme, la Malaisie fabriquait du tissu et des vêtements. L'industrie du textile, de l'habillement et de la chaussure est l'un des plus anciens secteurs manufacturiers modernes du pays — le type d'activité à forte intensité de main-d'œuvre et orientée vers l'exportation qui a contribué à amorcer l'industrialisation dans les années 1970 et 1980. Aujourd'hui, elle représente une part plus réduite d'une économie bien plus vaste, mais elle demeure un véritable employeur, un exportateur régulier, et un secteur que le gouvernement s'efforce activement de réinventer.

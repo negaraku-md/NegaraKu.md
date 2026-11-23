@@ -64,7 +64,27 @@ sources:
     url: https://www.digitalnewsasia.com/business/malaysias-gbs-sector-urged-expand-beyond-klang-valley-through-state-specialisation
     publisher: Digital News Asia
   - title: Status Malaysia Digital — Insentif Cukai (Malaysia Digital Status — Tax Incentives)
-    url: https://www.crowe.com/my/insights/malaysia-digital-status---tax-incentives
+    url: https://www.crowe.com/my/insights/malaysia-digital-status
+images:
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-1.webp
+    alt: Sebuah bangunan pejabat korporat kaca dan konkrit bertingkat sederhana yang moden di taman perniagaan Cyberjaya, Selangor, Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Bangunan pejabat korporat di Cyberjaya, hab perkhidmatan global Malaysia
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-2.webp
+    alt: Deretan ejen di stesen kerja komputer di seluruh ruang pusat panggilan pelan terbuka yang sangat besar.
+    kind: representative
+    origin: third-party
+    subject: Ruang pejabat pusat panggilan yang besar (mewakili tempat kerja perkhidmatan dikongsi/BPO)
+    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
+---tax-incentives
     publisher: Crowe Malaysia
   - title: "Sektor GBS Malaysia yang berkembang pesat: Kuasa pemacu dalam ekonomi digital (Malaysia's thriving GBS sector: A driving force in the digital economy)"
     url: https://knightfrank.com/your-space/2024-03-26-malaysias-thriving-gbs-sector-a-driving-force-in-the-digital-economy

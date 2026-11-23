@@ -31,7 +31,7 @@ faq:
   - q: "Quelles incitations existent pour les fabricants ?"
     a: "Les dispositifs médicaux sont une activité promue par la MIDA, éligible à des incitations telles que le statut de pionnier (Pioneer Status) (une exonération partielle à totale de l'impôt sur le revenu pour une période déterminée) et l'abattement fiscal pour investissement (Investment Tax Allowance) sur les dépenses en capital admissibles. Les dispositifs médicaux sont également désignés secteur prioritaire au titre du Nouveau Plan directeur industriel 2030 (New Industrial Master Plan 2030). Confirmer les conditions et l'éligibilité actuelles directement auprès de la MIDA."
 lang: fr
-sourceContentHash: "7fd1c6521ba9829e"
+sourceContentHash: "f59d1ed2e2b0ce72"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -108,6 +108,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-1.webp
+    alt: Des travailleurs en blouses et charlottes de protection manœuvrent des équipements sur une ligne de production pharmaceutique stérile.
+    kind: representative
+    origin: third-party
+    subject: Ligne de production pharmaceutique/de produits médicaux stérile avec des travailleurs en blouse (représentative de la fabrication médicale)
+    credit: Josep Lago, European Commission / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AView_of_a_production_line_at_the_Reig_Jofre_company's_headquarters.jpg
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-2.webp
+    alt: Des techniciens en blouse et des équipements en acier inoxydable sur une ligne de production en salle blanche, dans une usine de fabrication de produits médicaux.
+    kind: representative
+    origin: third-party
+    subject: Ligne de production en salle blanche dans une usine de fabrication de produits médicaux (représentative)
+    credit: Tehran Times / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACOVIran_Barekat_vaccine_production_03.jpg
 ---
 
 Si vous avez déjà porté un gant chirurgical, subi une prise de sang par cathéter, ou récupéré grâce à un implant orthopédique, il y a de bonnes chances que le dispositif ait été fabriqué en Malaisie. Au-delà de ses célèbres gants en caoutchouc, le pays est discrètement devenu le lieu le plus important d'Asie du Sud-Est pour fabriquer des dispositifs médicaux — et l'une des bases de fabrication medtech les plus significatives au monde.

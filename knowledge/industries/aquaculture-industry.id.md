@@ -31,7 +31,7 @@ faq:
   - q: "Mengapa akuakultur penting bagi ketahanan pangan Malaysia?"
     a: "Ikan adalah sumber protein hewani utama Malaysia, dan tangkapan liar telah mendatar. Akuakultur adalah tuas utama untuk mengangkat rasio swasembada ikan nasional — sekitar 90,7% pada 2025 — dan Dasar Agromakanan Negara secara eksplisit memihak ikan budidaya ketimbang ikan tangkapan untuk memenuhi permintaan masa depan."
 lang: id
-sourceContentHash: "8e2067b1d42a9bd3"
+sourceContentHash: "b24cfb615c370a6d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -110,6 +110,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Foto_Keramba_Ikan_(Panatapan,_Parapat,_Simalungun).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-1.webp
+    alt: Sebuah kolam akuakultur air tawar yang tenang dikelilingi tanaman hijau di Kampung Tiang, Sabah, Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Kolam akuakultur ikan di Kampung Tiang, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tiang_Sabah_Fish-aquaculture-01.jpg
+  - role: scene
+    src: /media/industries/aquaculture-industry/body-2.webp
+    alt: Sebuah kolam ikan akuakultur dari tanah yang digunakan untuk kelas praktik di kebun Fakultas Universiti Putra Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Kolam ikan pengajaran akuakultur di Universiti Putra Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0906).jpg
 ---
 
 Sebagian besar ikan di piring makan malam orang Malaysia masih berasal dari laut — tetapi kini bagian yang bertumbuh cepat berasal dari kolam, keramba atau rakit long-line. Itulah akuakultur: budidaya kehidupan akuatik secara sengaja, berbeda dari menangkap apa yang berenang di alam liar. Seiring tangkapan liar Malaysia mendatar dan permintaan protein meningkat, akuakultur telah menjadi tuas utama negara untuk menjaga ikan tetap di meja makan. Artikel ini menyelami sisi budidaya bisnis ini secara mendalam; untuk gambaran yang lebih luas, termasuk armada penangkapan, kesejahteraan nelayan dan penegakan hukum, lihat [ikhtisar industri perikanan](/id/agriculture/malaysian-fisheries-industry/).

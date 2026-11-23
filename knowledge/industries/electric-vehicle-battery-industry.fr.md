@@ -31,7 +31,7 @@ faq:
   - q: "Qu'est-ce que le Low Carbon Mobility Blueprint ?"
     a: "C'est la feuille de route 2021–2030 de la Malaisie pour un transport plus propre, pilotée par le ministère de l'Environnement et la Malaysian Green Technology Corporation (MGTC). Elle fixe des objectifs d'adoption des VE et d'infrastructure de recharge et sous-tend les incitations fiscales offertes aux acheteurs et fabricants de VE."
 lang: fr
-sourceContentHash: "eeaa8a20be933a74"
+sourceContentHash: "0995851146679cfc"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -102,6 +102,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-1.webp
+    alt: Deux cellules cylindriques de batterie lithium-ion, l'une au format 18650 et l'autre, plus grande, au format 21700, placées côte à côte.
+    kind: representative
+    origin: third-party
+    subject: Cellules cylindriques de batterie lithium-ion
+    credit: Sevenethics / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:18650_and_21700_lithium_ion_battery_cell.jpg
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-2.webp
+    alt: Le pack plat de batterie de traction lithium-ion d'une voiture électrique, exposé pour montrer la disposition modulaire de ses cellules.
+    kind: representative
+    origin: third-party
+    subject: Un pack de batterie de traction lithium-ion de véhicule électrique
+    credit: Rainerhaufe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016-04-12_e-up_Batterie.JPG
 ---
 
 La Malaisie a passé un demi-siècle à construire des voitures. Elle tente désormais de les électrifier — et, tout aussi important, de fabriquer les batteries et de bâtir le réseau de recharge dont dépendent les véhicules électriques. C'est une histoire différente de celle racontée dans le guide de l'[industrie automobile de la Malaisie](/fr/industries/automotive-industry/), qui porte largement sur les voitures à essence et diesel. Ici, le sujet est l'*écosystème* des VE et des batteries : les véhicules, les incitations, les bornes et les usines qui décident ensemble de la rapidité avec laquelle la Malaisie passe à la mobilité électrique.

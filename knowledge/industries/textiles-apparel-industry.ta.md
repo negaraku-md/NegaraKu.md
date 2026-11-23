@@ -31,7 +31,7 @@ faq:
   - q: எந்தச் சலுகைகள் ஜவுளி மற்றும் ஆடை முதலீட்டை ஆதரிக்கின்றன?
     a: MIDA இந்தத் துணைத்துறைக்கு உற்பத்தி-உரிம ஒப்புதல்கள் மற்றும் வரிச் சலுகைகளை நிர்வகிக்கிறது, இது New Industrial Master Plan (NIMP) 2030 இன் கீழ் ஒரு முன்னுரிமைப் பகுதி. 2026 இன் முதல் காலாண்டிலிருந்து, தகுதியான முதலீடுகள் ஒரு புதிய விளைவு-அடிப்படையிலான New Investment Incentive Framework இன் கீழ் வருகின்றன, தொழில்நுட்பம், திறன்கள் மற்றும் உள்ளூர் இணைப்புகள் போன்ற விளைவுகளுடன் பிணைக்கப்பட்ட அடுக்கு சலுகைகளுடன். தற்போதைய விகிதங்கள் மற்றும் நிபந்தனைகளை MIDA உடன் உறுதிப்படுத்தவும்.
 lang: ta
-sourceContentHash: "97b0b938d8bbc429"
+sourceContentHash: "eb32cad92737b99d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -104,6 +104,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-1.webp
+    alt: அடர்த்தியான தங்க மலர் ஜரிகை கொண்ட நடுவில் சிவப்பு பலகையுடன், தங்க வைரம் மற்றும் நட்சத்திர வடிவங்கள் கொண்ட மெரூன் விளிம்புகளால் சூழப்பட்ட, வளமான வடிவங்கள் கொண்ட நெய்த துணியின் நெருக்கமான காட்சி
+    kind: actual
+    origin: third-party
+    subject: திரெங்கானுவிலிருந்து தங்க உலோக நூலால் நெய்யப்பட்ட மலாய் சொங்கெட் துணியின் நுணுக்கம், மலேசியாவின் ஜவுளி பாரம்பரியத்தின் ஒரு முதன்மை கைவினை
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-2.webp
+    alt: செங்கல் சுவர் பட்டறையில் ஒரு மரக் கைத்தறி, அதன் சட்டத்தில் பாவு நூல்களும் சிவப்பு, பச்சை மற்றும் நீல நூல் கண்டுகளின் வரிசையும் கட்டப்பட்டுள்ளன, தொலைவில் ஒரு நெசவாளர் பகுதியாகத் தெரிந்தபடி வேலை செய்கிறார்
+    kind: representative
+    origin: third-party
+    subject: ஒரு நெசவாளர் ஒரு நெசவுப் பட்டறையில் வண்ண நூல் கண்டுகள் கட்டப்பட்ட மரத் தறியில் வேலை செய்கிறார், ஜவுளித் தொழிலில் துணி நெய்தலை பிரதிநிதித்துவப்படுத்துகிறது
+    credit: Tarunsamanta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Power_loom_Weaving_in_Hooghly_District_09.jpg
 ---
 
 மலேசியா கணினி சிப்புகள் மற்றும் பனை எண்ணெய்க்காக அறியப்படுவதற்கு நீண்ட காலத்திற்கு முன்பே, அது துணி மற்றும் ஆடைகளைத் தயாரித்தது. ஜவுளி, ஆடை மற்றும் காலணித் தொழில் நாட்டின் பழமையான நவீன உற்பத்தித் துறைகளில் ஒன்றாகும் — 1970கள் மற்றும் 1980களில் தொழில்மயமாக்கலைத் தொடங்க உதவிய உழைப்பு-செறிந்த, ஏற்றுமதி-நோக்கிய வணிகம். இன்று அது மிகப் பெரிய பொருளாதாரத்தின் ஒரு சிறிய பகுதி, ஆனால் அது ஒரு உண்மையான வேலைவாய்ப்பு அளிப்பவராகவும், நிலையான ஏற்றுமதியாளராகவும், அரசாங்கம் தீவிரமாக மறுஉருவாக்க முயலும் துறையாகவும் இருக்கிறது.

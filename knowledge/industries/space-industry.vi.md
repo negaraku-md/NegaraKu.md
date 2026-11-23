@@ -31,7 +31,7 @@ faq:
   - q: "Ngành vũ trụ của Malaysia có khác với ngành hàng không vũ trụ của nước này không?"
     a: "Có. Ngành hàng không vũ trụ bao gồm hàng không, bảo trì, sửa chữa và đại tu (MRO) và kết cấu máy bay. Ngành vũ trụ bao gồm vệ tinh, phóng, điều tiết vũ trụ và các dịch vụ hạ nguồn như viễn thông vệ tinh và viễn thám."
 lang: vi
-sourceContentHash: "c74b519cf5166ca0"
+sourceContentHash: "932846867c424136"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -115,6 +115,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Antennas_at_Awarua_Satellite_Ground_Station.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/space-industry/body-1.webp
+    alt: Các kỹ sư mặc bộ liền quần và đội mũ phòng sạch màu xanh nhạt và trắng làm việc xung quanh một chóp mũi tên lửa hình nón màu trắng cao, được treo bằng thiết bị nâng màu vàng trên một bệ có bánh xe trong một phòng sạch được chiếu sáng rực rỡ
+    kind: representative
+    origin: third-party
+    subject: các kỹ thuật viên mặc bộ đồ phòng sạch chuẩn bị một vệ tinh đã được bọc kín trên tổ hợp phần trên của tên lửa phóng, minh họa việc chế tạo vệ tinh và chuẩn bị phóng
+    credit: ESA_events / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sentinel-2A_satellite_-_On_the_transportation_platform.jpg
+  - role: scene
+    src: /media/industries/space-industry/body-2.webp
+    alt: Bầu trời đêm tối trên mặt nước phẳng lặng bị cắt ngang bởi hai vệt sáng cong rực rỡ, một vệt bốc lên dốc đứng từ bệ phóng sáng rực bên trái và một vệt mờ hơn hạ xuống đáp đất bên phải
+    kind: representative
+    origin: third-party
+    subject: một vụ phóng tên lửa ban đêm chụp phơi sáng lâu, với vệt sáng cong khi bay lên và vệt cong thứ hai của tầng đẩy quay về hạ cánh, minh họa dịch vụ phóng
+    credit: SpaceX / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CRS-9_mission_(28348649546).jpg
 ---
 
 Malaysia không phóng tên lửa của riêng mình, nhưng đã đưa một phi hành gia bay, chế tạo và vận hành các vi vệ tinh, và thông qua một đạo luật để cấp phép hoạt động vũ trụ tư nhân trước hầu hết các nước láng giềng. Ngành vũ trụ của nước này nhỏ và mang tính chiến lược một cách lặng lẽ — len lỏi qua chính sách băng rộng, quốc phòng, giám sát thảm họa và uy tín quốc gia. Hướng dẫn này lập bản đồ cơ quan, luật pháp, các vệ tinh và những tham vọng tạo nên nền kinh tế vũ trụ của Malaysia.

@@ -34,7 +34,7 @@ faq:
     a: "சீனாவே வெகுதொலைவில் மிகப்பெரிய இலக்கு, டிசம்பர் 2024-இல் இயற்கை-ரப்பர் ஏற்றுமதியில் சுமார் 49%-ஐ எடுத்துக்கொண்டது, அதைத் தொடர்ந்து ஜெர்மனி (12.9%), ஐக்கிய அரபு எமிரேட்ஸ் (7.3%), அமெரிக்கா மற்றும் போர்ச்சுகல்."
 
 lang: "ta"
-sourceContentHash: "26170231d376fbab"
+sourceContentHash: "02c9f76b97e77ffc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -109,6 +109,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Rubber_tree_and_latex_cup.j
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Tapped rubber tree with latex running down the spiral cut into a collection cup, Malaysia'
+images:
+  - role: scene
+    src: /media/industries/rubber-industry/body-1.webp
+    alt: வெளிர் புள்ளிகள் கொண்ட தண்டுகளுடன் மெல்லிய ரப்பர் மரங்களின் ஒழுங்கான வரிசைகள் புல் படர்ந்த எஸ்டேட் தரை முழுவதும் தூரத்தில் நீள்கின்றன, பல தண்டுகளில் தாழ்வாக சிறிய கரும் லேடெக்ஸ் கிண்ணங்கள் பொருத்தப்பட்டுள்ளன
+    kind: actual
+    origin: third-party
+    subject: ஜோகூரில் உள்ள ஒரு தோட்ட எஸ்டேட்டில் லேடெக்ஸ் சேகரிப்புக் கிண்ணங்கள் பொருத்தப்பட்ட முதிர்ந்த ரப்பர் மரங்களின் நேர்த்தியான வரிசைகள், மலேசியாவின் ரப்பர் தொழிலின் முதுகெலும்பு
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubber_plantation_in_Johor.jpg
+  - role: scene
+    src: /media/industries/rubber-industry/body-2.webp
+    alt: சாம்பல் சட்டை அணிந்த ஒரு ஆண், அழுத்தப்பட்ட வெள்ளை லேடெக்ஸ் தாளை ஒரு ரப்பர் தோப்பின் விளிம்பில் உள்ள மஞ்சள் வார்ப்பிரும்பு தாள் இயந்திரத்தின் கனமான உருளைகளுக்கு இடையே செலுத்துகிறார், அவருக்குப் பக்கத்தில் இரண்டாவது சல்லடை உருளை
+    kind: representative
+    origin: third-party
+    subject: ஒரு தொழிலாளர் உறைந்த லேடெக்ஸ் தாளை கை-சுழற்று ரப்பர் தாள் உருட்டு இயந்திரத்தின் வழியே செலுத்துகிறார், இயற்கை ரப்பரைப் பதப்படுத்தும் ஒரு முக்கியப் படி
+    credit: Blue Plover / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Processing_rubber_in_Thailand.JPG
 ---
 
 காலனித்துவ மலாயாவை (Malaya) கட்டியெழுப்பிய ரப்பர், இனி தோட்டத்தில் தன் வாழ்வாதாரத்தை ஈட்டுவதில்லை — அது தொழிற்சாலைத் தளத்தில் ஈட்டுகிறது. மலேசியா இன்னும் மரங்களைப் பால் எடுக்கிறது (tapping), ஆனால் அதன் ரப்பர் செல்வம் இப்போது அது உற்பத்தி செய்யும் மருத்துவக் கையுறைகள், டயர்கள் மற்றும் லேடெக்ஸ் பொருட்களை நம்பியே இயங்குகிறது — நாடு தானே வளர்க்கும் ரப்பரைவிட அதிக ரப்பரைப் பயன்படுத்தும் ஒரு தொழில் இது.

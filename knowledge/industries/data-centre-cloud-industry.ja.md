@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "06223fcd2dad5f61"
+sourceContentHash: "907afdfe924c77bf"
 
 status: "published"
 aiAssisted: true
@@ -89,6 +89,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-1.webp
+    alt: 整然としたコールドアイル・コンテインメントを備えた大型データセンターのホールを埋め尽くす、長く連なるサーバーおよび機器ラック。
+    kind: representative
+    origin: third-party
+    subject: 機器ラックが並ぶデータセンターのホール
+    credit: Hugovanmeijeren / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cern_datacenter.jpg
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-2.webp
+    alt: データセンターの構築現場で、サーバーラックの背面を縦横に走る密集した束のネットワークケーブル。
+    kind: representative
+    origin: third-party
+    subject: データセンターのサーバーラック背面のネットワーク配線
+    credit: RobH / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sdtpa_wmf-7.jpg
 ---
 
 2019年、シンガポールは大型の新規データセンターの承認を停止した。それから4年のうちに、同国が締め出したサーバー群は、コーズウェイを挟んで20分の場所に新たな産業を築き上げた——そしてジョホールは、静かなマレーシアの州から、東南アジアで最も活気のあるデータセンター市場へと変わった。

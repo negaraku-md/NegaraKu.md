@@ -34,7 +34,7 @@ faq:
     a: "الصين هي الوجهة الأكبر بفارق كبير، إذ أخذت نحو 49% من صادرات المطاط الطبيعي في ديسمبر 2024، تليها ألمانيا (12.9%)، والإمارات العربية المتحدة (7.3%)، والولايات المتحدة، والبرتغال."
 
 lang: "ar"
-sourceContentHash: "26170231d376fbab"
+sourceContentHash: "02c9f76b97e77ffc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -110,6 +110,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Rubber_tree_and_latex_cup.j
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Tapped rubber tree with latex running down the spiral cut into a collection cup, Malaysia'
+images:
+  - role: scene
+    src: /media/industries/rubber-industry/body-1.webp
+    alt: صفوف منظّمة من أشجار المطّاط النحيلة ذات الجذوع الشاحبة المبقّعة تمتدّ نحو البعيد عبر أرضية مزرعة عشبية، مع أكواب لاتكس داكنة صغيرة مثبّتة في أسفل عدة جذوع.
+    kind: actual
+    origin: third-party
+    subject: صفوف مرتّبة من أشجار المطّاط الناضجة المزوّدة بأكواب جمع اللاتكس في مزرعة بـ Johor، ركيزة لصناعة المطّاط في ماليزيا
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubber_plantation_in_Johor.jpg
+  - role: scene
+    src: /media/industries/rubber-industry/body-2.webp
+    alt: رجل بقميص رمادي يوجّه صفيحة بيضاء من اللاتكس المكبوس بين أسطوانات ثقيلة لماكينة تصفيح صفراء من الحديد الزهر عند حافة بستان مطّاط، وبجانبه أسطوانة مضلّعة ثانية.
+    kind: representative
+    origin: third-party
+    subject: عامل يُمرّر صفيحة من اللاتكس المتخثّر عبر مِعصرة تصفيح مطّاط تُدار يدويًا، خطوة رئيسية في معالجة المطّاط الطبيعي
+    credit: Blue Plover / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Processing_rubber_in_Thailand.JPG
 ---
 
 المطاط الذي بنى مالايا الاستعمارية لم يعد يكسب قُوته في المزرعة — بل يكسبه على أرضية المصنع. لا تزال ماليزيا تنصّت الأشجار، لكن ثروتها المطاطية تركب الآن على القفازات الطبية والإطارات والسلع اللاتكسية التي تصنعها، وهي أعمال تعالج مطاطاً أكثر مما يزرعه البلد نفسه.

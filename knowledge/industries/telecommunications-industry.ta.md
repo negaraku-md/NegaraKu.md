@@ -31,7 +31,7 @@ faq:
   - q: மலேசியாவின் தொலைத்தொடர்புச் சந்தை இன்னும் வளர்ந்து வருகிறதா?
     a: சந்தை கிட்டத்தட்ட நிறைவுற்றிருப்பதால் சந்தாதாரர் வளர்ச்சி பெருமளவில் நிலைத்துவிட்டது. எதிர்கால வளர்ச்சி புதிய பயனர்களின் பெரிய எண்ணிக்கையைப் பதிவு செய்வதைக் காட்டிலும் அதிக-மதிப்பு சேவைகளிலிருந்து — 5G, ஃபைபர் மேம்பாடுகள், நிறுவன இணைப்பு மற்றும் டிஜிட்டல் சேவைகள் — வரும் என எதிர்பார்க்கப்படுகிறது.
 lang: ta
-sourceContentHash: "71058a53ca5ab530"
+sourceContentHash: "0c39b625a601c6e7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cellular_Telephone_Tower_-_Knoxville,_Tennessee_-_May_26,_2014.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-1.webp
+    alt: மேற்பகுதியில் ஒளிரும் CelcomDigi லோகோ மற்றும் பிராண்ட் பெயருடன், CelcomDigi fibre, Ultra Smooth Low Latency என எழுதப்பட்ட ஒளிரும் நீல பலகையுடன் கூடிய ஒரு பெரிய இருண்ட கண்காட்சி அரங்கு, கீழே முகக்கவசம் அணிந்த பார்வையாளர்கள் கூடியுள்ளனர்
+    kind: actual
+    origin: third-party
+    subject: ஃபைபர் பிராட்பேண்டை விளம்பரப்படுத்தும் ஒரு CelcomDigi கண்காட்சி அரங்கு, ஒரு மலேசிய மொபைல் மற்றும் பிராட்பேண்ட் நிறுவனத்தின் நுகர்வோர் இருப்பைக் காட்டுகிறது
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CelcomDigi_booth_at_Comic_Fiesta_2023.jpg
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-2.webp
+    alt: ஒரு கோணத்தில் நீளும் ராக்கில் பொருத்தப்பட்ட கணினி சேவையகங்களின் நீண்ட சுவர், ஒவ்வொரு அடுக்கும் இருண்ட உலோக அலமாரிகளுக்கு எதிராக மின்னும் நீல நிலை விளக்குகளால் பதிக்கப்பட்டுள்ளது
+    kind: representative
+    origin: third-party
+    subject: ஒரு தரவு மையத்தில் நீல குறிகாட்டி விளக்குகளுடன் ஒளிரும் வலையமைப்பு மற்றும் சேவையக உபகரணங்களின் வரிசைகள், தொலைத்தொடர்பு வலையமைப்புகளுக்கு அடித்தளமான உள்கட்டமைப்பு
+    credit: BalticServers.com / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg
 ---
 
 மலேசியாவில் கிட்டத்தட்ட அனைவரும் ஒரு மொபைல் இணைப்பைக் கொண்டு செல்கிறார்கள், மேலும் பெரும்பாலான வீடுகளில் ஏதோ ஒரு வகையான பிராட்பேண்ட் உள்ளது. அது தொலைத்தொடர்பை நாட்டின் மிக முக்கியமான மற்றும் மிகவும் முதிர்ச்சியடைந்த தொழில்களில் ஒன்றாக ஆக்குகிறது — டிஜிட்டல் பொருளாதாரம், ஆன்லைன் வங்கி, மின்-அரசாங்கம் மற்றும் அன்றாட வாழ்க்கைக்குக் கீழே உள்ள கண்ணுக்குத் தெரியாத குழாய் அமைப்பு. எனினும் பரிச்சயமான பிராண்ட் பெயர்களுக்குப் பின்னால் சமீபத்திய ஆண்டுகளில் வியத்தகு முறையில் மாறிய ஒரு சந்தை அமர்ந்துள்ளது: குறைவான இயக்குநர்கள், பெரிய இணைப்புகள் மற்றும் 5G ஐ எவ்வாறு கட்டமைப்பது என்பதில் ஒரு தேசிய பரிசோதனை.

@@ -34,7 +34,7 @@ faq:
     a: "NCP 2030 என்பது கட்டுமானத் தொழில் மாற்றத் திட்டம் (Construction Industry Transformation Programme, CITP) 2016–2020 நிறைவடைந்ததைத் தொடர்ந்து ICW 2021-இல் அறிமுகப்படுத்தப்பட்ட ஒரு கொள்கையாகும். இது 2030-க்குள் கட்டுமானத் துறையை டிஜிட்டல் யுகத்தை நோக்கி மாற்றுவதற்கான ஆறு மூலோபாய அச்சுகளை வகுக்கிறது, இதில் தொழில் சுழற்சியில் 50%-ஐ டிஜிட்டல்மயமாக்கும் இலக்கும் அடங்கும்."
 
 lang: "ta"
-sourceContentHash: "6895d1dde5da9e4f"
+sourceContentHash: "2f048d788112b135"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/construction-industry/body-1.webp
+    alt: மலேசியாவின் கோலாலம்பூர் நடுநகரில் கட்டப்பட்டுக் கொண்டிருக்கும் உயரமான கட்டிடத்தின் மேல் கோபுர கிரேன்கள் உயர்ந்து நிற்கின்றன.
+    kind: representative
+    origin: third-party
+    subject: கோலாலம்பூரில் ஒரு உயரமான கட்டிடக் கட்டுமானத் தளம்
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg
+  - role: scene
+    src: /media/industries/construction-industry/body-2.webp
+    alt: கோலாலம்பூர், புக்கிட் ஜாலிலுக்கு அருகே ஜாலான் குடா எமாஸில் கட்டப்பட்டுக் கொண்டிருக்கும் இரும்புக் கம்பி கொண்ட கான்கிரீட் சேவை அடுக்குமாடிக் கோபுரம்.
+    kind: representative
+    origin: third-party
+    subject: கோலாலம்பூர், புக்கிட் ஜாலிலுக்கு அருகே சேவை அடுக்குமாடிக் கட்டுமானம்
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serviced_apartment_construction_on_Jalan_Kuda_Emas,_Kuala_Lumpur_20240525_152253.jpg
 ---
 
 ஒப்பந்ததாரர் பதிவுச் சான்றிதழை வைத்திருக்காமல் RM250,000 மதிப்புள்ள ஒரு பள்ளி வேலியை எழுப்ப முயலுங்கள் — முதல் கம்பம் நடப்படுவதற்கு முன்பே உங்கள் திட்டத்தை உடனடியாக நிறுத்துமாறு உத்தரவிடப்படலாம். மலேசியாவில், கட்டுவதற்கான உரிமை இயந்திரங்களுடனோ தொழிலாளர்களுடனோ தொடங்குவதில்லை; அது ஒரே ஒரு பதிவுடன் தொடங்குகிறது.

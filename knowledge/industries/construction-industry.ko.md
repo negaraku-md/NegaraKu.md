@@ -34,7 +34,7 @@ faq:
     a: "NCP 2030은 건설산업 전환 프로그램(CITP) 2016–2020의 기간이 끝난 후 ICW 2021에서 출범한 정책입니다. 이는 2030년까지 건설 부문을 디지털 시대로 전환하기 위한 여섯 개의 전략적 축을 제시하며, 산업 주기의 50% 디지털화 목표를 포함합니다."
 
 lang: "ko"
-sourceContentHash: "6895d1dde5da9e4f"
+sourceContentHash: "2f048d788112b135"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/construction-industry/body-1.webp
+    alt: 말레이시아 쿠알라룸푸르 도심에서 건설 중인 고층 건물 위로 솟아오른 타워 크레인들.
+    kind: representative
+    origin: third-party
+    subject: 쿠알라룸푸르의 고층 건물 공사 현장
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg
+  - role: scene
+    src: /media/industries/construction-industry/body-2.webp
+    alt: 쿠알라룸푸르 부킷 잘릴 인근 잘란 쿠다 에마스에서 건설 중인 철근 콘크리트 서비스드 아파트 타워.
+    kind: representative
+    origin: third-party
+    subject: 쿠알라룸푸르 부킷 잘릴 인근의 서비스드 아파트 공사
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serviced_apartment_construction_on_Jalan_Kuda_Emas,_Kuala_Lumpur_20240525_152253.jpg
 ---
 
 계약자 등록 증서를 소지하지 않은 채 RM250,000짜리 학교 담장을 세워 보십시오. 첫 기둥을 박기도 전에 프로젝트가 즉시 중지 명령을 받을 수 있습니다. 말레이시아에서 건설할 권리는 기계나 노동에서 시작하지 않습니다 — 그것은 하나의 등록부에서 시작합니다.

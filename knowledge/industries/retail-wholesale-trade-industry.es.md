@@ -31,7 +31,7 @@ faq:
   - q: ¿Cómo ha cambiado el comercio electrónico al comercio minorista malasio?
     a: La compra en línea ha crecido rápidamente, liderada por plataformas como Shopee y Lazada, y la línea entre el comercio minorista en línea y físico se ha difuminado a medida que los minoristas tradicionales añaden entrega, recogida en tienda y escaparates en línea. Las cifras de ingresos del comercio electrónico del DOSM alcanzan el orden de los billones de ringgit, aunque ese total abarca la manufactura y los servicios, no solo el comercio minorista.
 lang: es
-sourceContentHash: "7023892418e3b1e5"
+sourceContentHash: "563295af54c5015d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -103,6 +103,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_NU_Sentral,_2023_(01).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-1.webp
+    alt: Un largo pasillo de supermercado con estanterías blancas repletas de azúcar en bolsas, aceite de cocina y productos envasados, bajo un cartel de pasillo verde que dice GULA AGAR-AGAR 21, con un suelo de baldosas limpio que se aleja en la distancia.
+    kind: actual
+    origin: third-party
+    subject: Un pasillo de comestibles surtido en un hipermercado Giant en Kota Damansara, Selangor, un formato fundamental del comercio minorista de Malasia
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sugar_and_agar-agar_powder_section_(Aisle_21)_of_Giant_Hypermarket_Kota_Damansara_at_Dataran_Sunway_in_Kota_Damansara,_Selangor_20250315_103201.jpg
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-2.webp
+    alt: Un largo cobertizo de mercado abierto de una sola planta con un techo marrón desgastado, un camión cargado de productos y dos camionetas más pequeñas aparcados delante en una explanada asfaltada y soleada bajo un cielo azul intenso.
+    kind: actual
+    origin: third-party
+    subject: Un mercado tradicional de abastos abierto por los lados en Johor Jaya, con camiones que entregan productos frescos, parte del comercio mayorista y minorista de alimentos de Malasia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Jaya_Wet_Market.jpg
 ---
 
 Casi cada ringgit que un malasio gasta en bienes físicos —comestibles, un teléfono, un coche, una botella de aceite de cocina— pasa por el comercio minorista y mayorista. Es la fontanería del consumo cotidiano: la red de importadores, mayoristas, distribuidores, tiendas, mercados y comercios en línea que mueve los productos desde donde se fabrican hasta donde se compran. Las autoridades llaman a esta red **comercio distributivo**, y es una de las partes más grandes y visibles de la economía malasia.

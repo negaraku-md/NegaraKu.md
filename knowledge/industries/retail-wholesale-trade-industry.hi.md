@@ -31,7 +31,7 @@ faq:
   - q: ई-कॉमर्स ने मलेशियाई खुदरा को कैसे बदला है?
     a: ऑनलाइन खरीदारी तेज़ी से बढ़ी है, जिसका नेतृत्व Shopee और Lazada जैसे प्लेटफ़ॉर्म करते हैं, और ऑनलाइन तथा भौतिक खुदरा के बीच की रेखा धुंधली हो गई है क्योंकि पारंपरिक खुदरा विक्रेता डिलीवरी, क्लिक-एंड-कलेक्ट और ऑनलाइन स्टोरफ़्रंट जोड़ रहे हैं। DOSM के ई-कॉमर्स आय आँकड़े खरबों रिंगिट में पहुँचते हैं, हालाँकि वह कुल योग विनिर्माण और सेवाओं तक फैला है, केवल खुदरा नहीं।
 lang: hi
-sourceContentHash: "7023892418e3b1e5"
+sourceContentHash: "563295af54c5015d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -103,6 +103,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Interior_of_NU_Sentral,_2023_(01).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-1.webp
+    alt: एक लंबा सुपरमार्केट गलियारा जिसमें सफ़ेद अलमारियाँ थैलियों में चीनी, खाना पकाने के तेल और पैकेज्ड सामान से भरी हैं, GULA AGAR-AGAR 21 लिखे एक हरे गलियारा चिह्न के नीचे, एक साफ़ टाइल वाला फ़र्श दूरी में पीछे जाता हुआ।
+    kind: actual
+    origin: third-party
+    subject: सेलांगोर के कोटा दामनसारा में एक Giant हाइपरमार्केट में भरा हुआ किराना गलियारा, मलेशिया के खुदरा व्यापार का एक प्रमुख स्वरूप
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sugar_and_agar-agar_powder_section_(Aisle_21)_of_Giant_Hypermarket_Kota_Damansara_at_Dataran_Sunway_in_Kota_Damansara,_Selangor_20250315_103201.jpg
+  - role: scene
+    src: /media/industries/retail-wholesale-trade-industry/body-2.webp
+    alt: एक लंबा एकमंज़िला खुला बाज़ार शेड जिसकी छत मौसम से झुलसी भूरी है, सामने धूप में भीगे टार के मैदान पर उपज से लदा एक लॉरी और दो छोटे ट्रक खड़े हैं, चमकीले नीले आकाश के नीचे।
+    kind: actual
+    origin: third-party
+    subject: जोहोर जया में एक पारंपरिक खुले-किनारे वाला गीला बाज़ार जहाँ लॉरियाँ ताज़ा उपज पहुँचाती हैं, मलेशिया के थोक और खुदरा खाद्य व्यापार का हिस्सा
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Jaya_Wet_Market.jpg
 ---
 
 एक मलेशियाई भौतिक वस्तुओं पर जो लगभग हर रिंगिट खर्च करता है — किराना, एक फ़ोन, एक कार, खाना पकाने के तेल की एक बोतल — वह खुदरा और थोक व्यापार से होकर गुज़रता है। यह रोज़मर्रा के उपभोग की नलसाज़ी है: आयातकों, थोक विक्रेताओं, वितरकों, दुकानों, बाज़ारों और ऑनलाइन स्टोरों का वह नेटवर्क जो उत्पादों को उनके निर्माण-स्थल से उनके खरीद-स्थल तक पहुँचाता है। अधिकारी इस नेटवर्क को **वितरण व्यापार** कहते हैं, और यह मलेशियाई अर्थव्यवस्था के सबसे बड़े और सबसे दृश्यमान हिस्सों में से एक है।

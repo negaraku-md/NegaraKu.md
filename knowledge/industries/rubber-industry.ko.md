@@ -34,7 +34,7 @@ faq:
     a: "중국이 단연 최대 대상지로, 2024년 12월 천연고무 수출의 약 49%를 차지했으며, 그다음으로 독일(12.9%), 아랍에미리트(7.3%), 미국, 포르투갈이 뒤따랐습니다."
 
 lang: "ko"
-sourceContentHash: "26170231d376fbab"
+sourceContentHash: "02c9f76b97e77ffc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -109,6 +109,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Rubber_tree_and_latex_cup.j
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Tapped rubber tree with latex running down the spiral cut into a collection cup, Malaysia'
+images:
+  - role: scene
+    src: /media/industries/rubber-industry/body-1.webp
+    alt: 옅고 얼룩덜룩한 줄기를 지닌 가느다란 고무나무가 풀이 자란 농원 바닥을 따라 가지런히 줄지어 멀리 이어지고, 몇몇 줄기 낮은 곳에 작고 검은 라텍스 수집용 컵이 달려 있다
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 고무 산업의 근간인 조호르의 한 플랜테이션 에스테이트에서 라텍스 수집용 컵을 단 채 가지런히 줄지어 선 성숙한 고무나무들
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubber_plantation_in_Johor.jpg
+  - role: scene
+    src: /media/industries/rubber-industry/body-2.webp
+    alt: 회색 셔츠를 입은 남성이 고무 숲 가장자리에서 눌러 편 흰색 라텍스 시트를 노란색 주철 압연기의 무거운 롤러 사이로 밀어 넣고 있고, 그 옆에는 골이 진 두 번째 롤러가 있다
+    kind: representative
+    origin: third-party
+    subject: 천연고무 가공의 핵심 단계인, 손으로 돌리는 고무 압연기로 응고된 라텍스 시트를 밀어 넣는 작업자
+    credit: Blue Plover / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Processing_rubber_in_Thailand.JPG
 ---
 
 식민지 시대 말라야(Malaya)를 세운 고무는 더 이상 농장에서 생계를 벌지 않습니다 — 이제 공장 바닥에서 법니다. 말레이시아는 여전히 나무를 채취하지만, 그 고무의 부(富)는 이제 이 나라가 제조하는 의료용 장갑, 타이어, 라텍스 제품에 올라타 있으며, 이는 이 나라가 스스로 재배하는 것보다 더 많은 고무를 소비하는 사업입니다.

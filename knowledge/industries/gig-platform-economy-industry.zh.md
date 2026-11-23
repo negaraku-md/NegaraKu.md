@@ -60,7 +60,27 @@ sources:
     url: https://mohr.gov.my/images/pdf/KENYATAAN%20MEDIA%20PEKERJA%20GIG.pdf
     publisher: 人力资源部 (KESUMA)
   - title: 内阁批准 SEGiM 以保障零工工作者福利 (Cabinet approves SEGiM to safeguard gig workers' welfare)
-    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig---tpm
+    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig
+images:
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-1.webp
+    alt: 一名身穿粉色foodpanda夹克、戴着头盔的送餐骑手，骑着一辆小型摩托车（kapcai），车上载着一个粉色的foodpanda大号保温送餐箱，停在街道车流中。
+    kind: representative
+    origin: third-party
+    subject: 使用粉色保温送餐箱的foodpanda摩托车送餐骑手（代表性的零工平台工作；非Grab）
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-2.webp
+    alt: 一名平台送餐员站在人行道上，背着一个大号保温送餐背包。
+    kind: representative
+    origin: third-party
+    subject: 背着平台保温送餐包的送餐员（非Grab）
+    credit: Alexander Corkhill / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
+---tpm
     publisher: Sinar Harian
   - title: 国会通过《2025 年零工工作者法案》(Parliament Passes Gig Workers Bill 2025)
     url: https://ringgitplus.com/en/blog/personal-finance-news/parliament-passes-gig-workers-bill-2025.html

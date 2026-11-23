@@ -34,7 +34,7 @@ faq:
     a: "Malasia ocupó el 26.º puesto en el Índice de Desempeño Logístico 2023 del Banco Mundial, frente al 41.º de 2018 y segundo entre las naciones de la ASEAN después de Singapur."
 
 lang: "es"
-sourceContentHash: "28b83f8fb5bdfc96"
+sourceContentHash: "a329af0d43f2fad4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -125,6 +125,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Teal_Striped_Container_Cranes_at_Tanjung_Pelepas_Port_Ver2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-1.webp
+    alt: Una grúa pórtico sobre neumáticos a horcajadas sobre filas de contenedores de transporte apilados en la Terminal Internacional de Contenedores de Bintulu, en Sarawak.
+    kind: actual
+    origin: third-party
+    subject: Grúa pórtico sobre neumáticos sobre contenedores apilados en la Terminal Internacional de Contenedores de Bintulu, Sarawak, Malasia
+    credit: Richard W Sinyem from Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ARTG_at_Bintulu_International_Container_Terminal_(BICT).jpg
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-2.webp
+    alt: Coloridos contenedores de transporte apilados en la cubierta de un buque portacontenedores atracado en Port Klang, Selangor, Malasia.
+    kind: actual
+    origin: third-party
+    subject: Contenedores de transporte cargados en un buque en Port Klang, Malasia
+    credit: jgmorard / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A090301.020.PortKlang.jpg
 ---
 
 Port Klang movió 15.14 millones de contenedores de transporte marítimo en 2025, suficientes para adelantar a Hong Kong e irrumpir por primera vez entre los diez puertos más activos del mundo. Un segundo puerto malasio, Tanjung Pelepas, movió otros 14 millones. Ninguna de esas cifras describe un país que fabrique la mayor parte de esas mercancías. Describe un país que está en el lugar correcto y que ha aprendido a cobrar renta por el comercio del mundo.

@@ -31,7 +31,7 @@ faq:
   - q: Thị trường viễn thông của Malaysia có còn tăng trưởng không?
     a: Tăng trưởng thuê bao phần lớn đã chững lại vì thị trường gần bão hòa. Tăng trưởng tương lai dự kiến đến từ các dịch vụ giá trị cao hơn — 5G, nâng cấp cáp quang, kết nối doanh nghiệp và dịch vụ số — thay vì từ việc ký kết một lượng lớn người dùng mới.
 lang: vi
-sourceContentHash: "71058a53ca5ab530"
+sourceContentHash: "0c39b625a601c6e7"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -107,6 +107,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cellular_Telephone_Tower_-_Knoxville,_Tennessee_-_May_26,_2014.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-1.webp
+    alt: Một gian triển lãm lớn màu tối với logo và tên thương hiệu CelcomDigi phát sáng ở phía trên và một bảng xanh phát sáng ghi CelcomDigi fibre, Ultra Smooth Low Latency, với những khách tham quan đeo khẩu trang tụ tập bên dưới
+    kind: actual
+    origin: third-party
+    subject: một gian trưng bày CelcomDigi quảng bá internet cáp quang băng thông rộng, cho thấy sự hiện diện với người tiêu dùng của một nhà mạng di động và băng thông rộng Malaysia
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CelcomDigi_booth_at_Comic_Fiesta_2023.jpg
+  - role: scene
+    src: /media/industries/telecommunications-industry/body-2.webp
+    alt: Một bức tường dài gồm các máy chủ gắn trên tủ rack trải dài theo một góc nghiêng, mỗi tầng điểm xuyết những đèn trạng thái màu xanh lấp lánh trên nền các tủ kim loại sẫm màu
+    kind: representative
+    origin: third-party
+    subject: những dãy thiết bị mạng và máy chủ phát sáng với đèn báo màu xanh trong một trung tâm dữ liệu, hạ tầng nền tảng cho các mạng viễn thông
+    credit: BalticServers.com / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg
 ---
 
 Gần như mọi người ở Malaysia đều mang theo một kết nối di động, và phần lớn các hộ gia đình có một dạng băng rộng nào đó. Điều đó khiến viễn thông là một trong những ngành quan trọng nhất và trưởng thành nhất của đất nước — hệ thống đường ống vô hình bên dưới kinh tế số, ngân hàng trực tuyến, chính phủ điện tử và đời sống hàng ngày. Tuy vậy, đằng sau những tên thương hiệu quen thuộc là một thị trường đã thay đổi mạnh mẽ trong những năm gần đây: ít nhà mạng hơn, các vụ sáp nhập lớn hơn và một thử nghiệm quốc gia về cách xây dựng 5G.

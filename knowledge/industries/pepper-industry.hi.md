@@ -32,7 +32,7 @@ faq:
   - q: उद्योग के सामने मुख्य चुनौतियाँ क्या हैं?
     a: इस क्षेत्र को उम्रदराज़ होती किसान आबादी, अस्थिर वैश्विक कीमतों, जलवायु तनाव और वियतनाम, इंडोनेशिया तथा भारत जैसे बड़े उत्पादकों की कड़ी प्रतिस्पर्धा का सामना है। कम यंत्रीकरण और कच्ची बीन के निर्यात पर निर्भरता मार्जिन को पतला रखती है, यही कारण है कि नीति अब पुनर्रोपण, प्रौद्योगिकी और डाउनस्ट्रीम प्रसंस्करण पर ज़ोर देती है।
 lang: hi
-sourceContentHash: "919642eafa94442f"
+sourceContentHash: "d190e9e277335f4c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -117,6 +117,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plant_climbing_poles.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pepper-industry/body-1.webp
+    alt: कई झुकती बालियों वाले एक काली मिर्च के पौधे का क्लोज़-अप, जिन पर घनी रूप से गोल हरी मिर्च के दाने गुँथे हैं, बड़ी चमकदार गहरे-हरे पत्तों से घिरा हुआ, पीछे एक धुँधला हरा खेत।
+    kind: actual
+    origin: third-party
+    subject: सरवाक के एक काली मिर्च के खेत में काली-मिर्च के पौधे पर लंबी बालियों में लटकते पकते हरे मिर्च के दानों के गुच्छे, जो मलेशिया के काली मिर्च उद्योग का केंद्र है
+    credit: Nick Allen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plants.jpg
+  - role: scene
+    src: /media/industries/pepper-industry/body-2.webp
+    alt: एक नीची मुँडेर से घिरी सफ़ेदी की हुई छत पर रखी गहरे रंग के सूखते मिर्च के दानों की कई चौकोर जालीदार ट्रे, पीछे नीले आसमान के नीचे उठते केले और नारियल के पेड़ और वनाच्छादित पहाड़ियाँ।
+    kind: representative
+    origin: third-party
+    subject: काटे गए मिर्च के दाने एक छत पर जालीदार ट्रे में धूप में सूखने के लिए फैलाए गए, वह सुखाने का चरण जो हरे दानों को काली मिर्च में बदल देता है
+    credit: Rainer Halama / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pepper_drying_in_Munnar_Hills-WUS07148.jpg
 ---
 
 काली मिर्च मलेशिया की सबसे पुरानी और भौगोलिक रूप से सबसे विशिष्ट कृषि जिंसों में से एक है: भारतीय उपमहाद्वीप और सुमात्रा से आयातित एक बेल जिसने Sarawak की आर्द्र, अच्छी जल-निकासी वाली पहाड़ियों में अपना आदर्श घर पाया, जहाँ यह हज़ारों ग्रामीण लघु खेतों की रीढ़ बन गई। हालाँकि मलेशिया वैश्विक मात्रा के हिसाब से एक मामूली खिलाड़ी है, यह प्रतिष्ठा पर अपने वज़न से ऊपर प्रहार करता है, एक प्रीमियम, उत्पत्ति-प्रमाणित "Sarawak Pepper" को समझदार बाज़ारों में बेचता है। यह लेख इस क्षेत्र की संरचना, भूगोल, व्यापार और संभावनाओं को एक स्वतंत्र उद्योग के रूप में प्रस्तुत करता है।

@@ -31,7 +31,7 @@ faq:
   - q: 섬유·의류 투자를 뒷받침하는 인센티브는 무엇인가요?
     a: MIDA가 이 하위부문의 제조 면허 승인과 세제 인센티브를 집행하며, 이는 신산업마스터플랜(NIMP) 2030의 우선 영역입니다. 2026년 1분기부터 적격 투자는 새로운 성과 기반 신투자인센티브체계(New Investment Incentive Framework)의 적용을 받으며, 기술·숙련·현지 연계 같은 성과에 연동된 차등 인센티브가 주어집니다. 현행 요율과 조건은 MIDA에 확인하십시오.
 lang: ko
-sourceContentHash: "97b0b938d8bbc429"
+sourceContentHash: "eb32cad92737b99d"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -104,6 +104,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Garment_factory_in_Bangladesh_Women_working.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-1.webp
+    alt: 무늬가 풍성한 직물의 클로즈업으로, 중앙에는 촘촘한 금색 꽃무늬 브로케이드로 짠 붉은 패널이 있고, 그 양옆을 금색 마름모와 별 문양이 들어간 적갈색 테두리가 감싸고 있다
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 섬유 유산의 대표 공예인, 금색 금속실로 짠 트렝가누산 말레이 songket 천의 세부
+    credit: Daderot / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG
+  - role: scene
+    src: /media/industries/textiles-apparel-industry/body-2.webp
+    alt: 벽돌 벽 작업장에 놓인 나무 수직기로, 틀에 날실이 걸려 있고 빨강·초록·파랑 실패가 한 줄로 늘어서 있으며, 직공이 반대편에서 반쯤 보이는 채로 작업하고 있다
+    kind: representative
+    origin: third-party
+    subject: 섬유 산업의 직조를 나타내는, 색색의 실패를 건 나무 베틀로 작업하는 직공
+    credit: Tarunsamanta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Power_loom_Weaving_in_Hooghly_District_09.jpg
 ---
 
 말레이시아가 컴퓨터 칩과 팜유로 알려지기 훨씬 전부터, 이 나라는 천과 옷을 만들었습니다. 섬유·의류·신발 산업은 이 나라에서 가장 오래된 현대 제조 부문 중 하나로 — 1970~80년대에 산업화를 촉발하는 데 일조한 노동집약적·수출 지향적 사업입니다. 오늘날 이는 훨씬 커진 경제에서 더 작은 조각이 되었지만, 여전히 실질적인 고용주이자 꾸준한 수출원이며, 정부가 적극적으로 재창조하려는 부문입니다.

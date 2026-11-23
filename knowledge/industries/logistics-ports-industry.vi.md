@@ -34,7 +34,7 @@ faq:
     a: "Malaysia xếp thứ 26 trong Chỉ số Hiệu suất Logistics của Ngân hàng Thế giới 2023, tăng từ vị trí thứ 41 năm 2018 và đứng thứ hai trong số các quốc gia ASEAN sau Singapore."
 
 lang: "vi"
-sourceContentHash: "28b83f8fb5bdfc96"
+sourceContentHash: "a329af0d43f2fad4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -125,6 +125,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Teal_Striped_Container_Cranes_at_Tanjung_Pelepas_Port_Ver2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-1.webp
+    alt: Một cần cẩu giàn bánh lốp cao su đứng dạng trên các hàng container vận chuyển xếp chồng tại Cảng Container Quốc tế Bintulu, Sarawak.
+    kind: actual
+    origin: third-party
+    subject: Cẩu giàn bánh lốp cao su trên các container xếp chồng tại Cảng Container Quốc tế Bintulu, Sarawak, Malaysia
+    credit: Richard W Sinyem from Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ARTG_at_Bintulu_International_Container_Terminal_(BICT).jpg
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-2.webp
+    alt: Những container vận chuyển đầy màu sắc xếp chồng trên boong một con tàu container đang cập bến tại Cảng Klang, Selangor, Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Container được xếp lên tàu tại Cảng Klang, Malaysia
+    credit: jgmorard / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A090301.020.PortKlang.jpg
 ---
 
 Port Klang đã vận chuyển 15.14 triệu container tàu biển vào năm 2025 — đủ để vượt qua Hồng Kông và lần đầu tiên lọt vào top mười cảng bận rộn nhất thế giới. Một cảng thứ hai của Malaysia, Tanjung Pelepas, đã vận chuyển thêm 14 triệu nữa. Không con số nào mô tả một quốc gia làm ra phần lớn số hàng hóa đó. Nó mô tả một quốc gia nằm đúng chỗ và đã học được cách thu tiền thuê trên thương mại của thế giới.

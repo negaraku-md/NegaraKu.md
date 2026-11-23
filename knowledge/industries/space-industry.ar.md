@@ -31,7 +31,7 @@ faq:
   - q: "هل تختلف صناعة الفضاء في ماليزيا عن صناعة الطيران؟"
     a: "نعم. تغطي صناعة الطيران الطيران والصيانة والإصلاح والعمرة (MRO) والهياكل الجوية للطائرات. أما صناعة الفضاء فتغطي الأقمار الاصطناعية والإطلاق وتنظيم الفضاء والخدمات اللاحقة مثل اتصالات الأقمار الاصطناعية والاستشعار عن بُعد."
 lang: ar
-sourceContentHash: "c74b519cf5166ca0"
+sourceContentHash: "932846867c424136"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -115,6 +115,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Antennas_at_Awarua_Satellite_Ground_Station.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/space-industry/body-1.webp
+    alt: مهندسون بأفرهول وأغطية غرف نظيفة بلون أخضر فاتح وأبيض يعملون حول غطاء صاروخ مخروطي أبيض طويل معلّق بأداة رفع صفراء على منصّة متحرّكة في غرفة نظيفة ساطعة الإضاءة.
+    kind: representative
+    origin: third-party
+    subject: فنّيون ببدلات غرف نظيفة يجهّزون قمرًا صناعيًا مغلّفًا على المركّب العلوي لمركبة الإطلاق، تمثيلًا لبناء الأقمار الصناعية والتحضير للإطلاق
+    credit: ESA_events / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sentinel-2A_satellite_-_On_the_transportation_platform.jpg
+  - role: scene
+    src: /media/industries/space-industry/body-2.webp
+    alt: سماء ليلية مظلمة فوق مياه هادئة يعبرها خطّان مضيئان منحنيان من الضوء، أحدهما يرتفع بحدّة من منصّة إطلاق ساطعة على اليسار وآخر أخفت ينحدر للهبوط على اليمين.
+    kind: representative
+    origin: third-party
+    subject: إطلاق صاروخ ليلي بتعريض طويل، بقوس صعود ساطع وقوس ثانٍ للمعزّز العائد إلى الهبوط، تمثيلًا لخدمات الإطلاق
+    credit: SpaceX / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:CRS-9_mission_(28348649546).jpg
 ---
 
 لا تُطلق ماليزيا صواريخ خاصة بها، ومع ذلك أطارت رائد فضاء، وبنت أقماراً صغيرة وشغّلتها، وسنّت قانوناً لترخيص النشاط الفضائي الخاص قبل معظم جيرانها. وقطاعها الفضائي صغير واستراتيجي بهدوء — متشابك مع سياسة النطاق العريض والدفاع ومراقبة الكوارث والهيبة الوطنية. يرسم هذا الدليل خريطة الوكالة والقانون والأقمار والطموحات التي تؤلف اقتصاد الفضاء في ماليزيا.

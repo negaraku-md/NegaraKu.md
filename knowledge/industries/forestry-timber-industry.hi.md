@@ -31,7 +31,7 @@ faq:
   - q: क्या यह मलेशिया के फर्नीचर उद्योग के समान है?
     a: नहीं। यह मार्गदर्शिका अपस्ट्रीम संसाधन क्षेत्र को कवर करती है — वन, लॉगिंग और लट्ठे, आरा-काष्ठ तथा प्लाईवुड जैसे प्राथमिक उत्पाद। फर्नीचर और तैयार काष्ठ-उत्पाद क्षेत्र डाउनस्ट्रीम, विनिर्माण छोर है जो उन प्राथमिक उत्पादों को निर्यात के लिए उच्च-मूल्य वस्तुओं में बदलता है। दोनों जुड़े हुए हैं लेकिन आमतौर पर अलग उद्योग माने जाते हैं।
 lang: hi
-sourceContentHash: "21ca9448b6bc735f"
+sourceContentHash: "ecb30ab62f1f2cdc"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -104,6 +104,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sawmill-02.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/forestry-timber-industry/body-1.webp
+    alt: मलेशिया के साबाह में एक ग्रामीण आरा मिल की खुली छत के नीचे चिरी हुई दृढ़ लकड़ी की तख्तियों और लट्ठों के ढेर।
+    kind: actual
+    origin: third-party
+    subject: कम्पुंग मेम्पाकाद, साबाह, मलेशिया में आरा मिल
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AMempakad_Sabah_Sawmill-01.jpg
+  - role: scene
+    src: /media/industries/forestry-timber-industry/body-2.webp
+    alt: साबाह के सांडाकान में एक प्लाईवुड कारखाने में उष्णकटिबंधीय दृढ़ लकड़ी के लट्ठों को ट्रिमिंग यूनिट की ओर ले जाता एक पहिएदार लोडर।
+    kind: actual
+    origin: third-party
+    subject: सांडाकान, साबाह, मलेशिया में प्लाईवुड कारखाने का लट्ठा यार्ड
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ASandakan_Sabah_Plywood-Factory-05.jpg
 ---
 
 मलेशिया पृथ्वी के कुछ सबसे प्राचीन वर्षावनों के बीच बसा है, और अपने आधुनिक इतिहास के अधिकांश हिस्से में उष्णकटिबंधीय दृढ़काष्ठ का व्यापार राष्ट्रीय अर्थव्यवस्था के स्तंभों में से एक रहा है। वह अपस्ट्रीम दुनिया — स्वयं वन, उन्हें काटने के लाइसेंस, और कच्चे लट्ठों को काष्ठ में बदलने का पहला प्रसंस्करण — शृंखला में आगे स्थित फर्नीचर कारखानों और काष्ठ-उत्पाद निर्यातकों से एक अलग उद्योग है। यह मार्गदर्शिका **वानिकी और काष्ठ संसाधन क्षेत्र** को कवर करती है: काष्ठ कहाँ से आती है, इसे कौन नियंत्रित करता है, इसका निर्यात कैसे होता है, और वे सततता व बाज़ार दबाव जो अब इसे नया रूप दे रहे हैं।

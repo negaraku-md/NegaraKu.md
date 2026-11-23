@@ -60,7 +60,27 @@ sources:
     url: https://mohr.gov.my/images/pdf/KENYATAAN%20MEDIA%20PEKERJA%20GIG.pdf
     publisher: Kementerian Sumber Manusia (KESUMA), Malaysia
   - title: Kabinet lulus SEGiM untuk menjaga kebajikan pekerja gig (Cabinet approves SEGiM to safeguard gig workers' welfare)
-    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig---tpm
+    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig
+images:
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-1.webp
+    alt: Seorang penunggang penghantaran makanan berjaket dan bertopi keledar foodpanda merah jambu menunggang motosikal kapcai sambil membawa kotak penghantaran bertebat foodpanda merah jambu yang besar ketika berhenti dalam lalu lintas jalan.
+    kind: representative
+    origin: third-party
+    subject: Penunggang penghantaran makanan motosikal Foodpanda dengan kotak penghantaran bertebat merah jambu (kerja platform gig yang mewakili; bukan Grab)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-2.webp
+    alt: Seorang kurier penghantaran makanan platform berdiri di atas kaki lima memakai beg galas penghantaran makanan bertebat yang besar.
+    kind: representative
+    origin: third-party
+    subject: Kurier penghantaran makanan dengan beg penghantaran platform bertebat (bukan Grab)
+    credit: Alexander Corkhill / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
+---tpm
     publisher: Sinar Harian
   - title: Parlimen Luluskan Rang Undang-Undang Pekerja Gig 2025 (Parliament Passes Gig Workers Bill 2025)
     url: https://ringgitplus.com/en/blog/personal-finance-news/parliament-passes-gig-workers-bill-2025.html

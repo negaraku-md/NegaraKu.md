@@ -31,7 +31,7 @@ faq:
   - q: Où cultive-t-on encore du cacao en Malaisie ?
     a: "Surtout à Sabah, en particulier dans l'intérieur et la région de Tawau, qui ont historiquement porté l'essor des années 1980 et représentent encore la majorité de la superficie plantée et de la production restantes."
 lang: fr
-sourceContentHash: "794991b243f75e9b"
+sourceContentHash: "bbbb8e26421eae19"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -114,6 +114,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cacao_fruit_in_C%C3%B4te_d''Ivoire_(11).JPG'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/cocoa-industry/body-1.webp
+    alt: Des fèves de cacao fermentées étalées dans un plateau en bois pour sécher au grand soleil.
+    kind: representative
+    origin: third-party
+    subject: Des fèves de cacao séchant au soleil
+    credit: Chuck Moravec / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sao_Tome_Monteforte_Cocoa_Beans_Drying_3_(15629101423).jpg
+  - role: scene
+    src: /media/industries/cocoa-industry/body-2.webp
+    alt: Un tas de fèves de cacao torréfiées et foncées, prêtes à être introduites dans le broyeur lors de la transformation du chocolat.
+    kind: representative
+    origin: third-party
+    subject: Des fèves de cacao torréfiées prêtes pour la transformation
+    credit: ElmerGuevara / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cacao_Tostado..JPG
 ---
 
 La Malaisie est l'un des grands transformateurs mondiaux de cacao qui a presque cessé d'en cultiver. En une seule génération, le pays est passé de producteur de fèves du top quatre, ses collines de Sabah et de la Malaisie péninsulaire chargées de cabosses, à un pays qui importe des fèves par cargaisons entières et n'en récolte à peine que quelques centaines de tonnes. Ce qui est resté, et a prospéré, c'est le volet usinier : les broyeurs, raffineries et lignes de chocolat qui transforment les fèves importées en beurre, poudre, liqueur de cacao et confiserie finie destinés à l'exportation. Le résultat est un « paradoxe du cacao » - une industrie en aval de classe mondiale reposant sur un amont qui a quasiment disparu.

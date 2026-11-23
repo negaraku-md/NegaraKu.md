@@ -34,7 +34,7 @@ faq:
     a: "MITI के डेटा सेंटर के सतत विकास हेतु दिशानिर्देश (30 दिसंबर 2024) परिचालकों से अपेक्षा करते हैं कि वे ISO/IEC 30134 मानकों के विरुद्ध डिज़ाइन PUE, WUE और CUE घोषित करें, और प्रायद्वीपीय मलेशिया में ऐसे स्थलों पर विचार करें जिनका जल तनाव सूचकांक (WSI) 0.8 से कम हो, जैसा कि दिशानिर्देश अपनी स्थल-चयन शर्त में शब्दबद्ध करता है।"
 
 lang: "hi"
-sourceContentHash: "06223fcd2dad5f61"
+sourceContentHash: "907afdfe924c77bf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-1.webp
+    alt: सर्वर और उपकरण रैक की लंबी कतारें संरचित कोल्ड-आइल कंटेनमेंट के साथ एक बड़े डेटा-सेंटर हॉल को भरती हैं।
+    kind: representative
+    origin: third-party
+    subject: उपकरण रैक की कतारों वाला एक डेटा-सेंटर हॉल
+    credit: Hugovanmeijeren / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cern_datacenter.jpg
+  - role: scene
+    src: /media/industries/data-centre-cloud-industry/body-2.webp
+    alt: एक डेटा-सेंटर परिनियोजन में सर्वर रैक के पिछले हिस्से पर दौड़ते नेटवर्क केबलिंग के घने बंडल।
+    kind: representative
+    origin: third-party
+    subject: डेटा-सेंटर सर्वर रैक के पीछे नेटवर्क केबलिंग
+    credit: RobH / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sdtpa_wmf-7.jpg
 ---
 
 2019 में, सिंगापुर ने बड़े नए डेटा सेंटरों को मंज़ूरी देना बंद कर दिया। चार वर्षों के भीतर, जिन सर्वरों को उसने ठुकरा दिया था, उन्होंने कॉज़वे के पार बीस मिनट की दूरी पर एक नया उद्योग खड़ा कर दिया — और जोहोर एक शांत मलेशियाई राज्य से दक्षिण-पूर्व एशिया का सबसे व्यस्त डेटा सेंटर बाज़ार बन गया।

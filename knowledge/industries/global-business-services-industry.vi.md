@@ -64,7 +64,27 @@ sources:
     url: https://www.digitalnewsasia.com/business/malaysias-gbs-sector-urged-expand-beyond-klang-valley-through-state-specialisation
     publisher: Digital News Asia
   - title: Vị thế Malaysia Digital — Ưu đãi Thuế (Malaysia Digital Status — Tax Incentives)
-    url: https://www.crowe.com/my/insights/malaysia-digital-status---tax-incentives
+    url: https://www.crowe.com/my/insights/malaysia-digital-status
+images:
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-1.webp
+    alt: Một tòa nhà văn phòng doanh nghiệp bằng kính và bê tông tầm trung hiện đại trong khu kinh doanh Cyberjaya, Selangor, Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Tòa nhà văn phòng doanh nghiệp ở Cyberjaya, trung tâm dịch vụ toàn cầu của Malaysia
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-2.webp
+    alt: Những dãy nhân viên tại các bàn làm việc máy tính trên khắp một sàn tổng đài không gian mở rất lớn.
+    kind: representative
+    origin: third-party
+    subject: Sàn văn phòng tổng đài lớn (minh họa nơi làm việc dịch vụ dùng chung/BPO)
+    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
+---tax-incentives
     publisher: Crowe Malaysia
   - title: "Ngành GBS phát triển mạnh của Malaysia: Một động lực của kinh tế số (Malaysia's thriving GBS sector: A driving force in the digital economy)"
     url: https://knightfrank.com/your-space/2024-03-26-malaysias-thriving-gbs-sector-a-driving-force-in-the-digital-economy

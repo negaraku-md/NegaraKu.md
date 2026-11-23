@@ -59,7 +59,27 @@ sources:
     url: https://mohr.gov.my/images/pdf/KENYATAAN%20MEDIA%20PEKERJA%20GIG.pdf
     publisher: Ministry of Human Resources (KESUMA), Malaysia
   - title: Cabinet approves SEGiM to safeguard gig workers' welfare
-    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig---tpm
+    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig
+images:
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-1.webp
+    alt: A food-delivery rider in a pink foodpanda jacket and helmet on an underbone (kapcai) motorcycle carrying a large pink foodpanda insulated delivery box while stopped in street traffic.
+    kind: representative
+    origin: third-party
+    subject: Foodpanda motorcycle food-delivery rider with pink insulated delivery box (representative gig platform work; non-Grab)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-2.webp
+    alt: A platform food-delivery courier standing on the pavement wearing a large insulated food delivery backpack.
+    kind: representative
+    origin: third-party
+    subject: Food-delivery courier with an insulated platform delivery bag (non-Grab)
+    credit: Alexander Corkhill / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
+---tpm
     publisher: Sinar Harian
   - title: Parliament Passes Gig Workers Bill 2025
     url: https://ringgitplus.com/en/blog/personal-finance-news/parliament-passes-gig-workers-bill-2025.html

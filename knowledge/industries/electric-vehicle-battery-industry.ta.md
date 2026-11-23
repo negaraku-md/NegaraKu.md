@@ -31,7 +31,7 @@ faq:
   - q: Low Carbon Mobility Blueprint என்றால் என்ன?
     a: இது தூய்மையான போக்குவரத்துக்கான மலேசியாவின் 2021–2030 வழித்திட்டம், சுற்றுச்சூழல் அமைச்சகம் மற்றும் Malaysian Green Technology Corporation (MGTC) ஆல் வழிநடத்தப்படுகிறது. இது EV ஏற்பு மற்றும் மின்னூட்ட உள்கட்டமைப்புக்கான இலக்குகளை அமைக்கிறது, மேலும் EV வாங்குபவர்கள் மற்றும் தயாரிப்பாளர்களுக்கு வழங்கப்படும் வரிச் சலுகைகளை ஆதரிக்கிறது.
 lang: ta
-sourceContentHash: "eeaa8a20be933a74"
+sourceContentHash: "0995851146679cfc"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -102,6 +102,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-1.webp
+    alt: இரண்டு உருளை வடிவ லித்தியம்-அயன் பேட்டரி செல்கள், ஒன்று 18650 வடிவமும் மற்றொன்று பெரிய 21700 வடிவமும், அருகருகே நிற்கின்றன.
+    kind: representative
+    origin: third-party
+    subject: உருளை வடிவ லித்தியம்-அயன் பேட்டரி செல்கள்
+    credit: Sevenethics / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:18650_and_21700_lithium_ion_battery_cell.jpg
+  - role: scene
+    src: /media/industries/electric-vehicle-battery-industry/body-2.webp
+    alt: ஒரு மின்சார காரின் தட்டையான லித்தியம்-அயன் உந்துதல் பேட்டரி தொகுப்பு, அதன் தொகுதி செல் அமைப்பைக் காட்ட காட்சிப்படுத்தப்பட்டுள்ளது.
+    kind: representative
+    origin: third-party
+    subject: மின்சார வாகனத்தின் லித்தியம்-அயன் உந்துதல் பேட்டரி தொகுப்பு
+    credit: Rainerhaufe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2016-04-12_e-up_Batterie.JPG
 ---
 
 மலேசியா அரை நூற்றாண்டைக் கார்களை உருவாக்குவதில் செலவிட்டுள்ளது. இப்போது அவற்றை மின்மயமாக்க முயல்கிறது — மேலும், சமமாக முக்கியமாக, மின்சார வாகனங்கள் சார்ந்திருக்கும் பேட்டரிகளைத் தயாரித்து மின்னூட்ட வலையமைப்பை உருவாக்க. இது பெரும்பாலும் பெட்ரோல் மற்றும் டீசல் கார்கள் பற்றிய [மலேசியாவின் வாகனத் தொழில்](/ta/industries/automotive-industry/) வழிகாட்டியில் சொல்லப்பட்ட கதையிலிருந்து வேறுபட்ட கதை. இங்கு பொருள் EV மற்றும் பேட்டரி *சூழல்தொகுதி*: வாகனங்கள், சலுகைகள், மின்னூட்டிகள் மற்றும் மலேசியா எவ்வளவு வேகமாக மின்சார இயக்கத்திற்கு மாறுகிறது என்பதை ஒன்றாகத் தீர்மானிக்கும் தொழிற்சாலைகள்.

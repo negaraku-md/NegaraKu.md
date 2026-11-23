@@ -1961,7 +1961,30 @@
       "alt": "A rubber tree with a fresh diagonal tapping cut, white latex dripping down the trunk into a black cup tied at its base",
       "kb": 168
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/rubber-industry/body-1.webp",
+        "credit": "Wee Hong / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rubber_plantation_in_Johor.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "neat rows of mature rubber trees fitted with latex collection cups on a plantation estate in Johor, a backbone of Malaysia's rubber industry",
+        "alt": "Orderly rows of slender rubber trees with pale mottled trunks receding into the distance across a grassy estate floor, small dark latex cups attached low on several trunks",
+        "kb": 371
+      },
+      {
+        "file": "/media/industries/rubber-industry/body-2.webp",
+        "credit": "Blue Plover / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Processing_rubber_in_Thailand.JPG",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "a worker feeding a sheet of coagulated latex through a hand-cranked rubber sheeting mangle, a key step in processing natural rubber",
+        "alt": "A man in a grey shirt guides a white sheet of pressed latex between the heavy rollers of a yellow cast-iron sheeting machine at the edge of a rubber grove, a second ribbed roller beside him",
+        "kb": 168
+      }
+    ]
   },
   "industries/semiconductor-industry-national-strategy": {
     "hero": {
@@ -8404,7 +8427,30 @@
       "alt": "Exterior of Klinik Kesihatan Nilai, a Malaysian government health clinic with Ministry of Health signage and red crescent",
       "kb": 101
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/abortion-law-in-malaysia/body-1.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Lekir,_Kampung_Batu_9_Lekir_20231220_143154.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Exterior of a Malaysian government health clinic (Klinik Kesihatan) at Lekir, Perak",
+        "alt": "A single-storey government health clinic building with a covered entrance, used here as a neutral illustration of the public clinics where reproductive-health care and counselling are provided",
+        "kb": 168
+      },
+      {
+        "file": "/media/healthcare/abortion-law-in-malaysia/body-2.webp",
+        "credit": "Kazuki278 / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tanda_Klinik_Kesihatan_Daerah_Raub.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Signboard of a district government health clinic (Klinik Kesihatan Daerah Raub), Pahang",
+        "alt": "A roadside signboard marking a Malaysian district public health clinic, standing in neutrally for the public health system without naming any facility that provides a specific service",
+        "kb": 104
+      }
+    ]
   },
   "healthcare/allied-health-and-medical-practitioner-registration": {
     "hero": {
@@ -8418,7 +8464,30 @@
       "alt": "A modern glass-clad specialist hospital in Kuala Lumpur with a light-rail train passing in front",
       "kb": 177
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/allied-health-and-medical-practitioner-registration/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-06.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Queen Elizabeth Hospital, a public tertiary hospital in Kota Kinabalu, Sabah",
+        "alt": "The multi-storey tower block of a Malaysian government hospital, the kind of setting where registered medical and allied-health practitioners work",
+        "kb": 174
+      },
+      {
+        "file": "/media/healthcare/allied-health-and-medical-practitioner-registration/body-2.webp",
+        "credit": "U.S. Navy photo by Tommy Lamkin / Wikimedia Commons",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:NAMRU_INDO_PACIFIC_Grows_Partnership_in_Malaysia_(8690749).jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Laboratory staff talking beside a biosafety cabinet in a medical research laboratory in Malaysia",
+        "alt": "Two health-science staff members in a laboratory with a biosafety cabinet and equipment, representing the allied-health and laboratory professions that require registration",
+        "kb": 81
+      }
+    ]
   },
   "healthcare/blood-donation-and-national-blood-centre": {
     "hero": {
@@ -8432,7 +8501,30 @@
       "alt": "A Malaysian blood donor seated in a donation chair beside a smiling nurse holding a filled blood bag",
       "kb": 156
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/blood-donation-and-national-blood-centre/body-1.webp",
+        "credit": "R. Henrik Nilsson / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Inside_Swedish_blood_donation_center_April_2025.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Interior of a blood-donation centre with a row of empty reclining donor couches and equipment",
+        "alt": "A bright blood-donation hall lined with empty reclining donor couches, instrument trolleys and a reception desk, with no donors present",
+        "kb": 114
+      },
+      {
+        "file": "/media/healthcare/blood-donation-and-national-blood-centre/body-2.webp",
+        "credit": "Bibeyjj / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Blood_Donation_Bag.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A sealed collection bag holding a unit of donated whole blood at a donation session",
+        "alt": "A hand holding a filled, sealed blood-collection bag with its donation-record label and tubing, representing the equipment used to collect and store donated blood",
+        "kb": 94
+      }
+    ]
   },
   "healthcare/childhood-vaccination": {
     "hero": {
@@ -8446,7 +8538,30 @@
       "alt": "A Malaysian Ministry of Health vaccination centre set up for children, with a child-friendly 'I'm vaccinated' mural",
       "kb": 91
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/childhood-vaccination/body-1.webp",
+        "credit": "*angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Ministry of Health children's vaccination centre (PPV PICKids) at Pavilion Bukit Jalil, Kuala Lumpur",
+        "alt": "A Malaysian Ministry of Health childrens vaccination centre with KKM branding and rows of waiting chairs, a handful of people visible only in the distance",
+        "kb": 91
+      },
+      {
+        "file": "/media/healthcare/childhood-vaccination/body-2.webp",
+        "credit": "Whispyhistory / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Comirnaty_Omicron_XBB.1.5_vial_and_influenza_vaccine_2023.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A vaccine vial and a pre-filled influenza vaccine syringe on a plain surface",
+        "alt": "A capped vaccine vial standing beside a pre-filled vaccine syringe, representing the vaccines given under an immunisation schedule",
+        "kb": 174
+      }
+    ]
   },
   "healthcare/covid-19-pandemic-response-and-legacy": {
     "hero": {
@@ -8460,7 +8575,30 @@
       "alt": "The hall of a large COVID-19 vaccination centre in Malaysia with rows of spaced seating and people queuing",
       "kb": 93
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/covid-19-pandemic-response-and-legacy/body-1.webp",
+        "credit": "Marwan Mohamad / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rapid_Test_Antigen.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A row of ten COVID-19 antigen rapid test cassettes showing control and test lines",
+        "alt": "Ten numbered COVID-19 antigen rapid-test cassettes laid out in a line on a table, each showing a control line",
+        "kb": 172
+      },
+      {
+        "file": "/media/healthcare/covid-19-pandemic-response-and-legacy/body-2.webp",
+        "credit": "IAEA Imagebank / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:COVID-19_Equipment_to_Malaysia_(05890318)_(50705365708).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "COVID-19 detection equipment delivered to Malaysia during the pandemic response",
+        "alt": "Boxed laboratory and diagnostic equipment supplied to Malaysia to support its COVID-19 testing and pandemic response",
+        "kb": 81
+      }
+    ]
   },
   "healthcare/dental-care": {
     "hero": {
@@ -8474,7 +8612,30 @@
       "alt": "Street-front of a Malaysian dental clinic, Klinik Pergigian Yap, with a signboard listing dental services",
       "kb": 148
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/dental-care/body-1.webp",
+        "credit": "IrfanDP / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dental_chair_in_a_dentist_clinic.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A dental treatment chair with overhead lamp, patient monitor and spittoon in a clinic operatory",
+        "alt": "An empty dental treatment chair with its overhead examination light, operator monitor and rinse basin in a tidy dental surgery",
+        "kb": 159
+      },
+      {
+        "file": "/media/healthcare/dental-care/body-2.webp",
+        "credit": "Ptrump16 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hospital_Dental_Engine.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A dental treatment room with a dental chair, instrument delivery unit, X-ray viewer and wall gas outlets",
+        "alt": "An unoccupied dental operatory showing a treatment chair, a handpiece delivery trolley, an X-ray film viewer and oxygen and vacuum wall outlets",
+        "kb": 70
+      }
+    ]
   },
   "healthcare/diabetes-obesity-and-non-communicable-diseases": {
     "hero": {
@@ -8488,7 +8649,30 @@
       "alt": "Exterior of Klinik Kesihatan Sungai-Sungai, a rural Malaysian government health clinic, with Malaysian and Sabah flags and an ambulance",
       "kb": 168
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-1.webp",
+        "credit": "Albarubescens / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sphygmomanometer,_automatic_blood_pressure_monitor._Oscillometric_measurements,_millimeter_of_mercury_(mmHg)_unit.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "An automatic upper-arm blood-pressure monitor and cuff used for health screening",
+        "alt": "A digital automatic blood-pressure monitor with its arm cuff, the kind of device used in routine screening for high blood pressure",
+        "kb": 172
+      },
+      {
+        "file": "/media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-2.webp",
+        "credit": "SpOt ON / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lake_Titiwangsa.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Taman Tasik Titiwangsa, a public lakeside recreation park in Kuala Lumpur",
+        "alt": "A landscaped lakeside park in Kuala Lumpur with the city skyline beyond, representing the physical activity and healthy lifestyle that helps prevent non-communicable diseases",
+        "kb": 178
+      }
+    ]
   },
   "healthcare/disability-and-oku-healthcare-access": {
     "hero": {
@@ -8502,7 +8686,30 @@
       "alt": "A platform wheelchair lift marked with an accessibility symbol at a disability rehabilitation centre in Johor, Malaysia",
       "kb": 64
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/disability-and-oku-healthcare-access/body-1.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:SP20_Muhibbah_LRT_Accessible_Ramp_20231007_131344.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A wheelchair-accessible ramp at a Malaysian public transit station",
+        "alt": "A gently sloping accessible ramp with handrails at a Malaysian LRT station, representing step-free access for persons with disabilities",
+        "kb": 203
+      },
+      {
+        "file": "/media/healthcare/disability-and-oku-healthcare-access/body-2.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Disabled_parking_at_Masjid_As_Salam,_Kampung_Kijing_20240227_224921.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A reserved OKU (persons with disabilities) parking bay marked with the wheelchair symbol in Malaysia",
+        "alt": "A parking bay painted with the blue international wheelchair symbol and reserved for persons with disabilities, representing OKU accessibility provisions",
+        "kb": 171
+      }
+    ]
   },
   "healthcare/emergencies-999": {
     "hero": {
@@ -8516,7 +8723,30 @@
       "alt": "A Ministry of Health Malaysia ambulance on a highway, marked 'Ambulans' and the 999 emergency number",
       "kb": 152
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/emergencies-999/body-1.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:JBPM_Pagoh_Fire_and_Rescue_Station.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Fire and Rescue Department (Bomba, JBPM) station at Pagoh, Johor",
+        "alt": "A Malaysian Fire and Rescue Department (Bomba) station, one of the emergency services reached through the 999 call line",
+        "kb": 80
+      },
+      {
+        "file": "/media/healthcare/emergencies-999/body-2.webp",
+        "credit": "Philip Mallis / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:St_John_Ambulance_Malaysia_in_Melaka.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A St John Ambulance Malaysia emergency ambulance parked in Melaka",
+        "alt": "A St John Ambulance Malaysia ambulance on a street in Melaka, one of the voluntary emergency medical services operating alongside the government response",
+        "kb": 167
+      }
+    ]
   },
   "healthcare/from-clinic-to-specialist-referral": {
     "hero": {
@@ -8530,7 +8760,30 @@
       "alt": "Exterior of the Kompleks Pakar dan Rawatan Harian (Specialist and Day Care Complex) at Hospital Kuala Lumpur, with a red crescent",
       "kb": 166
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/from-clinic-to-specialist-referral/body-1.webp",
+        "credit": "CyberTroopers / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hospital_Tengku_Anis,_Pasir_Puteh.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Registration and enquiry counter inside a Malaysian government hospital (Hospital Tengku Anis, Pasir Puteh, Kelantan)",
+        "alt": "An interior registration and enquiry counter at a Malaysian government hospital, signage directing patients to the right queue, with no patients in view",
+        "kb": 143
+      },
+      {
+        "file": "/media/healthcare/from-clinic-to-specialist-referral/body-2.webp",
+        "credit": "Cmglee / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Lam_Wah_Ee_Hospital_main_building.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Main building of Lam Wah Ee Hospital, a non-profit specialist hospital in Penang",
+        "alt": "The main multi-storey building of a large non-profit specialist hospital in Penang, representing the hospital tier of a referral pathway",
+        "kb": 173
+      }
+    ]
   },
   "healthcare/halal-status-of-vaccines-and-medicines": {
     "hero": {
@@ -8544,7 +8797,30 @@
       "alt": "A bright red heritage shophouse housing a Malaysian pharmacy (farmasi) on a town street corner",
       "kb": 150
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/halal-status-of-vaccines-and-medicines/body-1.webp",
+        "credit": "Dominic Nelson / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A branch of the Big Pharmacy retail chain in Kluang town centre, Johor, Malaysia",
+        "alt": "A modern Malaysian community pharmacy on a street corner, its signage reading Big Pharmacy, in Kluang, Johor",
+        "kb": 150
+      },
+      {
+        "file": "/media/healthcare/halal-status-of-vaccines-and-medicines/body-2.webp",
+        "credit": "Wilfredor / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Generic_medicines_with_the_yellow_G_stripe_on_pharmacy_shelves,_S%C3%A3o_Paulo.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Boxes of generic medicines arranged on pharmacy shelves",
+        "alt": "Rows of medicine boxes neatly stacked on pharmacy shelves, representing packaged medicines and their labelling",
+        "kb": 175
+      }
+    ]
   },
   "healthcare/having-a-baby-in-malaysia": {
     "hero": {
@@ -8558,7 +8834,30 @@
       "alt": "Exterior of the maternity block (Hospital Bersalin) of Hospital Kuala Lumpur, with the city skyline behind",
       "kb": 172
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/having-a-baby-in-malaysia/body-1.webp",
+        "credit": "Ad Meskens / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mechelen_AZ_St_Maarten_Maternity_ward.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A maternity-ward room with a hospital bed and a clear newborn bassinet beside it",
+        "alt": "A clean, modern maternity room showing an empty hospital bed and a transparent newborn cot, with no people present",
+        "kb": 104
+      },
+      {
+        "file": "/media/healthcare/having-a-baby-in-malaysia/body-2.webp",
+        "credit": "Lewis Clarke / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Taunton_,_Musgrove_Park_Hospital_-_Antenatal_Clinic_-_geograph.org.uk_-_6936070.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "An empty antenatal clinic waiting area with rows of seats and Antenatal Clinic lettering on the wall",
+        "alt": "A tidy, empty hospital antenatal clinic waiting room with grey chairs and the words Antenatal Clinic on the wall",
+        "kb": 77
+      }
+    ]
   },
   "healthcare/health-white-paper-and-system-reform": {
     "hero": {
@@ -8572,7 +8871,30 @@
       "alt": "A modern glass-fronted Ministry of Health Malaysia building in Putrajaya draped with a large Malaysian flag",
       "kb": 161
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/health-white-paper-and-system-reform/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A Ministry of Health Malaysia (Kementerian Kesihatan Malaysia) building in Putrajaya",
+        "alt": "A Malaysian federal government office building in Putrajaya housing a division of the Ministry of Health",
+        "kb": 161
+      },
+      {
+        "file": "/media/healthcare/health-white-paper-and-system-reform/body-2.webp",
+        "credit": "U.S. Embassy Kuala Lumpur / Wikimedia Commons",
+        "license": "PD",
+        "source": "https://commons.wikimedia.org/wiki/File:2022-02-10-Amb-McFeeters-meets-Health-Minister-Dr-Zaliha-04.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "An official meeting at the Ministry of Health Malaysia, beneath the Kementerian Kesihatan Malaysia wordmark and national crest",
+        "alt": "Two officials at a signing desk in a Ministry of Health Malaysia reception hall, with the ministry name and Malaysian coat of arms on the wall behind",
+        "kb": 141
+      }
+    ]
   },
   "healthcare/healthcare-for-seniors": {
     "hero": {
@@ -8586,7 +8908,30 @@
       "alt": "The gated entrance and building of a Malaysian old folks' home (Rumah Warga Emas)",
       "kb": 178
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/healthcare-for-seniors/body-1.webp",
+        "credit": "Exec8 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Senior_Citizen_Exercise_Machines_not_in_use_in_Singapore.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "An outdoor fitness corner with exercise machines for older adults in a Southeast Asian housing estate",
+        "alt": "An outdoor senior-citizen exercise area with low-impact fitness machines among trees, with no people present",
+        "kb": 170
+      },
+      {
+        "file": "/media/healthcare/healthcare-for-seniors/body-2.webp",
+        "credit": "Aangela.Ng / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Gambar_hadapan_Rumah_Sri_Pritchard_Kinarut.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Rumah Sri Pritchard, an old-folks home in Kinarut, Papar district, Sabah, Malaysia",
+        "alt": "The entrance and signage of a single-storey Malaysian care home for the elderly, with Malaysian and Sabah flags flying out front",
+        "kb": 248
+      }
+    ]
   },
   "healthcare/hiv-aids-and-sexual-health-services": {
     "hero": {
@@ -8600,7 +8945,30 @@
       "alt": "A red awareness ribbon, the international symbol of HIV/AIDS awareness, on a plain white background",
       "kb": 31
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/hiv-aids-and-sexual-health-services/body-1.webp",
+        "credit": "varnent / Equality Michigan (LGBT Free Media Collective) / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:HIV_Rapid_Test_on_table.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "An HIV rapid test kit laid out on a table before testing, with gloved hands",
+        "alt": "A rapid HIV test cassette, buffer bottle and supplies arranged on a clean paper-covered table, handled by gloved hands, with no faces shown",
+        "kb": 63
+      },
+      {
+        "file": "/media/healthcare/hiv-aids-and-sexual-health-services/body-2.webp",
+        "credit": "Chris.sherlock2 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Liverpool_Sexual_Health_Clinic_01.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "The exterior of a public sexual-health clinic with health-awareness banners",
+        "alt": "A low public sexual-health clinic building on a street corner, with awareness banners on its facade and no people present",
+        "kb": 175
+      }
+    ]
   },
   "healthcare/how-malaysian-healthcare-works": {
     "hero": {
@@ -8614,7 +8982,30 @@
       "alt": "Exterior of the Kuala Lumpur Hospital specialist and day-treatment complex, a Malaysian government hospital, with red crescent emblem",
       "kb": 166
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/how-malaysian-healthcare-works/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Queen Elizabeth Hospital, a major Malaysian government hospital in Kota Kinabalu, Sabah",
+        "alt": "A large multi-storey Malaysian government hospital complex seen from the road in Kota Kinabalu, Sabah",
+        "kb": 169
+      },
+      {
+        "file": "/media/healthcare/how-malaysian-healthcare-works/body-2.webp",
+        "credit": "HundenvonPenang / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Penang_General_Hospital_2025.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Penang General Hospital (Hospital Pulau Pinang), a major Malaysian government hospital in George Town, Penang",
+        "alt": "An aerial view of the multi-building complex of a large Malaysian government hospital in George Town, Penang, with the city skyline behind",
+        "kb": 179
+      }
+    ]
   },
   "healthcare/klinik-kesihatan": {
     "hero": {
@@ -8628,7 +9019,30 @@
       "alt": "Entrance and signboard of Klinik Kesihatan Jalan Lanang, a Malaysian Ministry of Health community health clinic, with national and state flags",
       "kb": 105
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/klinik-kesihatan/body-1.webp",
+        "credit": "Cerevisae / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The main building of Klinik Kesihatan Jalan Lanang, a government health clinic in Sibu, Sarawak",
+        "alt": "The main block of a Malaysian government health clinic (Klinik Kesihatan) with a covered entrance driveway",
+        "kb": 105
+      },
+      {
+        "file": "/media/healthcare/klinik-kesihatan/body-2.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Klinik_Desa_Pulau_Aman,_Pulau_Aman_(220904)_1.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Klinik Desa Pulau Aman, the sole rural health clinic on Pulau Aman island, Penang",
+        "alt": "A small single-storey rural village health clinic (Klinik Desa) on an island, the only health facility there",
+        "kb": 174
+      }
+    ]
   },
   "healthcare/medical-insurance": {
     "hero": {
@@ -8642,7 +9056,30 @@
       "alt": "Entrance gates to an inpatient ward at a Malaysian government hospital, a neutral medical-care setting",
       "kb": 164
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/medical-insurance/body-1.webp",
+        "credit": "HundenvonPenang / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_in_Seberang_Perai,_Penang.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Sunway Medical Centre, a private hospital in Seberang Perai, Penang, Malaysia",
+        "alt": "An aerial view of a large modern private hospital building in Seberang Perai, Penang",
+        "kb": 169
+      },
+      {
+        "file": "/media/healthcare/medical-insurance/body-2.webp",
+        "credit": "Rodhullandemu / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Reception_Desk,_Arrowe_Park_Hospital.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A hospital reception and admissions counter in a main entrance lobby",
+        "alt": "A curved hospital reception desk in a bright entrance hall, representing admissions and billing, with a few people in the distance",
+        "kb": 64
+      }
+    ]
   },
   "healthcare/medical-tourism": {
     "hero": {
@@ -8656,7 +9093,30 @@
       "alt": "Exterior of Prince Court Medical Centre in Kuala Lumpur, a leading Malaysian private hospital serving medical tourists",
       "kb": 179
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/medical-tourism/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Gleneagles-Hospital-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Gleneagles Hospital, a private medical centre in Kota Kinabalu, Sabah, Malaysia",
+        "alt": "A modern private hospital building with glass frontage in Kota Kinabalu, Sabah",
+        "kb": 119
+      },
+      {
+        "file": "/media/healthcare/medical-tourism/body-2.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pantai_Hospital_Batu_Pahat_-_Emergency_Lobby.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The emergency entrance and lobby directory of Pantai Hospital, a private hospital in Batu Pahat, Johor",
+        "alt": "The signed emergency entrance of a Malaysian private hospital, with a directory board pointing to the lobby and specialists' clinics",
+        "kb": 97
+      }
+    ]
   },
   "healthcare/mental-health-services": {
     "hero": {
@@ -8670,7 +9130,30 @@
       "alt": "A World Mental Health Day poster with the green awareness ribbon and an end-the-stigma message, a respectful public-health symbol for mental health",
       "kb": 149
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/mental-health-services/body-1.webp",
+        "credit": "RMtherapies / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Therapy_Room_at_Resilient_Mind_Therapies,_Leicester.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A calm counselling room set up for talk therapy, with armchairs and soft furnishings",
+        "alt": "A quiet, welcoming counselling room with three armchairs around a small table and a plant, with no people present",
+        "kb": 113
+      },
+      {
+        "file": "/media/healthcare/mental-health-services/body-2.webp",
+        "credit": "Chongkian / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Permai_Hospital_Johor_Bahru.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Hospital Permai in Johor Bahru, a Malaysian government mental-health hospital",
+        "alt": "The frontage of a Malaysian government psychiatric and mental-health hospital in Johor Bahru",
+        "kb": 72
+      }
+    ]
   },
   "healthcare/mysejahtera-and-digital-health-records": {
     "hero": {
@@ -8684,7 +9167,30 @@
       "alt": "A printed MySejahtera check-in QR notice at a Malaysian store, part of Malaysia's digital health platform",
       "kb": 117
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/mysejahtera-and-digital-health-records/body-1.webp",
+        "credit": "Intel Free Press / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Personal_Health_Apps_for_Smartphones.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A hand holding a smartphone showing a list of personal health apps",
+        "alt": "A person holds a smartphone displaying a store list of health and medical apps, illustrating consumer digital-health tools on a phone",
+        "kb": 56
+      },
+      {
+        "file": "/media/healthcare/mysejahtera-and-digital-health-records/body-2.webp",
+        "credit": "Intel Free Press / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A clinician at a multi-monitor medical IT workstation reviewing digital patient data",
+        "alt": "A clinician seated at a workstation with several screens showing an ECG trace, an ultrasound image and a video feed, representing a hospital digital health-records and IT system",
+        "kb": 162
+      }
+    ]
   },
   "healthcare/palliative-and-hospice-care": {
     "hero": {
@@ -8698,7 +9204,30 @@
       "alt": "A hospital doorway sign reading Palliative Medicine Family Conference Room, a neutral and non-graphic depiction of palliative care",
       "kb": 35
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/palliative-and-hospice-care/body-1.webp",
+        "credit": "Shkuru Afshar / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Canberra_Hospice.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A calm single-storey hospice care building with gardens under a clear sky",
+        "alt": "The low garden-fronted building of a hospice, with flagpoles and a quiet driveway, representing a peaceful hospice care facility",
+        "kb": 176
+      },
+      {
+        "file": "/media/healthcare/palliative-and-hospice-care/body-2.webp",
+        "credit": "Jim Barton / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Margaret_Kerr_Unit,_Borders_General_Hospital_-_geograph.org.uk_-_7191073.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "The garden entrance of a dedicated palliative care unit",
+        "alt": "A modern hospital palliative care unit entrance with a glass porch and planted beds, representing a specialist palliative care setting",
+        "kb": 178
+      }
+    ]
   },
   "healthcare/peka-b40-and-health-schemes": {
     "hero": {
@@ -8712,7 +9241,30 @@
       "alt": "A modern Malaysian government health clinic with an outdoor waiting area, the kind of Klinik Kesihatan where B40 health-scheme screening is delivered",
       "kb": 125
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/peka-b40-and-health-schemes/body-1.webp",
+        "credit": "*angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Klinik Kesihatan Nilai, a Malaysian government health clinic",
+        "alt": "The exterior of Klinik Kesihatan Nilai, a Malaysian Ministry of Health public health clinic serving the community",
+        "kb": 101
+      },
+      {
+        "file": "/media/healthcare/peka-b40-and-health-schemes/body-2.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Tanglin,_Kuala_Lumpur_20260428_120448.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Klinik Kesihatan Tanglin, a government health clinic in Kuala Lumpur",
+        "alt": "The frontage of Klinik Kesihatan Tanglin in Kuala Lumpur, a Malaysian public government health clinic",
+        "kb": 149
+      }
+    ]
   },
   "healthcare/public-healthcare-system-malaysia": {
     "hero": {
@@ -8726,7 +9278,30 @@
       "alt": "Exterior view of Queen Elizabeth Hospital in Kota Kinabalu, a large Malaysian government hospital in the public healthcare system",
       "kb": 169
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/public-healthcare-system-malaysia/body-1.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A public hospital ward at Hospital Sultanah Nora Ismail, Batu Pahat",
+        "alt": "An empty inpatient ward with rows of beds at a Malaysian public hospital, Hospital Sultanah Nora Ismail in Batu Pahat",
+        "kb": 164
+      },
+      {
+        "file": "/media/healthcare/public-healthcare-system-malaysia/body-2.webp",
+        "credit": "Chongkian / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kemaman_Hospital.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Hospital Kemaman, a Malaysian public hospital building",
+        "alt": "The exterior of Hospital Kemaman, a public hospital run by Malaysia's Ministry of Health",
+        "kb": 121
+      }
+    ]
   },
   "healthcare/siddha-medicine": {
     "hero": {
@@ -8740,7 +9315,30 @@
       "alt": "A lehyam (lekiyam) herbal confection being prepared, a traditional medicine of the Siddha system",
       "kb": 166
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/siddha-medicine/body-1.webp",
+        "credit": "Fotokannan / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sadananda_vaidyasala2.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A traditional South Indian herbal-medicine dispensary (vaidyasala) shopfront",
+        "alt": "The modest shopfront of a traditional South Indian herbal-medicine dispensary, representing a traditional Indian medicine practice akin to Siddha",
+        "kb": 168
+      },
+      {
+        "file": "/media/healthcare/siddha-medicine/body-2.webp",
+        "credit": "Chronikhiles / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ginger_Lehyam.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A finished ginger lehyam, a Tamil Siddha herbal preparation, held in a palm",
+        "alt": "A dark ball of ginger lehyam, a traditional Tamil Siddha herbal paste preparation, held in an open hand",
+        "kb": 45
+      }
+    ]
   },
   "healthcare/smoking-and-vaping-law-act-852": {
     "hero": {
@@ -8754,7 +9352,30 @@
       "alt": "A no-smoking sign in Malay, Chinese and English (Dilarang Merokok / No Smoking) in Malaysia",
       "kb": 48
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/smoking-and-vaping-law-act-852/body-1.webp",
+        "credit": "Jonashtand / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:201906_%22No_smoking%22_sign_in_a_restaurant_in_Johor_Bahru,_Malaysia.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A no-smoking notice displayed in a restaurant in Johor Bahru, Malaysia",
+        "alt": "A no-smoking sign posted on a wall inside a restaurant in Johor Bahru, Malaysia, signalling a smoke-free premises",
+        "kb": 45
+      },
+      {
+        "file": "/media/healthcare/smoking-and-vaping-law-act-852/body-2.webp",
+        "credit": "Vaper City / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Vape_device_in_hand.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A person holding an electronic cigarette (vape) device",
+        "alt": "A close-up of a hand holding a vape device near a person's mouth, illustrating electronic cigarette use regulated under the law",
+        "kb": 27
+      }
+    ]
   },
   "healthcare/telemedicine-and-online-doctor-services": {
     "hero": {
@@ -8768,7 +9389,30 @@
       "alt": "A doctor at a telemedicine workstation reviewing a remote patient on a video screen alongside diagnostic monitors",
       "kb": 162
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/telemedicine-and-online-doctor-services/body-1.webp",
+        "credit": "Mona Hassan Abo-Abda / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Covid_19_Doctor_Phone_Consultation.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A doctor giving a remote consultation by phone at her desk",
+        "alt": "A doctor at a desk speaking on a phone while taking notes, with a white coat on a stand behind, representing a remote telephone medical consultation",
+        "kb": 132
+      },
+      {
+        "file": "/media/healthcare/telemedicine-and-online-doctor-services/body-2.webp",
+        "credit": "U.S. Army photo by Staff Sgt. Elizabeth Bryson / Wikimedia Commons",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Medical_team_tests_new_tech_(6426496).jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A remote video-guided ultrasound carried out via a smartphone app",
+        "alt": "Hands hold a smartphone running a telehealth video-consultation app alongside a handheld ultrasound probe, representing remote online diagnosis",
+        "kb": 131
+      }
+    ]
   },
   "healthcare/traditional-and-complementary-medicine": {
     "hero": {
@@ -8782,7 +9426,30 @@
       "alt": "Shopfront signage of a Malaysian traditional-medicine and health shop, representing complementary and traditional medicine practice",
       "kb": 178
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/traditional-and-complementary-medicine/body-1.webp",
+        "credit": "Acuhealth / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Acupuncture_Needles.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Acupuncture needles shown with a coin for scale",
+        "alt": "Four fine acupuncture needles laid on a surface beside a coin for scale, representing acupuncture as a complementary therapy",
+        "kb": 100
+      },
+      {
+        "file": "/media/healthcare/traditional-and-complementary-medicine/body-2.webp",
+        "credit": "dpinpin / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Jamu.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Bottles of jamu, a traditional Malay-Indonesian herbal tonic medicine",
+        "alt": "A wooden crate of bottled jamu, a traditional herbal tonic medicine, with leaf-stoppered bottles of amber liquid, representing herbal complementary medicine",
+        "kb": 144
+      }
+    ]
   },
   "healthcare/traditional-chinese-medicine-in-malaysia": {
     "hero": {
@@ -8796,7 +9463,30 @@
       "alt": "Inside a traditional Chinese medicine shop in George Town, Penang, with labelled herb drawers and dried medicinal herbs",
       "kb": 119
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/healthcare/traditional-chinese-medicine-in-malaysia/body-1.webp",
+        "credit": "Jordiferrer / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2017_Chinatown_London_-_Everwell_Chinese_medicine.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A traditional Chinese medicine shop window with herb drawers and therapy charts",
+        "alt": "The window of a traditional Chinese medicine clinic showing a wall of herb drawers, an acupuncture model and treatment posters, representing TCM practice",
+        "kb": 171
+      },
+      {
+        "file": "/media/healthcare/traditional-chinese-medicine-in-malaysia/body-2.webp",
+        "credit": "tomscoffin / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2012-06-07_weighing_the_dried_herbs_at_an_Chinese_medicine_shop_at_Kinmen.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Dried herbs being weighed on a scale at a Chinese medicine shop",
+        "alt": "Dried Chinese medicinal herbs being weighed on a small scale at a traditional Chinese medicine shop counter",
+        "kb": 136
+      }
+    ]
   },
   "agriculture/agriculture-sector-overview": {
     "hero": {
@@ -9076,7 +9766,30 @@
       "alt": "Rows of floating net cages for fish farming arranged across the calm surface of a lake, with a caretaker's hut at one end.",
       "kb": 122
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/aquaculture-industry/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tiang_Sabah_Fish-aquaculture-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Fish aquaculture pond at Kampung Tiang, Sabah",
+        "alt": "A still freshwater aquaculture pond fringed by greenery at Kampung Tiang in Sabah, Malaysia.",
+        "kb": 175
+      },
+      {
+        "file": "/media/industries/aquaculture-industry/body-2.webp",
+        "credit": "Wee Hong / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ladang_15,_FP,_UPM_(230205-0906).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Aquaculture teaching fish pond at Universiti Putra Malaysia",
+        "alt": "An earthen aquaculture fish pond used for practical classes at the Faculty farm of Universiti Putra Malaysia.",
+        "kb": 115
+      }
+    ]
   },
   "industries/biotechnology-life-sciences-industry": {
     "hero": {
@@ -9090,7 +9803,30 @@
       "alt": "A scientist in a protective gown, gloves and face shield uses a pipette to transfer samples into vials inside a laboratory biosafety cabinet.",
       "kb": 136
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/biotechnology-life-sciences-industry/body-1.webp",
+        "credit": "Rafi Bin Tofa / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Plant_Tissue_Culture_Laboratory,_UMT.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Plant tissue culture laboratory at Universiti Malaysia Terengganu",
+        "alt": "Racks of sterile culture vessels under controlled lighting in the plant tissue culture laboratory at Universiti Malaysia Terengganu.",
+        "kb": 172
+      },
+      {
+        "file": "/media/industries/biotechnology-life-sciences-industry/body-2.webp",
+        "credit": "Habin Zhang / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bioreactor_in_operation.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A laboratory bioreactor running a cell culture",
+        "alt": "A stainless-steel and glass bioreactor with tubing and control instruments running a live cell culture in a laboratory.",
+        "kb": 163
+      }
+    ]
   },
   "industries/chemicals-petrochemicals-industry": {
     "hero": {
@@ -9104,7 +9840,30 @@
       "alt": "A sprawling petrochemical refinery complex lit up at night, its distillation towers and pipework glowing beside a flare stack burning off gas near the waterfront.",
       "kb": 172
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/chemicals-petrochemicals-industry/body-1.webp",
+        "credit": "AyyanD / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Hengyuan oil refinery at Port Dickson, Negeri Sembilan",
+        "alt": "Distillation columns and storage tanks of the Hengyuan oil refinery east of Port Dickson, Negeri Sembilan, seen in daylight.",
+        "kb": 61
+      },
+      {
+        "file": "/media/industries/chemicals-petrochemicals-industry/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-01a.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Sabah Oil & Gas Terminal (SOGT) at Kimanis",
+        "alt": "The flare stack and processing structures of the Sabah Oil and Gas Terminal at Kimanis, Sabah, under a daytime sky.",
+        "kb": 164
+      }
+    ]
   },
   "industries/cocoa-industry": {
     "hero": {
@@ -9118,7 +9877,30 @@
       "alt": "Two large green cocoa pods growing directly from the trunk of a cacao tree in a shaded plantation.",
       "kb": 104
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/cocoa-industry/body-1.webp",
+        "credit": "Chuck Moravec / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sao_Tome_Monteforte_Cocoa_Beans_Drying_3_(15629101423).jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Cocoa beans drying in the sun",
+        "alt": "Fermented cocoa beans spread out in a wooden tray to dry under the open sun.",
+        "kb": 154
+      },
+      {
+        "file": "/media/industries/cocoa-industry/body-2.webp",
+        "credit": "ElmerGuevara / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Cacao_Tostado..JPG",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Roasted cocoa beans ready for processing",
+        "alt": "A heap of roasted, dark cocoa beans ready to be fed into the grinding mill during chocolate processing.",
+        "kb": 71
+      }
+    ]
   },
   "industries/construction-industry": {
     "hero": {
@@ -9132,7 +9914,30 @@
       "alt": "Deep foundation excavation of a high-rise construction site in Kuala Lumpur, with tower cranes, red shoring struts and workers, backed by the city skyline.",
       "kb": 166
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/construction-industry/body-1.webp",
+        "credit": "InterEdit88 / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A high-rise construction site in Kuala Lumpur",
+        "alt": "Tower cranes rise over a high-rise building under construction in central Kuala Lumpur, Malaysia.",
+        "kb": 215
+      },
+      {
+        "file": "/media/industries/construction-industry/body-2.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Serviced_apartment_construction_on_Jalan_Kuda_Emas,_Kuala_Lumpur_20240525_152253.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Serviced apartment construction near Bukit Jalil, Kuala Lumpur",
+        "alt": "A reinforced-concrete serviced apartment tower under construction on Jalan Kuda Emas near Bukit Jalil, Kuala Lumpur.",
+        "kb": 173
+      }
+    ]
   },
   "industries/data-centre-cloud-industry": {
     "hero": {
@@ -9146,7 +9951,30 @@
       "alt": "Rows of server racks with glowing blue status lights fill the aisle of a data centre.",
       "kb": 157
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/data-centre-cloud-industry/body-1.webp",
+        "credit": "Hugovanmeijeren / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Cern_datacenter.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A data-centre hall with rows of equipment racks",
+        "alt": "Long rows of server and equipment racks fill a large data-centre hall with structured cold-aisle containment.",
+        "kb": 154
+      },
+      {
+        "file": "/media/industries/data-centre-cloud-industry/body-2.webp",
+        "credit": "RobH / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sdtpa_wmf-7.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Network cabling behind data-centre server racks",
+        "alt": "Dense bundles of network cabling run across the rear of server racks in a data-centre deployment.",
+        "kb": 177
+      }
+    ]
   },
   "industries/electric-vehicle-battery-industry": {
     "hero": {
@@ -9160,7 +9988,30 @@
       "alt": "A DC fast-charging unit stands in a marked electric-vehicle bay at a Malaysian highway rest area.",
       "kb": 174
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/electric-vehicle-battery-industry/body-1.webp",
+        "credit": "Sevenethics / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:18650_and_21700_lithium_ion_battery_cell.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Cylindrical lithium-ion battery cells",
+        "alt": "Two cylindrical lithium-ion battery cells, an 18650 and a larger 21700 format, stood side by side.",
+        "kb": 160
+      },
+      {
+        "file": "/media/industries/electric-vehicle-battery-industry/body-2.webp",
+        "credit": "Rainerhaufe / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2016-04-12_e-up_Batterie.JPG",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "An electric-vehicle lithium-ion traction battery pack",
+        "alt": "The flat lithium-ion traction battery pack of an electric car, displayed to show its modular cell layout.",
+        "kb": 48
+      }
+    ]
   },
   "industries/forestry-timber-industry": {
     "hero": {
@@ -9174,7 +10025,30 @@
       "alt": "A wheel loader and workers process freshly cut hardwood logs at a sawmill yard in Sabah, Malaysia.",
       "kb": 171
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/forestry-timber-industry/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AMempakad_Sabah_Sawmill-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Sawmill at Kampung Mempakad, Sabah, Malaysia",
+        "alt": "Stacks of sawn hardwood boards and logs under the open roof of a rural sawmill in Sabah, Malaysia.",
+        "kb": 170
+      },
+      {
+        "file": "/media/industries/forestry-timber-industry/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ASandakan_Sabah_Plywood-Factory-05.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Plywood factory log yard in Sandakan, Sabah, Malaysia",
+        "alt": "A wheeled loader moving tropical hardwood logs toward the trimming unit at a plywood factory in Sandakan, Sabah.",
+        "kb": 171
+      }
+    ]
   },
   "industries/gig-platform-economy-industry": {
     "hero": {
@@ -9188,7 +10062,30 @@
       "alt": "A food-delivery rider on a motorcycle with an insulated delivery box waits at a street junction in Penang, Malaysia.",
       "kb": 162
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/gig-platform-economy-industry/body-1.webp",
+        "credit": "Chainwit. / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Foodpanda motorcycle food-delivery rider with pink insulated delivery box (representative gig platform work; non-Grab)",
+        "alt": "A food-delivery rider in a pink foodpanda jacket and helmet on an underbone (kapcai) motorcycle carrying a large pink foodpanda insulated delivery box while stopped in street traffic.",
+        "kb": 124
+      },
+      {
+        "file": "/media/industries/gig-platform-economy-industry/body-2.webp",
+        "credit": "Alexander Corkhill / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Food-delivery courier with an insulated platform delivery bag (non-Grab)",
+        "alt": "A platform food-delivery courier standing on the pavement wearing a large insulated food delivery backpack.",
+        "kb": 141
+      }
+    ]
   },
   "industries/global-business-services-industry": {
     "hero": {
@@ -9202,7 +10099,30 @@
       "alt": "A modern corporate office building in Cyberjaya, one of Malaysia's main hubs for technology and global business services.",
       "kb": 161
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/global-business-services-industry/body-1.webp",
+        "credit": "Wanobi88 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Corporate office building in Cyberjaya, Malaysia's global-services hub",
+        "alt": "A modern mid-rise glass-and-concrete corporate office building in the Cyberjaya business park, Selangor, Malaysia.",
+        "kb": 150
+      },
+      {
+        "file": "/media/industries/global-business-services-industry/body-2.webp",
+        "credit": "Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Large call-centre office floor (representative shared-services/BPO workplace)",
+        "alt": "Rows of agents at computer workstations across a very large open-plan call-centre floor.",
+        "kb": 97
+      }
+    ]
   },
   "industries/logistics-ports-industry": {
     "hero": {
@@ -9216,7 +10136,30 @@
       "alt": "Rows of ship-to-shore gantry cranes handling containers at the Port of Tanjung Pelepas in Johor, Malaysia.",
       "kb": 177
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/logistics-ports-industry/body-1.webp",
+        "credit": "Richard W Sinyem from Malaysia / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ARTG_at_Bintulu_International_Container_Terminal_(BICT).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Rubber-tyred gantry crane over stacked containers at Bintulu International Container Terminal, Sarawak, Malaysia",
+        "alt": "A rubber-tyred gantry crane straddling rows of stacked shipping containers at Bintulu International Container Terminal, Sarawak.",
+        "kb": 145
+      },
+      {
+        "file": "/media/industries/logistics-ports-industry/body-2.webp",
+        "credit": "jgmorard / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3A090301.020.PortKlang.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Shipping containers loaded on a vessel at Port Klang, Malaysia",
+        "alt": "Colourful shipping containers stacked on the deck of a container vessel berthed at Port Klang, Selangor, Malaysia.",
+        "kb": 159
+      }
+    ]
   },
   "industries/machinery-equipment-industry": {
     "hero": {
@@ -9230,7 +10173,30 @@
       "alt": "A factory floor lined with CNC machine tools and workers, typical of machinery and equipment manufacturing.",
       "kb": 164
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/machinery-equipment-industry/body-1.webp",
+        "credit": "Huangdan2060 / Wikimedia Commons",
+        "license": "CC BY 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ASany_Heavy_Industry_1.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Heavy-machinery manufacturing plant (representative industrial machinery production)",
+        "alt": "Partly assembled yellow heavy construction machinery lined up inside a large industrial manufacturing hall.",
+        "kb": 112
+      },
+      {
+        "file": "/media/industries/machinery-equipment-industry/body-2.webp",
+        "credit": "AKomkova / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3A%D0%9B%D0%B8%D0%BD%D0%B8%D1%8F_%D1%81%D0%B2%D0%B0%D1%80%D0%BA%D0%B8_%D0%B1%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D1%81%D1%82%D0%B5%D0%BD%D1%8B_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%B0._%C2%AB%D0%A2%D0%B8%D1%85%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B0%D0%B3%D0%BE%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%C2%BB.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Robotic welding assembly line in a heavy-equipment factory (representative)",
+        "alt": "An automated robotic welding line joining large steel panels on an assembly line inside a heavy-equipment factory.",
+        "kb": 177
+      }
+    ]
   },
   "industries/media-broadcasting-industry": {
     "hero": {
@@ -9244,7 +10210,30 @@
       "alt": "The Angkasapuri broadcasting complex in Kuala Lumpur, home of Malaysia's national public broadcaster.",
       "kb": 160
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/media-broadcasting-industry/body-1.webp",
+        "credit": "NASA Hubble / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ATelevision_Studio_Control_Room_-_39071734671.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Broadcast control room during a live television production (representative)",
+        "alt": "Producers at a bank of monitors and mixing desks in a television studio control room during a live broadcast.",
+        "kb": 86
+      },
+      {
+        "file": "/media/industries/media-broadcasting-industry/body-2.webp",
+        "credit": "Leif Jørgensen / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AUEFA_Euro_2020_-_Television_studio_01.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Television broadcast studio set with cameras and presenter desk (representative)",
+        "alt": "A television broadcast studio set with cameras, studio lighting and a presenter desk.",
+        "kb": 160
+      }
+    ]
   },
   "industries/medical-devices-industry": {
     "hero": {
@@ -9258,7 +10247,30 @@
       "alt": "Hand-shaped formers coated with liquid latex on a dipping line, the core process in disposable-glove manufacturing.",
       "kb": 47
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/medical-devices-industry/body-1.webp",
+        "credit": "Josep Lago, European Commission / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AView_of_a_production_line_at_the_Reig_Jofre_company's_headquarters.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Sterile pharmaceutical/medical-product production line with gowned workers (representative of medical manufacturing)",
+        "alt": "Workers in protective gowns and caps operating equipment on a sterile pharmaceutical production line.",
+        "kb": 70
+      },
+      {
+        "file": "/media/industries/medical-devices-industry/body-2.webp",
+        "credit": "Tehran Times / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ACOVIran_Barekat_vaccine_production_03.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Cleanroom production line in a medical-product manufacturing facility (representative)",
+        "alt": "Gowned technicians and stainless-steel equipment on a cleanroom production line inside a medical-product manufacturing facility.",
+        "kb": 142
+      }
+    ]
   },
   "industries/minerals-mining-industry": {
     "hero": {
@@ -9272,7 +10284,30 @@
       "alt": "The preserved TT5 tin-mining dredge standing beside a former mining pond in Perak, Malaysia, a relic of the country's tin-dredging era.",
       "kb": 168
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/minerals-mining-industry/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3AKinabatangan_Sabah_Quarry-at-Jalan-Sukau-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Rock quarry at Jalan Sukau, Kinabatangan district, Sabah, Malaysia",
+        "alt": "An exposed rock face and worked benches of a stone quarry at Jalan Sukau in the Kinabatangan district of Sabah.",
+        "kb": 176
+      },
+      {
+        "file": "/media/industries/minerals-mining-industry/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File%3ADistrict-Nabawan_Sabah_Rock-Mill-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Rock mill (kilang batu) crushing stone into gravel near Salarom, Sabah, Malaysia",
+        "alt": "A makeshift rock-crushing mill with conveyors and gravel heaps processing stone near Salarom, Sabah, Malaysia.",
+        "kb": 185
+      }
+    ]
   },
   "industries/pepper-industry": {
     "hero": {
@@ -9286,7 +10321,30 @@
       "alt": "Rows of black-pepper vines trained up wooden climbing poles on a Sarawak plantation, Malaysia's main pepper-growing state.",
       "kb": 175
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/pepper-industry/body-1.webp",
+        "credit": "Nick Allen / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plants.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "clusters of ripening green peppercorns hanging in long spikes on a black-pepper plant at a pepper farm in Sarawak, the heart of Malaysia's pepper industry",
+        "alt": "Close-up of a pepper plant with several drooping spikes densely strung with round green peppercorns, framed by large glossy dark-green leaves, with a blurred green farm beyond",
+        "kb": 90
+      },
+      {
+        "file": "/media/industries/pepper-industry/body-2.webp",
+        "credit": "Rainer Halama / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pepper_drying_in_Munnar_Hills-WUS07148.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "harvested peppercorns spread out to dry in the sun on mesh trays on a rooftop, the drying stage that turns green berries into black pepper",
+        "alt": "A whitewashed rooftop edged by a low balustrade with several square mesh trays of dark drying peppercorns laid out, banana and coconut palms and forested hills rising behind under a blue sky",
+        "kb": 214
+      }
+    ]
   },
   "industries/pharmaceutical-industry": {
     "hero": {
@@ -9300,7 +10358,30 @@
       "alt": "Capped medicine vials moving along an automated conveyor on a pharmaceutical manufacturing line.",
       "kb": 67
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/pharmaceutical-industry/body-1.webp",
+        "credit": "Aditiaudi / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ayursun_Packing_Division.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "workers in blue uniforms and hair caps inspecting and packing rows of filled medicine bottles on a bench in a pharmaceutical packing division",
+        "alt": "Several workers in blue coats and caps stand around a work bench covered with closely packed rows of small dark medicine bottles, handling and checking them, in a bright pharmaceutical plant with glass-fronted cabinets along the wall",
+        "kb": 118
+      },
+      {
+        "file": "/media/industries/pharmaceutical-industry/body-2.webp",
+        "credit": "The U.S. Food and Drug Administration / Wikimedia Commons",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Generic_Drug_Research_(5917)_(8493715800).jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "a gloved technician loading a tablet sample tray into testing equipment in a pharmaceutical quality-control laboratory",
+        "alt": "A pair of hands in blue nitrile gloves and a white lab coat positioning a clear plastic tray of pills onto a stainless-steel laboratory instrument labelled with a warning about hot surfaces",
+        "kb": 87
+      }
+    ]
   },
   "industries/plastics-packaging-industry": {
     "hero": {
@@ -9314,7 +10395,30 @@
       "alt": "An injection-moulding machine fitted with a robot arm placing freshly moulded plastic trays onto a conveyor in a factory.",
       "kb": 168
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/plastics-packaging-industry/body-1.webp",
+        "credit": "Ikiwaner / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pipe_extrusion_line.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "a plastic extrusion line with a feed hopper and heated barrel forming continuous plastic stock, a core process in the plastics and packaging industry",
+        "alt": "A green and cream industrial extrusion machine with a funnel-shaped hopper on top and a long horizontal heated barrel wrapped in wiring, running toward the right against a blue and white factory wall",
+        "kb": 157
+      },
+      {
+        "file": "/media/industries/plastics-packaging-industry/body-2.webp",
+        "credit": "Grendelkhan / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bales_of_PET_bottles_stacked.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "tightly compressed bales of crushed clear PET drink bottles stacked for recycling into new plastic feedstock",
+        "alt": "Large cuboid bales of flattened transparent plastic bottles, flecked with coloured caps and labels, stacked two and three high on tarmac beside a rusty metal bin, with trees and grey sky behind",
+        "kb": 240
+      }
+    ]
   },
   "industries/retail-wholesale-trade-industry": {
     "hero": {
@@ -9328,7 +10432,30 @@
       "alt": "Shoppers, stores and retail kiosks across the multi-level atrium of NU Sentral shopping mall in Kuala Lumpur, Malaysia.",
       "kb": 174
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/retail-wholesale-trade-industry/body-1.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sugar_and_agar-agar_powder_section_(Aisle_21)_of_Giant_Hypermarket_Kota_Damansara_at_Dataran_Sunway_in_Kota_Damansara,_Selangor_20250315_103201.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a stocked grocery aisle at a Giant hypermarket in Kota Damansara, Selangor, a mainstay format of Malaysia's retail trade",
+        "alt": "A long supermarket aisle with white shelving packed with bagged sugar, cooking oil and packaged goods under a green aisle sign reading GULA AGAR-AGAR 21, with a clean tiled floor receding into the distance",
+        "kb": 168
+      },
+      {
+        "file": "/media/industries/retail-wholesale-trade-industry/body-2.webp",
+        "credit": "Chongkian / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Johor_Jaya_Wet_Market.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a traditional open-sided wet market in Johor Jaya with lorries delivering fresh produce, part of Malaysia's wholesale and retail food trade",
+        "alt": "A long single-storey open market shed with a weathered brown roof, a lorry stacked with produce and two smaller trucks parked in front on a sunlit tarmac lot under a bright blue sky",
+        "kb": 146
+      }
+    ]
   },
   "industries/space-industry": {
     "hero": {
@@ -9342,7 +10469,30 @@
       "alt": "A satellite ground station with a dish antenna, a yagi antenna and a radome used to track and communicate with spacecraft.",
       "kb": 113
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/space-industry/body-1.webp",
+        "credit": "ESA_events / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sentinel-2A_satellite_-_On_the_transportation_platform.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "technicians in cleanroom suits preparing an encapsulated satellite on its launch-vehicle upper composite, representing satellite build and launch preparation",
+        "alt": "Engineers in pale green and white cleanroom coveralls and caps work around a tall white conical rocket fairing suspended by yellow lifting gear on a wheeled platform in a brightly lit cleanroom",
+        "kb": 178
+      },
+      {
+        "file": "/media/industries/space-industry/body-2.webp",
+        "credit": "SpaceX / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:CRS-9_mission_(28348649546).jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "a long-exposure night rocket launch, with the bright arc of ascent and a second arc of the booster returning to land, representing launch services",
+        "alt": "A dark night sky over calm water crossed by two luminous curved streaks of light, one rising steeply from a brightly lit launch pad on the left and a fainter one descending to land on the right",
+        "kb": 56
+      }
+    ]
   },
   "industries/telecommunications-industry": {
     "hero": {
@@ -9356,7 +10506,30 @@
       "alt": "A cellular telecommunications tower carrying multiple panel antennas against a clear sky.",
       "kb": 82
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/telecommunications-industry/body-1.webp",
+        "credit": "PeaceSeekers / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:CelcomDigi_booth_at_Comic_Fiesta_2023.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a CelcomDigi exhibition stand promoting fibre broadband, showing a Malaysian mobile and broadband operator's consumer presence",
+        "alt": "A large dark exhibition booth with an illuminated CelcomDigi logo and brand name across the top and a glowing blue panel reading CelcomDigi fibre, Ultra Smooth Low Latency, with visitors in face masks gathered below",
+        "kb": 179
+      },
+      {
+        "file": "/media/industries/telecommunications-industry/body-2.webp",
+        "credit": "BalticServers.com / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "rows of networking and server equipment glowing with blue indicator lights in a data centre, the infrastructure underpinning telecom networks",
+        "alt": "A long wall of rack-mounted computer servers receding at an angle, each tier studded with sparkling blue status lights against the dark metal cabinets",
+        "kb": 157
+      }
+    ]
   },
   "industries/textiles-apparel-industry": {
     "hero": {
@@ -9370,7 +10543,30 @@
       "alt": "Workers sewing and finishing clothing along an assembly line inside a garment factory.",
       "kb": 178
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/textiles-apparel-industry/body-1.webp",
+        "credit": "Daderot / Wikimedia Commons",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Kain_limar_songket_bertabur_(hip_wrapper),_Malaysian_people,_Malaya,_Terengganu,_mid_19th_century_AD,_silk,_metal-wrapped_silk,_view_2_-_Textile_Museum,_George_Washington_University_-_DSC09788.JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a detail of a Malay songket cloth from Terengganu woven with gold metallic thread, a flagship craft of Malaysia's textile heritage",
+        "alt": "A close-up of richly patterned woven cloth with a central red panel of dense gold floral brocade flanked by maroon borders of gold diamond and star motifs",
+        "kb": 220
+      },
+      {
+        "file": "/media/industries/textiles-apparel-industry/body-2.webp",
+        "credit": "Tarunsamanta / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Power_loom_Weaving_in_Hooghly_District_09.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "a weaver working a wooden loom strung with coloured thread bobbins in a weaving workshop, representing fabric weaving in the textile industry",
+        "alt": "A wooden handloom in a brick-walled workshop, its frame strung with warp threads and a row of red, green and blue thread bobbins, a weaver partly visible working at the far side",
+        "kb": 142
+      }
+    ]
   },
   "industries/digital-creative-content-industry": {
     "hero": {
@@ -9384,7 +10580,30 @@
       "alt": "A motion-capture production studio with a gridded capture stage, overhead camera rig on trusses and an operator workstation with multiple monitors.",
       "kb": 159
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/industries/digital-creative-content-industry/body-1.webp",
+        "credit": "Microsoft Corporation / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Gears_4_The_Coalition.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A video-game development studio floor",
+        "alt": "Developers work at multi-monitor desks across the open studio floor of a video-game development house.",
+        "kb": 157
+      },
+      {
+        "file": "/media/industries/digital-creative-content-industry/body-2.webp",
+        "credit": "David Revoy / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2022-09-01_intuos-pro-large.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A digital artist's workstation for producing digital paintings",
+        "alt": "A graphics tablet and stylus sit before a monitor showing a digital painting at a content creator's workstation.",
+        "kb": 176
+      }
+    ]
   },
   "public-safety/road-safety-in-malaysia": {
     "hero": {

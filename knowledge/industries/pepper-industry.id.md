@@ -32,7 +32,7 @@ faq:
   - q: Apa tantangan utama yang dihadapi industri ini?
     a: Sektor ini bergulat dengan populasi petani yang menua, harga global yang bergejolak, tekanan iklim dan persaingan sengit dari produsen yang lebih besar seperti Vietnam, Indonesia dan India. Mekanisasi yang rendah dan ketergantungan pada ekspor biji mentah menjaga margin tetap tipis, itulah sebabnya kebijakan kini menekankan penanaman ulang, teknologi dan pengolahan hilir.
 lang: id
-sourceContentHash: "919642eafa94442f"
+sourceContentHash: "d190e9e277335f4c"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -117,6 +117,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plant_climbing_poles.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/pepper-industry/body-1.webp
+    alt: Foto dekat sebuah tanaman lada dengan beberapa malai merunduk yang padat berisi butir lada hijau bulat, dibingkai oleh daun hijau tua mengilap yang besar, dengan latar kebun hijau yang buram
+    kind: actual
+    origin: third-party
+    subject: gugus lada hitam hijau yang mulai matang menggantung dalam malai panjang pada tanaman lada hitam di sebuah kebun lada di Sarawak, jantung industri lada Malaysia
+    credit: Nick Allen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_pepper_plants.jpg
+  - role: scene
+    src: /media/industries/pepper-industry/body-2.webp
+    alt: Sebuah atap bercat putih yang dibatasi pagar rendah dengan beberapa nampan jaring persegi berisi butir lada gelap yang sedang dijemur, pohon pisang dan kelapa serta bukit berhutan menjulang di belakang di bawah langit biru
+    kind: representative
+    origin: third-party
+    subject: butir lada hasil panen dihamparkan untuk dijemur di bawah matahari di atas nampan jaring di sebuah atap, tahap pengeringan yang mengubah buah hijau menjadi lada hitam
+    credit: Rainer Halama / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pepper_drying_in_Munnar_Hills-WUS07148.jpg
 ---
 
 Lada adalah salah satu komoditas pertanian Malaysia yang tertua dan paling khas secara geografis: sulur yang diimpor dari anak benua India dan Sumatra yang menemukan rumah idealnya di perbukitan Sarawak yang lembap dan berdrainase baik, tempat ia menjadi tulang punggung ribuan kebun kecil pedesaan. Meski Malaysia adalah pemain sederhana dari sisi volume global, ia bertarung melampaui bobotnya dari sisi reputasi, menjual "Lada Sarawak" premium bersertifikat asal ke pasar yang jeli. Artikel ini memprofilkan struktur, geografi, perdagangan dan prospek sektor ini sebagai industri yang berdiri sendiri.

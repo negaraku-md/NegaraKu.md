@@ -64,7 +64,27 @@ sources:
     url: https://www.digitalnewsasia.com/business/malaysias-gbs-sector-urged-expand-beyond-klang-valley-through-state-specialisation
     publisher: Digital News Asia
   - title: Malaysia Digital स्थिति — कर प्रोत्साहन (Malaysia Digital Status — Tax Incentives)
-    url: https://www.crowe.com/my/insights/malaysia-digital-status---tax-incentives
+    url: https://www.crowe.com/my/insights/malaysia-digital-status
+images:
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-1.webp
+    alt: मलेशिया के सेलांगोर स्थित साइबरजया बिज़नेस पार्क में काँच और कंक्रीट की एक आधुनिक मध्यम-ऊँचाई की कॉर्पोरेट कार्यालय इमारत।
+    kind: representative
+    origin: third-party
+    subject: मलेशिया के वैश्विक-सेवा केंद्र साइबरजया में कॉर्पोरेट कार्यालय इमारत
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-2.webp
+    alt: एक बहुत बड़े खुले-लेआउट कॉल-सेंटर फ़्लोर पर कंप्यूटर वर्कस्टेशनों पर एजेंटों की कतारें।
+    kind: representative
+    origin: third-party
+    subject: बड़ा कॉल-सेंटर कार्यालय फ़्लोर (प्रतिनिधि साझा-सेवा/BPO कार्यस्थल)
+    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
+---tax-incentives
     publisher: Crowe Malaysia
   - title: "मलेशिया का समृद्ध GBS क्षेत्र: डिजिटल अर्थव्यवस्था में एक प्रेरक शक्ति (Malaysia's thriving GBS sector: A driving force in the digital economy)"
     url: https://knightfrank.com/your-space/2024-03-26-malaysias-thriving-gbs-sector-a-driving-force-in-the-digital-economy

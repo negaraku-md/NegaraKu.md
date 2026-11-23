@@ -31,7 +31,7 @@ faq:
   - q: ¿Qué está haciendo Malasia respecto a la contaminación por plástico?
     a: La Hoja de Ruta de Sostenibilidad del Plástico de Malasia 2021-2030, liderada por el ministerio de medio ambiente, fija objetivos para eliminar progresivamente los plásticos de un solo uso problemáticos, elevar las tasas de reciclaje y el contenido reciclado, y hacer que el envase de plástico sea reciclable. También introduce un esquema de Responsabilidad Ampliada del Productor (RAP) que hace que los productores ayuden a financiar la recogida y el reciclaje.
 lang: es
-sourceContentHash: "de0d1c6868348e76"
+sourceContentHash: "2bc730fc5eac1f19"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-1.webp
+    alt: Una máquina de extrusión industrial verde y crema, con una tolva en forma de embudo en la parte superior y un largo cilindro horizontal caliente envuelto en cableado, que se extiende hacia la derecha contra una pared de fábrica azul y blanca.
+    kind: representative
+    origin: third-party
+    subject: Una línea de extrusión de plástico, con tolva de alimentación y cilindro calentado, que forma material plástico continuo, un proceso esencial de la industria del plástico y el embalaje
+    credit: Ikiwaner / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pipe_extrusion_line.jpg
+  - role: scene
+    src: /media/industries/plastics-packaging-industry/body-2.webp
+    alt: Grandes balas cúbicas de botellas de plástico transparente aplastadas, salpicadas de tapones y etiquetas de colores, apiladas de dos y tres en alto sobre el asfalto junto a un contenedor metálico oxidado, con árboles y un cielo gris detrás.
+    kind: representative
+    origin: third-party
+    subject: Balas fuertemente compactadas de botellas de bebida de PET transparente trituradas, apiladas para reciclarlas en nueva materia prima plástica
+    credit: Grendelkhan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bales_of_PET_bottles_stacked.jpg
 ---
 
 Casi todo producto físico que sale de una fábrica malasia —un paquete de fideos instantáneos, un teléfono inteligente, un parachoques de coche, un tramo de tubería de agua— depende de un plástico que se moldeó en algún lugar del país. Los plásticos son una de las silenciosas fortalezas industriales de Malasia: menos glamurosos que los semiconductores, pero entretejidos en casi todos los demás sectores manufactureros y, cada vez más, en el debate nacional sobre los residuos y la sostenibilidad.

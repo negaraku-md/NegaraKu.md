@@ -36,7 +36,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "28b83f8fb5bdfc96"
+sourceContentHash: "a329af0d43f2fad4"
 
 status: "published"
 aiAssisted: true
@@ -125,6 +125,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Teal_Striped_Container_Cranes_at_Tanjung_Pelepas_Port_Ver2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-1.webp
+    alt: 在马来西亚砂拉越民都鲁国际集装箱码头，一台轮胎式龙门起重机横跨在一排排堆叠的集装箱之上。
+    kind: actual
+    origin: third-party
+    subject: 马来西亚砂拉越民都鲁国际集装箱码头跨越堆叠集装箱的轮胎式龙门起重机
+    credit: Richard W Sinyem from Malaysia / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ARTG_at_Bintulu_International_Container_Terminal_(BICT).jpg
+  - role: scene
+    src: /media/industries/logistics-ports-industry/body-2.webp
+    alt: 色彩斑斓的集装箱堆叠在停泊于马来西亚雪兰莪巴生港一艘集装箱船的甲板上。
+    kind: actual
+    origin: third-party
+    subject: 马来西亚巴生港一艘船上装载的集装箱
+    credit: jgmorard / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3A090301.020.PortKlang.jpg
 ---
 
 巴生港在2025年运送了1,514万个航运集装箱——足以超越香港，首次跻身全球十大最繁忙港口。另一座马来西亚港口丹绒帕拉帕斯又运送了1,400万个。这两个数字都不足以描述一个自己制造大部分货物的国家。它描述的是一个坐拥绝佳地理位置、并学会向全球贸易「收租」的国家。

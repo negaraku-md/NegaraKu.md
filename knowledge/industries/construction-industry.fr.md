@@ -34,7 +34,7 @@ faq:
     a: "La NCP 2030 est une politique lancée lors de l'ICW 2021, après la conclusion du Programme de transformation de l'industrie de la construction (CITP) 2016–2020. Elle énonce six axes stratégiques pour transformer le secteur de la construction vers l'ère numérique d'ici 2030, dont un objectif de numériser 50% du cycle de l'industrie."
 
 lang: "fr"
-sourceContentHash: "6895d1dde5da9e4f"
+sourceContentHash: "2f048d788112b135"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/construction-industry/body-1.webp
+    alt: Des grues à tour s'élèvent au-dessus d'un gratte-ciel en construction dans le centre de Kuala Lumpur, en Malaisie.
+    kind: representative
+    origin: third-party
+    subject: Un chantier de gratte-ciel à Kuala Lumpur
+    credit: InterEdit88 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fairmont_Kuala_Lumpur_construction_site_20240409.jpg
+  - role: scene
+    src: /media/industries/construction-industry/body-2.webp
+    alt: Une tour d'appartements avec services en béton armé en construction sur Jalan Kuda Emas, près de Bukit Jalil, à Kuala Lumpur.
+    kind: representative
+    origin: third-party
+    subject: Construction d'appartements avec services près de Bukit Jalil, Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Serviced_apartment_construction_on_Jalan_Kuda_Emas,_Kuala_Lumpur_20240525_152253.jpg
 ---
 
 Essayez d'ériger une clôture d'école d'une valeur de RM250,000 sans détenir de certificat d'enregistrement d'entrepreneur, et l'arrêt immédiat de votre projet peut être ordonné — avant même que le premier poteau ne soit planté. En Malaisie, le droit de construire ne commence pas par la machinerie ou la main-d'œuvre ; il commence par un seul enregistrement.

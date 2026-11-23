@@ -31,7 +31,7 @@ faq:
   - q: உற்பத்தியாளர்களுக்கு என்ன சலுகைகள் உள்ளன?
     a: மருத்துவ சாதனங்கள் ஒரு MIDA-ஊக்குவிக்கப்பட்ட செயல்பாடு, Pioneer Status (ஒரு குறிப்பிட்ட காலத்திற்கு ஒரு பகுதி-முதல்-முழு வருமான-வரி விலக்கு) மற்றும் தகுதிவாய்ந்த மூலதனச் செலவினத்தின் மீதான Investment Tax Allowance போன்ற சலுகைகளுக்குத் தகுதியானது. மருத்துவ சாதனங்கள் New Industrial Master Plan 2030 இன் கீழ் ஒரு முன்னுரிமைத் துறையாகவும் பெயரிடப்பட்டுள்ளன. தற்போதைய விதிமுறைகளையும் தகுதியையும் நேரடியாக MIDA உடன் உறுதிப்படுத்தவும்.
 lang: ta
-sourceContentHash: "7fd1c6521ba9829e"
+sourceContentHash: "f59d1ed2e2b0ce72"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -108,6 +108,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sector_Dipping,_Industria_De_Pascale.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-1.webp
+    alt: பாதுகாப்பு அங்கிகளும் தொப்பிகளும் அணிந்த தொழிலாளர்கள் ஒரு மலட்டு மருந்து உற்பத்தி வரிசையில் உபகரணங்களை இயக்குகின்றனர்.
+    kind: representative
+    origin: third-party
+    subject: அங்கி அணிந்த தொழிலாளர்களுடன் மலட்டு மருந்து/மருத்துவ தயாரிப்பு உற்பத்தி வரிசை (மருத்துவ உற்பத்தியை பிரதிநிதித்துவப்படுத்துகிறது)
+    credit: Josep Lago, European Commission / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AView_of_a_production_line_at_the_Reig_Jofre_company's_headquarters.jpg
+  - role: scene
+    src: /media/industries/medical-devices-industry/body-2.webp
+    alt: ஒரு மருத்துவ தயாரிப்பு உற்பத்தி வசதியின் உள்ளே சுத்தஅறை உற்பத்தி வரிசையில் அங்கி அணிந்த தொழில்நுட்பர்களும் துருப்பிடிக்காத எஃகு உபகரணங்களும்.
+    kind: representative
+    origin: third-party
+    subject: மருத்துவ தயாரிப்பு உற்பத்தி வசதியில் சுத்தஅறை உற்பத்தி வரிசை (பிரதிநிதித்துவம்)
+    credit: Tehran Times / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACOVIran_Barekat_vaccine_production_03.jpg
 ---
 
 நீங்கள் எப்போதாவது ஒரு அறுவைச்சிகிச்சைக் கையுறையை அணிந்திருந்தால், ஒரு வடிகுழாய் மூலம் இரத்தம் எடுக்கப்பட்டிருந்தால், அல்லது ஒரு எலும்பியல் உள்வைப்பின் உதவியுடன் குணமடைந்திருந்தால், அந்த சாதனம் மலேசியாவில் தயாரிக்கப்பட்டிருக்க நியாயமான வாய்ப்பு உள்ளது. அதன் புகழ்பெற்ற ரப்பர் கையுறைகளுக்கு அப்பால், நாடு அமைதியாக தென்கிழக்கு ஆசியாவின் மருத்துவ சாதனங்களைத் தயாரிப்பதற்கான மிக முக்கியமான இடமாக — மேலும் உலகில் எங்கும் உள்ள மிகவும் குறிப்பிடத்தக்க medtech உற்பத்தி அடித்தளங்களில் ஒன்றாக — மாறியுள்ளது.

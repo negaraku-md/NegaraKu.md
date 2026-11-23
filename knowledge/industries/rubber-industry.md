@@ -108,6 +108,26 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:Rubber_tree_and_latex_cup.j
 heroKind: "representative"
 heroOrigin: "third-party"
 heroSubject: 'Tapped rubber tree with latex running down the spiral cut into a collection cup, Malaysia'
+
+images:
+  - role: scene
+    src: /media/industries/rubber-industry/body-1.webp
+    alt: Orderly rows of slender rubber trees with pale mottled trunks receding into the distance across a grassy estate floor, small dark latex cups attached low on several trunks
+    kind: actual
+    origin: third-party
+    subject: neat rows of mature rubber trees fitted with latex collection cups on a plantation estate in Johor, a backbone of Malaysia's rubber industry
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rubber_plantation_in_Johor.jpg
+  - role: scene
+    src: /media/industries/rubber-industry/body-2.webp
+    alt: A man in a grey shirt guides a white sheet of pressed latex between the heavy rollers of a yellow cast-iron sheeting machine at the edge of a rubber grove, a second ribbed roller beside him
+    kind: representative
+    origin: third-party
+    subject: a worker feeding a sheet of coagulated latex through a hand-cranked rubber sheeting mangle, a key step in processing natural rubber
+    credit: Blue Plover / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Processing_rubber_in_Thailand.JPG
 ---
 
 The rubber that built colonial Malaya no longer earns its keep in the plantation — it earns it on the factory floor. Malaysia still taps trees, but its rubber fortune now rides on the medical gloves, tyres and latex goods it manufactures, a business that works through more rubber than the country itself grows.

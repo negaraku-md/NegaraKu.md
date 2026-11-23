@@ -31,7 +31,7 @@ faq:
   - q: "كيف تدعم الحكومة صناعة الكيماويات؟"
     a: "تقيّم الهيئة الماليزية لتنمية الاستثمار (MIDA)، عبر شعبة الكيماويات والمواد المتقدمة، طلبات تراخيص التصنيع وتقدّم حوافز مثل الوضع الريادي (Pioneer Status) وبدل ضريبة الاستثمار (Investment Tax Allowance). كما تخضع مشاريع البترول والبتروكيماويات لقانون تطوير البترول 1974. وتحدّد خارطة طريق صناعة الكيماويات 2030 والخطة الصناعية الرئيسية الجديدة 2030 الاتجاه الاستراتيجي نحو الكيماويات المتخصصة الأعلى قيمة."
 lang: ar
-sourceContentHash: "dd296a225bbc1577"
+sourceContentHash: "5b202e406f8d70f8"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -109,6 +109,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Petron_bataan_refinery_2.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-1.webp
+    alt: أعمدة التقطير وخزانات التخزين في مصفاة Hengyuan النفطية شرق Port Dickson بولاية Negeri Sembilan، في وضح النهار.
+    kind: actual
+    origin: third-party
+    subject: مصفاة Hengyuan النفطية في Port Dickson، Negeri Sembilan
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Oil_refinery,_Port_Dickson.jpg
+  - role: scene
+    src: /media/industries/chemicals-petrochemicals-industry/body-2.webp
+    alt: برج الشعلة ومنشآت المعالجة في محطة Sabah Oil and Gas Terminal (SOGT) في Kimanis، Sabah، تحت سماء نهارية.
+    kind: actual
+    origin: third-party
+    subject: محطة النفط والغاز Sabah Oil & Gas Terminal (SOGT) في Kimanis
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-01a.jpg
 ---
 
 تبدأ اللدائن والأسمدة والمنظفات والمطاط الصناعي ومستحضرات التجميل والدهانات والراتنجات داخل غلاف هاتفك، جميعها، على هيئة كيماويات — وحصة مفاجئة منها، أو من لبِناتها الأساسية، تُصنع في ماليزيا. فخلف قصص النفط والغاز وزيت النخيل الأشهر في البلاد تجلس صناعة كيماويات وبتروكيماويات كبيرة واستراتيجية بهدوء، تحوّل الهيدروكربونات الخام والزيوت النباتية إلى المواد التي تعتمد عليها الحياة الحديثة.

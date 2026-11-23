@@ -31,7 +31,7 @@ faq:
   - q: เทคโนโลยีชีวภาพเป็นส่วนใหญ่ของเศรษฐกิจมาเลเซียหรือไม่?
     a: เป็นภาคยุทธศาสตร์แต่ยังเกิดใหม่ มากกว่าจะครองตลาด องค์การเศรษฐกิจชีวภาพรายงานการมีส่วนร่วมสะสมราว RM39.9 พันล้านต่อจีดีพีในสองทศวรรษแรก ไบโอเทคมีความสำคัญมากกว่าในแง่ศักยภาพในอนาคต — ในด้านความมั่นคงทางอาหาร สุขภาพ และเศรษฐกิจชีวภาพ — มากกว่าสัดส่วนผลผลิตปัจจุบัน
 lang: th
-sourceContentHash: "613e62dc50c4f5a9"
+sourceContentHash: "1247f6184dd5b071"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -104,6 +104,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-1.webp
+    alt: ชั้นวางภาชนะเพาะเลี้ยงปลอดเชื้อภายใต้แสงไฟที่ควบคุมในห้องปฏิบัติการเพาะเลี้ยงเนื้อเยื่อพืชที่มหาวิทยาลัยมาเลเซียตรังกานู
+    kind: actual
+    origin: third-party
+    subject: ห้องปฏิบัติการเพาะเลี้ยงเนื้อเยื่อพืชที่มหาวิทยาลัยมาเลเซียตรังกานู
+    credit: Rafi Bin Tofa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Plant_Tissue_Culture_Laboratory,_UMT.jpg
+  - role: scene
+    src: /media/industries/biotechnology-life-sciences-industry/body-2.webp
+    alt: ถังปฏิกรณ์ชีวภาพทำจากสเตนเลสและแก้วพร้อมท่อและเครื่องมือควบคุม กำลังเดินกระบวนการเพาะเลี้ยงเซลล์มีชีวิตในห้องปฏิบัติการ
+    kind: representative
+    origin: third-party
+    subject: ถังปฏิกรณ์ชีวภาพในห้องปฏิบัติการที่เดินกระบวนการเพาะเลี้ยงเซลล์
+    credit: Habin Zhang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bioreactor_in_operation.jpg
 ---
 
 มาเลเซียไม่มีมหาวิทยาลัยวิจัยที่ลึกหรือความลึกของทุนร่วมลงทุนแบบบอสตันหรือเซี่ยงไฮ้ แต่มีสามสิ่งที่ทำให้เทคโนโลยีชีวภาพเป็นการเดิมพันระยะยาวที่สมเหตุสมผล: คลังความหลากหลายทางชีวภาพเขตร้อนที่ร่ำรวยที่สุดแห่งหนึ่งของโลก กระแสชีวมวลจากน้ำมันปาล์มและการเกษตรมหาศาล และความเชี่ยวชาญด้านการรับรองฮาลาลที่ได้รับการยอมรับระดับโลก มากกว่าสองทศวรรษที่รัฐบาลพยายามเปลี่ยนทรัพย์สินเหล่านั้นให้เป็นอุตสาหกรรมวิทยาศาสตร์เพื่อชีวิตสมัยใหม่ คู่มือนี้อธิบายว่าความพยายามนั้นจัดระเบียบอย่างไร สร้างอะไรขึ้นมา และกำลังมุ่งไปทางใด

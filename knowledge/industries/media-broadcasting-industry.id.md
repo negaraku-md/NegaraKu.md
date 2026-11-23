@@ -31,7 +31,7 @@ faq:
   - q: Apa itu industri konten kreatif dan animasi Malaysia?
     a: Ini adalah bisnis memproduksi film, program televisi, animasi, musik, dan gim — kian lama untuk ekspor sekaligus pasar domestik. Animasi Malaysia khususnya telah sukses internasional, contoh paling dikenal adalah serial anak-anak Upin & Ipin, diproduksi oleh Les' Copaque. Pemerintah mendukung sektor ini melalui dana dan badan seperti MyCreative Ventures dan FINAS.
 lang: id
-sourceContentHash: "3e8bc7e3b643f33d"
+sourceContentHash: "a83d9b0038878f0e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -108,6 +108,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Angkasapuri,_Kuala_Lumpur.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-1.webp
+    alt: Para produser di depan deretan monitor dan meja mixing di ruang kendali studio televisi saat siaran langsung.
+    kind: representative
+    origin: third-party
+    subject: Ruang kendali siaran saat produksi televisi langsung (mewakili)
+    credit: NASA Hubble / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATelevision_Studio_Control_Room_-_39071734671.jpg
+  - role: scene
+    src: /media/industries/media-broadcasting-industry/body-2.webp
+    alt: Sebuah set studio siaran televisi dengan kamera, pencahayaan studio dan meja pembawa acara.
+    kind: representative
+    origin: third-party
+    subject: Set studio siaran televisi dengan kamera dan meja pembawa acara (mewakili)
+    credit: Leif Jørgensen / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AUEFA_Euro_2020_-_Television_studio_01.jpg
 ---
 
 Ketika orang Malaysia berbicara tentang "media", mereka biasanya memaksudkan salah satu dari beberapa nama akrab: piringan satelit Astro yang terpasang di sisi rumah, buletin berita TV3, acara radio pagi dalam perjalanan ke tempat kerja, atau — kian lama — apa pun yang diputar di ponsel saat bepergian. Titik sentuh sehari-hari itu termasuk dalam satu industri yang luas dan melebar: media dan penyiaran. Ia adalah salah satu sektor jasa yang lebih terlihat di negara ini, sekaligus salah satu yang paling terganggu.

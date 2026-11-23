@@ -103,6 +103,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:TT5_Tin_Dredge_-_panoramio.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-1.webp
+    alt: An exposed rock face and worked benches of a stone quarry at Jalan Sukau in the Kinabatangan district of Sabah.
+    kind: actual
+    origin: third-party
+    subject: Rock quarry at Jalan Sukau, Kinabatangan district, Sabah, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AKinabatangan_Sabah_Quarry-at-Jalan-Sukau-01.jpg
+  - role: scene
+    src: /media/industries/minerals-mining-industry/body-2.webp
+    alt: A makeshift rock-crushing mill with conveyors and gravel heaps processing stone near Salarom, Sabah, Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Rock mill (kilang batu) crushing stone into gravel near Salarom, Sabah, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ADistrict-Nabawan_Sabah_Rock-Mill-01.jpg
 ---
 
 Malaysia's modern economy was, quite literally, dug out of the ground. Long before palm oil, electronics or semiconductors, it was **tin** that made the peninsula matter to the world — financing railways, growing towns such as Ipoh and Kuala Lumpur, and drawing in generations of migrant miners. Mining is the country's oldest industrial story, and although it no longer dominates the economy, it is quietly being rewritten around a very modern prize: rare earth elements.
