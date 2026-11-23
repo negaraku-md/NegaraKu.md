@@ -30,7 +30,7 @@ faq:
     a: "Bank atau perusahaan pembiayaan didaftarkan sebagai pemilik sah kendaraan itu di bawah Hire-Purchase Act 1967 sepanjang jangka waktu pinjaman. Pembeli adalah pemegang terdaftar yang menggunakan kendaraan itu untuk keperluan harian, dan baru menjadi pemilik terdaftar ketika pinjaman itu dilunasi sepenuhnya dan pihak pembiaya mengeluarkan pelepasan."
 
 lang: "id"
-sourceContentHash: "1e94499e976a5044"
+sourceContentHash: "dc8862cd8ffc9b3c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 2.5 my'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_showroom_in_SS14,_Subang_Jaya.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/buying-a-car/body-1.webp
+    alt: Mobil-mobil Perodua baru berjajar di bawah lampu terang di dalam showroom merek Perodua di Penang, Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Showroom dealer Perodua di Penang
+    credit: Bindydad123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Showroom,_Penang,_Malaysia_(1).jpg
+  - role: scene
+    src: /media/transport/buying-a-car/body-2.webp
+    alt: Sebuah sedan Proton Perdana hitam, mobil merek nasional buatan Malaysia, diparkir di pinggir jalan di Shah Alam, Selangor.
+    kind: actual
+    origin: third-party
+    subject: Sedan Proton Perdana di Shah Alam
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2014_Proton_Perdana_2.4P_in_Shah_Alam,_Malaysia_(01).jpg
 ---
 
 Ketika Anda membeli mobil di Malaysia, Anda menandatangani satu perjanjian, tetapi sebenarnya Anda memasuki tiga hubungan terpisah sekaligus: satu dengan siapa pun yang menjual mobil itu kepada Anda, satu dengan siapa pun yang membiayainya, dan satu lagi dengan JPJ, departemen yang menentukan nama siapa yang sebenarnya tertera pada kendaraan itu. Terlewat satu langkah dalam salah satu dari ketiganya, dan mobil yang telah Anda bayar itu, secara hukum, masih belum sepenuhnya milik Anda.

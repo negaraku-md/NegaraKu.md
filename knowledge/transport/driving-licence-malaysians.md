@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Jaya_Driving_School.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-malaysians/body-1.webp
+    alt: Pintu masuk dan ruang menunggu cawangan Jabatan Pengangkutan Jalan (JPJ) di Bandar Tasik Selatan, Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Pejabat cawangan JPJ (Jabatan Pengangkutan Jalan), Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_Selatan_(260912).jpg
+  - role: scene
+    src: /media/transport/driving-licence-malaysians/body-2.webp
+    alt: Bulatan lalu lintas berbilang lorong dengan papan tanda di Rawang, Selangor, satu kemahiran yang mesti dikuasai setiap pemandu pelatih.
+    kind: representative
+    origin: third-party
+    subject: Bulatan di Rawang, Selangor
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bulatan_Rawang_(230130)_01.jpg
 ---
 
 Kebanyakan orang menganggap "lesen memandu" sebagai satu dokumen tunggal. Ia

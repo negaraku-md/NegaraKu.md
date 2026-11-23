@@ -74,7 +74,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["touch-n-go", "road-tax-renewal"]
 keywords: ["tol lebuh raya Malaysia", "SmartTAG", "RFID Touch n Go", "JustGO PLUS", "ANPR tol", "MLFF tol tanpa palang", "lorong tol Malaysia"]
-sourceContentHash: "c1392d940afe3b99"
+sourceContentHash: "0d93829e0782b4d6"
 framework: explainer
 hero: '/media/transport/tolls-smarttag-rfid/hero.webp'
 heroAlt: '夜间，一辆汽车驶过马来西亚高速公路收费站两个亮着的黄色 SmartTAG 车道标志下方。'
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SmartTag.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-1.webp
+    alt: 白天的一座高速公路收费广场，设有一排收费亭和横跨数条收费车道的顶棚。
+    kind: actual
+    origin: third-party
+    subject: 霹雳怡保附近一座设有多条车道和收费亭的日间高速公路收费广场
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Toll_plaza,_Ipoh,_Perak,_Malaysia.jpg
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-2.webp
+    alt: 一条标示为 RFID 付费的收费广场出口车道，设有车道栏杆，道路上方近哥打白沙罗处架设着读取器龙门架。
+    kind: actual
+    origin: third-party
+    subject: 雪兰莪哥打白沙罗收费广场的一条 RFID 出口车道
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MyRFid_Kota_Damansara_Toll_Plaza_1.jpg
 ---
 
 你前方 RFID 车道上的车突然刹停，因为它车头灯上的贴纸没有被侦测到——尽管许多人以为 RFID 代表「完全不需要做任何事」。事实是，马来西亚目前在不同的高速公路上同时运行着至少四代收费技术，而把其中一种误认成另一种，正是车辆卡在闸口的常见原因。

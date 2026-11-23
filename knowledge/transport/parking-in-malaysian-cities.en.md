@@ -29,7 +29,7 @@ faq:
     a: "No. Parking compounds are issued by local authorities (PBT) under road-traffic orders relating to parking, whereas traffic summonses for driving offences are issued by the PDRM or JPJ."
 
 lang: "en"
-sourceContentHash: "fbbc5c9405ba0df6"
+sourceContentHash: "ced4815eca51d2d0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-1.webp
+    alt: A tall concrete multi-storey car park building with open, grille-fronted parking decks stacked over several floors, seen from the street in a Malaysian suburb
+    kind: actual
+    origin: third-party
+    subject: a multi-storey car park building in Taman Segar, Cheras, Kuala Lumpur
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Segar_multi-storey_car_park_(221028).jpg
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-2.webp
+    alt: Several metal no-parking and roadside notice signs mounted close together on poles against a weathered wall along a George Town street
+    kind: actual
+    origin: third-party
+    subject: a cluster of no-parking and roadside parking signs on a street in George Town, Penang
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Still_Life_with_No_Parking_Signs_-_George_Town_-_Penang_-_Malaysia_(35374672612).jpg
 ---
 
 You dig around the car for coins for the ticket machine — but those machines have been gone since 2020. Parking in Malaysia's major cities now starts with a smartphone, not a jar of coins by the roadside.

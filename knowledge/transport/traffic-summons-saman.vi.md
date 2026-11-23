@@ -31,7 +31,7 @@ faq:
     a: "Theo JPJ, thông báo AwAS không được thanh toán trong vòng 60 ngày kể từ ngày nó được cấp có thể dẫn đến hành động của tòa án, với mức phạt từ RM300 đến RM2,000 nếu bị kết tội."
 
 lang: "vi"
-sourceContentHash: "98e5e951fdd86713"
+sourceContentHash: "820eea145d5fc005"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-1.webp
+    alt: Các sĩ quan cảnh sát mặc đồng phục đứng tại một chốt chặn trên đường, kiểm tra các phương tiện khi chúng chạy chậm lại dừng tại trạm kiểm soát
+    kind: actual
+    origin: third-party
+    subject: một chốt chặn của cảnh sát Malaysia nơi các sĩ quan dừng và kiểm tra phương tiện
+    credit: Original uploader (ms.wikipedia) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekatanjalanraya.jpg
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-2.webp
+    alt: Một sĩ quan cảnh sát giao thông Malaysia mặc áo phản quang và đội mũ bảo hiểm đứng trên một con phố thành phố điều phối các phương tiện đi qua
+    kind: actual
+    origin: third-party
+    subject: một sĩ quan cảnh sát giao thông đang làm nhiệm vụ điều khiển giao thông trên một con phố ở Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg
 ---
 
 Một người lái xe có thể nhận bốn loại giấy phạt trông giống nhau trên giấy — nhưng đến từ bốn cơ quan khác nhau, và phải được kiểm tra ở bốn nơi khác nhau. Nhiều người chỉ biết một cổng, rồi tưởng giấy phạt của họ "biến mất" trong khi nó thực ra nằm ở một hệ thống khác.

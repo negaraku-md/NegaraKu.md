@@ -23,7 +23,7 @@ appliesTo: "自分の車でジョホール・シンガポール・コーズウ�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4dfab6647457152e"
+sourceContentHash: "816922553871bb4d"
 
 status: "published"
 aiAssisted: true
@@ -72,6 +72,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-1.webp
+    alt: タンジュン・クパンとトゥアスの間でジョホール海峡をまたぐ、マレーシア・シンガポール第2リンクの道路橋。
+    kind: actual
+    origin: third-party
+    subject: マレーシア・シンガポール第2リンク橋（トゥアス）
+    credit: Nigos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia-Singapore_Second_Link_bridge.jpg
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-2.webp
+    alt: ケダ州のマレーシア・タイ国境、ブキッ・カユ・ヒタム陸路国境への進入路。
+    kind: actual
+    origin: third-party
+    subject: ブキッ・カユ・ヒタム～サダオのマレーシア・タイ国境
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Kayu_Hitam-Sadao_border_crossing_2.jpg
 ---
 
 二つの隣国、二つの陸路国境、そして同じ一台の車が、まったく異なる二つの制度に対応しなければなりません。

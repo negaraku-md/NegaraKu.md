@@ -29,7 +29,7 @@ faq:
     a: "لا. وصلة النقل السريع (RTS Link) خدمة مكوكية قصيرة عابرة للحدود بين جوهور بهرو ووودلاندز، من المستهدف افتتاحها في 2026. أما السكة الحديدية فائقة السرعة فهي خط منفصل فائق السرعة يبلغ طوله نحو 350 كم ومخطط له بين كوالالمبور وسنغافورة."
 
 lang: "ar"
-sourceContentHash: "b505d87f2fe5cea1"
+sourceContentHash: "7905cead6b64344a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-1.webp
+    alt: قطار Taiwan High Speed Rail على رصيف محطة، معروض كمثال على سكة حديد إقليمية فائقة السرعة مماثلة.
+    kind: representative
+    origin: third-party
+    subject: قطار فائق السرعة عامل في المنطقة (Taiwan High Speed Rail)، يمثّل خط HSR المستقبلي بين KL وسنغافورة
+    credit: 4300streetcar / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_639_at_Tainan_HSR_station_May_2025.jpg
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-2.webp
+    alt: قطار Shinkansen فائق السرعة من فئة N700 في محطة Hiroshima في اليابان، معروض كمثال على سكة حديد إقليمية فائقة السرعة مماثلة.
+    kind: representative
+    origin: third-party
+    subject: قطار فائق السرعة عامل في المنطقة (قطار N700 Shinkansen الياباني)، يمثّل خط HSR المستقبلي بين KL وسنغافورة
+    credit: Eric Salard / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shinkansen_N700_at_HIroshima_Station_1_2025-03-27.jpg
 ---
 
 قطار فائق السرعة كان بإمكانه أن ينقلك من كوالالمبور إلى سنغافورة في نحو 90 دقيقة؛ جرى التوقيع عليه، وتعليقه، وإنهاؤه، والرثاء له، ثم إحياؤه — وكل ذلك دون أن يُمدَّ قضيب سكة واحد. وفي ما يلي الموقف الفعلي لهذا المشروع المتأرجح بين الحياة والموت.

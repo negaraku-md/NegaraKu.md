@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/touch-n-go/body-1.webp
+    alt: Tag RFID cermin depan Touch 'n Go di lorong tol, dengan palang lorong dan gantri pembaca RFID di atas pondok tol
+    kind: actual
+    origin: third-party
+    subject: tag RFID Touch 'n Go dibaca di lorong tol MyRFID di Plaza Tol Gombak, Selangor
+    credit: ItsTomato / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg
+  - role: scene
+    src: /media/transport/touch-n-go/body-2.webp
+    alt: Sebaris pintu tambang automatik di pintu masuk stesen kereta api, dengan pembaca kad pada setiap pintu dan ruang legar pusat beli-belah kelihatan di sebalik itu
+    kind: representative
+    origin: third-party
+    subject: pintu tambang di stesen LRT KLCC tempat kad perjalanan seperti Touch 'n Go ditap
+    credit: Fazley Fadzil / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLCC_LRT_station_faregates.jpg
 ---
 
 Ramai orang menyimpan kad Touch 'n Go dalam dompet dan aplikasi Touch 'n Go eWallet dalam telefon, lalu menganggap kedua-duanya ialah benda yang sama dengan dua muka. Ia bukan. Baki dalam kad anda dan baki dalam aplikasi anda disimpan berasingan sepenuhnya — memuat penuh satu tidak menambah sesen pun kepada yang satu lagi. Salah faham ini punca biasa kereta tersekat di gerbang tol kerana pemandu yakin "duit dalam telefon cukup," sedangkan yang dibaca oleh mesin tol ialah kad.

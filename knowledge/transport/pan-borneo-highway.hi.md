@@ -37,7 +37,7 @@ faq:
     a: "Sabah खंड तब बाधित हुआ जब इसकी Project Delivery Partner व्यवस्था 2019 में समाप्त कर दी गई और काम लगभग सितंबर 2020 में फिर शुरू होने से पहले रुक गया। तब से रिपोर्टिंग कई पैकेजों में देरी, भूमि-अधिग्रहण के मुद्दों और बदले हुए अनुबंध मॉडलों की ओर इशारा करती है। Auditor-General ने बताया कि 31 मार्च 2026 तक Sabah Phase 1 के 35 पैकेजों में से केवल चार पूर्ण थे, एक आँकड़ा जिसके बारे में Sabah राज्य सरकार ने कहा कि यह ज़मीनी स्तर पर वास्तविक भौतिक प्रगति को कम करके आँकता है।"
 
 lang: "hi"
-sourceContentHash: "979fd22a197b9634"
+sourceContentHash: "3fa5899226a93a89"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-1.webp
+    alt: ग्रामीण सरवाक में चमकीले आसमान के नीचे हरियाली के बीच बसे एक बहु-लेन राजमार्ग इंटरचेंज का ऊँचा दृश्य, जिसमें मुख्य कैरिजवे से घूमती हुई एग्ज़िट रैंप दूर जाती हैं।
+    kind: actual
+    origin: third-party
+    subject: सरवाक में टोल-मुक्त Pan Borneo Highway पर सिमांगांग (श्री अमान) इंटरचेंज
+    credit: Ago Dagang / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Simanggang_(Sri_Aman)_Interchange,_Pan_Borneo_Sarawak,_Malaysia.png
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-2.webp
+    alt: बादलों भरे बोर्नियो आसमान के नीचे सड़क किनारे के पेड़ों और हरियाली से घिरे समतल ग्रामीण इलाक़े से होकर सीधे आगे जाता तारकोल राजमार्ग का एक लंबा खुला हिस्सा।
+    kind: actual
+    origin: third-party
+    subject: सरवाक में सारिकेई के बाहर सेबांगकोई पार्क के पास Pan Borneo Highway का एक हिस्सा
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg
 ---
 
 मलेशियाई बोर्नियो के अधिकांश इतिहास में, एक कस्बे से अगले कस्बे तक जाने का मतलब था एक सिंगल-लेन ट्रंक सड़क पर धीमी रेंगती यात्रा, जो लॉरियों, लकड़ी-कटाई के यातायात और कभी-कभी बह गए पुल के साथ साझा होती थी। पैन बोर्नियो हाईवे इसे बदलने का प्रयास है: उस ट्रंक सड़क को Sarawak और Sabah की पूरी लंबाई तक जाने वाले एक आधुनिक, अधिकांशतः दोहरी-कैरिजवे संपर्क में बदलने का एक दशक लंबा प्रयास।

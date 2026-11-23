@@ -37,7 +37,7 @@ faq:
     a: "முத்தியாரா பாதை Klang Valley MRT மற்றும் LRT பாதைகளை வழங்கிய அதே கூட்டாரசு இயக்குநர்-உரிமையாளரான MRT Corp-ஆல் இயக்கப்படுகிறது, ஆனால் இது KL அமைப்பின் நீட்டிப்பாக அல்லாமல், Penang-க்கான ஒரு தனி, தனித்த வலையமைப்பு. இது Penang-இன் முதல் நகர்ப்புற ரயில் பாதை, அங்கு பெரும் Kuala Lumpur-இல் ஏற்கனவே பல ஒன்றோடொன்று இணைக்கப்பட்ட MRT, LRT, மோனோரயில் மற்றும் புறநகர் பாதைகள் உள்ளன."
 
 lang: "ta"
-sourceContentHash: "c4429d7b1f425ab5"
+sourceContentHash: "1ae68408360ac651"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Bridge_in_extension.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-1.webp
+    alt: கூரையிட்ட பேருந்து நிலையப் பகுதியில் நிறுத்தப்பட்டுள்ள நீல-வெள்ளை நிற Rapid Penang நகரப் பேருந்து, அதன் வழி எண் முன்புற சேருமிடப் பலகையில் காட்டப்பட்டுள்ளது
+    kind: representative
+    origin: third-party
+    subject: பினாங், ஜார்ஜ் டவுனில் வெல்ட் கீ பேருந்து நிலையத்தில் ஒரு Rapid Penang பொதுப் பேருந்து
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Penang_302_(WB_7691_P)_at_Weld_Quay_Bus_Terminal_(240919).jpg
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-2.webp
+    alt: வண்ணமயமான விளம்பர மூடியுடன் ஒரு நகர இணைப்புப் பேருந்து ஜார்ஜ் டவுன் தெருவோரமாகச் சென்று, கூரையிட்ட சாலையோர பேருந்து நிலையத்தை நெருங்குகிறது
+    kind: representative
+    origin: third-party
+    subject: பினாங், கொம்தார் போக்குவரத்து மையத்தை நெருங்கும் ஒரு ஜார்ஜ் டவுன் தெருவில் இலவச CAT இணைப்புப் பேருந்து
+    credit: Weareblahs / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Free_CAT_Bus_with_Visit_Malaysia_2026_wrapping_approaching_Komtar_II_station.jpg
 ---
 
 கிட்டத்தட்ட ஒரு நூற்றாண்டு காலமாக, Penang-இல் பயணம் செய்வது என்பது கார்கள், பேருந்துகள் மற்றும் நீரிணையைக் கடக்கும் படகு என்று பொருள்பட்டது. ஒரு மேம்பட்ட நகர்ப்புற ரயில் பாதை இதை இறுதியாக மாற்றிவிட முடியும் என்பதுதான் மாநிலத்தின் பந்தயம் - மேலும் இது Penang கண்ட இதுபோன்ற முதல் பாதை.

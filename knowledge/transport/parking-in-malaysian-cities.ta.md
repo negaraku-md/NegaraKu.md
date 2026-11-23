@@ -29,7 +29,7 @@ faq:
     a: "இல்லை. வாகன நிறுத்தக் கம்பவுண்டுகள் வாகன நிறுத்தம் தொடர்பான சாலைப் போக்குவரத்து ஆணைகளின் கீழ் உள்ளூர் அதிகார சபைகளால் (PBT) வழங்கப்படுகின்றன; ஆனால் ஓட்டுநர் குற்றங்களுக்கான போக்குவரத்து சம்மன்கள் PDRM அல்லது JPJ-ஆல் வழங்கப்படுகின்றன."
 
 lang: "ta"
-sourceContentHash: "fbbc5c9405ba0df6"
+sourceContentHash: "ced4815eca51d2d0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-1.webp
+    alt: மலேசியப் புறநகரில் ஒரு தெருவிலிருந்து பார்க்கும்போது, பல மாடிகளாக அடுக்கப்பட்ட திறந்த, கம்பிவலை முன்புற கார் நிறுத்தும் தளங்களுடன் கூடிய உயரமான காங்கிரீட் பல மாடி கார் நிறுத்துமிட கட்டிடம்
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர், செராஸ், தாமான் செகாரில் பல மாடி கார் நிறுத்துமிட கட்டிடம்
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Segar_multi-storey_car_park_(221028).jpg
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-2.webp
+    alt: ஜார்ஜ் டவுன் தெருவோரமாக பழமையான சுவர் முன்பு கம்பங்களில் ஒன்றோடொன்று நெருக்கமாகப் பொருத்தப்பட்டுள்ள பல உலோக வாகனம் நிறுத்த தடை மற்றும் சாலையோர அறிவிப்பு அடையாளப் பலகைகள்
+    kind: actual
+    origin: third-party
+    subject: பினாங், ஜார்ஜ் டவுனில் ஒரு தெருவில் வாகனம் நிறுத்த தடை மற்றும் சாலையோர நிறுத்துமிட அடையாளப் பலகைகளின் கூட்டம்
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Still_Life_with_No_Parking_Signs_-_George_Town_-_Penang_-_Malaysia_(35374672612).jpg
 ---
 
 நீங்கள் டிக்கெட் இயந்திரத்திற்காகக் காரில் நாணயங்களைத் தேடுகிறீர்கள் — ஆனால் அந்த இயந்திரங்கள் 2020 முதலே இல்லாமல் போய்விட்டன. மலேசியாவின் பெரிய நகரங்களில் வாகன நிறுத்தம் இப்போது சாலையோர நாணயக் குவளையிலிருந்து அல்ல, ஸ்மார்ட்போனிலிருந்தே தொடங்குகிறது.

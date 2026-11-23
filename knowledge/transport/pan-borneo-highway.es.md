@@ -37,7 +37,7 @@ faq:
     a: "El tramo de Sabah se vio alterado cuando su acuerdo de Project Delivery Partner se rescindió en 2019 y las obras se interrumpieron antes de reanudarse hacia septiembre de 2020. Lo informado desde entonces apunta a retrasos en muchos paquetes, problemas de expropiación de terrenos y modelos de contrato cambiados. El Auditor-General informó de que solo cuatro de los 35 paquetes de la Phase 1 de Sabah estaban completados a 31 de marzo de 2026, una cifra que el gobierno del estado de Sabah ha dicho que subestima el avance físico real sobre el terreno."
 
 lang: "es"
-sourceContentHash: "979fd22a197b9634"
+sourceContentHash: "3fa5899226a93a89"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-1.webp
+    alt: Una vista elevada de un enlace de autopista de varios carriles con amplios ramales de salida que se curvan alejándose de la calzada principal, entre vegetación verde bajo un cielo luminoso en la Sarawak rural
+    kind: actual
+    origin: third-party
+    subject: el enlace de Simanggang (Sri Aman) en la Pan Borneo Highway, sin peaje, en Sarawak
+    credit: Ago Dagang / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Simanggang_(Sri_Aman)_Interchange,_Pan_Borneo_Sarawak,_Malaysia.png
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-2.webp
+    alt: Un largo tramo abierto de autopista asfaltada que se extiende en línea recta a través de un campo llano, bordeado de árboles y vegetación, bajo un cielo nublado de Borneo
+    kind: actual
+    origin: third-party
+    subject: un tramo de la Pan Borneo Highway cerca de Sebangkoi Park, a las afueras de Sarikei, Sarawak
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg
 ---
 
 Durante la mayor parte de la historia del Borneo malasio, ir de un pueblo al siguiente significaba avanzar a paso de tortuga por una carretera troncal de un solo carril, compartida con camiones, el tráfico de la tala y algún puente arrasado por la crecida. La Pan Borneo Highway es el intento de cambiar eso: un esfuerzo de una década para convertir esa carretera troncal en un enlace moderno, mayoritariamente de calzada doble, que recorre a lo largo Sarawak y Sabah.

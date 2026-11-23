@@ -35,7 +35,7 @@ verificationNeeded:
   - "AirBorneo-இன் தற்போதைய ஊரக விமான சேவை (Rural Air Service) வழித்தட எண்ணிக்கை மற்றும் விமான நிலையப் பட்டியலை AirBorneo அல்லது CAAM-உடன் நேரடியாக உறுதிப்படுத்தவும், ஏனெனில் எழுதப்பட்ட நேரத்தில் MAVCOM-இன் பொது RAS பக்கம் வழித்தட-மட்ட விவரங்களைக் கொண்டிருக்கவில்லை, மேலும் இந்தத் திட்டம் சமீபத்தில் இயக்குநரை மாற்றியுள்ளது."
 
 lang: "ta"
-sourceContentHash: "a8248270057070e4"
+sourceContentHash: "abe52a172e0638cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:ETS_5.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'KTM ETS intercity train at a platform'
+images:
+  - role: scene
+    src: /media/transport/intercity-travel/body-1.webp
+    alt: கோலாலம்பூரின் ஒருங்கிணைந்த விரைவுப் பேருந்து நிலையமான டெர்மினல் பெர்செபாடு செலாத்தானின் விசாலமான நடைமண்டபம்.
+    kind: actual
+    origin: third-party
+    subject: டெர்மினல் பெர்செபாடு செலாத்தான் (TBS) விரைவுப் பேருந்து நிலைய நடைமண்டபம், கோலாலம்பூர்
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terminal_Bersepadu_Selatan_concourse_(211112).jpg
+  - role: scene
+    src: /media/transport/intercity-travel/body-2.webp
+    alt: KTM நகரங்களுக்கிடையேயான ரயில் வலையமைப்பின் மையமான KL Sentral இன் தளத்தில் காத்திருக்கும் ETS நகரங்களுக்கிடையேயான ரயில்.
+    kind: actual
+    origin: third-party
+    subject: KL Sentral இல் KTM நகரங்களுக்கிடையேயான ரயில் தளம்
+    credit: Hiroki.loh.st / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLS_ETS_Platform.jpg
 ---
 
 Kuching-க்கு விமானத்தில் பறக்கவும், Kuantan-க்கு பேருந்தில் செல்லவும்,

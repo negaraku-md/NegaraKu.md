@@ -37,7 +37,7 @@ faq:
     a: "ムティアラ線は、クランバレーのMRT・LRT各線を実現したのと同じ連邦の運営・保有者であるMRT Corpが運営しますが、KLシステムの延伸ではなく、ペナンのための独立した単独の路線網です。グレーター・クアラルンプールにはすでに相互接続したMRT・LRT・モノレール・コミューター各線があるのに対し、これはペナン初の都市鉄道です。"
 
 lang: "ja"
-sourceContentHash: "c4429d7b1f425ab5"
+sourceContentHash: "1ae68408360ac651"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Bridge_in_extension.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-1.webp
+    alt: 屋根付きバスターミナルのバースに停車する青と白のRapid Penangの市内バス。車体前面の行先表示パネルに路線番号が表示されている。
+    kind: representative
+    origin: third-party
+    subject: ペナン・ジョージタウンのWeld Quayバスターミナルに停車するRapid Penangの公共バス
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Penang_302_(WB_7691_P)_at_Weld_Quay_Bus_Terminal_(240919).jpg
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-2.webp
+    alt: 色鮮やかな広告ラッピングをまとった市内シャトルバスが、ジョージタウンの街路を走り、屋根付きの路側バス停に近づいていく。
+    kind: representative
+    origin: third-party
+    subject: Komtar交通ハブに近づく、ジョージタウンの街路を走る無料CATシャトルバス（ペナン）
+    credit: Weareblahs / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Free_CAT_Bus_with_Visit_Malaysia_2026_wrapping_approaching_Komtar_II_station.jpg
 ---
 
 一世紀近くにわたり、ペナンの移動手段は自動車、バス、そして海峡を渡るフェリーだった。ムティアラ線は、高架の都市鉄道がついにそれを変えられるという、この州の賭けである——そしてこれは、ペナンがこれまで一度も持ったことのない、初めての路線でもある。

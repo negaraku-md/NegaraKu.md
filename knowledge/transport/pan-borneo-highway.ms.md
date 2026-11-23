@@ -37,7 +37,7 @@ faq:
     a: "Bahagian Sabah terganggu apabila pengaturan Rakan Penyampaian Projeknya ditamatkan pada 2019 dan kerja terhenti sebelum dimulakan semula sekitar September 2020. Laporan sejak itu menunjukkan kelewatan merentasi banyak pakej, isu pengambilan tanah dan model kontrak yang berubah. Auditor-General melaporkan bahawa hanya empat daripada 35 pakej Fasa 1 Sabah siap menjelang 31 Mac 2026, satu angka yang dikatakan oleh kerajaan negeri Sabah memperkecil kemajuan fizikal sebenar di lapangan."
 
 lang: "ms"
-sourceContentHash: "979fd22a197b9634"
+sourceContentHash: "3fa5899226a93a89"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-1.webp
+    alt: Pemandangan dari atas sebuah pertukaran lebuh raya berbilang lorong dengan jalan keluar melengkung yang menyimpang dari jalan utama, terletak di tengah tumbuhan hijau di bawah langit cerah di luar bandar Sarawak
+    kind: actual
+    origin: third-party
+    subject: pertukaran Simanggang (Sri Aman) di Lebuh Raya Pan Borneo tanpa tol di Sarawak
+    credit: Ago Dagang / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Simanggang_(Sri_Aman)_Interchange,_Pan_Borneo_Sarawak,_Malaysia.png
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-2.webp
+    alt: Satu bahagian panjang dan lapang lebuh raya berturap yang terbentang lurus ke hadapan melalui kawasan luar bandar yang rata, dipagari pokok tepi jalan dan tumbuhan hijau di bawah langit Borneo yang mendung
+    kind: actual
+    origin: third-party
+    subject: satu bahagian Lebuh Raya Pan Borneo berhampiran Taman Sebangkoi di luar Sarikei, Sarawak
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg
 ---
 
 Untuk kebanyakan sejarah Borneo Malaysia, perjalanan dari satu pekan ke pekan seterusnya bermakna merangkak perlahan di sepanjang jalan utama berlorong tunggal, berkongsi dengan lori, trafik pembalakan dan sesekali jambatan yang dihanyutkan air. Lebuhraya Pan Borneo ialah usaha untuk mengubah keadaan itu: usaha selama sedekad untuk menjadikan jalan utama itu pautan moden yang kebanyakannya berkembar membentang di sepanjang Sarawak dan Sabah.

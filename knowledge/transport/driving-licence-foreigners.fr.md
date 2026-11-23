@@ -23,7 +23,7 @@ verificationNeeded:
   - "Cet article ne cite pas le montant exact des frais du cours de catégorie D d'une auto-école privée, ni le barème exact des frais du JPJ pour le parcours LDL/PDL/CDL, car aucune grille tarifaire officielle unique du JPJ n'a été trouvée lors de la vérification — confirmez les frais actuels directement à un guichet du JPJ ou auprès d'une auto-école agréée avant de budgétiser."
   - "La formulation précise de l'article 28 de la loi de 1987 sur les transports routiers (Road Transport Act 1987) a été confirmée au moyen de synthèses secondaires de la loi plutôt que par une lecture directe, ligne par ligne, du PDF hébergé par le JPJ (évitée ici pour maîtriser l'usage du contexte) — le numéro de l'article et son effet de fond sont corroborés par plusieurs sources indépendantes, mais confirmez la formulation exacte sur le PDF de la loi 333 hébergé par le JPJ si vous rédigez un document qui s'appuie juridiquement sur elle."
 lang: "fr"
-sourceContentHash: "137fb2a54b30ed94"
+sourceContentHash: "09bd56292bdc3d67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Bagan_Luar_(Malaysia_Federal_Highway_1),_Butterworth_20250917_103332.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-1.webp
+    alt: Un panneau de signalisation réglementaire malaisien de limitation de hauteur installé au-dessus d'une route de Kuala Lumpur, près de l'approche d'un péage.
+    kind: representative
+    origin: third-party
+    subject: Panneau de signalisation réglementaire malaisien
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Traffic-signs_Regulatory-sign-06.jpg
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-2.webp
+    alt: Des feux de circulation et un marquage au sol le long de la route fédérale 91 de Malaisie, qui file vers le nord à travers Kluang, Johor.
+    kind: actual
+    origin: third-party
+    subject: Autoroute fédérale traversant Kluang, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151005.jpg
 ---
 
 Un retraité du MM2H qui a conduit trente ans à l'étranger, une nouvelle

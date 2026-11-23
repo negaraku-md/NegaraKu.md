@@ -33,7 +33,7 @@ faq:
 
 lang: "fr"
 translationStatus: "in-sync"
-sourceContentHash: "dbccb525d9d4cfdf"
+sourceContentHash: "2aca71ef01ff8e0d"
 masterLanguage: "en"
 
 status: "published"
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_LRT_Station_lift_(211031).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-1.webp
+    alt: Une rangée de dalles podotactiles jaune vif à barres en relief courant le long du bord d'un quai de station de MRT propre pour guider les voyageurs aveugles
+    kind: actual
+    origin: third-party
+    subject: dalles de guidage podotactiles sur le quai de la station de MRT Surian, à Kota Damansara, dans la Klang Valley
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KG_Line_Surian_-_Tactile_Paving.jpg
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-2.webp
+    alt: Un quai de station de MRT large et de plain-pied, doté de portes palières pleine hauteur le long du bord de la voie et d'un revêtement podotactile marquant les zones d'embarquement
+    kind: actual
+    origin: third-party
+    subject: un quai équipé de portes palières à la station de MRT Hospital Kuala Lumpur, dans la Klang Valley
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Kuala_Lumpur_MRT_Station_platform_(230418)_01.jpg
 ---
 
 Pour un usager en fauteuil roulant, le réseau ferroviaire de la vallée de Klang n'est pas un système unique mais plusieurs, construits à des décennies différentes selon des normes très différentes — et c'est la clé pour planifier un bon trajet. La décision la plus utile que vous prenez est **quel mode emprunter** ; ensuite, le trajet réussit ou échoue sur deux choses que les cartes soignées ne vous montrent jamais : **si un ascenseur précis fonctionne le jour même**, et **comment les correspondances se raccordent réellement**. Ce guide porte sur la façon de planifier autour de ces réalités. Ce n'est délibérément *pas* une liste d'accessibilité gare par gare — ces conditions changent plus vite qu'aucun article ne peut suivre — alors, tout au long, traitez ce qui suit comme *ce qu'une gare a été construite pour offrir*, et confirmez l'état actuel auprès de l'exploitant avant de vous y fier.

@@ -31,7 +31,7 @@ faq:
     a: "RM20 per year for EVs rated 50 kW and below, according to JPJ's electric vehicle LKM guidelines. Rates increase progressively for higher power."
 
 lang: "en"
-sourceContentHash: "f81df275bc45182b"
+sourceContentHash: "0ed1327337126c45"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -98,6 +98,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-1.webp
+    alt: A Shell Recharge DC fast-charging bay for electric vehicles at the LDP highway stop in Puchong, Selangor.
+    kind: actual
+    origin: third-party
+    subject: Shell Recharge DC fast-charging station, LDP Puchong South, Malaysia
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Recharge_LDP_Puchong_South.jpg
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-2.webp
+    alt: A blue 2023 BYD Atto 3 electric SUV, a popular Malaysian-market EV, parked in Penang.
+    kind: actual
+    origin: third-party
+    subject: BYD Atto 3 electric SUV in Penang, Malaysia
+    credit: LuvsMG481 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2023_BYD_ATTO_3_Ultra_front.jpg
 ---
 
 The era of free road tax for electric cars in Malaysia is over — but the first bill that lands in your MyJPJ may be cheaper than you think, and it is calculated in an entirely new way.

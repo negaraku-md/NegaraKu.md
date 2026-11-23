@@ -23,7 +23,7 @@ verificationNeeded:
   - "Bài viết này không nêu phí chính xác cho khóa học Hạng D của một trường dạy lái tư nhân, hay biểu phí JPJ chính xác cho lộ trình LDL/PDL/CDL, vì không tìm thấy một bảng phí JPJ chính thức duy nhất nào khi xác minh — hãy xác nhận phí hiện hành trực tiếp tại quầy JPJ hoặc trường dạy lái có giấy phép trước khi lập ngân sách."
   - "Câu chữ chính xác của mục 28 Luật Giao thông Đường bộ 1987 được xác nhận qua các tóm tắt thứ cấp của Luật thay vì đọc trực tiếp từng dòng của PDF do JPJ đăng (được tránh ở đây để kiểm soát việc sử dụng ngữ cảnh) — số mục và hiệu lực thực chất được nhiều nguồn độc lập chứng thực, nhưng hãy xác nhận câu chữ chính xác với PDF Luật 333 do JPJ đăng nếu soạn thảo bất cứ điều gì dựa vào nó về mặt pháp lý."
 lang: "vi"
-sourceContentHash: "137fb2a54b30ed94"
+sourceContentHash: "09bd56292bdc3d67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Bagan_Luar_(Malaysia_Federal_Highway_1),_Butterworth_20250917_103332.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-1.webp
+    alt: Một biển báo quy định giới hạn chiều cao của Malaysia lắp phía trên một con đường ở Kuala Lumpur gần lối vào trạm thu phí.
+    kind: representative
+    origin: third-party
+    subject: Biển báo quy định giao thông Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Traffic-signs_Regulatory-sign-06.jpg
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-2.webp
+    alt: Đèn giao thông và vạch kẻ làn đường dọc theo Tuyến Liên bang 91 của Malaysia chạy về phía bắc qua Kluang, Johor.
+    kind: actual
+    origin: third-party
+    subject: Quốc lộ liên bang đi qua Kluang, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151005.jpg
 ---
 
 Một người về hưu MM2H đã lái xe suốt ba mươi năm ở nước ngoài, một nhân sự Giấy phép Việc làm mới

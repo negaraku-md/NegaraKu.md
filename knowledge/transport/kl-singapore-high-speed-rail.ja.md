@@ -29,7 +29,7 @@ faq:
     a: "いいえ。RTSリンクはジョホールバルとウッドランズを結ぶ短距離の越境シャトルで、2026年の開業を目指しています。HSRは、クアラルンプールとシンガポールの間に計画されている、約350kmの別個の高速鉄道路線です。"
 
 lang: "ja"
-sourceContentHash: "b505d87f2fe5cea1"
+sourceContentHash: "7905cead6b64344a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-1.webp
+    alt: 駅のプラットホームに停車する台湾高速鉄道の編成車両。比較対象となる地域の高速鉄道として示したもの。
+    kind: representative
+    origin: third-party
+    subject: 地域で運行中の高速列車（台湾高速鉄道）。将来のクアラルンプール・シンガポールHSRを表すもの
+    credit: 4300streetcar / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_639_at_Tainan_HSR_station_May_2025.jpg
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-2.webp
+    alt: 日本の広島駅に停車するN700系新幹線の高速列車。比較対象となる地域の高速鉄道として示したもの。
+    kind: representative
+    origin: third-party
+    subject: 地域で運行中の高速列車（日本のN700系新幹線）。将来のクアラルンプール・シンガポールHSRを表すもの
+    credit: Eric Salard / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shinkansen_N700_at_HIroshima_Station_1_2025-03-27.jpg
 ---
 
 クアラルンプールからシンガポールまでを約90分で運んでくれるはずの弾丸列車は、署名され、凍結され、中止され、惜しまれ、そして復活した——線路がただの一本も敷かれないうちに、である。この、やったりやめたりを繰り返してきた計画が実際にどこまで進んでいるのかを、ここで整理する。

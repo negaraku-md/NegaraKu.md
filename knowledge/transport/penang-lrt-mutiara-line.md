@@ -104,6 +104,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Bridge_in_extension.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-1.webp
+    alt: A blue-and-white Rapid Penang city bus parked at a covered bus terminal bay, with its route number displayed on the front destination panel
+    kind: representative
+    origin: third-party
+    subject: a Rapid Penang public bus at Weld Quay Bus Terminal in George Town, Penang
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Penang_302_(WB_7691_P)_at_Weld_Quay_Bus_Terminal_(240919).jpg
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-2.webp
+    alt: A city shuttle bus in a colourful advertising wrap driving along a George Town street, approaching a covered roadside bus station
+    kind: representative
+    origin: third-party
+    subject: a free CAT shuttle bus on a George Town street approaching the Komtar transport hub in Penang
+    credit: Weareblahs / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Free_CAT_Bus_with_Visit_Malaysia_2026_wrapping_approaching_Komtar_II_station.jpg
 ---
 
 For the better part of a century, getting around Penang has meant cars, buses and the ferry across the strait. The Mutiara Line is the state's bet that an elevated urban railway can finally change that - and it is the first of its kind Penang has ever had.

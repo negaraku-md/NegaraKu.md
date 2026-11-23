@@ -35,7 +35,7 @@ verificationNeeded:
   - "ยืนยันจำนวนเส้นทางบริการทางอากาศชนบทและรายการสนามบินปัจจุบันของ AirBorneo โดยตรงกับ AirBorneo หรือ CAAM เนื่องจากหน้า RAS สาธารณะของ MAVCOM ไม่มีรายละเอียดระดับเส้นทางในเวลาที่เขียน และโครงการเพิ่งเปลี่ยนผู้ให้บริการ"
 
 lang: "th"
-sourceContentHash: "a8248270057070e4"
+sourceContentHash: "abe52a172e0638cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:ETS_5.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'KTM ETS intercity train at a platform'
+images:
+  - role: scene
+    src: /media/transport/intercity-travel/body-1.webp
+    alt: โถงผู้โดยสารกว้างขวางของTerminal Bersepadu Selatan สถานีขนส่งรถบัสด่วนแบบบูรณาการของกัวลาลัมเปอร์
+    kind: actual
+    origin: third-party
+    subject: โถงสถานีขนส่งรถบัสด่วนTerminal Bersepadu Selatan (TBS) กัวลาลัมเปอร์
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terminal_Bersepadu_Selatan_concourse_(211112).jpg
+  - role: scene
+    src: /media/transport/intercity-travel/body-2.webp
+    alt: รถไฟระหว่างเมืองETSจอดรออยู่ที่ชานชาลาของKL Sentral ศูนย์กลางเครือข่ายรถไฟระหว่างเมืองของKTM
+    kind: actual
+    origin: third-party
+    subject: ชานชาลารถไฟระหว่างเมืองKTMที่KL Sentral
+    credit: Hiroki.loh.st / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLS_ETS_Platform.jpg
 ---
 
 บินไปกูชิง (Kuching) นั่งรถประจำทางไปกวนตัน (Kuantan) หรือขึ้นรถไฟไป Butterworth — สามการเดินทางภายในประเทศเดียวกันที่ทำงานในสามวิธีที่แตกต่างกันโดยสิ้นเชิง มาเลเซียไม่มีระบบ "การเดินทางระหว่างเมือง" เพียงหนึ่งเดียว แต่มีเครือข่ายคู่ขนานสามเครือข่าย และนักเดินทางจะเลือกใช้เครือข่ายใดขึ้นอยู่กับว่าเริ่มต้นจากที่ไหนและมุ่งหน้าไปที่ใดโดยสิ้นเชิง

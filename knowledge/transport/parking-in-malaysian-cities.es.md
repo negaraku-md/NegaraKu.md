@@ -29,7 +29,7 @@ faq:
     a: "No. Las multas de composición por aparcamiento las emiten las autoridades locales (PBT) en virtud de órdenes de tráfico vial relativas al aparcamiento, mientras que las citaciones de tráfico por infracciones de conducción las emiten la PDRM o el JPJ."
 
 lang: "es"
-sourceContentHash: "fbbc5c9405ba0df6"
+sourceContentHash: "ced4815eca51d2d0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-1.webp
+    alt: Un alto edificio de aparcamiento de hormigón de varias plantas, con niveles de estacionamiento abiertos de fachada enrejada apilados en varios pisos, visto desde la calle en un barrio periférico de Malasia
+    kind: actual
+    origin: third-party
+    subject: un edificio de aparcamiento de varias plantas en Taman Segar, Cheras, Kuala Lumpur
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Segar_multi-storey_car_park_(221028).jpg
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-2.webp
+    alt: Varias señales metálicas de prohibido aparcar y avisos de estacionamiento montadas muy juntas en postes frente a un muro desgastado a lo largo de una calle de George Town
+    kind: actual
+    origin: third-party
+    subject: un grupo de señales de prohibido aparcar y de estacionamiento en una calle de George Town, Penang
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Still_Life_with_No_Parking_Signs_-_George_Town_-_Penang_-_Malaysia_(35374672612).jpg
 ---
 
 Rebuscas monedas en el coche para la máquina expendedora de tiques, pero esas máquinas desaparecieron en 2020. Aparcar en las grandes ciudades de Malasia ahora empieza con un smartphone, no con un frasco de monedas al borde de la carretera.

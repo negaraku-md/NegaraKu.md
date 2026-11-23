@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Propriétaires et conducteurs de véhicules à moteur en Malaisie — voitures, motos et véhicules commerciaux — qui veulent comprendre les types de garantie d'assurance et les exigences légales."
 
 lang: "fr"
-sourceContentHash: "b169a3f86c365797"
+sourceContentHash: "cddc90636ecec6f8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,6 +70,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motor-insurance/body-1.webp
+    alt: Une dépanneuse urbaine bleue à Kuala Lumpur, du type qui remorque les véhicules après une panne ou un accident.
+    kind: actual
+    origin: third-party
+    subject: Dépanneuse à Kuala Lumpur, Malaisie
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Tow-truck-01.jpg
+  - role: scene
+    src: /media/transport/motor-insurance/body-2.webp
+    alt: Des voitures pare-chocs contre pare-chocs dans un embouteillage en soirée sur Jalan Bundusan, à Kota Kinabalu, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Embouteillage en soirée sur une route urbaine, Kota Kinabalu, Sabah
+    credit: rahimhd / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Bundusan_5pm_Traffic_Jam_towards_Beverley_Roundabout_-_panoramio.jpg
 ---
 
 Vous pouvez légalement conduire une voiture qui n'a jamais été lavée, dont les pneus sont usés et la climatisation en panne. Mais conduire sans un seul bout de papier — une police d'assurance au tiers — est une infraction pénale.

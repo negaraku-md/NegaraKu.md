@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Cư dân, nhà quy hoạch, và bất kỳ ai so sánh khả năng đi bộ và hạ tầng đạp xe của các thành phố Malaysia với các quốc gia khác."
 
 lang: "vi"
-sourceContentHash: "3d0d276aec4c1fe4"
+sourceContentHash: "3b5dac078c53a6a4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cycling_and_Jogging_Track_in_Phase_3_of_PIIP.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/cycling-and-walkability/body-1.webp
+    alt: Một lối đi chung đã lát cho xe đạp và người đi bộ chạy dọc theo một con đường chính đông đúc ở George Town, Penang.
+    kind: actual
+    origin: third-party
+    subject: Lối đi chung cho xe đạp và người đi bộ ở George Town, Penang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shared_pedestrian_and_bicycle_path_next_to_major_road_in_George_Town,_Penang_-_53829115437.jpg
+  - role: scene
+    src: /media/transport/cycling-and-walkability/body-2.webp
+    alt: Một lối đi bộ rộng có mái che với cây xanh dọc hai bên bên cạnh Jalan Tun Razak ở trung tâm Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Lối đi bộ Jalan Tun Razak ở Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Tun_Razak_Pedestrian_Walkway_(211031).jpg
 ---
 
 Bước ra khỏi một ga LRT ở Thung lũng Klang lúc 1 giờ chiều và cố đi bộ

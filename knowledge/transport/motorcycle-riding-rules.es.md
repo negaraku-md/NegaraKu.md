@@ -29,7 +29,7 @@ faq:
     a: "A fecha de publicación, no hay ninguna restricción de cilindrada en vigor; las propuestas de limitar el acceso a las autopistas según la cilindrada aún no se han convertido en ley."
 
 lang: "es"
-sourceContentHash: "1c36a26778aafc7e"
+sourceContentHash: "b693cfa123085cc9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motorcycle-riding-rules/body-1.webp
+    alt: Un carril segregado para motocicletas que discurre junto a la carretera principal, cerca de la plaza de peaje de Sungai Petani Utara, en Kedah.
+    kind: actual
+    origin: third-party
+    subject: Carril exclusivo para motocicletas cerca del peaje de Sungai Petani Utara, Kedah
+    credit: Lawantetaplawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Motorcycle_lane_Sungai_Petani_Utara.jpg
+  - role: scene
+    src: /media/transport/motorcycle-riding-rules/body-2.webp
+    alt: Una hilera de motocicletas y scooters aparcados a lo largo de una calle de Little India, George Town, que refleja el intenso uso de los vehículos de dos ruedas en Malasia.
+    kind: representative
+    origin: third-party
+    subject: Motocicletas y scooters alineados en una calle de George Town, Penang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_with_motorcycle_and_scooter_parking_in_Little_India_in_George_Town,_Penang_-_53830462000.jpg
 ---
 
 Entras a la Federal Highway en una motocicleta, ves una señal de «Motorcycle Lane» (carril de motocicletas) que se desvía hacia la izquierda, y te preguntas si estás obligado a seguirla o si puedes permanecer en la calzada principal. La respuesta depende de una sola palabra: *publicado en la gaceta*.

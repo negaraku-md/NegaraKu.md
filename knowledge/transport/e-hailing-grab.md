@@ -77,6 +77,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_Electric_(Grab_Car)_near_Soekarno-Hatta_International_Airport.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-1.webp
+    alt: A sedan wrapped in green Grab ride-hailing livery and Malaysian flags drives along a street in Kota Kinabalu, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Grab-liveried car in Kota Kinabalu, Sabah
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_01.jpg
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-2.webp
+    alt: A Grab-branded contingent marching in the 2023 National Day parade in Kota Kinabalu, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Grab contingent at a National Day parade in Kota Kinabalu
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_03.jpg
 ---
 
 Open Grab, or Bolt, or inDrive, in Kuala Lumpur and tap "book". Nothing about

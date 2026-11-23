@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "เจ้าของและผู้ขับขี่ยานยนต์ในมาเลเซีย — รถยนต์ รถจักรยานยนต์ และยานพาหนะเชิงพาณิชย์ — ที่ต้องการเข้าใจประเภทความคุ้มครองประกันภัยและข้อกำหนดทางกฎหมาย"
 
 lang: "th"
-sourceContentHash: "b169a3f86c365797"
+sourceContentHash: "cddc90636ecec6f8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,6 +70,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motor-insurance/body-1.webp
+    alt: รถลากจูงในเมืองสีน้ำเงินในกัวลาลัมเปอร์ ชนิดที่ไปกู้รถหลังเสียหรือเกิดอุบัติเหตุ
+    kind: actual
+    origin: third-party
+    subject: รถลากจูงในกัวลาลัมเปอร์ มาเลเซีย
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Tow-truck-01.jpg
+  - role: scene
+    src: /media/transport/motor-insurance/body-2.webp
+    alt: รถติดหนึบต่อท้ายกันในช่วงเย็นบนถนนจาลันบุนดูซันในโกตากีนาบาลู รัฐซาบาห์
+    kind: actual
+    origin: third-party
+    subject: รถติดช่วงเย็นบนถนนในเมืองโกตากีนาบาลู รัฐซาบาห์
+    credit: rahimhd / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Bundusan_5pm_Traffic_Jam_towards_Beverley_Roundabout_-_panoramio.jpg
 ---
 
 คุณสามารถขับรถที่ไม่เคยล้าง ยางสึกหรอ และเครื่องปรับอากาศเสียได้ — และทั้งหมดนั้นถูกกฎหมาย แต่การขับรถโดยไม่มีกระดาษแผ่นหนึ่ง นั่นคือกรมธรรม์ประกันภัยบุคคลที่สาม เป็นความผิดทางอาญา

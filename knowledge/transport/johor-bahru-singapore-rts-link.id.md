@@ -37,7 +37,7 @@ faq:
     a: "Causeway dan Second Link adalah penyeberangan jalan untuk mobil, bus, sepeda motor dan truk; RTS Link adalah shuttle kereta penumpang khusus yang dimaksudkan untuk meringankannya. Kereta Cepat (HSR) KL-Singapura yang terpisah adalah jalur antarkota yang jauh lebih panjang, dan berulang kali ditangguhkan, antara Kuala Lumpur dan Singapura - proyek berbeda pada skala berbeda. RTS Link juga diperkirakan akan menggantikan kereta KTM Shuttle Tebrau yang pendek begitu beroperasi."
 
 lang: "id"
-sourceContentHash: "10e2e01e7527794c"
+sourceContentHash: "b670ec71614d4b5a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,6 +104,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru-Singapore_RTS_Link_Bridge_2025.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-1.webp
+    alt: Stasiun RTS Link Bukit Chagar yang mulai terbentuk dalam tahap pembangunan di Johor Bahru.
+    kind: actual
+    origin: third-party
+    subject: Stasiun terminus RTS Link Bukit Chagar dalam pembangunan, Johor Bahru
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Chagar_RTS_station_under_construction_20230606_142119.jpg
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-2.webp
+    alt: Satu rangkaian kereta api CRRC Zhuzhou untuk RTS Link Johor Bahru-Singapura saat uji coba jalan.
+    kind: actual
+    origin: third-party
+    subject: Rangkaian kereta CRRC RTS Link dalam uji coba jalan
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru%E2%80%93Singapore_RTS_Link_CRRC_Zhuzhou_rolling_stock_on_trial_070626.jpg
 ---
 
 Setiap hari kerja, puluhan ribu orang merangkak menyeberangi Causeway Johor-Singapura - salah satu perbatasan darat paling sibuk di dunia - dengan mobil, bus dan sepeda motor, sering mengantre satu jam atau lebih. RTS Link adalah taruhan kedua pemerintah bahwa sebuah kereta pendek, bukan jalan yang lebih lebar, adalah cara memecah kemacetan itu.

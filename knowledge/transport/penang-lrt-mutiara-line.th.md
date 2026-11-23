@@ -37,7 +37,7 @@ faq:
     a: "เส้นทาง Mutiara บริหารโดยผู้ดำเนินการและเจ้าของระดับรัฐบาลกลางรายเดียวกันคือ MRT Corp ที่ส่งมอบเส้นทาง MRT และ LRT ในหุบเขากลัง แต่เป็นโครงข่ายแยกอิสระสำหรับปีนัง ไม่ใช่ส่วนต่อขยายของระบบในกัวลาลัมเปอร์ เป็นเส้นทางรถไฟในเมืองสายแรกของปีนัง ขณะที่มหานครกัวลาลัมเปอร์มีเส้นทาง MRT, LRT, โมโนเรล และรถไฟชานเมืองที่เชื่อมโยงกันหลายสายอยู่แล้ว"
 
 lang: "th"
-sourceContentHash: "c4429d7b1f425ab5"
+sourceContentHash: "1ae68408360ac651"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Bridge_in_extension.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-1.webp
+    alt: รถเมล์ในเมืองRapid Penangสีน้ำเงินขาวจอดอยู่ที่ช่องจอดของสถานีขนส่งมีหลังคา โดยมีหมายเลขเส้นทางแสดงบนแผงบอกปลายทางด้านหน้า
+    kind: representative
+    origin: third-party
+    subject: รถเมล์สาธารณะRapid Penangที่สถานีขนส่งเวลด์คีย์ในจอร์จทาวน์ ปีนัง
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Penang_302_(WB_7691_P)_at_Weld_Quay_Bus_Terminal_(240919).jpg
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-2.webp
+    alt: รถเมล์รับส่งในเมืองหุ้มโฆษณาสีสันสดใสแล่นไปตามถนนในจอร์จทาวน์ มุ่งหน้าสู่สถานีรถเมล์ริมถนนมีหลังคา
+    kind: representative
+    origin: third-party
+    subject: รถเมล์รับส่งCATฟรีบนถนนจอร์จทาวน์มุ่งหน้าสู่ศูนย์คมนาคมคอมตาร์ในปีนัง
+    credit: Weareblahs / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Free_CAT_Bus_with_Visit_Malaysia_2026_wrapping_approaching_Komtar_II_station.jpg
 ---
 
 ตลอดเกือบศตวรรษที่ผ่านมา การเดินทางในปีนังหมายถึงรถยนต์ รถโดยสาร และเรือเฟอร์รีข้ามช่องแคบ เส้นทาง Mutiara คือการเดิมพันของรัฐว่าทางรถไฟในเมืองแบบยกระดับจะเปลี่ยนสิ่งนั้นได้ในที่สุด - และมันเป็นสิ่งแรกในประเภทนี้ที่ปีนังเคยมี

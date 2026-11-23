@@ -24,7 +24,7 @@ verificationNeeded:
   - "특정 운전자 요건(예: 최소 연령)이 적용되는지 여부는 JPJ 또는 개별 전자호출 운영자에게 확인해야 합니다. 참조한 공식 페이지에서 확인 가능한 형태로 명시되지 않았기 때문입니다"
 
 lang: "ko"
-sourceContentHash: "10f57c7f87a7c675"
+sourceContentHash: "c1424578e868876a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_Electric_(Grab_Car)_near_Soekarno-Hatta_International_Airport.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-1.webp
+    alt: 초록색 Grab 차량 호출 래핑과 말레이시아 국기를 두른 세단이 사바주 코타키나발루의 거리를 달린다.
+    kind: actual
+    origin: third-party
+    subject: 사바주 코타키나발루의 Grab 래핑 차량
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_01.jpg
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-2.webp
+    alt: 사바주 코타키나발루의 2023년 국경일 퍼레이드에서 행진하는 Grab 브랜드 행렬.
+    kind: actual
+    origin: third-party
+    subject: 코타키나발루 국경일 퍼레이드의 Grab 행렬
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_03.jpg
 ---
 
 쿠알라룸푸르에서 그랩(Grab)이나 볼트(Bolt), 또는 인드라이브(inDrive)를 열고

@@ -35,7 +35,7 @@ verificationNeeded:
   - "Confirm AirBorneo's current Rural Air Service route count and airport list directly with AirBorneo or CAAM, since MAVCOM's public RAS page did not carry route-level detail at the time of writing and the programme has recently changed operator."
 
 lang: "es"
-sourceContentHash: "a8248270057070e4"
+sourceContentHash: "abe52a172e0638cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:ETS_5.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'KTM ETS intercity train at a platform'
+images:
+  - role: scene
+    src: /media/transport/intercity-travel/body-1.webp
+    alt: El amplio vestíbulo de la Terminal Bersepadu Selatan, la terminal integrada de autobuses exprés de Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Vestíbulo de la terminal de autobuses exprés Terminal Bersepadu Selatan (TBS), Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terminal_Bersepadu_Selatan_concourse_(211112).jpg
+  - role: scene
+    src: /media/transport/intercity-travel/body-2.webp
+    alt: Un tren interurbano ETS esperando en un andén de KL Sentral, el eje de la red ferroviaria interurbana de KTM.
+    kind: actual
+    origin: third-party
+    subject: Andén de tren interurbano de KTM en KL Sentral
+    credit: Hiroki.loh.st / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLS_ETS_Platform.jpg
 ---
 
 Vuele a Kuching, tome un autobús a Kuantan o coja un tren a Butterworth —

@@ -31,7 +31,7 @@ faq:
     a: "RM20 في السنة للمركبات الكهربائية المصنّفة بقدرة 50 kW فما دون، بحسب إرشادات رسم رخصة المركبة (LKM) للمركبات الكهربائية الصادرة عن JPJ. وترتفع الأسعار تصاعديًا للقدرات الأعلى."
 
 lang: "ar"
-sourceContentHash: "f81df275bc45182b"
+sourceContentHash: "0ed1327337126c45"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-1.webp
+    alt: موقف شحن سريع Shell Recharge DC للمركبات الكهربائية في محطة طريق LDP السريع في Puchong، Selangor.
+    kind: actual
+    origin: third-party
+    subject: محطة شحن سريع Shell Recharge DC، LDP Puchong South، ماليزيا
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Recharge_LDP_Puchong_South.jpg
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-2.webp
+    alt: سيارة BYD Atto 3 كهربائية زرقاء من فئة SUV طراز 2023، وهي سيارة كهربائية رائجة في السوق الماليزية، متوقفة في Penang.
+    kind: actual
+    origin: third-party
+    subject: سيارة BYD Atto 3 الكهربائية من فئة SUV في Penang، ماليزيا
+    credit: LuvsMG481 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2023_BYD_ATTO_3_Ultra_front.jpg
 ---
 
 انتهى عصر ضريبة الطرق المجانية للسيارات الكهربائية في ماليزيا — لكن أول فاتورة تصلك على MyJPJ قد تكون أرخص مما تظن، وتُحسب بطريقة جديدة كليًا.

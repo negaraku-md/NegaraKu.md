@@ -37,7 +37,7 @@ faq:
     a: "تعطَّل قطاع Sabah عندما أُنهي ترتيب Project Delivery Partner الخاص به في 2019 وتوقف العمل قبل أن يُستأنف نحو سبتمبر 2020. وتشير التقارير منذ ذلك الحين إلى تأخيرات في حزم كثيرة، ومشكلات استملاك أراضٍ، ونماذج عقود متغيرة. وأفاد Auditor-General بأن أربع حزم فقط من أصل 35 حزمة في Sabah Phase 1 اكتملت بحلول 31 مارس 2026، وهو رقم قالت حكومة ولاية Sabah إنه يقلِّل من التقدم المادي الفعلي على أرض الواقع."
 
 lang: "ar"
-sourceContentHash: "979fd22a197b9634"
+sourceContentHash: "3fa5899226a93a89"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-1.webp
+    alt: منظر علوي لتقاطع طريق سريع متعدد المسارات بمنحدرات خروج منحنية تبتعد عن الطريق الرئيسي، وسط نباتات خضراء تحت سماء مشرقة في ريف Sarawak
+    kind: actual
+    origin: third-party
+    subject: تقاطع Simanggang (Sri Aman) على طريق Pan Borneo Highway المجاني من الرسوم في Sarawak
+    credit: Ago Dagang / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Simanggang_(Sri_Aman)_Interchange,_Pan_Borneo_Sarawak,_Malaysia.png
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-2.webp
+    alt: مقطع طويل ومفتوح من طريق إسفلتي يمتد مستقيمًا عبر ريف منبسط تحفّه أشجار ومساحات خضراء على جانبيه تحت سماء Borneo الملبّدة بالغيوم
+    kind: actual
+    origin: third-party
+    subject: مقطع من طريق Pan Borneo Highway قرب Sebangkoi Park خارج Sarikei، Sarawak
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg
 ---
 
 على مدى معظم تاريخ بورنيو الماليزية، كان الانتقال من بلدة إلى أخرى يعني زحفاً بطيئاً على طريق جذعي بمسار واحد، يُتقاسَم مع الشاحنات وحركة قطع الأشجار وجسر يجرفه الماء بين الحين والآخر. وطريق بان بورنيو السريع هو المحاولة لتغيير ذلك: جهد يمتد عقداً لتحويل ذلك الطريق الجذعي إلى رابط حديث معظمه ازدواجي يمتد على طول Sarawak وSabah.

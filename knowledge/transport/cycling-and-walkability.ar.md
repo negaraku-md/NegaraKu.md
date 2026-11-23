@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "السكان والمخططون وكل من يقارن قابلية المشي وبنية ركوب الدراجات في المدن الماليزية بالدول الأخرى."
 
 lang: "ar"
-sourceContentHash: "3d0d276aec4c1fe4"
+sourceContentHash: "3b5dac078c53a6a4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cycling_and_Jogging_Track_in_Phase_3_of_PIIP.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/cycling-and-walkability/body-1.webp
+    alt: مسار مشترك معبّد للدراجات والمشي يمتد بمحاذاة طريق رئيسي مزدحم في George Town، Penang.
+    kind: actual
+    origin: third-party
+    subject: مسار مشترك للدراجات والمشاة في George Town، Penang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shared_pedestrian_and_bicycle_path_next_to_major_road_in_George_Town,_Penang_-_53829115437.jpg
+  - role: scene
+    src: /media/transport/cycling-and-walkability/body-2.webp
+    alt: ممر واسع ومسقوف للمشاة تحفّه المساحات الخضراء بجانب Jalan Tun Razak في وسط Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: ممر المشاة في Jalan Tun Razak في Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Tun_Razak_Pedestrian_Walkway_(211031).jpg
 ---
 
 اخرج من محطة LRT في وادي كلانغ عند الساعة الواحدة ظهراً وحاول أن تمشي

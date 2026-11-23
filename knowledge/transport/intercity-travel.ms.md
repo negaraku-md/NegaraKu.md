@@ -35,7 +35,7 @@ verificationNeeded:
   - "Sahkan bilangan laluan Rural Air Service semasa AirBorneo dan senarai lapangan terbangnya terus dengan AirBorneo atau CAAM, memandangkan laman RAS awam MAVCOM tidak membawa butiran peringkat laluan pada masa penulisan ini dan program itu baru sahaja bertukar pengendali."
 
 lang: "ms"
-sourceContentHash: "a8248270057070e4"
+sourceContentHash: "abe52a172e0638cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:ETS_5.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'KTM ETS intercity train at a platform'
+images:
+  - role: scene
+    src: /media/transport/intercity-travel/body-1.webp
+    alt: Ruang legar luas Terminal Bersepadu Selatan, terminal bas ekspres bersepadu Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Konkors terminal bas ekspres Terminal Bersepadu Selatan (TBS), Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terminal_Bersepadu_Selatan_concourse_(211112).jpg
+  - role: scene
+    src: /media/transport/intercity-travel/body-2.webp
+    alt: Sebuah kereta api antara bandar ETS menunggu di platform KL Sentral, hab rangkaian kereta api antara bandar KTM.
+    kind: actual
+    origin: third-party
+    subject: Platform kereta api antara bandar KTM di KL Sentral
+    credit: Hiroki.loh.st / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLS_ETS_Platform.jpg
 ---
 
 Terbang ke Kuching, naik bas ke Kuantan, atau naik kereta api ke Butterworth —

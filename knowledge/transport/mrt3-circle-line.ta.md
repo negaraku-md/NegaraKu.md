@@ -78,7 +78,27 @@ sources:
     url: "https://paultan.org/2025/07/18/mrt3-is-a-go-51-6-km-circle-line-approved-by-transport-ministry-land-acquisition-is-the-next-step/"
     publisher: "Paul Tan's Automotive News"
   - title: "MRT3 - ஒரு விலையுயர்ந்த தேவையா? (MRT3 - a costly necessity?)"
-    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3---a-costly-necessity"
+    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3
+images:
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-1.webp
+    alt: தற்போதைய MRT காஜாங் வழியில் புக்கிட் பிந்தாங்கில் உள்ள நிலத்தடித் தளம், கிள்ளாங் பள்ளத்தாக்கு MRT நிலையங்களைப் பிரதிநிதித்துவப்படுத்துகிறது.
+    kind: representative
+    origin: third-party
+    subject: புக்கிட் பிந்தாங்கில் உள்ள தற்போதைய கிள்ளாங் பள்ளத்தாக்கு MRT (காஜாங் வழி) நிலத்தடித் தளம்
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBK_Line_Bukit_Bintang_Station_Platform_1_1.jpg
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-2.webp
+    alt: கோலாலம்பூரில் ஜாலான் இப்போ வானளாவிய காட்சியைக் கடந்து செல்லும் உயர்த்தப்பட்ட மேம்பாலத்தில் ஒரு புத்ராஜெயா வழி MRT ரயில்.
+    kind: representative
+    origin: third-party
+    subject: கோலாலம்பூருக்கு மேலே உயர்த்தப்பட்ட கிள்ளாங் பள்ளத்தாக்கு MRT (புத்ராஜெயா வழி) மேம்பாலம்
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Ipoh_Skyline_with_Putrajaya_Line_train_from_Batu_Kentonmen_KTM_Station_(220714).jpg
+---a-costly-necessity"
     publisher: "The Star"
   - title: "MRT3-இன் RM31 பில்லியன் கட்டுமானச் செலவு கவனத்தில் (MRT3's RM31 bil construction price tag in the spotlight)"
     url: "https://theedgemalaysia.com/article/mrt3s-rm31-bil-construction-price-tag-spotlight"

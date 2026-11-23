@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Chủ và người lái phương tiện cơ giới ở Malaysia — ô tô, xe máy và phương tiện thương mại — muốn hiểu các loại bảo vệ bảo hiểm và yêu cầu pháp lý của chúng."
 
 lang: "vi"
-sourceContentHash: "b169a3f86c365797"
+sourceContentHash: "cddc90636ecec6f8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,6 +70,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motor-insurance/body-1.webp
+    alt: Một chiếc xe cứu hộ màu xanh trong thành phố Kuala Lumpur, loại dùng để kéo xe sau khi hỏng hóc hoặc tai nạn.
+    kind: actual
+    origin: third-party
+    subject: Xe cứu hộ ở Kuala Lumpur, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Tow-truck-01.jpg
+  - role: scene
+    src: /media/transport/motor-insurance/body-2.webp
+    alt: Những chiếc xe nối đuôi nhau sát nhau trong cảnh kẹt xe buổi tối trên Jalan Bundusan ở Kota Kinabalu, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Cảnh kẹt xe buổi tối trên một con đường thành phố, Kota Kinabalu, Sabah
+    credit: rahimhd / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Bundusan_5pm_Traffic_Jam_towards_Beverley_Roundabout_-_panoramio.jpg
 ---
 
 Bạn có thể lái một chiếc xe chưa bao giờ được rửa, lốp mòn và điều hòa hỏng — và tất cả điều đó đều hợp pháp. Nhưng lái xe mà không có một tờ giấy, tức là một hợp đồng bảo hiểm bên thứ ba, là một hành vi phạm tội.

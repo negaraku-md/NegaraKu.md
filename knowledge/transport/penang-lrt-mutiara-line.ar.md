@@ -37,7 +37,7 @@ faq:
     a: "يُشغَّل خط Mutiara Line من المالك-المشغّل الفيدرالي نفسه، MRT Corp، الذي نفّذ خطوط MRT وLRT في وادي كلانغ، لكنه شبكة منفصلة قائمة بذاتها لـ Penang وليست امتداداً لنظام كوالالمبور. وهو أول خط سككي حضري في Penang، في حين تملك كوالالمبور الكبرى بالفعل عدّة خطوط MRT وLRT ومونوريل وقطارات ضواحٍ مترابطة."
 
 lang: "ar"
-sourceContentHash: "c4429d7b1f425ab5"
+sourceContentHash: "1ae68408360ac651"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Bridge_in_extension.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-1.webp
+    alt: حافلة مدينة زرقاء وبيضاء من Rapid Penang متوقفة في رصيف محطة حافلات مسقوف، مع ظهور رقم خطّها على لوحة الوجهة الأمامية
+    kind: representative
+    origin: third-party
+    subject: حافلة عامة من Rapid Penang في محطة حافلات Weld Quay في George Town، Penang
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Penang_302_(WB_7691_P)_at_Weld_Quay_Bus_Terminal_(240919).jpg
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-2.webp
+    alt: حافلة نقل مكوكية للمدينة بغلاف إعلاني ملوّن تسير في شارع بـ George Town مقتربةً من محطة حافلات مسقوفة على جانب الطريق
+    kind: representative
+    origin: third-party
+    subject: حافلة نقل مكوكية CAT مجانية في شارع بـ George Town تقترب من مركز Komtar للمواصلات في Penang
+    credit: Weareblahs / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Free_CAT_Bus_with_Visit_Malaysia_2026_wrapping_approaching_Komtar_II_station.jpg
 ---
 
 على مدى ما يقارب قرناً من الزمن، كان التنقّل في Penang يعني السيارات والحافلات والعبّارة عبر المضيق. وخط Mutiara Line هو رهان الولاية على أن سكة حديدية حضرية مرتفعة قادرة أخيراً على تغيير ذلك — وهو أول خط من نوعه عرفته Penang على الإطلاق.

@@ -30,7 +30,7 @@ faq:
     a: "نعم، إذا أردت استخدام ميزة الشحن عبر NFC. ويتضمن التسجيل التحقق من الهوية (KYC) بحيث يرتبط رصيد البطاقة بحساب eWallet الخاص بك — وهذا يضيف أيضًا طبقة حماية إذا فُقدت البطاقة، مقارنةً ببطاقة غير مسجَّلة يمكن لمن يعثر عليها استخدام رصيدها."
 
 lang: "ar"
-sourceContentHash: "1ad968acdf06922a"
+sourceContentHash: "fec1fd46480da9c3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/touch-n-go/body-1.webp
+    alt: بطاقة Touch 'n Go من نوع RFID على الزجاج الأمامي في مسار رسوم، مع حاجز المسار وبوابة قارئ RFID علوية عند كشك الرسوم
+    kind: actual
+    origin: third-party
+    subject: قراءة بطاقة Touch 'n Go بتقنية RFID في مسار رسوم MyRFID بساحة رسوم Gombak، Selangor
+    credit: ItsTomato / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg
+  - role: scene
+    src: /media/transport/touch-n-go/body-2.webp
+    alt: صف من بوابات التذاكر الآلية عند مدخل محطة قطار، مع قارئات بطاقات على كل بوابة وبهو مركز تسوّق يظهر خلفها
+    kind: representative
+    origin: third-party
+    subject: بوابات التذاكر في محطة KLCC LRT حيث تُمرَّر بطاقات السفر مثل Touch 'n Go
+    credit: Fazley Fadzil / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLCC_LRT_station_faregates.jpg
 ---
 
 يحتفظ كثيرون ببطاقة Touch 'n Go في محفظتهم وبتطبيق Touch 'n Go eWallet على هاتفهم، ويفترضون أن الاثنين هما الشيء نفسه بوجهين. وهما ليسا كذلك. فالرصيد في بطاقتك والرصيد في تطبيقك يُحفظان منفصلين تمامًا — وشحن أحدهما بالكامل لا يضيف سنتًا واحدًا إلى الآخر. وهذا الالتباس سبب شائع لتعطّل السيارات عند بوابات الرسوم لأن السائق واثق من أن «المال في الهاتف كافٍ»، في حين أن ما تقرأه آلة الرسوم فعلًا هو البطاقة.

@@ -33,7 +33,7 @@ faq:
 
 lang: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "dbccb525d9d4cfdf"
+sourceContentHash: "2aca71ef01ff8e0d"
 masterLanguage: "en"
 
 status: "published"
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_LRT_Station_lift_(211031).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-1.webp
+    alt: 一排亮黄色、带凸起条纹的触觉引导地砖，沿着整洁的 MRT 车站月台边缘铺设，为视障乘客引路。
+    kind: actual
+    origin: third-party
+    subject: 巴生谷 Surian MRT 车站（哥打白沙罗）月台上的触觉导盲砖
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KG_Line_Surian_-_Tactile_Paving.jpg
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-2.webp
+    alt: 一个宽敞、平坦的 MRT 车站月台，轨道边缘设有通顶式月台屏蔽门，触觉地砖标示出上下车区域。
+    kind: actual
+    origin: third-party
+    subject: 巴生谷吉隆坡医院 MRT 车站设有月台屏蔽门的月台
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Kuala_Lumpur_MRT_Station_platform_(230418)_01.jpg
 ---
 
 对轮椅使用者来说，巴生谷的铁路网不是一套系统，而是好几套——在不同年代、按差别很大的标准建成——而这正是规划一趟顺利行程的关键。你做的最有用的单一决定，就是**选用哪一种列车模式**；在那之后，行程的成败取决于那些光鲜地图从不告诉你的两件事：**某一部具体的电梯在当天是否在运作**，以及**换乘实际上是怎么衔接的**。本指南谈的是如何围绕这些现实来规划。它刻意*不是*一份逐站的无障碍清单——那些状况变化的速度，比任何文章能跟上的都快——所以通篇请把下文当作*一座车站按设计应提供的东西*，在依赖它之前向运营者查证当前的实际状况。

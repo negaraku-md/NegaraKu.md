@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 2.5 my'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_showroom_in_SS14,_Subang_Jaya.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/buying-a-car/body-1.webp
+    alt: New Perodua cars lined up under bright lights inside a Perodua brand showroom in Penang, Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Perodua dealership showroom in Penang
+    credit: Bindydad123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Showroom,_Penang,_Malaysia_(1).jpg
+  - role: scene
+    src: /media/transport/buying-a-car/body-2.webp
+    alt: A black Proton Perdana sedan, a Malaysian-made national-brand car, parked on a street in Shah Alam, Selangor.
+    kind: actual
+    origin: third-party
+    subject: Proton Perdana sedan in Shah Alam
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2014_Proton_Perdana_2.4P_in_Shah_Alam,_Malaysia_(01).jpg
 ---
 
 Buy a car in Malaysia and you sign one deal, but you actually enter three separate relationships at once: one with whoever sold you the car, one with whoever is financing it, and one with JPJ, the department that decides whose name is actually on the vehicle. Miss a step in any of the three, and the car you paid for is legally still not fully yours.

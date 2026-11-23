@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "코즈웨이(Causeway)나 세컨드 링크(Second Link)를 통해 싱가포르로, 또는 북부 육상 국경을 통해 태국으로 자기 차량을 운전해 넘어가려는 말레이시아 운전자."
 
 lang: "ko"
-sourceContentHash: "4dfab6647457152e"
+sourceContentHash: "816922553871bb4d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -73,6 +73,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-1.webp
+    alt: 탄중 쿠팡과 투아스 사이로 조호르 해협을 가로지르는 말레이시아-싱가포르 제2연결교 도로 교량.
+    kind: actual
+    origin: third-party
+    subject: 말레이시아-싱가포르 제2연결교(투아스)
+    credit: Nigos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia-Singapore_Second_Link_bridge.jpg
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-2.webp
+    alt: 케다주의 말레이시아-태국 국경에 있는 부킷 카유 히탐 육로 통관소로 향하는 진입로.
+    kind: actual
+    origin: third-party
+    subject: 부킷 카유 히탐-사다오 말레이시아-태국 국경 통관소
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Kayu_Hitam-Sadao_border_crossing_2.jpg
 ---
 
 이웃 나라 둘, 육상 국경 둘, 같은 차량에 대한 완전히 다른 두 개의 체계.

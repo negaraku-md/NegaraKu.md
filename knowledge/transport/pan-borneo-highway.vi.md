@@ -37,7 +37,7 @@ faq:
     a: "Đoạn Sabah bị gián đoạn khi thỏa thuận Project Delivery Partner bị chấm dứt vào năm 2019 và công việc bị gián đoạn trước khi khởi động lại vào khoảng tháng 9 năm 2020. Các báo cáo kể từ đó chỉ ra sự chậm trễ ở nhiều gói, các vấn đề thu hồi đất và các mô hình hợp đồng thay đổi. Auditor-General báo cáo rằng chỉ có bốn trong 35 gói của Sabah Phase 1 hoàn thành tính đến ngày 31 tháng 3 năm 2026, một con số mà chính quyền bang Sabah cho rằng đã đánh giá thấp tiến độ vật lý thực tế trên thực địa."
 
 lang: "vi"
-sourceContentHash: "979fd22a197b9634"
+sourceContentHash: "3fa5899226a93a89"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-1.webp
+    alt: Góc nhìn từ trên cao của một nút giao cao tốc nhiều làn với các đường nhánh cong uốn lượn tách khỏi tuyến đường chính, nằm giữa thảm thực vật xanh dưới bầu trời quang đãng ở vùng nông thôn Sarawak
+    kind: actual
+    origin: third-party
+    subject: nút giao Simanggang (Sri Aman) trên Cao tốc Pan Borneo miễn phí ở Sarawak
+    credit: Ago Dagang / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Simanggang_(Sri_Aman)_Interchange,_Pan_Borneo_Sarawak,_Malaysia.png
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-2.webp
+    alt: Một đoạn đường cao tốc trải nhựa dài và thoáng chạy thẳng về phía trước qua vùng nông thôn bằng phẳng, hai bên là hàng cây ven đường và cây xanh dưới bầu trời Borneo nhiều mây
+    kind: actual
+    origin: third-party
+    subject: một đoạn của Cao tốc Pan Borneo gần Công viên Sebangkoi bên ngoài Sarikei, Sarawak
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg
 ---
 
 Trong phần lớn lịch sử Borneo thuộc Malaysia, đi từ thị trấn này sang thị trấn kế tiếp đồng nghĩa với việc bò chậm chạp trên một tuyến đường trục một làn, dùng chung với xe tải, dòng xe khai thác gỗ và thỉnh thoảng một cây cầu bị nước cuốn trôi. Đường cao tốc Liên Borneo là nỗ lực thay đổi điều đó: một nỗ lực kéo dài một thập niên nhằm biến tuyến đường trục ấy thành một liên kết hiện đại, phần lớn là đường đôi, chạy dọc chiều dài Sarawak và Sabah.

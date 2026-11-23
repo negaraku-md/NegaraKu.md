@@ -30,7 +30,7 @@ faq:
     a: "கடன் காலம் முழுவதும் Hire-Purchase Act 1967 இன் கீழ் வங்கி அல்லது நிதி நிறுவனம் வாகனத்தின் சட்டப்பூர்வ உரிமையாளராகப் பதிவு செய்யப்படுகிறது. வாங்குபவர் வாகனத்தின் அன்றாடப் பயன்பாட்டைக் கொண்ட பதிவு செய்யப்பட்ட வைத்திருப்பவர்; கடன் முழுமையாகத் தீர்க்கப்பட்டு நிதியளிப்பாளர் விடுவிப்பு வழங்கிய பிறகுதான் பதிவு செய்யப்பட்ட உரிமையாளராகிறார்."
 
 lang: "ta"
-sourceContentHash: "1e94499e976a5044"
+sourceContentHash: "dc8862cd8ffc9b3c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 2.5 my'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_showroom_in_SS14,_Subang_Jaya.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/buying-a-car/body-1.webp
+    alt: மலேசியாவின் பினாங்கில் உள்ள Perodua நிறுவனக் காட்சியறைக்குள் பிரகாசமான விளக்குகளுக்குக் கீழே வரிசையாக நிறுத்தப்பட்டுள்ள புதிய Perodua கார்கள்.
+    kind: actual
+    origin: third-party
+    subject: பினாங்கில் உள்ள Perodua விற்பனையகக் காட்சியறை
+    credit: Bindydad123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Showroom,_Penang,_Malaysia_(1).jpg
+  - role: scene
+    src: /media/transport/buying-a-car/body-2.webp
+    alt: மலேசியாவில் தயாரிக்கப்பட்ட தேசிய நிறுவனக் காரான கறுப்பு நிற Proton Perdana சேடான், செலாங்கூரின் ஷா ஆலத்தில் ஒரு தெருவில் நிறுத்தப்பட்டுள்ளது.
+    kind: actual
+    origin: third-party
+    subject: ஷா ஆலத்தில் Proton Perdana சேடான்
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2014_Proton_Perdana_2.4P_in_Shah_Alam,_Malaysia_(01).jpg
 ---
 
 மலேசியாவில் ஒரு காரை வாங்குங்கள், நீங்கள் ஒரே ஒப்பந்தத்தில் கையெழுத்திடுகிறீர்கள், ஆனால் உண்மையில் ஒரே நேரத்தில் மூன்று தனித்தனி உறவுகளுக்குள் நுழைகிறீர்கள்: உங்களுக்குக் காரை விற்றவருடன் ஒன்று, அதற்கு நிதியளிப்பவருடன் ஒன்று, மேலும் வாகனம் யாருடைய பெயரில் உள்ளது என்பதைத் தீர்மானிக்கும் துறையான JPJ உடன் ஒன்று. இம்மூன்றில் ஏதேனும் ஒன்றில் ஒரு படிநிலையைத் தவறவிட்டால், நீங்கள் பணம் செலுத்திய கார் சட்டப்படி இன்னும் முழுமையாக உங்களுடையதாகாது.

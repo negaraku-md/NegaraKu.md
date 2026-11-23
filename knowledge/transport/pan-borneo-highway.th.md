@@ -37,7 +37,7 @@ faq:
     a: "ช่วง Sabah ถูกรบกวนเมื่อข้อตกลง Project Delivery Partner ถูกยุติในปี 2019 และงานหยุดชะงักก่อนจะเริ่มใหม่ราวเดือนกันยายน 2020 การรายงานนับแต่นั้นชี้ไปที่ความล่าช้าในหลายแพ็กเกจ ปัญหาการเวนคืนที่ดิน และโมเดลสัญญาที่เปลี่ยนไป Auditor-General รายงานว่าภายในวันที่ 31 มีนาคม 2026 มีเพียง 4 จาก 35 แพ็กเกจของ Sabah Phase 1 ที่เสร็จ ซึ่งเป็นตัวเลขที่รัฐบาลรัฐ Sabah ระบุว่าประเมินความคืบหน้าทางกายภาพจริงในพื้นที่ต่ำเกินไป"
 
 lang: "th"
-sourceContentHash: "979fd22a197b9634"
+sourceContentHash: "3fa5899226a93a89"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-1.webp
+    alt: มุมมองจากที่สูงของทางแยกต่างระดับหลายช่องทางที่มีทางลงโค้งกว้างแยกออกจากช่องทางหลัก ตั้งอยู่ท่ามกลางพืชพรรณเขียวขจีใต้ท้องฟ้าสดใสในชนบทของรัฐซาราวัก
+    kind: actual
+    origin: third-party
+    subject: ทางแยกต่างระดับสิมังกัง (ซรีอามาน) บนทางหลวงแพนบอร์เนียวที่ไม่มีค่าผ่านทางในรัฐซาราวัก
+    credit: Ago Dagang / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Simanggang_(Sri_Aman)_Interchange,_Pan_Borneo_Sarawak,_Malaysia.png
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-2.webp
+    alt: ช่วงถนนลาดยางที่เปิดโล่งยาวทอดตรงไปข้างหน้าผ่านชนบทที่ราบเรียบ สองข้างทางเรียงรายด้วยต้นไม้และความเขียวขจีใต้ท้องฟ้ามีเมฆของบอร์เนียว
+    kind: actual
+    origin: third-party
+    subject: ช่วงหนึ่งของทางหลวงแพนบอร์เนียวใกล้สวนเซอบังคอยนอกเมืองซาริเก รัฐซาราวัก
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg
 ---
 
 ตลอดประวัติศาสตร์ส่วนใหญ่ของบอร์เนียวมาเลเซีย การเดินทางจากเมืองหนึ่งไปอีกเมืองหนึ่งหมายถึงการคลานไปอย่างช้า ๆ บนถนนสายหลักเลนเดียว ร่วมกับรถบรรทุก การจราจรของการทำไม้ และสะพานที่ถูกน้ำพัดพังเป็นครั้งคราว ทางหลวงแพน-บอร์เนียวคือความพยายามที่จะเปลี่ยนสิ่งนั้น: ความพยายามยาวนานหนึ่งทศวรรษที่จะเปลี่ยนถนนสายหลักนั้นให้เป็นเส้นทางเชื่อมที่ทันสมัยและส่วนใหญ่คู่ขนานแยกทิศทาง ทอดยาวตลอด Sarawak และ Sabah

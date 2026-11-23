@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Automovilistas malasios que planean conducir su propio coche a través del Causeway o el Second Link hacia Singapur, o a través de la frontera terrestre del norte hacia Tailandia."
 
 lang: "es"
-sourceContentHash: "4dfab6647457152e"
+sourceContentHash: "816922553871bb4d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-1.webp
+    alt: El puente de carretera del Second Link entre Malasia y Singapur que cruza el estrecho de Johor entre Tanjung Kupang y Tuas.
+    kind: actual
+    origin: third-party
+    subject: Puente del Second Link Malasia-Singapur (Tuas)
+    credit: Nigos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia-Singapore_Second_Link_bridge.jpg
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-2.webp
+    alt: El acceso por carretera al paso terrestre de Bukit Kayu Hitam en la frontera entre Malasia y Tailandia, en Kedah.
+    kind: actual
+    origin: third-party
+    subject: Paso fronterizo Malasia-Tailandia de Bukit Kayu Hitam-Sadao
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Kayu_Hitam-Sadao_border_crossing_2.jpg
 ---
 
 Dos vecinos, dos fronteras terrestres, dos sistemas completamente distintos para el mismo coche.

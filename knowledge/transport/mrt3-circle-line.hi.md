@@ -78,7 +78,27 @@ sources:
     url: "https://paultan.org/2025/07/18/mrt3-is-a-go-51-6-km-circle-line-approved-by-transport-ministry-land-acquisition-is-the-next-step/"
     publisher: "Paul Tan's Automotive News"
   - title: "MRT3 - एक महँगी ज़रूरत? (MRT3 - a costly necessity?)"
-    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3---a-costly-necessity"
+    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3
+images:
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-1.webp
+    alt: मौजूदा MRT काजांग लाइन पर बुकिट बिंतांग का भूमिगत प्लेटफ़ॉर्म, जो क्लांग वैली MRT स्टेशनों का प्रतिनिधि है।
+    kind: representative
+    origin: third-party
+    subject: बुकिट बिंतांग पर मौजूदा क्लांग वैली MRT (काजांग लाइन) का भूमिगत प्लेटफ़ॉर्म
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBK_Line_Bukit_Bintang_Station_Platform_1_1.jpg
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-2.webp
+    alt: कुआलालंपुर में जालान इपोह के क्षितिज को काटते हुए एक ऊँचे वायाडक्ट पर पुत्राजया लाइन की MRT ट्रेन।
+    kind: representative
+    origin: third-party
+    subject: कुआलालंपुर के ऊपर ऊँचा क्लांग वैली MRT (पुत्राजया लाइन) वायाडक्ट
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Ipoh_Skyline_with_Putrajaya_Line_train_from_Batu_Kentonmen_KTM_Station_(220714).jpg
+---a-costly-necessity"
     publisher: "The Star"
   - title: "MRT3 की RM31 बिलियन निर्माण-लागत सुर्खियों में (MRT3's RM31 bil construction price tag in the spotlight)"
     url: "https://theedgemalaysia.com/article/mrt3s-rm31-bil-construction-price-tag-spotlight"

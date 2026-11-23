@@ -69,6 +69,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motor-insurance/body-1.webp
+    alt: Sebuah trak tunda bandar berwarna biru di Kuala Lumpur, jenis yang menarik kenderaan selepas rosak atau kemalangan.
+    kind: actual
+    origin: third-party
+    subject: Trak tunda di Kuala Lumpur, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Tow-truck-01.jpg
+  - role: scene
+    src: /media/transport/motor-insurance/body-2.webp
+    alt: Kereta bersesak-sesak dalam kesesakan lalu lintas waktu petang di Jalan Bundusan di Kota Kinabalu, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Kesesakan lalu lintas pada waktu petang di jalan bandar, Kota Kinabalu, Sabah
+    credit: rahimhd / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Bundusan_5pm_Traffic_Jam_towards_Beverley_Roundabout_-_panoramio.jpg
 ---
 
 Anda boleh memandu kereta yang tidak pernah dibasuh, bertayar haus dan berhawa dingin rosak — dan itu semua sah di sisi undang-undang. Tetapi memandu tanpa satu keping kertas, iaitu polisi insurans pihak ketiga, adalah kesalahan jenayah.

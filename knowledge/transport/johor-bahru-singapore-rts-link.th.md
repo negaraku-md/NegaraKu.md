@@ -37,7 +37,7 @@ faq:
     a: "Causeway และ Second Link เป็นทางข้ามถนนสำหรับรถยนต์ รถบัส มอเตอร์ไซค์ และรถบรรทุก ส่วน RTS Link เป็นรถไฟรับส่งผู้โดยสารเฉพาะที่มุ่งช่วยคลายความแออัดให้แก่ทั้งสอง รถไฟความเร็วสูง (HSR) KL–สิงคโปร์ ที่แยกต่างหากเป็นเส้นทางระหว่างเมืองที่ยาวกว่ามากและถูกพักโครงการซ้ำแล้วซ้ำเล่า ระหว่าง Kuala Lumpur กับ Singapore - เป็นคนละโครงการในคนละขนาด RTS Link ยังคาดว่าจะมาแทนที่รถไฟ KTM Shuttle Tebrau ระยะสั้นเมื่อเปิดให้บริการ"
 
 lang: "th"
-sourceContentHash: "10e2e01e7527794c"
+sourceContentHash: "b670ec71614d4b5a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,6 +104,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru-Singapore_RTS_Link_Bridge_2025.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-1.webp
+    alt: สถานีปลายทางRTS Linkบูกิตชาการ์กำลังก่อตัวขึ้นระหว่างการก่อสร้างในยะโฮร์บาห์รู
+    kind: actual
+    origin: third-party
+    subject: สถานีปลายทางRTS Linkบูกิตชาการ์ระหว่างก่อสร้าง ยะโฮร์บาห์รู
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Chagar_RTS_station_under_construction_20230606_142119.jpg
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-2.webp
+    alt: ขบวนรถไฟCRRC ZhuzhouสำหรับRTS Linkยะโฮร์บาห์รู-สิงคโปร์ระหว่างการวิ่งทดสอบ
+    kind: actual
+    origin: third-party
+    subject: ขบวนรถไฟCRRCของRTS Linkระหว่างวิ่งทดสอบ
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru%E2%80%93Singapore_RTS_Link_CRRC_Zhuzhou_rolling_stock_on_trial_070626.jpg
 ---
 
 ทุกวันทำงาน ผู้คนหลายหมื่นคนค่อย ๆ คืบข้าม Causeway ยะโฮร์–สิงคโปร์ - หนึ่งในพรมแดนทางบกที่พลุกพล่านที่สุดในโลก - ด้วยรถยนต์ รถบัส และมอเตอร์ไซค์ บ่อยครั้งต้องต่อแถวนานเป็นชั่วโมงหรือมากกว่า RTS Link คือการเดิมพันของรัฐบาลทั้งสองประเทศว่ารถไฟสายสั้น ไม่ใช่ถนนที่กว้างขึ้น คือหนทางทลายการติดขัดนั้น

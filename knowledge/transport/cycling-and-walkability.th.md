@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "ผู้อยู่อาศัย นักวางผัง และผู้ที่เปรียบเทียบความสามารถในการเดินและโครงสร้างพื้นฐานการปั่นจักรยานของเมืองในมาเลเซียกับประเทศอื่น"
 
 lang: "th"
-sourceContentHash: "3d0d276aec4c1fe4"
+sourceContentHash: "3b5dac078c53a6a4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cycling_and_Jogging_Track_in_Phase_3_of_PIIP.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/cycling-and-walkability/body-1.webp
+    alt: ทางปูสำหรับปั่นจักรยานและเดินร่วมกันทอดยาวเลียบถนนสายหลักที่พลุกพล่านในจอร์จทาวน์ ปีนัง
+    kind: actual
+    origin: third-party
+    subject: ทางจักรยานและทางเดินร่วมในจอร์จทาวน์ ปีนัง
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shared_pedestrian_and_bicycle_path_next_to_major_road_in_George_Town,_Penang_-_53829115437.jpg
+  - role: scene
+    src: /media/transport/cycling-and-walkability/body-2.webp
+    alt: ทางเดินเท้ามีหลังคากว้างขวางประดับด้วยต้นไม้เขียวขจีเลียบถนนจาลันตุนราซัคใจกลางกัวลาลัมเปอร์
+    kind: actual
+    origin: third-party
+    subject: ทางเดินเท้าจาลันตุนราซัคในกัวลาลัมเปอร์
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Tun_Razak_Pedestrian_Walkway_(211031).jpg
 ---
 
 ก้าวออกจากสถานี LRT ในหุบเขากลังตอนบ่ายโมงและลองเดินระยะ 500 เมตรสุดท้ายไปยังที่ทำงานของคุณ มีความเป็นไปได้สูงที่ทางเท้าจะสิ้นสุดลงเฉย ๆ กลางช่วงถนน ตรงคูระบายน้ำ และยังมีความเป็นไปได้สูงที่แสงแดดจะทำให้คำถามนี้ไร้ความหมายก่อนที่คุณจะเดินไปได้ร้อยเมตรของระยะทางนั้นด้วยซ้ำ

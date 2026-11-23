@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "75160a6ad518e3c0"
+sourceContentHash: "2ec5d899e37f88a7"
 
 status: "published"
 aiAssisted: true
@@ -81,6 +81,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Jaya_Driving_School.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-malaysians/body-1.webp
+    alt: The entrance and waiting area of the Road Transport Department (JPJ) branch at Bandar Tasik Selatan, Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: JPJ (Road Transport Department) branch office, Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_Selatan_(260912).jpg
+  - role: scene
+    src: /media/transport/driving-licence-malaysians/body-2.webp
+    alt: A multi-lane traffic roundabout with signposts at Rawang, Selangor, a manoeuvre every learner driver must master.
+    kind: representative
+    origin: third-party
+    subject: Roundabout at Rawang, Selangor
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bulatan_Rawang_(230130)_01.jpg
 ---
 
 Most people treat "driving licence" as a single document. It is actually

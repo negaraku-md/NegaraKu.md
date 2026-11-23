@@ -27,7 +27,7 @@ faq:
     a: "विद्युत साइकिल को छूट केवल तभी है जब वह पैडल-सहायता वाले प्रकार की हो जो मलेशियाई मानक MS2514 के अनुरूप हो, जिसमें थ्रॉटल न हो, और जिसके पैडल स्थायी रूप से जुड़े रहें। थ्रॉटल-युक्त एक अस्वीकृत विद्युत साइकिल को PMD या मोपेड के रूप में वर्गीकृत किया जाता है और वह प्रतिबंधित है।"
 
 lang: "hi"
-sourceContentHash: "c96ca2ea918ba45a"
+sourceContentHash: "44f0de24063adf5d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,6 +81,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-1.webp
+    alt: कुआलालंपुर में Merdeka MRT स्टेशन के पास एक होटल के बगल में माइक्रोमोबिलिटी बे पर खड़ा एक साझा Beam ई-स्कूटर।
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर में Merdeka MRT के पास साझा Beam ई-स्कूटर पार्किंग
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BEAM_e-scooter_Hotel_Olympic.jpg
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-2.webp
+    alt: जोहोर के बातु पाहत में Taman Rekreasi Tasik Y के एक रास्ते पर खड़ा एक बैंगनी साझा Beam Mobility ई-स्कूटर।
+    kind: actual
+    origin: third-party
+    subject: बातु पाहत, जोहोर में एक झील किनारे पार्क में साझा Beam ई-स्कूटर
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg
 ---
 
 आप दफ़्तर पहुँचने के लिए एक ई-स्कूटर खरीदते हैं, पर जिस क्षण उसके पहिये किसी सार्वजनिक सड़क

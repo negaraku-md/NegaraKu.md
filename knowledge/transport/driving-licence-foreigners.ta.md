@@ -23,7 +23,7 @@ verificationNeeded:
   - "இந்தக் கட்டுரை ஒரு தனியார் ஓட்டுநர் பள்ளியின் Class D பாடத்திற்கான சரியான கட்டணத்தையோ, LDL/PDL/CDL பாதைக்கான சரியான JPJ கட்டணப் பட்டியலையோ மேற்கோள் காட்டவில்லை, ஏனெனில் சரிபார்ப்பின் போது ஒரே அதிகாரப்பூர்வ JPJ கட்டண அட்டவணை எதுவும் கிடைக்கவில்லை — வரவு செலவைத் திட்டமிடுவதற்கு முன், நடப்புக் கட்டணங்களை நேரடியாக JPJ கவுண்டரிலோ அல்லது உரிமம் பெற்ற ஓட்டுநர் பள்ளியிலோ உறுதிப்படுத்தவும்."
   - "Road Transport Act 1987 இன் section 28 இன் துல்லியமான வார்த்தையமைப்பு, JPJ இல் இணைக்கப்பட்ட PDF இன் வரிக்கு வரி நேரடி வாசிப்பின் மூலம் அல்லாமல், அந்தச் சட்டத்தின் இரண்டாம் நிலைச் சுருக்கங்கள் வழியாக உறுதிப்படுத்தப்பட்டது (சூழல் பயன்பாட்டைக் கட்டுப்படுத்த இங்கு தவிர்க்கப்பட்டது) — பிரிவு எண்ணும் அதன் சாராம்ச விளைவும் பல தனித்தனி ஆதாரங்களில் ஊர்ஜிதப்படுத்தப்படுகின்றன, ஆனால் அதன் மீது சட்டரீதியான நம்பகத்தன்மையுடன் எதையேனும் எழுதுவதாயின் JPJ இல் இணைக்கப்பட்ட Act 333 PDF உடன் துல்லியமான வார்த்தையமைப்பை உறுதிப்படுத்தவும்."
 lang: "ta"
-sourceContentHash: "137fb2a54b30ed94"
+sourceContentHash: "09bd56292bdc3d67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Bagan_Luar_(Malaysia_Federal_Highway_1),_Butterworth_20250917_103332.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-1.webp
+    alt: கோலாலம்பூரில் சுங்கச்சாவடி நுழைவுப் பகுதிக்கு அருகே ஒரு சாலைக்கு மேலே பொருத்தப்பட்டுள்ள மலேசிய உயர வரம்பு ஒழுங்குமுறை சாலை அடையாளப் பலகை.
+    kind: representative
+    origin: third-party
+    subject: மலேசிய சாலை ஒழுங்குமுறை அடையாளப் பலகை
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Traffic-signs_Regulatory-sign-06.jpg
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-2.webp
+    alt: ஜொகூரின் க்லுவாங் வழியாக வடக்கே செல்லும் மலேசிய கூட்டாட்சி சாலை 91 இல் உள்ள போக்குவரத்து விளக்குகளும் பாதை அடையாளக் கோடுகளும்.
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர், க்லுவாங் வழியாகச் செல்லும் கூட்டாட்சி நெடுஞ்சாலை
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151005.jpg
 ---
 
 முப்பது ஆண்டுகளாக வெளிநாட்டில் வாகனம் ஓட்டிய ஒரு MM2H ஓய்வுபெற்றவர், கியர்

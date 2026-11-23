@@ -29,7 +29,7 @@ faq:
     a: "ณ เวลาที่เผยแพร่ ไม่มีข้อจำกัดความจุเครื่องยนต์ที่มีผลบังคับใช้ ข้อเสนอที่จะจำกัดการเข้าถึงทางด่วนตามความจุเครื่องยนต์ยังไม่ได้กลายเป็นกฎหมาย"
 
 lang: "th"
-sourceContentHash: "1c36a26778aafc7e"
+sourceContentHash: "b693cfa123085cc9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motorcycle-riding-rules/body-1.webp
+    alt: ช่องทางมอเตอร์ไซค์แยกต่างหากทอดยาวเลียบถนนสายหลักใกล้ด่านเก็บเงินซุงไงเปตานีเหนือในรัฐเกดะห์
+    kind: actual
+    origin: third-party
+    subject: ช่องทางมอเตอร์ไซค์โดยเฉพาะใกล้ด่านซุงไงเปตานีเหนือ รัฐเกดะห์
+    credit: Lawantetaplawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Motorcycle_lane_Sungai_Petani_Utara.jpg
+  - role: scene
+    src: /media/transport/motorcycle-riding-rules/body-2.webp
+    alt: มอเตอร์ไซค์และสกู๊ตเตอร์จอดเรียงรายตลอดถนนในย่านลิตเติลอินเดีย จอร์จทาวน์ สะท้อนการใช้ยานยนต์สองล้ออย่างหนาแน่นในมาเลเซีย
+    kind: representative
+    origin: third-party
+    subject: มอเตอร์ไซค์และสกู๊ตเตอร์เรียงรายตลอดถนนในจอร์จทาวน์ ปีนัง
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_with_motorcycle_and_scooter_parking_in_Little_India_in_George_Town,_Penang_-_53830462000.jpg
 ---
 
 คุณขี่รถจักรยานยนต์เข้าสู่ Lebuhraya Persekutuan เห็นป้าย "ช่องทางรถจักรยานยนต์" แยกไปทางซ้าย — และสงสัยว่าคุณต้องตามไปหรือสามารถอยู่บนช่องทางหลักต่อไปได้ คำตอบขึ้นอยู่กับคำเดียว: *ประกาศในราชกิจจานุเบกษา*

@@ -37,7 +37,7 @@ faq:
     a: "Causeway மற்றும் Second Link என்பவை கார், பேருந்து, மோட்டார் சைக்கிள் மற்றும் லாரிகளுக்கான சாலைக் கடப்புகள்; RTS இணைப்பு அவற்றைத் தணிக்கும் நோக்குடைய ஒரு தனித்த பயணிகள் ரயில் சட்டில். தனியான KL–சிங்கப்பூர் அதிவேக ரயில் (HSR) என்பது Kuala Lumpur-க்கும் Singapore-க்கும் இடையேயான மிக நீளமான, திரும்பத் திரும்ப ஒத்திவைக்கப்பட்ட நகரங்களுக்கிடையேயான வழித்தடம் - வேறு அளவில் உள்ள வேறு திட்டம். RTS இணைப்பு இயங்கத் தொடங்கியவுடன் குறுகிய KTM Shuttle Tebrau ரயிலை மாற்றவும் எதிர்பார்க்கப்படுகிறது."
 
 lang: "ta"
-sourceContentHash: "10e2e01e7527794c"
+sourceContentHash: "b670ec71614d4b5a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,6 +104,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru-Singapore_RTS_Link_Bridge_2025.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-1.webp
+    alt: ஜொகூர் பாருவில் கட்டுமானத்தில் உருவாகி வரும் புக்கிட் சாகார் RTS Link நிலையம்.
+    kind: actual
+    origin: third-party
+    subject: கட்டுமானத்தில் உள்ள புக்கிட் சாகார் RTS Link முனைய நிலையம், ஜொகூர் பாரு
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Chagar_RTS_station_under_construction_20230606_142119.jpg
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-2.webp
+    alt: சோதனை ஓட்டத்தின் போது ஜொகூர் பாரு-சிங்கப்பூர் RTS Link க்கான CRRC Zhuzhou ரயில் தொகுதி.
+    kind: actual
+    origin: third-party
+    subject: சோதனை ஓட்டத்தில் RTS Link CRRC ரயில் தொகுதி
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru%E2%80%93Singapore_RTS_Link_CRRC_Zhuzhou_rolling_stock_on_trial_070626.jpg
 ---
 
 ஒவ்வொரு வேலை நாளும், பல்லாயிரக்கணக்கானோர் ஜொகூர்–சிங்கப்பூர் Causeway-ஐ - பூமியிலேயே மிகவும் பரபரப்பான நிலவழி எல்லைகளில் ஒன்றை - கார், பேருந்து மற்றும் மோட்டார் சைக்கிளில் மெதுவாகக் கடக்கிறார்கள், பெரும்பாலும் ஒரு மணி நேரம் அல்லது அதற்கு மேல் வரிசையில் நிற்கிறார்கள். அந்த நெரிசலை உடைக்கும் வழி அகலமான சாலை அல்ல, குறுகிய ரயில் என்பதே இரு அரசாங்கங்களின் பந்தயம் - அதுவே RTS இணைப்பு.

@@ -37,7 +37,7 @@ faq:
     a: "Causeway 与 Second Link 是供汽车、巴士、摩托车和货车通行的公路过境通道；RTS 衔接线则是一条旨在为其纾解的专用客运接驳铁路。另一个独立的吉隆坡—新加坡高速铁路（HSR）是一条长得多、且屡被搁置的城际线路，连接吉隆坡与新加坡——是不同规模的另一个项目。RTS 衔接线投入运营后还预计将取代短程的 KTM Shuttle Tebrau 列车。"
 
 lang: "zh"
-sourceContentHash: "10e2e01e7527794c"
+sourceContentHash: "b670ec71614d4b5a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,6 +104,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru-Singapore_RTS_Link_Bridge_2025.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-1.webp
+    alt: 位于新山的 Bukit Chagar RTS Link 终点站正在施工中、逐渐成形。
+    kind: actual
+    origin: third-party
+    subject: 新山 Bukit Chagar RTS Link 终点站施工中
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Chagar_RTS_station_under_construction_20230606_142119.jpg
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-2.webp
+    alt: 一列用于新山-新加坡 RTS Link 的中车株洲列车正在进行试运行。
+    kind: actual
+    origin: third-party
+    subject: RTS Link 中车列车试运行
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru%E2%80%93Singapore_RTS_Link_CRRC_Zhuzhou_rolling_stock_on_trial_070626.jpg
 ---
 
 每个工作日，数以万计的人以汽车、巴士和摩托车缓慢爬过新山—新加坡的 Causeway——地球上最繁忙的陆路边境之一——往往要排队一个小时甚至更久。RTS 衔接线是两国政府押下的一注：赌一列短途列车、而非一条更宽的公路，才是打破这种拥堵的办法。

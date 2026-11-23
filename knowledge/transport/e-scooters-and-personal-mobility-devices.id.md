@@ -27,7 +27,7 @@ faq:
     a: "Sepeda listrik dikecualikan hanya jika ia jenis pedal-assist yang memenuhi Standar Malaysia MS2514 tanpa pencekik (throttle) dan memiliki pedal yang tetap terpasang. Sepeda listrik berpencekik yang tidak disetujui diklasifikasikan sebagai PMD atau moped dan dilarang."
 
 lang: "id"
-sourceContentHash: "c96ca2ea918ba45a"
+sourceContentHash: "44f0de24063adf5d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,6 +81,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-1.webp
+    alt: Sebuah skuter listrik Beam berbagi diparkir di petak mikromobilitas di samping sebuah hotel dekat stasiun MRT Merdeka di Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Parkir skuter listrik Beam berbagi dekat MRT Merdeka, Kuala Lumpur
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BEAM_e-scooter_Hotel_Olympic.jpg
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-2.webp
+    alt: Sebuah skuter listrik Beam Mobility berbagi berwarna ungu diparkir di jalan setapak di Taman Rekreasi Tasik Y di Batu Pahat, Johor.
+    kind: actual
+    origin: third-party
+    subject: Skuter listrik Beam berbagi di taman tepi danau di Batu Pahat, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg
 ---
 
 Anda membeli e-skuter untuk ke kantor, tetapi saat rodanya menyentuh jalan raya umum, Anda sudah melanggar undang-undang. Itulah realitas mikromobilitas di Malaysia sejak akhir 2021.

@@ -29,7 +29,7 @@ faq:
     a: "ไม่ ค่าปรับจอดรถออกโดย PBT ภายใต้คำสั่งจราจรทางถนนที่เกี่ยวกับการจอดรถ ในขณะที่ใบสั่งจราจรสำหรับความผิดในการขับรถออกโดย PDRM หรือ JPJ"
 
 lang: "th"
-sourceContentHash: "fbbc5c9405ba0df6"
+sourceContentHash: "ced4815eca51d2d0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-1.webp
+    alt: อาคารจอดรถหลายชั้นสูงทำด้วยคอนกรีต มีชั้นจอดรถเปิดโล่งด้านหน้าเป็นซี่กรงซ้อนกันหลายชั้น มองจากถนนในย่านชานเมืองของมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: อาคารจอดรถหลายชั้นในTaman Segar เชอรัส กัวลาลัมเปอร์
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Segar_multi-storey_car_park_(221028).jpg
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-2.webp
+    alt: ป้ายโลหะห้ามจอดและป้ายแจ้งริมถนนหลายป้ายติดตั้งชิดกันบนเสา โดยมีกำแพงเก่าตามถนนในจอร์จทาวน์เป็นฉากหลัง
+    kind: actual
+    origin: third-party
+    subject: กลุ่มป้ายห้ามจอดและป้ายจอดริมถนนบนถนนในจอร์จทาวน์ ปีนัง
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Still_Life_with_No_Parking_Signs_-_George_Town_-_Penang_-_Malaysia_(35374672612).jpg
 ---
 
 คุณค้นหาเหรียญในรถเพื่อหยอดเครื่องออกตั๋ว — แต่เครื่องนั้นหายไปตั้งแต่ปี 2020 การจอดรถในเมืองใหญ่ของมาเลเซียขณะนี้เริ่มต้นด้วยสมาร์ตโฟน ไม่ใช่กระปุกเหรียญริมถนนอีกต่อไป

@@ -37,7 +37,7 @@ faq:
     a: "Sabah 구간은 Project Delivery Partner 체제가 2019년에 종료되고 2020년 9월 무렵 재개되기 전에 공사가 중단되면서 차질을 빚었습니다. 그 이후의 보도는 여러 패키지에 걸친 지연, 토지 수용 문제, 바뀐 계약 모델을 지적합니다. Auditor-General은 2026년 3월 31일까지 Sabah Phase 1의 35개 패키지 중 4개만 완료되었다고 보고했으며, Sabah 주정부는 이 수치가 현장의 실제 물리적 진척을 과소평가한다고 밝혔습니다."
 
 lang: "ko"
-sourceContentHash: "979fd22a197b9634"
+sourceContentHash: "3fa5899226a93a89"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-1.webp
+    alt: 다차선 고속도로 분기점을 높은 곳에서 내려다본 모습으로, 크게 휘어진 진출 램프가 본선에서 갈라져 나가며, 사라왁 시골의 밝은 하늘 아래 푸른 초목 사이에 자리한다.
+    kind: actual
+    origin: third-party
+    subject: 무료 범보르네오 고속도로의 시망강(스리 아만) 분기점, 사라왁주
+    credit: Ago Dagang / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Simanggang_(Sri_Aman)_Interchange,_Pan_Borneo_Sarawak,_Malaysia.png
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-2.webp
+    alt: 평탄한 전원을 곧게 앞으로 뻗어 나가는 아스팔트 고속도로의 길게 트인 구간으로, 길가 가로수와 녹음이 늘어서 있고 위로는 보르네오의 흐린 하늘이 펼쳐진다.
+    kind: actual
+    origin: third-party
+    subject: 사라왁주 사리케이 외곽 스방코이 공원 인근 범보르네오 고속도로 구간
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg
 ---
 
 말레이시아령 보르네오 역사의 대부분에서, 한 도시에서 다음 도시로 가는 일은 트럭과 벌목 차량, 그리고 이따금 물에 쓸려간 다리와 함께 쓰는 1차선 간선도로를 느릿느릿 기어가는 것을 뜻했습니다. 팬보르네오 고속도로는 그것을 바꾸려는 시도입니다 — 그 간선도로를 Sarawak와 Sabah의 전 구간을 달리는 현대적이고 대부분 왕복 분리된 연결로로 바꾸려는 10년에 걸친 노력입니다.

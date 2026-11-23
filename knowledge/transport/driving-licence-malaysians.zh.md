@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "75160a6ad518e3c0"
+sourceContentHash: "2ec5d899e37f88a7"
 
 status: "published"
 aiAssisted: true
@@ -81,6 +81,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Jaya_Driving_School.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-malaysians/body-1.webp
+    alt: 吉隆坡南湖镇陆路交通局（JPJ）分局的入口与等候区。
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡陆路交通局（JPJ）分局
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_Selatan_(260912).jpg
+  - role: scene
+    src: /media/transport/driving-licence-malaysians/body-2.webp
+    alt: 雪兰莪万挠一处设有指示牌的多车道交通环岛——每位学车者都必须掌握的操控科目。
+    kind: representative
+    origin: third-party
+    subject: 雪兰莪万挠的交通环岛
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bulatan_Rawang_(230130)_01.jpg
 ---
 
 多数人把「驾驶执照」当成单一一份文件。实际上它是三张各自独立的驾照——L、P 与 CDL——由严格的时限串连起来，再加上一套扣分制度，能在 P 驾照还未来得及转成全牌之前，就将它即刻撤销。以下是这套流程实际的运作方式，根据 JPJ 官方门户网站与马来西亚政府官方门户网站（Portal Rasmi Kerajaan Malaysia）。

@@ -29,7 +29,7 @@ faq:
     a: "Không. Phạt hòa giải đậu xe do PBT cấp theo lệnh giao thông đường bộ liên quan đến đậu xe, trong khi giấy phạt giao thông cho các lỗi lái xe do PDRM hoặc JPJ cấp."
 
 lang: "vi"
-sourceContentHash: "fbbc5c9405ba0df6"
+sourceContentHash: "ced4815eca51d2d0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-1.webp
+    alt: Một tòa nhà bãi đỗ xe nhiều tầng bằng bê tông cao với các tầng đỗ xe hở mặt tiền có lưới sắt xếp chồng qua nhiều tầng, nhìn từ đường phố ở vùng ngoại ô Malaysia
+    kind: actual
+    origin: third-party
+    subject: một tòa nhà bãi đỗ xe nhiều tầng ở Taman Segar, Cheras, Kuala Lumpur
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Segar_multi-storey_car_park_(221028).jpg
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-2.webp
+    alt: Nhiều biển kim loại cấm đỗ xe và biển thông báo ven đường được gắn sát nhau trên các cột trụ trước một bức tường cũ kỹ dọc theo một con phố ở George Town
+    kind: actual
+    origin: third-party
+    subject: một cụm biển cấm đỗ xe và biển đỗ xe ven đường trên một con phố ở George Town, Penang
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Still_Life_with_No_Parking_Signs_-_George_Town_-_Penang_-_Malaysia_(35374672612).jpg
 ---
 
 Bạn tìm tiền xu trong xe để bỏ vào máy bán vé — nhưng chiếc máy đó đã biến mất từ năm 2020. Đậu xe ở các thành phố lớn của Malaysia nay bắt đầu bằng điện thoại thông minh, không còn là ống tiền xu ven đường.

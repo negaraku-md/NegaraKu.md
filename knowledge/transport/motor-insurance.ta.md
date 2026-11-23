@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "மலேசியாவில் வாகனங்களை — கார்கள், மோட்டார்சைக்கிள்கள் மற்றும் வணிக வாகனங்கள் — சொந்தமாக வைத்திருப்பவர்கள் மற்றும் ஓட்டுநர்கள், காப்பீட்டு வகைகளையும் அவற்றின் சட்டத் தேவைகளையும் புரிந்துகொள்ள விரும்புவோர்."
 
 lang: "ta"
-sourceContentHash: "b169a3f86c365797"
+sourceContentHash: "cddc90636ecec6f8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,6 +70,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motor-insurance/body-1.webp
+    alt: கோலாலம்பூரில் நீல நிற நகர இழுவை லாரி, வாகனம் பழுதடைந்த அல்லது விபத்துக்குப் பிறகு வாகனங்களை இழுத்துச் செல்லும் வகை.
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூரில் இழுவை லாரி, மலேசியா
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Tow-truck-01.jpg
+  - role: scene
+    src: /media/transport/motor-insurance/body-2.webp
+    alt: சபாவின் கோத்தா கினபாலுவில் ஜாலான் புந்துசான் சாலையில் மாலை நேர போக்குவரத்து நெரிசலில் ஒன்றுக்கொன்று நெருக்கமாக நிற்கும் கார்கள்.
+    kind: actual
+    origin: third-party
+    subject: நகர சாலையில் மாலை நேர போக்குவரத்து நெரிசல், கோத்தா கினபாலு, சபா
+    credit: rahimhd / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Bundusan_5pm_Traffic_Jam_towards_Beverley_Roundabout_-_panoramio.jpg
 ---
 
 ஒருபோதும் கழுவப்படாத, தேய்ந்த டயர்களும் கெட்டுப்போன காற்றுக் குளிரூட்டியும் கொண்ட ஒரு காரை நீங்கள் சட்டப்படி ஓட்டலாம். ஆனால் ஒரே ஒரு தாள் இல்லாமல் — அதாவது ஒரு மூன்றாம் தரப்புக் காப்பீட்டுப் பாலிசி இல்லாமல் — வாகனம் ஓட்டுவது ஒரு குற்றமாகும்.

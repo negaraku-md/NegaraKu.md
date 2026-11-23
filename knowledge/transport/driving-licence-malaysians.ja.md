@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "75160a6ad518e3c0"
+sourceContentHash: "2ec5d899e37f88a7"
 
 status: "published"
 aiAssisted: true
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Jaya_Driving_School.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-malaysians/body-1.webp
+    alt: クアラルンプールのバンダル・タシク・スラタンにある陸運局（JPJ）支所の入口と待合スペース。
+    kind: actual
+    origin: third-party
+    subject: 陸運局（JPJ）支所、クアラルンプール
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_Selatan_(260912).jpg
+  - role: scene
+    src: /media/transport/driving-licence-malaysians/body-2.webp
+    alt: セランゴール州ラワンにある、標識の立つ多車線のロータリー。すべての教習生が習得すべき操作である。
+    kind: representative
+    origin: third-party
+    subject: セランゴール州ラワンのロータリー
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bulatan_Rawang_(230130)_01.jpg
 ---
 
 多くの人は「運転免許」を一つの単一の書類だと考えている。実際にはそれは三つの

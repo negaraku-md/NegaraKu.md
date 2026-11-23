@@ -37,7 +37,7 @@ faq:
     a: "Causeway와 Second Link는 승용차, 버스, 오토바이, 트럭을 위한 도로 통과로입니다. RTS 링크는 이를 덜어주려는 여객 전용 철도 셔틀입니다. 별개의 KL-싱가포르 고속철도(HSR)는 쿠알라룸푸르와 싱가포르를 잇는 훨씬 긴, 그리고 거듭 보류된 도시 간 노선으로, 규모가 다른 별개의 사업입니다. RTS 링크는 또한 운행이 시작되면 짧은 KTM Shuttle Tebrau 열차를 대체할 것으로 예상됩니다."
 
 lang: "ko"
-sourceContentHash: "10e2e01e7527794c"
+sourceContentHash: "b670ec71614d4b5a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,6 +104,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru-Singapore_RTS_Link_Bridge_2025.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-1.webp
+    alt: 조호르바루에서 건설 중 점차 모습을 갖춰가는 Bukit Chagar RTS Link 종착역.
+    kind: actual
+    origin: third-party
+    subject: 건설 중인 Bukit Chagar RTS Link 종착역, 조호르바루
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Chagar_RTS_station_under_construction_20230606_142119.jpg
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-2.webp
+    alt: 조호르바루-싱가포르 RTS Link용 CRRC 주저우 편성 열차가 시운전하는 모습.
+    kind: actual
+    origin: third-party
+    subject: RTS Link용 CRRC 열차 시운전
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru%E2%80%93Singapore_RTS_Link_CRRC_Zhuzhou_rolling_stock_on_trial_070626.jpg
 ---
 
 매 평일, 수만 명이 지구에서 가장 붐비는 육상 국경 가운데 하나인 조호르-싱가포르 Causeway를 승용차와 버스, 오토바이로 느릿느릿 건너며, 흔히 한 시간 넘게 줄을 섭니다. RTS 링크는 그 정체를 깨는 길이 더 넓은 도로가 아니라 짧은 열차 하나라는, 두 정부의 베팅입니다.

@@ -35,7 +35,7 @@ verificationNeeded:
   - "التأكد من عدد مسارات خدمة الطيران الريفي (Rural Air Service) الحالية لـ AirBorneo وقائمة مطاراتها مباشرةً مع AirBorneo أو هيئة الطيران المدني الماليزية (CAAM)، إذ لم تحمل الصفحة العامة لـ RAS لدى لجنة الطيران الماليزية (MAVCOM) تفاصيل على مستوى المسار وقت الكتابة، وقد غيّر البرنامج مشغّله مؤخرًا."
 
 lang: "ar"
-sourceContentHash: "a8248270057070e4"
+sourceContentHash: "abe52a172e0638cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:ETS_5.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'KTM ETS intercity train at a platform'
+images:
+  - role: scene
+    src: /media/transport/intercity-travel/body-1.webp
+    alt: البهو الواسع لـ Terminal Bersepadu Selatan، محطة الحافلات السريعة المتكاملة في Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: بهو محطة الحافلات السريعة Terminal Bersepadu Selatan (TBS)، Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terminal_Bersepadu_Selatan_concourse_(211112).jpg
+  - role: scene
+    src: /media/transport/intercity-travel/body-2.webp
+    alt: قطار ETS بين المدن ينتظر على رصيف في KL Sentral، محور شبكة KTM للسكك الحديدية بين المدن.
+    kind: actual
+    origin: third-party
+    subject: رصيف سكة حديد KTM بين المدن في KL Sentral
+    credit: Hiroki.loh.st / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLS_ETS_Platform.jpg
 ---
 
 طِر إلى كوتشينغ، أو استقلّ حافلة إلى كوانتان، أو اركب قطارًا إلى

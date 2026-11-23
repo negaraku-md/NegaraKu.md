@@ -28,7 +28,7 @@ faq:
     a: "RFID में अब भी वाहन को एक चिह्नित लेन से गुज़रना पड़ता है जिसमें एक बाधा होती है जो सफल पठन के बाद उठती है। JustGO PLUS जैसी ANPR एक कैमरे के माध्यम से वाहनों की पहचान करती है जो नंबर प्लेट पढ़ता है, जिससे पंजीकृत वाहन बिना किसी भौतिक टैग के ही किसी भी लेन से गुज़र सकते हैं — पूरी तरह बिना-बाधा प्रणाली (MLFF) की ओर एक और कदम।"
 
 lang: "hi"
-sourceContentHash: "c1392d940afe3b99"
+sourceContentHash: "0d93829e0782b4d6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SmartTag.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-1.webp
+    alt: दिन के उजाले में दिखता एक चौड़ा राजमार्ग टोल प्लाज़ा, जिसमें टोल बूथ की एक कतार और कई भुगतान लेन पर फैली ऊपरी लेन कैनोपी हैं।
+    kind: actual
+    origin: third-party
+    subject: पेराक में इपोह के पास कई लेन और बूथ वाला एक दिन का राजमार्ग टोल प्लाज़ा
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Toll_plaza,_Ipoh,_Perak,_Malaysia.jpg
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-2.webp
+    alt: RFID भुगतान के लिए चिह्नित एक टोल प्लाज़ा निकास लेन, जिसमें कोटा दामनसारा के पास सड़क के ऊपर एक लेन बैरियर और ऊपरी रीडर गैंट्री है।
+    kind: actual
+    origin: third-party
+    subject: कोटा दामनसारा टोल प्लाज़ा, सेलांगोर में एक RFID निकास लेन
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MyRFid_Kota_Damansara_Toll_Plaza_1.jpg
 ---
 
 RFID लेन में आपके आगे वाली कार अचानक ब्रेक लगाती है क्योंकि उसके हेडलैंप पर लगा स्टिकर पकड़ में नहीं आया — हालाँकि बहुत से लोग मान लेते हैं कि RFID का मतलब है «आपको कुछ भी करने की ज़रूरत नहीं»। वास्तव में, मलेशिया इस समय अलग-अलग राजमार्गों पर कम से कम चार पीढ़ियों की टोल तकनीक एक साथ चला रहा है, और एक को दूसरे से भ्रमित कर देना गेट पर कारों के फँस जाने का एक आम कारण है।

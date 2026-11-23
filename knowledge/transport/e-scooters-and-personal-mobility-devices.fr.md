@@ -27,7 +27,7 @@ faq:
     a: "Un vélo électrique n'est exempté que s'il s'agit d'un modèle à assistance électrique conforme à la Norme malaisienne MS2514, sans accélérateur, et doté de pédales qui restent fixées en permanence. Un vélo électrique non homologué équipé d'un accélérateur est classé comme PMD ou cyclomoteur et est interdit."
 
 lang: "fr"
-sourceContentHash: "c96ca2ea918ba45a"
+sourceContentHash: "44f0de24063adf5d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,6 +81,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-1.webp
+    alt: Une trottinette électrique en partage Beam stationnée sur un emplacement de micromobilité à côté d'un hôtel, près de la station de MRT Merdeka à Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Stationnement de trottinette électrique en partage Beam près du MRT Merdeka, Kuala Lumpur
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BEAM_e-scooter_Hotel_Olympic.jpg
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-2.webp
+    alt: Une trottinette électrique en partage Beam Mobility de couleur violette stationnée sur une allée du Taman Rekreasi Tasik Y, à Batu Pahat, Johor.
+    kind: actual
+    origin: third-party
+    subject: Trottinette électrique en partage Beam dans un parc au bord d'un lac à Batu Pahat, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg
 ---
 
 Vous achetez une trottinette électrique pour aller au bureau, mais dès que ses roues touchent une route publique, vous enfreignez déjà la loi. C'est la réalité de la micromobilité en Malaisie depuis la fin de 2021.

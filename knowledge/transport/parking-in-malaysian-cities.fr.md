@@ -29,7 +29,7 @@ faq:
     a: "Non. Les amendes de composition pour stationnement sont délivrées par les autorités locales (PBT) au titre d'arrêtés de circulation routière relatifs au stationnement, tandis que les contraventions de circulation pour infractions de conduite sont délivrées par la PDRM ou le JPJ."
 
 lang: "fr"
-sourceContentHash: "fbbc5c9405ba0df6"
+sourceContentHash: "ced4815eca51d2d0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-1.webp
+    alt: Un haut parking à étages en béton, dont les niveaux de stationnement ouverts à façade grillagée s'empilent sur plusieurs étages, vu depuis la rue dans une banlieue malaisienne
+    kind: actual
+    origin: third-party
+    subject: un parking à étages à Taman Segar, Cheras, Kuala Lumpur
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Segar_multi-storey_car_park_(221028).jpg
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-2.webp
+    alt: Plusieurs panneaux métalliques d'interdiction de stationner et d'avis de bord de route fixés serrés les uns contre les autres sur des poteaux devant un mur patiné, le long d'une rue de George Town
+    kind: actual
+    origin: third-party
+    subject: un ensemble de panneaux d'interdiction de stationner et de stationnement en bordure de route dans une rue de George Town, Penang
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Still_Life_with_No_Parking_Signs_-_George_Town_-_Penang_-_Malaysia_(35374672612).jpg
 ---
 
 Vous fouillez la voiture à la recherche de pièces pour l'horodateur — mais ces machines ont disparu depuis 2020. Se garer dans les grandes villes de Malaisie commence désormais par un smartphone, et non par un bocal de pièces au bord de la route.

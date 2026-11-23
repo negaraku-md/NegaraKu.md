@@ -24,7 +24,7 @@ appliesTo: "Pemandu Malaysia yang merancang untuk memandu kereta sendiri merenta
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4dfab6647457152e"
+sourceContentHash: "816922553871bb4d"
 
 status: "published"
 aiAssisted: true
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-1.webp
+    alt: Jambatan jalan raya Second Link Malaysia-Singapura yang merentasi Selat Johor antara Tanjung Kupang dan Tuas.
+    kind: actual
+    origin: third-party
+    subject: Jambatan Second Link Malaysia-Singapura (Tuas)
+    credit: Nigos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia-Singapore_Second_Link_bridge.jpg
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-2.webp
+    alt: Laluan masuk ke lintasan darat Bukit Kayu Hitam di sempadan Malaysia-Thailand di Kedah.
+    kind: actual
+    origin: third-party
+    subject: Lintasan sempadan Malaysia-Thailand Bukit Kayu Hitam-Sadao
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Kayu_Hitam-Sadao_border_crossing_2.jpg
 ---
 
 Dua jiran, dua sempadan darat, dua sistem yang sama sekali berbeza untuk kereta yang sama.

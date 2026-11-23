@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Propietarios y conductores de vehículos de motor en Malasia — coches, motocicletas y vehículos comerciales — que quieran entender los tipos de cobertura de seguro y los requisitos legales."
 
 lang: "es"
-sourceContentHash: "b169a3f86c365797"
+sourceContentHash: "cddc90636ecec6f8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,6 +70,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motor-insurance/body-1.webp
+    alt: Una grúa urbana azul en Kuala Lumpur, del tipo que retira vehículos tras una avería o un accidente.
+    kind: actual
+    origin: third-party
+    subject: Grúa en Kuala Lumpur, Malasia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Tow-truck-01.jpg
+  - role: scene
+    src: /media/transport/motor-insurance/body-2.webp
+    alt: Coches parachoques contra parachoques en un atasco de tráfico al anochecer en Jalan Bundusan, en Kota Kinabalu, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Atasco de tráfico al anochecer en una vía urbana, Kota Kinabalu, Sabah
+    credit: rahimhd / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Bundusan_5pm_Traffic_Jam_towards_Beverley_Roundabout_-_panoramio.jpg
 ---
 
 Puede conducir legalmente un coche que nunca se ha lavado, que tiene los neumáticos gastados y el aire acondicionado roto. Pero conducir sin un solo papel — una póliza de seguro a terceros — es un delito.

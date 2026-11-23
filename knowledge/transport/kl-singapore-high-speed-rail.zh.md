@@ -29,7 +29,7 @@ faq:
     a: "不是。捷运衔接线是往返于新山（Johor Bahru）与兀兰（Woodlands）之间的短途跨境穿梭列车，预定于2026年通车。高铁则是另一条规划中的、约350公里长的吉隆坡至新加坡高速铁路。"
 
 lang: "zh"
-sourceContentHash: "b505d87f2fe5cea1"
+sourceContentHash: "7905cead6b64344a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-1.webp
+    alt: 一列台湾高铁列车停靠在车站月台，作为可比照的区域高速铁路示例展示。
+    kind: representative
+    origin: third-party
+    subject: 区域内运营中的高速列车（台湾高铁），代表未来的吉隆坡-新加坡高铁
+    credit: 4300streetcar / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_639_at_Tainan_HSR_station_May_2025.jpg
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-2.webp
+    alt: 一列 N700 系新干线高速列车停靠在日本广岛车站，作为可比照的区域高速铁路示例展示。
+    kind: representative
+    origin: third-party
+    subject: 区域内运营中的高速列车（日本 N700 新干线），代表未来的吉隆坡-新加坡高铁
+    credit: Eric Salard / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shinkansen_N700_at_HIroshima_Station_1_2025-03-27.jpg
 ---
 
 一列能在约90分钟内将你从吉隆坡送到新加坡的子弹列车，历经签署、暂停、终止、哀悼，再到重生——而这一切都发生在还没铺下一寸轨道之前。以下是这个反反复复的项目究竟进展到了哪一步。

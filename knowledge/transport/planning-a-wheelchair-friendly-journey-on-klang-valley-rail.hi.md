@@ -33,7 +33,7 @@ faq:
 
 lang: "hi"
 translationStatus: "in-sync"
-sourceContentHash: "dbccb525d9d4cfdf"
+sourceContentHash: "2aca71ef01ff8e0d"
 masterLanguage: "en"
 
 status: "published"
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_LRT_Station_lift_(211031).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-1.webp
+    alt: नेत्रहीन यात्रियों का मार्गदर्शन करने के लिए एक साफ़ MRT स्टेशन प्लेटफ़ॉर्म के किनारे चलती उभरी पट्टियों वाली चमकीली पीली स्पर्श टाइलों की एक कतार।
+    kind: actual
+    origin: third-party
+    subject: क्लांग वैली में कोटा दामनसारा के Surian MRT स्टेशन के प्लेटफ़ॉर्म पर स्पर्श मार्गदर्शन टाइलें
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KG_Line_Surian_-_Tactile_Paving.jpg
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-2.webp
+    alt: एक चौड़ा, समतल MRT स्टेशन प्लेटफ़ॉर्म जिसमें ट्रैक के किनारे पूरी ऊँचाई के प्लेटफ़ॉर्म स्क्रीन दरवाज़े और बोर्डिंग ज़ोन को चिह्नित करती स्पर्श टाइलें हैं।
+    kind: actual
+    origin: third-party
+    subject: क्लांग वैली में Hospital Kuala Lumpur MRT स्टेशन पर प्लेटफ़ॉर्म-स्क्रीन दरवाज़ों वाला एक प्लेटफ़ॉर्म
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Kuala_Lumpur_MRT_Station_platform_(230418)_01.jpg
 ---
 
 व्हीलचेयर उपयोगकर्ता के लिए क्लांग वैली का रेल नेटवर्क एक नहीं बल्कि कई प्रणालियाँ हैं, जो अलग-अलग दशकों में बहुत भिन्न मानकों पर बनी हैं — और यही एक अच्छी यात्रा की योजना बनाने की कुंजी है। आपका सबसे उपयोगी एकल निर्णय यह है कि **किस माध्यम पर यात्रा करें**; उसके बाद, यात्रा दो चीज़ों पर सफल या विफल होती है जिन्हें चमकदार नक़्शे कभी नहीं दिखाते: **क्या कोई विशिष्ट लिफ़्ट उस दिन काम कर रही है**, और **इंटरचेंज असल में कैसे जुड़ते हैं**। यह गाइड इन्हीं वास्तविकताओं के इर्द-गिर्द योजना बनाने के बारे में है। यह जानबूझकर स्टेशन-दर-स्टेशन सुलभता सूची *नहीं* है — वे स्थितियाँ किसी भी लेख के साथ चल पाने से तेज़ी से बदलती हैं — इसलिए पूरे लेख में, आगे जो कहा गया है उसे *स्टेशन किस चीज़ के लिए बनाया गया था* के रूप में मानें, और उस पर भरोसा करने से पहले मौजूदा स्थिति की पुष्टि ऑपरेटर से करें।

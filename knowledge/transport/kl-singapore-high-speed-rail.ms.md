@@ -29,7 +29,7 @@ faq:
     a: "Tidak. RTS Link ialah perkhidmatan ulang-alik rentas sempadan yang pendek antara Johor Bahru dan Woodlands, disasarkan untuk dibuka pada 2026. HSR pula ialah landasan berkelajuan tinggi yang berasingan sepanjang kira-kira 350 km yang dirancang antara Kuala Lumpur dan Singapura."
 
 lang: "ms"
-sourceContentHash: "b505d87f2fe5cea1"
+sourceContentHash: "7905cead6b64344a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-1.webp
+    alt: Satu set kereta api Taiwan High Speed Rail di platform stesen, ditunjukkan sebagai kereta api berkelajuan tinggi serantau yang setanding.
+    kind: representative
+    origin: third-party
+    subject: Kereta api berkelajuan tinggi yang beroperasi di rantau ini (Taiwan High Speed Rail), mewakili HSR KL-Singapura pada masa depan
+    credit: 4300streetcar / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_639_at_Tainan_HSR_station_May_2025.jpg
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-2.webp
+    alt: Sebuah kereta api berkelajuan tinggi Shinkansen siri N700 di Stesen Hiroshima di Jepun, ditunjukkan sebagai kereta api berkelajuan tinggi serantau yang setanding.
+    kind: representative
+    origin: third-party
+    subject: Kereta api berkelajuan tinggi yang beroperasi di rantau ini (Shinkansen N700 Jepun), mewakili HSR KL-Singapura pada masa depan
+    credit: Eric Salard / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shinkansen_N700_at_HIroshima_Station_1_2025-03-27.jpg
 ---
 
 Kereta api laju yang boleh membawa anda dari Kuala Lumpur ke Singapura dalam kira-kira 90 minit telah ditandatangani, digantung, ditamatkan, diratapi, dan dihidupkan semula — semuanya tanpa satu landasan pun dipasang. Berikut ialah kedudukan sebenar projek yang tersasar hidup mati ini.

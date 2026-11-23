@@ -26,7 +26,7 @@ verificationNeeded:
   - "CDL 신청을 이제 MyJPJ 앱을 통해 전면적으로 온라인으로 할 수 있는지 여부 — 검토한 JPJ 서비스 페이지는 신청이 주 JPJ 창구에서만 이루어진다고 명시하지만, 이는 검토일 이후 변경되었을 수 있습니다"
 
 lang: "ko"
-sourceContentHash: "75160a6ad518e3c0"
+sourceContentHash: "2ec5d899e37f88a7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Jaya_Driving_School.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-malaysians/body-1.webp
+    alt: 쿠알라룸푸르 반다르 타식 슬라탄에 있는 육상교통국(JPJ) 지국의 입구와 대기 공간.
+    kind: actual
+    origin: third-party
+    subject: 육상교통국(JPJ) 지국, 쿠알라룸푸르
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_Selatan_(260912).jpg
+  - role: scene
+    src: /media/transport/driving-licence-malaysians/body-2.webp
+    alt: 모든 초보 운전자가 익혀야 할 조작인, 셀랑고르주 라왕의 표지판이 세워진 다차선 회전교차로.
+    kind: representative
+    origin: third-party
+    subject: 셀랑고르주 라왕의 회전교차로
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bulatan_Rawang_(230130)_01.jpg
 ---
 
 대부분의 사람들은 「운전면허」를 하나의 단일 문서로 여깁니다. 그것은

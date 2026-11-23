@@ -27,7 +27,7 @@ verificationNeeded:
   - "Whether a CDL application can now be made fully online via the MyJPJ app — the JPJ service page checked states that applications are made at the state JPJ counter only, but this may have changed since the date it was checked"
 
 lang: "es"
-sourceContentHash: "75160a6ad518e3c0"
+sourceContentHash: "2ec5d899e37f88a7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,6 +81,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Jaya_Driving_School.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-malaysians/body-1.webp
+    alt: La entrada y la zona de espera de la sucursal del Departamento de Transporte por Carretera (JPJ) en Bandar Tasik Selatan, Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Oficina de la sucursal del JPJ (Departamento de Transporte por Carretera), Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_Selatan_(260912).jpg
+  - role: scene
+    src: /media/transport/driving-licence-malaysians/body-2.webp
+    alt: Una rotonda de tráfico de varios carriles con señalización en Rawang, Selangor, una maniobra que todo conductor en prácticas debe dominar.
+    kind: representative
+    origin: third-party
+    subject: Rotonda en Rawang, Selangor
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bulatan_Rawang_(230130)_01.jpg
 ---
 
 La mayoría de la gente trata la «licencia de conducción» como un único

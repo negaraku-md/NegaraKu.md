@@ -31,7 +31,7 @@ faq:
     a: "Menurut JPJ, notis AwAS yang tidak dibereskan dalam masa 60 hari dari tanggal dikeluarkan dapat membawa ke tindakan pengadilan, dengan denda antara RM300 hingga RM2,000 jika terbukti bersalah."
 
 lang: "id"
-sourceContentHash: "98e5e951fdd86713"
+sourceContentHash: "820eea145d5fc005"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-1.webp
+    alt: Petugas polisi berseragam berdiri di razia jalan, memeriksa kendaraan saat melambat hingga berhenti di pos pemeriksaan
+    kind: actual
+    origin: third-party
+    subject: razia polisi Malaysia tempat petugas menghentikan dan memeriksa kendaraan
+    credit: Original uploader (ms.wikipedia) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekatanjalanraya.jpg
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-2.webp
+    alt: Seorang petugas polisi lalu lintas Malaysia mengenakan rompi reflektif dan helm berdiri di jalan kota mengatur kendaraan yang lewat
+    kind: actual
+    origin: third-party
+    subject: seorang petugas polisi lalu lintas yang bertugas mengatur lalu lintas di sebuah jalan di Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg
 ---
 
 Seorang pengemudi dapat menerima empat jenis tilang yang terlihat serupa di atas kertas — tetapi datang dari empat pihak yang berbeda, dan harus diperiksa di empat tempat yang berbeda. Banyak yang hanya tahu satu portal, lalu mengira tilang mereka "hilang" padahal ia sebenarnya duduk di sistem lain.

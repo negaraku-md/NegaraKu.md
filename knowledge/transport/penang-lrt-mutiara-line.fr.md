@@ -37,7 +37,7 @@ faq:
     a: "La Mutiara Line est exploitée par le même propriétaire-exploitant fédéral, MRT Corp, qui a réalisé les lignes MRT et LRT de la vallée de Klang, mais c'est un réseau distinct et autonome pour Penang, et non un prolongement du système de KL. C'est la première ligne de rail urbain de Penang, là où le Grand Kuala Lumpur dispose déjà de plusieurs lignes interconnectées de MRT, de LRT, de monorail et de trains de banlieue."
 
 lang: "fr"
-sourceContentHash: "c4429d7b1f425ab5"
+sourceContentHash: "1ae68408360ac651"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Bridge_in_extension.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-1.webp
+    alt: Un bus urbain bleu et blanc de Rapid Penang stationné à un quai couvert de gare routière, son numéro de ligne affiché sur le panneau de destination à l'avant
+    kind: representative
+    origin: third-party
+    subject: un bus public Rapid Penang à la gare routière de Weld Quay, à George Town, Penang
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Penang_302_(WB_7691_P)_at_Weld_Quay_Bus_Terminal_(240919).jpg
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-2.webp
+    alt: Une navette urbaine habillée d'un habillage publicitaire coloré circule dans une rue de George Town, s'approchant d'une station de bus couverte en bordure de route
+    kind: representative
+    origin: third-party
+    subject: une navette gratuite CAT dans une rue de George Town s'approchant du pôle de transport Komtar, à Penang
+    credit: Weareblahs / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Free_CAT_Bus_with_Visit_Malaysia_2026_wrapping_approaching_Komtar_II_station.jpg
 ---
 
 Pendant près d'un siècle, se déplacer à Penang a voulu dire la voiture, le bus et le ferry qui traverse le détroit. La Mutiara Line est le pari de l'État qu'un chemin de fer urbain aérien peut enfin changer cela — et c'est le premier du genre que Penang ait jamais eu.

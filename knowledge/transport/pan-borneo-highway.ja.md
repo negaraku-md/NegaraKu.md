@@ -37,7 +37,7 @@ faq:
     a: "Sabah 区間は、その Project Delivery Partner の取り決めが 2019 年に終了し、2020 年9月ごろに再開する前に工事が中断されたことで混乱しました。それ以降の報道は、多くのパッケージにわたる遅延、用地取得の問題、契約モデルの変更を指摘しています。Auditor-General は、2026年3月31日までに Sabah の Phase 1 の 35 パッケージのうち完了したのはわずか 4 つと報告しましたが、Sabah 州政府はこの数字が現地の実際の物理的進捗を過小評価していると述べています。"
 
 lang: "ja"
-sourceContentHash: "979fd22a197b9634"
+sourceContentHash: "3fa5899226a93a89"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-1.webp
+    alt: 多車線の高速道路ジャンクションを高所から見下ろした光景。大きく弧を描く出口ランプが本線から離れていき、サラワクの田園の明るい空の下、緑の植生の中に広がる。
+    kind: actual
+    origin: third-party
+    subject: 無料のパン・ボルネオ・ハイウェイにあるシマンガン（スリ・アマン）ジャンクション、サラワク州
+    credit: Ago Dagang / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Simanggang_(Sri_Aman)_Interchange,_Pan_Borneo_Sarawak,_Malaysia.png
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-2.webp
+    alt: 平坦な田園をまっすぐ前へ延びる舗装路の長い開けた一区間。道端の並木と緑に縁取られ、上空はボルネオの曇り空。
+    kind: actual
+    origin: third-party
+    subject: サラワク州サリケー郊外のスバンコイ公園近くのパン・ボルネオ・ハイウェイの一区間
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg
 ---
 
 マレーシア領ボルネオの歴史の大半において、ある町から次の町へ行くことは、トラックや伐採の往来、そして時おり流失した橋と共用される一車線の幹線道路を、のろのろと這い進むことを意味した。パン・ボルネオ・ハイウェイは、それを変えようとする試みである——その幹線道路を、Sarawak と Sabah の全長にわたって走る現代的で大部分が二車線分離の連絡路へと変える、10年がかりの取り組みだ。

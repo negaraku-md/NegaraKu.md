@@ -37,7 +37,7 @@ faq:
     a: "Causeway और Second Link कारों, बसों, मोटरसाइकिलों और लॉरियों के लिए सड़क-क्रॉसिंग हैं; RTS लिंक एक समर्पित यात्री रेल शटल है जिसका उद्देश्य उनका बोझ घटाना है। अलग KL-सिंगापुर हाई-स्पीड रेल (HSR) Kuala Lumpur और Singapore के बीच एक कहीं अधिक लंबी, और बार-बार स्थगित की गई, अंतर-शहर लाइन है - एक भिन्न पैमाने की भिन्न परियोजना। RTS लिंक के चालू होने पर इसके छोटी KTM Shuttle Tebrau ट्रेन की जगह लेने की भी उम्मीद है।"
 
 lang: "hi"
-sourceContentHash: "10e2e01e7527794c"
+sourceContentHash: "b670ec71614d4b5a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,6 +104,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru-Singapore_RTS_Link_Bridge_2025.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-1.webp
+    alt: जोहोर बहरू में निर्माणाधीन आकार ले रहा बुकिट चागर RTS Link स्टेशन।
+    kind: actual
+    origin: third-party
+    subject: निर्माणाधीन बुकिट चागर RTS Link टर्मिनस स्टेशन, जोहोर बहरू
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Chagar_RTS_station_under_construction_20230606_142119.jpg
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-2.webp
+    alt: जोहोर बहरू-सिंगापुर RTS Link के लिए एक CRRC Zhuzhou ट्रेनसेट, ट्रायल रन के दौरान।
+    kind: actual
+    origin: third-party
+    subject: ट्रायल रन पर RTS Link का CRRC रोलिंग स्टॉक
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru%E2%80%93Singapore_RTS_Link_CRRC_Zhuzhou_rolling_stock_on_trial_070626.jpg
 ---
 
 हर कार्यदिवस, हज़ारों लोग जोहोर-सिंगापुर Causeway - पृथ्वी की सबसे व्यस्त ज़मीनी सीमाओं में से एक - को कार, बस और मोटरसाइकिल से रेंगते हुए पार करते हैं, अक्सर एक घंटे या उससे अधिक कतार में खड़े रहते हुए। RTS लिंक दोनों सरकारों का यह दाँव है कि उस जाम को तोड़ने का रास्ता एक चौड़ी सड़क नहीं, बल्कि एक छोटी ट्रेन है।

@@ -29,7 +29,7 @@ faq:
     a: "Tidak. RTS Link adalah layanan ulang-alik lintas batas yang pendek antara Johor Bahru dan Woodlands, ditargetkan dibuka pada 2026. HSR adalah jalur berkecepatan tinggi yang terpisah sepanjang kira-kira 350 km yang direncanakan antara Kuala Lumpur dan Singapura."
 
 lang: "id"
-sourceContentHash: "b505d87f2fe5cea1"
+sourceContentHash: "7905cead6b64344a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-1.webp
+    alt: Satu rangkaian kereta api Taiwan High Speed Rail di peron stasiun, ditampilkan sebagai kereta cepat regional yang sebanding.
+    kind: representative
+    origin: third-party
+    subject: Kereta cepat yang beroperasi di kawasan ini (Taiwan High Speed Rail), mewakili HSR KL-Singapura di masa depan
+    credit: 4300streetcar / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_639_at_Tainan_HSR_station_May_2025.jpg
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-2.webp
+    alt: Sebuah kereta cepat Shinkansen seri N700 di Stasiun Hiroshima di Jepang, ditampilkan sebagai kereta cepat regional yang sebanding.
+    kind: representative
+    origin: third-party
+    subject: Kereta cepat yang beroperasi di kawasan ini (Shinkansen N700 Jepang), mewakili HSR KL-Singapura di masa depan
+    credit: Eric Salard / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shinkansen_N700_at_HIroshima_Station_1_2025-03-27.jpg
 ---
 
 Kereta api cepat yang dapat membawa Anda dari Kuala Lumpur ke Singapura dalam kira-kira 90 menit telah ditandatangani, ditangguhkan, dihentikan, diratapi, dan dihidupkan kembali — semuanya tanpa satu landasan pun dipasang. Berikut adalah kedudukan sebenarnya proyek yang terombang-ambing hidup mati ini.

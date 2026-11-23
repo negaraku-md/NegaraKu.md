@@ -37,7 +37,7 @@ faq:
     a: "मुतिआरा लाइन उसी संघीय संचालक-स्वामी, MRT Corp, द्वारा चलाई जाती है जिसने Klang Valley की MRT और LRT लाइनें बनाईं, पर यह KL प्रणाली का विस्तार होने के बजाय पेनांग के लिए एक अलग, स्वतंत्र नेटवर्क है। यह पेनांग की पहली शहरी रेल लाइन है, जबकि Greater Kuala Lumpur में पहले से कई परस्पर जुड़ी MRT, LRT, मोनोरेल और कम्यूटर लाइनें हैं।"
 
 lang: "hi"
-sourceContentHash: "c4429d7b1f425ab5"
+sourceContentHash: "1ae68408360ac651"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Bridge_in_extension.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-1.webp
+    alt: एक ढके हुए बस टर्मिनल बे पर खड़ी एक नीली-सफ़ेद Rapid Penang शहरी बस, जिसके सामने के गंतव्य पैनल पर उसका रूट नंबर दिख रहा है।
+    kind: representative
+    origin: third-party
+    subject: जॉर्ज टाउन, पेनांग में Weld Quay बस टर्मिनल पर एक Rapid Penang सार्वजनिक बस
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Penang_302_(WB_7691_P)_at_Weld_Quay_Bus_Terminal_(240919).jpg
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-2.webp
+    alt: एक रंगीन विज्ञापन रैप में लिपटी एक शहरी शटल बस जॉर्ज टाउन की एक सड़क पर चलते हुए एक ढके हुए सड़क किनारे बस स्टेशन की ओर बढ़ रही है।
+    kind: representative
+    origin: third-party
+    subject: पेनांग में Komtar ट्रांसपोर्ट हब की ओर बढ़ती जॉर्ज टाउन की एक सड़क पर एक मुफ़्त CAT शटल बस
+    credit: Weareblahs / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Free_CAT_Bus_with_Visit_Malaysia_2026_wrapping_approaching_Komtar_II_station.jpg
 ---
 
 लगभग एक सदी तक, पेनांग में इधर-उधर जाने का मतलब कारें, बसें और जलडमरूमध्य के पार फेरी रहा है। मुतिआरा लाइन राज्य का यह दाँव है कि एक ऊँची शहरी रेलवे आखिरकार इसे बदल सकती है - और यह पेनांग के पास अब तक की अपनी तरह की पहली लाइन है।

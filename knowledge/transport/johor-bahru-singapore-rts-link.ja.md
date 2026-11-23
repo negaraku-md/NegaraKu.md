@@ -37,7 +37,7 @@ faq:
     a: "CausewayとSecond Linkは、乗用車・バス・バイク・トラックのための道路の渡河路です。RTSリンクはそれらを和らげるための、旅客専用の鉄道シャトルです。別個のKL・シンガポール間高速鉄道（HSR）は、クアラルンプールとシンガポールを結ぶはるかに長い、そして幾度も棚上げされてきた都市間路線であり、規模の異なる別の計画です。RTSリンクはまた、運行が始まれば短距離のKTM Shuttle Tebrau列車に取って代わると見込まれています。"
 
 lang: "ja"
-sourceContentHash: "10e2e01e7527794c"
+sourceContentHash: "b670ec71614d4b5a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,6 +104,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru-Singapore_RTS_Link_Bridge_2025.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-1.webp
+    alt: ジョホールバルで建設が進み、形になりつつあるBukit Chagar RTS Link終着駅。
+    kind: actual
+    origin: third-party
+    subject: 建設中のBukit Chagar RTS Link終着駅、ジョホールバル
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Chagar_RTS_station_under_construction_20230606_142119.jpg
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-2.webp
+    alt: ジョホールバル・シンガポールRTS Link向けのCRRC株洲の編成車両が試運転を行う様子。
+    kind: actual
+    origin: third-party
+    subject: 試運転中のRTS Link用CRRC車両
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru%E2%80%93Singapore_RTS_Link_CRRC_Zhuzhou_rolling_stock_on_trial_070626.jpg
 ---
 
 毎平日、何万人もの人々が、地球上でもっとも混み合う陸の国境の一つであるジョホール・シンガポール間のCausewayを、乗用車やバス、バイクでじりじりと渡り、しばしば1時間以上も列に並ぶ。RTSリンクは、その渋滞を打開する手立ては、より広い道路ではなく一本の短い鉄道だ——という両政府の賭けである。

@@ -35,7 +35,7 @@ verificationNeeded:
   - "Pastikan jumlah jalur Rural Air Service terkini AirBorneo dan daftar bandaranya langsung dengan AirBorneo atau CAAM, mengingat laman RAS publik MAVCOM tidak memuat rincian tingkat jalur pada saat penulisan ini dan program itu baru saja berganti operator."
 
 lang: "id"
-sourceContentHash: "a8248270057070e4"
+sourceContentHash: "abe52a172e0638cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:ETS_5.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'KTM ETS intercity train at a platform'
+images:
+  - role: scene
+    src: /media/transport/intercity-travel/body-1.webp
+    alt: Selasar luas Terminal Bersepadu Selatan, terminal bus ekspres terpadu Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Selasar terminal bus ekspres Terminal Bersepadu Selatan (TBS), Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terminal_Bersepadu_Selatan_concourse_(211112).jpg
+  - role: scene
+    src: /media/transport/intercity-travel/body-2.webp
+    alt: Sebuah kereta api antarkota ETS menunggu di peron KL Sentral, pusat jaringan kereta api antarkota KTM.
+    kind: actual
+    origin: third-party
+    subject: Peron kereta api antarkota KTM di KL Sentral
+    credit: Hiroki.loh.st / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLS_ETS_Platform.jpg
 ---
 
 Terbang ke Kuching, naik bus ke Kuantan, atau naik kereta api ke Butterworth —

@@ -78,7 +78,27 @@ sources:
     url: "https://paultan.org/2025/07/18/mrt3-is-a-go-51-6-km-circle-line-approved-by-transport-ministry-land-acquisition-is-the-next-step/"
     publisher: "Paul Tan's Automotive News"
   - title: "MRT3, ¿una necesidad costosa? (MRT3 - a costly necessity?)"
-    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3---a-costly-necessity"
+    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3
+images:
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-1.webp
+    alt: El andén subterráneo de Bukit Bintang en la actual Línea Kajang del MRT, representativo de las estaciones de MRT del Valle de Klang.
+    kind: representative
+    origin: third-party
+    subject: Andén subterráneo del MRT existente del Valle de Klang (Línea Kajang) en Bukit Bintang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBK_Line_Bukit_Bintang_Station_Platform_1_1.jpg
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-2.webp
+    alt: Un tren del MRT de la Línea Putrajaya sobre un viaducto elevado que atraviesa el perfil urbano de Jalan Ipoh, en Kuala Lumpur.
+    kind: representative
+    origin: third-party
+    subject: Viaducto elevado del MRT del Valle de Klang (Línea Putrajaya) sobre Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Ipoh_Skyline_with_Putrajaya_Line_train_from_Batu_Kentonmen_KTM_Station_(220714).jpg
+---a-costly-necessity"
     publisher: "The Star"
   - title: "El coste de construcción de 31.000 millones de ringgit del MRT3, en el punto de mira (MRT3's RM31 bil construction price tag in the spotlight)"
     url: "https://theedgemalaysia.com/article/mrt3s-rm31-bil-construction-price-tag-spotlight"

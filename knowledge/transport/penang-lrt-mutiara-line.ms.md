@@ -37,7 +37,7 @@ faq:
     a: "Laluan Mutiara dikendalikan oleh pemilik-pengendali persekutuan yang sama, MRT Corp, yang menyampaikan laluan MRT dan LRT Lembah Klang, tetapi ia ialah rangkaian berasingan dan berdiri sendiri untuk Pulau Pinang dan bukannya sambungan kepada sistem KL. Ia ialah laluan rel bandar pertama Pulau Pinang, sedangkan Greater Kuala Lumpur sudah mempunyai beberapa laluan MRT, LRT, monorel dan komuter yang saling berhubung."
 
 lang: "ms"
-sourceContentHash: "c4429d7b1f425ab5"
+sourceContentHash: "1ae68408360ac651"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Bridge_in_extension.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-1.webp
+    alt: Sebuah bas bandar Rapid Penang berwarna biru dan putih diletakkan di petak terminal bas berbumbung, dengan nombor laluannya dipaparkan pada panel destinasi hadapan
+    kind: representative
+    origin: third-party
+    subject: sebuah bas awam Rapid Penang di Terminal Bas Weld Quay di George Town, Pulau Pinang
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Penang_302_(WB_7691_P)_at_Weld_Quay_Bus_Terminal_(240919).jpg
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-2.webp
+    alt: Sebuah bas ulang-alik bandar dalam balutan iklan berwarna-warni memandu di sepanjang jalan George Town, menghampiri perhentian bas tepi jalan yang berbumbung
+    kind: representative
+    origin: third-party
+    subject: sebuah bas ulang-alik CAT percuma di jalan George Town menghampiri hab pengangkutan Komtar di Pulau Pinang
+    credit: Weareblahs / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Free_CAT_Bus_with_Visit_Malaysia_2026_wrapping_approaching_Komtar_II_station.jpg
 ---
 
 Selama hampir seabad, bergerak di sekitar Pulau Pinang bermakna kereta, bas dan feri menyeberangi selat. Laluan Mutiara ialah pertaruhan negeri ini bahawa sebuah landasan rel bandar yang bertingkat akhirnya boleh mengubah keadaan itu - dan ia ialah yang pertama seumpamanya yang pernah dimiliki Pulau Pinang.

@@ -29,7 +29,7 @@ faq:
     a: "RFID masih memerlukan kendaraan melalui jalur bertanda dengan palang yang naik setelah pembacaan berhasil. ANPR seperti JustGO PLUS mengenali kendaraan melalui kamera yang membaca pelat nomor, memungkinkan kendaraan terdaftar melalui jalur mana pun tanpa tag fisik sama sekali — satu lagi langkah ke arah sistem tanpa palang sepenuhnya (MLFF)."
 
 lang: "id"
-sourceContentHash: "c1392d940afe3b99"
+sourceContentHash: "0d93829e0782b4d6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SmartTag.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-1.webp
+    alt: Gerbang tol jalan raya yang lebar terlihat pada siang hari, dengan sederet gardu tol dan kanopi lajur di atas yang membentang di beberapa lajur pembayaran
+    kind: actual
+    origin: third-party
+    subject: gerbang tol jalan raya pada siang hari dengan banyak lajur dan gardu dekat Ipoh, Perak
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Toll_plaza,_Ipoh,_Perak,_Malaysia.jpg
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-2.webp
+    alt: Lajur keluar gerbang tol yang ditandai untuk pembayaran RFID, dengan palang lajur dan gantri pembaca di atas jalan dekat Kota Damansara
+    kind: actual
+    origin: third-party
+    subject: lajur keluar RFID di Gerbang Tol Kota Damansara, Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MyRFid_Kota_Damansara_Toll_Plaza_1.jpg
 ---
 
 Mobil di depan Anda di jalur RFID berhenti mendadak karena stiker pada lampu utamanya tidak terdeteksi — padahal banyak orang mengira RFID berarti "tidak perlu melakukan apa-apa sama sekali." Kenyataannya, Malaysia kini menjalankan sekurang-kurangnya empat generasi teknologi tol serentak di jalan tol yang berbeda, dan mengelirukan satu dengan yang lain adalah penyebab biasa mobil terhenti di gerbang.

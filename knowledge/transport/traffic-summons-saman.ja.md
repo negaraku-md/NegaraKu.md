@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "98e5e951fdd86713"
+sourceContentHash: "820eea145d5fc005"
 
 status: "published"
 aiAssisted: true
@@ -78,6 +78,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-1.webp
+    alt: 道路上の検問所に立つ制服姿の警察官。検問所で減速して停止する車両を検査している。
+    kind: actual
+    origin: third-party
+    subject: 警察官が車両を停止させ検査するマレーシアの検問所
+    credit: Original uploader (ms.wikipedia) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekatanjalanraya.jpg
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-2.webp
+    alt: 反射ベストとヘルメットを着けたマレーシアの交通警察官が、市街の路上に立ち、通行する車両をさばいている。
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールの路上で交通整理に当たる交通警察官
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg
 ---
 
 運転者は、書面上は似て見える四種類の切符を受け取ることがある——だがそれらは四つの異なる機関から来ており、四つの異なる場所で照会しなければならない。多くの人は一つのポータルしか知らず、そのため自分の切符が「消えた」と思い込むが、実際にはそれは別のシステムの中に収まっている。

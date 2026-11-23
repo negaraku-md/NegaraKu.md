@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "ผู้ขับขี่ชาวมาเลเซียที่วางแผนจะขับรถของตนเองข้ามสะพาน Causeway หรือ Second Link เข้าสู่สิงคโปร์ หรือข้ามพรมแดนทางบกตอนเหนือเข้าสู่ไทย"
 
 lang: "th"
-sourceContentHash: "4dfab6647457152e"
+sourceContentHash: "816922553871bb4d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -73,6 +73,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-1.webp
+    alt: สะพานถนนเซคันด์ลิงก์มาเลเซีย-สิงคโปร์ทอดข้ามช่องแคบยะโฮร์ระหว่างตันจุงกูปังกับตัวส์
+    kind: actual
+    origin: third-party
+    subject: สะพานเซคันด์ลิงก์มาเลเซีย-สิงคโปร์ (ตัวส์)
+    credit: Nigos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia-Singapore_Second_Link_bridge.jpg
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-2.webp
+    alt: ทางเข้าสู่ด่านพรมแดนทางบกบูกิตกายูฮิตัมบนพรมแดนมาเลเซีย-ไทยในรัฐเกดะห์
+    kind: actual
+    origin: third-party
+    subject: ด่านพรมแดนมาเลเซีย-ไทยบูกิตกายูฮิตัม-สะเดา
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Kayu_Hitam-Sadao_border_crossing_2.jpg
 ---
 
 สองประเทศเพื่อนบ้าน สองพรมแดนทางบก สองระบบที่แตกต่างกันโดยสิ้นเชิงสำหรับรถคันเดียวกัน

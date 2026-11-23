@@ -23,7 +23,7 @@ verificationNeeded:
   - "Artikel ini tidak menyebut yuran tepat bagi kursus Kelas D di sekolah memandu swasta, atau jadual yuran JPJ yang tepat bagi laluan LDL/PDL/CDL, kerana tiada satu jadual yuran rasmi JPJ ditemui semasa pengesahan — sahkan yuran semasa terus di kaunter JPJ atau sekolah memandu berlesen sebelum membuat bajet."
   - "Perkataan tepat seksyen 28 Akta Pengangkutan Jalan 1987 disahkan melalui ringkasan sekunder Akta itu dan bukan pembacaan baris demi baris terus terhadap PDF yang dihoskan JPJ (dielakkan di sini untuk mengawal penggunaan konteks) — nombor seksyen dan kesan substantifnya disokong merentasi pelbagai sumber bebas, tetapi sahkan perkataan tepat berbanding PDF Akta 333 yang dihoskan JPJ jika merangka apa-apa yang bergantung dari segi undang-undang kepadanya."
 lang: "ms"
-sourceContentHash: "137fb2a54b30ed94"
+sourceContentHash: "09bd56292bdc3d67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Bagan_Luar_(Malaysia_Federal_Highway_1),_Butterworth_20250917_103332.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-1.webp
+    alt: Papan tanda kawal selia had ketinggian Malaysia yang dipasang di atas jalan di Kuala Lumpur berhampiran laluan masuk tol.
+    kind: representative
+    origin: third-party
+    subject: Papan tanda kawal selia jalan raya Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Traffic-signs_Regulatory-sign-06.jpg
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-2.webp
+    alt: Lampu isyarat dan tanda lorong di sepanjang Laluan Persekutuan 91 Malaysia yang menuju ke utara melalui Kluang, Johor.
+    kind: actual
+    origin: third-party
+    subject: Lebuh raya persekutuan melalui Kluang, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151005.jpg
 ---
 
 Seorang pesara MM2H yang telah memandu selama tiga puluh tahun di luar negara,

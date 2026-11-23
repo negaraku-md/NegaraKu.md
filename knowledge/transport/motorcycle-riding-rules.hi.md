@@ -29,7 +29,7 @@ faq:
     a: "प्रकाशन के समय तक, कोई इंजन-क्षमता संबंधी प्रतिबंध प्रभावी नहीं है; इंजन क्षमता के आधार पर हाईवे पहुँच सीमित करने के प्रस्ताव अभी तक क़ानून नहीं बने हैं।"
 
 lang: "hi"
-sourceContentHash: "1c36a26778aafc7e"
+sourceContentHash: "b693cfa123085cc9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motorcycle-riding-rules/body-1.webp
+    alt: केदाह में सुंगई पेतानी उतारा टोल प्लाज़ा के पास मुख्य सड़क के किनारे चलती एक अलग मोटरसाइकिल लेन।
+    kind: actual
+    origin: third-party
+    subject: सुंगई पेतानी उतारा टोल के पास समर्पित मोटरसाइकिल लेन, केदाह
+    credit: Lawantetaplawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Motorcycle_lane_Sungai_Petani_Utara.jpg
+  - role: scene
+    src: /media/transport/motorcycle-riding-rules/body-2.webp
+    alt: जॉर्ज टाउन के लिटिल इंडिया में एक सड़क के किनारे कतार में खड़ी मोटरसाइकिलें और स्कूटर, जो मलेशिया में दोपहिया वाहनों के भारी इस्तेमाल को दर्शाते हैं।
+    kind: representative
+    origin: third-party
+    subject: जॉर्ज टाउन, पेनांग में एक सड़क पर कतार में खड़ी मोटरसाइकिलें और स्कूटर
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_with_motorcycle_and_scooter_parking_in_Little_India_in_George_Town,_Penang_-_53830462000.jpg
 ---
 
 आप Federal Highway पर एक मोटरसाइकिल से प्रवेश करते हैं, बाईं ओर मुड़ती हुई एक "Motorcycle Lane" (मोटरसाइकिल लेन) की साइन देखते हैं — और सोचते हैं कि क्या आपको उसका पालन करना आवश्यक है या आप मुख्य कैरिजवे पर रह सकते हैं। उत्तर एक शब्द पर टिका है: *राजपत्रित*।

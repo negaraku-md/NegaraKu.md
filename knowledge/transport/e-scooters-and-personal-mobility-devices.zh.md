@@ -27,7 +27,7 @@ faq:
     a: "电动脚踏车只有在属于符合马来西亚标准MS2514的脚踏助力（pedal-assist）类型、没有油门（throttle）且脚踏板保持固定安装的情况下才获豁免。未经批准的带油门电动脚踏车被归类为PMD或轻便摩托车（moped），属于被禁止之列。"
 
 lang: "zh"
-sourceContentHash: "c96ca2ea918ba45a"
+sourceContentHash: "44f0de24063adf5d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,6 +81,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-1.webp
+    alt: 一辆共享 Beam 电动滑板车停放在吉隆坡 Merdeka MRT 车站附近一家酒店旁的微型交通停放区。
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡 Merdeka MRT 附近的共享 Beam 电动滑板车停放点
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BEAM_e-scooter_Hotel_Olympic.jpg
+  - role: scene
+    src: /media/transport/e-scooters-and-personal-mobility-devices/body-2.webp
+    alt: 一辆紫色共享 Beam Mobility 电动滑板车停放在柔佛峇株巴辖 Taman Rekreasi Tasik Y 的小径上。
+    kind: actual
+    origin: third-party
+    subject: 柔佛峇株巴辖湖畔公园的共享 Beam 电动滑板车
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg
 ---
 
 你买了一辆电动滑板车通勤上班，但当车轮触及公共道路的那一刻，你就已经违法了。这就是自2021年底以来马来西亚微型交通工具的现实。

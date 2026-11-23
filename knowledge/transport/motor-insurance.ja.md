@@ -23,7 +23,7 @@ appliesTo: "保険の保障の種類とその法的要件を理解したいと�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b169a3f86c365797"
+sourceContentHash: "cddc90636ecec6f8"
 
 status: "published"
 aiAssisted: true
@@ -68,6 +68,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motor-insurance/body-1.webp
+    alt: クアラルンプールの青い市街地用レッカー車。故障や事故の後に車両を回収するたぐいの車。
+    kind: actual
+    origin: third-party
+    subject: レッカー車、マレーシア・クアラルンプール
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Tow-truck-01.jpg
+  - role: scene
+    src: /media/transport/motor-insurance/body-2.webp
+    alt: サバ州コタキナバルのJalan Bundusanで、夕方の渋滞に数珠つなぎになった車。
+    kind: actual
+    origin: third-party
+    subject: 夕方の渋滞、サバ州コタキナバルの市街道路
+    credit: rahimhd / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Bundusan_5pm_Traffic_Jam_towards_Beverley_Roundabout_-_panoramio.jpg
 ---
 
 一度も洗ったことがなく、タイヤはすり減り、エアコンも壊れた車を運転することはできる——そしてそれはすべて法律上は合法である。しかし、一枚の書類、すなわち第三者保険証券を持たずに運転することは、刑事犯罪である。

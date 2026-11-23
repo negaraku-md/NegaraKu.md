@@ -29,7 +29,7 @@ faq:
     a: "வெளியீட்டு நேரம் வரை, அமலில் உள்ள என்ஜின் கொள்ளளவு கட்டுப்பாடு எதுவும் இல்லை; என்ஜின் கொள்ளளவை வைத்து நெடுஞ்சாலை அணுகலைக் கட்டுப்படுத்தும் முன்மொழிவுகள் இன்னும் சட்டமாகவில்லை."
 
 lang: "ta"
-sourceContentHash: "1c36a26778aafc7e"
+sourceContentHash: "b693cfa123085cc9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motorcycle-riding-rules/body-1.webp
+    alt: கெடாவில் சுங்கை பெட்டானி உத்தாரா சுங்கச்சாவடிக்கு அருகே பிரதான சாலையோரமாகச் செல்லும் தனித்த மோட்டார்சைக்கிள் பாதை.
+    kind: actual
+    origin: third-party
+    subject: கெடா, சுங்கை பெட்டானி உத்தாரா சுங்கச்சாவடிக்கு அருகே தனி மோட்டார்சைக்கிள் பாதை
+    credit: Lawantetaplawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Motorcycle_lane_Sungai_Petani_Utara.jpg
+  - role: scene
+    src: /media/transport/motorcycle-riding-rules/body-2.webp
+    alt: ஜார்ஜ் டவுனின் லிட்டில் இந்தியாவில் ஒரு தெருவோரமாக நிறுத்தப்பட்டுள்ள மோட்டார்சைக்கிள்கள் மற்றும் ஸ்கூட்டர்களின் வரிசை, மலேசியாவின் அதிக இருசக்கர வாகனப் பயன்பாட்டைப் பிரதிபலிக்கிறது.
+    kind: representative
+    origin: third-party
+    subject: பினாங், ஜார்ஜ் டவுனில் ஒரு தெருவில் வரிசையாக நிற்கும் மோட்டார்சைக்கிள்களும் ஸ்கூட்டர்களும்
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_with_motorcycle_and_scooter_parking_in_Little_India_in_George_Town,_Penang_-_53830462000.jpg
 ---
 
 நீங்கள் லெபுஹ்ராயா பெர்செகுட்டுவான் (Lebuhraya Persekutuan) நெடுஞ்சாலைக்குள் மோட்டார்சைக்கிளில் நுழைகிறீர்கள், இடதுபுறமாகப் பிரியும் “மோட்டார்சைக்கிள் பாதை” (Lorong Motosikal) அறிவிப்புப் பலகையைப் பார்க்கிறீர்கள் — அதைப் பின்பற்றுவது கட்டாயமா அல்லது பிரதான பாதையிலேயே தொடரலாமா என்று வியக்கிறீர்கள். பதில் ஒரே ஒரு சொல்லைச் சார்ந்தது: *வர்த்தமானியில் வெளியிடப்பட்டதா* (diwartakan).

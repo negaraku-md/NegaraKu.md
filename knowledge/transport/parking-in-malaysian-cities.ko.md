@@ -29,7 +29,7 @@ faq:
     a: "아니요. 주차 벌칙금은 주차 관련 도로교통 명령에 따라 PBT가 발부하는 반면, 운전 위반에 대한 교통 딱지는 PDRM이나 JPJ가 발부합니다."
 
 lang: "ko"
-sourceContentHash: "fbbc5c9405ba0df6"
+sourceContentHash: "ced4815eca51d2d0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-1.webp
+    alt: 말레이시아 교외의 거리에서 바라본, 격자 전면의 개방형 주차층이 여러 층 쌓인 높다란 콘크리트 다층 주차 건물.
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 체라스 Taman Segar의 다층 주차 건물
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Segar_multi-storey_car_park_(221028).jpg
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-2.webp
+    alt: 페낭 조지타운 거리의 풍화된 벽을 배경으로, 기둥에 바짝 붙여 설치된 여러 개의 금속 주차 금지 및 노변 안내 표지판.
+    kind: actual
+    origin: third-party
+    subject: 페낭 조지타운 거리의 주차 금지 및 노변 주차 표지판 무리
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Still_Life_with_No_Parking_Signs_-_George_Town_-_Penang_-_Malaysia_(35374672612).jpg
 ---
 
 티켓 기계에 넣을 동전을 차 안에서 찾습니다 — 하지만 그 기계는 2020년 이후로

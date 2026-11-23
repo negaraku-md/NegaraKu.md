@@ -29,7 +29,7 @@ faq:
     a: "El RFID todavía requiere que un vehículo pase por un carril señalizado con una barrera que sube tras una lectura correcta. El ANPR como JustGO PLUS identifica los vehículos mediante una cámara que lee la matrícula, lo que permite a los vehículos registrados pasar por cualquier carril sin ningún distintivo físico, un paso más hacia un sistema totalmente sin barrera (MLFF)."
 
 lang: "es"
-sourceContentHash: "c1392d940afe3b99"
+sourceContentHash: "0d93829e0782b4d6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SmartTag.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-1.webp
+    alt: Una amplia plaza de peaje de autopista vista a la luz del día, con una hilera de cabinas de peaje y marquesinas elevadas sobre los carriles que cubren varios carriles de pago
+    kind: actual
+    origin: third-party
+    subject: una plaza de peaje de autopista de día, con varios carriles y cabinas, cerca de Ipoh, Perak
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Toll_plaza,_Ipoh,_Perak,_Malaysia.jpg
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-2.webp
+    alt: Un carril de salida de una plaza de peaje señalizado para pago mediante RFID, con una barrera de carril y un pórtico lector elevado sobre la carretera cerca de Kota Damansara
+    kind: actual
+    origin: third-party
+    subject: un carril de salida con RFID en la plaza de peaje de Kota Damansara, Selangor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MyRFid_Kota_Damansara_Toll_Plaza_1.jpg
 ---
 
 El coche que va delante de ti en el carril RFID frena de golpe porque la pegatina de su faro no se detectó, aunque mucha gente da por sentado que RFID significa «no tienes que hacer absolutamente nada». En realidad, Malasia opera actualmente al menos cuatro generaciones de tecnología de peaje de forma simultánea en distintas autopistas, y confundir una con otra es una causa frecuente de que los coches se queden atascados en la barrera.

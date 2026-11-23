@@ -31,7 +31,7 @@ faq:
     a: "JPJ के विद्युत वाहन LKM दिशानिर्देशों के अनुसार, 50 kW और उससे कम रेटिंग वाले EV के लिए सालाना RM20। उच्च शक्ति के लिए दरें तरक्कीपसंद रूप से बढ़ती हैं।"
 
 lang: "hi"
-sourceContentHash: "f81df275bc45182b"
+sourceContentHash: "0ed1327337126c45"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-1.webp
+    alt: सेलांगोर के पुचोंग में LDP हाईवे स्टॉप पर इलेक्ट्रिक वाहनों के लिए एक Shell Recharge DC फ़ास्ट-चार्जिंग बे।
+    kind: actual
+    origin: third-party
+    subject: Shell Recharge DC फ़ास्ट-चार्जिंग स्टेशन, LDP पुचोंग साउथ, मलेशिया
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Recharge_LDP_Puchong_South.jpg
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-2.webp
+    alt: पेनांग में खड़ी एक नीली 2023 BYD Atto 3 इलेक्ट्रिक SUV, जो मलेशियाई बाज़ार में एक लोकप्रिय EV है।
+    kind: actual
+    origin: third-party
+    subject: पेनांग, मलेशिया में BYD Atto 3 इलेक्ट्रिक SUV
+    credit: LuvsMG481 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2023_BYD_ATTO_3_Ultra_front.jpg
 ---
 
 मलेशिया में विद्युत कारों के लिए मुफ़्त सड़क कर का दौर खत्म हो गया — पर आपके MyJPJ में आने

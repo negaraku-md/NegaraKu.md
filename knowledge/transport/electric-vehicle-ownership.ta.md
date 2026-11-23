@@ -31,7 +31,7 @@ faq:
     a: "JPJ இன் மின்சார வாகன LKM வழிகாட்டுதல்களின்படி, 50 kW மற்றும் அதற்குக் கீழ் திறனுள்ள EV-களுக்கு ஆண்டுக்கு RM20. அதிக திறனுக்கு விகிதங்கள் படிப்படியாக அதிகரிக்கின்றன."
 
 lang: "ta"
-sourceContentHash: "f81df275bc45182b"
+sourceContentHash: "0ed1327337126c45"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -98,6 +98,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-1.webp
+    alt: செலாங்கூரின் புச்சோங்கில் LDP நெடுஞ்சாலை நிறுத்துமிடத்தில் மின்சார வாகனங்களுக்கான Shell Recharge DC விரைவு மின்னூட்டப் பகுதி.
+    kind: actual
+    origin: third-party
+    subject: Shell Recharge DC விரைவு மின்னூட்ட நிலையம், LDP புச்சோங் தெற்கு, மலேசியா
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Recharge_LDP_Puchong_South.jpg
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-2.webp
+    alt: மலேசியச் சந்தையில் பிரபலமான மின்சார வாகனமான நீல நிற 2023 BYD Atto 3 மின்சார SUV, பினாங்கில் நிறுத்தப்பட்டுள்ளது.
+    kind: actual
+    origin: third-party
+    subject: பினாங்கில் BYD Atto 3 மின்சார SUV, மலேசியா
+    credit: LuvsMG481 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2023_BYD_ATTO_3_Ultra_front.jpg
 ---
 
 மலேசியாவில் மின்சார கார்களுக்கு இலவச சாலை வரி காலம் முடிந்துவிட்டது — ஆனால் உங்கள் MyJPJ இல் வந்திறங்கும் முதல் பில் நீங்கள் நினைப்பதை விட மலிவாக இருக்கலாம், மேலும் அது முற்றிலும் புதிய முறையில் கணக்கிடப்படுகிறது.

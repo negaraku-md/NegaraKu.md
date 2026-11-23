@@ -37,7 +37,7 @@ faq:
     a: "La Línea Mutiara la gestiona el mismo operador-propietario federal, MRT Corp, que entregó las líneas de MRT y LRT del Valle de Klang, pero es una red separada e independiente para Penang, no una ampliación del sistema de KL. Es la primera línea de ferrocarril urbano de Penang, mientras que el Gran Kuala Lumpur ya cuenta con varias líneas interconectadas de MRT, LRT, monorraíl y cercanías."
 
 lang: "es"
-sourceContentHash: "c4429d7b1f425ab5"
+sourceContentHash: "1ae68408360ac651"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Bridge_in_extension.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-1.webp
+    alt: Un autobús urbano azul y blanco de Rapid Penang estacionado en una dársena cubierta de una terminal de autobuses, con su número de ruta en el panel frontal de destino
+    kind: representative
+    origin: third-party
+    subject: un autobús público de Rapid Penang en la terminal de autobuses de Weld Quay, en George Town, Penang
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Penang_302_(WB_7691_P)_at_Weld_Quay_Bus_Terminal_(240919).jpg
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-2.webp
+    alt: Un autobús lanzadera urbano con un vistoso envoltorio publicitario circula por una calle de George Town, acercándose a una estación de autobuses cubierta junto a la carretera
+    kind: representative
+    origin: third-party
+    subject: un autobús lanzadera gratuito CAT en una calle de George Town acercándose al centro de transporte Komtar, en Penang
+    credit: Weareblahs / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Free_CAT_Bus_with_Visit_Malaysia_2026_wrapping_approaching_Komtar_II_station.jpg
 ---
 
 Durante buena parte de un siglo, moverse por Penang ha significado coches, autobuses y el ferry para cruzar el estrecho. La Línea Mutiara es la apuesta del estado por que un ferrocarril urbano elevado pueda por fin cambiar eso, y es el primero de su tipo que Penang ha tenido nunca.

@@ -37,7 +37,7 @@ faq:
     a: "Causeway dan Second Link ialah lintasan jalan raya untuk kereta, bas, motosikal dan lori; Pautan RTS ialah perkhidmatan ulang-alik rel penumpang khusus yang bertujuan melegakannya. Rel Berkelajuan Tinggi (HSR) KL-Singapura yang berasingan ialah laluan antara bandar yang jauh lebih panjang, dan berulang kali ditangguhkan, antara Kuala Lumpur dengan Singapura - projek berbeza pada skala berbeza. Pautan RTS juga dijangka menggantikan kereta api KTM Shuttle Tebrau yang pendek apabila ia beroperasi."
 
 lang: "ms"
-sourceContentHash: "10e2e01e7527794c"
+sourceContentHash: "b670ec71614d4b5a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,6 +104,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru-Singapore_RTS_Link_Bridge_2025.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-1.webp
+    alt: Stesen RTS Link Bukit Chagar yang sedang mengambil bentuk dalam pembinaan di Johor Bahru.
+    kind: actual
+    origin: third-party
+    subject: Stesen terminus RTS Link Bukit Chagar dalam pembinaan, Johor Bahru
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Chagar_RTS_station_under_construction_20230606_142119.jpg
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-2.webp
+    alt: Satu set kereta api CRRC Zhuzhou untuk RTS Link Johor Bahru-Singapura semasa larian percubaan.
+    kind: actual
+    origin: third-party
+    subject: Stok kereta api CRRC RTS Link dalam larian percubaan
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru%E2%80%93Singapore_RTS_Link_CRRC_Zhuzhou_rolling_stock_on_trial_070626.jpg
 ---
 
 Setiap hari bekerja, puluhan ribu orang merangkak menyeberangi Causeway Johor-Singapura - salah satu sempadan darat paling sibuk di dunia - dengan kereta, bas dan motosikal, selalunya beratur sejam atau lebih. Pautan RTS ialah pertaruhan kedua-dua kerajaan bahawa kereta api pendek, bukan jalan yang lebih lebar, ialah cara untuk memecahkan kesesakan itu.

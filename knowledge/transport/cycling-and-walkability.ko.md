@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "말레이시아 도시의 보행 환경과 자전거 인프라를 다른 나라와 비교하려는 주민, 계획가, 그리고 관심 있는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "3d0d276aec4c1fe4"
+sourceContentHash: "3b5dac078c53a6a4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -73,6 +73,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cycling_and_Jogging_Track_in_Phase_3_of_PIIP.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/cycling-and-walkability/body-1.webp
+    alt: 페낭 조지타운에서 통행량이 많은 간선도로를 따라 이어지는 포장된 자전거·보행 겸용 길.
+    kind: actual
+    origin: third-party
+    subject: 페낭 조지타운의 자전거·보행 겸용 길
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shared_pedestrian_and_bicycle_path_next_to_major_road_in_George_Town,_Penang_-_53829115437.jpg
+  - role: scene
+    src: /media/transport/cycling-and-walkability/body-2.webp
+    alt: 쿠알라룸푸르 중심부 잘란 툰 라자크 옆으로 녹음이 늘어선 넓은 지붕 덮인 보행로.
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 잘란 툰 라자크 보행로
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Tun_Razak_Pedestrian_Walkway_(211031).jpg
 ---
 
 클랑밸리(Klang Valley) LRT 역을 오후 1시에 나서서 사무실까지 마지막

@@ -37,7 +37,7 @@ faq:
     a: "Tuyến Mutiara được vận hành bởi cùng một chủ sở hữu-nhà vận hành liên bang, MRT Corp, đơn vị đã thực hiện các tuyến MRT và LRT của Thung lũng Klang, nhưng nó là một mạng lưới riêng biệt, độc lập cho Penang chứ không phải phần mở rộng của hệ thống KL. Đây là tuyến đường sắt đô thị đầu tiên của Penang, trong khi Đại Kuala Lumpur đã có sẵn nhiều tuyến MRT, LRT, monorail và tàu ngoại ô liên kết với nhau."
 
 lang: "vi"
-sourceContentHash: "c4429d7b1f425ab5"
+sourceContentHash: "1ae68408360ac651"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Bridge_in_extension.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-1.webp
+    alt: Một chiếc xe buýt thành phố Rapid Penang màu xanh trắng đỗ tại ô bến xe buýt có mái che, với số tuyến hiển thị trên bảng điểm đến phía trước
+    kind: representative
+    origin: third-party
+    subject: một chiếc xe buýt công cộng Rapid Penang tại Bến xe buýt Weld Quay ở George Town, Penang
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Penang_302_(WB_7691_P)_at_Weld_Quay_Bus_Terminal_(240919).jpg
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-2.webp
+    alt: Một chiếc xe buýt trung chuyển thành phố được dán quảng cáo nhiều màu sắc chạy dọc một con phố George Town, tiến đến một trạm xe buýt ven đường có mái che
+    kind: representative
+    origin: third-party
+    subject: một chiếc xe buýt trung chuyển CAT miễn phí trên một con phố George Town đang tiến đến trung tâm giao thông Komtar ở Penang
+    credit: Weareblahs / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Free_CAT_Bus_with_Visit_Malaysia_2026_wrapping_approaching_Komtar_II_station.jpg
 ---
 
 Trong gần một thế kỷ, việc đi lại quanh Penang đồng nghĩa với xe hơi, xe buýt và chuyến phà băng qua eo biển. Tuyến Mutiara là canh bạc của bang rằng một tuyến đường sắt đô thị trên cao cuối cùng có thể thay đổi điều đó - và nó là tuyến đầu tiên thuộc loại này mà Penang từng có.

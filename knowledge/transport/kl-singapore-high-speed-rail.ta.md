@@ -29,7 +29,7 @@ faq:
     a: "இல்லை. RTS Link என்பது Johor Bahru மற்றும் Woodlands இடையே இயங்கும் ஒரு குறுகிய எல்லை தாண்டிய தொடர் ரயில்; இது 2026-இல் திறக்க இலக்கு வைக்கப்பட்டுள்ளது. HSR என்பது கோலாலம்பூர் மற்றும் சிங்கப்பூர் இடையே திட்டமிடப்பட்ட ஒரு தனி ~350 கி.மீ அதிவேக வழித்தடம்."
 
 lang: "ta"
-sourceContentHash: "b505d87f2fe5cea1"
+sourceContentHash: "7905cead6b64344a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-1.webp
+    alt: ஒரு நிலைய தளத்தில் உள்ள Taiwan High Speed Rail ரயில் தொகுதி, ஒப்பிடத்தக்க பிராந்திய அதிவேக ரயில் பாதையாகக் காட்டப்பட்டுள்ளது.
+    kind: representative
+    origin: third-party
+    subject: இப்பகுதியில் இயங்கும் அதிவேக ரயில் (Taiwan High Speed Rail), எதிர்கால KL-சிங்கப்பூர் HSR ஐ பிரதிநிதித்துவப்படுத்துகிறது
+    credit: 4300streetcar / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_639_at_Tainan_HSR_station_May_2025.jpg
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-2.webp
+    alt: ஜப்பானின் ஹிரோஷிமா நிலையத்தில் N700-தொடர் ஷின்கான்சென் அதிவேக ரயில், ஒப்பிடத்தக்க பிராந்திய அதிவேக ரயில் பாதையாகக் காட்டப்பட்டுள்ளது.
+    kind: representative
+    origin: third-party
+    subject: இப்பகுதியில் இயங்கும் அதிவேக ரயில் (ஜப்பானின் N700 ஷின்கான்சென்), எதிர்கால KL-சிங்கப்பூர் HSR ஐ பிரதிநிதித்துவப்படுத்துகிறது
+    credit: Eric Salard / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shinkansen_N700_at_HIroshima_Station_1_2025-03-27.jpg
 ---
 
 கோலாலம்பூரிலிருந்து சிங்கப்பூருக்கு உங்களைச் சுமார் 90 நிமிடங்களில் அழைத்துச் செல்லக்கூடிய ஒரு புல்லட் ரயில் — கையெழுத்திடப்பட்டது, இடைநிறுத்தப்பட்டது, நிறுத்தப்பட்டது, துக்கம் அனுசரிக்கப்பட்டது, மீண்டும் உயிர்பெற்றது — இவை அனைத்தும் ஒரு அடி தண்டவாளம்கூட போடப்படாத நிலையில் நடந்தன. மீண்டும் மீண்டும் நிலைமாறும் இந்தத் திட்டம் உண்மையில் எங்கே நிற்கிறது என்பது இதோ.

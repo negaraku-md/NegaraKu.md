@@ -29,7 +29,7 @@ faq:
     a: "은행이나 금융회사가 대출 기간 동안 할부구매법 1967(Hire-Purchase Act 1967)에 따라 차량의 법적 소유자로 등록됩니다. 구매자는 차량을 일상적으로 사용하는 등록 점유자이며, 대출이 완전히 상환되고 금융사가 해제를 발행한 후에야 등록 소유자가 됩니다."
 
 lang: "ko"
-sourceContentHash: "1e94499e976a5044"
+sourceContentHash: "dc8862cd8ffc9b3c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 2.5 my'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_showroom_in_SS14,_Subang_Jaya.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/buying-a-car/body-1.webp
+    alt: 말레이시아 페낭의 Perodua 브랜드 쇼룸 안에서 밝은 조명 아래 신형 Perodua 차량들이 줄지어 서 있다.
+    kind: actual
+    origin: third-party
+    subject: 페낭의 Perodua 대리점 쇼룸
+    credit: Bindydad123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Showroom,_Penang,_Malaysia_(1).jpg
+  - role: scene
+    src: /media/transport/buying-a-car/body-2.webp
+    alt: 말레이시아산 국산 브랜드 차량인 검은색 Proton Perdana 세단이 셀랑고르주 샤알람의 거리에 주차되어 있다.
+    kind: actual
+    origin: third-party
+    subject: 셀랑고르주 샤알람의 Proton Perdana 세단
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2014_Proton_Perdana_2.4P_in_Shah_Alam,_Malaysia_(01).jpg
 ---
 
 말레이시아에서 자동차를 사면 하나의 계약에 서명하지만, 실제로는 동시에 세

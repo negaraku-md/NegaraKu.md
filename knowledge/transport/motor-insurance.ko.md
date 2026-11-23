@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "보험 담보 유형과 그 법적 요건을 이해하려는 말레이시아의 자동차 소유자와 운전자 — 승용차, 오토바이, 상용차."
 
 lang: "ko"
-sourceContentHash: "b169a3f86c365797"
+sourceContentHash: "cddc90636ecec6f8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -69,6 +69,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motor-insurance/body-1.webp
+    alt: 차량이 고장 나거나 사고가 난 뒤 견인하는 종류인, 쿠알라룸푸르의 파란색 도심 견인차.
+    kind: actual
+    origin: third-party
+    subject: 견인차, 말레이시아 쿠알라룸푸르
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Tow-truck-01.jpg
+  - role: scene
+    src: /media/transport/motor-insurance/body-2.webp
+    alt: 사바주 코타키나발루 Jalan Bundusan에서 저녁 정체에 꼬리를 물고 늘어선 차량들.
+    kind: actual
+    origin: third-party
+    subject: 사바주 코타키나발루 도심 도로의 저녁 교통 정체
+    credit: rahimhd / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Bundusan_5pm_Traffic_Jam_towards_Beverley_Roundabout_-_panoramio.jpg
 ---
 
 한 번도 세차한 적 없고, 타이어가 닳았으며, 에어컨이 고장 난 차를 몰 수

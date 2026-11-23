@@ -29,7 +29,7 @@ faq:
     a: "As of publication, there is no engine-capacity restriction in force; proposals to limit highway access by engine capacity have not yet become law."
 
 lang: "en"
-sourceContentHash: "1c36a26778aafc7e"
+sourceContentHash: "b693cfa123085cc9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motorcycle-riding-rules/body-1.webp
+    alt: A segregated motorcycle lane running beside the main road near the Sungai Petani Utara toll plaza in Kedah.
+    kind: actual
+    origin: third-party
+    subject: Dedicated motorcycle lane near Sungai Petani Utara toll, Kedah
+    credit: Lawantetaplawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Motorcycle_lane_Sungai_Petani_Utara.jpg
+  - role: scene
+    src: /media/transport/motorcycle-riding-rules/body-2.webp
+    alt: A row of motorcycles and scooters parked along a street in Little India, George Town, reflecting Malaysia's heavy two-wheeler use.
+    kind: representative
+    origin: third-party
+    subject: Motorcycles and scooters lining a street in George Town, Penang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_with_motorcycle_and_scooter_parking_in_Little_India_in_George_Town,_Penang_-_53830462000.jpg
 ---
 
 You ride onto the Federal Highway on a motorcycle, see a "Motorcycle Lane" sign branching off to the left — and wonder whether you are required to follow it or may stay on the main carriageway. The answer hinges on one word: *gazetted*.

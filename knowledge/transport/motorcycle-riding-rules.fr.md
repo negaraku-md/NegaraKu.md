@@ -29,7 +29,7 @@ faq:
     a: "À la date de publication, aucune restriction de cylindrée n'est en vigueur ; les propositions visant à limiter l'accès aux autoroutes selon la cylindrée ne sont pas encore devenues loi."
 
 lang: "fr"
-sourceContentHash: "1c36a26778aafc7e"
+sourceContentHash: "b693cfa123085cc9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motorcycle-riding-rules/body-1.webp
+    alt: Une voie séparée pour les motos longeant la route principale, près de la gare de péage de Sungai Petani Utara, dans le Kedah.
+    kind: actual
+    origin: third-party
+    subject: Voie réservée aux motos près du péage de Sungai Petani Utara, Kedah
+    credit: Lawantetaplawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Motorcycle_lane_Sungai_Petani_Utara.jpg
+  - role: scene
+    src: /media/transport/motorcycle-riding-rules/body-2.webp
+    alt: Une rangée de motos et de scooters stationnés le long d'une rue de Little India, à George Town, illustrant l'usage intensif des deux-roues en Malaisie.
+    kind: representative
+    origin: third-party
+    subject: Motos et scooters alignés dans une rue de George Town, Penang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_with_motorcycle_and_scooter_parking_in_Little_India_in_George_Town,_Penang_-_53830462000.jpg
 ---
 
 Vous vous engagez sur la Federal Highway à moto, vous voyez un panneau « Motorcycle Lane » (voie des motos) qui bifurque vers la gauche — et vous vous demandez si vous êtes tenu de le suivre ou si vous pouvez rester sur la chaussée principale. La réponse tient à un seul mot : *publiée au journal officiel*.

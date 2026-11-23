@@ -37,7 +37,7 @@ faq:
     a: "明珠线由交付了巴生谷 MRT 与 LRT 各线的同一家联邦业主兼营运方 MRT Corp 运营，但它是槟城独立自成的网络，而非吉隆坡系统的延伸。它是槟城首条城市铁路线，而大吉隆坡已拥有多条互联的 MRT、LRT、单轨与通勤铁路。"
 
 lang: "zh"
-sourceContentHash: "c4429d7b1f425ab5"
+sourceContentHash: "1ae68408360ac651"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Bridge_in_extension.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-1.webp
+    alt: 一辆蓝白色的 Rapid Penang 城市巴士停靠在有盖巴士总站的泊位，车头目的地显示屏显示着路线编号。
+    kind: representative
+    origin: third-party
+    subject: 槟城乔治市海墘路巴士总站的一辆 Rapid Penang 公共巴士
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Penang_302_(WB_7691_P)_at_Weld_Quay_Bus_Terminal_(240919).jpg
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-2.webp
+    alt: 一辆车身包裹着缤纷广告的城市接驳巴士行驶在乔治市街道上，驶向一座有盖的路边巴士站。
+    kind: representative
+    origin: third-party
+    subject: 乔治市街道上一辆免费 CAT 接驳巴士驶向槟城 Komtar 交通枢纽
+    credit: Weareblahs / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Free_CAT_Bus_with_Visit_Malaysia_2026_wrapping_approaching_Komtar_II_station.jpg
 ---
 
 将近一个世纪以来，在槟城出行一直意味着汽车、巴士和跨海峡的渡轮。明珠线是这个州押下的一注：赌一条高架城市铁路终能改变这一切——而它是槟城有史以来首条这样的线路。

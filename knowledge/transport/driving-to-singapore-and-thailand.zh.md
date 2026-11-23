@@ -23,7 +23,7 @@ appliesTo: "计划开着自己的车经由新柔长堤（Causeway）或第二通
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4dfab6647457152e"
+sourceContentHash: "816922553871bb4d"
 
 status: "published"
 aiAssisted: true
@@ -73,6 +73,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-1.webp
+    alt: 马来西亚-新加坡第二通道公路大桥横跨柔佛海峡，连接丹绒古邦与大士。
+    kind: actual
+    origin: third-party
+    subject: 马来西亚-新加坡第二通道大桥（大士）
+    credit: Nigos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia-Singapore_Second_Link_bridge.jpg
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-2.webp
+    alt: 通往黑木山陆路关卡的道路引道，位于吉打州的马来西亚-泰国边境。
+    kind: actual
+    origin: third-party
+    subject: 黑木山-沙道马来西亚-泰国边境关卡
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Kayu_Hitam-Sadao_border_crossing_2.jpg
 ---
 
 两个邻国，两条陆路边境，同一辆车却要应付两套完全不同的制度。

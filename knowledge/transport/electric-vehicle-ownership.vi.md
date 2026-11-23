@@ -31,7 +31,7 @@ faq:
     a: "RM20 một năm cho EV công suất 50 kW trở xuống, theo hướng dẫn LKM xe điện của JPJ. Mức tăng lũy tiến cho công suất cao hơn."
 
 lang: "vi"
-sourceContentHash: "f81df275bc45182b"
+sourceContentHash: "0ed1327337126c45"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -98,6 +98,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-1.webp
+    alt: Một ô sạc nhanh DC Shell Recharge cho xe điện tại điểm dừng trên cao tốc LDP ở Puchong, Selangor.
+    kind: actual
+    origin: third-party
+    subject: Trạm sạc nhanh DC Shell Recharge, LDP Puchong South, Malaysia
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Recharge_LDP_Puchong_South.jpg
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-2.webp
+    alt: Một chiếc SUV điện BYD Atto 3 đời 2023 màu xanh dương, mẫu xe điện phổ biến trên thị trường Malaysia, đỗ ở Penang.
+    kind: actual
+    origin: third-party
+    subject: Xe SUV điện BYD Atto 3 ở Penang, Malaysia
+    credit: LuvsMG481 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2023_BYD_ATTO_3_Ultra_front.jpg
 ---
 
 Thời kỳ thuế đường bộ miễn phí cho xe điện ở Malaysia đã kết thúc — nhưng hóa đơn đầu tiên xuất hiện trong MyJPJ của bạn có thể rẻ hơn bạn nghĩ, và nó được tính theo một cách hoàn toàn mới.

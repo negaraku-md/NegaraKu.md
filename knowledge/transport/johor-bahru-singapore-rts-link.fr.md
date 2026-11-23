@@ -37,7 +37,7 @@ faq:
     a: "Le Causeway et le Second Link sont des franchissements routiers pour les voitures, bus, motos et camions ; le RTS Link est une navette ferroviaire voyageurs dédiée, destinée à les soulager. Le Train à grande vitesse (HSR) KL-Singapour, distinct, est une ligne interurbaine bien plus longue, et repoussée à plusieurs reprises, entre Kuala Lumpur et Singapour - un projet différent à une échelle différente. Le RTS Link devrait aussi remplacer le court train KTM Shuttle Tebrau une fois en service."
 
 lang: "fr"
-sourceContentHash: "10e2e01e7527794c"
+sourceContentHash: "b670ec71614d4b5a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,6 +104,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru-Singapore_RTS_Link_Bridge_2025.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-1.webp
+    alt: La gare du RTS Link à Bukit Chagar prenant forme pendant sa construction à Johor Bahru.
+    kind: actual
+    origin: third-party
+    subject: Gare terminus du RTS Link à Bukit Chagar en construction, Johor Bahru
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Chagar_RTS_station_under_construction_20230606_142119.jpg
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-2.webp
+    alt: Une rame CRRC Zhuzhou destinée au RTS Link entre Johor Bahru et Singapour lors d'une marche d'essai.
+    kind: actual
+    origin: third-party
+    subject: Matériel roulant CRRC du RTS Link en essai
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru%E2%80%93Singapore_RTS_Link_CRRC_Zhuzhou_rolling_stock_on_trial_070626.jpg
 ---
 
 Chaque jour ouvré, des dizaines de milliers de personnes avancent au pas sur le Causeway Johor-Singapour - l'une des frontières terrestres les plus fréquentées de la planète - en voiture, en bus et à moto, faisant souvent la queue une heure ou plus. Le RTS Link est le pari des deux gouvernements qu'un train court, et non une route plus large, est le moyen de briser cet embouteillage.

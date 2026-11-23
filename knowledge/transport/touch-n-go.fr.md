@@ -30,7 +30,7 @@ faq:
     a: "Oui, si vous souhaitez utiliser la fonction de recharge par NFC. L'enregistrement implique une vérification d'identité (KYC) afin que le solde de la carte soit rattaché à votre compte eWallet ; cela ajoute aussi une couche de protection en cas de perte de la carte, par rapport à une carte non enregistrée dont le solde peut être utilisé par quiconque la trouve."
 
 lang: "fr"
-sourceContentHash: "1ad968acdf06922a"
+sourceContentHash: "fec1fd46480da9c3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/touch-n-go/body-1.webp
+    alt: Un badge RFID Touch 'n Go sur le pare-brise à une voie de péage, avec la barrière de voie et un portique de lecture RFID suspendu au-dessus de la cabine de péage
+    kind: actual
+    origin: third-party
+    subject: lecture d'un badge RFID Touch 'n Go à une voie de péage MyRFID à la gare de péage de Gombak, Selangor
+    credit: ItsTomato / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg
+  - role: scene
+    src: /media/transport/touch-n-go/body-2.webp
+    alt: Une rangée de portillons d'accès automatiques à l'entrée d'une gare, avec des lecteurs de carte sur chaque portillon et le hall d'un centre commercial visible au-delà
+    kind: representative
+    origin: third-party
+    subject: portillons d'accès à la station de LRT de KLCC où l'on valide des cartes de transport comme Touch 'n Go
+    credit: Fazley Fadzil / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLCC_LRT_station_faregates.jpg
 ---
 
 Beaucoup de gens gardent une carte Touch 'n Go dans leur portefeuille et l'application Touch 'n Go eWallet sur leur téléphone, et supposent que les deux sont une même chose à deux visages. Ce n'est pas le cas. Le solde de la carte et le solde de l'application sont conservés tout à fait séparément : recharger entièrement l'un n'ajoute pas un seul sen à l'autre. Ce malentendu est une cause fréquente de voitures bloquées aux portiques de péage parce que le conducteur est persuadé qu'« il y a assez d'argent sur le téléphone », alors que ce que la machine de péage lit réellement, c'est la carte.

@@ -31,7 +31,7 @@ faq:
     a: "Según JPJ, un aviso AwAS no liquidado en un plazo de 60 días desde la fecha de emisión puede llevar a una acción judicial, con una multa de entre RM300 y RM2,000 en caso de condena."
 
 lang: "es"
-sourceContentHash: "98e5e951fdd86713"
+sourceContentHash: "820eea145d5fc005"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-1.webp
+    alt: Agentes de policía uniformados de pie en un control de carretera, revisando los vehículos a medida que reducen la velocidad hasta detenerse en el puesto de control
+    kind: actual
+    origin: third-party
+    subject: un control policial en Malasia donde los agentes detienen e inspeccionan los vehículos
+    credit: Original uploader (ms.wikipedia) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekatanjalanraya.jpg
+  - role: scene
+    src: /media/transport/traffic-summons-saman/body-2.webp
+    alt: Un agente de la policía de tráfico malasia con chaleco reflectante y casco, de pie en una calle urbana, gestionando los vehículos que pasan
+    kind: actual
+    origin: third-party
+    subject: un agente de la policía de tráfico de servicio dirigiendo el tráfico en una calle de Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg
 ---
 
 Un conductor puede recibir cuatro tipos de multa que se parecen sobre el papel, pero provienen de cuatro partes diferentes, y cada una debe consultarse en un lugar distinto. Mucha gente conoce solo un portal y supone que su multa ha «desaparecido» cuando en realidad está en un sistema diferente.

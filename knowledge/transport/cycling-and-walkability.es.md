@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Residentes, planificadores y cualquiera que compare la caminabilidad y la infraestructura ciclista de las ciudades malasias con las de otros países."
 
 lang: "es"
-sourceContentHash: "3d0d276aec4c1fe4"
+sourceContentHash: "3b5dac078c53a6a4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cycling_and_Jogging_Track_in_Phase_3_of_PIIP.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/cycling-and-walkability/body-1.webp
+    alt: Una vía pavimentada compartida para ciclismo y peatones que discurre junto a una concurrida carretera principal en George Town, Penang.
+    kind: actual
+    origin: third-party
+    subject: Vía compartida para bicicletas y peatones en George Town, Penang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shared_pedestrian_and_bicycle_path_next_to_major_road_in_George_Town,_Penang_-_53829115437.jpg
+  - role: scene
+    src: /media/transport/cycling-and-walkability/body-2.webp
+    alt: Un amplio paseo peatonal cubierto bordeado de vegetación junto a Jalan Tun Razak, en el centro de Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Paseo peatonal de Jalan Tun Razak en Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Tun_Razak_Pedestrian_Walkway_(211031).jpg
 ---
 
 Sal de una estación de LRT del Klang Valley a la 1 de la tarde e intenta

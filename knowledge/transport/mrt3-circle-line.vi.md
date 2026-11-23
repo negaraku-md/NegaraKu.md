@@ -78,7 +78,27 @@ sources:
     url: "https://paultan.org/2025/07/18/mrt3-is-a-go-51-6-km-circle-line-approved-by-transport-ministry-land-acquisition-is-the-next-step/"
     publisher: "Paul Tan's Automotive News"
   - title: "MRT3 - một nhu cầu đắt đỏ? (MRT3 - a costly necessity?)"
-    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3---a-costly-necessity"
+    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3
+images:
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-1.webp
+    alt: Sân ga ngầm tại Bukit Bintang trên Tuyến Kajang MRT hiện có, đại diện cho các ga MRT ở Thung lũng Klang.
+    kind: representative
+    origin: third-party
+    subject: Sân ga ngầm của tuyến MRT Thung lũng Klang (Tuyến Kajang) hiện có tại Bukit Bintang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBK_Line_Bukit_Bintang_Station_Platform_1_1.jpg
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-2.webp
+    alt: Một đoàn tàu MRT Tuyến Putrajaya trên cầu cạn trên cao cắt ngang đường chân trời Jalan Ipoh ở Kuala Lumpur.
+    kind: representative
+    origin: third-party
+    subject: Cầu cạn trên cao của tuyến MRT Thung lũng Klang (Tuyến Putrajaya) phía trên Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Ipoh_Skyline_with_Putrajaya_Line_train_from_Batu_Kentonmen_KTM_Station_(220714).jpg
+---a-costly-necessity"
     publisher: "The Star"
   - title: "Giá xây dựng RM31 tỷ của MRT3 trở thành tâm điểm (MRT3's RM31 bil construction price tag in the spotlight)"
     url: "https://theedgemalaysia.com/article/mrt3s-rm31-bil-construction-price-tag-spotlight"

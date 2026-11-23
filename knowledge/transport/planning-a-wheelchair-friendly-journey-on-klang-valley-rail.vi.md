@@ -33,7 +33,7 @@ faq:
 
 lang: "vi"
 translationStatus: "in-sync"
-sourceContentHash: "dbccb525d9d4cfdf"
+sourceContentHash: "2aca71ef01ff8e0d"
 masterLanguage: "en"
 
 status: "published"
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_LRT_Station_lift_(211031).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-1.webp
+    alt: Một hàng gạch lát xúc giác màu vàng tươi với các thanh nổi chạy dọc theo mép sân ga MRT sạch sẽ để dẫn đường cho hành khách khiếm thị
+    kind: actual
+    origin: third-party
+    subject: lối lát dẫn đường xúc giác trên sân ga MRT Surian, Kota Damansara, ở Thung lũng Klang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KG_Line_Surian_-_Tactile_Paving.jpg
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-2.webp
+    alt: Một sân ga MRT rộng và bằng phẳng với các cửa chắn sân ga cao kịch trần dọc theo mép đường ray và lối lát xúc giác đánh dấu các khu vực lên tàu
+    kind: actual
+    origin: third-party
+    subject: một sân ga có cửa chắn sân ga tại ga MRT Hospital Kuala Lumpur ở Thung lũng Klang
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Kuala_Lumpur_MRT_Station_platform_(230418)_01.jpg
 ---
 
 Với người dùng xe lăn, mạng lưới đường sắt của Thung lũng Klang không phải là một hệ thống mà là nhiều hệ thống, được xây dựng trong các thập niên khác nhau theo những chuẩn rất khác nhau — và đó là chìa khóa để lên kế hoạch cho một hành trình tốt. Quyết định hữu ích nhất mà bạn đưa ra là **loại tuyến nào để đi**; sau đó, chuyến đi thành công hay thất bại tùy vào hai điều mà những tấm bản đồ bóng bẩy không bao giờ cho bạn thấy: **liệu một thang máy cụ thể có hoạt động vào ngày đó hay không**, và **các điểm chuyển tuyến thực sự kết nối thế nào**. Hướng dẫn này nói về cách lên kế hoạch xoay quanh những thực tế đó. Nó cố ý *không phải* là một danh sách tiếp cận theo từng ga — những điều kiện đó thay đổi nhanh hơn bất kỳ bài viết nào có thể theo kịp — nên xuyên suốt, hãy xem những gì tiếp theo là *những gì một ga được xây dựng để cung cấp*, và xác nhận tình trạng hiện tại với nhà điều hành trước khi bạn trông cậy vào nó.

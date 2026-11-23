@@ -37,7 +37,7 @@ faq:
     a: "El Causeway y el Second Link son cruces por carretera para coches, autobuses, motocicletas y camiones; el RTS Link es un tren lanzadera ferroviario de pasajeros dedicado destinado a aliviarlos. El Tren de Alta Velocidad (HSR) KL-Singapur, aparte, es una línea interurbana mucho más larga, y aplazada en repetidas ocasiones, entre Kuala Lumpur y Singapur: un proyecto distinto a una escala distinta. También se espera que el RTS Link sustituya al corto tren KTM Shuttle Tebrau una vez que esté en marcha."
 
 lang: "es"
-sourceContentHash: "10e2e01e7527794c"
+sourceContentHash: "b670ec71614d4b5a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,6 +104,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru-Singapore_RTS_Link_Bridge_2025.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-1.webp
+    alt: La estación del RTS Link en Bukit Chagar tomando forma durante su construcción en Johor Bahru.
+    kind: actual
+    origin: third-party
+    subject: Estación terminal del RTS Link en Bukit Chagar en construcción, Johor Bahru
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Chagar_RTS_station_under_construction_20230606_142119.jpg
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-2.webp
+    alt: Un tren CRRC Zhuzhou para el RTS Link entre Johor Bahru y Singapur durante una marcha de prueba.
+    kind: actual
+    origin: third-party
+    subject: Material rodante CRRC del RTS Link en pruebas
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru%E2%80%93Singapore_RTS_Link_CRRC_Zhuzhou_rolling_stock_on_trial_070626.jpg
 ---
 
 Cada día laborable, decenas de miles de personas avanzan a paso de tortuga por el Causeway Johor-Singapur —una de las fronteras terrestres más transitadas del planeta— en coche, autobús y motocicleta, a menudo haciendo cola una hora o más. El RTS Link es la apuesta de ambos gobiernos de que un tren corto, y no una carretera más ancha, es la manera de romper ese atasco.

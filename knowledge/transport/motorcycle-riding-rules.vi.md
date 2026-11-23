@@ -29,7 +29,7 @@ faq:
     a: "Tính đến thời điểm xuất bản, không có hạn chế dung tích động cơ nào có hiệu lực; các đề xuất giới hạn quyền vào đường cao tốc theo dung tích động cơ vẫn chưa trở thành luật."
 
 lang: "vi"
-sourceContentHash: "1c36a26778aafc7e"
+sourceContentHash: "b693cfa123085cc9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motorcycle-riding-rules/body-1.webp
+    alt: Một làn đường riêng dành cho xe máy chạy dọc bên cạnh đường chính gần trạm thu phí Sungai Petani Utara ở Kedah.
+    kind: actual
+    origin: third-party
+    subject: Làn đường dành riêng cho xe máy gần trạm thu phí Sungai Petani Utara, Kedah
+    credit: Lawantetaplawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Motorcycle_lane_Sungai_Petani_Utara.jpg
+  - role: scene
+    src: /media/transport/motorcycle-riding-rules/body-2.webp
+    alt: Một hàng xe máy và xe tay ga đỗ dọc theo một con phố ở Little India, George Town, phản ánh mức độ sử dụng xe hai bánh cao ở Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Xe máy và xe tay ga xếp hàng trên một con phố ở George Town, Penang
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_with_motorcycle_and_scooter_parking_in_Little_India_in_George_Town,_Penang_-_53830462000.jpg
 ---
 
 Bạn lái xe máy vào Lebuhraya Persekutuan, thấy biển báo "Làn Xe máy" rẽ nhánh sang trái — và tự hỏi liệu bạn bắt buộc phải đi theo nó hay có thể tiếp tục trên làn chính. Câu trả lời phụ thuộc vào một từ: *được công báo*.

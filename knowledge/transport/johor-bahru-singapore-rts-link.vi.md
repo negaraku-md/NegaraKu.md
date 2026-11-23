@@ -37,7 +37,7 @@ faq:
     a: "Causeway và Second Link là các lối vượt biên bằng đường bộ dành cho ô tô, xe buýt, xe máy và xe tải; tuyến RTS là một tàu con thoi đường sắt chở khách chuyên dụng nhằm giảm tải cho chúng. Đường sắt cao tốc (HSR) KL-Singapore riêng biệt là một tuyến liên đô thị dài hơn nhiều, và nhiều lần bị gác lại, giữa Kuala Lumpur và Singapore - một dự án khác ở quy mô khác. Tuyến RTS cũng được kỳ vọng sẽ thay thế đoàn tàu KTM Shuttle Tebrau ngắn một khi đi vào hoạt động."
 
 lang: "vi"
-sourceContentHash: "10e2e01e7527794c"
+sourceContentHash: "b670ec71614d4b5a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,6 +104,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru-Singapore_RTS_Link_Bridge_2025.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-1.webp
+    alt: Ga RTS Link Bukit Chagar đang dần thành hình trong quá trình xây dựng ở Johor Bahru.
+    kind: actual
+    origin: third-party
+    subject: Ga cuối RTS Link Bukit Chagar đang xây dựng, Johor Bahru
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Chagar_RTS_station_under_construction_20230606_142119.jpg
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-2.webp
+    alt: Một đoàn tàu CRRC Zhuzhou cho tuyến RTS Link Johor Bahru-Singapore trong một lần chạy thử.
+    kind: actual
+    origin: third-party
+    subject: Đoàn tàu CRRC của RTS Link chạy thử
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru%E2%80%93Singapore_RTS_Link_CRRC_Zhuzhou_rolling_stock_on_trial_070626.jpg
 ---
 
 Mỗi ngày làm việc, hàng chục nghìn người nhích qua Causeway Johor-Singapore - một trong những biên giới đường bộ bận rộn nhất hành tinh - bằng ô tô, xe buýt và xe máy, thường xếp hàng một giờ hoặc hơn. Tuyến RTS là canh bạc của hai chính phủ rằng một đoàn tàu ngắn, chứ không phải một con đường rộng hơn, mới là cách phá vỡ sự ùn tắc đó.

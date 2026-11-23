@@ -29,7 +29,7 @@ faq:
     a: "नहीं। पार्किंग शमन-जुर्माने स्थानीय प्राधिकरणों (PBT) द्वारा पार्किंग से संबंधित सड़क-यातायात आदेशों के तहत जारी किए जाते हैं, जबकि ड्राइविंग अपराधों के लिए यातायात समन PDRM या JPJ द्वारा जारी किए जाते हैं।"
 
 lang: "hi"
-sourceContentHash: "fbbc5c9405ba0df6"
+sourceContentHash: "ced4815eca51d2d0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-1.webp
+    alt: एक मलेशियाई उपनगर में सड़क से दिखती एक ऊँची कंक्रीट बहुमंज़िला कार पार्क इमारत, जिसमें कई मंज़िलों पर जाली लगी खुली पार्किंग डेक एक के ऊपर एक हैं।
+    kind: actual
+    origin: third-party
+    subject: तमन सेगर, चेरास, कुआलालंपुर में एक बहुमंज़िला कार पार्क इमारत
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Segar_multi-storey_car_park_(221028).jpg
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-2.webp
+    alt: एक जॉर्ज टाउन सड़क के किनारे एक पुरानी दीवार के सामने खंभों पर पास-पास लगे कई धातु के नो-पार्किंग और सड़क किनारे सूचना चिह्न।
+    kind: actual
+    origin: third-party
+    subject: जॉर्ज टाउन, पेनांग में एक सड़क पर नो-पार्किंग और सड़क किनारे पार्किंग के चिह्नों का समूह
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Still_Life_with_No_Parking_Signs_-_George_Town_-_Penang_-_Malaysia_(35374672612).jpg
 ---
 
 आप टिकट मशीन के लिए सिक्कों की तलाश में कार में इधर-उधर खोजते हैं — लेकिन वे मशीनें 2020 से ग़ायब हैं। मलेशिया के बड़े शहरों में पार्किंग अब एक स्मार्टफ़ोन से शुरू होती है, न कि सड़क-किनारे सिक्कों से भरे मर्तबान से।

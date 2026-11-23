@@ -35,7 +35,7 @@ verificationNeeded:
   - "Hãy xác nhận số lượng tuyến Dịch vụ Hàng không Nông thôn hiện tại của AirBorneo và danh sách sân bay trực tiếp với AirBorneo hoặc CAAM, vì trang RAS công khai của MAVCOM không mang chi tiết ở cấp tuyến tại thời điểm viết và chương trình gần đây đã đổi đơn vị vận hành."
 
 lang: "vi"
-sourceContentHash: "a8248270057070e4"
+sourceContentHash: "abe52a172e0638cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,6 +92,25 @@ heroSource: 'https://commons.wikimedia.org/wiki/File:ETS_5.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
 heroSubject: 'KTM ETS intercity train at a platform'
+images:
+  - role: scene
+    src: /media/transport/intercity-travel/body-1.webp
+    alt: Sảnh rộng rãi của Terminal Bersepadu Selatan, bến xe khách tốc hành tích hợp của Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Sảnh chính của bến xe khách tốc hành Terminal Bersepadu Selatan (TBS), Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Terminal_Bersepadu_Selatan_concourse_(211112).jpg
+  - role: scene
+    src: /media/transport/intercity-travel/body-2.webp
+    alt: Một đoàn tàu liên tỉnh ETS đang chờ tại sân ga KL Sentral, đầu mối của mạng lưới đường sắt liên tỉnh KTM.
+    kind: actual
+    origin: third-party
+    subject: Sân ga đường sắt liên tỉnh KTM tại KL Sentral
+    credit: Hiroki.loh.st / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KLS_ETS_Platform.jpg
 ---
 
 Bay đến Kuching, đi xe buýt đến Kuantan, hoặc bắt một chuyến tàu đến Butterworth —

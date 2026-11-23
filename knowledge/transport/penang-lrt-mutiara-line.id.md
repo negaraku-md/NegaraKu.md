@@ -37,7 +37,7 @@ faq:
     a: "Mutiara Line dijalankan oleh operator-pemilik federal yang sama, MRT Corp, yang membangun jalur MRT dan LRT Lembah Klang, tetapi ia adalah jaringan terpisah dan berdiri sendiri untuk Penang, bukan perpanjangan dari sistem KL. Ia adalah jalur rel perkotaan pertama Penang, sementara Greater Kuala Lumpur sudah memiliki beberapa jalur MRT, LRT, monorel dan komuter yang saling terhubung."
 
 lang: "id"
-sourceContentHash: "c4429d7b1f425ab5"
+sourceContentHash: "1ae68408360ac651"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Bridge_in_extension.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-1.webp
+    alt: Sebuah bus kota Rapid Penang berwarna biru dan putih diparkir di petak terminal bus beratap, dengan nomor rutenya ditampilkan pada panel tujuan di bagian depan
+    kind: representative
+    origin: third-party
+    subject: sebuah bus umum Rapid Penang di Terminal Bus Weld Quay di George Town, Penang
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Penang_302_(WB_7691_P)_at_Weld_Quay_Bus_Terminal_(240919).jpg
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-2.webp
+    alt: Sebuah bus antar-jemput kota dengan balutan iklan berwarna-warni melaju di sepanjang jalan George Town, mendekati halte bus tepi jalan yang beratap
+    kind: representative
+    origin: third-party
+    subject: sebuah bus antar-jemput CAT gratis di jalan George Town yang mendekati pusat transportasi Komtar di Penang
+    credit: Weareblahs / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Free_CAT_Bus_with_Visit_Malaysia_2026_wrapping_approaching_Komtar_II_station.jpg
 ---
 
 Selama hampir satu abad, berkeliling Penang berarti mobil, bus dan feri menyeberangi selat. Mutiara Line adalah taruhan negara bagian bahwa sebuah kereta api perkotaan layang akhirnya dapat mengubah hal itu - dan ia adalah yang pertama dari jenisnya yang pernah dimiliki Penang.

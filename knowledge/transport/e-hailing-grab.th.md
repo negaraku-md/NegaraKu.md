@@ -25,7 +25,7 @@ verificationNeeded:
   - "ข้อกำหนดของผู้ขับขี่เฉพาะ (เช่น อายุขั้นต่ำ) ใช้บังคับหรือไม่ควรได้รับการยืนยันกับ JPJ หรือผู้ให้บริการ e-hailing แต่ละราย เนื่องจากไม่ได้ระบุในรูปแบบที่ยืนยันได้บนหน้าเว็บทางการที่ปรึกษา"
 
 lang: "th"
-sourceContentHash: "10f57c7f87a7c675"
+sourceContentHash: "c1424578e868876a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,6 +78,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_Electric_(Grab_Car)_near_Soekarno-Hatta_International_Airport.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-1.webp
+    alt: รถเก๋งหุ้มสติกเกอร์บริการเรียกรถGrabสีเขียวและธงชาติมาเลเซียแล่นไปตามถนนในโกตากีนาบาลู รัฐซาบาห์
+    kind: actual
+    origin: third-party
+    subject: รถหุ้มสติกเกอร์Grabในโกตากีนาบาลู รัฐซาบาห์
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_01.jpg
+  - role: scene
+    src: /media/transport/e-hailing-grab/body-2.webp
+    alt: ขบวนแบรนด์Grabเดินในขบวนพาเหรดวันชาติปี2023ที่โกตากีนาบาลู รัฐซาบาห์
+    kind: actual
+    origin: third-party
+    subject: ขบวนGrabในพาเหรดวันชาติที่โกตากีนาบาลู
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_03.jpg
 ---
 
 เปิด Grab หรือ Bolt หรือ inDrive ในกัวลาลัมเปอร์แล้วแตะ "จอง" ไม่มีอะไรในช่วงเวลานั้นที่รู้สึกว่ามีการกำกับดูแล แต่รถที่มารับยืนอยู่บนใบอนุญาตสามใบที่แยกจากกันซึ่งต้องมีอยู่ก่อนที่ผู้ขับขี่ของคุณจะสามารถรับค่าโดยสารของคุณได้อย่างถูกกฎหมาย — และไม่มีใบใดเป็นของแอปเพียงอย่างเดียว

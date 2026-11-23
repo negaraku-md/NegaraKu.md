@@ -37,7 +37,7 @@ faq:
     a: "무티아라선은 클랑밸리 MRT·LRT 노선을 완성한 바로 그 연방 운영·소유 주체인 MRT Corp이 운영하지만, KL 시스템의 연장이 아니라 페낭을 위한 별개의 독립 노선입니다. 광역 쿠알라룸푸르가 이미 여러 MRT·LRT·모노레일·통근열차 노선을 서로 잇고 있는 데 반해, 이것은 페낭 최초의 도시철도 노선입니다."
 
 lang: "ko"
-sourceContentHash: "c4429d7b1f425ab5"
+sourceContentHash: "1ae68408360ac651"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -105,6 +105,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penang_Bridge_in_extension.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-1.webp
+    alt: 지붕 덮인 버스터미널 정류 공간에 정차한 파랑·흰색 Rapid Penang 시내버스로, 차량 전면 행선 표시판에 노선 번호가 표시되어 있다.
+    kind: representative
+    origin: third-party
+    subject: 페낭 조지타운 웰드키 버스터미널의 Rapid Penang 공공버스
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Penang_302_(WB_7691_P)_at_Weld_Quay_Bus_Terminal_(240919).jpg
+  - role: scene
+    src: /media/transport/penang-lrt-mutiara-line/body-2.webp
+    alt: 화려한 광고 래핑을 두른 시내 셔틀버스가 조지타운 거리를 달려 지붕 덮인 노변 버스정류장으로 다가간다.
+    kind: representative
+    origin: third-party
+    subject: Komtar 교통 허브로 향하는, 조지타운 거리의 무료 CAT 셔틀버스(페낭)
+    credit: Weareblahs / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Free_CAT_Bus_with_Visit_Malaysia_2026_wrapping_approaching_Komtar_II_station.jpg
 ---
 
 한 세기 가까이 페낭을 돌아다닌다는 것은 자동차와 버스, 그리고 해협을 건너는 페리를 뜻했습니다. 무티아라선은 고가 도시철도가 마침내 그것을 바꿀 수 있다는 이 주의 베팅이며 — 페낭이 지금껏 가져본 적 없는 최초의 철도입니다.

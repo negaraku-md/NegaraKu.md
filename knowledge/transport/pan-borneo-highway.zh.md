@@ -37,7 +37,7 @@ faq:
     a: "Sabah 段在其项目交付伙伴安排于 2019 年终止、工程中断后受到干扰，直到约 2020 年 9 月才重新开工。此后的报道指向多个工程包的延误、土地征用问题与合同模式的改变。Auditor-General 报告称，截至 2026 年 3 月 31 日，Sabah 第一阶段的 35 个工程包中仅有 4 个完成，Sabah 州政府表示这一数字低估了实地的实际工程进度。"
 
 lang: "zh"
-sourceContentHash: "979fd22a197b9634"
+sourceContentHash: "3fa5899226a93a89"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-1.webp
+    alt: 从高处俯瞰一座多车道公路立交，匝道大幅弯曲、从主车道蜿蜒延伸而去，坐落在砂拉越乡间明亮天空下的翠绿植被之间。
+    kind: actual
+    origin: third-party
+    subject: 免费的泛婆罗洲大道在砂拉越的成邦江（诗里阿曼）立交
+    credit: Ago Dagang / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Simanggang_(Sri_Aman)_Interchange,_Pan_Borneo_Sarawak,_Malaysia.png
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-2.webp
+    alt: 一段笔直向前延伸的柏油公路，穿越平坦的乡野，道旁林木与绿意夹道，上方是婆罗洲多云的天空。
+    kind: actual
+    origin: third-party
+    subject: 泛婆罗洲大道靠近砂拉越泗里街外 Sebangkoi 公园的一段路
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg
 ---
 
 在马来西亚婆罗洲的大部分历史里，从一个城镇到下一个城镇意味着在一条单车道主干道上缓慢爬行，与罗厘、伐木车流以及偶尔被水冲毁的桥梁共用这条路。泛婆罗洲大道就是改变这一切的尝试：一项历时十年的努力，要把那条主干道变成一条贯穿 Sarawak 与 Sabah、大部分为双向分隔的现代化通道。

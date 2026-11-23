@@ -23,7 +23,7 @@ verificationNeeded:
   - "لا تورد هذه المقالة الرسم الدقيق لدورة الفئة D في مدرسة قيادة خاصة، ولا جدول رسوم JPJ الدقيق لمسار LDL/PDL/CDL، لأنه لم يُعثر على جدول رسوم رسمي واحد من JPJ أثناء التحقّق — تأكّد من الرسوم الحالية مباشرةً عند شبّاك JPJ أو مدرسة قيادة مرخّصة قبل وضع الميزانية."
   - "جرى التحقّق من الصياغة الدقيقة للمادة 28 من قانون النقل البري لسنة 1987 (Road Transport Act 1987) عبر ملخّصات ثانوية للقانون لا عبر قراءة سطر بسطر مباشرة في ملف PDF المستضاف لدى JPJ (تُجنِّب ذلك هنا للتحكّم في استهلاك السياق) — ورقم المادة وأثرها الموضوعي مؤكَّدان عبر مصادر مستقلّة عدة، لكن تأكّد من الصياغة الدقيقة في ملف PDF للقانون 333 (Act 333) المستضاف لدى JPJ إن كنت تصوغ شيئًا يعتمد عليه قانونيًا."
 lang: "ar"
-sourceContentHash: "137fb2a54b30ed94"
+sourceContentHash: "09bd56292bdc3d67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Bagan_Luar_(Malaysia_Federal_Highway_1),_Butterworth_20250917_103332.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-1.webp
+    alt: لافتة طريق تنظيمية ماليزية لتقييد الارتفاع مثبّتة فوق طريق في Kuala Lumpur بالقرب من مدخل محطة رسوم.
+    kind: representative
+    origin: third-party
+    subject: لافتة طريق تنظيمية ماليزية
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Traffic-signs_Regulatory-sign-06.jpg
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-2.webp
+    alt: إشارات مرور وعلامات مسارات على طول الطريق الاتحادي الماليزي رقم 91 المتجه شمالًا عبر Kluang، Johor.
+    kind: actual
+    origin: third-party
+    subject: طريق سريع اتحادي يمرّ عبر Kluang، Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151005.jpg
 ---
 
 متقاعدٌ في برنامج MM2H قاد ثلاثين عامًا في الخارج، وموظّفٌ جديد بتصريح عمل (Employment Pass) لم يلمس علبة تروس يدوية قطّ، وسائحٌ في رحلة أسبوعين — ثلاثتهم يطرحون على دائرة النقل البري (JPJ) السؤال نفسه فيتلقّون ثلاث إجابات مختلفة. ومنذ 19 مايو 2025 اتّسعت الفجوة: فقد توقّفت JPJ عن تحويل رخص معظم الأجانب بالكامل، وكثير من النصائح التي لا تزال تنتشر على الإنترنت كُتب قبل ذلك التغيير.

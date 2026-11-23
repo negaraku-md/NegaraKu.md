@@ -33,7 +33,7 @@ faq:
 
 lang: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "dbccb525d9d4cfdf"
+sourceContentHash: "2aca71ef01ff8e0d"
 masterLanguage: "en"
 
 status: "published"
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_LRT_Station_lift_(211031).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-1.webp
+    alt: Sebaris jubin turapan taktil berwarna kuning terang dengan bar timbul yang terbentang di sepanjang tepi platform stesen MRT yang bersih untuk memandu penumpang buta
+    kind: actual
+    origin: third-party
+    subject: turapan panduan taktil di platform stesen MRT Surian, Kota Damansara, di Lembah Klang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KG_Line_Surian_-_Tactile_Paving.jpg
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-2.webp
+    alt: Platform stesen MRT yang luas dan rata dengan pintu skrin platform setinggi penuh di sepanjang tepi landasan dan turapan taktil menandakan zon menaiki kereta
+    kind: actual
+    origin: third-party
+    subject: platform dengan pintu skrin platform di stesen MRT Hospital Kuala Lumpur di Lembah Klang
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Kuala_Lumpur_MRT_Station_platform_(230418)_01.jpg
 ---
 
 Bagi pengguna kerusi roda, rangkaian rel Lembah Klang bukanlah satu sistem tetapi beberapa sistem, dibina dalam dekad yang berbeza mengikut piawaian yang sangat berbeza — dan itulah kunci kepada merancang perjalanan yang baik. Keputusan paling berguna yang anda buat ialah **mod mana yang hendak digunakan**; selepas itu, perjalanan berjaya atau gagal bergantung pada dua perkara yang tidak pernah ditunjukkan oleh peta berkilat: **sama ada lif tertentu berfungsi pada hari itu**, dan **bagaimana stesen pertukaran sebenarnya bersambung**. Panduan ini adalah tentang cara merancang di sekitar realiti itu. Ia sengaja *bukan* senarai kebolehaksesan stesen demi stesen — keadaan itu berubah lebih cepat daripada yang mana-mana artikel boleh ikuti — jadi di sepanjang panduan ini, anggap apa yang berikut sebagai *apa yang stesen dibina untuk sediakan*, dan sahkan keadaan semasa dengan pengendali sebelum anda bergantung padanya.

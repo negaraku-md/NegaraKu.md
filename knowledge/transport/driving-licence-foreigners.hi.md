@@ -23,7 +23,7 @@ verificationNeeded:
   - "यह लेख किसी निजी ड्राइविंग स्कूल के क्लास D कोर्स का सटीक शुल्क, या LDL/PDL/CDL मार्ग के लिए JPJ की सटीक शुल्क-सूची उद्धृत नहीं करता, क्योंकि सत्यापन के दौरान कोई एकल आधिकारिक JPJ शुल्क तालिका नहीं मिली — बजट बनाने से पहले किसी JPJ काउंटर या लाइसेंसशुदा ड्राइविंग स्कूल पर सीधे मौजूदा शुल्क की पुष्टि करें।"
   - "सड़क परिवहन अधिनियम 1987 (Road Transport Act 1987) की धारा 28 की सटीक शब्दावली JPJ-होस्टेड PDF के सीधे पंक्ति-दर-पंक्ति पठन के बजाय अधिनियम के द्वितीयक सारांशों के माध्यम से पुष्टि की गई (संदर्भ उपयोग नियंत्रित रखने के लिए यहाँ टाला गया) — धारा संख्या और सारभूत प्रभाव कई स्वतंत्र स्रोतों में पुष्ट हैं, पर यदि आप इस पर कानूनी निर्भरता रखते हुए कुछ तैयार कर रहे हों तो JPJ-होस्टेड अधिनियम 333 (Act 333) PDF से सटीक शब्दावली की पुष्टि करें।"
 lang: "hi"
-sourceContentHash: "137fb2a54b30ed94"
+sourceContentHash: "09bd56292bdc3d67"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Bagan_Luar_(Malaysia_Federal_Highway_1),_Butterworth_20250917_103332.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-1.webp
+    alt: कुआलालंपुर की एक सड़क के ऊपर टोल के पास लगा मलेशियाई ऊँचाई-प्रतिबंध नियामक सड़क चिह्न।
+    kind: representative
+    origin: third-party
+    subject: मलेशियाई नियामक सड़क चिह्न
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_Traffic-signs_Regulatory-sign-06.jpg
+  - role: scene
+    src: /media/transport/driving-licence-foreigners/body-2.webp
+    alt: जोहोर के क्लुआंग से उत्तर की ओर जाती मलेशिया संघीय मार्ग 91 पर ट्रैफ़िक लाइटें और लेन चिह्न।
+    kind: actual
+    origin: third-party
+    subject: क्लुआंग, जोहोर से गुज़रता संघीय राजमार्ग
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151005.jpg
 ---
 
 एक MM2H सेवानिवृत्त जिसने विदेश में तीस साल गाड़ी चलाई है, एक नया एंप्लॉयमेंट पास

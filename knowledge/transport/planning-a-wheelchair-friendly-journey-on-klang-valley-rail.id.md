@@ -33,7 +33,7 @@ faq:
 
 lang: "id"
 translationStatus: "in-sync"
-sourceContentHash: "dbccb525d9d4cfdf"
+sourceContentHash: "2aca71ef01ff8e0d"
 masterLanguage: "en"
 
 status: "published"
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_LRT_Station_lift_(211031).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-1.webp
+    alt: Sederet ubin pemandu taktil berwarna kuning terang dengan garis timbul yang membentang di sepanjang tepi peron stasiun MRT yang bersih untuk memandu penumpang tunanetra
+    kind: actual
+    origin: third-party
+    subject: ubin pemandu taktil di peron stasiun MRT Surian, Kota Damansara, di Lembah Klang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KG_Line_Surian_-_Tactile_Paving.jpg
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-2.webp
+    alt: Peron stasiun MRT yang lebar dan rata dengan pintu pembatas peron setinggi penuh di sepanjang tepi rel dan ubin taktil yang menandai zona naik kereta
+    kind: actual
+    origin: third-party
+    subject: peron dengan pintu pembatas peron di stasiun MRT Hospital Kuala Lumpur di Lembah Klang
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Kuala_Lumpur_MRT_Station_platform_(230418)_01.jpg
 ---
 
 Bagi pengguna kursi roda, jaringan kereta Lembah Klang bukanlah satu sistem melainkan beberapa, yang dibangun pada dekade berbeda dengan standar yang sangat berbeda — dan itulah kunci untuk merencanakan perjalanan yang baik. Keputusan paling berguna yang Anda buat adalah **moda mana yang akan Anda naiki**; setelah itu, perjalanan berhasil atau gagal karena dua hal yang tidak pernah ditunjukkan peta berkilau: **apakah sebuah lift tertentu berfungsi pada hari itu**, dan **bagaimana titik transit benar-benar terhubung**. Panduan ini membahas cara merencanakan di sekitar kenyataan tersebut. Panduan ini sengaja *bukan* daftar aksesibilitas stasiun demi stasiun — kondisi itu berubah lebih cepat daripada yang bisa diikuti artikel mana pun — jadi di sepanjang panduan ini, perlakukan apa yang disampaikan sebagai *apa yang dibangun untuk disediakan sebuah stasiun*, dan konfirmasikan kondisi terkini ke operator sebelum Anda mengandalkannya.

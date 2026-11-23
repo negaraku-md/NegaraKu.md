@@ -27,7 +27,7 @@ verificationNeeded:
   - "क्या CDL आवेदन अब MyJPJ ऐप के माध्यम से पूरी तरह ऑनलाइन किया जा सकता है — जाँची गई JPJ सेवा पृष्ठ बताता है कि आवेदन केवल राज्य JPJ काउंटर पर किए जाते हैं, पर यह जाँचे जाने की तिथि से बदल गया हो सकता है"
 
 lang: "hi"
-sourceContentHash: "75160a6ad518e3c0"
+sourceContentHash: "2ec5d899e37f88a7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Jaya_Driving_School.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-licence-malaysians/body-1.webp
+    alt: कुआलालंपुर के बंदर तासिक सेलातान में सड़क परिवहन विभाग (JPJ) शाखा का प्रवेश द्वार और प्रतीक्षा क्षेत्र।
+    kind: actual
+    origin: third-party
+    subject: JPJ (सड़क परिवहन विभाग) शाखा कार्यालय, कुआलालंपुर
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_Selatan_(260912).jpg
+  - role: scene
+    src: /media/transport/driving-licence-malaysians/body-2.webp
+    alt: सेलांगोर के रावांग में साइनपोस्ट वाला एक बहु-लेन ट्रैफ़िक गोल चक्कर, एक ऐसा कौशल जिसमें हर सीखने वाले चालक को महारत हासिल करनी होती है।
+    kind: representative
+    origin: third-party
+    subject: रावांग, सेलांगोर में गोल चक्कर
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bulatan_Rawang_(230130)_01.jpg
 ---
 
 अधिकांश लोग «ड्राइविंग लाइसेंस» को एक अकेला दस्तावेज़ मानते हैं। यह असल में तीन

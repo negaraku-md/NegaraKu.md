@@ -24066,5 +24066,2567 @@
         "subject": "Un collège-lycée malaisien (SMK Sapulut)"
       }
     ]
+  },
+  "transport/buying-a-car": {
+    "zh": [
+      {
+        "alt": "马来西亚槟城一家 Perodua 品牌展厅内，崭新的 Perodua 轿车在明亮灯光下一字排开。",
+        "subject": "槟城的 Perodua 经销商展厅"
+      },
+      {
+        "alt": "一辆黑色 Proton Perdana 轿车——马来西亚国产品牌汽车——停在雪兰莪莎阿南的街道上。",
+        "subject": "雪兰莪莎阿南的 Proton Perdana 轿车"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マレーシア・ペナンのPeroduaブランドショールーム内で、明るい照明の下に新車のPerodua車が整然と並ぶ。",
+        "subject": "ペナンのPerodua販売店ショールーム"
+      },
+      {
+        "alt": "黒いProton Perdanaのセダン——マレーシア製の国産ブランド車——がセランゴール州シャアラムの路上に駐車している。",
+        "subject": "シャアラム（セランゴール州）のProton Perdanaセダン"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "말레이시아 페낭의 Perodua 브랜드 쇼룸 안에서 밝은 조명 아래 신형 Perodua 차량들이 줄지어 서 있다.",
+        "subject": "페낭의 Perodua 대리점 쇼룸"
+      },
+      {
+        "alt": "말레이시아산 국산 브랜드 차량인 검은색 Proton Perdana 세단이 셀랑고르주 샤알람의 거리에 주차되어 있다.",
+        "subject": "셀랑고르주 샤알람의 Proton Perdana 세단"
+      }
+    ],
+    "th": [
+      {
+        "alt": "รถPeroduaคันใหม่จอดเรียงรายใต้แสงไฟสว่างภายในโชว์รูมแบรนด์Peroduaในปีนัง ประเทศมาเลเซีย",
+        "subject": "โชว์รูมตัวแทนจำหน่ายPeroduaในปีนัง"
+      },
+      {
+        "alt": "รถเก๋งProton Perdanaสีดำ รถแบรนด์ประจำชาติที่ผลิตในมาเลเซีย จอดอยู่ริมถนนในชาห์อาลัม รัฐสลังงอร์",
+        "subject": "รถเก๋งProton Perdanaในชาห์อาลัม รัฐสลังงอร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Kereta Perodua baharu berbaris di bawah lampu terang di dalam bilik pameran jenama Perodua di Pulau Pinang, Malaysia.",
+        "subject": "Bilik pameran pengedar Perodua di Pulau Pinang"
+      },
+      {
+        "alt": "Sebuah sedan Proton Perdana hitam, kereta jenama nasional buatan Malaysia, diletakkan di tepi jalan di Shah Alam, Selangor.",
+        "subject": "Sedan Proton Perdana di Shah Alam"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Mobil-mobil Perodua baru berjajar di bawah lampu terang di dalam showroom merek Perodua di Penang, Malaysia.",
+        "subject": "Showroom dealer Perodua di Penang"
+      },
+      {
+        "alt": "Sebuah sedan Proton Perdana hitam, mobil merek nasional buatan Malaysia, diparkir di pinggir jalan di Shah Alam, Selangor.",
+        "subject": "Sedan Proton Perdana di Shah Alam"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những chiếc xe Perodua mới xếp hàng dưới ánh đèn sáng bên trong phòng trưng bày thương hiệu Perodua ở Penang, Malaysia.",
+        "subject": "Phòng trưng bày đại lý Perodua ở Penang"
+      },
+      {
+        "alt": "Một chiếc sedan Proton Perdana màu đen, mẫu xe thương hiệu quốc gia do Malaysia sản xuất, đỗ trên một con phố ở Shah Alam, Selangor.",
+        "subject": "Xe sedan Proton Perdana ở Shah Alam"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "மலேசியாவின் பினாங்கில் உள்ள Perodua நிறுவனக் காட்சியறைக்குள் பிரகாசமான விளக்குகளுக்குக் கீழே வரிசையாக நிறுத்தப்பட்டுள்ள புதிய Perodua கார்கள்.",
+        "subject": "பினாங்கில் உள்ள Perodua விற்பனையகக் காட்சியறை"
+      },
+      {
+        "alt": "மலேசியாவில் தயாரிக்கப்பட்ட தேசிய நிறுவனக் காரான கறுப்பு நிற Proton Perdana சேடான், செலாங்கூரின் ஷா ஆலத்தில் ஒரு தெருவில் நிறுத்தப்பட்டுள்ளது.",
+        "subject": "ஷா ஆலத்தில் Proton Perdana சேடான்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "मलेशिया के पेनांग में एक Perodua ब्रांड शोरूम के अंदर तेज़ रोशनी में कतार में खड़ी नई Perodua कारें।",
+        "subject": "पेनांग में Perodua डीलरशिप शोरूम"
+      },
+      {
+        "alt": "सेलांगोर के शाह आलम में एक सड़क पर खड़ी काली Proton Perdana सेडान, जो मलेशिया में बनी राष्ट्रीय-ब्रांड कार है।",
+        "subject": "शाह आलम में Proton Perdana सेडान"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "سيارات Perodua جديدة مصطفّة تحت أضواء ساطعة داخل صالة عرض لعلامة Perodua في Penang، ماليزيا.",
+        "subject": "صالة عرض وكالة Perodua في Penang"
+      },
+      {
+        "alt": "سيارة Proton Perdana سيدان سوداء، وهي سيارة من علامة وطنية مصنوعة في ماليزيا، متوقفة في شارع في Shah Alam، Selangor.",
+        "subject": "سيارة Proton Perdana سيدان في Shah Alam"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Coches Perodua nuevos alineados bajo luces brillantes en el interior de una sala de exposición de la marca Perodua en Penang, Malasia.",
+        "subject": "Sala de exposición del concesionario Perodua en Penang"
+      },
+      {
+        "alt": "Un sedán Proton Perdana negro, un automóvil de marca nacional fabricado en Malasia, estacionado en una calle de Shah Alam, Selangor.",
+        "subject": "Sedán Proton Perdana en Shah Alam"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des voitures Perodua neuves alignées sous des lumières vives dans une salle d'exposition de la marque Perodua à Penang, en Malaisie.",
+        "subject": "Salle d'exposition du concessionnaire Perodua à Penang"
+      },
+      {
+        "alt": "Une berline Proton Perdana noire, une voiture de marque nationale fabriquée en Malaisie, stationnée dans une rue de Shah Alam, Selangor.",
+        "subject": "Berline Proton Perdana à Shah Alam"
+      }
+    ]
+  },
+  "transport/cycling-and-walkability": {
+    "zh": [
+      {
+        "alt": "一条铺砌的自行车与步行共用道，沿着槟城乔治市一条繁忙的主干道延伸。",
+        "subject": "槟城乔治市的自行车与行人共用道"
+      },
+      {
+        "alt": "一条宽敞的有盖人行道，两旁绿意盎然，位于吉隆坡市中心敦拉萨路旁。",
+        "subject": "吉隆坡敦拉萨路人行道"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ペナンのジョージタウンで、交通量の多い幹線道路に沿って延びる、舗装された自転車・歩行者共用の道。",
+        "subject": "ペナン・ジョージタウンの自転車・歩行者共用道"
+      },
+      {
+        "alt": "クアラルンプール中心部のジャラン・トゥン・ラザクに沿い、緑に縁取られた幅広の屋根付き歩行者通路。",
+        "subject": "クアラルンプールのジャラン・トゥン・ラザク歩行者通路"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "페낭 조지타운에서 통행량이 많은 간선도로를 따라 이어지는 포장된 자전거·보행 겸용 길.",
+        "subject": "페낭 조지타운의 자전거·보행 겸용 길"
+      },
+      {
+        "alt": "쿠알라룸푸르 중심부 잘란 툰 라자크 옆으로 녹음이 늘어선 넓은 지붕 덮인 보행로.",
+        "subject": "쿠알라룸푸르 잘란 툰 라자크 보행로"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ทางปูสำหรับปั่นจักรยานและเดินร่วมกันทอดยาวเลียบถนนสายหลักที่พลุกพล่านในจอร์จทาวน์ ปีนัง",
+        "subject": "ทางจักรยานและทางเดินร่วมในจอร์จทาวน์ ปีนัง"
+      },
+      {
+        "alt": "ทางเดินเท้ามีหลังคากว้างขวางประดับด้วยต้นไม้เขียวขจีเลียบถนนจาลันตุนราซัคใจกลางกัวลาลัมเปอร์",
+        "subject": "ทางเดินเท้าจาลันตุนราซัคในกัวลาลัมเปอร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Laluan berkongsi berturap untuk berbasikal dan berjalan kaki yang terbentang di sepanjang jalan utama yang sibuk di George Town, Pulau Pinang.",
+        "subject": "Laluan basikal dan pejalan kaki berkongsi di George Town, Pulau Pinang"
+      },
+      {
+        "alt": "Laluan pejalan kaki berbumbung yang luas dihiasi tumbuhan hijau di tepi Jalan Tun Razak di tengah Kuala Lumpur.",
+        "subject": "Laluan pejalan kaki Jalan Tun Razak di Kuala Lumpur"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Jalur bersama beraspal untuk bersepeda dan berjalan kaki yang membentang di sepanjang jalan utama yang ramai di George Town, Penang.",
+        "subject": "Jalur sepeda dan pejalan kaki bersama di George Town, Penang"
+      },
+      {
+        "alt": "Trotoar pejalan kaki beratap yang lebar dengan deretan tanaman hijau di sisi Jalan Tun Razak di pusat Kuala Lumpur.",
+        "subject": "Trotoar pejalan kaki Jalan Tun Razak di Kuala Lumpur"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một lối đi chung đã lát cho xe đạp và người đi bộ chạy dọc theo một con đường chính đông đúc ở George Town, Penang.",
+        "subject": "Lối đi chung cho xe đạp và người đi bộ ở George Town, Penang"
+      },
+      {
+        "alt": "Một lối đi bộ rộng có mái che với cây xanh dọc hai bên bên cạnh Jalan Tun Razak ở trung tâm Kuala Lumpur.",
+        "subject": "Lối đi bộ Jalan Tun Razak ở Kuala Lumpur"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பினாங்கின் ஜார்ஜ் டவுனில் பரபரப்பான பிரதான சாலையோரமாகச் செல்லும் மிதிவண்டி ஓட்டுவதற்கும் நடப்பதற்கும் பகிர்ந்து பயன்படுத்தப்படும் தரை அமைக்கப்பட்ட பாதை.",
+        "subject": "ஜார்ஜ் டவுன், பினாங்கில் பகிர்ந்த மிதிவண்டி மற்றும் நடைபாதை"
+      },
+      {
+        "alt": "கோலாலம்பூர் நடுநகரில் ஜாலான் துன் ரசாக் அருகே பசுமையால் சூழப்பட்ட கூரையிட்ட அகலமான நடைபாதை.",
+        "subject": "கோலாலம்பூரில் ஜாலான் துன் ரசாக் நடைபாதை"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "पेनांग के जॉर्ज टाउन में एक व्यस्त मुख्य सड़क के किनारे चलता पक्का साझा साइकिलिंग और पैदल पथ।",
+        "subject": "जॉर्ज टाउन, पेनांग में साझा साइकिल और पैदल पथ"
+      },
+      {
+        "alt": "मध्य कुआलालंपुर में जालान तुन रज़ाक के किनारे हरियाली से घिरा एक चौड़ा ढका हुआ पैदल मार्ग।",
+        "subject": "कुआलालंपुर में जालान तुन रज़ाक पैदल मार्ग"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مسار مشترك معبّد للدراجات والمشي يمتد بمحاذاة طريق رئيسي مزدحم في George Town، Penang.",
+        "subject": "مسار مشترك للدراجات والمشاة في George Town، Penang"
+      },
+      {
+        "alt": "ممر واسع ومسقوف للمشاة تحفّه المساحات الخضراء بجانب Jalan Tun Razak في وسط Kuala Lumpur.",
+        "subject": "ممر المشاة في Jalan Tun Razak في Kuala Lumpur"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una vía pavimentada compartida para ciclismo y peatones que discurre junto a una concurrida carretera principal en George Town, Penang.",
+        "subject": "Vía compartida para bicicletas y peatones en George Town, Penang"
+      },
+      {
+        "alt": "Un amplio paseo peatonal cubierto bordeado de vegetación junto a Jalan Tun Razak, en el centro de Kuala Lumpur.",
+        "subject": "Paseo peatonal de Jalan Tun Razak en Kuala Lumpur"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une voie partagée goudronnée pour le vélo et la marche longeant une grande artère animée à George Town, Penang.",
+        "subject": "Voie partagée pour vélos et piétons à George Town, Penang"
+      },
+      {
+        "alt": "Une large promenade piétonne couverte bordée de verdure le long de Jalan Tun Razak, dans le centre de Kuala Lumpur.",
+        "subject": "Promenade piétonne de Jalan Tun Razak à Kuala Lumpur"
+      }
+    ]
+  },
+  "transport/driving-licence-foreigners": {
+    "zh": [
+      {
+        "alt": "一块马来西亚限高管制路牌，架设在吉隆坡一条道路上方、靠近收费站入口处。",
+        "subject": "马来西亚道路管制标志"
+      },
+      {
+        "alt": "马来西亚联邦91号公路沿线的交通灯与车道标线，公路由此向北穿过柔佛居銮。",
+        "subject": "穿越柔佛居銮的联邦公路"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "クアラルンプールの道路上、料金所の手前付近に設置されたマレーシアの高さ制限規制標識。",
+        "subject": "マレーシアの道路規制標識"
+      },
+      {
+        "alt": "柔佛州クルアンを北へ貫くマレーシア連邦道91号線沿いの信号機と車線標示。",
+        "subject": "柔佛州クルアンを貫く連邦道"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "쿠알라룸푸르 도로 위, 톨게이트 진입로 인근에 설치된 말레이시아 높이 제한 규제 표지판.",
+        "subject": "말레이시아 도로 규제 표지판"
+      },
+      {
+        "alt": "조호르주 클루앙을 북쪽으로 관통하는 말레이시아 연방도로 91호선을 따라 설치된 신호등과 차선 표시.",
+        "subject": "조호르주 클루앙을 지나는 연방도로"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ป้ายจราจรควบคุมจำกัดความสูงของมาเลเซียติดตั้งอยู่เหนือถนนในกัวลาลัมเปอร์ใกล้ทางเข้าด่านเก็บเงิน",
+        "subject": "ป้ายจราจรควบคุมของมาเลเซีย"
+      },
+      {
+        "alt": "สัญญาณไฟจราจรและเส้นแบ่งช่องทางตลอดทางหลวงสหพันธ์มาเลเซียหมายเลข91ที่มุ่งขึ้นเหนือผ่านเมืองกลวง รัฐยะโฮร์",
+        "subject": "ทางหลวงสหพันธ์ผ่านเมืองกลวง รัฐยะโฮร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Papan tanda kawal selia had ketinggian Malaysia yang dipasang di atas jalan di Kuala Lumpur berhampiran laluan masuk tol.",
+        "subject": "Papan tanda kawal selia jalan raya Malaysia"
+      },
+      {
+        "alt": "Lampu isyarat dan tanda lorong di sepanjang Laluan Persekutuan 91 Malaysia yang menuju ke utara melalui Kluang, Johor.",
+        "subject": "Lebuh raya persekutuan melalui Kluang, Johor"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah rambu pengatur pembatasan ketinggian Malaysia yang dipasang di atas jalan di Kuala Lumpur dekat jalan masuk gerbang tol.",
+        "subject": "Rambu pengatur jalan Malaysia"
+      },
+      {
+        "alt": "Lampu lalu lintas dan marka lajur di sepanjang Jalur Federal 91 Malaysia yang mengarah ke utara melintasi Kluang, Johor.",
+        "subject": "Jalan raya federal yang melintasi Kluang, Johor"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một biển báo quy định giới hạn chiều cao của Malaysia lắp phía trên một con đường ở Kuala Lumpur gần lối vào trạm thu phí.",
+        "subject": "Biển báo quy định giao thông Malaysia"
+      },
+      {
+        "alt": "Đèn giao thông và vạch kẻ làn đường dọc theo Tuyến Liên bang 91 của Malaysia chạy về phía bắc qua Kluang, Johor.",
+        "subject": "Quốc lộ liên bang đi qua Kluang, Johor"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கோலாலம்பூரில் சுங்கச்சாவடி நுழைவுப் பகுதிக்கு அருகே ஒரு சாலைக்கு மேலே பொருத்தப்பட்டுள்ள மலேசிய உயர வரம்பு ஒழுங்குமுறை சாலை அடையாளப் பலகை.",
+        "subject": "மலேசிய சாலை ஒழுங்குமுறை அடையாளப் பலகை"
+      },
+      {
+        "alt": "ஜொகூரின் க்லுவாங் வழியாக வடக்கே செல்லும் மலேசிய கூட்டாட்சி சாலை 91 இல் உள்ள போக்குவரத்து விளக்குகளும் பாதை அடையாளக் கோடுகளும்.",
+        "subject": "ஜொகூர், க்லுவாங் வழியாகச் செல்லும் கூட்டாட்சி நெடுஞ்சாலை"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कुआलालंपुर की एक सड़क के ऊपर टोल के पास लगा मलेशियाई ऊँचाई-प्रतिबंध नियामक सड़क चिह्न।",
+        "subject": "मलेशियाई नियामक सड़क चिह्न"
+      },
+      {
+        "alt": "जोहोर के क्लुआंग से उत्तर की ओर जाती मलेशिया संघीय मार्ग 91 पर ट्रैफ़िक लाइटें और लेन चिह्न।",
+        "subject": "क्लुआंग, जोहोर से गुज़रता संघीय राजमार्ग"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "لافتة طريق تنظيمية ماليزية لتقييد الارتفاع مثبّتة فوق طريق في Kuala Lumpur بالقرب من مدخل محطة رسوم.",
+        "subject": "لافتة طريق تنظيمية ماليزية"
+      },
+      {
+        "alt": "إشارات مرور وعلامات مسارات على طول الطريق الاتحادي الماليزي رقم 91 المتجه شمالًا عبر Kluang، Johor.",
+        "subject": "طريق سريع اتحادي يمرّ عبر Kluang، Johor"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una señal de tráfico reglamentaria malasia de limitación de altura montada sobre una carretera de Kuala Lumpur, cerca del acceso a un peaje.",
+        "subject": "Señal de tráfico reglamentaria de Malasia"
+      },
+      {
+        "alt": "Semáforos y marcas viales a lo largo de la Ruta Federal 91 de Malasia, que discurre hacia el norte por Kluang, Johor.",
+        "subject": "Autovía federal a su paso por Kluang, Johor"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un panneau de signalisation réglementaire malaisien de limitation de hauteur installé au-dessus d'une route de Kuala Lumpur, près de l'approche d'un péage.",
+        "subject": "Panneau de signalisation réglementaire malaisien"
+      },
+      {
+        "alt": "Des feux de circulation et un marquage au sol le long de la route fédérale 91 de Malaisie, qui file vers le nord à travers Kluang, Johor.",
+        "subject": "Autoroute fédérale traversant Kluang, Johor"
+      }
+    ]
+  },
+  "transport/driving-licence-malaysians": {
+    "zh": [
+      {
+        "alt": "吉隆坡南湖镇陆路交通局（JPJ）分局的入口与等候区。",
+        "subject": "吉隆坡陆路交通局（JPJ）分局"
+      },
+      {
+        "alt": "雪兰莪万挠一处设有指示牌的多车道交通环岛——每位学车者都必须掌握的操控科目。",
+        "subject": "雪兰莪万挠的交通环岛"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "クアラルンプールのバンダル・タシク・スラタンにある陸運局（JPJ）支所の入口と待合スペース。",
+        "subject": "陸運局（JPJ）支所、クアラルンプール"
+      },
+      {
+        "alt": "セランゴール州ラワンにある、標識の立つ多車線のロータリー。すべての教習生が習得すべき操作である。",
+        "subject": "セランゴール州ラワンのロータリー"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "쿠알라룸푸르 반다르 타식 슬라탄에 있는 육상교통국(JPJ) 지국의 입구와 대기 공간.",
+        "subject": "육상교통국(JPJ) 지국, 쿠알라룸푸르"
+      },
+      {
+        "alt": "모든 초보 운전자가 익혀야 할 조작인, 셀랑고르주 라왕의 표지판이 세워진 다차선 회전교차로.",
+        "subject": "셀랑고르주 라왕의 회전교차로"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ทางเข้าและพื้นที่นั่งรอของสำนักงานสาขากรมการขนส่งทางบก (JPJ) ที่บันดาร์ตาซิกเซอลาตัน กัวลาลัมเปอร์",
+        "subject": "สำนักงานสาขากรมการขนส่งทางบก (JPJ) กัวลาลัมเปอร์"
+      },
+      {
+        "alt": "วงเวียนจราจรหลายช่องทางพร้อมป้ายบอกทางที่ราวัง รัฐสลังงอร์ ซึ่งเป็นการขับขี่ที่ผู้หัดขับทุกคนต้องเชี่ยวชาญ",
+        "subject": "วงเวียนจราจรที่ราวัง รัฐสลังงอร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pintu masuk dan ruang menunggu cawangan Jabatan Pengangkutan Jalan (JPJ) di Bandar Tasik Selatan, Kuala Lumpur.",
+        "subject": "Pejabat cawangan JPJ (Jabatan Pengangkutan Jalan), Kuala Lumpur"
+      },
+      {
+        "alt": "Bulatan lalu lintas berbilang lorong dengan papan tanda di Rawang, Selangor, satu kemahiran yang mesti dikuasai setiap pemandu pelatih.",
+        "subject": "Bulatan di Rawang, Selangor"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Pintu masuk dan ruang tunggu cabang Departemen Pengangkutan Jalan (JPJ) di Bandar Tasik Selatan, Kuala Lumpur.",
+        "subject": "Kantor cabang JPJ (Departemen Pengangkutan Jalan), Kuala Lumpur"
+      },
+      {
+        "alt": "Sebuah bundaran lalu lintas berlajur banyak dengan papan penunjuk jalan di Rawang, Selangor, manuver yang wajib dikuasai setiap pengemudi pemula.",
+        "subject": "Bundaran di Rawang, Selangor"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Lối vào và khu vực chờ của chi nhánh Cục Giao thông Đường bộ (JPJ) tại Bandar Tasik Selatan, Kuala Lumpur.",
+        "subject": "Văn phòng chi nhánh JPJ (Cục Giao thông Đường bộ), Kuala Lumpur"
+      },
+      {
+        "alt": "Một vòng xuyến giao thông nhiều làn có các biển chỉ dẫn ở Rawang, Selangor, một thao tác mà mọi học viên lái xe đều phải thành thạo.",
+        "subject": "Vòng xuyến ở Rawang, Selangor"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கோலாலம்பூர், பந்தர் தாசிக் செலாத்தானில் உள்ள சாலைப் போக்குவரத்துத் துறை (JPJ) கிளையின் நுழைவாயிலும் காத்திருப்பு இடமும்.",
+        "subject": "JPJ (சாலைப் போக்குவரத்துத் துறை) கிளை அலுவலகம், கோலாலம்பூர்"
+      },
+      {
+        "alt": "செலாங்கூரின் ராவாங்கில் அடையாளப் பலகைகளுடன் கூடிய பல பாதை போக்குவரத்து சுற்றுவட்டம், ஒவ்வொரு பயிற்சி ஓட்டுநரும் கரைதேற வேண்டிய ஒரு திறன்.",
+        "subject": "செலாங்கூர், ராவாங்கில் உள்ள சுற்றுவட்டம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कुआलालंपुर के बंदर तासिक सेलातान में सड़क परिवहन विभाग (JPJ) शाखा का प्रवेश द्वार और प्रतीक्षा क्षेत्र।",
+        "subject": "JPJ (सड़क परिवहन विभाग) शाखा कार्यालय, कुआलालंपुर"
+      },
+      {
+        "alt": "सेलांगोर के रावांग में साइनपोस्ट वाला एक बहु-लेन ट्रैफ़िक गोल चक्कर, एक ऐसा कौशल जिसमें हर सीखने वाले चालक को महारत हासिल करनी होती है।",
+        "subject": "रावांग, सेलांगोर में गोल चक्कर"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مدخل ومنطقة انتظار فرع إدارة النقل البري (JPJ) في Bandar Tasik Selatan، Kuala Lumpur.",
+        "subject": "مكتب فرع JPJ (إدارة النقل البري)، Kuala Lumpur"
+      },
+      {
+        "alt": "دوّار مروري متعدد المسارات مزوّد بلافتات إرشادية في Rawang، Selangor، وهو مناورة يجب أن يتقنها كل سائق متعلّم.",
+        "subject": "دوّار مروري في Rawang، Selangor"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La entrada y la zona de espera de la sucursal del Departamento de Transporte por Carretera (JPJ) en Bandar Tasik Selatan, Kuala Lumpur.",
+        "subject": "Oficina de la sucursal del JPJ (Departamento de Transporte por Carretera), Kuala Lumpur"
+      },
+      {
+        "alt": "Una rotonda de tráfico de varios carriles con señalización en Rawang, Selangor, una maniobra que todo conductor en prácticas debe dominar.",
+        "subject": "Rotonda en Rawang, Selangor"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "L'entrée et la zone d'attente de l'antenne du département des transports routiers (JPJ) à Bandar Tasik Selatan, Kuala Lumpur.",
+        "subject": "Bureau de l'antenne du JPJ (département des transports routiers), Kuala Lumpur"
+      },
+      {
+        "alt": "Un rond-point à plusieurs voies doté de panneaux indicateurs à Rawang, Selangor, une manœuvre que tout apprenti conducteur doit maîtriser.",
+        "subject": "Rond-point à Rawang, Selangor"
+      }
+    ]
+  },
+  "transport/driving-to-singapore-and-thailand": {
+    "zh": [
+      {
+        "alt": "马来西亚-新加坡第二通道公路大桥横跨柔佛海峡，连接丹绒古邦与大士。",
+        "subject": "马来西亚-新加坡第二通道大桥（大士）"
+      },
+      {
+        "alt": "通往黑木山陆路关卡的道路引道，位于吉打州的马来西亚-泰国边境。",
+        "subject": "黑木山-沙道马来西亚-泰国边境关卡"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "タンジュン・クパンとトゥアスの間でジョホール海峡をまたぐ、マレーシア・シンガポール第2リンクの道路橋。",
+        "subject": "マレーシア・シンガポール第2リンク橋（トゥアス）"
+      },
+      {
+        "alt": "ケダ州のマレーシア・タイ国境、ブキッ・カユ・ヒタム陸路国境への進入路。",
+        "subject": "ブキッ・カユ・ヒタム～サダオのマレーシア・タイ国境"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "탄중 쿠팡과 투아스 사이로 조호르 해협을 가로지르는 말레이시아-싱가포르 제2연결교 도로 교량.",
+        "subject": "말레이시아-싱가포르 제2연결교(투아스)"
+      },
+      {
+        "alt": "케다주의 말레이시아-태국 국경에 있는 부킷 카유 히탐 육로 통관소로 향하는 진입로.",
+        "subject": "부킷 카유 히탐-사다오 말레이시아-태국 국경 통관소"
+      }
+    ],
+    "th": [
+      {
+        "alt": "สะพานถนนเซคันด์ลิงก์มาเลเซีย-สิงคโปร์ทอดข้ามช่องแคบยะโฮร์ระหว่างตันจุงกูปังกับตัวส์",
+        "subject": "สะพานเซคันด์ลิงก์มาเลเซีย-สิงคโปร์ (ตัวส์)"
+      },
+      {
+        "alt": "ทางเข้าสู่ด่านพรมแดนทางบกบูกิตกายูฮิตัมบนพรมแดนมาเลเซีย-ไทยในรัฐเกดะห์",
+        "subject": "ด่านพรมแดนมาเลเซีย-ไทยบูกิตกายูฮิตัม-สะเดา"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Jambatan jalan raya Second Link Malaysia-Singapura yang merentasi Selat Johor antara Tanjung Kupang dan Tuas.",
+        "subject": "Jambatan Second Link Malaysia-Singapura (Tuas)"
+      },
+      {
+        "alt": "Laluan masuk ke lintasan darat Bukit Kayu Hitam di sempadan Malaysia-Thailand di Kedah.",
+        "subject": "Lintasan sempadan Malaysia-Thailand Bukit Kayu Hitam-Sadao"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Jembatan jalan raya Second Link Malaysia-Singapura yang melintasi Selat Johor antara Tanjung Kupang dan Tuas.",
+        "subject": "Jembatan Second Link Malaysia-Singapura (Tuas)"
+      },
+      {
+        "alt": "Jalan masuk menuju perlintasan darat Bukit Kayu Hitam di perbatasan Malaysia-Thailand di Kedah.",
+        "subject": "Perlintasan perbatasan Malaysia-Thailand Bukit Kayu Hitam-Sadao"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Cầu đường bộ Second Link Malaysia-Singapore bắc qua eo biển Johor giữa Tanjung Kupang và Tuas.",
+        "subject": "Cầu Second Link Malaysia-Singapore (Tuas)"
+      },
+      {
+        "alt": "Đoạn đường dẫn vào cửa khẩu đường bộ Bukit Kayu Hitam trên biên giới Malaysia-Thái Lan ở Kedah.",
+        "subject": "Cửa khẩu biên giới Malaysia-Thái Lan Bukit Kayu Hitam-Sadao"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "தஞ்சோங் குப்பாங்கிற்கும் துவாஸிற்கும் இடையே ஜொகூர் ஜலசந்தியைக் கடக்கும் மலேசியா-சிங்கப்பூர் Second Link சாலைப் பாலம்.",
+        "subject": "மலேசியா-சிங்கப்பூர் Second Link பாலம் (துவாஸ்)"
+      },
+      {
+        "alt": "கெடாவில் மலேசியா-தாய்லாந்து எல்லையில் உள்ள புக்கிட் காயு ஹிதாம் தரை எல்லைக் கடவுக்குச் செல்லும் சாலை.",
+        "subject": "புக்கிட் காயு ஹிதாம்-சடாவோ மலேசியா-தாய்லாந்து எல்லைக் கடவு"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "तंजुंग कुपांग और तुआस के बीच जोहोर जलडमरूमध्य को पार करता मलेशिया-सिंगापुर Second Link सड़क पुल।",
+        "subject": "मलेशिया-सिंगापुर Second Link पुल (तुआस)"
+      },
+      {
+        "alt": "केदाह में मलेशिया-थाईलैंड सीमा पर बुकिट कायु हितम भूमि चौकी की ओर जाता सड़क मार्ग।",
+        "subject": "बुकिट कायु हितम-सादाओ मलेशिया-थाईलैंड सीमा चौकी"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "جسر طريق Second Link الرابط بين ماليزيا وسنغافورة ويمتد فوق مضيق Johor بين Tanjung Kupang وTuas.",
+        "subject": "جسر Second Link بين ماليزيا وسنغافورة (Tuas)"
+      },
+      {
+        "alt": "الطريق المؤدي إلى معبر Bukit Kayu Hitam البري على الحدود بين ماليزيا وتايلاند في Kedah.",
+        "subject": "معبر Bukit Kayu Hitam-Sadao الحدودي بين ماليزيا وتايلاند"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El puente de carretera del Second Link entre Malasia y Singapur que cruza el estrecho de Johor entre Tanjung Kupang y Tuas.",
+        "subject": "Puente del Second Link Malasia-Singapur (Tuas)"
+      },
+      {
+        "alt": "El acceso por carretera al paso terrestre de Bukit Kayu Hitam en la frontera entre Malasia y Tailandia, en Kedah.",
+        "subject": "Paso fronterizo Malasia-Tailandia de Bukit Kayu Hitam-Sadao"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Le pont routier du Second Link entre la Malaisie et Singapour, qui enjambe le détroit de Johor entre Tanjung Kupang et Tuas.",
+        "subject": "Pont du Second Link Malaisie-Singapour (Tuas)"
+      },
+      {
+        "alt": "L'accès routier au poste terrestre de Bukit Kayu Hitam, à la frontière entre la Malaisie et la Thaïlande, dans le Kedah.",
+        "subject": "Poste-frontière Malaisie-Thaïlande de Bukit Kayu Hitam-Sadao"
+      }
+    ]
+  },
+  "transport/e-hailing-grab": {
+    "zh": [
+      {
+        "alt": "一辆贴有绿色 Grab 网约车涂装和马来西亚国旗的轿车行驶在沙巴亚庇的街道上。",
+        "subject": "沙巴亚庇的 Grab 涂装轿车"
+      },
+      {
+        "alt": "一支 Grab 品牌方队在沙巴亚庇参加 2023 年国庆日游行。",
+        "subject": "沙巴亚庇国庆日游行中的 Grab 方队"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "緑のGrab配車サービスのラッピングとマレーシア国旗をあしらったセダンが、サバ州コタキナバルの街路を走る。",
+        "subject": "サバ州コタキナバルのGrabラッピング車"
+      },
+      {
+        "alt": "サバ州コタキナバルの2023年ナショナルデー・パレードで行進するGrabブランドの隊列。",
+        "subject": "コタキナバルのナショナルデー・パレードのGrab隊列"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "초록색 Grab 차량 호출 래핑과 말레이시아 국기를 두른 세단이 사바주 코타키나발루의 거리를 달린다.",
+        "subject": "사바주 코타키나발루의 Grab 래핑 차량"
+      },
+      {
+        "alt": "사바주 코타키나발루의 2023년 국경일 퍼레이드에서 행진하는 Grab 브랜드 행렬.",
+        "subject": "코타키나발루 국경일 퍼레이드의 Grab 행렬"
+      }
+    ],
+    "th": [
+      {
+        "alt": "รถเก๋งหุ้มสติกเกอร์บริการเรียกรถGrabสีเขียวและธงชาติมาเลเซียแล่นไปตามถนนในโกตากีนาบาลู รัฐซาบาห์",
+        "subject": "รถหุ้มสติกเกอร์Grabในโกตากีนาบาลู รัฐซาบาห์"
+      },
+      {
+        "alt": "ขบวนแบรนด์Grabเดินในขบวนพาเหรดวันชาติปี2023ที่โกตากีนาบาลู รัฐซาบาห์",
+        "subject": "ขบวนGrabในพาเหรดวันชาติที่โกตากีนาบาลู"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah sedan yang dibalut livery e-hailing Grab berwarna hijau dan bendera Malaysia memandu di sebuah jalan di Kota Kinabalu, Sabah.",
+        "subject": "Kereta berlivery Grab di Kota Kinabalu, Sabah"
+      },
+      {
+        "alt": "Kontinjen berjenama Grab berarak dalam perarakan Hari Kebangsaan 2023 di Kota Kinabalu, Sabah.",
+        "subject": "Kontinjen Grab dalam perarakan Hari Kebangsaan di Kota Kinabalu"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah sedan yang dibalut livery layanan transportasi online Grab berwarna hijau dan bendera Malaysia melaju di sebuah jalan di Kota Kinabalu, Sabah.",
+        "subject": "Mobil berlivery Grab di Kota Kinabalu, Sabah"
+      },
+      {
+        "alt": "Kontingen bermerek Grab berbaris dalam pawai Hari Nasional 2023 di Kota Kinabalu, Sabah.",
+        "subject": "Kontingen Grab dalam pawai Hari Nasional di Kota Kinabalu"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một chiếc sedan dán decal màu xanh lá của dịch vụ gọi xe Grab cùng cờ Malaysia chạy trên một con phố ở Kota Kinabalu, Sabah.",
+        "subject": "Xe mang màu sơn Grab ở Kota Kinabalu, Sabah"
+      },
+      {
+        "alt": "Một đoàn mang thương hiệu Grab diễu hành trong lễ diễu hành Ngày Quốc khánh năm 2023 ở Kota Kinabalu, Sabah.",
+        "subject": "Đoàn diễu hành Grab tại lễ diễu hành Ngày Quốc khánh ở Kota Kinabalu"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "சபாவின் கோத்தா கினபாலுவில் ஒரு தெருவில் பச்சை நிற Grab வாகன அழைப்பு சேவை அடையாள மூடி மற்றும் மலேசியக் கொடிகளுடன் செல்லும் ஒரு சேடான்.",
+        "subject": "சபா, கோத்தா கினபாலுவில் Grab அடையாள வண்ண கார்"
+      },
+      {
+        "alt": "சபாவின் கோத்தா கினபாலுவில் 2023 தேசிய தின அணிவகுப்பில் அணிவகுத்துச் செல்லும் Grab நிறுவன அடையாளக் குழு.",
+        "subject": "கோத்தா கினபாலுவில் தேசிய தின அணிவகுப்பில் Grab குழு"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "हरे Grab राइड-हेलिंग लिवरी और मलेशियाई झंडों से ढकी एक सेडान कोटा किनाबालु, सबाह की एक सड़क पर चलती हुई।",
+        "subject": "कोटा किनाबालु, सबाह में Grab लिवरी वाली कार"
+      },
+      {
+        "alt": "सबाह के कोटा किनाबालु में 2023 की राष्ट्रीय दिवस परेड में मार्च करता Grab-ब्रांड वाला दल।",
+        "subject": "कोटा किनाबालु में राष्ट्रीय दिवस परेड में Grab का दल"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "سيارة سيدان مغلّفة بطلاء Grab الأخضر لخدمة طلب الركوب وأعلام ماليزية تسير في شارع في Kota Kinabalu، Sabah.",
+        "subject": "سيارة بطلاء Grab في Kota Kinabalu، Sabah"
+      },
+      {
+        "alt": "فرقة تحمل علامة Grab تسير في عرض اليوم الوطني لعام 2023 في Kota Kinabalu، Sabah.",
+        "subject": "فرقة Grab في عرض اليوم الوطني في Kota Kinabalu"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un sedán revestido con la rotulación verde de Grab, el servicio de transporte con conductor, y banderas de Malasia circula por una calle de Kota Kinabalu, Sabah.",
+        "subject": "Coche con la rotulación de Grab en Kota Kinabalu, Sabah"
+      },
+      {
+        "alt": "Un contingente con la marca Grab desfila en el desfile del Día Nacional de 2023 en Kota Kinabalu, Sabah.",
+        "subject": "Contingente de Grab en un desfile del Día Nacional en Kota Kinabalu"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une berline habillée du marquage vert de Grab, le service de VTC, et de drapeaux malaisiens circule dans une rue de Kota Kinabalu, Sabah.",
+        "subject": "Voiture aux couleurs de Grab à Kota Kinabalu, Sabah"
+      },
+      {
+        "alt": "Un contingent aux couleurs de Grab défile lors du défilé de la fête nationale de 2023 à Kota Kinabalu, Sabah.",
+        "subject": "Contingent Grab lors d'un défilé de la fête nationale à Kota Kinabalu"
+      }
+    ]
+  },
+  "transport/e-scooters-and-personal-mobility-devices": {
+    "zh": [
+      {
+        "alt": "一辆共享 Beam 电动滑板车停放在吉隆坡 Merdeka MRT 车站附近一家酒店旁的微型交通停放区。",
+        "subject": "吉隆坡 Merdeka MRT 附近的共享 Beam 电动滑板车停放点"
+      },
+      {
+        "alt": "一辆紫色共享 Beam Mobility 电动滑板车停放在柔佛峇株巴辖 Taman Rekreasi Tasik Y 的小径上。",
+        "subject": "柔佛峇株巴辖湖畔公园的共享 Beam 电动滑板车"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "クアラルンプールのMerdeka MRT駅近くのホテル脇にある、マイクロモビリティ用の停車スペースに駐められた共有Beam電動キックボード。",
+        "subject": "クアラルンプールのMerdeka MRT付近の共有Beam電動キックボード置き場"
+      },
+      {
+        "alt": "柔佛州バトゥパハのTaman Rekreasi Tasik Yの小道に駐められた、紫色の共有Beam Mobilityの電動キックボード。",
+        "subject": "柔佛州バトゥパハの湖畔公園の共有Beam電動キックボード"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "쿠알라룸푸르 Merdeka MRT역 인근 호텔 옆 마이크로모빌리티 주차 구역에 세워진 공유 Beam 전동 킥보드.",
+        "subject": "쿠알라룸푸르 Merdeka MRT 인근 공유 Beam 전동 킥보드 주차장"
+      },
+      {
+        "alt": "조호르주 바투파핫의 Taman Rekreasi Tasik Y 산책로에 세워진 보라색 공유 Beam Mobility 전동 킥보드.",
+        "subject": "조호르주 바투파핫 호숫가 공원의 공유 Beam 전동 킥보드"
+      }
+    ],
+    "th": [
+      {
+        "alt": "สกู๊ตเตอร์ไฟฟ้าBeamแบบแบ่งปันจอดอยู่ที่จุดจอดยานพาหนะขนาดเล็กข้างโรงแรมใกล้สถานีMRTเมอร์เดกาในกัวลาลัมเปอร์",
+        "subject": "จุดจอดสกู๊ตเตอร์ไฟฟ้าBeamแบบแบ่งปันใกล้MRTเมอร์เดกา กัวลาลัมเปอร์"
+      },
+      {
+        "alt": "สกู๊ตเตอร์ไฟฟ้าBeam Mobilityแบบแบ่งปันสีม่วงจอดอยู่บนทางเดินที่สวนสาธารณะTaman Rekreasi Tasik Yในบาตูปาฮัต รัฐยะโฮร์",
+        "subject": "สกู๊ตเตอร์ไฟฟ้าBeamแบบแบ่งปันที่สวนริมทะเลสาบในบาตูปาฮัต รัฐยะโฮร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah e-skuter Beam berkongsi diletakkan di petak mikromobiliti di sebelah sebuah hotel berhampiran stesen MRT Merdeka di Kuala Lumpur.",
+        "subject": "Tempat letak e-skuter Beam berkongsi berhampiran MRT Merdeka, Kuala Lumpur"
+      },
+      {
+        "alt": "Sebuah e-skuter Beam Mobility berkongsi berwarna ungu diletakkan di laluan di Taman Rekreasi Tasik Y di Batu Pahat, Johor.",
+        "subject": "E-skuter Beam berkongsi di taman tepi tasik di Batu Pahat, Johor"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah skuter listrik Beam berbagi diparkir di petak mikromobilitas di samping sebuah hotel dekat stasiun MRT Merdeka di Kuala Lumpur.",
+        "subject": "Parkir skuter listrik Beam berbagi dekat MRT Merdeka, Kuala Lumpur"
+      },
+      {
+        "alt": "Sebuah skuter listrik Beam Mobility berbagi berwarna ungu diparkir di jalan setapak di Taman Rekreasi Tasik Y di Batu Pahat, Johor.",
+        "subject": "Skuter listrik Beam berbagi di taman tepi danau di Batu Pahat, Johor"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một chiếc xe scooter điện Beam dùng chung đỗ tại ô đỗ xe di chuyển cá nhân bên cạnh một khách sạn gần ga MRT Merdeka ở Kuala Lumpur.",
+        "subject": "Bãi đỗ xe scooter điện Beam dùng chung gần ga MRT Merdeka, Kuala Lumpur"
+      },
+      {
+        "alt": "Một chiếc xe scooter điện Beam Mobility dùng chung màu tím đỗ trên lối đi tại Taman Rekreasi Tasik Y ở Batu Pahat, Johor.",
+        "subject": "Xe scooter điện Beam dùng chung tại công viên ven hồ ở Batu Pahat, Johor"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கோலாலம்பூரில் Merdeka MRT நிலையத்திற்கு அருகே ஒரு ஹோட்டலுக்குப் பக்கத்தில் உள்ள நுண்-நடமாட்டப் பகுதியில் நிறுத்தப்பட்டுள்ள பகிர்ந்த Beam மின்-ஸ்கூட்டர்.",
+        "subject": "கோலாலம்பூர், Merdeka MRT அருகே பகிர்ந்த Beam மின்-ஸ்கூட்டர் நிறுத்துமிடம்"
+      },
+      {
+        "alt": "ஜொகூரின் பத்து பகாட்டில் உள்ள தாமான் ரெக்ரியாசி தாசிக் Y இல் ஒரு பாதையில் நிறுத்தப்பட்டுள்ள ஊதா நிற பகிர்ந்த Beam Mobility மின்-ஸ்கூட்டர்.",
+        "subject": "ஜொகூர், பத்து பகாட்டில் ஏரிக்கரை பூங்காவில் பகிர்ந்த Beam மின்-ஸ்கூட்டர்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कुआलालंपुर में Merdeka MRT स्टेशन के पास एक होटल के बगल में माइक्रोमोबिलिटी बे पर खड़ा एक साझा Beam ई-स्कूटर।",
+        "subject": "कुआलालंपुर में Merdeka MRT के पास साझा Beam ई-स्कूटर पार्किंग"
+      },
+      {
+        "alt": "जोहोर के बातु पाहत में Taman Rekreasi Tasik Y के एक रास्ते पर खड़ा एक बैंगनी साझा Beam Mobility ई-स्कूटर।",
+        "subject": "बातु पाहत, जोहोर में एक झील किनारे पार्क में साझा Beam ई-स्कूटर"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "سكوتر Beam كهربائي مشترك متوقف في موقف للتنقل الصغير بجوار فندق قرب محطة Merdeka MRT في Kuala Lumpur.",
+        "subject": "موقف سكوتر Beam الكهربائي المشترك قرب Merdeka MRT، Kuala Lumpur"
+      },
+      {
+        "alt": "سكوتر Beam Mobility كهربائي مشترك باللون البنفسجي متوقف على ممشى في Taman Rekreasi Tasik Y في Batu Pahat، Johor.",
+        "subject": "سكوتر Beam الكهربائي المشترك في حديقة على ضفة بحيرة في Batu Pahat، Johor"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un patinete eléctrico compartido Beam aparcado en una zona de micromovilidad junto a un hotel cerca de la estación de MRT Merdeka, en Kuala Lumpur.",
+        "subject": "Aparcamiento de patinete eléctrico compartido Beam cerca del MRT Merdeka, Kuala Lumpur"
+      },
+      {
+        "alt": "Un patinete eléctrico compartido Beam Mobility de color morado aparcado en un sendero del Taman Rekreasi Tasik Y, en Batu Pahat, Johor.",
+        "subject": "Patinete eléctrico compartido Beam en un parque junto a un lago en Batu Pahat, Johor"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une trottinette électrique en partage Beam stationnée sur un emplacement de micromobilité à côté d'un hôtel, près de la station de MRT Merdeka à Kuala Lumpur.",
+        "subject": "Stationnement de trottinette électrique en partage Beam près du MRT Merdeka, Kuala Lumpur"
+      },
+      {
+        "alt": "Une trottinette électrique en partage Beam Mobility de couleur violette stationnée sur une allée du Taman Rekreasi Tasik Y, à Batu Pahat, Johor.",
+        "subject": "Trottinette électrique en partage Beam dans un parc au bord d'un lac à Batu Pahat, Johor"
+      }
+    ]
+  },
+  "transport/electric-vehicle-ownership": {
+    "zh": [
+      {
+        "alt": "位于雪兰莪蒲种 LDP 高速公路服务点的 Shell Recharge 直流快充车位，供电动车充电。",
+        "subject": "马来西亚蒲种南 LDP 的 Shell Recharge 直流快充站"
+      },
+      {
+        "alt": "一辆蓝色 2023 款 BYD Atto 3 电动 SUV——马来西亚市场的热门电动车——停在槟城。",
+        "subject": "马来西亚槟城的 BYD Atto 3 电动 SUV"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "セランゴール州プチョンのLDP高速道路休憩所にある、電気自動車向けのShell Recharge直流急速充電スペース。",
+        "subject": "Shell Recharge直流急速充電ステーション、マレーシア・プチョン南LDP"
+      },
+      {
+        "alt": "マレーシア市場で人気のEVである青い2023年式BYD Atto 3の電動SUVが、ペナンに駐車している。",
+        "subject": "マレーシア・ペナンのBYD Atto 3電動SUV"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "셀랑고르주 푸총의 LDP 고속도로 휴게소에 있는, 전기차용 Shell Recharge DC 급속충전 구역.",
+        "subject": "말레이시아 푸총 남부 LDP의 Shell Recharge DC 급속충전소"
+      },
+      {
+        "alt": "말레이시아 시장의 인기 EV인 파란색 2023년형 BYD Atto 3 전기 SUV가 페낭에 주차되어 있다.",
+        "subject": "말레이시아 페낭의 BYD Atto 3 전기 SUV"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ช่องชาร์จเร็วกระแสตรงShell Rechargeสำหรับรถยนต์ไฟฟ้าที่จุดพักริมทางด่วนLDPในปูโจง รัฐสลังงอร์",
+        "subject": "สถานีชาร์จเร็วกระแสตรงShell Rechargeที่LDPปูโจงใต้ มาเลเซีย"
+      },
+      {
+        "alt": "รถSUVไฟฟ้าBYD Atto 3ปี2023สีน้ำเงิน ซึ่งเป็นรถEVยอดนิยมในตลาดมาเลเซีย จอดอยู่ในปีนัง",
+        "subject": "รถSUVไฟฟ้าBYD Atto 3ในปีนัง มาเลเซีย"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Petak pengecasan pantas DC Shell Recharge untuk kenderaan elektrik di hentian lebuh raya LDP di Puchong, Selangor.",
+        "subject": "Stesen pengecasan pantas DC Shell Recharge, LDP Puchong Selatan, Malaysia"
+      },
+      {
+        "alt": "Sebuah SUV elektrik BYD Atto 3 2023 berwarna biru, EV popular di pasaran Malaysia, diletakkan di Pulau Pinang.",
+        "subject": "SUV elektrik BYD Atto 3 di Pulau Pinang, Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Petak pengisian cepat DC Shell Recharge untuk kendaraan listrik di rest area jalan tol LDP di Puchong, Selangor.",
+        "subject": "Stasiun pengisian cepat DC Shell Recharge, LDP Puchong Selatan, Malaysia"
+      },
+      {
+        "alt": "Sebuah SUV listrik BYD Atto 3 2023 berwarna biru, EV populer di pasar Malaysia, diparkir di Penang.",
+        "subject": "SUV listrik BYD Atto 3 di Penang, Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một ô sạc nhanh DC Shell Recharge cho xe điện tại điểm dừng trên cao tốc LDP ở Puchong, Selangor.",
+        "subject": "Trạm sạc nhanh DC Shell Recharge, LDP Puchong South, Malaysia"
+      },
+      {
+        "alt": "Một chiếc SUV điện BYD Atto 3 đời 2023 màu xanh dương, mẫu xe điện phổ biến trên thị trường Malaysia, đỗ ở Penang.",
+        "subject": "Xe SUV điện BYD Atto 3 ở Penang, Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "செலாங்கூரின் புச்சோங்கில் LDP நெடுஞ்சாலை நிறுத்துமிடத்தில் மின்சார வாகனங்களுக்கான Shell Recharge DC விரைவு மின்னூட்டப் பகுதி.",
+        "subject": "Shell Recharge DC விரைவு மின்னூட்ட நிலையம், LDP புச்சோங் தெற்கு, மலேசியா"
+      },
+      {
+        "alt": "மலேசியச் சந்தையில் பிரபலமான மின்சார வாகனமான நீல நிற 2023 BYD Atto 3 மின்சார SUV, பினாங்கில் நிறுத்தப்பட்டுள்ளது.",
+        "subject": "பினாங்கில் BYD Atto 3 மின்சார SUV, மலேசியா"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "सेलांगोर के पुचोंग में LDP हाईवे स्टॉप पर इलेक्ट्रिक वाहनों के लिए एक Shell Recharge DC फ़ास्ट-चार्जिंग बे।",
+        "subject": "Shell Recharge DC फ़ास्ट-चार्जिंग स्टेशन, LDP पुचोंग साउथ, मलेशिया"
+      },
+      {
+        "alt": "पेनांग में खड़ी एक नीली 2023 BYD Atto 3 इलेक्ट्रिक SUV, जो मलेशियाई बाज़ार में एक लोकप्रिय EV है।",
+        "subject": "पेनांग, मलेशिया में BYD Atto 3 इलेक्ट्रिक SUV"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "موقف شحن سريع Shell Recharge DC للمركبات الكهربائية في محطة طريق LDP السريع في Puchong، Selangor.",
+        "subject": "محطة شحن سريع Shell Recharge DC، LDP Puchong South، ماليزيا"
+      },
+      {
+        "alt": "سيارة BYD Atto 3 كهربائية زرقاء من فئة SUV طراز 2023، وهي سيارة كهربائية رائجة في السوق الماليزية، متوقفة في Penang.",
+        "subject": "سيارة BYD Atto 3 الكهربائية من فئة SUV في Penang، ماليزيا"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una plaza de carga rápida de corriente continua Shell Recharge para vehículos eléctricos en el área de servicio de la autopista LDP, en Puchong, Selangor.",
+        "subject": "Estación de carga rápida de corriente continua Shell Recharge, LDP Puchong South, Malasia"
+      },
+      {
+        "alt": "Un SUV eléctrico BYD Atto 3 azul de 2023, un vehículo eléctrico popular en el mercado malasio, estacionado en Penang.",
+        "subject": "SUV eléctrico BYD Atto 3 en Penang, Malasia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une borne de recharge rapide en courant continu Shell Recharge pour véhicules électriques sur l'aire de l'autoroute LDP à Puchong, Selangor.",
+        "subject": "Station de recharge rapide en courant continu Shell Recharge, LDP Puchong South, Malaisie"
+      },
+      {
+        "alt": "Un SUV électrique BYD Atto 3 bleu de 2023, un véhicule électrique prisé sur le marché malaisien, stationné à Penang.",
+        "subject": "SUV électrique BYD Atto 3 à Penang, Malaisie"
+      }
+    ]
+  },
+  "transport/johor-bahru-singapore-rts-link": {
+    "zh": [
+      {
+        "alt": "位于新山的 Bukit Chagar RTS Link 终点站正在施工中、逐渐成形。",
+        "subject": "新山 Bukit Chagar RTS Link 终点站施工中"
+      },
+      {
+        "alt": "一列用于新山-新加坡 RTS Link 的中车株洲列车正在进行试运行。",
+        "subject": "RTS Link 中车列车试运行"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ジョホールバルで建設が進み、形になりつつあるBukit Chagar RTS Link終着駅。",
+        "subject": "建設中のBukit Chagar RTS Link終着駅、ジョホールバル"
+      },
+      {
+        "alt": "ジョホールバル・シンガポールRTS Link向けのCRRC株洲の編成車両が試運転を行う様子。",
+        "subject": "試運転中のRTS Link用CRRC車両"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "조호르바루에서 건설 중 점차 모습을 갖춰가는 Bukit Chagar RTS Link 종착역.",
+        "subject": "건설 중인 Bukit Chagar RTS Link 종착역, 조호르바루"
+      },
+      {
+        "alt": "조호르바루-싱가포르 RTS Link용 CRRC 주저우 편성 열차가 시운전하는 모습.",
+        "subject": "RTS Link용 CRRC 열차 시운전"
+      }
+    ],
+    "th": [
+      {
+        "alt": "สถานีปลายทางRTS Linkบูกิตชาการ์กำลังก่อตัวขึ้นระหว่างการก่อสร้างในยะโฮร์บาห์รู",
+        "subject": "สถานีปลายทางRTS Linkบูกิตชาการ์ระหว่างก่อสร้าง ยะโฮร์บาห์รู"
+      },
+      {
+        "alt": "ขบวนรถไฟCRRC ZhuzhouสำหรับRTS Linkยะโฮร์บาห์รู-สิงคโปร์ระหว่างการวิ่งทดสอบ",
+        "subject": "ขบวนรถไฟCRRCของRTS Linkระหว่างวิ่งทดสอบ"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Stesen RTS Link Bukit Chagar yang sedang mengambil bentuk dalam pembinaan di Johor Bahru.",
+        "subject": "Stesen terminus RTS Link Bukit Chagar dalam pembinaan, Johor Bahru"
+      },
+      {
+        "alt": "Satu set kereta api CRRC Zhuzhou untuk RTS Link Johor Bahru-Singapura semasa larian percubaan.",
+        "subject": "Stok kereta api CRRC RTS Link dalam larian percubaan"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Stasiun RTS Link Bukit Chagar yang mulai terbentuk dalam tahap pembangunan di Johor Bahru.",
+        "subject": "Stasiun terminus RTS Link Bukit Chagar dalam pembangunan, Johor Bahru"
+      },
+      {
+        "alt": "Satu rangkaian kereta api CRRC Zhuzhou untuk RTS Link Johor Bahru-Singapura saat uji coba jalan.",
+        "subject": "Rangkaian kereta CRRC RTS Link dalam uji coba jalan"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Ga RTS Link Bukit Chagar đang dần thành hình trong quá trình xây dựng ở Johor Bahru.",
+        "subject": "Ga cuối RTS Link Bukit Chagar đang xây dựng, Johor Bahru"
+      },
+      {
+        "alt": "Một đoàn tàu CRRC Zhuzhou cho tuyến RTS Link Johor Bahru-Singapore trong một lần chạy thử.",
+        "subject": "Đoàn tàu CRRC của RTS Link chạy thử"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஜொகூர் பாருவில் கட்டுமானத்தில் உருவாகி வரும் புக்கிட் சாகார் RTS Link நிலையம்.",
+        "subject": "கட்டுமானத்தில் உள்ள புக்கிட் சாகார் RTS Link முனைய நிலையம், ஜொகூர் பாரு"
+      },
+      {
+        "alt": "சோதனை ஓட்டத்தின் போது ஜொகூர் பாரு-சிங்கப்பூர் RTS Link க்கான CRRC Zhuzhou ரயில் தொகுதி.",
+        "subject": "சோதனை ஓட்டத்தில் RTS Link CRRC ரயில் தொகுதி"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "जोहोर बहरू में निर्माणाधीन आकार ले रहा बुकिट चागर RTS Link स्टेशन।",
+        "subject": "निर्माणाधीन बुकिट चागर RTS Link टर्मिनस स्टेशन, जोहोर बहरू"
+      },
+      {
+        "alt": "जोहोर बहरू-सिंगापुर RTS Link के लिए एक CRRC Zhuzhou ट्रेनसेट, ट्रायल रन के दौरान।",
+        "subject": "ट्रायल रन पर RTS Link का CRRC रोलिंग स्टॉक"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "محطة Bukit Chagar لخط RTS Link تتشكّل أثناء الإنشاء في Johor Bahru.",
+        "subject": "محطة Bukit Chagar النهائية لخط RTS Link قيد الإنشاء، Johor Bahru"
+      },
+      {
+        "alt": "قطار CRRC Zhuzhou مخصّص لخط RTS Link بين Johor Bahru وسنغافورة أثناء رحلة تجريبية.",
+        "subject": "قطار CRRC الخاص بخط RTS Link في رحلة تجريبية"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La estación del RTS Link en Bukit Chagar tomando forma durante su construcción en Johor Bahru.",
+        "subject": "Estación terminal del RTS Link en Bukit Chagar en construcción, Johor Bahru"
+      },
+      {
+        "alt": "Un tren CRRC Zhuzhou para el RTS Link entre Johor Bahru y Singapur durante una marcha de prueba.",
+        "subject": "Material rodante CRRC del RTS Link en pruebas"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "La gare du RTS Link à Bukit Chagar prenant forme pendant sa construction à Johor Bahru.",
+        "subject": "Gare terminus du RTS Link à Bukit Chagar en construction, Johor Bahru"
+      },
+      {
+        "alt": "Une rame CRRC Zhuzhou destinée au RTS Link entre Johor Bahru et Singapour lors d'une marche d'essai.",
+        "subject": "Matériel roulant CRRC du RTS Link en essai"
+      }
+    ]
+  },
+  "transport/kl-singapore-high-speed-rail": {
+    "zh": [
+      {
+        "alt": "一列台湾高铁列车停靠在车站月台，作为可比照的区域高速铁路示例展示。",
+        "subject": "区域内运营中的高速列车（台湾高铁），代表未来的吉隆坡-新加坡高铁"
+      },
+      {
+        "alt": "一列 N700 系新干线高速列车停靠在日本广岛车站，作为可比照的区域高速铁路示例展示。",
+        "subject": "区域内运营中的高速列车（日本 N700 新干线），代表未来的吉隆坡-新加坡高铁"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "駅のプラットホームに停車する台湾高速鉄道の編成車両。比較対象となる地域の高速鉄道として示したもの。",
+        "subject": "地域で運行中の高速列車（台湾高速鉄道）。将来のクアラルンプール・シンガポールHSRを表すもの"
+      },
+      {
+        "alt": "日本の広島駅に停車するN700系新幹線の高速列車。比較対象となる地域の高速鉄道として示したもの。",
+        "subject": "地域で運行中の高速列車（日本のN700系新幹線）。将来のクアラルンプール・シンガポールHSRを表すもの"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "역 승강장에 정차한 대만 고속철도 편성 열차로, 비교할 만한 역내 고속철도 사례로 제시한 것이다.",
+        "subject": "역내에서 운행 중인 고속열차(대만 고속철도), 미래의 쿠알라룸푸르-싱가포르 HSR을 대표"
+      },
+      {
+        "alt": "일본 히로시마역에 정차한 N700계 신칸센 고속열차로, 비교할 만한 역내 고속철도 사례로 제시한 것이다.",
+        "subject": "역내에서 운행 중인 고속열차(일본 N700 신칸센), 미래의 쿠알라룸푸르-싱가포르 HSR을 대표"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ขบวนรถไฟความเร็วสูงไต้หวันจอดอยู่ที่ชานชาลาสถานี แสดงเป็นตัวอย่างทางรถไฟความเร็วสูงในภูมิภาคที่เทียบเคียงได้",
+        "subject": "รถไฟความเร็วสูงที่ให้บริการในภูมิภาค (รถไฟความเร็วสูงไต้หวัน) แทนรถไฟความเร็วสูงกัวลาลัมเปอร์-สิงคโปร์ในอนาคต"
+      },
+      {
+        "alt": "รถไฟความเร็วสูงชินคันเซ็นรุ่นN700จอดอยู่ที่สถานีฮิโรชิมาในญี่ปุ่น แสดงเป็นตัวอย่างทางรถไฟความเร็วสูงในภูมิภาคที่เทียบเคียงได้",
+        "subject": "รถไฟความเร็วสูงที่ให้บริการในภูมิภาค (ชินคันเซ็นN700ของญี่ปุ่น) แทนรถไฟความเร็วสูงกัวลาลัมเปอร์-สิงคโปร์ในอนาคต"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Satu set kereta api Taiwan High Speed Rail di platform stesen, ditunjukkan sebagai kereta api berkelajuan tinggi serantau yang setanding.",
+        "subject": "Kereta api berkelajuan tinggi yang beroperasi di rantau ini (Taiwan High Speed Rail), mewakili HSR KL-Singapura pada masa depan"
+      },
+      {
+        "alt": "Sebuah kereta api berkelajuan tinggi Shinkansen siri N700 di Stesen Hiroshima di Jepun, ditunjukkan sebagai kereta api berkelajuan tinggi serantau yang setanding.",
+        "subject": "Kereta api berkelajuan tinggi yang beroperasi di rantau ini (Shinkansen N700 Jepun), mewakili HSR KL-Singapura pada masa depan"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Satu rangkaian kereta api Taiwan High Speed Rail di peron stasiun, ditampilkan sebagai kereta cepat regional yang sebanding.",
+        "subject": "Kereta cepat yang beroperasi di kawasan ini (Taiwan High Speed Rail), mewakili HSR KL-Singapura di masa depan"
+      },
+      {
+        "alt": "Sebuah kereta cepat Shinkansen seri N700 di Stasiun Hiroshima di Jepang, ditampilkan sebagai kereta cepat regional yang sebanding.",
+        "subject": "Kereta cepat yang beroperasi di kawasan ini (Shinkansen N700 Jepang), mewakili HSR KL-Singapura di masa depan"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một đoàn tàu Đường sắt Cao tốc Đài Loan tại sân ga, được trình bày như một tuyến đường sắt cao tốc khu vực tương đương.",
+        "subject": "Tàu cao tốc đang vận hành trong khu vực (Đường sắt Cao tốc Đài Loan), đại diện cho tuyến HSR KL-Singapore trong tương lai"
+      },
+      {
+        "alt": "Một đoàn tàu cao tốc Shinkansen dòng N700 tại Ga Hiroshima ở Nhật Bản, được trình bày như một tuyến đường sắt cao tốc khu vực tương đương.",
+        "subject": "Tàu cao tốc đang vận hành trong khu vực (Shinkansen N700 của Nhật Bản), đại diện cho tuyến HSR KL-Singapore trong tương lai"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஒரு நிலைய தளத்தில் உள்ள Taiwan High Speed Rail ரயில் தொகுதி, ஒப்பிடத்தக்க பிராந்திய அதிவேக ரயில் பாதையாகக் காட்டப்பட்டுள்ளது.",
+        "subject": "இப்பகுதியில் இயங்கும் அதிவேக ரயில் (Taiwan High Speed Rail), எதிர்கால KL-சிங்கப்பூர் HSR ஐ பிரதிநிதித்துவப்படுத்துகிறது"
+      },
+      {
+        "alt": "ஜப்பானின் ஹிரோஷிமா நிலையத்தில் N700-தொடர் ஷின்கான்சென் அதிவேக ரயில், ஒப்பிடத்தக்க பிராந்திய அதிவேக ரயில் பாதையாகக் காட்டப்பட்டுள்ளது.",
+        "subject": "இப்பகுதியில் இயங்கும் அதிவேக ரயில் (ஜப்பானின் N700 ஷின்கான்சென்), எதிர்கால KL-சிங்கப்பூர் HSR ஐ பிரதிநிதித்துவப்படுத்துகிறது"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक स्टेशन प्लेटफ़ॉर्म पर Taiwan High Speed Rail का ट्रेनसेट, जिसे एक तुलनीय क्षेत्रीय हाई-स्पीड रेलवे के रूप में दिखाया गया है।",
+        "subject": "क्षेत्र में संचालित हाई-स्पीड ट्रेन (Taiwan High Speed Rail), भविष्य की KL-सिंगापुर HSR की प्रतिनिधि"
+      },
+      {
+        "alt": "जापान के हिरोशिमा स्टेशन पर एक N700-सीरीज़ Shinkansen हाई-स्पीड ट्रेन, जिसे एक तुलनीय क्षेत्रीय हाई-स्पीड रेलवे के रूप में दिखाया गया है।",
+        "subject": "क्षेत्र में संचालित हाई-स्पीड ट्रेन (जापान की N700 Shinkansen), भविष्य की KL-सिंगापुर HSR की प्रतिनिधि"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "قطار Taiwan High Speed Rail على رصيف محطة، معروض كمثال على سكة حديد إقليمية فائقة السرعة مماثلة.",
+        "subject": "قطار فائق السرعة عامل في المنطقة (Taiwan High Speed Rail)، يمثّل خط HSR المستقبلي بين KL وسنغافورة"
+      },
+      {
+        "alt": "قطار Shinkansen فائق السرعة من فئة N700 في محطة Hiroshima في اليابان، معروض كمثال على سكة حديد إقليمية فائقة السرعة مماثلة.",
+        "subject": "قطار فائق السرعة عامل في المنطقة (قطار N700 Shinkansen الياباني)، يمثّل خط HSR المستقبلي بين KL وسنغافورة"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un tren de Taiwan High Speed Rail en el andén de una estación, mostrado como un ferrocarril regional de alta velocidad comparable.",
+        "subject": "Tren de alta velocidad en servicio en la región (Taiwan High Speed Rail), representativo de un futuro HSR KL-Singapur"
+      },
+      {
+        "alt": "Un tren de alta velocidad Shinkansen de la serie N700 en la estación de Hiroshima, en Japón, mostrado como un ferrocarril regional de alta velocidad comparable.",
+        "subject": "Tren de alta velocidad en servicio en la región (el Shinkansen N700 de Japón), representativo de un futuro HSR KL-Singapur"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une rame de Taiwan High Speed Rail à quai dans une gare, présentée comme un chemin de fer régional à grande vitesse comparable.",
+        "subject": "Train à grande vitesse en service dans la région (Taiwan High Speed Rail), représentatif d'un futur HSR KL-Singapour"
+      },
+      {
+        "alt": "Un train à grande vitesse Shinkansen de la série N700 en gare de Hiroshima, au Japon, présenté comme un chemin de fer régional à grande vitesse comparable.",
+        "subject": "Train à grande vitesse en service dans la région (le Shinkansen N700 du Japon), représentatif d'un futur HSR KL-Singapour"
+      }
+    ]
+  },
+  "transport/motor-insurance": {
+    "zh": [
+      {
+        "alt": "吉隆坡的一辆蓝色城市拖车，正是在车辆抛锚或发生事故后前来拖车救援的那种车。",
+        "subject": "马来西亚吉隆坡的拖车"
+      },
+      {
+        "alt": "车辆在沙巴亚庇 Jalan Bundusan 的傍晚交通堵塞中首尾相接、动弹不得。",
+        "subject": "沙巴亚庇城市道路上的傍晚交通堵塞"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "クアラルンプールの青い市街地用レッカー車。故障や事故の後に車両を回収するたぐいの車。",
+        "subject": "レッカー車、マレーシア・クアラルンプール"
+      },
+      {
+        "alt": "サバ州コタキナバルのJalan Bundusanで、夕方の渋滞に数珠つなぎになった車。",
+        "subject": "夕方の渋滞、サバ州コタキナバルの市街道路"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "차량이 고장 나거나 사고가 난 뒤 견인하는 종류인, 쿠알라룸푸르의 파란색 도심 견인차.",
+        "subject": "견인차, 말레이시아 쿠알라룸푸르"
+      },
+      {
+        "alt": "사바주 코타키나발루 Jalan Bundusan에서 저녁 정체에 꼬리를 물고 늘어선 차량들.",
+        "subject": "사바주 코타키나발루 도심 도로의 저녁 교통 정체"
+      }
+    ],
+    "th": [
+      {
+        "alt": "รถลากจูงในเมืองสีน้ำเงินในกัวลาลัมเปอร์ ชนิดที่ไปกู้รถหลังเสียหรือเกิดอุบัติเหตุ",
+        "subject": "รถลากจูงในกัวลาลัมเปอร์ มาเลเซีย"
+      },
+      {
+        "alt": "รถติดหนึบต่อท้ายกันในช่วงเย็นบนถนนจาลันบุนดูซันในโกตากีนาบาลู รัฐซาบาห์",
+        "subject": "รถติดช่วงเย็นบนถนนในเมืองโกตากีนาบาลู รัฐซาบาห์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah trak tunda bandar berwarna biru di Kuala Lumpur, jenis yang menarik kenderaan selepas rosak atau kemalangan.",
+        "subject": "Trak tunda di Kuala Lumpur, Malaysia"
+      },
+      {
+        "alt": "Kereta bersesak-sesak dalam kesesakan lalu lintas waktu petang di Jalan Bundusan di Kota Kinabalu, Sabah.",
+        "subject": "Kesesakan lalu lintas pada waktu petang di jalan bandar, Kota Kinabalu, Sabah"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah truk derek kota berwarna biru di Kuala Lumpur, jenis yang menarik kendaraan setelah mogok atau kecelakaan.",
+        "subject": "Truk derek di Kuala Lumpur, Malaysia"
+      },
+      {
+        "alt": "Mobil berdempetan dalam kemacetan lalu lintas sore hari di Jalan Bundusan di Kota Kinabalu, Sabah.",
+        "subject": "Kemacetan lalu lintas sore hari di jalan kota, Kota Kinabalu, Sabah"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một chiếc xe cứu hộ màu xanh trong thành phố Kuala Lumpur, loại dùng để kéo xe sau khi hỏng hóc hoặc tai nạn.",
+        "subject": "Xe cứu hộ ở Kuala Lumpur, Malaysia"
+      },
+      {
+        "alt": "Những chiếc xe nối đuôi nhau sát nhau trong cảnh kẹt xe buổi tối trên Jalan Bundusan ở Kota Kinabalu, Sabah.",
+        "subject": "Cảnh kẹt xe buổi tối trên một con đường thành phố, Kota Kinabalu, Sabah"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கோலாலம்பூரில் நீல நிற நகர இழுவை லாரி, வாகனம் பழுதடைந்த அல்லது விபத்துக்குப் பிறகு வாகனங்களை இழுத்துச் செல்லும் வகை.",
+        "subject": "கோலாலம்பூரில் இழுவை லாரி, மலேசியா"
+      },
+      {
+        "alt": "சபாவின் கோத்தா கினபாலுவில் ஜாலான் புந்துசான் சாலையில் மாலை நேர போக்குவரத்து நெரிசலில் ஒன்றுக்கொன்று நெருக்கமாக நிற்கும் கார்கள்.",
+        "subject": "நகர சாலையில் மாலை நேர போக்குவரத்து நெரிசல், கோத்தா கினபாலு, சபா"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कुआलालंपुर में एक नीला शहरी टो ट्रक, वैसा जो ख़राबी या दुर्घटना के बाद वाहनों को उठाकर ले जाता है।",
+        "subject": "कुआलालंपुर, मलेशिया में टो ट्रक"
+      },
+      {
+        "alt": "सबाह के कोटा किनाबालु में जालान बुंदुसान पर शाम के ट्रैफ़िक जाम में बंपर-से-बंपर खड़ी कारें।",
+        "subject": "कोटा किनाबालु, सबाह में एक शहरी सड़क पर शाम का ट्रैफ़िक जाम"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "شاحنة قطر زرقاء في Kuala Lumpur، من النوع الذي يسحب المركبات بعد عطل أو حادث.",
+        "subject": "شاحنة قطر في Kuala Lumpur، ماليزيا"
+      },
+      {
+        "alt": "سيارات متلاصقة في ازدحام مروري مسائي على Jalan Bundusan في Kota Kinabalu، Sabah.",
+        "subject": "ازدحام مروري مسائي على طريق مدينة في Kota Kinabalu، Sabah"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una grúa urbana azul en Kuala Lumpur, del tipo que retira vehículos tras una avería o un accidente.",
+        "subject": "Grúa en Kuala Lumpur, Malasia"
+      },
+      {
+        "alt": "Coches parachoques contra parachoques en un atasco de tráfico al anochecer en Jalan Bundusan, en Kota Kinabalu, Sabah.",
+        "subject": "Atasco de tráfico al anochecer en una vía urbana, Kota Kinabalu, Sabah"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une dépanneuse urbaine bleue à Kuala Lumpur, du type qui remorque les véhicules après une panne ou un accident.",
+        "subject": "Dépanneuse à Kuala Lumpur, Malaisie"
+      },
+      {
+        "alt": "Des voitures pare-chocs contre pare-chocs dans un embouteillage en soirée sur Jalan Bundusan, à Kota Kinabalu, Sabah.",
+        "subject": "Embouteillage en soirée sur une route urbaine, Kota Kinabalu, Sabah"
+      }
+    ]
+  },
+  "transport/motorcycle-riding-rules": {
+    "zh": [
+      {
+        "alt": "一条隔离式摩托车专用道，沿着吉打双溪大年北收费广场附近的主干道延伸。",
+        "subject": "吉打双溪大年北收费站附近的摩托车专用道"
+      },
+      {
+        "alt": "一排摩托车和踏板车停放在槟城乔治市小印度一条街道旁，反映出马来西亚两轮车的高使用率。",
+        "subject": "槟城乔治市街道两旁林立的摩托车与踏板车"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ケダ州のSungai Petani Utara料金所付近で、幹線道路脇を走る分離式のオートバイ専用レーン。",
+        "subject": "ケダ州Sungai Petani Utara料金所付近の専用オートバイレーン"
+      },
+      {
+        "alt": "ジョージタウンのリトル・インディアの街路沿いに並ぶオートバイとスクーターの列。マレーシアの二輪車利用の多さを映し出している。",
+        "subject": "ペナン・ジョージタウンの街路に並ぶオートバイとスクーター"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "케다주 숭아이 페타니 우타라 요금소 인근 간선도로 옆을 달리는 분리형 오토바이 전용 차로.",
+        "subject": "케다주 숭아이 페타니 우타라 요금소 인근 전용 오토바이 차로"
+      },
+      {
+        "alt": "말레이시아의 높은 이륜차 이용률을 보여주듯, 조지타운 리틀 인디아 거리를 따라 늘어선 오토바이와 스쿠터의 행렬.",
+        "subject": "페낭 조지타운 거리에 늘어선 오토바이와 스쿠터"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ช่องทางมอเตอร์ไซค์แยกต่างหากทอดยาวเลียบถนนสายหลักใกล้ด่านเก็บเงินซุงไงเปตานีเหนือในรัฐเกดะห์",
+        "subject": "ช่องทางมอเตอร์ไซค์โดยเฉพาะใกล้ด่านซุงไงเปตานีเหนือ รัฐเกดะห์"
+      },
+      {
+        "alt": "มอเตอร์ไซค์และสกู๊ตเตอร์จอดเรียงรายตลอดถนนในย่านลิตเติลอินเดีย จอร์จทาวน์ สะท้อนการใช้ยานยนต์สองล้ออย่างหนาแน่นในมาเลเซีย",
+        "subject": "มอเตอร์ไซค์และสกู๊ตเตอร์เรียงรายตลอดถนนในจอร์จทาวน์ ปีนัง"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Lorong motosikal berasingan yang terbentang di sebelah jalan utama berhampiran plaza tol Sungai Petani Utara di Kedah.",
+        "subject": "Lorong motosikal khas berhampiran tol Sungai Petani Utara, Kedah"
+      },
+      {
+        "alt": "Sebaris motosikal dan skuter diletakkan di sepanjang jalan di Little India, George Town, mencerminkan penggunaan kenderaan dua roda yang tinggi di Malaysia.",
+        "subject": "Motosikal dan skuter berderet di sebuah jalan di George Town, Pulau Pinang"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Jalur sepeda motor terpisah yang membentang di samping jalan utama dekat gerbang tol Sungai Petani Utara di Kedah.",
+        "subject": "Jalur sepeda motor khusus dekat gerbang tol Sungai Petani Utara, Kedah"
+      },
+      {
+        "alt": "Sederet sepeda motor dan skuter diparkir di sepanjang jalan di Little India, George Town, mencerminkan tingginya penggunaan kendaraan roda dua di Malaysia.",
+        "subject": "Sepeda motor dan skuter berjajar di sebuah jalan di George Town, Penang"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một làn đường riêng dành cho xe máy chạy dọc bên cạnh đường chính gần trạm thu phí Sungai Petani Utara ở Kedah.",
+        "subject": "Làn đường dành riêng cho xe máy gần trạm thu phí Sungai Petani Utara, Kedah"
+      },
+      {
+        "alt": "Một hàng xe máy và xe tay ga đỗ dọc theo một con phố ở Little India, George Town, phản ánh mức độ sử dụng xe hai bánh cao ở Malaysia.",
+        "subject": "Xe máy và xe tay ga xếp hàng trên một con phố ở George Town, Penang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கெடாவில் சுங்கை பெட்டானி உத்தாரா சுங்கச்சாவடிக்கு அருகே பிரதான சாலையோரமாகச் செல்லும் தனித்த மோட்டார்சைக்கிள் பாதை.",
+        "subject": "கெடா, சுங்கை பெட்டானி உத்தாரா சுங்கச்சாவடிக்கு அருகே தனி மோட்டார்சைக்கிள் பாதை"
+      },
+      {
+        "alt": "ஜார்ஜ் டவுனின் லிட்டில் இந்தியாவில் ஒரு தெருவோரமாக நிறுத்தப்பட்டுள்ள மோட்டார்சைக்கிள்கள் மற்றும் ஸ்கூட்டர்களின் வரிசை, மலேசியாவின் அதிக இருசக்கர வாகனப் பயன்பாட்டைப் பிரதிபலிக்கிறது.",
+        "subject": "பினாங், ஜார்ஜ் டவுனில் ஒரு தெருவில் வரிசையாக நிற்கும் மோட்டார்சைக்கிள்களும் ஸ்கூட்டர்களும்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "केदाह में सुंगई पेतानी उतारा टोल प्लाज़ा के पास मुख्य सड़क के किनारे चलती एक अलग मोटरसाइकिल लेन।",
+        "subject": "सुंगई पेतानी उतारा टोल के पास समर्पित मोटरसाइकिल लेन, केदाह"
+      },
+      {
+        "alt": "जॉर्ज टाउन के लिटिल इंडिया में एक सड़क के किनारे कतार में खड़ी मोटरसाइकिलें और स्कूटर, जो मलेशिया में दोपहिया वाहनों के भारी इस्तेमाल को दर्शाते हैं।",
+        "subject": "जॉर्ज टाउन, पेनांग में एक सड़क पर कतार में खड़ी मोटरसाइकिलें और स्कूटर"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مسار منفصل للدراجات النارية يمتد بمحاذاة الطريق الرئيسي قرب ساحة رسوم Sungai Petani Utara في Kedah.",
+        "subject": "مسار مخصّص للدراجات النارية قرب محطة رسوم Sungai Petani Utara، Kedah"
+      },
+      {
+        "alt": "صف من الدراجات النارية والسكوترات متوقفة على طول شارع في Little India، George Town، بما يعكس الاستخدام الكثيف للمركبات ذات العجلتين في ماليزيا.",
+        "subject": "دراجات نارية وسكوترات مصطفّة على طول شارع في George Town، Penang"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un carril segregado para motocicletas que discurre junto a la carretera principal, cerca de la plaza de peaje de Sungai Petani Utara, en Kedah.",
+        "subject": "Carril exclusivo para motocicletas cerca del peaje de Sungai Petani Utara, Kedah"
+      },
+      {
+        "alt": "Una hilera de motocicletas y scooters aparcados a lo largo de una calle de Little India, George Town, que refleja el intenso uso de los vehículos de dos ruedas en Malasia.",
+        "subject": "Motocicletas y scooters alineados en una calle de George Town, Penang"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une voie séparée pour les motos longeant la route principale, près de la gare de péage de Sungai Petani Utara, dans le Kedah.",
+        "subject": "Voie réservée aux motos près du péage de Sungai Petani Utara, Kedah"
+      },
+      {
+        "alt": "Une rangée de motos et de scooters stationnés le long d'une rue de Little India, à George Town, illustrant l'usage intensif des deux-roues en Malaisie.",
+        "subject": "Motos et scooters alignés dans une rue de George Town, Penang"
+      }
+    ]
+  },
+  "transport/mrt3-circle-line": {
+    "zh": [
+      {
+        "alt": "现有 MRT 加影线武吉免登站的地下月台，是巴生谷 MRT 车站的代表。",
+        "subject": "现有巴生谷 MRT（加影线）武吉免登地下月台"
+      },
+      {
+        "alt": "一列布城线 MRT 列车行驶在高架桥上，横跨吉隆坡怡保路一带的天际线。",
+        "subject": "横跨吉隆坡上空的高架巴生谷 MRT（布城线）高架桥"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "既存のMRTカジャン線ブキッ・ビンタン駅の地下ホーム。クランバレーのMRT駅を代表するもの。",
+        "subject": "既存のクランバレーMRT（カジャン線）ブキッ・ビンタンの地下ホーム"
+      },
+      {
+        "alt": "クアラルンプールのジャラン・イポーのスカイラインを横切る高架橋上を走るプトラジャヤ線のMRT列車。",
+        "subject": "クアラルンプール上空の高架クランバレーMRT（プトラジャヤ線）高架橋"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "클랑밸리 MRT 역을 대표하는, 기존 MRT 카장선 부킷 빈탕역의 지하 승강장.",
+        "subject": "기존 클랑밸리 MRT(카장선) 부킷 빈탕 지하 승강장"
+      },
+      {
+        "alt": "쿠알라룸푸르 잘란 이포 일대의 스카이라인을 가로지르는 고가교 위를 달리는 푸트라자야선 MRT 열차.",
+        "subject": "쿠알라룸푸르 상공을 가로지르는 고가 클랑밸리 MRT(푸트라자야선) 고가교"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ชานชาลาใต้ดินที่บูกิตบินตังบนสายMRTกาจังที่มีอยู่เดิม เป็นตัวแทนของสถานีMRTในหุบเขากลัง",
+        "subject": "ชานชาลาใต้ดินMRTหุบเขากลัง (สายกาจัง) ที่บูกิตบินตัง ที่มีอยู่เดิม"
+      },
+      {
+        "alt": "ขบวนรถไฟMRTสายปุตราจายาวิ่งบนทางยกระดับตัดผ่านแนวเส้นขอบฟ้าจาลันอีโปห์ในกัวลาลัมเปอร์",
+        "subject": "ทางยกระดับMRTหุบเขากลัง (สายปุตราจายา) เหนือกัวลาลัมเปอร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Platform bawah tanah di Bukit Bintang pada Laluan Kajang MRT sedia ada, mewakili stesen MRT Lembah Klang.",
+        "subject": "Platform bawah tanah MRT Lembah Klang (Laluan Kajang) sedia ada di Bukit Bintang"
+      },
+      {
+        "alt": "Sebuah kereta api MRT Laluan Putrajaya di atas jejambat atas tanah yang merentasi panorama langit Jalan Ipoh di Kuala Lumpur.",
+        "subject": "Jejambat MRT Lembah Klang (Laluan Putrajaya) atas tanah di atas Kuala Lumpur"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Peron bawah tanah di Bukit Bintang pada Jalur Kajang MRT yang sudah ada, mewakili stasiun MRT Lembah Klang.",
+        "subject": "Peron bawah tanah MRT Lembah Klang (Jalur Kajang) yang sudah ada di Bukit Bintang"
+      },
+      {
+        "alt": "Sebuah kereta MRT Jalur Putrajaya di atas jembatan layang yang membentang melintasi panorama langit Jalan Ipoh di Kuala Lumpur.",
+        "subject": "Jembatan layang MRT Lembah Klang (Jalur Putrajaya) di atas Kuala Lumpur"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Sân ga ngầm tại Bukit Bintang trên Tuyến Kajang MRT hiện có, đại diện cho các ga MRT ở Thung lũng Klang.",
+        "subject": "Sân ga ngầm của tuyến MRT Thung lũng Klang (Tuyến Kajang) hiện có tại Bukit Bintang"
+      },
+      {
+        "alt": "Một đoàn tàu MRT Tuyến Putrajaya trên cầu cạn trên cao cắt ngang đường chân trời Jalan Ipoh ở Kuala Lumpur.",
+        "subject": "Cầu cạn trên cao của tuyến MRT Thung lũng Klang (Tuyến Putrajaya) phía trên Kuala Lumpur"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "தற்போதைய MRT காஜாங் வழியில் புக்கிட் பிந்தாங்கில் உள்ள நிலத்தடித் தளம், கிள்ளாங் பள்ளத்தாக்கு MRT நிலையங்களைப் பிரதிநிதித்துவப்படுத்துகிறது.",
+        "subject": "புக்கிட் பிந்தாங்கில் உள்ள தற்போதைய கிள்ளாங் பள்ளத்தாக்கு MRT (காஜாங் வழி) நிலத்தடித் தளம்"
+      },
+      {
+        "alt": "கோலாலம்பூரில் ஜாலான் இப்போ வானளாவிய காட்சியைக் கடந்து செல்லும் உயர்த்தப்பட்ட மேம்பாலத்தில் ஒரு புத்ராஜெயா வழி MRT ரயில்.",
+        "subject": "கோலாலம்பூருக்கு மேலே உயர்த்தப்பட்ட கிள்ளாங் பள்ளத்தாக்கு MRT (புத்ராஜெயா வழி) மேம்பாலம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "मौजूदा MRT काजांग लाइन पर बुकिट बिंतांग का भूमिगत प्लेटफ़ॉर्म, जो क्लांग वैली MRT स्टेशनों का प्रतिनिधि है।",
+        "subject": "बुकिट बिंतांग पर मौजूदा क्लांग वैली MRT (काजांग लाइन) का भूमिगत प्लेटफ़ॉर्म"
+      },
+      {
+        "alt": "कुआलालंपुर में जालान इपोह के क्षितिज को काटते हुए एक ऊँचे वायाडक्ट पर पुत्राजया लाइन की MRT ट्रेन।",
+        "subject": "कुआलालंपुर के ऊपर ऊँचा क्लांग वैली MRT (पुत्राजया लाइन) वायाडक्ट"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "الرصيف تحت الأرض في Bukit Bintang على خط MRT Kajang القائم، كمثال على محطات MRT في Klang Valley.",
+        "subject": "رصيف تحت الأرض لخط MRT القائم في Klang Valley (خط Kajang) في Bukit Bintang"
+      },
+      {
+        "alt": "قطار MRT من خط Putrajaya على جسر علوي يعبر أفق Jalan Ipoh في Kuala Lumpur.",
+        "subject": "جسر علوي لخط MRT في Klang Valley (خط Putrajaya) فوق Kuala Lumpur"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El andén subterráneo de Bukit Bintang en la actual Línea Kajang del MRT, representativo de las estaciones de MRT del Valle de Klang.",
+        "subject": "Andén subterráneo del MRT existente del Valle de Klang (Línea Kajang) en Bukit Bintang"
+      },
+      {
+        "alt": "Un tren del MRT de la Línea Putrajaya sobre un viaducto elevado que atraviesa el perfil urbano de Jalan Ipoh, en Kuala Lumpur.",
+        "subject": "Viaducto elevado del MRT del Valle de Klang (Línea Putrajaya) sobre Kuala Lumpur"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Le quai souterrain de Bukit Bintang sur l'actuelle ligne Kajang du MRT, représentatif des stations de MRT de la Klang Valley.",
+        "subject": "Quai souterrain du MRT existant de la Klang Valley (ligne Kajang) à Bukit Bintang"
+      },
+      {
+        "alt": "Une rame de MRT de la ligne Putrajaya sur un viaduc aérien traversant la ligne d'horizon de Jalan Ipoh, à Kuala Lumpur.",
+        "subject": "Viaduc aérien du MRT de la Klang Valley (ligne Putrajaya) au-dessus de Kuala Lumpur"
+      }
+    ]
+  },
+  "transport/pan-borneo-highway": {
+    "zh": [
+      {
+        "alt": "从高处俯瞰一座多车道公路立交，匝道大幅弯曲、从主车道蜿蜒延伸而去，坐落在砂拉越乡间明亮天空下的翠绿植被之间。",
+        "subject": "免费的泛婆罗洲大道在砂拉越的成邦江（诗里阿曼）立交"
+      },
+      {
+        "alt": "一段笔直向前延伸的柏油公路，穿越平坦的乡野，道旁林木与绿意夹道，上方是婆罗洲多云的天空。",
+        "subject": "泛婆罗洲大道靠近砂拉越泗里街外 Sebangkoi 公园的一段路"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "多車線の高速道路ジャンクションを高所から見下ろした光景。大きく弧を描く出口ランプが本線から離れていき、サラワクの田園の明るい空の下、緑の植生の中に広がる。",
+        "subject": "無料のパン・ボルネオ・ハイウェイにあるシマンガン（スリ・アマン）ジャンクション、サラワク州"
+      },
+      {
+        "alt": "平坦な田園をまっすぐ前へ延びる舗装路の長い開けた一区間。道端の並木と緑に縁取られ、上空はボルネオの曇り空。",
+        "subject": "サラワク州サリケー郊外のスバンコイ公園近くのパン・ボルネオ・ハイウェイの一区間"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "다차선 고속도로 분기점을 높은 곳에서 내려다본 모습으로, 크게 휘어진 진출 램프가 본선에서 갈라져 나가며, 사라왁 시골의 밝은 하늘 아래 푸른 초목 사이에 자리한다.",
+        "subject": "무료 범보르네오 고속도로의 시망강(스리 아만) 분기점, 사라왁주"
+      },
+      {
+        "alt": "평탄한 전원을 곧게 앞으로 뻗어 나가는 아스팔트 고속도로의 길게 트인 구간으로, 길가 가로수와 녹음이 늘어서 있고 위로는 보르네오의 흐린 하늘이 펼쳐진다.",
+        "subject": "사라왁주 사리케이 외곽 스방코이 공원 인근 범보르네오 고속도로 구간"
+      }
+    ],
+    "th": [
+      {
+        "alt": "มุมมองจากที่สูงของทางแยกต่างระดับหลายช่องทางที่มีทางลงโค้งกว้างแยกออกจากช่องทางหลัก ตั้งอยู่ท่ามกลางพืชพรรณเขียวขจีใต้ท้องฟ้าสดใสในชนบทของรัฐซาราวัก",
+        "subject": "ทางแยกต่างระดับสิมังกัง (ซรีอามาน) บนทางหลวงแพนบอร์เนียวที่ไม่มีค่าผ่านทางในรัฐซาราวัก"
+      },
+      {
+        "alt": "ช่วงถนนลาดยางที่เปิดโล่งยาวทอดตรงไปข้างหน้าผ่านชนบทที่ราบเรียบ สองข้างทางเรียงรายด้วยต้นไม้และความเขียวขจีใต้ท้องฟ้ามีเมฆของบอร์เนียว",
+        "subject": "ช่วงหนึ่งของทางหลวงแพนบอร์เนียวใกล้สวนเซอบังคอยนอกเมืองซาริเก รัฐซาราวัก"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pemandangan dari atas sebuah pertukaran lebuh raya berbilang lorong dengan jalan keluar melengkung yang menyimpang dari jalan utama, terletak di tengah tumbuhan hijau di bawah langit cerah di luar bandar Sarawak",
+        "subject": "pertukaran Simanggang (Sri Aman) di Lebuh Raya Pan Borneo tanpa tol di Sarawak"
+      },
+      {
+        "alt": "Satu bahagian panjang dan lapang lebuh raya berturap yang terbentang lurus ke hadapan melalui kawasan luar bandar yang rata, dipagari pokok tepi jalan dan tumbuhan hijau di bawah langit Borneo yang mendung",
+        "subject": "satu bahagian Lebuh Raya Pan Borneo berhampiran Taman Sebangkoi di luar Sarikei, Sarawak"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Pemandangan dari atas sebuah simpang susun jalan raya berlajur banyak dengan jalan keluar melengkung yang menjauh dari jalur utama, berada di tengah vegetasi hijau di bawah langit cerah di pedesaan Sarawak",
+        "subject": "simpang susun Simanggang (Sri Aman) di Jalan Raya Pan Borneo bebas tol di Sarawak"
+      },
+      {
+        "alt": "Sebuah ruas panjang dan lapang jalan raya beraspal yang membentang lurus ke depan melalui pedesaan datar, dipagari pepohonan di tepi jalan dan tanaman hijau di bawah langit Borneo yang mendung",
+        "subject": "sebuah ruas Jalan Raya Pan Borneo dekat Taman Sebangkoi di luar Sarikei, Sarawak"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Góc nhìn từ trên cao của một nút giao cao tốc nhiều làn với các đường nhánh cong uốn lượn tách khỏi tuyến đường chính, nằm giữa thảm thực vật xanh dưới bầu trời quang đãng ở vùng nông thôn Sarawak",
+        "subject": "nút giao Simanggang (Sri Aman) trên Cao tốc Pan Borneo miễn phí ở Sarawak"
+      },
+      {
+        "alt": "Một đoạn đường cao tốc trải nhựa dài và thoáng chạy thẳng về phía trước qua vùng nông thôn bằng phẳng, hai bên là hàng cây ven đường và cây xanh dưới bầu trời Borneo nhiều mây",
+        "subject": "một đoạn của Cao tốc Pan Borneo gần Công viên Sebangkoi bên ngoài Sarikei, Sarawak"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "சரவாக்கின் கிராமப்புறத்தில் பிரகாசமான வானத்தின் கீழ் பசுமையான தாவரங்களுக்கு இடையே அமைந்த, பிரதான சாலையிலிருந்து விலகிச் செல்லும் வளைந்த வெளியேறும் சரிவுப் பாதைகளுடன் கூடிய பல பாதை நெடுஞ்சாலைச் சந்திப்பின் உயரத்திலிருந்து பார்வை",
+        "subject": "சரவாக்கில் கட்டணமில்லா Pan Borneo நெடுஞ்சாலையில் உள்ள சிமாங்காங் (ஸ்ரீ அமன்) சந்திப்பு"
+      },
+      {
+        "alt": "மேகமூட்டமான போர்னியோ வானத்தின் கீழ் சாலையோர மரங்களும் பசுமையும் சூழ்ந்த, சமதளமான கிராமப்புறத்தின் வழியாக நேராக முன்னோக்கிச் செல்லும் தார் நெடுஞ்சாலையின் நீண்ட திறந்த பகுதி",
+        "subject": "சரவாக், சாரிக்கெய் வெளியே உள்ள செபாங்கோய் பூங்காவுக்கு அருகே Pan Borneo நெடுஞ்சாலையின் ஒரு பகுதி"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "ग्रामीण सरवाक में चमकीले आसमान के नीचे हरियाली के बीच बसे एक बहु-लेन राजमार्ग इंटरचेंज का ऊँचा दृश्य, जिसमें मुख्य कैरिजवे से घूमती हुई एग्ज़िट रैंप दूर जाती हैं।",
+        "subject": "सरवाक में टोल-मुक्त Pan Borneo Highway पर सिमांगांग (श्री अमान) इंटरचेंज"
+      },
+      {
+        "alt": "बादलों भरे बोर्नियो आसमान के नीचे सड़क किनारे के पेड़ों और हरियाली से घिरे समतल ग्रामीण इलाक़े से होकर सीधे आगे जाता तारकोल राजमार्ग का एक लंबा खुला हिस्सा।",
+        "subject": "सरवाक में सारिकेई के बाहर सेबांगकोई पार्क के पास Pan Borneo Highway का एक हिस्सा"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "منظر علوي لتقاطع طريق سريع متعدد المسارات بمنحدرات خروج منحنية تبتعد عن الطريق الرئيسي، وسط نباتات خضراء تحت سماء مشرقة في ريف Sarawak",
+        "subject": "تقاطع Simanggang (Sri Aman) على طريق Pan Borneo Highway المجاني من الرسوم في Sarawak"
+      },
+      {
+        "alt": "مقطع طويل ومفتوح من طريق إسفلتي يمتد مستقيمًا عبر ريف منبسط تحفّه أشجار ومساحات خضراء على جانبيه تحت سماء Borneo الملبّدة بالغيوم",
+        "subject": "مقطع من طريق Pan Borneo Highway قرب Sebangkoi Park خارج Sarikei، Sarawak"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una vista elevada de un enlace de autopista de varios carriles con amplios ramales de salida que se curvan alejándose de la calzada principal, entre vegetación verde bajo un cielo luminoso en la Sarawak rural",
+        "subject": "el enlace de Simanggang (Sri Aman) en la Pan Borneo Highway, sin peaje, en Sarawak"
+      },
+      {
+        "alt": "Un largo tramo abierto de autopista asfaltada que se extiende en línea recta a través de un campo llano, bordeado de árboles y vegetación, bajo un cielo nublado de Borneo",
+        "subject": "un tramo de la Pan Borneo Highway cerca de Sebangkoi Park, a las afueras de Sarikei, Sarawak"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une vue en hauteur d'un échangeur autoroutier à plusieurs voies, avec de larges bretelles de sortie s'incurvant à l'écart de la chaussée principale, au milieu d'une végétation verdoyante sous un ciel lumineux dans le Sarawak rural",
+        "subject": "l'échangeur de Simanggang (Sri Aman) sur la Pan Borneo Highway sans péage, dans le Sarawak"
+      },
+      {
+        "alt": "Un long tronçon dégagé d'autoroute goudronnée filant tout droit à travers une campagne plate, bordée d'arbres et de verdure, sous un ciel nuageux de Bornéo",
+        "subject": "un tronçon de la Pan Borneo Highway près du Sebangkoi Park, aux abords de Sarikei, Sarawak"
+      }
+    ]
+  },
+  "transport/parking-in-malaysian-cities": {
+    "zh": [
+      {
+        "alt": "一座高耸的混凝土多层停车楼，数层敞开、正面装有栅格的停车层层叠而上，从马来西亚一处郊区的街道望去。",
+        "subject": "吉隆坡蕉赖 Taman Segar 的一座多层停车楼"
+      },
+      {
+        "alt": "数块金属制的禁止停车和路边告示牌紧挨着安装在立杆上，背靠槟城乔治市一条街道上一面斑驳的墙。",
+        "subject": "槟城乔治市街道上一组禁止停车与路边停车标志"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "高くそびえるコンクリート造の立体駐車場。格子状の正面をもつ開放型の駐車フロアが幾層にも積み重なり、マレーシアの郊外の街路から見た光景。",
+        "subject": "クアラルンプール・チェラスのTaman Segarにある立体駐車場"
+      },
+      {
+        "alt": "ペナン・ジョージタウンの街路沿い、風化した壁を背に、支柱に寄せ合って取り付けられた複数の金属製の駐車禁止・路側告知標識。",
+        "subject": "ペナン・ジョージタウンの街路に集まった駐車禁止・路側駐車標識"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "말레이시아 교외의 거리에서 바라본, 격자 전면의 개방형 주차층이 여러 층 쌓인 높다란 콘크리트 다층 주차 건물.",
+        "subject": "쿠알라룸푸르 체라스 Taman Segar의 다층 주차 건물"
+      },
+      {
+        "alt": "페낭 조지타운 거리의 풍화된 벽을 배경으로, 기둥에 바짝 붙여 설치된 여러 개의 금속 주차 금지 및 노변 안내 표지판.",
+        "subject": "페낭 조지타운 거리의 주차 금지 및 노변 주차 표지판 무리"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารจอดรถหลายชั้นสูงทำด้วยคอนกรีต มีชั้นจอดรถเปิดโล่งด้านหน้าเป็นซี่กรงซ้อนกันหลายชั้น มองจากถนนในย่านชานเมืองของมาเลเซีย",
+        "subject": "อาคารจอดรถหลายชั้นในTaman Segar เชอรัส กัวลาลัมเปอร์"
+      },
+      {
+        "alt": "ป้ายโลหะห้ามจอดและป้ายแจ้งริมถนนหลายป้ายติดตั้งชิดกันบนเสา โดยมีกำแพงเก่าตามถนนในจอร์จทาวน์เป็นฉากหลัง",
+        "subject": "กลุ่มป้ายห้ามจอดและป้ายจอดริมถนนบนถนนในจอร์จทาวน์ ปีนัง"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah bangunan tempat letak kereta bertingkat konkrit yang tinggi dengan dek letak kereta terbuka berpagar jejaring bertindan beberapa tingkat, dilihat dari jalan di pinggir bandar Malaysia",
+        "subject": "sebuah bangunan tempat letak kereta bertingkat di Taman Segar, Cheras, Kuala Lumpur"
+      },
+      {
+        "alt": "Beberapa papan tanda logam larangan letak kereta dan notis tepi jalan yang dipasang berdekatan pada tiang di depan dinding usang di sepanjang jalan di George Town",
+        "subject": "sekumpulan papan tanda larangan letak kereta dan letak kereta tepi jalan di sebuah jalan di George Town, Pulau Pinang"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah gedung parkir bertingkat beton yang tinggi dengan dek parkir terbuka berpagar kisi yang bertumpuk beberapa lantai, dilihat dari jalan di pinggiran kota Malaysia",
+        "subject": "sebuah gedung parkir bertingkat di Taman Segar, Cheras, Kuala Lumpur"
+      },
+      {
+        "alt": "Beberapa rambu logam dilarang parkir dan papan pemberitahuan tepi jalan yang dipasang berdekatan pada tiang di depan dinding lapuk di sepanjang jalan di George Town",
+        "subject": "sekumpulan rambu dilarang parkir dan rambu parkir tepi jalan di sebuah jalan di George Town, Penang"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một tòa nhà bãi đỗ xe nhiều tầng bằng bê tông cao với các tầng đỗ xe hở mặt tiền có lưới sắt xếp chồng qua nhiều tầng, nhìn từ đường phố ở vùng ngoại ô Malaysia",
+        "subject": "một tòa nhà bãi đỗ xe nhiều tầng ở Taman Segar, Cheras, Kuala Lumpur"
+      },
+      {
+        "alt": "Nhiều biển kim loại cấm đỗ xe và biển thông báo ven đường được gắn sát nhau trên các cột trụ trước một bức tường cũ kỹ dọc theo một con phố ở George Town",
+        "subject": "một cụm biển cấm đỗ xe và biển đỗ xe ven đường trên một con phố ở George Town, Penang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "மலேசியப் புறநகரில் ஒரு தெருவிலிருந்து பார்க்கும்போது, பல மாடிகளாக அடுக்கப்பட்ட திறந்த, கம்பிவலை முன்புற கார் நிறுத்தும் தளங்களுடன் கூடிய உயரமான காங்கிரீட் பல மாடி கார் நிறுத்துமிட கட்டிடம்",
+        "subject": "கோலாலம்பூர், செராஸ், தாமான் செகாரில் பல மாடி கார் நிறுத்துமிட கட்டிடம்"
+      },
+      {
+        "alt": "ஜார்ஜ் டவுன் தெருவோரமாக பழமையான சுவர் முன்பு கம்பங்களில் ஒன்றோடொன்று நெருக்கமாகப் பொருத்தப்பட்டுள்ள பல உலோக வாகனம் நிறுத்த தடை மற்றும் சாலையோர அறிவிப்பு அடையாளப் பலகைகள்",
+        "subject": "பினாங், ஜார்ஜ் டவுனில் ஒரு தெருவில் வாகனம் நிறுத்த தடை மற்றும் சாலையோர நிறுத்துமிட அடையாளப் பலகைகளின் கூட்டம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक मलेशियाई उपनगर में सड़क से दिखती एक ऊँची कंक्रीट बहुमंज़िला कार पार्क इमारत, जिसमें कई मंज़िलों पर जाली लगी खुली पार्किंग डेक एक के ऊपर एक हैं।",
+        "subject": "तमन सेगर, चेरास, कुआलालंपुर में एक बहुमंज़िला कार पार्क इमारत"
+      },
+      {
+        "alt": "एक जॉर्ज टाउन सड़क के किनारे एक पुरानी दीवार के सामने खंभों पर पास-पास लगे कई धातु के नो-पार्किंग और सड़क किनारे सूचना चिह्न।",
+        "subject": "जॉर्ज टाउन, पेनांग में एक सड़क पर नो-पार्किंग और सड़क किनारे पार्किंग के चिह्नों का समूह"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مبنى موقف سيارات خرساني مرتفع متعدد الطوابق بطوابق مواقف مفتوحة ذات واجهات شبكية مكدّسة فوق عدة طوابق، يُرى من الشارع في ضاحية ماليزية",
+        "subject": "مبنى موقف سيارات متعدد الطوابق في Taman Segar، Cheras، Kuala Lumpur"
+      },
+      {
+        "alt": "عدة لافتات معدنية لمنع الوقوف وإشعارات جانب الطريق مثبّتة متقاربة على أعمدة أمام جدار متهالك على طول شارع في George Town",
+        "subject": "مجموعة من لافتات منع الوقوف والوقوف على جانب الطريق في شارع في George Town، Penang"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un alto edificio de aparcamiento de hormigón de varias plantas, con niveles de estacionamiento abiertos de fachada enrejada apilados en varios pisos, visto desde la calle en un barrio periférico de Malasia",
+        "subject": "un edificio de aparcamiento de varias plantas en Taman Segar, Cheras, Kuala Lumpur"
+      },
+      {
+        "alt": "Varias señales metálicas de prohibido aparcar y avisos de estacionamiento montadas muy juntas en postes frente a un muro desgastado a lo largo de una calle de George Town",
+        "subject": "un grupo de señales de prohibido aparcar y de estacionamiento en una calle de George Town, Penang"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un haut parking à étages en béton, dont les niveaux de stationnement ouverts à façade grillagée s'empilent sur plusieurs étages, vu depuis la rue dans une banlieue malaisienne",
+        "subject": "un parking à étages à Taman Segar, Cheras, Kuala Lumpur"
+      },
+      {
+        "alt": "Plusieurs panneaux métalliques d'interdiction de stationner et d'avis de bord de route fixés serrés les uns contre les autres sur des poteaux devant un mur patiné, le long d'une rue de George Town",
+        "subject": "un ensemble de panneaux d'interdiction de stationner et de stationnement en bordure de route dans une rue de George Town, Penang"
+      }
+    ]
+  },
+  "transport/penang-lrt-mutiara-line": {
+    "zh": [
+      {
+        "alt": "一辆蓝白色的 Rapid Penang 城市巴士停靠在有盖巴士总站的泊位，车头目的地显示屏显示着路线编号。",
+        "subject": "槟城乔治市海墘路巴士总站的一辆 Rapid Penang 公共巴士"
+      },
+      {
+        "alt": "一辆车身包裹着缤纷广告的城市接驳巴士行驶在乔治市街道上，驶向一座有盖的路边巴士站。",
+        "subject": "乔治市街道上一辆免费 CAT 接驳巴士驶向槟城 Komtar 交通枢纽"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "屋根付きバスターミナルのバースに停車する青と白のRapid Penangの市内バス。車体前面の行先表示パネルに路線番号が表示されている。",
+        "subject": "ペナン・ジョージタウンのWeld Quayバスターミナルに停車するRapid Penangの公共バス"
+      },
+      {
+        "alt": "色鮮やかな広告ラッピングをまとった市内シャトルバスが、ジョージタウンの街路を走り、屋根付きの路側バス停に近づいていく。",
+        "subject": "Komtar交通ハブに近づく、ジョージタウンの街路を走る無料CATシャトルバス（ペナン）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "지붕 덮인 버스터미널 정류 공간에 정차한 파랑·흰색 Rapid Penang 시내버스로, 차량 전면 행선 표시판에 노선 번호가 표시되어 있다.",
+        "subject": "페낭 조지타운 웰드키 버스터미널의 Rapid Penang 공공버스"
+      },
+      {
+        "alt": "화려한 광고 래핑을 두른 시내 셔틀버스가 조지타운 거리를 달려 지붕 덮인 노변 버스정류장으로 다가간다.",
+        "subject": "Komtar 교통 허브로 향하는, 조지타운 거리의 무료 CAT 셔틀버스(페낭)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "รถเมล์ในเมืองRapid Penangสีน้ำเงินขาวจอดอยู่ที่ช่องจอดของสถานีขนส่งมีหลังคา โดยมีหมายเลขเส้นทางแสดงบนแผงบอกปลายทางด้านหน้า",
+        "subject": "รถเมล์สาธารณะRapid Penangที่สถานีขนส่งเวลด์คีย์ในจอร์จทาวน์ ปีนัง"
+      },
+      {
+        "alt": "รถเมล์รับส่งในเมืองหุ้มโฆษณาสีสันสดใสแล่นไปตามถนนในจอร์จทาวน์ มุ่งหน้าสู่สถานีรถเมล์ริมถนนมีหลังคา",
+        "subject": "รถเมล์รับส่งCATฟรีบนถนนจอร์จทาวน์มุ่งหน้าสู่ศูนย์คมนาคมคอมตาร์ในปีนัง"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah bas bandar Rapid Penang berwarna biru dan putih diletakkan di petak terminal bas berbumbung, dengan nombor laluannya dipaparkan pada panel destinasi hadapan",
+        "subject": "sebuah bas awam Rapid Penang di Terminal Bas Weld Quay di George Town, Pulau Pinang"
+      },
+      {
+        "alt": "Sebuah bas ulang-alik bandar dalam balutan iklan berwarna-warni memandu di sepanjang jalan George Town, menghampiri perhentian bas tepi jalan yang berbumbung",
+        "subject": "sebuah bas ulang-alik CAT percuma di jalan George Town menghampiri hab pengangkutan Komtar di Pulau Pinang"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah bus kota Rapid Penang berwarna biru dan putih diparkir di petak terminal bus beratap, dengan nomor rutenya ditampilkan pada panel tujuan di bagian depan",
+        "subject": "sebuah bus umum Rapid Penang di Terminal Bus Weld Quay di George Town, Penang"
+      },
+      {
+        "alt": "Sebuah bus antar-jemput kota dengan balutan iklan berwarna-warni melaju di sepanjang jalan George Town, mendekati halte bus tepi jalan yang beratap",
+        "subject": "sebuah bus antar-jemput CAT gratis di jalan George Town yang mendekati pusat transportasi Komtar di Penang"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một chiếc xe buýt thành phố Rapid Penang màu xanh trắng đỗ tại ô bến xe buýt có mái che, với số tuyến hiển thị trên bảng điểm đến phía trước",
+        "subject": "một chiếc xe buýt công cộng Rapid Penang tại Bến xe buýt Weld Quay ở George Town, Penang"
+      },
+      {
+        "alt": "Một chiếc xe buýt trung chuyển thành phố được dán quảng cáo nhiều màu sắc chạy dọc một con phố George Town, tiến đến một trạm xe buýt ven đường có mái che",
+        "subject": "một chiếc xe buýt trung chuyển CAT miễn phí trên một con phố George Town đang tiến đến trung tâm giao thông Komtar ở Penang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கூரையிட்ட பேருந்து நிலையப் பகுதியில் நிறுத்தப்பட்டுள்ள நீல-வெள்ளை நிற Rapid Penang நகரப் பேருந்து, அதன் வழி எண் முன்புற சேருமிடப் பலகையில் காட்டப்பட்டுள்ளது",
+        "subject": "பினாங், ஜார்ஜ் டவுனில் வெல்ட் கீ பேருந்து நிலையத்தில் ஒரு Rapid Penang பொதுப் பேருந்து"
+      },
+      {
+        "alt": "வண்ணமயமான விளம்பர மூடியுடன் ஒரு நகர இணைப்புப் பேருந்து ஜார்ஜ் டவுன் தெருவோரமாகச் சென்று, கூரையிட்ட சாலையோர பேருந்து நிலையத்தை நெருங்குகிறது",
+        "subject": "பினாங், கொம்தார் போக்குவரத்து மையத்தை நெருங்கும் ஒரு ஜார்ஜ் டவுன் தெருவில் இலவச CAT இணைப்புப் பேருந்து"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक ढके हुए बस टर्मिनल बे पर खड़ी एक नीली-सफ़ेद Rapid Penang शहरी बस, जिसके सामने के गंतव्य पैनल पर उसका रूट नंबर दिख रहा है।",
+        "subject": "जॉर्ज टाउन, पेनांग में Weld Quay बस टर्मिनल पर एक Rapid Penang सार्वजनिक बस"
+      },
+      {
+        "alt": "एक रंगीन विज्ञापन रैप में लिपटी एक शहरी शटल बस जॉर्ज टाउन की एक सड़क पर चलते हुए एक ढके हुए सड़क किनारे बस स्टेशन की ओर बढ़ रही है।",
+        "subject": "पेनांग में Komtar ट्रांसपोर्ट हब की ओर बढ़ती जॉर्ज टाउन की एक सड़क पर एक मुफ़्त CAT शटल बस"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "حافلة مدينة زرقاء وبيضاء من Rapid Penang متوقفة في رصيف محطة حافلات مسقوف، مع ظهور رقم خطّها على لوحة الوجهة الأمامية",
+        "subject": "حافلة عامة من Rapid Penang في محطة حافلات Weld Quay في George Town، Penang"
+      },
+      {
+        "alt": "حافلة نقل مكوكية للمدينة بغلاف إعلاني ملوّن تسير في شارع بـ George Town مقتربةً من محطة حافلات مسقوفة على جانب الطريق",
+        "subject": "حافلة نقل مكوكية CAT مجانية في شارع بـ George Town تقترب من مركز Komtar للمواصلات في Penang"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un autobús urbano azul y blanco de Rapid Penang estacionado en una dársena cubierta de una terminal de autobuses, con su número de ruta en el panel frontal de destino",
+        "subject": "un autobús público de Rapid Penang en la terminal de autobuses de Weld Quay, en George Town, Penang"
+      },
+      {
+        "alt": "Un autobús lanzadera urbano con un vistoso envoltorio publicitario circula por una calle de George Town, acercándose a una estación de autobuses cubierta junto a la carretera",
+        "subject": "un autobús lanzadera gratuito CAT en una calle de George Town acercándose al centro de transporte Komtar, en Penang"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un bus urbain bleu et blanc de Rapid Penang stationné à un quai couvert de gare routière, son numéro de ligne affiché sur le panneau de destination à l'avant",
+        "subject": "un bus public Rapid Penang à la gare routière de Weld Quay, à George Town, Penang"
+      },
+      {
+        "alt": "Une navette urbaine habillée d'un habillage publicitaire coloré circule dans une rue de George Town, s'approchant d'une station de bus couverte en bordure de route",
+        "subject": "une navette gratuite CAT dans une rue de George Town s'approchant du pôle de transport Komtar, à Penang"
+      }
+    ]
+  },
+  "transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail": {
+    "zh": [
+      {
+        "alt": "一排亮黄色、带凸起条纹的触觉引导地砖，沿着整洁的 MRT 车站月台边缘铺设，为视障乘客引路。",
+        "subject": "巴生谷 Surian MRT 车站（哥打白沙罗）月台上的触觉导盲砖"
+      },
+      {
+        "alt": "一个宽敞、平坦的 MRT 车站月台，轨道边缘设有通顶式月台屏蔽门，触觉地砖标示出上下车区域。",
+        "subject": "巴生谷吉隆坡医院 MRT 车站设有月台屏蔽门的月台"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "清潔なMRT駅のホームの縁に沿って延びる、突起バー付きの鮮やかな黄色の点字ブロックの列。視覚障害のある乗客を誘導する。",
+        "subject": "クランバレーのSurian MRT駅（コタ・ダマンサラ）のホームの点字ブロック"
+      },
+      {
+        "alt": "線路側に天井までのホームドアを備え、乗降ゾーンを点字ブロックで示した、広く平坦なMRT駅のホーム。",
+        "subject": "クランバレーのHospital Kuala Lumpur MRT駅のホームドア付きホーム"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "시각장애 승객을 안내하기 위해 깨끗한 MRT 역 승강장 가장자리를 따라 이어진, 돌기 막대가 있는 선명한 노란색 점자블록의 행렬.",
+        "subject": "클랑밸리 수리안 MRT역(코타 다만사라) 승강장의 점자블록"
+      },
+      {
+        "alt": "선로 가장자리에 천장까지 닿는 스크린도어를 설치하고 승하차 구역을 점자블록으로 표시한, 넓고 평탄한 MRT 역 승강장.",
+        "subject": "클랑밸리 쿠알라룸푸르 병원 MRT역의 스크린도어 설치 승강장"
+      }
+    ],
+    "th": [
+      {
+        "alt": "แถวกระเบื้องนำทางสัมผัสสีเหลืองสดมีแท่งนูนทอดยาวตามขอบชานชาลาสถานีMRTที่สะอาด เพื่อนำทางผู้โดยสารตาบอด",
+        "subject": "กระเบื้องนำทางสัมผัสบนชานชาลาสถานีMRTซูเรียน โกตาดามันซารา ในหุบเขากลัง"
+      },
+      {
+        "alt": "ชานชาลาสถานีMRTที่กว้างและเรียบเสมอกัน มีประตูกั้นชานชาลาแบบเต็มความสูงตลอดขอบราง และกระเบื้องสัมผัสบอกเขตขึ้นลงรถ",
+        "subject": "ชานชาลาที่มีประตูกั้นชานชาลาที่สถานีMRTโรงพยาบาลกัวลาลัมเปอร์ในหุบเขากลัง"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebaris jubin turapan taktil berwarna kuning terang dengan bar timbul yang terbentang di sepanjang tepi platform stesen MRT yang bersih untuk memandu penumpang buta",
+        "subject": "turapan panduan taktil di platform stesen MRT Surian, Kota Damansara, di Lembah Klang"
+      },
+      {
+        "alt": "Platform stesen MRT yang luas dan rata dengan pintu skrin platform setinggi penuh di sepanjang tepi landasan dan turapan taktil menandakan zon menaiki kereta",
+        "subject": "platform dengan pintu skrin platform di stesen MRT Hospital Kuala Lumpur di Lembah Klang"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sederet ubin pemandu taktil berwarna kuning terang dengan garis timbul yang membentang di sepanjang tepi peron stasiun MRT yang bersih untuk memandu penumpang tunanetra",
+        "subject": "ubin pemandu taktil di peron stasiun MRT Surian, Kota Damansara, di Lembah Klang"
+      },
+      {
+        "alt": "Peron stasiun MRT yang lebar dan rata dengan pintu pembatas peron setinggi penuh di sepanjang tepi rel dan ubin taktil yang menandai zona naik kereta",
+        "subject": "peron dengan pintu pembatas peron di stasiun MRT Hospital Kuala Lumpur di Lembah Klang"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một hàng gạch lát xúc giác màu vàng tươi với các thanh nổi chạy dọc theo mép sân ga MRT sạch sẽ để dẫn đường cho hành khách khiếm thị",
+        "subject": "lối lát dẫn đường xúc giác trên sân ga MRT Surian, Kota Damansara, ở Thung lũng Klang"
+      },
+      {
+        "alt": "Một sân ga MRT rộng và bằng phẳng với các cửa chắn sân ga cao kịch trần dọc theo mép đường ray và lối lát xúc giác đánh dấu các khu vực lên tàu",
+        "subject": "một sân ga có cửa chắn sân ga tại ga MRT Hospital Kuala Lumpur ở Thung lũng Klang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பார்வையற்ற பயணிகளுக்கு வழிகாட்ட சுத்தமான MRT நிலைய தளத்தின் விளிம்பில் செல்லும் உயர்ந்த கோடுகளுடன் கூடிய பிரகாசமான மஞ்சள் நிற தொடு தரை ஓடுகளின் வரிசை",
+        "subject": "கிள்ளாங் பள்ளத்தாக்கில், கோத்தா டாமான்சாரா, சூரியான் MRT நிலையத்தின் தளத்தில் தொடு வழிகாட்டி தரை"
+      },
+      {
+        "alt": "தண்டவாள விளிம்பில் முழு உயர தள-திரைக் கதவுகளுடனும், ஏறும் பகுதிகளைக் குறிக்கும் தொடு தரையுடனும் கூடிய அகலமான, சமமான MRT நிலைய தளம்",
+        "subject": "கிள்ளாங் பள்ளத்தாக்கில் மருத்துவமனை கோலாலம்பூர் MRT நிலையத்தில் தள-திரைக் கதவுகளுடன் கூடிய தளம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "नेत्रहीन यात्रियों का मार्गदर्शन करने के लिए एक साफ़ MRT स्टेशन प्लेटफ़ॉर्म के किनारे चलती उभरी पट्टियों वाली चमकीली पीली स्पर्श टाइलों की एक कतार।",
+        "subject": "क्लांग वैली में कोटा दामनसारा के Surian MRT स्टेशन के प्लेटफ़ॉर्म पर स्पर्श मार्गदर्शन टाइलें"
+      },
+      {
+        "alt": "एक चौड़ा, समतल MRT स्टेशन प्लेटफ़ॉर्म जिसमें ट्रैक के किनारे पूरी ऊँचाई के प्लेटफ़ॉर्म स्क्रीन दरवाज़े और बोर्डिंग ज़ोन को चिह्नित करती स्पर्श टाइलें हैं।",
+        "subject": "क्लांग वैली में Hospital Kuala Lumpur MRT स्टेशन पर प्लेटफ़ॉर्म-स्क्रीन दरवाज़ों वाला एक प्लेटफ़ॉर्म"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "صف من بلاطات التوجيه الملموسة الصفراء الزاهية ذات الأشرطة البارزة يمتد على طول حافة رصيف محطة MRT نظيف لإرشاد الركاب المكفوفين",
+        "subject": "بلاط إرشادي ملموس على رصيف محطة Surian MRT في Kota Damansara، ضمن Klang Valley"
+      },
+      {
+        "alt": "رصيف محطة MRT واسع ومستوٍ بأبواب حاجزة كاملة الارتفاع على طول حافة السكة وبلاط ملموس يحدّد مناطق الصعود",
+        "subject": "رصيف مزوّد بأبواب حاجزة على الرصيف في محطة Hospital Kuala Lumpur MRT ضمن Klang Valley"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una hilera de baldosas táctiles de color amarillo intenso con barras en relieve que recorre el borde de un limpio andén de estación de MRT para guiar a los pasajeros con discapacidad visual",
+        "subject": "pavimento táctil de guía en el andén de la estación de MRT Surian, Kota Damansara, en el Valle de Klang"
+      },
+      {
+        "alt": "Un andén de estación de MRT amplio y a nivel, con puertas de andén de altura completa a lo largo del borde de la vía y pavimento táctil que marca las zonas de embarque",
+        "subject": "un andén con puertas de andén en la estación de MRT Hospital Kuala Lumpur, en el Valle de Klang"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une rangée de dalles podotactiles jaune vif à barres en relief courant le long du bord d'un quai de station de MRT propre pour guider les voyageurs aveugles",
+        "subject": "dalles de guidage podotactiles sur le quai de la station de MRT Surian, à Kota Damansara, dans la Klang Valley"
+      },
+      {
+        "alt": "Un quai de station de MRT large et de plain-pied, doté de portes palières pleine hauteur le long du bord de la voie et d'un revêtement podotactile marquant les zones d'embarquement",
+        "subject": "un quai équipé de portes palières à la station de MRT Hospital Kuala Lumpur, dans la Klang Valley"
+      }
+    ]
+  },
+  "transport/tolls-smarttag-rfid": {
+    "zh": [
+      {
+        "alt": "白天的一座高速公路收费广场，设有一排收费亭和横跨数条收费车道的顶棚。",
+        "subject": "霹雳怡保附近一座设有多条车道和收费亭的日间高速公路收费广场"
+      },
+      {
+        "alt": "一条标示为 RFID 付费的收费广场出口车道，设有车道栏杆，道路上方近哥打白沙罗处架设着读取器龙门架。",
+        "subject": "雪兰莪哥打白沙罗收费广场的一条 RFID 出口车道"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "日中に見た幅広の高速道路料金所。一列に並ぶ料金ブースと、複数の支払いレーンにまたがる頭上のレーン用屋根。",
+        "subject": "ペラ州イポー近くの、複数レーンとブースを備えた日中の高速道路料金所"
+      },
+      {
+        "alt": "RFID支払い用に表示された料金所の出口レーン。レーン遮断機と、コタ・ダマンサラ付近の道路上方の読取り用ガントリーを備える。",
+        "subject": "セランゴール州コタ・ダマンサラ料金所のRFID出口レーン"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "주간에 본 넓은 고속도로 요금소로, 한 줄로 늘어선 요금 부스와 여러 결제 차로에 걸친 머리 위 차로 지붕이 보인다.",
+        "subject": "페락주 이포 인근의 여러 차로와 부스를 갖춘 주간 고속도로 요금소"
+      },
+      {
+        "alt": "RFID 결제용으로 표시된 요금소 출구 차로로, 차로 차단기와 코타 다만사라 인근 도로 위 판독기 갠트리가 설치되어 있다.",
+        "subject": "셀랑고르주 코타 다만사라 요금소의 RFID 출구 차로"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ด่านเก็บเงินทางหลวงกว้างในเวลากลางวัน มีแถวตู้เก็บเงินและหลังคาคลุมช่องทางด้านบนพาดผ่านช่องชำระเงินหลายช่อง",
+        "subject": "ด่านเก็บเงินทางหลวงในเวลากลางวันที่มีหลายช่องทางและตู้เก็บเงินใกล้เมืองอีโปห์ รัฐเปรัก"
+      },
+      {
+        "alt": "ช่องทางออกของด่านเก็บเงินที่ทำเครื่องหมายสำหรับชำระด้วยRFID มีไม้กั้นช่องทางและโครงเหล็กติดตั้งเครื่องอ่านเหนือถนนใกล้โกตาดามันซารา",
+        "subject": "ช่องทางออกRFIDที่ด่านเก็บเงินโกตาดามันซารา รัฐสลังงอร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Plaza tol lebuh raya yang luas dilihat pada waktu siang, dengan sebaris pondok tol dan kanopi lorong di atas yang merentasi beberapa lorong pembayaran",
+        "subject": "plaza tol lebuh raya pada waktu siang dengan berbilang lorong dan pondok berhampiran Ipoh, Perak"
+      },
+      {
+        "alt": "Lorong keluar plaza tol yang ditanda untuk bayaran RFID, dengan palang lorong dan gantri pembaca di atas jalan berhampiran Kota Damansara",
+        "subject": "lorong keluar RFID di Plaza Tol Kota Damansara, Selangor"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Gerbang tol jalan raya yang lebar terlihat pada siang hari, dengan sederet gardu tol dan kanopi lajur di atas yang membentang di beberapa lajur pembayaran",
+        "subject": "gerbang tol jalan raya pada siang hari dengan banyak lajur dan gardu dekat Ipoh, Perak"
+      },
+      {
+        "alt": "Lajur keluar gerbang tol yang ditandai untuk pembayaran RFID, dengan palang lajur dan gantri pembaca di atas jalan dekat Kota Damansara",
+        "subject": "lajur keluar RFID di Gerbang Tol Kota Damansara, Selangor"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một trạm thu phí cao tốc rộng nhìn vào ban ngày, với một dãy cabin thu phí và mái che làn phía trên trải dài qua nhiều làn thanh toán",
+        "subject": "một trạm thu phí cao tốc ban ngày với nhiều làn và cabin gần Ipoh, Perak"
+      },
+      {
+        "alt": "Một làn ra của trạm thu phí được đánh dấu cho thanh toán RFID, với thanh chắn làn và giàn đầu đọc phía trên đường gần Kota Damansara",
+        "subject": "một làn ra RFID tại Trạm thu phí Kota Damansara, Selangor"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பகலில் காணப்படும் அகலமான நெடுஞ்சாலை சுங்கச்சாவடி வளாகம், பல கட்டணப் பாதைகளின் மீது வரிசையான சுங்கச் சாவடிகளும் மேல்நிலைப் பாதை விதானங்களும்",
+        "subject": "பேராக், இப்போவுக்கு அருகே பல பாதைகளும் சாவடிகளும் கொண்ட பகல்நேர நெடுஞ்சாலை சுங்கச்சாவடி வளாகம்"
+      },
+      {
+        "alt": "கோத்தா டாமான்சாராவுக்கு அருகே சாலைக்கு மேலே பாதைத் தடுப்பு மற்றும் மேல்நிலை வாசிப்புச் சட்டத்துடன், RFID கட்டணத்திற்காகக் குறிக்கப்பட்ட சுங்கச்சாவடி வெளியேறும் பாதை",
+        "subject": "செலாங்கூர், கோத்தா டாமான்சாரா சுங்கச்சாவடி வளாகத்தில் ஒரு RFID வெளியேறும் பாதை"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "दिन के उजाले में दिखता एक चौड़ा राजमार्ग टोल प्लाज़ा, जिसमें टोल बूथ की एक कतार और कई भुगतान लेन पर फैली ऊपरी लेन कैनोपी हैं।",
+        "subject": "पेराक में इपोह के पास कई लेन और बूथ वाला एक दिन का राजमार्ग टोल प्लाज़ा"
+      },
+      {
+        "alt": "RFID भुगतान के लिए चिह्नित एक टोल प्लाज़ा निकास लेन, जिसमें कोटा दामनसारा के पास सड़क के ऊपर एक लेन बैरियर और ऊपरी रीडर गैंट्री है।",
+        "subject": "कोटा दामनसारा टोल प्लाज़ा, सेलांगोर में एक RFID निकास लेन"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "ساحة رسوم واسعة على طريق سريع تُرى في وضح النهار، مع صف من أكشاك الرسوم ومظلات علوية للمسارات تمتد عبر عدة مسارات دفع",
+        "subject": "ساحة رسوم على طريق سريع نهارًا بعدة مسارات وأكشاك قرب Ipoh، Perak"
+      },
+      {
+        "alt": "مسار خروج في ساحة رسوم مخصّص للدفع بتقنية RFID، مع حاجز مسار وبوابة قارئ علوية فوق الطريق قرب Kota Damansara",
+        "subject": "مسار خروج بتقنية RFID في ساحة رسوم Kota Damansara، Selangor"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una amplia plaza de peaje de autopista vista a la luz del día, con una hilera de cabinas de peaje y marquesinas elevadas sobre los carriles que cubren varios carriles de pago",
+        "subject": "una plaza de peaje de autopista de día, con varios carriles y cabinas, cerca de Ipoh, Perak"
+      },
+      {
+        "alt": "Un carril de salida de una plaza de peaje señalizado para pago mediante RFID, con una barrera de carril y un pórtico lector elevado sobre la carretera cerca de Kota Damansara",
+        "subject": "un carril de salida con RFID en la plaza de peaje de Kota Damansara, Selangor"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une vaste gare de péage autoroutière vue en plein jour, avec une rangée de cabines de péage et des auvents de voie suspendus couvrant plusieurs voies de paiement",
+        "subject": "une gare de péage autoroutière de jour, à plusieurs voies et cabines, près d'Ipoh, Perak"
+      },
+      {
+        "alt": "Une voie de sortie de gare de péage signalisée pour le paiement par RFID, avec une barrière de voie et un portique de lecture suspendu au-dessus de la route près de Kota Damansara",
+        "subject": "une voie de sortie RFID à la gare de péage de Kota Damansara, Selangor"
+      }
+    ]
+  },
+  "transport/touch-n-go": {
+    "zh": [
+      {
+        "alt": "一个 Touch 'n Go RFID 挡风玻璃贴标在收费车道被读取，车道设有栏杆，收费亭上方架设着 RFID 读取器龙门架。",
+        "subject": "雪兰莪鹅唛收费广场一条 MyRFID 收费车道上读取 Touch 'n Go RFID 贴标"
+      },
+      {
+        "alt": "一排位于铁路车站入口的自动闸机，每道闸门上设有读卡器，后方可见购物商场大堂。",
+        "subject": "KLCC LRT 车站的闸机，供 Touch 'n Go 等交通卡刷卡"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "料金所のレーンにあるTouch 'n GoのRFIDフロントガラス用タグ。料金ブースにはレーン遮断機と頭上のRFIDリーダー用ガントリーを備える。",
+        "subject": "セランゴール州ゴンバック料金所のMyRFIDレーンで読み取られるTouch 'n Go RFIDタグ"
+      },
+      {
+        "alt": "鉄道駅の入口に並ぶ自動改札機の列。各改札にカードリーダーがあり、奥にはショッピングモールのコンコースが見える。",
+        "subject": "Touch 'n Goなどの交通系ICカードをタッチするKLCC LRT駅の改札機"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "요금소 차로에 있는 Touch 'n Go RFID 앞유리 태그로, 요금 부스에는 차로 차단기와 머리 위 RFID 판독기 갠트리가 설치되어 있다.",
+        "subject": "셀랑고르주 곰박 요금소의 MyRFID 차로에서 판독되는 Touch 'n Go RFID 태그"
+      },
+      {
+        "alt": "철도역 입구에 늘어선 자동 개찰구로, 각 개찰구에 카드 판독기가 있고 뒤편으로 쇼핑몰 콘코스가 보인다.",
+        "subject": "Touch 'n Go 등 교통카드를 태그하는 KLCC LRT역의 개찰구"
+      }
+    ],
+    "th": [
+      {
+        "alt": "แท็กRFIDติดกระจกหน้าTouch 'n Goที่ช่องทางด่านเก็บเงิน พร้อมไม้กั้นช่องทางและโครงเหล็กติดเครื่องอ่านRFIDเหนือตู้เก็บเงิน",
+        "subject": "การอ่านแท็กRFID Touch 'n Goที่ช่องทางMyRFIDด่านกอมบัก รัฐสลังงอร์"
+      },
+      {
+        "alt": "แถวประตูเก็บค่าโดยสารอัตโนมัติที่ทางเข้าสถานีรถไฟ มีเครื่องอ่านบัตรบนประตูแต่ละบาน และมองเห็นโถงห้างสรรพสินค้าอยู่ด้านหลัง",
+        "subject": "ประตูเก็บค่าโดยสารที่สถานีLRT KLCCซึ่งแตะบัตรเดินทางเช่นTouch 'n Go"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Tag RFID cermin depan Touch 'n Go di lorong tol, dengan palang lorong dan gantri pembaca RFID di atas pondok tol",
+        "subject": "tag RFID Touch 'n Go dibaca di lorong tol MyRFID di Plaza Tol Gombak, Selangor"
+      },
+      {
+        "alt": "Sebaris pintu tambang automatik di pintu masuk stesen kereta api, dengan pembaca kad pada setiap pintu dan ruang legar pusat beli-belah kelihatan di sebalik itu",
+        "subject": "pintu tambang di stesen LRT KLCC tempat kad perjalanan seperti Touch 'n Go ditap"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Tag RFID kaca depan Touch 'n Go di lajur tol, dengan palang lajur dan gantri pembaca RFID di atas gardu tol",
+        "subject": "tag RFID Touch 'n Go dibaca di lajur tol MyRFID di Gerbang Tol Gombak, Selangor"
+      },
+      {
+        "alt": "Sederet gerbang tiket otomatis di pintu masuk stasiun kereta, dengan pembaca kartu pada setiap gerbang dan selasar pusat perbelanjaan tampak di kejauhan",
+        "subject": "gerbang tiket di stasiun LRT KLCC tempat kartu perjalanan seperti Touch 'n Go ditempelkan"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một thẻ RFID dán kính chắn gió Touch 'n Go tại làn thu phí, với thanh chắn làn và giàn đầu đọc RFID phía trên cabin thu phí",
+        "subject": "thẻ RFID Touch 'n Go được đọc tại làn thu phí MyRFID ở Trạm thu phí Gombak, Selangor"
+      },
+      {
+        "alt": "Một hàng cổng soát vé tự động tại lối vào ga tàu, với đầu đọc thẻ trên mỗi cổng và sảnh trung tâm thương mại hiện ra phía xa",
+        "subject": "cổng soát vé tại ga LRT KLCC nơi quẹt các thẻ đi lại như Touch 'n Go"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "சுங்கப் பாதையில் Touch 'n Go RFID முன் கண்ணாடிக் குறிச்சீட்டு, சுங்கச் சாவடியில் பாதைத் தடுப்பு மற்றும் மேல்நிலை RFID வாசிப்புச் சட்டத்துடன்",
+        "subject": "செலாங்கூர், கோம்பாக் சுங்கச்சாவடி வளாகத்தில் MyRFID சுங்கப் பாதையில் வாசிக்கப்படும் Touch 'n Go RFID குறிச்சீட்டு"
+      },
+      {
+        "alt": "ரயில் நிலைய நுழைவாயிலில் தானியங்கி கட்டண வாயில்களின் வரிசை, ஒவ்வொரு வாயிலிலும் அட்டை வாசிப்பான்களும், பின்னால் ஒரு வணிக வளாகத்தின் நடைமண்டபமும் தெரிகிறது",
+        "subject": "KLCC LRT நிலையத்தில் Touch 'n Go போன்ற பயணஅட்டைகள் தொடப்படும் கட்டண வாயில்கள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक टोल लेन पर विंडस्क्रीन पर लगा एक Touch 'n Go RFID टैग, जिसमें टोल बूथ पर लेन बैरियर और एक ऊपरी RFID रीडर गैंट्री है।",
+        "subject": "सेलांगोर के Gombak टोल प्लाज़ा पर एक MyRFID टोल लेन पर पढ़ा जाता एक Touch 'n Go RFID टैग"
+      },
+      {
+        "alt": "एक रेल स्टेशन के प्रवेश द्वार पर स्वचालित फ़ेयर गेटों की एक कतार, जिसमें हर गेट पर कार्ड रीडर हैं और आगे एक शॉपिंग मॉल का कॉनकोर्स दिख रहा है।",
+        "subject": "KLCC LRT स्टेशन पर फ़ेयर गेट जहाँ Touch 'n Go जैसे यात्रा कार्ड टैप किए जाते हैं"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "بطاقة Touch 'n Go من نوع RFID على الزجاج الأمامي في مسار رسوم، مع حاجز المسار وبوابة قارئ RFID علوية عند كشك الرسوم",
+        "subject": "قراءة بطاقة Touch 'n Go بتقنية RFID في مسار رسوم MyRFID بساحة رسوم Gombak، Selangor"
+      },
+      {
+        "alt": "صف من بوابات التذاكر الآلية عند مدخل محطة قطار، مع قارئات بطاقات على كل بوابة وبهو مركز تسوّق يظهر خلفها",
+        "subject": "بوابات التذاكر في محطة KLCC LRT حيث تُمرَّر بطاقات السفر مثل Touch 'n Go"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una etiqueta RFID Touch 'n Go en el parabrisas en un carril de peaje, con la barrera del carril y un pórtico lector RFID elevado en la cabina de peaje",
+        "subject": "lectura de una etiqueta RFID Touch 'n Go en un carril de peaje MyRFID en la plaza de peaje de Gombak, Selangor"
+      },
+      {
+        "alt": "Una hilera de tornos de acceso automáticos en la entrada de una estación de tren, con lectores de tarjeta en cada torno y el vestíbulo de un centro comercial visible al fondo",
+        "subject": "tornos de acceso en la estación de LRT de KLCC donde se validan tarjetas de transporte como Touch 'n Go"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un badge RFID Touch 'n Go sur le pare-brise à une voie de péage, avec la barrière de voie et un portique de lecture RFID suspendu au-dessus de la cabine de péage",
+        "subject": "lecture d'un badge RFID Touch 'n Go à une voie de péage MyRFID à la gare de péage de Gombak, Selangor"
+      },
+      {
+        "alt": "Une rangée de portillons d'accès automatiques à l'entrée d'une gare, avec des lecteurs de carte sur chaque portillon et le hall d'un centre commercial visible au-delà",
+        "subject": "portillons d'accès à la station de LRT de KLCC où l'on valide des cartes de transport comme Touch 'n Go"
+      }
+    ]
+  },
+  "transport/traffic-summons-saman": {
+    "zh": [
+      {
+        "alt": "身穿制服的警员站在道路上的路障处，在车辆减速停下通过检查站时进行检查。",
+        "subject": "马来西亚一处警方路障，警员在此拦停并检查车辆"
+      },
+      {
+        "alt": "一名身穿反光背心、戴头盔的马来西亚交警站在城市街道上疏导过往车辆。",
+        "subject": "吉隆坡街头一名执勤指挥交通的交警"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "道路上の検問所に立つ制服姿の警察官。検問所で減速して停止する車両を検査している。",
+        "subject": "警察官が車両を停止させ検査するマレーシアの検問所"
+      },
+      {
+        "alt": "反射ベストとヘルメットを着けたマレーシアの交通警察官が、市街の路上に立ち、通行する車両をさばいている。",
+        "subject": "クアラルンプールの路上で交通整理に当たる交通警察官"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "제복을 입은 경찰관들이 도로의 검문소에 서서, 차량이 검문소에서 속도를 줄여 멈추는 동안 차량을 점검하고 있다.",
+        "subject": "경찰관이 차량을 세워 검문하는 말레이시아의 검문소"
+      },
+      {
+        "alt": "반사 조끼와 헬멧을 착용한 말레이시아 교통경찰관이 도심 거리에 서서 지나가는 차량을 통제하고 있다.",
+        "subject": "쿠알라룸푸르 거리에서 교통정리를 하는 교통경찰관"
+      }
+    ],
+    "th": [
+      {
+        "alt": "เจ้าหน้าที่ตำรวจในเครื่องแบบยืนอยู่ที่ด่านตรวจบนถนน คอยตรวจยานพาหนะขณะชะลอหยุดที่จุดตรวจ",
+        "subject": "ด่านตรวจของตำรวจมาเลเซียที่เจ้าหน้าที่เรียกหยุดและตรวจยานพาหนะ"
+      },
+      {
+        "alt": "เจ้าหน้าที่ตำรวจจราจรมาเลเซียสวมเสื้อสะท้อนแสงและหมวกนิรภัยยืนอยู่กลางถนนในเมืองคอยจัดการยานพาหนะที่ผ่านไปมา",
+        "subject": "เจ้าหน้าที่ตำรวจจราจรปฏิบัติหน้าที่โบกรถบนถนนในกัวลาลัมเปอร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pegawai polis berpakaian seragam berdiri di sekatan jalan raya di atas jalan, memeriksa kenderaan ketika kenderaan perlahan hingga berhenti di pusat pemeriksaan",
+        "subject": "sekatan jalan raya polis Malaysia tempat pegawai menghentikan dan memeriksa kenderaan"
+      },
+      {
+        "alt": "Seorang pegawai polis trafik Malaysia memakai jaket pemantul cahaya dan topi keledar berdiri di jalan bandar mengawal kenderaan yang lalu",
+        "subject": "seorang pegawai polis trafik bertugas mengawal lalu lintas di sebuah jalan di Kuala Lumpur"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Petugas polisi berseragam berdiri di razia jalan, memeriksa kendaraan saat melambat hingga berhenti di pos pemeriksaan",
+        "subject": "razia polisi Malaysia tempat petugas menghentikan dan memeriksa kendaraan"
+      },
+      {
+        "alt": "Seorang petugas polisi lalu lintas Malaysia mengenakan rompi reflektif dan helm berdiri di jalan kota mengatur kendaraan yang lewat",
+        "subject": "seorang petugas polisi lalu lintas yang bertugas mengatur lalu lintas di sebuah jalan di Kuala Lumpur"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Các sĩ quan cảnh sát mặc đồng phục đứng tại một chốt chặn trên đường, kiểm tra các phương tiện khi chúng chạy chậm lại dừng tại trạm kiểm soát",
+        "subject": "một chốt chặn của cảnh sát Malaysia nơi các sĩ quan dừng và kiểm tra phương tiện"
+      },
+      {
+        "alt": "Một sĩ quan cảnh sát giao thông Malaysia mặc áo phản quang và đội mũ bảo hiểm đứng trên một con phố thành phố điều phối các phương tiện đi qua",
+        "subject": "một sĩ quan cảnh sát giao thông đang làm nhiệm vụ điều khiển giao thông trên một con phố ở Kuala Lumpur"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "சீருடை அணிந்த காவல் அதிகாரிகள் சாலையில் ஒரு தடுப்பில் நின்று, சோதனைச் சாவடியில் வாகனங்கள் மெதுவாக நின்றதும் அவற்றைச் சோதிக்கின்றனர்",
+        "subject": "அதிகாரிகள் வாகனங்களை நிறுத்தி சோதனை செய்யும் மலேசிய காவல்துறை சாலை தடுப்பு"
+      },
+      {
+        "alt": "ஒளிபிரதிபலிப்பு மேலங்கியும் தலைக்கவசமும் அணிந்த ஒரு மலேசிய போக்குவரத்து காவல் அதிகாரி நகரத் தெருவில் நின்று கடந்து செல்லும் வாகனங்களை நெறிப்படுத்துகிறார்",
+        "subject": "கோலாலம்பூரில் ஒரு தெருவில் போக்குவரத்தைக் கட்டுப்படுத்தும் பணியிலுள்ள ஒரு போக்குவரத்து காவல் அதிகாரி"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक सड़क पर नाकाबंदी पर खड़े वर्दीधारी पुलिस अधिकारी, जो चेकपॉइंट पर धीमे होकर रुकते वाहनों की जाँच कर रहे हैं।",
+        "subject": "एक मलेशियाई पुलिस नाकाबंदी जहाँ अधिकारी वाहनों को रोककर जाँच करते हैं"
+      },
+      {
+        "alt": "रिफ़्लेक्टिव जैकेट और हेलमेट पहने एक मलेशियाई ट्रैफ़िक पुलिस अधिकारी एक शहरी सड़क पर खड़ा गुज़रते वाहनों को संभाल रहा है।",
+        "subject": "कुआलालंपुर की एक सड़क पर ड्यूटी पर ट्रैफ़िक निर्देशित करता एक ट्रैफ़िक पुलिस अधिकारी"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "رجال شرطة بالزي الرسمي يقفون عند حاجز على طريق، يفحصون المركبات وهي تبطئ حتى تتوقف عند نقطة التفتيش",
+        "subject": "حاجز شرطة ماليزي يوقف فيه رجال الشرطة المركبات ويفتّشونها"
+      },
+      {
+        "alt": "شرطي مرور ماليزي يرتدي سترة عاكسة وخوذة يقف في شارع بالمدينة وينظّم مرور المركبات",
+        "subject": "شرطي مرور في الخدمة ينظّم السير في شارع في Kuala Lumpur"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Agentes de policía uniformados de pie en un control de carretera, revisando los vehículos a medida que reducen la velocidad hasta detenerse en el puesto de control",
+        "subject": "un control policial en Malasia donde los agentes detienen e inspeccionan los vehículos"
+      },
+      {
+        "alt": "Un agente de la policía de tráfico malasia con chaleco reflectante y casco, de pie en una calle urbana, gestionando los vehículos que pasan",
+        "subject": "un agente de la policía de tráfico de servicio dirigiendo el tráfico en una calle de Kuala Lumpur"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des policiers en uniforme postés à un barrage routier, contrôlant les véhicules qui ralentissent jusqu'à l'arrêt au point de contrôle",
+        "subject": "un barrage de police malaisien où les agents arrêtent et inspectent les véhicules"
+      },
+      {
+        "alt": "Un agent de la police de la circulation malaisienne, en gilet réfléchissant et casque, debout dans une rue urbaine, gère les véhicules qui passent",
+        "subject": "un agent de la police de la circulation en service réglant la circulation dans une rue de Kuala Lumpur"
+      }
+    ]
+  },
+  "transport/intercity-travel": {
+    "zh": [
+      {
+        "alt": "南部综合终站（TBS）宽敞的候车大厅——吉隆坡的综合长途巴士总站。",
+        "subject": "吉隆坡南部综合终站（TBS）长途巴士总站大厅"
+      },
+      {
+        "alt": "一列 ETS 城际列车停靠在吉隆坡中央车站的月台——KTM 城际铁路网的枢纽。",
+        "subject": "吉隆坡中央车站的 KTM 城际铁路月台"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "Terminal Bersepadu Selatanの広々としたコンコース。クアラルンプールの統合長距離バスターミナル。",
+        "subject": "Terminal Bersepadu Selatan（TBS）長距離バスターミナルのコンコース、クアラルンプール"
+      },
+      {
+        "alt": "KTMの都市間鉄道網の拠点であるKLセントラルのホームに停車するETS都市間列車。",
+        "subject": "KLセントラルのKTM都市間鉄道ホーム"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "쿠알라룸푸르의 통합 시외버스 터미널인 Terminal Bersepadu Selatan의 널찍한 콘코스.",
+        "subject": "Terminal Bersepadu Selatan(TBS) 시외버스 터미널 콘코스, 쿠알라룸푸르"
+      },
+      {
+        "alt": "KTM 시외철도망의 허브인 KL 센트럴의 승강장에 정차한 ETS 시외 열차.",
+        "subject": "KL 센트럴의 KTM 시외철도 승강장"
+      }
+    ],
+    "th": [
+      {
+        "alt": "โถงผู้โดยสารกว้างขวางของTerminal Bersepadu Selatan สถานีขนส่งรถบัสด่วนแบบบูรณาการของกัวลาลัมเปอร์",
+        "subject": "โถงสถานีขนส่งรถบัสด่วนTerminal Bersepadu Selatan (TBS) กัวลาลัมเปอร์"
+      },
+      {
+        "alt": "รถไฟระหว่างเมืองETSจอดรออยู่ที่ชานชาลาของKL Sentral ศูนย์กลางเครือข่ายรถไฟระหว่างเมืองของKTM",
+        "subject": "ชานชาลารถไฟระหว่างเมืองKTMที่KL Sentral"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Ruang legar luas Terminal Bersepadu Selatan, terminal bas ekspres bersepadu Kuala Lumpur.",
+        "subject": "Konkors terminal bas ekspres Terminal Bersepadu Selatan (TBS), Kuala Lumpur"
+      },
+      {
+        "alt": "Sebuah kereta api antara bandar ETS menunggu di platform KL Sentral, hab rangkaian kereta api antara bandar KTM.",
+        "subject": "Platform kereta api antara bandar KTM di KL Sentral"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Selasar luas Terminal Bersepadu Selatan, terminal bus ekspres terpadu Kuala Lumpur.",
+        "subject": "Selasar terminal bus ekspres Terminal Bersepadu Selatan (TBS), Kuala Lumpur"
+      },
+      {
+        "alt": "Sebuah kereta api antarkota ETS menunggu di peron KL Sentral, pusat jaringan kereta api antarkota KTM.",
+        "subject": "Peron kereta api antarkota KTM di KL Sentral"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Sảnh rộng rãi của Terminal Bersepadu Selatan, bến xe khách tốc hành tích hợp của Kuala Lumpur.",
+        "subject": "Sảnh chính của bến xe khách tốc hành Terminal Bersepadu Selatan (TBS), Kuala Lumpur"
+      },
+      {
+        "alt": "Một đoàn tàu liên tỉnh ETS đang chờ tại sân ga KL Sentral, đầu mối của mạng lưới đường sắt liên tỉnh KTM.",
+        "subject": "Sân ga đường sắt liên tỉnh KTM tại KL Sentral"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கோலாலம்பூரின் ஒருங்கிணைந்த விரைவுப் பேருந்து நிலையமான டெர்மினல் பெர்செபாடு செலாத்தானின் விசாலமான நடைமண்டபம்.",
+        "subject": "டெர்மினல் பெர்செபாடு செலாத்தான் (TBS) விரைவுப் பேருந்து நிலைய நடைமண்டபம், கோலாலம்பூர்"
+      },
+      {
+        "alt": "KTM நகரங்களுக்கிடையேயான ரயில் வலையமைப்பின் மையமான KL Sentral இன் தளத்தில் காத்திருக்கும் ETS நகரங்களுக்கிடையேயான ரயில்.",
+        "subject": "KL Sentral இல் KTM நகரங்களுக்கிடையேயான ரயில் தளம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कुआलालंपुर के एकीकृत एक्सप्रेस-बस टर्मिनल, Terminal Bersepadu Selatan का विशाल कॉनकोर्स।",
+        "subject": "Terminal Bersepadu Selatan (TBS) एक्सप्रेस-बस टर्मिनल कॉनकोर्स, कुआलालंपुर"
+      },
+      {
+        "alt": "KTM के इंटरसिटी रेल नेटवर्क के केंद्र KL Sentral के एक प्लेटफ़ॉर्म पर खड़ी एक ETS इंटरसिटी ट्रेन।",
+        "subject": "KL Sentral पर KTM इंटरसिटी रेल प्लेटफ़ॉर्म"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "البهو الواسع لـ Terminal Bersepadu Selatan، محطة الحافلات السريعة المتكاملة في Kuala Lumpur.",
+        "subject": "بهو محطة الحافلات السريعة Terminal Bersepadu Selatan (TBS)، Kuala Lumpur"
+      },
+      {
+        "alt": "قطار ETS بين المدن ينتظر على رصيف في KL Sentral، محور شبكة KTM للسكك الحديدية بين المدن.",
+        "subject": "رصيف سكة حديد KTM بين المدن في KL Sentral"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El amplio vestíbulo de la Terminal Bersepadu Selatan, la terminal integrada de autobuses exprés de Kuala Lumpur.",
+        "subject": "Vestíbulo de la terminal de autobuses exprés Terminal Bersepadu Selatan (TBS), Kuala Lumpur"
+      },
+      {
+        "alt": "Un tren interurbano ETS esperando en un andén de KL Sentral, el eje de la red ferroviaria interurbana de KTM.",
+        "subject": "Andén de tren interurbano de KTM en KL Sentral"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Le vaste hall de la Terminal Bersepadu Selatan, la gare routière intégrée d'autocars express de Kuala Lumpur.",
+        "subject": "Hall de la gare routière d'autocars express Terminal Bersepadu Selatan (TBS), Kuala Lumpur"
+      },
+      {
+        "alt": "Un train interurbain ETS à quai à KL Sentral, le centre névralgique du réseau ferroviaire interurbain de KTM.",
+        "subject": "Quai ferroviaire interurbain de KTM à KL Sentral"
+      }
+    ]
   }
 }

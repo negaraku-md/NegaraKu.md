@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "f81df275bc45182b"
+sourceContentHash: "0ed1327337126c45"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-1.webp
+    alt: セランゴール州プチョンのLDP高速道路休憩所にある、電気自動車向けのShell Recharge直流急速充電スペース。
+    kind: actual
+    origin: third-party
+    subject: Shell Recharge直流急速充電ステーション、マレーシア・プチョン南LDP
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Recharge_LDP_Puchong_South.jpg
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-2.webp
+    alt: マレーシア市場で人気のEVである青い2023年式BYD Atto 3の電動SUVが、ペナンに駐車している。
+    kind: actual
+    origin: third-party
+    subject: マレーシア・ペナンのBYD Atto 3電動SUV
+    credit: LuvsMG481 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2023_BYD_ATTO_3_Ultra_front.jpg
 ---
 
 マレーシアで電気自動車が道路税無料だった時代は終わった——しかし、あなたのMyJPJに届く最初の請求は、思っているより安いかもしれず、しかもまったく新しい方法で算定される。

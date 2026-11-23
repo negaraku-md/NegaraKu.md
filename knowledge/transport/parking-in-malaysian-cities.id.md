@@ -29,7 +29,7 @@ faq:
     a: "Tidak. Kompaun parkir dikeluarkan oleh PBT di bawah perintah lalu lintas jalan terkait parkir, sementara tilang lalu lintas untuk pelanggaran mengemudi dikeluarkan oleh PDRM atau JPJ."
 
 lang: "id"
-sourceContentHash: "fbbc5c9405ba0df6"
+sourceContentHash: "ced4815eca51d2d0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Georgetown,_Malaysia_(4570232019).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-1.webp
+    alt: Sebuah gedung parkir bertingkat beton yang tinggi dengan dek parkir terbuka berpagar kisi yang bertumpuk beberapa lantai, dilihat dari jalan di pinggiran kota Malaysia
+    kind: actual
+    origin: third-party
+    subject: sebuah gedung parkir bertingkat di Taman Segar, Cheras, Kuala Lumpur
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Segar_multi-storey_car_park_(221028).jpg
+  - role: scene
+    src: /media/transport/parking-in-malaysian-cities/body-2.webp
+    alt: Beberapa rambu logam dilarang parkir dan papan pemberitahuan tepi jalan yang dipasang berdekatan pada tiang di depan dinding lapuk di sepanjang jalan di George Town
+    kind: actual
+    origin: third-party
+    subject: sekumpulan rambu dilarang parkir dan rambu parkir tepi jalan di sebuah jalan di George Town, Penang
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Still_Life_with_No_Parking_Signs_-_George_Town_-_Penang_-_Malaysia_(35374672612).jpg
 ---
 
 Anda mencari koin di dalam mobil untuk mesin tiket — tetapi mesin itu sudah tidak ada sejak 2020. Memarkir mobil di kota besar Malaysia kini dimulai dengan ponsel pintar, bukan lagi celengan koin di tepi jalan.

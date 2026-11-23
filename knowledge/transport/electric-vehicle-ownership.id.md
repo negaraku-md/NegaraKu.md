@@ -31,7 +31,7 @@ faq:
     a: "RM20 setahun untuk EV berdaya 50 kW ke bawah, mengikuti panduan LKM kendaraan listrik JPJ. Tarif meningkat secara progresif untuk daya yang lebih tinggi."
 
 lang: "id"
-sourceContentHash: "f81df275bc45182b"
+sourceContentHash: "0ed1327337126c45"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -98,6 +98,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ayer_Keroh_Rest_Area_(Southbound)_-_Electric_Vehicle_Charging_Station.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-1.webp
+    alt: Petak pengisian cepat DC Shell Recharge untuk kendaraan listrik di rest area jalan tol LDP di Puchong, Selangor.
+    kind: actual
+    origin: third-party
+    subject: Stasiun pengisian cepat DC Shell Recharge, LDP Puchong Selatan, Malaysia
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Recharge_LDP_Puchong_South.jpg
+  - role: scene
+    src: /media/transport/electric-vehicle-ownership/body-2.webp
+    alt: Sebuah SUV listrik BYD Atto 3 2023 berwarna biru, EV populer di pasar Malaysia, diparkir di Penang.
+    kind: actual
+    origin: third-party
+    subject: SUV listrik BYD Atto 3 di Penang, Malaysia
+    credit: LuvsMG481 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2023_BYD_ATTO_3_Ultra_front.jpg
 ---
 
 Zaman pajak jalan gratis untuk mobil listrik di Malaysia sudah berakhir — tetapi tagihan pertama yang mendarat di MyJPJ Anda mungkin lebih murah daripada yang Anda duga, dan ia dihitung dengan cara yang benar-benar baru.

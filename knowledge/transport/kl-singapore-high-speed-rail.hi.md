@@ -29,7 +29,7 @@ faq:
     a: "नहीं। RTS Link जोहोर बहरू और Woodlands के बीच एक छोटी सीमा-पार शटल है, जिसके 2026 में खुलने का लक्ष्य है। HSR कुआलालंपुर और सिंगापुर के बीच नियोजित एक अलग ~350 किमी हाई-स्पीड लाइन है।"
 
 lang: "hi"
-sourceContentHash: "b505d87f2fe5cea1"
+sourceContentHash: "7905cead6b64344a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_679_at_Taichung_HSR_station_March_2026_2.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-1.webp
+    alt: एक स्टेशन प्लेटफ़ॉर्म पर Taiwan High Speed Rail का ट्रेनसेट, जिसे एक तुलनीय क्षेत्रीय हाई-स्पीड रेलवे के रूप में दिखाया गया है।
+    kind: representative
+    origin: third-party
+    subject: क्षेत्र में संचालित हाई-स्पीड ट्रेन (Taiwan High Speed Rail), भविष्य की KL-सिंगापुर HSR की प्रतिनिधि
+    credit: 4300streetcar / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_639_at_Tainan_HSR_station_May_2025.jpg
+  - role: scene
+    src: /media/transport/kl-singapore-high-speed-rail/body-2.webp
+    alt: जापान के हिरोशिमा स्टेशन पर एक N700-सीरीज़ Shinkansen हाई-स्पीड ट्रेन, जिसे एक तुलनीय क्षेत्रीय हाई-स्पीड रेलवे के रूप में दिखाया गया है।
+    kind: representative
+    origin: third-party
+    subject: क्षेत्र में संचालित हाई-स्पीड ट्रेन (जापान की N700 Shinkansen), भविष्य की KL-सिंगापुर HSR की प्रतिनिधि
+    credit: Eric Salard / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shinkansen_N700_at_HIroshima_Station_1_2025-03-27.jpg
 ---
 
 एक बुलेट ट्रेन जो आपको कुआलालंपुर से सिंगापुर तक लगभग 90 मिनट में पहुँचा सकती थी — उस पर

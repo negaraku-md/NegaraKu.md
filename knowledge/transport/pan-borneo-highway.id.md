@@ -37,7 +37,7 @@ faq:
     a: "Bagian Sabah terganggu ketika pengaturan Project Delivery Partner-nya dihentikan pada 2019 dan pekerjaan terputus sebelum dimulai kembali sekitar September 2020. Laporan sejak itu menunjuk pada keterlambatan di banyak paket, masalah pembebasan tanah dan model kontrak yang berubah. Auditor-General melaporkan bahwa hanya empat dari 35 paket Sabah Phase 1 yang selesai hingga 31 Maret 2026, sebuah angka yang menurut pemerintah negara bagian Sabah meremehkan kemajuan fisik aktual di lapangan."
 
 lang: "id"
-sourceContentHash: "979fd22a197b9634"
+sourceContentHash: "3fa5899226a93a89"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-1.webp
+    alt: Pemandangan dari atas sebuah simpang susun jalan raya berlajur banyak dengan jalan keluar melengkung yang menjauh dari jalur utama, berada di tengah vegetasi hijau di bawah langit cerah di pedesaan Sarawak
+    kind: actual
+    origin: third-party
+    subject: simpang susun Simanggang (Sri Aman) di Jalan Raya Pan Borneo bebas tol di Sarawak
+    credit: Ago Dagang / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Simanggang_(Sri_Aman)_Interchange,_Pan_Borneo_Sarawak,_Malaysia.png
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-2.webp
+    alt: Sebuah ruas panjang dan lapang jalan raya beraspal yang membentang lurus ke depan melalui pedesaan datar, dipagari pepohonan di tepi jalan dan tanaman hijau di bawah langit Borneo yang mendung
+    kind: actual
+    origin: third-party
+    subject: sebuah ruas Jalan Raya Pan Borneo dekat Taman Sebangkoi di luar Sarikei, Sarawak
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg
 ---
 
 Selama sebagian besar sejarah Borneo Malaysia, berpindah dari satu kota ke kota berikutnya berarti merayap pelan di sepanjang jalan arteri satu lajur, berbagi dengan truk, lalu lintas penebangan kayu dan sesekali jembatan yang hanyut tersapu air. Pan Borneo Highway adalah upaya untuk mengubah itu: upaya selama satu dekade untuk menjadikan jalan arteri itu sebuah penghubung modern yang sebagian besar berupa jalan ganda, membentang sepanjang Sarawak dan Sabah.

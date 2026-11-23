@@ -78,7 +78,27 @@ sources:
     url: "https://paultan.org/2025/07/18/mrt3-is-a-go-51-6-km-circle-line-approved-by-transport-ministry-land-acquisition-is-the-next-step/"
     publisher: "Paul Tan's Automotive News"
   - title: "MRT3 — 값비싼 필수품인가? (MRT3 - a costly necessity?)"
-    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3---a-costly-necessity"
+    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3
+images:
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-1.webp
+    alt: 클랑밸리 MRT 역을 대표하는, 기존 MRT 카장선 부킷 빈탕역의 지하 승강장.
+    kind: representative
+    origin: third-party
+    subject: 기존 클랑밸리 MRT(카장선) 부킷 빈탕 지하 승강장
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBK_Line_Bukit_Bintang_Station_Platform_1_1.jpg
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-2.webp
+    alt: 쿠알라룸푸르 잘란 이포 일대의 스카이라인을 가로지르는 고가교 위를 달리는 푸트라자야선 MRT 열차.
+    kind: representative
+    origin: third-party
+    subject: 쿠알라룸푸르 상공을 가로지르는 고가 클랑밸리 MRT(푸트라자야선) 고가교
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Ipoh_Skyline_with_Putrajaya_Line_train_from_Batu_Kentonmen_KTM_Station_(220714).jpg
+---a-costly-necessity"
     publisher: "The Star"
   - title: "MRT3의 RM310억 건설비가 주목의 대상으로 (MRT3's RM31 bil construction price tag in the spotlight)"
     url: "https://theedgemalaysia.com/article/mrt3s-rm31-bil-construction-price-tag-spotlight"

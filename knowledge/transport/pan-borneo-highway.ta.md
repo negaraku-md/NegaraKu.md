@@ -37,7 +37,7 @@ faq:
     a: "Sabah பகுதியின் Project Delivery Partner ஏற்பாடு 2019-இல் நிறுத்தப்பட்டு, சுமார் 2020 செப்டம்பர் வாக்கில் மீண்டும் தொடங்குவதற்கு முன் வேலை தடைப்பட்டபோது இடையூறு ஏற்பட்டது. அதன் பிறகான அறிக்கைகள் பல தொகுப்புகளில் தாமதங்கள், நில கையகப்படுத்தல் சிக்கல்கள் மற்றும் மாற்றப்பட்ட ஒப்பந்த மாதிரிகளை சுட்டிக்காட்டுகின்றன. 2026 மார்ச் 31 வாக்கில் Sabah Phase 1-இன் 35 தொகுப்புகளில் நான்கே முடிக்கப்பட்டதாக Auditor-General அறிவித்தார்; இந்த எண், தரையில் உள்ள உண்மையான இயற்பியல் முன்னேற்றத்தைக் குறைத்து மதிப்பிடுவதாக Sabah மாநில அரசு கூறியுள்ளது."
 
 lang: "ta"
-sourceContentHash: "979fd22a197b9634"
+sourceContentHash: "3fa5899226a93a89"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -103,6 +103,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-1.webp
+    alt: சரவாக்கின் கிராமப்புறத்தில் பிரகாசமான வானத்தின் கீழ் பசுமையான தாவரங்களுக்கு இடையே அமைந்த, பிரதான சாலையிலிருந்து விலகிச் செல்லும் வளைந்த வெளியேறும் சரிவுப் பாதைகளுடன் கூடிய பல பாதை நெடுஞ்சாலைச் சந்திப்பின் உயரத்திலிருந்து பார்வை
+    kind: actual
+    origin: third-party
+    subject: சரவாக்கில் கட்டணமில்லா Pan Borneo நெடுஞ்சாலையில் உள்ள சிமாங்காங் (ஸ்ரீ அமன்) சந்திப்பு
+    credit: Ago Dagang / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Simanggang_(Sri_Aman)_Interchange,_Pan_Borneo_Sarawak,_Malaysia.png
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-2.webp
+    alt: மேகமூட்டமான போர்னியோ வானத்தின் கீழ் சாலையோர மரங்களும் பசுமையும் சூழ்ந்த, சமதளமான கிராமப்புறத்தின் வழியாக நேராக முன்னோக்கிச் செல்லும் தார் நெடுஞ்சாலையின் நீண்ட திறந்த பகுதி
+    kind: actual
+    origin: third-party
+    subject: சரவாக், சாரிக்கெய் வெளியே உள்ள செபாங்கோய் பூங்காவுக்கு அருகே Pan Borneo நெடுஞ்சாலையின் ஒரு பகுதி
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg
 ---
 
 மலேசிய பொர்னியோவின் பெரும்பாலான வரலாற்றில், ஒரு நகரத்திலிருந்து அடுத்த நகரத்திற்குச் செல்வது என்பது, லாரிகள், மரம் வெட்டும் போக்குவரத்து மற்றும் அவ்வப்போது வெள்ளத்தில் அடித்துச் செல்லப்பட்ட பாலங்களுடன் பகிர்ந்துகொள்ளப்பட்ட ஒரு-பாதை முக்கிய சாலையில் மெதுவாக ஊர்வதையே குறித்தது. அதை மாற்றுவதற்கான முயற்சிதான் பான் பொர்னியோ நெடுஞ்சாலை: அந்த முக்கிய சாலையை Sarawak மற்றும் Sabah-இன் நீளம் முழுவதும் இயங்கும் நவீன, பெரும்பாலும் இரட்டை-பாதை இணைப்பாக மாற்றுவதற்கான ஒரு பத்தாண்டு முயற்சி.

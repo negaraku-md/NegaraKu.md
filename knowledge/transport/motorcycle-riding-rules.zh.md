@@ -29,7 +29,7 @@ faq:
     a: "截至发布之时，并无生效的引擎排量限制；按引擎排量限制高速公路通行权的建议尚未成为法律。"
 
 lang: "zh"
-sourceContentHash: "1c36a26778aafc7e"
+sourceContentHash: "b693cfa123085cc9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/motorcycle-riding-rules/body-1.webp
+    alt: 一条隔离式摩托车专用道，沿着吉打双溪大年北收费广场附近的主干道延伸。
+    kind: actual
+    origin: third-party
+    subject: 吉打双溪大年北收费站附近的摩托车专用道
+    credit: Lawantetaplawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Motorcycle_lane_Sungai_Petani_Utara.jpg
+  - role: scene
+    src: /media/transport/motorcycle-riding-rules/body-2.webp
+    alt: 一排摩托车和踏板车停放在槟城乔治市小印度一条街道旁，反映出马来西亚两轮车的高使用率。
+    kind: representative
+    origin: third-party
+    subject: 槟城乔治市街道两旁林立的摩托车与踏板车
+    credit: philip.mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_with_motorcycle_and_scooter_parking_in_Little_India_in_George_Town,_Penang_-_53830462000.jpg
 ---
 
 你骑着摩托车驶入联邦大道（Lebuhraya Persekutuan），看到"摩托车道"（Lorong Motosikal）的路牌分岔向左——心里犯嘀咕：究竟是必须跟着走，还是可以继续留在主车道上？答案取决于一个词：*宪报公布*（diwartakan）。

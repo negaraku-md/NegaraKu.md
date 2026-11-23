@@ -31,7 +31,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1e94499e976a5044"
+sourceContentHash: "dc8862cd8ffc9b3c"
 
 status: "published"
 aiAssisted: true
@@ -89,6 +89,25 @@ heroLicense: 'CC BY-SA 2.5 my'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Proton_showroom_in_SS14,_Subang_Jaya.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/buying-a-car/body-1.webp
+    alt: マレーシア・ペナンのPeroduaブランドショールーム内で、明るい照明の下に新車のPerodua車が整然と並ぶ。
+    kind: actual
+    origin: third-party
+    subject: ペナンのPerodua販売店ショールーム
+    credit: Bindydad123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perodua_Showroom,_Penang,_Malaysia_(1).jpg
+  - role: scene
+    src: /media/transport/buying-a-car/body-2.webp
+    alt: 黒いProton Perdanaのセダン——マレーシア製の国産ブランド車——がセランゴール州シャアラムの路上に駐車している。
+    kind: actual
+    origin: third-party
+    subject: シャアラム（セランゴール州）のProton Perdanaセダン
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 2.5 my
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2014_Proton_Perdana_2.4P_in_Shah_Alam,_Malaysia_(01).jpg
 ---
 
 マレーシアで車を買うと、あなたが結ぶ取引は一つだが、実際には同時に三つの別々の関係へと足を踏み入れる：車を売ってくれた相手との関係、それを融資している相手との関係、そして車が実際に誰の名義になるかを決める部門であるJPJとの関係である。この三つのどれか一つでも手順を飛ばせば、あなたが代金を払った車は、法的にはまだ完全にあなたのものではない。

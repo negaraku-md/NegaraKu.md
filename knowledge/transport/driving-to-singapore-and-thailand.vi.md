@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Người lái xe Malaysia dự định lái chính chiếc xe của mình qua Causeway hoặc Second Link vào Singapore, hoặc qua biên giới đất liền phía bắc vào Thái Lan."
 
 lang: "vi"
-sourceContentHash: "4dfab6647457152e"
+sourceContentHash: "816922553871bb4d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor-Singapore_Causeway_20240816_163357.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-1.webp
+    alt: Cầu đường bộ Second Link Malaysia-Singapore bắc qua eo biển Johor giữa Tanjung Kupang và Tuas.
+    kind: actual
+    origin: third-party
+    subject: Cầu Second Link Malaysia-Singapore (Tuas)
+    credit: Nigos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia-Singapore_Second_Link_bridge.jpg
+  - role: scene
+    src: /media/transport/driving-to-singapore-and-thailand/body-2.webp
+    alt: Đoạn đường dẫn vào cửa khẩu đường bộ Bukit Kayu Hitam trên biên giới Malaysia-Thái Lan ở Kedah.
+    kind: actual
+    origin: third-party
+    subject: Cửa khẩu biên giới Malaysia-Thái Lan Bukit Kayu Hitam-Sadao
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Kayu_Hitam-Sadao_border_crossing_2.jpg
 ---
 
 Hai nước láng giềng, hai biên giới đất liền, hai hệ thống hoàn toàn khác nhau cho cùng một chiếc xe.

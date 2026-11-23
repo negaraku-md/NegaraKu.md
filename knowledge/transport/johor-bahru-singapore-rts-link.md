@@ -103,6 +103,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru-Singapore_RTS_Link_Bridge_2025.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-1.webp
+    alt: The Bukit Chagar RTS Link station taking shape under construction in Johor Bahru.
+    kind: actual
+    origin: third-party
+    subject: Bukit Chagar RTS Link terminus station under construction, Johor Bahru
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Chagar_RTS_station_under_construction_20230606_142119.jpg
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-2.webp
+    alt: A CRRC Zhuzhou trainset for the Johor Bahru-Singapore RTS Link during a trial run.
+    kind: actual
+    origin: third-party
+    subject: RTS Link CRRC rolling stock on trial run
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru%E2%80%93Singapore_RTS_Link_CRRC_Zhuzhou_rolling_stock_on_trial_070626.jpg
 ---
 
 Every working day, tens of thousands of people inch across the Johor-Singapore Causeway - one of the busiest land borders on earth - by car, bus and motorcycle, often queuing for an hour or more. The RTS Link is the two governments' bet that a short train, not a wider road, is the way to break that jam.

@@ -102,6 +102,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-1.webp
+    alt: An elevated view of a multi-lane highway interchange with sweeping exit ramps curving away from the main carriageway, set among green vegetation under a bright sky in rural Sarawak
+    kind: actual
+    origin: third-party
+    subject: the Simanggang (Sri Aman) interchange on the toll-free Pan Borneo Highway in Sarawak
+    credit: Ago Dagang / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Simanggang_(Sri_Aman)_Interchange,_Pan_Borneo_Sarawak,_Malaysia.png
+  - role: scene
+    src: /media/transport/pan-borneo-highway/body-2.webp
+    alt: A long open stretch of tarmac highway running straight ahead through flat countryside lined with roadside trees and greenery under a cloudy Borneo sky
+    kind: actual
+    origin: third-party
+    subject: a stretch of the Pan Borneo Highway near Sebangkoi Park outside Sarikei, Sarawak
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg
 ---
 
 For most of Malaysian Borneo's history, getting from one town to the next meant a slow crawl along a single-lane trunk road, shared with lorries, logging traffic and the occasional washed-out bridge. The Pan Borneo Highway is the attempt to change that: a decade-long effort to turn that trunk road into a modern, mostly dual-carriageway link running the length of Sarawak and Sabah.

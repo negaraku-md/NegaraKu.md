@@ -37,7 +37,7 @@ faq:
     a: "Causeway وSecond Link معبران بريّان للسيارات والحافلات والدراجات النارية والشاحنات؛ أما رابط RTS فمكوك سككي مخصّص للركّاب يهدف إلى تخفيف الضغط عنهما. والقطار فائق السرعة (HSR) المنفصل بين KL وسنغافورة خط أطول بكثير بين المدن، جرى تعليقه مراراً، بين Kuala Lumpur وSingapore - مشروع مختلف بمقياس مختلف. ويُتوقَّع أيضاً أن يحلّ رابط RTS محل قطار KTM Shuttle Tebrau القصير بمجرد تشغيله."
 
 lang: "ar"
-sourceContentHash: "10e2e01e7527794c"
+sourceContentHash: "b670ec71614d4b5a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -104,6 +104,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Bahru-Singapore_RTS_Link_Bridge_2025.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-1.webp
+    alt: محطة Bukit Chagar لخط RTS Link تتشكّل أثناء الإنشاء في Johor Bahru.
+    kind: actual
+    origin: third-party
+    subject: محطة Bukit Chagar النهائية لخط RTS Link قيد الإنشاء، Johor Bahru
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Chagar_RTS_station_under_construction_20230606_142119.jpg
+  - role: scene
+    src: /media/transport/johor-bahru-singapore-rts-link/body-2.webp
+    alt: قطار CRRC Zhuzhou مخصّص لخط RTS Link بين Johor Bahru وسنغافورة أثناء رحلة تجريبية.
+    kind: actual
+    origin: third-party
+    subject: قطار CRRC الخاص بخط RTS Link في رحلة تجريبية
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Bahru%E2%80%93Singapore_RTS_Link_CRRC_Zhuzhou_rolling_stock_on_trial_070626.jpg
 ---
 
 في كل يوم عمل، يزحف عشرات الآلاف عبر Causeway بين جوهور وسنغافورة - أحد أكثر الحدود البرية ازدحاماً على وجه الأرض - بالسيارات والحافلات والدراجات النارية، وكثيراً ما يصطفّون ساعة أو أكثر. ورابط RTS هو رهان الحكومتين على أن قطاراً قصيراً، لا طريقاً أعرض، هو السبيل إلى كسر ذلك الاختناق.

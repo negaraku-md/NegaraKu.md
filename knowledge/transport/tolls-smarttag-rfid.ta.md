@@ -29,7 +29,7 @@ faq:
     a: "RFID-க்கு இன்னும் வாகனம் குறியிடப்பட்ட வழித்தடம் வழியாகச் செல்ல வேண்டும், அங்கு படிப்பு வெற்றிகரமான பிறகு தடுப்பு உயரும். JustGO PLUS போன்ற ANPR வாகன எண் தகட்டைப் படிக்கும் கேமரா வழியாக வாகனங்களை அடையாளம் காண்கிறது, இதனால் பதிவுசெய்யப்பட்ட வாகனங்கள் எந்த உடல் ரீதியான டேக்கும் இல்லாமல் எந்த வழித்தடம் வழியாகவும் செல்லமுடிகிறது — முழுமையான தடுப்பு இல்லாத அமைப்பை (MLFF) நோக்கிய மேலுமொரு படி."
 
 lang: "ta"
-sourceContentHash: "c1392d940afe3b99"
+sourceContentHash: "0d93829e0782b4d6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SmartTag.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-1.webp
+    alt: பகலில் காணப்படும் அகலமான நெடுஞ்சாலை சுங்கச்சாவடி வளாகம், பல கட்டணப் பாதைகளின் மீது வரிசையான சுங்கச் சாவடிகளும் மேல்நிலைப் பாதை விதானங்களும்
+    kind: actual
+    origin: third-party
+    subject: பேராக், இப்போவுக்கு அருகே பல பாதைகளும் சாவடிகளும் கொண்ட பகல்நேர நெடுஞ்சாலை சுங்கச்சாவடி வளாகம்
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Toll_plaza,_Ipoh,_Perak,_Malaysia.jpg
+  - role: scene
+    src: /media/transport/tolls-smarttag-rfid/body-2.webp
+    alt: கோத்தா டாமான்சாராவுக்கு அருகே சாலைக்கு மேலே பாதைத் தடுப்பு மற்றும் மேல்நிலை வாசிப்புச் சட்டத்துடன், RFID கட்டணத்திற்காகக் குறிக்கப்பட்ட சுங்கச்சாவடி வெளியேறும் பாதை
+    kind: actual
+    origin: third-party
+    subject: செலாங்கூர், கோத்தா டாமான்சாரா சுங்கச்சாவடி வளாகத்தில் ஒரு RFID வெளியேறும் பாதை
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MyRFid_Kota_Damansara_Toll_Plaza_1.jpg
 ---
 
 RFID வழித்தடத்தில் உங்களுக்கு முன்னால் உள்ள கார் திடீரென பிரேக் போடுகிறது, ஏனெனில் அதன் முன் விளக்கில் உள்ள ஸ்டிக்கர் கண்டறியப்படவில்லை — RFID என்றால் “எதுவும் செய்யத் தேவையில்லை” என்று பலர் கருதினாலும். உண்மையில், மலேசியா தற்போது வெவ்வேறு நெடுஞ்சாலைகளில் குறைந்தது நான்கு தலைமுறை சுங்கத் தொழில்நுட்பங்களை ஒரே நேரத்தில் இயக்குகிறது, ஒன்றை மற்றொன்றுடன் குழப்பிக்கொள்வது சாவடியில் கார்கள் சிக்கிக்கொள்வதற்கான பொதுவான காரணம்.

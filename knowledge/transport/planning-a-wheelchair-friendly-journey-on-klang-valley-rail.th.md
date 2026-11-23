@@ -33,7 +33,7 @@ faq:
 
 lang: "th"
 translationStatus: "in-sync"
-sourceContentHash: "dbccb525d9d4cfdf"
+sourceContentHash: "2aca71ef01ff8e0d"
 masterLanguage: "en"
 
 status: "published"
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KLCC_LRT_Station_lift_(211031).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-1.webp
+    alt: แถวกระเบื้องนำทางสัมผัสสีเหลืองสดมีแท่งนูนทอดยาวตามขอบชานชาลาสถานีMRTที่สะอาด เพื่อนำทางผู้โดยสารตาบอด
+    kind: actual
+    origin: third-party
+    subject: กระเบื้องนำทางสัมผัสบนชานชาลาสถานีMRTซูเรียน โกตาดามันซารา ในหุบเขากลัง
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KG_Line_Surian_-_Tactile_Paving.jpg
+  - role: scene
+    src: /media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-2.webp
+    alt: ชานชาลาสถานีMRTที่กว้างและเรียบเสมอกัน มีประตูกั้นชานชาลาแบบเต็มความสูงตลอดขอบราง และกระเบื้องสัมผัสบอกเขตขึ้นลงรถ
+    kind: actual
+    origin: third-party
+    subject: ชานชาลาที่มีประตูกั้นชานชาลาที่สถานีMRTโรงพยาบาลกัวลาลัมเปอร์ในหุบเขากลัง
+    credit: angys* / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Kuala_Lumpur_MRT_Station_platform_(230418)_01.jpg
 ---
 
 สำหรับผู้ใช้รถเข็น เครือข่ายรถไฟในหุบเขากลัง (Klang Valley) ไม่ใช่ระบบเดียว แต่เป็นหลายระบบที่สร้างในคนละทศวรรษตามมาตรฐานที่ต่างกันมาก — และนั่นคือกุญแจสำคัญของการวางแผนการเดินทางที่ดี การตัดสินใจที่มีประโยชน์ที่สุดอย่างเดียวที่คุณทำคือ**จะเดินทางด้วยรถไฟรูปแบบใด** หลังจากนั้นการเดินทางจะสำเร็จหรือล้มเหลวขึ้นอยู่กับสองสิ่งที่แผนที่สวย ๆ ไม่เคยแสดงให้คุณเห็น: **ลิฟต์ตัวใดตัวหนึ่งใช้งานได้ในวันนั้นหรือไม่** และ**จุดเปลี่ยนสายเชื่อมต่อกันจริง ๆ อย่างไร** คู่มือนี้ว่าด้วยวิธีวางแผนรับมือกับความเป็นจริงเหล่านั้น มันจงใจ*ไม่ใช่*รายการการเข้าถึงแบบสถานีต่อสถานี — สภาพการณ์เหล่านั้นเปลี่ยนเร็วกว่าที่บทความใด ๆ จะตามทัน — ดังนั้นตลอดทั้งคู่มือ ให้ถือว่าสิ่งที่ตามมานี้คือ*สิ่งที่สถานีสร้างมาเพื่อให้มี* และยืนยันสภาพปัจจุบันกับผู้ให้บริการก่อนที่คุณจะพึ่งพามัน
