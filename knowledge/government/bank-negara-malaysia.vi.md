@@ -41,7 +41,7 @@ faq:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "295c9b83682e382f"
+sourceContentHash: "f5f3575ac3242104"
 
 status: "archived"
 aiAssisted: true
@@ -87,27 +87,7 @@ sources:
     url: "https://www.bnm.gov.my/governors/rasheed"
     publisher: "Bank Negara Malaysia"
   - title: "Policy consistency, strong fundamentals anchor investor confidence — Bank Negara governor"
-    url: "https://www.thestar.com.my/business/business-news/2026/08/14/policy-consistency-strong-fundamentals-anchor-investor-confidence
-images:
-  - role: scene
-    src: /media/government/bank-negara-malaysia/body-1.webp
-    alt: Lối vào một văn phòng Bank Negara Malaysia ở Kota Kinabalu, trưng tên ngân hàng trung ương và biểu tượng con mang (kijang) cùng cờ Malaysia và cờ Sabah
-    kind: actual
-    origin: third-party
-    subject: Văn phòng khu vực của Bank Negara Malaysia ở Kota Kinabalu, Sabah, với tên ngân hàng trung ương và biểu tượng con mang (kijang)
-    credit: CEphoto, Uwe Aranas / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Bank-Negara-Malaysia-02.jpg
-  - role: scene
-    src: /media/government/bank-negara-malaysia/body-2.webp
-    alt: Một tờ tiền giấy ringgit thời kỳ đầu của Bank Negara Malaysia thuộc loạt phát hành đầu tiên năm 1967, mang tên ngân hàng trung ương
-    kind: actual
-    origin: third-party
-    subject: Tờ tiền giấy ringgit đầu tiên của Bank Negara Malaysia (mẫu thuộc loạt phát hành năm 1967)
-    credit: Bank Negara Malaysia / Wikimedia Commons
-    license: Public domain
-    sourceUrl: https://commons.wikimedia.org/wiki/File:SERIBU_RINGGIT_-_OBSERVE_VIEW_(1967).png
----bank-negara-governo"
+    url: "https://www.thestar.com.my/business/business-news/2026/08/14/policy-consistency-strong-fundamentals-anchor-investor-confidence---bank-negara-governo"
     publisher: "The Star"
     date: "2026-08-14"
   - title: "MPC Meeting Decision Schedule — tag/mpc-2026"
@@ -133,6 +113,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Central_Bank_of_Malaysia_headquarters,_Kuala_Lumpur.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-1.webp
+    alt: Lối vào một văn phòng Bank Negara Malaysia ở Kota Kinabalu, trưng tên ngân hàng trung ương và biểu tượng con mang (kijang) cùng cờ Malaysia và cờ Sabah
+    kind: actual
+    origin: third-party
+    subject: Văn phòng khu vực của Bank Negara Malaysia ở Kota Kinabalu, Sabah, với tên ngân hàng trung ương và biểu tượng con mang (kijang)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Bank-Negara-Malaysia-02.jpg
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-2.webp
+    alt: Một tờ tiền giấy ringgit thời kỳ đầu của Bank Negara Malaysia thuộc loạt phát hành đầu tiên năm 1967, mang tên ngân hàng trung ương
+    kind: actual
+    origin: third-party
+    subject: Tờ tiền giấy ringgit đầu tiên của Bank Negara Malaysia (mẫu thuộc loạt phát hành năm 1967)
+    credit: Bank Negara Malaysia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SERIBU_RINGGIT_-_OBSERVE_VIEW_(1967).png
 ---
 
 Mỗi khi một dòng tít nói rằng lãi suất giữ nguyên, đồng ringgit trượt giá so với đô la, hay một ngân hàng bị yêu cầu siết chặt việc cho vay, cùng một định chế luôn đứng phía sau câu chuyện ấy. Nó hoạt động trong một tổ hợp giống như pháo đài trên đường Jalan Dato' Onn ở Kuala Lumpur, nó không bao giờ cho bạn vay trực tiếp một xu nào, vậy mà gần như mọi đồng ringgit trong túi bạn và mọi khoản vay trên sao kê của bạn đều đi qua những quy tắc mà nó soạn ra. Định chế đó là Ngân hàng Trung ương Malaysia (Bank Negara Malaysia)——và phần lớn những gì người ta cho rằng nó làm thì hoặc chỉ đúng một nửa, hoặc thuộc về một cơ quan hoàn toàn khác.

@@ -31,7 +31,7 @@ faq:
   - q: นี่คือบทความเดียวกับพระราชบัญญัติแรงงานกิกหรือไม่?
     a: 'ไม่ บทความพระราชบัญญัติแรงงานกิก 2025 อธิบายตัวกฎหมายเอง — สิทธิ สัญญา และศาล บทความนี้ครอบคลุมภาคเศรษฐกิจ — เศรษฐกิจกิกและแพลตฟอร์มมีขนาดใหญ่เพียงใด แพลตฟอร์มหลักคือใคร และมันเข้ากับเศรษฐกิจดิจิทัลที่กว้างกว่าอย่างไร'
 lang: th
-sourceContentHash: "a1c033e7ed54660d"
+sourceContentHash: "18e840f22ec2e770"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -60,27 +60,7 @@ sources:
     url: https://mohr.gov.my/images/pdf/KENYATAAN%20MEDIA%20PEKERJA%20GIG.pdf
     publisher: กระทรวงทรัพยากรมนุษย์ (KESUMA) มาเลเซีย
   - title: "คณะรัฐมนตรีอนุมัติ SEGiM เพื่อคุ้มครองสวัสดิการแรงงานกิก (Cabinet approves SEGiM to safeguard gig workers' welfare)"
-    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig
-images:
-  - role: scene
-    src: /media/industries/gig-platform-economy-industry/body-1.webp
-    alt: ไรเดอร์ส่งอาหารสวมแจ็กเก็ตและหมวกกันน็อก foodpanda สีชมพู ขี่รถจักรยานยนต์แบบครอบเครื่อง (kapcai) บรรทุกกล่องส่งอาหารเก็บอุณหภูมิ foodpanda สีชมพูขนาดใหญ่ ขณะจอดอยู่ท่ามกลางการจราจรบนถนน
-    kind: representative
-    origin: third-party
-    subject: ไรเดอร์ส่งอาหารรถจักรยานยนต์ foodpanda พร้อมกล่องส่งอาหารเก็บอุณหภูมิสีชมพู (ตัวอย่างงานแพลตฟอร์มกิ๊ก ไม่ใช่ Grab)
-    credit: Chainwit. / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
-  - role: scene
-    src: /media/industries/gig-platform-economy-industry/body-2.webp
-    alt: พนักงานส่งอาหารแพลตฟอร์มยืนอยู่บนทางเท้าสะพายกระเป๋าเป้ส่งอาหารเก็บอุณหภูมิขนาดใหญ่
-    kind: representative
-    origin: third-party
-    subject: พนักงานส่งอาหารพร้อมกระเป๋าส่งอาหารเก็บอุณหภูมิของแพลตฟอร์ม (ไม่ใช่ Grab)
-    credit: Alexander Corkhill / Wikimedia Commons
-    license: CC BY 2.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
----tpm
+    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig---tpm
     publisher: Sinar Harian
   - title: "รัฐสภาผ่านร่างพระราชบัญญัติแรงงานกิก 2025 (Parliament Passes Gig Workers Bill 2025)"
     url: https://ringgitplus.com/en/blog/personal-finance-news/parliament-passes-gig-workers-bill-2025.html
@@ -125,6 +105,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-1.webp
+    alt: ไรเดอร์ส่งอาหารสวมแจ็กเก็ตและหมวกกันน็อก foodpanda สีชมพู ขี่รถจักรยานยนต์แบบครอบเครื่อง (kapcai) บรรทุกกล่องส่งอาหารเก็บอุณหภูมิ foodpanda สีชมพูขนาดใหญ่ ขณะจอดอยู่ท่ามกลางการจราจรบนถนน
+    kind: representative
+    origin: third-party
+    subject: ไรเดอร์ส่งอาหารรถจักรยานยนต์ foodpanda พร้อมกล่องส่งอาหารเก็บอุณหภูมิสีชมพู (ตัวอย่างงานแพลตฟอร์มกิ๊ก ไม่ใช่ Grab)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-2.webp
+    alt: พนักงานส่งอาหารแพลตฟอร์มยืนอยู่บนทางเท้าสะพายกระเป๋าเป้ส่งอาหารเก็บอุณหภูมิขนาดใหญ่
+    kind: representative
+    origin: third-party
+    subject: พนักงานส่งอาหารพร้อมกระเป๋าส่งอาหารเก็บอุณหภูมิของแพลตฟอร์ม (ไม่ใช่ Grab)
+    credit: Alexander Corkhill / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
 ---
 
 ทุกวัน ธุรกรรมหลายล้านรายการในมาเลเซียถูกจัดการ ไม่ใช่โดยร้านค้า สำนักงาน หรือจุดจอดแท็กซี่ แต่โดยแอป: รถที่ถูกเรียกมาที่ขอบทาง ถุงอาหารที่ถูกนำข้ามเมืองบนรถจักรยานยนต์ โลโก้ที่ถูกออกแบบให้ลูกค้าที่ฟรีแลนซ์จะไม่เคยพบ นี่คือเศรษฐกิจกิกและแพลตฟอร์ม — งานที่สื่อกลางผ่านแพลตฟอร์มดิจิทัล — และในเวลาเพียงกว่าทศวรรษ มันได้ย้ายจากของแปลกใหม่มาเป็นหนึ่งในลักษณะที่มองเห็นได้ชัดที่สุดของชีวิตการทำงานของชาวมาเลเซีย

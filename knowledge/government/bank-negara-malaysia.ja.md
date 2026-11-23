@@ -41,7 +41,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "295c9b83682e382f"
+sourceContentHash: "f5f3575ac3242104"
 
 status: "archived"
 aiAssisted: true
@@ -87,27 +87,7 @@ sources:
     url: "https://www.bnm.gov.my/governors/rasheed"
     publisher: "Bank Negara Malaysia"
   - title: "Policy consistency, strong fundamentals anchor investor confidence — Bank Negara governor"
-    url: "https://www.thestar.com.my/business/business-news/2026/08/14/policy-consistency-strong-fundamentals-anchor-investor-confidence
-images:
-  - role: scene
-    src: /media/government/bank-negara-malaysia/body-1.webp
-    alt: サバ州コタキナバルのマレーシア国立銀行事務所の入口。中央銀行の名称とキジャン(マメジカ)の紋章を掲げ、マレーシア国旗とサバ州旗が掲揚される
-    kind: actual
-    origin: third-party
-    subject: サバ州コタキナバルのマレーシア国立銀行地方事務所。中央銀行の名称とキジャン(マメジカ)の紋章を掲げる
-    credit: CEphoto, Uwe Aranas / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Bank-Negara-Malaysia-02.jpg
-  - role: scene
-    src: /media/government/bank-negara-malaysia/body-2.webp
-    alt: 中央銀行の名称が記された、マレーシア国立銀行1967年第1シリーズの初期のリンギット紙幣
-    kind: actual
-    origin: third-party
-    subject: 初期のマレーシア国立銀行リンギット紙幣(1967年シリーズの見本)
-    credit: Bank Negara Malaysia / Wikimedia Commons
-    license: Public domain
-    sourceUrl: https://commons.wikimedia.org/wiki/File:SERIBU_RINGGIT_-_OBSERVE_VIEW_(1967).png
----bank-negara-governo"
+    url: "https://www.thestar.com.my/business/business-news/2026/08/14/policy-consistency-strong-fundamentals-anchor-investor-confidence---bank-negara-governo"
     publisher: "The Star"
     date: "2026-08-14"
   - title: "MPC Meeting Decision Schedule — tag/mpc-2026"
@@ -133,6 +113,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Central_Bank_of_Malaysia_headquarters,_Kuala_Lumpur.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-1.webp
+    alt: サバ州コタキナバルのマレーシア国立銀行事務所の入口。中央銀行の名称とキジャン(マメジカ)の紋章を掲げ、マレーシア国旗とサバ州旗が掲揚される
+    kind: actual
+    origin: third-party
+    subject: サバ州コタキナバルのマレーシア国立銀行地方事務所。中央銀行の名称とキジャン(マメジカ)の紋章を掲げる
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Bank-Negara-Malaysia-02.jpg
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-2.webp
+    alt: 中央銀行の名称が記された、マレーシア国立銀行1967年第1シリーズの初期のリンギット紙幣
+    kind: actual
+    origin: third-party
+    subject: 初期のマレーシア国立銀行リンギット紙幣(1967年シリーズの見本)
+    credit: Bank Negara Malaysia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SERIBU_RINGGIT_-_OBSERVE_VIEW_(1967).png
 ---
 
 見出しが金利を据え置くと報じるとき、リンギットが対ドルで下落したとき、あるいは

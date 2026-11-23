@@ -41,7 +41,7 @@ faq:
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "295c9b83682e382f"
+sourceContentHash: "f5f3575ac3242104"
 
 status: "archived"
 aiAssisted: true
@@ -87,27 +87,7 @@ sources:
     url: "https://www.bnm.gov.my/governors/rasheed"
     publisher: "Bank Negara Malaysia"
   - title: "Policy consistency, strong fundamentals anchor investor confidence — Bank Negara governor"
-    url: "https://www.thestar.com.my/business/business-news/2026/08/14/policy-consistency-strong-fundamentals-anchor-investor-confidence
-images:
-  - role: scene
-    src: /media/government/bank-negara-malaysia/body-1.webp
-    alt: مدخل مكتب Bank Negara Malaysia في Kota Kinabalu، يظهر عليه اسم البنك المركزي وشعار kijang مع علمي ماليزيا وSabah
-    kind: actual
-    origin: third-party
-    subject: المكتب الإقليمي لـ Bank Negara Malaysia في Kota Kinabalu، Sabah، مع اسم البنك المركزي وشعار kijang
-    credit: CEphoto, Uwe Aranas / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Bank-Negara-Malaysia-02.jpg
-  - role: scene
-    src: /media/government/bank-negara-malaysia/body-2.webp
-    alt: ورقة نقدية مبكرة بالرينغيت من Bank Negara Malaysia من الإصدار الأول لعام 1967، تحمل اسم البنك المركزي
-    kind: actual
-    origin: third-party
-    subject: ورقة نقدية مبكرة بالرينغيت من Bank Negara Malaysia (نموذج من إصدار 1967)
-    credit: Bank Negara Malaysia / Wikimedia Commons
-    license: Public domain
-    sourceUrl: https://commons.wikimedia.org/wiki/File:SERIBU_RINGGIT_-_OBSERVE_VIEW_(1967).png
----bank-negara-governo"
+    url: "https://www.thestar.com.my/business/business-news/2026/08/14/policy-consistency-strong-fundamentals-anchor-investor-confidence---bank-negara-governo"
     publisher: "The Star"
     date: "2026-08-14"
   - title: "MPC Meeting Decision Schedule — tag/mpc-2026"
@@ -133,6 +113,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Central_Bank_of_Malaysia_headquarters,_Kuala_Lumpur.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-1.webp
+    alt: مدخل مكتب Bank Negara Malaysia في Kota Kinabalu، يظهر عليه اسم البنك المركزي وشعار kijang مع علمي ماليزيا وSabah
+    kind: actual
+    origin: third-party
+    subject: المكتب الإقليمي لـ Bank Negara Malaysia في Kota Kinabalu، Sabah، مع اسم البنك المركزي وشعار kijang
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Bank-Negara-Malaysia-02.jpg
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-2.webp
+    alt: ورقة نقدية مبكرة بالرينغيت من Bank Negara Malaysia من الإصدار الأول لعام 1967، تحمل اسم البنك المركزي
+    kind: actual
+    origin: third-party
+    subject: ورقة نقدية مبكرة بالرينغيت من Bank Negara Malaysia (نموذج من إصدار 1967)
+    credit: Bank Negara Malaysia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SERIBU_RINGGIT_-_OBSERVE_VIEW_(1967).png
 ---
 
 في كل مرة يقول فيها عنوان صحفي إن أسعار الفائدة ثابتة، أو إن الرينغيت انزلق أمام الدولار، أو إن بنكًا طُلب منه تشديد الإقراض، تكون المؤسسة ذاتها جالسة خلف القصة. إنها تعمل من مجمّع يشبه الحصن في شارع جالان داتو أون (Jalan Dato' Onn) في كوالالمبور، ولا تقرضك أبدًا سنتًا واحدًا مباشرة، ومع ذلك فإن كل رينغيت تقريبًا في جيبك وكل قرض في كشف حسابك يمر عبر قواعد تضعها هي. تلك المؤسسة هي بنك نيغارا ماليزيا (Bank Negara Malaysia) — ومعظم ما يفترض الناس أنها تفعله إما نصف صحيح فقط أو يخص جهة أخرى تمامًا.

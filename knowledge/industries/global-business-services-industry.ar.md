@@ -31,7 +31,7 @@ faq:
   - q: "ما الحوافز التي تقدّمها ماليزيا لمستثمري GBS؟"
     a: "المسار الرئيسي هو وضع ماليزيا الرقمية (MD)، الذي تديره MDEC، والذي يمكن أن يفتح حوافز ضريبية للأنشطة الرقمية والخدمية المعتمدة. وفي 2024 أدخلت MDEC مخططين قائمين على النتائج — حافز الاستثمار الجديد وحافز التوسّع — والطلبات مفتوحة حتى 2027. وتتغيّر الشروط، لذا تأكّد من الأهلية الحالية مع MDEC أو مستشار ضريبي."
 lang: ar
-sourceContentHash: "0b08e8a5a177ad84"
+sourceContentHash: "4867a776905a1b4e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -64,27 +64,7 @@ sources:
     url: https://www.digitalnewsasia.com/business/malaysias-gbs-sector-urged-expand-beyond-klang-valley-through-state-specialisation
     publisher: "Digital News Asia"
   - title: "وضع ماليزيا الرقمية — الحوافز الضريبية (Malaysia Digital Status — Tax Incentives)"
-    url: https://www.crowe.com/my/insights/malaysia-digital-status
-images:
-  - role: scene
-    src: /media/industries/global-business-services-industry/body-1.webp
-    alt: مبنى مكاتب شركات حديث متوسط الارتفاع من الزجاج والخرسانة في مجمّع Cyberjaya للأعمال، Selangor، ماليزيا.
-    kind: representative
-    origin: third-party
-    subject: مبنى مكاتب شركات في Cyberjaya، مركز الخدمات العالمية في ماليزيا
-    credit: Wanobi88 / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
-  - role: scene
-    src: /media/industries/global-business-services-industry/body-2.webp
-    alt: صفوف من الموظفين على محطات عمل حاسوبية في أرضية مركز اتصال واسعة جدًا مفتوحة التصميم.
-    kind: representative
-    origin: third-party
-    subject: أرضية مكتب مركز اتصال كبير (مكان عمل مثال للخدمات المشتركة/BPO)
-    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
-    license: Public domain
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
----tax-incentives
+    url: https://www.crowe.com/my/insights/malaysia-digital-status---tax-incentives
     publisher: "Crowe Malaysia"
   - title: "قطاع GBS المزدهر في ماليزيا: قوة دافعة في الاقتصاد الرقمي (Malaysia's thriving GBS sector: A driving force in the digital economy)"
     url: https://knightfrank.com/your-space/2024-03-26-malaysias-thriving-gbs-sector-a-driving-force-in-the-digital-economy
@@ -131,6 +111,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-1.webp
+    alt: مبنى مكاتب شركات حديث متوسط الارتفاع من الزجاج والخرسانة في مجمّع Cyberjaya للأعمال، Selangor، ماليزيا.
+    kind: representative
+    origin: third-party
+    subject: مبنى مكاتب شركات في Cyberjaya، مركز الخدمات العالمية في ماليزيا
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-2.webp
+    alt: صفوف من الموظفين على محطات عمل حاسوبية في أرضية مركز اتصال واسعة جدًا مفتوحة التصميم.
+    kind: representative
+    origin: third-party
+    subject: أرضية مكتب مركز اتصال كبير (مكان عمل مثال للخدمات المشتركة/BPO)
+    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
 ---
 
 في مكان ما في سايبرجايا أو كوالالمبور الآن، يُغلق محاسب الدفاتر الشهرية لشركة مقرّها لندن، ويحلّ موظف مكتب مساعدة تذكرة لعميل في سيدني، ويبني محلّل بيانات لوحة لمصنع في ألمانيا. ولا يصنع أيٌّ من هؤلاء أصحاب العمل شيئًا في ماليزيا. فما يديرونه هنا أقلّ وضوحًا لكنه متزايد القيمة: مكتبهم الخلفي العالمي.

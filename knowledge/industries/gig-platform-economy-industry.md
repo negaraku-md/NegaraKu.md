@@ -59,27 +59,7 @@ sources:
     url: https://mohr.gov.my/images/pdf/KENYATAAN%20MEDIA%20PEKERJA%20GIG.pdf
     publisher: Ministry of Human Resources (KESUMA), Malaysia
   - title: Cabinet approves SEGiM to safeguard gig workers' welfare
-    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig
-images:
-  - role: scene
-    src: /media/industries/gig-platform-economy-industry/body-1.webp
-    alt: A food-delivery rider in a pink foodpanda jacket and helmet on an underbone (kapcai) motorcycle carrying a large pink foodpanda insulated delivery box while stopped in street traffic.
-    kind: representative
-    origin: third-party
-    subject: Foodpanda motorcycle food-delivery rider with pink insulated delivery box (representative gig platform work; non-Grab)
-    credit: Chainwit. / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
-  - role: scene
-    src: /media/industries/gig-platform-economy-industry/body-2.webp
-    alt: A platform food-delivery courier standing on the pavement wearing a large insulated food delivery backpack.
-    kind: representative
-    origin: third-party
-    subject: Food-delivery courier with an insulated platform delivery bag (non-Grab)
-    credit: Alexander Corkhill / Wikimedia Commons
-    license: CC BY 2.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
----tpm
+    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig---tpm
     publisher: Sinar Harian
   - title: Parliament Passes Gig Workers Bill 2025
     url: https://ringgitplus.com/en/blog/personal-finance-news/parliament-passes-gig-workers-bill-2025.html
@@ -124,6 +104,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-1.webp
+    alt: A food-delivery rider in a pink foodpanda jacket and helmet on an underbone (kapcai) motorcycle carrying a large pink foodpanda insulated delivery box while stopped in street traffic.
+    kind: representative
+    origin: third-party
+    subject: Foodpanda motorcycle food-delivery rider with pink insulated delivery box (representative gig platform work; non-Grab)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-2.webp
+    alt: A platform food-delivery courier standing on the pavement wearing a large insulated food delivery backpack.
+    kind: representative
+    origin: third-party
+    subject: Food-delivery courier with an insulated platform delivery bag (non-Grab)
+    credit: Alexander Corkhill / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
 ---
 
 Every day, millions of transactions in Malaysia are arranged not by a shop, an office or a taxi rank, but by an app: a car summoned to a kerb, a bag of food carried across town on a motorcycle, a logo designed for a client the freelancer will never meet. This is the gig and platform economy — work mediated by digital platforms — and in little more than a decade it has moved from novelty to one of the most visible features of Malaysian working life.

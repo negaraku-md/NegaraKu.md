@@ -31,7 +31,7 @@ faq:
   - q: มาเลเซียเสนอสิทธิประโยชน์อะไรแก่นักลงทุน GBS?
     a: เส้นทางหลักคือสถานะ Malaysia Digital (MD) ซึ่งบริหารโดย MDEC ที่สามารถปลดล็อกสิทธิประโยชน์ภาษีสำหรับกิจกรรมดิจิทัลและบริการที่ได้รับอนุมัติ ในปี 2024 MDEC แนะนำโครงการตามผลลัพธ์สองแบบ — New Investment Incentive และ Expansion Incentive — โดยเปิดรับคำขอถึงปี 2027 เงื่อนไขเปลี่ยนแปลง ดังนั้นควรยืนยันคุณสมบัติปัจจุบันกับ MDEC หรือที่ปรึกษาภาษี
 lang: th
-sourceContentHash: "0b08e8a5a177ad84"
+sourceContentHash: "4867a776905a1b4e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -64,27 +64,7 @@ sources:
     url: https://www.digitalnewsasia.com/business/malaysias-gbs-sector-urged-expand-beyond-klang-valley-through-state-specialisation
     publisher: Digital News Asia
   - title: "สถานะ Malaysia Digital — สิทธิประโยชน์ภาษี (Malaysia Digital Status — Tax Incentives)"
-    url: https://www.crowe.com/my/insights/malaysia-digital-status
-images:
-  - role: scene
-    src: /media/industries/global-business-services-industry/body-1.webp
-    alt: อาคารสำนักงานบริษัทระดับกลางสมัยใหม่ที่ทำจากกระจกและคอนกรีตในนิคมธุรกิจไซเบอร์จายา รัฐเซอลาโงร์ ประเทศมาเลเซีย
-    kind: representative
-    origin: third-party
-    subject: อาคารสำนักงานบริษัทในไซเบอร์จายา ศูนย์กลางบริการระดับโลกของมาเลเซีย
-    credit: Wanobi88 / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
-  - role: scene
-    src: /media/industries/global-business-services-industry/body-2.webp
-    alt: เจ้าหน้าที่นั่งประจำสถานีงานคอมพิวเตอร์เรียงเป็นแถวทั่วพื้นที่คอลเซ็นเตอร์แบบเปิดโล่งขนาดใหญ่มาก
-    kind: representative
-    origin: third-party
-    subject: พื้นที่สำนักงานคอลเซ็นเตอร์ขนาดใหญ่ (ตัวอย่างสถานที่ทำงานบริการร่วม/BPO)
-    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
-    license: Public domain
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
----tax-incentives
+    url: https://www.crowe.com/my/insights/malaysia-digital-status---tax-incentives
     publisher: Crowe Malaysia
   - title: "ภาค GBS ที่เฟื่องฟูของมาเลเซีย: แรงขับเคลื่อนในเศรษฐกิจดิจิทัล (Malaysia's thriving GBS sector: A driving force in the digital economy)"
     url: https://knightfrank.com/your-space/2024-03-26-malaysias-thriving-gbs-sector-a-driving-force-in-the-digital-economy
@@ -125,6 +105,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-1.webp
+    alt: อาคารสำนักงานบริษัทระดับกลางสมัยใหม่ที่ทำจากกระจกและคอนกรีตในนิคมธุรกิจไซเบอร์จายา รัฐเซอลาโงร์ ประเทศมาเลเซีย
+    kind: representative
+    origin: third-party
+    subject: อาคารสำนักงานบริษัทในไซเบอร์จายา ศูนย์กลางบริการระดับโลกของมาเลเซีย
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-2.webp
+    alt: เจ้าหน้าที่นั่งประจำสถานีงานคอมพิวเตอร์เรียงเป็นแถวทั่วพื้นที่คอลเซ็นเตอร์แบบเปิดโล่งขนาดใหญ่มาก
+    kind: representative
+    origin: third-party
+    subject: พื้นที่สำนักงานคอลเซ็นเตอร์ขนาดใหญ่ (ตัวอย่างสถานที่ทำงานบริการร่วม/BPO)
+    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
 ---
 
 ที่ไหนสักแห่งใน Cyberjaya หรือกัวลาลัมเปอร์ในขณะนี้ นักบัญชีกำลังปิดบัญชีประจำเดือนให้บริษัทที่มีสำนักงานใหญ่ในลอนดอน เจ้าหน้าที่ help-desk กำลังแก้ปัญหาให้ลูกค้าในซิดนีย์ และนักวิเคราะห์ข้อมูลกำลังสร้างแดชบอร์ดให้โรงงานในเยอรมนี ไม่มีนายจ้างเหล่านั้นผลิตอะไรในมาเลเซีย สิ่งที่พวกเขาดำเนินงานที่นี่คือสิ่งที่มองเห็นได้น้อยกว่าแต่มีมูลค่ามากขึ้นเรื่อย ๆ: สำนักงานสนับสนุนระดับโลกของพวกเขา

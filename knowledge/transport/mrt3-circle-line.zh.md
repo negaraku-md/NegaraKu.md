@@ -37,7 +37,7 @@ faq:
     a: "该项目于 2018 年 5 月在希望联盟（Pakatan Harapan）政府任内以财政理由取消。自 2019 年底起被列入检讨，2021 年获内阁批准再度推进，并于 2022 年 3 月再获确认。2024 年底公开展示征询意见后，最终铁道计划于 2025 年 7 月获批，使征地乃至最终的建设得以推进。"
 
 lang: "zh"
-sourceContentHash: "563a889abce3b119"
+sourceContentHash: "935beaf378ec25f3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,27 +78,7 @@ sources:
     url: "https://paultan.org/2025/07/18/mrt3-is-a-go-51-6-km-circle-line-approved-by-transport-ministry-land-acquisition-is-the-next-step/"
     publisher: "Paul Tan's Automotive News"
   - title: "MRT3——一项昂贵的必需？ (MRT3 - a costly necessity?)"
-    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3
-images:
-  - role: scene
-    src: /media/transport/mrt3-circle-line/body-1.webp
-    alt: 现有 MRT 加影线武吉免登站的地下月台，是巴生谷 MRT 车站的代表。
-    kind: representative
-    origin: third-party
-    subject: 现有巴生谷 MRT（加影线）武吉免登地下月台
-    credit: Slleong / Wikimedia Commons
-    license: CC0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:SBK_Line_Bukit_Bintang_Station_Platform_1_1.jpg
-  - role: scene
-    src: /media/transport/mrt3-circle-line/body-2.webp
-    alt: 一列布城线 MRT 列车行驶在高架桥上，横跨吉隆坡怡保路一带的天际线。
-    kind: representative
-    origin: third-party
-    subject: 横跨吉隆坡上空的高架巴生谷 MRT（布城线）高架桥
-    credit: '*angys* / Wikimedia Commons'
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Ipoh_Skyline_with_Putrajaya_Line_train_from_Batu_Kentonmen_KTM_Station_(220714).jpg
----a-costly-necessity"
+    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3---a-costly-necessity"
     publisher: "The Star"
   - title: "MRT3 的 310 亿令吉建设造价成为焦点 (MRT3's RM31 bil construction price tag in the spotlight)"
     url: "https://theedgemalaysia.com/article/mrt3s-rm31-bil-construction-price-tag-spotlight"
@@ -118,6 +98,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Train_of_MRT_Kajang_Line.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-1.webp
+    alt: 现有 MRT 加影线武吉免登站的地下月台，是巴生谷 MRT 车站的代表。
+    kind: representative
+    origin: third-party
+    subject: 现有巴生谷 MRT（加影线）武吉免登地下月台
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBK_Line_Bukit_Bintang_Station_Platform_1_1.jpg
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-2.webp
+    alt: 一列布城线 MRT 列车行驶在高架桥上，横跨吉隆坡怡保路一带的天际线。
+    kind: representative
+    origin: third-party
+    subject: 横跨吉隆坡上空的高架巴生谷 MRT（布城线）高架桥
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Ipoh_Skyline_with_Putrajaya_Line_train_from_Batu_Kentonmen_KTM_Station_(220714).jpg
 ---
 
 大多数新铁路线的兴建，是为了把人们送往新的地方。MRT3 环线的兴建，却是为了把吉隆坡已有的线路捆绑在一起——一条环绕城市的环线，主要任务是连接，而非覆盖。

@@ -37,7 +37,7 @@ faq:
     a: "Le projet a été annulé en mai 2018 sous le gouvernement Pakatan Harapan pour des raisons budgétaires. Il a été mis en révision à partir de fin 2019, a reçu l'approbation du Cabinet pour avancer de nouveau en 2021 et a été reconfirmé en mars 2022. Après une enquête publique fin 2024, le Schéma ferroviaire final a été approuvé en juillet 2025, permettant à l'expropriation foncière et, à terme, à la construction d'avancer."
 
 lang: "fr"
-sourceContentHash: "563a889abce3b119"
+sourceContentHash: "935beaf378ec25f3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,27 +78,7 @@ sources:
     url: "https://paultan.org/2025/07/18/mrt3-is-a-go-51-6-km-circle-line-approved-by-transport-ministry-land-acquisition-is-the-next-step/"
     publisher: "Paul Tan's Automotive News"
   - title: "MRT3 - une nécessité coûteuse ? (MRT3 - a costly necessity?)"
-    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3
-images:
-  - role: scene
-    src: /media/transport/mrt3-circle-line/body-1.webp
-    alt: Le quai souterrain de Bukit Bintang sur l'actuelle ligne Kajang du MRT, représentatif des stations de MRT de la Klang Valley.
-    kind: representative
-    origin: third-party
-    subject: Quai souterrain du MRT existant de la Klang Valley (ligne Kajang) à Bukit Bintang
-    credit: Slleong / Wikimedia Commons
-    license: CC0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:SBK_Line_Bukit_Bintang_Station_Platform_1_1.jpg
-  - role: scene
-    src: /media/transport/mrt3-circle-line/body-2.webp
-    alt: Une rame de MRT de la ligne Putrajaya sur un viaduc aérien traversant la ligne d'horizon de Jalan Ipoh, à Kuala Lumpur.
-    kind: representative
-    origin: third-party
-    subject: Viaduc aérien du MRT de la Klang Valley (ligne Putrajaya) au-dessus de Kuala Lumpur
-    credit: '*angys* / Wikimedia Commons'
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Ipoh_Skyline_with_Putrajaya_Line_train_from_Batu_Kentonmen_KTM_Station_(220714).jpg
----a-costly-necessity"
+    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3---a-costly-necessity"
     publisher: "The Star"
   - title: "Le prix de construction de RM31 milliards du MRT3 sous les projecteurs (MRT3's RM31 bil construction price tag in the spotlight)"
     url: "https://theedgemalaysia.com/article/mrt3s-rm31-bil-construction-price-tag-spotlight"
@@ -118,6 +98,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Train_of_MRT_Kajang_Line.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-1.webp
+    alt: Le quai souterrain de Bukit Bintang sur l'actuelle ligne Kajang du MRT, représentatif des stations de MRT de la Klang Valley.
+    kind: representative
+    origin: third-party
+    subject: Quai souterrain du MRT existant de la Klang Valley (ligne Kajang) à Bukit Bintang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBK_Line_Bukit_Bintang_Station_Platform_1_1.jpg
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-2.webp
+    alt: Une rame de MRT de la ligne Putrajaya sur un viaduc aérien traversant la ligne d'horizon de Jalan Ipoh, à Kuala Lumpur.
+    kind: representative
+    origin: third-party
+    subject: Viaduc aérien du MRT de la Klang Valley (ligne Putrajaya) au-dessus de Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Ipoh_Skyline_with_Putrajaya_Line_train_from_Batu_Kentonmen_KTM_Station_(220714).jpg
 ---
 
 La plupart des nouvelles lignes ferroviaires sont construites pour emmener les gens quelque part de nouveau. Le MRT3 Circle Line est construit pour relier entre elles les lignes que Kuala Lumpur possède déjà — un anneau autour de la ville dont la mission principale est la connexion, non la couverture.

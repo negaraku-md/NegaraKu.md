@@ -41,7 +41,7 @@ faq:
 lang: "fr"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "295c9b83682e382f"
+sourceContentHash: "f5f3575ac3242104"
 
 status: "archived"
 aiAssisted: true
@@ -87,27 +87,7 @@ sources:
     url: "https://www.bnm.gov.my/governors/rasheed"
     publisher: "Bank Negara Malaysia"
   - title: "Policy consistency, strong fundamentals anchor investor confidence — Bank Negara governor"
-    url: "https://www.thestar.com.my/business/business-news/2026/08/14/policy-consistency-strong-fundamentals-anchor-investor-confidence
-images:
-  - role: scene
-    src: /media/government/bank-negara-malaysia/body-1.webp
-    alt: L'entrée d'un bureau de la Bank Negara Malaysia à Kota Kinabalu, affichant le nom de la banque centrale et l'emblème du kijang avec les drapeaux de la Malaisie et de Sabah
-    kind: actual
-    origin: third-party
-    subject: Bureau régional de la Bank Negara Malaysia à Kota Kinabalu, Sabah, avec le nom de la banque centrale et l'emblème du kijang
-    credit: CEphoto, Uwe Aranas / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Bank-Negara-Malaysia-02.jpg
-  - role: scene
-    src: /media/government/bank-negara-malaysia/body-2.webp
-    alt: Un des premiers billets de ringgit de la Bank Negara Malaysia issu de la première série de 1967, portant le nom de la banque centrale
-    kind: actual
-    origin: third-party
-    subject: Premier billet de ringgit de la Bank Negara Malaysia (spécimen de la série de 1967)
-    credit: Bank Negara Malaysia / Wikimedia Commons
-    license: Public domain
-    sourceUrl: https://commons.wikimedia.org/wiki/File:SERIBU_RINGGIT_-_OBSERVE_VIEW_(1967).png
----bank-negara-governo"
+    url: "https://www.thestar.com.my/business/business-news/2026/08/14/policy-consistency-strong-fundamentals-anchor-investor-confidence---bank-negara-governo"
     publisher: "The Star"
     date: "2026-08-14"
   - title: "MPC Meeting Decision Schedule — tag/mpc-2026"
@@ -133,6 +113,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Central_Bank_of_Malaysia_headquarters,_Kuala_Lumpur.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-1.webp
+    alt: L'entrée d'un bureau de la Bank Negara Malaysia à Kota Kinabalu, affichant le nom de la banque centrale et l'emblème du kijang avec les drapeaux de la Malaisie et de Sabah
+    kind: actual
+    origin: third-party
+    subject: Bureau régional de la Bank Negara Malaysia à Kota Kinabalu, Sabah, avec le nom de la banque centrale et l'emblème du kijang
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Bank-Negara-Malaysia-02.jpg
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-2.webp
+    alt: Un des premiers billets de ringgit de la Bank Negara Malaysia issu de la première série de 1967, portant le nom de la banque centrale
+    kind: actual
+    origin: third-party
+    subject: Premier billet de ringgit de la Bank Negara Malaysia (spécimen de la série de 1967)
+    credit: Bank Negara Malaysia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SERIBU_RINGGIT_-_OBSERVE_VIEW_(1967).png
 ---
 
 Chaque fois qu'un titre annonce que les taux d'intérêt sont maintenus, que le ringgit a glissé face au dollar ou qu'une banque s'est vu ordonner de resserrer ses prêts, c'est la même institution qui se tient derrière l'histoire. Elle opère depuis un complexe aux allures de forteresse sur Jalan Dato' Onn, à Kuala Lumpur, elle ne vous prête jamais directement le moindre centime, et pourtant presque chaque ringgit de votre poche et chaque prêt de votre relevé passent par des règles qu'elle écrit. Cette institution est Bank Negara Malaysia — et la plupart de ce que les gens supposent qu'elle fait n'est qu'à moitié exact ou relève entièrement d'une autre agence.

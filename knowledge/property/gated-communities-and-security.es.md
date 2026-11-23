@@ -28,7 +28,7 @@ faq:
     a: "Una RA es una sociedad registrada bajo el Societies Act 1966, no un organismo legal — no tiene un poder comparable al de un Joint Management Body o una Management Corporation para obligar al pago. Los tribunales han permitido que una RA exija a un residente moroso operar él mismo una barrera de pluma compartida, pero negar la entrada a un residente directamente corre el riesgo de ser una molestia accionable judicialmente."
 
 lang: "es"
-sourceContentHash: "5d0d6e50f897a3e0"
+sourceContentHash: "be09434e883ecaf2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -53,27 +53,7 @@ sources:
     publisher: "Departamento de Planificación Urbana y Rural de la Malasia Peninsular, Ministerio de Vivienda y Gobierno Local (KPKT)"
     date: "2010-09-02"
   - title: "Street, Drainage and Building Act 1974 (Act 133) — texto de reimpresión oficial, s.46 (Obstrucción) (Street, Drainage and Building Act 1974 (Act 133) — official reprint text, s.46 (Obstruction))"
-    url: "https://www.ppj.gov.my/storage/7476/133
-images:
-  - role: scene
-    src: /media/property/gated-communities-and-security/body-1.webp
-    alt: Arden Hill, una urbanización cerrada de lujo dentro del municipio de Forest Heights en Seremban, dispone viviendas con terreno tras un único perímetro controlado.
-    kind: actual
-    origin: third-party
-    subject: Urbanización cerrada de lujo Arden Hill, Forest Heights, Seremban
-    credit: AyyanD / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
-  - role: scene
-    src: /media/property/gated-communities-and-security/body-2.webp
-    alt: Viviendas con terreno y vegetación cuidada llenan el municipio cerrado y vigilado de Horizon Hills en Iskandar Puteri, Johor, un amplio enclave residencial gestionado con seguridad.
-    kind: actual
-    origin: third-party
-    subject: Municipio cerrado Horizon Hills, Iskandar Puteri, Johor
-    credit: Chongkian / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
----STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
+    url: "https://www.ppj.gov.my/storage/7476/133---STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
     publisher: "Leyes de Malasia / Perbadanan Putrajaya"
   - title: "Strata Management Act 2013 (Act 757), ss.17, 21, 32 — constitución, facultades y estatutos del Joint Management Body (Strata Management Act 2013 (Act 757), ss.17, 21, 32 — establishment, powers and by-laws of the Joint Management Body)"
     url: "https://www.leepartners.my/wp-content/uploads/2016/08/STRATA_MANAGEMENT_ACT_2013_ACT_757.pdf"
@@ -99,6 +79,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-1.webp
+    alt: Arden Hill, una urbanización cerrada de lujo dentro del municipio de Forest Heights en Seremban, dispone viviendas con terreno tras un único perímetro controlado.
+    kind: actual
+    origin: third-party
+    subject: Urbanización cerrada de lujo Arden Hill, Forest Heights, Seremban
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-2.webp
+    alt: Viviendas con terreno y vegetación cuidada llenan el municipio cerrado y vigilado de Horizon Hills en Iskandar Puteri, Johor, un amplio enclave residencial gestionado con seguridad.
+    kind: actual
+    origin: third-party
+    subject: Municipio cerrado Horizon Hills, Iskandar Puteri, Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
 ---
 
 Dos zonas residenciales pueden verse idénticas — caseta de guardia de ladrillo, barrera de pluma a rayas, guardia uniformado comprobando su pegatina. Una se asienta sobre un terreno legal sólido. La otra existe porque nadie la ha cuestionado todavía.

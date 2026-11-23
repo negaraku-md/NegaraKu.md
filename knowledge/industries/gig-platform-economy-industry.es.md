@@ -31,7 +31,7 @@ faq:
   - q: ¿Es esto lo mismo que el artículo sobre la Ley de Trabajadores Gig?
     a: 'No. El artículo sobre la Ley de Trabajadores Gig de 2025 explica la ley en sí: derechos, contratos y el tribunal. Este artículo cubre el sector económico: qué tamaño tiene la economía gig y de plataformas, quiénes son las principales plataformas y cómo encaja en la economía digital más amplia.'
 lang: es
-sourceContentHash: "a1c033e7ed54660d"
+sourceContentHash: "18e840f22ec2e770"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -60,27 +60,7 @@ sources:
     url: https://mohr.gov.my/images/pdf/KENYATAAN%20MEDIA%20PEKERJA%20GIG.pdf
     publisher: Ministerio de Recursos Humanos (KESUMA), Malasia
   - title: El Gabinete aprueba la SEGiM para salvaguardar el bienestar de los trabajadores gig (Cabinet approves SEGiM to safeguard gig workers' welfare)
-    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig
-images:
-  - role: scene
-    src: /media/industries/gig-platform-economy-industry/body-1.webp
-    alt: Un repartidor de comida con chaqueta y casco rosa de Foodpanda sobre una motocicleta tipo underbone (kapcai), que lleva una gran caja de reparto térmica rosa de Foodpanda mientras está detenido en el tráfico.
-    kind: representative
-    origin: third-party
-    subject: Repartidor de comida en moto de Foodpanda con caja de reparto térmica rosa (trabajo representativo de plataformas gig; no Grab)
-    credit: Chainwit. / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
-  - role: scene
-    src: /media/industries/gig-platform-economy-industry/body-2.webp
-    alt: Un repartidor de comida de plataforma de pie en la acera con una gran mochila térmica de reparto de comida.
-    kind: representative
-    origin: third-party
-    subject: Repartidor de comida con una bolsa térmica de reparto de plataforma (no Grab)
-    credit: Alexander Corkhill / Wikimedia Commons
-    license: CC BY 2.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
----tpm
+    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig---tpm
     publisher: Sinar Harian
   - title: El Parlamento aprueba el Proyecto de Ley de Trabajadores Gig de 2025 (Parliament Passes Gig Workers Bill 2025)
     url: https://ringgitplus.com/en/blog/personal-finance-news/parliament-passes-gig-workers-bill-2025.html
@@ -125,6 +105,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-1.webp
+    alt: Un repartidor de comida con chaqueta y casco rosa de Foodpanda sobre una motocicleta tipo underbone (kapcai), que lleva una gran caja de reparto térmica rosa de Foodpanda mientras está detenido en el tráfico.
+    kind: representative
+    origin: third-party
+    subject: Repartidor de comida en moto de Foodpanda con caja de reparto térmica rosa (trabajo representativo de plataformas gig; no Grab)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-2.webp
+    alt: Un repartidor de comida de plataforma de pie en la acera con una gran mochila térmica de reparto de comida.
+    kind: representative
+    origin: third-party
+    subject: Repartidor de comida con una bolsa térmica de reparto de plataforma (no Grab)
+    credit: Alexander Corkhill / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
 ---
 
 Cada día, millones de transacciones en Malasia se organizan no por una tienda, una oficina o una parada de taxis, sino por una aplicación: un coche convocado a un bordillo, una bolsa de comida llevada por la ciudad en una motocicleta, un logotipo diseñado para un cliente que el autónomo nunca conocerá. Esta es la economía gig y de plataformas —trabajo mediado por plataformas digitales— y en poco más de una década ha pasado de ser una novedad a uno de los rasgos más visibles de la vida laboral malasia.

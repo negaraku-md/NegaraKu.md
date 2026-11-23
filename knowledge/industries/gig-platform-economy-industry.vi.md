@@ -31,7 +31,7 @@ faq:
   - q: Đây có giống bài viết về Đạo luật Lao động Gig không?
     a: "Không. Bài viết về Đạo luật Lao động Gig 2025 giải thích chính bản thân luật — quyền, hợp đồng và tòa án. Bài viết này bao quát khu vực kinh tế — kinh tế gig và nền tảng lớn đến đâu, ai là các nền tảng chính, và nó khớp vào nền kinh tế số rộng hơn ra sao."
 lang: vi
-sourceContentHash: "a1c033e7ed54660d"
+sourceContentHash: "18e840f22ec2e770"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -60,27 +60,7 @@ sources:
     url: https://mohr.gov.my/images/pdf/KENYATAAN%20MEDIA%20PEKERJA%20GIG.pdf
     publisher: Bộ Nhân lực (KESUMA), Malaysia
   - title: Nội các phê duyệt SEGiM để bảo vệ phúc lợi lao động gig (Cabinet approves SEGiM to safeguard gig workers' welfare)
-    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig
-images:
-  - role: scene
-    src: /media/industries/gig-platform-economy-industry/body-1.webp
-    alt: Một tài xế giao đồ ăn mặc áo khoác và đội mũ bảo hiểm foodpanda màu hồng trên một chiếc xe máy số (kapcai), chở một thùng giao hàng giữ nhiệt foodpanda màu hồng lớn trong lúc dừng giữa dòng xe trên phố.
-    kind: representative
-    origin: third-party
-    subject: Tài xế giao đồ ăn bằng xe máy Foodpanda với thùng giao hàng giữ nhiệt màu hồng (minh họa công việc nền tảng gig; không phải Grab)
-    credit: Chainwit. / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
-  - role: scene
-    src: /media/industries/gig-platform-economy-industry/body-2.webp
-    alt: Một người giao đồ ăn qua nền tảng đứng trên vỉa hè, đeo một chiếc ba lô giao đồ ăn giữ nhiệt cỡ lớn.
-    kind: representative
-    origin: third-party
-    subject: Người giao đồ ăn với túi giao hàng nền tảng giữ nhiệt (không phải Grab)
-    credit: Alexander Corkhill / Wikimedia Commons
-    license: CC BY 2.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
----tpm
+    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig---tpm
     publisher: Sinar Harian
   - title: Nghị viện thông qua Dự luật Lao động Gig 2025 (Parliament Passes Gig Workers Bill 2025)
     url: https://ringgitplus.com/en/blog/personal-finance-news/parliament-passes-gig-workers-bill-2025.html
@@ -125,6 +105,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-1.webp
+    alt: Một tài xế giao đồ ăn mặc áo khoác và đội mũ bảo hiểm foodpanda màu hồng trên một chiếc xe máy số (kapcai), chở một thùng giao hàng giữ nhiệt foodpanda màu hồng lớn trong lúc dừng giữa dòng xe trên phố.
+    kind: representative
+    origin: third-party
+    subject: Tài xế giao đồ ăn bằng xe máy Foodpanda với thùng giao hàng giữ nhiệt màu hồng (minh họa công việc nền tảng gig; không phải Grab)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-2.webp
+    alt: Một người giao đồ ăn qua nền tảng đứng trên vỉa hè, đeo một chiếc ba lô giao đồ ăn giữ nhiệt cỡ lớn.
+    kind: representative
+    origin: third-party
+    subject: Người giao đồ ăn với túi giao hàng nền tảng giữ nhiệt (không phải Grab)
+    credit: Alexander Corkhill / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
 ---
 
 Mỗi ngày, hàng triệu giao dịch ở Malaysia được sắp xếp không phải bởi một cửa hàng, một văn phòng hay một bến taxi, mà bởi một ứng dụng: một chiếc xe được gọi đến lề đường, một túi đồ ăn được chở qua thành phố trên một chiếc xe máy, một logo được thiết kế cho một khách hàng mà người làm nghề tự do sẽ không bao giờ gặp. Đây là kinh tế gig và nền tảng — công việc được làm trung gian qua các nền tảng số — và trong hơn một thập kỷ ngắn ngủi, nó đã chuyển từ một điều mới lạ thành một trong những đặc điểm dễ thấy nhất của đời sống lao động Malaysia.

@@ -28,7 +28,7 @@ faq:
     a: "رابطة السكان جمعية مسجّلة بموجب قانون الجمعيات لسنة 1966 (Societies Act 1966)، وليست هيئة قانونية — فلا تملك سلطة تماثل سلطة هيئة الإدارة المشتركة (Joint Management Body) أو مؤسسة الإدارة (Management Corporation) لإجبارك على الدفع. وقد سمحت المحاكم لرابطة سكان بأن تطالب ساكنًا غير دافع بأن يشغّل بوابة مشتركة بنفسه، لكن حرمان ساكن من الدخول حرمانًا تامًا يخاطر بأن يكون إزعاجًا (nuisance) قابلًا للتقاضي."
 
 lang: "ar"
-sourceContentHash: "5d0d6e50f897a3e0"
+sourceContentHash: "be09434e883ecaf2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -53,27 +53,7 @@ sources:
     publisher: "دائرة تخطيط المدن والريف لشبه جزيرة ماليزيا، وزارة الإسكان والحكومة المحلية (KPKT)"
     date: "2010-09-02"
   - title: "Street, Drainage and Building Act 1974 (Act 133) — النص الرسمي المعاد طبعه، المادة 46 (العوائق) (Street, Drainage and Building Act 1974 (Act 133) — official reprint text, s.46 (Obstruction))"
-    url: "https://www.ppj.gov.my/storage/7476/133
-images:
-  - role: scene
-    src: /media/property/gated-communities-and-security/body-1.webp
-    alt: يُنظّم Arden Hill، وهو مجمّع سكني مسوَّر راقٍ داخل بلدة Forest Heights في سيرمبان، منازل أرضية خلف محيط واحد خاضع للرقابة.
-    kind: actual
-    origin: third-party
-    subject: مجمّع Arden Hill السكني المسوَّر الراقي، Forest Heights، سيرمبان
-    credit: AyyanD / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
-  - role: scene
-    src: /media/property/gated-communities-and-security/body-2.webp
-    alt: تملأ المنازل الأرضية والمساحات الخضراء المنسّقة بلدة Horizon Hills المسوَّرة والمحروسة في Iskandar Puteri، جوهور، وهي حيّ سكني كبير مُدار أمنيًا.
-    kind: actual
-    origin: third-party
-    subject: بلدة Horizon Hills المسوَّرة، Iskandar Puteri، جوهور
-    credit: Chongkian / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
----STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
+    url: "https://www.ppj.gov.my/storage/7476/133---STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
     publisher: "قوانين ماليزيا / مؤسسة بوتراجايا (Perbadanan Putrajaya)"
   - title: "Strata Management Act 2013 (Act 757)، المواد 17 و21 و32 — إنشاء هيئة الإدارة المشتركة وصلاحياتها ولوائحها الداخلية (Strata Management Act 2013 (Act 757), ss.17, 21, 32 — establishment, powers and by-laws of the Joint Management Body)"
     url: "https://www.leepartners.my/wp-content/uploads/2016/08/STRATA_MANAGEMENT_ACT_2013_ACT_757.pdf"
@@ -99,6 +79,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-1.webp
+    alt: يُنظّم Arden Hill، وهو مجمّع سكني مسوَّر راقٍ داخل بلدة Forest Heights في سيرمبان، منازل أرضية خلف محيط واحد خاضع للرقابة.
+    kind: actual
+    origin: third-party
+    subject: مجمّع Arden Hill السكني المسوَّر الراقي، Forest Heights، سيرمبان
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-2.webp
+    alt: تملأ المنازل الأرضية والمساحات الخضراء المنسّقة بلدة Horizon Hills المسوَّرة والمحروسة في Iskandar Puteri، جوهور، وهي حيّ سكني كبير مُدار أمنيًا.
+    kind: actual
+    origin: third-party
+    subject: بلدة Horizon Hills المسوَّرة، Iskandar Puteri، جوهور
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
 ---
 
 يمكن أن تبدو منطقتان سكنيتان متطابقتين — كشك حراسة من الطوب، بوابة متحركة مخطّطة، حارس بزيّه يفحص ملصق سيارتك. إحداهما تقوم على أرضية قانونية راسخة. والأخرى قائمة لأن لا أحد طعن فيها بعد.

@@ -37,7 +37,7 @@ faq:
     a: "सबाह, सारावाक और लाबुआन में डीज़ल RM2.15 प्रति लीटर पर रखा जाता है और प्रायद्वीप की तरह स्वतंत्र नहीं किया जाता। RM1.99 वाली सब्सिडी वाली RON95 कीमत पूरे देश में पात्र नागरिकों पर लागू होती है।"
 
 lang: "hi"
-sourceContentHash: "e18d2fccb4cddc2e"
+sourceContentHash: "d36719911ef1139c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,27 +71,7 @@ sources:
     url: "https://www.mof.gov.my/portal/en/news/press-release/government-implements-targeted-diesel-subsidy-for-peninsular-malaysia-effective-10-june-2024"
     publisher: "मलेशिया वित्त मंत्रालय (MOF)"
   - title: "सरकार डीज़ल सब्सिडी युक्तिकरण से RM5 बिलियन बचाती है — MoF (Govt Saves RM5 Bln Through Diesel Subsidy Rationalisation — MoF)"
-    url: "https://www.mof.gov.my/portal/en/news/press-citations/govt-saves-rm5-bln-through-diesel-subsidy-rationalisation
-images:
-  - role: scene
-    src: /media/energy/fuel-subsidy-system/body-1.webp
-    alt: कई ईंधन-पंप द्वीपों पर लाल किनारी वाले छत्र वाला एक Shell पेट्रोल स्टेशन, सड़क किनारे पाइलन साइन पर पीला Shell pecten लोगो, और पास में दुकानें व कारें, चमकीले आकाश के नीचे
-    kind: actual
-    origin: third-party
-    subject: जोहोर बाहरू के तामान पेलंगी में एक Shell पेट्रोल स्टेशन का फोरकोर्ट, छत्र के नीचे ईंधन-पंप द्वीप
-    credit: Chongkian / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Taman_Pelangi.jpg
-  - role: scene
-    src: /media/energy/fuel-subsidy-system/body-2.webp
-    alt: एक पेट्रोल स्टेशन का फोरकोर्ट, जिसमें ईंधन पंपों को ढकता एक चौड़ा सपाट छत्र है, सड़क किनारे खड़ा एक ऊँचा रोशन मूल्य-बोर्ड पाइलन और साथ में एक सुविधा-स्टोर इमारत, बादल भरे दिन में
-    kind: actual
-    origin: third-party
-    subject: सेलांगोर के इजोक में एक FIVE पेट्रोल स्टेशन, मलेशिया की स्वतंत्र ईंधन-खुदरा शृंखलाओं में से एक, अपने फोरकोर्ट और मूल्य पाइलन के साथ
-    credit: '*angys* / Wikimedia Commons'
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Ijok_FIVE_petrol_station_(230318).jpg
----mof"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/govt-saves-rm5-bln-through-diesel-subsidy-rationalisation---mof"
     publisher: "मलेशिया वित्त मंत्रालय (MOF)"
   - title: "BUDI Diesel कल से शुरू, 700,000 वाहन मालिक RM2.10 प्रति लीटर चुकाएँगे (BUDI Diesel Starts Tomorrow, 700,000 Vehicle Owners To Pay RM2.10 A Litre)"
     url: "https://www.mof.gov.my/portal/en/news/press-citations/budi-diesel-starts-tomorrow-700-000-vehicle-owners-to-pay-rm2-10-a-litre"
@@ -161,6 +141,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Tan_Swee_Hoe_-_Petronas_Petrol_Station.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-1.webp
+    alt: कई ईंधन-पंप द्वीपों पर लाल किनारी वाले छत्र वाला एक Shell पेट्रोल स्टेशन, सड़क किनारे पाइलन साइन पर पीला Shell pecten लोगो, और पास में दुकानें व कारें, चमकीले आकाश के नीचे
+    kind: actual
+    origin: third-party
+    subject: जोहोर बाहरू के तामान पेलंगी में एक Shell पेट्रोल स्टेशन का फोरकोर्ट, छत्र के नीचे ईंधन-पंप द्वीप
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Taman_Pelangi.jpg
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-2.webp
+    alt: एक पेट्रोल स्टेशन का फोरकोर्ट, जिसमें ईंधन पंपों को ढकता एक चौड़ा सपाट छत्र है, सड़क किनारे खड़ा एक ऊँचा रोशन मूल्य-बोर्ड पाइलन और साथ में एक सुविधा-स्टोर इमारत, बादल भरे दिन में
+    kind: actual
+    origin: third-party
+    subject: सेलांगोर के इजोक में एक FIVE पेट्रोल स्टेशन, मलेशिया की स्वतंत्र ईंधन-खुदरा शृंखलाओं में से एक, अपने फोरकोर्ट और मूल्य पाइलन के साथ
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ijok_FIVE_petrol_station_(230318).jpg
 ---
 
 दशकों तक, मलेशिया में हर कोई — करोड़पति हो या रबर टैपर — पंप पर पेट्रोल के लिए एक ही कीमत चुकाता था। 30 सितंबर 2025 को वह व्यवस्था समाप्त हो गई। अब एक लीटर RON95 आपके लिए RM1.99 का हो सकता है लेकिन आपके पड़ोसी के लिए लगभग दोगुना, और इसे जो तय करता है वह विश्व तेल की कीमत नहीं बल्कि वह पहचान पत्र है जिसे आप टर्मिनल में डालते हैं।

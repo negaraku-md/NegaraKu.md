@@ -86,27 +86,7 @@ sources:
     url: "https://www.bnm.gov.my/governors/rasheed"
     publisher: "Bank Negara Malaysia"
   - title: "Policy consistency, strong fundamentals anchor investor confidence — Bank Negara governor"
-    url: "https://www.thestar.com.my/business/business-news/2026/08/14/policy-consistency-strong-fundamentals-anchor-investor-confidence
-images:
-  - role: scene
-    src: /media/government/bank-negara-malaysia/body-1.webp
-    alt: The entrance of a Bank Negara Malaysia office in Kota Kinabalu, displaying the central bank's name and kijang emblem with the Malaysian and Sabah flags
-    kind: actual
-    origin: third-party
-    subject: Bank Negara Malaysia regional office in Kota Kinabalu, Sabah, with the central bank's name and kijang emblem
-    credit: CEphoto, Uwe Aranas / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Bank-Negara-Malaysia-02.jpg
-  - role: scene
-    src: /media/government/bank-negara-malaysia/body-2.webp
-    alt: An early Bank Negara Malaysia ringgit banknote from the 1967 first series, bearing the central bank's name
-    kind: actual
-    origin: third-party
-    subject: Early Bank Negara Malaysia ringgit banknote (1967 series specimen)
-    credit: Bank Negara Malaysia / Wikimedia Commons
-    license: Public domain
-    sourceUrl: https://commons.wikimedia.org/wiki/File:SERIBU_RINGGIT_-_OBSERVE_VIEW_(1967).png
----bank-negara-governo"
+    url: "https://www.thestar.com.my/business/business-news/2026/08/14/policy-consistency-strong-fundamentals-anchor-investor-confidence---bank-negara-governo"
     publisher: "The Star"
     date: "2026-08-14"
   - title: "MPC Meeting Decision Schedule — tag/mpc-2026"
@@ -132,6 +112,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Central_Bank_of_Malaysia_headquarters,_Kuala_Lumpur.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-1.webp
+    alt: The entrance of a Bank Negara Malaysia office in Kota Kinabalu, displaying the central bank's name and kijang emblem with the Malaysian and Sabah flags
+    kind: actual
+    origin: third-party
+    subject: Bank Negara Malaysia regional office in Kota Kinabalu, Sabah, with the central bank's name and kijang emblem
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Bank-Negara-Malaysia-02.jpg
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-2.webp
+    alt: An early Bank Negara Malaysia ringgit banknote from the 1967 first series, bearing the central bank's name
+    kind: actual
+    origin: third-party
+    subject: Early Bank Negara Malaysia ringgit banknote (1967 series specimen)
+    credit: Bank Negara Malaysia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SERIBU_RINGGIT_-_OBSERVE_VIEW_(1967).png
 ---
 
 Every time a headline says interest rates are holding, the ringgit slipped against

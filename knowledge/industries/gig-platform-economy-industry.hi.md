@@ -31,7 +31,7 @@ faq:
   - q: क्या यह Gig Workers Act वाले लेख के समान है?
     a: "नहीं। Gig Workers Act 2025 वाला लेख कानून को ही समझाता है — अधिकार, अनुबंध और अधिकरण। यह लेख आर्थिक क्षेत्र को समेटता है — गिग एवं प्लेटफ़ॉर्म अर्थव्यवस्था कितनी बड़ी है, मुख्य प्लेटफ़ॉर्म कौन हैं, और यह व्यापक डिजिटल अर्थव्यवस्था में कैसे समाती है।"
 lang: hi
-sourceContentHash: "a1c033e7ed54660d"
+sourceContentHash: "18e840f22ec2e770"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -60,27 +60,7 @@ sources:
     url: https://mohr.gov.my/images/pdf/KENYATAAN%20MEDIA%20PEKERJA%20GIG.pdf
     publisher: मानव संसाधन मंत्रालय (KESUMA), मलेशिया
   - title: कैबिनेट ने गिग श्रमिकों के कल्याण की रक्षा के लिए SEGiM को मंज़ूरी दी (Cabinet approves SEGiM to safeguard gig workers' welfare)
-    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig
-images:
-  - role: scene
-    src: /media/industries/gig-platform-economy-industry/body-1.webp
-    alt: गुलाबी Foodpanda जैकेट और हेलमेट पहने एक खाना-डिलीवरी राइडर एक अंडरबोन (kapcai) मोटरसाइकिल पर एक बड़ा गुलाबी Foodpanda इंसुलेटेड डिलीवरी बॉक्स ले जाते हुए सड़क के ट्रैफ़िक में रुका है।
-    kind: representative
-    origin: third-party
-    subject: गुलाबी इंसुलेटेड डिलीवरी बॉक्स के साथ Foodpanda मोटरसाइकिल खाना-डिलीवरी राइडर (प्रतिनिधि गिग प्लेटफ़ॉर्म कार्य; गैर-Grab)
-    credit: Chainwit. / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
-  - role: scene
-    src: /media/industries/gig-platform-economy-industry/body-2.webp
-    alt: फुटपाथ पर खड़ा एक प्लेटफ़ॉर्म खाना-डिलीवरी कूरियर एक बड़ा इंसुलेटेड फ़ूड डिलीवरी बैकपैक पहने हुए।
-    kind: representative
-    origin: third-party
-    subject: इंसुलेटेड प्लेटफ़ॉर्म डिलीवरी बैग के साथ खाना-डिलीवरी कूरियर (गैर-Grab)
-    credit: Alexander Corkhill / Wikimedia Commons
-    license: CC BY 2.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
----tpm
+    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig---tpm
     publisher: Sinar Harian
   - title: संसद ने Gig Workers Bill 2025 पारित किया (Parliament Passes Gig Workers Bill 2025)
     url: https://ringgitplus.com/en/blog/personal-finance-news/parliament-passes-gig-workers-bill-2025.html
@@ -125,6 +105,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-1.webp
+    alt: गुलाबी Foodpanda जैकेट और हेलमेट पहने एक खाना-डिलीवरी राइडर एक अंडरबोन (kapcai) मोटरसाइकिल पर एक बड़ा गुलाबी Foodpanda इंसुलेटेड डिलीवरी बॉक्स ले जाते हुए सड़क के ट्रैफ़िक में रुका है।
+    kind: representative
+    origin: third-party
+    subject: गुलाबी इंसुलेटेड डिलीवरी बॉक्स के साथ Foodpanda मोटरसाइकिल खाना-डिलीवरी राइडर (प्रतिनिधि गिग प्लेटफ़ॉर्म कार्य; गैर-Grab)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-2.webp
+    alt: फुटपाथ पर खड़ा एक प्लेटफ़ॉर्म खाना-डिलीवरी कूरियर एक बड़ा इंसुलेटेड फ़ूड डिलीवरी बैकपैक पहने हुए।
+    kind: representative
+    origin: third-party
+    subject: इंसुलेटेड प्लेटफ़ॉर्म डिलीवरी बैग के साथ खाना-डिलीवरी कूरियर (गैर-Grab)
+    credit: Alexander Corkhill / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
 ---
 
 हर दिन, मलेशिया में लाखों लेन-देन किसी दुकान, कार्यालय या टैक्सी-स्टैंड द्वारा नहीं, बल्कि एक ऐप द्वारा तय किए जाते हैं: सड़क के किनारे बुलाई गई एक कार, मोटरसाइकिल पर शहर के पार ले जाया गया भोजन का एक थैला, एक ऐसे ग्राहक के लिए डिज़ाइन किया गया लोगो जिससे फ़्रीलांसर कभी नहीं मिलेगा। यह है गिग एवं प्लेटफ़ॉर्म अर्थव्यवस्था — डिजिटल प्लेटफ़ॉर्मों द्वारा मध्यस्थता किया गया काम — और केवल एक दशक से कुछ अधिक समय में यह नवीनता से बढ़कर मलेशियाई कार्य-जीवन की सबसे दृश्यमान विशेषताओं में से एक बन गई है।

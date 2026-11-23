@@ -41,7 +41,7 @@ faq:
     a: "सटीक तिथि विवादित है। कुछ रिकॉर्ड राष्ट्रीय संचालक निकाय की स्थापना 1926 में रखते हैं, जबकि अन्य 1933 का उल्लेख करते हैं, जब सिंगापुर-आधारित फुटबॉल एसोसिएशन ऑफ मलाया ने मलाया कप का संचालन संभाला। जो स्पष्ट और सत्यापन-योग्य है वह है राष्ट्रीय संचालक निकाय, AFC के सदस्य, और 1984 में AFF के संस्थापक के रूप में इसकी आज की भूमिका।"
 
 lang: "hi"
-sourceContentHash: "ee9fdc30adb8894c"
+sourceContentHash: "e9227c4406031f36"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,27 +73,7 @@ sources:
     url: "https://www.freemalaysiatoday.com/category/nation/2026/06/12/harimau-malaya-climb-2-spots-in-fifa-rankings-to-136th"
     publisher: "Free Malaysia Today"
   - title: "अलविदा, सैयद अहमद – वह दिग्गज जिसने फुटबॉल टीम को 1972 म्यूनिख ओलंपिक तक पहुँचाया (So long, Syed Ahmad – the legend who steered football team to 1972 Munich Olympics)"
-    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad
-images:
-  - role: scene
-    src: /media/sports/football-in-malaysia/body-1.webp
-    alt: Paroi, Seremban, Negeri Sembilan में Stadium Tuanku Abdul Rahman के मैदान पर चल रहा एक फुटबॉल मैच।
-    kind: actual
-    origin: third-party
-    subject: Paroi, Negeri Sembilan में Stadium Tuanku Abdul Rahman में एक फुटबॉल मैच
-    credit: Mohd Izzudin / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
-  - role: scene
-    src: /media/sports/football-in-malaysia/body-2.webp
-    alt: Kota Damansara, Petaling Jaya, Selangor के एक रिहायशी मोहल्ले में खुला सार्वजनिक फुटसल कोर्ट।
-    kind: actual
-    origin: third-party
-    subject: Kota Damansara, Selangor में एक सामुदायिक फुटसल कोर्ट, मलेशियाई खेल का एक जमीनी स्तर का परिवेश
-    credit: Wiki Farazi / Wikimedia Commons
-    license: CC0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
----the-legend-who-steered-football-team-to-1972-munich-olympics"
+    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad---the-legend-who-steered-football-team-to-1972-munich-olympics"
     publisher: "The Star"
   - title: "वे अब कहाँ हैं: 2010 AFF सुज़ुकी कप के मलेशिया के इतिहास-रचयिता (Where are they now: Malaysia's history makers of the 2010 AFF Suzuki Cup)"
     url: "https://www.espn.com/soccer/story/_/id/37622930/where-now-malaysia-history-makers-2010-aff-suzuki-cup"
@@ -121,6 +101,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-1.webp
+    alt: Paroi, Seremban, Negeri Sembilan में Stadium Tuanku Abdul Rahman के मैदान पर चल रहा एक फुटबॉल मैच।
+    kind: actual
+    origin: third-party
+    subject: Paroi, Negeri Sembilan में Stadium Tuanku Abdul Rahman में एक फुटबॉल मैच
+    credit: Mohd Izzudin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-2.webp
+    alt: Kota Damansara, Petaling Jaya, Selangor के एक रिहायशी मोहल्ले में खुला सार्वजनिक फुटसल कोर्ट।
+    kind: actual
+    origin: third-party
+    subject: Kota Damansara, Selangor में एक सामुदायिक फुटसल कोर्ट, मलेशियाई खेल का एक जमीनी स्तर का परिवेश
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
 ---
 
 1921 में, मलाया में एक नए फुटबॉल टूर्नामेंट के फाइनल में सिंगापुर ने सेलंगोर को 2-1 से हराया। एक सदी से भी अधिक समय बाद, वह प्रतियोगिता — जिसे अब मलेशिया कप के रूप में जाना जाता है — देश के सबसे प्रिय खेल का सबसे प्रतिष्ठित ताज बनी हुई है।

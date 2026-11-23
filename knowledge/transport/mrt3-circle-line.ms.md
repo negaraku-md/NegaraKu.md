@@ -37,7 +37,7 @@ faq:
     a: "Projek ini dibatalkan pada Mei 2018 di bawah kerajaan Pakatan Harapan atas alasan fiskal. Ia diletakkan di bawah kajian semula dari lewat 2019, menerima kelulusan Kabinet untuk diteruskan semula pada 2021, dan disahkan semula pada Mac 2022. Selepas pemeriksaan awam pada lewat 2024, Skim Rel Muktamad diluluskan pada Julai 2025, membolehkan pengambilan tanah dan, akhirnya, pembinaan diteruskan."
 
 lang: "ms"
-sourceContentHash: "563a889abce3b119"
+sourceContentHash: "935beaf378ec25f3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,27 +78,7 @@ sources:
     url: "https://paultan.org/2025/07/18/mrt3-is-a-go-51-6-km-circle-line-approved-by-transport-ministry-land-acquisition-is-the-next-step/"
     publisher: "Paul Tan's Automotive News"
   - title: "MRT3 - keperluan yang mahal? (MRT3 - a costly necessity?)"
-    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3
-images:
-  - role: scene
-    src: /media/transport/mrt3-circle-line/body-1.webp
-    alt: Platform bawah tanah di Bukit Bintang pada Laluan Kajang MRT sedia ada, mewakili stesen MRT Lembah Klang.
-    kind: representative
-    origin: third-party
-    subject: Platform bawah tanah MRT Lembah Klang (Laluan Kajang) sedia ada di Bukit Bintang
-    credit: Slleong / Wikimedia Commons
-    license: CC0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:SBK_Line_Bukit_Bintang_Station_Platform_1_1.jpg
-  - role: scene
-    src: /media/transport/mrt3-circle-line/body-2.webp
-    alt: Sebuah kereta api MRT Laluan Putrajaya di atas jejambat atas tanah yang merentasi panorama langit Jalan Ipoh di Kuala Lumpur.
-    kind: representative
-    origin: third-party
-    subject: Jejambat MRT Lembah Klang (Laluan Putrajaya) atas tanah di atas Kuala Lumpur
-    credit: '*angys* / Wikimedia Commons'
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Ipoh_Skyline_with_Putrajaya_Line_train_from_Batu_Kentonmen_KTM_Station_(220714).jpg
----a-costly-necessity"
+    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3---a-costly-necessity"
     publisher: "The Star"
   - title: "Harga pembinaan RM31 bilion MRT3 menjadi tumpuan (MRT3's RM31 bil construction price tag in the spotlight)"
     url: "https://theedgemalaysia.com/article/mrt3s-rm31-bil-construction-price-tag-spotlight"
@@ -118,6 +98,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Train_of_MRT_Kajang_Line.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-1.webp
+    alt: Platform bawah tanah di Bukit Bintang pada Laluan Kajang MRT sedia ada, mewakili stesen MRT Lembah Klang.
+    kind: representative
+    origin: third-party
+    subject: Platform bawah tanah MRT Lembah Klang (Laluan Kajang) sedia ada di Bukit Bintang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBK_Line_Bukit_Bintang_Station_Platform_1_1.jpg
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-2.webp
+    alt: Sebuah kereta api MRT Laluan Putrajaya di atas jejambat atas tanah yang merentasi panorama langit Jalan Ipoh di Kuala Lumpur.
+    kind: representative
+    origin: third-party
+    subject: Jejambat MRT Lembah Klang (Laluan Putrajaya) atas tanah di atas Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Ipoh_Skyline_with_Putrajaya_Line_train_from_Batu_Kentonmen_KTM_Station_(220714).jpg
 ---
 
 Kebanyakan laluan rel baharu dibina untuk membawa orang ke tempat yang baharu. Laluan Bulatan MRT3 pula sedang dibina untuk mengikat bersama laluan yang sedia ada di Kuala Lumpur — satu gelang mengelilingi bandar raya yang tugas utamanya ialah sambungan, bukan liputan.

@@ -37,7 +37,7 @@ faq:
     a: "Dự án bị hủy vào tháng 5 năm 2018 dưới chính phủ Pakatan Harapan vì lý do tài khóa. Nó được đưa vào xem xét từ cuối năm 2019, nhận được sự chấp thuận của Nội các để tiếp tục lại vào năm 2021, và được tái xác nhận vào tháng 3 năm 2022. Sau một đợt tham vấn công khai cuối năm 2024, Kế hoạch Đường sắt Cuối cùng được phê duyệt vào tháng 7 năm 2025, cho phép việc thu hồi đất và cuối cùng là xây dựng được tiến hành."
 
 lang: "vi"
-sourceContentHash: "563a889abce3b119"
+sourceContentHash: "935beaf378ec25f3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,27 +78,7 @@ sources:
     url: "https://paultan.org/2025/07/18/mrt3-is-a-go-51-6-km-circle-line-approved-by-transport-ministry-land-acquisition-is-the-next-step/"
     publisher: "Paul Tan's Automotive News"
   - title: "MRT3 - một nhu cầu đắt đỏ? (MRT3 - a costly necessity?)"
-    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3
-images:
-  - role: scene
-    src: /media/transport/mrt3-circle-line/body-1.webp
-    alt: Sân ga ngầm tại Bukit Bintang trên Tuyến Kajang MRT hiện có, đại diện cho các ga MRT ở Thung lũng Klang.
-    kind: representative
-    origin: third-party
-    subject: Sân ga ngầm của tuyến MRT Thung lũng Klang (Tuyến Kajang) hiện có tại Bukit Bintang
-    credit: Slleong / Wikimedia Commons
-    license: CC0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:SBK_Line_Bukit_Bintang_Station_Platform_1_1.jpg
-  - role: scene
-    src: /media/transport/mrt3-circle-line/body-2.webp
-    alt: Một đoàn tàu MRT Tuyến Putrajaya trên cầu cạn trên cao cắt ngang đường chân trời Jalan Ipoh ở Kuala Lumpur.
-    kind: representative
-    origin: third-party
-    subject: Cầu cạn trên cao của tuyến MRT Thung lũng Klang (Tuyến Putrajaya) phía trên Kuala Lumpur
-    credit: '*angys* / Wikimedia Commons'
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Ipoh_Skyline_with_Putrajaya_Line_train_from_Batu_Kentonmen_KTM_Station_(220714).jpg
----a-costly-necessity"
+    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3---a-costly-necessity"
     publisher: "The Star"
   - title: "Giá xây dựng RM31 tỷ của MRT3 trở thành tâm điểm (MRT3's RM31 bil construction price tag in the spotlight)"
     url: "https://theedgemalaysia.com/article/mrt3s-rm31-bil-construction-price-tag-spotlight"
@@ -118,6 +98,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Train_of_MRT_Kajang_Line.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-1.webp
+    alt: Sân ga ngầm tại Bukit Bintang trên Tuyến Kajang MRT hiện có, đại diện cho các ga MRT ở Thung lũng Klang.
+    kind: representative
+    origin: third-party
+    subject: Sân ga ngầm của tuyến MRT Thung lũng Klang (Tuyến Kajang) hiện có tại Bukit Bintang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBK_Line_Bukit_Bintang_Station_Platform_1_1.jpg
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-2.webp
+    alt: Một đoàn tàu MRT Tuyến Putrajaya trên cầu cạn trên cao cắt ngang đường chân trời Jalan Ipoh ở Kuala Lumpur.
+    kind: representative
+    origin: third-party
+    subject: Cầu cạn trên cao của tuyến MRT Thung lũng Klang (Tuyến Putrajaya) phía trên Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Ipoh_Skyline_with_Putrajaya_Line_train_from_Batu_Kentonmen_KTM_Station_(220714).jpg
 ---
 
 Hầu hết các tuyến đường sắt mới được xây để chở người tới một nơi nào đó mới mẻ. MRT3 Tuyến vòng lại đang được xây để buộc các tuyến mà Kuala Lumpur đã có lại với nhau — một vòng quanh thành phố mà nhiệm vụ chính là kết nối, chứ không phải độ phủ.

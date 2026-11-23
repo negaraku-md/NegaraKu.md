@@ -31,7 +31,7 @@ faq:
   - q: Apakah insentif yang ditawarkan Malaysia kepada pelabur GBS?
     a: Laluan utama ialah status Malaysia Digital (MD), ditadbir oleh MDEC, yang boleh membuka insentif cukai untuk aktiviti digital dan perkhidmatan yang diluluskan. Pada 2024, MDEC memperkenalkan dua skim berasaskan hasil — Insentif Pelaburan Baharu dan Insentif Pengembangan — dengan permohonan dibuka sehingga 2027. Terma berubah, jadi sahkan kelayakan semasa dengan MDEC atau penasihat cukai.
 lang: ms
-sourceContentHash: "0b08e8a5a177ad84"
+sourceContentHash: "4867a776905a1b4e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -64,27 +64,7 @@ sources:
     url: https://www.digitalnewsasia.com/business/malaysias-gbs-sector-urged-expand-beyond-klang-valley-through-state-specialisation
     publisher: Digital News Asia
   - title: Status Malaysia Digital — Insentif Cukai (Malaysia Digital Status — Tax Incentives)
-    url: https://www.crowe.com/my/insights/malaysia-digital-status
-images:
-  - role: scene
-    src: /media/industries/global-business-services-industry/body-1.webp
-    alt: Sebuah bangunan pejabat korporat kaca dan konkrit bertingkat sederhana yang moden di taman perniagaan Cyberjaya, Selangor, Malaysia.
-    kind: representative
-    origin: third-party
-    subject: Bangunan pejabat korporat di Cyberjaya, hab perkhidmatan global Malaysia
-    credit: Wanobi88 / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
-  - role: scene
-    src: /media/industries/global-business-services-industry/body-2.webp
-    alt: Deretan ejen di stesen kerja komputer di seluruh ruang pusat panggilan pelan terbuka yang sangat besar.
-    kind: representative
-    origin: third-party
-    subject: Ruang pejabat pusat panggilan yang besar (mewakili tempat kerja perkhidmatan dikongsi/BPO)
-    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
-    license: Public domain
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
----tax-incentives
+    url: https://www.crowe.com/my/insights/malaysia-digital-status---tax-incentives
     publisher: Crowe Malaysia
   - title: "Sektor GBS Malaysia yang berkembang pesat: Kuasa pemacu dalam ekonomi digital (Malaysia's thriving GBS sector: A driving force in the digital economy)"
     url: https://knightfrank.com/your-space/2024-03-26-malaysias-thriving-gbs-sector-a-driving-force-in-the-digital-economy
@@ -125,6 +105,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-1.webp
+    alt: Sebuah bangunan pejabat korporat kaca dan konkrit bertingkat sederhana yang moden di taman perniagaan Cyberjaya, Selangor, Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Bangunan pejabat korporat di Cyberjaya, hab perkhidmatan global Malaysia
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-2.webp
+    alt: Deretan ejen di stesen kerja komputer di seluruh ruang pusat panggilan pelan terbuka yang sangat besar.
+    kind: representative
+    origin: third-party
+    subject: Ruang pejabat pusat panggilan yang besar (mewakili tempat kerja perkhidmatan dikongsi/BPO)
+    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
 ---
 
 Di suatu tempat di Cyberjaya atau Kuala Lumpur pada ketika ini, seorang akauntan sedang menutup buku bulanan bagi sebuah syarikat yang beribu pejabat di London, seorang ejen meja bantuan sedang menyelesaikan tiket bagi pelanggan di Sydney, dan seorang penganalisis data sedang membina papan pemuka bagi sebuah kilang di Jerman. Tiada satu pun daripada majikan itu membuat apa-apa di Malaysia. Apa yang mereka jalankan di sini ialah sesuatu yang kurang kelihatan tetapi semakin bernilai: pejabat belakang global mereka.

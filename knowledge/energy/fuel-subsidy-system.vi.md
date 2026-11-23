@@ -37,7 +37,7 @@ faq:
     a: "Diesel ở Sabah, Sarawak và Labuan giữ ở mức RM2.15 mỗi lít và không được thả nổi như ở Bán đảo. RON95 được trợ cấp RM1.99 áp dụng cho công dân đủ điều kiện trên toàn quốc."
 
 lang: "vi"
-sourceContentHash: "e18d2fccb4cddc2e"
+sourceContentHash: "d36719911ef1139c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,27 +71,7 @@ sources:
     url: "https://www.mof.gov.my/portal/en/news/press-release/government-implements-targeted-diesel-subsidy-for-peninsular-malaysia-effective-10-june-2024"
     publisher: "Bộ Tài chính Malaysia (MOF)"
   - title: "Chính phủ tiết kiệm RM5 tỷ nhờ hợp lý hóa trợ giá diesel — MoF (Govt Saves RM5 Bln Through Diesel Subsidy Rationalisation — MoF)"
-    url: "https://www.mof.gov.my/portal/en/news/press-citations/govt-saves-rm5-bln-through-diesel-subsidy-rationalisation
-images:
-  - role: scene
-    src: /media/energy/fuel-subsidy-system/body-1.webp
-    alt: Một trạm xăng mang thương hiệu Shell với mái che viền đỏ phía trên nhiều cụm trụ bơm nhiên liệu, logo vỏ sò Shell màu vàng trên biển hiệu trụ đứng bên đường, cùng các dãy cửa hàng và ô tô gần đó dưới bầu trời sáng
-    kind: actual
-    origin: third-party
-    subject: Sân trạm xăng Shell ở Taman Pelangi, Johor Bahru, với các trụ bơm nhiên liệu dưới mái che
-    credit: Chongkian / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Taman_Pelangi.jpg
-  - role: scene
-    src: /media/energy/fuel-subsidy-system/body-2.webp
-    alt: Sân một trạm xăng bên dưới mái che bằng phẳng rộng che các trụ bơm nhiên liệu, một trụ bảng giá cao có đèn chiếu sáng đứng bên đường và một tòa nhà cửa hàng tiện lợi bên cạnh trong một ngày trời âm u
-    kind: actual
-    origin: third-party
-    subject: Một trạm xăng mang thương hiệu FIVE ở Ijok, Selangor, một trong những chuỗi bán lẻ nhiên liệu độc lập của Malaysia, với sân trạm và trụ bảng giá
-    credit: '*angys* / Wikimedia Commons'
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Ijok_FIVE_petrol_station_(230318).jpg
----mof"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/govt-saves-rm5-bln-through-diesel-subsidy-rationalisation---mof"
     publisher: "Bộ Tài chính Malaysia (MOF)"
   - title: "BUDI Diesel bắt đầu vào ngày mai, 700.000 chủ xe sẽ trả RM2,10/lít (BUDI Diesel Starts Tomorrow, 700,000 Vehicle Owners To Pay RM2.10 A Litre)"
     url: "https://www.mof.gov.my/portal/en/news/press-citations/budi-diesel-starts-tomorrow-700-000-vehicle-owners-to-pay-rm2-10-a-litre"
@@ -161,6 +141,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Jalan_Tan_Swee_Hoe_-_Petronas_Petrol_Station.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-1.webp
+    alt: Một trạm xăng mang thương hiệu Shell với mái che viền đỏ phía trên nhiều cụm trụ bơm nhiên liệu, logo vỏ sò Shell màu vàng trên biển hiệu trụ đứng bên đường, cùng các dãy cửa hàng và ô tô gần đó dưới bầu trời sáng
+    kind: actual
+    origin: third-party
+    subject: Sân trạm xăng Shell ở Taman Pelangi, Johor Bahru, với các trụ bơm nhiên liệu dưới mái che
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shell_Taman_Pelangi.jpg
+  - role: scene
+    src: /media/energy/fuel-subsidy-system/body-2.webp
+    alt: Sân một trạm xăng bên dưới mái che bằng phẳng rộng che các trụ bơm nhiên liệu, một trụ bảng giá cao có đèn chiếu sáng đứng bên đường và một tòa nhà cửa hàng tiện lợi bên cạnh trong một ngày trời âm u
+    kind: actual
+    origin: third-party
+    subject: Một trạm xăng mang thương hiệu FIVE ở Ijok, Selangor, một trong những chuỗi bán lẻ nhiên liệu độc lập của Malaysia, với sân trạm và trụ bảng giá
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ijok_FIVE_petrol_station_(230318).jpg
 ---
 
 Trong nhiều thập kỷ, mọi người ở Malaysia — dù là triệu phú hay người cạo mủ cao su — đều trả cùng một giá xăng tại vòi bơm. Vào ngày 30 tháng 9 năm 2025, sự sắp xếp đó kết thúc. Nay một lít RON95 có thể có giá RM1.99 với bạn nhưng gần gấp đôi với người hàng xóm của bạn, và điều quyết định nó không phải là giá dầu thế giới, mà là tấm căn cước bạn đưa vào terminal.

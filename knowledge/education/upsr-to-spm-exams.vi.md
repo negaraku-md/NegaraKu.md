@@ -21,7 +21,7 @@ verificationNeeded:
   - "Chi tiết đầy đủ về hình thức và các môn học của Ma trận Học tập Lớp 3 (bắt đầu 2027) chưa được xác nhận chi tiết trên trang chính thức của Hội đồng Khảo thí vào lúc soạn bản nháp này; chỉ lịch Năm 4 2026 (4 môn cốt lõi) được xác nhận. Hãy kiểm tra lại tại lp.moe.gov.my khi bản dành cho Lớp 3 được công bố."
   - "Việc Hội đồng Tư vấn Giáo dục Quốc gia (MPPK) đã công bố báo cáo đầy đủ về rà soát UPSR/PT3 lên Nội các hay chưa không thể xác minh trên nguồn chính thức vào lúc soạn bản nháp này; phát biểu của bộ trưởng vào tháng 1 năm 2026 được lấy làm lập trường mới nhất hiện có."
 lang: "vi"
-sourceContentHash: "19a7917a0ffae099"
+sourceContentHash: "ea0270523001c9e4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -51,27 +51,7 @@ sources:
     publisher: "Sinar Harian"
     date: "2021-04-28"
   - title: "PT3 bị bãi bỏ từ 2022 - Bộ trưởng Giáo dục (PT3 dimansuhkan mulai 2022 - Menteri Pendidikan)"
-    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022
-images:
-  - role: scene
-    src: /media/education/upsr-to-spm-exams/body-1.webp
-    alt: Hội trường trường học (dewan) màu xanh và vàng rực rỡ của SMK Bugaya II ở Sabah, loại hội trường nơi tổ chức các kỳ thi công như SPM.
-    kind: representative
-    origin: third-party
-    subject: Hội trường một trường trung học Malaysia thuộc loại dùng cho các kỳ thi công
-    credit: Zahirulnukman / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
-  - role: scene
-    src: /media/education/upsr-to-spm-exams/body-2.webp
-    alt: Khối lớp học nhiều tầng của SMK Sapulut, một trường trung học công lập ở Sabah.
-    kind: actual
-    origin: third-party
-    subject: Một trường trung học Malaysia (SMK Sapulut)
-    credit: CEphoto, Uwe Aranas / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
----menteri-pendidikan"
+    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022---menteri-pendidikan"
     publisher: "mStar"
     date: "2022-06-02"
   - title: "Nhu cầu về PT3, UPSR được rà soát lại - Fadhlina (Keperluan PT3, UPSR dikaji semula - Fadhlina)"
@@ -102,6 +82,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-1.webp
+    alt: Hội trường trường học (dewan) màu xanh và vàng rực rỡ của SMK Bugaya II ở Sabah, loại hội trường nơi tổ chức các kỳ thi công như SPM.
+    kind: representative
+    origin: third-party
+    subject: Hội trường một trường trung học Malaysia thuộc loại dùng cho các kỳ thi công
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-2.webp
+    alt: Khối lớp học nhiều tầng của SMK Sapulut, một trường trung học công lập ở Sabah.
+    kind: actual
+    origin: third-party
+    subject: Một trường trung học Malaysia (SMK Sapulut)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
 ---
 
 Nếu con bạn hiện đang học Năm 6, cháu sẽ không dự thi UPSR. Nếu cháu học Lớp 3, không có PT3 nào chờ đợi. Kỳ thi lớn từng quyết định cả hành trình học phổ thông — mà chính cha mẹ bạn có thể đã trải qua đầy căng thẳng — đã không còn từ vài năm trước. Nhưng nhiều phụ huynh vẫn bối rối: cái gì thay thế nó, liệu nó có được khôi phục không, và thực sự điều gì đang diễn ra ở trường của con họ mỗi ngày.

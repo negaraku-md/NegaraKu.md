@@ -22,7 +22,7 @@ verificationNeeded:
   - "Le format complet et les détails des matières de la Matrice d'apprentissage de Form 3 (à partir de 2027) n'étaient pas confirmés en détail sur le site officiel du Syndicat malaisien des examens au moment de la préparation de ce brouillon ; seul le calendrier 2026 de Year 4 (4 matières de base) était confirmé. À revérifier sur lp.moe.gov.my une fois le projet pour la Form 3 publié."
   - "Il n'a pas été possible de confirmer, par rapport aux sources officielles, au moment de la préparation de ce brouillon, si le Conseil consultatif national de l'éducation (MPPK) a publié le rapport complet de réexamen de l'UPSR/PT3 destiné au Cabinet ; la déclaration de la ministre de janvier 2026 est retenue comme la position la plus récente disponible."
 lang: "fr"
-sourceContentHash: "19a7917a0ffae099"
+sourceContentHash: "ea0270523001c9e4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -52,27 +52,7 @@ sources:
     publisher: "Sinar Harian"
     date: "2021-04-28"
   - title: "Le PT3 est aboli à partir de 2022 — ministre de l'Éducation (PT3 dimansuhkan mulai 2022 - Menteri Pendidikan)"
-    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022
-images:
-  - role: scene
-    src: /media/education/upsr-to-spm-exams/body-1.webp
-    alt: La salle d'école colorée en bleu et jaune (dewan) de la SMK Bugaya II à Sabah, le type de salle dans laquelle se passent les examens publics tels que le SPM.
-    kind: representative
-    origin: third-party
-    subject: Une salle de collège-lycée malaisien du type utilisé pour les examens publics
-    credit: Zahirulnukman / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
-  - role: scene
-    src: /media/education/upsr-to-spm-exams/body-2.webp
-    alt: Un bloc de classes à plusieurs étages de la SMK Sapulut, un collège-lycée public à Sabah.
-    kind: actual
-    origin: third-party
-    subject: Un collège-lycée malaisien (SMK Sapulut)
-    credit: CEphoto, Uwe Aranas / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
----menteri-pendidikan"
+    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022---menteri-pendidikan"
     publisher: "mStar"
     date: "2022-06-02"
   - title: "La nécessité du PT3 et de l'UPSR est réexaminée — Fadhlina (Keperluan PT3, UPSR dikaji semula - Fadhlina)"
@@ -103,6 +83,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-1.webp
+    alt: La salle d'école colorée en bleu et jaune (dewan) de la SMK Bugaya II à Sabah, le type de salle dans laquelle se passent les examens publics tels que le SPM.
+    kind: representative
+    origin: third-party
+    subject: Une salle de collège-lycée malaisien du type utilisé pour les examens publics
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-2.webp
+    alt: Un bloc de classes à plusieurs étages de la SMK Sapulut, un collège-lycée public à Sabah.
+    kind: actual
+    origin: third-party
+    subject: Un collège-lycée malaisien (SMK Sapulut)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
 ---
 
 Si votre enfant est aujourd'hui en Year 6, il ne passera pas l'UPSR. Si cet enfant est en Form 3, aucun PT3 ne l'attend. Les grands examens qui déterminaient jadis tout le parcours scolaire d'un élève — ceux-là mêmes que vos propres parents ont peut-être traversés sous une forte pression — ont disparu depuis plusieurs années déjà. Mais de nombreux parents restent déconcertés : par quoi ont-ils été remplacés, seront-ils rétablis, et que se passe-t-il vraiment chaque jour à l'école de leur enfant aujourd'hui.

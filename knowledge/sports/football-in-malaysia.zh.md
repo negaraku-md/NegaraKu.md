@@ -41,7 +41,7 @@ faq:
     a: "确切日期存在争议。有些记载将全国主管机构的成立定于1926年，另一些记载则指向1933年，即以新加坡为基地的马来亚足球总会（Football Association of Malaya）接管马来亚杯运营之时。可以明确并加以证实的，是它如今作为全国主管机构的角色、AFC会员身份，以及1984年作为AFF创始成员的地位。"
 
 lang: "zh"
-sourceContentHash: "ee9fdc30adb8894c"
+sourceContentHash: "e9227c4406031f36"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,27 +73,7 @@ sources:
     url: "https://www.freemalaysiatoday.com/category/nation/2026/06/12/harimau-malaya-climb-2-spots-in-fifa-rankings-to-136th"
     publisher: "Free Malaysia Today"
   - title: "再见,赛义德阿末 – 带领足球队征战1972年慕尼黑奥运的传奇 (So long, Syed Ahmad – the legend who steered football team to 1972 Munich Olympics)"
-    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad
-images:
-  - role: scene
-    src: /media/sports/football-in-malaysia/body-1.webp
-    alt: 一场足球比赛正在森美兰州（Negeri Sembilan）芙蓉（Seremban）巴罗（Paroi）的端姑阿都拉曼体育场（Stadium Tuanku Abdul Rahman）球场上进行。
-    kind: actual
-    origin: third-party
-    subject: 森美兰州巴罗的端姑阿都拉曼体育场举行的一场足球比赛
-    credit: Mohd Izzudin / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
-  - role: scene
-    src: /media/sports/football-in-malaysia/body-2.webp
-    alt: 雪兰莪州哥打白沙罗（Kota Damansara）、八打灵再也（Petaling Jaya）一处住宅区内的露天公共五人制足球（futsal）场。
-    kind: actual
-    origin: third-party
-    subject: 雪兰莪州哥打白沙罗的一处社区五人制足球（futsal）场，马来西亚足球运动的草根场景
-    credit: Wiki Farazi / Wikimedia Commons
-    license: CC0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
----the-legend-who-steered-football-team-to-1972-munich-olympics"
+    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad---the-legend-who-steered-football-team-to-1972-munich-olympics"
     publisher: "The Star"
   - title: "他们现在何处:马来西亚2010年AFF铃木杯的历史缔造者 (Where are they now: Malaysia's history makers of the 2010 AFF Suzuki Cup)"
     url: "https://www.espn.com/soccer/story/_/id/37622930/where-now-malaysia-history-makers-2010-aff-suzuki-cup"
@@ -121,6 +101,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-1.webp
+    alt: 一场足球比赛正在森美兰州（Negeri Sembilan）芙蓉（Seremban）巴罗（Paroi）的端姑阿都拉曼体育场（Stadium Tuanku Abdul Rahman）球场上进行。
+    kind: actual
+    origin: third-party
+    subject: 森美兰州巴罗的端姑阿都拉曼体育场举行的一场足球比赛
+    credit: Mohd Izzudin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-2.webp
+    alt: 雪兰莪州哥打白沙罗（Kota Damansara）、八打灵再也（Petaling Jaya）一处住宅区内的露天公共五人制足球（futsal）场。
+    kind: actual
+    origin: third-party
+    subject: 雪兰莪州哥打白沙罗的一处社区五人制足球（futsal）场，马来西亚足球运动的草根场景
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
 ---
 
 1921年，新加坡在马来亚一项全新足球赛事的决赛中以2比1击败雪兰莪。一个多世纪之后，这项赛事——如今称为马来西亚杯——依然是这个国家最受喜爱运动中最负盛名的桂冠。

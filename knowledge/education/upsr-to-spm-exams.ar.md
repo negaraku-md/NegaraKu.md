@@ -21,7 +21,7 @@ verificationNeeded:
   - "لم تكن الصيغة الكاملة وتفاصيل مواد مصفوفة التعلُّم للصف الثالث الثانوي (بدءًا من 2027) مؤكَّدة بالتفصيل على الموقع الرسمي لمجلس الامتحانات الماليزي وقت إعداد هذه المسودة؛ إذ لم يُؤكَّد سوى جدول السنة الرابعة 2026 (4 مواد أساسية). يُعاد التحقق عبر lp.moe.gov.my بمجرد نشر مسودة الصف الثالث الثانوي."
   - "تعذّر التأكّد مقابل المصادر الرسمية مما إذا كان المجلس الاستشاري للتعليم الوطني (MPPK) قد نشر تقرير إعادة النظر الكامل في UPSR/PT3 إلى مجلس الوزراء وقت إعداد هذه المسودة؛ ويُؤخَذ تصريح الوزيرة في يناير 2026 بوصفه أحدث موقف متاح."
 lang: "ar"
-sourceContentHash: "19a7917a0ffae099"
+sourceContentHash: "ea0270523001c9e4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -51,27 +51,7 @@ sources:
     publisher: "Sinar Harian"
     date: "2021-04-28"
   - title: "إلغاء PT3 اعتبارًا من 2022 - وزير التربية (PT3 dimansuhkan mulai 2022 - Menteri Pendidikan)"
-    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022
-images:
-  - role: scene
-    src: /media/education/upsr-to-spm-exams/body-1.webp
-    alt: القاعة المدرسية الملوّنة باللونين الأزرق والأصفر (dewan) لمدرسة SMK Bugaya II في ولاية صباح، وهي نوع القاعات التي تُؤدّى فيها الامتحانات العامة مثل SPM.
-    kind: representative
-    origin: third-party
-    subject: قاعة مدرسة ثانوية ماليزية من النوع المستخدم للامتحانات العامة
-    credit: Zahirulnukman / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
-  - role: scene
-    src: /media/education/upsr-to-spm-exams/body-2.webp
-    alt: مبنى صفوف متعدّد الطوابق لمدرسة SMK Sapulut، وهي مدرسة ثانوية حكومية في ولاية صباح.
-    kind: actual
-    origin: third-party
-    subject: مدرسة ثانوية ماليزية (SMK Sapulut)
-    credit: CEphoto, Uwe Aranas / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
----menteri-pendidikan"
+    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022---menteri-pendidikan"
     publisher: "mStar"
     date: "2022-06-02"
   - title: "إعادة النظر في الحاجة إلى PT3 وUPSR - Fadhlina (Keperluan PT3, UPSR dikaji semula - Fadhlina)"
@@ -102,6 +82,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-1.webp
+    alt: القاعة المدرسية الملوّنة باللونين الأزرق والأصفر (dewan) لمدرسة SMK Bugaya II في ولاية صباح، وهي نوع القاعات التي تُؤدّى فيها الامتحانات العامة مثل SPM.
+    kind: representative
+    origin: third-party
+    subject: قاعة مدرسة ثانوية ماليزية من النوع المستخدم للامتحانات العامة
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-2.webp
+    alt: مبنى صفوف متعدّد الطوابق لمدرسة SMK Sapulut، وهي مدرسة ثانوية حكومية في ولاية صباح.
+    kind: actual
+    origin: third-party
+    subject: مدرسة ثانوية ماليزية (SMK Sapulut)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
 ---
 
 إن كان طفلك الآن في السنة السادسة، فلن يؤدّي امتحان UPSR. وإن كان ذلك الطفل في الصف الثالث الثانوي، فلا ينتظره امتحان PT3. فالامتحانات الكبرى التي كانت تحدّد يومًا مسار الطالب الدراسي بأكمله — وهي نفسها التي ربما خاضها والداك تحت ضغط ثقيل — اختفت منذ عدّة سنوات. غير أن كثيرًا من أولياء الأمور لا يزالون في حيرة: ما الذي حلّ محلّها؟ وهل ستُعاد؟ وما الذي يحدث فعلًا في مدرسة أبنائهم كل يوم الآن؟

@@ -41,7 +41,7 @@ faq:
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "295c9b83682e382f"
+sourceContentHash: "f5f3575ac3242104"
 
 status: "archived"
 aiAssisted: true
@@ -87,27 +87,7 @@ sources:
     url: "https://www.bnm.gov.my/governors/rasheed"
     publisher: "Bank Negara Malaysia"
   - title: "Policy consistency, strong fundamentals anchor investor confidence — Bank Negara governor"
-    url: "https://www.thestar.com.my/business/business-news/2026/08/14/policy-consistency-strong-fundamentals-anchor-investor-confidence
-images:
-  - role: scene
-    src: /media/government/bank-negara-malaysia/body-1.webp
-    alt: 사바주 코타키나발루의 말레이시아 국립은행 사무소 입구. 중앙은행 명칭과 키장(사슴) 문장을 내걸고 말레이시아 국기와 사바 주기를 게양하고 있다
-    kind: actual
-    origin: third-party
-    subject: 사바주 코타키나발루의 말레이시아 국립은행 지역 사무소. 중앙은행 명칭과 키장(사슴) 문장이 있다
-    credit: CEphoto, Uwe Aranas / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Bank-Negara-Malaysia-02.jpg
-  - role: scene
-    src: /media/government/bank-negara-malaysia/body-2.webp
-    alt: 중앙은행 명칭이 찍힌 말레이시아 국립은행 1967년 1차 시리즈의 초기 링깃 지폐
-    kind: actual
-    origin: third-party
-    subject: 초기 말레이시아 국립은행 링깃 지폐(1967년 시리즈 견본)
-    credit: Bank Negara Malaysia / Wikimedia Commons
-    license: Public domain
-    sourceUrl: https://commons.wikimedia.org/wiki/File:SERIBU_RINGGIT_-_OBSERVE_VIEW_(1967).png
----bank-negara-governo"
+    url: "https://www.thestar.com.my/business/business-news/2026/08/14/policy-consistency-strong-fundamentals-anchor-investor-confidence---bank-negara-governo"
     publisher: "The Star"
     date: "2026-08-14"
   - title: "MPC Meeting Decision Schedule — tag/mpc-2026"
@@ -133,6 +113,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Central_Bank_of_Malaysia_headquarters,_Kuala_Lumpur.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-1.webp
+    alt: 사바주 코타키나발루의 말레이시아 국립은행 사무소 입구. 중앙은행 명칭과 키장(사슴) 문장을 내걸고 말레이시아 국기와 사바 주기를 게양하고 있다
+    kind: actual
+    origin: third-party
+    subject: 사바주 코타키나발루의 말레이시아 국립은행 지역 사무소. 중앙은행 명칭과 키장(사슴) 문장이 있다
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Bank-Negara-Malaysia-02.jpg
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-2.webp
+    alt: 중앙은행 명칭이 찍힌 말레이시아 국립은행 1967년 1차 시리즈의 초기 링깃 지폐
+    kind: actual
+    origin: third-party
+    subject: 초기 말레이시아 국립은행 링깃 지폐(1967년 시리즈 견본)
+    credit: Bank Negara Malaysia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SERIBU_RINGGIT_-_OBSERVE_VIEW_(1967).png
 ---
 
 금리가 동결되었다거나, 링깃이 달러 대비 하락했다거나, 어느 은행이 대출을 조이라는 요구를 받았다는 헤드라인이 나올 때마다 그 이야기 뒤에는 늘 같은 기관이 있다. 그 기관은 쿠알라룸푸르의 잘란 다토 온(Jalan Dato' Onn)에 자리한 요새 같은 복합건물에서 업무를 보며, 당신에게 단 한 푼도 직접 빌려주지 않지만, 그럼에도 당신 주머니 속의 거의 모든 링깃과 당신 명세서 위의 모든 대출은 그 기관이 작성하는 규칙을 거친다. 그 기관이 바로 말레이시아 중앙은행(Bank Negara Malaysia)이다——그리고 사람들이 그 역할에 대해 가정하는 것 대부분은 절반만 맞거나, 아예 다른 기관의 소관이다.

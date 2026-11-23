@@ -41,7 +41,7 @@ faq:
     a: "The exact date is disputed. Some records place the founding of the national governing body in 1926, while others refer to 1933, when the Singapore-based Football Association of Malaya took over the running of the Malaya Cup. What is clear and verifiable is its role today as the national governing body, a member of the AFC, and a founder of the AFF in 1984."
 
 lang: "en"
-sourceContentHash: "ee9fdc30adb8894c"
+sourceContentHash: "e9227c4406031f36"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,27 +73,7 @@ sources:
     url: "https://www.freemalaysiatoday.com/category/nation/2026/06/12/harimau-malaya-climb-2-spots-in-fifa-rankings-to-136th"
     publisher: "Free Malaysia Today"
   - title: "So long, Syed Ahmad – the legend who steered football team to 1972 Munich Olympics"
-    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad
-images:
-  - role: scene
-    src: /media/sports/football-in-malaysia/body-1.webp
-    alt: A football match in progress on the pitch at Stadium Tuanku Abdul Rahman in Paroi, Seremban, Negeri Sembilan.
-    kind: actual
-    origin: third-party
-    subject: A football match at Stadium Tuanku Abdul Rahman in Paroi, Negeri Sembilan
-    credit: Mohd Izzudin / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
-  - role: scene
-    src: /media/sports/football-in-malaysia/body-2.webp
-    alt: An open-air public futsal court in a residential neighbourhood of Kota Damansara, Petaling Jaya, Selangor.
-    kind: actual
-    origin: third-party
-    subject: A community futsal court in Kota Damansara, Selangor, a grassroots setting for the Malaysian game
-    credit: Wiki Farazi / Wikimedia Commons
-    license: CC0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
----the-legend-who-steered-football-team-to-1972-munich-olympics"
+    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad---the-legend-who-steered-football-team-to-1972-munich-olympics"
     publisher: "The Star"
   - title: "Where are they now: Malaysia's history makers of the 2010 AFF Suzuki Cup"
     url: "https://www.espn.com/soccer/story/_/id/37622930/where-now-malaysia-history-makers-2010-aff-suzuki-cup"
@@ -121,6 +101,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-1.webp
+    alt: A football match in progress on the pitch at Stadium Tuanku Abdul Rahman in Paroi, Seremban, Negeri Sembilan.
+    kind: actual
+    origin: third-party
+    subject: A football match at Stadium Tuanku Abdul Rahman in Paroi, Negeri Sembilan
+    credit: Mohd Izzudin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-2.webp
+    alt: An open-air public futsal court in a residential neighbourhood of Kota Damansara, Petaling Jaya, Selangor.
+    kind: actual
+    origin: third-party
+    subject: A community futsal court in Kota Damansara, Selangor, a grassroots setting for the Malaysian game
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
 ---
 
 In 1921, Singapore beat Selangor 2-1 in the final of a new football tournament in Malaya. More than a century later, that competition — now known as the Malaysia Cup — remains the most prestigious crown in the country's most beloved sport.

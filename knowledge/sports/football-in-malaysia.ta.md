@@ -41,7 +41,7 @@ faq:
     a: "சரியான தேதி சர்ச்சைக்குரியது. சில பதிவுகள் தேசிய ஆளும் அமைப்பின் நிறுவலை 1926-இல் வைக்கின்றன, மற்றவை 1933-ஐக் குறிப்பிடுகின்றன — Singapore-ஐ தளமாகக் கொண்ட Football Association of Malaya, Malaya Cup-ஐ நடத்தும் பொறுப்பை ஏற்ற ஆண்டு. தெளிவாகவும் சரிபார்க்கக்கூடியதாகவும் இருப்பது இன்று அதன் பங்கு: தேசிய ஆளும் அமைப்பாக, AFC-இன் உறுப்பினராக, மற்றும் 1984-இல் AFF-இன் நிறுவனராக."
 
 lang: "ta"
-sourceContentHash: "ee9fdc30adb8894c"
+sourceContentHash: "e9227c4406031f36"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,27 +73,7 @@ sources:
     url: "https://www.freemalaysiatoday.com/category/nation/2026/06/12/harimau-malaya-climb-2-spots-in-fifa-rankings-to-136th"
     publisher: "Free Malaysia Today"
   - title: "விடைபெறுக, சையட் அஹ்மத் – 1972 மியூனிக் ஒலிம்பிக்கிற்கு கால்பந்து அணியை வழிநடத்திய புராண வீரர் (So long, Syed Ahmad – the legend who steered football team to 1972 Munich Olympics)"
-    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad
-images:
-  - role: scene
-    src: /media/sports/football-in-malaysia/body-1.webp
-    alt: நெகிரி செம்பிலான், செரம்பான், பரோயில் உள்ள துவாங்கு அப்துல் ரஹ்மான் அரங்க மைதானத்தில் நடந்துகொண்டிருக்கும் கால்பந்து போட்டி.
-    kind: actual
-    origin: third-party
-    subject: நெகிரி செம்பிலான், பரோயில் உள்ள துவாங்கு அப்துல் ரஹ்மான் அரங்கத்தில் ஒரு கால்பந்து போட்டி
-    credit: Mohd Izzudin / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
-  - role: scene
-    src: /media/sports/football-in-malaysia/body-2.webp
-    alt: செலாங்கூர், பெட்டாலிங் ஜெயா, கோட்டா டாமன்சாராவில் ஒரு குடியிருப்புப் பகுதியில் உள்ள திறந்தவெளி பொது ஃபுட்சல் மைதானம்.
-    kind: actual
-    origin: third-party
-    subject: செலாங்கூர், கோட்டா டாமன்சாராவில் ஒரு சமூக ஃபுட்சல் மைதானம், மலேசிய விளையாட்டின் அடிமட்டக் களம்
-    credit: Wiki Farazi / Wikimedia Commons
-    license: CC0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
----the-legend-who-steered-football-team-to-1972-munich-olympics"
+    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad---the-legend-who-steered-football-team-to-1972-munich-olympics"
     publisher: "The Star"
   - title: "இப்போது அவர்கள் எங்கே: மலேசியாவின் 2010 AFF சுஸுகி கோப்பை வரலாற்றைப் படைத்தவர்கள் (Where are they now: Malaysia's history makers of the 2010 AFF Suzuki Cup)"
     url: "https://www.espn.com/soccer/story/_/id/37622930/where-now-malaysia-history-makers-2010-aff-suzuki-cup"
@@ -121,6 +101,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-1.webp
+    alt: நெகிரி செம்பிலான், செரம்பான், பரோயில் உள்ள துவாங்கு அப்துல் ரஹ்மான் அரங்க மைதானத்தில் நடந்துகொண்டிருக்கும் கால்பந்து போட்டி.
+    kind: actual
+    origin: third-party
+    subject: நெகிரி செம்பிலான், பரோயில் உள்ள துவாங்கு அப்துல் ரஹ்மான் அரங்கத்தில் ஒரு கால்பந்து போட்டி
+    credit: Mohd Izzudin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-2.webp
+    alt: செலாங்கூர், பெட்டாலிங் ஜெயா, கோட்டா டாமன்சாராவில் ஒரு குடியிருப்புப் பகுதியில் உள்ள திறந்தவெளி பொது ஃபுட்சல் மைதானம்.
+    kind: actual
+    origin: third-party
+    subject: செலாங்கூர், கோட்டா டாமன்சாராவில் ஒரு சமூக ஃபுட்சல் மைதானம், மலேசிய விளையாட்டின் அடிமட்டக் களம்
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
 ---
 
 1921-இல், Malaya-வில் ஒரு புதிய கால்பந்துப் போட்டியின் இறுதியில் Singapore, Selangor-ஐ 2-1 என்று வென்றது. ஒரு நூற்றாண்டுக்கும் மேலாகிய பின்னரும், அந்தப் போட்டி — இப்போது Malaysia Cup என அறியப்படுவது — நாட்டின் மிகவும் நேசிக்கப்படும் விளையாட்டின் மிகவும் மதிப்புமிக்க மகுடமாக இன்னும் திகழ்கிறது.

@@ -31,7 +31,7 @@ faq:
   - q: ¿Qué incentivos ofrece Malasia a los inversores en GBS?
     a: La vía principal es el estatus Malaysia Digital (MD), administrado por MDEC, que puede desbloquear incentivos fiscales para actividades digitales y de servicios aprobadas. En 2024 MDEC introdujo dos esquemas basados en resultados —el Incentivo a la Nueva Inversión y el Incentivo a la Expansión—, con solicitudes abiertas hasta 2027. Los términos cambian, así que confirma la elegibilidad actual con MDEC o un asesor fiscal.
 lang: es
-sourceContentHash: "0b08e8a5a177ad84"
+sourceContentHash: "4867a776905a1b4e"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -64,27 +64,7 @@ sources:
     url: https://www.digitalnewsasia.com/business/malaysias-gbs-sector-urged-expand-beyond-klang-valley-through-state-specialisation
     publisher: Digital News Asia
   - title: Estatus Malaysia Digital — Incentivos fiscales (Malaysia Digital Status — Tax Incentives)
-    url: https://www.crowe.com/my/insights/malaysia-digital-status
-images:
-  - role: scene
-    src: /media/industries/global-business-services-industry/body-1.webp
-    alt: Un moderno edificio de oficinas corporativas de altura media, de vidrio y hormigón, en el parque empresarial de Cyberjaya, Selangor, Malasia.
-    kind: representative
-    origin: third-party
-    subject: Edificio de oficinas corporativas en Cyberjaya, el centro de servicios globales de Malasia
-    credit: Wanobi88 / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
-  - role: scene
-    src: /media/industries/global-business-services-industry/body-2.webp
-    alt: Filas de agentes en puestos de trabajo con ordenador a lo largo de una planta de centro de llamadas muy amplia y diáfana.
-    kind: representative
-    origin: third-party
-    subject: Amplia planta de oficinas de un centro de llamadas (lugar de trabajo representativo de servicios compartidos/BPO)
-    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
-    license: Public domain
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
----tax-incentives
+    url: https://www.crowe.com/my/insights/malaysia-digital-status---tax-incentives
     publisher: Crowe Malaysia
   - title: "El pujante sector GBS de Malasia: una fuerza motriz en la economía digital (Malaysia's thriving GBS sector: A driving force in the digital economy)"
     url: https://knightfrank.com/your-space/2024-03-26-malaysias-thriving-gbs-sector-a-driving-force-in-the-digital-economy
@@ -125,6 +105,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:TMR%26D_Office.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-1.webp
+    alt: Un moderno edificio de oficinas corporativas de altura media, de vidrio y hormigón, en el parque empresarial de Cyberjaya, Selangor, Malasia.
+    kind: representative
+    origin: third-party
+    subject: Edificio de oficinas corporativas en Cyberjaya, el centro de servicios globales de Malasia
+    credit: Wanobi88 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ATMR%26D_Office.jpg
+  - role: scene
+    src: /media/industries/global-business-services-industry/body-2.webp
+    alt: Filas de agentes en puestos de trabajo con ordenador a lo largo de una planta de centro de llamadas muy amplia y diáfana.
+    kind: representative
+    origin: third-party
+    subject: Amplia planta de oficinas de un centro de llamadas (lugar de trabajo representativo de servicios compartidos/BPO)
+    credit: Petiatil ( talk ) on Wikipedia-en . / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ACallcentre.jpg
 ---
 
 En algún lugar de Cyberjaya o Kuala Lumpur, ahora mismo, un contable está cerrando los libros mensuales de una empresa con sede en Londres, un agente de la mesa de ayuda está resolviendo una incidencia de un cliente en Sídney y un analista de datos está construyendo un panel para una fábrica en Alemania. Ninguno de esos empleadores fabrica nada en Malasia. Lo que gestionan aquí es algo menos visible pero cada vez más valioso: su oficina administrativa global.

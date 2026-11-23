@@ -30,7 +30,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d0d6e50f897a3e0"
+sourceContentHash: "be09434e883ecaf2"
 
 status: "published"
 aiAssisted: true
@@ -53,27 +53,7 @@ sources:
     publisher: "மலேசிய தீபகற்ப நகர் மற்றும் கிராம திட்டமிடல் துறை, வீட்டுவசதி மற்றும் உள்ளூர் அரசாங்க அமைச்சு"
     date: "2010-09-02"
   - title: "வீதி, வடிகால் மற்றும் கட்டிடச் சட்டம் 1974 (சட்டம் 133) — அதிகாரப்பூர்வ மறுபதிப்பு உரை, பிரிவு 46 (தடை) (Street, Drainage and Building Act 1974 (Act 133) — official reprint text, s.46 (Obstruction))"
-    url: "https://www.ppj.gov.my/storage/7476/133
-images:
-  - role: scene
-    src: /media/property/gated-communities-and-security/body-1.webp
-    alt: செரம்பானில் Forest Heights நகரத்திற்குள் அமைந்த உயர்தர வேலியிட்ட குடியிருப்புச் சமூகமான Arden Hill, ஒரே கட்டுப்படுத்தப்பட்ட எல்லைக்குள் நிலத்துடன் கூடிய வீடுகளை வரிசைப்படுத்துகிறது.
-    kind: actual
-    origin: third-party
-    subject: செரம்பான், Forest Heights இல் உள்ள Arden Hill உயர்தர வேலியிட்ட குடியிருப்புச் சமூகம்
-    credit: AyyanD / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
-  - role: scene
-    src: /media/property/gated-communities-and-security/body-2.webp
-    alt: ஜொகூர், இஸ்கந்தர் புத்திரியில் உள்ள வேலியிட்டு காவல் கொண்ட Horizon Hills நகரத்தை நிலத்துடன் கூடிய வீடுகளும் நேர்த்தியாகப் பராமரிக்கப்பட்ட பசுமையும் நிரப்புகின்றன; இது பாதுகாப்பு நிர்வகிக்கப்படும் பெரிய குடியிருப்புப் பகுதி.
-    kind: actual
-    origin: third-party
-    subject: ஜொகூர், இஸ்கந்தர் புத்திரியில் உள்ள Horizon Hills வேலியிட்ட நகரம்
-    credit: Chongkian / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
----STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
+    url: "https://www.ppj.gov.my/storage/7476/133---STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
     publisher: "Laws of Malaysia / புத்ராஜெயா கழகம்"
   - title: "அடுக்கு மேலாண்மைச் சட்டம் 2013 (சட்டம் 757), பிரிவு 17, 21, 32 — கூட்டு மேலாண்மை அமைப்பின் நிறுவுதல், அதிகாரங்கள் மற்றும் துணை விதிகள் (Strata Management Act 2013 (Act 757), ss.17, 21, 32 — establishment, powers and by-laws of the Joint Management Body)"
     url: "https://www.leepartners.my/wp-content/uploads/2016/08/STRATA_MANAGEMENT_ACT_2013_ACT_757.pdf"
@@ -99,6 +79,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-1.webp
+    alt: செரம்பானில் Forest Heights நகரத்திற்குள் அமைந்த உயர்தர வேலியிட்ட குடியிருப்புச் சமூகமான Arden Hill, ஒரே கட்டுப்படுத்தப்பட்ட எல்லைக்குள் நிலத்துடன் கூடிய வீடுகளை வரிசைப்படுத்துகிறது.
+    kind: actual
+    origin: third-party
+    subject: செரம்பான், Forest Heights இல் உள்ள Arden Hill உயர்தர வேலியிட்ட குடியிருப்புச் சமூகம்
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-2.webp
+    alt: ஜொகூர், இஸ்கந்தர் புத்திரியில் உள்ள வேலியிட்டு காவல் கொண்ட Horizon Hills நகரத்தை நிலத்துடன் கூடிய வீடுகளும் நேர்த்தியாகப் பராமரிக்கப்பட்ட பசுமையும் நிரப்புகின்றன; இது பாதுகாப்பு நிர்வகிக்கப்படும் பெரிய குடியிருப்புப் பகுதி.
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர், இஸ்கந்தர் புத்திரியில் உள்ள Horizon Hills வேலியிட்ட நகரம்
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
 ---
 
 இரண்டு வீட்டுவசதிப் பகுதிகள் ஒரே மாதிரி தோற்றமளிக்கலாம் — செங்கல் காவல் அறை, கோடிட்ட தடுப்பு வாயில், உங்கள் ஸ்டிக்கரைச் சரிபார்க்கும் சீருடை அணிந்த காவலர். ஒன்று உறுதியான சட்ட அடிப்படையில் நிற்கிறது. மற்றொன்று, இதுவரை யாரும் அதை எதிர்த்து சவால் விடாததால் மட்டுமே இருக்கிறது.

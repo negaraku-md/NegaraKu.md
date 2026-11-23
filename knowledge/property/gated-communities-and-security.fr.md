@@ -28,7 +28,7 @@ faq:
     a: "Une RA est une société enregistrée sous la Societies Act 1966, et non un organisme légal — elle n'a aucun pouvoir comparable à celui d'un Joint Management Body ou d'une Management Corporation pour contraindre au paiement. Les tribunaux ont autorisé une RA à exiger d'un résident défaillant qu'il actionne lui-même une barrière levante partagée, mais refuser l'entrée à un résident purement et simplement risque de constituer un trouble susceptible de recours."
 
 lang: "fr"
-sourceContentHash: "5d0d6e50f897a3e0"
+sourceContentHash: "be09434e883ecaf2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -53,27 +53,7 @@ sources:
     publisher: "Département de l'Urbanisme et de l'Aménagement Rural de la Malaisie Péninsulaire, Ministère du Logement et des Collectivités Locales (KPKT)"
     date: "2010-09-02"
   - title: "Street, Drainage and Building Act 1974 (Act 133) — texte de réimpression officielle, s.46 (Obstruction) (Street, Drainage and Building Act 1974 (Act 133) — official reprint text, s.46 (Obstruction))"
-    url: "https://www.ppj.gov.my/storage/7476/133
-images:
-  - role: scene
-    src: /media/property/gated-communities-and-security/body-1.webp
-    alt: Arden Hill, une résidence fermée haut de gamme au sein du lotissement de Forest Heights à Seremban, dispose des maisons individuelles derrière un unique périmètre contrôlé.
-    kind: actual
-    origin: third-party
-    subject: Résidence fermée haut de gamme Arden Hill, Forest Heights, Seremban
-    credit: AyyanD / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
-  - role: scene
-    src: /media/property/gated-communities-and-security/body-2.webp
-    alt: Des maisons individuelles et une verdure soignée emplissent le lotissement clôturé et gardé de Horizon Hills à Iskandar Puteri, Johor, une vaste enclave résidentielle à sécurité gérée.
-    kind: actual
-    origin: third-party
-    subject: Lotissement fermé Horizon Hills, Iskandar Puteri, Johor
-    credit: Chongkian / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
----STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
+    url: "https://www.ppj.gov.my/storage/7476/133---STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
     publisher: "Lois de Malaisie / Perbadanan Putrajaya"
   - title: "Strata Management Act 2013 (Act 757), ss.17, 21, 32 — constitution, pouvoirs et règlements du Joint Management Body (Strata Management Act 2013 (Act 757), ss.17, 21, 32 — establishment, powers and by-laws of the Joint Management Body)"
     url: "https://www.leepartners.my/wp-content/uploads/2016/08/STRATA_MANAGEMENT_ACT_2013_ACT_757.pdf"
@@ -99,6 +79,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-1.webp
+    alt: Arden Hill, une résidence fermée haut de gamme au sein du lotissement de Forest Heights à Seremban, dispose des maisons individuelles derrière un unique périmètre contrôlé.
+    kind: actual
+    origin: third-party
+    subject: Résidence fermée haut de gamme Arden Hill, Forest Heights, Seremban
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-2.webp
+    alt: Des maisons individuelles et une verdure soignée emplissent le lotissement clôturé et gardé de Horizon Hills à Iskandar Puteri, Johor, une vaste enclave résidentielle à sécurité gérée.
+    kind: actual
+    origin: third-party
+    subject: Lotissement fermé Horizon Hills, Iskandar Puteri, Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
 ---
 
 Deux zones résidentielles peuvent avoir l'air identiques — guérite en brique, barrière levante à rayures, gardien en uniforme vérifiant votre vignette. L'une repose sur un socle juridique solide. L'autre existe parce que personne ne l'a encore contestée.

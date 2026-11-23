@@ -89,11 +89,15 @@ function insertBlock(raw, block) {
   const crlf = /\r\n/.test(raw);
   const nl = crlf ? '\r\n' : '\n';
   const b = crlf ? block.replace(/\n/g, '\r\n') : block;
-  // Find closing frontmatter fence: the second line that is exactly ---
-  const re = /^---\r?\n[\s\S]*?\r?\n(---)\r?\n/;
+  // Find closing frontmatter fence: the first line after the opening that is exactly ---.
+  // Group 1 spans the opening fence + body + the newline before the closing fence, so
+  // m[1].length is the exact byte offset of the closing ---. (Do NOT use indexOf('---'):
+  // a literal '---' inside a frontmatter value — e.g. a URL like .../2022---menteri — would
+  // match first and splice the block mid-scalar.)
+  const re = /^(---\r?\n[\s\S]*?\r?\n)(---\r?\n)/;
   const m = raw.match(re);
   if (!m) return null;
-  const closeIdx = raw.indexOf(m[1], m.index + 3); // index of the closing --- of this match
+  const closeIdx = m[1].length; // start of the closing --- fence
   // block ends with a newline from yaml.dump; ensure exactly one before the fence
   const before = raw.slice(0, closeIdx);
   const after = raw.slice(closeIdx);

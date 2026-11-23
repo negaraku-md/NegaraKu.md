@@ -24,7 +24,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "19a7917a0ffae099"
+sourceContentHash: "ea0270523001c9e4"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -52,27 +52,7 @@ sources:
     publisher: "Sinar Harian"
     date: "2021-04-28"
   - title: "PT3 dimansuhkan mulai 2022 - Menteri Pendidikan"
-    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022
-images:
-  - role: scene
-    src: /media/education/upsr-to-spm-exams/body-1.webp
-    alt: The colourful blue-and-yellow school hall (dewan) of SMK Bugaya II in Sabah, the kind of hall in which public examinations such as the SPM are sat.
-    kind: representative
-    origin: third-party
-    subject: A Malaysian secondary-school hall of the kind used for public examinations
-    credit: Zahirulnukman / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
-  - role: scene
-    src: /media/education/upsr-to-spm-exams/body-2.webp
-    alt: A multi-storey classroom block of SMK Sapulut, a government secondary school in Sabah.
-    kind: actual
-    origin: third-party
-    subject: A Malaysian secondary school (SMK Sapulut)
-    credit: CEphoto, Uwe Aranas / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
----menteri-pendidikan"
+    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022---menteri-pendidikan"
     publisher: "mStar"
     date: "2022-06-02"
   - title: "Keperluan PT3, UPSR dikaji semula - Fadhlina"
@@ -103,6 +83,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-1.webp
+    alt: The colourful blue-and-yellow school hall (dewan) of SMK Bugaya II in Sabah, the kind of hall in which public examinations such as the SPM are sat.
+    kind: representative
+    origin: third-party
+    subject: A Malaysian secondary-school hall of the kind used for public examinations
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-2.webp
+    alt: A multi-storey classroom block of SMK Sapulut, a government secondary school in Sabah.
+    kind: actual
+    origin: third-party
+    subject: A Malaysian secondary school (SMK Sapulut)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
 ---
 
 If your child is now in Year 6, they will not sit UPSR. If that child is in Form 3, no PT3 awaits them. The major exams that once determined a student's entire schooling journey — the same ones your own parents may have gone through under heavy pressure — have been gone for several years now. But many parents are still confused: what replaced them, whether they will be brought back, and what actually happens at their child's school every day now.

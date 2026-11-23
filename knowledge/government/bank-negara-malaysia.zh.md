@@ -41,7 +41,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "295c9b83682e382f"
+sourceContentHash: "f5f3575ac3242104"
 
 status: "archived"
 aiAssisted: true
@@ -87,27 +87,7 @@ sources:
     url: "https://www.bnm.gov.my/governors/rasheed"
     publisher: "Bank Negara Malaysia"
   - title: "Policy consistency, strong fundamentals anchor investor confidence — Bank Negara governor"
-    url: "https://www.thestar.com.my/business/business-news/2026/08/14/policy-consistency-strong-fundamentals-anchor-investor-confidence
-images:
-  - role: scene
-    src: /media/government/bank-negara-malaysia/body-1.webp
-    alt: 沙巴亚庇一座马来西亚国家银行办事处的入口,展示着中央银行的名称与麂鹿(kijang)徽记,并悬挂马来西亚国旗与沙巴州旗
-    kind: actual
-    origin: third-party
-    subject: 沙巴亚庇的马来西亚国家银行地区办事处,带有中央银行名称与麂鹿(kijang)徽记
-    credit: CEphoto, Uwe Aranas / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Bank-Negara-Malaysia-02.jpg
-  - role: scene
-    src: /media/government/bank-negara-malaysia/body-2.webp
-    alt: 一张马来西亚国家银行1967年首套系列的早期令吉纸币,印有中央银行的名称
-    kind: actual
-    origin: third-party
-    subject: 早期马来西亚国家银行令吉纸币(1967年系列样本)
-    credit: Bank Negara Malaysia / Wikimedia Commons
-    license: Public domain
-    sourceUrl: https://commons.wikimedia.org/wiki/File:SERIBU_RINGGIT_-_OBSERVE_VIEW_(1967).png
----bank-negara-governo"
+    url: "https://www.thestar.com.my/business/business-news/2026/08/14/policy-consistency-strong-fundamentals-anchor-investor-confidence---bank-negara-governo"
     publisher: "The Star"
     date: "2026-08-14"
   - title: "MPC Meeting Decision Schedule — tag/mpc-2026"
@@ -133,6 +113,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Central_Bank_of_Malaysia_headquarters,_Kuala_Lumpur.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-1.webp
+    alt: 沙巴亚庇一座马来西亚国家银行办事处的入口,展示着中央银行的名称与麂鹿(kijang)徽记,并悬挂马来西亚国旗与沙巴州旗
+    kind: actual
+    origin: third-party
+    subject: 沙巴亚庇的马来西亚国家银行地区办事处,带有中央银行名称与麂鹿(kijang)徽记
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Bank-Negara-Malaysia-02.jpg
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-2.webp
+    alt: 一张马来西亚国家银行1967年首套系列的早期令吉纸币,印有中央银行的名称
+    kind: actual
+    origin: third-party
+    subject: 早期马来西亚国家银行令吉纸币(1967年系列样本)
+    credit: Bank Negara Malaysia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SERIBU_RINGGIT_-_OBSERVE_VIEW_(1967).png
 ---
 
 每当新闻标题说利率维持不变、令吉兑美元下滑，或某家银行被要求收紧放贷时，

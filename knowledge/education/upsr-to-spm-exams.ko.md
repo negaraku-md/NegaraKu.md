@@ -21,7 +21,7 @@ verificationNeeded:
   - "폼 3 학습 매트릭스(2027년 시작)의 전체 형식과 과목 세부 사항은 이 초안 작성 당시 시험국 공식 사이트에 상세히 확인되지 않음; 2026년 4학년 일정(4개 핵심 과목)만 확인됨. 폼 3 초안이 발행되면 lp.moe.gov.my에서 다시 확인할 것."
   - "국가교육자문회의(MPPK)가 UPSR/PT3 재검토 전체 보고서를 내각에 제출했는지는 이 초안 작성 당시 공식 자료에서 확인할 수 없음; 2026년 1월 장관 성명을 이용 가능한 최신 입장으로 삼음."
 lang: "ko"
-sourceContentHash: "19a7917a0ffae099"
+sourceContentHash: "ea0270523001c9e4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -51,27 +51,7 @@ sources:
     publisher: "Sinar Harian"
     date: "2021-04-28"
   - title: "PT3, 2022년부터 폐지 - 교육부 장관 (PT3 dimansuhkan mulai 2022 - Menteri Pendidikan)"
-    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022
-images:
-  - role: scene
-    src: /media/education/upsr-to-spm-exams/body-1.webp
-    alt: 사바주 SMK Bugaya II의 파란색과 노란색이 선명한 학교 강당(dewan)으로, SPM 같은 공공시험이 치러지는 부류의 강당이다.
-    kind: representative
-    origin: third-party
-    subject: 공공시험에 쓰이는 부류의 말레이시아 중등학교 강당(dewan)
-    credit: Zahirulnukman / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
-  - role: scene
-    src: /media/education/upsr-to-spm-exams/body-2.webp
-    alt: 사바주의 정부 중등학교 SMK Sapulut의 여러 층짜리 교실동.
-    kind: actual
-    origin: third-party
-    subject: 말레이시아 중등학교(SMK Sapulut)
-    credit: CEphoto, Uwe Aranas / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
----menteri-pendidikan"
+    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022---menteri-pendidikan"
     publisher: "mStar"
     date: "2022-06-02"
   - title: "PT3, UPSR 필요성 재검토 - 파들리나 (Keperluan PT3, UPSR dikaji semula - Fadhlina)"
@@ -102,6 +82,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-1.webp
+    alt: 사바주 SMK Bugaya II의 파란색과 노란색이 선명한 학교 강당(dewan)으로, SPM 같은 공공시험이 치러지는 부류의 강당이다.
+    kind: representative
+    origin: third-party
+    subject: 공공시험에 쓰이는 부류의 말레이시아 중등학교 강당(dewan)
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-2.webp
+    alt: 사바주의 정부 중등학교 SMK Sapulut의 여러 층짜리 교실동.
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 중등학교(SMK Sapulut)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
 ---
 
 자녀가 지금 6학년이라면, UPSR을 치르지 않을 것입니다. 자녀가 폼 3이라면, 기다리는 PT3은 없습니다. 한때 취학 여정 전체를 좌우하던 대형 시험 — 여러분의 부모 세대가 큰 압박 속에 겪었을 수도 있는 — 은 몇 년 전부터 사라졌습니다. 그러나 많은 학부모는 여전히 혼란스러워합니다. 무엇이 그것을 대체했는지, 복원될 것인지, 그리고 지금 자녀의 학교에서 매일 실제로 무슨 일이 일어나는지.

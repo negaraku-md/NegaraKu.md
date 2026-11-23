@@ -41,7 +41,7 @@ faq:
     a: "La fecha exacta es discutida. Algunos registros sitúan la fundación del órgano rector nacional en 1926, mientras que otros se refieren a 1933, cuando la Football Association of Malaya, con sede en Singapur, asumió la gestión de la Malaya Cup. Lo que es claro y verificable es su papel actual como órgano rector nacional, miembro de la AFC y fundador de la AFF en 1984."
 
 lang: "es"
-sourceContentHash: "ee9fdc30adb8894c"
+sourceContentHash: "e9227c4406031f36"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,27 +73,7 @@ sources:
     url: "https://www.freemalaysiatoday.com/category/nation/2026/06/12/harimau-malaya-climb-2-spots-in-fifa-rankings-to-136th"
     publisher: "Free Malaysia Today"
   - title: "Adiós, Syed Ahmad: la leyenda que llevó al equipo de fútbol a los Juegos Olímpicos de Múnich de 1972 (So long, Syed Ahmad – the legend who steered football team to 1972 Munich Olympics)"
-    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad
-images:
-  - role: scene
-    src: /media/sports/football-in-malaysia/body-1.webp
-    alt: Un partido de fútbol en curso sobre el césped del Stadium Tuanku Abdul Rahman en Paroi, Seremban, Negeri Sembilan.
-    kind: actual
-    origin: third-party
-    subject: Un partido de fútbol en el Stadium Tuanku Abdul Rahman en Paroi, Negeri Sembilan
-    credit: Mohd Izzudin / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
-  - role: scene
-    src: /media/sports/football-in-malaysia/body-2.webp
-    alt: Una cancha pública de fútbol sala al aire libre en un barrio residencial de Kota Damansara, Petaling Jaya, Selangor.
-    kind: actual
-    origin: third-party
-    subject: Una cancha comunitaria de fútbol sala en Kota Damansara, Selangor, un entorno de base del fútbol malasio
-    credit: Wiki Farazi / Wikimedia Commons
-    license: CC0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
----the-legend-who-steered-football-team-to-1972-munich-olympics"
+    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad---the-legend-who-steered-football-team-to-1972-munich-olympics"
     publisher: "The Star"
   - title: "¿Dónde están ahora?: los forjadores de la historia de Malasia en la AFF Suzuki Cup de 2010 (Where are they now: Malaysia's history makers of the 2010 AFF Suzuki Cup)"
     url: "https://www.espn.com/soccer/story/_/id/37622930/where-now-malaysia-history-makers-2010-aff-suzuki-cup"
@@ -121,6 +101,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-1.webp
+    alt: Un partido de fútbol en curso sobre el césped del Stadium Tuanku Abdul Rahman en Paroi, Seremban, Negeri Sembilan.
+    kind: actual
+    origin: third-party
+    subject: Un partido de fútbol en el Stadium Tuanku Abdul Rahman en Paroi, Negeri Sembilan
+    credit: Mohd Izzudin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-2.webp
+    alt: Una cancha pública de fútbol sala al aire libre en un barrio residencial de Kota Damansara, Petaling Jaya, Selangor.
+    kind: actual
+    origin: third-party
+    subject: Una cancha comunitaria de fútbol sala en Kota Damansara, Selangor, un entorno de base del fútbol malasio
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
 ---
 
 En 1921, Singapur venció a Selangor por 2-1 en la final de un nuevo torneo de fútbol en Malaya. Más de un siglo después, aquella competición —hoy conocida como la Copa de Malasia— sigue siendo la corona más prestigiosa del deporte más querido del país.

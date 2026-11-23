@@ -37,7 +37,7 @@ faq:
     a: "事業は2018年5月、Pakatan Harapan政権の下で財政上の理由により中止されました。2019年末から見直しに付され、2021年に再び進めるための閣議承認を得て、2022年3月に再確認されました。2024年末の公開縦覧を経て、最終鉄道計画が2025年7月に承認され、用地取得、ひいては建設の進行が可能になりました。"
 
 lang: "ja"
-sourceContentHash: "563a889abce3b119"
+sourceContentHash: "935beaf378ec25f3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,27 +78,7 @@ sources:
     url: "https://paultan.org/2025/07/18/mrt3-is-a-go-51-6-km-circle-line-approved-by-transport-ministry-land-acquisition-is-the-next-step/"
     publisher: "Paul Tan's Automotive News"
   - title: "MRT3——高くつく必需品か？ (MRT3 - a costly necessity?)"
-    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3
-images:
-  - role: scene
-    src: /media/transport/mrt3-circle-line/body-1.webp
-    alt: 既存のMRTカジャン線ブキッ・ビンタン駅の地下ホーム。クランバレーのMRT駅を代表するもの。
-    kind: representative
-    origin: third-party
-    subject: 既存のクランバレーMRT（カジャン線）ブキッ・ビンタンの地下ホーム
-    credit: Slleong / Wikimedia Commons
-    license: CC0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:SBK_Line_Bukit_Bintang_Station_Platform_1_1.jpg
-  - role: scene
-    src: /media/transport/mrt3-circle-line/body-2.webp
-    alt: クアラルンプールのジャラン・イポーのスカイラインを横切る高架橋上を走るプトラジャヤ線のMRT列車。
-    kind: representative
-    origin: third-party
-    subject: クアラルンプール上空の高架クランバレーMRT（プトラジャヤ線）高架橋
-    credit: '*angys* / Wikimedia Commons'
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Ipoh_Skyline_with_Putrajaya_Line_train_from_Batu_Kentonmen_KTM_Station_(220714).jpg
----a-costly-necessity"
+    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3---a-costly-necessity"
     publisher: "The Star"
   - title: "MRT3のRM310億の建設費が注目の的に (MRT3's RM31 bil construction price tag in the spotlight)"
     url: "https://theedgemalaysia.com/article/mrt3s-rm31-bil-construction-price-tag-spotlight"
@@ -118,6 +98,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Train_of_MRT_Kajang_Line.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-1.webp
+    alt: 既存のMRTカジャン線ブキッ・ビンタン駅の地下ホーム。クランバレーのMRT駅を代表するもの。
+    kind: representative
+    origin: third-party
+    subject: 既存のクランバレーMRT（カジャン線）ブキッ・ビンタンの地下ホーム
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBK_Line_Bukit_Bintang_Station_Platform_1_1.jpg
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-2.webp
+    alt: クアラルンプールのジャラン・イポーのスカイラインを横切る高架橋上を走るプトラジャヤ線のMRT列車。
+    kind: representative
+    origin: third-party
+    subject: クアラルンプール上空の高架クランバレーMRT（プトラジャヤ線）高架橋
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Ipoh_Skyline_with_Putrajaya_Line_train_from_Batu_Kentonmen_KTM_Station_(220714).jpg
 ---
 
 たいていの新しい鉄道は、人々をどこか新しい場所へ運ぶために建設される。MRT3サークル線が建設されるのは、クアラルンプールがすでに持っている路線を結び合わせるためだ——その主たる役目が被覆ではなく接続である、市を取り巻く一つのリングである。

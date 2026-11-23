@@ -28,7 +28,7 @@ faq:
     a: "สมาคมผู้อยู่อาศัยเป็นสมาคมที่จดทะเบียนภายใต้พระราชบัญญัติสมาคม 1966 (Societies Act 1966) ไม่ใช่นิติบุคคลตามกฎหมาย จึงไม่มีอำนาจเทียบเท่าคณะกรรมการบริหารร่วมหรือนิติบุคคลอาคารชุดในการบังคับให้ชำระเงิน ศาลอนุญาตให้สมาคมกำหนดให้ผู้อยู่อาศัยที่ไม่จ่ายเงินต้องเปิด-ปิดประตูกั้นที่ใช้ร่วมกันเอง แต่การปฏิเสธไม่ให้ผู้อยู่อาศัยเข้าโดยสิ้นเชิงเสี่ยงที่จะเป็นการก่อความเดือดร้อนรำคาญที่ฟ้องร้องได้"
 
 lang: "th"
-sourceContentHash: "5d0d6e50f897a3e0"
+sourceContentHash: "be09434e883ecaf2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -53,27 +53,7 @@ sources:
     publisher: "กรมผังเมืองและชนบทคาบสมุทรมาเลเซีย กระทรวงการเคหะและการปกครองท้องถิ่น"
     date: "2010-09-02"
   - title: "พระราชบัญญัติถนน การระบายน้ำ และอาคาร 1974 (พระราชบัญญัติ 133) — ฉบับพิมพ์ซ้ำทางการ มาตรา 46 (การกีดขวาง) (Street, Drainage and Building Act 1974 (Act 133) — official reprint text, s.46 (Obstruction))"
-    url: "https://www.ppj.gov.my/storage/7476/133
-images:
-  - role: scene
-    src: /media/property/gated-communities-and-security/body-1.webp
-    alt: Arden Hill ชุมชนปิดระดับหรูภายในหมู่บ้านจัดสรร Forest Heights ในเซอเริมบัน จัดวางบ้านมีที่ดินไว้หลังแนวรั้วควบคุมเพียงแนวเดียว
-    kind: actual
-    origin: third-party
-    subject: ชุมชนปิดระดับหรู Arden Hill ใน Forest Heights เซอเริมบัน
-    credit: AyyanD / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
-  - role: scene
-    src: /media/property/gated-communities-and-security/body-2.webp
-    alt: บ้านมีที่ดินและพื้นที่สีเขียวที่ตัดแต่งเรียบร้อยเต็มไปทั่วหมู่บ้านจัดสรรแบบปิดและมีการ์ด Horizon Hills ในอิสกันดาร์ปูเตอรี รัฐยะโฮร์ อันเป็นชุมชนที่พักอาศัยขนาดใหญ่ที่บริหารจัดการด้านความปลอดภัย
-    kind: actual
-    origin: third-party
-    subject: หมู่บ้านจัดสรรแบบปิด Horizon Hills อิสกันดาร์ปูเตอรี รัฐยะโฮร์
-    credit: Chongkian / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
----STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
+    url: "https://www.ppj.gov.my/storage/7476/133---STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
     publisher: "Laws of Malaysia / องค์การปุตราจายา"
   - title: "พระราชบัญญัติการจัดการอาคารชุด 2013 (พระราชบัญญัติ 757) มาตรา 17, 21, 32 — การจัดตั้ง อำนาจ และข้อบังคับของคณะกรรมการบริหารร่วม (Strata Management Act 2013 (Act 757), ss.17, 21, 32 — establishment, powers and by-laws of the Joint Management Body)"
     url: "https://www.leepartners.my/wp-content/uploads/2016/08/STRATA_MANAGEMENT_ACT_2013_ACT_757.pdf"
@@ -99,6 +79,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-1.webp
+    alt: Arden Hill ชุมชนปิดระดับหรูภายในหมู่บ้านจัดสรร Forest Heights ในเซอเริมบัน จัดวางบ้านมีที่ดินไว้หลังแนวรั้วควบคุมเพียงแนวเดียว
+    kind: actual
+    origin: third-party
+    subject: ชุมชนปิดระดับหรู Arden Hill ใน Forest Heights เซอเริมบัน
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-2.webp
+    alt: บ้านมีที่ดินและพื้นที่สีเขียวที่ตัดแต่งเรียบร้อยเต็มไปทั่วหมู่บ้านจัดสรรแบบปิดและมีการ์ด Horizon Hills ในอิสกันดาร์ปูเตอรี รัฐยะโฮร์ อันเป็นชุมชนที่พักอาศัยขนาดใหญ่ที่บริหารจัดการด้านความปลอดภัย
+    kind: actual
+    origin: third-party
+    subject: หมู่บ้านจัดสรรแบบปิด Horizon Hills อิสกันดาร์ปูเตอรี รัฐยะโฮร์
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
 ---
 
 พื้นที่ที่อยู่อาศัยสองแห่งสามารถดูเหมือนกันได้ ทั้งป้อมยามอิฐ ประตูกั้นลาย ยามในเครื่องแบบตรวจสติกเกอร์ของคุณ แห่งหนึ่งยืนอยู่บนพื้นฐานทางกฎหมายที่มั่นคง อีกแห่งหนึ่งดำรงอยู่ได้เพราะยังไม่มีใครโต้แย้ง

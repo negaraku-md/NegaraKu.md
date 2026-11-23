@@ -37,7 +37,7 @@ faq:
     a: "இந்தத் திட்டம் மே 2018-இல் Pakatan Harapan அரசாங்கத்தின் கீழ் நிதி காரணங்களுக்காக ரத்து செய்யப்பட்டது. இது 2019 பிற்பகுதியிலிருந்து மறுஆய்வுக்கு உட்படுத்தப்பட்டு, 2021-இல் மீண்டும் தொடர அமைச்சரவை ஒப்புதல் பெற்று, மார்ச் 2022-இல் மீண்டும் உறுதிப்படுத்தப்பட்டது. 2024 பிற்பகுதியில் பொது ஆய்விற்குப் பிறகு, இறுதி ரயில் திட்டம் ஜூலை 2025-இல் அங்கீகரிக்கப்பட்டு, நிலம் கையகப்படுத்தல் மற்றும் இறுதியில் கட்டுமானம் தொடர அனுமதித்தது."
 
 lang: "ta"
-sourceContentHash: "563a889abce3b119"
+sourceContentHash: "935beaf378ec25f3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,27 +78,7 @@ sources:
     url: "https://paultan.org/2025/07/18/mrt3-is-a-go-51-6-km-circle-line-approved-by-transport-ministry-land-acquisition-is-the-next-step/"
     publisher: "Paul Tan's Automotive News"
   - title: "MRT3 - ஒரு விலையுயர்ந்த தேவையா? (MRT3 - a costly necessity?)"
-    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3
-images:
-  - role: scene
-    src: /media/transport/mrt3-circle-line/body-1.webp
-    alt: தற்போதைய MRT காஜாங் வழியில் புக்கிட் பிந்தாங்கில் உள்ள நிலத்தடித் தளம், கிள்ளாங் பள்ளத்தாக்கு MRT நிலையங்களைப் பிரதிநிதித்துவப்படுத்துகிறது.
-    kind: representative
-    origin: third-party
-    subject: புக்கிட் பிந்தாங்கில் உள்ள தற்போதைய கிள்ளாங் பள்ளத்தாக்கு MRT (காஜாங் வழி) நிலத்தடித் தளம்
-    credit: Slleong / Wikimedia Commons
-    license: CC0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:SBK_Line_Bukit_Bintang_Station_Platform_1_1.jpg
-  - role: scene
-    src: /media/transport/mrt3-circle-line/body-2.webp
-    alt: கோலாலம்பூரில் ஜாலான் இப்போ வானளாவிய காட்சியைக் கடந்து செல்லும் உயர்த்தப்பட்ட மேம்பாலத்தில் ஒரு புத்ராஜெயா வழி MRT ரயில்.
-    kind: representative
-    origin: third-party
-    subject: கோலாலம்பூருக்கு மேலே உயர்த்தப்பட்ட கிள்ளாங் பள்ளத்தாக்கு MRT (புத்ராஜெயா வழி) மேம்பாலம்
-    credit: '*angys* / Wikimedia Commons'
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Ipoh_Skyline_with_Putrajaya_Line_train_from_Batu_Kentonmen_KTM_Station_(220714).jpg
----a-costly-necessity"
+    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3---a-costly-necessity"
     publisher: "The Star"
   - title: "MRT3-இன் RM31 பில்லியன் கட்டுமானச் செலவு கவனத்தில் (MRT3's RM31 bil construction price tag in the spotlight)"
     url: "https://theedgemalaysia.com/article/mrt3s-rm31-bil-construction-price-tag-spotlight"
@@ -118,6 +98,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Train_of_MRT_Kajang_Line.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-1.webp
+    alt: தற்போதைய MRT காஜாங் வழியில் புக்கிட் பிந்தாங்கில் உள்ள நிலத்தடித் தளம், கிள்ளாங் பள்ளத்தாக்கு MRT நிலையங்களைப் பிரதிநிதித்துவப்படுத்துகிறது.
+    kind: representative
+    origin: third-party
+    subject: புக்கிட் பிந்தாங்கில் உள்ள தற்போதைய கிள்ளாங் பள்ளத்தாக்கு MRT (காஜாங் வழி) நிலத்தடித் தளம்
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBK_Line_Bukit_Bintang_Station_Platform_1_1.jpg
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-2.webp
+    alt: கோலாலம்பூரில் ஜாலான் இப்போ வானளாவிய காட்சியைக் கடந்து செல்லும் உயர்த்தப்பட்ட மேம்பாலத்தில் ஒரு புத்ராஜெயா வழி MRT ரயில்.
+    kind: representative
+    origin: third-party
+    subject: கோலாலம்பூருக்கு மேலே உயர்த்தப்பட்ட கிள்ளாங் பள்ளத்தாக்கு MRT (புத்ராஜெயா வழி) மேம்பாலம்
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Ipoh_Skyline_with_Putrajaya_Line_train_from_Batu_Kentonmen_KTM_Station_(220714).jpg
 ---
 
 பெரும்பாலான புதிய ரயில் வழித்தடங்கள் மக்களை ஒரு புதிய இடத்திற்கு எடுத்துச் செல்லக் கட்டப்படுகின்றன. MRT3 வட்ட வழித்தடம் கட்டப்படுவது கோலாலம்பூரில் ஏற்கெனவே உள்ள வழித்தடங்களை ஒன்றாகக் கட்டவே — நகரத்தைச் சுற்றியுள்ள ஒரு வளையம், அதன் முக்கியப் பணி இணைப்பு, மறைப்பு அல்ல.

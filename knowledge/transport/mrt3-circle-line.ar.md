@@ -37,7 +37,7 @@ faq:
     a: "أُلغي المشروع في مايو 2018 في عهد حكومة Pakatan Harapan لأسباب مالية. ثم وُضع قيد المراجعة من أواخر 2019، ونال موافقة مجلس الوزراء على المضي قدماً مجدداً في 2021، وأُعيد تأكيده في مارس 2022. وبعد عرض عام في أواخر 2024، اعتُمد المخطط السككي النهائي في يوليو 2025، ما سمح بالاستملاك، ثم البناء في نهاية المطاف، بالمضي قدماً."
 
 lang: "ar"
-sourceContentHash: "563a889abce3b119"
+sourceContentHash: "935beaf378ec25f3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,27 +78,7 @@ sources:
     url: "https://paultan.org/2025/07/18/mrt3-is-a-go-51-6-km-circle-line-approved-by-transport-ministry-land-acquisition-is-the-next-step/"
     publisher: "Paul Tan's Automotive News"
   - title: "MRT3 - ضرورة باهظة التكلفة؟ (MRT3 - a costly necessity?)"
-    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3
-images:
-  - role: scene
-    src: /media/transport/mrt3-circle-line/body-1.webp
-    alt: الرصيف تحت الأرض في Bukit Bintang على خط MRT Kajang القائم، كمثال على محطات MRT في Klang Valley.
-    kind: representative
-    origin: third-party
-    subject: رصيف تحت الأرض لخط MRT القائم في Klang Valley (خط Kajang) في Bukit Bintang
-    credit: Slleong / Wikimedia Commons
-    license: CC0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:SBK_Line_Bukit_Bintang_Station_Platform_1_1.jpg
-  - role: scene
-    src: /media/transport/mrt3-circle-line/body-2.webp
-    alt: قطار MRT من خط Putrajaya على جسر علوي يعبر أفق Jalan Ipoh في Kuala Lumpur.
-    kind: representative
-    origin: third-party
-    subject: جسر علوي لخط MRT في Klang Valley (خط Putrajaya) فوق Kuala Lumpur
-    credit: '*angys* / Wikimedia Commons'
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Ipoh_Skyline_with_Putrajaya_Line_train_from_Batu_Kentonmen_KTM_Station_(220714).jpg
----a-costly-necessity"
+    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3---a-costly-necessity"
     publisher: "The Star"
   - title: "تكلفة إنشاء MRT3 البالغة RM31 مليار في دائرة الضوء (MRT3's RM31 bil construction price tag in the spotlight)"
     url: "https://theedgemalaysia.com/article/mrt3s-rm31-bil-construction-price-tag-spotlight"
@@ -118,6 +98,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Train_of_MRT_Kajang_Line.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-1.webp
+    alt: الرصيف تحت الأرض في Bukit Bintang على خط MRT Kajang القائم، كمثال على محطات MRT في Klang Valley.
+    kind: representative
+    origin: third-party
+    subject: رصيف تحت الأرض لخط MRT القائم في Klang Valley (خط Kajang) في Bukit Bintang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBK_Line_Bukit_Bintang_Station_Platform_1_1.jpg
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-2.webp
+    alt: قطار MRT من خط Putrajaya على جسر علوي يعبر أفق Jalan Ipoh في Kuala Lumpur.
+    kind: representative
+    origin: third-party
+    subject: جسر علوي لخط MRT في Klang Valley (خط Putrajaya) فوق Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Ipoh_Skyline_with_Putrajaya_Line_train_from_Batu_Kentonmen_KTM_Station_(220714).jpg
 ---
 
 تُبنى معظم خطوط السكك الحديدية الجديدة لنقل الناس إلى مكان جديد. أما خط MRT3 الدائري فيُبنى ليربط الخطوط التي تملكها كوالالمبور أصلاً بعضها ببعض — حلقة حول المدينة مهمتها الأساسية الاتصال لا التغطية.

@@ -37,7 +37,7 @@ faq:
     a: "사업은 2018년 5월 Pakatan Harapan 정부 아래 재정상의 이유로 취소되었습니다. 2019년 말부터 검토에 부쳐졌고, 2021년에 다시 추진하기 위한 내각 승인을 받았으며, 2022년 3월에 재확인되었습니다. 2024년 말 공개 열람을 거쳐 최종 철도 계획이 2025년 7월에 승인되어, 토지 수용과 결국 건설의 진행이 가능해졌습니다."
 
 lang: "ko"
-sourceContentHash: "563a889abce3b119"
+sourceContentHash: "935beaf378ec25f3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,27 +78,7 @@ sources:
     url: "https://paultan.org/2025/07/18/mrt3-is-a-go-51-6-km-circle-line-approved-by-transport-ministry-land-acquisition-is-the-next-step/"
     publisher: "Paul Tan's Automotive News"
   - title: "MRT3 — 값비싼 필수품인가? (MRT3 - a costly necessity?)"
-    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3
-images:
-  - role: scene
-    src: /media/transport/mrt3-circle-line/body-1.webp
-    alt: 클랑밸리 MRT 역을 대표하는, 기존 MRT 카장선 부킷 빈탕역의 지하 승강장.
-    kind: representative
-    origin: third-party
-    subject: 기존 클랑밸리 MRT(카장선) 부킷 빈탕 지하 승강장
-    credit: Slleong / Wikimedia Commons
-    license: CC0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:SBK_Line_Bukit_Bintang_Station_Platform_1_1.jpg
-  - role: scene
-    src: /media/transport/mrt3-circle-line/body-2.webp
-    alt: 쿠알라룸푸르 잘란 이포 일대의 스카이라인을 가로지르는 고가교 위를 달리는 푸트라자야선 MRT 열차.
-    kind: representative
-    origin: third-party
-    subject: 쿠알라룸푸르 상공을 가로지르는 고가 클랑밸리 MRT(푸트라자야선) 고가교
-    credit: '*angys* / Wikimedia Commons'
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Ipoh_Skyline_with_Putrajaya_Line_train_from_Batu_Kentonmen_KTM_Station_(220714).jpg
----a-costly-necessity"
+    url: "https://www.thestar.com.my/business/business-news/2025/07/26/mrt3---a-costly-necessity"
     publisher: "The Star"
   - title: "MRT3의 RM310억 건설비가 주목의 대상으로 (MRT3's RM31 bil construction price tag in the spotlight)"
     url: "https://theedgemalaysia.com/article/mrt3s-rm31-bil-construction-price-tag-spotlight"
@@ -118,6 +98,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Train_of_MRT_Kajang_Line.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-1.webp
+    alt: 클랑밸리 MRT 역을 대표하는, 기존 MRT 카장선 부킷 빈탕역의 지하 승강장.
+    kind: representative
+    origin: third-party
+    subject: 기존 클랑밸리 MRT(카장선) 부킷 빈탕 지하 승강장
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBK_Line_Bukit_Bintang_Station_Platform_1_1.jpg
+  - role: scene
+    src: /media/transport/mrt3-circle-line/body-2.webp
+    alt: 쿠알라룸푸르 잘란 이포 일대의 스카이라인을 가로지르는 고가교 위를 달리는 푸트라자야선 MRT 열차.
+    kind: representative
+    origin: third-party
+    subject: 쿠알라룸푸르 상공을 가로지르는 고가 클랑밸리 MRT(푸트라자야선) 고가교
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Ipoh_Skyline_with_Putrajaya_Line_train_from_Batu_Kentonmen_KTM_Station_(220714).jpg
 ---
 
 대부분의 새 철도 노선은 사람들을 새로운 곳으로 실어 나르기 위해 지어집니다. MRT3 순환선은 쿠알라룸푸르가 이미 가진 노선들을 하나로 묶기 위해 지어집니다 — 그 주된 임무가 커버리지가 아니라 연결인, 도시를 둘러싼 하나의 고리입니다.

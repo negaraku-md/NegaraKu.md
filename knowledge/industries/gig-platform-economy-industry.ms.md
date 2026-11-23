@@ -31,7 +31,7 @@ faq:
   - q: Adakah ini sama dengan artikel Akta Pekerja Gig?
     a: "Tidak. Artikel Akta Pekerja Gig 2025 menerangkan undang-undang itu sendiri — hak, kontrak dan tribunal. Artikel ini meliputi sektor ekonomi — sebesar mana ekonomi gig dan platform, siapa platform utamanya, dan bagaimana ia menyesuaikan diri ke dalam ekonomi digital yang lebih luas."
 lang: ms
-sourceContentHash: "a1c033e7ed54660d"
+sourceContentHash: "18e840f22ec2e770"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -60,27 +60,7 @@ sources:
     url: https://mohr.gov.my/images/pdf/KENYATAAN%20MEDIA%20PEKERJA%20GIG.pdf
     publisher: Kementerian Sumber Manusia (KESUMA), Malaysia
   - title: Kabinet lulus SEGiM untuk menjaga kebajikan pekerja gig (Cabinet approves SEGiM to safeguard gig workers' welfare)
-    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig
-images:
-  - role: scene
-    src: /media/industries/gig-platform-economy-industry/body-1.webp
-    alt: Seorang penunggang penghantaran makanan berjaket dan bertopi keledar foodpanda merah jambu menunggang motosikal kapcai sambil membawa kotak penghantaran bertebat foodpanda merah jambu yang besar ketika berhenti dalam lalu lintas jalan.
-    kind: representative
-    origin: third-party
-    subject: Penunggang penghantaran makanan motosikal Foodpanda dengan kotak penghantaran bertebat merah jambu (kerja platform gig yang mewakili; bukan Grab)
-    credit: Chainwit. / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
-  - role: scene
-    src: /media/industries/gig-platform-economy-industry/body-2.webp
-    alt: Seorang kurier penghantaran makanan platform berdiri di atas kaki lima memakai beg galas penghantaran makanan bertebat yang besar.
-    kind: representative
-    origin: third-party
-    subject: Kurier penghantaran makanan dengan beg penghantaran platform bertebat (bukan Grab)
-    credit: Alexander Corkhill / Wikimedia Commons
-    license: CC BY 2.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
----tpm
+    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig---tpm
     publisher: Sinar Harian
   - title: Parlimen Luluskan Rang Undang-Undang Pekerja Gig 2025 (Parliament Passes Gig Workers Bill 2025)
     url: https://ringgitplus.com/en/blog/personal-finance-news/parliament-passes-gig-workers-bill-2025.html
@@ -125,6 +105,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-1.webp
+    alt: Seorang penunggang penghantaran makanan berjaket dan bertopi keledar foodpanda merah jambu menunggang motosikal kapcai sambil membawa kotak penghantaran bertebat foodpanda merah jambu yang besar ketika berhenti dalam lalu lintas jalan.
+    kind: representative
+    origin: third-party
+    subject: Penunggang penghantaran makanan motosikal Foodpanda dengan kotak penghantaran bertebat merah jambu (kerja platform gig yang mewakili; bukan Grab)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-2.webp
+    alt: Seorang kurier penghantaran makanan platform berdiri di atas kaki lima memakai beg galas penghantaran makanan bertebat yang besar.
+    kind: representative
+    origin: third-party
+    subject: Kurier penghantaran makanan dengan beg penghantaran platform bertebat (bukan Grab)
+    credit: Alexander Corkhill / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
 ---
 
 Setiap hari, berjuta-juta transaksi di Malaysia diatur bukan oleh kedai, pejabat atau pangkalan teksi, tetapi oleh aplikasi: kereta dipanggil ke tepi jalan, sebeg makanan dibawa merentasi bandar atas motosikal, logo direka untuk pelanggan yang pekerja bebas itu tidak akan pernah temui. Inilah ekonomi gig dan platform — kerja yang diperantarakan platform digital — dan dalam sedikit lebih sedekad ia telah beralih daripada benda baharu kepada salah satu ciri paling ketara dalam kehidupan pekerja Malaysia.

@@ -31,7 +31,7 @@ faq:
   - q: "هل هذا نفسه مقال قانون عمّال العمل الحرّ؟"
     a: "لا. فمقال قانون عمّال العمل الحرّ 2025 يشرح القانون نفسه — الحقوق والعقود والمحكمة. أما هذا المقال فيغطّي القطاع الاقتصادي — ما حجم اقتصاد العمل الحرّ والمنصّات، ومن هي المنصّات الرئيسية، وكيف يتلاءم مع الاقتصاد الرقمي الأوسع."
 lang: ar
-sourceContentHash: "a1c033e7ed54660d"
+sourceContentHash: "18e840f22ec2e770"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -60,27 +60,7 @@ sources:
     url: https://mohr.gov.my/images/pdf/KENYATAAN%20MEDIA%20PEKERJA%20GIG.pdf
     publisher: "وزارة الموارد البشرية (KESUMA)، ماليزيا"
   - title: "مجلس الوزراء يقرّ SEGiM لصون رفاه عمّال العمل الحرّ (Cabinet approves SEGiM to safeguard gig workers' welfare)"
-    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig
-images:
-  - role: scene
-    src: /media/industries/gig-platform-economy-industry/body-1.webp
-    alt: عامل توصيل طعام يرتدي سترة وخوذة Foodpanda وردية على دراجة نارية من نوع underbone (kapcai) يحمل صندوق توصيل Foodpanda معزولًا كبيرًا ورديًا بينما يتوقف في زحام الشارع.
-    kind: representative
-    origin: third-party
-    subject: عامل توصيل طعام على دراجة نارية من Foodpanda مع صندوق توصيل معزول وردي (عمل منصّات مثال؛ غير Grab)
-    credit: Chainwit. / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
-  - role: scene
-    src: /media/industries/gig-platform-economy-industry/body-2.webp
-    alt: عامل توصيل طعام عبر منصّة يقف على الرصيف مرتديًا حقيبة ظهر كبيرة معزولة لتوصيل الطعام.
-    kind: representative
-    origin: third-party
-    subject: عامل توصيل طعام بحقيبة توصيل معزولة لمنصّة (غير Grab)
-    credit: Alexander Corkhill / Wikimedia Commons
-    license: CC BY 2.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
----tpm
+    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig---tpm
     publisher: Sinar Harian
   - title: "البرلمان يقرّ مشروع قانون عمّال العمل الحرّ 2025 (Parliament Passes Gig Workers Bill 2025)"
     url: https://ringgitplus.com/en/blog/personal-finance-news/parliament-passes-gig-workers-bill-2025.html
@@ -125,6 +105,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-1.webp
+    alt: عامل توصيل طعام يرتدي سترة وخوذة Foodpanda وردية على دراجة نارية من نوع underbone (kapcai) يحمل صندوق توصيل Foodpanda معزولًا كبيرًا ورديًا بينما يتوقف في زحام الشارع.
+    kind: representative
+    origin: third-party
+    subject: عامل توصيل طعام على دراجة نارية من Foodpanda مع صندوق توصيل معزول وردي (عمل منصّات مثال؛ غير Grab)
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-2.webp
+    alt: عامل توصيل طعام عبر منصّة يقف على الرصيف مرتديًا حقيبة ظهر كبيرة معزولة لتوصيل الطعام.
+    kind: representative
+    origin: third-party
+    subject: عامل توصيل طعام بحقيبة توصيل معزولة لمنصّة (غير Grab)
+    credit: Alexander Corkhill / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
 ---
 
 كل يوم، تُرتَّب ملايين المعاملات في ماليزيا لا عبر متجر أو مكتب أو موقف سيارات أجرة، بل عبر تطبيق: سيارة تُستدعى إلى الرصيف، وكيس طعام يُحمل عبر المدينة على دراجة نارية، وشعار يُصمَّم لعميل لن يلتقيه المستقلّ أبدًا. هذا هو اقتصاد العمل الحرّ والمنصّات — عملٌ تتوسّطه المنصّات الرقمية — وفي ما يزيد قليلًا على عقد انتقل من طرافة إلى واحدة من أكثر سمات حياة العمل الماليزية ظهورًا.

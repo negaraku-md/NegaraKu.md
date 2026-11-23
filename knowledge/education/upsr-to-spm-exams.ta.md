@@ -22,7 +22,7 @@ verificationNeeded:
   - "படிவம் 3 கற்றல் மேட்ரிக்ஸின் (2027 முதல்) முழு வடிவம் மற்றும் பாட விவரங்கள், இந்த வரைவு தயாரிக்கப்பட்ட நேரத்தில் தேர்வு வாரியத்தின் அதிகாரப்பூர்வ இணையதளத்தில் விரிவாக உறுதிப்படுத்தப்படவில்லை; ஆண்டு 4 2026 அட்டவணை (4 அடிப்படைப் பாடங்கள்) மட்டுமே உறுதிப்படுத்தப்பட்டது. படிவம் 3 வரைவு வெளியிடப்படும்போது lp.moe.gov.my-ல் மீண்டும் சரிபார்க்கவும்."
   - "தேசியக் கல்வி ஆலோசனை மன்றம் (MPPK) UPSR/PT3 மறுஆய்வின் முழு அறிக்கையை அமைச்சரவைக்கு (Kabinet) வெளியிட்டதா என்பது, இந்த வரைவு தயாரிக்கப்பட்ட நேரத்தில் அதிகாரப்பூர்வ மூலங்களில் உறுதிப்படுத்த முடியவில்லை; 2026 ஜனவரியில் அமைச்சரின் அறிக்கை கிடைக்கக்கூடிய சமீபத்திய நிலையாக எடுத்துக்கொள்ளப்படுகிறது."
 lang: "ta"
-sourceContentHash: "19a7917a0ffae099"
+sourceContentHash: "ea0270523001c9e4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -52,27 +52,7 @@ sources:
     publisher: "Sinar Harian"
     date: "2021-04-28"
   - title: "PT3 2022 முதல் ஒழிக்கப்படுகிறது - கல்வி அமைச்சர் (PT3 dimansuhkan mulai 2022 - Menteri Pendidikan)"
-    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022
-images:
-  - role: scene
-    src: /media/education/upsr-to-spm-exams/body-1.webp
-    alt: Sabah-இல் உள்ள SMK Bugaya II-இன் வண்ணமயமான நீல-மஞ்சள் பள்ளி மண்டபம் (dewan); SPM போன்ற பொதுத் தேர்வுகள் எழுதப்படும் வகை மண்டபம்.
-    kind: representative
-    origin: third-party
-    subject: பொதுத் தேர்வுகளுக்குப் பயன்படுத்தப்படும் வகை மலேசிய இடைநிலைப் பள்ளி மண்டபம்
-    credit: Zahirulnukman / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
-  - role: scene
-    src: /media/education/upsr-to-spm-exams/body-2.webp
-    alt: Sabah-இல் உள்ள அரசு இடைநிலைப் பள்ளியான SMK Sapulut-இன் பல மாடி வகுப்பறைத் தொகுதி.
-    kind: actual
-    origin: third-party
-    subject: ஒரு மலேசிய இடைநிலைப் பள்ளி (SMK Sapulut)
-    credit: CEphoto, Uwe Aranas / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
----menteri-pendidikan"
+    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022---menteri-pendidikan"
     publisher: "mStar"
     date: "2022-06-02"
   - title: "PT3, UPSR தேவை மறுபரிசீலனை - ஃபத்லினா (Keperluan PT3, UPSR dikaji semula - Fadhlina)"
@@ -103,6 +83,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-1.webp
+    alt: Sabah-இல் உள்ள SMK Bugaya II-இன் வண்ணமயமான நீல-மஞ்சள் பள்ளி மண்டபம் (dewan); SPM போன்ற பொதுத் தேர்வுகள் எழுதப்படும் வகை மண்டபம்.
+    kind: representative
+    origin: third-party
+    subject: பொதுத் தேர்வுகளுக்குப் பயன்படுத்தப்படும் வகை மலேசிய இடைநிலைப் பள்ளி மண்டபம்
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-2.webp
+    alt: Sabah-இல் உள்ள அரசு இடைநிலைப் பள்ளியான SMK Sapulut-இன் பல மாடி வகுப்பறைத் தொகுதி.
+    kind: actual
+    origin: third-party
+    subject: ஒரு மலேசிய இடைநிலைப் பள்ளி (SMK Sapulut)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
 ---
 
 உங்கள் பிள்ளை இப்போது ஆண்டு 6-ல் இருந்தால், அவர் UPSR எழுத மாட்டார். அந்தப் பிள்ளை படிவம் 3-ல் இருந்தால், அவரை எந்த PT3-ம் காத்திருக்கவில்லை. ஒரு மாணவரின் முழுப் பள்ளிப் பயணத்தையும் ஒருகாலத்தில் தீர்மானித்த பெரிய தேர்வுகள் — உங்கள் சொந்தப் பெற்றோர் கூட கடும் அழுத்தத்தில் கடந்துசென்றிருக்கக்கூடிய அதே தேர்வுகள் — சில ஆண்டுகளாக இப்போது இல்லாமல் போய்விட்டன. ஆனால் பல பெற்றோர் இன்னும் குழம்பியிருக்கிறார்கள்: அவற்றை எது மாற்றியது, அவை மீண்டும் கொண்டுவரப்படுமா, மேலும் இப்போது தினமும் அவர்களது பிள்ளையின் பள்ளியில் உண்மையில் என்ன நடக்கிறது.

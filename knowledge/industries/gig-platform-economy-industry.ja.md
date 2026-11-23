@@ -31,7 +31,7 @@ faq:
   - q: これはギグワーカー法の記事と同じですか。
     a: いいえ。2025年ギグワーカー法の記事は、法律そのもの――権利、契約、審判所――を説明します。この記事は経済部門――ギグ・プラットフォーム経済の規模、主要なプラットフォームは誰か、そしてそれがより広いデジタル経済にどう収まるか――を扱います。
 lang: ja
-sourceContentHash: "a1c033e7ed54660d"
+sourceContentHash: "18e840f22ec2e770"
 masterLanguage: en
 translationStatus: "in-sync"
 status: published
@@ -60,27 +60,7 @@ sources:
     url: https://mohr.gov.my/images/pdf/KENYATAAN%20MEDIA%20PEKERJA%20GIG.pdf
     publisher: "人的資源省 (KESUMA)"
   - title: "内閣、ギグワーカーの福祉を守るSEGiMを承認 (Cabinet approves SEGiM to safeguard gig workers' welfare)"
-    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig
-images:
-  - role: scene
-    src: /media/industries/gig-platform-economy-industry/body-1.webp
-    alt: ピンク色のfoodpandaのジャケットとヘルメットを身につけた配達員が、大きなピンクのfoodpanda保温配達ボックスを積んだアンダーボーン型バイク（kapcai）に乗り、路上の渋滞で停車している様子。
-    kind: representative
-    origin: third-party
-    subject: ピンクの保温配達ボックスを積んだfoodpandaのバイク配達員（ギグプラットフォーム労働の代表例、Grabではない）
-    credit: Chainwit. / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
-  - role: scene
-    src: /media/industries/gig-platform-economy-industry/body-2.webp
-    alt: 大きな保温配達用バックパックを背負って歩道に立つ、プラットフォームのフード配達員。
-    kind: representative
-    origin: third-party
-    subject: プラットフォームの保温配達バッグを背負った配達員（Grabではない）
-    credit: Alexander Corkhill / Wikimedia Commons
-    license: CC BY 2.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
----tpm
+    url: https://www.sinarharian.com.my/article/770735/berita/nasional/kabinet-lulus-segim-jaga-kebajikan-pekerja-gig---tpm
     publisher: Sinar Harian
   - title: "議会、2025年ギグワーカー法案を可決 (Parliament Passes Gig Workers Bill 2025)"
     url: https://ringgitplus.com/en/blog/personal-finance-news/parliament-passes-gig-workers-bill-2025.html
@@ -125,6 +105,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Halal_delivery_%26_Hindu_temple,_Gelugor,_Penang,_Malaysia_%F0%9F%87%B2%F0%9F%87%BE.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-1.webp
+    alt: ピンク色のfoodpandaのジャケットとヘルメットを身につけた配達員が、大きなピンクのfoodpanda保温配達ボックスを積んだアンダーボーン型バイク（kapcai）に乗り、路上の渋滞で停車している様子。
+    kind: representative
+    origin: third-party
+    subject: ピンクの保温配達ボックスを積んだfoodpandaのバイク配達員（ギグプラットフォーム労働の代表例、Grabではない）
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3AFoodpanda_Chiang_Rai_Thailand_2020.jpg
+  - role: scene
+    src: /media/industries/gig-platform-economy-industry/body-2.webp
+    alt: 大きな保温配達用バックパックを背負って歩道に立つ、プラットフォームのフード配達員。
+    kind: representative
+    origin: third-party
+    subject: プラットフォームの保温配達バッグを背負った配達員（Grabではない）
+    credit: Alexander Corkhill / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File%3ABolt_Food_courier_with_delivery_bag.jpg
 ---
 
 マレーシアでは毎日、何百万もの取引が、店でも、オフィスでも、タクシー乗り場でもなく、アプリによって手配されている。歩道に呼び出される車、オートバイで街を横切って運ばれる食べ物の袋、二度と会うことのない顧客のためにデザインされたロゴ。これがギグ・プラットフォーム経済――デジタルプラットフォームを介した仕事――であり、わずか10年あまりで、物珍しいものからマレーシアの労働生活の最も目に見える特徴の一つへと移ってきた。

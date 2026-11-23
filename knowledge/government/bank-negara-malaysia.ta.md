@@ -41,7 +41,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "295c9b83682e382f"
+sourceContentHash: "f5f3575ac3242104"
 
 status: "archived"
 aiAssisted: true
@@ -87,27 +87,7 @@ sources:
     url: "https://www.bnm.gov.my/governors/rasheed"
     publisher: "Bank Negara Malaysia"
   - title: "Policy consistency, strong fundamentals anchor investor confidence — Bank Negara governor"
-    url: "https://www.thestar.com.my/business/business-news/2026/08/14/policy-consistency-strong-fundamentals-anchor-investor-confidence
-images:
-  - role: scene
-    src: /media/government/bank-negara-malaysia/body-1.webp
-    alt: கோத்தா கினபாலுவில் ஒரு பேங்க் நெகாரா மலேசியா அலுவலகத்தின் நுழைவாயில், மத்திய வங்கியின் பெயரையும் கிஜாங் சின்னத்தையும் மலேசிய மற்றும் சபா கொடிகளுடன் காட்டுகிறது
-    kind: actual
-    origin: third-party
-    subject: சபா, கோத்தா கினபாலுவில் உள்ள பேங்க் நெகாரா மலேசியா பிராந்திய அலுவலகம், மத்திய வங்கியின் பெயர் மற்றும் கிஜாங் (மான்) சின்னத்துடன்
-    credit: CEphoto, Uwe Aranas / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Bank-Negara-Malaysia-02.jpg
-  - role: scene
-    src: /media/government/bank-negara-malaysia/body-2.webp
-    alt: மத்திய வங்கியின் பெயரைத் தாங்கிய, 1967 முதல் தொடரைச் சேர்ந்த பேங்க் நெகாரா மலேசியாவின் ஆரம்பகால ரிங்கிட் காகித நாணயத் தாள்
-    kind: actual
-    origin: third-party
-    subject: பேங்க் நெகாரா மலேசியாவின் ஆரம்பகால ரிங்கிட் காகித நாணயத் தாள் (1967 தொடர் மாதிரி)
-    credit: Bank Negara Malaysia / Wikimedia Commons
-    license: Public domain
-    sourceUrl: https://commons.wikimedia.org/wiki/File:SERIBU_RINGGIT_-_OBSERVE_VIEW_(1967).png
----bank-negara-governo"
+    url: "https://www.thestar.com.my/business/business-news/2026/08/14/policy-consistency-strong-fundamentals-anchor-investor-confidence---bank-negara-governo"
     publisher: "The Star"
     date: "2026-08-14"
   - title: "MPC Meeting Decision Schedule — tag/mpc-2026"
@@ -133,6 +113,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Central_Bank_of_Malaysia_headquarters,_Kuala_Lumpur.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-1.webp
+    alt: கோத்தா கினபாலுவில் ஒரு பேங்க் நெகாரா மலேசியா அலுவலகத்தின் நுழைவாயில், மத்திய வங்கியின் பெயரையும் கிஜாங் சின்னத்தையும் மலேசிய மற்றும் சபா கொடிகளுடன் காட்டுகிறது
+    kind: actual
+    origin: third-party
+    subject: சபா, கோத்தா கினபாலுவில் உள்ள பேங்க் நெகாரா மலேசியா பிராந்திய அலுவலகம், மத்திய வங்கியின் பெயர் மற்றும் கிஜாங் (மான்) சின்னத்துடன்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Bank-Negara-Malaysia-02.jpg
+  - role: scene
+    src: /media/government/bank-negara-malaysia/body-2.webp
+    alt: மத்திய வங்கியின் பெயரைத் தாங்கிய, 1967 முதல் தொடரைச் சேர்ந்த பேங்க் நெகாரா மலேசியாவின் ஆரம்பகால ரிங்கிட் காகித நாணயத் தாள்
+    kind: actual
+    origin: third-party
+    subject: பேங்க் நெகாரா மலேசியாவின் ஆரம்பகால ரிங்கிட் காகித நாணயத் தாள் (1967 தொடர் மாதிரி)
+    credit: Bank Negara Malaysia / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SERIBU_RINGGIT_-_OBSERVE_VIEW_(1967).png
 ---
 
 வட்டி விகிதங்கள் மாறாமல் இருக்கின்றன என்றோ, டாலருக்கு எதிராக ரிங்கிட் சறுக்கியது என்றோ, அல்லது ஒரு வங்கிக்குக் கடன் வழங்குவதைக் கட்டுப்படுத்தச் சொல்லப்பட்டது என்றோ ஒரு தலைப்புச்செய்தி கூறும் ஒவ்வொரு முறையும், அக்கதையின் பின்னால் அதே நிறுவனம் அமர்ந்திருக்கிறது. இது கோலாலம்பூரில் ஜாலான் டத்தோ ஆன் (Jalan Dato' Onn) சாலையிலுள்ள கோட்டை போன்ற ஒரு வளாகத்திலிருந்து செயல்படுகிறது, அது உங்களுக்கு நேரடியாக ஒரு சதமும் கடன் தருவதில்லை, ஆயினும் உங்கள் பையிலுள்ள கிட்டத்தட்ட ஒவ்வொரு ரிங்கிட்டும், உங்கள் அறிக்கையிலுள்ள ஒவ்வொரு கடனும் அது எழுதும் விதிகளைக் கடந்துசெல்கின்றன. அந்த நிறுவனம்தான் வங்கி நெகாரா மலேசியா — மேலும் அது செய்கிறது என்று மக்கள் கருதுவதில் பெரும்பாலானவை அரைகுறையாக மட்டுமே சரியானவை, அல்லது முற்றிலும் வேறொரு முகமைக்கு உரியவை.

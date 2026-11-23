@@ -30,7 +30,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d0d6e50f897a3e0"
+sourceContentHash: "be09434e883ecaf2"
 
 status: "published"
 aiAssisted: true
@@ -53,27 +53,7 @@ sources:
     publisher: "Jabatan Perancangan Bandar dan Desa Semenanjung Malaysia, Kementerian Perumahan dan Kerajaan Tempatan"
     date: "2010-09-02"
   - title: "Akta Jalan, Parit dan Bangunan 1974 (Akta 133) — teks cetakan semula rasmi, s.46 (Halangan) (Street, Drainage and Building Act 1974 (Act 133) — official reprint text, s.46 (Obstruction))"
-    url: "https://www.ppj.gov.my/storage/7476/133
-images:
-  - role: scene
-    src: /media/property/gated-communities-and-security/body-1.webp
-    alt: Arden Hill, sebuah komuniti berpagar mewah di dalam perbandaran Forest Heights di Seremban, menyusun rumah bertanah di sebalik satu perimeter terkawal.
-    kind: actual
-    origin: third-party
-    subject: Komuniti berpagar mewah Arden Hill, Forest Heights, Seremban
-    credit: AyyanD / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
-  - role: scene
-    src: /media/property/gated-communities-and-security/body-2.webp
-    alt: Rumah bertanah dan kehijauan yang terurus memenuhi perbandaran berpagar dan berpengawal Horizon Hills di Iskandar Puteri, Johor, sebuah enklaf kediaman besar yang diurus keselamatannya.
-    kind: actual
-    origin: third-party
-    subject: Perbandaran berpagar Horizon Hills, Iskandar Puteri, Johor
-    credit: Chongkian / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
----STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
+    url: "https://www.ppj.gov.my/storage/7476/133---STREET,-DRAINAGE-AND-BUILDING-ACT-1974.pdf"
     publisher: "Laws of Malaysia / Perbadanan Putrajaya"
   - title: "Akta Pengurusan Strata 2013 (Akta 757), s.17, 21, 32 — penubuhan, kuasa dan undang-undang kecil Badan Pengurusan Bersama (Strata Management Act 2013 (Act 757), ss.17, 21, 32 — establishment, powers and by-laws of the Joint Management Body)"
     url: "https://www.leepartners.my/wp-content/uploads/2016/08/STRATA_MANAGEMENT_ACT_2013_ACT_757.pdf"
@@ -99,6 +79,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-1.webp
+    alt: Arden Hill, sebuah komuniti berpagar mewah di dalam perbandaran Forest Heights di Seremban, menyusun rumah bertanah di sebalik satu perimeter terkawal.
+    kind: actual
+    origin: third-party
+    subject: Komuniti berpagar mewah Arden Hill, Forest Heights, Seremban
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Arden_Hill,_Forest_Heights,_Seremban.jpg
+  - role: scene
+    src: /media/property/gated-communities-and-security/body-2.webp
+    alt: Rumah bertanah dan kehijauan yang terurus memenuhi perbandaran berpagar dan berpengawal Horizon Hills di Iskandar Puteri, Johor, sebuah enklaf kediaman besar yang diurus keselamatannya.
+    kind: actual
+    origin: third-party
+    subject: Perbandaran berpagar Horizon Hills, Iskandar Puteri, Johor
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Horizon_Hills.JPG
 ---
 
 Dua kawasan perumahan boleh kelihatan sama — pondok pengawal bata, palang jalan berjalur, pengawal berseragam memeriksa pelekat kenderaan anda. Satu berdiri di atas asas undang-undang yang kukuh. Satu lagi wujud kerana belum ada sesiapa yang mencabarnya.

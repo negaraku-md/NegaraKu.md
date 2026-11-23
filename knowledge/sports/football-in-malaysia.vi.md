@@ -41,7 +41,7 @@ faq:
     a: "Ngày chính xác còn gây tranh cãi. Một số ghi chép đặt việc thành lập cơ quan chủ quản quốc gia vào năm 1926, trong khi các ghi chép khác nhắc đến năm 1933, khi Football Association of Malaya có trụ sở tại Singapore tiếp quản việc điều hành Cúp Malaya. Điều rõ ràng và có thể xác nhận là vai trò của nó ngày nay với tư cách cơ quan chủ quản quốc gia, thành viên AFC, và sáng lập viên AFF vào năm 1984."
 
 lang: "vi"
-sourceContentHash: "ee9fdc30adb8894c"
+sourceContentHash: "e9227c4406031f36"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,27 +73,7 @@ sources:
     url: "https://www.freemalaysiatoday.com/category/nation/2026/06/12/harimau-malaya-climb-2-spots-in-fifa-rankings-to-136th"
     publisher: "Free Malaysia Today"
   - title: "Tạm biệt, Syed Ahmad – huyền thoại đã dẫn dắt đội bóng đến Thế vận hội Munich 1972 (So long, Syed Ahmad – the legend who steered football team to 1972 Munich Olympics)"
-    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad
-images:
-  - role: scene
-    src: /media/sports/football-in-malaysia/body-1.webp
-    alt: Một trận bóng đá đang diễn ra trên mặt sân của Sân vận động Tuanku Abdul Rahman ở Paroi, Seremban, Negeri Sembilan.
-    kind: actual
-    origin: third-party
-    subject: Một trận bóng đá tại Sân vận động Tuanku Abdul Rahman ở Paroi, Negeri Sembilan
-    credit: Mohd Izzudin / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
-  - role: scene
-    src: /media/sports/football-in-malaysia/body-2.webp
-    alt: Một sân futsal công cộng ngoài trời trong một khu dân cư ở Kota Damansara, Petaling Jaya, Selangor.
-    kind: actual
-    origin: third-party
-    subject: Một sân futsal cộng đồng ở Kota Damansara, Selangor, bối cảnh phong trào của bóng đá Malaysia
-    credit: Wiki Farazi / Wikimedia Commons
-    license: CC0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
----the-legend-who-steered-football-team-to-1972-munich-olympics"
+    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad---the-legend-who-steered-football-team-to-1972-munich-olympics"
     publisher: "The Star"
   - title: "Họ đang ở đâu bây giờ: những người làm nên lịch sử của Malaysia tại Cúp AFF Suzuki 2010 (Where are they now: Malaysia's history makers of the 2010 AFF Suzuki Cup)"
     url: "https://www.espn.com/soccer/story/_/id/37622930/where-now-malaysia-history-makers-2010-aff-suzuki-cup"
@@ -121,6 +101,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-1.webp
+    alt: Một trận bóng đá đang diễn ra trên mặt sân của Sân vận động Tuanku Abdul Rahman ở Paroi, Seremban, Negeri Sembilan.
+    kind: actual
+    origin: third-party
+    subject: Một trận bóng đá tại Sân vận động Tuanku Abdul Rahman ở Paroi, Negeri Sembilan
+    credit: Mohd Izzudin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-2.webp
+    alt: Một sân futsal công cộng ngoài trời trong một khu dân cư ở Kota Damansara, Petaling Jaya, Selangor.
+    kind: actual
+    origin: third-party
+    subject: Một sân futsal cộng đồng ở Kota Damansara, Selangor, bối cảnh phong trào của bóng đá Malaysia
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
 ---
 
 Vào năm 1921, Singapore đánh bại Selangor 2-1 trong trận chung kết của một giải bóng đá mới ở Malaya. Hơn một thế kỷ sau, giải đấu đó — nay được biết đến là Cúp Malaysia — vẫn là vương miện danh giá nhất trong môn thể thao được yêu thích nhất của đất nước.

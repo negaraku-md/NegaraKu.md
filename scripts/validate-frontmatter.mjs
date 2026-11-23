@@ -86,10 +86,24 @@ for (const file of walk('knowledge')) {
     if (FIX_DATES) { writeFileSync(file, raw, 'utf8'); console.log(`[validate] stripped BOM from ${file}`); }
     else warns.push(`${file}: file begins with a UTF-8 BOM — run with --fix-dates to strip`);
   }
-  const m = raw.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+  // Closing fence must be a line that is EXACTLY --- (followed by newline or EOF).
+  // Anchoring the trailing side matters: a bare `\r?\n---` also matches a glued
+  // line like `---menteri-pendidikan"` produced when a block is mis-spliced into a
+  // frontmatter value that contains a literal `---` (e.g. a URL). Without the
+  // anchor the parser cut there and never saw the breakage.
+  const m = raw.match(/^---\r?\n([\s\S]*?)\r?\n---[ \t]*(?:\r?\n|$)/);
   if (!m) { errors.push(`${file}: no frontmatter block`); continue; }
   let fm = m[1];
   const lines = fm.split(/\r?\n/);
+
+  // --- stray fence inside frontmatter --------------------------------------
+  // No line within the frontmatter body may start with `---`. One that does is
+  // the signature of a block spliced into a value that held a literal `---`
+  // (the build-ub-bodies injector bug): the images block landed mid-scalar and
+  // js-yaml silently folded it into a string, so images[] never registered.
+  if (/^---/m.test(fm)) {
+    errors.push(`${file}: stray '---' inside frontmatter — a block was likely mis-injected into a value containing a literal '---' (see build-ub-bodies insertBlock)`);
+  }
 
   // --- duplicated top-level keys -------------------------------------------
   const topKeys = lines

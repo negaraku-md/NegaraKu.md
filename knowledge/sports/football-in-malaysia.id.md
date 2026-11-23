@@ -41,7 +41,7 @@ faq:
     a: "Tanggal sebenarnya dipersengketakan. Sebagian catatan menempatkan pendirian badan induk nasional pada tahun 1926, sementara catatan lain merujuk 1933, ketika Football Association of Malaya yang berpangkalan di Singapura mengambil alih pengelolaan Piala Malaya. Yang jelas dan dapat dipastikan adalah perannya hari ini sebagai badan induk nasional, anggota AFC, dan pendiri AFF pada 1984."
 
 lang: "id"
-sourceContentHash: "ee9fdc30adb8894c"
+sourceContentHash: "e9227c4406031f36"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,27 +73,7 @@ sources:
     url: "https://www.freemalaysiatoday.com/category/nation/2026/06/12/harimau-malaya-climb-2-spots-in-fifa-rankings-to-136th"
     publisher: "Free Malaysia Today"
   - title: "So long, Syed Ahmad – the legend who steered football team to 1972 Munich Olympics"
-    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad
-images:
-  - role: scene
-    src: /media/sports/football-in-malaysia/body-1.webp
-    alt: Sebuah pertandingan sepak bola sedang berlangsung di lapangan Stadion Tuanku Abdul Rahman di Paroi, Seremban, Negeri Sembilan.
-    kind: actual
-    origin: third-party
-    subject: Sebuah pertandingan sepak bola di Stadion Tuanku Abdul Rahman di Paroi, Negeri Sembilan
-    credit: Mohd Izzudin / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
-  - role: scene
-    src: /media/sports/football-in-malaysia/body-2.webp
-    alt: Lapangan futsal umum terbuka di sebuah permukiman warga di Kota Damansara, Petaling Jaya, Selangor.
-    kind: actual
-    origin: third-party
-    subject: Lapangan futsal komunitas di Kota Damansara, Selangor, suasana akar rumput permainan Malaysia
-    credit: Wiki Farazi / Wikimedia Commons
-    license: CC0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
----the-legend-who-steered-football-team-to-1972-munich-olympics"
+    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad---the-legend-who-steered-football-team-to-1972-munich-olympics"
     publisher: "The Star"
   - title: "Where are they now: Malaysia's history makers of the 2010 AFF Suzuki Cup"
     url: "https://www.espn.com/soccer/story/_/id/37622930/where-now-malaysia-history-makers-2010-aff-suzuki-cup"
@@ -121,6 +101,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:National_Stadium_Bukit_Jalil_2014_AFF_Suzuki_Cup_final.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-1.webp
+    alt: Sebuah pertandingan sepak bola sedang berlangsung di lapangan Stadion Tuanku Abdul Rahman di Paroi, Seremban, Negeri Sembilan.
+    kind: actual
+    origin: third-party
+    subject: Sebuah pertandingan sepak bola di Stadion Tuanku Abdul Rahman di Paroi, Negeri Sembilan
+    credit: Mohd Izzudin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-2.webp
+    alt: Lapangan futsal umum terbuka di sebuah permukiman warga di Kota Damansara, Petaling Jaya, Selangor.
+    kind: actual
+    origin: third-party
+    subject: Lapangan futsal komunitas di Kota Damansara, Selangor, suasana akar rumput permainan Malaysia
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
 ---
 
 Pada 1921, Singapura mengalahkan Selangor 2-1 di final sebuah kejuaraan sepak bola baru di Tanah Melayu. Lebih dari seabad kemudian, turnamen itu — kini dikenal sebagai Piala Malaysia — masih menjadi mahkota paling bergengsi dalam olahraga paling digemari negara.

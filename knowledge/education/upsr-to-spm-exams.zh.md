@@ -23,7 +23,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "19a7917a0ffae099"
+sourceContentHash: "ea0270523001c9e4"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -51,27 +51,7 @@ sources:
     publisher: "Sinar Harian"
     date: "2021-04-28"
   - title: "PT3自2022年起废除 - 教育部长 (PT3 dimansuhkan mulai 2022 - Menteri Pendidikan)"
-    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022
-images:
-  - role: scene
-    src: /media/education/upsr-to-spm-exams/body-1.webp
-    alt: 沙巴SMK Bugaya II蓝黄相间、色彩鲜明的学校礼堂（dewan），SPM等公共考试便在这类礼堂里举行。
-    kind: representative
-    origin: third-party
-    subject: 用于公共考试的马来西亚中学礼堂
-    credit: Zahirulnukman / Wikimedia Commons
-    license: CC BY-SA 4.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
-  - role: scene
-    src: /media/education/upsr-to-spm-exams/body-2.webp
-    alt: SMK Sapulut的多层教室楼，这是沙巴一所政府中学。
-    kind: actual
-    origin: third-party
-    subject: 一所马来西亚中学（SMK Sapulut）
-    credit: CEphoto, Uwe Aranas / Wikimedia Commons
-    license: CC BY-SA 3.0
-    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
----menteri-pendidikan"
+    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022---menteri-pendidikan"
     publisher: "mStar"
     date: "2022-06-02"
   - title: "PT3、UPSR的必要性重新检讨 - 法丽娜 (Keperluan PT3, UPSR dikaji semula - Fadhlina)"
@@ -102,6 +82,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-1.webp
+    alt: 沙巴SMK Bugaya II蓝黄相间、色彩鲜明的学校礼堂（dewan），SPM等公共考试便在这类礼堂里举行。
+    kind: representative
+    origin: third-party
+    subject: 用于公共考试的马来西亚中学礼堂
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-2.webp
+    alt: SMK Sapulut的多层教室楼，这是沙巴一所政府中学。
+    kind: actual
+    origin: third-party
+    subject: 一所马来西亚中学（SMK Sapulut）
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
 ---
 
 如果你的孩子现在读六年级，他们不会应考UPSR。如果孩子读中三，也没有PT3在等着。那些曾经决定整个求学历程的大型考试——你自己的父母当年可能就是在巨大压力下经历过的那种——已经消失好几年了。但许多家长仍然感到困惑：取而代之的是什么、这些考试会不会恢复、以及孩子现在的学校里每天到底发生什么事。
