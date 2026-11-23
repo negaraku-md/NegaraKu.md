@@ -41,7 +41,7 @@ verificationNeeded:
   - "จำนวนที่นั่งของสภานิติบัญญัติแห่งรัฐและรัฐสภาจงใจไม่ระบุ เพราะไม่สามารถยืนยันได้จากแหล่งทางการของ SPR ระหว่างการจัดเตรียมร่างนี้"
 
 lang: "th"
-sourceContentHash: "869286bde4f6fa80"
+sourceContentHash: "cfedbc8b62c34ea2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,6 +108,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kelantan/body-1.webp
+    alt: อาคารยุคอาณานิคมหลังยาวหลังคาสีแดงของพิพิธภัณฑ์รัฐกลันตันตั้งอยู่หลังต้นปาล์มสูงใต้ท้องฟ้าสีครามใสที่โกตาบารู
+    kind: actual
+    origin: third-party
+    subject: พิพิธภัณฑ์รัฐกลันตัน (Muzium Negeri Kelantan) โกตาบารู
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Museum_Kelantan_-_panoramio.jpg
+  - role: scene
+    src: /media/states/kelantan/body-2.webp
+    alt: พ่อค้าแม่ค้าขายผลผลิตสดท่ามกลางแผงลอยที่แน่นขนัดภายในตลาดกลางปาซาร์ซีตีกอดียะห์ที่สว่างไสวและเป็นชั้นๆที่โกตาบารู
+    kind: actual
+    origin: third-party
+    subject: ปาซาร์ซีตีกอดียะห์ (Pasar Siti Khadijah) โกตาบารู รัฐกลันตัน
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Siti_Khadijah_Market_(6061751147).jpg
 ---
 
 เศรษฐกิจของมาเลเซียมักถูกเล่าผ่านโรงงาน กลันตันเป็นข้อยกเว้นที่ชัดเจนที่สุด: การผลิตมีสัดส่วนเพียง 4.7% ของผลิตภัณฑ์มวลรวมภายในประเทศของรัฐในปี 2025 — สัดส่วนต่ำที่สุดในบรรดา 13 รัฐ — ขณะที่เกษตรกรรมมีสัดส่วนเกือบหนึ่งในห้า

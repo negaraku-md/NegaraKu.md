@@ -109,6 +109,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Crystal_Mosque_in_2016.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/terengganu/body-1.webp
+    alt: Masjid Tengku Tengah Zaharah kelihatan seolah-olah terapung di atas lagun Ibai berhampiran Kuala Terengganu di Terengganu.
+    kind: actual
+    origin: third-party
+    subject: Masjid terapung Tengku Tengah Zaharah, Kuala Terengganu, Terengganu
+    credit: Falconedc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tengku_Tengah_Zaharah_Mosque.jpg
+  - role: scene
+    src: /media/states/terengganu/body-2.webp
+    alt: Air pirus jernih memukul pantai berpasir putih yang dipagari hutan di Pulau Redang di luar pesisir Terengganu.
+    kind: actual
+    origin: third-party
+    subject: Pantai Pulau Redang, Terengganu
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
 ---
 
 Dua benda paling terkenal tentang Terengganu terletak kira-kira 60 kilometer

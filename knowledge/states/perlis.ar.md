@@ -35,7 +35,7 @@ verificationNeeded:
   - "أعِد التحقق من مخصّصات ميناء بيرليس الداخلي (RM318.0 مليون للبنية التحتية، وRM1.2 مليار استثماراً خاصاً) ومن المناطق الإدارية الست مقابل MKN حالما يصير mkn.gov.my متاحاً؛ فالموقع كان معطّلاً أثناء أحدث جولة إعادة تحقّق، لذا تستند هذه الأرقام إلى الفحص الأصلي في 2026-07-24."
 
 lang: "ar"
-sourceContentHash: "f8950ccf72fcaab1"
+sourceContentHash: "940939eb886405c6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -115,6 +115,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perlis/body-1.webp
+    alt: يتعرّج ممشى خشبي معلّق عبر نفق Gua Kelam الجيري قرب Kaki Bukit في بيرليس.
+    kind: actual
+    origin: third-party
+    subject: ممشى كهف Gua Kelam، بيرليس
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Kelam_-_Perlis,_Malaysia.jpg
+  - role: scene
+    src: /media/states/perlis/body-2.webp
+    alt: تقف محطة العبّارات في Kuala Perlis، البوابة البرية للقوارب المتجهة إلى Langkawi، إلى جانب مضيق ملقا.
+    kind: actual
+    origin: third-party
+    subject: محطة عبّارات Kuala Perlis، بيرليس
+    credit: Irwan Shah Bin Abdullah / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_perlis_jetty_terminal.jpg
 ---
 
 ثمة سؤال واحد أخطأ فيه كل ماليزي تقريباً في وقت ما: من سلطان بيرليس؟

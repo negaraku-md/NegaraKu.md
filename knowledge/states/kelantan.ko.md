@@ -41,7 +41,7 @@ verificationNeeded:
   - "주 의회 및 의회 의석 수는 이 초안 작성 시 SPR 공식 자료에서 확인할 수 없어 의도적으로 명시하지 않음."
 
 lang: "ko"
-sourceContentHash: "869286bde4f6fa80"
+sourceContentHash: "cfedbc8b62c34ea2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,6 +108,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kelantan/body-1.webp
+    alt: 코타바루의 맑고 푸른 하늘 아래, 클란탄 주립박물관의 붉은 지붕을 얹은 긴 식민지 시대 건물이 키 큰 야자수 뒤에 서 있다.
+    kind: actual
+    origin: third-party
+    subject: 코타바루, 클란탄 주립박물관(Muzium Negeri Kelantan)
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Museum_Kelantan_-_panoramio.jpg
+  - role: scene
+    src: /media/states/kelantan/body-2.webp
+    alt: 코타바루의 층층이 쌓이고 환하게 밝혀진 파사르 시티 카디자 중앙시장 안에서 상인들이 붐비는 가판대 사이로 신선한 농산물을 팔고 있다.
+    kind: actual
+    origin: third-party
+    subject: 클란탄주 코타바루, 파사르 시티 카디자(Pasar Siti Khadijah)
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Siti_Khadijah_Market_(6061751147).jpg
 ---
 
 말레이시아 경제는 보통 공장을 통해 이야기됩니다. 클란탄(Kelantan)은 가장 뚜렷한 예외입니다: 제조업은 2025년 이 주(州) 국내총생산의 4.7%만을 차지했는데 — 13개 주(州) 가운데 가장 낮은 비중 — 농업은 거의 5분의 1을 차지했습니다.

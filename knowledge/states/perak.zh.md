@@ -42,7 +42,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "79feefd0c909668c"
+sourceContentHash: "b257a2168f68f0c7"
 
 status: "published"
 aiAssisted: true
@@ -121,6 +121,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perak/body-1.webp
+    alt: 霹雳华都牙也附近，凯利古堡那座未完工的红砖宅邸与塔楼矗立在一片绿意之中。
+    kind: actual
+    origin: third-party
+    subject: 霹雳华都牙也凯利古堡（Kellie's Castle）
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie%27s_Castle_Batu_Gajah.jpg
+  - role: scene
+    src: /media/states/perak/body-2.webp
+    alt: 霹雳怎邦附近务边洞这座广阔的石灰岩洞窟内，布满了被灯光照亮的钟乳石与流石构造。
+    kind: actual
+    origin: third-party
+    subject: 霹雳怎邦务边洞（Gua Tempurung）石灰岩洞
+    credit: Ksaravanan106221 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Tempurung,_Gopeng,_Perak,_Malaysia.jpg
 ---
 
 1874年1月20日，一份条约在邦咯岛（Pangkor Island）附近海域签署。这份文件既未割让领土，也未宣战。它只引入了一个新的职位：一位参政司，其意见必须遵从。

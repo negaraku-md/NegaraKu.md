@@ -32,7 +32,7 @@ faq:
 verificationNeeded: []
 
 lang: "ta"
-sourceContentHash: "1f58c985aa078563"
+sourceContentHash: "df209791e7052635"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/sarawak/body-1.webp
+    alt: அஸ்தானா என அறியப்படும் வெண்ணிற முன்னாள் அரச மாளிகை, குச்சிங் நீர்முனையிலிருந்து சரவாக் ஆற்றுக்கு அப்பால் நிற்கிறது.
+    kind: actual
+    origin: third-party
+    subject: குச்சிங் நீர்முனையிலிருந்து தெரியும் அஸ்தானா, சரவாக்
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_(17772477902).jpg
+  - role: scene
+    src: /media/states/sarawak/body-2.webp
+    alt: சரவாக்கில் குச்சிங்கிற்கு அருகில் உள்ள பாக்கோ தேசியப் பூங்காவின் பூங்கா தலைமையகத்தில், அடர் காடுகள் நிறைந்த செங்குத்துப் பாறைகளை பின்னணியாகக் கொண்ட மணற்கரை கடலை எதிர்கொள்கிறது.
+    kind: actual
+    origin: third-party
+    subject: பாக்கோ தேசியப் பூங்காவில் பூங்கா தலைமையகத்திற்குக் கீழே உள்ள கடற்கரை, சரவாக்
+    credit: Sgroey / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beach_outside_park_HQ_at_Bako_NP.jpg
 ---
 
 சரவாக் என்பது வேறொரு தொனியில் அமைந்த மலேசியா. நிலப்பரப்பளவில்

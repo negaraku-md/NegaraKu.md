@@ -40,7 +40,7 @@ verificationNeeded:
   - "புதிய DOSM வெளியீடு வெளியிடப்படும்போது மக்கள்தொகை மற்றும் KDNK எண்ணிக்கைகளைப் புதுப்பிக்கவும்."
 
 lang: "ta"
-sourceContentHash: "79feefd0c909668c"
+sourceContentHash: "b257a2168f68f0c7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -121,6 +121,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perak/body-1.webp
+    alt: பேராக்கில் பத்து காஜாவுக்கு அருகில், பசுமையின் நடுவே கெல்லீஸ் கோட்டையின் முடிக்கப்படாத சிவப்பு செங்கல் மாளிகையும் கோபுரமும் நிற்கின்றன.
+    kind: actual
+    origin: third-party
+    subject: கெல்லீஸ் கோட்டை, பத்து காஜா, பேராக்
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie%27s_Castle_Batu_Gajah.jpg
+  - role: scene
+    src: /media/states/perak/body-2.webp
+    alt: பேராக்கில் கோபேங்கிற்கு அருகில் உள்ள குவா டெம்புரோங்கின் பரந்த சுண்ணாம்புக்கல் அறையை, ஒளியூட்டப்பட்ட சுண்ணாம்புக் கற்தூண்களும் படிவ அமைப்புகளும் நிரப்புகின்றன.
+    kind: actual
+    origin: third-party
+    subject: குவா டெம்புரோங் சுண்ணாம்புக் குகை, கோபேங், பேராக்
+    credit: Ksaravanan106221 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Tempurung,_Gopeng,_Perak,_Malaysia.jpg
 ---
 
 1874 ஜனவரி 20-ஆம் தேதி, Pangkor தீவுக்கு அருகிலுள்ள கடல் நீரில் ஒரு உடன்படிக்கை

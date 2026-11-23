@@ -42,7 +42,7 @@ verificationNeeded:
   - "ยืนยันวันที่พระราชพิธีบรมราชาภิเษกของสุลต่านแห่งเกอดะฮ์องค์ที่ 29 เทียบกับบันทึกทางการของอิสตานาอานะก์บูกิต หน้าทางการของรัฐบาลรัฐระบุเพียงวันที่ประกาศ"
 
 lang: "th"
-sourceContentHash: "0d6884ea1dade121"
+sourceContentHash: "1d8bcb8c60bb0772"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -118,6 +118,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:MasjidZahir.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kedah/body-1.webp
+    alt: สะพานลอยฟ้าลังกาวีรูปโค้งทอดโค้งบนสายเคเบิลข้ามหุบเขาบนภูเขาที่ปกคลุมด้วยป่าสูงเหนือเกาะลังกาวีในรัฐเกดะฮ์
+    kind: actual
+    origin: third-party
+    subject: สะพานลอยฟ้าลังกาวี รัฐเกดะฮ์
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg
+  - role: scene
+    src: /media/states/kedah/body-2.webp
+    alt: ทุ่งนาสีเขียวราบเรียบทอดไปจรดขอบฟ้าใต้ท้องฟ้ากว้างที่เปินดังในรัฐเกดะฮ์ อู่ข้าวของมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: ที่ราบนาข้าวที่เปินดัง รัฐเกดะฮ์
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Lang_Merah,_Pendang_20240917_111034.jpg
 ---
 
 ในปี 2024 ผลิตภัณฑ์ไฟฟ้า อิเล็กทรอนิกส์ และออปติกมีสัดส่วน 51.1 เปอร์เซ็นต์ของมูลค่าเพิ่มในภาคการผลิตของเกอดะฮ์ ส่วนข้าวมีสัดส่วนหนึ่งใน 10.6 เปอร์เซ็นต์ของ GDP ของรัฐที่มาจากเกษตรกรรม

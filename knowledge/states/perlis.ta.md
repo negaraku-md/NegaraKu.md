@@ -36,7 +36,7 @@ verificationNeeded:
   - "mkn.gov.my அணுகக்கூடியதாக இருக்கும்போது Perlis Inland Port ஒதுக்கீடுகளையும் (RM318.0 juta உள்கட்டமைப்பு, RM1.2 bilion தனியார் முதலீடு) ஆறு நிர்வாகப் பகுதிகளையும் MKN உடன் மீண்டும் உறுதிப்படுத்தவும்; சமீபத்திய மறு-உறுதிப்படுத்தல் நிகழ்வின்போது தளம் செயலிழந்திருந்தது, எனவே இந்த எண்ணிக்கைகள் அசல் 2026-07-24 சரிபார்ப்பை அடிப்படையாகக் கொண்டவை."
 
 lang: "ta"
-sourceContentHash: "f8950ccf72fcaab1"
+sourceContentHash: "940939eb886405c6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -116,6 +116,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perlis/body-1.webp
+    alt: பர்லிஸில் காக்கி புக்கிட்டுக்கு அருகில் உள்ள குவா கெலாமின் சுண்ணாம்புக்கல் சுரங்கத்தின் வழியே தொங்கும் மரப் பாதை செல்கிறது.
+    kind: actual
+    origin: third-party
+    subject: குவா கெலாம் குகைப் பாதை, பர்லிஸ்
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Kelam_-_Perlis,_Malaysia.jpg
+  - role: scene
+    src: /media/states/perlis/body-2.webp
+    alt: லங்காவிக்குப் படகுகளுக்கான பிரதான தரைவழி நுழைவாயிலான கோலா பர்லிஸில் உள்ள படகுத் துறைமுகம் மலாக்கா நீரிணையை ஒட்டி நிற்கிறது.
+    kind: actual
+    origin: third-party
+    subject: கோலா பர்லிஸ் படகுத் துறைமுகம், பர்லிஸ்
+    credit: Irwan Shah Bin Abdullah / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_perlis_jetty_terminal.jpg
 ---
 
 கிட்டத்தட்ட ஒவ்வொரு மலேசியரும் ஏதோ ஒரு கட்டத்தில் தவறாகப் பதிலளித்த ஒரு கேள்வி

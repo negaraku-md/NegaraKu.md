@@ -36,7 +36,7 @@ verificationNeeded:
   - "Xác minh lại các khoản phân bổ của Perlis Inland Port (RM318.0 triệu hạ tầng, RM1.2 tỷ đầu tư tư nhân) và sáu khu vực hành chính so với MKN khi mkn.gov.my có thể truy cập; trang này đã ngừng hoạt động trong đợt xác minh lại mới nhất, nên các con số này dựa trên lần kiểm tra gốc ngày 2026-07-24."
 
 lang: "vi"
-sourceContentHash: "f8950ccf72fcaab1"
+sourceContentHash: "940939eb886405c6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -116,6 +116,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perlis/body-1.webp
+    alt: Lối đi gỗ treo lơ lửng xuyên qua đường hầm đá vôi của Gua Kelam gần Kaki Bukit ở Perlis.
+    kind: actual
+    origin: third-party
+    subject: Lối đi hang Gua Kelam, Perlis
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Kelam_-_Perlis,_Malaysia.jpg
+  - role: scene
+    src: /media/states/perlis/body-2.webp
+    alt: Bến phà tại Kuala Perlis, cửa ngõ đất liền cho các chuyến thuyền đi Langkawi, nằm bên eo biển Malacca.
+    kind: actual
+    origin: third-party
+    subject: Bến phà Kuala Perlis, Perlis
+    credit: Irwan Shah Bin Abdullah / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_perlis_jetty_terminal.jpg
 ---
 
 Có một câu hỏi mà gần như mọi người Malaysia đều từng trả lời sai: ai là

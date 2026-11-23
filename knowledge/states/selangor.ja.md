@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "ja"
-sourceContentHash: "43d4735ca0a0e692"
+sourceContentHash: "5de4c3bbc9237e84"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/selangor/body-1.webp
+    alt: 灯台が、スランゴール州のクアラ・スランゴールを見下ろすブキッ・ムラワティの歴史ある丘上の砦の頂に立っている。
+    kind: actual
+    origin: third-party
+    subject: スランゴール州、ブキッ・ムラワティのクアラ・スランゴール灯台
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Melawati_(Kuala_Selangor_lighthouse)_20220602_161822.jpg
+  - role: scene
+    src: /media/states/selangor/body-2.webp
+    alt: スランゴール州シャアラムのi-Cityテーマパークで、木々と遊歩道が色とりどりのLEDライトで輝いている。
+    kind: actual
+    origin: third-party
+    subject: スランゴール州シャアラム、i-Cityライトパーク
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Digital_Lights_-_iCity_Shah_Alam,_Malaysia_(7).jpg
 ---
 
 セランゴールは、マレーシア経済が静かに依拠している州である。連邦首都クアラルンプールと行政中心地であるプトラジャヤを完全に取り囲んでおり、この三者が合わさってクランバレーを形成している——同国最大の都市・工業連担地域である。

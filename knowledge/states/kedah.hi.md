@@ -42,7 +42,7 @@ verificationNeeded:
   - "केदाह के 29वें सुल्तान के अभिषेक समारोह की तिथि की पुष्टि Istana Anak Bukit के आधिकारिक अभिलेखों के विरुद्ध करें; राज्य सरकार का आधिकारिक पृष्ठ केवल घोषणा की तिथि बताता है।"
 
 lang: "hi"
-sourceContentHash: "0d6884ea1dade121"
+sourceContentHash: "1d8bcb8c60bb0772"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -118,6 +118,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:MasjidZahir.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kedah/body-1.webp
+    alt: केदाह के पुलाऊ लंकावी में एक वनाच्छादित पर्वतीय खाई के ऊपर घुमावदार लंकावी स्काई ब्रिज केबलों पर ऊँचा धनुषाकार बना है।
+    kind: actual
+    origin: third-party
+    subject: लंकावी स्काई ब्रिज, केदाह
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg
+  - role: scene
+    src: /media/states/kedah/body-2.webp
+    alt: मलेशिया के चावल के कटोरे, केदाह के पेंदांग में एक विस्तृत आकाश के नीचे समतल हरे धान के खेत क्षितिज तक फैले हैं।
+    kind: actual
+    origin: third-party
+    subject: पेंदांग के धान के मैदान, केदाह
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Lang_Merah,_Pendang_20240917_111034.jpg
 ---
 
 2024 में, विद्युत, इलेक्ट्रॉनिक और ऑप्टिकल उत्पादों ने केदाह के विनिर्माण क्षेत्र में मूल्य वर्धन का 51.1 प्रतिशत हिस्सा बनाया। चावल राज्य के GDP के उस 10.6 प्रतिशत में से एक हिस्सा योगदान देता है जो कृषि से आता है।

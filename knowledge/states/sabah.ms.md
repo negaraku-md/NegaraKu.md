@@ -21,7 +21,7 @@ appliesTo: "Pembaca yang mencari profil faktual Sabah — geografi, ekonomi dan 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a41acdd421e03bda"
+sourceContentHash: "42f247f3d79bbab1"
 
 status: "published"
 aiAssisted: true
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/sabah/body-1.webp
+    alt: Masjid Bandaraya Kota Kinabalu yang berwarna putih dan emas memantulkan kubahnya di lagun buatan manusia yang mengelilinginya di pesisir Sabah.
+    kind: actual
+    origin: third-party
+    subject: Masjid Bandaraya Kota Kinabalu, Sabah
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_City_Mosque_01.jpg
+  - role: scene
+    src: /media/states/sabah/body-2.webp
+    alt: Pantai pucat yang berselerak kayu hanyut memagari air cetek pirus Pulau Mataking di luar Semporna di Sabah.
+    kind: actual
+    origin: third-party
+    subject: Pulau Mataking berhampiran Semporna, Sabah
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mataking_Island_Sabah.jpg
 ---
 
 Sabah tidak menyertai Malaysia sebagai sebuah negeri yang menyertai sebuah negara.

@@ -40,7 +40,7 @@ verificationNeeded:
   - "Mettre à jour les chiffres de population et de PIB lorsqu'une publication plus récente du DOSM sera publiée."
 
 lang: "fr"
-sourceContentHash: "79feefd0c909668c"
+sourceContentHash: "b257a2168f68f0c7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -121,6 +121,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perak/body-1.webp
+    alt: Le manoir et la tour inachevés en brique rouge de Kellie's Castle se dressent parmi la verdure près de Batu Gajah, dans le Perak.
+    kind: actual
+    origin: third-party
+    subject: Kellie's Castle, Batu Gajah, Perak
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie%27s_Castle_Batu_Gajah.jpg
+  - role: scene
+    src: /media/states/perak/body-2.webp
+    alt: Des stalactites illuminées et des concrétions de calcite emplissent la vaste salle calcaire de Gua Tempurung, près de Gopeng, dans le Perak.
+    kind: actual
+    origin: third-party
+    subject: Grotte calcaire de Gua Tempurung, Gopeng, Perak
+    credit: Ksaravanan106221 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Tempurung,_Gopeng,_Perak,_Malaysia.jpg
 ---
 
 Le 20 janvier 1874, un traité fut signé dans les eaux proches de l'île de Pangkor.

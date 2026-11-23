@@ -40,7 +40,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "41ba175b1dc7814a"
+sourceContentHash: "bf6d6f70731fdbe1"
 
 status: "published"
 aiAssisted: true
@@ -102,6 +102,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_begonjong_di_depan_istana_seri_menanti.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/negeri-sembilan/body-1.webp
+    alt: 森美兰波德申，一道平缓弯曲、椰树成行的沙滩面向平静的马六甲海峡。
+    kind: actual
+    origin: third-party
+    subject: 森美兰波德申海滩
+    credit: Malaysiaguy2010 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Port-dickson-beach-1.jpg
+  - role: scene
+    src: /media/states/negeri-sembilan/body-2.webp
+    alt: 芙蓉的森美兰州立博物馆园区内，矗立着拥有舒展牛角形屋顶的米南加保式木屋。
+    kind: actual
+    origin: third-party
+    subject: 芙蓉森美兰州立博物馆（Muzium Negeri Sembilan）的米南加保式传统屋
+    credit: Ardzun / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg
 ---
 
 在其余八个马来州属，「谁是下一任统治者」这个问题由世系血统来回答。在森美兰，

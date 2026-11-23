@@ -37,7 +37,7 @@ faq:
     a: "석유 수입과 관련하여 연방 정부가 트렝가누와 클란탄에 지급하는 대금입니다. 재무부의 성명은 왕 이흐산이 법률에 명시된 연방 정부의 교부금이 아니라는 점, 즉 법률에 의해 부여된 권리가 아니라는 점을 강조합니다."
 
 lang: "ko"
-sourceContentHash: "44eeeac1d9bc0d54"
+sourceContentHash: "94d47d415c35aac9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -110,6 +110,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Crystal_Mosque_in_2016.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/terengganu/body-1.webp
+    alt: 트렝가누주 쿠알라트렝가누 인근에서 뜽쿠 뜽아 자하라 모스크가 이바이 석호 위에 떠 있는 듯 보인다.
+    kind: actual
+    origin: third-party
+    subject: 트렝가누주 쿠알라트렝가누 뜽쿠 뜽아 자하라 수상 모스크
+    credit: Falconedc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tengku_Tengah_Zaharah_Mosque.jpg
+  - role: scene
+    src: /media/states/terengganu/body-2.webp
+    alt: 트렝가누주 해안 앞바다의 르당섬에서 맑은 청록빛 바닷물이 숲으로 둘러싸인 백사장 해변을 적신다.
+    kind: actual
+    origin: third-party
+    subject: 트렝가누주 르당섬 해변
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
 ---
 
 트렝가누에 관해 가장 유명한 두 가지는 서로 약 60킬로미터 떨어져 있으며, 둘 다 보기가 어렵습니다.

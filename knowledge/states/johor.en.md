@@ -33,7 +33,7 @@ verificationNeeded: []
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "f075aca9f39a2a6a"
+sourceContentHash: "745a7dd790ac6b02"
 
 status: "published"
 aiAssisted: true
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/johor/body-1.webp
+    alt: A long golden sandy shoreline fringed by casuarina trees meets calm South China Sea waves at Desaru on Johor's east coast.
+    kind: actual
+    origin: third-party
+    subject: Desaru Beach, Johor
+    credit: Jpatokal / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:DesaruBeach.JPG
+  - role: scene
+    src: /media/states/johor/body-2.webp
+    alt: White sand and clear turquoise shallows fringe the forested, palm-lined shore of Pulau Rawa island off Johor's east coast.
+    kind: actual
+    origin: third-party
+    subject: Pulau Rawa (Rawa Island), Johor
+    credit: Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rawa_Island,_Johor,_Malaysia.jpg
 ---
 
 Johor's economy is defined by its neighbour. As the peninsula's southernmost state,

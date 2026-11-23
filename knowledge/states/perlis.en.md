@@ -38,7 +38,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "f8950ccf72fcaab1"
+sourceContentHash: "940939eb886405c6"
 
 status: "published"
 aiAssisted: true
@@ -116,6 +116,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perlis/body-1.webp
+    alt: A suspended wooden walkway threads through the limestone tunnel of Gua Kelam near Kaki Bukit in Perlis.
+    kind: actual
+    origin: third-party
+    subject: Gua Kelam cave walkway, Perlis
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Kelam_-_Perlis,_Malaysia.jpg
+  - role: scene
+    src: /media/states/perlis/body-2.webp
+    alt: The ferry terminal at Kuala Perlis, the mainland gateway for boats to Langkawi, stands beside the Straits of Malacca.
+    kind: actual
+    origin: third-party
+    subject: Kuala Perlis ferry terminal, Perlis
+    credit: Irwan Shah Bin Abdullah / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_perlis_jetty_terminal.jpg
 ---
 
 There's one question almost every Malaysian has gotten wrong at some point: who

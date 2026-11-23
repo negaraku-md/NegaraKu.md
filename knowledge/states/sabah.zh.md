@@ -21,7 +21,7 @@ appliesTo: "希望了解沙巴事实概况——包括其地理、经济与政�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a41acdd421e03bda"
+sourceContentHash: "42f247f3d79bbab1"
 
 status: "published"
 aiAssisted: true
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/sabah/body-1.webp
+    alt: 沙巴海岸边，白金相间的亚庇市立清真寺将其穹顶倒映在环绕四周的人工潟湖中。
+    kind: actual
+    origin: third-party
+    subject: 沙巴亚庇市立清真寺
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_City_Mosque_01.jpg
+  - role: scene
+    src: /media/states/sabah/body-2.webp
+    alt: 沙巴仙本那外海的马达京岛，一道浅色、散落着浮木的沙滩环绕着碧绿的浅海。
+    kind: actual
+    origin: third-party
+    subject: 沙巴仙本那附近的马达京岛
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mataking_Island_Sabah.jpg
 ---
 
 沙巴加入马来西亚，并非以一个州属加入一个既有国家的方式。它是以其中一个缔造

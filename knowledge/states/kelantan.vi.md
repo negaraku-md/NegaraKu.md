@@ -41,7 +41,7 @@ verificationNeeded:
   - "Số ghế trong Hội đồng Lập pháp Bang và Nghị viện được cố ý không nêu vì không thể xác minh trên nguồn chính thức của SPR khi soạn bản nháp này."
 
 lang: "vi"
-sourceContentHash: "869286bde4f6fa80"
+sourceContentHash: "cfedbc8b62c34ea2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,6 +108,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kelantan/body-1.webp
+    alt: Tòa nhà thuộc địa dài mái đỏ của Bảo tàng Bang Kelantan (Muzium Negeri Kelantan) đứng sau một cây cọ cao dưới bầu trời xanh trong tại Kota Bharu.
+    kind: actual
+    origin: third-party
+    subject: Bảo tàng Bang Kelantan (Muzium Negeri Kelantan), Kota Bharu
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Museum_Kelantan_-_panoramio.jpg
+  - role: scene
+    src: /media/states/kelantan/body-2.webp
+    alt: Những người buôn bán bày bán nông sản tươi giữa các quầy hàng chen chúc bên trong chợ trung tâm Pasar Siti Khadijah nhiều tầng, rực sáng tại Kota Bharu.
+    kind: actual
+    origin: third-party
+    subject: Pasar Siti Khadijah, Kota Bharu, Kelantan
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Siti_Khadijah_Market_(6061751147).jpg
 ---
 
 Nền kinh tế Malaysia thường được kể qua các nhà máy. Kelantan là ngoại lệ

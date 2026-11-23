@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "869286bde4f6fa80"
+sourceContentHash: "cfedbc8b62c34ea2"
 
 status: "published"
 aiAssisted: true
@@ -108,6 +108,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kelantan/body-1.webp
+    alt: 哥打巴鲁晴朗蔚蓝的天空下，吉兰丹州立博物馆红瓦长顶的殖民时期建筑矗立在一棵高耸的棕榈树后方。
+    kind: actual
+    origin: third-party
+    subject: 哥打巴鲁吉兰丹州立博物馆（Muzium Negeri Kelantan）
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Museum_Kelantan_-_panoramio.jpg
+  - role: scene
+    src: /media/states/kelantan/body-2.webp
+    alt: 哥打巴鲁灯火通明、层层叠叠的西蒂卡迪查中央市场（Pasar Siti Khadijah）内，商贩在拥挤的摊位间售卖新鲜农产品。
+    kind: actual
+    origin: third-party
+    subject: 吉兰丹哥打巴鲁西蒂卡迪查市场（Pasar Siti Khadijah）
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Siti_Khadijah_Market_(6061751147).jpg
 ---
 
 马来西亚的经济故事通常围绕工厂展开。吉兰丹是最鲜明的例外：2025年，制造业仅

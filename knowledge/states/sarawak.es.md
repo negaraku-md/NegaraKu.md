@@ -32,7 +32,7 @@ faq:
 verificationNeeded: []
 
 lang: "es"
-sourceContentHash: "1f58c985aa078563"
+sourceContentHash: "df209791e7052635"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/sarawak/body-1.webp
+    alt: El Astana, el blanco antiguo palacio real, se alza al otro lado del río Sarawak frente al Kuching Waterfront.
+    kind: actual
+    origin: third-party
+    subject: El Astana visto desde el Kuching Waterfront, Sarawak
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_(17772477902).jpg
+  - role: scene
+    src: /media/states/sarawak/body-2.webp
+    alt: Una playa de arena respaldada por acantilados cubiertos de selva da al mar en la sede del Bako National Park, cerca de Kuching, en Sarawak.
+    kind: actual
+    origin: third-party
+    subject: Playa bajo la sede del parque en el Bako National Park, Sarawak
+    credit: Sgroey / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beach_outside_park_HQ_at_Bako_NP.jpg
 ---
 
 Sarawak es Malasia en otra clave. Es, con mucho, el estado más grande de la

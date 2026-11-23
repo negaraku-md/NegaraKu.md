@@ -19552,5 +19552,1347 @@
         "subject": "La statue dorée de Lord Murugan et l'escalier arc-en-ciel aux Batu Caves, Selangor"
       }
     ]
+  },
+  "states/johor": {
+    "zh": [
+      {
+        "alt": "柔佛东海岸的迪沙鲁，一道金黄的狭长沙滩镶着木麻黄树，迎向南中国海平静的海浪。",
+        "subject": "柔佛迪沙鲁海滩"
+      },
+      {
+        "alt": "柔佛东海岸外的拉哇岛，白沙与清澈的碧绿浅海环绕着林木葱郁、椰影成行的海岸。",
+        "subject": "柔佛拉哇岛（Pulau Rawa）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ジョホール州東海岸のデサルで、モクマオウの並木が縁取る黄金色の細長い砂浜が、南シナ海の穏やかな波と接している。",
+        "subject": "ジョホール州、デサル・ビーチ"
+      },
+      {
+        "alt": "ジョホール州東海岸沖のラワ島で、白砂と澄んだ碧緑の浅瀬が、森に覆われ椰子の並ぶ岸辺を縁取っている。",
+        "subject": "ジョホール州、ラワ島（Pulau Rawa）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "조호르주 동해안의 데사루에서 카수아리나 나무가 늘어선 길고 황금빛 모래 해안선이 남중국해의 잔잔한 파도와 맞닿아 있다.",
+        "subject": "조호르주 데사루 해변"
+      },
+      {
+        "alt": "조호르주 동해안 앞바다의 라와섬에서 흰 모래와 맑은 청록빛 얕은 바다가 숲이 우거지고 야자수가 늘어선 해안을 두르고 있다.",
+        "subject": "조호르주 라와섬(Pulau Rawa)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ชายหาดทรายสีทองทอดยาวขนาบด้วยต้นสนทะเลที่เดอซารูบนชายฝั่งตะวันออกของรัฐยะโฮร์บรรจบกับคลื่นสงบของทะเลจีนใต้",
+        "subject": "หาดเดอซารู รัฐยะโฮร์"
+      },
+      {
+        "alt": "ทรายขาวและน้ำตื้นสีเทอร์ควอยซ์ใสขนาบชายฝั่งที่ปกคลุมด้วยป่าและเรียงรายด้วยต้นปาล์มของเกาะราวานอกชายฝั่งตะวันออกของรัฐยะโฮร์",
+        "subject": "เกาะราวา (Pulau Rawa) รัฐยะโฮร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pesisir pantai berpasir keemasan yang panjang dan dipagari pokok ru bertemu ombak tenang Laut China Selatan di Desaru, pantai timur Johor.",
+        "subject": "Pantai Desaru, Johor"
+      },
+      {
+        "alt": "Pasir putih dan air cetek pirus jernih memagari pesisir berhutan dan dipenuhi pokok palma di Pulau Rawa, luar pantai timur Johor.",
+        "subject": "Pulau Rawa, Johor"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Garis pantai berpasir keemasan yang panjang dan dibatasi pohon cemara laut bertemu ombak tenang Laut Tiongkok Selatan di Desaru, pesisir timur Johor.",
+        "subject": "Pantai Desaru, Johor"
+      },
+      {
+        "alt": "Pasir putih dan perairan dangkal pirus yang jernih membatasi pesisir berhutan dan dipenuhi pohon palem di Pulau Rawa, lepas pantai timur Johor.",
+        "subject": "Pulau Rawa, Johor"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Bờ biển cát vàng trải dài viền bởi những hàng phi lao gặp những con sóng êm đềm của Biển Đông tại Desaru, bờ biển phía đông Johor.",
+        "subject": "Bãi biển Desaru, Johor"
+      },
+      {
+        "alt": "Cát trắng và vùng nước nông trong xanh màu ngọc lam viền quanh bờ đảo rừng rậm rợp bóng cọ của đảo Pulau Rawa ngoài khơi bờ biển phía đông Johor.",
+        "subject": "Đảo Pulau Rawa, Johor"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஜொகூரின் கிழக்குக் கடற்கரையில் உள்ள தெசாருவில், சவுக்கு மரங்களால் சூழப்பட்ட நீண்ட பொன்னிற மணற்கரை தென் சீனக் கடலின் அமைதியான அலைகளைச் சந்திக்கிறது.",
+        "subject": "தெசாரு கடற்கரை, ஜொகூர்"
+      },
+      {
+        "alt": "ஜொகூரின் கிழக்குக் கடற்கரைக்கு அப்பால் உள்ள புலாவ் ராவா தீவின் காடுகள் நிறைந்த, பனைமரங்கள் சூழ்ந்த கரையை வெண்மணலும் தெளிவான பச்சை-நீல நிற ஆழமற்ற நீரும் சூழ்ந்துள்ளன.",
+        "subject": "புலாவ் ராவா தீவு, ஜொகூர்"
+      }
+    ],
+    "hi": [
+      {
+        "subject": "देसारू समुद्र तट, जोहोर",
+        "alt": "जोहोर के पूर्वी तट पर देसारू में कैसुरीना वृक्षों से घिरा एक लंबा सुनहरा रेतीला किनारा दक्षिण चीन सागर की शांत लहरों से मिलता है।"
+      },
+      {
+        "subject": "पुलाऊ रावा (रावा द्वीप), जोहोर",
+        "alt": "जोहोर के पूर्वी तट से दूर पुलाऊ रावा द्वीप के वनाच्छादित, ताड़ के पेड़ों से घिरे किनारे पर सफेद रेत और स्वच्छ फ़िरोज़ी उथला पानी फैला है।"
+      }
+    ],
+    "ar": [
+      {
+        "subject": "شاطئ Desaru، جوهور",
+        "alt": "يلتقي شريط ساحلي رملي ذهبي طويل تحفّه أشجار الكازوارينا بأمواج بحر الصين الجنوبي الهادئة في Desaru على الساحل الشرقي لولاية جوهور."
+      },
+      {
+        "subject": "Pulau Rawa (جزيرة راوا)، جوهور",
+        "alt": "تحفّ الرمال البيضاء والمياه الضحلة الفيروزية الصافية الشاطئ الحرجي المحاط بأشجار النخيل في جزيرة Pulau Rawa قبالة الساحل الشرقي لولاية جوهور."
+      }
+    ],
+    "es": [
+      {
+        "subject": "Playa de Desaru, Johor",
+        "alt": "Una larga orilla de arena dorada bordeada de casuarinas se encuentra con las tranquilas olas del mar de China Meridional en Desaru, en la costa oriental de Johor."
+      },
+      {
+        "subject": "Pulau Rawa (isla Rawa), Johor",
+        "alt": "Arena blanca y aguas someras de un turquesa cristalino bordean la costa boscosa y poblada de palmeras de la isla de Pulau Rawa, frente a la costa oriental de Johor."
+      }
+    ],
+    "fr": [
+      {
+        "subject": "Plage de Desaru, Johor",
+        "alt": "Un long rivage de sable doré bordé de filaos rencontre les vagues calmes de la mer de Chine méridionale à Desaru, sur la côte est de Johor."
+      },
+      {
+        "subject": "Pulau Rawa (île de Rawa), Johor",
+        "alt": "Du sable blanc et des eaux peu profondes d'un turquoise limpide bordent le rivage boisé et planté de palmiers de l'île de Pulau Rawa, au large de la côte est de Johor."
+      }
+    ]
+  },
+  "states/kedah": {
+    "zh": [
+      {
+        "alt": "吉打浮罗交怡岛上，弧形的兰卡威天空之桥凭借缆索高高横跨在林木覆盖的山谷之上。",
+        "subject": "吉打兰卡威天空之桥"
+      },
+      {
+        "alt": "吉打本当的平坦绿色稻田在辽阔的天空下绵延至天际，这里是马来西亚的米仓。",
+        "subject": "吉打本当的稻田平原"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ケダ州のランカウイ島で、湾曲したランカウイ・スカイブリッジが、森に覆われた山の渓谷の高みをケーブルで横切って弧を描いている。",
+        "subject": "ケダ州、ランカウイ・スカイブリッジ"
+      },
+      {
+        "alt": "マレーシアの米どころ、ケダ州のペンダンで、平らな緑の水田が広い空の下、地平線まで広がっている。",
+        "subject": "ケダ州ペンダンの水田地帯"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "케다주 랑카위섬에서 곡선을 그리는 랑카위 스카이 브리지가 케이블에 매달려 숲으로 덮인 산악 협곡 위를 높이 가로지른다.",
+        "subject": "케다주 랑카위 스카이 브리지"
+      },
+      {
+        "alt": "말레이시아의 곡창지대인 케다주 펜당에서 평평한 녹색 논이 드넓은 하늘 아래 지평선까지 펼쳐져 있다.",
+        "subject": "케다주 펜당의 논 평야"
+      }
+    ],
+    "th": [
+      {
+        "alt": "สะพานลอยฟ้าลังกาวีรูปโค้งทอดโค้งบนสายเคเบิลข้ามหุบเขาบนภูเขาที่ปกคลุมด้วยป่าสูงเหนือเกาะลังกาวีในรัฐเกดะฮ์",
+        "subject": "สะพานลอยฟ้าลังกาวี รัฐเกดะฮ์"
+      },
+      {
+        "alt": "ทุ่งนาสีเขียวราบเรียบทอดไปจรดขอบฟ้าใต้ท้องฟ้ากว้างที่เปินดังในรัฐเกดะฮ์ อู่ข้าวของมาเลเซีย",
+        "subject": "ที่ราบนาข้าวที่เปินดัง รัฐเกดะฮ์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Jambatan Langit Langkawi yang melengkung terentang di atas kabel merentasi gaung gunung berhutan di Pulau Langkawi, Kedah.",
+        "subject": "Jambatan Langit Langkawi, Kedah"
+      },
+      {
+        "alt": "Bendang padi hijau rata terbentang hingga ke kaki langit di bawah langit luas di Pendang, Kedah, jelapang padi Malaysia.",
+        "subject": "Dataran bendang padi di Pendang, Kedah"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Jembatan Langit Langkawi yang melengkung membentang di atas kabel melintasi ngarai gunung berhutan di Pulau Langkawi, Kedah.",
+        "subject": "Langkawi Sky Bridge, Kedah"
+      },
+      {
+        "alt": "Sawah padi hijau yang datar membentang hingga cakrawala di bawah langit luas di Pendang, Kedah, lumbung padi Malaysia.",
+        "subject": "Hamparan sawah padi di Pendang, Kedah"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Cầu trời Langkawi Sky Bridge cong vòng treo trên dây cáp vắt ngang hẻm núi rừng rậm trên đảo Pulau Langkawi thuộc Kedah.",
+        "subject": "Cầu trời Langkawi Sky Bridge, Kedah"
+      },
+      {
+        "alt": "Những cánh đồng lúa xanh phẳng trải dài đến tận chân trời dưới bầu trời rộng tại Pendang thuộc Kedah, vựa lúa của Malaysia.",
+        "subject": "Đồng lúa tại Pendang, Kedah"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கெடாவில் உள்ள புலாவ் லங்காவி தீவில், காடுகள் நிறைந்த மலைப் பள்ளத்தாக்கை வளைந்த லங்காவி வான் பாலம் கம்பிகளில் தொங்கி உயரத்தில் வளைந்து செல்கிறது.",
+        "subject": "லங்காவி வான் பாலம், கெடா"
+      },
+      {
+        "alt": "மலேசியாவின் நெற்களஞ்சியமான கெடாவில் உள்ள பெண்டாங்கில், தட்டையான பசுமையான நெல் வயல்கள் விரிந்த வானத்தின் கீழ் அடிவானம் வரை பரவியுள்ளன.",
+        "subject": "பெண்டாங்கில் நெல் வயல் சமவெளிகள், கெடா"
+      }
+    ],
+    "hi": [
+      {
+        "subject": "लंकावी स्काई ब्रिज, केदाह",
+        "alt": "केदाह के पुलाऊ लंकावी में एक वनाच्छादित पर्वतीय खाई के ऊपर घुमावदार लंकावी स्काई ब्रिज केबलों पर ऊँचा धनुषाकार बना है।"
+      },
+      {
+        "subject": "पेंदांग के धान के मैदान, केदाह",
+        "alt": "मलेशिया के चावल के कटोरे, केदाह के पेंदांग में एक विस्तृत आकाश के नीचे समतल हरे धान के खेत क्षितिज तक फैले हैं।"
+      }
+    ],
+    "ar": [
+      {
+        "subject": "Langkawi Sky Bridge، قدح",
+        "alt": "ينحني جسر Langkawi Sky Bridge المقوّس على كابلات مرتفعًا عبر وادٍ جبلي حرجي في جزيرة Pulau Langkawi بولاية قدح."
+      },
+      {
+        "subject": "سهول الأرز في Pendang، قدح",
+        "alt": "تمتد حقول الأرز الخضراء المسطحة إلى الأفق تحت سماء واسعة في Pendang بولاية قدح، سلّة الأرز في ماليزيا."
+      }
+    ],
+    "es": [
+      {
+        "subject": "Langkawi Sky Bridge, Kedah",
+        "alt": "El curvo Langkawi Sky Bridge se arquea sobre cables muy por encima de un barranco montañoso y boscoso en Pulau Langkawi, en Kedah."
+      },
+      {
+        "subject": "Llanuras de arrozales en Pendang, Kedah",
+        "alt": "Llanos arrozales verdes se extienden hasta el horizonte bajo un cielo amplio en Pendang, en Kedah, el granero de arroz de Malasia."
+      }
+    ],
+    "fr": [
+      {
+        "subject": "Langkawi Sky Bridge, Kedah",
+        "alt": "Le Langkawi Sky Bridge incurvé s'arque sur des câbles bien au-dessus d'une gorge montagneuse boisée sur l'île de Pulau Langkawi, dans le Kedah."
+      },
+      {
+        "subject": "Plaines de rizières à Pendang, Kedah",
+        "alt": "De plates rizières vertes s'étendent jusqu'à l'horizon sous un vaste ciel à Pendang, dans le Kedah, le grenier à riz de la Malaisie."
+      }
+    ]
+  },
+  "states/kelantan": {
+    "zh": [
+      {
+        "alt": "哥打巴鲁晴朗蔚蓝的天空下，吉兰丹州立博物馆红瓦长顶的殖民时期建筑矗立在一棵高耸的棕榈树后方。",
+        "subject": "哥打巴鲁吉兰丹州立博物馆（Muzium Negeri Kelantan）"
+      },
+      {
+        "alt": "哥打巴鲁灯火通明、层层叠叠的西蒂卡迪查中央市场（Pasar Siti Khadijah）内，商贩在拥挤的摊位间售卖新鲜农产品。",
+        "subject": "吉兰丹哥打巴鲁西蒂卡迪查市场（Pasar Siti Khadijah）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "コタバルの晴れた青空の下、クランタン州立博物館の赤い屋根の細長い植民地時代の建物が、高い椰子の木の後ろに建っている。",
+        "subject": "コタバル、クランタン州立博物館（Muzium Negeri Kelantan）"
+      },
+      {
+        "alt": "コタバルの、階層状で明るく照らされたパサール・シティ・ハディジャ中央市場の中で、商人たちが混み合う屋台の間で新鮮な農産物を売っている。",
+        "subject": "クランタン州コタバル、パサール・シティ・ハディジャ（Pasar Siti Khadijah）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "코타바루의 맑고 푸른 하늘 아래, 클란탄 주립박물관의 붉은 지붕을 얹은 긴 식민지 시대 건물이 키 큰 야자수 뒤에 서 있다.",
+        "subject": "코타바루, 클란탄 주립박물관(Muzium Negeri Kelantan)"
+      },
+      {
+        "alt": "코타바루의 층층이 쌓이고 환하게 밝혀진 파사르 시티 카디자 중앙시장 안에서 상인들이 붐비는 가판대 사이로 신선한 농산물을 팔고 있다.",
+        "subject": "클란탄주 코타바루, 파사르 시티 카디자(Pasar Siti Khadijah)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารยุคอาณานิคมหลังยาวหลังคาสีแดงของพิพิธภัณฑ์รัฐกลันตันตั้งอยู่หลังต้นปาล์มสูงใต้ท้องฟ้าสีครามใสที่โกตาบารู",
+        "subject": "พิพิธภัณฑ์รัฐกลันตัน (Muzium Negeri Kelantan) โกตาบารู"
+      },
+      {
+        "alt": "พ่อค้าแม่ค้าขายผลผลิตสดท่ามกลางแผงลอยที่แน่นขนัดภายในตลาดกลางปาซาร์ซีตีกอดียะห์ที่สว่างไสวและเป็นชั้นๆที่โกตาบารู",
+        "subject": "ปาซาร์ซีตีกอดียะห์ (Pasar Siti Khadijah) โกตาบารู รัฐกลันตัน"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Bangunan kolonial beratap merah yang panjang milik Muzium Negeri Kelantan berdiri di belakang sebatang pokok palma tinggi di bawah langit biru cerah di Kota Bharu.",
+        "subject": "Muzium Negeri Kelantan, Kota Bharu"
+      },
+      {
+        "alt": "Para peniaga menjual hasil segar di antara gerai yang sesak di dalam pasar pusat Pasar Siti Khadijah yang bertingkat dan terang-benderang di Kota Bharu.",
+        "subject": "Pasar Siti Khadijah, Kota Bharu, Kelantan"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Bangunan kolonial beratap merah yang panjang milik Muzium Negeri Kelantan berdiri di belakang sebatang pohon palem tinggi di bawah langit biru cerah di Kota Bharu.",
+        "subject": "Muzium Negeri Kelantan, Kota Bharu"
+      },
+      {
+        "alt": "Para pedagang menjual hasil bumi segar di antara kios-kios yang padat di dalam pasar pusat Pasar Siti Khadijah yang bertingkat dan terang-benderang di Kota Bharu.",
+        "subject": "Pasar Siti Khadijah, Kota Bharu, Kelantan"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Tòa nhà thuộc địa dài mái đỏ của Bảo tàng Bang Kelantan (Muzium Negeri Kelantan) đứng sau một cây cọ cao dưới bầu trời xanh trong tại Kota Bharu.",
+        "subject": "Bảo tàng Bang Kelantan (Muzium Negeri Kelantan), Kota Bharu"
+      },
+      {
+        "alt": "Những người buôn bán bày bán nông sản tươi giữa các quầy hàng chen chúc bên trong chợ trung tâm Pasar Siti Khadijah nhiều tầng, rực sáng tại Kota Bharu.",
+        "subject": "Pasar Siti Khadijah, Kota Bharu, Kelantan"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கோத்தா பாருவில் தெளிவான நீல வானத்தின் கீழ், கெலந்தான் மாநில அருங்காட்சியகத்தின் நீளமான சிவப்புக் கூரை கொண்ட காலனித்துவக் கட்டிடம் ஒரு உயரமான பனைமரத்திற்குப் பின்னால் நிற்கிறது.",
+        "subject": "கெலந்தான் மாநில அருங்காட்சியகம் (Muzium Negeri Kelantan), கோத்தா பாரு"
+      },
+      {
+        "alt": "கோத்தா பாருவில் உள்ள படிநிலைகளுடன் கூடிய, பிரகாசமாக ஒளியூட்டப்பட்ட பாசார் சிட்டி காதிஜா மைய மார்க்கெட்டுக்குள் நெரிசலான கடைகளுக்கு இடையே வியாபாரிகள் புதிய காய்கறிகளை விற்கிறார்கள்.",
+        "subject": "பாசார் சிட்டி காதிஜா, கோத்தா பாரு, கெலந்தான்"
+      }
+    ],
+    "hi": [
+      {
+        "subject": "केलंतान राज्य संग्रहालय (मुज़ियम नेगेरी केलंतान), कोटा भारू",
+        "alt": "कोटा भारू में एक स्वच्छ नीले आकाश के नीचे एक ऊँचे ताड़ के पेड़ के पीछे केलंतान राज्य संग्रहालय की लंबी, लाल छत वाली औपनिवेशिक इमारत खड़ी है।"
+      },
+      {
+        "subject": "पासार सिती खदीजा, कोटा भारू, केलंतान",
+        "alt": "कोटा भारू के बहुमंज़िले, चमकीली रोशनी वाले पासार सिती खदीजा केंद्रीय बाज़ार के भीतर भीड़भरे स्टॉलों के बीच व्यापारी ताज़ा उपज बेच रहे हैं।"
+      }
+    ],
+    "ar": [
+      {
+        "subject": "متحف ولاية كلنتان (Muzium Negeri Kelantan)، كوتا بهارو",
+        "alt": "يقف المبنى الاستعماري الطويل ذو السقف الأحمر لمتحف ولاية كلنتان خلف نخلة عالية تحت سماء زرقاء صافية في كوتا بهارو."
+      },
+      {
+        "subject": "Pasar Siti Khadijah، كوتا بهارو، كلنتان",
+        "alt": "يبيع التجار المنتجات الطازجة بين الأكشاك المزدحمة داخل سوق Pasar Siti Khadijah المركزي المتدرّج والمضاء بسطوع في كوتا بهارو."
+      }
+    ],
+    "es": [
+      {
+        "subject": "Museo Estatal de Kelantan (Muzium Negeri Kelantan), Kota Bharu",
+        "alt": "El largo edificio colonial de tejado rojo del Museo Estatal de Kelantan se alza tras una alta palmera bajo un cielo azul despejado en Kota Bharu."
+      },
+      {
+        "subject": "Pasar Siti Khadijah, Kota Bharu, Kelantan",
+        "alt": "Los comerciantes venden productos frescos entre puestos abarrotados dentro del mercado central Pasar Siti Khadijah, escalonado y de vivos colores, en Kota Bharu."
+      }
+    ],
+    "fr": [
+      {
+        "subject": "Musée de l'État de Kelantan (Muzium Negeri Kelantan), Kota Bharu",
+        "alt": "Le long bâtiment colonial au toit rouge du musée de l'État de Kelantan se dresse derrière un grand palmier sous un ciel bleu limpide à Kota Bharu."
+      },
+      {
+        "subject": "Pasar Siti Khadijah, Kota Bharu, Kelantan",
+        "alt": "Des marchands vendent des produits frais parmi les étals bondés du marché central Pasar Siti Khadijah, à étages et vivement éclairé, à Kota Bharu."
+      }
+    ]
+  },
+  "states/negeri-sembilan": {
+    "zh": [
+      {
+        "alt": "森美兰波德申，一道平缓弯曲、椰树成行的沙滩面向平静的马六甲海峡。",
+        "subject": "森美兰波德申海滩"
+      },
+      {
+        "alt": "芙蓉的森美兰州立博物馆园区内，矗立着拥有舒展牛角形屋顶的米南加保式木屋。",
+        "subject": "芙蓉森美兰州立博物馆（Muzium Negeri Sembilan）的米南加保式传统屋"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ヌグリ・スンビラン州のポートディクソンで、椰子の並ぶ緩やかに湾曲した砂浜が、穏やかなマラッカ海峡に面している。",
+        "subject": "ヌグリ・スンビラン州、ポートディクソンのビーチ"
+      },
+      {
+        "alt": "スレンバンのヌグリ・スンビラン州立博物館の敷地に、水牛の角のように反り返った屋根をもつミナンカバウ様式の木造家屋が建っている。",
+        "subject": "スレンバンのヌグリ・スンビラン州立博物館（Muzium Negeri Sembilan）のミナンカバウ様式伝統家屋"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "느그리슴빌란주 포트딕슨에서 야자수가 늘어선 완만하게 굽은 모래 해변이 잔잔한 믈라카 해협을 향하고 있다.",
+        "subject": "느그리슴빌란주 포트딕슨 해변"
+      },
+      {
+        "alt": "스름반의 느그리슴빌란 주립박물관 경내에 물소 뿔처럼 휘어 오른 지붕을 얹은 미낭카바우 양식의 목조 가옥이 서 있다.",
+        "subject": "스름반 느그리슴빌란 주립박물관(Muzium Negeri Sembilan)의 미낭카바우 양식 전통 가옥"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ชายหาดทรายโค้งอ่อนช้อยเรียงรายด้วยต้นปาล์มทอดตัวหน้าช่องแคบมะละกาอันสงบที่พอร์ตดิกสันในรัฐเนอเกอรีเซิมบีลัน",
+        "subject": "หาดพอร์ตดิกสัน รัฐเนอเกอรีเซิมบีลัน"
+      },
+      {
+        "alt": "เรือนไม้แบบมีนังกาเบาที่มีหลังคาโค้งรูปเขาควายตั้งอยู่ในบริเวณพิพิธภัณฑ์รัฐเนอเกอรีเซิมบีลันที่เซอเริมบัน",
+        "subject": "เรือนแบบมีนังกาเบาที่พิพิธภัณฑ์รัฐเนอเกอรีเซิมบีลัน (Muzium Negeri Sembilan) เซอเริมบัน"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pantai berpasir yang melengkung lembut dan dipagari pokok palma menghadap Selat Melaka yang tenang di Port Dickson, Negeri Sembilan.",
+        "subject": "Pantai Port Dickson, Negeri Sembilan"
+      },
+      {
+        "alt": "Rumah kayu Minangkabau dengan bumbung melentik berbentuk tanduk kerbau berdiri di dalam kawasan Muzium Negeri Sembilan di Seremban.",
+        "subject": "Rumah tradisional berbentuk Minangkabau di Muzium Negeri Sembilan, Seremban"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Pantai berpasir yang melengkung lembut dan dibatasi pohon palem menghadap Selat Malaka yang tenang di Port Dickson, Negeri Sembilan.",
+        "subject": "Pantai Port Dickson, Negeri Sembilan"
+      },
+      {
+        "alt": "Rumah kayu Minangkabau dengan atap melentik berbentuk tanduk kerbau berdiri di dalam kompleks Muzium Negeri Sembilan di Seremban.",
+        "subject": "Rumah tradisional bergaya Minangkabau di Muzium Negeri Sembilan, Seremban"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Bãi biển cát cong nhẹ viền hàng cọ hướng ra eo biển Malacca lặng sóng tại Port Dickson, Negeri Sembilan.",
+        "subject": "Bãi biển Port Dickson, Negeri Sembilan"
+      },
+      {
+        "alt": "Những ngôi nhà gỗ Minangkabau với mái cong vút hình sừng trâu đứng trong khuôn viên Bảo tàng Bang Negeri Sembilan (Muzium Negeri Sembilan) tại Seremban.",
+        "subject": "Nhà truyền thống kiểu Minangkabau tại Muzium Negeri Sembilan, Seremban"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "நெகிரி செம்பிலானில் உள்ள போர்ட் டிக்சனில், பனைமரங்கள் சூழ்ந்த மெதுவாக வளைந்த மணற்கரை அமைதியான மலாக்கா நீரிணையை எதிர்கொள்கிறது.",
+        "subject": "போர்ட் டிக்சன் கடற்கரை, நெகிரி செம்பிலான்"
+      },
+      {
+        "alt": "செரம்பானில் உள்ள நெகிரி செம்பிலான் மாநில அருங்காட்சியகத்தின் வளாகத்தில், எருமைக் கொம்பு வடிவிலான வளைந்த கூரைகளுடன் கூடிய மினாங்கபாவ் மரவீடுகள் நிற்கின்றன.",
+        "subject": "Muzium Negeri Sembilan-இல் மினாங்கபாவ் பாணி பாரம்பரிய வீடுகள், செரம்பான்"
+      }
+    ],
+    "hi": [
+      {
+        "subject": "पोर्ट डिक्सन समुद्र तट, नेगेरी सेम्बिलान",
+        "alt": "नेगेरी सेम्बिलान के पोर्ट डिक्सन में ताड़ के पेड़ों से घिरा धीरे-धीरे मुड़ता रेतीला समुद्र तट शांत मलक्का जलडमरूमध्य के सामने है।"
+      },
+      {
+        "subject": "मुज़ियम नेगेरी सेम्बिलान, सेरेम्बान में मीनांगकाबाउ शैली के पारंपरिक घर",
+        "alt": "सेरेम्बान में नेगेरी सेम्बिलान राज्य संग्रहालय के परिसर में भैंस-सींग जैसी घुमावदार छतों वाले लकड़ी के मीनांगकाबाउ घर खड़े हैं।"
+      }
+    ],
+    "ar": [
+      {
+        "subject": "شاطئ Port Dickson، نݢري سمبيلن",
+        "alt": "يطلّ شاطئ رملي منحنٍ برفق تصطفّ على طوله أشجار النخيل على مضيق ملقا الهادئ في Port Dickson بولاية نݢري سمبيلن."
+      },
+      {
+        "subject": "بيوت تقليدية على طراز Minangkabau في Muzium Negeri Sembilan، سريمبان",
+        "alt": "تقف بيوت Minangkabau الخشبية بأسقفها المنحنية على هيئة قرون الجاموس في باحة متحف ولاية نݢري سمبيلن في سريمبان."
+      }
+    ],
+    "es": [
+      {
+        "subject": "Playa de Port Dickson, Negeri Sembilan",
+        "alt": "Una playa de arena suavemente curvada y bordeada de palmeras da al tranquilo estrecho de Malaca en Port Dickson, en Negeri Sembilan."
+      },
+      {
+        "subject": "Casas tradicionales de estilo minangkabau en el Muzium Negeri Sembilan, Seremban",
+        "alt": "Casas minangkabau de madera con amplios tejados en forma de cuernos de búfalo se alzan en los terrenos del Museo Estatal de Negeri Sembilan en Seremban."
+      }
+    ],
+    "fr": [
+      {
+        "subject": "Plage de Port Dickson, Negeri Sembilan",
+        "alt": "Une plage de sable doucement incurvée et bordée de palmiers fait face au calme détroit de Malacca à Port Dickson, dans le Negeri Sembilan."
+      },
+      {
+        "subject": "Maisons traditionnelles de style minangkabau au Muzium Negeri Sembilan, Seremban",
+        "alt": "Des maisons minangkabau en bois aux toits galbés en cornes de buffle se dressent dans l'enceinte du musée de l'État de Negeri Sembilan à Seremban."
+      }
+    ]
+  },
+  "states/pahang": {
+    "zh": [
+      {
+        "alt": "彭亨海岸关丹附近，海浪拍打着直落尖不辣那座背靠森林的沙湾上的黑色巨石。",
+        "subject": "彭亨关丹直落尖不辣海滩"
+      },
+      {
+        "alt": "彭亨真尼湖，静谧的淡水在林木覆盖的群山之间铺展开来，这是彭亨铺满莲花的湖泊，也是联合国教科文组织生物圈保护区。",
+        "subject": "彭亨真尼湖（Tasik Chini）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "パハン州沿岸のクアンタン近くで、森を背にしたテロッ・チェンパダッの砂浜の入り江で、波が黒い巨岩を洗っている。",
+        "subject": "パハン州クアンタン、テロッ・チェンパダッのビーチ"
+      },
+      {
+        "alt": "パハン州の蓮に覆われた湖でユネスコ生物圏保存地域でもあるタシッ・チニで、静かな淡水が森に覆われた丘の間に広がっている。",
+        "subject": "パハン州、チニ湖（Tasik Chini）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "파항주 해안 콴탄 인근에서 숲을 등진 텔룩 쩜파닥의 모래 만에 밀려온 파도가 검은 바위를 적시고 있다.",
+        "subject": "파항주 콴탄 텔룩 쩜파닥 해변"
+      },
+      {
+        "alt": "파항주의 연꽃으로 뒤덮인 호수이자 유네스코 생물권 보전지역인 타식 치니에서 잔잔한 담수가 숲으로 덮인 언덕 사이로 펼쳐져 있다.",
+        "subject": "파항주 치니 호수(Tasik Chini)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "คลื่นซัดก้อนหินสีเข้มบนอ่าวทรายที่มีป่าเป็นฉากหลังของเตอโละฌัมปาดักใกล้กวนตันบนชายฝั่งรัฐปะหัง",
+        "subject": "หาดเตอโละฌัมปาดัก กวนตัน รัฐปะหัง"
+      },
+      {
+        "alt": "น้ำจืดนิ่งแผ่กว้างระหว่างเนินเขาที่ปกคลุมด้วยป่าที่ตาซิกฌีนี ทะเลสาบที่ปกคลุมด้วยดอกบัวของรัฐปะหังและเขตสงวนชีวมณฑลยูเนสโก",
+        "subject": "ทะเลสาบฌีนี (Tasik Chini) รัฐปะหัง"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Ombak memukul batu-batan gelap di teluk berpasir berlatarkan hutan di Teluk Cempedak berhampiran Kuantan di pesisir Pahang.",
+        "subject": "Pantai Teluk Cempedak, Kuantan, Pahang"
+      },
+      {
+        "alt": "Air tawar yang tenang terbentang di antara bukit berhutan di Tasik Chini, tasik dipenuhi teratai di Pahang dan sebuah rizab biosfera UNESCO.",
+        "subject": "Tasik Chini, Pahang"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Ombak menghantam batu-batu gelap di teluk berpasir berlatar hutan di Teluk Cempedak dekat Kuantan di pesisir Pahang.",
+        "subject": "Pantai Teluk Cempedak, Kuantan, Pahang"
+      },
+      {
+        "alt": "Air tawar yang tenang terbentang di antara bukit berhutan di Danau Chini (Tasik Chini), danau berselimut teratai di Pahang dan cagar biosfer UNESCO.",
+        "subject": "Danau Chini (Tasik Chini), Pahang"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Sóng vỗ qua những tảng đá sẫm màu trên vịnh cát lưng tựa rừng của Teluk Cempedak gần Kuantan trên bờ biển Pahang.",
+        "subject": "Bãi biển Teluk Cempedak, Kuantan, Pahang"
+      },
+      {
+        "alt": "Mặt nước ngọt tĩnh lặng trải rộng giữa những ngọn đồi rừng rậm tại hồ Tasik Chini, hồ phủ sen của Pahang và là khu dự trữ sinh quyển UNESCO.",
+        "subject": "Hồ Tasik Chini (Lake Chini), Pahang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பகாங்கின் கடற்கரையில் குவாந்தனுக்கு அருகில் உள்ள தெலுக் செம்பேடாக்கில், காட்டை பின்னணியாகக் கொண்ட மணல் விரிகுடாவின் கரு நிற பாறைகள் மீது அலைகள் மோதுகின்றன.",
+        "subject": "தெலுக் செம்பேடாக் கடற்கரை, குவாந்தன், பகாங்"
+      },
+      {
+        "alt": "பகாங்கின் தாமரை நிறைந்த ஏரியும் யுனெஸ்கோ உயிர்க்கோளக் காப்பகமுமான தாசிக் சினியில், காடுகள் நிறைந்த குன்றுகளுக்கு இடையே அமைதியான நன்னீர் பரவியுள்ளது.",
+        "subject": "தாசிக் சினி (சினி ஏரி), பகாங்"
+      }
+    ],
+    "hi": [
+      {
+        "subject": "तेलुक चेम्पेदक समुद्र तट, कुआंतान, पहांग",
+        "alt": "पहांग के तट पर कुआंतान के पास तेलुक चेम्पेदक की वन से घिरी रेतीली खाड़ी में गहरे रंग की चट्टानों के ऊपर लहरें टकराती हैं।"
+      },
+      {
+        "subject": "तासिक चीनी (चीनी झील), पहांग",
+        "alt": "पहांग की कमल से ढकी झील और यूनेस्को बायोस्फीयर रिज़र्व, तासिक चीनी में वनाच्छादित पहाड़ियों के बीच स्थिर मीठा पानी फैला है।"
+      }
+    ],
+    "ar": [
+      {
+        "subject": "شاطئ Teluk Cempedak، كوانتان، باهانغ",
+        "alt": "تتلاطم الأمواج فوق صخور داكنة على خليج Teluk Cempedak الرملي المحاط بالغابات قرب كوانتان على ساحل باهانغ."
+      },
+      {
+        "subject": "Tasik Chini (بحيرة تشيني)، باهانغ",
+        "alt": "تمتد المياه العذبة الساكنة بين تلال حرجية في Tasik Chini، بحيرة باهانغ المغطاة باللوتس ومحمية محيط حيوي معترف بها من اليونسكو."
+      }
+    ],
+    "es": [
+      {
+        "subject": "Playa de Teluk Cempedak, Kuantan, Pahang",
+        "alt": "Las olas bañan oscuros peñascos en la bahía arenosa y respaldada por la selva de Teluk Cempedak, cerca de Kuantan, en la costa de Pahang."
+      },
+      {
+        "subject": "Tasik Chini (lago Chini), Pahang",
+        "alt": "Aguas dulces en calma se extienden entre colinas boscosas en Tasik Chini, el lago cubierto de lotos de Pahang y reserva de la biosfera de la Unesco."
+      }
+    ],
+    "fr": [
+      {
+        "subject": "Plage de Teluk Cempedak, Kuantan, Pahang",
+        "alt": "Les vagues déferlent sur des rochers sombres dans la baie sablonneuse adossée à la forêt de Teluk Cempedak, près de Kuantan, sur la côte du Pahang."
+      },
+      {
+        "subject": "Tasik Chini (lac Chini), Pahang",
+        "alt": "Une eau douce immobile s'étend entre des collines boisées à Tasik Chini, le lac couvert de lotus du Pahang et réserve de biosphère de l'Unesco."
+      }
+    ]
+  },
+  "states/perak": {
+    "zh": [
+      {
+        "alt": "霹雳华都牙也附近，凯利古堡那座未完工的红砖宅邸与塔楼矗立在一片绿意之中。",
+        "subject": "霹雳华都牙也凯利古堡（Kellie's Castle）"
+      },
+      {
+        "alt": "霹雳怎邦附近务边洞这座广阔的石灰岩洞窟内，布满了被灯光照亮的钟乳石与流石构造。",
+        "subject": "霹雳怎邦务边洞（Gua Tempurung）石灰岩洞"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ペラ州バトゥガジャ近くで、ケリーズ・キャッスルの未完成の赤レンガの邸宅と塔が緑の中に建っている。",
+        "subject": "ペラ州バトゥガジャ、ケリーズ・キャッスル（Kellie's Castle）"
+      },
+      {
+        "alt": "ペラ州ゴペン近くのグア・テンプロンの広大な石灰岩の空洞を、照らし出された鍾乳石とフローストーンの造形が埋め尽くしている。",
+        "subject": "ペラ州ゴペン、グア・テンプロン（Gua Tempurung）石灰岩洞"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "페락주 바투가자 인근에서 켈리스 캐슬의 미완성 붉은 벽돌 저택과 탑이 녹음 속에 서 있다.",
+        "subject": "페락주 바투가자, 켈리스 캐슬(Kellie's Castle)"
+      },
+      {
+        "alt": "페락주 고펭 인근 구아 뜸푸룽의 광대한 석회암 동굴 안을 조명을 받은 종유석과 유석 형성물이 가득 채우고 있다.",
+        "subject": "페락주 고펭 구아 뜸푸룽(Gua Tempurung) 석회암 동굴"
+      }
+    ],
+    "th": [
+      {
+        "alt": "คฤหาสน์และหอคอยอิฐแดงที่สร้างไม่เสร็จของเคลลีส์แคสเซิลตั้งอยู่ท่ามกลางความเขียวขจีใกล้บาตูกาจะฮ์ในรัฐเประ",
+        "subject": "เคลลีส์แคสเซิล (Kellie's Castle) บาตูกาจะฮ์ รัฐเประ"
+      },
+      {
+        "alt": "หินงอกและหินย้อยที่ส่องสว่างเต็มห้องหินปูนขนาดใหญ่ของกัวเติมปูรงใกล้โกเปงในรัฐเประ",
+        "subject": "ถ้ำหินปูนกัวเติมปูรง (Gua Tempurung) โกเปง รัฐเประ"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Rumah agam dan menara batu-bata merah Kellie's Castle yang belum siap berdiri di tengah-tengah kehijauan berhampiran Batu Gajah di Perak.",
+        "subject": "Kellie's Castle, Batu Gajah, Perak"
+      },
+      {
+        "alt": "Stalaktit dan formasi batu kapur yang disinari cahaya memenuhi dewan batu kapur yang luas di Gua Tempurung berhampiran Gopeng di Perak.",
+        "subject": "Gua batu kapur Gua Tempurung, Gopeng, Perak"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Rumah besar dan menara bata merah Kellie's Castle yang belum rampung berdiri di tengah hijaunya pepohonan dekat Batu Gajah di Perak.",
+        "subject": "Kellie's Castle, Batu Gajah, Perak"
+      },
+      {
+        "alt": "Stalaktit dan formasi batu kapur yang disinari cahaya memenuhi ruang gua batu kapur yang luas di Gua Tempurung dekat Gopeng di Perak.",
+        "subject": "Gua batu kapur Gua Tempurung, Gopeng, Perak"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Dinh thự và tháp gạch đỏ còn dang dở của Kellie's Castle đứng giữa cây cối xanh tươi gần Batu Gajah ở Perak.",
+        "subject": "Kellie's Castle, Batu Gajah, Perak"
+      },
+      {
+        "alt": "Những nhũ đá và khối thạch nhũ được chiếu sáng lấp đầy hang đá vôi rộng lớn của Gua Tempurung gần Gopeng ở Perak.",
+        "subject": "Hang đá vôi Gua Tempurung, Gopeng, Perak"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பேராக்கில் பத்து காஜாவுக்கு அருகில், பசுமையின் நடுவே கெல்லீஸ் கோட்டையின் முடிக்கப்படாத சிவப்பு செங்கல் மாளிகையும் கோபுரமும் நிற்கின்றன.",
+        "subject": "கெல்லீஸ் கோட்டை, பத்து காஜா, பேராக்"
+      },
+      {
+        "alt": "பேராக்கில் கோபேங்கிற்கு அருகில் உள்ள குவா டெம்புரோங்கின் பரந்த சுண்ணாம்புக்கல் அறையை, ஒளியூட்டப்பட்ட சுண்ணாம்புக் கற்தூண்களும் படிவ அமைப்புகளும் நிரப்புகின்றன.",
+        "subject": "குவா டெம்புரோங் சுண்ணாம்புக் குகை, கோபேங், பேராக்"
+      }
+    ],
+    "hi": [
+      {
+        "subject": "केली'ज़ कैसल, बाटू गाजाह, पेराक",
+        "alt": "पेराक में बाटू गाजाह के पास हरियाली के बीच केली'ज़ कैसल की अधूरी लाल-ईंट की हवेली और मीनार खड़ी है।"
+      },
+      {
+        "subject": "गुआ तेम्पुरोंग चूना-पत्थर गुफा, गोपेंग, पेराक",
+        "alt": "पेराक में गोपेंग के पास गुआ तेम्पुरोंग के विशाल चूना-पत्थर कक्ष को प्रकाशित स्टैलेक्टाइट और फ़्लोस्टोन संरचनाएँ भर देती हैं।"
+      }
+    ],
+    "ar": [
+      {
+        "subject": "Kellie's Castle، باتو غاجاه، بيراق",
+        "alt": "تقف قصر Kellie's Castle غير المكتمل ببرجه ومبناه من الطوب الأحمر وسط الخضرة قرب باتو غاجاه في بيراق."
+      },
+      {
+        "subject": "كهف Gua Tempurung الجيري، غوبينغ، بيراق",
+        "alt": "تملأ الهوابط المضاءة وتكوينات الترسبات الجيرية القاعة الجيرية الشاسعة في كهف Gua Tempurung قرب غوبينغ في بيراق."
+      }
+    ],
+    "es": [
+      {
+        "subject": "Kellie's Castle, Batu Gajah, Perak",
+        "alt": "La mansión y la torre inacabadas de ladrillo rojo de Kellie's Castle se alzan entre la vegetación cerca de Batu Gajah, en Perak."
+      },
+      {
+        "subject": "Cueva de piedra caliza de Gua Tempurung, Gopeng, Perak",
+        "alt": "Estalactitas iluminadas y formaciones de colada calcárea llenan la vasta cámara de piedra caliza de Gua Tempurung, cerca de Gopeng, en Perak."
+      }
+    ],
+    "fr": [
+      {
+        "subject": "Kellie's Castle, Batu Gajah, Perak",
+        "alt": "Le manoir et la tour inachevés en brique rouge de Kellie's Castle se dressent parmi la verdure près de Batu Gajah, dans le Perak."
+      },
+      {
+        "subject": "Grotte calcaire de Gua Tempurung, Gopeng, Perak",
+        "alt": "Des stalactites illuminées et des concrétions de calcite emplissent la vaste salle calcaire de Gua Tempurung, près de Gopeng, dans le Perak."
+      }
+    ]
+  },
+  "states/perlis": {
+    "zh": [
+      {
+        "alt": "玻璃市加基武吉附近，一条悬空的木栈道穿行于黑暗洞（Gua Kelam）的石灰岩隧道之中。",
+        "subject": "玻璃市黑暗洞（Gua Kelam）栈道"
+      },
+      {
+        "alt": "玻璃市瓜拉玻璃市的渡轮码头是前往兰卡威船只的大陆门户，坐落在马六甲海峡之畔。",
+        "subject": "玻璃市瓜拉玻璃市渡轮码头"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "プルリス州カキ・ブキット近くで、吊り下げられた木製の遊歩道がグア・クラムの石灰岩トンネルを縫うように通っている。",
+        "subject": "プルリス州、グア・クラム（Gua Kelam）の遊歩道"
+      },
+      {
+        "alt": "ランカウイ行きの船が出る本土側の玄関口であるクアラ・プルリスのフェリーターミナルが、マラッカ海峡のほとりに建っている。",
+        "subject": "プルリス州、クアラ・プルリスのフェリーターミナル"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "프를리스주 카키부킷 인근에서 공중에 매달린 목재 산책로가 구아 끌람의 석회암 터널을 누비며 이어진다.",
+        "subject": "프를리스주 구아 끌람(Gua Kelam) 산책로"
+      },
+      {
+        "alt": "랑카위행 배가 드나드는 본토 관문인 쿠알라프를리스의 페리 터미널이 믈라카 해협 곁에 서 있다.",
+        "subject": "프를리스주 쿠알라프를리스 페리 터미널"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ทางเดินไม้แขวนลอยทอดผ่านอุโมงค์หินปูนของกัวเกอลัมใกล้กากีบูกิตในรัฐปะลิส",
+        "subject": "ทางเดินถ้ำกัวเกอลัม (Gua Kelam) รัฐปะลิส"
+      },
+      {
+        "alt": "ท่าเรือเฟอร์รีที่กัวลาปะลิส ประตูสู่ฝั่งแผ่นดินใหญ่สำหรับเรือไปลังกาวี ตั้งอยู่ริมช่องแคบมะละกา",
+        "subject": "ท่าเรือเฟอร์รีกัวลาปะลิส รัฐปะลิส"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Laluan kayu tergantung menyusuri terowong batu kapur Gua Kelam berhampiran Kaki Bukit di Perlis.",
+        "subject": "Laluan gua Gua Kelam, Perlis"
+      },
+      {
+        "alt": "Terminal feri di Kuala Perlis, pintu masuk tanah besar untuk bot ke Langkawi, berdiri di tepi Selat Melaka.",
+        "subject": "Terminal feri Kuala Perlis, Perlis"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Jalur kayu gantung menyusuri terowongan batu kapur Gua Kelam dekat Kaki Bukit di Perlis.",
+        "subject": "Jalur gua Gua Kelam, Perlis"
+      },
+      {
+        "alt": "Terminal feri di Kuala Perlis, pintu gerbang daratan utama untuk perahu menuju Langkawi, berdiri di tepi Selat Malaka.",
+        "subject": "Terminal feri Kuala Perlis, Perlis"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Lối đi gỗ treo lơ lửng xuyên qua đường hầm đá vôi của Gua Kelam gần Kaki Bukit ở Perlis.",
+        "subject": "Lối đi hang Gua Kelam, Perlis"
+      },
+      {
+        "alt": "Bến phà tại Kuala Perlis, cửa ngõ đất liền cho các chuyến thuyền đi Langkawi, nằm bên eo biển Malacca.",
+        "subject": "Bến phà Kuala Perlis, Perlis"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பர்லிஸில் காக்கி புக்கிட்டுக்கு அருகில் உள்ள குவா கெலாமின் சுண்ணாம்புக்கல் சுரங்கத்தின் வழியே தொங்கும் மரப் பாதை செல்கிறது.",
+        "subject": "குவா கெலாம் குகைப் பாதை, பர்லிஸ்"
+      },
+      {
+        "alt": "லங்காவிக்குப் படகுகளுக்கான பிரதான தரைவழி நுழைவாயிலான கோலா பர்லிஸில் உள்ள படகுத் துறைமுகம் மலாக்கா நீரிணையை ஒட்டி நிற்கிறது.",
+        "subject": "கோலா பர்லிஸ் படகுத் துறைமுகம், பர்லிஸ்"
+      }
+    ],
+    "hi": [
+      {
+        "subject": "गुआ केलाम गुफा पैदलपथ, पर्लिस",
+        "alt": "पर्लिस में काकी बुकिट के पास गुआ केलाम की चूना-पत्थर सुरंग से होकर एक लटकता हुआ लकड़ी का पैदलपथ गुज़रता है।"
+      },
+      {
+        "subject": "कुआला पर्लिस फेरी टर्मिनल, पर्लिस",
+        "alt": "लंकावी के लिए नौकाओं का मुख्यभूमि प्रवेशद्वार, कुआला पर्लिस का फेरी टर्मिनल मलक्का जलडमरूमध्य के किनारे खड़ा है।"
+      }
+    ],
+    "ar": [
+      {
+        "subject": "ممشى كهف Gua Kelam، بيرليس",
+        "alt": "يتعرّج ممشى خشبي معلّق عبر نفق Gua Kelam الجيري قرب Kaki Bukit في بيرليس."
+      },
+      {
+        "subject": "محطة عبّارات Kuala Perlis، بيرليس",
+        "alt": "تقف محطة العبّارات في Kuala Perlis، البوابة البرية للقوارب المتجهة إلى Langkawi، إلى جانب مضيق ملقا."
+      }
+    ],
+    "es": [
+      {
+        "subject": "Pasarela de la cueva de Gua Kelam, Perlis",
+        "alt": "Una pasarela de madera suspendida atraviesa el túnel de piedra caliza de Gua Kelam, cerca de Kaki Bukit, en Perlis."
+      },
+      {
+        "subject": "Terminal de transbordadores de Kuala Perlis, Perlis",
+        "alt": "La terminal de transbordadores de Kuala Perlis, la puerta continental de los barcos hacia Langkawi, se alza junto al estrecho de Malaca."
+      }
+    ],
+    "fr": [
+      {
+        "subject": "Passerelle de la grotte de Gua Kelam, Perlis",
+        "alt": "Une passerelle en bois suspendue serpente à travers le tunnel calcaire de Gua Kelam, près de Kaki Bukit, dans le Perlis."
+      },
+      {
+        "subject": "Terminal de ferries de Kuala Perlis, Perlis",
+        "alt": "Le terminal de ferries de Kuala Perlis, la porte continentale des bateaux vers Langkawi, se dresse au bord du détroit de Malacca."
+      }
+    ]
+  },
+  "states/sabah": {
+    "zh": [
+      {
+        "alt": "沙巴海岸边，白金相间的亚庇市立清真寺将其穹顶倒映在环绕四周的人工潟湖中。",
+        "subject": "沙巴亚庇市立清真寺"
+      },
+      {
+        "alt": "沙巴仙本那外海的马达京岛，一道浅色、散落着浮木的沙滩环绕着碧绿的浅海。",
+        "subject": "沙巴仙本那附近的马达京岛"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "サバ州の海岸で、白と金のコタキナバル市立モスクが、周囲を取り囲む人工ラグーンにそのドームを映している。",
+        "subject": "サバ州、コタキナバル市立モスク"
+      },
+      {
+        "alt": "サバ州スンポルナ沖のマタキン島で、流木が散らばる淡い色の砂浜が碧緑の浅瀬を取り巻いている。",
+        "subject": "サバ州スンポルナ近くのマタキン島"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "사바주 해안에서 흰색과 금색의 코타키나발루 시립 모스크가 주위를 둘러싼 인공 석호에 돔을 비추고 있다.",
+        "subject": "사바주 코타키나발루 시립 모스크"
+      },
+      {
+        "alt": "사바주 셈포르나 앞바다의 마타킹섬에서 유목이 흩어진 옅은 빛깔의 모래 해변이 청록빛 얕은 바다를 두르고 있다.",
+        "subject": "사바주 셈포르나 인근 마타킹섬"
+      }
+    ],
+    "th": [
+      {
+        "alt": "มัสยิดเมืองโกตากินาบาลูสีขาวและทองสะท้อนโดมลงในทะเลสาบที่สร้างขึ้นซึ่งล้อมรอบบนชายฝั่งรัฐซาบะฮ์",
+        "subject": "มัสยิดเมืองโกตากินาบาลู รัฐซาบะฮ์"
+      },
+      {
+        "alt": "ชายหาดสีซีดที่เกลื่อนด้วยไม้ลอยน้ำล้อมรอบน้ำตื้นสีเทอร์ควอยซ์ของเกาะมาตากิงนอกชายฝั่งเซิมปอร์นาในรัฐซาบะฮ์",
+        "subject": "เกาะมาตากิงใกล้เซิมปอร์นา รัฐซาบะฮ์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Masjid Bandaraya Kota Kinabalu yang berwarna putih dan emas memantulkan kubahnya di lagun buatan manusia yang mengelilinginya di pesisir Sabah.",
+        "subject": "Masjid Bandaraya Kota Kinabalu, Sabah"
+      },
+      {
+        "alt": "Pantai pucat yang berselerak kayu hanyut memagari air cetek pirus Pulau Mataking di luar Semporna di Sabah.",
+        "subject": "Pulau Mataking berhampiran Semporna, Sabah"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Masjid Bandaraya Kota Kinabalu yang berwarna putih dan emas memantulkan kubahnya di laguna buatan yang mengelilinginya di pesisir Sabah.",
+        "subject": "Masjid Bandaraya Kota Kinabalu, Sabah"
+      },
+      {
+        "alt": "Pantai pucat yang berserakan kayu apung mengelilingi perairan dangkal pirus Pulau Mataking di lepas pantai Semporna di Sabah.",
+        "subject": "Pulau Mataking dekat Semporna, Sabah"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Thánh đường Hồi giáo thành phố Kota Kinabalu màu trắng và vàng soi bóng những mái vòm xuống đầm phá nhân tạo bao quanh nó trên bờ biển Sabah.",
+        "subject": "Masjid Bandaraya Kota Kinabalu, Sabah"
+      },
+      {
+        "alt": "Bãi biển nhạt màu rải rác gỗ trôi dạt viền quanh vùng nước nông màu ngọc lam của đảo Pulau Mataking ngoài khơi Semporna ở Sabah.",
+        "subject": "Đảo Pulau Mataking gần Semporna, Sabah"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "சபாவின் கடற்கரையில், வெண்மையும் பொன்னிறமும் கொண்ட கோத்தா கினபாலு மாநகர மசூதி, தன்னைச் சூழ்ந்துள்ள மனிதனால் உருவாக்கப்பட்ட நீர்நிலையில் தனது குவிமாடங்களைப் பிரதிபலிக்கிறது.",
+        "subject": "கோத்தா கினபாலு மாநகர மசூதி, சபா"
+      },
+      {
+        "alt": "சபாவில் செம்போர்னாவுக்கு அப்பால் உள்ள புலாவ் மாட்டாகிங் தீவின் பச்சை-நீல நிற ஆழமற்ற நீரை, வெளுத்த, அடித்து வரப்பட்ட மரக்கட்டைகள் சிதறிக்கிடக்கும் கடற்கரை சூழ்ந்துள்ளது.",
+        "subject": "செம்போர்னாவுக்கு அருகில் புலாவ் மாட்டாகிங் தீவு, சபா"
+      }
+    ],
+    "hi": [
+      {
+        "subject": "कोटा किनाबालू सिटी मस्जिद, सबाह",
+        "alt": "सबाह के तट पर सफेद-और-सुनहरी कोटा किनाबालू सिटी मस्जिद अपने गुंबदों को अपने चारों ओर की कृत्रिम झील में प्रतिबिंबित करती है।"
+      },
+      {
+        "subject": "सेम्पोर्ना के पास मातकिंग द्वीप, सबाह",
+        "alt": "सबाह में सेम्पोर्ना से दूर मातकिंग द्वीप के फ़िरोज़ी उथले पानी को एक हल्के रंग का, बहती लकड़ी से बिखरा समुद्र तट घेरता है।"
+      }
+    ],
+    "ar": [
+      {
+        "subject": "مسجد مدينة كوتا كينابالو، صباح",
+        "alt": "يعكس مسجد مدينة كوتا كينابالو الأبيض والذهبي قبابه في البحيرة الاصطناعية التي تحيط به على ساحل صباح."
+      },
+      {
+        "subject": "جزيرة Mataking قرب سيمبورنا، صباح",
+        "alt": "يحيط شاطئ شاحب اللون تتناثر عليه أخشاب الطفو بالمياه الضحلة الفيروزية لجزيرة Mataking قبالة سيمبورنا في صباح."
+      }
+    ],
+    "es": [
+      {
+        "subject": "Mezquita de la ciudad de Kota Kinabalu, Sabah",
+        "alt": "La mezquita de la ciudad de Kota Kinabalu, blanca y dorada, refleja sus cúpulas en la laguna artificial que la rodea en la costa de Sabah."
+      },
+      {
+        "subject": "Isla de Mataking, cerca de Semporna, Sabah",
+        "alt": "Una playa pálida salpicada de madera a la deriva rodea las aguas someras turquesas de la isla de Mataking, frente a Semporna, en Sabah."
+      }
+    ],
+    "fr": [
+      {
+        "subject": "Mosquée municipale de Kota Kinabalu, Sabah",
+        "alt": "La mosquée municipale de Kota Kinabalu, blanche et or, reflète ses dômes dans le lagon artificiel qui l'entoure sur la côte de Sabah."
+      },
+      {
+        "subject": "Île de Mataking, près de Semporna, Sabah",
+        "alt": "Une plage claire parsemée de bois flotté encercle les eaux peu profondes turquoise de l'île de Mataking, au large de Semporna, dans le Sabah."
+      }
+    ]
+  },
+  "states/sarawak": {
+    "zh": [
+      {
+        "alt": "这座名为阿斯塔那（Astana）的白色昔日王宫，隔着砂拉越河与古晋河滨相望。",
+        "subject": "从古晋河滨眺望的阿斯塔那（Astana），砂拉越"
+      },
+      {
+        "alt": "砂拉越古晋附近巴哥国家公园的园区总部前，一道沙滩背靠丛林覆盖的峭壁，面向大海。",
+        "subject": "砂拉越巴哥国家公园（Bako）园区总部下方的海滩"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "アスタナとして知られる白い旧王宮が、サラワク川を挟んでクチン・ウォーターフロントの対岸に建っている。",
+        "subject": "クチン・ウォーターフロントから望むアスタナ（Astana）、サラワク州"
+      },
+      {
+        "alt": "サラワク州クチン近くのバコ国立公園の管理事務所前で、ジャングルに覆われた断崖を背にした砂浜が海に面している。",
+        "subject": "サラワク州バコ国立公園（Bako）管理事務所下のビーチ"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "아스타나로 불리는 흰색 옛 왕궁이 사라왁강을 사이에 두고 쿠칭 워터프런트 맞은편에 서 있다.",
+        "subject": "쿠칭 워터프런트에서 바라본 아스타나(Astana), 사라왁주"
+      },
+      {
+        "alt": "사라왁주 쿠칭 인근 바코 국립공원 관리본부 앞에서 정글로 뒤덮인 절벽을 등진 모래 해변이 바다를 향하고 있다.",
+        "subject": "사라왁주 바코 국립공원(Bako) 관리본부 아래 해변"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อดีตวังหลวงสีขาวที่รู้จักกันในชื่ออัสตานาตั้งอยู่ฝั่งตรงข้ามแม่น้ำซาราวักจากริมน้ำกูชิง",
+        "subject": "อัสตานา (Astana) เมื่อมองจากริมน้ำกูชิง รัฐซาราวัก"
+      },
+      {
+        "alt": "ชายหาดทรายที่มีหน้าผาปกคลุมด้วยป่าดิบเป็นฉากหลังทอดตัวหน้าทะเลที่สำนักงานใหญ่อุทยานแห่งชาติบาโกใกล้กูชิงในรัฐซาราวัก",
+        "subject": "ชายหาดใต้สำนักงานใหญ่อุทยานแห่งชาติบาโก (Bako) รัฐซาราวัก"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Bekas istana diraja berwarna putih yang dikenali sebagai Astana berdiri di seberang Sungai Sarawak dari Kuching Waterfront.",
+        "subject": "Astana dilihat dari Kuching Waterfront, Sarawak"
+      },
+      {
+        "alt": "Pantai berpasir berlatarkan tebing berhutan tebal menghadap laut di ibu pejabat taman Taman Negara Bako berhampiran Kuching di Sarawak.",
+        "subject": "Pantai di bawah ibu pejabat taman Taman Negara Bako, Sarawak"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Bekas istana kerajaan berwarna putih yang dikenal sebagai Astana berdiri di seberang Sungai Sarawak dari Kuching Waterfront.",
+        "subject": "Astana dilihat dari Kuching Waterfront, Sarawak"
+      },
+      {
+        "alt": "Pantai berpasir berlatar tebing berhutan lebat menghadap laut di kantor pusat taman Taman Nasional Bako dekat Kuching di Sarawak.",
+        "subject": "Pantai di bawah kantor pusat taman di Taman Nasional Bako, Sarawak"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Cung điện hoàng gia cũ màu trắng được gọi là Astana đứng bên kia sông Sarawak, đối diện bờ sông Kuching Waterfront.",
+        "subject": "Astana nhìn từ bờ sông Kuching Waterfront, Sarawak"
+      },
+      {
+        "alt": "Bãi biển cát lưng tựa vách núi rừng rậm hướng ra biển tại trụ sở công viên của Vườn quốc gia Bako gần Kuching ở Sarawak.",
+        "subject": "Bãi biển dưới trụ sở công viên tại Vườn quốc gia Bako, Sarawak"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "அஸ்தானா என அறியப்படும் வெண்ணிற முன்னாள் அரச மாளிகை, குச்சிங் நீர்முனையிலிருந்து சரவாக் ஆற்றுக்கு அப்பால் நிற்கிறது.",
+        "subject": "குச்சிங் நீர்முனையிலிருந்து தெரியும் அஸ்தானா, சரவாக்"
+      },
+      {
+        "alt": "சரவாக்கில் குச்சிங்கிற்கு அருகில் உள்ள பாக்கோ தேசியப் பூங்காவின் பூங்கா தலைமையகத்தில், அடர் காடுகள் நிறைந்த செங்குத்துப் பாறைகளை பின்னணியாகக் கொண்ட மணற்கரை கடலை எதிர்கொள்கிறது.",
+        "subject": "பாக்கோ தேசியப் பூங்காவில் பூங்கா தலைமையகத்திற்குக் கீழே உள்ள கடற்கரை, சரவாக்"
+      }
+    ],
+    "hi": [
+      {
+        "subject": "कुचिंग वाटरफ्रंट से दिखता अस्ताना, सारावाक",
+        "alt": "अस्ताना के नाम से जाना जाने वाला सफेद पूर्व राजमहल कुचिंग वाटरफ्रंट से सारावाक नदी के उस पार खड़ा है।"
+      },
+      {
+        "subject": "बाको राष्ट्रीय उद्यान, सारावाक में उद्यान मुख्यालय के नीचे का समुद्र तट",
+        "alt": "सारावाक में कुचिंग के पास बाको राष्ट्रीय उद्यान के उद्यान मुख्यालय पर जंगल से ढकी चट्टानों के पीछे एक रेतीला समुद्र तट समुद्र के सामने है।"
+      }
+    ],
+    "ar": [
+      {
+        "subject": "Astana كما يُرى من واجهة كوتشينغ البحرية، ساراواك",
+        "alt": "يقف القصر الملكي السابق الأبيض المعروف باسم Astana على الضفة المقابلة لنهر ساراواك من واجهة كوتشينغ البحرية."
+      },
+      {
+        "subject": "الشاطئ أسفل مقرّ المنتزه في Bako National Park، ساراواك",
+        "alt": "يطلّ شاطئ رملي تحفّه منحدرات مكسوّة بالأدغال على البحر عند مقرّ منتزه Bako National Park قرب كوتشينغ في ساراواك."
+      }
+    ],
+    "es": [
+      {
+        "subject": "El Astana visto desde el Kuching Waterfront, Sarawak",
+        "alt": "El Astana, el blanco antiguo palacio real, se alza al otro lado del río Sarawak frente al Kuching Waterfront."
+      },
+      {
+        "subject": "Playa bajo la sede del parque en el Bako National Park, Sarawak",
+        "alt": "Una playa de arena respaldada por acantilados cubiertos de selva da al mar en la sede del Bako National Park, cerca de Kuching, en Sarawak."
+      }
+    ],
+    "fr": [
+      {
+        "subject": "L'Astana vu depuis le Kuching Waterfront, Sarawak",
+        "alt": "L'Astana, l'ancien palais royal blanc, se dresse de l'autre côté de la rivière Sarawak face au Kuching Waterfront."
+      },
+      {
+        "subject": "Plage en contrebas du siège du parc au Bako National Park, Sarawak",
+        "alt": "Une plage de sable adossée à des falaises couvertes de jungle fait face à la mer au siège du Bako National Park, près de Kuching, dans le Sarawak."
+      }
+    ]
+  },
+  "states/selangor": {
+    "zh": [
+      {
+        "alt": "灯塔矗立在美拉华提山这座历史悠久的山顶堡垒上，俯瞰着雪兰莪的瓜拉雪兰莪。",
+        "subject": "雪兰莪美拉华提山上的瓜拉雪兰莪灯塔"
+      },
+      {
+        "alt": "雪兰莪莎阿南i-City主题公园内，树木与步道闪耀着彩色的LED灯光。",
+        "subject": "雪兰莪莎阿南i-City灯光公园"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "灯台が、スランゴール州のクアラ・スランゴールを見下ろすブキッ・ムラワティの歴史ある丘上の砦の頂に立っている。",
+        "subject": "スランゴール州、ブキッ・ムラワティのクアラ・スランゴール灯台"
+      },
+      {
+        "alt": "スランゴール州シャアラムのi-Cityテーマパークで、木々と遊歩道が色とりどりのLEDライトで輝いている。",
+        "subject": "スランゴール州シャアラム、i-Cityライトパーク"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "등대가 슬랑오르주 쿠알라슬랑오르를 내려다보는 부킷 믈라와티의 유서 깊은 언덕 위 요새 꼭대기에 솟아 있다.",
+        "subject": "슬랑오르주 부킷 믈라와티의 쿠알라슬랑오르 등대"
+      },
+      {
+        "alt": "슬랑오르주 샤알람의 i-City 테마파크에서 나무와 산책로가 색색의 LED 불빛으로 빛나고 있다.",
+        "subject": "슬랑오르주 샤알람 i-City 빛 공원"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ประภาคารตั้งตระหง่านอยู่บนป้อมปราการบนยอดเขาบูกิตเมอลาวาตีอันเก่าแก่ที่มองลงไปยังกัวลาเซอลาโงร์ในรัฐเซอลาโงร์",
+        "subject": "ประภาคารกัวลาเซอลาโงร์บนบูกิตเมอลาวาตี รัฐเซอลาโงร์"
+      },
+      {
+        "alt": "ต้นไม้และทางเดินเปล่งประกายด้วยไฟ LED หลากสีที่สวนสนุก i-City ในชาห์อาลัม รัฐเซอลาโงร์",
+        "subject": "สวนแสง i-City ชาห์อาลัม รัฐเซอลาโงร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Rumah api memahkotai kubu bersejarah di puncak bukit Bukit Melawati yang menghadap Kuala Selangor di Selangor.",
+        "subject": "Rumah api Kuala Selangor di Bukit Melawati, Selangor"
+      },
+      {
+        "alt": "Pokok dan laluan pejalan kaki bersinar dengan lampu LED berwarna-warni di taman tema i-City di Shah Alam, Selangor.",
+        "subject": "Taman cahaya i-City, Shah Alam, Selangor"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Mercusuar memahkotai benteng bersejarah di puncak bukit Bukit Melawati yang menghadap Kuala Selangor di Selangor.",
+        "subject": "Mercusuar Kuala Selangor di Bukit Melawati, Selangor"
+      },
+      {
+        "alt": "Pepohonan dan jalur pejalan kaki bersinar dengan lampu LED warna-warni di taman hiburan i-City di Shah Alam, Selangor.",
+        "subject": "Taman cahaya i-City, Shah Alam, Selangor"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Ngọn hải đăng đứng trên đỉnh pháo đài lịch sử trên đồi Bukit Melawati nhìn xuống Kuala Selangor ở Selangor.",
+        "subject": "Hải đăng Kuala Selangor trên đồi Bukit Melawati, Selangor"
+      },
+      {
+        "alt": "Cây cối và lối đi bộ rực sáng ánh đèn LED nhiều màu tại công viên chủ đề i-City ở Shah Alam, Selangor.",
+        "subject": "Công viên ánh sáng i-City, Shah Alam, Selangor"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "செலாங்கூரில் கோலா செலாங்கூரைக் கண்ணோக்கும் புக்கிட் மெலவாட்டி என்ற வரலாற்றுச் சிறப்புமிக்க குன்றுமுகட்டுக் கோட்டையை கலங்கரை விளக்கம் முடிசூட்டுகிறது.",
+        "subject": "புக்கிட் மெலவாட்டியில் கோலா செலாங்கூர் கலங்கரை விளக்கம், செலாங்கூர்"
+      },
+      {
+        "alt": "செலாங்கூர், ஷா ஆலத்தில் உள்ள ஐ-சிட்டி கருப்பொருள் பூங்காவில் மரங்களும் நடைபாதைகளும் வண்ணமயமான எல்இடி விளக்குகளால் ஒளிர்கின்றன.",
+        "subject": "ஐ-சிட்டி ஒளிப் பூங்கா, ஷா ஆலம், செலாங்கூர்"
+      }
+    ],
+    "hi": [
+      {
+        "subject": "बुकिट मेलावाती पर कुआला सेलांगोर लाइटहाउस, सेलांगोर",
+        "alt": "सेलांगोर में कुआला सेलांगोर की ओर देखते हुए बुकिट मेलावाती के ऐतिहासिक पहाड़ी किले के शिखर पर लाइटहाउस खड़ा है।"
+      },
+      {
+        "subject": "आई-सिटी प्रकाश उद्यान, शाह आलम, सेलांगोर",
+        "alt": "सेलांगोर के शाह आलम में आई-सिटी थीम पार्क में पेड़ और पैदलपथ रंगीन एलईडी रोशनी से जगमगाते हैं।"
+      }
+    ],
+    "ar": [
+      {
+        "subject": "منارة Kuala Selangor على Bukit Melawati، سلانغور",
+        "alt": "تتوّج المنارة قمة قلعة Bukit Melawati التاريخية على التلّة المطلّة على Kuala Selangor في سلانغور."
+      },
+      {
+        "subject": "حديقة الأضواء i-City، شاه عالم، سلانغور",
+        "alt": "تتوهّج الأشجار والممرّات بأضواء LED ملوّنة في مدينة الملاهي i-City في شاه عالم بسلانغور."
+      }
+    ],
+    "es": [
+      {
+        "subject": "Faro de Kuala Selangor en Bukit Melawati, Selangor",
+        "alt": "El faro corona el histórico fuerte en la cima de Bukit Melawati, con vistas a Kuala Selangor, en Selangor."
+      },
+      {
+        "subject": "Parque de luces i-City, Shah Alam, Selangor",
+        "alt": "Árboles y pasarelas resplandecen con luces LED de colores en el parque temático i-City, en Shah Alam, Selangor."
+      }
+    ],
+    "fr": [
+      {
+        "subject": "Phare de Kuala Selangor sur Bukit Melawati, Selangor",
+        "alt": "Le phare couronne le fort historique au sommet de Bukit Melawati, qui surplombe Kuala Selangor, dans le Selangor."
+      },
+      {
+        "subject": "Parc de lumières i-City, Shah Alam, Selangor",
+        "alt": "Arbres et passerelles scintillent de lumières LED colorées au parc à thème i-City, à Shah Alam, dans le Selangor."
+      }
+    ]
+  },
+  "states/terengganu": {
+    "zh": [
+      {
+        "alt": "登嘉楼瓜拉登嘉楼附近，东姑登雅查哈拉清真寺仿佛漂浮在依拜潟湖之上。",
+        "subject": "登嘉楼瓜拉登嘉楼东姑登雅查哈拉水上清真寺"
+      },
+      {
+        "alt": "登嘉楼海岸外的热浪岛，清澈的碧绿海水轻拍着一道由森林环绕的白沙海滩。",
+        "subject": "登嘉楼热浪岛海滩"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "トレンガヌ州のクアラ・トレンガヌ近くで、トゥンク・テンガ・ザハラ・モスクがイバイ潟湖の上に浮かんでいるように見える。",
+        "subject": "トレンガヌ州クアラ・トレンガヌ、トゥンク・テンガ・ザハラ水上モスク"
+      },
+      {
+        "alt": "トレンガヌ州沿岸沖のルダン島で、澄んだ碧緑の海水が、森に縁取られた白砂のビーチに打ち寄せている。",
+        "subject": "トレンガヌ州、ルダン島のビーチ"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "트렝가누주 쿠알라트렝가누 인근에서 뜽쿠 뜽아 자하라 모스크가 이바이 석호 위에 떠 있는 듯 보인다.",
+        "subject": "트렝가누주 쿠알라트렝가누 뜽쿠 뜽아 자하라 수상 모스크"
+      },
+      {
+        "alt": "트렝가누주 해안 앞바다의 르당섬에서 맑은 청록빛 바닷물이 숲으로 둘러싸인 백사장 해변을 적신다.",
+        "subject": "트렝가누주 르당섬 해변"
+      }
+    ],
+    "th": [
+      {
+        "alt": "มัสยิดเติงกูเติงะฮ์ซาฮาราห์ดูเหมือนลอยอยู่บนทะเลสาบอีบัยใกล้กัวลาตรังกานูในรัฐตรังกานู",
+        "subject": "มัสยิดลอยน้ำเติงกูเติงะฮ์ซาฮาราห์ กัวลาตรังกานู รัฐตรังกานู"
+      },
+      {
+        "alt": "น้ำทะเลสีเทอร์ควอยซ์ใสซัดเข้าหาดทรายขาวที่ขนาบด้วยป่าบนเกาะเริดังนอกชายฝั่งรัฐตรังกานู",
+        "subject": "หาดเกาะเริดัง รัฐตรังกานู"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Masjid Tengku Tengah Zaharah kelihatan seolah-olah terapung di atas lagun Ibai berhampiran Kuala Terengganu di Terengganu.",
+        "subject": "Masjid terapung Tengku Tengah Zaharah, Kuala Terengganu, Terengganu"
+      },
+      {
+        "alt": "Air pirus jernih memukul pantai berpasir putih yang dipagari hutan di Pulau Redang di luar pesisir Terengganu.",
+        "subject": "Pantai Pulau Redang, Terengganu"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Masjid Tengku Tengah Zaharah tampak seolah-olah terapung di atas laguna Ibai dekat Kuala Terengganu di Terengganu.",
+        "subject": "Masjid terapung Tengku Tengah Zaharah, Kuala Terengganu, Terengganu"
+      },
+      {
+        "alt": "Air pirus jernih menghempas pantai berpasir putih yang dibatasi hutan di Pulau Redang di lepas pantai Terengganu.",
+        "subject": "Pantai Pulau Redang, Terengganu"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Thánh đường Hồi giáo Tengku Tengah Zaharah trông như nổi trên đầm phá Ibai gần Kuala Terengganu ở Terengganu.",
+        "subject": "Thánh đường nổi Tengku Tengah Zaharah, Kuala Terengganu, Terengganu"
+      },
+      {
+        "alt": "Làn nước trong xanh màu ngọc lam vỗ lên bãi cát trắng viền rừng trên đảo Pulau Redang ngoài khơi bờ biển Terengganu.",
+        "subject": "Bãi biển Pulau Redang, Terengganu"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "திரெங்கானுவில் கோலா திரெங்கானுவுக்கு அருகில் உள்ள இபாய் நீர்நிலையின் மீது தெங்கு தெங்கா ஜஹாரா மசூதி மிதப்பதைப் போல் தோன்றுகிறது.",
+        "subject": "தெங்கு தெங்கா ஜஹாரா மிதக்கும் மசூதி, கோலா திரெங்கானு, திரெங்கானு"
+      },
+      {
+        "alt": "திரெங்கானு கடற்கரைக்கு அப்பால் உள்ள புலாவ் ரெடாங்கில், தெளிவான பச்சை-நீல நிற நீர், காடுகள் சூழ்ந்த வெண்மணல் கடற்கரையை மெல்ல மோதுகிறது.",
+        "subject": "புலாவ் ரெடாங் கடற்கரை, திரெங்கானு"
+      }
+    ],
+    "hi": [
+      {
+        "subject": "तेंगकू तेंगाह ज़हाराह तैरती मस्जिद, कुआला तेरेंगानू, तेरेंगानू",
+        "alt": "तेरेंगानू में कुआला तेरेंगानू के पास तेंगकू तेंगाह ज़हाराह मस्जिद इबाई लैगून पर तैरती हुई प्रतीत होती है।"
+      },
+      {
+        "subject": "पुलाऊ रेदांग समुद्र तट, तेरेंगानू",
+        "alt": "तेरेंगानू के तट से दूर पुलाऊ रेदांग पर स्वच्छ फ़िरोज़ी पानी वन से घिरे सफेद-रेत के समुद्र तट को छूता है।"
+      }
+    ],
+    "ar": [
+      {
+        "subject": "مسجد Tengku Tengah Zaharah العائم، كوالا ترغكانو، ترغكانو",
+        "alt": "يبدو مسجد Tengku Tengah Zaharah وكأنه يطفو على بحيرة Ibai قرب كوالا ترغكانو في ترغكانو."
+      },
+      {
+        "subject": "شاطئ Pulau Redang، ترغكانو",
+        "alt": "تتلاطم مياه فيروزية صافية على شاطئ رملي أبيض تحفّه الغابة في جزيرة Pulau Redang قبالة ساحل ترغكانو."
+      }
+    ],
+    "es": [
+      {
+        "subject": "Mezquita flotante Tengku Tengah Zaharah, Kuala Terengganu, Terengganu",
+        "alt": "La mezquita Tengku Tengah Zaharah parece flotar sobre la laguna de Ibai, cerca de Kuala Terengganu, en Terengganu."
+      },
+      {
+        "subject": "Playa de Pulau Redang, Terengganu",
+        "alt": "Aguas turquesas y cristalinas bañan una playa de arena blanca bordeada de selva en Pulau Redang, frente a la costa de Terengganu."
+      }
+    ],
+    "fr": [
+      {
+        "subject": "Mosquée flottante Tengku Tengah Zaharah, Kuala Terengganu, Terengganu",
+        "alt": "La mosquée Tengku Tengah Zaharah semble flotter sur le lagon d'Ibai, près de Kuala Terengganu, dans le Terengganu."
+      },
+      {
+        "subject": "Plage de Pulau Redang, Terengganu",
+        "alt": "Une eau turquoise limpide vient lécher une plage de sable blanc bordée de forêt sur Pulau Redang, au large de la côte du Terengganu."
+      }
+    ]
   }
 }

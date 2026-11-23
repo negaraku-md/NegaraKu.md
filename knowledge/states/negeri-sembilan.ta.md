@@ -38,7 +38,7 @@ verificationNeeded:
   - "மாநில அதிகாரப்பூர்வ போர்ட்டலில் உள்ள இனக் கலவை சதவீதங்களின் (மலாய் 61.5%, சீனர் 22.9%, இந்தியர் 15.1%, பிற 0.5%) தேதியையும் அடிப்படையையும் உறுதிப்படுத்தவும் — அந்த எண்ணிக்கை தேதியிடப்படவில்லை, மேலும் குடிமகன் அல்லாதவர்களைத் தனியாகப் பிரிக்கும் Banci 2020-இன் பிரிவு அமைப்புடன் பொருந்தவில்லை."
 
 lang: "ta"
-sourceContentHash: "41ba175b1dc7814a"
+sourceContentHash: "bf6d6f70731fdbe1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -102,6 +102,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_begonjong_di_depan_istana_seri_menanti.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/negeri-sembilan/body-1.webp
+    alt: நெகிரி செம்பிலானில் உள்ள போர்ட் டிக்சனில், பனைமரங்கள் சூழ்ந்த மெதுவாக வளைந்த மணற்கரை அமைதியான மலாக்கா நீரிணையை எதிர்கொள்கிறது.
+    kind: actual
+    origin: third-party
+    subject: போர்ட் டிக்சன் கடற்கரை, நெகிரி செம்பிலான்
+    credit: Malaysiaguy2010 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Port-dickson-beach-1.jpg
+  - role: scene
+    src: /media/states/negeri-sembilan/body-2.webp
+    alt: செரம்பானில் உள்ள நெகிரி செம்பிலான் மாநில அருங்காட்சியகத்தின் வளாகத்தில், எருமைக் கொம்பு வடிவிலான வளைந்த கூரைகளுடன் கூடிய மினாங்கபாவ் மரவீடுகள் நிற்கின்றன.
+    kind: actual
+    origin: third-party
+    subject: Muzium Negeri Sembilan-இல் மினாங்கபாவ் பாணி பாரம்பரிய வீடுகள், செரம்பான்
+    credit: Ardzun / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg
 ---
 
 மற்ற எட்டு மலாய் மாநிலங்களில், “அடுத்த ஆட்சியாளர் யார்” என்ற கேள்விக்கு

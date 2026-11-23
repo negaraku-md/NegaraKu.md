@@ -40,7 +40,7 @@ verificationNeeded:
   - "जब DOSM का कोई नया विमोचन प्रकाशित हो, तब जनसंख्या और GDP आँकड़े अद्यतन करें।"
 
 lang: "hi"
-sourceContentHash: "79feefd0c909668c"
+sourceContentHash: "b257a2168f68f0c7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -121,6 +121,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perak/body-1.webp
+    alt: पेराक में बाटू गाजाह के पास हरियाली के बीच केली'ज़ कैसल की अधूरी लाल-ईंट की हवेली और मीनार खड़ी है।
+    kind: actual
+    origin: third-party
+    subject: केली'ज़ कैसल, बाटू गाजाह, पेराक
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie%27s_Castle_Batu_Gajah.jpg
+  - role: scene
+    src: /media/states/perak/body-2.webp
+    alt: पेराक में गोपेंग के पास गुआ तेम्पुरोंग के विशाल चूना-पत्थर कक्ष को प्रकाशित स्टैलेक्टाइट और फ़्लोस्टोन संरचनाएँ भर देती हैं।
+    kind: actual
+    origin: third-party
+    subject: गुआ तेम्पुरोंग चूना-पत्थर गुफा, गोपेंग, पेराक
+    credit: Ksaravanan106221 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Tempurung,_Gopeng,_Perak,_Malaysia.jpg
 ---
 
 20 जनवरी 1874 को, पांगकोर द्वीप के निकट के जल में एक संधि पर हस्ताक्षर हुए। उस

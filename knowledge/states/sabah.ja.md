@@ -21,7 +21,7 @@ appliesTo: "サバの地理、経済及び政府に関する事実に基づく�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a41acdd421e03bda"
+sourceContentHash: "42f247f3d79bbab1"
 
 status: "published"
 aiAssisted: true
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/sabah/body-1.webp
+    alt: サバ州の海岸で、白と金のコタキナバル市立モスクが、周囲を取り囲む人工ラグーンにそのドームを映している。
+    kind: actual
+    origin: third-party
+    subject: サバ州、コタキナバル市立モスク
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_City_Mosque_01.jpg
+  - role: scene
+    src: /media/states/sabah/body-2.webp
+    alt: サバ州スンポルナ沖のマタキン島で、流木が散らばる淡い色の砂浜が碧緑の浅瀬を取り巻いている。
+    kind: actual
+    origin: third-party
+    subject: サバ州スンポルナ近くのマタキン島
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mataking_Island_Sabah.jpg
 ---
 
 サバは、一つの州が既存の国家に加入するという形でマレーシアに加わったわけではない。

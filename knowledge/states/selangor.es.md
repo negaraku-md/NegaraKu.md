@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "es"
-sourceContentHash: "43d4735ca0a0e692"
+sourceContentHash: "5de4c3bbc9237e84"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/selangor/body-1.webp
+    alt: El faro corona el histórico fuerte en la cima de Bukit Melawati, con vistas a Kuala Selangor, en Selangor.
+    kind: actual
+    origin: third-party
+    subject: Faro de Kuala Selangor en Bukit Melawati, Selangor
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Melawati_(Kuala_Selangor_lighthouse)_20220602_161822.jpg
+  - role: scene
+    src: /media/states/selangor/body-2.webp
+    alt: Árboles y pasarelas resplandecen con luces LED de colores en el parque temático i-City, en Shah Alam, Selangor.
+    kind: actual
+    origin: third-party
+    subject: Parque de luces i-City, Shah Alam, Selangor
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Digital_Lights_-_iCity_Shah_Alam,_Malaysia_(7).jpg
 ---
 
 Selangor es el estado sobre el que discretamente funciona la economía de Malasia.

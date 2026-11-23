@@ -37,7 +37,7 @@ faq:
     a: "Pembayaran dari Pemerintah Federal kepada Terengganu dan Kelantan terkait hasil petroleum. Pernyataan Kementerian Keuangan menegaskan bahwa Wang Ihsan bukan pemberian Pemerintah Federal yang termaktub dalam undang-undang, yaitu ia bukan hak yang ditetapkan oleh statuta."
 
 lang: "id"
-sourceContentHash: "44eeeac1d9bc0d54"
+sourceContentHash: "94d47d415c35aac9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -110,6 +110,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Crystal_Mosque_in_2016.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/terengganu/body-1.webp
+    alt: Masjid Tengku Tengah Zaharah tampak seolah-olah terapung di atas laguna Ibai dekat Kuala Terengganu di Terengganu.
+    kind: actual
+    origin: third-party
+    subject: Masjid terapung Tengku Tengah Zaharah, Kuala Terengganu, Terengganu
+    credit: Falconedc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tengku_Tengah_Zaharah_Mosque.jpg
+  - role: scene
+    src: /media/states/terengganu/body-2.webp
+    alt: Air pirus jernih menghempas pantai berpasir putih yang dibatasi hutan di Pulau Redang di lepas pantai Terengganu.
+    kind: actual
+    origin: third-party
+    subject: Pantai Pulau Redang, Terengganu
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
 ---
 
 Dua hal paling terkenal tentang Terengganu terletak sekitar 60 kilometer

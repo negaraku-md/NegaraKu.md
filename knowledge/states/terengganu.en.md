@@ -54,7 +54,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "44eeeac1d9bc0d54"
+sourceContentHash: "94d47d415c35aac9"
 
 sources:
   - title: "Jadual KDNK Negeri Mengikut Sektor Ekonomi (harga malar 2015)"
@@ -110,6 +110,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Crystal_Mosque_in_2016.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/terengganu/body-1.webp
+    alt: The Tengku Tengah Zaharah Mosque appears to float on the Ibai lagoon near Kuala Terengganu in Terengganu.
+    kind: actual
+    origin: third-party
+    subject: Tengku Tengah Zaharah floating mosque, Kuala Terengganu, Terengganu
+    credit: Falconedc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tengku_Tengah_Zaharah_Mosque.jpg
+  - role: scene
+    src: /media/states/terengganu/body-2.webp
+    alt: Clear turquoise water laps a white-sand beach fringed by forest on Pulau Redang off the Terengganu coast.
+    kind: actual
+    origin: third-party
+    subject: Pulau Redang beach, Terengganu
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
 ---
 
 The two most famous things about Terengganu sit roughly 60 kilometres apart,

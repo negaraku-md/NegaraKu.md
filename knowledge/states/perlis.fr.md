@@ -36,7 +36,7 @@ verificationNeeded:
   - "Revérifier les allocations du Perlis Inland Port (RM318.0 millions d'infrastructure, RM1.2 milliard d'investissement privé) et les six zones administratives auprès du MKN une fois que mkn.gov.my sera accessible ; le site était hors service lors de la dernière passe de revérification, de sorte que ces chiffres reposent sur la vérification initiale du 2026-07-24."
 
 lang: "fr"
-sourceContentHash: "f8950ccf72fcaab1"
+sourceContentHash: "940939eb886405c6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -116,6 +116,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perlis/body-1.webp
+    alt: Une passerelle en bois suspendue serpente à travers le tunnel calcaire de Gua Kelam, près de Kaki Bukit, dans le Perlis.
+    kind: actual
+    origin: third-party
+    subject: Passerelle de la grotte de Gua Kelam, Perlis
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Kelam_-_Perlis,_Malaysia.jpg
+  - role: scene
+    src: /media/states/perlis/body-2.webp
+    alt: Le terminal de ferries de Kuala Perlis, la porte continentale des bateaux vers Langkawi, se dresse au bord du détroit de Malacca.
+    kind: actual
+    origin: third-party
+    subject: Terminal de ferries de Kuala Perlis, Perlis
+    credit: Irwan Shah Bin Abdullah / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_perlis_jetty_terminal.jpg
 ---
 
 Il est une question à laquelle presque tous les Malaisiens ont mal répondu à un moment ou

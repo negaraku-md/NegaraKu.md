@@ -78,6 +78,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Shah_Alam_Blue_mosque_at_night.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/selangor/body-1.webp
+    alt: Rumah api memahkotai kubu bersejarah di puncak bukit Bukit Melawati yang menghadap Kuala Selangor di Selangor.
+    kind: actual
+    origin: third-party
+    subject: Rumah api Kuala Selangor di Bukit Melawati, Selangor
+    credit: ZKang123 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bukit_Melawati_(Kuala_Selangor_lighthouse)_20220602_161822.jpg
+  - role: scene
+    src: /media/states/selangor/body-2.webp
+    alt: Pokok dan laluan pejalan kaki bersinar dengan lampu LED berwarna-warni di taman tema i-City di Shah Alam, Selangor.
+    kind: actual
+    origin: third-party
+    subject: Taman cahaya i-City, Shah Alam, Selangor
+    credit: Frostpolar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Digital_Lights_-_iCity_Shah_Alam,_Malaysia_(7).jpg
 ---
 
 Selangor ialah negeri yang menjadi tempat bergantung ekonomi Malaysia secara senyap.

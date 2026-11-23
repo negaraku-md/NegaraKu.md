@@ -36,7 +36,7 @@ verificationNeeded:
   - "पर्लिस इनलैंड पोर्ट के आवंटनों (RM318.0 मिलियन अवसंरचना, RM1.2 बिलियन निजी निवेश) और छह प्रशासनिक क्षेत्रों की MKN से पुनः पुष्टि करें जब mkn.gov.my पहुँच-योग्य हो; नवीनतम पुनः-सत्यापन चरण के दौरान साइट बंद थी, इसलिए ये आँकड़े मूल 2026-07-24 की जाँच पर टिके हैं।"
 
 lang: "hi"
-sourceContentHash: "f8950ccf72fcaab1"
+sourceContentHash: "940939eb886405c6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -116,6 +116,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perlis/body-1.webp
+    alt: पर्लिस में काकी बुकिट के पास गुआ केलाम की चूना-पत्थर सुरंग से होकर एक लटकता हुआ लकड़ी का पैदलपथ गुज़रता है।
+    kind: actual
+    origin: third-party
+    subject: गुआ केलाम गुफा पैदलपथ, पर्लिस
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Kelam_-_Perlis,_Malaysia.jpg
+  - role: scene
+    src: /media/states/perlis/body-2.webp
+    alt: लंकावी के लिए नौकाओं का मुख्यभूमि प्रवेशद्वार, कुआला पर्लिस का फेरी टर्मिनल मलक्का जलडमरूमध्य के किनारे खड़ा है।
+    kind: actual
+    origin: third-party
+    subject: कुआला पर्लिस फेरी टर्मिनल, पर्लिस
+    credit: Irwan Shah Bin Abdullah / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_perlis_jetty_terminal.jpg
 ---
 
 एक प्रश्न ऐसा है जो लगभग हर मलेशियाई किसी-न-किसी समय ग़लत समझ बैठा है: पर्लिस का

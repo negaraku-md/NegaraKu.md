@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e16b23300ddd14d8"
+sourceContentHash: "61597b924e267b8c"
 
 status: "published"
 aiAssisted: true
@@ -112,6 +112,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1535_4120.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/pahang/body-1.webp
+    alt: パハン州沿岸のクアンタン近くで、森を背にしたテロッ・チェンパダッの砂浜の入り江で、波が黒い巨岩を洗っている。
+    kind: actual
+    origin: third-party
+    subject: パハン州クアンタン、テロッ・チェンパダッのビーチ
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuantan_-_rocks_on_the_beach_at_Teluk_Cempedak_-_May_2024.jpg
+  - role: scene
+    src: /media/states/pahang/body-2.webp
+    alt: パハン州の蓮に覆われた湖でユネスコ生物圏保存地域でもあるタシッ・チニで、静かな淡水が森に覆われた丘の間に広がっている。
+    kind: actual
+    origin: third-party
+    subject: パハン州、チニ湖（Tasik Chini）
+    credit: Rubenjoker / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tasik_chini_01.jpg
 ---
 
 パハンは半島マレーシアの国土の4分の1以上を占めるが、そこに暮らすマレーシア人はわずか20人に1人にすぎない。

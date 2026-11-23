@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "th"
-sourceContentHash: "f075aca9f39a2a6a"
+sourceContentHash: "745a7dd790ac6b02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/johor/body-1.webp
+    alt: ชายหาดทรายสีทองทอดยาวขนาบด้วยต้นสนทะเลที่เดอซารูบนชายฝั่งตะวันออกของรัฐยะโฮร์บรรจบกับคลื่นสงบของทะเลจีนใต้
+    kind: actual
+    origin: third-party
+    subject: หาดเดอซารู รัฐยะโฮร์
+    credit: Jpatokal / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:DesaruBeach.JPG
+  - role: scene
+    src: /media/states/johor/body-2.webp
+    alt: ทรายขาวและน้ำตื้นสีเทอร์ควอยซ์ใสขนาบชายฝั่งที่ปกคลุมด้วยป่าและเรียงรายด้วยต้นปาล์มของเกาะราวานอกชายฝั่งตะวันออกของรัฐยะโฮร์
+    kind: actual
+    origin: third-party
+    subject: เกาะราวา (Pulau Rawa) รัฐยะโฮร์
+    credit: Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rawa_Island,_Johor,_Malaysia.jpg
 ---
 
 เศรษฐกิจของยะโฮร์ถูกนิยามโดยเพื่อนบ้านของตน ในฐานะรัฐที่อยู่ใต้สุดของคาบสมุทร รัฐนี้ตั้งอยู่ตรงข้ามกับสิงคโปร์พอดีข้ามช่องแคบยะโฮร์ (Strait of Johor) และความใกล้ชิดนั้นหล่อหลอมทุกสิ่งตั้งแต่ตลาดแรงงานไปจนถึงยุทธศาสตร์การพัฒนาอสังหาริมทรัพย์

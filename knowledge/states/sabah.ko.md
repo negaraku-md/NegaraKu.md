@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "사바에 대한 사실적 프로필 — 그 지리, 경제, 정부 — 과 「1963년 말레이시아 협정」에 따른 헌법적 지위에 대한 중립적 설명을 찾는 독자."
 
 lang: "ko"
-sourceContentHash: "a41acdd421e03bda"
+sourceContentHash: "42f247f3d79bbab1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/sabah/body-1.webp
+    alt: 사바주 해안에서 흰색과 금색의 코타키나발루 시립 모스크가 주위를 둘러싼 인공 석호에 돔을 비추고 있다.
+    kind: actual
+    origin: third-party
+    subject: 사바주 코타키나발루 시립 모스크
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_City_Mosque_01.jpg
+  - role: scene
+    src: /media/states/sabah/body-2.webp
+    alt: 사바주 셈포르나 앞바다의 마타킹섬에서 유목이 흩어진 옅은 빛깔의 모래 해변이 청록빛 얕은 바다를 두르고 있다.
+    kind: actual
+    origin: third-party
+    subject: 사바주 셈포르나 인근 마타킹섬
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mataking_Island_Sabah.jpg
 ---
 
 사바(Sabah)는 한 나라에 합류하는 하나의 주(州)로서 말레이시아에 참여한 것이 아닙니다. 그것은 그 나라를 만든 서명 영토 가운데 하나로서 참여했습니다 — 북보르네오(North Borneo)는 1963년 7월 런던에서 말라야 연방, 사라왁, 싱가포르, 영국과 함께 말레이시아 협정에 서명했습니다. 그 출발점은 오늘날 사바가 어떻게 통치되고, 재정을 조달받고, 이야기되는지를 여전히 형성하며 — 그것이 사바에 대한 프로필이 산뿐 아니라 조약도 다루어야 하는 이유입니다.

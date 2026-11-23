@@ -41,7 +41,7 @@ verificationNeeded:
   - "राज्य पर्यटन पोर्टल 35,960 किमी² क्षेत्रफल बताता है जबकि राज्य सरकार का पोर्टल 35,965 किमी² बताता है; पहांग के राज्य सचिव कार्यालय से एकमात्र आधिकारिक आँकड़े की पुष्टि करें।"
 
 lang: "hi"
-sourceContentHash: "e16b23300ddd14d8"
+sourceContentHash: "61597b924e267b8c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -113,6 +113,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1535_4120.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/pahang/body-1.webp
+    alt: पहांग के तट पर कुआंतान के पास तेलुक चेम्पेदक की वन से घिरी रेतीली खाड़ी में गहरे रंग की चट्टानों के ऊपर लहरें टकराती हैं।
+    kind: actual
+    origin: third-party
+    subject: तेलुक चेम्पेदक समुद्र तट, कुआंतान, पहांग
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuantan_-_rocks_on_the_beach_at_Teluk_Cempedak_-_May_2024.jpg
+  - role: scene
+    src: /media/states/pahang/body-2.webp
+    alt: पहांग की कमल से ढकी झील और यूनेस्को बायोस्फीयर रिज़र्व, तासिक चीनी में वनाच्छादित पहाड़ियों के बीच स्थिर मीठा पानी फैला है।
+    kind: actual
+    origin: third-party
+    subject: तासिक चीनी (चीनी झील), पहांग
+    credit: Rubenjoker / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tasik_chini_01.jpg
 ---
 
 पहांग प्रायद्वीपीय मलेशिया के भूमि क्षेत्र के एक-चौथाई से अधिक को ढकता है, फिर भी

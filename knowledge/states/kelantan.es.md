@@ -41,7 +41,7 @@ verificationNeeded:
   - "The number of State Legislative Assembly and Parliament seats is deliberately not stated because it could not be confirmed against official SPR sources at the time this draft was prepared."
 
 lang: "es"
-sourceContentHash: "869286bde4f6fa80"
+sourceContentHash: "cfedbc8b62c34ea2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,6 +108,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kelantan/body-1.webp
+    alt: El largo edificio colonial de tejado rojo del Museo Estatal de Kelantan se alza tras una alta palmera bajo un cielo azul despejado en Kota Bharu.
+    kind: actual
+    origin: third-party
+    subject: Museo Estatal de Kelantan (Muzium Negeri Kelantan), Kota Bharu
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Museum_Kelantan_-_panoramio.jpg
+  - role: scene
+    src: /media/states/kelantan/body-2.webp
+    alt: Los comerciantes venden productos frescos entre puestos abarrotados dentro del mercado central Pasar Siti Khadijah, escalonado y de vivos colores, en Kota Bharu.
+    kind: actual
+    origin: third-party
+    subject: Pasar Siti Khadijah, Kota Bharu, Kelantan
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Siti_Khadijah_Market_(6061751147).jpg
 ---
 
 La economía de Malasia suele contarse a través de la fábrica. Kelantan es la excepción

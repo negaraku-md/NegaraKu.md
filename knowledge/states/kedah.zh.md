@@ -44,7 +44,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "0d6884ea1dade121"
+sourceContentHash: "1d8bcb8c60bb0772"
 
 status: "published"
 aiAssisted: true
@@ -118,6 +118,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:MasjidZahir.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kedah/body-1.webp
+    alt: 吉打浮罗交怡岛上，弧形的兰卡威天空之桥凭借缆索高高横跨在林木覆盖的山谷之上。
+    kind: actual
+    origin: third-party
+    subject: 吉打兰卡威天空之桥
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg
+  - role: scene
+    src: /media/states/kedah/body-2.webp
+    alt: 吉打本当的平坦绿色稻田在辽阔的天空下绵延至天际，这里是马来西亚的米仓。
+    kind: actual
+    origin: third-party
+    subject: 吉打本当的稻田平原
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Lang_Merah,_Pendang_20240917_111034.jpg
 ---
 
 2024年，电气、电子与光学产品占吉打制造业增加值的51.1%。稻米则是该州GDP中

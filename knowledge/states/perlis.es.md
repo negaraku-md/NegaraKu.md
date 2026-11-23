@@ -36,7 +36,7 @@ verificationNeeded:
   - "Re-verify the Perlis Inland Port allocations (RM318.0 juta infrastructure, RM1.2 bilion private investment) and the six administrative areas against MKN once mkn.gov.my is reachable; the site was down during the latest re-verification pass, so these figures rest on the original 2026-07-24 check."
 
 lang: "es"
-sourceContentHash: "f8950ccf72fcaab1"
+sourceContentHash: "940939eb886405c6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -116,6 +116,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perlis/body-1.webp
+    alt: Una pasarela de madera suspendida atraviesa el túnel de piedra caliza de Gua Kelam, cerca de Kaki Bukit, en Perlis.
+    kind: actual
+    origin: third-party
+    subject: Pasarela de la cueva de Gua Kelam, Perlis
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Kelam_-_Perlis,_Malaysia.jpg
+  - role: scene
+    src: /media/states/perlis/body-2.webp
+    alt: La terminal de transbordadores de Kuala Perlis, la puerta continental de los barcos hacia Langkawi, se alza junto al estrecho de Malaca.
+    kind: actual
+    origin: third-party
+    subject: Terminal de transbordadores de Kuala Perlis, Perlis
+    credit: Irwan Shah Bin Abdullah / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_perlis_jetty_terminal.jpg
 ---
 
 Hay una pregunta que casi todos los malasios han respondido mal en algún

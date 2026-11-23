@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e16b23300ddd14d8"
+sourceContentHash: "61597b924e267b8c"
 
 status: "published"
 aiAssisted: true
@@ -113,6 +113,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1535_4120.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/pahang/body-1.webp
+    alt: 彭亨海岸关丹附近，海浪拍打着直落尖不辣那座背靠森林的沙湾上的黑色巨石。
+    kind: actual
+    origin: third-party
+    subject: 彭亨关丹直落尖不辣海滩
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuantan_-_rocks_on_the_beach_at_Teluk_Cempedak_-_May_2024.jpg
+  - role: scene
+    src: /media/states/pahang/body-2.webp
+    alt: 彭亨真尼湖，静谧的淡水在林木覆盖的群山之间铺展开来，这是彭亨铺满莲花的湖泊，也是联合国教科文组织生物圈保护区。
+    kind: actual
+    origin: third-party
+    subject: 彭亨真尼湖（Tasik Chini）
+    credit: Rubenjoker / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tasik_chini_01.jpg
 ---
 
 彭亨的国土面积占马来西亚半岛土地的四分之一以上，但每20名马来西亚人当中，

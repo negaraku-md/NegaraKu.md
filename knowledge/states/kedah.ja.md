@@ -44,7 +44,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "0d6884ea1dade121"
+sourceContentHash: "1d8bcb8c60bb0772"
 
 status: "published"
 aiAssisted: true
@@ -117,6 +117,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:MasjidZahir.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kedah/body-1.webp
+    alt: ケダ州のランカウイ島で、湾曲したランカウイ・スカイブリッジが、森に覆われた山の渓谷の高みをケーブルで横切って弧を描いている。
+    kind: actual
+    origin: third-party
+    subject: ケダ州、ランカウイ・スカイブリッジ
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg
+  - role: scene
+    src: /media/states/kedah/body-2.webp
+    alt: マレーシアの米どころ、ケダ州のペンダンで、平らな緑の水田が広い空の下、地平線まで広がっている。
+    kind: actual
+    origin: third-party
+    subject: ケダ州ペンダンの水田地帯
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Lang_Merah,_Pendang_20240917_111034.jpg
 ---
 
 2024年、電気・電子・光学製品はケダの製造業付加価値の51.1%を占めた。パディは、

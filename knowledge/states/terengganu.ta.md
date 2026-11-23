@@ -37,7 +37,7 @@ faq:
     a: "பெட்ரோலிய வருவாய் தொடர்பாக கூட்டாட்சி அரசு டெரெங்கானு மற்றும் கிளந்தானுக்கு (Kelantan) செலுத்தும் ஒரு கொடுப்பனவு. Wang Ihsan என்பது சட்டத்தில் பொறிக்கப்பட்ட கூட்டாட்சி அரசின் மானியம் அல்ல — அதாவது சட்டத்தால் வழங்கப்பட்ட ஒரு உரிமை அல்ல என நிதி அமைச்சின் (Kementerian Kewangan) அறிக்கை உறுதிப்படுத்துகிறது."
 
 lang: "ta"
-sourceContentHash: "44eeeac1d9bc0d54"
+sourceContentHash: "94d47d415c35aac9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -110,6 +110,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Crystal_Mosque_in_2016.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/terengganu/body-1.webp
+    alt: திரெங்கானுவில் கோலா திரெங்கானுவுக்கு அருகில் உள்ள இபாய் நீர்நிலையின் மீது தெங்கு தெங்கா ஜஹாரா மசூதி மிதப்பதைப் போல் தோன்றுகிறது.
+    kind: actual
+    origin: third-party
+    subject: தெங்கு தெங்கா ஜஹாரா மிதக்கும் மசூதி, கோலா திரெங்கானு, திரெங்கானு
+    credit: Falconedc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tengku_Tengah_Zaharah_Mosque.jpg
+  - role: scene
+    src: /media/states/terengganu/body-2.webp
+    alt: திரெங்கானு கடற்கரைக்கு அப்பால் உள்ள புலாவ் ரெடாங்கில், தெளிவான பச்சை-நீல நிற நீர், காடுகள் சூழ்ந்த வெண்மணல் கடற்கரையை மெல்ல மோதுகிறது.
+    kind: actual
+    origin: third-party
+    subject: புலாவ் ரெடாங் கடற்கரை, திரெங்கானு
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
 ---
 
 டெரெங்கானு பற்றிய மிகவும் புகழ்பெற்ற இரண்டு விஷயங்கள் ஒன்றுக்கொன்று சுமார் 60

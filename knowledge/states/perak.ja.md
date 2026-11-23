@@ -42,7 +42,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "79feefd0c909668c"
+sourceContentHash: "b257a2168f68f0c7"
 
 status: "published"
 aiAssisted: true
@@ -120,6 +120,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perak/body-1.webp
+    alt: ペラ州バトゥガジャ近くで、ケリーズ・キャッスルの未完成の赤レンガの邸宅と塔が緑の中に建っている。
+    kind: actual
+    origin: third-party
+    subject: ペラ州バトゥガジャ、ケリーズ・キャッスル（Kellie's Castle）
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie%27s_Castle_Batu_Gajah.jpg
+  - role: scene
+    src: /media/states/perak/body-2.webp
+    alt: ペラ州ゴペン近くのグア・テンプロンの広大な石灰岩の空洞を、照らし出された鍾乳石とフローストーンの造形が埋め尽くしている。
+    kind: actual
+    origin: third-party
+    subject: ペラ州ゴペン、グア・テンプロン（Gua Tempurung）石灰岩洞
+    credit: Ksaravanan106221 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Tempurung,_Gopeng,_Perak,_Malaysia.jpg
 ---
 
 1874年1月20日、パンコール島（Pulau Pangkor）近海で一通の条約が締結された。この文書は領土を割譲するものでも、戦争を宣言するものでもなかった。それはただ一つの新しい役職——その助言に従わなければならない一人の駐在官——を導入したにすぎなかった。

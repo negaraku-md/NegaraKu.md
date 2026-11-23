@@ -33,7 +33,7 @@ verificationNeeded: []
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "f075aca9f39a2a6a"
+sourceContentHash: "745a7dd790ac6b02"
 
 status: "published"
 aiAssisted: true
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/johor/body-1.webp
+    alt: 柔佛东海岸的迪沙鲁，一道金黄的狭长沙滩镶着木麻黄树，迎向南中国海平静的海浪。
+    kind: actual
+    origin: third-party
+    subject: 柔佛迪沙鲁海滩
+    credit: Jpatokal / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:DesaruBeach.JPG
+  - role: scene
+    src: /media/states/johor/body-2.webp
+    alt: 柔佛东海岸外的拉哇岛，白沙与清澈的碧绿浅海环绕着林木葱郁、椰影成行的海岸。
+    kind: actual
+    origin: third-party
+    subject: 柔佛拉哇岛（Pulau Rawa）
+    credit: Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rawa_Island,_Johor,_Malaysia.jpg
 ---
 
 柔佛的经济由它的邻居所定义。作为半岛最南端的州属，它隔着柔佛海峡与新加坡正面相对，而这份邻近性形塑了从劳动市场到房地产发展策略的一切。

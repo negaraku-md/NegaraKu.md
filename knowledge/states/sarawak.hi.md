@@ -32,7 +32,7 @@ faq:
 verificationNeeded: []
 
 lang: "hi"
-sourceContentHash: "1f58c985aa078563"
+sourceContentHash: "df209791e7052635"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/sarawak/body-1.webp
+    alt: अस्ताना के नाम से जाना जाने वाला सफेद पूर्व राजमहल कुचिंग वाटरफ्रंट से सारावाक नदी के उस पार खड़ा है।
+    kind: actual
+    origin: third-party
+    subject: कुचिंग वाटरफ्रंट से दिखता अस्ताना, सारावाक
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_(17772477902).jpg
+  - role: scene
+    src: /media/states/sarawak/body-2.webp
+    alt: सारावाक में कुचिंग के पास बाको राष्ट्रीय उद्यान के उद्यान मुख्यालय पर जंगल से ढकी चट्टानों के पीछे एक रेतीला समुद्र तट समुद्र के सामने है।
+    kind: actual
+    origin: third-party
+    subject: बाको राष्ट्रीय उद्यान, सारावाक में उद्यान मुख्यालय के नीचे का समुद्र तट
+    credit: Sgroey / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beach_outside_park_HQ_at_Bako_NP.jpg
 ---
 
 सरवाक एक भिन्न सुर में मलेशिया है। यह भू-क्षेत्रफल के हिसाब से संघ का कहीं अधिक अंतर से सबसे बड़ा राज्य है, प्रायद्वीप के बजाय बोर्नियो पर स्थित है, और एक विशिष्ट संवैधानिक दर्जा रखता है जो इसे हर प्रायद्वीपीय राज्य से अलग करता है।

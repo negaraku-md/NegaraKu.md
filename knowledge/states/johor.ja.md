@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "ja"
-sourceContentHash: "f075aca9f39a2a6a"
+sourceContentHash: "745a7dd790ac6b02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/johor/body-1.webp
+    alt: ジョホール州東海岸のデサルで、モクマオウの並木が縁取る黄金色の細長い砂浜が、南シナ海の穏やかな波と接している。
+    kind: actual
+    origin: third-party
+    subject: ジョホール州、デサル・ビーチ
+    credit: Jpatokal / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:DesaruBeach.JPG
+  - role: scene
+    src: /media/states/johor/body-2.webp
+    alt: ジョホール州東海岸沖のラワ島で、白砂と澄んだ碧緑の浅瀬が、森に覆われ椰子の並ぶ岸辺を縁取っている。
+    kind: actual
+    origin: third-party
+    subject: ジョホール州、ラワ島（Pulau Rawa）
+    credit: Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rawa_Island,_Johor,_Malaysia.jpg
 ---
 
 ジョホールの経済は、その隣国によって規定されている。半島最南端の州として、ジョホール海峡を挟んでシンガポールと正面から向き合っており、その近接性が労働市場から不動産開発戦略に至るまで、あらゆるものを形づくっている。

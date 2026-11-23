@@ -37,7 +37,7 @@ faq:
     a: "संघीय सरकार से तेरेंगानु और केलंतान को किया गया एक भुगतान जो पेट्रोलियम राजस्व से जुड़ा है। वित्त मंत्रालय के एक वक्तव्य में पुष्टि की गई है कि वांग इहसान कानून में प्रतिष्ठापित संघीय सरकार का अनुदान नहीं है — अर्थात यह किसी क़ानून द्वारा प्रदत्त अधिकार नहीं है।"
 
 lang: "hi"
-sourceContentHash: "44eeeac1d9bc0d54"
+sourceContentHash: "94d47d415c35aac9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -110,6 +110,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Crystal_Mosque_in_2016.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/terengganu/body-1.webp
+    alt: तेरेंगानू में कुआला तेरेंगानू के पास तेंगकू तेंगाह ज़हाराह मस्जिद इबाई लैगून पर तैरती हुई प्रतीत होती है।
+    kind: actual
+    origin: third-party
+    subject: तेंगकू तेंगाह ज़हाराह तैरती मस्जिद, कुआला तेरेंगानू, तेरेंगानू
+    credit: Falconedc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tengku_Tengah_Zaharah_Mosque.jpg
+  - role: scene
+    src: /media/states/terengganu/body-2.webp
+    alt: तेरेंगानू के तट से दूर पुलाऊ रेदांग पर स्वच्छ फ़िरोज़ी पानी वन से घिरे सफेद-रेत के समुद्र तट को छूता है।
+    kind: actual
+    origin: third-party
+    subject: पुलाऊ रेदांग समुद्र तट, तेरेंगानू
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
 ---
 
 तेरेंगानु के बारे में दो सबसे प्रसिद्ध चीज़ें एक-दूसरे से लगभग 60 किलोमीटर की दूरी पर स्थित हैं, और दोनों को देख पाना कठिन है।

@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/sabah/body-1.webp
+    alt: The white-and-gold Kota Kinabalu City Mosque mirrors its domes in the man-made lagoon that surrounds it on the Sabah coast.
+    kind: actual
+    origin: third-party
+    subject: Kota Kinabalu City Mosque, Sabah
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_City_Mosque_01.jpg
+  - role: scene
+    src: /media/states/sabah/body-2.webp
+    alt: A pale, driftwood-strewn beach rings the turquoise shallows of Mataking Island off Semporna in Sabah.
+    kind: actual
+    origin: third-party
+    subject: Mataking Island near Semporna, Sabah
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mataking_Island_Sabah.jpg
 ---
 
 Sabah did not join Malaysia as a state joining a country. It joined as one of the

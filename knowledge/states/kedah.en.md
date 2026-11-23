@@ -44,7 +44,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "0d6884ea1dade121"
+sourceContentHash: "1d8bcb8c60bb0772"
 
 status: "published"
 aiAssisted: true
@@ -118,6 +118,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:MasjidZahir.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kedah/body-1.webp
+    alt: The curved Langkawi Sky Bridge arcs on cables high across a forested mountain gorge on Pulau Langkawi in Kedah.
+    kind: actual
+    origin: third-party
+    subject: Langkawi Sky Bridge, Kedah
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Sky_Bridge_(November_2016).jpg
+  - role: scene
+    src: /media/states/kedah/body-2.webp
+    alt: Flat green rice paddies stretch to the horizon under a wide sky at Pendang in Kedah, Malaysia's rice bowl.
+    kind: actual
+    origin: third-party
+    subject: Paddy plains at Pendang, Kedah
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kampung_Lang_Merah,_Pendang_20240917_111034.jpg
 ---
 
 In 2024, electrical, electronic and optical products made up 51.1 percent of the

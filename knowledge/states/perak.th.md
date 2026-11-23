@@ -40,7 +40,7 @@ verificationNeeded:
   - "ปรับปรุงตัวเลขประชากรและ GDP เมื่อการเผยแพร่ของ DOSM ที่ใหม่กว่าได้รับการเผยแพร่"
 
 lang: "th"
-sourceContentHash: "79feefd0c909668c"
+sourceContentHash: "b257a2168f68f0c7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -121,6 +121,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perak/body-1.webp
+    alt: คฤหาสน์และหอคอยอิฐแดงที่สร้างไม่เสร็จของเคลลีส์แคสเซิลตั้งอยู่ท่ามกลางความเขียวขจีใกล้บาตูกาจะฮ์ในรัฐเประ
+    kind: actual
+    origin: third-party
+    subject: เคลลีส์แคสเซิล (Kellie's Castle) บาตูกาจะฮ์ รัฐเประ
+    credit: Mszf 92 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kellie%27s_Castle_Batu_Gajah.jpg
+  - role: scene
+    src: /media/states/perak/body-2.webp
+    alt: หินงอกและหินย้อยที่ส่องสว่างเต็มห้องหินปูนขนาดใหญ่ของกัวเติมปูรงใกล้โกเปงในรัฐเประ
+    kind: actual
+    origin: third-party
+    subject: ถ้ำหินปูนกัวเติมปูรง (Gua Tempurung) โกเปง รัฐเประ
+    credit: Ksaravanan106221 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Tempurung,_Gopeng,_Perak,_Malaysia.jpg
 ---
 
 เมื่อวันที่ 20 มกราคม 1874 สนธิสัญญาฉบับหนึ่งถูกลงนามในน่านน้ำใกล้เกาะปังกอร์ (Pulau Pangkor) เอกสารนั้นไม่ได้ยกดินแดนและไม่ได้ประกาศสงคราม มันเพียงนำตำแหน่งใหม่หนึ่งเข้ามา: เรซิเดนหนึ่งคน ซึ่งคำแนะนำของเขาต้องถูกปฏิบัติตาม

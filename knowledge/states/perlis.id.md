@@ -36,7 +36,7 @@ verificationNeeded:
   - "Verifikasi ulang alokasi Perlis Inland Port (RM318.0 juta infrastruktur, RM1.2 miliar investasi swasta) dan enam kawasan administratif terhadap MKN setelah mkn.gov.my dapat diakses; situs tersebut tidak aktif selama proses verifikasi ulang terakhir, sehingga angka-angka ini bersandar pada pemeriksaan asli 2026-07-24."
 
 lang: "id"
-sourceContentHash: "f8950ccf72fcaab1"
+sourceContentHash: "940939eb886405c6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -116,6 +116,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perlis/body-1.webp
+    alt: Jalur kayu gantung menyusuri terowongan batu kapur Gua Kelam dekat Kaki Bukit di Perlis.
+    kind: actual
+    origin: third-party
+    subject: Jalur gua Gua Kelam, Perlis
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Kelam_-_Perlis,_Malaysia.jpg
+  - role: scene
+    src: /media/states/perlis/body-2.webp
+    alt: Terminal feri di Kuala Perlis, pintu gerbang daratan utama untuk perahu menuju Langkawi, berdiri di tepi Selat Malaka.
+    kind: actual
+    origin: third-party
+    subject: Terminal feri Kuala Perlis, Perlis
+    credit: Irwan Shah Bin Abdullah / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_perlis_jetty_terminal.jpg
 ---
 
 Ada satu pertanyaan yang hampir setiap orang Malaysia pernah salah menjawab: siapakah

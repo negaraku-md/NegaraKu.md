@@ -101,6 +101,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_begonjong_di_depan_istana_seri_menanti.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/negeri-sembilan/body-1.webp
+    alt: Pantai berpasir yang melengkung lembut dan dipagari pokok palma menghadap Selat Melaka yang tenang di Port Dickson, Negeri Sembilan.
+    kind: actual
+    origin: third-party
+    subject: Pantai Port Dickson, Negeri Sembilan
+    credit: Malaysiaguy2010 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Port-dickson-beach-1.jpg
+  - role: scene
+    src: /media/states/negeri-sembilan/body-2.webp
+    alt: Rumah kayu Minangkabau dengan bumbung melentik berbentuk tanduk kerbau berdiri di dalam kawasan Muzium Negeri Sembilan di Seremban.
+    kind: actual
+    origin: third-party
+    subject: Rumah tradisional berbentuk Minangkabau di Muzium Negeri Sembilan, Seremban
+    credit: Ardzun / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg
 ---
 
 Di lapan negeri Melayu yang lain, soalan "siapa raja seterusnya" dijawab oleh

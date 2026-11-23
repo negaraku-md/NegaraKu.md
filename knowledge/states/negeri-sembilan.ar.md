@@ -38,7 +38,7 @@ verificationNeeded:
   - "تحقّق من تاريخ وأساس نسب التركيب العِرقي المنشورة في البوابة الرسمية للولاية (الملايو 61.5%، الصينيون 22.9%، الهنود 15.1%، آخرون 0.5%) — فالرقم غير مؤرَّخ ولا يتطابق مع بنية تبويب تعداد 2020، الذي يبلّغ عن غير المواطنين كفئة منفصلة."
 
 lang: "ar"
-sourceContentHash: "41ba175b1dc7814a"
+sourceContentHash: "bf6d6f70731fdbe1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -102,6 +102,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_begonjong_di_depan_istana_seri_menanti.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/negeri-sembilan/body-1.webp
+    alt: يطلّ شاطئ رملي منحنٍ برفق تصطفّ على طوله أشجار النخيل على مضيق ملقا الهادئ في Port Dickson بولاية نݢري سمبيلن.
+    kind: actual
+    origin: third-party
+    subject: شاطئ Port Dickson، نݢري سمبيلن
+    credit: Malaysiaguy2010 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Port-dickson-beach-1.jpg
+  - role: scene
+    src: /media/states/negeri-sembilan/body-2.webp
+    alt: تقف بيوت Minangkabau الخشبية بأسقفها المنحنية على هيئة قرون الجاموس في باحة متحف ولاية نݢري سمبيلن في سريمبان.
+    kind: actual
+    origin: third-party
+    subject: بيوت تقليدية على طراز Minangkabau في Muzium Negeri Sembilan، سريمبان
+    credit: Ardzun / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg
 ---
 
 في الولايات الملايوية الثماني الأخرى، يُجاب عن سؤال «مَن وليّ العهد التالي» بالنسب.

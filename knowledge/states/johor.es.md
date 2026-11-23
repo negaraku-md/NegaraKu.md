@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "es"
-sourceContentHash: "f075aca9f39a2a6a"
+sourceContentHash: "745a7dd790ac6b02"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/johor/body-1.webp
+    alt: Una larga orilla de arena dorada bordeada de casuarinas se encuentra con las tranquilas olas del mar de China Meridional en Desaru, en la costa oriental de Johor.
+    kind: actual
+    origin: third-party
+    subject: Playa de Desaru, Johor
+    credit: Jpatokal / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:DesaruBeach.JPG
+  - role: scene
+    src: /media/states/johor/body-2.webp
+    alt: Arena blanca y aguas someras de un turquesa cristalino bordean la costa boscosa y poblada de palmeras de la isla de Pulau Rawa, frente a la costa oriental de Johor.
+    kind: actual
+    origin: third-party
+    subject: Pulau Rawa (isla Rawa), Johor
+    credit: Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rawa_Island,_Johor,_Malaysia.jpg
 ---
 
 La economía de Johor está definida por su vecino. Como el estado más meridional de la

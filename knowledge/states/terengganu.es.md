@@ -37,7 +37,7 @@ faq:
     a: "Un pago del Gobierno Federal a Terengganu y Kelantan vinculado a los ingresos petroleros. Un comunicado del Ministerio de Finanzas afirma que el Wang Ihsan no es una subvención del Gobierno Federal consagrada en la ley — es decir, no es un derecho conferido por estatuto."
 
 lang: "es"
-sourceContentHash: "44eeeac1d9bc0d54"
+sourceContentHash: "94d47d415c35aac9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -110,6 +110,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Crystal_Mosque_in_2016.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/terengganu/body-1.webp
+    alt: La mezquita Tengku Tengah Zaharah parece flotar sobre la laguna de Ibai, cerca de Kuala Terengganu, en Terengganu.
+    kind: actual
+    origin: third-party
+    subject: Mezquita flotante Tengku Tengah Zaharah, Kuala Terengganu, Terengganu
+    credit: Falconedc / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tengku_Tengah_Zaharah_Mosque.jpg
+  - role: scene
+    src: /media/states/terengganu/body-2.webp
+    alt: Aguas turquesas y cristalinas bañan una playa de arena blanca bordeada de selva en Pulau Redang, frente a la costa de Terengganu.
+    kind: actual
+    origin: third-party
+    subject: Playa de Pulau Redang, Terengganu
+    credit: Azreey / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
 ---
 
 Las dos cosas más famosas de Terengganu están a unos 60 kilómetros la una de la otra,

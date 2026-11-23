@@ -41,7 +41,7 @@ verificationNeeded:
   - "تذكر بوابة سياحة الولاية مساحة 35,960 كم² بينما تذكر بوابة حكومة الولاية 35,965 كم²؛ تأكّد من الرقم الرسمي الواحد مع مكتب سكرتير حكومة باهانغ."
 
 lang: "ar"
-sourceContentHash: "e16b23300ddd14d8"
+sourceContentHash: "61597b924e267b8c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -113,6 +113,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1535_4120.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/pahang/body-1.webp
+    alt: تتلاطم الأمواج فوق صخور داكنة على خليج Teluk Cempedak الرملي المحاط بالغابات قرب كوانتان على ساحل باهانغ.
+    kind: actual
+    origin: third-party
+    subject: شاطئ Teluk Cempedak، كوانتان، باهانغ
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuantan_-_rocks_on_the_beach_at_Teluk_Cempedak_-_May_2024.jpg
+  - role: scene
+    src: /media/states/pahang/body-2.webp
+    alt: تمتد المياه العذبة الساكنة بين تلال حرجية في Tasik Chini، بحيرة باهانغ المغطاة باللوتس ومحمية محيط حيوي معترف بها من اليونسكو.
+    kind: actual
+    origin: third-party
+    subject: Tasik Chini (بحيرة تشيني)، باهانغ
+    credit: Rubenjoker / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tasik_chini_01.jpg
 ---
 
 تغطي باهانغ أكثر من رُبع مساحة شبه جزيرة الملايو، ومع ذلك لا يعيش فيها سوى واحد من

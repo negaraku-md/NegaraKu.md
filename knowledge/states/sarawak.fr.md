@@ -32,7 +32,7 @@ faq:
 verificationNeeded: []
 
 lang: "fr"
-sourceContentHash: "1f58c985aa078563"
+sourceContentHash: "df209791e7052635"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/sarawak/body-1.webp
+    alt: L'Astana, l'ancien palais royal blanc, se dresse de l'autre côté de la rivière Sarawak face au Kuching Waterfront.
+    kind: actual
+    origin: third-party
+    subject: L'Astana vu depuis le Kuching Waterfront, Sarawak
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_(17772477902).jpg
+  - role: scene
+    src: /media/states/sarawak/body-2.webp
+    alt: Une plage de sable adossée à des falaises couvertes de jungle fait face à la mer au siège du Bako National Park, près de Kuching, dans le Sarawak.
+    kind: actual
+    origin: third-party
+    subject: Plage en contrebas du siège du parc au Bako National Park, Sarawak
+    credit: Sgroey / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Beach_outside_park_HQ_at_Bako_NP.jpg
 ---
 
 Sarawak, c'est la Malaisie dans une autre tonalité. C'est de loin le plus grand

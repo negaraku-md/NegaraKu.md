@@ -40,7 +40,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "41ba175b1dc7814a"
+sourceContentHash: "bf6d6f70731fdbe1"
 
 status: "published"
 aiAssisted: true
@@ -101,6 +101,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bangunan_begonjong_di_depan_istana_seri_menanti.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/negeri-sembilan/body-1.webp
+    alt: ヌグリ・スンビラン州のポートディクソンで、椰子の並ぶ緩やかに湾曲した砂浜が、穏やかなマラッカ海峡に面している。
+    kind: actual
+    origin: third-party
+    subject: ヌグリ・スンビラン州、ポートディクソンのビーチ
+    credit: Malaysiaguy2010 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Port-dickson-beach-1.jpg
+  - role: scene
+    src: /media/states/negeri-sembilan/body-2.webp
+    alt: スレンバンのヌグリ・スンビラン州立博物館の敷地に、水牛の角のように反り返った屋根をもつミナンカバウ様式の木造家屋が建っている。
+    kind: actual
+    origin: third-party
+    subject: スレンバンのヌグリ・スンビラン州立博物館（Muzium Negeri Sembilan）のミナンカバウ様式伝統家屋
+    credit: Ardzun / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg
 ---
 
 他の八つのマレー州属では、「次の統治者は誰か」という問いに答えるのは血統である。ヌグリ・スンビランでは、それに答えるのは四人の習俗の長である。

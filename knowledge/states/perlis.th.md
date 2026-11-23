@@ -35,7 +35,7 @@ verificationNeeded:
   - "ตรวจสอบซ้ำการจัดสรรของท่าเรือบกปะลิส (โครงสร้างพื้นฐาน RM318.0 ล้าน การลงทุนภาคเอกชน RM1.2 พันล้าน) และหกเขตการบริหารเทียบกับ MKN เมื่อ mkn.gov.my เข้าถึงได้ เว็บไซต์ล่มระหว่างการตรวจสอบซ้ำครั้งล่าสุด ดังนั้นตัวเลขเหล่านี้จึงอิงการตรวจสอบเดิมเมื่อ 2026-07-24"
 
 lang: "th"
-sourceContentHash: "f8950ccf72fcaab1"
+sourceContentHash: "940939eb886405c6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -115,6 +115,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Padi_Field_in_Kangar,_Perlis_(5834859142).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/perlis/body-1.webp
+    alt: ทางเดินไม้แขวนลอยทอดผ่านอุโมงค์หินปูนของกัวเกอลัมใกล้กากีบูกิตในรัฐปะลิส
+    kind: actual
+    origin: third-party
+    subject: ทางเดินถ้ำกัวเกอลัม (Gua Kelam) รัฐปะลิส
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gua_Kelam_-_Perlis,_Malaysia.jpg
+  - role: scene
+    src: /media/states/perlis/body-2.webp
+    alt: ท่าเรือเฟอร์รีที่กัวลาปะลิส ประตูสู่ฝั่งแผ่นดินใหญ่สำหรับเรือไปลังกาวี ตั้งอยู่ริมช่องแคบมะละกา
+    kind: actual
+    origin: third-party
+    subject: ท่าเรือเฟอร์รีกัวลาปะลิส รัฐปะลิส
+    credit: Irwan Shah Bin Abdullah / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_perlis_jetty_terminal.jpg
 ---
 
 มีคำถามหนึ่งที่ชาวมาเลเซียแทบทุกคนเคยตอบผิด: ใครคือสุลต่านแห่งปะลิส?

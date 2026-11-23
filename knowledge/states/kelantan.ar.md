@@ -41,7 +41,7 @@ verificationNeeded:
   - "لم يُذكر عدد مقاعد الجمعية التشريعية للولاية (DUN) والبرلمان عمداً لأنه تعذّر التحقق منه مقابل مصادر SPR الرسمية وقت إعداد هذه المسودة."
 
 lang: "ar"
-sourceContentHash: "869286bde4f6fa80"
+sourceContentHash: "cfedbc8b62c34ea2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -108,6 +108,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/kelantan/body-1.webp
+    alt: يقف المبنى الاستعماري الطويل ذو السقف الأحمر لمتحف ولاية كلنتان خلف نخلة عالية تحت سماء زرقاء صافية في كوتا بهارو.
+    kind: actual
+    origin: third-party
+    subject: متحف ولاية كلنتان (Muzium Negeri Kelantan)، كوتا بهارو
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Museum_Kelantan_-_panoramio.jpg
+  - role: scene
+    src: /media/states/kelantan/body-2.webp
+    alt: يبيع التجار المنتجات الطازجة بين الأكشاك المزدحمة داخل سوق Pasar Siti Khadijah المركزي المتدرّج والمضاء بسطوع في كوتا بهارو.
+    kind: actual
+    origin: third-party
+    subject: Pasar Siti Khadijah، كوتا بهارو، كلنتان
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Siti_Khadijah_Market_(6061751147).jpg
 ---
 
 عادةً ما يُروى اقتصاد ماليزيا من خلال المصنع. وكلنتان هي الاستثناء الأوضح: إذ لم

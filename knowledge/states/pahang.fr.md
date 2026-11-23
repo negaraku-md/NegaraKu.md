@@ -41,7 +41,7 @@ verificationNeeded:
   - "Le portail touristique de l'État indique une superficie de 35,960 km² tandis que le portail du gouvernement de l'État indique 35,965 km² ; confirmer le chiffre officiel unique auprès du bureau du Secrétaire de l'État de Pahang."
 
 lang: "fr"
-sourceContentHash: "e16b23300ddd14d8"
+sourceContentHash: "61597b924e267b8c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -113,6 +113,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1535_4120.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/pahang/body-1.webp
+    alt: Les vagues déferlent sur des rochers sombres dans la baie sablonneuse adossée à la forêt de Teluk Cempedak, près de Kuantan, sur la côte du Pahang.
+    kind: actual
+    origin: third-party
+    subject: Plage de Teluk Cempedak, Kuantan, Pahang
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuantan_-_rocks_on_the_beach_at_Teluk_Cempedak_-_May_2024.jpg
+  - role: scene
+    src: /media/states/pahang/body-2.webp
+    alt: Une eau douce immobile s'étend entre des collines boisées à Tasik Chini, le lac couvert de lotus du Pahang et réserve de biosphère de l'Unesco.
+    kind: actual
+    origin: third-party
+    subject: Tasik Chini (lac Chini), Pahang
+    credit: Rubenjoker / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tasik_chini_01.jpg
 ---
 
 Pahang couvre plus d'un quart de la superficie terrestre de la Malaisie péninsulaire, et

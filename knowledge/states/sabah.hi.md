@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "ऐसे पाठक जो सबाह का एक तथ्यात्मक प्रोफ़ाइल चाहते हैं — इसका भूगोल, अर्थव्यवस्था और सरकार — और मलेशिया समझौता 1963 के तहत इसकी संवैधानिक स्थिति का एक तटस्थ विवरण।"
 
 lang: "hi"
-sourceContentHash: "a41acdd421e03bda"
+sourceContentHash: "42f247f3d79bbab1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/states/sabah/body-1.webp
+    alt: सबाह के तट पर सफेद-और-सुनहरी कोटा किनाबालू सिटी मस्जिद अपने गुंबदों को अपने चारों ओर की कृत्रिम झील में प्रतिबिंबित करती है।
+    kind: actual
+    origin: third-party
+    subject: कोटा किनाबालू सिटी मस्जिद, सबाह
+    credit: Ahmad Ali Karim / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kota_Kinabalu_City_Mosque_01.jpg
+  - role: scene
+    src: /media/states/sabah/body-2.webp
+    alt: सबाह में सेम्पोर्ना से दूर मातकिंग द्वीप के फ़िरोज़ी उथले पानी को एक हल्के रंग का, बहती लकड़ी से बिखरा समुद्र तट घेरता है।
+    kind: actual
+    origin: third-party
+    subject: सेम्पोर्ना के पास मातकिंग द्वीप, सबाह
+    credit: Angah hfz / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mataking_Island_Sabah.jpg
 ---
 
 सबाह मलेशिया में किसी देश में शामिल होते हुए एक राज्य के रूप में शामिल नहीं हुआ। यह उन हस्ताक्षरकर्ता क्षेत्रों में से एक के रूप में शामिल हुआ जिन्होंने देश की रचना की — उत्तरी बोर्नियो ने जुलाई 1963 में लंदन में मलय संघ, सरवाक, सिंगापुर और यूनाइटेड किंगडम के साथ मलेशिया समझौते पर हस्ताक्षर किए। वह प्रारंभिक बिंदु आज भी यह आकार देता है कि सबाह को किस प्रकार शासित, वित्त-पोषित किया जाता है और उसके बारे में बात की जाती है, और यही कारण है कि सबाह के प्रोफ़ाइल को एक पर्वत के साथ-साथ एक संधि को भी समेटना होता है।
