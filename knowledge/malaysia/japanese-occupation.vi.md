@@ -76,6 +76,13 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963", "melaka-sultanate"]
 keywords: ["pendudukan Jepun", "Tanah Melayu 1941-1945", "duit pisang", "Kota Bharu 1941", "pentadbiran tentera Jepun", "Perang Dunia Kedua Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/japanese-occupation/hero.webp'
+heroAlt: 'Một ban nhạc kèn đồng quân đội dẫn đầu đám đông dân thường diễu hành dọc con phố trong cuộc diễu hành năm 1945 đánh dấu sự kết thúc của ách cai trị Nhật Bản.'
+heroCredit: 'No 9 Army Film & Photographic Unit (Sgt A. W. Stubbs), Imperial War Museums / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Japanese_Surrender_at_Singapore,_1945_SE4733.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Tám tuần. Đó là khoảng cách giữa cuộc đổ bộ đầu tiên của quân Nhật lên bờ biển Kelantan và ngày toàn bộ Tanah Melayu nằm trong tay Nhật — một vùng đất đã được người Anh cai trị, dưới nhiều hình thức, trong hơn một thế kỷ rưỡi.

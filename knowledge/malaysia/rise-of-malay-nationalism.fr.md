@@ -84,6 +84,13 @@ relations:
 related: ["malayan-union"]
 keywords: ["nasionalisme Melayu", "Kesatuan Melayu Muda", "KMM", "Ibrahim Yaacob", "Persatuan Melayu Selangor", "Malayan Union", "Melayu Raya", "histoire de la Malaisie"]
 framework: history-culture
+hero: '/media/malaysia/rise-of-malay-nationalism/hero.webp'
+heroAlt: 'Un portrait en noir et blanc du leader nationaliste malais Ibrahim Yaacob vêtu d''une veste boutonnée.'
+heroCredit: 'Ibrahim Yaacob (Sekitar Malaya Merdeka, 1953) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ibrahim_Yaacob.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Avant qu'aucun grand parti national n'existe, le mouvement malais commença dans les salles d'école, dans les pages des journaux et dans les salles de réunion de petites associations d'État. Entre les années 1930 et la fin de la Seconde Guerre mondiale, ce furent ces courants qui émergèrent peu à peu comme une force politique capable, en 1946, d'unir les Malais contre une seule politique britannique.

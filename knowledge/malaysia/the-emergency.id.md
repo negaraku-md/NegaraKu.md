@@ -85,6 +85,13 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malayan Emergency", "Darurat", "Briggs Plan", "new villages", "kampung baru", "Malayan Communist Party", "Sungai Siput"]
 framework: history-culture
+hero: '/media/malaysia/the-emergency/hero.webp'
+heroAlt: 'Barisan tentara berseragam mengarungi kembali sawah yang tergenang menuju markas setelah patroli hutan.'
+heroCredit: 'British official photographer, Imperial War Museums (IWM K 14005) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:THE_MALAYAN_EMERGENCY_1948-1960_K14005.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Kata "darurat" adalah pilihan hukum, bukan sekadar deskripsi. Menamai konflik dua belas tahun di Tanah Melayu ini sebagai darurat dan bukan perang memungkinkan perkebunan karet dan tambang timah tetap dapat diasuransikan di bawah polis asuransi London yang mengecualikan tindakan perang. Pertempurannya nyata, jumlah korban tewas mencapai ribuan orang, dan negara yang lahir darinya membawa sejumlah instrumen — kartu identitas, distrik pemukiman kembali, kewenangan penahanan — yang tetap ada selama berpuluh tahun setelah darurat itu berakhir.

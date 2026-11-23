@@ -96,6 +96,13 @@ relations:
 related: ["sabah"]
 keywords: ["Sabah claim", "Sulu Sultanate", "Lahad Datu", "1878 agreement", "North Borneo", "Sulu arbitration", "Philippines Sabah"]
 framework: explainer
+hero: '/media/malaysia/sabah-sulu-claim/hero.webp'
+heroAlt: 'วงเวียนและอาคารเตี้ยในย่านใจกลางเมืองลาฮัดดาตู รัฐซาบาห์ ภายใต้ท้องฟ้าสดใส'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:LahadDatu_Sabah_TownView-05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 คำมลายูคำเดียวที่เขียนไว้ในสัญญายุคอาณานิคมในปี 1878 ยังคงกำหนดข้อพิพาททางการทูตที่ยังดำเนินอยู่ การบุกรุกด้วยอาวุธที่ร้ายแรงในปี 2013 และอนุญาโตตุลาการมูลค่าหลายพันล้านดอลลาร์ที่ไปถึงห้องพิจารณาคดีในมาดริด ลักเซมเบิร์ก กรุงเฮก และปารีส คำนั้นคือ *padjak* และการที่มันถูกแปลอย่างไรอยู่ในหัวใจของคำถามว่าซาบาห์ถูกเช่าหรือถูกยกให้

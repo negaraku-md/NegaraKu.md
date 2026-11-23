@@ -76,6 +76,13 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963", "melaka-sultanate"]
 keywords: ["pendudukan Jepun", "Tanah Melayu 1941-1945", "duit pisang", "Kota Bharu 1941", "pentadbiran tentera Jepun", "Perang Dunia Kedua Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/japanese-occupation/hero.webp'
+heroAlt: 'Satu grup drumband militer memimpin kerumunan warga sipil yang berbaris di sepanjang jalan dalam pawai 1945 yang menandai berakhirnya pemerintahan Jepang.'
+heroCredit: 'No 9 Army Film & Photographic Unit (Sgt A. W. Stubbs), Imperial War Museums / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Japanese_Surrender_at_Singapore,_1945_SE4733.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Delapan minggu. Itulah jarak antara pendaratan pertama tentara Jepang di pantai Kelantan dan hari seluruh Tanah Melayu berada dalam genggaman Jepang — sebuah wilayah yang telah diperintah Inggris, dalam berbagai bentuk, selama lebih dari satu setengah abad.

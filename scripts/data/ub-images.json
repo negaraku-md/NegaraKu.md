@@ -6925,5 +6925,77 @@
       "alt": "Ismail Sabri Yaakob, grey-haired and wearing rimless glasses and a dark suit, in a close head-and-shoulders portrait at an official reception.",
       "position": "centre"
     }
+  },
+  "malaysia/japanese-occupation": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/The_Japanese_Surrender_at_Singapore%2C_1945_SE4733.jpg",
+      "license": "Public domain",
+      "by": "No 9 Army Film & Photographic Unit (Sgt A. W. Stubbs), Imperial War Museums",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Japanese_Surrender_at_Singapore,_1945_SE4733.jpg",
+      "kind": "actual",
+      "subject": "A brass band leads residents in a public parade in September 1945 marking the end of the Japanese occupation.",
+      "alt": "A military brass band leads a crowd of civilians marching along a street during a 1945 parade marking the end of Japanese rule.",
+      "position": "attention"
+    }
+  },
+  "malaysia/the-emergency": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/THE_MALAYAN_EMERGENCY_1948-1960_K14005.jpg",
+      "license": "Public domain",
+      "by": "British official photographer, Imperial War Museums (IWM K 14005)",
+      "page": "https://commons.wikimedia.org/wiki/File:THE_MALAYAN_EMERGENCY_1948-1960_K14005.jpg",
+      "kind": "actual",
+      "subject": "Soldiers return to camp in Pahang after a jungle patrol during the Malayan Emergency (1948-1960).",
+      "alt": "A file of uniformed soldiers wades back through a flooded paddy field toward camp after a jungle patrol.",
+      "position": "attention"
+    }
+  },
+  "malaysia/konfrontasi": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Memorial_to_the_Victims_of_Konfrontasi%2C_Dhoby_Ghaut_Green_%282025%29_-_img_01.jpg",
+      "license": "CC BY 4.0",
+      "by": "Chainwit.",
+      "page": "https://commons.wikimedia.org/wiki/File:Memorial_to_the_Victims_of_Konfrontasi,_Dhoby_Ghaut_Green_(2025)_-_img_01.jpg",
+      "kind": "representative",
+      "subject": "The memorial at Dhoby Ghaut Green commemorating the victims of the 1963-66 Indonesia-Malaysia Confrontation (Konfrontasi).",
+      "alt": "A stone memorial set in a landscaped urban green space commemorating those killed in the Indonesia-Malaysia Confrontation.",
+      "position": "attention"
+    }
+  },
+  "malaysia/second-communist-insurgency-1968-1989": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tugu_Negara_Kuala_Lumpur_1.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Renek78",
+      "page": "https://commons.wikimedia.org/wiki/File:Tugu_Negara_Kuala_Lumpur_1.jpg",
+      "kind": "representative",
+      "subject": "Tugu Negara, Malaysia's National Monument in Kuala Lumpur, commemorating those who died in the nation's struggle for freedom, including against the communist insurgencies.",
+      "alt": "The bronze Tugu Negara National Monument in Kuala Lumpur, a group of soldier figures raising a flag, standing against an open sky.",
+      "position": "attention"
+    }
+  },
+  "malaysia/sabah-sulu-claim": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/LahadDatu_Sabah_TownView-05.jpg",
+      "license": "CC BY-SA 3.0",
+      "by": "CEphoto, Uwe Aranas",
+      "page": "https://commons.wikimedia.org/wiki/File:LahadDatu_Sabah_TownView-05.jpg",
+      "kind": "representative",
+      "subject": "A calm street view of Lahad Datu town on the east coast of Sabah, the district at the centre of the Sulu claim and the 2013 incursion.",
+      "alt": "A roundabout and low buildings in the town centre of Lahad Datu, Sabah, under a bright sky.",
+      "position": "attention"
+    }
+  },
+  "malaysia/rise-of-malay-nationalism": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Ibrahim_Yaacob.jpg",
+      "license": "Public domain",
+      "by": "Ibrahim Yaacob (Sekitar Malaya Merdeka, 1953)",
+      "page": "https://commons.wikimedia.org/wiki/File:Ibrahim_Yaacob.jpg",
+      "kind": "representative",
+      "subject": "Ibrahim Yaacob, founder of the pre-war Malay nationalist movement Kesatuan Melayu Muda and a leading figure in the rise of Malay political nationalism in the 1930s and 1940s.",
+      "alt": "A black-and-white portrait of the Malay nationalist leader Ibrahim Yaacob in a buttoned jacket.",
+      "position": "top"
+    }
   }
 }

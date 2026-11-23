@@ -84,6 +84,13 @@ relations:
 related: ["malayan-union"]
 keywords: ["القومية الملايوية", "nasionalisme Melayu", "اتحاد شباب الملايو", "Kesatuan Melayu Muda", "KMM", "إبراهيم يعقوب", "Ibrahim Yaacob", "جمعية ملايو سيلانغور", "Persatuan Melayu Selangor", "اتحاد الملايو", "Malayan Union", "الملايو الكبرى", "Melayu Raya", "تاريخ ماليزيا"]
 framework: history-culture
+hero: '/media/malaysia/rise-of-malay-nationalism/hero.webp'
+heroAlt: 'صورة بالأبيض والأسود للزعيم القومي الماليزي إبراهيم يعقوب مرتدياً سترة مزرّرة.'
+heroCredit: 'Ibrahim Yaacob (Sekitar Malaya Merdeka, 1953) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ibrahim_Yaacob.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 قبل وجود أي حزب وطني كبير، بدأت الحركة الملايوية في قاعات المدارس، وفي صفحات الصحف، وفي غرف اجتماعات جمعيات الولايات الصغيرة. وبين ثلاثينيات القرن العشرين ونهاية الحرب العالمية الثانية، كانت هذه التيارات هي التي برزت ببطء لتصبح قوةً سياسيةً تمكَّنت، عام 1946، من توحيد الملايو ضد سياسة بريطانية واحدة.

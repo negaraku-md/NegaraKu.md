@@ -76,6 +76,13 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963", "melaka-sultanate"]
 keywords: ["الاحتلال الياباني", "pendudukan Jepun", "الملايو 1941-1945", "نقود الموز", "duit pisang", "كوتا بهرو 1941", "الإدارة العسكرية اليابانية", "الحرب العالمية الثانية في ماليزيا"]
 framework: history-culture
+hero: '/media/malaysia/japanese-occupation/hero.webp'
+heroAlt: 'فرقة نحاسية عسكرية تتقدّم حشداً من المدنيين يسيرون في أحد الشوارع خلال موكب عام 1945 احتفالاً بنهاية الحكم الياباني.'
+heroCredit: 'No 9 Army Film & Photographic Unit (Sgt A. W. Stubbs), Imperial War Museums / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Japanese_Surrender_at_Singapore,_1945_SE4733.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ثمانية أسابيع. تلك هي المدة بين أول إنزال للقوات اليابانية على ساحل كلنتن واليوم الذي صارت فيه الملايو كلها في قبضة اليابان — إقليمٌ ظلّ البريطانيون يحكمونه، بصيغ متعددة، أكثر من قرن ونصف القرن.

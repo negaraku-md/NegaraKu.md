@@ -71,6 +71,13 @@ relations:
 related: ["formation-of-malaysia-1963", "singapore-separation-1965", "ma63"]
 keywords: ["الكونفرونتاسي", "Konfrontasi", "المواجهة الإندونيسية الماليزية", "Ganyang Malaysia", "اتفاق جاكرتا 1966", "تشكيل ماليزيا 1963", "Sukarno Suharto"]
 framework: history-culture
+hero: '/media/malaysia/konfrontasi/hero.webp'
+heroAlt: 'نُصب حجري تذكاري قائم في مساحة خضراء حضرية مُنسّقة، يخلّد ذكرى من قُتلوا في المواجهة الإندونيسية الماليزية (Konfrontasi).'
+heroCredit: 'Chainwit. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Memorial_to_the_Victims_of_Konfrontasi,_Dhoby_Ghaut_Green_(2025)_-_img_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 وُلدت ماليزيا في 16 سبتمبر 1963 في منطقة لم تستقبلها بسلام. فقد سبق لبلدٍ مجاور أكبر منها بكثير أن أعلن معارضته، وفي غضون أشهر صارت حدود بورنيو الجديدة خطَّ مواجهةٍ لنزاع مسلّح لم يُعلَن رسميًا حربًا قط — لكنه دام قرابة أربع سنوات. ويُعرف ذلك النزاع بالكونفرونتاسي.

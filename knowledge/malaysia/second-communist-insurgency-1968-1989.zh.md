@@ -93,6 +93,13 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["Second Malayan Emergency", "Communist Party of Malaya", "Hat Yai Peace Agreement 1989", "North Kalimantan Communist Party", "Sarawak communist insurgency", "Sri Aman", "Chin Peng", "Kroh-Betong ambush"]
 framework: history-culture
+hero: '/media/malaysia/second-communist-insurgency-1968-1989/hero.webp'
+heroAlt: '吉隆坡的青铜国家纪念碑（Tugu Negara），一组士兵雕像高举旗帜，映衬着开阔的天空。'
+heroCredit: 'Renek78 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tugu_Negara_Kuala_Lumpur_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 马来西亚于1960年7月31日宣告其第一次共产党紧急状态结束——随后却在此后近三十年的大部分时间里，与第二次叛乱周旋。政府曾把游击队武装逼到半岛的边缘地带，但在战斗被宣告结束时，这支武装并未解散。它撤过泰国边境，在那里重新集结，八年之后恢复了行动。

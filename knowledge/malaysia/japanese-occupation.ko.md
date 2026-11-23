@@ -76,6 +76,13 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963", "melaka-sultanate"]
 keywords: ["pendudukan Jepun", "Tanah Melayu 1941-1945", "duit pisang", "Kota Bharu 1941", "pentadbiran tentera Jepun", "Perang Dunia Kedua Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/japanese-occupation/hero.webp'
+heroAlt: '1945년 일본 통치 종식을 기념하는 행진에서 군악대의 금관악대가 거리를 행진하는 민간인 무리를 이끌고 있다.'
+heroCredit: 'No 9 Army Film & Photographic Unit (Sgt A. W. Stubbs), Imperial War Museums / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Japanese_Surrender_at_Singapore,_1945_SE4733.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 8주. 이것이 일본군이 켈란탄(Kelantan) 해안에 처음 상륙한 날과, 말라야(Malaya) 전역이 일본의 손아귀에 들어간 날 사이의 간격입니다 — 영국이 여러 형태로 한 세기 반 넘게 통치해 온 영토가 말입니다.

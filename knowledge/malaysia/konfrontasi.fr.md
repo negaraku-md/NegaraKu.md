@@ -72,6 +72,13 @@ relations:
 related: ["formation-of-malaysia-1963", "singapore-separation-1965", "ma63"]
 keywords: ["Konfrontasi", "Konfrontasi Indonésie Malaisie", "Ganyang Malaysia", "Perjanjian Jakarta 1966", "pembentukan Malaysia 1963", "Sukarno Suharto"]
 framework: history-culture
+hero: '/media/malaysia/konfrontasi/hero.webp'
+heroAlt: 'Un mémorial en pierre dans un espace vert urbain paysager, commémorant ceux qui ont péri lors de la Confrontation indonéso-malaisienne (Konfrontasi).'
+heroCredit: 'Chainwit. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Memorial_to_the_Victims_of_Konfrontasi,_Dhoby_Ghaut_Green_(2025)_-_img_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 La Malaisie naquit le 16 septembre 1963 dans une région qui ne l'accueillit pas pacifiquement. Un pays voisin bien plus grand avait déjà déclaré son opposition, et en quelques mois la nouvelle frontière de Bornéo devint la ligne de front d'un conflit armé qui ne fut jamais formellement déclaré comme guerre — mais qui dura près de quatre ans. Ce conflit est connu sous le nom de Konfrontasi.

@@ -93,6 +93,13 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["التمرد الشيوعي الثاني", "الحزب الشيوعي الملايوي", "اتفاقية هات ياي للسلام 1989", "الحزب الشيوعي لكاليمانتان الشمالية", "تمرد ساراواك الشيوعي", "سري أمان", "تشين بينغ", "كمين كروه-بيتونغ", "Second Malayan Emergency", "Communist Party of Malaya", "Hat Yai Peace Agreement 1989", "North Kalimantan Communist Party", "Sarawak communist insurgency", "Sri Aman", "Chin Peng", "Kroh-Betong ambush"]
 framework: history-culture
+hero: '/media/malaysia/second-communist-insurgency-1968-1989/hero.webp'
+heroAlt: 'نصب تُوغو نيغارا الوطني البرونزي في كوالالمبور، حيث تقف مجموعة من تماثيل الجنود رافعةً عَلَماً أمام سماء مفتوحة.'
+heroCredit: 'Renek78 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tugu_Negara_Kuala_Lumpur_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 أعلنت ماليزيا انتهاء حالة الطوارئ الشيوعية الأولى في 31 يوليو 1960 — ثم واجهت تمردًا ثانيًا طوال معظم العقود الثلاثة التالية. فجيش العصابات الذي كانت الحكومة قد دفعته إلى أطراف شبه الجزيرة لم يحلّ نفسه عندما أُعلن انتهاء القتال، بل انسحب عبر الحدود التايلندية، وأعاد تنظيم صفوفه هناك، ثم استأنف عملياته بعد ثماني سنوات.

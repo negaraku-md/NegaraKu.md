@@ -95,6 +95,13 @@ relations:
 related: ["sabah"]
 keywords: ["Sabah claim", "Sulu Sultanate", "Lahad Datu", "1878 agreement", "North Borneo", "Sulu arbitration", "Philippines Sabah"]
 framework: explainer
+hero: '/media/malaysia/sabah-sulu-claim/hero.webp'
+heroAlt: 'A roundabout and low buildings in the town centre of Lahad Datu, Sabah, under a bright sky.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:LahadDatu_Sabah_TownView-05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 A single Malay word written into a colonial-era contract in 1878 still shapes a live diplomatic dispute, a deadly 2013 armed incursion, and a multi-billion-dollar arbitration that reached courtrooms in Madrid, Luxembourg, The Hague and Paris. That word is *padjak*, and how it is translated sits at the heart of whether Sabah was leased or given away.

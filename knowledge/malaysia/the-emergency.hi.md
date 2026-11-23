@@ -85,6 +85,13 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["मलायी आपातकाल", "Malayan Emergency", "Darurat", "ब्रिग्स योजना", "Briggs Plan", "नए गाँव", "new villages", "kampung baru", "मलायी कम्युनिस्ट पार्टी", "Malayan Communist Party", "Sungai Siput"]
 framework: history-culture
+hero: '/media/malaysia/the-emergency/hero.webp'
+heroAlt: 'जंगल गश्त के बाद वर्दीधारी सैनिकों की एक पंक्ति शिविर की ओर लौटते हुए पानी से भरे धान के खेत को पार कर रही है।'
+heroCredit: 'British official photographer, Imperial War Museums (IWM K 14005) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:THE_MALAYAN_EMERGENCY_1948-1960_K14005.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 «आपातकाल» शब्द एक कानूनी चुनाव था, कोई वर्णन नहीं। मलाया में बारह वर्ष चले संघर्ष को युद्ध के बजाय आपातकाल कहने से रबड़ बागान और टिन खदानें लंदन की उन बीमा-पॉलिसियों के तहत बीमा-योग्य बनी रहीं जो युद्ध के कृत्यों को बाहर रखती थीं। लड़ाई वास्तविक थी, मृतकों की संख्या हज़ारों में थी, और जो राज्य इससे उभरा वह ऐसे उपकरण लेकर आया — पहचान-पत्र, पुनर्वास ज़िले, निरोध शक्तियाँ — जो आपातकाल के दशकों बाद तक टिके रहे।

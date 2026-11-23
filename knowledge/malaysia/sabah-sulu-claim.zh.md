@@ -96,6 +96,13 @@ relations:
 related: ["sabah"]
 keywords: ["Sabah claim", "Sulu Sultanate", "Lahad Datu", "1878 agreement", "North Borneo", "Sulu arbitration", "Philippines Sabah"]
 framework: explainer
+hero: '/media/malaysia/sabah-sulu-claim/hero.webp'
+heroAlt: '沙巴拿笃（Lahad Datu）镇中心的一座环岛和低矮建筑，沐浴在明亮的天空下。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:LahadDatu_Sabah_TownView-05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 写入1878年一份殖民时代合约中的一个马来词，至今仍左右着一场活跃的外交争端、一次致命的2013年武装入侵，以及一宗涉及数十亿美元、辗转于马德里、卢森堡、海牙和巴黎法庭的仲裁。那个词就是 *padjak*，而它如何被翻译，正是沙巴究竟是被出租还是被让与这一问题的核心所在。

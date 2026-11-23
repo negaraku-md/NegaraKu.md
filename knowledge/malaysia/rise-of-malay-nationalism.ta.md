@@ -84,6 +84,13 @@ relations:
 related: ["malayan-union"]
 keywords: ["nasionalisme Melayu", "Kesatuan Melayu Muda", "KMM", "Ibrahim Yaacob", "Persatuan Melayu Selangor", "Malayan Union", "Melayu Raya", "sejarah Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/rise-of-malay-nationalism/hero.webp'
+heroAlt: 'பொத்தான்கள் பொருத்திய கோட் அணிந்த மலாய் தேசியவாத தலைவர் இப்ராஹிம் யாக்கோப்பின் கருப்பு-வெள்ளை உருவப்படம்.'
+heroCredit: 'Ibrahim Yaacob (Sekitar Malaya Merdeka, 1953) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ibrahim_Yaacob.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 எந்தவொரு பெரிய தேசியக் கட்சியும் தோன்றுவதற்கு முன்பே, மலாய் இயக்கம் பள்ளி மண்டபங்களில், செய்தித்தாள்களின் பக்கங்களில், மற்றும் சிறிய மாநிலச் சங்கங்களின் கூட்ட அறைகளில் தொடங்கியது. 1930களுக்கும் இரண்டாம் உலகப் போரின் இறுதிக்கும் இடையே, இந்த ஓட்டங்களே மெல்ல மெல்ல ஒரு அரசியல் சக்தியாக உருவெடுத்தன; 1946ல் இவை மலாய்க்காரர்களை ஒரு பிரிட்டிஷ் கொள்கைக்கு எதிராக ஒன்றிணைக்க வல்லமை பெற்றன.

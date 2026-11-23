@@ -84,6 +84,13 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malayan Emergency", "Darurat", "Briggs Plan", "new villages", "kampung baru", "Malayan Communist Party", "Sungai Siput"]
 framework: history-culture
+hero: '/media/malaysia/the-emergency/hero.webp'
+heroAlt: 'A file of uniformed soldiers wades back through a flooded paddy field toward camp after a jungle patrol.'
+heroCredit: 'British official photographer, Imperial War Museums (IWM K 14005) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:THE_MALAYAN_EMERGENCY_1948-1960_K14005.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 The word "emergency" was a legal choice, not a description. Calling the twelve-year conflict in Malaya an emergency rather than a war kept rubber estates and tin mines insurable under London policies that excluded acts of war. The fighting was real, the death toll ran into thousands, and the state that emerged from it carried instruments — identity cards, resettlement districts, detention powers — that outlasted the emergency by decades.

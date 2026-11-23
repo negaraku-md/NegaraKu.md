@@ -76,6 +76,13 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963", "melaka-sultanate"]
 keywords: ["pendudukan Jepun", "Tanah Melayu 1941-1945", "duit pisang", "Kota Bharu 1941", "pentadbiran tentera Jepun", "Perang Dunia Kedua Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/japanese-occupation/hero.webp'
+heroAlt: 'วงโยธวาทิตทหารบรรเลงเครื่องทองเหลืองนำฝูงชนพลเรือนเดินขบวนไปตามถนนในขบวนพาเหรดปี 1945 ที่เฉลิมฉลองการสิ้นสุดการปกครองของญี่ปุ่น'
+heroCredit: 'No 9 Army Film & Photographic Unit (Sgt A. W. Stubbs), Imperial War Museums / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Japanese_Surrender_at_Singapore,_1945_SE4733.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 แปดสัปดาห์ นั่นคือระยะห่างระหว่างการขึ้นบกครั้งแรกของกองทัพญี่ปุ่นบนชายฝั่งกลันตัน (Kelantan) กับวันที่แผ่นดินมลายูทั้งหมดอยู่ในมือของญี่ปุ่น ดินแดนที่ถูกปกครองโดยอังกฤษในรูปแบบต่าง ๆ มากว่าหนึ่งศตวรรษครึ่ง

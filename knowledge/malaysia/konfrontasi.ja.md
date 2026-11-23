@@ -70,6 +70,13 @@ relations:
 related: ["formation-of-malaysia-1963", "singapore-separation-1965", "ma63"]
 keywords: ["Konfrontasi", "Konfrontasi Indonesia Malaysia", "Ganyang Malaysia", "Perjanjian Jakarta 1966", "pembentukan Malaysia 1963", "Sukarno Suharto"]
 framework: history-culture
+hero: '/media/malaysia/konfrontasi/hero.webp'
+heroAlt: '印尼・マレーシア対決（コンフロンタシ）で命を落とした人々を悼み、整備された都市の緑地に設けられた石造りの記念碑。'
+heroCredit: 'Chainwit. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Memorial_to_the_Victims_of_Konfrontasi,_Dhoby_Ghaut_Green_(2025)_-_img_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 マレーシアは1963年9月16日、平和にそれを迎え入れない地域の中に誕生した。はるかに大きな隣国はすでにその反対を表明しており、数か月のうちに、新しいボルネオの国境線は、正式に戦争と宣言されることのなかった——しかしほぼ4年間続いた——武力紛争の前線となった。この紛争は対決（Konfrontasi）として知られている。

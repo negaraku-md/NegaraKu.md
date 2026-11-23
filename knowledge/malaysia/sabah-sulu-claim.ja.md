@@ -96,6 +96,13 @@ relations:
 related: ["sabah"]
 keywords: ["Sabah claim", "Sulu Sultanate", "Lahad Datu", "1878 agreement", "North Borneo", "Sulu arbitration", "Philippines Sabah"]
 framework: explainer
+hero: '/media/malaysia/sabah-sulu-claim/hero.webp'
+heroAlt: '明るい空の下に広がる、サバ州ラハ・ダトゥの町の中心部にあるロータリーと低層の建物。'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:LahadDatu_Sabah_TownView-05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1878年に植民地時代の契約書に書き込まれたたった一つのマレー語の単語が、今なお現在進行形の外交紛争、2013年の死者を出した武装侵入事件、そしてマドリード、ルクセンブルク、ハーグ、パリの各法廷にまで及んだ数十億ドル規模の仲裁を左右し続けている。その単語とは *padjak* であり、これがどう翻訳されるかが、サバが賃貸されたのか譲渡されたのかという問題の核心をなしている。

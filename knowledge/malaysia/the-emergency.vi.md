@@ -85,6 +85,13 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malayan Emergency", "Darurat", "Briggs Plan", "new villages", "kampung baru", "Malayan Communist Party", "Sungai Siput"]
 framework: history-culture
+hero: '/media/malaysia/the-emergency/hero.webp'
+heroAlt: 'Một hàng lính mặc quân phục lội qua cánh đồng lúa ngập nước trở về trại sau một cuộc tuần tra trong rừng.'
+heroCredit: 'British official photographer, Imperial War Museums (IWM K 14005) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:THE_MALAYAN_EMERGENCY_1948-1960_K14005.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Từ "khẩn cấp" là một lựa chọn pháp lý, không phải một sự mô tả. Gọi cuộc xung đột mười hai năm ở Malaya là một tình trạng khẩn cấp thay vì một cuộc chiến đã giữ cho các đồn điền cao su và mỏ thiếc được bảo hiểm theo các hợp đồng ở London vốn loại trừ các hành vi chiến tranh. Giao tranh là có thật, số người chết lên đến hàng nghìn, và nhà nước hiện ra từ đó mang theo những công cụ — thẻ căn cước, các khu tái định cư, quyền lực giam giữ — sống lâu hơn tình trạng khẩn cấp hàng thập niên.

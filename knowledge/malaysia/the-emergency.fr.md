@@ -85,6 +85,13 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Insurrection malaise", "Darurat", "Plan Briggs", "villages nouveaux", "kampung baru", "Parti communiste malais", "Sungai Siput"]
 framework: history-culture
+hero: '/media/malaysia/the-emergency/hero.webp'
+heroAlt: 'Une file de soldats en uniforme franchit une rizière inondée en regagnant le camp après une patrouille dans la jungle.'
+heroCredit: 'British official photographer, Imperial War Museums (IWM K 14005) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:THE_MALAYAN_EMERGENCY_1948-1960_K14005.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Le mot « urgence » fut un choix juridique, et non une description. Qualifier le conflit de douze ans en Malaya d'urgence plutôt que de guerre permit de maintenir les plantations d'hévéas et les mines d'étain assurables au titre des polices londoniennes qui excluaient les actes de guerre. Les combats étaient réels, le bilan des morts se compta par milliers, et l'État qui en émergea emporta avec lui des instruments — cartes d'identité, districts de réinstallation, pouvoirs de détention — qui survécurent à l'urgence pendant des décennies.

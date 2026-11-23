@@ -72,6 +72,13 @@ relations:
 related: ["formation-of-malaysia-1963", "singapore-separation-1965", "ma63"]
 keywords: ["Konfrontasi", "Konfrontasi Indonesia Malaysia", "Ganyang Malaysia", "Perjanjian Jakarta 1966", "pembentukan Malaysia 1963", "Sukarno Suharto"]
 framework: history-culture
+hero: '/media/malaysia/konfrontasi/hero.webp'
+heroAlt: 'อนุสรณ์สถานหินตั้งอยู่ในพื้นที่สีเขียวในเมืองที่จัดภูมิทัศน์ไว้ เพื่อรำลึกถึงผู้เสียชีวิตในการเผชิญหน้าอินโดนีเซีย-มาเลเซีย (Konfrontasi)'
+heroCredit: 'Chainwit. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Memorial_to_the_Victims_of_Konfrontasi,_Dhoby_Ghaut_Green_(2025)_-_img_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 มาเลเซียถือกำเนิดเมื่อวันที่ 16 กันยายน 1963 เข้าสู่ภูมิภาคที่ไม่ได้ต้อนรับมันอย่างสันติ ประเทศเพื่อนบ้านที่ใหญ่กว่ามากได้ประกาศการคัดค้านของตนแล้ว และภายในไม่กี่เดือน พรมแดนบอร์เนียวใหม่นั้นก็กลายเป็นแนวหน้าของความขัดแย้งด้วยอาวุธที่ไม่เคยถูกประกาศอย่างเป็นทางการว่าเป็นสงคราม แต่ดำเนินไปเกือบสี่ปี ความขัดแย้งนั้นเป็นที่รู้จักในชื่อคอนฟรอนตาซี

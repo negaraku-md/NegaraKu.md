@@ -84,6 +84,13 @@ relations:
 related: ["malayan-union"]
 keywords: ["मलय राष्ट्रवाद", "nasionalisme Melayu", "Kesatuan Melayu Muda", "KMM", "Ibrahim Yaacob", "Persatuan Melayu Selangor", "Malayan Union", "Melayu Raya", "मलेशिया का इतिहास"]
 framework: history-culture
+hero: '/media/malaysia/rise-of-malay-nationalism/hero.webp'
+heroAlt: 'बटन वाली जैकेट पहने मलय राष्ट्रवादी नेता इब्राहिम याकूब का एक श्वेत-श्याम चित्र।'
+heroCredit: 'Ibrahim Yaacob (Sekitar Malaya Merdeka, 1953) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ibrahim_Yaacob.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 किसी भी बड़े राष्ट्रीय दल के अस्तित्व में आने से पहले, मलय आंदोलन स्कूल के सभागारों में, समाचार-पत्रों के पन्नों में, और छोटे राज्य संघों की बैठक-कक्षों में शुरू हुआ। 1930 के दशक और द्वितीय विश्व युद्ध के अंत के बीच, यही धाराएँ थीं जो धीरे-धीरे एक राजनीतिक शक्ति के रूप में उभरीं, जो 1946 में मलय लोगों को एक अकेली ब्रिटिश नीति के विरुद्ध एकजुट करने में सक्षम थीं।

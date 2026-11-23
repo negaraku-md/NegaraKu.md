@@ -84,6 +84,13 @@ relations:
 related: ["malayan-union"]
 keywords: ["nasionalisme Melayu", "Kesatuan Melayu Muda", "KMM", "Ibrahim Yaacob", "Persatuan Melayu Selangor", "Malayan Union", "Melayu Raya", "sejarah Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/rise-of-malay-nationalism/hero.webp'
+heroAlt: 'ภาพถ่ายขาวดำของอิบราฮิม ยาโกบ ผู้นำชาตินิยมมลายู สวมเสื้อแจ็กเก็ตติดกระดุม'
+heroCredit: 'Ibrahim Yaacob (Sekitar Malaya Merdeka, 1953) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ibrahim_Yaacob.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ก่อนที่จะมีพรรคระดับชาติใหญ่ใด ขบวนการมลายูเริ่มต้นในหอประชุมโรงเรียน ในหน้าหนังสือพิมพ์ และในห้องประชุมของสมาคมระดับรัฐขนาดเล็ก ระหว่างทศวรรษ 1930 กับปลายสงครามโลกครั้งที่สอง กระแสเหล่านี้เองที่ค่อย ๆ กลายเป็นพลังทางการเมืองที่ในปี 1946 สามารถรวมชาวมลายูเพื่อต่อต้านนโยบายหนึ่งของอังกฤษได้

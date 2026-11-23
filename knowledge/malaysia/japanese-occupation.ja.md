@@ -75,6 +75,13 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963", "melaka-sultanate"]
 keywords: ["pendudukan Jepun", "Tanah Melayu 1941-1945", "duit pisang", "Kota Bharu 1941", "pentadbiran tentera Jepun", "Perang Dunia Kedua Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/japanese-occupation/hero.webp'
+heroAlt: '1945年、日本統治の終わりを祝うパレードで、軍楽隊の金管バンドが街路を行進する民間人の群衆を先導している。'
+heroCredit: 'No 9 Army Film & Photographic Unit (Sgt A. W. Stubbs), Imperial War Museums / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:The_Japanese_Surrender_at_Singapore,_1945_SE4733.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 八週間。それが、日本軍がクランタンの海岸に最初に上陸してから、マラヤ全土が日本軍の手に落ちるまでの期間である——この地は、さまざまな形態で一世紀半以上にわたり英国に統治されてきた地域であった。

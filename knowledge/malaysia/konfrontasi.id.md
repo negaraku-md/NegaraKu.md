@@ -72,6 +72,13 @@ relations:
 related: ["formation-of-malaysia-1963", "singapore-separation-1965", "ma63"]
 keywords: ["Konfrontasi", "Konfrontasi Indonesia Malaysia", "Ganyang Malaysia", "Perjanjian Jakarta 1966", "pembentukan Malaysia 1963", "Sukarno Suharto"]
 framework: history-culture
+hero: '/media/malaysia/konfrontasi/hero.webp'
+heroAlt: 'Sebuah tugu peringatan batu yang terletak di ruang hijau kota yang ditata, mengenang mereka yang gugur dalam Konfrontasi Indonesia-Malaysia.'
+heroCredit: 'Chainwit. / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Memorial_to_the_Victims_of_Konfrontasi,_Dhoby_Ghaut_Green_(2025)_-_img_01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Malaysia dilahirkan pada 16 September 1963 ke dalam sebuah kawasan yang tidak menyambutnya dengan damai. Sebuah negara tetangga yang jauh lebih besar telah mendeklarasikan penentangannya, dan dalam hitungan bulan perbatasan Borneo yang baru itu menjadi garis depan bagi sebuah konflik bersenjata yang tidak pernah dideklarasikan secara resmi sebagai perang — tetapi berlangsung hampir empat tahun. Konflik itu dikenal sebagai Konfrontasi.

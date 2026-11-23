@@ -93,6 +93,13 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["Second Malayan Emergency", "Communist Party of Malaya", "Hat Yai Peace Agreement 1989", "North Kalimantan Communist Party", "Sarawak communist insurgency", "Sri Aman", "Chin Peng", "Kroh-Betong ambush"]
 framework: history-culture
+hero: '/media/malaysia/second-communist-insurgency-1968-1989/hero.webp'
+heroAlt: 'கோலாலம்பூரில் உள்ள வெண்கல Tugu Negara தேசிய நினைவுச்சின்னம், திறந்த வானத்தை நோக்கி நிற்கும், கொடியை உயர்த்தும் வீரர் சிலைகளின் குழு.'
+heroCredit: 'Renek78 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tugu_Negara_Kuala_Lumpur_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 மலேசியா தனது முதல் கம்யூனிஸ்ட் அவசரநிலை 31 July 1960 அன்று முடிவுக்கு வந்ததாக அறிவித்தது — பின்னர் அடுத்த மூன்று தசாப்தங்களில் பெரும்பகுதிக்கு ஒரு இரண்டாவது கிளர்ச்சியுடன் போராடியது. அரசாங்கம் தீபகற்பத்தின் விளிம்புகளுக்குத் தள்ளியிருந்த கெரில்லா படை, சண்டை முடிவுக்கு வந்ததாக அறிவிக்கப்பட்டபோது கலைந்துவிடவில்லை. அது தாய்லாந்து எல்லையைத் தாண்டி பின்வாங்கி, அங்கே மீண்டும் ஒன்றுதிரண்டு, எட்டு ஆண்டுகளுக்குப் பிறகு நடவடிக்கைகளை மீண்டும் தொடங்கியது.

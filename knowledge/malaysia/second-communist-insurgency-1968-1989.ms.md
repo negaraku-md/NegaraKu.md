@@ -93,6 +93,13 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["Second Malayan Emergency", "Communist Party of Malaya", "Hat Yai Peace Agreement 1989", "North Kalimantan Communist Party", "Sarawak communist insurgency", "Sri Aman", "Chin Peng", "Kroh-Betong ambush"]
 framework: history-culture
+hero: '/media/malaysia/second-communist-insurgency-1968-1989/hero.webp'
+heroAlt: 'Tugu Negara gangsa di Kuala Lumpur, sekumpulan patung askar menaikkan bendera, berdiri menghadap langit lapang.'
+heroCredit: 'Renek78 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tugu_Negara_Kuala_Lumpur_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Malaysia mengisytiharkan Darurat komunis pertamanya tamat pada 31 Julai 1960 — dan kemudian berdepan dengan pemberontakan kedua sepanjang sebahagian besar tiga dekad berikutnya. Tentera gerila yang telah ditolak oleh kerajaan ke pinggir semenanjung tidak dibubarkan apabila pertempuran diisytiharkan tamat. Ia berundur merentasi sempadan Thailand, berkumpul semula di sana, dan lapan tahun kemudian menyambung semula operasinya.

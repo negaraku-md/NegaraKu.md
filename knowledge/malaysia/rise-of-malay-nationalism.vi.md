@@ -84,6 +84,13 @@ relations:
 related: ["malayan-union"]
 keywords: ["nasionalisme Melayu", "Kesatuan Melayu Muda", "KMM", "Ibrahim Yaacob", "Persatuan Melayu Selangor", "Malayan Union", "Melayu Raya", "sejarah Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/rise-of-malay-nationalism/hero.webp'
+heroAlt: 'Chân dung đen trắng của nhà lãnh đạo dân tộc chủ nghĩa Mã Lai Ibrahim Yaacob trong chiếc áo khoác cài khuy.'
+heroCredit: 'Ibrahim Yaacob (Sekitar Malaya Merdeka, 1953) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ibrahim_Yaacob.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Trước khi có bất kỳ đảng dân tộc lớn nào, phong trào Mã Lai bắt đầu ở các hội trường trường học, trên trang báo, và trong các phòng họp của những hiệp hội cấp bang nhỏ bé. Giữa thập niên 1930 và cuối Thế chiến thứ Hai, chính những dòng chảy này dần dần hóa thành một sức mạnh chính trị mà, vào năm 1946, đã có thể hợp nhất người Mã Lai chống lại một chính sách của Anh.

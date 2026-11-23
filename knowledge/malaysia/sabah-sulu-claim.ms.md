@@ -96,6 +96,13 @@ relations:
 related: ["sabah"]
 keywords: ["Sabah claim", "Sulu Sultanate", "Lahad Datu", "1878 agreement", "North Borneo", "Sulu arbitration", "Philippines Sabah"]
 framework: explainer
+hero: '/media/malaysia/sabah-sulu-claim/hero.webp'
+heroAlt: 'Sebuah bulatan dan bangunan rendah di pusat pekan Lahad Datu, Sabah, di bawah langit cerah.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:LahadDatu_Sabah_TownView-05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Sepatah perkataan Melayu yang ditulis ke dalam suatu kontrak era penjajahan pada 1878 masih membentuk suatu pertikaian diplomatik yang hidup, satu pencerobohan bersenjata maut pada 2013, dan suatu timbang tara bernilai berbilion dolar yang sampai ke mahkamah di Madrid, Luxembourg, The Hague dan Paris. Perkataan itu ialah *padjak*, dan cara ia diterjemahkan menjadi teras kepada sama ada Sabah dipajak atau diserahkan.

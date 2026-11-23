@@ -96,6 +96,13 @@ relations:
 related: ["sabah"]
 keywords: ["Sabah claim", "Sulu Sultanate", "Lahad Datu", "1878 agreement", "North Borneo", "Sulu arbitration", "Philippines Sabah"]
 framework: explainer
+hero: '/media/malaysia/sabah-sulu-claim/hero.webp'
+heroAlt: 'Một bùng binh và những tòa nhà thấp tầng ở trung tâm thị trấn Lahad Datu, Sabah, dưới bầu trời trong sáng.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:LahadDatu_Sabah_TownView-05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Một từ tiếng Mã Lai duy nhất được viết vào một hợp đồng thời thuộc địa năm 1878 vẫn đang định hình một tranh chấp ngoại giao còn sống, một cuộc xâm nhập vũ trang chết chóc năm 2013, và một vụ trọng tài trị giá nhiều tỷ đô la đã đến các phòng xử ở Madrid, Luxembourg, The Hague và Paris. Từ đó là *padjak*, và cách nó được dịch nằm ở trung tâm của việc liệu Sabah đã được cho thuê hay đã được trao đi.

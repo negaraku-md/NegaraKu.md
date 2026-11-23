@@ -93,6 +93,13 @@ relations:
 related: ["formation-of-malaysia-1963"]
 keywords: ["Second Malayan Emergency", "Communist Party of Malaya", "Hat Yai Peace Agreement 1989", "North Kalimantan Communist Party", "Sarawak communist insurgency", "Sri Aman", "Chin Peng", "Kroh-Betong ambush"]
 framework: history-culture
+hero: '/media/malaysia/second-communist-insurgency-1968-1989/hero.webp'
+heroAlt: 'El Monumento Nacional Tugu Negara de bronce en Kuala Lumpur, con un grupo de figuras de soldados que alzan una bandera contra un cielo despejado.'
+heroCredit: 'Renek78 / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tugu_Negara_Kuala_Lumpur_1.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Malasia declaró terminada su primera Emergencia comunista el 31 de julio de 1960 — y después lidió con una segunda insurgencia durante buena parte de las tres décadas siguientes. El ejército guerrillero que el gobierno había empujado a los márgenes de la península no se disolvió cuando se declaró terminada la lucha. Se retiró al otro lado de la frontera tailandesa, se reagrupó allí y, ocho años más tarde, reanudó sus operaciones.

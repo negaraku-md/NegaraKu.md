@@ -96,6 +96,13 @@ relations:
 related: ["sabah"]
 keywords: ["सबाह दावा", "Sabah claim", "सुलु सल्तनत", "Sulu Sultanate", "लाहाद दातू", "Lahad Datu", "1878 समझौता", "1878 agreement", "उत्तरी बोर्नियो", "North Borneo", "सुलु मध्यस्थता", "Sulu arbitration", "फिलीपींस सबाह", "Philippines Sabah"]
 framework: explainer
+hero: '/media/malaysia/sabah-sulu-claim/hero.webp'
+heroAlt: 'साबाह के लाहद दातू नगर केंद्र में एक चौराहा और नीची इमारतें, एक उज्ज्वल आकाश के नीचे।'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:LahadDatu_Sabah_TownView-05.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1878 में औपनिवेशिक काल के एक अनुबंध में लिखा गया एक अकेला मलय शब्द आज भी एक जीवंत कूटनीतिक विवाद, 2013 के एक घातक सशस्त्र घुसपैठ, और एक बहु-अरब डॉलर की मध्यस्थता को आकार देता है, जो मदरीद, लक्ज़मबर्ग, द हेग और पेरिस की अदालतों तक पहुँची। वह शब्द है *padjak*, और उसका अनुवाद कैसे किया जाता है, यही इस प्रश्न के केंद्र में है कि सबाह को पट्टे पर दिया गया था या सौंप दिया गया था।
