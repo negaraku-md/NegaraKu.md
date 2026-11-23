@@ -349,12 +349,46 @@ async function main() {
   // cuts ~75% of the bytes (~42 KB PNG → ~10 KB) — a big saving on every listing
   // page (home/explore/latest/most-read/sections/search) for the mobile audience.
   const toThumb = (svg, file) => sharp(Buffer.from(svg)).resize(640, 336).webp({ quality: 72, effort: 6 }).toFile(file);
+  // --- Font-presence guard -----------------------------------------------------
+  // The box-glyph bug (CJK/Tamil/Thai/Arabic/Devanagari titles rendering as □□□)
+  // happens when a build runs without the required Noto script fonts resolving:
+  // libvips then types that whole run's non-Latin cards as fallback boxes, and the
+  // stale boxed cards stick on R2 (their content hash never changes, so they are
+  // never re-rendered). sharp/libvips render deterministically, so re-rendering the
+  // same card in-build can't recover it — the only robust guard is to not let such
+  // a build ship. Probe each script (its own font vs a Latin-only fallback): if they
+  // render to ~the same byte size, the "glyphs" are boxes and the font is missing.
+  // Fail the build in CI (so the deploy surfaces it and the fonts get fixed); only
+  // warn locally — dev machines legitimately lack these fonts and never deploy their
+  // OG cards. A normal build-og edit bumps the template hash below, so the next good
+  // deploy also regenerates (and thereby repairs) any previously-boxed cards.
+  const assertFontsPresent = async () => {
+    const PROBE = { zh: '测试文字', ja: 'テスト文字', ko: '테스트문자', ta: 'சோதனை', th: 'ทดสอบ', ar: 'اختبار', hi: 'परीक्षण' };
+    const FONT = { zh: "'Noto Sans CJK SC'", ja: "'Noto Sans CJK JP'", ko: "'Noto Sans CJK KR'", ta: "'Noto Sans Tamil'", th: "'Noto Sans Thai'", ar: "'Noto Naskh Arabic'", hi: "'Noto Sans Devanagari'" };
+    const render = (text, family) => sharp(Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" width="480" height="140"><rect width="100%" height="100%" fill="#000"/><text x="12" y="96" font-family="${family}" font-size="72" fill="#fff">${text}</text></svg>`)).png().toBuffer();
+    const missing = [];
+    for (const [lang, text] of Object.entries(PROBE)) {
+      try {
+        const [withFont, latin] = await Promise.all([render(text, FONT[lang] + ', sans-serif'), render(text, 'sans-serif')]);
+        if (withFont.length <= latin.length * 1.05) missing.push(lang); // script font ≈ Latin boxes → not resolving
+      } catch { missing.push(lang); }
+    }
+    if (missing.length) {
+      const msg = `[og] script fonts not resolving: ${missing.join(', ')} — their cards would render as box glyphs. Install Noto fonts (deploy.yml: cp assets/og-fonts/*.ttf ~/.fonts/ && fc-cache -f) before generating OG cards.`;
+      if (process.env.CI === 'true' || process.env.GITHUB_ACTIONS === 'true') throw new Error(msg);
+      console.warn(msg + ' (dev: continuing with box glyphs — these local cards are not deployed)');
+    }
+  };
   // Localized default cards: /og/default.png (ms) + /og/{en,zh}/default.png.
   await mkdir(path.join(OUT_DIR, 'en'), { recursive: true });
   await mkdir(path.join(OUT_DIR, 'zh'), { recursive: true });
   await toPng(defaultCard('ms'), path.join(OUT_DIR, 'default.png'));
   await toPng(defaultCard('en'), path.join(OUT_DIR, 'en', 'default.png'));
   await toPng(defaultCard('zh'), path.join(OUT_DIR, 'zh', 'default.png'));
+
+  // Guard: never generate a corpus of box-glyph cards because a build's non-Latin
+  // fonts weren't installed. Fails the build in CI; warns (and continues) locally.
+  await assertFontsPresent();
 
   let manifest = [];
   try {
@@ -424,7 +458,7 @@ async function main() {
             if (!thumbOk || !pngOk) await sharp(png).resize(640, 336).webp({ quality: 72, effort: 6 }).toFile(thumb);
           } else {
             const svg = articleSvg(a);
-            if (!pngOk) await toPng(svg, file);          // social og:image (unchanged)
+            if (!pngOk) await toPng(svg, file);          // social og:image
             if (!thumbOk || !pngOk) await toThumb(svg, thumb); // in-page card thumbnail
           }
           next[key] = hash;
