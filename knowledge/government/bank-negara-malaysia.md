@@ -105,6 +105,13 @@ relations:
   - { rel: "related-to", to: "lhdn" }
 related: ["dosm", "federal-budget", "lhdn"]
 keywords: ["Bank Negara Malaysia", "BNM", "central bank", "Central Bank of Malaysia Act 2009", "Overnight Policy Rate", "OPR", "ringgit", "monetary policy", "Foreign Exchange Policy", "financial stability"]
+hero: '/media/government/bank-negara-malaysia/hero.webp'
+heroAlt: 'A large grey modernist concrete office complex of stepped horizontal floors bearing the Bank Negara Malaysia emblem, rising above a screen of green trees and a roadside with hibiscus-flower lamp decorations.'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Central_Bank_of_Malaysia_headquarters,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Every time a headline says interest rates are holding, the ringgit slipped against

@@ -80,6 +80,13 @@ relations:
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "tiada Dewan Undangan Negeri", "Datuk Bandar dilantik", "DBKL Perbadanan Putrajaya Perbadanan Labuan", "Jabatan Wilayah Persekutuan", "Perkara 1 Perlembagaan Persekutuan", "pentadbiran wilayah persekutuan", "Federal Territory Malaysia governance"]
 framework: explainer
+hero: '/media/government/federal-territories-governance/hero.webp'
+heroAlt: '湖の対岸に広がるプトラジャヤ。左手にはピンク色のドームと高いミナレットを持つプトラ・モスク（Masjid Putra）、右手には緑色のドームの首相府庁舎ペルダナ・プトラ（Perdana Putra）が、曇り空の下に立っている。'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 州には、スルタン（Sultan）や州元首（Yang di-Pertua Negeri）がおり、州首相（Menteri Besar）や首席大臣（Ketua Menteri）がおり、そして住民が選ぶ州議会（Dewan Undangan Negeri）がある。しかしクアラルンプール、プトラジャヤ、ラブアンには、そのいずれも存在しない。この三つの地域は州ではなく——連邦直轄区（Wilayah Persekutuan）であり、連邦政府によって直接統治されている。

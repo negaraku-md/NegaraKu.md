@@ -80,6 +80,13 @@ relations:
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "tiada Dewan Undangan Negeri", "Datuk Bandar dilantik", "DBKL Perbadanan Putrajaya Perbadanan Labuan", "Jabatan Wilayah Persekutuan", "Perkara 1 Perlembagaan Persekutuan", "pentadbiran wilayah persekutuan", "Federal Territory Malaysia governance"]
 framework: explainer
+hero: '/media/government/federal-territories-governance/hero.webp'
+heroAlt: '湖对岸的布城（Putrajaya），左侧是拥有粉红色圆顶和高耸宣礼塔的布特拉清真寺（Masjid Putra），右侧是绿色圆顶的首相署行政大楼佩达纳布特拉（Perdana Putra），背景是阴云密布的天空。'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在一个州属，有苏丹或州元首，有州务大臣或首席部长，还有由人民选出的州立法议会。而在吉隆坡、布城和纳闽，这些一样也没有。这三个地方都不是州属——它们是联邦直辖区，由联邦政府直接管辖。

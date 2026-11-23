@@ -106,6 +106,13 @@ relations:
   - { rel: "related-to", to: "lhdn" }
 related: ["dosm", "federal-budget", "lhdn"]
 keywords: ["Bank Negara Malaysia", "BNM", "central bank", "Central Bank of Malaysia Act 2009", "Overnight Policy Rate", "OPR", "ringgit", "monetary policy", "Foreign Exchange Policy", "financial stability"]
+hero: '/media/government/bank-negara-malaysia/hero.webp'
+heroAlt: 'Un gran complejo de oficinas de hormigón de estilo modernista gris con plantas horizontales escalonadas que lleva el emblema del Bank Negara Malaysia, el banco central del país, alzándose sobre una hilera de árboles verdes y una vía decorada con faroles en forma de flor de hibisco.'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Central_Bank_of_Malaysia_headquarters,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Cada vez que un titular dice que los tipos de interés se mantienen, que el ringgit se deslizó frente al dólar o que a un banco se le ordenó endurecer sus préstamos, la misma institución está detrás de la historia. Opera desde un complejo con aire de fortaleza en Jalan Dato' Onn, en Kuala Lumpur, nunca te presta directamente un solo céntimo y, sin embargo, casi cada ringgit de tu bolsillo y cada préstamo de tu extracto pasan por reglas que ella escribe. Esa institución es Bank Negara Malaysia, y casi todo lo que la gente supone que hace es solo medio cierto o corresponde por completo a otra agencia.

@@ -80,6 +80,13 @@ relations:
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["संघीय क्षेत्र", "Wilayah Persekutuan", "कुआलालंपुर पुत्रजया लाबुआन", "कोई राज्य विधान सभा नहीं", "नियुक्त मेयर", "DBKL पुत्रजया निगम लाबुआन निगम", "संघीय क्षेत्र विभाग", "संघीय संविधान का अनुच्छेद 1", "संघीय क्षेत्रों का प्रशासन", "Federal Territory Malaysia governance"]
 framework: explainer
+hero: '/media/government/federal-territories-governance/hero.webp'
+heroAlt: 'झील के उस पार पुत्राजया, जहाँ बाईं ओर गुलाबी गुंबद और ऊँची मीनार वाली पुत्रा मस्जिद (Masjid Putra) और दाईं ओर हरे गुंबद वाला प्रधानमंत्री कार्यालय परिसर पेरदाना पुत्रा (Perdana Putra) बादलों भरे आसमान के नीचे दिखाई देता है।'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 किसी राज्य में एक सुल्तान या यांग दी-पर्तुआ नेगरी (Yang di-Pertua Negeri) होता है, एक मेंतेरी बेसार (Menteri Besar) या मुख्यमंत्री (Chief Minister) होता है, और जनता द्वारा निर्वाचित एक राज्य विधान सभा होती है। कुआलालंपुर, पुत्रजया और लाबुआन में इनमें से कुछ भी नहीं है। ये तीनों स्थान राज्य नहीं हैं — वे संघीय क्षेत्र हैं, और उनका प्रशासन सीधे संघीय सरकार द्वारा होता है।

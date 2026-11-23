@@ -106,6 +106,13 @@ relations:
   - { rel: "related-to", to: "lhdn" }
 related: ["dosm", "federal-budget", "lhdn"]
 keywords: ["Bank Negara Malaysia", "BNM", "central bank", "Central Bank of Malaysia Act 2009", "Overnight Policy Rate", "OPR", "ringgit", "monetary policy", "Foreign Exchange Policy", "financial stability"]
+hero: '/media/government/bank-negara-malaysia/hero.webp'
+heroAlt: 'மலேசிய மத்திய வங்கியான பேங்க் நெகாரா மலேசியாவின் (Bank Negara Malaysia) சின்னத்தைச் சுமந்த, படிப்படியாக அமைந்த கிடைமட்ட தளங்களைக் கொண்ட பெரிய சாம்பல் நிற நவீன காங்கிரீட் அலுவலக வளாகம், பச்சை மரங்களின் தொகுப்புக்கும் செம்பருத்திப் பூ வடிவ விளக்கு அலங்காரங்கள் கொண்ட சாலையோரத்துக்கும் மேலே உயர்ந்து நிற்கிறது.'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Central_Bank_of_Malaysia_headquarters,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 வட்டி விகிதங்கள் மாறாமல் இருக்கின்றன என்றோ, டாலருக்கு எதிராக ரிங்கிட் சறுக்கியது என்றோ, அல்லது ஒரு வங்கிக்குக் கடன் வழங்குவதைக் கட்டுப்படுத்தச் சொல்லப்பட்டது என்றோ ஒரு தலைப்புச்செய்தி கூறும் ஒவ்வொரு முறையும், அக்கதையின் பின்னால் அதே நிறுவனம் அமர்ந்திருக்கிறது. இது கோலாலம்பூரில் ஜாலான் டத்தோ ஆன் (Jalan Dato' Onn) சாலையிலுள்ள கோட்டை போன்ற ஒரு வளாகத்திலிருந்து செயல்படுகிறது, அது உங்களுக்கு நேரடியாக ஒரு சதமும் கடன் தருவதில்லை, ஆயினும் உங்கள் பையிலுள்ள கிட்டத்தட்ட ஒவ்வொரு ரிங்கிட்டும், உங்கள் அறிக்கையிலுள்ள ஒவ்வொரு கடனும் அது எழுதும் விதிகளைக் கடந்துசெல்கின்றன. அந்த நிறுவனம்தான் வங்கி நெகாரா மலேசியா — மேலும் அது செய்கிறது என்று மக்கள் கருதுவதில் பெரும்பாலானவை அரைகுறையாக மட்டுமே சரியானவை, அல்லது முற்றிலும் வேறொரு முகமைக்கு உரியவை.

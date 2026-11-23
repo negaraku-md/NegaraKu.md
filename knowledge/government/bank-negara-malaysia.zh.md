@@ -106,6 +106,13 @@ relations:
   - { rel: "related-to", to: "lhdn" }
 related: ["dosm", "federal-budget", "lhdn"]
 keywords: ["Bank Negara Malaysia", "BNM", "central bank", "Central Bank of Malaysia Act 2009", "Overnight Policy Rate", "OPR", "ringgit", "monetary policy", "Foreign Exchange Policy", "financial stability"]
+hero: '/media/government/bank-negara-malaysia/hero.webp'
+heroAlt: '一座灰色现代主义混凝土办公楼群，层层横向叠退，楼体上刻有马来西亚国家银行（Bank Negara Malaysia）徽章，矗立在一排绿树之上，路旁装饰着大红花造型的灯饰。'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Central_Bank_of_Malaysia_headquarters,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 每当新闻标题说利率维持不变、令吉兑美元下滑，或某家银行被要求收紧放贷时，

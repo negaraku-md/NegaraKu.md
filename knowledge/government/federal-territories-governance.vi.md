@@ -80,6 +80,13 @@ relations:
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "tiada Dewan Undangan Negeri", "Datuk Bandar dilantik", "DBKL Perbadanan Putrajaya Perbadanan Labuan", "Jabatan Wilayah Persekutuan", "Perkara 1 Perlembagaan Persekutuan", "pentadbiran wilayah persekutuan", "Federal Territory Malaysia governance"]
 framework: explainer
+hero: '/media/government/federal-territories-governance/hero.webp'
+heroAlt: 'Putrajaya bên kia hồ, với Nhà thờ Hồi giáo Putra mái vòm hồng cùng ngọn tháp cao bên trái và khu phức hợp chính phủ Perdana Putra mái vòm xanh lục bên phải dưới bầu trời nhiều mây.'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Ở một bang, có Sultan hoặc Thống đốc Bang, có Thủ hiến (Menteri Besar hoặc Ketua Menteri), và có Hội đồng Lập pháp Bang do dân bầu. Ở Kuala Lumpur, Putrajaya và Labuan, không có bất kỳ điều nào trong số đó. Cả ba nơi này không phải là bang — chúng là Lãnh thổ Liên bang, và được Chính phủ Liên bang quản lý trực tiếp.

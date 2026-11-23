@@ -106,6 +106,13 @@ relations:
   - { rel: "related-to", to: "lhdn" }
 related: ["dosm", "federal-budget", "lhdn"]
 keywords: ["Bank Negara Malaysia", "BNM", "central bank", "Central Bank of Malaysia Act 2009", "Overnight Policy Rate", "OPR", "ringgit", "monetary policy", "Foreign Exchange Policy", "financial stability"]
+hero: '/media/government/bank-negara-malaysia/hero.webp'
+heroAlt: 'マレーシア中央銀行であるバンク・ヌガラ・マレーシア（Bank Negara Malaysia）の紋章を掲げ、水平に段状に重なる階層を持つ大きな灰色のモダニズム建築のコンクリート製オフィス群が、緑の木々の列とハイビスカスの花をかたどった街灯の飾りが並ぶ道路沿いの上にそびえ立っている。'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Central_Bank_of_Malaysia_headquarters,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 見出しが金利を据え置くと報じるとき、リンギットが対ドルで下落したとき、あるいは

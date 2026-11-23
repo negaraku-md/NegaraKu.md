@@ -106,6 +106,13 @@ relations:
   - { rel: "related-to", to: "lhdn" }
 related: ["dosm", "federal-budget", "lhdn"]
 keywords: ["Bank Negara Malaysia", "BNM", "central bank", "Central Bank of Malaysia Act 2009", "Overnight Policy Rate", "OPR", "ringgit", "monetary policy", "Foreign Exchange Policy", "financial stability"]
+hero: '/media/government/bank-negara-malaysia/hero.webp'
+heroAlt: 'อาคารสำนักงานคอนกรีตสไตล์โมเดิร์นสีเทาขนาดใหญ่ซึ่งมีชั้นแนวนอนซ้อนลดหลั่นกัน ประดับตราสัญลักษณ์ของธนาคารกลางมาเลเซีย ธนาคารเนการามาเลเซีย (Bank Negara Malaysia) ตั้งตระหง่านเหนือแนวต้นไม้สีเขียวและริมถนนที่ตกแต่งด้วยโคมไฟรูปดอกชบา'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Central_Bank_of_Malaysia_headquarters,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ทุกครั้งที่พาดหัวข่าวบอกว่าอัตราดอกเบี้ยคงที่ ริงกิตอ่อนค่าเทียบกับดอลลาร์ หรือธนาคารแห่งหนึ่งถูกสั่งให้เข้มงวดการปล่อยสินเชื่อ สถาบันเดียวกันนั้นก็นั่งอยู่เบื้องหลังเรื่องราวเสมอ สถาบันนี้ทำงานอยู่ในอาคารคอมเพล็กซ์คล้ายป้อมปราการบนถนนจาลัน ดาโต๊ะ ออน (Jalan Dato' Onn) ในกัวลาลัมเปอร์ มันไม่เคยปล่อยกู้ให้คุณสักเซ็นต์โดยตรง แต่กระนั้นแทบทุกริงกิตในกระเป๋าของคุณและทุกสินเชื่อในใบแจ้งยอดของคุณก็ผ่านกฎเกณฑ์ที่มันเขียนขึ้น สถาบันนั้นคือธนาคารกลางมาเลเซีย (Bank Negara Malaysia)——และสิ่งที่ผู้คนส่วนใหญ่สันนิษฐานว่ามันทำนั้น ไม่ก็ถูกเพียงครึ่งเดียว หรือเป็นของหน่วยงานอื่นไปเลย

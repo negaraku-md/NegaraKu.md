@@ -79,6 +79,13 @@ relations:
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "tiada Dewan Undangan Negeri", "Datuk Bandar dilantik", "DBKL Perbadanan Putrajaya Perbadanan Labuan", "Jabatan Wilayah Persekutuan", "Perkara 1 Perlembagaan Persekutuan", "pentadbiran wilayah persekutuan", "Federal Territory Malaysia governance"]
 framework: explainer
+hero: '/media/government/federal-territories-governance/hero.webp'
+heroAlt: 'Putrajaya di seberang tasik, dengan Masjid Putra berkubah merah jambu dan menaranya yang tinggi di sebelah kiri serta kompleks kerajaan Perdana Putra berkubah hijau di sebelah kanan di bawah langit mendung.'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Di sebuah negeri, ada Sultan atau Yang di-Pertua Negeri, ada Menteri Besar atau Ketua Menteri, dan ada Dewan Undangan Negeri yang dipilih rakyat. Di Kuala Lumpur, Putrajaya dan Labuan, tiada satu pun daripada itu. Ketiga-tiga tempat ini bukan negeri — ia Wilayah Persekutuan, dan ia ditadbir terus oleh Kerajaan Persekutuan.

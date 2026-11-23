@@ -80,6 +80,13 @@ relations:
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "tiada Dewan Undangan Negeri", "Datuk Bandar dilantik", "DBKL Perbadanan Putrajaya Perbadanan Labuan", "Jabatan Wilayah Persekutuan", "Perkara 1 Perlembagaan Persekutuan", "pentadbiran wilayah persekutuan", "Federal Territory Malaysia governance"]
 framework: explainer
+hero: '/media/government/federal-territories-governance/hero.webp'
+heroAlt: 'เมืองปุตราจายาอีกฟากหนึ่งของทะเลสาบ โดยมีมัสยิดปุตรา (Masjid Putra) ที่มีโดมสีชมพูและหอคอยสูงอยู่ทางซ้าย และอาคารสำนักนายกรัฐมนตรีเปอร์ดานาปุตรา (Perdana Putra) ที่มีโดมสีเขียวอยู่ทางขวา ภายใต้ท้องฟ้าที่มีเมฆครึ้ม'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ในรัฐหนึ่ง มีสุลต่านหรือผู้ว่าการรัฐ (Yang di-Pertua Negeri) มีมุขมนตรี (Menteri Besar) หรือหัวหน้าคณะรัฐมนตรีของรัฐ (Ketua Menteri) และมีสภานิติบัญญัติแห่งรัฐที่มาจากการเลือกตั้งของประชาชน ในกัวลาลัมเปอร์ ปุตราจายา และลาบวน ไม่มีสักอย่างในสิ่งเหล่านั้น สามที่นี้ไม่ใช่รัฐ — เป็นดินแดนสหพันธ์ และถูกปกครองโดยตรงโดยรัฐบาลสหพันธ์

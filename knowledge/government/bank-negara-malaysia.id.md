@@ -106,6 +106,13 @@ relations:
   - { rel: "related-to", to: "lhdn" }
 related: ["dosm", "federal-budget", "lhdn"]
 keywords: ["Bank Negara Malaysia", "BNM", "central bank", "Central Bank of Malaysia Act 2009", "Overnight Policy Rate", "OPR", "ringgit", "monetary policy", "Foreign Exchange Policy", "financial stability"]
+hero: '/media/government/bank-negara-malaysia/hero.webp'
+heroAlt: 'Kompleks kantor beton modern berwarna abu-abu bertingkat horizontal yang menampilkan lambang Bank Negara Malaysia, menjulang di atas barisan pepohonan hijau dan tepi jalan yang dihiasi lampu berbentuk bunga sepatu.'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Central_Bank_of_Malaysia_headquarters,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Setiap kali sebuah tajuk berita menyebut suku bunga ditahan, ringgit melemah terhadap dolar, atau sebuah bank diminta memperketat pinjamannya, lembaga yang sama selalu berada di balik cerita itu. Lembaga ini beroperasi dari kompleks mirip benteng di Jalan Dato' Onn, Kuala Lumpur, ia tidak pernah meminjamkan Anda satu sen pun secara langsung, namun hampir setiap ringgit di kantong Anda dan setiap pinjaman pada tagihan Anda melewati aturan yang ia tulis. Lembaga itu adalah Bank Negara Malaysia——dan sebagian besar yang orang asumsikan ia lakukan ternyata hanya setengah benar atau justru menjadi urusan lembaga lain sama sekali.

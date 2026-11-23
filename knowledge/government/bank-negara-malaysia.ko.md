@@ -106,6 +106,13 @@ relations:
   - { rel: "related-to", to: "lhdn" }
 related: ["dosm", "federal-budget", "lhdn"]
 keywords: ["Bank Negara Malaysia", "BNM", "central bank", "Central Bank of Malaysia Act 2009", "Overnight Policy Rate", "OPR", "ringgit", "monetary policy", "Foreign Exchange Policy", "financial stability"]
+hero: '/media/government/bank-negara-malaysia/hero.webp'
+heroAlt: '말레이시아 중앙은행인 방크 느가라 말레이시아(Bank Negara Malaysia)의 문장이 새겨진, 수평으로 층층이 쌓인 커다란 회색 모더니즘 콘크리트 사무 단지가 푸른 나무들과 히비스커스 꽃 모양 가로등 장식이 늘어선 도로 위로 솟아 있다.'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Central_Bank_of_Malaysia_headquarters,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 금리가 동결되었다거나, 링깃이 달러 대비 하락했다거나, 어느 은행이 대출을 조이라는 요구를 받았다는 헤드라인이 나올 때마다 그 이야기 뒤에는 늘 같은 기관이 있다. 그 기관은 쿠알라룸푸르의 잘란 다토 온(Jalan Dato' Onn)에 자리한 요새 같은 복합건물에서 업무를 보며, 당신에게 단 한 푼도 직접 빌려주지 않지만, 그럼에도 당신 주머니 속의 거의 모든 링깃과 당신 명세서 위의 모든 대출은 그 기관이 작성하는 규칙을 거친다. 그 기관이 바로 말레이시아 중앙은행(Bank Negara Malaysia)이다——그리고 사람들이 그 역할에 대해 가정하는 것 대부분은 절반만 맞거나, 아예 다른 기관의 소관이다.

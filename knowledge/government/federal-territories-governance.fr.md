@@ -80,6 +80,13 @@ relations:
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["Territoire fédéral", "Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "sans Assemblée législative d'État", "Maire nommé", "DBKL Corporation de Putrajaya Corporation de Labuan", "Département des territoires fédéraux", "Article 1 de la Constitution fédérale", "administration des territoires fédéraux", "Federal Territory Malaysia governance"]
 framework: explainer
+hero: '/media/government/federal-territories-governance/hero.webp'
+heroAlt: 'Putrajaya de l''autre côté du lac, avec la mosquée Putra à la coupole rose et son haut minaret à gauche et le complexe gouvernemental Perdana Putra à la coupole verte à droite sous un ciel nuageux.'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Dans un État, il y a un Sultan ou un Yang di-Pertua Negeri, il y a un Menteri Besar ou un Ministre en chef, et il y a une Assemblée législative d'État élue par le peuple. À Kuala Lumpur, Putrajaya et Labuan, rien de tout cela n'existe. Ces trois lieux ne sont pas des États — ce sont des Territoires fédéraux, et ils sont administrés directement par le gouvernement fédéral.

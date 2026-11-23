@@ -80,6 +80,13 @@ relations:
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "tiada Dewan Undangan Negeri", "Datuk Bandar dilantik", "DBKL Perbadanan Putrajaya Perbadanan Labuan", "Jabatan Wilayah Persekutuan", "Perkara 1 Perlembagaan Persekutuan", "pentadbiran wilayah persekutuan", "Federal Territory Malaysia governance"]
 framework: explainer
+hero: '/media/government/federal-territories-governance/hero.webp'
+heroAlt: '호수 건너편의 푸트라자야. 왼쪽에는 분홍색 돔과 높은 첨탑을 지닌 푸트라 모스크(Masjid Putra)가, 오른쪽에는 녹색 돔의 총리실 청사 페르다나 푸트라(Perdana Putra)가 흐린 하늘 아래 자리하고 있다.'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 한 주(state)에는 술탄이나 주지사(Yang di-Pertua Negeri)가 있고, 주총리(Menteri Besar)나 수석장관(Ketua Menteri)이 있으며, 국민이 선출한 주 입법의회(Dewan Undangan Negeri)가 있습니다. 쿠알라룸푸르(Kuala Lumpur), 푸트라자야(Putrajaya), 라부안(Labuan)에는 그중 어느 것도 없습니다. 이 세 곳은 주가 아니라 — 연방직할구이며, 연방정부가 직접 통치합니다.

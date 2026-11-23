@@ -80,6 +80,13 @@ relations:
 related: ["federal-state-division", "state-assemblies-dun", "three-tiers-of-government", "dewan-rakyat", "dewan-negara"]
 keywords: ["الأقاليم الاتحادية", "Wilayah Persekutuan", "كوالالمبور بوتراجايا لابوان", "لا مجلس تشريعي للولاية", "عمدة معيّن", "DBKL هيئة بوتراجايا هيئة لابوان", "دائرة الأقاليم الاتحادية", "المادة 1 من الدستور الاتحادي", "إدارة الأقاليم الاتحادية", "Federal Territory Malaysia governance"]
 framework: explainer
+hero: '/media/government/federal-territories-governance/hero.webp'
+heroAlt: 'بوتراجايا على الضفة المقابلة للبحيرة، حيث يقع مسجد بوترا ذو القبة الوردية ومئذنته الشاهقة على اليسار، ومجمّع بيردانا بوترا الحكومي ذو القبة الخضراء على اليمين تحت سماء ملبّدة بالغيوم.'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في الولاية، هناك سلطان أو يانغ دي-بِرتوا نيݢري (Yang di-Pertua Negeri)، وهناك رئيس وزراء الولاية (Menteri Besar) أو كبير الوزراء (Chief Minister)، وهناك مجلس تشريعي للولاية ينتخبه الناس. أما في كوالالمبور وبوتراجايا ولابوان، فلا شيء من ذلك. فهذه الأماكن الثلاثة ليست ولايات — بل هي أقاليم اتحادية، وتديرها الحكومة الاتحادية مباشرةً.

@@ -106,6 +106,13 @@ relations:
   - { rel: "related-to", to: "lhdn" }
 related: ["dosm", "federal-budget", "lhdn"]
 keywords: ["Bank Negara Malaysia", "BNM", "central bank", "Central Bank of Malaysia Act 2009", "Overnight Policy Rate", "OPR", "ringgit", "monetary policy", "Foreign Exchange Policy", "financial stability"]
+hero: '/media/government/bank-negara-malaysia/hero.webp'
+heroAlt: 'क्षैतिज रूप से सीढ़ीनुमा मंज़िलों वाला एक बड़ा धूसर आधुनिकतावादी कंक्रीट कार्यालय परिसर, जिस पर मलेशिया के केंद्रीय बैंक, बैंक नेगारा मलेशिया (Bank Negara Malaysia) का प्रतीक चिह्न अंकित है, हरे पेड़ों की कतार और गुड़हल के फूल के आकार की बत्तियों से सजे सड़क किनारे के ऊपर उभरा हुआ है।'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Central_Bank_of_Malaysia_headquarters,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 हर बार जब कोई सुर्खी कहती है कि ब्याज दरें स्थिर हैं, रिंगिट डॉलर के मुकाबले फिसल गया, या किसी बैंक को अपनी उधारी कसने को कहा गया, तो उसी कहानी के पीछे वही संस्था बैठी होती है। यह कुआलालंपुर में जालान दातो ओन (Jalan Dato' Onn) पर एक किले-जैसे परिसर से काम करती है, यह आपको सीधे एक पैसा भी उधार नहीं देती, फिर भी आपकी जेब का लगभग हर रिंगिट और आपके विवरण पर दर्ज हर ऋण उसके बनाए नियमों से होकर गुजरता है। वह संस्था है बैंक नेगारा मलेशिया (Bank Negara Malaysia) — और लोग इसके बारे में जो मानते हैं उसका अधिकांश या तो केवल आधा सही है या पूरी तरह किसी दूसरी एजेंसी का है।

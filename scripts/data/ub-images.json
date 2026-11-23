@@ -6501,5 +6501,29 @@
       "alt": "The tall ornate facade of the Immigration Department of Malaysia headquarters in Putrajaya, bearing the Jabatan Imigresen Malaysia name and departmental crest, with flags flying above the entrance.",
       "position": "centre"
     }
+  },
+  "government/bank-negara-malaysia": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Central_Bank_of_Malaysia_headquarters%2C_Kuala_Lumpur.jpg",
+      "license": "CC BY-SA 3.0",
+      "by": "User:Two hundred percent.",
+      "page": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Malaysia_headquarters,_Kuala_Lumpur.jpg",
+      "kind": "actual",
+      "subject": "The Bank Negara Malaysia (central bank) headquarters on Jalan Dato' Onn in Kuala Lumpur.",
+      "alt": "A large grey modernist concrete office complex of stepped horizontal floors bearing the Bank Negara Malaysia emblem, rising above a screen of green trees and a roadside with hibiscus-flower lamp decorations.",
+      "position": "top"
+    }
+  },
+  "government/federal-territories-governance": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg",
+      "license": "CC BY-SA 3.0",
+      "by": "Stefan Fussan",
+      "page": "https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg",
+      "kind": "actual",
+      "subject": "The administrative city of Putrajaya, a federal territory, seen across Putrajaya Lake: the pink-domed Putra Mosque on the left and the green-domed Perdana Putra prime minister's office complex on the right.",
+      "alt": "Putrajaya across the lake, with the pink-domed Putra Mosque and its tall minaret on the left and the green-domed Perdana Putra government complex on the right under a cloudy sky.",
+      "position": "attention"
+    }
   }
 }

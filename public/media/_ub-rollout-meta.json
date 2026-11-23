@@ -7901,5 +7901,33 @@
       "kb": 98
     },
     "body": []
+  },
+  "government/bank-negara-malaysia": {
+    "hero": {
+      "file": "/media/government/bank-negara-malaysia/hero.webp",
+      "credit": "User:Two hundred percent. / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Malaysia_headquarters,_Kuala_Lumpur.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "The Bank Negara Malaysia (central bank) headquarters on Jalan Dato' Onn in Kuala Lumpur.",
+      "alt": "A large grey modernist concrete office complex of stepped horizontal floors bearing the Bank Negara Malaysia emblem, rising above a screen of green trees and a roadside with hibiscus-flower lamp decorations.",
+      "kb": 166
+    },
+    "body": []
+  },
+  "government/federal-territories-governance": {
+    "hero": {
+      "file": "/media/government/federal-territories-governance/hero.webp",
+      "credit": "Stefan Fussan / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "The administrative city of Putrajaya, a federal territory, seen across Putrajaya Lake: the pink-domed Putra Mosque on the left and the green-domed Perdana Putra prime minister's office complex on the right.",
+      "alt": "Putrajaya across the lake, with the pink-domed Putra Mosque and its tall minaret on the left and the green-domed Perdana Putra government complex on the right under a cloudy sky.",
+      "kb": 155
+    },
+    "body": []
   }
 }

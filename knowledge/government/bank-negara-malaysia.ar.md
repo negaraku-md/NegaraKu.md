@@ -106,6 +106,13 @@ relations:
   - { rel: "related-to", to: "lhdn" }
 related: ["dosm", "federal-budget", "lhdn"]
 keywords: ["Bank Negara Malaysia", "BNM", "central bank", "Central Bank of Malaysia Act 2009", "Overnight Policy Rate", "OPR", "ringgit", "monetary policy", "Foreign Exchange Policy", "financial stability"]
+hero: '/media/government/bank-negara-malaysia/hero.webp'
+heroAlt: 'مجمع مكاتب خرساني حديث كبير رمادي اللون ذو طوابق أفقية متدرجة يحمل شعار بنك نيجارا ماليزيا (البنك المركزي الماليزي)، يرتفع فوق صف من الأشجار الخضراء وجانب طريق مزيّن بمصابيح على شكل زهرة الخطمي.'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Central_Bank_of_Malaysia_headquarters,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في كل مرة يقول فيها عنوان صحفي إن أسعار الفائدة ثابتة، أو إن الرينغيت انزلق أمام الدولار، أو إن بنكًا طُلب منه تشديد الإقراض، تكون المؤسسة ذاتها جالسة خلف القصة. إنها تعمل من مجمّع يشبه الحصن في شارع جالان داتو أون (Jalan Dato' Onn) في كوالالمبور، ولا تقرضك أبدًا سنتًا واحدًا مباشرة، ومع ذلك فإن كل رينغيت تقريبًا في جيبك وكل قرض في كشف حسابك يمر عبر قواعد تضعها هي. تلك المؤسسة هي بنك نيغارا ماليزيا (Bank Negara Malaysia) — ومعظم ما يفترض الناس أنها تفعله إما نصف صحيح فقط أو يخص جهة أخرى تمامًا.

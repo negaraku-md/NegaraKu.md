@@ -1,7 +1,7 @@
 {
   "_note": "Localized hero-image alt-text (heroAlt) per article, all 13 languages. heroAlt is FRESHNESS-NEUTRAL (not in the translation hash), so these inject with zero stale cascade. Rebuild/re-apply with scripts/build-heroalt.mjs --apply. English is canonical; add a new article + its translations here when a new hero lands.",
   "_generatedBy": "consolidated from heroAlt localization pass 2026-11-21",
-  "count": 435,
+  "count": 437,
   "langs": [
     "en",
     "ms",
@@ -6542,6 +6542,36 @@
       "ar": "الواجهة العالية المزخرفة لمقرّ إدارة الهجرة الماليزية في بوتراجايا، تحمل اسم جاباتان إيميڨريسن ماليزيا وشعار الإدارة، مع أعلام ترفرف فوق المدخل.",
       "es": "La alta y ornamentada fachada de la sede del Departamento de Inmigración de Malasia en Putrajaya, que luce el nombre Jabatan Imigresen Malaysia y el escudo del departamento, con banderas ondeando sobre la entrada.",
       "fr": "La haute façade ornementée du siège du Département de l'Immigration de Malaisie à Putrajaya, portant le nom Jabatan Imigresen Malaysia et l'écusson du département, avec des drapeaux flottant au-dessus de l'entrée."
+    },
+    "government/bank-negara-malaysia": {
+      "en": "A large grey modernist concrete office complex of stepped horizontal floors bearing the Bank Negara Malaysia emblem, rising above a screen of green trees and a roadside with hibiscus-flower lamp decorations.",
+      "ms": "Kompleks pejabat konkrit moden kelabu bertingkat-tingkat mendatar yang mempamerkan lambang Bank Negara Malaysia, menjulang di atas deretan pokok hijau dan tepi jalan berhiaskan lampu berbentuk bunga raya.",
+      "zh": "一座灰色现代主义混凝土办公楼群，层层横向叠退，楼体上刻有马来西亚国家银行（Bank Negara Malaysia）徽章，矗立在一排绿树之上，路旁装饰着大红花造型的灯饰。",
+      "ta": "மலேசிய மத்திய வங்கியான பேங்க் நெகாரா மலேசியாவின் (Bank Negara Malaysia) சின்னத்தைச் சுமந்த, படிப்படியாக அமைந்த கிடைமட்ட தளங்களைக் கொண்ட பெரிய சாம்பல் நிற நவீன காங்கிரீட் அலுவலக வளாகம், பச்சை மரங்களின் தொகுப்புக்கும் செம்பருத்திப் பூ வடிவ விளக்கு அலங்காரங்கள் கொண்ட சாலையோரத்துக்கும் மேலே உயர்ந்து நிற்கிறது.",
+      "ja": "マレーシア中央銀行であるバンク・ヌガラ・マレーシア（Bank Negara Malaysia）の紋章を掲げ、水平に段状に重なる階層を持つ大きな灰色のモダニズム建築のコンクリート製オフィス群が、緑の木々の列とハイビスカスの花をかたどった街灯の飾りが並ぶ道路沿いの上にそびえ立っている。",
+      "ko": "말레이시아 중앙은행인 방크 느가라 말레이시아(Bank Negara Malaysia)의 문장이 새겨진, 수평으로 층층이 쌓인 커다란 회색 모더니즘 콘크리트 사무 단지가 푸른 나무들과 히비스커스 꽃 모양 가로등 장식이 늘어선 도로 위로 솟아 있다.",
+      "th": "อาคารสำนักงานคอนกรีตสไตล์โมเดิร์นสีเทาขนาดใหญ่ซึ่งมีชั้นแนวนอนซ้อนลดหลั่นกัน ประดับตราสัญลักษณ์ของธนาคารกลางมาเลเซีย ธนาคารเนการามาเลเซีย (Bank Negara Malaysia) ตั้งตระหง่านเหนือแนวต้นไม้สีเขียวและริมถนนที่ตกแต่งด้วยโคมไฟรูปดอกชบา",
+      "vi": "Một khu phức hợp văn phòng bê tông theo phong cách hiện đại màu xám lớn với các tầng ngang xếp bậc, mang biểu tượng của Ngân hàng Trung ương Malaysia Bank Negara Malaysia, vươn cao phía trên hàng cây xanh và lề đường được trang trí bằng đèn hình hoa dâm bụt.",
+      "id": "Kompleks kantor beton modern berwarna abu-abu bertingkat horizontal yang menampilkan lambang Bank Negara Malaysia, menjulang di atas barisan pepohonan hijau dan tepi jalan yang dihiasi lampu berbentuk bunga sepatu.",
+      "ar": "مجمع مكاتب خرساني حديث كبير رمادي اللون ذو طوابق أفقية متدرجة يحمل شعار بنك نيجارا ماليزيا (البنك المركزي الماليزي)، يرتفع فوق صف من الأشجار الخضراء وجانب طريق مزيّن بمصابيح على شكل زهرة الخطمي.",
+      "hi": "क्षैतिज रूप से सीढ़ीनुमा मंज़िलों वाला एक बड़ा धूसर आधुनिकतावादी कंक्रीट कार्यालय परिसर, जिस पर मलेशिया के केंद्रीय बैंक, बैंक नेगारा मलेशिया (Bank Negara Malaysia) का प्रतीक चिह्न अंकित है, हरे पेड़ों की कतार और गुड़हल के फूल के आकार की बत्तियों से सजे सड़क किनारे के ऊपर उभरा हुआ है।",
+      "es": "Un gran complejo de oficinas de hormigón de estilo modernista gris con plantas horizontales escalonadas que lleva el emblema del Bank Negara Malaysia, el banco central del país, alzándose sobre una hilera de árboles verdes y una vía decorada con faroles en forma de flor de hibisco.",
+      "fr": "Un vaste complexe de bureaux en béton de style moderniste gris aux étages horizontaux en gradins portant l'emblème de la Bank Negara Malaysia, la banque centrale du pays, s'élevant au-dessus d'un rideau d'arbres verts et d'un bord de route orné de lampadaires en forme de fleur d'hibiscus."
+    },
+    "government/federal-territories-governance": {
+      "en": "Putrajaya across the lake, with the pink-domed Putra Mosque and its tall minaret on the left and the green-domed Perdana Putra government complex on the right under a cloudy sky.",
+      "ms": "Putrajaya di seberang tasik, dengan Masjid Putra berkubah merah jambu dan menaranya yang tinggi di sebelah kiri serta kompleks kerajaan Perdana Putra berkubah hijau di sebelah kanan di bawah langit mendung.",
+      "zh": "湖对岸的布城（Putrajaya），左侧是拥有粉红色圆顶和高耸宣礼塔的布特拉清真寺（Masjid Putra），右侧是绿色圆顶的首相署行政大楼佩达纳布特拉（Perdana Putra），背景是阴云密布的天空。",
+      "ta": "ஏரிக்கு அப்பால் அமைந்த புத்ராஜெயா, இடதுபுறம் இளஞ்சிவப்பு குவிமாடமும் உயரமான கோபுரமும் கொண்ட புத்ரா பள்ளிவாசலும் (Masjid Putra), வலதுபுறம் பச்சை குவிமாடம் கொண்ட பெர்தானா புத்ரா அரசாங்க வளாகமும் மேகமூட்டமான வானத்தின் கீழ் காட்சியளிக்கின்றன.",
+      "ja": "湖の対岸に広がるプトラジャヤ。左手にはピンク色のドームと高いミナレットを持つプトラ・モスク（Masjid Putra）、右手には緑色のドームの首相府庁舎ペルダナ・プトラ（Perdana Putra）が、曇り空の下に立っている。",
+      "ko": "호수 건너편의 푸트라자야. 왼쪽에는 분홍색 돔과 높은 첨탑을 지닌 푸트라 모스크(Masjid Putra)가, 오른쪽에는 녹색 돔의 총리실 청사 페르다나 푸트라(Perdana Putra)가 흐린 하늘 아래 자리하고 있다.",
+      "th": "เมืองปุตราจายาอีกฟากหนึ่งของทะเลสาบ โดยมีมัสยิดปุตรา (Masjid Putra) ที่มีโดมสีชมพูและหอคอยสูงอยู่ทางซ้าย และอาคารสำนักนายกรัฐมนตรีเปอร์ดานาปุตรา (Perdana Putra) ที่มีโดมสีเขียวอยู่ทางขวา ภายใต้ท้องฟ้าที่มีเมฆครึ้ม",
+      "vi": "Putrajaya bên kia hồ, với Nhà thờ Hồi giáo Putra mái vòm hồng cùng ngọn tháp cao bên trái và khu phức hợp chính phủ Perdana Putra mái vòm xanh lục bên phải dưới bầu trời nhiều mây.",
+      "id": "Putrajaya di seberang danau, dengan Masjid Putra berkubah merah muda dan menaranya yang menjulang di sebelah kiri serta kompleks pemerintahan Perdana Putra berkubah hijau di sebelah kanan di bawah langit mendung.",
+      "ar": "بوتراجايا على الضفة المقابلة للبحيرة، حيث يقع مسجد بوترا ذو القبة الوردية ومئذنته الشاهقة على اليسار، ومجمّع بيردانا بوترا الحكومي ذو القبة الخضراء على اليمين تحت سماء ملبّدة بالغيوم.",
+      "hi": "झील के उस पार पुत्राजया, जहाँ बाईं ओर गुलाबी गुंबद और ऊँची मीनार वाली पुत्रा मस्जिद (Masjid Putra) और दाईं ओर हरे गुंबद वाला प्रधानमंत्री कार्यालय परिसर पेरदाना पुत्रा (Perdana Putra) बादलों भरे आसमान के नीचे दिखाई देता है।",
+      "es": "Putrajaya al otro lado del lago, con la Mezquita Putra de cúpula rosada y su alto alminar a la izquierda y el complejo gubernamental Perdana Putra de cúpula verde a la derecha bajo un cielo nublado.",
+      "fr": "Putrajaya de l'autre côté du lac, avec la mosquée Putra à la coupole rose et son haut minaret à gauche et le complexe gouvernemental Perdana Putra à la coupole verte à droite sous un ciel nuageux."
     }
   }
 }

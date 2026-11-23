@@ -106,6 +106,13 @@ relations:
   - { rel: "related-to", to: "lhdn" }
 related: ["dosm", "federal-budget", "lhdn"]
 keywords: ["Bank Negara Malaysia", "BNM", "central bank", "Central Bank of Malaysia Act 2009", "Overnight Policy Rate", "OPR", "ringgit", "monetary policy", "Foreign Exchange Policy", "financial stability"]
+hero: '/media/government/bank-negara-malaysia/hero.webp'
+heroAlt: 'Một khu phức hợp văn phòng bê tông theo phong cách hiện đại màu xám lớn với các tầng ngang xếp bậc, mang biểu tượng của Ngân hàng Trung ương Malaysia Bank Negara Malaysia, vươn cao phía trên hàng cây xanh và lề đường được trang trí bằng đèn hình hoa dâm bụt.'
+heroCredit: 'User:Two hundred percent. / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Central_Bank_of_Malaysia_headquarters,_Kuala_Lumpur.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Mỗi khi một dòng tít nói rằng lãi suất giữ nguyên, đồng ringgit trượt giá so với đô la, hay một ngân hàng bị yêu cầu siết chặt việc cho vay, cùng một định chế luôn đứng phía sau câu chuyện ấy. Nó hoạt động trong một tổ hợp giống như pháo đài trên đường Jalan Dato' Onn ở Kuala Lumpur, nó không bao giờ cho bạn vay trực tiếp một xu nào, vậy mà gần như mọi đồng ringgit trong túi bạn và mọi khoản vay trên sao kê của bạn đều đi qua những quy tắc mà nó soạn ra. Định chế đó là Ngân hàng Trung ương Malaysia (Bank Negara Malaysia)——và phần lớn những gì người ta cho rằng nó làm thì hoặc chỉ đúng một nửa, hoặc thuộc về một cơ quan hoàn toàn khác.
