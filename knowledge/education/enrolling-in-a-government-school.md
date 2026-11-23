@@ -73,6 +73,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_kebangsaan,_Kota_warisan,_selangor,_my.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-1.webp
+    alt: Blok pengajaran utama sebuah sekolah rendah kebangsaan di Ayer Keroh, Melaka, jenis sekolah kerajaan yang paling kerap didaftarkan anak oleh kebanyakan keluarga.
+    kind: actual
+    origin: third-party
+    subject: Sekolah Kebangsaan Ayer Keroh, Melaka
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayer_Keroh_National_School_main_building_back.jpg
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-2.webp
+    alt: Sebuah laluan berbumbung yang diapit bendera Malaysia menuju pintu pagar sekolah kerajaan, laluan yang dilalui murid baharu pada hari pendaftaran pertama mereka.
+    kind: representative
+    origin: third-party
+    subject: Laluan masuk berpagar bendera ke sebuah sekolah kerajaan di Malaysia
+    credit: Fadidfadilah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:LALUAN_MASUK_KE_SEKOLAH.jpg
 ---
 
 Ramai ibu bapa terkejut apabila mendapati mereka tidak boleh "mendaftarkan" anak

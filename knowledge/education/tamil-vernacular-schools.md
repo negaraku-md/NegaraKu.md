@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Seri_Pelangi.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/tamil-vernacular-schools/body-1.webp
+    alt: Kedah-வில் உள்ள S.J.K (Tamil) Changlun-இன் நீல நிற நுழைவுப் பெயர்ப் பலகை; பள்ளியின் பெயரைத் தமிழிலும் மலாயிலும், பள்ளிச் சின்னத்துடன் காட்டுகிறது.
+    kind: actual
+    origin: third-party
+    subject: தமிழ் மொழிவழி தேசிய வகைப் பள்ளியின் பெயர்ப் பலகை, SJK(T) Changlun
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg
+  - role: scene
+    src: /media/education/tamil-vernacular-schools/body-2.webp
+    alt: Kedah-வில் உள்ள SJK(T) Changlun-இன் வகுப்பறைத் தொகுதியும் உள்முற்றமும்; கூரையிட்ட நடைபாதையோரம் வகுப்பறை வாயில்கள், அறிவிப்புப் பலகைகள், கொடிகள் ஆகியவற்றுடன்.
+    kind: actual
+    origin: third-party
+    subject: தமிழ் மொழிவழிப் பள்ளியின் வகுப்பறைத் தொகுதி, SJK(T) Changlun
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom1(1).jpg
 ---
 
 மலேசியாவின் எந்த மூலையிலும் — ஒரு பழைய ரப்பர்த் தோட்டத்தின் ஓரத்திலோ, நகரத்தின்

@@ -29,7 +29,7 @@ faq:
     a: "Kalender resmi dikeluarkan melalui Surat Siaran KPM dan portal moe.gov.my setiap tahun sebelum sesi dimulai. Rujuk sumber resmi untuk tanggal yang tepat karena ia berubah setiap tahun."
 
 lang: "id"
-sourceContentHash: "d8dc796d9fea25f6"
+sourceContentHash: "d7bb77ea8047230b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-1.webp
+    alt: Lapangan upacara kosong yang dihiasi deretan bendera di sebuah sekolah di Malaysia, tempat para siswa berkumpul setiap pagi sebelum pelajaran pertama hari itu dimulai.
+    kind: representative
+    origin: third-party
+    subject: Lapangan upacara (apel) sebuah sekolah di Malaysia
+    credit: Fadzuan Ehsan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Suasana_Sekolah_3.jpg
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-2.webp
+    alt: Dua siswi berseragam mengendarai sepeda motor pulang ke rumah di sebuah jalan di Langkawi setelah jam sekolah berakhir hari itu.
+    kind: representative
+    origin: third-party
+    subject: Siswi berseragam pulang ke rumah seusai sekolah di Langkawi
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_School-girls-on-a-motorbike-01.jpg
 ---
 
 Rencanakan liburan keluarga awal tahun, dan Anda cepat sadar satu hal: tetangga di Kelantan masuk sekolah satu hari lebih awal daripada anak Anda di Selangor. Itu bukan kesalahan — itu cara kalender akademik Malaysia dirancang.

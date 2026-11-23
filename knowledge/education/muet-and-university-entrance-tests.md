@@ -98,6 +98,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-1.webp
+    alt: Bahagian dalam sebuah dewan sekolah yang luas di Malaysia yang digunakan sebagai tempat peperiksaan, lengkap dengan pentas dan deretan ruang lantai
+    kind: representative
+    origin: third-party
+    subject: Dewan sekolah di Malaysia yang digunakan untuk menduduki peperiksaan
+    credit: LM UPSI 2019 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-2.webp
+    alt: Pemandangan udara kompleks dewan kuliah di kampus sebuah universiti di Malaysia
+    kind: representative
+    origin: third-party
+    subject: Kompleks dewan kuliah di Universiti Pendidikan Sultan Idris (UPSI)
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg
 ---
 
 Anda boleh cemerlang dalam STPM atau matrikulasi, tetapi tanpa satu keputusan lagi, borang permohonan ijazah anda masih tidak lengkap. Keputusan itu ialah MUET — dan ramai pelajar hanya menyedari kepentingannya apabila tarikh tutup permohonan universiti sudah menjelang.

@@ -27,7 +27,7 @@ faq:
   - q: "Apakah jalur diploma atau TVET lebih buruk daripada kuliah di universitas?"
     a: "Tidak. Jalur diploma atau TVET membawa ke pekerjaan terampil dan layak kerja, dan biasanya menjaga jalur tetap terbuka untuk kembali ke program sarjana melalui pemindahan kredit atau kategori penerimaan tersendiri. Untuk banyak bidang — keterampilan teknik, perhotelan, TI, desain — ia adalah jalur yang lebih cepat dan lebih langsung menuju pekerjaan dibandingkan program sarjana umum. Pertanyaan yang lebih baik bukanlah jalur mana yang berstatus lebih tinggi, melainkan yang mana membawa ke tempat yang Anda tuju."
 lang: "id"
-sourceContentHash: "19406003070adaf4"
+sourceContentHash: "809a134dceb4f5ea"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Malaya_KL_gate.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/after-spm-options/body-1.webp
+    alt: Sebuah gedung fakultas di Universiti Malaya, salah satu jalur gelar sarjana di universitas negeri yang bisa dituju mahasiswa setelah SPM.
+    kind: actual
+    origin: third-party
+    subject: Gedung Fakultas Pendidikan, Universiti Malaya
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Building_of_Faculty_of_Education_Universiti_Malaya.jpg
+  - role: scene
+    src: /media/education/after-spm-options/body-2.webp
+    alt: Blok fakultas, perpustakaan, dan administrasi di kampus cabang UiTM Rembau, sebuah jalur pendidikan tinggi negeri yang terbuka bagi lulusan SPM.
+    kind: actual
+    origin: third-party
+    subject: Kampus UiTM Rembau, Negeri Sembilan
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg
 ---
 
 Amplop itu terbuka dan pertanyaan yang sebenarnya datang bersamanya. Bukan

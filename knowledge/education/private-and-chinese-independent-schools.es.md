@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Padres y estudiantes en Malasia que eligen entre escuelas nacionales, escuelas privadas de currículo nacional y escuelas chinas independientes de secundaria superior, y cualquiera que intente entender qué representa realmente una SMJK, una escuela privada o un certificado UEC."
 
 lang: "es"
-sourceContentHash: "6e235692a71d508a"
+sourceContentHash: "bc3e9340ade6fe52"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Papar_Sabah_Papar-Middle_School-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-1.webp
+    alt: Fachada de la Sekolah Menengah Chung Ling (Persendirian) / Chung Ling (Private) High School en Penang, un edificio blanco de varias plantas con columnas y el nombre de la escuela en malayo, chino e inglés.
+    kind: actual
+    origin: third-party
+    subject: Chung Ling (Private) High School, una escuela secundaria china independiente en Penang
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_Private_High_School.jpg
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-2.webp
+    alt: El gran edificio principal de varias plantas de la Kuen Cheng High School en Kuala Lumpur, con su nombre en chino (坤成中学) e inglés en la cornisa.
+    kind: actual
+    origin: third-party
+    subject: Kuen Cheng High School, una escuela secundaria china independiente en Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Kuen-Cheng-High-School-01.jpg
 ---
 
 Pregunta a un padre malasio qué es una «escuela privada» y podría referirse a

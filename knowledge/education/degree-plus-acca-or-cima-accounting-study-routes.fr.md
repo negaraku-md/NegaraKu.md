@@ -33,7 +33,7 @@ faq:
 
 lang: "fr"
 translationStatus: "in-sync"
-sourceContentHash: "d8f3e63e8e371c06"
+sourceContentHash: "f1edb16bb1e0f23c"
 masterLanguage: "en"
 
 status: "published"
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-1.webp
+    alt: Des rangées de sièges en gradins dans un amphithéâtre d'université malaisienne, du type où les étudiants en licence et en comptabilité professionnelle suivent leurs cours.
+    kind: actual
+    origin: third-party
+    subject: Amphithéâtre universitaire à l'Universiti Malaysia Sabah
+    credit: Mfook / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Kuliah_Pusat.JPG
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-2.webp
+    alt: De paisibles rangées de bureaux d'étude individuels dans une bibliothèque de la University of Malaya, où les étudiants planchent sur les épreuves de licence et de l'ACCA ou du CIMA.
+    kind: representative
+    origin: third-party
+    subject: Bureaux d'étude dans une bibliothèque de la University of Malaya
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engine_library_Oct_2021_empty_view_desks.jpg
 ---
 
 Toute personne qui décide comment devenir comptable en Malaisie se heurte d'emblée à une soupe d'acronymes : **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE.** Cela ressemble à un menu de qualifications concurrentes entre lesquelles il faudrait trancher. Il vaut mieux y voir **une seule destination avec plusieurs routes qui y mènent** — et une fois la destination en vue, les choix se mettent en place.

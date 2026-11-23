@@ -30,7 +30,7 @@ faq:
     a: "نعم. اللغة الملايوية مادة إلزامية في منظومة UEC. كما يتقدّم كثير من طلاب UEC لامتحان SPM مرشحين مستقلين؛ وتفيد Dong Zong بأن نسبة النجاح في اللغة الملايوية في امتحان SPM بين طلاب المدارس الثانوية الصينية المستقلة تجاوزت 96% للأعوام 2022–2024 (97.38% في 2022، و97.11% في 2023، و96.65% في 2024)، باستخدام الورقة نفسها لامتحان SPM المقدَّمة لسائر المرشحين."
 
 lang: "ar"
-sourceContentHash: "1f2605f6949b7811"
+sourceContentHash: "e144ffe426e25ff1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Sekolah-Tinggi-Cina-Sabah-06.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-1.webp
+    alt: قوس المدخل ولوحة الاسم لمدرسة Sekolah Menengah Foon Yew / Foon Yew High School (寬柔中學) في جوهور بهرو، مع علم ولاية جوهور وشعار المدرسة.
+    kind: actual
+    origin: third-party
+    subject: Foon Yew High School، مدرسة ثانوية صينية مستقلّة في جوهور بهرو
+    credit: Kaart @ Mapillary.com / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School.jpg
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-2.webp
+    alt: مبنى المكتبة المتعدّد الطوابق (Perpustakaan) لمدرسة Foon Yew High School في جوهور بهرو، واسمه معروض بالملايوية والصينية فوق رواق مبلّط.
+    kind: actual
+    origin: third-party
+    subject: مبنى مكتبة Foon Yew High School
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School_Library.jpg
 ---
 
 ثلاثة أحرف — UEC — تكفي لإشعال جدل استمرّ أكثر من نصف قرن في سياسات التعليم الماليزية. فهي لدى البعض شهادة معترَف بها دوليًا تفتح الباب إلى كبريات جامعات العالم؛ وهي لدى آخرين تمسّ مكانة اللغة الوطنية وسياسة البلاد التعليمية. وكلا الرأيين قائم جنبًا إلى جنب، وكلاهما لازمٌ لفهم الصورة كاملة.

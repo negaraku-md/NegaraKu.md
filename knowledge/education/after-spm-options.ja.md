@@ -27,7 +27,7 @@ faq:
   - q: "ディプロマや TVET のルートは大学へ進むより劣るのか？"
     a: "いいえ。ディプロマや TVET のルートは技能的で就労につながる仕事へと導き、通常は単位振替や別の入学区分を通じて学位へ戻る道を開いたままにする。多くの分野——エンジニアリングの技能職、ホスピタリティ、IT、デザイン——にとっては、一般的な学位よりも速く、より直接的に就労へつながるルートだ。よりよい問いは、どのルートの格が高いかではなく、どれが自分の行きたい場所へつながるか、である。"
 lang: "ja"
-sourceContentHash: "19406003070adaf4"
+sourceContentHash: "809a134dceb4f5ea"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Malaya_KL_gate.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/after-spm-options/body-1.webp
+    alt: マラヤ大学の学部校舎。SPMの後に学生が目指せる国立大学の学位ルートの一つである。
+    kind: actual
+    origin: third-party
+    subject: マラヤ大学教育学部の校舎
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Building_of_Faculty_of_Education_Universiti_Malaya.jpg
+  - role: scene
+    src: /media/education/after-spm-options/body-2.webp
+    alt: マラ工科大学(UiTM)ルンバウ分校の学部棟・図書館・管理棟。SPM修了者に開かれた国立高等教育のルートである。
+    kind: actual
+    origin: third-party
+    subject: マラ工科大学(UiTM)ルンバウ校（ヌグリ・スンビラン州）
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg
 ---
 
 封筒が開き、本当の問いがそれとともにやってくる。*どれくらいできたか* では

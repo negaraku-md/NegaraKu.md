@@ -36,7 +36,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
 reviewDue: 2027-07-24
-sourceContentHash: "2c9607178a97bd26"
+sourceContentHash: "2746b8c6a490da6c"
 revision: 0
 revisions:
   - revision: 0
@@ -73,6 +73,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tungku_Sabah-Sekolah-Kebangsaan-Tungku-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-1.webp
+    alt: 国民型華語小学校SJK(C) Chong Sanの校舎と看板
+    kind: actual
+    origin: third-party
+    subject: 国民型華語学校、SJK(C) Chong San（ペラ州バガン・ダトゥ）
+    credit: Ceball1923 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekolah_Jenis_Kebangsaan_(Cina)_Chong_San.jpg
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-2.webp
+    alt: 国民型タミル小学校SJK(T) Saraswathyの校舎と看板
+    kind: actual
+    origin: third-party
+    subject: 国民型タミル学校、SJK(T) Saraswathy（スンガイ・ブロー）
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(T)_Saraswathy,_Sungai_Buloh_01.jpg
 ---
 
 毎年、登録期間が始まると、マレーシア全土の保護者はマレーシア教育省（KPM）のidMeポータルを開き、子どもを小学1年生として登録する。そこで最初に下さなければならない選択の一つが、SK、SJKC、SJKTのいずれにするかである。

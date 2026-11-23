@@ -29,7 +29,7 @@ faq:
     a: "La jurisdicción principal recae en los departamentos/consejos religiosos islámicos estatales, porque los asuntos religiosos islámicos son una materia estatal según la Constitución. JAKIM coordina a nivel federal, mientras que los requisitos de seguridad de los edificios involucran a las Autoridades Locales y al Departamento de Bomberos."
 
 lang: "es"
-sourceContentHash: "b8ecf4cacb65882a"
+sourceContentHash: "a9ff06200dd4e2e2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,6 +81,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Agama_Al-Maarif_2016.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-1.webp
+    alt: El tranquilo exterior de una escuela de tahfiz en Batu Pahat, Johor, donde los alumnos se alojan para memorizar el Corán junto con sus estudios.
+    kind: actual
+    origin: third-party
+    subject: Madrasah Tahfiz al-Quran Hamidiah, Batu Pahat, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_west_of_Madrasah_Tahfiz_al-Quran_Hamidiah_in_Batu_Pahat,_Johor_20250206_144252.jpg
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-2.webp
+    alt: El modesto edificio de una escuela primaria religiosa (sekolah agama) en Peringgit, Melaka, donde los niños cursan estudios islámicos en la sesión de tarde.
+    kind: actual
+    origin: third-party
+    subject: Escuela primaria religiosa de Peringgit, Melaka
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peringgit_Religious_Primary_School.JPG
 ---
 
 Un niño en Malasia podría pasar la mañana en una escuela nacional, la tarde en una clase KAFA de una mezquita, y sus años de adolescencia en un dormitorio de tahfiz — tres entornos educativos distintos con supervisores, currículos y leyes diferentes. La corriente de la educación religiosa islámica discurre en paralelo al sistema nacional, pero no es un solo bloque. Comprender quién registra qué, y quién es responsable de qué, es la clave para leer de forma justa el debate público sobre este tema.

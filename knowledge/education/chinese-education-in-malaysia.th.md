@@ -31,7 +31,7 @@ faq:
   - q: "เรียนจบ 独中 แล้วศึกษาต่อที่ใดได้บ้าง?"
     a: "เส้นทางศึกษาต่อของนักเรียน 独中 มีความหลากหลาย หลายคนใช้ประกาศนียบัตร UEC ศึกษาต่อที่วิทยาลัย/มหาวิทยาลัยเอกชนในประเทศหรือมหาวิทยาลัยต่างประเทศ และบางคนก็สอบ SPM ควบคู่ไปด้วยเพื่อรักษาทางเลือกให้มากขึ้น สถาบันอุดมศึกษาจีนในประเทศ ได้แก่ New Era University College, Southern University College และ Han Chiang University College of Communication เป็นต้น ซึ่งพัฒนามาจากระบบการศึกษาภาษาจีน ตั้งแต่ปี 2026 นักเรียน UEC ที่มีคุณสมบัติตามเงื่อนไขเฉพาะก็สามารถสมัครเข้าศึกษาในบางหลักสูตรของมหาวิทยาลัยรัฐผ่านช่องทางใหม่ได้เช่นกัน"
 lang: "th"
-sourceContentHash: "11102fbd9b87b7f9"
+sourceContentHash: "3fde1ff0d6a51181"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(C)_Chun_Yin_(260103).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-1.webp
+    alt: วิทยาเขตร่มรื่นด้วยแมกไม้ของโรงเรียนมัธยมจงลิงในรัฐปีนัง หนึ่งในโรงเรียนมัธยมสอนภาษาจีนที่มีประวัติยาวนานของมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: โรงเรียนมัธยมจงลิง รัฐปีนัง
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_High_School_(October_2022).jpg
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-2.webp
+    alt: ประตูทางเข้าและป้ายชื่อของ SJK(C) Confucian ในกัวลาลัมเปอร์ หนึ่งในโรงเรียนประถมสอนภาษาจีนที่รัฐอุดหนุนซึ่งป้อนนักเรียนเข้าสู่ระบบการศึกษาภาษาแม่
+    kind: actual
+    origin: third-party
+    subject: SJK(C) Confucian โรงเรียนประถมสอนภาษาจีนในกัวลาลัมเปอร์
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(C)_Confucian.jpg
 ---
 
 ยามเช้าตรู่ ในสนามของโรงเรียนประถมจีนแห่งหนึ่งดังก้องด้วยเสียงภาษาจีนกลาง ภาษามลายู และภาษาอังกฤษที่สอดประสานกัน ห่างออกไปหลายรัฐ ในหอประชุมของโรงเรียนมัธยมเอกชนจีน (独中) แห่งหนึ่ง นักเรียนกำลังเตรียมตัวสอบข้อสอบรวม (统考／UEC) ปลายปี ขณะที่ในรัฐยะโฮร์และปีนัง วิทยาลัยมหาวิทยาลัยที่พัฒนามาจากระบบการศึกษาภาษาจีนก็ต้อนรับนักศึกษารุ่นใหม่ ภาพเหล่านี้ล้วนอยู่ในสายเดียวกัน — การศึกษาภาษาจีนในมาเลเซีย — ทว่าแยกอยู่ในระดับที่ต่างกัน ภายใต้วิธีการสนับสนุนงบประมาณและการจัดวางทางกฎหมายที่ต่างกัน

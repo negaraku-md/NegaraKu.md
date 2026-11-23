@@ -29,7 +29,7 @@ faq:
     a: "No. La educación en las escuelas públicas de primaria y secundaria no conlleva tasas de matrícula. Las tasas especiales, por su parte, están suprimidas desde 2008 mediante la SPI n.º 13/2007."
 
 lang: "es"
-sourceContentHash: "c71280cc876e703d"
+sourceContentHash: "91c771449625cdb5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Methodist-1-2-Brickfields-Girl-Primary-School-03.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-1.webp
+    alt: Edificio de una escuela secundaria malasia de varias plantas con un patio de formación pavimentado.
+    kind: representative
+    origin: third-party
+    subject: Edificio de una escuela secundaria nacional malasia (SMK Darulaman Heights)
+    credit: Saiff / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SMK_Darulaman_Heights_1.jpg
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-2.webp
+    alt: Padres y docentes reunidos en el salón de una escuela para una reunión de la Asociación de Padres y Maestros (PIBG).
+    kind: representative
+    origin: third-party
+    subject: Una asamblea general de la Asociación de Padres y Maestros (PIBG) en una escuela malasia
+    credit: Cermin Mata / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perasmian_PIBG.jpg
 ---
 
 Tu hijo está matriculado en una escuela pública «gratuita» — y, aun así, el formulario del PIBG y una lista de pagos siguen llegando a tu puerta. Entonces, ¿qué hay que pagar exactamente y qué no?

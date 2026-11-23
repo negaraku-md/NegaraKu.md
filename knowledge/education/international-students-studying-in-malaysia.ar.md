@@ -32,7 +32,7 @@ faq:
     a: "يمكن لكلا النوعين أن يكونا مُصرَّحًا لهما باستقبال الطلاب الدوليين، لكنهما يقعان تحت أجزاء مختلفة من إطار تصريح الطالب، وعادةً يختلفان في البرامج وسعة القبول المفتوحة للمتقدمين الأجانب مقابل المحليين. أكّد مباشرةً مع المكتب الدولي للمؤسسة أيٌّ من برامجك المستهدفة مفتوح لتسجيل غير المواطنين قبل التقديم."
 
 lang: "ar"
-sourceContentHash: "7261a5b72201747a"
+sourceContentHash: "00e475894d31159f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -101,6 +101,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-1.webp
+    alt: المدخل الرئيسي المعلّم والمحاط بالخضرة لجامعة University of Nottingham Malaysia، وهي فرع لجامعة بريطانية يلتحق بها كثير من الطلاب الدوليين.
+    kind: actual
+    origin: third-party
+    subject: المدخل الرئيسي لـ University of Nottingham Malaysia
+    credit: Faizalrahmat85 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-2.webp
+    alt: شمس الظهيرة على المبنى الرئيسي ذي الأعمدة لجامعة Xiamen University Malaysia، وهي فرع لجامعة صينية قرب كوالالمبور يجتذب طلابًا من الخارج.
+    kind: actual
+    origin: third-party
+    subject: حرم Xiamen University Malaysia، سيبانغ
+    credit: Xiamen University Malaysia / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Xiamen_University_Malaysia_at_afternoon.jpg
 ---
 
 خطاب عرض من مؤسسة من النوع الخطأ لا قيمة له في الحصول على تأشيرة، حتى لو كان البرنامج نفسه معتمدًا اعتمادًا تامًا. ذلك التمييز — بين برنامج معتمد ومؤسسة مُصرَّح لها باستقبال الطلاب الدوليين — هو حيث يبدأ معظم الالتباس، قبل وقت طويل من ملء أي شخص لاستمارة EMGS.

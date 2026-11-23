@@ -84,6 +84,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(C)_Chun_Yin_(260103).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-1.webp
+    alt: 槟城钟灵中学绿树成荫的校园，这是马来西亚历史悠久的华文中学之一。
+    kind: actual
+    origin: third-party
+    subject: 槟城钟灵中学
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_High_School_(October_2022).jpg
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-2.webp
+    alt: 吉隆坡尊孔华小（SJK(C) Confucian）的校门与校名牌，这是输送生源给母语教育体系的政府资助华文小学之一。
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡尊孔华小（SJK(C) Confucian），一所华文小学
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(C)_Confucian.jpg
 ---
 
 清晨，一所华文小学的操场上响起华语、马来语与英语交织的声音；几个州之外，一所华文独立中学的礼堂里，学生正为年底的统考做准备；而在柔佛与槟城，由华教体系发展而来的大学学院迎来新一届新生。这些场景同属一条脉络——马来西亚的华文教育——却分处不同的层级，受着不同的资助方式与法律安排。

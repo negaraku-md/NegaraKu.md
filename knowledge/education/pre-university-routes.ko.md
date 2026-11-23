@@ -22,7 +22,7 @@ verificationNeeded:
   - "STPM, 매트리큘레이션, A-Level 코호트의 현재 연간 입학 정원(자릿수)은 여기 명시되어 있지 않음 — 이는 입학 회차마다 바뀜; 특정 수치에 의존하기 전에 MPM, 매트리큘레이션과, 또는 개별 칼리지에서 현재 회차 수치를 직접 확인할 것."
   - "예비 과정(Foundation) 프로그램 구조에 대한 MQA 지침(Garis Panduan Kurikulum Asasi)을 이 기사에서는 전부 추출하지 못함 — MQA가 예비 과정에 정한 구체적인 최소 학점 시간 또는 기간 규칙은 여기서 일반적 용어로만 서술됨; 인용하기 전에 MQA나 제공 기관에서 정확한 수치를 확인할 것."
 lang: "ko"
-sourceContentHash: "65caf030dac83024"
+sourceContentHash: "f021592856555bcc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -81,6 +81,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Blok_Al-Karaji_Kolej_Matrikulasi_Kelantan.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pre-university-routes/body-1.webp
+    alt: 대학 예비 파운데이션 과정을 제공하는 말레이시아 칼리지의 현대식 캠퍼스 건물
+    kind: representative
+    origin: third-party
+    subject: 대학 예비/파운데이션 과정을 제공하는 말레이시아 칼리지 캠퍼스(KDU유니버시티칼리지, 다만사라자야)
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KDU_University_College,_Damansara_Jaya_campus.JPG
+  - role: scene
+    src: /media/education/pre-university-routes/body-2.webp
+    alt: 말레이시아 한 대학 과학기술학부의 실험동
+    kind: representative
+    origin: third-party
+    subject: 국민대학교(UKM) 과학기술학부의 과학 실험동
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Makmal_Fakulti_Sains_dan_Teknologi_UKM.jpg
 ---
 
 두 학생이 거의 동일한 성적으로 같은 SPM 시험장을 나섭니다. 18개월 후, 한 명은 국가 위원회가 채점하는 정부 시험을 치르고 있습니다. 다른 한 명은 케임브리지에서 정한 교과과정을 따르는 칼리지 교실 안에 있습니다. 세 번째 학생은 국가 시험을 아예 치르지 않습니다 — 그의 대학 예비 성적 전체가 이미 등록한 대학교에 의해 결정됩니다. 이들 중 누구도 잘못한 것이 없습니다. 단지 서로 다른 방을 골랐을 뿐입니다.

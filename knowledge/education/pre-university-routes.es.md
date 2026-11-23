@@ -22,7 +22,7 @@ verificationNeeded:
   - "La capacidad de admisión anual actual (número de plazas) para las cohortes de STPM, Matriculación y A-Level no se indica aquí — estas cambian en cada ciclo de admisión; confirme las cifras de la sesión actual directamente con el MPM, la División de Matriculación o el colegio concreto antes de basarse en una cifra específica."
   - "Las directrices de la MQA sobre la estructura de los programas Foundation (Garis Panduan Kurikulum Asasi) no pudieron extraerse por completo para este artículo — la regla específica de horas crédito mínimas o duración fijada por la MQA para los programas Foundation se describe aquí solo en términos generales; confirme las cifras exactas con la MQA o la institución oferente antes de citarlas."
 lang: "es"
-sourceContentHash: "65caf030dac83024"
+sourceContentHash: "f021592856555bcc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -81,6 +81,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Blok_Al-Karaji_Kolej_Matrikulasi_Kelantan.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pre-university-routes/body-1.webp
+    alt: Modernos edificios del campus de un colegio universitario malasio que ofrece programas de fundación preuniversitarios.
+    kind: representative
+    origin: third-party
+    subject: Campus de un colegio malasio que ofrece programas preuniversitarios / de fundación (KDU University College, Damansara Jaya)
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KDU_University_College,_Damansara_Jaya_campus.JPG
+  - role: scene
+    src: /media/education/pre-university-routes/body-2.webp
+    alt: Edificio de laboratorios de la facultad de ciencia y tecnología de una universidad malasia.
+    kind: representative
+    origin: third-party
+    subject: Edificio de laboratorios de ciencias, Facultad de Ciencia y Tecnología, Universiti Kebangsaan Malaysia
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Makmal_Fakulti_Sains_dan_Teknologi_UKM.jpg
 ---
 
 Dos estudiantes salen de la misma sala del SPM con resultados casi idénticos.

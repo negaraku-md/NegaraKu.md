@@ -25,7 +25,7 @@ verificationNeeded:
   - "Rujukan pada kewenangan penegakan (misalnya larangan perjalanan ke luar negeri bagi peminjam yang ingkar) disebut secara umum saja berdasarkan adanya kewenangan di bawah Akta 566; nomor pasal khusus dan syarat pemicunya (seperti lama tunggakan) tidak dipastikan langsung dari teks akta atau portal resmi dan perlu ditinjau ulang."
 
 lang: "id"
-sourceContentHash: "c276a6a6034e9c91"
+sourceContentHash: "4273f8606a208fb5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_UTM-Campus-Kuala-Lumpur-02.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-1.webp
+    alt: Gedung canselori Universiti Teknologi MARA (UiTM), sebuah gedung universitas negeri modern berukuran besar dari kaca dan beton, berdiri di atas gundukan bertata taman dengan bendera di depannya.
+    kind: representative
+    origin: third-party
+    subject: Kampus sebuah universitas negeri di Malaysia (Universiti Teknologi MARA)
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-2.webp
+    alt: Gedung canselori (Canselori) Universiti Malaysia Sabah yang khas berwarna biru dan krem di Kota Kinabalu, sebuah ikon universitas negeri yang berdiri di atas hamparan rumput bertata taman.
+    kind: representative
+    origin: third-party
+    subject: Ikon sebuah universitas negeri di Malaysia (canselori Universiti Malaysia Sabah)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu-Sabah_Universiti-Malaysia-Sabah-Chancellory-01.jpg
 ---
 
 Banyak pelajar menandatangani dokumen tawaran PTPTN dengan asumsi yang sama:

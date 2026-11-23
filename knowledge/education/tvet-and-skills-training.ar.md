@@ -19,7 +19,7 @@ keyTakeaways:
   - "تركّز الكليات المجتمعية على شهادات المستوى الأدنى مع قبول أكثر مرونة، بينما يركّز البوليتكنيك على الدبلومات — وكلاهما تحت إشراف JPPKK في وزارة التعليم العالي"
 appliesTo: "الطلاب بعد الصف الثالث الثانوي (Form 3) أو بعد SPM، وأولياء الأمور الذين يخططون لمسار أبنائهم المهني، والعاملون البالغون الراغبون في اعتماد مهاراتهم القائمة عبر SKM."
 lang: "ar"
-sourceContentHash: "1f78c1d4c5cb8fba"
+sourceContentHash: "4f35bcba22c98fdc"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -73,6 +73,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kolej_Vokasional_Sungai_Buloh_1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-1.webp
+    alt: القاعة المركزية المسقوفة لمركز Montfort Youth Training Centre، وهو حرم للتدريب على المهارات المهنية في كيناروت بولاية صباح، بلافتة على المنصّة كُتب عليها 'Through Work Achieve Success'.
+    kind: actual
+    origin: third-party
+    subject: منظر داخلي لمركز تدريب مهاري للشباب في ماليزيا
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinarut_Sabah_MontfortYouthTrainingCenter-16.jpg
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-2.webp
+    alt: ممرّ دخول مسقوف منحنٍ ومبنى أكاديمي حديث في Politeknik Kota Kinabalu بولاية صباح.
+    kind: actual
+    origin: third-party
+    subject: حرم معهد فني ماليزي (Politeknik Kota Kinabalu)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_PoliteknikKotaKinabalu-03.jpg
 ---
 
 يرى كثير من طلاب الصف الثالث الثانوي (Form 3) وأولياء أمورهم طريقًا واحدًا فقط

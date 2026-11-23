@@ -29,7 +29,7 @@ faq:
     a: "Las solicitudes se presentan en línea a través del portal del MOE, y los estudiantes se filtran mediante la Evaluación de Admisión a Escuelas Especiales (PKSK), junto con el rendimiento académico y cocurricular."
 
 lang: "es"
-sourceContentHash: "d9161aa5a0f5aff2"
+sourceContentHash: "634c5a870f713575"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:MRSM_Batu_Pahat,_Batu_Pahat_20250207_162623.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/mrsm-and-fully-residential-schools/body-1.webp
+    alt: El cartel de entrada y el portón del MARA Junior Science College (MRSM) Gemencheh junto a una carretera rural.
+    kind: actual
+    origin: third-party
+    subject: Entrada principal del MARA Junior Science College (MRSM) Gemencheh
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRSM_Gemencheh.jpg
+  - role: scene
+    src: /media/education/mrsm-and-fully-residential-schools/body-2.webp
+    alt: Panorámica de los edificios y terrenos del campus de una escuela internado malasia en Melaka.
+    kind: actual
+    origin: third-party
+    subject: Campus de una escuela internado, Sekolah Berasrama Penuh Integrasi (SBPI) Melaka
+    credit: Mra1001 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBPIS_MELAKA_2.jpg
 ---
 
 Cuando las familias malasias hablan de las «mejores» escuelas internas para sus hijos, suelen surgir dos nombres: MRSM y SBP. Ambos son colegios totalmente residenciales selectivos, ambos ferozmente competitivos para entrar — pero los gestionan dos organismos distintos, bajo dos mandatos de política diferentes.

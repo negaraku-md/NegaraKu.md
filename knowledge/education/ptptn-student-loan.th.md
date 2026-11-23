@@ -25,7 +25,7 @@ verificationNeeded:
   - "การอ้างอิงถึงอำนาจการบังคับใช้ (เช่น การห้ามเดินทางไปต่างประเทศสำหรับผู้กู้ที่ผิดนัด) กล่าวถึงเพียงในเชิงทั่วไปโดยอ้างอิงการมีอยู่ของอำนาจภายใต้ Akta 566; หมายเลขมาตราเฉพาะและเงื่อนไขที่ทำให้เกิดผล (เช่น ระยะเวลาค้างชำระ) ไม่ได้รับการยืนยันโดยตรงจากตัวบทกฎหมายหรือพอร์ทัลทางการและต้องตรวจสอบซ้ำ"
 
 lang: "th"
-sourceContentHash: "c276a6a6034e9c91"
+sourceContentHash: "4273f8606a208fb5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_UTM-Campus-Kuala-Lumpur-02.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-1.webp
+    alt: อาคารสำนักงานอธิการบดีของมหาวิทยาลัยเทคโนโลยีมารา (UiTM) อาคารมหาวิทยาลัยรัฐทันสมัยขนาดใหญ่ที่สร้างด้วยกระจกและคอนกรีต ตั้งอยู่บนเนินที่จัดภูมิทัศน์พร้อมธงด้านหน้า
+    kind: representative
+    origin: third-party
+    subject: วิทยาเขตมหาวิทยาลัยรัฐของมาเลเซีย (มหาวิทยาลัยเทคโนโลยีมารา UiTM)
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-2.webp
+    alt: อาคารสำนักงานอธิการบดี (Canselori) สีฟ้าและครีมอันเป็นเอกลักษณ์ของมหาวิทยาลัยมาเลเซียซาบะฮ์ในโกตากีนาบาลู แลนด์มาร์กมหาวิทยาลัยรัฐที่ตั้งอยู่เหนือสนามหญ้าที่จัดภูมิทัศน์
+    kind: representative
+    origin: third-party
+    subject: แลนด์มาร์กมหาวิทยาลัยรัฐของมาเลเซีย (อาคารสำนักงานอธิการบดีมหาวิทยาลัยมาเลเซียซาบะฮ์)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu-Sabah_Universiti-Malaysia-Sabah-Chancellory-01.jpg
 ---
 
 นักเรียนจำนวนมากลงนามในเอกสารข้อเสนอ PTPTN ด้วยสมมติฐานเดียวกัน: "นี่เหมือนทุนการศึกษาใช่ไหม?" มันไม่ใช่ และความเข้าใจผิดนี้เองที่มักนำมาซึ่งปัญหา — หลายปีต่อมา เมื่อหนังสือแจ้งการชำระคืนฉบับแรกมาถึงหลังจบการศึกษา

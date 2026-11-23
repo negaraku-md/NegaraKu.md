@@ -5775,7 +5775,30 @@
       "alt": "A blue Proton dealership signed Wakil Jualan dan Servis with several cars parked out front in Subang Jaya.",
       "kb": 151
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/transport/buying-a-car/body-1.webp",
+        "credit": "Bindydad123 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Perodua_Showroom,_Penang,_Malaysia_(1).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Perodua dealership showroom in Penang",
+        "alt": "New Perodua cars lined up under bright lights inside a Perodua brand showroom in Penang, Malaysia.",
+        "kb": 166
+      },
+      {
+        "file": "/media/transport/buying-a-car/body-2.webp",
+        "credit": "Aero777 / Wikimedia Commons",
+        "license": "CC BY-SA 2.5 my",
+        "source": "https://commons.wikimedia.org/wiki/File:2014_Proton_Perdana_2.4P_in_Shah_Alam,_Malaysia_(01).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Proton Perdana sedan in Shah Alam",
+        "alt": "A black Proton Perdana sedan, a Malaysian-made national-brand car, parked on a street in Shah Alam, Selangor.",
+        "kb": 159
+      }
+    ]
   },
   "transport/cycling-and-walkability": {
     "hero": {
@@ -5789,7 +5812,30 @@
       "alt": "A red paved cycling and jogging track with a painted white bicycle symbol, bike racks and trees under a blue sky.",
       "kb": 177
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/transport/cycling-and-walkability/body-1.webp",
+        "credit": "philip.mallis / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Shared_pedestrian_and_bicycle_path_next_to_major_road_in_George_Town,_Penang_-_53829115437.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Shared bicycle and pedestrian path in George Town, Penang",
+        "alt": "A paved shared cycling and walking path running alongside a busy main road in George Town, Penang.",
+        "kb": 179
+      },
+      {
+        "file": "/media/transport/cycling-and-walkability/body-2.webp",
+        "credit": "*angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Jalan_Tun_Razak_Pedestrian_Walkway_(211031).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Jalan Tun Razak pedestrian walkway in Kuala Lumpur",
+        "alt": "A wide covered pedestrian walkway lined with greenery beside Jalan Tun Razak in central Kuala Lumpur.",
+        "kb": 155
+      }
+    ]
   },
   "transport/driving-licence-foreigners": {
     "hero": {
@@ -5803,7 +5849,30 @@
       "alt": "A junction on a Malaysian federal highway near Penang Sentral with yellow warning signs, traffic lights and cars.",
       "kb": 161
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/transport/driving-licence-foreigners/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Malaysia_Traffic-signs_Regulatory-sign-06.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Malaysian road regulatory sign",
+        "alt": "A Malaysian height-restriction regulatory road sign mounted above a Kuala Lumpur road near a toll approach.",
+        "kb": 145
+      },
+      {
+        "file": "/media/transport/driving-licence-foreigners/body-2.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:North_view_along_Jalan_Kluang-Kota_Tinggi_(Malaysia_Federal_Highway_91)_in_Kluang,_Johor_20250401_151005.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Federal highway through Kluang, Johor",
+        "alt": "Traffic lights and lane markings along Malaysia Federal Route 91 running north through Kluang, Johor.",
+        "kb": 126
+      }
+    ]
   },
   "transport/driving-licence-malaysians": {
     "hero": {
@@ -5817,7 +5886,30 @@
       "alt": "A shopfront driving school signed Pusat Latihan Memandu Sri Jaya with large blue L learner-plate signs.",
       "kb": 156
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/transport/driving-licence-malaysians/body-1.webp",
+        "credit": "*angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:JPJ_Cawangan_Bandar_Tasik_Selatan_(260912).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "JPJ (Road Transport Department) branch office, Kuala Lumpur",
+        "alt": "The entrance and waiting area of the Road Transport Department (JPJ) branch at Bandar Tasik Selatan, Kuala Lumpur.",
+        "kb": 108
+      },
+      {
+        "file": "/media/transport/driving-licence-malaysians/body-2.webp",
+        "credit": "*angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bulatan_Rawang_(230130)_01.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Roundabout at Rawang, Selangor",
+        "alt": "A multi-lane traffic roundabout with signposts at Rawang, Selangor, a manoeuvre every learner driver must master.",
+        "kb": 147
+      }
+    ]
   },
   "transport/driving-to-singapore-and-thailand": {
     "hero": {
@@ -5831,7 +5923,30 @@
       "alt": "The Johor-Singapore Causeway crossing the strait packed with vehicles, with an I love Johor billboard on the Malaysian side.",
       "kb": 177
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/transport/driving-to-singapore-and-thailand/body-1.webp",
+        "credit": "Nigos / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Malaysia-Singapore_Second_Link_bridge.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Malaysia-Singapore Second Link bridge (Tuas)",
+        "alt": "The Malaysia-Singapore Second Link road bridge spanning the Straits of Johor between Tanjung Kupang and Tuas.",
+        "kb": 72
+      },
+      {
+        "file": "/media/transport/driving-to-singapore-and-thailand/body-2.webp",
+        "credit": "Slleong / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bukit_Kayu_Hitam-Sadao_border_crossing_2.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Bukit Kayu Hitam-Sadao Malaysia-Thailand border crossing",
+        "alt": "The road approach to the Bukit Kayu Hitam land crossing on the Malaysia-Thailand border in Kedah.",
+        "kb": 176
+      }
+    ]
   },
   "transport/e-hailing-grab": {
     "hero": {
@@ -5845,7 +5960,30 @@
       "alt": "A white Hyundai Ioniq Electric car marked with green Grab Electric livery and the slogan 0 percent emisi on a road.",
       "kb": 127
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/transport/e-hailing-grab/body-1.webp",
+        "credit": "Taufik / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Grab-liveried car in Kota Kinabalu, Sabah",
+        "alt": "A sedan wrapped in green Grab ride-hailing livery and Malaysian flags drives along a street in Kota Kinabalu, Sabah.",
+        "kb": 176
+      },
+      {
+        "file": "/media/transport/e-hailing-grab/body-2.webp",
+        "credit": "Taufik / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Perarakan_Hari_Kebangsaan_2023_Sabah_Grab_03.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Grab contingent at a National Day parade in Kota Kinabalu",
+        "alt": "A Grab-branded contingent marching in the 2023 National Day parade in Kota Kinabalu, Sabah.",
+        "kb": 153
+      }
+    ]
   },
   "transport/e-scooters-and-personal-mobility-devices": {
     "hero": {
@@ -5859,7 +5997,30 @@
       "alt": "Three purple Beam shared electric scooters parked on a paved park path in Batu Pahat, Johor.",
       "kb": 260
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/transport/e-scooters-and-personal-mobility-devices/body-1.webp",
+        "credit": "Vincent60030 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:BEAM_e-scooter_Hotel_Olympic.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Shared Beam e-scooter parking near Merdeka MRT, Kuala Lumpur",
+        "alt": "A shared Beam e-scooter parked at a micromobility bay beside a hotel near Merdeka MRT station in Kuala Lumpur.",
+        "kb": 180
+      },
+      {
+        "file": "/media/transport/e-scooters-and-personal-mobility-devices/body-2.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Beam_Mobility_scooter_parked_at_Taman_Rekreasi_Tasik_Y_in_Batu_Pahat,_Johor_20250210_104833.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Shared Beam e-scooter at a lakeside park in Batu Pahat, Johor",
+        "alt": "A purple shared Beam Mobility e-scooter parked on a path at Taman Rekreasi Tasik Y in Batu Pahat, Johor.",
+        "kb": 236
+      }
+    ]
   },
   "transport/electric-vehicle-ownership": {
     "hero": {
@@ -5873,7 +6034,30 @@
       "alt": "A DC electric vehicle charger beside a marked charging bay reading Charge up and stay positive at a Malaysian highway rest area.",
       "kb": 174
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/transport/electric-vehicle-ownership/body-1.webp",
+        "credit": "Countryball mys123 / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Shell_Recharge_LDP_Puchong_South.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Shell Recharge DC fast-charging station, LDP Puchong South, Malaysia",
+        "alt": "A Shell Recharge DC fast-charging bay for electric vehicles at the LDP highway stop in Puchong, Selangor.",
+        "kb": 87
+      },
+      {
+        "file": "/media/transport/electric-vehicle-ownership/body-2.webp",
+        "credit": "LuvsMG481 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2023_BYD_ATTO_3_Ultra_front.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "BYD Atto 3 electric SUV in Penang, Malaysia",
+        "alt": "A blue 2023 BYD Atto 3 electric SUV, a popular Malaysian-market EV, parked in Penang.",
+        "kb": 153
+      }
+    ]
   },
   "transport/johor-bahru-singapore-rts-link": {
     "hero": {
@@ -5887,7 +6071,30 @@
       "alt": "The completed RTS Link rail viaduct curving on piers across the water of the Johor Strait under a cloudy sky.",
       "kb": 176
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/transport/johor-bahru-singapore-rts-link/body-1.webp",
+        "credit": "ZKang123 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bukit_Chagar_RTS_station_under_construction_20230606_142119.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Bukit Chagar RTS Link terminus station under construction, Johor Bahru",
+        "alt": "The Bukit Chagar RTS Link station taking shape under construction in Johor Bahru.",
+        "kb": 173
+      },
+      {
+        "file": "/media/transport/johor-bahru-singapore-rts-link/body-2.webp",
+        "credit": "Seloloving / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Johor_Bahru%E2%80%93Singapore_RTS_Link_CRRC_Zhuzhou_rolling_stock_on_trial_070626.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "RTS Link CRRC rolling stock on trial run",
+        "alt": "A CRRC Zhuzhou trainset for the Johor Bahru-Singapore RTS Link during a trial run.",
+        "kb": 144
+      }
+    ]
   },
   "transport/kl-singapore-high-speed-rail": {
     "hero": {
@@ -5901,7 +6108,30 @@
       "alt": "A sleek white and orange high-speed rail trainset stopped at a station platform as passengers board.",
       "kb": 115
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/transport/kl-singapore-high-speed-rail/body-1.webp",
+        "credit": "4300streetcar / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Taiwan_High_Speed_Rail_train_639_at_Tainan_HSR_station_May_2025.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Operating high-speed train in the region (Taiwan High Speed Rail), representative of a future KL-Singapore HSR",
+        "alt": "A Taiwan High Speed Rail trainset at a station platform, shown as a comparable regional high-speed railway.",
+        "kb": 126
+      },
+      {
+        "file": "/media/transport/kl-singapore-high-speed-rail/body-2.webp",
+        "credit": "Eric Salard / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Shinkansen_N700_at_HIroshima_Station_1_2025-03-27.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Operating high-speed train in the region (Japan's N700 Shinkansen), representative of a future KL-Singapore HSR",
+        "alt": "An N700-series Shinkansen high-speed train at Hiroshima Station in Japan, shown as a comparable regional high-speed railway.",
+        "kb": 156
+      }
+    ]
   },
   "transport/motor-insurance": {
     "hero": {
@@ -5915,7 +6145,30 @@
       "alt": "Cars queued bumper to bumper in a traffic jam on the Federal Highway in Malaysia beneath a pedestrian overpass.",
       "kb": 149
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/transport/motor-insurance/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Tow-truck-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Tow truck in Kuala Lumpur, Malaysia",
+        "alt": "A blue city tow truck in Kuala Lumpur, the kind that recovers vehicles after a breakdown or accident.",
+        "kb": 164
+      },
+      {
+        "file": "/media/transport/motor-insurance/body-2.webp",
+        "credit": "rahimhd / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Jalan_Bundusan_5pm_Traffic_Jam_towards_Beverley_Roundabout_-_panoramio.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Evening traffic jam on a city road, Kota Kinabalu, Sabah",
+        "alt": "Cars bumper to bumper in an evening traffic jam on Jalan Bundusan in Kota Kinabalu, Sabah.",
+        "kb": 61
+      }
+    ]
   },
   "transport/motorcycle-riding-rules": {
     "hero": {
@@ -5929,7 +6182,30 @@
       "alt": "A helmeted rider on an underbone motorcycle with a delivery box waits at a road junction in Gelugor, Penang.",
       "kb": 162
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/transport/motorcycle-riding-rules/body-1.webp",
+        "credit": "Lawantetaplawan / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Motorcycle_lane_Sungai_Petani_Utara.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Dedicated motorcycle lane near Sungai Petani Utara toll, Kedah",
+        "alt": "A segregated motorcycle lane running beside the main road near the Sungai Petani Utara toll plaza in Kedah.",
+        "kb": 119
+      },
+      {
+        "file": "/media/transport/motorcycle-riding-rules/body-2.webp",
+        "credit": "philip.mallis / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Street_with_motorcycle_and_scooter_parking_in_Little_India_in_George_Town,_Penang_-_53830462000.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Motorcycles and scooters lining a street in George Town, Penang",
+        "alt": "A row of motorcycles and scooters parked along a street in Little India, George Town, reflecting Malaysia's heavy two-wheeler use.",
+        "kb": 164
+      }
+    ]
   },
   "transport/mrt3-circle-line": {
     "hero": {
@@ -5943,7 +6219,30 @@
       "alt": "An MRT Kajang Line train runs along an elevated viaduct above a Kuala Lumpur road lined with apartment blocks.",
       "kb": 116
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/transport/mrt3-circle-line/body-1.webp",
+        "credit": "Slleong / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:SBK_Line_Bukit_Bintang_Station_Platform_1_1.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Existing Klang Valley MRT (Kajang Line) underground platform at Bukit Bintang",
+        "alt": "The underground platform at Bukit Bintang on the existing MRT Kajang Line, representative of Klang Valley MRT stations.",
+        "kb": 138
+      },
+      {
+        "file": "/media/transport/mrt3-circle-line/body-2.webp",
+        "credit": "*angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Jalan_Ipoh_Skyline_with_Putrajaya_Line_train_from_Batu_Kentonmen_KTM_Station_(220714).jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Elevated Klang Valley MRT (Putrajaya Line) viaduct above Kuala Lumpur",
+        "alt": "A Putrajaya Line MRT train on an elevated viaduct cutting across the Jalan Ipoh skyline in Kuala Lumpur.",
+        "kb": 175
+      }
+    ]
   },
   "transport/pan-borneo-highway": {
     "hero": {
@@ -5957,7 +6256,30 @@
       "alt": "A lorry travels along a section of the Pan Borneo Highway under construction in Sarawak, with red-and-white barriers lining the roadside.",
       "kb": 159
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/transport/pan-borneo-highway/body-1.webp",
+        "credit": "Ago Dagang / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Simanggang_(Sri_Aman)_Interchange,_Pan_Borneo_Sarawak,_Malaysia.png",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "the Simanggang (Sri Aman) interchange on the toll-free Pan Borneo Highway in Sarawak",
+        "alt": "An elevated view of a multi-lane highway interchange with sweeping exit ramps curving away from the main carriageway, set among green vegetation under a bright sky in rural Sarawak",
+        "kb": 151
+      },
+      {
+        "file": "/media/transport/pan-borneo-highway/body-2.webp",
+        "credit": "Cerevisae / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pan-Borneo_Highway_near_Sebangkoi_Park.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a stretch of the Pan Borneo Highway near Sebangkoi Park outside Sarikei, Sarawak",
+        "alt": "A long open stretch of tarmac highway running straight ahead through flat countryside lined with roadside trees and greenery under a cloudy Borneo sky",
+        "kb": 159
+      }
+    ]
   },
   "transport/parking-in-malaysian-cities": {
     "hero": {
@@ -5971,7 +6293,30 @@
       "alt": "A green twin coin-operated parking meter with Malay-language instructions stands beside a red grille on a George Town street in Penang.",
       "kb": 169
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/transport/parking-in-malaysian-cities/body-1.webp",
+        "credit": "angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Taman_Segar_multi-storey_car_park_(221028).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a multi-storey car park building in Taman Segar, Cheras, Kuala Lumpur",
+        "alt": "A tall concrete multi-storey car park building with open, grille-fronted parking decks stacked over several floors, seen from the street in a Malaysian suburb",
+        "kb": 171
+      },
+      {
+        "file": "/media/transport/parking-in-malaysian-cities/body-2.webp",
+        "credit": "Adam Jones / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Still_Life_with_No_Parking_Signs_-_George_Town_-_Penang_-_Malaysia_(35374672612).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a cluster of no-parking and roadside parking signs on a street in George Town, Penang",
+        "alt": "Several metal no-parking and roadside notice signs mounted close together on poles against a weathered wall along a George Town street",
+        "kb": 108
+      }
+    ]
   },
   "transport/penang-lrt-mutiara-line": {
     "hero": {
@@ -5985,7 +6330,30 @@
       "alt": "An aerial view of the cable-stayed Penang Bridge stretching across the turquoise strait between Penang Island and the mainland.",
       "kb": 73
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/transport/penang-lrt-mutiara-line/body-1.webp",
+        "credit": "angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rapid_Penang_302_(WB_7691_P)_at_Weld_Quay_Bus_Terminal_(240919).jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "a Rapid Penang public bus at Weld Quay Bus Terminal in George Town, Penang",
+        "alt": "A blue-and-white Rapid Penang city bus parked at a covered bus terminal bay, with its route number displayed on the front destination panel",
+        "kb": 150
+      },
+      {
+        "file": "/media/transport/penang-lrt-mutiara-line/body-2.webp",
+        "credit": "Weareblahs / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Penang_Free_CAT_Bus_with_Visit_Malaysia_2026_wrapping_approaching_Komtar_II_station.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "a free CAT shuttle bus on a George Town street approaching the Komtar transport hub in Penang",
+        "alt": "A city shuttle bus in a colourful advertising wrap driving along a George Town street, approaching a covered roadside bus station",
+        "kb": 166
+      }
+    ]
   },
   "transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail": {
     "hero": {
@@ -5999,7 +6367,30 @@
       "alt": "A stainless-steel passenger lift marked with a blue wheelchair accessibility sign and tactile floor tiles at the KLCC LRT station in Kuala Lumpur.",
       "kb": 82
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-1.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:KG_Line_Surian_-_Tactile_Paving.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "tactile guidance paving on the platform at Surian MRT station, Kota Damansara, in the Klang Valley",
+        "alt": "A row of bright yellow tactile paving tiles with raised bars running along the edge of a clean MRT station platform to guide blind passengers",
+        "kb": 138
+      },
+      {
+        "file": "/media/transport/planning-a-wheelchair-friendly-journey-on-klang-valley-rail/body-2.webp",
+        "credit": "angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hospital_Kuala_Lumpur_MRT_Station_platform_(230418)_01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a platform with platform-screen doors at Hospital Kuala Lumpur MRT station in the Klang Valley",
+        "alt": "A wide, level MRT station platform with full-height platform screen doors along the track edge and tactile paving marking the boarding zones",
+        "kb": 99
+      }
+    ]
   },
   "transport/tolls-smarttag-rfid": {
     "hero": {
@@ -6013,7 +6404,30 @@
       "alt": "A car passes at night beneath two illuminated yellow SmartTAG lane signs at a Malaysian expressway toll plaza.",
       "kb": 128
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/transport/tolls-smarttag-rfid/body-1.webp",
+        "credit": "Sharon Hahn Darlin / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Toll_plaza,_Ipoh,_Perak,_Malaysia.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a daytime highway toll plaza with multiple lanes and booths near Ipoh, Perak",
+        "alt": "A wide highway toll plaza seen in daylight, with a row of toll booths and overhead lane canopies spanning several payment lanes",
+        "kb": 175
+      },
+      {
+        "file": "/media/transport/tolls-smarttag-rfid/body-2.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:MyRFid_Kota_Damansara_Toll_Plaza_1.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "an RFID exit lane at Kota Damansara Toll Plaza, Selangor",
+        "alt": "A toll plaza exit lane marked for RFID payment, with a lane barrier and overhead reader gantry above the road near Kota Damansara",
+        "kb": 91
+      }
+    ]
   },
   "transport/touch-n-go": {
     "hero": {
@@ -6027,7 +6441,30 @@
       "alt": "Overhead lane signs reading Touch 'n GO, MyRFID and SmartTAG mark cashless toll booths at Gombak Toll Plaza, with RFID painted across the road.",
       "kb": 125
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/transport/touch-n-go/body-1.webp",
+        "credit": "ItsTomato / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:RFID_Tag,_MyRFID_toll_booth_lane_at_Gombak_Toll_Plaza.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a Touch 'n Go RFID tag read at a MyRFID toll lane at Gombak Toll Plaza, Selangor",
+        "alt": "A Touch 'n Go RFID windscreen tag at a toll lane, with the lane barrier and an overhead RFID reader gantry at the toll booth",
+        "kb": 125
+      },
+      {
+        "file": "/media/transport/touch-n-go/body-2.webp",
+        "credit": "Fazley Fadzil / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:KLCC_LRT_station_faregates.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "fare gates at KLCC LRT station where travel cards such as Touch 'n Go are tapped",
+        "alt": "A row of automated fare gates at a rail station entrance, with card readers on each gate and a shopping mall concourse visible beyond",
+        "kb": 143
+      }
+    ]
   },
   "transport/traffic-summons-saman": {
     "hero": {
@@ -6041,7 +6478,30 @@
       "alt": "A Malaysian traffic police officer stands writing beside his white POLIS patrol motorcycle at a busy Kuala Lumpur city intersection.",
       "kb": 157
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/transport/traffic-summons-saman/body-1.webp",
+        "credit": "Original uploader (ms.wikipedia) / Wikimedia Commons",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Sekatanjalanraya.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a Malaysian police roadblock where officers stop and inspect vehicles",
+        "alt": "Police officers in uniform standing at a roadblock on a roadway, checking vehicles as they slow to a stop at the checkpoint",
+        "kb": 91
+      },
+      {
+        "file": "/media/transport/traffic-summons-saman/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Traffic-police-02.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "a traffic police officer on duty directing traffic on a street in Kuala Lumpur",
+        "alt": "A Malaysian traffic police officer in a reflective vest and helmet standing in a city street managing passing vehicles",
+        "kb": 157
+      }
+    ]
   },
   "sports/badminton-in-malaysia": {
     "hero": {
@@ -6279,7 +6739,30 @@
       "alt": "A modern three-storey Malaysian national primary school building with a covered porch and cars parked outside under a clear blue sky.",
       "kb": 168
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/academic-calendar-and-school-holidays/body-1.webp",
+        "credit": "Fadzuan Ehsan / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Suasana_Sekolah_3.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A Malaysian school assembly ground (tapak perhimpunan)",
+        "alt": "An empty flag-lined assembly square at a Malaysian school where pupils gather each morning before the day's first lessons begin.",
+        "kb": 175
+      },
+      {
+        "file": "/media/education/academic-calendar-and-school-holidays/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_School-girls-on-a-motorbike-01.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Uniformed schoolgirls heading home after class in Langkawi",
+        "alt": "Two schoolgirls in uniform ride a motorbike home along a Langkawi road once the school session has ended for the day.",
+        "kb": 64
+      }
+    ]
   },
   "education/after-spm-options": {
     "hero": {
@@ -6293,7 +6776,30 @@
       "alt": "The white arched main gate of Universiti Malaya in Kuala Lumpur, lettered \"UNIVERSITI MALAYA\" with the university crest, spanning the campus entrance road.",
       "kb": 152
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/after-spm-options/body-1.webp",
+        "credit": "PeaceSeekers / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Building_of_Faculty_of_Education_Universiti_Malaya.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Faculty of Education building, Universiti Malaya",
+        "alt": "A faculty building at Universiti Malaya, one of the public-university degree routes a student can aim for after SPM.",
+        "kb": 179
+      },
+      {
+        "file": "/media/education/after-spm-options/body-2.webp",
+        "credit": "AyyanD / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "UiTM Rembau campus, Negeri Sembilan",
+        "alt": "The faculty, library and administration blocks of the UiTM Rembau branch campus, a public tertiary pathway open to SPM leavers.",
+        "kb": 80
+      }
+    ]
   },
   "education/before-paying-a-college-deposit": {
     "hero": {
@@ -6307,7 +6813,30 @@
       "alt": "Taylor's University Lakeside Campus towers reflected in a lake at dusk, with a red \"TAYLOR'S UNI\" sign on the main building.",
       "kb": 148
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/before-paying-a-college-deposit/body-1.webp",
+        "credit": "RUMC / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:RUMC_Facade.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "RCSI & UCD Malaysia Campus (RUMC), Penang",
+        "alt": "The glass facade of RCSI and UCD Malaysia Campus, a private university of the kind that asks new students for an enrolment deposit.",
+        "kb": 171
+      },
+      {
+        "file": "/media/education/before-paying-a-college-deposit/body-2.webp",
+        "credit": "Cmglee / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_University_new_building.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Sunway University campus building, Bandar Sunway",
+        "alt": "A modern teaching block on the Sunway University campus, a private institution where applicants weigh fees and deposits before committing.",
+        "kb": 151
+      }
+    ]
   },
   "education/chinese-education-in-malaysia": {
     "hero": {
@@ -6321,7 +6850,30 @@
       "alt": "The blue entrance archway of SJK (C) Chun Yin, lettered in Chinese characters and \"SEKOLAH JENIS KEBANGSAAN CINA CHUN YIN\", leading to the school grounds.",
       "kb": 178
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/chinese-education-in-malaysia/body-1.webp",
+        "credit": "CW Tan (PenangLion) / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Chung_Ling_High_School_(October_2022).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Chung Ling High School, Penang",
+        "alt": "The tree-lined campus of Chung Ling High School in Penang, one of Malaysia's long-established Chinese-medium secondary schools.",
+        "kb": 180
+      },
+      {
+        "file": "/media/education/chinese-education-in-malaysia/body-2.webp",
+        "credit": "*angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:SJK_(C)_Confucian.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "SJK(C) Confucian, a Chinese-medium primary school in Kuala Lumpur",
+        "alt": "The entrance and name board of SJK(C) Confucian in Kuala Lumpur, one of the Chinese-medium government-aided primary schools that feed the vernacular system.",
+        "kb": 96
+      }
+    ]
   },
   "education/degree-plus-acca-or-cima-accounting-study-routes": {
     "hero": {
@@ -6335,7 +6887,30 @@
       "alt": "A Malaysian university lecture-hall complex with a sign reading \"KOMPLEKS DEWAN KULIAH\" beside maroon academic buildings and a covered walkway.",
       "kb": 164
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/degree-plus-acca-or-cima-accounting-study-routes/body-1.webp",
+        "credit": "Mfook / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dewan_Kuliah_Pusat.JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A university lecture hall at Universiti Malaysia Sabah",
+        "alt": "Rows of tiered seating in a Malaysian university lecture hall of the kind where degree and professional accounting students sit for classes.",
+        "kb": 154
+      },
+      {
+        "file": "/media/education/degree-plus-acca-or-cima-accounting-study-routes/body-2.webp",
+        "credit": "Vincent60030 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Engine_library_Oct_2021_empty_view_desks.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Study desks in a University of Malaya library",
+        "alt": "Quiet rows of individual study desks in a University of Malaya library, where students grind through degree and ACCA or CIMA papers.",
+        "kb": 129
+      }
+    ]
   },
   "education/enrolling-in-a-government-school": {
     "hero": {
@@ -6349,7 +6924,30 @@
       "alt": "The pink multi-storey building of Sekolah Kebangsaan Kota Warisan in Sepang, Selangor, with its name signboard on the facade and a fenced compound along a road.",
       "kb": 159
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/enrolling-in-a-government-school/body-1.webp",
+        "credit": "Stress 043 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ayer_Keroh_National_School_main_building_back.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Sekolah Kebangsaan Ayer Keroh, Melaka",
+        "alt": "The main teaching block of a national primary school in Ayer Keroh, Melaka, the type of government school most families register their children into.",
+        "kb": 169
+      },
+      {
+        "file": "/media/education/enrolling-in-a-government-school/body-2.webp",
+        "credit": "Fadidfadilah / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:LALUAN_MASUK_KE_SEKOLAH.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "The flag-lined entrance walkway into a Malaysian government school",
+        "alt": "A covered walkway flanked by Malaysian flags leads up to a government school gate, the path new pupils take on their first enrolment day.",
+        "kb": 173
+      }
+    ]
   },
   "education/gifted-and-talented-education": {
     "hero": {
@@ -6363,7 +6961,30 @@
       "alt": "The exterior stairway and entrance of a building lettered \"PUSAT SUMBER PERMATAPINTAR\", the resource centre of Malaysia's national gifted-education programme.",
       "kb": 80
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/gifted-and-talented-education/body-1.webp",
+        "credit": "Smkda / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Makmal_komputer_1.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Students at work in a Malaysian school computer lab",
+        "alt": "Pupils seated at rows of desktop computers during a lesson in a Malaysian secondary-school computer lab.",
+        "kb": 71
+      },
+      {
+        "file": "/media/education/gifted-and-talented-education/body-2.webp",
+        "credit": "Chongkian / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:UTM-Proton_Future_Drive_Laboratory.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "An advanced engineering laboratory at Universiti Teknologi Malaysia",
+        "alt": "A university research laboratory at UTM in Johor fitted with vehicles and instruments, the kind of advanced facility that stretches high-ability learners.",
+        "kb": 103
+      }
+    ]
   },
   "education/international-students-studying-in-malaysia": {
     "hero": {
@@ -6377,7 +6998,30 @@
       "alt": "The entrance of Monash University Malaysia campus, with a covered walkway sign reading \"MONASH University\" linking two beige academic blocks by a glass skybridge.",
       "kb": 126
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/international-students-studying-in-malaysia/body-1.webp",
+        "credit": "Faizalrahmat85 / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Main entrance of University of Nottingham Malaysia",
+        "alt": "The signed, greenery-fringed main entrance of University of Nottingham Malaysia, a British branch campus that enrols many international students.",
+        "kb": 153
+      },
+      {
+        "file": "/media/education/international-students-studying-in-malaysia/body-2.webp",
+        "credit": "Xiamen University Malaysia / Wikimedia Commons",
+        "license": "Public Domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Xiamen_University_Malaysia_at_afternoon.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Xiamen University Malaysia campus, Sepang",
+        "alt": "The afternoon sun on the colonnaded main building of Xiamen University Malaysia, a Chinese branch campus near Kuala Lumpur drawing students from abroad.",
+        "kb": 226
+      }
+    ]
   },
   "education/islamic-and-religious-schools": {
     "hero": {
@@ -6391,7 +7035,30 @@
       "alt": "A line of students in blue baju kurung and black headscarves walking into Sekolah Menengah Agama Al-Maarif, a Malaysian religious secondary school, past coconut palms.",
       "kb": 133
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/islamic-and-religious-schools/body-1.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:View_west_of_Madrasah_Tahfiz_al-Quran_Hamidiah_in_Batu_Pahat,_Johor_20250206_144252.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Madrasah Tahfiz al-Quran Hamidiah, Batu Pahat, Johor",
+        "alt": "The quiet exterior of a tahfiz school in Batu Pahat, Johor, where students board to memorise the Quran alongside their studies.",
+        "kb": 161
+      },
+      {
+        "file": "/media/education/islamic-and-religious-schools/body-2.webp",
+        "credit": "Chongkian / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Peringgit_Religious_Primary_School.JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Peringgit Religious Primary School, Melaka",
+        "alt": "The modest building of a religious primary school (sekolah agama) in Peringgit, Melaka, where children take Islamic studies in the afternoon session.",
+        "kb": 111
+      }
+    ]
   },
   "education/jpa-and-public-scholarships": {
     "hero": {
@@ -6405,7 +7072,30 @@
       "alt": "Modern yellow-and-grey faculty buildings of a UiTM campus in Rembau, a Malaysian public university, with students walking along the campus road.",
       "kb": 80
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/jpa-and-public-scholarships/body-1.webp",
+        "credit": "*angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Engineering Campus of Universiti Sains Malaysia, a Malaysian public research university",
+        "alt": "Modern academic buildings and landscaped grounds at the Engineering Campus of Universiti Sains Malaysia",
+        "kb": 64
+      },
+      {
+        "file": "/media/education/jpa-and-public-scholarships/body-2.webp",
+        "credit": "Slleong / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:DHU_1.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Graduands in robes at a Malaysian university convocation ceremony (DRB-HICOM University, 2023)",
+        "alt": "Rows of graduating students in academic gowns and mortarboards seated at a Malaysian university convocation",
+        "kb": 179
+      }
+    ]
   },
   "education/malaysian-education-system": {
     "hero": {
@@ -6419,7 +7109,30 @@
       "alt": "A group of smiling Malaysian secondary-school students posing together in their school uniforms, including white shirts, headscarves and house tracksuits.",
       "kb": 125
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/malaysian-education-system/body-1.webp",
+        "credit": "Qwerqwer133 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Murid_sekolah_Sum_Sun_menggunakan_tablet_di_perpustakaan_pintar.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Malaysian primary pupils learning with tablets in a school smart library",
+        "alt": "Schoolchildren in uniform using tablet computers at desks in a Malaysian school smart library",
+        "kb": 136
+      },
+      {
+        "file": "/media/education/malaysian-education-system/body-2.webp",
+        "credit": "Countryball mys123 / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bangunan_SMK_Bandar_Saujana_Putra.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A Malaysian national secondary school building (SMK Bandar Saujana Putra)",
+        "alt": "Multi-storey Malaysian secondary school building with covered walkways under a blue sky",
+        "kb": 156
+      }
+    ]
   },
   "education/malaysian-qualifications-agency-and-accreditation": {
     "hero": {
@@ -6433,7 +7146,30 @@
       "alt": "A wall-mounted nameplate bearing the crest and words \"UNIVERSITI KEBANGSAAN MALAYSIA / The National University of Malaysia\" on a stone-clad wall.",
       "kb": 158
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/malaysian-qualifications-agency-and-accreditation/body-1.webp",
+        "credit": "Press Information Department (Government of Bangladesh) / Wikimedia Commons",
+        "license": "Public Domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Honorary_Doctorate_Universiti_Kebangsaan_Malaysia_2025-08-13_(PID-0000370).jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A special convocation conferring a degree at Universiti Kebangsaan Malaysia",
+        "alt": "Academics in ceremonial robes conferring a degree on stage during a convocation at Universiti Kebangsaan Malaysia",
+        "kb": 177
+      },
+      {
+        "file": "/media/education/malaysian-qualifications-agency-and-accreditation/body-2.webp",
+        "credit": "Wee Hong / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bangunan_Canselori_Putra,_UPM.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Chancellery (administrative hall) building of Universiti Putra Malaysia",
+        "alt": "The curved Canselori Putra chancellery building of Universiti Putra Malaysia beside a landscaped plaza",
+        "kb": 131
+      }
+    ]
   },
   "education/malaysian-school-system": {
     "hero": {
@@ -6447,7 +7183,30 @@
       "alt": "An aerial view of Sekolah Menengah Kebangsaan Seksyen 3 Bandar Kinrara, showing the school's quadrangle of classroom blocks, a sports field and a residential neighbourhood.",
       "kb": 176
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/malaysian-school-system/body-1.webp",
+        "credit": "Mysiddiq / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Cheras.JPG",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A Malaysian national secondary school building (SMK Cheras)",
+        "alt": "Facade of a Malaysian secondary school building with a flagpole and forecourt",
+        "kb": 146
+      },
+      {
+        "file": "/media/education/malaysian-school-system/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Malaysian secondary-school students in their school uniforms (Sandakan, Sabah)",
+        "alt": "A group of Malaysian secondary school students wearing their distinctive school uniforms outdoors",
+        "kb": 125
+      }
+    ]
   },
   "education/mrsm-and-fully-residential-schools": {
     "hero": {
@@ -6461,7 +7220,30 @@
       "alt": "Entrance and signboard of Maktab Rendah Sains MARA (MRSM) Batu Pahat in Johor, a Malaysian fully residential science college, with national and state flags lining the gate.",
       "kb": 141
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/mrsm-and-fully-residential-schools/body-1.webp",
+        "credit": "AyyanD / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:MRSM_Gemencheh.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Main entrance of MARA Junior Science College (MRSM) Gemencheh",
+        "alt": "Entrance signage and gateway of MARA Junior Science College (MRSM) Gemencheh beside a rural road",
+        "kb": 105
+      },
+      {
+        "file": "/media/education/mrsm-and-fully-residential-schools/body-2.webp",
+        "credit": "Mra1001 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:SBPIS_MELAKA_2.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Campus of a fully residential school, Sekolah Berasrama Penuh Integrasi (SBPI) Melaka",
+        "alt": "Panorama of the campus buildings and grounds of a Malaysian fully residential school in Melaka",
+        "kb": 53
+      }
+    ]
   },
   "education/muet-and-university-entrance-tests": {
     "hero": {
@@ -6475,7 +7257,30 @@
       "alt": "Rows of students seated at individual desks sitting an examination in a university hall in Malaysia, with an invigilator walking between the aisles.",
       "kb": 179
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/muet-and-university-entrance-tests/body-1.webp",
+        "credit": "LM UPSI 2019 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A Malaysian school hall used for sitting examinations",
+        "alt": "Interior of a large Malaysian school hall used as an examination venue, with stage and rows of floor space",
+        "kb": 96
+      },
+      {
+        "file": "/media/education/muet-and-university-entrance-tests/body-2.webp",
+        "credit": "*angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Lecture hall complex at Sultan Idris Education University (UPSI)",
+        "alt": "Aerial view of the lecture hall complex on a Malaysian university campus",
+        "kb": 164
+      }
+    ]
   },
   "education/national-schools-sk-sjkc-sjkt": {
     "hero": {
@@ -6489,7 +7294,30 @@
       "alt": "Single-storey building of Sekolah Kebangsaan Tungku, a Malaysian national primary school in Sabah, flying the Malaysian flag, with the school motto painted on its wall.",
       "kb": 177
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/national-schools-sk-sjkc-sjkt/body-1.webp",
+        "credit": "Ceball1923 / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sekolah_Jenis_Kebangsaan_(Cina)_Chong_San.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A national-type Chinese school, SJK(C) Chong San in Bagan Datuk, Perak",
+        "alt": "Building and signage of a national-type Chinese primary school, SJK(C) Chong San",
+        "kb": 141
+      },
+      {
+        "file": "/media/education/national-schools-sk-sjkc-sjkt/body-2.webp",
+        "credit": "Wiki Farazi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:SJK_(T)_Saraswathy,_Sungai_Buloh_01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A national-type Tamil school, SJK(T) Saraswathy in Sungai Buloh",
+        "alt": "Building and signage of a national-type Tamil primary school, SJK(T) Saraswathy",
+        "kb": 168
+      }
+    ]
   },
   "education/pibg-and-school-fees": {
     "hero": {
@@ -6503,7 +7331,30 @@
       "alt": "Low red-roofed buildings and green field of a primary school in Brickfields, Kuala Lumpur, set against the high-rise skyline of KL Sentral.",
       "kb": 174
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/pibg-and-school-fees/body-1.webp",
+        "credit": "Saiff / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:SMK_Darulaman_Heights_1.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A Malaysian national secondary school building (SMK Darulaman Heights)",
+        "alt": "Multi-storey Malaysian secondary school building with a paved assembly courtyard",
+        "kb": 179
+      },
+      {
+        "file": "/media/education/pibg-and-school-fees/body-2.webp",
+        "credit": "Cermin Mata / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Perasmian_PIBG.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A Parent-Teacher Association (PIBG) general meeting at a Malaysian school",
+        "alt": "Parents and teachers gathered in a school hall for a Parent-Teacher Association (PIBG) meeting",
+        "kb": 79
+      }
+    ]
   },
   "education/pre-university-routes": {
     "hero": {
@@ -6517,7 +7368,30 @@
       "alt": "Academic block of Kolej Matrikulasi Kelantan, a Malaysian matriculation college offering a pre-university route, under a blue sky.",
       "kb": 173
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/pre-university-routes/body-1.webp",
+        "credit": "Aero777 / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:KDU_University_College,_Damansara_Jaya_campus.JPG",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Campus of a Malaysian college offering pre-university / foundation programmes (KDU University College, Damansara Jaya)",
+        "alt": "Modern campus buildings of a Malaysian college that offers pre-university foundation programmes",
+        "kb": 172
+      },
+      {
+        "file": "/media/education/pre-university-routes/body-2.webp",
+        "credit": "PeaceSeekers / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bangunan_Makmal_Fakulti_Sains_dan_Teknologi_UKM.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Science laboratory building, Faculty of Science and Technology, Universiti Kebangsaan Malaysia",
+        "alt": "Laboratory building of a Malaysian university's faculty of science and technology",
+        "kb": 152
+      }
+    ]
   },
   "education/preschool-tadika-childcare": {
     "hero": {
@@ -6531,7 +7405,30 @@
       "alt": "Front of Tadika Al-Falah, a Malaysian preschool in Johor, with a welcome sign and a painted alphabet mural along the wall.",
       "kb": 179
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/preschool-tadika-childcare/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Tadika-Holy-Trinity-00.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Front of a Malaysian tadika (kindergarten) decorated with colourful bunting and cartoon murals",
+        "alt": "Entrance and front yard of Tadika Holy Trinity in Tawau, Sabah, with a signboard, colourful bunting and painted cartoon murals; a few young children are visible in the distant playground.",
+        "kb": 179
+      },
+      {
+        "file": "/media/education/preschool-tadika-childcare/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Keningau_Sabah_StFrancisXavier_Tadika_01.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A Malaysian preschool building painted with children's murals",
+        "alt": "Street view of Tadika St. Francis Xavier in Keningau, Sabah, a single-storey kindergarten building with a green fence and walls painted with murals of flowers, a bee and a mushroom.",
+        "kb": 179
+      }
+    ]
   },
   "education/private-and-chinese-independent-schools": {
     "hero": {
@@ -6545,7 +7442,30 @@
       "alt": "Main building of Papar Middle School, a Chinese independent high school in Sabah, with its name shown in Chinese and English on the facade.",
       "kb": 169
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/private-and-chinese-independent-schools/body-1.webp",
+        "credit": "CW Tan (PenangLion) / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Chung_Ling_Private_High_School.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Chung Ling (Private) High School, a Chinese independent high school in Penang",
+        "alt": "Front facade of Sekolah Menengah Chung Ling (Persendirian) / Chung Ling (Private) High School in Penang, a white multi-storey building with columns and the school name in Malay, Chinese and English.",
+        "kb": 150
+      },
+      {
+        "file": "/media/education/private-and-chinese-independent-schools/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Kuen-Cheng-High-School-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Kuen Cheng High School, a Chinese independent high school in Kuala Lumpur",
+        "alt": "The large multi-storey main building of Kuen Cheng High School in Kuala Lumpur, with its name shown in Chinese (坤成中学) and English on the roofline.",
+        "kb": 170
+      }
+    ]
   },
   "education/ptptn-student-loan": {
     "hero": {
@@ -6559,7 +7479,30 @@
       "alt": "Entrance gateway of the Universiti Teknologi Malaysia Kuala Lumpur campus, with the UTM emblem on the archway over the driveway.",
       "kb": 160
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/ptptn-student-loan/body-1.webp",
+        "credit": "Hayatiar / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A Malaysian public university campus (Universiti Teknologi MARA)",
+        "alt": "The chancellery building of Universiti Teknologi MARA (UiTM), a large modern glass-and-concrete public university building standing on a landscaped rise with flags out front.",
+        "kb": 160
+      },
+      {
+        "file": "/media/education/ptptn-student-loan/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:KotaKinabalu-Sabah_Universiti-Malaysia-Sabah-Chancellory-01.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A Malaysian public university landmark (Universiti Malaysia Sabah chancellery)",
+        "alt": "The distinctive blue-and-cream chancellery (Canselori) building of Universiti Malaysia Sabah in Kota Kinabalu, a public university landmark set above a landscaped lawn.",
+        "kb": 140
+      }
+    ]
   },
   "education/special-education-and-learning-support": {
     "hero": {
@@ -6573,7 +7516,30 @@
       "alt": "Group portrait of the teachers and student-management assistants of the special-education integration programme (PPKI) at a Malaysian secondary school, SMK Taman Universiti.",
       "kb": 139
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/special-education-and-learning-support/body-1.webp",
+        "credit": "Wee Hong / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:SK_Pendidikan_Khas_Batu_Pahat.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A Malaysian national special-education school",
+        "alt": "Entrance and welcome arch of SK Pendidikan Khas Batu Pahat, a government special-education primary school in Johor, with Malay-language signboards at the gate.",
+        "kb": 162
+      },
+      {
+        "file": "/media/education/special-education-and-learning-support/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pensiangan_Sabah_SRK-Pensiangan-06.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A Malaysian government primary school building",
+        "alt": "A single-storey wooden classroom block of a rural government primary school in Pensiangan, Sabah, set against forested hills.",
+        "kb": 171
+      }
+    ]
   },
   "education/tamil-vernacular-schools": {
     "hero": {
@@ -6587,7 +7553,30 @@
       "alt": "Gate and multi-storey building of Sekolah Jenis Kebangsaan (Tamil) Seri Pelangi, a Malaysian Tamil-medium national-type primary school in Johor.",
       "kb": 124
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/tamil-vernacular-schools/body-1.webp",
+        "credit": "Ksmuthukrishnan / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Signboard of a Tamil-medium national-type school, SJK(T) Changlun",
+        "alt": "The blue entrance signboard of S.J.K (Tamil) Changlun in Kedah, showing the school name in Tamil and Malay together with the school crest.",
+        "kb": 150
+      },
+      {
+        "file": "/media/education/tamil-vernacular-schools/body-2.webp",
+        "credit": "Ksmuthukrishnan / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom1(1).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Classroom block of a Tamil-medium school, SJK(T) Changlun",
+        "alt": "The classroom block and courtyard of SJK(T) Changlun in Kedah, with classroom doorways, notice boards and flags along a covered walkway.",
+        "kb": 172
+      }
+    ]
   },
   "education/tvet-and-skills-training": {
     "hero": {
@@ -6601,7 +7590,30 @@
       "alt": "Entrance and signboard of Kolej Vokasional Sungai Buloh, a Malaysian vocational college for technical and skills (TVET) training.",
       "kb": 107
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/tvet-and-skills-training/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kinarut_Sabah_MontfortYouthTrainingCenter-16.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Interior of a Malaysian youth skills-training centre",
+        "alt": "The covered central hall of Montfort Youth Training Centre, a vocational skills-training campus in Kinarut, Sabah, with a stage banner reading 'Through Work Achieve Success'.",
+        "kb": 146
+      },
+      {
+        "file": "/media/education/tvet-and-skills-training/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_PoliteknikKotaKinabalu-03.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A Malaysian polytechnic campus (Politeknik Kota Kinabalu)",
+        "alt": "A curved covered entrance walkway and modern academic block at Politeknik Kota Kinabalu in Sabah.",
+        "kb": 169
+      }
+    ]
   },
   "education/unified-examination-certificate-uec": {
     "hero": {
@@ -6615,7 +7627,30 @@
       "alt": "Entrance signboard and grounds of Sabah Chinese High School (Sekolah Tinggi Cina Sabah) in Tawau, a Chinese independent high school of the type whose students sit the Unified Examination Certificate.",
       "kb": 179
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/unified-examination-certificate-uec/body-1.webp",
+        "credit": "Kaart @ Mapillary.com / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Foon Yew High School, a Chinese independent high school in Johor Bahru",
+        "alt": "The entrance arch and signboard of Sekolah Menengah Foon Yew / Foon Yew High School (寬柔中學) in Johor Bahru, with the Johor state flag and school emblem.",
+        "kb": 177
+      },
+      {
+        "file": "/media/education/unified-examination-certificate-uec/body-2.webp",
+        "credit": "Chongkian / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School_Library.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The library building of Foon Yew High School",
+        "alt": "The multi-storey library building (Perpustakaan) of Foon Yew High School in Johor Bahru, with its name displayed in Malay and Chinese above a tiled porch.",
+        "kb": 163
+      }
+    ]
   },
   "education/upsr-to-spm-exams": {
     "hero": {
@@ -6629,7 +7664,30 @@
       "alt": "View into the school hall (dewan) of SMK Gajah Berang in Malaysia, with students seated in rows of chairs facing the stage, the type of hall used for assemblies and public examinations.",
       "kb": 96
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/education/upsr-to-spm-exams/body-1.webp",
+        "credit": "Zahirulnukman / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A Malaysian secondary-school hall of the kind used for public examinations",
+        "alt": "The colourful blue-and-yellow school hall (dewan) of SMK Bugaya II in Sabah, the kind of hall in which public examinations such as the SPM are sat.",
+        "kb": 174
+      },
+      {
+        "file": "/media/education/upsr-to-spm-exams/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A Malaysian secondary school (SMK Sapulut)",
+        "alt": "A multi-storey classroom block of SMK Sapulut, a government secondary school in Sabah.",
+        "kb": 144
+      }
+    ]
   },
   "property/assessment-and-quit-rent": {
     "hero": {
@@ -9740,5 +10798,32 @@
       "kb": 175
     },
     "body": []
+  },
+  "transport/intercity-travel": {
+    "hero": null,
+    "body": [
+      {
+        "file": "/media/transport/intercity-travel/body-1.webp",
+        "credit": "*angys* / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Terminal_Bersepadu_Selatan_concourse_(211112).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Terminal Bersepadu Selatan (TBS) express-bus terminal concourse, Kuala Lumpur",
+        "alt": "The spacious concourse of Terminal Bersepadu Selatan, Kuala Lumpur's integrated express-bus terminal.",
+        "kb": 157
+      },
+      {
+        "file": "/media/transport/intercity-travel/body-2.webp",
+        "credit": "Hiroki.loh.st / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:KLS_ETS_Platform.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "KTM intercity rail platform at KL Sentral",
+        "alt": "An ETS intercity train waiting at a platform of KL Sentral, the hub of KTM's intercity rail network.",
+        "kb": 160
+      }
+    ]
   }
 }

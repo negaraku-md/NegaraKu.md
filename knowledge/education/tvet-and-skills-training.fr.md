@@ -19,7 +19,7 @@ keyTakeaways:
   - "Les Collèges communautaires se concentrent sur les certificats de niveau inférieur avec une entrée plus souple, tandis que les Polytechniques se concentrent sur les diplômes ; les deux sont supervisés par le JPPKK sous le ministère de l'Enseignement supérieur"
 appliesTo: "Élèves après la Form 3 ou le SPM, parents planifiant la carrière de leur enfant et travailleurs adultes souhaitant certifier des compétences existantes via le SKM."
 lang: "fr"
-sourceContentHash: "1f78c1d4c5cb8fba"
+sourceContentHash: "4f35bcba22c98fdc"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -73,6 +73,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kolej_Vokasional_Sungai_Buloh_1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-1.webp
+    alt: Le hall central couvert du Montfort Youth Training Centre, un campus de formation professionnelle à Kinarut, Sabah, avec sur la scène une banderole portant l'inscription « Through Work Achieve Success ».
+    kind: actual
+    origin: third-party
+    subject: Intérieur d'un centre malaisien de formation professionnelle pour la jeunesse
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinarut_Sabah_MontfortYouthTrainingCenter-16.jpg
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-2.webp
+    alt: Une allée d'entrée couverte et incurvée et un bloc universitaire moderne au Politeknik Kota Kinabalu, à Sabah.
+    kind: actual
+    origin: third-party
+    subject: Un campus d'institut polytechnique malaisien (Politeknik Kota Kinabalu)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_PoliteknikKotaKinabalu-03.jpg
 ---
 
 De nombreux élèves de Form 3 et leurs parents ne voient qu'un seul chemin après le

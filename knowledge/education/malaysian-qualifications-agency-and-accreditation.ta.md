@@ -34,7 +34,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "35dc11bf078ce7cc"
+sourceContentHash: "c14bc638e4d2ad46"
 
 status: "published"
 aiAssisted: true
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-1.webp
+    alt: Universiti Kebangsaan Malaysia-வில் நடந்த பட்டமளிப்பு விழாவில் விழா அங்கிகள் அணிந்த கல்வியாளர்கள் மேடையில் பட்டம் வழங்குகிறார்கள்
+    kind: representative
+    origin: third-party
+    subject: Universiti Kebangsaan Malaysia-வில் பட்டம் வழங்கும் சிறப்புப் பட்டமளிப்பு விழா
+    credit: Press Information Department (Government of Bangladesh) / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Honorary_Doctorate_Universiti_Kebangsaan_Malaysia_2025-08-13_(PID-0000370).jpg
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-2.webp
+    alt: நிலக்காட்சி அமைக்கப்பட்ட பிளாசாவுக்கு அருகில் அமைந்த Universiti Putra Malaysia-இன் வளைவான Canselori Putra நிர்வாகக் கட்டிடம்
+    kind: representative
+    origin: third-party
+    subject: Universiti Putra Malaysia-இன் Canselori (நிர்வாக மண்டபம்) கட்டிடம்
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Canselori_Putra,_UPM.jpg
 ---
 
 இரண்டு மாணவர்கள் ஒரே மாதிரி ஒலிக்கும் டிப்ளோமாவுடன் பட்டம் பெறுகின்றனர். ஒருவர் அரசு வேலைக்கும் முதுகலைப் படிப்பு இடத்திற்கும் தகுதி பெறுகிறார்; மற்றவரோ வாசலிலேயே திருப்பியனுப்பப்படுகிறார். இந்த வேறுபாடு பெரும்பாலும் ஒரு பொதுப் பதிவேட்டில் உள்ள ஒரே ஒரு வரியில் இருக்கிறது: அந்த நிரலை மலேசியத் தகைமைகள் முகமை அங்கீகரித்ததா என்பதே அது.

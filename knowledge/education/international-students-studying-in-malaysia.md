@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-1.webp
+    alt: The signed, greenery-fringed main entrance of University of Nottingham Malaysia, a British branch campus that enrols many international students.
+    kind: actual
+    origin: third-party
+    subject: Main entrance of University of Nottingham Malaysia
+    credit: Faizalrahmat85 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-2.webp
+    alt: The afternoon sun on the colonnaded main building of Xiamen University Malaysia, a Chinese branch campus near Kuala Lumpur drawing students from abroad.
+    kind: actual
+    origin: third-party
+    subject: Xiamen University Malaysia campus, Sepang
+    credit: Xiamen University Malaysia / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Xiamen_University_Malaysia_at_afternoon.jpg
 ---
 
 An offer letter from the wrong kind of institution is worthless for a visa, even if the programme itself is perfectly accredited. That distinction — accredited programme versus approved-for-international-students institution — is where most confusion starts, well before anyone fills in an EMGS form.

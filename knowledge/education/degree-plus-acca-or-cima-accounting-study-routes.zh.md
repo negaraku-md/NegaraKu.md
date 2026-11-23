@@ -33,7 +33,7 @@ faq:
 
 lang: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "d8f3e63e8e371c06"
+sourceContentHash: "f1edb16bb1e0f23c"
 masterLanguage: "en"
 
 status: "published"
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-1.webp
+    alt: 马来西亚一所大学讲堂内层层叠起的座位，学位生与专业会计课程的学生在此类讲堂上课。
+    kind: actual
+    origin: third-party
+    subject: 沙巴大学的一间大学讲堂
+    credit: Mfook / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Kuliah_Pusat.JPG
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-2.webp
+    alt: 马来亚大学图书馆内一排排安静的个人自习桌，学生在此埋头苦读学位课程及ACCA或CIMA的试卷。
+    kind: representative
+    origin: third-party
+    subject: 马来亚大学图书馆内的自习桌
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engine_library_Oct_2021_empty_view_desks.jpg
 ---
 
 任何在思考如何于马来西亚成为会计师的人，都会一头撞进一堆英文缩写：**MIA、ACCA、CIMA、MICPA、ICAEW、CPA Australia、CA(M)、CGMA、QE。** 它看起来像一份让你必须从中挑选的、彼此竞争的资格菜单。更好的理解方式是：**一个终点，通往它的几条道路**——而一旦看清了终点，各种选择就会各就各位。

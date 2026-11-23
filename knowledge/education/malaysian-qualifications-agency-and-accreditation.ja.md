@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "35dc11bf078ce7cc"
+sourceContentHash: "c14bc638e4d2ad46"
 
 status: "published"
 aiAssisted: true
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-1.webp
+    alt: 国民大学(UKM)の学位授与式で、式服をまとった学者が壇上で学位を授与する様子
+    kind: representative
+    origin: third-party
+    subject: 国民大学(UKM)で学位を授与する特別学位授与式
+    credit: Press Information Department (Government of Bangladesh) / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Honorary_Doctorate_Universiti_Kebangsaan_Malaysia_2025-08-13_(PID-0000370).jpg
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-2.webp
+    alt: 整えられた広場のそばに立つ、プトラ大学(UPM)の曲線を描くCanselori Putra本部棟
+    kind: representative
+    origin: third-party
+    subject: プトラ大学(UPM)の本部棟（Canselori、管理棟）
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Canselori_Putra,_UPM.jpg
 ---
 
 同じような名称のディプロマを手に、二人の学生が卒業する。一人は政府の職と修士課程への進学資格を得るが、もう一人は門前払いされる。その違いは、公開名簿のたった一行——マレーシア資格機構がそのプログラムを認定していたかどうか——であることが多い。

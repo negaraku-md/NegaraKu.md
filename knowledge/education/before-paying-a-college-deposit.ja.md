@@ -35,7 +35,7 @@ faq:
 
 lang: "ja"
 translationStatus: "in-sync"
-sourceContentHash: "7d63f469a6fa2d2e"
+sourceContentHash: "35aa2e7145637cfb"
 masterLanguage: "en"
 
 status: "published"
@@ -101,6 +101,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-1.webp
+    alt: RCSI・UCDマレーシア校のガラス張りの外観。新入生に入学デポジットを求める類の私立大学である。
+    kind: actual
+    origin: third-party
+    subject: RCSI・UCDマレーシア校(RUMC)（ペナン州）
+    credit: RUMC / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RUMC_Facade.jpg
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-2.webp
+    alt: サンウェイ大学キャンパスの近代的な教学棟。志願者が入学を決める前に学費とデポジットを比較検討する私立学校である。
+    kind: actual
+    origin: third-party
+    subject: サンウェイ大学のキャンパス棟（バンダル・サンウェイ）
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_University_new_building.jpg
 ---
 
 入学金（デポジット）は通常、家庭が大学に手渡す最初のお金であり、そして一度

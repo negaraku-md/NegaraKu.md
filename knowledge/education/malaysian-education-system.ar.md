@@ -34,7 +34,7 @@ faq:
     a: "يجري التعليم التقني والمهني جزئياً عبر الكليات المهنية التابعة لوزارة التعليم وجزئياً عبر مسار شهادات منفصل — شهادة المهارات الماليزية (SKM) ودبلوم المهارات الماليزية (DKM/DLKM) — تصدره دائرة تنمية المهارات (Jabatan Pembangunan Kemahiran) التابعة لوزارة الموارد البشرية، لا وزارة التعليم ولا وزارة التعليم العالي."
 
 lang: "ar"
-sourceContentHash: "613eb3145a3df62e"
+sourceContentHash: "43689c40bbb62680"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-education-system/body-1.webp
+    alt: أطفال مدرسيون بالزيّ الرسمي يستخدمون أجهزة لوحية إلى المكاتب في مكتبة ذكية بمدرسة ماليزية.
+    kind: representative
+    origin: third-party
+    subject: تلاميذ ابتدائيون ماليزيون يتعلّمون بالأجهزة اللوحية في مكتبة مدرسية ذكية
+    credit: Qwerqwer133 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murid_sekolah_Sum_Sun_menggunakan_tablet_di_perpustakaan_pintar.jpg
+  - role: scene
+    src: /media/education/malaysian-education-system/body-2.webp
+    alt: مبنى مدرسة ثانوية ماليزية متعدّد الطوابق بممرّات مسقوفة تحت سماء زرقاء.
+    kind: representative
+    origin: third-party
+    subject: مبنى مدرسة ثانوية وطنية ماليزية (SMK Bandar Saujana Putra)
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_SMK_Bandar_Saujana_Putra.jpg
 ---
 
 اطلب من ثلاثة ماليزيين وصف «نظام التعليم» وستحصل على ثلاث خرائط مختلفة. يتحدث أحدهم عن SK مقابل SJKC. ويتحدث آخر عن STPM مقابل التهيئة. ويذكر ثالث شهادة SKM لم يسمع بها أحد خارج التدريب التقني. الثلاثة يصفون النظام نفسه — لكن من فروع مختلفة منه.

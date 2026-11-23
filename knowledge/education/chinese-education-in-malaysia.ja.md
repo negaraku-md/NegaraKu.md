@@ -31,7 +31,7 @@ faq:
   - q: "独中を卒業した後はどこへ進学できますか。"
     a: "独中生の進学経路は多様です。多くはUECの証書で国内の私立大学や海外の大学に進学し、より多くの選択肢を残すためにSPMも併せて受験する生徒もいます。国内の華文高等教育機関には新紀元大学学院（New Era University College）、南方大学学院（Southern University College）、韓江伝媒大学学院（Han Chiang University College of Communication）などがあり、いずれも華文教育制度から発展したものです。2026年からは、特定の条件を満たすUEC生も新たな経路で一部の公立大学課程に出願できます。"
 lang: "ja"
-sourceContentHash: "11102fbd9b87b7f9"
+sourceContentHash: "3fde1ff0d6a51181"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(C)_Chun_Yin_(260103).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-1.webp
+    alt: ペナン州にあるチョンリン中学の並木に囲まれたキャンパス。マレーシアで古い歴史を持つ華語中等学校の一つである。
+    kind: actual
+    origin: third-party
+    subject: チョンリン中学（鍾霊中学、ペナン州）
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_High_School_(October_2022).jpg
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-2.webp
+    alt: クアラルンプールにあるSJK(C) Confucian（尊孔華小）の校門と校名板。母語教育制度を支える政府補助の華語小学校の一つである。
+    kind: actual
+    origin: third-party
+    subject: SJK(C) Confucian（クアラルンプールの華語小学校、尊孔華小）
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(C)_Confucian.jpg
 ---
 
 早朝、ある華文小学校の校庭には中国語・マレー語・英語が入り混じる声が響く。いくつかの州を隔てたところでは、ある華文独立中学（独中）の講堂で、生徒たちが年末の統一試験（統考／UEC）に向けて準備をしている。そしてジョホールやペナンでは、華文教育制度から発展した大学学院が新入生を迎えている。これらの光景はいずれも一つの流れ——マレーシアの華文教育——に属しながら、異なる段階に分かれ、異なる資金のあり方と法的な枠組みの下に置かれている。

@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "1학년 전의 아동 돌봄 및 조기 교육 방안을 이해하려는 말레이시아의 학부모나 보호자, 그리고 타스카나 타디카를 설립하려 관련 당국을 알아야 하는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "9f44a6a22be9e0f4"
+sourceContentHash: "d6f9e40129be03f6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Al-Falah_Kindergarten.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-1.webp
+    alt: 사바주 타와우에 있는 Tadika Holy Trinity의 입구와 앞마당으로, 간판과 색색의 가랜드, 그려진 만화 벽화가 있고 멀리 놀이터에는 어린아이 몇 명이 보인다.
+    kind: representative
+    origin: third-party
+    subject: 색색의 가랜드와 만화 벽화로 꾸며진 말레이시아 tadika(유치원)의 정면
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Tadika-Holy-Trinity-00.jpg
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-2.webp
+    alt: 사바주 크닝아우에 있는 Tadika St. Francis Xavier의 거리 풍경으로, 녹색 울타리를 두른 단층 유치원 건물이며 벽에는 꽃과 꿀벌, 버섯 벽화가 그려져 있다.
+    kind: representative
+    origin: third-party
+    subject: 아동용 벽화가 그려진 말레이시아 유치원 건물
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keningau_Sabah_StFrancisXavier_Tadika_01.jpg
 ---
 
 많은 학부모가 집 근처 「타디카」에 자녀를 등록합니다 — 양식을 내고, 요금을 내면, 끝입니다. 그러나 좀처럼 묻지 않는 질문이 있습니다. 그 타디카는 누구에게 등록되어 있는가? 그 답은 사소한 문제가 아닙니다. 아동의 나이와 기관 유형에 따라, 그것은 완전히 다른 두 부처 아래에 있을 수 있으며, 법, 규정, 집행 방식이 서로 다릅니다.

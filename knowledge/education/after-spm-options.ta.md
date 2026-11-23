@@ -27,7 +27,7 @@ faq:
   - q: "ஒரு டிப்ளமா அல்லது TVET வழி பல்கலைக்கழகம் செல்வதைவிடக் குறைவானதா?"
     a: "இல்லை. ஒரு டிப்ளமா அல்லது TVET வழி திறன்சார், வேலைவாய்ப்புள்ள வேலைக்கு இட்டுச்செல்கிறது, மேலும் வழக்கமாகக் கடன் மாற்றம் (credit transfer) மூலமாகவோ அல்லது ஒரு தனிச் சேர்க்கை வகை மூலமாகவோ பட்டப்படிப்புக்கு மீளும் வழியைத் திறந்தே வைக்கிறது. பல துறைகளுக்கு — பொறியியல் தொழில்கள், விருந்தோம்பல், IT, வடிவமைப்பு — இது ஒரு பொதுப் பட்டப்படிப்பைவிட வேலைக்கு வேகமான மற்றும் நேரடியான வழி. சிறந்த கேள்வி, எந்த வழி உயர்ந்த அந்தஸ்து கொண்டது என்பது அல்ல, எது நீங்கள் செல்ல விரும்பும் இடத்துக்கு இட்டுச்செல்கிறது என்பதே."
 lang: "ta"
-sourceContentHash: "19406003070adaf4"
+sourceContentHash: "809a134dceb4f5ea"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Malaya_KL_gate.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/after-spm-options/body-1.webp
+    alt: Universiti Malaya-வில் உள்ள ஒரு பீடக் கட்டிடம்; SPM-க்குப் பிறகு மாணவர் இலக்காகக் கொள்ளக்கூடிய அரசுப் பல்கலைக்கழகப் பட்டப் படிப்பு வழிகளில் ஒன்று.
+    kind: actual
+    origin: third-party
+    subject: கல்வியியல் பீட கட்டிடம், Universiti Malaya
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Building_of_Faculty_of_Education_Universiti_Malaya.jpg
+  - role: scene
+    src: /media/education/after-spm-options/body-2.webp
+    alt: UiTM Rembau கிளை வளாகத்தின் பீடம், நூலகம் மற்றும் நிர்வாகத் தொகுதிகள்; SPM நிறைவு செய்தவர்களுக்குத் திறந்திருக்கும் ஓர் அரசு உயர்கல்வி வழி.
+    kind: actual
+    origin: third-party
+    subject: UiTM Rembau வளாகம், Negeri Sembilan
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg
 ---
 
 உறை திறக்கிறது, அதனுடன் உண்மையான கேள்வியும் வந்தடைகிறது. *நான் எப்படிச்

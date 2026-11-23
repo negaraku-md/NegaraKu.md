@@ -34,7 +34,7 @@ faq:
     a: "Les universités privées exigent elles aussi généralement une preuve de maîtrise de l'anglais. Les étudiants locaux soumettent habituellement les résultats du MUET, tandis que des qualifications équivalentes comme l'IELTS ou le TOEFL peuvent être acceptées selon le programme et l'établissement."
 
 lang: "fr"
-sourceContentHash: "a815609cdc3d3e77"
+sourceContentHash: "fd15f9ab20d97160"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-1.webp
+    alt: Intérieur d'une grande salle d'école malaisienne servant de centre d'examen, avec une scène et des rangées d'espace au sol.
+    kind: representative
+    origin: third-party
+    subject: Salle d'une école malaisienne servant à passer les examens
+    credit: LM UPSI 2019 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-2.webp
+    alt: Vue aérienne du complexe d'amphithéâtres sur le campus d'une université malaisienne.
+    kind: representative
+    origin: third-party
+    subject: Complexe d'amphithéâtres de la Sultan Idris Education University (UPSI)
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg
 ---
 
 Vous pouvez exceller au STPM ou en matriculation, mais sans un résultat de plus, votre dossier de candidature en licence reste incomplet. Ce résultat, c'est le MUET — et de nombreux étudiants n'en mesurent l'importance que lorsque la date limite de candidature à l'université approche déjà.

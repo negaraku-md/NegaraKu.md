@@ -19,7 +19,7 @@ keyTakeaways:
   - "조기 입학(연령 미달)과 1학년 유예는 모두 별도의 공식 정책으로 존재합니다. 신청은 일반 idMe 시스템이 아니라 JPN을 통해 이루어지며, 유예는 자동 권리가 아니라 특전(privilege)입니다"
 appliesTo: "자녀가 공립 초등학교 1학년 또는 공립 중등학교 폼 1에 입학할 말레이시아 시민권자 학부모 또는 보호자."
 lang: "ko"
-sourceContentHash: "8bb8f4e4a270c076"
+sourceContentHash: "367beba319f714eb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -73,6 +73,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_kebangsaan,_Kota_warisan,_selangor,_my.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-1.webp
+    alt: 믈라카주 아예르크로에 있는 국민초등학교의 주요 교사동으로, 대부분의 가정이 자녀를 등록시키는 부류의 공립학교이다.
+    kind: actual
+    origin: third-party
+    subject: 아예르크로 국민초등학교(Sekolah Kebangsaan Ayer Keroh), 믈라카주
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayer_Keroh_National_School_main_building_back.jpg
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-2.webp
+    alt: 말레이시아 국기가 양옆에 늘어선 지붕 덮인 통로가 공립학교 정문으로 이어지며, 신입생이 첫 등교일에 걷는 길이다.
+    kind: representative
+    origin: third-party
+    subject: 말레이시아 공립학교로 이어지는 깃발이 늘어선 입구 통로
+    credit: Fadidfadilah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:LALUAN_MASUK_KE_SEKOLAH.jpg
 ---
 
 많은 학부모는 예전에 1학년을 등록했던 것처럼 폼 1(중등 1학년)에 자녀를 「등록」할 수 없다는 사실을 알고 놀랍니다. 직접 작성할 온라인 양식도 없고, 로그인할 포털도 없습니다. 이유는 간단합니다. 이 두 단계의 공립 교육은 완전히 다른 두 시스템을 사용하며, 둘을 혼동하는 것이 학부모가 「우리 아이 등록이 아예 조회되지 않는다」며 의아해하는 가장 흔한 원인입니다.

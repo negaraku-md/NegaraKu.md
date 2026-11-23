@@ -20,7 +20,7 @@ keyTakeaways:
   - "जल्दी प्रवेश (आयु से कम) और वर्ष 1 का स्थगन दोनों अलग-अलग आधिकारिक नीतियों के रूप में मौजूद हैं — आवेदन JPN के माध्यम से किए जाते हैं, सामान्य idMe प्रणाली के माध्यम से नहीं, और स्थगन एक विशेषाधिकार है, स्वतः अधिकार नहीं"
 appliesTo: "मलेशियाई नागरिक माता-पिता या अभिभावक जिनका बच्चा सरकारी प्राथमिक स्कूल के वर्ष 1 या सरकारी माध्यमिक स्कूल के फॉर्म 1 में प्रवेश करने वाला है।"
 lang: "hi"
-sourceContentHash: "8bb8f4e4a270c076"
+sourceContentHash: "367beba319f714eb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_kebangsaan,_Kota_warisan,_selangor,_my.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-1.webp
+    alt: मेलाका के आयेर केरोह में एक राष्ट्रीय प्राथमिक विद्यालय का मुख्य शिक्षण खंड, वही प्रकार का सरकारी विद्यालय जिसमें अधिकांश परिवार अपने बच्चों का पंजीकरण कराते हैं।
+    kind: actual
+    origin: third-party
+    subject: Sekolah Kebangsaan Ayer Keroh, मेलाका
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayer_Keroh_National_School_main_building_back.jpg
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-2.webp
+    alt: मलेशियाई झंडों से घिरा एक ढका हुआ रास्ता किसी सरकारी विद्यालय के द्वार तक जाता है — वही पथ जिससे नए विद्यार्थी अपने पहले नामांकन दिवस पर गुज़रते हैं।
+    kind: representative
+    origin: third-party
+    subject: किसी मलेशियाई सरकारी विद्यालय में झंडों से घिरा प्रवेश-मार्ग
+    credit: Fadidfadilah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:LALUAN_MASUK_KE_SEKOLAH.jpg
 ---
 
 कई माता-पिता यह जानकर हैरान होते हैं कि वे अपने बच्चे को फॉर्म 1 के लिए उस तरह

@@ -34,7 +34,7 @@ faq:
     a: "निजी विश्वविद्यालय सामान्यतः अंग्रेज़ी भाषा दक्षता का प्रमाण भी माँगते हैं। स्थानीय छात्र आमतौर पर MUET परिणाम प्रस्तुत करते हैं, जबकि कार्यक्रम और संस्थान के अनुसार IELTS या TOEFL जैसी समकक्ष योग्यताएँ स्वीकार की जा सकती हैं।"
 
 lang: "hi"
-sourceContentHash: "a815609cdc3d3e77"
+sourceContentHash: "fd15f9ab20d97160"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-1.webp
+    alt: एक बड़े मलेशियाई विद्यालय हॉल का भीतरी दृश्य, जिसे परीक्षा-स्थल के रूप में उपयोग किया जाता है, जिसमें मंच और फर्श की खुली जगह की पंक्तियाँ हैं।
+    kind: representative
+    origin: third-party
+    subject: परीक्षाएँ देने के लिए उपयोग किया जाने वाला एक मलेशियाई विद्यालय हॉल
+    credit: LM UPSI 2019 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-2.webp
+    alt: किसी मलेशियाई विश्वविद्यालय परिसर में व्याख्यान-कक्ष परिसर का विहंगम हवाई दृश्य।
+    kind: representative
+    origin: third-party
+    subject: Sultan Idris Education University (UPSI) में व्याख्यान-कक्ष परिसर
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg
 ---
 
 आप STPM या मैट्रिकुलेशन में उत्कृष्ट हो सकते हैं, पर एक और परिणाम के बिना आपका डिग्री आवेदन-पत्र अब भी अधूरा है। वह परिणाम है MUET — और कई छात्रों को इसके महत्व का एहसास तभी होता है जब विश्वविद्यालय आवेदन की अंतिम तिथि पहले से ही निकट आ चुकी होती है।

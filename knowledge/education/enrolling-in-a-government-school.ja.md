@@ -33,7 +33,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 updated: 2026-07-24
-sourceContentHash: "8bb8f4e4a270c076"
+sourceContentHash: "367beba319f714eb"
 sources:
   - title: "登録（第1学年児童登録） (Pendaftaran (Pendaftaran Murid Tahun 1))"
     url: "https://www.moe.gov.my/pendaftaran-sr"
@@ -72,6 +72,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_kebangsaan,_Kota_warisan,_selangor,_my.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-1.webp
+    alt: マラッカ州アイル・クロにある国民小学校の主校舎。多くの家庭が子どもを入学登録させる類の公立学校である。
+    kind: actual
+    origin: third-party
+    subject: アイル・クロ国民小学校（Sekolah Kebangsaan Ayer Keroh、マラッカ州）
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayer_Keroh_National_School_main_building_back.jpg
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-2.webp
+    alt: マレーシア国旗が両脇に並ぶ屋根付きの通路が公立学校の門へと続く。新入生が入学初日に歩く道である。
+    kind: representative
+    origin: third-party
+    subject: マレーシアの公立学校へ続く、旗が立ち並ぶ入口の通路
+    credit: Fadidfadilah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:LALUAN_MASUK_KE_SEKOLAH.jpg
 ---
 
 多くの保護者は、かつてTahun 1を登録したときのように、Tingkatan 1への子どもの「登録」ができないことに驚く。自分で記入するオンライン申請書もなければ、ログインするポータルもない。理由は単純だ。この二つの公立教育段階は、まったく異なる二つのシステムを使っており、両者を混同することこそが、保護者が「うちの子の登録が見当たらない」と首をかしげる最も一般的な原因なのである。

@@ -27,7 +27,7 @@ faq:
   - q: "เส้นทางอนุปริญญาหรือ TVET แย่กว่าการเข้ามหาวิทยาลัยไหม?"
     a: "ไม่ เส้นทางอนุปริญญาหรือ TVET นำไปสู่งานที่ใช้ทักษะและมีโอกาสจ้างงาน และโดยทั่วไปเปิดเส้นทางกลับสู่ปริญญาไว้ผ่านการเทียบโอนหน่วยกิตหรือหมวดการรับเข้าแยกต่างหาก สำหรับหลายสาขา — งานช่างวิศวกรรม การบริการ ไอที การออกแบบ — มันเป็นเส้นทางสู่งานที่เร็วและตรงกว่าปริญญาทั่วไป คำถามที่ดีกว่าไม่ใช่ว่าเส้นทางใดมีสถานะสูงกว่า แต่เส้นทางใดนำไปสู่ที่ที่คุณต้องการไป"
 lang: "th"
-sourceContentHash: "19406003070adaf4"
+sourceContentHash: "809a134dceb4f5ea"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Malaya_KL_gate.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/after-spm-options/body-1.webp
+    alt: อาคารคณะหนึ่งในมหาวิทยาลัยมาลายา ซึ่งเป็นหนึ่งในเส้นทางปริญญาของมหาวิทยาลัยรัฐที่นักเรียนสามารถมุ่งหวังได้หลังจบ SPM
+    kind: actual
+    origin: third-party
+    subject: อาคารคณะศึกษาศาสตร์ มหาวิทยาลัยมาลายา
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Building_of_Faculty_of_Education_Universiti_Malaya.jpg
+  - role: scene
+    src: /media/education/after-spm-options/body-2.webp
+    alt: อาคารคณะ ห้องสมุด และฝ่ายบริหารของวิทยาเขตสาขาเริมเบาของมหาวิทยาลัยเทคโนโลยีมารา (UiTM) ซึ่งเป็นเส้นทางอุดมศึกษาของรัฐที่เปิดรับผู้จบ SPM
+    kind: actual
+    origin: third-party
+    subject: วิทยาเขตเริมเบา มหาวิทยาลัยเทคโนโลยีมารา (UiTM) รัฐเนอเกอรีเซิมบีลัน
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg
 ---
 
 ซองจดหมายถูกเปิด และคำถามที่แท้จริงมาพร้อมกับมัน ไม่ใช่ *ฉันทำได้ดีแค่ไหน* —

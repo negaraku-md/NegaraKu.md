@@ -33,7 +33,7 @@ faq:
 
 lang: "ja"
 translationStatus: "in-sync"
-sourceContentHash: "d8f3e63e8e371c06"
+sourceContentHash: "f1edb16bb1e0f23c"
 masterLanguage: "en"
 
 status: "published"
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-1.webp
+    alt: マレーシアの大学講堂に段状に並ぶ座席。学位課程や専門会計課程の学生が授業を受ける類の講堂である。
+    kind: actual
+    origin: third-party
+    subject: マレーシア・サバ大学の大学講堂
+    credit: Mfook / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Kuliah_Pusat.JPG
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-2.webp
+    alt: マラヤ大学図書館に静かに並ぶ個人用の学習机。学生が学位課程やACCA・CIMAの試験に取り組む場である。
+    kind: representative
+    origin: third-party
+    subject: マラヤ大学図書館の学習机
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engine_library_Oct_2021_empty_view_desks.jpg
 ---
 
 マレーシアで会計士になる方法を考える人は、誰もがアルファベットの羅列にぶつかります——**MIA、ACCA、CIMA、MICPA、ICAEW、CPA Australia、CA(M)、CGMA、QE。** それは、どれかを選ばねばならない競合資格のメニューに見えます。しかし実は、**一つのゴールと、そこへ至るいくつかの道**と捉えたほうがよいのです——そしてゴールが見えれば、選択は自ずと定まります。

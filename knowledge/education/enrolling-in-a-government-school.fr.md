@@ -20,7 +20,7 @@ keyTakeaways:
   - "L'entrée anticipée (avant l'âge requis) et le report de la Year 1 existent comme politiques officielles distinctes : les demandes se font via le JPN, et non par le système idMe habituel, et le report est un privilège, non un droit automatique"
 appliesTo: "Parents ou tuteurs de nationalité malaisienne dont l'enfant est sur le point d'entrer en Year 1 de l'école primaire publique ou en Form 1 de l'école secondaire publique."
 lang: "fr"
-sourceContentHash: "8bb8f4e4a270c076"
+sourceContentHash: "367beba319f714eb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_kebangsaan,_Kota_warisan,_selangor,_my.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-1.webp
+    alt: Le bloc d'enseignement principal d'une école primaire nationale à Ayer Keroh, Melaka, le type d'école publique dans laquelle la plupart des familles inscrivent leurs enfants.
+    kind: actual
+    origin: third-party
+    subject: Sekolah Kebangsaan Ayer Keroh, Melaka
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayer_Keroh_National_School_main_building_back.jpg
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-2.webp
+    alt: Un passage couvert bordé de drapeaux malaisiens mène au portail d'une école publique, le chemin qu'empruntent les nouveaux élèves le jour de leur première inscription.
+    kind: representative
+    origin: third-party
+    subject: L'allée d'entrée bordée de drapeaux d'une école publique malaisienne
+    credit: Fadidfadilah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:LALUAN_MASUK_KE_SEKOLAH.jpg
 ---
 
 Beaucoup de parents sont surpris de découvrir qu'ils ne peuvent pas « inscrire »

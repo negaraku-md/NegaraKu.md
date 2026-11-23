@@ -25,7 +25,7 @@ verificationNeeded:
   - "Las referencias a las facultades de ejecución (por ejemplo, las restricciones de viaje al extranjero para los prestatarios morosos) se mencionan solo en términos generales basándose en la existencia de tales facultades conforme a la Act 566; el número de sección específico y sus condiciones de activación (como el periodo de mora) no se han verificado directamente del texto de la Ley ni del portal oficial y necesitan volver a comprobarse."
 
 lang: "es"
-sourceContentHash: "c276a6a6034e9c91"
+sourceContentHash: "4273f8606a208fb5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_UTM-Campus-Kuala-Lumpur-02.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-1.webp
+    alt: El edificio del rectorado de la Universiti Teknologi MARA (UiTM), un gran edificio universitario público moderno de vidrio y hormigón que se alza sobre un montículo ajardinado con banderas al frente.
+    kind: representative
+    origin: third-party
+    subject: Un campus universitario público malasio (Universiti Teknologi MARA)
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-2.webp
+    alt: El característico edificio del rectorado (Canselori) en azul y crema de la Universiti Malaysia Sabah en Kota Kinabalu, un emblema universitario público situado sobre un césped ajardinado.
+    kind: representative
+    origin: third-party
+    subject: Un emblema de una universidad pública malasia (rectorado de la Universiti Malaysia Sabah)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu-Sabah_Universiti-Malaysia-Sabah-Chancellory-01.jpg
 ---
 
 Muchos estudiantes firman los documentos de oferta del PTPTN con la misma

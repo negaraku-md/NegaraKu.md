@@ -35,7 +35,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7261a5b72201747a"
+sourceContentHash: "00e475894d31159f"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-1.webp
+    alt: பெயர்ப் பலகையும் பசுமையும் சூழ்ந்த University of Nottingham Malaysia-இன் முதன்மை நுழைவாயில்; பல சர்வதேச மாணவர்களைச் சேர்க்கும் பிரிட்டிஷ் கிளை வளாகம்.
+    kind: actual
+    origin: third-party
+    subject: University of Nottingham Malaysia-இன் முதன்மை நுழைவாயில்
+    credit: Faizalrahmat85 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-2.webp
+    alt: Xiamen University Malaysia-இன் தூண்கள் நிறைந்த முதன்மைக் கட்டிடத்தின் மீது மதிய வெயில்; கோலாலம்பூருக்கு அருகில் உள்ள இந்தச் சீனக் கிளை வளாகம் வெளிநாட்டு மாணவர்களை ஈர்க்கிறது.
+    kind: actual
+    origin: third-party
+    subject: Xiamen University Malaysia வளாகம், Sepang
+    credit: Xiamen University Malaysia / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Xiamen_University_Malaysia_at_afternoon.jpg
 ---
 
 தவறான வகை நிறுவனத்திடமிருந்து வரும் ஒரு வழங்கல் கடிதம், அந்தத் திட்டமே சரியாக அங்கீகரிக்கப்பட்டிருந்தாலும், விசாவுக்கு எந்தப் பயனும் இல்லை. அந்த வேறுபாடு — அங்கீகரிக்கப்பட்ட திட்டம் என்பதற்கும் சர்வதேச மாணவர்களுக்கு அங்கீகரிக்கப்பட்ட நிறுவனம் என்பதற்கும் இடையிலான வேறுபாடு — தான் பெரும்பாலான குழப்பம் தொடங்கும் இடம், அதுவும் யாராவது EMGS படிவத்தை நிரப்புவதற்கு நீண்ட காலம் முன்பே.

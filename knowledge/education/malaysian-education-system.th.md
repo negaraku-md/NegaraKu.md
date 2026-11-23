@@ -34,7 +34,7 @@ faq:
     a: "การศึกษาด้านเทคนิคและอาชีวศึกษาดำเนินการบางส่วนผ่านวิทยาลัยอาชีวศึกษาของกระทรวงศึกษาธิการ และบางส่วนผ่านสายการรับรองแยกต่างหาก — ประกาศนียบัตรทักษะมาเลเซีย (SKM) และอนุปริญญาทักษะมาเลเซีย (DKM/DLKM) — ที่ออกโดยกรมพัฒนาทักษะ (Jabatan Pembangunan Kemahiran) ภายใต้กระทรวงทรัพยากรมนุษย์ ไม่ใช่กระทรวงศึกษาธิการหรือกระทรวงการอุดมศึกษา"
 
 lang: "th"
-sourceContentHash: "613eb3145a3df62e"
+sourceContentHash: "43689c40bbb62680"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-education-system/body-1.webp
+    alt: นักเรียนในชุดนักเรียนใช้แท็บเล็ตที่โต๊ะในห้องสมุดอัจฉริยะของโรงเรียนในมาเลเซีย
+    kind: representative
+    origin: third-party
+    subject: นักเรียนประถมมาเลเซียเรียนด้วยแท็บเล็ตในห้องสมุดอัจฉริยะของโรงเรียน
+    credit: Qwerqwer133 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murid_sekolah_Sum_Sun_menggunakan_tablet_di_perpustakaan_pintar.jpg
+  - role: scene
+    src: /media/education/malaysian-education-system/body-2.webp
+    alt: อาคารโรงเรียนมัธยมมาเลเซียหลายชั้นพร้อมทางเดินมีหลังคาภายใต้ท้องฟ้าสีคราม
+    kind: representative
+    origin: third-party
+    subject: อาคารโรงเรียนมัธยมแห่งชาติมาเลเซีย (SMK Bandar Saujana Putra)
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_SMK_Bandar_Saujana_Putra.jpg
 ---
 
 ลองถามชาวมาเลเซียสามคนให้อธิบาย "ระบบการศึกษา" แล้วคุณจะได้แผนที่สามแบบที่ต่างกัน คนหนึ่งพูดถึง SK เทียบกับ SJKC อีกคนพูดถึง STPM เทียบกับ matriculation คนที่สามกล่าวถึงประกาศนียบัตร SKM ที่ไม่มีใครนอกวงการฝึกอบรมด้านเทคนิคเคยได้ยิน ทั้งสามคนกำลังอธิบายระบบเดียวกัน — เพียงแต่จากคนละกิ่งก้าน

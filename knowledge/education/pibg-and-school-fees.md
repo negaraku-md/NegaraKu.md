@@ -78,6 +78,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Methodist-1-2-Brickfields-Girl-Primary-School-03.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-1.webp
+    alt: Bangunan sekolah menengah bertingkat di Malaysia dengan laman perhimpunan berturap
+    kind: representative
+    origin: third-party
+    subject: Bangunan sekolah menengah kebangsaan di Malaysia (SMK Darulaman Heights)
+    credit: Saiff / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SMK_Darulaman_Heights_1.jpg
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-2.webp
+    alt: Ibu bapa dan guru berkumpul di dewan sekolah bagi mesyuarat Persatuan Ibu Bapa dan Guru (PIBG)
+    kind: representative
+    origin: third-party
+    subject: Mesyuarat agung Persatuan Ibu Bapa dan Guru (PIBG) di sebuah sekolah di Malaysia
+    credit: Cermin Mata / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perasmian_PIBG.jpg
 ---
 
 Anak anda didaftarkan ke sekolah kerajaan yang "percuma" — tetapi borang PIBG dan senarai bayaran tetap sampai ke rumah. Jadi apa sebenarnya yang wajib dibayar, dan apa yang tidak?

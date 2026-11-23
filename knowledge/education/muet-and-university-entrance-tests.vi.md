@@ -34,7 +34,7 @@ faq:
     a: "Các đại học tư nhân nói chung cũng yêu cầu bằng chứng về năng lực tiếng Anh. Học sinh trong nước thường nộp kết quả MUET, trong khi các bằng cấp tương đương như IELTS hoặc TOEFL có thể được chấp nhận tùy thuộc vào chương trình và cơ sở."
 
 lang: "vi"
-sourceContentHash: "a815609cdc3d3e77"
+sourceContentHash: "fd15f9ab20d97160"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-1.webp
+    alt: Bên trong một hội trường trường học Malaysia rộng lớn được dùng làm địa điểm thi, với sân khấu và những hàng khoảng sàn
+    kind: representative
+    origin: third-party
+    subject: Hội trường một trường học Malaysia dùng để tổ chức thi
+    credit: LM UPSI 2019 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-2.webp
+    alt: Góc nhìn từ trên cao khu giảng đường trong khuôn viên một trường đại học Malaysia
+    kind: representative
+    origin: third-party
+    subject: Khu giảng đường tại Universiti Pendidikan Sultan Idris (UPSI)
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg
 ---
 
 Bạn có thể xuất sắc trong STPM hoặc matriculation, nhưng thiếu một kết quả nữa, đơn xin bằng cử nhân của bạn vẫn chưa đầy đủ. Kết quả đó là MUET — và nhiều học sinh chỉ nhận ra tầm quan trọng của nó khi hạn chót nộp đơn đại học đã đến gần.

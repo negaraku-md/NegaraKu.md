@@ -22,7 +22,7 @@ verificationNeeded:
   - "ความสามารถในการรับเข้าต่อปี (จำนวนที่นั่ง) ปัจจุบันสำหรับกลุ่ม STPM, Matrikulasi และ A-Level ไม่ได้ระบุไว้ที่นี่ — สิ่งเหล่านี้เปลี่ยนทุกรอบการรับเข้า; ยืนยันตัวเลขของรอบปัจจุบันโดยตรงกับ MPM, ฝ่าย matriculation หรือวิทยาลัยแต่ละแห่งก่อนพึ่งตัวเลขเฉพาะ"
   - "แนวปฏิบัติของ MQA เกี่ยวกับโครงสร้างโครงการ Foundation (Garis Panduan Kurikulum Asasi) ไม่สามารถดึงข้อมูลได้ครบสำหรับบทความนี้ — กฎหน่วยกิตขั้นต่ำหรือระยะเวลาที่ MQA กำหนดสำหรับโครงการ Foundation อธิบายไว้ที่นี่เพียงในเชิงทั่วไป; ยืนยันตัวเลขที่แน่นอนกับ MQA หรือสถาบันที่เสนอก่อนอ้างอิง"
 lang: "th"
-sourceContentHash: "65caf030dac83024"
+sourceContentHash: "f021592856555bcc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -81,6 +81,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Blok_Al-Karaji_Kolej_Matrikulasi_Kelantan.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pre-university-routes/body-1.webp
+    alt: อาคารวิทยาเขตทันสมัยของวิทยาลัยมาเลเซียที่เปิดสอนหลักสูตรปูพื้นฐานเตรียมมหาวิทยาลัย
+    kind: representative
+    origin: third-party
+    subject: วิทยาเขตของวิทยาลัยมาเลเซียที่เปิดสอนหลักสูตรเตรียมมหาวิทยาลัย/ปูพื้นฐาน (KDU University College ดามันซาราจายา)
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KDU_University_College,_Damansara_Jaya_campus.JPG
+  - role: scene
+    src: /media/education/pre-university-routes/body-2.webp
+    alt: อาคารห้องปฏิบัติการของคณะวิทยาศาสตร์และเทคโนโลยีในมหาวิทยาลัยมาเลเซีย
+    kind: representative
+    origin: third-party
+    subject: อาคารห้องปฏิบัติการวิทยาศาสตร์ คณะวิทยาศาสตร์และเทคโนโลยี มหาวิทยาลัยแห่งชาติมาเลเซีย (UKM)
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Makmal_Fakulti_Sains_dan_Teknologi_UKM.jpg
 ---
 
 นักเรียนสองคนเดินออกจากห้องสอบ SPM เดียวกันด้วยผลที่แทบเหมือนกัน สิบแปดเดือนต่อมา คนหนึ่งกำลังสอบข้อสอบของรัฐบาลที่ตรวจโดยสภาระดับชาติ อีกคนอยู่ในห้องเรียนวิทยาลัยตามหลักสูตรที่กำหนดในเคมบริดจ์ คนที่สามไม่ได้สอบข้อสอบระดับชาติเลย — คะแนนก่อนมหาวิทยาลัยทั้งหมดของเธอตัดสินโดยมหาวิทยาลัยที่เธอลงทะเบียนไว้แล้ว ไม่มีใครทำผิด พวกเขาเพียงเลือกคนละห้อง

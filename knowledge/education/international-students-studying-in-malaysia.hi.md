@@ -33,7 +33,7 @@ faq:
     a: "दोनों प्रकार अंतरराष्ट्रीय विद्यार्थियों को लेने के लिए स्वीकृत हो सकते हैं, लेकिन वे विद्यार्थी पास ढाँचे के अलग-अलग हिस्सों के अंतर्गत आते हैं और आमतौर पर इसमें भिन्न होते हैं कि कौन-से कार्यक्रम और प्रवेश-क्षमता विदेशी आवेदकों बनाम घरेलू आवेदकों के लिए खुली है। आवेदन करने से पहले संस्थान के अंतरराष्ट्रीय कार्यालय से सीधे पुष्टि करें कि आपके लक्षित कार्यक्रमों में से कौन-सा गैर-नागरिक नामांकन के लिए खुला है।"
 
 lang: "hi"
-sourceContentHash: "7261a5b72201747a"
+sourceContentHash: "00e475894d31159f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-1.webp
+    alt: University of Nottingham Malaysia का नामांकित, हरियाली से घिरा मुख्य प्रवेशद्वार, एक ब्रिटिश शाखा परिसर जो कई अंतरराष्ट्रीय विद्यार्थियों को प्रवेश देता है।
+    kind: actual
+    origin: third-party
+    subject: University of Nottingham Malaysia का मुख्य प्रवेशद्वार
+    credit: Faizalrahmat85 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-2.webp
+    alt: Xiamen University Malaysia के स्तंभ-युक्त मुख्य भवन पर दोपहर की धूप, कुआलालंपुर के निकट एक चीनी शाखा परिसर जो विदेशों से विद्यार्थियों को आकर्षित करता है।
+    kind: actual
+    origin: third-party
+    subject: Xiamen University Malaysia परिसर, सेपांग
+    credit: Xiamen University Malaysia / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Xiamen_University_Malaysia_at_afternoon.jpg
 ---
 
 गलत प्रकार के संस्थान का प्रस्ताव-पत्र वीज़ा के लिए बेकार है, भले ही कार्यक्रम स्वयं पूरी तरह मान्यता-प्राप्त हो। वही अंतर — मान्यता-प्राप्त कार्यक्रम बनाम अंतरराष्ट्रीय-विद्यार्थियों-के-लिए-स्वीकृत संस्थान — वहाँ है जहाँ से अधिकांश उलझन शुरू होती है, किसी के EMGS फ़ॉर्म भरने से काफ़ी पहले।

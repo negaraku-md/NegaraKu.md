@@ -35,7 +35,7 @@ faq:
 
 lang: "hi"
 translationStatus: "in-sync"
-sourceContentHash: "7d63f469a6fa2d2e"
+sourceContentHash: "35aa2e7145637cfb"
 masterLanguage: "en"
 
 status: "published"
@@ -101,6 +101,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-1.webp
+    alt: RCSI और UCD Malaysia Campus का काँच का अग्रभाग, एक ऐसा निजी विश्वविद्यालय जो नए विद्यार्थियों से नामांकन जमा-राशि माँगता है।
+    kind: actual
+    origin: third-party
+    subject: RCSI & UCD Malaysia Campus (RUMC), पेनांग
+    credit: RUMC / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RUMC_Facade.jpg
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-2.webp
+    alt: Sunway University परिसर का एक आधुनिक शिक्षण खंड, एक ऐसा निजी संस्थान जहाँ आवेदक प्रतिबद्ध होने से पहले फीस और जमा-राशि को तौलते हैं।
+    kind: actual
+    origin: third-party
+    subject: Sunway University परिसर भवन, बंदर सनवे
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_University_new_building.jpg
 ---
 
 डिपॉज़िट आमतौर पर वह पहली राशि होती है जो एक परिवार किसी कॉलेज को सौंपता है — और,

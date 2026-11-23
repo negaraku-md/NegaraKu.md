@@ -32,7 +32,7 @@ faq:
     a: "Oui. Les programmes proposés par tout prestataire d'enseignement supérieur opérant en Malaisie, y compris les campus délocalisés étrangers, sont soumis à l'assurance qualité au titre du MQF et figurent dans le MQR. Certaines universités établies détiennent le statut d'auto-accréditation, qui les habilite à accréditer leurs propres programmes sur le MQF et à les inscrire au MQR."
 
 lang: "fr"
-sourceContentHash: "35dc11bf078ce7cc"
+sourceContentHash: "c14bc638e4d2ad46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-1.webp
+    alt: Des universitaires en toge de cérémonie confèrent un diplôme sur scène lors d'une collation des grades à l'Universiti Kebangsaan Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Une collation des grades spéciale conférant un diplôme à l'Universiti Kebangsaan Malaysia
+    credit: Press Information Department (Government of Bangladesh) / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Honorary_Doctorate_Universiti_Kebangsaan_Malaysia_2025-08-13_(PID-0000370).jpg
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-2.webp
+    alt: Le bâtiment incurvé du rectorat Canselori Putra de l'Universiti Putra Malaysia, à côté d'une esplanade paysagère.
+    kind: representative
+    origin: third-party
+    subject: Bâtiment du rectorat (hall administratif) de l'Universiti Putra Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Canselori_Putra,_UPM.jpg
 ---
 
 Deux étudiants obtiennent un diplôme au nom quasi identique. L'un remplit les conditions pour un emploi public et une place de master ; l'autre est refusé à la porte. La différence est souvent une seule ligne dans un registre public : le fait que l'Agence des qualifications de Malaisie ait ou non accrédité le programme.

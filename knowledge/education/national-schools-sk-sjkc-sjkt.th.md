@@ -30,7 +30,7 @@ faq:
     a: "นักเรียน SJKC และ SJKT สามารถเรียนต่อที่โรงเรียนมัธยมแห่งชาติ (SMK ภาษาสื่อการสอนคือภาษามลายู) หรือ สำหรับนักเรียน SJKC บางส่วน ที่โรงเรียนมัธยมประเภทแห่งชาติ (SMJK) ซึ่งก็เป็นโรงเรียนรัฐบาล/ที่รับความช่วยเหลือจากรัฐเช่นกัน การเปลี่ยนภาษาสื่อการสอนจากประถมสู่มัธยมแห่งชาติได้รับการสนับสนุนด้วยชั้นเรียนเตรียมความพร้อม (kelas peralihan) สำหรับนักเรียนที่ต้องการ"
 
 lang: "th"
-sourceContentHash: "2c9607178a97bd26"
+sourceContentHash: "2746b8c6a490da6c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tungku_Sabah-Sekolah-Kebangsaan-Tungku-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-1.webp
+    alt: อาคารและป้ายของโรงเรียนประถมจีนแบบชาติพันธุ์ SJK(C) Chong San
+    kind: actual
+    origin: third-party
+    subject: โรงเรียนจีนแบบชาติพันธุ์ SJK(C) Chong San ในบากันดาตุก รัฐเประ
+    credit: Ceball1923 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekolah_Jenis_Kebangsaan_(Cina)_Chong_San.jpg
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-2.webp
+    alt: อาคารและป้ายของโรงเรียนประถมทมิฬแบบชาติพันธุ์ SJK(T) Saraswathy
+    kind: actual
+    origin: third-party
+    subject: โรงเรียนทมิฬแบบชาติพันธุ์ SJK(T) Saraswathy ในซูไงบูโลห์
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(T)_Saraswathy,_Sungai_Buloh_01.jpg
 ---
 
 ทุกปี เมื่อช่วงลงทะเบียนเปิด ผู้ปกครองทั่วมาเลเซียเปิดพอร์ทัล idMe ของกระทรวงศึกษาธิการมาเลเซีย (KPM) เพื่อลงทะเบียนบุตรเข้าชั้นปีที่ 1 หนึ่งในทางเลือกแรกที่ต้องตัดสินใจคือ: SK, SJKC หรือ SJKT?

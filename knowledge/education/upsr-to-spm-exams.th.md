@@ -51,7 +51,27 @@ sources:
     publisher: "Sinar Harian"
     date: "2021-04-28"
   - title: "ยกเลิก PT3 ตั้งแต่ปี 2022 - รัฐมนตรีว่าการกระทรวงศึกษาธิการ (PT3 dimansuhkan mulai 2022 - Menteri Pendidikan)"
-    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022---menteri-pendidikan"
+    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022
+images:
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-1.webp
+    alt: หอประชุม (dewan) สีฟ้าและเหลืองสดใสของ SMK Bugaya II ในรัฐซาบะฮ์ หอประชุมประเภทที่ใช้จัดสอบระดับชาติเช่น SPM
+    kind: representative
+    origin: third-party
+    subject: หอประชุม (dewan) ของโรงเรียนมัธยมมาเลเซียประเภทที่ใช้สอบระดับชาติ
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-2.webp
+    alt: อาคารเรียนหลายชั้นของ SMK Sapulut โรงเรียนมัธยมรัฐบาลในรัฐซาบะฮ์
+    kind: actual
+    origin: third-party
+    subject: โรงเรียนมัธยมมาเลเซีย (SMK Sapulut)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
+---menteri-pendidikan"
     publisher: "mStar"
     date: "2022-06-02"
   - title: "ทบทวนความจำเป็นของ PT3, UPSR ใหม่ - ฟัดลินา (Keperluan PT3, UPSR dikaji semula - Fadhlina)"

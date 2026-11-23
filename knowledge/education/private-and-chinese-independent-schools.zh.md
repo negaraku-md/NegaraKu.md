@@ -23,7 +23,7 @@ appliesTo: "正在国民学校、私立国民课程学校与华文独立中学�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6e235692a71d508a"
+sourceContentHash: "bc3e9340ade6fe52"
 
 status: "published"
 aiAssisted: true
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Papar_Sabah_Papar-Middle_School-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-1.webp
+    alt: 槟城钟灵独立中学（Sekolah Menengah Chung Ling (Persendirian)）的正面外观，这是一座带列柱的白色多层建筑，校名以马来文、中文和英文书写。
+    kind: actual
+    origin: third-party
+    subject: 钟灵独立中学，槟城的一所华文独立中学
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_Private_High_School.jpg
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-2.webp
+    alt: 吉隆坡坤成中学宏大的多层主楼，屋檐处以中文（坤成中学）和英文标示校名。
+    kind: actual
+    origin: third-party
+    subject: 坤成中学，吉隆坡的一所华文独立中学
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Kuen-Cheng-High-School-01.jpg
 ---
 
 问马来西亚家长什么是「私立学校」，他们心里想的可能是三种截然不同的东西：一所收费学校，教的课程与附近政府学校一模一样；一所国际学校，教授 Cambridge 或 IB 课程；又或者是一所华文独立中学（独中），应考的考试是华文教育圈以外大多数人从未听过的。这三者之中，只有一个应考 SPM，只有一个应考 UEC。把三者混为一谈，是最容易在孩子18岁时误判其选择的方式。

@@ -77,6 +77,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Al-Falah_Kindergarten.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-1.webp
+    alt: Pintu masuk dan laman hadapan Tadika Holy Trinity di Tawau, Sabah, lengkap dengan papan tanda, rentetan bendera kecil warna-warni dan mural kartun bercat; beberapa orang kanak-kanak kelihatan di taman permainan yang jauh.
+    kind: representative
+    origin: third-party
+    subject: Bahagian hadapan sebuah tadika di Malaysia yang dihiasi rentetan bendera kecil warna-warni dan mural kartun
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Tadika-Holy-Trinity-00.jpg
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-2.webp
+    alt: Pemandangan dari jalan Tadika St. Francis Xavier di Keningau, Sabah, sebuah bangunan tadika setingkat dengan pagar hijau dan dinding yang dicat mural bunga, seekor lebah dan cendawan.
+    kind: representative
+    origin: third-party
+    subject: Bangunan prasekolah di Malaysia yang dicat dengan mural kanak-kanak
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keningau_Sabah_StFrancisXavier_Tadika_01.jpg
 ---
 
 Ramai ibu bapa mendaftarkan anak ke "tadika" sebelah rumah — hantar borang, bayar yuran, selesai. Tetapi soalan yang jarang ditanya ialah: tadika itu didaftarkan dengan siapa? Jawapannya bukan soal remeh. Bergantung pada umur anak dan jenis institusi, ia boleh berada di bawah dua kementerian yang berbeza sama sekali, dengan akta, peraturan dan cara penguatkuasaan yang tidak sama.

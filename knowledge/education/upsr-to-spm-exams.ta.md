@@ -52,7 +52,27 @@ sources:
     publisher: "Sinar Harian"
     date: "2021-04-28"
   - title: "PT3 2022 முதல் ஒழிக்கப்படுகிறது - கல்வி அமைச்சர் (PT3 dimansuhkan mulai 2022 - Menteri Pendidikan)"
-    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022---menteri-pendidikan"
+    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022
+images:
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-1.webp
+    alt: Sabah-இல் உள்ள SMK Bugaya II-இன் வண்ணமயமான நீல-மஞ்சள் பள்ளி மண்டபம் (dewan); SPM போன்ற பொதுத் தேர்வுகள் எழுதப்படும் வகை மண்டபம்.
+    kind: representative
+    origin: third-party
+    subject: பொதுத் தேர்வுகளுக்குப் பயன்படுத்தப்படும் வகை மலேசிய இடைநிலைப் பள்ளி மண்டபம்
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-2.webp
+    alt: Sabah-இல் உள்ள அரசு இடைநிலைப் பள்ளியான SMK Sapulut-இன் பல மாடி வகுப்பறைத் தொகுதி.
+    kind: actual
+    origin: third-party
+    subject: ஒரு மலேசிய இடைநிலைப் பள்ளி (SMK Sapulut)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
+---menteri-pendidikan"
     publisher: "mStar"
     date: "2022-06-02"
   - title: "PT3, UPSR தேவை மறுபரிசீலனை - ஃபத்லினா (Keperluan PT3, UPSR dikaji semula - Fadhlina)"

@@ -32,7 +32,7 @@ faq:
     a: "Sí. Los programas ofrecidos por cualquier proveedor de educación superior que opere en Malasia, incluidos los campus filiales extranjeros, se someten a garantía de calidad bajo el MQF y aparecen en el MQR. Algunas universidades consolidadas poseen el estatus de autoacreditación, que las faculta para acreditar sus propios programas en el MQF e inscribirlos en el MQR."
 
 lang: "es"
-sourceContentHash: "35dc11bf078ce7cc"
+sourceContentHash: "c14bc638e4d2ad46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-1.webp
+    alt: Académicos con togas ceremoniales confieren un título en el escenario durante una ceremonia de graduación en la Universiti Kebangsaan Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Una graduación especial de concesión de un título en la Universiti Kebangsaan Malaysia
+    credit: Press Information Department (Government of Bangladesh) / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Honorary_Doctorate_Universiti_Kebangsaan_Malaysia_2025-08-13_(PID-0000370).jpg
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-2.webp
+    alt: El curvo edificio del rectorado Canselori Putra de la Universiti Putra Malaysia junto a una plaza ajardinada.
+    kind: representative
+    origin: third-party
+    subject: Edificio del rectorado (sede administrativa) de la Universiti Putra Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Canselori_Putra,_UPM.jpg
 ---
 
 Dos estudiantes se gradúan con un diploma de nombre casi idéntico. Uno reúne los requisitos para un empleo público y una plaza de máster; al otro lo rechazan en la puerta. La diferencia suele ser una sola línea en un registro público: si la Agencia de Cualificaciones de Malasia acreditó el programa.

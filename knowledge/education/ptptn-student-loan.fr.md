@@ -25,7 +25,7 @@ verificationNeeded:
   - "Les références aux pouvoirs d'exécution (par exemple, les restrictions de voyage à l'étranger pour les emprunteurs défaillants) ne sont mentionnées qu'en termes généraux sur la base de l'existence de tels pouvoirs au titre de l'Act 566 ; le numéro de section précis et ses conditions de déclenchement (comme la période d'arriérés) n'ont pas été vérifiés directement à partir du texte de la Loi ni du portail officiel et doivent être revérifiés."
 
 lang: "fr"
-sourceContentHash: "c276a6a6034e9c91"
+sourceContentHash: "4273f8606a208fb5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_UTM-Campus-Kuala-Lumpur-02.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-1.webp
+    alt: Le bâtiment du rectorat de l'Universiti Teknologi MARA (UiTM), un grand bâtiment universitaire public moderne en verre et béton, dressé sur une butte paysagère avec des drapeaux devant.
+    kind: representative
+    origin: third-party
+    subject: Un campus d'université publique malaisienne (Universiti Teknologi MARA)
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-2.webp
+    alt: Le bâtiment du rectorat (Canselori) bleu et crème caractéristique de l'Universiti Malaysia Sabah à Kota Kinabalu, un emblème d'université publique situé au-dessus d'une pelouse paysagère.
+    kind: representative
+    origin: third-party
+    subject: Un emblème d'université publique malaisienne (rectorat de l'Universiti Malaysia Sabah)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu-Sabah_Universiti-Malaysia-Sabah-Chancellory-01.jpg
 ---
 
 De nombreux étudiants signent leurs documents d'offre du PTPTN avec la même

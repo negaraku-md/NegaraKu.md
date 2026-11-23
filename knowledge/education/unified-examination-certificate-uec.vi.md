@@ -30,7 +30,7 @@ faq:
     a: "Có. Tiếng Mã Lai là môn học bắt buộc trong hệ thống UEC. Nhiều học sinh UEC cũng dự thi SPM với tư cách thí sinh tự do; Dong Zong cho biết tỷ lệ đỗ môn Tiếng Mã Lai SPM trong số học sinh SMPC vượt 96% trong các năm 2022–2024 (97.38% năm 2022, 97.11% năm 2023 và 96.65% năm 2024), sử dụng cùng đề thi SPM như các thí sinh khác."
 
 lang: "vi"
-sourceContentHash: "1f2605f6949b7811"
+sourceContentHash: "e144ffe426e25ff1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Sekolah-Tinggi-Cina-Sabah-06.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-1.webp
+    alt: Cổng vòm lối vào và biển tên của Sekolah Menengah Foon Yew / Foon Yew High School (寬柔中學) ở Johor Bahru, với cờ bang Johor và huy hiệu nhà trường.
+    kind: actual
+    origin: third-party
+    subject: Foon Yew High School, một trường trung học tư thục tiếng Hoa ở Johor Bahru
+    credit: Kaart @ Mapillary.com / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School.jpg
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-2.webp
+    alt: Tòa nhà thư viện (Perpustakaan) nhiều tầng của Foon Yew High School ở Johor Bahru, với tên được thể hiện bằng tiếng Mã Lai và tiếng Hoa phía trên mái hiên lát gạch.
+    kind: actual
+    origin: third-party
+    subject: Tòa nhà thư viện của Foon Yew High School
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School_Library.jpg
 ---
 
 Ba chữ cái — UEC — có thể châm ngòi cho một cuộc tranh luận đã kéo dài hơn nửa thế kỷ trong nền chính trị giáo dục của Malaysia. Với một số bên, đó là một chứng chỉ tầm quốc tế mở cánh cửa vào các trường đại học hàng đầu thế giới; với những người khác, nó chạm đến vị trí của ngôn ngữ quốc gia và chính sách giáo dục của đất nước. Cả hai quan điểm cùng tồn tại, và cả hai đều cần được hiểu để thấy bức tranh đầy đủ.

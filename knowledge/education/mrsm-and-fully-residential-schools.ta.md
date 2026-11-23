@@ -29,7 +29,7 @@ faq:
     a: "விண்ணப்பங்கள் KPM இணையதளம் வழியாக ஆன்லைனில் செய்யப்படுகின்றன; மாணவர்கள் சிறப்புப் பள்ளி சேர்க்கை மதிப்பீட்டு (Pentaksiran Kemasukan Sekolah Khusus, PKSK) மூலம், கல்வி மற்றும் இணைப்பாடத் திட்ட சாதனையுடன் சேர்த்து வடிகட்டப்படுகிறார்கள்."
 
 lang: "ta"
-sourceContentHash: "d9161aa5a0f5aff2"
+sourceContentHash: "634c5a870f713575"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:MRSM_Batu_Pahat,_Batu_Pahat_20250207_162623.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/mrsm-and-fully-residential-schools/body-1.webp
+    alt: கிராமப்புறச் சாலையொன்றின் ஓரத்தில் Maktab Rendah Sains MARA (MRSM) Gemencheh-இன் நுழைவுப் பெயர்ப் பலகையும் வாயிலும்
+    kind: actual
+    origin: third-party
+    subject: Maktab Rendah Sains MARA (MRSM) Gemencheh-இன் முதன்மை நுழைவாயில்
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRSM_Gemencheh.jpg
+  - role: scene
+    src: /media/education/mrsm-and-fully-residential-schools/body-2.webp
+    alt: Melaka-வில் உள்ள ஒரு மலேசிய முழு விடுதிப் பள்ளியின் வளாகக் கட்டிடங்கள் மற்றும் மைதானத்தின் பரந்த காட்சி
+    kind: actual
+    origin: third-party
+    subject: முழு விடுதிப் பள்ளியொன்றின் வளாகம், Sekolah Berasrama Penuh Integrasi (SBPI) Melaka
+    credit: Mra1001 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBPIS_MELAKA_2.jpg
 ---
 
 மலேசியக் குடும்பங்கள் தங்கள் பிள்ளைகளுக்கான "சிறந்த" உறைவிடப் பள்ளிகள் பற்றி உரையாடும்போது இரண்டு பெயர்கள் அடிக்கடி எழுகின்றன: MRSM மற்றும் SBP. இரண்டும் தேர்ந்தெடுக்கப்பட்ட முழு உறைவிடக் கல்லூரிகள், இரண்டிலும் இடம்பெற கடுமையான போட்டி நிலவுகிறது — ஆனால் அவை இரு வெவ்வேறு அமைப்புகளால், இரு வெவ்வேறு கொள்கை ஆணைகளின் கீழ் நிர்வகிக்கப்படுகின்றன.

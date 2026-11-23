@@ -30,7 +30,7 @@ faq:
     a: "เรียน ภาษามลายูเป็นวิชาบังคับในระบบ UEC นักเรียน UEC จำนวนมากยังสอบ SPM ในฐานะผู้สมัครส่วนตัว; Dong Zong รายงานว่าอัตราการสอบผ่านภาษามลายู SPM ในหมู่นักเรียน SMPC เกิน 96% สำหรับปี 2022–2024 (97.38% ในปี 2022, 97.11% ในปี 2023 และ 96.65% ในปี 2024) โดยใช้ข้อสอบ SPM ฉบับเดียวกับผู้สมัครคนอื่น"
 
 lang: "th"
-sourceContentHash: "1f2605f6949b7811"
+sourceContentHash: "e144ffe426e25ff1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Sekolah-Tinggi-Cina-Sabah-06.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-1.webp
+    alt: ซุ้มทางเข้าและป้ายชื่อของ Sekolah Menengah Foon Yew / โรงเรียนมัธยมฝูนหยิว (寬柔中學) ในยะโฮร์บาห์รู พร้อมธงรัฐยะโฮร์และตราประจำโรงเรียน
+    kind: actual
+    origin: third-party
+    subject: โรงเรียนมัธยมฝูนหยิว โรงเรียนมัธยมจีนอิสระในยะโฮร์บาห์รู
+    credit: Kaart @ Mapillary.com / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School.jpg
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-2.webp
+    alt: อาคารห้องสมุดหลายชั้น (Perpustakaan) ของโรงเรียนมัธยมฝูนหยิวในยะโฮร์บาห์รู มีชื่อแสดงเป็นภาษามลายูและจีนเหนือระเบียงปูกระเบื้อง
+    kind: actual
+    origin: third-party
+    subject: อาคารห้องสมุดของโรงเรียนมัธยมฝูนหยิว
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School_Library.jpg
 ---
 
 สามตัวอักษร — UEC — สามารถจุดชนวนการถกเถียงที่ยืดเยื้อกว่าครึ่งศตวรรษในการเมืองการศึกษาของมาเลเซีย สำหรับบางฝ่าย มันคือประกาศนียบัตรระดับสากลที่เปิดประตูสู่มหาวิทยาลัยชั้นนำของโลก; สำหรับอีกฝ่าย มันแตะสถานะของภาษาประจำชาติและนโยบายการศึกษาของประเทศ ทั้งสองมุมมองมีอยู่พร้อมกัน และทั้งสองต้องเข้าใจเพื่อเห็นภาพเต็ม

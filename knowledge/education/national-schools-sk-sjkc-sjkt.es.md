@@ -30,7 +30,7 @@ faq:
     a: "Los alumnos de SJKC y SJKT pueden continuar a una escuela secundaria nacional (SMK, con el bahasa malayo como medio de instrucción) o, para algunos alumnos de SJKC, a una escuela secundaria de tipo nacional (SMJK), que también es una escuela pública/subvencionada por el Estado. La transición en el medio de instrucción de la primaria a la secundaria nacional se apoya mediante clases de transición para los alumnos que las necesitan."
 
 lang: "es"
-sourceContentHash: "2c9607178a97bd26"
+sourceContentHash: "2746b8c6a490da6c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tungku_Sabah-Sekolah-Kebangsaan-Tungku-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-1.webp
+    alt: Edificio y rótulo de una escuela primaria china de tipo nacional, la SJK(C) Chong San.
+    kind: actual
+    origin: third-party
+    subject: Una escuela china de tipo nacional, la SJK(C) Chong San en Bagan Datuk, Perak
+    credit: Ceball1923 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekolah_Jenis_Kebangsaan_(Cina)_Chong_San.jpg
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-2.webp
+    alt: Edificio y rótulo de una escuela primaria tamil de tipo nacional, la SJK(T) Saraswathy.
+    kind: actual
+    origin: third-party
+    subject: Una escuela tamil de tipo nacional, la SJK(T) Saraswathy en Sungai Buloh
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(T)_Saraswathy,_Sungai_Buloh_01.jpg
 ---
 
 Cada año, cuando se abre el periodo de inscripción, los padres de toda Malasia entran en el portal idMe del Ministerio de Educación de Malasia (KPM) para matricular a su hijo en el 1.er año. Una de las primeras decisiones que deben tomar: ¿SK, SJKC o SJKT?

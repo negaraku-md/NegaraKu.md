@@ -29,7 +29,7 @@ faq:
     a: "Le calendrier officiel est émis par des circulaires du MOE et le portail moe.gov.my chaque année avant le début de la session. Consultez les sources officielles pour les dates exactes, car elles changent chaque année."
 
 lang: "fr"
-sourceContentHash: "d8dc796d9fea25f6"
+sourceContentHash: "d7bb77ea8047230b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-1.webp
+    alt: Une cour de rassemblement vide, bordée de drapeaux, dans une école malaisienne où les élèves se réunissent chaque matin avant le début des premiers cours de la journée.
+    kind: representative
+    origin: third-party
+    subject: Cour de rassemblement d'une école malaisienne (tapak perhimpunan)
+    credit: Fadzuan Ehsan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Suasana_Sekolah_3.jpg
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-2.webp
+    alt: Deux écolières en uniforme rentrent chez elles à moto le long d'une route de Langkawi, une fois la journée d'école terminée.
+    kind: representative
+    origin: third-party
+    subject: Écolières en uniforme rentrant après les cours à Langkawi
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_School-girls-on-a-motorbike-01.jpg
 ---
 
 Planifiez un voyage en famille pour le début de l'année, et vous remarquez vite une chose : votre voisin au Kelantan commence l'école un jour plus tôt que votre enfant au Selangor. Ce n'est pas une erreur : c'est ainsi qu'est conçu le calendrier scolaire de la Malaisie.

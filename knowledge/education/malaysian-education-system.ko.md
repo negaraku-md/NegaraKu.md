@@ -34,7 +34,7 @@ faq:
     a: "기술직업교육은 일부는 교육부 직업 칼리지를 통해, 일부는 별도의 자격 트랙 — 인적자원부 산하 기능개발국(Jabatan Pembangunan Kemahiran)이 발급하는 말레이시아 기능 자격증(SKM)과 말레이시아 기능 디플로마(DKM/DLKM) — 을 통해 운영됩니다. 교육부나 고등교육부가 아닙니다."
 
 lang: "ko"
-sourceContentHash: "613eb3145a3df62e"
+sourceContentHash: "43689c40bbb62680"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-education-system/body-1.webp
+    alt: 말레이시아 한 학교의 스마트도서관에서 교복을 입은 학생들이 책상에 앉아 태블릿 컴퓨터를 사용하는 모습
+    kind: representative
+    origin: third-party
+    subject: 학교 스마트도서관에서 태블릿으로 공부하는 말레이시아 초등학생들
+    credit: Qwerqwer133 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murid_sekolah_Sum_Sun_menggunakan_tablet_di_perpustakaan_pintar.jpg
+  - role: scene
+    src: /media/education/malaysian-education-system/body-2.webp
+    alt: 푸른 하늘 아래 지붕 덮인 통로를 갖춘 여러 층의 말레이시아 중등학교 건물
+    kind: representative
+    origin: third-party
+    subject: 말레이시아 국민중등학교 건물(SMK Bandar Saujana Putra)
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_SMK_Bandar_Saujana_Putra.jpg
 ---
 
 세 명의 말레이시아인에게 「교육 제도」를 설명해 달라고 하면 세 가지 서로 다른 지도를 얻게 됩니다. 한 사람은 SK 대 SJKC를 이야기합니다. 다른 사람은 STPM 대 매트리큘레이션을 이야기합니다. 세 번째 사람은 기술 훈련 밖의 누구도 들어 본 적 없는 SKM 자격증을 언급합니다. 세 사람 모두 같은 제도를 설명하고 있습니다 — 다만 서로 다른 가지에서일 뿐입니다.

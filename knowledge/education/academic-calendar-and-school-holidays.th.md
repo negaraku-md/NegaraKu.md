@@ -29,7 +29,7 @@ faq:
     a: "ปฏิทินฉบับทางการออกผ่านหนังสือเวียน (Surat Siaran) ของ KPM และพอร์ทัล moe.gov.my ทุกปีก่อนเปิดปีการศึกษา โปรดอ้างอิงแหล่งข้อมูลทางการเพื่อวันที่ที่ถูกต้อง เนื่องจากมีการเปลี่ยนแปลงทุกปี"
 
 lang: "th"
-sourceContentHash: "d8dc796d9fea25f6"
+sourceContentHash: "d7bb77ea8047230b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-1.webp
+    alt: ลานเข้าแถวที่ว่างเปล่าและมีธงเรียงรายของโรงเรียนแห่งหนึ่งในมาเลเซียซึ่งนักเรียนมารวมตัวกันทุกเช้าก่อนเริ่มบทเรียนแรกของวัน
+    kind: representative
+    origin: third-party
+    subject: ลานเข้าแถวของโรงเรียนมาเลเซีย (tapak perhimpunan)
+    credit: Fadzuan Ehsan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Suasana_Sekolah_3.jpg
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-2.webp
+    alt: นักเรียนหญิงสองคนในชุดนักเรียนขี่มอเตอร์ไซค์กลับบ้านไปตามถนนในลังกาวีเมื่อคาบเรียนของวันสิ้นสุดลง
+    kind: representative
+    origin: third-party
+    subject: นักเรียนหญิงในชุดนักเรียนกำลังกลับบ้านหลังเลิกเรียนที่ลังกาวี
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_School-girls-on-a-motorbike-01.jpg
 ---
 
 วางแผนพักผ่อนกับครอบครัวช่วงต้นปี แล้วคุณจะสังเกตเห็นสิ่งหนึ่งอย่างรวดเร็ว: เพื่อนบ้านที่กลันตันเปิดเรียนเร็วกว่าลูกของคุณที่สลังงอร์หนึ่งวัน นั่นไม่ใช่ความผิดพลาด — แต่เป็นวิธีที่ปฏิทินการศึกษาของมาเลเซียถูกออกแบบมา

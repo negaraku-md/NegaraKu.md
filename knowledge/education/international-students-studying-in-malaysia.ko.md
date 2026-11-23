@@ -32,7 +32,7 @@ faq:
     a: "두 유형 모두 국제 학생을 받도록 승인받을 수 있지만, 학생 패스 체계의 서로 다른 부분에 속하며, 어떤 프로그램과 정원이 외국 지원자에게 열려 있는지가 보통 다릅니다. 지원하기 전에 목표 프로그램 중 어느 것이 비시민권자 등록에 열려 있는지를 기관의 국제 사무처에 직접 확인하십시오."
 
 lang: "ko"
-sourceContentHash: "7261a5b72201747a"
+sourceContentHash: "00e475894d31159f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-1.webp
+    alt: 녹음에 둘러싸이고 안내판이 세워진 노팅엄대학교 말레이시아캠퍼스의 정문으로, 많은 외국인 유학생을 받아들이는 영국 대학의 분교이다.
+    kind: actual
+    origin: third-party
+    subject: 노팅엄대학교 말레이시아캠퍼스 정문
+    credit: Faizalrahmat85 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-2.webp
+    alt: 열주가 늘어선 샤먼대학교 말레이시아캠퍼스 본관에 비치는 오후 햇살로, 쿠알라룸푸르 인근에 자리해 해외에서 학생을 끌어모으는 중국 대학의 분교이다.
+    kind: actual
+    origin: third-party
+    subject: 샤먼대학교 말레이시아캠퍼스, 스팡
+    credit: Xiamen University Malaysia / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Xiamen_University_Malaysia_at_afternoon.jpg
 ---
 
 잘못된 종류의 기관에서 받은 입학 허가서는, 프로그램 자체가 완벽하게 인증받았더라도 비자에는 쓸모가 없습니다. 그 구분 — 인증된 프로그램 대 국제 학생 등록 승인을 받은 기관 — 이 누군가 EMGS 양식을 채우기 훨씬 전에, 대부분의 혼란이 시작되는 지점입니다.

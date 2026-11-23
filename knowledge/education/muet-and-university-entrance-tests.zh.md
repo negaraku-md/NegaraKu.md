@@ -36,7 +36,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "a815609cdc3d3e77"
+sourceContentHash: "fd15f9ab20d97160"
 
 status: "published"
 aiAssisted: true
@@ -99,6 +99,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-1.webp
+    alt: 马来西亚一所学校宽敞礼堂的内部，设有舞台与一排排地面空间，被用作考场
+    kind: representative
+    origin: third-party
+    subject: 用作考场的马来西亚学校礼堂（dewan）
+    credit: LM UPSI 2019 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-2.webp
+    alt: 马来西亚一所大学校园内讲堂建筑群的鸟瞰图
+    kind: representative
+    origin: third-party
+    subject: 苏丹依德里斯师范大学（UPSI）的讲堂建筑群
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg
 ---
 
 你可以在 STPM 或大学预科中表现优异，但若少了另一项成绩，你的学位申请表仍然不完整。那项成绩就是 MUET——而许多学生往往要等到大学申请截止日期逼近时，才意识到它的重要性。

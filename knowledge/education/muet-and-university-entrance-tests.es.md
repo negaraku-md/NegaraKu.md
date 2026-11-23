@@ -34,7 +34,7 @@ faq:
     a: "Las universidades privadas también suelen exigir una prueba de dominio del inglés. Los estudiantes locales normalmente presentan los resultados del MUET, mientras que, según el programa y la institución, pueden aceptarse cualificaciones equivalentes como el IELTS o el TOEFL."
 
 lang: "es"
-sourceContentHash: "a815609cdc3d3e77"
+sourceContentHash: "fd15f9ab20d97160"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-1.webp
+    alt: Interior de un gran salón de actos de una escuela malasia usado como sede de exámenes, con escenario y filas de espacio en el suelo.
+    kind: representative
+    origin: third-party
+    subject: Salón de actos de una escuela malasia usado para realizar exámenes
+    credit: LM UPSI 2019 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-2.webp
+    alt: Vista aérea del complejo de aulas magnas en el campus de una universidad malasia.
+    kind: representative
+    origin: third-party
+    subject: Complejo de aulas magnas de la Sultan Idris Education University (UPSI)
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg
 ---
 
 Puedes destacar en el STPM o en la matriculación, pero sin un resultado más tu formulario de solicitud de titulación sigue incompleto. Ese resultado es el MUET — y muchos estudiantes solo se dan cuenta de su importancia cuando la fecha límite de solicitud a la universidad ya está encima.

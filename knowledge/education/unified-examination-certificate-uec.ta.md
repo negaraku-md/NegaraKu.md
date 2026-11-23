@@ -32,7 +32,7 @@ faq:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1f2605f6949b7811"
+sourceContentHash: "e144ffe426e25ff1"
 
 status: "published"
 aiAssisted: true
@@ -87,6 +87,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Sekolah-Tinggi-Cina-Sabah-06.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-1.webp
+    alt: Johor Bahru-வில் உள்ள Sekolah Menengah Foon Yew / Foon Yew High School (寬柔中學)-இன் நுழைவு வளைவும் பெயர்ப் பலகையும்; ஜோகூர் மாநிலக் கொடியும் பள்ளிச் சின்னமும் உடன்.
+    kind: actual
+    origin: third-party
+    subject: Foon Yew High School, Johor Bahru-வில் உள்ள ஒரு சீன சுயாதீன மேல்நிலைப் பள்ளி
+    credit: Kaart @ Mapillary.com / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School.jpg
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-2.webp
+    alt: Johor Bahru-வில் உள்ள Foon Yew High School-இன் பல மாடி நூலகக் கட்டிடம் (Perpustakaan); ஓடு பதித்த நுழைவு மண்டபத்திற்கு மேலே அதன் பெயர் மலாயிலும் சீனத்திலும் காட்டப்பட்டுள்ளது.
+    kind: actual
+    origin: third-party
+    subject: Foon Yew High School-இன் நூலகக் கட்டிடம்
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School_Library.jpg
 ---
 
 மூன்று எழுத்துக்கள் — UEC — மலேசியக் கல்வி அரசியலில் அரை நூற்றாண்டுக்கும் மேலாக நீடித்து வரும் ஒரு விவாதத்தைத் தூண்டிவிடப் போதுமானவை. சிலருக்கு, இது உலகின் முன்னணிப் பல்கலைக்கழகங்களுக்கான கதவைத் திறக்கும் சர்வதேச அங்கீகாரம் பெற்ற சான்றிதழ்; மற்றவர்களுக்கு, இது தேசிய மொழியின் நிலையையும் நாட்டின் கல்விக் கொள்கையையும் தொடுகிறது. இரு கருத்துக்களும் ஒரே நேரத்தில் இருக்கின்றன, முழுச் சித்திரத்தையும் காண இரண்டையும் புரிந்துகொள்ள வேண்டும்.

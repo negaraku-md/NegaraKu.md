@@ -32,7 +32,7 @@ faq:
     a: "نعم. البرامج التي يقدّمها أي مزوّد للتعليم العالي يعمل في ماليزيا، بما في ذلك الفروع الأجنبية، تخضع لضمان الجودة بموجب الإطار MQF وتظهر في سجل MQR. وتحمل بعض الجامعات العريقة صفة الاعتماد الذاتي، التي تخوّلها اعتماد برامجها بنفسها وفق الإطار MQF وتسجيل تلك البرامج في سجل MQR."
 
 lang: "ar"
-sourceContentHash: "35dc11bf078ce7cc"
+sourceContentHash: "c14bc638e4d2ad46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-1.webp
+    alt: أكاديميون بالأثواب الاحتفالية يمنحون درجة علمية على المنصّة خلال حفل تخرّج في Universiti Kebangsaan Malaysia.
+    kind: representative
+    origin: third-party
+    subject: حفل تخرّج خاص لمنح درجة علمية في Universiti Kebangsaan Malaysia
+    credit: Press Information Department (Government of Bangladesh) / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Honorary_Doctorate_Universiti_Kebangsaan_Malaysia_2025-08-13_(PID-0000370).jpg
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-2.webp
+    alt: مبنى رئاسة الجامعة المنحني Canselori Putra في Universiti Putra Malaysia بجوار ساحة منسّقة.
+    kind: representative
+    origin: third-party
+    subject: مبنى رئاسة الجامعة (القاعة الإدارية) في Universiti Putra Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Canselori_Putra,_UPM.jpg
 ---
 
 يتخرّج طالبان بدبلوم يبدو اسمه واحداً. أحدهما يتأهل لوظيفة حكومية ومقعد في الماجستير؛ والآخر يُرَدّ عند الباب. وكثيراً ما يكمن الفرق في سطر واحد في سجل عام: ما إذا كانت وكالة المؤهلات الماليزية قد اعتمدت البرنامج.

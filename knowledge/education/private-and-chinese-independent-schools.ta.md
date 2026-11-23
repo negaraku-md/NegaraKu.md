@@ -24,7 +24,7 @@ appliesTo: "தேசியப் பள்ளிகள், தனியார�
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6e235692a71d508a"
+sourceContentHash: "bc3e9340ade6fe52"
 
 status: "published"
 aiAssisted: true
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Papar_Sabah_Papar-Middle_School-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-1.webp
+    alt: Penang-இல் உள்ள Sekolah Menengah Chung Ling (Persendirian) / Chung Ling (Private) High School-இன் முன்முகப்பு; தூண்களுடன் கூடிய வெண்ணிற பல மாடிக் கட்டிடம்; பள்ளியின் பெயர் மலாய், சீனம், ஆங்கிலம் ஆகிய மொழிகளில் உள்ளது.
+    kind: actual
+    origin: third-party
+    subject: Chung Ling (Private) High School, Penang-இல் உள்ள ஒரு சீன சுயாதீன மேல்நிலைப் பள்ளி
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_Private_High_School.jpg
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-2.webp
+    alt: கோலாலம்பூரில் உள்ள Kuen Cheng High School-இன் பெரிய பல மாடி முதன்மைக் கட்டிடம்; அதன் பெயர் கூரை விளிம்பில் சீனத்தில் (坤成中学) மற்றும் ஆங்கிலத்தில் காட்டப்பட்டுள்ளது.
+    kind: actual
+    origin: third-party
+    subject: Kuen Cheng High School, கோலாலம்பூரில் உள்ள ஒரு சீன சுயாதீன மேல்நிலைப் பள்ளி
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Kuen-Cheng-High-School-01.jpg
 ---
 
 ஒரு மலேசியப் பெற்றோரிடம் "தனியார் பள்ளி" என்றால் என்ன என்று கேளுங்கள், அவர்கள் மூன்று முற்றிலும் வேறுபட்ட விஷயங்களைக் குறிப்பிடக்கூடும்: அருகில் உள்ள அரசாங்கப் பள்ளியின் அதே பாடத்திட்டத்தை நடத்தும் கட்டணம் வசூலிக்கும் ஒரு பள்ளி, Cambridge அல்லது IB கற்பிக்கும் ஒரு சர்வதேசப் பள்ளி, அல்லது சீனக் கல்விச் சமூகத்திற்கு வெளியே உள்ள பெரும்பாலானோர் ஒருபோதும் கேள்விப்படாத ஒரு தேர்வை நடத்தும் ஒரு சீன சுதந்திர உயர்நிலைப் பள்ளி. அந்த மூன்றில் ஒன்று மட்டுமே SPM எழுதுகிறது. ஒன்று மட்டுமே UEC எழுதுகிறது. அவற்றைக் குழப்பிக்கொள்வதுதான் 18 வயதில் ஒரு குழந்தையின் தேர்வுகளைத் தவறாக மதிப்பிடுவதற்கான எளிதான வழி.

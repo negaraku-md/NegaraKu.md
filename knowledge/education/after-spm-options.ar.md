@@ -27,7 +27,7 @@ faq:
   - q: "هل مسار الدبلوم أو TVET أسوأ من الالتحاق بالجامعة؟"
     a: "لا. فمسار الدبلوم أو TVET يقود إلى عمل ماهر قابل للتوظيف، ويُبقي عادةً بابًا مفتوحًا للعودة إلى درجة جامعية عبر نقل الوحدات الدراسية أو فئة قبول منفصلة. ولكثير من المجالات — حِرَف الهندسة، والضيافة، وتقنية المعلومات، والتصميم — يكون مسارًا أسرع وأكثر مباشرةً نحو العمل من درجة عامة. والسؤال الأجدى ليس أيّ مسار أرفع مكانةً، بل أيّها يقود إلى حيث تريد الذهاب."
 lang: "ar"
-sourceContentHash: "19406003070adaf4"
+sourceContentHash: "809a134dceb4f5ea"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Malaya_KL_gate.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/after-spm-options/body-1.webp
+    alt: مبنى كلية في Universiti Malaya، أحد مسارات الدرجة الجامعية في الجامعات الحكومية التي يمكن للطالب أن يطمح إليها بعد SPM.
+    kind: actual
+    origin: third-party
+    subject: مبنى كلية التربية، Universiti Malaya
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Building_of_Faculty_of_Education_Universiti_Malaya.jpg
+  - role: scene
+    src: /media/education/after-spm-options/body-2.webp
+    alt: مباني الكليات والمكتبة والإدارة في فرع UiTM Rembau، وهو مسار تعليم عالٍ حكومي مفتوح لخرّيجي SPM.
+    kind: actual
+    origin: third-party
+    subject: حرم UiTM Rembau، نيجري سمبيلان
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg
 ---
 
 يُفتح الظرف ويصل معه السؤال الحقيقي. ليس *كيف كان أدائي* — فذلك الرقم ثابت

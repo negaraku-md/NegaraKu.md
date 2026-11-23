@@ -31,7 +31,7 @@ faq:
   - q: "Setelah lulus 独中 bisa melanjutkan ke mana?"
     a: "Jalur lanjutan siswa 独中 beragam. Banyak yang menggunakan sertifikat UEC untuk melanjutkan ke perguruan tinggi/universitas swasta dalam negeri atau universitas luar negeri, dan sebagian siswa juga menempuh SPM untuk menyimpan lebih banyak pilihan. Institusi pendidikan tinggi Tionghoa dalam negeri antara lain New Era University College, Southern University College, dan Han Chiang University College of Communication, yang berkembang dari sistem pendidikan Tionghoa. Mulai 2026, siswa UEC yang memenuhi syarat tertentu juga dapat melamar sebagian program universitas negeri melalui jalur baru."
 lang: "id"
-sourceContentHash: "11102fbd9b87b7f9"
+sourceContentHash: "3fde1ff0d6a51181"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(C)_Chun_Yin_(260103).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-1.webp
+    alt: Kampus Chung Ling High School yang rindang pepohonan di Penang, salah satu sekolah menengah berbahasa pengantar Mandarin yang sudah lama berdiri di Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Chung Ling High School, Penang
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_High_School_(October_2022).jpg
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-2.webp
+    alt: Pintu masuk dan papan nama SJK(C) Confucian di Kuala Lumpur, salah satu sekolah dasar bantuan pemerintah berbahasa pengantar Mandarin yang memasok murid ke sistem sekolah vernakular.
+    kind: actual
+    origin: third-party
+    subject: SJK(C) Confucian, sekolah dasar berbahasa pengantar Mandarin di Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(C)_Confucian.jpg
 ---
 
 Pagi hari, di lapangan sebuah sekolah dasar Tionghoa terdengar suara Mandarin, Melayu, dan Inggris yang berbaur; beberapa negara bagian jauhnya, di aula sebuah sekolah menengah swasta Tionghoa (独中), para siswa sedang bersiap untuk UEC (统考) akhir tahun; sementara di Johor dan Penang, kolej universiti yang berkembang dari sistem pendidikan Tionghoa menyambut angkatan mahasiswa baru. Semua pemandangan ini tergolong dalam satu jalur yang sama — pendidikan Tionghoa di Malaysia — namun berada pada jenjang yang berbeda, dengan cara pendanaan dan pengaturan hukum yang berbeda.

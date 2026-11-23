@@ -19,7 +19,7 @@ keyTakeaways:
   - "Kolej Komuniti berfokus pada sertifikat jenjang lebih rendah dengan penerimaan yang lebih fleksibel, sedangkan Politeknik berfokus pada diploma — keduanya diawasi oleh JPPKK di bawah Kementerian Pendidikan Tinggi"
 appliesTo: "Pelajar setelah Tingkatan 3 atau SPM, orang tua yang membuat perencanaan karier anak, dan pekerja dewasa yang ingin menyertifikasi keterampilan yang sudah ada melalui SKM."
 lang: "id"
-sourceContentHash: "1f78c1d4c5cb8fba"
+sourceContentHash: "4f35bcba22c98fdc"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -73,6 +73,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kolej_Vokasional_Sungai_Buloh_1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-1.webp
+    alt: Aula tengah beratap Montfort Youth Training Centre, sebuah kampus pelatihan keterampilan vokasional di Kinarut, Sabah, dengan spanduk panggung bertuliskan 'Through Work Achieve Success'.
+    kind: actual
+    origin: third-party
+    subject: Interior sebuah pusat pelatihan keterampilan pemuda di Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinarut_Sabah_MontfortYouthTrainingCenter-16.jpg
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-2.webp
+    alt: Selasar masuk beratap melengkung dan blok akademik modern di Politeknik Kota Kinabalu, Sabah.
+    kind: actual
+    origin: third-party
+    subject: Kampus sebuah politeknik di Malaysia (Politeknik Kota Kinabalu)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_PoliteknikKotaKinabalu-03.jpg
 ---
 
 Banyak pelajar Tingkatan 3 dan orang tua mereka hanya melihat satu jalur setelah

@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Orang tua dan pelajar di Malaysia yang sedang memutuskan antara sekolah kebangsaan, sekolah swasta berkurikulum kebangsaan, dan sekolah menengah swasta Tionghoa, dan siapa pun yang berupaya memahami apa sebenarnya yang dimaksud dengan SMJK, sekolah swasta, atau sertifikat UEC."
 
 lang: "id"
-sourceContentHash: "6e235692a71d508a"
+sourceContentHash: "bc3e9340ade6fe52"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Papar_Sabah_Papar-Middle_School-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-1.webp
+    alt: Fasad depan Sekolah Menengah Chung Ling (Persendirian) / Chung Ling (Private) High School di Penang, sebuah gedung bertingkat berwarna putih bertiang dengan nama sekolah dalam bahasa Melayu, Mandarin, dan Inggris.
+    kind: actual
+    origin: third-party
+    subject: Chung Ling (Private) High School, sebuah sekolah menengah independen Tionghoa di Penang
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_Private_High_School.jpg
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-2.webp
+    alt: Gedung utama Kuen Cheng High School yang besar dan bertingkat di Kuala Lumpur, dengan namanya tertera dalam bahasa Mandarin (坤成中学) dan Inggris di garis atap.
+    kind: actual
+    origin: third-party
+    subject: Kuen Cheng High School, sebuah sekolah menengah independen Tionghoa di Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Kuen-Cheng-High-School-01.jpg
 ---
 
 Tanya orang tua Malaysia mana pun apa arti "sekolah swasta", dan mereka mungkin merujuk pada tiga hal yang sama sekali berbeda: sekolah berbayar yang menjalankan silabus yang persis sama seperti sekolah negeri di kawasan itu, sekolah internasional yang mengajarkan Cambridge atau IB, atau sebuah sekolah menengah swasta Tionghoa yang menjalankan ujian yang jarang didengar oleh kebanyakan orang di luar komunitas pendidikan Tionghoa. Hanya satu dari ketiganya yang mengikuti SPM. Hanya satu yang mengikuti UEC. Mengacaukan ketiganya adalah cara paling mudah untuk salah menilai pilihan seorang anak pada usia 18 tahun.

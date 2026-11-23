@@ -29,7 +29,7 @@ faq:
     a: "La compétence principale revient aux départements/conseils religieux islamiques des États, car les affaires religieuses islamiques sont une matière étatique au titre de la Constitution. JAKIM assure la coordination au niveau fédéral, tandis que les exigences de sécurité des bâtiments font intervenir les Autorités locales et le Département des pompiers."
 
 lang: "fr"
-sourceContentHash: "b8ecf4cacb65882a"
+sourceContentHash: "a9ff06200dd4e2e2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -81,6 +81,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Agama_Al-Maarif_2016.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-1.webp
+    alt: L'extérieur paisible d'une école de tahfiz à Batu Pahat, Johor, où les élèves sont internes pour mémoriser le Coran parallèlement à leurs études.
+    kind: actual
+    origin: third-party
+    subject: Madrasah Tahfiz al-Quran Hamidiah, Batu Pahat, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_west_of_Madrasah_Tahfiz_al-Quran_Hamidiah_in_Batu_Pahat,_Johor_20250206_144252.jpg
+  - role: scene
+    src: /media/education/islamic-and-religious-schools/body-2.webp
+    alt: Le modeste bâtiment d'une école primaire religieuse (sekolah agama) à Peringgit, Melaka, où les enfants suivent des études islamiques lors de la session de l'après-midi.
+    kind: actual
+    origin: third-party
+    subject: École primaire religieuse de Peringgit, Melaka
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peringgit_Religious_Primary_School.JPG
 ---
 
 Un enfant en Malaisie pourrait passer la matinée dans une école nationale, l'après-midi dans une classe KAFA d'une mosquée, et ses années d'adolescence dans un dortoir de tahfiz — trois cadres éducatifs distincts avec des superviseurs, des programmes et des lois différents. La filière de l'enseignement religieux islamique se déroule en parallèle du système national, mais elle ne forme pas un bloc unique. Comprendre qui enregistre quoi, et qui est responsable de quoi, est la clé pour lire équitablement le débat public sur ce sujet.

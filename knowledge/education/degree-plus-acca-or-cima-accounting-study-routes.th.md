@@ -33,7 +33,7 @@ faq:
 
 lang: "th"
 translationStatus: "in-sync"
-sourceContentHash: "d8f3e63e8e371c06"
+sourceContentHash: "f1edb16bb1e0f23c"
 masterLanguage: "en"
 
 status: "published"
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-1.webp
+    alt: ที่นั่งเรียงเป็นชั้นลดหลั่นในห้องบรรยายของมหาวิทยาลัยมาเลเซียประเภทที่นักศึกษาระดับปริญญาและนักศึกษาวิชาชีพบัญชีเข้าเรียน
+    kind: actual
+    origin: third-party
+    subject: ห้องบรรยายในมหาวิทยาลัยมาเลเซียซาบะฮ์
+    credit: Mfook / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Kuliah_Pusat.JPG
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-2.webp
+    alt: โต๊ะอ่านหนังสือเดี่ยวเรียงเป็นแถวอย่างเงียบสงบในห้องสมุดมหาวิทยาลัยมาลายา ที่ซึ่งนักศึกษามุ่งมั่นอ่านตำราปริญญาและข้อสอบ ACCA หรือ CIMA
+    kind: representative
+    origin: third-party
+    subject: โต๊ะอ่านหนังสือในห้องสมุดมหาวิทยาลัยมาลายา
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engine_library_Oct_2021_empty_view_desks.jpg
 ---
 
 ใครก็ตามที่กำลังตัดสินใจว่าจะเป็นนักบัญชีในมาเลเซียอย่างไร ย่อมเจอกับซุปตัวอักษรเต็ม ๆ: **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE** มันดูเหมือนเมนูคุณวุฒิที่แข่งขันกันซึ่งคุณต้องเลือก แต่เข้าใจได้ดีกว่าว่าเป็น **จุดหมายปลายทางหนึ่งเดียวที่มีถนนหลายสายไปถึง** — และเมื่อคุณเห็นจุดหมายปลายทางแล้ว ตัวเลือกต่าง ๆ ก็เข้าที่เข้าทาง

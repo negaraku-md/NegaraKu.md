@@ -29,7 +29,7 @@ faq:
     a: "Usually not. Full scholarships such as JPA and MARA typically require students to give up PTPTN for the same level of study. Check the terms of the respective sponsor's agreement."
 
 lang: "en"
-sourceContentHash: "df0ebd67e147cbc0"
+sourceContentHash: "30bf9e16f01f6ac5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-1.webp
+    alt: Modern academic buildings and landscaped grounds at the Engineering Campus of Universiti Sains Malaysia
+    kind: representative
+    origin: third-party
+    subject: Engineering Campus of Universiti Sains Malaysia, a Malaysian public research university
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-2.webp
+    alt: Rows of graduating students in academic gowns and mortarboards seated at a Malaysian university convocation
+    kind: representative
+    origin: third-party
+    subject: Graduands in robes at a Malaysian university convocation ceremony (DRB-HICOM University, 2023)
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:DHU_1.jpg
 ---
 
 Scoring 9A+ in SPM does not automatically guarantee a full overseas scholarship — because in Malaysia, public sponsorship is not only about marks, but also about which scheme you apply to, the service conditions attached, and the policy governing each fund. Understanding this map of sponsors matters, because the wrong choice can mean thousands of ringgit you have to repay later.

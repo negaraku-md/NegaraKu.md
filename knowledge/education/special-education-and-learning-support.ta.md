@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "நோயறியப்பட்ட இயலாமை அல்லது கற்றல் சிரமம் உள்ள, மலேசியாவில் உள்ள ஒரு குழந்தையின் பெற்றோர் மற்றும் பராமரிப்பாளர்கள், எந்தப் பள்ளி இடம் மற்றும் எந்தப் பதிவு நடவடிக்கைகள் பொருந்தும் என்பதைக் கண்டறிய முயற்சிக்கிறார்கள்."
 
 lang: "ta"
-sourceContentHash: "9436b58ec227f7f0"
+sourceContentHash: "a7a8e48d189106f5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:GURU_DAN_PPM_PPKI_SMK_TAMAN_UNIVERSITI.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-1.webp
+    alt: Johor-இல் உள்ள SK Pendidikan Khas Batu Pahat என்னும் அரசு சிறப்புக் கல்வித் தொடக்கப் பள்ளியின் நுழைவாயிலும் வரவேற்பு வளைவும்; வாயிலில் மலாய் மொழிப் பெயர்ப் பலகைகளுடன்.
+    kind: actual
+    origin: third-party
+    subject: ஒரு மலேசியத் தேசிய சிறப்புக் கல்விப் பள்ளி
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SK_Pendidikan_Khas_Batu_Pahat.jpg
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-2.webp
+    alt: Sabah மாநிலம் Pensiangan-இல் உள்ள ஒரு கிராமப்புற அரசுத் தொடக்கப் பள்ளியின் ஒரு மாடி மரக் கட்டட வகுப்பறைத் தொகுதி; காடு சூழ்ந்த குன்றுகளைப் பின்னணியாகக் கொண்டது.
+    kind: representative
+    origin: third-party
+    subject: ஒரு மலேசிய அரசுத் தொடக்கப் பள்ளிக் கட்டிடம்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pensiangan_Sabah_SRK-Pensiangan-06.jpg
 ---
 
 நோயறிதல் என்பது முதல் உரையாடல் மட்டுமே. இரண்டாவது உரையாடல் — பெரும்பாலும் அதிக குழப்பமானது — உங்கள் குழந்தை உண்மையில் எந்தப் பள்ளி வழியில் செல்கிறது, மேலும் பள்ளிக்கு முன்பே OKU அட்டை ஏன் முக்கியமானதாகத் தோன்றுகிறது என்பதுதான். மலேசியாவின் அமைப்பில் மூன்று அரசு வழிகள், அவை அனைத்திற்கும் வழங்கும் ஒரு தனித்த இயலாமைப் பதிவு செயல்முறை, மேலும் பெரும்பாலான பெற்றோர்கள் எந்த ஒரு அதிகாரப்பூர்வப் பக்கத்தின் மூலமாகவும் அல்லாமல் வாய்மொழியாகக் கண்டறியும் தனியார் மற்றும் NGO சிகிச்சையின் ஒரு இணையான உலகம் உள்ளன.

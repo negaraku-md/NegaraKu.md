@@ -27,7 +27,7 @@ faq:
   - q: "文凭或 TVET 路线是否比上大学更差？"
     a: "并非如此。文凭或 TVET 路线通往技术性、就业导向的工作，通常也经由学分转移或另设的招生类别，保留一条重新衔接回学位的路径。对许多领域而言——工程技术、酒店业、资讯科技、设计——它都是比一般学位更快、更直接的就业途径。更值得问的问题不是哪条路线身份更高，而是哪一条通往你想去的地方。"
 lang: "zh"
-sourceContentHash: "19406003070adaf4"
+sourceContentHash: "809a134dceb4f5ea"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Malaya_KL_gate.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/after-spm-options/body-1.webp
+    alt: 马来亚大学的一座学院大楼，这是学生在SPM之后可以争取的公立大学学位途径之一。
+    kind: actual
+    origin: third-party
+    subject: 马来亚大学教育学院大楼
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Building_of_Faculty_of_Education_Universiti_Malaya.jpg
+  - role: scene
+    src: /media/education/after-spm-options/body-2.webp
+    alt: 玛拉工艺大学（UiTM）林茂分校的学院、图书馆与行政楼，是向SPM毕业生开放的公立高等教育途径。
+    kind: actual
+    origin: third-party
+    subject: 森美兰玛拉工艺大学（UiTM）林茂分校
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg
 ---
 
 信封拆开，真正的问题也随之而来。不是*我考得怎样*——那个数字如今已成定局——

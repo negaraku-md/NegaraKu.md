@@ -33,7 +33,7 @@ faq:
 
 lang: "hi"
 translationStatus: "in-sync"
-sourceContentHash: "d8f3e63e8e371c06"
+sourceContentHash: "f1edb16bb1e0f23c"
 masterLanguage: "en"
 
 status: "published"
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-1.webp
+    alt: किसी मलेशियाई विश्वविद्यालय का व्याख्यान-कक्ष, जहाँ सीढ़ीनुमा सीटों की पंक्तियाँ हैं और जिस तरह के कक्ष में डिग्री तथा पेशेवर लेखांकन के विद्यार्थी कक्षाओं के लिए बैठते हैं।
+    kind: actual
+    origin: third-party
+    subject: Universiti Malaysia Sabah का एक विश्वविद्यालय व्याख्यान-कक्ष
+    credit: Mfook / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Kuliah_Pusat.JPG
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-2.webp
+    alt: University of Malaya के एक पुस्तकालय में अलग-अलग अध्ययन-मेजों की शांत पंक्तियाँ, जहाँ विद्यार्थी डिग्री तथा ACCA या CIMA के पेपरों पर मेहनत करते हैं।
+    kind: representative
+    origin: third-party
+    subject: University of Malaya के एक पुस्तकालय में अध्ययन-मेजें
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engine_library_Oct_2021_empty_view_desks.jpg
 ---
 
 मलेशिया में अकाउंटेंट कैसे बनें, यह तय करने वाला कोई भी व्यक्ति सीधे एक अक्षर-सूप से टकराता है: **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE।** यह प्रतिस्पर्धी योग्यताओं के एक मेन्यू जैसा दिखता है जिनमें से आपको चुनना है। इसे बेहतर यूँ समझा जाता है कि **एक ही मंज़िल है जिस तक पहुँचने के कई रास्ते हैं** — और जैसे ही आप मंज़िल देख लेते हैं, विकल्प अपनी-अपनी जगह बैठ जाते हैं।

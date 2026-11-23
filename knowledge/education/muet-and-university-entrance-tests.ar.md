@@ -34,7 +34,7 @@ faq:
     a: "تطلب الجامعات الخاصة عمومًا كذلك إثباتًا لإتقان اللغة الإنجليزية. ويقدّم الطلبة المحليون عادةً نتائج MUET، فيما قد تُقبل مؤهلات معادِلة مثل IELTS أو TOEFL بحسب البرنامج والمؤسسة."
 
 lang: "ar"
-sourceContentHash: "a815609cdc3d3e77"
+sourceContentHash: "fd15f9ab20d97160"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-1.webp
+    alt: منظر داخلي لقاعة مدرسية ماليزية كبيرة تُستخدم مقرًّا للامتحانات، بمنصّة وصفوف من مساحات الأرضية.
+    kind: representative
+    origin: third-party
+    subject: قاعة مدرسية ماليزية تُستخدم لأداء الامتحانات
+    credit: LM UPSI 2019 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-2.webp
+    alt: منظر جوّي لمجمّع قاعات المحاضرات في حرم جامعة ماليزية.
+    kind: representative
+    origin: third-party
+    subject: مجمّع قاعات المحاضرات في Sultan Idris Education University (UPSI)
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg
 ---
 
 قد تتفوّق في STPM أو في التهيئة الجامعية، لكن من دون نتيجة واحدة إضافية يبقى نموذج طلبك للدرجة الجامعية ناقصًا. تلك النتيجة هي MUET — وكثير من الطلبة لا يدركون أهميتها إلا وقد اقترب موعد إغلاق طلبات الجامعة.

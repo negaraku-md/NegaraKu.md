@@ -69,7 +69,7 @@ keywords:
   - SPM
   - Education Act 1996
   - Ministry of Education Malaysia
-sourceContentHash: "963327281cb05deb"
+sourceContentHash: "31f4f717fb5af86b"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -88,6 +88,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Seksyen_3_Bandar_Kinrara_Aerial_View.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-school-system/body-1.webp
+    alt: Mặt tiền của một tòa nhà trường trung học Malaysia với cột cờ và sân trước
+    kind: representative
+    origin: third-party
+    subject: Tòa nhà một trường trung học quốc gia Malaysia (SMK Cheras)
+    credit: Mysiddiq / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Cheras.JPG
+  - role: scene
+    src: /media/education/malaysian-school-system/body-2.webp
+    alt: Một nhóm học sinh trung học Malaysia mặc đồng phục đặc trưng của trường ở ngoài trời
+    kind: representative
+    origin: third-party
+    subject: Học sinh trung học Malaysia trong đồng phục nhà trường (Sandakan, Sabah)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg
 ---
 
 Đối với một đứa trẻ lớn lên ở Malaysia, câu hỏi "trường nào?" mang nhiều ý nghĩa hơn so với nhiều quốc gia khác. Một phần là về khoảng cách và danh tiếng, như ở khắp nơi — nhưng đó cũng là lựa chọn giữa một trường quốc gia giảng dạy chủ yếu bằng tiếng Mã Lai và một trường kiểu quốc gia giảng dạy bằng tiếng Hoa hoặc tiếng Tamil. Cả hai đều là một phần của cùng một hệ thống công lập, theo cùng một chương trình giảng dạy quốc gia, và dẫn đến cùng các kỳ thi quốc gia. Hiểu cách hệ thống đó khớp với nhau là bước đầu tiên để định hướng trong nó.

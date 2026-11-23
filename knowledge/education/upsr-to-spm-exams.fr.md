@@ -52,7 +52,27 @@ sources:
     publisher: "Sinar Harian"
     date: "2021-04-28"
   - title: "Le PT3 est aboli à partir de 2022 — ministre de l'Éducation (PT3 dimansuhkan mulai 2022 - Menteri Pendidikan)"
-    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022---menteri-pendidikan"
+    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022
+images:
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-1.webp
+    alt: La salle d'école colorée en bleu et jaune (dewan) de la SMK Bugaya II à Sabah, le type de salle dans laquelle se passent les examens publics tels que le SPM.
+    kind: representative
+    origin: third-party
+    subject: Une salle de collège-lycée malaisien du type utilisé pour les examens publics
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-2.webp
+    alt: Un bloc de classes à plusieurs étages de la SMK Sapulut, un collège-lycée public à Sabah.
+    kind: actual
+    origin: third-party
+    subject: Un collège-lycée malaisien (SMK Sapulut)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
+---menteri-pendidikan"
     publisher: "mStar"
     date: "2022-06-02"
   - title: "La nécessité du PT3 et de l'UPSR est réexaminée — Fadhlina (Keperluan PT3, UPSR dikaji semula - Fadhlina)"

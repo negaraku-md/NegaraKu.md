@@ -20,7 +20,7 @@ keyTakeaways:
   - "El ingreso anticipado (menor de edad) y el aplazamiento del Año 1 existen como políticas oficiales distintas: las solicitudes se hacen a través del JPN, no del sistema idMe habitual, y el aplazamiento es un privilegio, no un derecho automático"
 appliesTo: "Padres, madres o tutores de ciudadanía malasia cuyo hijo está por ingresar al Año 1 de la escuela primaria pública o al Formulario 1 de la escuela secundaria pública."
 lang: "es"
-sourceContentHash: "8bb8f4e4a270c076"
+sourceContentHash: "367beba319f714eb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_kebangsaan,_Kota_warisan,_selangor,_my.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-1.webp
+    alt: El bloque principal de aulas de una escuela primaria nacional en Ayer Keroh, Melaka, el tipo de escuela pública en que la mayoría de las familias inscriben a sus hijos.
+    kind: actual
+    origin: third-party
+    subject: Sekolah Kebangsaan Ayer Keroh, Melaka
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayer_Keroh_National_School_main_building_back.jpg
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-2.webp
+    alt: Un paso cubierto flanqueado por banderas malasias conduce hasta la verja de una escuela pública, el camino que recorren los nuevos alumnos el primer día de matrícula.
+    kind: representative
+    origin: third-party
+    subject: El paso de entrada bordeado de banderas de una escuela pública malasia
+    credit: Fadidfadilah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:LALUAN_MASUK_KE_SEKOLAH.jpg
 ---
 
 Muchos padres se sorprenden al descubrir que no pueden «registrar» a su hijo

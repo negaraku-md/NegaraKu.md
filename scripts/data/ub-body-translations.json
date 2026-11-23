@@ -20894,5 +20894,3177 @@
         "alt": "Une eau turquoise limpide vient lécher une plage de sable blanc bordée de forêt sur Pulau Redang, au large de la côte du Terengganu."
       }
     ]
+  },
+  "education/academic-calendar-and-school-holidays": {
+    "zh": [
+      {
+        "alt": "马来西亚一所学校空荡荡的集会广场，四周旗帜林立，学生每天清晨在此集合，然后开始当天的第一堂课。",
+        "subject": "马来西亚学校的升旗集会场（tapak perhimpunan）"
+      },
+      {
+        "alt": "当天的上课时段结束后，两名身穿校服的女学生骑着摩托车，沿兰卡威的公路回家。",
+        "subject": "兰卡威放学后骑车回家的校服女生"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マレーシアのある学校の、旗が立ち並ぶ無人の朝礼広場。生徒たちは毎朝ここに集まってから、その日最初の授業に向かう。",
+        "subject": "マレーシアの学校の朝礼広場（tapak perhimpunan）"
+      },
+      {
+        "alt": "その日の授業が終わると、制服姿の二人の女子生徒がバイクに乗り、ランカウイの道路を通って帰宅する。",
+        "subject": "ランカウイで放課後に帰宅する制服姿の女子生徒"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "깃발이 늘어선 말레이시아 한 학교의 텅 빈 조회 광장으로, 학생들은 매일 아침 이곳에 모인 뒤 그날의 첫 수업을 시작한다.",
+        "subject": "말레이시아 학교의 조회 운동장(tapak perhimpunan)"
+      },
+      {
+        "alt": "그날의 수업이 끝나자 교복을 입은 두 여학생이 오토바이를 타고 랑카위의 도로를 따라 집으로 돌아간다.",
+        "subject": "랑카위에서 수업을 마치고 집으로 향하는 교복 차림의 여학생들"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ลานเข้าแถวที่ว่างเปล่าและมีธงเรียงรายของโรงเรียนแห่งหนึ่งในมาเลเซียซึ่งนักเรียนมารวมตัวกันทุกเช้าก่อนเริ่มบทเรียนแรกของวัน",
+        "subject": "ลานเข้าแถวของโรงเรียนมาเลเซีย (tapak perhimpunan)"
+      },
+      {
+        "alt": "นักเรียนหญิงสองคนในชุดนักเรียนขี่มอเตอร์ไซค์กลับบ้านไปตามถนนในลังกาวีเมื่อคาบเรียนของวันสิ้นสุดลง",
+        "subject": "นักเรียนหญิงในชุดนักเรียนกำลังกลับบ้านหลังเลิกเรียนที่ลังกาวี"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Tapak perhimpunan kosong berpagar bendera di sebuah sekolah di Malaysia, tempat murid berhimpun setiap pagi sebelum pengajaran pertama hari itu bermula.",
+        "subject": "Tapak perhimpunan sebuah sekolah di Malaysia"
+      },
+      {
+        "alt": "Dua pelajar perempuan berpakaian seragam menunggang motosikal pulang ke rumah di sebuah jalan di Langkawi setelah sesi persekolahan tamat pada hari itu.",
+        "subject": "Pelajar perempuan berpakaian seragam pulang ke rumah selepas sesi persekolahan di Langkawi"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Lapangan upacara kosong yang dihiasi deretan bendera di sebuah sekolah di Malaysia, tempat para siswa berkumpul setiap pagi sebelum pelajaran pertama hari itu dimulai.",
+        "subject": "Lapangan upacara (apel) sebuah sekolah di Malaysia"
+      },
+      {
+        "alt": "Dua siswi berseragam mengendarai sepeda motor pulang ke rumah di sebuah jalan di Langkawi setelah jam sekolah berakhir hari itu.",
+        "subject": "Siswi berseragam pulang ke rumah seusai sekolah di Langkawi"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Sân tập trung trống trải viền cờ tại một trường học Malaysia, nơi học sinh tụ họp mỗi sáng trước khi tiết học đầu tiên trong ngày bắt đầu.",
+        "subject": "Sân tập trung của một trường học Malaysia (tapak perhimpunan)"
+      },
+      {
+        "alt": "Hai nữ sinh mặc đồng phục đi xe máy về nhà trên một con đường ở Langkawi sau khi buổi học trong ngày kết thúc.",
+        "subject": "Nữ sinh mặc đồng phục trở về nhà sau giờ học ở Langkawi"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கொடிகள் வரிசையாக நிற்கும் காலியான கூட்ட மைதானம்; மலேசியப் பள்ளியொன்றில் அன்றைய முதல் பாடம் தொடங்குவதற்கு முன் ஒவ்வொரு காலையும் மாணவர்கள் இங்கே ஒன்றுகூடுகிறார்கள்.",
+        "subject": "ஒரு மலேசியப் பள்ளியின் காலைக் கூட்ட மைதானம் (tapak perhimpunan)"
+      },
+      {
+        "alt": "அன்றைய பள்ளி அமர்வு முடிந்ததும், சீருடை அணிந்த இரு பள்ளி மாணவிகள் லங்காவிச் சாலையொன்றில் மோட்டார் சைக்கிளில் வீடு திரும்புகிறார்கள்.",
+        "subject": "லங்காவியில் வகுப்பு முடிந்து சீருடையில் வீடு திரும்பும் பள்ளி மாணவிகள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "किसी मलेशियाई स्कूल का झंडों से घिरा खाली सभा-मैदान, जहाँ विद्यार्थी हर सुबह दिन के पहले पाठ शुरू होने से पहले एकत्र होते हैं।",
+        "subject": "एक मलेशियाई स्कूल का सभा-मैदान (tapak perhimpunan)"
+      },
+      {
+        "alt": "वर्दी पहने दो स्कूली छात्राएँ, लांगकावी की एक सड़क पर, दिन का स्कूल सत्र समाप्त होने के बाद मोटरबाइक से घर लौटती हुईं।",
+        "subject": "लांगकावी में कक्षा के बाद घर लौटतीं वर्दीधारी स्कूली छात्राएँ"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "ساحة تجمّع فارغة تحفّها الأعلام في مدرسة ماليزية، حيث يتجمّع التلاميذ كل صباح قبل بدء أولى حصص اليوم.",
+        "subject": "ساحة تجمّع مدرسية ماليزية (tapak perhimpunan)"
+      },
+      {
+        "alt": "فتاتان مدرسيتان بالزيّ الرسمي تعودان إلى المنزل على دراجة نارية عبر أحد طرق لنكاوي بعد انتهاء الدوام المدرسي لليوم.",
+        "subject": "فتاتان مدرسيتان بالزيّ الرسمي تعودان إلى المنزل بعد الحصص في لنكاوي"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una plaza de reunión vacía bordeada de banderas en una escuela malasia, donde los alumnos se congregan cada mañana antes de que empiecen las primeras clases del día.",
+        "subject": "Patio de formación de una escuela malasia (tapak perhimpunan)"
+      },
+      {
+        "alt": "Dos escolares de uniforme vuelven a casa en motocicleta por una carretera de Langkawi una vez terminada la jornada escolar del día.",
+        "subject": "Escolares de uniforme regresan a casa tras las clases en Langkawi"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une cour de rassemblement vide, bordée de drapeaux, dans une école malaisienne où les élèves se réunissent chaque matin avant le début des premiers cours de la journée.",
+        "subject": "Cour de rassemblement d'une école malaisienne (tapak perhimpunan)"
+      },
+      {
+        "alt": "Deux écolières en uniforme rentrent chez elles à moto le long d'une route de Langkawi, une fois la journée d'école terminée.",
+        "subject": "Écolières en uniforme rentrant après les cours à Langkawi"
+      }
+    ]
+  },
+  "education/after-spm-options": {
+    "zh": [
+      {
+        "alt": "马来亚大学的一座学院大楼，这是学生在SPM之后可以争取的公立大学学位途径之一。",
+        "subject": "马来亚大学教育学院大楼"
+      },
+      {
+        "alt": "玛拉工艺大学（UiTM）林茂分校的学院、图书馆与行政楼，是向SPM毕业生开放的公立高等教育途径。",
+        "subject": "森美兰玛拉工艺大学（UiTM）林茂分校"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マラヤ大学の学部校舎。SPMの後に学生が目指せる国立大学の学位ルートの一つである。",
+        "subject": "マラヤ大学教育学部の校舎"
+      },
+      {
+        "alt": "マラ工科大学(UiTM)ルンバウ分校の学部棟・図書館・管理棟。SPM修了者に開かれた国立高等教育のルートである。",
+        "subject": "マラ工科大学(UiTM)ルンバウ校（ヌグリ・スンビラン州）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "말라야대학교의 학부 건물로, 학생이 SPM 이후 목표로 삼을 수 있는 국립대학 학위 경로 중 하나이다.",
+        "subject": "말라야대학교 교육학부 건물"
+      },
+      {
+        "alt": "마라공과대학교(UiTM) 름바우 분교의 학부동·도서관·행정동으로, SPM 수료자에게 열려 있는 국립 고등교육 경로이다.",
+        "subject": "마라공과대학교(UiTM) 름바우 캠퍼스(느그리슴빌란주)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารคณะหนึ่งในมหาวิทยาลัยมาลายา ซึ่งเป็นหนึ่งในเส้นทางปริญญาของมหาวิทยาลัยรัฐที่นักเรียนสามารถมุ่งหวังได้หลังจบ SPM",
+        "subject": "อาคารคณะศึกษาศาสตร์ มหาวิทยาลัยมาลายา"
+      },
+      {
+        "alt": "อาคารคณะ ห้องสมุด และฝ่ายบริหารของวิทยาเขตสาขาเริมเบาของมหาวิทยาลัยเทคโนโลยีมารา (UiTM) ซึ่งเป็นเส้นทางอุดมศึกษาของรัฐที่เปิดรับผู้จบ SPM",
+        "subject": "วิทยาเขตเริมเบา มหาวิทยาลัยเทคโนโลยีมารา (UiTM) รัฐเนอเกอรีเซิมบีลัน"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah bangunan fakulti di Universiti Malaya, salah satu laluan ijazah universiti awam yang boleh disasarkan oleh pelajar selepas SPM.",
+        "subject": "Bangunan Fakulti Pendidikan, Universiti Malaya"
+      },
+      {
+        "alt": "Blok fakulti, perpustakaan dan pentadbiran di kampus cawangan UiTM Rembau, sebuah laluan pengajian tinggi awam yang terbuka kepada lepasan SPM.",
+        "subject": "Kampus UiTM Rembau, Negeri Sembilan"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah gedung fakultas di Universiti Malaya, salah satu jalur gelar sarjana di universitas negeri yang bisa dituju mahasiswa setelah SPM.",
+        "subject": "Gedung Fakultas Pendidikan, Universiti Malaya"
+      },
+      {
+        "alt": "Blok fakultas, perpustakaan, dan administrasi di kampus cabang UiTM Rembau, sebuah jalur pendidikan tinggi negeri yang terbuka bagi lulusan SPM.",
+        "subject": "Kampus UiTM Rembau, Negeri Sembilan"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một tòa nhà khoa tại Universiti Malaya, một trong những lộ trình lấy bằng đại học công lập mà sinh viên có thể hướng tới sau kỳ thi SPM.",
+        "subject": "Tòa nhà Khoa Giáo dục, Universiti Malaya"
+      },
+      {
+        "alt": "Các khối nhà khoa, thư viện và hành chính của phân hiệu UiTM Rembau, một lộ trình giáo dục đại học công lập mở cho những người vừa hoàn thành SPM.",
+        "subject": "Khuôn viên UiTM Rembau, Negeri Sembilan"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "Universiti Malaya-வில் உள்ள ஒரு பீடக் கட்டிடம்; SPM-க்குப் பிறகு மாணவர் இலக்காகக் கொள்ளக்கூடிய அரசுப் பல்கலைக்கழகப் பட்டப் படிப்பு வழிகளில் ஒன்று.",
+        "subject": "கல்வியியல் பீட கட்டிடம், Universiti Malaya"
+      },
+      {
+        "alt": "UiTM Rembau கிளை வளாகத்தின் பீடம், நூலகம் மற்றும் நிர்வாகத் தொகுதிகள்; SPM நிறைவு செய்தவர்களுக்குத் திறந்திருக்கும் ஓர் அரசு உயர்கல்வி வழி.",
+        "subject": "UiTM Rembau வளாகம், Negeri Sembilan"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "Universiti Malaya का एक संकाय भवन, जो SPM के बाद किसी विद्यार्थी के लिए उपलब्ध सार्वजनिक-विश्वविद्यालय डिग्री मार्गों में से एक है।",
+        "subject": "शिक्षा संकाय भवन, Universiti Malaya"
+      },
+      {
+        "alt": "UiTM रेम्बाऊ शाखा परिसर के संकाय, पुस्तकालय और प्रशासन खंड — SPM उत्तीर्ण छात्रों के लिए खुला एक सार्वजनिक तृतीयक मार्ग।",
+        "subject": "UiTM रेम्बाऊ परिसर, नेगेरी सेम्बिलान"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مبنى كلية في Universiti Malaya، أحد مسارات الدرجة الجامعية في الجامعات الحكومية التي يمكن للطالب أن يطمح إليها بعد SPM.",
+        "subject": "مبنى كلية التربية، Universiti Malaya"
+      },
+      {
+        "alt": "مباني الكليات والمكتبة والإدارة في فرع UiTM Rembau، وهو مسار تعليم عالٍ حكومي مفتوح لخرّيجي SPM.",
+        "subject": "حرم UiTM Rembau، نيجري سمبيلان"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un edificio de facultad de la Universiti Malaya, una de las vías universitarias públicas a las que un estudiante puede aspirar tras el SPM.",
+        "subject": "Edificio de la Facultad de Educación, Universiti Malaya"
+      },
+      {
+        "alt": "Los bloques de facultad, biblioteca y administración del campus de la sucursal UiTM Rembau, una vía de educación terciaria pública abierta a quienes acaban el SPM.",
+        "subject": "Campus de la UiTM Rembau, Negeri Sembilan"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un bâtiment de faculté de l'Universiti Malaya, l'une des filières de licence en université publique auxquelles un étudiant peut aspirer après le SPM.",
+        "subject": "Bâtiment de la faculté d'éducation, Universiti Malaya"
+      },
+      {
+        "alt": "Les bâtiments de faculté, de bibliothèque et d'administration du campus de l'antenne UiTM Rembau, une filière d'enseignement supérieur public ouverte aux diplômés du SPM.",
+        "subject": "Campus de l'UiTM Rembau, Negeri Sembilan"
+      }
+    ]
+  },
+  "education/before-paying-a-college-deposit": {
+    "zh": [
+      {
+        "alt": "RCSI与UCD马来西亚校区的玻璃幕墙外观，这类私立大学通常会要求新生缴付入学订金。",
+        "subject": "槟城RCSI与UCD马来西亚校区（RUMC）"
+      },
+      {
+        "alt": "双威大学校园内一座现代化教学楼，申请者在报读这所私立学府前，会先权衡学费与订金。",
+        "subject": "双威镇双威大学校园大楼"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "RCSI・UCDマレーシア校のガラス張りの外観。新入生に入学デポジットを求める類の私立大学である。",
+        "subject": "RCSI・UCDマレーシア校(RUMC)（ペナン州）"
+      },
+      {
+        "alt": "サンウェイ大学キャンパスの近代的な教学棟。志願者が入学を決める前に学費とデポジットを比較検討する私立学校である。",
+        "subject": "サンウェイ大学のキャンパス棟（バンダル・サンウェイ）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "RCSI·UCD 말레이시아캠퍼스의 유리 외벽으로, 신입생에게 입학 보증금을 요구하는 부류의 사립대학이다.",
+        "subject": "RCSI·UCD 말레이시아캠퍼스(RUMC), 페낭주"
+      },
+      {
+        "alt": "선웨이대학교 캠퍼스의 현대식 강의동으로, 지원자가 등록을 결정하기 전에 학비와 보증금을 따져 보는 사립 교육기관이다.",
+        "subject": "선웨이대학교 캠퍼스 건물(반다르선웨이)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ผนังกระจกด้านหน้าของวิทยาเขตมาเลเซีย RCSI และ UCD ซึ่งเป็นมหาวิทยาลัยเอกชนประเภทที่เรียกเก็บเงินมัดจำการลงทะเบียนจากนักศึกษาใหม่",
+        "subject": "วิทยาเขตมาเลเซีย RCSI และ UCD (RUMC) รัฐปีนัง"
+      },
+      {
+        "alt": "อาคารเรียนทันสมัยในวิทยาเขตมหาวิทยาลัยซันเวย์ สถาบันเอกชนที่ผู้สมัครชั่งน้ำหนักค่าเล่าเรียนและเงินมัดจำก่อนตัดสินใจเข้าเรียน",
+        "subject": "อาคารวิทยาเขตมหาวิทยาลัยซันเวย์ บันดาร์ซันเวย์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Fasad kaca RCSI & UCD Malaysia Campus, sejenis universiti swasta yang meminta deposit pendaftaran daripada pelajar baharu.",
+        "subject": "RCSI & UCD Malaysia Campus (RUMC), Pulau Pinang"
+      },
+      {
+        "alt": "Sebuah blok pengajaran moden di kampus Sunway University, sebuah institusi swasta tempat pemohon menimbang yuran dan deposit sebelum membuat keputusan.",
+        "subject": "Bangunan kampus Sunway University, Bandar Sunway"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Fasad kaca RCSI & UCD Malaysia Campus, sebuah perguruan tinggi swasta yang lazimnya meminta uang muka pendaftaran dari mahasiswa baru.",
+        "subject": "RCSI & UCD Malaysia Campus (RUMC), Penang"
+      },
+      {
+        "alt": "Sebuah blok perkuliahan modern di kampus Sunway University, sebuah institusi swasta tempat calon mahasiswa menimbang biaya dan uang muka sebelum memutuskan.",
+        "subject": "Gedung kampus Sunway University, Bandar Sunway"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Mặt tiền kính của RCSI & UCD Malaysia Campus, một trường đại học tư thục thuộc loại yêu cầu sinh viên mới đóng khoản đặt cọc nhập học.",
+        "subject": "RCSI & UCD Malaysia Campus (RUMC), Penang"
+      },
+      {
+        "alt": "Một khối nhà giảng dạy hiện đại trong khuôn viên Sunway University, một cơ sở tư thục nơi người nộp đơn cân nhắc học phí và khoản đặt cọc trước khi quyết định.",
+        "subject": "Tòa nhà khuôn viên Sunway University, Bandar Sunway"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "RCSI & UCD Malaysia Campus-இன் கண்ணாடி முகப்பு; புதிய மாணவர்களிடம் சேர்க்கை முன்பணம் கேட்கும் வகையைச் சேர்ந்த தனியார் பல்கலைக்கழகம்.",
+        "subject": "RCSI & UCD Malaysia Campus (RUMC), Penang"
+      },
+      {
+        "alt": "Sunway University வளாகத்தில் உள்ள நவீன கற்பித்தல் தொகுதி; விண்ணப்பதாரர்கள் சேர்வதற்கு முன் கட்டணங்களையும் முன்பணங்களையும் எடைபோடும் தனியார் நிறுவனம்.",
+        "subject": "Sunway University வளாகக் கட்டிடம், Bandar Sunway"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "RCSI और UCD Malaysia Campus का काँच का अग्रभाग, एक ऐसा निजी विश्वविद्यालय जो नए विद्यार्थियों से नामांकन जमा-राशि माँगता है।",
+        "subject": "RCSI & UCD Malaysia Campus (RUMC), पेनांग"
+      },
+      {
+        "alt": "Sunway University परिसर का एक आधुनिक शिक्षण खंड, एक ऐसा निजी संस्थान जहाँ आवेदक प्रतिबद्ध होने से पहले फीस और जमा-राशि को तौलते हैं।",
+        "subject": "Sunway University परिसर भवन, बंदर सनवे"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "الواجهة الزجاجية لـ RCSI and UCD Malaysia Campus، وهي جامعة خاصة من النوع الذي يطلب من الطلاب الجدد دفع عربون التسجيل.",
+        "subject": "RCSI & UCD Malaysia Campus (RUMC)، بينانغ"
+      },
+      {
+        "alt": "مبنى تدريس حديث في حرم Sunway University، وهي مؤسسة خاصة يوازن فيها المتقدمون بين الرسوم والعرابين قبل الالتزام.",
+        "subject": "مبنى حرم Sunway University، بندر صنواي"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La fachada acristalada del RCSI and UCD Malaysia Campus, una universidad privada del tipo que pide a los nuevos estudiantes un depósito de matrícula.",
+        "subject": "RCSI & UCD Malaysia Campus (RUMC), Penang"
+      },
+      {
+        "alt": "Un moderno bloque de aulas en el campus de la Sunway University, una institución privada donde los aspirantes sopesan las tasas y los depósitos antes de comprometerse.",
+        "subject": "Edificio del campus de Sunway University, Bandar Sunway"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "La façade vitrée du RCSI and UCD Malaysia Campus, une université privée du type qui demande aux nouveaux étudiants un acompte d'inscription.",
+        "subject": "RCSI & UCD Malaysia Campus (RUMC), Penang"
+      },
+      {
+        "alt": "Un bloc d'enseignement moderne sur le campus de la Sunway University, un établissement privé où les candidats pèsent frais et acomptes avant de s'engager.",
+        "subject": "Bâtiment du campus de Sunway University, Bandar Sunway"
+      }
+    ]
+  },
+  "education/chinese-education-in-malaysia": {
+    "zh": [
+      {
+        "alt": "槟城钟灵中学绿树成荫的校园，这是马来西亚历史悠久的华文中学之一。",
+        "subject": "槟城钟灵中学"
+      },
+      {
+        "alt": "吉隆坡尊孔华小（SJK(C) Confucian）的校门与校名牌，这是输送生源给母语教育体系的政府资助华文小学之一。",
+        "subject": "吉隆坡尊孔华小（SJK(C) Confucian），一所华文小学"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ペナン州にあるチョンリン中学の並木に囲まれたキャンパス。マレーシアで古い歴史を持つ華語中等学校の一つである。",
+        "subject": "チョンリン中学（鍾霊中学、ペナン州）"
+      },
+      {
+        "alt": "クアラルンプールにあるSJK(C) Confucian（尊孔華小）の校門と校名板。母語教育制度を支える政府補助の華語小学校の一つである。",
+        "subject": "SJK(C) Confucian（クアラルンプールの華語小学校、尊孔華小）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "페낭주에 있는 중링중학교의 나무가 늘어선 캠퍼스로, 말레이시아에서 오랜 역사를 지닌 중국어 중등학교 중 하나이다.",
+        "subject": "중링중학교(鍾靈中學), 페낭주"
+      },
+      {
+        "alt": "쿠알라룸푸르에 있는 SJK(C) Confucian(尊孔華小)의 정문과 교명판으로, 모어 교육 체제에 학생을 공급하는 정부 보조 중국어 초등학교 중 하나이다.",
+        "subject": "SJK(C) Confucian, 쿠알라룸푸르의 중국어 초등학교(尊孔華小)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "วิทยาเขตร่มรื่นด้วยแมกไม้ของโรงเรียนมัธยมจงลิงในรัฐปีนัง หนึ่งในโรงเรียนมัธยมสอนภาษาจีนที่มีประวัติยาวนานของมาเลเซีย",
+        "subject": "โรงเรียนมัธยมจงลิง รัฐปีนัง"
+      },
+      {
+        "alt": "ประตูทางเข้าและป้ายชื่อของ SJK(C) Confucian ในกัวลาลัมเปอร์ หนึ่งในโรงเรียนประถมสอนภาษาจีนที่รัฐอุดหนุนซึ่งป้อนนักเรียนเข้าสู่ระบบการศึกษาภาษาแม่",
+        "subject": "SJK(C) Confucian โรงเรียนประถมสอนภาษาจีนในกัวลาลัมเปอร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Kampus Chung Ling High School yang dipagari pepohon di Pulau Pinang, salah sebuah sekolah menengah beraliran Cina yang lama tertubuh di Malaysia.",
+        "subject": "Sekolah Menengah Chung Ling, Pulau Pinang"
+      },
+      {
+        "alt": "Pintu masuk dan papan nama SJK(C) Confucian di Kuala Lumpur, salah sebuah sekolah rendah bantuan kerajaan beraliran Cina yang menyalurkan murid ke dalam sistem vernakular.",
+        "subject": "SJK(C) Confucian, sebuah sekolah rendah beraliran Cina di Kuala Lumpur"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Kampus Chung Ling High School yang rindang pepohonan di Penang, salah satu sekolah menengah berbahasa pengantar Mandarin yang sudah lama berdiri di Malaysia.",
+        "subject": "Chung Ling High School, Penang"
+      },
+      {
+        "alt": "Pintu masuk dan papan nama SJK(C) Confucian di Kuala Lumpur, salah satu sekolah dasar bantuan pemerintah berbahasa pengantar Mandarin yang memasok murid ke sistem sekolah vernakular.",
+        "subject": "SJK(C) Confucian, sekolah dasar berbahasa pengantar Mandarin di Kuala Lumpur"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Khuôn viên rợp bóng cây của Chung Ling High School ở Penang, một trong những trường trung học dạy bằng tiếng Hoa lâu đời của Malaysia.",
+        "subject": "Chung Ling High School, Penang"
+      },
+      {
+        "alt": "Lối vào và bảng tên của SJK(C) Confucian ở Kuala Lumpur, một trong những trường tiểu học dạy bằng tiếng Hoa được nhà nước trợ cấp, cung cấp học sinh cho hệ thống trường tiếng mẹ đẻ.",
+        "subject": "SJK(C) Confucian, một trường tiểu học dạy bằng tiếng Hoa ở Kuala Lumpur"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "Penang-இல் மரங்கள் சூழ்ந்த Chung Ling High School வளாகம்; மலேசியாவில் நீண்ட காலமாக நிலைபெற்ற சீன மொழிவழி இடைநிலைப் பள்ளிகளில் ஒன்று.",
+        "subject": "Chung Ling High School, Penang"
+      },
+      {
+        "alt": "கோலாலம்பூரில் உள்ள SJK(C) Confucian-இன் நுழைவாயிலும் பெயர்ப் பலகையும்; தாய்மொழிவழி அமைப்புக்கு மாணவர்களை ஊட்டும் அரசு உதவி பெறும் சீன மொழிவழி தொடக்கப் பள்ளிகளில் ஒன்று.",
+        "subject": "SJK(C) Confucian, கோலாலம்பூரில் உள்ள சீன மொழிவழி தொடக்கப் பள்ளி"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "पेनांग में Chung Ling High School का वृक्ष-आच्छादित परिसर, जो मलेशिया के सुस्थापित चीनी-माध्यम माध्यमिक विद्यालयों में से एक है।",
+        "subject": "Chung Ling High School, पेनांग"
+      },
+      {
+        "alt": "कुआलालंपुर में SJK(C) Confucian का प्रवेशद्वार और नाम-पट्ट, चीनी-माध्यम सरकारी-सहायता प्राप्त प्राथमिक विद्यालयों में से एक जो स्थानीय-भाषा प्रणाली को पोषित करते हैं।",
+        "subject": "SJK(C) Confucian, कुआलालंपुर का एक चीनी-माध्यम प्राथमिक विद्यालय"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "الحرم المحاط بالأشجار لمدرسة Chung Ling High School في بينانغ، إحدى المدارس الثانوية العريقة ذات التعليم باللغة الصينية في ماليزيا.",
+        "subject": "Chung Ling High School، بينانغ"
+      },
+      {
+        "alt": "مدخل ولوحة اسم مدرسة SJK(C) Confucian في كوالالمبور، إحدى المدارس الابتدائية الحكومية المدعومة ذات التعليم باللغة الصينية التي تغذّي نظام التعليم بلغة المجموعات.",
+        "subject": "SJK(C) Confucian، مدرسة ابتدائية صينية التعليم في كوالالمبور"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El campus arbolado de la Chung Ling High School en Penang, una de las escuelas secundarias de enseñanza en chino de larga tradición en Malasia.",
+        "subject": "Chung Ling High School, Penang"
+      },
+      {
+        "alt": "La entrada y el rótulo de la SJK(C) Confucian en Kuala Lumpur, una de las escuelas primarias concertadas de enseñanza en chino que nutren el sistema vernáculo.",
+        "subject": "SJK(C) Confucian, una escuela primaria de enseñanza en chino en Kuala Lumpur"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Le campus bordé d'arbres de la Chung Ling High School à Penang, l'un des établissements secondaires d'enseignement en chinois de longue tradition en Malaisie.",
+        "subject": "Chung Ling High School, Penang"
+      },
+      {
+        "alt": "L'entrée et le panneau du nom de la SJK(C) Confucian à Kuala Lumpur, l'une des écoles primaires subventionnées d'enseignement en chinois qui alimentent le système vernaculaire.",
+        "subject": "SJK(C) Confucian, une école primaire d'enseignement en chinois à Kuala Lumpur"
+      }
+    ]
+  },
+  "education/degree-plus-acca-or-cima-accounting-study-routes": {
+    "zh": [
+      {
+        "alt": "马来西亚一所大学讲堂内层层叠起的座位，学位生与专业会计课程的学生在此类讲堂上课。",
+        "subject": "沙巴大学的一间大学讲堂"
+      },
+      {
+        "alt": "马来亚大学图书馆内一排排安静的个人自习桌，学生在此埋头苦读学位课程及ACCA或CIMA的试卷。",
+        "subject": "马来亚大学图书馆内的自习桌"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マレーシアの大学講堂に段状に並ぶ座席。学位課程や専門会計課程の学生が授業を受ける類の講堂である。",
+        "subject": "マレーシア・サバ大学の大学講堂"
+      },
+      {
+        "alt": "マラヤ大学図書館に静かに並ぶ個人用の学習机。学生が学位課程やACCA・CIMAの試験に取り組む場である。",
+        "subject": "マラヤ大学図書館の学習机"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "말레이시아 한 대학 강의실에 계단식으로 늘어선 좌석으로, 학위 과정과 전문 회계 과정 학생들이 수업을 듣는 부류의 강의실이다.",
+        "subject": "사바대학교의 대형 강의실"
+      },
+      {
+        "alt": "말라야대학교 도서관에 조용히 늘어선 개인 열람 책상으로, 학생들이 학위 과정과 ACCA 또는 CIMA 시험을 파고드는 곳이다.",
+        "subject": "말라야대학교 도서관의 열람 책상"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ที่นั่งเรียงเป็นชั้นลดหลั่นในห้องบรรยายของมหาวิทยาลัยมาเลเซียประเภทที่นักศึกษาระดับปริญญาและนักศึกษาวิชาชีพบัญชีเข้าเรียน",
+        "subject": "ห้องบรรยายในมหาวิทยาลัยมาเลเซียซาบะฮ์"
+      },
+      {
+        "alt": "โต๊ะอ่านหนังสือเดี่ยวเรียงเป็นแถวอย่างเงียบสงบในห้องสมุดมหาวิทยาลัยมาลายา ที่ซึ่งนักศึกษามุ่งมั่นอ่านตำราปริญญาและข้อสอบ ACCA หรือ CIMA",
+        "subject": "โต๊ะอ่านหนังสือในห้องสมุดมหาวิทยาลัยมาลายา"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Deretan tempat duduk bertingkat di sebuah dewan kuliah universiti di Malaysia, sejenis dewan tempat pelajar ijazah dan perakaunan profesional menghadiri kelas.",
+        "subject": "Dewan kuliah universiti di Universiti Malaysia Sabah"
+      },
+      {
+        "alt": "Deretan meja belajar persendirian yang tenang di sebuah perpustakaan Universiti Malaya, tempat pelajar menekuni kertas ijazah serta ACCA atau CIMA.",
+        "subject": "Meja belajar di sebuah perpustakaan Universiti Malaya"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Deretan kursi bertingkat di sebuah ruang kuliah universitas di Malaysia, jenis ruang tempat mahasiswa program sarjana dan akuntansi profesional mengikuti kuliah.",
+        "subject": "Ruang kuliah universitas di Universiti Malaysia Sabah"
+      },
+      {
+        "alt": "Deretan meja belajar perorangan yang tenang di sebuah perpustakaan Universiti Malaya, tempat mahasiswa menggarap mata ujian gelar serta ACCA atau CIMA.",
+        "subject": "Meja belajar di sebuah perpustakaan Universiti Malaya"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những hàng ghế bậc thang trong một giảng đường đại học Malaysia, loại giảng đường nơi sinh viên theo học bằng cấp và kế toán chuyên nghiệp dự lớp.",
+        "subject": "Giảng đường đại học tại Universiti Malaysia Sabah"
+      },
+      {
+        "alt": "Những dãy bàn học cá nhân yên tĩnh trong thư viện Universiti Malaya, nơi sinh viên miệt mài với các môn thi bằng cấp và ACCA hoặc CIMA.",
+        "subject": "Bàn học trong thư viện Universiti Malaya"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "மலேசியப் பல்கலைக்கழக விரிவுரை மண்டபமொன்றில் படிநிலையாக அமைந்த வரிசை இருக்கைகள்; பட்டப் படிப்பு மற்றும் தொழில்முறைக் கணக்கியல் மாணவர்கள் வகுப்புகளுக்கு அமரும் வகை.",
+        "subject": "Universiti Malaysia Sabah-இல் ஒரு பல்கலைக்கழக விரிவுரை மண்டபம்"
+      },
+      {
+        "alt": "Universiti Malaya நூலகமொன்றில் அமைதியான தனி படிப்பு மேசைகளின் வரிசைகள்; மாணவர்கள் பட்டப் படிப்பு மற்றும் ACCA அல்லது CIMA தாள்களை இங்கே உழைத்துப் படிக்கிறார்கள்.",
+        "subject": "Universiti Malaya நூலகத்தில் படிப்பு மேசைகள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "किसी मलेशियाई विश्वविद्यालय का व्याख्यान-कक्ष, जहाँ सीढ़ीनुमा सीटों की पंक्तियाँ हैं और जिस तरह के कक्ष में डिग्री तथा पेशेवर लेखांकन के विद्यार्थी कक्षाओं के लिए बैठते हैं।",
+        "subject": "Universiti Malaysia Sabah का एक विश्वविद्यालय व्याख्यान-कक्ष"
+      },
+      {
+        "alt": "University of Malaya के एक पुस्तकालय में अलग-अलग अध्ययन-मेजों की शांत पंक्तियाँ, जहाँ विद्यार्थी डिग्री तथा ACCA या CIMA के पेपरों पर मेहनत करते हैं।",
+        "subject": "University of Malaya के एक पुस्तकालय में अध्ययन-मेजें"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "صفوف من المقاعد المدرّجة في قاعة محاضرات بجامعة ماليزية من النوع الذي يجلس فيه طلاب الدرجة الجامعية والمحاسبة المهنية لحضور الحصص.",
+        "subject": "قاعة محاضرات جامعية في Universiti Malaysia Sabah"
+      },
+      {
+        "alt": "صفوف هادئة من مكاتب الدراسة الفردية في مكتبة بـ University of Malaya، حيث يكدّ الطلاب في مواد الدرجة الجامعية وأوراق ACCA أو CIMA.",
+        "subject": "مكاتب دراسة في مكتبة بـ University of Malaya"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Filas de asientos escalonados en un aula magna de una universidad malasia, del tipo en que estudiantes de grado y de contabilidad profesional asisten a clase.",
+        "subject": "Aula magna de la Universiti Malaysia Sabah"
+      },
+      {
+        "alt": "Tranquilas filas de pupitres individuales de estudio en una biblioteca de la University of Malaya, donde los estudiantes se afanan con los exámenes del grado y del ACCA o CIMA.",
+        "subject": "Pupitres de estudio en una biblioteca de la University of Malaya"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des rangées de sièges en gradins dans un amphithéâtre d'université malaisienne, du type où les étudiants en licence et en comptabilité professionnelle suivent leurs cours.",
+        "subject": "Amphithéâtre universitaire à l'Universiti Malaysia Sabah"
+      },
+      {
+        "alt": "De paisibles rangées de bureaux d'étude individuels dans une bibliothèque de la University of Malaya, où les étudiants planchent sur les épreuves de licence et de l'ACCA ou du CIMA.",
+        "subject": "Bureaux d'étude dans une bibliothèque de la University of Malaya"
+      }
+    ]
+  },
+  "education/enrolling-in-a-government-school": {
+    "zh": [
+      {
+        "alt": "马六甲爱极乐一所国民小学的主教学楼，这类政府学校是大多数家庭为孩子报名入学的选择。",
+        "subject": "马六甲爱极乐国民小学（Sekolah Kebangsaan Ayer Keroh）"
+      },
+      {
+        "alt": "一条两旁插着马来西亚国旗的有盖走道通向政府学校大门，这是新生在首个入学日所走的路。",
+        "subject": "通往马来西亚政府学校、两旁插满旗帜的入口走道"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マラッカ州アイル・クロにある国民小学校の主校舎。多くの家庭が子どもを入学登録させる類の公立学校である。",
+        "subject": "アイル・クロ国民小学校（Sekolah Kebangsaan Ayer Keroh、マラッカ州）"
+      },
+      {
+        "alt": "マレーシア国旗が両脇に並ぶ屋根付きの通路が公立学校の門へと続く。新入生が入学初日に歩く道である。",
+        "subject": "マレーシアの公立学校へ続く、旗が立ち並ぶ入口の通路"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "믈라카주 아예르크로에 있는 국민초등학교의 주요 교사동으로, 대부분의 가정이 자녀를 등록시키는 부류의 공립학교이다.",
+        "subject": "아예르크로 국민초등학교(Sekolah Kebangsaan Ayer Keroh), 믈라카주"
+      },
+      {
+        "alt": "말레이시아 국기가 양옆에 늘어선 지붕 덮인 통로가 공립학교 정문으로 이어지며, 신입생이 첫 등교일에 걷는 길이다.",
+        "subject": "말레이시아 공립학교로 이어지는 깃발이 늘어선 입구 통로"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารเรียนหลักของโรงเรียนประถมแห่งชาติในอาเยร์เกอโรห์ รัฐมะละกา ซึ่งเป็นโรงเรียนรัฐบาลประเภทที่ครอบครัวส่วนใหญ่ลงทะเบียนให้บุตรหลานเข้าเรียน",
+        "subject": "Sekolah Kebangsaan Ayer Keroh รัฐมะละกา"
+      },
+      {
+        "alt": "ทางเดินมีหลังคาขนาบด้วยธงชาติมาเลเซียทอดไปสู่ประตูโรงเรียนรัฐบาล เป็นเส้นทางที่นักเรียนใหม่เดินในวันลงทะเบียนวันแรก",
+        "subject": "ทางเดินเข้าที่มีธงเรียงรายสู่โรงเรียนรัฐบาลมาเลเซีย"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Blok pengajaran utama sebuah sekolah rendah kebangsaan di Ayer Keroh, Melaka, jenis sekolah kerajaan yang paling kerap didaftarkan anak oleh kebanyakan keluarga.",
+        "subject": "Sekolah Kebangsaan Ayer Keroh, Melaka"
+      },
+      {
+        "alt": "Sebuah laluan berbumbung yang diapit bendera Malaysia menuju pintu pagar sekolah kerajaan, laluan yang dilalui murid baharu pada hari pendaftaran pertama mereka.",
+        "subject": "Laluan masuk berpagar bendera ke sebuah sekolah kerajaan di Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Blok ruang kelas utama sebuah sekolah dasar kebangsaan di Ayer Keroh, Melaka, jenis sekolah negeri tempat sebagian besar keluarga mendaftarkan anak mereka.",
+        "subject": "Sekolah Kebangsaan Ayer Keroh, Melaka"
+      },
+      {
+        "alt": "Sebuah selasar beratap yang diapit bendera Malaysia menuju gerbang sekolah negeri, jalan yang ditempuh siswa baru pada hari pendaftaran pertama mereka.",
+        "subject": "Jalan masuk berjajar bendera menuju sebuah sekolah negeri di Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Khối nhà học chính của một trường tiểu học quốc gia ở Ayer Keroh, Melaka, loại trường công mà hầu hết các gia đình đăng ký cho con em mình vào học.",
+        "subject": "Sekolah Kebangsaan Ayer Keroh, Melaka"
+      },
+      {
+        "alt": "Một lối đi có mái che hai bên treo cờ Malaysia dẫn lên cổng một trường công, con đường mà học sinh mới bước qua trong ngày nhập học đầu tiên.",
+        "subject": "Lối đi vào viền cờ dẫn vào một trường công Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "Melaka மாநிலம் Ayer Keroh-வில் உள்ள ஒரு தேசியத் தொடக்கப் பள்ளியின் முதன்மைக் கற்பித்தல் தொகுதி; பெரும்பாலான குடும்பங்கள் தங்கள் குழந்தைகளைச் சேர்க்கும் வகை அரசுப் பள்ளி.",
+        "subject": "Sekolah Kebangsaan Ayer Keroh, Melaka"
+      },
+      {
+        "alt": "மலேசியக் கொடிகள் இருபுறமும் நிற்கும் கூரையிட்ட நடைபாதை அரசுப் பள்ளியின் வாயிலை நோக்கிச் செல்கிறது; முதல் சேர்க்கை நாளில் புதிய மாணவர்கள் கடக்கும் பாதை.",
+        "subject": "மலேசிய அரசுப் பள்ளியொன்றின் கொடிகள் வரிசையான நுழைவு நடைபாதை"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "मेलाका के आयेर केरोह में एक राष्ट्रीय प्राथमिक विद्यालय का मुख्य शिक्षण खंड, वही प्रकार का सरकारी विद्यालय जिसमें अधिकांश परिवार अपने बच्चों का पंजीकरण कराते हैं।",
+        "subject": "Sekolah Kebangsaan Ayer Keroh, मेलाका"
+      },
+      {
+        "alt": "मलेशियाई झंडों से घिरा एक ढका हुआ रास्ता किसी सरकारी विद्यालय के द्वार तक जाता है — वही पथ जिससे नए विद्यार्थी अपने पहले नामांकन दिवस पर गुज़रते हैं।",
+        "subject": "किसी मलेशियाई सरकारी विद्यालय में झंडों से घिरा प्रवेश-मार्ग"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "المبنى التدريسي الرئيسي لمدرسة ابتدائية وطنية في آير كيروه بملقا، وهو نوع المدارس الحكومية الذي تسجّل فيه معظم الأسر أطفالها.",
+        "subject": "Sekolah Kebangsaan Ayer Keroh، ملقا"
+      },
+      {
+        "alt": "ممرّ مسقوف تحفّه الأعلام الماليزية يفضي إلى بوابة مدرسة حكومية، وهو الطريق الذي يسلكه التلاميذ الجدد في أول يوم تسجيل لهم.",
+        "subject": "ممرّ الدخول المحاط بالأعلام إلى مدرسة حكومية ماليزية"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El bloque principal de aulas de una escuela primaria nacional en Ayer Keroh, Melaka, el tipo de escuela pública en que la mayoría de las familias inscriben a sus hijos.",
+        "subject": "Sekolah Kebangsaan Ayer Keroh, Melaka"
+      },
+      {
+        "alt": "Un paso cubierto flanqueado por banderas malasias conduce hasta la verja de una escuela pública, el camino que recorren los nuevos alumnos el primer día de matrícula.",
+        "subject": "El paso de entrada bordeado de banderas de una escuela pública malasia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Le bloc d'enseignement principal d'une école primaire nationale à Ayer Keroh, Melaka, le type d'école publique dans laquelle la plupart des familles inscrivent leurs enfants.",
+        "subject": "Sekolah Kebangsaan Ayer Keroh, Melaka"
+      },
+      {
+        "alt": "Un passage couvert bordé de drapeaux malaisiens mène au portail d'une école publique, le chemin qu'empruntent les nouveaux élèves le jour de leur première inscription.",
+        "subject": "L'allée d'entrée bordée de drapeaux d'une école publique malaisienne"
+      }
+    ]
+  },
+  "education/gifted-and-talented-education": {
+    "zh": [
+      {
+        "alt": "马来西亚一所中学电脑室里，学生在课堂上坐在一排排台式电脑前。",
+        "subject": "马来西亚学校电脑室里埋头学习的学生"
+      },
+      {
+        "alt": "位于柔佛的马来西亚工艺大学（UTM）一间大学研究实验室，配备车辆与仪器，这类先进设施能挑战资优学生的潜能。",
+        "subject": "马来西亚工艺大学（UTM）的一间高端工程实验室"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マレーシアの中等学校のコンピューター室で、授業中に一列に並んだデスクトップパソコンの前に座る生徒たち。",
+        "subject": "マレーシアの学校のコンピューター室で学ぶ生徒たち"
+      },
+      {
+        "alt": "ジョホール州のマレーシア工科大学(UTM)にある、車両や計測機器を備えた大学研究室。能力の高い学習者の力を伸ばす類の先端設備である。",
+        "subject": "マレーシア工科大学(UTM)の先端工学研究室"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "말레이시아 한 중등학교 컴퓨터실에서 수업 중 줄지어 놓인 데스크톱 컴퓨터 앞에 앉아 있는 학생들.",
+        "subject": "말레이시아 학교 컴퓨터실에서 공부하는 학생들"
+      },
+      {
+        "alt": "조호르주 말레이시아공과대학교(UTM)에 있는, 차량과 계측 장비를 갖춘 대학 연구 실험실로, 재능 있는 학습자의 역량을 끌어올리는 부류의 첨단 시설이다.",
+        "subject": "말레이시아공과대학교(UTM)의 첨단 공학 실험실"
+      }
+    ],
+    "th": [
+      {
+        "alt": "นักเรียนนั่งอยู่หน้าคอมพิวเตอร์ตั้งโต๊ะที่เรียงเป็นแถวระหว่างคาบเรียนในห้องคอมพิวเตอร์ของโรงเรียนมัธยมในมาเลเซีย",
+        "subject": "นักเรียนกำลังเรียนในห้องคอมพิวเตอร์ของโรงเรียนมาเลเซีย"
+      },
+      {
+        "alt": "ห้องปฏิบัติการวิจัยในมหาวิทยาลัยเทคโนโลยีมาเลเซีย (UTM) รัฐยะโฮร์ ที่ติดตั้งยานพาหนะและเครื่องมือ ซึ่งเป็นสิ่งอำนวยความสะดวกขั้นสูงประเภทที่ท้าทายศักยภาพผู้เรียนความสามารถสูง",
+        "subject": "ห้องปฏิบัติการวิศวกรรมขั้นสูงที่มหาวิทยาลัยเทคโนโลยีมาเลเซีย (UTM)"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Murid duduk di deretan komputer meja semasa sesi pembelajaran di makmal komputer sebuah sekolah menengah di Malaysia.",
+        "subject": "Pelajar bekerja di makmal komputer sebuah sekolah di Malaysia"
+      },
+      {
+        "alt": "Sebuah makmal penyelidikan universiti di UTM, Johor yang dilengkapi kenderaan dan peralatan, jenis kemudahan termaju yang mencabar pelajar berkebolehan tinggi.",
+        "subject": "Makmal kejuruteraan termaju di Universiti Teknologi Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Para siswa duduk di deretan komputer desktop saat pelajaran berlangsung di laboratorium komputer sebuah sekolah menengah di Malaysia.",
+        "subject": "Siswa bekerja di laboratorium komputer sebuah sekolah di Malaysia"
+      },
+      {
+        "alt": "Sebuah laboratorium riset universitas di UTM, Johor yang dilengkapi kendaraan dan peralatan, jenis fasilitas canggih yang menantang pelajar berkemampuan tinggi.",
+        "subject": "Laboratorium teknik canggih di Universiti Teknologi Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Học sinh ngồi tại những dãy máy tính để bàn trong một tiết học tại phòng máy tính của một trường trung học Malaysia.",
+        "subject": "Học sinh làm bài trong phòng máy tính của một trường học Malaysia"
+      },
+      {
+        "alt": "Một phòng thí nghiệm nghiên cứu đại học tại UTM ở Johor được trang bị xe cộ và thiết bị, loại cơ sở tiên tiến thử thách những người học có năng lực cao.",
+        "subject": "Phòng thí nghiệm kỹ thuật tiên tiến tại Universiti Teknologi Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "மலேசிய இடைநிலைப் பள்ளியொன்றின் கணினி ஆய்வகத்தில் பாடம் நடக்கும்போது வரிசையான மேசைக் கணினிகளில் அமர்ந்திருக்கும் மாணவர்கள்.",
+        "subject": "மலேசியப் பள்ளியொன்றின் கணினி ஆய்வகத்தில் பணியாற்றும் மாணவர்கள்"
+      },
+      {
+        "alt": "Johor-இல் உள்ள UTM-இன் வாகனங்களும் கருவிகளும் பொருத்தப்பட்ட பல்கலைக்கழக ஆராய்ச்சி ஆய்வகம்; உயர் திறன் கற்பவர்களை சவாலுக்கு உட்படுத்தும் உயர்தர வசதி வகை.",
+        "subject": "Universiti Teknologi Malaysia-வில் ஓர் உயர்தரப் பொறியியல் ஆய்வகம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "किसी मलेशियाई माध्यमिक विद्यालय की कंप्यूटर प्रयोगशाला में एक पाठ के दौरान डेस्कटॉप कंप्यूटरों की पंक्तियों पर बैठे विद्यार्थी।",
+        "subject": "किसी मलेशियाई विद्यालय की कंप्यूटर प्रयोगशाला में काम करते विद्यार्थी"
+      },
+      {
+        "alt": "जोहोर में UTM की एक विश्वविद्यालय अनुसंधान प्रयोगशाला, जो वाहनों और उपकरणों से सुसज्जित है — वही प्रकार की उन्नत सुविधा जो उच्च-क्षमता वाले शिक्षार्थियों को आगे बढ़ाती है।",
+        "subject": "Universiti Teknologi Malaysia की एक उन्नत अभियांत्रिकी प्रयोगशाला"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "تلاميذ يجلسون إلى صفوف من الحواسيب المكتبية أثناء حصة في مختبر حاسوب بمدرسة ثانوية ماليزية.",
+        "subject": "طلاب يعملون في مختبر حاسوب بمدرسة ماليزية"
+      },
+      {
+        "alt": "مختبر بحثي جامعي في UTM بولاية جوهور مجهّز بالمركبات والأجهزة، وهو نوع المرافق المتقدّمة التي تصقل المتعلّمين ذوي القدرات العالية.",
+        "subject": "مختبر هندسي متقدّم في Universiti Teknologi Malaysia"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Alumnos sentados en filas de ordenadores de sobremesa durante una clase en el laboratorio de informática de una escuela secundaria malasia.",
+        "subject": "Alumnos trabajando en el laboratorio de informática de una escuela malasia"
+      },
+      {
+        "alt": "Un laboratorio de investigación universitario de la UTM en Johor, equipado con vehículos e instrumentos, el tipo de instalación avanzada que estimula a los estudiantes de alta capacidad.",
+        "subject": "Laboratorio de ingeniería avanzada de la Universiti Teknologi Malaysia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des élèves assis devant des rangées d'ordinateurs de bureau pendant un cours dans le laboratoire informatique d'un collège-lycée malaisien.",
+        "subject": "Élèves au travail dans le laboratoire informatique d'une école malaisienne"
+      },
+      {
+        "alt": "Un laboratoire de recherche universitaire de l'UTM à Johor, équipé de véhicules et d'instruments, le type d'installation de pointe qui stimule les apprenants à haut potentiel.",
+        "subject": "Laboratoire d'ingénierie de pointe de l'Universiti Teknologi Malaysia"
+      }
+    ]
+  },
+  "education/international-students-studying-in-malaysia": {
+    "zh": [
+      {
+        "alt": "诺丁汉大学马来西亚校区绿意环绕、设有标识的正门，这所英国大学的分校招收了众多国际学生。",
+        "subject": "诺丁汉大学马来西亚校区正门"
+      },
+      {
+        "alt": "午后的阳光洒在厦门大学马来西亚分校设有列柱的主楼上，这所位于吉隆坡附近的中国大学分校吸引着来自海外的学生。",
+        "subject": "雪邦厦门大学马来西亚分校校园"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "緑に縁取られ、看板が掲げられたノッティンガム大学マレーシア校の正門。多くの留学生を受け入れる英国大学の分校である。",
+        "subject": "ノッティンガム大学マレーシア校の正門"
+      },
+      {
+        "alt": "列柱の並ぶ厦門大学マレーシア校の本館に差し込む午後の陽光。クアラルンプール近郊にあり、海外から学生を集める中国の大学の分校である。",
+        "subject": "厦門大学マレーシア校のキャンパス（スパン）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "녹음에 둘러싸이고 안내판이 세워진 노팅엄대학교 말레이시아캠퍼스의 정문으로, 많은 외국인 유학생을 받아들이는 영국 대학의 분교이다.",
+        "subject": "노팅엄대학교 말레이시아캠퍼스 정문"
+      },
+      {
+        "alt": "열주가 늘어선 샤먼대학교 말레이시아캠퍼스 본관에 비치는 오후 햇살로, 쿠알라룸푸르 인근에 자리해 해외에서 학생을 끌어모으는 중국 대학의 분교이다.",
+        "subject": "샤먼대학교 말레이시아캠퍼스, 스팡"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ประตูหลักที่มีป้ายและรายล้อมด้วยพรรณไม้เขียวขจีของมหาวิทยาลัยนอตทิงแฮมมาเลเซีย วิทยาเขตสาขาของอังกฤษที่รับนักศึกษาต่างชาติจำนวนมาก",
+        "subject": "ประตูหลักของมหาวิทยาลัยนอตทิงแฮมมาเลเซีย"
+      },
+      {
+        "alt": "แสงแดดยามบ่ายสาดต้องอาคารหลักที่มีเสาเรียงรายของมหาวิทยาลัยเซี่ยเหมินมาเลเซีย วิทยาเขตสาขาของจีนใกล้กัวลาลัมเปอร์ที่ดึงดูดนักศึกษาจากต่างประเทศ",
+        "subject": "วิทยาเขตมหาวิทยาลัยเซี่ยเหมินมาเลเซีย เซอปัง"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pintu masuk utama University of Nottingham Malaysia yang berpapan tanda dan dikelilingi tumbuhan hijau, sebuah kampus cawangan British yang menerima ramai pelajar antarabangsa.",
+        "subject": "Pintu masuk utama University of Nottingham Malaysia"
+      },
+      {
+        "alt": "Cahaya matahari petang menerangi bangunan utama bertiang Xiamen University Malaysia, sebuah kampus cawangan China berhampiran Kuala Lumpur yang menarik pelajar dari luar negara.",
+        "subject": "Kampus Xiamen University Malaysia, Sepang"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Pintu masuk utama University of Nottingham Malaysia yang berpapan nama dan dikelilingi rerimbunan hijau, sebuah kampus cabang Inggris yang menerima banyak mahasiswa internasional.",
+        "subject": "Pintu masuk utama University of Nottingham Malaysia"
+      },
+      {
+        "alt": "Sinar matahari sore menerpa gedung utama bertiang Xiamen University Malaysia, sebuah kampus cabang Tiongkok di dekat Kuala Lumpur yang menarik mahasiswa dari luar negeri.",
+        "subject": "Kampus Xiamen University Malaysia, Sepang"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Cổng chính có biển tên, viền cây xanh của University of Nottingham Malaysia, một phân hiệu của Anh thu nhận nhiều sinh viên quốc tế.",
+        "subject": "Cổng chính của University of Nottingham Malaysia"
+      },
+      {
+        "alt": "Nắng chiều phủ lên tòa nhà chính có hàng cột của Xiamen University Malaysia, một phân hiệu Trung Quốc gần Kuala Lumpur thu hút sinh viên từ nước ngoài.",
+        "subject": "Khuôn viên Xiamen University Malaysia, Sepang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பெயர்ப் பலகையும் பசுமையும் சூழ்ந்த University of Nottingham Malaysia-இன் முதன்மை நுழைவாயில்; பல சர்வதேச மாணவர்களைச் சேர்க்கும் பிரிட்டிஷ் கிளை வளாகம்.",
+        "subject": "University of Nottingham Malaysia-இன் முதன்மை நுழைவாயில்"
+      },
+      {
+        "alt": "Xiamen University Malaysia-இன் தூண்கள் நிறைந்த முதன்மைக் கட்டிடத்தின் மீது மதிய வெயில்; கோலாலம்பூருக்கு அருகில் உள்ள இந்தச் சீனக் கிளை வளாகம் வெளிநாட்டு மாணவர்களை ஈர்க்கிறது.",
+        "subject": "Xiamen University Malaysia வளாகம், Sepang"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "University of Nottingham Malaysia का नामांकित, हरियाली से घिरा मुख्य प्रवेशद्वार, एक ब्रिटिश शाखा परिसर जो कई अंतरराष्ट्रीय विद्यार्थियों को प्रवेश देता है।",
+        "subject": "University of Nottingham Malaysia का मुख्य प्रवेशद्वार"
+      },
+      {
+        "alt": "Xiamen University Malaysia के स्तंभ-युक्त मुख्य भवन पर दोपहर की धूप, कुआलालंपुर के निकट एक चीनी शाखा परिसर जो विदेशों से विद्यार्थियों को आकर्षित करता है।",
+        "subject": "Xiamen University Malaysia परिसर, सेपांग"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "المدخل الرئيسي المعلّم والمحاط بالخضرة لجامعة University of Nottingham Malaysia، وهي فرع لجامعة بريطانية يلتحق بها كثير من الطلاب الدوليين.",
+        "subject": "المدخل الرئيسي لـ University of Nottingham Malaysia"
+      },
+      {
+        "alt": "شمس الظهيرة على المبنى الرئيسي ذي الأعمدة لجامعة Xiamen University Malaysia، وهي فرع لجامعة صينية قرب كوالالمبور يجتذب طلابًا من الخارج.",
+        "subject": "حرم Xiamen University Malaysia، سيبانغ"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La entrada principal señalizada y orlada de vegetación de la University of Nottingham Malaysia, una sede británica que matricula a numerosos estudiantes internacionales.",
+        "subject": "Entrada principal de la University of Nottingham Malaysia"
+      },
+      {
+        "alt": "El sol de la tarde sobre el edificio principal con columnata de la Xiamen University Malaysia, una sede china cerca de Kuala Lumpur que atrae a estudiantes del extranjero.",
+        "subject": "Campus de la Xiamen University Malaysia, Sepang"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "L'entrée principale signalée et bordée de verdure de la University of Nottingham Malaysia, une antenne britannique qui accueille de nombreux étudiants internationaux.",
+        "subject": "Entrée principale de la University of Nottingham Malaysia"
+      },
+      {
+        "alt": "Le soleil de l'après-midi sur le bâtiment principal à colonnade de la Xiamen University Malaysia, une antenne chinoise près de Kuala Lumpur qui attire des étudiants de l'étranger.",
+        "subject": "Campus de la Xiamen University Malaysia, Sepang"
+      }
+    ]
+  },
+  "education/islamic-and-religious-schools": {
+    "zh": [
+      {
+        "alt": "柔佛峇株巴辖一所可兰经背诵学校（tahfiz）宁静的外观，学生在此寄宿，一边求学一边背诵可兰经。",
+        "subject": "柔佛峇株巴辖哈米迪亚可兰经背诵学校（Madrasah Tahfiz al-Quran Hamidiah）"
+      },
+      {
+        "alt": "马六甲Peringgit一所宗教小学（sekolah agama）朴实的校舍，孩子们在午间时段在此修读伊斯兰课程。",
+        "subject": "马六甲Peringgit宗教小学"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ジョホール州バトゥ・パハにあるタヒフィズ学校（tahfiz）の静かな外観。学生はここに寄宿し、学業と並行してクルアーンを暗記する。",
+        "subject": "マドラサ・タヒフィズ・アルクルアーン・ハミディア（ジョホール州バトゥ・パハ）"
+      },
+      {
+        "alt": "マラッカ州プリンギッにある宗教小学校（sekolah agama）の質素な校舎。子どもたちは午後の部でイスラム学を学ぶ。",
+        "subject": "プリンギッ宗教小学校（マラッカ州）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "조호르주 바투파핫에 있는 타흐피즈(tahfiz) 학교의 고요한 외관으로, 학생들이 이곳에 기숙하며 학업과 함께 꾸란을 암송한다.",
+        "subject": "마드라사 타흐피즈 알꾸란 하미디아(조호르주 바투파핫)"
+      },
+      {
+        "alt": "믈라카주 프링깃에 있는 종교초등학교(sekolah agama)의 소박한 건물로, 아이들이 오후반에 이슬람 과목을 배운다.",
+        "subject": "프링깃 종교초등학교, 믈라카주"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ภายนอกอันเงียบสงบของโรงเรียนตะฮ์ฟิซ (tahfiz) ในบาตูปาฮัต รัฐยะโฮร์ ที่ซึ่งนักเรียนพักประจำเพื่อท่องจำอัลกุรอานควบคู่ไปกับการเรียน",
+        "subject": "Madrasah Tahfiz al-Quran Hamidiah เมืองบาตูปาฮัต รัฐยะโฮร์"
+      },
+      {
+        "alt": "อาคารเรียบง่ายของโรงเรียนประถมศาสนา (sekolah agama) ในเปอริงกิต รัฐมะละกา ที่ซึ่งเด็กๆ เรียนวิชาอิสลามในคาบบ่าย",
+        "subject": "โรงเรียนประถมศาสนาเปอริงกิต รัฐมะละกา"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Bahagian luar yang tenang sebuah sekolah tahfiz di Batu Pahat, Johor, tempat pelajar menumpang asrama untuk menghafal al-Quran seiring dengan pelajaran mereka.",
+        "subject": "Madrasah Tahfiz al-Quran Hamidiah, Batu Pahat, Johor"
+      },
+      {
+        "alt": "Bangunan sederhana sebuah sekolah rendah agama di Peringgit, Melaka, tempat kanak-kanak mengikuti pengajian Islam pada sesi petang.",
+        "subject": "Sekolah Rendah Agama Peringgit, Melaka"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Bagian luar yang tenang sebuah sekolah tahfiz di Batu Pahat, Johor, tempat para santri mondok untuk menghafal Al-Qur'an seiring dengan pelajaran mereka.",
+        "subject": "Madrasah Tahfiz al-Quran Hamidiah, Batu Pahat, Johor"
+      },
+      {
+        "alt": "Bangunan sederhana sebuah sekolah dasar agama (sekolah agama) di Peringgit, Melaka, tempat anak-anak mengikuti pelajaran agama Islam pada sesi sore.",
+        "subject": "Sekolah Agama Peringgit, Melaka"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Bên ngoài tĩnh lặng của một trường tahfiz ở Batu Pahat, Johor, nơi học sinh nội trú để học thuộc lòng kinh Quran song song với việc học văn hóa.",
+        "subject": "Madrasah Tahfiz al-Quran Hamidiah, Batu Pahat, Johor"
+      },
+      {
+        "alt": "Tòa nhà giản dị của một trường tiểu học tôn giáo (sekolah agama) ở Peringgit, Melaka, nơi trẻ em học môn Hồi giáo trong buổi học chiều.",
+        "subject": "Trường Tiểu học Tôn giáo Peringgit, Melaka"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "Johor மாநிலம் Batu Pahat-இல் உள்ள ஒரு தஹ்ஃபீஸ் பள்ளியின் அமைதியான வெளிப்புறம்; மாணவர்கள் தங்கள் படிப்போடு சேர்த்து குர்ஆனை மனனம் செய்ய இங்கே தங்கிப் படிக்கிறார்கள்.",
+        "subject": "Madrasah Tahfiz al-Quran Hamidiah, Batu Pahat, Johor"
+      },
+      {
+        "alt": "Melaka மாநிலம் Peringgit-இல் உள்ள ஒரு மதத் தொடக்கப் பள்ளியின் (sekolah agama) எளிமையான கட்டிடம்; குழந்தைகள் மதியப் பிற்பகல் அமர்வில் இஸ்லாமியக் கல்வி பயிலும் இடம்.",
+        "subject": "Peringgit மத தொடக்கப் பள்ளி, Melaka"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "जोहोर के बातू पाहाट में एक तहफ़िज़ विद्यालय का शांत बाहरी दृश्य, जहाँ विद्यार्थी अपनी पढ़ाई के साथ-साथ कुरआन कंठस्थ करने के लिए आवासित रहते हैं।",
+        "subject": "Madrasah Tahfiz al-Quran Hamidiah, बातू पाहाट, जोहोर"
+      },
+      {
+        "alt": "मेलाका के पेरिंगिट में एक धार्मिक प्राथमिक विद्यालय (sekolah agama) का साधारण भवन, जहाँ बच्चे दोपहर के सत्र में इस्लामी अध्ययन करते हैं।",
+        "subject": "Peringgit धार्मिक प्राथमिक विद्यालय, मेलाका"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "الواجهة الهادئة لمدرسة تحفيظ في باتو باهات بولاية جوهور، حيث يقيم الطلاب لحفظ القرآن إلى جانب دراستهم.",
+        "subject": "Madrasah Tahfiz al-Quran Hamidiah، باتو باهات، جوهور"
+      },
+      {
+        "alt": "المبنى المتواضع لمدرسة دينية ابتدائية (sekolah agama) في بيرينغيت بملقا، حيث يتلقّى الأطفال الدراسات الإسلامية في حصة بعد الظهر.",
+        "subject": "مدرسة بيرينغيت الدينية الابتدائية، ملقا"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El tranquilo exterior de una escuela de tahfiz en Batu Pahat, Johor, donde los alumnos se alojan para memorizar el Corán junto con sus estudios.",
+        "subject": "Madrasah Tahfiz al-Quran Hamidiah, Batu Pahat, Johor"
+      },
+      {
+        "alt": "El modesto edificio de una escuela primaria religiosa (sekolah agama) en Peringgit, Melaka, donde los niños cursan estudios islámicos en la sesión de tarde.",
+        "subject": "Escuela primaria religiosa de Peringgit, Melaka"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "L'extérieur paisible d'une école de tahfiz à Batu Pahat, Johor, où les élèves sont internes pour mémoriser le Coran parallèlement à leurs études.",
+        "subject": "Madrasah Tahfiz al-Quran Hamidiah, Batu Pahat, Johor"
+      },
+      {
+        "alt": "Le modeste bâtiment d'une école primaire religieuse (sekolah agama) à Peringgit, Melaka, où les enfants suivent des études islamiques lors de la session de l'après-midi.",
+        "subject": "École primaire religieuse de Peringgit, Melaka"
+      }
+    ]
+  },
+  "education/jpa-and-public-scholarships": {
+    "zh": [
+      {
+        "alt": "马来西亚理科大学工程校区现代化的教学楼与园林绿地",
+        "subject": "马来西亚理科大学工程校区，一所马来西亚公立研究型大学"
+      },
+      {
+        "alt": "马来西亚一所大学毕业典礼上，一排排身穿学位袍、头戴方帽的应届毕业生就座",
+        "subject": "马来西亚大学毕业典礼上身穿礼袍的毕业生（DRB-HICOM大学，2023年）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マレーシア科学大学(USM)工学キャンパスの近代的な校舎と整えられた緑地",
+        "subject": "マレーシア科学大学(USM)工学キャンパス（マレーシアの国立研究大学）"
+      },
+      {
+        "alt": "マレーシアの大学の学位授与式で、アカデミックガウンと角帽を身につけて着席する卒業生の列",
+        "subject": "マレーシアの大学の学位授与式で式服をまとった修了予定者（DRB-HICOM大学、2023年）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "말레이시아과학대학교(USM) 공학캠퍼스의 현대식 학술 건물과 조경된 부지",
+        "subject": "말레이시아과학대학교(USM) 공학캠퍼스, 말레이시아의 국립 연구중심 대학"
+      },
+      {
+        "alt": "말레이시아 한 대학의 학위수여식에서 학위복과 사각모를 갖추고 앉아 있는 졸업생들의 줄",
+        "subject": "말레이시아 대학 학위수여식에서 예복을 입은 졸업 예정자들(DRB-HICOM대학교, 2023년)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารวิชาการทันสมัยและพื้นที่จัดภูมิทัศน์ที่วิทยาเขตวิศวกรรมของมหาวิทยาลัยวิทยาศาสตร์มาเลเซีย (USM)",
+        "subject": "วิทยาเขตวิศวกรรม มหาวิทยาลัยวิทยาศาสตร์มาเลเซีย (USM) มหาวิทยาลัยวิจัยของรัฐในมาเลเซีย"
+      },
+      {
+        "alt": "แถวของบัณฑิตผู้สำเร็จการศึกษาในชุดครุยและหมวกครุยนั่งอยู่ในพิธีประสาทปริญญาของมหาวิทยาลัยมาเลเซีย",
+        "subject": "บัณฑิตในชุดครุยในพิธีประสาทปริญญาของมหาวิทยาลัยมาเลเซีย (มหาวิทยาลัย DRB-HICOM ปี 2023)"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Bangunan akademik moden dan kawasan berlanskap di Kampus Kejuruteraan Universiti Sains Malaysia",
+        "subject": "Kampus Kejuruteraan Universiti Sains Malaysia, sebuah universiti penyelidikan awam Malaysia"
+      },
+      {
+        "alt": "Deretan graduan berjubah akademik dan bertopi mortarboard yang duduk pada majlis konvokesyen sebuah universiti di Malaysia",
+        "subject": "Graduan berjubah pada majlis konvokesyen sebuah universiti di Malaysia (DRB-HICOM University, 2023)"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Gedung akademik modern dan lahan bertata taman di Kampus Teknik Universiti Sains Malaysia",
+        "subject": "Kampus Teknik Universiti Sains Malaysia, sebuah universitas riset negeri Malaysia"
+      },
+      {
+        "alt": "Deretan wisudawan bertoga akademik dan bertopi toga yang duduk pada upacara wisuda sebuah universitas di Malaysia",
+        "subject": "Para wisudawan berjubah pada upacara wisuda sebuah universitas di Malaysia (DRB-HICOM University, 2023)"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Các tòa nhà học thuật hiện đại và khuôn viên được tạo cảnh quan tại Khuôn viên Kỹ thuật của Universiti Sains Malaysia",
+        "subject": "Khuôn viên Kỹ thuật của Universiti Sains Malaysia, một đại học nghiên cứu công lập Malaysia"
+      },
+      {
+        "alt": "Những hàng tân khoa mặc áo thụng và đội mũ cử nhân ngồi tại lễ tốt nghiệp của một trường đại học Malaysia",
+        "subject": "Các tân khoa trong áo cử nhân tại lễ tốt nghiệp của một trường đại học Malaysia (DRB-HICOM University, 2023)"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "Universiti Sains Malaysia-இன் பொறியியல் வளாகத்தில் நவீன கல்விக் கட்டிடங்களும் நிலக்காட்சி அமைக்கப்பட்ட பகுதிகளும்",
+        "subject": "Universiti Sains Malaysia-இன் பொறியியல் வளாகம், ஒரு மலேசிய அரசு ஆராய்ச்சிப் பல்கலைக்கழகம்"
+      },
+      {
+        "alt": "மலேசியப் பல்கலைக்கழகப் பட்டமளிப்பு விழாவில் கல்வி அங்கிகளும் பட்டதாரித் தொப்பிகளும் அணிந்து வரிசையாக அமர்ந்திருக்கும் பட்டதாரிகள்",
+        "subject": "மலேசியப் பல்கலைக்கழகப் பட்டமளிப்பு விழாவில் அங்கி அணிந்த பட்டதாரிகள் (DRB-HICOM University, 2023)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "Universiti Sains Malaysia के अभियांत्रिकी परिसर में आधुनिक शैक्षणिक भवन और सुसज्जित परिसर-भूमि।",
+        "subject": "Universiti Sains Malaysia का अभियांत्रिकी परिसर, एक मलेशियाई सार्वजनिक अनुसंधान विश्वविद्यालय"
+      },
+      {
+        "alt": "किसी मलेशियाई विश्वविद्यालय के दीक्षांत समारोह में शैक्षणिक गाउन और टोपियों में बैठे स्नातक होने वाले विद्यार्थियों की पंक्तियाँ।",
+        "subject": "किसी मलेशियाई विश्वविद्यालय के दीक्षांत समारोह में गाउन पहने स्नातक (DRB-HICOM University, 2023)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مبانٍ أكاديمية حديثة وساحات منسّقة في الحرم الهندسي لجامعة Universiti Sains Malaysia.",
+        "subject": "الحرم الهندسي لجامعة Universiti Sains Malaysia، وهي جامعة بحثية حكومية ماليزية"
+      },
+      {
+        "alt": "صفوف من الطلاب الخرّيجين في أثواب التخرّج والقبعات الأكاديمية يجلسون في حفل تخرّج بجامعة ماليزية.",
+        "subject": "خرّيجون بالأثواب في حفل تخرّج بجامعة ماليزية (DRB-HICOM University، 2023)"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Modernos edificios académicos y terrenos ajardinados en el Campus de Ingeniería de la Universiti Sains Malaysia.",
+        "subject": "Campus de Ingeniería de la Universiti Sains Malaysia, una universidad pública de investigación de Malasia"
+      },
+      {
+        "alt": "Filas de estudiantes graduándose con togas y birretes académicos, sentados en una ceremonia de graduación de una universidad malasia.",
+        "subject": "Graduandos con togas en una ceremonia de graduación de una universidad malasia (DRB-HICOM University, 2023)"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Bâtiments universitaires modernes et terrains paysagers sur le Campus d'ingénierie de l'Universiti Sains Malaysia.",
+        "subject": "Campus d'ingénierie de l'Universiti Sains Malaysia, une université publique de recherche malaisienne"
+      },
+      {
+        "alt": "Des rangées d'étudiants diplômés en toges et coiffes académiques, assis lors d'une cérémonie de remise des diplômes dans une université malaisienne.",
+        "subject": "Diplômés en toge lors d'une cérémonie de remise des diplômes dans une université malaisienne (DRB-HICOM University, 2023)"
+      }
+    ]
+  },
+  "education/malaysian-education-system": {
+    "zh": [
+      {
+        "alt": "马来西亚一所学校智慧图书馆里，身穿校服的小学生坐在桌前使用平板电脑",
+        "subject": "马来西亚小学生在学校智慧图书馆里用平板电脑学习"
+      },
+      {
+        "alt": "蓝天下设有有盖走道的多层马来西亚中学校舍",
+        "subject": "马来西亚国民中学校舍（SMK Bandar Saujana Putra）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マレーシアの学校のスマート図書館で、制服姿の児童が机に向かってタブレット端末を使う様子",
+        "subject": "学校のスマート図書館でタブレットを使って学ぶマレーシアの小学生"
+      },
+      {
+        "alt": "青空の下、屋根付きの通路を備えた多層階のマレーシアの中等学校校舎",
+        "subject": "マレーシアの国民中等学校の校舎（SMK Bandar Saujana Putra）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "말레이시아 한 학교의 스마트도서관에서 교복을 입은 학생들이 책상에 앉아 태블릿 컴퓨터를 사용하는 모습",
+        "subject": "학교 스마트도서관에서 태블릿으로 공부하는 말레이시아 초등학생들"
+      },
+      {
+        "alt": "푸른 하늘 아래 지붕 덮인 통로를 갖춘 여러 층의 말레이시아 중등학교 건물",
+        "subject": "말레이시아 국민중등학교 건물(SMK Bandar Saujana Putra)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "นักเรียนในชุดนักเรียนใช้แท็บเล็ตที่โต๊ะในห้องสมุดอัจฉริยะของโรงเรียนในมาเลเซีย",
+        "subject": "นักเรียนประถมมาเลเซียเรียนด้วยแท็บเล็ตในห้องสมุดอัจฉริยะของโรงเรียน"
+      },
+      {
+        "alt": "อาคารโรงเรียนมัธยมมาเลเซียหลายชั้นพร้อมทางเดินมีหลังคาภายใต้ท้องฟ้าสีคราม",
+        "subject": "อาคารโรงเรียนมัธยมแห่งชาติมาเลเซีย (SMK Bandar Saujana Putra)"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Kanak-kanak sekolah berpakaian seragam menggunakan komputer tablet di meja dalam perpustakaan pintar sebuah sekolah di Malaysia",
+        "subject": "Murid sekolah rendah di Malaysia belajar menggunakan tablet di perpustakaan pintar sekolah"
+      },
+      {
+        "alt": "Bangunan sekolah menengah bertingkat di Malaysia dengan laluan berbumbung di bawah langit biru",
+        "subject": "Bangunan sekolah menengah kebangsaan di Malaysia (SMK Bandar Saujana Putra)"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Anak-anak sekolah berseragam menggunakan komputer tablet di meja dalam perpustakaan pintar sebuah sekolah di Malaysia",
+        "subject": "Siswa sekolah dasar di Malaysia belajar menggunakan tablet di perpustakaan pintar sekolah"
+      },
+      {
+        "alt": "Gedung sekolah menengah bertingkat di Malaysia dengan selasar beratap di bawah langit biru",
+        "subject": "Gedung sekolah menengah kebangsaan di Malaysia (SMK Bandar Saujana Putra)"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Học sinh mặc đồng phục dùng máy tính bảng tại bàn trong thư viện thông minh của một trường học Malaysia",
+        "subject": "Học sinh tiểu học Malaysia học bằng máy tính bảng trong thư viện thông minh của trường"
+      },
+      {
+        "alt": "Tòa nhà trường trung học Malaysia nhiều tầng với các lối đi có mái che dưới bầu trời xanh",
+        "subject": "Tòa nhà một trường trung học quốc gia Malaysia (SMK Bandar Saujana Putra)"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "மலேசியப் பள்ளியொன்றின் ஸ்மார்ட் நூலகத்தில் சீருடை அணிந்த பள்ளிக் குழந்தைகள் மேசைகளில் டேப்லெட் கணினிகளைப் பயன்படுத்துகிறார்கள்",
+        "subject": "மலேசியத் தொடக்கப் பள்ளி மாணவர்கள் பள்ளியின் ஸ்மார்ட் நூலகத்தில் டேப்லெட்டுகள் மூலம் கற்கிறார்கள்"
+      },
+      {
+        "alt": "நீல வானத்தின் கீழ் கூரையிட்ட நடைபாதைகளுடன் கூடிய பல மாடி மலேசிய இடைநிலைப் பள்ளிக் கட்டிடம்",
+        "subject": "மலேசியத் தேசிய இடைநிலைப் பள்ளிக் கட்டிடம் (SMK Bandar Saujana Putra)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "किसी मलेशियाई विद्यालय के स्मार्ट पुस्तकालय में मेजों पर वर्दी पहने स्कूली बच्चे टैबलेट कंप्यूटर का उपयोग करते हुए।",
+        "subject": "किसी विद्यालय के स्मार्ट पुस्तकालय में टैबलेट से सीखते मलेशियाई प्राथमिक विद्यार्थी"
+      },
+      {
+        "alt": "नीले आकाश के नीचे ढके हुए रास्तों वाला बहुमंजिला मलेशियाई माध्यमिक विद्यालय भवन।",
+        "subject": "एक मलेशियाई राष्ट्रीय माध्यमिक विद्यालय भवन (SMK Bandar Saujana Putra)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "أطفال مدرسيون بالزيّ الرسمي يستخدمون أجهزة لوحية إلى المكاتب في مكتبة ذكية بمدرسة ماليزية.",
+        "subject": "تلاميذ ابتدائيون ماليزيون يتعلّمون بالأجهزة اللوحية في مكتبة مدرسية ذكية"
+      },
+      {
+        "alt": "مبنى مدرسة ثانوية ماليزية متعدّد الطوابق بممرّات مسقوفة تحت سماء زرقاء.",
+        "subject": "مبنى مدرسة ثانوية وطنية ماليزية (SMK Bandar Saujana Putra)"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Escolares de uniforme usando tabletas en los pupitres de una biblioteca inteligente de una escuela malasia.",
+        "subject": "Alumnos malasios de primaria aprendiendo con tabletas en una biblioteca escolar inteligente"
+      },
+      {
+        "alt": "Edificio de una escuela secundaria malasia de varias plantas con pasos cubiertos bajo un cielo azul.",
+        "subject": "Edificio de una escuela secundaria nacional malasia (SMK Bandar Saujana Putra)"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des écoliers en uniforme utilisent des tablettes à leurs bureaux dans la bibliothèque numérique d'une école malaisienne.",
+        "subject": "Élèves malaisiens du primaire apprenant avec des tablettes dans une bibliothèque scolaire numérique"
+      },
+      {
+        "alt": "Bâtiment d'un collège-lycée malaisien à plusieurs étages, avec des passages couverts sous un ciel bleu.",
+        "subject": "Bâtiment d'un collège-lycée national malaisien (SMK Bandar Saujana Putra)"
+      }
+    ]
+  },
+  "education/malaysian-qualifications-agency-and-accreditation": {
+    "zh": [
+      {
+        "alt": "马来西亚国民大学毕业典礼上，身穿礼袍的学者在台上颁授学位",
+        "subject": "马来西亚国民大学一场颁授学位的特别毕业典礼"
+      },
+      {
+        "alt": "博特拉大学弧形的Canselori Putra行政大楼矗立在园林广场旁",
+        "subject": "博特拉大学行政大楼（Canselori，校长楼）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "国民大学(UKM)の学位授与式で、式服をまとった学者が壇上で学位を授与する様子",
+        "subject": "国民大学(UKM)で学位を授与する特別学位授与式"
+      },
+      {
+        "alt": "整えられた広場のそばに立つ、プトラ大学(UPM)の曲線を描くCanselori Putra本部棟",
+        "subject": "プトラ大学(UPM)の本部棟（Canselori、管理棟）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "국민대학교(UKM) 학위수여식에서 예복을 입은 학자들이 무대 위에서 학위를 수여하는 모습",
+        "subject": "국민대학교(UKM)에서 학위를 수여하는 특별 학위수여식"
+      },
+      {
+        "alt": "조경된 광장 옆에 서 있는 푸트라대학교(UPM)의 곡선형 Canselori Putra 본부동",
+        "subject": "푸트라대학교(UPM)의 본부동(Canselori, 행정 건물)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "คณาจารย์ในชุดครุยพิธีการกำลังมอบปริญญาบนเวทีระหว่างพิธีประสาทปริญญาที่มหาวิทยาลัยแห่งชาติมาเลเซีย (UKM)",
+        "subject": "พิธีประสาทปริญญาพิเศษที่มอบปริญญา ณ มหาวิทยาลัยแห่งชาติมาเลเซีย (UKM)"
+      },
+      {
+        "alt": "อาคารสำนักงานอธิการบดี Canselori Putra ทรงโค้งของมหาวิทยาลัยปุตรามาเลเซีย (UPM) ข้างลานที่จัดภูมิทัศน์",
+        "subject": "อาคารสำนักงานอธิการบดี (Canselori) ของมหาวิทยาลัยปุตรามาเลเซีย (UPM)"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Ahli akademik berjubah istiadat menganugerahkan ijazah di atas pentas semasa majlis konvokesyen di Universiti Kebangsaan Malaysia",
+        "subject": "Majlis konvokesyen khas penganugerahan ijazah di Universiti Kebangsaan Malaysia"
+      },
+      {
+        "alt": "Bangunan canselori Canselori Putra yang berlengkung milik Universiti Putra Malaysia di sisi sebuah plaza berlanskap",
+        "subject": "Bangunan Canselori (dewan pentadbiran) Universiti Putra Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Para akademisi bertoga kebesaran menganugerahkan gelar di atas panggung saat upacara wisuda di Universiti Kebangsaan Malaysia",
+        "subject": "Upacara wisuda khusus penganugerahan gelar di Universiti Kebangsaan Malaysia"
+      },
+      {
+        "alt": "Gedung canselori Canselori Putra yang melengkung milik Universiti Putra Malaysia di samping sebuah plaza bertata taman",
+        "subject": "Gedung Canselori (balai administrasi) Universiti Putra Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Các nhà khoa học trong trang phục lễ nghi trao bằng trên sân khấu trong lễ tốt nghiệp tại Universiti Kebangsaan Malaysia",
+        "subject": "Lễ tốt nghiệp đặc biệt trao bằng tại Universiti Kebangsaan Malaysia"
+      },
+      {
+        "alt": "Tòa nhà hành chính Canselori Putra uốn cong của Universiti Putra Malaysia bên cạnh một quảng trường được tạo cảnh quan",
+        "subject": "Tòa nhà Canselori (sảnh hành chính) của Universiti Putra Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "Universiti Kebangsaan Malaysia-வில் நடந்த பட்டமளிப்பு விழாவில் விழா அங்கிகள் அணிந்த கல்வியாளர்கள் மேடையில் பட்டம் வழங்குகிறார்கள்",
+        "subject": "Universiti Kebangsaan Malaysia-வில் பட்டம் வழங்கும் சிறப்புப் பட்டமளிப்பு விழா"
+      },
+      {
+        "alt": "நிலக்காட்சி அமைக்கப்பட்ட பிளாசாவுக்கு அருகில் அமைந்த Universiti Putra Malaysia-இன் வளைவான Canselori Putra நிர்வாகக் கட்டிடம்",
+        "subject": "Universiti Putra Malaysia-இன் Canselori (நிர்வாக மண்டபம்) கட்டிடம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "Universiti Kebangsaan Malaysia में एक दीक्षांत समारोह के दौरान मंच पर समारोही गाउन में शिक्षाविद किसी को डिग्री प्रदान करते हुए।",
+        "subject": "Universiti Kebangsaan Malaysia में डिग्री प्रदान करने वाला एक विशेष दीक्षांत समारोह"
+      },
+      {
+        "alt": "एक सुसज्जित प्रांगण के बगल में Universiti Putra Malaysia की घुमावदार Canselori Putra कुलाधिपति-भवन।",
+        "subject": "Universiti Putra Malaysia का कुलाधिपति-भवन (प्रशासनिक हॉल)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "أكاديميون بالأثواب الاحتفالية يمنحون درجة علمية على المنصّة خلال حفل تخرّج في Universiti Kebangsaan Malaysia.",
+        "subject": "حفل تخرّج خاص لمنح درجة علمية في Universiti Kebangsaan Malaysia"
+      },
+      {
+        "alt": "مبنى رئاسة الجامعة المنحني Canselori Putra في Universiti Putra Malaysia بجوار ساحة منسّقة.",
+        "subject": "مبنى رئاسة الجامعة (القاعة الإدارية) في Universiti Putra Malaysia"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Académicos con togas ceremoniales confieren un título en el escenario durante una ceremonia de graduación en la Universiti Kebangsaan Malaysia.",
+        "subject": "Una graduación especial de concesión de un título en la Universiti Kebangsaan Malaysia"
+      },
+      {
+        "alt": "El curvo edificio del rectorado Canselori Putra de la Universiti Putra Malaysia junto a una plaza ajardinada.",
+        "subject": "Edificio del rectorado (sede administrativa) de la Universiti Putra Malaysia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des universitaires en toge de cérémonie confèrent un diplôme sur scène lors d'une collation des grades à l'Universiti Kebangsaan Malaysia.",
+        "subject": "Une collation des grades spéciale conférant un diplôme à l'Universiti Kebangsaan Malaysia"
+      },
+      {
+        "alt": "Le bâtiment incurvé du rectorat Canselori Putra de l'Universiti Putra Malaysia, à côté d'une esplanade paysagère.",
+        "subject": "Bâtiment du rectorat (hall administratif) de l'Universiti Putra Malaysia"
+      }
+    ]
+  },
+  "education/malaysian-school-system": {
+    "zh": [
+      {
+        "alt": "设有旗杆与前庭的马来西亚中学校舍外观",
+        "subject": "马来西亚国民中学校舍（SMK Cheras）"
+      },
+      {
+        "alt": "一群身穿独特校服、在户外的马来西亚中学生",
+        "subject": "身穿校服的马来西亚中学生（沙巴山打根）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "旗竿と前庭を備えたマレーシアの中等学校校舎の正面",
+        "subject": "マレーシアの国民中等学校の校舎（SMK Cheras）"
+      },
+      {
+        "alt": "特徴的な制服を着て屋外に立つマレーシアの中等学校の生徒たち",
+        "subject": "制服姿のマレーシアの中等学校の生徒たち（サバ州サンダカン）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "깃대와 앞마당이 있는 말레이시아 중등학교 건물의 정면",
+        "subject": "말레이시아 국민중등학교 건물(SMK Cheras)"
+      },
+      {
+        "alt": "독특한 교복을 입고 야외에 있는 말레이시아 중등학교 학생들의 무리",
+        "subject": "교복을 입은 말레이시아 중등학교 학생들(사바주 산다칸)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ด้านหน้าอาคารโรงเรียนมัธยมมาเลเซียที่มีเสาธงและลานหน้าอาคาร",
+        "subject": "อาคารโรงเรียนมัธยมแห่งชาติมาเลเซีย (SMK Cheras)"
+      },
+      {
+        "alt": "กลุ่มนักเรียนมัธยมมาเลเซียสวมชุดนักเรียนอันเป็นเอกลักษณ์อยู่กลางแจ้ง",
+        "subject": "นักเรียนมัธยมมาเลเซียในชุดนักเรียน (ซันดากัน รัฐซาบะฮ์)"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Fasad sebuah bangunan sekolah menengah di Malaysia dengan tiang bendera dan laman hadapan",
+        "subject": "Bangunan sekolah menengah kebangsaan di Malaysia (SMK Cheras)"
+      },
+      {
+        "alt": "Sekumpulan pelajar sekolah menengah di Malaysia memakai pakaian seragam sekolah mereka yang tersendiri di luar bangunan",
+        "subject": "Pelajar sekolah menengah di Malaysia berpakaian seragam sekolah (Sandakan, Sabah)"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Fasad sebuah gedung sekolah menengah di Malaysia dengan tiang bendera dan halaman depan",
+        "subject": "Gedung sekolah menengah kebangsaan di Malaysia (SMK Cheras)"
+      },
+      {
+        "alt": "Sekelompok siswa sekolah menengah di Malaysia mengenakan seragam sekolah mereka yang khas di luar ruangan",
+        "subject": "Siswa sekolah menengah di Malaysia dalam seragam sekolah mereka (Sandakan, Sabah)"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Mặt tiền của một tòa nhà trường trung học Malaysia với cột cờ và sân trước",
+        "subject": "Tòa nhà một trường trung học quốc gia Malaysia (SMK Cheras)"
+      },
+      {
+        "alt": "Một nhóm học sinh trung học Malaysia mặc đồng phục đặc trưng của trường ở ngoài trời",
+        "subject": "Học sinh trung học Malaysia trong đồng phục nhà trường (Sandakan, Sabah)"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கொடிக்கம்பமும் முன்முற்றமும் கொண்ட மலேசிய இடைநிலைப் பள்ளிக் கட்டிடத்தின் முகப்பு",
+        "subject": "மலேசியத் தேசிய இடைநிலைப் பள்ளிக் கட்டிடம் (SMK Cheras)"
+      },
+      {
+        "alt": "மலேசிய இடைநிலைப் பள்ளி மாணவர்கள் குழுவொன்று வெளிப்புறத்தில் தங்களுக்கே உரிய தனித்துவமான பள்ளிச் சீருடை அணிந்திருக்கிறது",
+        "subject": "மலேசிய இடைநிலைப் பள்ளி மாணவர்கள் தங்கள் பள்ளிச் சீருடையில் (Sandakan, Sabah)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "ध्वज-स्तंभ और अग्र-प्रांगण वाले एक मलेशियाई माध्यमिक विद्यालय भवन का अग्रभाग।",
+        "subject": "एक मलेशियाई राष्ट्रीय माध्यमिक विद्यालय भवन (SMK Cheras)"
+      },
+      {
+        "alt": "अपनी विशिष्ट विद्यालय वर्दी पहने मलेशियाई माध्यमिक विद्यालय के विद्यार्थियों का एक समूह, बाहर खुले में।",
+        "subject": "अपनी विद्यालय वर्दी में मलेशियाई माध्यमिक विद्यालय के विद्यार्थी (सांडाकान, सबाह)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "واجهة مبنى مدرسة ثانوية ماليزية بسارية علم وساحة أمامية.",
+        "subject": "مبنى مدرسة ثانوية وطنية ماليزية (SMK Cheras)"
+      },
+      {
+        "alt": "مجموعة من طلاب مدرسة ثانوية ماليزية يرتدون زيّهم المدرسي المميّز في الهواء الطلق.",
+        "subject": "طلاب مدرسة ثانوية ماليزية بزيّهم المدرسي (سانداكان، صباح)"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Fachada del edificio de una escuela secundaria malasia con un mástil de bandera y una explanada de entrada.",
+        "subject": "Edificio de una escuela secundaria nacional malasia (SMK Cheras)"
+      },
+      {
+        "alt": "Un grupo de estudiantes de secundaria malasios con sus característicos uniformes escolares al aire libre.",
+        "subject": "Estudiantes de secundaria malasios con su uniforme escolar (Sandakan, Sabah)"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Façade du bâtiment d'un collège-lycée malaisien avec un mât de drapeau et un parvis d'entrée.",
+        "subject": "Bâtiment d'un collège-lycée national malaisien (SMK Cheras)"
+      },
+      {
+        "alt": "Un groupe d'élèves du secondaire malaisiens portant leur uniforme scolaire caractéristique en plein air.",
+        "subject": "Élèves du secondaire malaisiens dans leur uniforme scolaire (Sandakan, Sabah)"
+      }
+    ]
+  },
+  "education/mrsm-and-fully-residential-schools": {
+    "zh": [
+      {
+        "alt": "玛拉初级理科学院（MRSM）Gemencheh的入口标识与大门，坐落在乡间道路旁",
+        "subject": "玛拉初级理科学院（MRSM）Gemencheh的正门"
+      },
+      {
+        "alt": "马六甲一所马来西亚全寄宿学校的校园建筑与场地全景",
+        "subject": "全寄宿学校校园，马六甲综合全寄宿学校（SBPI）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "田舎道のそばにあるマラ・ジュニア・サイエンス・カレッジ(MRSM)ゲメンチェの入口の看板と門",
+        "subject": "マラ・ジュニア・サイエンス・カレッジ(MRSM)ゲメンチェの正門"
+      },
+      {
+        "alt": "マラッカ州にあるマレーシアの全寮制学校のキャンパス建物と敷地のパノラマ",
+        "subject": "全寮制学校のキャンパス、総合全寮制学校（SBPI、マラッカ州）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "시골길 옆에 자리한 마라 주니어 과학대학(MRSM) 그멘체의 입구 표지판과 정문",
+        "subject": "마라 주니어 과학대학(MRSM) 그멘체의 정문"
+      },
+      {
+        "alt": "믈라카주에 있는 말레이시아 전원 기숙학교의 캠퍼스 건물과 부지 전경",
+        "subject": "전원 기숙학교 캠퍼스, 통합 전원 기숙학교(SBPI) 믈라카"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ป้ายทางเข้าและประตูของวิทยาลัยวิทยาศาสตร์เยาวชนมารา (MRSM) เกอเมินเชะ ข้างถนนชนบท",
+        "subject": "ทางเข้าหลักของวิทยาลัยวิทยาศาสตร์เยาวชนมารา (MRSM) เกอเมินเชะ"
+      },
+      {
+        "alt": "ภาพพาโนรามาของอาคารและพื้นที่วิทยาเขตของโรงเรียนประจำเต็มรูปแบบของมาเลเซียในรัฐมะละกา",
+        "subject": "วิทยาเขตของโรงเรียนประจำเต็มรูปแบบ Sekolah Berasrama Penuh Integrasi (SBPI) รัฐมะละกา"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Papan tanda dan pintu gerbang masuk Maktab Rendah Sains MARA (MRSM) Gemencheh di tepi sebuah jalan luar bandar",
+        "subject": "Pintu masuk utama Maktab Rendah Sains MARA (MRSM) Gemencheh"
+      },
+      {
+        "alt": "Panorama bangunan dan kawasan kampus sebuah sekolah berasrama penuh di Melaka, Malaysia",
+        "subject": "Kampus sebuah sekolah berasrama penuh, Sekolah Berasrama Penuh Integrasi (SBPI) Melaka"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Papan nama dan gerbang masuk Maktab Rendah Sains MARA (MRSM) Gemencheh di tepi sebuah jalan pedesaan",
+        "subject": "Pintu masuk utama Maktab Rendah Sains MARA (MRSM) Gemencheh"
+      },
+      {
+        "alt": "Panorama gedung dan area kampus sebuah sekolah berasrama penuh di Melaka, Malaysia",
+        "subject": "Kampus sebuah sekolah berasrama penuh, Sekolah Berasrama Penuh Integrasi (SBPI) Melaka"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Biển tên và cổng vào của Maktab Rendah Sains MARA (MRSM) Gemencheh bên một con đường nông thôn",
+        "subject": "Cổng chính của Maktab Rendah Sains MARA (MRSM) Gemencheh"
+      },
+      {
+        "alt": "Toàn cảnh các tòa nhà và khuôn viên của một trường nội trú toàn phần Malaysia ở Melaka",
+        "subject": "Khuôn viên của một trường nội trú toàn phần, Sekolah Berasrama Penuh Integrasi (SBPI) Melaka"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கிராமப்புறச் சாலையொன்றின் ஓரத்தில் Maktab Rendah Sains MARA (MRSM) Gemencheh-இன் நுழைவுப் பெயர்ப் பலகையும் வாயிலும்",
+        "subject": "Maktab Rendah Sains MARA (MRSM) Gemencheh-இன் முதன்மை நுழைவாயில்"
+      },
+      {
+        "alt": "Melaka-வில் உள்ள ஒரு மலேசிய முழு விடுதிப் பள்ளியின் வளாகக் கட்டிடங்கள் மற்றும் மைதானத்தின் பரந்த காட்சி",
+        "subject": "முழு விடுதிப் பள்ளியொன்றின் வளாகம், Sekolah Berasrama Penuh Integrasi (SBPI) Melaka"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "किसी ग्रामीण सड़क के किनारे MARA Junior Science College (MRSM) Gemencheh का प्रवेश-पट्ट और द्वार।",
+        "subject": "MARA Junior Science College (MRSM) Gemencheh का मुख्य प्रवेशद्वार"
+      },
+      {
+        "alt": "मेलाका में एक मलेशियाई पूर्ण-आवासीय विद्यालय के परिसर भवनों और प्रांगण का विहंगम दृश्य।",
+        "subject": "एक पूर्ण-आवासीय विद्यालय का परिसर, Sekolah Berasrama Penuh Integrasi (SBPI) मेलाका"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "لوحة المدخل والبوابة لـ MARA Junior Science College (MRSM) Gemencheh بجوار طريق ريفي.",
+        "subject": "المدخل الرئيسي لـ MARA Junior Science College (MRSM) Gemencheh"
+      },
+      {
+        "alt": "منظر بانورامي لمباني وساحات حرم مدرسة داخلية كاملة ماليزية في ملقا.",
+        "subject": "حرم مدرسة داخلية كاملة، Sekolah Berasrama Penuh Integrasi (SBPI) ملقا"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El cartel de entrada y el portón del MARA Junior Science College (MRSM) Gemencheh junto a una carretera rural.",
+        "subject": "Entrada principal del MARA Junior Science College (MRSM) Gemencheh"
+      },
+      {
+        "alt": "Panorámica de los edificios y terrenos del campus de una escuela internado malasia en Melaka.",
+        "subject": "Campus de una escuela internado, Sekolah Berasrama Penuh Integrasi (SBPI) Melaka"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Le panneau d'entrée et le portail du MARA Junior Science College (MRSM) Gemencheh, au bord d'une route de campagne.",
+        "subject": "Entrée principale du MARA Junior Science College (MRSM) Gemencheh"
+      },
+      {
+        "alt": "Panorama des bâtiments et des terrains du campus d'un internat scolaire malaisien à Melaka.",
+        "subject": "Campus d'un internat scolaire, Sekolah Berasrama Penuh Integrasi (SBPI) Melaka"
+      }
+    ]
+  },
+  "education/muet-and-university-entrance-tests": {
+    "zh": [
+      {
+        "alt": "马来西亚一所学校宽敞礼堂的内部，设有舞台与一排排地面空间，被用作考场",
+        "subject": "用作考场的马来西亚学校礼堂（dewan）"
+      },
+      {
+        "alt": "马来西亚一所大学校园内讲堂建筑群的鸟瞰图",
+        "subject": "苏丹依德里斯师范大学（UPSI）的讲堂建筑群"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "試験会場として使われるマレーシアの大きな学校講堂の内部。舞台と床面に並ぶ座席スペースがある",
+        "subject": "試験会場として使われるマレーシアの学校の講堂（dewan）"
+      },
+      {
+        "alt": "マレーシアの大学キャンパスにある講堂群を上空から捉えた眺め",
+        "subject": "スルタン・イドリス教育大学(UPSI)の講堂群"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "시험장으로 사용되는 말레이시아의 큰 학교 강당 내부로, 무대와 바닥에 줄지어 마련된 공간이 있다",
+        "subject": "시험장으로 쓰이는 말레이시아 학교 강당(dewan)"
+      },
+      {
+        "alt": "말레이시아 한 대학 캠퍼스의 강의동 단지를 위에서 내려다본 모습",
+        "subject": "술탄이드리스교육대학교(UPSI)의 강의동 단지"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ภายในหอประชุมขนาดใหญ่ของโรงเรียนมาเลเซียที่ใช้เป็นสนามสอบ มีเวทีและพื้นที่นั่งเรียงเป็นแถวบนพื้น",
+        "subject": "หอประชุม (dewan) ของโรงเรียนมาเลเซียที่ใช้เป็นสถานที่สอบ"
+      },
+      {
+        "alt": "ภาพมุมสูงของกลุ่มอาคารหอบรรยายในวิทยาเขตมหาวิทยาลัยมาเลเซีย",
+        "subject": "กลุ่มอาคารหอบรรยายที่มหาวิทยาลัยการศึกษาสุลต่านอิดริส (UPSI)"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Bahagian dalam sebuah dewan sekolah yang luas di Malaysia yang digunakan sebagai tempat peperiksaan, lengkap dengan pentas dan deretan ruang lantai",
+        "subject": "Dewan sekolah di Malaysia yang digunakan untuk menduduki peperiksaan"
+      },
+      {
+        "alt": "Pemandangan udara kompleks dewan kuliah di kampus sebuah universiti di Malaysia",
+        "subject": "Kompleks dewan kuliah di Universiti Pendidikan Sultan Idris (UPSI)"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Interior sebuah aula sekolah yang luas di Malaysia yang dipakai sebagai tempat ujian, lengkap dengan panggung dan deretan ruang lantai",
+        "subject": "Aula sekolah di Malaysia yang digunakan untuk menempuh ujian"
+      },
+      {
+        "alt": "Pemandangan dari udara kompleks ruang kuliah di kampus sebuah universitas di Malaysia",
+        "subject": "Kompleks ruang kuliah di Universiti Pendidikan Sultan Idris (UPSI)"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Bên trong một hội trường trường học Malaysia rộng lớn được dùng làm địa điểm thi, với sân khấu và những hàng khoảng sàn",
+        "subject": "Hội trường một trường học Malaysia dùng để tổ chức thi"
+      },
+      {
+        "alt": "Góc nhìn từ trên cao khu giảng đường trong khuôn viên một trường đại học Malaysia",
+        "subject": "Khu giảng đường tại Universiti Pendidikan Sultan Idris (UPSI)"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "தேர்வு நடத்தும் இடமாகப் பயன்படுத்தப்படும் மலேசியப் பள்ளியின் பெரிய மண்டபத்தின் உட்புறம்; மேடையும் வரிசையான தரை இடமும் கொண்டது",
+        "subject": "தேர்வு எழுதப் பயன்படுத்தப்படும் மலேசியப் பள்ளி மண்டபம்"
+      },
+      {
+        "alt": "மலேசியப் பல்கலைக்கழக வளாகத்தில் உள்ள விரிவுரை மண்டபத் தொகுதியின் வான்வழிக் காட்சி",
+        "subject": "Universiti Pendidikan Sultan Idris (UPSI)-இல் விரிவுரை மண்டபத் தொகுதி"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक बड़े मलेशियाई विद्यालय हॉल का भीतरी दृश्य, जिसे परीक्षा-स्थल के रूप में उपयोग किया जाता है, जिसमें मंच और फर्श की खुली जगह की पंक्तियाँ हैं।",
+        "subject": "परीक्षाएँ देने के लिए उपयोग किया जाने वाला एक मलेशियाई विद्यालय हॉल"
+      },
+      {
+        "alt": "किसी मलेशियाई विश्वविद्यालय परिसर में व्याख्यान-कक्ष परिसर का विहंगम हवाई दृश्य।",
+        "subject": "Sultan Idris Education University (UPSI) में व्याख्यान-कक्ष परिसर"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "منظر داخلي لقاعة مدرسية ماليزية كبيرة تُستخدم مقرًّا للامتحانات، بمنصّة وصفوف من مساحات الأرضية.",
+        "subject": "قاعة مدرسية ماليزية تُستخدم لأداء الامتحانات"
+      },
+      {
+        "alt": "منظر جوّي لمجمّع قاعات المحاضرات في حرم جامعة ماليزية.",
+        "subject": "مجمّع قاعات المحاضرات في Sultan Idris Education University (UPSI)"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Interior de un gran salón de actos de una escuela malasia usado como sede de exámenes, con escenario y filas de espacio en el suelo.",
+        "subject": "Salón de actos de una escuela malasia usado para realizar exámenes"
+      },
+      {
+        "alt": "Vista aérea del complejo de aulas magnas en el campus de una universidad malasia.",
+        "subject": "Complejo de aulas magnas de la Sultan Idris Education University (UPSI)"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Intérieur d'une grande salle d'école malaisienne servant de centre d'examen, avec une scène et des rangées d'espace au sol.",
+        "subject": "Salle d'une école malaisienne servant à passer les examens"
+      },
+      {
+        "alt": "Vue aérienne du complexe d'amphithéâtres sur le campus d'une université malaisienne.",
+        "subject": "Complexe d'amphithéâtres de la Sultan Idris Education University (UPSI)"
+      }
+    ]
+  },
+  "education/national-schools-sk-sjkc-sjkt": {
+    "zh": [
+      {
+        "alt": "国民型华文小学崇山华小（SJK(C) Chong San）的校舍与标识",
+        "subject": "国民型华文小学，霹雳峇眼拿督崇山华小 SJK(C) Chong San"
+      },
+      {
+        "alt": "国民型淡米尔小学SJK(T) Saraswathy的校舍与标识",
+        "subject": "国民型淡米尔小学，双溪毛糯SJK(T) Saraswathy"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "国民型華語小学校SJK(C) Chong Sanの校舎と看板",
+        "subject": "国民型華語学校、SJK(C) Chong San（ペラ州バガン・ダトゥ）"
+      },
+      {
+        "alt": "国民型タミル小学校SJK(T) Saraswathyの校舎と看板",
+        "subject": "国民型タミル学校、SJK(T) Saraswathy（スンガイ・ブロー）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "국민형 중국어 초등학교 SJK(C) Chong San의 건물과 표지판",
+        "subject": "국민형 중국어 학교, SJK(C) Chong San(페락주 바간다툭)"
+      },
+      {
+        "alt": "국민형 타밀어 초등학교 SJK(T) Saraswathy의 건물과 표지판",
+        "subject": "국민형 타밀어 학교, SJK(T) Saraswathy(숭아이불로)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารและป้ายของโรงเรียนประถมจีนแบบชาติพันธุ์ SJK(C) Chong San",
+        "subject": "โรงเรียนจีนแบบชาติพันธุ์ SJK(C) Chong San ในบากันดาตุก รัฐเประ"
+      },
+      {
+        "alt": "อาคารและป้ายของโรงเรียนประถมทมิฬแบบชาติพันธุ์ SJK(T) Saraswathy",
+        "subject": "โรงเรียนทมิฬแบบชาติพันธุ์ SJK(T) Saraswathy ในซูไงบูโลห์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Bangunan dan papan tanda sebuah sekolah rendah jenis kebangsaan Cina, SJK(C) Chong San",
+        "subject": "Sebuah sekolah jenis kebangsaan Cina, SJK(C) Chong San di Bagan Datuk, Perak"
+      },
+      {
+        "alt": "Bangunan dan papan tanda sebuah sekolah rendah jenis kebangsaan Tamil, SJK(T) Saraswathy",
+        "subject": "Sebuah sekolah jenis kebangsaan Tamil, SJK(T) Saraswathy di Sungai Buloh"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Gedung dan papan nama sebuah sekolah dasar jenis kebangsaan Tionghoa, SJK(C) Chong San",
+        "subject": "Sebuah sekolah jenis kebangsaan Tionghoa, SJK(C) Chong San di Bagan Datuk, Perak"
+      },
+      {
+        "alt": "Gedung dan papan nama sebuah sekolah dasar jenis kebangsaan Tamil, SJK(T) Saraswathy",
+        "subject": "Sebuah sekolah jenis kebangsaan Tamil, SJK(T) Saraswathy di Sungai Buloh"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Tòa nhà và biển tên của một trường tiểu học tiếng Hoa loại hình quốc gia, SJK(C) Chong San",
+        "subject": "Một trường tiếng Hoa loại hình quốc gia, SJK(C) Chong San ở Bagan Datuk, Perak"
+      },
+      {
+        "alt": "Tòa nhà và biển tên của một trường tiểu học tiếng Tamil loại hình quốc gia, SJK(T) Saraswathy",
+        "subject": "Một trường tiếng Tamil loại hình quốc gia, SJK(T) Saraswathy ở Sungai Buloh"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "தேசிய வகை சீன மொழித் தொடக்கப் பள்ளியான SJK(C) Chong San-இன் கட்டிடமும் பெயர்ப் பலகையும்",
+        "subject": "ஒரு தேசிய வகை சீனப் பள்ளி, SJK(C) Chong San, Bagan Datuk, Perak"
+      },
+      {
+        "alt": "தேசிய வகை தமிழ் மொழித் தொடக்கப் பள்ளியான SJK(T) Saraswathy-இன் கட்டிடமும் பெயர்ப் பலகையும்",
+        "subject": "ஒரு தேசிய வகை தமிழ்ப் பள்ளி, SJK(T) Saraswathy, Sungai Buloh"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक राष्ट्रीय-प्रकार के चीनी प्राथमिक विद्यालय, SJK(C) Chong San का भवन और नाम-पट्ट।",
+        "subject": "एक राष्ट्रीय-प्रकार का चीनी विद्यालय, पेराक के बागान दातोह में SJK(C) Chong San"
+      },
+      {
+        "alt": "एक राष्ट्रीय-प्रकार के तमिल प्राथमिक विद्यालय, SJK(T) Saraswathy का भवन और नाम-पट्ट।",
+        "subject": "एक राष्ट्रीय-प्रकार का तमिल विद्यालय, सुंगई बुलोह में SJK(T) Saraswathy"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مبنى ولوحة اسم مدرسة ابتدائية صينية من النوع الوطني، SJK(C) Chong San.",
+        "subject": "مدرسة صينية من النوع الوطني، SJK(C) Chong San في باغان داتوك، بيراك"
+      },
+      {
+        "alt": "مبنى ولوحة اسم مدرسة ابتدائية تاميلية من النوع الوطني، SJK(T) Saraswathy.",
+        "subject": "مدرسة تاميلية من النوع الوطني، SJK(T) Saraswathy في سونغاي بولوه"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Edificio y rótulo de una escuela primaria china de tipo nacional, la SJK(C) Chong San.",
+        "subject": "Una escuela china de tipo nacional, la SJK(C) Chong San en Bagan Datuk, Perak"
+      },
+      {
+        "alt": "Edificio y rótulo de una escuela primaria tamil de tipo nacional, la SJK(T) Saraswathy.",
+        "subject": "Una escuela tamil de tipo nacional, la SJK(T) Saraswathy en Sungai Buloh"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Bâtiment et panneau d'une école primaire chinoise de type national, la SJK(C) Chong San.",
+        "subject": "Une école chinoise de type national, la SJK(C) Chong San à Bagan Datuk, Perak"
+      },
+      {
+        "alt": "Bâtiment et panneau d'une école primaire tamoule de type national, la SJK(T) Saraswathy.",
+        "subject": "Une école tamoule de type national, la SJK(T) Saraswathy à Sungai Buloh"
+      }
+    ]
+  },
+  "education/pibg-and-school-fees": {
+    "zh": [
+      {
+        "alt": "设有铺砌集会庭院的多层马来西亚中学校舍",
+        "subject": "马来西亚国民中学校舍（SMK Darulaman Heights）"
+      },
+      {
+        "alt": "家长与教师齐聚学校礼堂，出席家教协会（PIBG）会议",
+        "subject": "马来西亚学校的家教协会（PIBG）常年大会"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "舗装された朝礼用の中庭を備えた多層階のマレーシアの中等学校校舎",
+        "subject": "マレーシアの国民中等学校の校舎（SMK Darulaman Heights）"
+      },
+      {
+        "alt": "保護者教師会（PIBG）の会合のために学校の講堂に集まった保護者と教師",
+        "subject": "マレーシアの学校での保護者教師会（PIBG）総会"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "포장된 조회용 안뜰을 갖춘 여러 층의 말레이시아 중등학교 건물",
+        "subject": "말레이시아 국민중등학교 건물(SMK Darulaman Heights)"
+      },
+      {
+        "alt": "학부모교사협회(PIBG) 회의를 위해 학교 강당에 모인 학부모와 교사들",
+        "subject": "말레이시아 학교의 학부모교사협회(PIBG) 정기총회"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารโรงเรียนมัธยมมาเลเซียหลายชั้นพร้อมลานเข้าแถวปูพื้น",
+        "subject": "อาคารโรงเรียนมัธยมแห่งชาติมาเลเซีย (SMK Darulaman Heights)"
+      },
+      {
+        "alt": "ผู้ปกครองและครูมารวมตัวกันในหอประชุมโรงเรียนเพื่อประชุมสมาคมผู้ปกครองและครู (PIBG)",
+        "subject": "การประชุมใหญ่ของสมาคมผู้ปกครองและครู (PIBG) ที่โรงเรียนมาเลเซีย"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Bangunan sekolah menengah bertingkat di Malaysia dengan laman perhimpunan berturap",
+        "subject": "Bangunan sekolah menengah kebangsaan di Malaysia (SMK Darulaman Heights)"
+      },
+      {
+        "alt": "Ibu bapa dan guru berkumpul di dewan sekolah bagi mesyuarat Persatuan Ibu Bapa dan Guru (PIBG)",
+        "subject": "Mesyuarat agung Persatuan Ibu Bapa dan Guru (PIBG) di sebuah sekolah di Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Gedung sekolah menengah bertingkat di Malaysia dengan halaman upacara berpaving",
+        "subject": "Gedung sekolah menengah kebangsaan di Malaysia (SMK Darulaman Heights)"
+      },
+      {
+        "alt": "Para orang tua dan guru berkumpul di aula sekolah untuk rapat Persatuan Ibu Bapa dan Guru (PIBG)",
+        "subject": "Rapat umum Persatuan Ibu Bapa dan Guru (PIBG) di sebuah sekolah di Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Tòa nhà trường trung học Malaysia nhiều tầng với sân tập trung lát gạch",
+        "subject": "Tòa nhà một trường trung học quốc gia Malaysia (SMK Darulaman Heights)"
+      },
+      {
+        "alt": "Phụ huynh và giáo viên tụ họp trong hội trường trường học cho một cuộc họp của Hội Phụ huynh - Giáo viên (PIBG)",
+        "subject": "Cuộc họp toàn thể của Hội Phụ huynh - Giáo viên (PIBG) tại một trường học Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கல் பதித்த கூட்ட முற்றத்துடன் கூடிய பல மாடி மலேசிய இடைநிலைப் பள்ளிக் கட்டிடம்",
+        "subject": "மலேசியத் தேசிய இடைநிலைப் பள்ளிக் கட்டிடம் (SMK Darulaman Heights)"
+      },
+      {
+        "alt": "பெற்றோர்-ஆசிரியர் சங்கத்தின் (PIBG) கூட்டத்திற்காகப் பெற்றோரும் ஆசிரியர்களும் பள்ளி மண்டபத்தில் ஒன்றுகூடியிருக்கிறார்கள்",
+        "subject": "மலேசியப் பள்ளியொன்றில் பெற்றோர்-ஆசிரியர் சங்கத்தின் (PIBG) பொதுக் கூட்டம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "पक्के सभा-प्रांगण वाला एक बहुमंजिला मलेशियाई माध्यमिक विद्यालय भवन।",
+        "subject": "एक मलेशियाई राष्ट्रीय माध्यमिक विद्यालय भवन (SMK Darulaman Heights)"
+      },
+      {
+        "alt": "किसी मलेशियाई विद्यालय के एक अभिभावक-शिक्षक संघ (PIBG) की बैठक के लिए विद्यालय हॉल में एकत्र अभिभावक और शिक्षक।",
+        "subject": "किसी मलेशियाई विद्यालय में एक अभिभावक-शिक्षक संघ (PIBG) की आम सभा"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مبنى مدرسة ثانوية ماليزية متعدّد الطوابق بساحة تجمّع مرصوفة.",
+        "subject": "مبنى مدرسة ثانوية وطنية ماليزية (SMK Darulaman Heights)"
+      },
+      {
+        "alt": "أولياء أمور ومعلّمون مجتمعون في قاعة مدرسية لاجتماع جمعية الآباء والمعلّمين (PIBG).",
+        "subject": "اجتماع عام لجمعية الآباء والمعلّمين (PIBG) في مدرسة ماليزية"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Edificio de una escuela secundaria malasia de varias plantas con un patio de formación pavimentado.",
+        "subject": "Edificio de una escuela secundaria nacional malasia (SMK Darulaman Heights)"
+      },
+      {
+        "alt": "Padres y docentes reunidos en el salón de una escuela para una reunión de la Asociación de Padres y Maestros (PIBG).",
+        "subject": "Una asamblea general de la Asociación de Padres y Maestros (PIBG) en una escuela malasia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Bâtiment d'un collège-lycée malaisien à plusieurs étages, avec une cour de rassemblement pavée.",
+        "subject": "Bâtiment d'un collège-lycée national malaisien (SMK Darulaman Heights)"
+      },
+      {
+        "alt": "Des parents et des enseignants réunis dans la salle d'une école pour une réunion de l'association de parents d'élèves et d'enseignants (PIBG).",
+        "subject": "Une assemblée générale de l'association de parents d'élèves et d'enseignants (PIBG) dans une école malaisienne"
+      }
+    ]
+  },
+  "education/pre-university-routes": {
+    "zh": [
+      {
+        "alt": "一所开办大学先修基础课程的马来西亚学院现代化的校园建筑",
+        "subject": "开办大学先修／基础课程的马来西亚学院校园（KDU大学学院，白沙罗再也）"
+      },
+      {
+        "alt": "马来西亚一所大学理学与科技学院的实验室大楼",
+        "subject": "马来西亚国民大学理学与科技学院的科学实验室大楼"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "大学進学準備のファウンデーション課程を提供するマレーシアのカレッジの近代的なキャンパス建物",
+        "subject": "大学進学準備・ファウンデーション課程を提供するマレーシアのカレッジのキャンパス（KDUユニバーシティ・カレッジ、ダマンサラ・ジャヤ）"
+      },
+      {
+        "alt": "マレーシアの大学の理工学部の実験棟",
+        "subject": "国民大学(UKM)理工学部の科学実験棟"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "대학 예비 파운데이션 과정을 제공하는 말레이시아 칼리지의 현대식 캠퍼스 건물",
+        "subject": "대학 예비/파운데이션 과정을 제공하는 말레이시아 칼리지 캠퍼스(KDU유니버시티칼리지, 다만사라자야)"
+      },
+      {
+        "alt": "말레이시아 한 대학 과학기술학부의 실험동",
+        "subject": "국민대학교(UKM) 과학기술학부의 과학 실험동"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารวิทยาเขตทันสมัยของวิทยาลัยมาเลเซียที่เปิดสอนหลักสูตรปูพื้นฐานเตรียมมหาวิทยาลัย",
+        "subject": "วิทยาเขตของวิทยาลัยมาเลเซียที่เปิดสอนหลักสูตรเตรียมมหาวิทยาลัย/ปูพื้นฐาน (KDU University College ดามันซาราจายา)"
+      },
+      {
+        "alt": "อาคารห้องปฏิบัติการของคณะวิทยาศาสตร์และเทคโนโลยีในมหาวิทยาลัยมาเลเซีย",
+        "subject": "อาคารห้องปฏิบัติการวิทยาศาสตร์ คณะวิทยาศาสตร์และเทคโนโลยี มหาวิทยาลัยแห่งชาติมาเลเซีย (UKM)"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Bangunan kampus moden sebuah kolej di Malaysia yang menawarkan program asasi prauniversiti",
+        "subject": "Kampus sebuah kolej di Malaysia yang menawarkan program prauniversiti / asasi (KDU University College, Damansara Jaya)"
+      },
+      {
+        "alt": "Bangunan makmal fakulti sains dan teknologi sebuah universiti di Malaysia",
+        "subject": "Bangunan makmal sains, Fakulti Sains dan Teknologi, Universiti Kebangsaan Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Gedung kampus modern sebuah perguruan tinggi di Malaysia yang menawarkan program foundation prauniversitas",
+        "subject": "Kampus sebuah perguruan tinggi di Malaysia yang menawarkan program prauniversitas / foundation (KDU University College, Damansara Jaya)"
+      },
+      {
+        "alt": "Gedung laboratorium fakultas sains dan teknologi sebuah universitas di Malaysia",
+        "subject": "Gedung laboratorium sains, Fakultas Sains dan Teknologi, Universiti Kebangsaan Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Các tòa nhà khuôn viên hiện đại của một trường cao đẳng Malaysia cung cấp chương trình dự bị đại học foundation",
+        "subject": "Khuôn viên một trường cao đẳng Malaysia cung cấp các chương trình dự bị đại học / foundation (KDU University College, Damansara Jaya)"
+      },
+      {
+        "alt": "Tòa nhà phòng thí nghiệm của khoa khoa học và công nghệ thuộc một trường đại học Malaysia",
+        "subject": "Tòa nhà phòng thí nghiệm khoa học, Khoa Khoa học và Công nghệ, Universiti Kebangsaan Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பல்கலைக்கழகத்திற்கு முந்தைய அடிப்படை திட்டங்களை வழங்கும் மலேசியக் கல்லூரியொன்றின் நவீன வளாகக் கட்டிடங்கள்",
+        "subject": "பல்கலைக்கழகத்திற்கு முந்தைய / அடிப்படை (foundation) திட்டங்களை வழங்கும் மலேசியக் கல்லூரியொன்றின் வளாகம் (KDU University College, Damansara Jaya)"
+      },
+      {
+        "alt": "மலேசியப் பல்கலைக்கழகமொன்றின் அறிவியல் மற்றும் தொழில்நுட்பப் பீடத்தின் ஆய்வகக் கட்டிடம்",
+        "subject": "அறிவியல் ஆய்வகக் கட்டிடம், அறிவியல் மற்றும் தொழில்நுட்பப் பீடம், Universiti Kebangsaan Malaysia"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक मलेशियाई कॉलेज के आधुनिक परिसर भवन, जो पूर्व-विश्वविद्यालय फाउंडेशन कार्यक्रम प्रदान करता है।",
+        "subject": "पूर्व-विश्वविद्यालय / फाउंडेशन कार्यक्रम प्रदान करने वाले एक मलेशियाई कॉलेज का परिसर (KDU University College, दमनसारा जया)"
+      },
+      {
+        "alt": "किसी मलेशियाई विश्वविद्यालय के विज्ञान एवं प्रौद्योगिकी संकाय का प्रयोगशाला भवन।",
+        "subject": "विज्ञान प्रयोगशाला भवन, विज्ञान एवं प्रौद्योगिकी संकाय, Universiti Kebangsaan Malaysia"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مباني الحرم الحديثة لكلّية ماليزية تقدّم برامج التأسيس لما قبل الجامعة.",
+        "subject": "حرم كلّية ماليزية تقدّم برامج التأسيس لما قبل الجامعة (KDU University College، دامانسارا جايا)"
+      },
+      {
+        "alt": "مبنى مختبرات كلّية العلوم والتكنولوجيا في جامعة ماليزية.",
+        "subject": "مبنى مختبر العلوم، كلّية العلوم والتكنولوجيا، Universiti Kebangsaan Malaysia"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Modernos edificios del campus de un colegio universitario malasio que ofrece programas de fundación preuniversitarios.",
+        "subject": "Campus de un colegio malasio que ofrece programas preuniversitarios / de fundación (KDU University College, Damansara Jaya)"
+      },
+      {
+        "alt": "Edificio de laboratorios de la facultad de ciencia y tecnología de una universidad malasia.",
+        "subject": "Edificio de laboratorios de ciencias, Facultad de Ciencia y Tecnología, Universiti Kebangsaan Malaysia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Les bâtiments modernes du campus d'un collège universitaire malaisien proposant des programmes de mise à niveau préuniversitaires.",
+        "subject": "Campus d'un collège malaisien proposant des programmes préuniversitaires / de mise à niveau (KDU University College, Damansara Jaya)"
+      },
+      {
+        "alt": "Bâtiment de laboratoires de la faculté des sciences et technologies d'une université malaisienne.",
+        "subject": "Bâtiment du laboratoire de sciences, Faculté des sciences et technologies, Universiti Kebangsaan Malaysia"
+      }
+    ]
+  },
+  "education/preschool-tadika-childcare": {
+    "zh": [
+      {
+        "alt": "沙巴斗湖Tadika Holy Trinity的入口与前院，设有招牌、彩色串旗与绘制的卡通壁画；远处游乐场上可见几名幼童。",
+        "subject": "一所马来西亚tadika（幼儿园）的正面，挂满彩色串旗与卡通壁画"
+      },
+      {
+        "alt": "沙巴根地咬Tadika St. Francis Xavier的街景，这是一座单层幼儿园校舍，围着绿色栅栏，墙上绘有花朵、蜜蜂与蘑菇的壁画。",
+        "subject": "一座绘有儿童壁画的马来西亚幼儿园校舍"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "サバ州タワウにあるTadika Holy Trinityの入口と前庭。看板、色とりどりの三角旗、描かれたアニメの壁画があり、遠くの遊び場には幼い子どもたちが数人見える。",
+        "subject": "色とりどりの三角旗とアニメの壁画で飾られたマレーシアのtadika（幼稚園）の正面"
+      },
+      {
+        "alt": "サバ州クニンガウにあるTadika St. Francis Xavierの街並み。緑の柵に囲まれた平屋建ての幼稚園で、壁には花やミツバチ、キノコの壁画が描かれている。",
+        "subject": "子ども向けの壁画が描かれたマレーシアの幼稚園の校舎"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "사바주 타와우에 있는 Tadika Holy Trinity의 입구와 앞마당으로, 간판과 색색의 가랜드, 그려진 만화 벽화가 있고 멀리 놀이터에는 어린아이 몇 명이 보인다.",
+        "subject": "색색의 가랜드와 만화 벽화로 꾸며진 말레이시아 tadika(유치원)의 정면"
+      },
+      {
+        "alt": "사바주 크닝아우에 있는 Tadika St. Francis Xavier의 거리 풍경으로, 녹색 울타리를 두른 단층 유치원 건물이며 벽에는 꽃과 꿀벌, 버섯 벽화가 그려져 있다.",
+        "subject": "아동용 벽화가 그려진 말레이시아 유치원 건물"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ทางเข้าและลานหน้าของ Tadika Holy Trinity ในตาเวา รัฐซาบะฮ์ มีป้าย ธงราวหลากสี และภาพจิตรกรรมการ์ตูนที่วาดไว้ มองเห็นเด็กเล็กไม่กี่คนอยู่ที่สนามเด็กเล่นด้านไกล",
+        "subject": "ด้านหน้าของ tadika (โรงเรียนอนุบาล) ในมาเลเซียที่ประดับด้วยธงราวสีสันสดใสและภาพจิตรกรรมการ์ตูน"
+      },
+      {
+        "alt": "ภาพริมถนนของ Tadika St. Francis Xavier ในเกอนิงเกา รัฐซาบะฮ์ อาคารอนุบาลชั้นเดียวที่มีรั้วสีเขียวและผนังวาดภาพดอกไม้ ผึ้ง และเห็ด",
+        "subject": "อาคารโรงเรียนอนุบาลมาเลเซียที่วาดภาพจิตรกรรมสำหรับเด็ก"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pintu masuk dan laman hadapan Tadika Holy Trinity di Tawau, Sabah, lengkap dengan papan tanda, rentetan bendera kecil warna-warni dan mural kartun bercat; beberapa orang kanak-kanak kelihatan di taman permainan yang jauh.",
+        "subject": "Bahagian hadapan sebuah tadika di Malaysia yang dihiasi rentetan bendera kecil warna-warni dan mural kartun"
+      },
+      {
+        "alt": "Pemandangan dari jalan Tadika St. Francis Xavier di Keningau, Sabah, sebuah bangunan tadika setingkat dengan pagar hijau dan dinding yang dicat mural bunga, seekor lebah dan cendawan.",
+        "subject": "Bangunan prasekolah di Malaysia yang dicat dengan mural kanak-kanak"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Pintu masuk dan halaman depan Tadika Holy Trinity di Tawau, Sabah, lengkap dengan papan nama, umbul-umbul warna-warni dan mural kartun; beberapa anak kecil terlihat di area bermain yang jauh.",
+        "subject": "Bagian depan sebuah taman kanak-kanak (TK) di Malaysia yang dihiasi umbul-umbul warna-warni dan mural kartun"
+      },
+      {
+        "alt": "Pemandangan dari jalan Tadika St. Francis Xavier di Keningau, Sabah, sebuah gedung taman kanak-kanak satu lantai dengan pagar hijau dan dinding bermural bunga, seekor lebah, dan jamur.",
+        "subject": "Bangunan prasekolah di Malaysia yang dicat dengan mural anak-anak"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Lối vào và sân trước của Tadika Holy Trinity ở Tawau, Sabah, với biển hiệu, cờ dây đầy màu sắc và tranh tường hoạt hình được sơn vẽ; thấp thoáng vài em nhỏ ở sân chơi phía xa.",
+        "subject": "Mặt trước của một trường mẫu giáo (tadika) Malaysia trang trí cờ dây đầy màu sắc và tranh tường hoạt hình"
+      },
+      {
+        "alt": "Góc nhìn từ phố của Tadika St. Francis Xavier ở Keningau, Sabah, một tòa nhà mẫu giáo một tầng với hàng rào xanh và những bức tường vẽ tranh hoa, một con ong và một cây nấm.",
+        "subject": "Tòa nhà một trường mầm non Malaysia được vẽ tranh tường thiếu nhi"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "Sabah மாநிலம் Tawau-வில் உள்ள Tadika Holy Trinity-இன் நுழைவாயிலும் முன்முற்றமும்; பெயர்ப் பலகை, வண்ணமயமான கொடித் தொடர்கள், வர்ணம் தீட்டப்பட்ட கார்ட்டூன் சுவரோவியங்கள் ஆகியவற்றுடன்; தொலைவில் உள்ள விளையாட்டுத் திடலில் சில சிறு குழந்தைகள் தெரிகிறார்கள்.",
+        "subject": "வண்ணமயமான கொடித் தொடர்களாலும் கார்ட்டூன் சுவரோவியங்களாலும் அலங்கரிக்கப்பட்ட மலேசிய மழலையர் பள்ளியின் (tadika) முன்புறம்"
+      },
+      {
+        "alt": "Sabah மாநிலம் Keningau-வில் உள்ள Tadika St. Francis Xavier-இன் தெருக் காட்சி; பச்சை வேலியும், மலர்கள், ஒரு தேனீ, ஒரு காளான் ஆகியவற்றின் சுவரோவியங்கள் தீட்டப்பட்ட சுவர்களும் கொண்ட ஒரு மாடி மழலையர் பள்ளிக் கட்டிடம்.",
+        "subject": "குழந்தைகளுக்கான சுவரோவியங்களால் வர்ணம் தீட்டப்பட்ட மலேசிய மழலையர் பள்ளிக் கட்டிடம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "सबाह के तावाऊ में Tadika Holy Trinity का प्रवेशद्वार और अग्र-आँगन, जिसमें एक नाम-पट्ट, रंगीन झालरें और चित्रित कार्टून भित्तिचित्र हैं; दूर के खेल-मैदान में कुछ छोटे बच्चे दिखाई देते हैं।",
+        "subject": "रंगीन झालरों और कार्टून भित्तिचित्रों से सजा एक मलेशियाई tadika (बालवाड़ी) का अग्रभाग"
+      },
+      {
+        "alt": "सबाह के केनिंगाऊ में Tadika St. Francis Xavier का सड़क-दृश्य, एक मंज़िला बालवाड़ी भवन जिसमें हरी बाड़ है और दीवारों पर फूलों, एक मधुमक्खी और एक मशरूम के भित्तिचित्र चित्रित हैं।",
+        "subject": "बच्चों के भित्तिचित्रों से रंगा एक मलेशियाई प्री-स्कूल भवन"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مدخل وفناء أمامي لروضة Tadika Holy Trinity في تاواو بولاية صباح، بلوحة اسم وزينة ملوّنة ورسوم جدارية كرتونية؛ ويظهر بضعة أطفال صغار في ساحة اللعب البعيدة.",
+        "subject": "واجهة روضة أطفال ماليزية (tadika) مزيّنة بزينة ملوّنة ورسوم جدارية كرتونية"
+      },
+      {
+        "alt": "منظر من الشارع لروضة Tadika St. Francis Xavier في كينينغاو بولاية صباح، مبنى روضة من طابق واحد بسياج أخضر وجدران مرسوم عليها زهور ونحلة وفطر.",
+        "subject": "مبنى روضة أطفال ماليزية مرسوم عليه رسوم جدارية للأطفال"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Entrada y patio delantero del Tadika Holy Trinity en Tawau, Sabah, con un cartel, banderines de colores y murales de dibujos animados pintados; a lo lejos se ven algunos niños pequeños en el patio de juegos.",
+        "subject": "Fachada de un tadika (jardín de infancia) malasio decorado con banderines de colores y murales de dibujos animados"
+      },
+      {
+        "alt": "Vista desde la calle del Tadika St. Francis Xavier en Keningau, Sabah, un edificio de jardín de infancia de una planta con una valla verde y paredes pintadas con murales de flores, una abeja y una seta.",
+        "subject": "Edificio de un preescolar malasio pintado con murales infantiles"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Entrée et cour avant du Tadika Holy Trinity à Tawau, Sabah, avec un panneau, des fanions colorés et des peintures murales de dessins animés ; quelques jeunes enfants sont visibles au loin dans l'aire de jeux.",
+        "subject": "Façade d'un tadika (jardin d'enfants) malaisien décorée de fanions colorés et de peintures murales de dessins animés"
+      },
+      {
+        "alt": "Vue depuis la rue du Tadika St. Francis Xavier à Keningau, Sabah, un bâtiment de jardin d'enfants de plain-pied avec une clôture verte et des murs ornés de peintures de fleurs, d'une abeille et d'un champignon.",
+        "subject": "Bâtiment d'une école maternelle malaisienne orné de peintures murales pour enfants"
+      }
+    ]
+  },
+  "education/private-and-chinese-independent-schools": {
+    "zh": [
+      {
+        "alt": "槟城钟灵独立中学（Sekolah Menengah Chung Ling (Persendirian)）的正面外观，这是一座带列柱的白色多层建筑，校名以马来文、中文和英文书写。",
+        "subject": "钟灵独立中学，槟城的一所华文独立中学"
+      },
+      {
+        "alt": "吉隆坡坤成中学宏大的多层主楼，屋檐处以中文（坤成中学）和英文标示校名。",
+        "subject": "坤成中学，吉隆坡的一所华文独立中学"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ペナン州のチョンリン（私立）中学（Sekolah Menengah Chung Ling (Persendirian)）の正面。柱のある白い多層階の建物で、校名がマレー語・中国語・英語で記されている。",
+        "subject": "チョンリン（私立）中学（鍾霊独立中学、ペナン州の華文独立中学）"
+      },
+      {
+        "alt": "クアラルンプールのクンチェン中学の大きな多層階の本館。屋根の縁に中国語（坤成中学）と英語で校名が示されている。",
+        "subject": "クンチェン中学（坤成中学、クアラルンプールの華文独立中学）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "페낭주의 중링(사립)중학교(Sekolah Menengah Chung Ling (Persendirian)) 정면으로, 기둥이 있는 흰색 다층 건물이며 교명이 말레이어·중국어·영어로 적혀 있다.",
+        "subject": "중링(사립)중학교, 페낭주의 중국어 독립중학교(鍾靈獨立中學)"
+      },
+      {
+        "alt": "쿠알라룸푸르 쿤청중학교의 크고 여러 층인 본관으로, 지붕 가장자리에 중국어(坤成中学)와 영어로 교명이 표시되어 있다.",
+        "subject": "쿤청중학교(坤成中學), 쿠알라룸푸르의 중국어 독립중학교"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ด้านหน้าของ Sekolah Menengah Chung Ling (Persendirian) / โรงเรียนมัธยมจงลิง (เอกชน) ในรัฐปีนัง อาคารสีขาวหลายชั้นมีเสาและชื่อโรงเรียนเขียนเป็นภาษามลายู จีน และอังกฤษ",
+        "subject": "โรงเรียนมัธยมจงลิง (เอกชน) โรงเรียนมัธยมจีนอิสระในรัฐปีนัง"
+      },
+      {
+        "alt": "อาคารหลักหลายชั้นขนาดใหญ่ของโรงเรียนมัธยมคุนเฉิงในกัวลาลัมเปอร์ มีชื่อโรงเรียนแสดงเป็นภาษาจีน (坤成中学) และอังกฤษที่แนวหลังคา",
+        "subject": "โรงเรียนมัธยมคุนเฉิง โรงเรียนมัธยมจีนอิสระในกัวลาลัมเปอร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Fasad hadapan Sekolah Menengah Chung Ling (Persendirian) di Pulau Pinang, sebuah bangunan bertingkat berwarna putih bertiang dengan nama sekolah dalam bahasa Melayu, Cina dan Inggeris.",
+        "subject": "Sekolah Menengah Chung Ling (Persendirian), sebuah sekolah menengah persendirian Cina di Pulau Pinang"
+      },
+      {
+        "alt": "Bangunan utama Kuen Cheng High School yang besar dan bertingkat di Kuala Lumpur, dengan namanya terpampang dalam bahasa Cina (坤成中学) dan Inggeris di garis bumbung.",
+        "subject": "Kuen Cheng High School, sebuah sekolah menengah persendirian Cina di Kuala Lumpur"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Fasad depan Sekolah Menengah Chung Ling (Persendirian) / Chung Ling (Private) High School di Penang, sebuah gedung bertingkat berwarna putih bertiang dengan nama sekolah dalam bahasa Melayu, Mandarin, dan Inggris.",
+        "subject": "Chung Ling (Private) High School, sebuah sekolah menengah independen Tionghoa di Penang"
+      },
+      {
+        "alt": "Gedung utama Kuen Cheng High School yang besar dan bertingkat di Kuala Lumpur, dengan namanya tertera dalam bahasa Mandarin (坤成中学) dan Inggris di garis atap.",
+        "subject": "Kuen Cheng High School, sebuah sekolah menengah independen Tionghoa di Kuala Lumpur"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Mặt tiền của Sekolah Menengah Chung Ling (Persendirian) / Chung Ling (Private) High School ở Penang, một tòa nhà nhiều tầng màu trắng có cột, với tên trường bằng tiếng Mã Lai, tiếng Hoa và tiếng Anh.",
+        "subject": "Chung Ling (Private) High School, một trường trung học tư thục tiếng Hoa ở Penang"
+      },
+      {
+        "alt": "Tòa nhà chính lớn nhiều tầng của Kuen Cheng High School ở Kuala Lumpur, với tên trường thể hiện bằng tiếng Hoa (坤成中学) và tiếng Anh trên mái.",
+        "subject": "Kuen Cheng High School, một trường trung học tư thục tiếng Hoa ở Kuala Lumpur"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "Penang-இல் உள்ள Sekolah Menengah Chung Ling (Persendirian) / Chung Ling (Private) High School-இன் முன்முகப்பு; தூண்களுடன் கூடிய வெண்ணிற பல மாடிக் கட்டிடம்; பள்ளியின் பெயர் மலாய், சீனம், ஆங்கிலம் ஆகிய மொழிகளில் உள்ளது.",
+        "subject": "Chung Ling (Private) High School, Penang-இல் உள்ள ஒரு சீன சுயாதீன மேல்நிலைப் பள்ளி"
+      },
+      {
+        "alt": "கோலாலம்பூரில் உள்ள Kuen Cheng High School-இன் பெரிய பல மாடி முதன்மைக் கட்டிடம்; அதன் பெயர் கூரை விளிம்பில் சீனத்தில் (坤成中学) மற்றும் ஆங்கிலத்தில் காட்டப்பட்டுள்ளது.",
+        "subject": "Kuen Cheng High School, கோலாலம்பூரில் உள்ள ஒரு சீன சுயாதீன மேல்நிலைப் பள்ளி"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "पेनांग में Sekolah Menengah Chung Ling (Persendirian) / Chung Ling (Private) High School का अग्रभाग, स्तंभों वाला एक सफ़ेद बहुमंजिला भवन जिस पर विद्यालय का नाम मलय, चीनी और अंग्रेज़ी में अंकित है।",
+        "subject": "Chung Ling (Private) High School, पेनांग का एक चीनी स्वतंत्र हाई स्कूल"
+      },
+      {
+        "alt": "कुआलालंपुर में Kuen Cheng High School का बड़ा बहुमंजिला मुख्य भवन, जिसकी छत-रेखा पर इसका नाम चीनी (坤成中学) और अंग्रेज़ी में दर्शाया गया है।",
+        "subject": "Kuen Cheng High School, कुआलालंपुर का एक चीनी स्वतंत्र हाई स्कूल"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "الواجهة الأمامية لمدرسة Sekolah Menengah Chung Ling (Persendirian) / Chung Ling (Private) High School في بينانغ، مبنى أبيض متعدّد الطوابق بأعمدة واسم المدرسة بالملايوية والصينية والإنجليزية.",
+        "subject": "Chung Ling (Private) High School، مدرسة ثانوية صينية مستقلّة في بينانغ"
+      },
+      {
+        "alt": "المبنى الرئيسي الكبير المتعدّد الطوابق لمدرسة Kuen Cheng High School في كوالالمبور، واسمها ظاهر بالصينية (坤成中学) والإنجليزية على حافة السطح.",
+        "subject": "Kuen Cheng High School، مدرسة ثانوية صينية مستقلّة في كوالالمبور"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Fachada de la Sekolah Menengah Chung Ling (Persendirian) / Chung Ling (Private) High School en Penang, un edificio blanco de varias plantas con columnas y el nombre de la escuela en malayo, chino e inglés.",
+        "subject": "Chung Ling (Private) High School, una escuela secundaria china independiente en Penang"
+      },
+      {
+        "alt": "El gran edificio principal de varias plantas de la Kuen Cheng High School en Kuala Lumpur, con su nombre en chino (坤成中学) e inglés en la cornisa.",
+        "subject": "Kuen Cheng High School, una escuela secundaria china independiente en Kuala Lumpur"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Façade de la Sekolah Menengah Chung Ling (Persendirian) / Chung Ling (Private) High School à Penang, un bâtiment blanc à plusieurs étages avec des colonnes et le nom de l'école en malais, chinois et anglais.",
+        "subject": "Chung Ling (Private) High School, un lycée chinois indépendant à Penang"
+      },
+      {
+        "alt": "Le grand bâtiment principal à plusieurs étages de la Kuen Cheng High School à Kuala Lumpur, avec son nom en chinois (坤成中学) et en anglais sur la ligne de toit.",
+        "subject": "Kuen Cheng High School, un lycée chinois indépendant à Kuala Lumpur"
+      }
+    ]
+  },
+  "education/ptptn-student-loan": {
+    "zh": [
+      {
+        "alt": "玛拉工艺大学（UiTM）的行政大楼，一座以玻璃和混凝土建成的大型现代化公立大学建筑，矗立在园林绿化的高地上，楼前插着旗帜。",
+        "subject": "马来西亚公立大学校园（玛拉工艺大学 UiTM）"
+      },
+      {
+        "alt": "位于亚庇的沙巴大学标志性的蓝白行政大楼（Canselori），这座公立大学地标坐落在园林草坪之上。",
+        "subject": "马来西亚公立大学地标（沙巴大学行政楼）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マラ工科大学(UiTM)の本部棟。ガラスとコンクリートでできた大型の近代的な国立大学の建物で、整えられた高台に立ち、正面には旗が並ぶ。",
+        "subject": "マレーシアの国立大学キャンパス（マラ工科大学 UiTM）"
+      },
+      {
+        "alt": "コタキナバルにあるマレーシア・サバ大学の、青とクリーム色が特徴的な本部棟（Canselori）。整えられた芝生の上に立つ国立大学のランドマークである。",
+        "subject": "マレーシアの国立大学のランドマーク（マレーシア・サバ大学本部棟）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "마라공과대학교(UiTM)의 본부동으로, 유리와 콘크리트로 지은 대형 현대식 국립대학 건물이며 조경된 언덕 위에 서 있고 앞에는 깃발이 늘어서 있다.",
+        "subject": "말레이시아 국립대학 캠퍼스(마라공과대학교 UiTM)"
+      },
+      {
+        "alt": "코타키나발루에 있는 사바대학교의 푸른색과 크림색이 돋보이는 본부동(Canselori)으로, 조경된 잔디밭 위에 자리한 국립대학의 랜드마크이다.",
+        "subject": "말레이시아 국립대학의 랜드마크(사바대학교 본부동)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารสำนักงานอธิการบดีของมหาวิทยาลัยเทคโนโลยีมารา (UiTM) อาคารมหาวิทยาลัยรัฐทันสมัยขนาดใหญ่ที่สร้างด้วยกระจกและคอนกรีต ตั้งอยู่บนเนินที่จัดภูมิทัศน์พร้อมธงด้านหน้า",
+        "subject": "วิทยาเขตมหาวิทยาลัยรัฐของมาเลเซีย (มหาวิทยาลัยเทคโนโลยีมารา UiTM)"
+      },
+      {
+        "alt": "อาคารสำนักงานอธิการบดี (Canselori) สีฟ้าและครีมอันเป็นเอกลักษณ์ของมหาวิทยาลัยมาเลเซียซาบะฮ์ในโกตากีนาบาลู แลนด์มาร์กมหาวิทยาลัยรัฐที่ตั้งอยู่เหนือสนามหญ้าที่จัดภูมิทัศน์",
+        "subject": "แลนด์มาร์กมหาวิทยาลัยรัฐของมาเลเซีย (อาคารสำนักงานอธิการบดีมหาวิทยาลัยมาเลเซียซาบะฮ์)"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Bangunan canselori Universiti Teknologi MARA (UiTM), sebuah bangunan universiti awam moden yang besar daripada kaca dan konkrit, berdiri di atas tanah tinggi berlanskap dengan bendera di hadapan.",
+        "subject": "Kampus sebuah universiti awam di Malaysia (Universiti Teknologi MARA)"
+      },
+      {
+        "alt": "Bangunan canselori (Canselori) Universiti Malaysia Sabah yang tersendiri berwarna biru dan krim di Kota Kinabalu, sebuah mercu tanda universiti awam yang terletak di atas hamparan rumput berlanskap.",
+        "subject": "Mercu tanda sebuah universiti awam di Malaysia (canselori Universiti Malaysia Sabah)"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Gedung canselori Universiti Teknologi MARA (UiTM), sebuah gedung universitas negeri modern berukuran besar dari kaca dan beton, berdiri di atas gundukan bertata taman dengan bendera di depannya.",
+        "subject": "Kampus sebuah universitas negeri di Malaysia (Universiti Teknologi MARA)"
+      },
+      {
+        "alt": "Gedung canselori (Canselori) Universiti Malaysia Sabah yang khas berwarna biru dan krem di Kota Kinabalu, sebuah ikon universitas negeri yang berdiri di atas hamparan rumput bertata taman.",
+        "subject": "Ikon sebuah universitas negeri di Malaysia (canselori Universiti Malaysia Sabah)"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Tòa nhà hành chính của Universiti Teknologi MARA (UiTM), một tòa nhà đại học công lập hiện đại lớn bằng kính và bê tông, đứng trên gò đất được tạo cảnh quan với cờ phía trước.",
+        "subject": "Khuôn viên một trường đại học công lập Malaysia (Universiti Teknologi MARA)"
+      },
+      {
+        "alt": "Tòa nhà hành chính (Canselori) màu xanh và kem đặc trưng của Universiti Malaysia Sabah ở Kota Kinabalu, một công trình biểu tượng của đại học công lập nằm trên bãi cỏ được tạo cảnh quan.",
+        "subject": "Công trình biểu tượng của một đại học công lập Malaysia (tòa nhà hành chính Universiti Malaysia Sabah)"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "Universiti Teknologi MARA (UiTM)-இன் நிர்வாகக் கட்டிடம்; கண்ணாடியும் கான்கிரீட்டும் கொண்ட பெரிய நவீன அரசுப் பல்கலைக்கழகக் கட்டிடம், முன்பக்கம் கொடிகளுடன் நிலக்காட்சி அமைக்கப்பட்ட மேட்டின் மீது நிற்கிறது.",
+        "subject": "மலேசிய அரசுப் பல்கலைக்கழக வளாகம் (Universiti Teknologi MARA)"
+      },
+      {
+        "alt": "Kota Kinabalu-வில் உள்ள Universiti Malaysia Sabah-இன் தனித்துவமான நீல-கிரீம் நிற நிர்வாகக் கட்டிடம் (Canselori); நிலக்காட்சி அமைக்கப்பட்ட புல்வெளிக்கு மேலே அமைந்த அரசுப் பல்கலைக்கழக அடையாளச் சின்னம்.",
+        "subject": "மலேசிய அரசுப் பல்கலைக்கழக அடையாளச் சின்னம் (Universiti Malaysia Sabah நிர்வாகக் கட்டிடம்)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "Universiti Teknologi MARA (UiTM) का कुलाधिपति-भवन, एक बड़ा आधुनिक काँच-और-कंक्रीट का सार्वजनिक विश्वविद्यालय भवन जो एक सुसज्जित ऊँचाई पर खड़ा है और जिसके सामने झंडे लगे हैं।",
+        "subject": "एक मलेशियाई सार्वजनिक विश्वविद्यालय परिसर (Universiti Teknologi MARA)"
+      },
+      {
+        "alt": "कोटा किनाबालू में Universiti Malaysia Sabah का विशिष्ट नीले-और-क्रीम रंग का कुलाधिपति-भवन (Canselori), एक सुसज्जित लॉन के ऊपर स्थित एक सार्वजनिक विश्वविद्यालय का प्रतीक-चिह्न।",
+        "subject": "एक मलेशियाई सार्वजनिक विश्वविद्यालय का प्रतीक-चिह्न (Universiti Malaysia Sabah कुलाधिपति-भवन)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مبنى رئاسة جامعة Universiti Teknologi MARA (UiTM)، وهو مبنى جامعي حكومي حديث كبير من الزجاج والخرسانة يقوم على مرتفع منسّق وأمامه أعلام.",
+        "subject": "حرم جامعة حكومية ماليزية (Universiti Teknologi MARA)"
+      },
+      {
+        "alt": "مبنى رئاسة الجامعة (Canselori) المميّز باللونين الأزرق والكريمي لجامعة Universiti Malaysia Sabah في كوتا كينابالو، وهو معلَم لجامعة حكومية يقوم فوق مرج منسّق.",
+        "subject": "معلَم لجامعة حكومية ماليزية (مبنى رئاسة Universiti Malaysia Sabah)"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El edificio del rectorado de la Universiti Teknologi MARA (UiTM), un gran edificio universitario público moderno de vidrio y hormigón que se alza sobre un montículo ajardinado con banderas al frente.",
+        "subject": "Un campus universitario público malasio (Universiti Teknologi MARA)"
+      },
+      {
+        "alt": "El característico edificio del rectorado (Canselori) en azul y crema de la Universiti Malaysia Sabah en Kota Kinabalu, un emblema universitario público situado sobre un césped ajardinado.",
+        "subject": "Un emblema de una universidad pública malasia (rectorado de la Universiti Malaysia Sabah)"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Le bâtiment du rectorat de l'Universiti Teknologi MARA (UiTM), un grand bâtiment universitaire public moderne en verre et béton, dressé sur une butte paysagère avec des drapeaux devant.",
+        "subject": "Un campus d'université publique malaisienne (Universiti Teknologi MARA)"
+      },
+      {
+        "alt": "Le bâtiment du rectorat (Canselori) bleu et crème caractéristique de l'Universiti Malaysia Sabah à Kota Kinabalu, un emblème d'université publique situé au-dessus d'une pelouse paysagère.",
+        "subject": "Un emblème d'université publique malaisienne (rectorat de l'Universiti Malaysia Sabah)"
+      }
+    ]
+  },
+  "education/special-education-and-learning-support": {
+    "zh": [
+      {
+        "alt": "柔佛峇株巴辖特殊教育国小（SK Pendidikan Khas Batu Pahat）的入口与欢迎拱门，这是一所政府特殊教育小学，校门处设有马来文招牌。",
+        "subject": "一所马来西亚国民特殊教育学校"
+      },
+      {
+        "alt": "沙巴Pensiangan一所乡村政府小学的单层木造教室楼，背靠林木葱郁的山丘。",
+        "subject": "一座马来西亚政府小学校舍"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ジョホール州の政府特別支援教育小学校SK Pendidikan Khas Batu Pahatの入口と歓迎のアーチ。門にはマレー語の看板が掲げられている。",
+        "subject": "マレーシアの国民特別支援教育学校"
+      },
+      {
+        "alt": "サバ州ペンシアンガンにある農村部の政府小学校の、平屋建ての木造教室棟。森に覆われた丘を背にしている。",
+        "subject": "マレーシアの政府小学校の校舎"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "조호르주의 정부 특수교육 초등학교 SK Pendidikan Khas Batu Pahat의 입구와 환영 아치로, 정문에 말레이어 간판이 세워져 있다.",
+        "subject": "말레이시아 국민 특수교육 학교"
+      },
+      {
+        "alt": "사바주 펜시앙안에 있는 시골 정부 초등학교의 단층 목조 교실동으로, 숲이 우거진 언덕을 배경으로 서 있다.",
+        "subject": "말레이시아 정부 초등학교 건물"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ทางเข้าและซุ้มต้อนรับของ SK Pendidikan Khas Batu Pahat โรงเรียนประถมการศึกษาพิเศษของรัฐในรัฐยะโฮร์ มีป้ายภาษามลายูที่ประตู",
+        "subject": "โรงเรียนการศึกษาพิเศษแห่งชาติของมาเลเซีย"
+      },
+      {
+        "alt": "อาคารเรียนไม้ชั้นเดียวของโรงเรียนประถมรัฐบาลในชนบทที่เปินเซียงัน รัฐซาบะฮ์ ตั้งอยู่โดยมีเนินเขาที่ปกคลุมด้วยป่าเป็นฉากหลัง",
+        "subject": "อาคารโรงเรียนประถมรัฐบาลมาเลเซีย"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pintu masuk dan gerbang selamat datang SK Pendidikan Khas Batu Pahat, sebuah sekolah rendah pendidikan khas kerajaan di Johor, dengan papan tanda berbahasa Melayu di pintu pagar.",
+        "subject": "Sebuah sekolah pendidikan khas kebangsaan di Malaysia"
+      },
+      {
+        "alt": "Blok bilik darjah kayu setingkat sebuah sekolah rendah kerajaan luar bandar di Pensiangan, Sabah, berlatarkan bukit berhutan.",
+        "subject": "Bangunan sekolah rendah kerajaan di Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Pintu masuk dan gapura selamat datang SK Pendidikan Khas Batu Pahat, sebuah sekolah dasar pendidikan khusus negeri di Johor, dengan papan nama berbahasa Melayu di gerbang.",
+        "subject": "Sebuah sekolah pendidikan khusus kebangsaan di Malaysia"
+      },
+      {
+        "alt": "Blok ruang kelas kayu satu lantai sebuah sekolah dasar negeri pedesaan di Pensiangan, Sabah, berlatar belakang bukit berhutan.",
+        "subject": "Gedung sekolah dasar negeri di Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Lối vào và cổng chào của SK Pendidikan Khas Batu Pahat, một trường tiểu học giáo dục đặc biệt công lập ở Johor, với các biển hiệu bằng tiếng Mã Lai ở cổng.",
+        "subject": "Một trường giáo dục đặc biệt quốc gia Malaysia"
+      },
+      {
+        "alt": "Khối lớp học bằng gỗ một tầng của một trường tiểu học công lập nông thôn ở Pensiangan, Sabah, trên nền những ngọn đồi rừng.",
+        "subject": "Tòa nhà một trường tiểu học công lập Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "Johor-இல் உள்ள SK Pendidikan Khas Batu Pahat என்னும் அரசு சிறப்புக் கல்வித் தொடக்கப் பள்ளியின் நுழைவாயிலும் வரவேற்பு வளைவும்; வாயிலில் மலாய் மொழிப் பெயர்ப் பலகைகளுடன்.",
+        "subject": "ஒரு மலேசியத் தேசிய சிறப்புக் கல்விப் பள்ளி"
+      },
+      {
+        "alt": "Sabah மாநிலம் Pensiangan-இல் உள்ள ஒரு கிராமப்புற அரசுத் தொடக்கப் பள்ளியின் ஒரு மாடி மரக் கட்டட வகுப்பறைத் தொகுதி; காடு சூழ்ந்த குன்றுகளைப் பின்னணியாகக் கொண்டது.",
+        "subject": "ஒரு மலேசிய அரசுத் தொடக்கப் பள்ளிக் கட்டிடம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "SK Pendidikan Khas Batu Pahat का प्रवेशद्वार और स्वागत-तोरण, जोहोर में एक सरकारी विशेष-शिक्षा प्राथमिक विद्यालय, जिसके द्वार पर मलय-भाषा के नाम-पट्ट हैं।",
+        "subject": "एक मलेशियाई राष्ट्रीय विशेष-शिक्षा विद्यालय"
+      },
+      {
+        "alt": "सबाह के पेनसियांगन में एक ग्रामीण सरकारी प्राथमिक विद्यालय का एक मंज़िला लकड़ी का कक्षा-खंड, जो वनाच्छादित पहाड़ियों की पृष्ठभूमि में स्थित है।",
+        "subject": "एक मलेशियाई सरकारी प्राथमिक विद्यालय भवन"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مدخل وقوس ترحيب لمدرسة SK Pendidikan Khas Batu Pahat، وهي مدرسة ابتدائية حكومية للتربية الخاصة في ولاية جوهور، بلوحات بالملايوية عند البوابة.",
+        "subject": "مدرسة ماليزية وطنية للتربية الخاصة"
+      },
+      {
+        "alt": "مبنى صفوف خشبي من طابق واحد لمدرسة ابتدائية حكومية ريفية في بنسيانغان بولاية صباح، تظهر خلفه تلال كثيفة الأشجار.",
+        "subject": "مبنى مدرسة ابتدائية حكومية ماليزية"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Entrada y arco de bienvenida de la SK Pendidikan Khas Batu Pahat, una escuela primaria pública de educación especial en Johor, con carteles en malayo en la verja.",
+        "subject": "Una escuela nacional malasia de educación especial"
+      },
+      {
+        "alt": "Un bloque de aulas de madera de una planta de una escuela primaria pública rural en Pensiangan, Sabah, enclavada frente a colinas boscosas.",
+        "subject": "Edificio de una escuela primaria pública malasia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Entrée et arche d'accueil de la SK Pendidikan Khas Batu Pahat, une école primaire publique d'éducation spécialisée à Johor, avec des panneaux en malais au portail.",
+        "subject": "Une école nationale malaisienne d'éducation spécialisée"
+      },
+      {
+        "alt": "Un bloc de classes en bois de plain-pied d'une école primaire publique rurale à Pensiangan, Sabah, adossé à des collines boisées.",
+        "subject": "Bâtiment d'une école primaire publique malaisienne"
+      }
+    ]
+  },
+  "education/tamil-vernacular-schools": {
+    "zh": [
+      {
+        "alt": "吉打SJK(T) Changlun（S.J.K (Tamil) Changlun）蓝色的入口校名牌，以淡米尔文和马来文书写校名，并印有校徽。",
+        "subject": "淡米尔文国民型学校SJK(T) Changlun的校名牌"
+      },
+      {
+        "alt": "吉打SJK(T) Changlun的教室楼与庭院，有盖走道沿途设有教室门、布告栏和旗帜。",
+        "subject": "淡米尔文学校SJK(T) Changlun的教室楼"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ケダ州のSJK(T) Changlun（S.J.K (Tamil) Changlun）の青い入口看板。校名がタミル語とマレー語で記され、校章も添えられている。",
+        "subject": "タミル語の国民型学校SJK(T) Changlunの校名板"
+      },
+      {
+        "alt": "ケダ州のSJK(T) Changlunの教室棟と中庭。屋根付きの通路沿いに教室の出入口、掲示板、旗が並んでいる。",
+        "subject": "タミル語学校SJK(T) Changlunの教室棟"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "크다주 SJK(T) Changlun(S.J.K (Tamil) Changlun)의 파란색 입구 교명판으로, 교명이 타밀어와 말레이어로 적혀 있고 교표가 함께 표시되어 있다.",
+        "subject": "타밀어 국민형 학교 SJK(T) Changlun의 교명판"
+      },
+      {
+        "alt": "크다주 SJK(T) Changlun의 교실동과 안뜰로, 지붕 덮인 통로를 따라 교실 출입구와 게시판, 깃발이 늘어서 있다.",
+        "subject": "타밀어 학교 SJK(T) Changlun의 교실동"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ป้ายทางเข้าสีน้ำเงินของ S.J.K (Tamil) Changlun ในรัฐเกอดะฮ์ แสดงชื่อโรงเรียนเป็นภาษาทมิฬและมลายูพร้อมตราประจำโรงเรียน",
+        "subject": "ป้ายชื่อของโรงเรียนแบบชาติพันธุ์สอนภาษาทมิฬ SJK(T) Changlun"
+      },
+      {
+        "alt": "อาคารเรียนและลานของ SJK(T) Changlun ในรัฐเกอดะฮ์ มีประตูห้องเรียน บอร์ดประกาศ และธงเรียงรายตามทางเดินมีหลังคา",
+        "subject": "อาคารเรียนของโรงเรียนสอนภาษาทมิฬ SJK(T) Changlun"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Papan tanda masuk berwarna biru S.J.K (Tamil) Changlun di Kedah, memaparkan nama sekolah dalam bahasa Tamil dan Melayu berserta jata sekolah.",
+        "subject": "Papan tanda sebuah sekolah jenis kebangsaan beraliran Tamil, SJK(T) Changlun"
+      },
+      {
+        "alt": "Blok bilik darjah dan laman dalam SJK(T) Changlun di Kedah, dengan pintu bilik darjah, papan kenyataan dan bendera di sepanjang laluan berbumbung.",
+        "subject": "Blok bilik darjah sebuah sekolah beraliran Tamil, SJK(T) Changlun"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Papan nama masuk berwarna biru S.J.K (Tamil) Changlun di Kedah, menampilkan nama sekolah dalam bahasa Tamil dan Melayu beserta lambang sekolah.",
+        "subject": "Papan nama sebuah sekolah jenis kebangsaan berbahasa pengantar Tamil, SJK(T) Changlun"
+      },
+      {
+        "alt": "Blok ruang kelas dan halaman dalam SJK(T) Changlun di Kedah, dengan pintu ruang kelas, papan pengumuman, dan bendera di sepanjang selasar beratap.",
+        "subject": "Blok ruang kelas sebuah sekolah berbahasa pengantar Tamil, SJK(T) Changlun"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Biển tên lối vào màu xanh của S.J.K (Tamil) Changlun ở Kedah, hiển thị tên trường bằng tiếng Tamil và tiếng Mã Lai cùng với huy hiệu nhà trường.",
+        "subject": "Biển tên của một trường loại hình quốc gia dạy bằng tiếng Tamil, SJK(T) Changlun"
+      },
+      {
+        "alt": "Khối lớp học và sân trong của SJK(T) Changlun ở Kedah, với các cửa lớp học, bảng thông báo và cờ dọc theo một lối đi có mái che.",
+        "subject": "Khối lớp học của một trường dạy bằng tiếng Tamil, SJK(T) Changlun"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "Kedah-வில் உள்ள S.J.K (Tamil) Changlun-இன் நீல நிற நுழைவுப் பெயர்ப் பலகை; பள்ளியின் பெயரைத் தமிழிலும் மலாயிலும், பள்ளிச் சின்னத்துடன் காட்டுகிறது.",
+        "subject": "தமிழ் மொழிவழி தேசிய வகைப் பள்ளியின் பெயர்ப் பலகை, SJK(T) Changlun"
+      },
+      {
+        "alt": "Kedah-வில் உள்ள SJK(T) Changlun-இன் வகுப்பறைத் தொகுதியும் உள்முற்றமும்; கூரையிட்ட நடைபாதையோரம் வகுப்பறை வாயில்கள், அறிவிப்புப் பலகைகள், கொடிகள் ஆகியவற்றுடன்.",
+        "subject": "தமிழ் மொழிவழிப் பள்ளியின் வகுப்பறைத் தொகுதி, SJK(T) Changlun"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "केदाह में S.J.K (Tamil) Changlun का नीला प्रवेश-पट्ट, जिस पर विद्यालय का नाम तमिल और मलय में तथा विद्यालय का प्रतीक-चिह्न दर्शाया गया है।",
+        "subject": "एक तमिल-माध्यम राष्ट्रीय-प्रकार के विद्यालय, SJK(T) Changlun का नाम-पट्ट"
+      },
+      {
+        "alt": "केदाह में SJK(T) Changlun का कक्षा-खंड और प्रांगण, जिसमें एक ढके हुए रास्ते के किनारे कक्षा-द्वार, सूचना-पट्ट और झंडे हैं।",
+        "subject": "एक तमिल-माध्यम विद्यालय, SJK(T) Changlun का कक्षा-खंड"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "لوحة المدخل الزرقاء لمدرسة S.J.K (Tamil) Changlun في كيدا، تظهر اسم المدرسة بالتاميلية والملايوية مع شعار المدرسة.",
+        "subject": "لوحة مدرسة تاميلية التعليم من النوع الوطني، SJK(T) Changlun"
+      },
+      {
+        "alt": "مبنى الصفوف والفناء لمدرسة SJK(T) Changlun في كيدا، بأبواب صفوف ولوحات إعلانات وأعلام على طول ممرّ مسقوف.",
+        "subject": "مبنى صفوف مدرسة تاميلية التعليم، SJK(T) Changlun"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El rótulo azul de entrada de la S.J.K (Tamil) Changlun en Kedah, con el nombre de la escuela en tamil y malayo junto con el escudo escolar.",
+        "subject": "Rótulo de una escuela de tipo nacional de enseñanza en tamil, la SJK(T) Changlun"
+      },
+      {
+        "alt": "El bloque de aulas y el patio de la SJK(T) Changlun en Kedah, con puertas de aulas, tablones de anuncios y banderas a lo largo de un paso cubierto.",
+        "subject": "Bloque de aulas de una escuela de enseñanza en tamil, la SJK(T) Changlun"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Le panneau d'entrée bleu de la S.J.K (Tamil) Changlun à Kedah, portant le nom de l'école en tamoul et en malais ainsi que l'écusson de l'école.",
+        "subject": "Panneau d'une école de type national d'enseignement en tamoul, la SJK(T) Changlun"
+      },
+      {
+        "alt": "Le bloc de classes et la cour de la SJK(T) Changlun à Kedah, avec des portes de salles, des panneaux d'affichage et des drapeaux le long d'un passage couvert.",
+        "subject": "Bloc de classes d'une école d'enseignement en tamoul, la SJK(T) Changlun"
+      }
+    ]
+  },
+  "education/tvet-and-skills-training": {
+    "zh": [
+      {
+        "alt": "Montfort青年培训中心有盖的中央大厅，这是沙巴Kinarut一所职业技能培训校园，舞台横幅上写着“Through Work Achieve Success”。",
+        "subject": "马来西亚青年技能培训中心内部"
+      },
+      {
+        "alt": "沙巴亚庇理工学院（Politeknik Kota Kinabalu）弧形的有盖入口走道与现代化教学楼。",
+        "subject": "马来西亚理工学院校园（亚庇理工学院 Politeknik Kota Kinabalu）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "サバ州キナルットにある職業技能訓練の校舎、Montfort青少年訓練センターの屋根付き中央ホール。ステージの横断幕には「Through Work Achieve Success」と記されている。",
+        "subject": "マレーシアの青少年技能訓練センターの内部"
+      },
+      {
+        "alt": "サバ州のPoliteknik Kota Kinabaluにある、曲線を描く屋根付きの入口通路と近代的な校舎。",
+        "subject": "マレーシアのポリテクニック（Politeknik）のキャンパス（コタキナバル・ポリテクニック）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "사바주 키나룻에 있는 직업 기능훈련 캠퍼스 Montfort 청소년훈련센터의 지붕 덮인 중앙 홀로, 무대 현수막에 'Through Work Achieve Success'라고 적혀 있다.",
+        "subject": "말레이시아 청소년 기능훈련센터 내부"
+      },
+      {
+        "alt": "사바주 Politeknik Kota Kinabalu의 곡선형 지붕 덮인 입구 통로와 현대식 학술 건물.",
+        "subject": "말레이시아 폴리테크닉(Politeknik) 캠퍼스(코타키나발루 폴리테크닉)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "โถงกลางมีหลังคาของ Montfort Youth Training Centre วิทยาเขตฝึกทักษะอาชีพในกีนารุต รัฐซาบะฮ์ มีป้ายผ้าบนเวทีเขียนว่า 'Through Work Achieve Success'",
+        "subject": "ภายในศูนย์ฝึกทักษะเยาวชนของมาเลเซีย"
+      },
+      {
+        "alt": "ทางเดินเข้ามีหลังคาทรงโค้งและอาคารวิชาการทันสมัยที่ Politeknik Kota Kinabalu ในรัฐซาบะฮ์",
+        "subject": "วิทยาเขตโพลีเทคนิค (Politeknik) ของมาเลเซีย (Politeknik Kota Kinabalu)"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Dewan tengah berbumbung Montfort Youth Training Centre, sebuah kampus latihan kemahiran vokasional di Kinarut, Sabah, dengan sepanduk pentas bertulis 'Through Work Achieve Success'.",
+        "subject": "Bahagian dalam sebuah pusat latihan kemahiran belia di Malaysia"
+      },
+      {
+        "alt": "Laluan masuk berbumbung melengkung dan blok akademik moden di Politeknik Kota Kinabalu, Sabah.",
+        "subject": "Kampus sebuah politeknik di Malaysia (Politeknik Kota Kinabalu)"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Aula tengah beratap Montfort Youth Training Centre, sebuah kampus pelatihan keterampilan vokasional di Kinarut, Sabah, dengan spanduk panggung bertuliskan 'Through Work Achieve Success'.",
+        "subject": "Interior sebuah pusat pelatihan keterampilan pemuda di Malaysia"
+      },
+      {
+        "alt": "Selasar masuk beratap melengkung dan blok akademik modern di Politeknik Kota Kinabalu, Sabah.",
+        "subject": "Kampus sebuah politeknik di Malaysia (Politeknik Kota Kinabalu)"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Sảnh trung tâm có mái che của Montfort Youth Training Centre, một cơ sở đào tạo kỹ năng nghề ở Kinarut, Sabah, với tấm băng rôn trên sân khấu ghi 'Through Work Achieve Success'.",
+        "subject": "Bên trong một trung tâm đào tạo kỹ năng thanh niên Malaysia"
+      },
+      {
+        "alt": "Lối đi vào có mái che uốn cong và khối nhà học hiện đại tại Politeknik Kota Kinabalu ở Sabah.",
+        "subject": "Khuôn viên một trường bách khoa Malaysia (Politeknik Kota Kinabalu)"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "Sabah மாநிலம் Kinarut-இல் உள்ள தொழில்முறைத் திறன் பயிற்சி வளாகமான Montfort Youth Training Centre-இன் கூரையிட்ட மைய மண்டபம்; மேடையில் 'Through Work Achieve Success' எனும் விளம்பரத் துணியுடன்.",
+        "subject": "மலேசிய இளைஞர் திறன் பயிற்சி மையமொன்றின் உட்புறம்"
+      },
+      {
+        "alt": "Sabah-இல் உள்ள Politeknik Kota Kinabalu-இல் வளைவான கூரையிட்ட நுழைவு நடைபாதையும் நவீன கல்விக் கட்டடத் தொகுதியும்.",
+        "subject": "மலேசியப் பாலிடெக்னிக் வளாகம் (Politeknik Kota Kinabalu)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "Montfort Youth Training Centre का ढका हुआ केंद्रीय हॉल, सबाह के किनारुत में एक व्यावसायिक कौशल-प्रशिक्षण परिसर, जिसके मंच पर 'Through Work Achieve Success' लिखा एक बैनर है।",
+        "subject": "एक मलेशियाई युवा कौशल-प्रशिक्षण केंद्र का भीतरी दृश्य"
+      },
+      {
+        "alt": "सबाह के Politeknik Kota Kinabalu में एक घुमावदार ढका हुआ प्रवेश-मार्ग और आधुनिक शैक्षणिक खंड।",
+        "subject": "एक मलेशियाई पॉलिटेक्निक परिसर (Politeknik Kota Kinabalu)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "القاعة المركزية المسقوفة لمركز Montfort Youth Training Centre، وهو حرم للتدريب على المهارات المهنية في كيناروت بولاية صباح، بلافتة على المنصّة كُتب عليها 'Through Work Achieve Success'.",
+        "subject": "منظر داخلي لمركز تدريب مهاري للشباب في ماليزيا"
+      },
+      {
+        "alt": "ممرّ دخول مسقوف منحنٍ ومبنى أكاديمي حديث في Politeknik Kota Kinabalu بولاية صباح.",
+        "subject": "حرم معهد فني ماليزي (Politeknik Kota Kinabalu)"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El vestíbulo central cubierto del Montfort Youth Training Centre, un campus de formación en competencias profesionales en Kinarut, Sabah, con una pancarta en el escenario que reza 'Through Work Achieve Success'.",
+        "subject": "Interior de un centro malasio de formación juvenil en competencias"
+      },
+      {
+        "alt": "Un paso de entrada cubierto y curvo y un bloque académico moderno en el Politeknik Kota Kinabalu, en Sabah.",
+        "subject": "Un campus de instituto politécnico malasio (Politeknik Kota Kinabalu)"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Le hall central couvert du Montfort Youth Training Centre, un campus de formation professionnelle à Kinarut, Sabah, avec sur la scène une banderole portant l'inscription « Through Work Achieve Success ».",
+        "subject": "Intérieur d'un centre malaisien de formation professionnelle pour la jeunesse"
+      },
+      {
+        "alt": "Une allée d'entrée couverte et incurvée et un bloc universitaire moderne au Politeknik Kota Kinabalu, à Sabah.",
+        "subject": "Un campus d'institut polytechnique malaisien (Politeknik Kota Kinabalu)"
+      }
+    ]
+  },
+  "education/unified-examination-certificate-uec": {
+    "zh": [
+      {
+        "alt": "新山宽柔中学（Sekolah Menengah Foon Yew，寬柔中學）的入口拱门与校名牌，旁有柔佛州旗与校徽。",
+        "subject": "宽柔中学，新山的一所华文独立中学"
+      },
+      {
+        "alt": "新山宽柔中学多层的图书馆大楼（Perpustakaan），铺砖门廊上方以马来文和中文标示名称。",
+        "subject": "宽柔中学的图书馆大楼"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ジョホールバルのフーニュー中学（Sekolah Menengah Foon Yew、寬柔中學）の入口のアーチと校名板。ジョホール州旗と校章が添えられている。",
+        "subject": "フーニュー中学（寛柔中学、ジョホールバルの華文独立中学）"
+      },
+      {
+        "alt": "ジョホールバルのフーニュー中学の多層階の図書館棟（Perpustakaan）。タイル張りのポーチの上にマレー語と中国語で名称が掲げられている。",
+        "subject": "フーニュー中学の図書館棟"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "조호르바루 푼유중학교(Sekolah Menengah Foon Yew, 寬柔中學)의 입구 아치와 교명판으로, 조호르주 깃발과 교표가 함께 있다.",
+        "subject": "푼유중학교(寬柔中學), 조호르바루의 중국어 독립중학교"
+      },
+      {
+        "alt": "조호르바루 푼유중학교의 여러 층짜리 도서관 건물(Perpustakaan)로, 타일을 깐 현관 위에 말레이어와 중국어로 명칭이 표시되어 있다.",
+        "subject": "푼유중학교의 도서관 건물"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ซุ้มทางเข้าและป้ายชื่อของ Sekolah Menengah Foon Yew / โรงเรียนมัธยมฝูนหยิว (寬柔中學) ในยะโฮร์บาห์รู พร้อมธงรัฐยะโฮร์และตราประจำโรงเรียน",
+        "subject": "โรงเรียนมัธยมฝูนหยิว โรงเรียนมัธยมจีนอิสระในยะโฮร์บาห์รู"
+      },
+      {
+        "alt": "อาคารห้องสมุดหลายชั้น (Perpustakaan) ของโรงเรียนมัธยมฝูนหยิวในยะโฮร์บาห์รู มีชื่อแสดงเป็นภาษามลายูและจีนเหนือระเบียงปูกระเบื้อง",
+        "subject": "อาคารห้องสมุดของโรงเรียนมัธยมฝูนหยิว"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Gerbang masuk dan papan tanda Sekolah Menengah Foon Yew (寬柔中學) di Johor Bahru, dengan bendera negeri Johor dan lambang sekolah.",
+        "subject": "Foon Yew High School, sebuah sekolah menengah persendirian Cina di Johor Bahru"
+      },
+      {
+        "alt": "Bangunan perpustakaan (Perpustakaan) Foon Yew High School yang bertingkat di Johor Bahru, dengan namanya dipaparkan dalam bahasa Melayu dan Cina di atas anjung berjubin.",
+        "subject": "Bangunan perpustakaan Foon Yew High School"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Gapura masuk dan papan nama Sekolah Menengah Foon Yew / Foon Yew High School (寬柔中學) di Johor Bahru, dengan bendera negara bagian Johor dan lambang sekolah.",
+        "subject": "Foon Yew High School, sebuah sekolah menengah independen Tionghoa di Johor Bahru"
+      },
+      {
+        "alt": "Gedung perpustakaan (Perpustakaan) Foon Yew High School yang bertingkat di Johor Bahru, dengan namanya ditampilkan dalam bahasa Melayu dan Mandarin di atas beranda berubin.",
+        "subject": "Gedung perpustakaan Foon Yew High School"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Cổng vòm lối vào và biển tên của Sekolah Menengah Foon Yew / Foon Yew High School (寬柔中學) ở Johor Bahru, với cờ bang Johor và huy hiệu nhà trường.",
+        "subject": "Foon Yew High School, một trường trung học tư thục tiếng Hoa ở Johor Bahru"
+      },
+      {
+        "alt": "Tòa nhà thư viện (Perpustakaan) nhiều tầng của Foon Yew High School ở Johor Bahru, với tên được thể hiện bằng tiếng Mã Lai và tiếng Hoa phía trên mái hiên lát gạch.",
+        "subject": "Tòa nhà thư viện của Foon Yew High School"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "Johor Bahru-வில் உள்ள Sekolah Menengah Foon Yew / Foon Yew High School (寬柔中學)-இன் நுழைவு வளைவும் பெயர்ப் பலகையும்; ஜோகூர் மாநிலக் கொடியும் பள்ளிச் சின்னமும் உடன்.",
+        "subject": "Foon Yew High School, Johor Bahru-வில் உள்ள ஒரு சீன சுயாதீன மேல்நிலைப் பள்ளி"
+      },
+      {
+        "alt": "Johor Bahru-வில் உள்ள Foon Yew High School-இன் பல மாடி நூலகக் கட்டிடம் (Perpustakaan); ஓடு பதித்த நுழைவு மண்டபத்திற்கு மேலே அதன் பெயர் மலாயிலும் சீனத்திலும் காட்டப்பட்டுள்ளது.",
+        "subject": "Foon Yew High School-இன் நூலகக் கட்டிடம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "जोहोर बाहरू में Sekolah Menengah Foon Yew / Foon Yew High School (寬柔中學) का प्रवेश-तोरण और नाम-पट्ट, जिसके साथ जोहोर राज्य का झंडा और विद्यालय का प्रतीक-चिह्न है।",
+        "subject": "Foon Yew High School, जोहोर बाहरू का एक चीनी स्वतंत्र हाई स्कूल"
+      },
+      {
+        "alt": "जोहोर बाहरू में Foon Yew High School का बहुमंजिला पुस्तकालय भवन (Perpustakaan), जिसका नाम एक टाइल वाले बरामदे के ऊपर मलय और चीनी में दर्शाया गया है।",
+        "subject": "Foon Yew High School का पुस्तकालय भवन"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "قوس المدخل ولوحة الاسم لمدرسة Sekolah Menengah Foon Yew / Foon Yew High School (寬柔中學) في جوهور بهرو، مع علم ولاية جوهور وشعار المدرسة.",
+        "subject": "Foon Yew High School، مدرسة ثانوية صينية مستقلّة في جوهور بهرو"
+      },
+      {
+        "alt": "مبنى المكتبة المتعدّد الطوابق (Perpustakaan) لمدرسة Foon Yew High School في جوهور بهرو، واسمه معروض بالملايوية والصينية فوق رواق مبلّط.",
+        "subject": "مبنى مكتبة Foon Yew High School"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El arco de entrada y el rótulo de la Sekolah Menengah Foon Yew / Foon Yew High School (寬柔中學) en Johor Bahru, con la bandera del estado de Johor y el emblema de la escuela.",
+        "subject": "Foon Yew High School, una escuela secundaria china independiente en Johor Bahru"
+      },
+      {
+        "alt": "El edificio de la biblioteca de varias plantas (Perpustakaan) de la Foon Yew High School en Johor Bahru, con su nombre en malayo y chino sobre un porche de baldosas.",
+        "subject": "El edificio de la biblioteca de la Foon Yew High School"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "L'arche d'entrée et le panneau de la Sekolah Menengah Foon Yew / Foon Yew High School (寬柔中學) à Johor Bahru, avec le drapeau de l'État de Johor et l'emblème de l'école.",
+        "subject": "Foon Yew High School, un lycée chinois indépendant à Johor Bahru"
+      },
+      {
+        "alt": "Le bâtiment de la bibliothèque à plusieurs étages (Perpustakaan) de la Foon Yew High School à Johor Bahru, avec son nom en malais et en chinois au-dessus d'un porche carrelé.",
+        "subject": "Le bâtiment de la bibliothèque de la Foon Yew High School"
+      }
+    ]
+  },
+  "education/upsr-to-spm-exams": {
+    "zh": [
+      {
+        "alt": "沙巴SMK Bugaya II蓝黄相间、色彩鲜明的学校礼堂（dewan），SPM等公共考试便在这类礼堂里举行。",
+        "subject": "用于公共考试的马来西亚中学礼堂"
+      },
+      {
+        "alt": "SMK Sapulut的多层教室楼，这是沙巴一所政府中学。",
+        "subject": "一所马来西亚中学（SMK Sapulut）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "サバ州のSMK Bugaya IIの、青と黄色が鮮やかな学校講堂（dewan）。SPMなどの公的試験が行われる類の講堂である。",
+        "subject": "公的試験に使われる類のマレーシアの中等学校の講堂（dewan）"
+      },
+      {
+        "alt": "サバ州の政府中等学校SMK Sapulutの、多層階の教室棟。",
+        "subject": "マレーシアの中等学校（SMK Sapulut）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "사바주 SMK Bugaya II의 파란색과 노란색이 선명한 학교 강당(dewan)으로, SPM 같은 공공시험이 치러지는 부류의 강당이다.",
+        "subject": "공공시험에 쓰이는 부류의 말레이시아 중등학교 강당(dewan)"
+      },
+      {
+        "alt": "사바주의 정부 중등학교 SMK Sapulut의 여러 층짜리 교실동.",
+        "subject": "말레이시아 중등학교(SMK Sapulut)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "หอประชุม (dewan) สีฟ้าและเหลืองสดใสของ SMK Bugaya II ในรัฐซาบะฮ์ หอประชุมประเภทที่ใช้จัดสอบระดับชาติเช่น SPM",
+        "subject": "หอประชุม (dewan) ของโรงเรียนมัธยมมาเลเซียประเภทที่ใช้สอบระดับชาติ"
+      },
+      {
+        "alt": "อาคารเรียนหลายชั้นของ SMK Sapulut โรงเรียนมัธยมรัฐบาลในรัฐซาบะฮ์",
+        "subject": "โรงเรียนมัธยมมาเลเซีย (SMK Sapulut)"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Dewan sekolah (dewan) berwarna biru dan kuning yang ceria milik SMK Bugaya II di Sabah, jenis dewan tempat peperiksaan awam seperti SPM diduduki.",
+        "subject": "Dewan sekolah menengah di Malaysia sejenis yang digunakan untuk peperiksaan awam"
+      },
+      {
+        "alt": "Blok bilik darjah bertingkat SMK Sapulut, sebuah sekolah menengah kerajaan di Sabah.",
+        "subject": "Sebuah sekolah menengah di Malaysia (SMK Sapulut)"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Aula sekolah (dewan) berwarna biru dan kuning yang cerah milik SMK Bugaya II di Sabah, jenis aula tempat ujian nasional seperti SPM ditempuh.",
+        "subject": "Aula sekolah menengah di Malaysia sejenis yang digunakan untuk ujian nasional"
+      },
+      {
+        "alt": "Blok ruang kelas bertingkat SMK Sapulut, sebuah sekolah menengah negeri di Sabah.",
+        "subject": "Sebuah sekolah menengah di Malaysia (SMK Sapulut)"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Hội trường trường học (dewan) màu xanh và vàng rực rỡ của SMK Bugaya II ở Sabah, loại hội trường nơi tổ chức các kỳ thi công như SPM.",
+        "subject": "Hội trường một trường trung học Malaysia thuộc loại dùng cho các kỳ thi công"
+      },
+      {
+        "alt": "Khối lớp học nhiều tầng của SMK Sapulut, một trường trung học công lập ở Sabah.",
+        "subject": "Một trường trung học Malaysia (SMK Sapulut)"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "Sabah-இல் உள்ள SMK Bugaya II-இன் வண்ணமயமான நீல-மஞ்சள் பள்ளி மண்டபம் (dewan); SPM போன்ற பொதுத் தேர்வுகள் எழுதப்படும் வகை மண்டபம்.",
+        "subject": "பொதுத் தேர்வுகளுக்குப் பயன்படுத்தப்படும் வகை மலேசிய இடைநிலைப் பள்ளி மண்டபம்"
+      },
+      {
+        "alt": "Sabah-இல் உள்ள அரசு இடைநிலைப் பள்ளியான SMK Sapulut-இன் பல மாடி வகுப்பறைத் தொகுதி.",
+        "subject": "ஒரு மலேசிய இடைநிலைப் பள்ளி (SMK Sapulut)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "सबाह में SMK Bugaya II का रंगीन नीले-और-पीले रंग का विद्यालय हॉल (dewan), वही प्रकार का हॉल जिसमें SPM जैसी सार्वजनिक परीक्षाएँ दी जाती हैं।",
+        "subject": "सार्वजनिक परीक्षाओं के लिए उपयोग किए जाने वाले प्रकार का एक मलेशियाई माध्यमिक-विद्यालय हॉल"
+      },
+      {
+        "alt": "SMK Sapulut का एक बहुमंजिला कक्षा-खंड, सबाह में एक सरकारी माध्यमिक विद्यालय।",
+        "subject": "एक मलेशियाई माध्यमिक विद्यालय (SMK Sapulut)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "القاعة المدرسية الملوّنة باللونين الأزرق والأصفر (dewan) لمدرسة SMK Bugaya II في ولاية صباح، وهي نوع القاعات التي تُؤدّى فيها الامتحانات العامة مثل SPM.",
+        "subject": "قاعة مدرسة ثانوية ماليزية من النوع المستخدم للامتحانات العامة"
+      },
+      {
+        "alt": "مبنى صفوف متعدّد الطوابق لمدرسة SMK Sapulut، وهي مدرسة ثانوية حكومية في ولاية صباح.",
+        "subject": "مدرسة ثانوية ماليزية (SMK Sapulut)"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El colorido salón escolar en azul y amarillo (dewan) de la SMK Bugaya II en Sabah, el tipo de salón en que se realizan exámenes públicos como el SPM.",
+        "subject": "Un salón de escuela secundaria malasia del tipo usado para exámenes públicos"
+      },
+      {
+        "alt": "Un bloque de aulas de varias plantas de la SMK Sapulut, una escuela secundaria pública en Sabah.",
+        "subject": "Una escuela secundaria malasia (SMK Sapulut)"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "La salle d'école colorée en bleu et jaune (dewan) de la SMK Bugaya II à Sabah, le type de salle dans laquelle se passent les examens publics tels que le SPM.",
+        "subject": "Une salle de collège-lycée malaisien du type utilisé pour les examens publics"
+      },
+      {
+        "alt": "Un bloc de classes à plusieurs étages de la SMK Sapulut, un collège-lycée public à Sabah.",
+        "subject": "Un collège-lycée malaisien (SMK Sapulut)"
+      }
+    ]
   }
 }

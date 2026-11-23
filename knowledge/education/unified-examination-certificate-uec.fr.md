@@ -30,7 +30,7 @@ faq:
     a: "Oui. Le malais est une matière obligatoire dans le système UEC. De nombreux élèves de l'UEC se présentent aussi au SPM en tant que candidats libres ; Dong Zong rapporte que le taux de réussite en malais au SPM parmi les élèves des écoles secondaires chinoises indépendantes a dépassé 96% pour les années 2022-2024 (97.38% en 2022, 97.11% en 2023 et 96.65% en 2024), en utilisant la même épreuve SPM que les autres candidats."
 
 lang: "fr"
-sourceContentHash: "1f2605f6949b7811"
+sourceContentHash: "e144ffe426e25ff1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Sekolah-Tinggi-Cina-Sabah-06.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-1.webp
+    alt: L'arche d'entrée et le panneau de la Sekolah Menengah Foon Yew / Foon Yew High School (寬柔中學) à Johor Bahru, avec le drapeau de l'État de Johor et l'emblème de l'école.
+    kind: actual
+    origin: third-party
+    subject: Foon Yew High School, un lycée chinois indépendant à Johor Bahru
+    credit: Kaart @ Mapillary.com / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School.jpg
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-2.webp
+    alt: Le bâtiment de la bibliothèque à plusieurs étages (Perpustakaan) de la Foon Yew High School à Johor Bahru, avec son nom en malais et en chinois au-dessus d'un porche carrelé.
+    kind: actual
+    origin: third-party
+    subject: Le bâtiment de la bibliothèque de la Foon Yew High School
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School_Library.jpg
 ---
 
 Trois lettres — UEC — suffisent à déclencher un débat qui dure depuis plus d'un demi-siècle dans la politique éducative malaisienne. Pour les uns, c'est un certificat reconnu à l'échelle internationale qui ouvre la porte aux plus grandes universités du monde ; pour les autres, il touche au statut de la langue nationale et à la politique éducative du pays. Les deux visions coexistent, et il faut comprendre les deux pour saisir le tableau complet.

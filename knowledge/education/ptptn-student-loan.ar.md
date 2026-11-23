@@ -25,7 +25,7 @@ verificationNeeded:
   - "الإشارات إلى صلاحيات الإنفاذ (مثل قيود السفر إلى الخارج على المقترضين المتخلّفين) مذكورة بعبارات عامة فقط استناداً إلى وجود مثل هذه الصلاحيات بموجب Act 566؛ أما رقم المادة المحدد وشروط تفعيلها (مثل فترة المتأخرات) فلم يُتحقَّق منها مباشرة من نصّ القانون أو البوابة الرسمية وتحتاج إلى إعادة فحص."
 
 lang: "ar"
-sourceContentHash: "c276a6a6034e9c91"
+sourceContentHash: "4273f8606a208fb5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -73,6 +73,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_UTM-Campus-Kuala-Lumpur-02.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-1.webp
+    alt: مبنى رئاسة جامعة Universiti Teknologi MARA (UiTM)، وهو مبنى جامعي حكومي حديث كبير من الزجاج والخرسانة يقوم على مرتفع منسّق وأمامه أعلام.
+    kind: representative
+    origin: third-party
+    subject: حرم جامعة حكومية ماليزية (Universiti Teknologi MARA)
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-2.webp
+    alt: مبنى رئاسة الجامعة (Canselori) المميّز باللونين الأزرق والكريمي لجامعة Universiti Malaysia Sabah في كوتا كينابالو، وهو معلَم لجامعة حكومية يقوم فوق مرج منسّق.
+    kind: representative
+    origin: third-party
+    subject: معلَم لجامعة حكومية ماليزية (مبنى رئاسة Universiti Malaysia Sabah)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu-Sabah_Universiti-Malaysia-Sabah-Chancellory-01.jpg
 ---
 
 يوقّع كثير من الطلاب مستندات عرض PTPTN بالافتراض نفسه: «هذا منحة دراسية في الأساس، أليس كذلك؟» إنه ليس كذلك. وهذا الفهم الخاطئ هو بالضبط ما يسبّب المتاعب في الأغلب — بعد سنوات، حين يصل إشعار السداد الأول بعد التخرّج.

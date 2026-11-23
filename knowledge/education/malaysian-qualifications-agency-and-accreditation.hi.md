@@ -32,7 +32,7 @@ faq:
     a: "हाँ। मलेशिया में संचालित किसी भी उच्च शिक्षा प्रदाता द्वारा प्रस्तावित कार्यक्रम, जिसमें विदेशी शाखा-परिसर शामिल हैं, MQF के अंतर्गत गुणवत्ता-आश्वासित होते हैं और MQR में दिखाई देते हैं। कुछ स्थापित विश्वविद्यालय स्व-मान्यता (self-accrediting) स्थिति रखते हैं, जो उन्हें MQF पर अपने ही कार्यक्रमों को मान्यता देने और उन कार्यक्रमों को MQR में पंजीकृत करने का अधिकार देती है।"
 
 lang: "hi"
-sourceContentHash: "35dc11bf078ce7cc"
+sourceContentHash: "c14bc638e4d2ad46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-1.webp
+    alt: Universiti Kebangsaan Malaysia में एक दीक्षांत समारोह के दौरान मंच पर समारोही गाउन में शिक्षाविद किसी को डिग्री प्रदान करते हुए।
+    kind: representative
+    origin: third-party
+    subject: Universiti Kebangsaan Malaysia में डिग्री प्रदान करने वाला एक विशेष दीक्षांत समारोह
+    credit: Press Information Department (Government of Bangladesh) / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Honorary_Doctorate_Universiti_Kebangsaan_Malaysia_2025-08-13_(PID-0000370).jpg
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-2.webp
+    alt: एक सुसज्जित प्रांगण के बगल में Universiti Putra Malaysia की घुमावदार Canselori Putra कुलाधिपति-भवन।
+    kind: representative
+    origin: third-party
+    subject: Universiti Putra Malaysia का कुलाधिपति-भवन (प्रशासनिक हॉल)
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Canselori_Putra,_UPM.jpg
 ---
 
 दो विद्यार्थी एक जैसे नाम वाले डिप्लोमा के साथ स्नातक होते हैं। एक सरकारी नौकरी और परास्नातक सीट के लिए योग्य हो जाता है; दूसरे को दरवाज़े पर ही लौटा दिया जाता है। यह अंतर अक्सर एक सार्वजनिक रजिस्टर में एक ही पंक्ति होता है: क्या मलेशियन क्वालिफ़िकेशन्स एजेंसी ने कार्यक्रम को मान्यता दी।

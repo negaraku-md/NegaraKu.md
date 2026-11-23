@@ -32,7 +32,7 @@ faq:
   - q: "มีการสอนภาษามลายูและภาษาอังกฤษในโรงเรียนทมิฬหรือไม่?"
     a: "มี แม้สื่อการสอนใน SJKT จะเป็นภาษาทมิฬ แต่ภาษามลายู (Bahasa Melayu) และภาษาอังกฤษสอนเป็นวิชาบังคับ นั่นหมายความว่านักเรียนได้รับการศึกษาพื้นฐานเป็นภาษาทมิฬ ขณะเดียวกันก็เตรียมพร้อมด้านภาษามลายูสำหรับการเปลี่ยนผ่านไปสู่โรงเรียนมัธยมแห่งชาติด้วย"
 lang: "th"
-sourceContentHash: "86cb7d193d803e57"
+sourceContentHash: "49e368798d3dd1a7"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -87,6 +87,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Seri_Pelangi.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/tamil-vernacular-schools/body-1.webp
+    alt: ป้ายทางเข้าสีน้ำเงินของ S.J.K (Tamil) Changlun ในรัฐเกอดะฮ์ แสดงชื่อโรงเรียนเป็นภาษาทมิฬและมลายูพร้อมตราประจำโรงเรียน
+    kind: actual
+    origin: third-party
+    subject: ป้ายชื่อของโรงเรียนแบบชาติพันธุ์สอนภาษาทมิฬ SJK(T) Changlun
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg
+  - role: scene
+    src: /media/education/tamil-vernacular-schools/body-2.webp
+    alt: อาคารเรียนและลานของ SJK(T) Changlun ในรัฐเกอดะฮ์ มีประตูห้องเรียน บอร์ดประกาศ และธงเรียงรายตามทางเดินมีหลังคา
+    kind: actual
+    origin: third-party
+    subject: อาคารเรียนของโรงเรียนสอนภาษาทมิฬ SJK(T) Changlun
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom1(1).jpg
 ---
 
 ไม่ว่าจะมุมใดของมาเลเซีย — ริมสวนยางพาราเก่าแก่ หรือชานเมือง — เราสามารถพบโรงเรียนทมิฬเล็ก ๆ ได้ หลายโรงเรียนในนั้นมีประวัติยาวนานกว่าหนึ่งศตวรรษ โรงเรียนเหล่านี้ไม่ได้เป็นเพียงอาคาร แต่เป็นพยานแห่งการอพยพ แรงงาน และภาษาของชุมชนหนึ่ง

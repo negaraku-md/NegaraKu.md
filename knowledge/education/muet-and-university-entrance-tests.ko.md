@@ -34,7 +34,7 @@ faq:
     a: "사립대학도 일반적으로 영어 능력 증빙을 요구합니다. 현지 학생은 보통 MUET 결과를 제출하며, IELTS나 TOEFL 같은 동등한 자격은 프로그램과 기관에 따라 인정될 수 있습니다."
 
 lang: "ko"
-sourceContentHash: "a815609cdc3d3e77"
+sourceContentHash: "fd15f9ab20d97160"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-1.webp
+    alt: 시험장으로 사용되는 말레이시아의 큰 학교 강당 내부로, 무대와 바닥에 줄지어 마련된 공간이 있다
+    kind: representative
+    origin: third-party
+    subject: 시험장으로 쓰이는 말레이시아 학교 강당(dewan)
+    credit: LM UPSI 2019 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-2.webp
+    alt: 말레이시아 한 대학 캠퍼스의 강의동 단지를 위에서 내려다본 모습
+    kind: representative
+    origin: third-party
+    subject: 술탄이드리스교육대학교(UPSI)의 강의동 단지
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg
 ---
 
 STPM이나 매트리큘레이션에서 뛰어날 수 있지만, 한 가지 결과가 더 없으면 여러분의 학위 지원서는 여전히 불완전합니다. 그 결과가 바로 MUET입니다 — 그리고 많은 학생은 대학 지원 마감일이 다가와서야 그 중요성을 깨닫습니다.

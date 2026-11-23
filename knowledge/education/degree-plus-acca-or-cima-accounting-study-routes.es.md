@@ -33,7 +33,7 @@ faq:
 
 lang: "es"
 translationStatus: "in-sync"
-sourceContentHash: "d8f3e63e8e371c06"
+sourceContentHash: "f1edb16bb1e0f23c"
 masterLanguage: "en"
 
 status: "published"
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-1.webp
+    alt: Filas de asientos escalonados en un aula magna de una universidad malasia, del tipo en que estudiantes de grado y de contabilidad profesional asisten a clase.
+    kind: actual
+    origin: third-party
+    subject: Aula magna de la Universiti Malaysia Sabah
+    credit: Mfook / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Kuliah_Pusat.JPG
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-2.webp
+    alt: Tranquilas filas de pupitres individuales de estudio en una biblioteca de la University of Malaya, donde los estudiantes se afanan con los exámenes del grado y del ACCA o CIMA.
+    kind: representative
+    origin: third-party
+    subject: Pupitres de estudio en una biblioteca de la University of Malaya
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engine_library_Oct_2021_empty_view_desks.jpg
 ---
 
 Cualquiera que esté decidiendo cómo llegar a ser contador en Malasia se topa de frente con una sopa de letras: **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE.** Parece un menú de cualificaciones rivales entre las que hay que elegir. Se entiende mejor como **un solo destino con varios caminos hacia él**, y una vez que ves el destino, las decisiones encajan en su sitio.

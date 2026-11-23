@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tungku_Sabah-Sekolah-Kebangsaan-Tungku-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-1.webp
+    alt: Bangunan dan papan tanda sebuah sekolah rendah jenis kebangsaan Cina, SJK(C) Chong San
+    kind: actual
+    origin: third-party
+    subject: Sebuah sekolah jenis kebangsaan Cina, SJK(C) Chong San di Bagan Datuk, Perak
+    credit: Ceball1923 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekolah_Jenis_Kebangsaan_(Cina)_Chong_San.jpg
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-2.webp
+    alt: Bangunan dan papan tanda sebuah sekolah rendah jenis kebangsaan Tamil, SJK(T) Saraswathy
+    kind: actual
+    origin: third-party
+    subject: Sebuah sekolah jenis kebangsaan Tamil, SJK(T) Saraswathy di Sungai Buloh
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(T)_Saraswathy,_Sungai_Buloh_01.jpg
 ---
 
 Setiap tahun, apabila tempoh pendaftaran dibuka, ibu bapa di seluruh Malaysia membuka portal idMe Kementerian Pendidikan Malaysia (KPM) untuk mendaftarkan anak ke Tahun 1. Salah satu pilihan pertama yang perlu dibuat: SK, SJKC atau SJKT?

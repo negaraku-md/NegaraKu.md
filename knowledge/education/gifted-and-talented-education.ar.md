@@ -29,7 +29,7 @@ faq:
     a: "ASASIpintar هو برنامج الأساس الجامعي التمهيدي في UKM للطلاب الموهوبين والمتفوقين، ويُقدَّم في ثلاثة مسارات: Perdana وCommercial وInternational."
 
 lang: "ar"
-sourceContentHash: "e8dbefcac0cbb3a6"
+sourceContentHash: "c86cbb495d10ed97"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-1.webp
+    alt: تلاميذ يجلسون إلى صفوف من الحواسيب المكتبية أثناء حصة في مختبر حاسوب بمدرسة ثانوية ماليزية.
+    kind: representative
+    origin: third-party
+    subject: طلاب يعملون في مختبر حاسوب بمدرسة ماليزية
+    credit: Smkda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Makmal_komputer_1.jpg
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-2.webp
+    alt: مختبر بحثي جامعي في UTM بولاية جوهور مجهّز بالمركبات والأجهزة، وهو نوع المرافق المتقدّمة التي تصقل المتعلّمين ذوي القدرات العالية.
+    kind: representative
+    origin: third-party
+    subject: مختبر هندسي متقدّم في Universiti Teknologi Malaysia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UTM-Proton_Future_Drive_Laboratory.jpg
 ---
 
 طفل في العاشرة قادر على حلّ رياضيات الصف الخامس الثانوي لا يبرز دائماً في فصل دراسي عادي — وفي ماليزيا، المركز الوطني الوحيد المصمم للعثور على عقول كهذه ورعايتها هو PERMATApintar.

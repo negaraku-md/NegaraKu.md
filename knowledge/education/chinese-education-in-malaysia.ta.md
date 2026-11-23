@@ -31,7 +31,7 @@ faq:
   - q: "独中 முடித்தபின் எங்கு தொடர்ந்து படிக்கலாம்?"
     a: "独中 மாணவர்களின் தொடர் கல்வி வழிகள் பலதரப்பட்டவை. பலர் UEC சான்றிதழைக் கொண்டு உள்ளூர் தனியார் கல்லூரிகள்／பல்கலைக்கழகங்கள் அல்லது வெளிநாட்டுப் பல்கலைக்கழகங்களில் தொடர்ந்து படிக்கிறார்கள்; சில மாணவர்கள் அதிக தேர்வுகளைத் தக்கவைக்க SPM தேர்வையும் எழுதுகிறார்கள். உள்ளூர் சீன உயர்கல்வி நிறுவனங்களில் New Era University College, Southern University College மற்றும் Han Chiang University College of Communication ஆகியவை அடங்கும்; இவை சீனக் கல்வி அமைப்பிலிருந்து வளர்ந்தவை. 2026 முதல், குறிப்பிட்ட நிபந்தனைகளைப் பூர்த்தி செய்யும் UEC மாணவர்கள் ஒரு புதிய வழியில் சில அரசுப் பல்கலைக்கழகப் படிப்புகளுக்கும் விண்ணப்பிக்கலாம்."
 lang: "ta"
-sourceContentHash: "11102fbd9b87b7f9"
+sourceContentHash: "3fde1ff0d6a51181"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(C)_Chun_Yin_(260103).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-1.webp
+    alt: Penang-இல் மரங்கள் சூழ்ந்த Chung Ling High School வளாகம்; மலேசியாவில் நீண்ட காலமாக நிலைபெற்ற சீன மொழிவழி இடைநிலைப் பள்ளிகளில் ஒன்று.
+    kind: actual
+    origin: third-party
+    subject: Chung Ling High School, Penang
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_High_School_(October_2022).jpg
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-2.webp
+    alt: கோலாலம்பூரில் உள்ள SJK(C) Confucian-இன் நுழைவாயிலும் பெயர்ப் பலகையும்; தாய்மொழிவழி அமைப்புக்கு மாணவர்களை ஊட்டும் அரசு உதவி பெறும் சீன மொழிவழி தொடக்கப் பள்ளிகளில் ஒன்று.
+    kind: actual
+    origin: third-party
+    subject: SJK(C) Confucian, கோலாலம்பூரில் உள்ள சீன மொழிவழி தொடக்கப் பள்ளி
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(C)_Confucian.jpg
 ---
 
 அதிகாலையில், ஒரு சீனத் தொடக்கப் பள்ளியின் விளையாட்டு மைதானத்தில் மாண்டரின், மலாய் மற்றும் ஆங்கிலம் கலந்த குரல்கள் ஒலிக்கின்றன; சில மாநிலங்கள் தள்ளி, ஒரு சீன சுயாதீன மேல்நிலைப் பள்ளியின் (独中) அரங்கில் மாணவர்கள் ஆண்டிறுதி UEC தேர்வுக்குத் தயாராகிறார்கள்; ஜொகூர் மற்றும் பினாங்கில், சீனக் கல்வி அமைப்பிலிருந்து வளர்ந்த பல்கலைக்கழகக் கல்லூரிகள் புதிய மாணவர்களை வரவேற்கின்றன. இந்தக் காட்சிகள் அனைத்தும் ஒரே தொடரைச் சேர்ந்தவை — மலேசியாவின் சீனக் கல்வி — எனினும் வெவ்வேறு நிலைகளில், வெவ்வேறு நிதியளிப்பு முறைகள் மற்றும் சட்ட ஏற்பாடுகளின் கீழ் அமைந்துள்ளன.

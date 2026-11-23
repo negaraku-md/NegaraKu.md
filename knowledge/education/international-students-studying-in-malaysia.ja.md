@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7261a5b72201747a"
+sourceContentHash: "00e475894d31159f"
 
 status: "published"
 aiAssisted: true
@@ -96,6 +96,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-1.webp
+    alt: 緑に縁取られ、看板が掲げられたノッティンガム大学マレーシア校の正門。多くの留学生を受け入れる英国大学の分校である。
+    kind: actual
+    origin: third-party
+    subject: ノッティンガム大学マレーシア校の正門
+    credit: Faizalrahmat85 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-2.webp
+    alt: 列柱の並ぶ厦門大学マレーシア校の本館に差し込む午後の陽光。クアラルンプール近郊にあり、海外から学生を集める中国の大学の分校である。
+    kind: actual
+    origin: third-party
+    subject: 厦門大学マレーシア校のキャンパス（スパン）
+    credit: Xiamen University Malaysia / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Xiamen_University_Malaysia_at_afternoon.jpg
 ---
 
 誤った種類の教育機関から発行されたオファーレターは、たとえそのプログラム自体が完全に認定されていたとしても、ビザ申請においては何の役にも立たない。「認定されたプログラム」と「留学生受け入れを承認された教育機関」というこの区別こそが、EMGS（Education Malaysia Global Services）の申請書に誰かが記入するよりもずっと前の段階で、多くの混乱が生まれる起点となっている。

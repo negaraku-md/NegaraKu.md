@@ -32,7 +32,7 @@ faq:
     a: "Ya. Program yang ditawarkan oleh mana-mana penyedia pengajian tinggi yang beroperasi di Malaysia, termasuk kampus cawangan asing, dijamin kualitinya di bawah MQF dan tersenarai dalam MQR. Sesetengah universiti mapan memegang status swaakreditasi, yang memberi kuasa kepada mereka untuk mengakreditasi program mereka sendiri pada MQF dan mendaftarkan program tersebut dalam MQR."
 
 lang: "ms"
-sourceContentHash: "35dc11bf078ce7cc"
+sourceContentHash: "c14bc638e4d2ad46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-1.webp
+    alt: Ahli akademik berjubah istiadat menganugerahkan ijazah di atas pentas semasa majlis konvokesyen di Universiti Kebangsaan Malaysia
+    kind: representative
+    origin: third-party
+    subject: Majlis konvokesyen khas penganugerahan ijazah di Universiti Kebangsaan Malaysia
+    credit: Press Information Department (Government of Bangladesh) / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Honorary_Doctorate_Universiti_Kebangsaan_Malaysia_2025-08-13_(PID-0000370).jpg
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-2.webp
+    alt: Bangunan canselori Canselori Putra yang berlengkung milik Universiti Putra Malaysia di sisi sebuah plaza berlanskap
+    kind: representative
+    origin: third-party
+    subject: Bangunan Canselori (dewan pentadbiran) Universiti Putra Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Canselori_Putra,_UPM.jpg
 ---
 
 Dua orang pelajar bergraduat dengan diploma yang kedengaran sama. Seorang layak untuk pekerjaan kerajaan dan tempat pengajian sarjana; seorang lagi ditolak di pintu masuk. Perbezaannya sering kali terletak pada satu baris dalam daftar awam: sama ada Agensi Kelayakan Malaysia telah mengakreditasi program tersebut.

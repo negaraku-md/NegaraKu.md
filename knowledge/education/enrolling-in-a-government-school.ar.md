@@ -20,7 +20,7 @@ keyTakeaways:
   - "الالتحاق المبكر (دون السن) وتأجيل السنة الأولى موجودان كلاهما كسياستين رسميتين منفصلتين — وتُقدَّم الطلبات عبر JPN، لا عبر نظام idMe المعتاد، والتأجيل امتياز لا حق تلقائي"
 appliesTo: "أولياء الأمور أو الأوصياء من المواطنين الماليزيين الذين يوشك طفلهم على دخول السنة الأولى من المدرسة الابتدائية الحكومية أو الصف الأول من المدرسة الثانوية الحكومية."
 lang: "ar"
-sourceContentHash: "8bb8f4e4a270c076"
+sourceContentHash: "367beba319f714eb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_kebangsaan,_Kota_warisan,_selangor,_my.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-1.webp
+    alt: المبنى التدريسي الرئيسي لمدرسة ابتدائية وطنية في آير كيروه بملقا، وهو نوع المدارس الحكومية الذي تسجّل فيه معظم الأسر أطفالها.
+    kind: actual
+    origin: third-party
+    subject: Sekolah Kebangsaan Ayer Keroh، ملقا
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayer_Keroh_National_School_main_building_back.jpg
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-2.webp
+    alt: ممرّ مسقوف تحفّه الأعلام الماليزية يفضي إلى بوابة مدرسة حكومية، وهو الطريق الذي يسلكه التلاميذ الجدد في أول يوم تسجيل لهم.
+    kind: representative
+    origin: third-party
+    subject: ممرّ الدخول المحاط بالأعلام إلى مدرسة حكومية ماليزية
+    credit: Fadidfadilah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:LALUAN_MASUK_KE_SEKOLAH.jpg
 ---
 
 يُفاجأ كثير من أولياء الأمور حين يجدون أنهم لا يستطيعون «تسجيل» طفلهم في الصف الأول

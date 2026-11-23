@@ -29,7 +29,7 @@ faq:
     a: "공식 학사 일정은 매년 학년도 시작 전에 Surat Siaran KPM과 moe.gov.my 포털을 통해 발표됩니다. 날짜는 매년 바뀌므로 정확한 날짜는 공식 자료를 참고하십시오."
 
 lang: "ko"
-sourceContentHash: "d8dc796d9fea25f6"
+sourceContentHash: "d7bb77ea8047230b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-1.webp
+    alt: 깃발이 늘어선 말레이시아 한 학교의 텅 빈 조회 광장으로, 학생들은 매일 아침 이곳에 모인 뒤 그날의 첫 수업을 시작한다.
+    kind: representative
+    origin: third-party
+    subject: 말레이시아 학교의 조회 운동장(tapak perhimpunan)
+    credit: Fadzuan Ehsan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Suasana_Sekolah_3.jpg
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-2.webp
+    alt: 그날의 수업이 끝나자 교복을 입은 두 여학생이 오토바이를 타고 랑카위의 도로를 따라 집으로 돌아간다.
+    kind: representative
+    origin: third-party
+    subject: 랑카위에서 수업을 마치고 집으로 향하는 교복 차림의 여학생들
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_School-girls-on-a-motorbike-01.jpg
 ---
 
 연초에 가족 여행을 계획하다 보면 한 가지 사실을 금방 깨닫게 됩니다. 켈란탄(Kelantan)에 사는 이웃의 아이가 슬랑오르(Selangor)에 사는 여러분의 아이보다 하루 먼저 개학한다는 점입니다. 이것은 실수가 아니라 말레이시아 학사 일정이 설계된 방식입니다.

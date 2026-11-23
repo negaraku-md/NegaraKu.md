@@ -20,7 +20,7 @@ appliesTo: "中学3年（Tingkatan 3）またはSPM修了後の学生、子ど�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "1f78c1d4c5cb8fba"
+sourceContentHash: "4f35bcba22c98fdc"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -71,6 +71,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kolej_Vokasional_Sungai_Buloh_1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-1.webp
+    alt: サバ州キナルットにある職業技能訓練の校舎、Montfort青少年訓練センターの屋根付き中央ホール。ステージの横断幕には「Through Work Achieve Success」と記されている。
+    kind: actual
+    origin: third-party
+    subject: マレーシアの青少年技能訓練センターの内部
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kinarut_Sabah_MontfortYouthTrainingCenter-16.jpg
+  - role: scene
+    src: /media/education/tvet-and-skills-training/body-2.webp
+    alt: サバ州のPoliteknik Kota Kinabaluにある、曲線を描く屋根付きの入口通路と近代的な校舎。
+    kind: actual
+    origin: third-party
+    subject: マレーシアのポリテクニック（Politeknik）のキャンパス（コタキナバル・ポリテクニック）
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_PoliteknikKotaKinabalu-03.jpg
 ---
 
 多くの中学3年生とその保護者は、中等教育修了後の道はSPM、STPM、学位取得という一本道しかないと考えている。しかし、この国には実はもう一つの完全な教育制度が存在する——独自の機関、独自の証明書、独自の法律を備えながら、正しく説明されることがほとんどない制度だ。それがTVET、すなわち技術・職業教育訓練（Pendidikan dan Latihan Teknikal dan Vokasional）である。

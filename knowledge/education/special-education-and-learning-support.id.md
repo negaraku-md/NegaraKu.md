@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Orang tua dan wali anak di Malaysia yang memiliki disabilitas atau kesulitan belajar yang terdiagnosis, yang berupaya memahami penempatan sekolah dan langkah pendaftaran mana yang berlaku."
 
 lang: "id"
-sourceContentHash: "9436b58ec227f7f0"
+sourceContentHash: "a7a8e48d189106f5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:GURU_DAN_PPM_PPKI_SMK_TAMAN_UNIVERSITI.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-1.webp
+    alt: Pintu masuk dan gapura selamat datang SK Pendidikan Khas Batu Pahat, sebuah sekolah dasar pendidikan khusus negeri di Johor, dengan papan nama berbahasa Melayu di gerbang.
+    kind: actual
+    origin: third-party
+    subject: Sebuah sekolah pendidikan khusus kebangsaan di Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SK_Pendidikan_Khas_Batu_Pahat.jpg
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-2.webp
+    alt: Blok ruang kelas kayu satu lantai sebuah sekolah dasar negeri pedesaan di Pensiangan, Sabah, berlatar belakang bukit berhutan.
+    kind: representative
+    origin: third-party
+    subject: Gedung sekolah dasar negeri di Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pensiangan_Sabah_SRK-Pensiangan-06.jpg
 ---
 
 Diagnosis hanyalah percakapan pertama. Percakapan kedua — sering kali lebih membingungkan — adalah jalur sekolah mana yang sebenarnya dimasuki anak Anda, dan mengapa kartu OKU tampaknya penting sebelum sekolah itu sendiri. Sistem Malaysia memiliki tiga jalur publik, satu proses pendaftaran disabilitas yang terpisah yang menyalurkan ke ketiganya, dan satu dunia paralel terapi swasta dan NGO yang kebanyakan orang tua temukan dari mulut ke mulut dan bukan dari satu laman resmi tunggal mana pun.

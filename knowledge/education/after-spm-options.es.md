@@ -27,7 +27,7 @@ faq:
   - q: "¿Una ruta de diploma o de TVET es peor que ir a la universidad?"
     a: "No. Una ruta de diploma o de TVET conduce a un trabajo cualificado y empleable y normalmente mantiene abierto un camino de regreso hacia un grado mediante la transferencia de créditos o una categoría de admisión aparte. Para muchos campos — oficios de ingeniería, hostelería, TI, diseño — es una ruta más rápida y más directa hacia el trabajo que un grado general. La mejor pregunta no es cuál ruta tiene más estatus, sino cuál conduce adonde quieres llegar."
 lang: "es"
-sourceContentHash: "19406003070adaf4"
+sourceContentHash: "809a134dceb4f5ea"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Malaya_KL_gate.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/after-spm-options/body-1.webp
+    alt: Un edificio de facultad de la Universiti Malaya, una de las vías universitarias públicas a las que un estudiante puede aspirar tras el SPM.
+    kind: actual
+    origin: third-party
+    subject: Edificio de la Facultad de Educación, Universiti Malaya
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Building_of_Faculty_of_Education_Universiti_Malaya.jpg
+  - role: scene
+    src: /media/education/after-spm-options/body-2.webp
+    alt: Los bloques de facultad, biblioteca y administración del campus de la sucursal UiTM Rembau, una vía de educación terciaria pública abierta a quienes acaban el SPM.
+    kind: actual
+    origin: third-party
+    subject: Campus de la UiTM Rembau, Negeri Sembilan
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg
 ---
 
 El sobre se abre y, con él, llega la pregunta de verdad. No *cómo me fue* —ese

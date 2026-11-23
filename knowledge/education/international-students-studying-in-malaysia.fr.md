@@ -33,7 +33,7 @@ faq:
     a: "Les deux types peuvent être autorisés à accueillir des étudiants internationaux, mais ils relèvent de parties distinctes du cadre du Pass d'étudiant et diffèrent généralement quant aux programmes et à la capacité d'admission ouverts aux candidats étrangers par rapport aux nationaux. Confirmez directement auprès du bureau international de l'établissement lesquels de vos programmes visés sont ouverts à l'inscription de non-ressortissants avant de postuler."
 
 lang: "fr"
-sourceContentHash: "7261a5b72201747a"
+sourceContentHash: "00e475894d31159f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-1.webp
+    alt: L'entrée principale signalée et bordée de verdure de la University of Nottingham Malaysia, une antenne britannique qui accueille de nombreux étudiants internationaux.
+    kind: actual
+    origin: third-party
+    subject: Entrée principale de la University of Nottingham Malaysia
+    credit: Faizalrahmat85 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-2.webp
+    alt: Le soleil de l'après-midi sur le bâtiment principal à colonnade de la Xiamen University Malaysia, une antenne chinoise près de Kuala Lumpur qui attire des étudiants de l'étranger.
+    kind: actual
+    origin: third-party
+    subject: Campus de la Xiamen University Malaysia, Sepang
+    credit: Xiamen University Malaysia / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Xiamen_University_Malaysia_at_afternoon.jpg
 ---
 
 Une lettre d'offre émanant du mauvais type d'établissement ne vaut rien pour un visa, même si le programme lui-même est parfaitement accrédité. Cette distinction — programme accrédité par rapport à établissement autorisé pour les étudiants internationaux — est là où naît la plupart de la confusion, bien avant que quiconque ne remplisse un formulaire de l'EMGS.

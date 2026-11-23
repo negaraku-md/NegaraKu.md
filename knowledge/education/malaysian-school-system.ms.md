@@ -69,7 +69,7 @@ keywords:
   - SPM
   - Education Act 1996
   - Ministry of Education Malaysia
-sourceContentHash: "963327281cb05deb"
+sourceContentHash: "31f4f717fb5af86b"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -88,6 +88,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Seksyen_3_Bandar_Kinrara_Aerial_View.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-school-system/body-1.webp
+    alt: Fasad sebuah bangunan sekolah menengah di Malaysia dengan tiang bendera dan laman hadapan
+    kind: representative
+    origin: third-party
+    subject: Bangunan sekolah menengah kebangsaan di Malaysia (SMK Cheras)
+    credit: Mysiddiq / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Cheras.JPG
+  - role: scene
+    src: /media/education/malaysian-school-system/body-2.webp
+    alt: Sekumpulan pelajar sekolah menengah di Malaysia memakai pakaian seragam sekolah mereka yang tersendiri di luar bangunan
+    kind: representative
+    origin: third-party
+    subject: Pelajar sekolah menengah di Malaysia berpakaian seragam sekolah (Sandakan, Sabah)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg
 ---
 
 Bagi seorang kanak-kanak yang membesar di Malaysia, soalan "sekolah mana?" membawa makna yang lebih mendalam berbanding di banyak negara. Sebahagiannya tentang jarak dan reputasi, seperti di mana-mana sahaja — tetapi ia juga merupakan pilihan antara sekolah kebangsaan yang mengajar terutamanya dalam bahasa Melayu dan sekolah jenis kebangsaan yang mengajar dalam bahasa Cina atau Tamil. Kedua-duanya adalah sebahagian daripada sistem awam yang sama, mengikut kurikulum kebangsaan yang sama, dan membawa kepada peperiksaan kebangsaan yang sama. Memahami bagaimana sistem itu bergabung bersama ialah langkah pertama untuk menavigasinya.

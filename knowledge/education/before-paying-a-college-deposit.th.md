@@ -35,7 +35,7 @@ faq:
 
 lang: "th"
 translationStatus: "in-sync"
-sourceContentHash: "7d63f469a6fa2d2e"
+sourceContentHash: "35aa2e7145637cfb"
 masterLanguage: "en"
 
 status: "published"
@@ -101,6 +101,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-1.webp
+    alt: ผนังกระจกด้านหน้าของวิทยาเขตมาเลเซีย RCSI และ UCD ซึ่งเป็นมหาวิทยาลัยเอกชนประเภทที่เรียกเก็บเงินมัดจำการลงทะเบียนจากนักศึกษาใหม่
+    kind: actual
+    origin: third-party
+    subject: วิทยาเขตมาเลเซีย RCSI และ UCD (RUMC) รัฐปีนัง
+    credit: RUMC / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RUMC_Facade.jpg
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-2.webp
+    alt: อาคารเรียนทันสมัยในวิทยาเขตมหาวิทยาลัยซันเวย์ สถาบันเอกชนที่ผู้สมัครชั่งน้ำหนักค่าเล่าเรียนและเงินมัดจำก่อนตัดสินใจเข้าเรียน
+    kind: actual
+    origin: third-party
+    subject: อาคารวิทยาเขตมหาวิทยาลัยซันเวย์ บันดาร์ซันเวย์
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_University_new_building.jpg
 ---
 
 เงินมัดจำมักเป็นเงินก้อนแรกที่ครอบครัวมอบให้วิทยาลัย และเมื่อจ่ายไปแล้ว ก็มักเป็น

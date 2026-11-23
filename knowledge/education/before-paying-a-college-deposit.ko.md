@@ -35,7 +35,7 @@ faq:
 
 lang: "ko"
 translationStatus: "in-sync"
-sourceContentHash: "7d63f469a6fa2d2e"
+sourceContentHash: "35aa2e7145637cfb"
 masterLanguage: "en"
 
 status: "published"
@@ -101,6 +101,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-1.webp
+    alt: RCSI·UCD 말레이시아캠퍼스의 유리 외벽으로, 신입생에게 입학 보증금을 요구하는 부류의 사립대학이다.
+    kind: actual
+    origin: third-party
+    subject: RCSI·UCD 말레이시아캠퍼스(RUMC), 페낭주
+    credit: RUMC / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RUMC_Facade.jpg
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-2.webp
+    alt: 선웨이대학교 캠퍼스의 현대식 강의동으로, 지원자가 등록을 결정하기 전에 학비와 보증금을 따져 보는 사립 교육기관이다.
+    kind: actual
+    origin: third-party
+    subject: 선웨이대학교 캠퍼스 건물(반다르선웨이)
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_University_new_building.jpg
 ---
 
 예치금은 보통 가정이 대학에 처음으로 건네는 돈이며, 일단 내고 나면

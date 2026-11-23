@@ -29,7 +29,7 @@ faq:
     a: "ASASIpintar est le programme préuniversitaire de fondation de l'UKM pour les élèves surdoués et talentueux, proposé en trois filières : Perdana, Commercial et International."
 
 lang: "fr"
-sourceContentHash: "e8dbefcac0cbb3a6"
+sourceContentHash: "c86cbb495d10ed97"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-1.webp
+    alt: Des élèves assis devant des rangées d'ordinateurs de bureau pendant un cours dans le laboratoire informatique d'un collège-lycée malaisien.
+    kind: representative
+    origin: third-party
+    subject: Élèves au travail dans le laboratoire informatique d'une école malaisienne
+    credit: Smkda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Makmal_komputer_1.jpg
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-2.webp
+    alt: Un laboratoire de recherche universitaire de l'UTM à Johor, équipé de véhicules et d'instruments, le type d'installation de pointe qui stimule les apprenants à haut potentiel.
+    kind: representative
+    origin: third-party
+    subject: Laboratoire d'ingénierie de pointe de l'Universiti Teknologi Malaysia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UTM-Proton_Future_Drive_Laboratory.jpg
 ---
 
 Un enfant de 10 ans capable de résoudre des mathématiques de Form Five ne se distingue pas toujours dans une classe ordinaire — et en Malaisie, le seul centre national conçu pour trouver et cultiver des esprits comme ceux-ci est PERMATApintar.

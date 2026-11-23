@@ -29,7 +29,7 @@ faq:
     a: "Les demandes se font en ligne via le portail du MOE, et les élèves sont filtrés par l'Évaluation d'admission aux écoles spéciales (PKSK), avec les résultats scolaires et parascolaires."
 
 lang: "fr"
-sourceContentHash: "d9161aa5a0f5aff2"
+sourceContentHash: "634c5a870f713575"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:MRSM_Batu_Pahat,_Batu_Pahat_20250207_162623.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/mrsm-and-fully-residential-schools/body-1.webp
+    alt: Le panneau d'entrée et le portail du MARA Junior Science College (MRSM) Gemencheh, au bord d'une route de campagne.
+    kind: actual
+    origin: third-party
+    subject: Entrée principale du MARA Junior Science College (MRSM) Gemencheh
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRSM_Gemencheh.jpg
+  - role: scene
+    src: /media/education/mrsm-and-fully-residential-schools/body-2.webp
+    alt: Panorama des bâtiments et des terrains du campus d'un internat scolaire malaisien à Melaka.
+    kind: actual
+    origin: third-party
+    subject: Campus d'un internat scolaire, Sekolah Berasrama Penuh Integrasi (SBPI) Melaka
+    credit: Mra1001 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBPIS_MELAKA_2.jpg
 ---
 
 Deux noms reviennent souvent lorsque les familles malaisiennes parlent des « meilleurs » internats pour leurs enfants : MRSM et SBP. Ce sont tous deux des collèges entièrement résidentiels et sélectifs, tous deux farouchement difficiles d'accès — mais ils sont gérés par deux organismes différents, selon deux mandats politiques différents.

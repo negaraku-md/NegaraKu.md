@@ -31,7 +31,7 @@ faq:
   - q: "Học xong 独中 có thể học tiếp ở đâu?"
     a: "Con đường học tiếp của học sinh 独中 rất đa dạng. Nhiều người dùng chứng chỉ UEC để học tiếp tại các trường cao đẳng/đại học tư thục trong nước hoặc đại học nước ngoài, và một số học sinh cũng dự thi SPM để giữ thêm lựa chọn. Các cơ sở giáo dục đại học Hoa văn trong nước gồm New Era University College, Southern University College và Han Chiang University College of Communication, v.v., đều phát triển từ hệ thống giáo dục Hoa văn. Từ năm 2026, học sinh UEC đáp ứng các điều kiện cụ thể cũng có thể nộp đơn vào một số chương trình của đại học công lập qua một lộ trình mới."
 lang: "vi"
-sourceContentHash: "11102fbd9b87b7f9"
+sourceContentHash: "3fde1ff0d6a51181"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(C)_Chun_Yin_(260103).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-1.webp
+    alt: Khuôn viên rợp bóng cây của Chung Ling High School ở Penang, một trong những trường trung học dạy bằng tiếng Hoa lâu đời của Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Chung Ling High School, Penang
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_High_School_(October_2022).jpg
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-2.webp
+    alt: Lối vào và bảng tên của SJK(C) Confucian ở Kuala Lumpur, một trong những trường tiểu học dạy bằng tiếng Hoa được nhà nước trợ cấp, cung cấp học sinh cho hệ thống trường tiếng mẹ đẻ.
+    kind: actual
+    origin: third-party
+    subject: SJK(C) Confucian, một trường tiểu học dạy bằng tiếng Hoa ở Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(C)_Confucian.jpg
 ---
 
 Sáng sớm, trên sân một trường tiểu học Hoa vang lên tiếng Hoa, tiếng Mã Lai và tiếng Anh hòa quyện vào nhau; cách đó vài bang, trong hội trường một trường trung học tư thục Hoa (独中), học sinh đang chuẩn bị cho kỳ thi UEC (统考) cuối năm; còn ở Johor và Penang, những trường cao đẳng đại học phát triển từ hệ thống giáo dục Hoa văn đang đón lứa sinh viên mới. Những khung cảnh này đều thuộc về một dòng mạch — giáo dục Hoa văn ở Malaysia — nhưng nằm ở các cấp khác nhau, chịu những cách tài trợ và sắp đặt pháp lý khác nhau.

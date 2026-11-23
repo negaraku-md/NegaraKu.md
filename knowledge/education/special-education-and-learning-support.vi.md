@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Phụ huynh và người chăm sóc một đứa trẻ tại Malaysia được chẩn đoán khuyết tật hoặc có khó khăn học tập đang cố xác định việc xếp lớp học nào và các bước đăng ký nào áp dụng."
 
 lang: "vi"
-sourceContentHash: "9436b58ec227f7f0"
+sourceContentHash: "a7a8e48d189106f5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:GURU_DAN_PPM_PPKI_SMK_TAMAN_UNIVERSITI.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-1.webp
+    alt: Lối vào và cổng chào của SK Pendidikan Khas Batu Pahat, một trường tiểu học giáo dục đặc biệt công lập ở Johor, với các biển hiệu bằng tiếng Mã Lai ở cổng.
+    kind: actual
+    origin: third-party
+    subject: Một trường giáo dục đặc biệt quốc gia Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SK_Pendidikan_Khas_Batu_Pahat.jpg
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-2.webp
+    alt: Khối lớp học bằng gỗ một tầng của một trường tiểu học công lập nông thôn ở Pensiangan, Sabah, trên nền những ngọn đồi rừng.
+    kind: representative
+    origin: third-party
+    subject: Tòa nhà một trường tiểu học công lập Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pensiangan_Sabah_SRK-Pensiangan-06.jpg
 ---
 
 Một chẩn đoán chỉ là cuộc trò chuyện đầu tiên. Cuộc trò chuyện thứ hai — thường khiến người ta bối rối hơn — là lối trường học nào con bạn thực sự sẽ vào, và vì sao thẻ OKU dường như quan trọng trước cả nhà trường. Hệ thống của Malaysia có ba lối công lập, một quy trình đăng ký khuyết tật riêng dẫn vào tất cả các lối đó, và một thế giới song song gồm trị liệu tư nhân và của các tổ chức phi chính phủ mà hầu hết phụ huynh biết đến qua truyền miệng chứ không phải qua bất kỳ trang chính thức đơn lẻ nào.

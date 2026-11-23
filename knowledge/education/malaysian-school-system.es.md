@@ -69,7 +69,7 @@ keywords:
   - SPM
   - Education Act 1996
   - Ministry of Education Malaysia
-sourceContentHash: "963327281cb05deb"
+sourceContentHash: "31f4f717fb5af86b"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -88,6 +88,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Seksyen_3_Bandar_Kinrara_Aerial_View.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-school-system/body-1.webp
+    alt: Fachada del edificio de una escuela secundaria malasia con un mástil de bandera y una explanada de entrada.
+    kind: representative
+    origin: third-party
+    subject: Edificio de una escuela secundaria nacional malasia (SMK Cheras)
+    credit: Mysiddiq / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Cheras.JPG
+  - role: scene
+    src: /media/education/malaysian-school-system/body-2.webp
+    alt: Un grupo de estudiantes de secundaria malasios con sus característicos uniformes escolares al aire libre.
+    kind: representative
+    origin: third-party
+    subject: Estudiantes de secundaria malasios con su uniforme escolar (Sandakan, Sabah)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg
 ---
 
 Para un niño que crece en Malasia, la pregunta "¿qué escuela?" encierra más significado que en muchos países. En parte tiene que ver con la distancia y la reputación, como en todas partes, pero también es una elección entre una escuela nacional que enseña principalmente en malayo y una escuela de tipo nacional que enseña en chino o tamil. Ambas forman parte del mismo sistema público, siguen el mismo plan de estudios nacional y conducen a los mismos exámenes nacionales. Entender cómo encaja ese sistema es el primer paso para desenvolverse en él.

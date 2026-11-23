@@ -34,7 +34,7 @@ faq:
     a: "Universitas swasta umumnya juga memerlukan bukti kemampuan bahasa Inggris. Pelajar lokal biasanya menyerahkan hasil MUET, sedangkan kualifikasi setara seperti IELTS atau TOEFL dapat diterima tergantung program dan institusi."
 
 lang: "id"
-sourceContentHash: "a815609cdc3d3e77"
+sourceContentHash: "fd15f9ab20d97160"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-1.webp
+    alt: Interior sebuah aula sekolah yang luas di Malaysia yang dipakai sebagai tempat ujian, lengkap dengan panggung dan deretan ruang lantai
+    kind: representative
+    origin: third-party
+    subject: Aula sekolah di Malaysia yang digunakan untuk menempuh ujian
+    credit: LM UPSI 2019 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-2.webp
+    alt: Pemandangan dari udara kompleks ruang kuliah di kampus sebuah universitas di Malaysia
+    kind: representative
+    origin: third-party
+    subject: Kompleks ruang kuliah di Universiti Pendidikan Sultan Idris (UPSI)
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg
 ---
 
 Anda bisa cemerlang dalam STPM atau matrikulasi, tetapi tanpa satu hasil lagi, formulir pengajuan program sarjana Anda masih belum lengkap. Hasil itu adalah MUET — dan banyak pelajar baru menyadari pentingnya ketika tanggal penutupan pendaftaran universitas sudah mendekat.

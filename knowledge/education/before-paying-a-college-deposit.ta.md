@@ -35,7 +35,7 @@ faq:
 
 lang: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "7d63f469a6fa2d2e"
+sourceContentHash: "35aa2e7145637cfb"
 masterLanguage: "en"
 
 status: "published"
@@ -101,6 +101,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-1.webp
+    alt: RCSI & UCD Malaysia Campus-இன் கண்ணாடி முகப்பு; புதிய மாணவர்களிடம் சேர்க்கை முன்பணம் கேட்கும் வகையைச் சேர்ந்த தனியார் பல்கலைக்கழகம்.
+    kind: actual
+    origin: third-party
+    subject: RCSI & UCD Malaysia Campus (RUMC), Penang
+    credit: RUMC / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RUMC_Facade.jpg
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-2.webp
+    alt: Sunway University வளாகத்தில் உள்ள நவீன கற்பித்தல் தொகுதி; விண்ணப்பதாரர்கள் சேர்வதற்கு முன் கட்டணங்களையும் முன்பணங்களையும் எடைபோடும் தனியார் நிறுவனம்.
+    kind: actual
+    origin: third-party
+    subject: Sunway University வளாகக் கட்டிடம், Bandar Sunway
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_University_new_building.jpg
 ---
 
 டெபாசிட் என்பது பொதுவாக ஒரு குடும்பம் கல்லூரிக்குக் கொடுக்கும் முதல் தொகை — மேலும், ஒருமுறை

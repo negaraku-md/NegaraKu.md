@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "a815609cdc3d3e77"
+sourceContentHash: "fd15f9ab20d97160"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-1.webp
+    alt: 試験会場として使われるマレーシアの大きな学校講堂の内部。舞台と床面に並ぶ座席スペースがある
+    kind: representative
+    origin: third-party
+    subject: 試験会場として使われるマレーシアの学校の講堂（dewan）
+    credit: LM UPSI 2019 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-2.webp
+    alt: マレーシアの大学キャンパスにある講堂群を上空から捉えた眺め
+    kind: representative
+    origin: third-party
+    subject: スルタン・イドリス教育大学(UPSI)の講堂群
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg
 ---
 
 STPMや予科（matrikulasi）で優秀な成績を収めていても、もう一つの結果がなければ、学位への出願書類は完成しない。その結果とはMUETのことであり、多くの学生は大学の出願締切が迫ってから、ようやくその重要性に気づく。

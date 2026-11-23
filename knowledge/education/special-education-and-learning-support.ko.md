@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "진단받은 장애나 학습 곤란이 있는 말레이시아 아동의 학부모와 보호자로서, 어떤 학교 배치와 어떤 등록 단계가 적용되는지 파악하려는 사람."
 
 lang: "ko"
-sourceContentHash: "9436b58ec227f7f0"
+sourceContentHash: "a7a8e48d189106f5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -69,6 +69,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:GURU_DAN_PPM_PPKI_SMK_TAMAN_UNIVERSITI.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-1.webp
+    alt: 조호르주의 정부 특수교육 초등학교 SK Pendidikan Khas Batu Pahat의 입구와 환영 아치로, 정문에 말레이어 간판이 세워져 있다.
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 국민 특수교육 학교
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SK_Pendidikan_Khas_Batu_Pahat.jpg
+  - role: scene
+    src: /media/education/special-education-and-learning-support/body-2.webp
+    alt: 사바주 펜시앙안에 있는 시골 정부 초등학교의 단층 목조 교실동으로, 숲이 우거진 언덕을 배경으로 서 있다.
+    kind: representative
+    origin: third-party
+    subject: 말레이시아 정부 초등학교 건물
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pensiangan_Sabah_SRK-Pensiangan-06.jpg
 ---
 
 진단은 첫 번째 대화일 뿐입니다. 두 번째 대화는 — 흔히 더 혼란스러운데 — 자녀가 실제로 어느 학교 트랙에 들어가는지, 그리고 왜 학교보다 OKU 카드가 먼저 중요해 보이는지입니다. 말레이시아의 제도에는 세 개의 공교육 트랙, 그 모두로 이어지는 별도의 장애 등록 절차, 그리고 대부분의 학부모가 단일 공식 페이지가 아니라 입소문으로 알게 되는 민간·NGO 치료의 병행 세계가 있습니다.

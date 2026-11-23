@@ -29,7 +29,7 @@ faq:
     a: "โดยทั่วไปไม่ได้ ทุนเต็มจำนวนเช่น JPA และ MARA มักกำหนดให้นักเรียนสละ PTPTN สำหรับระดับการศึกษาเดียวกัน ตรวจสอบเงื่อนไขข้อตกลงของผู้อุปถัมภ์แต่ละราย"
 
 lang: "th"
-sourceContentHash: "df0ebd67e147cbc0"
+sourceContentHash: "30bf9e16f01f6ac5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-1.webp
+    alt: อาคารวิชาการทันสมัยและพื้นที่จัดภูมิทัศน์ที่วิทยาเขตวิศวกรรมของมหาวิทยาลัยวิทยาศาสตร์มาเลเซีย (USM)
+    kind: representative
+    origin: third-party
+    subject: วิทยาเขตวิศวกรรม มหาวิทยาลัยวิทยาศาสตร์มาเลเซีย (USM) มหาวิทยาลัยวิจัยของรัฐในมาเลเซีย
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-2.webp
+    alt: แถวของบัณฑิตผู้สำเร็จการศึกษาในชุดครุยและหมวกครุยนั่งอยู่ในพิธีประสาทปริญญาของมหาวิทยาลัยมาเลเซีย
+    kind: representative
+    origin: third-party
+    subject: บัณฑิตในชุดครุยในพิธีประสาทปริญญาของมหาวิทยาลัยมาเลเซีย (มหาวิทยาลัย DRB-HICOM ปี 2023)
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:DHU_1.jpg
 ---
 
 การได้ 9A+ ใน SPM ไม่ได้รับประกันทุนเต็มจำนวนไปเรียนต่อต่างประเทศเสมอไป — เพราะในมาเลเซีย การอุปถัมภ์ภาครัฐไม่ได้เป็นเพียงเรื่องของคะแนน แต่ยังเป็นเรื่องของโครงการที่คุณสมัคร เงื่อนไขการรับราชการที่ผูกพัน และนโยบายที่กำกับแต่ละกองทุน การเข้าใจแผนที่ผู้อุปถัมภ์นี้สำคัญ เพราะการเลือกผิดอาจหมายถึงเงินหลายพันริงกิตที่ต้องชำระคืนในภายหลัง

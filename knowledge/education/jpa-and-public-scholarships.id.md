@@ -29,7 +29,7 @@ faq:
     a: "Lazimnya tidak. Beasiswa penuh seperti JPA dan MARA biasanya mengharuskan pelajar melepaskan PTPTN untuk jenjang pendidikan yang sama. Periksa syarat perjanjian penaja masing-masing."
 
 lang: "id"
-sourceContentHash: "df0ebd67e147cbc0"
+sourceContentHash: "30bf9e16f01f6ac5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-1.webp
+    alt: Gedung akademik modern dan lahan bertata taman di Kampus Teknik Universiti Sains Malaysia
+    kind: representative
+    origin: third-party
+    subject: Kampus Teknik Universiti Sains Malaysia, sebuah universitas riset negeri Malaysia
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-2.webp
+    alt: Deretan wisudawan bertoga akademik dan bertopi toga yang duduk pada upacara wisuda sebuah universitas di Malaysia
+    kind: representative
+    origin: third-party
+    subject: Para wisudawan berjubah pada upacara wisuda sebuah universitas di Malaysia (DRB-HICOM University, 2023)
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:DHU_1.jpg
 ---
 
 Mendapat 9A+ dalam SPM belum tentu menjamin sekeping beasiswa penuh ke luar negeri — karena di Malaysia, penajaan publik bukan hanya soal nilai, tetapi juga soal skema mana yang Anda lamar, syarat pengabdian yang diikat, dan kebijakan yang mengatur setiap dana. Memahami peta penaja ini penting karena pilihan yang salah dapat berarti ribuan ringgit yang perlu dibayar kembali kelak.

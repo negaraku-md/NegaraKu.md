@@ -30,7 +30,7 @@ faq:
     a: "네. 말레이어는 UEC 제도의 필수 과목입니다. 많은 UEC 학생이 개인 응시자로 SPM도 치릅니다. 둥종은 SMPC 학생 사이의 SPM 말레이어 합격률이 2022–2024년 96%를 넘었다고(2022년 97.38%, 2023년 97.11%, 2024년 96.65%) 다른 응시자와 같은 SPM 시험지를 사용해 보고합니다."
 
 lang: "ko"
-sourceContentHash: "1f2605f6949b7811"
+sourceContentHash: "e144ffe426e25ff1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Sekolah-Tinggi-Cina-Sabah-06.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-1.webp
+    alt: 조호르바루 푼유중학교(Sekolah Menengah Foon Yew, 寬柔中學)의 입구 아치와 교명판으로, 조호르주 깃발과 교표가 함께 있다.
+    kind: actual
+    origin: third-party
+    subject: 푼유중학교(寬柔中學), 조호르바루의 중국어 독립중학교
+    credit: Kaart @ Mapillary.com / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School.jpg
+  - role: scene
+    src: /media/education/unified-examination-certificate-uec/body-2.webp
+    alt: 조호르바루 푼유중학교의 여러 층짜리 도서관 건물(Perpustakaan)로, 타일을 깐 현관 위에 말레이어와 중국어로 명칭이 표시되어 있다.
+    kind: actual
+    origin: third-party
+    subject: 푼유중학교의 도서관 건물
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Foon_Yew_High_School_Library.jpg
 ---
 
 세 글자 — UEC — 는 말레이시아 교육 정치에서 반세기 넘게 이어지는 논쟁을 촉발할 수 있습니다. 어떤 이들에게 그것은 세계 명문 대학교로 가는 문을 여는 국제적 자격증이고, 다른 이들에게는 국어의 지위와 국가 교육 정책을 건드리는 것입니다. 두 견해는 동시에 존재하며, 전체 그림을 보려면 둘 다 이해해야 합니다.

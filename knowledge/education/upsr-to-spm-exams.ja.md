@@ -50,7 +50,27 @@ sources:
     publisher: "Sinar Harian"
     date: "2021-04-28"
   - title: "PT3は2022年から廃止 - 教育大臣 (PT3 dimansuhkan mulai 2022 - Menteri Pendidikan)"
-    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022---menteri-pendidikan"
+    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022
+images:
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-1.webp
+    alt: サバ州のSMK Bugaya IIの、青と黄色が鮮やかな学校講堂（dewan）。SPMなどの公的試験が行われる類の講堂である。
+    kind: representative
+    origin: third-party
+    subject: 公的試験に使われる類のマレーシアの中等学校の講堂（dewan）
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-2.webp
+    alt: サバ州の政府中等学校SMK Sapulutの、多層階の教室棟。
+    kind: actual
+    origin: third-party
+    subject: マレーシアの中等学校（SMK Sapulut）
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
+---menteri-pendidikan"
     publisher: "mStar"
     date: "2022-06-02"
   - title: "PT3・UPSRの必要性を再検討 - ファドリナ (Keperluan PT3, UPSR dikaji semula - Fadhlina)"

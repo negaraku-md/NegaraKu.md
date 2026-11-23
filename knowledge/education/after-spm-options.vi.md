@@ -27,7 +27,7 @@ faq:
   - q: "Con đường diploma hay TVET có tệ hơn việc vào đại học không?"
     a: "Không. Một con đường diploma hay TVET dẫn vào công việc có tay nghề, dễ tìm việc và thường giữ mở một con đường trở lại một bằng cử nhân qua chuyển tín chỉ hoặc một loại tuyển sinh riêng. Đối với nhiều lĩnh vực — các nghề kỹ thuật, khách sạn, CNTT, thiết kế — đó là một con đường nhanh hơn và trực tiếp hơn đến việc làm so với một bằng cử nhân tổng quát. Câu hỏi tốt hơn không phải là con đường nào có địa vị cao hơn, mà là con đường nào dẫn đến nơi bạn muốn đến."
 lang: "vi"
-sourceContentHash: "19406003070adaf4"
+sourceContentHash: "809a134dceb4f5ea"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Malaya_KL_gate.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/after-spm-options/body-1.webp
+    alt: Một tòa nhà khoa tại Universiti Malaya, một trong những lộ trình lấy bằng đại học công lập mà sinh viên có thể hướng tới sau kỳ thi SPM.
+    kind: actual
+    origin: third-party
+    subject: Tòa nhà Khoa Giáo dục, Universiti Malaya
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Building_of_Faculty_of_Education_Universiti_Malaya.jpg
+  - role: scene
+    src: /media/education/after-spm-options/body-2.webp
+    alt: Các khối nhà khoa, thư viện và hành chính của phân hiệu UiTM Rembau, một lộ trình giáo dục đại học công lập mở cho những người vừa hoàn thành SPM.
+    kind: actual
+    origin: third-party
+    subject: Khuôn viên UiTM Rembau, Negeri Sembilan
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg
 ---
 
 Phong bì mở ra và câu hỏi thực sự đến cùng với nó. Không phải *mình đã làm bài

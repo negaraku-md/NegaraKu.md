@@ -33,7 +33,7 @@ faq:
 
 lang: "vi"
 translationStatus: "in-sync"
-sourceContentHash: "d8f3e63e8e371c06"
+sourceContentHash: "f1edb16bb1e0f23c"
 masterLanguage: "en"
 
 status: "published"
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-1.webp
+    alt: Những hàng ghế bậc thang trong một giảng đường đại học Malaysia, loại giảng đường nơi sinh viên theo học bằng cấp và kế toán chuyên nghiệp dự lớp.
+    kind: actual
+    origin: third-party
+    subject: Giảng đường đại học tại Universiti Malaysia Sabah
+    credit: Mfook / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Kuliah_Pusat.JPG
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-2.webp
+    alt: Những dãy bàn học cá nhân yên tĩnh trong thư viện Universiti Malaya, nơi sinh viên miệt mài với các môn thi bằng cấp và ACCA hoặc CIMA.
+    kind: representative
+    origin: third-party
+    subject: Bàn học trong thư viện Universiti Malaya
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engine_library_Oct_2021_empty_view_desks.jpg
 ---
 
 Bất cứ ai quyết định cách trở thành kế toán ở Malaysia đều lập tức đâm vào một mớ chữ viết tắt: **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE.** Nó trông như một thực đơn các chứng chỉ cạnh tranh mà bạn phải chọn giữa chúng. Cách hiểu đúng hơn là **một đích đến với vài con đường dẫn tới đó** — và một khi bạn nhìn ra đích đến, các lựa chọn sẽ vào đúng chỗ của chúng.

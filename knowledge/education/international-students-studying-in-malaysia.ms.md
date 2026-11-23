@@ -35,7 +35,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7261a5b72201747a"
+sourceContentHash: "00e475894d31159f"
 
 status: "published"
 aiAssisted: true
@@ -98,6 +98,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-1.webp
+    alt: Pintu masuk utama University of Nottingham Malaysia yang berpapan tanda dan dikelilingi tumbuhan hijau, sebuah kampus cawangan British yang menerima ramai pelajar antarabangsa.
+    kind: actual
+    origin: third-party
+    subject: Pintu masuk utama University of Nottingham Malaysia
+    credit: Faizalrahmat85 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-2.webp
+    alt: Cahaya matahari petang menerangi bangunan utama bertiang Xiamen University Malaysia, sebuah kampus cawangan China berhampiran Kuala Lumpur yang menarik pelajar dari luar negara.
+    kind: actual
+    origin: third-party
+    subject: Kampus Xiamen University Malaysia, Sepang
+    credit: Xiamen University Malaysia / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Xiamen_University_Malaysia_at_afternoon.jpg
 ---
 
 Surat tawaran daripada institusi yang salah jenis tidak bernilai untuk tujuan visa, walaupun program itu sendiri diakreditasi dengan sempurna. Perbezaan itu — program yang diakreditasi berbanding institusi yang diluluskan untuk pelajar antarabangsa — adalah punca kebanyakan kekeliruan bermula, jauh sebelum sesiapa pun mengisi borang EMGS.

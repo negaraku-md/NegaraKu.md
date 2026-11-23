@@ -29,7 +29,7 @@ faq:
     a: "ASASIpintar是UKM为资优生开设的大学预科课程，分三个源流开办，即Perdana、Komersial和Antarabangsa。"
 
 lang: "zh"
-sourceContentHash: "e8dbefcac0cbb3a6"
+sourceContentHash: "c86cbb495d10ed97"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-1.webp
+    alt: 马来西亚一所中学电脑室里，学生在课堂上坐在一排排台式电脑前。
+    kind: representative
+    origin: third-party
+    subject: 马来西亚学校电脑室里埋头学习的学生
+    credit: Smkda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Makmal_komputer_1.jpg
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-2.webp
+    alt: 位于柔佛的马来西亚工艺大学（UTM）一间大学研究实验室，配备车辆与仪器，这类先进设施能挑战资优学生的潜能。
+    kind: representative
+    origin: third-party
+    subject: 马来西亚工艺大学（UTM）的一间高端工程实验室
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UTM-Proton_Future_Drive_Laboratory.jpg
 ---
 
 一个能解出中五数学的10岁孩子，在普通课堂里未必能崭露头角——而在马来西亚，唯一为发掘和磨砺这类心智而设的国家中心，就是PERMATApintar。

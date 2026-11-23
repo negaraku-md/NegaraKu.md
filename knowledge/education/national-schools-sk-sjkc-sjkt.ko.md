@@ -29,7 +29,7 @@ faq:
     a: "SJKC와 SJKT 학생은 국민 중등학교(SMK, 교수 언어는 말레이어)로, 또는 일부 SJKC 학생의 경우 역시 공립/정부 보조 학교인 국민형 중등학교(SMJK)로 진학할 수 있습니다. 초등학교에서 국민 중등학교로의 교수 언어 전환은 필요한 학생을 위한 이행반(kelas peralihan)으로 지원됩니다."
 
 lang: "ko"
-sourceContentHash: "2c9607178a97bd26"
+sourceContentHash: "2746b8c6a490da6c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Tungku_Sabah-Sekolah-Kebangsaan-Tungku-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-1.webp
+    alt: 국민형 중국어 초등학교 SJK(C) Chong San의 건물과 표지판
+    kind: actual
+    origin: third-party
+    subject: 국민형 중국어 학교, SJK(C) Chong San(페락주 바간다툭)
+    credit: Ceball1923 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekolah_Jenis_Kebangsaan_(Cina)_Chong_San.jpg
+  - role: scene
+    src: /media/education/national-schools-sk-sjkc-sjkt/body-2.webp
+    alt: 국민형 타밀어 초등학교 SJK(T) Saraswathy의 건물과 표지판
+    kind: actual
+    origin: third-party
+    subject: 국민형 타밀어 학교, SJK(T) Saraswathy(숭아이불로)
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(T)_Saraswathy,_Sungai_Buloh_01.jpg
 ---
 
 매년 등록 기간이 열리면, 말레이시아 전역의 학부모는 자녀를 1학년에 등록하기 위해 말레이시아 교육부(KPM)의 idMe 포털을 엽니다. 가장 먼저 내려야 할 선택 중 하나가 바로 SK, SJKC, SJKT입니다.

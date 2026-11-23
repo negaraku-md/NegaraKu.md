@@ -34,7 +34,7 @@ faq:
     a: "มหาวิทยาลัยเอกชนโดยทั่วไปก็ต้องการหลักฐานความสามารถทางภาษาอังกฤษ นักเรียนในประเทศมักยื่นผล MUET ขณะที่คุณวุฒิเทียบเท่าเช่น IELTS หรือ TOEFL อาจได้รับการยอมรับขึ้นอยู่กับหลักสูตรและสถาบัน"
 
 lang: "th"
-sourceContentHash: "a815609cdc3d3e77"
+sourceContentHash: "fd15f9ab20d97160"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-1.webp
+    alt: ภายในหอประชุมขนาดใหญ่ของโรงเรียนมาเลเซียที่ใช้เป็นสนามสอบ มีเวทีและพื้นที่นั่งเรียงเป็นแถวบนพื้น
+    kind: representative
+    origin: third-party
+    subject: หอประชุม (dewan) ของโรงเรียนมาเลเซียที่ใช้เป็นสถานที่สอบ
+    credit: LM UPSI 2019 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-2.webp
+    alt: ภาพมุมสูงของกลุ่มอาคารหอบรรยายในวิทยาเขตมหาวิทยาลัยมาเลเซีย
+    kind: representative
+    origin: third-party
+    subject: กลุ่มอาคารหอบรรยายที่มหาวิทยาลัยการศึกษาสุลต่านอิดริส (UPSI)
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg
 ---
 
 คุณอาจทำได้ยอดเยี่ยมใน STPM หรือ matriculation แต่หากขาดผลอีกหนึ่งอย่าง ใบสมัครปริญญาของคุณก็ยังไม่สมบูรณ์ ผลนั้นคือ MUET — และนักเรียนหลายคนตระหนักถึงความสำคัญก็ต่อเมื่อวันปิดรับสมัครมหาวิทยาลัยใกล้เข้ามาแล้ว

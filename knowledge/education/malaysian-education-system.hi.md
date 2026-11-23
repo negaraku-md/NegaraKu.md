@@ -34,7 +34,7 @@ faq:
     a: "तकनीकी और व्यावसायिक शिक्षा आंशिक रूप से शिक्षा मंत्रालय के व्यावसायिक कॉलेजों के माध्यम से और आंशिक रूप से एक अलग प्रमाणन धारा के माध्यम से चलती है — मलेशियन स्किल्स सर्टिफ़िकेट (SKM) और मलेशियन स्किल्स डिप्लोमा (DKM/DLKM) — जो मानव संसाधन मंत्रालय के अंतर्गत कौशल विकास विभाग (Jabatan Pembangunan Kemahiran) द्वारा जारी किए जाते हैं, न कि शिक्षा मंत्रालय या उच्च शिक्षा मंत्रालय द्वारा।"
 
 lang: "hi"
-sourceContentHash: "613eb3145a3df62e"
+sourceContentHash: "43689c40bbb62680"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-education-system/body-1.webp
+    alt: किसी मलेशियाई विद्यालय के स्मार्ट पुस्तकालय में मेजों पर वर्दी पहने स्कूली बच्चे टैबलेट कंप्यूटर का उपयोग करते हुए।
+    kind: representative
+    origin: third-party
+    subject: किसी विद्यालय के स्मार्ट पुस्तकालय में टैबलेट से सीखते मलेशियाई प्राथमिक विद्यार्थी
+    credit: Qwerqwer133 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murid_sekolah_Sum_Sun_menggunakan_tablet_di_perpustakaan_pintar.jpg
+  - role: scene
+    src: /media/education/malaysian-education-system/body-2.webp
+    alt: नीले आकाश के नीचे ढके हुए रास्तों वाला बहुमंजिला मलेशियाई माध्यमिक विद्यालय भवन।
+    kind: representative
+    origin: third-party
+    subject: एक मलेशियाई राष्ट्रीय माध्यमिक विद्यालय भवन (SMK Bandar Saujana Putra)
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_SMK_Bandar_Saujana_Putra.jpg
 ---
 
 तीन मलेशियाई लोगों से "शिक्षा प्रणाली" का वर्णन करने को कहें और आपको तीन अलग-अलग मानचित्र मिलेंगे। एक SK बनाम SJKC की बात करता है। दूसरा STPM बनाम मैट्रिकुलेशन की बात करता है। तीसरा एक SKM प्रमाणपत्र का उल्लेख करता है जिसके बारे में तकनीकी प्रशिक्षण से बाहर किसी ने नहीं सुना। तीनों एक ही प्रणाली का वर्णन कर रहे हैं — बस उसकी अलग-अलग शाखाओं से।

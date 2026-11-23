@@ -32,7 +32,7 @@ faq:
   - q: "淡米尔学校有教马来文与英文吗？"
     a: "有。虽然SJKT的教学媒介语是淡米尔文，但马来文（Bahasa Melayu）与英文均作为必修科目教授。因此学生在以淡米尔文接受基础教育的同时，也在马来文方面为升上国民中学作好准备。"
 lang: "zh"
-sourceContentHash: "86cb7d193d803e57"
+sourceContentHash: "49e368798d3dd1a7"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -87,6 +87,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Seri_Pelangi.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/tamil-vernacular-schools/body-1.webp
+    alt: 吉打SJK(T) Changlun（S.J.K (Tamil) Changlun）蓝色的入口校名牌，以淡米尔文和马来文书写校名，并印有校徽。
+    kind: actual
+    origin: third-party
+    subject: 淡米尔文国民型学校SJK(T) Changlun的校名牌
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg
+  - role: scene
+    src: /media/education/tamil-vernacular-schools/body-2.webp
+    alt: 吉打SJK(T) Changlun的教室楼与庭院，有盖走道沿途设有教室门、布告栏和旗帜。
+    kind: actual
+    origin: third-party
+    subject: 淡米尔文学校SJK(T) Changlun的教室楼
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom1(1).jpg
 ---
 
 在马来西亚的任何一个角落——一座老树胶园的边缘，或城镇的外围——都能见到一所小小的淡米尔学校。其中许多学校的历史长达一个多世纪；它们不只是建筑物，更是一个社群迁徙、劳动与语言的见证。

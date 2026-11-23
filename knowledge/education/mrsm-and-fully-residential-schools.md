@@ -90,6 +90,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:MRSM_Batu_Pahat,_Batu_Pahat_20250207_162623.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/mrsm-and-fully-residential-schools/body-1.webp
+    alt: Papan tanda dan pintu gerbang masuk Maktab Rendah Sains MARA (MRSM) Gemencheh di tepi sebuah jalan luar bandar
+    kind: actual
+    origin: third-party
+    subject: Pintu masuk utama Maktab Rendah Sains MARA (MRSM) Gemencheh
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MRSM_Gemencheh.jpg
+  - role: scene
+    src: /media/education/mrsm-and-fully-residential-schools/body-2.webp
+    alt: Panorama bangunan dan kawasan kampus sebuah sekolah berasrama penuh di Melaka, Malaysia
+    kind: actual
+    origin: third-party
+    subject: Kampus sebuah sekolah berasrama penuh, Sekolah Berasrama Penuh Integrasi (SBPI) Melaka
+    credit: Mra1001 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SBPIS_MELAKA_2.jpg
 ---
 
 Dua nama sering muncul apabila keluarga Malaysia berbual tentang sekolah asrama "terbaik" untuk anak: MRSM dan SBP. Kedua-duanya kolej asrama penuh yang terpilih, kedua-duanya bersaing sengit untuk direbut — tetapi ia diuruskan oleh dua badan berlainan, di bawah dua mandat dasar yang berbeza.

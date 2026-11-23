@@ -33,7 +33,7 @@ faq:
     a: "Kedua jenis dapat disetujui untuk menerima mahasiswa internasional, tetapi ia berada di bawah bagian kerangka Pas Pelajar yang berbeda dan biasanya berbeda dari segi program dan kapasitas pengambilan yang terbuka untuk pemohon asing dibandingkan pemohon lokal. Sahkan langsung dengan kantor internasional institusi tersebut program sasaran mana yang terbuka untuk pendaftaran bukan warga negara sebelum melamar."
 
 lang: "id"
-sourceContentHash: "7261a5b72201747a"
+sourceContentHash: "00e475894d31159f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-1.webp
+    alt: Pintu masuk utama University of Nottingham Malaysia yang berpapan nama dan dikelilingi rerimbunan hijau, sebuah kampus cabang Inggris yang menerima banyak mahasiswa internasional.
+    kind: actual
+    origin: third-party
+    subject: Pintu masuk utama University of Nottingham Malaysia
+    credit: Faizalrahmat85 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-2.webp
+    alt: Sinar matahari sore menerpa gedung utama bertiang Xiamen University Malaysia, sebuah kampus cabang Tiongkok di dekat Kuala Lumpur yang menarik mahasiswa dari luar negeri.
+    kind: actual
+    origin: third-party
+    subject: Kampus Xiamen University Malaysia, Sepang
+    credit: Xiamen University Malaysia / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Xiamen_University_Malaysia_at_afternoon.jpg
 ---
 
 Surat penawaran dari institusi yang salah jenis tidak bernilai untuk tujuan visa, meskipun program itu sendiri diakreditasi dengan sempurna. Perbedaan itu — program yang diakreditasi dibandingkan institusi yang disetujui untuk mahasiswa internasional — adalah penyebab kebanyakan kebingungan bermula, jauh sebelum siapa pun mengisi formulir EMGS.

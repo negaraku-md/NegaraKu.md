@@ -29,7 +29,7 @@ faq:
     a: "Thường là không. Các học bổng toàn phần như JPA và MARA thường yêu cầu sinh viên từ bỏ PTPTN cho cùng một cấp học. Hãy kiểm tra các điều kiện thỏa thuận của từng nhà tài trợ."
 
 lang: "vi"
-sourceContentHash: "df0ebd67e147cbc0"
+sourceContentHash: "30bf9e16f01f6ac5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-1.webp
+    alt: Các tòa nhà học thuật hiện đại và khuôn viên được tạo cảnh quan tại Khuôn viên Kỹ thuật của Universiti Sains Malaysia
+    kind: representative
+    origin: third-party
+    subject: Khuôn viên Kỹ thuật của Universiti Sains Malaysia, một đại học nghiên cứu công lập Malaysia
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-2.webp
+    alt: Những hàng tân khoa mặc áo thụng và đội mũ cử nhân ngồi tại lễ tốt nghiệp của một trường đại học Malaysia
+    kind: representative
+    origin: third-party
+    subject: Các tân khoa trong áo cử nhân tại lễ tốt nghiệp của một trường đại học Malaysia (DRB-HICOM University, 2023)
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:DHU_1.jpg
 ---
 
 Đạt 9A+ trong SPM chưa chắc bảo đảm một suất học bổng toàn phần ra nước ngoài — vì tại Malaysia, tài trợ công không chỉ là chuyện điểm số, mà còn là chuyện bạn nộp đơn vào chương trình nào, các điều kiện phục vụ bị ràng buộc, và chính sách quản lý từng quỹ. Hiểu bản đồ các nhà tài trợ này là quan trọng vì một lựa chọn sai có thể có nghĩa là hàng nghìn ringgit phải trả lại về sau.

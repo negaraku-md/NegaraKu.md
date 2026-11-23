@@ -24,7 +24,7 @@ appliesTo: "Ibu bapa dan pelajar di Malaysia yang sedang membuat keputusan antar
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6e235692a71d508a"
+sourceContentHash: "bc3e9340ade6fe52"
 
 status: "published"
 aiAssisted: true
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Papar_Sabah_Papar-Middle_School-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-1.webp
+    alt: Fasad hadapan Sekolah Menengah Chung Ling (Persendirian) di Pulau Pinang, sebuah bangunan bertingkat berwarna putih bertiang dengan nama sekolah dalam bahasa Melayu, Cina dan Inggeris.
+    kind: actual
+    origin: third-party
+    subject: Sekolah Menengah Chung Ling (Persendirian), sebuah sekolah menengah persendirian Cina di Pulau Pinang
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_Private_High_School.jpg
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-2.webp
+    alt: Bangunan utama Kuen Cheng High School yang besar dan bertingkat di Kuala Lumpur, dengan namanya terpampang dalam bahasa Cina (坤成中学) dan Inggeris di garis bumbung.
+    kind: actual
+    origin: third-party
+    subject: Kuen Cheng High School, sebuah sekolah menengah persendirian Cina di Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Kuen-Cheng-High-School-01.jpg
 ---
 
 Tanya mana-mana ibu bapa Malaysia apakah maksud "sekolah persendirian", dan mereka mungkin merujuk kepada tiga perkara yang sama sekali berbeza: sekolah berbayar yang menjalankan silibus yang sama persis seperti sekolah kerajaan di kawasan itu, sekolah antarabangsa yang mengajar Cambridge atau IB, atau sebuah sekolah menengah persendirian Cina yang menjalankan peperiksaan yang jarang didengari oleh kebanyakan orang di luar komuniti pendidikan Cina. Hanya satu daripada ketiga-tiga itu menduduki SPM. Hanya satu menduduki UEC. Mengelirukan ketiga-tiganya adalah cara paling mudah untuk tersilap menilai pilihan seorang anak pada usia 18 tahun.

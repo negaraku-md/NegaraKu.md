@@ -34,7 +34,7 @@ faq:
     a: "தனியார் பல்கலைக்கழகங்களும் பொதுவாக ஆங்கில மொழித் திறனுக்கான சான்றைக் கோருகின்றன. உள்ளூர் மாணவர்கள் பொதுவாக MUET முடிவுகளைச் சமர்ப்பிக்கிறார்கள், அதேசமயம் திட்டம் மற்றும் நிறுவனத்தைப் பொறுத்து IELTS அல்லது TOEFL போன்ற சமமான தகுதிகள் ஏற்கப்படலாம்."
 
 lang: "ta"
-sourceContentHash: "a815609cdc3d3e77"
+sourceContentHash: "fd15f9ab20d97160"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -99,6 +99,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Darul_Iman_Malaysia_-_final_exam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-1.webp
+    alt: தேர்வு நடத்தும் இடமாகப் பயன்படுத்தப்படும் மலேசியப் பள்ளியின் பெரிய மண்டபத்தின் உட்புறம்; மேடையும் வரிசையான தரை இடமும் கொண்டது
+    kind: representative
+    origin: third-party
+    subject: தேர்வு எழுதப் பயன்படுத்தப்படும் மலேசியப் பள்ளி மண்டபம்
+    credit: LM UPSI 2019 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_SMK_Gajah_Berang.jpg
+  - role: scene
+    src: /media/education/muet-and-university-entrance-tests/body-2.webp
+    alt: மலேசியப் பல்கலைக்கழக வளாகத்தில் உள்ள விரிவுரை மண்டபத் தொகுதியின் வான்வழிக் காட்சி
+    kind: representative
+    origin: third-party
+    subject: Universiti Pendidikan Sultan Idris (UPSI)-இல் விரிவுரை மண்டபத் தொகுதி
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg
 ---
 
 நீங்கள் STPM அல்லது மெட்ரிகுலேஷனில் சிறந்து விளங்கலாம், ஆனால் இன்னொரு முடிவு இல்லாமல் உங்கள் பட்டப் படிப்பு விண்ணப்பப் படிவம் இன்னும் முழுமையடையாது. அந்த முடிவுதான் MUET — பல மாணவர்கள் பல்கலைக்கழக விண்ணப்ப இறுதித் தேதி நெருங்கும்போதுதான் அதன் முக்கியத்துவத்தை உணர்கிறார்கள்.

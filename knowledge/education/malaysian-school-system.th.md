@@ -69,7 +69,7 @@ keywords:
   - SPM
   - Education Act 1996
   - Ministry of Education Malaysia
-sourceContentHash: "963327281cb05deb"
+sourceContentHash: "31f4f717fb5af86b"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -88,6 +88,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Seksyen_3_Bandar_Kinrara_Aerial_View.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-school-system/body-1.webp
+    alt: ด้านหน้าอาคารโรงเรียนมัธยมมาเลเซียที่มีเสาธงและลานหน้าอาคาร
+    kind: representative
+    origin: third-party
+    subject: อาคารโรงเรียนมัธยมแห่งชาติมาเลเซีย (SMK Cheras)
+    credit: Mysiddiq / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Cheras.JPG
+  - role: scene
+    src: /media/education/malaysian-school-system/body-2.webp
+    alt: กลุ่มนักเรียนมัธยมมาเลเซียสวมชุดนักเรียนอันเป็นเอกลักษณ์อยู่กลางแจ้ง
+    kind: representative
+    origin: third-party
+    subject: นักเรียนมัธยมมาเลเซียในชุดนักเรียน (ซันดากัน รัฐซาบะฮ์)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg
 ---
 
 สำหรับเด็กที่เติบโตในมาเลเซีย คำถามที่ว่า "โรงเรียนไหน?" มีความหมายมากกว่าในหลายประเทศ ส่วนหนึ่งเป็นเรื่องระยะทางและชื่อเสียงเหมือนที่อื่น ๆ — แต่ก็ยังเป็นการเลือกระหว่างโรงเรียนชาติที่สอนด้วยภาษามาเลย์เป็นหลัก กับโรงเรียนประเภทชาติที่สอนด้วยภาษาจีนหรือทมิฬ ทั้งสองเป็นส่วนหนึ่งของระบบสาธารณะเดียวกัน ใช้หลักสูตรแห่งชาติเดียวกัน และนำไปสู่การสอบระดับชาติชุดเดียวกัน การเข้าใจว่าระบบนั้นประกอบกันอย่างไรคือก้าวแรกของการนำทางในระบบ

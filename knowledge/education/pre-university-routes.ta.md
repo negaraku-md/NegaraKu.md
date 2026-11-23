@@ -24,7 +24,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "65caf030dac83024"
+sourceContentHash: "f021592856555bcc"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -81,6 +81,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Blok_Al-Karaji_Kolej_Matrikulasi_Kelantan.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pre-university-routes/body-1.webp
+    alt: பல்கலைக்கழகத்திற்கு முந்தைய அடிப்படை திட்டங்களை வழங்கும் மலேசியக் கல்லூரியொன்றின் நவீன வளாகக் கட்டிடங்கள்
+    kind: representative
+    origin: third-party
+    subject: பல்கலைக்கழகத்திற்கு முந்தைய / அடிப்படை (foundation) திட்டங்களை வழங்கும் மலேசியக் கல்லூரியொன்றின் வளாகம் (KDU University College, Damansara Jaya)
+    credit: Aero777 / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KDU_University_College,_Damansara_Jaya_campus.JPG
+  - role: scene
+    src: /media/education/pre-university-routes/body-2.webp
+    alt: மலேசியப் பல்கலைக்கழகமொன்றின் அறிவியல் மற்றும் தொழில்நுட்பப் பீடத்தின் ஆய்வகக் கட்டிடம்
+    kind: representative
+    origin: third-party
+    subject: அறிவியல் ஆய்வகக் கட்டிடம், அறிவியல் மற்றும் தொழில்நுட்பப் பீடம், Universiti Kebangsaan Malaysia
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Makmal_Fakulti_Sains_dan_Teknologi_UKM.jpg
 ---
 
 இரண்டு மாணவர்கள் ஏறத்தாழ ஒரே மாதிரியான முடிவுகளுடன் அதே SPM மண்டபத்திலிருந்து

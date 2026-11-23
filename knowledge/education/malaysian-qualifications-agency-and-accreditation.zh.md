@@ -32,7 +32,7 @@ faq:
     a: "需要。任何在马来西亚运营的高等教育提供者所开办的课程，包括外国分校，都在 MQF 之下接受素质保证，并出现在 MQR 中。一些具规模的大学拥有自我认证资格，这使它们有权依据 MQF 认证自己的课程，并将这些课程登记于 MQR。"
 
 lang: "zh"
-sourceContentHash: "35dc11bf078ce7cc"
+sourceContentHash: "c14bc638e4d2ad46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-1.webp
+    alt: 马来西亚国民大学毕业典礼上，身穿礼袍的学者在台上颁授学位
+    kind: representative
+    origin: third-party
+    subject: 马来西亚国民大学一场颁授学位的特别毕业典礼
+    credit: Press Information Department (Government of Bangladesh) / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Honorary_Doctorate_Universiti_Kebangsaan_Malaysia_2025-08-13_(PID-0000370).jpg
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-2.webp
+    alt: 博特拉大学弧形的Canselori Putra行政大楼矗立在园林广场旁
+    kind: representative
+    origin: third-party
+    subject: 博特拉大学行政大楼（Canselori，校长楼）
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Canselori_Putra,_UPM.jpg
 ---
 
 两名学生毕业时拿着名称听起来一样的文凭。其中一人有资格获得政府工作和硕士学位名额；另一人却被拒之门外。这个差别往往就在一份公开名册上的一行字：马来西亚学术资格鉴定机构是否认证了该课程。

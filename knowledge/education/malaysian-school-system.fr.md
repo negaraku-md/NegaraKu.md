@@ -69,7 +69,7 @@ keywords:
   - SPM
   - Education Act 1996
   - Ministry of Education Malaysia
-sourceContentHash: "963327281cb05deb"
+sourceContentHash: "31f4f717fb5af86b"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -88,6 +88,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Seksyen_3_Bandar_Kinrara_Aerial_View.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-school-system/body-1.webp
+    alt: Façade du bâtiment d'un collège-lycée malaisien avec un mât de drapeau et un parvis d'entrée.
+    kind: representative
+    origin: third-party
+    subject: Bâtiment d'un collège-lycée national malaisien (SMK Cheras)
+    credit: Mysiddiq / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Cheras.JPG
+  - role: scene
+    src: /media/education/malaysian-school-system/body-2.webp
+    alt: Un groupe d'élèves du secondaire malaisiens portant leur uniforme scolaire caractéristique en plein air.
+    kind: representative
+    origin: third-party
+    subject: Élèves du secondaire malaisiens dans leur uniforme scolaire (Sandakan, Sabah)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg
 ---
 
 Pour un enfant qui grandit en Malaisie, la question « quelle école ? » revêt plus de sens que dans beaucoup de pays. Il s'agit en partie de distance et de réputation, comme partout — mais c'est aussi un choix entre une école nationale qui enseigne principalement en malais et une école de type national qui enseigne en chinois ou en tamoul. Les deux font partie du même système public, suivent le même programme national et mènent aux mêmes examens nationaux. Comprendre comment ce système s'articule est la première étape pour s'y orienter.

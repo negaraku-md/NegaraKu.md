@@ -89,6 +89,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-1.webp
+    alt: Academics in ceremonial robes conferring a degree on stage during a convocation at Universiti Kebangsaan Malaysia
+    kind: representative
+    origin: third-party
+    subject: A special convocation conferring a degree at Universiti Kebangsaan Malaysia
+    credit: Press Information Department (Government of Bangladesh) / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Honorary_Doctorate_Universiti_Kebangsaan_Malaysia_2025-08-13_(PID-0000370).jpg
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-2.webp
+    alt: The curved Canselori Putra chancellery building of Universiti Putra Malaysia beside a landscaped plaza
+    kind: representative
+    origin: third-party
+    subject: Chancellery (administrative hall) building of Universiti Putra Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Canselori_Putra,_UPM.jpg
 ---
 
 Two students graduate with the same-sounding diploma. One qualifies for a government job and a master's place; the other is turned away at the door. The difference is often a single line in a public register: whether the Malaysian Qualifications Agency accredited the programme.

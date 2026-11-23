@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "국민학교, 사립 국가 교육과정 학교, 중국계 사립 중등학교 사이에서 선택하는 말레이시아의 학부모와 학생, 그리고 SMJK, 사립학교, UEC 자격증이 실제로 무엇을 뜻하는지 이해하려는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "6e235692a71d508a"
+sourceContentHash: "bc3e9340ade6fe52"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Papar_Sabah_Papar-Middle_School-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-1.webp
+    alt: 페낭주의 중링(사립)중학교(Sekolah Menengah Chung Ling (Persendirian)) 정면으로, 기둥이 있는 흰색 다층 건물이며 교명이 말레이어·중국어·영어로 적혀 있다.
+    kind: actual
+    origin: third-party
+    subject: 중링(사립)중학교, 페낭주의 중국어 독립중학교(鍾靈獨立中學)
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_Private_High_School.jpg
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-2.webp
+    alt: 쿠알라룸푸르 쿤청중학교의 크고 여러 층인 본관으로, 지붕 가장자리에 중국어(坤成中学)와 영어로 교명이 표시되어 있다.
+    kind: actual
+    origin: third-party
+    subject: 쿤청중학교(坤成中學), 쿠알라룸푸르의 중국어 독립중학교
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Kuen-Cheng-High-School-01.jpg
 ---
 
 말레이시아 학부모에게 「사립학교」가 무엇이냐고 물으면 완전히 다른 세 가지를 뜻할 수 있습니다. 길 건너 공립학교와 정확히 같은 교육과정을 운영하는 요금제 학교, 케임브리지나 IB를 가르치는 국제학교, 또는 중국계 교육 공동체 밖의 대부분이 들어 본 적 없는 시험을 운영하는 중국계 사립 중등학교입니다. 그 셋 중 하나만 SPM을 치릅니다. 하나만 UEC를 치릅니다. 이들을 혼동하는 것이 18세에 자녀의 선택지를 잘못 판단하는 가장 쉬운 방법입니다.

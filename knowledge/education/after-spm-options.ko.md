@@ -27,7 +27,7 @@ faq:
   - q: "디플로마나 TVET 경로가 대학에 가는 것보다 못한가?"
     a: "아닙니다. 디플로마나 TVET 경로는 숙련되고 고용 가능한 노동으로 이어지며, 대개 학점 이전이나 별도의 입학 범주를 통해 학위로 돌아가는 길을 열어 둡니다. 많은 분야에서 — 공학 기능직, 접객업, IT, 디자인 — 이는 일반 학위보다 더 빠르고 직접적인 취업 경로입니다. 더 나은 질문은 어느 경로가 지위가 높은지가 아니라, 어느 것이 여러분이 가고 싶은 곳으로 이어지는지입니다."
 lang: "ko"
-sourceContentHash: "19406003070adaf4"
+sourceContentHash: "809a134dceb4f5ea"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Universiti_Malaya_KL_gate.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/after-spm-options/body-1.webp
+    alt: 말라야대학교의 학부 건물로, 학생이 SPM 이후 목표로 삼을 수 있는 국립대학 학위 경로 중 하나이다.
+    kind: actual
+    origin: third-party
+    subject: 말라야대학교 교육학부 건물
+    credit: PeaceSeekers / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Building_of_Faculty_of_Education_Universiti_Malaya.jpg
+  - role: scene
+    src: /media/education/after-spm-options/body-2.webp
+    alt: 마라공과대학교(UiTM) 름바우 분교의 학부동·도서관·행정동으로, SPM 수료자에게 열려 있는 국립 고등교육 경로이다.
+    kind: actual
+    origin: third-party
+    subject: 마라공과대학교(UiTM) 름바우 캠퍼스(느그리슴빌란주)
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg
 ---
 
 봉투가 열리면 진짜 질문이 함께 도착합니다. *내가 얼마나 잘했나* — 그 숫자는

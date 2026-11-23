@@ -69,7 +69,7 @@ keywords:
   - SPM
   - Education Act 1996
   - Ministry of Education Malaysia
-sourceContentHash: "963327281cb05deb"
+sourceContentHash: "31f4f717fb5af86b"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -88,6 +88,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Seksyen_3_Bandar_Kinrara_Aerial_View.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-school-system/body-1.webp
+    alt: ध्वज-स्तंभ और अग्र-प्रांगण वाले एक मलेशियाई माध्यमिक विद्यालय भवन का अग्रभाग।
+    kind: representative
+    origin: third-party
+    subject: एक मलेशियाई राष्ट्रीय माध्यमिक विद्यालय भवन (SMK Cheras)
+    credit: Mysiddiq / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekolah_Menengah_Kebangsaan_Cheras.JPG
+  - role: scene
+    src: /media/education/malaysian-school-system/body-2.webp
+    alt: अपनी विशिष्ट विद्यालय वर्दी पहने मलेशियाई माध्यमिक विद्यालय के विद्यार्थियों का एक समूह, बाहर खुले में।
+    kind: representative
+    origin: third-party
+    subject: अपनी विद्यालय वर्दी में मलेशियाई माध्यमिक विद्यालय के विद्यार्थी (सांडाकान, सबाह)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg
 ---
 
 मलेशिया में बड़े हो रहे बच्चे के लिए, "कौन-सा स्कूल?" का सवाल कई देशों की तुलना में अधिक अर्थ रखता है। यह आंशिक रूप से दूरी और प्रतिष्ठा के बारे में है, जैसा हर जगह होता है — लेकिन यह एक राष्ट्रीय विद्यालय, जो मुख्यतः मलय में पढ़ाता है, और एक राष्ट्रीय-प्रकार विद्यालय, जो चीनी या तमिल में पढ़ाता है, के बीच एक चुनाव भी है। दोनों एक ही सार्वजनिक प्रणाली का हिस्सा हैं, एक ही राष्ट्रीय पाठ्यक्रम का पालन करते हैं, और एक ही राष्ट्रीय परीक्षाओं की ओर ले जाते हैं। यह प्रणाली किस प्रकार एक साथ जुड़ती है, यह समझना इसे समझने-समझाने की पहली कदम है।

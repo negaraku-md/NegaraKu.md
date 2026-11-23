@@ -34,7 +34,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7261a5b72201747a"
+sourceContentHash: "00e475894d31159f"
 
 status: "published"
 aiAssisted: true
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_Monash_University.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-1.webp
+    alt: 诺丁汉大学马来西亚校区绿意环绕、设有标识的正门，这所英国大学的分校招收了众多国际学生。
+    kind: actual
+    origin: third-party
+    subject: 诺丁汉大学马来西亚校区正门
+    credit: Faizalrahmat85 / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:University_of_Nottingham_Malaysia_Campus_Entrance.jpg
+  - role: scene
+    src: /media/education/international-students-studying-in-malaysia/body-2.webp
+    alt: 午后的阳光洒在厦门大学马来西亚分校设有列柱的主楼上，这所位于吉隆坡附近的中国大学分校吸引着来自海外的学生。
+    kind: actual
+    origin: third-party
+    subject: 雪邦厦门大学马来西亚分校校园
+    credit: Xiamen University Malaysia / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Xiamen_University_Malaysia_at_afternoon.jpg
 ---
 
 来自错误类型院校的录取信，对签证申请而言毫无用处，即使课程本身完全获得认证也一样。「已获认证的课程」与「获准招收国际学生的院校」这两者之间的区别，正是大部分混淆的起点，而这早在任何人填写 EMGS 表格之前就已经发生。

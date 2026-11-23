@@ -32,7 +32,7 @@ faq:
   - q: "Le malais et l'anglais sont-ils enseignés dans les écoles tamoules ?"
     a: "Oui. Bien que la langue d'enseignement dans les SJKT soit le tamoul, le malais (Bahasa Melayu) et l'anglais sont enseignés comme matières obligatoires. Ainsi, les élèves reçoivent leur éducation de base en tamoul tout en se préparant aussi en malais à la transition vers les écoles secondaires nationales."
 lang: "fr"
-sourceContentHash: "86cb7d193d803e57"
+sourceContentHash: "49e368798d3dd1a7"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -87,6 +87,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Seri_Pelangi.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/tamil-vernacular-schools/body-1.webp
+    alt: Le panneau d'entrée bleu de la S.J.K (Tamil) Changlun à Kedah, portant le nom de l'école en tamoul et en malais ainsi que l'écusson de l'école.
+    kind: actual
+    origin: third-party
+    subject: Panneau d'une école de type national d'enseignement en tamoul, la SJK(T) Changlun
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg
+  - role: scene
+    src: /media/education/tamil-vernacular-schools/body-2.webp
+    alt: Le bloc de classes et la cour de la SJK(T) Changlun à Kedah, avec des portes de salles, des panneaux d'affichage et des drapeaux le long d'un passage couvert.
+    kind: actual
+    origin: third-party
+    subject: Bloc de classes d'une école d'enseignement en tamoul, la SJK(T) Changlun
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom1(1).jpg
 ---
 
 Dans n'importe quel coin de la Malaisie — au bord d'une vieille plantation d'hévéas

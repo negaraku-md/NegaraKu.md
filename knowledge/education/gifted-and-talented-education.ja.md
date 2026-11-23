@@ -29,7 +29,7 @@ faq:
     a: "ASASIpintarは、才能児のためのUKMの大学進学準備課程で、Perdana、Komersial、Antarabangsaの三つのストリームで提供されています。"
 
 lang: "ja"
-sourceContentHash: "e8dbefcac0cbb3a6"
+sourceContentHash: "c86cbb495d10ed97"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PERMATApintar_Library.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-1.webp
+    alt: マレーシアの中等学校のコンピューター室で、授業中に一列に並んだデスクトップパソコンの前に座る生徒たち。
+    kind: representative
+    origin: third-party
+    subject: マレーシアの学校のコンピューター室で学ぶ生徒たち
+    credit: Smkda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Makmal_komputer_1.jpg
+  - role: scene
+    src: /media/education/gifted-and-talented-education/body-2.webp
+    alt: ジョホール州のマレーシア工科大学(UTM)にある、車両や計測機器を備えた大学研究室。能力の高い学習者の力を伸ばす類の先端設備である。
+    kind: representative
+    origin: third-party
+    subject: マレーシア工科大学(UTM)の先端工学研究室
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UTM-Proton_Future_Drive_Laboratory.jpg
 ---
 
 フォーム5（中等教育第5学年）の数学の問題を解ける10歳の子供が、通常のクラスでは必ずしも目立つとは限らない——そしてマレーシアで、こうした頭脳を見出し磨き上げるために作られた唯一の国立センターが、PERMATApintarである。

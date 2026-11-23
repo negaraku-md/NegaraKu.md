@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "मलेशिया में अभिभावक या संरक्षक जो वर्ष 1 से पहले बच्चों के लिए शिशु-देखभाल और प्रारंभिक शिक्षा विकल्पों को समझने का प्रयास कर रहे हैं, साथ ही हर वह व्यक्ति जो taska या tadika स्थापित करना चाहता है और संबंधित प्राधिकरणों को जानना चाहता है।"
 
 lang: "hi"
-sourceContentHash: "9f44a6a22be9e0f4"
+sourceContentHash: "d6f9e40129be03f6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Al-Falah_Kindergarten.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-1.webp
+    alt: सबाह के तावाऊ में Tadika Holy Trinity का प्रवेशद्वार और अग्र-आँगन, जिसमें एक नाम-पट्ट, रंगीन झालरें और चित्रित कार्टून भित्तिचित्र हैं; दूर के खेल-मैदान में कुछ छोटे बच्चे दिखाई देते हैं।
+    kind: representative
+    origin: third-party
+    subject: रंगीन झालरों और कार्टून भित्तिचित्रों से सजा एक मलेशियाई tadika (बालवाड़ी) का अग्रभाग
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Tadika-Holy-Trinity-00.jpg
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-2.webp
+    alt: सबाह के केनिंगाऊ में Tadika St. Francis Xavier का सड़क-दृश्य, एक मंज़िला बालवाड़ी भवन जिसमें हरी बाड़ है और दीवारों पर फूलों, एक मधुमक्खी और एक मशरूम के भित्तिचित्र चित्रित हैं।
+    kind: representative
+    origin: third-party
+    subject: बच्चों के भित्तिचित्रों से रंगा एक मलेशियाई प्री-स्कूल भवन
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keningau_Sabah_StFrancisXavier_Tadika_01.jpg
 ---
 
 कई अभिभावक अपने बच्चे को पास की tadika में भर्ती करा देते हैं — फ़ॉर्म जमा करें, शुल्क दें, हो गया। पर जो प्रश्न शायद ही कभी पूछा जाता है वह है: वह tadika वास्तव में किसके साथ पंजीकृत है? उत्तर कोई तुच्छ बात नहीं है। बच्चे की आयु और संस्थान के प्रकार के आधार पर, यह दो पूरी तरह भिन्न मंत्रालयों के अधीन आ सकती है, जिनके अधिनियम, विनियम और प्रवर्तन के तरीके एक समान नहीं हैं।

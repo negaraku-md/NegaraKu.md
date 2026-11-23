@@ -33,7 +33,7 @@ faq:
 
 lang: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "d8f3e63e8e371c06"
+sourceContentHash: "f1edb16bb1e0f23c"
 masterLanguage: "en"
 
 status: "published"
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-1.webp
+    alt: மலேசியப் பல்கலைக்கழக விரிவுரை மண்டபமொன்றில் படிநிலையாக அமைந்த வரிசை இருக்கைகள்; பட்டப் படிப்பு மற்றும் தொழில்முறைக் கணக்கியல் மாணவர்கள் வகுப்புகளுக்கு அமரும் வகை.
+    kind: actual
+    origin: third-party
+    subject: Universiti Malaysia Sabah-இல் ஒரு பல்கலைக்கழக விரிவுரை மண்டபம்
+    credit: Mfook / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Kuliah_Pusat.JPG
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-2.webp
+    alt: Universiti Malaya நூலகமொன்றில் அமைதியான தனி படிப்பு மேசைகளின் வரிசைகள்; மாணவர்கள் பட்டப் படிப்பு மற்றும் ACCA அல்லது CIMA தாள்களை இங்கே உழைத்துப் படிக்கிறார்கள்.
+    kind: representative
+    origin: third-party
+    subject: Universiti Malaya நூலகத்தில் படிப்பு மேசைகள்
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engine_library_Oct_2021_empty_view_desks.jpg
 ---
 
 மலேசியாவில் கணக்காளராக எப்படி ஆவது என்பதைத் தீர்மானிக்கும் எவரும் நேராக ஒரு எழுத்துக்கூட்டுக்குள் நுழைகிறார்கள்: **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE.** இது நீங்கள் தேர்ந்தெடுக்க வேண்டிய போட்டித் தகுதிகளின் ஒரு பட்டியலைப் போலத் தோன்றுகிறது. ஆனால் இதை **அதை நோக்கிப் பல சாலைகளைக் கொண்ட ஒரே இலக்காக** புரிந்துகொள்வது சிறந்தது — இலக்கைப் பார்த்தவுடன் தேர்வுகள் தானாகவே இடம்பிடிக்கின்றன.

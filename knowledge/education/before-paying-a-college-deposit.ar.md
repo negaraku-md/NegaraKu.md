@@ -35,7 +35,7 @@ faq:
 
 lang: "ar"
 translationStatus: "in-sync"
-sourceContentHash: "7d63f469a6fa2d2e"
+sourceContentHash: "35aa2e7145637cfb"
 masterLanguage: "en"
 
 status: "published"
@@ -101,6 +101,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-1.webp
+    alt: الواجهة الزجاجية لـ RCSI and UCD Malaysia Campus، وهي جامعة خاصة من النوع الذي يطلب من الطلاب الجدد دفع عربون التسجيل.
+    kind: actual
+    origin: third-party
+    subject: RCSI & UCD Malaysia Campus (RUMC)، بينانغ
+    credit: RUMC / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RUMC_Facade.jpg
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-2.webp
+    alt: مبنى تدريس حديث في حرم Sunway University، وهي مؤسسة خاصة يوازن فيها المتقدمون بين الرسوم والعرابين قبل الالتزام.
+    kind: actual
+    origin: third-party
+    subject: مبنى حرم Sunway University، بندر صنواي
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_University_new_building.jpg
 ---
 
 العربون عادةً هو أول مبلغ تسلِّمه الأسرة للكلية — وبمجرد دفعه، كثيرًا ما يكون

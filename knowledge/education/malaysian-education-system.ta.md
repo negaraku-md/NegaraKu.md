@@ -36,7 +36,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "613eb3145a3df62e"
+sourceContentHash: "43689c40bbb62680"
 
 status: "published"
 aiAssisted: true
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-education-system/body-1.webp
+    alt: மலேசியப் பள்ளியொன்றின் ஸ்மார்ட் நூலகத்தில் சீருடை அணிந்த பள்ளிக் குழந்தைகள் மேசைகளில் டேப்லெட் கணினிகளைப் பயன்படுத்துகிறார்கள்
+    kind: representative
+    origin: third-party
+    subject: மலேசியத் தொடக்கப் பள்ளி மாணவர்கள் பள்ளியின் ஸ்மார்ட் நூலகத்தில் டேப்லெட்டுகள் மூலம் கற்கிறார்கள்
+    credit: Qwerqwer133 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murid_sekolah_Sum_Sun_menggunakan_tablet_di_perpustakaan_pintar.jpg
+  - role: scene
+    src: /media/education/malaysian-education-system/body-2.webp
+    alt: நீல வானத்தின் கீழ் கூரையிட்ட நடைபாதைகளுடன் கூடிய பல மாடி மலேசிய இடைநிலைப் பள்ளிக் கட்டிடம்
+    kind: representative
+    origin: third-party
+    subject: மலேசியத் தேசிய இடைநிலைப் பள்ளிக் கட்டிடம் (SMK Bandar Saujana Putra)
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_SMK_Bandar_Saujana_Putra.jpg
 ---
 
 மூன்று மலேசியர்களிடம் "கல்வி முறையை" விவரிக்கச் சொல்லுங்கள், உங்களுக்கு மூன்று வெவ்வேறு வரைபடங்கள் கிடைக்கும். ஒருவர் SK-க்கு எதிராக SJKC பற்றிப் பேசுகிறார். மற்றொருவர் STPM-க்கு எதிராக மெட்ரிகுலேஷன் பற்றிப் பேசுகிறார். மூன்றாமவர் தொழில்நுட்பப் பயிற்சிக்கு வெளியே யாரும் கேள்விப்படாத ஒரு SKM சான்றிதழைக் குறிப்பிடுகிறார். மூவரும் ஒரே முறையையே விவரிக்கிறார்கள் — வெறும் அதன் வெவ்வேறு கிளைகளிலிருந்து.

@@ -35,7 +35,7 @@ faq:
 
 lang: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "7d63f469a6fa2d2e"
+sourceContentHash: "35aa2e7145637cfb"
 masterLanguage: "en"
 
 status: "published"
@@ -101,6 +101,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taylors_Lakeside_Campus.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-1.webp
+    alt: RCSI与UCD马来西亚校区的玻璃幕墙外观，这类私立大学通常会要求新生缴付入学订金。
+    kind: actual
+    origin: third-party
+    subject: 槟城RCSI与UCD马来西亚校区（RUMC）
+    credit: RUMC / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:RUMC_Facade.jpg
+  - role: scene
+    src: /media/education/before-paying-a-college-deposit/body-2.webp
+    alt: 双威大学校园内一座现代化教学楼，申请者在报读这所私立学府前，会先权衡学费与订金。
+    kind: actual
+    origin: third-party
+    subject: 双威镇双威大学校园大楼
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Sunway_University_new_building.jpg
 ---
 
 定金通常是一个家庭交给学院的第一笔钱——而且一旦缴出，它往往是最难拿回来的。

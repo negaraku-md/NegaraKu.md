@@ -32,7 +32,7 @@ faq:
     a: "Có. Các chương trình do bất kỳ nhà cung cấp giáo dục đại học nào hoạt động tại Malaysia cung cấp, bao gồm các cơ sở chi nhánh nước ngoài, đều được đảm bảo chất lượng theo MQF và xuất hiện trong MQR. Một số đại học có uy tín có tình trạng tự kiểm định, cho phép họ kiểm định các chương trình của chính mình trên MQF và đăng ký các chương trình đó trong MQR."
 
 lang: "vi"
-sourceContentHash: "35dc11bf078ce7cc"
+sourceContentHash: "c14bc638e4d2ad46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_Universiti-Kebangsaan-Malaysia-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-1.webp
+    alt: Các nhà khoa học trong trang phục lễ nghi trao bằng trên sân khấu trong lễ tốt nghiệp tại Universiti Kebangsaan Malaysia
+    kind: representative
+    origin: third-party
+    subject: Lễ tốt nghiệp đặc biệt trao bằng tại Universiti Kebangsaan Malaysia
+    credit: Press Information Department (Government of Bangladesh) / Wikimedia Commons
+    license: Public Domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muhammad_Yunus_Honorary_Doctorate_Universiti_Kebangsaan_Malaysia_2025-08-13_(PID-0000370).jpg
+  - role: scene
+    src: /media/education/malaysian-qualifications-agency-and-accreditation/body-2.webp
+    alt: Tòa nhà hành chính Canselori Putra uốn cong của Universiti Putra Malaysia bên cạnh một quảng trường được tạo cảnh quan
+    kind: representative
+    origin: third-party
+    subject: Tòa nhà Canselori (sảnh hành chính) của Universiti Putra Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_Canselori_Putra,_UPM.jpg
 ---
 
 Hai sinh viên tốt nghiệp với một diploma nghe giống nhau. Một người đủ tư cách cho một công việc chính phủ và một suất thạc sĩ; người kia bị từ chối ngay trước cửa. Sự khác biệt thường là một dòng duy nhất trong một sổ đăng ký công khai: liệu Cơ quan Kiểm định Malaysia có kiểm định chương trình hay không.

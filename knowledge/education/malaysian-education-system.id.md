@@ -35,7 +35,7 @@ faq:
     a: "Pendidikan teknikal dan vokasional berjalan sebagiannya melalui kolese vokasional Kementerian Pendidikan dan sebagiannya melalui trek sertifikasi yang terpisah — Sijil Kemahiran Malaysia (SKM) dan Diploma Kemahiran Malaysia (DKM/DLKM) — dikeluarkan oleh Jabatan Pembangunan Kemahiran (Jabatan Pembangunan Kemahiran) di bawah Kementerian Sumber Daya Manusia, bukan Kementerian Pendidikan atau Kementerian Pendidikan Tinggi."
 
 lang: "id"
-sourceContentHash: "613eb3145a3df62e"
+sourceContentHash: "43689c40bbb62680"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-education-system/body-1.webp
+    alt: Anak-anak sekolah berseragam menggunakan komputer tablet di meja dalam perpustakaan pintar sebuah sekolah di Malaysia
+    kind: representative
+    origin: third-party
+    subject: Siswa sekolah dasar di Malaysia belajar menggunakan tablet di perpustakaan pintar sekolah
+    credit: Qwerqwer133 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murid_sekolah_Sum_Sun_menggunakan_tablet_di_perpustakaan_pintar.jpg
+  - role: scene
+    src: /media/education/malaysian-education-system/body-2.webp
+    alt: Gedung sekolah menengah bertingkat di Malaysia dengan selasar beratap di bawah langit biru
+    kind: representative
+    origin: third-party
+    subject: Gedung sekolah menengah kebangsaan di Malaysia (SMK Bandar Saujana Putra)
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_SMK_Bandar_Saujana_Putra.jpg
 ---
 
 Minta tiga rakyat Malaysia menguraikan "sistem pendidikan" dan Anda akan mendapat tiga peta yang berbeda. Seorang berbicara tentang SK dibandingkan SJKC. Seorang lagi berbicara tentang STPM dibandingkan matrikulasi. Seorang lagi menyebut sertifikat SKM yang tidak pernah didengar siapa pun di luar pelatihan teknikal. Ketiganya menguraikan sistem yang sama — hanya dari cabang yang berbeda.

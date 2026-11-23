@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "الآباء أو الأوصياء في ماليزيا الذين يحاولون فهم خيارات رعاية الطفل والتعليم المبكر قبل السنة الأولى، وكذلك كل من يريد إنشاء taska أو tadika ويحتاج إلى معرفة السلطات المعنية."
 
 lang: "ar"
-sourceContentHash: "9f44a6a22be9e0f4"
+sourceContentHash: "d6f9e40129be03f6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Al-Falah_Kindergarten.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-1.webp
+    alt: مدخل وفناء أمامي لروضة Tadika Holy Trinity في تاواو بولاية صباح، بلوحة اسم وزينة ملوّنة ورسوم جدارية كرتونية؛ ويظهر بضعة أطفال صغار في ساحة اللعب البعيدة.
+    kind: representative
+    origin: third-party
+    subject: واجهة روضة أطفال ماليزية (tadika) مزيّنة بزينة ملوّنة ورسوم جدارية كرتونية
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Tadika-Holy-Trinity-00.jpg
+  - role: scene
+    src: /media/education/preschool-tadika-childcare/body-2.webp
+    alt: منظر من الشارع لروضة Tadika St. Francis Xavier في كينينغاو بولاية صباح، مبنى روضة من طابق واحد بسياج أخضر وجدران مرسوم عليها زهور ونحلة وفطر.
+    kind: representative
+    origin: third-party
+    subject: مبنى روضة أطفال ماليزية مرسوم عليه رسوم جدارية للأطفال
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keningau_Sabah_StFrancisXavier_Tadika_01.jpg
 ---
 
 يُلحق كثير من الآباء أطفالهم بالـ tadika القريبة من البيت — يُرسِلون النموذج، ويدفعون الرسم، وينتهي الأمر. لكن السؤال الذي نادرًا ما يُطرح هو: لدى من تلك الـ tadika مسجَّلة فعلًا؟ والجواب ليس أمرًا تافهًا. فبحسب عمر الطفل ونوع المؤسسة، قد تقع تحت وزارتين مختلفتين كليًا، بقوانين ولوائح وأساليب إنفاذ غير متماثلة.

@@ -31,7 +31,7 @@ faq:
   - q: "독중을 마친 뒤에는 어디로 진학할 수 있습니까?"
     a: "독중 학생의 진학 경로는 다양합니다. 많은 이가 UEC 증서로 현지 사립 대학이나 해외 대학에 진학하며, 더 많은 선택지를 남기려고 SPM도 함께 치르는 학생도 있습니다. 현지 화문 고등교육 기관으로는 신기원대학학원(New Era University College), 남방대학학원(Southern University College), 한강전매대학학원(Han Chiang University College of Communication) 등이 있으며, 모두 화문교육 체계에서 발전해 온 곳입니다. 2026년부터는 특정 조건을 충족한 UEC 학생도 새로운 경로를 통해 일부 공립대학 과정에 지원할 수 있습니다."
 lang: "ko"
-sourceContentHash: "11102fbd9b87b7f9"
+sourceContentHash: "3fde1ff0d6a51181"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(C)_Chun_Yin_(260103).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-1.webp
+    alt: 페낭주에 있는 중링중학교의 나무가 늘어선 캠퍼스로, 말레이시아에서 오랜 역사를 지닌 중국어 중등학교 중 하나이다.
+    kind: actual
+    origin: third-party
+    subject: 중링중학교(鍾靈中學), 페낭주
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_High_School_(October_2022).jpg
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-2.webp
+    alt: 쿠알라룸푸르에 있는 SJK(C) Confucian(尊孔華小)의 정문과 교명판으로, 모어 교육 체제에 학생을 공급하는 정부 보조 중국어 초등학교 중 하나이다.
+    kind: actual
+    origin: third-party
+    subject: SJK(C) Confucian, 쿠알라룸푸르의 중국어 초등학교(尊孔華小)
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(C)_Confucian.jpg
 ---
 
 이른 아침, 한 화문소학의 운동장에는 중국어·말레이어·영어가 뒤섞인 소리가 울려 퍼진다. 몇 개 주 떨어진 곳, 한 화문 독립중학(독중)의 강당에서는 학생들이 연말 통일시험(통고／UEC)을 준비하고 있다. 그리고 조호르와 페낭에서는 화문교육 체계에서 발전해 온 대학학원이 신입생을 맞이한다. 이 장면들은 모두 하나의 흐름 — 말레이시아의 화문교육 — 에 속하지만, 서로 다른 단계에서, 서로 다른 재정 방식과 법적 장치 아래 놓여 있다.

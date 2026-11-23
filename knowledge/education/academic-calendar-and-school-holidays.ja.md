@@ -31,7 +31,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d8dc796d9fea25f6"
+sourceContentHash: "d7bb77ea8047230b"
 
 status: "published"
 aiAssisted: true
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-1.webp
+    alt: マレーシアのある学校の、旗が立ち並ぶ無人の朝礼広場。生徒たちは毎朝ここに集まってから、その日最初の授業に向かう。
+    kind: representative
+    origin: third-party
+    subject: マレーシアの学校の朝礼広場（tapak perhimpunan）
+    credit: Fadzuan Ehsan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Suasana_Sekolah_3.jpg
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-2.webp
+    alt: その日の授業が終わると、制服姿の二人の女子生徒がバイクに乗り、ランカウイの道路を通って帰宅する。
+    kind: representative
+    origin: third-party
+    subject: ランカウイで放課後に帰宅する制服姿の女子生徒
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_School-girls-on-a-motorbike-01.jpg
 ---
 
 年初に家族旅行を計画すると、すぐにあることに気づくだろう。クランタン州の隣人の子どもは、セランゴール州のあなたの子どもより1日早く新学期を迎える。これは間違いではない——マレーシアの学年暦はそのように設計されているのだ。

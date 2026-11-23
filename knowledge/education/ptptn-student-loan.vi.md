@@ -26,7 +26,7 @@ verificationNeeded:
   - "Việc tham chiếu đến thẩm quyền cưỡng chế (ví dụ hạn chế đi ra nước ngoài đối với người vay không thanh toán) chỉ được nêu chung dựa trên sự tồn tại của thẩm quyền theo Akta 566; số điều khoản cụ thể và các điều kiện kích hoạt của nó (như thời gian nợ quá hạn) chưa được xác minh trực tiếp từ văn bản luật hay cổng thông tin chính thức và cần được rà soát lại."
 
 lang: "vi"
-sourceContentHash: "c276a6a6034e9c91"
+sourceContentHash: "4273f8606a208fb5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_UTM-Campus-Kuala-Lumpur-02.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-1.webp
+    alt: Tòa nhà hành chính của Universiti Teknologi MARA (UiTM), một tòa nhà đại học công lập hiện đại lớn bằng kính và bê tông, đứng trên gò đất được tạo cảnh quan với cờ phía trước.
+    kind: representative
+    origin: third-party
+    subject: Khuôn viên một trường đại học công lập Malaysia (Universiti Teknologi MARA)
+    credit: Hayatiar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Universiti_Teknologi_MARA_(UiTM).jpg
+  - role: scene
+    src: /media/education/ptptn-student-loan/body-2.webp
+    alt: Tòa nhà hành chính (Canselori) màu xanh và kem đặc trưng của Universiti Malaysia Sabah ở Kota Kinabalu, một công trình biểu tượng của đại học công lập nằm trên bãi cỏ được tạo cảnh quan.
+    kind: representative
+    origin: third-party
+    subject: Công trình biểu tượng của một đại học công lập Malaysia (tòa nhà hành chính Universiti Malaysia Sabah)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu-Sabah_Universiti-Malaysia-Sabah-Chancellory-01.jpg
 ---
 
 Nhiều học sinh ký vào hồ sơ mời của PTPTN với cùng một giả định:

@@ -29,7 +29,7 @@ faq:
 
 lang: "ko"
 translationStatus: "in-sync"
-sourceContentHash: "d8f3e63e8e371c06"
+sourceContentHash: "f1edb16bb1e0f23c"
 masterLanguage: "en"
 
 status: "published"
@@ -87,6 +87,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-1.webp
+    alt: 말레이시아 한 대학 강의실에 계단식으로 늘어선 좌석으로, 학위 과정과 전문 회계 과정 학생들이 수업을 듣는 부류의 강의실이다.
+    kind: actual
+    origin: third-party
+    subject: 사바대학교의 대형 강의실
+    credit: Mfook / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Kuliah_Pusat.JPG
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-2.webp
+    alt: 말라야대학교 도서관에 조용히 늘어선 개인 열람 책상으로, 학생들이 학위 과정과 ACCA 또는 CIMA 시험을 파고드는 곳이다.
+    kind: representative
+    origin: third-party
+    subject: 말라야대학교 도서관의 열람 책상
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engine_library_Oct_2021_empty_view_desks.jpg
 ---
 
 말레이시아에서 회계사가 되는 법을 고민하는 누구나 약어 수프와 정면으로 마주칩니다. **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE.** 반드시 하나를 골라야 하는 경쟁 자격의 메뉴판처럼 보입니다. 하지만 **하나의 목적지와 그곳으로 가는 여러 갈래의 길**로 이해하는 편이 낫습니다 — 그리고 일단 목적지를 보고 나면 선택지가 제자리를 찾습니다.

@@ -33,7 +33,7 @@ faq:
 
 lang: "ar"
 translationStatus: "in-sync"
-sourceContentHash: "d8f3e63e8e371c06"
+sourceContentHash: "f1edb16bb1e0f23c"
 masterLanguage: "en"
 
 status: "published"
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-1.webp
+    alt: صفوف من المقاعد المدرّجة في قاعة محاضرات بجامعة ماليزية من النوع الذي يجلس فيه طلاب الدرجة الجامعية والمحاسبة المهنية لحضور الحصص.
+    kind: actual
+    origin: third-party
+    subject: قاعة محاضرات جامعية في Universiti Malaysia Sabah
+    credit: Mfook / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Kuliah_Pusat.JPG
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-2.webp
+    alt: صفوف هادئة من مكاتب الدراسة الفردية في مكتبة بـ University of Malaya، حيث يكدّ الطلاب في مواد الدرجة الجامعية وأوراق ACCA أو CIMA.
+    kind: representative
+    origin: third-party
+    subject: مكاتب دراسة في مكتبة بـ University of Malaya
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engine_library_Oct_2021_empty_view_desks.jpg
 ---
 
 كل من يقرر كيف يصبح محاسبًا في ماليزيا يصطدم مباشرة بحساء من الأحرف المختصرة: **MIA وACCA وCIMA وMICPA وICAEW وCPA Australia وCA(M) وCGMA وQE.** يبدو الأمر وكأنه قائمة من المؤهلات المتنافسة التي عليك الاختيار بينها. لكن فهمه أفضل بوصفه **وجهة واحدة لها عدة طرق تؤدي إليها** — وبمجرد أن ترى الوجهة، تتضح الخيارات.

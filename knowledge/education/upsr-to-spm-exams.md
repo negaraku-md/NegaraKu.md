@@ -51,7 +51,27 @@ sources:
     publisher: "Sinar Harian"
     date: "2021-04-28"
   - title: "PT3 dimansuhkan mulai 2022 - Menteri Pendidikan"
-    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022---menteri-pendidikan"
+    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022
+images:
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-1.webp
+    alt: Dewan sekolah (dewan) berwarna biru dan kuning yang ceria milik SMK Bugaya II di Sabah, jenis dewan tempat peperiksaan awam seperti SPM diduduki.
+    kind: representative
+    origin: third-party
+    subject: Dewan sekolah menengah di Malaysia sejenis yang digunakan untuk peperiksaan awam
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-2.webp
+    alt: Blok bilik darjah bertingkat SMK Sapulut, sebuah sekolah menengah kerajaan di Sabah.
+    kind: actual
+    origin: third-party
+    subject: Sebuah sekolah menengah di Malaysia (SMK Sapulut)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
+---menteri-pendidikan"
     publisher: "mStar"
     date: "2022-06-02"
   - title: "Keperluan PT3, UPSR dikaji semula - Fadhlina"

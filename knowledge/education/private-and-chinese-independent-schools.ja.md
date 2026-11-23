@@ -23,7 +23,7 @@ appliesTo: "国民学校、私立国民課程学校、華文独立中学の間�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6e235692a71d508a"
+sourceContentHash: "bc3e9340ade6fe52"
 
 status: "published"
 aiAssisted: true
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Papar_Sabah_Papar-Middle_School-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-1.webp
+    alt: ペナン州のチョンリン（私立）中学（Sekolah Menengah Chung Ling (Persendirian)）の正面。柱のある白い多層階の建物で、校名がマレー語・中国語・英語で記されている。
+    kind: actual
+    origin: third-party
+    subject: チョンリン（私立）中学（鍾霊独立中学、ペナン州の華文独立中学）
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_Private_High_School.jpg
+  - role: scene
+    src: /media/education/private-and-chinese-independent-schools/body-2.webp
+    alt: クアラルンプールのクンチェン中学の大きな多層階の本館。屋根の縁に中国語（坤成中学）と英語で校名が示されている。
+    kind: actual
+    origin: third-party
+    subject: クンチェン中学（坤成中学、クアラルンプールの華文独立中学）
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Kuen-Cheng-High-School-01.jpg
 ---
 
 マレーシアの保護者に「私立学校」とは何かと尋ねると、まったく異なる3つのものを思い浮かべるかもしれない——近所の政府学校とまったく同じカリキュラムで教える有料学校、CambridgeやIBを教える国際学校、そして華文教育コミュニティ以外ではほとんど聞いたことのない試験を実施する華文独立中学（独中）である。この3つのうち、SPMを受験するのは1つだけ、UECを受験するのも1つだけである。この3つを混同することは、18歳の子どもの選択肢を見誤る最も簡単な方法である。

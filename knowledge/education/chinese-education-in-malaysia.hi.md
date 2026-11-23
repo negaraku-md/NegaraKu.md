@@ -31,7 +31,7 @@ faq:
   - q: "独中 के बाद आगे की पढ़ाई कहाँ की जा सकती है?"
     a: "独中 विद्यार्थियों के आगे बढ़ने के मार्ग विविध हैं। कई लोग UEC प्रमाणपत्र से स्थानीय निजी कॉलेज/विश्वविद्यालय या विदेशी विश्वविद्यालयों में आगे पढ़ते हैं, और कुछ विद्यार्थी अधिक विकल्प बनाए रखने के लिए SPM भी देते हैं। स्थानीय चीनी उच्च शिक्षा संस्थानों में New Era University College, Southern University College और Han Chiang University College of Communication आदि शामिल हैं, जो चीनी शिक्षा प्रणाली से विकसित हुए हैं। 2026 से, विशिष्ट शर्तें पूरी करने वाले UEC विद्यार्थी एक नए मार्ग से कुछ सार्वजनिक विश्वविद्यालय पाठ्यक्रमों में भी आवेदन कर सकते हैं।"
 lang: "hi"
-sourceContentHash: "11102fbd9b87b7f9"
+sourceContentHash: "3fde1ff0d6a51181"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(C)_Chun_Yin_(260103).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-1.webp
+    alt: पेनांग में Chung Ling High School का वृक्ष-आच्छादित परिसर, जो मलेशिया के सुस्थापित चीनी-माध्यम माध्यमिक विद्यालयों में से एक है।
+    kind: actual
+    origin: third-party
+    subject: Chung Ling High School, पेनांग
+    credit: CW Tan (PenangLion) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chung_Ling_High_School_(October_2022).jpg
+  - role: scene
+    src: /media/education/chinese-education-in-malaysia/body-2.webp
+    alt: कुआलालंपुर में SJK(C) Confucian का प्रवेशद्वार और नाम-पट्ट, चीनी-माध्यम सरकारी-सहायता प्राप्त प्राथमिक विद्यालयों में से एक जो स्थानीय-भाषा प्रणाली को पोषित करते हैं।
+    kind: actual
+    origin: third-party
+    subject: SJK(C) Confucian, कुआलालंपुर का एक चीनी-माध्यम प्राथमिक विद्यालय
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SJK_(C)_Confucian.jpg
 ---
 
 भोर में, किसी चीनी प्राथमिक विद्यालय के मैदान में चीनी, मलय और अंग्रेज़ी की आपस में घुली-मिली आवाज़ें गूँजती हैं; कुछ राज्यों की दूरी पर, किसी चीनी स्वतंत्र माध्यमिक विद्यालय (独中) के सभागार में विद्यार्थी वर्षांत की UEC (统考) परीक्षा की तैयारी कर रहे हैं; और जोहोर तथा पिनांग में चीनी शिक्षा प्रणाली से विकसित विश्वविद्यालय कॉलेज नए विद्यार्थियों का स्वागत कर रहे हैं। ये सभी दृश्य एक ही धारा — मलेशिया की चीनी शिक्षा — के अंग हैं, फिर भी भिन्न-भिन्न स्तरों पर स्थित हैं और भिन्न वित्तपोषण-विधियों तथा विधिक व्यवस्थाओं के अधीन हैं।

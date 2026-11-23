@@ -52,7 +52,27 @@ sources:
     publisher: "Sinar Harian"
     date: "2021-04-28"
   - title: "PT3 2022 से समाप्त - शिक्षा मंत्री (PT3 dimansuhkan mulai 2022 - Menteri Pendidikan)"
-    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022---menteri-pendidikan"
+    url: "https://www.mstar.com.my/lokal/semasa/2022/06/02/pt3-dimansuhkan-mulai-2022
+images:
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-1.webp
+    alt: सबाह में SMK Bugaya II का रंगीन नीले-और-पीले रंग का विद्यालय हॉल (dewan), वही प्रकार का हॉल जिसमें SPM जैसी सार्वजनिक परीक्षाएँ दी जाती हैं।
+    kind: representative
+    origin: third-party
+    subject: सार्वजनिक परीक्षाओं के लिए उपयोग किए जाने वाले प्रकार का एक मलेशियाई माध्यमिक-विद्यालय हॉल
+    credit: Zahirulnukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Pagtipunan_Lasah_SMK_Bugaya_II_02.jpg
+  - role: scene
+    src: /media/education/upsr-to-spm-exams/body-2.webp
+    alt: SMK Sapulut का एक बहुमंजिला कक्षा-खंड, सबाह में एक सरकारी माध्यमिक विद्यालय।
+    kind: actual
+    origin: third-party
+    subject: एक मलेशियाई माध्यमिक विद्यालय (SMK Sapulut)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sapulut_Sabah_SMK-Sapulut-07.jpg
+---menteri-pendidikan"
     publisher: "mStar"
     date: "2022-06-02"
   - title: "PT3, UPSR की आवश्यकता की पुनः समीक्षा - Fadhlina (Keperluan PT3, UPSR dikaji semula - Fadhlina)"

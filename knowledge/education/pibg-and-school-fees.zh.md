@@ -29,7 +29,7 @@ faq:
     a: "不收。政府小学与中学的教育不收取学费。至于特别费，则已自2008年起通过《2007年第13号专业通令》（SPI Bil. 13/2007）废除。"
 
 lang: "zh"
-sourceContentHash: "c71280cc876e703d"
+sourceContentHash: "91c771449625cdb5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Methodist-1-2-Brickfields-Girl-Primary-School-03.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-1.webp
+    alt: 设有铺砌集会庭院的多层马来西亚中学校舍
+    kind: representative
+    origin: third-party
+    subject: 马来西亚国民中学校舍（SMK Darulaman Heights）
+    credit: Saiff / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SMK_Darulaman_Heights_1.jpg
+  - role: scene
+    src: /media/education/pibg-and-school-fees/body-2.webp
+    alt: 家长与教师齐聚学校礼堂，出席家教协会（PIBG）会议
+    kind: representative
+    origin: third-party
+    subject: 马来西亚学校的家教协会（PIBG）常年大会
+    credit: Cermin Mata / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perasmian_PIBG.jpg
 ---
 
 您的孩子被送入了"免费"的政府学校——但 PIBG 表格和一堆付款清单还是送到了家里。那么，究竟哪些是必须缴付的，哪些不是？

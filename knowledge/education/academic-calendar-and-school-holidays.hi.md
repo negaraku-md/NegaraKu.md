@@ -29,7 +29,7 @@ faq:
     a: "आधिकारिक कैलेंडर हर साल सत्र शुरू होने से पहले MOE परिपत्रों और moe.gov.my पोर्टल के माध्यम से जारी किया जाता है। सटीक तारीखों के लिए आधिकारिक स्रोतों को देखें, क्योंकि वे हर साल बदलती हैं।"
 
 lang: "hi"
-sourceContentHash: "d8dc796d9fea25f6"
+sourceContentHash: "d7bb77ea8047230b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_Sekolah_Kebangsaan_Bandar-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-1.webp
+    alt: किसी मलेशियाई स्कूल का झंडों से घिरा खाली सभा-मैदान, जहाँ विद्यार्थी हर सुबह दिन के पहले पाठ शुरू होने से पहले एकत्र होते हैं।
+    kind: representative
+    origin: third-party
+    subject: एक मलेशियाई स्कूल का सभा-मैदान (tapak perhimpunan)
+    credit: Fadzuan Ehsan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Suasana_Sekolah_3.jpg
+  - role: scene
+    src: /media/education/academic-calendar-and-school-holidays/body-2.webp
+    alt: वर्दी पहने दो स्कूली छात्राएँ, लांगकावी की एक सड़क पर, दिन का स्कूल सत्र समाप्त होने के बाद मोटरबाइक से घर लौटती हुईं।
+    kind: representative
+    origin: third-party
+    subject: लांगकावी में कक्षा के बाद घर लौटतीं वर्दीधारी स्कूली छात्राएँ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Langkawi_Malaysia_School-girls-on-a-motorbike-01.jpg
 ---
 
 साल की शुरुआत में एक पारिवारिक यात्रा की योजना बनाइए, और आपको जल्दी ही एक बात पर ध्यान जाएगा: केलंतान में आपका पड़ोसी सेलंगोर में आपके बच्चे से एक दिन पहले स्कूल शुरू करता है। यह कोई गलती नहीं है — मलेशिया का स्कूल कैलेंडर इसी तरह डिज़ाइन किया गया है।

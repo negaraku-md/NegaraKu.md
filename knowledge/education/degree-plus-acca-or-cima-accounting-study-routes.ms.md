@@ -33,7 +33,7 @@ faq:
 
 lang: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d8f3e63e8e371c06"
+sourceContentHash: "f1edb16bb1e0f23c"
 masterLanguage: "en"
 
 status: "published"
@@ -91,6 +91,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Idris_Education_University_Sultan_Abdul_Jalil_Campus_lecture_hall_complex_(220712).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-1.webp
+    alt: Deretan tempat duduk bertingkat di sebuah dewan kuliah universiti di Malaysia, sejenis dewan tempat pelajar ijazah dan perakaunan profesional menghadiri kelas.
+    kind: actual
+    origin: third-party
+    subject: Dewan kuliah universiti di Universiti Malaysia Sabah
+    credit: Mfook / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dewan_Kuliah_Pusat.JPG
+  - role: scene
+    src: /media/education/degree-plus-acca-or-cima-accounting-study-routes/body-2.webp
+    alt: Deretan meja belajar persendirian yang tenang di sebuah perpustakaan Universiti Malaya, tempat pelajar menekuni kertas ijazah serta ACCA atau CIMA.
+    kind: representative
+    origin: third-party
+    subject: Meja belajar di sebuah perpustakaan Universiti Malaya
+    credit: Vincent60030 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engine_library_Oct_2021_empty_view_desks.jpg
 ---
 
 Sesiapa yang menimbang cara untuk menjadi akauntan di Malaysia akan terus berdepan dengan kekeliruan singkatan: **MIA, ACCA, CIMA, MICPA, ICAEW, CPA Australia, CA(M), CGMA, QE.** Ia kelihatan seperti satu menu kelayakan yang bersaing yang mesti anda pilih antaranya. Ia lebih baik difahami sebagai **satu destinasi dengan beberapa jalan ke arahnya** — dan sebaik sahaja anda nampak destinasinya, pilihan-pilihan itu menjadi jelas.

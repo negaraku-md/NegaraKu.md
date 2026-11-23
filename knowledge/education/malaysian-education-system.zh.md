@@ -36,7 +36,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "613eb3145a3df62e"
+sourceContentHash: "43689c40bbb62680"
 
 status: "published"
 aiAssisted: true
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sandakan_Sabah_School-boys-and-girls-in-their-school-uniform-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/malaysian-education-system/body-1.webp
+    alt: 马来西亚一所学校智慧图书馆里，身穿校服的小学生坐在桌前使用平板电脑
+    kind: representative
+    origin: third-party
+    subject: 马来西亚小学生在学校智慧图书馆里用平板电脑学习
+    credit: Qwerqwer133 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Murid_sekolah_Sum_Sun_menggunakan_tablet_di_perpustakaan_pintar.jpg
+  - role: scene
+    src: /media/education/malaysian-education-system/body-2.webp
+    alt: 蓝天下设有有盖走道的多层马来西亚中学校舍
+    kind: representative
+    origin: third-party
+    subject: 马来西亚国民中学校舍（SMK Bandar Saujana Putra）
+    credit: Countryball mys123 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bangunan_SMK_Bandar_Saujana_Putra.jpg
 ---
 
 找三个马来西亚人来描述「教育体系」，你会得到三张不同的地图。一个人谈的是国民学校（SK）与国民型华文学校（SJKC）的区别。另一个人谈的是STPM与Matrikulasi（预科班）的区别。第三个人则提到一张连技职培训圈子以外的人都没听过的SKM证书。三个人说的其实是同一套体系——只是站在不同的分支上而已。

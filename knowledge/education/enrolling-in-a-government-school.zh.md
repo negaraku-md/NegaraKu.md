@@ -34,7 +34,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 updated: 2026-07-24
-sourceContentHash: "8bb8f4e4a270c076"
+sourceContentHash: "367beba319f714eb"
 sources:
   - title: "注册（一年级学生注册） (Pendaftaran (Pendaftaran Murid Tahun 1))"
     url: "https://www.moe.gov.my/pendaftaran-sr"
@@ -73,6 +73,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sekolah_kebangsaan,_Kota_warisan,_selangor,_my.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-1.webp
+    alt: 马六甲爱极乐一所国民小学的主教学楼，这类政府学校是大多数家庭为孩子报名入学的选择。
+    kind: actual
+    origin: third-party
+    subject: 马六甲爱极乐国民小学（Sekolah Kebangsaan Ayer Keroh）
+    credit: Stress 043 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ayer_Keroh_National_School_main_building_back.jpg
+  - role: scene
+    src: /media/education/enrolling-in-a-government-school/body-2.webp
+    alt: 一条两旁插着马来西亚国旗的有盖走道通向政府学校大门，这是新生在首个入学日所走的路。
+    kind: representative
+    origin: third-party
+    subject: 通往马来西亚政府学校、两旁插满旗帜的入口走道
+    credit: Fadidfadilah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:LALUAN_MASUK_KE_SEKOLAH.jpg
 ---
 
 许多家长惊讶地发现，他们无法像当初报读一年级那样，自行为孩子「报读」中一。

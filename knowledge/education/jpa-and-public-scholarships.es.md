@@ -29,7 +29,7 @@ faq:
     a: "Normalmente no. Las becas completas como las del JPA y MARA suelen exigir que los estudiantes renuncien al PTPTN para el mismo nivel de estudios. Verifique los términos del acuerdo del patrocinador correspondiente."
 
 lang: "es"
-sourceContentHash: "df0ebd67e147cbc0"
+sourceContentHash: "30bf9e16f01f6ac5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:UiTM_Rembau.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-1.webp
+    alt: Modernos edificios académicos y terrenos ajardinados en el Campus de Ingeniería de la Universiti Sains Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Campus de Ingeniería de la Universiti Sains Malaysia, una universidad pública de investigación de Malasia
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Engineering_Campus,_Universiti_Sains_Malaysia_(240913).jpg
+  - role: scene
+    src: /media/education/jpa-and-public-scholarships/body-2.webp
+    alt: Filas de estudiantes graduándose con togas y birretes académicos, sentados en una ceremonia de graduación de una universidad malasia.
+    kind: representative
+    origin: third-party
+    subject: Graduandos con togas en una ceremonia de graduación de una universidad malasia (DRB-HICOM University, 2023)
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:DHU_1.jpg
 ---
 
 Obtener 9A+ en el SPM no garantiza automáticamente una beca completa en el extranjero — porque en Malasia, el patrocinio público no se trata solo de las notas, sino también de a qué programa se postula, las condiciones de servicio asociadas, y la política que rige cada fondo. Comprender este mapa de patrocinadores importa, porque la elección equivocada puede significar miles de ringgit que usted tenga que devolver más adelante.
