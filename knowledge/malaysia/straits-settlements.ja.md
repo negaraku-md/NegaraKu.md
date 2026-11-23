@@ -31,7 +31,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9cb8a0574c93b0cb"
+sourceContentHash: "10ccdf31f5940b72"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -99,6 +99,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Fort_Cornwallis,_Penang_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-1.webp
+    alt: 壮麗な2階建ての白塗り植民地建築。高い列柱のベランダ、アーチ窓、左右対称のファサードを備え、手入れされた緑の芝生の奥、青空の下のペナン、ジョージタウンに建つ。
+    kind: actual
+    origin: third-party
+    subject: ジョージタウンにある白塗りの植民地時代のペナン市庁舎。海峡植民地の行政庁舎
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_City_Hall_(cropped).jpg
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-2.webp
+    alt: 大邸宅の装飾豊かなファサードが鮮やかな藍色に塗られ、緑の鎧戸、装飾的な軒、アーチ型の戸口が並ぶ。ペナン、ジョージタウンを代表する海峡華人の中庭式邸宅。
+    kind: actual
+    origin: third-party
+    subject: 藍色のチョン・ファッ・ツィー邸。ジョージタウン（ペナン）にある海峡華人商人の中庭式邸宅
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia-_Cheong-Fatt-Tze-Mansion-01.jpg
 ---
 
 三つの港、四十一年間で四度の行政上の地位の変更。これが、マレー属邦に触れる以前の海峡植民地（Straits Settlements）の姿である。

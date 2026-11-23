@@ -21,7 +21,7 @@ appliesTo: "Lectores, estudiantes e investigadores que busquen una visión gener
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9c5b289247ceb3ae"
+sourceContentHash: "14f91804e49efb27"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Iskandariah,_Kuala_Kangsar.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-1.webp
+    alt: Una mezquita blanca coronada por una gran cúpula dorada en forma de bulbo, flanqueada por cúpulas doradas más pequeñas y cuatro esbeltos alminares, reluciente contra un cielo despejado; la mezquita real Ubudiah en Kuala Kangsar, Perak.
+    kind: actual
+    origin: third-party
+    subject: la mezquita Ubudiah, la mezquita real de Perak en Kuala Kangsar, con su cúpula dorada
+    credit: Miss Prema Darshini / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ubudiah_Mosque_Kuala_Kangsar.jpg
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-2.webp
+    alt: Un majestuoso palacio de color crema de la época colonial, con ventanas en arco, balaustradas decorativas y una fachada simétrica rematada por pequeños torreones, situado tras un césped bajo un cielo luminoso; el Istana Hulu en Kuala Kangsar, Perak.
+    kind: actual
+    origin: third-party
+    subject: el Istana Hulu, antiguo palacio real de Perak en Kuala Kangsar, hoy la Galería Sultan Azlan Shah
+    credit: Sabihahrazafa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Hulu,_Kuala_Kangsar.jpg
 ---
 
 Cuando Melaka cayó ante los cañones portugueses en 1511, la dinastía que había hecho famoso el Estrecho no murió con la ciudad. Su último sultán, Mahmud Shah, se retiró archipiélago arriba y dejó dos hijos; uno refundaría el linaje real río abajo en Johor, el otro portaría la vieja corona de Melaka hacia el norte, a un valle tranquilo surcado por un río cuyos bancos de arena relucían con estaño. Aquel reino septentrional se convirtió en Perak, y casi cinco siglos después sigue siendo gobernado por la misma estirpe, ahora por un sultán cuyo trono se transmite no de padre a hijo, sino a lo largo de una escalera móvil de príncipes. Esta es la historia de cómo una dinastía derrotada sobrevivió, se enriqueció con el estaño, perdió su soberanía ante Gran Bretaña por un solo tratado y perduró hasta el presente.

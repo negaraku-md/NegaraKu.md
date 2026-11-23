@@ -18,7 +18,7 @@ keyTakeaways:
   - "1824年英荷条约及其后续安排将这片疆域一分为二：廖内-林加归属荷兰，柔佛则纳入英国势力范围"
 appliesTo: "任何想了解马六甲马来皇室体制如何不间断地延续至现代马来州属，特别是柔佛的人。"
 lang: "zh"
-sourceContentHash: "4378491a1522cd95"
+sourceContentHash: "e4a914e6d8d4b14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -69,6 +69,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-1.webp
+    alt: 柔佛白色的大王宫，拥有庄严的立面和绿色屋顶的塔楼，隔着柔佛海峡的水面从滨水处望去。
+    kind: actual
+    origin: third-party
+    subject: 大王宫（Istana Besar，今为皇家苏丹阿布峇卡博物馆），位于柔佛新山
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Istana_Besar_from_Woodlands_Waterfront_060925.jpg
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-2.webp
+    alt: 气势恢宏的灰色苏丹依布拉欣大厦矗立在山丘上，一座狭长对称的政府大楼，顶部耸立着高高的中央钟楼兼萨拉森式塔楼，以斜角视角观看。
+    kind: actual
+    origin: third-party
+    subject: 苏丹依布拉欣大厦（Bangunan Sultan Ibrahim），新山昔日的柔佛州秘书处大楼
+    credit: Fxchua / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perspective_View_of_Sultan_Ibrahim_Building.jpg
 ---
 
 1511年，葡萄牙人的炮火摧毁了一座城池——但没有摧毁一个王位。马六甲城陷落之际，末代马六甲苏丹苏丹马末沙并未投降。他偕同皇室成员、重臣，以及最重要的——使马六甲成为一个苏丹国的整套体制——一并南撤。城池失去了，苏丹国却继续前行。

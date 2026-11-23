@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Lecteurs, étudiants et chercheurs cherchant un aperçu sourcé de l'histoire royale du Perak, des origines de la domination coloniale britannique dans les États malais, et du fonctionnement du sultanat rotatif de Malaisie."
 lang: "fr"
 masterLanguage: "en"
-sourceContentHash: "9c5b289247ceb3ae"
+sourceContentHash: "14f91804e49efb27"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
@@ -70,6 +70,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Iskandariah,_Kuala_Kangsar.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-1.webp
+    alt: Une mosquée blanche couronnée d'un grand dôme doré en forme de bulbe, flanqué de dômes dorés plus petits et de quatre minarets élancés, étincelant contre un ciel clair ; la mosquée royale Ubudiah à Kuala Kangsar, Perak.
+    kind: actual
+    origin: third-party
+    subject: la mosquée Ubudiah, la mosquée royale de Perak à Kuala Kangsar, avec son dôme doré
+    credit: Miss Prema Darshini / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ubudiah_Mosque_Kuala_Kangsar.jpg
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-2.webp
+    alt: Un palais majestueux de couleur crème de l'époque coloniale, aux fenêtres en arc, aux balustrades décoratives et à la façade symétrique couronnée de petites tourelles, situé derrière une pelouse sous un ciel lumineux ; l'Istana Hulu à Kuala Kangsar, Perak.
+    kind: actual
+    origin: third-party
+    subject: l'Istana Hulu, ancien palais royal de Perak à Kuala Kangsar, aujourd'hui la Galerie Sultan Azlan Shah
+    credit: Sabihahrazafa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Hulu,_Kuala_Kangsar.jpg
 ---
 
 Lorsque Melaka tomba sous les canons portugais en 1511, la dynastie qui avait rendu le détroit célèbre ne mourut pas avec la ville. Son dernier sultan, Mahmud Shah, se retira vers le haut de l'archipel et laissa deux fils ; l'un refonderait la lignée royale en aval à Johor, l'autre porterait l'ancienne couronne de Melaka vers le nord, jusqu'à une vallée paisible parcourue par une rivière dont les bancs de sable scintillaient d'étain. Ce royaume septentrional devint le Perak, et près de cinq siècles plus tard il est toujours gouverné par la même lignée, désormais par un sultan dont le trône se transmet non de père en fils mais le long d'une échelle mouvante de princes. Voici l'histoire de la façon dont une dynastie vaincue survécut, s'enrichit grâce à l'étain, perdit sa souveraineté au profit de la Grande-Bretagne par un seul traité, et perdura jusqu'à nos jours.

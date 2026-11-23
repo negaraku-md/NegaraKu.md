@@ -21,7 +21,7 @@ appliesTo: "マレーシアの九つの王家の一つの起源と近代史を�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "fac5b87856cb5510"
+sourceContentHash: "17a6e34036a4694c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Bandar_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/selangor-sultanate/body-1.webp
+    alt: 壮麗な植民地様式の白とクリーム色の歴史的建造物。アーチ窓と瓦屋根を備え、芝生の奥に建ち、クランのスランゴール王室ギャラリーが入る。
+    kind: actual
+    origin: third-party
+    subject: スランゴール州クランにあるスルタン・アブドゥル・アジズ王室ギャラリー（Galeri Diraja Sultan Abdul Aziz）
+    credit: Fumiko yabe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Gallery_of_Sultan_Abdul_Aziz.JPG
+  - role: scene
+    src: /media/malaysia/selangor-sultanate/body-2.webp
+    alt: 優美な青と白の王室モスク。大きな中央ドーム、両脇のドーム、細いミナレットが澄んだ空に向かってそびえる、クランにて。
+    kind: actual
+    origin: third-party
+    subject: スランゴール州クランにあるスルタン・スライマン王室モスク（Masjid Diraja Sultan Sulaiman）
+    credit: Qaedi Shamsuddin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Exterior_of_Masjid_Diraja_Sultan_Suleiman.jpg
 ---
 
 マレー半島の西海岸、クラン川とセランゴール川がマラッカ海峡へと注ぐその地で、諸島の反対側から来た海の民が、半島で最も富裕な州の一つを築いた。彼らの富は香料や金ではなく錫——渓谷に埋もれた灰色の鉱石——の上に築かれ、それは一世紀のうちに、この若い王国を自らの富をめぐる戦争へと、そしてやがては英国理事官の影のもとへと引きずり込むことになる。本稿は、その王統が今日もなお王座に就くブギスの王朝、セランゴール王国の物語である。

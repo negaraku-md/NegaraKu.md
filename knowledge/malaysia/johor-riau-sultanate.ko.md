@@ -18,7 +18,7 @@ keyTakeaways:
   - "1824년 영란 조약(Perjanjian Inggeris-Belanda)과 그 후속 조치는 이 영역을 나누었습니다: 리아우-링가(Riau-Lingga)는 네덜란드 아래로, 조호르(Johor)는 영국의 영향권 아래로 들어갔습니다"
 appliesTo: "말라카의 말레이 왕실 제도가 어떻게 끊김 없이 현대 말레이 주들, 특히 조호르(Johor)로 이어졌는지 이해하고자 하는 모든 이."
 lang: "ko"
-sourceContentHash: "4378491a1522cd95"
+sourceContentHash: "e4a914e6d8d4b14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -69,6 +69,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-1.webp
+    alt: 흰색 조호르 이스타나 브사르 대궁전. 위엄 있는 정면과 녹색 지붕의 탑을 지녔으며, 조호르 해협의 물 건너 수변에서 바라본 모습.
+    kind: actual
+    origin: third-party
+    subject: 이스타나 브사르(대궁전, 현재는 왕립 아부 바카르 박물관). 조호르바루 조호르에 있다
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Istana_Besar_from_Woodlands_Waterfront_060925.jpg
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-2.webp
+    alt: 언덕 위에 솟은 위압적인 회색의 술탄 이브라힘 빌딩. 길고 좌우 대칭인 관청 건물로, 높은 중앙 시계탑 겸 사라센 양식 탑을 얹은 모습을 비스듬히 바라본다.
+    kind: actual
+    origin: third-party
+    subject: 방우난 술탄 이브라힘(술탄 이브라힘 빌딩). 조호르바루에 있는 옛 조호르 주청사
+    credit: Fxchua / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perspective_View_of_Sultan_Ibrahim_Building.jpg
 ---
 
 1511년, 포르투갈의 대포가 하나의 도성을 무너뜨렸습니다 — 그러나 왕좌를 무너뜨리지는 못했습니다. 말라카(Melaka) 성이 함락되었을 때, 마지막 말라카 술탄인 술탄 마흐무드 샤(Sultan Mahmud Shah)는 항복하지 않았습니다. 왕은 왕실 가족, 대신들, 그리고 무엇보다 말라카를 하나의 술탄국이게 한 제도의 총체를 이끌고 남쪽으로 물러났습니다. 도성은 사라졌으나, 그 술탄국은 이동했습니다.

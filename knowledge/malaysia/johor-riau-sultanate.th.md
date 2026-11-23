@@ -19,7 +19,7 @@ keyTakeaways:
   - "สนธิสัญญาอังกฤษ-ดัตช์ 1824 และผลที่ตามมาแบ่งอาณาเขตนี้ คือ เรียา-ลิงกาอยู่ภายใต้ดัตช์ ยะโฮร์อยู่ภายใต้อิทธิพลของอังกฤษ"
 appliesTo: "ผู้ที่ต้องการเข้าใจว่าสถาบันพระราชาแห่งมลายูมะละกาเชื่อมต่อโดยไม่ขาดสายไปยังรัฐมลายูสมัยใหม่ โดยเฉพาะยะโฮร์ อย่างไร"
 lang: "th"
-sourceContentHash: "4378491a1522cd95"
+sourceContentHash: "e4a914e6d8d4b14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-1.webp
+    alt: พระราชวังหลวงอิสตานาเบอซาร์สีขาวของรัฐยะโฮร์ ด้วยด้านหน้าอันสง่างามและหอคอยหลังคาสีเขียว มองข้ามผืนน้ำจากริมฝั่งช่องแคบยะโฮร์
+    kind: actual
+    origin: third-party
+    subject: อิสตานาเบอซาร์ (พระราชวังหลวง ปัจจุบันเป็นพิพิธภัณฑ์หลวงอาบูบาการ์) ในยะโฮร์บาห์รู รัฐยะโฮร์
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Istana_Besar_from_Woodlands_Waterfront_060925.jpg
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-2.webp
+    alt: อาคารสุลต่านอิบราฮิมสีเทาอันโอ่อ่าตั้งตระหง่านบนเนินเขา เป็นอาคารราชการยาวทรงสมมาตร มียอดเป็นหอนาฬิกากลางสูงแบบซาราเซนิก มองจากมุมเฉียง
+    kind: actual
+    origin: third-party
+    subject: อาคารสุลต่านอิบราฮิม (Bangunan Sultan Ibrahim) อดีตที่ทำการเลขาธิการรัฐยะโฮร์ในยะโฮร์บาห์รู
+    credit: Fxchua / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perspective_View_of_Sultan_Ibrahim_Building.jpg
 ---
 
 ในปี 1511 ปืนใหญ่ของโปรตุเกสได้ทำลายเมือง แต่ไม่ใช่ราชบัลลังก์ เมื่อเมืองมะละกาล่มลง สุลต่านมะฮ์มุด ชาห์ (Sultan Mahmud Shah) สุลต่านมะละกาองค์สุดท้าย ไม่ได้ยอมจำนน พระองค์ล่าถอยไปทางใต้พร้อมกับราชวงศ์ บรรดาขุนนาง และที่สำคัญที่สุด ลำดับสถาบันทั้งหมดที่ทำให้มะละกาเป็นรัฐสุลต่าน เมืองนั้นสูญไป รัฐสุลต่านนั้นเคลื่อนที่

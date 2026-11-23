@@ -29,7 +29,7 @@ faq:
   - q: "해협식민지는 결국 어떻게 되었습니까?"
     a: "1946년 4월 1일 해체되었습니다. 피낭(Penang)과 말라카(Melaka)는 연합 및 비연합 말레이 주들과 함께 말라야 연합(Malayan Union)에 편입되었고, 싱가포르(Singapore)는 별개의 독자적 직할식민지로 분리되었습니다."
 lang: "ko"
-sourceContentHash: "9cb8a0574c93b0cb"
+sourceContentHash: "10ccdf31f5940b72"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -100,6 +100,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Fort_Cornwallis,_Penang_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-1.webp
+    alt: 웅장한 2층짜리 흰색 식민지 건물로, 높은 기둥이 늘어선 베란다, 아치형 창문, 좌우 대칭의 정면을 갖추고 있으며, 잘 손질된 푸른 잔디밭 뒤 파란 하늘 아래 페낭 조지타운에 서 있다.
+    kind: actual
+    origin: third-party
+    subject: 조지타운에 있는 흰색 식민지 시대 페낭 시청. 해협식민지 행정 건물
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_City_Hall_(cropped).jpg
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-2.webp
+    alt: 큰 저택의 화려한 정면이 선명한 남색으로 칠해져 있고, 녹색 덧문, 장식적인 처마, 아치형 출입구가 줄지어 있다. 페낭 조지타운의 대표적인 해협 화인 중정식 저택.
+    kind: actual
+    origin: third-party
+    subject: 남색의 청팟쯔 저택(Cheong Fatt Tze Mansion). 페낭 조지타운에 있는 해협 화인 상인의 중정식 저택
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia-_Cheong-Fatt-Tze-Mansion-01.jpg
 ---
 
 세 개의 항구, 네 차례의 행정적 지위 변경, 그리고 41년. 이것이 말레이 국가들에 닿기 전 해협식민지의 모습입니다.

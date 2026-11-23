@@ -19,7 +19,7 @@ keyTakeaways:
   - "Le traité anglo-néerlandais de 1824 et ses suites divisèrent ce territoire : Riau-Lingga sous les Néerlandais, Johor dans la sphère britannique"
 appliesTo: "Quiconque souhaite comprendre comment l'institution royale malaise de Melaka s'est perpétuée sans interruption jusqu'aux États malais modernes, en particulier Johor."
 lang: "fr"
-sourceContentHash: "4378491a1522cd95"
+sourceContentHash: "e4a914e6d8d4b14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-1.webp
+    alt: Le grand palais blanc Istana Besar de Johor, avec sa façade majestueuse et sa tour au toit vert, vu de l'autre côté de l'eau depuis le front de mer du détroit de Johor.
+    kind: actual
+    origin: third-party
+    subject: l'Istana Besar (le Grand Palais, aujourd'hui le Musée royal Abu Bakar) à Johor Bahru, Johor
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Istana_Besar_from_Woodlands_Waterfront_060925.jpg
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-2.webp
+    alt: L'imposant bâtiment Sultan Ibrahim, gris, se dressant sur une colline ; un long bloc gouvernemental symétrique couronné d'une haute tour-horloge centrale de style sarrasin, vu en angle.
+    kind: actual
+    origin: third-party
+    subject: le Bangunan Sultan Ibrahim (bâtiment Sultan Ibrahim), ancien secrétariat de l'État de Johor à Johor Bahru
+    credit: Fxchua / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perspective_View_of_Sultan_Ibrahim_Building.jpg
 ---
 
 En 1511, les canons portugais abattirent une ville — mais non un trône. Lorsque la forteresse de Melaka tomba, le Sultan Mahmud Shah, le dernier sultan de Melaka, ne se rendit pas. Il se retira vers le sud avec la famille royale, les ministres principaux et — surtout — tout l'ordre institutionnel qui faisait de Melaka un sultanat. La ville fut perdue ; le sultanat se déplaça.

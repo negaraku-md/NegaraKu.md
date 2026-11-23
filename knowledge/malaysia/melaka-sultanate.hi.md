@@ -29,7 +29,7 @@ faq:
     a: "दरबार बचा रहा। सुल्तान महमूद शाह और उनके वंशजों ने दक्षिण में मलय शासन फिर से स्थापित किया, सबसे महत्वपूर्ण रूप से जोहोर सल्तनत (Johor Sultanate) में, और मेलाका के दरबार-ढाँचे, विधि-संहिता और भाषा को आगे ले गए। वे संस्थाएँ नगर की स्वतंत्रता से सदियों अधिक टिकीं।"
 
 lang: "hi"
-sourceContentHash: "c0cb6569dbb2731b"
+sourceContentHash: "71f9e93ec46a7d9e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-1.webp
+    alt: हरे-भरे मैदान पर खुले आसमान तले अकेला खड़ा एक जर्जर धूसर पत्थर का प्रवेशद्वार, जिसमें मेहराबदार प्रवेश और उसके ऊपर एक छोटा उत्कीर्ण राजचिह्न है; मेलाका में A Famosa किले का अंतिम बचा हुआ द्वार।
+    kind: representative
+    origin: third-party
+    subject: मेलाका में A Famosa पुर्तगाली किले का द्वार (Porta de Santiago), जो सल्तनत के पतन के शीघ्र बाद बनाया गया
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-2.webp
+    alt: एक पहाड़ी की चोटी पर पुराने गिरजाघर का छत-विहीन ईंट-पत्थर का ढाँचा, जिसकी खाली खिड़कियों के छेद और ढहती दीवारें दिन के उजाले में गर्म लाल-भूरे रंग में दमक रही हैं, और खंडहरों के बीच आगंतुक घूम रहे हैं।
+    kind: representative
+    origin: third-party
+    subject: मेलाका में St Paul's Hill की चोटी पर St Paul's Church के छत-विहीन खंडहर
+    credit: Grace Share Share / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_,_St_Paul%27s_Church_Photo_Shooting.jpg
 ---
 
 एक राजकुमार एक जलते हुए नगर से भागता है। वह एक जलडमरूमध्य पार करता है, एक स्थानीय सरदार को मार डालता है जिसने उसे शरण दी थी, और भागता रहता है — मुआर (Muar) से होकर, उजोंग तानाह (Ujong Tanah) से होकर — जब तक वह अपने कुत्तों को विश्राम देने के लिए एक नदी के किनारे एक पेड़ के नीचे नहीं रुकता। उनमें से एक कुत्ता एक पेलंडुक (कंचिल, mouse deer) को घेर लेता है, और घिरा हुआ वह कंचिल मुड़कर उसे पानी में ठोकर मार देता है। राजकुमार इसे एक शुभ-संकेत मानता है: यहाँ तो सबसे छोटा प्राणी भी पलटकर लड़ता है। वह तय करता है कि वह अपना नगर यहीं बसाएगा, और उसका नाम उस पेड़ के नाम पर रखता है जिसके नीचे वह बैठा है — एक *मेलाका* (melaka) वृक्ष।

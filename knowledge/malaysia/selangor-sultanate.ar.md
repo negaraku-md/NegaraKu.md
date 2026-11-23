@@ -21,7 +21,7 @@ appliesTo: "الطلاب والمعلمون والباحثون والقرّاء 
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "fac5b87856cb5510"
+sourceContentHash: "17a6e34036a4694c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Bandar_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/selangor-sultanate/body-1.webp
+    alt: مبنى تراثي فخم بطراز استعماري بلونين أبيض وكريمي، بنوافذ مقوّسة وسقف من القرميد، يقع خلف مروج، ويضمّ معرض سلانجور الملكي في كلانغ.
+    kind: actual
+    origin: third-party
+    subject: Galeri Diraja Sultan Abdul Aziz (معرض السلطان عبد العزيز الملكي) في كلانغ، سلانجور
+    credit: Fumiko yabe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Gallery_of_Sultan_Abdul_Aziz.JPG
+  - role: scene
+    src: /media/malaysia/selangor-sultanate/body-2.webp
+    alt: مسجد ملكي أنيق بلونين أزرق وأبيض، بقبّة مركزية كبيرة وقباب جانبية ومآذن نحيلة ترتفع أمام سماء صافية في كلانغ.
+    kind: actual
+    origin: third-party
+    subject: Masjid Diraja Sultan Sulaiman (مسجد السلطان سليمان الملكي) في كلانغ، سلانجور
+    credit: Qaedi Shamsuddin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Exterior_of_Masjid_Diraja_Sultan_Suleiman.jpg
 ---
 
 على الساحل الغربي لشبه الجزيرة الملايوية، حيث يصبّ نهرا كلانغ (Klang) وسلانغور في مضيق ملقا، بنى شعب بحّار من الجانب الآخر من الأرخبيل إحدى أغنى ولايات شبه الجزيرة. ولم تُبنَ ثروتهم على البهار أو الذهب بل على القصدير — ذلك الخام الرمادي المدفون في الوديان الذي سيجرّ، في غضون قرن، السلطنة الفتية إلى حرب على ثرواتها نفسها، وفي النهاية إلى ظلّ مقيم بريطاني. هذه هي قصة سلطنة سلانغور، سلالة بوغيّة لا يزال خطها على العرش اليوم.

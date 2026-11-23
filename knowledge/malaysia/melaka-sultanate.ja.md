@@ -31,7 +31,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c0cb6569dbb2731b"
+sourceContentHash: "71f9e93ec46a7d9e"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -77,6 +77,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-1.webp
+    alt: 風化した灰色の石造りのアーチ門。上部に小さな彫刻の紋章があり、明るい空の下、緑の芝生に単独で立つ。ムラカのA Famosa要塞で唯一現存する門。
+    kind: representative
+    origin: third-party
+    subject: ムラカにあるポルトガルの要塞門、サンチャゴ門（A Famosa）。スルタン朝滅亡後まもなく築かれた
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-2.webp
+    alt: 丘の頂に立つ古い教会の、屋根のない煉瓦と石の外殻。がらんとした窓の開口部と崩れかけた壁が日中に暖かな赤褐色に輝き、廃墟の間を見物客が歩いている。
+    kind: representative
+    origin: third-party
+    subject: ムラカのセントポールの丘の頂にある、屋根のないセントポール教会の廃墟
+    credit: Grace Share Share / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_,_St_Paul%27s_Church_Photo_Shooting.jpg
 ---
 
 一人の王子が、燃え盛る都市から逃げ出す。彼は海峡を渡り、自分をかくまってくれた地元の首長を殺し、そのまま走り続ける——ムアルを抜け、ウジョン・タナを抜け——ついに川岸の一本の木の下で足を止め、犬たちを休ませる。その一匹がマメジカを追い詰めたが、追い詰められたマメジカは身をひるがえし、犬を蹴って川に落とした。王子はこれを予兆と受け取る——この地では、どんなに小さな生き物でも反撃するのだと。彼はここに自分の都市を築くことを決め、腰を下ろしていた木にちなんでその名を付けた——*melaka*（マラッカ）の木である。

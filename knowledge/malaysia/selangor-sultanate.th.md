@@ -21,7 +21,7 @@ appliesTo: "นักเรียน ครู นักวิจัย แล�
 lang: "th"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "fac5b87856cb5510"
+sourceContentHash: "17a6e34036a4694c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Bandar_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/selangor-sultanate/body-1.webp
+    alt: อาคารมรดกสไตล์อาณานิคมสีขาวและครีมอันโอ่อ่า มีหน้าต่างทรงโค้งและหลังคากระเบื้อง ตั้งอยู่หลังสนามหญ้า เป็นที่ตั้งของหอศิลป์หลวงแห่งรัฐสลังงอร์ในกลัง
+    kind: actual
+    origin: third-party
+    subject: หอศิลป์หลวงสุลต่านอับดุลอาซิซ (Galeri Diraja Sultan Abdul Aziz) ในกลัง รัฐสลังงอร์
+    credit: Fumiko yabe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Gallery_of_Sultan_Abdul_Aziz.JPG
+  - role: scene
+    src: /media/malaysia/selangor-sultanate/body-2.webp
+    alt: มัสยิดหลวงสีน้ำเงินและขาวอันสง่างาม มีโดมกลางขนาดใหญ่ โดมขนาบข้าง และหอคอยสุเหร่าเรียว ตั้งตระหง่านตัดกับท้องฟ้าใสในกลัง
+    kind: actual
+    origin: third-party
+    subject: มัสยิดหลวงสุลต่านสุไลมาน (Masjid Diraja Sultan Sulaiman) ในกลัง รัฐสลังงอร์
+    credit: Qaedi Shamsuddin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Exterior_of_Masjid_Diraja_Sultan_Suleiman.jpg
 ---
 
 บนชายฝั่งตะวันตกของคาบสมุทรมลายู ที่ซึ่งแม่น้ำกลังและแม่น้ำสลังงอร์ไหลลงสู่ช่องแคบมะละกา ชนชาติที่ชำนาญการเดินเรือจากอีกฟากหนึ่งของหมู่เกาะได้สร้างหนึ่งในรัฐที่ร่ำรวยที่สุดของคาบสมุทร โชคลาภของพวกเขามิได้สร้างบนเครื่องเทศหรือทองคำ แต่บนดีบุก — แร่สีเทาที่ฝังอยู่ในหุบเขาซึ่งภายในศตวรรษเดียวจะลากรัฐสุลต่านหนุ่มเข้าสู่สงครามเหนือความมั่งคั่งของตนเอง และในที่สุด สู่เงาของข้าหลวงอังกฤษ นี่คือเรื่องราวของรัฐสุลต่านสลังงอร์ ราชวงศ์บูกิสที่สายสกุลของมันยังคงประทับบนราชบัลลังก์อยู่ทุกวันนี้

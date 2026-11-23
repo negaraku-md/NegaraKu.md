@@ -31,7 +31,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c0cb6569dbb2731b"
+sourceContentHash: "71f9e93ec46a7d9e"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -78,6 +78,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-1.webp
+    alt: Pintu gerbang batu kelabu yang lusuh dengan pintu masuk berlengkung dan lambang berukir kecil di atasnya, berdiri sendirian di atas halaman rumput hijau di bawah langit cerah; satu-satunya pintu gerbang kubu A Famosa yang masih tinggal di Melaka.
+    kind: representative
+    origin: third-party
+    subject: pintu gerbang kota Portugis A Famosa (Porta de Santiago) di Melaka, dibina tidak lama selepas kejatuhan Kesultanan
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-2.webp
+    alt: Kerangka bata dan batu gereja lama tanpa bumbung di puncak bukit, bukaan tingkapnya yang kosong dan dinding yang runtuh bersinar merah-perang hangat pada siang hari, dengan pengunjung berjalan di antara runtuhan.
+    kind: representative
+    origin: third-party
+    subject: runtuhan Gereja St Paul tanpa bumbung di puncak Bukit St Paul di Melaka
+    credit: Grace Share Share / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_,_St_Paul%27s_Church_Photo_Shooting.jpg
 ---
 
 Seorang putera lari dari sebuah kota yang terbakar. Dia menyeberangi sebuah selat, membunuh seorang ketua tempatan yang melindunginya, dan terus lari — melalui Muar, melalui Ujong Tanah — sehingga dia berhenti di bawah sebatang pokok di tebing sungai untuk merehatkan anjing-anjingnya. Salah seekur daripadanya menyudutkan seekor pelanduk, dan pelanduk itu, apabila tersudut, berpaling dan menendangnya ke dalam air. Putera itu menganggap ini sebagai alamat: makhluk sekecil-kecilnya di sini pun melawan. Dia memutuskan bahawa di sinilah dia akan membina kotanya, dan menamakannya sempena pokok tempat dia sedang duduk — sebatang pokok *melaka*.

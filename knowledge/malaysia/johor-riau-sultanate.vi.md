@@ -19,7 +19,7 @@ keyTakeaways:
   - "Anglo-Dutch Treaty 1824 và những gì theo sau chia cắt vùng này: Riau-Lingga dưới quyền Hà Lan, Johor trong phạm vi ảnh hưởng của Anh"
 appliesTo: "Bất kỳ ai muốn hiểu cách thiết chế hoàng gia Mã Lai của Melaka nối liền không đứt đoạn đến các bang Mã Lai hiện đại, đặc biệt là Johor."
 lang: "vi"
-sourceContentHash: "4378491a1522cd95"
+sourceContentHash: "e4a914e6d8d4b14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-1.webp
+    alt: Đại cung điện Istana Besar màu trắng của Johor, với mặt tiền trang nghiêm và tòa tháp mái xanh, nhìn qua mặt nước từ bờ biển Eo biển Johor.
+    kind: actual
+    origin: third-party
+    subject: Istana Besar (Đại Cung điện, nay là Bảo tàng Hoàng gia Abu Bakar) ở Johor Bahru, Johor
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Istana_Besar_from_Woodlands_Waterfront_060925.jpg
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-2.webp
+    alt: Tòa nhà Sultan Ibrahim màu xám uy nghi vươn lên trên một ngọn đồi, một khối nhà chính phủ đối xứng dài được tôn lên bởi một tòa tháp đồng hồ kiểu Saracen cao ở trung tâm, nhìn từ một góc nghiêng.
+    kind: actual
+    origin: third-party
+    subject: Bangunan Sultan Ibrahim (Tòa nhà Sultan Ibrahim), cựu văn phòng thư ký bang Johor ở Johor Bahru
+    credit: Fxchua / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perspective_View_of_Sultan_Ibrahim_Building.jpg
 ---
 
 Năm 1511, đại bác Bồ Đào Nha san phẳng một thành phố — nhưng không phải một ngai vàng. Khi thành Melaka sụp đổ, Sultan Mahmud Shah, vị sultan Melaka cuối cùng, không đầu hàng. Ngài rút về phương nam cùng gia đình hoàng gia, các đại thần, và quan trọng nhất, toàn bộ hệ thống thiết chế đã làm nên một vương triều Melaka. Thành phố mất đi; vương triều di chuyển.

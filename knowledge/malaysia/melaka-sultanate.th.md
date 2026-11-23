@@ -29,7 +29,7 @@ faq:
     a: "ราชสำนักรอด สุลต่านมะฮ์มุด ชาห์ (Sultan Mahmud Shah) และผู้สืบเชื้อสายของพระองค์สถาปนาการปกครองของมลายูขึ้นใหม่ทางใต้ ที่สำคัญที่สุดในรัฐสุลต่านยะโฮร์ นำโครงสร้างราชสำนัก ประมวลกฎหมาย และภาษาของมะละกาไปข้างหน้า สถาบันเหล่านั้นอยู่นานกว่าความเป็นเอกราชของเมืองหลายศตวรรษ"
 
 lang: "th"
-sourceContentHash: "c0cb6569dbb2731b"
+sourceContentHash: "71f9e93ec46a7d9e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-1.webp
+    alt: ประตูหินสีเทาทรงโค้งที่ผุกร่อนตามกาลเวลา มีตราสลักเล็ก ๆ อยู่เหนือซุ้มประตู ตั้งอยู่โดดเดี่ยวบนสนามหญ้าเขียวใต้ท้องฟ้าสว่าง เป็นประตูเดียวที่หลงเหลือของป้อมปราการ A Famosa ในมะละกา
+    kind: representative
+    origin: third-party
+    subject: ประตูป้อมปราการโปรตุเกส A Famosa (ปอร์ตาเดซานติอาโก) ในมะละกา สร้างขึ้นไม่นานหลังการล่มสลายของรัฐสุลต่าน
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-2.webp
+    alt: โครงอิฐและหินของโบสถ์เก่าที่ไร้หลังคาบนยอดเขา ช่องหน้าต่างที่ว่างเปล่าและกำแพงที่ผุพังเปล่งประกายสีน้ำตาลแดงอบอุ่นในแสงกลางวัน โดยมีผู้มาเยือนเดินอยู่ท่ามกลางซากปรักหักพัง
+    kind: representative
+    origin: third-party
+    subject: ซากโบสถ์เซนต์ปอลที่ไร้หลังคาบนยอดเขาเซนต์ปอลในมะละกา
+    credit: Grace Share Share / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_,_St_Paul%27s_Church_Photo_Shooting.jpg
 ---
 
 เจ้าชายวิ่งหนีจากเมืองที่ถูกเผา พระองค์ข้ามช่องแคบ สังหารหัวหน้าท้องถิ่นที่ให้ที่พักพิงแก่พระองค์ และวิ่งต่อไป ผ่านมัวร์ (Muar) ผ่านอูจง ตานะฮ์ (Ujong Tanah) จนกระทั่งพระองค์หยุดใต้ต้นไม้ริมฝั่งแม่น้ำเพื่อพักสุนัขของพระองค์ สุนัขตัวหนึ่งต้อนกระจงจนมุม และกระจงที่จนมุมก็หันมาเตะมันลงน้ำ เจ้าชายถือว่านี่เป็นลางบอกเหตุ แม้แต่สัตว์ที่เล็กที่สุดที่นี่ก็ต่อสู้กลับ พระองค์ตัดสินใจว่านี่คือที่ที่พระองค์จะสร้างเมืองของพระองค์ และตั้งชื่อตามต้นไม้ที่พระองค์กำลังนั่งอยู่ใต้มัน คือ ต้น *มะละกา*

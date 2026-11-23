@@ -82,6 +82,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-1.webp
+    alt: A weathered grey stone gateway with an arched entrance and a small carved crest above it, standing alone on a green lawn under a bright sky; the last surviving gate of the A Famosa fortress in Melaka.
+    kind: representative
+    origin: third-party
+    subject: the A Famosa Portuguese fort gate (Porta de Santiago) in Melaka, built soon after the Sultanate's fall
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-2.webp
+    alt: The roofless brick-and-stone shell of an old church on a hilltop, its empty window openings and crumbling walls glowing warm red-brown in daylight, with visitors walking among the ruins.
+    kind: representative
+    origin: third-party
+    subject: the roofless ruins of St Paul's Church atop St Paul's Hill in Melaka
+    credit: Grace Share Share / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_,_St_Paul%27s_Church_Photo_Shooting.jpg
 ---
 
 A prince runs from a burning city. He crosses a strait, kills a local chief who sheltered him, and keeps running — through Muar, through Ujong Tanah — until he stops under a tree on a riverbank to rest his dogs. One of them corners a mouse deer, and the mouse deer, cornered, turns and kicks it into the water. The prince takes this as an omen: even the smallest creature here fights back. He decides this is where he will build his city, and names it after the tree he is sitting under — a *melaka* tree.

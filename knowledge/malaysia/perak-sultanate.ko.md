@@ -21,7 +21,7 @@ appliesTo: "페락의 왕실 역사, 말레이 주들에서 영국 식민 통치
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9c5b289247ceb3ae"
+sourceContentHash: "14f91804e49efb27"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Iskandariah,_Kuala_Kangsar.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-1.webp
+    alt: 흰색 모스크가 커다란 금색 양파 모양 돔을 얹고, 그 양옆에 작은 금박 돔들과 네 개의 가느다란 첨탑이 늘어서 맑은 하늘을 배경으로 빛난다. 페락주 쿠알라캉사르의 왕실 우부디아 모스크.
+    kind: actual
+    origin: third-party
+    subject: 쿠알라캉사르에 있는 페락 왕실 모스크 우부디아 모스크. 금색 돔을 얹었다
+    credit: Miss Prema Darshini / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ubudiah_Mosque_Kuala_Kangsar.jpg
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-2.webp
+    alt: 위엄 있는 크림색 식민지 시대 궁전으로, 아치형 창문, 장식 난간, 작은 탑을 얹은 좌우 대칭 정면을 갖추고 있으며, 밝은 하늘 아래 잔디밭 뒤에 서 있다. 페락주 쿠알라캉사르의 이스타나 훌루.
+    kind: actual
+    origin: third-party
+    subject: 이스타나 훌루. 쿠알라캉사르에 있던 옛 페락 왕궁으로, 현재는 술탄 아즐란 샤 갤러리
+    credit: Sabihahrazafa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Hulu,_Kuala_Kangsar.jpg
 ---
 
 1511년 말라카가 포르투갈의 대포에 함락되었을 때, 그 해협을 유명하게 만든 왕조는 도성과 함께 스러지지 않았습니다. 마지막 술탄 마흐무드 샤(Mahmud Shah)는 군도 위쪽으로 물러나며 두 아들을 남겼습니다; 한 아들은 강 하류 조호르(Johor)에서 왕실 계보를 다시 세우고, 다른 아들은 옛 말라카의 왕관을 북쪽으로, 모래톱이 주석으로 반짝이는 강이 가로지르는 조용한 골짜기로 가져갑니다. 그 북방 왕국이 페락(Perak)이 되었고, 거의 다섯 세기가 지난 지금도 같은 혈통이 그곳을 다스리는데, 이제는 아버지에서 아들이 아니라 왕자들의 움직이는 사다리를 따라 왕좌가 전해지는 술탄이 통치합니다. 이것은 패배한 왕조가 어떻게 살아남아, 주석으로 부를 쌓고, 조약 한 건으로 영국에 주권을 잃고, 현재까지 이어졌는지에 관한 이야기입니다.

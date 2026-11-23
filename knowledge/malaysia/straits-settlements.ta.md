@@ -30,7 +30,7 @@ faq:
     a: "அது 1946 ஏப்ரல் 1 அன்று கலைக்கப்பட்டது. பினாங்கும் மலாக்காவும் கூட்டமைப்பு மற்றும் கூட்டமைப்பற்ற மலாய் மாநிலங்களுடன் சேர்த்து மலாயன் யூனியனுக்குள் மடிக்கப்பட்டன, அதேவேளை சிங்கப்பூர் தனது சொந்த தனித்த மகுடக் காலனியாகப் பிரிக்கப்பட்டது."
 lang: "ta"
 masterLanguage: "en"
-sourceContentHash: "9cb8a0574c93b0cb"
+sourceContentHash: "10ccdf31f5940b72"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
@@ -100,6 +100,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Fort_Cornwallis,_Penang_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-1.webp
+    alt: உயரமான தூண்களுடன் கூடிய திண்ணைகள், வளைவான ஜன்னல்கள் மற்றும் சமச்சீர் முகப்புடன் கூடிய வெண்மையடிக்கப்பட்ட இரண்டு மாடி பிரமாண்டமான காலனித்துவக் கட்டிடம், பினாங்கு George Town-இல் நீல வானத்தின் கீழ் நேர்த்தியாகப் பராமரிக்கப்பட்ட பச்சைப் புல்வெளிக்குப் பின்னால் அமைந்துள்ளது.
+    kind: actual
+    origin: third-party
+    subject: George Town-இல் உள்ள வெண்மையடிக்கப்பட்ட காலனித்துவ கால பினாங்கு நகர மண்டபம், நீரிணைக் குடியேற்றங்களின் ஓர் நிர்வாகக் கட்டிடம்
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_City_Hall_(cropped).jpg
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-2.webp
+    alt: பளபளப்பான அடர் நீல நிறத்தில் வர்ணம் பூசப்பட்ட ஒரு பெரிய மாளிகையின் அலங்கார முகப்பு, பச்சை நிற சட்டக ஜன்னல் கதவுகள், அலங்கார கூரை விளிம்புகள் மற்றும் வளைவான கதவுகளின் வரிசையுடன், பினாங்கு George Town-இல் அடையாளச் சின்னமாக விளங்கும் நீரிணை சீன முற்றக் கட்டிட வீடு.
+    kind: actual
+    origin: third-party
+    subject: அடர் நீல நிற Cheong Fatt Tze மாளிகை (Rumah Agam Cheong Fatt Tze), பினாங்கு George Town-இல் உள்ள ஒரு நீரிணை சீன வணிகரின் முற்றக் கட்டிட வீடு
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia-_Cheong-Fatt-Tze-Mansion-01.jpg
 ---
 
 மூன்று துறைமுகங்கள், நிர்வாக அந்தஸ்தில் நான்கு மாற்றங்கள், நாற்பத்தொரு ஆண்டுகள். மலாய் மாநிலங்களைத் தொடுவதற்கு முன்பே நீரிணைக் குடியேற்றங்கள் (Straits Settlements) என்பது இதுதான்.

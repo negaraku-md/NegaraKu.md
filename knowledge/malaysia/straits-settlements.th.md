@@ -29,7 +29,7 @@ faq:
   - q: "ในที่สุดนิคมช่องแคบเกิดอะไรขึ้น"
     a: "มันถูกยุบเมื่อวันที่ 1 เมษายน 1946 ปีนังและมะละกาถูกรวมเข้าสู่สหภาพมลายาเคียงข้างรัฐมลายูที่รวมสหพันธ์และไม่รวมสหพันธ์ ในขณะที่สิงคโปร์ถูกแยกออกเป็นอาณานิคมของราชวงศ์แยกต่างหากของตนเอง"
 lang: "th"
-sourceContentHash: "9cb8a0574c93b0cb"
+sourceContentHash: "10ccdf31f5940b72"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -100,6 +100,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Fort_Cornwallis,_Penang_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-1.webp
+    alt: อาคารสมัยอาณานิคมสีขาวสองชั้นอันโอ่อ่า มีระเบียงเสาสูง หน้าต่างทรงโค้ง และด้านหน้าอาคารสมมาตร ตั้งอยู่หลังสนามหญ้าเขียวที่ตัดแต่งเรียบร้อยใต้ท้องฟ้าสีครามในจอร์จทาวน์ ปีนัง
+    kind: actual
+    origin: third-party
+    subject: ศาลาว่าการปีนัง (Penang City Hall) สีขาวสมัยอาณานิคมในจอร์จทาวน์ อาคารราชการของนิคมช่องแคบ
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_City_Hall_(cropped).jpg
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-2.webp
+    alt: ด้านหน้าอันวิจิตรของคฤหาสน์หลังใหญ่ทาสีครามเข้มสดใส มีบานเกล็ดสีเขียว ชายคาประดับตกแต่ง และประตูทรงโค้งเรียงราย เป็นบ้านทรงมีลานกลางของชาวจีนช่องแคบที่เป็นสถานที่สำคัญในจอร์จทาวน์ ปีนัง
+    kind: actual
+    origin: third-party
+    subject: คฤหาสน์ช็องฟัตเจ๋อ (Cheong Fatt Tze Mansion) สีครามเข้ม บ้านทรงมีลานกลางของพ่อค้าชาวจีนช่องแคบในจอร์จทาวน์ ปีนัง
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia-_Cheong-Fatt-Tze-Mansion-01.jpg
 ---
 
 เมืองท่าสามแห่ง การเปลี่ยนสถานะทางการบริหารสี่ครั้ง และสี่สิบเอ็ดปี นั่นคือนิคมช่องแคบก่อนที่มันจะแตะรัฐมลายูเลย

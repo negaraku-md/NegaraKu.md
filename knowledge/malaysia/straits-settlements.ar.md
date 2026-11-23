@@ -29,7 +29,7 @@ faq:
   - q: "ماذا حدث لمستوطنات المضائق في النهاية؟"
     a: "حُلّت في 1 أبريل 1946. أُدمجت بينانغ وملقا في اتحاد الملايو إلى جانب الولايات الملايوية المتحدة وغير المتحدة، بينما فُصلت سنغافورة لتصبح مستعمرة تاج منفصلة خاصة بها."
 lang: "ar"
-sourceContentHash: "9cb8a0574c93b0cb"
+sourceContentHash: "10ccdf31f5940b72"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -100,6 +100,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Fort_Cornwallis,_Penang_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-1.webp
+    alt: مبنى استعماري فخم من طابقين مطليّ بالأبيض، بشُرفات ذات أعمدة عالية ونوافذ مقوّسة وواجهة متناظرة، يقع خلف مرج أخضر مشذّب تحت سماء زرقاء في جورج تاون، بينانغ.
+    kind: actual
+    origin: third-party
+    subject: مبنى Penang City Hall الاستعماري المطليّ بالأبيض في جورج تاون، أحد مباني إدارة مستوطنات المضيق
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_City_Hall_(cropped).jpg
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-2.webp
+    alt: واجهة مزخرفة لقصر كبير مطليّ بلون النيلي الزاهي، بمصاريع خشبية خضراء مشرّعة وأفاريز مزخرفة وصفّ من المداخل المقوّسة؛ دار صينية من طراز المضيق ذات فناء، معلم في جورج تاون، بينانغ.
+    kind: actual
+    origin: third-party
+    subject: قصر Cheong Fatt Tze Mansion النيليّ، دار تاجر صيني من طراز المضيق ذات فناء في جورج تاون، بينانغ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia-_Cheong-Fatt-Tze-Mansion-01.jpg
 ---
 
 ثلاثة موانئ، وأربعة تغييرات في الوضع الإداري، وواحد وأربعون عامًا. ذلك هو حال مستوطنات المضائق قبل أن تمسّ الولايات الملايوية على الإطلاق.

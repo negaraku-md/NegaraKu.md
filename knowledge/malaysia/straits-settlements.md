@@ -99,6 +99,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Fort_Cornwallis,_Penang_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-1.webp
+    alt: A grand two-storey whitewashed colonial building with tall columned verandahs, arched windows and a symmetrical facade, set behind a manicured green lawn under a blue sky in George Town, Penang.
+    kind: actual
+    origin: third-party
+    subject: the whitewashed colonial-era Penang City Hall in George Town, a Straits Settlements administrative building
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_City_Hall_(cropped).jpg
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-2.webp
+    alt: The ornate facade of a large mansion painted a vivid indigo blue, with green louvered shutters, decorative eaves and a row of arched doorways, a landmark Straits Chinese courtyard house in George Town, Penang.
+    kind: actual
+    origin: third-party
+    subject: the indigo-blue Cheong Fatt Tze Mansion, a Straits Chinese merchant's courtyard house in George Town, Penang
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia-_Cheong-Fatt-Tze-Mansion-01.jpg
 ---
 
 Three ports, four changes of administrative status, and forty-one years. That is the Straits Settlements before it ever touches the Malay states at all.

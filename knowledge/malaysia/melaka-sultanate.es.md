@@ -30,7 +30,7 @@ faq:
     a: "La corte. El Sultán Mahmud Shah y sus descendientes restablecieron el gobierno malayo hacia el sur, de manera más trascendente en el Sultanato de Johor, llevando adelante la estructura cortesana, el código legal y la lengua de Melaka. Esas instituciones sobrevivieron a la independencia de la ciudad durante siglos."
 
 lang: "es"
-sourceContentHash: "c0cb6569dbb2731b"
+sourceContentHash: "71f9e93ec46a7d9e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-1.webp
+    alt: Una desgastada puerta de piedra gris con una entrada en arco y un pequeño escudo tallado encima, erguida en solitario sobre un césped verde bajo un cielo luminoso; la última puerta que se conserva de la fortaleza A Famosa en Melaka.
+    kind: representative
+    origin: third-party
+    subject: la puerta de la fortaleza portuguesa A Famosa (Porta de Santiago) en Melaka, construida poco después de la caída del Sultanato
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-2.webp
+    alt: El armazón de ladrillo y piedra sin techo de una antigua iglesia en lo alto de una colina, con sus vanos de ventana vacíos y sus muros desmoronados resplandeciendo en un cálido rojo pardo a la luz del día, mientras los visitantes caminan entre las ruinas.
+    kind: representative
+    origin: third-party
+    subject: las ruinas sin techo de la iglesia de St Paul (St Paul's Church) en lo alto de St Paul's Hill en Melaka
+    credit: Grace Share Share / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_,_St_Paul%27s_Church_Photo_Shooting.jpg
 ---
 
 Un príncipe huye de una ciudad en llamas. Cruza un estrecho, mata a un jefe local que le había dado cobijo, y sigue huyendo — a través de Muar, a través de Ujong Tanah — hasta que se detiene bajo un árbol, a la orilla de un río, para que descansen sus perros. Uno de ellos acorrala a un ciervo ratón (pelanduk) y este, acorralado, se vuelve y lo arroja de una patada al agua. El príncipe lo toma como un augurio: hasta la criatura más pequeña se defiende en este lugar. Decide que aquí construirá su ciudad, y la nombra en honor al árbol bajo el que está sentado — un árbol *melaka*.

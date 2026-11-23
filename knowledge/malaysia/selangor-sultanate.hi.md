@@ -21,7 +21,7 @@ appliesTo: "विद्यार्थी, शिक्षक, शोधकर�
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "fac5b87856cb5510"
+sourceContentHash: "17a6e34036a4694c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Bandar_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/selangor-sultanate/body-1.webp
+    alt: मेहराबदार खिड़कियों और खपरैल की छत वाली एक भव्य औपनिवेशिक-शैली की सफ़ेद और क्रीम रंग की विरासत इमारत, जो मैदानों के पीछे स्थित है और Klang में Selangor की शाही गैलरी को समेटे हुए है।
+    kind: actual
+    origin: third-party
+    subject: Klang, Selangor में Galeri Diraja Sultan Abdul Aziz (Sultan Abdul Aziz Royal Gallery)
+    credit: Fumiko yabe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Gallery_of_Sultan_Abdul_Aziz.JPG
+  - role: scene
+    src: /media/malaysia/selangor-sultanate/body-2.webp
+    alt: एक सुरुचिपूर्ण नीली-सफ़ेद शाही मस्जिद जिसमें एक बड़ा केंद्रीय गुंबद, दोनों ओर गुंबद और पतली मीनारें हैं, जो Klang में साफ़ आसमान के विरुद्ध ऊपर उठी हुई हैं।
+    kind: actual
+    origin: third-party
+    subject: Klang, Selangor में Masjid Diraja Sultan Sulaiman (Sultan Sulaiman Royal Mosque)
+    credit: Qaedi Shamsuddin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Exterior_of_Masjid_Diraja_Sultan_Suleiman.jpg
 ---
 
 मलय प्रायद्वीप के पश्चिमी तट पर, जहाँ क्लांग और सेलंगोर नदियाँ मेलाका जलडमरूमध्य में बहती हैं, द्वीपसमूह के दूसरे छोर से आए एक नौचालक लोगों ने प्रायद्वीप के सबसे धनी राज्यों में से एक का निर्माण किया। उनका भाग्य मसाले या सोने पर नहीं बल्कि टिन पर बना था — वह धूसर अयस्क जो उन घाटियों में दबा था जो एक शताब्दी के भीतर युवा सल्तनत को उसकी अपनी समृद्धि को लेकर एक युद्ध में और, अंततः, एक ब्रिटिश रेजिडेंट की छाया के नीचे खींच लाएगा। यह उसी सेलंगोर सल्तनत की कहानी है, एक बुगिस राजवंश जिसकी वंशावली आज भी सिंहासन पर बैठी है।

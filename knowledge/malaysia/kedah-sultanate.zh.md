@@ -21,7 +21,7 @@ appliesTo: "学生、研究者、旅人，以及任何希望获得一份有据�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "08adb6bfb26200c1"
+sourceContentHash: "645cf0dba4388fd3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Zahir_Masjid.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-1.webp
+    alt: 吉打亚罗士打华丽的木构大会堂皇家觐见厅，一座黄色的开敞式亭阁，配有雕花立柱、扇贝形屋檐和多层屋顶。
+    kind: actual
+    origin: third-party
+    subject: 大会堂（Balai Besar，皇家觐见厅），位于吉打亚罗士打
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Besar_Alor_Setar_-_panoramio.jpg
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-2.webp
+    alt: 亚罗士打高耸的八角形诺巴塔楼，一座细长的奶油与金色宣礼塔式建筑，顶部有一个小小的洋葱穹顶，内收藏着皇家礼仪乐队。
+    kind: actual
+    origin: third-party
+    subject: 诺巴塔楼（Balai Nobat），收藏吉打皇家诺巴塔乐队的八角形塔楼，位于亚罗士打
+    credit: Anasaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Nobat.jpg
 ---
 
 马来西亚少有地方像吉打这样坦然承载自己的过去。早在宣礼塔尚未矗立于亚罗士打（Alor Setar）之前，Merbok 河与 Muda 河之间那片稻绿的平原，便已是商旅乘着季风、往返于印度、中国与马来世界之间的登陆之地。水手与学者称这片海岸为 Kadaram 或 Kataha；今日的考古学家则以布央谷（Bujang Valley）的寺庙遗丘来辨认它。正是从那样一个世界主义的、印度教—佛教的起点，成长出一个马来君主政体——它将挨过[室利佛逝](/zh/malaysia/srivijaya)（Srivijaya）与朱罗（Chola）、大城（Ayutthaya）与曼谷，最终还要挨过大英帝国。

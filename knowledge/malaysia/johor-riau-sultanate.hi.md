@@ -19,7 +19,7 @@ keyTakeaways:
   - "1824 की एंग्लो-डच संधि और उसके परिणाम ने इस क्षेत्र को विभाजित किया: रियाउ-लिंगा डच के अधीन, जोहोर ब्रिटिश प्रभाव-क्षेत्र में"
 appliesTo: "हर वह व्यक्ति जो समझना चाहता है कि मलक्का की मलय राजसी संस्था किस तरह अखंड रूप से आधुनिक मलय राज्यों, विशेष रूप से जोहोर में जारी रही।"
 lang: "hi"
-sourceContentHash: "4378491a1522cd95"
+sourceContentHash: "e4a914e6d8d4b14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-1.webp
+    alt: Johor का सफ़ेद Istana Besar भव्य महल, अपने गरिमामय अग्रभाग और हरी छत वाले बुर्ज के साथ, Johor जलडमरूमध्य के किनारे से पानी के पार देखा गया।
+    kind: actual
+    origin: third-party
+    subject: Johor Bahru, Johor में Istana Besar (भव्य महल, अब Royal Abu Bakar Museum)
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Istana_Besar_from_Woodlands_Waterfront_060925.jpg
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-2.webp
+    alt: एक पहाड़ी पर उठा हुआ विशाल धूसर Sultan Ibrahim Building, एक लंबा सममित सरकारी भवन जिसके ऊपर एक ऊँची केंद्रीय घड़ी-और-Saracenic बुर्ज है, तिरछे कोण से देखा गया।
+    kind: actual
+    origin: third-party
+    subject: Bangunan Sultan Ibrahim (Sultan Ibrahim Building), Johor Bahru में पूर्व Johor राज्य सचिवालय
+    credit: Fxchua / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perspective_View_of_Sultan_Ibrahim_Building.jpg
 ---
 
 1511 में, पुर्तगाली तोपों ने एक नगर को गिरा दिया — पर एक सिंहासन को नहीं। जब मलक्का का क़िला गिरा, तो मलक्का के अंतिम सुल्तान सुल्तान महमूद शाह ने आत्मसमर्पण नहीं किया। वे राजपरिवार, प्रधान मंत्रियों, और — सबसे महत्वपूर्ण रूप से — उस समूची संस्थागत व्यवस्था के साथ दक्षिण की ओर पीछे हटे जिसने मलक्का को एक सल्तनत बनाया था। नगर खो गया; सल्तनत स्थानांतरित हो गई।

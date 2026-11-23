@@ -19,7 +19,7 @@ keyTakeaways:
   - "The Anglo-Dutch Treaty of 1824 and its aftermath divided this territory: Riau-Lingga under the Dutch, Johor within the British sphere"
 appliesTo: "Anyone who wants to understand how the Malay royal institution of Melaka continued unbroken into the modern Malay states, particularly Johor."
 lang: "en"
-sourceContentHash: "4378491a1522cd95"
+sourceContentHash: "e4a914e6d8d4b14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-1.webp
+    alt: The white Istana Besar grand palace of Johor, with its stately facade and green-roofed tower, seen across the water from the Johor Strait waterfront.
+    kind: actual
+    origin: third-party
+    subject: Istana Besar (the Grand Palace, now the Royal Abu Bakar Museum) in Johor Bahru, Johor
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Istana_Besar_from_Woodlands_Waterfront_060925.jpg
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-2.webp
+    alt: The imposing grey Sultan Ibrahim Building rising on a hill, a long symmetrical government block crowned by a tall central clock-and-Saracenic tower, viewed at an angle.
+    kind: actual
+    origin: third-party
+    subject: Bangunan Sultan Ibrahim (the Sultan Ibrahim Building), the former Johor state secretariat in Johor Bahru
+    credit: Fxchua / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perspective_View_of_Sultan_Ibrahim_Building.jpg
 ---
 
 In 1511, Portuguese cannon brought down a city — but not a throne. When the fortress of Melaka fell, Sultan Mahmud Shah, the last sultan of Melaka, did not surrender. He withdrew south together with the royal family, the chief ministers, and — most importantly — the entire institutional order that made Melaka a sultanate. The city was lost; the sultanate moved.

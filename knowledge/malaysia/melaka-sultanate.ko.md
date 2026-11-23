@@ -29,7 +29,7 @@ faq:
     a: "궁정이 살아남았습니다. 술탄 마흐무드 샤(Sultan Mahmud Shah)와 그의 후손들은 남쪽에서, 가장 중요하게는 조호르 술탄국(Johor Sultanate)에서 말레이 통치를 다시 세우며 말라카(Melaka)의 궁정 구조, 법전, 언어를 이어 갔습니다. 그 제도들은 이 도시의 독립보다 여러 세기를 더 오래 살아남았습니다."
 
 lang: "ko"
-sourceContentHash: "c0cb6569dbb2731b"
+sourceContentHash: "71f9e93ec46a7d9e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-1.webp
+    alt: 풍화된 회색 석조 아치형 성문으로, 윗부분에 작은 조각 문장이 있으며 밝은 하늘 아래 푸른 잔디밭에 홀로 서 있다. 믈라카 A Famosa 요새에서 유일하게 남은 성문.
+    kind: representative
+    origin: third-party
+    subject: 믈라카에 있는 포르투갈 요새 성문 포르타 데 산티아고(A Famosa). 술탄국 멸망 직후에 세워졌다
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-2.webp
+    alt: 언덕 꼭대기에 있는 옛 교회의 지붕 없는 벽돌과 돌 외벽. 텅 빈 창 구멍과 허물어진 벽이 햇빛 속에서 따뜻한 적갈색으로 빛나고, 방문객들이 유적 사이를 거닐고 있다.
+    kind: representative
+    origin: third-party
+    subject: 믈라카 세인트폴 언덕 꼭대기에 있는 지붕 없는 세인트폴 교회 유적
+    credit: Grace Share Share / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_,_St_Paul%27s_Church_Photo_Shooting.jpg
 ---
 
 한 왕자가 불타는 도시에서 달아납니다. 그는 해협을 건너, 자신을 숨겨 준 지역 우두머리를 죽이고, 계속 달아납니다 — 무아르(Muar)를 지나, 우종 타나(Ujong Tanah)를 지나 — 그러다 강가의 한 나무 아래에 멈춰 개들을 쉬게 합니다. 그중 한 마리가 애기사슴(mouse deer) 한 마리를 궁지로 몰자, 궁지에 몰린 애기사슴이 돌아서서 개를 물속으로 걷어차 버립니다. 왕자는 이를 징조로 받아들입니다. 이곳에서는 가장 작은 짐승조차 맞서 싸운다는 것입니다. 그는 이곳에 자신의 도시를 세우기로 하고, 자신이 앉아 있던 나무 — *믈라카(melaka)* 나무 — 의 이름을 따서 도시를 명명합니다.

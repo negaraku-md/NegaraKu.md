@@ -21,7 +21,7 @@ appliesTo: "विद्यार्थी, शोधकर्ता, यात�
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "08adb6bfb26200c1"
+sourceContentHash: "645cf0dba4388fd3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Zahir_Masjid.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-1.webp
+    alt: Alor Setar में अलंकृत लकड़ी का Balai Besar शाही दरबार कक्ष, एक पीला खुले किनारों वाला मंडप जिसमें उत्कीर्ण स्तंभ, कंगूरेदार छज्जे और स्तरित छत है।
+    kind: actual
+    origin: third-party
+    subject: Alor Setar, Kedah में Balai Besar (शाही दरबार कक्ष)
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Besar_Alor_Setar_-_panoramio.jpg
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-2.webp
+    alt: Alor Setar में ऊँचा अष्टकोणीय Balai Nobat बुर्ज, एक पतला क्रीम और सुनहरा मीनार जैसा ढाँचा जिसके ऊपर एक छोटा प्याज़नुमा गुंबद है, जो शाही अनुष्ठानिक वाद्यवृंद को समेटे हुए है।
+    kind: actual
+    origin: third-party
+    subject: Balai Nobat, Alor Setar में अष्टकोणीय बुर्ज जिसमें Kedah का शाही nobat वाद्यवृंद रखा है
+    credit: Anasaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Nobat.jpg
 ---
 
 मलेशिया में शायद ही कोई जगह अपने अतीत को इतने खुलेपन से धारण करती है जितना केदाह। आलोर सेतार पर मीनारों के उठने से बहुत पहले, मेरबोक और मुदा नदियों के बीच का धान-हरा मैदान उन व्यापारियों के लिए किनारा था जो भारत, चीन और मलय जगत के बीच मानसूनी हवाओं पर सवार होकर आते थे। नाविक और विद्वान इस तट को कदारम या कटाहा के नाम से जानते थे; पुरातत्वविद् आज इसे बुजंग घाटी के मंदिर-टीलों से पहचानते हैं। उस महानगरीय, हिंदू-बौद्ध आरंभ से एक मलय राजतंत्र उभरा जो [श्रीविजय](/hi/malaysia/srivijaya) और चोल, अयुत्थया और बैंकॉक, और अंततः ब्रिटिश साम्राज्य को झेल गया।

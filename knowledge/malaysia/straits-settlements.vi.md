@@ -29,7 +29,7 @@ faq:
   - q: "Cuối cùng điều gì đã xảy ra với các bang Eo biển?"
     a: "Nó được giải thể vào ngày 1 tháng 4 năm 1946. Penang và Melaka được nhập vào Malayan Union cùng với các Bang Mã Lai Liên bang và Không Liên bang, còn Singapore được tách ra thành một thuộc địa vương thất riêng của nó."
 lang: "vi"
-sourceContentHash: "9cb8a0574c93b0cb"
+sourceContentHash: "10ccdf31f5940b72"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -100,6 +100,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Fort_Cornwallis,_Penang_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-1.webp
+    alt: Một tòa nhà thuộc địa hai tầng bề thế quét vôi trắng với hành lang có hàng cột cao, cửa sổ hình vòm và mặt tiền đối xứng, nằm sau bãi cỏ xanh được chăm chút dưới bầu trời xanh ở George Town, Penang.
+    kind: actual
+    origin: third-party
+    subject: Tòa Thị chính Penang thời thuộc địa quét vôi trắng ở George Town, một tòa nhà hành chính của Khu Định cư Eo biển
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_City_Hall_(cropped).jpg
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-2.webp
+    alt: Mặt tiền trang trí công phu của một dinh thự lớn được sơn màu chàm rực rỡ, với cửa chớp gỗ màu xanh lục, diềm mái trang trí và một dãy cửa hình vòm, một ngôi nhà có sân trong của người Hoa Eo biển mang tính biểu tượng ở George Town, Penang.
+    kind: actual
+    origin: third-party
+    subject: Dinh thự Cheong Fatt Tze màu chàm, ngôi nhà có sân trong của một thương gia người Hoa Eo biển ở George Town, Penang
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia-_Cheong-Fatt-Tze-Mansion-01.jpg
 ---
 
 Ba cảng, bốn lần thay đổi tình trạng hành chính, và bốn mươi mốt năm. Đó là các bang Eo biển trước khi nó chạm đến các bang Mã Lai.

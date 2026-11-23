@@ -29,7 +29,7 @@ faq:
     a: "La cour. Le Sultan Mahmud Shah et ses descendants rétablirent le gouvernement malais plus au sud, de la manière la plus marquante dans le Sultanat de Johor, perpétuant la structure de cour, le code juridique et la langue de Melaka. Ces institutions survécurent à l'indépendance de la ville pendant des siècles."
 
 lang: "fr"
-sourceContentHash: "c0cb6569dbb2731b"
+sourceContentHash: "71f9e93ec46a7d9e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-1.webp
+    alt: Une porte de pierre grise usée, à l'entrée en arc surmontée d'un petit blason sculpté, dressée seule sur une pelouse verte sous un ciel lumineux ; la dernière porte subsistante de la forteresse A Famosa à Melaka.
+    kind: representative
+    origin: third-party
+    subject: la porte de la forteresse portugaise A Famosa (Porta de Santiago) à Melaka, édifiée peu après la chute du Sultanat
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-2.webp
+    alt: La carcasse de brique et de pierre, sans toit, d'une ancienne église au sommet d'une colline, ses baies vides et ses murs en ruine rougeoyant d'un brun-rouge chaud à la lumière du jour, tandis que des visiteurs circulent parmi les ruines.
+    kind: representative
+    origin: third-party
+    subject: les ruines sans toit de l'église St Paul (St Paul's Church) au sommet de St Paul's Hill à Melaka
+    credit: Grace Share Share / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_,_St_Paul%27s_Church_Photo_Shooting.jpg
 ---
 
 Un prince fuit une ville en flammes. Il traverse un détroit, tue un chef local qui l'avait abrité, et poursuit sa fuite — à travers Muar, à travers Ujong Tanah — jusqu'à s'arrêter sous un arbre, au bord d'une rivière, pour laisser reposer ses chiens. L'un d'eux acule un chevrotain (pelanduk) qui, coincé, se retourne et l'envoie d'un coup de patte dans l'eau. Le prince y voit un présage : même la plus petite créature se défend en ce lieu. Il décide que c'est ici qu'il bâtira sa ville, et la nomme d'après l'arbre sous lequel il est assis — un arbre *melaka*.

@@ -19,7 +19,7 @@ keyTakeaways:
   - "1824 ஆங்கிலேய-டச்சு உடன்படிக்கையும் அதன் தொடர்விளைவுகளும் இந்தப் பரப்பைப் பிரித்தன: ரியாவ்-லிங்கா டச்சு ஆளுகையின் கீழும், ஜொகூர் பிரித்தானிய வட்டத்தின் கீழும்"
 appliesTo: "மலாக்காவின் மலாய் அரச நிறுவனம் நவீன மலாய் மாநிலங்களுக்கு, குறிப்பாக ஜொகூருக்கு, எப்படித் தடையின்றித் தொடர்ந்தது என்பதைப் புரிந்துகொள்ள விரும்பும் எவரும்."
 lang: "ta"
-sourceContentHash: "4378491a1522cd95"
+sourceContentHash: "e4a914e6d8d4b14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-1.webp
+    alt: ஜொகூரின் வெள்ளை நிற Istana Besar பெரிய அரண்மனை, அதன் கம்பீரமான முகப்பு மற்றும் பச்சைக் கூரை கோபுரத்துடன், ஜொகூர் நீரிணைக் கரையோரத்திலிருந்து நீருக்கு அப்பால் காணப்படுகிறது.
+    kind: actual
+    origin: third-party
+    subject: Johor Bahru, ஜொகூர்-இல் உள்ள Istana Besar (பெரிய அரண்மனை, தற்போது அரச அபு பக்கர் அருங்காட்சியகம்)
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Istana_Besar_from_Woodlands_Waterfront_060925.jpg
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-2.webp
+    alt: ஒரு மலையின் மேல் உயரும் கம்பீரமான சாம்பல் நிற சுல்தான் இப்ராஹிம் கட்டிடம், உயரமான மைய கடிகார-மற்றும்-சாரசென் கோபுரத்தால் முடிசூட்டப்பட்ட நீண்ட சமச்சீர் அரசாங்க கட்டிடத் தொகுதி, ஒரு கோணத்தில் காணப்படுகிறது.
+    kind: actual
+    origin: third-party
+    subject: Bangunan Sultan Ibrahim (சுல்தான் இப்ராஹிம் கட்டிடம்), Johor Bahru-இல் உள்ள முன்னாள் ஜொகூர் மாநில செயலகம்
+    credit: Fxchua / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perspective_View_of_Sultan_Ibrahim_Building.jpg
 ---
 
 1511இல், போர்த்துகீசியரின் பீரங்கிகள் ஒரு நகரத்தைத் தகர்த்தன — ஆனால் ஓர் அரியணையை அல்ல. மலாக்கா நகரம் வீழ்ந்தபோது, கடைசி மலாக்கா சுல்தானான Sultan Mahmud Shah சரணடையவில்லை. அவர் அரச குடும்பத்துடனும், பிரபுக்களுடனும், எல்லாவற்றையும்விட முக்கியமாக மலாக்காவை ஒரு சுல்தானகமாக்கிய முழு நிறுவன அமைப்புடனும் தெற்கே பின்வாங்கினார். நகரம் இழக்கப்பட்டது; சுல்தானகம் நகர்ந்தது.

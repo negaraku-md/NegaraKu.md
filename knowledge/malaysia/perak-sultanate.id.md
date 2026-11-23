@@ -21,7 +21,7 @@ appliesTo: "Pembaca, pelajar, dan peneliti yang mencari gambaran bersumber tenta
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9c5b289247ceb3ae"
+sourceContentHash: "14f91804e49efb27"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Iskandariah,_Kuala_Kangsar.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-1.webp
+    alt: Masjid putih yang dimahkotai kubah besar berbentuk bawang keemasan diapit kubah bersalut emas yang lebih kecil dan empat menara ramping, berkilau di bawah langit cerah; Masjid Ubudiah kerajaan di Kuala Kangsar, Perak.
+    kind: actual
+    origin: third-party
+    subject: Masjid Ubudiah, masjid kerajaan Perak di Kuala Kangsar, dengan kubah keemasannya
+    credit: Miss Prema Darshini / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ubudiah_Mosque_Kuala_Kangsar.jpg
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-2.webp
+    alt: Istana era kolonial berwarna krem yang anggun dengan jendela melengkung, langkan berhias dan fasad simetris dimahkotai menara kecil, terletak di belakang hamparan rumput di bawah langit cerah; Istana Hulu di Kuala Kangsar, Perak.
+    kind: actual
+    origin: third-party
+    subject: Istana Hulu, bekas istana kerajaan Perak di Kuala Kangsar, kini Galeri Sultan Azlan Shah
+    credit: Sabihahrazafa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Hulu,_Kuala_Kangsar.jpg
 ---
 
 Ketika Melaka jatuh oleh meriam Portugis pada 1511, dinasti yang telah membuat Selat itu termasyhur tidak ikut mati bersama kota itu. Sultan terakhirnya, Mahmud Shah, mundur ke pedalaman kepulauan dan meninggalkan dua putra; yang seorang akan mendirikan kembali garis raja di hilir di Johor, yang seorang lagi akan membawa mahkota lama Melaka ke utara, ke sebuah lembah sunyi yang dialiri sebuah sungai yang gosong-gosong pasirnya berkilauan timah. Kerajaan utara itu menjadi Perak, dan hampir lima abad kemudian ia masih diperintah oleh garis darah yang sama, kini oleh seorang sultan yang takhtanya diwariskan bukan dari ayah ke anak melainkan menyusuri sebuah tangga pangeran yang bergerak. Inilah kisah bagaimana sebuah dinasti yang kalah bertahan hidup, menjadi kaya karena timah, kehilangan kedaulatannya kepada Inggris lewat satu perjanjian, dan bertahan hingga masa kini.

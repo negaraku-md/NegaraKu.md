@@ -19,7 +19,7 @@ keyTakeaways:
   - "El Tratado Anglo-Neerlandés de 1824 y sus consecuencias dividieron este territorio: Riau-Lingga bajo los neerlandeses, Johor dentro de la esfera británica"
 appliesTo: "Cualquiera que quiera entender cómo la institución real malaya de Melaka continuó sin interrupción hasta los estados malayos modernos, en particular Johor."
 lang: "es"
-sourceContentHash: "4378491a1522cd95"
+sourceContentHash: "e4a914e6d8d4b14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-1.webp
+    alt: El blanco gran palacio Istana Besar de Johor, con su fachada majestuosa y su torre de techo verde, visto al otro lado del agua desde el paseo marítimo del Estrecho de Johor.
+    kind: actual
+    origin: third-party
+    subject: el Istana Besar (el Gran Palacio, hoy el Museo Real Abu Bakar) en Johor Bahru, Johor
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Istana_Besar_from_Woodlands_Waterfront_060925.jpg
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-2.webp
+    alt: El imponente Edificio Sultan Ibrahim, de color gris, alzándose sobre una colina; un largo y simétrico bloque gubernamental coronado por una alta torre central de reloj de estilo sarraceno, visto en ángulo.
+    kind: actual
+    origin: third-party
+    subject: el Bangunan Sultan Ibrahim (Edificio Sultan Ibrahim), antigua secretaría del estado de Johor en Johor Bahru
+    credit: Fxchua / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perspective_View_of_Sultan_Ibrahim_Building.jpg
 ---
 
 En 1511, los cañones portugueses derribaron una ciudad — pero no un trono. Cuando la fortaleza de Melaka cayó, el Sultán Mahmud Shah, el último sultán de Melaka, no se rindió. Se retiró hacia el sur junto con la familia real, los ministros principales y — lo más importante — todo el orden institucional que hacía de Melaka un sultanato. La ciudad se perdió; el sultanato se trasladó.

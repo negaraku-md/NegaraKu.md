@@ -21,7 +21,7 @@ appliesTo: "மாணவர்கள், ஆய்வாளர்கள், ப�
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "08adb6bfb26200c1"
+sourceContentHash: "645cf0dba4388fd3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Zahir_Masjid.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-1.webp
+    alt: Alor Setar-இல் உள்ள அலங்கரிக்கப்பட்ட மர Balai Besar அரச சபா மண்டபம், செதுக்கப்பட்ட தூண்கள், சிப்பி வடிவ கூரை விளிம்புகள் மற்றும் படிநிலைக் கூரையுடன் கூடிய மஞ்சள் நிற பக்கங்கள் திறந்த மண்டபம்.
+    kind: actual
+    origin: third-party
+    subject: Alor Setar, கெடா-இல் உள்ள Balai Besar (அரச சபா மண்டபம்)
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Besar_Alor_Setar_-_panoramio.jpg
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-2.webp
+    alt: Alor Setar-இல் உள்ள உயரமான எண்கோண Balai Nobat கோபுரம், சிறிய வெங்காய குவிமாடத்தால் முடிசூட்டப்பட்ட மெல்லிய கிரீம் மற்றும் தங்க நிற மினார் போன்ற கட்டமைப்பு, இது அரச சடங்கு இசைக்குழுவைக் கொண்டுள்ளது.
+    kind: actual
+    origin: third-party
+    subject: Balai Nobat, கெடா அரச நோபாத் இசைக்குழுவைக் கொண்டுள்ள எண்கோண கோபுரம், Alor Setar-இல்
+    credit: Anasaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Nobat.jpg
 ---
 
 மலேசியாவில் வேறு சில இடங்களே கெடாவைப் போல தங்களின் கடந்த காலத்தை இத்தனை வெளிப்படையாகச் சுமந்து செல்கின்றன. Alor Setar மீது மினாரங்கள் எழும்பதற்கு நெடுங்காலம் முன்பே, Merbok மற்றும் Muda ஆறுகளுக்கு இடையிலான நெல் பசுமையான சமவெளி, இந்தியா, சீனா மற்றும் மலாய் உலகத்திற்கு இடையே பருவக்காற்றுகளில் பயணித்த வணிகர்களுக்கு ஒரு தரையிறங்கும் இடமாக இருந்தது. மாலுமிகளும் அறிஞர்களும் இந்தக் கடற்கரையை Kadaram அல்லது Kataha என்று அறிந்திருந்தனர்; தொல்லியலாளர்கள் இன்று அதை புஜாங் பள்ளத்தாக்கின் (Bujang Valley) கோயில் மேடுகளால் அறிகிறார்கள். அந்தப் பன்னாட்டு, இந்து-பௌத்தத் தொடக்கத்திலிருந்து, [Srivijaya](/ta/malaysia/srivijaya) மற்றும் Chola, Ayutthaya மற்றும் Bangkok, இறுதியில் பிரிட்டிஷ் பேரரசு ஆகியவற்றைத் தாங்கிக்கொண்ட ஒரு மலாய் முடியாட்சி வளர்ந்தது.

@@ -29,7 +29,7 @@ faq:
     a: "Triều đình đã sống sót. Sultan Mahmud Shah và các hậu duệ của ngài tái lập nền cai trị Mã Lai về phương nam, quan trọng nhất là ở Vương triều Johor, mang theo cấu trúc triều đình, bộ luật và ngôn ngữ của Melaka. Các thiết chế đó tồn tại lâu hơn nền độc lập của thành phố hàng thế kỷ."
 
 lang: "vi"
-sourceContentHash: "c0cb6569dbb2731b"
+sourceContentHash: "71f9e93ec46a7d9e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-1.webp
+    alt: Một cổng đá xám phong hóa với lối vào hình vòm và một phù hiệu chạm khắc nhỏ phía trên, đứng đơn độc trên bãi cỏ xanh dưới bầu trời trong sáng; cổng cuối cùng còn sót lại của pháo đài A Famosa ở Melaka.
+    kind: representative
+    origin: third-party
+    subject: cổng pháo đài Bồ Đào Nha A Famosa (Porta de Santiago) ở Melaka, được xây dựng ngay sau khi Vương quốc Hồi giáo sụp đổ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-2.webp
+    alt: Khung gạch và đá không mái của một nhà thờ cổ trên đỉnh đồi, những ô cửa sổ trống rỗng và những bức tường đổ nát ánh lên màu nâu đỏ ấm áp dưới ánh ngày, với du khách đi dạo giữa tàn tích.
+    kind: representative
+    origin: third-party
+    subject: tàn tích không mái của Nhà thờ St Paul trên đỉnh Đồi St Paul ở Melaka
+    credit: Grace Share Share / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_,_St_Paul%27s_Church_Photo_Shooting.jpg
 ---
 
 Một hoàng tử chạy trốn khỏi một thành phố đang bốc cháy. Ông vượt một eo biển, giết một thủ lĩnh địa phương đã che chở cho ông, và cứ tiếp tục chạy — qua Muar, qua Ujong Tanah — cho đến khi ông dừng lại dưới một gốc cây bên bờ sông để cho đàn chó của mình nghỉ. Một con dồn một con hoẵng chuột vào góc, và con hoẵng chuột, bị dồn vào chân tường, quay lại đá nó xuống nước. Vị hoàng tử coi đây là một điềm báo: ngay cả sinh vật nhỏ nhất ở đây cũng biết chống trả. Ông quyết định đây là nơi ông sẽ xây thành phố của mình, và đặt tên nó theo cái cây ông đang ngồi dưới — một cây *melaka*.

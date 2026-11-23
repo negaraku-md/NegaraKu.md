@@ -21,7 +21,7 @@ appliesTo: "الطلاب والباحثون والمسافرون وكل من ي�
 lang: "ar"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "08adb6bfb26200c1"
+sourceContentHash: "645cf0dba4388fd3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Zahir_Masjid.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-1.webp
+    alt: قاعة العرش الملكية الخشبية المزخرفة Balai Besar في ألور ستار، جناح أصفر مفتوح الجوانب بأعمدة منحوتة وأفاريز مموّجة وسقف متدرّج.
+    kind: actual
+    origin: third-party
+    subject: Balai Besar (قاعة العرش الملكية) في ألور ستار، قدح
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Besar_Alor_Setar_-_panoramio.jpg
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-2.webp
+    alt: برج Balai Nobat الثماني الطويل في ألور ستار، بناء نحيل شبيه بالمئذنة بلونين كريمي وذهبي يعلوه قبّة بصلية صغيرة، يضمّ الفرقة الاحتفالية الملكية.
+    kind: actual
+    origin: third-party
+    subject: Balai Nobat، البرج الثماني الذي يضمّ فرقة النوبة الملكية لقدح، في ألور ستار
+    credit: Anasaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Nobat.jpg
 ---
 
 قليلة هي الأماكن في ماليزيا التي تحمل ماضيها بمثل هذا الوضوح الذي تحمله به قدح. فقبل أن تعلو المآذن فوق ألور ستار (Alor Setar) بزمن طويل، كان السهل الأخضر المكسوّ بالأرز بين نهري ميربوك (Merbok) ومودا (Muda) مرفأً للتجار الذين يمتطون رياح الموسم بين الهند والصين والعالم الملايوي. عرف البحارة والعلماء هذا الساحل باسم كادارام أو كاتاها (Kadaram/Kataha)؛ ويعرفه علماء الآثار اليوم بتلال معابد وادي بوجانج (Bujang). ومن تلك البداية الكوزموبوليتانية الهندوسية البوذية نشأت ملكية ملايوية ستصمد أمام [سريفيجايا](/ar/malaysia/srivijaya) (Srivijaya) وتشولا (Chola)، وأيوتهايا (Ayutthaya) وبانكوك، وأخيرًا أمام الإمبراطورية البريطانية.

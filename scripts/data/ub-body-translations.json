@@ -15160,5 +15160,737 @@
         "subject": "Vue élargie de l'entrée et du poste de garde de Wisma Putra, Putrajaya"
       }
     ]
+  },
+  "malaysia/melaka-sultanate": {
+    "zh": [
+      {
+        "alt": "一座饱经风霜的灰色石砌拱门，门楣上方有一枚小小的雕刻纹章，独自矗立在明亮天空下的绿茵草坪上；这是马六甲A Famosa城堡仅存的城门。",
+        "subject": "马六甲的葡萄牙城堡大门——圣地亚哥门（A Famosa），建于苏丹王朝覆灭后不久"
+      },
+      {
+        "alt": "山顶上一座古老教堂的无顶砖石残壳，空洞的窗洞与斑驳的墙垣在日光下泛着温暖的红褐色，游客在废墟间穿行。",
+        "subject": "马六甲圣保罗山顶上无顶的圣保罗教堂遗址"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "風化した灰色の石造りのアーチ門。上部に小さな彫刻の紋章があり、明るい空の下、緑の芝生に単独で立つ。ムラカのA Famosa要塞で唯一現存する門。",
+        "subject": "ムラカにあるポルトガルの要塞門、サンチャゴ門（A Famosa）。スルタン朝滅亡後まもなく築かれた"
+      },
+      {
+        "alt": "丘の頂に立つ古い教会の、屋根のない煉瓦と石の外殻。がらんとした窓の開口部と崩れかけた壁が日中に暖かな赤褐色に輝き、廃墟の間を見物客が歩いている。",
+        "subject": "ムラカのセントポールの丘の頂にある、屋根のないセントポール教会の廃墟"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "풍화된 회색 석조 아치형 성문으로, 윗부분에 작은 조각 문장이 있으며 밝은 하늘 아래 푸른 잔디밭에 홀로 서 있다. 믈라카 A Famosa 요새에서 유일하게 남은 성문.",
+        "subject": "믈라카에 있는 포르투갈 요새 성문 포르타 데 산티아고(A Famosa). 술탄국 멸망 직후에 세워졌다"
+      },
+      {
+        "alt": "언덕 꼭대기에 있는 옛 교회의 지붕 없는 벽돌과 돌 외벽. 텅 빈 창 구멍과 허물어진 벽이 햇빛 속에서 따뜻한 적갈색으로 빛나고, 방문객들이 유적 사이를 거닐고 있다.",
+        "subject": "믈라카 세인트폴 언덕 꼭대기에 있는 지붕 없는 세인트폴 교회 유적"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ประตูหินสีเทาทรงโค้งที่ผุกร่อนตามกาลเวลา มีตราสลักเล็ก ๆ อยู่เหนือซุ้มประตู ตั้งอยู่โดดเดี่ยวบนสนามหญ้าเขียวใต้ท้องฟ้าสว่าง เป็นประตูเดียวที่หลงเหลือของป้อมปราการ A Famosa ในมะละกา",
+        "subject": "ประตูป้อมปราการโปรตุเกส A Famosa (ปอร์ตาเดซานติอาโก) ในมะละกา สร้างขึ้นไม่นานหลังการล่มสลายของรัฐสุลต่าน"
+      },
+      {
+        "alt": "โครงอิฐและหินของโบสถ์เก่าที่ไร้หลังคาบนยอดเขา ช่องหน้าต่างที่ว่างเปล่าและกำแพงที่ผุพังเปล่งประกายสีน้ำตาลแดงอบอุ่นในแสงกลางวัน โดยมีผู้มาเยือนเดินอยู่ท่ามกลางซากปรักหักพัง",
+        "subject": "ซากโบสถ์เซนต์ปอลที่ไร้หลังคาบนยอดเขาเซนต์ปอลในมะละกา"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "हरे-भरे मैदान पर खुले आसमान तले अकेला खड़ा एक जर्जर धूसर पत्थर का प्रवेशद्वार, जिसमें मेहराबदार प्रवेश और उसके ऊपर एक छोटा उत्कीर्ण राजचिह्न है; मेलाका में A Famosa किले का अंतिम बचा हुआ द्वार।",
+        "subject": "मेलाका में A Famosa पुर्तगाली किले का द्वार (Porta de Santiago), जो सल्तनत के पतन के शीघ्र बाद बनाया गया"
+      },
+      {
+        "alt": "एक पहाड़ी की चोटी पर पुराने गिरजाघर का छत-विहीन ईंट-पत्थर का ढाँचा, जिसकी खाली खिड़कियों के छेद और ढहती दीवारें दिन के उजाले में गर्म लाल-भूरे रंग में दमक रही हैं, और खंडहरों के बीच आगंतुक घूम रहे हैं।",
+        "subject": "मेलाका में St Paul's Hill की चोटी पर St Paul's Church के छत-विहीन खंडहर"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "بوابة حجرية رمادية متآكلة بمدخل مقوّس وشعار محفور صغير فوقها، تقف منفردة على مرج أخضر تحت سماء ساطعة؛ وهي آخر بوابة باقية من حصن A Famosa في ملقا.",
+        "subject": "بوابة حصن A Famosa البرتغالي (Porta de Santiago) في ملقا، التي بُنيت بُعيد سقوط السلطنة"
+      },
+      {
+        "alt": "هيكل كنيسة قديمة من الآجر والحجر بلا سقف فوق قمة تل، فتحات نوافذها الخالية وجدرانها المتهدّمة تتوهّج بلون أحمر بنّي دافئ في ضوء النهار، وزوّار يتجوّلون بين الأطلال.",
+        "subject": "أطلال كنيسة St Paul's Church بلا سقف فوق قمة St Paul's Hill في ملقا"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una desgastada puerta de piedra gris con una entrada en arco y un pequeño escudo tallado encima, erguida en solitario sobre un césped verde bajo un cielo luminoso; la última puerta que se conserva de la fortaleza A Famosa en Melaka.",
+        "subject": "la puerta de la fortaleza portuguesa A Famosa (Porta de Santiago) en Melaka, construida poco después de la caída del Sultanato"
+      },
+      {
+        "alt": "El armazón de ladrillo y piedra sin techo de una antigua iglesia en lo alto de una colina, con sus vanos de ventana vacíos y sus muros desmoronados resplandeciendo en un cálido rojo pardo a la luz del día, mientras los visitantes caminan entre las ruinas.",
+        "subject": "las ruinas sin techo de la iglesia de St Paul (St Paul's Church) en lo alto de St Paul's Hill en Melaka"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une porte de pierre grise usée, à l'entrée en arc surmontée d'un petit blason sculpté, dressée seule sur une pelouse verte sous un ciel lumineux ; la dernière porte subsistante de la forteresse A Famosa à Melaka.",
+        "subject": "la porte de la forteresse portugaise A Famosa (Porta de Santiago) à Melaka, édifiée peu après la chute du Sultanat"
+      },
+      {
+        "alt": "La carcasse de brique et de pierre, sans toit, d'une ancienne église au sommet d'une colline, ses baies vides et ses murs en ruine rougeoyant d'un brun-rouge chaud à la lumière du jour, tandis que des visiteurs circulent parmi les ruines.",
+        "subject": "les ruines sans toit de l'église St Paul (St Paul's Church) au sommet de St Paul's Hill à Melaka"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pintu gerbang batu kelabu yang lusuh dengan pintu masuk berlengkung dan lambang berukir kecil di atasnya, berdiri sendirian di atas halaman rumput hijau di bawah langit cerah; satu-satunya pintu gerbang kubu A Famosa yang masih tinggal di Melaka.",
+        "subject": "pintu gerbang kota Portugis A Famosa (Porta de Santiago) di Melaka, dibina tidak lama selepas kejatuhan Kesultanan"
+      },
+      {
+        "alt": "Kerangka bata dan batu gereja lama tanpa bumbung di puncak bukit, bukaan tingkapnya yang kosong dan dinding yang runtuh bersinar merah-perang hangat pada siang hari, dengan pengunjung berjalan di antara runtuhan.",
+        "subject": "runtuhan Gereja St Paul tanpa bumbung di puncak Bukit St Paul di Melaka"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Gerbang batu kelabu yang lapuk dengan pintu masuk melengkung dan lambang berukir kecil di atasnya, berdiri sendirian di atas hamparan rumput hijau di bawah langit cerah; satu-satunya gerbang benteng A Famosa yang tersisa di Melaka.",
+        "subject": "gerbang benteng Portugis A Famosa (Porta de Santiago) di Melaka, dibangun tak lama setelah keruntuhan Kesultanan"
+      },
+      {
+        "alt": "Kerangka bata dan batu gereja tua tanpa atap di puncak bukit, bukaan jendelanya yang kosong dan dinding yang runtuh bersinar merah-cokelat hangat di siang hari, dengan para pengunjung berjalan di antara reruntuhan.",
+        "subject": "reruntuhan Gereja St Paul tanpa atap di puncak Bukit St Paul di Melaka"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một cổng đá xám phong hóa với lối vào hình vòm và một phù hiệu chạm khắc nhỏ phía trên, đứng đơn độc trên bãi cỏ xanh dưới bầu trời trong sáng; cổng cuối cùng còn sót lại của pháo đài A Famosa ở Melaka.",
+        "subject": "cổng pháo đài Bồ Đào Nha A Famosa (Porta de Santiago) ở Melaka, được xây dựng ngay sau khi Vương quốc Hồi giáo sụp đổ"
+      },
+      {
+        "alt": "Khung gạch và đá không mái của một nhà thờ cổ trên đỉnh đồi, những ô cửa sổ trống rỗng và những bức tường đổ nát ánh lên màu nâu đỏ ấm áp dưới ánh ngày, với du khách đi dạo giữa tàn tích.",
+        "subject": "tàn tích không mái của Nhà thờ St Paul trên đỉnh Đồi St Paul ở Melaka"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "வளைவான நுழைவாயிலுடனும் அதற்கு மேல் சிறிய செதுக்கப்பட்ட சின்னத்துடனும் கூடிய பருவநிலையால் தேய்ந்த சாம்பல் நிற கல் வாயில், பிரகாசமான வானத்தின் கீழ் பச்சைப் புல்வெளியில் தனியாக நிற்கிறது; மலாக்காவில் உள்ள A Famosa கோட்டையின் எஞ்சியிருக்கும் கடைசி வாயில்.",
+        "subject": "மலாக்காவில் உள்ள A Famosa போர்த்துகீசிய கோட்டை வாயில் (Porta de Santiago), சுல்தானகம் வீழ்ந்த உடனேயே கட்டப்பட்டது"
+      },
+      {
+        "alt": "ஒரு மலை உச்சியில் உள்ள பழைய தேவாலயத்தின் கூரையற்ற செங்கல்-கல் எலும்புக்கூடு, அதன் காலியான ஜன்னல் திறப்புகளும் இடிந்து வரும் சுவர்களும் பகல் வெளிச்சத்தில் வெதுவெதுப்பான சிவப்பு-பழுப்பு நிறத்தில் ஒளிர்கின்றன, இடிபாடுகளுக்கு இடையே பார்வையாளர்கள் நடந்து செல்கின்றனர்.",
+        "subject": "மலாக்காவில் St Paul மலையின் உச்சியில் உள்ள கூரையற்ற St Paul தேவாலயத்தின் இடிபாடுகள்"
+      }
+    ]
+  },
+  "malaysia/straits-settlements": {
+    "zh": [
+      {
+        "alt": "一座宏伟的两层白墙殖民建筑，设有高大的廊柱式回廊、拱形窗户和对称的立面，坐落在修剪整齐的绿茵草坪后方，蓝天之下的槟城乔治市。",
+        "subject": "槟城乔治市白墙的殖民时代市政厅，一座海峡殖民地行政大楼"
+      },
+      {
+        "alt": "一座大宅华丽的立面漆成鲜艳的靛蓝色，配有绿色百叶窗、雕饰的屋檐和一排拱形门洞，是槟城乔治市一座地标性的海峡华人庭院宅邸。",
+        "subject": "靛蓝色的张弼士故居（蓝屋），槟城乔治市一座海峡华人商贾的庭院宅邸"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "壮麗な2階建ての白塗り植民地建築。高い列柱のベランダ、アーチ窓、左右対称のファサードを備え、手入れされた緑の芝生の奥、青空の下のペナン、ジョージタウンに建つ。",
+        "subject": "ジョージタウンにある白塗りの植民地時代のペナン市庁舎。海峡植民地の行政庁舎"
+      },
+      {
+        "alt": "大邸宅の装飾豊かなファサードが鮮やかな藍色に塗られ、緑の鎧戸、装飾的な軒、アーチ型の戸口が並ぶ。ペナン、ジョージタウンを代表する海峡華人の中庭式邸宅。",
+        "subject": "藍色のチョン・ファッ・ツィー邸。ジョージタウン（ペナン）にある海峡華人商人の中庭式邸宅"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "웅장한 2층짜리 흰색 식민지 건물로, 높은 기둥이 늘어선 베란다, 아치형 창문, 좌우 대칭의 정면을 갖추고 있으며, 잘 손질된 푸른 잔디밭 뒤 파란 하늘 아래 페낭 조지타운에 서 있다.",
+        "subject": "조지타운에 있는 흰색 식민지 시대 페낭 시청. 해협식민지 행정 건물"
+      },
+      {
+        "alt": "큰 저택의 화려한 정면이 선명한 남색으로 칠해져 있고, 녹색 덧문, 장식적인 처마, 아치형 출입구가 줄지어 있다. 페낭 조지타운의 대표적인 해협 화인 중정식 저택.",
+        "subject": "남색의 청팟쯔 저택(Cheong Fatt Tze Mansion). 페낭 조지타운에 있는 해협 화인 상인의 중정식 저택"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารสมัยอาณานิคมสีขาวสองชั้นอันโอ่อ่า มีระเบียงเสาสูง หน้าต่างทรงโค้ง และด้านหน้าอาคารสมมาตร ตั้งอยู่หลังสนามหญ้าเขียวที่ตัดแต่งเรียบร้อยใต้ท้องฟ้าสีครามในจอร์จทาวน์ ปีนัง",
+        "subject": "ศาลาว่าการปีนัง (Penang City Hall) สีขาวสมัยอาณานิคมในจอร์จทาวน์ อาคารราชการของนิคมช่องแคบ"
+      },
+      {
+        "alt": "ด้านหน้าอันวิจิตรของคฤหาสน์หลังใหญ่ทาสีครามเข้มสดใส มีบานเกล็ดสีเขียว ชายคาประดับตกแต่ง และประตูทรงโค้งเรียงราย เป็นบ้านทรงมีลานกลางของชาวจีนช่องแคบที่เป็นสถานที่สำคัญในจอร์จทาวน์ ปีนัง",
+        "subject": "คฤหาสน์ช็องฟัตเจ๋อ (Cheong Fatt Tze Mansion) สีครามเข้ม บ้านทรงมีลานกลางของพ่อค้าชาวจีนช่องแคบในจอร์จทาวน์ ปีนัง"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "ऊँचे स्तंभों वाले बरामदों, मेहराबदार खिड़कियों और सममित अग्रभाग वाली एक भव्य दोमंजिला सफ़ेदी-पुती औपनिवेशिक इमारत, जो George Town, Penang में नीले आसमान तले एक सुव्यवस्थित हरे मैदान के पीछे स्थित है।",
+        "subject": "George Town में सफ़ेदी-पुती औपनिवेशिक-कालीन Penang City Hall, जो Straits Settlements की एक प्रशासनिक इमारत है"
+      },
+      {
+        "alt": "एक बड़ी हवेली का अलंकृत अग्रभाग जो चटख नीली (indigo) रंगत में रंगा है, जिसमें हरे झिलमिली शटर, सजावटी छज्जे और मेहराबदार दरवाज़ों की एक कतार है; George Town, Penang में Straits Chinese आँगन-गृह की एक ऐतिहासिक इमारत।",
+        "subject": "George Town, Penang में नीली-indigo रंगत वाली Cheong Fatt Tze Mansion, एक Straits Chinese व्यापारी का आँगन-गृह"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مبنى استعماري فخم من طابقين مطليّ بالأبيض، بشُرفات ذات أعمدة عالية ونوافذ مقوّسة وواجهة متناظرة، يقع خلف مرج أخضر مشذّب تحت سماء زرقاء في جورج تاون، بينانغ.",
+        "subject": "مبنى Penang City Hall الاستعماري المطليّ بالأبيض في جورج تاون، أحد مباني إدارة مستوطنات المضيق"
+      },
+      {
+        "alt": "واجهة مزخرفة لقصر كبير مطليّ بلون النيلي الزاهي، بمصاريع خشبية خضراء مشرّعة وأفاريز مزخرفة وصفّ من المداخل المقوّسة؛ دار صينية من طراز المضيق ذات فناء، معلم في جورج تاون، بينانغ.",
+        "subject": "قصر Cheong Fatt Tze Mansion النيليّ، دار تاجر صيني من طراز المضيق ذات فناء في جورج تاون، بينانغ"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un imponente edificio colonial de dos plantas encalado en blanco, con altas galerías de columnas, ventanas en arco y una fachada simétrica, situado tras un césped verde cuidado bajo un cielo azul en George Town, Penang.",
+        "subject": "el encalado Ayuntamiento de Penang (Penang City Hall) de la época colonial en George Town, un edificio administrativo de los Establecimientos del Estrecho (Straits Settlements)"
+      },
+      {
+        "alt": "La fachada ornamentada de una gran mansión pintada de un vivo azul índigo, con contraventanas verdes de lamas, aleros decorativos y una hilera de portales en arco; emblemática casa con patio de los chinos de los Estrechos en George Town, Penang.",
+        "subject": "la mansión Cheong Fatt Tze (Cheong Fatt Tze Mansion), de color azul índigo, casa con patio de un comerciante chino de los Estrechos en George Town, Penang"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un imposant bâtiment colonial de deux étages, chaulé de blanc, avec de hautes vérandas à colonnes, des fenêtres en arc et une façade symétrique, situé derrière une pelouse verte soignée sous un ciel bleu à George Town, Penang.",
+        "subject": "l'hôtel de ville de Penang (Penang City Hall), blanchi à la chaux, de l'époque coloniale à George Town, un bâtiment administratif des Établissements des détroits (Straits Settlements)"
+      },
+      {
+        "alt": "La façade ornée d'une grande demeure peinte d'un bleu indigo vif, aux persiennes vertes à lamelles, aux corniches décoratives et à une rangée de portes en arc ; maison à cour emblématique des Chinois des détroits à George Town, Penang.",
+        "subject": "la demeure Cheong Fatt Tze (Cheong Fatt Tze Mansion), bleu indigo, maison à cour d'un marchand chinois des détroits à George Town, Penang"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Bangunan kolonial dua tingkat yang bercat putih dan megah dengan beranda bertiang tinggi, tingkap berlengkung dan fasad simetri, terletak di belakang halaman rumput hijau yang terurus di bawah langit biru di George Town, Pulau Pinang.",
+        "subject": "Dewan Bandaraya Pulau Pinang era kolonial yang bercat putih di George Town, sebuah bangunan pentadbiran Negeri-Negeri Selat"
+      },
+      {
+        "alt": "Fasad berhias sebuah rumah agam besar yang dicat biru nila terang, dengan bidai kayu berjalur hijau, cucur atap berhias dan deretan pintu berlengkung, sebuah rumah berhalaman Cina Selat yang menjadi mercu tanda di George Town, Pulau Pinang.",
+        "subject": "Rumah Agam Cheong Fatt Tze berwarna biru nila, sebuah rumah berhalaman saudagar Cina Selat di George Town, Pulau Pinang"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Bangunan kolonial dua lantai yang megah bercat putih dengan beranda bertiang tinggi, jendela melengkung dan fasad simetris, terletak di belakang hamparan rumput hijau yang terawat di bawah langit biru di George Town, Penang.",
+        "subject": "Balai Kota Penang era kolonial yang bercat putih di George Town, sebuah bangunan administratif Negeri-Negeri Selat"
+      },
+      {
+        "alt": "Fasad berhias sebuah rumah agam besar yang dicat biru nila terang, dengan daun jendela kayu berkisi hijau, lis atap berhias dan deretan pintu melengkung, sebuah rumah berhalaman Tionghoa Selat yang menjadi penanda di George Town, Penang.",
+        "subject": "Rumah Agam Cheong Fatt Tze berwarna biru nila, rumah berhalaman milik saudagar Tionghoa Selat di George Town, Penang"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một tòa nhà thuộc địa hai tầng bề thế quét vôi trắng với hành lang có hàng cột cao, cửa sổ hình vòm và mặt tiền đối xứng, nằm sau bãi cỏ xanh được chăm chút dưới bầu trời xanh ở George Town, Penang.",
+        "subject": "Tòa Thị chính Penang thời thuộc địa quét vôi trắng ở George Town, một tòa nhà hành chính của Khu Định cư Eo biển"
+      },
+      {
+        "alt": "Mặt tiền trang trí công phu của một dinh thự lớn được sơn màu chàm rực rỡ, với cửa chớp gỗ màu xanh lục, diềm mái trang trí và một dãy cửa hình vòm, một ngôi nhà có sân trong của người Hoa Eo biển mang tính biểu tượng ở George Town, Penang.",
+        "subject": "Dinh thự Cheong Fatt Tze màu chàm, ngôi nhà có sân trong của một thương gia người Hoa Eo biển ở George Town, Penang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "உயரமான தூண்களுடன் கூடிய திண்ணைகள், வளைவான ஜன்னல்கள் மற்றும் சமச்சீர் முகப்புடன் கூடிய வெண்மையடிக்கப்பட்ட இரண்டு மாடி பிரமாண்டமான காலனித்துவக் கட்டிடம், பினாங்கு George Town-இல் நீல வானத்தின் கீழ் நேர்த்தியாகப் பராமரிக்கப்பட்ட பச்சைப் புல்வெளிக்குப் பின்னால் அமைந்துள்ளது.",
+        "subject": "George Town-இல் உள்ள வெண்மையடிக்கப்பட்ட காலனித்துவ கால பினாங்கு நகர மண்டபம், நீரிணைக் குடியேற்றங்களின் ஓர் நிர்வாகக் கட்டிடம்"
+      },
+      {
+        "alt": "பளபளப்பான அடர் நீல நிறத்தில் வர்ணம் பூசப்பட்ட ஒரு பெரிய மாளிகையின் அலங்கார முகப்பு, பச்சை நிற சட்டக ஜன்னல் கதவுகள், அலங்கார கூரை விளிம்புகள் மற்றும் வளைவான கதவுகளின் வரிசையுடன், பினாங்கு George Town-இல் அடையாளச் சின்னமாக விளங்கும் நீரிணை சீன முற்றக் கட்டிட வீடு.",
+        "subject": "அடர் நீல நிற Cheong Fatt Tze மாளிகை (Rumah Agam Cheong Fatt Tze), பினாங்கு George Town-இல் உள்ள ஒரு நீரிணை சீன வணிகரின் முற்றக் கட்டிட வீடு"
+      }
+    ]
+  },
+  "malaysia/perak-sultanate": {
+    "zh": [
+      {
+        "alt": "一座白色清真寺，顶着一座巨大的金色洋葱形穹顶，两侧环绕较小的鎏金穹顶和四座纤细的宣礼塔，在晴空下熠熠生辉；这是霹雳江沙的皇家乌布迪亚清真寺。",
+        "subject": "乌布迪亚清真寺（Ubudiah Mosque），位于江沙的霹雳皇家清真寺，有着金色穹顶"
+      },
+      {
+        "alt": "一座庄严的奶油色殖民时代宫殿，设有拱形窗户、装饰性栏杆和对称立面，顶部点缀着小塔楼，坐落在明亮天空下的草坪后方；霹雳江沙的乌鲁王宫。",
+        "subject": "乌鲁王宫（Istana Hulu），江沙昔日的霹雳皇宫，今为苏丹阿兹兰沙艺廊"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "白いモスクが大きな金色の玉ねぎ形ドームを戴き、その両脇に小さな金箔のドームと4本の細いミナレットが並び、澄んだ空を背に輝く。ペラ州クアラカンサーの王室ウブディア・モスク。",
+        "subject": "クアラカンサーにあるペラ州の王室モスク、ウブディア・モスク。金色のドームを戴く"
+      },
+      {
+        "alt": "荘厳なクリーム色の植民地時代の宮殿。アーチ窓、装飾的な欄干、小さな尖塔を頂く左右対称のファサードを備え、明るい空の下、芝生の奥に建つ。ペラ州クアラカンサーのイスタナ・フル。",
+        "subject": "イスタナ・フル。クアラカンサーにあるかつてのペラ王宮で、現在はスルタン・アズラン・シャー・ギャラリー"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "흰색 모스크가 커다란 금색 양파 모양 돔을 얹고, 그 양옆에 작은 금박 돔들과 네 개의 가느다란 첨탑이 늘어서 맑은 하늘을 배경으로 빛난다. 페락주 쿠알라캉사르의 왕실 우부디아 모스크.",
+        "subject": "쿠알라캉사르에 있는 페락 왕실 모스크 우부디아 모스크. 금색 돔을 얹었다"
+      },
+      {
+        "alt": "위엄 있는 크림색 식민지 시대 궁전으로, 아치형 창문, 장식 난간, 작은 탑을 얹은 좌우 대칭 정면을 갖추고 있으며, 밝은 하늘 아래 잔디밭 뒤에 서 있다. 페락주 쿠알라캉사르의 이스타나 훌루.",
+        "subject": "이스타나 훌루. 쿠알라캉사르에 있던 옛 페락 왕궁으로, 현재는 술탄 아즐란 샤 갤러리"
+      }
+    ],
+    "th": [
+      {
+        "alt": "มัสยิดสีขาวที่มีโดมทรงหัวหอมสีทองขนาดใหญ่อยู่ด้านบน ขนาบข้างด้วยโดมสีทองขนาดเล็กกว่าและหอคอยสุเหร่าเรียวสี่ต้น เปล่งประกายตัดกับท้องฟ้าใส มัสยิดหลวงอูบูดียะฮ์ในกัวลากังซาร์ รัฐเประ",
+        "subject": "มัสยิดอูบูดียะฮ์ (Ubudiah Mosque) มัสยิดหลวงของรัฐเประในกัวลากังซาร์ พร้อมโดมสีทอง"
+      },
+      {
+        "alt": "พระราชวังสมัยอาณานิคมสีครีมอันสง่างาม มีหน้าต่างทรงโค้ง ราวระเบียงประดับตกแต่ง และด้านหน้าอาคารสมมาตรที่มียอดป้อมเล็ก ๆ ตั้งอยู่หลังสนามหญ้าใต้ท้องฟ้าสว่าง อิสตานาฮูลูในกัวลากังซาร์ รัฐเประ",
+        "subject": "อิสตานาฮูลู (Istana Hulu) อดีตพระราชวังของรัฐเประในกัวลากังซาร์ ปัจจุบันเป็นหอศิลป์สุลต่านอัซลันชาห์"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक सफ़ेद मस्जिद जिसके ऊपर प्याज़नुमा आकार का बड़ा सुनहरा गुंबद है, जिसके दोनों ओर छोटे सुनहरे गुंबद और चार पतली मीनारें हैं, जो साफ़ आसमान के विरुद्ध दमक रही हैं; Kuala Kangsar, Perak में शाही Ubudiah Mosque।",
+        "subject": "Kuala Kangsar में Perak की शाही मस्जिद Ubudiah Mosque, अपने सुनहरे गुंबद के साथ"
+      },
+      {
+        "alt": "एक भव्य क्रीम रंग का औपनिवेशिक-कालीन महल जिसमें मेहराबदार खिड़कियाँ, सजावटी कटघरे और सममित अग्रभाग है, जिसके ऊपर छोटे बुर्ज हैं, तेज़ रोशनी में एक मैदान के पीछे स्थित; Kuala Kangsar, Perak में Istana Hulu।",
+        "subject": "Kuala Kangsar में Perak का पूर्व शाही महल Istana Hulu, अब Sultan Azlan Shah Gallery"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مسجد أبيض يعلوه قبّة ذهبية كبيرة على شكل بصلة تحفّ بها قباب ذهبية أصغر وأربع مآذن نحيلة، يتلألأ أمام سماء صافية؛ مسجد Ubudiah الملكي في كوالا كانجسار، بيراق.",
+        "subject": "مسجد Ubudiah، المسجد الملكي لبيراق في كوالا كانجسار، بقبّته الذهبية"
+      },
+      {
+        "alt": "قصر فخم من الحقبة الاستعمارية بلون كريمي، بنوافذ مقوّسة ودرابزينات مزخرفة وواجهة متناظرة تعلوها أبراج صغيرة، يقع خلف مرج تحت سماء ساطعة؛ قصر Istana Hulu في كوالا كانجسار، بيراق.",
+        "subject": "قصر Istana Hulu، قصر بيراق الملكي السابق في كوالا كانجسار، وهو الآن معرض السلطان عزلان شاه"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una mezquita blanca coronada por una gran cúpula dorada en forma de bulbo, flanqueada por cúpulas doradas más pequeñas y cuatro esbeltos alminares, reluciente contra un cielo despejado; la mezquita real Ubudiah en Kuala Kangsar, Perak.",
+        "subject": "la mezquita Ubudiah, la mezquita real de Perak en Kuala Kangsar, con su cúpula dorada"
+      },
+      {
+        "alt": "Un majestuoso palacio de color crema de la época colonial, con ventanas en arco, balaustradas decorativas y una fachada simétrica rematada por pequeños torreones, situado tras un césped bajo un cielo luminoso; el Istana Hulu en Kuala Kangsar, Perak.",
+        "subject": "el Istana Hulu, antiguo palacio real de Perak en Kuala Kangsar, hoy la Galería Sultan Azlan Shah"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une mosquée blanche couronnée d'un grand dôme doré en forme de bulbe, flanqué de dômes dorés plus petits et de quatre minarets élancés, étincelant contre un ciel clair ; la mosquée royale Ubudiah à Kuala Kangsar, Perak.",
+        "subject": "la mosquée Ubudiah, la mosquée royale de Perak à Kuala Kangsar, avec son dôme doré"
+      },
+      {
+        "alt": "Un palais majestueux de couleur crème de l'époque coloniale, aux fenêtres en arc, aux balustrades décoratives et à la façade symétrique couronnée de petites tourelles, situé derrière une pelouse sous un ciel lumineux ; l'Istana Hulu à Kuala Kangsar, Perak.",
+        "subject": "l'Istana Hulu, ancien palais royal de Perak à Kuala Kangsar, aujourd'hui la Galerie Sultan Azlan Shah"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Masjid putih yang dinobatkan dengan kubah besar berbentuk bawang keemasan diapit kubah bersalut emas yang lebih kecil dan empat menara ramping, berkilauan di bawah langit cerah; Masjid Ubudiah diraja di Kuala Kangsar, Perak.",
+        "subject": "Masjid Ubudiah, masjid diraja Perak di Kuala Kangsar, dengan kubah keemasannya"
+      },
+      {
+        "alt": "Istana era kolonial berwarna krim yang anggun dengan tingkap berlengkung, susur tangga berhias dan fasad simetri dimahkotai menara kecil, terletak di belakang halaman rumput di bawah langit cerah; Istana Hulu di Kuala Kangsar, Perak.",
+        "subject": "Istana Hulu, bekas istana diraja Perak di Kuala Kangsar, kini Galeri Sultan Azlan Shah"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Masjid putih yang dimahkotai kubah besar berbentuk bawang keemasan diapit kubah bersalut emas yang lebih kecil dan empat menara ramping, berkilau di bawah langit cerah; Masjid Ubudiah kerajaan di Kuala Kangsar, Perak.",
+        "subject": "Masjid Ubudiah, masjid kerajaan Perak di Kuala Kangsar, dengan kubah keemasannya"
+      },
+      {
+        "alt": "Istana era kolonial berwarna krem yang anggun dengan jendela melengkung, langkan berhias dan fasad simetris dimahkotai menara kecil, terletak di belakang hamparan rumput di bawah langit cerah; Istana Hulu di Kuala Kangsar, Perak.",
+        "subject": "Istana Hulu, bekas istana kerajaan Perak di Kuala Kangsar, kini Galeri Sultan Azlan Shah"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một nhà thờ Hồi giáo màu trắng được tôn lên bởi một mái vòm lớn hình củ hành dát vàng, hai bên là những mái vòm mạ vàng nhỏ hơn và bốn ngọn tháp mảnh mai, lấp lánh dưới bầu trời quang đãng; thánh đường hoàng gia Ubudiah ở Kuala Kangsar, Perak.",
+        "subject": "Nhà thờ Hồi giáo Ubudiah, thánh đường hoàng gia Perak ở Kuala Kangsar, với mái vòm dát vàng"
+      },
+      {
+        "alt": "Một cung điện thời thuộc địa màu kem trang nghiêm với cửa sổ hình vòm, lan can trang trí và mặt tiền đối xứng được điểm những tháp canh nhỏ, nằm sau bãi cỏ dưới bầu trời trong sáng; Istana Hulu ở Kuala Kangsar, Perak.",
+        "subject": "Istana Hulu, cựu cung điện hoàng gia Perak ở Kuala Kangsar, nay là Phòng trưng bày Sultan Azlan Shah"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "சிறிய தங்க முலாம் பூசப்பட்ட குவிமாடங்களும் நான்கு மெல்லிய மினாராக்களும் சூழ்ந்த ஒரு பெரிய தங்க நிற வெங்காய வடிவ குவிமாடத்தால் முடிசூட்டப்பட்ட வெள்ளை மசூதி, தெளிவான வானத்தின் கீழ் மின்னுகிறது; Kuala Kangsar, பேராக்கில் உள்ள அரச உபுடியா மசூதி.",
+        "subject": "உபுடியா மசூதி (Masjid Ubudiah), Kuala Kangsar-இல் உள்ள பேராக் அரச மசூதி, அதன் தங்க நிற குவிமாடத்துடன்"
+      },
+      {
+        "alt": "வளைவான ஜன்னல்கள், அலங்கார தடுப்புக் கைப்பிடிகள் மற்றும் சிறிய கோபுரங்களால் முடிசூட்டப்பட்ட சமச்சீர் முகப்புடன் கூடிய கம்பீரமான கிரீம் நிற காலனித்துவ கால அரண்மனை, பிரகாசமான வானத்தின் கீழ் புல்வெளிக்குப் பின்னால் அமைந்துள்ளது; Kuala Kangsar, பேராக்கில் உள்ள Istana Hulu.",
+        "subject": "Istana Hulu, Kuala Kangsar-இல் உள்ள முன்னாள் பேராக் அரண்மனை, தற்போது சுல்தான் அஸ்லான் ஷா கேலரி"
+      }
+    ]
+  },
+  "malaysia/selangor-sultanate": {
+    "zh": [
+      {
+        "alt": "一座宏伟的殖民风格白色与奶油色文物建筑，配有拱形窗户和瓦顶，坐落在草坪后方，是巴生的雪兰莪皇家艺廊。",
+        "subject": "雪兰莪巴生的苏丹阿都阿兹皇家艺廊（Galeri Diraja Sultan Abdul Aziz）"
+      },
+      {
+        "alt": "一座典雅的蓝白相间皇家清真寺，设有巨大的中央穹顶、两侧的穹顶和纤细的宣礼塔，在巴生的晴空下拔地而起。",
+        "subject": "雪兰莪巴生的苏丹苏莱曼皇家清真寺（Masjid Diraja Sultan Sulaiman）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "壮麗な植民地様式の白とクリーム色の歴史的建造物。アーチ窓と瓦屋根を備え、芝生の奥に建ち、クランのスランゴール王室ギャラリーが入る。",
+        "subject": "スランゴール州クランにあるスルタン・アブドゥル・アジズ王室ギャラリー（Galeri Diraja Sultan Abdul Aziz）"
+      },
+      {
+        "alt": "優美な青と白の王室モスク。大きな中央ドーム、両脇のドーム、細いミナレットが澄んだ空に向かってそびえる、クランにて。",
+        "subject": "スランゴール州クランにあるスルタン・スライマン王室モスク（Masjid Diraja Sultan Sulaiman）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "웅장한 식민지 양식의 흰색과 크림색 문화유산 건물로, 아치형 창문과 기와지붕을 갖추고 잔디밭 뒤에 서 있으며, 클랑의 슬랑오르 왕실 갤러리가 들어서 있다.",
+        "subject": "슬랑오르주 클랑에 있는 술탄 압둘 아지즈 왕실 갤러리(Galeri Diraja Sultan Abdul Aziz)"
+      },
+      {
+        "alt": "우아한 파란색과 흰색의 왕실 모스크로, 커다란 중앙 돔, 양옆의 돔, 가느다란 첨탑이 클랑의 맑은 하늘을 향해 솟아 있다.",
+        "subject": "슬랑오르주 클랑에 있는 술탄 술라이만 왕실 모스크(Masjid Diraja Sultan Sulaiman)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารมรดกสไตล์อาณานิคมสีขาวและครีมอันโอ่อ่า มีหน้าต่างทรงโค้งและหลังคากระเบื้อง ตั้งอยู่หลังสนามหญ้า เป็นที่ตั้งของหอศิลป์หลวงแห่งรัฐสลังงอร์ในกลัง",
+        "subject": "หอศิลป์หลวงสุลต่านอับดุลอาซิซ (Galeri Diraja Sultan Abdul Aziz) ในกลัง รัฐสลังงอร์"
+      },
+      {
+        "alt": "มัสยิดหลวงสีน้ำเงินและขาวอันสง่างาม มีโดมกลางขนาดใหญ่ โดมขนาบข้าง และหอคอยสุเหร่าเรียว ตั้งตระหง่านตัดกับท้องฟ้าใสในกลัง",
+        "subject": "มัสยิดหลวงสุลต่านสุไลมาน (Masjid Diraja Sultan Sulaiman) ในกลัง รัฐสลังงอร์"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "मेहराबदार खिड़कियों और खपरैल की छत वाली एक भव्य औपनिवेशिक-शैली की सफ़ेद और क्रीम रंग की विरासत इमारत, जो मैदानों के पीछे स्थित है और Klang में Selangor की शाही गैलरी को समेटे हुए है।",
+        "subject": "Klang, Selangor में Galeri Diraja Sultan Abdul Aziz (Sultan Abdul Aziz Royal Gallery)"
+      },
+      {
+        "alt": "एक सुरुचिपूर्ण नीली-सफ़ेद शाही मस्जिद जिसमें एक बड़ा केंद्रीय गुंबद, दोनों ओर गुंबद और पतली मीनारें हैं, जो Klang में साफ़ आसमान के विरुद्ध ऊपर उठी हुई हैं।",
+        "subject": "Klang, Selangor में Masjid Diraja Sultan Sulaiman (Sultan Sulaiman Royal Mosque)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مبنى تراثي فخم بطراز استعماري بلونين أبيض وكريمي، بنوافذ مقوّسة وسقف من القرميد، يقع خلف مروج، ويضمّ معرض سلانجور الملكي في كلانغ.",
+        "subject": "Galeri Diraja Sultan Abdul Aziz (معرض السلطان عبد العزيز الملكي) في كلانغ، سلانجور"
+      },
+      {
+        "alt": "مسجد ملكي أنيق بلونين أزرق وأبيض، بقبّة مركزية كبيرة وقباب جانبية ومآذن نحيلة ترتفع أمام سماء صافية في كلانغ.",
+        "subject": "Masjid Diraja Sultan Sulaiman (مسجد السلطان سليمان الملكي) في كلانغ، سلانجور"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un majestuoso edificio patrimonial de estilo colonial, en blanco y crema, con ventanas en arco y tejado de tejas, situado tras unos jardines, que alberga la galería real de Selangor en Klang.",
+        "subject": "la Galeri Diraja Sultan Abdul Aziz (Galería Real Sultan Abdul Aziz) en Klang, Selangor"
+      },
+      {
+        "alt": "Una elegante mezquita real azul y blanca, con una gran cúpula central, cúpulas laterales y esbeltos alminares que se alzan contra un cielo despejado en Klang.",
+        "subject": "la Masjid Diraja Sultan Sulaiman (Mezquita Real Sultan Sulaiman) en Klang, Selangor"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un majestueux bâtiment patrimonial de style colonial, blanc et crème, aux fenêtres en arc et au toit de tuiles, situé derrière des pelouses, abritant la galerie royale du Selangor à Klang.",
+        "subject": "la Galeri Diraja Sultan Abdul Aziz (Galerie royale Sultan Abdul Aziz) à Klang, Selangor"
+      },
+      {
+        "alt": "Une élégante mosquée royale bleue et blanche, avec un grand dôme central, des dômes latéraux et de minces minarets s'élevant contre un ciel clair à Klang.",
+        "subject": "la Masjid Diraja Sultan Sulaiman (Mosquée royale Sultan Sulaiman) à Klang, Selangor"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Bangunan warisan bergaya kolonial yang megah berwarna putih dan krim dengan tingkap berlengkung dan bumbung berjubin, terletak di belakang halaman rumput, menempatkan galeri diraja Selangor di Klang.",
+        "subject": "Galeri Diraja Sultan Abdul Aziz di Klang, Selangor"
+      },
+      {
+        "alt": "Masjid diraja biru-putih yang anggun dengan kubah tengah yang besar, kubah sampingan dan menara ramping yang menjulang di bawah langit cerah di Klang.",
+        "subject": "Masjid Diraja Sultan Sulaiman di Klang, Selangor"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Bangunan cagar budaya bergaya kolonial yang megah berwarna putih dan krem dengan jendela melengkung dan atap berubin, terletak di belakang hamparan rumput, menaungi galeri kerajaan Selangor di Klang.",
+        "subject": "Galeri Diraja Sultan Abdul Aziz di Klang, Selangor"
+      },
+      {
+        "alt": "Masjid kerajaan biru-putih yang anggun dengan kubah tengah yang besar, kubah sisi dan menara ramping yang menjulang di bawah langit cerah di Klang.",
+        "subject": "Masjid Diraja Sultan Sulaiman di Klang, Selangor"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một tòa nhà di sản phong cách thuộc địa bề thế màu trắng và kem với cửa sổ hình vòm và mái ngói, nằm sau các bãi cỏ, là nơi đặt phòng trưng bày hoàng gia Selangor ở Klang.",
+        "subject": "Galeri Diraja Sultan Abdul Aziz (Phòng trưng bày Hoàng gia Sultan Abdul Aziz) ở Klang, Selangor"
+      },
+      {
+        "alt": "Một thánh đường hoàng gia màu xanh-trắng thanh lịch với một mái vòm trung tâm lớn, các mái vòm hai bên và những ngọn tháp mảnh mai vươn lên trên bầu trời quang đãng ở Klang.",
+        "subject": "Masjid Diraja Sultan Sulaiman (Thánh đường Hoàng gia Sultan Sulaiman) ở Klang, Selangor"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "வளைவான ஜன்னல்கள் மற்றும் ஓட்டுக் கூரையுடன் கூடிய வெள்ளை மற்றும் கிரீம் நிற பிரமாண்டமான காலனித்துவ பாணி பாரம்பரியக் கட்டிடம், புல்வெளிகளுக்குப் பின்னால் அமைந்து, Klang-இல் செலாங்கூர் அரச கேலரியைக் கொண்டுள்ளது.",
+        "subject": "Selangor, Klang-இல் உள்ள Galeri Diraja Sultan Abdul Aziz (சுல்தான் அப்துல் அஜீஸ் அரச கேலரி)"
+      },
+      {
+        "alt": "ஒரு பெரிய மைய குவிமாடம், பக்கவாட்டு குவிமாடங்கள் மற்றும் மெல்லிய மினாராக்களுடன் கூடிய நேர்த்தியான நீல-வெள்ளை அரச மசூதி, Klang-இல் தெளிவான வானத்தை நோக்கி உயர்கிறது.",
+        "subject": "Selangor, Klang-இல் உள்ள Masjid Diraja Sultan Sulaiman (சுல்தான் சுலைமான் அரச மசூதி)"
+      }
+    ]
+  },
+  "malaysia/johor-riau-sultanate": {
+    "zh": [
+      {
+        "alt": "柔佛白色的大王宫，拥有庄严的立面和绿色屋顶的塔楼，隔着柔佛海峡的水面从滨水处望去。",
+        "subject": "大王宫（Istana Besar，今为皇家苏丹阿布峇卡博物馆），位于柔佛新山"
+      },
+      {
+        "alt": "气势恢宏的灰色苏丹依布拉欣大厦矗立在山丘上，一座狭长对称的政府大楼，顶部耸立着高高的中央钟楼兼萨拉森式塔楼，以斜角视角观看。",
+        "subject": "苏丹依布拉欣大厦（Bangunan Sultan Ibrahim），新山昔日的柔佛州秘书处大楼"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "白いジョホールのイスタナ・ブサール大宮殿。堂々としたファサードと緑の屋根の塔を持ち、ジョホール海峡の水辺越しに望む。",
+        "subject": "イスタナ・ブサール（大宮殿、現在は王立アブ・バカル博物館）。ジョホールバルにある"
+      },
+      {
+        "alt": "丘の上にそびえる威容ある灰色のスルタン・イブラヒム・ビルディング。長く左右対称の官庁棟で、高い中央の時計塔とサラセン様式の塔を戴き、斜めから望む。",
+        "subject": "バンゴナン・スルタン・イブラヒム（スルタン・イブラヒム・ビルディング）。ジョホールバルにあるかつてのジョホール州庁舎"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "흰색 조호르 이스타나 브사르 대궁전. 위엄 있는 정면과 녹색 지붕의 탑을 지녔으며, 조호르 해협의 물 건너 수변에서 바라본 모습.",
+        "subject": "이스타나 브사르(대궁전, 현재는 왕립 아부 바카르 박물관). 조호르바루 조호르에 있다"
+      },
+      {
+        "alt": "언덕 위에 솟은 위압적인 회색의 술탄 이브라힘 빌딩. 길고 좌우 대칭인 관청 건물로, 높은 중앙 시계탑 겸 사라센 양식 탑을 얹은 모습을 비스듬히 바라본다.",
+        "subject": "방우난 술탄 이브라힘(술탄 이브라힘 빌딩). 조호르바루에 있는 옛 조호르 주청사"
+      }
+    ],
+    "th": [
+      {
+        "alt": "พระราชวังหลวงอิสตานาเบอซาร์สีขาวของรัฐยะโฮร์ ด้วยด้านหน้าอันสง่างามและหอคอยหลังคาสีเขียว มองข้ามผืนน้ำจากริมฝั่งช่องแคบยะโฮร์",
+        "subject": "อิสตานาเบอซาร์ (พระราชวังหลวง ปัจจุบันเป็นพิพิธภัณฑ์หลวงอาบูบาการ์) ในยะโฮร์บาห์รู รัฐยะโฮร์"
+      },
+      {
+        "alt": "อาคารสุลต่านอิบราฮิมสีเทาอันโอ่อ่าตั้งตระหง่านบนเนินเขา เป็นอาคารราชการยาวทรงสมมาตร มียอดเป็นหอนาฬิกากลางสูงแบบซาราเซนิก มองจากมุมเฉียง",
+        "subject": "อาคารสุลต่านอิบราฮิม (Bangunan Sultan Ibrahim) อดีตที่ทำการเลขาธิการรัฐยะโฮร์ในยะโฮร์บาห์รู"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "Johor का सफ़ेद Istana Besar भव्य महल, अपने गरिमामय अग्रभाग और हरी छत वाले बुर्ज के साथ, Johor जलडमरूमध्य के किनारे से पानी के पार देखा गया।",
+        "subject": "Johor Bahru, Johor में Istana Besar (भव्य महल, अब Royal Abu Bakar Museum)"
+      },
+      {
+        "alt": "एक पहाड़ी पर उठा हुआ विशाल धूसर Sultan Ibrahim Building, एक लंबा सममित सरकारी भवन जिसके ऊपर एक ऊँची केंद्रीय घड़ी-और-Saracenic बुर्ज है, तिरछे कोण से देखा गया।",
+        "subject": "Bangunan Sultan Ibrahim (Sultan Ibrahim Building), Johor Bahru में पूर्व Johor राज्य सचिवालय"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "قصر Istana Besar الكبير الأبيض في جوهور، بواجهته المهيبة وبرجه ذي السقف الأخضر، يُرى عبر الماء من واجهة مضيق جوهور.",
+        "subject": "Istana Besar (القصر الكبير، وهو الآن متحف أبو بكر الملكي) في جوهور بهرو، جوهور"
+      },
+      {
+        "alt": "مبنى السلطان إبراهيم الرمادي المهيب يرتفع على تلّة، كتلة حكومية طويلة متناظرة يعلوها برج مركزي عالٍ بساعة وطراز ساراسيني، مرئياً من زاوية مائلة.",
+        "subject": "Bangunan Sultan Ibrahim (مبنى السلطان إبراهيم)، أمانة ولاية جوهور السابقة في جوهور بهرو"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El blanco gran palacio Istana Besar de Johor, con su fachada majestuosa y su torre de techo verde, visto al otro lado del agua desde el paseo marítimo del Estrecho de Johor.",
+        "subject": "el Istana Besar (el Gran Palacio, hoy el Museo Real Abu Bakar) en Johor Bahru, Johor"
+      },
+      {
+        "alt": "El imponente Edificio Sultan Ibrahim, de color gris, alzándose sobre una colina; un largo y simétrico bloque gubernamental coronado por una alta torre central de reloj de estilo sarraceno, visto en ángulo.",
+        "subject": "el Bangunan Sultan Ibrahim (Edificio Sultan Ibrahim), antigua secretaría del estado de Johor en Johor Bahru"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Le grand palais blanc Istana Besar de Johor, avec sa façade majestueuse et sa tour au toit vert, vu de l'autre côté de l'eau depuis le front de mer du détroit de Johor.",
+        "subject": "l'Istana Besar (le Grand Palais, aujourd'hui le Musée royal Abu Bakar) à Johor Bahru, Johor"
+      },
+      {
+        "alt": "L'imposant bâtiment Sultan Ibrahim, gris, se dressant sur une colline ; un long bloc gouvernemental symétrique couronné d'une haute tour-horloge centrale de style sarrasin, vu en angle.",
+        "subject": "le Bangunan Sultan Ibrahim (bâtiment Sultan Ibrahim), ancien secrétariat de l'État de Johor à Johor Bahru"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Istana Besar Johor yang putih, dengan fasadnya yang anggun dan menara berbumbung hijau, dilihat merentasi air dari tepi laut Selat Johor.",
+        "subject": "Istana Besar (kini Muzium Diraja Abu Bakar) di Johor Bahru, Johor"
+      },
+      {
+        "alt": "Bangunan Sultan Ibrahim kelabu yang gah menjulang di atas bukit, blok kerajaan simetri yang panjang dimahkotai menara jam-dan-Saracen tengah yang tinggi, dilihat dari sudut.",
+        "subject": "Bangunan Sultan Ibrahim, bekas Setiausaha Kerajaan Negeri Johor di Johor Bahru"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Istana Besar Johor yang putih, dengan fasadnya yang anggun dan menara beratap hijau, terlihat menyeberangi air dari tepi laut Selat Johor.",
+        "subject": "Istana Besar (kini Museum Diraja Abu Bakar) di Johor Bahru, Johor"
+      },
+      {
+        "alt": "Bangunan Sultan Ibrahim kelabu yang megah menjulang di atas bukit, blok pemerintahan simetris yang panjang dimahkotai menara jam-dan-Saracen tengah yang tinggi, dilihat dari sudut.",
+        "subject": "Bangunan Sultan Ibrahim, bekas sekretariat negeri Johor di Johor Bahru"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Đại cung điện Istana Besar màu trắng của Johor, với mặt tiền trang nghiêm và tòa tháp mái xanh, nhìn qua mặt nước từ bờ biển Eo biển Johor.",
+        "subject": "Istana Besar (Đại Cung điện, nay là Bảo tàng Hoàng gia Abu Bakar) ở Johor Bahru, Johor"
+      },
+      {
+        "alt": "Tòa nhà Sultan Ibrahim màu xám uy nghi vươn lên trên một ngọn đồi, một khối nhà chính phủ đối xứng dài được tôn lên bởi một tòa tháp đồng hồ kiểu Saracen cao ở trung tâm, nhìn từ một góc nghiêng.",
+        "subject": "Bangunan Sultan Ibrahim (Tòa nhà Sultan Ibrahim), cựu văn phòng thư ký bang Johor ở Johor Bahru"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஜொகூரின் வெள்ளை நிற Istana Besar பெரிய அரண்மனை, அதன் கம்பீரமான முகப்பு மற்றும் பச்சைக் கூரை கோபுரத்துடன், ஜொகூர் நீரிணைக் கரையோரத்திலிருந்து நீருக்கு அப்பால் காணப்படுகிறது.",
+        "subject": "Johor Bahru, ஜொகூர்-இல் உள்ள Istana Besar (பெரிய அரண்மனை, தற்போது அரச அபு பக்கர் அருங்காட்சியகம்)"
+      },
+      {
+        "alt": "ஒரு மலையின் மேல் உயரும் கம்பீரமான சாம்பல் நிற சுல்தான் இப்ராஹிம் கட்டிடம், உயரமான மைய கடிகார-மற்றும்-சாரசென் கோபுரத்தால் முடிசூட்டப்பட்ட நீண்ட சமச்சீர் அரசாங்க கட்டிடத் தொகுதி, ஒரு கோணத்தில் காணப்படுகிறது.",
+        "subject": "Bangunan Sultan Ibrahim (சுல்தான் இப்ராஹிம் கட்டிடம்), Johor Bahru-இல் உள்ள முன்னாள் ஜொகூர் மாநில செயலகம்"
+      }
+    ]
+  },
+  "malaysia/kedah-sultanate": {
+    "zh": [
+      {
+        "alt": "吉打亚罗士打华丽的木构大会堂皇家觐见厅，一座黄色的开敞式亭阁，配有雕花立柱、扇贝形屋檐和多层屋顶。",
+        "subject": "大会堂（Balai Besar，皇家觐见厅），位于吉打亚罗士打"
+      },
+      {
+        "alt": "亚罗士打高耸的八角形诺巴塔楼，一座细长的奶油与金色宣礼塔式建筑，顶部有一个小小的洋葱穹顶，内收藏着皇家礼仪乐队。",
+        "subject": "诺巴塔楼（Balai Nobat），收藏吉打皇家诺巴塔乐队的八角形塔楼，位于亚罗士打"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ケダ州アロースターの装飾豊かな木造バライ・ブサール王室謁見の間。彫刻を施した柱、波形の軒、段状の屋根を備えた黄色い吹き放ちの楼閣。",
+        "subject": "バライ・ブサール（王室謁見の間）。ケダ州アロースターにある"
+      },
+      {
+        "alt": "アロースターの高い八角形のバライ・ノバット塔。細身のクリーム色と金色のミナレットのような建物で、頂部に小さな玉ねぎ形ドームを戴き、王室の儀礼用楽団を収める。",
+        "subject": "バライ・ノバット。ケダ王室のノバット楽団を収める八角形の塔で、アロースターにある"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "케다주 알로르스타르의 화려한 목조 발라이 브사르 왕실 알현실. 조각된 기둥, 가리비 모양 처마, 층층이 쌓인 지붕을 갖춘 노란색 개방형 누각.",
+        "subject": "발라이 브사르(왕실 알현실). 케다주 알로르스타르에 있다"
+      },
+      {
+        "alt": "알로르스타르의 높은 팔각형 발라이 노밧 탑. 가느다란 크림색과 금색의 첨탑 같은 구조물로, 꼭대기에 작은 양파 모양 돔을 얹었으며, 왕실 의례용 악단을 보관한다.",
+        "subject": "발라이 노밧. 케다 왕실 노밧 악단을 보관하는 팔각형 탑으로, 알로르스타르에 있다"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ท้องพระโรงบาไลเบอซาร์ไม้อันวิจิตรในอาโลร์เซอตาร์ ศาลาโปร่งสีเหลืองที่มีเสาแกะสลัก ชายคาหยักโค้ง และหลังคาซ้อนชั้น",
+        "subject": "บาไลเบอซาร์ (ท้องพระโรง) ในอาโลร์เซอตาร์ รัฐเกอดะฮ์"
+      },
+      {
+        "alt": "หอคอยบาไลโนบัตทรงแปดเหลี่ยมสูงในอาโลร์เซอตาร์ โครงสร้างเรียวคล้ายหอคอยสุเหร่าสีครีมและทอง มียอดเป็นโดมทรงหัวหอมขนาดเล็ก ซึ่งเก็บวงดนตรีประกอบพิธีหลวง",
+        "subject": "บาไลโนบัต หอคอยแปดเหลี่ยมที่เก็บวงดนตรีโนบัตหลวงของรัฐเกอดะฮ์ ในอาโลร์เซอตาร์"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "Alor Setar में अलंकृत लकड़ी का Balai Besar शाही दरबार कक्ष, एक पीला खुले किनारों वाला मंडप जिसमें उत्कीर्ण स्तंभ, कंगूरेदार छज्जे और स्तरित छत है।",
+        "subject": "Alor Setar, Kedah में Balai Besar (शाही दरबार कक्ष)"
+      },
+      {
+        "alt": "Alor Setar में ऊँचा अष्टकोणीय Balai Nobat बुर्ज, एक पतला क्रीम और सुनहरा मीनार जैसा ढाँचा जिसके ऊपर एक छोटा प्याज़नुमा गुंबद है, जो शाही अनुष्ठानिक वाद्यवृंद को समेटे हुए है।",
+        "subject": "Balai Nobat, Alor Setar में अष्टकोणीय बुर्ज जिसमें Kedah का शाही nobat वाद्यवृंद रखा है"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "قاعة العرش الملكية الخشبية المزخرفة Balai Besar في ألور ستار، جناح أصفر مفتوح الجوانب بأعمدة منحوتة وأفاريز مموّجة وسقف متدرّج.",
+        "subject": "Balai Besar (قاعة العرش الملكية) في ألور ستار، قدح"
+      },
+      {
+        "alt": "برج Balai Nobat الثماني الطويل في ألور ستار، بناء نحيل شبيه بالمئذنة بلونين كريمي وذهبي يعلوه قبّة بصلية صغيرة، يضمّ الفرقة الاحتفالية الملكية.",
+        "subject": "Balai Nobat، البرج الثماني الذي يضمّ فرقة النوبة الملكية لقدح، في ألور ستار"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La ornamentada sala de audiencias real de madera Balai Besar en Alor Setar, un pabellón amarillo de laterales abiertos con columnas talladas, aleros festoneados y techo escalonado.",
+        "subject": "el Balai Besar (la sala de audiencias real) en Alor Setar, Kedah"
+      },
+      {
+        "alt": "La alta torre octogonal Balai Nobat en Alor Setar, una esbelta estructura de color crema y dorado parecida a un alminar, rematada por una pequeña cúpula en forma de bulbo, que alberga la orquesta ceremonial real.",
+        "subject": "el Balai Nobat, la torre octogonal que alberga la orquesta real nobat de Kedah, en Alor Setar"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "La salle d'audience royale en bois ornée Balai Besar à Alor Setar, un pavillon jaune à côtés ouverts, aux colonnes sculptées, aux corniches festonnées et au toit étagé.",
+        "subject": "le Balai Besar (la salle d'audience royale) à Alor Setar, Kedah"
+      },
+      {
+        "alt": "La haute tour octogonale Balai Nobat à Alor Setar, une mince structure crème et or semblable à un minaret, surmontée d'un petit dôme en bulbe, qui abrite l'orchestre cérémoniel royal.",
+        "subject": "le Balai Nobat, la tour octogonale abritant l'orchestre royal nobat du Kedah, à Alor Setar"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Balai Besar diraja kayu yang berhias di Alor Setar, sebuah balai terbuka berwarna kuning dengan tiang berukir, cucur atap berlekuk dan bumbung berperingkat.",
+        "subject": "Balai Besar (balai menghadap diraja) di Alor Setar, Kedah"
+      },
+      {
+        "alt": "Menara Balai Nobat bersegi lapan yang tinggi di Alor Setar, sebuah struktur ramping seperti menara berwarna krim dan emas dimahkotai kubah bawang kecil, yang menempatkan orkestra istiadat diraja.",
+        "subject": "Balai Nobat, menara bersegi lapan yang menempatkan orkestra nobat diraja Kedah, di Alor Setar"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Balai Besar kerajaan berbahan kayu yang berhias di Alor Setar, sebuah paviliun terbuka berwarna kuning dengan tiang berukir, lis atap berlekuk dan atap bertingkat.",
+        "subject": "Balai Besar (balai menghadap kerajaan) di Alor Setar, Kedah"
+      },
+      {
+        "alt": "Menara Balai Nobat bersegi delapan yang tinggi di Alor Setar, sebuah struktur ramping menyerupai menara berwarna krem dan emas yang dimahkotai kubah bawang kecil, yang menaungi orkestra seremonial kerajaan.",
+        "subject": "Balai Nobat, menara segi delapan yang menaungi orkestra nobat kerajaan Kedah, di Alor Setar"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Đại sảnh thiết triều hoàng gia Balai Besar bằng gỗ trang trí công phu ở Alor Setar, một gian đình mở màu vàng với các cột chạm khắc, diềm mái hình vỏ sò và mái nhiều tầng.",
+        "subject": "Balai Besar (đại sảnh thiết triều hoàng gia) ở Alor Setar, Kedah"
+      },
+      {
+        "alt": "Tòa tháp Balai Nobat hình bát giác cao ở Alor Setar, một cấu trúc mảnh mai giống tháp giáo đường màu kem và vàng được tôn lên bởi một mái vòm củ hành nhỏ, là nơi lưu giữ dàn nhạc nghi lễ hoàng gia.",
+        "subject": "Balai Nobat, tòa tháp hình bát giác lưu giữ dàn nhạc nobat hoàng gia Kedah, ở Alor Setar"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "Alor Setar-இல் உள்ள அலங்கரிக்கப்பட்ட மர Balai Besar அரச சபா மண்டபம், செதுக்கப்பட்ட தூண்கள், சிப்பி வடிவ கூரை விளிம்புகள் மற்றும் படிநிலைக் கூரையுடன் கூடிய மஞ்சள் நிற பக்கங்கள் திறந்த மண்டபம்.",
+        "subject": "Alor Setar, கெடா-இல் உள்ள Balai Besar (அரச சபா மண்டபம்)"
+      },
+      {
+        "alt": "Alor Setar-இல் உள்ள உயரமான எண்கோண Balai Nobat கோபுரம், சிறிய வெங்காய குவிமாடத்தால் முடிசூட்டப்பட்ட மெல்லிய கிரீம் மற்றும் தங்க நிற மினார் போன்ற கட்டமைப்பு, இது அரச சடங்கு இசைக்குழுவைக் கொண்டுள்ளது.",
+        "subject": "Balai Nobat, கெடா அரச நோபாத் இசைக்குழுவைக் கொண்டுள்ள எண்கோண கோபுரம், Alor Setar-இல்"
+      }
+    ]
   }
 }

@@ -32,7 +32,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c0cb6569dbb2731b"
+sourceContentHash: "71f9e93ec46a7d9e"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -78,6 +78,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-1.webp
+    alt: வளைவான நுழைவாயிலுடனும் அதற்கு மேல் சிறிய செதுக்கப்பட்ட சின்னத்துடனும் கூடிய பருவநிலையால் தேய்ந்த சாம்பல் நிற கல் வாயில், பிரகாசமான வானத்தின் கீழ் பச்சைப் புல்வெளியில் தனியாக நிற்கிறது; மலாக்காவில் உள்ள A Famosa கோட்டையின் எஞ்சியிருக்கும் கடைசி வாயில்.
+    kind: representative
+    origin: third-party
+    subject: மலாக்காவில் உள்ள A Famosa போர்த்துகீசிய கோட்டை வாயில் (Porta de Santiago), சுல்தானகம் வீழ்ந்த உடனேயே கட்டப்பட்டது
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-2.webp
+    alt: ஒரு மலை உச்சியில் உள்ள பழைய தேவாலயத்தின் கூரையற்ற செங்கல்-கல் எலும்புக்கூடு, அதன் காலியான ஜன்னல் திறப்புகளும் இடிந்து வரும் சுவர்களும் பகல் வெளிச்சத்தில் வெதுவெதுப்பான சிவப்பு-பழுப்பு நிறத்தில் ஒளிர்கின்றன, இடிபாடுகளுக்கு இடையே பார்வையாளர்கள் நடந்து செல்கின்றனர்.
+    kind: representative
+    origin: third-party
+    subject: மலாக்காவில் St Paul மலையின் உச்சியில் உள்ள கூரையற்ற St Paul தேவாலயத்தின் இடிபாடுகள்
+    credit: Grace Share Share / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_,_St_Paul%27s_Church_Photo_Shooting.jpg
 ---
 
 ஒரு இளவரசர் எரிந்துகொண்டிருக்கும் ஒரு நகரத்திலிருந்து ஓடுகிறார். அவர் ஒரு நீரிணையைக் கடந்து, தனக்கு அடைக்கலம் அளித்த ஒரு உள்ளூர்த் தலைவனைக் கொன்றுவிட்டு, தொடர்ந்து ஓடுகிறார் — முவார் (Muar) வழியாக, உஜோங் தானா (Ujong Tanah) வழியாக — இறுதியில் ஒரு ஆற்றங்கரையில் ஒரு மரத்தின் கீழ் தனது வேட்டை நாய்களை இளைப்பாற வைக்க நிற்கிறார். அவற்றில் ஒன்று ஒரு எலிமானை (mouse deer) மூலைக்குத் தள்ளுகிறது, மூலையில் சிக்கிய அந்த எலிமான் திரும்பி அதை நீருக்குள் உதைத்துத் தள்ளுகிறது. இளவரசர் இதை ஒரு நற்குறியாக எடுத்துக்கொள்கிறார்: இங்கே மிகச் சிறிய உயிரினம் கூட எதிர்த்துப் போராடுகிறது. அவர் தனது நகரத்தை இங்குதான் கட்டப் போவதாக முடிவு செய்து, தான் அமர்ந்திருக்கும் மரத்தின் பெயரால் அதற்குப் பெயரிடுகிறார் — ஒரு *melaka* மரம்.

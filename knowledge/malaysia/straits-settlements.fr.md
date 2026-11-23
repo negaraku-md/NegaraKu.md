@@ -29,7 +29,7 @@ faq:
   - q: "Qu'advint-il finalement des Établissements des Détroits ?"
     a: "Ils furent dissous le 1er avril 1946. Penang et Melaka furent intégrés dans l'Union malaise aux côtés des États malais fédérés et non fédérés, tandis que Singapour fut détachée en tant que colonie de la Couronne distincte."
 lang: "fr"
-sourceContentHash: "9cb8a0574c93b0cb"
+sourceContentHash: "10ccdf31f5940b72"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -100,6 +100,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Fort_Cornwallis,_Penang_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-1.webp
+    alt: Un imposant bâtiment colonial de deux étages, chaulé de blanc, avec de hautes vérandas à colonnes, des fenêtres en arc et une façade symétrique, situé derrière une pelouse verte soignée sous un ciel bleu à George Town, Penang.
+    kind: actual
+    origin: third-party
+    subject: l'hôtel de ville de Penang (Penang City Hall), blanchi à la chaux, de l'époque coloniale à George Town, un bâtiment administratif des Établissements des détroits (Straits Settlements)
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_City_Hall_(cropped).jpg
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-2.webp
+    alt: La façade ornée d'une grande demeure peinte d'un bleu indigo vif, aux persiennes vertes à lamelles, aux corniches décoratives et à une rangée de portes en arc ; maison à cour emblématique des Chinois des détroits à George Town, Penang.
+    kind: actual
+    origin: third-party
+    subject: la demeure Cheong Fatt Tze (Cheong Fatt Tze Mansion), bleu indigo, maison à cour d'un marchand chinois des détroits à George Town, Penang
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia-_Cheong-Fatt-Tze-Mansion-01.jpg
 ---
 
 Trois ports, quatre changements de statut administratif et quarante et un ans. Voilà les Établissements des Détroits avant même de toucher aux États malais.

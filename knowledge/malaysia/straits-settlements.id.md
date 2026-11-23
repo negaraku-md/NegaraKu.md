@@ -29,7 +29,7 @@ faq:
   - q: "Apa yang terjadi pada Negeri-Negeri Selat pada akhirnya?"
     a: "Ia dibubarkan pada 1 April 1946. Pulau Pinang dan Melaka dilebur ke dalam Malayan Union bersama negeri-negeri Bersekutu dan Tidak Bersekutu, sementara Singapura dipisahkan menjadi sebuah Tanah Jajahan Mahkota yang terpisah tersendiri."
 lang: "id"
-sourceContentHash: "9cb8a0574c93b0cb"
+sourceContentHash: "10ccdf31f5940b72"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -100,6 +100,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Fort_Cornwallis,_Penang_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-1.webp
+    alt: Bangunan kolonial dua lantai yang megah bercat putih dengan beranda bertiang tinggi, jendela melengkung dan fasad simetris, terletak di belakang hamparan rumput hijau yang terawat di bawah langit biru di George Town, Penang.
+    kind: actual
+    origin: third-party
+    subject: Balai Kota Penang era kolonial yang bercat putih di George Town, sebuah bangunan administratif Negeri-Negeri Selat
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_City_Hall_(cropped).jpg
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-2.webp
+    alt: Fasad berhias sebuah rumah agam besar yang dicat biru nila terang, dengan daun jendela kayu berkisi hijau, lis atap berhias dan deretan pintu melengkung, sebuah rumah berhalaman Tionghoa Selat yang menjadi penanda di George Town, Penang.
+    kind: actual
+    origin: third-party
+    subject: Rumah Agam Cheong Fatt Tze berwarna biru nila, rumah berhalaman milik saudagar Tionghoa Selat di George Town, Penang
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia-_Cheong-Fatt-Tze-Mansion-01.jpg
 ---
 
 Tiga pelabuhan, empat perubahan status administrasi, dan empat puluh satu tahun. Itulah Negeri-Negeri Selat — sebelum ia sempat menyentuh negeri-negeri Melayu.

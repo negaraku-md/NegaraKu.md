@@ -70,6 +70,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Bandar_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/selangor-sultanate/body-1.webp
+    alt: A grand colonial-style white and cream heritage building with arched windows and a tiled roof, set behind lawns, housing the Selangor royal gallery in Klang.
+    kind: actual
+    origin: third-party
+    subject: Galeri Diraja Sultan Abdul Aziz (the Sultan Abdul Aziz Royal Gallery) in Klang, Selangor
+    credit: Fumiko yabe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Gallery_of_Sultan_Abdul_Aziz.JPG
+  - role: scene
+    src: /media/malaysia/selangor-sultanate/body-2.webp
+    alt: An elegant blue-and-white royal mosque with a large central dome, flanking domes and slender minarets rising against a clear sky in Klang.
+    kind: actual
+    origin: third-party
+    subject: Masjid Diraja Sultan Sulaiman (the Sultan Sulaiman Royal Mosque) in Klang, Selangor
+    credit: Qaedi Shamsuddin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Exterior_of_Masjid_Diraja_Sultan_Suleiman.jpg
 ---
 
 On the west coast of the Malay Peninsula, where the Klang and Selangor rivers drain into the Strait of Malacca, a seafaring people from the far side of the archipelago built one of the peninsula's wealthiest states. Their fortune was not built on spice or gold but on tin — the grey ore buried in the valleys that would, within a century, drag the young sultanate into a war over its own riches and, eventually, under the shadow of a British Resident. This is the story of the Selangor Sultanate, a Bugis dynasty whose line still sits on the throne today.

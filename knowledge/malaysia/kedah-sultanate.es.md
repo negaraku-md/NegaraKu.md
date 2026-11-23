@@ -21,7 +21,7 @@ appliesTo: "Estudiantes, investigadores, viajeros y cualquiera que busque una vi
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "08adb6bfb26200c1"
+sourceContentHash: "645cf0dba4388fd3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Zahir_Masjid.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-1.webp
+    alt: La ornamentada sala de audiencias real de madera Balai Besar en Alor Setar, un pabellón amarillo de laterales abiertos con columnas talladas, aleros festoneados y techo escalonado.
+    kind: actual
+    origin: third-party
+    subject: el Balai Besar (la sala de audiencias real) en Alor Setar, Kedah
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Besar_Alor_Setar_-_panoramio.jpg
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-2.webp
+    alt: La alta torre octogonal Balai Nobat en Alor Setar, una esbelta estructura de color crema y dorado parecida a un alminar, rematada por una pequeña cúpula en forma de bulbo, que alberga la orquesta ceremonial real.
+    kind: actual
+    origin: third-party
+    subject: el Balai Nobat, la torre octogonal que alberga la orquesta real nobat de Kedah, en Alor Setar
+    credit: Anasaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Nobat.jpg
 ---
 
 Pocos lugares de Malasia llevan su pasado tan a la vista como Kedah. Mucho antes de que los alminares se alzaran sobre Alor Setar, la llanura verde de arrozales entre los ríos Merbok y Muda era un punto de arribada para los comerciantes que surcaban los vientos monzónicos entre la India, China y el mundo malayo. Marineros y eruditos conocían esta costa como Kadaram o Kataha; los arqueólogos la conocen hoy por los montículos de templos del valle de Bujang. De aquel comienzo cosmopolita e hindú-budista surgió una monarquía malaya que resistiría a [Srivijaya](/es/malaysia/srivijaya) y Chola, a Ayutthaya y Bangkok, y finalmente al Imperio británico.

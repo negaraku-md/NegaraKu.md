@@ -70,6 +70,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Iskandariah,_Kuala_Kangsar.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-1.webp
+    alt: A white mosque crowned by a large golden onion-shaped dome flanked by smaller gilded domes and four slender minarets, gleaming against a clear sky; the royal Ubudiah Mosque in Kuala Kangsar, Perak.
+    kind: actual
+    origin: third-party
+    subject: the Ubudiah Mosque, the Perak royal mosque in Kuala Kangsar, with its golden dome
+    credit: Miss Prema Darshini / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ubudiah_Mosque_Kuala_Kangsar.jpg
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-2.webp
+    alt: A stately cream-coloured colonial-era palace with arched windows, decorative balustrades and a symmetrical facade topped by small turrets, set behind a lawn under a bright sky; Istana Hulu in Kuala Kangsar, Perak.
+    kind: actual
+    origin: third-party
+    subject: Istana Hulu, the former Perak royal palace in Kuala Kangsar, now the Sultan Azlan Shah Gallery
+    credit: Sabihahrazafa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Hulu,_Kuala_Kangsar.jpg
 ---
 
 When Melaka fell to Portuguese cannon in 1511, the dynasty that had made the Strait famous did not die with the city. Its last sultan, Mahmud Shah, withdrew up the archipelago and left two sons; one would refound the royal line downriver in Johor, the other would carry the old Melaka crown north, to a quiet valley threaded by a river whose sandbanks glittered with tin. That northern kingdom became Perak, and nearly five centuries later it is still ruled by the same bloodline, now by a sultan whose throne is passed not from father to son but along a moving ladder of princes. This is the story of how a defeated dynasty survived, grew rich on tin, lost its sovereignty to Britain over a single treaty, and endured into the present.

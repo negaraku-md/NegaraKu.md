@@ -21,7 +21,7 @@ appliesTo: "पाठक, विद्यार्थी और शोधकर�
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9c5b289247ceb3ae"
+sourceContentHash: "14f91804e49efb27"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Iskandariah,_Kuala_Kangsar.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-1.webp
+    alt: एक सफ़ेद मस्जिद जिसके ऊपर प्याज़नुमा आकार का बड़ा सुनहरा गुंबद है, जिसके दोनों ओर छोटे सुनहरे गुंबद और चार पतली मीनारें हैं, जो साफ़ आसमान के विरुद्ध दमक रही हैं; Kuala Kangsar, Perak में शाही Ubudiah Mosque।
+    kind: actual
+    origin: third-party
+    subject: Kuala Kangsar में Perak की शाही मस्जिद Ubudiah Mosque, अपने सुनहरे गुंबद के साथ
+    credit: Miss Prema Darshini / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ubudiah_Mosque_Kuala_Kangsar.jpg
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-2.webp
+    alt: एक भव्य क्रीम रंग का औपनिवेशिक-कालीन महल जिसमें मेहराबदार खिड़कियाँ, सजावटी कटघरे और सममित अग्रभाग है, जिसके ऊपर छोटे बुर्ज हैं, तेज़ रोशनी में एक मैदान के पीछे स्थित; Kuala Kangsar, Perak में Istana Hulu।
+    kind: actual
+    origin: third-party
+    subject: Kuala Kangsar में Perak का पूर्व शाही महल Istana Hulu, अब Sultan Azlan Shah Gallery
+    credit: Sabihahrazafa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Hulu,_Kuala_Kangsar.jpg
 ---
 
 जब 1511 में मेलाका पुर्तगाली तोपों के आगे गिरा, तो उस राजवंश की मृत्यु नगर के साथ नहीं हुई जिसने जलडमरूमध्य को प्रसिद्ध किया था। उसका अंतिम सुल्तान, महमूद शाह, द्वीपसमूह में ऊपर की ओर हट गया और दो पुत्र छोड़ गया; एक जोहोर में नदी के नीचे की ओर राजघराने को फिर से स्थापित करेगा, दूसरा पुराने मेलाका मुकुट को उत्तर की ओर ले जाएगा, एक शांत घाटी में जहाँ एक नदी बहती थी जिसकी रेती टिन से चमकती थी। वह उत्तरी राज्य पेराक बना, और लगभग पाँच शताब्दी बाद भी उसी रक्तधारा का शासन है, अब एक ऐसे सुल्तान के अधीन जिसका सिंहासन पिता से पुत्र में नहीं बल्कि राजकुमारों की एक गतिशील सीढ़ी के साथ आगे बढ़ता है। यह उसी कहानी है कि कैसे एक पराजित राजवंश बचा रहा, टिन पर समृद्ध हुआ, एक ही संधि में अपनी संप्रभुता ब्रिटेन के हाथों खो दी, और वर्तमान तक टिका रहा।

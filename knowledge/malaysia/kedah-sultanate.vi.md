@@ -19,7 +19,7 @@ keyTakeaways:
   - "Hiệp ước Anh-Xiêm (Bangkok) năm 1909 đã chuyển giao các yêu sách của Xiêm đối với Kedah cho Anh; Kedah về sau gia nhập Malaysia độc lập năm 1957."
 appliesTo: "Học sinh - sinh viên, nhà nghiên cứu, du khách và bất kỳ ai muốn có cái nhìn tổng quan có dẫn nguồn về lịch sử hoàng gia Kedah và vị trí của nó trong số các chế độ quân chủ Mã Lai của Malaysia."
 lang: "vi"
-sourceContentHash: "08adb6bfb26200c1"
+sourceContentHash: "645cf0dba4388fd3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Zahir_Masjid.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-1.webp
+    alt: Đại sảnh thiết triều hoàng gia Balai Besar bằng gỗ trang trí công phu ở Alor Setar, một gian đình mở màu vàng với các cột chạm khắc, diềm mái hình vỏ sò và mái nhiều tầng.
+    kind: actual
+    origin: third-party
+    subject: Balai Besar (đại sảnh thiết triều hoàng gia) ở Alor Setar, Kedah
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Besar_Alor_Setar_-_panoramio.jpg
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-2.webp
+    alt: Tòa tháp Balai Nobat hình bát giác cao ở Alor Setar, một cấu trúc mảnh mai giống tháp giáo đường màu kem và vàng được tôn lên bởi một mái vòm củ hành nhỏ, là nơi lưu giữ dàn nhạc nghi lễ hoàng gia.
+    kind: actual
+    origin: third-party
+    subject: Balai Nobat, tòa tháp hình bát giác lưu giữ dàn nhạc nobat hoàng gia Kedah, ở Alor Setar
+    credit: Anasaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Nobat.jpg
 ---
 
 Ít nơi nào ở Malaysia mang trong mình quá khứ một cách cởi mở như Kedah. Rất lâu trước khi những ngọn tháp giáo đường vươn lên trên Alor Setar, vùng đồng bằng xanh màu lúa giữa hai con sông Merbok và Muda đã là nơi cập bến của các thương nhân cưỡi gió mùa đi lại giữa Ấn Độ, Trung Hoa và thế giới Mã Lai. Các thủy thủ và học giả biết đến bờ biển này với tên Kadaram hay Kataha; các nhà khảo cổ ngày nay biết đến nó qua những gò đền của Thung lũng Bujang. Từ khởi đầu Hindu-Phật giáo, mang tính quốc tế ấy đã mọc lên một chế độ quân chủ Mã Lai có thể trụ vững qua [Srivijaya](/vi/malaysia/srivijaya) và Chola, Ayutthaya và Bangkok, và cuối cùng là Đế quốc Anh.

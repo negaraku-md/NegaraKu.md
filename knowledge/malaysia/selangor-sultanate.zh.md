@@ -21,7 +21,7 @@ appliesTo: "想理解马来西亚九个王室之一的起源与现代历史的�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "fac5b87856cb5510"
+sourceContentHash: "17a6e34036a4694c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Bandar_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/selangor-sultanate/body-1.webp
+    alt: 一座宏伟的殖民风格白色与奶油色文物建筑，配有拱形窗户和瓦顶，坐落在草坪后方，是巴生的雪兰莪皇家艺廊。
+    kind: actual
+    origin: third-party
+    subject: 雪兰莪巴生的苏丹阿都阿兹皇家艺廊（Galeri Diraja Sultan Abdul Aziz）
+    credit: Fumiko yabe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Gallery_of_Sultan_Abdul_Aziz.JPG
+  - role: scene
+    src: /media/malaysia/selangor-sultanate/body-2.webp
+    alt: 一座典雅的蓝白相间皇家清真寺，设有巨大的中央穹顶、两侧的穹顶和纤细的宣礼塔，在巴生的晴空下拔地而起。
+    kind: actual
+    origin: third-party
+    subject: 雪兰莪巴生的苏丹苏莱曼皇家清真寺（Masjid Diraja Sultan Sulaiman）
+    credit: Qaedi Shamsuddin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Exterior_of_Masjid_Diraja_Sultan_Suleiman.jpg
 ---
 
 在马来半岛西海岸，巴生河（Klang）与雪兰莪河流入马六甲海峡之处，一支来自群岛另一端的航海民族建起了半岛上最富庶的州属之一。他们的财富并非建立在香料或黄金之上，而是建立在锡——埋藏于河谷中的那种灰色矿石——之上；这锡在一个世纪之内，便把这个年轻的苏丹王朝拖入一场争夺自身财富的战争，并最终置于一名英国参政司的阴影之下。这是雪兰莪苏丹王朝的故事，一个其世系至今仍坐在王座上的布吉斯（Bugis）王朝。

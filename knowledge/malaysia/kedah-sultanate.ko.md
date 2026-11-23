@@ -21,7 +21,7 @@ appliesTo: "케다의 왕실 역사와 말레이시아 말레이 군주국들 �
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "08adb6bfb26200c1"
+sourceContentHash: "645cf0dba4388fd3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Zahir_Masjid.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-1.webp
+    alt: 케다주 알로르스타르의 화려한 목조 발라이 브사르 왕실 알현실. 조각된 기둥, 가리비 모양 처마, 층층이 쌓인 지붕을 갖춘 노란색 개방형 누각.
+    kind: actual
+    origin: third-party
+    subject: 발라이 브사르(왕실 알현실). 케다주 알로르스타르에 있다
+    credit: CK Tan / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Besar_Alor_Setar_-_panoramio.jpg
+  - role: scene
+    src: /media/malaysia/kedah-sultanate/body-2.webp
+    alt: 알로르스타르의 높은 팔각형 발라이 노밧 탑. 가느다란 크림색과 금색의 첨탑 같은 구조물로, 꼭대기에 작은 양파 모양 돔을 얹었으며, 왕실 의례용 악단을 보관한다.
+    kind: actual
+    origin: third-party
+    subject: 발라이 노밧. 케다 왕실 노밧 악단을 보관하는 팔각형 탑으로, 알로르스타르에 있다
+    credit: Anasaiman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Balai_Nobat.jpg
 ---
 
 말레이시아에서 자신의 과거를 케다만큼 거리낌 없이 드러내는 곳은 드뭅니다. 알로르 스타르(Alor Setar) 위로 첨탑이 솟기 훨씬 전부터, 므르복강(Merbok)과 무다강(Muda) 사이의 벼가 푸른 평야는 인도와 중국, 말레이 세계를 오가며 몬순 바람을 타는 상인들의 상륙지였습니다. 뱃사람과 학자들은 이 해안을 카다람(Kadaram) 혹은 카타하(Kataha)로 알았고, 고고학자들은 오늘날 이곳을 부장 계곡(Bujang Valley)의 사원 둔덕들로 압니다. 그 세계주의적인 힌두-불교적 시작에서, [스리비자야](/ko/malaysia/srivijaya)(Srivijaya)와 촐라(Chola), 아유타야(Ayutthaya)와 방콕(Bangkok), 그리고 마침내 대영제국을 견뎌 낸 하나의 말레이 군주국이 자라났습니다.

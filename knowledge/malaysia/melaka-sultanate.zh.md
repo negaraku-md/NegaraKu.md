@@ -31,7 +31,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c0cb6569dbb2731b"
+sourceContentHash: "71f9e93ec46a7d9e"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -78,6 +78,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-1.webp
+    alt: 一座饱经风霜的灰色石砌拱门，门楣上方有一枚小小的雕刻纹章，独自矗立在明亮天空下的绿茵草坪上；这是马六甲A Famosa城堡仅存的城门。
+    kind: representative
+    origin: third-party
+    subject: 马六甲的葡萄牙城堡大门——圣地亚哥门（A Famosa），建于苏丹王朝覆灭后不久
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-2.webp
+    alt: 山顶上一座古老教堂的无顶砖石残壳，空洞的窗洞与斑驳的墙垣在日光下泛着温暖的红褐色，游客在废墟间穿行。
+    kind: representative
+    origin: third-party
+    subject: 马六甲圣保罗山顶上无顶的圣保罗教堂遗址
+    credit: Grace Share Share / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_,_St_Paul%27s_Church_Photo_Shooting.jpg
 ---
 
 一名王子从一座燃烧的城市逃出。他渡过一道海峡，杀死了曾收留他的当地首领，然后一路奔逃——经过麻坡，经过 Ujong Tanah——直到在一条河岸边的树下停下来，让他的猎狗歇息。其中一只猎狗把一只鼠鹿逼入绝境，而这只走投无路的鼠鹿转过身来，一脚把它踢进了水里。王子将此视为一个预兆：在这里，连最弱小的生物也会反击。他决定就在此地建立他的城市，并以他所坐的那棵树为它命名——一棵 *melaka* 树。

@@ -29,7 +29,7 @@ faq:
     a: "Istananya. Sultan Mahmud Shah dan keturunannya menegakkan kembali pemerintahan Melayu di selatan, yang paling penting dalam Kesultanan Johor, membawa serta struktur istana, kitab hukum, dan bahasa Melaka. Institusi-institusi itu bertahan jauh lebih lama daripada kemerdekaan kota itu selama berabad-abad."
 
 lang: "id"
-sourceContentHash: "c0cb6569dbb2731b"
+sourceContentHash: "71f9e93ec46a7d9e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-1.webp
+    alt: Gerbang batu kelabu yang lapuk dengan pintu masuk melengkung dan lambang berukir kecil di atasnya, berdiri sendirian di atas hamparan rumput hijau di bawah langit cerah; satu-satunya gerbang benteng A Famosa yang tersisa di Melaka.
+    kind: representative
+    origin: third-party
+    subject: gerbang benteng Portugis A Famosa (Porta de Santiago) di Melaka, dibangun tak lama setelah keruntuhan Kesultanan
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-2.webp
+    alt: Kerangka bata dan batu gereja tua tanpa atap di puncak bukit, bukaan jendelanya yang kosong dan dinding yang runtuh bersinar merah-cokelat hangat di siang hari, dengan para pengunjung berjalan di antara reruntuhan.
+    kind: representative
+    origin: third-party
+    subject: reruntuhan Gereja St Paul tanpa atap di puncak Bukit St Paul di Melaka
+    credit: Grace Share Share / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_,_St_Paul%27s_Church_Photo_Shooting.jpg
 ---
 
 Seorang putra melarikan diri dari sebuah kota yang terbakar. Ia menyeberangi sebuah selat, membunuh seorang pemimpin setempat yang melindunginya, dan terus lari — melalui Muar, melalui Ujong Tanah — hingga ia berhenti di bawah sebatang pohon di tepi sungai untuk mengistirahatkan anjing-anjingnya. Salah satu dari anjing itu menyudutkan seekor pelanduk, dan pelanduk itu, ketika tersudut, berbalik dan menendangnya ke dalam air. Sang putra menganggap ini sebagai pertanda: makhluk sekecil apa pun di sini ikut melawan. Ia memutuskan bahwa di sinilah ia akan membangun kotanya, dan menamainya sesuai pohon tempat ia sedang duduk — sebatang pohon *melaka*.

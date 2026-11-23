@@ -21,7 +21,7 @@ appliesTo: "ペラの王室史、マレー諸州における英国植民地支�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9c5b289247ceb3ae"
+sourceContentHash: "14f91804e49efb27"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Iskandariah,_Kuala_Kangsar.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-1.webp
+    alt: 白いモスクが大きな金色の玉ねぎ形ドームを戴き、その両脇に小さな金箔のドームと4本の細いミナレットが並び、澄んだ空を背に輝く。ペラ州クアラカンサーの王室ウブディア・モスク。
+    kind: actual
+    origin: third-party
+    subject: クアラカンサーにあるペラ州の王室モスク、ウブディア・モスク。金色のドームを戴く
+    credit: Miss Prema Darshini / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ubudiah_Mosque_Kuala_Kangsar.jpg
+  - role: scene
+    src: /media/malaysia/perak-sultanate/body-2.webp
+    alt: 荘厳なクリーム色の植民地時代の宮殿。アーチ窓、装飾的な欄干、小さな尖塔を頂く左右対称のファサードを備え、明るい空の下、芝生の奥に建つ。ペラ州クアラカンサーのイスタナ・フル。
+    kind: actual
+    origin: third-party
+    subject: イスタナ・フル。クアラカンサーにあるかつてのペラ王宮で、現在はスルタン・アズラン・シャー・ギャラリー
+    credit: Sabihahrazafa / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Istana_Hulu,_Kuala_Kangsar.jpg
 ---
 
 1511年にマラッカがポルトガルの大砲に陥落したとき、海峡を名高くした王朝は都市とともに滅びはしなかった。末代スルタンのマームード・シャーは諸島を北へと退き、二人の子を残した。一人は川を下ったジョホールで王統を再興し、もう一人はマラッカの古き王冠を北へ——砂州が錫に輝く川が流れる静かな渓谷へと運んだ。その北方の王国がペラとなり、五世紀近くを経た今もなお、同じ血統によって統治されている——ただし今は、父から子へではなく、動く王子たちの梯子に沿って受け継がれる王座によって。本稿は、敗れた一王朝がいかに生き延び、錫で富み、一つの条約によって英国に主権を失い、そして現代まで存続したかの物語である。

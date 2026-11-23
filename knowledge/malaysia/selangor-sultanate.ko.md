@@ -21,7 +21,7 @@ appliesTo: "말레이시아의 아홉 왕실 가문 가운데 하나의 기원�
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "fac5b87856cb5510"
+sourceContentHash: "17a6e34036a4694c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -70,6 +70,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Bandar_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/selangor-sultanate/body-1.webp
+    alt: 웅장한 식민지 양식의 흰색과 크림색 문화유산 건물로, 아치형 창문과 기와지붕을 갖추고 잔디밭 뒤에 서 있으며, 클랑의 슬랑오르 왕실 갤러리가 들어서 있다.
+    kind: actual
+    origin: third-party
+    subject: 슬랑오르주 클랑에 있는 술탄 압둘 아지즈 왕실 갤러리(Galeri Diraja Sultan Abdul Aziz)
+    credit: Fumiko yabe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Gallery_of_Sultan_Abdul_Aziz.JPG
+  - role: scene
+    src: /media/malaysia/selangor-sultanate/body-2.webp
+    alt: 우아한 파란색과 흰색의 왕실 모스크로, 커다란 중앙 돔, 양옆의 돔, 가느다란 첨탑이 클랑의 맑은 하늘을 향해 솟아 있다.
+    kind: actual
+    origin: third-party
+    subject: 슬랑오르주 클랑에 있는 술탄 술라이만 왕실 모스크(Masjid Diraja Sultan Sulaiman)
+    credit: Qaedi Shamsuddin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Exterior_of_Masjid_Diraja_Sultan_Suleiman.jpg
 ---
 
 말레이반도 서해안, 클랑강(Klang)과 슬랑오르강(Selangor)이 말라카 해협(Strait of Malacca)으로 흘러드는 그곳에서, 군도 저편에서 온 한 항해 민족이 반도에서 가장 부유한 주의 하나를 세웠습니다. 그들의 재산은 향신료나 금이 아니라 주석 — 한 세기도 안 되어 이 젊은 술탄국을 제 부를 둘러싼 전쟁으로, 그리고 끝내 영국 레지던트의 그늘 아래로 끌어들일, 골짜기에 묻힌 잿빛 광석 — 위에 세워졌습니다. 이것은 그 계보가 오늘날에도 왕좌에 앉아 있는 부기스(Bugis) 왕조, 슬랑오르 술탄국의 이야기입니다.

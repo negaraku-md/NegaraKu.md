@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Étudiants, enseignants, chercheurs et lecteurs généraux souhaitant comprendre les origines et l'histoire moderne de l'une des neuf maisons royales de Malaisie."
 lang: "fr"
 masterLanguage: "en"
-sourceContentHash: "fac5b87856cb5510"
+sourceContentHash: "17a6e34036a4694c"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
@@ -70,6 +70,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Bandar_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/selangor-sultanate/body-1.webp
+    alt: Un majestueux bâtiment patrimonial de style colonial, blanc et crème, aux fenêtres en arc et au toit de tuiles, situé derrière des pelouses, abritant la galerie royale du Selangor à Klang.
+    kind: actual
+    origin: third-party
+    subject: la Galeri Diraja Sultan Abdul Aziz (Galerie royale Sultan Abdul Aziz) à Klang, Selangor
+    credit: Fumiko yabe / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Royal_Gallery_of_Sultan_Abdul_Aziz.JPG
+  - role: scene
+    src: /media/malaysia/selangor-sultanate/body-2.webp
+    alt: Une élégante mosquée royale bleue et blanche, avec un grand dôme central, des dômes latéraux et de minces minarets s'élevant contre un ciel clair à Klang.
+    kind: actual
+    origin: third-party
+    subject: la Masjid Diraja Sultan Sulaiman (Mosquée royale Sultan Sulaiman) à Klang, Selangor
+    credit: Qaedi Shamsuddin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Exterior_of_Masjid_Diraja_Sultan_Suleiman.jpg
 ---
 
 Sur la côte ouest de la péninsule malaise, là où les rivières Klang et Selangor se déversent dans le détroit de Malacca, un peuple de marins venu de l'autre bout de l'archipel bâtit l'un des États les plus prospères de la péninsule. Leur fortune ne reposa ni sur les épices ni sur l'or mais sur l'étain — le minerai gris enfoui dans les vallées qui allait, en un siècle, entraîner le jeune sultanat dans une guerre pour ses propres richesses et, finalement, sous l'ombre d'un Résident britannique. Voici l'histoire du Sultanat de Selangor, une dynastie bugis dont la lignée siège encore sur le trône aujourd'hui.

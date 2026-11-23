@@ -19,7 +19,7 @@ keyTakeaways:
   - "Perjanjian Inggris-Belanda 1824 dan susulannya membagi wilayah ini: Riau-Lingga di bawah Belanda, Johor di bawah lingkup Inggris"
 appliesTo: "Siapa saja yang ingin memahami bagaimana institusi kerajaan Melayu Melaka bersambung tanpa putus ke negara-negara bagian Melayu modern, khususnya Johor."
 lang: "id"
-sourceContentHash: "4378491a1522cd95"
+sourceContentHash: "e4a914e6d8d4b14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-1.webp
+    alt: Istana Besar Johor yang putih, dengan fasadnya yang anggun dan menara beratap hijau, terlihat menyeberangi air dari tepi laut Selat Johor.
+    kind: actual
+    origin: third-party
+    subject: Istana Besar (kini Museum Diraja Abu Bakar) di Johor Bahru, Johor
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Istana_Besar_from_Woodlands_Waterfront_060925.jpg
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-2.webp
+    alt: Bangunan Sultan Ibrahim kelabu yang megah menjulang di atas bukit, blok pemerintahan simetris yang panjang dimahkotai menara jam-dan-Saracen tengah yang tinggi, dilihat dari sudut.
+    kind: actual
+    origin: third-party
+    subject: Bangunan Sultan Ibrahim, bekas sekretariat negeri Johor di Johor Bahru
+    credit: Fxchua / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perspective_View_of_Sultan_Ibrahim_Building.jpg
 ---
 
 Pada 1511, meriam Portugis meruntuhkan sebuah kota — tetapi bukan sebuah takhta. Ketika Kota Melaka tumbang, Sultan Mahmud Shah, sultan Melaka terakhir, tidak menyerah. Baginda mundur ke selatan bersama keluarga kerajaan, para pembesar, dan yang paling penting, keseluruhan susunan institusi yang menjadikan Melaka sebuah kesultanan. Kota itu hilang; kesultanan itu bergerak.

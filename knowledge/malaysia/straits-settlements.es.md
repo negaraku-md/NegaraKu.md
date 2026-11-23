@@ -29,7 +29,7 @@ faq:
   - q: "¿Qué pasó finalmente con los Asentamientos del Estrecho?"
     a: "Se disolvieron el 1 de abril de 1946. Penang y Melaka fueron integrados en la Unión Malaya junto con los Estados Malayos Federados y No Federados, mientras que Singapur fue segregado como colonia de la Corona separada."
 lang: "es"
-sourceContentHash: "9cb8a0574c93b0cb"
+sourceContentHash: "10ccdf31f5940b72"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -100,6 +100,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Fort_Cornwallis,_Penang_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-1.webp
+    alt: Un imponente edificio colonial de dos plantas encalado en blanco, con altas galerías de columnas, ventanas en arco y una fachada simétrica, situado tras un césped verde cuidado bajo un cielo azul en George Town, Penang.
+    kind: actual
+    origin: third-party
+    subject: el encalado Ayuntamiento de Penang (Penang City Hall) de la época colonial en George Town, un edificio administrativo de los Establecimientos del Estrecho (Straits Settlements)
+    credit: Supanut Arunoprayote / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_City_Hall_(cropped).jpg
+  - role: scene
+    src: /media/malaysia/straits-settlements/body-2.webp
+    alt: La fachada ornamentada de una gran mansión pintada de un vivo azul índigo, con contraventanas verdes de lamas, aleros decorativos y una hilera de portales en arco; emblemática casa con patio de los chinos de los Estrechos en George Town, Penang.
+    kind: actual
+    origin: third-party
+    subject: la mansión Cheong Fatt Tze (Cheong Fatt Tze Mansion), de color azul índigo, casa con patio de un comerciante chino de los Estrechos en George Town, Penang
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia-_Cheong-Fatt-Tze-Mansion-01.jpg
 ---
 
 Tres puertos, cuatro cambios de estatus administrativo y cuarenta y un años. Eso son los Asentamientos del Estrecho antes siquiera de tocar los estados malayos.

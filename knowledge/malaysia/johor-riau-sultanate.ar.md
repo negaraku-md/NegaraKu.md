@@ -18,7 +18,7 @@ keyTakeaways:
   - "قسمت المعاهدة الإنجليزية-الهولندية لسنة 1824 وما تلاها هذا الإقليم: رياو-لينغا تحت الهولنديين، وجوهر ضمن دائرة النفوذ البريطاني"
 appliesTo: "كل من يرغب في فهم كيف استمرّت المؤسسة الملكية الملايوية لملقا بلا انقطاع إلى الولايات الملايوية الحديثة، وبخاصة جوهر."
 lang: "ar"
-sourceContentHash: "4378491a1522cd95"
+sourceContentHash: "e4a914e6d8d4b14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -69,6 +69,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-1.webp
+    alt: قصر Istana Besar الكبير الأبيض في جوهور، بواجهته المهيبة وبرجه ذي السقف الأخضر، يُرى عبر الماء من واجهة مضيق جوهور.
+    kind: actual
+    origin: third-party
+    subject: Istana Besar (القصر الكبير، وهو الآن متحف أبو بكر الملكي) في جوهور بهرو، جوهور
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Istana_Besar_from_Woodlands_Waterfront_060925.jpg
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-2.webp
+    alt: مبنى السلطان إبراهيم الرمادي المهيب يرتفع على تلّة، كتلة حكومية طويلة متناظرة يعلوها برج مركزي عالٍ بساعة وطراز ساراسيني، مرئياً من زاوية مائلة.
+    kind: actual
+    origin: third-party
+    subject: Bangunan Sultan Ibrahim (مبنى السلطان إبراهيم)، أمانة ولاية جوهور السابقة في جوهور بهرو
+    credit: Fxchua / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perspective_View_of_Sultan_Ibrahim_Building.jpg
 ---
 
 في سنة 1511، أسقطت مدافع البرتغاليين مدينةً — لكن لا عرشًا. فحين سقط حصن ملقا، لم يستسلم السلطان محمود شاه، آخر سلاطين ملقا. بل انسحب جنوبًا مع العائلة المالكة وكبار الوزراء، والأهمّ من ذلك كلّه، مع كامل النظام المؤسسي الذي جعل من ملقا سلطنة. فُقدت المدينة؛ وتنقّلت السلطنة.

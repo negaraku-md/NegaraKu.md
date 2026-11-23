@@ -18,7 +18,7 @@ keyTakeaways:
   - "1824年英蘭協約とその後の展開により、この領域は分割された——リアウ・リンガはオランダの統治下に、ジョホールは英国の勢力圏に入った"
 appliesTo: "マラッカのマレー王室制度が、現代のマレー諸州、とりわけジョホールへと途切れることなく受け継がれてきた経緯を理解したいすべての人向け。"
 lang: "ja"
-sourceContentHash: "4378491a1522cd95"
+sourceContentHash: "e4a914e6d8d4b14c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-1.webp
+    alt: 白いジョホールのイスタナ・ブサール大宮殿。堂々としたファサードと緑の屋根の塔を持ち、ジョホール海峡の水辺越しに望む。
+    kind: actual
+    origin: third-party
+    subject: イスタナ・ブサール（大宮殿、現在は王立アブ・バカル博物館）。ジョホールバルにある
+    credit: Seloloving / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Istana_Besar_from_Woodlands_Waterfront_060925.jpg
+  - role: scene
+    src: /media/malaysia/johor-riau-sultanate/body-2.webp
+    alt: 丘の上にそびえる威容ある灰色のスルタン・イブラヒム・ビルディング。長く左右対称の官庁棟で、高い中央の時計塔とサラセン様式の塔を戴き、斜めから望む。
+    kind: actual
+    origin: third-party
+    subject: バンゴナン・スルタン・イブラヒム（スルタン・イブラヒム・ビルディング）。ジョホールバルにあるかつてのジョホール州庁舎
+    credit: Fxchua / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perspective_View_of_Sultan_Ibrahim_Building.jpg
 ---
 
 1511年、ポルトガルの大砲が一つの都市を打ち崩した——しかし王位までは崩さなかった。マラッカの城塞が陥落したとき、末代マラッカ・スルタンであったスルタン・マームード・シャーは降伏しなかった。王族、重臣たち、そして何より、マラッカを一つの王国たらしめていた制度の全体を伴って、王は南へと退いた。都市は失われたが、王国は動いただけだった。

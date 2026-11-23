@@ -6516,7 +6516,29 @@
       "subject": "The Melaka Sultanate Palace Museum (Istana Kesultanan Melaka), the wooden replica of the 15th-century sultan's palace in Melaka, Malaysia.",
       "alt": "A sprawling timber palace with steeply stacked, multi-tiered grey roofs sits amid manicured tropical gardens, viewed from above with the historic town of Melaka spread out behind it.",
       "position": "attention"
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Melaka_Malaysia_A-Famosa-01.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "CEphoto, Uwe Aranas",
+        "page": "https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg",
+        "kind": "representative",
+        "subject": "the A Famosa Portuguese fort gate (Porta de Santiago) in Melaka, built soon after the Sultanate's fall",
+        "alt": "A weathered grey stone gateway with an arched entrance and a small carved crest above it, standing alone on a green lawn under a bright sky; the last surviving gate of the A Famosa fortress in Melaka.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Melaka_%2C_St_Paul%27s_Church_Photo_Shooting.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Grace Share Share",
+        "page": "https://commons.wikimedia.org/wiki/File:Melaka_,_St_Paul%27s_Church_Photo_Shooting.jpg",
+        "kind": "representative",
+        "subject": "the roofless ruins of St Paul's Church atop St Paul's Hill in Melaka",
+        "alt": "The roofless brick-and-stone shell of an old church on a hilltop, its empty window openings and crumbling walls glowing warm red-brown in daylight, with visitors walking among the ruins.",
+        "position": "attention"
+      }
+    ]
   },
   "malaysia/straits-settlements": {
     "hero": {
@@ -6528,7 +6550,29 @@
       "subject": "The entrance gateway of Fort Cornwallis (built 1786) in George Town, Penang, Malaysia, the largest standing fort of the former British Straits Settlements.",
       "alt": "A warmly lit timber-roofed gateway between weathered stone walls glows at dusk, its illuminated sign reading 'Fort Cornwallis 1786 Penang' above an open pathway leading into the fort grounds.",
       "position": "attention"
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Penang_City_Hall_%28cropped%29.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Supanut Arunoprayote",
+        "page": "https://commons.wikimedia.org/wiki/File:Penang_City_Hall_(cropped).jpg",
+        "kind": "actual",
+        "subject": "the whitewashed colonial-era Penang City Hall in George Town, a Straits Settlements administrative building",
+        "alt": "A grand two-storey whitewashed colonial building with tall columned verandahs, arched windows and a symmetrical facade, set behind a manicured green lawn under a blue sky in George Town, Penang.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Penang_Malaysia-_Cheong-Fatt-Tze-Mansion-01.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "CEphoto, Uwe Aranas",
+        "page": "https://commons.wikimedia.org/wiki/File:Penang_Malaysia-_Cheong-Fatt-Tze-Mansion-01.jpg",
+        "kind": "actual",
+        "subject": "the indigo-blue Cheong Fatt Tze Mansion, a Straits Chinese merchant's courtyard house in George Town, Penang",
+        "alt": "The ornate facade of a large mansion painted a vivid indigo blue, with green louvered shutters, decorative eaves and a row of arched doorways, a landmark Straits Chinese courtyard house in George Town, Penang.",
+        "position": "attention"
+      }
+    ]
   },
   "malaysia/monsoons": {
     "hero": {
@@ -6552,7 +6596,29 @@
       "subject": "Istana Iskandariah, the official royal palace of the Sultan of Perak, in Bukit Chandan, Kuala Kangsar, Perak, Malaysia.",
       "alt": "A white royal palace crowned with gilded onion domes rises behind an ornate black-and-white perimeter fence on a green hillside under a clear sky.",
       "position": "attention"
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Ubudiah_Mosque_Kuala_Kangsar.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Miss Prema Darshini",
+        "page": "https://commons.wikimedia.org/wiki/File:Ubudiah_Mosque_Kuala_Kangsar.jpg",
+        "kind": "actual",
+        "subject": "the Ubudiah Mosque, the Perak royal mosque in Kuala Kangsar, with its golden dome",
+        "alt": "A white mosque crowned by a large golden onion-shaped dome flanked by smaller gilded domes and four slender minarets, gleaming against a clear sky; the royal Ubudiah Mosque in Kuala Kangsar, Perak.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Istana_Hulu%2C_Kuala_Kangsar.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Sabihahrazafa",
+        "page": "https://commons.wikimedia.org/wiki/File:Istana_Hulu,_Kuala_Kangsar.jpg",
+        "kind": "actual",
+        "subject": "Istana Hulu, the former Perak royal palace in Kuala Kangsar, now the Sultan Azlan Shah Gallery",
+        "alt": "A stately cream-coloured colonial-era palace with arched windows, decorative balustrades and a symmetrical facade topped by small turrets, set behind a lawn under a bright sky; Istana Hulu in Kuala Kangsar, Perak.",
+        "position": "attention"
+      }
+    ]
   },
   "malaysia/selangor-sultanate": {
     "hero": {
@@ -6564,7 +6630,29 @@
       "subject": "Istana Bandar (Istana Sultan Alaeddin), a historic royal palace of the Selangor Sultanate in Kampung Bandar, Kuala Langat, Selangor, Malaysia.",
       "alt": "A two-storey whitewashed colonial-era palace with a red tiled roof and a wide balustraded verandah stands on a manicured lawn fringed by coconut palms.",
       "position": "attention"
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Royal_Gallery_of_Sultan_Abdul_Aziz.JPG",
+        "license": "CC BY-SA 4.0",
+        "by": "Fumiko yabe",
+        "page": "https://commons.wikimedia.org/wiki/File:Royal_Gallery_of_Sultan_Abdul_Aziz.JPG",
+        "kind": "actual",
+        "subject": "Galeri Diraja Sultan Abdul Aziz (the Sultan Abdul Aziz Royal Gallery) in Klang, Selangor",
+        "alt": "A grand colonial-style white and cream heritage building with arched windows and a tiled roof, set behind lawns, housing the Selangor royal gallery in Klang.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/The_Exterior_of_Masjid_Diraja_Sultan_Suleiman.jpg",
+        "license": "CC BY 2.0",
+        "by": "Qaedi Shamsuddin",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Exterior_of_Masjid_Diraja_Sultan_Suleiman.jpg",
+        "kind": "actual",
+        "subject": "Masjid Diraja Sultan Sulaiman (the Sultan Sulaiman Royal Mosque) in Klang, Selangor",
+        "alt": "An elegant blue-and-white royal mosque with a large central dome, flanking domes and slender minarets rising against a clear sky in Klang.",
+        "position": "attention"
+      }
+    ]
   },
   "malaysia/johor-riau-sultanate": {
     "hero": {
@@ -6576,7 +6664,29 @@
       "subject": "The Sultan Abu Bakar State Mosque, the royal state mosque of Johor, in Johor Bahru, Johor, Malaysia.",
       "alt": "A grand white Victorian-style mosque with twin spired towers and blue-black domes rises above landscaped gardens beneath an overcast sky.",
       "position": "attention"
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Johor_Istana_Besar_from_Woodlands_Waterfront_060925.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Seloloving",
+        "page": "https://commons.wikimedia.org/wiki/File:Johor_Istana_Besar_from_Woodlands_Waterfront_060925.jpg",
+        "kind": "actual",
+        "subject": "Istana Besar (the Grand Palace, now the Royal Abu Bakar Museum) in Johor Bahru, Johor",
+        "alt": "The white Istana Besar grand palace of Johor, with its stately facade and green-roofed tower, seen across the water from the Johor Strait waterfront.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Perspective_View_of_Sultan_Ibrahim_Building.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Fxchua",
+        "page": "https://commons.wikimedia.org/wiki/File:Perspective_View_of_Sultan_Ibrahim_Building.jpg",
+        "kind": "actual",
+        "subject": "Bangunan Sultan Ibrahim (the Sultan Ibrahim Building), the former Johor state secretariat in Johor Bahru",
+        "alt": "The imposing grey Sultan Ibrahim Building rising on a hill, a long symmetrical government block crowned by a tall central clock-and-Saracenic tower, viewed at an angle.",
+        "position": "attention"
+      }
+    ]
   },
   "malaysia/pahang-sultanate": {
     "hero": {
@@ -6612,7 +6722,29 @@
       "subject": "The Zahir Mosque (Masjid Zahir) in Alor Setar, Kedah, one of Malaysia's oldest and grandest royal mosques, associated with the Kedah Sultanate.",
       "alt": "A majestic white Moorish mosque crowned by clustered black onion domes and slender minarets, its ornate arched facade rising above an open plaza beneath dramatic clouds.",
       "position": "attention"
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Balai_Besar_Alor_Setar_-_panoramio.jpg",
+        "license": "CC BY 3.0",
+        "by": "CK Tan",
+        "page": "https://commons.wikimedia.org/wiki/File:Balai_Besar_Alor_Setar_-_panoramio.jpg",
+        "kind": "actual",
+        "subject": "Balai Besar (the royal audience hall) in Alor Setar, Kedah",
+        "alt": "The ornate timber Balai Besar royal audience hall in Alor Setar, a yellow open-sided pavilion with carved columns, scalloped eaves and a tiered roof.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Balai_Nobat.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Anasaiman",
+        "page": "https://commons.wikimedia.org/wiki/File:Balai_Nobat.jpg",
+        "kind": "actual",
+        "subject": "Balai Nobat, the octagonal tower housing the Kedah royal nobat orchestra, in Alor Setar",
+        "alt": "The tall octagonal Balai Nobat tower in Alor Setar, a slim cream and gold minaret-like structure topped by a small onion dome, which houses the royal ceremonial orchestra.",
+        "position": "attention"
+      }
+    ]
   },
   "malaysia/negeri-sembilan-royal-institution": {
     "hero": {

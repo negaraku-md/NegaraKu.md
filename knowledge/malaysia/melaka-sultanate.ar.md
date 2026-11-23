@@ -29,7 +29,7 @@ faq:
     a: "بقي البلاط. فقد أعاد السلطان محمود شاه وذرّيته تأسيس الحُكم الملايوي إلى الجنوب، وأهمّ ذلك في سلطنة جوهور (Johor)، حاملين معهم بنية بلاط ملقا وقانونها القضائي ولغتها. وقد عُمّرت تلك المؤسسات قروناً أطول من استقلال المدينة نفسها."
 
 lang: "ar"
-sourceContentHash: "c0cb6569dbb2731b"
+sourceContentHash: "71f9e93ec46a7d9e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-1.webp
+    alt: بوابة حجرية رمادية متآكلة بمدخل مقوّس وشعار محفور صغير فوقها، تقف منفردة على مرج أخضر تحت سماء ساطعة؛ وهي آخر بوابة باقية من حصن A Famosa في ملقا.
+    kind: representative
+    origin: third-party
+    subject: بوابة حصن A Famosa البرتغالي (Porta de Santiago) في ملقا، التي بُنيت بُعيد سقوط السلطنة
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg
+  - role: scene
+    src: /media/malaysia/melaka-sultanate/body-2.webp
+    alt: هيكل كنيسة قديمة من الآجر والحجر بلا سقف فوق قمة تل، فتحات نوافذها الخالية وجدرانها المتهدّمة تتوهّج بلون أحمر بنّي دافئ في ضوء النهار، وزوّار يتجوّلون بين الأطلال.
+    kind: representative
+    origin: third-party
+    subject: أطلال كنيسة St Paul's Church بلا سقف فوق قمة St Paul's Hill في ملقا
+    credit: Grace Share Share / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_,_St_Paul%27s_Church_Photo_Shooting.jpg
 ---
 
 أميرٌ يفرّ من مدينة تحترق. يعبر مضيقاً، ويقتل زعيماً محلياً آواه، ويواصل الفرار — عبر موار (Muar)، وعبر أوجونغ تاناه (Ujong Tanah) — حتى يتوقف تحت شجرة على ضفة نهر ليريح كلابه. يحاصر أحد كلابه غزالاً صغيراً (pelanduk)، فيستدير الغزال المحاصَر ويركله إلى الماء. يأخذ الأمير ذلك فألاً: حتى أصغر مخلوق هنا يقاوم. فيقرّر أن هنا سيبني مدينته، ويسمّيها على اسم الشجرة التي يجلس تحتها — شجرة *ملقا* (melaka).
