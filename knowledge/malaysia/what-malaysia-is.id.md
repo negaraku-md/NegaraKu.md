@@ -19,7 +19,7 @@ keyTakeaways:
   - "Kuasa pembentukan undang-undang dibagi antara federasi dan negeri-negeri oleh Daftar Federal, Daftar Negeri, dan Daftar Bersama dalam Jadwal Kesembilan"
 appliesTo: "Siapa pun yang baru di Malaysia dan ingin memahami jenis negara apa ia dari segi konstitusional, sebelum mendalami salah satu institusi mana pun."
 lang: "id"
-sourceContentHash: "8088b5defbdcad1c"
+sourceContentHash: "fd13ba0eea894d0a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -63,6 +63,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-1.webp
+    alt: Gerbang Tionghoa berwarna merah dan emas yang dimahkotai naga emas memuat papan nama biru bertuliskan JALAN PETALING / PETALING STREET di atas spanduk selamat datang multibahasa, di Chinatown Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Gapura hias Jalan Petaling di Pecinan Kuala Lumpur
+    credit: Sam Hidayat / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Petaling_Street,_a_Chinatown_area_in_the_city_of_Kuala_Lumpur_(1).jpg
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-2.webp
+    alt: Patung emas Dewa Murugan yang menjulang berdiri di samping anak tangga curam berwarna-warni cerah yang mendaki tebing batu kapur berselimut hutan saat para pengunjung menaikinya.
+    kind: actual
+    origin: third-party
+    subject: Patung Dewa Murugan keemasan dan tangga pelangi di Batu Caves, Selangor
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gombak_Selangor_Batu-Caves-01.jpg
 ---
 
 Malaysia bukanlah satu tempat dengan satu pemerintah. Ia adalah sebuah federasi — sebuah negara tunggal yang dijalin dari tiga belas negeri dan tiga wilayah federal, terletak di atas dua daratan yang dipisahkan oleh beberapa ratus kilometer Laut Tiongkok Selatan. Memahami struktur itu lebih dahulu menjadikan hampir semua hal lain tentang negara ini lebih mudah dipahami.

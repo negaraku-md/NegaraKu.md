@@ -19,7 +19,7 @@ keyTakeaways:
   - "El poder legislativo se divide entre la federación y los estados mediante las Listas Federal, Estatal y Concurrente de la Novena Lista"
 appliesTo: "Cualquiera que sea nuevo en Malasia y quiera entender qué tipo de país es constitucionalmente, antes de adentrarse en cualquier institución concreta."
 lang: "es"
-sourceContentHash: "8088b5defbdcad1c"
+sourceContentHash: "fd13ba0eea894d0a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -63,6 +63,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-1.webp
+    alt: Una puerta china de color rojo y dorado coronada por dragones dorados sostiene un letrero azul que dice JALAN PETALING / PETALING STREET sobre una pancarta de bienvenida multilingüe, en el barrio chino de Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: El ornamentado pórtico de Petaling Street en el barrio chino de Kuala Lumpur
+    credit: Sam Hidayat / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Petaling_Street,_a_Chinatown_area_in_the_city_of_Kuala_Lumpur_(1).jpg
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-2.webp
+    alt: Una imponente estatua dorada de Lord Murugan se alza junto a una empinada escalinata de peldaños de vivos colores que asciende por un acantilado de piedra caliza cubierto de selva, mientras los visitantes suben.
+    kind: actual
+    origin: third-party
+    subject: La estatua dorada de Lord Murugan y la escalinata arcoíris en Batu Caves, Selangor
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gombak_Selangor_Batu-Caves-01.jpg
 ---
 
 Malasia no es un solo lugar con un solo gobierno. Es una federación — un solo país cosido a partir de trece estados y tres territorios federales, asentado sobre dos masas de tierra separadas por varios cientos de kilómetros del Mar de China Meridional. Entender primero esa estructura hace que casi todo lo demás sobre el país sea más fácil de seguir.

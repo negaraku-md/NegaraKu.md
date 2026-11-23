@@ -21,7 +21,7 @@ appliesTo: "எந்த ஒரு தனி நிறுவனத்தைய�
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8088b5defbdcad1c"
+sourceContentHash: "fd13ba0eea894d0a"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -63,6 +63,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-1.webp
+    alt: சிவப்பு–தங்க நிற சீன நுழைவு வாயில், மேற்புறத்தில் தங்க டிராகன்கள் அலங்கரிக்க, JALAN PETALING / PETALING STREET எனப் பொறிக்கப்பட்ட நீல வண்ணப் பலகையைத் தாங்கி, அதற்குக் கீழே பல மொழி வரவேற்புப் பதாகையுடன், கோலாலம்பூர் சைனாடவுனில்.
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர் சைனாடவுனில் உள்ள அலங்கார ஜாலான் பெட்டாலிங் நுழைவாயில்
+    credit: Sam Hidayat / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Petaling_Street,_a_Chinatown_area_in_the_city_of_Kuala_Lumpur_(1).jpg
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-2.webp
+    alt: காட்டால் மூடப்பட்ட சுண்ணாம்புக் கற்பாறையில் ஏறும் செங்குத்தான, பிரகாசமான வண்ணப் படிக்கட்டுகளின் அருகே, உயர்ந்து நிற்கும் முருகனின் பிரம்மாண்ட தங்கச் சிலை நிற்கிறது; பார்வையாளர்கள் படியேறுகிறார்கள்.
+    kind: actual
+    origin: third-party
+    subject: செலாங்கூர், பத்து குகைகளில் உள்ள தங்க நிற முருகன் சிலையும் வானவில் படிக்கட்டும்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gombak_Selangor_Batu-Caves-01.jpg
 ---
 
 மலேசியா ஒரே அரசைக் கொண்ட ஒரே இடம் அல்ல. இது ஒரு கூட்டமைப்பு — பதின்மூன்று மாநிலங்கள் மற்றும் மூன்று கூட்டாட்சிப் பிரதேசங்களில் இருந்து ஒன்றாகத் தைக்கப்பட்ட ஒரே நாடு, தென் சீனக் கடலின் பல நூறு கிலோமீட்டர்களால் பிரிக்கப்பட்ட இரண்டு நிலப்பரப்புகளின் மேல் அமைந்துள்ளது. அந்தக் கட்டமைப்பை முதலில் புரிந்துகொள்வது, இந்த நாட்டைப் பற்றிய ஏறக்குறைய மற்ற எல்லாவற்றையும் பின்தொடர்வதை எளிதாக்குகிறது.

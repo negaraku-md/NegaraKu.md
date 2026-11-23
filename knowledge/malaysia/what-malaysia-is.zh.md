@@ -33,7 +33,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 updated: 2026-07-24
-sourceContentHash: "8088b5defbdcad1c"
+sourceContentHash: "fd13ba0eea894d0a"
 sources:
   - title: "联邦宪法——马来西亚法律（第1、4、32、38、44、45、71条，第九附表） (Federal Constitution — Laws of Malaysia (Article 1, 4, 32, 38, 44, 45, 71, Ninth Schedule))"
     url: "https://lom.agc.gov.my/"
@@ -62,6 +62,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-1.webp
+    alt: 一座红金相间、顶部饰有金龙的中式牌楼，蓝色匾额上写着 JALAN PETALING／PETALING STREET，下方是一条多语欢迎横幅，位于吉隆坡的唐人街。
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡唐人街的茨厂街装饰牌坊
+    credit: Sam Hidayat / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Petaling_Street,_a_Chinatown_area_in_the_city_of_Kuala_Lumpur_(1).jpg
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-2.webp
+    alt: 一尊高耸的金色姆鲁甘（Murugan）神像矗立在一段色彩斑斓的陡峭阶梯旁，阶梯攀上一座丛林覆盖的石灰岩峭壁，游客们正拾级而上。
+    kind: actual
+    origin: third-party
+    subject: 雪兰莪黑风洞（Batu Caves）的金色姆鲁甘神像与彩虹阶梯
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gombak_Selangor_Batu-Caves-01.jpg
 ---
 
 马来西亚不是一个由单一政府治理的单一地方。它是一个联邦——一个由十三个州属与三个联邦直辖区拼合而成的单一国家，坐落在被数百公里南中国海分隔的两块陆地之上。先理解这一结构，会让这个国家的几乎其他一切都更容易理解。

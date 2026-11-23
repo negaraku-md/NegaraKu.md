@@ -19,7 +19,7 @@ keyTakeaways:
   - "Le pouvoir législatif est partagé entre la fédération et les États au moyen des Listes fédérale, des États et concurrente de la Neuvième Annexe"
 appliesTo: "Toute personne nouvelle en Malaisie qui souhaite comprendre quel type de pays c'est sur le plan constitutionnel, avant de se plonger dans une institution en particulier."
 lang: "fr"
-sourceContentHash: "8088b5defbdcad1c"
+sourceContentHash: "fd13ba0eea894d0a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -63,6 +63,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-1.webp
+    alt: Une porte chinoise rouge et or surmontée de dragons dorés porte un panneau bleu indiquant JALAN PETALING / PETALING STREET au-dessus d’une banderole de bienvenue multilingue, dans le quartier chinois de Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Le portail ornemental de Petaling Street dans le quartier chinois de Kuala Lumpur
+    credit: Sam Hidayat / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Petaling_Street,_a_Chinatown_area_in_the_city_of_Kuala_Lumpur_(1).jpg
+  - role: scene
+    src: /media/malaysia/what-malaysia-is/body-2.webp
+    alt: Une imposante statue dorée de Lord Murugan se dresse à côté d'un escalier raide aux marches de couleurs vives qui grimpe le long d'une falaise calcaire couverte de jungle, tandis que des visiteurs y montent.
+    kind: actual
+    origin: third-party
+    subject: La statue dorée de Lord Murugan et l'escalier arc-en-ciel aux Batu Caves, Selangor
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gombak_Selangor_Batu-Caves-01.jpg
 ---
 
 La Malaisie n'est pas un lieu unique doté d'un seul gouvernement. C'est une fédération — un seul pays assemblé à partir de treize États et de trois territoires fédéraux, posé sur deux masses continentales séparées par plusieurs centaines de kilomètres de la mer de Chine méridionale. Comprendre d'abord cette structure rend presque tout le reste du pays plus facile à suivre.
