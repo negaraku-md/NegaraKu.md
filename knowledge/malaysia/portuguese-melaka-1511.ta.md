@@ -19,7 +19,7 @@ keyTakeaways:
   - "மலாக்கா சுல்தானகத்தின் வம்சம் 1528இல் ஜொகூர் லாமாவில் ஆட்சியைத் தொடர்ந்தது, அந்த வம்சம் 1699 வரை நீடித்தது"
 appliesTo: "1511 மலாக்கா வீழ்ச்சிக்குப் பின்னால் இருந்த தொழில்நுட்ப மற்றும் அரசியல் காரணங்களையும், அந்த நகரம் இழக்கப்பட்ட பிறகு மலாக்காவின் நிறுவனங்களுக்கும் அரச வம்சத்துக்கும் என்ன நேர்ந்தது என்பதையும் புரிந்துகொள்ள விரும்பும் வாசகர்கள்."
 lang: "ta"
-sourceContentHash: "b8ff8e81366e5986"
+sourceContentHash: "fcab03d9a910f161"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-1.webp
+    alt: 1521 ஆம் ஆண்டைய செயின்ட் பால் தேவாலய இடிபாடுகளின் கூரையற்ற லேட்டரைட் சுவர்களும் வெற்று ஜன்னல் திறப்புகளும் திறந்த வானத்தின் கீழ் மலாக்காவின் செயின்ட் பால் குன்றின் உச்சியில் நிற்கின்றன.
+    kind: actual
+    origin: third-party
+    subject: மலாக்காவின் செயின்ட் பால் குன்றில் உள்ள செயின்ட் பால் தேவாலய இடிபாடுகள்
+    credit: Natalie.Thoo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:1521_St_Paul%27s_Church_(Ruins)_Front_View.jpg
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-2.webp
+    alt: டெரகோட்டா கூரை கொண்ட கட்டிடங்களும் உணவகப் பலகைகளும் சூழ்ந்த, போர்த்துகீசிய சதுக்கத்தின் கிரீம் நிற நுழைவாயில் மலாக்காவின் போர்த்துகீசிய குடியிருப்பில் ஒரு முற்றத்திற்குத் திறக்கிறது.
+    kind: actual
+    origin: third-party
+    subject: மலாக்காவின் போர்த்துகீசிய குடியிருப்பில் (Kampung Portugis) உள்ள போர்த்துகீசிய சதுக்கம்
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
 ---
 
 பத்து நாட்கள். போர்த்துகீசியப் படை 1511 ஆகஸ்ட் 10 அன்று மலாக்கா நீர்ப்பரப்பில் வந்ததற்கும், அந்த நகரம் ஆகஸ்ட் 24 அன்று கைமாறியதற்கும் இடையிலான இடைவெளி அதுதான்.

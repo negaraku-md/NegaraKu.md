@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "b364077cf92058e5"
+sourceContentHash: "c11dc81961dc71d5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -88,6 +88,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-1.webp
+    alt: رسم kolam كبير زاهي الألوان على شكل طاووس، مصنوع من مسحوق ملوّن مفروش على الأرض بمناسبة دیبافالي (دِيپاوالي) في KL Sentral بكوالالمبور.
+    kind: actual
+    origin: third-party
+    subject: رسم kolam أرضي على شكل طاووس بمناسبة دِيپاوالي في KL Sentral، كوالالمبور
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-2.webp
+    alt: تتجمّع عدة رؤوس لأزياء رقصة الأسد زاهية الألوان بالوردي والأصفر والأبيض أمام واجهة متجر خلال احتفال ماليزي بالسنة الصينية الجديدة في الشارع، وبينها مؤدٍّ أحمر ذو رأس كبير.
+    kind: actual
+    origin: third-party
+    subject: فرقة رقص الأسد في احتفال السنة الصينية الجديدة في سانداكان، صباح
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelab_Sukan_Leong_Sin_20260303_140742.jpg
 ---
 
 خطّط لرحلة أو إطلاق منتج أو تشغيل كشوف رواتب عبر ماليزيا وسرعان ما تكتشف أمرًا يفاجئ الغرباء: فاليوم الذي هو عطلة رسمية في كوالالمبور قد يكون يوم عمل عاديًا في كوتشينغ، والعكس صحيح. فماليزيا لا تملك قائمة عطل وطنية واحدة بقدر ما تملك طبقة وطنية وثلاث عشرة طبقة ولائية مكدّسة فوق بعضها.

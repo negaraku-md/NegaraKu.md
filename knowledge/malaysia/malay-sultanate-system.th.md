@@ -18,7 +18,7 @@ keyTakeaways:
   - "สถาบันรัฐสุลต่านดำเนินต่อในรัฐธรรมนูญผ่านพระราชาธิบดีมลายูเก้าองค์ ที่ประชุมพระราชาธิบดี และยังดี-เปอร์ตวน อากง"
 appliesTo: "ผู้ที่ต้องการเข้าใจโครงสร้างและบทบาทของสถาบันรัฐสุลต่านมลายูดั้งเดิมและการที่มันเชื่อมต่อกับระบบราชาธิปไตยภายใต้รัฐธรรมนูญในปัจจุบันอย่างไร"
 lang: "th"
-sourceContentHash: "95bf275cb438d0b7"
+sourceContentHash: "b2a4177ceb069795"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-1.webp
+    alt: ซุ้มประตูพิธีการโดมสีทองอันวิจิตรของอิสตานาเนอการา ซึ่งจารึกคำว่า 'Istana Negara' ตั้งอยู่ท่ามกลางแสงแดดจ้า โดยมีหมู่อาคารโดมสีทองของพระราชวังอยู่บนเนินเขาสีเขียวด้านหลัง และเส้นขอบฟ้าของกัวลาลัมเปอร์อยู่ไกลออกไป
+    kind: actual
+    origin: third-party
+    subject: อิสตานาเนอการา (Istana Negara) พระราชวังแห่งชาติบนถนนตวนกูอับดุลฮาลิม (ถนนดูตา) กรุงกัวลาลัมเปอร์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-2.webp
+    alt: กริช (keris) พิธีการของชาวมลายูเล่มยาววางอยู่ข้างฝักอันเรียวบางบนพื้นผิวในพิพิธภัณฑ์ พร้อมป้ายพิมพ์ข้อความว่า 'Keris Alang Pahang'
+    kind: actual
+    origin: third-party
+    subject: กริชอาลังแห่งปะหัง กริช (keris) พิธีการของราชสำนักที่เป็นสัญลักษณ์แห่งอำนาจ
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 ลองจินตนาการถึงรัฐที่ไม่มีแฟ้มเอกสาร ไม่มีแบบฟอร์ม ไม่มีหน่วยงานที่มีหมายเลข คำสั่งถูกส่งด้วยลิ้น ความยุติธรรมถูกตัดสินในท้องพระโรง และโครงสร้างทั้งหมดของสังคมขึ้นอยู่กับคำเดียวที่ไม่สามารถแปลได้อย่างแม่นยำเป็นภาษาสมัยใหม่ คือ *เดาลัต (daulat)* นั่นคือโลกของรัฐสุลต่านมลายู ระบบที่จัดชีวิตหลายพันชีวิตตลอดชายฝั่งและแม่น้ำเป็นเวลาหลายศตวรรษ และที่เงาของมันยังคงเห็นได้ในรัฐธรรมนูญของมาเลเซียในปัจจุบัน

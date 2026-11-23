@@ -19,7 +19,7 @@ keyTakeaways:
   - "Thiết chế vương triều được tiếp diễn trong Hiến pháp qua chín Quốc vương Mã Lai, Hội đồng các Quốc vương, và Yang di-Pertuan Agong"
 appliesTo: "Bất kỳ ai muốn hiểu cấu trúc và vai trò của thiết chế vương triều Mã Lai truyền thống và cách nó nối liền với hệ thống quân chủ lập hiến ngày nay."
 lang: "vi"
-sourceContentHash: "95bf275cb438d0b7"
+sourceContentHash: "b2a4177ceb069795"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -69,6 +69,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-1.webp
+    alt: Cổng nghi lễ mái vòm dát vàng chạm trổ tinh xảo của Istana Negara, khắc chữ 'Istana Negara', đứng dưới ánh ban ngày rực rỡ với các tòa nhà cung điện mái vòm vàng trên ngọn đồi xanh phía sau và đường chân trời Kuala Lumpur phía xa.
+    kind: actual
+    origin: third-party
+    subject: Istana Negara, cung điện quốc gia trên đường Jalan Tuanku Abdul Halim (Jalan Duta), Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-2.webp
+    alt: Một thanh kris Mã Lai nghi lễ dài nằm bên cạnh bao kiếm mảnh của nó trên mặt trưng bày trong bảo tàng, với tấm nhãn in dòng chữ 'Keris Alang Pahang'.
+    kind: actual
+    origin: third-party
+    subject: Keris Alang của Pahang, một thanh kris nghi lễ hoàng gia tượng trưng cho quyền uy
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 Hãy hình dung một bang không có hồ sơ, không có biểu mẫu, không có các phòng ban được đánh số. Mệnh lệnh được truyền đi bằng lời, công lý được tuyên tại điện thiết triều, và toàn bộ trật tự xã hội phụ thuộc vào một từ không thể dịch chính xác sang ngôn ngữ hiện đại: *daulat*. Đó là thế giới của vương triều Mã Lai — một hệ thống đã sắp xếp hàng nghìn sinh mạng dọc các bờ biển và con sông trong nhiều thế kỷ, và mà bóng dáng của nó vẫn còn nhìn thấy trong Hiến pháp Malaysia ngày nay.

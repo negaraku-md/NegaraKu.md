@@ -18,7 +18,7 @@ keyTakeaways:
   - "Parameswara, người sáng lập Vương triều Melaka vào khoảng năm 1400, được mô tả trong truyền thống Mã Lai và bởi chính chính quyền bang Melaka như một hoàng tử từ Palembang — kinh đô cũ của Srivijaya"
 appliesTo: "Độc giả muốn hiểu điều gì đã cai trị Eo biển Melaka trước khi Melaka làm điều đó, và cách một thế lực biển đặt cơ sở ở Sumatra rốt cuộc lại nuôi dưỡng trực tiếp lịch sử hoàng gia của chính Bán đảo Mã Lai."
 lang: "vi"
-sourceContentHash: "69e06d6034cc1b41"
+sourceContentHash: "f1da482a879f3f09"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Buddha_Seguntang_Palembang.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/srivijaya/body-1.webp
+    alt: Một hòn đá xám nhỏ hình tròn khắc những hàng chữ Mã Lai cổ, tấm bia ký Kedukan Bukit thời Srivijaya, được trưng bày trên giá đỡ trong bảo tàng.
+    kind: actual
+    origin: third-party
+    subject: Bia ký Kedukan Bukit (năm 683), một tấm bia tiếng Mã Lai cổ thời Srivijaya
+    credit: Gunawan Kartapranata / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prasasti_Kedukan_Bukit_1.jpg
+  - role: scene
+    src: /media/malaysia/srivijaya/body-2.webp
+    alt: Một bức tượng đồng tám tay của Bồ Tát Avalokiteshvara, được tìm thấy tại Bidor ở Perak, trưng bày thẳng đứng trong Bảo tàng Quốc gia ở Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Tượng Avalokiteshvara bằng đồng ở Bidor (thế kỷ 8–9), Bảo tàng Quốc gia, Kuala Lumpur
+    credit: Gryffindor / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Negara_KL32.JPG
 ---
 
 Khi Parameswara chạy khỏi Temasek vào năm 1396 và tình cờ đặt chân lên bờ sông về sau trở thành Melaka, ông không phải một kẻ vô danh xuất hiện từ hư không. Chính chính quyền bang Melaka vẫn ghi ông, một cách thẳng thắn, là "một hoàng tử hoàng gia từ Palembang." Palembang, trên sông Musi ở nam Sumatra, đã từng là kinh đô của một thế lực biển cai trị Eo biển Melaka trong khoảng sáu trăm năm trước khi Parameswara ra đời — một vương quốc mang tên Srivijaya. Vào lúc Parameswara đến bán đảo, quyền lực chính trị của vương quốc đó đã không còn. Nhưng Vương triều Melaka mà ông sáng lập đã mang dòng máu của nó, và có thể nói là cả mô hình về việc một hải cảng thương mại Mã Lai nên như thế nào, thẳng ra từ đống tàn tích của Srivijaya.

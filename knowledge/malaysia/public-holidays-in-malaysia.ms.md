@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "b364077cf92058e5"
+sourceContentHash: "c11dc81961dc71d5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -88,6 +88,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-1.webp
+    alt: Kolam besar berbentuk burung merak yang berwarna-warni terang, dibuat daripada serbuk berwarna dan disusun di atas lantai sempena Deepavali di KL Sentral, Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Reka bentuk kolam lantai berbentuk burung merak sempena Deepavali di KL Sentral, Kuala Lumpur
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-2.webp
+    alt: Beberapa kepala kostum tarian singa yang berwarna-warni terang berwarna merah jambu, kuning dan putih berkumpul di hadapan sebuah kedai semasa sambutan Tahun Baharu Cina di jalanan Malaysia, dengan seorang penari bertopeng kepala besar merah dalam kalangan mereka.
+    kind: actual
+    origin: third-party
+    subject: Kumpulan tarian singa Tahun Baharu Cina di Sandakan, Sabah
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelab_Sukan_Leong_Sin_20260303_140742.jpg
 ---
 
 Rancang satu perjalanan, pelancaran produk atau proses gaji merentasi Malaysia dan anda akan cepat mendapati sesuatu yang mengejutkan orang luar: hari yang menjadi cuti umum di Kuala Lumpur mungkin merupakan hari bekerja biasa di Kuching, dan sebaliknya. Malaysia bukannya mempunyai satu senarai cuti kebangsaan, sebaliknya satu lapisan kebangsaan dan tiga belas lapisan negeri yang bertindih antara satu sama lain.

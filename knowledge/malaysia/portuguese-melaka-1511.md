@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-1.webp
+    alt: Dinding laterit tanpa bumbung dan bukaan tingkap yang kosong pada runtuhan Gereja St Paul tahun 1521 berdiri di puncak Bukit St Paul di Melaka di bawah langit terbuka.
+    kind: actual
+    origin: third-party
+    subject: Runtuhan Gereja St Paul di Bukit St Paul, Melaka
+    credit: Natalie.Thoo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:1521_St_Paul%27s_Church_(Ruins)_Front_View.jpg
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-2.webp
+    alt: Pintu gerbang masuk berwarna krim ke Dataran Portugis, dipagari bangunan berbumbung terakota dan papan tanda restoran, membuka ke suatu halaman di Perkampungan Portugis Melaka.
+    kind: actual
+    origin: third-party
+    subject: Dataran Portugis di Perkampungan Portugis (Kampung Portugis), Melaka
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
 ---
 
 Sepuluh hari. Itulah jarak antara ketibaan angkatan Portugis di perairan Melaka pada 10 Ogos 1511 dan detik kota itu bertukar tangan pada 24 Ogos.

@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการข้อเท็จจริงพื้นฐานของมาเลเซีย คือ ประชากร พื้นที่ เมืองหลวง สกุลเงิน ภาษา GDP โดยแต่ละตัวเลขอ้างอิงกับการเผยแพร่อย่างเป็นทางการเฉพาะที่เผยแพร่มัน มากกว่าบทสรุปที่ไม่มีแหล่งที่มา"
 
 lang: "th"
-sourceContentHash: "dc264630ca2e722e"
+sourceContentHash: "d19934fdb5cfb1a3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_skyline_at_night.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-1.webp
+    alt: ถนนอาหารตลาดกลางคืนอันคึกคักเปล่งประกายใต้โคมไฟกระดาษสีแดง ขณะที่ผู้คนนั่งเต็มโต๊ะพลาสติกสีแดงข้างแผงลอยและรถเข็นทุเรียน
+    kind: actual
+    origin: third-party
+    subject: ถนนอาหารริมทางยามค่ำคืนจาลันอาโลร์ กรุงกัวลาลัมเปอร์
+    credit: IQRemix / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Alor_-_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-2.webp
+    alt: เนินเขาที่ปกคลุมด้วยป่าดิบทอดยาวไม่สิ้นสุดค่อย ๆ จางหายไปในหมอกสีฟ้าใต้ท้องฟ้าครึ้มเมฆ มองข้ามเรือนยอดป่าดิบอันหนาทึบจากลานโล่งบนยอดเขา
+    kind: actual
+    origin: third-party
+    subject: เนินเขาป่าดิบของตามันเนอการามองจากบูกิตเตอริเซก รัฐปะหัง
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 ถาม "มาเลเซียใหญ่แค่ไหน" หรือ "ประชากรของมาเลเซียเท่าใด" แล้วคุณจะได้คำตอบที่แตกต่างกันขึ้นอยู่กับว่าคุณเข้าไปที่เว็บไซต์ใด บางแห่งอ้างตัวเลขสำมะโนปี 2020 บางแห่งอ้างการประมาณการของธนาคารโลกที่ตามหลังสองการปรับปรุง หน้านี้มีอยู่เพื่อแก้ไขสิ่งนั้น ทุกตัวเลขด้านล่างมาจากการเผยแพร่อย่างเป็นทางการที่ระบุชื่อ ลงวันที่ เพื่อให้คุณเห็นได้อย่างแม่นยำว่ามันเป็นปัจจุบันเพียงใดและตรวจสอบเองได้

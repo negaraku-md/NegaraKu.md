@@ -21,7 +21,7 @@ appliesTo: "மலேசியாவின் கிழக்குக் கட
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ed321bc406e7501b"
+sourceContentHash: "30e1acf0176709ff"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -68,6 +68,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/pahang-sultanate/body-1.webp
+    alt: குவாந்தானில் உள்ள சுல்தான் அஹ்மத் ஷா மாநில மசூதி, பெரிய மைய குவிமாடத்தால் முடிசூட்டப்பட்டு உயரமான மினாராக்களால் சூழப்பட்டு, முழு முன்பக்கக் காட்சியில் காணப்படுகிறது.
+    kind: actual
+    origin: third-party
+    subject: பகாங், குவாந்தானில் உள்ள சுல்தான் அஹ்மத் ஷா மாநில மசூதி
+    credit: Mellernie Ching / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Ahmad_Shah_State_Mosque_Full_View_1.jpg
+  - role: scene
+    src: /media/malaysia/pahang-sultanate/body-2.webp
+    alt: சிவப்பு ஓட்டுக் கூரையும் வளைவான மைய வாயிலும் கொண்ட சமச்சீரான வெண்ணிற காலனித்துவ கால கட்டிடம், நாரை சிற்பங்கள் கொண்ட அமைதியான பிரதிபலிப்புக் குளத்தில் பிரதிபலிக்கிறது; இது பேக்கானில் சுல்தான் அபு பக்கார் அருங்காட்சியகத்தை அமைத்துள்ளது.
+    kind: actual
+    origin: third-party
+    subject: பகாங், பேக்கானில் உள்ள சுல்தான் அபு பக்கார் அருங்காட்சியகம் (முன்னாள் அரச அரண்மனை)
+    credit: Fikku fiq / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg
 ---
 
 பழைய அரச நகரமான Pekan இன்னும் ஆற்றுமுகத்திற்கு அருகில் அமர்ந்திருக்கும் Pahang ஆற்றின் வழியே, இரண்டு நூற்றாண்டுகளாக அமைதியாக இருந்த ஒரு அரியணை மீண்டும் உயர்த்தப்பட்டது. 1881இல் பகாங்கின் தலைவர்கள் ஒரு அந்நியனை முடிசூட்ட அல்ல, தங்கள் நிலம் ஒரு காலத்தில் வைத்திருந்த ஒரு பட்டத்தை மீட்டெடுக்கக் கூடினர் — மேலும் அவர்கள் சுல்தானாகப் பிரகடனப்படுத்திய மனிதர், அந்த உரிமையை கடினமான வழியில், ஒரு நீண்ட மற்றும் கடுமையான போரில் தனது சொந்த ஒன்றுவிட்ட சகோதரரைத் தோற்கடித்து, வென்றிருந்தார். பகாங்கின் மகுடம் ஒரு பெரிய பேரரசுக்குள் எப்படி இழக்கப்பட்டது, மேலும் ஒரு முதன்மை அமைச்சரின் மகன் அதை எப்படித் திரும்பக் கொண்டுவந்தார் என்பதன் கதை இது.

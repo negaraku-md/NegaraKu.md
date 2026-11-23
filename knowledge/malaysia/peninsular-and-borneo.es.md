@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Viajeros, empresas y todo aquel que intente entender por qué «Malasia» a veces se comporta como dos administraciones que comparten un solo pasaporte y una sola bandera."
 
 lang: "es"
-sourceContentHash: "da887efa0f358f15"
+sourceContentHash: "2bb66aa7db2e1c0e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_regions_map.png'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-1.webp
+    alt: Una extensión llana de arrozales de un verde intenso se prolonga hasta un horizonte bajo bordeado de árboles bajo un amplio cielo azul pálido.
+    kind: actual
+    origin: third-party
+    subject: Arrozales de tierras bajas en Sekinchan, Selangor (Malasia peninsular)
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_2.jpg
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-2.webp
+    alt: Un ancho río de selva, de aguas pardas y turbias, serpentea entre densas orillas de jungla, con pequeñas barcas de madera verdes amarradas en un embarcadero de troncos.
+    kind: actual
+    origin: third-party
+    subject: El río Kinabatangan en Sukau, Sabah (Malasia de Borneo)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sukau_Sabah_Malaysia_Kinabatangan-River-at-Sukau-01.jpg
 ---
 
 Vuele por ruta nacional de Kuala Lumpur a Kota Kinabalu y aterrizará en el mismo país del que salió. La misma moneda, el mismo pasaporte, la misma bandera en la cola del avión. Y, sin embargo, en la sala de llegadas se pone en fila ante un mostrador de tipo migratorio y alguien verifica su documento de identidad o pasaporte antes de dejarle pasar. Ningún otro vuelo dentro de Malasia funciona así.

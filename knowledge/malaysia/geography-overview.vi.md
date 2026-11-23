@@ -18,7 +18,7 @@ keyTakeaways:
   - "Gió mùa Đông Bắc (tháng 11–tháng 3) làm ướt sũng bờ đông Bán đảo, tây Sarawak và bắc Sabah; Gió mùa Tây Nam (tháng 5–tháng 9) tương đối khô hơn — một nhịp điệu vẫn định hình mùa lũ và lịch canh tác (Cục Khí tượng Malaysia)"
 appliesTo: "Bất kỳ ai đang cố hiểu vì sao dân số, các thành phố và nguy cơ lũ lụt của Malaysia lại tụ về nơi chúng tụ về — học sinh, người mới đến, các nhà quy hoạch, hay bất kỳ ai bối rối vì sao 'mùa gió mùa' lại có nghĩa khác nhau ở các bờ biển khác nhau."
 lang: "vi"
-sourceContentHash: "e7dc1f31338ea13e"
+sourceContentHash: "db06d54e1190b497"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Unknown_malaysia.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/geography-overview/body-1.webp
+    alt: Một vách núi đá vôi karst xám dựng đứng phủ rừng rậm vươn thẳng lên từ một hồ nước xanh ngọc tĩnh lặng, mặt vách soi bóng trong làn nước sẫm.
+    kind: actual
+    origin: third-party
+    subject: Vách núi đá vôi karst tại Tasik Cermin (Hồ Gương), Ipoh, Perak
+    credit: Iqx Azmi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mirror_Lake_(Ipoh)_-_Hidden_Oasis_in_the_Limestone_Valley_(Unsplash).jpg
+  - role: scene
+    src: /media/malaysia/geography-overview/body-2.webp
+    alt: Một vịnh nhỏ cát trắng viền những hàng dừa và các nhà gỗ gặp làn nước xanh ngọc trong vắt trên một hòn đảo nhiệt đới nhỏ.
+    kind: actual
+    origin: third-party
+    subject: Bãi biển nhiệt đới trên đảo Perhentian Kecil, Terengganu
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Kecil_Island,_Malaysia,_Beach.jpg
 ---
 
 Bay vào Kuala Lumpur từ Kota Kinabalu và bạn vượt qua nhiều hơn một biên giới nội bộ — bạn vượt qua vài trăm kilômét biển mở. Malaysia là một đất nước được ghim lại với nhau qua hai khối đất riêng biệt, và sự thật giản đơn về hình dạng đó đã lặng lẽ quyết định gần như mọi thứ khác: các thành phố ở đâu, các cánh đồng lúa ở đâu, và bờ biển nào ngập lụt vào mỗi tháng Mười Hai.

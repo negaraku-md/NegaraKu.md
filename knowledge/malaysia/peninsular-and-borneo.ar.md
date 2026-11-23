@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "المسافرون والشركات وكل من يحاول فهم سبب تصرّف «ماليزيا» أحياناً كإدارتين تتقاسمان جواز سفر واحداً وعلماً واحداً."
 
 lang: "ar"
-sourceContentHash: "da887efa0f358f15"
+sourceContentHash: "2bb66aa7db2e1c0e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_regions_map.png'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-1.webp
+    alt: امتداد مسطح من حقول الأرز الخضراء الزاهية يمتد حتى أفق منخفض تحفّه الأشجار تحت سماء واسعة زرقاء باهتة.
+    kind: actual
+    origin: third-party
+    subject: حقول أرز منخفضة في Sekinchan، سلانغور (شبه جزيرة ماليزيا)
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_2.jpg
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-2.webp
+    alt: نهر عريض بنّي موحل يجري في الغابة المطيرة وينعطف بين ضفتين كثيفتي الأدغال، مع قوارب خشبية خضراء صغيرة راسية عند رصيف خشبي.
+    kind: actual
+    origin: third-party
+    subject: نهر Kinabatangan عند Sukau، صباح (ماليزيا البورنيوية)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sukau_Sabah_Malaysia_Kinabatangan-River-at-Sukau-01.jpg
 ---
 
 سافِر رحلةً داخلية من كوالالمبور إلى كوتا كينابالو وستهبط في البلد نفسه الذي غادرته. العملة نفسها، وجواز السفر نفسه، والعلم نفسه على ذيل الطائرة. ومع ذلك، في صالة الوصول، تصطفّ عند نقطة تفتيش على طراز الهجرة ويفحص أحدهم بطاقة هويتك أو جواز سفرك قبل أن يُسمح لك بالمرور. ولا توجد رحلة أخرى داخل ماليزيا تعمل بهذه الطريقة.

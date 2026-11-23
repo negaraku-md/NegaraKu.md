@@ -20,7 +20,7 @@ keyTakeaways:
   - "تنازلت المعاهدة الإنجليزية-الهولندية في 17 مارس 1824 عن ملقا نهائياً لبريطانيا مقابل بنكولن؛ وسرى الانتقال الفعلي في 1 مارس 1825"
 appliesTo: "القرّاء الذين يعرفون أصلاً أن ملقا انتقلت من أيدي البرتغاليين إلى الهولنديين ثم إلى البريطانيين، ويريدون فهم سبب اختلاف السنوات الأربع والثمانين الوسطى اختلافاً شديداً عن السنوات الثلاثين والمئة التي سبقتها والواحدة والعشرين والمئة التي تلتها — إضافةً إلى كيفية حدوث الانتقال إلى بريطانيا فعلاً."
 lang: "ar"
-sourceContentHash: "2c0da3227a2ca96b"
+sourceContentHash: "f3cba012d163e9b9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-1.webp
+    alt: ترتفع الواجهة ذات الطوب الأحمر الداكن لكنيسة المسيح بملقا (Christ Church Melaka)، وفي جملونها صليب أبيض وساعة، نحو السماء.
+    kind: actual
+    origin: third-party
+    subject: كنيسة المسيح بملقا (Christ Church Melaka)، الكنيسة التي بناها الهولنديون عام 1753
+    credit: Quahla / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Christ_Church_Melaka_1753.jpg
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-2.webp
+    alt: تنفتح بوابة مقوّسة مطلية بالأبيض تحمل لافتة 'Kubur Belanda / The Dutch Graveyard' على مقبرة استعمارية مظللة بالأشجار على تلة القديس بولس في ملقا.
+    kind: actual
+    origin: third-party
+    subject: المقبرة الهولندية (Kubur Belanda) على تلة القديس بولس في ملقا
+    credit: Orderinchaos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_BH_-_Dutch_Graveyard_(Kubur_Belanda)_1.jpg
 ---
 
 تُمضي شركةٌ سبعة أشهر وتحالفاً مع سلطنة أجنبية لتغزو ميناءً. ثم تُمضي القرن ونصف القرن التاليين حريصةً على ألا يغتني ذلك الميناء أبداً.

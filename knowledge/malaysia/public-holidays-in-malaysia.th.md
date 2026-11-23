@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "b364077cf92058e5"
+sourceContentHash: "c11dc81961dc71d5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -88,6 +88,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-1.webp
+    alt: โกลัม (kolam) รูปนกยูงขนาดใหญ่สีสันสดใสที่ทำจากผงสี วางไว้บนพื้นสำหรับเทศกาลดีปาวลีที่เคแอลเซ็นทรัลในกรุงกัวลาลัมเปอร์
+    kind: actual
+    origin: third-party
+    subject: โกลัม (kolam) ลวดลายนกยูงเนื่องในเทศกาลดีปาวลีที่เคแอลเซ็นทรัล กรุงกัวลาลัมเปอร์
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-2.webp
+    alt: หัวชุดเชิดสิงโตสีสันสดใสหลายหัวทั้งสีชมพู เหลือง และขาว รวมกลุ่มกันอยู่หน้าร้านค้าระหว่างงานฉลองตรุษจีนบนถนนในมาเลเซีย โดยมีนักแสดงสวมหัวโตสีแดงอยู่ท่ามกลางกลุ่ม
+    kind: actual
+    origin: third-party
+    subject: คณะเชิดสิงโตในเทศกาลตรุษจีนที่เมืองซันดากัน รัฐซาบะฮ์
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelab_Sukan_Leong_Sin_20260303_140742.jpg
 ---
 
 วางแผนการเดินทาง การเปิดตัวสินค้า หรือการจ่ายเงินเดือนข้ามรัฐในมาเลเซีย แล้วคุณจะพบสิ่งที่ทำให้คนนอกตั้งตัวไม่ทันอย่างรวดเร็ว: วันที่เป็นวันหยุดนักขัตฤกษ์ในกัวลาลัมเปอร์อาจเป็นวันทำงานธรรมดาในกูชิง และในทางกลับกัน มาเลเซียไม่ได้มีรายการวันหยุดระดับชาติเพียงรายการเดียว หากแต่มีชั้นระดับชาติหนึ่งชั้นและชั้นระดับรัฐอีกสิบสามชั้นวางซ้อนกันอยู่

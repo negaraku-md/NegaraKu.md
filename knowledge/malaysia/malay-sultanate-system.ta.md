@@ -21,7 +21,7 @@ appliesTo: "பாரம்பரிய மலாய் சுல்தானக
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "95bf275cb438d0b7"
+sourceContentHash: "b2a4177ceb069795"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -69,6 +69,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-1.webp
+    alt: '''Istana Negara'' என பொறிக்கப்பட்ட, இஸ்தானா நெகாராவின் தங்கக் குவிமாடம் கொண்ட அலங்கார விழா நுழைவாயில், பின்னணியில் பசுமையான குன்றின் மேல் தங்க நிற குவிமாடக் கட்டிடங்களும் தொலைவில் கோலாலம்பூர் வானளாவிய காட்சியும் கொண்டு, பிரகாசமான பகல் வெளிச்சத்தில் நிற்கிறது.'
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூரின் ஜாலான் துவாங்கு அப்துல் ஹாலிம் (ஜாலான் டூத்தா) சாலையில் உள்ள தேசிய அரண்மனையான இஸ்தானா நெகாரா
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-2.webp
+    alt: நீண்ட விழா மலாய் கெரிஸ் கத்தி ஒன்று, அதன் மெல்லிய உறையின் அருகில் அருங்காட்சியக மேற்பரப்பில் கிடக்கிறது, 'Keris Alang Pahang' என அச்சிடப்பட்ட பெயர்ச்சீட்டுடன்.
+    kind: actual
+    origin: third-party
+    subject: அதிகாரத்தின் சின்னமான அரச விழாக் கத்தியான பகாங்கின் கெரிஸ் ஆலாங்
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 கோப்புகள் இல்லாத, படிவங்கள் இல்லாத, எண் இடப்பட்ட துறைகள் இல்லாத ஒரு நாட்டைக் கற்பனை செய்து பாருங்கள். கட்டளைகள் வாய்மொழியாகக் கொண்டு செல்லப்பட்டன, நீதி balairung-இல் (அரச மண்டபம்) வழங்கப்பட்டது, மேலும் சமூகத்தின் முழு அமைப்பும் நவீன மொழியில் துல்லியமாக மொழிபெயர்க்க முடியாத ஒரே சொல்லைச் சார்ந்திருந்தது: *daulat*. அதுதான் மலாய் சுல்தானகத்தின் உலகம் — கடற்கரைகளிலும் ஆறுகளிலும் நூற்றாண்டுகளாக ஆயிரக்கணக்கான உயிர்களை ஒழுங்குபடுத்திய அமைப்பு; அதன் நிழல் இன்றும் மலேசியாவின் அரசியலமைப்பில் காணப்படுகிறது.

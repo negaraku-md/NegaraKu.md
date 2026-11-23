@@ -86,6 +86,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/monsoons/body-1.webp
+    alt: Sebuah kereta merembeskan percikan air ketika memandu menerusi air banjir berwarna perang yang menenggelami jalan bandar semasa hujan lebat tropika.
+    kind: actual
+    origin: third-party
+    subject: Hujan lebat yang membanjiri Jalan Raja Chulan, Kuala Lumpur
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flooding-Kuala-Lumpur-20070217-006.jpg
+  - role: scene
+    src: /media/malaysia/monsoons/body-2.webp
+    alt: Hujan yang mencurah-curah turun ke atas lorong kampung yang tenggelam di bawah air banjir berlumpur, dengan pokok pisang dan sebatang tiang elektrik tercacak dalam air.
+    kind: actual
+    origin: third-party
+    subject: Air banjir monsun melitupi jalan kampung di Sandakan, Sabah
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_banjir_Sandakan_Januari_2025.jpg
 ---
 
 Setiap November, sebelum semak berita, ramai penduduk Kota Bharu, Kuala Terengganu dan Kuantan mula menyemak paras air sungai berhampiran rumah mereka. Ini bukan kebiasaan yang timbul daripada bencana luar jangka — ia satu jadual yang boleh diramal, berulang setiap tahun, dan puncanya ialah satu sistem angin bermusim yang sama yang juga menentukan bila pantai barat Semenanjung pula kering.

@@ -21,7 +21,7 @@ appliesTo: "ผู้อ่านที่สืบเสาะว่ารา�
 lang: "th"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ed321bc406e7501b"
+sourceContentHash: "30e1acf0176709ff"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -68,6 +68,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/pahang-sultanate/body-1.webp
+    alt: มัสยิดประจำรัฐสุลต่านอาหมัดชาห์ในเมืองกวนตัน มีโดมกลางขนาดใหญ่อยู่ด้านบนและมีหอคอยสูงขนาบข้าง มองเห็นในมุมตรงด้านหน้าเต็มภาพ
+    kind: actual
+    origin: third-party
+    subject: มัสยิดประจำรัฐสุลต่านอาหมัดชาห์ เมืองกวนตัน รัฐปะหัง
+    credit: Mellernie Ching / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Ahmad_Shah_State_Mosque_Full_View_1.jpg
+  - role: scene
+    src: /media/malaysia/pahang-sultanate/body-2.webp
+    alt: อาคารยุคอาณานิคมสีขาวทรงสมมาตร มีหลังคากระเบื้องสีแดงและประตูกลางทรงโค้ง สะท้อนอยู่ในสระน้ำนิ่งที่มีประติมากรรมนกกระเรียน เป็นที่ตั้งของพิพิธภัณฑ์สุลต่านอาบูบาการ์ในเมืองเปกัน
+    kind: actual
+    origin: third-party
+    subject: พิพิธภัณฑ์สุลต่านอาบูบาการ์ (อดีตพระราชวัง) เมืองเปกัน รัฐปะหัง
+    credit: Fikku fiq / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg
 ---
 
 ตามแม่น้ำปะหัง ที่เมืองหลวงเก่าของราชวงศ์คือเปอกัน (Pekan) ยังคงตั้งอยู่ใกล้ปากแม่น้ำ ราชบัลลังก์ที่เงียบงันมาสองศตวรรษถูกยกขึ้นอีกครั้ง ในปี ค.ศ. 1881 หัวหน้าของปะหังมารวมตัวกัน ไม่ใช่เพื่อสถาปนาคนแปลกหน้า แต่เพื่อฟื้นฟูตำแหน่งที่แผ่นดินของพวกเขาเคยมี — และชายผู้ที่พวกเขาประกาศให้เป็นสุลต่านนั้นได้ชิงสิทธินั้นมาด้วยหนทางที่ยากลำบาก โดยเอาชนะพระเชษฐาต่างมารดาของตนเองในสงครามอันยืดเยื้อและขมขื่น นี่คือเรื่องราวของการที่มงกุฎปะหังสูญหายไปในจักรวรรดิที่ใหญ่กว่า และการที่บุตรของอัครมหาเสนาบดีนำมันกลับคืนมา

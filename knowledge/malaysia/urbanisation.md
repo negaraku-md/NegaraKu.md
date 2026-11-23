@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/urbanisation/body-1.webp
+    alt: A row of two-storey colonial-era shophouses with arched five-foot-way arcades and timber-shuttered upper floors lines a quiet old-town street.
+    kind: actual
+    origin: third-party
+    subject: Heritage shophouse street in George Town, Penang
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
+  - role: scene
+    src: /media/malaysia/urbanisation/body-2.webp
+    alt: A white sail-shaped cable-stayed bridge spans a lake in front of rows of mid-rise apartment blocks under a grey sky.
+    kind: actual
+    origin: third-party
+    subject: Seri Wawasan Bridge in the planned federal city of Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 ## Three in four Malaysians now live somewhere DOSM calls "urban"

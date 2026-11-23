@@ -7778,7 +7778,7 @@
         "origin": "third-party",
         "subject": "Fraser's Hill (Bukit Fraser), a colonial-era hill station in the Titiwangsa Range, Pahang",
         "alt": "Tudor-style cottages and a restaurant nestled among lush green forested slopes at the Fraser's Hill station in the Titiwangsa mountains.",
-        "kb": 210
+        "kb": 164
       }
     ]
   },
@@ -7868,7 +7868,30 @@
       "alt": "The ruined stone Porta de Santiago gate of the A Famosa fortress in Melaka, its weathered laterite-and-plaster wall topped by a crumbling turret, an old bronze cannon standing on a brick base before it.",
       "kb": 165
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/malaysia/portuguese-melaka-1511/body-1.webp",
+        "credit": "Natalie.Thoo / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:1521_St_Paul%27s_Church_(Ruins)_Front_View.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "St Paul's Church ruins on St Paul's Hill, Melaka",
+        "alt": "The roofless laterite walls and empty window openings of the 1521 St Paul's Church ruins stand atop St Paul's Hill in Melaka beneath an open sky.",
+        "kb": 179
+      },
+      {
+        "file": "/media/malaysia/portuguese-melaka-1511/body-2.webp",
+        "credit": "Sharon Hahn Darlin / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Portuguese Square in the Portuguese Settlement (Kampung Portugis), Melaka",
+        "alt": "The cream-coloured entrance gateway to Portuguese Square, lined with terracotta-roofed buildings and restaurant signboards, opens onto a forecourt in Melaka's Portuguese Settlement.",
+        "kb": 180
+      }
+    ]
   },
   "malaysia/dutch-melaka": {
     "hero": {
@@ -7882,7 +7905,30 @@
       "alt": "The deep-red Dutch colonial Stadthuys and its red clock tower at Dutch Square in Melaka, with a flower-filled roundabout and directional signpost in front.",
       "kb": 170
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/malaysia/dutch-melaka/body-1.webp",
+        "credit": "Quahla / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Christ_Church_Melaka_1753.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Christ Church Melaka, the 1753 Dutch-built church",
+        "alt": "The deep red brick facade of Christ Church Melaka, with a white cross and a clock set into its gable, rises against the sky.",
+        "kb": 170
+      },
+      {
+        "file": "/media/malaysia/dutch-melaka/body-2.webp",
+        "credit": "Orderinchaos / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Melaka_BH_-_Dutch_Graveyard_(Kubur_Belanda)_1.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Dutch Graveyard (Kubur Belanda) on St Paul's Hill, Melaka",
+        "alt": "A whitewashed arched gateway bearing the sign 'Kubur Belanda / The Dutch Graveyard' opens onto a tree-shaded colonial burial ground on St Paul's Hill in Melaka.",
+        "kb": 161
+      }
+    ]
   },
   "malaysia/bujang-valley": {
     "hero": {
@@ -7906,7 +7952,7 @@
         "origin": "third-party",
         "subject": "A reconstructed candi (Hindu-Buddhist temple foundation) at the Bujang Valley archaeological complex, Kedah",
         "alt": "A stepped, square temple base built of reddish laterite blocks stands on bare earth beneath an open timber-and-tile protective shelter, with green hills and forest visible beyond.",
-        "kb": 230
+        "kb": 168
       },
       {
         "file": "/media/malaysia/bujang-valley/body-2.webp",
@@ -7933,7 +7979,30 @@
       "alt": "An aerial view of a tropical coastal plain where a winding river empties into the sea, towns and farm plots spreading inland and pale reclaimed land edging the shoreline beneath scattered clouds.",
       "kb": 164
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/malaysia/geography-overview/body-1.webp",
+        "credit": "Iqx Azmi / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mirror_Lake_(Ipoh)_-_Hidden_Oasis_in_the_Limestone_Valley_(Unsplash).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Limestone karst cliff at Tasik Cermin (Mirror Lake), Ipoh, Perak",
+        "alt": "A sheer grey limestone karst cliff draped in jungle rises straight out of a still emerald lake, its face mirrored in the dark water.",
+        "kb": 174
+      },
+      {
+        "file": "/media/malaysia/geography-overview/body-2.webp",
+        "credit": "Vyacheslav Argenberg / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Perhentian_Kecil_Island,_Malaysia,_Beach.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Tropical beach on Pulau Perhentian Kecil, Terengganu",
+        "alt": "A white-sand cove fringed with coconut palms and wooden chalets meets clear turquoise water on a small tropical island.",
+        "kb": 176
+      }
+    ]
   },
   "malaysia/bunga-raya-national-flower": {
     "hero": {
@@ -7984,7 +8053,30 @@
       "alt": "A wide view of Kuala Lumpur's dense city skyline under a bright cloudy sky, with the needle-topped KL Tower, clustered skyscrapers and a blue mosque dome rising above green treetops.",
       "kb": 147
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/malaysia/urbanisation/body-1.webp",
+        "credit": "Milei.vencel / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Heritage shophouse street in George Town, Penang",
+        "alt": "A row of two-storey colonial-era shophouses with arched five-foot-way arcades and timber-shuttered upper floors lines a quiet old-town street.",
+        "kb": 171
+      },
+      {
+        "file": "/media/malaysia/urbanisation/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Seri Wawasan Bridge in the planned federal city of Putrajaya",
+        "alt": "A white sail-shaped cable-stayed bridge spans a lake in front of rows of mid-rise apartment blocks under a grey sky.",
+        "kb": 153
+      }
+    ]
   },
   "settling-in/autogate-and-myborderpass": {
     "hero": {
@@ -8128,7 +8220,30 @@
       "alt": "Wind-driven rain lashes a cluster of palm trees bending over a deserted, water-slicked city plaza, their fronds streaming sideways beneath a leaden grey sky as high-rise towers fade into the downpour.",
       "kb": 84
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/malaysia/monsoons/body-1.webp",
+        "credit": "Gary Houston / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Flooding-Kuala-Lumpur-20070217-006.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A downpour flooding Jalan Raja Chulan, Kuala Lumpur",
+        "alt": "A car throws up a spray as it drives through brown floodwater covering a city street during a heavy tropical downpour.",
+        "kb": 145
+      },
+      {
+        "file": "/media/malaysia/monsoons/body-2.webp",
+        "credit": "Taufik / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Jalan_banjir_Sandakan_Januari_2025.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Monsoon floodwater over a kampung road in Sandakan, Sabah",
+        "alt": "Driving rain falls on a village lane submerged under muddy floodwater, with banana trees and a power pole standing in the water.",
+        "kb": 121
+      }
+    ]
   },
   "malaysia/perak-sultanate": {
     "hero": {
@@ -8253,7 +8368,30 @@
       "alt": "A grand white colonial-era palace with red-tiled roofs and Jawi script above its arched entrance, mirrored in a still reflecting pool flanked by crane sculptures under a cloudy sky.",
       "kb": 58
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/malaysia/pahang-sultanate/body-1.webp",
+        "credit": "Mellernie Ching / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sultan_Ahmad_Shah_State_Mosque_Full_View_1.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Sultan Ahmad Shah State Mosque, Kuantan, Pahang",
+        "alt": "The Sultan Ahmad Shah State Mosque in Kuantan, crowned by a large central dome and flanked by tall minarets, seen in full frontal view.",
+        "kb": 132
+      },
+      {
+        "file": "/media/malaysia/pahang-sultanate/body-2.webp",
+        "credit": "Fikku fiq / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Sultan Abu Bakar Museum (former royal palace), Pekan, Pahang",
+        "alt": "A symmetrical white colonial-era building with a red-tiled roof and an arched central doorway, mirrored in a still reflecting pool with crane sculptures, housing the Sultan Abu Bakar Museum in Pekan.",
+        "kb": 58
+      }
+    ]
   },
   "malaysia/jalur-gemilang": {
     "hero": {
@@ -8466,7 +8604,30 @@
       "alt": "A traditional Malay timber palace with woven bamboo walls, steep tiled roofs and carved gables stands beneath a bright sky.",
       "kb": 106
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/malaysia/malay-sultanate-system/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Istana Negara, the national palace on Jalan Tuanku Abdul Halim (Jalan Duta), Kuala Lumpur",
+        "alt": "The ornate gold-domed ceremonial gatehouse of Istana Negara, lettered 'Istana Negara', stands in bright daylight with the palace's golden-domed buildings on the green hill behind it and the Kuala Lumpur skyline beyond.",
+        "kb": 165
+      },
+      {
+        "file": "/media/malaysia/malay-sultanate-system/body-2.webp",
+        "credit": "Orhanghazi / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Keris Alang of Pahang, a royal ceremonial keris of authority",
+        "alt": "A long ceremonial Malay keris lies beside its slim sheath on a museum surface, with a printed label reading 'Keris Alang Pahang'.",
+        "kb": 45
+      }
+    ]
   },
   "malaysia/brunei-sultanate": {
     "hero": {
@@ -8605,7 +8766,30 @@
       "alt": "A weathered grey granite Buddha, legs lost, standing serene against green foliage on the sacred hill of Srivijaya's old capital.",
       "kb": 65
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/malaysia/srivijaya/body-1.webp",
+        "credit": "Gunawan Kartapranata / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Prasasti_Kedukan_Bukit_1.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Kedukan Bukit inscription (683 CE), a Srivijaya Old Malay stone",
+        "alt": "A small rounded grey stone incised with rows of ancient Old Malay script, the Srivijaya-era Kedukan Bukit inscription, shown on a museum stand.",
+        "kb": 165
+      },
+      {
+        "file": "/media/malaysia/srivijaya/body-2.webp",
+        "credit": "Gryffindor / Wikimedia Commons",
+        "license": "CC BY 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Muzium_Negara_KL32.JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Bronze Avalokiteshvara of Bidor (8th-9th century), National Museum, Kuala Lumpur",
+        "alt": "An eight-armed bronze statue of the bodhisattva Avalokiteshvara, found at Bidor in Perak, displayed upright in the National Museum in Kuala Lumpur.",
+        "kb": 145
+      }
+    ]
   },
   "malaysia/langkasuka": {
     "hero": {
@@ -9019,7 +9203,30 @@
       "alt": "A political map of Malaysia showing Peninsular Malaysia to the west and Sabah and Sarawak on Borneo to the east, labelled with major cities.",
       "kb": 85
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/malaysia/what-malaysia-is/body-1.webp",
+        "credit": "Sam Hidayat / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Petaling_Street,_a_Chinatown_area_in_the_city_of_Kuala_Lumpur_(1).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The ornamental Petaling Street gateway in Kuala Lumpur's Chinatown",
+        "alt": "A red-and-gold Chinese gateway arch topped with dragons reads JALAN PETALING / PETALING STREET above a welcome banner, with cars passing beneath.",
+        "kb": 166
+      },
+      {
+        "file": "/media/malaysia/what-malaysia-is/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Gombak_Selangor_Batu-Caves-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The golden Lord Murugan statue and rainbow stairway at Batu Caves, Selangor",
+        "alt": "A towering gold statue of Lord Murugan stands beside a steep flight of brightly coloured steps climbing a jungle-clad limestone cliff as visitors ascend.",
+        "kb": 258
+      }
+    ]
   },
   "malaysia/peninsular-and-borneo": {
     "hero": {
@@ -9033,7 +9240,30 @@
       "alt": "A regions map of Malaysia with Peninsular Malaysia and East Malaysia on Borneo shown as separate colour-coded blocks across the South China Sea.",
       "kb": 171
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/malaysia/peninsular-and-borneo/body-1.webp",
+        "credit": "Slleong / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_2.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Lowland rice paddies at Sekinchan, Selangor (Peninsular Malaysia)",
+        "alt": "A flat expanse of vivid green rice paddies stretches to a low tree-lined horizon under a wide pale-blue sky.",
+        "kb": 125
+      },
+      {
+        "file": "/media/malaysia/peninsular-and-borneo/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sukau_Sabah_Malaysia_Kinabatangan-River-at-Sukau-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Kinabatangan River at Sukau, Sabah (Bornean Malaysia)",
+        "alt": "A broad, muddy brown rainforest river curves between dense jungle banks, with small green wooden boats moored at a timber jetty.",
+        "kb": 175
+      }
+    ]
   },
   "malaysia/malaysia-at-a-glance": {
     "hero": {
@@ -9047,7 +9277,30 @@
       "alt": "The illuminated Kuala Lumpur skyline at night, dominated by the Petronas Twin Towers and surrounding skyscrapers.",
       "kb": 168
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/malaysia/malaysia-at-a-glance/body-1.webp",
+        "credit": "IQRemix / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Jalan_Alor_-_Kuala_Lumpur.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Jalan Alor night hawker-food street, Kuala Lumpur",
+        "alt": "A busy night-market food street glows under red paper lanterns as diners fill red plastic tables beside hawker stalls and a durian cart.",
+        "kb": 169
+      },
+      {
+        "file": "/media/malaysia/malaysia-at-a-glance/body-2.webp",
+        "credit": "Danielt. / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Rainforest hills of Taman Negara seen from Bukit Terisek, Pahang",
+        "alt": "Endless jungle-covered hills fade into blue haze beneath a cloudy sky, viewed over dense rainforest canopy from a hilltop clearing.",
+        "kb": 160
+      }
+    ]
   },
   "malaysia/ma63": {
     "hero": {
@@ -9196,7 +9449,30 @@
       "alt": "Colourful fireworks bursting over the Petronas Twin Towers and the Kuala Lumpur city skyline at night.",
       "kb": 167
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/malaysia/public-holidays-in-malaysia/body-1.webp",
+        "credit": "PulauKakatua19 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A Deepavali peacock kolam floor design at KL Sentral, Kuala Lumpur",
+        "alt": "A large, vividly coloured peacock-shaped kolam made of coloured powder laid out on the floor for Deepavali at KL Sentral in Kuala Lumpur.",
+        "kb": 159
+      },
+      {
+        "file": "/media/malaysia/public-holidays-in-malaysia/body-2.webp",
+        "credit": "Taufik / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kelab_Sukan_Leong_Sin_20260303_140742.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Chinese New Year lion dance troupe in Sandakan, Sabah",
+        "alt": "Several brightly coloured lion-dance costume heads in pink, yellow and white cluster at a shopfront during a Malaysian Chinese New Year street celebration, with a red big-head performer among them.",
+        "kb": 158
+      }
+    ]
   },
   "malaysia/coat-of-arms": {
     "hero": {

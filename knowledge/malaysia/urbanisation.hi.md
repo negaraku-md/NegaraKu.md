@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "हर वह व्यक्ति जो मलेशियाई जनसंख्या, श्रम या संपत्ति के आँकड़ों को सही ढंग से पढ़ना चाहता है — शोधकर्ता, नियोजक, और यह आकलन करने वाले व्यवसाय कि जनसंख्या और कार्यबल वास्तव में कहाँ हैं।"
 
 lang: "hi"
-sourceContentHash: "7490bc9be18b1f7b"
+sourceContentHash: "e0c791d30a8c1253"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/urbanisation/body-1.webp
+    alt: मेहराबदार 'फाइव-फुट-वे' बरामदों और लकड़ी के झिलमिली वाले ऊपरी तलों वाली दो-मंज़िला औपनिवेशिक-कालीन दुकान-घरों (shophouses) की एक कतार पुराने शहर की एक शांत गली के किनारे खड़ी है।
+    kind: actual
+    origin: third-party
+    subject: जॉर्ज टाउन, पेनांग की ऐतिहासिक shophouse गली
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
+  - role: scene
+    src: /media/malaysia/urbanisation/body-2.webp
+    alt: एक सफेद पाल के आकार का केबल-स्टेड पुल धूसर आसमान के नीचे मध्यम-ऊँचाई वाले अपार्टमेंट ब्लॉकों की कतारों के सामने एक झील को पार करता है।
+    kind: actual
+    origin: third-party
+    subject: नियोजित संघीय शहर पुत्राजया में Seri Wawasan पुल
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 ## अब हर चार में से तीन मलेशियाई ऐसी किसी जगह रहते हैं जिसे DOSM «शहरी» कहता है

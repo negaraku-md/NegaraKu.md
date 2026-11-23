@@ -24,7 +24,7 @@ appliesTo: "Sesiapa yang cuba membaca statistik populasi, buruh atau hartanah Ma
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7490bc9be18b1f7b"
+sourceContentHash: "e0c791d30a8c1253"
 
 status: "published"
 aiAssisted: true
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/urbanisation/body-1.webp
+    alt: Sebaris rumah kedai dua tingkat era kolonial dengan beranda lima kaki berlengkung dan tingkat atas berbingkai tingkap kayu memagari sebuah jalan bandar lama yang sunyi.
+    kind: actual
+    origin: third-party
+    subject: Jalan rumah kedai warisan di George Town, Pulau Pinang
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
+  - role: scene
+    src: /media/malaysia/urbanisation/body-2.webp
+    alt: Sebatang jambatan tambatan kabel putih berbentuk layar merentangi sebuah tasik di hadapan deretan blok pangsapuri bertingkat sederhana di bawah langit kelabu.
+    kind: actual
+    origin: third-party
+    subject: Jambatan Seri Wawasan di bandar raya persekutuan terancang Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 ## Tiga daripada empat rakyat Malaysia kini tinggal di tempat yang digelar "bandar" oleh DOSM

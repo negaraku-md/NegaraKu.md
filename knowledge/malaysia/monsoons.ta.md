@@ -24,7 +24,7 @@ appliesTo: "மலேசியாவின் வானிலையும் வ
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "4ffd8f41ebc3ba1f"
+sourceContentHash: "e17282933a445cf6"
 
 status: "published"
 aiAssisted: true
@@ -87,6 +87,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/monsoons/body-1.webp
+    alt: கடுமையான வெப்பமண்டலக் கனமழையின்போது, நகரத் தெருவை மூழ்கடித்த பழுப்பு நிற வெள்ள நீரின் வழியே ஒரு கார் நீரைத் தெறிக்கவிட்டபடி செல்கிறது.
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர், ஜாலான் ராஜா சுலானை வெள்ளத்தில் மூழ்கடித்த கனமழை
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flooding-Kuala-Lumpur-20070217-006.jpg
+  - role: scene
+    src: /media/malaysia/monsoons/body-2.webp
+    alt: சேற்று வெள்ள நீரில் மூழ்கிய கிராமப் பாதையின் மேல் கொட்டும் மழை பெய்கிறது; வாழை மரங்களும் ஒரு மின்கம்பமும் நீரில் நின்றுகொண்டிருக்கின்றன.
+    kind: actual
+    origin: third-party
+    subject: சபா, சண்டக்கானில் ஒரு கிராமச் சாலையை மூடிய பருவமழை வெள்ள நீர்
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_banjir_Sandakan_Januari_2025.jpg
 ---
 
 ஒவ்வொரு நவம்பரிலும், செய்திகளைப் பார்ப்பதற்கு முன்பே, கோத்தா பாரு (Kota Bharu), குவாலா திரங்கானு (Kuala Terengganu) மற்றும் குவாந்தான் (Kuantan) நகரங்களைச் சேர்ந்த பல குடியிருப்பாளர்கள் தங்கள் வீட்டருகிலுள்ள ஆற்று நீர்மட்டத்தைப் பார்க்கத் தொடங்குகிறார்கள். இது எதிர்பாராத பேரிடரிலிருந்து உருவான பழக்கம் அல்ல — இது ஆண்டுதோறும் மீண்டும் நிகழும், முன்கூட்டியே கணிக்கக்கூடிய ஒரு கால அட்டவணை; அதன் காரணம், தீபகற்பத்தின் மேற்குக் கடற்கரை எப்போது வறண்டிருக்கும் என்பதையும் தீர்மானிக்கும் அதே பருவகால காற்று அமைப்புதான்.

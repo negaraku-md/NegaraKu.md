@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Siapa saja yang mencoba memahami mengapa cuaca dan risiko banjir Malaysia berubah mengikuti musim — penduduk kawasan pantai, wisatawan, perencana bencana, pelajar geografi, dan siapa saja yang memeriksa peringatan cuaca MetMalaysia."
 
 lang: "id"
-sourceContentHash: "4ffd8f41ebc3ba1f"
+sourceContentHash: "e17282933a445cf6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/monsoons/body-1.webp
+    alt: Sebuah mobil memercikkan air saat melaju menembus air banjir berwarna cokelat yang menggenangi jalan kota ketika hujan tropis lebat.
+    kind: actual
+    origin: third-party
+    subject: Hujan deras yang membanjiri Jalan Raja Chulan, Kuala Lumpur
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flooding-Kuala-Lumpur-20070217-006.jpg
+  - role: scene
+    src: /media/malaysia/monsoons/body-2.webp
+    alt: Hujan deras turun ke atas gang kampung yang tergenang di bawah air banjir berlumpur, dengan pohon pisang dan sebuah tiang listrik tertancap di dalam air.
+    kind: actual
+    origin: third-party
+    subject: Air banjir musim hujan menggenangi jalan kampung di Sandakan, Sabah
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_banjir_Sandakan_Januari_2025.jpg
 ---
 
 Setiap November, sebelum memeriksa berita, banyak penduduk Kota Bharu, Kuala Terengganu, dan Kuantan mulai memeriksa ketinggian air sungai di dekat rumah mereka. Ini bukan kebiasaan yang timbul dari bencana tak terduga — ia adalah jadwal yang dapat diperkirakan, berulang setiap tahun, dan penyebabnya adalah satu sistem angin musiman yang sama yang juga menentukan kapan pantai barat Semenanjung justru kering.

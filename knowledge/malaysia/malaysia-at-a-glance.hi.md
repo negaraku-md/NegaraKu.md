@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "वह हर कोई जिसे मलेशिया के बुनियादी तथ्य चाहिए — जनसंख्या, क्षेत्रफल, राजधानी, मुद्रा, भाषा, GDP — जिसमें हर आँकड़ा किसी बिना-स्रोत वाले सारांश के बजाय उस विशिष्ट आधिकारिक रिलीज़ से जोड़ा गया हो जो उसे प्रकाशित करती है।"
 
 lang: "hi"
-sourceContentHash: "dc264630ca2e722e"
+sourceContentHash: "d19934fdb5cfb1a3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_skyline_at_night.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-1.webp
+    alt: एक व्यस्त रात्रि-बाज़ार की भोजन-गली लाल कागज़ी लालटेनों के नीचे चमकती है, जबकि भोजन करने वाले लोग हॉकर स्टॉलों और एक durian गाड़ी के पास लाल प्लास्टिक की मेज़ों को भर देते हैं।
+    kind: actual
+    origin: third-party
+    subject: Jalan Alor रात्रि हॉकर-भोजन गली, कुआलालंपुर
+    credit: IQRemix / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Alor_-_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-2.webp
+    alt: अनगिनत जंगल-ढकी पहाड़ियाँ एक बादल भरे आसमान के नीचे नीली धुंध में विलीन होती हैं, जिन्हें एक पहाड़ी की चोटी के खुले मैदान से घने वर्षावन की छतरी के ऊपर से देखा गया है।
+    kind: actual
+    origin: third-party
+    subject: Bukit Terisek, पहांग से दिखाई देती Taman Negara की वर्षावन पहाड़ियाँ
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 «मलेशिया कितना बड़ा है» या «मलेशिया की जनसंख्या क्या है» पूछिए और आपको इस पर निर्भर करते हुए अलग-अलग उत्तर मिलेंगे कि आप किस वेबसाइट पर पहुँचते हैं — कुछ 2020 की जनगणना के आँकड़े उद्धृत करती हैं, कुछ दो संशोधन पीछे का विश्व बैंक अनुमान। यह पृष्ठ इसी को सुधारने के लिए है: नीचे का हर आँकड़ा एक नामित आधिकारिक रिलीज़ से आता है, तारीख़-सहित, ताकि आप ठीक-ठीक देख सकें कि वह कितना ताज़ा है और स्वयं जाँच सकें।

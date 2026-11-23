@@ -19,7 +19,7 @@ keyTakeaways:
   - "استأنفت سلالة سلطنة ملقا الحكم في جوهور لاما عام 1528، ودامت تلك السلالة حتى 1699"
 appliesTo: "القرّاء الراغبون في فهم الأسباب التقنية والسياسية وراء سقوط ملقا عام 1511، وما حلّ بمؤسسات ملقا وسلالتها الملكية بعد فقدان المدينة."
 lang: "ar"
-sourceContentHash: "b8ff8e81366e5986"
+sourceContentHash: "fcab03d9a910f161"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-1.webp
+    alt: تقف الجدران اللاتيريتية بلا سقف والفتحات الفارغة لنوافذ أطلال كنيسة القديس بولس (St Paul's Church) التي يعود تاريخها إلى عام 1521 فوق تلة القديس بولس في ملقا تحت سماء مفتوحة.
+    kind: actual
+    origin: third-party
+    subject: أطلال كنيسة القديس بولس على تلة القديس بولس في ملقا
+    credit: Natalie.Thoo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:1521_St_Paul%27s_Church_(Ruins)_Front_View.jpg
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-2.webp
+    alt: تنفتح البوابة الكريمية اللون المؤدية إلى الساحة البرتغالية (Portuguese Square)، المحاطة بمبانٍ ذات أسقف من الطين الأحمر ولافتات المطاعم، على ساحة أمامية في المستوطنة البرتغالية بملقا.
+    kind: actual
+    origin: third-party
+    subject: الساحة البرتغالية في المستوطنة البرتغالية (Kampung Portugis) بملقا
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
 ---
 
 عشرة أيام. ذلك هو الفارق بين وصول الأسطول البرتغالي إلى مياه ملقا في 10 أغسطس 1511 ولحظة انتقال المدينة إلى أيدٍ أخرى في 24 أغسطس.

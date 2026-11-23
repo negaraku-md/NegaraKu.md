@@ -17,7 +17,7 @@ keyTakeaways:
   - "ปรเมศวร ผู้ก่อตั้งรัฐสุลต่านมะละการาวปี 1400 ถูกอธิบายในประเพณีมลายูและโดยรัฐบาลรัฐมะละกาเองว่าเป็นเจ้าชายจากปาเล็มบัง ที่ตั้งเดิมของศรีวิชัย"
 appliesTo: "ผู้อ่านที่ต้องการเข้าใจว่าอะไรปกครองช่องแคบมะละกาก่อนที่มะละกาจะปกครอง และการที่อำนาจทางทะเลที่มีฐานในสุมาตราลงเอยด้วยการป้อนเข้าสู่ประวัติศาสตร์ราชวงศ์ของคาบสมุทรมลายูเองโดยตรงอย่างไร"
 lang: "th"
-sourceContentHash: "69e06d6034cc1b41"
+sourceContentHash: "f1da482a879f3f09"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Buddha_Seguntang_Palembang.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/srivijaya/body-1.webp
+    alt: หินสีเทาทรงกลมขนาดเล็กที่สลักอักษรมลายูโบราณเป็นแถว คือจารึกเกอดูกันบูกิตสมัยศรีวิชัย จัดแสดงบนแท่นในพิพิธภัณฑ์
+    kind: actual
+    origin: third-party
+    subject: จารึกเกอดูกันบูกิต (Kedukan Bukit ปี ค.ศ. 683) ศิลาจารึกภาษามลายูโบราณสมัยศรีวิชัย
+    credit: Gunawan Kartapranata / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prasasti_Kedukan_Bukit_1.jpg
+  - role: scene
+    src: /media/malaysia/srivijaya/body-2.webp
+    alt: รูปหล่อสำริดพระโพธิสัตว์อวโลกิเตศวรแปดกร ซึ่งค้นพบที่บีโดร์ในรัฐเปรัก จัดแสดงในลักษณะตั้งตรงที่พิพิธภัณฑ์แห่งชาติในกรุงกัวลาลัมเปอร์
+    kind: actual
+    origin: third-party
+    subject: พระอวโลกิเตศวรสำริดแห่งบีโดร์ (คริสต์ศตวรรษที่ 8-9) พิพิธภัณฑ์แห่งชาติ กรุงกัวลาลัมเปอร์
+    credit: Gryffindor / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Negara_KL32.JPG
 ---
 
 เมื่อปรเมศวรหลบหนีจากเตอมาเซ็ก (Temasek) ในปี 1396 และมาพบริมฝั่งแม่น้ำที่กลายเป็นมะละกา เขาไม่ได้เป็นคนไร้ความสำคัญที่มาจากที่ไหนไม่รู้ รัฐบาลรัฐมะละกาเองยังคงบันทึกเขาไว้อย่างตรงไปตรงมาว่า "เจ้าชายผู้สูงศักดิ์จากปาเล็มบัง" ปาเล็มบัง (Palembang) บนแม่น้ำมูซี (Musi) ทางตอนใต้ของสุมาตรา เคยเป็นเมืองหลวงของอำนาจทางทะเลที่ปกครองช่องแคบมะละกาเป็นเวลาราวหกร้อยปีก่อนที่ปรเมศวรจะเกิด อาณาจักรที่เรียกว่าศรีวิชัย เมื่อถึงเวลาที่ปรเมศวรมาถึงคาบสมุทร อำนาจทางการเมืองของอาณาจักรนั้นก็หายไปแล้ว แต่รัฐสุลต่านมะละกาที่เขาก่อตั้งนำสายเลือดของมัน และเถียงได้ว่าทั้งแบบจำลองของสิ่งที่เมืองท่าการค้ามลายูควรเป็น ตรงออกมาจากซากปรักหักพังของศรีวิชัย

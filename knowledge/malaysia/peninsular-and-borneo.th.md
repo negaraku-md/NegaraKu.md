@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "นักเดินทาง ธุรกิจ และผู้ที่พยายามเข้าใจว่าเหตุใด 'มาเลเซีย' จึงบางครั้งทำตัวเหมือนสองการบริหารที่ใช้หนังสือเดินทางเดียวและธงเดียวร่วมกัน"
 
 lang: "th"
-sourceContentHash: "da887efa0f358f15"
+sourceContentHash: "2bb66aa7db2e1c0e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_regions_map.png'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-1.webp
+    alt: ผืนนาข้าวสีเขียวสดราบเรียบทอดยาวไปจนถึงเส้นขอบฟ้าที่มีแนวต้นไม้เตี้ย ภายใต้ท้องฟ้าสีฟ้าซีดอันกว้างใหญ่
+    kind: actual
+    origin: third-party
+    subject: นาข้าวพื้นราบที่เซอกินจัน รัฐสลังงอร์ (มาเลเซียคาบสมุทร)
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_2.jpg
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-2.webp
+    alt: แม่น้ำป่าดิบสีน้ำตาลขุ่นกว้างใหญ่คดเคี้ยวไปตามริมฝั่งป่าทึบ มีเรือไม้สีเขียวลำเล็กผูกจอดอยู่ที่ท่าเทียบเรือไม้
+    kind: actual
+    origin: third-party
+    subject: แม่น้ำกินาบาตังงันที่ซูเกา รัฐซาบะฮ์ (มาเลเซียบอร์เนียว)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sukau_Sabah_Malaysia_Kinabatangan-River-at-Sukau-01.jpg
 ---
 
 บินภายในประเทศจากกัวลาลัมเปอร์ไปโกตากินาบาลูแล้วคุณลงจอดในประเทศเดียวกับที่คุณจากมา สกุลเงินเดียวกัน หนังสือเดินทางเดียวกัน ธงเดียวกันบนหางเครื่อง แต่ที่โถงผู้โดยสารขาเข้า คุณต่อคิวที่เคาน์เตอร์แบบตรวจคนเข้าเมืองและมีคนตรวจบัตรประจำตัวหรือหนังสือเดินทางของคุณก่อนที่คุณจะผ่านได้ ไม่มีเที่ยวบินอื่นภายในมาเลเซียที่ทำงานเช่นนั้น

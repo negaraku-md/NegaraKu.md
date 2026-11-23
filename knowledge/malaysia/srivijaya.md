@@ -69,6 +69,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Buddha_Seguntang_Palembang.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/srivijaya/body-1.webp
+    alt: A small rounded grey stone incised with rows of ancient Old Malay script, the Srivijaya-era Kedukan Bukit inscription, shown on a museum stand.
+    kind: actual
+    origin: third-party
+    subject: The Kedukan Bukit inscription (683 CE), a Srivijaya Old Malay stone
+    credit: Gunawan Kartapranata / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prasasti_Kedukan_Bukit_1.jpg
+  - role: scene
+    src: /media/malaysia/srivijaya/body-2.webp
+    alt: An eight-armed bronze statue of the bodhisattva Avalokiteshvara, found at Bidor in Perak, displayed upright in the National Museum in Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Bronze Avalokiteshvara of Bidor (8th-9th century), National Museum, Kuala Lumpur
+    credit: Gryffindor / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Negara_KL32.JPG
 ---
 
 When Parameswara fled Temasek in 1396 and stumbled onto the riverbank that became Melaka, he wasn't a nobody arriving out of nowhere. Melaka's own state government still records him, plainly, as "a royal prince from Palembang." Palembang, on the Musi River in southern Sumatra, had been the capital of a sea power that ruled the Strait of Melaka for roughly six hundred years before Parameswara was born — a kingdom called Srivijaya. By the time Parameswara reached the peninsula, that kingdom's political power was already gone. But the Melaka Sultanate he founded carried its bloodline, and arguably its whole model of what a Malay trading port should be, straight out of Srivijaya's ruins.

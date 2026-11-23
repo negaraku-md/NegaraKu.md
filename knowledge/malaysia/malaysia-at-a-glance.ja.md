@@ -23,7 +23,7 @@ appliesTo: "マレーシアの基本的事実——人口、面積、首都、�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "dc264630ca2e722e"
+sourceContentHash: "d19934fdb5cfb1a3"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_skyline_at_night.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-1.webp
+    alt: にぎやかな夜市の屋台街が赤い提灯に照らされて輝き、屋台とドリアンの屋台の脇で、食事客が赤いプラスチックのテーブルを埋め尽くしている。
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールのジャラン・アロー屋台街
+    credit: IQRemix / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Alor_-_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-2.webp
+    alt: 果てしなく続くジャングルに覆われた丘陵が、曇り空の下で青い霞の中へと消えてゆく様子を、丘の上の開けた場所から密生した熱帯雨林の樹冠越しに望む。
+    kind: actual
+    origin: third-party
+    subject: パハン州のブキット・テリセックから眺めるタマン・ヌガラの熱帯雨林の丘陵
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 「マレーシアはどれくらいの大きさか」「マレーシアの人口はどれくらいか」と尋ねれば、どのウェブサイトにたどり着くかによって異なる答えが返ってくる——あるものは2020年国勢調査の数字を引用し、あるものは2回分古い世界銀行の推計値を引用している。本ページはその問題を解決するために存在する。以下の数値はすべて、具名の公式発表に基づき発表日が付されているため、それがどれだけ新しいかを正確に確認でき、自分自身で検証することもできる。

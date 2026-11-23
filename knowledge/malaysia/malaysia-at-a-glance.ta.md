@@ -24,7 +24,7 @@ appliesTo: "மலேசியாவின் அடிப்படை உண்
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "dc264630ca2e722e"
+sourceContentHash: "d19934fdb5cfb1a3"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_skyline_at_night.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-1.webp
+    alt: சிவப்பு காகித விளக்குகளின் கீழ் பிரகாசிக்கும் பரபரப்பான இரவுச் சந்தை உணவுத் தெரு; வாடிக்கையாளர்கள் தெருவோரக் கடை மற்றும் ஒரு துரியன் தள்ளுவண்டிக்கு அருகில் சிவப்பு பிளாஸ்டிக் மேசைகளை நிரப்புகிறார்கள்.
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர், ஜாலான் ஆலோர் இரவு வீதி உணவுத் தெரு
+    credit: IQRemix / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Alor_-_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-2.webp
+    alt: மேகமூட்டமான வானத்தின் கீழ், முடிவில்லா காட்டால் மூடப்பட்ட குன்றுகள் நீல மூடுபனியாக மறைகின்றன; குன்றுச்சியில் உள்ள ஒரு வெளியிடத்திலிருந்து அடர்ந்த மழைக்காட்டு மேற்பரப்பின் மேலாகக் காணப்படுகிறது.
+    kind: actual
+    origin: third-party
+    subject: பகாங், புக்கிட் தெரிசெக்கிலிருந்து காணப்படும் தமன் நெகாராவின் மழைக்காட்டுக் குன்றுகள்
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 "மலேசியா எவ்வளவு பெரியது" அல்லது "மலேசியாவின் மக்கள்தொகை என்ன" என்று கேளுங்கள் — நீங்கள் எந்த வலைத்தளத்தை அடைகிறீர்கள் என்பதைப் பொறுத்து வெவ்வேறு பதிலைப் பெறுவீர்கள்; சிலர் 2020 மக்கள்தொகை கணக்கெடுப்பு எண்களை மேற்கோள் காட்டுகின்றனர், சிலர் இரண்டு திருத்தங்கள் பின்தங்கிய உலக வங்கியின் (World Bank) மதிப்பீட்டை மேற்கோள் காட்டுகின்றனர். இதைச் சரிசெய்யவே இந்தப் பக்கம் உள்ளது: கீழேயுள்ள ஒவ்வொரு எண்ணும் ஒரு பெயரிடப்பட்ட அலுவல்முறை வெளியீட்டிலிருந்து, தேதியுடன் வருகிறது; அதனால் அது எவ்வளவு புதியது என்பதை நீங்கள் துல்லியமாகக் காணலாம், நீங்களே சரிபார்க்கவும் முடியும்.

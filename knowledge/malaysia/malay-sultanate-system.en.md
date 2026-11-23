@@ -20,7 +20,7 @@ appliesTo: "Anyone who wants to understand the structure and role of the traditi
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "95bf275cb438d0b7"
+sourceContentHash: "b2a4177ceb069795"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -68,6 +68,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-1.webp
+    alt: The ornate gold-domed ceremonial gatehouse of Istana Negara, lettered 'Istana Negara', stands in bright daylight with the palace's golden-domed buildings on the green hill behind it and the Kuala Lumpur skyline beyond.
+    kind: actual
+    origin: third-party
+    subject: Istana Negara, the national palace on Jalan Tuanku Abdul Halim (Jalan Duta), Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-2.webp
+    alt: A long ceremonial Malay keris lies beside its slim sheath on a museum surface, with a printed label reading 'Keris Alang Pahang'.
+    kind: actual
+    origin: third-party
+    subject: Keris Alang of Pahang, a royal ceremonial keris of authority
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 Imagine a state with no files, no forms, no numbered departments. Orders were carried by word of mouth, justice was pronounced at the balairung, and the entire order of society rested on a single word that cannot be translated precisely into modern language: *daulat*. That was the world of the Malay sultanate — a system that ordered thousands of lives along coasts and rivers for centuries, and whose shadow is still visible in Malaysia's Constitution today.

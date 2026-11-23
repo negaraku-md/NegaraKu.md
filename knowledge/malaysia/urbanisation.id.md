@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang mencoba membaca statistik populasi, tenaga kerja, atau properti Malaysia dengan benar — peneliti, perencana, dan bisnis yang menilai di mana sebenarnya penduduk dan tenaga kerja berada."
 
 lang: "id"
-sourceContentHash: "7490bc9be18b1f7b"
+sourceContentHash: "e0c791d30a8c1253"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/urbanisation/body-1.webp
+    alt: Sederet ruko dua lantai era kolonial dengan serambi lima kaki berlengkung dan lantai atas berdaun jendela kayu memagari sebuah jalan kota tua yang sepi.
+    kind: actual
+    origin: third-party
+    subject: Jalan ruko warisan di George Town, Penang
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
+  - role: scene
+    src: /media/malaysia/urbanisation/body-2.webp
+    alt: Sebuah jembatan kabel putih berbentuk layar membentang di atas sebuah danau di depan deretan blok apartemen bertingkat sedang di bawah langit kelabu.
+    kind: actual
+    origin: third-party
+    subject: Jembatan Seri Wawasan di kota federal terencana Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 ## Tiga dari empat rakyat Malaysia kini tinggal di tempat yang disebut "perkotaan" oleh DOSM

@@ -24,7 +24,7 @@ appliesTo: "Sesiapa yang memerlukan fakta asas Malaysia — populasi, keluasan, 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "dc264630ca2e722e"
+sourceContentHash: "d19934fdb5cfb1a3"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_skyline_at_night.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-1.webp
+    alt: Sebatang jalan makanan pasar malam yang sibuk bercahaya di bawah tanglung kertas merah ketika pengunjung memenuhi meja plastik merah di sebelah gerai penjaja dan sebuah kereta sorong durian.
+    kind: actual
+    origin: third-party
+    subject: Jalan makanan penjaja waktu malam Jalan Alor, Kuala Lumpur
+    credit: IQRemix / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Alor_-_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-2.webp
+    alt: Bukit-bukau berselaput hutan tanpa penghujung lenyap menjadi jerebu biru di bawah langit mendung, dilihat merentasi silara hutan hujan tebal dari suatu lapang di puncak bukit.
+    kind: actual
+    origin: third-party
+    subject: Bukit hutan hujan Taman Negara dilihat dari Bukit Terisek, Pahang
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 Tanya "berapa besar Malaysia" atau "berapa populasi Malaysia" dan anda akan mendapat jawapan berbeza-beza bergantung kepada laman web mana yang anda kunjungi — ada yang memetik angka banci 2020, ada yang memetik anggaran Bank Dunia yang sudah dua semakan ketinggalan. Halaman ini wujud untuk membetulkan keadaan itu: setiap angka di bawah datang daripada keluaran rasmi bernama, bertarikh, supaya anda dapat melihat dengan tepat betapa terkininya ia dan menyemaknya sendiri.

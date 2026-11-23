@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Cualquiera que intente entender por qué el clima y el riesgo de inundación de Malasia cambian con las estaciones — residentes de zonas costeras, viajeros, planificadores de emergencias, estudiantes de geografía y quien consulta las alertas meteorológicas de MetMalaysia."
 
 lang: "es"
-sourceContentHash: "4ffd8f41ebc3ba1f"
+sourceContentHash: "e17282933a445cf6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/monsoons/body-1.webp
+    alt: Un coche levanta una rociada al circular por aguas pardas de inundación que cubren una calle de la ciudad durante un intenso aguacero tropical.
+    kind: actual
+    origin: third-party
+    subject: Un aguacero inunda Jalan Raja Chulan, Kuala Lumpur
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flooding-Kuala-Lumpur-20070217-006.jpg
+  - role: scene
+    src: /media/malaysia/monsoons/body-2.webp
+    alt: La lluvia torrencial cae sobre un camino de aldea sumergido bajo aguas turbias de inundación, con plataneros y un poste eléctrico en pie dentro del agua.
+    kind: actual
+    origin: third-party
+    subject: Agua de inundación monzónica sobre un camino de kampung en Sandakan, Sabah
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_banjir_Sandakan_Januari_2025.jpg
 ---
 
 Cada noviembre, antes de mirar las noticias, muchos residentes de Kota Bharu, Kuala Terengganu y Kuantan empiezan a vigilar los niveles de agua de los ríos cercanos a sus casas. No es un hábito nacido de un desastre inesperado — es un calendario previsible que se repite cada año, y su causa es el mismo sistema de vientos estacionales que también determina cuándo la costa oeste de la Península se vuelve seca.

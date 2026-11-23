@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang cố hiểu vì sao thời tiết và nguy cơ ngập lụt của Malaysia thay đổi theo mùa — cư dân vùng ven biển, du khách, người lập kế hoạch phòng chống thiên tai, học sinh học địa lý và bất kỳ ai theo dõi cảnh báo thời tiết của MetMalaysia."
 
 lang: "vi"
-sourceContentHash: "4ffd8f41ebc3ba1f"
+sourceContentHash: "e17282933a445cf6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/monsoons/body-1.webp
+    alt: Một chiếc ô tô bắn tung nước khi chạy qua dòng nước lũ màu nâu ngập con phố thành phố trong một trận mưa nhiệt đới xối xả.
+    kind: actual
+    origin: third-party
+    subject: Trận mưa lớn gây ngập đường Jalan Raja Chulan, Kuala Lumpur
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flooding-Kuala-Lumpur-20070217-006.jpg
+  - role: scene
+    src: /media/malaysia/monsoons/body-2.webp
+    alt: Mưa như trút xuống một con ngõ làng ngập trong dòng nước lũ đục bùn, với những cây chuối và một cột điện đứng giữa nước.
+    kind: actual
+    origin: third-party
+    subject: Nước lũ mùa mưa tràn con đường làng ở Sandakan, Sabah
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_banjir_Sandakan_Januari_2025.jpg
 ---
 
 Mỗi tháng Mười Một, trước khi xem tin tức, nhiều cư dân Kota Bharu, Kuala Terengganu và Kuantan bắt đầu kiểm tra mực nước sông gần nhà mình. Đây không phải là một thói quen nảy sinh từ một thảm họa bất ngờ — nó là một lịch trình có thể dự đoán, lặp lại mỗi năm, và nguyên nhân của nó là cùng một hệ thống gió theo mùa vốn cũng quyết định khi nào bờ tây Bán đảo lại khô.

@@ -81,6 +81,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-1.webp
+    alt: The deep red brick facade of Christ Church Melaka, with a white cross and a clock set into its gable, rises against the sky.
+    kind: actual
+    origin: third-party
+    subject: Christ Church Melaka, the 1753 Dutch-built church
+    credit: Quahla / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Christ_Church_Melaka_1753.jpg
+  - role: scene
+    src: /media/malaysia/dutch-melaka/body-2.webp
+    alt: A whitewashed arched gateway bearing the sign 'Kubur Belanda / The Dutch Graveyard' opens onto a tree-shaded colonial burial ground on St Paul's Hill in Melaka.
+    kind: actual
+    origin: third-party
+    subject: The Dutch Graveyard (Kubur Belanda) on St Paul's Hill, Melaka
+    credit: Orderinchaos / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_BH_-_Dutch_Graveyard_(Kubur_Belanda)_1.jpg
 ---
 
 A company spends seven months and an alliance with a foreign sultanate to conquer a port. Then it spends the next century and a half making sure that port never gets rich.

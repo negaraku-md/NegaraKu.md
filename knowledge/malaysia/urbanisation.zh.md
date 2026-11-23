@@ -23,7 +23,7 @@ appliesTo: "任何需要正确解读马来西亚人口、劳动力或房地产�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7490bc9be18b1f7b"
+sourceContentHash: "e0c791d30a8c1253"
 
 status: "published"
 aiAssisted: true
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/urbanisation/body-1.webp
+    alt: 一排两层楼的殖民时期店屋，设有拱形的五脚基骑楼，楼上是木百叶窗，排列在一条安静的老城街道上。
+    kind: actual
+    origin: third-party
+    subject: 槟城乔治市的传统店屋街
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
+  - role: scene
+    src: /media/malaysia/urbanisation/body-2.webp
+    alt: 一座白色帆形斜拉桥横跨一片湖面，桥前是一排排中层公寓楼，上方是阴沉的天空。
+    kind: actual
+    origin: third-party
+    subject: 规划建设的联邦行政中心布城的斯里哇哇山大桥（Seri Wawasan Bridge）
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 ## 四分之三的大马人如今住在DOSM认定的「城市」里

@@ -18,7 +18,7 @@ keyTakeaways:
   - "पूर्वोत्तर मानसून (नव–मार्च) प्रायद्वीप के पूर्वी तट, पश्चिमी सारावाक और उत्तरी साबाह को भिगोता है; दक्षिण-पश्चिम मानसून (मई–सित) तुलनात्मक रूप से सूखा है — एक लय जो आज भी बाढ़ के मौसम और खेती के कैलेंडर को आकार देती है (मलेशियाई मौसम विज्ञान विभाग)"
 appliesTo: "कोई भी जो यह समझने की कोशिश कर रहा है कि मलेशिया की आबादी, शहर और बाढ़ का ख़तरा वहीं क्यों एकत्रित हैं जहाँ हैं — छात्र, नवागंतुक, योजनाकार, या कोई भी जो इस बात से उलझन में है कि 'मानसून का मौसम' अलग-अलग तटों पर अलग-अलग चीज़ें क्यों मतलब रखता है।"
 lang: "hi"
-sourceContentHash: "e7dc1f31338ea13e"
+sourceContentHash: "db06d54e1190b497"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Unknown_malaysia.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/geography-overview/body-1.webp
+    alt: जंगल से ढकी एक सीधी धूसर चूना-पत्थर की कार्स्ट चट्टान एक शांत पन्ना-हरे झील से सीधे ऊपर उठती है, और उसका मुख गहरे पानी में प्रतिबिंबित होता है।
+    kind: actual
+    origin: third-party
+    subject: Tasik Cermin (Mirror Lake), इपोह, पेराक की चूना-पत्थर कार्स्ट चट्टान
+    credit: Iqx Azmi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mirror_Lake_(Ipoh)_-_Hidden_Oasis_in_the_Limestone_Valley_(Unsplash).jpg
+  - role: scene
+    src: /media/malaysia/geography-overview/body-2.webp
+    alt: नारियल के पेड़ों और लकड़ी के शैले से घिरी एक सफेद-रेत वाली खाड़ी एक छोटे उष्णकटिबंधीय द्वीप पर साफ फ़िरोज़ी पानी से मिलती है।
+    kind: actual
+    origin: third-party
+    subject: Pulau Perhentian Kecil, तेरेंगानु का उष्णकटिबंधीय समुद्र-तट
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Kecil_Island,_Malaysia,_Beach.jpg
 ---
 
 कोटा किनाबालू से कुआलालंपुर के लिए उड़िए और आप एक आंतरिक सीमा से कहीं अधिक पार करते हैं — आप खुले समुद्र के कई सौ किलोमीटर पार करते हैं। मलेशिया एक ऐसा देश है जो दो अलग भूभागों में जोड़ा गया है, और आकार का यह साधारण तथ्य चुपचाप लगभग बाकी सब कुछ तय कर चुका है: शहर कहाँ हैं, धान के खेत कहाँ हैं, और कौन-सा तट हर दिसंबर बाढ़ में डूबता है।

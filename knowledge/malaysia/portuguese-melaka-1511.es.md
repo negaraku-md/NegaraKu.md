@@ -19,7 +19,7 @@ keyTakeaways:
   - "El linaje del Sultanato de Melaka reanudó el gobierno en Johor Lama en 1528, y esa dinastía duró hasta 1699"
 appliesTo: "Lectores que quieren comprender las razones técnicas y políticas detrás de la caída de Melaka en 1511, y qué sucedió con las instituciones y el linaje real de Melaka tras la pérdida de la ciudad."
 lang: "es"
-sourceContentHash: "b8ff8e81366e5986"
+sourceContentHash: "fcab03d9a910f161"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-1.webp
+    alt: Los muros de laterita sin techo y los vanos vacíos de las ventanas de las ruinas de la iglesia de San Pablo, de 1521, se alzan en lo alto de la colina de San Pablo, en Melaka, bajo un cielo abierto.
+    kind: actual
+    origin: third-party
+    subject: Ruinas de la iglesia de San Pablo en la colina de San Pablo, Melaka
+    credit: Natalie.Thoo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:1521_St_Paul%27s_Church_(Ruins)_Front_View.jpg
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-2.webp
+    alt: La portada de entrada de color crema de la Plaza Portuguesa (Portuguese Square), flanqueada por edificios con tejados de terracota y letreros de restaurantes, se abre a una explanada en el Asentamiento Portugués de Melaka.
+    kind: actual
+    origin: third-party
+    subject: La Plaza Portuguesa en el Asentamiento Portugués (Kampung Portugis), Melaka
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
 ---
 
 Diez días. Esa es la diferencia entre la llegada de la flota portuguesa a las aguas de Melaka el 10 de agosto de 1511 y el momento en que la ciudad cambió de manos el 24 de agosto.

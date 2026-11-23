@@ -19,7 +19,7 @@ keyTakeaways:
   - "मलक्का सल्तनत की वंश-परंपरा ने 1528 में जोहोर लामा में शासन पुनः आरंभ किया, और वह राजवंश 1699 तक चला"
 appliesTo: "वे पाठक जो 1511 में मलक्का के पतन के पीछे के तकनीकी और राजनीतिक कारणों को समझना चाहते हैं, और यह कि शहर खोने के बाद मलक्का की संस्थाओं और राजवंश-परंपरा का क्या हुआ।"
 lang: "hi"
-sourceContentHash: "b8ff8e81366e5986"
+sourceContentHash: "fcab03d9a910f161"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-1.webp
+    alt: सन् 1521 के सेंट पॉल चर्च के खंडहरों की बिना छत वाली लेटराइट दीवारें और खाली खिड़की के खुले हिस्से मेलाका की सेंट पॉल पहाड़ी पर खुले आसमान के नीचे खड़े हैं।
+    kind: actual
+    origin: third-party
+    subject: मेलाका में सेंट पॉल पहाड़ी पर सेंट पॉल चर्च के खंडहर
+    credit: Natalie.Thoo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:1521_St_Paul%27s_Church_(Ruins)_Front_View.jpg
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-2.webp
+    alt: टेराकोटा छतों वाली इमारतों और रेस्तराँ के साइनबोर्डों से घिरा पुर्तगाली चौक (Portuguese Square) का क्रीम रंग का प्रवेश द्वार मेलाका की पुर्तगाली बस्ती में एक प्रांगण की ओर खुलता है।
+    kind: actual
+    origin: third-party
+    subject: मेलाका की पुर्तगाली बस्ती (Kampung Portugis) में पुर्तगाली चौक
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
 ---
 
 दस दिन। यही वह अंतर है जो 10 अगस्त 1511 को मलक्का के जलक्षेत्र में पुर्तगाली बेड़े के आगमन और 24 अगस्त को शहर के हाथ बदलने के बीच का है।

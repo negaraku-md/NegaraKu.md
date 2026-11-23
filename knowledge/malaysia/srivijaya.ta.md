@@ -20,7 +20,7 @@ appliesTo: "மலாக்கா ஆட்சி செய்வதற்கு
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "69e06d6034cc1b41"
+sourceContentHash: "f1da482a879f3f09"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -71,6 +71,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Buddha_Seguntang_Palembang.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/srivijaya/body-1.webp
+    alt: பழங்கால பழைய மலாய் எழுத்து வரிகள் செதுக்கப்பட்ட சிறிய வட்டமான சாம்பல் நிறக் கல், ஸ்ரீவிஜய கால கெடுக்கான் புக்கிட் கல்வெட்டு, அருங்காட்சியக அடித்தளத்தில் காட்சிக்கு வைக்கப்பட்டுள்ளது.
+    kind: actual
+    origin: third-party
+    subject: கெடுக்கான் புக்கிட் கல்வெட்டு (கி.பி. 683), ஸ்ரீவிஜய கால பழைய மலாய் கல்
+    credit: Gunawan Kartapranata / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prasasti_Kedukan_Bukit_1.jpg
+  - role: scene
+    src: /media/malaysia/srivijaya/body-2.webp
+    alt: பேராக்கில் உள்ள பிடோரில் கண்டெடுக்கப்பட்ட, எட்டுக் கரங்கள் கொண்ட போதிசத்துவர் அவலோகிதேஸ்வரரின் வெண்கலச் சிலை, கோலாலம்பூர் தேசிய அருங்காட்சியகத்தில் நிமிர்ந்து நிறுத்தப்பட்டுக் காட்சிக்கு வைக்கப்பட்டுள்ளது.
+    kind: actual
+    origin: third-party
+    subject: பிடோரிலிருந்து கிடைத்த வெண்கல அவலோகிதேஸ்வரர் (8ஆம்–9ஆம் நூற்றாண்டு), கோலாலம்பூர் தேசிய அருங்காட்சியகம்
+    credit: Gryffindor / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Negara_KL32.JPG
 ---
 
 1396இல் Parameswara Temasek-இலிருந்து தப்பியோடி, பின்னர் மலாக்காவாக மாறிய ஆற்றங்கரையை எதிர்பாராமல் அடைந்தபோது, அவர் எங்கிருந்தோ வந்த ஒரு சாதாரண மனிதர் அல்ல. மலாக்காவின் சொந்த மாநில அரசாங்கமே இன்னும் அவரை வெளிப்படையாக "a royal prince from Palembang" (Palembang-இலிருந்து வந்த ஒரு அரச இளவரசர்) என்று பதிவு செய்கிறது. தெற்கு சுமத்ராவில் Musi ஆற்றின் மீது அமைந்த Palembang, Parameswara பிறப்பதற்கு சுமார் அறுநூறு ஆண்டுகளுக்கு முன்பே மலாக்கா நீரிணையை ஆண்ட ஒரு கடல் சக்தியின் தலைநகராக இருந்தது — ஸ்ரீவிஜயா எனப்படும் அரசு. Parameswara தீபகற்பத்தை அடையும் வேளையில், அந்த அரசின் அரசியல் அதிகாரம் ஏற்கனவே மறைந்துவிட்டிருந்தது. ஆனால் அவர் நிறுவிய மலாக்கா சுல்தானகம் அதன் இரத்த வழித்தோன்றலையும், ஒருவேளை ஒரு மலாய் வர்த்தகத் துறைமுகம் எப்படி இருக்க வேண்டும் என்பதற்கான அதன் முழு மாதிரியையும், ஸ்ரீவிஜயாவின் இடிபாடுகளிலிருந்து நேரடியாகச் சுமந்து கொண்டது.

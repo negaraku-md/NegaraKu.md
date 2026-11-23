@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "ผู้ที่พยายามอ่านสถิติประชากร แรงงาน หรืออสังหาริมทรัพย์ของมาเลเซียอย่างถูกต้อง คือ นักวิจัย นักวางแผน และธุรกิจที่ประเมินว่าประชากรและกำลังแรงงานอยู่ที่ใดจริง"
 
 lang: "th"
-sourceContentHash: "7490bc9be18b1f7b"
+sourceContentHash: "e0c791d30a8c1253"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/urbanisation/body-1.webp
+    alt: แถวตึกแถวสองชั้นยุคอาณานิคมที่มีระเบียงทางเดินห้าฟุตทรงโค้งและชั้นบนบานเกล็ดไม้ เรียงรายอยู่ริมถนนเมืองเก่าอันเงียบสงบ
+    kind: actual
+    origin: third-party
+    subject: ถนนตึกแถวมรดกในย่านจอร์จทาวน์ รัฐปีนัง
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
+  - role: scene
+    src: /media/malaysia/urbanisation/body-2.webp
+    alt: สะพานขึงรูปใบเรือสีขาวทอดข้ามทะเลสาบด้านหน้าอาคารอพาร์ตเมนต์ขนาดกลางที่เรียงเป็นแถวภายใต้ท้องฟ้าสีเทา
+    kind: actual
+    origin: third-party
+    subject: สะพานเซอรีวาวาซันในเมืองปุตราจายา เมืองหลวงราชการสหพันธ์ที่วางผังไว้
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 ## สามในสี่ของชาวมาเลเซียปัจจุบันอาศัยอยู่ที่ที่ DOSM เรียกว่า "เขตเมือง"

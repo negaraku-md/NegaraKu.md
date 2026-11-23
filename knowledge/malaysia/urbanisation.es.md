@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Cualquiera que intente leer correctamente las estadísticas malasias de población, trabajo o propiedad — investigadores, planificadores y empresas que evalúan dónde están realmente la población y la fuerza laboral."
 
 lang: "es"
-sourceContentHash: "7490bc9be18b1f7b"
+sourceContentHash: "e0c791d30a8c1253"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/urbanisation/body-1.webp
+    alt: Una hilera de shophouses de dos plantas de la época colonial, con arcadas de «paso de cinco pies» y pisos superiores de postigos de madera, bordea una tranquila calle del casco antiguo.
+    kind: actual
+    origin: third-party
+    subject: Calle de shophouses patrimoniales en George Town, Penang
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
+  - role: scene
+    src: /media/malaysia/urbanisation/body-2.webp
+    alt: Un puente atirantado blanco en forma de vela cruza un lago frente a hileras de bloques de apartamentos de altura media bajo un cielo gris.
+    kind: actual
+    origin: third-party
+    subject: Puente Seri Wawasan en la ciudad federal planificada de Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 ## Tres de cada cuatro malasios viven ahora en un lugar que el DOSM llama «urbano»

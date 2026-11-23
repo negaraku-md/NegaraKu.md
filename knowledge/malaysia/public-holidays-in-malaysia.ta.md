@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "b364077cf92058e5"
+sourceContentHash: "c11dc81961dc71d5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -88,6 +88,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-1.webp
+    alt: கோலாலம்பூர் KL Sentral இல் தீபாவளிக்காக வண்ணப் பொடியால் தரையில் அமைக்கப்பட்ட, பிரகாசமான வண்ணங்கள் கொண்ட பெரிய மயில் வடிவ கோலம்.
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர் KL Sentral இல் தீபாவளிக்கான மயில் வடிவ கோலம்
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-2.webp
+    alt: மலேசிய சீனப் புத்தாண்டு தெரு விழாவின்போது ஒரு கடை முன்பு, இளஞ்சிவப்பு, மஞ்சள், வெள்ளை நிறங்களில் பல பிரகாசமான சிங்க நடன உடை தலைகள் கூடியுள்ளன; அவற்றிடையே சிவப்பு பெரிய தலை வேடமணிந்த கலைஞர் ஒருவரும் உள்ளார்.
+    kind: actual
+    origin: third-party
+    subject: சபாவின் சண்டக்கானில் சீனப் புத்தாண்டு சிங்க நடனக் குழு
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelab_Sukan_Leong_Sin_20260303_140742.jpg
 ---
 
 மலேசியா முழுவதும் ஒரு பயணத்தை, ஒரு தயாரிப்பு வெளியீட்டை அல்லது ஒரு சம்பளக் கணக்கீட்டைத் திட்டமிட்டால், வெளியாட்களைத் திகைக்க வைக்கும் ஒன்றை நீங்கள் விரைவில் கண்டுபிடிப்பீர்கள்: Kuala Lumpur இல் பொது விடுமுறையாக உள்ள ஒரு நாள் Kuching இல் ஒரு சாதாரண வேலைநாளாக இருக்கலாம், அல்லது நேர்மாறாகவும் இருக்கலாம். மலேசியாவுக்கு ஒரே தேசிய விடுமுறைப் பட்டியல் இல்லை, மாறாக ஒரு தேசிய அடுக்கும் அதன் மேல் அடுக்கப்பட்ட பதின்மூன்று மாநில அடுக்குகளும் உள்ளன.

@@ -18088,5 +18088,1469 @@
         "subject": "மலேசிய கிராமத் தோட்டத்தில் ஒரு புதரில் மலர்ந்த சிவப்பு பூங்கா ராயா (Hibiscus rosa-sinensis)"
       }
     ]
+  },
+  "malaysia/portuguese-melaka-1511": {
+    "zh": [
+      {
+        "subject": "马六甲圣保罗山上的圣保罗堂遗迹",
+        "alt": "1521年建成的圣保罗堂遗迹矗立在马六甲圣保罗山顶，红土石墙已无屋顶，只剩空荡的窗洞，上方是开阔的天空。"
+      },
+      {
+        "subject": "马六甲葡萄牙村（Kampung Portugis）内的葡萄牙广场",
+        "alt": "通往葡萄牙广场的米色入口门楼两旁排列着赤陶屋顶的建筑和餐厅招牌，门后是马六甲葡萄牙村的前院广场。"
+      }
+    ],
+    "ja": [
+      {
+        "subject": "マラッカのセントポールの丘に立つセントポール教会跡",
+        "alt": "1521年に建てられたセントポール教会跡が、マラッカのセントポールの丘の頂に立つ。屋根のないラテライトの壁と空いた窓の開口部が、開けた空の下に残されている。"
+      },
+      {
+        "subject": "マラッカのポルトガル人集落（カンポン・ポルトギス）内のポルトガル広場",
+        "alt": "ポルトガル広場へのクリーム色の入口門が、テラコッタ屋根の建物とレストランの看板に縁取られ、マラッカのポルトガル人集落の前庭へと開けている。"
+      }
+    ],
+    "ko": [
+      {
+        "subject": "믈라카 세인트폴 언덕 위의 세인트폴 교회 유적",
+        "alt": "1521년에 지어진 세인트폴 교회 유적이 믈라카의 세인트폴 언덕 꼭대기에 서 있으며, 지붕이 사라진 라테라이트 벽과 텅 빈 창 구멍이 탁 트인 하늘 아래 남아 있다."
+      },
+      {
+        "subject": "믈라카 포르투갈인 정착촌(캄풍 포르투기스) 안의 포르투갈 광장",
+        "alt": "포르투갈 광장으로 들어가는 크림색 입구 문이 테라코타 지붕 건물과 식당 간판으로 둘러싸여, 믈라카 포르투갈인 정착촌의 앞마당으로 이어진다."
+      }
+    ],
+    "th": [
+      {
+        "subject": "ซากโบสถ์เซนต์ปอลบนเนินเขาเซนต์ปอล เมืองมะละกา",
+        "alt": "ซากโบสถ์เซนต์ปอลที่สร้างขึ้นในปี ค.ศ. 1521 ตั้งอยู่บนยอดเนินเขาเซนต์ปอลในมะละกา กำแพงศิลาแลงไร้หลังคาและช่องหน้าต่างที่ว่างเปล่าตั้งตระหง่านอยู่ใต้ท้องฟ้าโล่งกว้าง"
+      },
+      {
+        "subject": "จัตุรัสโปรตุเกสในหมู่บ้านโปรตุเกส (กัมปงโปรตุกิส) เมืองมะละกา",
+        "alt": "ซุ้มประตูทางเข้าสีครีมสู่จัตุรัสโปรตุเกส ขนาบด้วยอาคารหลังคากระเบื้องดินเผาและป้ายร้านอาหาร เปิดออกสู่ลานด้านหน้าในหมู่บ้านโปรตุเกสของมะละกา"
+      }
+    ],
+    "ms": [
+      {
+        "subject": "Runtuhan Gereja St Paul di Bukit St Paul, Melaka",
+        "alt": "Dinding laterit tanpa bumbung dan bukaan tingkap yang kosong pada runtuhan Gereja St Paul tahun 1521 berdiri di puncak Bukit St Paul di Melaka di bawah langit terbuka."
+      },
+      {
+        "subject": "Dataran Portugis di Perkampungan Portugis (Kampung Portugis), Melaka",
+        "alt": "Pintu gerbang masuk berwarna krim ke Dataran Portugis, dipagari bangunan berbumbung terakota dan papan tanda restoran, membuka ke suatu halaman di Perkampungan Portugis Melaka."
+      }
+    ],
+    "id": [
+      {
+        "subject": "Reruntuhan Gereja St Paul di Bukit St Paul, Melaka",
+        "alt": "Tembok laterit tanpa atap dan bukaan jendela yang kosong pada reruntuhan Gereja St Paul tahun 1521 berdiri di puncak Bukit St Paul di Melaka di bawah langit terbuka."
+      },
+      {
+        "subject": "Lapangan Portugis di Permukiman Portugis (Kampung Portugis), Melaka",
+        "alt": "Gerbang masuk berwarna krem menuju Lapangan Portugis, diapit bangunan beratap terakota dan papan nama restoran, membuka ke sebuah pelataran di Permukiman Portugis Melaka."
+      }
+    ],
+    "vi": [
+      {
+        "subject": "Phế tích Nhà thờ St Paul trên đồi St Paul, Melaka",
+        "alt": "Những bức tường đá laterit không mái và các ô cửa sổ trống rỗng của phế tích Nhà thờ St Paul năm 1521 đứng trên đỉnh đồi St Paul ở Melaka dưới bầu trời rộng mở."
+      },
+      {
+        "subject": "Quảng trường Bồ Đào Nha trong Khu định cư Bồ Đào Nha (Kampung Portugis), Melaka",
+        "alt": "Cổng vào màu kem của Quảng trường Bồ Đào Nha, hai bên là các tòa nhà mái ngói đất nung và biển hiệu nhà hàng, mở ra một khoảng sân trong Khu định cư Bồ Đào Nha ở Melaka."
+      }
+    ],
+    "ta": [
+      {
+        "subject": "மலாக்காவின் செயின்ட் பால் குன்றில் உள்ள செயின்ட் பால் தேவாலய இடிபாடுகள்",
+        "alt": "1521 ஆம் ஆண்டைய செயின்ட் பால் தேவாலய இடிபாடுகளின் கூரையற்ற லேட்டரைட் சுவர்களும் வெற்று ஜன்னல் திறப்புகளும் திறந்த வானத்தின் கீழ் மலாக்காவின் செயின்ட் பால் குன்றின் உச்சியில் நிற்கின்றன."
+      },
+      {
+        "subject": "மலாக்காவின் போர்த்துகீசிய குடியிருப்பில் (Kampung Portugis) உள்ள போர்த்துகீசிய சதுக்கம்",
+        "alt": "டெரகோட்டா கூரை கொண்ட கட்டிடங்களும் உணவகப் பலகைகளும் சூழ்ந்த, போர்த்துகீசிய சதுக்கத்தின் கிரீம் நிற நுழைவாயில் மலாக்காவின் போர்த்துகீசிய குடியிருப்பில் ஒரு முற்றத்திற்குத் திறக்கிறது."
+      }
+    ],
+    "hi": [
+      {
+        "alt": "सन् 1521 के सेंट पॉल चर्च के खंडहरों की बिना छत वाली लेटराइट दीवारें और खाली खिड़की के खुले हिस्से मेलाका की सेंट पॉल पहाड़ी पर खुले आसमान के नीचे खड़े हैं।",
+        "subject": "मेलाका में सेंट पॉल पहाड़ी पर सेंट पॉल चर्च के खंडहर"
+      },
+      {
+        "alt": "टेराकोटा छतों वाली इमारतों और रेस्तराँ के साइनबोर्डों से घिरा पुर्तगाली चौक (Portuguese Square) का क्रीम रंग का प्रवेश द्वार मेलाका की पुर्तगाली बस्ती में एक प्रांगण की ओर खुलता है।",
+        "subject": "मेलाका की पुर्तगाली बस्ती (Kampung Portugis) में पुर्तगाली चौक"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "تقف الجدران اللاتيريتية بلا سقف والفتحات الفارغة لنوافذ أطلال كنيسة القديس بولس (St Paul's Church) التي يعود تاريخها إلى عام 1521 فوق تلة القديس بولس في ملقا تحت سماء مفتوحة.",
+        "subject": "أطلال كنيسة القديس بولس على تلة القديس بولس في ملقا"
+      },
+      {
+        "alt": "تنفتح البوابة الكريمية اللون المؤدية إلى الساحة البرتغالية (Portuguese Square)، المحاطة بمبانٍ ذات أسقف من الطين الأحمر ولافتات المطاعم، على ساحة أمامية في المستوطنة البرتغالية بملقا.",
+        "subject": "الساحة البرتغالية في المستوطنة البرتغالية (Kampung Portugis) بملقا"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Los muros de laterita sin techo y los vanos vacíos de las ventanas de las ruinas de la iglesia de San Pablo, de 1521, se alzan en lo alto de la colina de San Pablo, en Melaka, bajo un cielo abierto.",
+        "subject": "Ruinas de la iglesia de San Pablo en la colina de San Pablo, Melaka"
+      },
+      {
+        "alt": "La portada de entrada de color crema de la Plaza Portuguesa (Portuguese Square), flanqueada por edificios con tejados de terracota y letreros de restaurantes, se abre a una explanada en el Asentamiento Portugués de Melaka.",
+        "subject": "La Plaza Portuguesa en el Asentamiento Portugués (Kampung Portugis), Melaka"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Les murs de latérite sans toit et les ouvertures vides des fenêtres des ruines de l'église Saint-Paul, datant de 1521, dominent la colline Saint-Paul à Melaka sous un ciel dégagé.",
+        "subject": "Ruines de l'église Saint-Paul sur la colline Saint-Paul, Melaka"
+      },
+      {
+        "alt": "Le portail d'entrée de couleur crème de la Place portugaise (Portuguese Square), bordé de bâtiments aux toits de terre cuite et d'enseignes de restaurants, s'ouvre sur un parvis dans le quartier portugais de Melaka.",
+        "subject": "La Place portugaise dans le quartier portugais (Kampung Portugis), Melaka"
+      }
+    ]
+  },
+  "malaysia/dutch-melaka": {
+    "zh": [
+      {
+        "subject": "马六甲基督堂（Christ Church），1753年荷兰人所建的教堂",
+        "alt": "马六甲基督堂深红色的砖砌立面衬着天空，山墙上嵌着一个白色十字架和一座时钟。"
+      },
+      {
+        "subject": "马六甲圣保罗山上的荷兰坟场（Kubur Belanda）",
+        "alt": "一座粉白色的拱形门楼上写着「Kubur Belanda / The Dutch Graveyard」，门后是马六甲圣保罗山上绿树成荫的殖民时期墓园。"
+      }
+    ],
+    "ja": [
+      {
+        "subject": "マラッカのクライストチャーチ、1753年にオランダ人が建てた教会",
+        "alt": "マラッカのクライストチャーチの深紅のレンガ造りの正面が空に向かってそびえ、切妻には白い十字架と時計がはめ込まれている。"
+      },
+      {
+        "subject": "マラッカのセントポールの丘にあるオランダ人墓地（クブール・ブランダ）",
+        "alt": "「Kubur Belanda / The Dutch Graveyard」と記された白塗りのアーチ門が、マラッカのセントポールの丘にある木陰の植民地時代の墓地へと開けている。"
+      }
+    ],
+    "ko": [
+      {
+        "subject": "믈라카 크라이스트 교회, 1753년 네덜란드인이 지은 교회",
+        "alt": "믈라카 크라이스트 교회의 짙은 붉은색 벽돌 정면이 하늘을 배경으로 솟아 있으며, 박공에는 흰 십자가와 시계가 박혀 있다."
+      },
+      {
+        "subject": "믈라카 세인트폴 언덕의 네덜란드인 묘지(쿠부르 블란다)",
+        "alt": "'Kubur Belanda / The Dutch Graveyard'라고 적힌 흰색 아치형 문이 믈라카 세인트폴 언덕의 나무 그늘이 드리운 식민지 시대 묘지로 이어진다."
+      }
+    ],
+    "th": [
+      {
+        "subject": "โบสถ์ไครสต์เชิร์ชมะละกา โบสถ์ที่ชาวดัตช์สร้างขึ้นในปี ค.ศ. 1753",
+        "alt": "ผนังอิฐสีแดงเข้มด้านหน้าของโบสถ์ไครสต์เชิร์ชมะละกาตั้งตระหง่านตัดกับท้องฟ้า โดยมีไม้กางเขนสีขาวและนาฬิกาฝังอยู่บนหน้าจั่ว"
+      },
+      {
+        "subject": "สุสานชาวดัตช์ (กูบูร์เบลันดา) บนเนินเขาเซนต์ปอล เมืองมะละกา",
+        "alt": "ซุ้มประตูโค้งทาสีขาวที่มีป้าย 'Kubur Belanda / The Dutch Graveyard' เปิดออกสู่สุสานยุคอาณานิคมที่ร่มรื่นด้วยต้นไม้บนเนินเขาเซนต์ปอลในมะละกา"
+      }
+    ],
+    "ms": [
+      {
+        "subject": "Christ Church Melaka, gereja binaan Belanda tahun 1753",
+        "alt": "Fasad bata merah tua Christ Church Melaka, dengan salib putih dan jam yang dipasang pada kemuncak atapnya, menjulang menghadap langit."
+      },
+      {
+        "subject": "Kubur Belanda di Bukit St Paul, Melaka",
+        "alt": "Pintu gerbang melengkung bercat putih yang membawa papan tanda 'Kubur Belanda / The Dutch Graveyard' membuka ke tanah perkuburan kolonial yang teduh dengan pepohon di Bukit St Paul, Melaka."
+      }
+    ],
+    "id": [
+      {
+        "subject": "Christ Church Melaka, gereja buatan Belanda tahun 1753",
+        "alt": "Fasad bata merah tua Christ Church Melaka, dengan salib putih dan jam yang terpasang pada bagian atas pelananya, menjulang menghadap langit."
+      },
+      {
+        "subject": "Makam Belanda (Kubur Belanda) di Bukit St Paul, Melaka",
+        "alt": "Gapura melengkung berwarna putih bertuliskan 'Kubur Belanda / The Dutch Graveyard' membuka ke area pemakaman kolonial yang teduh oleh pepohonan di Bukit St Paul, Melaka."
+      }
+    ],
+    "vi": [
+      {
+        "subject": "Christ Church Melaka, nhà thờ do người Hà Lan xây năm 1753",
+        "alt": "Mặt tiền gạch đỏ sẫm của Christ Church Melaka, với một cây thánh giá trắng và một chiếc đồng hồ gắn trên đầu hồi, vươn lên trên nền trời."
+      },
+      {
+        "subject": "Nghĩa trang Hà Lan (Kubur Belanda) trên đồi St Paul, Melaka",
+        "alt": "Một cổng vòm quét vôi trắng mang tấm biển 'Kubur Belanda / The Dutch Graveyard' mở ra một khu nghĩa trang thời thuộc địa rợp bóng cây trên đồi St Paul ở Melaka."
+      }
+    ],
+    "ta": [
+      {
+        "subject": "1753 ஆம் ஆண்டு டச்சுக்காரர் கட்டிய தேவாலயமான கிறிஸ்ட் சர்ச் மலாக்கா",
+        "alt": "வெள்ளைச் சிலுவையும் கூரைமுனையில் பொருத்தப்பட்ட கடிகாரமும் கொண்ட கிறிஸ்ட் சர்ச் மலாக்காவின் அடர்சிவப்பு செங்கல் முகப்பு வானத்தை நோக்கி உயர்கிறது."
+      },
+      {
+        "subject": "மலாக்காவின் செயின்ட் பால் குன்றில் உள்ள டச்சு கல்லறைத் தோட்டம் (Kubur Belanda)",
+        "alt": "'Kubur Belanda / The Dutch Graveyard' எனும் பலகையைச் சுமக்கும் வெண்ணிற வளைவு நுழைவாயில், மலாக்காவின் செயின்ட் பால் குன்றில் மரநிழல் படர்ந்த காலனித்துவ கல்லறைத் தோட்டத்திற்குத் திறக்கிறது."
+      }
+    ],
+    "hi": [
+      {
+        "alt": "गहरे लाल ईंटों वाला Christ Church Melaka का अग्रभाग, जिसके त्रिकोणाकार शीर्ष (गेबल) में एक सफेद क्रॉस और एक घड़ी जड़ी है, आसमान की ओर उठता है।",
+        "subject": "Christ Church Melaka, सन् 1753 में डचों द्वारा बनाया गया गिरजाघर"
+      },
+      {
+        "alt": "'Kubur Belanda / The Dutch Graveyard' लिखा हुआ सफेद पुता मेहराबदार प्रवेश द्वार मेलाका की सेंट पॉल पहाड़ी पर पेड़ों की छाया में बसे एक औपनिवेशिक कब्रिस्तान की ओर खुलता है।",
+        "subject": "मेलाका में सेंट पॉल पहाड़ी पर डच कब्रिस्तान (Kubur Belanda)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "ترتفع الواجهة ذات الطوب الأحمر الداكن لكنيسة المسيح بملقا (Christ Church Melaka)، وفي جملونها صليب أبيض وساعة، نحو السماء.",
+        "subject": "كنيسة المسيح بملقا (Christ Church Melaka)، الكنيسة التي بناها الهولنديون عام 1753"
+      },
+      {
+        "alt": "تنفتح بوابة مقوّسة مطلية بالأبيض تحمل لافتة 'Kubur Belanda / The Dutch Graveyard' على مقبرة استعمارية مظللة بالأشجار على تلة القديس بولس في ملقا.",
+        "subject": "المقبرة الهولندية (Kubur Belanda) على تلة القديس بولس في ملقا"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La fachada de ladrillo rojo intenso de la Christ Church Melaka, con una cruz blanca y un reloj incrustados en su frontón, se alza contra el cielo.",
+        "subject": "Christ Church Melaka, la iglesia construida por los neerlandeses en 1753"
+      },
+      {
+        "alt": "Una puerta arqueada encalada con el letrero 'Kubur Belanda / The Dutch Graveyard' da paso a un cementerio colonial a la sombra de los árboles en la colina de San Pablo, en Melaka.",
+        "subject": "El Cementerio Neerlandés (Kubur Belanda) en la colina de San Pablo, Melaka"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "La façade de brique rouge foncé de la Christ Church Melaka, avec une croix blanche et une horloge serties dans son pignon, se dresse contre le ciel.",
+        "subject": "Christ Church Melaka, l'église construite par les Néerlandais en 1753"
+      },
+      {
+        "alt": "Un portail cintré blanchi à la chaux portant l'inscription « Kubur Belanda / The Dutch Graveyard » s'ouvre sur un cimetière colonial ombragé d'arbres sur la colline Saint-Paul à Melaka.",
+        "subject": "Le cimetière néerlandais (Kubur Belanda) sur la colline Saint-Paul, Melaka"
+      }
+    ]
+  },
+  "malaysia/malay-sultanate-system": {
+    "zh": [
+      {
+        "subject": "国家皇宫（Istana Negara），位于吉隆坡端姑阿都哈林路（杜达路）的国家宫殿",
+        "alt": "国家皇宫华丽的金顶礼仪门楼上刻着「Istana Negara」字样，在明亮的阳光下矗立，身后绿色山丘上是皇宫的金顶建筑群，远处是吉隆坡的天际线。"
+      },
+      {
+        "subject": "彭亨的Keris Alang，一把象征权威的皇家礼仪短剑（keris）",
+        "alt": "一把长长的马来礼仪短剑（keris）与其细长的剑鞘并排放在博物馆的台面上，旁边印有标签「Keris Alang Pahang」。"
+      }
+    ],
+    "ja": [
+      {
+        "subject": "イスタナ・ヌガラ（Istana Negara）、クアラルンプールのジャラン・トゥアンク・アブドゥル・ハリム（ジャラン・ドゥタ）にある国立王宮",
+        "alt": "「Istana Negara」と記されたイスタナ・ヌガラの豪華な金色ドームの儀礼用門が明るい日差しの中に立ち、その背後の緑の丘には王宮の金色ドームの建物が、さらに遠くにはクアラルンプールのスカイラインが広がる。"
+      },
+      {
+        "subject": "パハンのクリス・アラン、権威を象徴する王室儀礼用のクリス（keris）",
+        "alt": "長い儀礼用のマレーのクリス（keris）が細い鞘と並んで博物館の台の上に置かれ、「Keris Alang Pahang」と印刷されたラベルが添えられている。"
+      }
+    ],
+    "ko": [
+      {
+        "subject": "이스타나 느가라(Istana Negara), 쿠알라룸푸르 잘란 투안쿠 압둘 할림(잘란 두타)에 있는 국립 왕궁",
+        "alt": "'Istana Negara'라고 새겨진 이스타나 느가라의 화려한 금빛 돔 의전 문루가 밝은 햇살 속에 서 있고, 뒤편 녹색 언덕에는 왕궁의 금빛 돔 건물들이, 그 너머로는 쿠알라룸푸르의 스카이라인이 펼쳐져 있다."
+      },
+      {
+        "subject": "파항의 크리스 알랑, 권위를 상징하는 왕실 의전용 크리스(keris)",
+        "alt": "길쭉한 의전용 말레이 크리스(keris)가 가느다란 칼집과 나란히 박물관 전시대 위에 놓여 있고, 옆에는 'Keris Alang Pahang'이라고 인쇄된 라벨이 붙어 있다."
+      }
+    ],
+    "th": [
+      {
+        "subject": "อิสตานาเนอการา (Istana Negara) พระราชวังแห่งชาติบนถนนตวนกูอับดุลฮาลิม (ถนนดูตา) กรุงกัวลาลัมเปอร์",
+        "alt": "ซุ้มประตูพิธีการโดมสีทองอันวิจิตรของอิสตานาเนอการา ซึ่งจารึกคำว่า 'Istana Negara' ตั้งอยู่ท่ามกลางแสงแดดจ้า โดยมีหมู่อาคารโดมสีทองของพระราชวังอยู่บนเนินเขาสีเขียวด้านหลัง และเส้นขอบฟ้าของกัวลาลัมเปอร์อยู่ไกลออกไป"
+      },
+      {
+        "subject": "กริชอาลังแห่งปะหัง กริช (keris) พิธีการของราชสำนักที่เป็นสัญลักษณ์แห่งอำนาจ",
+        "alt": "กริช (keris) พิธีการของชาวมลายูเล่มยาววางอยู่ข้างฝักอันเรียวบางบนพื้นผิวในพิพิธภัณฑ์ พร้อมป้ายพิมพ์ข้อความว่า 'Keris Alang Pahang'"
+      }
+    ],
+    "ms": [
+      {
+        "subject": "Istana Negara, istana kebangsaan di Jalan Tuanku Abdul Halim (Jalan Duta), Kuala Lumpur",
+        "alt": "Rumah gerbang istiadat berkubah emas yang berukir pada Istana Negara, bertulis 'Istana Negara', berdiri dalam cahaya siang yang terang dengan bangunan istana berkubah keemasan di atas bukit hijau di belakangnya dan kaki langit Kuala Lumpur di kejauhan."
+      },
+      {
+        "subject": "Keris Alang Pahang, keris istiadat diraja lambang kuasa",
+        "alt": "Sebilah keris Melayu istiadat yang panjang terbaring di sebelah sarungnya yang langsing di atas permukaan muzium, dengan label bercetak berbunyi 'Keris Alang Pahang'."
+      }
+    ],
+    "id": [
+      {
+        "subject": "Istana Negara, istana nasional di Jalan Tuanku Abdul Halim (Jalan Duta), Kuala Lumpur",
+        "alt": "Gerbang upacara berkubah emas berukir milik Istana Negara, bertuliskan 'Istana Negara', berdiri dalam cahaya siang yang terang dengan bangunan istana berkubah keemasan di atas bukit hijau di belakangnya dan cakrawala kota Kuala Lumpur di kejauhan."
+      },
+      {
+        "subject": "Keris Alang Pahang, keris upacara kerajaan lambang kekuasaan",
+        "alt": "Sebilah keris Melayu upacara yang panjang terbaring di samping sarungnya yang ramping di atas permukaan museum, dengan label cetak bertuliskan 'Keris Alang Pahang'."
+      }
+    ],
+    "vi": [
+      {
+        "subject": "Istana Negara, cung điện quốc gia trên đường Jalan Tuanku Abdul Halim (Jalan Duta), Kuala Lumpur",
+        "alt": "Cổng nghi lễ mái vòm dát vàng chạm trổ tinh xảo của Istana Negara, khắc chữ 'Istana Negara', đứng dưới ánh ban ngày rực rỡ với các tòa nhà cung điện mái vòm vàng trên ngọn đồi xanh phía sau và đường chân trời Kuala Lumpur phía xa."
+      },
+      {
+        "subject": "Keris Alang của Pahang, một thanh kris nghi lễ hoàng gia tượng trưng cho quyền uy",
+        "alt": "Một thanh kris Mã Lai nghi lễ dài nằm bên cạnh bao kiếm mảnh của nó trên mặt trưng bày trong bảo tàng, với tấm nhãn in dòng chữ 'Keris Alang Pahang'."
+      }
+    ],
+    "ta": [
+      {
+        "subject": "கோலாலம்பூரின் ஜாலான் துவாங்கு அப்துல் ஹாலிம் (ஜாலான் டூத்தா) சாலையில் உள்ள தேசிய அரண்மனையான இஸ்தானா நெகாரா",
+        "alt": "'Istana Negara' என பொறிக்கப்பட்ட, இஸ்தானா நெகாராவின் தங்கக் குவிமாடம் கொண்ட அலங்கார விழா நுழைவாயில், பின்னணியில் பசுமையான குன்றின் மேல் தங்க நிற குவிமாடக் கட்டிடங்களும் தொலைவில் கோலாலம்பூர் வானளாவிய காட்சியும் கொண்டு, பிரகாசமான பகல் வெளிச்சத்தில் நிற்கிறது."
+      },
+      {
+        "subject": "அதிகாரத்தின் சின்னமான அரச விழாக் கத்தியான பகாங்கின் கெரிஸ் ஆலாங்",
+        "alt": "நீண்ட விழா மலாய் கெரிஸ் கத்தி ஒன்று, அதன் மெல்லிய உறையின் அருகில் அருங்காட்சியக மேற்பரப்பில் கிடக்கிறது, 'Keris Alang Pahang' என அச்சிடப்பட்ட பெயர்ச்சீட்டுடன்."
+      }
+    ],
+    "hi": [
+      {
+        "alt": "Istana Negara का अलंकृत सुनहरे गुंबद वाला औपचारिक द्वार-भवन, जिस पर 'Istana Negara' लिखा है, तेज़ दिन के उजाले में खड़ा है; पीछे हरी पहाड़ी पर महल की सुनहरे गुंबद वाली इमारतें और उससे परे कुआलालंपुर की क्षितिज-रेखा दिखाई देती है।",
+        "subject": "Istana Negara, Jalan Tuanku Abdul Halim (Jalan Duta), कुआलालंपुर पर स्थित राष्ट्रीय महल"
+      },
+      {
+        "alt": "एक लंबा औपचारिक मलय keris अपने पतले म्यान के बगल में संग्रहालय की सतह पर रखा है, जिसके साथ 'Keris Alang Pahang' लिखा एक छपा हुआ लेबल है।",
+        "subject": "पहांग का Keris Alang, अधिकार का एक शाही औपचारिक keris"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "يقف بيت البوابة الاحتفالي المزخرف بقبته الذهبية الخاص بـ Istana Negara، والمكتوب عليه 'Istana Negara'، في وضح النهار، وخلفه مباني القصر ذات القباب الذهبية على التل الأخضر، ومن ورائها أفق كوالالمبور.",
+        "subject": "Istana Negara، القصر الوطني في شارع Jalan Tuanku Abdul Halim (Jalan Duta)، كوالالمبور"
+      },
+      {
+        "alt": "يرقد خنجر ملايوي احتفالي طويل (keris) بجانب غمده النحيل على سطح في متحف، وإلى جانبه بطاقة مطبوعة مكتوب عليها 'Keris Alang Pahang'.",
+        "subject": "Keris Alang الخاص بباهانغ، خنجر ملكي احتفالي يرمز إلى السلطة"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La ornamentada caseta ceremonial de acceso de cúpula dorada del Istana Negara, rotulada «Istana Negara», se alza a plena luz del día con los edificios de cúpulas doradas del palacio sobre la colina verde al fondo y el perfil urbano de Kuala Lumpur más allá.",
+        "subject": "Istana Negara, el palacio nacional en Jalan Tuanku Abdul Halim (Jalan Duta), Kuala Lumpur"
+      },
+      {
+        "alt": "Un largo keris malayo ceremonial yace junto a su esbelta vaina sobre una superficie de museo, con una etiqueta impresa que dice «Keris Alang Pahang».",
+        "subject": "El Keris Alang de Pahang, un keris real ceremonial de autoridad"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Le pavillon d'entrée cérémoniel orné à coupole dorée de l'Istana Negara, portant l'inscription « Istana Negara », se dresse en plein jour, avec les bâtiments à coupoles dorées du palais sur la colline verdoyante en arrière-plan et la silhouette de Kuala Lumpur au-delà.",
+        "subject": "Istana Negara, le palais national sur Jalan Tuanku Abdul Halim (Jalan Duta), Kuala Lumpur"
+      },
+      {
+        "alt": "Un long keris malais cérémoniel repose à côté de son fourreau élancé sur une surface de musée, avec une étiquette imprimée indiquant « Keris Alang Pahang ».",
+        "subject": "Le Keris Alang de Pahang, un keris royal cérémoniel d'autorité"
+      }
+    ]
+  },
+  "malaysia/pahang-sultanate": {
+    "zh": [
+      {
+        "subject": "彭亨关丹的苏丹阿末沙州立清真寺",
+        "alt": "关丹的苏丹阿末沙州立清真寺以一座巨大的中央圆顶为顶，两侧矗立着高耸的宣礼塔，从正面全景拍摄。"
+      },
+      {
+        "subject": "彭亨北根的苏丹阿布巴卡博物馆（前皇家宫殿）",
+        "alt": "一座对称的白色殖民时期建筑，红瓦屋顶，中央是拱形大门，倒映在一池立有仙鹤雕塑的静水之中，这里是北根的苏丹阿布巴卡博物馆。"
+      }
+    ],
+    "ja": [
+      {
+        "subject": "パハン州クアンタンのスルタン・アフマド・シャー州立モスク",
+        "alt": "クアンタンのスルタン・アフマド・シャー州立モスクが、大きな中央ドームを頂き、両脇に高いミナレットを従えて、正面からの全景で捉えられている。"
+      },
+      {
+        "subject": "パハン州ペカンのスルタン・アブ・バカール博物館（旧王宮）",
+        "alt": "赤い瓦屋根とアーチ型の中央扉を持つ左右対称の白い植民地時代の建物が、鶴の彫像を配した静かな水面の池に映り、ペカンのスルタン・アブ・バカール博物館となっている。"
+      }
+    ],
+    "ko": [
+      {
+        "subject": "파항주 콴탄의 술탄 아마드 샤 주립 모스크",
+        "alt": "콴탄의 술탄 아마드 샤 주립 모스크가 커다란 중앙 돔을 이고 양옆에 높은 첨탑을 거느린 채 정면 전경으로 보인다."
+      },
+      {
+        "subject": "파항주 페칸의 술탄 아부 바카르 박물관(옛 왕궁)",
+        "alt": "붉은 기와지붕과 아치형 중앙 출입구를 갖춘 좌우 대칭의 흰색 식민지 시대 건물이 두루미 조각상이 놓인 잔잔한 반영 연못에 비치며, 페칸의 술탄 아부 바카르 박물관을 이룬다."
+      }
+    ],
+    "th": [
+      {
+        "subject": "มัสยิดประจำรัฐสุลต่านอาหมัดชาห์ เมืองกวนตัน รัฐปะหัง",
+        "alt": "มัสยิดประจำรัฐสุลต่านอาหมัดชาห์ในเมืองกวนตัน มีโดมกลางขนาดใหญ่อยู่ด้านบนและมีหอคอยสูงขนาบข้าง มองเห็นในมุมตรงด้านหน้าเต็มภาพ"
+      },
+      {
+        "subject": "พิพิธภัณฑ์สุลต่านอาบูบาการ์ (อดีตพระราชวัง) เมืองเปกัน รัฐปะหัง",
+        "alt": "อาคารยุคอาณานิคมสีขาวทรงสมมาตร มีหลังคากระเบื้องสีแดงและประตูกลางทรงโค้ง สะท้อนอยู่ในสระน้ำนิ่งที่มีประติมากรรมนกกระเรียน เป็นที่ตั้งของพิพิธภัณฑ์สุลต่านอาบูบาการ์ในเมืองเปกัน"
+      }
+    ],
+    "ms": [
+      {
+        "subject": "Masjid Negeri Sultan Ahmad Shah, Kuantan, Pahang",
+        "alt": "Masjid Negeri Sultan Ahmad Shah di Kuantan, dimahkotai kubah utama yang besar dan diapit menara yang tinggi, dilihat dari pandangan hadapan penuh."
+      },
+      {
+        "subject": "Muzium Sultan Abu Bakar (bekas istana diraja), Pekan, Pahang",
+        "alt": "Sebuah bangunan putih era kolonial yang simetri dengan bumbung berjubin merah dan pintu tengah melengkung, terbayang pada kolam pantulan yang tenang berhias arca bangau, menempatkan Muzium Sultan Abu Bakar di Pekan."
+      }
+    ],
+    "id": [
+      {
+        "subject": "Masjid Negeri Sultan Ahmad Shah, Kuantan, Pahang",
+        "alt": "Masjid Negeri Sultan Ahmad Shah di Kuantan, dimahkotai kubah utama yang besar dan diapit menara-menara tinggi, terlihat dari tampak depan penuh."
+      },
+      {
+        "subject": "Museum Sultan Abu Bakar (bekas istana kerajaan), Pekan, Pahang",
+        "alt": "Sebuah bangunan putih era kolonial yang simetris dengan atap genteng merah dan pintu tengah melengkung, terpantul pada kolam reflektif yang tenang berhias patung bangau, menampung Museum Sultan Abu Bakar di Pekan."
+      }
+    ],
+    "vi": [
+      {
+        "subject": "Thánh đường bang Sultan Ahmad Shah, Kuantan, Pahang",
+        "alt": "Thánh đường bang Sultan Ahmad Shah ở Kuantan, trên đỉnh là một mái vòm trung tâm lớn và hai bên là các tháp cao, nhìn trực diện toàn cảnh."
+      },
+      {
+        "subject": "Bảo tàng Sultan Abu Bakar (nguyên là cung điện hoàng gia), Pekan, Pahang",
+        "alt": "Một tòa nhà màu trắng thời thuộc địa đối xứng với mái ngói đỏ và cửa vòm ở giữa, phản chiếu trong hồ nước tĩnh lặng có các tượng sếu, là nơi đặt Bảo tàng Sultan Abu Bakar ở Pekan."
+      }
+    ],
+    "ta": [
+      {
+        "subject": "பகாங், குவாந்தானில் உள்ள சுல்தான் அஹ்மத் ஷா மாநில மசூதி",
+        "alt": "குவாந்தானில் உள்ள சுல்தான் அஹ்மத் ஷா மாநில மசூதி, பெரிய மைய குவிமாடத்தால் முடிசூட்டப்பட்டு உயரமான மினாராக்களால் சூழப்பட்டு, முழு முன்பக்கக் காட்சியில் காணப்படுகிறது."
+      },
+      {
+        "subject": "பகாங், பேக்கானில் உள்ள சுல்தான் அபு பக்கார் அருங்காட்சியகம் (முன்னாள் அரச அரண்மனை)",
+        "alt": "சிவப்பு ஓட்டுக் கூரையும் வளைவான மைய வாயிலும் கொண்ட சமச்சீரான வெண்ணிற காலனித்துவ கால கட்டிடம், நாரை சிற்பங்கள் கொண்ட அமைதியான பிரதிபலிப்புக் குளத்தில் பிரதிபலிக்கிறது; இது பேக்கானில் சுல்தான் அபு பக்கார் அருங்காட்சியகத்தை அமைத்துள்ளது."
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कुआंतान स्थित Sultan Ahmad Shah State Mosque, जिसके शीर्ष पर एक बड़ा केंद्रीय गुंबद है और दोनों ओर ऊँची मीनारें हैं, पूरी तरह सामने से दिखाई देती है।",
+        "subject": "Sultan Ahmad Shah State Mosque, कुआंतान, पहांग"
+      },
+      {
+        "alt": "लाल खपरैल वाली छत और मेहराबदार केंद्रीय द्वार वाली एक सममित श्वेत औपनिवेशिक-कालीन इमारत, जो बगुले की मूर्तियों वाले एक शांत जलाशय में प्रतिबिंबित होती है, Pekan में Sultan Abu Bakar Museum को समेटे हुए है।",
+        "subject": "Sultan Abu Bakar Museum (पूर्व शाही महल), Pekan, पहांग"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مسجد ولاية السلطان أحمد شاه (Sultan Ahmad Shah State Mosque) في كوانتان، تعلوه قبة مركزية كبيرة وتحيط به مآذن عالية، مشاهَد من الأمام بالكامل.",
+        "subject": "مسجد ولاية السلطان أحمد شاه (Sultan Ahmad Shah State Mosque)، كوانتان، باهانغ"
+      },
+      {
+        "alt": "مبنى أبيض متناظر من الحقبة الاستعمارية بسقف من القرميد الأحمر وباب مركزي مقوّس، ينعكس في بركة ماء ساكنة تزيّنها تماثيل الكركي، ويضمّ متحف السلطان أبو بكر (Sultan Abu Bakar Museum) في Pekan.",
+        "subject": "متحف السلطان أبو بكر (Sultan Abu Bakar Museum) (القصر الملكي السابق)، Pekan، باهانغ"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La Mezquita Estatal Sultan Ahmad Shah en Kuantan, coronada por una gran cúpula central y flanqueada por altos alminares, vista en toda su fachada frontal.",
+        "subject": "Mezquita Estatal Sultan Ahmad Shah, Kuantan, Pahang"
+      },
+      {
+        "alt": "Un edificio simétrico de la época colonial, blanco, con tejado de tejas rojas y una puerta central en arco, reflejado en un estanque en calma con esculturas de grullas, que alberga el Sultan Abu Bakar Museum en Pekan.",
+        "subject": "Sultan Abu Bakar Museum (antiguo palacio real), Pekan, Pahang"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "La mosquée d'État Sultan Ahmad Shah à Kuantan, couronnée d'une grande coupole centrale et flanquée de hauts minarets, vue de face dans son intégralité.",
+        "subject": "Mosquée d'État Sultan Ahmad Shah, Kuantan, Pahang"
+      },
+      {
+        "alt": "Un bâtiment symétrique de l'époque coloniale, blanc, au toit de tuiles rouges et à la porte centrale en arc, se reflétant dans un bassin immobile orné de sculptures de grues, abritant le Sultan Abu Bakar Museum à Pekan.",
+        "subject": "Sultan Abu Bakar Museum (ancien palais royal), Pekan, Pahang"
+      }
+    ]
+  },
+  "malaysia/srivijaya": {
+    "zh": [
+      {
+        "subject": "古突干武吉碑（Kedukan Bukit，公元683年），一方室利佛逝古马来文石碑",
+        "alt": "一块小而圆的灰色石头上刻着一行行古老的古马来文字，这是室利佛逝时期的古突干武吉碑，陈列在博物馆的展台上。"
+      },
+      {
+        "subject": "比突（Bidor）出土的青铜观世音像（8至9世纪），吉隆坡国家博物馆",
+        "alt": "一尊八臂青铜观世音菩萨像，出土于霹雳的比突，直立陈列在吉隆坡的国家博物馆中。"
+      }
+    ],
+    "ja": [
+      {
+        "subject": "クドゥカン・ブキット碑文（Kedukan Bukit、683年）、シュリーヴィジャヤの古マレー語の石碑",
+        "alt": "古い古マレー語の文字が何行にもわたって刻まれた小さな丸みのある灰色の石で、シュリーヴィジャヤ時代のクドゥカン・ブキット碑文が、博物館の台に展示されている。"
+      },
+      {
+        "subject": "ビドール出土の青銅製観音菩薩像（8〜9世紀）、クアラルンプール国立博物館",
+        "alt": "ペラ州のビドールで発見された八臂の青銅製観音菩薩（アヴァローキテーシュヴァラ）像が、クアラルンプールの国立博物館に直立して展示されている。"
+      }
+    ],
+    "ko": [
+      {
+        "subject": "크두칸 부킷 비문(Kedukan Bukit, 683년), 스리위자야의 고대 말레이어 비석",
+        "alt": "고대 말레이어 문자가 여러 줄로 새겨진 작고 둥근 회색 돌로, 스리위자야 시대의 크두칸 부킷 비문이 박물관 받침대 위에 전시되어 있다."
+      },
+      {
+        "subject": "비도르 출토 청동 관음보살상(8~9세기), 쿠알라룸푸르 국립박물관",
+        "alt": "페락주 비도르에서 발견된 여덟 팔의 청동 관음보살(아발로키테슈바라)상이 쿠알라룸푸르 국립박물관에 똑바로 세워져 전시되어 있다."
+      }
+    ],
+    "th": [
+      {
+        "subject": "จารึกเกอดูกันบูกิต (Kedukan Bukit ปี ค.ศ. 683) ศิลาจารึกภาษามลายูโบราณสมัยศรีวิชัย",
+        "alt": "หินสีเทาทรงกลมขนาดเล็กที่สลักอักษรมลายูโบราณเป็นแถว คือจารึกเกอดูกันบูกิตสมัยศรีวิชัย จัดแสดงบนแท่นในพิพิธภัณฑ์"
+      },
+      {
+        "subject": "พระอวโลกิเตศวรสำริดแห่งบีโดร์ (คริสต์ศตวรรษที่ 8-9) พิพิธภัณฑ์แห่งชาติ กรุงกัวลาลัมเปอร์",
+        "alt": "รูปหล่อสำริดพระโพธิสัตว์อวโลกิเตศวรแปดกร ซึ่งค้นพบที่บีโดร์ในรัฐเปรัก จัดแสดงในลักษณะตั้งตรงที่พิพิธภัณฑ์แห่งชาติในกรุงกัวลาลัมเปอร์"
+      }
+    ],
+    "ms": [
+      {
+        "subject": "Batu Bersurat Kedukan Bukit (683 M), batu Melayu Kuno zaman Srivijaya",
+        "alt": "Seketul batu kelabu kecil berbentuk bulat yang terukir dengan baris-baris tulisan Melayu Kuno purba, iaitu Batu Bersurat Kedukan Bukit zaman Srivijaya, dipamerkan di atas penyangga muzium."
+      },
+      {
+        "subject": "Avalokiteshvara gangsa dari Bidor (abad ke-8 hingga ke-9), Muzium Negara, Kuala Lumpur",
+        "alt": "Patung gangsa bodhisattva Avalokiteshvara berlengan lapan, ditemui di Bidor, Perak, dipamerkan tegak di Muzium Negara di Kuala Lumpur."
+      }
+    ],
+    "id": [
+      {
+        "subject": "Prasasti Kedukan Bukit (683 M), batu Melayu Kuno dari masa Sriwijaya",
+        "alt": "Sebuah batu kelabu kecil berbentuk bulat yang terpahat dengan baris-baris aksara Melayu Kuno purba, yaitu Prasasti Kedukan Bukit dari masa Sriwijaya, dipajang di atas penyangga museum."
+      },
+      {
+        "subject": "Avalokiteshvara perunggu dari Bidor (abad ke-8 hingga ke-9), Museum Nasional, Kuala Lumpur",
+        "alt": "Patung perunggu bodhisattwa Avalokiteshvara berlengan delapan, ditemukan di Bidor, Perak, dipajang tegak di Museum Nasional di Kuala Lumpur."
+      }
+    ],
+    "vi": [
+      {
+        "subject": "Bia ký Kedukan Bukit (năm 683), một tấm bia tiếng Mã Lai cổ thời Srivijaya",
+        "alt": "Một hòn đá xám nhỏ hình tròn khắc những hàng chữ Mã Lai cổ, tấm bia ký Kedukan Bukit thời Srivijaya, được trưng bày trên giá đỡ trong bảo tàng."
+      },
+      {
+        "subject": "Tượng Avalokiteshvara bằng đồng ở Bidor (thế kỷ 8–9), Bảo tàng Quốc gia, Kuala Lumpur",
+        "alt": "Một bức tượng đồng tám tay của Bồ Tát Avalokiteshvara, được tìm thấy tại Bidor ở Perak, trưng bày thẳng đứng trong Bảo tàng Quốc gia ở Kuala Lumpur."
+      }
+    ],
+    "ta": [
+      {
+        "subject": "கெடுக்கான் புக்கிட் கல்வெட்டு (கி.பி. 683), ஸ்ரீவிஜய கால பழைய மலாய் கல்",
+        "alt": "பழங்கால பழைய மலாய் எழுத்து வரிகள் செதுக்கப்பட்ட சிறிய வட்டமான சாம்பல் நிறக் கல், ஸ்ரீவிஜய கால கெடுக்கான் புக்கிட் கல்வெட்டு, அருங்காட்சியக அடித்தளத்தில் காட்சிக்கு வைக்கப்பட்டுள்ளது."
+      },
+      {
+        "subject": "பிடோரிலிருந்து கிடைத்த வெண்கல அவலோகிதேஸ்வரர் (8ஆம்–9ஆம் நூற்றாண்டு), கோலாலம்பூர் தேசிய அருங்காட்சியகம்",
+        "alt": "பேராக்கில் உள்ள பிடோரில் கண்டெடுக்கப்பட்ட, எட்டுக் கரங்கள் கொண்ட போதிசத்துவர் அவலோகிதேஸ்வரரின் வெண்கலச் சிலை, கோலாலம்பூர் தேசிய அருங்காட்சியகத்தில் நிமிர்ந்து நிறுத்தப்பட்டுக் காட்சிக்கு வைக்கப்பட்டுள்ளது."
+      }
+    ],
+    "hi": [
+      {
+        "alt": "प्राचीन पुरानी मलय लिपि की पंक्तियों से उत्कीर्ण एक छोटा गोलाकार धूसर पत्थर, Srivijaya काल का Kedukan Bukit शिलालेख, एक संग्रहालय स्टैंड पर दिखाया गया है।",
+        "subject": "Kedukan Bukit शिलालेख (683 ईस्वी), एक Srivijaya पुरानी-मलय शिला"
+      },
+      {
+        "alt": "बोधिसत्व Avalokiteshvara की आठ-भुजाओं वाली एक कांस्य मूर्ति, जो पेराक के Bidor में मिली थी, कुआलालंपुर के राष्ट्रीय संग्रहालय में सीधी खड़ी प्रदर्शित है।",
+        "subject": "Bidor की कांस्य Avalokiteshvara (8वीं-9वीं शताब्दी), राष्ट्रीय संग्रहालय, कुआलालंपुर"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "حجر رمادي صغير مستدير محفور عليه صفوف من الكتابة الملايوية القديمة، وهو نقش Kedukan Bukit من عصر Srivijaya، معروض على حامل في متحف.",
+        "subject": "نقش Kedukan Bukit (683 م)، حجر بالملايوية القديمة من عصر Srivijaya"
+      },
+      {
+        "alt": "تمثال برونزي ثماني الأذرع للبوديساتفا Avalokiteshvara، عُثر عليه في Bidor بولاية بيراق، معروض منتصبًا في المتحف الوطني بكوالالمبور.",
+        "subject": "تمثال Avalokiteshvara البرونزي من Bidor (القرن الثامن-التاسع)، المتحف الوطني، كوالالمبور"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una pequeña piedra gris redondeada grabada con hileras de antigua escritura en malayo antiguo, la inscripción de Kedukan Bukit de la época de Srivijaya, expuesta sobre un soporte de museo.",
+        "subject": "La inscripción de Kedukan Bukit (683 d. C.), una piedra en malayo antiguo de Srivijaya"
+      },
+      {
+        "alt": "Una estatua de bronce de ocho brazos del bodhisattva Avalokiteshvara, hallada en Bidor, en Perak, expuesta erguida en el Museo Nacional de Kuala Lumpur.",
+        "subject": "El Avalokiteshvara de bronce de Bidor (siglos VIII-IX), Museo Nacional, Kuala Lumpur"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une petite pierre grise arrondie gravée de rangées d'ancienne écriture en vieux malais, l'inscription de Kedukan Bukit de l'époque de Srivijaya, présentée sur un socle de musée.",
+        "subject": "L'inscription de Kedukan Bukit (683 apr. J.-C.), une pierre en vieux malais de Srivijaya"
+      },
+      {
+        "alt": "Une statue de bronze à huit bras du bodhisattva Avalokiteshvara, découverte à Bidor dans le Perak, exposée debout au Musée national de Kuala Lumpur.",
+        "subject": "L'Avalokiteshvara de bronze de Bidor (VIIIe-IXe siècle), Musée national, Kuala Lumpur"
+      }
+    ]
+  },
+  "malaysia/public-holidays-in-malaysia": {
+    "zh": [
+      {
+        "subject": "吉隆坡中环广场（KL Sentral）的屠妖节孔雀kolam地面图案",
+        "alt": "吉隆坡中环广场（KL Sentral）为屠妖节在地面上铺设的一幅巨大而色彩鲜艳的孔雀形kolam，由彩色粉末制成。"
+      },
+      {
+        "subject": "沙巴山打根的农历新年舞狮队",
+        "alt": "在马来西亚农历新年街头庆典上，几只色彩鲜艳的舞狮头——粉色、黄色和白色——聚集在店铺门前，其中还有一名红色大头娃娃表演者。"
+      }
+    ],
+    "ja": [
+      {
+        "subject": "クアラルンプールのKLセントラルに描かれたディーパバリの孔雀のコーラム（kolam）",
+        "alt": "クアラルンプールのKLセントラルで、ディーパバリのために色粉で床に描かれた、大きく鮮やかな色彩の孔雀の形をしたコーラム（kolam）。"
+      },
+      {
+        "subject": "サバ州サンダカンの旧正月の獅子舞チーム",
+        "alt": "マレーシアの旧正月の街頭祝祭で、ピンク、黄、白の鮮やかな獅子舞の頭がいくつも店先に集まり、その中に赤い大頭の演者が交じっている。"
+      }
+    ],
+    "ko": [
+      {
+        "subject": "쿠알라룸푸르 KL 센트럴의 디파발리 공작 콜람(kolam) 바닥 문양",
+        "alt": "쿠알라룸푸르 KL 센트럴에서 디파발리를 위해 색색의 가루로 바닥에 그린 크고 선명한 공작 모양의 콜람(kolam)."
+      },
+      {
+        "subject": "사바주 산다칸의 설날 사자춤 공연단",
+        "alt": "말레이시아 설날 거리 축제에서 분홍, 노랑, 흰색의 선명한 사자춤 탈 여러 개가 상점 앞에 모여 있고, 그 사이에 붉은 큰 머리 탈을 쓴 공연자가 섞여 있다."
+      }
+    ],
+    "th": [
+      {
+        "subject": "โกลัม (kolam) ลวดลายนกยูงเนื่องในเทศกาลดีปาวลีที่เคแอลเซ็นทรัล กรุงกัวลาลัมเปอร์",
+        "alt": "โกลัม (kolam) รูปนกยูงขนาดใหญ่สีสันสดใสที่ทำจากผงสี วางไว้บนพื้นสำหรับเทศกาลดีปาวลีที่เคแอลเซ็นทรัลในกรุงกัวลาลัมเปอร์"
+      },
+      {
+        "subject": "คณะเชิดสิงโตในเทศกาลตรุษจีนที่เมืองซันดากัน รัฐซาบะฮ์",
+        "alt": "หัวชุดเชิดสิงโตสีสันสดใสหลายหัวทั้งสีชมพู เหลือง และขาว รวมกลุ่มกันอยู่หน้าร้านค้าระหว่างงานฉลองตรุษจีนบนถนนในมาเลเซีย โดยมีนักแสดงสวมหัวโตสีแดงอยู่ท่ามกลางกลุ่ม"
+      }
+    ],
+    "ms": [
+      {
+        "subject": "Reka bentuk kolam lantai berbentuk burung merak sempena Deepavali di KL Sentral, Kuala Lumpur",
+        "alt": "Kolam besar berbentuk burung merak yang berwarna-warni terang, dibuat daripada serbuk berwarna dan disusun di atas lantai sempena Deepavali di KL Sentral, Kuala Lumpur."
+      },
+      {
+        "subject": "Kumpulan tarian singa Tahun Baharu Cina di Sandakan, Sabah",
+        "alt": "Beberapa kepala kostum tarian singa yang berwarna-warni terang berwarna merah jambu, kuning dan putih berkumpul di hadapan sebuah kedai semasa sambutan Tahun Baharu Cina di jalanan Malaysia, dengan seorang penari bertopeng kepala besar merah dalam kalangan mereka."
+      }
+    ],
+    "id": [
+      {
+        "subject": "Desain kolam lantai berbentuk burung merak untuk Deepavali di KL Sentral, Kuala Lumpur",
+        "alt": "Kolam besar berbentuk burung merak yang berwarna-warni cerah, dibuat dari bubuk warna dan ditata di atas lantai untuk Deepavali di KL Sentral, Kuala Lumpur."
+      },
+      {
+        "subject": "Rombongan barongsai Tahun Baru Imlek di Sandakan, Sabah",
+        "alt": "Beberapa kepala kostum barongsai berwarna cerah merah muda, kuning, dan putih berkerumun di depan sebuah toko saat perayaan Tahun Baru Imlek di jalanan Malaysia, dengan seorang penari bertopeng kepala besar merah di antara mereka."
+      }
+    ],
+    "vi": [
+      {
+        "subject": "Họa tiết kolam hình chim công mừng Deepavali tại KL Sentral, Kuala Lumpur",
+        "alt": "Một hình kolam lớn hình chim công rực rỡ sắc màu, làm bằng bột màu và bày trên sàn mừng Deepavali tại KL Sentral ở Kuala Lumpur."
+      },
+      {
+        "subject": "Đoàn múa lân Tết Nguyên đán ở Sandakan, Sabah",
+        "alt": "Nhiều đầu lân trang phục múa lân rực rỡ màu hồng, vàng và trắng tụ lại trước một cửa tiệm trong lễ hội Tết Nguyên đán của người Hoa Malaysia trên phố, với một người biểu diễn đầu to màu đỏ ở giữa họ."
+      }
+    ],
+    "ta": [
+      {
+        "subject": "கோலாலம்பூர் KL Sentral இல் தீபாவளிக்கான மயில் வடிவ கோலம்",
+        "alt": "கோலாலம்பூர் KL Sentral இல் தீபாவளிக்காக வண்ணப் பொடியால் தரையில் அமைக்கப்பட்ட, பிரகாசமான வண்ணங்கள் கொண்ட பெரிய மயில் வடிவ கோலம்."
+      },
+      {
+        "subject": "சபாவின் சண்டக்கானில் சீனப் புத்தாண்டு சிங்க நடனக் குழு",
+        "alt": "மலேசிய சீனப் புத்தாண்டு தெரு விழாவின்போது ஒரு கடை முன்பு, இளஞ்சிவப்பு, மஞ்சள், வெள்ளை நிறங்களில் பல பிரகாசமான சிங்க நடன உடை தலைகள் கூடியுள்ளன; அவற்றிடையே சிவப்பு பெரிய தலை வேடமணிந்த கலைஞர் ஒருவரும் உள்ளார்."
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कुआलालंपुर के KL Sentral में दीपावली के लिए फर्श पर रंगीन पाउडर से बनाया गया एक बड़ा, चटख रंगों वाला मोर के आकार का kolam।",
+        "subject": "कुआलालंपुर के KL Sentral में दीपावली का मोर kolam फर्श-रचना"
+      },
+      {
+        "alt": "एक मलेशियाई चीनी नववर्ष की सड़क पर होने वाले उत्सव के दौरान गुलाबी, पीले और सफेद रंग के कई चटख शेर-नृत्य वेशभूषा वाले सिर एक दुकान के सामने इकट्ठा हैं, जिनमें एक लाल बड़े सिर वाला कलाकार भी शामिल है।",
+        "subject": "सांडाकान, Sabah में चीनी नववर्ष की शेर-नृत्य मंडली"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "رسم kolam كبير زاهي الألوان على شكل طاووس، مصنوع من مسحوق ملوّن مفروش على الأرض بمناسبة دیبافالي (دِيپاوالي) في KL Sentral بكوالالمبور.",
+        "subject": "رسم kolam أرضي على شكل طاووس بمناسبة دِيپاوالي في KL Sentral، كوالالمبور"
+      },
+      {
+        "alt": "تتجمّع عدة رؤوس لأزياء رقصة الأسد زاهية الألوان بالوردي والأصفر والأبيض أمام واجهة متجر خلال احتفال ماليزي بالسنة الصينية الجديدة في الشارع، وبينها مؤدٍّ أحمر ذو رأس كبير.",
+        "subject": "فرقة رقص الأسد في احتفال السنة الصينية الجديدة في سانداكان، صباح"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un gran kolam con forma de pavo real, de colores vivos y hecho con polvo de colores, dispuesto en el suelo para Deepavali en KL Sentral, en Kuala Lumpur.",
+        "subject": "Un kolam de suelo con forma de pavo real por Deepavali en KL Sentral, Kuala Lumpur"
+      },
+      {
+        "alt": "Varias cabezas de disfraz de danza del león, de vivos colores rosa, amarillo y blanco, se agrupan frente a un local durante una celebración callejera del Año Nuevo Chino en Malasia, con un intérprete de gran cabeza roja entre ellas.",
+        "subject": "Comparsa de danza del león del Año Nuevo Chino en Sandakan, Sabah"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un grand kolam en forme de paon, aux couleurs vives et réalisé avec de la poudre colorée, disposé au sol pour Deepavali à KL Sentral, à Kuala Lumpur.",
+        "subject": "Un kolam au sol en forme de paon pour Deepavali à KL Sentral, Kuala Lumpur"
+      },
+      {
+        "alt": "Plusieurs têtes de costume de danse du lion aux couleurs vives, rose, jaune et blanc, se regroupent devant une devanture lors d'une fête de rue du Nouvel An chinois en Malaisie, parmi lesquelles un artiste à grosse tête rouge.",
+        "subject": "Troupe de danse du lion du Nouvel An chinois à Sandakan, Sabah"
+      }
+    ]
+  },
+  "malaysia/geography-overview": {
+    "zh": [
+      {
+        "subject": "霹雳怡保镜湖（Tasik Cermin）的石灰岩喀斯特峭壁",
+        "alt": "一面披覆着丛林的陡峭灰色石灰岩喀斯特峭壁直直地从一泓静谧的翡翠色湖水中拔地而起，崖面倒映在幽暗的水中。"
+      },
+      {
+        "subject": "登嘉楼小停泊岛（Pulau Perhentian Kecil）的热带海滩",
+        "alt": "在一座热带小岛上，一处白沙海湾两旁环绕着椰子树和木屋，连着清澈的碧蓝海水。"
+      }
+    ],
+    "ja": [
+      {
+        "subject": "ペラ州イポーのタシク・チェルミン（鏡の湖）の石灰岩カルスト断崖",
+        "alt": "ジャングルに覆われた切り立った灰色の石灰岩カルストの断崖が、静かなエメラルド色の湖から真っすぐにそびえ立ち、その岩肌が暗い水面に映っている。"
+      },
+      {
+        "subject": "トレンガヌ州プラウ・プルフンティアン・クチルの熱帯のビーチ",
+        "alt": "小さな熱帯の島で、ヤシの木と木造のコテージに縁取られた白砂の入り江が、澄んだターコイズブルーの海に接している。"
+      }
+    ],
+    "ko": [
+      {
+        "subject": "페락주 이포 타식 체르민(거울 호수)의 석회암 카르스트 절벽",
+        "alt": "정글로 뒤덮인 가파른 회색 석회암 카르스트 절벽이 잔잔한 에메랄드빛 호수에서 곧장 솟아올라, 그 암벽이 어두운 물에 비친다."
+      },
+      {
+        "subject": "트렝가누주 프르헨티안 크칠섬(Pulau Perhentian Kecil)의 열대 해변",
+        "alt": "작은 열대 섬에서 야자수와 목조 방갈로로 둘러싸인 흰 모래 만이 맑은 청록색 바다와 맞닿아 있다."
+      }
+    ],
+    "th": [
+      {
+        "subject": "หน้าผาหินปูนคาสต์ที่ตาซิกเจอร์มิน (ทะเลสาบกระจก) เมืองอีโปห์ รัฐเปรัก",
+        "alt": "หน้าผาหินปูนคาสต์สีเทาชันตั้งฉากปกคลุมด้วยป่าดิบ ผุดขึ้นตรงจากทะเลสาบสีมรกตอันนิ่งสงบ โดยหน้าผาสะท้อนอยู่ในน้ำสีเข้ม"
+      },
+      {
+        "subject": "ชายหาดเขตร้อนบนเกาะเปอร์เฮินเตียนเกอจิล รัฐตรังกานู",
+        "alt": "อ่าวหาดทรายขาวที่รายล้อมด้วยต้นมะพร้าวและกระท่อมไม้ บรรจบกับน้ำทะเลสีฟ้าครามใสบนเกาะเขตร้อนขนาดเล็ก"
+      }
+    ],
+    "ms": [
+      {
+        "subject": "Cenuram karst batu kapur di Tasik Cermin, Ipoh, Perak",
+        "alt": "Cenuram karst batu kapur kelabu yang curam berselaput hutan menjulang terus dari sebuah tasik zamrud yang tenang, dengan permukaannya terbayang pada air yang gelap."
+      },
+      {
+        "subject": "Pantai tropika di Pulau Perhentian Kecil, Terengganu",
+        "alt": "Sebuah teluk kecil berpasir putih yang dipagari pokok kelapa dan chalet kayu bertemu air pirus yang jernih di sebuah pulau tropika kecil."
+      }
+    ],
+    "id": [
+      {
+        "subject": "Tebing karst batu kapur di Tasik Cermin (Danau Cermin), Ipoh, Perak",
+        "alt": "Tebing karst batu kapur abu-abu yang curam berselimut hutan menjulang langsung dari sebuah danau zamrud yang tenang, dengan permukaannya terpantul di air yang gelap."
+      },
+      {
+        "subject": "Pantai tropis di Pulau Perhentian Kecil, Terengganu",
+        "alt": "Sebuah teluk kecil berpasir putih yang dikelilingi pohon kelapa dan pondok kayu bertemu air biru kehijauan yang jernih di sebuah pulau tropis kecil."
+      }
+    ],
+    "vi": [
+      {
+        "subject": "Vách núi đá vôi karst tại Tasik Cermin (Hồ Gương), Ipoh, Perak",
+        "alt": "Một vách núi đá vôi karst xám dựng đứng phủ rừng rậm vươn thẳng lên từ một hồ nước xanh ngọc tĩnh lặng, mặt vách soi bóng trong làn nước sẫm."
+      },
+      {
+        "subject": "Bãi biển nhiệt đới trên đảo Perhentian Kecil, Terengganu",
+        "alt": "Một vịnh nhỏ cát trắng viền những hàng dừa và các nhà gỗ gặp làn nước xanh ngọc trong vắt trên một hòn đảo nhiệt đới nhỏ."
+      }
+    ],
+    "ta": [
+      {
+        "subject": "பேராக், இப்போவில் உள்ள தாசிக் செர்மின் (கண்ணாடி ஏரி) சுண்ணாம்புக் கற்பாறை சரிவு",
+        "alt": "காட்டால் மூடப்பட்ட செங்குத்தான சாம்பல் நிற சுண்ணாம்புக் கற்பாறை ஒரு அமைதியான மரகத நிற ஏரியிலிருந்து நேராக உயர்கிறது, அதன் முகம் இருண்ட நீரில் பிரதிபலிக்கிறது."
+      },
+      {
+        "subject": "திரெங்கானு, பெர்ஹெந்தியான் கெச்சில் தீவில் உள்ள வெப்பமண்டலக் கடற்கரை",
+        "alt": "தென்னை மரங்களும் மரச் சாலைகளும் சூழ்ந்த வெண்மணல் குடாக்கரை, ஒரு சிறிய வெப்பமண்டலத் தீவில் தெளிவான பச்சை நீல நீருடன் சந்திக்கிறது."
+      }
+    ],
+    "hi": [
+      {
+        "alt": "जंगल से ढकी एक सीधी धूसर चूना-पत्थर की कार्स्ट चट्टान एक शांत पन्ना-हरे झील से सीधे ऊपर उठती है, और उसका मुख गहरे पानी में प्रतिबिंबित होता है।",
+        "subject": "Tasik Cermin (Mirror Lake), इपोह, पेराक की चूना-पत्थर कार्स्ट चट्टान"
+      },
+      {
+        "alt": "नारियल के पेड़ों और लकड़ी के शैले से घिरी एक सफेद-रेत वाली खाड़ी एक छोटे उष्णकटिबंधीय द्वीप पर साफ फ़िरोज़ी पानी से मिलती है।",
+        "subject": "Pulau Perhentian Kecil, तेरेंगानु का उष्णकटिबंधीय समुद्र-तट"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "جرف كلسي كارستي رمادي شديد الانحدار تكسوه الأدغال ينتصب مباشرة من بحيرة ساكنة بلون الزمرد، وتنعكس واجهته في الماء الداكن.",
+        "subject": "جرف كلسي كارستي عند Tasik Cermin (Mirror Lake)، إيبوه، بيراق"
+      },
+      {
+        "alt": "خليج صغير ذو رمال بيضاء تحفّه أشجار جوز الهند وأكواخ خشبية يلتقي بمياه فيروزية صافية في جزيرة استوائية صغيرة.",
+        "subject": "شاطئ استوائي في Pulau Perhentian Kecil، تيرينغانو"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un escarpado acantilado kárstico de piedra caliza gris, cubierto de selva, se alza directamente desde un lago esmeralda en calma, con su pared reflejada en las aguas oscuras.",
+        "subject": "Acantilado kárstico de piedra caliza en Tasik Cermin (Mirror Lake), Ipoh, Perak"
+      },
+      {
+        "alt": "Una cala de arena blanca bordeada de cocoteros y cabañas de madera se encuentra con aguas turquesas y cristalinas en una pequeña isla tropical.",
+        "subject": "Playa tropical en Pulau Perhentian Kecil, Terengganu"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une falaise karstique de calcaire gris, abrupte et couverte de jungle, s'élève directement d'un lac émeraude immobile, sa paroi se reflétant dans l'eau sombre.",
+        "subject": "Falaise karstique de calcaire à Tasik Cermin (Mirror Lake), Ipoh, Perak"
+      },
+      {
+        "alt": "Une crique de sable blanc bordée de cocotiers et de chalets en bois rencontre une eau turquoise limpide sur une petite île tropicale.",
+        "subject": "Plage tropicale sur Pulau Perhentian Kecil, Terengganu"
+      }
+    ]
+  },
+  "malaysia/peninsular-and-borneo": {
+    "zh": [
+      {
+        "subject": "雪兰莪适耕庄（Sekinchan）的低地稻田（马来半岛）",
+        "alt": "一片平坦辽阔、翠绿欲滴的稻田向着一道低矮的树木地平线延伸，上方是辽阔淡蓝的天空。"
+      },
+      {
+        "subject": "沙巴苏考（Sukau）的京那巴当岸河（Kinabatangan River，马来西亚婆罗洲）",
+        "alt": "一条宽阔浑浊的黄褐色雨林河流在茂密的丛林河岸之间蜿蜒流淌，几艘绿色小木船系泊在一座木制码头旁。"
+      }
+    ],
+    "ja": [
+      {
+        "subject": "スランゴール州スキンチャンの低地の水田（マレー半島）",
+        "alt": "鮮やかな緑の水田が平らに広がり、低い並木の地平線まで続き、その上には広く淡い青空が広がっている。"
+      },
+      {
+        "subject": "サバ州スカウのキナバタンガン川（ボルネオ・マレーシア）",
+        "alt": "幅広く濁った黄褐色の熱帯雨林の川が、密林の岸辺の間を曲がりくねって流れ、小さな緑の木造ボートが木の桟橋に係留されている。"
+      }
+    ],
+    "ko": [
+      {
+        "subject": "슬랑오르주 스킨찬(Sekinchan)의 저지대 논(말레이반도)",
+        "alt": "선명한 초록빛 논이 평평하게 펼쳐져 낮은 나무들이 늘어선 지평선까지 이어지고, 그 위로 넓고 옅은 푸른 하늘이 펼쳐져 있다."
+      },
+      {
+        "subject": "사바주 수카우(Sukau)의 키나바탕안강(보르네오 말레이시아)",
+        "alt": "넓고 탁한 황갈색 열대우림 강이 울창한 정글 강둑 사이를 굽이쳐 흐르고, 작은 초록색 목조 배들이 나무 선착장에 매여 있다."
+      }
+    ],
+    "th": [
+      {
+        "subject": "นาข้าวพื้นราบที่เซอกินจัน รัฐสลังงอร์ (มาเลเซียคาบสมุทร)",
+        "alt": "ผืนนาข้าวสีเขียวสดราบเรียบทอดยาวไปจนถึงเส้นขอบฟ้าที่มีแนวต้นไม้เตี้ย ภายใต้ท้องฟ้าสีฟ้าซีดอันกว้างใหญ่"
+      },
+      {
+        "subject": "แม่น้ำกินาบาตังงันที่ซูเกา รัฐซาบะฮ์ (มาเลเซียบอร์เนียว)",
+        "alt": "แม่น้ำป่าดิบสีน้ำตาลขุ่นกว้างใหญ่คดเคี้ยวไปตามริมฝั่งป่าทึบ มีเรือไม้สีเขียวลำเล็กผูกจอดอยู่ที่ท่าเทียบเรือไม้"
+      }
+    ],
+    "ms": [
+      {
+        "subject": "Sawah padi tanah rendah di Sekinchan, Selangor (Semenanjung Malaysia)",
+        "alt": "Hamparan sawah padi hijau menyala yang rata terbentang hingga ke kaki langit rendah berbaris pokok di bawah langit biru pucat yang luas."
+      },
+      {
+        "subject": "Sungai Kinabatangan di Sukau, Sabah (Malaysia Borneo)",
+        "alt": "Sebatang sungai hutan hujan yang lebar dan berwarna perang berlumpur membelok di antara tebing hutan tebal, dengan bot kayu hijau kecil ditambat di sebuah jeti kayu."
+      }
+    ],
+    "id": [
+      {
+        "subject": "Sawah dataran rendah di Sekinchan, Selangor (Semenanjung Malaysia)",
+        "alt": "Hamparan sawah hijau menyala yang datar membentang hingga ke cakrawala rendah berbaris pepohonan di bawah langit biru pucat yang luas."
+      },
+      {
+        "subject": "Sungai Kinabatangan di Sukau, Sabah (Malaysia Borneo)",
+        "alt": "Sebuah sungai hutan hujan yang lebar dan berwarna cokelat berlumpur berkelok di antara tepian hutan lebat, dengan perahu kayu hijau kecil tertambat di sebuah dermaga kayu."
+      }
+    ],
+    "vi": [
+      {
+        "subject": "Ruộng lúa vùng thấp ở Sekinchan, Selangor (Bán đảo Malaysia)",
+        "alt": "Một vùng ruộng lúa xanh mướt phẳng lặng trải dài đến đường chân trời thấp viền hàng cây dưới bầu trời xanh nhạt bao la."
+      },
+      {
+        "subject": "Sông Kinabatangan tại Sukau, Sabah (Malaysia vùng Borneo)",
+        "alt": "Một con sông rừng mưa rộng, màu nâu đục phù sa uốn lượn giữa những bờ rừng rậm rạp, với những chiếc thuyền gỗ xanh nhỏ neo tại một bến gỗ."
+      }
+    ],
+    "ta": [
+      {
+        "subject": "செலாங்கூர், செக்கின்சானில் உள்ள தாழ்நிலப் பகுதி நெல்வயல்கள் (தீபகற்ப மலேசியா)",
+        "alt": "பரந்த வெளிர் நீல வானத்தின் கீழ், மரங்கள் நிறைந்த தாழ்வான அடிவானம் வரை பசேலென்ற பச்சை நெல்வயல்களின் தட்டையான பரப்பு நீள்கிறது."
+      },
+      {
+        "subject": "சபா, சுக்காவில் உள்ள கினபட்டாங்கான் ஆறு (போர்னியோ மலேசியா)",
+        "alt": "அடர்ந்த காட்டுக் கரைகளுக்கு இடையே அகன்ற, சேற்று பழுப்பு நிற மழைக்காட்டு ஆறு வளைகிறது; ஒரு மரச் சிறு துறையில் சிறிய பச்சை மரப் படகுகள் கட்டப்பட்டுள்ளன."
+      }
+    ],
+    "hi": [
+      {
+        "alt": "चटख हरे धान के खेतों का एक समतल विस्तार एक विस्तृत हल्के-नीले आसमान के नीचे पेड़ों की कतार वाले नीचे क्षितिज तक फैला है।",
+        "subject": "Sekinchan, Selangor (प्रायद्वीपीय मलेशिया) के निचले धान के खेत"
+      },
+      {
+        "alt": "एक चौड़ी, कीचड़ भरी भूरी वर्षावन नदी घने जंगल वाले किनारों के बीच मुड़ती है, और लकड़ी के एक घाट पर छोटी हरी लकड़ी की नावें बंधी हैं।",
+        "subject": "Sukau, Sabah (बोर्नियाई मलेशिया) में Kinabatangan नदी"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "امتداد مسطح من حقول الأرز الخضراء الزاهية يمتد حتى أفق منخفض تحفّه الأشجار تحت سماء واسعة زرقاء باهتة.",
+        "subject": "حقول أرز منخفضة في Sekinchan، سلانغور (شبه جزيرة ماليزيا)"
+      },
+      {
+        "alt": "نهر عريض بنّي موحل يجري في الغابة المطيرة وينعطف بين ضفتين كثيفتي الأدغال، مع قوارب خشبية خضراء صغيرة راسية عند رصيف خشبي.",
+        "subject": "نهر Kinabatangan عند Sukau، صباح (ماليزيا البورنيوية)"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una extensión llana de arrozales de un verde intenso se prolonga hasta un horizonte bajo bordeado de árboles bajo un amplio cielo azul pálido.",
+        "subject": "Arrozales de tierras bajas en Sekinchan, Selangor (Malasia peninsular)"
+      },
+      {
+        "alt": "Un ancho río de selva, de aguas pardas y turbias, serpentea entre densas orillas de jungla, con pequeñas barcas de madera verdes amarradas en un embarcadero de troncos.",
+        "subject": "El río Kinabatangan en Sukau, Sabah (Malasia de Borneo)"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une étendue plate de rizières d'un vert vif s'étire jusqu'à un horizon bas bordé d'arbres, sous un vaste ciel bleu pâle.",
+        "subject": "Rizières de plaine à Sekinchan, Selangor (Malaisie péninsulaire)"
+      },
+      {
+        "alt": "Une large rivière de forêt tropicale, aux eaux brunes et boueuses, serpente entre des rives de jungle dense, avec de petites barques en bois vertes amarrées à un embarcadère en rondins.",
+        "subject": "La rivière Kinabatangan à Sukau, Sabah (Malaisie bornéenne)"
+      }
+    ]
+  },
+  "malaysia/urbanisation": {
+    "zh": [
+      {
+        "subject": "槟城乔治市的传统店屋街",
+        "alt": "一排两层楼的殖民时期店屋，设有拱形的五脚基骑楼，楼上是木百叶窗，排列在一条安静的老城街道上。"
+      },
+      {
+        "subject": "规划建设的联邦行政中心布城的斯里哇哇山大桥（Seri Wawasan Bridge）",
+        "alt": "一座白色帆形斜拉桥横跨一片湖面，桥前是一排排中层公寓楼，上方是阴沉的天空。"
+      }
+    ],
+    "ja": [
+      {
+        "subject": "ペナン州ジョージタウンの歴史的なショップハウスの通り",
+        "alt": "アーチ型のファイブフットウェイ（五脚基）のアーケードと木製鎧戸の上階を持つ、植民地時代の2階建てショップハウスが、静かな旧市街の通りに軒を連ねている。"
+      },
+      {
+        "subject": "計画都市である連邦行政都市プトラジャヤのスリ・ワワサン橋",
+        "alt": "白い帆の形をした斜張橋が湖に架かり、その手前には中層のアパート群が並び、上空には灰色の空が広がっている。"
+      }
+    ],
+    "ko": [
+      {
+        "subject": "페낭주 조지타운의 전통 숍하우스 거리",
+        "alt": "아치형 파이브풋웨이(오각기) 아케이드와 나무 덧문이 달린 위층을 갖춘 식민지 시대의 2층 숍하우스들이 조용한 구도심 거리에 늘어서 있다."
+      },
+      {
+        "subject": "계획도시인 연방 행정수도 푸트라자야의 스리 와와산 다리",
+        "alt": "흰 돛 모양의 사장교가 호수를 가로지르고, 그 앞에는 중층 아파트 단지들이 줄지어 서 있으며, 위로는 잿빛 하늘이 드리워져 있다."
+      }
+    ],
+    "th": [
+      {
+        "subject": "ถนนตึกแถวมรดกในย่านจอร์จทาวน์ รัฐปีนัง",
+        "alt": "แถวตึกแถวสองชั้นยุคอาณานิคมที่มีระเบียงทางเดินห้าฟุตทรงโค้งและชั้นบนบานเกล็ดไม้ เรียงรายอยู่ริมถนนเมืองเก่าอันเงียบสงบ"
+      },
+      {
+        "subject": "สะพานเซอรีวาวาซันในเมืองปุตราจายา เมืองหลวงราชการสหพันธ์ที่วางผังไว้",
+        "alt": "สะพานขึงรูปใบเรือสีขาวทอดข้ามทะเลสาบด้านหน้าอาคารอพาร์ตเมนต์ขนาดกลางที่เรียงเป็นแถวภายใต้ท้องฟ้าสีเทา"
+      }
+    ],
+    "ms": [
+      {
+        "subject": "Jalan rumah kedai warisan di George Town, Pulau Pinang",
+        "alt": "Sebaris rumah kedai dua tingkat era kolonial dengan beranda lima kaki berlengkung dan tingkat atas berbingkai tingkap kayu memagari sebuah jalan bandar lama yang sunyi."
+      },
+      {
+        "subject": "Jambatan Seri Wawasan di bandar raya persekutuan terancang Putrajaya",
+        "alt": "Sebatang jambatan tambatan kabel putih berbentuk layar merentangi sebuah tasik di hadapan deretan blok pangsapuri bertingkat sederhana di bawah langit kelabu."
+      }
+    ],
+    "id": [
+      {
+        "subject": "Jalan ruko warisan di George Town, Penang",
+        "alt": "Sederet ruko dua lantai era kolonial dengan serambi lima kaki berlengkung dan lantai atas berdaun jendela kayu memagari sebuah jalan kota tua yang sepi."
+      },
+      {
+        "subject": "Jembatan Seri Wawasan di kota federal terencana Putrajaya",
+        "alt": "Sebuah jembatan kabel putih berbentuk layar membentang di atas sebuah danau di depan deretan blok apartemen bertingkat sedang di bawah langit kelabu."
+      }
+    ],
+    "vi": [
+      {
+        "subject": "Phố nhà phố di sản ở George Town, Penang",
+        "alt": "Một dãy nhà phố hai tầng thời thuộc địa với hành lang vòm 'năm bộ' và tầng trên có cửa chớp gỗ nằm dọc một con phố phố cổ yên tĩnh."
+      },
+      {
+        "subject": "Cầu Seri Wawasan ở thành phố liên bang quy hoạch Putrajaya",
+        "alt": "Một cây cầu dây văng màu trắng hình cánh buồm bắc qua một hồ nước trước những dãy chung cư tầm trung dưới bầu trời xám."
+      }
+    ],
+    "ta": [
+      {
+        "subject": "பினாங்கு, ஜார்ஜ் டவுனில் உள்ள பாரம்பரிய கடைவீட்டுத் தெரு",
+        "alt": "வளைவான ஐந்தடி நடைபாதை மண்டபங்களும், மரச் சட்டக ஜன்னல்கள் கொண்ட மேல் தளங்களும் கொண்ட இரண்டு மாடி காலனித்துவ கால கடைவீடுகளின் வரிசை, அமைதியான பழைய நகரத் தெருவில் வரிசையாக நிற்கிறது."
+      },
+      {
+        "subject": "திட்டமிட்டு அமைக்கப்பட்ட கூட்டாட்சி நகரமான புத்ராஜெயாவில் உள்ள ஸ்ரீ வாவாசான் பாலம்",
+        "alt": "சாம்பல் வானத்தின் கீழ், நடுத்தர உயர குடியிருப்புத் தொகுதிகளின் வரிசைகளுக்கு முன்பு, ஏரி ஒன்றைக் கடந்து பாய்மர வடிவ வெண்ணிற கேபிள் தொங்கு பாலம் விரிகிறது."
+      }
+    ],
+    "hi": [
+      {
+        "alt": "मेहराबदार 'फाइव-फुट-वे' बरामदों और लकड़ी के झिलमिली वाले ऊपरी तलों वाली दो-मंज़िला औपनिवेशिक-कालीन दुकान-घरों (shophouses) की एक कतार पुराने शहर की एक शांत गली के किनारे खड़ी है।",
+        "subject": "जॉर्ज टाउन, पेनांग की ऐतिहासिक shophouse गली"
+      },
+      {
+        "alt": "एक सफेद पाल के आकार का केबल-स्टेड पुल धूसर आसमान के नीचे मध्यम-ऊँचाई वाले अपार्टमेंट ब्लॉकों की कतारों के सामने एक झील को पार करता है।",
+        "subject": "नियोजित संघीय शहर पुत्राजया में Seri Wawasan पुल"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "صفّ من المحال-المساكن (shophouses) ذات الطابقين من الحقبة الاستعمارية بأروقة مقوّسة من طراز 'الممر بعرض خمسة أقدام' وطوابق علوية بمصاريع خشبية يصطف على طول شارع هادئ في البلدة القديمة.",
+        "subject": "شارع المحال التراثية (shophouses) في جورج تاون، بينانغ"
+      },
+      {
+        "alt": "جسر أبيض معلّق بالكابلات على شكل شراع يعبر بحيرة أمام صفوف من المباني السكنية متوسطة الارتفاع تحت سماء رمادية.",
+        "subject": "جسر Seri Wawasan في المدينة الاتحادية المخطّطة بوتراجايا"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una hilera de shophouses de dos plantas de la época colonial, con arcadas de «paso de cinco pies» y pisos superiores de postigos de madera, bordea una tranquila calle del casco antiguo.",
+        "subject": "Calle de shophouses patrimoniales en George Town, Penang"
+      },
+      {
+        "alt": "Un puente atirantado blanco en forma de vela cruza un lago frente a hileras de bloques de apartamentos de altura media bajo un cielo gris.",
+        "subject": "Puente Seri Wawasan en la ciudad federal planificada de Putrajaya"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une rangée de shophouses de deux étages de l'époque coloniale, avec des arcades de « passage de cinq pieds » et des étages supérieurs aux volets de bois, borde une rue tranquille de la vieille ville.",
+        "subject": "Rue de shophouses patrimoniales à George Town, Penang"
+      },
+      {
+        "alt": "Un pont à haubans blanc en forme de voile enjambe un lac devant des rangées d'immeubles d'habitation de hauteur moyenne sous un ciel gris.",
+        "subject": "Pont Seri Wawasan dans la ville fédérale planifiée de Putrajaya"
+      }
+    ]
+  },
+  "malaysia/monsoons": {
+    "zh": [
+      {
+        "subject": "暴雨淹没了吉隆坡的拉惹朱兰路（Jalan Raja Chulan）",
+        "alt": "在一场倾盆热带暴雨中，一辆汽车驶过淹没街道的黄褐色洪水，溅起水花。"
+      },
+      {
+        "subject": "季风洪水漫过沙巴山打根的一条甘榜道路",
+        "alt": "倾盆大雨落在一条被浑浊洪水淹没的乡村小路上，水中立着香蕉树和一根电线杆。"
+      }
+    ],
+    "ja": [
+      {
+        "subject": "クアラルンプールのジャラン・ラジャ・チュランを冠水させる豪雨",
+        "alt": "激しい熱帯の豪雨の中、一台の車が街路を覆う茶色の洪水の中を走り抜け、しぶきを上げている。"
+      },
+      {
+        "subject": "サバ州サンダカンのカンポンの道を覆うモンスーンの洪水",
+        "alt": "濁った洪水に沈んだ村の小道に激しい雨が降り注ぎ、水の中にバナナの木と電柱が立っている。"
+      }
+    ],
+    "ko": [
+      {
+        "subject": "쿠알라룸푸르 잘란 라자 출란을 침수시킨 폭우",
+        "alt": "거센 열대 폭우 속에서 자동차 한 대가 거리를 뒤덮은 황갈색 홍수 물을 가르며 물보라를 일으킨다."
+      },
+      {
+        "subject": "사바주 산다칸의 캄풍 도로를 뒤덮은 몬순 홍수",
+        "alt": "탁한 홍수 물에 잠긴 마을 길에 세찬 비가 쏟아지고, 물속에 바나나 나무와 전봇대가 서 있다."
+      }
+    ],
+    "th": [
+      {
+        "subject": "ฝนตกหนักจนท่วมถนนราจาชูลัน กรุงกัวลาลัมเปอร์",
+        "alt": "รถยนต์คันหนึ่งสาดน้ำกระเซ็นขณะขับผ่านน้ำท่วมสีน้ำตาลที่ท่วมถนนในเมืองระหว่างฝนตกหนักในเขตร้อน"
+      },
+      {
+        "subject": "น้ำท่วมจากมรสุมท่วมถนนในหมู่บ้านที่เมืองซันดากัน รัฐซาบะฮ์",
+        "alt": "สายฝนกระหน่ำลงบนตรอกในหมู่บ้านที่จมอยู่ใต้น้ำท่วมขุ่น โดยมีต้นกล้วยและเสาไฟฟ้ายืนอยู่ในน้ำ"
+      }
+    ],
+    "ms": [
+      {
+        "subject": "Hujan lebat yang membanjiri Jalan Raja Chulan, Kuala Lumpur",
+        "alt": "Sebuah kereta merembeskan percikan air ketika memandu menerusi air banjir berwarna perang yang menenggelami jalan bandar semasa hujan lebat tropika."
+      },
+      {
+        "subject": "Air banjir monsun melitupi jalan kampung di Sandakan, Sabah",
+        "alt": "Hujan yang mencurah-curah turun ke atas lorong kampung yang tenggelam di bawah air banjir berlumpur, dengan pokok pisang dan sebatang tiang elektrik tercacak dalam air."
+      }
+    ],
+    "id": [
+      {
+        "subject": "Hujan deras yang membanjiri Jalan Raja Chulan, Kuala Lumpur",
+        "alt": "Sebuah mobil memercikkan air saat melaju menembus air banjir berwarna cokelat yang menggenangi jalan kota ketika hujan tropis lebat."
+      },
+      {
+        "subject": "Air banjir musim hujan menggenangi jalan kampung di Sandakan, Sabah",
+        "alt": "Hujan deras turun ke atas gang kampung yang tergenang di bawah air banjir berlumpur, dengan pohon pisang dan sebuah tiang listrik tertancap di dalam air."
+      }
+    ],
+    "vi": [
+      {
+        "subject": "Trận mưa lớn gây ngập đường Jalan Raja Chulan, Kuala Lumpur",
+        "alt": "Một chiếc ô tô bắn tung nước khi chạy qua dòng nước lũ màu nâu ngập con phố thành phố trong một trận mưa nhiệt đới xối xả."
+      },
+      {
+        "subject": "Nước lũ mùa mưa tràn con đường làng ở Sandakan, Sabah",
+        "alt": "Mưa như trút xuống một con ngõ làng ngập trong dòng nước lũ đục bùn, với những cây chuối và một cột điện đứng giữa nước."
+      }
+    ],
+    "ta": [
+      {
+        "subject": "கோலாலம்பூர், ஜாலான் ராஜா சுலானை வெள்ளத்தில் மூழ்கடித்த கனமழை",
+        "alt": "கடுமையான வெப்பமண்டலக் கனமழையின்போது, நகரத் தெருவை மூழ்கடித்த பழுப்பு நிற வெள்ள நீரின் வழியே ஒரு கார் நீரைத் தெறிக்கவிட்டபடி செல்கிறது."
+      },
+      {
+        "subject": "சபா, சண்டக்கானில் ஒரு கிராமச் சாலையை மூடிய பருவமழை வெள்ள நீர்",
+        "alt": "சேற்று வெள்ள நீரில் மூழ்கிய கிராமப் பாதையின் மேல் கொட்டும் மழை பெய்கிறது; வாழை மரங்களும் ஒரு மின்கம்பமும் நீரில் நின்றுகொண்டிருக்கின்றன."
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक भारी उष्णकटिबंधीय मूसलाधार बारिश के दौरान एक शहर की सड़क को ढके भूरे बाढ़ के पानी से गुज़रती हुई एक कार पानी की फुहार उछालती है।",
+        "subject": "Jalan Raja Chulan, कुआलालंपुर में बाढ़ लाती मूसलाधार बारिश"
+      },
+      {
+        "alt": "मूसलाधार बारिश एक गाँव की गली पर पड़ रही है जो कीचड़ भरे बाढ़ के पानी में डूबी है, और केले के पेड़ तथा एक बिजली का खंभा पानी में खड़े हैं।",
+        "subject": "सांडाकान, Sabah में एक kampung सड़क पर मानसून का बाढ़-पानी"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "سيارة ترفع رذاذًا وهي تشقّ مياه فيضان بنّية تغطّي شارعًا في المدينة خلال هطول مطري استوائي غزير.",
+        "subject": "هطول غزير يُغرق شارع Jalan Raja Chulan، كوالالمبور"
+      },
+      {
+        "alt": "مطر غزير يتساقط على زقاق قروي غمرته مياه فيضان موحلة، مع أشجار موز وعمود كهرباء ينتصبان في الماء.",
+        "subject": "مياه فيضان موسمية تغطّي طريقًا قرويًا (kampung) في سانداكان، صباح"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un coche levanta una rociada al circular por aguas pardas de inundación que cubren una calle de la ciudad durante un intenso aguacero tropical.",
+        "subject": "Un aguacero inunda Jalan Raja Chulan, Kuala Lumpur"
+      },
+      {
+        "alt": "La lluvia torrencial cae sobre un camino de aldea sumergido bajo aguas turbias de inundación, con plataneros y un poste eléctrico en pie dentro del agua.",
+        "subject": "Agua de inundación monzónica sobre un camino de kampung en Sandakan, Sabah"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une voiture soulève une gerbe d'eau en traversant les eaux brunes d'une inondation qui recouvrent une rue de la ville lors d'une forte averse tropicale.",
+        "subject": "Une averse inonde Jalan Raja Chulan, Kuala Lumpur"
+      },
+      {
+        "alt": "Une pluie battante tombe sur une ruelle de village submergée sous des eaux de crue boueuses, avec des bananiers et un poteau électrique dressés dans l'eau.",
+        "subject": "Eaux de crue de la mousson sur une route de kampung à Sandakan, Sabah"
+      }
+    ]
+  },
+  "malaysia/malaysia-at-a-glance": {
+    "zh": [
+      {
+        "subject": "吉隆坡的亚罗街（Jalan Alor）夜市大排档美食街",
+        "alt": "一条热闹的夜市美食街在红灯笼的映照下流光溢彩，食客坐满了大排档旁的红色塑料桌，一旁还有一辆榴梿车。"
+      },
+      {
+        "subject": "从彭亨的德里塞山（Bukit Terisek）眺望国家公园（Taman Negara）的雨林群山",
+        "alt": "从一处山顶空地越过茂密的雨林树冠望去，连绵不绝的丛林覆盖的群山在阴云密布的天空下渐渐隐入蓝色的雾霭之中。"
+      }
+    ],
+    "ja": [
+      {
+        "subject": "クアラルンプールのジャラン・アロー屋台街",
+        "alt": "にぎやかな夜市の屋台街が赤い提灯に照らされて輝き、屋台とドリアンの屋台の脇で、食事客が赤いプラスチックのテーブルを埋め尽くしている。"
+      },
+      {
+        "subject": "パハン州のブキット・テリセックから眺めるタマン・ヌガラの熱帯雨林の丘陵",
+        "alt": "果てしなく続くジャングルに覆われた丘陵が、曇り空の下で青い霞の中へと消えてゆく様子を、丘の上の開けた場所から密生した熱帯雨林の樹冠越しに望む。"
+      }
+    ],
+    "ko": [
+      {
+        "subject": "쿠알라룸푸르의 잘란 알로르 야시장 노점 음식 거리",
+        "alt": "붐비는 야시장 음식 거리가 붉은 종이 등불 아래 빛나고, 노점과 두리안 수레 옆으로 식사하는 사람들이 붉은 플라스틱 탁자를 가득 메우고 있다."
+      },
+      {
+        "subject": "파항주 부킷 테리섹에서 바라본 타만 느가라의 열대우림 구릉",
+        "alt": "언덕 꼭대기 공터에서 울창한 열대우림 수관 너머로, 끝없이 이어진 정글로 뒤덮인 구릉들이 흐린 하늘 아래 푸른 안개 속으로 사라져 간다."
+      }
+    ],
+    "th": [
+      {
+        "subject": "ถนนอาหารริมทางยามค่ำคืนจาลันอาโลร์ กรุงกัวลาลัมเปอร์",
+        "alt": "ถนนอาหารตลาดกลางคืนอันคึกคักเปล่งประกายใต้โคมไฟกระดาษสีแดง ขณะที่ผู้คนนั่งเต็มโต๊ะพลาสติกสีแดงข้างแผงลอยและรถเข็นทุเรียน"
+      },
+      {
+        "subject": "เนินเขาป่าดิบของตามันเนอการามองจากบูกิตเตอริเซก รัฐปะหัง",
+        "alt": "เนินเขาที่ปกคลุมด้วยป่าดิบทอดยาวไม่สิ้นสุดค่อย ๆ จางหายไปในหมอกสีฟ้าใต้ท้องฟ้าครึ้มเมฆ มองข้ามเรือนยอดป่าดิบอันหนาทึบจากลานโล่งบนยอดเขา"
+      }
+    ],
+    "ms": [
+      {
+        "subject": "Jalan makanan penjaja waktu malam Jalan Alor, Kuala Lumpur",
+        "alt": "Sebatang jalan makanan pasar malam yang sibuk bercahaya di bawah tanglung kertas merah ketika pengunjung memenuhi meja plastik merah di sebelah gerai penjaja dan sebuah kereta sorong durian."
+      },
+      {
+        "subject": "Bukit hutan hujan Taman Negara dilihat dari Bukit Terisek, Pahang",
+        "alt": "Bukit-bukau berselaput hutan tanpa penghujung lenyap menjadi jerebu biru di bawah langit mendung, dilihat merentasi silara hutan hujan tebal dari suatu lapang di puncak bukit."
+      }
+    ],
+    "id": [
+      {
+        "subject": "Jalan jajanan kaki lima malam Jalan Alor, Kuala Lumpur",
+        "alt": "Sebuah jalan jajanan pasar malam yang ramai bercahaya di bawah lampion kertas merah saat pengunjung memenuhi meja plastik merah di samping warung kaki lima dan sebuah gerobak durian."
+      },
+      {
+        "subject": "Perbukitan hutan hujan Taman Negara dilihat dari Bukit Terisek, Pahang",
+        "alt": "Perbukitan berselimut hutan tanpa ujung memudar menjadi kabut biru di bawah langit mendung, dilihat melintasi kanopi hutan hujan lebat dari sebuah tanah lapang di puncak bukit."
+      }
+    ],
+    "vi": [
+      {
+        "subject": "Phố ẩm thực đêm Jalan Alor, Kuala Lumpur",
+        "alt": "Một con phố ẩm thực chợ đêm nhộn nhịp rực sáng dưới những chiếc đèn lồng giấy đỏ khi thực khách ngồi kín các bàn nhựa đỏ bên những quầy hàng rong và một xe đẩy sầu riêng."
+      },
+      {
+        "subject": "Những ngọn đồi rừng mưa của Taman Negara nhìn từ Bukit Terisek, Pahang",
+        "alt": "Những ngọn đồi phủ rừng rậm trải dài vô tận mờ dần vào lớp sương xanh dưới bầu trời u ám, nhìn qua tán rừng mưa rậm rạp từ một khoảng trống trên đỉnh đồi."
+      }
+    ],
+    "ta": [
+      {
+        "subject": "கோலாலம்பூர், ஜாலான் ஆலோர் இரவு வீதி உணவுத் தெரு",
+        "alt": "சிவப்பு காகித விளக்குகளின் கீழ் பிரகாசிக்கும் பரபரப்பான இரவுச் சந்தை உணவுத் தெரு; வாடிக்கையாளர்கள் தெருவோரக் கடை மற்றும் ஒரு துரியன் தள்ளுவண்டிக்கு அருகில் சிவப்பு பிளாஸ்டிக் மேசைகளை நிரப்புகிறார்கள்."
+      },
+      {
+        "subject": "பகாங், புக்கிட் தெரிசெக்கிலிருந்து காணப்படும் தமன் நெகாராவின் மழைக்காட்டுக் குன்றுகள்",
+        "alt": "மேகமூட்டமான வானத்தின் கீழ், முடிவில்லா காட்டால் மூடப்பட்ட குன்றுகள் நீல மூடுபனியாக மறைகின்றன; குன்றுச்சியில் உள்ள ஒரு வெளியிடத்திலிருந்து அடர்ந்த மழைக்காட்டு மேற்பரப்பின் மேலாகக் காணப்படுகிறது."
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक व्यस्त रात्रि-बाज़ार की भोजन-गली लाल कागज़ी लालटेनों के नीचे चमकती है, जबकि भोजन करने वाले लोग हॉकर स्टॉलों और एक durian गाड़ी के पास लाल प्लास्टिक की मेज़ों को भर देते हैं।",
+        "subject": "Jalan Alor रात्रि हॉकर-भोजन गली, कुआलालंपुर"
+      },
+      {
+        "alt": "अनगिनत जंगल-ढकी पहाड़ियाँ एक बादल भरे आसमान के नीचे नीली धुंध में विलीन होती हैं, जिन्हें एक पहाड़ी की चोटी के खुले मैदान से घने वर्षावन की छतरी के ऊपर से देखा गया है।",
+        "subject": "Bukit Terisek, पहांग से दिखाई देती Taman Negara की वर्षावन पहाड़ियाँ"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "شارع طعام مزدحم في سوق ليلي يتوهّج تحت فوانيس ورقية حمراء بينما يملأ روّاد الطعام طاولات بلاستيكية حمراء بجانب أكشاك الباعة الجائلين وعربة دوريان.",
+        "subject": "شارع طعام الباعة الليلي Jalan Alor، كوالالمبور"
+      },
+      {
+        "alt": "تلال لا نهاية لها تكسوها الأدغال تتلاشى في ضباب أزرق تحت سماء غائمة، مشاهَدة فوق مظلّة كثيفة من الغابة المطيرة من فسحة على قمة تل.",
+        "subject": "تلال الغابة المطيرة في Taman Negara كما تُرى من Bukit Terisek، باهانغ"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una concurrida calle de comida de mercado nocturno reluce bajo farolillos de papel rojos mientras los comensales llenan mesas de plástico rojas junto a los puestos de hawker y un carrito de durián.",
+        "subject": "La calle de comida de hawkers nocturna Jalan Alor, Kuala Lumpur"
+      },
+      {
+        "alt": "Interminables colinas cubiertas de selva se desvanecen en una bruma azul bajo un cielo nublado, vistas por encima de la densa bóveda de la selva tropical desde un claro en la cima de una colina.",
+        "subject": "Colinas de selva tropical del Taman Negara vistas desde Bukit Terisek, Pahang"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une rue animée de nourriture de marché nocturne rougeoie sous des lanternes de papier rouges, tandis que les convives remplissent des tables en plastique rouges près des étals de hawkers et d'une charrette de durian.",
+        "subject": "La rue de restauration de hawkers nocturne Jalan Alor, Kuala Lumpur"
+      },
+      {
+        "alt": "D'innombrables collines couvertes de jungle s'estompent dans une brume bleue sous un ciel nuageux, vues au-dessus de la dense canopée de forêt tropicale depuis une clairière au sommet d'une colline.",
+        "subject": "Collines de forêt tropicale du Taman Negara vues depuis Bukit Terisek, Pahang"
+      }
+    ]
+  },
+  "malaysia/what-malaysia-is": {
+    "zh": [
+      {
+        "subject": "吉隆坡唐人街的茨厂街装饰牌坊",
+        "alt": "一座红金两色、顶端饰有龙形雕塑的中式牌坊上写着「JALAN PETALING / PETALING STREET」，下方悬挂着一条欢迎横幅，车辆从下方驶过。"
+      },
+      {
+        "subject": "雪兰莪黑风洞（Batu Caves）的金色姆鲁甘神像与彩虹阶梯",
+        "alt": "一尊高耸的金色姆鲁甘（Murugan）神像矗立在一段色彩斑斓的陡峭阶梯旁，阶梯攀上一座丛林覆盖的石灰岩峭壁，游客们正拾级而上。"
+      }
+    ],
+    "ja": [
+      {
+        "subject": "クアラルンプールのチャイナタウンにあるプタリン通りの装飾門",
+        "alt": "龍の装飾を頂いた赤と金の中国式の門に「JALAN PETALING / PETALING STREET」と記され、歓迎の横断幕の上に掲げられ、その下を車が通り過ぎている。"
+      },
+      {
+        "subject": "スランゴール州バトゥ洞窟の金色のムルガン神像とレインボー階段",
+        "alt": "高くそびえる金色のムルガン神像が、ジャングルに覆われた石灰岩の崖を登る色鮮やかな急な階段の脇に立ち、参拝者たちが上っていく。"
+      }
+    ],
+    "ko": [
+      {
+        "subject": "쿠알라룸푸르 차이나타운의 프탈링 거리 장식 패루",
+        "alt": "용 장식을 얹은 붉은색과 금색의 중국식 패루에 'JALAN PETALING / PETALING STREET'라고 적혀 있고, 환영 현수막 위로 솟아 있으며, 그 아래로 차들이 지나간다."
+      },
+      {
+        "subject": "슬랑오르주 바투 동굴의 황금빛 무루간 신상과 무지개 계단",
+        "alt": "우뚝 솟은 황금빛 무루간(Murugan) 신상이 정글로 뒤덮인 석회암 절벽을 오르는 색색의 가파른 계단 옆에 서 있고, 방문객들이 계단을 오르고 있다."
+      }
+    ],
+    "th": [
+      {
+        "subject": "ซุ้มประตูประดับถนนเปอตาลิงในย่านไชน่าทาวน์ กรุงกัวลาลัมเปอร์",
+        "alt": "ซุ้มประตูจีนสีแดงและทองที่มีมังกรประดับอยู่ด้านบน มีข้อความว่า JALAN PETALING / PETALING STREET อยู่เหนือป้ายต้อนรับ โดยมีรถยนต์แล่นผ่านด้านล่าง"
+      },
+      {
+        "subject": "เทวรูปพระขันทกุมาร (มุรุกัน) สีทองและบันไดสีรุ้งที่ถ้ำบาตู รัฐสลังงอร์",
+        "alt": "เทวรูปพระขันทกุมาร (มุรุกัน) สีทองสูงตระหง่านตั้งอยู่ข้างบันไดสีสันสดใสอันชันที่ทอดขึ้นหน้าผาหินปูนปกคลุมด้วยป่าดิบ ขณะที่ผู้มาเยือนกำลังเดินขึ้นไป"
+      }
+    ],
+    "ms": [
+      {
+        "subject": "Pintu gerbang hiasan Jalan Petaling di Pekan Cina Kuala Lumpur",
+        "alt": "Sebuah pintu gerbang lengkung Cina berwarna merah dan emas bermahkota naga tertulis JALAN PETALING / PETALING STREET di atas sepanduk ucapan selamat datang, dengan kereta lalu-lalang di bawahnya."
+      },
+      {
+        "subject": "Patung Dewa Murugan keemasan dan tangga pelangi di Batu Caves, Selangor",
+        "alt": "Patung emas Dewa Murugan yang menjulang berdiri di sebelah anak tangga curam berwarna-warni terang yang mendaki cenuram batu kapur berselaput hutan ketika pengunjung mendaki."
+      }
+    ],
+    "id": [
+      {
+        "subject": "Gapura hias Jalan Petaling di Pecinan Kuala Lumpur",
+        "alt": "Sebuah gapura lengkung Tionghoa berwarna merah dan emas bermahkota naga bertuliskan JALAN PETALING / PETALING STREET di atas spanduk selamat datang, dengan mobil berlalu-lalang di bawahnya."
+      },
+      {
+        "subject": "Patung Dewa Murugan keemasan dan tangga pelangi di Batu Caves, Selangor",
+        "alt": "Patung emas Dewa Murugan yang menjulang berdiri di samping anak tangga curam berwarna-warni cerah yang mendaki tebing batu kapur berselimut hutan saat para pengunjung menaikinya."
+      }
+    ],
+    "vi": [
+      {
+        "subject": "Cổng trang trí Petaling Street ở khu Chinatown Kuala Lumpur",
+        "alt": "Một cổng vòm kiểu Hoa màu đỏ và vàng trên đỉnh có rồng, khắc dòng chữ JALAN PETALING / PETALING STREET phía trên một băng rôn chào mừng, với những chiếc xe chạy qua bên dưới."
+      },
+      {
+        "subject": "Tượng Lord Murugan vàng và cầu thang cầu vồng ở Batu Caves, Selangor",
+        "alt": "Một bức tượng vàng khổng lồ của Lord Murugan đứng cạnh một dãy bậc thang dốc rực rỡ sắc màu leo lên vách núi đá vôi phủ rừng khi du khách bước lên."
+      }
+    ],
+    "ta": [
+      {
+        "subject": "கோலாலம்பூர் சைனாடவுனில் உள்ள அலங்கார ஜாலான் பெட்டாலிங் நுழைவாயில்",
+        "alt": "நாகங்களால் முடிசூட்டப்பட்ட சிவப்பு–தங்க நிற சீன வளைவு நுழைவாயில், வரவேற்பு பதாகைக்கு மேலே JALAN PETALING / PETALING STREET எனக் காட்டுகிறது; அதன் கீழே கார்கள் கடந்து செல்கின்றன."
+      },
+      {
+        "subject": "செலாங்கூர், பத்து குகைகளில் உள்ள தங்க நிற முருகன் சிலையும் வானவில் படிக்கட்டும்",
+        "alt": "காட்டால் மூடப்பட்ட சுண்ணாம்புக் கற்பாறையில் ஏறும் செங்குத்தான, பிரகாசமான வண்ணப் படிக்கட்டுகளின் அருகே, உயர்ந்து நிற்கும் முருகனின் பிரம்மாண்ட தங்கச் சிலை நிற்கிறது; பார்வையாளர்கள் படியேறுகிறார்கள்."
+      }
+    ],
+    "hi": [
+      {
+        "alt": "ड्रैगनों से सजा एक लाल-और-सुनहरा चीनी द्वार-मेहराब, जिस पर एक स्वागत बैनर के ऊपर JALAN PETALING / PETALING STREET लिखा है, और नीचे से कारें गुज़र रही हैं।",
+        "subject": "कुआलालंपुर के चाइनाटाउन में अलंकृत Petaling Street द्वार"
+      },
+      {
+        "alt": "भगवान Murugan की एक विशाल सुनहरी मूर्ति जंगल से ढकी एक चूना-पत्थर की चट्टान पर चढ़ती चटख रंगों वाली खड़ी सीढ़ियों की एक कतार के बगल में खड़ी है, जबकि दर्शक ऊपर चढ़ रहे हैं।",
+        "subject": "Batu Caves, Selangor में सुनहरी Lord Murugan मूर्ति और इंद्रधनुषी सीढ़ी"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "قوس بوابة صينية حمراء وذهبية تعلوها تنانين، وعليها عبارة JALAN PETALING / PETALING STREET فوق لافتة ترحيب، وتمرّ السيارات من تحتها.",
+        "subject": "بوابة Petaling Street المزخرفة في الحي الصيني بكوالالمبور"
+      },
+      {
+        "alt": "تمثال ذهبي شاهق للإله Murugan يقف بجانب درج شديد الانحدار بألوان زاهية يتسلّق جرفًا كلسيًا تكسوه الأدغال، فيما يصعد الزوّار.",
+        "subject": "تمثال Lord Murugan الذهبي ودرج قوس القزح في Batu Caves، سلانغور"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un arco de entrada chino rojo y dorado, rematado con dragones, muestra la inscripción JALAN PETALING / PETALING STREET sobre una pancarta de bienvenida, con coches pasando por debajo.",
+        "subject": "El ornamentado pórtico de Petaling Street en el barrio chino de Kuala Lumpur"
+      },
+      {
+        "alt": "Una imponente estatua dorada de Lord Murugan se alza junto a una empinada escalinata de peldaños de vivos colores que asciende por un acantilado de piedra caliza cubierto de selva, mientras los visitantes suben.",
+        "subject": "La estatua dorada de Lord Murugan y la escalinata arcoíris en Batu Caves, Selangor"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une arche d'entrée chinoise rouge et or, surmontée de dragons, porte l'inscription JALAN PETALING / PETALING STREET au-dessus d'une banderole de bienvenue, des voitures passant en dessous.",
+        "subject": "Le portail ornemental de Petaling Street dans le quartier chinois de Kuala Lumpur"
+      },
+      {
+        "alt": "Une imposante statue dorée de Lord Murugan se dresse à côté d'un escalier raide aux marches de couleurs vives qui grimpe le long d'une falaise calcaire couverte de jungle, tandis que des visiteurs y montent.",
+        "subject": "La statue dorée de Lord Murugan et l'escalier arc-en-ciel aux Batu Caves, Selangor"
+      }
+    ]
   }
 }

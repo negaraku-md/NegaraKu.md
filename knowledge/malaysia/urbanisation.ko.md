@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "말레이시아의 인구, 노동, 부동산 통계를 정확히 읽으려는 모든 이 — 인구와 노동력이 실제로 어디에 있는지를 평가하는 연구자, 계획가, 기업."
 
 lang: "ko"
-sourceContentHash: "7490bc9be18b1f7b"
+sourceContentHash: "e0c791d30a8c1253"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/urbanisation/body-1.webp
+    alt: 아치형 파이브풋웨이(오각기) 아케이드와 나무 덧문이 달린 위층을 갖춘 식민지 시대의 2층 숍하우스들이 조용한 구도심 거리에 늘어서 있다.
+    kind: actual
+    origin: third-party
+    subject: 페낭주 조지타운의 전통 숍하우스 거리
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
+  - role: scene
+    src: /media/malaysia/urbanisation/body-2.webp
+    alt: 흰 돛 모양의 사장교가 호수를 가로지르고, 그 앞에는 중층 아파트 단지들이 줄지어 서 있으며, 위로는 잿빛 하늘이 드리워져 있다.
+    kind: actual
+    origin: third-party
+    subject: 계획도시인 연방 행정수도 푸트라자야의 스리 와와산 다리
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 ## 이제 말레이시아인 네 명 중 세 명은 DOSM이 "도시"라 부르는 곳에 산다

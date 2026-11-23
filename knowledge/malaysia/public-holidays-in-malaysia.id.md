@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "b364077cf92058e5"
+sourceContentHash: "c11dc81961dc71d5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -88,6 +88,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-1.webp
+    alt: Kolam besar berbentuk burung merak yang berwarna-warni cerah, dibuat dari bubuk warna dan ditata di atas lantai untuk Deepavali di KL Sentral, Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Desain kolam lantai berbentuk burung merak untuk Deepavali di KL Sentral, Kuala Lumpur
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-2.webp
+    alt: Beberapa kepala kostum barongsai berwarna cerah merah muda, kuning, dan putih berkerumun di depan sebuah toko saat perayaan Tahun Baru Imlek di jalanan Malaysia, dengan seorang penari bertopeng kepala besar merah di antara mereka.
+    kind: actual
+    origin: third-party
+    subject: Rombongan barongsai Tahun Baru Imlek di Sandakan, Sabah
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelab_Sukan_Leong_Sin_20260303_140742.jpg
 ---
 
 Rencanakan sebuah perjalanan, peluncuran produk, atau proses penggajian lintas Malaysia, dan Anda akan segera menemukan sesuatu yang mengejutkan orang luar: hari yang menjadi hari libur umum di Kuala Lumpur bisa jadi merupakan hari kerja biasa di Kuching, dan sebaliknya. Malaysia tidak memiliki satu daftar hari libur nasional, melainkan satu lapisan nasional dan tiga belas lapisan negara bagian yang ditumpuk di atasnya.

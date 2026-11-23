@@ -18,7 +18,7 @@ keyTakeaways:
   - "Parameswara, fondateur du Sultanat de Melaka vers 1400, est décrit dans la tradition malaise et par le gouvernement de l'État de Melaka lui-même comme un prince de Palembang — l'ancien siège de Srivijaya"
 appliesTo: "Lecteurs qui veulent comprendre ce qui régnait sur le détroit de Melaka avant Melaka, et comment une puissance maritime basée à Sumatra finit par alimenter directement l'histoire royale propre à la péninsule malaise."
 lang: "fr"
-sourceContentHash: "69e06d6034cc1b41"
+sourceContentHash: "f1da482a879f3f09"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Buddha_Seguntang_Palembang.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/srivijaya/body-1.webp
+    alt: Une petite pierre grise arrondie gravée de rangées d'ancienne écriture en vieux malais, l'inscription de Kedukan Bukit de l'époque de Srivijaya, présentée sur un socle de musée.
+    kind: actual
+    origin: third-party
+    subject: L'inscription de Kedukan Bukit (683 apr. J.-C.), une pierre en vieux malais de Srivijaya
+    credit: Gunawan Kartapranata / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prasasti_Kedukan_Bukit_1.jpg
+  - role: scene
+    src: /media/malaysia/srivijaya/body-2.webp
+    alt: Une statue de bronze à huit bras du bodhisattva Avalokiteshvara, découverte à Bidor dans le Perak, exposée debout au Musée national de Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: L'Avalokiteshvara de bronze de Bidor (VIIIe-IXe siècle), Musée national, Kuala Lumpur
+    credit: Gryffindor / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Negara_KL32.JPG
 ---
 
 Lorsque Parameswara fuit Temasek en 1396 et tomba sur la rive qui allait devenir Melaka, il n'était pas un inconnu surgi de nulle part. Le gouvernement de l'État de Melaka lui-même le consigne encore, sans détour, comme « un prince royal de Palembang ». Palembang, sur les rives du fleuve Musi, dans le sud de Sumatra, avait été la capitale d'une puissance maritime qui régna sur le détroit de Melaka pendant environ six cents ans avant la naissance de Parameswara : un royaume appelé Srivijaya. Au moment où Parameswara atteignit la péninsule, la puissance politique de ce royaume avait déjà disparu. Mais le Sultanat de Melaka qu'il fonda portait avec lui sa lignée, et sans doute tout son modèle de ce que devait être un port commercial malais, directement issu des ruines de Srivijaya.

@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Voyageurs, entreprises et toute personne cherchant à comprendre pourquoi « la Malaisie » se comporte parfois comme deux administrations partageant un seul passeport et un seul drapeau."
 
 lang: "fr"
-sourceContentHash: "da887efa0f358f15"
+sourceContentHash: "2bb66aa7db2e1c0e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_regions_map.png'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-1.webp
+    alt: Une étendue plate de rizières d'un vert vif s'étire jusqu'à un horizon bas bordé d'arbres, sous un vaste ciel bleu pâle.
+    kind: actual
+    origin: third-party
+    subject: Rizières de plaine à Sekinchan, Selangor (Malaisie péninsulaire)
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_2.jpg
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-2.webp
+    alt: Une large rivière de forêt tropicale, aux eaux brunes et boueuses, serpente entre des rives de jungle dense, avec de petites barques en bois vertes amarrées à un embarcadère en rondins.
+    kind: actual
+    origin: third-party
+    subject: La rivière Kinabatangan à Sukau, Sabah (Malaisie bornéenne)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sukau_Sabah_Malaysia_Kinabatangan-River-at-Sukau-01.jpg
 ---
 
 Prenez un vol intérieur de Kuala Lumpur à Kota Kinabalu et vous atterrirez dans le même pays que celui que vous avez quitté. Même monnaie, même passeport, même drapeau sur l'empennage. Et pourtant, à la salle d'arrivée, vous faites la queue à un guichet de type immigration et quelqu'un vérifie votre carte d'identité ou votre passeport avant de vous laisser passer. Aucun autre vol à l'intérieur de la Malaisie ne fonctionne ainsi.

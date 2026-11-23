@@ -17,7 +17,7 @@ keyTakeaways:
   - "มรสุมตะวันออกเฉียงเหนือ (พ.ย.–มี.ค.) ทำให้ชายฝั่งตะวันออกของคาบสมุทร ซาราวักตะวันตก และซาบาห์ตอนเหนือชุ่มฉ่ำ มรสุมตะวันตกเฉียงใต้ (พ.ค.–ก.ย.) ค่อนข้างแล้งกว่า จังหวะที่ยังคงกำหนดฤดูน้ำท่วมและปฏิทินการเกษตร (กรมอุตุนิยมวิทยามาเลเซีย)"
 appliesTo: "ผู้ที่พยายามเข้าใจว่าเหตุใดประชากร เมือง และความเสี่ยงน้ำท่วมของมาเลเซียจึงกระจุกตัวในที่ที่มันเป็น นักเรียน ผู้มาใหม่ นักวางแผน หรือผู้ที่งุนงงว่าเหตุใด 'ฤดูมรสุม' จึงหมายถึงสิ่งที่ต่างกันบนชายฝั่งที่ต่างกัน"
 lang: "th"
-sourceContentHash: "e7dc1f31338ea13e"
+sourceContentHash: "db06d54e1190b497"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -81,6 +81,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Unknown_malaysia.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/geography-overview/body-1.webp
+    alt: หน้าผาหินปูนคาสต์สีเทาชันตั้งฉากปกคลุมด้วยป่าดิบ ผุดขึ้นตรงจากทะเลสาบสีมรกตอันนิ่งสงบ โดยหน้าผาสะท้อนอยู่ในน้ำสีเข้ม
+    kind: actual
+    origin: third-party
+    subject: หน้าผาหินปูนคาสต์ที่ตาซิกเจอร์มิน (ทะเลสาบกระจก) เมืองอีโปห์ รัฐเปรัก
+    credit: Iqx Azmi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mirror_Lake_(Ipoh)_-_Hidden_Oasis_in_the_Limestone_Valley_(Unsplash).jpg
+  - role: scene
+    src: /media/malaysia/geography-overview/body-2.webp
+    alt: อ่าวหาดทรายขาวที่รายล้อมด้วยต้นมะพร้าวและกระท่อมไม้ บรรจบกับน้ำทะเลสีฟ้าครามใสบนเกาะเขตร้อนขนาดเล็ก
+    kind: actual
+    origin: third-party
+    subject: ชายหาดเขตร้อนบนเกาะเปอร์เฮินเตียนเกอจิล รัฐตรังกานู
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Kecil_Island,_Malaysia,_Beach.jpg
 ---
 
 บินเข้ากัวลาลัมเปอร์ (Kuala Lumpur) จากโกตากินาบาลู (Kota Kinabalu) แล้วคุณข้ามมากกว่าพรมแดนภายใน คุณข้ามทะเลเปิดหลายร้อยกิโลเมตร มาเลเซียเป็นประเทศเดียวที่ถูกเย็บเข้าด้วยกันข้ามสองผืนแผ่นดินที่แยกจากกัน และข้อเท็จจริงง่าย ๆ ของรูปร่างนั้นได้ตัดสินเกือบทุกอย่างอื่นอย่างเงียบ ๆ คือ เมืองอยู่ที่ใด นาข้าวอยู่ที่ใด และชายฝั่งใดน้ำท่วมทุกเดือนธันวาคม

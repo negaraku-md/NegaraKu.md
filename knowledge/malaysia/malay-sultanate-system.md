@@ -68,6 +68,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-1.webp
+    alt: Rumah gerbang istiadat berkubah emas yang berukir pada Istana Negara, bertulis 'Istana Negara', berdiri dalam cahaya siang yang terang dengan bangunan istana berkubah keemasan di atas bukit hijau di belakangnya dan kaki langit Kuala Lumpur di kejauhan.
+    kind: actual
+    origin: third-party
+    subject: Istana Negara, istana kebangsaan di Jalan Tuanku Abdul Halim (Jalan Duta), Kuala Lumpur
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-2.webp
+    alt: Sebilah keris Melayu istiadat yang panjang terbaring di sebelah sarungnya yang langsing di atas permukaan muzium, dengan label bercetak berbunyi 'Keris Alang Pahang'.
+    kind: actual
+    origin: third-party
+    subject: Keris Alang Pahang, keris istiadat diraja lambang kuasa
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 Bayangkan sebuah negeri tanpa fail, tanpa borang, tanpa jabatan bernombor. Perintah dibawa dengan lidah, keadilan dijatuhkan di balairung, dan seluruh susunan masyarakat bergantung pada satu perkataan yang tidak boleh diterjemah dengan tepat ke dalam bahasa moden: *daulat*. Itulah dunia kesultanan Melayu — sebuah sistem yang menyusun ribuan nyawa di sepanjang pantai dan sungai selama berabad-abad, dan yang bayangnya masih kelihatan dalam Perlembagaan Malaysia hari ini.

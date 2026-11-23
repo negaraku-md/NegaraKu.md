@@ -20,7 +20,7 @@ appliesTo: "மலேசியாவின் மக்கள் தொகை, �
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e7dc1f31338ea13e"
+sourceContentHash: "db06d54e1190b497"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Unknown_malaysia.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/geography-overview/body-1.webp
+    alt: காட்டால் மூடப்பட்ட செங்குத்தான சாம்பல் நிற சுண்ணாம்புக் கற்பாறை ஒரு அமைதியான மரகத நிற ஏரியிலிருந்து நேராக உயர்கிறது, அதன் முகம் இருண்ட நீரில் பிரதிபலிக்கிறது.
+    kind: actual
+    origin: third-party
+    subject: பேராக், இப்போவில் உள்ள தாசிக் செர்மின் (கண்ணாடி ஏரி) சுண்ணாம்புக் கற்பாறை சரிவு
+    credit: Iqx Azmi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mirror_Lake_(Ipoh)_-_Hidden_Oasis_in_the_Limestone_Valley_(Unsplash).jpg
+  - role: scene
+    src: /media/malaysia/geography-overview/body-2.webp
+    alt: தென்னை மரங்களும் மரச் சாலைகளும் சூழ்ந்த வெண்மணல் குடாக்கரை, ஒரு சிறிய வெப்பமண்டலத் தீவில் தெளிவான பச்சை நீல நீருடன் சந்திக்கிறது.
+    kind: actual
+    origin: third-party
+    subject: திரெங்கானு, பெர்ஹெந்தியான் கெச்சில் தீவில் உள்ள வெப்பமண்டலக் கடற்கரை
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Kecil_Island,_Malaysia,_Beach.jpg
 ---
 
 கோட்டா கினபாலுவிலிருந்து கோலாலம்பூருக்குப் பறந்து செல்லுங்கள், நீங்கள் ஒரு உள்நாட்டு எல்லையை மட்டுமல்ல கடக்கிறீர்கள் — பல நூறு கிலோமீட்டர் திறந்த கடலைக் கடக்கிறீர்கள். மலேசியா என்பது இரண்டு தனித்தனி நிலப்பரப்புகளின் மீது ஒன்றாக இணைக்கப்பட்ட ஒரே நாடு, மேலும் வடிவம் தொடர்பான இந்த எளிய உண்மை மற்ற அனைத்தையும் அமைதியாகத் தீர்மானித்துவிட்டது: நகரங்கள் எங்கே இருக்கின்றன, நெல் வயல்கள் எங்கே இருக்கின்றன, மேலும் ஒவ்வொரு டிசம்பரிலும் எந்தக் கடற்கரை வெள்ளத்தில் மூழ்குகிறது என்பதை.

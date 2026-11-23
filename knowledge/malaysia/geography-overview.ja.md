@@ -19,7 +19,7 @@ appliesTo: "マレーシアの人口、都市、そして洪水リスクがな�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e7dc1f31338ea13e"
+sourceContentHash: "db06d54e1190b497"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Unknown_malaysia.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/geography-overview/body-1.webp
+    alt: ジャングルに覆われた切り立った灰色の石灰岩カルストの断崖が、静かなエメラルド色の湖から真っすぐにそびえ立ち、その岩肌が暗い水面に映っている。
+    kind: actual
+    origin: third-party
+    subject: ペラ州イポーのタシク・チェルミン（鏡の湖）の石灰岩カルスト断崖
+    credit: Iqx Azmi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mirror_Lake_(Ipoh)_-_Hidden_Oasis_in_the_Limestone_Valley_(Unsplash).jpg
+  - role: scene
+    src: /media/malaysia/geography-overview/body-2.webp
+    alt: 小さな熱帯の島で、ヤシの木と木造のコテージに縁取られた白砂の入り江が、澄んだターコイズブルーの海に接している。
+    kind: actual
+    origin: third-party
+    subject: トレンガヌ州プラウ・プルフンティアン・クチルの熱帯のビーチ
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Kecil_Island,_Malaysia,_Beach.jpg
 ---
 
 コタキナバルからクアラルンプールへ飛行機で向かうと、あなたが越えるのは単なる国内の境界線ではない——数百キロメートルに及ぶ外洋である。マレーシアは一つの国でありながら、二つの独立した陸地にまたがってホチキス留めされたような国であり、この単純な形状の事実が、ほとんどすべてを静かに決定づけてきた——都市がどこにあるか、水田がどこにあるか、そして毎年12月にどちらの海岸が水浸しになるかを。

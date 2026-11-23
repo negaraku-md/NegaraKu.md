@@ -19,7 +19,7 @@ keyTakeaways:
   - "La lignée du Sultanat de Melaka reprit le pouvoir à Johor Lama en 1528, et cette dynastie dura jusqu'en 1699"
 appliesTo: "Lecteurs qui veulent comprendre les raisons techniques et politiques de la chute de Melaka en 1511, et ce qu'il advint des institutions et de la lignée royale de Melaka après la perte de la ville."
 lang: "fr"
-sourceContentHash: "b8ff8e81366e5986"
+sourceContentHash: "fcab03d9a910f161"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-1.webp
+    alt: Les murs de latérite sans toit et les ouvertures vides des fenêtres des ruines de l'église Saint-Paul, datant de 1521, dominent la colline Saint-Paul à Melaka sous un ciel dégagé.
+    kind: actual
+    origin: third-party
+    subject: Ruines de l'église Saint-Paul sur la colline Saint-Paul, Melaka
+    credit: Natalie.Thoo / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:1521_St_Paul%27s_Church_(Ruins)_Front_View.jpg
+  - role: scene
+    src: /media/malaysia/portuguese-melaka-1511/body-2.webp
+    alt: Le portail d'entrée de couleur crème de la Place portugaise (Portuguese Square), bordé de bâtiments aux toits de terre cuite et d'enseignes de restaurants, s'ouvre sur un parvis dans le quartier portugais de Melaka.
+    kind: actual
+    origin: third-party
+    subject: La Place portugaise dans le quartier portugais (Kampung Portugis), Melaka
+    credit: Sharon Hahn Darlin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_Portuguese_Settlement,_March_2023_-_Portuguese_Square.jpg
 ---
 
 Dix jours. C'est l'écart entre l'arrivée de la flotte portugaise dans les eaux de Melaka le 10 août 1511 et le moment où la ville changea de mains le 24 août.

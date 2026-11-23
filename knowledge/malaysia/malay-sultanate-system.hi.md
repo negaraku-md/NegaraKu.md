@@ -18,7 +18,7 @@ keyTakeaways:
   - "सल्तनत संस्था संविधान में नौ मलय शासकों, शासक सम्मेलन, और यांग दी-पेर्तुआन अगोंग के माध्यम से जारी है"
 appliesTo: "कोई भी व्यक्ति जो पारंपरिक मलय सल्तनत संस्था की संरचना और भूमिका को समझना चाहता है और यह कि यह आज की संवैधानिक राजतंत्र प्रणाली से कैसे जुड़ती है।"
 lang: "hi"
-sourceContentHash: "95bf275cb438d0b7"
+sourceContentHash: "b2a4177ceb069795"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-1.webp
+    alt: Istana Negara का अलंकृत सुनहरे गुंबद वाला औपचारिक द्वार-भवन, जिस पर 'Istana Negara' लिखा है, तेज़ दिन के उजाले में खड़ा है; पीछे हरी पहाड़ी पर महल की सुनहरे गुंबद वाली इमारतें और उससे परे कुआलालंपुर की क्षितिज-रेखा दिखाई देती है।
+    kind: actual
+    origin: third-party
+    subject: Istana Negara, Jalan Tuanku Abdul Halim (Jalan Duta), कुआलालंपुर पर स्थित राष्ट्रीय महल
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg
+  - role: scene
+    src: /media/malaysia/malay-sultanate-system/body-2.webp
+    alt: एक लंबा औपचारिक मलय keris अपने पतले म्यान के बगल में संग्रहालय की सतह पर रखा है, जिसके साथ 'Keris Alang Pahang' लिखा एक छपा हुआ लेबल है।
+    kind: actual
+    origin: third-party
+    subject: पहांग का Keris Alang, अधिकार का एक शाही औपचारिक keris
+    credit: Orhanghazi / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Keris_Alang.jpg
 ---
 
 एक ऐसे राज्य की कल्पना कीजिए जहाँ कोई फ़ाइल नहीं, कोई फ़ॉर्म नहीं, कोई क्रमांकित विभाग नहीं। आदेश मौखिक रूप से पहुँचाए जाते थे, न्याय बालाईरुंग (दरबार) में सुनाया जाता था, और समाज की समूची व्यवस्था एक ही शब्द पर टिकी थी जिसका आधुनिक भाषा में ठीक-ठीक अनुवाद नहीं हो सकता: *daulat*। वह मलय सल्तनत की दुनिया थी — एक ऐसी व्यवस्था जिसने सदियों तक तटों और नदियों के किनारे हज़ारों जीवनों को व्यवस्थित किया, और जिसकी छाया आज भी मलेशिया के संविधान में दिखाई देती है।

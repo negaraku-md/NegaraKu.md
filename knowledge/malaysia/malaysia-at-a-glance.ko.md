@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "말레이시아의 기본 사실 — 인구, 면적, 수도, 통화, 언어, GDP — 을, 출처 없는 요약이 아니라 각 수치를 그것을 발표하는 구체적 공식 자료에 결부하여 필요로 하는 모든 이."
 
 lang: "ko"
-sourceContentHash: "dc264630ca2e722e"
+sourceContentHash: "d19934fdb5cfb1a3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_skyline_at_night.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-1.webp
+    alt: 붐비는 야시장 음식 거리가 붉은 종이 등불 아래 빛나고, 노점과 두리안 수레 옆으로 식사하는 사람들이 붉은 플라스틱 탁자를 가득 메우고 있다.
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르의 잘란 알로르 야시장 노점 음식 거리
+    credit: IQRemix / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_Alor_-_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-at-a-glance/body-2.webp
+    alt: 언덕 꼭대기 공터에서 울창한 열대우림 수관 너머로, 끝없이 이어진 정글로 뒤덮인 구릉들이 흐린 하늘 아래 푸른 안개 속으로 사라져 간다.
+    kind: actual
+    origin: third-party
+    subject: 파항주 부킷 테리섹에서 바라본 타만 느가라의 열대우림 구릉
+    credit: Danielt. / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg
 ---
 
 "말레이시아는 얼마나 큰가" 또는 "말레이시아의 인구는 얼마인가"라고 물으면, 어느 웹사이트에 접속하느냐에 따라 서로 다른 답을 얻게 됩니다. 어떤 곳은 2020년 인구조사 수치를, 어떤 곳은 두 차례 개정에 뒤처진 세계은행 추정치를 인용합니다. 이 페이지는 그 문제를 바로잡기 위해 존재합니다. 아래의 모든 수치는 이름과 날짜가 명시된 공식 발표에서 가져온 것이므로, 얼마나 최신인지 정확히 확인하고 직접 검증할 수 있습니다.

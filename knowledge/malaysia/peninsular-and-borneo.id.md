@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Pelancong, pelaku bisnis, dan siapa saja yang mencoba memahami mengapa 'Malaysia' kadang berperilaku seperti dua administrasi yang berbagi satu paspor dan satu bendera."
 
 lang: "id"
-sourceContentHash: "da887efa0f358f15"
+sourceContentHash: "2bb66aa7db2e1c0e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_regions_map.png'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-1.webp
+    alt: Hamparan sawah hijau menyala yang datar membentang hingga ke cakrawala rendah berbaris pepohonan di bawah langit biru pucat yang luas.
+    kind: actual
+    origin: third-party
+    subject: Sawah dataran rendah di Sekinchan, Selangor (Semenanjung Malaysia)
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sekinchan_paddy_2.jpg
+  - role: scene
+    src: /media/malaysia/peninsular-and-borneo/body-2.webp
+    alt: Sebuah sungai hutan hujan yang lebar dan berwarna cokelat berlumpur berkelok di antara tepian hutan lebat, dengan perahu kayu hijau kecil tertambat di sebuah dermaga kayu.
+    kind: actual
+    origin: third-party
+    subject: Sungai Kinabatangan di Sukau, Sabah (Malaysia Borneo)
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sukau_Sabah_Malaysia_Kinabatangan-River-at-Sukau-01.jpg
 ---
 
 Naik penerbangan domestik dari Kuala Lumpur ke Kota Kinabalu, dan Anda mendarat di negara yang sama seperti yang Anda tinggalkan. Mata uang yang sama, paspor yang sama, bendera yang sama pada sirip ekor pesawat. Namun demikian, di aula kedatangan, Anda mengantre di sebuah loket bergaya imigrasi dan seseorang memeriksa kartu identitas atau paspor Anda sebelum Anda diizinkan lewat. Tidak ada penerbangan lain di dalam Malaysia yang bekerja seperti itu.

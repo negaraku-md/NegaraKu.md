@@ -17,7 +17,7 @@ keyTakeaways:
   - "Parameswara, pendiri Kesultanan Melaka sekitar tahun 1400, digambarkan dalam tradisi Melayu dan oleh pemerintah negeri Melaka sendiri sebagai seorang putra dari Palembang — bekas pusat pemerintahan Sriwijaya"
 appliesTo: "Pembaca yang ingin memahami apa yang menguasai Selat Melaka sebelum Melaka melakukannya, dan bagaimana sebuah kekuatan lautan yang berpusat di Sumatera akhirnya menyumbang secara langsung kepada sejarah diraja Semenanjung Tanah Melayu sendiri."
 lang: "id"
-sourceContentHash: "69e06d6034cc1b41"
+sourceContentHash: "f1da482a879f3f09"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Buddha_Seguntang_Palembang.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/srivijaya/body-1.webp
+    alt: Sebuah batu kelabu kecil berbentuk bulat yang terpahat dengan baris-baris aksara Melayu Kuno purba, yaitu Prasasti Kedukan Bukit dari masa Sriwijaya, dipajang di atas penyangga museum.
+    kind: actual
+    origin: third-party
+    subject: Prasasti Kedukan Bukit (683 M), batu Melayu Kuno dari masa Sriwijaya
+    credit: Gunawan Kartapranata / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prasasti_Kedukan_Bukit_1.jpg
+  - role: scene
+    src: /media/malaysia/srivijaya/body-2.webp
+    alt: Patung perunggu bodhisattwa Avalokiteshvara berlengan delapan, ditemukan di Bidor, Perak, dipajang tegak di Museum Nasional di Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Avalokiteshvara perunggu dari Bidor (abad ke-8 hingga ke-9), Museum Nasional, Kuala Lumpur
+    credit: Gryffindor / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Negara_KL32.JPG
 ---
 
 Ketika Parameswara melarikan diri dari Temasek pada tahun 1396 dan tersandung ke tepi sungai yang kelak menjadi Melaka, ia bukanlah sosok yang muncul entah dari mana. Pemerintah negeri Melaka sendiri masih mencatatnya, secara jelas, sebagai "seorang putra diraja dari Palembang." Palembang, di Sungai Musi, di selatan Sumatera, pernah menjadi ibu kota sebuah kekuatan lautan yang menguasai Selat Melaka selama sekitar enam ratus tahun sebelum Parameswara dilahirkan — sebuah kerajaan bernama Sriwijaya. Menjelang Parameswara tiba di semenanjung, kekuasaan politik kerajaan itu sudah lenyap. Tetapi Kesultanan Melaka yang didirikannya mewarisi darah keturunannya, bahkan bisa dikatakan seluruh model tentang bagaimana sebuah pelabuhan dagang Melayu seharusnya berfungsi, langsung dari reruntuhan Sriwijaya.

@@ -21,7 +21,7 @@ appliesTo: "マレーシアの東海岸のマレー系王家がいかに形成�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ed321bc406e7501b"
+sourceContentHash: "30e1acf0176709ff"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -68,6 +68,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/pahang-sultanate/body-1.webp
+    alt: クアンタンのスルタン・アフマド・シャー州立モスクが、大きな中央ドームを頂き、両脇に高いミナレットを従えて、正面からの全景で捉えられている。
+    kind: actual
+    origin: third-party
+    subject: パハン州クアンタンのスルタン・アフマド・シャー州立モスク
+    credit: Mellernie Ching / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Ahmad_Shah_State_Mosque_Full_View_1.jpg
+  - role: scene
+    src: /media/malaysia/pahang-sultanate/body-2.webp
+    alt: 赤い瓦屋根とアーチ型の中央扉を持つ左右対称の白い植民地時代の建物が、鶴の彫像を配した静かな水面の池に映り、ペカンのスルタン・アブ・バカール博物館となっている。
+    kind: actual
+    origin: third-party
+    subject: パハン州ペカンのスルタン・アブ・バカール博物館（旧王宮）
+    credit: Fikku fiq / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg
 ---
 
 パハン川沿い、古き王都プカンが今も河口近くに佇むその地で、二世紀にわたって静まっていた王座が再び立てられた。1881年、パハンの首長たちは見知らぬ者を戴くためにではなく、かつてこの地が持っていた称号を回復するために集まった——そして彼らがスルタンとして宣言した男は、その権利を骨の折れるやり方で、すなわち自らの異母兄を長く苦い戦争で打ち破ることによって勝ち取っていた。本稿は、パハンの王冠がいかに大きな帝国の内側で失われ、そして一人の首席大臣の子がいかにそれを取り戻したかの物語である。

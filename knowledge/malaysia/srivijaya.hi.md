@@ -17,7 +17,7 @@ keyTakeaways:
   - "परामेश्वर, लगभग 1400 में मेलाका सल्तनत के संस्थापक, को मलय परंपरा में और स्वयं मेलाका की राज्य सरकार द्वारा पालेमबांग — श्रीविजय की पूर्व गद्दी — के एक राजकुमार के रूप में वर्णित किया गया है"
 appliesTo: "वे पाठक जो यह समझना चाहते हैं कि मेलाका के शासन से पहले मेलाका जलडमरूमध्य पर किसका शासन था, और कैसे सुमात्रा-आधारित एक समुद्री शक्ति अंततः सीधे मलय प्रायद्वीप के अपने शाही इतिहास में समाहित हो गई।"
 lang: "hi"
-sourceContentHash: "69e06d6034cc1b41"
+sourceContentHash: "f1da482a879f3f09"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Buddha_Seguntang_Palembang.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/srivijaya/body-1.webp
+    alt: प्राचीन पुरानी मलय लिपि की पंक्तियों से उत्कीर्ण एक छोटा गोलाकार धूसर पत्थर, Srivijaya काल का Kedukan Bukit शिलालेख, एक संग्रहालय स्टैंड पर दिखाया गया है।
+    kind: actual
+    origin: third-party
+    subject: Kedukan Bukit शिलालेख (683 ईस्वी), एक Srivijaya पुरानी-मलय शिला
+    credit: Gunawan Kartapranata / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Prasasti_Kedukan_Bukit_1.jpg
+  - role: scene
+    src: /media/malaysia/srivijaya/body-2.webp
+    alt: बोधिसत्व Avalokiteshvara की आठ-भुजाओं वाली एक कांस्य मूर्ति, जो पेराक के Bidor में मिली थी, कुआलालंपुर के राष्ट्रीय संग्रहालय में सीधी खड़ी प्रदर्शित है।
+    kind: actual
+    origin: third-party
+    subject: Bidor की कांस्य Avalokiteshvara (8वीं-9वीं शताब्दी), राष्ट्रीय संग्रहालय, कुआलालंपुर
+    credit: Gryffindor / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Negara_KL32.JPG
 ---
 
 जब परामेश्वर 1396 में तेमासेक से भागे और उस नदी-तट पर पहुँचे जो मेलाका बना, तो वे कहीं से आए हुए कोई तुच्छ व्यक्ति नहीं थे। मेलाका की अपनी राज्य सरकार आज भी उन्हें स्पष्ट रूप से «पालेमबांग का एक शाही राजकुमार» के रूप में दर्ज करती है। दक्षिणी सुमात्रा में मुसी नदी पर स्थित पालेमबांग, परामेश्वर के जन्म से पहले लगभग छह सौ वर्षों तक मेलाका जलडमरूमध्य पर शासन करने वाली एक समुद्री शक्ति की राजधानी थी — श्रीविजय नामक एक राज्य। जब तक परामेश्वर प्रायद्वीप पहुँचे, उस राज्य की राजनीतिक शक्ति पहले ही समाप्त हो चुकी थी। लेकिन उन्होंने जिस मेलाका सल्तनत की स्थापना की, उसने उसका रक्त-वंश, और यकीनन एक मलय व्यापारिक बंदरगाह कैसा होना चाहिए इसका उसका पूरा प्रतिरूप, सीधे श्रीविजय के खंडहरों से लिया।

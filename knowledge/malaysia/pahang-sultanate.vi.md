@@ -19,7 +19,7 @@ keyTakeaways:
   - "Một Công sứ Anh được áp đặt năm 1888 và Pahang gia nhập Liên bang các Bang Mã Lai vào năm 1895–96; vương tộc Bendahara vẫn trị vì, và Sultan Abdullah trở thành Yang di-Pertuan Agong năm 2019"
 appliesTo: "Những độc giả truy tìm cách các vương tộc Mã Lai bờ đông của Malaysia hình thành, và bất kỳ ai muốn hiểu nguồn gốc, cuộc nội chiến và sự khôi phục hiện đại của Vương quốc Hồi giáo Pahang."
 lang: "vi"
-sourceContentHash: "ed321bc406e7501b"
+sourceContentHash: "30e1acf0176709ff"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/pahang-sultanate/body-1.webp
+    alt: Thánh đường bang Sultan Ahmad Shah ở Kuantan, trên đỉnh là một mái vòm trung tâm lớn và hai bên là các tháp cao, nhìn trực diện toàn cảnh.
+    kind: actual
+    origin: third-party
+    subject: Thánh đường bang Sultan Ahmad Shah, Kuantan, Pahang
+    credit: Mellernie Ching / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_Ahmad_Shah_State_Mosque_Full_View_1.jpg
+  - role: scene
+    src: /media/malaysia/pahang-sultanate/body-2.webp
+    alt: Một tòa nhà màu trắng thời thuộc địa đối xứng với mái ngói đỏ và cửa vòm ở giữa, phản chiếu trong hồ nước tĩnh lặng có các tượng sếu, là nơi đặt Bảo tàng Sultan Abu Bakar ở Pekan.
+    kind: actual
+    origin: third-party
+    subject: Bảo tàng Sultan Abu Bakar (nguyên là cung điện hoàng gia), Pekan, Pahang
+    credit: Fikku fiq / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg
 ---
 
 Dọc sông Pahang, nơi thị trấn hoàng gia cổ Pekan vẫn tọa lạc gần cửa sông, một ngai vàng đã im lặng suốt hai thế kỷ được dựng lên trở lại. Năm 1881, các tù trưởng Pahang tụ họp không phải để tấn phong một người lạ mà để khôi phục một tước hiệu mà vùng đất của họ từng nắm giữ — và người họ tuyên xưng làm sultan đã giành quyền đó một cách gian khó, bằng cách đánh bại chính người anh cùng cha khác mẹ của mình trong một cuộc chiến dài và cay đắng. Đây là câu chuyện về cách vương miện Pahang bị mất bên trong một đế quốc lớn hơn, và cách con trai của một tể tướng đã mang nó trở lại.

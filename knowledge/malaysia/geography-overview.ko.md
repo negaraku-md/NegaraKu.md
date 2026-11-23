@@ -17,7 +17,7 @@ keyTakeaways:
   - "북동 몬순(11월~3월)은 반도 동해안, 사라왁(Sarawak) 서부, 사바(Sabah) 북부를 흠뻑 적시며, 남서 몬순(5월~9월)은 비교적 건조합니다 — 이러한 리듬은 지금도 홍수철과 농사 일정을 좌우합니다(말레이시아 기상청)"
 appliesTo: "말레이시아의 인구, 도시, 홍수 위험이 왜 지금의 자리에 몰려 있는지 이해하려는 모든 이 — 학생, 신규 이주자, 계획가, 또는 「몬순철」이 해안마다 다른 것을 뜻하는 이유가 궁금한 누구든."
 lang: "ko"
-sourceContentHash: "e7dc1f31338ea13e"
+sourceContentHash: "db06d54e1190b497"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -81,6 +81,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Unknown_malaysia.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/geography-overview/body-1.webp
+    alt: 정글로 뒤덮인 가파른 회색 석회암 카르스트 절벽이 잔잔한 에메랄드빛 호수에서 곧장 솟아올라, 그 암벽이 어두운 물에 비친다.
+    kind: actual
+    origin: third-party
+    subject: 페락주 이포 타식 체르민(거울 호수)의 석회암 카르스트 절벽
+    credit: Iqx Azmi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mirror_Lake_(Ipoh)_-_Hidden_Oasis_in_the_Limestone_Valley_(Unsplash).jpg
+  - role: scene
+    src: /media/malaysia/geography-overview/body-2.webp
+    alt: 작은 열대 섬에서 야자수와 목조 방갈로로 둘러싸인 흰 모래 만이 맑은 청록색 바다와 맞닿아 있다.
+    kind: actual
+    origin: third-party
+    subject: 트렝가누주 프르헨티안 크칠섬(Pulau Perhentian Kecil)의 열대 해변
+    credit: Vyacheslav Argenberg / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perhentian_Kecil_Island,_Malaysia,_Beach.jpg
 ---
 
 코타키나발루(Kota Kinabalu)에서 쿠알라룸푸르(Kuala Lumpur)로 날아가면 여러분은 내부 경계 이상의 것을 건넙니다 — 수백 킬로미터의 열린 바다를 건너는 것입니다. 말레이시아는 두 개의 분리된 육지 덩어리에 걸쳐 하나로 봉합된 나라이며, 이 단순한 형태의 사실이 나머지 거의 모든 것을 조용히 결정해 왔습니다. 도시가 어디에 있는지, 논이 어디에 있는지, 그리고 어느 해안이 매년 12월마다 범람하는지를 말입니다.

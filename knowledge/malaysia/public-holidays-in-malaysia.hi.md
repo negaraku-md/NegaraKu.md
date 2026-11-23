@@ -69,7 +69,7 @@ keywords:
   - paid public holidays
   - Hari Raya
   - Deepavali
-sourceContentHash: "b364077cf92058e5"
+sourceContentHash: "c11dc81961dc71d5"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan
@@ -88,6 +88,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-1.webp
+    alt: कुआलालंपुर के KL Sentral में दीपावली के लिए फर्श पर रंगीन पाउडर से बनाया गया एक बड़ा, चटख रंगों वाला मोर के आकार का kolam।
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर के KL Sentral में दीपावली का मोर kolam फर्श-रचना
+    credit: PulauKakatua19 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sentral_2019_Peacock_Kolam.jpg
+  - role: scene
+    src: /media/malaysia/public-holidays-in-malaysia/body-2.webp
+    alt: एक मलेशियाई चीनी नववर्ष की सड़क पर होने वाले उत्सव के दौरान गुलाबी, पीले और सफेद रंग के कई चटख शेर-नृत्य वेशभूषा वाले सिर एक दुकान के सामने इकट्ठा हैं, जिनमें एक लाल बड़े सिर वाला कलाकार भी शामिल है।
+    kind: actual
+    origin: third-party
+    subject: सांडाकान, Sabah में चीनी नववर्ष की शेर-नृत्य मंडली
+    credit: Taufik / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelab_Sukan_Leong_Sin_20260303_140742.jpg
 ---
 
 मलेशिया भर में एक यात्रा, एक उत्पाद लॉन्च या एक पेरोल चक्र की योजना बनाएँ और आपको जल्द ही कुछ ऐसा पता चलेगा जो बाहरी लोगों को चौंका देता है: जो दिन कुआलालंपुर में सार्वजनिक छुट्टी है वह कुचिंग में एक सामान्य कार्यदिवस हो सकता है, और इसके विपरीत भी। मलेशिया में एक राष्ट्रीय छुट्टी सूची नहीं है बल्कि एक राष्ट्रीय परत और तेरह राज्य परतें एक-दूसरे के ऊपर रखी हुई हैं।

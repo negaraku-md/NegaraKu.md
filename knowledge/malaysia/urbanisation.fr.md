@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Toute personne qui tente de lire correctement les statistiques malaisiennes de population, d'emploi ou d'immobilier — chercheurs, planificateurs et entreprises évaluant où se trouvent réellement la population et la main-d'œuvre."
 
 lang: "fr"
-sourceContentHash: "7490bc9be18b1f7b"
+sourceContentHash: "e0c791d30a8c1253"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Skyline-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/urbanisation/body-1.webp
+    alt: Une rangée de shophouses de deux étages de l'époque coloniale, avec des arcades de « passage de cinq pieds » et des étages supérieurs aux volets de bois, borde une rue tranquille de la vieille ville.
+    kind: actual
+    origin: third-party
+    subject: Rue de shophouses patrimoniales à George Town, Penang
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
+  - role: scene
+    src: /media/malaysia/urbanisation/body-2.webp
+    alt: Un pont à haubans blanc en forme de voile enjambe un lac devant des rangées d'immeubles d'habitation de hauteur moyenne sous un ciel gris.
+    kind: actual
+    origin: third-party
+    subject: Pont Seri Wawasan dans la ville fédérale planifiée de Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
 ---
 
 ## Trois Malaisiens sur quatre vivent désormais quelque part que le DOSM qualifie d'« urbain »

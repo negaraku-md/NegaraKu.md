@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "हर वह व्यक्ति जो समझना चाहता है कि मलेशिया का मौसम और बाढ़-जोखिम ऋतुओं के साथ क्यों बदलते हैं — तटीय क्षेत्रों के निवासी, यात्री, आपदा-योजनाकार, भूगोल के विद्यार्थी और हर वह व्यक्ति जो MetMalaysia की मौसम-चेतावनियाँ देखता है।"
 
 lang: "hi"
-sourceContentHash: "4ffd8f41ebc3ba1f"
+sourceContentHash: "e17282933a445cf6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/monsoons/body-1.webp
+    alt: एक भारी उष्णकटिबंधीय मूसलाधार बारिश के दौरान एक शहर की सड़क को ढके भूरे बाढ़ के पानी से गुज़रती हुई एक कार पानी की फुहार उछालती है।
+    kind: actual
+    origin: third-party
+    subject: Jalan Raja Chulan, कुआलालंपुर में बाढ़ लाती मूसलाधार बारिश
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flooding-Kuala-Lumpur-20070217-006.jpg
+  - role: scene
+    src: /media/malaysia/monsoons/body-2.webp
+    alt: मूसलाधार बारिश एक गाँव की गली पर पड़ रही है जो कीचड़ भरे बाढ़ के पानी में डूबी है, और केले के पेड़ तथा एक बिजली का खंभा पानी में खड़े हैं।
+    kind: actual
+    origin: third-party
+    subject: सांडाकान, Sabah में एक kampung सड़क पर मानसून का बाढ़-पानी
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_banjir_Sandakan_Januari_2025.jpg
 ---
 
 हर नवंबर में, समाचार देखने से पहले, कोटा भारू (Kota Bharu), कुआला तेरेंगानु (Kuala Terengganu) और कुआंतान (Kuantan) के कई निवासी अपने घरों के पास की नदियों के जल-स्तर पर नज़र रखना शुरू कर देते हैं। यह आदत किसी अप्रत्याशित आपदा से नहीं जन्मी — यह एक पूर्वानुमेय कार्यक्रम है जो हर साल दोहराया जाता है, और इसका कारण वही मौसमी पवन-तंत्र है जो यह भी तय करता है कि प्रायद्वीप का पश्चिमी तट कब शुष्क होता है।

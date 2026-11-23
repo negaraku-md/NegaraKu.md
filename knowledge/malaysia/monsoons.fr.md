@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Toute personne cherchant à comprendre pourquoi le climat et le risque d'inondation de la Malaisie changent au fil des saisons — habitants des zones côtières, voyageurs, planificateurs de secours, étudiants en géographie et quiconque consulte les alertes météorologiques de MetMalaysia."
 
 lang: "fr"
-sourceContentHash: "4ffd8f41ebc3ba1f"
+sourceContentHash: "e17282933a445cf6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/monsoons/body-1.webp
+    alt: Une voiture soulève une gerbe d'eau en traversant les eaux brunes d'une inondation qui recouvrent une rue de la ville lors d'une forte averse tropicale.
+    kind: actual
+    origin: third-party
+    subject: Une averse inonde Jalan Raja Chulan, Kuala Lumpur
+    credit: Gary Houston / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flooding-Kuala-Lumpur-20070217-006.jpg
+  - role: scene
+    src: /media/malaysia/monsoons/body-2.webp
+    alt: Une pluie battante tombe sur une ruelle de village submergée sous des eaux de crue boueuses, avec des bananiers et un poteau électrique dressés dans l'eau.
+    kind: actual
+    origin: third-party
+    subject: Eaux de crue de la mousson sur une route de kampung à Sandakan, Sabah
+    credit: Taufik / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jalan_banjir_Sandakan_Januari_2025.jpg
 ---
 
 Chaque novembre, avant même de regarder les informations, de nombreux habitants de Kota Bharu, Kuala Terengganu et Kuantan se mettent à surveiller le niveau de l'eau des rivières proches de chez eux. Ce n'est pas une habitude née d'une catastrophe inattendue — c'est un calendrier prévisible qui se répète chaque année, et sa cause est le même système de vents saisonniers qui détermine aussi quand la côte ouest de la Péninsule devient sèche.
