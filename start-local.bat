@@ -20,6 +20,12 @@ echo   Keep this window OPEN while you work.
 echo   Press Ctrl+C or close it to stop the server.
 echo ============================================================
 echo.
+rem Clear Astro's incremental content cache first. After heavy content
+rem churn it goes stale (a flood of "Duplicate id" warnings) and bloats
+rem memory until the dev server OOM-crashes. A clean start avoids that.
+echo Clearing stale Astro cache...
+call npm run clean
+echo.
 call npm run dev:local
 echo.
 echo Local server stopped.
