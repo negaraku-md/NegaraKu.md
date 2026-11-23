@@ -30,7 +30,7 @@ faq:
     a: "Tidak. Act 852 melarang penjualan semua produk tembakau dan vape melalui platform daring dan mesin penjual otomatis."
 
 lang: "id"
-sourceContentHash: "47453ebb80993a06"
+sourceContentHash: "e3bef5516f0e5eec"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Prohibition-signs-No-smoking-sign-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-1.webp
+    alt: Tanda larangan merokok yang terpasang di dinding dalam sebuah restoran di Johor Bahru, Malaysia, menandakan tempat bebas asap rokok
+    kind: actual
+    origin: third-party
+    subject: Pemberitahuan larangan merokok yang dipajang di sebuah restoran di Johor Bahru, Malaysia
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201906_%22No_smoking%22_sign_in_a_restaurant_in_Johor_Bahru,_Malaysia.jpg
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-2.webp
+    alt: Tampilan dekat sebuah tangan memegang perangkat vape di dekat mulut seseorang, menggambarkan penggunaan rokok elektronik yang diatur di bawah undang-undang
+    kind: representative
+    origin: third-party
+    subject: Seseorang memegang perangkat rokok elektronik (vape)
+    credit: Vaper City / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vape_device_in_hand.jpg
 ---
 
 Untuk pertama kalinya, sebatang rokok dan sebuah perangkat vape tunduk pada undang-undang yang sama di Malaysia — dan larangan menjual kepada remaja bukan lagi sekadar kebijakan, tetapi pelanggaran yang dapat didenda ribuan ringgit.

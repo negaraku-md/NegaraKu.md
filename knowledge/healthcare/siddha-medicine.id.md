@@ -32,7 +32,7 @@ faq:
   - q: "Siapa yang boleh mendaftar sebagai praktisi Siddha?"
     a: "Di bawah Akta 775, mereka yang ingin bekerja di bidang Pengobatan India Tradisional harus mendaftar ke Dewan T&CM. Undang-undang ini diberlakukan secara bertahap; setelah masa transisi sementara, mereka yang tidak terdaftar dilarang menyediakan layanan di bidang-bidang yang diakui. Mohon periksa persyaratan terkini dengan Divisi T&CM Kementerian pada saat penerbitan."
 lang: "id"
-sourceContentHash: "e7e71bfa77ac1056"
+sourceContentHash: "a717b54b027c6c0e"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lekiyam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-1.webp
+    alt: Bagian depan toko yang sederhana sebuah dispensari obat herbal tradisional India Selatan, mewakili praktik pengobatan tradisional India yang serupa dengan Siddha
+    kind: representative
+    origin: third-party
+    subject: Bagian depan toko dispensari obat herbal tradisional India Selatan (vaidyasala)
+    credit: Fotokannan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sadananda_vaidyasala2.jpg
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-2.webp
+    alt: Segumpal lehyam jahe berwarna gelap, sebuah sediaan pasta herbal Siddha Tamil tradisional, dipegang di telapak tangan yang terbuka
+    kind: representative
+    origin: third-party
+    subject: Lehyam jahe jadi, sebuah sediaan herbal Siddha Tamil, dipegang di telapak tangan
+    credit: Chronikhiles / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ginger_Lehyam.jpg
 ---
 
 Di lahan perkebunan tua Malaysia, dan di lorong-lorong Tamil di kota-kotanya, Anda bisa menjumpai sebuah toko herbal — herbal kering, serbuk (choornam), dan minyak tersusun berderet di raknya. Ini bukan suatu kebetulan; semuanya adalah jejak dari sebuah tradisi pengobatan yang berusia lebih dari satu setengah abad.

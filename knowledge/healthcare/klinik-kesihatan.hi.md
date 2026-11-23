@@ -27,7 +27,7 @@ verificationNeeded:
   - "Klinik Kesihatan, Klinik Komuniti और Klinik Desa के बीच स्टाफ़िंग और उपचार के सटीक दायरे के मामले में विस्तृत अंतरों की लेखन के समय आधिकारिक KKM स्रोतों के विरुद्ध पूरी पुष्टि नहीं हो सकी; यह लेख केवल इतना बताता है कि तीनों अलग-अलग सुविधाएँ हैं।"
 
 lang: "hi"
-sourceContentHash: "b45c68aeb8d6fe25"
+sourceContentHash: "9a29482e1fe09ea8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-1.webp
+    alt: एक ढके हुए प्रवेश द्वार वाले एक मलेशियाई सरकारी स्वास्थ्य क्लिनिक (Klinik Kesihatan) का मुख्य खंड
+    kind: actual
+    origin: third-party
+    subject: Klinik Kesihatan Jalan Lanang की मुख्य इमारत, Sibu, Sarawak में एक सरकारी स्वास्थ्य क्लिनिक
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-2.webp
+    alt: एक द्वीप पर एक छोटा एकमंज़िला ग्रामीण गाँव स्वास्थ्य क्लिनिक (Klinik Desa), वहाँ की एकमात्र स्वास्थ्य सुविधा
+    kind: actual
+    origin: third-party
+    subject: Klinik Desa Pulau Aman, Pulau Aman द्वीप, Penang पर एकमात्र ग्रामीण स्वास्थ्य क्लिनिक
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Desa_Pulau_Aman,_Pulau_Aman_(220904)_1.jpg
 ---
 
 एक बुखार जो उतरता नहीं, एक बच्चा जिसका टीकाकरण होना है, या रक्तचाप जिसकी मासिक निगरानी चाहिए — और जो पहला सवाल आमतौर पर उठता है वह «इलाज क्या है» नहीं होता, बल्कि «मैं किस क्लीनिक जाऊँ» होता है। निजी क्लीनिक तेज़ हैं पर महँगे। सरकारी अस्पताल छोटी समस्याओं के लिए भीड़-भरे हैं। और «सरकारी क्लीनिक» स्वयं वास्तव में एक ही प्रकार की सुविधा नहीं है — बहुत से लोगों को यह एहसास नहीं कि Klinik Kesihatan, Klinik Komuniti और Klinik Pergigian एक ही छत के नीचे तीन अलग सुविधाएँ हैं।

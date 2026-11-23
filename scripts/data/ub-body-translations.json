@@ -31874,5 +31874,3543 @@
         "subject": "Un tisserand actionnant un métier à tisser en bois chargé de bobines de fil coloré dans un atelier de tissage, représentant le tissage d'étoffes dans l'industrie textile"
       }
     ]
+  },
+  "healthcare/abortion-law-in-malaysia": {
+    "zh": [
+      {
+        "alt": "一座单层政府健康诊所建筑，设有带顶棚的入口，此处作为中性示意，代表提供生育健康护理与咨询服务的公共诊所",
+        "subject": "马来西亚霹雳州Lekir一所政府健康诊所（Klinik Kesihatan）的外观"
+      },
+      {
+        "alt": "一块标示马来西亚县级公共健康诊所的路边招牌，中性地代表公共卫生体系，未指明任何提供特定服务的设施",
+        "subject": "彭亨州劳勿县政府健康诊所（Klinik Kesihatan Daerah Raub）的招牌"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "屋根付きの入口を備えた平屋建ての政府健康診療所。ここでは、リプロダクティブヘルスケアとカウンセリングが提供される公共診療所の中立的な例示として用いている",
+        "subject": "マレーシア・ペラ州レキルにある政府健康診療所（Klinik Kesihatan）の外観"
+      },
+      {
+        "alt": "マレーシアの県立公共健康診療所を示す道路脇の看板。特定のサービスを提供する施設名を挙げず、公衆衛生制度を中立的に象徴している",
+        "subject": "パハン州ラウブ県の政府健康診療所（Klinik Kesihatan Daerah Raub）の看板"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "지붕이 있는 출입구를 갖춘 단층 정부 보건소 건물로, 여기서는 생식 보건 진료와 상담이 제공되는 공공 진료소를 중립적으로 보여주는 예시로 쓰였다",
+        "subject": "말레이시아 페락주 레키르에 있는 정부 보건소(Klinik Kesihatan)의 외관"
+      },
+      {
+        "alt": "말레이시아 군(縣) 단위 공공 보건소를 알리는 길가 안내판으로, 특정 서비스를 제공하는 시설을 명시하지 않고 공공 보건 체계를 중립적으로 대변한다",
+        "subject": "파항주 라웁군 정부 보건소(Klinik Kesihatan Daerah Raub)의 안내판"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารคลินิกสุขภาพของรัฐชั้นเดียวที่มีทางเข้าแบบมีหลังคาคลุมใช้เป็นภาพประกอบอย่างเป็นกลางแทนคลินิกสาธารณะที่ให้บริการดูแลและให้คำปรึกษาด้านอนามัยการเจริญพันธุ์",
+        "subject": "ภายนอกคลินิกสุขภาพของรัฐ(KlinikKesihatan)ที่เลอกีร์รัฐเปรักประเทศมาเลเซีย"
+      },
+      {
+        "alt": "ป้ายริมถนนบอกตำแหน่งคลินิกสุขภาพสาธารณะระดับอำเภอของมาเลเซียใช้แทนระบบสาธารณสุขอย่างเป็นกลางโดยไม่ระบุสถานบริการที่ให้บริการเฉพาะด้านใด",
+        "subject": "ป้ายคลินิกสุขภาพของรัฐระดับอำเภอ(KlinikKesihatanDaerahRaub)รัฐปะหัง"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Bangunan klinik kesihatan kerajaan satu tingkat dengan pintu masuk berbumbung, digunakan di sini sebagai gambaran neutral klinik awam tempat penjagaan dan kaunseling kesihatan reproduktif disediakan",
+        "subject": "Bahagian luar klinik kesihatan kerajaan Malaysia (Klinik Kesihatan) di Lekir, Perak"
+      },
+      {
+        "alt": "Papan tanda di tepi jalan menandakan klinik kesihatan awam daerah di Malaysia, mewakili sistem kesihatan awam secara neutral tanpa menamakan mana-mana kemudahan yang menyediakan perkhidmatan tertentu",
+        "subject": "Papan tanda klinik kesihatan kerajaan daerah (Klinik Kesihatan Daerah Raub), Pahang"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Bangunan klinik kesehatan pemerintah satu lantai dengan pintu masuk beratap, digunakan di sini sebagai ilustrasi netral klinik umum tempat layanan dan konseling kesehatan reproduksi diberikan",
+        "subject": "Bagian luar klinik kesehatan pemerintah Malaysia (Klinik Kesihatan) di Lekir, Perak"
+      },
+      {
+        "alt": "Papan nama di tepi jalan yang menandai klinik kesehatan umum daerah di Malaysia, mewakili sistem kesehatan umum secara netral tanpa menyebut fasilitas mana pun yang menyediakan layanan tertentu",
+        "subject": "Papan nama klinik kesehatan pemerintah daerah (Klinik Kesihatan Daerah Raub), Pahang"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Tòa nhà phòng khám y tế công một tầng với lối vào có mái che, dùng ở đây như một minh họa trung lập cho các phòng khám công nơi cung cấp dịch vụ chăm sóc và tư vấn sức khỏe sinh sản",
+        "subject": "Bên ngoài một phòng khám y tế công của chính phủ Malaysia (Klinik Kesihatan) tại Lekir, Perak"
+      },
+      {
+        "alt": "Một bảng hiệu bên đường đánh dấu phòng khám y tế công cấp huyện của Malaysia, đại diện trung lập cho hệ thống y tế công mà không nêu tên cơ sở nào cung cấp dịch vụ cụ thể",
+        "subject": "Bảng hiệu của một phòng khám y tế công cấp huyện (Klinik Kesihatan Daerah Raub), Pahang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கூரையிட்ட நுழைவாயிலுடன் கூடிய ஒரு மாடி அரசு சுகாதார கிளினிக் கட்டிடம், இனப்பெருக்க சுகாதார பராமரிப்பும் ஆலோசனையும் வழங்கப்படும் பொது கிளினிக்குகளுக்கான நடுநிலையான விளக்கப்படமாக இங்கே பயன்படுத்தப்படுகிறது",
+        "subject": "பேராக், லேகிர் இல் உள்ள மலேசிய அரசு சுகாதார கிளினிக் (Klinik Kesihatan) இன் வெளிப்புறம்"
+      },
+      {
+        "alt": "மலேசிய மாவட்ட பொது சுகாதார கிளினிக்கைக் குறிக்கும் சாலையோர பெயர்ப்பலகை, குறிப்பிட்ட சேவையை வழங்கும் எந்த வசதியையும் பெயரிடாமல் பொது சுகாதார அமைப்பை நடுநிலையாகக் குறிக்கிறது",
+        "subject": "பகாங், மாவட்ட அரசு சுகாதார கிளினிக்கின் (Klinik Kesihatan Daerah Raub) பெயர்ப்பலகை"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक ढके हुए प्रवेश द्वार वाला एकमंज़िला सरकारी स्वास्थ्य क्लिनिक भवन, जिसे यहाँ उन सार्वजनिक क्लिनिकों के तटस्थ चित्रण के रूप में प्रयोग किया गया है जहाँ प्रजनन-स्वास्थ्य देखभाल और परामर्श प्रदान किया जाता है",
+        "subject": "लेकिर, Perak में एक मलेशियाई सरकारी स्वास्थ्य क्लिनिक (Klinik Kesihatan) का बाहरी दृश्य"
+      },
+      {
+        "alt": "एक मलेशियाई ज़िला सार्वजनिक स्वास्थ्य क्लिनिक को दर्शाता सड़क किनारे का साइनबोर्ड, जो किसी विशिष्ट सेवा प्रदान करने वाली सुविधा का नाम लिए बिना सार्वजनिक स्वास्थ्य प्रणाली का तटस्थ प्रतिनिधित्व करता है",
+        "subject": "Pahang में एक ज़िला सरकारी स्वास्थ्य क्लिनिक (Klinik Kesihatan Daerah Raub) का साइनबोर्ड"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مبنى عيادة صحية حكومية من طابق واحد بمدخل مظلّل، يُستخدم هنا كتوضيح محايد للعيادات العامة التي تُقدَّم فيها خدمات رعاية الصحة الإنجابية والاستشارات",
+        "subject": "المظهر الخارجي لعيادة صحية حكومية ماليزية (Klinik Kesihatan) في Lekir بولاية Perak"
+      },
+      {
+        "alt": "لافتة على جانب الطريق تدلّ على عيادة صحية عامة حكومية ماليزية في أحد الأقاليم، تمثّل بشكل محايد منظومة الصحة العامة دون تسمية أي منشأة تقدّم خدمة بعينها",
+        "subject": "لافتة عيادة صحية حكومية إقليمية (Klinik Kesihatan Daerah Raub) في ولاية Pahang"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un edificio de clínica de salud gubernamental de una sola planta con una entrada techada, utilizado aquí como ilustración neutral de las clínicas públicas donde se brinda atención y asesoramiento en salud reproductiva",
+        "subject": "Exterior de una clínica de salud gubernamental de Malasia (Klinik Kesihatan) en Lekir, Perak"
+      },
+      {
+        "alt": "Un letrero al borde de la carretera que señala una clínica pública de salud de distrito en Malasia, que representa de forma neutral el sistema de salud pública sin nombrar ninguna instalación que preste un servicio específico",
+        "subject": "Letrero de una clínica de salud gubernamental de distrito (Klinik Kesihatan Daerah Raub), Pahang"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un bâtiment de clinique de santé gouvernementale de plain-pied avec une entrée couverte, utilisé ici comme illustration neutre des cliniques publiques où sont dispensés les soins et le conseil en santé reproductive",
+        "subject": "Extérieur d'une clinique de santé gouvernementale malaisienne (Klinik Kesihatan) à Lekir, Perak"
+      },
+      {
+        "alt": "Un panneau en bord de route signalant une clinique publique de santé de district en Malaisie, représentant de manière neutre le système de santé publique sans nommer aucun établissement fournissant un service précis",
+        "subject": "Panneau d'une clinique de santé gouvernementale de district (Klinik Kesihatan Daerah Raub), Pahang"
+      }
+    ]
+  },
+  "healthcare/allied-health-and-medical-practitioner-registration": {
+    "zh": [
+      {
+        "alt": "一座马来西亚政府医院的多层塔楼，正是注册医疗与专职医疗人员工作的那类场所",
+        "subject": "伊丽莎白女皇医院，位于沙巴州亚庇的一所政府三级医院"
+      },
+      {
+        "alt": "两名卫生科学人员在设有生物安全柜与设备的实验室内，代表需要注册的专职医疗与化验专业",
+        "subject": "马来西亚一所医学研究实验室内，化验人员在生物安全柜旁交谈"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マレーシアの政府病院の高層タワー棟。登録を受けた医療従事者や医療関連専門職が働くような施設を表している",
+        "subject": "クイーン・エリザベス病院、サバ州コタキナバルにある政府の三次医療病院"
+      },
+      {
+        "alt": "バイオセーフティキャビネットと機器を備えた実験室で2人の保健科学スタッフが談笑しており、登録を要する医療関連専門職と検査技師の職種を表している",
+        "subject": "マレーシアの医学研究所でバイオセーフティキャビネットのそばで話す検査室スタッフ"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "말레이시아 정부 병원의 여러 층짜리 타워 건물로, 등록된 의료인 및 보건의료 관련 전문직이 일하는 유형의 시설을 보여준다",
+        "subject": "퀸 엘리자베스 병원, 사바주 코타키나발루에 있는 공공 3차 병원"
+      },
+      {
+        "alt": "생물안전작업대와 장비가 있는 실험실에서 두 명의 보건과학 인력이 이야기를 나누고 있으며, 등록이 필요한 보건의료 관련 전문직과 검사 분야를 대변한다",
+        "subject": "말레이시아의 한 의학연구 실험실에서 생물안전작업대 옆에서 대화하는 검사실 직원"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารหอสูงหลายชั้นของโรงพยาบาลรัฐในมาเลเซียซึ่งเป็นสถานที่ทำงานของผู้ประกอบวิชาชีพเวชกรรมและสหเวชศาสตร์ที่ขึ้นทะเบียน",
+        "subject": "โรงพยาบาลควีนเอลิซาเบธโรงพยาบาลตติยภูมิของรัฐในโกตากีนาบาลูรัฐซาบาห์"
+      },
+      {
+        "alt": "เจ้าหน้าที่วิทยาศาสตร์สุขภาพสองคนในห้องปฏิบัติการที่มีตู้ชีวนิรภัยและอุปกรณ์แทนวิชาชีพสหเวชศาสตร์และห้องปฏิบัติการที่ต้องขึ้นทะเบียน",
+        "subject": "เจ้าหน้าที่ห้องปฏิบัติการสนทนากันข้างตู้ชีวนิรภัยในห้องปฏิบัติการวิจัยทางการแพทย์ในมาเลเซีย"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Blok menara berbilang tingkat sebuah hospital kerajaan Malaysia, jenis persekitaran tempat pengamal perubatan dan kesihatan bersekutu berdaftar bekerja",
+        "subject": "Queen Elizabeth Hospital, sebuah hospital tertiari kerajaan di Kota Kinabalu, Sabah"
+      },
+      {
+        "alt": "Dua anggota kakitangan sains kesihatan di dalam makmal dengan kabinet biokeselamatan dan peralatan, mewakili profesion kesihatan bersekutu dan makmal yang memerlukan pendaftaran",
+        "subject": "Kakitangan makmal berbual di sebelah kabinet biokeselamatan di sebuah makmal penyelidikan perubatan di Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Blok menara bertingkat sebuah rumah sakit pemerintah Malaysia, jenis lingkungan tempat praktisi medis dan kesehatan sekutu terdaftar bekerja",
+        "subject": "Queen Elizabeth Hospital, sebuah rumah sakit tersier pemerintah di Kota Kinabalu, Sabah"
+      },
+      {
+        "alt": "Dua anggota staf ilmu kesehatan di dalam laboratorium dengan kabinet biosafety dan peralatan, mewakili profesi kesehatan sekutu dan laboratorium yang memerlukan pendaftaran",
+        "subject": "Staf laboratorium berbincang di samping kabinet biosafety di sebuah laboratorium penelitian medis di Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Khối tháp nhiều tầng của một bệnh viện công Malaysia, loại môi trường nơi các bác sĩ và nhân viên y tế liên quan đã đăng ký hành nghề làm việc",
+        "subject": "Queen Elizabeth Hospital, một bệnh viện công tuyến cuối ở Kota Kinabalu, Sabah"
+      },
+      {
+        "alt": "Hai nhân viên khoa học sức khỏe trong phòng thí nghiệm với tủ an toàn sinh học và thiết bị, đại diện cho các ngành y tế liên quan và xét nghiệm cần đăng ký hành nghề",
+        "subject": "Nhân viên phòng thí nghiệm trò chuyện bên cạnh tủ an toàn sinh học trong một phòng thí nghiệm nghiên cứu y khoa ở Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஒரு மலேசிய அரசு மருத்துவமனையின் பல மாடி கோபுரத் தொகுதி, பதிவுசெய்யப்பட்ட மருத்துவ மற்றும் துணை சுகாதார பயிற்சியாளர்கள் பணியாற்றும் வகையான சூழல்",
+        "subject": "சபா, கோட்டா கினபாலுவில் உள்ள அரசு மூன்றாம் நிலை மருத்துவமனையான Queen Elizabeth Hospital"
+      },
+      {
+        "alt": "உயிர்பாதுகாப்பு அலமாரி மற்றும் உபகரணங்களுடன் கூடிய ஆய்வகத்தில் இரண்டு சுகாதார அறிவியல் ஊழியர்கள், பதிவு தேவைப்படும் துணை சுகாதார மற்றும் ஆய்வக தொழில்களைக் குறிக்கிறார்கள்",
+        "subject": "மலேசியாவில் ஒரு மருத்துவ ஆராய்ச்சி ஆய்வகத்தில் உயிர்பாதுகாப்பு அலமாரிக்கு அருகில் உரையாடும் ஆய்வக ஊழியர்கள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक मलेशियाई सरकारी अस्पताल का बहुमंज़िला टावर खंड, वह प्रकार का परिवेश जहाँ पंजीकृत चिकित्सा और सहायक-स्वास्थ्य व्यवसायी कार्य करते हैं",
+        "subject": "Queen Elizabeth Hospital, Kota Kinabalu, Sabah में एक सार्वजनिक तृतीयक अस्पताल"
+      },
+      {
+        "alt": "एक प्रयोगशाला में बायोसेफ्टी कैबिनेट और उपकरणों के साथ दो स्वास्थ्य-विज्ञान कर्मचारी, जो पंजीकरण आवश्यक रखने वाले सहायक-स्वास्थ्य और प्रयोगशाला व्यवसायों का प्रतिनिधित्व करते हैं",
+        "subject": "मलेशिया की एक चिकित्सा अनुसंधान प्रयोगशाला में बायोसेफ्टी कैबिनेट के पास बातचीत करते प्रयोगशाला कर्मचारी"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "كتلة البرج متعددة الطوابق لمستشفى حكومي ماليزي، وهو النوع من الأماكن التي يعمل فيها الممارسون الطبيون والمهنيون في مجالات الصحة المساعِدة المسجَّلون",
+        "subject": "Queen Elizabeth Hospital، مستشفى حكومي من المستوى الثالث في Kota Kinabalu بولاية Sabah"
+      },
+      {
+        "alt": "موظّفان في مجال العلوم الصحية داخل مختبر مزوَّد بخزانة سلامة حيوية ومعدّات، يمثّلان مهن الصحة المساعِدة والمختبرات التي تتطلّب التسجيل",
+        "subject": "موظفو مختبر يتحدثون بجانب خزانة سلامة حيوية في مختبر أبحاث طبية في ماليزيا"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El bloque de torre de varios pisos de un hospital gubernamental de Malasia, el tipo de entorno donde trabajan los profesionales médicos y de salud afín registrados",
+        "subject": "Queen Elizabeth Hospital, un hospital terciario público en Kota Kinabalu, Sabah"
+      },
+      {
+        "alt": "Dos miembros del personal de ciencias de la salud en un laboratorio con una cabina de bioseguridad y equipos, que representan las profesiones de salud afín y de laboratorio que requieren registro",
+        "subject": "Personal de laboratorio conversando junto a una cabina de bioseguridad en un laboratorio de investigación médica en Malasia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Le bloc-tour de plusieurs étages d'un hôpital gouvernemental malaisien, le type de cadre où exercent les praticiens médicaux et les professionnels paramédicaux agréés",
+        "subject": "Queen Elizabeth Hospital, un hôpital tertiaire public à Kota Kinabalu, Sabah"
+      },
+      {
+        "alt": "Deux membres du personnel des sciences de la santé dans un laboratoire doté d'une enceinte de sécurité biologique et d'équipements, représentant les professions paramédicales et de laboratoire soumises à l'enregistrement",
+        "subject": "Du personnel de laboratoire discutant près d'une enceinte de sécurité biologique dans un laboratoire de recherche médicale en Malaisie"
+      }
+    ]
+  },
+  "healthcare/blood-donation-and-national-blood-centre": {
+    "zh": [
+      {
+        "alt": "一个明亮的献血大厅，排列着空置的可躺式献血椅、器械推车和一张接待台，现场没有献血者",
+        "subject": "献血中心内部，一排空置的可躺式献血椅与设备"
+      },
+      {
+        "alt": "一只手拿着装满并已密封的采血袋，附有献血记录标签和导管，代表用于采集与储存捐献血液的设备",
+        "subject": "献血活动中一袋已密封、盛装一单位捐献全血的采血袋"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "空の採血用リクライニングベッド、器具トロリー、受付カウンターが並ぶ明るい献血ホール。献血者はいない",
+        "subject": "献血センターの内部。一列に並ぶ空の採血用リクライニングベッドと機器"
+      },
+      {
+        "alt": "献血記録ラベルとチューブの付いた、血液で満たされ密封された採血バッグを手に持っている様子。献血された血液を採取・保管するための器材を表している",
+        "subject": "献血会場で、全血1単位分の献血血液が入った密封済みの採血バッグ"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "비어 있는 헌혈용 리클라이닝 침상, 기구 카트, 접수 데스크가 늘어선 밝은 헌혈 홀로, 헌혈자는 보이지 않는다",
+        "subject": "헌혈 센터 내부, 비어 있는 헌혈용 리클라이닝 침상과 장비가 줄지어 있는 모습"
+      },
+      {
+        "alt": "헌혈 기록 라벨과 튜브가 달린, 가득 차고 밀봉된 채혈 백을 손으로 들고 있는 모습으로, 헌혈된 혈액을 채취하고 보관하는 데 쓰이는 장비를 보여준다",
+        "subject": "헌혈 행사에서 전혈 1단위가 담긴 밀봉된 채혈 백"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ห้องโถงรับบริจาคโลหิตที่สว่างมีเตียงเอนรับบริจาคว่างเรียงรายรถเข็นเครื่องมือและโต๊ะต้อนรับโดยไม่มีผู้บริจาค",
+        "subject": "ภายในศูนย์รับบริจาคโลหิตที่มีเตียงเอนรับบริจาคว่างเรียงแถวพร้อมอุปกรณ์"
+      },
+      {
+        "alt": "มือถือถุงเก็บโลหิตที่บรรจุเต็มและปิดผนึกพร้อมฉลากบันทึกการบริจาคและสายท่อแทนอุปกรณ์ที่ใช้เก็บและจัดเก็บโลหิตบริจาค",
+        "subject": "ถุงเก็บโลหิตที่ปิดผนึกบรรจุโลหิตบริจาคหนึ่งหน่วยในกิจกรรมรับบริจาคโลหิต"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Dewan pendermaan darah yang terang dipenuhi katil penderma bersandar yang kosong, troli peralatan dan kaunter penerimaan, tanpa seorang pun penderma",
+        "subject": "Bahagian dalam pusat pendermaan darah dengan sebaris katil penderma bersandar yang kosong dan peralatan"
+      },
+      {
+        "alt": "Sebelah tangan memegang beg pengumpulan darah yang penuh dan tertutup dengan label rekod pendermaan dan tiub, mewakili peralatan yang digunakan untuk mengumpul dan menyimpan darah yang didermakan",
+        "subject": "Beg pengumpulan tertutup berisi satu unit darah penuh yang didermakan pada sesi pendermaan"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Aula donor darah yang terang dengan deretan kursi donor berbaring yang kosong, troli peralatan dan meja resepsionis, tanpa seorang pun pendonor",
+        "subject": "Bagian dalam pusat donor darah dengan sederet kursi donor berbaring yang kosong dan peralatan"
+      },
+      {
+        "alt": "Sebuah tangan memegang kantong pengambilan darah yang penuh dan tertutup dengan label catatan donor dan selang, mewakili peralatan yang digunakan untuk mengambil dan menyimpan darah yang didonorkan",
+        "subject": "Kantong pengambilan tertutup berisi satu unit darah lengkap yang didonorkan pada sesi donor"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một hội trường hiến máu sáng sủa với dãy ghế nằm hiến máu trống, xe đẩy dụng cụ và bàn tiếp đón, không có người hiến máu nào",
+        "subject": "Bên trong một trung tâm hiến máu với một dãy ghế nằm hiến máu trống và thiết bị"
+      },
+      {
+        "alt": "Một bàn tay cầm túi lấy máu đã đầy và niêm phong với nhãn ghi hồ sơ hiến máu và ống dẫn, đại diện cho thiết bị dùng để thu và lưu trữ máu hiến",
+        "subject": "Một túi lấy máu đã niêm phong chứa một đơn vị máu toàn phần được hiến tại một buổi hiến máu"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "காலியான சாய்வு தான நாற்காலிகள், உபகரண வண்டிகள் மற்றும் வரவேற்பு மேசையுடன் கூடிய ஒளிமிக்க இரத்த தான அரங்கம், இரத்தம் தானம் செய்பவர்கள் யாருமில்லை",
+        "subject": "காலியான சாய்வு நாற்காலிகள் வரிசையும் உபகரணங்களும் கொண்ட ஒரு இரத்த தான மையத்தின் உட்புறம்"
+      },
+      {
+        "alt": "தான பதிவு சிட்டை மற்றும் குழாயுடன் நிரம்பிய, சீல் செய்யப்பட்ட இரத்த சேகரிப்பு பையை ஒரு கை பிடித்திருக்கிறது, தானம் செய்யப்பட்ட இரத்தத்தை சேகரித்து சேமிக்கப் பயன்படும் உபகரணங்களைக் குறிக்கிறது",
+        "subject": "ஒரு தான அமர்வில் தானம் செய்யப்பட்ட ஒரு யூனிட் முழு இரத்தத்தைக் கொண்ட சீல் செய்யப்பட்ட சேகரிப்பு பை"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक उज्ज्वल रक्तदान कक्ष जिसमें खाली झुकी हुई दाता कुर्सियों की कतार, उपकरण ट्रॉलियाँ और एक रिसेप्शन डेस्क है, कोई दाता मौजूद नहीं",
+        "subject": "खाली झुकी हुई दाता कुर्सियों की एक कतार और उपकरणों वाले रक्तदान केंद्र का भीतरी दृश्य"
+      },
+      {
+        "alt": "एक हाथ जो भरे हुए, सीलबंद रक्त-संग्रह बैग को उसके दान-रिकॉर्ड लेबल और ट्यूबिंग के साथ पकड़े हुए है, जो दान किए गए रक्त को एकत्र और संग्रहीत करने में प्रयुक्त उपकरण का प्रतिनिधित्व करता है",
+        "subject": "एक दान सत्र में दान किए गए सम्पूर्ण रक्त की एक इकाई रखने वाला सीलबंद संग्रह बैग"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "قاعة تبرّع بالدم مضاءة تصطفّ فيها أرائك تبرّع مائلة فارغة وعربات أدوات ومكتب استقبال، دون وجود أي متبرّعين",
+        "subject": "المظهر الداخلي لمركز تبرّع بالدم به صفّ من أرائك المتبرّعين المائلة الفارغة والمعدات"
+      },
+      {
+        "alt": "يد تمسك كيس جمع دم مملوءًا ومُحكَم الإغلاق مع بطاقة سجلّ التبرّع والأنابيب، يمثّل الأدوات المستخدمة في جمع الدم المتبرَّع به وتخزينه",
+        "subject": "كيس جمع مُحكَم الإغلاق يحوي وحدة من الدم الكامل المتبرَّع به في إحدى جلسات التبرّع"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una sala luminosa de donación de sangre bordeada de sillones reclinables vacíos para donantes, carritos de instrumentos y un mostrador de recepción, sin donantes presentes",
+        "subject": "Interior de un centro de donación de sangre con una fila de sillones reclinables vacíos para donantes y equipos"
+      },
+      {
+        "alt": "Una mano sostiene una bolsa de recolección de sangre llena y sellada con su etiqueta de registro de donación y sus tubos, que representa el equipo usado para recolectar y almacenar sangre donada",
+        "subject": "Una bolsa de recolección sellada que contiene una unidad de sangre entera donada en una sesión de donación"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une salle de don du sang lumineuse bordée de fauteuils inclinables vides pour donneurs, de chariots à instruments et d'un comptoir d'accueil, sans aucun donneur présent",
+        "subject": "Intérieur d'un centre de don du sang avec une rangée de fauteuils inclinables vides pour donneurs et des équipements"
+      },
+      {
+        "alt": "Une main tient une poche de prélèvement sanguin remplie et scellée avec son étiquette d'enregistrement du don et sa tubulure, représentant le matériel servant à prélever et à conserver le sang donné",
+        "subject": "Une poche de prélèvement scellée contenant une unité de sang total donné lors d'une séance de don"
+      }
+    ]
+  },
+  "healthcare/childhood-vaccination": {
+    "zh": [
+      {
+        "alt": "一所马来西亚卫生部的儿童疫苗接种中心，带有KKM（卫生部）标识和一排排候诊座椅，远处仅有寥寥数人",
+        "subject": "卫生部儿童疫苗接种中心（PPV PICKids），位于吉隆坡Pavilion Bukit Jalil"
+      },
+      {
+        "alt": "一支盖好的疫苗瓶立于一支预充式疫苗注射器旁，代表按免疫接种时间表施打的疫苗",
+        "subject": "一支疫苗瓶与一支预充式流感疫苗注射器置于素色台面上"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "KKM（保健省）のロゴが付いたマレーシア保健省の小児ワクチン接種センター。待合いすが並び、遠くに数名の人影が見えるのみ",
+        "subject": "保健省の小児ワクチン接種センター（PPV PICKids）、クアラルンプールのパビリオン・ブキ・ジャリル"
+      },
+      {
+        "alt": "キャップの付いたワクチンバイアルがプレフィルド注射器の横に立っており、予防接種スケジュールに基づいて接種されるワクチンを表している",
+        "subject": "無地の台の上に置かれたワクチンバイアルとプレフィルド式インフルエンザワクチン注射器"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "KKM(보건부) 브랜딩이 붙은 말레이시아 보건부 아동 예방접종 센터로, 대기 의자가 줄지어 있고 멀리 몇 명만 보인다",
+        "subject": "보건부 아동 예방접종 센터(PPV PICKids), 쿠알라룸푸르 파빌리온 부킷 잘릴"
+      },
+      {
+        "alt": "뚜껑이 닫힌 백신 바이알이 사전충전형 백신 주사기 옆에 세워져 있으며, 예방접종 일정에 따라 접종되는 백신을 보여준다",
+        "subject": "무지 바탕 위에 놓인 백신 바이알과 사전충전형 인플루엔자 백신 주사기"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ศูนย์ฉีดวัคซีนเด็กของกระทรวงสาธารณสุขมาเลเซียที่มีตราKKMและเก้าอี้รอเรียงแถวโดยมีผู้คนปรากฏเพียงไม่กี่คนในระยะไกล",
+        "subject": "ศูนย์ฉีดวัคซีนเด็กของกระทรวงสาธารณสุข(PPVPICKids)ที่พาวิลเลียนบูกิตจาลิลกัวลาลัมเปอร์"
+      },
+      {
+        "alt": "ขวดวัคซีนที่ปิดจุกตั้งอยู่ข้างกระบอกฉีดวัคซีนชนิดบรรจุสำเร็จแทนวัคซีนที่ให้ตามตารางการสร้างเสริมภูมิคุ้มกัน",
+        "subject": "ขวดวัคซีนและกระบอกฉีดวัคซีนไข้หวัดใหญ่ชนิดบรรจุสำเร็จบนพื้นผิวเรียบ"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pusat pemberian vaksin kanak-kanak Kementerian Kesihatan Malaysia dengan penjenamaan KKM dan deretan kerusi menunggu, hanya segelintir orang kelihatan di kejauhan",
+        "subject": "Pusat pemberian vaksin kanak-kanak Kementerian Kesihatan (PPV PICKids) di Pavilion Bukit Jalil, Kuala Lumpur"
+      },
+      {
+        "alt": "Vial vaksin bertutup berdiri di sebelah picagari vaksin pra-isi, mewakili vaksin yang diberikan mengikut jadual imunisasi",
+        "subject": "Vial vaksin dan picagari vaksin influenza pra-isi di atas permukaan kosong"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Pusat vaksinasi anak Kementerian Kesehatan Malaysia dengan merek KKM dan deretan kursi tunggu, hanya segelintir orang terlihat di kejauhan",
+        "subject": "Pusat vaksinasi anak Kementerian Kesehatan (PPV PICKids) di Pavilion Bukit Jalil, Kuala Lumpur"
+      },
+      {
+        "alt": "Vial vaksin bertutup berdiri di samping jarum suntik vaksin pra-isi, mewakili vaksin yang diberikan sesuai jadwal imunisasi",
+        "subject": "Vial vaksin dan jarum suntik vaksin influenza pra-isi di atas permukaan polos"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một trung tâm tiêm chủng trẻ em của Bộ Y tế Malaysia với thương hiệu KKM và các hàng ghế chờ, chỉ có vài người xuất hiện ở phía xa",
+        "subject": "Trung tâm tiêm chủng trẻ em của Bộ Y tế (PPV PICKids) tại Pavilion Bukit Jalil, Kuala Lumpur"
+      },
+      {
+        "alt": "Một lọ vắc-xin có nắp đứng cạnh một bơm tiêm vắc-xin đã nạp sẵn, đại diện cho các vắc-xin được tiêm theo lịch tiêm chủng",
+        "subject": "Một lọ vắc-xin và một bơm tiêm vắc-xin cúm đã nạp sẵn trên bề mặt trơn"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "KKM முத்திரையும் வரிசையான காத்திருப்பு நாற்காலிகளும் கொண்ட மலேசிய சுகாதார அமைச்சின் குழந்தைகள் தடுப்பூசி மையம், சிலர் மட்டுமே தொலைவில் தெரிகிறார்கள்",
+        "subject": "கோலாலம்பூர், பெவிலியன் புக்கிட் ஜலீலில் உள்ள சுகாதார அமைச்சின் குழந்தைகள் தடுப்பூசி மையம் (PPV PICKids)"
+      },
+      {
+        "alt": "முன்கூட்டியே நிரப்பப்பட்ட தடுப்பூசி ஊசிக்கு அருகில் நிற்கும் மூடிய தடுப்பூசி குப்பி, நோய்த்தடுப்பு அட்டவணையின் கீழ் வழங்கப்படும் தடுப்பூசிகளைக் குறிக்கிறது",
+        "subject": "ஒரு வெற்று மேற்பரப்பில் ஒரு தடுப்பூசி குப்பியும் முன்கூட்டியே நிரப்பப்பட்ட இன்ஃப்ளூயென்சா தடுப்பூசி ஊசியும்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "KKM ब्रांडिंग और प्रतीक्षा कुर्सियों की कतारों वाला एक मलेशियाई स्वास्थ्य मंत्रालय का बाल टीकाकरण केंद्र, जिसमें केवल दूर कुछ लोग दिखाई दे रहे हैं",
+        "subject": "Pavilion Bukit Jalil, Kuala Lumpur में स्वास्थ्य मंत्रालय का बाल टीकाकरण केंद्र (PPV PICKids)"
+      },
+      {
+        "alt": "एक ढक्कनदार वैक्सीन शीशी एक पहले से भरी हुई वैक्सीन सिरिंज के पास खड़ी है, जो टीकाकरण अनुसूची के तहत दी जाने वाली वैक्सीनों का प्रतिनिधित्व करती है",
+        "subject": "एक सादी सतह पर एक वैक्सीन शीशी और एक पहले से भरी हुई इन्फ्लूएंज़ा वैक्सीन सिरिंज"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مركز لتطعيم الأطفال تابع لوزارة الصحة الماليزية يحمل شعار KKM وصفوفًا من كراسي الانتظار، مع ظهور عدد قليل من الأشخاص من بعيد فقط",
+        "subject": "مركز وزارة الصحة لتطعيم الأطفال (PPV PICKids) في Pavilion Bukit Jalil بـ Kuala Lumpur"
+      },
+      {
+        "alt": "قارورة لقاح مُغطّاة تقف بجانب حقنة لقاح مملوءة مسبقًا، تمثّلان اللقاحات التي تُعطى ضمن جدول التطعيم",
+        "subject": "قارورة لقاح وحقنة لقاح إنفلونزا مملوءة مسبقًا على سطح بسيط"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un centro de vacunación infantil del Ministerio de Salud de Malasia con la marca KKM y filas de sillas de espera, con apenas unas pocas personas visibles solo a lo lejos",
+        "subject": "Centro de vacunación infantil del Ministerio de Salud (PPV PICKids) en Pavilion Bukit Jalil, Kuala Lumpur"
+      },
+      {
+        "alt": "Un vial de vacuna tapado junto a una jeringa de vacuna precargada, que representa las vacunas administradas según un calendario de inmunización",
+        "subject": "Un vial de vacuna y una jeringa de vacuna antigripal precargada sobre una superficie lisa"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un centre de vaccination infantile du ministère de la Santé de Malaisie portant la marque KKM et des rangées de chaises d'attente, avec seulement quelques personnes visibles au loin",
+        "subject": "Centre de vaccination infantile du ministère de la Santé (PPV PICKids) au Pavilion Bukit Jalil, Kuala Lumpur"
+      },
+      {
+        "alt": "Un flacon de vaccin bouché posé à côté d'une seringue de vaccin préremplie, représentant les vaccins administrés selon un calendrier de vaccination",
+        "subject": "Un flacon de vaccin et une seringue de vaccin antigrippal préremplie sur une surface unie"
+      }
+    ]
+  },
+  "healthcare/covid-19-pandemic-response-and-legacy": {
+    "zh": [
+      {
+        "alt": "十个编号的COVID-19抗原快速检测卡匣在桌上排成一行，每个均显示出一条对照线",
+        "subject": "一排十个COVID-19抗原快速检测卡匣，显示对照线与检测线"
+      },
+      {
+        "alt": "供应给马来西亚以支持其COVID-19检测与疫情应对的盒装实验室及诊断设备",
+        "subject": "疫情应对期间运抵马来西亚的COVID-19检测设备"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "番号の付いた10個のCOVID-19抗原迅速検査カセットがテーブル上に一列に並べられ、それぞれにコントロールラインが表示されている",
+        "subject": "コントロールラインと検査ラインを示すCOVID-19抗原迅速検査カセット10個の列"
+      },
+      {
+        "alt": "COVID-19の検査と感染対策を支援するためマレーシアに供給された、箱入りの検査・診断機器",
+        "subject": "感染対策の一環としてマレーシアに届けられたCOVID-19検出機器"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "번호가 매겨진 COVID-19 항원 신속검사 카세트 10개가 테이블 위에 한 줄로 놓여 있으며, 각각 대조선이 나타나 있다",
+        "subject": "대조선과 검사선이 나타난 COVID-19 항원 신속검사 카세트 10개의 줄"
+      },
+      {
+        "alt": "COVID-19 검사와 방역 대응을 지원하기 위해 말레이시아에 공급된 상자 포장 실험실 및 진단 장비",
+        "subject": "방역 대응 과정에서 말레이시아에 전달된 COVID-19 검출 장비"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ตลับทดสอบแอนติเจนโควิด-19แบบรวดเร็วสิบตลับที่มีหมายเลขวางเรียงเป็นแถวบนโต๊ะแต่ละตลับแสดงแถบควบคุม",
+        "subject": "ตลับทดสอบแอนติเจนโควิด-19แบบรวดเร็วสิบตลับที่แสดงแถบควบคุมและแถบทดสอบ"
+      },
+      {
+        "alt": "อุปกรณ์ห้องปฏิบัติการและตรวจวินิจฉัยบรรจุกล่องที่จัดส่งให้มาเลเซียเพื่อสนับสนุนการตรวจโควิด-19และการรับมือการระบาด",
+        "subject": "อุปกรณ์ตรวจหาโควิด-19ที่จัดส่งถึงมาเลเซียระหว่างการรับมือการระบาด"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sepuluh kaset ujian pantas antigen COVID-19 bernombor disusun sebaris di atas meja, setiap satu menunjukkan garis kawalan",
+        "subject": "Sebaris sepuluh kaset ujian pantas antigen COVID-19 menunjukkan garis kawalan dan garis ujian"
+      },
+      {
+        "alt": "Peralatan makmal dan diagnostik berkotak yang dibekalkan ke Malaysia untuk menyokong ujian COVID-19 dan tindak balas pandemiknya",
+        "subject": "Peralatan pengesanan COVID-19 yang dihantar ke Malaysia semasa tindak balas pandemik"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sepuluh kaset tes cepat antigen COVID-19 bernomor disusun sebaris di atas meja, masing-masing menunjukkan garis kontrol",
+        "subject": "Sederet sepuluh kaset tes cepat antigen COVID-19 yang menunjukkan garis kontrol dan garis tes"
+      },
+      {
+        "alt": "Peralatan laboratorium dan diagnostik dalam kotak yang dipasok ke Malaysia untuk mendukung pengujian COVID-19 dan penanganan pandeminya",
+        "subject": "Peralatan deteksi COVID-19 yang dikirim ke Malaysia selama penanganan pandemi"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Mười hộp xét nghiệm nhanh kháng nguyên COVID-19 được đánh số xếp thành một hàng trên bàn, mỗi hộp đều hiển thị một vạch chứng",
+        "subject": "Một hàng mười hộp xét nghiệm nhanh kháng nguyên COVID-19 hiển thị vạch chứng và vạch xét nghiệm"
+      },
+      {
+        "alt": "Thiết bị phòng thí nghiệm và chẩn đoán đóng hộp được cung cấp cho Malaysia nhằm hỗ trợ xét nghiệm COVID-19 và ứng phó đại dịch",
+        "subject": "Thiết bị phát hiện COVID-19 được chuyển đến Malaysia trong quá trình ứng phó đại dịch"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "மேசையில் வரிசையாக அடுக்கப்பட்ட பத்து எண்ணிடப்பட்ட COVID-19 ஆன்டிஜென் விரைவு சோதனை கேசட்டுகள், ஒவ்வொன்றும் ஒரு கட்டுப்பாட்டுக் கோட்டைக் காட்டுகின்றன",
+        "subject": "கட்டுப்பாட்டு மற்றும் சோதனைக் கோடுகளைக் காட்டும் பத்து COVID-19 ஆன்டிஜென் விரைவு சோதனை கேசட்டுகளின் வரிசை"
+      },
+      {
+        "alt": "மலேசியாவின் COVID-19 சோதனை மற்றும் தொற்றுநோய் எதிர்வினைக்கு ஆதரவாக வழங்கப்பட்ட பெட்டியிடப்பட்ட ஆய்வக மற்றும் கண்டறிதல் உபகரணங்கள்",
+        "subject": "தொற்றுநோய் எதிர்வினையின் போது மலேசியாவுக்கு வழங்கப்பட்ட COVID-19 கண்டறிதல் உபகரணங்கள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक मेज़ पर एक कतार में रखी दस क्रमांकित COVID-19 एंटीजन रैपिड-टेस्ट कैसेट, प्रत्येक एक नियंत्रण रेखा दिखा रही है",
+        "subject": "नियंत्रण और परीक्षण रेखाएँ दिखाती दस COVID-19 एंटीजन रैपिड टेस्ट कैसेटों की एक कतार"
+      },
+      {
+        "alt": "मलेशिया को उसके COVID-19 परीक्षण और महामारी प्रतिक्रिया में सहायता हेतु आपूर्ति किए गए डिब्बाबंद प्रयोगशाला और नैदानिक उपकरण",
+        "subject": "महामारी प्रतिक्रिया के दौरान मलेशिया को पहुँचाए गए COVID-19 पहचान उपकरण"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "عشر كاسيتات اختبار سريع لمستضدّ COVID-19 مرقّمة ومصفوفة في خطّ على طاولة، يُظهر كلّ منها خطّ تحكُّم",
+        "subject": "صفّ من عشر كاسيتات اختبار سريع لمستضدّ COVID-19 تُظهر خطوط التحكُّم والاختبار"
+      },
+      {
+        "alt": "معدّات مختبرية وتشخيصية معبّأة في صناديق جرى توريدها إلى ماليزيا لدعم فحوص COVID-19 والاستجابة للجائحة",
+        "subject": "معدّات الكشف عن COVID-19 التي سُلِّمت إلى ماليزيا خلال الاستجابة للجائحة"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Diez casetes numerados de prueba rápida de antígeno de COVID-19 dispuestos en una línea sobre una mesa, cada uno mostrando una línea de control",
+        "subject": "Una fila de diez casetes de prueba rápida de antígeno de COVID-19 que muestran líneas de control y de prueba"
+      },
+      {
+        "alt": "Equipo de laboratorio y de diagnóstico embalado suministrado a Malasia para apoyar sus pruebas de COVID-19 y la respuesta a la pandemia",
+        "subject": "Equipo de detección de COVID-19 entregado a Malasia durante la respuesta a la pandemia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Dix cassettes numérotées de test antigénique rapide de la COVID-19 alignées sur une table, chacune affichant une ligne de contrôle",
+        "subject": "Une rangée de dix cassettes de test antigénique rapide de la COVID-19 affichant les lignes de contrôle et de test"
+      },
+      {
+        "alt": "Du matériel de laboratoire et de diagnostic emballé fourni à la Malaisie pour soutenir ses tests de dépistage de la COVID-19 et sa réponse à la pandémie",
+        "subject": "Matériel de détection de la COVID-19 livré à la Malaisie pendant la riposte à la pandémie"
+      }
+    ]
+  },
+  "healthcare/dental-care": {
+    "zh": [
+      {
+        "alt": "整洁的牙科诊室内一张空置的牙科治疗椅，配有头顶检查灯、操作显示屏和漱口盆",
+        "subject": "诊所诊室内一张牙科治疗椅，配有头顶照明灯、患者监视屏和漱口盆"
+      },
+      {
+        "alt": "一间无人的牙科诊室，展示治疗椅、手机器械输送推车、X光片观片灯以及氧气和负压墙壁接口",
+        "subject": "一间牙科治疗室，配有牙科治疗椅、器械输送装置、X光观片灯和墙壁气体接口"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "きちんと整えられた歯科診療室にある、無影灯・術者用モニター・うがい用ベースンを備えた空の歯科治療チェア",
+        "subject": "診療室の歯科治療チェア。無影灯・患者用モニター・うがい用の洗面台を備える"
+      },
+      {
+        "alt": "治療チェア、ハンドピース供給トロリー、X線フィルムビューア、酸素・吸引の壁取付アウトレットを備えた無人の歯科診療室",
+        "subject": "歯科治療チェア・器具供給ユニット・X線ビューア・壁面ガスアウトレットを備えた歯科治療室"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "깔끔하게 정돈된 치과 진료실에 있는, 무영등과 시술자용 모니터, 양치용 세면대를 갖춘 빈 치과 치료 의자",
+        "subject": "진료실의 치과 치료 의자로, 무영등과 환자용 모니터, 양치용 세면대를 갖추고 있다"
+      },
+      {
+        "alt": "치료 의자, 핸드피스 공급 카트, X선 필름 판독기, 벽면 산소 및 흡인 배출구를 갖춘 비어 있는 치과 진료실",
+        "subject": "치과 치료 의자, 기구 공급 유닛, X선 판독기, 벽면 가스 배출구를 갖춘 치과 치료실"
+      }
+    ],
+    "th": [
+      {
+        "alt": "เก้าอี้ทำฟันว่างพร้อมโคมไฟตรวจเหนือศีรษะจอมอนิเตอร์สำหรับผู้ปฏิบัติงานและอ่างบ้วนปากในห้องทำฟันที่สะอาดเป็นระเบียบ",
+        "subject": "เก้าอี้ทำฟันในห้องตรวจของคลินิกพร้อมโคมไฟเหนือศีรษะจอมอนิเตอร์สำหรับผู้ป่วยและอ่างบ้วนปาก"
+      },
+      {
+        "alt": "ห้องทำฟันที่ไม่มีผู้ใช้งานแสดงเก้าอี้ทำฟันรถเข็นจ่ายหัวกรอเครื่องอ่านฟิล์มเอกซเรย์และช่องจ่ายออกซิเจนและแรงดูดที่ผนัง",
+        "subject": "ห้องทำฟันพร้อมเก้าอี้ทำฟันชุดจ่ายเครื่องมือเครื่องอ่านภาพเอกซเรย์และช่องจ่ายแก๊สที่ผนัง"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Kerusi rawatan pergigian yang kosong dengan lampu pemeriksaan atasnya, monitor pengendali dan besen kumur di dalam bilik pembedahan pergigian yang kemas",
+        "subject": "Kerusi rawatan pergigian dengan lampu atas, monitor pesakit dan besen ludah di dalam bilik rawatan klinik"
+      },
+      {
+        "alt": "Bilik rawatan pergigian yang tidak berpenghuni menunjukkan kerusi rawatan, troli penghantar handpiece, pemapar filem sinar-X serta salur keluar oksigen dan vakum pada dinding",
+        "subject": "Bilik rawatan pergigian dengan kerusi pergigian, unit penghantar instrumen, pemapar sinar-X dan salur keluar gas pada dinding"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Kursi perawatan gigi yang kosong dengan lampu pemeriksaan di atasnya, monitor operator dan wastafel kumur di ruang bedah gigi yang rapi",
+        "subject": "Kursi perawatan gigi dengan lampu sorot, monitor pasien dan wastafel ludah di ruang perawatan klinik"
+      },
+      {
+        "alt": "Ruang bedah gigi yang kosong menampilkan kursi perawatan, troli penghantar handpiece, penampil film sinar-X serta saluran oksigen dan vakum di dinding",
+        "subject": "Ruang perawatan gigi dengan kursi gigi, unit penghantar instrumen, penampil sinar-X dan saluran gas di dinding"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một ghế điều trị nha khoa trống với đèn khám phía trên, màn hình của bác sĩ và bồn súc miệng trong một phòng nha khoa gọn gàng",
+        "subject": "Một ghế điều trị nha khoa với đèn chiếu phía trên, màn hình theo dõi bệnh nhân và bồn nhổ trong phòng điều trị của phòng khám"
+      },
+      {
+        "alt": "Một phòng nha khoa không có người với ghế điều trị, xe đẩy cấp tay khoan, đèn đọc phim X-quang cùng các đầu ra oxy và hút chân không trên tường",
+        "subject": "Một phòng điều trị nha khoa với ghế nha khoa, bộ cấp dụng cụ, đèn đọc phim X-quang và các đầu ra khí trên tường"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "நேர்த்தியான பல் அறுவை சிகிச்சை அறையில் மேல் பரிசோதனை விளக்கு, இயக்குநர் திரை மற்றும் வாய் கொப்பளிப்பு தொட்டியுடன் கூடிய காலியான பல் சிகிச்சை நாற்காலி",
+        "subject": "கிளினிக் சிகிச்சை அறையில் மேல்விளக்கு, நோயாளி கண்காணிப்புத் திரை மற்றும் உமிழ்நீர் தொட்டியுடன் கூடிய பல் சிகிச்சை நாற்காலி"
+      },
+      {
+        "alt": "சிகிச்சை நாற்காலி, கைக்கருவி வழங்கல் வண்டி, எக்ஸ்-ரே பட காட்டி மற்றும் சுவரில் ஆக்ஸிஜன் மற்றும் வெற்றிட வெளியேற்றங்களைக் காட்டும் ஆளில்லாத பல் சிகிச்சை அறை",
+        "subject": "பல் சிகிச்சை நாற்காலி, கருவி வழங்கல் அலகு, எக்ஸ்-ரே காட்டி மற்றும் சுவர் வாயு வெளியேற்றங்களுடன் கூடிய பல் சிகிச்சை அறை"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक सुव्यवस्थित दंत शल्यकक्ष में एक खाली दंत उपचार कुर्सी, उसके ऊपरी जाँच प्रकाश, ऑपरेटर मॉनिटर और कुल्ला बेसिन के साथ",
+        "subject": "क्लिनिक उपचार कक्ष में ऊपरी लैंप, रोगी मॉनिटर और थूकदान वाली एक दंत उपचार कुर्सी"
+      },
+      {
+        "alt": "एक खाली दंत शल्यकक्ष जिसमें एक उपचार कुर्सी, एक हैंडपीस डिलीवरी ट्रॉली, एक एक्स-रे फ़िल्म व्यूअर और ऑक्सीजन तथा वैक्यूम दीवार आउटलेट दिख रहे हैं",
+        "subject": "एक दंत उपचार कक्ष जिसमें दंत कुर्सी, उपकरण डिलीवरी इकाई, एक्स-रे व्यूअर और दीवार गैस आउटलेट हैं"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "كرسي علاج أسنان فارغ مع مصباح الفحص العلوي وشاشة الطبيب وحوض المضمضة في عيادة أسنان مرتّبة",
+        "subject": "كرسي علاج أسنان مع مصباح علوي وشاشة مراقبة للمريض ومبصقة في غرفة عمليات بعيادة"
+      },
+      {
+        "alt": "غرفة عمليات أسنان خالية تُظهر كرسي علاج وعربة لتوصيل القبضات وجهاز عرض أفلام الأشعة السينية ومنافذ جداريّة للأكسجين والشفط",
+        "subject": "غرفة علاج أسنان بها كرسي أسنان ووحدة توصيل أدوات وجهاز عرض أشعة سينية ومنافذ غازات جداريّة"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un sillón dental de tratamiento vacío con su luz de examen superior, el monitor del operador y la escupidera en un quirófano dental ordenado",
+        "subject": "Un sillón dental de tratamiento con lámpara superior, monitor del paciente y escupidera en un gabinete clínico"
+      },
+      {
+        "alt": "Un quirófano dental desocupado que muestra un sillón de tratamiento, un carrito de entrega de piezas de mano, un negatoscopio de radiografías y tomas murales de oxígeno y vacío",
+        "subject": "Una sala de tratamiento dental con un sillón dental, una unidad de entrega de instrumental, un negatoscopio de rayos X y tomas de gas murales"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un fauteuil dentaire de traitement vide avec son scialytique, l'écran de l'opérateur et le crachoir dans un cabinet dentaire bien rangé",
+        "subject": "Un fauteuil dentaire de traitement avec lampe supérieure, écran patient et crachoir dans une salle de soins"
+      },
+      {
+        "alt": "Une salle de soins dentaires inoccupée montrant un fauteuil de traitement, un chariot porte-instruments, un négatoscope pour radiographies et des prises murales d'oxygène et de vide",
+        "subject": "Une salle de traitement dentaire avec un fauteuil dentaire, une unité de distribution d'instruments, un négatoscope et des prises de gaz murales"
+      }
+    ]
+  },
+  "healthcare/diabetes-obesity-and-non-communicable-diseases": {
+    "zh": [
+      {
+        "alt": "一台数字式自动血压计与其臂带，正是用于高血压常规筛查的那类设备",
+        "subject": "一台用于健康筛查的自动上臂式血压计及臂带"
+      },
+      {
+        "alt": "吉隆坡一座景观化的湖畔公园，远处为城市天际线，代表有助于预防非传染性疾病的体育活动与健康生活方式",
+        "subject": "蒂蒂旺沙湖滨公园，吉隆坡一座公共湖畔休闲公园"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "腕用カフの付いたデジタル自動血圧計。高血圧の定期的なスクリーニングに用いられる種類の機器",
+        "subject": "健康診断に用いられる自動上腕式血圧計とカフ"
+      },
+      {
+        "alt": "背後に都市のスカイラインを望むクアラルンプールの整備された湖畔公園。非感染性疾患の予防に役立つ運動と健康的な生活習慣を表している",
+        "subject": "タマン・タシク・ティティワンサ、クアラルンプールの公共の湖畔レクリエーション公園"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "팔 커프가 달린 디지털 자동 혈압계로, 고혈압 정기 선별검사에 쓰이는 유형의 기기이다",
+        "subject": "건강검진에 사용되는 자동 상완식 혈압계와 커프"
+      },
+      {
+        "alt": "뒤로 도시 스카이라인이 보이는 쿠알라룸푸르의 조경된 호숫가 공원으로, 비전염성 질환 예방에 도움이 되는 신체활동과 건강한 생활습관을 보여준다",
+        "subject": "타만 타식 티티왕사, 쿠알라룸푸르의 공공 호숫가 휴양 공원"
+      }
+    ],
+    "th": [
+      {
+        "alt": "เครื่องวัดความดันโลหิตอัตโนมัติแบบดิจิทัลพร้อมผ้าพันแขนซึ่งเป็นอุปกรณ์ที่ใช้ในการตรวจคัดกรองความดันโลหิตสูงตามปกติ",
+        "subject": "เครื่องวัดความดันโลหิตอัตโนมัติแบบรัดต้นแขนพร้อมผ้าพันแขนที่ใช้ในการตรวจคัดกรองสุขภาพ"
+      },
+      {
+        "alt": "สวนริมทะเลสาบที่จัดภูมิทัศน์ในกัวลาลัมเปอร์มีเส้นขอบฟ้าเมืองอยู่เบื้องหลังแทนการออกกำลังกายและวิถีชีวิตที่ดีซึ่งช่วยป้องกันโรคไม่ติดต่อ",
+        "subject": "ตามันตาซิกติติวังซาสวนสาธารณะริมทะเลสาบในกัวลาลัมเปอร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Monitor tekanan darah automatik digital dengan kaf lengannya, jenis peranti yang digunakan dalam saringan rutin bagi tekanan darah tinggi",
+        "subject": "Monitor tekanan darah automatik lengan atas dan kaf yang digunakan untuk saringan kesihatan"
+      },
+      {
+        "alt": "Taman di tepi tasik yang berlandskap di Kuala Lumpur dengan garis langit bandar di latar belakang, mewakili aktiviti fizikal dan gaya hidup sihat yang membantu mencegah penyakit tidak berjangkit",
+        "subject": "Taman Tasik Titiwangsa, sebuah taman rekreasi awam di tepi tasik di Kuala Lumpur"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Monitor tekanan darah otomatis digital dengan manset lengannya, jenis perangkat yang digunakan dalam skrining rutin untuk tekanan darah tinggi",
+        "subject": "Monitor tekanan darah otomatis lengan atas dan manset yang digunakan untuk skrining kesehatan"
+      },
+      {
+        "alt": "Taman di tepi danau yang ditata asri di Kuala Lumpur dengan garis langit kota di kejauhan, mewakili aktivitas fisik dan gaya hidup sehat yang membantu mencegah penyakit tidak menular",
+        "subject": "Taman Tasik Titiwangsa, sebuah taman rekreasi umum di tepi danau di Kuala Lumpur"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một máy đo huyết áp tự động kỹ thuật số với vòng bít cánh tay, loại thiết bị dùng trong sàng lọc định kỳ bệnh cao huyết áp",
+        "subject": "Một máy đo huyết áp bắp tay tự động và vòng bít dùng cho khám sàng lọc sức khỏe"
+      },
+      {
+        "alt": "Một công viên bên hồ được tạo cảnh ở Kuala Lumpur với đường chân trời thành phố phía xa, đại diện cho hoạt động thể chất và lối sống lành mạnh giúp phòng ngừa các bệnh không lây nhiễm",
+        "subject": "Taman Tasik Titiwangsa, một công viên giải trí công cộng bên hồ ở Kuala Lumpur"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கை கஃப்புடன் கூடிய டிஜிட்டல் தானியங்கி இரத்த அழுத்த கண்காணிப்பி, உயர் இரத்த அழுத்தத்திற்கான வழக்கமான பரிசோதனையில் பயன்படும் வகையான சாதனம்",
+        "subject": "சுகாதார பரிசோதனைக்குப் பயன்படும் தானியங்கி மேற்கை இரத்த அழுத்த கண்காணிப்பி மற்றும் கஃப்"
+      },
+      {
+        "alt": "பின்னணியில் நகர வானோரக்கோட்டுடன் கோலாலம்பூரில் அழகுபடுத்தப்பட்ட ஏரிக்கரை பூங்கா, தொற்றா நோய்களைத் தடுக்க உதவும் உடல் செயல்பாடு மற்றும் ஆரோக்கியமான வாழ்க்கை முறையைக் குறிக்கிறது",
+        "subject": "கோலாலம்பூரில் உள்ள ஏரிக்கரை பொது பொழுதுபோக்கு பூங்காவான Taman Tasik Titiwangsa"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "अपने आर्म कफ़ के साथ एक डिजिटल स्वचालित रक्तचाप मॉनिटर, वह प्रकार का उपकरण जो उच्च रक्तचाप की नियमित जाँच में प्रयोग होता है",
+        "subject": "स्वास्थ्य जाँच में प्रयुक्त एक स्वचालित ऊपरी-बांह रक्तचाप मॉनिटर और कफ़"
+      },
+      {
+        "alt": "Kuala Lumpur में एक सुसज्जित झील-किनारे का पार्क जिसके पीछे शहर का क्षितिज है, जो उस शारीरिक गतिविधि और स्वस्थ जीवनशैली का प्रतिनिधित्व करता है जो गैर-संचारी रोगों को रोकने में मदद करती है",
+        "subject": "Taman Tasik Titiwangsa, Kuala Lumpur में एक सार्वजनिक झील-किनारे का मनोरंजन पार्क"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "جهاز رقمي آلي لقياس ضغط الدم مع رباطه الذراعي، وهو نوع الأجهزة المستخدمة في الفحص الروتيني لارتفاع ضغط الدم",
+        "subject": "جهاز آلي لقياس ضغط الدم من أعلى الذراع ورباطه، يُستخدَم في الفحص الصحي"
+      },
+      {
+        "alt": "حديقة منسّقة على ضفة بحيرة في Kuala Lumpur يظهر خلفها أفق المدينة، تمثّل النشاط البدني ونمط الحياة الصحي الذي يساعد على الوقاية من الأمراض غير المعدية",
+        "subject": "Taman Tasik Titiwangsa، حديقة ترفيهية عامة على ضفة بحيرة في Kuala Lumpur"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un tensiómetro digital automático con su manguito de brazo, el tipo de dispositivo usado en el cribado rutinario de la hipertensión arterial",
+        "subject": "Un tensiómetro automático de brazo con manguito usado para el cribado de salud"
+      },
+      {
+        "alt": "Un parque ajardinado junto a un lago en Kuala Lumpur con el horizonte de la ciudad al fondo, que representa la actividad física y el estilo de vida saludable que ayudan a prevenir las enfermedades no transmisibles",
+        "subject": "Taman Tasik Titiwangsa, un parque público de recreación junto a un lago en Kuala Lumpur"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un tensiomètre numérique automatique avec son brassard, le type d'appareil utilisé pour le dépistage de routine de l'hypertension artérielle",
+        "subject": "Un tensiomètre automatique de bras avec brassard utilisé pour le dépistage de santé"
+      },
+      {
+        "alt": "Un parc paysager au bord d'un lac à Kuala Lumpur avec la ligne d'horizon de la ville en arrière-plan, représentant l'activité physique et le mode de vie sain qui aident à prévenir les maladies non transmissibles",
+        "subject": "Taman Tasik Titiwangsa, un parc de loisirs public au bord d'un lac à Kuala Lumpur"
+      }
+    ]
+  },
+  "healthcare/disability-and-oku-healthcare-access": {
+    "zh": [
+      {
+        "alt": "马来西亚一座LRT车站内带扶手、坡度平缓的无障碍坡道，代表为残障人士提供的无台阶通行",
+        "subject": "马来西亚一座公共轨道交通车站的轮椅无障碍坡道"
+      },
+      {
+        "alt": "一个漆有蓝色国际轮椅标志、专供残障人士使用的停车位，代表OKU无障碍设施规定",
+        "subject": "马来西亚一个标有轮椅标志、预留给OKU（残障人士）的停车位"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マレーシアのLRT駅にある手すり付きの緩やかなスロープ。障害のある人のための段差のないアクセスを表している",
+        "subject": "マレーシアの公共鉄道駅にある車いす対応のスロープ"
+      },
+      {
+        "alt": "青い国際車いすマークが描かれ、障害のある人のために確保された駐車区画。OKU（障害者）向けのアクセシビリティ措置を表している",
+        "subject": "マレーシアで車いすマークが付けられたOKU（障害者）専用の駐車区画"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "말레이시아 LRT 역에 있는 난간이 달린 완만한 경사 접근 램프로, 장애인을 위한 무단차 접근을 보여준다",
+        "subject": "말레이시아 공공 철도역의 휠체어 접근 램프"
+      },
+      {
+        "alt": "파란색 국제 휠체어 표지가 그려져 장애인용으로 지정된 주차 구획으로, OKU(장애인) 접근성 규정을 보여준다",
+        "subject": "말레이시아에서 휠체어 표지로 표시된 OKU(장애인) 전용 주차 구획"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ทางลาดสำหรับผู้ใช้รถเข็นที่ลาดเอียงเล็กน้อยพร้อมราวจับที่สถานีรถไฟฟ้าLRTในมาเลเซียแทนการเข้าถึงแบบไร้ขั้นบันไดสำหรับผู้พิการ",
+        "subject": "ทางลาดสำหรับรถเข็นที่สถานีขนส่งมวลชนระบบรางสาธารณะในมาเลเซีย"
+      },
+      {
+        "alt": "ช่องจอดรถที่ทาสัญลักษณ์รถเข็นสากลสีน้ำเงินและสงวนไว้สำหรับผู้พิการแทนมาตรการการเข้าถึงสำหรับOKU",
+        "subject": "ช่องจอดรถสำรองสำหรับOKU(ผู้พิการ)ที่มีสัญลักษณ์รถเข็นในมาเลเซีย"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Tanjakan boleh akses yang landai dengan pemegang tangan di sebuah stesen LRT Malaysia, mewakili akses tanpa anak tangga untuk orang kurang upaya",
+        "subject": "Tanjakan mesra kerusi roda di sebuah stesen pengangkutan awam Malaysia"
+      },
+      {
+        "alt": "Petak letak kereta yang dicat dengan simbol kerusi roda antarabangsa berwarna biru dan dikhaskan untuk orang kurang upaya, mewakili peruntukan kebolehcapaian OKU",
+        "subject": "Petak letak kereta khas OKU (orang kurang upaya) yang ditandakan dengan simbol kerusi roda di Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Ramp landai yang mudah diakses dengan pegangan tangan di sebuah stasiun LRT Malaysia, mewakili akses tanpa tangga bagi penyandang disabilitas",
+        "subject": "Ramp yang dapat diakses kursi roda di sebuah stasiun transportasi umum Malaysia"
+      },
+      {
+        "alt": "Petak parkir yang dicat dengan simbol kursi roda internasional berwarna biru dan dikhususkan bagi penyandang disabilitas, mewakili ketentuan aksesibilitas OKU",
+        "subject": "Petak parkir khusus OKU (penyandang disabilitas) yang ditandai dengan simbol kursi roda di Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một đường dốc tiếp cận thoai thoải có tay vịn tại một nhà ga LRT ở Malaysia, đại diện cho lối tiếp cận không bậc thang dành cho người khuyết tật",
+        "subject": "Một đường dốc tiếp cận cho xe lăn tại một nhà ga giao thông công cộng ở Malaysia"
+      },
+      {
+        "alt": "Một ô đỗ xe được sơn biểu tượng xe lăn quốc tế màu xanh và dành riêng cho người khuyết tật, đại diện cho các quy định về khả năng tiếp cận dành cho OKU",
+        "subject": "Một ô đỗ xe dành riêng cho OKU (người khuyết tật) được đánh dấu bằng biểu tượng xe lăn ở Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஒரு மலேசிய LRT நிலையத்தில் கைப்பிடிகளுடன் கூடிய மெதுவான சாய்வுடைய அணுகல் சரிவுப்பாதை, மாற்றுத்திறனாளிகளுக்கு படிகளற்ற அணுகலைக் குறிக்கிறது",
+        "subject": "ஒரு மலேசிய பொது போக்குவரத்து நிலையத்தில் சக்கர நாற்காலிக்கு ஏற்ற சரிவுப்பாதை"
+      },
+      {
+        "alt": "நீல நிற சர்வதேச சக்கர நாற்காலி சின்னத்துடன் வர்ணம் பூசப்பட்டு மாற்றுத்திறனாளிகளுக்கு ஒதுக்கப்பட்ட வாகன நிறுத்த இடம், OKU அணுகல் ஏற்பாடுகளைக் குறிக்கிறது",
+        "subject": "மலேசியாவில் சக்கர நாற்காலி சின்னத்தால் குறிக்கப்பட்ட OKU (மாற்றுத்திறனாளிகள்) ஒதுக்கீட்டு வாகன நிறுத்த இடம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक मलेशियाई LRT स्टेशन पर रेलिंग वाला एक धीरे ढलान वाला सुगम्य रैंप, जो विकलांग व्यक्तियों के लिए सीढ़ी-रहित पहुँच का प्रतिनिधित्व करता है",
+        "subject": "एक मलेशियाई सार्वजनिक परिवहन स्टेशन पर व्हीलचेयर-सुगम्य रैंप"
+      },
+      {
+        "alt": "एक पार्किंग खाना जिस पर नीला अंतरराष्ट्रीय व्हीलचेयर प्रतीक चित्रित है और जो विकलांग व्यक्तियों के लिए आरक्षित है, जो OKU सुगम्यता प्रावधानों का प्रतिनिधित्व करता है",
+        "subject": "मलेशिया में व्हीलचेयर प्रतीक से चिह्नित एक आरक्षित OKU (विकलांग व्यक्ति) पार्किंग खाना"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "منحدر وصول ذو ميل لطيف مزوّد بدرابزين عند محطة قطار LRT ماليزية، يمثّل الوصول من دون درج للأشخاص ذوي الإعاقة",
+        "subject": "منحدر مهيّأ للكراسي المتحرّكة في محطة نقل عام ماليزية"
+      },
+      {
+        "alt": "موقف سيارة مرسوم عليه رمز الكرسي المتحرّك الدولي باللون الأزرق ومخصَّص للأشخاص ذوي الإعاقة، يمثّل ترتيبات تيسير الوصول لذوي الإعاقة (OKU)",
+        "subject": "موقف سيارات مخصَّص لذوي الإعاقة (OKU) مُعلَّم برمز الكرسي المتحرّك في ماليزيا"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una rampa accesible de suave pendiente con pasamanos en una estación de LRT de Malasia, que representa el acceso sin escalones para personas con discapacidad",
+        "subject": "Una rampa accesible para sillas de ruedas en una estación de transporte público de Malasia"
+      },
+      {
+        "alt": "Una plaza de aparcamiento pintada con el símbolo internacional azul de la silla de ruedas y reservada para personas con discapacidad, que representa las medidas de accesibilidad para OKU",
+        "subject": "Una plaza de aparcamiento reservada para OKU (personas con discapacidad) marcada con el símbolo de la silla de ruedas en Malasia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une rampe accessible à faible pente avec mains courantes dans une station de LRT malaisienne, représentant l'accès de plain-pied pour les personnes handicapées",
+        "subject": "Une rampe accessible aux fauteuils roulants dans une station de transport en commun malaisienne"
+      },
+      {
+        "alt": "Une place de stationnement peinte du symbole international bleu du fauteuil roulant et réservée aux personnes handicapées, représentant les aménagements d'accessibilité OKU",
+        "subject": "Une place de stationnement réservée OKU (personnes handicapées) marquée du symbole du fauteuil roulant en Malaisie"
+      }
+    ]
+  },
+  "healthcare/emergencies-999": {
+    "zh": [
+      {
+        "alt": "马来西亚一座消防与拯救局（Bomba）消防站，是通过999报警专线可呼叫的紧急服务之一",
+        "subject": "消防与拯救局（Bomba, JBPM）消防站，位于柔佛州Pagoh"
+      },
+      {
+        "alt": "马六甲街头一辆圣约翰救伤队马来西亚（St John Ambulance Malaysia）救护车，是与政府应急体系并行运作的志愿紧急医疗服务之一",
+        "subject": "一辆停在马六甲的圣约翰救伤队马来西亚（St John Ambulance Malaysia）紧急救护车"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マレーシアの消防救助庁（Bomba）の消防署。999番通報回線でつながる緊急サービスの一つ",
+        "subject": "消防救助庁（Bomba, JBPM）の消防署、ジョホール州パゴー"
+      },
+      {
+        "alt": "マラッカの街路に停まるセント・ジョン・アンビュランス・マレーシアの救急車。政府の対応と並行して運営される民間の救急医療サービスの一つ",
+        "subject": "マラッカに駐車するセント・ジョン・アンビュランス・マレーシアの救急車"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "말레이시아의 소방구조청(Bomba) 소방서로, 999 신고 회선으로 연결되는 긴급 서비스 중 하나이다",
+        "subject": "소방구조청(Bomba, JBPM) 소방서, 조호르주 파고"
+      },
+      {
+        "alt": "말라카 거리에 있는 세인트존 앰뷸런스 말레이시아 구급차로, 정부 대응과 함께 운영되는 자원봉사 긴급 의료 서비스 중 하나이다",
+        "subject": "말라카에 주차된 세인트존 앰뷸런스 말레이시아(St John Ambulance Malaysia) 긴급 구급차"
+      }
+    ],
+    "th": [
+      {
+        "alt": "สถานีกรมดับเพลิงและกู้ภัย(Bomba)ของมาเลเซียซึ่งเป็นหนึ่งในบริการฉุกเฉินที่ติดต่อได้ผ่านสายโทรศัพท์999",
+        "subject": "สถานีกรมดับเพลิงและกู้ภัย(Bomba,JBPM)ที่ปาโกะห์รัฐยะโฮร์"
+      },
+      {
+        "alt": "รถพยาบาลเซนต์จอห์นแอมบูแลนซ์มาเลเซียบนถนนในมะละกาซึ่งเป็นหนึ่งในบริการการแพทย์ฉุกเฉินอาสาสมัครที่ดำเนินงานควบคู่กับการตอบสนองของรัฐ",
+        "subject": "รถพยาบาลฉุกเฉินเซนต์จอห์นแอมบูแลนซ์มาเลเซียที่จอดอยู่ในมะละกา"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah balai Jabatan Bomba dan Penyelamat Malaysia (Bomba), salah satu perkhidmatan kecemasan yang boleh dihubungi melalui talian panggilan 999",
+        "subject": "Balai Jabatan Bomba dan Penyelamat (Bomba, JBPM) di Pagoh, Johor"
+      },
+      {
+        "alt": "Sebuah ambulans St John Ambulance Malaysia di sebuah jalan di Melaka, salah satu perkhidmatan perubatan kecemasan sukarela yang beroperasi bersama-sama tindak balas kerajaan",
+        "subject": "Ambulans kecemasan St John Ambulance Malaysia yang diletakkan di Melaka"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah stasiun Dinas Pemadam Kebakaran dan Penyelamat Malaysia (Bomba), salah satu layanan darurat yang dapat dihubungi melalui saluran panggilan 999",
+        "subject": "Stasiun Dinas Pemadam Kebakaran dan Penyelamat (Bomba, JBPM) di Pagoh, Johor"
+      },
+      {
+        "alt": "Sebuah ambulans St John Ambulance Malaysia di sebuah jalan di Melaka, salah satu layanan medis darurat sukarela yang beroperasi bersama penanganan pemerintah",
+        "subject": "Ambulans darurat St John Ambulance Malaysia yang terparkir di Melaka"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một trạm Cục Cứu hỏa và Cứu nạn Malaysia (Bomba), một trong những dịch vụ khẩn cấp có thể gọi qua đường dây 999",
+        "subject": "Trạm Cục Cứu hỏa và Cứu nạn (Bomba, JBPM) tại Pagoh, Johor"
+      },
+      {
+        "alt": "Một xe cứu thương của St John Ambulance Malaysia trên một con phố ở Melaka, một trong những dịch vụ y tế khẩn cấp tình nguyện hoạt động song song với ứng phó của chính phủ",
+        "subject": "Một xe cứu thương khẩn cấp của St John Ambulance Malaysia đậu tại Melaka"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஒரு மலேசிய தீயணைப்பு மற்றும் மீட்புத் துறை (Bomba) நிலையம், 999 அழைப்பு இணைப்பு வழியாக அணுகக்கூடிய அவசர சேவைகளில் ஒன்று",
+        "subject": "ஜொகூர், பகோவில் உள்ள தீயணைப்பு மற்றும் மீட்புத் துறை (Bomba, JBPM) நிலையம்"
+      },
+      {
+        "alt": "மலாக்காவில் ஒரு தெருவில் St John Ambulance Malaysia ஆம்புலன்ஸ், அரசு எதிர்வினையுடன் இணைந்து இயங்கும் தன்னார்வ அவசர மருத்துவ சேவைகளில் ஒன்று",
+        "subject": "மலாக்காவில் நிறுத்தப்பட்டுள்ள St John Ambulance Malaysia அவசர ஆம்புலன்ஸ்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक मलेशियाई अग्निशमन एवं बचाव विभाग (Bomba) स्टेशन, जो 999 कॉल लाइन के माध्यम से पहुँची जाने वाली आपातकालीन सेवाओं में से एक है",
+        "subject": "Pagoh, Johor में अग्निशमन एवं बचाव विभाग (Bomba, JBPM) स्टेशन"
+      },
+      {
+        "alt": "Melaka की एक सड़क पर एक St John Ambulance Malaysia एम्बुलेंस, जो सरकारी प्रतिक्रिया के साथ-साथ संचालित होने वाली स्वैच्छिक आपातकालीन चिकित्सा सेवाओं में से एक है",
+        "subject": "Melaka में खड़ी एक St John Ambulance Malaysia आपातकालीन एम्बुलेंस"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "محطة لإدارة الإطفاء والإنقاذ الماليزية (Bomba)، وهي إحدى خدمات الطوارئ التي يجري الوصول إليها عبر خطّ الاتصال 999",
+        "subject": "محطة إدارة الإطفاء والإنقاذ (Bomba، JBPM) في Pagoh بولاية Johor"
+      },
+      {
+        "alt": "سيارة إسعاف تابعة لـ St John Ambulance Malaysia في أحد شوارع Melaka، وهي إحدى خدمات الإسعاف الطبي التطوّعية العاملة إلى جانب الاستجابة الحكومية",
+        "subject": "سيارة إسعاف طوارئ تابعة لـ St John Ambulance Malaysia متوقّفة في Melaka"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una estación del Departamento de Bomberos y Rescate de Malasia (Bomba), uno de los servicios de emergencia a los que se accede a través de la línea telefónica 999",
+        "subject": "Estación del Departamento de Bomberos y Rescate (Bomba, JBPM) en Pagoh, Johor"
+      },
+      {
+        "alt": "Una ambulancia de St John Ambulance Malaysia en una calle de Melaka, uno de los servicios médicos de emergencia voluntarios que operan junto a la respuesta gubernamental",
+        "subject": "Una ambulancia de emergencia de St John Ambulance Malaysia estacionada en Melaka"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une caserne du Département des pompiers et du secours de Malaisie (Bomba), l'un des services d'urgence joignables par la ligne d'appel 999",
+        "subject": "Caserne du Département des pompiers et du secours (Bomba, JBPM) à Pagoh, Johor"
+      },
+      {
+        "alt": "Une ambulance de St John Ambulance Malaysia dans une rue de Melaka, l'un des services médicaux d'urgence bénévoles opérant aux côtés de la réponse gouvernementale",
+        "subject": "Une ambulance d'urgence de St John Ambulance Malaysia stationnée à Melaka"
+      }
+    ]
+  },
+  "healthcare/from-clinic-to-specialist-referral": {
+    "zh": [
+      {
+        "alt": "马来西亚一所政府医院内部的登记与询问柜台，标识指引患者前往正确的排队处，画面中无患者",
+        "subject": "马来西亚一所政府医院（Hospital Tengku Anis，吉兰丹巴西布特）内的登记与询问柜台"
+      },
+      {
+        "alt": "槟城一所大型非营利专科医院的多层主楼，代表转诊路径中的医院层级",
+        "subject": "槟城非营利专科医院南华医院（Lam Wah Ee Hospital）的主楼"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マレーシアの政府病院内の受付・案内カウンター。患者を適切な列へ導く案内表示があり、患者の姿はない",
+        "subject": "マレーシアの政府病院（トゥンク・アニス病院、クランタン州パシル・プテ）内の受付・案内カウンター"
+      },
+      {
+        "alt": "ペナンにある大規模な非営利専門病院の多層階の本館。紹介経路における病院階層を表している",
+        "subject": "ラム・ワー・イー病院の本館、ペナンの非営利専門病院"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "말레이시아 정부 병원 내부의 접수 및 안내 창구로, 환자를 올바른 대기열로 안내하는 표지가 있으며 환자는 보이지 않는다",
+        "subject": "말레이시아 정부 병원(텡쿠 아니스 병원, 클란탄주 파시르 푸테) 내부의 접수 및 안내 창구"
+      },
+      {
+        "alt": "페낭에 있는 대형 비영리 전문병원의 여러 층짜리 본관으로, 의뢰 경로에서의 병원 단계를 보여준다",
+        "subject": "람 와 이 병원의 본관, 페낭의 비영리 전문병원"
+      }
+    ],
+    "th": [
+      {
+        "alt": "เคาน์เตอร์ลงทะเบียนและสอบถามภายในโรงพยาบาลรัฐในมาเลเซียมีป้ายนำผู้ป่วยไปยังช่องที่ถูกต้องโดยไม่มีผู้ป่วยในภาพ",
+        "subject": "เคาน์เตอร์ลงทะเบียนและสอบถามภายในโรงพยาบาลรัฐในมาเลเซีย(HospitalTengkuAnisปาซีร์ปูเตะห์รัฐกลันตัน)"
+      },
+      {
+        "alt": "อาคารหลักหลายชั้นของโรงพยาบาลเฉพาะทางไม่แสวงหากำไรขนาดใหญ่ในปีนังแทนระดับโรงพยาบาลในเส้นทางการส่งต่อ",
+        "subject": "อาคารหลักของโรงพยาบาลลำหวาอีโรงพยาบาลเฉพาะทางไม่แสวงหากำไรในปีนัง"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Kaunter pendaftaran dan pertanyaan di dalam sebuah hospital kerajaan Malaysia, papan tanda mengarahkan pesakit ke barisan yang betul, tanpa seorang pun pesakit kelihatan",
+        "subject": "Kaunter pendaftaran dan pertanyaan di dalam sebuah hospital kerajaan Malaysia (Hospital Tengku Anis, Pasir Puteh, Kelantan)"
+      },
+      {
+        "alt": "Bangunan utama berbilang tingkat sebuah hospital pakar bukan untung yang besar di Pulau Pinang, mewakili peringkat hospital dalam laluan rujukan",
+        "subject": "Bangunan utama Lam Wah Ee Hospital, sebuah hospital pakar bukan untung di Pulau Pinang"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Loket pendaftaran dan informasi di dalam sebuah rumah sakit pemerintah Malaysia, papan petunjuk mengarahkan pasien ke antrean yang tepat, tanpa seorang pun pasien terlihat",
+        "subject": "Loket pendaftaran dan informasi di dalam sebuah rumah sakit pemerintah Malaysia (Hospital Tengku Anis, Pasir Puteh, Kelantan)"
+      },
+      {
+        "alt": "Bangunan utama bertingkat sebuah rumah sakit spesialis nirlaba besar di Penang, mewakili tingkat rumah sakit dalam jalur rujukan",
+        "subject": "Bangunan utama Lam Wah Ee Hospital, sebuah rumah sakit spesialis nirlaba di Penang"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một quầy đăng ký và tư vấn bên trong một bệnh viện công Malaysia, biển chỉ dẫn hướng bệnh nhân đến đúng hàng chờ, không có bệnh nhân nào trong tầm nhìn",
+        "subject": "Quầy đăng ký và tư vấn bên trong một bệnh viện công Malaysia (Hospital Tengku Anis, Pasir Puteh, Kelantan)"
+      },
+      {
+        "alt": "Tòa nhà chính nhiều tầng của một bệnh viện chuyên khoa phi lợi nhuận lớn ở Penang, đại diện cho cấp bệnh viện trong hệ thống chuyển tuyến",
+        "subject": "Tòa nhà chính của Lam Wah Ee Hospital, một bệnh viện chuyên khoa phi lợi nhuận ở Penang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஒரு மலேசிய அரசு மருத்துவமனையில் பதிவு மற்றும் விசாரணை பணியிடம், நோயாளிகளை சரியான வரிசைக்கு வழிநடத்தும் அறிவிப்புப் பலகைகள், எந்த நோயாளியும் தெரியவில்லை",
+        "subject": "ஒரு மலேசிய அரசு மருத்துவமனைக்குள் (Hospital Tengku Anis, Pasir Puteh, Kelantan) பதிவு மற்றும் விசாரணை பணியிடம்"
+      },
+      {
+        "alt": "பினாங்கில் உள்ள ஒரு பெரிய இலாப நோக்கற்ற சிறப்பு மருத்துவமனையின் முதன்மை பல மாடி கட்டிடம், பரிந்துரை பாதையின் மருத்துவமனை நிலையைக் குறிக்கிறது",
+        "subject": "பினாங்கில் உள்ள இலாப நோக்கற்ற சிறப்பு மருத்துவமனையான Lam Wah Ee Hospital இன் முதன்மை கட்டிடம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक मलेशियाई सरकारी अस्पताल में एक भीतरी पंजीकरण और पूछताछ काउंटर, जिसमें रोगियों को सही कतार की ओर निर्देशित करने वाले साइनबोर्ड हैं, कोई रोगी दृश्य में नहीं",
+        "subject": "एक मलेशियाई सरकारी अस्पताल (Hospital Tengku Anis, Pasir Puteh, Kelantan) के भीतर पंजीकरण और पूछताछ काउंटर"
+      },
+      {
+        "alt": "Penang में एक बड़े गैर-लाभकारी विशेषज्ञ अस्पताल की मुख्य बहुमंज़िला इमारत, जो रेफ़रल मार्ग के अस्पताल स्तर का प्रतिनिधित्व करती है",
+        "subject": "Lam Wah Ee Hospital की मुख्य इमारत, Penang में एक गैर-लाभकारी विशेषज्ञ अस्पताल"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مكتب تسجيل واستعلامات داخلي في مستشفى حكومي ماليزي، تُوجِّه لافتاته المرضى إلى الطابور الصحيح، دون وجود أي مرضى",
+        "subject": "مكتب تسجيل واستعلامات داخل مستشفى حكومي ماليزي (Hospital Tengku Anis، Pasir Puteh، Kelantan)"
+      },
+      {
+        "alt": "المبنى الرئيسي متعدد الطوابق لمستشفى تخصّصي كبير غير ربحي في Penang، يمثّل المستوى الاستشفائي في مسار الإحالة",
+        "subject": "المبنى الرئيسي لـ Lam Wah Ee Hospital، وهو مستشفى تخصّصي غير ربحي في Penang"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un mostrador interior de registro e información en un hospital gubernamental de Malasia, con señalización que dirige a los pacientes a la cola correcta, sin pacientes a la vista",
+        "subject": "Mostrador de registro e información dentro de un hospital gubernamental de Malasia (Hospital Tengku Anis, Pasir Puteh, Kelantan)"
+      },
+      {
+        "alt": "El edificio principal de varios pisos de un gran hospital especializado sin fines de lucro en Penang, que representa el nivel hospitalario de una vía de derivación",
+        "subject": "Edificio principal del Lam Wah Ee Hospital, un hospital especializado sin fines de lucro en Penang"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un comptoir intérieur d'enregistrement et de renseignements dans un hôpital gouvernemental malaisien, dont la signalétique oriente les patients vers la bonne file, sans aucun patient en vue",
+        "subject": "Comptoir d'enregistrement et de renseignements à l'intérieur d'un hôpital gouvernemental malaisien (Hospital Tengku Anis, Pasir Puteh, Kelantan)"
+      },
+      {
+        "alt": "Le bâtiment principal de plusieurs étages d'un grand hôpital spécialisé à but non lucratif à Penang, représentant l'échelon hospitalier d'un parcours d'orientation",
+        "subject": "Bâtiment principal du Lam Wah Ee Hospital, un hôpital spécialisé à but non lucratif à Penang"
+      }
+    ]
+  },
+  "healthcare/halal-status-of-vaccines-and-medicines": {
+    "zh": [
+      {
+        "alt": "位于柔佛州居銮市中心一所现代化的马来西亚社区药房，坐落于街角，招牌写着Big Pharmacy",
+        "subject": "马来西亚柔佛州居銮镇中心Big Pharmacy连锁药房的一家分店"
+      },
+      {
+        "alt": "一排排药品盒整齐地摆放在药房货架上，代表包装药品及其标签",
+        "subject": "药房货架上摆放的多盒非专利药品"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "街角に立つマレーシアの現代的な地域薬局。看板には「Big Pharmacy」とあり、ジョホール州クルアンにある",
+        "subject": "ジョホール州クルアンの町中心部にある小売チェーン「Big Pharmacy」の店舗"
+      },
+      {
+        "alt": "薬局の棚にきちんと積み重ねられた薬の箱の列。包装された医薬品とそのラベル表示を表している",
+        "subject": "薬局の棚に並べられたジェネリック医薬品の箱"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "길모퉁이에 자리한 현대적인 말레이시아 지역 약국으로, 간판에 Big Pharmacy라고 적혀 있으며 조호르주 클루앙에 있다",
+        "subject": "말레이시아 조호르주 클루앙 시내에 있는 Big Pharmacy 소매 체인 지점"
+      },
+      {
+        "alt": "약국 선반에 가지런히 쌓인 약 상자들로, 포장된 의약품과 그 표기를 보여준다",
+        "subject": "약국 선반에 진열된 제네릭 의약품 상자들"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ร้านขายยาชุมชนสมัยใหม่ของมาเลเซียที่หัวมุมถนนป้ายเขียนว่าBigPharmacyในกลวงรัฐยะโฮร์",
+        "subject": "สาขาหนึ่งของร้านขายยาเครือBigPharmacyในใจกลางเมืองกลวงรัฐยะโฮร์มาเลเซีย"
+      },
+      {
+        "alt": "กล่องยาวางเรียงซ้อนอย่างเป็นระเบียบบนชั้นวางของร้านขายยาแทนยาที่บรรจุหีบห่อและฉลากของยา",
+        "subject": "กล่องยาสามัญที่จัดวางบนชั้นวางของร้านขายยา"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah farmasi komuniti Malaysia moden di sudut jalan, papan tandanya tertera Big Pharmacy, di Kluang, Johor",
+        "subject": "Sebuah cawangan rangkaian runcit Big Pharmacy di pusat bandar Kluang, Johor, Malaysia"
+      },
+      {
+        "alt": "Deretan kotak ubat disusun kemas di atas rak farmasi, mewakili ubat berbungkus dan pelabelannya",
+        "subject": "Kotak ubat generik disusun di atas rak farmasi"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah apotek komunitas Malaysia modern di sudut jalan, papan namanya bertuliskan Big Pharmacy, di Kluang, Johor",
+        "subject": "Sebuah cabang rantai ritel Big Pharmacy di pusat kota Kluang, Johor, Malaysia"
+      },
+      {
+        "alt": "Deretan kotak obat yang disusun rapi di rak apotek, mewakili obat kemasan dan pelabelannya",
+        "subject": "Kotak obat generik yang ditata di rak apotek"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một nhà thuốc cộng đồng hiện đại của Malaysia ở góc phố, với bảng hiệu ghi Big Pharmacy, tại Kluang, Johor",
+        "subject": "Một chi nhánh của chuỗi bán lẻ Big Pharmacy ở trung tâm thị trấn Kluang, Johor, Malaysia"
+      },
+      {
+        "alt": "Những hàng hộp thuốc được xếp gọn gàng trên kệ nhà thuốc, đại diện cho thuốc đóng gói và nhãn mác của chúng",
+        "subject": "Các hộp thuốc gốc được sắp xếp trên kệ nhà thuốc"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஜொகூர், க்ளுவாங்கில் ஒரு தெரு மூலையில் உள்ள நவீன மலேசிய சமூக மருந்தகம், அதன் பெயர்ப்பலகையில் Big Pharmacy என எழுதப்பட்டுள்ளது",
+        "subject": "மலேசியா, ஜொகூர், க்ளுவாங் நகர மையத்தில் உள்ள Big Pharmacy சில்லறை சங்கிலியின் ஒரு கிளை"
+      },
+      {
+        "alt": "மருந்தக அலமாரிகளில் நேர்த்தியாக அடுக்கப்பட்ட மருந்துப் பெட்டிகளின் வரிசைகள், பொதியிடப்பட்ட மருந்துகள் மற்றும் அவற்றின் சிட்டையிடலைக் குறிக்கிறது",
+        "subject": "மருந்தக அலமாரிகளில் அடுக்கப்பட்ட பொதுப்பெயர் மருந்துப் பெட்டிகள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक सड़क के कोने पर एक आधुनिक मलेशियाई सामुदायिक फ़ार्मेसी, जिसका साइनबोर्ड Big Pharmacy पढ़ता है, Kluang, Johor में",
+        "subject": "Kluang शहर केंद्र, Johor, मलेशिया में Big Pharmacy खुदरा श्रृंखला की एक शाखा"
+      },
+      {
+        "alt": "फ़ार्मेसी की अलमारियों पर करीने से रखे दवा के डिब्बों की कतारें, जो पैकेज की गई दवाओं और उनकी लेबलिंग का प्रतिनिधित्व करती हैं",
+        "subject": "फ़ार्मेसी की अलमारियों पर व्यवस्थित जेनेरिक दवाओं के डिब्बे"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "صيدلية مجتمعية ماليزية حديثة عند زاوية شارع، تحمل لافتتها اسم Big Pharmacy، في Kluang بولاية Johor",
+        "subject": "فرع لسلسلة متاجر التجزئة Big Pharmacy في وسط مدينة Kluang بولاية Johor، ماليزيا"
+      },
+      {
+        "alt": "صفوف من علب الأدوية مرتّبة بعناية على رفوف الصيدلية، تمثّل الأدوية المعبّأة وبطاقاتها التعريفية",
+        "subject": "علب أدوية جنيسة مرتّبة على رفوف صيدلية"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una moderna farmacia comunitaria de Malasia en la esquina de una calle, con su rótulo que dice Big Pharmacy, en Kluang, Johor",
+        "subject": "Una sucursal de la cadena minorista Big Pharmacy en el centro de la ciudad de Kluang, Johor, Malasia"
+      },
+      {
+        "alt": "Hileras de cajas de medicamentos apiladas con orden en las estanterías de una farmacia, que representan los medicamentos envasados y su etiquetado",
+        "subject": "Cajas de medicamentos genéricos dispuestas en las estanterías de una farmacia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une pharmacie de quartier malaisienne moderne au coin d'une rue, dont l'enseigne indique Big Pharmacy, à Kluang, Johor",
+        "subject": "Une succursale de la chaîne de distribution Big Pharmacy dans le centre-ville de Kluang, Johor, Malaisie"
+      },
+      {
+        "alt": "Des rangées de boîtes de médicaments soigneusement empilées sur les étagères d'une pharmacie, représentant les médicaments conditionnés et leur étiquetage",
+        "subject": "Des boîtes de médicaments génériques disposées sur les étagères d'une pharmacie"
+      }
+    ]
+  },
+  "healthcare/having-a-baby-in-malaysia": {
+    "zh": [
+      {
+        "alt": "一间整洁现代的产科病房，有一张空置的病床和一旁透明的新生儿小床，无人在场",
+        "subject": "一间产科病房，有一张病床和一旁透明的新生儿小床"
+      },
+      {
+        "alt": "一间整洁空旷的医院产前检查候诊室，摆放着灰色座椅，墙上写着Antenatal Clinic字样",
+        "subject": "一间空置的产前检查候诊区，成排座椅，墙上写着Antenatal Clinic字样"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "清潔で近代的な産科病室。空のベッドと透明な新生児用コットがあり、人の姿はない",
+        "subject": "病院のベッドと、その横に置かれた透明な新生児用コットのある産科病室"
+      },
+      {
+        "alt": "灰色のいすが並び、壁に「Antenatal Clinic」と記された、きれいで誰もいない病院の妊婦健診待合室",
+        "subject": "いすが並び、壁に「Antenatal Clinic」の文字が掲げられた空の妊婦健診待合エリア"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "깨끗하고 현대적인 산과 병실로, 빈 병상과 그 옆의 투명한 신생아 침대가 있으며 사람은 없다",
+        "subject": "병상과 그 옆에 놓인 투명한 신생아 침대가 있는 산과 병실"
+      },
+      {
+        "alt": "회색 의자가 놓이고 벽에 Antenatal Clinic 글자가 적힌, 정돈된 빈 병원 산전 진료 대기실",
+        "subject": "의자가 줄지어 있고 벽에 Antenatal Clinic 글자가 적힌 빈 산전 진료 대기 구역"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ห้องคลอดที่สะอาดและทันสมัยมีเตียงผู้ป่วยว่างและเปลเด็กแรกเกิดใสโดยไม่มีผู้คนอยู่",
+        "subject": "ห้องแผนกสูติกรรมมีเตียงผู้ป่วยและเปลเด็กแรกเกิดใสอยู่ข้างๆ"
+      },
+      {
+        "alt": "ห้องรอคลินิกฝากครรภ์ของโรงพยาบาลที่ว่างและเป็นระเบียบมีเก้าอี้สีเทาและคำว่าAntenatalClinicบนผนัง",
+        "subject": "พื้นที่รอคลินิกฝากครรภ์ที่ว่างมีเก้าอี้เรียงแถวและตัวอักษรAntenatalClinicบนผนัง"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Bilik bersalin yang bersih dan moden menunjukkan katil hospital yang kosong dan katil bayi baru lahir lutsinar, tanpa seorang pun",
+        "subject": "Bilik wad bersalin dengan katil hospital dan buaian bayi baru lahir lutsinar di sebelahnya"
+      },
+      {
+        "alt": "Bilik menunggu klinik antenatal hospital yang kemas dan kosong dengan kerusi kelabu dan perkataan Antenatal Clinic pada dinding",
+        "subject": "Ruang menunggu klinik antenatal yang kosong dengan deretan tempat duduk dan tulisan Antenatal Clinic pada dinding"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Ruang bersalin yang bersih dan modern menampilkan tempat tidur rumah sakit yang kosong dan boks bayi baru lahir transparan, tanpa seorang pun",
+        "subject": "Ruang bangsal bersalin dengan tempat tidur rumah sakit dan boks bayi baru lahir bening di sampingnya"
+      },
+      {
+        "alt": "Ruang tunggu klinik antenatal rumah sakit yang rapi dan kosong dengan kursi abu-abu dan tulisan Antenatal Clinic di dinding",
+        "subject": "Ruang tunggu klinik antenatal yang kosong dengan deretan kursi dan tulisan Antenatal Clinic di dinding"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một phòng sản khoa sạch sẽ, hiện đại với giường bệnh trống và một nôi sơ sinh trong suốt, không có người nào",
+        "subject": "Một phòng sản khoa với giường bệnh và một nôi sơ sinh trong suốt bên cạnh"
+      },
+      {
+        "alt": "Một phòng chờ phòng khám tiền sản của bệnh viện gọn gàng, trống với ghế màu xám và dòng chữ Antenatal Clinic trên tường",
+        "subject": "Một khu chờ trống của phòng khám tiền sản với các hàng ghế và dòng chữ Antenatal Clinic trên tường"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "காலியான மருத்துவமனை படுக்கை மற்றும் வெளிப்படையான புதிதாய்ப் பிறந்த குழந்தை தொட்டிலைக் காட்டும் சுத்தமான, நவீன மகப்பேறு அறை, யாரும் இல்லை",
+        "subject": "மருத்துவமனை படுக்கையும் அதற்கு அருகில் தெளிவான புதிதாய்ப் பிறந்த குழந்தை தொட்டிலும் கொண்ட மகப்பேறு வார்டு அறை"
+      },
+      {
+        "alt": "சாம்பல் நிற நாற்காலிகள் மற்றும் சுவரில் Antenatal Clinic என்ற வார்த்தைகளுடன் கூடிய நேர்த்தியான, காலியான மருத்துவமனை கர்ப்பகால கிளினிக் காத்திருப்பு அறை",
+        "subject": "வரிசையான இருக்கைகள் மற்றும் சுவரில் Antenatal Clinic எழுத்துடன் கூடிய காலியான கர்ப்பகால கிளினிக் காத்திருப்பு பகுதி"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक स्वच्छ, आधुनिक प्रसूति कक्ष जिसमें एक खाली अस्पताल बिस्तर और एक पारदर्शी नवजात पालना दिख रहा है, कोई व्यक्ति मौजूद नहीं",
+        "subject": "एक प्रसूति-वार्ड कक्ष जिसमें एक अस्पताल बिस्तर और उसके बगल में एक पारदर्शी नवजात पालना है"
+      },
+      {
+        "alt": "एक सुव्यवस्थित, खाली अस्पताल प्रसवपूर्व क्लिनिक प्रतीक्षा कक्ष जिसमें भूरे रंग की कुर्सियाँ और दीवार पर Antenatal Clinic शब्द लिखे हैं",
+        "subject": "सीटों की कतारों और दीवार पर Antenatal Clinic लिखे अक्षरों वाला एक खाली प्रसवपूर्व क्लिनिक प्रतीक्षा क्षेत्र"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "غرفة ولادة حديثة ونظيفة تُظهر سريرًا طبيًّا فارغًا ومهدًا شفّافًا لحديثي الولادة، دون وجود أشخاص",
+        "subject": "غرفة في جناح الولادة بها سرير طبي ومهد شفّاف لحديثي الولادة بجانبه"
+      },
+      {
+        "alt": "غرفة انتظار نظيفة وخالية في عيادة متابعة الحمل بأحد المستشفيات، بها كراسٍ رمادية وعبارة Antenatal Clinic على الجدار",
+        "subject": "منطقة انتظار خالية في عيادة متابعة الحمل بصفوف من المقاعد وعبارة Antenatal Clinic على الجدار"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una sala de maternidad limpia y moderna que muestra una cama de hospital vacía y una cuna transparente para recién nacidos, sin personas presentes",
+        "subject": "Una habitación de la sala de maternidad con una cama de hospital y, junto a ella, una cuna transparente para recién nacidos"
+      },
+      {
+        "alt": "Una sala de espera de la clínica prenatal del hospital, ordenada y vacía, con sillas grises y las palabras Antenatal Clinic en la pared",
+        "subject": "Una sala de espera vacía de clínica prenatal con hileras de asientos y las letras Antenatal Clinic en la pared"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une chambre de maternité propre et moderne montrant un lit d'hôpital vide et un berceau transparent pour nouveau-né, sans aucune personne présente",
+        "subject": "Une chambre de service de maternité avec un lit d'hôpital et, à côté, un berceau transparent pour nouveau-né"
+      },
+      {
+        "alt": "Une salle d'attente de clinique prénatale d'hôpital, soignée et vide, avec des chaises grises et les mots Antenatal Clinic au mur",
+        "subject": "Une salle d'attente vide de clinique prénatale avec des rangées de sièges et les lettres Antenatal Clinic au mur"
+      }
+    ]
+  },
+  "healthcare/health-white-paper-and-system-reform": {
+    "zh": [
+      {
+        "alt": "布城一座马来西亚联邦政府办公楼，内设卫生部的一个部门",
+        "subject": "马来西亚卫生部（Kementerian Kesihatan Malaysia）位于布城的一座大楼"
+      },
+      {
+        "alt": "马来西亚卫生部接待大厅内，两名官员在签字台前，身后墙上有卫生部名称和马来西亚国徽",
+        "subject": "马来西亚卫生部的一场官方会议，背景为Kementerian Kesihatan Malaysia字样标识和国徽"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "保健省の一部局が入るプトラジャヤのマレーシア連邦政府の庁舎",
+        "subject": "マレーシア保健省（Kementerian Kesihatan Malaysia）のプトラジャヤにある庁舎"
+      },
+      {
+        "alt": "マレーシア保健省の受付ホールで署名机に着く2人の官僚。背後の壁には省名とマレーシアの国章が掲げられている",
+        "subject": "マレーシア保健省での公式会合。Kementerian Kesihatan Malaysiaのワードマークと国章の下で"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "보건부의 한 부서가 입주한 푸트라자야의 말레이시아 연방정부 청사",
+        "subject": "말레이시아 보건부(Kementerian Kesihatan Malaysia)의 푸트라자야 소재 건물"
+      },
+      {
+        "alt": "말레이시아 보건부 접견 홀에서 서명 책상에 앉은 두 관리로, 뒤쪽 벽에는 보건부 명칭과 말레이시아 국장이 걸려 있다",
+        "subject": "말레이시아 보건부의 공식 회의, Kementerian Kesihatan Malaysia 워드마크와 국장 아래에서"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารสำนักงานรัฐบาลกลางของมาเลเซียในปุตราจายาซึ่งเป็นที่ตั้งของหน่วยงานหนึ่งของกระทรวงสาธารณสุข",
+        "subject": "อาคารกระทรวงสาธารณสุขมาเลเซีย(KementerianKesihatanMalaysia)ในปุตราจายา"
+      },
+      {
+        "alt": "เจ้าหน้าที่สองคนที่โต๊ะลงนามในห้องโถงต้อนรับของกระทรวงสาธารณสุขมาเลเซียมีชื่อกระทรวงและตราแผ่นดินมาเลเซียอยู่บนผนังด้านหลัง",
+        "subject": "การประชุมอย่างเป็นทางการที่กระทรวงสาธารณสุขมาเลเซียใต้ตราคำว่าKementerianKesihatanMalaysiaและตราแผ่นดิน"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah bangunan pejabat kerajaan persekutuan Malaysia di Putrajaya yang menempatkan sebuah bahagian Kementerian Kesihatan",
+        "subject": "Sebuah bangunan Kementerian Kesihatan Malaysia di Putrajaya"
+      },
+      {
+        "alt": "Dua pegawai di meja menandatangani dokumen di dewan penerimaan Kementerian Kesihatan Malaysia, dengan nama kementerian dan jata Malaysia pada dinding di belakang",
+        "subject": "Satu mesyuarat rasmi di Kementerian Kesihatan Malaysia, di bawah tanda perkataan Kementerian Kesihatan Malaysia dan jata negara"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah gedung kantor pemerintah federal Malaysia di Putrajaya yang menampung salah satu divisi Kementerian Kesihatan",
+        "subject": "Sebuah gedung Kementerian Kesihatan Malaysia di Putrajaya"
+      },
+      {
+        "alt": "Dua pejabat di meja penandatanganan di aula penerimaan Kementerian Kesihatan Malaysia, dengan nama kementerian dan lambang negara Malaysia di dinding belakang",
+        "subject": "Sebuah pertemuan resmi di Kementerian Kesihatan Malaysia, di bawah wordmark Kementerian Kesihatan Malaysia dan lambang negara"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một tòa nhà văn phòng chính phủ liên bang Malaysia ở Putrajaya, nơi đặt một bộ phận của Bộ Y tế",
+        "subject": "Một tòa nhà Bộ Y tế Malaysia (Kementerian Kesihatan Malaysia) ở Putrajaya"
+      },
+      {
+        "alt": "Hai quan chức tại bàn ký kết trong sảnh tiếp đón của Bộ Y tế Malaysia, với tên bộ và quốc huy Malaysia trên bức tường phía sau",
+        "subject": "Một cuộc họp chính thức tại Bộ Y tế Malaysia, bên dưới dòng chữ hiệu Kementerian Kesihatan Malaysia và quốc huy"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "சுகாதார அமைச்சின் ஒரு பிரிவை தன்னகத்தே கொண்ட புத்ராஜாயாவில் உள்ள மலேசிய மத்திய அரசு அலுவலக கட்டிடம்",
+        "subject": "புத்ராஜாயாவில் உள்ள மலேசிய சுகாதார அமைச்சு (Kementerian Kesihatan Malaysia) கட்டிடம்"
+      },
+      {
+        "alt": "மலேசிய சுகாதார அமைச்சின் வரவேற்பு மண்டபத்தில் கையொப்ப மேசையில் இரு அதிகாரிகள், பின்னால் சுவரில் அமைச்சின் பெயரும் மலேசிய தேசிய சின்னமும்",
+        "subject": "Kementerian Kesihatan Malaysia சொல்முத்திரை மற்றும் தேசிய சின்னத்தின் கீழ், மலேசிய சுகாதார அமைச்சில் ஒரு அதிகாரப்பூர்வ கூட்டம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "Putrajaya में एक मलेशियाई संघीय सरकारी कार्यालय भवन जिसमें स्वास्थ्य मंत्रालय का एक प्रभाग स्थित है",
+        "subject": "Putrajaya में स्वास्थ्य मंत्रालय मलेशिया (Kementerian Kesihatan Malaysia) का एक भवन"
+      },
+      {
+        "alt": "स्वास्थ्य मंत्रालय मलेशिया के एक स्वागत कक्ष में एक हस्ताक्षर मेज़ पर दो अधिकारी, जिनके पीछे दीवार पर मंत्रालय का नाम और मलेशियाई राजचिह्न है",
+        "subject": "स्वास्थ्य मंत्रालय मलेशिया में एक आधिकारिक बैठक, Kementerian Kesihatan Malaysia शब्दचिह्न और राष्ट्रीय प्रतीक के नीचे"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مبنى مكاتب حكومية اتحادية ماليزي في Putrajaya يضمّ إحدى شُعَب وزارة الصحة",
+        "subject": "مبنى لوزارة الصحة الماليزية (Kementerian Kesihatan Malaysia) في Putrajaya"
+      },
+      {
+        "alt": "مسؤولان إلى مكتب توقيع في قاعة استقبال بوزارة الصحة الماليزية، وخلفهما على الجدار اسم الوزارة وشعار ماليزيا",
+        "subject": "اجتماع رسمي في وزارة الصحة الماليزية، أسفل شعار Kementerian Kesihatan Malaysia والرمز الوطني"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un edificio de oficinas del gobierno federal de Malasia en Putrajaya que alberga una dependencia del Ministerio de Salud",
+        "subject": "Un edificio del Ministerio de Salud de Malasia (Kementerian Kesihatan Malaysia) en Putrajaya"
+      },
+      {
+        "alt": "Dos funcionarios en una mesa de firma en un vestíbulo de recepción del Ministerio de Salud de Malasia, con el nombre del ministerio y el escudo de armas de Malasia en la pared detrás",
+        "subject": "Una reunión oficial en el Ministerio de Salud de Malasia, bajo el logotipo Kementerian Kesihatan Malaysia y el escudo nacional"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un bâtiment de bureaux du gouvernement fédéral malaisien à Putrajaya abritant une division du ministère de la Santé",
+        "subject": "Un bâtiment du ministère de la Santé de Malaisie (Kementerian Kesihatan Malaysia) à Putrajaya"
+      },
+      {
+        "alt": "Deux responsables à une table de signature dans un hall d'accueil du ministère de la Santé de Malaisie, avec le nom du ministère et les armoiries de la Malaisie au mur derrière eux",
+        "subject": "Une réunion officielle au ministère de la Santé de Malaisie, sous le logotype Kementerian Kesihatan Malaysia et l'emblème national"
+      }
+    ]
+  },
+  "healthcare/healthcare-for-seniors": {
+    "zh": [
+      {
+        "alt": "一处户外长者运动区，树木间设有低强度健身器械，无人在场",
+        "subject": "东南亚一处住宅区内设有长者健身器械的户外健身角"
+      },
+      {
+        "alt": "一所马来西亚单层老人院的入口与招牌，门前飘扬着马来西亚国旗与沙巴州旗",
+        "subject": "Rumah Sri Pritchard，位于马来西亚沙巴州Papar县Kinarut的一所老人院"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "木々の間に低負荷のフィットネス器具が置かれた屋外の高齢者運動エリア。人の姿はない",
+        "subject": "東南アジアの住宅団地にある高齢者向けの屋外フィットネスコーナー"
+      },
+      {
+        "alt": "マレーシアの平屋建て高齢者介護施設の入口と看板。前にはマレーシア国旗とサバ州旗が掲げられている",
+        "subject": "ルマ・スリ・プリチャード、マレーシア・サバ州パパル郡キナルトにある老人ホーム"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "나무 사이에 저강도 운동 기구가 놓인 야외 노인 운동 공간으로, 사람은 없다",
+        "subject": "동남아시아의 한 주택 단지에 있는 노인용 야외 운동 공간"
+      },
+      {
+        "alt": "말레이시아 단층 노인 요양원의 입구와 간판으로, 앞에는 말레이시아 국기와 사바주 깃발이 걸려 있다",
+        "subject": "루마 스리 프리처드, 말레이시아 사바주 파파르군 키나룻에 있는 노인 요양원"
+      }
+    ],
+    "th": [
+      {
+        "alt": "พื้นที่ออกกำลังกายกลางแจ้งสำหรับผู้สูงอายุที่มีเครื่องออกกำลังกายแรงกระแทกต่ำท่ามกลางต้นไม้โดยไม่มีผู้คนอยู่",
+        "subject": "มุมออกกำลังกายกลางแจ้งที่มีเครื่องออกกำลังกายสำหรับผู้สูงอายุในหมู่บ้านจัดสรรแห่งหนึ่งในเอเชียตะวันออกเฉียงใต้"
+      },
+      {
+        "alt": "ทางเข้าและป้ายของบ้านพักคนชราชั้นเดียวในมาเลเซียมีธงชาติมาเลเซียและธงรัฐซาบาห์โบกสะบัดอยู่ด้านหน้า",
+        "subject": "รูมาฮ์ศรีพริตชาร์ดบ้านพักคนชราที่กินารุตอำเภอปาปาร์รัฐซาบาห์มาเลเซีย"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Kawasan senaman warga emas di luar dengan mesin kecergasan berimpak rendah di celah pokok, tanpa seorang pun",
+        "subject": "Sudut kecergasan luar dengan mesin senaman untuk warga emas di sebuah taman perumahan Asia Tenggara"
+      },
+      {
+        "alt": "Pintu masuk dan papan tanda sebuah rumah penjagaan warga emas Malaysia satu tingkat, dengan bendera Malaysia dan Sabah berkibar di hadapan",
+        "subject": "Rumah Sri Pritchard, sebuah rumah orang tua di Kinarut, daerah Papar, Sabah, Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Area olahraga lansia di luar ruangan dengan mesin kebugaran berdampak rendah di antara pepohonan, tanpa seorang pun",
+        "subject": "Sudut kebugaran luar ruangan dengan mesin olahraga untuk lansia di sebuah perumahan Asia Tenggara"
+      },
+      {
+        "alt": "Pintu masuk dan papan nama sebuah panti perawatan lansia Malaysia satu lantai, dengan bendera Malaysia dan Sabah berkibar di depan",
+        "subject": "Rumah Sri Pritchard, sebuah panti jompo di Kinarut, distrik Papar, Sabah, Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một khu tập thể dục ngoài trời dành cho người cao tuổi với các máy tập cường độ thấp giữa hàng cây, không có người nào",
+        "subject": "Một góc tập thể dục ngoài trời với các máy tập dành cho người cao tuổi trong một khu dân cư Đông Nam Á"
+      },
+      {
+        "alt": "Lối vào và bảng hiệu của một nhà dưỡng lão một tầng của Malaysia, với cờ Malaysia và Sabah tung bay phía trước",
+        "subject": "Rumah Sri Pritchard, một nhà dưỡng lão ở Kinarut, huyện Papar, Sabah, Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "மரங்களுக்கு இடையே குறைந்த தாக்க உடற்பயிற்சி இயந்திரங்களுடன் கூடிய வெளிப்புற முதியோர் உடற்பயிற்சி பகுதி, யாரும் இல்லை",
+        "subject": "ஒரு தென்கிழக்காசிய குடியிருப்புப் பகுதியில் முதியோருக்கான உடற்பயிற்சி இயந்திரங்களுடன் கூடிய வெளிப்புற உடற்தகுதி மூலை"
+      },
+      {
+        "alt": "முன்பக்கத்தில் மலேசியா மற்றும் சபா கொடிகள் பறக்க, ஒரு மாடி மலேசிய முதியோர் பராமரிப்பு இல்லத்தின் நுழைவாயிலும் பெயர்ப்பலகையும்",
+        "subject": "மலேசியா, சபா, பாப்பார் மாவட்டம், கினருட் இல் உள்ள முதியோர் இல்லமான Rumah Sri Pritchard"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "पेड़ों के बीच कम-प्रभाव वाली फ़िटनेस मशीनों के साथ एक बाहरी वरिष्ठ-नागरिक व्यायाम क्षेत्र, कोई व्यक्ति मौजूद नहीं",
+        "subject": "दक्षिण-पूर्व एशियाई आवासीय क्षेत्र में बुज़ुर्गों के लिए व्यायाम मशीनों वाला एक बाहरी फ़िटनेस कोना"
+      },
+      {
+        "alt": "बुज़ुर्गों के लिए एक एकमंज़िला मलेशियाई देखभाल गृह का प्रवेश और साइनबोर्ड, जिसके सामने मलेशियाई और Sabah के झंडे फहरा रहे हैं",
+        "subject": "Rumah Sri Pritchard, Kinarut, Papar ज़िला, Sabah, मलेशिया में एक वृद्धाश्रम"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "منطقة تمارين خارجية لكبار السنّ بأجهزة لياقة منخفضة الشدّة بين الأشجار، دون وجود أشخاص",
+        "subject": "ركن لياقة خارجي بأجهزة تمارين لكبار السنّ في مجمّع سكني بجنوب شرق آسيا"
+      },
+      {
+        "alt": "مدخل ولافتة دار رعاية ماليزية من طابق واحد لكبار السنّ، ترفرف أمامها أعلام ماليزيا وولاية Sabah",
+        "subject": "Rumah Sri Pritchard، دار لرعاية المسنّين في Kinarut بمنطقة Papar، ولاية Sabah، ماليزيا"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una zona de ejercicio al aire libre para personas mayores con máquinas de fitness de bajo impacto entre los árboles, sin personas presentes",
+        "subject": "Un rincón de fitness al aire libre con máquinas de ejercicio para adultos mayores en un conjunto residencial del Sudeste Asiático"
+      },
+      {
+        "alt": "La entrada y el letrero de una residencia de ancianos de Malasia de una sola planta, con las banderas de Malasia y de Sabah ondeando al frente",
+        "subject": "Rumah Sri Pritchard, una residencia de ancianos en Kinarut, distrito de Papar, Sabah, Malasia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une aire d'exercice en plein air pour personnes âgées avec des machines de fitness à faible impact parmi les arbres, sans aucune personne présente",
+        "subject": "Un coin fitness en plein air avec des machines d'exercice pour personnes âgées dans un ensemble résidentiel d'Asie du Sud-Est"
+      },
+      {
+        "alt": "L'entrée et l'enseigne d'une maison de retraite malaisienne de plain-pied, avec les drapeaux de la Malaisie et de Sabah flottant devant",
+        "subject": "Rumah Sri Pritchard, une maison de retraite à Kinarut, district de Papar, Sabah, Malaisie"
+      }
+    ]
+  },
+  "healthcare/hiv-aids-and-sexual-health-services": {
+    "zh": [
+      {
+        "alt": "一个HIV快速检测卡匣、缓冲液瓶和用品摆放在铺有干净纸张的桌面上，由戴手套的双手操作，画面中不露面孔",
+        "subject": "检测前摆放在桌上的一套HIV快速检测试剂，由戴手套的双手操作"
+      },
+      {
+        "alt": "一座矮层的公共性健康诊所坐落于街角，外墙挂有宣传横幅，无人在场",
+        "subject": "一座挂有健康宣传横幅的公共性健康诊所外观"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "清潔な紙を敷いた台の上に並べられたHIV迅速検査カセット、緩衝液ボトル、備品を、手袋をはめた手が扱っている。顔は写っていない",
+        "subject": "検査前にテーブルに並べられたHIV迅速検査キット。手袋をはめた手で"
+      },
+      {
+        "alt": "街角に立つ低層の公共の性の健康クリニック。正面に啓発用の横断幕が掲げられ、人の姿はない",
+        "subject": "健康啓発の横断幕を掲げた公共の性の健康クリニックの外観"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "깨끗한 종이를 깐 탁자 위에 놓인 HIV 신속검사 카세트, 완충액 병, 소모품을 장갑 낀 손이 다루고 있으며 얼굴은 보이지 않는다",
+        "subject": "검사 전 탁자에 놓인 HIV 신속검사 키트, 장갑 낀 손으로 다루는 모습"
+      },
+      {
+        "alt": "길모퉁이에 자리한 저층 공공 성 건강 진료소로, 외벽에 홍보 현수막이 걸려 있고 사람은 없다",
+        "subject": "건강 홍보 현수막이 걸린 공공 성 건강 진료소의 외관"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ตลับทดสอบเอชไอวีแบบรวดเร็วขวดน้ำยาบัฟเฟอร์และอุปกรณ์จัดวางบนโต๊ะที่ปูกระดาษสะอาดดำเนินการด้วยมือที่สวมถุงมือโดยไม่เห็นใบหน้า",
+        "subject": "ชุดทดสอบเอชไอวีแบบรวดเร็วจัดวางบนโต๊ะก่อนการทดสอบพร้อมมือที่สวมถุงมือ"
+      },
+      {
+        "alt": "อาคารคลินิกสุขภาพทางเพศสาธารณะเตี้ยที่หัวมุมถนนมีป้ายรณรงค์สร้างความตระหนักบนผนังด้านหน้าโดยไม่มีผู้คนอยู่",
+        "subject": "ภายนอกคลินิกสุขภาพทางเพศสาธารณะที่มีป้ายรณรงค์ด้านสุขภาพ"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Kaset ujian pantas HIV, botol penimbal dan bekalan disusun di atas meja berlapik kertas yang bersih, dikendalikan oleh tangan bersarung, tanpa wajah ditunjukkan",
+        "subject": "Kit ujian pantas HIV disusun di atas meja sebelum ujian, dengan tangan bersarung"
+      },
+      {
+        "alt": "Sebuah bangunan klinik kesihatan seksual awam yang rendah di sudut jalan, dengan sepanduk kesedaran pada fasadnya dan tanpa seorang pun",
+        "subject": "Bahagian luar sebuah klinik kesihatan seksual awam dengan sepanduk kesedaran kesihatan"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Kaset tes cepat HIV, botol buffer dan perlengkapan yang ditata di atas meja beralas kertas bersih, ditangani oleh tangan bersarung, tanpa wajah yang terlihat",
+        "subject": "Kit tes cepat HIV yang ditata di atas meja sebelum pengujian, dengan tangan bersarung"
+      },
+      {
+        "alt": "Sebuah bangunan klinik kesehatan seksual umum yang rendah di sudut jalan, dengan spanduk kesadaran pada fasadnya dan tanpa seorang pun",
+        "subject": "Bagian luar sebuah klinik kesehatan seksual umum dengan spanduk kesadaran kesehatan"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một hộp xét nghiệm nhanh HIV, chai dung dịch đệm và vật tư được sắp xếp trên bàn trải giấy sạch, do đôi tay đeo găng thao tác, không hiển thị khuôn mặt",
+        "subject": "Một bộ xét nghiệm nhanh HIV được bày trên bàn trước khi xét nghiệm, với đôi tay đeo găng"
+      },
+      {
+        "alt": "Một tòa nhà phòng khám sức khỏe tình dục công cộng thấp tầng ở góc phố, với các băng rôn nâng cao nhận thức trên mặt tiền và không có người nào",
+        "subject": "Mặt ngoài của một phòng khám sức khỏe tình dục công cộng với các băng rôn nâng cao nhận thức về sức khỏe"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "சுத்தமான காகிதம் விரிக்கப்பட்ட மேசையில் அடுக்கப்பட்ட HIV விரைவு சோதனை கேசட், பஃபர் பாட்டில் மற்றும் பொருட்கள், கையுறை அணிந்த கைகளால் கையாளப்படுகிறது, முகங்கள் எதுவும் காட்டப்படவில்லை",
+        "subject": "கையுறை அணிந்த கைகளுடன், சோதனைக்கு முன் மேசையில் அடுக்கப்பட்ட HIV விரைவு சோதனை கிட்"
+      },
+      {
+        "alt": "ஒரு தெரு மூலையில் உள்ள தாழ்வான பொது பாலியல் சுகாதார கிளினிக் கட்டிடம், அதன் முகப்பில் விழிப்புணர்வு பதாகைகளுடன், யாரும் இல்லை",
+        "subject": "சுகாதார விழிப்புணர்வு பதாகைகளுடன் கூடிய ஒரு பொது பாலியல் சுகாதார கிளினிக்கின் வெளிப்புறம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक स्वच्छ कागज़ से ढकी मेज़ पर रखा एक रैपिड HIV टेस्ट कैसेट, बफ़र की बोतल और सामग्री, दस्ताने पहने हाथों द्वारा संभाले जा रहे, कोई चेहरा नहीं दिखाया गया",
+        "subject": "परीक्षण से पहले एक मेज़ पर रखी गई एक HIV रैपिड टेस्ट किट, दस्ताने पहने हाथों के साथ"
+      },
+      {
+        "alt": "एक सड़क के कोने पर एक नीची सार्वजनिक यौन-स्वास्थ्य क्लिनिक इमारत, जिसके अग्रभाग पर जागरूकता बैनर हैं और कोई व्यक्ति मौजूद नहीं",
+        "subject": "स्वास्थ्य-जागरूकता बैनरों वाली एक सार्वजनिक यौन-स्वास्थ्य क्लिनिक का बाहरी भाग"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "كاسيت اختبار سريع لفيروس HIV وقارورة محلول دارئ ومستلزمات مرتّبة على طاولة نظيفة مغطّاة بورق، تتولّاها أيدٍ بقفّازات، دون إظهار أي وجوه",
+        "subject": "طقم اختبار سريع لفيروس HIV مُجهَّز على طاولة قبل الفحص، بأيدٍ ترتدي قفّازات"
+      },
+      {
+        "alt": "مبنى منخفض لعيادة عامة للصحة الجنسية عند زاوية شارع، على واجهته لافتات توعوية ودون وجود أشخاص",
+        "subject": "المظهر الخارجي لعيادة عامة للصحة الجنسية بلافتات للتوعية الصحية"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un casete de prueba rápida de VIH, un frasco de tampón y suministros dispuestos sobre una mesa limpia cubierta con papel, manipulados por manos enguantadas, sin que se muestre ningún rostro",
+        "subject": "Un kit de prueba rápida de VIH dispuesto sobre una mesa antes de realizar la prueba, con manos enguantadas"
+      },
+      {
+        "alt": "Un edificio bajo de una clínica pública de salud sexual en la esquina de una calle, con pancartas de concienciación en su fachada y sin personas presentes",
+        "subject": "El exterior de una clínica pública de salud sexual con pancartas de concienciación sanitaria"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une cassette de test rapide du VIH, un flacon de tampon et des fournitures disposés sur une table propre recouverte de papier, manipulés par des mains gantées, sans aucun visage montré",
+        "subject": "Un kit de test rapide du VIH disposé sur une table avant le test, avec des mains gantées"
+      },
+      {
+        "alt": "Un bâtiment bas de clinique publique de santé sexuelle au coin d'une rue, avec des banderoles de sensibilisation sur sa façade et sans aucune personne présente",
+        "subject": "L'extérieur d'une clinique publique de santé sexuelle avec des banderoles de sensibilisation à la santé"
+      }
+    ]
+  },
+  "healthcare/how-malaysian-healthcare-works": {
+    "zh": [
+      {
+        "alt": "从路边望去，沙巴州亚庇一座大型多层的马来西亚政府医院建筑群",
+        "subject": "伊丽莎白女皇医院，位于沙巴州亚庇的一所大型马来西亚政府医院"
+      },
+      {
+        "alt": "从空中俯瞰槟城乔治市一座大型马来西亚政府医院的多栋建筑群，背景为城市天际线",
+        "subject": "槟城中央医院（Hospital Pulau Pinang），位于槟城乔治市的一所大型马来西亚政府医院"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "サバ州コタキナバルで道路から見た、大規模で多層階のマレーシア政府病院の建物群",
+        "subject": "クイーン・エリザベス病院、サバ州コタキナバルにある大規模なマレーシア政府病院"
+      },
+      {
+        "alt": "ペナン州ジョージタウンにある大規模なマレーシア政府病院の複数棟からなる建物群を上空から見た様子。背後に都市のスカイライン",
+        "subject": "ペナン総合病院（Hospital Pulau Pinang）、ペナン州ジョージタウンにある大規模なマレーシア政府病院"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "사바주 코타키나발루에서 길에서 바라본 대형 다층 말레이시아 정부 병원 단지",
+        "subject": "퀸 엘리자베스 병원, 사바주 코타키나발루에 있는 대형 말레이시아 정부 병원"
+      },
+      {
+        "alt": "페낭주 조지타운에 있는 대형 말레이시아 정부 병원의 여러 동 건물 단지를 공중에서 본 모습으로, 뒤로 도시 스카이라인이 보인다",
+        "subject": "페낭 종합병원(Hospital Pulau Pinang), 페낭주 조지타운에 있는 대형 말레이시아 정부 병원"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารโรงพยาบาลรัฐขนาดใหญ่หลายชั้นของมาเลเซียที่มองจากถนนในโกตากีนาบาลูรัฐซาบาห์",
+        "subject": "โรงพยาบาลควีนเอลิซาเบธโรงพยาบาลรัฐขนาดใหญ่ของมาเลเซียในโกตากีนาบาลูรัฐซาบาห์"
+      },
+      {
+        "alt": "ภาพมุมสูงของกลุ่มอาคารหลายหลังของโรงพยาบาลรัฐขนาดใหญ่ของมาเลเซียในจอร์จทาวน์รัฐปีนังมีเส้นขอบฟ้าเมืองอยู่เบื้องหลัง",
+        "subject": "โรงพยาบาลปีนัง(HospitalPulauPinang)โรงพยาบาลรัฐขนาดใหญ่ของมาเลเซียในจอร์จทาวน์รัฐปีนัง"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah kompleks hospital kerajaan Malaysia berbilang tingkat yang besar dilihat dari jalan di Kota Kinabalu, Sabah",
+        "subject": "Queen Elizabeth Hospital, sebuah hospital kerajaan Malaysia yang utama di Kota Kinabalu, Sabah"
+      },
+      {
+        "alt": "Pemandangan udara kompleks berbilang bangunan sebuah hospital kerajaan Malaysia yang besar di George Town, Pulau Pinang, dengan garis langit bandar di belakang",
+        "subject": "Penang General Hospital (Hospital Pulau Pinang), sebuah hospital kerajaan Malaysia yang utama di George Town, Pulau Pinang"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah kompleks rumah sakit pemerintah Malaysia bertingkat yang besar dilihat dari jalan di Kota Kinabalu, Sabah",
+        "subject": "Queen Elizabeth Hospital, sebuah rumah sakit pemerintah Malaysia utama di Kota Kinabalu, Sabah"
+      },
+      {
+        "alt": "Pemandangan udara kompleks multi-bangunan sebuah rumah sakit pemerintah Malaysia besar di George Town, Penang, dengan garis langit kota di belakang",
+        "subject": "Penang General Hospital (Hospital Pulau Pinang), sebuah rumah sakit pemerintah Malaysia utama di George Town, Penang"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một khu phức hợp bệnh viện công nhiều tầng lớn của Malaysia nhìn từ đường ở Kota Kinabalu, Sabah",
+        "subject": "Queen Elizabeth Hospital, một bệnh viện công lớn của Malaysia ở Kota Kinabalu, Sabah"
+      },
+      {
+        "alt": "Một góc nhìn từ trên cao về khu phức hợp nhiều tòa nhà của một bệnh viện công lớn của Malaysia ở George Town, Penang, với đường chân trời thành phố phía sau",
+        "subject": "Penang General Hospital (Hospital Pulau Pinang), một bệnh viện công lớn của Malaysia ở George Town, Penang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "சபா, கோட்டா கினபாலுவில் சாலையிலிருந்து காணப்படும் ஒரு பெரிய பல மாடி மலேசிய அரசு மருத்துவமனை வளாகம்",
+        "subject": "சபா, கோட்டா கினபாலுவில் உள்ள ஒரு முக்கிய மலேசிய அரசு மருத்துவமனையான Queen Elizabeth Hospital"
+      },
+      {
+        "alt": "பின்னணியில் நகர வானோரக்கோட்டுடன், பினாங், ஜார்ஜ் டவுனில் உள்ள ஒரு பெரிய மலேசிய அரசு மருத்துவமனையின் பல கட்டிட வளாகத்தின் வான்வழிக் காட்சி",
+        "subject": "பினாங், ஜார்ஜ் டவுனில் உள்ள ஒரு முக்கிய மலேசிய அரசு மருத்துவமனையான Penang General Hospital (Hospital Pulau Pinang)"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "Kota Kinabalu, Sabah में सड़क से देखा गया एक बड़ा बहुमंज़िला मलेशियाई सरकारी अस्पताल परिसर",
+        "subject": "Queen Elizabeth Hospital, Kota Kinabalu, Sabah में एक प्रमुख मलेशियाई सरकारी अस्पताल"
+      },
+      {
+        "alt": "George Town, Penang में एक बड़े मलेशियाई सरकारी अस्पताल के बहु-भवन परिसर का हवाई दृश्य, जिसके पीछे शहर का क्षितिज है",
+        "subject": "Penang General Hospital (Hospital Pulau Pinang), George Town, Penang में एक प्रमुख मलेशियाई सरकारी अस्पताल"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مجمّع مستشفى حكومي ماليزي كبير متعدد الطوابق يُرى من الطريق في Kota Kinabalu بولاية Sabah",
+        "subject": "Queen Elizabeth Hospital، مستشفى حكومي ماليزي رئيسي في Kota Kinabalu بولاية Sabah"
+      },
+      {
+        "alt": "منظر جوّي للمجمّع متعدد المباني لمستشفى حكومي ماليزي كبير في George Town بولاية Penang، ويظهر خلفه أفق المدينة",
+        "subject": "Penang General Hospital (Hospital Pulau Pinang)، مستشفى حكومي ماليزي رئيسي في George Town بولاية Penang"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un gran complejo hospitalario gubernamental de Malasia de varios pisos visto desde la carretera en Kota Kinabalu, Sabah",
+        "subject": "Queen Elizabeth Hospital, un importante hospital gubernamental de Malasia en Kota Kinabalu, Sabah"
+      },
+      {
+        "alt": "Una vista aérea del complejo de varios edificios de un gran hospital gubernamental de Malasia en George Town, Penang, con el horizonte de la ciudad al fondo",
+        "subject": "Penang General Hospital (Hospital Pulau Pinang), un importante hospital gubernamental de Malasia en George Town, Penang"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un grand complexe hospitalier gouvernemental malaisien de plusieurs étages vu depuis la route à Kota Kinabalu, Sabah",
+        "subject": "Queen Elizabeth Hospital, un grand hôpital gouvernemental malaisien à Kota Kinabalu, Sabah"
+      },
+      {
+        "alt": "Une vue aérienne du complexe de plusieurs bâtiments d'un grand hôpital gouvernemental malaisien à George Town, Penang, avec la ligne d'horizon de la ville en arrière-plan",
+        "subject": "Penang General Hospital (Hospital Pulau Pinang), un grand hôpital gouvernemental malaisien à George Town, Penang"
+      }
+    ]
+  },
+  "healthcare/klinik-kesihatan": {
+    "zh": [
+      {
+        "alt": "一座马来西亚政府健康诊所（Klinik Kesihatan）的主楼，设有带顶棚的入口车道",
+        "subject": "Klinik Kesihatan Jalan Lanang主楼，砂拉越州诗巫的一所政府健康诊所"
+      },
+      {
+        "alt": "一座岛上小型单层乡村健康诊所（Klinik Desa），是岛上唯一的卫生设施",
+        "subject": "Klinik Desa Pulau Aman，槟城安曼岛上唯一的乡村健康诊所"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "屋根付きの入口車寄せを備えたマレーシアの政府健康診療所（Klinik Kesihatan）の本館",
+        "subject": "クリニック・ケシハタン・ジャラン・ラナンの本館、サラワク州シブの政府健康診療所"
+      },
+      {
+        "alt": "島にある小さな平屋建ての農村保健診療所（Klinik Desa）。島内で唯一の医療施設",
+        "subject": "クリニック・デサ・プラウ・アマン、ペナンのアマン島で唯一の農村保健診療所"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "지붕이 있는 진입 차로를 갖춘 말레이시아 정부 보건소(Klinik Kesihatan)의 본관",
+        "subject": "클리닉 케시하탄 잘란 라낭의 본관, 사라왁주 시부의 정부 보건소"
+      },
+      {
+        "alt": "섬에 있는 작은 단층 농촌 보건소(Klinik Desa)로, 섬에서 유일한 보건 시설이다",
+        "subject": "클리닉 데사 풀라우 아만, 페낭 아만섬의 유일한 농촌 보건소"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารหลักของคลินิกสุขภาพของรัฐ(KlinikKesihatan)ในมาเลเซียพร้อมทางเข้ารถแบบมีหลังคาคลุม",
+        "subject": "อาคารหลักของKlinikKesihatanJalanLanangคลินิกสุขภาพของรัฐในซีบูรัฐซาราวัก"
+      },
+      {
+        "alt": "คลินิกสุขภาพหมู่บ้านชั้นเดียวขนาดเล็ก(KlinikDesa)บนเกาะซึ่งเป็นสถานบริการสุขภาพแห่งเดียวที่นั่น",
+        "subject": "KlinikDesaPulauAmanคลินิกสุขภาพชนบทแห่งเดียวบนเกาะปูเลาอามันรัฐปีนัง"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Blok utama sebuah klinik kesihatan kerajaan Malaysia (Klinik Kesihatan) dengan laluan masuk berbumbung",
+        "subject": "Bangunan utama Klinik Kesihatan Jalan Lanang, sebuah klinik kesihatan kerajaan di Sibu, Sarawak"
+      },
+      {
+        "alt": "Sebuah klinik kesihatan kampung luar bandar (Klinik Desa) satu tingkat yang kecil di sebuah pulau, satu-satunya kemudahan kesihatan di situ",
+        "subject": "Klinik Desa Pulau Aman, satu-satunya klinik kesihatan luar bandar di pulau Pulau Aman, Pulau Pinang"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Blok utama sebuah klinik kesehatan pemerintah Malaysia (Klinik Kesihatan) dengan jalan masuk beratap",
+        "subject": "Bangunan utama Klinik Kesihatan Jalan Lanang, sebuah klinik kesehatan pemerintah di Sibu, Sarawak"
+      },
+      {
+        "alt": "Sebuah klinik kesehatan desa pedesaan (Klinik Desa) satu lantai yang kecil di sebuah pulau, satu-satunya fasilitas kesehatan di sana",
+        "subject": "Klinik Desa Pulau Aman, satu-satunya klinik kesehatan pedesaan di pulau Pulau Aman, Penang"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Khối nhà chính của một phòng khám y tế công Malaysia (Klinik Kesihatan) với lối xe vào có mái che",
+        "subject": "Tòa nhà chính của Klinik Kesihatan Jalan Lanang, một phòng khám y tế công ở Sibu, Sarawak"
+      },
+      {
+        "alt": "Một phòng khám y tế làng quê nông thôn (Klinik Desa) nhỏ một tầng trên một hòn đảo, cơ sở y tế duy nhất ở đó",
+        "subject": "Klinik Desa Pulau Aman, phòng khám y tế nông thôn duy nhất trên đảo Pulau Aman, Penang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கூரையிட்ட நுழைவு வாகனப்பாதையுடன் கூடிய ஒரு மலேசிய அரசு சுகாதார கிளினிக் (Klinik Kesihatan) இன் முதன்மை தொகுதி",
+        "subject": "சரவாக், சிபுவில் உள்ள அரசு சுகாதார கிளினிக்கான Klinik Kesihatan Jalan Lanang இன் முதன்மை கட்டிடம்"
+      },
+      {
+        "alt": "ஒரு தீவில் உள்ள ஒரு மாடி சிறிய கிராமப்புற கிராம சுகாதார கிளினிக் (Klinik Desa), அங்குள்ள ஒரே சுகாதார வசதி",
+        "subject": "பினாங், புலாவ் அமான் தீவில் உள்ள ஒரே கிராமப்புற சுகாதார கிளினிக்கான Klinik Desa Pulau Aman"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक ढके हुए प्रवेश द्वार वाले एक मलेशियाई सरकारी स्वास्थ्य क्लिनिक (Klinik Kesihatan) का मुख्य खंड",
+        "subject": "Klinik Kesihatan Jalan Lanang की मुख्य इमारत, Sibu, Sarawak में एक सरकारी स्वास्थ्य क्लिनिक"
+      },
+      {
+        "alt": "एक द्वीप पर एक छोटा एकमंज़िला ग्रामीण गाँव स्वास्थ्य क्लिनिक (Klinik Desa), वहाँ की एकमात्र स्वास्थ्य सुविधा",
+        "subject": "Klinik Desa Pulau Aman, Pulau Aman द्वीप, Penang पर एकमात्र ग्रामीण स्वास्थ्य क्लिनिक"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "الكتلة الرئيسية لعيادة صحية حكومية ماليزية (Klinik Kesihatan) بممرّ دخول مظلّل للسيارات",
+        "subject": "المبنى الرئيسي لـ Klinik Kesihatan Jalan Lanang، عيادة صحية حكومية في Sibu بولاية Sarawak"
+      },
+      {
+        "alt": "عيادة صحية قروية ريفية صغيرة من طابق واحد (Klinik Desa) في جزيرة، وهي المنشأة الصحية الوحيدة هناك",
+        "subject": "Klinik Desa Pulau Aman، العيادة الصحية الريفية الوحيدة في جزيرة Pulau Aman بولاية Penang"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El bloque principal de una clínica de salud gubernamental de Malasia (Klinik Kesihatan) con una entrada techada para vehículos",
+        "subject": "El edificio principal de la Klinik Kesihatan Jalan Lanang, una clínica de salud gubernamental en Sibu, Sarawak"
+      },
+      {
+        "alt": "Una pequeña clínica de salud rural de pueblo de una sola planta (Klinik Desa) en una isla, la única instalación sanitaria allí",
+        "subject": "Klinik Desa Pulau Aman, la única clínica de salud rural de la isla de Pulau Aman, Penang"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Le bloc principal d'une clinique de santé gouvernementale malaisienne (Klinik Kesihatan) avec une allée d'entrée couverte",
+        "subject": "Le bâtiment principal de la Klinik Kesihatan Jalan Lanang, une clinique de santé gouvernementale à Sibu, Sarawak"
+      },
+      {
+        "alt": "Une petite clinique de santé rurale de village de plain-pied (Klinik Desa) sur une île, le seul établissement de santé sur place",
+        "subject": "Klinik Desa Pulau Aman, l'unique clinique de santé rurale de l'île de Pulau Aman, Penang"
+      }
+    ]
+  },
+  "healthcare/medical-insurance": {
+    "zh": [
+      {
+        "alt": "从空中俯瞰槟城威省一座大型现代化私立医院建筑",
+        "subject": "双威医疗中心（Sunway Medical Centre），马来西亚槟城威省的一所私立医院"
+      },
+      {
+        "alt": "一张弧形的医院接待台位于明亮的入口大厅，代表入院与收费，远处有少数几人",
+        "subject": "主入口大厅内一处医院接待与入院柜台"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ペナン州スベラン・プライにある大規模で近代的な私立病院の建物を上空から見た様子",
+        "subject": "サンウェイ・メディカル・センター、マレーシア・ペナン州スベラン・プライにある私立病院"
+      },
+      {
+        "alt": "明るいエントランスホールにある曲線状の病院受付カウンター。入院受付と会計を表しており、遠くに数人の姿がある",
+        "subject": "正面エントランスのロビーにある病院の受付・入院カウンター"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "페낭주 스브랑 프라이에 있는 대형 현대식 민간 병원 건물을 공중에서 본 모습",
+        "subject": "선웨이 메디컬 센터(Sunway Medical Centre), 말레이시아 페낭주 스브랑 프라이에 있는 민간 병원"
+      },
+      {
+        "alt": "밝은 입구 홀에 있는 곡선형 병원 접수 데스크로, 입원 접수와 수납을 보여주며 멀리 몇 명이 있다",
+        "subject": "정문 입구 로비에 있는 병원 접수 및 입원 창구"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ภาพมุมสูงของอาคารโรงพยาบาลเอกชนขนาดใหญ่ที่ทันสมัยในเซอเบอรังเปอไรรัฐปีนัง",
+        "subject": "ซันเวย์เมดิคัลเซ็นเตอร์โรงพยาบาลเอกชนในเซอเบอรังเปอไรรัฐปีนังมาเลเซีย"
+      },
+      {
+        "alt": "เคาน์เตอร์ต้อนรับของโรงพยาบาลทรงโค้งในโถงทางเข้าที่สว่างแทนการรับผู้ป่วยในและการเรียกเก็บเงินโดยมีผู้คนไม่กี่คนอยู่ในระยะไกล",
+        "subject": "เคาน์เตอร์ต้อนรับและรับผู้ป่วยในของโรงพยาบาลในล็อบบี้ทางเข้าหลัก"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pemandangan udara sebuah bangunan hospital swasta moden yang besar di Seberang Perai, Pulau Pinang",
+        "subject": "Sunway Medical Centre, sebuah hospital swasta di Seberang Perai, Pulau Pinang, Malaysia"
+      },
+      {
+        "alt": "Meja penerimaan hospital yang melengkung di dewan masuk yang terang, mewakili kemasukan dan pengebilan, dengan beberapa orang di kejauhan",
+        "subject": "Kaunter penerimaan dan kemasukan hospital di lobi pintu masuk utama"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Pemandangan udara sebuah bangunan rumah sakit swasta modern yang besar di Seberang Perai, Penang",
+        "subject": "Sunway Medical Centre, sebuah rumah sakit swasta di Seberang Perai, Penang, Malaysia"
+      },
+      {
+        "alt": "Meja resepsionis rumah sakit yang melengkung di aula masuk yang terang, mewakili pendaftaran masuk dan penagihan, dengan beberapa orang di kejauhan",
+        "subject": "Loket resepsionis dan pendaftaran masuk rumah sakit di lobi pintu masuk utama"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một góc nhìn từ trên cao về một tòa nhà bệnh viện tư nhân hiện đại lớn ở Seberang Perai, Penang",
+        "subject": "Sunway Medical Centre, một bệnh viện tư nhân ở Seberang Perai, Penang, Malaysia"
+      },
+      {
+        "alt": "Một bàn tiếp đón bệnh viện cong trong một sảnh vào sáng sủa, đại diện cho việc tiếp nhận và thanh toán viện phí, với vài người ở phía xa",
+        "subject": "Một quầy tiếp đón và tiếp nhận bệnh nhân của bệnh viện ở sảnh vào chính"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பினாங், செபராங் பிறாயில் உள்ள ஒரு பெரிய நவீன தனியார் மருத்துவமனை கட்டிடத்தின் வான்வழிக் காட்சி",
+        "subject": "மலேசியா, பினாங், செபராங் பிறாயில் உள்ள தனியார் மருத்துவமனையான Sunway Medical Centre"
+      },
+      {
+        "alt": "ஒளிமிக்க நுழைவு மண்டபத்தில் வளைந்த மருத்துவமனை வரவேற்பு மேசை, அனுமதி மற்றும் கட்டண விவரத்தைக் குறிக்கிறது, தொலைவில் சிலர்",
+        "subject": "முதன்மை நுழைவு நடைகூடத்தில் மருத்துவமனை வரவேற்பு மற்றும் அனுமதி பணியிடம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "Seberang Perai, Penang में एक बड़ी आधुनिक निजी अस्पताल इमारत का हवाई दृश्य",
+        "subject": "Sunway Medical Centre, Seberang Perai, Penang, मलेशिया में एक निजी अस्पताल"
+      },
+      {
+        "alt": "एक उज्ज्वल प्रवेश कक्ष में एक घुमावदार अस्पताल रिसेप्शन डेस्क, जो भर्ती और बिलिंग का प्रतिनिधित्व करता है, जिसमें दूर कुछ लोग हैं",
+        "subject": "मुख्य प्रवेश लॉबी में एक अस्पताल रिसेप्शन और भर्ती काउंटर"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "منظر جوّي لمبنى مستشفى خاص كبير وحديث في Seberang Perai بولاية Penang",
+        "subject": "Sunway Medical Centre، مستشفى خاص في Seberang Perai بولاية Penang، ماليزيا"
+      },
+      {
+        "alt": "مكتب استقبال منحنٍ في مستشفى داخل بهو دخول مضيء، يمثّل الإدخال والفوترة، مع وجود عدد قليل من الأشخاص من بعيد",
+        "subject": "مكتب استقبال وإدخال في مستشفى ضمن بهو المدخل الرئيسي"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una vista aérea de un gran y moderno edificio de hospital privado en Seberang Perai, Penang",
+        "subject": "Sunway Medical Centre, un hospital privado en Seberang Perai, Penang, Malasia"
+      },
+      {
+        "alt": "Un mostrador de recepción curvo de hospital en un luminoso vestíbulo de entrada, que representa los ingresos y la facturación, con algunas personas a lo lejos",
+        "subject": "Un mostrador de recepción y de admisiones de hospital en el vestíbulo de la entrada principal"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une vue aérienne d'un grand bâtiment d'hôpital privé moderne à Seberang Perai, Penang",
+        "subject": "Sunway Medical Centre, un hôpital privé à Seberang Perai, Penang, Malaisie"
+      },
+      {
+        "alt": "Un comptoir d'accueil d'hôpital incurvé dans un hall d'entrée lumineux, représentant les admissions et la facturation, avec quelques personnes au loin",
+        "subject": "Un comptoir d'accueil et d'admission d'hôpital dans le hall de l'entrée principale"
+      }
+    ]
+  },
+  "healthcare/medical-tourism": {
+    "zh": [
+      {
+        "alt": "位于沙巴州亚庇一座带玻璃幕墙的现代化私立医院建筑",
+        "subject": "鹰阁医院（Gleneagles Hospital），马来西亚沙巴州亚庇的一所私立医疗中心"
+      },
+      {
+        "alt": "马来西亚一所私立医院标有指示牌的急诊入口，设有指引至大厅和专科诊所的导示牌",
+        "subject": "白沙罗医院（Pantai Hospital）的急诊入口与大厅导示牌，位于柔佛州峇株巴辖的一所私立医院"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "サバ州コタキナバルにあるガラス張りの正面を持つ近代的な私立病院の建物",
+        "subject": "グレンイーグルス病院、マレーシア・サバ州コタキナバルにある私立医療センター"
+      },
+      {
+        "alt": "マレーシアの私立病院の案内表示のある救急入口。ロビーや専門医の診療科へ導く案内板がある",
+        "subject": "パンタイ病院の救急入口とロビー案内板、ジョホール州バトゥパハの私立病院"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "사바주 코타키나발루에 있는 유리 전면의 현대식 민간 병원 건물",
+        "subject": "글렌이글스 병원(Gleneagles Hospital), 말레이시아 사바주 코타키나발루의 민간 의료 센터"
+      },
+      {
+        "alt": "말레이시아 민간 병원의 표지가 붙은 응급 입구로, 로비와 전문의 진료과로 안내하는 안내판이 있다",
+        "subject": "판타이 병원(Pantai Hospital)의 응급 입구와 로비 안내판, 조호르주 바투파핫의 민간 병원"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารโรงพยาบาลเอกชนสมัยใหม่ที่มีด้านหน้าเป็นกระจกในโกตากีนาบาลูรัฐซาบาห์",
+        "subject": "โรงพยาบาลเกลนอีเกิลส์ศูนย์การแพทย์เอกชนในโกตากีนาบาลูรัฐซาบาห์มาเลเซีย"
+      },
+      {
+        "alt": "ทางเข้าห้องฉุกเฉินที่มีป้ายของโรงพยาบาลเอกชนในมาเลเซียพร้อมป้ายนำทางไปยังล็อบบี้และคลินิกแพทย์เฉพาะทาง",
+        "subject": "ทางเข้าห้องฉุกเฉินและป้ายนำทางในล็อบบี้ของโรงพยาบาลปันตัยโรงพยาบาลเอกชนในบาตูปาฮัตรัฐยะโฮร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah bangunan hospital swasta moden dengan fasad kaca di Kota Kinabalu, Sabah",
+        "subject": "Gleneagles Hospital, sebuah pusat perubatan swasta di Kota Kinabalu, Sabah, Malaysia"
+      },
+      {
+        "alt": "Pintu masuk kecemasan bertanda sebuah hospital swasta Malaysia, dengan papan direktori menunjuk ke arah lobi dan klinik pakar",
+        "subject": "Pintu masuk kecemasan dan direktori lobi Pantai Hospital, sebuah hospital swasta di Batu Pahat, Johor"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah bangunan rumah sakit swasta modern dengan fasad kaca di Kota Kinabalu, Sabah",
+        "subject": "Gleneagles Hospital, sebuah pusat medis swasta di Kota Kinabalu, Sabah, Malaysia"
+      },
+      {
+        "alt": "Pintu masuk darurat bertanda sebuah rumah sakit swasta Malaysia, dengan papan direktori yang menunjuk ke arah lobi dan klinik spesialis",
+        "subject": "Pintu masuk darurat dan direktori lobi Pantai Hospital, sebuah rumah sakit swasta di Batu Pahat, Johor"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một tòa nhà bệnh viện tư nhân hiện đại với mặt tiền kính ở Kota Kinabalu, Sabah",
+        "subject": "Gleneagles Hospital, một trung tâm y tế tư nhân ở Kota Kinabalu, Sabah, Malaysia"
+      },
+      {
+        "alt": "Lối vào cấp cứu có biển hiệu của một bệnh viện tư nhân Malaysia, với bảng chỉ dẫn hướng đến sảnh và các phòng khám chuyên khoa",
+        "subject": "Lối vào cấp cứu và bảng chỉ dẫn sảnh của Pantai Hospital, một bệnh viện tư nhân ở Batu Pahat, Johor"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "சபா, கோட்டா கினபாலுவில் கண்ணாடி முகப்புடன் கூடிய ஒரு நவீன தனியார் மருத்துவமனை கட்டிடம்",
+        "subject": "மலேசியா, சபா, கோட்டா கினபாலுவில் உள்ள தனியார் மருத்துவ மையமான Gleneagles Hospital"
+      },
+      {
+        "alt": "ஒரு மலேசிய தனியார் மருத்துவமனையின் அடையாளமிடப்பட்ட அவசர நுழைவாயில், நடைகூடம் மற்றும் சிறப்பு மருத்துவர் கிளினிக்குகளை நோக்கிக் காட்டும் வழிகாட்டி பலகையுடன்",
+        "subject": "ஜொகூர், பத்து பகாட்டில் உள்ள தனியார் மருத்துவமனையான Pantai Hospital இன் அவசர நுழைவாயில் மற்றும் நடைகூட வழிகாட்டி"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "Kota Kinabalu, Sabah में काँच के अग्रभाग वाली एक आधुनिक निजी अस्पताल इमारत",
+        "subject": "Gleneagles Hospital, Kota Kinabalu, Sabah, मलेशिया में एक निजी चिकित्सा केंद्र"
+      },
+      {
+        "alt": "एक मलेशियाई निजी अस्पताल का साइनबोर्ड वाला आपातकालीन प्रवेश द्वार, जिसमें एक निर्देशिका बोर्ड लॉबी और विशेषज्ञों के क्लिनिकों की ओर इशारा करता है",
+        "subject": "Pantai Hospital का आपातकालीन प्रवेश और लॉबी निर्देशिका, Batu Pahat, Johor में एक निजी अस्पताल"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مبنى مستشفى خاص حديث بواجهة زجاجية في Kota Kinabalu بولاية Sabah",
+        "subject": "Gleneagles Hospital، مركز طبي خاص في Kota Kinabalu بولاية Sabah، ماليزيا"
+      },
+      {
+        "alt": "مدخل الطوارئ المُعلَّم لمستشفى خاص ماليزي، مع لوحة دليل تشير إلى البهو وعيادات الاختصاصيين",
+        "subject": "مدخل الطوارئ ولوحة دليل البهو في Pantai Hospital، وهو مستشفى خاص في Batu Pahat بولاية Johor"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un moderno edificio de hospital privado con fachada de cristal en Kota Kinabalu, Sabah",
+        "subject": "Gleneagles Hospital, un centro médico privado en Kota Kinabalu, Sabah, Malasia"
+      },
+      {
+        "alt": "La entrada de urgencias señalizada de un hospital privado de Malasia, con un tablero de directorio que indica el vestíbulo y las consultas de los especialistas",
+        "subject": "La entrada de urgencias y el directorio del vestíbulo del Pantai Hospital, un hospital privado en Batu Pahat, Johor"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un bâtiment d'hôpital privé moderne à façade vitrée à Kota Kinabalu, Sabah",
+        "subject": "Gleneagles Hospital, un centre médical privé à Kota Kinabalu, Sabah, Malaisie"
+      },
+      {
+        "alt": "L'entrée des urgences signalée d'un hôpital privé malaisien, avec un panneau d'orientation indiquant le hall et les consultations des spécialistes",
+        "subject": "L'entrée des urgences et le répertoire du hall du Pantai Hospital, un hôpital privé à Batu Pahat, Johor"
+      }
+    ]
+  },
+  "healthcare/mental-health-services": {
+    "zh": [
+      {
+        "alt": "一间安静、温馨的心理咨询室，一张小桌周围摆着三把扶手椅，还有一盆绿植，无人在场",
+        "subject": "一间布置用于谈话治疗的宁静心理咨询室，配有扶手椅和柔软的软装"
+      },
+      {
+        "alt": "位于新山的一所马来西亚政府精神与心理健康医院的外观",
+        "subject": "新山的Hospital Permai，一所马来西亚政府心理健康医院"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "小さなテーブルを囲むように3脚のひじ掛けいすと観葉植物が置かれた、静かで居心地のよいカウンセリング室。人の姿はない",
+        "subject": "対話療法のために整えられた落ち着いたカウンセリング室。ひじ掛けいすとやわらかな調度を備える"
+      },
+      {
+        "alt": "ジョホールバルにあるマレーシア政府の精神科・メンタルヘルス病院の外観",
+        "subject": "ジョホールバルのプルマイ病院、マレーシア政府のメンタルヘルス病院"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "작은 탁자를 둘러싼 안락의자 세 개와 화분이 놓인 조용하고 편안한 상담실로, 사람은 없다",
+        "subject": "대화 치료를 위해 꾸며진 차분한 상담실로, 안락의자와 부드러운 가구를 갖추고 있다"
+      },
+      {
+        "alt": "조호르바루에 있는 말레이시아 정부 정신·정신건강 병원의 외관",
+        "subject": "조호르바루의 프르마이 병원(Hospital Permai), 말레이시아 정부 정신건강 병원"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ห้องให้คำปรึกษาที่เงียบสงบและอบอุ่นมีเก้าอี้นวมสามตัวรอบโต๊ะเล็กและต้นไม้โดยไม่มีผู้คนอยู่",
+        "subject": "ห้องให้คำปรึกษาที่สงบจัดไว้สำหรับการบำบัดด้วยการพูดคุยพร้อมเก้าอี้นวมและเฟอร์นิเจอร์นุ่มสบาย"
+      },
+      {
+        "alt": "ด้านหน้าของโรงพยาบาลจิตเวชและสุขภาพจิตของรัฐในยะโฮร์บาห์รูประเทศมาเลเซีย",
+        "subject": "โรงพยาบาลเปอร์ไมในยะโฮร์บาห์รูโรงพยาบาลสุขภาพจิตของรัฐในมาเลเซีย"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah bilik kaunseling yang tenang dan mesra dengan tiga kerusi berlengan di sekeliling meja kecil dan sepohon tumbuhan, tanpa seorang pun",
+        "subject": "Sebuah bilik kaunseling yang tenang disediakan untuk terapi pertuturan, dengan kerusi berlengan dan perabot lembut"
+      },
+      {
+        "alt": "Bahagian hadapan sebuah hospital psikiatri dan kesihatan mental kerajaan Malaysia di Johor Bahru",
+        "subject": "Hospital Permai di Johor Bahru, sebuah hospital kesihatan mental kerajaan Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah ruang konseling yang tenang dan ramah dengan tiga kursi berlengan mengelilingi meja kecil dan sebatang tanaman, tanpa seorang pun",
+        "subject": "Sebuah ruang konseling yang tenang disiapkan untuk terapi bicara, dengan kursi berlengan dan perabot empuk"
+      },
+      {
+        "alt": "Bagian depan sebuah rumah sakit psikiatri dan kesehatan jiwa pemerintah Malaysia di Johor Bahru",
+        "subject": "Hospital Permai di Johor Bahru, sebuah rumah sakit kesehatan jiwa pemerintah Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một phòng tư vấn yên tĩnh, thân thiện với ba chiếc ghế bành quanh một chiếc bàn nhỏ và một chậu cây, không có người nào",
+        "subject": "Một phòng tư vấn yên tĩnh được bố trí cho liệu pháp trò chuyện, với ghế bành và nội thất mềm"
+      },
+      {
+        "alt": "Mặt trước của một bệnh viện tâm thần và sức khỏe tâm thần công của Malaysia ở Johor Bahru",
+        "subject": "Hospital Permai ở Johor Bahru, một bệnh viện sức khỏe tâm thần công của Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஒரு சிறிய மேசையைச் சுற்றி மூன்று கைப்பிடி நாற்காலிகள் மற்றும் ஒரு செடியுடன் கூடிய அமைதியான, வரவேற்பான ஆலோசனை அறை, யாரும் இல்லை",
+        "subject": "கைப்பிடி நாற்காலிகள் மற்றும் மென்மையான தளபாடங்களுடன், பேச்சு சிகிச்சைக்காக அமைக்கப்பட்ட ஒரு அமைதியான ஆலோசனை அறை"
+      },
+      {
+        "alt": "ஜொகூர் பாருவில் உள்ள ஒரு மலேசிய அரசு மனநோய் மற்றும் மனநல மருத்துவமனையின் முன்பகுதி",
+        "subject": "ஜொகூர் பாருவில் உள்ள ஒரு மலேசிய அரசு மனநல மருத்துவமனையான Hospital Permai"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक शांत, स्वागतपूर्ण परामर्श कक्ष जिसमें एक छोटी मेज़ के चारों ओर तीन आरामकुर्सियाँ और एक पौधा है, कोई व्यक्ति मौजूद नहीं",
+        "subject": "बातचीत चिकित्सा के लिए सज्जित एक शांत परामर्श कक्ष, आरामकुर्सियों और मुलायम साज-सज्जा के साथ"
+      },
+      {
+        "alt": "Johor Bahru में एक मलेशियाई सरकारी मनोरोग एवं मानसिक-स्वास्थ्य अस्पताल का अग्रभाग",
+        "subject": "Johor Bahru में Hospital Permai, एक मलेशियाई सरकारी मानसिक-स्वास्थ्य अस्पताल"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "غرفة استشارة هادئة ومرحِّبة بها ثلاثة مقاعد وثيرة حول طاولة صغيرة ونبتة، دون وجود أشخاص",
+        "subject": "غرفة استشارة هادئة مهيّأة للعلاج بالحديث، بمقاعد وثيرة ومفروشات ناعمة"
+      },
+      {
+        "alt": "واجهة مستشفى حكومي ماليزي للأمراض النفسية والصحة النفسية في Johor Bahru",
+        "subject": "Hospital Permai في Johor Bahru، مستشفى حكومي ماليزي للصحة النفسية"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una sala de consejería tranquila y acogedora con tres sillones alrededor de una mesita y una planta, sin personas presentes",
+        "subject": "Una sala de consejería serena dispuesta para la terapia de conversación, con sillones y mobiliario mullido"
+      },
+      {
+        "alt": "La fachada de un hospital gubernamental de Malasia de psiquiatría y salud mental en Johor Bahru",
+        "subject": "Hospital Permai en Johor Bahru, un hospital gubernamental de salud mental de Malasia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une salle de counseling calme et accueillante avec trois fauteuils autour d'une petite table et une plante, sans aucune personne présente",
+        "subject": "Une salle de counseling paisible aménagée pour la thérapie par la parole, avec des fauteuils et un mobilier douillet"
+      },
+      {
+        "alt": "La façade d'un hôpital gouvernemental malaisien de psychiatrie et de santé mentale à Johor Bahru",
+        "subject": "Hospital Permai à Johor Bahru, un hôpital gouvernemental de santé mentale de Malaisie"
+      }
+    ]
+  },
+  "healthcare/mysejahtera-and-digital-health-records": {
+    "zh": [
+      {
+        "alt": "一个人手持一部智能手机，屏幕显示着应用商店中一列健康与医疗应用，展示手机上的消费者数字健康工具",
+        "subject": "一只手拿着一部智能手机，屏幕显示一列个人健康应用"
+      },
+      {
+        "alt": "一名临床医师坐在工作站前，几块屏幕分别显示心电图波形、超声图像和视频画面，代表医院的数字健康记录与IT系统",
+        "subject": "一名临床医师在多屏医疗IT工作站前查看数字患者数据"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "アプリストアの健康・医療アプリ一覧を表示したスマートフォンを人が持っている様子。スマートフォン上の消費者向けデジタルヘルスのツールを示している",
+        "subject": "個人向け健康アプリの一覧を表示したスマートフォンを持つ手"
+      },
+      {
+        "alt": "心電図の波形、超音波画像、ビデオ映像を表示する複数の画面を備えたワークステーションに座る臨床医。病院のデジタル健康記録・ITシステムを表している",
+        "subject": "複数モニターの医療ITワークステーションでデジタルの患者データを確認する臨床医"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "앱 스토어의 건강·의료 앱 목록을 표시한 스마트폰을 들고 있는 모습으로, 휴대폰에서 쓰는 소비자용 디지털 헬스 도구를 보여준다",
+        "subject": "개인 건강 앱 목록을 표시한 스마트폰을 들고 있는 손"
+      },
+      {
+        "alt": "심전도 파형, 초음파 영상, 영상 피드를 보여주는 여러 화면이 있는 워크스테이션에 앉은 임상의로, 병원의 디지털 건강 기록 및 IT 시스템을 보여준다",
+        "subject": "여러 모니터가 있는 의료 IT 워크스테이션에서 디지털 환자 데이터를 검토하는 임상의"
+      }
+    ],
+    "th": [
+      {
+        "alt": "บุคคลถือสมาร์ตโฟนที่แสดงรายการแอปสุขภาพและการแพทย์ในร้านค้าแสดงเครื่องมือสุขภาพดิจิทัลสำหรับผู้บริโภคบนโทรศัพท์",
+        "subject": "มือถือสมาร์ตโฟนที่แสดงรายการแอปสุขภาพส่วนบุคคล"
+      },
+      {
+        "alt": "แพทย์นั่งที่เวิร์กสเตชันซึ่งมีหลายจอแสดงกราฟคลื่นไฟฟ้าหัวใจภาพอัลตราซาวนด์และภาพวิดีโอแทนระบบบันทึกสุขภาพดิจิทัลและไอทีของโรงพยาบาล",
+        "subject": "แพทย์ที่เวิร์กสเตชันไอทีทางการแพทย์แบบหลายจอกำลังตรวจสอบข้อมูลผู้ป่วยแบบดิจิทัล"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Seseorang memegang telefon pintar yang memaparkan senarai kedai aplikasi kesihatan dan perubatan, menggambarkan alat kesihatan digital pengguna pada telefon",
+        "subject": "Sebelah tangan memegang telefon pintar yang memaparkan senarai aplikasi kesihatan peribadi"
+      },
+      {
+        "alt": "Seorang klinisian duduk di stesen kerja dengan beberapa skrin menunjukkan surih ECG, imej ultrabunyi dan suapan video, mewakili sistem rekod kesihatan digital dan IT hospital",
+        "subject": "Seorang klinisian di stesen kerja IT perubatan berbilang monitor menyemak data pesakit digital"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Seseorang memegang ponsel pintar yang menampilkan daftar toko aplikasi kesehatan dan medis, menggambarkan alat kesehatan digital konsumen di ponsel",
+        "subject": "Sebuah tangan memegang ponsel pintar yang menampilkan daftar aplikasi kesehatan pribadi"
+      },
+      {
+        "alt": "Seorang klinisi duduk di stasiun kerja dengan beberapa layar menampilkan rekam EKG, citra ultrasonografi dan umpan video, mewakili sistem rekam kesehatan digital dan TI rumah sakit",
+        "subject": "Seorang klinisi di stasiun kerja TI medis multi-monitor meninjau data pasien digital"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một người cầm điện thoại thông minh hiển thị danh sách cửa hàng các ứng dụng sức khỏe và y tế, minh họa các công cụ sức khỏe số dành cho người dùng trên điện thoại",
+        "subject": "Một bàn tay cầm điện thoại thông minh hiển thị danh sách các ứng dụng sức khỏe cá nhân"
+      },
+      {
+        "alt": "Một bác sĩ ngồi tại trạm làm việc với nhiều màn hình hiển thị đường điện tâm đồ, hình ảnh siêu âm và một luồng video, đại diện cho hệ thống hồ sơ sức khỏe số và công nghệ thông tin của bệnh viện",
+        "subject": "Một bác sĩ tại trạm làm việc công nghệ thông tin y tế nhiều màn hình đang xem xét dữ liệu bệnh nhân số"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஒருவர் சுகாதார மற்றும் மருத்துவ ஆப்களின் கடைப் பட்டியலைக் காட்டும் ஸ்மார்ட்போனைப் பிடித்திருக்கிறார், தொலைபேசியில் நுகர்வோர் டிஜிட்டல் சுகாதார கருவிகளை விளக்குகிறது",
+        "subject": "தனிப்பட்ட சுகாதார ஆப்களின் பட்டியலைக் காட்டும் ஸ்மார்ட்போனை ஒரு கை பிடித்திருக்கிறது"
+      },
+      {
+        "alt": "ECG சுவடு, அல்ட்ராசவுண்டு படம் மற்றும் வீடியோ ஊட்டத்தைக் காட்டும் பல திரைகளுடன் கூடிய பணிநிலையத்தில் அமர்ந்திருக்கும் ஒரு மருத்துவர், மருத்துவமனையின் டிஜிட்டல் சுகாதார பதிவுகள் மற்றும் தகவல் தொழில்நுட்ப அமைப்பைக் குறிக்கிறது",
+        "subject": "பல மானிட்டர் மருத்துவ தகவல் தொழில்நுட்ப பணிநிலையத்தில் டிஜிட்டல் நோயாளி தரவைப் பரிசீலிக்கும் ஒரு மருத்துவர்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक व्यक्ति एक स्मार्टफ़ोन पकड़े हुए है जिस पर स्वास्थ्य और चिकित्सा ऐप्स की एक स्टोर सूची प्रदर्शित है, जो फ़ोन पर उपभोक्ता डिजिटल-स्वास्थ्य उपकरणों को दर्शाता है",
+        "subject": "व्यक्तिगत स्वास्थ्य ऐप्स की एक सूची दिखाता एक स्मार्टफ़ोन पकड़े हुए एक हाथ"
+      },
+      {
+        "alt": "एक चिकित्सक कई स्क्रीनों वाले एक वर्कस्टेशन पर बैठा है जो एक ECG ट्रेस, एक अल्ट्रासाउंड छवि और एक वीडियो फ़ीड दिखा रही हैं, जो एक अस्पताल डिजिटल स्वास्थ्य-रिकॉर्ड और IT प्रणाली का प्रतिनिधित्व करता है",
+        "subject": "डिजिटल रोगी डेटा की समीक्षा करता एक बहु-मॉनिटर चिकित्सा IT वर्कस्टेशन पर एक चिकित्सक"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "شخص يمسك هاتفًا ذكيًّا يعرض قائمة متجر بتطبيقات صحية وطبية، توضّح أدوات الصحة الرقمية الموجَّهة للمستهلك على الهاتف",
+        "subject": "يد تمسك هاتفًا ذكيًّا يعرض قائمة بتطبيقات صحية شخصية"
+      },
+      {
+        "alt": "طبيب يجلس إلى محطّة عمل بعدّة شاشات تعرض مخطّط تخطيط القلب (ECG) وصورة بالموجات فوق الصوتية وبثًّا مرئيًّا، تمثّل نظام سجلّات صحية رقمية وتقنية معلومات في مستشفى",
+        "subject": "طبيب في محطّة عمل لتقنية المعلومات الطبية متعددة الشاشات يراجع بيانات مرضى رقمية"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una persona sostiene un teléfono inteligente que muestra una lista de la tienda de aplicaciones de salud y medicina, ilustrando las herramientas digitales de salud para el consumidor en un teléfono",
+        "subject": "Una mano sostiene un teléfono inteligente que muestra una lista de aplicaciones personales de salud"
+      },
+      {
+        "alt": "Un médico sentado en una estación de trabajo con varias pantallas que muestran un trazado de ECG, una imagen de ecografía y una señal de vídeo, que representa un sistema hospitalario de historiales de salud digitales y de TI",
+        "subject": "Un médico en una estación de trabajo de TI médica con varios monitores revisando datos digitales de pacientes"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une personne tient un téléphone intelligent affichant une liste de boutique d'applications de santé et de médecine, illustrant les outils numériques de santé grand public sur un téléphone",
+        "subject": "Une main tient un téléphone intelligent affichant une liste d'applications personnelles de santé"
+      },
+      {
+        "alt": "Un clinicien assis à un poste de travail doté de plusieurs écrans affichant un tracé d'ECG, une image d'échographie et un flux vidéo, représentant un système hospitalier de dossiers de santé numériques et d'informatique",
+        "subject": "Un clinicien à un poste de travail d'informatique médicale à plusieurs écrans examinant des données numériques de patients"
+      }
+    ]
+  },
+  "healthcare/palliative-and-hospice-care": {
+    "zh": [
+      {
+        "alt": "一座矮层、临花园而建的安宁疗护（hospice）建筑，设有旗杆和一条静谧的车道，代表安宁祥和的临终关怀设施",
+        "subject": "一座宁静的单层安宁疗护（hospice）建筑，庭园环绕，天空晴朗"
+      },
+      {
+        "alt": "一处现代化医院纾缓疗护单位入口，带有玻璃门廊和种植花床，代表专科纾缓疗护的场所",
+        "subject": "一处专设纾缓疗护单位的花园入口"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "庭に面した低層のホスピス。旗ざおと静かな車寄せがあり、穏やかなホスピスケア施設を表している",
+        "subject": "晴れた空の下、庭に囲まれた静かな平屋建てのホスピスケア施設"
+      },
+      {
+        "alt": "ガラス張りのポーチと植え込みのある近代的な病院の緩和ケア病棟の入口。専門的な緩和ケアの場を表している",
+        "subject": "緩和ケア専用病棟の庭側の入口"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "정원을 마주한 저층 호스피스 건물로, 깃대와 조용한 진입로가 있으며 평온한 호스피스 돌봄 시설을 보여준다",
+        "subject": "맑은 하늘 아래 정원에 둘러싸인 차분한 단층 호스피스 돌봄 건물"
+      },
+      {
+        "alt": "유리 현관과 화단이 있는 현대식 병원 완화의료 병동 입구로, 전문 완화의료 공간을 보여준다",
+        "subject": "전용 완화의료 병동의 정원 쪽 입구"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารดูแลแบบประคับประคองชั้นเดียวที่สงบด้านหน้าเป็นสวนมีเสาธงและทางรถเข้าที่เงียบสงบแทนสถานดูแลระยะท้ายที่สงบร่มเย็น",
+        "subject": "อาคารสถานดูแลแบบประคับประคองชั้นเดียวที่สงบมีสวนล้อมรอบใต้ท้องฟ้าแจ่มใส"
+      },
+      {
+        "alt": "ทางเข้าหน่วยดูแลแบบประคับประคองของโรงพยาบาลสมัยใหม่พร้อมระเบียงกระจกและแปลงต้นไม้แทนสถานที่ดูแลแบบประคับประคองเฉพาะทาง",
+        "subject": "ทางเข้าด้านสวนของหน่วยดูแลแบบประคับประคองโดยเฉพาะ"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Bangunan hospis yang rendah dengan taman di hadapan, dengan tiang bendera dan laluan masuk yang tenang, mewakili sebuah kemudahan penjagaan hospis yang damai",
+        "subject": "Sebuah bangunan penjagaan hospis satu tingkat yang tenang dengan taman di bawah langit cerah"
+      },
+      {
+        "alt": "Pintu masuk unit penjagaan paliatif hospital moden dengan anjung kaca dan hamparan tanaman, mewakili persekitaran penjagaan paliatif pakar",
+        "subject": "Pintu masuk bertaman sebuah unit penjagaan paliatif yang khusus"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Bangunan hospis yang rendah dengan taman di depan, dengan tiang bendera dan jalan masuk yang tenang, mewakili sebuah fasilitas perawatan hospis yang damai",
+        "subject": "Sebuah bangunan perawatan hospis satu lantai yang tenang dengan taman di bawah langit cerah"
+      },
+      {
+        "alt": "Pintu masuk unit perawatan paliatif rumah sakit modern dengan beranda kaca dan bedeng tanaman, mewakili lingkungan perawatan paliatif spesialis",
+        "subject": "Pintu masuk bertaman sebuah unit perawatan paliatif khusus"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Tòa nhà thấp tầng có vườn phía trước của một cơ sở chăm sóc cuối đời, với cột cờ và lối xe vào yên tĩnh, đại diện cho một cơ sở chăm sóc cuối đời thanh bình",
+        "subject": "Một tòa nhà chăm sóc cuối đời một tầng yên bình với vườn cây dưới bầu trời quang đãng"
+      },
+      {
+        "alt": "Lối vào một đơn vị chăm sóc giảm nhẹ của bệnh viện hiện đại với mái hiên kính và luống cây, đại diện cho một cơ sở chăm sóc giảm nhẹ chuyên khoa",
+        "subject": "Lối vào có vườn của một đơn vị chăm sóc giảm nhẹ chuyên biệt"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கொடிக்கம்பங்கள் மற்றும் அமைதியான வாகனப்பாதையுடன், முன்பக்கத்தில் தோட்டம் கொண்ட தாழ்வான ஹாஸ்பிஸ் கட்டிடம், ஒரு அமைதியான ஹாஸ்பிஸ் பராமரிப்பு வசதியைக் குறிக்கிறது",
+        "subject": "தெளிவான வானத்தின் கீழ் தோட்டங்களுடன் கூடிய அமைதியான ஒரு மாடி ஹாஸ்பிஸ் பராமரிப்பு கட்டிடம்"
+      },
+      {
+        "alt": "கண்ணாடி முன்மண்டபம் மற்றும் நடப்பட்ட தாவரப் படுக்கைகளுடன் கூடிய ஒரு நவீன மருத்துவமனை நோய்த்தணிப்பு பராமரிப்பு பிரிவின் நுழைவாயில், ஒரு சிறப்பு நோய்த்தணிப்பு பராமரிப்பு சூழலைக் குறிக்கிறது",
+        "subject": "ஒரு சிறப்பு நோய்த்தணிப்பு பராமரிப்பு பிரிவின் தோட்ட நுழைவாயில்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक धर्मशाला (hospice) की नीची बगीचे-मुखी इमारत, जिसमें ध्वजदंड और एक शांत प्रवेशमार्ग है, जो एक शांतिपूर्ण धर्मशाला देखभाल सुविधा का प्रतिनिधित्व करती है",
+        "subject": "साफ़ आकाश के नीचे बगीचों वाली एक शांत एकमंज़िला धर्मशाला देखभाल इमारत"
+      },
+      {
+        "alt": "काँच के बरामदे और रोपित क्यारियों वाला एक आधुनिक अस्पताल प्रशामक देखभाल इकाई का प्रवेश द्वार, जो एक विशेषज्ञ प्रशामक देखभाल परिवेश का प्रतिनिधित्व करता है",
+        "subject": "एक समर्पित प्रशामक देखभाल इकाई का बगीचा प्रवेश द्वार"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مبنى منخفض لدار رعاية تسكينية (hospice) تطلّ على حديقة، بسواري أعلام وممرّ دخول هادئ، يمثّل مرفقًا هادئًا للرعاية التسكينية",
+        "subject": "مبنى هادئ من طابق واحد لدار رعاية تسكينية بحدائق تحت سماء صافية"
+      },
+      {
+        "alt": "مدخل وحدة رعاية تسكينية حديثة في مستشفى بردهة زجاجية وأحواض نباتات، يمثّل بيئة متخصّصة للرعاية التسكينية",
+        "subject": "مدخل حديقة وحدة رعاية تسكينية مخصّصة"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El edificio bajo con jardín al frente de un hospicio, con astas de bandera y una entrada tranquila para vehículos, que representa una instalación apacible de cuidados paliativos",
+        "subject": "Un apacible edificio de hospicio de una sola planta con jardines bajo un cielo despejado"
+      },
+      {
+        "alt": "La entrada de una moderna unidad hospitalaria de cuidados paliativos con un porche de cristal y parterres plantados, que representa un entorno especializado de cuidados paliativos",
+        "subject": "La entrada ajardinada de una unidad dedicada de cuidados paliativos"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Le bâtiment bas, donnant sur un jardin, d'une maison de soins palliatifs, avec des mâts de drapeau et une allée tranquille, représentant un établissement paisible de soins palliatifs",
+        "subject": "Un paisible bâtiment de soins palliatifs de plain-pied avec des jardins sous un ciel dégagé"
+      },
+      {
+        "alt": "L'entrée d'une unité hospitalière moderne de soins palliatifs avec un porche vitré et des massifs plantés, représentant un cadre spécialisé de soins palliatifs",
+        "subject": "L'entrée côté jardin d'une unité dédiée de soins palliatifs"
+      }
+    ]
+  },
+  "healthcare/peka-b40-and-health-schemes": {
+    "zh": [
+      {
+        "alt": "Klinik Kesihatan Nilai的外观，一所为社区服务的马来西亚卫生部公共健康诊所",
+        "subject": "Klinik Kesihatan Nilai，一所马来西亚政府健康诊所"
+      },
+      {
+        "alt": "吉隆坡Klinik Kesihatan Tanglin的外观，一所马来西亚公共政府健康诊所",
+        "subject": "Klinik Kesihatan Tanglin，吉隆坡的一所政府健康诊所"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "クリニック・ケシハタン・ニライの外観。地域に医療を提供するマレーシア保健省の公共健康診療所",
+        "subject": "クリニック・ケシハタン・ニライ、マレーシアの政府健康診療所"
+      },
+      {
+        "alt": "クアラルンプールのクリニック・ケシハタン・タンリンの外観。マレーシアの公共の政府健康診療所",
+        "subject": "クリニック・ケシハタン・タンリン、クアラルンプールの政府健康診療所"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "클리닉 케시하탄 닐라이의 외관으로, 지역사회에 의료를 제공하는 말레이시아 보건부 공공 보건소이다",
+        "subject": "클리닉 케시하탄 닐라이, 말레이시아 정부 보건소"
+      },
+      {
+        "alt": "쿠알라룸푸르 클리닉 케시하탄 탕린의 외관으로, 말레이시아 공공 정부 보건소이다",
+        "subject": "클리닉 케시하탄 탕린, 쿠알라룸푸르의 정부 보건소"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ภายนอกของKlinikKesihatanNilaiคลินิกสุขภาพสาธารณะของกระทรวงสาธารณสุขมาเลเซียที่ให้บริการชุมชน",
+        "subject": "KlinikKesihatanNilaiคลินิกสุขภาพของรัฐในมาเลเซีย"
+      },
+      {
+        "alt": "ด้านหน้าของKlinikKesihatanTanglinในกัวลาลัมเปอร์คลินิกสุขภาพของรัฐสาธารณะในมาเลเซีย",
+        "subject": "KlinikKesihatanTanglinคลินิกสุขภาพของรัฐในกัวลาลัมเปอร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Bahagian luar Klinik Kesihatan Nilai, sebuah klinik kesihatan awam Kementerian Kesihatan Malaysia yang memberi perkhidmatan kepada komuniti",
+        "subject": "Klinik Kesihatan Nilai, sebuah klinik kesihatan kerajaan Malaysia"
+      },
+      {
+        "alt": "Bahagian hadapan Klinik Kesihatan Tanglin di Kuala Lumpur, sebuah klinik kesihatan awam kerajaan Malaysia",
+        "subject": "Klinik Kesihatan Tanglin, sebuah klinik kesihatan kerajaan di Kuala Lumpur"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Bagian luar Klinik Kesihatan Nilai, sebuah klinik kesehatan umum Kementerian Kesihatan Malaysia yang melayani masyarakat",
+        "subject": "Klinik Kesihatan Nilai, sebuah klinik kesehatan pemerintah Malaysia"
+      },
+      {
+        "alt": "Bagian depan Klinik Kesihatan Tanglin di Kuala Lumpur, sebuah klinik kesehatan umum pemerintah Malaysia",
+        "subject": "Klinik Kesihatan Tanglin, sebuah klinik kesehatan pemerintah di Kuala Lumpur"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Mặt ngoài của Klinik Kesihatan Nilai, một phòng khám y tế công thuộc Bộ Y tế Malaysia phục vụ cộng đồng",
+        "subject": "Klinik Kesihatan Nilai, một phòng khám y tế công của Malaysia"
+      },
+      {
+        "alt": "Mặt trước của Klinik Kesihatan Tanglin ở Kuala Lumpur, một phòng khám y tế công của chính phủ Malaysia",
+        "subject": "Klinik Kesihatan Tanglin, một phòng khám y tế công ở Kuala Lumpur"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "சமூகத்திற்கு சேவை வழங்கும் ஒரு மலேசிய சுகாதார அமைச்சு பொது சுகாதார கிளினிக்கான Klinik Kesihatan Nilai இன் வெளிப்புறம்",
+        "subject": "ஒரு மலேசிய அரசு சுகாதார கிளினிக்கான Klinik Kesihatan Nilai"
+      },
+      {
+        "alt": "கோலாலம்பூரில் உள்ள Klinik Kesihatan Tanglin இன் முன்பகுதி, ஒரு மலேசிய பொது அரசு சுகாதார கிளினிக்",
+        "subject": "கோலாலம்பூரில் உள்ள அரசு சுகாதார கிளினிக்கான Klinik Kesihatan Tanglin"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "Klinik Kesihatan Nilai का बाहरी भाग, एक मलेशियाई स्वास्थ्य मंत्रालय का सार्वजनिक स्वास्थ्य क्लिनिक जो समुदाय की सेवा करता है",
+        "subject": "Klinik Kesihatan Nilai, एक मलेशियाई सरकारी स्वास्थ्य क्लिनिक"
+      },
+      {
+        "alt": "Kuala Lumpur में Klinik Kesihatan Tanglin का अग्रभाग, एक मलेशियाई सार्वजनिक सरकारी स्वास्थ्य क्लिनिक",
+        "subject": "Klinik Kesihatan Tanglin, Kuala Lumpur में एक सरकारी स्वास्थ्य क्लिनिक"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "المظهر الخارجي لـ Klinik Kesihatan Nilai، وهي عيادة صحية عامة تابعة لوزارة الصحة الماليزية تخدم المجتمع",
+        "subject": "Klinik Kesihatan Nilai، عيادة صحية حكومية ماليزية"
+      },
+      {
+        "alt": "واجهة Klinik Kesihatan Tanglin في Kuala Lumpur، وهي عيادة صحية حكومية عامة ماليزية",
+        "subject": "Klinik Kesihatan Tanglin، عيادة صحية حكومية في Kuala Lumpur"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El exterior de la Klinik Kesihatan Nilai, una clínica pública de salud del Ministerio de Salud de Malasia que presta servicio a la comunidad",
+        "subject": "Klinik Kesihatan Nilai, una clínica de salud gubernamental de Malasia"
+      },
+      {
+        "alt": "La fachada de la Klinik Kesihatan Tanglin en Kuala Lumpur, una clínica pública de salud gubernamental de Malasia",
+        "subject": "Klinik Kesihatan Tanglin, una clínica de salud gubernamental en Kuala Lumpur"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "L'extérieur de la Klinik Kesihatan Nilai, une clinique publique de santé du ministère de la Santé de Malaisie au service de la communauté",
+        "subject": "Klinik Kesihatan Nilai, une clinique de santé gouvernementale malaisienne"
+      },
+      {
+        "alt": "La façade de la Klinik Kesihatan Tanglin à Kuala Lumpur, une clinique publique de santé gouvernementale malaisienne",
+        "subject": "Klinik Kesihatan Tanglin, une clinique de santé gouvernementale à Kuala Lumpur"
+      }
+    ]
+  },
+  "healthcare/public-healthcare-system-malaysia": {
+    "zh": [
+      {
+        "alt": "马来西亚一所公立医院——峇株巴辖Hospital Sultanah Nora Ismail的一间空置住院病房，排列着一张张病床",
+        "subject": "峇株巴辖Hospital Sultanah Nora Ismail的一间公立医院病房"
+      },
+      {
+        "alt": "Hospital Kemaman的外观，一所由马来西亚卫生部运营的公立医院",
+        "subject": "Hospital Kemaman，一座马来西亚公立医院建筑"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マレーシアの公立病院、バトゥパハのスルタナ・ノラ・イスマイル病院の、ベッドが並ぶ無人の入院病棟",
+        "subject": "バトゥパハのスルタナ・ノラ・イスマイル病院の公立病院病棟"
+      },
+      {
+        "alt": "クママン病院の外観。マレーシア保健省が運営する公立病院",
+        "subject": "クママン病院、マレーシアの公立病院の建物"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "말레이시아 공공 병원인 바투파핫 술타나 노라 이스마일 병원의 침상이 줄지어 있는 빈 입원 병동",
+        "subject": "바투파핫 술타나 노라 이스마일 병원의 공공 병원 병동"
+      },
+      {
+        "alt": "크마만 병원의 외관으로, 말레이시아 보건부가 운영하는 공공 병원이다",
+        "subject": "크마만 병원, 말레이시아 공공 병원 건물"
+      }
+    ],
+    "th": [
+      {
+        "alt": "หอผู้ป่วยในที่ว่างมีเตียงเรียงแถวในโรงพยาบาลรัฐของมาเลเซียโรงพยาบาลสุลตานะห์นอราอิสมาอิลในบาตูปาฮัต",
+        "subject": "หอผู้ป่วยของโรงพยาบาลรัฐที่โรงพยาบาลสุลตานะห์นอราอิสมาอิลบาตูปาฮัต"
+      },
+      {
+        "alt": "ภายนอกของโรงพยาบาลเกอมามันโรงพยาบาลรัฐที่ดำเนินงานโดยกระทรวงสาธารณสุขมาเลเซีย",
+        "subject": "โรงพยาบาลเกอมามันอาคารโรงพยาบาลรัฐของมาเลเซีย"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah wad pesakit dalam yang kosong dengan deretan katil di sebuah hospital awam Malaysia, Hospital Sultanah Nora Ismail di Batu Pahat",
+        "subject": "Sebuah wad hospital awam di Hospital Sultanah Nora Ismail, Batu Pahat"
+      },
+      {
+        "alt": "Bahagian luar Hospital Kemaman, sebuah hospital awam yang dikendalikan oleh Kementerian Kesihatan Malaysia",
+        "subject": "Hospital Kemaman, sebuah bangunan hospital awam Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah bangsal rawat inap yang kosong dengan deretan tempat tidur di sebuah rumah sakit umum Malaysia, Hospital Sultanah Nora Ismail di Batu Pahat",
+        "subject": "Sebuah bangsal rumah sakit umum di Hospital Sultanah Nora Ismail, Batu Pahat"
+      },
+      {
+        "alt": "Bagian luar Hospital Kemaman, sebuah rumah sakit umum yang dikelola oleh Kementerian Kesihatan Malaysia",
+        "subject": "Hospital Kemaman, sebuah bangunan rumah sakit umum Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một khu nội trú trống với các dãy giường tại một bệnh viện công của Malaysia, Hospital Sultanah Nora Ismail ở Batu Pahat",
+        "subject": "Một khu nội trú của bệnh viện công tại Hospital Sultanah Nora Ismail, Batu Pahat"
+      },
+      {
+        "alt": "Mặt ngoài của Hospital Kemaman, một bệnh viện công do Bộ Y tế Malaysia điều hành",
+        "subject": "Hospital Kemaman, một tòa nhà bệnh viện công của Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஒரு மலேசிய பொது மருத்துவமனையான பத்து பகாட்டில் உள்ள Hospital Sultanah Nora Ismail இல் வரிசையான படுக்கைகளுடன் கூடிய காலியான உள்நோயாளி வார்டு",
+        "subject": "பத்து பகாட், Hospital Sultanah Nora Ismail இல் ஒரு பொது மருத்துவமனை வார்டு"
+      },
+      {
+        "alt": "மலேசியாவின் சுகாதார அமைச்சால் இயக்கப்படும் பொது மருத்துவமனையான Hospital Kemaman இன் வெளிப்புறம்",
+        "subject": "ஒரு மலேசிய பொது மருத்துவமனை கட்டிடமான Hospital Kemaman"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक मलेशियाई सार्वजनिक अस्पताल, Batu Pahat में Hospital Sultanah Nora Ismail में बिस्तरों की कतारों वाला एक खाली आंतरिक रोगी वार्ड",
+        "subject": "Batu Pahat में Hospital Sultanah Nora Ismail में एक सार्वजनिक अस्पताल वार्ड"
+      },
+      {
+        "alt": "Hospital Kemaman का बाहरी भाग, मलेशिया के स्वास्थ्य मंत्रालय द्वारा संचालित एक सार्वजनिक अस्पताल",
+        "subject": "Hospital Kemaman, एक मलेशियाई सार्वजनिक अस्पताल इमारत"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "جناح مرضى داخلي خالٍ بصفوف من الأسِرّة في مستشفى عام ماليزي، Hospital Sultanah Nora Ismail في Batu Pahat",
+        "subject": "جناح في مستشفى عام ماليزي، Hospital Sultanah Nora Ismail في Batu Pahat"
+      },
+      {
+        "alt": "المظهر الخارجي لـ Hospital Kemaman، مستشفى عام تديره وزارة الصحة الماليزية",
+        "subject": "Hospital Kemaman، مبنى مستشفى عام ماليزي"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una sala de hospitalización vacía con hileras de camas en un hospital público de Malasia, el Hospital Sultanah Nora Ismail en Batu Pahat",
+        "subject": "Una sala de hospital público en el Hospital Sultanah Nora Ismail, Batu Pahat"
+      },
+      {
+        "alt": "El exterior del Hospital Kemaman, un hospital público gestionado por el Ministerio de Salud de Malasia",
+        "subject": "Hospital Kemaman, un edificio de hospital público de Malasia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une salle d'hospitalisation vide avec des rangées de lits dans un hôpital public malaisien, le Hospital Sultanah Nora Ismail à Batu Pahat",
+        "subject": "Une salle d'hôpital public au Hospital Sultanah Nora Ismail, Batu Pahat"
+      },
+      {
+        "alt": "L'extérieur du Hospital Kemaman, un hôpital public géré par le ministère de la Santé de Malaisie",
+        "subject": "Hospital Kemaman, un bâtiment d'hôpital public malaisien"
+      }
+    ]
+  },
+  "healthcare/siddha-medicine": {
+    "zh": [
+      {
+        "alt": "一家传统南印度草药药房的朴素店面，代表一种与Siddha相近的传统印度医学实践",
+        "subject": "一家传统南印度草药药房（vaidyasala）的店面"
+      },
+      {
+        "alt": "手掌中托着一团深色的姜lehyam，一种传统泰米尔Siddha草药膏剂",
+        "subject": "手掌中托着做好的姜lehyam，一种泰米尔Siddha草药制剂"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "伝統的な南インドの生薬薬局のつつましい店構え。Siddhaに近い伝統インド医学の実践を表している",
+        "subject": "伝統的な南インドの生薬薬局（vaidyasala）の店構え"
+      },
+      {
+        "alt": "手のひらにのせた、できあがった黒っぽい生姜のlehyam。伝統的なタミルのSiddha生薬ペースト製剤",
+        "subject": "手のひらにのせた仕上がりの生姜lehyam、タミルのSiddha生薬製剤"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "전통 남인도 약초 약방의 소박한 점포 전면으로, Siddha에 가까운 전통 인도 의학 행위를 보여준다",
+        "subject": "전통 남인도 약초 약방(vaidyasala)의 점포 전면"
+      },
+      {
+        "alt": "손바닥에 올려놓은 짙은 색의 생강 lehyam 덩어리로, 전통 타밀 Siddha 약초 반죽 제제이다",
+        "subject": "손바닥에 올려놓은 완성된 생강 lehyam, 타밀 Siddha 약초 제제"
+      }
+    ],
+    "th": [
+      {
+        "alt": "หน้าร้านเรียบง่ายของร้านขายยาสมุนไพรแบบดั้งเดิมของอินเดียใต้แทนการแพทย์อินเดียดั้งเดิมที่คล้ายกับSiddha",
+        "subject": "หน้าร้านขายยาสมุนไพรแบบดั้งเดิมของอินเดียใต้(vaidyasala)"
+      },
+      {
+        "alt": "ก้อนขิงเลเฮียมสีเข้มในฝ่ามือซึ่งเป็นยาสมุนไพรแบบบดเป็นเนื้อเดียวของทมิฬSiddhaดั้งเดิม",
+        "subject": "ขิงเลเฮียมที่ทำเสร็จแล้วในฝ่ามือเป็นตำรับยาสมุนไพรทมิฬSiddha"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Bahagian hadapan kedai yang sederhana sebuah dispensari ubat herba tradisional India Selatan, mewakili amalan perubatan tradisional India seumpama Siddha",
+        "subject": "Bahagian hadapan kedai dispensari ubat herba tradisional India Selatan (vaidyasala)"
+      },
+      {
+        "alt": "Seketul lehyam halia berwarna gelap, sebuah sediaan pes herba Siddha Tamil tradisional, dipegang di telapak tangan yang terbuka",
+        "subject": "Lehyam halia siap, sebuah sediaan herba Siddha Tamil, dipegang di tapak tangan"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Bagian depan toko yang sederhana sebuah dispensari obat herbal tradisional India Selatan, mewakili praktik pengobatan tradisional India yang serupa dengan Siddha",
+        "subject": "Bagian depan toko dispensari obat herbal tradisional India Selatan (vaidyasala)"
+      },
+      {
+        "alt": "Segumpal lehyam jahe berwarna gelap, sebuah sediaan pasta herbal Siddha Tamil tradisional, dipegang di telapak tangan yang terbuka",
+        "subject": "Lehyam jahe jadi, sebuah sediaan herbal Siddha Tamil, dipegang di telapak tangan"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Mặt tiền giản dị của một hiệu thuốc thảo dược truyền thống Nam Ấn, đại diện cho một thực hành y học truyền thống Ấn Độ tương tự Siddha",
+        "subject": "Mặt tiền cửa hiệu của một hiệu thuốc thảo dược truyền thống Nam Ấn (vaidyasala)"
+      },
+      {
+        "alt": "Một viên lehyam gừng sẫm màu, một chế phẩm bột nhão thảo dược Siddha Tamil truyền thống, được giữ trong bàn tay mở",
+        "subject": "Một viên lehyam gừng đã hoàn thành, một chế phẩm thảo dược Siddha Tamil, được giữ trong lòng bàn tay"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஒரு பாரம்பரிய தென்னிந்திய மூலிகை மருந்தகத்தின் எளிமையான கடை முகப்பு, சித்த மருத்துவத்தை ஒத்த ஒரு பாரம்பரிய இந்திய மருத்துவ முறையைக் குறிக்கிறது",
+        "subject": "ஒரு பாரம்பரிய தென்னிந்திய மூலிகை மருந்தகம் (வைத்தியசாலை) இன் கடை முகப்பு"
+      },
+      {
+        "alt": "திறந்த கையில் வைத்திருக்கும் கரும்பழுப்பு நிற இஞ்சி லேகிய உருண்டை, ஒரு பாரம்பரிய தமிழ் சித்த மூலிகை விழுது தயாரிப்பு",
+        "subject": "உள்ளங்கையில் வைத்திருக்கும், தயாரான இஞ்சி லேகியம் என்ற தமிழ் சித்த மருத்துவ மூலிகை தயாரிப்பு"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक पारंपरिक दक्षिण भारतीय हर्बल-औषधि औषधालय का साधारण दुकान-मुख, जो Siddha के समान एक पारंपरिक भारतीय चिकित्सा पद्धति का प्रतिनिधित्व करता है",
+        "subject": "एक पारंपरिक दक्षिण भारतीय हर्बल-औषधि औषधालय (vaidyasala) का दुकान-मुख"
+      },
+      {
+        "alt": "एक हथेली में रखी अदरक lehyam का एक गहरा गोला, एक पारंपरिक तमिल Siddha हर्बल पेस्ट तैयारी, एक खुले हाथ में",
+        "subject": "एक हथेली में रखी एक तैयार अदरक lehyam, एक तमिल Siddha हर्बल तैयारी"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "واجهة متواضعة لمستوصف أعشاب تقليدي من جنوب الهند، يمثّل ممارسة طبّ هندي تقليدي شبيهة بطبّ Siddha",
+        "subject": "واجهة متجر مستوصف أعشاب تقليدي من جنوب الهند (vaidyasala)"
+      },
+      {
+        "alt": "كرة داكنة من ginger lehyam، وهي مستحضر عشبي معجوني تقليدي من طبّ Siddha التاميلي، في يد مفتوحة",
+        "subject": "مستحضر جاهز من ginger lehyam، وهو مستحضر عشبي تاميلي من طبّ Siddha، في راحة اليد"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La modesta fachada de un dispensario tradicional de medicina herbal del sur de la India, que representa una práctica de medicina tradicional india afín al Siddha",
+        "subject": "La fachada de un dispensario tradicional de medicina herbal del sur de la India (vaidyasala)"
+      },
+      {
+        "alt": "Una bola oscura de ginger lehyam, una preparación tradicional en pasta de hierbas del Siddha tamil, sostenida en una mano abierta",
+        "subject": "Un ginger lehyam terminado, una preparación herbal del Siddha tamil, sostenido en la palma de la mano"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "La modeste devanture d'un dispensaire traditionnel de médecine par les plantes du sud de l'Inde, représentant une pratique de médecine traditionnelle indienne apparentée au Siddha",
+        "subject": "La devanture d'un dispensaire traditionnel de médecine par les plantes du sud de l'Inde (vaidyasala)"
+      },
+      {
+        "alt": "Une boule foncée de ginger lehyam, une préparation traditionnelle en pâte de plantes du Siddha tamoul, tenue dans une main ouverte",
+        "subject": "Un ginger lehyam terminé, une préparation à base de plantes du Siddha tamoul, tenu dans la paume"
+      }
+    ]
+  },
+  "healthcare/smoking-and-vaping-law-act-852": {
+    "zh": [
+      {
+        "alt": "马来西亚新山一家餐厅内墙上张贴的禁烟标志，标示该场所为无烟场所",
+        "subject": "马来西亚新山一家餐厅内展示的禁烟告示"
+      },
+      {
+        "alt": "一只手拿着一支电子烟设备靠近嘴边的特写，示意受法律监管的电子烟使用",
+        "subject": "一个人手持一支电子烟（vape）设备"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マレーシア・ジョホールバルのレストラン内の壁に掲示された禁煙サイン。禁煙の店であることを示している",
+        "subject": "マレーシア・ジョホールバルのレストランに掲示された禁煙の告知"
+      },
+      {
+        "alt": "電子たばこ（vape）を口元に近づけて手に持っている様子のクローズアップ。法律で規制される電子たばこの使用を示している",
+        "subject": "電子たばこ（vape）を手に持つ人物"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "말레이시아 조호르바루의 한 식당 안 벽에 붙은 금연 표지로, 금연 장소임을 알린다",
+        "subject": "말레이시아 조호르바루의 한 식당에 게시된 금연 안내문"
+      },
+      {
+        "alt": "전자담배(vape) 기기를 입가에 가까이 들고 있는 손의 클로즈업으로, 법으로 규제되는 전자담배 사용을 보여준다",
+        "subject": "전자담배(vape) 기기를 들고 있는 사람"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ป้ายห้ามสูบบุหรี่ติดอยู่บนผนังภายในร้านอาหารในยะโฮร์บาห์รูประเทศมาเลเซียแสดงว่าเป็นสถานที่ปลอดบุหรี่",
+        "subject": "ป้ายประกาศห้ามสูบบุหรี่ที่แสดงในร้านอาหารในยะโฮร์บาห์รูประเทศมาเลเซีย"
+      },
+      {
+        "alt": "ภาพระยะใกล้ของมือที่ถือบุหรี่ไฟฟ้า(เวป)ใกล้ปากของบุคคลแสดงการใช้บุหรี่ไฟฟ้าที่อยู่ภายใต้การกำกับดูแลของกฎหมาย",
+        "subject": "บุคคลถืออุปกรณ์บุหรี่ไฟฟ้า(เวป)"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Tanda larangan merokok dipamerkan pada dinding di dalam sebuah restoran di Johor Bahru, Malaysia, menandakan premis bebas asap rokok",
+        "subject": "Notis larangan merokok dipaparkan di sebuah restoran di Johor Bahru, Malaysia"
+      },
+      {
+        "alt": "Pandangan dekat sebelah tangan memegang peranti vape berhampiran mulut seseorang, menggambarkan penggunaan rokok elektronik yang dikawal di bawah undang-undang",
+        "subject": "Seseorang memegang peranti rokok elektronik (vape)"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Tanda larangan merokok yang terpasang di dinding dalam sebuah restoran di Johor Bahru, Malaysia, menandakan tempat bebas asap rokok",
+        "subject": "Pemberitahuan larangan merokok yang dipajang di sebuah restoran di Johor Bahru, Malaysia"
+      },
+      {
+        "alt": "Tampilan dekat sebuah tangan memegang perangkat vape di dekat mulut seseorang, menggambarkan penggunaan rokok elektronik yang diatur di bawah undang-undang",
+        "subject": "Seseorang memegang perangkat rokok elektronik (vape)"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một biển cấm hút thuốc gắn trên tường bên trong một nhà hàng ở Johor Bahru, Malaysia, báo hiệu một cơ sở không khói thuốc",
+        "subject": "Một thông báo cấm hút thuốc được treo trong một nhà hàng ở Johor Bahru, Malaysia"
+      },
+      {
+        "alt": "Cận cảnh một bàn tay cầm thiết bị vape gần miệng một người, minh họa việc sử dụng thuốc lá điện tử được quản lý theo luật",
+        "subject": "Một người cầm thiết bị thuốc lá điện tử (vape)"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "மலேசியா, ஜொகூர் பாருவில் ஒரு உணவகத்தின் உள்ளே சுவரில் பொருத்தப்பட்ட புகைபிடிக்க தடை அடையாளம், புகையற்ற வளாகத்தைக் குறிக்கிறது",
+        "subject": "மலேசியா, ஜொகூர் பாருவில் ஒரு உணவகத்தில் காட்டப்படும் புகைபிடிக்க தடை அறிவிப்பு"
+      },
+      {
+        "alt": "ஒருவரின் வாய்க்கு அருகில் வேப் சாதனத்தைப் பிடித்திருக்கும் ஒரு கையின் நெருக்கமான காட்சி, சட்டத்தின் கீழ் ஒழுங்குபடுத்தப்பட்ட மின்னணு சிகரெட் பயன்பாட்டை விளக்குகிறது",
+        "subject": "ஒருவர் மின்னணு சிகரெட் (வேப்) சாதனத்தைப் பிடித்திருக்கிறார்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "Johor Bahru, मलेशिया के एक रेस्तराँ के अंदर एक दीवार पर लगा एक धूम्रपान-निषेध चिह्न, जो एक धूम्रपान-मुक्त परिसर का संकेत देता है",
+        "subject": "Johor Bahru, मलेशिया के एक रेस्तराँ में प्रदर्शित एक धूम्रपान-निषेध सूचना"
+      },
+      {
+        "alt": "एक व्यक्ति के मुँह के पास एक vape डिवाइस पकड़े हुए एक हाथ का क्लोज़-अप, जो कानून के तहत विनियमित इलेक्ट्रॉनिक सिगरेट उपयोग को दर्शाता है",
+        "subject": "एक इलेक्ट्रॉनिक सिगरेट (vape) डिवाइस पकड़े हुए एक व्यक्ति"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "لافتة منع التدخين مثبّتة على جدار داخل مطعم في Johor Bahru بماليزيا، تشير إلى أنّ المكان خالٍ من التدخين",
+        "subject": "إشعار منع التدخين معروض في مطعم في Johor Bahru، ماليزيا"
+      },
+      {
+        "alt": "لقطة مقرّبة ليد تمسك جهاز vape قرب فم شخص، توضّح استخدام السجائر الإلكترونية الخاضع للتنظيم بموجب القانون",
+        "subject": "شخص يمسك جهاز سيجارة إلكترونية (vape)"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un cartel de prohibido fumar colocado en una pared dentro de un restaurante en Johor Bahru, Malasia, que señala un local libre de humo",
+        "subject": "Un aviso de prohibido fumar expuesto en un restaurante en Johor Bahru, Malasia"
+      },
+      {
+        "alt": "Un primer plano de una mano que sostiene un dispositivo vape cerca de la boca de una persona, que ilustra el uso de cigarrillos electrónicos regulado por la ley",
+        "subject": "Una persona sosteniendo un dispositivo de cigarrillo electrónico (vape)"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un panneau d'interdiction de fumer affiché sur un mur à l'intérieur d'un restaurant à Johor Bahru, Malaisie, signalant un local sans fumée",
+        "subject": "Un avis d'interdiction de fumer affiché dans un restaurant à Johor Bahru, Malaisie"
+      },
+      {
+        "alt": "Un gros plan d'une main tenant un dispositif vape près de la bouche d'une personne, illustrant l'usage de la cigarette électronique réglementé par la loi",
+        "subject": "Une personne tenant un dispositif de cigarette électronique (vape)"
+      }
+    ]
+  },
+  "healthcare/telemedicine-and-online-doctor-services": {
+    "zh": [
+      {
+        "alt": "一名医生坐在办公桌前接听电话并做记录，身后衣架上挂着白大褂，代表远程电话医疗咨询",
+        "subject": "一名医生在办公桌前通过电话进行远程问诊"
+      },
+      {
+        "alt": "双手拿着一部运行远程医疗视频咨询应用的智能手机，旁边有一支手持式超声探头，代表远程在线诊断",
+        "subject": "通过智能手机应用进行的远程视频引导超声检查"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "机で電話をしながらメモを取る医師。背後のスタンドには白衣がかけられており、遠隔での電話による医療相談を表している",
+        "subject": "机で電話による遠隔診療を行う医師"
+      },
+      {
+        "alt": "遠隔医療のビデオ相談アプリを起動したスマートフォンと、手持ち式の超音波プローブを手に持っている様子。遠隔のオンライン診断を表している",
+        "subject": "スマートフォンアプリで行う遠隔のビデオ誘導超音波検査"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "책상에서 전화를 받으며 메모하는 의사로, 뒤편 옷걸이에 흰 가운이 걸려 있으며 원격 전화 진료를 보여준다",
+        "subject": "책상에서 전화로 원격 진료를 하는 의사"
+      },
+      {
+        "alt": "원격의료 영상 상담 앱을 실행 중인 스마트폰과 휴대용 초음파 프로브를 손에 들고 있는 모습으로, 원격 온라인 진단을 보여준다",
+        "subject": "스마트폰 앱으로 수행하는 원격 영상 유도 초음파 검사"
+      }
+    ],
+    "th": [
+      {
+        "alt": "แพทย์ที่โต๊ะทำงานพูดโทรศัพท์พร้อมจดบันทึกมีเสื้อกาวน์สีขาวแขวนอยู่บนที่แขวนด้านหลังแทนการปรึกษาแพทย์ทางไกลผ่านโทรศัพท์",
+        "subject": "แพทย์ให้คำปรึกษาทางไกลทางโทรศัพท์ที่โต๊ะทำงาน"
+      },
+      {
+        "alt": "มือถือสมาร์ตโฟนที่เปิดแอปปรึกษาทางไกลผ่านวิดีโอพร้อมหัวตรวจอัลตราซาวนด์แบบมือถือแทนการวินิจฉัยออนไลน์ทางไกล",
+        "subject": "การตรวจอัลตราซาวนด์ทางไกลโดยนำทางผ่านวิดีโอด้วยแอปบนสมาร์ตโฟน"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Seorang doktor di meja bercakap di telefon sambil mencatat nota, dengan kot putih tergantung pada penyangkut di belakang, mewakili perundingan perubatan telefon jarak jauh",
+        "subject": "Seorang doktor memberikan perundingan jarak jauh melalui telefon di mejanya"
+      },
+      {
+        "alt": "Tangan memegang telefon pintar yang menjalankan aplikasi perundingan video telekesihatan di samping prob ultrabunyi mudah alih, mewakili diagnosis dalam talian jarak jauh",
+        "subject": "Imbasan ultrabunyi berpandukan video jarak jauh yang dijalankan melalui aplikasi telefon pintar"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Seorang dokter di meja berbicara di telepon sambil mencatat, dengan jas putih tergantung pada gantungan di belakang, mewakili konsultasi medis telepon jarak jauh",
+        "subject": "Seorang dokter memberikan konsultasi jarak jauh melalui telepon di mejanya"
+      },
+      {
+        "alt": "Tangan memegang ponsel pintar yang menjalankan aplikasi konsultasi video telehealth di samping probe ultrasonografi genggam, mewakili diagnosis daring jarak jauh",
+        "subject": "Pemindaian ultrasonografi berpandu video jarak jauh yang dilakukan melalui aplikasi ponsel pintar"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một bác sĩ ngồi bàn nói chuyện điện thoại trong khi ghi chép, với chiếc áo blouse trắng treo trên giá phía sau, đại diện cho một buổi tư vấn y tế từ xa qua điện thoại",
+        "subject": "Một bác sĩ tư vấn từ xa qua điện thoại tại bàn làm việc của mình"
+      },
+      {
+        "alt": "Đôi tay cầm điện thoại thông minh chạy ứng dụng tư vấn video từ xa cùng với một đầu dò siêu âm cầm tay, đại diện cho chẩn đoán trực tuyến từ xa",
+        "subject": "Một ca siêu âm có hướng dẫn qua video từ xa được thực hiện bằng ứng dụng điện thoại thông minh"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பின்னால் ஒரு நிலையில் வெள்ளை கோட்டு தொங்க, மேசையில் தொலைபேசியில் பேசிக்கொண்டே குறிப்புகள் எடுக்கும் ஒரு மருத்துவர், தொலைதூர தொலைபேசி மருத்துவ ஆலோசனையைக் குறிக்கிறது",
+        "subject": "ஒரு மருத்துவர் தனது மேசையில் தொலைபேசி மூலம் தொலைதூர ஆலோசனை வழங்குகிறார்"
+      },
+      {
+        "alt": "கையடக்க அல்ட்ராசவுண்டு ப்ரோபுடன் சேர்ந்து தொலைசுகாதார வீடியோ ஆலோசனை ஆப்பை இயக்கும் ஸ்மார்ட்போனை கைகள் பிடித்திருக்கின்றன, தொலைதூர ஆன்லைன் நோயறிதலைக் குறிக்கிறது",
+        "subject": "ஒரு ஸ்மார்ட்போன் ஆப் மூலம் மேற்கொள்ளப்படும் தொலைதூர வீடியோ வழிகாட்டப்பட்ட அல்ட்ராசவுண்டு ஸ்கேன்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक डॉक्टर अपनी मेज़ पर फ़ोन पर बात करते हुए नोट्स ले रही है, जिसके पीछे एक स्टैंड पर एक सफ़ेद कोट है, जो एक दूरस्थ टेलीफ़ोन चिकित्सा परामर्श का प्रतिनिधित्व करता है",
+        "subject": "अपनी मेज़ पर फ़ोन द्वारा एक दूरस्थ परामर्श देती एक डॉक्टर"
+      },
+      {
+        "alt": "हाथ एक टेलीहेल्थ वीडियो-परामर्श ऐप चलाते एक स्मार्टफ़ोन को एक हैंडहेल्ड अल्ट्रासाउंड प्रोब के साथ पकड़े हुए हैं, जो दूरस्थ ऑनलाइन निदान का प्रतिनिधित्व करता है",
+        "subject": "एक स्मार्टफ़ोन ऐप के माध्यम से किया गया एक दूरस्थ वीडियो-निर्देशित अल्ट्रासाउंड"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "طبيبة إلى مكتبها تتحدّث عبر الهاتف وتدوّن ملاحظات، وخلفها معطف أبيض على حامل، يمثّل استشارة طبية هاتفية عن بُعد",
+        "subject": "طبيبة تُجري استشارة عن بُعد عبر الهاتف إلى مكتبها"
+      },
+      {
+        "alt": "أيدٍ تمسك هاتفًا ذكيًّا يشغّل تطبيق استشارة مرئية للصحة عن بُعد إلى جانب مسبار موجات فوق صوتية محمول، يمثّل التشخيص عبر الإنترنت عن بُعد",
+        "subject": "فحص بالموجات فوق الصوتية مُوجَّه بالفيديو عن بُعد يُجرى عبر تطبيق على هاتف ذكي"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una médica en su escritorio hablando por teléfono mientras toma notas, con una bata blanca en un perchero detrás, que representa una consulta médica telefónica a distancia",
+        "subject": "Una médica realizando una consulta a distancia por teléfono en su escritorio"
+      },
+      {
+        "alt": "Unas manos sostienen un teléfono inteligente que ejecuta una aplicación de videoconsulta de telesalud junto a una sonda de ecografía portátil, que representa el diagnóstico en línea a distancia",
+        "subject": "Una ecografía guiada por vídeo a distancia realizada mediante una aplicación de teléfono inteligente"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une médecin à son bureau parlant au téléphone tout en prenant des notes, avec une blouse blanche sur un portant derrière elle, représentant une consultation médicale téléphonique à distance",
+        "subject": "Une médecin donnant une consultation à distance par téléphone à son bureau"
+      },
+      {
+        "alt": "Des mains tiennent un téléphone intelligent exécutant une application de vidéoconsultation de télésanté à côté d'une sonde d'échographie portable, représentant le diagnostic en ligne à distance",
+        "subject": "Une échographie guidée par vidéo à distance réalisée via une application de téléphone intelligent"
+      }
+    ]
+  },
+  "healthcare/traditional-and-complementary-medicine": {
+    "zh": [
+      {
+        "alt": "四根细针灸针摆放在台面上，旁边放一枚硬币作比例参照，代表作为补充疗法的针灸",
+        "subject": "针灸针与一枚硬币并置以示比例"
+      },
+      {
+        "alt": "一个木箱中装着一瓶瓶jamu——一种传统草药补益药，瓶中为琥珀色液体、瓶口以叶片封塞，代表草药补充医学",
+        "subject": "一瓶瓶jamu，一种传统马来—印尼草药补益药"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "大きさの目安として硬貨を添え、台の上に置かれた4本の細い鍼。補完療法としての鍼治療を表している",
+        "subject": "大きさの比較用に硬貨を添えて示した鍼"
+      },
+      {
+        "alt": "瓶詰めのjamu（伝統的な薬草の強壮薬）の入った木箱。琥珀色の液体が入り、葉で栓をした瓶が並び、薬草による補完医学を表している",
+        "subject": "jamu（伝統的なマレー・インドネシアの薬草強壮薬）の瓶"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "크기 비교용으로 동전을 곁들여 표면에 놓인 가는 침 네 개로, 보완요법으로서의 침술을 보여준다",
+        "subject": "크기 비교를 위해 동전과 함께 놓인 침"
+      },
+      {
+        "alt": "병에 든 jamu(전통 약초 보양 음료) 여러 병이 담긴 나무 상자로, 호박색 액체가 든 병의 입구를 잎으로 막아 놓았으며 약초 보완의학을 보여준다",
+        "subject": "jamu 병들, 전통 말레이-인도네시아 약초 보양 음료"
+      }
+    ],
+    "th": [
+      {
+        "alt": "เข็มฝังเข็มเส้นเล็กสี่เล่มวางบนพื้นผิวข้างเหรียญเพื่อเทียบขนาดแทนการฝังเข็มในฐานะการบำบัดเสริม",
+        "subject": "เข็มฝังเข็มแสดงพร้อมเหรียญเพื่อเทียบขนาด"
+      },
+      {
+        "alt": "ลังไม้ใส่ขวดjamuยาบำรุงสมุนไพรดั้งเดิมบรรจุของเหลวสีอำพันปิดปากขวดด้วยใบไม้แทนการแพทย์เสริมด้วยสมุนไพร",
+        "subject": "ขวดjamuยาบำรุงสมุนไพรดั้งเดิมของชาวมลายู-อินโดนีเซีย"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Empat batang jarum akupunktur halus diletakkan di atas permukaan di sebelah sekeping syiling sebagai ukuran saiz, mewakili akupunktur sebagai terapi pelengkap",
+        "subject": "Jarum akupunktur ditunjukkan dengan sekeping syiling sebagai ukuran saiz"
+      },
+      {
+        "alt": "Sebuah peti kayu berisi jamu berbotol, sebuah ubat tonik herba tradisional, dengan botol cecair kuning kemerahan bersumbat daun, mewakili ubat pelengkap herba",
+        "subject": "Botol jamu, ubat tonik herba tradisional Melayu-Indonesia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Empat jarum akupunktur halus diletakkan di atas permukaan di samping sekeping koin sebagai ukuran skala, mewakili akupunktur sebagai terapi pelengkap",
+        "subject": "Jarum akupunktur yang ditampilkan dengan sekeping koin sebagai ukuran skala"
+      },
+      {
+        "alt": "Sebuah peti kayu berisi jamu dalam botol, obat tonik herbal tradisional, dengan botol-botol berisi cairan kuning kecokelatan bersumbat daun, mewakili obat pelengkap herbal",
+        "subject": "Botol-botol jamu, obat tonik herbal tradisional Melayu-Indonesia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Bốn cây kim châm cứu mảnh đặt trên một bề mặt bên cạnh một đồng xu để so sánh kích thước, đại diện cho châm cứu như một liệu pháp bổ sung",
+        "subject": "Kim châm cứu được trưng bày cùng một đồng xu để so sánh kích thước"
+      },
+      {
+        "alt": "Một thùng gỗ đựng jamu đóng chai, một loại thuốc bổ thảo dược truyền thống, với các chai chứa chất lỏng màu hổ phách nút bằng lá, đại diện cho thuốc bổ sung thảo dược",
+        "subject": "Những chai jamu, một loại thuốc bổ thảo dược truyền thống Mã Lai - Indonesia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "அளவு ஒப்பீட்டிற்காக ஒரு நாணயத்திற்கு அருகில் ஒரு மேற்பரப்பில் வைக்கப்பட்ட நான்கு மெல்லிய குத்தூசி மருத்துவ ஊசிகள், குத்தூசி மருத்துவத்தை ஒரு நிரப்பு சிகிச்சையாகக் குறிக்கிறது",
+        "subject": "அளவு ஒப்பீட்டிற்காக ஒரு நாணயத்துடன் காட்டப்படும் குத்தூசி மருத்துவ ஊசிகள்"
+      },
+      {
+        "alt": "இலையால் அடைக்கப்பட்ட அம்பர் நிற திரவ பாட்டில்களுடன், பாரம்பரிய மூலிகை டானிக் மருந்தான பாட்டில்களில் அடைக்கப்பட்ட ஜமூ நிறைந்த ஒரு மரப்பெட்டி, மூலிகை நிரப்பு மருத்துவத்தைக் குறிக்கிறது",
+        "subject": "மலாய்-இந்தோனேசிய பாரம்பரிய மூலிகை டானிக் மருந்தான ஜமூ பாட்டில்கள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक सतह पर एक सिक्के के बगल में पैमाने के लिए रखी चार महीन एक्यूपंक्चर सुइयाँ, जो एक पूरक चिकित्सा के रूप में एक्यूपंक्चर का प्रतिनिधित्व करती हैं",
+        "subject": "पैमाने के लिए एक सिक्के के साथ दिखाई गई एक्यूपंक्चर सुइयाँ"
+      },
+      {
+        "alt": "बोतलबंद jamu की एक लकड़ी की पेटी, एक पारंपरिक हर्बल टॉनिक औषधि, पत्ती से बंद अम्बर तरल की बोतलों के साथ, जो हर्बल पूरक चिकित्सा का प्रतिनिधित्व करती है",
+        "subject": "jamu की बोतलें, एक पारंपरिक मलय-इंडोनेशियाई हर्बल टॉनिक औषधि"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "أربع إبر وخز دقيقة (acupuncture) موضوعة على سطح بجوار عملة معدنية لبيان الحجم، تمثّل الوخز بالإبر كعلاج تكميلي",
+        "subject": "إبر وخز (acupuncture) معروضة مع عملة معدنية لبيان الحجم"
+      },
+      {
+        "alt": "صندوق خشبي من قوارير jamu، وهو شراب عشبي تقليدي، بقوارير سائل كهرماني مسدودة بالأوراق، يمثّل الطبّ العشبي التكميلي",
+        "subject": "قوارير jamu، وهو شراب عشبي تقليدي ملايوي إندونيسي"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Cuatro finas agujas de acupuntura colocadas sobre una superficie junto a una moneda a modo de escala, que representan la acupuntura como terapia complementaria",
+        "subject": "Agujas de acupuntura mostradas con una moneda a modo de escala"
+      },
+      {
+        "alt": "Una caja de madera con botellas de jamu, un tónico herbal tradicional, con botellas de líquido ámbar tapadas con hojas, que representa la medicina complementaria herbal",
+        "subject": "Botellas de jamu, un tónico herbal tradicional malayo-indonesio"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Quatre fines aiguilles d'acupuncture posées sur une surface à côté d'une pièce de monnaie servant d'échelle, représentant l'acupuncture comme thérapie complémentaire",
+        "subject": "Des aiguilles d'acupuncture présentées avec une pièce de monnaie pour l'échelle"
+      },
+      {
+        "alt": "Une caisse en bois de bouteilles de jamu, un tonique traditionnel à base de plantes, avec des bouteilles de liquide ambré bouchées par des feuilles, représentant la médecine complémentaire par les plantes",
+        "subject": "Des bouteilles de jamu, un tonique traditionnel malais-indonésien à base de plantes"
+      }
+    ]
+  },
+  "healthcare/traditional-chinese-medicine-in-malaysia": {
+    "zh": [
+      {
+        "alt": "一家中医诊所的橱窗，可见一整面药材抽屉、一具针灸人体模型和治疗海报，代表中医（TCM）的诊疗实践",
+        "subject": "一家中医药铺的橱窗，陈列着药材抽屉和疗法图表"
+      },
+      {
+        "alt": "在一家中药铺的柜台上，干药材正放在一台小秤上称重",
+        "subject": "一家中药铺里，干药材正被放在秤上称重"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "伝統中国医学クリニックのショーウィンドウ。一面の生薬の引き出し、鍼灸の人体模型、治療のポスターが見え、TCM（中医学）の診療を表している",
+        "subject": "生薬の引き出しと治療図表が並ぶ伝統中国医学の薬店のショーウィンドウ"
+      },
+      {
+        "alt": "中医薬店のカウンターで、乾燥させた中国の生薬を小さなはかりで計量している様子",
+        "subject": "中医薬店で小さなはかりにかけて計量される乾燥生薬"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "전통 중국 의학 진료소의 진열창으로, 한 벽면의 약재 서랍과 침술용 인체 모형, 치료 포스터가 보이며 TCM(중의학) 진료를 보여준다",
+        "subject": "약재 서랍과 치료 도표가 진열된 전통 중국 의학 약방의 진열창"
+      },
+      {
+        "alt": "한 중의약방 계산대에서 말린 중국 약재를 작은 저울에 올려 무게를 다는 모습",
+        "subject": "중의약방에서 저울로 무게를 다는 말린 약재"
+      }
+    ],
+    "th": [
+      {
+        "alt": "หน้าต่างคลินิกการแพทย์แผนจีนที่แสดงผนังลิ้นชักสมุนไพรหุ่นจำลองฝังเข็มและโปสเตอร์การรักษาแทนการปฏิบัติแบบTCM",
+        "subject": "หน้าต่างร้านยาการแพทย์แผนจีนที่มีลิ้นชักสมุนไพรและแผนภูมิการบำบัด"
+      },
+      {
+        "alt": "สมุนไพรแห้งกำลังถูกชั่งบนตาชั่งที่เคาน์เตอร์ร้านยาแผนจีน",
+        "subject": "สมุนไพรจีนแห้งกำลังถูกชั่งบนตาชั่งที่ร้านยาแผนจีน"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Tingkap sebuah klinik perubatan tradisional Cina menunjukkan sedinding laci herba, sebuah model akupunktur dan poster rawatan, mewakili amalan TCM",
+        "subject": "Tingkap kedai perubatan tradisional Cina dengan laci herba dan carta terapi"
+      },
+      {
+        "alt": "Herba perubatan Cina yang kering ditimbang pada penimbang kecil di kaunter sebuah kedai perubatan tradisional Cina",
+        "subject": "Herba kering ditimbang pada penimbang di sebuah kedai perubatan Cina"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Etalase sebuah klinik pengobatan tradisional Tiongkok menampilkan satu dinding laci herbal, sebuah model akupunktur dan poster perawatan, mewakili praktik TCM",
+        "subject": "Etalase toko pengobatan tradisional Tiongkok dengan laci herbal dan bagan terapi"
+      },
+      {
+        "alt": "Herbal obat Tiongkok yang kering ditimbang pada timbangan kecil di konter sebuah toko pengobatan tradisional Tiongkok",
+        "subject": "Herbal kering yang ditimbang pada timbangan di sebuah toko pengobatan Tiongkok"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Ô cửa kính của một phòng khám đông y cổ truyền Trung Hoa cho thấy một bức tường ngăn kéo thảo dược, một mô hình châm cứu và các áp phích điều trị, đại diện cho thực hành đông y (TCM)",
+        "subject": "Ô cửa kính của một tiệm thuốc đông y cổ truyền Trung Hoa với các ngăn kéo thảo dược và biểu đồ trị liệu"
+      },
+      {
+        "alt": "Thảo dược làm thuốc Trung Hoa đã sấy khô đang được cân trên một chiếc cân nhỏ tại quầy của một tiệm thuốc đông y cổ truyền Trung Hoa",
+        "subject": "Thảo dược khô đang được cân trên cân tại một tiệm thuốc đông y Trung Hoa"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஒரு பாரம்பரிய சீன மருத்துவ கிளினிக்கின் ஜன்னல், ஒரு சுவர் நிறைந்த மூலிகை இழுப்பறைகள், ஒரு குத்தூசி மருத்துவ மாதிரி மற்றும் சிகிச்சை சுவரொட்டிகளைக் காட்டுகிறது, TCM நடைமுறையைக் குறிக்கிறது",
+        "subject": "மூலிகை இழுப்பறைகள் மற்றும் சிகிச்சை விளக்கப்படங்களுடன் கூடிய ஒரு பாரம்பரிய சீன மருத்துவக் கடை ஜன்னல்"
+      },
+      {
+        "alt": "ஒரு பாரம்பரிய சீன மருத்துவக் கடை பணியிடத்தில் ஒரு சிறிய தராசில் எடை போடப்படும் உலர்ந்த சீன மருத்துவ மூலிகைகள்",
+        "subject": "ஒரு சீன மருத்துவக் கடையில் தராசில் எடை போடப்படும் உலர்ந்த மூலிகைகள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक पारंपरिक चीनी चिकित्सा क्लिनिक की खिड़की जो जड़ी-बूटी दराज़ों की एक दीवार, एक एक्यूपंक्चर मॉडल और उपचार पोस्टर दिखा रही है, जो TCM पद्धति का प्रतिनिधित्व करती है",
+        "subject": "जड़ी-बूटी दराज़ों और चिकित्सा चार्टों वाली एक पारंपरिक चीनी चिकित्सा दुकान की खिड़की"
+      },
+      {
+        "alt": "एक पारंपरिक चीनी चिकित्सा दुकान के काउंटर पर एक छोटे तराज़ू पर तौली जा रही सूखी चीनी औषधीय जड़ी-बूटियाँ",
+        "subject": "एक चीनी चिकित्सा दुकान पर एक तराज़ू पर तौली जा रही सूखी जड़ी-बूटियाँ"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "نافذة عيادة طبّ صيني تقليدي تُظهر جدارًا من أدراج الأعشاب ونموذجًا للوخز بالإبر وملصقات علاجية، تمثّل ممارسة الطبّ الصيني التقليدي (TCM)",
+        "subject": "نافذة متجر طبّ صيني تقليدي بأدراج أعشاب ولوحات علاجية"
+      },
+      {
+        "alt": "أعشاب طبية صينية مجفّفة تُوزَن على ميزان صغير عند منضدة متجر طبّ صيني تقليدي",
+        "subject": "أعشاب مجفّفة تُوزَن على ميزان في متجر طبّ صيني"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El escaparate de una clínica de medicina tradicional china que muestra una pared de cajones de hierbas, un modelo de acupuntura y carteles de tratamiento, que representa la práctica de la MTC",
+        "subject": "El escaparate de una tienda de medicina tradicional china con cajones de hierbas y cuadros de terapia"
+      },
+      {
+        "alt": "Hierbas medicinales chinas secas que se pesan en una balanza pequeña en el mostrador de una tienda de medicina tradicional china",
+        "subject": "Hierbas secas que se pesan en una balanza en una tienda de medicina china"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "La vitrine d'une clinique de médecine traditionnelle chinoise montrant un mur de tiroirs à plantes, un modèle d'acupuncture et des affiches de traitement, représentant la pratique de la MTC",
+        "subject": "La vitrine d'un magasin de médecine traditionnelle chinoise avec des tiroirs à plantes et des planches thérapeutiques"
+      },
+      {
+        "alt": "Des plantes médicinales chinoises séchées pesées sur une petite balance au comptoir d'un magasin de médecine traditionnelle chinoise",
+        "subject": "Des plantes séchées pesées sur une balance dans un magasin de médecine chinoise"
+      }
+    ]
   }
 }

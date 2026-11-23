@@ -27,7 +27,7 @@ verificationNeeded:
   - "الفروق التفصيلية بين عيادة الصحة (Klinik Kesihatan) وعيادة المجتمع (Klinik Komuniti) وعيادة القرية (Klinik Desa) من حيث الكوادر ونطاق العلاج الدقيق تعذّر التحقق منها بالكامل مقابل مصادر وزارة الصحة (KKM) الرسمية وقت الكتابة؛ وتكتفي هذه المقالة بالقول إن الثلاثة مرافق منفصلة."
 
 lang: "ar"
-sourceContentHash: "b45c68aeb8d6fe25"
+sourceContentHash: "9a29482e1fe09ea8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-1.webp
+    alt: الكتلة الرئيسية لعيادة صحية حكومية ماليزية (Klinik Kesihatan) بممرّ دخول مظلّل للسيارات
+    kind: actual
+    origin: third-party
+    subject: المبنى الرئيسي لـ Klinik Kesihatan Jalan Lanang، عيادة صحية حكومية في Sibu بولاية Sarawak
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-2.webp
+    alt: عيادة صحية قروية ريفية صغيرة من طابق واحد (Klinik Desa) في جزيرة، وهي المنشأة الصحية الوحيدة هناك
+    kind: actual
+    origin: third-party
+    subject: Klinik Desa Pulau Aman، العيادة الصحية الريفية الوحيدة في جزيرة Pulau Aman بولاية Penang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Desa_Pulau_Aman,_Pulau_Aman_(220904)_1.jpg
 ---
 
 حُمّى لا تنكسر، أو طفل حان موعد تطعيمه، أو ضغط دم يحتاج إلى متابعة شهرية — والسؤال الأول الذي يطرأ عادةً ليس «ما هو العلاج»، بل «إلى أي عيادة أذهب». العيادات الخاصة سريعة لكنها باهظة. والمستشفيات الحكومية مزدحمة للمشكلات البسيطة. و«العيادة الحكومية» نفسها ليست في الواقع نوعاً واحداً من المرافق — كثيرون لا يدركون أن عيادة الصحة (Klinik Kesihatan) وعيادة المجتمع (Klinik Komuniti) وعيادة الأسنان (Klinik Pergigian) ثلاثة مرافق منفصلة تحت سقف واحد.

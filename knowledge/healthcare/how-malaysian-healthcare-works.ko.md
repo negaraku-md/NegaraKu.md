@@ -25,7 +25,7 @@ verificationNeeded:
   - "SPIKPA의 정확한 보험료와 연간 보장 한도는 공식 1차 출처에서 확인되지 않았습니다(학술 및 보험 중개 2차 출처만 발견됨). 이 글은 확인되지 않은 보험료나 보장 금액을 명시하지 않고, 이민국 자체 사이트에서 확인된 대로 그 제도의 기능 — 취업 허가 갱신에 연동된 의무 보험 — 을 서술합니다."
 
 lang: "ko"
-sourceContentHash: "f35156bb0be8d93f"
+sourceContentHash: "ad9956b0e60b93d8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -94,6 +94,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-1.webp
+    alt: 사바주 코타키나발루에서 길에서 바라본 대형 다층 말레이시아 정부 병원 단지
+    kind: actual
+    origin: third-party
+    subject: 퀸 엘리자베스 병원, 사바주 코타키나발루에 있는 대형 말레이시아 정부 병원
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-2.webp
+    alt: 페낭주 조지타운에 있는 대형 말레이시아 정부 병원의 여러 동 건물 단지를 공중에서 본 모습으로, 뒤로 도시 스카이라인이 보인다
+    kind: actual
+    origin: third-party
+    subject: 페낭 종합병원(Hospital Pulau Pinang), 페낭주 조지타운에 있는 대형 말레이시아 정부 병원
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_General_Hospital_2025.jpg
 ---
 
 가슴 통증을 느낀 말레이시아 은퇴자가 구급차를 불러 가장 가까운 정부 병원으로 이송되고, 그곳에서 심장 전문의가 실제 비용의 극히 일부만 되는 요금으로 그를 진료합니다. 같은 증상을 가진 그의 이웃, 인도네시아 출신의 취업 허가 소지자는 같은 병원 응급실로 이송됩니다 — 그러나 그 뒤에 나오는 청구서는 완전히 다른 요금표로 계산됩니다. 부처의 눈으로 볼 때 두 사람은 같은 종류의 환자가 아니기 때문입니다.

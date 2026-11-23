@@ -32,7 +32,7 @@ faq:
   - q: "谁可以注册为悉达执业者？"
     a: "依据第 775 号法令，希望在传统印度医学领域执业者，须向传统与辅助医药（T&CM）理事会注册。该法令分阶段执行；在过渡期结束后，未注册者被禁止在获认可的领域提供服务。请在发布时向卫生部传统与辅助医药组核实现行规定。"
 lang: "zh"
-sourceContentHash: "e7e71bfa77ac1056"
+sourceContentHash: "a717b54b027c6c0e"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lekiyam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-1.webp
+    alt: 一家传统南印度草药药房的朴素店面，代表一种与Siddha相近的传统印度医学实践
+    kind: representative
+    origin: third-party
+    subject: 一家传统南印度草药药房（vaidyasala）的店面
+    credit: Fotokannan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sadananda_vaidyasala2.jpg
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-2.webp
+    alt: 手掌中托着一团深色的姜lehyam，一种传统泰米尔Siddha草药膏剂
+    kind: representative
+    origin: third-party
+    subject: 手掌中托着做好的姜lehyam，一种泰米尔Siddha草药制剂
+    credit: Chronikhiles / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ginger_Lehyam.jpg
 ---
 
 在马来西亚古老的园丘土地上，在城镇的泰米尔街巷里，你能找到一家草药店——晒干的草药、散剂（choornam）和油摆满一排排的货架。这些并非偶然；它们是一门逾一个半世纪的医学传统留下的痕迹。

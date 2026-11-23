@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai tại Malaysia đang mang thai, dự định mang thai, hoặc hỗ trợ bạn đời hay người thân trong thai kỳ, và muốn hiểu cách hệ thống tiền sản công, chăm sóc tư nhân và đăng ký khai sinh khớp với nhau."
 
 lang: "vi"
-sourceContentHash: "f82d2d99c31a083b"
+sourceContentHash: "c17cd8eb9d265945"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -70,6 +70,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-1.webp
+    alt: Một phòng sản khoa sạch sẽ, hiện đại với giường bệnh trống và một nôi sơ sinh trong suốt, không có người nào
+    kind: representative
+    origin: third-party
+    subject: Một phòng sản khoa với giường bệnh và một nôi sơ sinh trong suốt bên cạnh
+    credit: Ad Meskens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mechelen_AZ_St_Maarten_Maternity_ward.jpg
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-2.webp
+    alt: Một phòng chờ phòng khám tiền sản của bệnh viện gọn gàng, trống với ghế màu xám và dòng chữ Antenatal Clinic trên tường
+    kind: representative
+    origin: third-party
+    subject: Một khu chờ trống của phòng khám tiền sản với các hàng ghế và dòng chữ Antenatal Clinic trên tường
+    credit: Lewis Clarke / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taunton_,_Musgrove_Park_Hospital_-_Antenatal_Clinic_-_geograph.org.uk_-_6936070.jpg
 ---
 
 Một que thử thai dương tính khởi động hai chiếc đồng hồ cùng một lúc, và hầu như không ai giải thích điều đó ngay từ đầu. Một chiếc đồng hồ liên quan đến bản thân thai kỳ — khi nào đăng ký, ở đâu, điều gì diễn ra ở mỗi lần khám. Chiếc còn lại chỉ bắt đầu sau khi em bé chào đời, và nó chẳng liên quan gì đến bệnh viện: đó là một thủ tục đăng ký pháp lý với một cơ quan hoàn toàn khác.

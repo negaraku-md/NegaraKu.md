@@ -22,7 +22,7 @@ appliesTo: "正在权衡雇主医疗保障与个人医疗卡之间取舍的雇�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f3d82432e2ef0103"
+sourceContentHash: "bdd7b7c140cf69f0"
 
 status: "published"
 aiAssisted: true
@@ -80,6 +80,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-1.webp
+    alt: 从空中俯瞰槟城威省一座大型现代化私立医院建筑
+    kind: actual
+    origin: third-party
+    subject: 双威医疗中心（Sunway Medical Centre），马来西亚槟城威省的一所私立医院
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_in_Seberang_Perai,_Penang.jpg
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-2.webp
+    alt: 一张弧形的医院接待台位于明亮的入口大厅，代表入院与收费，远处有少数几人
+    kind: representative
+    origin: third-party
+    subject: 主入口大厅内一处医院接待与入院柜台
+    credit: Rodhullandemu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Reception_Desk,_Arrowe_Park_Hospital.jpg
 ---
 
 两名雇员因为同样的手臂骨折走进同一家私人医院。一人递出一张卡，出院时分文未付就离开了。另一人自己支付了账单的一部分，因为她六个月前买的那份保单，正是为了这个理由而更便宜。

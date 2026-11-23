@@ -32,7 +32,7 @@ faq:
   - q: "சீன மருத்துவப் படிப்பை எங்கே பயிலலாம்?"
     a: "பல உள்ளூர் உயர்கல்வி நிறுவனங்கள் இப்போது சீன மருத்துவ இளங்கலை (சிறப்பு) படிப்பை வழங்குகின்றன; அவற்றில் சில மலேசிய தகுதி முகமை (MQA) அங்கீகரிக்கப்பட்டவை, எடுத்துக்காட்டாக ஜொகூர் ஸ்குடாயில் உள்ள Southern University College. பட்டம் பெறுவது முதல் படி மட்டுமே: சீன மருத்துவராகப் பயிற்சி செய்ய, பாரம்பரிய மற்றும் நிரப்பு மருத்துவக் கவுன்சிலின் பதிவுத் தேவைகளை நிறைவேற்ற வேண்டும். ஒவ்வொரு படிப்பின் அங்கீகார நிலையும் சேர்க்கை நிபந்தனைகளும் நிறுவனத்தின் அதிகாரப்பூர்வ இணையதளம் மற்றும் MQA இன் அதிகாரப்பூர்வ பதிவேட்டின் அடிப்படையில் இருக்க வேண்டும்."
 lang: "ta"
-sourceContentHash: "c07c03961816c569"
+sourceContentHash: "14675c725a8f0f6b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -81,6 +81,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Medicine_Shop,_George_Town,_Penang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-1.webp
+    alt: ஒரு பாரம்பரிய சீன மருத்துவ கிளினிக்கின் ஜன்னல், ஒரு சுவர் நிறைந்த மூலிகை இழுப்பறைகள், ஒரு குத்தூசி மருத்துவ மாதிரி மற்றும் சிகிச்சை சுவரொட்டிகளைக் காட்டுகிறது, TCM நடைமுறையைக் குறிக்கிறது
+    kind: representative
+    origin: third-party
+    subject: மூலிகை இழுப்பறைகள் மற்றும் சிகிச்சை விளக்கப்படங்களுடன் கூடிய ஒரு பாரம்பரிய சீன மருத்துவக் கடை ஜன்னல்
+    credit: Jordiferrer / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Chinatown_London_-_Everwell_Chinese_medicine.jpg
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-2.webp
+    alt: ஒரு பாரம்பரிய சீன மருத்துவக் கடை பணியிடத்தில் ஒரு சிறிய தராசில் எடை போடப்படும் உலர்ந்த சீன மருத்துவ மூலிகைகள்
+    kind: representative
+    origin: third-party
+    subject: ஒரு சீன மருத்துவக் கடையில் தராசில் எடை போடப்படும் உலர்ந்த மூலிகைகள்
+    credit: tomscoffin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2012-06-07_weighing_the_dried_herbs_at_an_Chinese_medicine_shop_at_Kinmen.jpg
 ---
 
 பல பழைய நகரங்களின் தெருமுனைகளில், எப்போதும் ஒரு சீன மூலிகைக் கடை இருக்கும்: மரப்பேழைச் சுவரில் சிறிய இழுப்பறைகள் நெருக்கமாக அடுக்கியிருக்கும், காற்றில் அங்கெலிகா வேர் (当归), உலர்ந்த ஆரஞ்சுத் தோல் (陈皮), அதிமதுரம் (甘草) ஆகியவை கலந்த மணம் இருக்கும்; மேசைக்குப் பின்னால், வயது முதிர்ந்த மருத்துவர் வாடிக்கையாளர் எங்கே வலிக்கிறது என்பதைக் கேட்டுக்கொண்டே, மருந்துப் பொருட்களை ஒவ்வொன்றாக எடைபோட்டு காகிதத்தில் போட்டு ஒரே மருந்துப் பொட்டலமாகக் கட்டுவார். இப்படிப்பட்ட கடைகள் மலேசிய சீன சமூகங்களில் நூறு ஆண்டுகளுக்கும் மேலாக இருந்து வருகின்றன.

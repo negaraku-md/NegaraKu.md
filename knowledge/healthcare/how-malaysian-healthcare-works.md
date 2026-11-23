@@ -94,6 +94,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-1.webp
+    alt: A large multi-storey Malaysian government hospital complex seen from the road in Kota Kinabalu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Queen Elizabeth Hospital, a major Malaysian government hospital in Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-2.webp
+    alt: An aerial view of the multi-building complex of a large Malaysian government hospital in George Town, Penang, with the city skyline behind
+    kind: actual
+    origin: third-party
+    subject: Penang General Hospital (Hospital Pulau Pinang), a major Malaysian government hospital in George Town, Penang
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_General_Hospital_2025.jpg
 ---
 
 A Malaysian retiree with chest pain calls an ambulance and is taken to the nearest government hospital, where a cardiologist sees him for a fee that covers a fraction of the actual cost. His neighbour, a work-permit holder from Indonesia with the same symptoms, is taken to the same hospital's emergency department — but the bill that follows is calculated on a completely different schedule, because the two of them are not, in the ministry's eyes, the same kind of patient.

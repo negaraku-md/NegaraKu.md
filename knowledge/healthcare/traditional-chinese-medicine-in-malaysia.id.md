@@ -32,7 +32,7 @@ faq:
   - q: "Di mana bisa belajar program pengobatan Tionghoa?"
     a: "Kini beberapa institusi pendidikan tinggi dalam negeri menawarkan program Sarjana Pengobatan Tionghoa (Kepujian/Honours), sebagian telah diakui oleh Agensi Kelayakan Malaysia (MQA), misalnya Southern University College di Skudai, Johor. Lulus hanyalah langkah pertama: untuk berpraktik sebagai tabib Tionghoa, seseorang tetap harus memenuhi persyaratan pendaftaran Majelis Pengobatan Tradisional dan Komplementer. Status pengakuan dan syarat penerimaan tiap program hendaknya mengacu pada situs resmi institusi dan daftar resmi MQA."
 lang: "id"
-sourceContentHash: "c07c03961816c569"
+sourceContentHash: "14675c725a8f0f6b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -81,6 +81,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Medicine_Shop,_George_Town,_Penang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-1.webp
+    alt: Etalase sebuah klinik pengobatan tradisional Tiongkok menampilkan satu dinding laci herbal, sebuah model akupunktur dan poster perawatan, mewakili praktik TCM
+    kind: representative
+    origin: third-party
+    subject: Etalase toko pengobatan tradisional Tiongkok dengan laci herbal dan bagan terapi
+    credit: Jordiferrer / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Chinatown_London_-_Everwell_Chinese_medicine.jpg
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-2.webp
+    alt: Herbal obat Tiongkok yang kering ditimbang pada timbangan kecil di konter sebuah toko pengobatan tradisional Tiongkok
+    kind: representative
+    origin: third-party
+    subject: Herbal kering yang ditimbang pada timbangan di sebuah toko pengobatan Tiongkok
+    credit: tomscoffin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2012-06-07_weighing_the_dried_herbs_at_an_Chinese_medicine_shop_at_Kinmen.jpg
 ---
 
 Di sudut jalan banyak kota tua, selalu ada sebuah toko obat Tionghoa: dinding lemari kayu dipenuhi laci-laci kecil yang padat, udaranya bercampur aroma angelika (当归), kulit jeruk kering (陈皮), dan akar manis (甘草); di balik meja, sang tabib tua mendengarkan pelanggan menceritakan di mana rasa tidak enak badannya sambil menimbang bahan obat satu per satu ke dalam kertas, lalu membungkusnya menjadi satu bungkus obat. Toko seperti ini telah ada di komunitas Tionghoa Malaysia selama lebih dari seratus tahun.

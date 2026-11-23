@@ -29,7 +29,7 @@ faq:
     a: "2023年2月に国会へ提出された会計検査院長の報告書は、2021年10月28日から31日の間に、MyVASシステムの「Super Admin」アカウントを通じてワクチン接種者300万人分の個人情報がダウンロードされたことを明らかにした。"
 
 lang: "ja"
-sourceContentHash: "bd72fa179eba1629"
+sourceContentHash: "782540a82043fef4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:NSK_Trade_City_Kota_Damansara_-_MySejahtera.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-1.webp
+    alt: アプリストアの健康・医療アプリ一覧を表示したスマートフォンを人が持っている様子。スマートフォン上の消費者向けデジタルヘルスのツールを示している
+    kind: representative
+    origin: third-party
+    subject: 個人向け健康アプリの一覧を表示したスマートフォンを持つ手
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Personal_Health_Apps_for_Smartphones.jpg
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-2.webp
+    alt: 心電図の波形、超音波画像、ビデオ映像を表示する複数の画面を備えたワークステーションに座る臨床医。病院のデジタル健康記録・ITシステムを表している
+    kind: representative
+    origin: third-party
+    subject: 複数モニターの医療ITワークステーションでデジタルの患者データを確認する臨床医
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg
 ---
 
 パンデミックが落ち着くと、多くの人がMySejahteraをスマートフォンから削除した——しかし、このアプリが消えたわけではない。ただ、その役割が変わっただけである。

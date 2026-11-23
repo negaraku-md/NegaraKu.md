@@ -26,7 +26,7 @@ verificationNeeded:
   - "لم يُؤكَّد القسط الدقيق لـ SPIKPA وسقف التغطية السنوي من مصدر أوّلي رسمي (لم يُعثَر إلا على مصادر ثانوية أكاديمية ومن وسطاء التأمين)؛ ويصف هذا المقال وظيفة المخطّط — تأمين إلزامي مرتبط بتجديد تصريح العمل، مؤكَّد على موقع إدارة الهجرة (Jabatan Imigresen) نفسه — دون ذكر قسط أو مبلغ تغطية غير مُتحقَّق منه."
 
 lang: "ar"
-sourceContentHash: "f35156bb0be8d93f"
+sourceContentHash: "ad9956b0e60b93d8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-1.webp
+    alt: مجمّع مستشفى حكومي ماليزي كبير متعدد الطوابق يُرى من الطريق في Kota Kinabalu بولاية Sabah
+    kind: actual
+    origin: third-party
+    subject: Queen Elizabeth Hospital، مستشفى حكومي ماليزي رئيسي في Kota Kinabalu بولاية Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-2.webp
+    alt: منظر جوّي للمجمّع متعدد المباني لمستشفى حكومي ماليزي كبير في George Town بولاية Penang، ويظهر خلفه أفق المدينة
+    kind: actual
+    origin: third-party
+    subject: Penang General Hospital (Hospital Pulau Pinang)، مستشفى حكومي ماليزي رئيسي في George Town بولاية Penang
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_General_Hospital_2025.jpg
 ---
 
 متقاعد ماليزي يشعر بألم في الصدر يطلب سيارة إسعاف فيُنقَل إلى أقرب مستشفى حكومي، حيث يعاينه طبيب قلب مقابل رسم يغطّي جزءًا يسيرًا من التكلفة الفعلية. أما جاره، وهو حامل تصريح عمل من إندونيسيا بالأعراض نفسها، فيُنقَل إلى قسم الطوارئ في المستشفى نفسه — لكن الفاتورة التي تليه تُحتسَب وفق جدول مختلف تمامًا، لأن كليهما ليسا، في نظر الوزارة، النوع نفسه من المرضى.

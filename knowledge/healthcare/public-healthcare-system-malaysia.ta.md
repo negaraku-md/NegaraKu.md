@@ -27,7 +27,7 @@ faq:
   - q: "PeKa B40 என்றால் என்ன?"
     a: "PeKa B40 (Skim Peduli Kesihatan untuk Kumpulan B40) என்பது ProtectHealth Corporation நடத்தும் ஒரு MOH திட்டம். இது தகுதியுள்ள 40 வயது மற்றும் அதற்கு மேற்பட்ட குறைந்த வருமான மலேசியர்களுக்கு — Sumbangan Tunai Rahmah பெறுநர்கள் மற்றும் அவர்களது வாழ்க்கைத் துணைவர்களுக்கு — இலவச சுகாதாரப் பரிசோதனை, RM20,000 வரையிலான மருத்துவ-சாதன உதவி, RM1,000 புற்றுநோய்-சிகிச்சை ஊக்கத்தொகை மற்றும் போக்குவரத்து உதவியை வழங்குகிறது. 31 மார்ச் 2025 நிலவரப்படி, தோராயமாக 6.9 மில்லியன் தகுதியுள்ள பெறுநர்களில் சுமார் 1.6 மில்லியன் பேர் பரிசோதிக்கப்பட்டுள்ளனர்."
 lang: "ta"
-sourceContentHash: "62dfb914192fc51a"
+sourceContentHash: "ebf6668ee0094f78"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -136,6 +136,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/public-healthcare-system-malaysia/body-1.webp
+    alt: ஒரு மலேசிய பொது மருத்துவமனையான பத்து பகாட்டில் உள்ள Hospital Sultanah Nora Ismail இல் வரிசையான படுக்கைகளுடன் கூடிய காலியான உள்நோயாளி வார்டு
+    kind: actual
+    origin: third-party
+    subject: பத்து பகாட், Hospital Sultanah Nora Ismail இல் ஒரு பொது மருத்துவமனை வார்டு
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg
+  - role: scene
+    src: /media/healthcare/public-healthcare-system-malaysia/body-2.webp
+    alt: மலேசியாவின் சுகாதார அமைச்சால் இயக்கப்படும் பொது மருத்துவமனையான Hospital Kemaman இன் வெளிப்புறம்
+    kind: actual
+    origin: third-party
+    subject: ஒரு மலேசிய பொது மருத்துவமனை கட்டிடமான Hospital Kemaman
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kemaman_Hospital.jpg
 ---
 
 ஒரு மலேசிய அரசு கிளினிக்கிற்குள் நடந்து செல்லுங்கள், கவுன்டரில் வரும் கட்டணம் கிட்டத்தட்ட ஒன்றுமில்லை — பொது வெளிநோயாளர் பதிவுக்கு **RM1**. இது தொண்டு அல்ல — இது வடிவமைப்பு. மலேசியா ஒரு **இரு-அடுக்கு சுகாதார அமைப்பை** இயக்குகிறது: சுகாதார அமைச்சு (Ministry of Health, MOH, *Kementerian Kesihatan Malaysia*, KKM) நிர்வகிக்கும் அரசு-இயக்கப் பொதுச் சேவை, ஒரு பெரிய தனியார் துறையுடன் இணையாக இயங்குகிறது. பொது தரப்புக்கு **பொது வரிகளால் மட்டுமே நிதியளிக்கப்படுகிறது, கட்டாய தேசியக் காப்பீட்டுப் பங்களிப்புகள் எதுவும் இல்லை**, எனவே பராமரிப்பு பிரீமியங்களுக்குப் பதிலாக பெரிதும் மானியப்படுத்தப்பட்ட, பெயரளவிலான கட்டணங்களுக்கு வழங்கப்படுகிறது. இந்த மாதிரி தேசிய வருமானத்தின் மிதமான பங்கில் கிட்டத்தட்ட உலகளாவிய அணுகலை உருவாக்கியுள்ளது — ஆனால் இது இப்போது உயரும் குடும்பச் செலவுச் சுமையையும் உண்மையான வழங்கல் அழுத்தங்களையும் சுமக்கிறது. இந்த வழிகாட்டி, அமைப்பை எவ்வாறு அணுகுவது, அதற்கு என்ன செலவாகிறது, யாருக்குப் பாதுகாப்பு அளிக்கிறது, எங்கே அழுத்தத்தில் உள்ளது என்பதை எளிய சொற்களில் விளக்குகிறது.

@@ -31,7 +31,7 @@ faq:
     a: "보건부의 2012년 지침은 임신 종료를 임신 22주 미만의 시점, 또는 임신 주수를 알 수 없는 경우 태아가 500그램 미만으로 추정되는 시점의 시술로 정의합니다."
 
 lang: "ko"
-sourceContentHash: "ae2bf4ced7e95cfe"
+sourceContentHash: "9d43a6fec14992c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-1.webp
+    alt: 지붕이 있는 출입구를 갖춘 단층 정부 보건소 건물로, 여기서는 생식 보건 진료와 상담이 제공되는 공공 진료소를 중립적으로 보여주는 예시로 쓰였다
+    kind: representative
+    origin: third-party
+    subject: 말레이시아 페락주 레키르에 있는 정부 보건소(Klinik Kesihatan)의 외관
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Lekir,_Kampung_Batu_9_Lekir_20231220_143154.jpg
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-2.webp
+    alt: 말레이시아 군(縣) 단위 공공 보건소를 알리는 길가 안내판으로, 특정 서비스를 제공하는 시설을 명시하지 않고 공공 보건 체계를 중립적으로 대변한다
+    kind: representative
+    origin: third-party
+    subject: 파항주 라웁군 정부 보건소(Klinik Kesihatan Daerah Raub)의 안내판
+    credit: Kazuki278 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanda_Klinik_Kesihatan_Daerah_Raub.jpg
 ---
 
 많은 사람이 말레이시아에서 낙태가 전면 금지되어 있다고 생각하지만 — 실제로 법은 그것을 더 복잡한 자리에 놓습니다. 즉, 중요한 의료적 예외를 하나 둔 형사 범죄입니다. 그 경계선이 어디에 그어져 있는지를 이해하려면 일반적인 통념이 아니라 형법의 실제 조문을 읽어야 합니다.

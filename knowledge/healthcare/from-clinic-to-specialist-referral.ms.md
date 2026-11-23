@@ -35,7 +35,7 @@ faq:
 
 lang: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "db56299f47270a2d"
+sourceContentHash: "0f2e73064fe07ebb"
 masterLanguage: "en"
 
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-1.webp
+    alt: Kaunter pendaftaran dan pertanyaan di dalam sebuah hospital kerajaan Malaysia, papan tanda mengarahkan pesakit ke barisan yang betul, tanpa seorang pun pesakit kelihatan
+    kind: actual
+    origin: third-party
+    subject: Kaunter pendaftaran dan pertanyaan di dalam sebuah hospital kerajaan Malaysia (Hospital Tengku Anis, Pasir Puteh, Kelantan)
+    credit: CyberTroopers / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Tengku_Anis,_Pasir_Puteh.jpg
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-2.webp
+    alt: Bangunan utama berbilang tingkat sebuah hospital pakar bukan untung yang besar di Pulau Pinang, mewakili peringkat hospital dalam laluan rujukan
+    kind: actual
+    origin: third-party
+    subject: Bangunan utama Lam Wah Ee Hospital, sebuah hospital pakar bukan untung di Pulau Pinang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Lam_Wah_Ee_Hospital_main_building.jpg
 ---
 
 Rujukan ialah saat genting dalam penjagaan sesiapa pun: doktor anda telah memutuskan — atau mencadangkan — bahawa masalah anda memerlukan pakar, dan tiba-tiba anda sedang menyelusuri bahagian sistem kesihatan yang berbeza. Panduan ini bermula tepat di situ. Ia **tidak** memberitahu anda sama ada anda memerlukan pakar; pertimbangan itu milik klinikal anda. Apa yang ia lakukan ialah menerangkan **cara rujukan sebenarnya berfungsi di Malaysia, dan apa yang perlu disediakan**, supaya penyerahan daripada klinik kepada pakar selancar yang mungkin.

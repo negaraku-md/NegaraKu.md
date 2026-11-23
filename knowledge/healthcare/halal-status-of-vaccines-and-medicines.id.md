@@ -29,7 +29,7 @@ faq:
     a: "Muzakarah Khas pada 3 Desember 2020 memutuskan penggunaan vaksin COVID-19 adalah harus dan wajib diambil oleh golongan yang ditetapkan pemerintah, dengan syarat vaksin yang digunakan bersifat halal dan tayyiban."
 
 lang: "id"
-sourceContentHash: "27955639bf723dbf"
+sourceContentHash: "44aec46b8cb2607b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-1.webp
+    alt: Sebuah apotek komunitas Malaysia modern di sudut jalan, papan namanya bertuliskan Big Pharmacy, di Kluang, Johor
+    kind: actual
+    origin: third-party
+    subject: Sebuah cabang rantai ritel Big Pharmacy di pusat kota Kluang, Johor, Malaysia
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-2.webp
+    alt: Deretan kotak obat yang disusun rapi di rak apotek, mewakili obat kemasan dan pelabelannya
+    kind: representative
+    origin: third-party
+    subject: Kotak obat generik yang ditata di rak apotek
+    credit: Wilfredor / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_medicines_with_the_yellow_G_stripe_on_pharmacy_shelves,_S%C3%A3o_Paulo.jpg
 ---
 
 Sebotol vaksin dapat mengandung sedikit gelatin sebagai penstabil — dan dari butiran kecil itulah muncul salah satu persoalan agama yang paling sering ditanyakan keluarga Muslim di Malaysia: apakah ia halal? Jawabannya bukan sekadar "ya" atau "tidak", melainkan hasil satu proses penilaian terstruktur yang melibatkan badan fatwa, kajian saintifik, dan beberapa prinsip fikih yang khusus.

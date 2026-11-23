@@ -32,7 +32,7 @@ faq:
     a: "Đó là một tài liệu chính sách được Nghị viện thông qua ngày 15 tháng 6 năm 2023, vạch ra cuộc cải cách hệ thống y tế Malaysia theo từng giai đoạn trong 15 năm."
 
 lang: "vi"
-sourceContentHash: "6b5ead408a9cf117"
+sourceContentHash: "59c6c1853ae29fa8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-1.webp
+    alt: Mười hộp xét nghiệm nhanh kháng nguyên COVID-19 được đánh số xếp thành một hàng trên bàn, mỗi hộp đều hiển thị một vạch chứng
+    kind: representative
+    origin: third-party
+    subject: Một hàng mười hộp xét nghiệm nhanh kháng nguyên COVID-19 hiển thị vạch chứng và vạch xét nghiệm
+    credit: Marwan Mohamad / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Test_Antigen.jpg
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-2.webp
+    alt: Thiết bị phòng thí nghiệm và chẩn đoán đóng hộp được cung cấp cho Malaysia nhằm hỗ trợ xét nghiệm COVID-19 và ứng phó đại dịch
+    kind: actual
+    origin: third-party
+    subject: Thiết bị phát hiện COVID-19 được chuyển đến Malaysia trong quá trình ứng phó đại dịch
+    credit: IAEA Imagebank / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:COVID-19_Equipment_to_Malaysia_(05890318)_(50705365708).jpg
 ---
 
 Vào ngày 18 tháng 3 năm 2020, đường sá trên khắp Malaysia trở nên vắng vẻ khi đất nước bước vào một giai đoạn chưa từng trải qua trong lịch sử hiện đại: hạn chế di chuyển toàn diện để kiềm chế sự lây lan của COVID-19. Trong khoảng hai năm sau đó, ứng phó y tế công cộng của quốc gia phát triển từ phong tỏa toàn diện thành một trong những chương trình tiêm chủng nhanh nhất khu vực — và để lại tác động vẫn đang định hình hệ thống y tế cho đến ngày nay.

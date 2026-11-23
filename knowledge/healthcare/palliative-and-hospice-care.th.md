@@ -29,7 +29,7 @@ faq:
     a: "การดูแลแบบประคับประคองให้ความสำคัญกับความสบายและการควบคุมอาการสำหรับผู้ป่วยที่มีโรคซึ่งจำกัดอายุ ไม่ว่าอายุเท่าใด แม้กระทั่งเด็ก ส่วนการดูแลผู้สูงอายุเป็นการดูแลทั่วไปสำหรับผู้สูงอายุที่อาจไม่ได้เป็นโรคระยะสุดท้าย"
 
 lang: "th"
-sourceContentHash: "f3444e3062b1aac2"
+sourceContentHash: "08979787420aefe5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-1.webp
+    alt: อาคารดูแลแบบประคับประคองชั้นเดียวที่สงบด้านหน้าเป็นสวนมีเสาธงและทางรถเข้าที่เงียบสงบแทนสถานดูแลระยะท้ายที่สงบร่มเย็น
+    kind: representative
+    origin: third-party
+    subject: อาคารสถานดูแลแบบประคับประคองชั้นเดียวที่สงบมีสวนล้อมรอบใต้ท้องฟ้าแจ่มใส
+    credit: Shkuru Afshar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Canberra_Hospice.jpg
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-2.webp
+    alt: ทางเข้าหน่วยดูแลแบบประคับประคองของโรงพยาบาลสมัยใหม่พร้อมระเบียงกระจกและแปลงต้นไม้แทนสถานที่ดูแลแบบประคับประคองเฉพาะทาง
+    kind: representative
+    origin: third-party
+    subject: ทางเข้าด้านสวนของหน่วยดูแลแบบประคับประคองโดยเฉพาะ
+    credit: Jim Barton / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Margaret_Kerr_Unit,_Borders_General_Hospital_-_geograph.org.uk_-_7191073.jpg
 ---
 
 เมื่อการรักษาไม่ได้มุ่งรักษาให้หายอีกต่อไป ความสนใจจึงเปลี่ยนไปที่สิ่งหนึ่ง คือ การทำให้ผู้ป่วยสบายและมีศักดิ์ศรี นั่นคือแก่นของการดูแลแบบประคับประคอง — และในมาเลเซีย สามารถเข้าถึงได้ผ่านสามช่องทางที่แตกต่างกัน

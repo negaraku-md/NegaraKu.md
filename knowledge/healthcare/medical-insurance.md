@@ -80,6 +80,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-1.webp
+    alt: An aerial view of a large modern private hospital building in Seberang Perai, Penang
+    kind: actual
+    origin: third-party
+    subject: Sunway Medical Centre, a private hospital in Seberang Perai, Penang, Malaysia
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_in_Seberang_Perai,_Penang.jpg
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-2.webp
+    alt: A curved hospital reception desk in a bright entrance hall, representing admissions and billing, with a few people in the distance
+    kind: representative
+    origin: third-party
+    subject: A hospital reception and admissions counter in a main entrance lobby
+    credit: Rodhullandemu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Reception_Desk,_Arrowe_Park_Hospital.jpg
 ---
 
 Two employees walk into the same private hospital with the same broken arm. One hands over a card and walks out without paying a sen at discharge. The other pays a slice of the bill themselves, because the policy she bought six months ago was cheaper for exactly that reason.

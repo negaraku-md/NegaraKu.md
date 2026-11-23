@@ -26,7 +26,7 @@ verificationNeeded:
   - "La prime exacte et le plafond annuel de couverture du SPIKPA n'ont pas été confirmés auprès d'une source primaire officielle (seules des sources secondaires universitaires et de courtiers en assurance ont été trouvées) ; cet article décrit la fonction du dispositif — assurance obligatoire liée au renouvellement du permis de travail, confirmée sur le site même du Département de l'immigration — sans indiquer une prime ou un montant de couverture non vérifiés."
 
 lang: "fr"
-sourceContentHash: "f35156bb0be8d93f"
+sourceContentHash: "ad9956b0e60b93d8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-1.webp
+    alt: Un grand complexe hospitalier gouvernemental malaisien de plusieurs étages vu depuis la route à Kota Kinabalu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Queen Elizabeth Hospital, un grand hôpital gouvernemental malaisien à Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-2.webp
+    alt: Une vue aérienne du complexe de plusieurs bâtiments d'un grand hôpital gouvernemental malaisien à George Town, Penang, avec la ligne d'horizon de la ville en arrière-plan
+    kind: actual
+    origin: third-party
+    subject: Penang General Hospital (Hospital Pulau Pinang), un grand hôpital gouvernemental malaisien à George Town, Penang
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_General_Hospital_2025.jpg
 ---
 
 Un retraité malaisien souffrant de douleurs thoraciques appelle une ambulance et est conduit à l'hôpital gouvernemental le plus proche, où un cardiologue le prend en charge pour un tarif qui ne couvre qu'une fraction du coût réel. Son voisin, titulaire d'un permis de travail venu d'Indonésie et présentant les mêmes symptômes, est amené au service des urgences du même hôpital — mais la facture qui suit est calculée selon un barème entièrement différent, car tous deux ne sont pas, aux yeux du ministère, le même type de patient.

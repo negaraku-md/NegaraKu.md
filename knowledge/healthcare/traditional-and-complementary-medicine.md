@@ -66,6 +66,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ze_Xiang,_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-1.webp
+    alt: Empat batang jarum akupunktur halus diletakkan di atas permukaan di sebelah sekeping syiling sebagai ukuran saiz, mewakili akupunktur sebagai terapi pelengkap
+    kind: representative
+    origin: third-party
+    subject: Jarum akupunktur ditunjukkan dengan sekeping syiling sebagai ukuran saiz
+    credit: Acuhealth / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Acupuncture_Needles.jpg
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-2.webp
+    alt: Sebuah peti kayu berisi jamu berbotol, sebuah ubat tonik herba tradisional, dengan botol cecair kuning kemerahan bersumbat daun, mewakili ubat pelengkap herba
+    kind: representative
+    origin: third-party
+    subject: Botol jamu, ubat tonik herba tradisional Melayu-Indonesia
+    credit: dpinpin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jamu.jpg
 ---
 
 Sejak 1 Mac 2025, tukang urut tradisional, pengamal perubatan Cina, ahli homeopati dan kiropraktor di Malaysia tidak boleh lagi membuka pintu klinik tanpa satu keping dokumen — sijil pendaftaran. Zaman "mengamal atas nama pengalaman" sudah tamat.

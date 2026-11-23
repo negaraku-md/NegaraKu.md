@@ -31,7 +31,7 @@ faq:
     a: "JKM 산하 보조기구/보철기구 지원(BAT)은 수동 또는 전동 휠체어, 의족과 의수, 보청기, 흰지팡이, 점자 기기를 정해진 기구의 실제 가격에 따라 포함합니다."
 
 lang: "ko"
-sourceContentHash: "f4c391c1dbfcea33"
+sourceContentHash: "5e0342d845bb0837"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-1.webp
+    alt: 말레이시아 LRT 역에 있는 난간이 달린 완만한 경사 접근 램프로, 장애인을 위한 무단차 접근을 보여준다
+    kind: representative
+    origin: third-party
+    subject: 말레이시아 공공 철도역의 휠체어 접근 램프
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SP20_Muhibbah_LRT_Accessible_Ramp_20231007_131344.jpg
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-2.webp
+    alt: 파란색 국제 휠체어 표지가 그려져 장애인용으로 지정된 주차 구획으로, OKU(장애인) 접근성 규정을 보여준다
+    kind: representative
+    origin: third-party
+    subject: 말레이시아에서 휠체어 표지로 표시된 OKU(장애인) 전용 주차 구획
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Disabled_parking_at_Masjid_As_Salam,_Kampung_Kijing_20240227_224921.jpg
 ---
 
 플라스틱 카드 한 장이 자폐 아동이 조기 치료를 받는지, 다리를 잃은 성인이 의족을 가질 수 있는지를 좌우합니다. 말레이시아에서 그 OKU 카드가 바로 장애인을 위해 설계된 거의 모든 서비스와 지원의 진입점이며 — 그것이 어떻게 작동하는지를 이해하는 것은 시간, 돈, 그리고 미뤄진 치료를 아껴 줍니다.

@@ -23,7 +23,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "de44e0206ee7dfcf"
+sourceContentHash: "40240ae7fdae6576"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -72,6 +72,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Main_building_of_Klinik_Kesihatan_Sibu_Jaya.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-1.webp
+    alt: Klinik Kesihatan Nilai的外观，一所为社区服务的马来西亚卫生部公共健康诊所
+    kind: actual
+    origin: third-party
+    subject: Klinik Kesihatan Nilai，一所马来西亚政府健康诊所
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-2.webp
+    alt: 吉隆坡Klinik Kesihatan Tanglin的外观，一所马来西亚公共政府健康诊所
+    kind: actual
+    origin: third-party
+    subject: Klinik Kesihatan Tanglin，吉隆坡的一所政府健康诊所
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Tanglin,_Kuala_Lumpur_20260428_120448.jpg
 ---
 
 许多人都听过「PeKa B40」这个名字，但对它的理解却各不相同——有人以为它

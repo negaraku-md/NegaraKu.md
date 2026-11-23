@@ -32,7 +32,7 @@ faq:
     a: "இது 15 ஜூன் 2023 அன்று நாடாளுமன்றத்தால் நிறைவேற்றப்பட்ட ஒரு கொள்கை ஆவணம் ஆகும்; இது மலேசியாவின் சுகாதார அமைப்பின் 15 ஆண்டு படிநிலை சீர்திருத்தத்தை வரையறுக்கிறது."
 
 lang: "ta"
-sourceContentHash: "6b5ead408a9cf117"
+sourceContentHash: "59c6c1853ae29fa8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-1.webp
+    alt: மேசையில் வரிசையாக அடுக்கப்பட்ட பத்து எண்ணிடப்பட்ட COVID-19 ஆன்டிஜென் விரைவு சோதனை கேசட்டுகள், ஒவ்வொன்றும் ஒரு கட்டுப்பாட்டுக் கோட்டைக் காட்டுகின்றன
+    kind: representative
+    origin: third-party
+    subject: கட்டுப்பாட்டு மற்றும் சோதனைக் கோடுகளைக் காட்டும் பத்து COVID-19 ஆன்டிஜென் விரைவு சோதனை கேசட்டுகளின் வரிசை
+    credit: Marwan Mohamad / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Test_Antigen.jpg
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-2.webp
+    alt: மலேசியாவின் COVID-19 சோதனை மற்றும் தொற்றுநோய் எதிர்வினைக்கு ஆதரவாக வழங்கப்பட்ட பெட்டியிடப்பட்ட ஆய்வக மற்றும் கண்டறிதல் உபகரணங்கள்
+    kind: actual
+    origin: third-party
+    subject: தொற்றுநோய் எதிர்வினையின் போது மலேசியாவுக்கு வழங்கப்பட்ட COVID-19 கண்டறிதல் உபகரணங்கள்
+    credit: IAEA Imagebank / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:COVID-19_Equipment_to_Malaysia_(05890318)_(50705365708).jpg
 ---
 
 18 மார்ச் 2020 அன்று, COVID-19 பரவலைத் தடுப்பதற்கான விரிவான இயக்கக் கட்டுப்பாட்டுடன் நாடு தனது நவீன வரலாற்றில் இதுவரை அனுபவிக்காத ஒரு கட்டத்தில் நுழைந்தபோது, மலேசியா முழுவதும் சாலைகள் வெறிச்சோடின. அடுத்த சுமார் இரண்டு ஆண்டுகளில், நாட்டின் பொது சுகாதார பதிலிறுப்பு விரிவான முடக்கத்திலிருந்து இப்பகுதியில் மிக வேகமான தடுப்பூசித் திட்டங்களில் ஒன்றாக வளர்ந்தது — மேலும் இன்றுவரை சுகாதார அமைப்பை வடிவமைத்துக்கொண்டிருக்கும் ஒரு தாக்கத்தை விட்டுச் சென்றது.

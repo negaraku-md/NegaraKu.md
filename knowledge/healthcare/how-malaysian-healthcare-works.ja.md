@@ -27,7 +27,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f35156bb0be8d93f"
+sourceContentHash: "ad9956b0e60b93d8"
 
 status: "published"
 aiAssisted: true
@@ -93,6 +93,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-1.webp
+    alt: サバ州コタキナバルで道路から見た、大規模で多層階のマレーシア政府病院の建物群
+    kind: actual
+    origin: third-party
+    subject: クイーン・エリザベス病院、サバ州コタキナバルにある大規模なマレーシア政府病院
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-2.webp
+    alt: ペナン州ジョージタウンにある大規模なマレーシア政府病院の複数棟からなる建物群を上空から見た様子。背後に都市のスカイライン
+    kind: actual
+    origin: third-party
+    subject: ペナン総合病院（Hospital Pulau Pinang）、ペナン州ジョージタウンにある大規模なマレーシア政府病院
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_General_Hospital_2025.jpg
 ---
 
 胸の痛みを訴えるマレーシア人の年金生活者が救急車を呼び、最寄りの政府病院に搬送される。そこで循環器専門医の診察を受けるが、その費用は実際のコストのごく一部にすぎない。彼の隣人、同じ症状を抱えるインドネシア出身の就労許可保持者も、同じ病院の救急部門に搬送される——だが、そのあとに届く請求書はまったく別の料金表にもとづいて計算される。なぜなら、保健省の目から見れば、この二人は同じ種類の患者ではないからである。

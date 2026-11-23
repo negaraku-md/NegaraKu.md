@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "f4c391c1dbfcea33"
+sourceContentHash: "5e0342d845bb0837"
 
 status: "published"
 aiAssisted: true
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-1.webp
+    alt: マレーシアのLRT駅にある手すり付きの緩やかなスロープ。障害のある人のための段差のないアクセスを表している
+    kind: representative
+    origin: third-party
+    subject: マレーシアの公共鉄道駅にある車いす対応のスロープ
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SP20_Muhibbah_LRT_Accessible_Ramp_20231007_131344.jpg
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-2.webp
+    alt: 青い国際車いすマークが描かれ、障害のある人のために確保された駐車区画。OKU（障害者）向けのアクセシビリティ措置を表している
+    kind: representative
+    origin: third-party
+    subject: マレーシアで車いすマークが付けられたOKU（障害者）専用の駐車区画
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Disabled_parking_at_Masjid_As_Salam,_Kampung_Kijing_20240227_224921.jpg
 ---
 
 一枚のプラスチックカードが、自閉症の子どもが早期療育を受けられるかどうか、あるいは脚を失った大人が義足を手にできるかどうかを左右する。マレーシアでは、このOKUカードこそが、障害者（Orang Kurang Upaya、OKU）のために設計されたほぼすべてのサービスと援助への入り口であり——その仕組みを理解することが、時間、費用、そして治療の遅れを防ぐことにつながる。

@@ -27,7 +27,7 @@ faq:
   - q: "¿Qué es PeKa B40?"
     a: "PeKa B40 (Skim Peduli Kesihatan untuk Kumpulan B40) es un programa del MOH gestionado por ProtectHealth Corporation. Ofrece a los malasios de rentas bajas elegibles de 40 años o más — beneficiarios del Sumbangan Tunai Rahmah y sus cónyuges — cribado de salud gratuito, ayuda para dispositivos médicos de hasta RM20,000, un incentivo de RM1,000 para tratamiento del cáncer y asistencia para el transporte. A 31 de marzo de 2025, cerca de 1,6 millones de unos 6,9 millones de beneficiarios elegibles habían sido cribados."
 lang: "es"
-sourceContentHash: "62dfb914192fc51a"
+sourceContentHash: "ebf6668ee0094f78"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -136,6 +136,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/public-healthcare-system-malaysia/body-1.webp
+    alt: Una sala de hospitalización vacía con hileras de camas en un hospital público de Malasia, el Hospital Sultanah Nora Ismail en Batu Pahat
+    kind: actual
+    origin: third-party
+    subject: Una sala de hospital público en el Hospital Sultanah Nora Ismail, Batu Pahat
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg
+  - role: scene
+    src: /media/healthcare/public-healthcare-system-malaysia/body-2.webp
+    alt: El exterior del Hospital Kemaman, un hospital público gestionado por el Ministerio de Salud de Malasia
+    kind: actual
+    origin: third-party
+    subject: Hospital Kemaman, un edificio de hospital público de Malasia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kemaman_Hospital.jpg
 ---
 
 Entre en una clínica gubernamental de Malasia y la factura en el mostrador es casi nada — **RM1** por el registro ambulatorio general. Eso no es caridad: es diseño. Malasia opera un **sistema de salud de dos niveles**: un servicio público gestionado por el **Ministerio de Salud (MOH, *Kementerian Kesihatan Malaysia*, KKM)** junto a un amplio sector privado. El lado público se **financia únicamente con la tributación general, sin aportaciones obligatorias a un seguro nacional**, de modo que la atención se presta a cambio de tarifas nominales fuertemente subsidiadas en lugar de primas. Ese modelo ha producido un acceso casi universal con una proporción modesta de la renta nacional — pero hoy conlleva una carga de coste doméstico creciente y presiones reales sobre la oferta. Esta guía explica, en términos sencillos, cómo accede usted al sistema, cuánto cuesta, a quién cubre y dónde está tensionado.

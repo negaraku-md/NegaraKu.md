@@ -32,7 +32,7 @@ faq:
     a: "A veces. El MMC prefiere que las consultas virtuales sean de seguimiento tras una relación médico-paciente ya existente, pero permite una primera consulta en línea, sobre todo en atención primaria, si el médico documenta las razones. Se indica a los médicos que actúen con cautela al recetar a pacientes que no han examinado personalmente y que le deriven en persona cuando el medio en línea no baste para evaluarle con seguridad."
 
 lang: "es"
-sourceContentHash: "d63421290bd45b29"
+sourceContentHash: "f1875085ff264e86"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-1.webp
+    alt: Una médica en su escritorio hablando por teléfono mientras toma notas, con una bata blanca en un perchero detrás, que representa una consulta médica telefónica a distancia
+    kind: representative
+    origin: third-party
+    subject: Una médica realizando una consulta a distancia por teléfono en su escritorio
+    credit: Mona Hassan Abo-Abda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Covid_19_Doctor_Phone_Consultation.jpg
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-2.webp
+    alt: Unas manos sostienen un teléfono inteligente que ejecuta una aplicación de videoconsulta de telesalud junto a una sonda de ecografía portátil, que representa el diagnóstico en línea a distancia
+    kind: representative
+    origin: third-party
+    subject: Una ecografía guiada por vídeo a distancia realizada mediante una aplicación de teléfono inteligente
+    credit: U.S. Army photo by Staff Sgt. Elizabeth Bryson / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Medical_team_tests_new_tech_(6426496).jpg
 ---
 
 Abre una app, hace una videollamada con un médico desde su sofá y una hora más tarde una receta aparece en su bandeja de entrada. En Malasia eso es totalmente legal — pero el reglamento que lo respalda no es la ley que usted esperaría.

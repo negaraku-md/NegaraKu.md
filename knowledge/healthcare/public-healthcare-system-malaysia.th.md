@@ -27,7 +27,7 @@ faq:
   - q: "PeKa B40 คืออะไร?"
     a: "PeKa B40 (Skim Peduli Kesihatan untuk Kumpulan B40) เป็นโครงการของ MOH ที่ดำเนินการโดย ProtectHealth Corporation ให้ชาวมาเลเซียรายได้น้อยที่มีคุณสมบัติอายุ 40 ปีขึ้นไป — ผู้รับ Sumbangan Tunai Rahmah และคู่สมรสของพวกเขา — การคัดกรองสุขภาพฟรี การช่วยเหลืออุปกรณ์ทางการแพทย์สูงสุด RM20,000 แรงจูงใจการรักษามะเร็ง RM1,000 และการช่วยเหลือการเดินทาง ณ วันที่ 31 มีนาคม 2025 มีผู้ได้รับการคัดกรองราว 1.6 ล้านคนจากผู้มีสิทธิ์ราว 6.9 ล้านคน"
 lang: "th"
-sourceContentHash: "62dfb914192fc51a"
+sourceContentHash: "ebf6668ee0094f78"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -136,6 +136,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/public-healthcare-system-malaysia/body-1.webp
+    alt: หอผู้ป่วยในที่ว่างมีเตียงเรียงแถวในโรงพยาบาลรัฐของมาเลเซียโรงพยาบาลสุลตานะห์นอราอิสมาอิลในบาตูปาฮัต
+    kind: actual
+    origin: third-party
+    subject: หอผู้ป่วยของโรงพยาบาลรัฐที่โรงพยาบาลสุลตานะห์นอราอิสมาอิลบาตูปาฮัต
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg
+  - role: scene
+    src: /media/healthcare/public-healthcare-system-malaysia/body-2.webp
+    alt: ภายนอกของโรงพยาบาลเกอมามันโรงพยาบาลรัฐที่ดำเนินงานโดยกระทรวงสาธารณสุขมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: โรงพยาบาลเกอมามันอาคารโรงพยาบาลรัฐของมาเลเซีย
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kemaman_Hospital.jpg
 ---
 
 เดินเข้าไปในคลินิกของรัฐมาเลเซียแล้วใบเรียกเก็บเงินที่เคาน์เตอร์แทบไม่มีค่าอะไรเลย — **RM1** สำหรับการลงทะเบียนผู้ป่วยนอกทั่วไป นั่นไม่ใช่การกุศล — แต่เป็นการออกแบบ มาเลเซียดำเนิน **ระบบดูแลสุขภาพสองระดับ**: บริการสาธารณะที่ดำเนินการโดยรัฐบาลจัดการโดย **กระทรวงสาธารณสุข (MOH, *Kementerian Kesihatan Malaysia*, KKM)** ควบคู่ไปกับภาคเอกชนขนาดใหญ่ ฝั่งของรัฐ **จัดหาเงินทุนจากภาษีทั่วไปเท่านั้น โดยไม่มีเงินสมทบประกันแห่งชาติภาคบังคับ** ดังนั้นการดูแลจึงส่งมอบในค่าธรรมเนียมที่ได้รับการอุดหนุนสูงและเล็กน้อยแทนที่จะเป็นเบี้ยประกัน แบบจำลองนั้นก่อให้เกิดการเข้าถึงที่เกือบทั่วถึงในสัดส่วนที่พอประมาณของรายได้ประชาชาติ — แต่ในปัจจุบันแบกภาระค่าใช้จ่ายครัวเรือนที่เพิ่มขึ้นและแรงกดดันด้านอุปทานที่แท้จริง คู่มือนี้อธิบายในเชิงเรียบง่ายว่าคุณเข้าถึงระบบอย่างไร มีค่าใช้จ่ายเท่าใด ครอบคลุมใคร และตึงตัวที่ใด

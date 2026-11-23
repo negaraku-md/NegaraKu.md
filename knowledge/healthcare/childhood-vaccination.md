@@ -78,6 +78,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-1.webp
+    alt: Pusat pemberian vaksin kanak-kanak Kementerian Kesihatan Malaysia dengan penjenamaan KKM dan deretan kerusi menunggu, hanya segelintir orang kelihatan di kejauhan
+    kind: actual
+    origin: third-party
+    subject: Pusat pemberian vaksin kanak-kanak Kementerian Kesihatan (PPV PICKids) di Pavilion Bukit Jalil, Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-2.webp
+    alt: Vial vaksin bertutup berdiri di sebelah picagari vaksin pra-isi, mewakili vaksin yang diberikan mengikut jadual imunisasi
+    kind: representative
+    origin: third-party
+    subject: Vial vaksin dan picagari vaksin influenza pra-isi di atas permukaan kosong
+    credit: Whispyhistory / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Comirnaty_Omicron_XBB.1.5_vial_and_influenza_vaccine_2023.jpg
 ---
 
 Setiap bayi yang lahir di klinik atau hospital kerajaan Malaysia pulang dengan lebih daripada sekadar sijil kelahiran sementara — mereka pulang dengan sebuah buku kecil yang akan dibawa ke *setiap* lawatan klinik untuk enam tahun akan datang. Buku itu, dan jadual suntikan yang direkodkannya, adalah sebahagian daripada salah satu program kesihatan awam yang paling lama berjalan di negara ini.

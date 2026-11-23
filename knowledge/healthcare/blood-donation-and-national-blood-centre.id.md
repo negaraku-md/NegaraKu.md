@@ -29,7 +29,7 @@ faq:
     a: "Di antaranya mereka yang terlibat dalam aktivitas berisiko tinggi, pendonor perempuan yang hamil/haid/menyusui, pernah tinggal di UK 1980-1996 selama 6 bulan atau lebih (terakumulasi), atau pernah tinggal di negara Eropa dari 1980 hingga sekarang selama 5 tahun atau lebih (terakumulasi) — keduanya atas risiko vCJD."
 
 lang: "id"
-sourceContentHash: "5468a77cc086e2e7"
+sourceContentHash: "a11cdbe79efebb4b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penderma_Darah.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-1.webp
+    alt: Aula donor darah yang terang dengan deretan kursi donor berbaring yang kosong, troli peralatan dan meja resepsionis, tanpa seorang pun pendonor
+    kind: representative
+    origin: third-party
+    subject: Bagian dalam pusat donor darah dengan sederet kursi donor berbaring yang kosong dan peralatan
+    credit: R. Henrik Nilsson / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inside_Swedish_blood_donation_center_April_2025.jpg
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-2.webp
+    alt: Sebuah tangan memegang kantong pengambilan darah yang penuh dan tertutup dengan label catatan donor dan selang, mewakili peralatan yang digunakan untuk mengambil dan menyimpan darah yang didonorkan
+    kind: representative
+    origin: third-party
+    subject: Kantong pengambilan tertutup berisi satu unit darah lengkap yang didonorkan pada sesi donor
+    credit: Bibeyjj / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blood_Donation_Bag.jpg
 ---
 
 Menurut PDN, satu donor darah dapat menyelamatkan sekurang-kurangnya tiga nyawa — karena darah lengkap diproses menjadi sel darah merah, trombosit, dan plasma untuk pasien berbeda.

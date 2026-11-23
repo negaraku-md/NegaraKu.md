@@ -84,6 +84,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:NSK_Trade_City_Kota_Damansara_-_MySejahtera.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-1.webp
+    alt: Seseorang memegang telefon pintar yang memaparkan senarai kedai aplikasi kesihatan dan perubatan, menggambarkan alat kesihatan digital pengguna pada telefon
+    kind: representative
+    origin: third-party
+    subject: Sebelah tangan memegang telefon pintar yang memaparkan senarai aplikasi kesihatan peribadi
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Personal_Health_Apps_for_Smartphones.jpg
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-2.webp
+    alt: Seorang klinisian duduk di stesen kerja dengan beberapa skrin menunjukkan surih ECG, imej ultrabunyi dan suapan video, mewakili sistem rekod kesihatan digital dan IT hospital
+    kind: representative
+    origin: third-party
+    subject: Seorang klinisian di stesen kerja IT perubatan berbilang monitor menyemak data pesakit digital
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg
 ---
 
 Ramai yang memadam MySejahtera daripada telefon apabila pandemik reda — tetapi aplikasi itu tidak hilang. Ia hanya bertukar kerja.

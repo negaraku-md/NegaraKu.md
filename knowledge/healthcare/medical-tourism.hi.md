@@ -31,7 +31,7 @@ faq:
     a: "स्वास्थ्य मंत्रालय निजी स्वास्थ्य सुविधाओं को लाइसेंस देता है और Malaysian Medical Council डॉक्टरों को पंजीकृत करती है और उन पर अनुशासनात्मक कार्रवाई करती है। कई अस्पतालों के पास Malaysian Society for Quality in Health (MSQH) या Joint Commission International (JCI) से स्वैच्छिक मान्यता भी होती है। MHTC उस नियामक शृंखला के बाहर है।"
 
 lang: "hi"
-sourceContentHash: "e1a643f3053ee673"
+sourceContentHash: "1c2fd4bc918bf964"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-1.webp
+    alt: Kota Kinabalu, Sabah में काँच के अग्रभाग वाली एक आधुनिक निजी अस्पताल इमारत
+    kind: actual
+    origin: third-party
+    subject: Gleneagles Hospital, Kota Kinabalu, Sabah, मलेशिया में एक निजी चिकित्सा केंद्र
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Gleneagles-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-2.webp
+    alt: एक मलेशियाई निजी अस्पताल का साइनबोर्ड वाला आपातकालीन प्रवेश द्वार, जिसमें एक निर्देशिका बोर्ड लॉबी और विशेषज्ञों के क्लिनिकों की ओर इशारा करता है
+    kind: actual
+    origin: third-party
+    subject: Pantai Hospital का आपातकालीन प्रवेश और लॉबी निर्देशिका, Batu Pahat, Johor में एक निजी अस्पताल
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_Batu_Pahat_-_Emergency_Lobby.jpg
 ---
 
 जकार्ता का एक परिवार पिता की हृदय बाईपास (bypass) के लिए उड़ान भरकर आता है। एक ब्रिटिश दंपति IVF बुक करता है क्योंकि उनके देश में प्रतीक्षा-सूची उनकी प्रजनन-खिड़की से आगे निकल जाती है। बांग्लादेश का एक मरीज़ एक नियमित स्वास्थ्य जाँच के लिए आता है जिसे उसके गृहनगर का क्लीनिक नहीं कर सकता।

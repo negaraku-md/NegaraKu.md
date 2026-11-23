@@ -26,7 +26,7 @@ verificationNeeded:
   - "클리닉 크시하탄, 클리닉 코무니티, 클리닉 데사(Klinik Desa) 간의 인력과 정확한 진료 범위상의 세부 차이는 집필 시점에 KKM 공식 출처에서 완전히 확인할 수 없었으므로, 이 글은 셋이 별개의 시설이라는 점만 밝힙니다."
 
 lang: "ko"
-sourceContentHash: "b45c68aeb8d6fe25"
+sourceContentHash: "9a29482e1fe09ea8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-1.webp
+    alt: 지붕이 있는 진입 차로를 갖춘 말레이시아 정부 보건소(Klinik Kesihatan)의 본관
+    kind: actual
+    origin: third-party
+    subject: 클리닉 케시하탄 잘란 라낭의 본관, 사라왁주 시부의 정부 보건소
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-2.webp
+    alt: 섬에 있는 작은 단층 농촌 보건소(Klinik Desa)로, 섬에서 유일한 보건 시설이다
+    kind: actual
+    origin: third-party
+    subject: 클리닉 데사 풀라우 아만, 페낭 아만섬의 유일한 농촌 보건소
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Desa_Pulau_Aman,_Pulau_Aman_(220904)_1.jpg
 ---
 
 열이 내리지 않거나, 아이가 예방접종을 받아야 하거나, 혈압을 매달 관리해야 할 때 — 가장 먼저 떠오르는 질문은 대개 '무슨 치료를 받아야 하나'가 아니라 '어느 클리닉에 가야 하나'입니다. 민간 클리닉은 빠르지만 비쌉니다. 정부 병원은 사소한 문제로 가기에는 붐빕니다. 그리고 '정부 클리닉'이라는 것 자체가 실은 한 종류의 시설이 아닙니다 — 많은 사람이 클리닉 크시하탄, 클리닉 코무니티, 치과 클리닉이 같은 지붕 아래 있는 세 개의 별개 시설이라는 점을 알지 못합니다.

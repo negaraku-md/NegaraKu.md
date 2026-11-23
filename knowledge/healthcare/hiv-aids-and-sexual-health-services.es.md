@@ -34,7 +34,7 @@ faq:
     a: "No existe una ley específica sobre el VIH. Pueden aplicarse disposiciones generales del Código Penal como las Secciones 269 y 270 a la propagación de enfermedades peligrosas, pero hasta la fecha no ha habido enjuiciamientos conocidos relacionados con el VIH."
 
 lang: "es"
-sourceContentHash: "1cab11648c701e91"
+sourceContentHash: "02af4c69b96a1c17"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-1.webp
+    alt: Un casete de prueba rápida de VIH, un frasco de tampón y suministros dispuestos sobre una mesa limpia cubierta con papel, manipulados por manos enguantadas, sin que se muestre ningún rostro
+    kind: representative
+    origin: third-party
+    subject: Un kit de prueba rápida de VIH dispuesto sobre una mesa antes de realizar la prueba, con manos enguantadas
+    credit: varnent / Equality Michigan (LGBT Free Media Collective) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:HIV_Rapid_Test_on_table.jpg
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-2.webp
+    alt: Un edificio bajo de una clínica pública de salud sexual en la esquina de una calle, con pancartas de concienciación en su fachada y sin personas presentes
+    kind: representative
+    origin: third-party
+    subject: El exterior de una clínica pública de salud sexual con pancartas de concienciación sanitaria
+    credit: Chris.sherlock2 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Liverpool_Sexual_Health_Clinic_01.jpg
 ---
 
 Una persona angustiada tras una noche de riesgo puede entrar en una Klinik Kesihatan gubernamental en Malasia, hacerse una prueba de VIH de forma gratuita y confidencial y — si hace falta — volver a casa con medicación preventiva en pocas horas. Sin embargo, ese mismo camino también se cruza con cuestiones de confidencialidad, ley, religión y estigma que hacen del VIH uno de los temas de salud más sensibles del país.

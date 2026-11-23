@@ -30,7 +30,7 @@ faq:
     a: "Không. Act 852 cấm bán tất cả các sản phẩm thuốc lá và vape qua các nền tảng trực tuyến và máy bán hàng tự động."
 
 lang: "vi"
-sourceContentHash: "47453ebb80993a06"
+sourceContentHash: "e3bef5516f0e5eec"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Prohibition-signs-No-smoking-sign-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-1.webp
+    alt: Một biển cấm hút thuốc gắn trên tường bên trong một nhà hàng ở Johor Bahru, Malaysia, báo hiệu một cơ sở không khói thuốc
+    kind: actual
+    origin: third-party
+    subject: Một thông báo cấm hút thuốc được treo trong một nhà hàng ở Johor Bahru, Malaysia
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201906_%22No_smoking%22_sign_in_a_restaurant_in_Johor_Bahru,_Malaysia.jpg
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-2.webp
+    alt: Cận cảnh một bàn tay cầm thiết bị vape gần miệng một người, minh họa việc sử dụng thuốc lá điện tử được quản lý theo luật
+    kind: representative
+    origin: third-party
+    subject: Một người cầm thiết bị thuốc lá điện tử (vape)
+    credit: Vaper City / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vape_device_in_hand.jpg
 ---
 
 Lần đầu tiên, một điếu thuốc lá và một thiết bị vape chịu cùng một luật tại Malaysia — và lệnh cấm bán cho thanh thiếu niên không còn chỉ là chính sách, mà là một hành vi phạm tội có thể bị phạt hàng nghìn ringgit.

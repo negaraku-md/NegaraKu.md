@@ -21,7 +21,7 @@ verificationNeeded:
   - "لا تذكر هذه المقالة القائمة الكاملة للأمراض الخطيرة الخمسين المشمولة بموجب mySalam، لأن القائمة التفصيلية لم يمكن التحقق منها مباشرةً على الموقع الرسمي mysalam.com.my وقت الكتابة؛ يُرجى مراجعة بوابة mySalam الرسمية للاطلاع على القائمة الكاملة."
   - "تخضع مدة سريان برنامجي mySalam وPeKa B40 لقرارات الميزانية السنوية؛ وقد جرى التحقق من الأرقام والشروط الواردة في هذه المقالة مقابل المواقع الرسمية وقت الكتابة (يوليو 2026)، وقد تُحدَّث في ميزانية مقبلة."
 lang: "ar"
-sourceContentHash: "de44e0206ee7dfcf"
+sourceContentHash: "40240ae7fdae6576"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -72,6 +72,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Main_building_of_Klinik_Kesihatan_Sibu_Jaya.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-1.webp
+    alt: المظهر الخارجي لـ Klinik Kesihatan Nilai، وهي عيادة صحية عامة تابعة لوزارة الصحة الماليزية تخدم المجتمع
+    kind: actual
+    origin: third-party
+    subject: Klinik Kesihatan Nilai، عيادة صحية حكومية ماليزية
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-2.webp
+    alt: واجهة Klinik Kesihatan Tanglin في Kuala Lumpur، وهي عيادة صحية حكومية عامة ماليزية
+    kind: actual
+    origin: third-party
+    subject: Klinik Kesihatan Tanglin، عيادة صحية حكومية في Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Tanglin,_Kuala_Lumpur_20260428_120448.jpg
 ---
 
 سمع كثيرون اسم «PeKa B40»، لكن التصورات عنه تتباين تبايناً واسعاً — فبعضهم يظن أنه يغطّي جميع تكاليف المستشفى، وبعضهم يخلط بينه وبين mySalam، وبعضهم يتجاهله تماماً لاعتقاده أنه يحتاج إلى طلب منفصل. والتصورات الثلاثة جميعها خاطئة. فلـ PeKa B40 نطاق واضح ومحدود — ومعرفة ذلك النطاق تعني معرفة متى تستخدمه، ومتى تبحث عن مساعدة أخرى.

@@ -31,7 +31,7 @@ faq:
     a: "JKM旗下的辅助器具／假肢援助（BAT）涵盖手动或电动轮椅、假腿与假手、助听器、白手杖和盲文机，按所核定的器具实际价格提供。"
 
 lang: "zh"
-sourceContentHash: "f4c391c1dbfcea33"
+sourceContentHash: "5e0342d845bb0837"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-1.webp
+    alt: 马来西亚一座LRT车站内带扶手、坡度平缓的无障碍坡道，代表为残障人士提供的无台阶通行
+    kind: representative
+    origin: third-party
+    subject: 马来西亚一座公共轨道交通车站的轮椅无障碍坡道
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SP20_Muhibbah_LRT_Accessible_Ramp_20231007_131344.jpg
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-2.webp
+    alt: 一个漆有蓝色国际轮椅标志、专供残障人士使用的停车位，代表OKU无障碍设施规定
+    kind: representative
+    origin: third-party
+    subject: 马来西亚一个标有轮椅标志、预留给OKU（残障人士）的停车位
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Disabled_parking_at_Masjid_As_Salam,_Kampung_Kijing_20240227_224921.jpg
 ---
 
 一张塑料卡片决定了一名自闭症儿童能否获得早期治疗，或一名失去腿部的成年人能否拥有假腿。在马来西亚，这张OKU卡正是通往几乎每一项为残障人士设计的服务与援助的入口——理解它如何运作，能省下时间、金钱，以及被延误的治疗。

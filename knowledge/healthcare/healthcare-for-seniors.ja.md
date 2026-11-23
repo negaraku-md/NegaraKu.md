@@ -23,7 +23,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f10aac9439fe1e51"
+sourceContentHash: "1a2d3ca7550ef3ba"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Old_Folks_Home,_Taman_Eng_Ann_-_panoramio.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/healthcare-for-seniors/body-1.webp
+    alt: 木々の間に低負荷のフィットネス器具が置かれた屋外の高齢者運動エリア。人の姿はない
+    kind: representative
+    origin: third-party
+    subject: 東南アジアの住宅団地にある高齢者向けの屋外フィットネスコーナー
+    credit: Exec8 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Senior_Citizen_Exercise_Machines_not_in_use_in_Singapore.jpg
+  - role: scene
+    src: /media/healthcare/healthcare-for-seniors/body-2.webp
+    alt: マレーシアの平屋建て高齢者介護施設の入口と看板。前にはマレーシア国旗とサバ州旗が掲げられている
+    kind: actual
+    origin: third-party
+    subject: ルマ・スリ・プリチャード、マレーシア・サバ州パパル郡キナルトにある老人ホーム
+    credit: Aangela.Ng / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gambar_hadapan_Rumah_Sri_Pritchard_Kinarut.jpg
 ---
 
 その瞬間は、たいてい静かに訪れる。それまでひとりで問題なく暮らしていた親が、

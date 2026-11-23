@@ -32,7 +32,7 @@ faq:
     a: "Người thụ hưởng Sumbangan Tunai Rahmah (STR) từ 40 tuổi trở lên đủ điều kiện nhận sàng lọc miễn phí theo PeKa B40 tại các phòng khám chính phủ hoặc tư nhân đã đăng ký. Các Klinik Kesihatan công cũng cung cấp kiểm tra cơ bản."
 
 lang: "vi"
-sourceContentHash: "19ab4b4f804b4515"
+sourceContentHash: "98b8eec3f3b6e074"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-1.webp
+    alt: Một máy đo huyết áp tự động kỹ thuật số với vòng bít cánh tay, loại thiết bị dùng trong sàng lọc định kỳ bệnh cao huyết áp
+    kind: representative
+    origin: third-party
+    subject: Một máy đo huyết áp bắp tay tự động và vòng bít dùng cho khám sàng lọc sức khỏe
+    credit: Albarubescens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sphygmomanometer,_automatic_blood_pressure_monitor._Oscillometric_measurements,_millimeter_of_mercury_(mmHg)_unit.jpg
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-2.webp
+    alt: Một công viên bên hồ được tạo cảnh ở Kuala Lumpur với đường chân trời thành phố phía xa, đại diện cho hoạt động thể chất và lối sống lành mạnh giúp phòng ngừa các bệnh không lây nhiễm
+    kind: representative
+    origin: third-party
+    subject: Taman Tasik Titiwangsa, một công viên giải trí công cộng bên hồ ở Kuala Lumpur
+    credit: SpOt ON / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lake_Titiwangsa.jpg
 ---
 
 Hơn một nửa người trưởng thành Malaysia ngày nay mang một trọng lượng cơ thể có thể rút ngắn tuổi thọ của họ — và cứ sáu người thì một người đã sống chung với tiểu đường, nhiều người mà không hề hay biết. Đây là dịch bệnh thầm lặng đè nặng lên các bệnh viện, gia đình và nền kinh tế của quốc gia nhiều hơn bất kỳ bệnh truyền nhiễm nào.

@@ -32,7 +32,7 @@ faq:
   - q: "누가 싯다 시술자로 등록할 수 있나요?"
     a: "775호 법에 따라, 전통 인도 의학 분야에서 종사하려는 사람은 전통·보완의학(T&CM) 평의회에 등록해야 합니다. 이 법은 단계적으로 시행되었으며, 잠정적인 경과 기간 이후에는 등록하지 않은 사람이 인정된 분야에서 서비스를 제공하는 것이 금지됩니다. 공개 시점의 최신 요건은 보건부 전통·보완의학과에 확인하시기 바랍니다."
 lang: "ko"
-sourceContentHash: "e7e71bfa77ac1056"
+sourceContentHash: "a717b54b027c6c0e"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lekiyam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-1.webp
+    alt: 전통 남인도 약초 약방의 소박한 점포 전면으로, Siddha에 가까운 전통 인도 의학 행위를 보여준다
+    kind: representative
+    origin: third-party
+    subject: 전통 남인도 약초 약방(vaidyasala)의 점포 전면
+    credit: Fotokannan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sadananda_vaidyasala2.jpg
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-2.webp
+    alt: 손바닥에 올려놓은 짙은 색의 생강 lehyam 덩어리로, 전통 타밀 Siddha 약초 반죽 제제이다
+    kind: representative
+    origin: third-party
+    subject: 손바닥에 올려놓은 완성된 생강 lehyam, 타밀 Siddha 약초 제제
+    credit: Chronikhiles / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ginger_Lehyam.jpg
 ---
 
 말레이시아의 오래된 플랜테이션 지대와 도시의 타밀인 거리에서는 약초상을 만날 수 있습니다 — 말린 약초와 가루약(choornam), 기름이 선반에 줄지어 놓여 있습니다. 이것들은 우연이 아닙니다. 한 세기 반이 넘는 어느 의학 전통이 남긴 흔적입니다.

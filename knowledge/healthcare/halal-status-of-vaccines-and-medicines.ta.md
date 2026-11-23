@@ -29,7 +29,7 @@ faq:
     a: "2020 டிசம்பர் 3 அன்று நடந்த சிறப்பு முஸாகரா, பயன்படுத்தப்படும் தடுப்பூசிகள் ஹலால் மற்றும் தூய்மையானதாக (tayyiban) இருக்க வேண்டும் என்ற நிபந்தனையுடன், COVID-19 தடுப்பூசியின் பயன்பாடு அனுமதிக்கப்பட்டது என்றும் அரசாங்கத்தால் நிர்ணயிக்கப்பட்ட பிரிவினரால் அது கட்டாயமாக எடுக்கப்பட வேண்டும் என்றும் தீர்மானித்தது."
 
 lang: "ta"
-sourceContentHash: "27955639bf723dbf"
+sourceContentHash: "44aec46b8cb2607b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-1.webp
+    alt: ஜொகூர், க்ளுவாங்கில் ஒரு தெரு மூலையில் உள்ள நவீன மலேசிய சமூக மருந்தகம், அதன் பெயர்ப்பலகையில் Big Pharmacy என எழுதப்பட்டுள்ளது
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, ஜொகூர், க்ளுவாங் நகர மையத்தில் உள்ள Big Pharmacy சில்லறை சங்கிலியின் ஒரு கிளை
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-2.webp
+    alt: மருந்தக அலமாரிகளில் நேர்த்தியாக அடுக்கப்பட்ட மருந்துப் பெட்டிகளின் வரிசைகள், பொதியிடப்பட்ட மருந்துகள் மற்றும் அவற்றின் சிட்டையிடலைக் குறிக்கிறது
+    kind: representative
+    origin: third-party
+    subject: மருந்தக அலமாரிகளில் அடுக்கப்பட்ட பொதுப்பெயர் மருந்துப் பெட்டிகள்
+    credit: Wilfredor / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_medicines_with_the_yellow_G_stripe_on_pharmacy_shelves,_S%C3%A3o_Paulo.jpg
 ---
 
 ஒரு தடுப்பூசிப் புட்டி நிலைப்படுத்தியாக (penstabil) சிறிதளவு ஜெலட்டின் (gelatine) கொண்டிருக்கலாம் — அந்தச் சிறிய விவரத்திலிருந்தே மலேசியாவில் முஸ்லிம் குடும்பங்கள் அடிக்கடி கேட்கும் மதம் சார்ந்த கேள்விகளில் ஒன்று எழுகிறது: அது ஹலாலா? பதில் வெறும் “ஆம்” அல்லது “இல்லை” என்பது அல்ல, மாறாக ஃபத்வா அமைப்புகள், அறிவியல் ஆய்வு மற்றும் சில குறிப்பிட்ட ஃபிக்ஹ் (fiqh) கொள்கைகளை உள்ளடக்கிய ஒரு கட்டமைக்கப்பட்ட மதிப்பீட்டு செயல்முறையின் விளைவாகும்.

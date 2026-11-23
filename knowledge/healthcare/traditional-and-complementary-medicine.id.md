@@ -26,7 +26,7 @@ faq:
     a: "Bagi pelanggaran pertama, denda tidak melebihi RM30,000 atau penjara tidak melebihi 2 tahun, atau keduanya. Pelanggaran berikutnya hingga RM50,000 atau penjara hingga 3 tahun."
 
 lang: "id"
-sourceContentHash: "63b512945cff4dd9"
+sourceContentHash: "e5b4b45f5bde2ed0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,6 +67,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ze_Xiang,_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-1.webp
+    alt: Empat jarum akupunktur halus diletakkan di atas permukaan di samping sekeping koin sebagai ukuran skala, mewakili akupunktur sebagai terapi pelengkap
+    kind: representative
+    origin: third-party
+    subject: Jarum akupunktur yang ditampilkan dengan sekeping koin sebagai ukuran skala
+    credit: Acuhealth / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Acupuncture_Needles.jpg
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-2.webp
+    alt: Sebuah peti kayu berisi jamu dalam botol, obat tonik herbal tradisional, dengan botol-botol berisi cairan kuning kecokelatan bersumbat daun, mewakili obat pelengkap herbal
+    kind: representative
+    origin: third-party
+    subject: Botol-botol jamu, obat tonik herbal tradisional Melayu-Indonesia
+    credit: dpinpin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jamu.jpg
 ---
 
 Sejak 1 Maret 2025, tukang pijat tradisional, praktisi pengobatan Tionghoa, ahli homeopati, dan kiropraktor di Malaysia tidak boleh lagi membuka pintu klinik tanpa selembar dokumen — sertifikat pendaftaran. Era "berpraktik atas nama pengalaman" sudah berakhir.

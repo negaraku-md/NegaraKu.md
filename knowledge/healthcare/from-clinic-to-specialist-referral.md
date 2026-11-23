@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-1.webp
+    alt: An interior registration and enquiry counter at a Malaysian government hospital, signage directing patients to the right queue, with no patients in view
+    kind: actual
+    origin: third-party
+    subject: Registration and enquiry counter inside a Malaysian government hospital (Hospital Tengku Anis, Pasir Puteh, Kelantan)
+    credit: CyberTroopers / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Tengku_Anis,_Pasir_Puteh.jpg
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-2.webp
+    alt: The main multi-storey building of a large non-profit specialist hospital in Penang, representing the hospital tier of a referral pathway
+    kind: actual
+    origin: third-party
+    subject: Main building of Lam Wah Ee Hospital, a non-profit specialist hospital in Penang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Lam_Wah_Ee_Hospital_main_building.jpg
 ---
 
 A referral is a hinge moment in anyone's care: your doctor has decided — or suggested — that your problem needs a specialist, and suddenly you are navigating a different part of the health system. This guide picks up exactly there. It does **not** tell you whether you need a specialist; that judgement belongs to your clinician. What it does is explain **how referrals actually work in Malaysia, and what to prepare**, so the hand-over from clinic to specialist is as smooth as it can be.

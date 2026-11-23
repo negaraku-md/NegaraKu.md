@@ -31,7 +31,7 @@ faq:
     a: "保健省の2012年ガイドラインは、妊娠中絶を、妊娠週数が22週未満、又は週数が不明な場合は胎児の推定体重が500グラム未満である時点で行われる処置と定義している。"
 
 lang: "ja"
-sourceContentHash: "ae2bf4ced7e95cfe"
+sourceContentHash: "9d43a6fec14992c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-1.webp
+    alt: 屋根付きの入口を備えた平屋建ての政府健康診療所。ここでは、リプロダクティブヘルスケアとカウンセリングが提供される公共診療所の中立的な例示として用いている
+    kind: representative
+    origin: third-party
+    subject: マレーシア・ペラ州レキルにある政府健康診療所（Klinik Kesihatan）の外観
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Lekir,_Kampung_Batu_9_Lekir_20231220_143154.jpg
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-2.webp
+    alt: マレーシアの県立公共健康診療所を示す道路脇の看板。特定のサービスを提供する施設名を挙げず、公衆衛生制度を中立的に象徴している
+    kind: representative
+    origin: third-party
+    subject: パハン州ラウブ県の政府健康診療所（Klinik Kesihatan Daerah Raub）の看板
+    credit: Kazuki278 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanda_Klinik_Kesihatan_Daerah_Raub.jpg
 ---
 
 多くの人は、マレーシアでは中絶が完全に禁止されていると考えている——しかし実際には、法律はそれをより複雑な位置に置いている。すなわち、重要な医療上の例外を伴う刑事犯罪である。その境界線がどこに引かれているかを理解するには、一般的な思い込みではなく、刑法の実際の条文を読む必要がある。

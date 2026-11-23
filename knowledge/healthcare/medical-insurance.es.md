@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Empleados que sopesan la cobertura médica del empleador frente a una tarjeta médica personal, y cualquiera que intente entender qué significa «copago» antes de comprar o renovar una póliza."
 
 lang: "es"
-sourceContentHash: "f3d82432e2ef0103"
+sourceContentHash: "bdd7b7c140cf69f0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,6 +81,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-1.webp
+    alt: Una vista aérea de un gran y moderno edificio de hospital privado en Seberang Perai, Penang
+    kind: actual
+    origin: third-party
+    subject: Sunway Medical Centre, un hospital privado en Seberang Perai, Penang, Malasia
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_in_Seberang_Perai,_Penang.jpg
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-2.webp
+    alt: Un mostrador de recepción curvo de hospital en un luminoso vestíbulo de entrada, que representa los ingresos y la facturación, con algunas personas a lo lejos
+    kind: representative
+    origin: third-party
+    subject: Un mostrador de recepción y de admisiones de hospital en el vestíbulo de la entrada principal
+    credit: Rodhullandemu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Reception_Desk,_Arrowe_Park_Hospital.jpg
 ---
 
 Dos empleados entran en el mismo hospital privado con el mismo brazo roto. Uno entrega una tarjeta y sale sin pagar un sen al recibir el alta. La otra paga una parte de la factura ella misma, porque la póliza que compró hace seis meses era más barata precisamente por esa razón.

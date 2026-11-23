@@ -31,7 +31,7 @@ faq:
     a: "Pedoman Kementerian Kesihatan 2012 mendefinisikan penghentian kehamilan sebagai prosedur pada usia kehamilan kurang dari 22 minggu, atau apabila usia tidak diketahui, janin diperkirakan kurang dari 500 gram."
 
 lang: "id"
-sourceContentHash: "ae2bf4ced7e95cfe"
+sourceContentHash: "9d43a6fec14992c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-1.webp
+    alt: Bangunan klinik kesehatan pemerintah satu lantai dengan pintu masuk beratap, digunakan di sini sebagai ilustrasi netral klinik umum tempat layanan dan konseling kesehatan reproduksi diberikan
+    kind: representative
+    origin: third-party
+    subject: Bagian luar klinik kesehatan pemerintah Malaysia (Klinik Kesihatan) di Lekir, Perak
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Lekir,_Kampung_Batu_9_Lekir_20231220_143154.jpg
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-2.webp
+    alt: Papan nama di tepi jalan yang menandai klinik kesehatan umum daerah di Malaysia, mewakili sistem kesehatan umum secara netral tanpa menyebut fasilitas mana pun yang menyediakan layanan tertentu
+    kind: representative
+    origin: third-party
+    subject: Papan nama klinik kesehatan pemerintah daerah (Klinik Kesihatan Daerah Raub), Pahang
+    credit: Kazuki278 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanda_Klinik_Kesihatan_Daerah_Raub.jpg
 ---
 
 Banyak orang menganggap aborsi sama sekali dilarang di Malaysia — kenyataannya, undang-undang menempatkannya dalam satu ruang yang lebih rumit: suatu tindak pidana dengan satu pengecualian medis yang penting. Memahami di mana garis itu ditarik mengharuskan kita membaca teks sebenarnya Kanun Keseksaan, bukan anggapan umum.

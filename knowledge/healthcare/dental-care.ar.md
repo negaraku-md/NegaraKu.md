@@ -26,7 +26,7 @@ verificationNeeded:
   - "لم يتسنَّ التحقق مباشرةً من العدد الدقيق لمجالات تخصص الأسنان في مستشفيات KKM والنطاق التفصيلي لعيادات الأسنان التخصصية، لأن الموقع الرسمي hq.moh.gov.my/ohp كان متعذّر الوصول (connection refused) وقت الكتابة؛ ويبقى الوصف في هذا المقال عاماً ولا يذكر أرقاماً محددة."
   - "سياسة إعفاء كبار السن والأطفال وفئات معيّنة من الرسوم في عيادات الأسنان الحكومية مذكورة على نطاق واسع في مصادر ثانوية، لكنها غير محقَّقة هنا لأن هذا المقال لا يذكر الرسوم عمداً — يُرجى مراجعة مكتب تسجيل العيادة المعنية للاطّلاع على المعلومات الحالية."
 lang: "ar"
-sourceContentHash: "eeddef6e54a39b44"
+sourceContentHash: "dc23a5d8d2d7eb26"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Yap_Dental_Clinic.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/dental-care/body-1.webp
+    alt: كرسي علاج أسنان فارغ مع مصباح الفحص العلوي وشاشة الطبيب وحوض المضمضة في عيادة أسنان مرتّبة
+    kind: representative
+    origin: third-party
+    subject: كرسي علاج أسنان مع مصباح علوي وشاشة مراقبة للمريض ومبصقة في غرفة عمليات بعيادة
+    credit: IrfanDP / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dental_chair_in_a_dentist_clinic.jpg
+  - role: scene
+    src: /media/healthcare/dental-care/body-2.webp
+    alt: غرفة عمليات أسنان خالية تُظهر كرسي علاج وعربة لتوصيل القبضات وجهاز عرض أفلام الأشعة السينية ومنافذ جداريّة للأكسجين والشفط
+    kind: representative
+    origin: third-party
+    subject: غرفة علاج أسنان بها كرسي أسنان ووحدة توصيل أدوات وجهاز عرض أشعة سينية ومنافذ غازات جداريّة
+    credit: Ptrump16 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Dental_Engine.jpg
 ---
 
 يفترض كثيرون أن «عيادة الأسنان» شيء واحد — مكان لحشو سنّ مسوّس أو خلع ضرس العقل. لكن في ماليزيا، تسير رعاية الأسنان في الواقع على مسارين منفصلين: أحدهما تديره الحكومة عبر وزارة الصحة الماليزية (KKM)، والآخر يديره القطاع الخاص — ونطاق العلاج بين الاثنين ليس واحداً.

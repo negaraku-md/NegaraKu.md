@@ -32,7 +32,7 @@ faq:
     a: "これは2023年6月15日に国会で可決された政策文書であり、マレーシアの保健医療制度について15年間にわたる段階的な改革の方針を示している。"
 
 lang: "ja"
-sourceContentHash: "6b5ead408a9cf117"
+sourceContentHash: "59c6c1853ae29fa8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-1.webp
+    alt: 番号の付いた10個のCOVID-19抗原迅速検査カセットがテーブル上に一列に並べられ、それぞれにコントロールラインが表示されている
+    kind: representative
+    origin: third-party
+    subject: コントロールラインと検査ラインを示すCOVID-19抗原迅速検査カセット10個の列
+    credit: Marwan Mohamad / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Test_Antigen.jpg
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-2.webp
+    alt: COVID-19の検査と感染対策を支援するためマレーシアに供給された、箱入りの検査・診断機器
+    kind: actual
+    origin: third-party
+    subject: 感染対策の一環としてマレーシアに届けられたCOVID-19検出機器
+    credit: IAEA Imagebank / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:COVID-19_Equipment_to_Malaysia_(05890318)_(50705365708).jpg
 ---
 
 2020年3月18日、マレーシア全土の道路は人影がなくなった。国家が近代史上かつてない局面——COVID-19（新型コロナウイルス感染症）の感染拡大を封じ込めるための全面的な移動制限——に入ったからである。その後およそ2年間で、国の公衆衛生対応は全面的なロックダウンから、地域でも屈指の速さを誇るワクチン接種プログラムへと発展し、今日に至るまで保健医療制度を形づくり続ける影響を残した。

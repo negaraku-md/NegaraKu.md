@@ -32,7 +32,7 @@ faq:
     a: "The government insists it is not. Initiatives such as Rakan KKM are framed as a model to retain specialists in the public sector, not privatisation, although some observers remain cautious about its long-term effects."
 
 lang: "en"
-sourceContentHash: "cbb5bd100c475cf3"
+sourceContentHash: "010ee2d614064f6b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-1.webp
+    alt: A Malaysian federal government office building in Putrajaya housing a division of the Ministry of Health
+    kind: actual
+    origin: third-party
+    subject: A Ministry of Health Malaysia (Kementerian Kesihatan Malaysia) building in Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-2.webp
+    alt: Two officials at a signing desk in a Ministry of Health Malaysia reception hall, with the ministry name and Malaysian coat of arms on the wall behind
+    kind: actual
+    origin: third-party
+    subject: An official meeting at the Ministry of Health Malaysia, beneath the Kementerian Kesihatan Malaysia wordmark and national crest
+    credit: U.S. Embassy Kuala Lumpur / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2022-02-10-Amb-McFeeters-meets-Health-Minister-Dr-Zaliha-04.jpg
 ---
 
 Government clinics handle nearly two-thirds of the country's outpatient visits — yet they represent only about one in four primary care facilities. It is this imbalance, among other things, that pushed Malaysia's Ministry of Health (MOH) to write the most important policy document in a generation: the Health White Paper.

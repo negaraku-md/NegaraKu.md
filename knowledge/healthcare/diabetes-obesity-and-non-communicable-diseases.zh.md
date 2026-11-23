@@ -32,7 +32,7 @@ faq:
     a: "40 岁及以上的拉玛现金援助（Sumbangan Tunai Rahmah，STR）受益人有资格在 PeKa B40 计划下于注册的政府或私人诊所获得免费筛查。公立卫生诊所（Klinik Kesihatan）也提供基础检查。"
 
 lang: "zh"
-sourceContentHash: "19ab4b4f804b4515"
+sourceContentHash: "98b8eec3f3b6e074"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-1.webp
+    alt: 一台数字式自动血压计与其臂带，正是用于高血压常规筛查的那类设备
+    kind: representative
+    origin: third-party
+    subject: 一台用于健康筛查的自动上臂式血压计及臂带
+    credit: Albarubescens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sphygmomanometer,_automatic_blood_pressure_monitor._Oscillometric_measurements,_millimeter_of_mercury_(mmHg)_unit.jpg
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-2.webp
+    alt: 吉隆坡一座景观化的湖畔公园，远处为城市天际线，代表有助于预防非传染性疾病的体育活动与健康生活方式
+    kind: representative
+    origin: third-party
+    subject: 蒂蒂旺沙湖滨公园，吉隆坡一座公共湖畔休闲公园
+    credit: SpOt ON / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lake_Titiwangsa.jpg
 ---
 
 如今超过半数马来西亚成年人身上的体重足以缩短他们的寿命——而每六人中就有一人已患有糖尿病，其中许多人浑然不觉。这是一场无声的流行病，它对医院、家庭和国家经济的负担远远超过任何一种传染病。

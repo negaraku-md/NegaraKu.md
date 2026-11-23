@@ -32,7 +32,7 @@ faq:
   - q: "Where can you study TCM?"
     a: "Several local higher-education institutions now offer a Bachelor of Chinese Medicine (Honours) programme, some of which are accredited by the Malaysian Qualifications Agency (MQA), for example Southern University College in Skudai, Johor. Graduating is only the first step: to practise as a TCM practitioner, one must still meet the registration requirements of the Traditional and Complementary Medicine Council. The accreditation status and entry requirements of each programme should be taken from the institution's official website and the MQA's official register."
 lang: "en"
-sourceContentHash: "c07c03961816c569"
+sourceContentHash: "14675c725a8f0f6b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -81,6 +81,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Medicine_Shop,_George_Town,_Penang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-1.webp
+    alt: The window of a traditional Chinese medicine clinic showing a wall of herb drawers, an acupuncture model and treatment posters, representing TCM practice
+    kind: representative
+    origin: third-party
+    subject: A traditional Chinese medicine shop window with herb drawers and therapy charts
+    credit: Jordiferrer / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Chinatown_London_-_Everwell_Chinese_medicine.jpg
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-2.webp
+    alt: Dried Chinese medicinal herbs being weighed on a small scale at a traditional Chinese medicine shop counter
+    kind: representative
+    origin: third-party
+    subject: Dried herbs being weighed on a scale at a Chinese medicine shop
+    credit: tomscoffin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2012-06-07_weighing_the_dried_herbs_at_an_Chinese_medicine_shop_at_Kinmen.jpg
 ---
 
 On the corner of many an old town there is always a Chinese medicine shop: the wall of wooden cabinets is packed with its grid of tiny drawers, and the air is a mix of angelica root (当归), dried tangerine peel (陈皮) and liquorice (甘草); behind the counter, an old master listens to the customer describe where it hurts while weighing out the medicinal materials one by one into kraft paper, then folding them into a single packet. Shops like this have existed in Malaysia's Chinese communities for more than a hundred years.

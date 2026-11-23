@@ -26,7 +26,7 @@ verificationNeeded:
   - "SPIKPA's exact premium and annual coverage cap were not confirmed at an official primary source (only academic and insurance-broker secondary sources were found); this article describes the scheme's function — mandatory insurance tied to work-permit renewal, confirmed on the Immigration Department's own site — without stating an unverified premium or coverage amount."
 
 lang: "es"
-sourceContentHash: "f35156bb0be8d93f"
+sourceContentHash: "ad9956b0e60b93d8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-1.webp
+    alt: Un gran complejo hospitalario gubernamental de Malasia de varios pisos visto desde la carretera en Kota Kinabalu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Queen Elizabeth Hospital, un importante hospital gubernamental de Malasia en Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-2.webp
+    alt: Una vista aérea del complejo de varios edificios de un gran hospital gubernamental de Malasia en George Town, Penang, con el horizonte de la ciudad al fondo
+    kind: actual
+    origin: third-party
+    subject: Penang General Hospital (Hospital Pulau Pinang), un importante hospital gubernamental de Malasia en George Town, Penang
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_General_Hospital_2025.jpg
 ---
 
 Un jubilado malasio con dolor en el pecho llama a una ambulancia y es llevado al hospital gubernamental más cercano, donde un cardiólogo lo atiende por una tarifa que cubre una fracción del coste real. Su vecino, titular de un permiso de trabajo procedente de Indonesia y con los mismos síntomas, es llevado al servicio de urgencias del mismo hospital — pero la factura que sigue se calcula con una lista de tarifas completamente distinta, porque ellos dos no son, a ojos del ministerio, el mismo tipo de paciente.

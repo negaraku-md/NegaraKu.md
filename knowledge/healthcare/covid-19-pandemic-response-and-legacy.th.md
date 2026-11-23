@@ -32,7 +32,7 @@ faq:
     a: "เป็นเอกสารนโยบายที่ได้รับการอนุมัติจากรัฐสภาเมื่อวันที่ 15 มิถุนายน 2023 วางกรอบการปฏิรูประบบสาธารณสุขของมาเลเซียเป็นระยะตลอด 15 ปี"
 
 lang: "th"
-sourceContentHash: "6b5ead408a9cf117"
+sourceContentHash: "59c6c1853ae29fa8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-1.webp
+    alt: ตลับทดสอบแอนติเจนโควิด-19แบบรวดเร็วสิบตลับที่มีหมายเลขวางเรียงเป็นแถวบนโต๊ะแต่ละตลับแสดงแถบควบคุม
+    kind: representative
+    origin: third-party
+    subject: ตลับทดสอบแอนติเจนโควิด-19แบบรวดเร็วสิบตลับที่แสดงแถบควบคุมและแถบทดสอบ
+    credit: Marwan Mohamad / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Test_Antigen.jpg
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-2.webp
+    alt: อุปกรณ์ห้องปฏิบัติการและตรวจวินิจฉัยบรรจุกล่องที่จัดส่งให้มาเลเซียเพื่อสนับสนุนการตรวจโควิด-19และการรับมือการระบาด
+    kind: actual
+    origin: third-party
+    subject: อุปกรณ์ตรวจหาโควิด-19ที่จัดส่งถึงมาเลเซียระหว่างการรับมือการระบาด
+    credit: IAEA Imagebank / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:COVID-19_Equipment_to_Malaysia_(05890318)_(50705365708).jpg
 ---
 
 ในวันที่ 18 มีนาคม 2020 ถนนหนทางทั่วมาเลเซียกลายเป็นความเงียบเหงาเมื่อประเทศเข้าสู่ช่วงเวลาที่ไม่เคยประสบมาก่อนในประวัติศาสตร์สมัยใหม่ นั่นคือการจำกัดการเคลื่อนย้ายอย่างครอบคลุมเพื่อสกัดการแพร่ระบาดของ COVID-19 ในช่วงราวสองปีถัดมา การรับมือด้านสาธารณสุขของประเทศพัฒนาจากการล็อกดาวน์อย่างครอบคลุมไปสู่หนึ่งในโครงการฉีดวัคซีนที่รวดเร็วที่สุดในภูมิภาค — และทิ้งผลกระทบที่ยังคงหล่อหลอมระบบสาธารณสุขมาจนถึงทุกวันนี้

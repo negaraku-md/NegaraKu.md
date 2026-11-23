@@ -23,7 +23,7 @@ appliesTo: "Pekerja yang menimbang perlindungan perubatan majikan berbanding kad
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f3d82432e2ef0103"
+sourceContentHash: "bdd7b7c140cf69f0"
 
 status: "published"
 aiAssisted: true
@@ -81,6 +81,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-1.webp
+    alt: Pemandangan udara sebuah bangunan hospital swasta moden yang besar di Seberang Perai, Pulau Pinang
+    kind: actual
+    origin: third-party
+    subject: Sunway Medical Centre, sebuah hospital swasta di Seberang Perai, Pulau Pinang, Malaysia
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_in_Seberang_Perai,_Penang.jpg
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-2.webp
+    alt: Meja penerimaan hospital yang melengkung di dewan masuk yang terang, mewakili kemasukan dan pengebilan, dengan beberapa orang di kejauhan
+    kind: representative
+    origin: third-party
+    subject: Kaunter penerimaan dan kemasukan hospital di lobi pintu masuk utama
+    credit: Rodhullandemu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Reception_Desk,_Arrowe_Park_Hospital.jpg
 ---
 
 Dua orang pekerja masuk ke hospital swasta yang sama dengan lengan patah yang sama. Seorang menyerahkan kad dan keluar tanpa membayar sesen pun semasa discaj. Seorang lagi membayar sebahagian daripada bil itu sendiri, kerana polisi yang dibelinya enam bulan lalu lebih murah atas sebab itu tepat.

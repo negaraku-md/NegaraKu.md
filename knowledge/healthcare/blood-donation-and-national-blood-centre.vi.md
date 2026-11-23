@@ -29,7 +29,7 @@ faq:
     a: "Trong số đó có những người tham gia các hoạt động rủi ro cao, người hiến nữ đang mang thai/hành kinh/cho con bú, từng sống ở Anh giai đoạn 1980-1996 trong 6 tháng trở lên (tích lũy), hoặc từng sống ở các nước châu Âu từ năm 1980 đến nay trong 5 năm trở lên (tích lũy) — cả hai đều vì rủi ro vCJD."
 
 lang: "vi"
-sourceContentHash: "5468a77cc086e2e7"
+sourceContentHash: "a11cdbe79efebb4b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penderma_Darah.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-1.webp
+    alt: Một hội trường hiến máu sáng sủa với dãy ghế nằm hiến máu trống, xe đẩy dụng cụ và bàn tiếp đón, không có người hiến máu nào
+    kind: representative
+    origin: third-party
+    subject: Bên trong một trung tâm hiến máu với một dãy ghế nằm hiến máu trống và thiết bị
+    credit: R. Henrik Nilsson / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inside_Swedish_blood_donation_center_April_2025.jpg
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-2.webp
+    alt: Một bàn tay cầm túi lấy máu đã đầy và niêm phong với nhãn ghi hồ sơ hiến máu và ống dẫn, đại diện cho thiết bị dùng để thu và lưu trữ máu hiến
+    kind: representative
+    origin: third-party
+    subject: Một túi lấy máu đã niêm phong chứa một đơn vị máu toàn phần được hiến tại một buổi hiến máu
+    credit: Bibeyjj / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blood_Donation_Bag.jpg
 ---
 
 Theo PDN, một lần hiến máu có thể cứu ít nhất ba mạng người — vì máu toàn phần được chế biến thành hồng cầu, tiểu cầu và huyết tương cho các bệnh nhân khác nhau.

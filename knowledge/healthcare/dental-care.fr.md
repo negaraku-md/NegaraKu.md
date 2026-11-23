@@ -26,7 +26,7 @@ verificationNeeded:
   - "Le nombre exact de spécialités dentaires dans les hôpitaux du KKM et l'étendue détaillée des cliniques dentaires spécialisées n'ont pas pu être vérifiés directement, car le site officiel hq.moh.gov.my/ohp était inaccessible (connexion refusée) au moment de la rédaction ; la description dans cet article reste générale et n'indique pas de chiffres précis."
   - "La politique d'exemption de frais pour les personnes âgées, les enfants et certains groupes dans les cliniques dentaires publiques est largement mentionnée dans des sources secondaires, mais n'est pas vérifiée ici parce que cet article n'indique délibérément pas de tarifs — veuillez vous renseigner au guichet d'enregistrement de la clinique concernée pour obtenir les informations à jour."
 lang: "fr"
-sourceContentHash: "eeddef6e54a39b44"
+sourceContentHash: "dc23a5d8d2d7eb26"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Yap_Dental_Clinic.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/dental-care/body-1.webp
+    alt: Un fauteuil dentaire de traitement vide avec son scialytique, l'écran de l'opérateur et le crachoir dans un cabinet dentaire bien rangé
+    kind: representative
+    origin: third-party
+    subject: Un fauteuil dentaire de traitement avec lampe supérieure, écran patient et crachoir dans une salle de soins
+    credit: IrfanDP / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dental_chair_in_a_dentist_clinic.jpg
+  - role: scene
+    src: /media/healthcare/dental-care/body-2.webp
+    alt: Une salle de soins dentaires inoccupée montrant un fauteuil de traitement, un chariot porte-instruments, un négatoscope pour radiographies et des prises murales d'oxygène et de vide
+    kind: representative
+    origin: third-party
+    subject: Une salle de traitement dentaire avec un fauteuil dentaire, une unité de distribution d'instruments, un négatoscope et des prises de gaz murales
+    credit: Ptrump16 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Dental_Engine.jpg
 ---
 
 Beaucoup de gens tiennent pour acquis qu'une « clinique dentaire » est une seule et même chose — un endroit pour obturer une carie ou arracher une dent de sagesse. Mais en Malaisie, les soins dentaires empruntent en réalité deux filières distinctes : l'une exploitée par le gouvernement à travers le ministère de la Santé de Malaisie (KKM), et l'autre par le secteur privé — et l'éventail de soins entre les deux n'est pas le même.

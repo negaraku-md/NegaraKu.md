@@ -87,6 +87,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:World_Mental_Health_Day.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-1.webp
+    alt: A quiet, welcoming counselling room with three armchairs around a small table and a plant, with no people present
+    kind: representative
+    origin: third-party
+    subject: A calm counselling room set up for talk therapy, with armchairs and soft furnishings
+    credit: RMtherapies / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Therapy_Room_at_Resilient_Mind_Therapies,_Leicester.jpg
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-2.webp
+    alt: The frontage of a Malaysian government psychiatric and mental-health hospital in Johor Bahru
+    kind: actual
+    origin: third-party
+    subject: Hospital Permai in Johor Bahru, a Malaysian government mental-health hospital
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Permai_Hospital_Johor_Bahru.jpg
 ---
 
 Deciding to ask for help is often the hardest part. Figuring out *where* to ask is the part almost nobody explains — and that gap alone stops people from ever making the call.

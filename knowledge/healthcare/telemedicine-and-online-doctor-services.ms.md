@@ -32,7 +32,7 @@ faq:
     a: "Kadangkala. MMC lebih mengutamakan perundingan maya sebagai susulan selepas hubungan doktor-pesakit yang sedia ada, tetapi membenarkan perundingan kali pertama dalam talian, terutamanya dalam penjagaan primer, jika doktor mendokumenkan alasannya. Doktor diarahkan untuk berhati-hati tentang menetapkan preskripsi kepada pesakit yang belum mereka periksa secara peribadi dan untuk merujuk anda secara bersemuka apabila medium dalam talian tidak mencukupi untuk menilai anda dengan selamat."
 
 lang: "ms"
-sourceContentHash: "d63421290bd45b29"
+sourceContentHash: "f1875085ff264e86"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-1.webp
+    alt: Seorang doktor di meja bercakap di telefon sambil mencatat nota, dengan kot putih tergantung pada penyangkut di belakang, mewakili perundingan perubatan telefon jarak jauh
+    kind: representative
+    origin: third-party
+    subject: Seorang doktor memberikan perundingan jarak jauh melalui telefon di mejanya
+    credit: Mona Hassan Abo-Abda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Covid_19_Doctor_Phone_Consultation.jpg
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-2.webp
+    alt: Tangan memegang telefon pintar yang menjalankan aplikasi perundingan video telekesihatan di samping prob ultrabunyi mudah alih, mewakili diagnosis dalam talian jarak jauh
+    kind: representative
+    origin: third-party
+    subject: Imbasan ultrabunyi berpandukan video jarak jauh yang dijalankan melalui aplikasi telefon pintar
+    credit: U.S. Army photo by Staff Sgt. Elizabeth Bryson / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Medical_team_tests_new_tech_(6426496).jpg
 ---
 
 Anda membuka sebuah aplikasi, membuat panggilan video dengan doktor dari sofa anda, dan preskripsi sampai ke peti masuk anda sejam kemudian. Di Malaysia, itu adalah sah sepenuhnya — tetapi buku peraturan di sebaliknya bukanlah undang-undang yang mungkin anda jangkakan.

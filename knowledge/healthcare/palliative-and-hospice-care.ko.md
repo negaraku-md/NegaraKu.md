@@ -29,7 +29,7 @@ faq:
     a: "완화의료는 나이와 관계없이, 심지어 아동을 포함하여, 생명을 제한하는 질병을 가진 환자의 편안함과 증상 조절에 초점을 둡니다. 반면 고령자 돌봄은 말기 질환이 없을 수도 있는 노인을 위한 일반 돌봄입니다."
 
 lang: "ko"
-sourceContentHash: "f3444e3062b1aac2"
+sourceContentHash: "08979787420aefe5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-1.webp
+    alt: 정원을 마주한 저층 호스피스 건물로, 깃대와 조용한 진입로가 있으며 평온한 호스피스 돌봄 시설을 보여준다
+    kind: representative
+    origin: third-party
+    subject: 맑은 하늘 아래 정원에 둘러싸인 차분한 단층 호스피스 돌봄 건물
+    credit: Shkuru Afshar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Canberra_Hospice.jpg
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-2.webp
+    alt: 유리 현관과 화단이 있는 현대식 병원 완화의료 병동 입구로, 전문 완화의료 공간을 보여준다
+    kind: representative
+    origin: third-party
+    subject: 전용 완화의료 병동의 정원 쪽 입구
+    credit: Jim Barton / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Margaret_Kerr_Unit,_Borders_General_Hospital_-_geograph.org.uk_-_7191073.jpg
 ---
 
 치료가 더 이상 완치를 목표로 하지 않을 때, 초점은 한 가지로 옮겨 갑니다. 환자가 편안하고 존엄을 지키도록 하는 것입니다. 그것이 완화의료의 핵심이며 — 말레이시아에서는 세 가지 서로 다른 경로로 이용할 수 있습니다.

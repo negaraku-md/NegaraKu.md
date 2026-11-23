@@ -32,7 +32,7 @@ faq:
     a: "กระทรวงสาธารณสุขออกใบอนุญาตสถานพยาบาลเอกชนและสภาการแพทย์มาเลเซียขึ้นทะเบียนและลงโทษทางวินัยแพทย์ โรงพยาบาลหลายแห่งยังถือการรับรองโดยสมัครใจจาก Malaysian Society for Quality in Health (MSQH) หรือ Joint Commission International (JCI) MHTC อยู่นอกสายการกำกับดูแลนั้น"
 
 lang: "th"
-sourceContentHash: "e1a643f3053ee673"
+sourceContentHash: "1c2fd4bc918bf964"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,6 +81,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-1.webp
+    alt: อาคารโรงพยาบาลเอกชนสมัยใหม่ที่มีด้านหน้าเป็นกระจกในโกตากีนาบาลูรัฐซาบาห์
+    kind: actual
+    origin: third-party
+    subject: โรงพยาบาลเกลนอีเกิลส์ศูนย์การแพทย์เอกชนในโกตากีนาบาลูรัฐซาบาห์มาเลเซีย
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Gleneagles-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-2.webp
+    alt: ทางเข้าห้องฉุกเฉินที่มีป้ายของโรงพยาบาลเอกชนในมาเลเซียพร้อมป้ายนำทางไปยังล็อบบี้และคลินิกแพทย์เฉพาะทาง
+    kind: actual
+    origin: third-party
+    subject: ทางเข้าห้องฉุกเฉินและป้ายนำทางในล็อบบี้ของโรงพยาบาลปันตัยโรงพยาบาลเอกชนในบาตูปาฮัตรัฐยะโฮร์
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_Batu_Pahat_-_Emergency_Lobby.jpg
 ---
 
 ครอบครัวจากจาการ์ตาบินมาเพื่อการผ่าตัดบายพาสหัวใจของพ่อ คู่สามีภรรยาชาวอังกฤษจอง IVF เพราะรายการรอที่บ้านยาวเกินกรอบเวลาภาวะเจริญพันธุ์ของพวกเขา ผู้ป่วยชาวบังกลาเทศมาเพื่อการตรวจสุขภาพตามปกติที่คลินิกในบ้านเกิดของเขาทำไม่ได้

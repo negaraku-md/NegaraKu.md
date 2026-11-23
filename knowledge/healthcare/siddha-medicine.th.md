@@ -32,7 +32,7 @@ faq:
   - q: "ใครสามารถขึ้นทะเบียนเป็นผู้ประกอบวิชาชีพสิทธาได้?"
     a: "ภายใต้ พ.ร.บ. 775 ผู้ที่ต้องการทำงานในสาขาการแพทย์อินเดียแผนโบราณต้องขึ้นทะเบียนกับสภา T&CM กฎหมายนี้มีผลบังคับใช้เป็นระยะ ๆ หลังจากช่วงเปลี่ยนผ่านชั่วคราว ผู้ที่ไม่ได้ขึ้นทะเบียนจะถูกห้ามให้บริการในสาขาที่ได้รับการรับรอง โปรดตรวจสอบข้อกำหนดปัจจุบันกับกอง T&CM ของกระทรวง ณ เวลาที่เผยแพร่"
 lang: "th"
-sourceContentHash: "e7e71bfa77ac1056"
+sourceContentHash: "a717b54b027c6c0e"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lekiyam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-1.webp
+    alt: หน้าร้านเรียบง่ายของร้านขายยาสมุนไพรแบบดั้งเดิมของอินเดียใต้แทนการแพทย์อินเดียดั้งเดิมที่คล้ายกับSiddha
+    kind: representative
+    origin: third-party
+    subject: หน้าร้านขายยาสมุนไพรแบบดั้งเดิมของอินเดียใต้(vaidyasala)
+    credit: Fotokannan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sadananda_vaidyasala2.jpg
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-2.webp
+    alt: ก้อนขิงเลเฮียมสีเข้มในฝ่ามือซึ่งเป็นยาสมุนไพรแบบบดเป็นเนื้อเดียวของทมิฬSiddhaดั้งเดิม
+    kind: representative
+    origin: third-party
+    subject: ขิงเลเฮียมที่ทำเสร็จแล้วในฝ่ามือเป็นตำรับยาสมุนไพรทมิฬSiddha
+    credit: Chronikhiles / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ginger_Lehyam.jpg
 ---
 
 ในพื้นที่สวนยางเก่าแก่ของมาเลเซีย และตามถนนย่านชาวทมิฬในเมืองต่าง ๆ คุณจะพบร้านสมุนไพร — สมุนไพรแห้ง ผงยา (choornam) และน้ำมันเรียงรายอยู่บนชั้นวาง สิ่งเหล่านี้ไม่ใช่เรื่องบังเอิญ หากเป็นร่องรอยของขนบการแพทย์ที่มีอายุกว่าหนึ่งศตวรรษครึ่ง

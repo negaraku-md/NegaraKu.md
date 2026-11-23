@@ -29,7 +29,7 @@ faq:
     a: "Nurses are registered by the Malaysian Nursing Board under the Nurses Act 1950; pharmacists by the Pharmacy Board Malaysia under the Registration of Pharmacists Act 1951 (Act 371); and allied health professions such as physiotherapy by the MAHPC under the Allied Health Professions Act 2016 (Act 774)."
 
 lang: "en"
-sourceContentHash: "d115e96de8bf4353"
+sourceContentHash: "97c25da1e170aaf9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,6 +71,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Building_Photo-01(91).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-1.webp
+    alt: The multi-storey tower block of a Malaysian government hospital, the kind of setting where registered medical and allied-health practitioners work
+    kind: actual
+    origin: third-party
+    subject: Queen Elizabeth Hospital, a public tertiary hospital in Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-06.jpg
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-2.webp
+    alt: Two health-science staff members in a laboratory with a biosafety cabinet and equipment, representing the allied-health and laboratory professions that require registration
+    kind: representative
+    origin: third-party
+    subject: Laboratory staff talking beside a biosafety cabinet in a medical research laboratory in Malaysia
+    credit: U.S. Navy photo by Tommy Lamkin / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:NAMRU_INDO_PACIFIC_Grows_Partnership_in_Malaysia_(8690749).jpg
 ---
 
 Someone can put on a white coat, hang a certificate on the clinic wall, and call themselves a "doctor" — but only one thing truly confirms their credentials: their name appearing in the official register. In Malaysia, every doctor, nurse, pharmacist and physiotherapist must be registered with the body that regulates their profession. The good news is that you can check this yourself, for free.

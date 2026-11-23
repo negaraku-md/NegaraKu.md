@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "マレーシアに居住し、公立施設と私立クリニックで歯科治療を受けることの違い——それぞれの道筋で提供される治療の種類を含む——を理解したいと考えるすべての人向け。"
 
 lang: "ja"
-sourceContentHash: "eeddef6e54a39b44"
+sourceContentHash: "dc23a5d8d2d7eb26"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Yap_Dental_Clinic.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/dental-care/body-1.webp
+    alt: きちんと整えられた歯科診療室にある、無影灯・術者用モニター・うがい用ベースンを備えた空の歯科治療チェア
+    kind: representative
+    origin: third-party
+    subject: 診療室の歯科治療チェア。無影灯・患者用モニター・うがい用の洗面台を備える
+    credit: IrfanDP / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dental_chair_in_a_dentist_clinic.jpg
+  - role: scene
+    src: /media/healthcare/dental-care/body-2.webp
+    alt: 治療チェア、ハンドピース供給トロリー、X線フィルムビューア、酸素・吸引の壁取付アウトレットを備えた無人の歯科診療室
+    kind: representative
+    origin: third-party
+    subject: 歯科治療チェア・器具供給ユニット・X線ビューア・壁面ガスアウトレットを備えた歯科治療室
+    credit: Ptrump16 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Dental_Engine.jpg
 ---
 
 多くの人は「歯医者」をひとつのものだと考えている——虫歯を詰めたり、

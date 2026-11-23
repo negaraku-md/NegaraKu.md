@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Pekerja yang menimbang perlindungan medis pemberi kerja dibanding kartu medis pribadi, dan siapa pun yang mencoba memahami arti 'pembayaran bersama' sebelum membeli atau memperbarui polis."
 
 lang: "id"
-sourceContentHash: "f3d82432e2ef0103"
+sourceContentHash: "bdd7b7c140cf69f0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,6 +81,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-1.webp
+    alt: Pemandangan udara sebuah bangunan rumah sakit swasta modern yang besar di Seberang Perai, Penang
+    kind: actual
+    origin: third-party
+    subject: Sunway Medical Centre, sebuah rumah sakit swasta di Seberang Perai, Penang, Malaysia
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_in_Seberang_Perai,_Penang.jpg
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-2.webp
+    alt: Meja resepsionis rumah sakit yang melengkung di aula masuk yang terang, mewakili pendaftaran masuk dan penagihan, dengan beberapa orang di kejauhan
+    kind: representative
+    origin: third-party
+    subject: Loket resepsionis dan pendaftaran masuk rumah sakit di lobi pintu masuk utama
+    credit: Rodhullandemu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Reception_Desk,_Arrowe_Park_Hospital.jpg
 ---
 
 Dua orang pekerja masuk ke rumah sakit swasta yang sama dengan lengan patah yang sama. Seorang menyerahkan kartu dan keluar tanpa membayar sesen pun saat pemulangan. Seorang lagi membayar sebagian dari tagihan itu sendiri, karena polis yang dibelinya enam bulan lalu lebih murah justru karena alasan itu.

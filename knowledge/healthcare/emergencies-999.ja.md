@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "2f1b3605919630fa"
+sourceContentHash: "b7225f842e9db8b3"
 
 status: "published"
 aiAssisted: true
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Toyota_HiAce_(MOH_Malaysia).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-1.webp
+    alt: マレーシアの消防救助庁（Bomba）の消防署。999番通報回線でつながる緊急サービスの一つ
+    kind: actual
+    origin: third-party
+    subject: 消防救助庁（Bomba, JBPM）の消防署、ジョホール州パゴー
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JBPM_Pagoh_Fire_and_Rescue_Station.jpg
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-2.webp
+    alt: マラッカの街路に停まるセント・ジョン・アンビュランス・マレーシアの救急車。政府の対応と並行して運営される民間の救急医療サービスの一つ
+    kind: actual
+    origin: third-party
+    subject: マラッカに駐車するセント・ジョン・アンビュランス・マレーシアの救急車
+    credit: Philip Mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St_John_Ambulance_Malaysia_in_Melaka.jpg
 ---
 
 あなたは999を押す。電話口の声が名前、場所、そして何が起きたのかを尋ねる——そして目標時間内には、救急車のチームがすでに向かっているはずだ。しかし、その通報の裏で何が起きているのかを知らない人は多い——実際に応答しているのは誰なのか、それは無料なのか、そしてなぜ病院に後から到着した他の患者が、時としてあなたより先に治療されるのか。

@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Siapa pun di Malaysia yang sedang hamil, berencana untuk hamil, atau mendukung pasangan atau anggota keluarga sepanjang masa kehamilan, dan ingin memahami bagaimana sistem antenatal publik, perawatan swasta, dan pendaftaran kelahiran saling berkaitan."
 
 lang: "id"
-sourceContentHash: "f82d2d99c31a083b"
+sourceContentHash: "c17cd8eb9d265945"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -70,6 +70,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-1.webp
+    alt: Ruang bersalin yang bersih dan modern menampilkan tempat tidur rumah sakit yang kosong dan boks bayi baru lahir transparan, tanpa seorang pun
+    kind: representative
+    origin: third-party
+    subject: Ruang bangsal bersalin dengan tempat tidur rumah sakit dan boks bayi baru lahir bening di sampingnya
+    credit: Ad Meskens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mechelen_AZ_St_Maarten_Maternity_ward.jpg
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-2.webp
+    alt: Ruang tunggu klinik antenatal rumah sakit yang rapi dan kosong dengan kursi abu-abu dan tulisan Antenatal Clinic di dinding
+    kind: representative
+    origin: third-party
+    subject: Ruang tunggu klinik antenatal yang kosong dengan deretan kursi dan tulisan Antenatal Clinic di dinding
+    credit: Lewis Clarke / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taunton_,_Musgrove_Park_Hospital_-_Antenatal_Clinic_-_geograph.org.uk_-_6936070.jpg
 ---
 
 Hasil tes kehamilan yang positif memulai dua "jam" pada saat yang sama, dan hampir tidak ada seorang pun yang menjelaskan hal ini terlebih dahulu. Satu jam berkaitan dengan kehamilan itu sendiri — kapan harus mendaftar, di mana, dan apa yang terjadi pada setiap kunjungan. Satu lagi baru dimulai setelah bayi lahir, dan tidak ada kaitan langsung dengan rumah sakit: ia adalah pendaftaran hukum dengan departemen yang sama sekali berbeda.

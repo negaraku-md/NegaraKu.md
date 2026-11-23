@@ -26,7 +26,7 @@ faq:
     a: "초범의 경우 RM30,000을 넘지 않는 벌금 또는 2년을 넘지 않는 징역 또는 두 가지 병과입니다. 이후의 위반은 최대 RM50,000의 벌금 또는 최대 3년의 징역입니다."
 
 lang: "ko"
-sourceContentHash: "63b512945cff4dd9"
+sourceContentHash: "e5b4b45f5bde2ed0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,6 +67,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ze_Xiang,_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-1.webp
+    alt: 크기 비교용으로 동전을 곁들여 표면에 놓인 가는 침 네 개로, 보완요법으로서의 침술을 보여준다
+    kind: representative
+    origin: third-party
+    subject: 크기 비교를 위해 동전과 함께 놓인 침
+    credit: Acuhealth / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Acupuncture_Needles.jpg
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-2.webp
+    alt: 병에 든 jamu(전통 약초 보양 음료) 여러 병이 담긴 나무 상자로, 호박색 액체가 든 병의 입구를 잎으로 막아 놓았으며 약초 보완의학을 보여준다
+    kind: representative
+    origin: third-party
+    subject: jamu 병들, 전통 말레이-인도네시아 약초 보양 음료
+    credit: dpinpin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jamu.jpg
 ---
 
 2025년 3월 1일부터, 말레이시아의 전통 마사지사, 중국 의학 시술자, 동종요법사, 카이로프랙터는 더 이상 서류 한 장 — 등록증 — 없이는 클리닉 문을 열 수 없습니다. '경험의 이름으로 시술하던' 시대는 끝났습니다.

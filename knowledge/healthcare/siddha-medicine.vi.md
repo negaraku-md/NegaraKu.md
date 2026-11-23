@@ -32,7 +32,7 @@ faq:
   - q: "Ai có thể đăng ký làm người hành nghề Siddha?"
     a: "Theo Đạo luật 775, những người muốn làm việc trong lĩnh vực Y học Ấn Độ Cổ truyền phải đăng ký với Hội đồng T&CM. Đạo luật được thực thi theo từng giai đoạn; sau giai đoạn chuyển tiếp tạm thời, những người không đăng ký bị cấm cung cấp dịch vụ trong các lĩnh vực được công nhận. Vui lòng kiểm tra các yêu cầu hiện hành với Vụ T&CM của Bộ Y tế tại thời điểm công bố."
 lang: "vi"
-sourceContentHash: "e7e71bfa77ac1056"
+sourceContentHash: "a717b54b027c6c0e"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lekiyam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-1.webp
+    alt: Mặt tiền giản dị của một hiệu thuốc thảo dược truyền thống Nam Ấn, đại diện cho một thực hành y học truyền thống Ấn Độ tương tự Siddha
+    kind: representative
+    origin: third-party
+    subject: Mặt tiền cửa hiệu của một hiệu thuốc thảo dược truyền thống Nam Ấn (vaidyasala)
+    credit: Fotokannan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sadananda_vaidyasala2.jpg
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-2.webp
+    alt: Một viên lehyam gừng sẫm màu, một chế phẩm bột nhão thảo dược Siddha Tamil truyền thống, được giữ trong bàn tay mở
+    kind: representative
+    origin: third-party
+    subject: Một viên lehyam gừng đã hoàn thành, một chế phẩm thảo dược Siddha Tamil, được giữ trong lòng bàn tay
+    credit: Chronikhiles / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ginger_Lehyam.jpg
 ---
 
 Trên những vùng đất đồn điền cũ của Malaysia, và trên những con phố Tamil ở các thị trấn, bạn có thể bắt gặp một hiệu thuốc thảo dược — các loại thảo dược khô, bột thuốc (choornam) và dầu xếp thành hàng dài trên kệ. Đây không phải là sự ngẫu nhiên; chúng là dấu vết của một truyền thống y học đã hơn một thế kỷ rưỡi.

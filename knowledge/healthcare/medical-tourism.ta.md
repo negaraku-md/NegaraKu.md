@@ -32,7 +32,7 @@ faq:
     a: "சுகாதார அமைச்சு தனியார் சுகாதார வசதிகளுக்கு உரிமம் வழங்குகிறது மற்றும் மலேசிய மருத்துவ மன்றம் (Malaysian Medical Council) மருத்துவர்களைப் பதிவு செய்து ஒழுங்குநடவடிக்கை எடுக்கிறது. பல மருத்துவமனைகள் Malaysian Society for Quality in Health (MSQH) அல்லது Joint Commission International (JCI) இடமிருந்து தன்னார்வ அங்கீகாரத்தையும் வைத்திருக்கின்றன. MHTC அந்த ஒழுங்குமுறை சங்கிலிக்கு வெளியே அமர்ந்துள்ளது."
 
 lang: "ta"
-sourceContentHash: "e1a643f3053ee673"
+sourceContentHash: "1c2fd4bc918bf964"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,6 +81,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-1.webp
+    alt: சபா, கோட்டா கினபாலுவில் கண்ணாடி முகப்புடன் கூடிய ஒரு நவீன தனியார் மருத்துவமனை கட்டிடம்
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, சபா, கோட்டா கினபாலுவில் உள்ள தனியார் மருத்துவ மையமான Gleneagles Hospital
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Gleneagles-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-2.webp
+    alt: ஒரு மலேசிய தனியார் மருத்துவமனையின் அடையாளமிடப்பட்ட அவசர நுழைவாயில், நடைகூடம் மற்றும் சிறப்பு மருத்துவர் கிளினிக்குகளை நோக்கிக் காட்டும் வழிகாட்டி பலகையுடன்
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர், பத்து பகாட்டில் உள்ள தனியார் மருத்துவமனையான Pantai Hospital இன் அவசர நுழைவாயில் மற்றும் நடைகூட வழிகாட்டி
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_Batu_Pahat_-_Emergency_Lobby.jpg
 ---
 
 ஜகார்த்தாவைச் சேர்ந்த ஒரு குடும்பம் தந்தையின் இதய பைபாஸ் அறுவைசிகிச்சைக்காக பறந்து வருகிறது. ஒரு பிரிட்டிஷ் தம்பதி IVF ஐ முன்பதிவு செய்கிறார்கள், ஏனெனில் அவர்களது சொந்த நாட்டில் காத்திருப்புப் பட்டியல் அவர்களது கருவுறுதல் காலவரம்பைத் தாண்டி நீள்கிறது. ஒரு பங்களாதேஷ் நோயாளி, தனது சொந்த ஊர் கிளினிக்கால் செய்ய முடியாத ஒரு வழக்கமான சுகாதார பரிசோதனைக்காக வருகிறார்.

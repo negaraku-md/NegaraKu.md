@@ -43,7 +43,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "82fc03d17115b374"
+sourceContentHash: "26f12be03c0c4dd9"
 sources:
   - title: "Jadual Imunisasi Kebangsaan (Kemaskini Ogos 2023)"
     url: "https://infosihat.moh.gov.my/penerbitan-multimedia/infografik/item/jadual-imunisasi-kebangsaan-kemaskini-ogos-2023.html"
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-1.webp
+    alt: A Malaysian Ministry of Health childrens vaccination centre with KKM branding and rows of waiting chairs, a handful of people visible only in the distance
+    kind: actual
+    origin: third-party
+    subject: Ministry of Health children's vaccination centre (PPV PICKids) at Pavilion Bukit Jalil, Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-2.webp
+    alt: A capped vaccine vial standing beside a pre-filled vaccine syringe, representing the vaccines given under an immunisation schedule
+    kind: representative
+    origin: third-party
+    subject: A vaccine vial and a pre-filled influenza vaccine syringe on a plain surface
+    credit: Whispyhistory / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Comirnaty_Omicron_XBB.1.5_vial_and_influenza_vaccine_2023.jpg
 ---
 
 Every baby born at a government clinic or hospital in Malaysia goes home with more than just a temporary birth certificate — they go home with a small booklet that will be brought to *every* clinic visit for the next six years. That booklet, and the vaccination schedule it records, is part of one of the longest-running public health programmes in the country.

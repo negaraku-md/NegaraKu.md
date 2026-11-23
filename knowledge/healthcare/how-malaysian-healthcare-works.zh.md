@@ -43,7 +43,7 @@ revisions:
 sensitivity: "none"
 
 updated: 2026-07-24
-sourceContentHash: "f35156bb0be8d93f"
+sourceContentHash: "ad9956b0e60b93d8"
 sources:
   - title: "卫生实况2024（2023年参考数据）(Health Facts 2024 (Reference Data for Year 2023))"
     url: "https://myhdw.moh.gov.my/public/documents/20186/150084/HEALTH+FACTS+2024/52a11e45-a0ed-4379-b226-1bd2786cc11e?version=1.0&download=true"
@@ -94,6 +94,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-1.webp
+    alt: 从路边望去，沙巴州亚庇一座大型多层的马来西亚政府医院建筑群
+    kind: actual
+    origin: third-party
+    subject: 伊丽莎白女皇医院，位于沙巴州亚庇的一所大型马来西亚政府医院
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-2.webp
+    alt: 从空中俯瞰槟城乔治市一座大型马来西亚政府医院的多栋建筑群，背景为城市天际线
+    kind: actual
+    origin: third-party
+    subject: 槟城中央医院（Hospital Pulau Pinang），位于槟城乔治市的一所大型马来西亚政府医院
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_General_Hospital_2025.jpg
 ---
 
 一位马来西亚退休人士胸口疼痛，叫了救护车被送往最近的政府医院，一名心脏科专科医生为他诊治，收费只是实际成本的一小部分。他的邻居，一名来自印尼的工作准证持有人，出现相同的症状，被送到同一家医院的急诊部——但随后开出的账单，却是按照完全不同的收费表计算的，因为在卫生部眼中，这两人并不是同一类病人。

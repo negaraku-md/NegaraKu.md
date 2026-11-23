@@ -29,7 +29,7 @@ faq:
     a: "इनमें उच्च-जोखिम गतिविधियों में शामिल लोग, गर्भवती/मासिक धर्म वाली/स्तनपान कराने वाली महिला दाता, वह कोई भी जो 1980 और 1996 के बीच 6 महीने या अधिक (संचयी) ब्रिटेन में रहा, या जो 1980 से अब तक 5 वर्ष या अधिक (संचयी) किसी यूरोपीय देश में रहा — दोनों vCJD जोखिम के कारण — शामिल हैं।"
 
 lang: "hi"
-sourceContentHash: "5468a77cc086e2e7"
+sourceContentHash: "a11cdbe79efebb4b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penderma_Darah.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-1.webp
+    alt: एक उज्ज्वल रक्तदान कक्ष जिसमें खाली झुकी हुई दाता कुर्सियों की कतार, उपकरण ट्रॉलियाँ और एक रिसेप्शन डेस्क है, कोई दाता मौजूद नहीं
+    kind: representative
+    origin: third-party
+    subject: खाली झुकी हुई दाता कुर्सियों की एक कतार और उपकरणों वाले रक्तदान केंद्र का भीतरी दृश्य
+    credit: R. Henrik Nilsson / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inside_Swedish_blood_donation_center_April_2025.jpg
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-2.webp
+    alt: एक हाथ जो भरे हुए, सीलबंद रक्त-संग्रह बैग को उसके दान-रिकॉर्ड लेबल और ट्यूबिंग के साथ पकड़े हुए है, जो दान किए गए रक्त को एकत्र और संग्रहीत करने में प्रयुक्त उपकरण का प्रतिनिधित्व करता है
+    kind: representative
+    origin: third-party
+    subject: एक दान सत्र में दान किए गए सम्पूर्ण रक्त की एक इकाई रखने वाला सीलबंद संग्रह बैग
+    credit: Bibeyjj / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blood_Donation_Bag.jpg
 ---
 
 PDN के अनुसार, एक अकेला रक्तदान कम से कम तीन जीवन बचा सकता है — क्योंकि संपूर्ण रक्त को विभिन्न रोगियों के लिए लाल रक्त कोशिकाओं, प्लेटलेट्स और प्लाज़्मा में संसाधित किया जाता है।

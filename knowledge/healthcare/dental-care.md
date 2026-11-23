@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Yap_Dental_Clinic.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/dental-care/body-1.webp
+    alt: Kerusi rawatan pergigian yang kosong dengan lampu pemeriksaan atasnya, monitor pengendali dan besen kumur di dalam bilik pembedahan pergigian yang kemas
+    kind: representative
+    origin: third-party
+    subject: Kerusi rawatan pergigian dengan lampu atas, monitor pesakit dan besen ludah di dalam bilik rawatan klinik
+    credit: IrfanDP / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dental_chair_in_a_dentist_clinic.jpg
+  - role: scene
+    src: /media/healthcare/dental-care/body-2.webp
+    alt: Bilik rawatan pergigian yang tidak berpenghuni menunjukkan kerusi rawatan, troli penghantar handpiece, pemapar filem sinar-X serta salur keluar oksigen dan vakum pada dinding
+    kind: representative
+    origin: third-party
+    subject: Bilik rawatan pergigian dengan kerusi pergigian, unit penghantar instrumen, pemapar sinar-X dan salur keluar gas pada dinding
+    credit: Ptrump16 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Dental_Engine.jpg
 ---
 
 Ramai orang menganggap "klinik gigi" itu satu benda sahaja — tempat untuk

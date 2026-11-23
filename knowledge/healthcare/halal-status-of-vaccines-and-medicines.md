@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-1.webp
+    alt: Sebuah farmasi komuniti Malaysia moden di sudut jalan, papan tandanya tertera Big Pharmacy, di Kluang, Johor
+    kind: actual
+    origin: third-party
+    subject: Sebuah cawangan rangkaian runcit Big Pharmacy di pusat bandar Kluang, Johor, Malaysia
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-2.webp
+    alt: Deretan kotak ubat disusun kemas di atas rak farmasi, mewakili ubat berbungkus dan pelabelannya
+    kind: representative
+    origin: third-party
+    subject: Kotak ubat generik disusun di atas rak farmasi
+    credit: Wilfredor / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_medicines_with_the_yellow_G_stripe_on_pharmacy_shelves,_S%C3%A3o_Paulo.jpg
 ---
 
 Sebotol vaksin boleh mengandungi sedikit gelatin sebagai penstabil — dan daripada butiran kecil itulah timbul salah satu persoalan agama yang paling kerap ditanya keluarga Muslim di Malaysia: adakah ia halal? Jawapannya bukan sekadar "ya" atau "tidak", tetapi hasil satu proses penilaian berstruktur yang melibatkan badan fatwa, kajian saintifik, dan beberapa prinsip fiqh yang khusus.

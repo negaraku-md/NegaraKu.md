@@ -29,7 +29,7 @@ faq:
     a: "其中包括从事高风险活动者、怀孕／经期／哺乳期的女性献血者、曾于1980至1996年间在英国累计居住6个月或以上者，或曾于1980年至今在欧洲国家累计居住5年或以上者——后两者均因vCJD（变异型克雅氏病）风险。"
 
 lang: "zh"
-sourceContentHash: "5468a77cc086e2e7"
+sourceContentHash: "a11cdbe79efebb4b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penderma_Darah.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-1.webp
+    alt: 一个明亮的献血大厅，排列着空置的可躺式献血椅、器械推车和一张接待台，现场没有献血者
+    kind: representative
+    origin: third-party
+    subject: 献血中心内部，一排空置的可躺式献血椅与设备
+    credit: R. Henrik Nilsson / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inside_Swedish_blood_donation_center_April_2025.jpg
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-2.webp
+    alt: 一只手拿着装满并已密封的采血袋，附有献血记录标签和导管，代表用于采集与储存捐献血液的设备
+    kind: representative
+    origin: third-party
+    subject: 献血活动中一袋已密封、盛装一单位捐献全血的采血袋
+    credit: Bibeyjj / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blood_Donation_Bag.jpg
 ---
 
 根据PDN，一次献血至少能拯救三条生命——因为全血会被加工成红细胞、血小板和血浆，供不同的病患使用。

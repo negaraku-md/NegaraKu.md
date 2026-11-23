@@ -29,7 +29,7 @@ faq:
     a: "El Informe del Auditor General presentado en el Parlamento en febrero de 2023 reveló que la información personal de 3 millones de receptores de vacunas había sido descargada a través de una cuenta «Super Admin» del sistema MyVAS entre el 28 y el 31 de octubre de 2021."
 
 lang: "es"
-sourceContentHash: "bd72fa179eba1629"
+sourceContentHash: "782540a82043fef4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:NSK_Trade_City_Kota_Damansara_-_MySejahtera.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-1.webp
+    alt: Una persona sostiene un teléfono inteligente que muestra una lista de la tienda de aplicaciones de salud y medicina, ilustrando las herramientas digitales de salud para el consumidor en un teléfono
+    kind: representative
+    origin: third-party
+    subject: Una mano sostiene un teléfono inteligente que muestra una lista de aplicaciones personales de salud
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Personal_Health_Apps_for_Smartphones.jpg
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-2.webp
+    alt: Un médico sentado en una estación de trabajo con varias pantallas que muestran un trazado de ECG, una imagen de ecografía y una señal de vídeo, que representa un sistema hospitalario de historiales de salud digitales y de TI
+    kind: representative
+    origin: third-party
+    subject: Un médico en una estación de trabajo de TI médica con varios monitores revisando datos digitales de pacientes
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg
 ---
 
 Mucha gente borró MySejahtera de sus teléfonos cuando la pandemia remitió — pero la aplicación no desapareció. Simplemente cambió de trabajo.

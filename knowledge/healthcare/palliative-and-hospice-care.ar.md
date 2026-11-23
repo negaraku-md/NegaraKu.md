@@ -29,7 +29,7 @@ faq:
     a: "تركّز الرعاية التلطيفية على الراحة والتحكم في الأعراض للمرضى المصابين بأمراض تحدّ من العمر المتوقع، بصرف النظر عن السن، بما في ذلك الأطفال. أما رعاية كبار السن فهي رعاية عامة للمسنين الذين قد لا يكونون مصابين بمرض في مرحلته الأخيرة."
 
 lang: "ar"
-sourceContentHash: "f3444e3062b1aac2"
+sourceContentHash: "08979787420aefe5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-1.webp
+    alt: مبنى منخفض لدار رعاية تسكينية (hospice) تطلّ على حديقة، بسواري أعلام وممرّ دخول هادئ، يمثّل مرفقًا هادئًا للرعاية التسكينية
+    kind: representative
+    origin: third-party
+    subject: مبنى هادئ من طابق واحد لدار رعاية تسكينية بحدائق تحت سماء صافية
+    credit: Shkuru Afshar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Canberra_Hospice.jpg
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-2.webp
+    alt: مدخل وحدة رعاية تسكينية حديثة في مستشفى بردهة زجاجية وأحواض نباتات، يمثّل بيئة متخصّصة للرعاية التسكينية
+    kind: representative
+    origin: third-party
+    subject: مدخل حديقة وحدة رعاية تسكينية مخصّصة
+    credit: Jim Barton / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Margaret_Kerr_Unit,_Borders_General_Hospital_-_geograph.org.uk_-_7191073.jpg
 ---
 
 عندما لا يعود العلاج يهدف إلى الشفاء، يتحوّل التركيز إلى أمر واحد: إبقاء المريض مرتاحاً ومحفوظ الكرامة. هذا هو جوهر الرعاية التلطيفية — وفي ماليزيا، يمكن الوصول إليها عبر ثلاث قنوات مختلفة.

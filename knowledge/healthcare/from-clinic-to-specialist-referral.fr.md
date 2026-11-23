@@ -35,7 +35,7 @@ faq:
 
 lang: "fr"
 translationStatus: "in-sync"
-sourceContentHash: "db56299f47270a2d"
+sourceContentHash: "0f2e73064fe07ebb"
 masterLanguage: "en"
 
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-1.webp
+    alt: Un comptoir intérieur d'enregistrement et de renseignements dans un hôpital gouvernemental malaisien, dont la signalétique oriente les patients vers la bonne file, sans aucun patient en vue
+    kind: actual
+    origin: third-party
+    subject: Comptoir d'enregistrement et de renseignements à l'intérieur d'un hôpital gouvernemental malaisien (Hospital Tengku Anis, Pasir Puteh, Kelantan)
+    credit: CyberTroopers / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Tengku_Anis,_Pasir_Puteh.jpg
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-2.webp
+    alt: Le bâtiment principal de plusieurs étages d'un grand hôpital spécialisé à but non lucratif à Penang, représentant l'échelon hospitalier d'un parcours d'orientation
+    kind: actual
+    origin: third-party
+    subject: Bâtiment principal du Lam Wah Ee Hospital, un hôpital spécialisé à but non lucratif à Penang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Lam_Wah_Ee_Hospital_main_building.jpg
 ---
 
 Une orientation est un moment charnière dans le parcours de chacun : votre médecin a décidé — ou suggéré — que votre problème nécessite un spécialiste, et vous voilà soudain à naviguer dans une autre partie du système de santé. Ce guide prend le relais précisément à ce point. Il ne vous dit **pas** si vous avez besoin d'un spécialiste ; ce jugement appartient à votre clinicien. Ce qu'il fait, c'est expliquer **comment les orientations fonctionnent réellement en Malaisie, et ce qu'il faut préparer**, afin que la transmission de la clinique au spécialiste soit aussi fluide que possible.

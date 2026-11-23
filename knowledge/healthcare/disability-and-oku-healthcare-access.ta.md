@@ -31,7 +31,7 @@ faq:
     a: "JKM-இன் கீழ் உதவி/செயற்கை உறுப்பு கருவி உதவி (BAT) கைமுறை அல்லது மின்சார சக்கர நாற்காலிகள், செயற்கைக் கால்கள் மற்றும் கைகள், செவித்துணைக் கருவிகள், வெள்ளைக் கைத்தடிகள் மற்றும் பிரெயில் இயந்திரங்களை, கருவியின் நிர்ணயிக்கப்பட்ட உண்மையான விலைக்கு ஏற்ப உள்ளடக்குகிறது."
 
 lang: "ta"
-sourceContentHash: "f4c391c1dbfcea33"
+sourceContentHash: "5e0342d845bb0837"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-1.webp
+    alt: ஒரு மலேசிய LRT நிலையத்தில் கைப்பிடிகளுடன் கூடிய மெதுவான சாய்வுடைய அணுகல் சரிவுப்பாதை, மாற்றுத்திறனாளிகளுக்கு படிகளற்ற அணுகலைக் குறிக்கிறது
+    kind: representative
+    origin: third-party
+    subject: ஒரு மலேசிய பொது போக்குவரத்து நிலையத்தில் சக்கர நாற்காலிக்கு ஏற்ற சரிவுப்பாதை
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SP20_Muhibbah_LRT_Accessible_Ramp_20231007_131344.jpg
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-2.webp
+    alt: நீல நிற சர்வதேச சக்கர நாற்காலி சின்னத்துடன் வர்ணம் பூசப்பட்டு மாற்றுத்திறனாளிகளுக்கு ஒதுக்கப்பட்ட வாகன நிறுத்த இடம், OKU அணுகல் ஏற்பாடுகளைக் குறிக்கிறது
+    kind: representative
+    origin: third-party
+    subject: மலேசியாவில் சக்கர நாற்காலி சின்னத்தால் குறிக்கப்பட்ட OKU (மாற்றுத்திறனாளிகள்) ஒதுக்கீட்டு வாகன நிறுத்த இடம்
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Disabled_parking_at_Masjid_As_Salam,_Kampung_Kijing_20240227_224921.jpg
 ---
 
 ஒரு பிளாஸ்டிக் அட்டை, ஆட்டிசம் உள்ள ஒரு குழந்தை ஆரம்ப சிகிச்சையைப் பெறுகிறாரா, அல்லது ஒரு காலை இழந்த ஒரு பெரியவர் செயற்கைக் காலை வாங்க முடியுமா என்பதைத் தீர்மானிக்கிறது. மலேசியாவில், அந்த OKU அட்டைதான் இயலாமை உள்ளவர்களுக்காக வடிவமைக்கப்பட்ட ஏறக்குறைய ஒவ்வொரு சேவைக்கும் உதவி வடிவத்திற்கும் நுழைவாயில் — அது எவ்வாறு செயல்படுகிறது என்பதைப் புரிந்துகொள்வது நேரம், பணம் மற்றும் தாமதமான சிகிச்சையைச் சேமிக்கிறது.

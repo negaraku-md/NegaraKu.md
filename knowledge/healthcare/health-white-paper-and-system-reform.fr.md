@@ -32,7 +32,7 @@ faq:
     a: "Le gouvernement affirme que non. Des initiatives comme Rakan KKM sont présentées comme un modèle de rétention des spécialistes dans le secteur public, et non comme une privatisation, même si certains observateurs restent prudents quant à ses effets à long terme."
 
 lang: "fr"
-sourceContentHash: "cbb5bd100c475cf3"
+sourceContentHash: "010ee2d614064f6b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-1.webp
+    alt: Un bâtiment de bureaux du gouvernement fédéral malaisien à Putrajaya abritant une division du ministère de la Santé
+    kind: actual
+    origin: third-party
+    subject: Un bâtiment du ministère de la Santé de Malaisie (Kementerian Kesihatan Malaysia) à Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-2.webp
+    alt: Deux responsables à une table de signature dans un hall d'accueil du ministère de la Santé de Malaisie, avec le nom du ministère et les armoiries de la Malaisie au mur derrière eux
+    kind: actual
+    origin: third-party
+    subject: Une réunion officielle au ministère de la Santé de Malaisie, sous le logotype Kementerian Kesihatan Malaysia et l'emblème national
+    credit: U.S. Embassy Kuala Lumpur / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2022-02-10-Amb-McFeeters-meets-Health-Minister-Dr-Zaliha-04.jpg
 ---
 
 Les cliniques publiques prennent en charge près des deux tiers des consultations externes du pays, et pourtant elles ne représentent qu'environ une installation de soins primaires sur quatre. C'est ce déséquilibre, entre autres, qui a poussé le ministère de la Santé de Malaisie (MOH) à rédiger le document d'orientation le plus important depuis une génération : le Livre blanc de la santé.

@@ -32,7 +32,7 @@ faq:
     a: "40세 이상 라흐마 현금 지원(STR) 수급자는 등록된 정부 또는 민간 클리닉에서 PeKa B40에 따른 무료 검진을 받을 자격이 있습니다. 공공 클리닉 크시하탄도 기본 검사를 제공합니다."
 
 lang: "ko"
-sourceContentHash: "19ab4b4f804b4515"
+sourceContentHash: "98b8eec3f3b6e074"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-1.webp
+    alt: 팔 커프가 달린 디지털 자동 혈압계로, 고혈압 정기 선별검사에 쓰이는 유형의 기기이다
+    kind: representative
+    origin: third-party
+    subject: 건강검진에 사용되는 자동 상완식 혈압계와 커프
+    credit: Albarubescens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sphygmomanometer,_automatic_blood_pressure_monitor._Oscillometric_measurements,_millimeter_of_mercury_(mmHg)_unit.jpg
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-2.webp
+    alt: 뒤로 도시 스카이라인이 보이는 쿠알라룸푸르의 조경된 호숫가 공원으로, 비전염성 질환 예방에 도움이 되는 신체활동과 건강한 생활습관을 보여준다
+    kind: representative
+    origin: third-party
+    subject: 타만 타식 티티왕사, 쿠알라룸푸르의 공공 호숫가 휴양 공원
+    credit: SpOt ON / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lake_Titiwangsa.jpg
 ---
 
 오늘날 말레이시아 성인의 절반 이상이 수명을 단축할 수 있는 체중을 지니고 있습니다 — 그리고 여섯 명 중 한 명은 이미 당뇨병과 함께 살고 있으며, 많은 이가 그것을 알지 못합니다. 이것은 어떤 감염병보다도 병원, 가정, 국가 경제를 훨씬 무겁게 짓누르는 조용한 유행병입니다.

@@ -32,7 +32,7 @@ faq:
     a: "때때로 가능합니다. MMC는 기존 의사-환자 관계 후의 후속 진료로서 화상 진료를 선호하지만, 특히 1차 진료에서 의사가 이유를 기록하면 첫 온라인 진료를 허용합니다. 의사는 직접 진찰하지 않은 환자에게 처방하는 것에 주의하고, 온라인 매체가 안전한 평가에 충분하지 않을 때 대면으로 의뢰하도록 안내받습니다."
 
 lang: "ko"
-sourceContentHash: "d63421290bd45b29"
+sourceContentHash: "f1875085ff264e86"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-1.webp
+    alt: 책상에서 전화를 받으며 메모하는 의사로, 뒤편 옷걸이에 흰 가운이 걸려 있으며 원격 전화 진료를 보여준다
+    kind: representative
+    origin: third-party
+    subject: 책상에서 전화로 원격 진료를 하는 의사
+    credit: Mona Hassan Abo-Abda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Covid_19_Doctor_Phone_Consultation.jpg
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-2.webp
+    alt: 원격의료 영상 상담 앱을 실행 중인 스마트폰과 휴대용 초음파 프로브를 손에 들고 있는 모습으로, 원격 온라인 진단을 보여준다
+    kind: representative
+    origin: third-party
+    subject: 스마트폰 앱으로 수행하는 원격 영상 유도 초음파 검사
+    credit: U.S. Army photo by Staff Sgt. Elizabeth Bryson / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Medical_team_tests_new_tech_(6426496).jpg
 ---
 
 당신은 앱을 열고, 소파에서 의사와 화상 통화를 하며, 한 시간 뒤 처방전이 받은편지함에 도착합니다. 말레이시아에서 이것은 전적으로 합법입니다 — 그러나 그 배후의 규정집은 당신이 예상할 법률이 아닙니다.

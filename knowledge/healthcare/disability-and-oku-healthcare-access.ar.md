@@ -31,7 +31,7 @@ faq:
     a: "تشمل مساعدة الأجهزة المساعِدة/الأطراف الصناعية (BAT) التابعة لـ JKM الكراسي المتحركة اليدوية أو الكهربائية، والأطراف الصناعية للساقين والذراعين، والمعينات السمعية، والعصي البيضاء، وآلات برايل، وفق السعر الفعلي المحدّد للجهاز."
 
 lang: "ar"
-sourceContentHash: "f4c391c1dbfcea33"
+sourceContentHash: "5e0342d845bb0837"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-1.webp
+    alt: منحدر وصول ذو ميل لطيف مزوّد بدرابزين عند محطة قطار LRT ماليزية، يمثّل الوصول من دون درج للأشخاص ذوي الإعاقة
+    kind: representative
+    origin: third-party
+    subject: منحدر مهيّأ للكراسي المتحرّكة في محطة نقل عام ماليزية
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SP20_Muhibbah_LRT_Accessible_Ramp_20231007_131344.jpg
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-2.webp
+    alt: موقف سيارة مرسوم عليه رمز الكرسي المتحرّك الدولي باللون الأزرق ومخصَّص للأشخاص ذوي الإعاقة، يمثّل ترتيبات تيسير الوصول لذوي الإعاقة (OKU)
+    kind: representative
+    origin: third-party
+    subject: موقف سيارات مخصَّص لذوي الإعاقة (OKU) مُعلَّم برمز الكرسي المتحرّك في ماليزيا
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Disabled_parking_at_Masjid_As_Salam,_Kampung_Kijing_20240227_224921.jpg
 ---
 
 بطاقة بلاستيكية واحدة تحدّد ما إذا كان طفل مصاب بالتوحد سيتلقّى علاجًا مبكرًا، أو ما إذا كان بالغ فقد ساقه قادرًا على اقتناء طرف صناعي. في ماليزيا، تلك البطاقة — بطاقة ذوي الإعاقة (OKU) — هي البوابة إلى كل خدمة ومساعدة تقريبًا مصمّمة لذوي الإعاقة، وفهم كيفية عملها يوفّر الوقت والمال والعلاج المتأخّر.

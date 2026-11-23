@@ -27,7 +27,7 @@ verificationNeeded:
   - "Perbedaan terperinci antara Klinik Kesihatan, Klinik Komuniti dan Klinik Desa dari segi staf dan cakupan perawatan yang tepat tidak dapat disahkan sepenuhnya pada sumber resmi KKM saat penulisan; artikel ini hanya menyatakan bahwa ketiganya adalah fasilitas terpisah."
 
 lang: "id"
-sourceContentHash: "b45c68aeb8d6fe25"
+sourceContentHash: "9a29482e1fe09ea8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-1.webp
+    alt: Blok utama sebuah klinik kesehatan pemerintah Malaysia (Klinik Kesihatan) dengan jalan masuk beratap
+    kind: actual
+    origin: third-party
+    subject: Bangunan utama Klinik Kesihatan Jalan Lanang, sebuah klinik kesehatan pemerintah di Sibu, Sarawak
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-2.webp
+    alt: Sebuah klinik kesehatan desa pedesaan (Klinik Desa) satu lantai yang kecil di sebuah pulau, satu-satunya fasilitas kesehatan di sana
+    kind: actual
+    origin: third-party
+    subject: Klinik Desa Pulau Aman, satu-satunya klinik kesehatan pedesaan di pulau Pulau Aman, Penang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Desa_Pulau_Aman,_Pulau_Aman_(220904)_1.jpg
 ---
 
 Demam tak kunjung reda, anak perlu suntikan imunisasi, atau tekanan darah perlu dipantau bulanan — dan pertanyaan pertama yang muncul biasanya bukan "apa perawatannya", melainkan "harus pergi ke klinik yang mana". Klinik swasta cepat tapi mahal. Rumah sakit pemerintah penuh sesak untuk masalah kecil. Dan "klinik pemerintah" sendiri sebenarnya bukan satu jenis fasilitas saja — banyak yang tidak sadar Klinik Kesihatan, Klinik Komuniti dan Klinik Pergigian adalah tiga fasilitas terpisah di bawah atap yang sama.

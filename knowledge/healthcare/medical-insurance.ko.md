@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "고용주 의료 보장과 개인 메디컬 카드를 저울질하는 직원, 그리고 증권을 구입하거나 갱신하기 전에 '공동부담'이 무엇을 뜻하는지 이해하려는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "f3d82432e2ef0103"
+sourceContentHash: "bdd7b7c140cf69f0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-1.webp
+    alt: 페낭주 스브랑 프라이에 있는 대형 현대식 민간 병원 건물을 공중에서 본 모습
+    kind: actual
+    origin: third-party
+    subject: 선웨이 메디컬 센터(Sunway Medical Centre), 말레이시아 페낭주 스브랑 프라이에 있는 민간 병원
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_in_Seberang_Perai,_Penang.jpg
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-2.webp
+    alt: 밝은 입구 홀에 있는 곡선형 병원 접수 데스크로, 입원 접수와 수납을 보여주며 멀리 몇 명이 있다
+    kind: representative
+    origin: third-party
+    subject: 정문 입구 로비에 있는 병원 접수 및 입원 창구
+    credit: Rodhullandemu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Reception_Desk,_Arrowe_Park_Hospital.jpg
 ---
 
 두 직원이 같은 부러진 팔로 같은 민간 병원에 걸어 들어갑니다. 한 명은 카드를 내밀고 퇴원 시 한 센도 내지 않고 걸어 나갑니다. 다른 한 명은 청구액의 일부를 스스로 냅니다. 여섯 달 전에 구입한 증권이 바로 그 이유로 더 저렴했기 때문입니다.

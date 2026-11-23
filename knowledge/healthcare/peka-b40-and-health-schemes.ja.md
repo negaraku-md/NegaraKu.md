@@ -23,7 +23,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "de44e0206ee7dfcf"
+sourceContentHash: "40240ae7fdae6576"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -71,6 +71,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Main_building_of_Klinik_Kesihatan_Sibu_Jaya.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-1.webp
+    alt: クリニック・ケシハタン・ニライの外観。地域に医療を提供するマレーシア保健省の公共健康診療所
+    kind: actual
+    origin: third-party
+    subject: クリニック・ケシハタン・ニライ、マレーシアの政府健康診療所
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-2.webp
+    alt: クアラルンプールのクリニック・ケシハタン・タンリンの外観。マレーシアの公共の政府健康診療所
+    kind: actual
+    origin: third-party
+    subject: クリニック・ケシハタン・タンリン、クアラルンプールの政府健康診療所
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Tanglin,_Kuala_Lumpur_20260428_120448.jpg
 ---
 
 多くの人が「PeKa B40」という名前を耳にしたことがあるが、その理解は

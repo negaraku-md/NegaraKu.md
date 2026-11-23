@@ -27,7 +27,7 @@ verificationNeeded:
   - "The detailed differences between Klinik Kesihatan, Klinik Komuniti and Klinik Desa in terms of staffing and the precise scope of treatment could not be fully verified against official KKM sources at the time of writing; this article states only that all three are separate facilities."
 
 lang: "en"
-sourceContentHash: "b45c68aeb8d6fe25"
+sourceContentHash: "9a29482e1fe09ea8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-1.webp
+    alt: The main block of a Malaysian government health clinic (Klinik Kesihatan) with a covered entrance driveway
+    kind: actual
+    origin: third-party
+    subject: The main building of Klinik Kesihatan Jalan Lanang, a government health clinic in Sibu, Sarawak
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-2.webp
+    alt: A small single-storey rural village health clinic (Klinik Desa) on an island, the only health facility there
+    kind: actual
+    origin: third-party
+    subject: Klinik Desa Pulau Aman, the sole rural health clinic on Pulau Aman island, Penang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Desa_Pulau_Aman,_Pulau_Aman_(220904)_1.jpg
 ---
 
 A fever that won't break, a child due for an immunisation jab, or blood

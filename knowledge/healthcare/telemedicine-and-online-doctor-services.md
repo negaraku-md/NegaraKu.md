@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-1.webp
+    alt: A doctor at a desk speaking on a phone while taking notes, with a white coat on a stand behind, representing a remote telephone medical consultation
+    kind: representative
+    origin: third-party
+    subject: A doctor giving a remote consultation by phone at her desk
+    credit: Mona Hassan Abo-Abda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Covid_19_Doctor_Phone_Consultation.jpg
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-2.webp
+    alt: Hands hold a smartphone running a telehealth video-consultation app alongside a handheld ultrasound probe, representing remote online diagnosis
+    kind: representative
+    origin: third-party
+    subject: A remote video-guided ultrasound carried out via a smartphone app
+    credit: U.S. Army photo by Staff Sgt. Elizabeth Bryson / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Medical_team_tests_new_tech_(6426496).jpg
 ---
 
 You open an app, video-call a doctor from your sofa, and a prescription lands in your inbox an hour later. In Malaysia that is entirely legal — but the rulebook behind it is not the law you might expect.

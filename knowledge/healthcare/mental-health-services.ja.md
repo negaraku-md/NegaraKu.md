@@ -24,7 +24,7 @@ appliesTo: "マレーシアにいる誰もが対象——市民、居住者、�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4ecc5497514e228e"
+sourceContentHash: "632d758693e3fc1a"
 
 status: "published"
 aiAssisted: true
@@ -86,6 +86,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:World_Mental_Health_Day.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-1.webp
+    alt: 小さなテーブルを囲むように3脚のひじ掛けいすと観葉植物が置かれた、静かで居心地のよいカウンセリング室。人の姿はない
+    kind: representative
+    origin: third-party
+    subject: 対話療法のために整えられた落ち着いたカウンセリング室。ひじ掛けいすとやわらかな調度を備える
+    credit: RMtherapies / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Therapy_Room_at_Resilient_Mind_Therapies,_Leicester.jpg
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-2.webp
+    alt: ジョホールバルにあるマレーシア政府の精神科・メンタルヘルス病院の外観
+    kind: actual
+    origin: third-party
+    subject: ジョホールバルのプルマイ病院、マレーシア政府のメンタルヘルス病院
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Permai_Hospital_Johor_Bahru.jpg
 ---
 
 助けを求めると決めること——それ自体がしばしば一番難しい部分だ。*どこに*助けを求めればよいのかを見極めることは、ほとんど誰も説明してくれない部分であり——その空白だけで、人は電話をかけること自体をやめてしまう。

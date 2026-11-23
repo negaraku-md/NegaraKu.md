@@ -32,7 +32,7 @@ faq:
   - q: "¿Quién puede inscribirse como practicante de siddha?"
     a: "Bajo la Ley 775, quienes deseen ejercer en el campo de la Medicina Tradicional India deben inscribirse en el Consejo de T&CM. La ley se aplicó por etapas; tras el periodo de transición interino, se prohíbe a quienes no están inscritos prestar servicios en los campos reconocidos. Verifique los requisitos vigentes con la División de T&CM del Ministerio en el momento de la publicación."
 lang: "es"
-sourceContentHash: "e7e71bfa77ac1056"
+sourceContentHash: "a717b54b027c6c0e"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lekiyam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-1.webp
+    alt: La modesta fachada de un dispensario tradicional de medicina herbal del sur de la India, que representa una práctica de medicina tradicional india afín al Siddha
+    kind: representative
+    origin: third-party
+    subject: La fachada de un dispensario tradicional de medicina herbal del sur de la India (vaidyasala)
+    credit: Fotokannan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sadananda_vaidyasala2.jpg
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-2.webp
+    alt: Una bola oscura de ginger lehyam, una preparación tradicional en pasta de hierbas del Siddha tamil, sostenida en una mano abierta
+    kind: representative
+    origin: third-party
+    subject: Un ginger lehyam terminado, una preparación herbal del Siddha tamil, sostenido en la palma de la mano
+    credit: Chronikhiles / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ginger_Lehyam.jpg
 ---
 
 En las antiguas tierras de plantación de Malasia, y en las calles tamiles de sus ciudades, se puede encontrar una tienda de hierbas: hierbas secas, polvos (choornam) y aceites alineados en hileras en sus estantes. No son fruto del azar; son las huellas de una tradición médica de más de siglo y medio.

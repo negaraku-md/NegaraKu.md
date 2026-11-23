@@ -32,7 +32,7 @@ faq:
   - q: "สามารถเรียนหลักสูตรแพทย์แผนจีนได้ที่ไหน"
     a: "ปัจจุบันสถาบันอุดมศึกษาในประเทศหลายแห่งเปิดหลักสูตรปริญญาตรีแพทย์แผนจีน (เกียรตินิยม) บางหลักสูตรได้รับการรับรองจากองค์การคุณวุฒิมาเลเซีย (MQA) เช่น Southern University College ที่สกูได รัฐยะโฮร์ การสำเร็จการศึกษาเป็นเพียงก้าวแรก: หากจะประกอบวิชาชีพในฐานะแพทย์แผนจีน ยังต้องปฏิบัติตามข้อกำหนดการขึ้นทะเบียนของสภาการแพทย์แผนโบราณและการแพทย์ทางเลือก สถานะการรับรองและเงื่อนไขการรับเข้าของแต่ละหลักสูตรให้ยึดตามเว็บไซต์ทางการของสถาบันและทะเบียนทางการของ MQA"
 lang: "th"
-sourceContentHash: "c07c03961816c569"
+sourceContentHash: "14675c725a8f0f6b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -81,6 +81,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Medicine_Shop,_George_Town,_Penang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-1.webp
+    alt: หน้าต่างคลินิกการแพทย์แผนจีนที่แสดงผนังลิ้นชักสมุนไพรหุ่นจำลองฝังเข็มและโปสเตอร์การรักษาแทนการปฏิบัติแบบTCM
+    kind: representative
+    origin: third-party
+    subject: หน้าต่างร้านยาการแพทย์แผนจีนที่มีลิ้นชักสมุนไพรและแผนภูมิการบำบัด
+    credit: Jordiferrer / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Chinatown_London_-_Everwell_Chinese_medicine.jpg
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-2.webp
+    alt: สมุนไพรแห้งกำลังถูกชั่งบนตาชั่งที่เคาน์เตอร์ร้านยาแผนจีน
+    kind: representative
+    origin: third-party
+    subject: สมุนไพรจีนแห้งกำลังถูกชั่งบนตาชั่งที่ร้านยาแผนจีน
+    credit: tomscoffin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2012-06-07_weighing_the_dried_herbs_at_an_Chinese_medicine_shop_at_Kinmen.jpg
 ---
 
 ที่หัวมุมถนนของเมืองเก่าหลายแห่ง มักมีร้านยาจีนอยู่เสมอ: ผนังตู้ไม้เรียงรายแน่นด้วยลิ้นชักใบเล็ก ๆ ในอากาศมีกลิ่นตังกุย (当归) ผิวส้มแห้ง (陈皮) และชะเอมเทศ (甘草) ปะปนกัน หลังเคาน์เตอร์ เจ้าของร้านสูงวัยฟังลูกค้าเล่าว่าไม่สบายตรงไหน พลางชั่งตัวยาทีละอย่างใส่กระดาษแล้วห่อเป็นห่อยาหนึ่งห่อ ร้านเช่นนี้มีอยู่ในชุมชนชาวจีนมาเลเซียมากว่าร้อยปี

@@ -26,7 +26,7 @@ verificationNeeded:
   - "KKM மருத்துவமனைகளில் உள்ள பல் மருத்துவ நிபுணத்துவத் துறைகளின் சரியான எண்ணிக்கை மற்றும் நிபுணர் பல் கிளினிக்குகளின் விரிவான வரம்பு நேரடியாக உறுதிப்படுத்த முடியவில்லை, ஏனெனில் எழுதப்பட்ட நேரத்தில் அதிகாரப்பூர்வ தளமான hq.moh.gov.my/ohp அணுக முடியவில்லை (connection refused); இந்தக் கட்டுரையில் உள்ள விளக்கம் பொதுவானதாகவே இருக்கிறது, குறிப்பிட்ட எண்ணிக்கைகளைக் குறிப்பிடவில்லை."
   - "அரசு பல் கிளினிக்குகளில் மூத்த குடிமக்கள், குழந்தைகள் மற்றும் சில குழுக்களுக்கான கட்டண விலக்குக் கொள்கை இரண்டாம் நிலை ஆதாரங்களில் பரவலாகக் குறிப்பிடப்படுகிறது, ஆனால் இந்தக் கட்டுரை வேண்டுமென்றே கட்டணங்களைக் குறிப்பிடாததால் இங்கு உறுதிப்படுத்தப்படவில்லை — தற்போதைய தகவலுக்கு அந்தந்த கிளினிக்கின் பதிவு கவுண்டரைக் கலந்தாலோசிக்கவும்."
 lang: "ta"
-sourceContentHash: "eeddef6e54a39b44"
+sourceContentHash: "dc23a5d8d2d7eb26"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Yap_Dental_Clinic.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/dental-care/body-1.webp
+    alt: நேர்த்தியான பல் அறுவை சிகிச்சை அறையில் மேல் பரிசோதனை விளக்கு, இயக்குநர் திரை மற்றும் வாய் கொப்பளிப்பு தொட்டியுடன் கூடிய காலியான பல் சிகிச்சை நாற்காலி
+    kind: representative
+    origin: third-party
+    subject: கிளினிக் சிகிச்சை அறையில் மேல்விளக்கு, நோயாளி கண்காணிப்புத் திரை மற்றும் உமிழ்நீர் தொட்டியுடன் கூடிய பல் சிகிச்சை நாற்காலி
+    credit: IrfanDP / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dental_chair_in_a_dentist_clinic.jpg
+  - role: scene
+    src: /media/healthcare/dental-care/body-2.webp
+    alt: சிகிச்சை நாற்காலி, கைக்கருவி வழங்கல் வண்டி, எக்ஸ்-ரே பட காட்டி மற்றும் சுவரில் ஆக்ஸிஜன் மற்றும் வெற்றிட வெளியேற்றங்களைக் காட்டும் ஆளில்லாத பல் சிகிச்சை அறை
+    kind: representative
+    origin: third-party
+    subject: பல் சிகிச்சை நாற்காலி, கருவி வழங்கல் அலகு, எக்ஸ்-ரே காட்டி மற்றும் சுவர் வாயு வெளியேற்றங்களுடன் கூடிய பல் சிகிச்சை அறை
+    credit: Ptrump16 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Dental_Engine.jpg
 ---
 
 பலரும் “பல் கிளினிக்” என்பது ஒரே ஒரு விஷயம் தான் என்று நினைக்கிறார்கள் —

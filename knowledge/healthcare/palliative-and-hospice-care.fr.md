@@ -29,7 +29,7 @@ faq:
     a: "Les soins palliatifs se concentrent sur le confort et le contrôle des symptômes de patients atteints de maladies limitant l'espérance de vie, quel que soit leur âge, y compris les enfants. Les soins gériatriques, en revanche, sont des soins généraux pour les personnes âgées qui n'ont pas nécessairement de maladie en phase terminale."
 
 lang: "fr"
-sourceContentHash: "f3444e3062b1aac2"
+sourceContentHash: "08979787420aefe5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-1.webp
+    alt: Le bâtiment bas, donnant sur un jardin, d'une maison de soins palliatifs, avec des mâts de drapeau et une allée tranquille, représentant un établissement paisible de soins palliatifs
+    kind: representative
+    origin: third-party
+    subject: Un paisible bâtiment de soins palliatifs de plain-pied avec des jardins sous un ciel dégagé
+    credit: Shkuru Afshar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Canberra_Hospice.jpg
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-2.webp
+    alt: L'entrée d'une unité hospitalière moderne de soins palliatifs avec un porche vitré et des massifs plantés, représentant un cadre spécialisé de soins palliatifs
+    kind: representative
+    origin: third-party
+    subject: L'entrée côté jardin d'une unité dédiée de soins palliatifs
+    credit: Jim Barton / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Margaret_Kerr_Unit,_Borders_General_Hospital_-_geograph.org.uk_-_7191073.jpg
 ---
 
 Lorsque le traitement ne vise plus à guérir, les soins se déplacent vers une seule chose : maintenir le patient à l'aise et dans la dignité. C'est l'essence même des soins palliatifs — et en Malaisie, on peut y accéder par trois canaux distincts.

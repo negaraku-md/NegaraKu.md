@@ -81,6 +81,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-1.webp
+    alt: Sebuah bangunan pejabat kerajaan persekutuan Malaysia di Putrajaya yang menempatkan sebuah bahagian Kementerian Kesihatan
+    kind: actual
+    origin: third-party
+    subject: Sebuah bangunan Kementerian Kesihatan Malaysia di Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-2.webp
+    alt: Dua pegawai di meja menandatangani dokumen di dewan penerimaan Kementerian Kesihatan Malaysia, dengan nama kementerian dan jata Malaysia pada dinding di belakang
+    kind: actual
+    origin: third-party
+    subject: Satu mesyuarat rasmi di Kementerian Kesihatan Malaysia, di bawah tanda perkataan Kementerian Kesihatan Malaysia dan jata negara
+    credit: U.S. Embassy Kuala Lumpur / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2022-02-10-Amb-McFeeters-meets-Health-Minister-Dr-Zaliha-04.jpg
 ---
 
 Klinik kerajaan menampung hampir dua pertiga lawatan pesakit luar negara — tetapi hanya mewakili kira-kira satu daripada empat kemudahan penjagaan primer. Ketidakseimbangan inilah, antara lain, yang mendorong Kementerian Kesihatan Malaysia (KKM) menulis dokumen dasar paling penting dalam satu generasi: Kertas Putih Kesihatan.

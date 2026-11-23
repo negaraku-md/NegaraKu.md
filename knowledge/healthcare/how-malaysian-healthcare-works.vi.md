@@ -26,7 +26,7 @@ verificationNeeded:
   - "Mức phí bảo hiểm và trần bảo hiểm hằng năm chính xác của SPIKPA không được xác nhận tại một nguồn chính thức gốc (chỉ tìm thấy các nguồn thứ cấp học thuật và của môi giới bảo hiểm); bài viết này mô tả chức năng của chương trình — bảo hiểm bắt buộc gắn với việc gia hạn giấy phép lao động, được xác nhận trên trang của chính Cục Di trú — mà không nêu mức phí hoặc số tiền bảo hiểm chưa được xác minh."
 
 lang: "vi"
-sourceContentHash: "f35156bb0be8d93f"
+sourceContentHash: "ad9956b0e60b93d8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-1.webp
+    alt: Một khu phức hợp bệnh viện công nhiều tầng lớn của Malaysia nhìn từ đường ở Kota Kinabalu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Queen Elizabeth Hospital, một bệnh viện công lớn của Malaysia ở Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-2.webp
+    alt: Một góc nhìn từ trên cao về khu phức hợp nhiều tòa nhà của một bệnh viện công lớn của Malaysia ở George Town, Penang, với đường chân trời thành phố phía sau
+    kind: actual
+    origin: third-party
+    subject: Penang General Hospital (Hospital Pulau Pinang), một bệnh viện công lớn của Malaysia ở George Town, Penang
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_General_Hospital_2025.jpg
 ---
 
 Một người Malaysia đã về hưu bị đau ngực gọi xe cứu thương và được đưa đến bệnh viện nhà nước gần nhất, nơi một bác sĩ tim mạch khám cho ông với mức phí chỉ trang trải một phần nhỏ chi phí thực. Người hàng xóm của ông, một người giữ giấy phép lao động đến từ Indonesia với cùng triệu chứng, được đưa đến khoa cấp cứu của cùng bệnh viện đó — nhưng hóa đơn sau đó được tính theo một biểu phí hoàn toàn khác, bởi trong mắt bộ, hai người họ không phải cùng một loại bệnh nhân.

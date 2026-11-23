@@ -32,7 +32,7 @@ faq:
     a: "Ia dokumen kebijakan yang disetujui Parlemen pada 15 Juni 2023, menguraikan pembaruan sistem kesehatan Malaysia secara bertahap selama 15 tahun."
 
 lang: "id"
-sourceContentHash: "6b5ead408a9cf117"
+sourceContentHash: "59c6c1853ae29fa8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-1.webp
+    alt: Sepuluh kaset tes cepat antigen COVID-19 bernomor disusun sebaris di atas meja, masing-masing menunjukkan garis kontrol
+    kind: representative
+    origin: third-party
+    subject: Sederet sepuluh kaset tes cepat antigen COVID-19 yang menunjukkan garis kontrol dan garis tes
+    credit: Marwan Mohamad / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Test_Antigen.jpg
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-2.webp
+    alt: Peralatan laboratorium dan diagnostik dalam kotak yang dipasok ke Malaysia untuk mendukung pengujian COVID-19 dan penanganan pandeminya
+    kind: actual
+    origin: third-party
+    subject: Peralatan deteksi COVID-19 yang dikirim ke Malaysia selama penanganan pandemi
+    credit: IAEA Imagebank / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:COVID-19_Equipment_to_Malaysia_(05890318)_(50705365708).jpg
 ---
 
 Pada 18 Maret 2020, jalan raya di seluruh Malaysia menjadi sepi ketika negara memasuki fasa yang tidak pernah dialami dalam sejarah modern: pembatasan pergerakan menyeluruh untuk membendung penularan COVID-19. Dalam kurun kira-kira dua tahun berikutnya, respons kesehatan publik negara berkembang dari penguncian menyeluruh menjadi salah satu program vaksinasi tercepat di kawasan ini — dan meninggalkan dampak yang masih membentuk sistem kesehatan hingga hari ini.

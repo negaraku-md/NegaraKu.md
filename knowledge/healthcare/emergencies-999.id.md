@@ -31,7 +31,7 @@ faq:
     a: "Ambulans pemerintah dikirim gratis melalui saluran 999 dan dikelola oleh KKM bersama badan sukarela seperti St John Ambulance dan Bulan Sabit Merah Malaysia. Ambulans swasta pula dikelola oleh perusahaan atau rumah sakit swasta melalui saluran hotline masing-masing, dan mengenakan biaya layanan menurut kebutuhan panggilan."
 
 lang: "id"
-sourceContentHash: "2f1b3605919630fa"
+sourceContentHash: "b7225f842e9db8b3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Toyota_HiAce_(MOH_Malaysia).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-1.webp
+    alt: Sebuah stasiun Dinas Pemadam Kebakaran dan Penyelamat Malaysia (Bomba), salah satu layanan darurat yang dapat dihubungi melalui saluran panggilan 999
+    kind: actual
+    origin: third-party
+    subject: Stasiun Dinas Pemadam Kebakaran dan Penyelamat (Bomba, JBPM) di Pagoh, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JBPM_Pagoh_Fire_and_Rescue_Station.jpg
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-2.webp
+    alt: Sebuah ambulans St John Ambulance Malaysia di sebuah jalan di Melaka, salah satu layanan medis darurat sukarela yang beroperasi bersama penanganan pemerintah
+    kind: actual
+    origin: third-party
+    subject: Ambulans darurat St John Ambulance Malaysia yang terparkir di Melaka
+    credit: Philip Mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St_John_Ambulance_Malaysia_in_Melaka.jpg
 ---
 
 Anda menekan 999. Suara di ujung saluran menanyakan nama, lokasi, dan apa yang terjadi — dan dalam waktu yang ditargetkan, satu tim ambulans seharusnya sudah dalam perjalanan. Tetapi banyak yang tidak tahu apa yang terjadi di balik panggilan itu: siapa yang sebenarnya menjawab, apakah ia gratis, dan mengapa pasien lain yang tiba lebih lambat di rumah sakit kadang ditangani lebih dahulu daripada Anda.

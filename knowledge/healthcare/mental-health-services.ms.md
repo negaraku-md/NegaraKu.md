@@ -25,7 +25,7 @@ appliesTo: "Sesiapa sahaja di Malaysia — warganegara, penduduk atau pelawat �
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4ecc5497514e228e"
+sourceContentHash: "632d758693e3fc1a"
 
 status: "published"
 aiAssisted: true
@@ -88,6 +88,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:World_Mental_Health_Day.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-1.webp
+    alt: Sebuah bilik kaunseling yang tenang dan mesra dengan tiga kerusi berlengan di sekeliling meja kecil dan sepohon tumbuhan, tanpa seorang pun
+    kind: representative
+    origin: third-party
+    subject: Sebuah bilik kaunseling yang tenang disediakan untuk terapi pertuturan, dengan kerusi berlengan dan perabot lembut
+    credit: RMtherapies / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Therapy_Room_at_Resilient_Mind_Therapies,_Leicester.jpg
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-2.webp
+    alt: Bahagian hadapan sebuah hospital psikiatri dan kesihatan mental kerajaan Malaysia di Johor Bahru
+    kind: actual
+    origin: third-party
+    subject: Hospital Permai di Johor Bahru, sebuah hospital kesihatan mental kerajaan Malaysia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Permai_Hospital_Johor_Bahru.jpg
 ---
 
 Membuat keputusan untuk meminta bantuan sering kali menjadi bahagian yang paling sukar. Mengenal pasti *di mana* hendak memohon adalah bahagian yang hampir tiada sesiapa jelaskan — dan jurang itu sahaja sudah cukup untuk menghalang seseorang daripada pernah membuat panggilan itu.

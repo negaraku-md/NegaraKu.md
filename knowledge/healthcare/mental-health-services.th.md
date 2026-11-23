@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "ผู้ใดก็ตามในมาเลเซีย — พลเมือง ผู้อยู่อาศัย หรือผู้มาเยือน — ที่กังวลเกี่ยวกับสุขภาพจิตของตนเองหรือของผู้อื่น และต้องการทราบอย่างเป็นรูปธรรมว่าจะเริ่มต้นที่ใด: คลินิก โรงพยาบาล ผู้ปฏิบัติงานเอกชน NGO หรือสายด่วน"
 
 lang: "th"
-sourceContentHash: "4ecc5497514e228e"
+sourceContentHash: "632d758693e3fc1a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,6 +88,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:World_Mental_Health_Day.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-1.webp
+    alt: ห้องให้คำปรึกษาที่เงียบสงบและอบอุ่นมีเก้าอี้นวมสามตัวรอบโต๊ะเล็กและต้นไม้โดยไม่มีผู้คนอยู่
+    kind: representative
+    origin: third-party
+    subject: ห้องให้คำปรึกษาที่สงบจัดไว้สำหรับการบำบัดด้วยการพูดคุยพร้อมเก้าอี้นวมและเฟอร์นิเจอร์นุ่มสบาย
+    credit: RMtherapies / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Therapy_Room_at_Resilient_Mind_Therapies,_Leicester.jpg
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-2.webp
+    alt: ด้านหน้าของโรงพยาบาลจิตเวชและสุขภาพจิตของรัฐในยะโฮร์บาห์รูประเทศมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: โรงพยาบาลเปอร์ไมในยะโฮร์บาห์รูโรงพยาบาลสุขภาพจิตของรัฐในมาเลเซีย
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Permai_Hospital_Johor_Bahru.jpg
 ---
 
 การตัดสินใจขอความช่วยเหลือมักเป็นส่วนที่ยากที่สุด การคิดออกว่า *จะขอที่ไหน* เป็นส่วนที่แทบไม่มีใครอธิบาย — และช่องว่างนั้นเพียงอย่างเดียวก็หยุดยั้งผู้คนไม่ให้โทรออกเลย

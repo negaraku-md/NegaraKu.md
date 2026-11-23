@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Siapa pun di Malaysia — warga negara, penduduk atau pengunjung — yang khawatir tentang kesehatan mental diri sendiri atau orang lain, dan ingin tahu secara konkret di mana harus mulai: klinik, rumah sakit, praktisi swasta, NGO, atau saluran bantuan."
 
 lang: "id"
-sourceContentHash: "4ecc5497514e228e"
+sourceContentHash: "632d758693e3fc1a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,6 +88,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:World_Mental_Health_Day.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-1.webp
+    alt: Sebuah ruang konseling yang tenang dan ramah dengan tiga kursi berlengan mengelilingi meja kecil dan sebatang tanaman, tanpa seorang pun
+    kind: representative
+    origin: third-party
+    subject: Sebuah ruang konseling yang tenang disiapkan untuk terapi bicara, dengan kursi berlengan dan perabot empuk
+    credit: RMtherapies / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Therapy_Room_at_Resilient_Mind_Therapies,_Leicester.jpg
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-2.webp
+    alt: Bagian depan sebuah rumah sakit psikiatri dan kesehatan jiwa pemerintah Malaysia di Johor Bahru
+    kind: actual
+    origin: third-party
+    subject: Hospital Permai di Johor Bahru, sebuah rumah sakit kesehatan jiwa pemerintah Malaysia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Permai_Hospital_Johor_Bahru.jpg
 ---
 
 Membuat keputusan untuk meminta bantuan sering kali menjadi bagian yang paling sulit. Mengenali *di mana* harus meminta adalah bagian yang hampir tidak ada seorang pun menjelaskannya — dan kesenjangan itu saja sudah cukup untuk menghalangi seseorang membuat panggilan itu.

@@ -34,7 +34,7 @@ faq:
     a: "لا يوجد قانون خاص بـ HIV. وقد تنطبق أحكام عامة من قانون العقوبات مثل المادتين 269 و270 على نشر الأمراض الخطيرة، لكن لم تُعرَف أي ملاحقات قضائية متعلّقة بـ HIV حتى الآن."
 
 lang: "ar"
-sourceContentHash: "1cab11648c701e91"
+sourceContentHash: "02af4c69b96a1c17"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-1.webp
+    alt: كاسيت اختبار سريع لفيروس HIV وقارورة محلول دارئ ومستلزمات مرتّبة على طاولة نظيفة مغطّاة بورق، تتولّاها أيدٍ بقفّازات، دون إظهار أي وجوه
+    kind: representative
+    origin: third-party
+    subject: طقم اختبار سريع لفيروس HIV مُجهَّز على طاولة قبل الفحص، بأيدٍ ترتدي قفّازات
+    credit: varnent / Equality Michigan (LGBT Free Media Collective) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:HIV_Rapid_Test_on_table.jpg
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-2.webp
+    alt: مبنى منخفض لعيادة عامة للصحة الجنسية عند زاوية شارع، على واجهته لافتات توعوية ودون وجود أشخاص
+    kind: representative
+    origin: third-party
+    subject: المظهر الخارجي لعيادة عامة للصحة الجنسية بلافتات للتوعية الصحية
+    credit: Chris.sherlock2 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Liverpool_Sexual_Health_Clinic_01.jpg
 ---
 
 يمكن لشخص قلق بعد ليلة محفوفة بالمخاطر أن يدخل عيادة صحية حكومية (Klinik Kesihatan) في ماليزيا، ويُجري فحص HIV مجانًا وبسرّية، و— عند الحاجة — يعود إلى بيته بدواء وقائي خلال ساعات قليلة. ومع ذلك فإن هذا المسار نفسه يتقاطع أيضًا مع مسائل السرّية والقانون والدين والوصم التي تجعل HIV واحدًا من أكثر الموضوعات الصحية حساسية في البلاد.

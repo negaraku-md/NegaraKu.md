@@ -31,7 +31,7 @@ faq:
     a: "Xe cứu thương nhà nước được điều động miễn phí qua đường dây 999 và do KKM cùng các tổ chức tình nguyện như St John Ambulance và Trăng lưỡi liềm đỏ Malaysia quản lý. Xe cứu thương tư nhân do các công ty hoặc bệnh viện tư điều hành qua đường dây nóng riêng, và thu phí dịch vụ tùy theo yêu cầu của cuộc gọi."
 
 lang: "vi"
-sourceContentHash: "2f1b3605919630fa"
+sourceContentHash: "b7225f842e9db8b3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Toyota_HiAce_(MOH_Malaysia).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-1.webp
+    alt: Một trạm Cục Cứu hỏa và Cứu nạn Malaysia (Bomba), một trong những dịch vụ khẩn cấp có thể gọi qua đường dây 999
+    kind: actual
+    origin: third-party
+    subject: Trạm Cục Cứu hỏa và Cứu nạn (Bomba, JBPM) tại Pagoh, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JBPM_Pagoh_Fire_and_Rescue_Station.jpg
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-2.webp
+    alt: Một xe cứu thương của St John Ambulance Malaysia trên một con phố ở Melaka, một trong những dịch vụ y tế khẩn cấp tình nguyện hoạt động song song với ứng phó của chính phủ
+    kind: actual
+    origin: third-party
+    subject: Một xe cứu thương khẩn cấp của St John Ambulance Malaysia đậu tại Melaka
+    credit: Philip Mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St_John_Ambulance_Malaysia_in_Melaka.jpg
 ---
 
 Bạn bấm 999. Giọng nói ở đầu dây bên kia hỏi tên, vị trí và điều gì đang xảy ra — và trong khoảng thời gian mục tiêu, một đội xe cứu thương lẽ ra đã trên đường đến. Nhưng nhiều người không biết điều gì diễn ra phía sau cuộc gọi đó: ai thực sự trả lời, nó có miễn phí không, và tại sao bệnh nhân khác đến bệnh viện muộn hơn đôi khi lại được điều trị trước bạn.

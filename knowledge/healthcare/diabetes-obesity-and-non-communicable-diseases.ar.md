@@ -32,7 +32,7 @@ faq:
     a: "متلقّو المساعدة النقدية رحمة (Sumbangan Tunai Rahmah, STR) من سن 40 عامًا فأكثر مؤهّلون للفحص المجاني ضمن برنامج PeKa B40 في العيادات الحكومية أو الخاصة المسجّلة. كما تقدّم عيادات الصحة العامة فحوصًا أساسية."
 
 lang: "ar"
-sourceContentHash: "19ab4b4f804b4515"
+sourceContentHash: "98b8eec3f3b6e074"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-1.webp
+    alt: جهاز رقمي آلي لقياس ضغط الدم مع رباطه الذراعي، وهو نوع الأجهزة المستخدمة في الفحص الروتيني لارتفاع ضغط الدم
+    kind: representative
+    origin: third-party
+    subject: جهاز آلي لقياس ضغط الدم من أعلى الذراع ورباطه، يُستخدَم في الفحص الصحي
+    credit: Albarubescens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sphygmomanometer,_automatic_blood_pressure_monitor._Oscillometric_measurements,_millimeter_of_mercury_(mmHg)_unit.jpg
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-2.webp
+    alt: حديقة منسّقة على ضفة بحيرة في Kuala Lumpur يظهر خلفها أفق المدينة، تمثّل النشاط البدني ونمط الحياة الصحي الذي يساعد على الوقاية من الأمراض غير المعدية
+    kind: representative
+    origin: third-party
+    subject: Taman Tasik Titiwangsa، حديقة ترفيهية عامة على ضفة بحيرة في Kuala Lumpur
+    credit: SpOt ON / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lake_Titiwangsa.jpg
 ---
 
 أكثر من نصف البالغين في ماليزيا اليوم يحملون وزنًا قد يقصّر أعمارهم — وواحد من كل ستة يتعايش بالفعل مع السكري، وكثيرون دون أن يدركوا ذلك. هذا هو الوباء الصامت الذي يُثقل كاهل المستشفيات والأسر والاقتصاد الوطني أكثر بكثير من أي مرض معدٍ.

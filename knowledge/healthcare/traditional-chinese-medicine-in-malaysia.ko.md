@@ -32,7 +32,7 @@ faq:
   - q: "중의학 과정은 어디서 배울 수 있나요?"
     a: "국내 여러 고등교육기관이 중의학 학사(우등) 과정을 제공하며, 그중 일부는 말레이시아 자격기구(MQA)의 인증을 받았습니다. 예로 조호르주 스쿠다이에 있는 남방대학학원(Southern University College)이 있습니다. 졸업은 첫걸음에 불과합니다. 중의사로 시술하려면 여전히 전통·보완의료위원회의 등록 요건을 충족해야 합니다. 각 과정의 인증 상태와 입학 조건은 각 기관의 공식 웹사이트와 MQA의 공식 명부를 기준으로 삼아야 합니다."
 lang: "ko"
-sourceContentHash: "c07c03961816c569"
+sourceContentHash: "14675c725a8f0f6b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -81,6 +81,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Medicine_Shop,_George_Town,_Penang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-1.webp
+    alt: 전통 중국 의학 진료소의 진열창으로, 한 벽면의 약재 서랍과 침술용 인체 모형, 치료 포스터가 보이며 TCM(중의학) 진료를 보여준다
+    kind: representative
+    origin: third-party
+    subject: 약재 서랍과 치료 도표가 진열된 전통 중국 의학 약방의 진열창
+    credit: Jordiferrer / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Chinatown_London_-_Everwell_Chinese_medicine.jpg
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-2.webp
+    alt: 한 중의약방 계산대에서 말린 중국 약재를 작은 저울에 올려 무게를 다는 모습
+    kind: representative
+    origin: third-party
+    subject: 중의약방에서 저울로 무게를 다는 말린 약재
+    credit: tomscoffin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2012-06-07_weighing_the_dried_herbs_at_an_Chinese_medicine_shop_at_Kinmen.jpg
 ---
 
 많은 오래된 도시의 길모퉁이에는 늘 한약방이 하나 있다. 나무 장 벽에는 작은 약서랍이 빽빽이 늘어서 있고, 공기에는 당귀(当归), 진피(陈皮), 감초(甘草)가 뒤섞인 냄새가 감돈다. 계산대 뒤에서는 나이 든 선생이 손님의 어디가 불편한지 들으며 약재를 한 가지씩 종이에 달아 담아 한 봉지의 약으로 싸낸다. 이런 가게는 말레이시아 화인 사회에 백 년 넘게 존재해 왔다.

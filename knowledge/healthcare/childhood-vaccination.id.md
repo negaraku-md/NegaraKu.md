@@ -26,7 +26,7 @@ verificationNeeded:
   - "Rincian vaksin tambahan/pilihan (misalnya vaksin tidak wajib yang disediakan secara berbayar) tidak dapat diverifikasi pada sumber resmi KKM saat penulisan dan oleh karena itu tidak dinyatakan secara khusus dalam artikel ini."
 
 lang: "id"
-sourceContentHash: "82fc03d17115b374"
+sourceContentHash: "26f12be03c0c4dd9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-1.webp
+    alt: Pusat vaksinasi anak Kementerian Kesehatan Malaysia dengan merek KKM dan deretan kursi tunggu, hanya segelintir orang terlihat di kejauhan
+    kind: actual
+    origin: third-party
+    subject: Pusat vaksinasi anak Kementerian Kesehatan (PPV PICKids) di Pavilion Bukit Jalil, Kuala Lumpur
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-2.webp
+    alt: Vial vaksin bertutup berdiri di samping jarum suntik vaksin pra-isi, mewakili vaksin yang diberikan sesuai jadwal imunisasi
+    kind: representative
+    origin: third-party
+    subject: Vial vaksin dan jarum suntik vaksin influenza pra-isi di atas permukaan polos
+    credit: Whispyhistory / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Comirnaty_Omicron_XBB.1.5_vial_and_influenza_vaccine_2023.jpg
 ---
 
 Setiap bayi yang lahir di klinik atau rumah sakit pemerintah Malaysia pulang dengan lebih dari sekadar akta kelahiran sementara — mereka pulang dengan sebuah buku kecil yang akan dibawa ke *setiap* kunjungan klinik untuk enam tahun ke depan. Buku itu, dan jadwal suntikan yang direkamnya, adalah bagian dari salah satu program kesehatan publik yang paling lama berjalan di negara ini.

@@ -89,6 +89,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-1.webp
+    alt: Kaset ujian pantas HIV, botol penimbal dan bekalan disusun di atas meja berlapik kertas yang bersih, dikendalikan oleh tangan bersarung, tanpa wajah ditunjukkan
+    kind: representative
+    origin: third-party
+    subject: Kit ujian pantas HIV disusun di atas meja sebelum ujian, dengan tangan bersarung
+    credit: varnent / Equality Michigan (LGBT Free Media Collective) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:HIV_Rapid_Test_on_table.jpg
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-2.webp
+    alt: Sebuah bangunan klinik kesihatan seksual awam yang rendah di sudut jalan, dengan sepanduk kesedaran pada fasadnya dan tanpa seorang pun
+    kind: representative
+    origin: third-party
+    subject: Bahagian luar sebuah klinik kesihatan seksual awam dengan sepanduk kesedaran kesihatan
+    credit: Chris.sherlock2 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Liverpool_Sexual_Health_Clinic_01.jpg
 ---
 
 Seorang yang bimbang selepas satu malam berisiko boleh berjalan masuk ke sebuah Klinik Kesihatan kerajaan di Malaysia, membuat ujian HIV secara percuma dan sulit, dan — jika perlu — pulang dengan ubat pencegahan dalam tempoh beberapa jam. Namun jalan yang sama itu turut bersilang dengan soal kerahsiaan, undang-undang, agama dan stigma yang menjadikan HIV antara topik kesihatan paling sensitif di negara ini.

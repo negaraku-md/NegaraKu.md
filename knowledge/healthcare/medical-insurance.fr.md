@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Les salariés qui mettent en balance la couverture médicale de l'employeur et une carte médicale personnelle, et toute personne qui cherche à comprendre ce que signifie « coassurance » avant d'acheter ou de renouveler une police."
 
 lang: "fr"
-sourceContentHash: "f3d82432e2ef0103"
+sourceContentHash: "bdd7b7c140cf69f0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,6 +81,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-1.webp
+    alt: Une vue aérienne d'un grand bâtiment d'hôpital privé moderne à Seberang Perai, Penang
+    kind: actual
+    origin: third-party
+    subject: Sunway Medical Centre, un hôpital privé à Seberang Perai, Penang, Malaisie
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_in_Seberang_Perai,_Penang.jpg
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-2.webp
+    alt: Un comptoir d'accueil d'hôpital incurvé dans un hall d'entrée lumineux, représentant les admissions et la facturation, avec quelques personnes au loin
+    kind: representative
+    origin: third-party
+    subject: Un comptoir d'accueil et d'admission d'hôpital dans le hall de l'entrée principale
+    credit: Rodhullandemu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Reception_Desk,_Arrowe_Park_Hospital.jpg
 ---
 
 Deux salariés entrent dans le même hôpital privé avec le même bras cassé. L'un présente une carte et ressort sans payer un sen à sa sortie. L'autre règle elle-même une partie de la facture, parce que la police qu'elle a souscrite il y a six mois était moins chère précisément pour cette raison.

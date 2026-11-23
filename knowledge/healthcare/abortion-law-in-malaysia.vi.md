@@ -31,7 +31,7 @@ faq:
     a: "Hướng dẫn năm 2012 của Bộ Y tế định nghĩa việc chấm dứt thai kỳ là một thủ thuật ở tuổi thai dưới 22 tuần, hoặc khi tuổi thai không được biết, thai nhi ước tính dưới 500 gram."
 
 lang: "vi"
-sourceContentHash: "ae2bf4ced7e95cfe"
+sourceContentHash: "9d43a6fec14992c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-1.webp
+    alt: Tòa nhà phòng khám y tế công một tầng với lối vào có mái che, dùng ở đây như một minh họa trung lập cho các phòng khám công nơi cung cấp dịch vụ chăm sóc và tư vấn sức khỏe sinh sản
+    kind: representative
+    origin: third-party
+    subject: Bên ngoài một phòng khám y tế công của chính phủ Malaysia (Klinik Kesihatan) tại Lekir, Perak
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Lekir,_Kampung_Batu_9_Lekir_20231220_143154.jpg
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-2.webp
+    alt: Một bảng hiệu bên đường đánh dấu phòng khám y tế công cấp huyện của Malaysia, đại diện trung lập cho hệ thống y tế công mà không nêu tên cơ sở nào cung cấp dịch vụ cụ thể
+    kind: representative
+    origin: third-party
+    subject: Bảng hiệu của một phòng khám y tế công cấp huyện (Klinik Kesihatan Daerah Raub), Pahang
+    credit: Kazuki278 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanda_Klinik_Kesihatan_Daerah_Raub.jpg
 ---
 
 Nhiều người cho rằng phá thai bị cấm hoàn toàn ở Malaysia — thực tế, luật đặt nó vào một không gian phức tạp hơn: một tội hình sự với một ngoại lệ y tế quan trọng. Hiểu đường ranh đó được vạch ra ở đâu đòi hỏi chúng ta đọc văn bản thực tế của Bộ luật Hình sự, chứ không phải các quan niệm chung.

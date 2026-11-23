@@ -27,7 +27,7 @@ verificationNeeded:
   - "Klinik Kesihatan, Klinik Komuniti மற்றும் Klinik Desa ஆகியவற்றுக்கு இடையிலான, பணியாளர்கள் மற்றும் துல்லியமான சிகிச்சை நோக்கம் சார்ந்த விரிவான வேறுபாடுகள் எழுதப்பட்ட நேரத்தில் KKM இன் அதிகாரப்பூர்வ ஆதாரங்களில் முழுமையாக உறுதிப்படுத்த முடியவில்லை; இந்த மூன்றும் தனித்தனியான நிலையங்கள் என்பதை மட்டுமே இந்தக் கட்டுரை குறிப்பிடுகிறது."
 
 lang: "ta"
-sourceContentHash: "b45c68aeb8d6fe25"
+sourceContentHash: "9a29482e1fe09ea8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-1.webp
+    alt: கூரையிட்ட நுழைவு வாகனப்பாதையுடன் கூடிய ஒரு மலேசிய அரசு சுகாதார கிளினிக் (Klinik Kesihatan) இன் முதன்மை தொகுதி
+    kind: actual
+    origin: third-party
+    subject: சரவாக், சிபுவில் உள்ள அரசு சுகாதார கிளினிக்கான Klinik Kesihatan Jalan Lanang இன் முதன்மை கட்டிடம்
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-2.webp
+    alt: ஒரு தீவில் உள்ள ஒரு மாடி சிறிய கிராமப்புற கிராம சுகாதார கிளினிக் (Klinik Desa), அங்குள்ள ஒரே சுகாதார வசதி
+    kind: actual
+    origin: third-party
+    subject: பினாங், புலாவ் அமான் தீவில் உள்ள ஒரே கிராமப்புற சுகாதார கிளினிக்கான Klinik Desa Pulau Aman
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Desa_Pulau_Aman,_Pulau_Aman_(220904)_1.jpg
 ---
 
 குறையாத காய்ச்சல், தடுப்பூசி போட வேண்டிய குழந்தை, அல்லது மாதந்தோறும்

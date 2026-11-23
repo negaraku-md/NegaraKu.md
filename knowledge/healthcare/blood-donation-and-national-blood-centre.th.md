@@ -29,7 +29,7 @@ faq:
     a: "ในจำนวนนั้นได้แก่ผู้ที่มีพฤติกรรมเสี่ยงสูง, ผู้บริจาคหญิงที่ตั้งครรภ์/มีประจำเดือน/ให้นมบุตร, ผู้ที่เคยอาศัยในสหราชอาณาจักรระหว่างปี 1980-1996 เป็นเวลา 6 เดือนขึ้นไป (สะสม), หรือเคยอาศัยในประเทศยุโรปตั้งแต่ปี 1980 จนถึงปัจจุบันเป็นเวลา 5 ปีขึ้นไป (สะสม) — ทั้งสองกรณีเนื่องจากความเสี่ยงต่อ vCJD"
 
 lang: "th"
-sourceContentHash: "5468a77cc086e2e7"
+sourceContentHash: "a11cdbe79efebb4b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penderma_Darah.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-1.webp
+    alt: ห้องโถงรับบริจาคโลหิตที่สว่างมีเตียงเอนรับบริจาคว่างเรียงรายรถเข็นเครื่องมือและโต๊ะต้อนรับโดยไม่มีผู้บริจาค
+    kind: representative
+    origin: third-party
+    subject: ภายในศูนย์รับบริจาคโลหิตที่มีเตียงเอนรับบริจาคว่างเรียงแถวพร้อมอุปกรณ์
+    credit: R. Henrik Nilsson / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inside_Swedish_blood_donation_center_April_2025.jpg
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-2.webp
+    alt: มือถือถุงเก็บโลหิตที่บรรจุเต็มและปิดผนึกพร้อมฉลากบันทึกการบริจาคและสายท่อแทนอุปกรณ์ที่ใช้เก็บและจัดเก็บโลหิตบริจาค
+    kind: representative
+    origin: third-party
+    subject: ถุงเก็บโลหิตที่ปิดผนึกบรรจุโลหิตบริจาคหนึ่งหน่วยในกิจกรรมรับบริจาคโลหิต
+    credit: Bibeyjj / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blood_Donation_Bag.jpg
 ---
 
 ตามข้อมูลของ PDN การบริจาคโลหิตหนึ่งครั้งสามารถช่วยชีวิตได้อย่างน้อยสามชีวิต — เพราะโลหิตครบส่วนถูกนำไปแปรรูปเป็นเซลล์เม็ดเลือดแดง เกล็ดเลือด และพลาสมา สำหรับผู้ป่วยที่แตกต่างกัน

@@ -34,7 +34,7 @@ faq:
     a: "Tidak ada undang-undang khusus HIV. Ketentuan umum Kanun Keseksaan seperti Pasal 269 dan 270 dapat berlaku pada penyebaran penyakit berbahaya, namun tidak ada penuntutan HIV yang diketahui sejauh ini."
 
 lang: "id"
-sourceContentHash: "1cab11648c701e91"
+sourceContentHash: "02af4c69b96a1c17"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-1.webp
+    alt: Kaset tes cepat HIV, botol buffer dan perlengkapan yang ditata di atas meja beralas kertas bersih, ditangani oleh tangan bersarung, tanpa wajah yang terlihat
+    kind: representative
+    origin: third-party
+    subject: Kit tes cepat HIV yang ditata di atas meja sebelum pengujian, dengan tangan bersarung
+    credit: varnent / Equality Michigan (LGBT Free Media Collective) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:HIV_Rapid_Test_on_table.jpg
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-2.webp
+    alt: Sebuah bangunan klinik kesehatan seksual umum yang rendah di sudut jalan, dengan spanduk kesadaran pada fasadnya dan tanpa seorang pun
+    kind: representative
+    origin: third-party
+    subject: Bagian luar sebuah klinik kesehatan seksual umum dengan spanduk kesadaran kesehatan
+    credit: Chris.sherlock2 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Liverpool_Sexual_Health_Clinic_01.jpg
 ---
 
 Seseorang yang khawatir setelah satu malam berisiko dapat berjalan masuk ke sebuah Klinik Kesihatan pemerintah di Malaysia, melakukan tes HIV secara gratis dan rahasia, dan — jika perlu — pulang dengan obat pencegahan dalam waktu beberapa jam. Namun jalan yang sama itu juga bersilangan dengan soal kerahasiaan, hukum, agama dan stigma yang menjadikan HIV salah satu topik kesehatan paling sensitif di negara ini.

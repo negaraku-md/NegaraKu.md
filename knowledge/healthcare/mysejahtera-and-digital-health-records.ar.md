@@ -29,7 +29,7 @@ faq:
     a: "كشف تقرير المدقق العام الذي عُرض في البرلمان في فبراير 2023 أن المعلومات الشخصية لـ 3 ملايين متلقٍّ للقاح جرى تنزيلها عبر حساب 'Super Admin' في نظام MyVAS بين 28 و31 أكتوبر 2021."
 
 lang: "ar"
-sourceContentHash: "bd72fa179eba1629"
+sourceContentHash: "782540a82043fef4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:NSK_Trade_City_Kota_Damansara_-_MySejahtera.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-1.webp
+    alt: شخص يمسك هاتفًا ذكيًّا يعرض قائمة متجر بتطبيقات صحية وطبية، توضّح أدوات الصحة الرقمية الموجَّهة للمستهلك على الهاتف
+    kind: representative
+    origin: third-party
+    subject: يد تمسك هاتفًا ذكيًّا يعرض قائمة بتطبيقات صحية شخصية
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Personal_Health_Apps_for_Smartphones.jpg
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-2.webp
+    alt: طبيب يجلس إلى محطّة عمل بعدّة شاشات تعرض مخطّط تخطيط القلب (ECG) وصورة بالموجات فوق الصوتية وبثًّا مرئيًّا، تمثّل نظام سجلّات صحية رقمية وتقنية معلومات في مستشفى
+    kind: representative
+    origin: third-party
+    subject: طبيب في محطّة عمل لتقنية المعلومات الطبية متعددة الشاشات يراجع بيانات مرضى رقمية
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg
 ---
 
 حذف كثيرون MySejahtera من هواتفهم حين خفّت الجائحة — لكن التطبيق لم يختفِ. بل غيّر وظيفته فحسب.

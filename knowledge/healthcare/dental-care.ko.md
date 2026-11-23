@@ -25,7 +25,7 @@ verificationNeeded:
   - "KKM 병원의 치과 전문 분야의 정확한 수와 전문 치과 클리닉의 범위 세부는 집필 시점에 공식 사이트 hq.moh.gov.my/ohp에 접속할 수 없어(connection refused) 직접 확인할 수 없었으므로, 이 글의 서술은 일반적 수준을 유지하며 구체적 수치를 기재하지 않습니다."
   - "정부 치과 클리닉에서 고령자, 아동 및 특정 집단에 대한 요금 면제 정책은 2차 출처에서 널리 언급되지만, 이 글은 의도적으로 요금을 기재하지 않으므로 여기서 확인하지 않습니다 — 현재 정보는 해당 클리닉의 등록 창구에 문의하십시오."
 lang: "ko"
-sourceContentHash: "eeddef6e54a39b44"
+sourceContentHash: "dc23a5d8d2d7eb26"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Yap_Dental_Clinic.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/dental-care/body-1.webp
+    alt: 깔끔하게 정돈된 치과 진료실에 있는, 무영등과 시술자용 모니터, 양치용 세면대를 갖춘 빈 치과 치료 의자
+    kind: representative
+    origin: third-party
+    subject: 진료실의 치과 치료 의자로, 무영등과 환자용 모니터, 양치용 세면대를 갖추고 있다
+    credit: IrfanDP / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dental_chair_in_a_dentist_clinic.jpg
+  - role: scene
+    src: /media/healthcare/dental-care/body-2.webp
+    alt: 치료 의자, 핸드피스 공급 카트, X선 필름 판독기, 벽면 산소 및 흡인 배출구를 갖춘 비어 있는 치과 진료실
+    kind: representative
+    origin: third-party
+    subject: 치과 치료 의자, 기구 공급 유닛, X선 판독기, 벽면 가스 배출구를 갖춘 치과 치료실
+    credit: Ptrump16 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Dental_Engine.jpg
 ---
 
 많은 사람이 '치과'를 한 가지 — 충치를 때우거나 사랑니를 뽑는 곳 — 로만 여깁니다. 그러나 말레이시아에서 치과 진료는 실제로 두 개의 별개 궤도로 운영됩니다. 하나는 보건부(Ministry of Health, KKM)를 통해 정부가 운영하고, 다른 하나는 민간 부문이 운영하며 — 둘 사이의 진료 범위는 같지 않습니다.

@@ -35,7 +35,7 @@ faq:
 
 lang: "ja"
 translationStatus: "in-sync"
-sourceContentHash: "db56299f47270a2d"
+sourceContentHash: "0f2e73064fe07ebb"
 masterLanguage: "en"
 
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-1.webp
+    alt: マレーシアの政府病院内の受付・案内カウンター。患者を適切な列へ導く案内表示があり、患者の姿はない
+    kind: actual
+    origin: third-party
+    subject: マレーシアの政府病院（トゥンク・アニス病院、クランタン州パシル・プテ）内の受付・案内カウンター
+    credit: CyberTroopers / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Tengku_Anis,_Pasir_Puteh.jpg
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-2.webp
+    alt: ペナンにある大規模な非営利専門病院の多層階の本館。紹介経路における病院階層を表している
+    kind: actual
+    origin: third-party
+    subject: ラム・ワー・イー病院の本館、ペナンの非営利専門病院
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Lam_Wah_Ee_Hospital_main_building.jpg
 ---
 
 紹介（リファラル）は、誰にとっても医療の転機となる瞬間です。医師が、あなたの問題には専門医が必要だと判断した――あるいは勧めた――ことで、あなたは突然、医療制度の別の部分をたどることになります。本ガイドはまさにそこから始まります。あなたに専門医が必要かどうかを告げるものでは**ありません**。その判断は臨床医に属します。本ガイドが行うのは、**マレーシアで紹介が実際にどう機能するか、そして何を準備すべきか**を説明し、クリニックから専門医への引き継ぎができるだけ円滑になるようにすることです。

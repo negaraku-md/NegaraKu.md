@@ -29,7 +29,7 @@ faq:
     a: "Los enfermeros son registrados por la Junta de Enfermería de Malasia conforme a la Ley de Enfermería de 1950; los farmacéuticos por la Junta de Farmacia de Malasia conforme a la Ley de Registro de Farmacéuticos de 1951 (Act 371); y las profesiones de salud aliada como la fisioterapia por el MAHPC conforme a la Ley de Profesiones de Salud Aliada de 2016 (Act 774)."
 
 lang: "es"
-sourceContentHash: "d115e96de8bf4353"
+sourceContentHash: "97c25da1e170aaf9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,6 +71,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Building_Photo-01(91).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-1.webp
+    alt: El bloque de torre de varios pisos de un hospital gubernamental de Malasia, el tipo de entorno donde trabajan los profesionales médicos y de salud afín registrados
+    kind: actual
+    origin: third-party
+    subject: Queen Elizabeth Hospital, un hospital terciario público en Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-06.jpg
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-2.webp
+    alt: Dos miembros del personal de ciencias de la salud en un laboratorio con una cabina de bioseguridad y equipos, que representan las profesiones de salud afín y de laboratorio que requieren registro
+    kind: representative
+    origin: third-party
+    subject: Personal de laboratorio conversando junto a una cabina de bioseguridad en un laboratorio de investigación médica en Malasia
+    credit: U.S. Navy photo by Tommy Lamkin / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:NAMRU_INDO_PACIFIC_Grows_Partnership_in_Malaysia_(8690749).jpg
 ---
 
 Cualquiera puede ponerse una bata blanca, colgar un certificado en la pared de la clínica y llamarse «médico» — pero solo una cosa confirma de verdad sus credenciales: que su nombre aparezca en el registro oficial. En Malasia, todo médico, enfermero, farmacéutico y fisioterapeuta debe estar registrado ante el organismo que regula su profesión. La buena noticia es que puedes comprobarlo tú mismo, de forma gratuita.

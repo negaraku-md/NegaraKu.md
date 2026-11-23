@@ -22,7 +22,7 @@ verificationNeeded:
   - "Bài viết này không nêu danh sách đầy đủ 50 bệnh hiểm nghèo đủ điều kiện theo mySalam vì danh sách chi tiết không được xác nhận trực tiếp trên trang chính thức mysalam.com.my tại thời điểm soạn thảo; hãy kiểm tra cổng chính thức của mySalam để có danh sách đầy đủ."
   - "Thời hạn hiệu lực của các chương trình mySalam và PeKa B40 tùy thuộc vào quyết định Ngân sách hằng năm; các con số và điều kiện trong bài viết này được xác nhận dựa trên trang chính thức tại thời điểm soạn thảo (tháng 7 năm 2026) và có thể được cập nhật trong ngân sách sắp tới."
 lang: "vi"
-sourceContentHash: "de44e0206ee7dfcf"
+sourceContentHash: "40240ae7fdae6576"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -73,6 +73,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Main_building_of_Klinik_Kesihatan_Sibu_Jaya.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-1.webp
+    alt: Mặt ngoài của Klinik Kesihatan Nilai, một phòng khám y tế công thuộc Bộ Y tế Malaysia phục vụ cộng đồng
+    kind: actual
+    origin: third-party
+    subject: Klinik Kesihatan Nilai, một phòng khám y tế công của Malaysia
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-2.webp
+    alt: Mặt trước của Klinik Kesihatan Tanglin ở Kuala Lumpur, một phòng khám y tế công của chính phủ Malaysia
+    kind: actual
+    origin: third-party
+    subject: Klinik Kesihatan Tanglin, một phòng khám y tế công ở Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Tanglin,_Kuala_Lumpur_20260428_120448.jpg
 ---
 
 Nhiều người nghe tên "PeKa B40" nhưng hiểu theo những cách khác nhau — có người tưởng nó trang trải mọi chi phí bệnh viện, có người nhầm nó với mySalam, và có người bỏ qua vì nghĩ phải nộp đơn riêng. Cả ba cách hiểu đó đều không đúng. PeKa B40 có phạm vi rõ ràng và giới hạn — và biết phạm vi của nó nghĩa là biết khi nào dùng, và khi nào cần tìm trợ giúp khác.

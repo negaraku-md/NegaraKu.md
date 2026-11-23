@@ -31,7 +31,7 @@ faq:
     a: "சுகாதார அமைச்சின் (Ministry of Health, KKM) 2012 வழிகாட்டுதல்கள், கர்ப்பம் நிறுத்துதலை 22 வாரங்களுக்குக் குறைவான கர்ப்பகால வயதில் செய்யப்படும் ஒரு செயல்முறையாக, அல்லது வயது தெரியாதபோது கரு 500 கிராமுக்குக் குறைவாக இருக்கும் என மதிப்பிடப்படும்போது வரையறுக்கின்றன."
 
 lang: "ta"
-sourceContentHash: "ae2bf4ced7e95cfe"
+sourceContentHash: "9d43a6fec14992c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-1.webp
+    alt: கூரையிட்ட நுழைவாயிலுடன் கூடிய ஒரு மாடி அரசு சுகாதார கிளினிக் கட்டிடம், இனப்பெருக்க சுகாதார பராமரிப்பும் ஆலோசனையும் வழங்கப்படும் பொது கிளினிக்குகளுக்கான நடுநிலையான விளக்கப்படமாக இங்கே பயன்படுத்தப்படுகிறது
+    kind: representative
+    origin: third-party
+    subject: பேராக், லேகிர் இல் உள்ள மலேசிய அரசு சுகாதார கிளினிக் (Klinik Kesihatan) இன் வெளிப்புறம்
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Lekir,_Kampung_Batu_9_Lekir_20231220_143154.jpg
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-2.webp
+    alt: மலேசிய மாவட்ட பொது சுகாதார கிளினிக்கைக் குறிக்கும் சாலையோர பெயர்ப்பலகை, குறிப்பிட்ட சேவையை வழங்கும் எந்த வசதியையும் பெயரிடாமல் பொது சுகாதார அமைப்பை நடுநிலையாகக் குறிக்கிறது
+    kind: representative
+    origin: third-party
+    subject: பகாங், மாவட்ட அரசு சுகாதார கிளினிக்கின் (Klinik Kesihatan Daerah Raub) பெயர்ப்பலகை
+    credit: Kazuki278 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanda_Klinik_Kesihatan_Daerah_Raub.jpg
 ---
 
 மலேசியாவில் கருக்கலைப்பு முற்றிலும் தடைசெய்யப்பட்டுள்ளது என்று பலர் கருதுகின்றனர் — உண்மையில், சட்டம் அதை இன்னும் சிக்கலான ஒரு இடத்தில் வைக்கிறது: ஒரு முக்கியமான மருத்துவ விதிவிலக்குடன் கூடிய ஒரு குற்றவியல் குற்றம். அந்தக் கோடு எங்கே வரையப்பட்டுள்ளது என்பதைப் புரிந்துகொள்ள, பொதுவான எண்ணங்களை அல்ல, Penal Code-இன் உண்மையான உரையை நாம் படிக்க வேண்டும்.

@@ -26,7 +26,7 @@ verificationNeeded:
   - "เบี้ยประกันและวงเงินความคุ้มครองรายปีที่แน่นอนของ SPIKPA ไม่ได้รับการยืนยันจากแหล่งข้อมูลปฐมภูมิทางการ (พบเพียงแหล่งข้อมูลทุติยภูมิทางวิชาการและนายหน้าประกัน); บทความนี้อธิบายหน้าที่ของโครงการ — ประกันภาคบังคับที่ผูกกับการต่ออายุใบอนุญาตทำงาน ยืนยันบนเว็บไซต์ของกรมตรวจคนเข้าเมืองเอง — โดยไม่ระบุจำนวนเบี้ยหรือความคุ้มครองที่ไม่ได้รับการยืนยัน"
 
 lang: "th"
-sourceContentHash: "f35156bb0be8d93f"
+sourceContentHash: "ad9956b0e60b93d8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-1.webp
+    alt: อาคารโรงพยาบาลรัฐขนาดใหญ่หลายชั้นของมาเลเซียที่มองจากถนนในโกตากีนาบาลูรัฐซาบาห์
+    kind: actual
+    origin: third-party
+    subject: โรงพยาบาลควีนเอลิซาเบธโรงพยาบาลรัฐขนาดใหญ่ของมาเลเซียในโกตากีนาบาลูรัฐซาบาห์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-2.webp
+    alt: ภาพมุมสูงของกลุ่มอาคารหลายหลังของโรงพยาบาลรัฐขนาดใหญ่ของมาเลเซียในจอร์จทาวน์รัฐปีนังมีเส้นขอบฟ้าเมืองอยู่เบื้องหลัง
+    kind: actual
+    origin: third-party
+    subject: โรงพยาบาลปีนัง(HospitalPulauPinang)โรงพยาบาลรัฐขนาดใหญ่ของมาเลเซียในจอร์จทาวน์รัฐปีนัง
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_General_Hospital_2025.jpg
 ---
 
 ผู้เกษียณชาวมาเลเซียที่มีอาการเจ็บหน้าอกโทรเรียกรถพยาบาลและถูกนำส่งโรงพยาบาลของรัฐที่ใกล้ที่สุด ซึ่งแพทย์โรคหัวใจตรวจเขาในราคาค่าบริการที่ครอบคลุมเพียงเศษเสี้ยวของค่าใช้จ่ายจริง เพื่อนบ้านของเขา ผู้ถือใบอนุญาตทำงานจากอินโดนีเซียที่มีอาการเดียวกัน ถูกนำส่งแผนกฉุกเฉินของโรงพยาบาลเดียวกัน — แต่ใบเรียกเก็บเงินที่ตามมาคำนวณตามตารางที่แตกต่างกันโดยสิ้นเชิง เพราะทั้งสองคนในสายตาของกระทรวงไม่ใช่ผู้ป่วยประเภทเดียวกัน

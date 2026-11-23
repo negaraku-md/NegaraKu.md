@@ -22,7 +22,7 @@ appliesTo: "บุตรที่เป็นผู้ใหญ่และส�
 verificationNeeded:
   - "บทความนี้ไม่ได้ระบุค่าธรรมเนียมบ้านพักคนชราเอกชน ความจุเตียง หรือระยะเวลารายการรอสำหรับ Rumah Seri Kenangan เนื่องจากสิ่งเหล่านี้เปลี่ยนบ่อยและไม่ได้รับการยืนยันจากแหล่งข้อมูลทางการ ณ ขณะเขียน — ยืนยันค่าธรรมเนียมและความพร้อมปัจจุบันโดยตรงกับผู้ดำเนินการหรือสำนักงานสวัสดิการสังคมระดับอำเภอ (Jabatan Kebajikan Masyarakat Daerah)"
 lang: "th"
-sourceContentHash: "f10aac9439fe1e51"
+sourceContentHash: "1a2d3ca7550ef3ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Old_Folks_Home,_Taman_Eng_Ann_-_panoramio.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/healthcare-for-seniors/body-1.webp
+    alt: พื้นที่ออกกำลังกายกลางแจ้งสำหรับผู้สูงอายุที่มีเครื่องออกกำลังกายแรงกระแทกต่ำท่ามกลางต้นไม้โดยไม่มีผู้คนอยู่
+    kind: representative
+    origin: third-party
+    subject: มุมออกกำลังกายกลางแจ้งที่มีเครื่องออกกำลังกายสำหรับผู้สูงอายุในหมู่บ้านจัดสรรแห่งหนึ่งในเอเชียตะวันออกเฉียงใต้
+    credit: Exec8 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Senior_Citizen_Exercise_Machines_not_in_use_in_Singapore.jpg
+  - role: scene
+    src: /media/healthcare/healthcare-for-seniors/body-2.webp
+    alt: ทางเข้าและป้ายของบ้านพักคนชราชั้นเดียวในมาเลเซียมีธงชาติมาเลเซียและธงรัฐซาบาห์โบกสะบัดอยู่ด้านหน้า
+    kind: actual
+    origin: third-party
+    subject: รูมาฮ์ศรีพริตชาร์ดบ้านพักคนชราที่กินารุตอำเภอปาปาร์รัฐซาบาห์มาเลเซีย
+    credit: Aangela.Ng / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gambar_hadapan_Rumah_Sri_Pritchard_Kinarut.jpg
 ---
 
 ช่วงเวลานั้นมักมาถึงอย่างเงียบ ๆ พ่อแม่ที่เคยจัดการได้ดีเพียงลำพังเริ่มลืมว่าเตายังเปิดอยู่ หรือหกล้มบ่อยเกินไป และครอบครัวที่ไม่เคยวางแผนสำหรับเรื่องนี้ต้องตัดสินใจอย่างเร่งรีบว่าจะทำอย่างไรต่อไป มาเลเซียมีระบบสำหรับเรื่องนี้อยู่จริง — เพียงแต่มันแยกอยู่ระหว่างคลินิกสุขภาพที่ดูแลผู้สูงอายุอยู่แล้วและระบบสวัสดิการที่ครอบครัวส่วนใหญ่เพิ่งค้นพบเมื่อไปหา

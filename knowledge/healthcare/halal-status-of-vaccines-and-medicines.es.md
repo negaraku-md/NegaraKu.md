@@ -29,7 +29,7 @@ faq:
     a: "La Muzakarah Especial del 3 de diciembre de 2020 dictaminó que el uso de las vacunas contra la COVID-19 es permisible y obligatorio para los grupos designados por el gobierno, a condición de que las vacunas utilizadas sean halal y puras (tayyiban)."
 
 lang: "es"
-sourceContentHash: "27955639bf723dbf"
+sourceContentHash: "44aec46b8cb2607b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-1.webp
+    alt: Una moderna farmacia comunitaria de Malasia en la esquina de una calle, con su rótulo que dice Big Pharmacy, en Kluang, Johor
+    kind: actual
+    origin: third-party
+    subject: Una sucursal de la cadena minorista Big Pharmacy en el centro de la ciudad de Kluang, Johor, Malasia
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-2.webp
+    alt: Hileras de cajas de medicamentos apiladas con orden en las estanterías de una farmacia, que representan los medicamentos envasados y su etiquetado
+    kind: representative
+    origin: third-party
+    subject: Cajas de medicamentos genéricos dispuestas en las estanterías de una farmacia
+    credit: Wilfredor / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_medicines_with_the_yellow_G_stripe_on_pharmacy_shelves,_S%C3%A3o_Paulo.jpg
 ---
 
 Un solo vial de vacuna puede contener un poco de gelatina como estabilizante, y de ese pequeño detalle surge una de las preguntas religiosas que las familias musulmanas de Malasia formulan con más frecuencia: ¿es halal? La respuesta no es un simple «sí» o «no», sino el resultado de un proceso de evaluación estructurado en el que intervienen organismos de la fatua, la investigación científica y varios principios específicos del fiqh.

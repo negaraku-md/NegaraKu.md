@@ -22,7 +22,7 @@ appliesTo: "Enfants adultes et proches en Malaisie pesant les options de prise e
 verificationNeeded:
   - "This article does not state private nursing home fees, bed capacity, or waiting-list length for Rumah Seri Kenangan, since these change often and were not confirmed at an official source at time of writing — confirm current fees and availability directly with the operator or the district Social Welfare Office (Jabatan Kebajikan Masyarakat Daerah)."
 lang: "fr"
-sourceContentHash: "f10aac9439fe1e51"
+sourceContentHash: "1a2d3ca7550ef3ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Old_Folks_Home,_Taman_Eng_Ann_-_panoramio.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/healthcare-for-seniors/body-1.webp
+    alt: Une aire d'exercice en plein air pour personnes âgées avec des machines de fitness à faible impact parmi les arbres, sans aucune personne présente
+    kind: representative
+    origin: third-party
+    subject: Un coin fitness en plein air avec des machines d'exercice pour personnes âgées dans un ensemble résidentiel d'Asie du Sud-Est
+    credit: Exec8 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Senior_Citizen_Exercise_Machines_not_in_use_in_Singapore.jpg
+  - role: scene
+    src: /media/healthcare/healthcare-for-seniors/body-2.webp
+    alt: L'entrée et l'enseigne d'une maison de retraite malaisienne de plain-pied, avec les drapeaux de la Malaisie et de Sabah flottant devant
+    kind: actual
+    origin: third-party
+    subject: Rumah Sri Pritchard, une maison de retraite à Kinarut, district de Papar, Sabah, Malaisie
+    credit: Aangela.Ng / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gambar_hadapan_Rumah_Sri_Pritchard_Kinarut.jpg
 ---
 
 Le moment arrive généralement en silence. Un parent qui se débrouillait très bien

@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "மலேசியாவில் கர்ப்பமாக இருக்கும், கர்ப்பத்தைத் திட்டமிடும், அல்லது கர்ப்பகாலம் முழுவதும் ஒரு துணை அல்லது குடும்ப உறுப்பினருக்கு ஆதரவளிக்கும், மேலும் பொது கர்ப்பகால அமைப்பு, தனியார் பராமரிப்பு மற்றும் பிறப்புப் பதிவு எவ்வாறு ஒன்றாக இணைகின்றன என்பதைப் புரிந்துகொள்ள விரும்பும் எவரும்."
 
 lang: "ta"
-sourceContentHash: "f82d2d99c31a083b"
+sourceContentHash: "c17cd8eb9d265945"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -70,6 +70,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-1.webp
+    alt: காலியான மருத்துவமனை படுக்கை மற்றும் வெளிப்படையான புதிதாய்ப் பிறந்த குழந்தை தொட்டிலைக் காட்டும் சுத்தமான, நவீன மகப்பேறு அறை, யாரும் இல்லை
+    kind: representative
+    origin: third-party
+    subject: மருத்துவமனை படுக்கையும் அதற்கு அருகில் தெளிவான புதிதாய்ப் பிறந்த குழந்தை தொட்டிலும் கொண்ட மகப்பேறு வார்டு அறை
+    credit: Ad Meskens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mechelen_AZ_St_Maarten_Maternity_ward.jpg
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-2.webp
+    alt: சாம்பல் நிற நாற்காலிகள் மற்றும் சுவரில் Antenatal Clinic என்ற வார்த்தைகளுடன் கூடிய நேர்த்தியான, காலியான மருத்துவமனை கர்ப்பகால கிளினிக் காத்திருப்பு அறை
+    kind: representative
+    origin: third-party
+    subject: வரிசையான இருக்கைகள் மற்றும் சுவரில் Antenatal Clinic எழுத்துடன் கூடிய காலியான கர்ப்பகால கிளினிக் காத்திருப்பு பகுதி
+    credit: Lewis Clarke / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taunton_,_Musgrove_Park_Hospital_-_Antenatal_Clinic_-_geograph.org.uk_-_6936070.jpg
 ---
 
 ஒரு நேர்மறையான கர்ப்பப் பரிசோதனை (pregnancy test) ஒரே நேரத்தில் இரண்டு கடிகாரங்களைத் தொடங்கிவைக்கிறது, ஆனால் இதை முன்கூட்டியே யாரும் விளக்குவதில்லை. ஒரு கடிகாரம் கர்ப்பத்தைப் பற்றியது — எப்போது பதிவு செய்வது, எங்கு, ஒவ்வொரு வருகையிலும் என்ன நடக்கிறது. மற்றொன்று குழந்தை பிறந்த பிறகுதான் தொடங்குகிறது, அதற்கு மருத்துவமனைகளுடன் எந்தத் தொடர்பும் இல்லை: அது முற்றிலும் வேறுபட்ட ஒரு துறையில் செய்யப்படும் சட்டப்பூர்வப் பதிவு.

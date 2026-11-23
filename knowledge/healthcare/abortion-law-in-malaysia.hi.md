@@ -31,7 +31,7 @@ faq:
     a: "स्वास्थ्य मंत्रालय के 2012 के दिशानिर्देश गर्भावस्था की समाप्ति को 22 सप्ताह से कम की गर्भ-आयु पर, या, जहाँ आयु अज्ञात हो, जहाँ भ्रूण का अनुमानित वज़न 500 ग्राम से कम हो, की जाने वाली प्रक्रिया के रूप में परिभाषित करते हैं।"
 
 lang: "hi"
-sourceContentHash: "ae2bf4ced7e95cfe"
+sourceContentHash: "9d43a6fec14992c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-1.webp
+    alt: एक ढके हुए प्रवेश द्वार वाला एकमंज़िला सरकारी स्वास्थ्य क्लिनिक भवन, जिसे यहाँ उन सार्वजनिक क्लिनिकों के तटस्थ चित्रण के रूप में प्रयोग किया गया है जहाँ प्रजनन-स्वास्थ्य देखभाल और परामर्श प्रदान किया जाता है
+    kind: representative
+    origin: third-party
+    subject: लेकिर, Perak में एक मलेशियाई सरकारी स्वास्थ्य क्लिनिक (Klinik Kesihatan) का बाहरी दृश्य
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Lekir,_Kampung_Batu_9_Lekir_20231220_143154.jpg
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-2.webp
+    alt: एक मलेशियाई ज़िला सार्वजनिक स्वास्थ्य क्लिनिक को दर्शाता सड़क किनारे का साइनबोर्ड, जो किसी विशिष्ट सेवा प्रदान करने वाली सुविधा का नाम लिए बिना सार्वजनिक स्वास्थ्य प्रणाली का तटस्थ प्रतिनिधित्व करता है
+    kind: representative
+    origin: third-party
+    subject: Pahang में एक ज़िला सरकारी स्वास्थ्य क्लिनिक (Klinik Kesihatan Daerah Raub) का साइनबोर्ड
+    credit: Kazuki278 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanda_Klinik_Kesihatan_Daerah_Raub.jpg
 ---
 
 कई लोग मान लेते हैं कि मलेशिया में गर्भपात पूरी तरह निषिद्ध है — वास्तव में, कानून इसे एक अधिक जटिल स्थान पर रखता है: एक आपराधिक अपराध जिसमें एक महत्वपूर्ण चिकित्सकीय अपवाद है। यह समझने के लिए कि वह रेखा कहाँ खींची गई है, हमें दंड संहिता का वास्तविक पाठ पढ़ना होगा, सामान्य धारणाएँ नहीं।

@@ -21,7 +21,7 @@ verificationNeeded:
   - "บทความนี้ไม่ได้ระบุรายการโรคร้ายแรงที่มีสิทธิ์ครบทั้ง 50 โรคภายใต้ mySalam เพราะรายการโดยละเอียดไม่ได้รับการยืนยันโดยตรงบนเว็บไซต์ทางการ mysalam.com.my ณ ขณะเขียน; โปรดตรวจสอบพอร์ทัลทางการของ mySalam สำหรับรายการฉบับเต็ม"
   - "ระยะเวลาที่มีผลบังคับใช้ของโครงการ mySalam และ PeKa B40 ขึ้นอยู่กับการตัดสินใจงบประมาณประจำปี; ตัวเลขและเงื่อนไขในบทความนี้ได้รับการยืนยันตามเว็บไซต์ทางการ ณ ขณะเขียน (กรกฎาคม 2026) และอาจมีการปรับปรุงในงบประมาณครั้งถัดไป"
 lang: "th"
-sourceContentHash: "de44e0206ee7dfcf"
+sourceContentHash: "40240ae7fdae6576"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -72,6 +72,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Main_building_of_Klinik_Kesihatan_Sibu_Jaya.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-1.webp
+    alt: ภายนอกของKlinikKesihatanNilaiคลินิกสุขภาพสาธารณะของกระทรวงสาธารณสุขมาเลเซียที่ให้บริการชุมชน
+    kind: actual
+    origin: third-party
+    subject: KlinikKesihatanNilaiคลินิกสุขภาพของรัฐในมาเลเซีย
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-2.webp
+    alt: ด้านหน้าของKlinikKesihatanTanglinในกัวลาลัมเปอร์คลินิกสุขภาพของรัฐสาธารณะในมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: KlinikKesihatanTanglinคลินิกสุขภาพของรัฐในกัวลาลัมเปอร์
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Tanglin,_Kuala_Lumpur_20260428_120448.jpg
 ---
 
 หลายคนได้ยินชื่อ "PeKa B40" แต่เข้าใจแตกต่างกันไป — บางคนคิดว่ามันครอบคลุมค่าใช้จ่ายโรงพยาบาลทั้งหมด บางคนสับสนกับ mySalam และบางคนละเลยไปเพราะคิดว่าต้องยื่นขอแยกต่างหาก การเข้าใจทั้งสามข้อนั้นไม่ถูกต้อง PeKa B40 มีขอบเขตที่ชัดเจนและจำกัด — และการรู้ขอบเขตของมันหมายถึงการรู้ว่าเมื่อใดควรใช้ และเมื่อใดต้องหาความช่วยเหลืออื่น

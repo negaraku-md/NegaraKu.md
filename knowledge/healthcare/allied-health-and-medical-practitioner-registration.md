@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Building_Photo-01(91).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-1.webp
+    alt: Blok menara berbilang tingkat sebuah hospital kerajaan Malaysia, jenis persekitaran tempat pengamal perubatan dan kesihatan bersekutu berdaftar bekerja
+    kind: actual
+    origin: third-party
+    subject: Queen Elizabeth Hospital, sebuah hospital tertiari kerajaan di Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-06.jpg
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-2.webp
+    alt: Dua anggota kakitangan sains kesihatan di dalam makmal dengan kabinet biokeselamatan dan peralatan, mewakili profesion kesihatan bersekutu dan makmal yang memerlukan pendaftaran
+    kind: representative
+    origin: third-party
+    subject: Kakitangan makmal berbual di sebelah kabinet biokeselamatan di sebuah makmal penyelidikan perubatan di Malaysia
+    credit: U.S. Navy photo by Tommy Lamkin / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:NAMRU_INDO_PACIFIC_Grows_Partnership_in_Malaysia_(8690749).jpg
 ---
 
 Seseorang boleh memakai kot putih, menggantung sijil di dinding klinik, dan memanggil dirinya "doktor" — tetapi hanya satu perkara yang benar-benar mengesahkan kelayakannya: namanya wujud dalam daftar rasmi. Di Malaysia, setiap doktor, jururawat, ahli farmasi dan ahli fisioterapi mesti berdaftar dengan badan kawal selia profesion mereka. Berita baiknya, anda boleh menyemaknya sendiri, secara percuma.

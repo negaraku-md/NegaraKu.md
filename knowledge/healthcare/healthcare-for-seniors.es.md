@@ -22,7 +22,7 @@ appliesTo: "Hijos adultos y familiares en Malasia que sopesan las opciones de cu
 verificationNeeded:
   - "This article does not state private nursing home fees, bed capacity, or waiting-list length for Rumah Seri Kenangan, since these change often and were not confirmed at an official source at time of writing — confirm current fees and availability directly with the operator or the district Social Welfare Office (Jabatan Kebajikan Masyarakat Daerah)."
 lang: "es"
-sourceContentHash: "f10aac9439fe1e51"
+sourceContentHash: "1a2d3ca7550ef3ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Old_Folks_Home,_Taman_Eng_Ann_-_panoramio.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/healthcare-for-seniors/body-1.webp
+    alt: Una zona de ejercicio al aire libre para personas mayores con máquinas de fitness de bajo impacto entre los árboles, sin personas presentes
+    kind: representative
+    origin: third-party
+    subject: Un rincón de fitness al aire libre con máquinas de ejercicio para adultos mayores en un conjunto residencial del Sudeste Asiático
+    credit: Exec8 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Senior_Citizen_Exercise_Machines_not_in_use_in_Singapore.jpg
+  - role: scene
+    src: /media/healthcare/healthcare-for-seniors/body-2.webp
+    alt: La entrada y el letrero de una residencia de ancianos de Malasia de una sola planta, con las banderas de Malasia y de Sabah ondeando al frente
+    kind: actual
+    origin: third-party
+    subject: Rumah Sri Pritchard, una residencia de ancianos en Kinarut, distrito de Papar, Sabah, Malasia
+    credit: Aangela.Ng / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gambar_hadapan_Rumah_Sri_Pritchard_Kinarut.jpg
 ---
 
 El momento suele llegar en silencio. Un padre que se las arreglaba bien solo

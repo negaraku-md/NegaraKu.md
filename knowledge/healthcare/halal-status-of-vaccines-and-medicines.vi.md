@@ -29,7 +29,7 @@ faq:
     a: "Muzakarah Đặc biệt vào ngày 3 tháng 12 năm 2020 phán quyết việc sử dụng vắc-xin COVID-19 là harus và bắt buộc đối với các nhóm do chính phủ ấn định, với điều kiện vắc-xin được sử dụng mang tính halal và tayyiban."
 
 lang: "vi"
-sourceContentHash: "27955639bf723dbf"
+sourceContentHash: "44aec46b8cb2607b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-1.webp
+    alt: Một nhà thuốc cộng đồng hiện đại của Malaysia ở góc phố, với bảng hiệu ghi Big Pharmacy, tại Kluang, Johor
+    kind: actual
+    origin: third-party
+    subject: Một chi nhánh của chuỗi bán lẻ Big Pharmacy ở trung tâm thị trấn Kluang, Johor, Malaysia
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-2.webp
+    alt: Những hàng hộp thuốc được xếp gọn gàng trên kệ nhà thuốc, đại diện cho thuốc đóng gói và nhãn mác của chúng
+    kind: representative
+    origin: third-party
+    subject: Các hộp thuốc gốc được sắp xếp trên kệ nhà thuốc
+    credit: Wilfredor / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_medicines_with_the_yellow_G_stripe_on_pharmacy_shelves,_S%C3%A3o_Paulo.jpg
 ---
 
 Một lọ vắc-xin có thể chứa một chút gelatin làm chất ổn định — và chính từ chi tiết nhỏ đó nảy sinh một trong những câu hỏi tôn giáo được các gia đình Hồi giáo tại Malaysia đặt ra thường xuyên nhất: nó có halal không? Câu trả lời không chỉ đơn thuần là "có" hay "không", mà là kết quả của một quá trình đánh giá có cấu trúc bao gồm các cơ quan fatwa, nghiên cứu khoa học và một số nguyên tắc fiqh cụ thể.

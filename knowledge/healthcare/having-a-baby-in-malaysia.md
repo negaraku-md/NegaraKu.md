@@ -69,6 +69,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-1.webp
+    alt: A clean, modern maternity room showing an empty hospital bed and a transparent newborn cot, with no people present
+    kind: representative
+    origin: third-party
+    subject: A maternity-ward room with a hospital bed and a clear newborn bassinet beside it
+    credit: Ad Meskens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mechelen_AZ_St_Maarten_Maternity_ward.jpg
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-2.webp
+    alt: A tidy, empty hospital antenatal clinic waiting room with grey chairs and the words Antenatal Clinic on the wall
+    kind: representative
+    origin: third-party
+    subject: An empty antenatal clinic waiting area with rows of seats and Antenatal Clinic lettering on the wall
+    credit: Lewis Clarke / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taunton_,_Musgrove_Park_Hospital_-_Antenatal_Clinic_-_geograph.org.uk_-_6936070.jpg
 ---
 
 A positive pregnancy test starts two clocks at once, and almost nobody explains that up front. One clock is about the pregnancy itself — when to register, where, what happens at each visit. The other only starts after the baby arrives, and it has nothing to do with hospitals: it's a legal registration with a completely different department.

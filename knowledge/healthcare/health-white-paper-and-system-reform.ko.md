@@ -32,7 +32,7 @@ faq:
     a: "정부는 아니라고 강조합니다. Rakan KKM 같은 이니셔티브는 민영화가 아니라 전문의를 공공 부문에 붙잡아 두기 위한 모델로 제시되지만, 일부 관찰자는 그 장기적 영향에 대해 여전히 신중한 태도를 유지합니다."
 
 lang: "ko"
-sourceContentHash: "cbb5bd100c475cf3"
+sourceContentHash: "010ee2d614064f6b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-1.webp
+    alt: 보건부의 한 부서가 입주한 푸트라자야의 말레이시아 연방정부 청사
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 보건부(Kementerian Kesihatan Malaysia)의 푸트라자야 소재 건물
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-2.webp
+    alt: 말레이시아 보건부 접견 홀에서 서명 책상에 앉은 두 관리로, 뒤쪽 벽에는 보건부 명칭과 말레이시아 국장이 걸려 있다
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 보건부의 공식 회의, Kementerian Kesihatan Malaysia 워드마크와 국장 아래에서
+    credit: U.S. Embassy Kuala Lumpur / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2022-02-10-Amb-McFeeters-meets-Health-Minister-Dr-Zaliha-04.jpg
 ---
 
 정부 클리닉은 전국 외래 진료의 거의 3분의 2를 감당합니다 — 그러나 1차 의료 시설의 약 4분의 1만을 차지할 뿐입니다. 이 불균형이, 다른 요인들과 함께, 보건부(Ministry of Health, KKM)로 하여금 한 세대에서 가장 중요한 정책 문서인 보건백서(Health White Paper)를 쓰게 만들었습니다.

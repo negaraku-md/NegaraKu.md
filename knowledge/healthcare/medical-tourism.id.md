@@ -32,7 +32,7 @@ faq:
     a: "Kementerian Kesehatan memberi lisensi kepada fasilitas perawatan kesehatan swasta dan Majlis Perubatan Malaysia mendaftarkan serta mendisiplinkan dokter. Banyak rumah sakit juga memegang akreditasi sukarela dari Malaysian Society for Quality in Health (MSQH) atau Joint Commission International (JCI). MHTC berada di luar rantai regulasi itu."
 
 lang: "id"
-sourceContentHash: "e1a643f3053ee673"
+sourceContentHash: "1c2fd4bc918bf964"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,6 +81,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-1.webp
+    alt: Sebuah bangunan rumah sakit swasta modern dengan fasad kaca di Kota Kinabalu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Gleneagles Hospital, sebuah pusat medis swasta di Kota Kinabalu, Sabah, Malaysia
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Gleneagles-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-2.webp
+    alt: Pintu masuk darurat bertanda sebuah rumah sakit swasta Malaysia, dengan papan direktori yang menunjuk ke arah lobi dan klinik spesialis
+    kind: actual
+    origin: third-party
+    subject: Pintu masuk darurat dan direktori lobi Pantai Hospital, sebuah rumah sakit swasta di Batu Pahat, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_Batu_Pahat_-_Emergency_Lobby.jpg
 ---
 
 Sebuah keluarga dari Jakarta terbang masuk untuk pembedahan bypass jantung ayah mereka. Sepasang suami istri dari Inggris memesan IVF karena daftar tunggu di negara mereka melampaui masa kesuburan mereka. Seorang pasien dari Bangladesh datang untuk skrining kesehatan rutin yang tidak dapat dijalankan oleh klinik di kampung halamannya.

@@ -35,7 +35,7 @@ faq:
 
 lang: "id"
 translationStatus: "in-sync"
-sourceContentHash: "db56299f47270a2d"
+sourceContentHash: "0f2e73064fe07ebb"
 masterLanguage: "en"
 
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-1.webp
+    alt: Loket pendaftaran dan informasi di dalam sebuah rumah sakit pemerintah Malaysia, papan petunjuk mengarahkan pasien ke antrean yang tepat, tanpa seorang pun pasien terlihat
+    kind: actual
+    origin: third-party
+    subject: Loket pendaftaran dan informasi di dalam sebuah rumah sakit pemerintah Malaysia (Hospital Tengku Anis, Pasir Puteh, Kelantan)
+    credit: CyberTroopers / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Tengku_Anis,_Pasir_Puteh.jpg
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-2.webp
+    alt: Bangunan utama bertingkat sebuah rumah sakit spesialis nirlaba besar di Penang, mewakili tingkat rumah sakit dalam jalur rujukan
+    kind: actual
+    origin: third-party
+    subject: Bangunan utama Lam Wah Ee Hospital, sebuah rumah sakit spesialis nirlaba di Penang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Lam_Wah_Ee_Hospital_main_building.jpg
 ---
 
 Rujukan adalah momen penting dalam perawatan siapa pun: dokter Anda telah memutuskan — atau menyarankan — bahwa masalah Anda memerlukan dokter spesialis, dan tiba-tiba Anda menavigasi bagian lain dari sistem kesehatan. Panduan ini dimulai tepat di titik itu. Panduan ini **tidak** memberi tahu apakah Anda memerlukan dokter spesialis; penilaian itu menjadi milik dokter Anda. Yang panduan ini lakukan adalah menjelaskan **bagaimana rujukan sebenarnya bekerja di Malaysia, dan apa yang perlu disiapkan**, agar serah terima dari klinik ke dokter spesialis semulus mungkin.

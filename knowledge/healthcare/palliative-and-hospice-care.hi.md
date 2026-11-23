@@ -29,7 +29,7 @@ faq:
     a: "उपशामक देखभाल उम्र की परवाह किए बिना, बच्चों सहित, जीवन-सीमित बीमारियों से ग्रस्त मरीज़ों के आराम और लक्षण नियंत्रण पर केंद्रित है। इसके विपरीत, वृद्धजन देखभाल बुज़ुर्गों के लिए सामान्य देखभाल है, जिन्हें अंतिम-चरण की बीमारी न भी हो।"
 
 lang: "hi"
-sourceContentHash: "f3444e3062b1aac2"
+sourceContentHash: "08979787420aefe5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-1.webp
+    alt: एक धर्मशाला (hospice) की नीची बगीचे-मुखी इमारत, जिसमें ध्वजदंड और एक शांत प्रवेशमार्ग है, जो एक शांतिपूर्ण धर्मशाला देखभाल सुविधा का प्रतिनिधित्व करती है
+    kind: representative
+    origin: third-party
+    subject: साफ़ आकाश के नीचे बगीचों वाली एक शांत एकमंज़िला धर्मशाला देखभाल इमारत
+    credit: Shkuru Afshar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Canberra_Hospice.jpg
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-2.webp
+    alt: काँच के बरामदे और रोपित क्यारियों वाला एक आधुनिक अस्पताल प्रशामक देखभाल इकाई का प्रवेश द्वार, जो एक विशेषज्ञ प्रशामक देखभाल परिवेश का प्रतिनिधित्व करता है
+    kind: representative
+    origin: third-party
+    subject: एक समर्पित प्रशामक देखभाल इकाई का बगीचा प्रवेश द्वार
+    credit: Jim Barton / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Margaret_Kerr_Unit,_Borders_General_Hospital_-_geograph.org.uk_-_7191073.jpg
 ---
 
 जब उपचार का उद्देश्य अब रोग को ठीक करना नहीं रह जाता, तो ध्यान एक ही चीज़ पर केंद्रित हो जाता है: मरीज़ को आरामदायक और गरिमापूर्ण बनाए रखना। यही उपशामक देखभाल का सार है — और मलेशिया में, इस तक तीन अलग-अलग माध्यमों से पहुँचा जा सकता है।

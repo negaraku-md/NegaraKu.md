@@ -29,7 +29,7 @@ faq:
     a: "नर्सों को मलेशियन नर्सिंग बोर्ड (Lembaga Jururawat Malaysia) द्वारा नर्स अधिनियम 1950 (Nurses Act 1950) के तहत पंजीकृत किया जाता है; फार्मासिस्टों को फार्मेसी बोर्ड मलेशिया (Lembaga Farmasi Malaysia) द्वारा फार्मासिस्ट पंजीकरण अधिनियम 1951 (Registration of Pharmacists Act 1951) (Act 371) के तहत; और फिजियोथेरेपी जैसे संबद्ध स्वास्थ्य पेशों को MAHPC द्वारा संबद्ध स्वास्थ्य पेशा अधिनियम 2016 (Allied Health Professions Act 2016) (Act 774) के तहत।"
 
 lang: "hi"
-sourceContentHash: "d115e96de8bf4353"
+sourceContentHash: "97c25da1e170aaf9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,6 +71,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Building_Photo-01(91).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-1.webp
+    alt: एक मलेशियाई सरकारी अस्पताल का बहुमंज़िला टावर खंड, वह प्रकार का परिवेश जहाँ पंजीकृत चिकित्सा और सहायक-स्वास्थ्य व्यवसायी कार्य करते हैं
+    kind: actual
+    origin: third-party
+    subject: Queen Elizabeth Hospital, Kota Kinabalu, Sabah में एक सार्वजनिक तृतीयक अस्पताल
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-06.jpg
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-2.webp
+    alt: एक प्रयोगशाला में बायोसेफ्टी कैबिनेट और उपकरणों के साथ दो स्वास्थ्य-विज्ञान कर्मचारी, जो पंजीकरण आवश्यक रखने वाले सहायक-स्वास्थ्य और प्रयोगशाला व्यवसायों का प्रतिनिधित्व करते हैं
+    kind: representative
+    origin: third-party
+    subject: मलेशिया की एक चिकित्सा अनुसंधान प्रयोगशाला में बायोसेफ्टी कैबिनेट के पास बातचीत करते प्रयोगशाला कर्मचारी
+    credit: U.S. Navy photo by Tommy Lamkin / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:NAMRU_INDO_PACIFIC_Grows_Partnership_in_Malaysia_(8690749).jpg
 ---
 
 कोई व्यक्ति सफ़ेद कोट पहन सकता है, क्लिनिक की दीवार पर एक प्रमाणपत्र टाँग सकता है, और स्वयं को "डॉक्टर" कह सकता है — परंतु केवल एक ही चीज़ उसकी साख की सच्ची पुष्टि करती है: आधिकारिक रजिस्टर में उसके नाम का प्रकट होना। मलेशिया में, प्रत्येक डॉक्टर, नर्स, फार्मासिस्ट और फिजियोथेरेपिस्ट को उस संस्था के साथ पंजीकृत होना चाहिए जो उनके पेशे को विनियमित करती है। अच्छी बात यह है कि आप इसे स्वयं, निःशुल्क, जाँच सकते हैं।

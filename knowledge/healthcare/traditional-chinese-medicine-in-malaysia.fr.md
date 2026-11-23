@@ -32,7 +32,7 @@ faq:
   - q: "Où peut-on étudier la MTC ?"
     a: "Plusieurs établissements d'enseignement supérieur du pays proposent aujourd'hui un cursus de Licence de médecine chinoise (avec mention), dont certains sont accrédités par l'Agence des qualifications de Malaisie (MQA), par exemple le Southern University College à Skudai, dans le Johor. Être diplômé n'est que la première étape : pour exercer en tant que praticien de MTC, il faut encore satisfaire aux conditions d'enregistrement du Conseil de la médecine traditionnelle et complémentaire. Le statut d'accréditation et les conditions d'admission de chaque cursus doivent être tirés du site officiel de l'établissement et du registre officiel de la MQA."
 lang: "fr"
-sourceContentHash: "c07c03961816c569"
+sourceContentHash: "14675c725a8f0f6b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -81,6 +81,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Medicine_Shop,_George_Town,_Penang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-1.webp
+    alt: La vitrine d'une clinique de médecine traditionnelle chinoise montrant un mur de tiroirs à plantes, un modèle d'acupuncture et des affiches de traitement, représentant la pratique de la MTC
+    kind: representative
+    origin: third-party
+    subject: La vitrine d'un magasin de médecine traditionnelle chinoise avec des tiroirs à plantes et des planches thérapeutiques
+    credit: Jordiferrer / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Chinatown_London_-_Everwell_Chinese_medicine.jpg
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-2.webp
+    alt: Des plantes médicinales chinoises séchées pesées sur une petite balance au comptoir d'un magasin de médecine traditionnelle chinoise
+    kind: representative
+    origin: third-party
+    subject: Des plantes séchées pesées sur une balance dans un magasin de médecine chinoise
+    credit: tomscoffin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2012-06-07_weighing_the_dried_herbs_at_an_Chinese_medicine_shop_at_Kinmen.jpg
 ---
 
 Au coin de nombreuses vieilles villes, il y a toujours une officine de pharmacopée chinoise : le mur d'armoires en bois est hérissé de son quadrillage de petits tiroirs, et l'air est un mélange de racine d'angélique (当归), d'écorce de mandarine séchée (陈皮) et de réglisse (甘草) ; derrière le comptoir, un vieux maître écoute le client décrire où il a mal tout en pesant les matières médicinales une à une sur du papier kraft, avant de les plier en un seul paquet. De telles boutiques existent dans les communautés chinoises de Malaisie depuis plus de cent ans.

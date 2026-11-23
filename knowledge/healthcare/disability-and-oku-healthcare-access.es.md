@@ -31,7 +31,7 @@ faq:
     a: "La Ayuda para Dispositivos de Apoyo/Prótesis (BAT) del JKM cubre sillas de ruedas manuales o eléctricas, piernas y brazos protésicos, audífonos, bastones blancos y máquinas de braille, según el precio real fijado del dispositivo."
 
 lang: "es"
-sourceContentHash: "f4c391c1dbfcea33"
+sourceContentHash: "5e0342d845bb0837"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-1.webp
+    alt: Una rampa accesible de suave pendiente con pasamanos en una estación de LRT de Malasia, que representa el acceso sin escalones para personas con discapacidad
+    kind: representative
+    origin: third-party
+    subject: Una rampa accesible para sillas de ruedas en una estación de transporte público de Malasia
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SP20_Muhibbah_LRT_Accessible_Ramp_20231007_131344.jpg
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-2.webp
+    alt: Una plaza de aparcamiento pintada con el símbolo internacional azul de la silla de ruedas y reservada para personas con discapacidad, que representa las medidas de accesibilidad para OKU
+    kind: representative
+    origin: third-party
+    subject: Una plaza de aparcamiento reservada para OKU (personas con discapacidad) marcada con el símbolo de la silla de ruedas en Malasia
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Disabled_parking_at_Masjid_As_Salam,_Kampung_Kijing_20240227_224921.jpg
 ---
 
 Una sola tarjeta de plástico determina si un niño con autismo recibe terapia temprana, o si un adulto que ha perdido una pierna puede costearse una prótesis. En Malasia, esa tarjeta OKU es la puerta de entrada a casi todos los servicios y formas de ayuda diseñados para personas con discapacidad, y entender cómo funciona ahorra tiempo, dinero y tratamientos retrasados.

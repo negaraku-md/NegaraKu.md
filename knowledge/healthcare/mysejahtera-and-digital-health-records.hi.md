@@ -29,7 +29,7 @@ faq:
     a: "फ़रवरी 2023 में संसद में पेश महालेखा परीक्षक की रिपोर्ट ने उजागर किया कि 28 से 31 अक्टूबर 2021 के बीच MyVAS प्रणाली के एक 'Super Admin' खाते के माध्यम से 30 लाख वैक्सीन-प्राप्तकर्ताओं की व्यक्तिगत जानकारी डाउनलोड की गई थी।"
 
 lang: "hi"
-sourceContentHash: "bd72fa179eba1629"
+sourceContentHash: "782540a82043fef4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:NSK_Trade_City_Kota_Damansara_-_MySejahtera.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-1.webp
+    alt: एक व्यक्ति एक स्मार्टफ़ोन पकड़े हुए है जिस पर स्वास्थ्य और चिकित्सा ऐप्स की एक स्टोर सूची प्रदर्शित है, जो फ़ोन पर उपभोक्ता डिजिटल-स्वास्थ्य उपकरणों को दर्शाता है
+    kind: representative
+    origin: third-party
+    subject: व्यक्तिगत स्वास्थ्य ऐप्स की एक सूची दिखाता एक स्मार्टफ़ोन पकड़े हुए एक हाथ
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Personal_Health_Apps_for_Smartphones.jpg
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-2.webp
+    alt: एक चिकित्सक कई स्क्रीनों वाले एक वर्कस्टेशन पर बैठा है जो एक ECG ट्रेस, एक अल्ट्रासाउंड छवि और एक वीडियो फ़ीड दिखा रही हैं, जो एक अस्पताल डिजिटल स्वास्थ्य-रिकॉर्ड और IT प्रणाली का प्रतिनिधित्व करता है
+    kind: representative
+    origin: third-party
+    subject: डिजिटल रोगी डेटा की समीक्षा करता एक बहु-मॉनिटर चिकित्सा IT वर्कस्टेशन पर एक चिकित्सक
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg
 ---
 
 महामारी के शांत होने पर बहुत से लोगों ने MySejahtera को अपने फ़ोन से हटा दिया — पर ऐप गायब नहीं हुआ। इसने बस अपना काम बदल लिया।

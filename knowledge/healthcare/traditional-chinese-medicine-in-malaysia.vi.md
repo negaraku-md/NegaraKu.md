@@ -32,7 +32,7 @@ faq:
   - q: "Có thể học ngành Trung y ở đâu?"
     a: "Hiện có nhiều cơ sở giáo dục đại học trong nước mở chương trình Cử nhân Y học Trung Hoa (Danh dự), một số đã được Cơ quan Văn bằng Malaysia (MQA) công nhận, ví dụ Southern University College ở Skudai, Johor. Tốt nghiệp chỉ là bước đầu tiên: để hành nghề với tư cách thầy thuốc Trung y, vẫn phải đáp ứng các yêu cầu đăng ký của Hội đồng Y học Cổ truyền và Bổ sung. Tình trạng công nhận và điều kiện tuyển sinh của từng chương trình nên căn cứ vào trang web chính thức của cơ sở và danh bạ chính thức của MQA."
 lang: "vi"
-sourceContentHash: "c07c03961816c569"
+sourceContentHash: "14675c725a8f0f6b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -81,6 +81,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Medicine_Shop,_George_Town,_Penang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-1.webp
+    alt: Ô cửa kính của một phòng khám đông y cổ truyền Trung Hoa cho thấy một bức tường ngăn kéo thảo dược, một mô hình châm cứu và các áp phích điều trị, đại diện cho thực hành đông y (TCM)
+    kind: representative
+    origin: third-party
+    subject: Ô cửa kính của một tiệm thuốc đông y cổ truyền Trung Hoa với các ngăn kéo thảo dược và biểu đồ trị liệu
+    credit: Jordiferrer / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Chinatown_London_-_Everwell_Chinese_medicine.jpg
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-2.webp
+    alt: Thảo dược làm thuốc Trung Hoa đã sấy khô đang được cân trên một chiếc cân nhỏ tại quầy của một tiệm thuốc đông y cổ truyền Trung Hoa
+    kind: representative
+    origin: third-party
+    subject: Thảo dược khô đang được cân trên cân tại một tiệm thuốc đông y Trung Hoa
+    credit: tomscoffin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2012-06-07_weighing_the_dried_herbs_at_an_Chinese_medicine_shop_at_Kinmen.jpg
 ---
 
 Ở góc phố của nhiều thị trấn cũ, bao giờ cũng có một tiệm thuốc Bắc: bức tường tủ gỗ xếp dày đặc những ngăn kéo nhỏ, trong không khí thoảng mùi đương quy (当归), trần bì (陈皮) và cam thảo (甘草) hòa lẫn; sau quầy, ông thầy già vừa nghe khách kể chỗ nào khó chịu vừa cân từng vị dược liệu vào tờ giấy, rồi gói thành một gói thuốc. Những tiệm như thế đã tồn tại trong cộng đồng người Hoa Malaysia hơn một trăm năm.

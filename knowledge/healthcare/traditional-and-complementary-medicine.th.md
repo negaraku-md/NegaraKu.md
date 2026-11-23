@@ -26,7 +26,7 @@ faq:
     a: "สำหรับความผิดครั้งแรก ปรับไม่เกิน RM30,000 หรือจำคุกไม่เกิน 2 ปี หรือทั้งจำทั้งปรับ ความผิดต่อ ๆ ไปสูงสุด RM50,000 หรือจำคุกสูงสุด 3 ปี"
 
 lang: "th"
-sourceContentHash: "63b512945cff4dd9"
+sourceContentHash: "e5b4b45f5bde2ed0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,6 +67,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ze_Xiang,_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-1.webp
+    alt: เข็มฝังเข็มเส้นเล็กสี่เล่มวางบนพื้นผิวข้างเหรียญเพื่อเทียบขนาดแทนการฝังเข็มในฐานะการบำบัดเสริม
+    kind: representative
+    origin: third-party
+    subject: เข็มฝังเข็มแสดงพร้อมเหรียญเพื่อเทียบขนาด
+    credit: Acuhealth / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Acupuncture_Needles.jpg
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-2.webp
+    alt: ลังไม้ใส่ขวดjamuยาบำรุงสมุนไพรดั้งเดิมบรรจุของเหลวสีอำพันปิดปากขวดด้วยใบไม้แทนการแพทย์เสริมด้วยสมุนไพร
+    kind: representative
+    origin: third-party
+    subject: ขวดjamuยาบำรุงสมุนไพรดั้งเดิมของชาวมลายู-อินโดนีเซีย
+    credit: dpinpin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jamu.jpg
 ---
 
 ตั้งแต่วันที่ 1 มีนาคม 2025 หมอนวดแผนดั้งเดิม ผู้ประกอบวิชาชีพการแพทย์แผนจีน นักโฮมีโอพาธี และไคโรแพรกเตอร์ในมาเลเซียไม่สามารถเปิดประตูคลินิกได้อีกต่อไปโดยไม่มีเอกสารหนึ่งฉบับ — ใบรับรองการขึ้นทะเบียน ยุคของ "การประกอบวิชาชีพในนามของประสบการณ์" สิ้นสุดลงแล้ว

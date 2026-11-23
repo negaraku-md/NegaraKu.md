@@ -24,7 +24,7 @@ appliesTo: "任何在马来西亚的人士——公民、居民或访客——�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4ecc5497514e228e"
+sourceContentHash: "632d758693e3fc1a"
 
 status: "published"
 aiAssisted: true
@@ -87,6 +87,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:World_Mental_Health_Day.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-1.webp
+    alt: 一间安静、温馨的心理咨询室，一张小桌周围摆着三把扶手椅，还有一盆绿植，无人在场
+    kind: representative
+    origin: third-party
+    subject: 一间布置用于谈话治疗的宁静心理咨询室，配有扶手椅和柔软的软装
+    credit: RMtherapies / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Therapy_Room_at_Resilient_Mind_Therapies,_Leicester.jpg
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-2.webp
+    alt: 位于新山的一所马来西亚政府精神与心理健康医院的外观
+    kind: actual
+    origin: third-party
+    subject: 新山的Hospital Permai，一所马来西亚政府心理健康医院
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Permai_Hospital_Johor_Bahru.jpg
 ---
 
 决定寻求帮助往往是最难的一步。弄清楚*该向哪里*求助，则是几乎没有人解释清楚的部分——正是这个空白，足以让人始终不敢迈出那一通电话。

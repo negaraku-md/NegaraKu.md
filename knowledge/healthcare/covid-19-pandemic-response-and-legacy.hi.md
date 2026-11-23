@@ -32,7 +32,7 @@ faq:
     a: "यह संसद द्वारा 15 जून 2023 को पारित एक नीतिगत दस्तावेज़ है, जो मलेशिया की स्वास्थ्य प्रणाली के चरणबद्ध 15-वर्षीय सुधार की रूपरेखा प्रस्तुत करता है।"
 
 lang: "hi"
-sourceContentHash: "6b5ead408a9cf117"
+sourceContentHash: "59c6c1853ae29fa8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-1.webp
+    alt: एक मेज़ पर एक कतार में रखी दस क्रमांकित COVID-19 एंटीजन रैपिड-टेस्ट कैसेट, प्रत्येक एक नियंत्रण रेखा दिखा रही है
+    kind: representative
+    origin: third-party
+    subject: नियंत्रण और परीक्षण रेखाएँ दिखाती दस COVID-19 एंटीजन रैपिड टेस्ट कैसेटों की एक कतार
+    credit: Marwan Mohamad / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Test_Antigen.jpg
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-2.webp
+    alt: मलेशिया को उसके COVID-19 परीक्षण और महामारी प्रतिक्रिया में सहायता हेतु आपूर्ति किए गए डिब्बाबंद प्रयोगशाला और नैदानिक उपकरण
+    kind: actual
+    origin: third-party
+    subject: महामारी प्रतिक्रिया के दौरान मलेशिया को पहुँचाए गए COVID-19 पहचान उपकरण
+    credit: IAEA Imagebank / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:COVID-19_Equipment_to_Malaysia_(05890318)_(50705365708).jpg
 ---
 
 18 मार्च 2020 को, मलेशिया भर की सड़कें सन्नाटे में डूब गईं क्योंकि देश ने अपने आधुनिक इतिहास में किसी भी चीज़ से भिन्न एक चरण में प्रवेश किया: COVID-19 के प्रसार को रोकने के लिए आवाजाही पर एक व्यापक प्रतिबंध। इसके बाद लगभग दो वर्षों में, देश की सार्वजनिक स्वास्थ्य प्रतिक्रिया एक राष्ट्रव्यापी लॉकडाउन से क्षेत्र के सबसे तेज़ टीकाकरण कार्यक्रमों में से एक में विकसित हुई — और एक ऐसी छाप छोड़ गई जो आज भी स्वास्थ्य प्रणाली को आकार देती है।

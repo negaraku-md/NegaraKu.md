@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "말레이시아의 누구든지 — 국민, 거주자, 방문객 — 자신이나 다른 사람의 정신 건강을 걱정하며, 클리닉, 병원, 민간 시술자, NGO, 상담 전화 중 어디서 시작할지 구체적으로 알고 싶은 사람."
 
 lang: "ko"
-sourceContentHash: "4ecc5497514e228e"
+sourceContentHash: "632d758693e3fc1a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,6 +87,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:World_Mental_Health_Day.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-1.webp
+    alt: 작은 탁자를 둘러싼 안락의자 세 개와 화분이 놓인 조용하고 편안한 상담실로, 사람은 없다
+    kind: representative
+    origin: third-party
+    subject: 대화 치료를 위해 꾸며진 차분한 상담실로, 안락의자와 부드러운 가구를 갖추고 있다
+    credit: RMtherapies / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Therapy_Room_at_Resilient_Mind_Therapies,_Leicester.jpg
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-2.webp
+    alt: 조호르바루에 있는 말레이시아 정부 정신·정신건강 병원의 외관
+    kind: actual
+    origin: third-party
+    subject: 조호르바루의 프르마이 병원(Hospital Permai), 말레이시아 정부 정신건강 병원
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Permai_Hospital_Johor_Bahru.jpg
 ---
 
 도움을 청하기로 결심하는 것이 흔히 가장 어려운 부분입니다. *어디에* 청할지를 알아내는 것은 거의 아무도 설명해 주지 않는 부분이며 — 바로 그 공백이 사람들이 결코 전화를 걸지 못하게 막습니다.

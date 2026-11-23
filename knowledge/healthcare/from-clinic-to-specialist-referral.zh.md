@@ -35,7 +35,7 @@ faq:
 
 lang: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "db56299f47270a2d"
+sourceContentHash: "0f2e73064fe07ebb"
 masterLanguage: "en"
 
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-1.webp
+    alt: 马来西亚一所政府医院内部的登记与询问柜台，标识指引患者前往正确的排队处，画面中无患者
+    kind: actual
+    origin: third-party
+    subject: 马来西亚一所政府医院（Hospital Tengku Anis，吉兰丹巴西布特）内的登记与询问柜台
+    credit: CyberTroopers / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Tengku_Anis,_Pasir_Puteh.jpg
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-2.webp
+    alt: 槟城一所大型非营利专科医院的多层主楼，代表转诊路径中的医院层级
+    kind: actual
+    origin: third-party
+    subject: 槟城非营利专科医院南华医院（Lam Wah Ee Hospital）的主楼
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Lam_Wah_Ee_Hospital_main_building.jpg
 ---
 
 转介是任何人就医过程中的一个转折时刻：你的医生已经判定——或建议——你的问题需要专科，于是你突然要在医疗系统的另一个部分里寻路。本指南正是从这里接手。它**不会**告诉你是否需要看专科；那个判断属于你的临床医生。它所做的，是解释**在马来西亚转介究竟如何运作，以及需要准备什么**，好让从诊所到专科的交接尽可能顺畅。

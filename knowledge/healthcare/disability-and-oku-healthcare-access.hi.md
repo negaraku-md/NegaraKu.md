@@ -31,7 +31,7 @@ faq:
     a: "JKM के अंतर्गत सहायक/कृत्रिम उपकरण सहायता (BAT) में मैन्युअल या इलेक्ट्रिक व्हीलचेयर, कृत्रिम पैर और हाथ, श्रवण यंत्र, सफ़ेद छड़ियाँ और ब्रेल मशीनें शामिल हैं, जो उपकरण की निर्धारित वास्तविक कीमत के अनुसार हैं।"
 
 lang: "hi"
-sourceContentHash: "f4c391c1dbfcea33"
+sourceContentHash: "5e0342d845bb0837"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-1.webp
+    alt: एक मलेशियाई LRT स्टेशन पर रेलिंग वाला एक धीरे ढलान वाला सुगम्य रैंप, जो विकलांग व्यक्तियों के लिए सीढ़ी-रहित पहुँच का प्रतिनिधित्व करता है
+    kind: representative
+    origin: third-party
+    subject: एक मलेशियाई सार्वजनिक परिवहन स्टेशन पर व्हीलचेयर-सुगम्य रैंप
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SP20_Muhibbah_LRT_Accessible_Ramp_20231007_131344.jpg
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-2.webp
+    alt: एक पार्किंग खाना जिस पर नीला अंतरराष्ट्रीय व्हीलचेयर प्रतीक चित्रित है और जो विकलांग व्यक्तियों के लिए आरक्षित है, जो OKU सुगम्यता प्रावधानों का प्रतिनिधित्व करता है
+    kind: representative
+    origin: third-party
+    subject: मलेशिया में व्हीलचेयर प्रतीक से चिह्नित एक आरक्षित OKU (विकलांग व्यक्ति) पार्किंग खाना
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Disabled_parking_at_Masjid_As_Salam,_Kampung_Kijing_20240227_224921.jpg
 ---
 
 एक अकेला प्लास्टिक कार्ड तय करता है कि ऑटिज़्म से ग्रस्त कोई बच्चा शीघ्र चिकित्सा पाएगा या नहीं, या जिस वयस्क ने अपना पैर खो दिया है वह कृत्रिम पैर ख़रीद पाएगा या नहीं। मलेशिया में, वह OKU कार्ड दिव्यांग व्यक्तियों के लिए डिज़ाइन की गई लगभग हर सेवा और सहायता के रूप का प्रवेशद्वार है — और यह समझना कि यह कैसे काम करता है, समय, पैसा और विलंबित उपचार बचाता है।

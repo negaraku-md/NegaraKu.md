@@ -29,7 +29,7 @@ faq:
     a: "2020 年 12 月 3 日的特别咨询会议裁定，COVID-19 疫苗的使用属许可，且政府指定群体有义务接种，条件是所用疫苗为清真且佳美（tayyiban）。"
 
 lang: "zh"
-sourceContentHash: "27955639bf723dbf"
+sourceContentHash: "44aec46b8cb2607b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-1.webp
+    alt: 位于柔佛州居銮市中心一所现代化的马来西亚社区药房，坐落于街角，招牌写着Big Pharmacy
+    kind: actual
+    origin: third-party
+    subject: 马来西亚柔佛州居銮镇中心Big Pharmacy连锁药房的一家分店
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-2.webp
+    alt: 一排排药品盒整齐地摆放在药房货架上，代表包装药品及其标签
+    kind: representative
+    origin: third-party
+    subject: 药房货架上摆放的多盒非专利药品
+    credit: Wilfredor / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_medicines_with_the_yellow_G_stripe_on_pharmacy_shelves,_S%C3%A3o_Paulo.jpg
 ---
 
 一小瓶疫苗可能含有少量作为稳定剂的明胶——正是从这一细微之处，衍生出马来西亚穆斯林家庭最常提出的宗教疑问之一：它清真吗？答案并非简单的『是』或『否』，而是一套有组织的评估过程的结果，其中涉及法特瓦机构、科学研究，以及若干特定的伊斯兰教法学（fiqh）原则。

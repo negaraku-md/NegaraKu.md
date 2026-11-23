@@ -77,6 +77,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Old_Folks_Home,_Taman_Eng_Ann_-_panoramio.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/healthcare-for-seniors/body-1.webp
+    alt: An outdoor senior-citizen exercise area with low-impact fitness machines among trees, with no people present
+    kind: representative
+    origin: third-party
+    subject: An outdoor fitness corner with exercise machines for older adults in a Southeast Asian housing estate
+    credit: Exec8 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Senior_Citizen_Exercise_Machines_not_in_use_in_Singapore.jpg
+  - role: scene
+    src: /media/healthcare/healthcare-for-seniors/body-2.webp
+    alt: The entrance and signage of a single-storey Malaysian care home for the elderly, with Malaysian and Sabah flags flying out front
+    kind: actual
+    origin: third-party
+    subject: Rumah Sri Pritchard, an old-folks home in Kinarut, Papar district, Sabah, Malaysia
+    credit: Aangela.Ng / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gambar_hadapan_Rumah_Sri_Pritchard_Kinarut.jpg
 ---
 
 The moment usually arrives quietly. A parent who managed fine alone starts

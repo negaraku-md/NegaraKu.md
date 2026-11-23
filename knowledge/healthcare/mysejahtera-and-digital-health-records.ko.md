@@ -29,7 +29,7 @@ faq:
     a: "2023년 2월 국회에 상정된 감사원장 보고서는 2021년 10월 28일부터 31일 사이에 MyVAS 시스템의 'Super Admin' 계정을 통해 300만 명의 백신 접종자 개인정보가 다운로드되었음을 밝혔습니다."
 
 lang: "ko"
-sourceContentHash: "bd72fa179eba1629"
+sourceContentHash: "782540a82043fef4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:NSK_Trade_City_Kota_Damansara_-_MySejahtera.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-1.webp
+    alt: 앱 스토어의 건강·의료 앱 목록을 표시한 스마트폰을 들고 있는 모습으로, 휴대폰에서 쓰는 소비자용 디지털 헬스 도구를 보여준다
+    kind: representative
+    origin: third-party
+    subject: 개인 건강 앱 목록을 표시한 스마트폰을 들고 있는 손
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Personal_Health_Apps_for_Smartphones.jpg
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-2.webp
+    alt: 심전도 파형, 초음파 영상, 영상 피드를 보여주는 여러 화면이 있는 워크스테이션에 앉은 임상의로, 병원의 디지털 건강 기록 및 IT 시스템을 보여준다
+    kind: representative
+    origin: third-party
+    subject: 여러 모니터가 있는 의료 IT 워크스테이션에서 디지털 환자 데이터를 검토하는 임상의
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg
 ---
 
 많은 사람이 팬데믹이 잦아들자 휴대전화에서 MySejahtera를 지웠습니다 — 그러나 그 앱은 사라지지 않았습니다. 단지 하는 일이 바뀌었을 뿐입니다.

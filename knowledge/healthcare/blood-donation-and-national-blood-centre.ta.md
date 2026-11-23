@@ -29,7 +29,7 @@ faq:
     a: "இவர்களில் அதிக ஆபத்து செயல்பாடுகளில் ஈடுபடுவோர், கர்ப்பமாக/மாதவிடாய்/தாய்ப்பால் ஊட்டும் பெண் தானதாரர்கள், 1980 முதல் 1996 வரை UK-இல் 6 மாதம் அல்லது அதற்கு மேல் (திரட்டப்பட்டது) வசித்தவர்கள், அல்லது 1980 முதல் இன்று வரை ஏதேனும் ஐரோப்பிய நாட்டில் 5 ஆண்டுகள் அல்லது அதற்கு மேல் (திரட்டப்பட்டது) வசித்தவர்கள் அடங்குவர் — இவை இரண்டும் vCJD ஆபத்து காரணமாக."
 
 lang: "ta"
-sourceContentHash: "5468a77cc086e2e7"
+sourceContentHash: "a11cdbe79efebb4b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penderma_Darah.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-1.webp
+    alt: காலியான சாய்வு தான நாற்காலிகள், உபகரண வண்டிகள் மற்றும் வரவேற்பு மேசையுடன் கூடிய ஒளிமிக்க இரத்த தான அரங்கம், இரத்தம் தானம் செய்பவர்கள் யாருமில்லை
+    kind: representative
+    origin: third-party
+    subject: காலியான சாய்வு நாற்காலிகள் வரிசையும் உபகரணங்களும் கொண்ட ஒரு இரத்த தான மையத்தின் உட்புறம்
+    credit: R. Henrik Nilsson / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inside_Swedish_blood_donation_center_April_2025.jpg
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-2.webp
+    alt: தான பதிவு சிட்டை மற்றும் குழாயுடன் நிரம்பிய, சீல் செய்யப்பட்ட இரத்த சேகரிப்பு பையை ஒரு கை பிடித்திருக்கிறது, தானம் செய்யப்பட்ட இரத்தத்தை சேகரித்து சேமிக்கப் பயன்படும் உபகரணங்களைக் குறிக்கிறது
+    kind: representative
+    origin: third-party
+    subject: ஒரு தான அமர்வில் தானம் செய்யப்பட்ட ஒரு யூனிட் முழு இரத்தத்தைக் கொண்ட சீல் செய்யப்பட்ட சேகரிப்பு பை
+    credit: Bibeyjj / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blood_Donation_Bag.jpg
 ---
 
 PDN-இன்படி, ஒரே ஒரு இரத்த தானம் குறைந்தது மூன்று உயிர்களைக் காப்பாற்ற முடியும் — ஏனெனில் முழு இரத்தம் வெவ்வேறு நோயாளர்களுக்காக சிவப்பணுக்கள், இரத்தத் தட்டுகள் (platelet) மற்றும் பிளாஸ்மா (plasma) என பதப்படுத்தப்படுகிறது.

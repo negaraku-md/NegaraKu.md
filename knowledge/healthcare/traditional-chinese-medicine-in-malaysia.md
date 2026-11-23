@@ -80,6 +80,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Medicine_Shop,_George_Town,_Penang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-1.webp
+    alt: 一家中医诊所的橱窗，可见一整面药材抽屉、一具针灸人体模型和治疗海报，代表中医（TCM）的诊疗实践
+    kind: representative
+    origin: third-party
+    subject: 一家中医药铺的橱窗，陈列着药材抽屉和疗法图表
+    credit: Jordiferrer / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Chinatown_London_-_Everwell_Chinese_medicine.jpg
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-2.webp
+    alt: 在一家中药铺的柜台上，干药材正放在一台小秤上称重
+    kind: representative
+    origin: third-party
+    subject: 一家中药铺里，干药材正被放在秤上称重
+    credit: tomscoffin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2012-06-07_weighing_the_dried_herbs_at_an_Chinese_medicine_shop_at_Kinmen.jpg
 ---
 
 在许多老城镇的街角，总有一间中药行：木柜墙上密密排着百眼橱，空气里是当归、陈皮与甘草混在一起的气味；柜台后，老师傅一边听客人说哪里不舒服，一边把药材一味一味秤进牛皮纸里，再包成一包药。这样的铺子，在马来西亚华人社区里存在了一百多年。

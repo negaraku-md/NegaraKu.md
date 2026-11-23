@@ -27,7 +27,7 @@ verificationNeeded:
   - "Sự khác biệt chi tiết giữa Klinik Kesihatan, Klinik Komuniti và Klinik Desa về nhân sự và phạm vi điều trị chính xác không thể xác minh đầy đủ trên nguồn chính thức của KKM tại thời điểm soạn thảo; bài viết này chỉ nêu rằng cả ba đều là các cơ sở riêng biệt."
 
 lang: "vi"
-sourceContentHash: "b45c68aeb8d6fe25"
+sourceContentHash: "9a29482e1fe09ea8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-1.webp
+    alt: Khối nhà chính của một phòng khám y tế công Malaysia (Klinik Kesihatan) với lối xe vào có mái che
+    kind: actual
+    origin: third-party
+    subject: Tòa nhà chính của Klinik Kesihatan Jalan Lanang, một phòng khám y tế công ở Sibu, Sarawak
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-2.webp
+    alt: Một phòng khám y tế làng quê nông thôn (Klinik Desa) nhỏ một tầng trên một hòn đảo, cơ sở y tế duy nhất ở đó
+    kind: actual
+    origin: third-party
+    subject: Klinik Desa Pulau Aman, phòng khám y tế nông thôn duy nhất trên đảo Pulau Aman, Penang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Desa_Pulau_Aman,_Pulau_Aman_(220904)_1.jpg
 ---
 
 Sốt không hạ, con cần tiêm chủng, hay huyết áp cần được theo dõi hằng tháng — và câu hỏi đầu tiên nảy ra thường không phải "điều trị thế nào", mà là "nên đến phòng khám nào". Phòng khám tư nhanh nhưng đắt. Bệnh viện công thì đông đúc với những vấn đề nhỏ. Và bản thân "phòng khám nhà nước" thực ra không chỉ là một loại cơ sở — nhiều người không nhận ra Klinik Kesihatan, Klinik Komuniti và Klinik Pergigian là ba cơ sở riêng biệt dưới cùng một mái nhà.

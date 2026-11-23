@@ -30,7 +30,7 @@ faq:
     a: "정부 구급차는 999 회선을 통해 무료로 출동하며, 보건부(KKM)가 세인트존 앰뷸런스(St John Ambulance), 말레이시아 적신월사(Bulan Sabit Merah Malaysia) 같은 자원봉사 단체와 함께 운영합니다. 민간 구급차는 민간 회사나 병원이 자체 핫라인을 통해 운영하며, 신고 내용에 따라 서비스 요금을 부과합니다."
 
 lang: "ko"
-sourceContentHash: "2f1b3605919630fa"
+sourceContentHash: "b7225f842e9db8b3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Toyota_HiAce_(MOH_Malaysia).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-1.webp
+    alt: 말레이시아의 소방구조청(Bomba) 소방서로, 999 신고 회선으로 연결되는 긴급 서비스 중 하나이다
+    kind: actual
+    origin: third-party
+    subject: 소방구조청(Bomba, JBPM) 소방서, 조호르주 파고
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JBPM_Pagoh_Fire_and_Rescue_Station.jpg
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-2.webp
+    alt: 말라카 거리에 있는 세인트존 앰뷸런스 말레이시아 구급차로, 정부 대응과 함께 운영되는 자원봉사 긴급 의료 서비스 중 하나이다
+    kind: actual
+    origin: third-party
+    subject: 말라카에 주차된 세인트존 앰뷸런스 말레이시아(St John Ambulance Malaysia) 긴급 구급차
+    credit: Philip Mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St_John_Ambulance_Malaysia_in_Melaka.jpg
 ---
 
 당신이 999를 누릅니다. 회선 저편의 목소리가 이름, 위치, 무슨 일이 일어났는지를 묻고 — 목표한 시간 안에 구급대가 이미 출동해 있어야 합니다. 그러나 많은 사람이 그 신고 뒤에서 무슨 일이 일어나는지 알지 못합니다. 실제로 누가 받는지, 무료인지, 그리고 왜 병원에 나보다 늦게 도착한 다른 환자가 때로 먼저 치료를 받는지 말입니다.

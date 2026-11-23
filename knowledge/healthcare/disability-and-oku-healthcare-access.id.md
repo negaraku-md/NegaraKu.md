@@ -31,7 +31,7 @@ faq:
     a: "Bantuan Alat Sokongan/Alat Tiruan (BAT) di bawah JKM meliputi kursi roda manual atau elektrik, kaki dan tangan palsu, alat bantu dengar, tongkat putih, dan mesin braille, menurut harga sebenarnya alat yang ditetapkan."
 
 lang: "id"
-sourceContentHash: "f4c391c1dbfcea33"
+sourceContentHash: "5e0342d845bb0837"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-1.webp
+    alt: Ramp landai yang mudah diakses dengan pegangan tangan di sebuah stasiun LRT Malaysia, mewakili akses tanpa tangga bagi penyandang disabilitas
+    kind: representative
+    origin: third-party
+    subject: Ramp yang dapat diakses kursi roda di sebuah stasiun transportasi umum Malaysia
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SP20_Muhibbah_LRT_Accessible_Ramp_20231007_131344.jpg
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-2.webp
+    alt: Petak parkir yang dicat dengan simbol kursi roda internasional berwarna biru dan dikhususkan bagi penyandang disabilitas, mewakili ketentuan aksesibilitas OKU
+    kind: representative
+    origin: third-party
+    subject: Petak parkir khusus OKU (penyandang disabilitas) yang ditandai dengan simbol kursi roda di Malaysia
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Disabled_parking_at_Masjid_As_Salam,_Kampung_Kijing_20240227_224921.jpg
 ---
 
 Sekeping kartu plastik menentukan apakah seorang anak autisme mendapat terapi dini, atau seorang dewasa yang kehilangan kaki mampu memiliki kaki palsu. Di Malaysia, kad OKU itulah pintu masuk kepada hampir setiap layanan dan bantuan yang dirancang untuk penyandang disabilitas — dan memahami cara ia bekerja menghemat waktu, uang, serta perawatan yang tertunda.

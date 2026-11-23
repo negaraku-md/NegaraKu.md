@@ -31,7 +31,7 @@ faq:
     a: "L'Aide aux dispositifs d'assistance/prothèses (BAT) du JKM couvre les fauteuils roulants manuels ou électriques, les prothèses de jambe et de bras, les aides auditives, les cannes blanches et les machines à braille, selon le prix réel fixé du dispositif."
 
 lang: "fr"
-sourceContentHash: "f4c391c1dbfcea33"
+sourceContentHash: "5e0342d845bb0837"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Area_Rehabilitation_Organisation_-_Wheelchair_Lift.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-1.webp
+    alt: Une rampe accessible à faible pente avec mains courantes dans une station de LRT malaisienne, représentant l'accès de plain-pied pour les personnes handicapées
+    kind: representative
+    origin: third-party
+    subject: Une rampe accessible aux fauteuils roulants dans une station de transport en commun malaisienne
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:SP20_Muhibbah_LRT_Accessible_Ramp_20231007_131344.jpg
+  - role: scene
+    src: /media/healthcare/disability-and-oku-healthcare-access/body-2.webp
+    alt: Une place de stationnement peinte du symbole international bleu du fauteuil roulant et réservée aux personnes handicapées, représentant les aménagements d'accessibilité OKU
+    kind: representative
+    origin: third-party
+    subject: Une place de stationnement réservée OKU (personnes handicapées) marquée du symbole du fauteuil roulant en Malaisie
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Disabled_parking_at_Masjid_As_Salam,_Kampung_Kijing_20240227_224921.jpg
 ---
 
 Une seule carte en plastique détermine si un enfant autiste bénéficie d'une thérapie précoce, ou si un adulte ayant perdu une jambe peut se payer une prothèse. En Malaisie, cette carte OKU est la porte d'entrée vers presque tous les services et toutes les formes d'aide conçus pour les personnes en situation de handicap — et comprendre son fonctionnement fait gagner du temps, de l'argent et évite des soins retardés.

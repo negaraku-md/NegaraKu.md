@@ -29,7 +29,7 @@ faq:
     a: "Entre ellos están quienes participan en actividades de alto riesgo, las donantes que están embarazadas, menstruando o en periodo de lactancia, cualquier persona que haya vivido en el Reino Unido durante 6 meses o más (acumulados) entre 1980 y 1996, o que haya vivido en un país europeo durante 5 años o más (acumulados) desde 1980 hasta la actualidad, ambos casos por el riesgo de vECJ."
 
 lang: "es"
-sourceContentHash: "5468a77cc086e2e7"
+sourceContentHash: "a11cdbe79efebb4b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penderma_Darah.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-1.webp
+    alt: Una sala luminosa de donación de sangre bordeada de sillones reclinables vacíos para donantes, carritos de instrumentos y un mostrador de recepción, sin donantes presentes
+    kind: representative
+    origin: third-party
+    subject: Interior de un centro de donación de sangre con una fila de sillones reclinables vacíos para donantes y equipos
+    credit: R. Henrik Nilsson / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Inside_Swedish_blood_donation_center_April_2025.jpg
+  - role: scene
+    src: /media/healthcare/blood-donation-and-national-blood-centre/body-2.webp
+    alt: Una mano sostiene una bolsa de recolección de sangre llena y sellada con su etiqueta de registro de donación y sus tubos, que representa el equipo usado para recolectar y almacenar sangre donada
+    kind: representative
+    origin: third-party
+    subject: Una bolsa de recolección sellada que contiene una unidad de sangre entera donada en una sesión de donación
+    credit: Bibeyjj / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Blood_Donation_Bag.jpg
 ---
 
 Según el PDN, una sola donación de sangre puede salvar al menos tres vidas, porque la sangre completa se procesa en glóbulos rojos, plaquetas y plasma para distintos pacientes.

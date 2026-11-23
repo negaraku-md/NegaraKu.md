@@ -29,7 +29,7 @@ faq:
     a: "간호사는 간호법(Nurses Act 1950)에 따라 말레이시아 간호위원회가, 약사는 약사등록법(Registration of Pharmacists Act 1951, Act 371)에 따라 말레이시아 약사위원회가, 물리치료 같은 보건연계전문직은 보건연계전문직법(Allied Health Professions Act 2016, Act 774)에 따라 MAHPC가 등록합니다."
 
 lang: "ko"
-sourceContentHash: "d115e96de8bf4353"
+sourceContentHash: "97c25da1e170aaf9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,6 +71,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Building_Photo-01(91).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-1.webp
+    alt: 말레이시아 정부 병원의 여러 층짜리 타워 건물로, 등록된 의료인 및 보건의료 관련 전문직이 일하는 유형의 시설을 보여준다
+    kind: actual
+    origin: third-party
+    subject: 퀸 엘리자베스 병원, 사바주 코타키나발루에 있는 공공 3차 병원
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-06.jpg
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-2.webp
+    alt: 생물안전작업대와 장비가 있는 실험실에서 두 명의 보건과학 인력이 이야기를 나누고 있으며, 등록이 필요한 보건의료 관련 전문직과 검사 분야를 대변한다
+    kind: representative
+    origin: third-party
+    subject: 말레이시아의 한 의학연구 실험실에서 생물안전작업대 옆에서 대화하는 검사실 직원
+    credit: U.S. Navy photo by Tommy Lamkin / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:NAMRU_INDO_PACIFIC_Grows_Partnership_in_Malaysia_(8690749).jpg
 ---
 
 누군가는 흰 가운을 입고, 클리닉 벽에 증서를 걸고, 자신을 '의사'라고 부를 수 있습니다 — 그러나 그 자격을 진정으로 증명하는 것은 단 하나입니다. 그의 이름이 공식 등록부에 있는가입니다. 말레이시아에서는 모든 의사, 간호사, 약사, 물리치료사가 각자의 직종 규제 기구에 등록해야 합니다. 다행히, 당신은 그것을 직접, 무료로 확인할 수 있습니다.

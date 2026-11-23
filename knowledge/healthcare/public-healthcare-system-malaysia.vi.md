@@ -27,7 +27,7 @@ faq:
   - q: "PeKa B40 là gì?"
     a: "PeKa B40 (Skim Peduli Kesihatan untuk Kumpulan B40) là một chương trình của MOH do ProtectHealth Corporation vận hành. Nó cấp cho người Malaysia thu nhập thấp đủ điều kiện từ 40 tuổi trở lên — người nhận Sumbangan Tunai Rahmah và vợ/chồng của họ — sàng lọc sức khỏe miễn phí, hỗ trợ thiết bị y tế lên đến RM20,000, khoản khuyến khích điều trị ung thư RM1,000, và hỗ trợ đi lại. Tính đến ngày 31 tháng 3 năm 2025, khoảng 1.6 triệu trong số khoảng 6.9 triệu người thụ hưởng đủ điều kiện đã được sàng lọc."
 lang: "vi"
-sourceContentHash: "62dfb914192fc51a"
+sourceContentHash: "ebf6668ee0094f78"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -136,6 +136,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/public-healthcare-system-malaysia/body-1.webp
+    alt: Một khu nội trú trống với các dãy giường tại một bệnh viện công của Malaysia, Hospital Sultanah Nora Ismail ở Batu Pahat
+    kind: actual
+    origin: third-party
+    subject: Một khu nội trú của bệnh viện công tại Hospital Sultanah Nora Ismail, Batu Pahat
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg
+  - role: scene
+    src: /media/healthcare/public-healthcare-system-malaysia/body-2.webp
+    alt: Mặt ngoài của Hospital Kemaman, một bệnh viện công do Bộ Y tế Malaysia điều hành
+    kind: actual
+    origin: third-party
+    subject: Hospital Kemaman, một tòa nhà bệnh viện công của Malaysia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kemaman_Hospital.jpg
 ---
 
 Bước vào một phòng khám nhà nước của Malaysia và hóa đơn tại quầy gần như bằng không — **RM1** cho đăng ký khám ngoại trú tổng quát. Đó không phải là từ thiện — đó là thiết kế. Malaysia vận hành một **hệ thống y tế hai tầng**: một dịch vụ công do nhà nước điều hành được **Bộ Y tế (MOH, *Kementerian Kesihatan Malaysia*, KKM)** quản lý bên cạnh một khu vực tư nhân lớn. Phía công được **tài trợ hoàn toàn bằng thuế chung, không có các khoản đóng góp bảo hiểm quốc gia bắt buộc**, nên việc chăm sóc được cung cấp với các khoản phí danh nghĩa, được trợ giá nhiều thay vì phí bảo hiểm. Mô hình đó đã tạo ra sự tiếp cận gần như phổ quát với một tỷ trọng khiêm tốn của thu nhập quốc gia — nhưng nay nó mang một gánh nặng chi phí hộ gia đình đang tăng và những áp lực thực sự về nguồn cung. Hướng dẫn này giải thích, bằng ngôn ngữ giản dị, cách bạn tiếp cận hệ thống, chi phí của nó, ai được bao phủ, và nó đang căng thẳng ở đâu.

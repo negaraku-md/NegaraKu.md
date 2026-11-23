@@ -29,7 +29,7 @@ faq:
     a: "มูซาการอฮ์พิเศษเมื่อวันที่ 3 ธันวาคม 2020 ตัดสินว่าการใช้วัคซีน COVID-19 เป็นสิ่งที่อนุญาตและเป็นข้อบังคับที่ต้องรับสำหรับกลุ่มที่รัฐบาลกำหนด โดยมีเงื่อนไขว่าวัคซีนที่ใช้ต้องเป็นฮาลาลและฏ็อยยิบัน (ดีและบริสุทธิ์)"
 
 lang: "th"
-sourceContentHash: "27955639bf723dbf"
+sourceContentHash: "44aec46b8cb2607b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-1.webp
+    alt: ร้านขายยาชุมชนสมัยใหม่ของมาเลเซียที่หัวมุมถนนป้ายเขียนว่าBigPharmacyในกลวงรัฐยะโฮร์
+    kind: actual
+    origin: third-party
+    subject: สาขาหนึ่งของร้านขายยาเครือBigPharmacyในใจกลางเมืองกลวงรัฐยะโฮร์มาเลเซีย
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-2.webp
+    alt: กล่องยาวางเรียงซ้อนอย่างเป็นระเบียบบนชั้นวางของร้านขายยาแทนยาที่บรรจุหีบห่อและฉลากของยา
+    kind: representative
+    origin: third-party
+    subject: กล่องยาสามัญที่จัดวางบนชั้นวางของร้านขายยา
+    credit: Wilfredor / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_medicines_with_the_yellow_G_stripe_on_pharmacy_shelves,_S%C3%A3o_Paulo.jpg
 ---
 
 วัคซีนหนึ่งขวดอาจมีเจลาตินเล็กน้อยเป็นสารคงสภาพ — และจากรายละเอียดเล็ก ๆ นั้นเองที่ก่อให้เกิดหนึ่งในคำถามทางศาสนาที่ครอบครัวมุสลิมในมาเลเซียถามบ่อยที่สุด คือ มันฮาลาลหรือไม่ คำตอบไม่ใช่เพียง "ใช่" หรือ "ไม่ใช่" แต่เป็นผลของกระบวนการประเมินที่มีโครงสร้างซึ่งเกี่ยวข้องกับองค์กรฟัตวา การศึกษาทางวิทยาศาสตร์ และหลักการฟิกฮ์เฉพาะหลายประการ

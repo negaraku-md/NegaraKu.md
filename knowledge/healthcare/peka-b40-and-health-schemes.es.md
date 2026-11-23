@@ -21,7 +21,7 @@ verificationNeeded:
   - "This article does not state the full list of 50 critical illnesses covered under mySalam, because the detailed list could not be verified directly on the official mysalam.com.my website at the time of writing; please check the official mySalam portal for the complete list."
   - "The validity period of the mySalam and PeKa B40 schemes is subject to annual Budget decisions; the figures and conditions in this article were verified against official websites at the time of writing (July 2026) and may be updated in a future Budget."
 lang: "es"
-sourceContentHash: "de44e0206ee7dfcf"
+sourceContentHash: "40240ae7fdae6576"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -72,6 +72,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Main_building_of_Klinik_Kesihatan_Sibu_Jaya.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-1.webp
+    alt: El exterior de la Klinik Kesihatan Nilai, una clínica pública de salud del Ministerio de Salud de Malasia que presta servicio a la comunidad
+    kind: actual
+    origin: third-party
+    subject: Klinik Kesihatan Nilai, una clínica de salud gubernamental de Malasia
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-2.webp
+    alt: La fachada de la Klinik Kesihatan Tanglin en Kuala Lumpur, una clínica pública de salud gubernamental de Malasia
+    kind: actual
+    origin: third-party
+    subject: Klinik Kesihatan Tanglin, una clínica de salud gubernamental en Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Tanglin,_Kuala_Lumpur_20260428_120448.jpg
 ---
 
 Mucha gente ha oído el nombre «PeKa B40», pero las suposiciones sobre él

@@ -35,7 +35,7 @@ faq:
 
 lang: "ko"
 translationStatus: "in-sync"
-sourceContentHash: "db56299f47270a2d"
+sourceContentHash: "0f2e73064fe07ebb"
 masterLanguage: "en"
 
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-1.webp
+    alt: 말레이시아 정부 병원 내부의 접수 및 안내 창구로, 환자를 올바른 대기열로 안내하는 표지가 있으며 환자는 보이지 않는다
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 정부 병원(텡쿠 아니스 병원, 클란탄주 파시르 푸테) 내부의 접수 및 안내 창구
+    credit: CyberTroopers / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Tengku_Anis,_Pasir_Puteh.jpg
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-2.webp
+    alt: 페낭에 있는 대형 비영리 전문병원의 여러 층짜리 본관으로, 의뢰 경로에서의 병원 단계를 보여준다
+    kind: actual
+    origin: third-party
+    subject: 람 와 이 병원의 본관, 페낭의 비영리 전문병원
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Lam_Wah_Ee_Hospital_main_building.jpg
 ---
 
 의뢰는 누구에게나 진료의 전환점입니다. 담당 의사가 당신의 문제에 전문의가 필요하다고 판단했거나 — 또는 권유했고 — 그 순간 당신은 의료 체계의 다른 영역을 헤쳐 나가게 됩니다. 이 글은 바로 그 지점에서 시작합니다. 이 글은 당신에게 전문의가 필요한지 **알려주지 않습니다**. 그 판단은 담당 임상의의 몫입니다. 이 글이 하는 일은 **말레이시아에서 의뢰가 실제로 어떻게 작동하는지, 그리고 무엇을 준비해야 하는지** 설명하여, 클리닉에서 전문의로의 인계가 가능한 한 매끄러워지도록 돕는 것입니다.

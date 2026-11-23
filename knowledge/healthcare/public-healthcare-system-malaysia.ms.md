@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "62dfb914192fc51a"
+sourceContentHash: "ebf6668ee0094f78"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -136,6 +136,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/public-healthcare-system-malaysia/body-1.webp
+    alt: Sebuah wad pesakit dalam yang kosong dengan deretan katil di sebuah hospital awam Malaysia, Hospital Sultanah Nora Ismail di Batu Pahat
+    kind: actual
+    origin: third-party
+    subject: Sebuah wad hospital awam di Hospital Sultanah Nora Ismail, Batu Pahat
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg
+  - role: scene
+    src: /media/healthcare/public-healthcare-system-malaysia/body-2.webp
+    alt: Bahagian luar Hospital Kemaman, sebuah hospital awam yang dikendalikan oleh Kementerian Kesihatan Malaysia
+    kind: actual
+    origin: third-party
+    subject: Hospital Kemaman, sebuah bangunan hospital awam Malaysia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kemaman_Hospital.jpg
 ---
 
 Melangkah masuk ke klinik kerajaan Malaysia dan bil di kaunter hampir tiada — **RM1** untuk pendaftaran pesakit luar am. Itu bukan derma — itu reka bentuk. Malaysia mengendalikan **sistem penjagaan kesihatan dua peringkat**: perkhidmatan awam yang dikendalikan kerajaan di bawah **Kementerian Kesihatan (MOH, *Kementerian Kesihatan Malaysia*, KKM)** di samping sektor swasta yang besar. Bahagian awam **dibiayai sepenuhnya oleh cukai am, tanpa sumbangan insurans nasional wajib**, jadi penjagaan disampaikan pada yuran nominal yang disubsidi tinggi dan bukannya premium. Model itu telah menghasilkan akses hampir sejagat pada bahagian pendapatan negara yang sederhana — tetapi ia kini membawa beban kos isi rumah yang meningkat serta tekanan bekalan yang nyata. Panduan ini menerangkan, dalam istilah mudah, cara anda mengakses sistem ini, berapa kosnya, siapa yang dilindunginya, dan di mana ia tertekan.

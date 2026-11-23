@@ -34,7 +34,7 @@ faq:
     a: "没有专门针对艾滋病毒的法律。《刑事法典》如第 269 与 270 条的一般条文可适用于危险疾病的传播，但迄今没有已知的艾滋病毒起诉案例。"
 
 lang: "zh"
-sourceContentHash: "1cab11648c701e91"
+sourceContentHash: "02af4c69b96a1c17"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:HIV_Vaccine_Awareness_Ribbon_-_1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-1.webp
+    alt: 一个HIV快速检测卡匣、缓冲液瓶和用品摆放在铺有干净纸张的桌面上，由戴手套的双手操作，画面中不露面孔
+    kind: representative
+    origin: third-party
+    subject: 检测前摆放在桌上的一套HIV快速检测试剂，由戴手套的双手操作
+    credit: varnent / Equality Michigan (LGBT Free Media Collective) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:HIV_Rapid_Test_on_table.jpg
+  - role: scene
+    src: /media/healthcare/hiv-aids-and-sexual-health-services/body-2.webp
+    alt: 一座矮层的公共性健康诊所坐落于街角，外墙挂有宣传横幅，无人在场
+    kind: representative
+    origin: third-party
+    subject: 一座挂有健康宣传横幅的公共性健康诊所外观
+    credit: Chris.sherlock2 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Liverpool_Sexual_Health_Clinic_01.jpg
 ---
 
 一个在高风险的一夜之后感到担忧的人，可以走进马来西亚的一家政府卫生诊所，免费且保密地进行艾滋病毒检测，并且——如有需要——在数小时内带着预防药物回家。然而这条路同样与保密、法律、宗教和污名化的问题相交织，使艾滋病毒成为这个国家最敏感的健康话题之一。

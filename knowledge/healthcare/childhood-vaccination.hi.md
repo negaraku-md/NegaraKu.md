@@ -26,7 +26,7 @@ verificationNeeded:
   - "अतिरिक्त/वैकल्पिक टीकों (उदाहरण के लिए, शुल्क के बदले प्रदान किए जाने वाले गैर-अनिवार्य टीके) के विवरण की लेखन के समय KKM के आधिकारिक स्रोतों के विरुद्ध पुष्टि नहीं की जा सकी, और इसलिए इस लेख में उन्हें विशेष रूप से नहीं बताया गया है।"
 
 lang: "hi"
-sourceContentHash: "82fc03d17115b374"
+sourceContentHash: "26f12be03c0c4dd9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-1.webp
+    alt: KKM ब्रांडिंग और प्रतीक्षा कुर्सियों की कतारों वाला एक मलेशियाई स्वास्थ्य मंत्रालय का बाल टीकाकरण केंद्र, जिसमें केवल दूर कुछ लोग दिखाई दे रहे हैं
+    kind: actual
+    origin: third-party
+    subject: Pavilion Bukit Jalil, Kuala Lumpur में स्वास्थ्य मंत्रालय का बाल टीकाकरण केंद्र (PPV PICKids)
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-2.webp
+    alt: एक ढक्कनदार वैक्सीन शीशी एक पहले से भरी हुई वैक्सीन सिरिंज के पास खड़ी है, जो टीकाकरण अनुसूची के तहत दी जाने वाली वैक्सीनों का प्रतिनिधित्व करती है
+    kind: representative
+    origin: third-party
+    subject: एक सादी सतह पर एक वैक्सीन शीशी और एक पहले से भरी हुई इन्फ्लूएंज़ा वैक्सीन सिरिंज
+    credit: Whispyhistory / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Comirnaty_Omicron_XBB.1.5_vial_and_influenza_vaccine_2023.jpg
 ---
 
 मलेशिया में सरकारी क्लीनिक या अस्पताल में जन्मा हर बच्चा घर सिर्फ़ एक अस्थायी जन्म प्रमाणपत्र से ज़्यादा लेकर लौटता है — वह एक छोटी पुस्तिका के साथ घर जाता है जिसे अगले छह वर्षों तक क्लीनिक की *हर* यात्रा पर ले जाया जाएगा। वह पुस्तिका, और जो टीकाकरण अनुसूची वह दर्ज करती है, देश के सबसे लंबे समय से चले आ रहे सार्वजनिक स्वास्थ्य कार्यक्रमों में से एक का हिस्सा है।

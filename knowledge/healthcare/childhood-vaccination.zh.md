@@ -42,7 +42,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "82fc03d17115b374"
+sourceContentHash: "26f12be03c0c4dd9"
 sources:
   - title: "国家免疫时间表（2023年8月更新）(Jadual Imunisasi Kebangsaan (Kemaskini Ogos 2023))"
     url: "https://infosihat.moh.gov.my/penerbitan-multimedia/infografik/item/jadual-imunisasi-kebangsaan-kemaskini-ogos-2023.html"
@@ -78,6 +78,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-1.webp
+    alt: 一所马来西亚卫生部的儿童疫苗接种中心，带有KKM（卫生部）标识和一排排候诊座椅，远处仅有寥寥数人
+    kind: actual
+    origin: third-party
+    subject: 卫生部儿童疫苗接种中心（PPV PICKids），位于吉隆坡Pavilion Bukit Jalil
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-2.webp
+    alt: 一支盖好的疫苗瓶立于一支预充式疫苗注射器旁，代表按免疫接种时间表施打的疫苗
+    kind: representative
+    origin: third-party
+    subject: 一支疫苗瓶与一支预充式流感疫苗注射器置于素色台面上
+    credit: Whispyhistory / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Comirnaty_Omicron_XBB.1.5_vial_and_influenza_vaccine_2023.jpg
 ---
 
 在马来西亚，每一名在政府诊所或医院出生的婴儿，除了会拿到一张临时出生证明外，还会带回一本小册子——这本小册子在接下来六年内的*每一次*诊所就诊都必须携带。这本小册子，以及它所记录的接种时间表，是这个国家历史最悠久的公共卫生计划之一的一部分。

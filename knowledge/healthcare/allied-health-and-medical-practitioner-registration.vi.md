@@ -29,7 +29,7 @@ faq:
     a: "Điều dưỡng viên được đăng ký bởi Ban Điều dưỡng Malaysia theo Nurses Act 1950; dược sĩ bởi Ban Dược Malaysia theo Registration of Pharmacists Act 1951 (Act 371); và các nghề y tế liên kết như vật lý trị liệu bởi MAHPC theo Allied Health Professions Act 2016 (Act 774)."
 
 lang: "vi"
-sourceContentHash: "d115e96de8bf4353"
+sourceContentHash: "97c25da1e170aaf9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,6 +71,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Building_Photo-01(91).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-1.webp
+    alt: Khối tháp nhiều tầng của một bệnh viện công Malaysia, loại môi trường nơi các bác sĩ và nhân viên y tế liên quan đã đăng ký hành nghề làm việc
+    kind: actual
+    origin: third-party
+    subject: Queen Elizabeth Hospital, một bệnh viện công tuyến cuối ở Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-06.jpg
+  - role: scene
+    src: /media/healthcare/allied-health-and-medical-practitioner-registration/body-2.webp
+    alt: Hai nhân viên khoa học sức khỏe trong phòng thí nghiệm với tủ an toàn sinh học và thiết bị, đại diện cho các ngành y tế liên quan và xét nghiệm cần đăng ký hành nghề
+    kind: representative
+    origin: third-party
+    subject: Nhân viên phòng thí nghiệm trò chuyện bên cạnh tủ an toàn sinh học trong một phòng thí nghiệm nghiên cứu y khoa ở Malaysia
+    credit: U.S. Navy photo by Tommy Lamkin / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:NAMRU_INDO_PACIFIC_Grows_Partnership_in_Malaysia_(8690749).jpg
 ---
 
 Một người có thể mặc áo blouse trắng, treo chứng chỉ trên tường phòng khám, và tự gọi mình là «bác sĩ» — nhưng chỉ một điều thực sự xác minh trình độ của họ: tên của họ tồn tại trong sổ đăng ký chính thức. Ở Malaysia, mọi bác sĩ, điều dưỡng viên, dược sĩ và nhà vật lý trị liệu đều phải đăng ký với cơ quan quản lý ngành nghề của họ. Tin tốt là bạn có thể tự kiểm tra, miễn phí.

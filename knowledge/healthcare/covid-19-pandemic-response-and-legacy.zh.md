@@ -32,7 +32,7 @@ faq:
     a: "这是一份于 2023 年 6 月 15 日获国会通过的政策文件，勾勒出马来西亚卫生系统为期 15 年的分阶段改革蓝图。"
 
 lang: "zh"
-sourceContentHash: "6b5ead408a9cf117"
+sourceContentHash: "59c6c1853ae29fa8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-1.webp
+    alt: 十个编号的COVID-19抗原快速检测卡匣在桌上排成一行，每个均显示出一条对照线
+    kind: representative
+    origin: third-party
+    subject: 一排十个COVID-19抗原快速检测卡匣，显示对照线与检测线
+    credit: Marwan Mohamad / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Test_Antigen.jpg
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-2.webp
+    alt: 供应给马来西亚以支持其COVID-19检测与疫情应对的盒装实验室及诊断设备
+    kind: actual
+    origin: third-party
+    subject: 疫情应对期间运抵马来西亚的COVID-19检测设备
+    credit: IAEA Imagebank / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:COVID-19_Equipment_to_Malaysia_(05890318)_(50705365708).jpg
 ---
 
 2020 年 3 月 18 日，马来西亚全国道路变得空荡冷清，国家进入现代史上前所未有的阶段：全面限制人员流动，以遏制新冠疫情的扩散。在随后约两年的时间里，国家的公共卫生应对从全面封锁演变为该地区最迅速的疫苗接种计划之一——并留下了至今仍在塑造卫生系统的深远影响。

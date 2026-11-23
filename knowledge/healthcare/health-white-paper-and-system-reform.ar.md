@@ -32,7 +32,7 @@ faq:
     a: "تؤكّد الحكومة أنها ليست كذلك. فمبادرات مثل Rakan KKM تُقدَّم بوصفها نموذجًا للاحتفاظ بالأخصائيين في القطاع العام، لا خصخصةً، مع أن بعض المراقبين يظلّون حذرين إزاء آثارها على المدى الطويل."
 
 lang: "ar"
-sourceContentHash: "cbb5bd100c475cf3"
+sourceContentHash: "010ee2d614064f6b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-1.webp
+    alt: مبنى مكاتب حكومية اتحادية ماليزي في Putrajaya يضمّ إحدى شُعَب وزارة الصحة
+    kind: actual
+    origin: third-party
+    subject: مبنى لوزارة الصحة الماليزية (Kementerian Kesihatan Malaysia) في Putrajaya
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-2.webp
+    alt: مسؤولان إلى مكتب توقيع في قاعة استقبال بوزارة الصحة الماليزية، وخلفهما على الجدار اسم الوزارة وشعار ماليزيا
+    kind: actual
+    origin: third-party
+    subject: اجتماع رسمي في وزارة الصحة الماليزية، أسفل شعار Kementerian Kesihatan Malaysia والرمز الوطني
+    credit: U.S. Embassy Kuala Lumpur / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2022-02-10-Amb-McFeeters-meets-Health-Minister-Dr-Zaliha-04.jpg
 ---
 
 تتولّى العيادات الحكومية قرابة ثُلثَي زيارات المرضى الخارجيين في البلاد — ومع ذلك لا تمثّل سوى نحو واحدة من كل أربع منشآت للرعاية الأولية. هذا الاختلال، من بين أمور أخرى، هو ما دفع وزارة الصحة الماليزية (MOH) إلى كتابة أهمّ وثيقة سياسات منذ جيل: الورقة البيضاء للصحة.

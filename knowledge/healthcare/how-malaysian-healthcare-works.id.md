@@ -26,7 +26,7 @@ verificationNeeded:
   - "Premi yang tepat dan batas perlindungan tahunan SPIKPA tidak disahkan pada sumber utama resmi (hanya sumber sekunder akademik dan broker asuransi yang ditemukan); artikel ini menjelaskan fungsi skema itu — asuransi wajib yang berkaitan dengan pembaruan izin kerja, disahkan pada laman Jabatan Imigresen sendiri — tanpa menyatakan premi atau jumlah perlindungan yang tidak disahkan."
 
 lang: "id"
-sourceContentHash: "f35156bb0be8d93f"
+sourceContentHash: "ad9956b0e60b93d8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-1.webp
+    alt: Sebuah kompleks rumah sakit pemerintah Malaysia bertingkat yang besar dilihat dari jalan di Kota Kinabalu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Queen Elizabeth Hospital, sebuah rumah sakit pemerintah Malaysia utama di Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-2.webp
+    alt: Pemandangan udara kompleks multi-bangunan sebuah rumah sakit pemerintah Malaysia besar di George Town, Penang, dengan garis langit kota di belakang
+    kind: actual
+    origin: third-party
+    subject: Penang General Hospital (Hospital Pulau Pinang), sebuah rumah sakit pemerintah Malaysia utama di George Town, Penang
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_General_Hospital_2025.jpg
 ---
 
 Seorang pensiunan Malaysia yang mengalami nyeri dada memanggil ambulans dan dibawa ke rumah sakit pemerintah terdekat, tempat seorang spesialis kardiologi menanganinya dengan biaya yang hanya mencakup sebagian kecil dari biaya sebenarnya. Tetangganya, seorang pemegang izin kerja dari Indonesia dengan gejala yang sama, dibawa ke unit gawat darurat rumah sakit yang sama — tetapi tagihan yang menyusul dihitung menurut jadwal yang sama sekali berbeda, karena keduanya bukan, menurut pandangan kementerian, jenis pasien yang sama.

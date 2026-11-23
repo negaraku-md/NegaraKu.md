@@ -47,7 +47,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "2f1b3605919630fa"
+sourceContentHash: "b7225f842e9db8b3"
 sources:
   - title: "马来西亚紧急应变服务（MERS）999 (Malaysia Emergency Response Services (MERS) 999)"
     url: "https://www.malaysia.gov.my/my/my-initiative/keselamatan-siber-dan-tindak-balas-serta-pemulihan-bencana/tindak-balas-serta-pemulihan-bencana/malaysia-emergency-response-services-mers-999"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Toyota_HiAce_(MOH_Malaysia).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-1.webp
+    alt: 马来西亚一座消防与拯救局（Bomba）消防站，是通过999报警专线可呼叫的紧急服务之一
+    kind: actual
+    origin: third-party
+    subject: 消防与拯救局（Bomba, JBPM）消防站，位于柔佛州Pagoh
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JBPM_Pagoh_Fire_and_Rescue_Station.jpg
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-2.webp
+    alt: 马六甲街头一辆圣约翰救伤队马来西亚（St John Ambulance Malaysia）救护车，是与政府应急体系并行运作的志愿紧急医疗服务之一
+    kind: actual
+    origin: third-party
+    subject: 一辆停在马六甲的圣约翰救伤队马来西亚（St John Ambulance Malaysia）紧急救护车
+    credit: Philip Mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St_John_Ambulance_Malaysia_in_Melaka.jpg
 ---
 
 你拨了999。电话另一端的声音询问你的姓名、地点，以及发生了什么事——在设定的目标时间内，一支救护车队应该已经在路上。但许多人并不知道这通电话背后发生了什么事：究竟是谁在接听、是否免费，以及为什么比你晚到医院的其他病患，有时反而比你先获得治疗。

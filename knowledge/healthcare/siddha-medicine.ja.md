@@ -32,7 +32,7 @@ faq:
   - q: "誰がシッダ医学の施術者として登録できますか。"
     a: "775号法のもと、伝統インド医学の分野で従事しようとする者は、伝統・補完医療（T&CM）評議会に登録しなければなりません。この法律は段階的に施行されました。暫定的な移行期間の後、未登録の者は認められた分野でサービスを提供することを禁じられています。公開時点の最新の要件については、保健省の伝統・補完医療部門に確認してください。"
 lang: "ja"
-sourceContentHash: "e7e71bfa77ac1056"
+sourceContentHash: "a717b54b027c6c0e"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lekiyam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-1.webp
+    alt: 伝統的な南インドの生薬薬局のつつましい店構え。Siddhaに近い伝統インド医学の実践を表している
+    kind: representative
+    origin: third-party
+    subject: 伝統的な南インドの生薬薬局（vaidyasala）の店構え
+    credit: Fotokannan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sadananda_vaidyasala2.jpg
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-2.webp
+    alt: 手のひらにのせた、できあがった黒っぽい生姜のlehyam。伝統的なタミルのSiddha生薬ペースト製剤
+    kind: representative
+    origin: third-party
+    subject: 手のひらにのせた仕上がりの生姜lehyam、タミルのSiddha生薬製剤
+    credit: Chronikhiles / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ginger_Lehyam.jpg
 ---
 
 マレーシアの古いプランテーションの土地や、町なかのタミル人の街路では、薬草店を見かけることができます——乾燥させた薬草、散剤（choornam）、油が棚にずらりと並んでいます。これらは偶然ではありません。一世紀半を超える医学の伝統が残した痕跡です。

@@ -32,7 +32,7 @@ faq:
     a: "บางครั้ง MMC ต้องการให้การปรึกษาแบบเสมือนเป็นการติดตามผลหลังจากมีความสัมพันธ์แพทย์-ผู้ป่วยที่มีอยู่แล้ว แต่อนุญาตให้ปรึกษาออนไลน์ครั้งแรก โดยเฉพาะในการดูแลปฐมภูมิ หากแพทย์บันทึกเหตุผล แพทย์ถูกบอกให้ระมัดระวังเกี่ยวกับการสั่งยาแก่ผู้ป่วยที่ตนไม่ได้ตรวจด้วยตนเองและส่งต่อคุณไปพบแบบตัวต่อตัวเมื่อสื่อออนไลน์ไม่เพียงพอที่จะประเมินคุณอย่างปลอดภัย"
 
 lang: "th"
-sourceContentHash: "d63421290bd45b29"
+sourceContentHash: "f1875085ff264e86"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-1.webp
+    alt: แพทย์ที่โต๊ะทำงานพูดโทรศัพท์พร้อมจดบันทึกมีเสื้อกาวน์สีขาวแขวนอยู่บนที่แขวนด้านหลังแทนการปรึกษาแพทย์ทางไกลผ่านโทรศัพท์
+    kind: representative
+    origin: third-party
+    subject: แพทย์ให้คำปรึกษาทางไกลทางโทรศัพท์ที่โต๊ะทำงาน
+    credit: Mona Hassan Abo-Abda / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Covid_19_Doctor_Phone_Consultation.jpg
+  - role: scene
+    src: /media/healthcare/telemedicine-and-online-doctor-services/body-2.webp
+    alt: มือถือสมาร์ตโฟนที่เปิดแอปปรึกษาทางไกลผ่านวิดีโอพร้อมหัวตรวจอัลตราซาวนด์แบบมือถือแทนการวินิจฉัยออนไลน์ทางไกล
+    kind: representative
+    origin: third-party
+    subject: การตรวจอัลตราซาวนด์ทางไกลโดยนำทางผ่านวิดีโอด้วยแอปบนสมาร์ตโฟน
+    credit: U.S. Army photo by Staff Sgt. Elizabeth Bryson / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Medical_team_tests_new_tech_(6426496).jpg
 ---
 
 คุณเปิดแอป วิดีโอคอลกับแพทย์จากโซฟาของคุณ และใบสั่งยามาถึงกล่องจดหมายของคุณในหนึ่งชั่วโมงต่อมา ในมาเลเซียนั่นถูกกฎหมายอย่างสิ้นเชิง — แต่กฎเกณฑ์เบื้องหลังไม่ใช่กฎหมายที่คุณอาจคาดคิด

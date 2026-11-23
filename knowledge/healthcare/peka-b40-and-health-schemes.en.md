@@ -23,7 +23,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "de44e0206ee7dfcf"
+sourceContentHash: "40240ae7fdae6576"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -72,6 +72,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Main_building_of_Klinik_Kesihatan_Sibu_Jaya.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-1.webp
+    alt: The exterior of Klinik Kesihatan Nilai, a Malaysian Ministry of Health public health clinic serving the community
+    kind: actual
+    origin: third-party
+    subject: Klinik Kesihatan Nilai, a Malaysian government health clinic
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg
+  - role: scene
+    src: /media/healthcare/peka-b40-and-health-schemes/body-2.webp
+    alt: The frontage of Klinik Kesihatan Tanglin in Kuala Lumpur, a Malaysian public government health clinic
+    kind: actual
+    origin: third-party
+    subject: Klinik Kesihatan Tanglin, a government health clinic in Kuala Lumpur
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Tanglin,_Kuala_Lumpur_20260428_120448.jpg
 ---
 
 Many people have heard the name "PeKa B40," but assumptions about it vary

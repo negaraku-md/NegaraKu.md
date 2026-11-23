@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "முதலாளியின் மருத்துவ காப்பீட்டை ஒரு தனிப்பட்ட மருத்துவ அட்டைக்கு எதிராக எடைபோடும் ஊழியர்கள், மற்றும் ஒரு பாலிசியை வாங்குவதற்கு அல்லது புதுப்பிப்பதற்கு முன் ‘இணை-கட்டணம்’ என்றால் என்ன என்பதைப் புரிந்துகொள்ள முயலும் எவரும்."
 
 lang: "ta"
-sourceContentHash: "f3d82432e2ef0103"
+sourceContentHash: "bdd7b7c140cf69f0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,6 +81,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-1.webp
+    alt: பினாங், செபராங் பிறாயில் உள்ள ஒரு பெரிய நவீன தனியார் மருத்துவமனை கட்டிடத்தின் வான்வழிக் காட்சி
+    kind: actual
+    origin: third-party
+    subject: மலேசியா, பினாங், செபராங் பிறாயில் உள்ள தனியார் மருத்துவமனையான Sunway Medical Centre
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_in_Seberang_Perai,_Penang.jpg
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-2.webp
+    alt: ஒளிமிக்க நுழைவு மண்டபத்தில் வளைந்த மருத்துவமனை வரவேற்பு மேசை, அனுமதி மற்றும் கட்டண விவரத்தைக் குறிக்கிறது, தொலைவில் சிலர்
+    kind: representative
+    origin: third-party
+    subject: முதன்மை நுழைவு நடைகூடத்தில் மருத்துவமனை வரவேற்பு மற்றும் அனுமதி பணியிடம்
+    credit: Rodhullandemu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Reception_Desk,_Arrowe_Park_Hospital.jpg
 ---
 
 இரண்டு ஊழியர்கள் ஒரே மாதிரியான முறிந்த கையுடன் ஒரே தனியார் மருத்துவமனைக்குள் நுழைகிறார்கள். ஒருவர் ஒரு அட்டையை நீட்டி, வெளியேறும்போது ஒரு சென் கூட செலுத்தாமல் வெளியேறுகிறார். மற்றவர் மசோதாவின் ஒரு பகுதியைத் தாமே செலுத்துகிறார், ஏனெனில் ஆறு மாதங்களுக்கு முன்பு அவர் வாங்கிய பாலிசி சரியாக அந்தக் காரணத்திற்காகவே மலிவாக இருந்தது.

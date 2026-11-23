@@ -44,7 +44,7 @@ revisions:
 sensitivity: "none"
 
 updated: 2026-07-24
-sourceContentHash: "f35156bb0be8d93f"
+sourceContentHash: "ad9956b0e60b93d8"
 sources:
   - title: "Fakta Kesihatan 2024 (Data Rujukan bagi Tahun 2023) (Health Facts 2024 (Reference Data for Year 2023))"
     url: "https://myhdw.moh.gov.my/public/documents/20186/150084/HEALTH+FACTS+2024/52a11e45-a0ed-4379-b226-1bd2786cc11e?version=1.0&download=true"
@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-1.webp
+    alt: Sebuah kompleks hospital kerajaan Malaysia berbilang tingkat yang besar dilihat dari jalan di Kota Kinabalu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Queen Elizabeth Hospital, sebuah hospital kerajaan Malaysia yang utama di Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-2.webp
+    alt: Pemandangan udara kompleks berbilang bangunan sebuah hospital kerajaan Malaysia yang besar di George Town, Pulau Pinang, dengan garis langit bandar di belakang
+    kind: actual
+    origin: third-party
+    subject: Penang General Hospital (Hospital Pulau Pinang), sebuah hospital kerajaan Malaysia yang utama di George Town, Pulau Pinang
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_General_Hospital_2025.jpg
 ---
 
 Seorang pesara Malaysia yang mengalami sakit dada memanggil ambulans dan dibawa ke hospital kerajaan yang terdekat, di mana seorang pakar kardiologi menemuinya dengan bayaran yang hanya meliputi sebahagian kecil daripada kos sebenar. Jirannya, seorang pemegang permit kerja dari Indonesia dengan gejala yang sama, dibawa ke jabatan kecemasan hospital yang sama — tetapi bil yang mengikutinya dikira mengikut jadual yang sama sekali berbeza, kerana kedua-dua mereka bukan, pada pandangan kementerian, jenis pesakit yang sama.

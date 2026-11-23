@@ -32,7 +32,7 @@ faq:
     a: "이는 2023년 6월 15일 국회에서 승인된 정책 문서로, 말레이시아 보건 체계의 15년에 걸친 단계적 개혁을 제시합니다."
 
 lang: "ko"
-sourceContentHash: "6b5ead408a9cf117"
+sourceContentHash: "59c6c1853ae29fa8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-1.webp
+    alt: 번호가 매겨진 COVID-19 항원 신속검사 카세트 10개가 테이블 위에 한 줄로 놓여 있으며, 각각 대조선이 나타나 있다
+    kind: representative
+    origin: third-party
+    subject: 대조선과 검사선이 나타난 COVID-19 항원 신속검사 카세트 10개의 줄
+    credit: Marwan Mohamad / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Test_Antigen.jpg
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-2.webp
+    alt: COVID-19 검사와 방역 대응을 지원하기 위해 말레이시아에 공급된 상자 포장 실험실 및 진단 장비
+    kind: actual
+    origin: third-party
+    subject: 방역 대응 과정에서 말레이시아에 전달된 COVID-19 검출 장비
+    credit: IAEA Imagebank / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:COVID-19_Equipment_to_Malaysia_(05890318)_(50705365708).jpg
 ---
 
 2020년 3월 18일, 말레이시아 전역의 도로가 텅 비었습니다. 나라가 현대사에서 겪어 본 적 없는 국면에 들어섰기 때문입니다. COVID-19 확산을 막기 위한 전면적 이동 제한이었습니다. 이후 약 2년 동안, 국가의 공중보건 대응은 전면적 봉쇄에서 이 지역에서 가장 빠른 예방접종 프로그램 중 하나로 발전했고 — 오늘날까지도 보건 체계를 빚어 가는 영향을 남겼습니다.

@@ -26,7 +26,7 @@ verificationNeeded:
   - "SPIKPA இன் சரியான பிரீமியமும் ஆண்டு பாதுகாப்பு உச்சவரம்பும் அதிகாரப்பூர்வ முதன்மை மூலத்தில் உறுதிப்படுத்தப்படவில்லை (கல்வித்துறை மற்றும் காப்பீட்டு தரகர் இரண்டாம்நிலை மூலங்கள் மட்டுமே கிடைத்தன); இக்கட்டுரை உறுதிப்படுத்தப்படாத பிரீமியம் அல்லது பாதுகாப்புத் தொகையைக் கூறாமல் அத்திட்டத்தின் செயல்பாட்டை — குடிவரவுத் துறையின் சொந்த தளத்தில் உறுதிப்படுத்தப்பட்ட, வேலை அனுமதிச் சீட்டைப் புதுப்பித்தலுடன் இணைக்கப்பட்ட கட்டாய காப்பீடு — விவரிக்கிறது."
 
 lang: "ta"
-sourceContentHash: "f35156bb0be8d93f"
+sourceContentHash: "ad9956b0e60b93d8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-1.webp
+    alt: சபா, கோட்டா கினபாலுவில் சாலையிலிருந்து காணப்படும் ஒரு பெரிய பல மாடி மலேசிய அரசு மருத்துவமனை வளாகம்
+    kind: actual
+    origin: third-party
+    subject: சபா, கோட்டா கினபாலுவில் உள்ள ஒரு முக்கிய மலேசிய அரசு மருத்துவமனையான Queen Elizabeth Hospital
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-2.webp
+    alt: பின்னணியில் நகர வானோரக்கோட்டுடன், பினாங், ஜார்ஜ் டவுனில் உள்ள ஒரு பெரிய மலேசிய அரசு மருத்துவமனையின் பல கட்டிட வளாகத்தின் வான்வழிக் காட்சி
+    kind: actual
+    origin: third-party
+    subject: பினாங், ஜார்ஜ் டவுனில் உள்ள ஒரு முக்கிய மலேசிய அரசு மருத்துவமனையான Penang General Hospital (Hospital Pulau Pinang)
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_General_Hospital_2025.jpg
 ---
 
 நெஞ்சு வலியுடன் இருக்கும் ஒரு மலேசிய ஓய்வூதியர் ஆம்புலன்ஸை அழைத்து அருகிலுள்ள அரசாங்க மருத்துவமனைக்குக் கொண்டு செல்லப்படுகிறார்; அங்கு ஒரு இதயநோய் நிபுணர் அவரை உண்மையான செலவின் ஒரு சிறு பகுதியை மட்டுமே மறைக்கும் கட்டணத்திற்கு பார்க்கிறார். அதே அறிகுறிகளைக் கொண்ட, இந்தோனேசியாவைச் சேர்ந்த வேலை அனுமதிச் சீட்டு வைத்திருக்கும் அவரது அண்டை வீட்டுக்காரர், அதே மருத்துவமனையின் அவசர சிகிச்சைப் பிரிவுக்குக் கொண்டு செல்லப்படுகிறார் — ஆனால் அதைத் தொடர்ந்து வரும் மருத்துவச் சீட்டு முற்றிலும் வேறுபட்ட ஒரு அட்டவணையின்படி கணக்கிடப்படுகிறது, ஏனெனில் அமைச்சின் பார்வையில் அவ்விருவரும் ஒரே வகையான நோயாளிகள் அல்ல.

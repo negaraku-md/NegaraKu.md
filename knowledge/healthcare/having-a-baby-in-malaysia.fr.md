@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Toute personne en Malaisie qui est enceinte, qui planifie une grossesse, ou qui accompagne une partenaire ou un membre de sa famille durant une grossesse, et qui souhaite comprendre comment s'articulent le système prénatal public, les soins privés et l'enregistrement de la naissance."
 
 lang: "fr"
-sourceContentHash: "f82d2d99c31a083b"
+sourceContentHash: "c17cd8eb9d265945"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -70,6 +70,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-1.webp
+    alt: Une chambre de maternité propre et moderne montrant un lit d'hôpital vide et un berceau transparent pour nouveau-né, sans aucune personne présente
+    kind: representative
+    origin: third-party
+    subject: Une chambre de service de maternité avec un lit d'hôpital et, à côté, un berceau transparent pour nouveau-né
+    credit: Ad Meskens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mechelen_AZ_St_Maarten_Maternity_ward.jpg
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-2.webp
+    alt: Une salle d'attente de clinique prénatale d'hôpital, soignée et vide, avec des chaises grises et les mots Antenatal Clinic au mur
+    kind: representative
+    origin: third-party
+    subject: Une salle d'attente vide de clinique prénatale avec des rangées de sièges et les lettres Antenatal Clinic au mur
+    credit: Lewis Clarke / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taunton_,_Musgrove_Park_Hospital_-_Antenatal_Clinic_-_geograph.org.uk_-_6936070.jpg
 ---
 
 Un test de grossesse positif met en route deux horloges à la fois, et presque personne ne l'explique à l'avance. Une horloge concerne la grossesse elle-même : quand s'enregistrer, où, ce qui se passe à chaque visite. L'autre ne démarre qu'à l'arrivée du bébé, et n'a rien à voir avec les hôpitaux : il s'agit d'un enregistrement légal auprès d'un département complètement différent.

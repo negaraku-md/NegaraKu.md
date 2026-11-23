@@ -30,7 +30,7 @@ faq:
     a: "नहीं। Act 852 सभी तंबाकू और वेप उत्पादों की ऑनलाइन प्लेटफ़ॉर्म और वेंडिंग मशीनों के माध्यम से बिक्री पर प्रतिबंध लगाता है।"
 
 lang: "hi"
-sourceContentHash: "47453ebb80993a06"
+sourceContentHash: "e3bef5516f0e5eec"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Prohibition-signs-No-smoking-sign-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-1.webp
+    alt: Johor Bahru, मलेशिया के एक रेस्तराँ के अंदर एक दीवार पर लगा एक धूम्रपान-निषेध चिह्न, जो एक धूम्रपान-मुक्त परिसर का संकेत देता है
+    kind: actual
+    origin: third-party
+    subject: Johor Bahru, मलेशिया के एक रेस्तराँ में प्रदर्शित एक धूम्रपान-निषेध सूचना
+    credit: Jonashtand / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:201906_%22No_smoking%22_sign_in_a_restaurant_in_Johor_Bahru,_Malaysia.jpg
+  - role: scene
+    src: /media/healthcare/smoking-and-vaping-law-act-852/body-2.webp
+    alt: एक व्यक्ति के मुँह के पास एक vape डिवाइस पकड़े हुए एक हाथ का क्लोज़-अप, जो कानून के तहत विनियमित इलेक्ट्रॉनिक सिगरेट उपयोग को दर्शाता है
+    kind: representative
+    origin: third-party
+    subject: एक इलेक्ट्रॉनिक सिगरेट (vape) डिवाइस पकड़े हुए एक व्यक्ति
+    credit: Vaper City / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vape_device_in_hand.jpg
 ---
 
 पहली बार, मलेशिया में एक सिगरेट और एक वेप उपकरण एक ही कानून के अधीन हैं — और किशोरों को बेचने पर प्रतिबंध अब महज़ एक नीति नहीं रह गया, बल्कि एक अपराध बन गया है जिसके लिए हज़ारों रिंगिट के जुर्माने की सज़ा है।

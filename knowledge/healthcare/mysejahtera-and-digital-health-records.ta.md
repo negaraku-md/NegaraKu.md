@@ -29,7 +29,7 @@ faq:
     a: "2023 பிப்ரவரியில் நாடாளுமன்றத்தில் (Parliament) சமர்ப்பிக்கப்பட்ட தலைமைத் தணிக்கையாளர் அறிக்கை, 30 லட்சம் (3 million) தடுப்பூசி பெறுநர்களின் தனிப்பட்ட தகவல் 2021 அக்டோபர் 28 முதல் 31 வரை MyVAS அமைப்பின் ஒரு ‘Super Admin’ கணக்கு மூலம் பதிவிறக்கம் செய்யப்பட்டதை வெளிப்படுத்தியது."
 
 lang: "ta"
-sourceContentHash: "bd72fa179eba1629"
+sourceContentHash: "782540a82043fef4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:NSK_Trade_City_Kota_Damansara_-_MySejahtera.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-1.webp
+    alt: ஒருவர் சுகாதார மற்றும் மருத்துவ ஆப்களின் கடைப் பட்டியலைக் காட்டும் ஸ்மார்ட்போனைப் பிடித்திருக்கிறார், தொலைபேசியில் நுகர்வோர் டிஜிட்டல் சுகாதார கருவிகளை விளக்குகிறது
+    kind: representative
+    origin: third-party
+    subject: தனிப்பட்ட சுகாதார ஆப்களின் பட்டியலைக் காட்டும் ஸ்மார்ட்போனை ஒரு கை பிடித்திருக்கிறது
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Personal_Health_Apps_for_Smartphones.jpg
+  - role: scene
+    src: /media/healthcare/mysejahtera-and-digital-health-records/body-2.webp
+    alt: ECG சுவடு, அல்ட்ராசவுண்டு படம் மற்றும் வீடியோ ஊட்டத்தைக் காட்டும் பல திரைகளுடன் கூடிய பணிநிலையத்தில் அமர்ந்திருக்கும் ஒரு மருத்துவர், மருத்துவமனையின் டிஜிட்டல் சுகாதார பதிவுகள் மற்றும் தகவல் தொழில்நுட்ப அமைப்பைக் குறிக்கிறது
+    kind: representative
+    origin: third-party
+    subject: பல மானிட்டர் மருத்துவ தகவல் தொழில்நுட்ப பணிநிலையத்தில் டிஜிட்டல் நோயாளி தரவைப் பரிசீலிக்கும் ஒரு மருத்துவர்
+    credit: Intel Free Press / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg
 ---
 
 தொற்றுநோய் தணிந்தபோது பலர் தங்கள் தொலைபேசிகளிலிருந்து MySejahtera-ஐ நீக்கிவிட்டனர் — ஆனால் அந்த செயலி மறைந்துவிடவில்லை. அது வெறுமனே வேலையை மாற்றிக்கொண்டது.

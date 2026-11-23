@@ -29,7 +29,7 @@ faq:
     a: "நோய்த்தணிப்பு பராமரிப்பு, குழந்தைகள் உட்பட, வயதைப் பொருட்படுத்தாமல் உயிரைக் குறுக்கும் நோயுள்ள நோயாளிகளுக்கு வசதி மற்றும் அறிகுறிக் கட்டுப்பாட்டில் கவனம் செலுத்துகிறது. மாறாக, மூத்த குடிமக்கள் பராமரிப்பு என்பது இறுதிக்கட்ட நோய் இல்லாத வயதானவர்களுக்கான பொதுவான பராமரிப்பு."
 
 lang: "ta"
-sourceContentHash: "f3444e3062b1aac2"
+sourceContentHash: "08979787420aefe5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-1.webp
+    alt: கொடிக்கம்பங்கள் மற்றும் அமைதியான வாகனப்பாதையுடன், முன்பக்கத்தில் தோட்டம் கொண்ட தாழ்வான ஹாஸ்பிஸ் கட்டிடம், ஒரு அமைதியான ஹாஸ்பிஸ் பராமரிப்பு வசதியைக் குறிக்கிறது
+    kind: representative
+    origin: third-party
+    subject: தெளிவான வானத்தின் கீழ் தோட்டங்களுடன் கூடிய அமைதியான ஒரு மாடி ஹாஸ்பிஸ் பராமரிப்பு கட்டிடம்
+    credit: Shkuru Afshar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Canberra_Hospice.jpg
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-2.webp
+    alt: கண்ணாடி முன்மண்டபம் மற்றும் நடப்பட்ட தாவரப் படுக்கைகளுடன் கூடிய ஒரு நவீன மருத்துவமனை நோய்த்தணிப்பு பராமரிப்பு பிரிவின் நுழைவாயில், ஒரு சிறப்பு நோய்த்தணிப்பு பராமரிப்பு சூழலைக் குறிக்கிறது
+    kind: representative
+    origin: third-party
+    subject: ஒரு சிறப்பு நோய்த்தணிப்பு பராமரிப்பு பிரிவின் தோட்ட நுழைவாயில்
+    credit: Jim Barton / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Margaret_Kerr_Unit,_Borders_General_Hospital_-_geograph.org.uk_-_7191073.jpg
 ---
 
 சிகிச்சை இனி குணப்படுத்துவதை நோக்கமாகக் கொள்ளாதபோது, கவனம் ஒரே ஒரு விஷயத்தின் மீது திரும்புகிறது: நோயாளியை வசதியாகவும் கண்ணியத்துடனும் வைத்திருப்பது. அதுவே நோய்த்தணிப்பு பராமரிப்பின் சாராம்சம் — மேலும் மலேசியாவில், அதை மூன்று வெவ்வேறு வழிகள் மூலம் அணுக முடியும்.

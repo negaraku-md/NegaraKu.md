@@ -32,7 +32,7 @@ faq:
   - q: "Siapa yang boleh mendaftar sebagai pengamal Siddha?"
     a: "Di bawah Akta 775, mereka yang ingin bekerja dalam bidang Perubatan Tradisional India mesti berdaftar dengan Majlis T&CM. Akta ini dikuatkuasakan secara berperingkat; selepas tempoh peralihan interim, mereka yang tidak berdaftar dilarang menyediakan perkhidmatan dalam bidang amalan yang diiktiraf. Sila sahkan keperluan semasa dengan Bahagian T&CM Kementerian pada masa penerbitan."
 lang: "ms"
-sourceContentHash: "e7e71bfa77ac1056"
+sourceContentHash: "a717b54b027c6c0e"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lekiyam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-1.webp
+    alt: Bahagian hadapan kedai yang sederhana sebuah dispensari ubat herba tradisional India Selatan, mewakili amalan perubatan tradisional India seumpama Siddha
+    kind: representative
+    origin: third-party
+    subject: Bahagian hadapan kedai dispensari ubat herba tradisional India Selatan (vaidyasala)
+    credit: Fotokannan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sadananda_vaidyasala2.jpg
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-2.webp
+    alt: Seketul lehyam halia berwarna gelap, sebuah sediaan pes herba Siddha Tamil tradisional, dipegang di telapak tangan yang terbuka
+    kind: representative
+    origin: third-party
+    subject: Lehyam halia siap, sebuah sediaan herba Siddha Tamil, dipegang di tapak tangan
+    credit: Chronikhiles / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ginger_Lehyam.jpg
 ---
 
 Di tanah ladang lama Malaysia, dan di lorong-lorong Tamil di bandar-bandarnya, anda boleh menemui sebuah kedai herba — herba kering, serbuk (choornam) dan minyak tersusun berderet di raknya. Ini bukan suatu kebetulan; ia merupakan kesan sebuah tradisi perubatan yang berusia lebih seabad setengah.

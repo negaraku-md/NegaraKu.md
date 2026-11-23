@@ -32,7 +32,7 @@ faq:
     a: "C'est un document de politique publique adopté par le Parlement le 15 juin 2023, qui trace une réforme par phases du système de santé malaisien sur 15 ans."
 
 lang: "fr"
-sourceContentHash: "6b5ead408a9cf117"
+sourceContentHash: "59c6c1853ae29fa8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:PWTC_vaccination_center_hall_May_2021.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-1.webp
+    alt: Dix cassettes numérotées de test antigénique rapide de la COVID-19 alignées sur une table, chacune affichant une ligne de contrôle
+    kind: representative
+    origin: third-party
+    subject: Une rangée de dix cassettes de test antigénique rapide de la COVID-19 affichant les lignes de contrôle et de test
+    credit: Marwan Mohamad / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rapid_Test_Antigen.jpg
+  - role: scene
+    src: /media/healthcare/covid-19-pandemic-response-and-legacy/body-2.webp
+    alt: Du matériel de laboratoire et de diagnostic emballé fourni à la Malaisie pour soutenir ses tests de dépistage de la COVID-19 et sa réponse à la pandémie
+    kind: actual
+    origin: third-party
+    subject: Matériel de détection de la COVID-19 livré à la Malaisie pendant la riposte à la pandémie
+    credit: IAEA Imagebank / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:COVID-19_Equipment_to_Malaysia_(05890318)_(50705365708).jpg
 ---
 
 Le 18 mars 2020, les rues de toute la Malaisie se sont tues alors que le pays entrait dans une phase sans équivalent dans son histoire moderne : une restriction généralisée des déplacements pour freiner la propagation de la COVID-19. Au cours des deux années qui ont environ suivi, la réponse de santé publique du pays a évolué d'un confinement national vers l'un des programmes de vaccination les plus rapides de la région — et a laissé une empreinte qui façonne encore le système de santé aujourd'hui.

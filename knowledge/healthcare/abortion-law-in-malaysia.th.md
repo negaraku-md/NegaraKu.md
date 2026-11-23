@@ -31,7 +31,7 @@ faq:
     a: "แนวปฏิบัติของกระทรวงสาธารณสุขปี 2012 นิยามการยุติการตั้งครรภ์ว่าเป็นหัตถการที่อายุครรภ์น้อยกว่า 22 สัปดาห์ หรือเมื่อไม่ทราบอายุครรภ์ ให้ประมาณว่าทารกในครรภ์น้อยกว่า 500 กรัม"
 
 lang: "th"
-sourceContentHash: "ae2bf4ced7e95cfe"
+sourceContentHash: "9d43a6fec14992c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-1.webp
+    alt: อาคารคลินิกสุขภาพของรัฐชั้นเดียวที่มีทางเข้าแบบมีหลังคาคลุมใช้เป็นภาพประกอบอย่างเป็นกลางแทนคลินิกสาธารณะที่ให้บริการดูแลและให้คำปรึกษาด้านอนามัยการเจริญพันธุ์
+    kind: representative
+    origin: third-party
+    subject: ภายนอกคลินิกสุขภาพของรัฐ(KlinikKesihatan)ที่เลอกีร์รัฐเปรักประเทศมาเลเซีย
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Lekir,_Kampung_Batu_9_Lekir_20231220_143154.jpg
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-2.webp
+    alt: ป้ายริมถนนบอกตำแหน่งคลินิกสุขภาพสาธารณะระดับอำเภอของมาเลเซียใช้แทนระบบสาธารณสุขอย่างเป็นกลางโดยไม่ระบุสถานบริการที่ให้บริการเฉพาะด้านใด
+    kind: representative
+    origin: third-party
+    subject: ป้ายคลินิกสุขภาพของรัฐระดับอำเภอ(KlinikKesihatanDaerahRaub)รัฐปะหัง
+    credit: Kazuki278 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanda_Klinik_Kesihatan_Daerah_Raub.jpg
 ---
 
 หลายคนคิดว่าการทำแท้งเป็นสิ่งต้องห้ามโดยสิ้นเชิงในมาเลเซีย — แต่ในความเป็นจริง กฎหมายวางมันไว้ในพื้นที่ที่ซับซ้อนกว่านั้น กล่าวคือ เป็นความผิดทางอาญาที่มีข้อยกเว้นทางการแพทย์ที่สำคัญข้อหนึ่ง การเข้าใจว่าเส้นแบ่งนั้นถูกลากไว้ที่ใด จำเป็นต้องอ่านตัวบทที่แท้จริงของประมวลกฎหมายอาญา ไม่ใช่ความเข้าใจทั่วไป

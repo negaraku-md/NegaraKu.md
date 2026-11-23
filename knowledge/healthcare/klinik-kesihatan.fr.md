@@ -27,7 +27,7 @@ verificationNeeded:
   - "Les différences détaillées entre la Klinik Kesihatan, la Klinik Komuniti et la Klinik Desa en matière de personnel et d'étendue précise du traitement n'ont pu être pleinement vérifiées auprès de sources officielles du KKM au moment de la rédaction ; cet article indique seulement que les trois sont des établissements distincts."
 
 lang: "fr"
-sourceContentHash: "b45c68aeb8d6fe25"
+sourceContentHash: "9a29482e1fe09ea8"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-1.webp
+    alt: Le bloc principal d'une clinique de santé gouvernementale malaisienne (Klinik Kesihatan) avec une allée d'entrée couverte
+    kind: actual
+    origin: third-party
+    subject: Le bâtiment principal de la Klinik Kesihatan Jalan Lanang, une clinique de santé gouvernementale à Sibu, Sarawak
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Jalan_Lanang_main_building.jpg
+  - role: scene
+    src: /media/healthcare/klinik-kesihatan/body-2.webp
+    alt: Une petite clinique de santé rurale de village de plain-pied (Klinik Desa) sur une île, le seul établissement de santé sur place
+    kind: actual
+    origin: third-party
+    subject: Klinik Desa Pulau Aman, l'unique clinique de santé rurale de l'île de Pulau Aman, Penang
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Desa_Pulau_Aman,_Pulau_Aman_(220904)_1.jpg
 ---
 
 Une fièvre qui ne tombe pas, un enfant à qui il faut administrer un vaccin, ou

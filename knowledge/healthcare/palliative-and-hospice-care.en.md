@@ -29,7 +29,7 @@ faq:
     a: "Palliative care focuses on comfort and symptom control for patients with life-limiting illnesses, regardless of age, including children. Elderly care, by contrast, is general care for older people who may not have an end-stage illness."
 
 lang: "en"
-sourceContentHash: "f3444e3062b1aac2"
+sourceContentHash: "08979787420aefe5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Palliative_medicine_family_conference_room.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-1.webp
+    alt: The low garden-fronted building of a hospice, with flagpoles and a quiet driveway, representing a peaceful hospice care facility
+    kind: representative
+    origin: third-party
+    subject: A calm single-storey hospice care building with gardens under a clear sky
+    credit: Shkuru Afshar / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Canberra_Hospice.jpg
+  - role: scene
+    src: /media/healthcare/palliative-and-hospice-care/body-2.webp
+    alt: A modern hospital palliative care unit entrance with a glass porch and planted beds, representing a specialist palliative care setting
+    kind: representative
+    origin: third-party
+    subject: The garden entrance of a dedicated palliative care unit
+    credit: Jim Barton / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Margaret_Kerr_Unit,_Borders_General_Hospital_-_geograph.org.uk_-_7191073.jpg
 ---
 
 When treatment is no longer aimed at curing, the focus shifts to one thing: keeping the patient comfortable and dignified. That is the essence of palliative care — and in Malaysia, it can be accessed through three different channels.

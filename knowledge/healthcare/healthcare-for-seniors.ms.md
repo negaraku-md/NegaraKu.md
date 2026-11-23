@@ -69,7 +69,7 @@ relations:
   - { rel: "related-to", to: "mm2h-long-stay-visa" }
 related: ["mm2h-long-stay-visa"]
 keywords: ["elderly care Malaysia", "nursing home Malaysia", "Rumah Seri Kenangan", "Rumah Ehsan", "geriatric care Malaysia", "PeKa B40", "aged care Malaysia", "Care Centres Act 1993", "warga emas", "long-term care Malaysia"]
-sourceContentHash: "f10aac9439fe1e51"
+sourceContentHash: "1a2d3ca7550ef3ba"
 framework: explainer
 hero: '/media/healthcare/healthcare-for-seniors/hero.webp'
 heroAlt: 'Pintu masuk berpagar dan bangunan sebuah rumah orang tua Malaysia (Rumah Warga Emas).'
@@ -78,6 +78,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Old_Folks_Home,_Taman_Eng_Ann_-_panoramio.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/healthcare-for-seniors/body-1.webp
+    alt: Kawasan senaman warga emas di luar dengan mesin kecergasan berimpak rendah di celah pokok, tanpa seorang pun
+    kind: representative
+    origin: third-party
+    subject: Sudut kecergasan luar dengan mesin senaman untuk warga emas di sebuah taman perumahan Asia Tenggara
+    credit: Exec8 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Senior_Citizen_Exercise_Machines_not_in_use_in_Singapore.jpg
+  - role: scene
+    src: /media/healthcare/healthcare-for-seniors/body-2.webp
+    alt: Pintu masuk dan papan tanda sebuah rumah penjagaan warga emas Malaysia satu tingkat, dengan bendera Malaysia dan Sabah berkibar di hadapan
+    kind: actual
+    origin: third-party
+    subject: Rumah Sri Pritchard, sebuah rumah orang tua di Kinarut, daerah Papar, Sabah, Malaysia
+    credit: Aangela.Ng / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gambar_hadapan_Rumah_Sri_Pritchard_Kinarut.jpg
 ---
 
 Saat itu biasanya tiba secara senyap. Seorang ibu atau bapa yang selama ini

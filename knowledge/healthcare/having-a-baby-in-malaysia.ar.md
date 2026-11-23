@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "كل مَن في ماليزيا حاملٌ أو يخطّط للحمل أو يرافق شريكًا أو أحد أفراد الأسرة خلال الحمل، ويرغب في فهم كيف يتكامل نظام الرعاية العامة السابقة للولادة والرعاية الخاصة وتسجيل المواليد."
 
 lang: "ar"
-sourceContentHash: "f82d2d99c31a083b"
+sourceContentHash: "c17cd8eb9d265945"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -70,6 +70,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-1.webp
+    alt: غرفة ولادة حديثة ونظيفة تُظهر سريرًا طبيًّا فارغًا ومهدًا شفّافًا لحديثي الولادة، دون وجود أشخاص
+    kind: representative
+    origin: third-party
+    subject: غرفة في جناح الولادة بها سرير طبي ومهد شفّاف لحديثي الولادة بجانبه
+    credit: Ad Meskens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mechelen_AZ_St_Maarten_Maternity_ward.jpg
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-2.webp
+    alt: غرفة انتظار نظيفة وخالية في عيادة متابعة الحمل بأحد المستشفيات، بها كراسٍ رمادية وعبارة Antenatal Clinic على الجدار
+    kind: representative
+    origin: third-party
+    subject: منطقة انتظار خالية في عيادة متابعة الحمل بصفوف من المقاعد وعبارة Antenatal Clinic على الجدار
+    credit: Lewis Clarke / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taunton_,_Musgrove_Park_Hospital_-_Antenatal_Clinic_-_geograph.org.uk_-_6936070.jpg
 ---
 
 يُشغِّل اختبار الحمل الإيجابي ساعتَين في آنٍ واحد، ولا يكاد أحد يوضّح ذلك منذ البداية. الساعة الأولى تخصّ الحمل نفسه — متى تسجّلين، وأين، وماذا يحدث في كل زيارة. أما الثانية فلا تبدأ إلا بعد وصول المولود، ولا علاقة لها بالمستشفيات: إنها تسجيل قانوني لدى إدارة مختلفة تمامًا.

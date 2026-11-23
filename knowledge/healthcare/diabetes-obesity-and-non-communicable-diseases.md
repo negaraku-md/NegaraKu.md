@@ -81,6 +81,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-1.webp
+    alt: Monitor tekanan darah automatik digital dengan kaf lengannya, jenis peranti yang digunakan dalam saringan rutin bagi tekanan darah tinggi
+    kind: representative
+    origin: third-party
+    subject: Monitor tekanan darah automatik lengan atas dan kaf yang digunakan untuk saringan kesihatan
+    credit: Albarubescens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sphygmomanometer,_automatic_blood_pressure_monitor._Oscillometric_measurements,_millimeter_of_mercury_(mmHg)_unit.jpg
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-2.webp
+    alt: Taman di tepi tasik yang berlandskap di Kuala Lumpur dengan garis langit bandar di latar belakang, mewakili aktiviti fizikal dan gaya hidup sihat yang membantu mencegah penyakit tidak berjangkit
+    kind: representative
+    origin: third-party
+    subject: Taman Tasik Titiwangsa, sebuah taman rekreasi awam di tepi tasik di Kuala Lumpur
+    credit: SpOt ON / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lake_Titiwangsa.jpg
 ---
 
 Lebih separuh orang dewasa Malaysia hari ini membawa berat badan yang boleh memendekkan hayat mereka — dan seorang daripada enam sudah pun hidup dengan diabetes, ramai tanpa menyedarinya. Inilah wabak senyap yang membebankan hospital, keluarga dan ekonomi negara jauh lebih daripada mana-mana penyakit berjangkit.

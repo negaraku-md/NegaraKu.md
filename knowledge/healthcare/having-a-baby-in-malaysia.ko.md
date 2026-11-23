@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "말레이시아에서 임신 중이거나, 임신을 계획하거나, 배우자나 가족을 임신 기간 동안 돕고 있으며, 공공 산전 체계, 민간 진료, 출생 등록이 어떻게 맞물리는지 이해하려는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "f82d2d99c31a083b"
+sourceContentHash: "c17cd8eb9d265945"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -69,6 +69,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Hospital_Bersalin,_Hospital_Kuala_Lumpur,_Kuala_Lumpur_20230427_125813.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-1.webp
+    alt: 깨끗하고 현대적인 산과 병실로, 빈 병상과 그 옆의 투명한 신생아 침대가 있으며 사람은 없다
+    kind: representative
+    origin: third-party
+    subject: 병상과 그 옆에 놓인 투명한 신생아 침대가 있는 산과 병실
+    credit: Ad Meskens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mechelen_AZ_St_Maarten_Maternity_ward.jpg
+  - role: scene
+    src: /media/healthcare/having-a-baby-in-malaysia/body-2.webp
+    alt: 회색 의자가 놓이고 벽에 Antenatal Clinic 글자가 적힌, 정돈된 빈 병원 산전 진료 대기실
+    kind: representative
+    origin: third-party
+    subject: 의자가 줄지어 있고 벽에 Antenatal Clinic 글자가 적힌 빈 산전 진료 대기 구역
+    credit: Lewis Clarke / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taunton_,_Musgrove_Park_Hospital_-_Antenatal_Clinic_-_geograph.org.uk_-_6936070.jpg
 ---
 
 양성 임신 테스트는 두 개의 시계를 동시에 시작하는데, 이를 미리 설명해 주는 사람은 거의 없습니다. 하나의 시계는 임신 자체에 관한 것입니다 — 언제, 어디에 등록하고, 각 방문에서 무슨 일이 일어나는지. 다른 하나는 아기가 온 뒤에야 시작되며 병원과는 아무 상관이 없습니다: 완전히 다른 부서에의 법적 등록입니다.

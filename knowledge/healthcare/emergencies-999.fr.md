@@ -31,7 +31,7 @@ faq:
     a: "Les ambulances publiques sont dépêchées gratuitement via la ligne 999 et sont gérées par le KKM conjointement avec des organismes bénévoles comme St John Ambulance et la Société du Croissant-Rouge de Malaisie. Les ambulances privées, quant à elles, sont exploitées par des entreprises ou des hôpitaux privés via leurs propres lignes directes, et facturent des frais de service selon la nature de l'appel."
 
 lang: "fr"
-sourceContentHash: "2f1b3605919630fa"
+sourceContentHash: "b7225f842e9db8b3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Toyota_HiAce_(MOH_Malaysia).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-1.webp
+    alt: Une caserne du Département des pompiers et du secours de Malaisie (Bomba), l'un des services d'urgence joignables par la ligne d'appel 999
+    kind: actual
+    origin: third-party
+    subject: Caserne du Département des pompiers et du secours (Bomba, JBPM) à Pagoh, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JBPM_Pagoh_Fire_and_Rescue_Station.jpg
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-2.webp
+    alt: Une ambulance de St John Ambulance Malaysia dans une rue de Melaka, l'un des services médicaux d'urgence bénévoles opérant aux côtés de la réponse gouvernementale
+    kind: actual
+    origin: third-party
+    subject: Une ambulance d'urgence de St John Ambulance Malaysia stationnée à Melaka
+    credit: Philip Mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St_John_Ambulance_Malaysia_in_Melaka.jpg
 ---
 
 Vous composez le 999. La voix à l'autre bout vous demande votre nom, votre emplacement et ce qui s'est passé, et dans le délai de réponse visé, une équipe d'ambulance devrait déjà être en route. Mais beaucoup de gens ne savent pas ce qui se passe réellement derrière cet appel : qui répond vraiment, si c'est gratuit, et pourquoi un autre patient arrivé plus tard à l'hôpital est parfois soigné avant vous.

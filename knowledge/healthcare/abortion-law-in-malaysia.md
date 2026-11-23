@@ -89,6 +89,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-1.webp
+    alt: Bangunan klinik kesihatan kerajaan satu tingkat dengan pintu masuk berbumbung, digunakan di sini sebagai gambaran neutral klinik awam tempat penjagaan dan kaunseling kesihatan reproduktif disediakan
+    kind: representative
+    origin: third-party
+    subject: Bahagian luar klinik kesihatan kerajaan Malaysia (Klinik Kesihatan) di Lekir, Perak
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Lekir,_Kampung_Batu_9_Lekir_20231220_143154.jpg
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-2.webp
+    alt: Papan tanda di tepi jalan menandakan klinik kesihatan awam daerah di Malaysia, mewakili sistem kesihatan awam secara neutral tanpa menamakan mana-mana kemudahan yang menyediakan perkhidmatan tertentu
+    kind: representative
+    origin: third-party
+    subject: Papan tanda klinik kesihatan kerajaan daerah (Klinik Kesihatan Daerah Raub), Pahang
+    credit: Kazuki278 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanda_Klinik_Kesihatan_Daerah_Raub.jpg
 ---
 
 Ramai menganggap pengguguran sama sekali dilarang di Malaysia — hakikatnya, undang-undang meletakkannya dalam satu ruang yang lebih rumit: satu kesalahan jenayah dengan satu pengecualian perubatan yang penting. Memahami di mana garis itu ditarik memerlukan kita membaca teks sebenar Kanun Keseksaan, bukan tanggapan umum.

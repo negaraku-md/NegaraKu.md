@@ -31,7 +31,7 @@ faq:
     a: "Las directrices de 2012 del Ministerio de Salud definen la interrupción del embarazo como un procedimiento con una edad gestacional inferior a 22 semanas o, cuando se desconoce la edad, cuando se estima que el feto pesa menos de 500 gramos."
 
 lang: "es"
-sourceContentHash: "ae2bf4ced7e95cfe"
+sourceContentHash: "9d43a6fec14992c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Nilai_(230708).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-1.webp
+    alt: Un edificio de clínica de salud gubernamental de una sola planta con una entrada techada, utilizado aquí como ilustración neutral de las clínicas públicas donde se brinda atención y asesoramiento en salud reproductiva
+    kind: representative
+    origin: third-party
+    subject: Exterior de una clínica de salud gubernamental de Malasia (Klinik Kesihatan) en Lekir, Perak
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Klinik_Kesihatan_Lekir,_Kampung_Batu_9_Lekir_20231220_143154.jpg
+  - role: scene
+    src: /media/healthcare/abortion-law-in-malaysia/body-2.webp
+    alt: Un letrero al borde de la carretera que señala una clínica pública de salud de distrito en Malasia, que representa de forma neutral el sistema de salud pública sin nombrar ninguna instalación que preste un servicio específico
+    kind: representative
+    origin: third-party
+    subject: Letrero de una clínica de salud gubernamental de distrito (Klinik Kesihatan Daerah Raub), Pahang
+    credit: Kazuki278 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanda_Klinik_Kesihatan_Daerah_Raub.jpg
 ---
 
 Muchos suponen que el aborto está totalmente prohibido en Malasia — en realidad, la ley lo sitúa en un espacio más complicado: un delito con una excepción médica importante. Comprender dónde se traza esa línea nos exige leer el texto real del Código Penal, no las impresiones generales.

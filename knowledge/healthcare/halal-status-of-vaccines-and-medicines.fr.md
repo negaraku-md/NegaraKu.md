@@ -29,7 +29,7 @@ faq:
     a: "La Muzakarah spéciale du 3 décembre 2020 a statué que l'usage des vaccins contre la COVID-19 est licite et obligatoire pour les groupes désignés par le gouvernement, à condition que les vaccins utilisés soient halal et sains (tayyiban)."
 
 lang: "fr"
-sourceContentHash: "27955639bf723dbf"
+sourceContentHash: "44aec46b8cb2607b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-1.webp
+    alt: Une pharmacie de quartier malaisienne moderne au coin d'une rue, dont l'enseigne indique Big Pharmacy, à Kluang, Johor
+    kind: actual
+    origin: third-party
+    subject: Une succursale de la chaîne de distribution Big Pharmacy dans le centre-ville de Kluang, Johor, Malaisie
+    credit: Dominic Nelson / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kluang_-_Big_Pharmacy_building_May_2024.jpg
+  - role: scene
+    src: /media/healthcare/halal-status-of-vaccines-and-medicines/body-2.webp
+    alt: Des rangées de boîtes de médicaments soigneusement empilées sur les étagères d'une pharmacie, représentant les médicaments conditionnés et leur étiquetage
+    kind: representative
+    origin: third-party
+    subject: Des boîtes de médicaments génériques disposées sur les étagères d'une pharmacie
+    credit: Wilfredor / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Generic_medicines_with_the_yellow_G_stripe_on_pharmacy_shelves,_S%C3%A3o_Paulo.jpg
 ---
 
 Un seul flacon de vaccin peut contenir un peu de gélatine comme stabilisant, et de ce petit détail surgit l'une des questions religieuses que les familles musulmanes de Malaisie posent le plus souvent : est-ce halal ? La réponse n'est pas un simple « oui » ou « non », mais le résultat d'un processus d'évaluation structuré faisant intervenir des organes de la fatwa, la recherche scientifique et plusieurs principes spécifiques du fiqh.

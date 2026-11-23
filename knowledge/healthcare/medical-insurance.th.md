@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "ลูกจ้างที่กำลังชั่งน้ำหนักความคุ้มครองการแพทย์ของนายจ้างกับบัตรการแพทย์ส่วนบุคคล และผู้ที่พยายามเข้าใจว่า 'การร่วมจ่าย' หมายถึงอะไรก่อนซื้อหรือต่ออายุกรมธรรม์"
 
 lang: "th"
-sourceContentHash: "f3d82432e2ef0103"
+sourceContentHash: "bdd7b7c140cf69f0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,6 +81,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wad_HSNI,_Batu_Pahat_20250204_211735.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-1.webp
+    alt: ภาพมุมสูงของอาคารโรงพยาบาลเอกชนขนาดใหญ่ที่ทันสมัยในเซอเบอรังเปอไรรัฐปีนัง
+    kind: actual
+    origin: third-party
+    subject: ซันเวย์เมดิคัลเซ็นเตอร์โรงพยาบาลเอกชนในเซอเบอรังเปอไรรัฐปีนังมาเลเซีย
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sunway_Medical_Centre_in_Seberang_Perai,_Penang.jpg
+  - role: scene
+    src: /media/healthcare/medical-insurance/body-2.webp
+    alt: เคาน์เตอร์ต้อนรับของโรงพยาบาลทรงโค้งในโถงทางเข้าที่สว่างแทนการรับผู้ป่วยในและการเรียกเก็บเงินโดยมีผู้คนไม่กี่คนอยู่ในระยะไกล
+    kind: representative
+    origin: third-party
+    subject: เคาน์เตอร์ต้อนรับและรับผู้ป่วยในของโรงพยาบาลในล็อบบี้ทางเข้าหลัก
+    credit: Rodhullandemu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Reception_Desk,_Arrowe_Park_Hospital.jpg
 ---
 
 ลูกจ้างสองคนเดินเข้าโรงพยาบาลเอกชนแห่งเดียวกันด้วยแขนหักเหมือนกัน คนหนึ่งยื่นบัตรและเดินออกโดยไม่ต้องจ่ายแม้แต่เซ็นเดียวตอนออกจากโรงพยาบาล อีกคนจ่ายส่วนหนึ่งของใบเรียกเก็บเงินด้วยตัวเอง เพราะกรมธรรม์ที่เธอซื้อเมื่อหกเดือนก่อนถูกกว่าด้วยเหตุผลนั้นพอดี

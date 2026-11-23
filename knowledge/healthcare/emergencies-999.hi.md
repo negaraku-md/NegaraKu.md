@@ -31,7 +31,7 @@ faq:
     a: "सरकारी एम्बुलेंस 999 लाइन के ज़रिए मुफ़्त भेजी जाती हैं और इन्हें KKM द्वारा St John Ambulance और मलेशियाई रेड क्रीसेंट सोसाइटी जैसे स्वैच्छिक निकायों के साथ मिलकर प्रबंधित किया जाता है। दूसरी ओर, निजी एम्बुलेंस निजी कंपनियों या अस्पतालों द्वारा अपनी हॉटलाइन के माध्यम से संचालित होती हैं, और कॉल की प्रकृति के आधार पर एक सेवा शुल्क लेती हैं।"
 
 lang: "hi"
-sourceContentHash: "2f1b3605919630fa"
+sourceContentHash: "b7225f842e9db8b3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Toyota_HiAce_(MOH_Malaysia).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-1.webp
+    alt: एक मलेशियाई अग्निशमन एवं बचाव विभाग (Bomba) स्टेशन, जो 999 कॉल लाइन के माध्यम से पहुँची जाने वाली आपातकालीन सेवाओं में से एक है
+    kind: actual
+    origin: third-party
+    subject: Pagoh, Johor में अग्निशमन एवं बचाव विभाग (Bomba, JBPM) स्टेशन
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:JBPM_Pagoh_Fire_and_Rescue_Station.jpg
+  - role: scene
+    src: /media/healthcare/emergencies-999/body-2.webp
+    alt: Melaka की एक सड़क पर एक St John Ambulance Malaysia एम्बुलेंस, जो सरकारी प्रतिक्रिया के साथ-साथ संचालित होने वाली स्वैच्छिक आपातकालीन चिकित्सा सेवाओं में से एक है
+    kind: actual
+    origin: third-party
+    subject: Melaka में खड़ी एक St John Ambulance Malaysia आपातकालीन एम्बुलेंस
+    credit: Philip Mallis / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St_John_Ambulance_Malaysia_in_Melaka.jpg
 ---
 
 आप 999 डायल करते हैं। दूसरे छोर पर मौजूद आवाज़ आपका नाम, स्थान और क्या हुआ, यह पूछती है — और लक्षित प्रतिक्रिया समय के भीतर, एक एम्बुलेंस दल पहले से ही रास्ते में होना चाहिए। लेकिन बहुत से लोग नहीं जानते कि उस कॉल के पीछे वास्तव में क्या होता है: वास्तव में कौन जवाब देता है, क्या यह मुफ़्त है, और क्यों कभी-कभी आपके बाद अस्पताल पहुँचे किसी अन्य रोगी का इलाज आपसे पहले होता है।

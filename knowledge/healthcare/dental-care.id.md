@@ -26,7 +26,7 @@ verificationNeeded:
   - "Jumlah tepat bidang kepakaran gigi di rumah sakit KKM dan rincian cakupan klinik gigi spesialis tidak dapat diverifikasi secara langsung karena laman resmi hq.moh.gov.my/ohp tidak dapat diakses (connection refused) saat penulisan; uraian dalam artikel ini tetap umum dan tidak menyatakan jumlah khusus."
   - "Kebijakan pengecualian biaya bagi lansia, anak-anak, dan kelompok tertentu di klinik gigi pemerintah disebut secara luas dalam sumber sekunder, tetapi tidak diverifikasi di sini karena artikel ini sengaja tidak menyatakan biaya — silakan rujuk loket pendaftaran klinik terkait untuk informasi terkini."
 lang: "id"
-sourceContentHash: "eeddef6e54a39b44"
+sourceContentHash: "dc23a5d8d2d7eb26"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Yap_Dental_Clinic.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/dental-care/body-1.webp
+    alt: Kursi perawatan gigi yang kosong dengan lampu pemeriksaan di atasnya, monitor operator dan wastafel kumur di ruang bedah gigi yang rapi
+    kind: representative
+    origin: third-party
+    subject: Kursi perawatan gigi dengan lampu sorot, monitor pasien dan wastafel ludah di ruang perawatan klinik
+    credit: IrfanDP / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dental_chair_in_a_dentist_clinic.jpg
+  - role: scene
+    src: /media/healthcare/dental-care/body-2.webp
+    alt: Ruang bedah gigi yang kosong menampilkan kursi perawatan, troli penghantar handpiece, penampil film sinar-X serta saluran oksigen dan vakum di dinding
+    kind: representative
+    origin: third-party
+    subject: Ruang perawatan gigi dengan kursi gigi, unit penghantar instrumen, penampil sinar-X dan saluran gas di dinding
+    credit: Ptrump16 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Dental_Engine.jpg
 ---
 
 Banyak orang menganggap "klinik gigi" itu satu hal saja — tempat untuk

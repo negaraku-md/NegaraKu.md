@@ -32,7 +32,7 @@ faq:
     a: "இல்லை என்று அரசாங்கம் உறுதிப்படுத்துகிறது. Rakan KKM போன்ற முயற்சிகள் தனியார்மயமாக்கல் அல்ல, மாறாக பொதுத் துறையில் நிபுணர்களைத் தக்கவைப்பதற்கான ஒரு மாதிரியாக முன்வைக்கப்படுகின்றன; இருப்பினும் அதன் நீண்டகால விளைவுகள் குறித்து சில பார்வையாளர்கள் எச்சரிக்கையாகவே உள்ளனர்."
 
 lang: "ta"
-sourceContentHash: "cbb5bd100c475cf3"
+sourceContentHash: "010ee2d614064f6b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-1.webp
+    alt: சுகாதார அமைச்சின் ஒரு பிரிவை தன்னகத்தே கொண்ட புத்ராஜாயாவில் உள்ள மலேசிய மத்திய அரசு அலுவலக கட்டிடம்
+    kind: actual
+    origin: third-party
+    subject: புத்ராஜாயாவில் உள்ள மலேசிய சுகாதார அமைச்சு (Kementerian Kesihatan Malaysia) கட்டிடம்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Ministry-of-Health-Training-Management-Division-01.jpg
+  - role: scene
+    src: /media/healthcare/health-white-paper-and-system-reform/body-2.webp
+    alt: மலேசிய சுகாதார அமைச்சின் வரவேற்பு மண்டபத்தில் கையொப்ப மேசையில் இரு அதிகாரிகள், பின்னால் சுவரில் அமைச்சின் பெயரும் மலேசிய தேசிய சின்னமும்
+    kind: actual
+    origin: third-party
+    subject: Kementerian Kesihatan Malaysia சொல்முத்திரை மற்றும் தேசிய சின்னத்தின் கீழ், மலேசிய சுகாதார அமைச்சில் ஒரு அதிகாரப்பூர்வ கூட்டம்
+    credit: U.S. Embassy Kuala Lumpur / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2022-02-10-Amb-McFeeters-meets-Health-Minister-Dr-Zaliha-04.jpg
 ---
 
 அரசாங்க கிளினிக்குகள் நாட்டின் வெளிநோயாளர் வருகைகளில் கிட்டத்தட்ட மூன்றில் இரண்டு பங்கைச் சமாளிக்கின்றன — ஆனால் அவை முதன்மைப் பராமரிப்பு வசதிகளில் சுமார் நான்கில் ஒரு பங்கை மட்டுமே பிரதிநிதித்துவப்படுத்துகின்றன. இந்தச் சமநிலையின்மையே, மற்றவற்றுடன், ஒரு தலைமுறையில் மிக முக்கியமான கொள்கை ஆவணத்தை — சுகாதார வெள்ளை அறிக்கையை (Health White Paper) — எழுத மலேசிய சுகாதார அமைச்சை (Ministry of Health, KKM) தூண்டியது.

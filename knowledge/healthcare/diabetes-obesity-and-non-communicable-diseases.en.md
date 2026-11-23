@@ -32,7 +32,7 @@ faq:
     a: "Recipients of Sumbangan Tunai Rahmah (STR) aged 40 and above are eligible for free screening under PeKa B40 at registered government or private clinics. Public Health Clinics also offer basic check-ups."
 
 lang: "en"
-sourceContentHash: "19ab4b4f804b4515"
+sourceContentHash: "98b8eec3f3b6e074"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-1.webp
+    alt: A digital automatic blood-pressure monitor with its arm cuff, the kind of device used in routine screening for high blood pressure
+    kind: representative
+    origin: third-party
+    subject: An automatic upper-arm blood-pressure monitor and cuff used for health screening
+    credit: Albarubescens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sphygmomanometer,_automatic_blood_pressure_monitor._Oscillometric_measurements,_millimeter_of_mercury_(mmHg)_unit.jpg
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-2.webp
+    alt: A landscaped lakeside park in Kuala Lumpur with the city skyline beyond, representing the physical activity and healthy lifestyle that helps prevent non-communicable diseases
+    kind: representative
+    origin: third-party
+    subject: Taman Tasik Titiwangsa, a public lakeside recreation park in Kuala Lumpur
+    credit: SpOt ON / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lake_Titiwangsa.jpg
 ---
 
 More than half of Malaysia's adults today carry a weight that could shorten their lives — and one in six is already living with diabetes, many without realising it. This is the silent epidemic that burdens hospitals, families and the national economy far more than any infectious disease.

@@ -26,7 +26,7 @@ faq:
     a: "முதல் குற்றத்திற்கு, RM30,000-ஐ மிகாத அபராதம் அல்லது 2 ஆண்டுகளை மிகாத சிறைத்தண்டனை, அல்லது இரண்டும். அடுத்தடுத்த குற்றங்களுக்கு RM50,000 வரை அல்லது 3 ஆண்டுகள் வரை சிறைத்தண்டனை."
 
 lang: "ta"
-sourceContentHash: "63b512945cff4dd9"
+sourceContentHash: "e5b4b45f5bde2ed0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,6 +67,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ze_Xiang,_famous_Traditional_Chinese_Medicine_Shop_and_Clinic_-_panoramio.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-1.webp
+    alt: அளவு ஒப்பீட்டிற்காக ஒரு நாணயத்திற்கு அருகில் ஒரு மேற்பரப்பில் வைக்கப்பட்ட நான்கு மெல்லிய குத்தூசி மருத்துவ ஊசிகள், குத்தூசி மருத்துவத்தை ஒரு நிரப்பு சிகிச்சையாகக் குறிக்கிறது
+    kind: representative
+    origin: third-party
+    subject: அளவு ஒப்பீட்டிற்காக ஒரு நாணயத்துடன் காட்டப்படும் குத்தூசி மருத்துவ ஊசிகள்
+    credit: Acuhealth / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Acupuncture_Needles.jpg
+  - role: scene
+    src: /media/healthcare/traditional-and-complementary-medicine/body-2.webp
+    alt: இலையால் அடைக்கப்பட்ட அம்பர் நிற திரவ பாட்டில்களுடன், பாரம்பரிய மூலிகை டானிக் மருந்தான பாட்டில்களில் அடைக்கப்பட்ட ஜமூ நிறைந்த ஒரு மரப்பெட்டி, மூலிகை நிரப்பு மருத்துவத்தைக் குறிக்கிறது
+    kind: representative
+    origin: third-party
+    subject: மலாய்-இந்தோனேசிய பாரம்பரிய மூலிகை டானிக் மருந்தான ஜமூ பாட்டில்கள்
+    credit: dpinpin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Jamu.jpg
 ---
 
 2025 மார்ச் 1 முதல், மலேசியாவில் உள்ள பாரம்பரிய உடல் தேய்ப்பாளர்கள், சீன மருத்துவப் பயிற்சியாளர்கள், ஹோமியோபதி மருத்துவர்கள் மற்றும் கைரோபிராக்டர்கள் ஒரு துண்டு ஆவணம் — பதிவுச் சான்றிதழ் — இல்லாமல் தங்கள் கிளினிக் கதவுகளைத் திறக்க முடியாது. “அனுபவத்தின் பெயரால் பயிற்சி செய்யும்” காலம் முடிந்துவிட்டது.

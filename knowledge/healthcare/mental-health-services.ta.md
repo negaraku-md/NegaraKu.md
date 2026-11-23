@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "மலேசியாவில் உள்ள எவரும் — குடிமகன், குடியிருப்பாளர் அல்லது பார்வையாளர் — தமது சொந்த மனநலம் குறித்தோ அல்லது வேறு ஒருவரின் மனநலம் குறித்தோ கவலைப்படுபவர், மேலும் எங்கே தொடங்குவது என்பதை உறுதியாக அறிய விரும்புபவர்: ஒரு கிளினிக், ஒரு மருத்துவமனை, ஒரு தனியார் பயிற்சியாளர், ஒரு தன்னார்வ அமைப்பு, அல்லது ஒரு உதவி இணைப்பு."
 
 lang: "ta"
-sourceContentHash: "4ecc5497514e228e"
+sourceContentHash: "632d758693e3fc1a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,6 +88,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:World_Mental_Health_Day.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-1.webp
+    alt: ஒரு சிறிய மேசையைச் சுற்றி மூன்று கைப்பிடி நாற்காலிகள் மற்றும் ஒரு செடியுடன் கூடிய அமைதியான, வரவேற்பான ஆலோசனை அறை, யாரும் இல்லை
+    kind: representative
+    origin: third-party
+    subject: கைப்பிடி நாற்காலிகள் மற்றும் மென்மையான தளபாடங்களுடன், பேச்சு சிகிச்சைக்காக அமைக்கப்பட்ட ஒரு அமைதியான ஆலோசனை அறை
+    credit: RMtherapies / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Therapy_Room_at_Resilient_Mind_Therapies,_Leicester.jpg
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-2.webp
+    alt: ஜொகூர் பாருவில் உள்ள ஒரு மலேசிய அரசு மனநோய் மற்றும் மனநல மருத்துவமனையின் முன்பகுதி
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர் பாருவில் உள்ள ஒரு மலேசிய அரசு மனநல மருத்துவமனையான Hospital Permai
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Permai_Hospital_Johor_Bahru.jpg
 ---
 
 உதவி கேட்க முடிவெடுப்பதே பெரும்பாலும் மிகவும் கடினமான பகுதி. *எங்கே* கேட்பது என்பதைக் கண்டுபிடிப்பது தான் கிட்டத்தட்ட யாரும் விளக்காத பகுதி — அந்த இடைவெளி மட்டுமே மக்களை ஒருபோதும் அந்த அழைப்பைச் செய்யாமல் தடுத்துவிடுகிறது.

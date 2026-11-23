@@ -32,7 +32,7 @@ faq:
   - q: "أين يمكن دراسة برامج الطب الصيني؟"
     a: "تقدّم عدة مؤسسات تعليم عالٍ محلية الآن برنامج بكالوريوس الطب الصيني (مع مرتبة الشرف)، وبعضها معتمد من وكالة المؤهلات الماليزية (MQA)، مثل Southern University College في سكوداي بولاية جوهور. والتخرّج ليس سوى الخطوة الأولى: فلممارسة المهنة بصفة ممارس طب صيني، لا يزال على المرء استيفاء متطلبات التسجيل لدى مجلس الطب التقليدي والتكميلي. وينبغي الرجوع في حالة الاعتماد وشروط القبول لكل برنامج إلى الموقع الرسمي للمؤسسة والسجل الرسمي لـ MQA."
 lang: "ar"
-sourceContentHash: "c07c03961816c569"
+sourceContentHash: "14675c725a8f0f6b"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -81,6 +81,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Traditional_Chinese_Medicine_Shop,_George_Town,_Penang.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-1.webp
+    alt: نافذة عيادة طبّ صيني تقليدي تُظهر جدارًا من أدراج الأعشاب ونموذجًا للوخز بالإبر وملصقات علاجية، تمثّل ممارسة الطبّ الصيني التقليدي (TCM)
+    kind: representative
+    origin: third-party
+    subject: نافذة متجر طبّ صيني تقليدي بأدراج أعشاب ولوحات علاجية
+    credit: Jordiferrer / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Chinatown_London_-_Everwell_Chinese_medicine.jpg
+  - role: scene
+    src: /media/healthcare/traditional-chinese-medicine-in-malaysia/body-2.webp
+    alt: أعشاب طبية صينية مجفّفة تُوزَن على ميزان صغير عند منضدة متجر طبّ صيني تقليدي
+    kind: representative
+    origin: third-party
+    subject: أعشاب مجفّفة تُوزَن على ميزان في متجر طبّ صيني
+    credit: tomscoffin / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2012-06-07_weighing_the_dried_herbs_at_an_Chinese_medicine_shop_at_Kinmen.jpg
 ---
 
 عند زوايا شوارع كثير من البلدات القديمة، يوجد دائمًا متجر أدوية صينية: جدار من خزائن خشبية تصطف فيها الأدراج الصغيرة بكثافة، وفي الهواء رائحة ممتزجة من الأنجليكا (当归) وقشر اليوسفي المجفف (陈皮) وعرق السوس (甘草)؛ وخلف الطاولة، يستمع المعلّم المسنّ إلى الزبون وهو يصف موضع ألمه، بينما يزن المواد الدوائية واحدة تلو الأخرى في ورق ثم يلفّها صُرّة دواء واحدة. وقد وُجدت متاجر كهذه في المجتمعات الصينية بماليزيا أكثر من مئة عام.

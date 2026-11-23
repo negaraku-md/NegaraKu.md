@@ -32,7 +32,7 @@ faq:
     a: "Los beneficiarios de la Sumbangan Tunai Rahmah (STR) de 40 años en adelante tienen derecho a un cribado gratuito bajo PeKa B40 en clínicas públicas o privadas registradas. Las Clínicas de Salud públicas también ofrecen chequeos básicos."
 
 lang: "es"
-sourceContentHash: "19ab4b4f804b4515"
+sourceContentHash: "98b8eec3f3b6e074"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-1.webp
+    alt: Un tensiómetro digital automático con su manguito de brazo, el tipo de dispositivo usado en el cribado rutinario de la hipertensión arterial
+    kind: representative
+    origin: third-party
+    subject: Un tensiómetro automático de brazo con manguito usado para el cribado de salud
+    credit: Albarubescens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sphygmomanometer,_automatic_blood_pressure_monitor._Oscillometric_measurements,_millimeter_of_mercury_(mmHg)_unit.jpg
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-2.webp
+    alt: Un parque ajardinado junto a un lago en Kuala Lumpur con el horizonte de la ciudad al fondo, que representa la actividad física y el estilo de vida saludable que ayudan a prevenir las enfermedades no transmisibles
+    kind: representative
+    origin: third-party
+    subject: Taman Tasik Titiwangsa, un parque público de recreación junto a un lago en Kuala Lumpur
+    credit: SpOt ON / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lake_Titiwangsa.jpg
 ---
 
 Más de la mitad de los adultos de Malasia cargan hoy con un peso que podría acortarles la vida — y uno de cada seis ya vive con diabetes, muchos sin darse cuenta. Esta es la epidemia silenciosa que agobia a los hospitales, las familias y la economía nacional mucho más que cualquier enfermedad infecciosa.

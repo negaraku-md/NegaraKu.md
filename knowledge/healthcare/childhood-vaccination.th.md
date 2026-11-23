@@ -26,7 +26,7 @@ verificationNeeded:
   - "รายละเอียดวัคซีนเสริม/ทางเลือก (เช่น วัคซีนที่ไม่บังคับซึ่งจัดให้แบบมีค่าใช้จ่าย) ไม่สามารถตรวจสอบได้บนแหล่งข้อมูลทางการของ KKM ณ ขณะเขียน จึงไม่ได้ระบุไว้เป็นการเฉพาะในบทความนี้"
 
 lang: "th"
-sourceContentHash: "82fc03d17115b374"
+sourceContentHash: "26f12be03c0c4dd9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-1.webp
+    alt: ศูนย์ฉีดวัคซีนเด็กของกระทรวงสาธารณสุขมาเลเซียที่มีตราKKMและเก้าอี้รอเรียงแถวโดยมีผู้คนปรากฏเพียงไม่กี่คนในระยะไกล
+    kind: actual
+    origin: third-party
+    subject: ศูนย์ฉีดวัคซีนเด็กของกระทรวงสาธารณสุข(PPVPICKids)ที่พาวิลเลียนบูกิตจาลิลกัวลาลัมเปอร์
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pavilion_Bukit_Jalil_PPV_for_kids_(220713).jpg
+  - role: scene
+    src: /media/healthcare/childhood-vaccination/body-2.webp
+    alt: ขวดวัคซีนที่ปิดจุกตั้งอยู่ข้างกระบอกฉีดวัคซีนชนิดบรรจุสำเร็จแทนวัคซีนที่ให้ตามตารางการสร้างเสริมภูมิคุ้มกัน
+    kind: representative
+    origin: third-party
+    subject: ขวดวัคซีนและกระบอกฉีดวัคซีนไข้หวัดใหญ่ชนิดบรรจุสำเร็จบนพื้นผิวเรียบ
+    credit: Whispyhistory / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Comirnaty_Omicron_XBB.1.5_vial_and_influenza_vaccine_2023.jpg
 ---
 
 ทารกทุกคนที่เกิดในคลินิกหรือโรงพยาบาลของรัฐในมาเลเซียกลับบ้านพร้อมกับสิ่งที่มากกว่าเพียงสูติบัตรชั่วคราว — พวกเขากลับบ้านพร้อมกับสมุดเล่มเล็กที่จะถูกนำไปยัง *ทุก* การมาคลินิกในหกปีข้างหน้า สมุดเล่มนั้น และตารางการฉีดที่บันทึกไว้ในนั้น เป็นส่วนหนึ่งของหนึ่งในโครงการสาธารณสุขที่ดำเนินการมายาวนานที่สุดของประเทศ

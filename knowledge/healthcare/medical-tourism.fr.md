@@ -32,7 +32,7 @@ faq:
     a: "Le ministère de la Santé agrée les établissements de santé privés et le Malaysian Medical Council enregistre et sanctionne les médecins. De nombreux hôpitaux détiennent aussi une accréditation volontaire de la Malaysian Society for Quality in Health (MSQH) ou de la Joint Commission International (JCI). Le MHTC se situe en dehors de cette chaîne réglementaire."
 
 lang: "fr"
-sourceContentHash: "e1a643f3053ee673"
+sourceContentHash: "1c2fd4bc918bf964"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -81,6 +81,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Prince_Court_Medical_Centre.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-1.webp
+    alt: Un bâtiment d'hôpital privé moderne à façade vitrée à Kota Kinabalu, Sabah
+    kind: actual
+    origin: third-party
+    subject: Gleneagles Hospital, un centre médical privé à Kota Kinabalu, Sabah, Malaisie
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Gleneagles-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/medical-tourism/body-2.webp
+    alt: L'entrée des urgences signalée d'un hôpital privé malaisien, avec un panneau d'orientation indiquant le hall et les consultations des spécialistes
+    kind: actual
+    origin: third-party
+    subject: L'entrée des urgences et le répertoire du hall du Pantai Hospital, un hôpital privé à Batu Pahat, Johor
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pantai_Hospital_Batu_Pahat_-_Emergency_Lobby.jpg
 ---
 
 Une famille de Jakarta s'envole pour le pontage cardiaque d'un père. Un couple britannique réserve une FIV parce que la liste d'attente dans son pays s'étend au-delà de sa fenêtre de fertilité. Un patient bangladais vient pour un dépistage de santé de routine que la clinique de sa ville ne peut pas réaliser.

@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Toute personne en Malaisie — citoyen, résident ou visiteur — qui s'inquiète de sa propre santé mentale ou de celle d'autrui et veut savoir concrètement par où commencer : une clinique, un hôpital, un praticien privé, une ONG ou une ligne d'écoute."
 
 lang: "fr"
-sourceContentHash: "4ecc5497514e228e"
+sourceContentHash: "632d758693e3fc1a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,6 +88,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:World_Mental_Health_Day.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-1.webp
+    alt: Une salle de counseling calme et accueillante avec trois fauteuils autour d'une petite table et une plante, sans aucune personne présente
+    kind: representative
+    origin: third-party
+    subject: Une salle de counseling paisible aménagée pour la thérapie par la parole, avec des fauteuils et un mobilier douillet
+    credit: RMtherapies / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Therapy_Room_at_Resilient_Mind_Therapies,_Leicester.jpg
+  - role: scene
+    src: /media/healthcare/mental-health-services/body-2.webp
+    alt: La façade d'un hôpital gouvernemental malaisien de psychiatrie et de santé mentale à Johor Bahru
+    kind: actual
+    origin: third-party
+    subject: Hospital Permai à Johor Bahru, un hôpital gouvernemental de santé mentale de Malaisie
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Permai_Hospital_Johor_Bahru.jpg
 ---
 
 Décider de demander de l'aide est souvent la partie la plus difficile. Trouver *où* la demander est la partie que presque personne n'explique — et ce seul vide empêche des gens d'aller jusqu'à passer l'appel.

@@ -26,7 +26,7 @@ verificationNeeded:
   - "The exact number of dental specialty fields at KKM hospitals and the detailed scope of specialist dental clinics could not be verified directly, because the official site hq.moh.gov.my/ohp was inaccessible (connection refused) at the time of writing; the description in this article remains general and does not state specific numbers."
   - "The policy on charge exemptions for senior citizens, children and certain groups at government dental clinics is widely mentioned in secondary sources, but is not verified here because this article deliberately does not state charges — please check with the registration counter of the relevant clinic for current information."
 lang: "es"
-sourceContentHash: "eeddef6e54a39b44"
+sourceContentHash: "dc23a5d8d2d7eb26"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Yap_Dental_Clinic.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/dental-care/body-1.webp
+    alt: Un sillón dental de tratamiento vacío con su luz de examen superior, el monitor del operador y la escupidera en un quirófano dental ordenado
+    kind: representative
+    origin: third-party
+    subject: Un sillón dental de tratamiento con lámpara superior, monitor del paciente y escupidera en un gabinete clínico
+    credit: IrfanDP / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dental_chair_in_a_dentist_clinic.jpg
+  - role: scene
+    src: /media/healthcare/dental-care/body-2.webp
+    alt: Un quirófano dental desocupado que muestra un sillón de tratamiento, un carrito de entrega de piezas de mano, un negatoscopio de radiografías y tomas murales de oxígeno y vacío
+    kind: representative
+    origin: third-party
+    subject: Una sala de tratamiento dental con un sillón dental, una unidad de entrega de instrumental, un negatoscopio de rayos X y tomas de gas murales
+    credit: Ptrump16 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Dental_Engine.jpg
 ---
 
 Mucha gente da por sentado que una «clínica dental» es una sola cosa — un lugar para empastar una caries o sacar una muela del juicio. Pero en Malasia, la atención dental en realidad discurre por dos vías separadas: una operada por el gobierno a través del Ministerio de Salud de Malasia (KKM), y la otra por el sector privado — y el ámbito de tratamiento entre ambas no es el mismo.

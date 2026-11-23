@@ -26,7 +26,7 @@ verificationNeeded:
   - "SPIKPA के सटीक प्रीमियम और वार्षिक कवरेज सीमा की किसी आधिकारिक प्राथमिक स्रोत पर पुष्टि नहीं हुई (केवल अकादमिक और बीमा-दलाल द्वितीयक स्रोत मिले); यह लेख योजना के कार्य का वर्णन करता है — वर्क-परमिट नवीनीकरण से जुड़ा अनिवार्य बीमा, जिसकी पुष्टि आव्रजन विभाग (Immigration Department) की अपनी साइट पर होती है — बिना किसी असत्यापित प्रीमियम या कवरेज राशि का उल्लेख किए।"
 
 lang: "hi"
-sourceContentHash: "f35156bb0be8d93f"
+sourceContentHash: "ad9956b0e60b93d8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-1.webp
+    alt: Kota Kinabalu, Sabah में सड़क से देखा गया एक बड़ा बहुमंज़िला मलेशियाई सरकारी अस्पताल परिसर
+    kind: actual
+    origin: third-party
+    subject: Queen Elizabeth Hospital, Kota Kinabalu, Sabah में एक प्रमुख मलेशियाई सरकारी अस्पताल
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Queen-Elizabeth-Hospital-01.jpg
+  - role: scene
+    src: /media/healthcare/how-malaysian-healthcare-works/body-2.webp
+    alt: George Town, Penang में एक बड़े मलेशियाई सरकारी अस्पताल के बहु-भवन परिसर का हवाई दृश्य, जिसके पीछे शहर का क्षितिज है
+    kind: actual
+    origin: third-party
+    subject: Penang General Hospital (Hospital Pulau Pinang), George Town, Penang में एक प्रमुख मलेशियाई सरकारी अस्पताल
+    credit: HundenvonPenang / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_General_Hospital_2025.jpg
 ---
 
 सीने में दर्द से जूझ रहा एक मलेशियाई सेवानिवृत्त व्यक्ति एम्बुलेंस बुलाता है और उसे निकटतम सरकारी अस्पताल ले जाया जाता है, जहाँ एक हृदय रोग विशेषज्ञ उसे ऐसे शुल्क पर देखता है जो वास्तविक लागत का एक अंश ही है। उसका पड़ोसी, इंडोनेशिया से आया एक वर्क-परमिट धारक, जिसके लक्षण भी वही हैं, उसी अस्पताल के आपातकालीन विभाग में ले जाया जाता है — लेकिन उसके बाद आने वाला बिल बिल्कुल अलग शुल्क-सूची पर गणित किया जाता है, क्योंकि मंत्रालय की नज़र में वे दोनों एक ही तरह के मरीज़ नहीं हैं।

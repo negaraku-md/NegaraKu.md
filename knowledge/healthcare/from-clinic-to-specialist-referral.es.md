@@ -35,7 +35,7 @@ faq:
 
 lang: "es"
 translationStatus: "in-sync"
-sourceContentHash: "db56299f47270a2d"
+sourceContentHash: "0f2e73064fe07ebb"
 masterLanguage: "en"
 
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Hospital.JPG'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-1.webp
+    alt: Un mostrador interior de registro e información en un hospital gubernamental de Malasia, con señalización que dirige a los pacientes a la cola correcta, sin pacientes a la vista
+    kind: actual
+    origin: third-party
+    subject: Mostrador de registro e información dentro de un hospital gubernamental de Malasia (Hospital Tengku Anis, Pasir Puteh, Kelantan)
+    credit: CyberTroopers / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hospital_Tengku_Anis,_Pasir_Puteh.jpg
+  - role: scene
+    src: /media/healthcare/from-clinic-to-specialist-referral/body-2.webp
+    alt: El edificio principal de varios pisos de un gran hospital especializado sin fines de lucro en Penang, que representa el nivel hospitalario de una vía de derivación
+    kind: actual
+    origin: third-party
+    subject: Edificio principal del Lam Wah Ee Hospital, un hospital especializado sin fines de lucro en Penang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Lam_Wah_Ee_Hospital_main_building.jpg
 ---
 
 Una derivación es un momento bisagra en la atención de cualquier persona: su médico ha decidido — o sugerido — que su problema necesita un especialista, y de repente usted está navegando por una parte distinta del sistema sanitario. Esta guía empieza justo ahí. **No** le dice si necesita un especialista; ese criterio corresponde a su médico. Lo que hace es explicar **cómo funcionan realmente las derivaciones en Malasia, y qué preparar**, para que el traspaso de la clínica al especialista sea lo más fluido posible.

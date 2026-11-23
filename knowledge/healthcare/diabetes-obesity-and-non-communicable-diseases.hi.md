@@ -32,7 +32,7 @@ faq:
     a: "40 वर्ष और उससे अधिक आयु के Sumbangan Tunai Rahmah (STR) प्राप्तकर्ता पंजीकृत सरकारी या निजी क्लीनिकों में PeKa B40 के तहत मुफ़्त जाँच के पात्र हैं। सार्वजनिक स्वास्थ्य क्लीनिक भी बुनियादी जाँच प्रदान करते हैं।"
 
 lang: "hi"
-sourceContentHash: "19ab4b4f804b4515"
+sourceContentHash: "98b8eec3f3b6e074"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sungai-Sungai_Sabah_Klinik-Kesihatan-01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-1.webp
+    alt: अपने आर्म कफ़ के साथ एक डिजिटल स्वचालित रक्तचाप मॉनिटर, वह प्रकार का उपकरण जो उच्च रक्तचाप की नियमित जाँच में प्रयोग होता है
+    kind: representative
+    origin: third-party
+    subject: स्वास्थ्य जाँच में प्रयुक्त एक स्वचालित ऊपरी-बांह रक्तचाप मॉनिटर और कफ़
+    credit: Albarubescens / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sphygmomanometer,_automatic_blood_pressure_monitor._Oscillometric_measurements,_millimeter_of_mercury_(mmHg)_unit.jpg
+  - role: scene
+    src: /media/healthcare/diabetes-obesity-and-non-communicable-diseases/body-2.webp
+    alt: Kuala Lumpur में एक सुसज्जित झील-किनारे का पार्क जिसके पीछे शहर का क्षितिज है, जो उस शारीरिक गतिविधि और स्वस्थ जीवनशैली का प्रतिनिधित्व करता है जो गैर-संचारी रोगों को रोकने में मदद करती है
+    kind: representative
+    origin: third-party
+    subject: Taman Tasik Titiwangsa, Kuala Lumpur में एक सार्वजनिक झील-किनारे का मनोरंजन पार्क
+    credit: SpOt ON / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lake_Titiwangsa.jpg
 ---
 
 मलेशिया के आधे से अधिक वयस्क आज एक ऐसा वज़न ढो रहे हैं जो उनके जीवन को छोटा कर सकता है — और हर छह में से एक पहले से ही मधुमेह के साथ जी रहा है, कई लोग इसे जाने बिना। यह वह मूक महामारी है जो अस्पतालों, परिवारों और राष्ट्रीय अर्थव्यवस्था पर किसी भी संक्रामक रोग से कहीं अधिक बोझ डालती है।

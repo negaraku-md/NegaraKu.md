@@ -21,7 +21,7 @@ appliesTo: "나이 든 부모나 친척을 위한 돌봄 선택지를 저울질�
 verificationNeeded:
   - "이 글은 민간 요양원 요금, 병상 수용력, Rumah Seri Kenangan 대기자 명단 길이를 기재하지 않는데, 이는 자주 바뀌고 집필 시점에 공식 출처에서 확인되지 않았기 때문입니다 — 현재 요금과 이용 가능 여부는 운영자나 지구 사회복지사무소(Jabatan Kebajikan Masyarakat Daerah)에 직접 확인하십시오."
 lang: "ko"
-sourceContentHash: "f10aac9439fe1e51"
+sourceContentHash: "1a2d3ca7550ef3ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Old_Folks_Home,_Taman_Eng_Ann_-_panoramio.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/healthcare-for-seniors/body-1.webp
+    alt: 나무 사이에 저강도 운동 기구가 놓인 야외 노인 운동 공간으로, 사람은 없다
+    kind: representative
+    origin: third-party
+    subject: 동남아시아의 한 주택 단지에 있는 노인용 야외 운동 공간
+    credit: Exec8 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Senior_Citizen_Exercise_Machines_not_in_use_in_Singapore.jpg
+  - role: scene
+    src: /media/healthcare/healthcare-for-seniors/body-2.webp
+    alt: 말레이시아 단층 노인 요양원의 입구와 간판으로, 앞에는 말레이시아 국기와 사바주 깃발이 걸려 있다
+    kind: actual
+    origin: third-party
+    subject: 루마 스리 프리처드, 말레이시아 사바주 파파르군 키나룻에 있는 노인 요양원
+    credit: Aangela.Ng / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gambar_hadapan_Rumah_Sri_Pritchard_Kinarut.jpg
 ---
 
 그 순간은 대개 조용히 옵니다. 혼자서도 잘 지내던 부모가 가스레인지를 켜 놓은 것을 잊기 시작하거나, 너무 자주 넘어지고, 이를 결코 계획하지 않았던 가족이 다음에 무엇을 할지 서둘러 결정해야 합니다. 말레이시아에는 이를 위한 체계가 있습니다 — 다만 이미 고령자를 진료하는 보건 클리닉과, 대부분의 가족이 찾아 나서야 비로소 발견하는 복지 체계로 나뉘어 있을 뿐입니다.

@@ -32,7 +32,7 @@ faq:
   - q: "من الذي يمكنه التسجيل بوصفه ممارسًا لطب السيدها؟"
     a: "بموجب القانون 775، على من يرغب في العمل في مجال الطب الهندي التقليدي التسجيل لدى مجلس T&CM. وقد طُبِّق القانون على مراحل؛ وبعد الفترة الانتقالية المؤقتة، يُحظَر على غير المسجَّلين تقديم الخدمات في المجالات المعترف بها. يُرجى التحقق من المتطلبات الحالية لدى شُعبة T&CM في الوزارة وقت النشر."
 lang: "ar"
-sourceContentHash: "e7e71bfa77ac1056"
+sourceContentHash: "a717b54b027c6c0e"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lekiyam.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-1.webp
+    alt: واجهة متواضعة لمستوصف أعشاب تقليدي من جنوب الهند، يمثّل ممارسة طبّ هندي تقليدي شبيهة بطبّ Siddha
+    kind: representative
+    origin: third-party
+    subject: واجهة متجر مستوصف أعشاب تقليدي من جنوب الهند (vaidyasala)
+    credit: Fotokannan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sadananda_vaidyasala2.jpg
+  - role: scene
+    src: /media/healthcare/siddha-medicine/body-2.webp
+    alt: كرة داكنة من ginger lehyam، وهي مستحضر عشبي معجوني تقليدي من طبّ Siddha التاميلي، في يد مفتوحة
+    kind: representative
+    origin: third-party
+    subject: مستحضر جاهز من ginger lehyam، وهو مستحضر عشبي تاميلي من طبّ Siddha، في راحة اليد
+    credit: Chronikhiles / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ginger_Lehyam.jpg
 ---
 
 في أراضي المزارع القديمة بماليزيا، وفي أزقة التاميل في مدنها، يمكنك أن تجد متجرًا للأعشاب — أعشاب مجففة ومساحيق (choornam) وزيوت مرصوفة صفوفًا على رفوفه. وليست هذه من قبيل المصادفة؛ بل هي آثار تقليد طبي يتجاوز عمره قرنًا ونصف القرن.
