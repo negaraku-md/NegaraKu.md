@@ -37,7 +37,7 @@ faq:
     a: "Zii Jia mengundurkan diri dari BAM pada Januari 2022 untuk menjadi pemain independen setelah hampir satu dekade bersama badan itu sejak berusia 13 tahun. Ia ingin fokus pada latihan dan meningkatkan peringkatnya sendiri, dan menegaskan bahwa entah pemain nasional atau pemain independen, mereka tetap mengibarkan Jalur Gemilang."
 
 lang: "id"
-sourceContentHash: "a0c4b7207a1ac775"
+sourceContentHash: "db7869aeba9d7ddf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -107,6 +107,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lee_Chong_Wei,_Malaysia_(7758886922).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-1.webp
+    alt: Stadion dalam ruangan Axiata Arena di Kuala Lumpur, arena yang digunakan untuk bulu tangkis pada SEA Games 2017.
+    kind: actual
+    origin: third-party
+    subject: Axiata Arena, arena bulu tangkis nasional di kompleks olahraga Bukit Jalil
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-2.webp
+    alt: Pemain bulu tangkis Malaysia Hafiz Hashim melompat meraih pukulan selama satu pertandingan di Malaysia Open 2008.
+    kind: actual
+    origin: third-party
+    subject: Pemain tunggal Malaysia Hafiz Hashim bertanding di Malaysia Open 2008
+    credit: Mister Platipus / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hafiz_Hashim_at_the_2008_Malaysia_Open.jpg
 ---
 
 Pada Mei 1992, seluruh negara berhenti sejenak. Di Stadium Negara, Kuala Lumpur, sebuah tim muda yang dipimpin Sidek bersaudara mengalahkan Indonesia untuk mengangkat Piala Thomas — dan seperti kata Datuk Rashid Sidek, "seluruh Malaysia menjadi viral dan semua orang ingin bermain bulu tangkis". Tiga dekade kemudian, trofi itu masih belum kembali. Kisah bulu tangkis Malaysia adalah kisah kegemilangan awal, paceklik yang menyakitkan, dan satu-dua juara yang memikul harapan sebuah negara di atas bahu mereka.

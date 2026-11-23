@@ -73,7 +73,27 @@ sources:
     url: "https://www.freemalaysiatoday.com/category/nation/2026/06/12/harimau-malaya-climb-2-spots-in-fifa-rankings-to-136th"
     publisher: "Free Malaysia Today"
   - title: "ลาก่อน ไซเอ็ด อาหมัด – ตำนานผู้นำทีมฟุตบอลสู่โอลิมปิกมิวนิก 1972 (So long, Syed Ahmad – the legend who steered football team to 1972 Munich Olympics)"
-    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad---the-legend-who-steered-football-team-to-1972-munich-olympics"
+    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad
+images:
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-1.webp
+    alt: การแข่งขันฟุตบอลที่กำลังดำเนินอยู่บนสนามสเตเดียมตวนกูอับดุลเราะห์มานในปาโรยเมืองเซอเริมบันรัฐเนอเกอรีเซิมบีลัน
+    kind: actual
+    origin: third-party
+    subject: การแข่งขันฟุตบอลที่สเตเดียมตวนกูอับดุลเราะห์มานในปาโรยรัฐเนอเกอรีเซิมบีลัน
+    credit: Mohd Izzudin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-2.webp
+    alt: สนามฟุตซอลสาธารณะกลางแจ้งในย่านที่พักอาศัยของโกตาดามันซาราเมืองเปอตาลิงจายารัฐเซอลาโงร์
+    kind: actual
+    origin: third-party
+    subject: สนามฟุตซอลชุมชนในโกตาดามันซารารัฐเซอลาโงร์เวทีระดับรากหญ้าของเกมมาเลเซีย
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
+---the-legend-who-steered-football-team-to-1972-munich-olympics"
     publisher: "The Star"
   - title: "ตอนนี้พวกเขาอยู่ที่ไหน: ผู้สร้างประวัติศาสตร์ของมาเลเซียในเอเอฟเอฟ ซูซูกิ คัพ 2010 (Where are they now: Malaysia's history makers of the 2010 AFF Suzuki Cup)"
     url: "https://www.espn.com/soccer/story/_/id/37622930/where-now-malaysia-history-makers-2010-aff-suzuki-cup"

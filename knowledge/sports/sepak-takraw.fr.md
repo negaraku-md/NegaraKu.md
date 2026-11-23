@@ -34,7 +34,7 @@ faq:
     a: "La dernière victoire de la Malaisie au titre de regu par équipes de la King's Cup remonte à 1988. En 2024, cette attente avait atteint environ 36 ans, lorsque la Malaisie a perdu 0-2 contre la Thaïlande, pays hôte, à Nakhon Ratchasima."
 
 lang: "fr"
-sourceContentHash: "a468b0e147901427"
+sourceContentHash: "9819d68eb440d864"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -109,6 +109,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sepak_takraw.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sepak-takraw/body-1.webp
+    alt: Des joueurs de sepak takraw bondissant pour frapper une balle en rotin par-dessus le filet lors d'un échange serré pendant un match féminin aux Jeux asiatiques.
+    kind: representative
+    origin: third-party
+    subject: Des joueurs de sepak takraw se disputant le filet lors d'un match des Jeux asiatiques
+    credit: Republic of Korea (Korea.net) / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Incheon_AsianGames_Sepaktakraw_02_(15294462532).jpg
+  - role: scene
+    src: /media/sports/sepak-takraw/body-2.webp
+    alt: Gros plan sur des balles de sepak takraw en rotin tressé, la balle entrelacée traditionnelle avec laquelle se pratique ce sport.
+    kind: representative
+    origin: third-party
+    subject: Des balles de sepak takraw en rotin tressé
+    credit: Lamacchiacosta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rattan_ball_forweb.jpg
 ---
 
 Imaginez le volley-ball, puis retirez les mains à chaque joueur. Ce qui reste — le

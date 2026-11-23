@@ -35,7 +35,7 @@ faq:
     a: "เป้าหมายเชื่อมโยงกับวงรอบมหกรรมหลัก คือ โอลิมปิก เอเชียนเกมส์ และกีฬาเครือจักรภพ และให้ความสำคัญกับกีฬาที่ระบุว่ามีโอกาสสำเร็จสูง สอดคล้องกับวัตถุประสงค์ 8 ของนโยบายกีฬาแห่งชาติ ทุนถูกจัดสรรตามวงรอบ (เช่น RM60 ล้านต่อปีเป็นเวลาสี่ปี) ประสานงานโดยสภากีฬาแห่งชาติและสนับสนุนวิทยาศาสตร์การกีฬาโดยสถาบันกีฬาแห่งชาติ"
 
 lang: "th"
-sourceContentHash: "d336fe0c30f91bdb"
+sourceContentHash: "a41ee45e3fde6627"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -100,6 +100,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Women%27s_Vault_Podium_at_the_2017_SEA_Games.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-1.webp
+    alt: เจียเลียกโฮวนักพาราแบดมินตันชาวมาเลเซียในชุดสีเหลืองของมาเลเซียเคลื่อนเข้าหาเน็ตระหว่างรอบชิงชนะเลิศประเภทเดี่ยวชายรุ่นSU5ในพาราลิมปิกปารีสปี2024
+    kind: actual
+    origin: third-party
+    subject: เจียเลียกโฮวนักกีฬาระดับหัวกะทิของมาเลเซียลงแข่งในพาราลิมปิกปารีสปี2024
+    credit: Wikisquack / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cheah_Liek_Hou_at_the_Paris_2024_Paralympics_badminton_SU5_men_singles_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-2.webp
+    alt: ศูนย์กีฬาทางน้ำปันเดเลลาริโนงในเมืองกูชิงสนามกระโดดน้ำและว่ายน้ำสมัยใหม่สีแดงเขียวที่ตั้งชื่อตามนักกระโดดน้ำเจ้าของเหรียญโอลิมปิกของมาเลเซีย
+    kind: representative
+    origin: third-party
+    subject: ศูนย์กีฬาทางน้ำปันเดเลลาริโนงสนามกีฬาระดับหัวกะทิของมาเลเซียที่ตั้งชื่อตามเจ้าของเหรียญโอลิมปิก
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pandelela_Rinong_Aquatic_Centre_at_Petra_Jaya.jpg
 ---
 
 ทุกครั้งที่นักกีฬามาเลเซียก้าวขึ้นสู่โพเดียมโอลิมปิก มีสองระบบที่แตกต่างกันกำลังทำงานอยู่เบื้องหลังจริง ๆ ระบบหนึ่งพยายามชักชวนประชาชนทั้งหมดให้เคลื่อนไหว และอีกระบบหนึ่งทุ่มทรัพยากรมหาศาลให้แก่คนเพียงส่วนน้อยที่มีความสามารถชนะ ทั้งสองอยู่ภายใต้เอกสารนโยบายฉบับเดียวกัน แต่ได้รับทุนและวัดผลด้วยวิธีที่แตกต่างกันมาก

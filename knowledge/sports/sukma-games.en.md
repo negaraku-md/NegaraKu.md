@@ -29,7 +29,7 @@ faq:
     a: "SUKMA is the state stage where youth athletes showcase their talent. Athletes with potential can be promoted to MSN's talent-development and reserve programmes and onward to ISN's Podium Programme, which prepares elite athletes for international games."
 
 lang: "en"
-sourceContentHash: "85246294d35de2fe"
+sourceContentHash: "76cfd0ad84941214"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroLicense: 'CC BY 2.5'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sukma-games/body-1.webp
+    alt: The grandstand, green pitch and red running track of a Malaysian state stadium with empty blue-and-yellow seating, typical of a SUKMA host venue.
+    kind: representative
+    origin: third-party
+    subject: A Malaysian state stadium with an athletics track, the kind of venue that hosts SUKMA events
+    credit: Only Truth / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Darul_Makmur.jpg
+  - role: scene
+    src: /media/sports/sukma-games/body-2.webp
+    alt: Aerial view of the Likas Sports Complex in Kota Kinabalu, showing a track-and-field stadium, a domed indoor arena and surrounding sports facilities among the city.
+    kind: representative
+    origin: third-party
+    subject: Aerial view of the Likas Sports Complex in Sabah, a multi-sport games venue
+    credit: thienzieyung / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_View_Of_Likas_Sports_Complex.jpg
 ---
 
 Every two years, thousands of youth athletes march into a host state's stadium — not for world medals, but for the pride of their respective states and, for the most talented, a ticket to the national elite stage. That is SUKMA.

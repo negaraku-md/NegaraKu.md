@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "a468b0e147901427"
+sourceContentHash: "9819d68eb440d864"
 
 status: "published"
 aiAssisted: true
@@ -108,6 +108,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sepak_takraw.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sepak-takraw/body-1.webp
+    alt: アジア競技大会の女子の試合で、セパタクローの選手が跳び上がり、籐のボールをネット越しに蹴る激しい攻防の様子。
+    kind: representative
+    origin: third-party
+    subject: アジア競技大会の試合でネットを挟んで競うセパタクローの選手たち
+    credit: Republic of Korea (Korea.net) / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Incheon_AsianGames_Sepaktakraw_02_(15294462532).jpg
+  - role: scene
+    src: /media/sports/sepak-takraw/body-2.webp
+    alt: 編まれた籐製のセパタクローボールのクローズアップ。この競技に用いられる伝統的な編み込みのボール。
+    kind: representative
+    origin: third-party
+    subject: 編まれた籐製のセパタクローのボール
+    credit: Lamacchiacosta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rattan_ball_forweb.jpg
 ---
 
 バレーボールを思い浮かべ、そこから各選手の両手を取り上げてほしい。残るもの——頭の高さのバックフリップ・アタック、胸を使ったトス、高く上げてかかとで蹴るサーブ——それがセパタクローである。世界でもっともアクロバティックなスポーツの一つであり、マレー世界のアイデンティティともっとも深く結びついた競技の一つだ。

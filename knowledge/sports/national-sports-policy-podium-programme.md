@@ -99,6 +99,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Women%27s_Vault_Podium_at_the_2017_SEA_Games.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-1.webp
+    alt: Pemain para-badminton Malaysia Cheah Liek Hou, dalam jersi kuning Malaysia, bergerak ke jaring semasa final perseorangan SU5 lelaki di Paralimpik Paris 2024.
+    kind: actual
+    origin: third-party
+    subject: Atlet elit Malaysia Cheah Liek Hou beraksi di Paralimpik Paris 2024
+    credit: Wikisquack / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cheah_Liek_Hou_at_the_Paris_2024_Paralympics_badminton_SU5_men_singles_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-2.webp
+    alt: Pusat Akuatik Pandelela Rinong di Kuching, sebuah gelanggang terjun dan renang moden berwarna merah dan hijau yang dinamakan sempena pemenang pingat terjun Olimpik Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Pusat Akuatik Pandelela Rinong, sebuah gelanggang sukan elit Malaysia yang dinamakan sempena pemenang pingat Olimpik
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pandelela_Rinong_Aquatic_Centre_at_Petra_Jaya.jpg
 ---
 
 Setiap kali seorang atlet Malaysia melangkah ke podium Olimpik, dua sistem yang berlainan sebenarnya sedang bekerja di belakangnya — satu yang cuba mengajak seluruh rakyat bergerak, dan satu lagi yang menumpukan sumber besar kepada segelintir kecil yang mampu menang. Kedua-duanya hidup di bawah satu dokumen dasar yang sama, tetapi dibiayai dan diukur dengan cara yang sangat berbeza.

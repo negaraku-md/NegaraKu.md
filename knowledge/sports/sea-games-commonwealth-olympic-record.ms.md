@@ -34,7 +34,7 @@ faq:
     a: "Menjadi tuan rumah Sukan 1998 di Kuala Lumpur, di mana ia mencatatkan koleksi terbaiknya sebanyak 10 pingat emas dan menamatkan tempat keempat keseluruhan. Ia juga merupakan Sukan Komanwel pertama yang pernah diadakan di Asia."
 
 lang: "ms"
-sourceContentHash: "d25df756ce38577d"
+sourceContentHash: "0c2cd4024b5fe1ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:2008_Summer_Olympics_-_Opening_Ceremony_-_Malaysia.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-1.webp
+    alt: Dua peterjun terpaku di udara semasa final terjun seirama di Sukan SEA Kuala Lumpur 2017, dengan jenama Sukan itu di dinding belakang mereka.
+    kind: actual
+    origin: third-party
+    subject: Final terjun seirama di Sukan SEA Kuala Lumpur 2017
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Sea_games_diving_final_c.jpg
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-2.webp
+    alt: Pemain ragbi sepasukan Malaysia, berbaju putih dan hitam, berbaris menentang Wales berbaju merah di padang pada Sukan Komanwel Birmingham 2022.
+    kind: actual
+    origin: third-party
+    subject: Malaysia bermain ragbi tujuh sepasukan menentang Wales di Sukan Komanwel 2022
+    credit: Bearas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Men%27s_rugby_sevens_at_the_2022_Commonwealth_Games_-_Wales_vs_Malaysia_185138.jpg
 ---
 
 Malaysia telah menaiki podium Olimpik sebanyak lima belas kali — dan mendengar lagu kebangsaan negara lain dimainkan pada setiap kali itu.

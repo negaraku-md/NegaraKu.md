@@ -29,7 +29,7 @@ faq:
     a: "阿兹祖哈斯尼·阿旺（Azizulhasni Awang），两枚奥运奖牌得主（2016年铜牌、2020年银牌）及2017年凯林赛世界冠军。"
 
 lang: "zh"
-sourceContentHash: "490abb68b2e39c44"
+sourceContentHash: "345a803183cf2c08"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:National_Velodrome,_Nilai.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-1.webp
+    alt: 场地自行车世界锦标赛期间，室内赛车场（velodrome）内倾斜的椭圆形木质赛道、内场及拥挤的看台。
+    kind: representative
+    origin: third-party
+    subject: 场地自行车世界锦标赛期间的室内赛车场（velodrome）内景
+    credit: Mkckim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_UCI_Track_Cycling_World_Championships.jpg
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-2.webp
+    alt: 两名场地自行车选手骑着装有碟轮的空气动力学赛车，并肩在赛车场（velodrome）陡峭倾斜的蓝红赛道板面上疾驰向上。
+    kind: representative
+    origin: third-party
+    subject: 场地短距离选手在赛车场（velodrome）倾斜板道上竞速
+    credit: Tim Rademacher / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UCI_Track_World_Championships_2020-02-29_143621.jpg
 ---
 
 汝来郊外一座屋顶绵长的场馆，如今成了马来西亚最快车手磨炼冲刺的所在——而它正是为培育更多场地自行车世界冠军而专门建造的。

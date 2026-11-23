@@ -34,7 +34,7 @@ faq:
     a: "Kemenangan gelar regu tim Piala Raja terakhir Malaysia adalah pada 1988. Menjelang 2024, penantian itu telah mencapai sekitar 36 tahun ketika Malaysia kalah 0-2 kepada tuan rumah Thailand di Nakhon Ratchasima."
 
 lang: "id"
-sourceContentHash: "a468b0e147901427"
+sourceContentHash: "9819d68eb440d864"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -109,6 +109,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sepak_takraw.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sepak-takraw/body-1.webp
+    alt: Pemain sepak takraw melompat menendang bola rotan melewati net dalam sebuah pertukaran ketat selama pertandingan putri di Asian Games.
+    kind: representative
+    origin: third-party
+    subject: Pemain sepak takraw berebut di net selama sebuah pertandingan Asian Games
+    credit: Republic of Korea (Korea.net) / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Incheon_AsianGames_Sepaktakraw_02_(15294462532).jpg
+  - role: scene
+    src: /media/sports/sepak-takraw/body-2.webp
+    alt: Gambar dekat bola sepak takraw rotan anyaman, bola jalinan tradisional yang digunakan untuk memainkan olahraga ini.
+    kind: representative
+    origin: third-party
+    subject: Bola sepak takraw rotan anyaman
+    credit: Lamacchiacosta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rattan_ball_forweb.jpg
 ---
 
 Bayangkan bola voli, lalu rampas tangan setiap pemain. Apa yang tersisa —

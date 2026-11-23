@@ -29,7 +29,7 @@ faq:
     a: "SUKMA es la etapa estatal donde los jóvenes atletas muestran su talento. Los atletas con potencial pueden ser promovidos a los programas de desarrollo de talento y de reserva del MSN y, de ahí, al Programa Podio del ISN, que prepara a atletas de élite para los juegos internacionales."
 
 lang: "es"
-sourceContentHash: "85246294d35de2fe"
+sourceContentHash: "76cfd0ad84941214"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroLicense: 'CC BY 2.5'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sukma-games/body-1.webp
+    alt: La tribuna principal, el césped verde y la pista roja de un estadio estatal malasio con asientos azules y amarillos vacíos, típico de una sede anfitriona de los SUKMA.
+    kind: representative
+    origin: third-party
+    subject: Un estadio estatal malasio con pista de atletismo, el tipo de sede que acoge los eventos SUKMA
+    credit: Only Truth / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Darul_Makmur.jpg
+  - role: scene
+    src: /media/sports/sukma-games/body-2.webp
+    alt: Vista aérea del Likas Sports Complex en Kota Kinabalu, que muestra un estadio de atletismo, un pabellón cubierto con cúpula e instalaciones deportivas circundantes en medio de la ciudad.
+    kind: representative
+    origin: third-party
+    subject: Vista aérea del Likas Sports Complex en Sabah, una sede de juegos multideportivos
+    credit: thienzieyung / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_View_Of_Likas_Sports_Complex.jpg
 ---
 
 Cada dos años, miles de jóvenes atletas desfilan hacia el estadio de un estado anfitrión — no por medallas mundiales, sino por el orgullo de sus respectivos estados y, para los más talentosos, por un billete al escenario nacional de élite. Eso es SUKMA.

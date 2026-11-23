@@ -31,7 +31,7 @@ faq:
     a: "سيفاسانغاري سوبرامانيام، التي بلغت أعلى مرتبة في مسيرتها وهي السادسة عالميًا في أكتوبر 2025، ونغ إين يو، الذي فاز بكأس ماليزيا للإسكواش ACE لعام 2024 على أرضه."
 
 lang: "ar"
-sourceContentHash: "47a1ae4a8ea8c4dc"
+sourceContentHash: "097f4f41b0bac5b0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Nicol_David_Hong_Kong_2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-1.webp
+    alt: ملعب استعراضي زجاجي بالكامل للإسكواش مُضاء بالكشافات، أُقيم داخل صالة من أجل بطولة احترافية، كما يبدو من المقاعد المدرّجة المحيطة.
+    kind: representative
+    origin: third-party
+    subject: ملعب استعراضي زجاجي مُجهّز لبطولة إسكواش احترافية
+    credit: Tc159 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Open_International_de_Squash_de_Nantes_2017.jpg
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-2.webp
+    alt: لاعبان يتنافسان على ملعب إسكواش بجدران زجاجية يحيط به المتفرّجون في قاعة كبرى خلال بطولة إسكواش كبرى.
+    kind: representative
+    origin: third-party
+    subject: مباراة إسكواش احترافية على ملعب زجاجي أمام جمهور غفير
+    credit: julesgriff / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tournament_of_Champions_Squash_2012.jpg
 ---
 
 على مدى تسع سنوات متتالية، كانت أفضل لاعبة إسكواش على وجه الأرض تنحدر من بينانغ. لم تكتفِ نيكول ديفيد بالفوز في أنجح رياضة فردية لماليزيا — بل أعادت تعريف ما تعنيه الهيمنة فيها، محتفظةً بالمرتبة الأولى عالميًا لمدة **108 أشهر متتالية** حتى سبتمبر 2015، وهي أطول فترة هيمنة متواصلة شهدتها اللعبة على الإطلاق.

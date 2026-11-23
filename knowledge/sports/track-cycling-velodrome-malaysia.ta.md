@@ -29,7 +29,7 @@ faq:
     a: "Azizulhasni Awang, இரண்டு ஒலிம்பிக் பதக்கங்களை வென்றவர் (2016 வெண்கலம், 2020 வெள்ளி) மற்றும் 2017 கீரின் உலக சாம்பியன்."
 
 lang: "ta"
-sourceContentHash: "490abb68b2e39c44"
+sourceContentHash: "345a803183cf2c08"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:National_Velodrome,_Nilai.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-1.webp
+    alt: ட்ராக் சைக்கிள் உலக சாம்பியன்ஷிப்பின்போது ஒரு உட்புற வெலோட்ரோமுக்குள் உள்ள சாய்வான நீள்வட்ட மரத் தடம், உட்புற மைதானம் மற்றும் நெரிசலான மேடைகள்.
+    kind: representative
+    origin: third-party
+    subject: ஒரு ட்ராக் சைக்கிள் உலக சாம்பியன்ஷிப்பின்போது ஒரு வெலோட்ரோமின் உட்புறம்
+    credit: Mkckim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_UCI_Track_Cycling_World_Championships.jpg
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-2.webp
+    alt: வட்டு சக்கரங்களுடன் கூடிய காற்றியக்க சைக்கிள்களில் இரு ட்ராக் சைக்கிள் வீரர்கள் ஒரு வெலோட்ரோமின் செங்குத்தாகச் சாய்ந்த நீலம்-சிவப்பு பலகைகளில் அருகருகே பந்தயமிடுகின்றனர்.
+    kind: representative
+    origin: third-party
+    subject: ஒரு வெலோட்ரோமின் சாய்வான பலகைகளில் பந்தயமிடும் ட்ராக் குறுந்தூர வீரர்கள்
+    credit: Tim Rademacher / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UCI_Track_World_Championships_2020-02-29_143621.jpg
 ---
 
 நிலாயின் ஓரத்தில் அமைந்துள்ள ஒரு நீளமான கூரை போர்த்திய களம் இன்று மலேசியாவின் வேகமான சைக்கிள் வீரர்கள் தங்கள் ஓட்டத்தைக் கூர்மைப்படுத்தும் இடமாக மாறியுள்ளது — மேலும் இது மேலும் பல உலக டிராக் சாம்பியன்களை உருவாக்கும் நோக்கத்தோடு பிரத்யேகமாகக் கட்டப்பட்டது.

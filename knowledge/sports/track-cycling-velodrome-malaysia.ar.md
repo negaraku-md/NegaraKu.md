@@ -29,7 +29,7 @@ faq:
     a: "عزيز الحسني أوانغ، الحائز على ميداليتين أولمبيتين (برونزية 2016، فضية 2020) وبطل العالم في الكيرين عام 2017."
 
 lang: "ar"
-sourceContentHash: "490abb68b2e39c44"
+sourceContentHash: "345a803183cf2c08"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:National_Velodrome,_Nilai.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-1.webp
+    alt: المضمار الخشبي البيضاوي المائل وأرضيته الداخلية والمدرّجات المكتظة داخل حلبة دراجات مغلقة خلال بطولة عالمية لسباق الدراجات على المضمار.
+    kind: representative
+    origin: third-party
+    subject: المنظر الداخلي لحلبة دراجات خلال بطولة عالمية لسباق الدراجات على المضمار
+    credit: Mkckim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_UCI_Track_Cycling_World_Championships.jpg
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-2.webp
+    alt: دراجان على مضمار يمتطيان دراجتين انسيابيتين بعجلات صمّاء يتسابقان جنبًا إلى جنب صعودًا على الألواح الزرقاء والحمراء الشديدة الانحدار لحلبة الدراجات.
+    kind: representative
+    origin: third-party
+    subject: عدّاؤو مضمار يتسابقون على الألواح المائلة لحلبة دراجات
+    credit: Tim Rademacher / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UCI_Track_World_Championships_2020-02-29_143621.jpg
 ---
 
 حلبة طويلة مسقوفة على أطراف نيلاي هي اليوم المكان الذي يصقل فيه أسرع دراجي ماليزيا انطلاقاتهم — وقد بُنيت خصيصاً لإنجاب مزيد من أبطال العالم على المضمار.

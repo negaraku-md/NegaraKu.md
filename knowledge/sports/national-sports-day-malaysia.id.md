@@ -29,7 +29,7 @@ faq:
     a: "HSN adalah hari puncak perayaan. Sejak 2019, KBS memperluas perayaan sepanjang bulan Oktober sebagai Bulan Sukan Negara (BSN)."
 
 lang: "id"
-sourceContentHash: "51f2375791aa9f72"
+sourceContentHash: "589c4ce3e24ca4be"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,25 @@ heroLicense: 'CC BY 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pacers_Running.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-1.webp
+    alt: Kerumunan besar pesepeda dari berbagai usia memenuhi sebuah jalan Kuala Lumpur yang ditutup saat fajar selama acara Hari Bebas Kendaraan, di bawah spanduk meriah.
+    kind: representative
+    origin: third-party
+    subject: Pesepeda partisipasi massal pada pagi Hari Bebas Kendaraan Kuala Lumpur
+    credit: WPSamson / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_KL_Car_Free_Day_(October_18th,_2015).jpg
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-2.webp
+    alt: Atlet muda dan ofisial berkumpul di atas lintasan lari merah sebuah stadion Malaysia selama kejuaraan atletik sekolah tingkat distrik, dengan lampu sorot dan tribune utama di belakang.
+    kind: representative
+    origin: third-party
+    subject: Atlet di atas lintasan pada sebuah kejuaraan atletik sekolah distrik di Malaysia
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kejohanan_Olahraga_Pendidikan_Khas_MSSD_Petaling_Utama_2025_20250626_101029.jpg
 ---
 
 Setiap Sabtu minggu kedua bulan Oktober, lapangan, taman dan gedung olahraga di seluruh Malaysia seharusnya penuh sesak — itulah rancangan Hari Sukan Negara.

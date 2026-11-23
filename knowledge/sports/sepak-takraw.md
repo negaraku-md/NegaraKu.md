@@ -108,6 +108,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sepak_takraw.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sepak-takraw/body-1.webp
+    alt: Pemain sepak takraw melompat menyepak bola rotan merentasi jaring dalam satu pertukaran rapat semasa perlawanan wanita di Sukan Asia.
+    kind: representative
+    origin: third-party
+    subject: Pemain sepak takraw berebut di jaring semasa satu perlawanan Sukan Asia
+    credit: Republic of Korea (Korea.net) / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Incheon_AsianGames_Sepaktakraw_02_(15294462532).jpg
+  - role: scene
+    src: /media/sports/sepak-takraw/body-2.webp
+    alt: Gambar dekat bola sepak takraw rotan yang dianyam, bola jalinan tradisional yang digunakan untuk bermain sukan ini.
+    kind: representative
+    origin: third-party
+    subject: Bola sepak takraw rotan yang dianyam
+    credit: Lamacchiacosta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rattan_ball_forweb.jpg
 ---
 
 Bayangkan bola tampar, kemudian rampas tangan setiap pemain. Apa yang tinggal —

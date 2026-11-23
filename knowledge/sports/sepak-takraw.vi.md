@@ -34,7 +34,7 @@ faq:
     a: "Chiến thắng chức vô địch regu đồng đội King's Cup cuối cùng của Malaysia là vào năm 1988. Đến năm 2024, cuộc chờ đợi đó đã đạt khoảng 36 năm khi Malaysia thua 0-2 trước chủ nhà Thái Lan tại Nakhon Ratchasima."
 
 lang: "vi"
-sourceContentHash: "a468b0e147901427"
+sourceContentHash: "9819d68eb440d864"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -109,6 +109,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sepak_takraw.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sepak-takraw/body-1.webp
+    alt: Các vận động viên sepak takraw bật người đá quả bóng mây qua lưới trong một pha tranh bóng sát sao trong trận đấu nữ tại Asian Games.
+    kind: representative
+    origin: third-party
+    subject: Các vận động viên sepak takraw tranh bóng tại lưới trong một trận đấu Asian Games
+    credit: Republic of Korea (Korea.net) / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Incheon_AsianGames_Sepaktakraw_02_(15294462532).jpg
+  - role: scene
+    src: /media/sports/sepak-takraw/body-2.webp
+    alt: Cận cảnh những quả bóng sepak takraw bằng mây đan, quả bóng đan truyền thống được dùng để chơi môn thể thao này.
+    kind: representative
+    origin: third-party
+    subject: Những quả bóng sepak takraw bằng mây đan
+    credit: Lamacchiacosta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rattan_ball_forweb.jpg
 ---
 
 Hãy hình dung bóng chuyền, rồi tước đi đôi tay của mỗi cầu thủ. Những gì còn lại — cú đập xoay người cao ngang đầu, cú chuyền bằng ngực, cú phát bóng được tung cao lên không trung và đá bằng gót chân — đó chính là sepak takraw: một trong những môn thể thao nhào lộn nhất thế giới, và là một trong những môn gắn bó chặt chẽ nhất với bản sắc của Thế giới Mã Lai.

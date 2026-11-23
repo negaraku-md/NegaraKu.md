@@ -34,7 +34,7 @@ faq:
     a: "Đăng cai Đại hội 1998 ở Kuala Lumpur, nơi nó ghi nhận thành tích tốt nhất của mình là 10 huy chương vàng và về hạng tư toàn đoàn. Đó cũng là Đại hội Thể thao Khối Thịnh vượng chung đầu tiên từng được tổ chức ở châu Á."
 
 lang: "vi"
-sourceContentHash: "d25df756ce38577d"
+sourceContentHash: "0c2cd4024b5fe1ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:2008_Summer_Olympics_-_Opening_Ceremony_-_Malaysia.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-1.webp
+    alt: Hai vận động viên nhảy cầu đứng hình giữa không trung trong trận chung kết nhảy cầu đồng bộ tại SEA Games Kuala Lumpur 2017, với thương hiệu của Đại hội trên bức tường phía sau họ.
+    kind: actual
+    origin: third-party
+    subject: Chung kết nhảy cầu đồng bộ tại SEA Games Kuala Lumpur 2017
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Sea_games_diving_final_c.jpg
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-2.webp
+    alt: Các cầu thủ bóng bầu dục bảy người của Malaysia, mặc áo trắng và đen, xếp hàng đối đầu với Wales mặc áo đỏ trên sân tại Commonwealth Games Birmingham 2022.
+    kind: actual
+    origin: third-party
+    subject: Malaysia thi đấu bóng bầu dục bảy người gặp Wales tại Commonwealth Games 2022
+    credit: Bearas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Men%27s_rugby_sevens_at_the_2022_Commonwealth_Games_-_Wales_vs_Malaysia_185138.jpg
 ---
 
 Malaysia đã leo lên bục vinh quang Olympic mười lăm lần — và nghe quốc ca của một quốc gia khác vang lên mỗi lần như vậy.

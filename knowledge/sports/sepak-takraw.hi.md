@@ -34,7 +34,7 @@ faq:
     a: "मलेशिया की आख़िरी किंग्स कप टीम रेगु खिताब जीत 1988 में थी। 2024 तक वह इंतज़ार लगभग 36 वर्ष तक पहुँच गया जब मलेशिया नाखोन रातचासिमा में मेज़बान थाईलैंड से 0-2 से हार गया।"
 
 lang: "hi"
-sourceContentHash: "a468b0e147901427"
+sourceContentHash: "9819d68eb440d864"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -109,6 +109,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sepak_takraw.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sepak-takraw/body-1.webp
+    alt: Asian Games के एक महिला मैच के दौरान एक कड़े आदान-प्रदान में नेट के पार रतन की गेंद को किक मारने के लिए उछलते sepak takraw खिलाड़ी।
+    kind: representative
+    origin: third-party
+    subject: Asian Games के एक मैच के दौरान नेट पर जूझते sepak takraw खिलाड़ी
+    credit: Republic of Korea (Korea.net) / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Incheon_AsianGames_Sepaktakraw_02_(15294462532).jpg
+  - role: scene
+    src: /media/sports/sepak-takraw/body-2.webp
+    alt: बुनी हुई रतन की sepak takraw गेंदों का क्लोज-अप, खेल खेलने के लिए इस्तेमाल होने वाली पारंपरिक गुंथी हुई गेंद।
+    kind: representative
+    origin: third-party
+    subject: बुनी हुई रतन की sepak takraw गेंदें
+    credit: Lamacchiacosta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rattan_ball_forweb.jpg
 ---
 
 वॉलीबॉल की कल्पना कीजिए, फिर हर खिलाड़ी के हाथ हटा दीजिए। जो बचता है — सिर की ऊँचाई पर साइकिल-किक स्पाइक, छाती से पास, हवा में ऊँचा उछाली और एड़ी से मारी गई सर्व — वही सेपाक ताक्रॉ है: दुनिया के सबसे कलाबाज़ खेलों में से एक, और मलय जगत की पहचान से सबसे गहराई से जुड़े खेलों में से एक।

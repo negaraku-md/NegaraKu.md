@@ -34,7 +34,7 @@ faq:
     a: "主办1998年吉隆坡英联邦运动会，在那届赛会上它录得最佳成绩10枚金牌，总排名第四。那也是史上首届在亚洲举办的英联邦运动会。"
 
 lang: "zh"
-sourceContentHash: "d25df756ce38577d"
+sourceContentHash: "0c2cd4024b5fe1ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:2008_Summer_Olympics_-_Opening_Ceremony_-_Malaysia.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-1.webp
+    alt: 2017年吉隆坡东南亚运动会（SEA Games）双人跳水决赛中，两名跳水选手腾空而起，身后墙上是赛会品牌标识。
+    kind: actual
+    origin: third-party
+    subject: 2017年吉隆坡东南亚运动会的双人跳水决赛
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Sea_games_diving_final_c.jpg
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-2.webp
+    alt: 2022年伯明翰英联邦运动会（Commonwealth Games）赛场上，身穿黑白球衣的马来西亚七人制橄榄球队与身穿红色球衣的威尔士队列队对阵。
+    kind: actual
+    origin: third-party
+    subject: 马来西亚在2022年英联邦运动会七人制橄榄球比赛中对阵威尔士
+    credit: Bearas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Men%27s_rugby_sevens_at_the_2022_Commonwealth_Games_-_Wales_vs_Malaysia_185138.jpg
 ---
 
 马来西亚已15次登上奥运领奖台——而每一次响起的都是别国的国歌。

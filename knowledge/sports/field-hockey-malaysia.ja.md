@@ -35,7 +35,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e3b29244d5e5d634"
+sourceContentHash: "70f556dff6e2532a"
 
 status: "published"
 aiAssisted: true
@@ -94,6 +94,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen,_Nederland_tegen_Maleisi_4-0,_Ties_Kruize_(rech,_Bestanddeelnr_926-6422.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-1.webp
+    alt: フィールドホッケーの試合、マレーシア対オランダ。1973年ホッケー・ワールドカップ、アムステルフェーンにて。
+    kind: actual
+    origin: third-party
+    subject: 1973年ホッケー・ワールドカップで戦うマレーシアのフィールドホッケー代表チーム
+    credit: Hans Peters / Anefo / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen%2C_Nederland_tegen_Maleisi_4-0%2C_spelmoment%2C_Bestanddeelnr_926-6427.jpg
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-2.webp
+    alt: ジョホール州ジョホールバルにあるタマン・ダヤ・ホッケー・スタジアムのピッチとスタンド。マレーシアのフィールドホッケー会場。
+    kind: actual
+    origin: third-party
+    subject: ジョホールバルのタマン・ダヤ・ホッケー・スタジアム。マレーシアのフィールドホッケー会場
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Daya_Hockey_Stadium.JPG
 ---
 
 1975年3月15日、クアラルンプールのあるスタジアムは、インドが男子ホッケー・ワールドカップを掲げる瞬間を目撃した——それは彼らの歴史上唯一の栄冠であり——そして開催国はインドではなく、マレーシアであった。半世紀を経ても、同じ国が今なお毎年、世界のホッケー強豪をイポーに招いている。ホッケー（フィールドホッケー）は今日のマレーシアで最も人気のあるスポーツではないかもしれないが、この国が国際的に最も尊敬を集めるスポーツ遺産と言えるだろう。

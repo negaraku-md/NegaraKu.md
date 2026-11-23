@@ -33,7 +33,7 @@ faq:
     a: "La Confédération malaisienne de hockey (MHC) est l'organe directeur national du hockey sur gazon et en salle, masculin comme féminin. Elle est affiliée à la Fédération asiatique de hockey (AHF) et à la FIH, et opère depuis le Stade national de hockey de Bukit Jalil, Kuala Lumpur."
 
 lang: "fr"
-sourceContentHash: "e3b29244d5e5d634"
+sourceContentHash: "70f556dff6e2532a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -94,6 +94,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen,_Nederland_tegen_Maleisi_4-0,_Ties_Kruize_(rech,_Bestanddeelnr_926-6422.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-1.webp
+    alt: Joueurs lors d'un match de hockey sur gazon, la Malaisie contre les Pays-Bas, pendant la Coupe du monde de hockey de 1973 à Amstelveen.
+    kind: actual
+    origin: third-party
+    subject: L'équipe nationale de hockey sur gazon de la Malaisie en action lors de la Coupe du monde de hockey de 1973
+    credit: Hans Peters / Anefo / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen%2C_Nederland_tegen_Maleisi_4-0%2C_spelmoment%2C_Bestanddeelnr_926-6427.jpg
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-2.webp
+    alt: Le terrain et les tribunes du Taman Daya Hockey Stadium à Johor Bahru, dans le Johor, une enceinte de hockey sur gazon en Malaisie.
+    kind: actual
+    origin: third-party
+    subject: Le Taman Daya Hockey Stadium à Johor Bahru, une enceinte malaisienne de hockey sur gazon
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Daya_Hockey_Stadium.JPG
 ---
 
 Le 15 March 1975, un stade de Kuala Lumpur a vu l'Inde soulever la Coupe du monde masculine de hockey pour la seule fois de son histoire, et l'hôte n'était pas l'Inde, mais la Malaisie. Un demi-siècle plus tard, le même pays continue d'inviter chaque année les puissances mondiales du hockey à Ipoh. Le hockey sur gazon n'est peut-être pas le sport le plus populaire de Malaisie aujourd'hui, mais il pourrait bien être l'héritage sportif du pays le plus respecté sur le plan international.

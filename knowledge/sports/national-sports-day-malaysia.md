@@ -76,6 +76,25 @@ heroLicense: 'CC BY 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pacers_Running.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-1.webp
+    alt: Sekumpulan besar penunggang basikal pelbagai peringkat usia memenuhi sebuah jalan Kuala Lumpur yang ditutup pada waktu subuh semasa acara Hari Tanpa Kereta, di bawah sepanduk meriah.
+    kind: representative
+    origin: third-party
+    subject: Penunggang basikal penyertaan ramai pada pagi Hari Tanpa Kereta Kuala Lumpur
+    credit: WPSamson / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_KL_Car_Free_Day_(October_18th,_2015).jpg
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-2.webp
+    alt: Atlet muda dan pegawai berkumpul di atas trek larian merah sebuah stadium Malaysia semasa kejohanan olahraga sekolah peringkat daerah, dengan lampu limpah dan tempat duduk utama di belakang.
+    kind: representative
+    origin: third-party
+    subject: Atlet di atas trek pada satu kejohanan olahraga sekolah daerah di Malaysia
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kejohanan_Olahraga_Pendidikan_Khas_MSSD_Petaling_Utama_2025_20250626_101029.jpg
 ---
 
 Setiap Sabtu minggu kedua bulan Oktober, padang, taman dan dewan sukan di seluruh Malaysia sepatutnya penuh sesak — itulah rekaan Hari Sukan Negara.

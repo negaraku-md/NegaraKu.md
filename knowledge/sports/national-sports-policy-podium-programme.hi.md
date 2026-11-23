@@ -35,7 +35,7 @@ faq:
     a: "लक्ष्य प्रमुख खेलों के चक्र — ओलंपिक, एशियाई खेल और राष्ट्रमंडल खेल — से जुड़े होते हैं, और उन खेलों को प्राथमिकता दी जाती है जिनमें सफलता की उच्च संभावना चिह्नित की गई हो, जो राष्ट्रीय खेल नीति के उद्देश्य 8 के अनुरूप है। वित्तपोषण चक्रीय आधार पर दिया जाता है (उदाहरण के लिए चार वर्षों तक RM60 मिलियन प्रति वर्ष), जिसका समन्वय राष्ट्रीय खेल परिषद करती है और जिसे राष्ट्रीय खेल संस्थान के खेल विज्ञान से सहयोग मिलता है।"
 
 lang: "hi"
-sourceContentHash: "d336fe0c30f91bdb"
+sourceContentHash: "a41ee45e3fde6627"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -104,6 +104,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Women%27s_Vault_Podium_at_the_2017_SEA_Games.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-1.webp
+    alt: मलेशियाई पैरा-बैडमिंटन खिलाड़ी Cheah Liek Hou, मलेशिया की पीली वर्दी में, Paris 2024 Paralympics में पुरुषों के SU5 एकल फाइनल के दौरान नेट की ओर बढ़ते हुए।
+    kind: actual
+    origin: third-party
+    subject: मलेशियाई शीर्ष एथलीट Cheah Liek Hou Paris 2024 Paralympics में प्रतिस्पर्धा करते हुए
+    credit: Wikisquack / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cheah_Liek_Hou_at_the_Paris_2024_Paralympics_badminton_SU5_men_singles_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-2.webp
+    alt: Kuching में Pandelela Rinong Aquatic Centre, मलेशिया की Olympic डाइविंग पदक विजेता के नाम पर रखा गया एक आधुनिक लाल-हरा डाइविंग और तैराकी स्थल।
+    kind: representative
+    origin: third-party
+    subject: Pandelela Rinong Aquatic Centre, एक Olympic पदक विजेता के नाम पर रखा गया एक मलेशियाई शीर्ष खेल स्थल
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pandelela_Rinong_Aquatic_Centre_at_Petra_Jaya.jpg
 ---
 
 हर बार जब कोई मलेशियाई खिलाड़ी ओलंपिक पोडियम पर कदम रखता है, तो उसके पीछे वास्तव में दो अलग-अलग तंत्र काम कर रहे होते हैं — एक जो पूरी आबादी को गतिशील करने की कोशिश करता है, और दूसरा जो उस छोटे-से मुट्ठीभर समूह पर विशाल संसाधन केंद्रित करता है जो जीतने में सक्षम है। दोनों एक ही नीति दस्तावेज़ के अंतर्गत आते हैं, लेकिन उन्हें बहुत भिन्न तरीकों से वित्तपोषित और मापा जाता है।

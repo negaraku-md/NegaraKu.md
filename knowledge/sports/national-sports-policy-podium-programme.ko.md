@@ -35,7 +35,7 @@ faq:
     a: "목표는 주요 대회 주기 — 올림픽, 아시안게임, 코먼웰스게임 — 와 연계되며, 국가스포츠정책의 목표 8에 따라 성공 가능성이 높다고 파악된 스포츠에 초점을 둡니다. 재정 지원은 주기별로(예컨대 4년간 연 RM6,000만) 배분되며, 국가체육위원회가 조정하고 국가스포츠원이 스포츠 과학을 지원합니다."
 
 lang: "ko"
-sourceContentHash: "d336fe0c30f91bdb"
+sourceContentHash: "a41ee45e3fde6627"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -100,6 +100,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Women%27s_Vault_Podium_at_the_2017_SEA_Games.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-1.webp
+    alt: 말레이시아의 노란색 유니폼을 입은 말레이시아 장애인 배드민턴 선수 치아 리에크하우가 2024년 파리 패럴림픽 남자 SU5 단식 결승에서 네트로 다가서는 모습.
+    kind: actual
+    origin: third-party
+    subject: 2024년 파리 패럴림픽에 출전한 말레이시아 엘리트 선수 치아 리에크하우
+    credit: Wikisquack / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cheah_Liek_Hou_at_the_Paris_2024_Paralympics_badminton_SU5_men_singles_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-2.webp
+    alt: 쿠칭에 있는 판델렐라 리농 수영 센터. 말레이시아의 올림픽 다이빙 메달리스트의 이름을 딴 현대적인 빨강·초록색 다이빙·수영 경기장이다.
+    kind: representative
+    origin: third-party
+    subject: 올림픽 메달리스트의 이름을 딴 말레이시아 엘리트 스포츠 경기장 판델렐라 리농 수영 센터
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pandelela_Rinong_Aquatic_Centre_at_Petra_Jaya.jpg
 ---
 
 말레이시아 선수가 올림픽 시상대에 오를 때마다, 그 뒤에서는 실은 서로 다른 두 개의 시스템이 작동하고 있습니다 — 하나는 온 국민을 움직이게 하려는 시스템이고, 다른 하나는 이길 수 있는 소수의 선수에게 막대한 자원을 집중하는 시스템입니다. 둘 다 동일한 하나의 정책 문서 아래 존재하지만, 매우 다른 방식으로 재정 지원되고 측정됩니다.

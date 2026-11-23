@@ -27,7 +27,7 @@ faq:
   - q: "Où se trouve le siège du MSN ?"
     a: "Au Complexe sportif national (Kompleks Sukan Negara), Bukit Jalil, 57000 Sri Petaling, Kuala Lumpur. Il exploite également des complexes d'entraînement dans plusieurs autres États."
 lang: "fr"
-sourceContentHash: "ebb2456ffa0caf75"
+sourceContentHash: "8944daaf247428ff"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia,_Bukit_Jalil_(220713).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-1.webp
+    alt: Le bâtiment du National Sports Institute à Bukit Jalil, sa façade vitrée portant une banderole 'Where Legends Are Made', devant un parvis désert.
+    kind: representative
+    origin: third-party
+    subject: Le bâtiment du National Sports Institute (ISN) à Bukit Jalil, élément du dispositif sportif national de la Malaisie
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Institut_Sukan_Negara,_Bukit_Jalil_(220713).jpg
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-2.webp
+    alt: Vue aérienne du complexe KL Sports City à Bukit Jalil, montrant le stade national ovale, une arène couverte et le centre aquatique parmi les bâtiments environnants sous une légère brume.
+    kind: representative
+    origin: third-party
+    subject: Vue aérienne du complexe sportif national KL Sports City à Bukit Jalil
+    credit: DvTor8303 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_KL_Sports_City_20260412.jpg
 ---
 
 Lorsqu'un sprinteur malaisien s'aligne aux Jeux olympiques ou qu'un jeune footballeur est recruté dans une sélection nationale, un seul organisme gouvernemental se tient derrière l'entraînement, l'encadrement technique et les installations qui l'ont mené jusque-là : le **Conseil national du sport de Malaisie**, connu en malais sous le nom de **Majlis Sukan Negara (MSN)**. C'est l'agence statutaire qui transforme la politique nationale du sport en athlètes réels.

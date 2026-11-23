@@ -34,7 +34,7 @@ faq:
     a: "การเป็นเจ้าภาพกีฬาปี 1998 ที่กัวลาลัมเปอร์ ที่ซึ่งบันทึกผลงานที่ดีที่สุด 10 เหรียญทองและจบอันดับที่สี่โดยรวม ยังเป็นกีฬาเครือจักรภพครั้งแรกที่จัดในเอเชีย"
 
 lang: "th"
-sourceContentHash: "d25df756ce38577d"
+sourceContentHash: "0c2cd4024b5fe1ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:2008_Summer_Olympics_-_Opening_Ceremony_-_Malaysia.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-1.webp
+    alt: นักกระโดดน้ำสองคนลอยกลางอากาศระหว่างรอบชิงชนะเลิศกระโดดน้ำซิงโครไนซ์ในซีเกมส์กัวลาลัมเปอร์ปี2017มีตราสัญลักษณ์ของการแข่งขันอยู่บนผนังด้านหลัง
+    kind: actual
+    origin: third-party
+    subject: รอบชิงชนะเลิศกระโดดน้ำซิงโครไนซ์ในซีเกมส์กัวลาลัมเปอร์ปี2017
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Sea_games_diving_final_c.jpg
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-2.webp
+    alt: นักรักบี้เจ็ดคนของมาเลเซียในชุดขาวดำยืนเรียงแถวประจันหน้ากับเวลส์ในชุดแดงบนสนามในกีฬาคอมมอนเวลธ์เบอร์มิงแฮมปี2022
+    kind: actual
+    origin: third-party
+    subject: มาเลเซียลงแข่งรักบี้เจ็ดคนกับเวลส์ในกีฬาคอมมอนเวลธ์ปี2022
+    credit: Bearas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Men%27s_rugby_sevens_at_the_2022_Commonwealth_Games_-_Wales_vs_Malaysia_185138.jpg
 ---
 
 มาเลเซียก้าวขึ้นสู่โพเดียมโอลิมปิกสิบห้าครั้ง และได้ยินเพลงชาติของชาติอื่นบรรเลงทุกครั้ง

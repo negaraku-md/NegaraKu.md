@@ -29,7 +29,7 @@ faq:
     a: "Azizulhasni Awang, peraih dua medali Olimpik (perunggu 2016, perak 2020) dan juara dunia keirin 2017."
 
 lang: "id"
-sourceContentHash: "490abb68b2e39c44"
+sourceContentHash: "345a803183cf2c08"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:National_Velodrome,_Nilai.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-1.webp
+    alt: Lintasan kayu oval miring, infield dan tribune yang padat di dalam sebuah velodrom tertutup selama kejuaraan dunia balap sepeda trek.
+    kind: representative
+    origin: third-party
+    subject: Bagian dalam sebuah velodrom selama kejuaraan dunia balap sepeda trek
+    credit: Mkckim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_UCI_Track_Cycling_World_Championships.jpg
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-2.webp
+    alt: Dua pembalap sepeda trek di atas sepeda aerodinamis beroda cakram berlomba berdampingan menaiki papan biru dan merah yang miring curam sebuah velodrom.
+    kind: representative
+    origin: third-party
+    subject: Pembalap sprint trek berlomba di atas papan miring sebuah velodrom
+    credit: Tim Rademacher / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UCI_Track_World_Championships_2020-02-29_143621.jpg
 ---
 
 Sebuah gelanggang beratap panjang di pinggir Nilai kini menjadi tempat pembalap tercepat Malaysia mengasah larinya — dan ia dibangun khusus untuk melahirkan lebih banyak juara trek dunia.

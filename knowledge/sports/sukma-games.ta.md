@@ -29,7 +29,7 @@ faq:
     a: "SUKMA என்பது இளம் வீரர்கள் தங்கள் திறமையை வெளிப்படுத்தும் மாநில அரங்கம். திறன் கொண்ட வீரர்கள் MSN-இன் திறமை-மேம்பாடு மற்றும் இருப்பு (பெலாபிஸ்) திட்டங்களுக்கும், தொடர்ந்து சர்வதேச விழாக்களுக்கு தலைசிறந்த வீரர்களைத் தயார்செய்யும் ISN-இன் Program Podium-க்கும் உயர்த்தப்படலாம்."
 
 lang: "ta"
-sourceContentHash: "85246294d35de2fe"
+sourceContentHash: "76cfd0ad84941214"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroLicense: 'CC BY 2.5'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sukma-games/body-1.webp
+    alt: ஒரு மலேசிய மாநில அரங்கத்தின் முதன்மை மேடை, பச்சை மைதானம் மற்றும் சிவப்பு ஓட்டத் தடம், காலியான நீலம் மற்றும் மஞ்சள் இருக்கைகளுடன், SUKMA புரவலர் அரங்கத்திற்கு உரிய வகை.
+    kind: representative
+    origin: third-party
+    subject: தடகளத் தடத்துடன் கூடிய ஒரு மலேசிய மாநில அரங்கம், SUKMA நிகழ்வுகளை நடத்தும் வகை அரங்கம்
+    credit: Only Truth / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Darul_Makmur.jpg
+  - role: scene
+    src: /media/sports/sukma-games/body-2.webp
+    alt: கோட்டா கினபாலுவில் உள்ள லிகாஸ் விளையாட்டு வளாகத்தின் வான்வழிக் காட்சி, நகரின் நடுவே தடகள அரங்கம், குவிமாடமுடைய உட்புற அரங்கம் மற்றும் சுற்றியுள்ள விளையாட்டு வசதிகளைக் காட்டுகிறது.
+    kind: representative
+    origin: third-party
+    subject: சபாவில் உள்ள லிகாஸ் விளையாட்டு வளாகத்தின் வான்வழிக் காட்சி, ஒரு பல்விளையாட்டு அரங்கம்
+    credit: thienzieyung / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_View_Of_Likas_Sports_Complex.jpg
 ---
 
 ஒவ்வொரு இரண்டு ஆண்டுகளுக்கும் ஒருமுறை, ஆயிரக்கணக்கான இளம் வீரர்கள் விருந்தோம்பி மாநிலத்தின் ஒரு அரங்கத்திற்குள் அணிவகுத்து நுழைகிறார்கள் — உலகப் பதக்கங்களுக்காக அல்ல, மாறாக தத்தம் மாநிலத்தின் பெருமைக்காக, மேலும் மிகத் திறமையானவர்களுக்கு தேசிய தலைசிறந்த அரங்கத்திற்கான ஒரு நுழைவுச் சீட்டுக்காக. அதுதான் SUKMA.

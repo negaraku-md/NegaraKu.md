@@ -29,7 +29,7 @@ faq:
     a: "SUKMA वह राज्य मंच है जहाँ युवा खिलाड़ी अपनी प्रतिभा का प्रदर्शन करते हैं। संभावनाशील खिलाड़ियों को MSN के प्रतिभा-विकास और रिज़र्व कार्यक्रमों में, और आगे ISN के पोडियम कार्यक्रम में पदोन्नत किया जा सकता है, जो शीर्ष खिलाड़ियों को अंतरराष्ट्रीय खेलों के लिए तैयार करता है।"
 
 lang: "hi"
-sourceContentHash: "85246294d35de2fe"
+sourceContentHash: "76cfd0ad84941214"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroLicense: 'CC BY 2.5'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sukma-games/body-1.webp
+    alt: एक मलेशियाई राज्य स्टेडियम की ग्रैंडस्टैंड, हरा मैदान और लाल रनिंग ट्रैक, खाली नीली-और-पीली सीटों के साथ, जो एक SUKMA मेजबान स्थल के लिए विशिष्ट है।
+    kind: representative
+    origin: third-party
+    subject: एथलेटिक्स ट्रैक वाला एक मलेशियाई राज्य स्टेडियम, वैसा स्थल जो SUKMA आयोजनों की मेजबानी करता है
+    credit: Only Truth / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Darul_Makmur.jpg
+  - role: scene
+    src: /media/sports/sukma-games/body-2.webp
+    alt: Kota Kinabalu में Likas Sports Complex का हवाई दृश्य, जिसमें एक ट्रैक-एंड-फील्ड स्टेडियम, एक गुंबददार इनडोर एरिना और शहर के बीच आसपास की खेल सुविधाएं दिखाई दे रही हैं।
+    kind: representative
+    origin: third-party
+    subject: Sabah में Likas Sports Complex का हवाई दृश्य, एक बहु-खेल गेम्स स्थल
+    credit: thienzieyung / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_View_Of_Likas_Sports_Complex.jpg
 ---
 
 हर दो साल में, हज़ारों युवा खिलाड़ी किसी मेज़बान राज्य के स्टेडियम में कदम रखते हैं — विश्व पदकों के लिए नहीं, बल्कि अपने-अपने राज्यों के गौरव के लिए और, सबसे प्रतिभाशाली खिलाड़ियों के लिए, राष्ट्रीय शीर्ष मंच का टिकट पाने के लिए। यही है SUKMA।

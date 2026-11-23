@@ -73,7 +73,27 @@ sources:
     url: "https://www.freemalaysiatoday.com/category/nation/2026/06/12/harimau-malaya-climb-2-spots-in-fifa-rankings-to-136th"
     publisher: "Free Malaysia Today"
   - title: "再见,赛义德阿末 – 带领足球队征战1972年慕尼黑奥运的传奇 (So long, Syed Ahmad – the legend who steered football team to 1972 Munich Olympics)"
-    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad---the-legend-who-steered-football-team-to-1972-munich-olympics"
+    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad
+images:
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-1.webp
+    alt: 一场足球比赛正在森美兰州（Negeri Sembilan）芙蓉（Seremban）巴罗（Paroi）的端姑阿都拉曼体育场（Stadium Tuanku Abdul Rahman）球场上进行。
+    kind: actual
+    origin: third-party
+    subject: 森美兰州巴罗的端姑阿都拉曼体育场举行的一场足球比赛
+    credit: Mohd Izzudin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-2.webp
+    alt: 雪兰莪州哥打白沙罗（Kota Damansara）、八打灵再也（Petaling Jaya）一处住宅区内的露天公共五人制足球（futsal）场。
+    kind: actual
+    origin: third-party
+    subject: 雪兰莪州哥打白沙罗的一处社区五人制足球（futsal）场，马来西亚足球运动的草根场景
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
+---the-legend-who-steered-football-team-to-1972-munich-olympics"
     publisher: "The Star"
   - title: "他们现在何处:马来西亚2010年AFF铃木杯的历史缔造者 (Where are they now: Malaysia's history makers of the 2010 AFF Suzuki Cup)"
     url: "https://www.espn.com/soccer/story/_/id/37622930/where-now-malaysia-history-makers-2010-aff-suzuki-cup"

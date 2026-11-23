@@ -29,7 +29,7 @@ faq:
     a: "Azizulhasni Awang, दो बार के ओलंपिक पदक विजेता (कांस्य 2016, रजत 2020) और 2017 के कीरिन विश्व चैंपियन।"
 
 lang: "hi"
-sourceContentHash: "490abb68b2e39c44"
+sourceContentHash: "345a803183cf2c08"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:National_Velodrome,_Nilai.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-1.webp
+    alt: एक ट्रैक साइक्लिंग विश्व चैंपियनशिप के दौरान एक इनडोर वेलोड्रोम के भीतर बैंक्ड अंडाकार लकड़ी का ट्रैक, इनफील्ड और खचाखच भरी दर्शक-दीर्घाएं।
+    kind: representative
+    origin: third-party
+    subject: एक ट्रैक साइक्लिंग विश्व चैंपियनशिप के दौरान एक वेलोड्रोम का भीतरी हिस्सा
+    credit: Mkckim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_UCI_Track_Cycling_World_Championships.jpg
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-2.webp
+    alt: डिस्क पहियों वाली एयरोडायनामिक साइकिलों पर दो ट्रैक साइक्लिस्ट एक वेलोड्रोम के तीव्र ढलान वाले नीले-और-लाल बोर्डों पर साथ-साथ दौड़ते हुए।
+    kind: representative
+    origin: third-party
+    subject: एक वेलोड्रोम के बैंक्ड बोर्डों पर दौड़ते ट्रैक स्प्रिंटर
+    credit: Tim Rademacher / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UCI_Track_World_Championships_2020-02-29_143621.jpg
 ---
 
 निलाई के बाहरी इलाके में एक लंबा, छत वाला अखाड़ा अब वह जगह है जहाँ मलेशिया के सबसे तेज़ राइडर अपनी स्प्रिंट को धार देते हैं — और इसे विशेष रूप से और अधिक विश्व ट्रैक चैंपियन तैयार करने के लिए बनाया गया था।

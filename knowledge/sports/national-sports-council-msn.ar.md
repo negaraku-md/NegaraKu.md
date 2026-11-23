@@ -27,7 +27,7 @@ faq:
   - q: "أين يقع مقر MSN؟"
     a: "في المجمّع الرياضي الوطني (Kompleks Sukan Negara)، بوكيت جليل، 57000 سري بتالينغ، كوالالمبور. كما يشغّل مجمّعات تدريبية في عدة ولايات أخرى."
 lang: "ar"
-sourceContentHash: "ebb2456ffa0caf75"
+sourceContentHash: "8944daaf247428ff"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia,_Bukit_Jalil_(220713).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-1.webp
+    alt: مبنى National Sports Institute في Bukit Jalil، تحمل واجهته الزجاجية لافتة 'Where Legends Are Made'، وأمامه ساحة خالية.
+    kind: representative
+    origin: third-party
+    subject: مبنى National Sports Institute (ISN) في Bukit Jalil، جزء من المنظومة الرياضية الوطنية في ماليزيا
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Institut_Sukan_Negara,_Bukit_Jalil_(220713).jpg
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-2.webp
+    alt: منظر جوي لمجمّع KL Sports City في Bukit Jalil، يُظهر الاستاد الوطني البيضاوي وصالة مغلقة ومركز السباحة بين المباني المحيطة وسط ضباب خفيف.
+    kind: representative
+    origin: third-party
+    subject: منظر جوي لمجمّع KL Sports City الرياضي الوطني في Bukit Jalil
+    credit: DvTor8303 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_KL_Sports_City_20260412.jpg
 ---
 
 عندما يصطفّ عدّاء ماليزي في الأولمبياد أو يُكتشف لاعب كرة قدم شاب ليُضمّ إلى منتخب وطني، تقف وراء التدريب والإعداد والمرافق التي أوصلته إلى هناك هيئة حكومية واحدة: **مجلس الرياضة الوطني الماليزي**، المعروف بالماليزية باسم **Majlis Sukan Negara (MSN)**. إنه الوكالة القانونية التي تحوّل السياسة الرياضية الوطنية إلى رياضيين فعليين.

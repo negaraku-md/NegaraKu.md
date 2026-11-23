@@ -35,7 +35,7 @@ faq:
     a: "目標は主要大会の周期——オリンピック、アジア競技大会、コモンウェルスゲームズ——に結び付けられ、成功の可能性が高いと認められたスポーツに重点が置かれます。これは国家スポーツ政策の目標8に沿ったものです。資金は周期ごとに（例えば4年間で年間RM6,000万）配分され、国家スポーツ評議会（MSN）が調整し、国家スポーツ院（ISN）がスポーツ科学の面で支援します。"
 
 lang: "ja"
-sourceContentHash: "d336fe0c30f91bdb"
+sourceContentHash: "a41ee45e3fde6627"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -100,6 +100,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Women%27s_Vault_Podium_at_the_2017_SEA_Games.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-1.webp
+    alt: マレーシアの黄色いユニフォームを着たマレーシアのパラバドミントン選手チア・リェクホウが、2024年パリ・パラリンピックの男子SU5シングルス決勝でネットへ詰める様子。
+    kind: actual
+    origin: third-party
+    subject: 2024年パリ・パラリンピックに出場するマレーシアのトップアスリート、チア・リェクホウ
+    credit: Wikisquack / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cheah_Liek_Hou_at_the_Paris_2024_Paralympics_badminton_SU5_men_singles_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-2.webp
+    alt: クチンにあるパンデレラ・リノン・アクアティックセンター。マレーシアのオリンピック飛込メダリストにちなんで名付けられた、赤と緑の近代的な飛込・水泳会場。
+    kind: representative
+    origin: third-party
+    subject: オリンピックメダリストにちなんで名付けられたマレーシアのトップスポーツ会場、パンデレラ・リノン・アクアティックセンター
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pandelela_Rinong_Aquatic_Centre_at_Petra_Jaya.jpg
 ---
 
 マレーシアの選手がオリンピックの表彰台に立つたびに、その背後では実は二つの異なる仕組みが働いている——一つは国民全体を動かそうとするもの、もう一つは勝てる可能性のあるごく一握りに大きな資源を集中させるものである。両者は同じ一つの政策文書の下に生きているが、資金供給と評価のされ方はまったく異なる。

@@ -33,7 +33,7 @@ faq:
     a: "मलेशियाई हॉकी कॉन्फेडरेशन (MHC) पुरुष और महिला फील्ड तथा इनडोर हॉकी का राष्ट्रीय संचालक निकाय है। यह एशियाई हॉकी फेडरेशन (AHF) और FIH से संबद्ध है, और कुआलालंपुर के बुकित जलिल में राष्ट्रीय हॉकी स्टेडियम से संचालित होता है।"
 
 lang: "hi"
-sourceContentHash: "e3b29244d5e5d634"
+sourceContentHash: "70f556dff6e2532a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -94,6 +94,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen,_Nederland_tegen_Maleisi_4-0,_Ties_Kruize_(rech,_Bestanddeelnr_926-6422.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-1.webp
+    alt: एक फील्ड-हॉकी मैच में खिलाड़ी, मलेशिया बनाम नीदरलैंड, Amstelveen में 1973 Hockey World Cup के दौरान।
+    kind: actual
+    origin: third-party
+    subject: मलेशिया की राष्ट्रीय फील्ड-हॉकी टीम 1973 Hockey World Cup में एक्शन में
+    credit: Hans Peters / Anefo / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen%2C_Nederland_tegen_Maleisi_4-0%2C_spelmoment%2C_Bestanddeelnr_926-6427.jpg
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-2.webp
+    alt: Johor Bahru, Johor में Taman Daya Hockey Stadium का मैदान और दर्शक-दीर्घा, मलेशिया का एक फील्ड-हॉकी स्थल।
+    kind: actual
+    origin: third-party
+    subject: Johor Bahru में Taman Daya Hockey Stadium, एक मलेशियाई फील्ड-हॉकी स्थल
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Daya_Hockey_Stadium.JPG
 ---
 
 15 March 1975 को, कुआलालंपुर के एक स्टेडियम ने भारत को अपने इतिहास में एकमात्र बार पुरुष हॉकी विश्व कप उठाते देखा — और मेज़बान भारत नहीं, बल्कि मलेशिया था। आधी सदी बाद, वही देश अब भी हर साल दुनिया की हॉकी शक्तियों को इपोह आमंत्रित करता है। फील्ड हॉकी आज मलेशिया का सबसे लोकप्रिय खेल भले न हो, पर यह राष्ट्र की अंतरराष्ट्रीय रूप से सबसे सम्मानित खेल विरासत हो सकती है।

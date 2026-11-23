@@ -29,7 +29,7 @@ faq:
     a: "SUKMA是青少年运动员展现才华的州级舞台。有潜质的运动员可晋级到MSN的人才与后备培育计划，进而进入为国际赛事培养精英运动员的ISN“领奖台计划”。"
 
 lang: "zh"
-sourceContentHash: "85246294d35de2fe"
+sourceContentHash: "76cfd0ad84941214"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroLicense: 'CC BY 2.5'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sukma-games/body-1.webp
+    alt: 一座带田径跑道的马来西亚州级体育场，看台空置、呈蓝黄配色，设有看台、绿色球场与红色跑道，是典型的SUKMA主办场馆。
+    kind: representative
+    origin: third-party
+    subject: 一座带田径跑道的马来西亚州级体育场，正是举办SUKMA赛事的那类场馆
+    credit: Only Truth / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Darul_Makmur.jpg
+  - role: scene
+    src: /media/sports/sukma-games/body-2.webp
+    alt: 沙巴（Sabah）亚庇（Kota Kinabalu）里卡士体育综合区（Likas Sports Complex）鸟瞰图，可见田径体育场、一座穹顶室内竞技馆及周边体育设施坐落于城中。
+    kind: representative
+    origin: third-party
+    subject: 沙巴里卡士体育综合区鸟瞰图，一处多项目运动会场馆
+    credit: thienzieyung / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_View_Of_Likas_Sports_Complex.jpg
 ---
 
 每隔两年，数以千计的青少年运动员就会列队走进主办州的体育场——争夺的不是世界奖牌，而是各自州属的荣誉；而对于那些最有天赋的人来说，则是一张通往国家精英舞台的入场券。这就是SUKMA。

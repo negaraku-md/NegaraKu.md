@@ -34,7 +34,7 @@ faq:
     a: "Organizar los Juegos de 1998 en Kuala Lumpur, donde registró su mejor botín de 10 medallas de oro y terminó cuarta en la clasificación general. También fueron los primeros Juegos de la Commonwealth celebrados en Asia."
 
 lang: "es"
-sourceContentHash: "d25df756ce38577d"
+sourceContentHash: "0c2cd4024b5fe1ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:2008_Summer_Olympics_-_Opening_Ceremony_-_Malaysia.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-1.webp
+    alt: Dos saltadores captados en pleno vuelo durante una final de saltos sincronizados en los SEA Games de Kuala Lumpur de 2017, con la imagen de marca de los Juegos en la pared detrás de ellos.
+    kind: actual
+    origin: third-party
+    subject: Final de saltos sincronizados en los SEA Games de Kuala Lumpur de 2017
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Sea_games_diving_final_c.jpg
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-2.webp
+    alt: Los jugadores de rugby 7 de Malasia, de blanco y negro, se alinean frente a Gales de rojo sobre el campo en los Commonwealth Games de Birmingham 2022.
+    kind: actual
+    origin: third-party
+    subject: Malasia jugando al rugby 7 contra Gales en los Commonwealth Games de 2022
+    credit: Bearas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Men%27s_rugby_sevens_at_the_2022_Commonwealth_Games_-_Wales_vs_Malaysia_185138.jpg
 ---
 
 Malasia se ha subido a un podio olímpico quince veces, y en cada una de ellas ha escuchado sonar el himno nacional de otra nación.

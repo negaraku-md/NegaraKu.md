@@ -5513,7 +5513,29 @@
       "kind": "actual",
       "subject": "Malaysian badminton player Lee Chong Wei in action at the London 2012 Olympics",
       "alt": "Malaysian badminton star Lee Chong Wei lunges to play a forehand during an Olympic match."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Axiata_Arena_2017_Sea_Games.jpg",
+        "license": "CC BY 2.0",
+        "by": "WIL",
+        "page": "https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg",
+        "kind": "actual",
+        "subject": "Axiata Arena, the national badminton venue at the Bukit Jalil sports complex",
+        "alt": "The Axiata Arena indoor stadium in Kuala Lumpur, the venue used for badminton at the 2017 SEA Games.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Hafiz_Hashim_at_the_2008_Malaysia_Open.jpg",
+        "license": "CC0",
+        "by": "Mister Platipus",
+        "page": "https://commons.wikimedia.org/wiki/File:Hafiz_Hashim_at_the_2008_Malaysia_Open.jpg",
+        "kind": "actual",
+        "subject": "Malaysian singles player Hafiz Hashim competing at the 2008 Malaysia Open",
+        "alt": "Malaysian badminton player Hafiz Hashim lunging for a shot during a match at the 2008 Malaysia Open.",
+        "position": "attention"
+      }
+    ]
   },
   "sports/fam-heritage-players-controversy": {
     "hero": {
@@ -5524,7 +5546,29 @@
       "kind": "representative",
       "subject": "Harimau Malaya national-team supporters and the Bukit Jalil Stadium scoreboard during a match",
       "alt": "A packed yellow crowd of Harimau Malaya fans fills Bukit Jalil National Stadium beneath the Malaysian tiger scoreboard."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Malaysia_v._West_Germany%2C_1972_Summer_Olympics.jpg",
+        "license": "Public domain",
+        "by": "Unknown (anonymous)",
+        "page": "https://commons.wikimedia.org/wiki/File:Malaysia_v._West_Germany%2C_1972_Summer_Olympics.jpg",
+        "kind": "actual",
+        "subject": "Malaysia's national football team playing West Germany at the 1972 Summer Olympics",
+        "alt": "Malaysian goalkeeper Wong Kam Fook in action against a West Germany attacker during Malaysia's 1972 Summer Olympics football match.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Shah_Alam_Stadium_%28inside%29.jpg",
+        "license": "CC BY 3.0",
+        "by": "Meeneunos10",
+        "page": "https://commons.wikimedia.org/wiki/File:Shah_Alam_Stadium_%28inside%29.jpg",
+        "kind": "actual",
+        "subject": "The interior of Shah Alam Stadium during a Malaysia national-team football match",
+        "alt": "View from the stands inside Shah Alam Stadium during a Malaysia national-team football match at the 2014 AFF Championship.",
+        "position": "attention"
+      }
+    ]
   },
   "sports/field-hockey-malaysia": {
     "hero": {
@@ -5535,7 +5579,29 @@
       "kind": "actual",
       "subject": "Field hockey match involving Malaysia at the Hockey World Cup",
       "alt": "Field hockey players chase the ball during a Malaysia match at the Hockey World Cup."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Wereldbeker_Hockey_te_Amstelveen%2C_Nederland_tegen_Maleisi_4-0%2C_spelmoment%2C_Bestanddeelnr_926-6427.jpg",
+        "license": "CC0",
+        "by": "Hans Peters / Anefo",
+        "page": "https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen%2C_Nederland_tegen_Maleisi_4-0%2C_spelmoment%2C_Bestanddeelnr_926-6427.jpg",
+        "kind": "actual",
+        "subject": "Malaysia's national field-hockey team in action at the 1973 Hockey World Cup",
+        "alt": "Players in a field-hockey match, Malaysia against the Netherlands, during the 1973 Hockey World Cup in Amstelveen.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Taman_Daya_Hockey_Stadium.JPG",
+        "license": "CC BY-SA 4.0",
+        "by": "Chongkian",
+        "page": "https://commons.wikimedia.org/wiki/File:Taman_Daya_Hockey_Stadium.JPG",
+        "kind": "actual",
+        "subject": "Taman Daya Hockey Stadium in Johor Bahru, a Malaysian field-hockey venue",
+        "alt": "The pitch and stands of Taman Daya Hockey Stadium in Johor Bahru, Johor, a field-hockey venue in Malaysia.",
+        "position": "attention"
+      }
+    ]
   },
   "sports/football-in-malaysia": {
     "hero": {
@@ -5546,7 +5612,29 @@
       "kind": "actual",
       "subject": "Bukit Jalil National Stadium packed for the 2014 AFF Suzuki Cup final",
       "alt": "A floodlit Bukit Jalil National Stadium packed with fans looks down on a football match in progress."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "Mohd Izzudin",
+        "page": "https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg",
+        "kind": "actual",
+        "subject": "A football match at Stadium Tuanku Abdul Rahman in Paroi, Negeri Sembilan",
+        "alt": "A football match in progress on the pitch at Stadium Tuanku Abdul Rahman in Paroi, Seremban, Negeri Sembilan.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg",
+        "license": "CC0",
+        "by": "Wiki Farazi",
+        "page": "https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg",
+        "kind": "actual",
+        "subject": "A community futsal court in Kota Damansara, Selangor, a grassroots setting for the Malaysian game",
+        "alt": "An open-air public futsal court in a residential neighbourhood of Kota Damansara, Petaling Jaya, Selangor.",
+        "position": "attention"
+      }
+    ]
   },
   "sports/malaysia-cup-domestic-football-leagues": {
     "hero": {
@@ -5557,7 +5645,29 @@
       "kind": "actual",
       "subject": "Perak supporters fill the stands during the 2017 Malaysia Cup quarter-finals",
       "alt": "Yellow-clad Perak football supporters pack the stadium stands during a 2017 Malaysia Cup match."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Kelantan_VS_Selangor_%288093646013%29.jpg",
+        "license": "CC BY-SA 2.0",
+        "by": "Firdaus Latif",
+        "page": "https://commons.wikimedia.org/wiki/File:Kelantan_VS_Selangor_%288093646013%29.jpg",
+        "kind": "actual",
+        "subject": "A Malaysia Cup 2012 semi-final between Kelantan and Selangor",
+        "alt": "Players contesting the ball during the Malaysia Cup 2012 semi-final between Kelantan and Selangor.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Stadium_Sultan_Ibrahim_1_19092022.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Zahirul Nukman",
+        "page": "https://commons.wikimedia.org/wiki/File:Stadium_Sultan_Ibrahim_1_19092022.jpg",
+        "kind": "actual",
+        "subject": "The interior of Stadium Sultan Ibrahim, home of a leading Malaysian league club",
+        "alt": "View of the seating tiers and pitch inside Stadium Sultan Ibrahim in Iskandar Puteri, Johor.",
+        "position": "attention"
+      }
+    ]
   },
   "sports/malaysia-paralympics-para-sports": {
     "hero": {
@@ -5568,7 +5678,29 @@
       "kind": "representative",
       "subject": "A para-swimmer competing in a backstroke event at a world championship",
       "alt": "A para-swimmer powers through a backstroke stroke across a competition pool lane."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bislett_Games_2024_-_100_meter_para_menn.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Ssu",
+        "page": "https://commons.wikimedia.org/wiki/File:Bislett_Games_2024_-_100_meter_para_menn.jpg",
+        "kind": "representative",
+        "subject": "Para-athletes sprinting the men's 100 metres at an international para-athletics meet",
+        "alt": "Men competing in a 100-metre para-athletics sprint on an outdoor track at the 2024 Bislett Games.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/141100_-_Athletics_track_Gerrard_Gosens_guide_action_-_3b_-_2000_Sydney_race_photo.jpg",
+        "license": "CC BY-SA 3.0",
+        "by": "Sport the library / Australian Paralympic Committee",
+        "page": "https://commons.wikimedia.org/wiki/File:141100_-_Athletics_track_Gerrard_Gosens_guide_action_-_3b_-_2000_Sydney_race_photo.jpg",
+        "kind": "representative",
+        "subject": "A visually-impaired sprinter running tethered to a guide runner at the Paralympic Games",
+        "alt": "A visually-impaired track athlete sprinting alongside his guide runner during a race at the 2000 Sydney Paralympic Games.",
+        "position": "attention"
+      }
+    ]
   },
   "sports/malaysian-sport-governance": {
     "hero": {
@@ -5579,7 +5711,29 @@
       "kind": "representative",
       "subject": "The exterior of Bukit Jalil National Stadium in the Kuala Lumpur Sports City complex",
       "alt": "The silver louvred facade of Bukit Jalil National Stadium rises above an empty forecourt."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Majlis_Sukan_Negara_Malaysia%2C_Bukit_Jalil_%28220713%29.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "*angys*",
+        "page": "https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia%2C_Bukit_Jalil_%28220713%29.jpg",
+        "kind": "actual",
+        "subject": "The National Sports Council of Malaysia (Majlis Sukan Negara) building at Bukit Jalil",
+        "alt": "The exterior of the National Sports Council of Malaysia (Majlis Sukan Negara) building in the Bukit Jalil sports complex.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/KL_Sports_City_National_Aquatic_Centre.jpg",
+        "license": "CC BY 2.0",
+        "by": "WIL",
+        "page": "https://commons.wikimedia.org/wiki/File:KL_Sports_City_National_Aquatic_Centre.jpg",
+        "kind": "actual",
+        "subject": "The National Aquatic Centre within the KL Sports City national sports complex",
+        "alt": "The National Aquatic Centre, part of the KL Sports City national sports complex at Bukit Jalil, Kuala Lumpur.",
+        "position": "attention"
+      }
+    ]
   },
   "sports/match-fixing-sports-betting-regulation": {
     "hero": {
@@ -5590,7 +5744,29 @@
       "kind": "representative",
       "subject": "An empty football stadium pitch and grandstand",
       "alt": "An empty football pitch sits before deserted grandstand seating under an overcast sky."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Referee_during_a_football_match.jpg",
+        "license": "CC0",
+        "by": "Samson Ssemakadde",
+        "page": "https://commons.wikimedia.org/wiki/File:Referee_during_a_football_match.jpg",
+        "kind": "representative",
+        "subject": "A match referee officiating on the pitch during a football match",
+        "alt": "A referee in a dark kit officiating on the field during a football match.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Coin_tossing_before_before_a_football_match_between_players_and_referees.jpg",
+        "license": "CC0",
+        "by": "Samson Ssemakadde",
+        "page": "https://commons.wikimedia.org/wiki/File:Coin_tossing_before_before_a_football_match_between_players_and_referees.jpg",
+        "kind": "representative",
+        "subject": "A referee conducting the pre-match coin toss with the team captains",
+        "alt": "A referee tossing a coin with two team captains at the centre circle before a football match kicks off.",
+        "position": "attention"
+      }
+    ]
   },
   "sports/national-sports-council-msn": {
     "hero": {
@@ -5601,7 +5777,29 @@
       "kind": "actual",
       "subject": "The headquarters building of Majlis Sukan Negara Malaysia (National Sports Council) at Bukit Jalil",
       "alt": "The colourful headquarters building of Majlis Sukan Negara Malaysia stands at Bukit Jalil with its name on the wall."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Institut_Sukan_Negara%2C_Bukit_Jalil_%28220713%29.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "*angys*",
+        "page": "https://commons.wikimedia.org/wiki/File:Institut_Sukan_Negara,_Bukit_Jalil_(220713).jpg",
+        "kind": "representative",
+        "subject": "National Sports Institute (ISN) building at Bukit Jalil, part of Malaysia's national sports apparatus",
+        "alt": "The National Sports Institute building at Bukit Jalil, its glass facade carrying a 'Where Legends Are Made' banner, fronted by an empty forecourt.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Aerial_view_of_KL_Sports_City_20260412.jpg",
+        "license": "CC0",
+        "by": "DvTor8303",
+        "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_KL_Sports_City_20260412.jpg",
+        "kind": "representative",
+        "subject": "Aerial view of the KL Sports City national sports complex at Bukit Jalil",
+        "alt": "Aerial view of the KL Sports City complex at Bukit Jalil, showing the oval national stadium, an indoor arena and the aquatic centre among surrounding buildings in a light haze.",
+        "position": "attention"
+      }
+    ]
   },
   "sports/national-sports-day-malaysia": {
     "hero": {
@@ -5612,7 +5810,29 @@
       "kind": "representative",
       "subject": "A mass community run at Dataran Merdeka in Kuala Lumpur",
       "alt": "A crowd of runners streams past the floodlit Sultan Abdul Samad Building during a night road race in Kuala Lumpur."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Kuala_Lumpur_KL_Car_Free_Day_%28October_18th%2C_2015%29.jpg",
+        "license": "CC0",
+        "by": "WPSamson",
+        "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_KL_Car_Free_Day_(October_18th,_2015).jpg",
+        "kind": "representative",
+        "subject": "Mass-participation cyclists at a Kuala Lumpur Car Free Day morning",
+        "alt": "A large crowd of cyclists of all ages filling a closed Kuala Lumpur street at dawn during a Car Free Day event, beneath a festive banner.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Kejohanan_Olahraga_Pendidikan_Khas_MSSD_Petaling_Utama_2025_20250626_101029.jpg",
+        "license": "CC0",
+        "by": "Wiki Farazi",
+        "page": "https://commons.wikimedia.org/wiki/File:Kejohanan_Olahraga_Pendidikan_Khas_MSSD_Petaling_Utama_2025_20250626_101029.jpg",
+        "kind": "representative",
+        "subject": "Athletes on the track at a Malaysian district schools athletics championship",
+        "alt": "Young athletes and officials gathered on the red running track of a Malaysian stadium during a district schools athletics championship, floodlights and grandstands behind.",
+        "position": "attention"
+      }
+    ]
   },
   "sports/national-sports-policy-podium-programme": {
     "hero": {
@@ -5623,7 +5843,29 @@
       "kind": "representative",
       "subject": "A medal ceremony at the 2017 Kuala Lumpur SEA Games with a Malaysian athlete on the podium",
       "alt": "Medal-winning gymnasts stand on the podium at the 2017 Kuala Lumpur SEA Games as a Malaysian athlete holds the national flag."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Cheah_Liek_Hou_at_the_Paris_2024_Paralympics_badminton_SU5_men_singles_final.jpg",
+        "license": "CC BY 4.0",
+        "by": "Wikisquack",
+        "page": "https://commons.wikimedia.org/wiki/File:Cheah_Liek_Hou_at_the_Paris_2024_Paralympics_badminton_SU5_men_singles_final.jpg",
+        "kind": "actual",
+        "subject": "Malaysian elite athlete Cheah Liek Hou competing at the Paris 2024 Paralympics",
+        "alt": "Malaysian para-badminton player Cheah Liek Hou, in Malaysia's yellow kit, moving to the net during the men's SU5 singles final at the Paris 2024 Paralympics.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Pandelela_Rinong_Aquatic_Centre_at_Petra_Jaya.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Cerevisae",
+        "page": "https://commons.wikimedia.org/wiki/File:Pandelela_Rinong_Aquatic_Centre_at_Petra_Jaya.jpg",
+        "kind": "representative",
+        "subject": "Pandelela Rinong Aquatic Centre, a Malaysian elite sports venue named after an Olympic medallist",
+        "alt": "The Pandelela Rinong Aquatic Centre in Kuching, a modern red-and-green diving and swimming venue named after Malaysia's Olympic diving medallist.",
+        "position": "attention"
+      }
+    ]
   },
   "sports/sea-games-commonwealth-olympic-record": {
     "hero": {
@@ -5634,7 +5876,29 @@
       "kind": "actual",
       "subject": "Malaysia's contingent parading behind the national flag at the 2008 Beijing Olympics opening ceremony",
       "alt": "Malaysia's team in orange traditional dress parades behind the Jalur Gemilang flag at the 2008 Olympic opening ceremony."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/2017_Sea_games_diving_final_c.jpg",
+        "license": "CC BY 2.0",
+        "by": "WIL",
+        "page": "https://commons.wikimedia.org/wiki/File:2017_Sea_games_diving_final_c.jpg",
+        "kind": "actual",
+        "subject": "Synchronised diving final at the 2017 Kuala Lumpur SEA Games",
+        "alt": "Two divers caught in mid-air during a synchronised diving final at the 2017 Kuala Lumpur SEA Games, the Games branding on the wall behind them.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Men%27s_rugby_sevens_at_the_2022_Commonwealth_Games_-_Wales_vs_Malaysia_185138.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Bearas",
+        "page": "https://commons.wikimedia.org/wiki/File:Men%27s_rugby_sevens_at_the_2022_Commonwealth_Games_-_Wales_vs_Malaysia_185138.jpg",
+        "kind": "actual",
+        "subject": "Malaysia playing rugby sevens against Wales at the 2022 Commonwealth Games",
+        "alt": "Malaysia's rugby sevens players, in white and black, line up against Wales in red on the pitch at the Birmingham 2022 Commonwealth Games.",
+        "position": "attention"
+      }
+    ]
   },
   "sports/sepak-takraw": {
     "hero": {
@@ -5646,7 +5910,29 @@
       "subject": "A boy in Kemaman, Malaysia playing sepak takraw with a rattan ball",
       "alt": "A young player in Malaysia raises a high kick to the woven rattan sepak takraw ball in mid-air.",
       "position": "centre"
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Incheon_AsianGames_Sepaktakraw_02_%2815294462532%29.jpg",
+        "license": "CC BY-SA 2.0",
+        "by": "Republic of Korea (Korea.net)",
+        "page": "https://commons.wikimedia.org/wiki/File:Incheon_AsianGames_Sepaktakraw_02_(15294462532).jpg",
+        "kind": "representative",
+        "subject": "Sepak takraw players contesting the net during an Asian Games match",
+        "alt": "Sepak takraw players leaping to kick a rattan ball across the net in a tight exchange during a women's match at the Asian Games.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Rattan_ball_forweb.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Lamacchiacosta",
+        "page": "https://commons.wikimedia.org/wiki/File:Rattan_ball_forweb.jpg",
+        "kind": "representative",
+        "subject": "Woven rattan sepak takraw balls",
+        "alt": "Close-up of woven rattan sepak takraw balls, the traditional interlaced ball used to play the sport.",
+        "position": "attention"
+      }
+    ]
   },
   "sports/squash-in-malaysia-nicol-david": {
     "hero": {
@@ -5657,7 +5943,29 @@
       "kind": "actual",
       "subject": "Malaysian squash world champion Nicol David playing a forehand in a tournament",
       "alt": "Malaysian squash champion Nicol David stretches to play a forehand during a tournament match."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Open_International_de_Squash_de_Nantes_2017.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Tc159",
+        "page": "https://commons.wikimedia.org/wiki/File:Open_International_de_Squash_de_Nantes_2017.jpg",
+        "kind": "representative",
+        "subject": "A glass show court set up for a professional squash tournament",
+        "alt": "A floodlit all-glass squash show court erected inside an arena for a professional tournament, viewed from the surrounding tiered seating.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Tournament_of_Champions_Squash_2012.jpg",
+        "license": "CC BY-SA 2.0",
+        "by": "julesgriff",
+        "page": "https://commons.wikimedia.org/wiki/File:Tournament_of_Champions_Squash_2012.jpg",
+        "kind": "representative",
+        "subject": "A professional squash match on a glass court before a packed crowd",
+        "alt": "Two players competing on a glass-walled squash court surrounded by spectators in a grand hall at a major squash tournament.",
+        "position": "attention"
+      }
+    ]
   },
   "sports/sukma-games": {
     "hero": {
@@ -5668,7 +5976,29 @@
       "kind": "actual",
       "subject": "State contingents parade with flags at a SUKMA Games opening ceremony",
       "alt": "State contingents carry their flags and name placards during a SUKMA Games opening ceremony in Malaysia."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Stadium_Darul_Makmur.jpg",
+        "license": "PD",
+        "by": "Only Truth",
+        "page": "https://commons.wikimedia.org/wiki/File:Stadium_Darul_Makmur.jpg",
+        "kind": "representative",
+        "subject": "A Malaysian state stadium with an athletics track, the kind of venue that hosts SUKMA events",
+        "alt": "The grandstand, green pitch and red running track of a Malaysian state stadium with empty blue-and-yellow seating, typical of a SUKMA host venue.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Aerial_View_Of_Likas_Sports_Complex.jpg",
+        "license": "CC BY 2.0",
+        "by": "thienzieyung",
+        "page": "https://commons.wikimedia.org/wiki/File:Aerial_View_Of_Likas_Sports_Complex.jpg",
+        "kind": "representative",
+        "subject": "Aerial view of the Likas Sports Complex in Sabah, a multi-sport games venue",
+        "alt": "Aerial view of the Likas Sports Complex in Kota Kinabalu, showing a track-and-field stadium, a domed indoor arena and surrounding sports facilities among the city.",
+        "position": "attention"
+      }
+    ]
   },
   "sports/track-cycling-velodrome-malaysia": {
     "hero": {
@@ -5679,7 +6009,29 @@
       "kind": "actual",
       "subject": "The National Velodrome in Nilai, Malaysia",
       "alt": "The angular red, grey and white facade of the National Velodrome in Nilai stands over an empty car park."
-    }
+    },
+    "body": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/2017_UCI_Track_Cycling_World_Championships.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Mkckim",
+        "page": "https://commons.wikimedia.org/wiki/File:2017_UCI_Track_Cycling_World_Championships.jpg",
+        "kind": "representative",
+        "subject": "Interior of a velodrome during a track cycling world championships",
+        "alt": "The banked oval timber track, infield and crowded stands inside an indoor velodrome during a track cycling world championships.",
+        "position": "attention"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/UCI_Track_World_Championships_2020-02-29_143621.jpg",
+        "license": "CC BY-SA 4.0",
+        "by": "Tim Rademacher",
+        "page": "https://commons.wikimedia.org/wiki/File:UCI_Track_World_Championships_2020-02-29_143621.jpg",
+        "kind": "representative",
+        "subject": "Track sprinters racing on the banked boards of a velodrome",
+        "alt": "Two track cyclists on aerodynamic bikes with disc wheels racing side by side up the steeply banked blue-and-red boards of a velodrome.",
+        "position": "attention"
+      }
+    ]
   },
   "education/academic-calendar-and-school-holidays": {
     "hero": {

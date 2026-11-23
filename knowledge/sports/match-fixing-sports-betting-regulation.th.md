@@ -29,7 +29,7 @@ faq:
     a: "ตามบทสรุปกฎหมาย ความผิดฐานให้/รับสินบนอาจมีโทษจำคุกสูงสุด 20 ปีและปรับไม่น้อยกว่าห้าเท่าของมูลค่าสินบนหรือ RM10,000 แล้วแต่จำนวนใดสูงกว่า รายละเอียดนี้ควรตรวจสอบใหม่กับตัวบทเต็มของพระราชบัญญัติ"
 
 lang: "th"
-sourceContentHash: "602c70742033a7cb"
+sourceContentHash: "dc6d2f464239db71"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Football_Pitch_Ahmadu_Bello_Stadium_Kaduna.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/match-fixing-sports-betting-regulation/body-1.webp
+    alt: ผู้ตัดสินในชุดสีเข้มกำลังทำหน้าที่ตัดสินในสนามระหว่างการแข่งขันฟุตบอล
+    kind: representative
+    origin: third-party
+    subject: ผู้ตัดสินทำหน้าที่ตัดสินในสนามระหว่างการแข่งขันฟุตบอล
+    credit: Samson Ssemakadde / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Referee_during_a_football_match.jpg
+  - role: scene
+    src: /media/sports/match-fixing-sports-betting-regulation/body-2.webp
+    alt: ผู้ตัดสินเสี่ยงเหรียญกับกัปตันทั้งสองทีมที่วงกลมกลางสนามก่อนเริ่มการแข่งขันฟุตบอล
+    kind: representative
+    origin: third-party
+    subject: ผู้ตัดสินเสี่ยงเหรียญกับกัปตันทั้งสองทีมก่อนการแข่งขัน
+    credit: Samson Ssemakadde / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Coin_tossing_before_before_a_football_match_between_players_and_referees.jpg
 ---
 
 เมื่อนักฟุตบอลกว่า 100 คนถูกตำรวจควบคุมตัวในฤดูกาล 1993–1994 มันไม่ใช่เพียงวิกฤตกีฬา แต่เปิดคำถามทางกฎหมายที่ยังไม่ได้รับการแก้ไขอย่างสมบูรณ์จนถึงวันนี้ ว่าประเทศที่ห้ามการพนันกีฬาเกือบทั้งหมดจะจัดการกับอาชญากรรมที่เกิดจากการพนันนั้นเองอย่างไร

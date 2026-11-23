@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d25df756ce38577d"
+sourceContentHash: "0c2cd4024b5fe1ce"
 
 status: "published"
 aiAssisted: true
@@ -93,6 +93,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:2008_Summer_Olympics_-_Opening_Ceremony_-_Malaysia.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-1.webp
+    alt: 2017年クアラルンプール東南アジア競技大会（SEA Games）のシンクロナイズドダイビング決勝で、空中に静止した2人の飛込選手。背後の壁には大会のブランドロゴがある。
+    kind: actual
+    origin: third-party
+    subject: 2017年クアラルンプール東南アジア競技大会のシンクロナイズドダイビング決勝
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Sea_games_diving_final_c.jpg
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-2.webp
+    alt: 2022年バーミンガム・コモンウェルスゲームズのピッチで、白と黒のマレーシアの7人制ラグビー選手が赤のウェールズと整列して対峙する様子。
+    kind: actual
+    origin: third-party
+    subject: 2022年コモンウェルスゲームズの7人制ラグビーでウェールズと対戦するマレーシア
+    credit: Bearas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Men%27s_rugby_sevens_at_the_2022_Commonwealth_Games_-_Wales_vs_Malaysia_185138.jpg
 ---
 
 マレーシアはオリンピックの表彰台に15回上がった——そしてそのたびに、他国の国歌が流れるのを聞いてきた。

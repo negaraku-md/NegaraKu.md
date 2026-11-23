@@ -106,6 +106,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lee_Chong_Wei,_Malaysia_(7758886922).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-1.webp
+    alt: Stadium dalam dewan Axiata Arena di Kuala Lumpur, gelanggang yang digunakan untuk badminton pada Sukan SEA 2017.
+    kind: actual
+    origin: third-party
+    subject: Axiata Arena, gelanggang badminton kebangsaan di kompleks sukan Bukit Jalil
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-2.webp
+    alt: Pemain badminton Malaysia Hafiz Hashim meluru untuk membuat pukulan semasa satu perlawanan di Terbuka Malaysia 2008.
+    kind: actual
+    origin: third-party
+    subject: Pemain perseorangan Malaysia Hafiz Hashim beraksi di Terbuka Malaysia 2008
+    credit: Mister Platipus / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hafiz_Hashim_at_the_2008_Malaysia_Open.jpg
 ---
 
 Pada Mei 1992, seluruh negara berhenti seketika. Di Stadium Negara, Kuala Lumpur, sepasukan pemuda diketuai adik-beradik Sidek menewaskan Indonesia untuk mengangkat Piala Thomas — dan seperti kata Datuk Rashid Sidek, "seluruh Malaysia menjadi viral dan semua orang mahu bermain badminton". Tiga dekad kemudian, trofi itu masih belum kembali. Kisah badminton Malaysia ialah kisah kegemilangan awal, kemarau yang menyakitkan, dan seorang-dua juara yang membawa harapan sebuah negara di atas bahu mereka.

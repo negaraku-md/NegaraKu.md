@@ -34,7 +34,7 @@ faq:
     a: "1998년 쿠알라룸푸르 대회 개최로, 금메달 10개라는 최고의 성과를 기록하며 종합 4위에 올랐습니다. 이는 아시아에서 열린 최초의 코먼웰스게임이기도 했습니다."
 
 lang: "ko"
-sourceContentHash: "d25df756ce38577d"
+sourceContentHash: "0c2cd4024b5fe1ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:2008_Summer_Olympics_-_Opening_Ceremony_-_Malaysia.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-1.webp
+    alt: 2017년 쿠알라룸푸르 동남아시아 경기대회(SEA Games) 싱크로나이즈드 다이빙 결승에서 공중에 멈춘 듯한 두 다이빙 선수. 뒤쪽 벽에는 대회 브랜드 로고가 있다.
+    kind: actual
+    origin: third-party
+    subject: 2017년 쿠알라룸푸르 동남아시아 경기대회 싱크로나이즈드 다이빙 결승
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Sea_games_diving_final_c.jpg
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-2.webp
+    alt: 2022년 버밍엄 영연방 경기대회 경기장에서 흰색과 검은색 유니폼의 말레이시아 7인제 럭비 선수들이 빨간색의 웨일스와 마주 서 있는 모습.
+    kind: actual
+    origin: third-party
+    subject: 2022년 영연방 경기대회 7인제 럭비에서 웨일스와 맞붙은 말레이시아
+    credit: Bearas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Men%27s_rugby_sevens_at_the_2022_Commonwealth_Games_-_Wales_vs_Malaysia_185138.jpg
 ---
 
 말레이시아는 올림픽 시상대에 열다섯 번 올랐습니다 — 그리고 그때마다 매번 다른 나라의 국가가 울려 퍼지는 것을 들었습니다.

@@ -73,7 +73,27 @@ sources:
     url: "https://www.freemalaysiatoday.com/category/nation/2026/06/12/harimau-malaya-climb-2-spots-in-fifa-rankings-to-136th"
     publisher: "Free Malaysia Today"
   - title: "So long, Syed Ahmad – the legend who steered football team to 1972 Munich Olympics"
-    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad---the-legend-who-steered-football-team-to-1972-munich-olympics"
+    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad
+images:
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-1.webp
+    alt: A football match in progress on the pitch at Stadium Tuanku Abdul Rahman in Paroi, Seremban, Negeri Sembilan.
+    kind: actual
+    origin: third-party
+    subject: A football match at Stadium Tuanku Abdul Rahman in Paroi, Negeri Sembilan
+    credit: Mohd Izzudin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-2.webp
+    alt: An open-air public futsal court in a residential neighbourhood of Kota Damansara, Petaling Jaya, Selangor.
+    kind: actual
+    origin: third-party
+    subject: A community futsal court in Kota Damansara, Selangor, a grassroots setting for the Malaysian game
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
+---the-legend-who-steered-football-team-to-1972-munich-olympics"
     publisher: "The Star"
   - title: "Where are they now: Malaysia's history makers of the 2010 AFF Suzuki Cup"
     url: "https://www.espn.com/soccer/story/_/id/37622930/where-now-malaysia-history-makers-2010-aff-suzuki-cup"

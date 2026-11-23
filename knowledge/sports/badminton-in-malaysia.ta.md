@@ -37,7 +37,7 @@ faq:
     a: "Zii Jia 13 வயதிலிருந்து ஏறக்குறைய ஒரு தசாப்தம் அந்த அமைப்புடன் இருந்த பிறகு, சுயேச்சை வீரராக மாற 2022 ஜனவரியில் BAMஇல் இருந்து பதவி விலகினார். அவர் தனது பயிற்சி மற்றும் தரவரிசையை மேம்படுத்துவதில் கவனம் செலுத்த விரும்பினார், மேலும் தேசிய வீரராக இருந்தாலும் சுயேச்சை வீரராக இருந்தாலும் அவர்கள் Jalur Gemilangஐயே பறக்கவிடுகிறார்கள் என வலியுறுத்தினார்."
 
 lang: "ta"
-sourceContentHash: "a0c4b7207a1ac775"
+sourceContentHash: "db7869aeba9d7ddf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -107,6 +107,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lee_Chong_Wei,_Malaysia_(7758886922).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-1.webp
+    alt: கோலாலம்பூரில் உள்ள அக்சியாட்டா அரீனா உட்புற அரங்கம், 2017 SEA Games-இல் இறகுப்பந்துக்குப் பயன்படுத்தப்பட்ட அரங்கம்.
+    kind: actual
+    origin: third-party
+    subject: அக்சியாட்டா அரீனா, புக்கிட் ஜாலில் விளையாட்டு வளாகத்தில் உள்ள தேசிய இறகுப்பந்து அரங்கம்
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-2.webp
+    alt: மலேசிய இறகுப்பந்து வீரர் ஹாஃபிஸ் ஹாஷிம் 2008 மலேசியா ஓபனில் ஒரு போட்டியின்போது பந்தை அடிக்கப் பாய்கிறார்.
+    kind: actual
+    origin: third-party
+    subject: மலேசிய ஒற்றையர் வீரர் ஹாஃபிஸ் ஹாஷிம் 2008 மலேசியா ஓபனில் போட்டியிடுகிறார்
+    credit: Mister Platipus / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hafiz_Hashim_at_the_2008_Malaysia_Open.jpg
 ---
 
 1992 மேயில், நாடு முழுவதும் ஒரு கணம் நின்றது. கோலாலம்பூர், Stadium Negaraவில், Sidek சகோதரர்கள் தலைமையிலான இளைஞர்கள் அணி இந்தோனேசியாவை வீழ்த்தி தாமஸ் கோப்பையை உயர்த்தியது — Datuk Rashid Sidek சொன்னது போல், “மலேசியா முழுவதும் வைரலாகிவிட்டது, எல்லோரும் பூப்பந்து விளையாட விரும்பினர்.” மூன்று தசாப்தங்களுக்குப் பிறகும், அந்தக் கோப்பை இன்னும் திரும்பவில்லை. மலேசிய பூப்பந்தின் கதை என்பது ஆரம்பகால புகழ், வேதனையான வறட்சி, மற்றும் ஒரு நாட்டின் நம்பிக்கைகளைத் தங்கள் தோள்களில் சுமந்த ஓரிரு சாம்பியன்களின் கதை.

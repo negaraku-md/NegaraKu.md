@@ -32,7 +32,7 @@ faq:
     a: "من بين الأبرز تشيا ليك هو (تنس الريشة SU5، ذهبية طوكيو 2020 وباريس 2024)، وبوني بونياو غوستين (رفع الأثقال، ذهبية طوكيو 2020 وباريس 2024)، وعبد اللطيف روملي (الوثب الطويل T20، ذهبية ريو 2016 وطوكيو 2020)."
 
 lang: "ar"
-sourceContentHash: "457f33eb5b3c31ad"
+sourceContentHash: "16f1ecc7df5a29c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -102,6 +102,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sgt_1st_Class_Elizabeth_Marks_Competes_at_2023_Para_Swimming_World_Championships_(7942899).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-1.webp
+    alt: رجال يتنافسون في سباق ألعاب القوى للمتسابقين من ذوي الإعاقة لمسافة 100 متر على مضمار خارجي في Bislett Games 2024.
+    kind: representative
+    origin: third-party
+    subject: رياضيون من ذوي الإعاقة يتسابقون في سباق 100 متر للرجال في ملتقى دولي لألعاب القوى البارالمبية
+    credit: Ssu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bislett_Games_2024_-_100_meter_para_menn.jpg
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-2.webp
+    alt: عدّاء مضمار كفيف يركض إلى جانب مرشده المرافق خلال سباق في Sydney Paralympic Games 2000.
+    kind: representative
+    origin: third-party
+    subject: عدّاء كفيف يركض مربوطًا بمرشده المرافق في Paralympic Games
+    credit: Sport the library / Australian Paralympic Committee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:141100_-_Athletics_track_Gerrard_Gosens_guide_action_-_3b_-_2000_Sydney_race_photo.jpg
 ---
 
 حين دافع تشيا ليك هو عن ذهبيته في تنس الريشة فئة SU5 في باريس 2024، أكّد ذلك الانتصار أن الرياضة البارالمبية الماليزية صار لها الآن صفّ أمتن من الأبطال، لا مجرد إنجاز عابر. وخلف تلك اللحظة بنية حوكمة متمايزة، منفصلة عن العالم الأولمبي الأشهر.

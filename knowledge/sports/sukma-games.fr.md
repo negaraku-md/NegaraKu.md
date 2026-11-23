@@ -29,7 +29,7 @@ faq:
     a: "Les SUKMA sont l'étape au niveau des États où les jeunes athlètes font valoir leur talent. Les athlètes à potentiel peuvent être promus vers les programmes de développement des talents et de relève du MSN, puis vers le Programme Podium de l'ISN, qui prépare les athlètes d'élite aux jeux internationaux."
 
 lang: "fr"
-sourceContentHash: "85246294d35de2fe"
+sourceContentHash: "76cfd0ad84941214"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroLicense: 'CC BY 2.5'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sukma-games/body-1.webp
+    alt: La tribune principale, la pelouse verte et la piste rouge d'un stade d'État malaisien aux sièges bleus et jaunes vides, typique d'une enceinte hôte des SUKMA.
+    kind: representative
+    origin: third-party
+    subject: Un stade d'État malaisien doté d'une piste d'athlétisme, le type d'enceinte qui accueille les épreuves SUKMA
+    credit: Only Truth / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Darul_Makmur.jpg
+  - role: scene
+    src: /media/sports/sukma-games/body-2.webp
+    alt: Vue aérienne du Likas Sports Complex à Kota Kinabalu, montrant un stade d'athlétisme, une arène couverte en dôme et des installations sportives environnantes au cœur de la ville.
+    kind: representative
+    origin: third-party
+    subject: Vue aérienne du Likas Sports Complex à Sabah, une enceinte de jeux multisports
+    credit: thienzieyung / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_View_Of_Likas_Sports_Complex.jpg
 ---
 
 Tous les deux ans, des milliers de jeunes athlètes défilent dans le stade d'un État hôte — non pas pour des médailles mondiales, mais pour la fierté de leurs États respectifs et, pour les plus talentueux, pour un billet vers la scène nationale d'élite. Voilà les SUKMA.

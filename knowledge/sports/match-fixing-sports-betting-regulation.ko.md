@@ -29,7 +29,7 @@ faq:
     a: "법률 요약에 따르면, 뇌물 수수 범죄는 최대 20년의 징역과 뇌물 가치의 5배 또는 RM10,000 중 더 높은 금액 이상의 벌금에 처해질 수 있습니다. 이 세부 사항은 법 전문과 대조하여 재확인해야 합니다."
 
 lang: "ko"
-sourceContentHash: "602c70742033a7cb"
+sourceContentHash: "dc6d2f464239db71"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Football_Pitch_Ahmadu_Bello_Stadium_Kaduna.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/match-fixing-sports-betting-regulation/body-1.webp
+    alt: 어두운 색 유니폼을 입은 심판이 축구 경기 중 그라운드에서 판정을 내리는 모습.
+    kind: representative
+    origin: third-party
+    subject: 축구 경기 중 그라운드에서 판정을 내리는 심판
+    credit: Samson Ssemakadde / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Referee_during_a_football_match.jpg
+  - role: scene
+    src: /media/sports/match-fixing-sports-betting-regulation/body-2.webp
+    alt: 축구 경기 시작 전 센터서클에서 양 팀 주장과 동전 던지기를 하는 심판.
+    kind: representative
+    origin: third-party
+    subject: 양 팀 주장과 경기 전 동전 던지기를 진행하는 심판
+    credit: Samson Ssemakadde / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Coin_tossing_before_before_a_football_match_between_players_and_referees.jpg
 ---
 
 1993–1994 시즌에 100명이 넘는 축구 선수가 경찰에 연행되었을 때, 그것은 단순한 스포츠 위기가 아니었습니다 — 오늘날까지도 완전히 해결되지 않은 하나의 법적 물음을 열어젖혔습니다. 즉, 거의 모든 스포츠 베팅을 금지하는 나라가 바로 그 베팅에서 태어난 범죄를 어떻게 다루는가 하는 물음입니다.

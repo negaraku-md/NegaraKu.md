@@ -29,7 +29,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ebb2456ffa0caf75"
+sourceContentHash: "8944daaf247428ff"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia,_Bukit_Jalil_(220713).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-1.webp
+    alt: 位于武吉加里尔（Bukit Jalil）的国家体育学院（ISN）大楼，玻璃幕墙上悬挂着“Where Legends Are Made”横幅，前方是空旷的前庭。
+    kind: representative
+    origin: third-party
+    subject: 位于武吉加里尔的国家体育学院（ISN）大楼，马来西亚国家体育体系的一部分
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Institut_Sukan_Negara,_Bukit_Jalil_(220713).jpg
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-2.webp
+    alt: 武吉加里尔吉隆坡体育城（KL Sports City）的鸟瞰图，可见椭圆形国家体育场、一座室内竞技馆及水上运动中心，掩映于轻霾中的周边建筑之间。
+    kind: representative
+    origin: third-party
+    subject: 武吉加里尔吉隆坡体育城国家体育综合区鸟瞰图
+    credit: DvTor8303 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_KL_Sports_City_20260412.jpg
 ---
 
 当一名马来西亚短跑选手站上奥运起跑线，或一名年轻足球员被相中选入国家队时，在他们身后始终有一个政府机构支撑着让他们走到这一步的训练、教练与设施：这就是**马来西亚国家体育理事会**，马来语称为 **Majlis Sukan Negara（MSN）**。它是将国家体育政策转化为实际运动员的法定机构。

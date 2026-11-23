@@ -96,6 +96,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_(220713).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-1.webp
+    alt: Bahagian luar bangunan Majlis Sukan Negara Malaysia di kompleks sukan Bukit Jalil.
+    kind: actual
+    origin: third-party
+    subject: Bangunan Majlis Sukan Negara Malaysia di Bukit Jalil
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia%2C_Bukit_Jalil_%28220713%29.jpg
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-2.webp
+    alt: Pusat Akuatik Negara, sebahagian daripada kompleks sukan kebangsaan KL Sports City di Bukit Jalil, Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Pusat Akuatik Negara dalam kompleks sukan kebangsaan KL Sports City
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sports_City_National_Aquatic_Centre.jpg
 ---
 
 Sebuah kelab bola sepak baharu di Johor boleh membeli jersi, menyewa padang dan mendaftarkan pemain — tetapi ia masih tidak boleh secara sah menghantar sesiapa mewakili "Malaysia" ke mana-mana pertandingan. Sebabnya bukan wang atau bakat. Ia soal siapa yang memberi kebenaran. Di Malaysia, hak untuk wujud sebagai badan sukan, hak untuk dibiayai, dan hak untuk memakai nama negara datang daripada empat institusi berlainan yang sering dikelirukan sebagai satu.

@@ -29,7 +29,7 @@ faq:
     a: "SUKMA เป็นเวทีระดับรัฐสำหรับนักกีฬาวัยรุ่นแสดงความสามารถ นักกีฬาที่มีศักยภาพสามารถได้รับการเลื่อนสู่โปรแกรมการพัฒนานักกีฬาที่มีความสามารถและสำรองของ MSN และต่อไปสู่โครงการโพเดียมของ ISN ที่เตรียมนักกีฬาชั้นนำสำหรับมหกรรมนานาชาติ"
 
 lang: "th"
-sourceContentHash: "85246294d35de2fe"
+sourceContentHash: "76cfd0ad84941214"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroLicense: 'CC BY 2.5'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sukma-games/body-1.webp
+    alt: อัฒจันทร์สนามหญ้าสีเขียวและลู่วิ่งสีแดงของสนามกีฬาระดับรัฐในมาเลเซียพร้อมที่นั่งสีน้ำเงินเหลืองว่างเปล่าเป็นลักษณะทั่วไปของสนามเจ้าภาพจัดกีฬาซูกมา
+    kind: representative
+    origin: third-party
+    subject: สนามกีฬาระดับรัฐในมาเลเซียที่มีลู่กรีฑาสนามแบบที่ใช้จัดการแข่งขันซูกมา
+    credit: Only Truth / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Darul_Makmur.jpg
+  - role: scene
+    src: /media/sports/sukma-games/body-2.webp
+    alt: ภาพมุมสูงของศูนย์กีฬาลิกัสในเมืองโกตากินาบาลูเห็นสนามกรีฑาอารีนาในร่มทรงโดมและสิ่งอำนวยความสะดวกด้านกีฬาโดยรอบท่ามกลางตัวเมือง
+    kind: representative
+    origin: third-party
+    subject: ภาพมุมสูงของศูนย์กีฬาลิกัสในรัฐซาบาห์สนามจัดการแข่งขันกีฬาหลายประเภท
+    credit: thienzieyung / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_View_Of_Likas_Sports_Complex.jpg
 ---
 
 ทุกสองปี นักกีฬาวัยรุ่นหลายพันคนเดินสวนสนามเข้าสู่สนามกีฬาของรัฐเจ้าภาพ ไม่ใช่เพื่อเหรียญระดับโลก แต่เพื่อศักดิ์ศรีของรัฐของตน และสำหรับผู้ที่มีความสามารถที่สุด ตั๋วสู่เวทีชั้นนำของประเทศ นั่นคือ SUKMA

@@ -38,7 +38,7 @@ faq:
     a: "국가스포츠원(ISN)입니다. 국가스포츠원법(National Sports Institute Act 2011, Akta 729)에 의해 법정 기반 위에 놓여 있으며, 스포츠 과학 및 스포츠 의학 서비스와 자문·컨설팅을 제공하고 연구를 수행하며 선수 성과의 과학적 측면에 관해 장관에게 자문하는 기능을 합니다."
 
 lang: "ko"
-sourceContentHash: "6410f4b09d840cf0"
+sourceContentHash: "68614c252ec3d561"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_(220713).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-1.webp
+    alt: 부킷잘릴 스포츠 단지에 있는 말레이시아 국가체육위원회(Majlis Sukan Negara) 건물 외관.
+    kind: actual
+    origin: third-party
+    subject: 부킷잘릴에 자리한 말레이시아 국가체육위원회(Majlis Sukan Negara) 건물
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia%2C_Bukit_Jalil_%28220713%29.jpg
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-2.webp
+    alt: 쿠알라룸푸르 부킷잘릴의 KL 스포츠 시티 국립 체육 단지의 일부인 국립 수영 센터.
+    kind: actual
+    origin: third-party
+    subject: KL 스포츠 시티 국립 체육 단지 안의 국립 수영 센터
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sports_City_National_Aquatic_Centre.jpg
 ---
 
 조호르(Johor)의 신생 축구 클럽은 유니폼을 사고 경기장을 빌리고 선수를 등록할 수 있습니다 — 하지만 여전히 어떠한 대회에도 "말레이시아"를 대표해 누군가를 합법적으로 내보낼 수는 없습니다. 그 이유는 돈이나 재능이 아닙니다. 누가 허가를 주는가의 문제입니다. 말레이시아에서 스포츠 단체로 존립할 권리, 재정 지원을 받을 권리, 그리고 국가의 이름을 사용할 권리는 흔히 하나로 혼동되는 네 개의 서로 다른 기관에서 나옵니다.

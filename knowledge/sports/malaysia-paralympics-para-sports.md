@@ -100,6 +100,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sgt_1st_Class_Elizabeth_Marks_Competes_at_2023_Para_Swimming_World_Championships_(7942899).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-1.webp
+    alt: Lelaki bertanding dalam pecut para-olahraga 100 meter di atas trek luar di Bislett Games 2024.
+    kind: representative
+    origin: third-party
+    subject: Para-atlet berpecut dalam acara 100 meter lelaki di satu kejohanan para-olahraga antarabangsa
+    credit: Ssu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bislett_Games_2024_-_100_meter_para_menn.jpg
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-2.webp
+    alt: Seorang atlet trek cacat penglihatan berpecut di sebelah pelari pemandunya semasa satu perlumbaan di Sukan Paralimpik Sydney 2000.
+    kind: representative
+    origin: third-party
+    subject: Seorang pelari pecut cacat penglihatan berlari berpaut dengan pelari pemandu di Sukan Paralimpik
+    credit: Sport the library / Australian Paralympic Committee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:141100_-_Athletics_track_Gerrard_Gosens_guide_action_-_3b_-_2000_Sydney_race_photo.jpg
 ---
 
 Apabila Cheah Liek Hou mempertahankan emas badminton SU5-nya di Paris 2024, kejayaan itu mengesahkan bahawa para sukan Malaysia kini mempunyai barisan juara yang lebih mantap, bukan lagi pencapaian sekali-sekala. Di sebalik detik itu terdapat sebuah struktur tadbir urus yang tersendiri, terpisah daripada dunia Olimpik yang lebih terkenal.

@@ -92,6 +92,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:2008_Summer_Olympics_-_Opening_Ceremony_-_Malaysia.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-1.webp
+    alt: Two divers caught in mid-air during a synchronised diving final at the 2017 Kuala Lumpur SEA Games, the Games branding on the wall behind them.
+    kind: actual
+    origin: third-party
+    subject: Synchronised diving final at the 2017 Kuala Lumpur SEA Games
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Sea_games_diving_final_c.jpg
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-2.webp
+    alt: Malaysia's rugby sevens players, in white and black, line up against Wales in red on the pitch at the Birmingham 2022 Commonwealth Games.
+    kind: actual
+    origin: third-party
+    subject: Malaysia playing rugby sevens against Wales at the 2022 Commonwealth Games
+    credit: Bearas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Men%27s_rugby_sevens_at_the_2022_Commonwealth_Games_-_Wales_vs_Malaysia_185138.jpg
 ---
 
 Malaysia has climbed onto an Olympic podium fifteen times — and heard someone else's national anthem play every single time.

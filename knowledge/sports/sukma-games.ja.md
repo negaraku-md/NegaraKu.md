@@ -29,7 +29,7 @@ faq:
     a: "SUKMAは、青少年選手が才能を発揮するための州の舞台です。有望な選手は、MSNの人材・後継選手育成プログラムへ、さらには国際大会に向けたエリート選手を育成するISNのProgram Podiumへと引き上げられます。"
 
 lang: "ja"
-sourceContentHash: "85246294d35de2fe"
+sourceContentHash: "76cfd0ad84941214"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroLicense: 'CC BY 2.5'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sukma-games/body-1.webp
+    alt: 陸上トラックを備えたマレーシアの州立スタジアム。スタンド、緑のピッチ、赤いトラックに青と黄色の空席が並ぶ、SUKMA開催会場に典型的な光景。
+    kind: representative
+    origin: third-party
+    subject: 陸上トラックを備えたマレーシアの州立スタジアム。SUKMAの競技を開催するような会場
+    credit: Only Truth / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Darul_Makmur.jpg
+  - role: scene
+    src: /media/sports/sukma-games/body-2.webp
+    alt: サバ州コタキナバルのリカス・スポーツ複合施設の空撮。陸上競技場、ドーム型の屋内アリーナ、周囲のスポーツ施設が街の中に見える。
+    kind: representative
+    origin: third-party
+    subject: サバ州のリカス・スポーツ複合施設の空撮。複数競技の大会会場
+    credit: thienzieyung / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_View_Of_Likas_Sports_Complex.jpg
 ---
 
 2年に一度、数千人の青少年選手が開催州のスタジアムへと行進して入場する——世界のメダルのためではなく、それぞれの州の誇りのため、そして最も才能ある者にとっては、国のエリート舞台への切符のためである。それがSUKMAだ。

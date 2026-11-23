@@ -33,7 +33,7 @@ faq:
     a: "Konfederasi Hoki Malaysia (Malaysian Hockey Confederation, MHC) adalah badan induk nasional bagi tim hoki lapangan dan indoor putra serta putri. Ia berafiliasi dengan Federasi Hoki Asia (AHF) dan FIH, dan beroperasi dari Stadium Hoki Nasional di Bukit Jalil, Kuala Lumpur."
 
 lang: "id"
-sourceContentHash: "e3b29244d5e5d634"
+sourceContentHash: "70f556dff6e2532a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -94,6 +94,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen,_Nederland_tegen_Maleisi_4-0,_Ties_Kruize_(rech,_Bestanddeelnr_926-6422.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-1.webp
+    alt: Pemain dalam pertandingan hoki lapangan, Malaysia melawan Belanda, selama Piala Dunia Hoki 1973 di Amstelveen.
+    kind: actual
+    origin: third-party
+    subject: Tim hoki lapangan nasional Malaysia beraksi di Piala Dunia Hoki 1973
+    credit: Hans Peters / Anefo / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen%2C_Nederland_tegen_Maleisi_4-0%2C_spelmoment%2C_Bestanddeelnr_926-6427.jpg
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-2.webp
+    alt: Lapangan dan tribune penonton Stadion Hoki Taman Daya di Johor Bahru, Johor, sebuah arena hoki lapangan di Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Stadion Hoki Taman Daya di Johor Bahru, sebuah arena hoki lapangan Malaysia
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Daya_Hockey_Stadium.JPG
 ---
 
 Pada 15 Maret 1975, sebuah stadion di Kuala Lumpur menyaksikan India mengangkat Piala Dunia hoki putra untuk satu-satunya kali dalam sejarah mereka — dan tuan rumahnya bukan India, melainkan Malaysia. Setengah abad kemudian, negara yang sama masih mengundang kekuatan-kekuatan hoki dunia ke Ipoh setiap tahun. Hoki lapangan mungkin bukan olahraga paling populer di Malaysia hari ini, tetapi ia mungkin warisan olahraga negara yang paling dihormati di tingkat internasional.

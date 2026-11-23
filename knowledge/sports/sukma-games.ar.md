@@ -29,7 +29,7 @@ faq:
     a: "سوكما هي منصة الولايات التي يُظهِر فيها الرياضيون الشباب مواهبهم. ويمكن ترقية الرياضيين ذوي الإمكانات إلى برامج تطوير المواهب والاحتياط التابعة لـ MSN، ومنها إلى برنامج المنصة (Podium Programme) التابع لـ ISN، الذي يُعِدّ الرياضيين النخبة للألعاب الدولية."
 
 lang: "ar"
-sourceContentHash: "85246294d35de2fe"
+sourceContentHash: "76cfd0ad84941214"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroLicense: 'CC BY 2.5'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sukma-games/body-1.webp
+    alt: المدرّج الرئيسي والملعب الأخضر والمضمار الأحمر لاستاد ولائي ماليزي بمقاعد زرقاء وصفراء خالية، وهو نموذجي لمكان يستضيف SUKMA.
+    kind: representative
+    origin: third-party
+    subject: استاد ولائي ماليزي بمضمار ألعاب قوى، من نوع الأماكن التي تستضيف فعاليات SUKMA
+    credit: Only Truth / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Darul_Makmur.jpg
+  - role: scene
+    src: /media/sports/sukma-games/body-2.webp
+    alt: منظر جوي لـ Likas Sports Complex في Kota Kinabalu، يُظهر استاد ألعاب القوى وصالة مغلقة بقبة ومرافق رياضية محيطة وسط المدينة.
+    kind: representative
+    origin: third-party
+    subject: منظر جوي لـ Likas Sports Complex في Sabah، مكان لألعاب متعددة الرياضات
+    credit: thienzieyung / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_View_Of_Likas_Sports_Complex.jpg
 ---
 
 كل سنتين، يتقدّم آلاف الرياضيين الشباب إلى ملعب ولاية مستضيفة — لا من أجل ميداليات عالمية، بل من أجل كرامة ولاياتهم، وبالنسبة للأكثر موهبةً، تذكرة إلى منصة النخبة الوطنية. تلك هي سوكما.

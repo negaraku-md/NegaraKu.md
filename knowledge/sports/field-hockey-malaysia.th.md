@@ -33,7 +33,7 @@ faq:
     a: "สมาพันธ์ฮอกกี้มาเลเซีย (Malaysian Hockey Confederation, MHC) เป็นองค์กรแม่ระดับชาติสำหรับทีมฮอกกี้สนามและในร่มชายและหญิง สังกัดสหพันธ์ฮอกกี้เอเชีย (AHF) และ FIH และดำเนินการจากสนามฮอกกี้แห่งชาติในบูกิตจาลิล กัวลาลัมเปอร์"
 
 lang: "th"
-sourceContentHash: "e3b29244d5e5d634"
+sourceContentHash: "70f556dff6e2532a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -94,6 +94,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen,_Nederland_tegen_Maleisi_4-0,_Ties_Kruize_(rech,_Bestanddeelnr_926-6422.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-1.webp
+    alt: การแข่งขันฮอกกี้สนามระหว่างมาเลเซียกับเนเธอร์แลนด์ในศึกฮอกกี้ชิงแชมป์โลกปี1973ที่เมืองอัมสเตลเวน
+    kind: actual
+    origin: third-party
+    subject: ทีมฮอกกี้สนามชาติมาเลเซียลงแข่งในศึกฮอกกี้ชิงแชมป์โลกปี1973
+    credit: Hans Peters / Anefo / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen%2C_Nederland_tegen_Maleisi_4-0%2C_spelmoment%2C_Bestanddeelnr_926-6427.jpg
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-2.webp
+    alt: สนามและอัฒจันทร์ของสนามฮอกกี้ตามันดายาในเมืองโจโฮร์บาห์รูรัฐโจโฮร์สนามฮอกกี้สนามแห่งหนึ่งในมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: สนามฮอกกี้ตามันดายาในเมืองโจโฮร์บาห์รูสนามฮอกกี้สนามของมาเลเซีย
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Daya_Hockey_Stadium.JPG
 ---
 
 เมื่อวันที่ 15 มีนาคม 1975 สนามกีฬาแห่งหนึ่งในกัวลาลัมเปอร์เป็นสักขีพยานให้อินเดียยกถ้วยฟุตบอลโลกฮอกกี้ชายเพียงครั้งเดียวในประวัติศาสตร์ของพวกเขา และเจ้าภาพไม่ใช่อินเดีย แต่เป็นมาเลเซีย ครึ่งศตวรรษต่อมา ประเทศเดียวกันยังคงเชิญมหาอำนาจฮอกกี้โลกมายังอีโปห์ทุกปี ฮอกกี้สนามอาจไม่ใช่กีฬาที่ได้รับความนิยมที่สุดในมาเลเซียในปัจจุบัน แต่อาจเป็นมรดกทางกีฬาของประเทศที่ได้รับความเคารพมากที่สุดในระดับนานาชาติ

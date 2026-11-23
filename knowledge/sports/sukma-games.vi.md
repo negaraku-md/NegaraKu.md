@@ -29,7 +29,7 @@ faq:
     a: "SUKMA là sân khấu cấp bang để các vận động viên tuổi thiếu niên thể hiện tài năng. Các vận động viên tiềm năng có thể được nâng lên các chương trình phát triển tài năng và kế cận của MSN và tiếp đó đến Chương trình Podium của ISN vốn chuẩn bị các vận động viên tinh nhuệ cho các đại hội quốc tế."
 
 lang: "vi"
-sourceContentHash: "85246294d35de2fe"
+sourceContentHash: "76cfd0ad84941214"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroLicense: 'CC BY 2.5'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sukma-games/body-1.webp
+    alt: Khán đài chính, mặt sân xanh và đường chạy màu đỏ của một sân vận động bang Malaysia với hàng ghế xanh và vàng trống trải, tiêu biểu cho một địa điểm đăng cai SUKMA.
+    kind: representative
+    origin: third-party
+    subject: Một sân vận động bang Malaysia với đường chạy điền kinh, kiểu địa điểm đăng cai các sự kiện SUKMA
+    credit: Only Truth / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Darul_Makmur.jpg
+  - role: scene
+    src: /media/sports/sukma-games/body-2.webp
+    alt: Khung cảnh từ trên cao của Khu phức hợp Thể thao Likas ở Kota Kinabalu, cho thấy một sân vận động điền kinh, một nhà thi đấu trong nhà có mái vòm và các cơ sở thể thao xung quanh giữa lòng thành phố.
+    kind: representative
+    origin: third-party
+    subject: Khung cảnh từ trên cao của Khu phức hợp Thể thao Likas ở Sabah, một địa điểm đại hội thể thao đa môn
+    credit: thienzieyung / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_View_Of_Likas_Sports_Complex.jpg
 ---
 
 Cứ mỗi hai năm, hàng nghìn vận động viên tuổi thiếu niên diễu hành vào một sân vận động của bang chủ nhà — không phải vì huy chương thế giới, mà vì danh dự của bang mình và, đối với những người tài năng nhất, một tấm vé đến sân khấu tinh nhuệ của quốc gia. Đó chính là SUKMA.

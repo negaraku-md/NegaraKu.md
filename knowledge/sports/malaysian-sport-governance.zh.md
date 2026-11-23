@@ -38,7 +38,7 @@ faq:
     a: "国家体育学院（ISN）。它由2011年国家体育学院法令[第729号法令]赋予法定地位，职能是提供运动科学与运动医学的服务、建议和咨询，进行研究，并就运动员表现的科学层面向部长提供建议。"
 
 lang: "zh"
-sourceContentHash: "6410f4b09d840cf0"
+sourceContentHash: "68614c252ec3d561"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_(220713).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-1.webp
+    alt: 位于武吉加里尔（Bukit Jalil）体育城的马来西亚国家体育理事会（Majlis Sukan Negara）大楼外观。
+    kind: actual
+    origin: third-party
+    subject: 位于武吉加里尔的马来西亚国家体育理事会（Majlis Sukan Negara）大楼
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia%2C_Bukit_Jalil_%28220713%29.jpg
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-2.webp
+    alt: 国家水上运动中心（National Aquatic Centre），吉隆坡武吉加里尔吉隆坡体育城（KL Sports City）国家体育综合区的一部分。
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡体育城国家体育综合区内的国家水上运动中心
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sports_City_National_Aquatic_Centre.jpg
 ---
 
 柔佛一家新成立的足球俱乐部可以购买球衣、租借球场、注册球员——但它仍然无法合法地派任何人代表"马来西亚"参加任何比赛。原因不在于金钱或天赋，而在于谁给予授权。在马来西亚，作为体育团体存在的权利、获得资助的权利，以及使用国家名号的权利，来自四个不同的机构，而这些机构常被误认为是同一个。

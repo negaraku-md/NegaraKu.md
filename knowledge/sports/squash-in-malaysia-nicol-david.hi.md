@@ -31,7 +31,7 @@ faq:
     a: "सिवासंगारी सुब्रमणियम, जो अक्टूबर 2025 में करियर-उच्च विश्व नंबर 6 तक पहुँचीं, और एनजी एइन यो, जिन्होंने घरेलू ज़मीन पर 2024 ACE Malaysia Squash Cup जीता।"
 
 lang: "hi"
-sourceContentHash: "47a1ae4a8ea8c4dc"
+sourceContentHash: "097f4f41b0bac5b0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Nicol_David_Hong_Kong_2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-1.webp
+    alt: एक पेशेवर टूर्नामेंट के लिए एक एरिना के भीतर खड़ा किया गया फ्लडलाइट से रोशन एक पूर्ण-कांच का स्क्वैश शो कोर्ट, आसपास की कतारबद्ध सीटों से देखा गया।
+    kind: representative
+    origin: third-party
+    subject: एक पेशेवर स्क्वैश टूर्नामेंट के लिए तैयार किया गया एक कांच का शो कोर्ट
+    credit: Tc159 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Open_International_de_Squash_de_Nantes_2017.jpg
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-2.webp
+    alt: एक बड़े हॉल में एक प्रमुख स्क्वैश टूर्नामेंट में दर्शकों से घिरे एक कांच की दीवारों वाले स्क्वैश कोर्ट पर प्रतिस्पर्धा करते दो खिलाड़ी।
+    kind: representative
+    origin: third-party
+    subject: खचाखच भरी भीड़ के सामने एक कांच के कोर्ट पर एक पेशेवर स्क्वैश मैच
+    credit: julesgriff / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tournament_of_Champions_Squash_2012.jpg
 ---
 
 लगातार नौ वर्षों तक, ग्रह की सर्वश्रेष्ठ स्क्वैश खिलाड़ी पेनांग से थी। निकोल डेविड ने केवल मलेशिया के सबसे सफल व्यक्तिगत खेल में जीत ही नहीं हासिल की — उन्होंने यह फिर से लिख दिया कि उसमें वर्चस्व कैसा दिखता है, सितंबर 2015 तक **108 लगातार महीनों** तक विश्व नंबर 1 रैंकिंग बनाए रखते हुए, जो खेल ने अब तक देखा सबसे लंबा अटूट शासन है।

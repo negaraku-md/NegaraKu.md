@@ -29,7 +29,7 @@ faq:
     a: "Azizulhasni Awang, dos veces medallista olímpico (bronce en 2016, plata en 2020) y campeón mundial de keirin en 2017."
 
 lang: "es"
-sourceContentHash: "490abb68b2e39c44"
+sourceContentHash: "345a803183cf2c08"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:National_Velodrome,_Nilai.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-1.webp
+    alt: La pista de madera ovalada peraltada, el infield y las gradas abarrotadas dentro de un velódromo cubierto durante un campeonato mundial de ciclismo en pista.
+    kind: representative
+    origin: third-party
+    subject: El interior de un velódromo durante un campeonato mundial de ciclismo en pista
+    credit: Mkckim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_UCI_Track_Cycling_World_Championships.jpg
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-2.webp
+    alt: Dos ciclistas de pista sobre bicicletas aerodinámicas con ruedas lenticulares corriendo lado a lado por las tablas azules y rojas muy peraltadas de un velódromo.
+    kind: representative
+    origin: third-party
+    subject: Velocistas de pista corriendo sobre las tablas peraltadas de un velódromo
+    credit: Tim Rademacher / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UCI_Track_World_Championships_2020-02-29_143621.jpg
 ---
 
 Un recinto largo y techado en las afueras de Nilai es ahora donde los ciclistas más rápidos de Malasia afinan sus esprints — y se construyó específicamente para producir más campeones mundiales de pista.

@@ -38,7 +38,7 @@ faq:
     a: "สถาบันกีฬาแห่งชาติ (ISN) ถูกวางบนฐานตามกฎหมายโดยพระราชบัญญัติสถาบันกีฬาแห่งชาติ 2011 [Act 729] และทำหน้าที่จัดบริการ คำแนะนำ และการปรึกษาด้านวิทยาศาสตร์การกีฬาและเวชศาสตร์การกีฬา ดำเนินการวิจัย และให้คำแนะนำแก่รัฐมนตรีเกี่ยวกับด้านวิทยาศาสตร์ของสมรรถนะนักกีฬา"
 
 lang: "th"
-sourceContentHash: "6410f4b09d840cf0"
+sourceContentHash: "68614c252ec3d561"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_(220713).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-1.webp
+    alt: ภายนอกอาคารสภากีฬาแห่งชาติมาเลเซีย(Majlis Sukan Negara)ในศูนย์กีฬาบูกิตจาลิล
+    kind: actual
+    origin: third-party
+    subject: อาคารสภากีฬาแห่งชาติมาเลเซีย(Majlis Sukan Negara)ที่บูกิตจาลิล
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia%2C_Bukit_Jalil_%28220713%29.jpg
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-2.webp
+    alt: ศูนย์กีฬาทางน้ำแห่งชาติส่วนหนึ่งของศูนย์กีฬาแห่งชาติเคแอลสปอร์ตส์ซิตีที่บูกิตจาลิลกรุงกัวลาลัมเปอร์
+    kind: actual
+    origin: third-party
+    subject: ศูนย์กีฬาทางน้ำแห่งชาติภายในศูนย์กีฬาแห่งชาติเคแอลสปอร์ตส์ซิตี
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sports_City_National_Aquatic_Centre.jpg
 ---
 
 สโมสรฟุตบอลใหม่แห่งหนึ่งในยะโฮร์สามารถซื้อเสื้อ เช่าสนาม และลงทะเบียนผู้เล่นได้ แต่ยังไม่สามารถส่งใครเป็นตัวแทน "มาเลเซีย" ไปแข่งขันใด ๆ ได้อย่างถูกกฎหมาย เหตุผลไม่ใช่เงินหรือความสามารถ เป็นเรื่องว่าใครเป็นผู้ให้อนุญาต ในมาเลเซีย สิทธิ์ที่จะมีอยู่ในฐานะองค์กรกีฬา สิทธิ์ที่จะได้รับทุน และสิทธิ์ที่จะใช้ชื่อประเทศ มาจากสถาบันสี่แห่งที่แตกต่างกันซึ่งมักถูกสับสนว่าเป็นหนึ่งเดียว

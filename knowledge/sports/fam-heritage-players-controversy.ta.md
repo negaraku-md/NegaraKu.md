@@ -30,7 +30,7 @@ faq:
     a: "வீரர்களின் தகுதி மற்றும் குடியுரிமை (naturalisation) ஆவணங்களைப் போலியாக்கியது தொடர்பாக FIFA, FIFA ஒழுங்குநடவடிக்கை விதிமுறை (FIFA Disciplinary Code)-இன் Article 22-ஐக் குறிப்பிட்டது."
 
 lang: "ta"
-sourceContentHash: "1434e805293f8f32"
+sourceContentHash: "2fadbe116108a8c5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ultras_Malaya_in_Bukit_Jalil_Stadium,_2014_AFF_Championship_Final.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/fam-heritage-players-controversy/body-1.webp
+    alt: 1972 கோடைகால ஒலிம்பிக்கில் மலேசியாவின் கால்பந்து போட்டியில் மேற்கு ஜெர்மனி தாக்குதல் வீரருக்கு எதிராக மலேசிய கோல்காப்பாளர் வோங் காம் ஃபூக் களமிறங்குகிறார்.
+    kind: actual
+    origin: third-party
+    subject: 1972 கோடைகால ஒலிம்பிக்கில் மலேசிய தேசிய கால்பந்து அணி மேற்கு ஜெர்மனியுடன் விளையாடுகிறது
+    credit: Unknown (anonymous) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_v._West_Germany%2C_1972_Summer_Olympics.jpg
+  - role: scene
+    src: /media/sports/fam-heritage-players-controversy/body-2.webp
+    alt: 2014 AFF சாம்பியன்ஷிப்பில் மலேசிய தேசிய அணியின் கால்பந்து போட்டியின்போது ஷா ஆலம் அரங்கத்தின் மேடைகளில் இருந்து பார்த்த காட்சி.
+    kind: actual
+    origin: third-party
+    subject: மலேசிய தேசிய அணியின் கால்பந்து போட்டியின்போது ஷா ஆலம் அரங்கத்தின் உட்புறம்
+    credit: Meeneunos10 / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shah_Alam_Stadium_%28inside%29.jpg
 ---
 
 வெளிநாட்டில் பிறந்த ஏழு வீரர்கள் 2025 ஜூன் மாதத்தில் Harimau Malaya அணியின் சீருடையை அணிந்தனர். ஒரு வருடத்திற்கும் குறைவான காலத்திற்குப் பிறகு, உலகின் மிக உயரிய விளையாட்டு நடுவர்மன்ற அமைப்பு, அவர்கள் மலேசியாவுக்காக விளையாடத் தகுதியளித்த ஆவணங்கள் போலியாக்கப்பட்டவை என்பதை உறுதிப்படுத்தியது. இந்த வழக்கு தொடர்ச்சியான FIFA ஒழுங்குநடவடிக்கை நடவடிக்கைகளையும், Court of Arbitration for Sport (CAS)-க்கு ஒரு மேல்முறையீட்டையும், மலேசியாவில் ஒரு காவல்துறை புகாரையும் தூண்டிவிட்டது.

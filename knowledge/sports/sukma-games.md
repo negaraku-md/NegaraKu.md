@@ -109,6 +109,25 @@ heroLicense: 'CC BY 2.5'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sukma-games/body-1.webp
+    alt: Tempat duduk utama, padang hijau dan trek larian merah sebuah stadium negeri Malaysia dengan tempat duduk biru dan kuning yang kosong, lazim bagi sebuah gelanggang tuan rumah SUKMA.
+    kind: representative
+    origin: third-party
+    subject: Sebuah stadium negeri Malaysia dengan trek olahraga, jenis gelanggang yang menganjurkan acara SUKMA
+    credit: Only Truth / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Darul_Makmur.jpg
+  - role: scene
+    src: /media/sports/sukma-games/body-2.webp
+    alt: Pemandangan udara Kompleks Sukan Likas di Kota Kinabalu, memaparkan stadium olahraga, arena dalam dewan berkubah dan kemudahan sukan sekeliling di tengah bandar.
+    kind: representative
+    origin: third-party
+    subject: Pemandangan udara Kompleks Sukan Likas di Sabah, sebuah gelanggang sukan pelbagai acara
+    credit: thienzieyung / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_View_Of_Likas_Sports_Complex.jpg
 ---
 
 Setiap dua tahun, ribuan atlet remaja berarak masuk ke sebuah stadium negeri tuan rumah — bukan untuk pingat dunia, tetapi untuk maruah negeri masing-masing dan, bagi yang paling berbakat, satu tiket ke pentas elit negara. Itulah SUKMA.

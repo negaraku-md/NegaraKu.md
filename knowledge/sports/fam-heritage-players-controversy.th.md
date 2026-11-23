@@ -30,7 +30,7 @@ faq:
     a: "FIFA อ้างมาตรา 22 ของประมวลจริยธรรมของ FIFA เกี่ยวกับการปลอมแปลงเอกสารคุณสมบัติและการแปลงสัญชาติของผู้เล่น"
 
 lang: "th"
-sourceContentHash: "1434e805293f8f32"
+sourceContentHash: "2fadbe116108a8c5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ultras_Malaya_in_Bukit_Jalil_Stadium,_2014_AFF_Championship_Final.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/fam-heritage-players-controversy/body-1.webp
+    alt: วงคัมฟุกผู้รักษาประตูชาวมาเลเซียกำลังป้องกันผู้เล่นฝ่ายรุกของเยอรมนีตะวันตกระหว่างการแข่งขันฟุตบอลโอลิมปิกฤดูร้อนปี1972
+    kind: actual
+    origin: third-party
+    subject: ทีมฟุตบอลชาติมาเลเซียลงแข่งกับเยอรมนีตะวันตกในกีฬาโอลิมปิกฤดูร้อนปี1972
+    credit: Unknown (anonymous) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_v._West_Germany%2C_1972_Summer_Olympics.jpg
+  - role: scene
+    src: /media/sports/fam-heritage-players-controversy/body-2.webp
+    alt: ภาพจากอัฒจันทร์ภายในสนามกีฬาชาห์อาลัมระหว่างการแข่งขันฟุตบอลของทีมชาติมาเลเซียในศึกเอเอฟเอฟแชมเปียนชิพปี2014
+    kind: actual
+    origin: third-party
+    subject: ภายในสนามกีฬาชาห์อาลัมระหว่างการแข่งขันฟุตบอลของทีมชาติมาเลเซีย
+    credit: Meeneunos10 / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shah_Alam_Stadium_%28inside%29.jpg
 ---
 
 ผู้เล่นที่เกิดในต่างประเทศเจ็ดคนสวมเสื้อทีมชาติ Harimau Malaya ในเดือนมิถุนายน 2025 ไม่ถึงหนึ่งปีต่อมา องค์กรอนุญาโตตุลาการกีฬาสูงสุดของโลกยืนยันว่าเอกสารที่ทำให้พวกเขามีคุณสมบัติเล่นให้มาเลเซียถูกปลอมแปลง คดีนี้จุดชนวนชุดของกระบวนการทางจริยธรรมของ FIFA การอุทธรณ์ต่อศาลอนุญาโตตุลาการกีฬา (Court of Arbitration for Sport, CAS) และการแจ้งความต่อตำรวจในมาเลเซีย

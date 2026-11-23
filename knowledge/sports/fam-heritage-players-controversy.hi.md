@@ -30,7 +30,7 @@ faq:
     a: "FIFA ने खिलाड़ियों के योग्यता और नागरिकीकरण दस्तावेज़ों की जालसाज़ी से संबंधित FIFA अनुशासनात्मक संहिता की अनुच्छेद 22 का उल्लेख किया।"
 
 lang: "hi"
-sourceContentHash: "1434e805293f8f32"
+sourceContentHash: "2fadbe116108a8c5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ultras_Malaya_in_Bukit_Jalil_Stadium,_2014_AFF_Championship_Final.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/fam-heritage-players-controversy/body-1.webp
+    alt: मलेशियाई गोलकीपर Wong Kam Fook 1972 के ग्रीष्मकालीन Olympics फुटबॉल मैच में पश्चिम जर्मनी के एक हमलावर के विरुद्ध एक्शन में।
+    kind: actual
+    origin: third-party
+    subject: मलेशिया की राष्ट्रीय फुटबॉल टीम 1972 के ग्रीष्मकालीन Olympics में पश्चिम जर्मनी के विरुद्ध खेलते हुए
+    credit: Unknown (anonymous) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_v._West_Germany%2C_1972_Summer_Olympics.jpg
+  - role: scene
+    src: /media/sports/fam-heritage-players-controversy/body-2.webp
+    alt: 2014 AFF Championship के एक मलेशिया राष्ट्रीय-टीम फुटबॉल मैच के दौरान Shah Alam Stadium के भीतर दर्शक-दीर्घा से दृश्य।
+    kind: actual
+    origin: third-party
+    subject: मलेशिया राष्ट्रीय-टीम के एक फुटबॉल मैच के दौरान Shah Alam Stadium का भीतरी हिस्सा
+    credit: Meeneunos10 / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shah_Alam_Stadium_%28inside%29.jpg
 ---
 
 जून 2025 में सात विदेश-जन्मे खिलाड़ियों ने हरिमाउ मलाया जर्सी पहनी। एक साल से भी कम समय में, दुनिया की सर्वोच्च खेल पंचाट संस्था ने पुष्टि कर दी कि उन्हें मलेशिया के लिए खेलने के योग्य बनाने वाले दस्तावेज़ जाली किए गए थे। इस मामले ने FIFA की अनुशासनात्मक कार्यवाहियों की एक शृंखला, खेल पंचाट न्यायालय (CAS) में एक अपील, और मलेशिया में एक पुलिस रिपोर्ट को जन्म दिया।

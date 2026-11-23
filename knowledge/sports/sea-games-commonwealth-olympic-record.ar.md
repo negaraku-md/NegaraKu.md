@@ -34,7 +34,7 @@ faq:
     a: "استضافة ألعاب 1998 في كوالالمبور، حيث سجّلت أفضل حصيلة لها بـ 10 ميداليات ذهبية وحلّت رابعة إجمالًا. وكانت أيضًا أول ألعاب كومنولث تُقام في آسيا على الإطلاق."
 
 lang: "ar"
-sourceContentHash: "d25df756ce38577d"
+sourceContentHash: "0c2cd4024b5fe1ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -93,6 +93,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:2008_Summer_Olympics_-_Opening_Ceremony_-_Malaysia.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-1.webp
+    alt: غطّاسان في منتصف قفزتهما في الهواء خلال نهائي الغطس المتزامن في Kuala Lumpur SEA Games 2017، وخلفهما شعار الدورة على الجدار.
+    kind: actual
+    origin: third-party
+    subject: نهائي الغطس المتزامن في Kuala Lumpur SEA Games 2017
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_Sea_games_diving_final_c.jpg
+  - role: scene
+    src: /media/sports/sea-games-commonwealth-olympic-record/body-2.webp
+    alt: لاعبو رغبي السباعيات الماليزيون، بالأبيض والأسود، يصطفّون أمام Wales بالأحمر على أرض الملعب في Birmingham 2022 Commonwealth Games.
+    kind: actual
+    origin: third-party
+    subject: ماليزيا تلعب رغبي السباعيات ضد Wales في Commonwealth Games 2022
+    credit: Bearas / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Men%27s_rugby_sevens_at_the_2022_Commonwealth_Games_-_Wales_vs_Malaysia_185138.jpg
 ---
 
 صعدت ماليزيا إلى منصة التتويج الأولمبية خمس عشرة مرة — وسمعت في كل مرة منها نشيدًا وطنيًا لدولة أخرى.

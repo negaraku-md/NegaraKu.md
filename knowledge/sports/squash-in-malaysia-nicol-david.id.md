@@ -31,7 +31,7 @@ faq:
     a: "Sivasangari Subramaniam, yang mencapai puncak karier nomor 6 dunia pada Oktober 2025, dan Ng Eain Yow, yang memenangi ACE Malaysia Squash Cup 2024 di tanah air."
 
 lang: "id"
-sourceContentHash: "47a1ae4a8ea8c4dc"
+sourceContentHash: "097f4f41b0bac5b0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Nicol_David_Hong_Kong_2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-1.webp
+    alt: Sebuah lapangan pertunjukan squash serba kaca yang disorot lampu didirikan di dalam sebuah arena untuk sebuah turnamen profesional, dilihat dari tribune bertingkat di sekelilingnya.
+    kind: representative
+    origin: third-party
+    subject: Sebuah lapangan pertunjukan kaca disiapkan untuk sebuah turnamen squash profesional
+    credit: Tc159 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Open_International_de_Squash_de_Nantes_2017.jpg
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-2.webp
+    alt: Dua pemain bertanding di atas lapangan squash berdinding kaca yang dikelilingi penonton di dalam sebuah aula besar pada sebuah turnamen squash besar.
+    kind: representative
+    origin: third-party
+    subject: Sebuah pertandingan squash profesional di atas lapangan kaca di hadapan penonton yang padat
+    credit: julesgriff / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tournament_of_Champions_Squash_2012.jpg
 ---
 
 Selama sembilan tahun berturut-turut, pemain squash terbaik di dunia berasal dari Pulau Pinang. Nicol David bukan sekadar menang dalam olahraga individu paling sukses di Malaysia — ia menulis ulang wajah dominasi dalam olahraga tersebut, memegang posisi nomor satu dunia selama **108 bulan berturut-turut** hingga September 2015, dominasi tanpa putus terpanjang yang pernah disaksikan dalam olahraga ini.

@@ -29,7 +29,7 @@ faq:
     a: "Azizulhasni Awang, a two-time Olympic medallist (bronze 2016, silver 2020) and 2017 keirin world champion."
 
 lang: "en"
-sourceContentHash: "490abb68b2e39c44"
+sourceContentHash: "345a803183cf2c08"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:National_Velodrome,_Nilai.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-1.webp
+    alt: The banked oval timber track, infield and crowded stands inside an indoor velodrome during a track cycling world championships.
+    kind: representative
+    origin: third-party
+    subject: Interior of a velodrome during a track cycling world championships
+    credit: Mkckim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_UCI_Track_Cycling_World_Championships.jpg
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-2.webp
+    alt: Two track cyclists on aerodynamic bikes with disc wheels racing side by side up the steeply banked blue-and-red boards of a velodrome.
+    kind: representative
+    origin: third-party
+    subject: Track sprinters racing on the banked boards of a velodrome
+    credit: Tim Rademacher / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UCI_Track_World_Championships_2020-02-29_143621.jpg
 ---
 
 A long, roofed arena on the outskirts of Nilai is now where Malaysia's fastest riders sharpen their sprints — and it was built specifically to produce more world track champions.

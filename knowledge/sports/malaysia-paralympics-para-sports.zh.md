@@ -34,7 +34,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "457f33eb5b3c31ad"
+sourceContentHash: "16f1ecc7df5a29c1"
 
 status: "published"
 aiAssisted: true
@@ -101,6 +101,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sgt_1st_Class_Elizabeth_Marks_Competes_at_2023_Para_Swimming_World_Championships_(7942899).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-1.webp
+    alt: 2024年比斯莱特运动会（Bislett Games）上，男子选手在室外跑道进行100米残疾人田径短跑比赛。
+    kind: representative
+    origin: third-party
+    subject: 残疾人运动员在一场国际残疾人田径赛上角逐男子100米短跑
+    credit: Ssu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bislett_Games_2024_-_100_meter_para_menn.jpg
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-2.webp
+    alt: 2000年悉尼残奥会的一场比赛中，一名视障径赛运动员与引导员并肩冲刺。
+    kind: representative
+    origin: third-party
+    subject: 残奥会上一名视障短跑运动员系绳与引导员并跑冲刺
+    credit: Sport the library / Australian Paralympic Committee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:141100_-_Athletics_track_Gerrard_Gosens_guide_action_-_3b_-_2000_Sydney_race_photo.jpg
 ---
 
 当Cheah Liek Hou在2024年巴黎残奥会成功卫冕羽毛球SU5金牌时，这一胜利印证了马来西亚残障运动如今拥有更稳固的冠军阵容，而不再是偶尔一现的成就。在那一刻的背后，是一套独特的治理架构，与更为知名的奥运世界彼此分离。

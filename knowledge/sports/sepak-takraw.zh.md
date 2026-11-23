@@ -36,7 +36,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "a468b0e147901427"
+sourceContentHash: "9819d68eb440d864"
 
 status: "published"
 aiAssisted: true
@@ -109,6 +109,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sepak_takraw.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sepak-takraw/body-1.webp
+    alt: 亚洲运动会一场女子比赛中，藤球（sepak takraw）选手腾身跃起，将藤制球踢过球网，展开激烈的攻防。
+    kind: representative
+    origin: third-party
+    subject: 藤球（sepak takraw）选手在亚洲运动会一场比赛中隔网对攻
+    credit: Republic of Korea (Korea.net) / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Incheon_AsianGames_Sepaktakraw_02_(15294462532).jpg
+  - role: scene
+    src: /media/sports/sepak-takraw/body-2.webp
+    alt: 藤制藤球（sepak takraw）的特写，这是进行该项运动所用的传统编织球。
+    kind: representative
+    origin: third-party
+    subject: 编织藤制藤球（sepak takraw）
+    credit: Lamacchiacosta / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rattan_ball_forweb.jpg
 ---
 
 想象一场排球赛，然后拿走每名球员的双手。剩下的——齐头高的倒挂金钩扣杀、

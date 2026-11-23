@@ -29,7 +29,7 @@ faq:
     a: "두 개의 올림픽 메달리스트(2016 동메달, 2020 은메달)이자 2017년 케이린 세계 챔피언인 아지줄하스니 아왕(Azizulhasni Awang)입니다."
 
 lang: "ko"
-sourceContentHash: "490abb68b2e39c44"
+sourceContentHash: "345a803183cf2c08"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:National_Velodrome,_Nilai.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-1.webp
+    alt: 트랙 사이클 세계선수권 기간의 실내 벨로드롬 내부. 경사진 타원형 목재 트랙, 인필드, 붐비는 관중석이 보인다.
+    kind: representative
+    origin: third-party
+    subject: 트랙 사이클 세계선수권이 열리는 실내 벨로드롬 내부
+    credit: Mkckim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_UCI_Track_Cycling_World_Championships.jpg
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-2.webp
+    alt: 디스크 휠을 단 에어로 자전거를 탄 두 트랙 선수가 벨로드롬의 가파르게 경사진 파랑·빨강 목재 주로를 나란히 치고 올라가는 모습.
+    kind: representative
+    origin: third-party
+    subject: 벨로드롬의 경사진 주로에서 질주하는 트랙 단거리 선수들
+    credit: Tim Rademacher / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UCI_Track_World_Championships_2020-02-29_143621.jpg
 ---
 
 닐라이 외곽의 긴 지붕을 인 한 경기장은 이제 말레이시아에서 가장 빠른 선수들이 주행을 다듬는 곳이 되었습니다 — 그리고 그곳은 더 많은 세계 트랙 챔피언을 배출하기 위해 특별히 지어졌습니다.

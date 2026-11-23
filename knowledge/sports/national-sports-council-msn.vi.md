@@ -27,7 +27,7 @@ faq:
   - q: "MSN đặt trụ sở ở đâu?"
     a: "Tại Khu phức hợp Thể thao Quốc gia (Kompleks Sukan Negara), Bukit Jalil, 57000 Sri Petaling, Kuala Lumpur. Nó cũng vận hành các khu phức hợp huấn luyện ở một số bang khác."
 lang: "vi"
-sourceContentHash: "ebb2456ffa0caf75"
+sourceContentHash: "8944daaf247428ff"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia,_Bukit_Jalil_(220713).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-1.webp
+    alt: Tòa nhà Viện Thể thao Quốc gia ở Bukit Jalil, mặt kính mang biểu ngữ 'Where Legends Are Made', phía trước là một khoảng sân vắng.
+    kind: representative
+    origin: third-party
+    subject: Tòa nhà Viện Thể thao Quốc gia (ISN) ở Bukit Jalil, một phần của bộ máy thể thao quốc gia Malaysia
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Institut_Sukan_Negara,_Bukit_Jalil_(220713).jpg
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-2.webp
+    alt: Khung cảnh từ trên cao của khu phức hợp KL Sports City ở Bukit Jalil, cho thấy sân vận động quốc gia hình bầu dục, một nhà thi đấu trong nhà và trung tâm thể thao dưới nước giữa các tòa nhà xung quanh trong làn sương mù mỏng.
+    kind: representative
+    origin: third-party
+    subject: Khung cảnh từ trên cao của khu phức hợp thể thao quốc gia KL Sports City ở Bukit Jalil
+    credit: DvTor8303 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_KL_Sports_City_20260412.jpg
 ---
 
 Khi một vận động viên chạy nước rút Malaysia xếp hàng tại Thế vận hội hay một cầu thủ trẻ được tuyển vào một đội tuyển quốc gia, có một cơ quan chính phủ duy nhất đứng đằng sau việc huấn luyện, việc dạy dỗ và các cơ sở đã đưa họ đến đó: **Hội đồng Thể thao Quốc gia Malaysia**, được biết đến trong tiếng Mã Lai là **Majlis Sukan Negara (MSN)**. Đó là cơ quan theo luật định biến chính sách thể thao quốc gia thành các vận động viên thực sự.

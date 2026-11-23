@@ -31,7 +31,7 @@ faq:
     a: "Sivasangari Subramaniam, người đạt vị trí cao nhất sự nghiệp là số 6 thế giới vào tháng 10 năm 2025, và Ng Eain Yow, người giành ACE Malaysia Squash Cup 2024 trên sân nhà."
 
 lang: "vi"
-sourceContentHash: "47a1ae4a8ea8c4dc"
+sourceContentHash: "097f4f41b0bac5b0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Nicol_David_Hong_Kong_2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-1.webp
+    alt: Một sân trình diễn squash toàn kính được chiếu sáng dựng bên trong một nhà thi đấu cho một giải đấu chuyên nghiệp, nhìn từ các hàng ghế bậc thang xung quanh.
+    kind: representative
+    origin: third-party
+    subject: Một sân trình diễn bằng kính được dựng cho một giải squash chuyên nghiệp
+    credit: Tc159 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Open_International_de_Squash_de_Nantes_2017.jpg
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-2.webp
+    alt: Hai vận động viên thi đấu trên một sân squash tường kính được bao quanh bởi khán giả trong một đại sảnh tại một giải squash lớn.
+    kind: representative
+    origin: third-party
+    subject: Một trận squash chuyên nghiệp trên sân kính trước đám đông khán giả chật kín
+    credit: julesgriff / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tournament_of_Champions_Squash_2012.jpg
 ---
 
 Trong chín năm liên tiếp, tay vợt bóng quần giỏi nhất hành tinh đến từ Penang. Nicol David không chỉ chiến thắng trong môn thể thao cá nhân thành công nhất của Malaysia — cô còn viết lại thế nào là sự thống trị trong nó, giữ vị trí số 1 thế giới trong **108 tháng liên tiếp** cho đến tháng 9 năm 2015, triều đại không gián đoạn dài nhất mà môn thể thao này từng chứng kiến.

@@ -38,7 +38,7 @@ faq:
     a: "The National Sports Institute (ISN). It is placed on a statutory footing by the National Sports Institute Act 2011 [Act 729] and functions to provide sports science and sports medicine services, advice and consultation, conduct research, and advise the Minister on the scientific aspects of athlete performance."
 
 lang: "en"
-sourceContentHash: "6410f4b09d840cf0"
+sourceContentHash: "68614c252ec3d561"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_(220713).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-1.webp
+    alt: The exterior of the National Sports Council of Malaysia (Majlis Sukan Negara) building in the Bukit Jalil sports complex.
+    kind: actual
+    origin: third-party
+    subject: The National Sports Council of Malaysia (Majlis Sukan Negara) building at Bukit Jalil
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia%2C_Bukit_Jalil_%28220713%29.jpg
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-2.webp
+    alt: The National Aquatic Centre, part of the KL Sports City national sports complex at Bukit Jalil, Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: The National Aquatic Centre within the KL Sports City national sports complex
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sports_City_National_Aquatic_Centre.jpg
 ---
 
 A new football club in Johor can buy jerseys, rent a pitch and register players — yet it still cannot lawfully send anyone to represent "Malaysia" at any competition. The reason is not money or talent. It is a question of who grants permission. In Malaysia, the right to exist as a sports body, the right to be funded, and the right to bear the nation's name come from four different institutions that are often mistaken for one.

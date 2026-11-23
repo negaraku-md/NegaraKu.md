@@ -29,7 +29,7 @@ faq:
     a: "According to legal summaries, a bribery offence is punishable by imprisonment of up to 20 years and a fine of not less than five times the value of the gratification or RM10,000, whichever is higher. These details should be re-checked against the full text of the Act."
 
 lang: "en"
-sourceContentHash: "602c70742033a7cb"
+sourceContentHash: "dc6d2f464239db71"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Football_Pitch_Ahmadu_Bello_Stadium_Kaduna.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/match-fixing-sports-betting-regulation/body-1.webp
+    alt: A referee in a dark kit officiating on the field during a football match.
+    kind: representative
+    origin: third-party
+    subject: A match referee officiating on the pitch during a football match
+    credit: Samson Ssemakadde / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Referee_during_a_football_match.jpg
+  - role: scene
+    src: /media/sports/match-fixing-sports-betting-regulation/body-2.webp
+    alt: A referee tossing a coin with two team captains at the centre circle before a football match kicks off.
+    kind: representative
+    origin: third-party
+    subject: A referee conducting the pre-match coin toss with the team captains
+    credit: Samson Ssemakadde / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Coin_tossing_before_before_a_football_match_between_players_and_referees.jpg
 ---
 
 When more than 100 footballers were rounded up by police during the 1993–1994 season, it was not merely a sporting crisis — it opened a legal question that remains not fully resolved today: how does a country that prohibits almost all sports betting deal with a crime born of that very betting?

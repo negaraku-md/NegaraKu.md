@@ -29,7 +29,7 @@ faq:
     a: "SUKMA adalah panggung negeri untuk atlet remaja menunjukkan bakat. Atlet berpotensi dapat dinaikkan ke program pembangunan bakat dan pelapis MSN dan selanjutnya ke Program Podium ISN yang mempersiapkan atlet elite untuk pesta olahraga internasional."
 
 lang: "id"
-sourceContentHash: "85246294d35de2fe"
+sourceContentHash: "76cfd0ad84941214"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroLicense: 'CC BY 2.5'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sukma-games/body-1.webp
+    alt: Tribune utama, lapangan hijau dan lintasan lari merah sebuah stadion negara bagian Malaysia dengan kursi biru dan kuning yang kosong, khas sebuah arena tuan rumah SUKMA.
+    kind: representative
+    origin: third-party
+    subject: Sebuah stadion negara bagian Malaysia dengan lintasan atletik, jenis arena yang menyelenggarakan acara SUKMA
+    credit: Only Truth / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Darul_Makmur.jpg
+  - role: scene
+    src: /media/sports/sukma-games/body-2.webp
+    alt: Pemandangan udara Kompleks Olahraga Likas di Kota Kinabalu, memperlihatkan stadion atletik, arena dalam ruangan berkubah dan fasilitas olahraga sekitarnya di tengah kota.
+    kind: representative
+    origin: third-party
+    subject: Pemandangan udara Kompleks Olahraga Likas di Sabah, sebuah arena olahraga multi-cabang
+    credit: thienzieyung / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_View_Of_Likas_Sports_Complex.jpg
 ---
 
 Setiap dua tahun, ribuan atlet remaja berbaris masuk ke sebuah stadion negeri tuan rumah — bukan untuk medali dunia, tetapi untuk martabat negeri masing-masing dan, bagi yang paling berbakat, satu tiket ke panggung elite negara. Itulah SUKMA.

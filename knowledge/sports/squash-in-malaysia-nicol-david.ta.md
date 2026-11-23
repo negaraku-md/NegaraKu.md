@@ -31,7 +31,7 @@ faq:
     a: "2025 அக்டோபரில் வாழ்நாள் உச்ச தரவரிசையான உலக நம்பர் 6ஐ எட்டிய Sivasangari Subramaniam, மற்றும் சொந்த மண்ணில் 2024 ACE Malaysia Squash Cup வென்ற Ng Eain Yow."
 
 lang: "ta"
-sourceContentHash: "47a1ae4a8ea8c4dc"
+sourceContentHash: "097f4f41b0bac5b0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Nicol_David_Hong_Kong_2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-1.webp
+    alt: ஒரு தொழில்முறைப் போட்டிக்காக ஒரு அரங்கத்திற்குள் அமைக்கப்பட்ட, வெள்ளொளி ஏற்றப்பட்ட முழு-கண்ணாடி ஸ்குவாஷ் காட்சி மைதானம், சுற்றியுள்ள அடுக்கு இருக்கைகளில் இருந்து பார்த்த காட்சி.
+    kind: representative
+    origin: third-party
+    subject: ஒரு தொழில்முறை ஸ்குவாஷ் போட்டிக்காக அமைக்கப்பட்ட கண்ணாடி காட்சி மைதானம்
+    credit: Tc159 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Open_International_de_Squash_de_Nantes_2017.jpg
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-2.webp
+    alt: ஒரு முக்கிய ஸ்குவாஷ் போட்டியில் ஒரு பெரிய மண்டபத்தில் பார்வையாளர்களால் சூழப்பட்ட கண்ணாடிச் சுவர் ஸ்குவாஷ் மைதானத்தில் போட்டியிடும் இரு வீரர்கள்.
+    kind: representative
+    origin: third-party
+    subject: நிறைந்த கூட்டத்தின் முன் கண்ணாடி மைதானத்தில் ஒரு தொழில்முறை ஸ்குவாஷ் போட்டி
+    credit: julesgriff / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tournament_of_Champions_Squash_2012.jpg
 ---
 
 தொடர்ச்சியாக ஒன்பது ஆண்டுகளுக்கு, உலகின் மிகச்சிறந்த ஸ்குவாஷ் வீராங்கனை Penangஇலிருந்து வந்தார். Nicol David மலேசியாவின் மிகவும் வெற்றிகரமான தனிநபர் விளையாட்டில் வென்றது மட்டுமல்ல — அதில் ஆதிக்கம் என்றால் என்ன என்பதையே மறுவரையறை செய்தார், 2015 செப்டம்பர் வரை தொடர்ச்சியாக **108 மாதங்கள்** உலக நம்பர் ஒன் தரவரிசையைத் தக்கவைத்து, இந்த விளையாட்டு இதுவரை கண்ட மிக நீண்ட தொடர்ச்சியான ஆட்சியைப் பதிவு செய்தார்.

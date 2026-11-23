@@ -31,7 +31,7 @@ faq:
     a: "MFL이 AFC 형식에 맞추기 위해 일정을 이동했다. 새 시즌은 2024년 5월에 시작해 2025년 4월에 끝났으며, AFC 아시안컵, 2026 월드컵 예선, 라마단을 고려했다."
 
 lang: "ko"
-sourceContentHash: "fdb11bb0fa6c116e"
+sourceContentHash: "327a7350ca843637"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Perak_football_supporters,_2017_Malaysia_Cup_quarter-finals.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-1.webp
+    alt: 2012년 말레이시아컵 준결승 클란탄 대 슬랑오르 경기에서 공을 다투는 선수들.
+    kind: actual
+    origin: third-party
+    subject: 클란탄과 슬랑오르가 맞붙은 2012년 말레이시아컵 준결승
+    credit: Firdaus Latif / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelantan_VS_Selangor_%288093646013%29.jpg
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-2.webp
+    alt: 조호르주 이스칸다르 푸테리에 있는 스타디움 술탄 이브라힘 내부의 관중석 층과 경기장 전경.
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 정상급 리그 구단의 홈구장인 스타디움 술탄 이브라힘 내부
+    credit: Zahirul Nukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Sultan_Ibrahim_1_19092022.jpg
 ---
 
 거의 한 세기 동안 단일 기관 — 말레이시아 축구 협회(FAM) — 이 나라의 모든 리그 경기를 주관했습니다. 그러다 이 종목의 형태를 바꾼 한 조치로, 리그를 운영할 권한이 한 상업 회사에 넘겨졌습니다. 이것이 오늘날 말레이시아 국내 축구가 작동하는 방식의 토대입니다.

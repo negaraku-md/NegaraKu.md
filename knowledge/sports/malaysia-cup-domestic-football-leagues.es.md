@@ -31,7 +31,7 @@ faq:
     a: "La MFL trasladó el calendario para alinearlo con el formato de la AFC. La nueva temporada comenzó en mayo de 2024 y terminó en abril de 2025, teniendo en cuenta la Copa Asiática de la AFC, la clasificación para el Mundial de 2026 y el mes de Ramadán."
 
 lang: "es"
-sourceContentHash: "fdb11bb0fa6c116e"
+sourceContentHash: "327a7350ca843637"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Perak_football_supporters,_2017_Malaysia_Cup_quarter-finals.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-1.webp
+    alt: Jugadores disputando el balón durante la semifinal de la Malaysia Cup 2012 entre Kelantan y Selangor.
+    kind: actual
+    origin: third-party
+    subject: Una semifinal de la Malaysia Cup 2012 entre Kelantan y Selangor
+    credit: Firdaus Latif / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelantan_VS_Selangor_%288093646013%29.jpg
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-2.webp
+    alt: Vista de las gradas y del césped dentro del Stadium Sultan Ibrahim en Iskandar Puteri, Johor.
+    kind: actual
+    origin: third-party
+    subject: El interior del Stadium Sultan Ibrahim, estadio de uno de los principales clubes de la liga malasia
+    credit: Zahirul Nukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Sultan_Ibrahim_1_19092022.jpg
 ---
 
 Durante casi un siglo, un solo organismo —la Asociación de Fútbol de Malasia (FAM)— organizó cada partido de la liga nacional. Luego, en un movimiento que remodeló este deporte, el poder de dirigir las ligas se cedió a una empresa comercial. Esta es la base de cómo funciona hoy el fútbol interno malasio.

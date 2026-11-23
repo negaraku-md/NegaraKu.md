@@ -33,7 +33,7 @@ faq:
     a: "மலேசிய ஹாக்கி கூட்டமைப்பு (Malaysian Hockey Confederation, MHC) என்பது ஆண்கள் மற்றும் பெண்கள் புல் ஹாக்கி மற்றும் உட்புற ஹாக்கிக்கான தேசிய நிர்வாக அமைப்பாகும். இது Asian Hockey Federation (AHF) மற்றும் FIH உடன் இணைந்துள்ளது, மேலும் Kuala Lumpur-இன் Bukit Jalil-இல் உள்ள National Hockey Stadium-இலிருந்து செயல்படுகிறது."
 
 lang: "ta"
-sourceContentHash: "e3b29244d5e5d634"
+sourceContentHash: "70f556dff6e2532a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -94,6 +94,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen,_Nederland_tegen_Maleisi_4-0,_Ties_Kruize_(rech,_Bestanddeelnr_926-6422.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-1.webp
+    alt: 1973 ஹாக்கி உலகக் கோப்பையின்போது ஆம்ஸ்டெல்வீனில் நடந்த மைதான ஹாக்கி போட்டியில் மலேசியா நெதர்லாந்துக்கு எதிராக விளையாடும் வீரர்கள்.
+    kind: actual
+    origin: third-party
+    subject: 1973 ஹாக்கி உலகக் கோப்பையில் மலேசிய தேசிய மைதான ஹாக்கி அணி களமிறங்குகிறது
+    credit: Hans Peters / Anefo / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen%2C_Nederland_tegen_Maleisi_4-0%2C_spelmoment%2C_Bestanddeelnr_926-6427.jpg
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-2.webp
+    alt: ஜொகூர் பாருவில் உள்ள தாமன் தயா ஹாக்கி அரங்கத்தின் மைதானமும் மேடைகளும், மலேசியாவில் உள்ள ஒரு மைதான ஹாக்கி அரங்கம்.
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர் பாருவில் உள்ள தாமன் தயா ஹாக்கி அரங்கம், ஒரு மலேசிய மைதான ஹாக்கி அரங்கம்
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Daya_Hockey_Stadium.JPG
 ---
 
 1975 மார்ச் 15 அன்று, Kuala Lumpur-இல் உள்ள ஒரு அரங்கம் India தமது வரலாற்றில் ஒரே ஒரு முறை ஆண்கள் ஹாக்கி உலகக் கோப்பையை உயர்த்திப் பிடித்ததைக் கண்டது — அதன் புரவலர் India அல்ல, மலேசியாவே. அரை நூற்றாண்டுக்குப் பின்னரும், அதே நாடு இன்னும் உலகின் ஹாக்கி வல்லரசுகளை ஒவ்வோர் ஆண்டும் Ipoh-க்கு அழைக்கிறது. புல் ஹாக்கி இன்று மலேசியாவின் மிகப் பிரபலமான விளையாட்டாக இல்லாமல் இருக்கலாம், ஆனால் அது நாட்டின் சர்வதேச அளவில் மிகவும் மதிக்கப்படும் விளையாட்டு மரபாக இருக்கலாம்.

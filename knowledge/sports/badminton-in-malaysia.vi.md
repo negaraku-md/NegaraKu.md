@@ -37,7 +37,7 @@ faq:
     a: "Zii Jia từ chức khỏi BAM vào tháng 1 năm 2022 để trở thành vận động viên tự do sau gần một thập kỷ cùng cơ quan này kể từ năm 13 tuổi. Anh mong muốn tập trung vào tập luyện và nâng cao thứ hạng của riêng mình, và khẳng định rằng dù là vận động viên quốc gia hay vận động viên tự do, họ vẫn giương cao Jalur Gemilang."
 
 lang: "vi"
-sourceContentHash: "a0c4b7207a1ac775"
+sourceContentHash: "db7869aeba9d7ddf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -107,6 +107,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lee_Chong_Wei,_Malaysia_(7758886922).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-1.webp
+    alt: Nhà thi đấu trong nhà Axiata Arena ở Kuala Lumpur, địa điểm được dùng cho môn cầu lông tại SEA Games 2017.
+    kind: actual
+    origin: third-party
+    subject: Axiata Arena, địa điểm cầu lông quốc gia tại khu phức hợp thể thao Bukit Jalil
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-2.webp
+    alt: Tay vợt cầu lông Malaysia Hafiz Hashim lao người cứu cầu trong một trận đấu tại Malaysia Open 2008.
+    kind: actual
+    origin: third-party
+    subject: Tay vợt đơn Malaysia Hafiz Hashim thi đấu tại Malaysia Open 2008
+    credit: Mister Platipus / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hafiz_Hashim_at_the_2008_Malaysia_Open.jpg
 ---
 
 Vào tháng 5 năm 1992, cả nước dừng lại trong chốc lát. Tại Stadium Negara, Kuala Lumpur, một đội hình các chàng trai trẻ do anh em nhà Sidek dẫn dắt đã đánh bại Indonesia để nâng Thomas Cup — và như lời Datuk Rashid Sidek, "cả Malaysia trở nên lan truyền và mọi người đều muốn chơi cầu lông". Ba thập kỷ sau, chiếc cúp đó vẫn chưa trở lại. Câu chuyện cầu lông Malaysia là câu chuyện về sự rực rỡ ban đầu, một cơn khát đau đớn, và một vài nhà vô địch mang niềm hy vọng của cả một quốc gia trên vai họ.

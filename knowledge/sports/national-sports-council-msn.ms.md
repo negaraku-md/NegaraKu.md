@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ebb2456ffa0caf75"
+sourceContentHash: "8944daaf247428ff"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia,_Bukit_Jalil_(220713).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-1.webp
+    alt: Bangunan Institut Sukan Negara di Bukit Jalil, fasad kacanya membawa sepanduk 'Where Legends Are Made', dengan laman hadapan yang lengang.
+    kind: representative
+    origin: third-party
+    subject: Bangunan Institut Sukan Negara (ISN) di Bukit Jalil, sebahagian daripada jentera sukan kebangsaan Malaysia
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Institut_Sukan_Negara,_Bukit_Jalil_(220713).jpg
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-2.webp
+    alt: Pemandangan udara kompleks KL Sports City di Bukit Jalil, memaparkan stadium kebangsaan berbentuk bujur, sebuah arena dalam dewan dan pusat akuatik dalam kalangan bangunan sekeliling dalam jerebu nipis.
+    kind: representative
+    origin: third-party
+    subject: Pemandangan udara kompleks sukan kebangsaan KL Sports City di Bukit Jalil
+    credit: DvTor8303 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_KL_Sports_City_20260412.jpg
 ---
 
 Apabila seorang pelari pecut Malaysia bersiap sedia di Olimpik atau seorang pemain bola sepak muda dipilih ke dalam skuad kebangsaan, ada satu badan kerajaan yang berdiri di sebalik latihan, kejurulatihan dan kemudahan yang membawa mereka ke tahap itu: **Majlis Sukan Negara Malaysia**, yang dikenali dalam bahasa Inggeris sebagai **National Sports Council (MSN)**. Ia merupakan agensi berkanun yang menterjemahkan dasar sukan negara menjadi atlet sebenar.

@@ -37,7 +37,7 @@ faq:
     a: "Zii Jia resigned from BAM in January 2022 to become an independent player after nearly a decade with the body since the age of 13. He wanted to focus on his own training and improving his ranking, and stressed that whether a national player or an independent player, they still fly the Jalur Gemilang."
 
 lang: "en"
-sourceContentHash: "a0c4b7207a1ac775"
+sourceContentHash: "db7869aeba9d7ddf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -107,6 +107,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Lee_Chong_Wei,_Malaysia_(7758886922).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-1.webp
+    alt: The Axiata Arena indoor stadium in Kuala Lumpur, the venue used for badminton at the 2017 SEA Games.
+    kind: actual
+    origin: third-party
+    subject: Axiata Arena, the national badminton venue at the Bukit Jalil sports complex
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Axiata_Arena_2017_Sea_Games.jpg
+  - role: scene
+    src: /media/sports/badminton-in-malaysia/body-2.webp
+    alt: Malaysian badminton player Hafiz Hashim lunging for a shot during a match at the 2008 Malaysia Open.
+    kind: actual
+    origin: third-party
+    subject: Malaysian singles player Hafiz Hashim competing at the 2008 Malaysia Open
+    credit: Mister Platipus / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hafiz_Hashim_at_the_2008_Malaysia_Open.jpg
 ---
 
 In May 1992, the whole nation paused for a moment. At Stadium Negara, Kuala Lumpur, a team of young men led by the Sidek brothers defeated Indonesia to lift the Thomas Cup — and as Datuk Rashid Sidek put it, "all of Malaysia went viral and everyone wanted to play badminton." Three decades later, the trophy still has not returned. The story of Malaysian badminton is a story of early glory, a painful drought, and a champion or two carrying a nation's hopes on their shoulders.

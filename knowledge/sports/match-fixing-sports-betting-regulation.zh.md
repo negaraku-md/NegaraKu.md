@@ -29,7 +29,7 @@ faq:
     a: "根据法律摘要，贿赂罪可判处最高20年监禁，以及不少于贿赂价值五倍或RM10,000（以较高者为准）的罚款。此细节仍需对照该法令全文重新核实。"
 
 lang: "zh"
-sourceContentHash: "602c70742033a7cb"
+sourceContentHash: "dc6d2f464239db71"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Football_Pitch_Ahmadu_Bello_Stadium_Kaduna.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/match-fixing-sports-betting-regulation/body-1.webp
+    alt: 一名身穿深色球衣的裁判在足球比赛中于场上执法。
+    kind: representative
+    origin: third-party
+    subject: 一名裁判在足球比赛中于场上执法
+    credit: Samson Ssemakadde / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Referee_during_a_football_match.jpg
+  - role: scene
+    src: /media/sports/match-fixing-sports-betting-regulation/body-2.webp
+    alt: 一场足球比赛开球前，裁判在中圈与两队队长掷硬币。
+    kind: representative
+    origin: third-party
+    subject: 裁判与两队队长进行赛前掷硬币
+    credit: Samson Ssemakadde / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Coin_tossing_before_before_a_football_match_between_players_and_referees.jpg
 ---
 
 当1993–1994赛季有超过100名足球运动员被警方带走时，这不仅仅是一场体育危机——它揭开了一个至今仍未完全解决的法律问题：一个几乎禁止所有体育博彩的国家，如何应对由博彩本身滋生出来的罪行。

@@ -29,7 +29,7 @@ faq:
     a: "Azizulhasni Awang, người giành hai huy chương Olympic (đồng 2016, bạc 2020) và nhà vô địch thế giới keirin 2017."
 
 lang: "vi"
-sourceContentHash: "490abb68b2e39c44"
+sourceContentHash: "345a803183cf2c08"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:National_Velodrome,_Nilai.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-1.webp
+    alt: Đường gỗ hình bầu dục nghiêng, khu vực trong lòng sân và khán đài chật kín bên trong một trường đua xe đạp lòng chảo trong nhà trong một giải vô địch thế giới đua xe đạp lòng chảo.
+    kind: representative
+    origin: third-party
+    subject: Bên trong một trường đua xe đạp lòng chảo trong một giải vô địch thế giới đua xe đạp lòng chảo
+    credit: Mkckim / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:2017_UCI_Track_Cycling_World_Championships.jpg
+  - role: scene
+    src: /media/sports/track-cycling-velodrome-malaysia/body-2.webp
+    alt: Hai tay đua xe đạp lòng chảo trên những chiếc xe khí động học với bánh đĩa đua sát nhau lên mặt ván nghiêng dốc màu xanh và đỏ của một trường đua lòng chảo.
+    kind: representative
+    origin: third-party
+    subject: Các tay đua nước rút lòng chảo tranh tài trên mặt ván nghiêng của một trường đua lòng chảo
+    credit: Tim Rademacher / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:UCI_Track_World_Championships_2020-02-29_143621.jpg
 ---
 
 Một sân đấu có mái che dài ở rìa Nilai nay là nơi tay đua nhanh nhất của Malaysia mài giũa những cú nước rút của mình — và nó được xây dựng riêng để sản sinh thêm nhiều nhà vô địch lòng chảo thế giới.

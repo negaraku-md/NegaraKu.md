@@ -27,7 +27,7 @@ faq:
   - q: "MSN은 어디에 있습니까?"
     a: "쿠알라룸푸르 부킷잘릴의 국가체육단지(Kompleks Sukan Negara), 57000 Sri Petaling, Kuala Lumpur에 있습니다. 또한 여러 다른 주에도 훈련 단지를 운영합니다."
 lang: "ko"
-sourceContentHash: "ebb2456ffa0caf75"
+sourceContentHash: "8944daaf247428ff"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia,_Bukit_Jalil_(220713).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-1.webp
+    alt: 부킷잘릴에 있는 국립 체육연구원(ISN) 건물. 유리 외벽에 'Where Legends Are Made' 현수막이 걸려 있고, 앞쪽에는 텅 빈 앞마당이 펼쳐져 있다.
+    kind: representative
+    origin: third-party
+    subject: 부킷잘릴의 국립 체육연구원(ISN) 건물, 말레이시아 국가 체육 체계의 일부
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Institut_Sukan_Negara,_Bukit_Jalil_(220713).jpg
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-2.webp
+    alt: 부킷잘릴의 KL 스포츠 시티 단지 항공 사진. 옅은 안개 속 주변 건물들 사이로 타원형 국립 경기장, 실내 아레나, 수영 센터가 보인다.
+    kind: representative
+    origin: third-party
+    subject: 부킷잘릴의 KL 스포츠 시티 국립 체육 단지 항공 사진
+    credit: DvTor8303 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_KL_Sports_City_20260412.jpg
 ---
 
 말레이시아의 단거리 선수가 올림픽 출발선에 서거나 어린 축구 선수가 국가 대표팀에 발탁될 때, 그들을 그 자리까지 이끈 훈련과 코칭, 시설을 뒷받침하는 단 하나의 정부 기관이 있습니다. 바로 말레이어로 **국가체육위원회(Majlis Sukan Negara, MSN)**로 알려진 **말레이시아 국가체육위원회(National Sports Council of Malaysia)**입니다. 이곳은 국가 스포츠 정책을 실제 선수로 바꾸어 내는 법정 기관입니다.

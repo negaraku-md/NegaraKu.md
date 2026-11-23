@@ -32,7 +32,7 @@ faq:
     a: "Entre los más destacados están Cheah Liek Hou (bádminton SU5, oro en Tokio 2020 y París 2024), Bonnie Bunyau Gustin (halterofilia, oro en Tokio 2020 y París 2024) y Abdul Latif Romly (salto de longitud T20, oro en Río 2016 y Tokio 2020)."
 
 lang: "es"
-sourceContentHash: "457f33eb5b3c31ad"
+sourceContentHash: "16f1ecc7df5a29c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -102,6 +102,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sgt_1st_Class_Elizabeth_Marks_Competes_at_2023_Para_Swimming_World_Championships_(7942899).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-1.webp
+    alt: Hombres compitiendo en un esprint de para atletismo de 100 metros en una pista al aire libre durante los Bislett Games de 2024.
+    kind: representative
+    origin: third-party
+    subject: Para atletas corriendo los 100 metros masculinos en una competición internacional de para atletismo
+    credit: Ssu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bislett_Games_2024_-_100_meter_para_menn.jpg
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-2.webp
+    alt: Un atleta de pista con discapacidad visual corriendo junto a su guía durante una carrera en los Juegos Paralímpicos de Sídney 2000.
+    kind: representative
+    origin: third-party
+    subject: Un velocista con discapacidad visual corriendo atado a su guía en los Juegos Paralímpicos
+    credit: Sport the library / Australian Paralympic Committee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:141100_-_Athletics_track_Gerrard_Gosens_guide_action_-_3b_-_2000_Sydney_race_photo.jpg
 ---
 
 Cuando Cheah Liek Hou defendió su oro de bádminton SU5 en París 2024, el triunfo confirmó que el deporte paralímpico malasio cuenta ahora con una nómina de campeones más sólida, y no ya con un logro ocasional. Detrás de aquel momento hay una estructura de gobernanza propia, separada del mundo olímpico más conocido.

@@ -33,7 +33,7 @@ faq:
     a: "La Confederación Malasia de Hockey (MHC) es el órgano rector nacional del hockey sobre césped y en sala, tanto masculino como femenino. Está afiliada a la Federación Asiática de Hockey (AHF) y a la FIH, y opera desde el Estadio Nacional de Hockey de Bukit Jalil, Kuala Lumpur."
 
 lang: "es"
-sourceContentHash: "e3b29244d5e5d634"
+sourceContentHash: "70f556dff6e2532a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -94,6 +94,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen,_Nederland_tegen_Maleisi_4-0,_Ties_Kruize_(rech,_Bestanddeelnr_926-6422.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-1.webp
+    alt: Jugadores en un partido de hockey sobre césped, Malasia contra los Países Bajos, durante la Copa del Mundo de Hockey de 1973 en Amstelveen.
+    kind: actual
+    origin: third-party
+    subject: La selección nacional de hockey sobre césped de Malasia en acción en la Copa del Mundo de Hockey de 1973
+    credit: Hans Peters / Anefo / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen%2C_Nederland_tegen_Maleisi_4-0%2C_spelmoment%2C_Bestanddeelnr_926-6427.jpg
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-2.webp
+    alt: El campo y las gradas del Taman Daya Hockey Stadium en Johor Bahru, Johor, una sede de hockey sobre césped en Malasia.
+    kind: actual
+    origin: third-party
+    subject: El Taman Daya Hockey Stadium en Johor Bahru, una sede malasia de hockey sobre césped
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Daya_Hockey_Stadium.JPG
 ---
 
 El 15 March de 1975, un estadio de Kuala Lumpur vio a la India levantar la Copa Mundial masculina de hockey por única vez en su historia, y el anfitrión no era la India, sino Malasia. Medio siglo después, el mismo país sigue invitando cada año a las potencias mundiales del hockey a Ipoh. Puede que el hockey sobre césped no sea hoy el deporte más popular de Malasia, pero bien podría ser el legado deportivo del país más respetado a nivel internacional.

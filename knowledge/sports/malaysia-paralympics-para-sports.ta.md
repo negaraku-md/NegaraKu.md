@@ -32,7 +32,7 @@ faq:
     a: "மிக முக்கியமானவர்களில் Cheah Liek Hou (பூப்பந்து SU5, Tokyo 2020 மற்றும் Paris 2024 தங்கம்), Bonnie Bunyau Gustin (பவர்லிஃப்டிங், Tokyo 2020 மற்றும் Paris 2024 தங்கம்) மற்றும் Abdul Latif Romly (நீளம் தாண்டுதல் T20, Rio 2016 மற்றும் Tokyo 2020 தங்கம்) ஆகியோர் அடங்குவர்."
 
 lang: "ta"
-sourceContentHash: "457f33eb5b3c31ad"
+sourceContentHash: "16f1ecc7df5a29c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,6 +101,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sgt_1st_Class_Elizabeth_Marks_Competes_at_2023_Para_Swimming_World_Championships_(7942899).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-1.webp
+    alt: 2024 பிஸ்லெட் கேம்ஸில் ஒரு வெளிப்புறத் தடத்தில் 100 மீட்டர் பாரா-தடகள குறுந்தூர ஓட்டத்தில் போட்டியிடும் ஆண்கள்.
+    kind: representative
+    origin: third-party
+    subject: ஒரு சர்வதேச பாரா-தடகளப் போட்டியில் 100 மீட்டர் ஆண்கள் பிரிவில் குறுந்தூர ஓட்டத்தில் பங்கேற்கும் பாரா-விளையாட்டு வீரர்கள்
+    credit: Ssu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bislett_Games_2024_-_100_meter_para_menn.jpg
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-2.webp
+    alt: 2000 சிட்னி பாராலிம்பிக்கில் ஒரு ஓட்டப்பந்தயத்தின்போது தனது வழிகாட்டி ஓட்டக்காரருடன் சேர்ந்து குறுந்தூர ஓட்டத்தில் ஓடும் பார்வையற்ற தடகள வீரர்.
+    kind: representative
+    origin: third-party
+    subject: பாராலிம்பிக் விளையாட்டில் வழிகாட்டி ஓட்டக்காரருடன் கயிற்றால் இணைந்து ஓடும் பார்வையற்ற குறுந்தூர ஓட்டக்காரர்
+    credit: Sport the library / Australian Paralympic Committee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:141100_-_Athletics_track_Gerrard_Gosens_guide_action_-_3b_-_2000_Sydney_race_photo.jpg
 ---
 
 Cheah Liek Hou தனது SU5 பூப்பந்து தங்கத்தை Paris 2024-இல் தக்கவைத்தபோது, அந்த வெற்றி மலேசியாவின் பாரா விளையாட்டுக்கு இப்போது அவ்வப்போது வரும் சாதனை மட்டுமல்ல, மாறாக மிகவும் உறுதியான சாம்பியன்கள் அணி உள்ளது என்பதை உறுதிப்படுத்தியது. அந்தத் தருணத்தின் பின்னால், மிகவும் புகழ்பெற்ற ஒலிம்பிக் உலகிலிருந்து தனித்த ஒரு தனிப்பட்ட நிர்வாக அமைப்பு உள்ளது.

@@ -31,7 +31,7 @@ faq:
     a: "MFL நாட்காட்டியை AFC வடிவமைப்புடன் இணைய மாற்றியது. புதிய சீசன் மே 2024-இல் தொடங்கி ஏப்ரல் 2025-இல் முடிந்தது, AFC ஆசியக் கோப்பை, 2026 உலகக் கோப்பை தகுதிச் சுற்று, மற்றும் ரமலான் மாதத்தைக் கருத்தில் கொண்டு."
 
 lang: "ta"
-sourceContentHash: "fdb11bb0fa6c116e"
+sourceContentHash: "327a7350ca843637"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Perak_football_supporters,_2017_Malaysia_Cup_quarter-finals.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-1.webp
+    alt: கிளந்தானுக்கும் செலாங்கூருக்கும் இடையிலான 2012 மலேசியா கோப்பை அரையிறுதிப் போட்டியின்போது பந்துக்காகப் போட்டியிடும் வீரர்கள்.
+    kind: actual
+    origin: third-party
+    subject: கிளந்தானுக்கும் செலாங்கூருக்கும் இடையிலான 2012 மலேசியா கோப்பை அரையிறுதி
+    credit: Firdaus Latif / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelantan_VS_Selangor_%288093646013%29.jpg
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-2.webp
+    alt: ஜொகூர், இஸ்கந்தர் புத்திரியில் உள்ள சுல்தான் இப்ராஹிம் அரங்கத்தின் உட்புற இருக்கை அடுக்குகள் மற்றும் மைதானக் காட்சி.
+    kind: actual
+    origin: third-party
+    subject: சுல்தான் இப்ராஹிம் அரங்கத்தின் உட்புறம், ஒரு முன்னணி மலேசிய லீக் கழகத்தின் இல்லம்
+    credit: Zahirul Nukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Sultan_Ibrahim_1_19092022.jpg
 ---
 
 கிட்டத்தட்ட ஒரு நூற்றாண்டு காலமாக, ஒரே அமைப்பு — மலேசிய கால்பந்து சங்கம் (Football Association of Malaysia, FAM) — நாட்டின் ஒவ்வொரு லீக் போட்டியையும் நடத்தி வந்தது. பின்னர், விளையாட்டின் வடிவத்தையே மாற்றிய ஒரு நடவடிக்கையில், லீக்குகளை நடத்தும் அதிகாரம் ஒரு வணிக நிறுவனத்திடம் ஒப்படைக்கப்பட்டது. இதுவே இன்று மலேசிய உள்நாட்டு கால்பந்து செயல்படும் விதத்திற்கு அடித்தளம்.

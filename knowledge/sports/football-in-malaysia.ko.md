@@ -73,7 +73,27 @@ sources:
     url: "https://www.freemalaysiatoday.com/category/nation/2026/06/12/harimau-malaya-climb-2-spots-in-fifa-rankings-to-136th"
     publisher: "Free Malaysia Today"
   - title: "안녕히, 시에드 아맛 – 1972년 뮌헨 올림픽으로 축구 대표팀을 이끈 전설 (So long, Syed Ahmad – the legend who steered football team to 1972 Munich Olympics)"
-    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad---the-legend-who-steered-football-team-to-1972-munich-olympics"
+    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad
+images:
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-1.webp
+    alt: 느그리슴빌란주 스름반 파로이에 있는 스타디움 투안쿠 압둘 라만 경기장에서 진행 중인 축구 경기.
+    kind: actual
+    origin: third-party
+    subject: 느그리슴빌란주 파로이의 스타디움 투안쿠 압둘 라만에서 열린 축구 경기
+    credit: Mohd Izzudin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-2.webp
+    alt: 슬랑오르주 프탈링자야 코타 다만사라의 주택가에 있는 야외 공공 풋살 코트.
+    kind: actual
+    origin: third-party
+    subject: 슬랑오르주 코타 다만사라의 동네 풋살 코트, 말레이시아 축구의 풀뿌리 현장
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
+---the-legend-who-steered-football-team-to-1972-munich-olympics"
     publisher: "The Star"
   - title: "그들은 지금 어디에: 말레이시아 2010년 AFF 스즈키컵의 역사를 만든 이들 (Where are they now: Malaysia's history makers of the 2010 AFF Suzuki Cup)"
     url: "https://www.espn.com/soccer/story/_/id/37622930/where-now-malaysia-history-makers-2010-aff-suzuki-cup"

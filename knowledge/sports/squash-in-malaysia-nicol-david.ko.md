@@ -31,7 +31,7 @@ faq:
     a: "2025년 10월 커리어 최고인 세계 6위에 오른 시바상가리 수브라마니암(Sivasangari Subramaniam), 그리고 홈에서 2024 ACE 말레이시아 스쿼시컵에서 우승한 응에인야우(Ng Eain Yow)입니다."
 
 lang: "ko"
-sourceContentHash: "47a1ae4a8ea8c4dc"
+sourceContentHash: "097f4f41b0bac5b0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Nicol_David_Hong_Kong_2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-1.webp
+    alt: 프로 스쿼시 대회를 위해 경기장 안에 설치된 조명이 켜진 전면 유리 쇼코트. 주위 계단식 관중석에서 바라본 모습.
+    kind: representative
+    origin: third-party
+    subject: 프로 스쿼시 대회를 위해 설치된 유리 쇼코트
+    credit: Tc159 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Open_International_de_Squash_de_Nantes_2017.jpg
+  - role: scene
+    src: /media/sports/squash-in-malaysia-nicol-david/body-2.webp
+    alt: 주요 스쿼시 대회에서 웅장한 홀 안의 유리벽 코트 위에서 겨루는 두 선수를 관중이 둘러싸고 있는 모습.
+    kind: representative
+    origin: third-party
+    subject: 가득 찬 관중 앞 유리 코트에서 벌어지는 프로 스쿼시 경기
+    credit: julesgriff / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tournament_of_Champions_Squash_2012.jpg
 ---
 
 9년 연속으로, 지구상 최고의 스쿼시 선수는 페낭 출신이었습니다. 니콜 데이비드(Nicol David)는 단지 말레이시아에서 가장 성공한 개인 종목에서 이긴 것이 아니라 — 그 종목에서 지배가 어떤 모습인지를 다시 썼습니다. 2015년 9월까지 **108개월 연속** 세계 1위를 유지했는데, 이는 이 경기가 지금껏 본 가장 긴 무패의 재위입니다.

@@ -32,7 +32,7 @@ faq:
     a: "ในบรรดาผู้ที่โดดเด่นที่สุดคือ Cheah Liek Hou (แบดมินตัน SU5 เหรียญทองโตเกียว 2020 และปารีส 2024), Bonnie Bunyau Gustin (ยกน้ำหนัก เหรียญทองโตเกียว 2020 และปารีส 2024) และ Abdul Latif Romly (กระโดดไกล T20 เหรียญทองรีโอ 2016 และโตเกียว 2020)"
 
 lang: "th"
-sourceContentHash: "457f33eb5b3c31ad"
+sourceContentHash: "16f1ecc7df5a29c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,6 +101,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sgt_1st_Class_Elizabeth_Marks_Competes_at_2023_Para_Swimming_World_Championships_(7942899).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-1.webp
+    alt: นักกีฬาชายแข่งวิ่งพารากรีฑา100เมตรบนลู่กลางแจ้งในการแข่งขันบิสเลตต์เกมส์ปี2024
+    kind: representative
+    origin: third-party
+    subject: นักกีฬาพาราแข่งวิ่ง100เมตรชายในรายการพารากรีฑาระดับนานาชาติ
+    credit: Ssu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bislett_Games_2024_-_100_meter_para_menn.jpg
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-2.webp
+    alt: นักกีฬาลู่ผู้มีความบกพร่องทางการมองเห็นวิ่งเคียงข้างผู้นำวิ่งระหว่างการแข่งขันในพาราลิมปิกซิดนีย์ปี2000
+    kind: representative
+    origin: third-party
+    subject: นักวิ่งผู้มีความบกพร่องทางการมองเห็นวิ่งผูกเชือกเคียงคู่กับผู้นำวิ่งในพาราลิมปิก
+    credit: Sport the library / Australian Paralympic Committee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:141100_-_Athletics_track_Gerrard_Gosens_guide_action_-_3b_-_2000_Sydney_race_photo.jpg
 ---
 
 เมื่อ Cheah Liek Hou ป้องกันเหรียญทองแบดมินตัน SU5 ของเขาที่ปารีส 2024 ความสำเร็จนั้นยืนยันว่าพาราสปอร์ตของมาเลเซียปัจจุบันมีแนวนักกีฬาแชมป์ที่มั่นคงกว่า ไม่ใช่ความสำเร็จเป็นครั้งคราวอีกต่อไป เบื้องหลังช่วงเวลานั้นมีโครงสร้างการกำกับดูแลเฉพาะที่แยกจากโลกโอลิมปิกที่มีชื่อเสียงกว่า

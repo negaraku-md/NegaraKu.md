@@ -35,7 +35,7 @@ faq:
     a: "目标与主要赛事周期挂钩——奥运会、亚运会与英联邦运动会——并聚焦于被认定成功机会较高的项目，符合国家体育政策第八项目标。资助按周期发放（例如每年6,000万令吉、为期四年），由国家体育理事会（MSN）统筹，并由国家体育学院（ISN）提供体育科学支援。"
 
 lang: "zh"
-sourceContentHash: "d336fe0c30f91bdb"
+sourceContentHash: "a41ee45e3fde6627"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -100,6 +100,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Women%27s_Vault_Podium_at_the_2017_SEA_Games.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-1.webp
+    alt: 马来西亚残疾人羽毛球选手谢儱沃（Cheah Liek Hou）身穿马来西亚黄色球衣，在2024年巴黎残奥会男子SU5级单打决赛中上网。
+    kind: actual
+    origin: third-party
+    subject: 马来西亚精英运动员谢儱沃出战2024年巴黎残奥会
+    credit: Wikisquack / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cheah_Liek_Hou_at_the_Paris_2024_Paralympics_badminton_SU5_men_singles_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-2.webp
+    alt: 位于古晋（Kuching）的潘德拉·丽蓉水上运动中心（Pandelela Rinong Aquatic Centre），一座现代红绿配色的跳水与游泳场馆，以马来西亚奥运跳水奖牌得主命名。
+    kind: representative
+    origin: third-party
+    subject: 潘德拉·丽蓉水上运动中心，一座以奥运奖牌得主命名的马来西亚精英体育场馆
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pandelela_Rinong_Aquatic_Centre_at_Petra_Jaya.jpg
 ---
 
 每当一名马来西亚运动员踏上奥运颁奖台，其背后其实有两套截然不同的系统在运作——一套试图带动全体国民动起来，另一套则把庞大资源集中投向少数有能力夺胜的人。两者都活在同一份政策文件之下，但资助与衡量的方式却大相径庭。

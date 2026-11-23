@@ -33,7 +33,7 @@ faq:
     a: "اتحاد الهوكي الماليزي (Malaysian Hockey Confederation, MHC) هو الهيئة الوطنية الحاكمة لهوكي الحقل والهوكي الداخلي للرجال والنساء. وهو منتسب إلى اتحاد الهوكي الآسيوي (AHF) والاتحاد الدولي للهوكي (FIH)، ويعمل انطلاقًا من الاستاد الوطني للهوكي في بوكيت جليل بكوالالمبور."
 
 lang: "ar"
-sourceContentHash: "e3b29244d5e5d634"
+sourceContentHash: "70f556dff6e2532a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -94,6 +94,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen,_Nederland_tegen_Maleisi_4-0,_Ties_Kruize_(rech,_Bestanddeelnr_926-6422.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-1.webp
+    alt: لاعبون في مباراة هوكي الحقل بين ماليزيا وهولندا خلال بطولة Hockey World Cup 1973 في Amstelveen.
+    kind: actual
+    origin: third-party
+    subject: منتخب ماليزيا الوطني لهوكي الحقل في مباراة ببطولة Hockey World Cup 1973
+    credit: Hans Peters / Anefo / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wereldbeker_Hockey_te_Amstelveen%2C_Nederland_tegen_Maleisi_4-0%2C_spelmoment%2C_Bestanddeelnr_926-6427.jpg
+  - role: scene
+    src: /media/sports/field-hockey-malaysia/body-2.webp
+    alt: أرضية الملعب والمدرّجات في Taman Daya Hockey Stadium في Johor Bahru بولاية Johor، وهو ملعب لهوكي الحقل في ماليزيا.
+    kind: actual
+    origin: third-party
+    subject: Taman Daya Hockey Stadium في Johor Bahru، أحد ملاعب هوكي الحقل في ماليزيا
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Taman_Daya_Hockey_Stadium.JPG
 ---
 
 في 15 مارس 1975، شاهد استاد في كوالالمبور الهندَ ترفع كأس العالم للهوكي للرجال للمرة الوحيدة في تاريخها — ولم يكن المضيف الهند، بل ماليزيا. وبعد نصف قرن، ما زال البلد نفسه يدعو قوى الهوكي في العالم إلى إيبوه كل عام. قد لا يكون هوكي الحقل أكثر الرياضات شعبية في ماليزيا اليوم، لكنه قد يكون أكثر موروثات البلاد الرياضية احترامًا على المستوى الدولي.

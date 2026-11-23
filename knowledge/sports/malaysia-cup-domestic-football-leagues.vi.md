@@ -31,7 +31,7 @@ faq:
     a: "MFL chuyển lịch để phù hợp với thể thức của AFC. Mùa giải mới bắt đầu vào tháng 5 năm 2024 và kết thúc vào tháng 4 năm 2025, có tính đến Asian Cup AFC, vòng loại World Cup 2026, và tháng Ramadan."
 
 lang: "vi"
-sourceContentHash: "fdb11bb0fa6c116e"
+sourceContentHash: "327a7350ca843637"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Perak_football_supporters,_2017_Malaysia_Cup_quarter-finals.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-1.webp
+    alt: Các cầu thủ tranh bóng trong trận bán kết Cúp Malaysia 2012 giữa Kelantan và Selangor.
+    kind: actual
+    origin: third-party
+    subject: Trận bán kết Cúp Malaysia 2012 giữa Kelantan và Selangor
+    credit: Firdaus Latif / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelantan_VS_Selangor_%288093646013%29.jpg
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-2.webp
+    alt: Khung cảnh các tầng khán đài và mặt sân bên trong Sân vận động Sultan Ibrahim ở Iskandar Puteri, Johor.
+    kind: actual
+    origin: third-party
+    subject: Bên trong Sân vận động Sultan Ibrahim, sân nhà của một câu lạc bộ hàng đầu giải Malaysia
+    credit: Zahirul Nukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Sultan_Ibrahim_1_19092022.jpg
 ---
 
 Trong gần một thế kỷ, một cơ quan duy nhất — Hiệp hội Bóng đá Malaysia (FAM) — tổ chức mọi trận đấu giải quốc gia. Rồi, trong một bước đi làm thay đổi hình hài của môn thể thao đó, quyền điều hành giải đấu được trao cho một công ty thương mại. Đây là nền tảng cho cách bóng đá trong nước của Malaysia vận hành ngày nay.

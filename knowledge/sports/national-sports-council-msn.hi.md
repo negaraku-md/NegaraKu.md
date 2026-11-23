@@ -27,7 +27,7 @@ faq:
   - q: "MSN कहाँ स्थित है?"
     a: "राष्ट्रीय खेल परिसर (Kompleks Sukan Negara), बुकित जलील, 57000 सरी पेतालिंग, कुआलालंपुर में। यह कई अन्य राज्यों में भी प्रशिक्षण परिसर संचालित करती है।"
 lang: "hi"
-sourceContentHash: "ebb2456ffa0caf75"
+sourceContentHash: "8944daaf247428ff"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia,_Bukit_Jalil_(220713).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-1.webp
+    alt: Bukit Jalil में National Sports Institute की इमारत, जिसके कांच के अग्रभाग पर 'Where Legends Are Made' बैनर लगा है, सामने एक खाली प्रांगण।
+    kind: representative
+    origin: third-party
+    subject: Bukit Jalil में National Sports Institute (ISN) की इमारत, मलेशिया के राष्ट्रीय खेल तंत्र का एक हिस्सा
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Institut_Sukan_Negara,_Bukit_Jalil_(220713).jpg
+  - role: scene
+    src: /media/sports/national-sports-council-msn/body-2.webp
+    alt: Bukit Jalil में KL Sports City परिसर का हवाई दृश्य, जिसमें अंडाकार राष्ट्रीय स्टेडियम, एक इनडोर एरिना और आसपास की इमारतों के बीच एक्वेटिक सेंटर हल्की धुंध में दिखाई दे रहे हैं।
+    kind: representative
+    origin: third-party
+    subject: Bukit Jalil में KL Sports City राष्ट्रीय खेल परिसर का हवाई दृश्य
+    credit: DvTor8303 / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_view_of_KL_Sports_City_20260412.jpg
 ---
 
 जब कोई मलेशियाई धावक ओलंपिक में खड़ा होता है या किसी युवा फुटबॉलर को राष्ट्रीय दल में चुना जाता है, तो उस प्रशिक्षण, कोचिंग और सुविधाओं के पीछे जो उसे वहाँ तक लाईं, एक ही सरकारी निकाय खड़ा होता है: **मलेशिया की राष्ट्रीय खेल परिषद**, जिसे मलय में **Majlis Sukan Negara (MSN)** के नाम से जाना जाता है। यह वह वैधानिक एजेंसी है जो राष्ट्रीय खेल नीति को वास्तविक एथलीटों में बदलती है।

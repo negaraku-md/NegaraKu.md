@@ -32,7 +32,7 @@ faq:
     a: "Parmi les plus en vue figurent Cheah Liek Hou (badminton SU5, or à Tokyo 2020 et Paris 2024), Bonnie Bunyau Gustin (haltérophilie, or à Tokyo 2020 et Paris 2024) et Abdul Latif Romly (saut en longueur T20, or à Rio 2016 et Tokyo 2020)."
 
 lang: "fr"
-sourceContentHash: "457f33eb5b3c31ad"
+sourceContentHash: "16f1ecc7df5a29c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -102,6 +102,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sgt_1st_Class_Elizabeth_Marks_Competes_at_2023_Para_Swimming_World_Championships_(7942899).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-1.webp
+    alt: Des hommes en compétition dans un sprint de para-athlétisme de 100 mètres sur une piste en plein air lors des Bislett Games de 2024.
+    kind: representative
+    origin: third-party
+    subject: Des para-athlètes courant le 100 mètres masculin lors d'une compétition internationale de para-athlétisme
+    credit: Ssu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bislett_Games_2024_-_100_meter_para_menn.jpg
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-2.webp
+    alt: Un athlète de piste malvoyant courant aux côtés de son guide lors d'une course aux Jeux paralympiques de Sydney 2000.
+    kind: representative
+    origin: third-party
+    subject: Un sprinteur malvoyant courant relié à son guide aux Jeux paralympiques
+    credit: Sport the library / Australian Paralympic Committee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:141100_-_Athletics_track_Gerrard_Gosens_guide_action_-_3b_-_2000_Sydney_race_photo.jpg
 ---
 
 Lorsque Cheah Liek Hou a défendu sa médaille d'or de badminton SU5 à Paris 2024, ce triomphe a confirmé que le parasport malaisien dispose désormais d'une liste de champions plus solide, et non plus seulement d'une réussite occasionnelle. Derrière ce moment se trouve une structure de gouvernance propre, distincte du monde olympique plus connu.

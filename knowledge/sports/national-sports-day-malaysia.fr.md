@@ -29,7 +29,7 @@ faq:
     a: "Le HSN est la journée phare de la célébration. Depuis 2019, le KBS a étendu la célébration à tout le mois d'octobre sous le nom de Mois national du sport (BSN)."
 
 lang: "fr"
-sourceContentHash: "51f2375791aa9f72"
+sourceContentHash: "589c4ce3e24ca4be"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,25 @@ heroLicense: 'CC BY 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pacers_Running.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-1.webp
+    alt: Une grande foule de cyclistes de tous âges remplissant une rue fermée de Kuala Lumpur à l'aube lors d'un événement Car Free Day, sous une banderole festive.
+    kind: representative
+    origin: third-party
+    subject: Des cyclistes en participation de masse lors d'une matinée Car Free Day à Kuala Lumpur
+    credit: WPSamson / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_KL_Car_Free_Day_(October_18th,_2015).jpg
+  - role: scene
+    src: /media/sports/national-sports-day-malaysia/body-2.webp
+    alt: De jeunes athlètes et des officiels rassemblés sur la piste rouge d'un stade malaisien lors d'un championnat d'athlétisme scolaire de district, projecteurs et tribunes à l'arrière-plan.
+    kind: representative
+    origin: third-party
+    subject: Des athlètes sur la piste lors d'un championnat d'athlétisme scolaire de district en Malaisie
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kejohanan_Olahraga_Pendidikan_Khas_MSSD_Petaling_Utama_2025_20250626_101029.jpg
 ---
 
 Chaque samedi de la deuxième semaine d'octobre, les terrains de sport, les parcs et les salles de toute la Malaisie sont censés être bondés : telle est l'intention qui sous-tend la Journée nationale du sport.

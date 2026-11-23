@@ -29,7 +29,7 @@ faq:
     a: "SUKMA는 청소년 선수가 재능을 드러내는 주 무대입니다. 잠재력 있는 선수는 MSN의 인재·후속 선수 육성 프로그램으로, 그리고 이어서 국제 대회를 위해 엘리트 선수를 준비시키는 ISN의 포디움 프로그램으로 승격될 수 있습니다."
 
 lang: "ko"
-sourceContentHash: "85246294d35de2fe"
+sourceContentHash: "76cfd0ad84941214"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -106,6 +106,25 @@ heroLicense: 'CC BY 2.5'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_SUKMA_Games_Village_at_UNIMAS.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/sukma-games/body-1.webp
+    alt: 육상 트랙을 갖춘 말레이시아의 주립 경기장. 관중석, 초록색 경기장, 붉은 트랙에 파랑·노랑 빈 좌석이 늘어선 SUKMA 개최 전형적 모습.
+    kind: representative
+    origin: third-party
+    subject: 육상 트랙을 갖춘 말레이시아의 주립 경기장, SUKMA 종목을 개최하는 유형의 경기장
+    credit: Only Truth / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Darul_Makmur.jpg
+  - role: scene
+    src: /media/sports/sukma-games/body-2.webp
+    alt: 사바주 코타키나발루의 리카스 스포츠 단지 항공 사진. 육상 경기장, 돔형 실내 아레나, 주변 체육 시설이 도시 속에 보인다.
+    kind: representative
+    origin: third-party
+    subject: 사바주 리카스 스포츠 단지 항공 사진, 종합 경기 대회 장소
+    credit: thienzieyung / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Aerial_View_Of_Likas_Sports_Complex.jpg
 ---
 
 2년마다 수천 명의 청소년 선수가 개최 주의 경기장으로 행진해 들어옵니다 — 세계 메달을 위해서가 아니라 각자의 주의 명예를 위해서, 그리고 가장 재능 있는 이들에게는 국가 엘리트 무대로 가는 티켓을 위해서입니다. 그것이 SUKMA입니다.

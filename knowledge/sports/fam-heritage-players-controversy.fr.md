@@ -30,7 +30,7 @@ faq:
     a: "La FIFA a renvoyé à l'Article 22 du Code disciplinaire de la FIFA, relatif à la falsification des documents d'éligibilité et de naturalisation des joueurs."
 
 lang: "fr"
-sourceContentHash: "1434e805293f8f32"
+sourceContentHash: "2fadbe116108a8c5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -88,6 +88,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Ultras_Malaya_in_Bukit_Jalil_Stadium,_2014_AFF_Championship_Final.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/fam-heritage-players-controversy/body-1.webp
+    alt: Le gardien malaisien Wong Kam Fook à l'œuvre face à un attaquant ouest-allemand lors du match de football de la Malaisie aux Jeux olympiques d'été de 1972.
+    kind: actual
+    origin: third-party
+    subject: L'équipe nationale de football de la Malaisie affrontant l'Allemagne de l'Ouest aux Jeux olympiques d'été de 1972
+    credit: Unknown (anonymous) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_v._West_Germany%2C_1972_Summer_Olympics.jpg
+  - role: scene
+    src: /media/sports/fam-heritage-players-controversy/body-2.webp
+    alt: Vue depuis les tribunes à l'intérieur du Shah Alam Stadium lors d'un match de l'équipe nationale de Malaisie au Championnat de l'AFF 2014.
+    kind: actual
+    origin: third-party
+    subject: L'intérieur du Shah Alam Stadium lors d'un match de football de l'équipe nationale de Malaisie
+    credit: Meeneunos10 / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Shah_Alam_Stadium_%28inside%29.jpg
 ---
 
 Sept joueurs nés à l'étranger ont revêtu le maillot des Harimau Malaya en juin 2025. Moins d'un an plus tard, la plus haute instance d'arbitrage sportif au monde a confirmé que les documents les rendant éligibles pour jouer avec la Malaisie avaient été falsifiés. L'affaire a déclenché une série de procédures disciplinaires de la FIFA, un appel devant le Tribunal arbitral du sport (TAS) et une plainte auprès de la police en Malaisie.

@@ -35,7 +35,7 @@ faq:
     a: "இலக்குகள் முக்கிய விளையாட்டு நிகழ்வுகளின் சுழற்சியுடன் — ஒலிம்பிக், ஆசிய விளையாட்டு மற்றும் காமன்வெல்த் விளையாட்டு — இணைக்கப்பட்டுள்ளன; தேசிய விளையாட்டுக் கொள்கையின் நோக்கம் 8-க்கு இணங்க, வெற்றிக்கான உயர் வாய்ப்புடையதாக அடையாளம் காணப்பட்ட விளையாட்டுகளுக்கு முன்னுரிமை அளிக்கப்படுகிறது. நிதி சுழற்சி அடிப்படையில் வழங்கப்படுகிறது (எடுத்துக்காட்டாக, நான்கு ஆண்டுகளுக்கு ஆண்டுக்கு RM60 மில்லியன்); இது தேசிய விளையாட்டு மன்றத்தால் (MSN) ஒருங்கிணைக்கப்பட்டு, தேசிய விளையாட்டு நிறுவனத்தின் (ISN) விளையாட்டு அறிவியலால் ஆதரிக்கப்படுகிறது."
 
 lang: "ta"
-sourceContentHash: "d336fe0c30f91bdb"
+sourceContentHash: "a41ee45e3fde6627"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -100,6 +100,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Women%27s_Vault_Podium_at_the_2017_SEA_Games.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-1.webp
+    alt: பாரிஸ் 2024 பாராலிம்பிக்கில் ஆண்கள் SU5 ஒற்றையர் இறுதிப் போட்டியின்போது மலேசியாவின் மஞ்சள் சீருடையில் வலைக்கு நகரும் மலேசிய பாரா-இறகுப்பந்து வீரர் சியா லியெக் ஹூ.
+    kind: actual
+    origin: third-party
+    subject: மலேசிய உயர்தர வீரர் சியா லியெக் ஹூ பாரிஸ் 2024 பாராலிம்பிக்கில் போட்டியிடுகிறார்
+    credit: Wikisquack / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cheah_Liek_Hou_at_the_Paris_2024_Paralympics_badminton_SU5_men_singles_final.jpg
+  - role: scene
+    src: /media/sports/national-sports-policy-podium-programme/body-2.webp
+    alt: குச்சிங்கில் உள்ள பண்டேலெலா ரினோங் நீர்விளையாட்டு மையம், மலேசியாவின் ஒலிம்பிக் குதிப்பு பதக்கம் வென்றவர் பெயரிடப்பட்ட நவீன சிவப்பு-பச்சை நிற குதிப்பு மற்றும் நீச்சல் அரங்கம்.
+    kind: representative
+    origin: third-party
+    subject: பண்டேலெலா ரினோங் நீர்விளையாட்டு மையம், ஒலிம்பிக் பதக்கம் வென்றவர் பெயரிடப்பட்ட மலேசிய உயர்தர விளையாட்டு அரங்கம்
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pandelela_Rinong_Aquatic_Centre_at_Petra_Jaya.jpg
 ---
 
 ஒரு மலேசிய வீரர் ஒலிம்பிக் பதக்க மேடையில் (podium) ஏறும் ஒவ்வொரு முறையும், அவருக்குப் பின்னால் உண்மையில் இரு வெவ்வேறு அமைப்புகள் இயங்கிக்கொண்டிருக்கின்றன — ஒன்று ஒட்டுமொத்த மக்களையும் அசைந்து செயல்படச் செய்ய முயல்கிறது, மற்றொன்று வெல்லும் திறன் கொண்ட ஒரு சிறு பிரிவினருக்குப் பெரும் வளங்களைக் குவிக்கிறது. இவை இரண்டும் ஒரே கொள்கை ஆவணத்தின் கீழ் வாழ்கின்றன, ஆனால் மிகவும் வேறுபட்ட முறையில் நிதியளிக்கப்பட்டு அளவிடப்படுகின்றன.

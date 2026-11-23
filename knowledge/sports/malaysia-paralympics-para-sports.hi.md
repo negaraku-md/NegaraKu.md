@@ -32,7 +32,7 @@ faq:
     a: "सबसे प्रमुख में चेआ लिएक होउ (बैडमिंटन SU5, टोक्यो 2020 और पेरिस 2024 में स्वर्ण), बोनी बुनयाउ गुस्टिन (पावरलिफ्टिंग, टोक्यो 2020 और पेरिस 2024 में स्वर्ण) और अब्दुल लतीफ रोमली (लंबी कूद T20, रियो 2016 और टोक्यो 2020 में स्वर्ण) हैं।"
 
 lang: "hi"
-sourceContentHash: "457f33eb5b3c31ad"
+sourceContentHash: "16f1ecc7df5a29c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -102,6 +102,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sgt_1st_Class_Elizabeth_Marks_Competes_at_2023_Para_Swimming_World_Championships_(7942899).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-1.webp
+    alt: 2024 Bislett Games में एक बाहरी ट्रैक पर 100-मीटर पैरा-एथलेटिक्स स्प्रिंट में प्रतिस्पर्धा करते पुरुष।
+    kind: representative
+    origin: third-party
+    subject: एक अंतरराष्ट्रीय पैरा-एथलेटिक्स प्रतियोगिता में पुरुषों की 100 मीटर दौड़ लगाते पैरा-एथलीट
+    credit: Ssu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bislett_Games_2024_-_100_meter_para_menn.jpg
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-2.webp
+    alt: 2000 Sydney Paralympic Games की एक दौड़ के दौरान अपने गाइड रनर के साथ दौड़ता एक दृष्टिबाधित ट्रैक एथलीट।
+    kind: representative
+    origin: third-party
+    subject: Paralympic Games में एक गाइड रनर से बंधा दौड़ता एक दृष्टिबाधित धावक
+    credit: Sport the library / Australian Paralympic Committee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:141100_-_Athletics_track_Gerrard_Gosens_guide_action_-_3b_-_2000_Sydney_race_photo.jpg
 ---
 
 जब चेआ लिएक होउ ने पेरिस 2024 में अपने SU5 बैडमिंटन स्वर्ण का बचाव किया, तो उस जीत ने पुष्टि की कि मलेशियाई पैरा खेल के पास अब चैंपियनों की एक अधिक ठोस कतार है, न कि केवल कभी-कभार की उपलब्धि। उस क्षण के पीछे एक विशिष्ट शासन संरचना है, जो अधिक प्रसिद्ध ओलंपिक दुनिया से अलग है।

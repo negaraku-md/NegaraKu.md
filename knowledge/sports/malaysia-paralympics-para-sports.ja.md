@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "457f33eb5b3c31ad"
+sourceContentHash: "16f1ecc7df5a29c1"
 
 status: "published"
 aiAssisted: true
@@ -101,6 +101,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sgt_1st_Class_Elizabeth_Marks_Competes_at_2023_Para_Swimming_World_Championships_(7942899).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-1.webp
+    alt: 2024年ビスレット・ゲームズの屋外トラックで100メートルのパラ陸上短距離を競う男子選手たち。
+    kind: representative
+    origin: third-party
+    subject: 国際パラ陸上大会で男子100メートルを疾走するパラアスリートたち
+    credit: Ssu / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bislett_Games_2024_-_100_meter_para_menn.jpg
+  - role: scene
+    src: /media/sports/malaysia-paralympics-para-sports/body-2.webp
+    alt: 2000年シドニー・パラリンピックのレースで、ガイドランナーと並んで疾走する視覚障がいのトラック選手。
+    kind: representative
+    origin: third-party
+    subject: パラリンピックでガイドランナーとロープでつながって走る視覚障がいの短距離選手
+    credit: Sport the library / Australian Paralympic Committee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:141100_-_Athletics_track_Gerrard_Gosens_guide_action_-_3b_-_2000_Sydney_race_photo.jpg
 ---
 
 チア・リクホウが2024年パリ大会でバドミントンSU5の金メダルを防衛したとき、その勝利は、マレーシアのパラスポーツがいまや、ときおりの一過性の成果ではなく、より確固たる王者の布陣を擁するに至ったことを裏づけた。その瞬間の背後には、より広く知られたオリンピックの世界とは切り離された、独自の統治構造が存在している。

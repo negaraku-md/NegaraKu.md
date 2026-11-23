@@ -38,7 +38,7 @@ faq:
     a: "राष्ट्रीय खेल संस्थान (ISN)। इसे राष्ट्रीय खेल संस्थान अधिनियम 2011 [Act 729] द्वारा वैधानिक आधार पर रखा गया है और यह खेल विज्ञान तथा खेल चिकित्सा सेवाएँ, सलाह और परामर्श प्रदान करने, अनुसंधान करने, और एथलीट प्रदर्शन के वैज्ञानिक पहलुओं पर मंत्री को सलाह देने का कार्य करता है।"
 
 lang: "hi"
-sourceContentHash: "6410f4b09d840cf0"
+sourceContentHash: "68614c252ec3d561"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -97,6 +97,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bukit_Jalil_National_Stadium_(220713).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-1.webp
+    alt: Bukit Jalil खेल परिसर में National Sports Council of Malaysia (Majlis Sukan Negara) की इमारत का बाहरी हिस्सा।
+    kind: actual
+    origin: third-party
+    subject: Bukit Jalil में National Sports Council of Malaysia (Majlis Sukan Negara) की इमारत
+    credit: '*angys* / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Majlis_Sukan_Negara_Malaysia%2C_Bukit_Jalil_%28220713%29.jpg
+  - role: scene
+    src: /media/sports/malaysian-sport-governance/body-2.webp
+    alt: National Aquatic Centre, Bukit Jalil, Kuala Lumpur में KL Sports City राष्ट्रीय खेल परिसर का एक हिस्सा।
+    kind: actual
+    origin: third-party
+    subject: KL Sports City राष्ट्रीय खेल परिसर के भीतर National Aquatic Centre
+    credit: WIL / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:KL_Sports_City_National_Aquatic_Centre.jpg
 ---
 
 जोहोर में एक नया फुटबॉल क्लब जर्सी खरीद सकता है, मैदान किराए पर ले सकता है और खिलाड़ियों को पंजीकृत कर सकता है — फिर भी वह किसी भी प्रतियोगिता में "मलेशिया" का प्रतिनिधित्व करने के लिए किसी को कानूनी रूप से नहीं भेज सकता। कारण पैसा या प्रतिभा नहीं है। यह सवाल है कि अनुमति कौन देता है। मलेशिया में, एक खेल निकाय के रूप में अस्तित्व का अधिकार, वित्तपोषित होने का अधिकार, और राष्ट्र का नाम धारण करने का अधिकार चार अलग-अलग संस्थानों से आते हैं जिन्हें अक्सर एक ही समझ लिया जाता है।

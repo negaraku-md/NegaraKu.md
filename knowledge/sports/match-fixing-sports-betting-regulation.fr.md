@@ -29,7 +29,7 @@ faq:
     a: "Selon les synthèses juridiques, une infraction de corruption est passible d'une peine d'emprisonnement pouvant aller jusqu'à 20 ans et d'une amende d'au moins cinq fois la valeur de la gratification ou RM10,000, selon le montant le plus élevé. Ces détails doivent être revérifiés face au texte intégral de la Loi."
 
 lang: "fr"
-sourceContentHash: "602c70742033a7cb"
+sourceContentHash: "dc6d2f464239db71"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -90,6 +90,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Football_Pitch_Ahmadu_Bello_Stadium_Kaduna.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/match-fixing-sports-betting-regulation/body-1.webp
+    alt: Un arbitre en tenue sombre dirigeant le jeu sur le terrain lors d'un match de football.
+    kind: representative
+    origin: third-party
+    subject: Un arbitre de match dirigeant le jeu sur le terrain lors d'un match de football
+    credit: Samson Ssemakadde / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Referee_during_a_football_match.jpg
+  - role: scene
+    src: /media/sports/match-fixing-sports-betting-regulation/body-2.webp
+    alt: Un arbitre procédant au tirage au sort à la pièce avec les deux capitaines au rond central avant le coup d'envoi d'un match de football.
+    kind: representative
+    origin: third-party
+    subject: Un arbitre effectuant le tirage au sort d'avant-match avec les capitaines des équipes
+    credit: Samson Ssemakadde / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Coin_tossing_before_before_a_football_match_between_players_and_referees.jpg
 ---
 
 Lorsque plus de 100 footballeurs ont été raflés par la police au cours de la saison 1993-1994, ce ne fut pas simplement une crise sportive — cela ouvrit une question juridique qui demeure aujourd'hui non entièrement résolue : comment un pays qui interdit presque tous les paris sportifs traite-t-il un crime né de ces mêmes paris ?

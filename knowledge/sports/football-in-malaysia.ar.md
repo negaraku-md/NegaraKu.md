@@ -73,7 +73,27 @@ sources:
     url: "https://www.freemalaysiatoday.com/category/nation/2026/06/12/harimau-malaya-climb-2-spots-in-fifa-rankings-to-136th"
     publisher: "Free Malaysia Today"
   - title: "وداعًا، سيد أحمد – الأسطورة الذي قاد منتخب الكرة إلى أولمبياد ميونيخ 1972 (So long, Syed Ahmad – the legend who steered football team to 1972 Munich Olympics)"
-    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad---the-legend-who-steered-football-team-to-1972-munich-olympics"
+    url: "https://www.thestar.com.my/sport/football/2022/06/02/so-long-syed-ahmad
+images:
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-1.webp
+    alt: مباراة كرة قدم جارية على أرضية Stadium Tuanku Abdul Rahman في Paroi بمدينة Seremban بولاية Negeri Sembilan.
+    kind: actual
+    origin: third-party
+    subject: مباراة كرة قدم في Stadium Tuanku Abdul Rahman في Paroi بولاية Negeri Sembilan
+    credit: Mohd Izzudin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Tuanku_Abdul_Rahman%2C_Paroi.jpg
+  - role: scene
+    src: /media/sports/football-in-malaysia/body-2.webp
+    alt: ملعب كرة صالات عام مكشوف في حي سكني بـ Kota Damansara في Petaling Jaya بولاية Selangor.
+    kind: actual
+    origin: third-party
+    subject: ملعب كرة صالات مجتمعي في Kota Damansara بولاية Selangor، بيئة شعبية للعبة الماليزية
+    credit: Wiki Farazi / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gelanggang_Futsal_Gugusan_Melati-Matahari%2C_Kota_Damansara_20260411_144912.jpg
+---the-legend-who-steered-football-team-to-1972-munich-olympics"
     publisher: "The Star"
   - title: "أين هم الآن: صنّاع تاريخ ماليزيا في كأس AFF سوزوكي 2010 (Where are they now: Malaysia's history makers of the 2010 AFF Suzuki Cup)"
     url: "https://www.espn.com/soccer/story/_/id/37622930/where-now-malaysia-history-makers-2010-aff-suzuki-cup"

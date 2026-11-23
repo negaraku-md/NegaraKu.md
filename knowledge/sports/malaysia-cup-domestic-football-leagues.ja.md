@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "fdb11bb0fa6c116e"
+sourceContentHash: "327a7350ca843637"
 
 status: "published"
 aiAssisted: true
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Perak_football_supporters,_2017_Malaysia_Cup_quarter-finals.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-1.webp
+    alt: 2012年マレーシア・カップ準決勝のクランタン対スランゴールで、ボールを奪い合う選手たち。
+    kind: actual
+    origin: third-party
+    subject: クランタンとスランゴールが対戦した2012年マレーシア・カップ準決勝
+    credit: Firdaus Latif / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kelantan_VS_Selangor_%288093646013%29.jpg
+  - role: scene
+    src: /media/sports/malaysia-cup-domestic-football-leagues/body-2.webp
+    alt: ジョホール州イスカンダル・プトゥリのスタジアム・スルタン・イブラヒム内の観客席とピッチの眺め。
+    kind: actual
+    origin: third-party
+    subject: スタジアム・スルタン・イブラヒムの内部。マレーシアを代表するリーグクラブの本拠地
+    credit: Zahirul Nukman / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Sultan_Ibrahim_1_19092022.jpg
 ---
 
 ほぼ一世紀にわたり、単一の団体——マレーシアサッカー協会（FAM）——が国内のすべてのリーグ戦を主催していた。その後、このスポーツの形を変える一手として、リーグを運営する権限が商業会社に移譲された。これが今日のマレーシア国内サッカーの仕組みの基礎である。
