@@ -18,7 +18,7 @@ keyTakeaways:
   - "تصفه الهيئات الاستشارية لليونسكو بأنه أعلى جبل بين الهيمالايا وغينيا الجديدة، ويحتضن ما يُقدَّر بـ 5,000-6,000 نوع من النباتات الوعائية بما في ذلك نحو 1,000 نوع من الأوركيد"
 appliesTo: "القرّاء الراغبون في الارتفاع المُتحقَّق منه ووضع الحماية لجبل كينابالو، وفي شرح بسيط لسبب حداثة جبل غرانيتي في صباح جيولوجياً إلى هذا الحدّ."
 lang: "ar"
-sourceContentHash: "5bc72b1b2e12a8e0"
+sourceContentHash: "84be13b81d6b6c84"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -65,6 +65,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-1.webp
+    alt: النتوء الصخري الجرانيتي الرمادي العاري والمسنن لقمة لو، أعلى نقطة في جبل كينابالو، يرتفع بحدة أمام سماء صافية فوق هضبة القمة القاحلة.
+    kind: actual
+    origin: third-party
+    subject: قمة لو (4,095 م)، ذروة جبل كينابالو، صباح
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-2.webp
+    alt: لقطة مقرّبة لإبريق مستدير عميق التضليع بلون أحمر برتقالي لنبات Nepenthes villosa آكل اللحوم، تحيط بفوهته حافة مسننة، ينمو في غابة المرتفعات الضبابية بحديقة كينابالو.
+    kind: actual
+    origin: third-party
+    subject: نبات الإبريق آكل اللحوم Nepenthes villosa، المستوطن في مرتفعات جبل كينابالو، في حديقة كينابالو
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nepenthes_villosa_Mount_Kinabalu_1.jpg
 ---
 
 لعقود، أعطى كل كتاب مرجعي الرقم نفسه: جبل كينابالو، أعلى قمة في ماليزيا، يقف على ارتفاع 4,101 متر فوق سطح البحر. ثم في 1997، صوّب فريق مسحٍ السواتل نحو القمة بدلاً من الثيودوليتات، فتغيّر الرقم. لا بسبب خطأ تقريب — بل بمقدار ستة أمتار. لم ينكمش الجبل. فالقياس القديم كان ببساطة خاطئاً، ولم يملك أحد الأداةَ لإثبات ذلك حتى جعل نظام تحديد المواقع (GPS) التصحيح ممكناً.

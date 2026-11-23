@@ -28,7 +28,7 @@ faq:
     a: "यह पहले से पूरे देश में पहचाना जाता था, आकर्षक रंग और आकार रखता था, एक समान नाम रखता था, आसानी से उपलब्ध था, और उस समय किसी अन्य देश का राष्ट्रीय पुष्प नहीं था।"
 
 lang: "hi"
-sourceContentHash: "a414dd0c6fc76423"
+sourceContentHash: "6d9941dd740b944e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Red_Hibiscus_Flower_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-1.webp
+    alt: एक कोण से देखा गया गहरे लाल रंग का गुड़हल का फूल, जिसकी लहरदार पंखुड़ियाँ नीचे की ओर झुके एक लंबे लाल पुंकेसर-स्तंभ को घेरती हैं, जिसका सिरा चमकीले पीले पराग और छोटे लाल वर्तिकाग्र खंडों से युक्त है, कोमल हरे पत्तों की पृष्ठभूमि के सामने।
+    kind: actual
+    origin: third-party
+    subject: लाल बुंगा राया (Hibiscus rosa-sinensis), मलेशिया का राष्ट्रीय फूल, अपने लंबे पुंकेसर-स्तंभ को दर्शाता हुआ
+    credit: Saadtitan12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Red_Hibiscus_rosa-sinensis_flower_close-up.jpg
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-2.webp
+    alt: एक मलेशियाई गाँव के बगीचे में पत्तेदार झाड़ी पर एक चमकीला लाल गुड़हल खिला है, इसका लंबा गुलाबी-लाल पुंकेसर-स्तंभ लटका हुआ है, पृष्ठभूमि में नारियल के पेड़ और धूप से भरा खुला लॉन है।
+    kind: actual
+    origin: third-party
+    subject: एक मलेशियाई गाँव के बगीचे में एक झाड़ी पर खिलता लाल बुंगा राया (Hibiscus rosa-sinensis)
+    credit: Amek Rohaida / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bunga_Raya_di_Kg_Kuala_Lah.jpg
 ---
 
 कभी सात प्रकार के फूलों ने एक नवस्वतंत्र राष्ट्र का प्रतिनिधित्व करने की होड़ की थी — और विजेता सबसे सुगंधित या सबसे दुर्लभ नहीं था, बल्कि वह था जो हर कस्बे और गाँव में सबसे परिचित था। वह फूल है बुंगा राया, यानी गुड़हल।

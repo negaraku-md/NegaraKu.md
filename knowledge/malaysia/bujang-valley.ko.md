@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "말레이 술탄국들이 생겨나기 이전 말레이 땅의 초기 문명의 기원을 이해하고자 하거나, 크다(Kedah)의 고고학 유적과 박물관 방문을 계획하는 모든 이."
 
 lang: "ko"
-sourceContentHash: "37c769aa2420a10a"
+sourceContentHash: "a60815f197356c7c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -81,6 +81,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:006_Bujang_Valley_Candi.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bujang-valley/body-1.webp
+    alt: 불그스름한 라테라이트 블록으로 쌓은 계단식 사각형 사원 기단이 목재와 기와로 된 개방형 보호 지붕 아래 맨땅 위에 서 있고, 그 너머로 초록빛 언덕과 숲이 보인다.
+    kind: actual
+    origin: third-party
+    subject: 케다주 부장 계곡 고고학 유적지에 복원된 찬디(힌두-불교 사원 기단)
+    credit: Blackhurrem / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Archaeological_Complex_of_Bujang_Valley_2.jpg
+  - role: scene
+    src: /media/malaysia/bujang-valley/body-2.webp
+    alt: 출토된 네 점의 토기와 유약을 바른 도자기 그릇—키 큰 짙은 색 주둥이 달린 항아리, 둥근 흰색 단지, 작은 그릇 두 개—이 조명이 켜진 박물관 전시 케이스 안의 투명한 받침대 위에 전시되어 있다.
+    kind: actual
+    origin: third-party
+    subject: 케다주 부장 계곡에서 출토되어 고고학 박물관에 전시된 도자기 그릇들
+    credit: Anandajoti Bhikkhu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:007_Bujang_Valley_Pottery.jpg
 ---
 
 구눙 제라이(Gunung Jerai) 인근의 평탄한 벌판, 논과 야자수 농장 사이에는, 말라카(Melaka)가 항구로 존재하기 수 세기 전에 쌓아 올려진 고대의 벽돌이 있습니다. 그 일부는 힌두 사원의 기초를 이룹니다. 또 다른 일부는 철 제련로입니다. 오늘날 이름이 알려진, 이곳에서 통치했던 술탄은 없습니다 — 그러나 그 사원과 제련로를 세운 사회가 남긴 것은 부장 계곡(Bujang Valley)을 동남아시아에서 가장 중요한 고고학 유적 중 하나로 만듭니다.

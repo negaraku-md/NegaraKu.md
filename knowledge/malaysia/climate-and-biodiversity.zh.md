@@ -61,7 +61,7 @@ keywords:
   - "monsoon Malaysia"
   - "MetMalaysia"
   - "MyBIS"
-sourceContentHash: "9a6c3f25f0c58105"
+sourceContentHash: "0658f2dcb7d1a474"
 framework: explainer
 hero: '/media/malaysia/climate-and-biodiversity/hero.webp'
 heroAlt: '一片广袤葱郁的绿色雨林树冠覆盖着起伏的山丘，远处渐渐隐入朦胧的蓝色山峦，上方是阴云密布的灰白天空。'
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-1.webp
+    alt: 一只锈橙色的年幼婆罗洲猩猩用一只手臂吊在树间拉起的绳索上，另一只手抓着绳子，背景是茂密的绿色雨林枝叶。
+    kind: actual
+    origin: third-party
+    subject: 一只年幼的婆罗洲猩猩（Pongo pygmaeus），一种仅见于婆罗洲雨林的大型类人猿
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_(Pongo_pygmaeus)_(14562544106).jpg
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-2.webp
+    alt: 一朵完全绽放的大王花躺在铺满落叶的林地上，五片厚实的红褐色花瓣上布满浅色的疣状斑点，环绕着中央深凹、开口的花杯。
+    kind: actual
+    origin: third-party
+    subject: 沙巴林地上一朵盛开的大王花（Rafflesia），世界上最大的花之一，是婆罗洲雨林中的一种寄生植物
+    credit: Rod Waddington / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rafflesia,_Sabah_(7247015058).jpg
 ---
 
 # 为什么马来西亚是世界超多样性国家之一

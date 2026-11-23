@@ -18,7 +18,7 @@ keyTakeaways:
   - "UNESCO的咨询机构将其形容为喜马拉雅山与新几内亚之间最高的山峰，公园内估计有5,000至6,000种维管植物，其中包括约1,000种兰花"
 appliesTo: "希望了解京那巴鲁山经核实的高度与保护区地位，以及为何沙巴的一座花岗岩山从地质学角度如此年轻的简明解释的读者。"
 lang: "zh"
-sourceContentHash: "5bc72b1b2e12a8e0"
+sourceContentHash: "84be13b81d6b6c84"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -65,6 +65,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-1.webp
+    alt: 罗氏峰裸露、嶙峋的灰色花岗岩尖峰——神山的最高点——在荒芜的峰顶高原之上，衬着晴朗的天空陡然耸立。
+    kind: actual
+    origin: third-party
+    subject: 罗氏峰（海拔4,095米），沙巴神山（京那巴鲁山）的顶峰
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-2.webp
+    alt: 食虫植物长毛猪笼草圆润、棱脊深凹的橙红色捕虫笼特写，笼口边缘布满锯齿状唇环，生长在京那巴鲁公园云雾缭绕的高地森林中。
+    kind: actual
+    origin: third-party
+    subject: 长毛猪笼草（Nepenthes villosa），一种京那巴鲁山高地特有的食虫猪笼草，摄于京那巴鲁公园
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nepenthes_villosa_Mount_Kinabalu_1.jpg
 ---
 
 数十年来，每一本参考书给出的数字都相同：马来西亚最高峰京那巴鲁山，海拔4,101米。然后在1997年，一支测量队将卫星而非经纬仪对准了峰顶，数字变了。不是四舍五入的误差——而是整整六米。这座山并没有变矮。旧的测量本来就是错的，只是在GPS令这一修正成为可能之前，没有人有工具证明这一点。

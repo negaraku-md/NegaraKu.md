@@ -20,7 +20,7 @@ appliesTo: "திதிவாங்சா மலைத்தொடர் என
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8f6fd36f8d34a324"
+sourceContentHash: "0e3b056469d40cd0"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -67,6 +67,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Peak_of_Banjaran_Titiwangsa.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-1.webp
+    alt: மென்மையான வானத்தின் கீழ் கேமரூன் மலைப்பகுதியில் உள்ள பாரத் தோட்டத்தின் அலைபோல் வளைந்த குன்றுகளை மூடியிருக்கும், நேர்த்தியாக வளைவுக் கோடுகளில் அமைந்த பிரகாசமான பச்சை தேயிலைச் செடிகளின் வரிசைகள்.
+    kind: actual
+    origin: third-party
+    subject: கேமரூன் மலைப்பகுதியில் உள்ள பாரத் தேயிலைத் தோட்டம், திதிவாங்சா மலைத்தொடரின் ஒரு பகுதி, பகாங்
+    credit: Jakub Hałun / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1514_4106.jpg
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-2.webp
+    alt: திதிவாங்சா மலைகளில் உள்ள பிரேசர்ஸ் ஹில் தலத்தில் பசுமையான காடுகள் சூழ்ந்த சரிவுகளுக்கு இடையே அமைந்துள்ள டியூடர் பாணிக் குடிசைகளும் ஒரு உணவகமும்.
+    kind: actual
+    origin: third-party
+    subject: பிரேசர்ஸ் ஹில் (புக்கிட் பிரேசர்), திதிவாங்சா மலைத்தொடரில் காலனித்துவ காலத்து மலைவாச தலம், பகாங்
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_8.jpg
 ---
 
 மத்திய பேராக்கில் உள்ள ஒரு மலைமுகட்டின் மேற்குப் பக்கத்தில் ஒரு தேங்காயைப் போடுங்கள், இறுதியில், அது அழுகி மலாக்கா நீரிணையை அடையும். அதே மலைமுகட்டின் மறுபக்கத்தில், சில நூறு மீட்டர் கிழக்கே ஒன்றைப் போடுங்கள், அது தென் சீனக் கடலில் போய்ச் சேரும். நிலப்பரப்பில் வேறு எதுவும் மாறவில்லை. அது கோட்டின் எந்தப் பக்கத்தில் விழுந்தது என்பது மட்டுமே.

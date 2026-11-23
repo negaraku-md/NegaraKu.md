@@ -18,7 +18,7 @@ keyTakeaways:
   - "유네스코 자문 기구들은 이를 히말라야와 뉴기니 사이에서 가장 높은 산으로 기술하며, 약 1,000종의 난초를 포함하여 추정 5,000~6,000종의 관다발식물이 서식합니다"
 appliesTo: "키나발루산(Mount Kinabalu)의 검증된 고도와 보호구역 지위, 그리고 사바(Sabah)의 화강암 산이 지질학적으로 왜 그토록 젊은지에 대한 평이한 설명을 원하는 독자."
 lang: "ko"
-sourceContentHash: "5bc72b1b2e12a8e0"
+sourceContentHash: "84be13b81d6b6c84"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -65,6 +65,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-1.webp
+    alt: 키나발루산의 최고점인 로스 피크의 헐벗고 뾰족한 회색 화강암 첨봉이 황량한 정상 고원 위로 맑은 하늘을 배경으로 가파르게 솟아 있다.
+    kind: actual
+    origin: third-party
+    subject: 로스 피크(해발 4,095m), 사바주 키나발루산의 정상
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-2.webp
+    alt: 식충식물 네펜테스 빌로사의 둥글고 깊은 능선이 있는 주황빛 붉은 포충낭을 가까이서 본 모습. 통의 입구는 톱니 모양의 가장자리로 둘러싸여 있으며, 안개가 자욱한 키나발루 공원의 고지대 숲에서 자라고 있다.
+    kind: actual
+    origin: third-party
+    subject: 네펜테스 빌로사(Nepenthes villosa), 키나발루산 고지대에 고유한 식충성 벌레잡이통풀, 키나발루 공원에서 촬영
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nepenthes_villosa_Mount_Kinabalu_1.jpg
 ---
 
 수십 년 동안 모든 참고 서적은 같은 숫자를 제시했습니다. 말레이시아의 최고봉 키나발루산은 해발 4,101미터라는 것이었습니다. 그러다 1997년, 한 측량팀이 세오돌라이트(경위의) 대신 위성을 정상에 겨누자 그 숫자가 바뀌었습니다. 반올림 오차 정도가 아니라 6미터나 달랐습니다. 산이 낮아진 것이 아닙니다. 옛 측정이 그저 틀렸을 뿐이며, GPS가 정정을 가능하게 하기 전까지는 이를 증명할 도구를 아무도 갖지 못했던 것입니다.

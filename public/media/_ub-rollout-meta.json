@@ -7720,7 +7720,30 @@
       "alt": "The broad grey granite summit crown of Mount Kinabalu, its ridge studded with jagged pinnacles, towering over green forested hills and a line of trees under a clear blue sky.",
       "kb": 171
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/malaysia/mount-kinabalu/body-1.webp",
+        "credit": "kallerna / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Low's Peak (4,095 m), the summit of Mount Kinabalu, Sabah",
+        "alt": "The bare, jagged grey-granite spire of Low's Peak, the highest point of Mount Kinabalu, rising sharply against a clear sky above the barren summit plateau.",
+        "kb": 177
+      },
+      {
+        "file": "/media/malaysia/mount-kinabalu/body-2.webp",
+        "credit": "kallerna / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Nepenthes_villosa_Mount_Kinabalu_1.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Nepenthes villosa, a carnivorous pitcher plant endemic to the highlands of Mount Kinabalu, in Kinabalu Park",
+        "alt": "Close-up of a rounded, deeply ribbed orange-red pitcher of the carnivorous Nepenthes villosa plant, its mouth fringed with a toothed rim, growing in the misty highland forest of Kinabalu Park.",
+        "kb": 136
+      }
+    ]
   },
   "malaysia/titiwangsa-range": {
     "hero": {
@@ -7734,7 +7757,30 @@
       "alt": "Densely forested green mountain ridges rolling into successive paler blue ridgelines toward the horizon, under a bright blue sky dotted with white clouds.",
       "kb": 109
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/malaysia/titiwangsa-range/body-1.webp",
+        "credit": "Jakub Hałun / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1514_4106.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Bharat tea plantation in the Cameron Highlands, part of the Titiwangsa Range, Pahang",
+        "alt": "Neatly contoured rows of bright green tea bushes blanketing the rolling hills of the Bharat plantation in the Cameron Highlands under a soft sky.",
+        "kb": 181
+      },
+      {
+        "file": "/media/malaysia/titiwangsa-range/body-2.webp",
+        "credit": "Slleong / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Frasers_Hill_8.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Fraser's Hill (Bukit Fraser), a colonial-era hill station in the Titiwangsa Range, Pahang",
+        "alt": "Tudor-style cottages and a restaurant nestled among lush green forested slopes at the Fraser's Hill station in the Titiwangsa mountains.",
+        "kb": 210
+      }
+    ]
   },
   "malaysia/malaysia-rivers": {
     "hero": {
@@ -7748,7 +7794,30 @@
       "alt": "A wide muddy-brown tropical river curving between banks lined with dense green rainforest and tall reeds, beneath a bright blue sky with scattered clouds.",
       "kb": 123
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/malaysia/malaysia-rivers/body-1.webp",
+        "credit": "Cerevisae / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:View_of_the_Rajang_river_in_the_evening.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Rajang River at dusk in Sarawak, Malaysia's longest river",
+        "alt": "The wide, calm expanse of the Rajang River reflecting a golden evening sky, bordered by the low forested banks of Sarawak fading into the distance.",
+        "kb": 51
+      },
+      {
+        "file": "/media/malaysia/malaysia-rivers/body-2.webp",
+        "credit": "Engin Akyurt / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Melaka River winding through the historic old town of Malacca City",
+        "alt": "The narrow Melaka River flowing between colourful riverside shophouses and waterfront walkways in the historic old town of Malacca.",
+        "kb": 173
+      }
+    ]
   },
   "malaysia/climate-and-biodiversity": {
     "hero": {
@@ -7762,7 +7831,30 @@
       "alt": "A vast carpet of lush green rainforest canopy covering rolling hills that fade into hazy blue ridges in the distance, under an overcast pale sky.",
       "kb": 144
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/malaysia/climate-and-biodiversity/body-1.webp",
+        "credit": "Bernard DUPONT / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_(Pongo_pygmaeus)_(14562544106).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A young Bornean orangutan (Pongo pygmaeus), a great ape found only in the rainforests of Borneo",
+        "alt": "A young rust-orange Bornean orangutan hangs by one arm from a rope strung between trees, its other hand gripping the line, set against a backdrop of dense green rainforest foliage.",
+        "kb": 175
+      },
+      {
+        "file": "/media/malaysia/climate-and-biodiversity/body-2.webp",
+        "credit": "Rod Waddington / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rafflesia,_Sabah_(7247015058).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A Rafflesia in full bloom on the forest floor in Sabah, one of the world's largest flowers and a parasitic plant of the Borneo rainforest",
+        "alt": "A fully open Rafflesia flower rests on the leaf-littered forest floor, its five thick reddish-brown lobes covered in pale wart-like spots surrounding a deep open central cup.",
+        "kb": 176
+      }
+    ]
   },
   "malaysia/portuguese-melaka-1511": {
     "hero": {
@@ -7804,7 +7896,30 @@
       "alt": "A restored stepped stone temple base of reddish laterite blocks at the Bujang Valley archaeological site in Kedah, set on a trimmed lawn backed by thick green jungle.",
       "kb": 277
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/malaysia/bujang-valley/body-1.webp",
+        "credit": "Blackhurrem / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Archaeological_Complex_of_Bujang_Valley_2.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A reconstructed candi (Hindu-Buddhist temple foundation) at the Bujang Valley archaeological complex, Kedah",
+        "alt": "A stepped, square temple base built of reddish laterite blocks stands on bare earth beneath an open timber-and-tile protective shelter, with green hills and forest visible beyond.",
+        "kb": 230
+      },
+      {
+        "file": "/media/malaysia/bujang-valley/body-2.webp",
+        "credit": "Anandajoti Bhikkhu / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:007_Bujang_Valley_Pottery.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Ceramic vessels excavated at the Bujang Valley, Kedah, on display in the archaeological museum",
+        "alt": "Four excavated earthenware and glazed ceramic vessels, a tall dark spouted jar, a round white pot and two small bowls, displayed on clear stands in a lit museum case.",
+        "kb": 132
+      }
+    ]
   },
   "malaysia/geography-overview": {
     "hero": {
@@ -7832,7 +7947,30 @@
       "alt": "A vivid red hibiscus flower in full bloom with ruffled petals and a yellow-tipped central stamen column, set against glossy green leaves.",
       "kb": 140
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/malaysia/bunga-raya-national-flower/body-1.webp",
+        "credit": "Saadtitan12 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Red_Hibiscus_rosa-sinensis_flower_close-up.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The red bunga raya (Hibiscus rosa-sinensis), Malaysia's national flower, showing its long staminal column",
+        "alt": "A deep-red hibiscus bloom seen at an angle, its ruffled petals framing a long red staminal column that arches downward, tipped with bright yellow pollen and small red stigma lobes, against soft green foliage.",
+        "kb": 47
+      },
+      {
+        "file": "/media/malaysia/bunga-raya-national-flower/body-2.webp",
+        "credit": "Amek Rohaida / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bunga_Raya_di_Kg_Kuala_Lah.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A red bunga raya (Hibiscus rosa-sinensis) blooming on a shrub in a Malaysian village garden",
+        "alt": "A vivid red hibiscus blooms on a leafy shrub in a Malaysian village garden, its long pink-red staminal column dangling, with coconut palms and sunlit open lawn in the background.",
+        "kb": 82
+      }
+    ]
   },
   "malaysia/urbanisation": {
     "hero": {
@@ -7901,6 +8039,1176 @@
       "subject": "The administrative city of Putrajaya, a federal territory, seen across Putrajaya Lake: the pink-domed Putra Mosque on the left and the green-domed Perdana Putra prime minister's office complex on the right.",
       "alt": "Putrajaya across the lake, with the pink-domed Putra Mosque and its tall minaret on the left and the green-domed Perdana Putra government complex on the right under a cloudy sky.",
       "kb": 155
+    },
+    "body": []
+  },
+  "malaysia/melaka-sultanate": {
+    "hero": {
+      "file": "/media/malaysia/melaka-sultanate/hero.webp",
+      "credit": "Adiput / Wikimedia Commons",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "The Melaka Sultanate Palace Museum (Istana Kesultanan Melaka), the wooden replica of the 15th-century sultan's palace in Melaka, Malaysia.",
+      "alt": "A sprawling timber palace with steeply stacked, multi-tiered grey roofs sits amid manicured tropical gardens, viewed from above with the historic town of Melaka spread out behind it.",
+      "kb": 174
+    },
+    "body": [
+      {
+        "file": "/media/malaysia/melaka-sultanate/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_A-Famosa-01.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "the A Famosa Portuguese fort gate (Porta de Santiago) in Melaka, built soon after the Sultanate's fall",
+        "alt": "A weathered grey stone gateway with an arched entrance and a small carved crest above it, standing alone on a green lawn under a bright sky; the last surviving gate of the A Famosa fortress in Melaka.",
+        "kb": 165
+      },
+      {
+        "file": "/media/malaysia/melaka-sultanate/body-2.webp",
+        "credit": "Grace Share Share / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Melaka_,_St_Paul%27s_Church_Photo_Shooting.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "the roofless ruins of St Paul's Church atop St Paul's Hill in Melaka",
+        "alt": "The roofless brick-and-stone shell of an old church on a hilltop, its empty window openings and crumbling walls glowing warm red-brown in daylight, with visitors walking among the ruins.",
+        "kb": 186
+      }
+    ]
+  },
+  "malaysia/straits-settlements": {
+    "hero": {
+      "file": "/media/malaysia/straits-settlements/hero.webp",
+      "credit": "Supanut Arunoprayote / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fort_Cornwallis,_Penang_(I).jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "The entrance gateway of Fort Cornwallis (built 1786) in George Town, Penang, Malaysia, the largest standing fort of the former British Straits Settlements.",
+      "alt": "A warmly lit timber-roofed gateway between weathered stone walls glows at dusk, its illuminated sign reading 'Fort Cornwallis 1786 Penang' above an open pathway leading into the fort grounds.",
+      "kb": 172
+    },
+    "body": [
+      {
+        "file": "/media/malaysia/straits-settlements/body-1.webp",
+        "credit": "Supanut Arunoprayote / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Penang_City_Hall_(cropped).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "the whitewashed colonial-era Penang City Hall in George Town, a Straits Settlements administrative building",
+        "alt": "A grand two-storey whitewashed colonial building with tall columned verandahs, arched windows and a symmetrical facade, set behind a manicured green lawn under a blue sky in George Town, Penang.",
+        "kb": 112
+      },
+      {
+        "file": "/media/malaysia/straits-settlements/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Penang_Malaysia-_Cheong-Fatt-Tze-Mansion-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "the indigo-blue Cheong Fatt Tze Mansion, a Straits Chinese merchant's courtyard house in George Town, Penang",
+        "alt": "The ornate facade of a large mansion painted a vivid indigo blue, with green louvered shutters, decorative eaves and a row of arched doorways, a landmark Straits Chinese courtyard house in George Town, Penang.",
+        "kb": 173
+      }
+    ]
+  },
+  "malaysia/monsoons": {
+    "hero": {
+      "file": "/media/malaysia/monsoons/hero.webp",
+      "credit": "Vyacheslav Argenberg / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "A heavy tropical rainstorm sweeping across a plaza in Kuala Lumpur, Malaysia, an honest stand-in for the torrential rain of Malaysia's monsoon seasons.",
+      "alt": "Wind-driven rain lashes a cluster of palm trees bending over a deserted, water-slicked city plaza, their fronds streaming sideways beneath a leaden grey sky as high-rise towers fade into the downpour.",
+      "kb": 84
+    },
+    "body": []
+  },
+  "malaysia/perak-sultanate": {
+    "hero": {
+      "file": "/media/malaysia/perak-sultanate/hero.webp",
+      "credit": "Gerd Fahrenhorst / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Istana_Iskandariah,_Kuala_Kangsar.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Istana Iskandariah, the official royal palace of the Sultan of Perak, in Bukit Chandan, Kuala Kangsar, Perak, Malaysia.",
+      "alt": "A white royal palace crowned with gilded onion domes rises behind an ornate black-and-white perimeter fence on a green hillside under a clear sky.",
+      "kb": 215
+    },
+    "body": [
+      {
+        "file": "/media/malaysia/perak-sultanate/body-1.webp",
+        "credit": "Miss Prema Darshini / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ubudiah_Mosque_Kuala_Kangsar.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "the Ubudiah Mosque, the Perak royal mosque in Kuala Kangsar, with its golden dome",
+        "alt": "A white mosque crowned by a large golden onion-shaped dome flanked by smaller gilded domes and four slender minarets, gleaming against a clear sky; the royal Ubudiah Mosque in Kuala Kangsar, Perak.",
+        "kb": 139
+      },
+      {
+        "file": "/media/malaysia/perak-sultanate/body-2.webp",
+        "credit": "Sabihahrazafa / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Istana_Hulu,_Kuala_Kangsar.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Istana Hulu, the former Perak royal palace in Kuala Kangsar, now the Sultan Azlan Shah Gallery",
+        "alt": "A stately cream-coloured colonial-era palace with arched windows, decorative balustrades and a symmetrical facade topped by small turrets, set behind a lawn under a bright sky; Istana Hulu in Kuala Kangsar, Perak.",
+        "kb": 154
+      }
+    ]
+  },
+  "malaysia/selangor-sultanate": {
+    "hero": {
+      "file": "/media/malaysia/selangor-sultanate/hero.webp",
+      "credit": "Wiki Farazi / Wikimedia Commons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Istana_Bandar_1.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Istana Bandar (Istana Sultan Alaeddin), a historic royal palace of the Selangor Sultanate in Kampung Bandar, Kuala Langat, Selangor, Malaysia.",
+      "alt": "A two-storey whitewashed colonial-era palace with a red tiled roof and a wide balustraded verandah stands on a manicured lawn fringed by coconut palms.",
+      "kb": 166
+    },
+    "body": [
+      {
+        "file": "/media/malaysia/selangor-sultanate/body-1.webp",
+        "credit": "Fumiko yabe / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Royal_Gallery_of_Sultan_Abdul_Aziz.JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Galeri Diraja Sultan Abdul Aziz (the Sultan Abdul Aziz Royal Gallery) in Klang, Selangor",
+        "alt": "A grand colonial-style white and cream heritage building with arched windows and a tiled roof, set behind lawns, housing the Selangor royal gallery in Klang.",
+        "kb": 143
+      },
+      {
+        "file": "/media/malaysia/selangor-sultanate/body-2.webp",
+        "credit": "Qaedi Shamsuddin / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Exterior_of_Masjid_Diraja_Sultan_Suleiman.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Masjid Diraja Sultan Sulaiman (the Sultan Sulaiman Royal Mosque) in Klang, Selangor",
+        "alt": "An elegant blue-and-white royal mosque with a large central dome, flanking domes and slender minarets rising against a clear sky in Klang.",
+        "kb": 164
+      }
+    ]
+  },
+  "malaysia/johor-riau-sultanate": {
+    "hero": {
+      "file": "/media/malaysia/johor-riau-sultanate/hero.webp",
+      "credit": "Chongkian / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "The Sultan Abu Bakar State Mosque, the royal state mosque of Johor, in Johor Bahru, Johor, Malaysia.",
+      "alt": "A grand white Victorian-style mosque with twin spired towers and blue-black domes rises above landscaped gardens beneath an overcast sky.",
+      "kb": 130
+    },
+    "body": [
+      {
+        "file": "/media/malaysia/johor-riau-sultanate/body-1.webp",
+        "credit": "Seloloving / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Johor_Istana_Besar_from_Woodlands_Waterfront_060925.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Istana Besar (the Grand Palace, now the Royal Abu Bakar Museum) in Johor Bahru, Johor",
+        "alt": "The white Istana Besar grand palace of Johor, with its stately facade and green-roofed tower, seen across the water from the Johor Strait waterfront.",
+        "kb": 141
+      },
+      {
+        "file": "/media/malaysia/johor-riau-sultanate/body-2.webp",
+        "credit": "Fxchua / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Perspective_View_of_Sultan_Ibrahim_Building.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Bangunan Sultan Ibrahim (the Sultan Ibrahim Building), the former Johor state secretariat in Johor Bahru",
+        "alt": "The imposing grey Sultan Ibrahim Building rising on a hill, a long symmetrical government block crowned by a tall central clock-and-Saracenic tower, viewed at an angle.",
+        "kb": 137
+      }
+    ]
+  },
+  "malaysia/pahang-sultanate": {
+    "hero": {
+      "file": "/media/malaysia/pahang-sultanate/hero.webp",
+      "credit": "Fikku fiq / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "The Sultan Abu Bakar Museum (the former royal residence, now the royal museum) in Pekan, Pahang, seat of the Pahang Sultanate.",
+      "alt": "A grand white colonial-era palace with red-tiled roofs and Jawi script above its arched entrance, mirrored in a still reflecting pool flanked by crane sculptures under a cloudy sky.",
+      "kb": 58
+    },
+    "body": []
+  },
+  "malaysia/jalur-gemilang": {
+    "hero": {
+      "file": "/media/malaysia/jalur-gemilang/hero.webp",
+      "credit": "MALS-malayan tiger / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Jalur_Gemilang_@_Dataran_Merdeka.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "The Malaysian national flag (Jalur Gemilang) flying from the flagpole at Dataran Merdeka (Merdeka Square), Kuala Lumpur.",
+      "alt": "The red-and-white striped Malaysian flag with its blue canton bearing a yellow crescent and fourteen-point star streams out fully from a tall white flagpole against a blue sky.",
+      "kb": 207
+    },
+    "body": []
+  },
+  "malaysia/kedah-sultanate": {
+    "hero": {
+      "file": "/media/malaysia/kedah-sultanate/hero.webp",
+      "credit": "Choomengfoo / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Zahir_Masjid.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "The Zahir Mosque (Masjid Zahir) in Alor Setar, Kedah, one of Malaysia's oldest and grandest royal mosques, associated with the Kedah Sultanate.",
+      "alt": "A majestic white Moorish mosque crowned by clustered black onion domes and slender minarets, its ornate arched facade rising above an open plaza beneath dramatic clouds.",
+      "kb": 166
+    },
+    "body": [
+      {
+        "file": "/media/malaysia/kedah-sultanate/body-1.webp",
+        "credit": "CK Tan / Wikimedia Commons",
+        "license": "CC BY 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Balai_Besar_Alor_Setar_-_panoramio.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Balai Besar (the royal audience hall) in Alor Setar, Kedah",
+        "alt": "The ornate timber Balai Besar royal audience hall in Alor Setar, a yellow open-sided pavilion with carved columns, scalloped eaves and a tiered roof.",
+        "kb": 166
+      },
+      {
+        "file": "/media/malaysia/kedah-sultanate/body-2.webp",
+        "credit": "Anasaiman / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Balai_Nobat.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Balai Nobat, the octagonal tower housing the Kedah royal nobat orchestra, in Alor Setar",
+        "alt": "The tall octagonal Balai Nobat tower in Alor Setar, a slim cream and gold minaret-like structure topped by a small onion dome, which houses the royal ceremonial orchestra.",
+        "kb": 71
+      }
+    ]
+  },
+  "malaysia/negeri-sembilan-royal-institution": {
+    "hero": {
+      "file": "/media/malaysia/negeri-sembilan-royal-institution/hero.webp",
+      "credit": "Don Christie / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Istana_Lama_Seri_Menanti_February_1964.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Istana Lama Seri Menanti, the historic four-storey all-timber Minangkabau-style royal palace at Seri Menanti, Negeri Sembilan.",
+      "alt": "A grand dark-timber palace crowned with a tall tiered tower and sweeping shingled roofs stands against forested hills beyond a wide green field.",
+      "kb": 165
+    },
+    "body": [
+      {
+        "file": "/media/malaysia/negeri-sembilan-royal-institution/body-1.webp",
+        "credit": "Adiput / Wikimedia Commons",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Seri_Menanti_palace.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Istana Besar Seri Menanti, the current royal palace of Negeri Sembilan",
+        "alt": "A stately cream royal palace with symmetrical wings and twin gabled towers, set behind manicured gardens below forested hills at Seri Menanti.",
+        "kb": 115
+      },
+      {
+        "file": "/media/malaysia/negeri-sembilan-royal-institution/body-2.webp",
+        "credit": "AyyanD / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Wisma_Negeri_complex,_Seremban.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Wisma Negeri, the Minangkabau-roofed state administrative building, in Seremban",
+        "alt": "A tall modern government tower crowned with dramatic upswept Minangkabau buffalo-horn roofs, rising above lower wings and lawns in central Seremban.",
+        "kb": 104
+      }
+    ]
+  },
+  "malaysia/terengganu-sultanate": {
+    "hero": {
+      "file": "/media/malaysia/terengganu-sultanate/hero.webp",
+      "credit": "Abie Sudiono / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Maziah_Palace,_Kuala_Terengganu.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Istana Maziah, the royal palace of the Terengganu Sultanate in Kuala Terengganu.",
+      "alt": "A cream-and-gold colonial-style palace with red-tiled turrets and arched arcades sits bathed in sunlight under a deep blue sky beyond a broad lawn.",
+      "kb": 161
+    },
+    "body": [
+      {
+        "file": "/media/malaysia/terengganu-sultanate/body-1.webp",
+        "credit": "ToofanwikiCommon / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Abidin_Mosque_(old_state_royal_mosque),_Kuala_Terengganu,_Malaysia.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Masjid Abidin, the old Terengganu state royal mosque, in Kuala Terengganu",
+        "alt": "A gleaming white mosque with a large golden central dome flanked by smaller domes and a tall minaret, set behind a walled courtyard under a bright tropical sky.",
+        "kb": 85
+      },
+      {
+        "file": "/media/malaysia/terengganu-sultanate/body-2.webp",
+        "credit": "PenangLion / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_drawbridge,_August_2025.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Jambatan Angkat (the Kuala Terengganu Drawbridge) over the Terengganu River",
+        "alt": "A long modern drawbridge spanning a wide river, carried on sweeping white arches between two tall observation towers, with the town skyline along the far bank.",
+        "kb": 134
+      }
+    ]
+  },
+  "malaysia/kelantan-sultanate": {
+    "hero": {
+      "file": "/media/malaysia/kelantan-sultanate/hero.webp",
+      "credit": "Comelote / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Istana Jahar, the ornate historic royal palace in Kota Bharu, now the Kelantan Royal Ceremonies Museum (Muzium Adat Istiadat).",
+      "alt": "An ornate black timber palace with yellow pillars, carved fascias and tiered roofs rises behind a vintage horse carriage parked on a circular brick forecourt.",
+      "kb": 153
+    },
+    "body": [
+      {
+        "file": "/media/malaysia/kelantan-sultanate/body-1.webp",
+        "credit": "Comelote / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Istana_Batu.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Istana Batu (the Kelantan Royal Museum / Muzium DiRaja) in Kota Bharu",
+        "alt": "A graceful pale-yellow 1930s royal residence with wide arched verandahs, shuttered windows and a low tiled roof, now the Kelantan Royal Museum, set behind a lawn in the Kota Bharu royal quarter.",
+        "kb": 137
+      },
+      {
+        "file": "/media/malaysia/kelantan-sultanate/body-2.webp",
+        "credit": "Neponenpasila / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Street_view_of_the_Muhammadi_Mosque.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Masjid Muhammadi, the Kelantan state mosque, in Kota Bharu",
+        "alt": "A grand cream-and-white state mosque with a broad central dome, corner cupolas and a soaring minaret, seen from the street behind iron railings under a blue sky.",
+        "kb": 172
+      }
+    ]
+  },
+  "malaysia/nine-royal-houses": {
+    "hero": {
+      "file": "/media/malaysia/nine-royal-houses/hero.webp",
+      "credit": "EmpAhmadK / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Istana_Negara_15.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "The ornate ceremonial main gatehouse of the new Istana Negara (National Palace) on Jalan Tuanku Abdul Halim, Kuala Lumpur, official residence of the Yang di-Pertuan Agong.",
+      "alt": "The grand arched gatehouse of the National Palace, crowned with twin gold onion domes and a gilded gate bearing the royal crest, stands against a clear blue sky.",
+      "kb": 168
+    },
+    "body": [
+      {
+        "file": "/media/malaysia/nine-royal-houses/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-02.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Istana Negara, the national palace on Jalan Tuanku Abdul Halim, Kuala Lumpur",
+        "alt": "A wide daytime view of Malaysia's national palace, a long cream-and-white complex crowned by golden onion domes set on a landscaped rise behind perimeter fencing.",
+        "kb": 165
+      },
+      {
+        "file": "/media/malaysia/nine-royal-houses/body-2.webp",
+        "credit": "Gryffindor / Wikimedia Commons",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Istana_Negara_KL_12_2007_019.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The former Istana Negara on Jalan Istana, Kuala Lumpur, now the Royal Museum (Muzium Diraja)",
+        "alt": "The old Istana Negara, a stately cream-coloured palace with a prominent dome and arched facade among tropical greenery, Malaysia's former national palace now preserved as the Royal Museum.",
+        "kb": 117
+      }
+    ]
+  },
+  "malaysia/malay-sultanate-system": {
+    "hero": {
+      "file": "/media/malaysia/malay-sultanate-system/hero.webp",
+      "credit": "Akml5599 / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Istana_Kenangan_front_view.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Istana Kenangan in Kuala Kangsar, Perak, a historic woven-bamboo-walled timber royal palace now serving as the Perak Royal Museum.",
+      "alt": "A traditional Malay timber palace with woven bamboo walls, steep tiled roofs and carved gables stands beneath a bright sky.",
+      "kb": 106
+    },
+    "body": []
+  },
+  "malaysia/brunei-sultanate": {
+    "hero": {
+      "file": "/media/malaysia/brunei-sultanate/hero.webp",
+      "credit": "sam garza from Los Angeles, USA / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "The Sultan Omar Ali Saifuddien Mosque in Bandar Seri Begawan, Brunei, a landmark of the historical Brunei Sultanate.",
+      "alt": "A golden-domed white mosque with a tall minaret glows above its lagoon and ceremonial stone barge at dusk.",
+      "kb": 130
+    },
+    "body": [
+      {
+        "file": "/media/malaysia/brunei-sultanate/body-1.webp",
+        "credit": "Tourism Development Department of Brunei / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kampong_Ayer_Brunei_Darussalam.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Kampong Ayer, the historic stilt water village on the Brunei River, Bandar Seri Begawan",
+        "alt": "Clusters of wooden stilt houses and connecting walkways spread across the calm Brunei River, the centuries-old water village at the historic heart of Brunei's capital.",
+        "kb": 165
+      },
+      {
+        "file": "/media/malaysia/brunei-sultanate/body-2.webp",
+        "credit": "Xiquinho Silva / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lapau_Brunei_2024_01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Lapau, Brunei's royal ceremonial hall, in Bandar Seri Begawan",
+        "alt": "The Lapau, Brunei's royal ceremonial hall where the sultans are crowned, set among landscaped gardens and flowering shrubs in Bandar Seri Begawan.",
+        "kb": 170
+      }
+    ]
+  },
+  "malaysia/federated-unfederated-states": {
+    "hero": {
+      "file": "/media/malaysia/federated-unfederated-states/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Sultan-Abdul-Samad-Building-05.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "The Sultan Abdul Samad Building in Kuala Lumpur, the Moorish-style former Federated Malay States government secretariat on Dataran Merdeka.",
+      "alt": "A long Moorish facade of ochre brick and white arches crowned by copper domes and a tall central clock tower under a blue sky.",
+      "kb": 151
+    },
+    "body": [
+      {
+        "file": "/media/malaysia/federated-unfederated-states/body-1.webp",
+        "credit": "FBilula / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Ipoh Railway Station, a British colonial-era landmark in Perak",
+        "alt": "The gleaming white colonial Ipoh Railway Station, a long Edwardian-Moorish building with arched colonnades and domed towers built under British rule in Perak.",
+        "kb": 156
+      },
+      {
+        "file": "/media/malaysia/federated-unfederated-states/body-2.webp",
+        "credit": "Two hundred percent / Wikimedia Commons",
+        "license": "CC BY-SA 2.5",
+        "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_railway_station_(Rawang-Seremban_%26_Sentul-Port_Klang_Line)_(frontal_facade),_Kuala_Lumpur.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The old Kuala Lumpur Railway Station (1910), a Moorish-style British-era terminus",
+        "alt": "The ornate white facade of the old Kuala Lumpur Railway Station, a British colonial building of Moorish horseshoe arches, cupolas and minaret-like spires completed in 1910.",
+        "kb": 152
+      }
+    ]
+  },
+  "malaysia/formation-of-malaysia-1963": {
+    "hero": {
+      "file": "/media/malaysia/formation-of-malaysia-1963/hero.webp",
+      "credit": "Don Christie / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Malaysia Day celebrations in Singapore on 16 September 1963, when Malaya, Singapore, Sabah and Sarawak joined to form Malaysia.",
+      "alt": "A 1963 street scene of crowds and decorated buildings celebrating the first Malaysia Day in Singapore.",
+      "kb": 167
+    },
+    "body": [
+      {
+        "file": "/media/malaysia/formation-of-malaysia-1963/body-1.webp",
+        "credit": "Jason Thien / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Panorama_of_Greater_Kota_Kinabalu.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Kota Kinabalu, capital of Sabah, one of the Borneo states that joined to form Malaysia in 1963",
+        "alt": "A sweeping panorama of the Kota Kinabalu skyline in Sabah, high-rise towers rising above green treetops with the coastline and hills beyond, representing the Borneo state that joined Malaysia in 1963.",
+        "kb": 176
+      },
+      {
+        "file": "/media/malaysia/formation-of-malaysia-1963/body-2.webp",
+        "credit": "Fabio Achilli / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Waterfront,_Kuching,_Sarawak_2.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "The Kuching Waterfront along the Sarawak River, Sarawak, which joined to form Malaysia in 1963",
+        "alt": "The landscaped Kuching Waterfront esplanade stretching along the Sarawak River, with the old city skyline across the water, representing Sarawak's entry into the Federation of Malaysia in 1963.",
+        "kb": 175
+      }
+    ]
+  },
+  "malaysia/malayan-union": {
+    "hero": {
+      "file": "/media/malaysia/malayan-union/hero.webp",
+      "credit": "mulberry leaves / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Carcosa_Seri_Negara.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Carcosa Seri Negara in Kuala Lumpur, the former residence of the British High Commissioner during the colonial period of the Malayan Union and Federation of Malaya.",
+      "alt": "A grand colonial mansion of cream walls and a red-tiled roof set among manicured lawns and tropical greenery.",
+      "kb": 155
+    },
+    "body": []
+  },
+  "malaysia/srivijaya": {
+    "hero": {
+      "file": "/media/malaysia/srivijaya/hero.webp",
+      "credit": "Gunawan Kartapranata / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Buddha_Seguntang_Palembang.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "A monumental granite Buddha statue unearthed at Bukit Seguntang, the sacred hill at the heart of Srivijaya's capital at Palembang in Sumatra, now displayed in a Palembang museum.",
+      "alt": "A weathered grey granite Buddha, legs lost, standing serene against green foliage on the sacred hill of Srivijaya's old capital.",
+      "kb": 65
+    },
+    "body": []
+  },
+  "malaysia/langkasuka": {
+    "hero": {
+      "file": "/media/malaysia/langkasuka/hero.webp",
+      "credit": "abdullatif hamidin / Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Candi_Batu_Pahat_of_Bujang_Valley.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "The reconstructed Candi Bukit Batu Pahat (c. 6th century) in the Bujang Valley, Kedah, a Hindu-Buddhist temple of the early Kedah civilisation of the same region and era associated with Langkasuka, whose own capital site remains archaeologically unconfirmed.",
+      "alt": "A low stepped stone temple plinth on a grassy clearing framed by palms and green hills in the Bujang Valley.",
+      "kb": 179
+    },
+    "body": []
+  },
+  "malaysia/gangga-negara": {
+    "hero": {
+      "file": "/media/malaysia/gangga-negara/hero.webp",
+      "credit": "Gryffindor / Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Muzium_Negara_KL30.JPG",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "An eighth-to-ninth-century bronze Avalokiteshvara found at Bidor, Perak in 1936, now in the National Museum, Kuala Lumpur, a genuine Perak Hindu-Buddhist artefact of the era linked to the Gangga Negara legend, not an object tied to the unconfirmed kingdom itself.",
+      "alt": "A slender, many-armed bronze bodhisattva figure, green with age, lit against a dark museum backdrop.",
+      "kb": 133
+    },
+    "body": []
+  },
+  "malaysia/independence-1957": {
+    "hero": {
+      "file": "/media/malaysia/independence-1957/hero.webp",
+      "credit": "Malaysian and British Government (1957) / Wikimedia Commons",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Merdeka_1957_tunku_abdul_rahman.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Tunku Abdul Rahman raises his hand during the proclamation of Malaya's independence on 31 August 1957.",
+      "alt": "Tunku Abdul Rahman stands before a crowd, hand raised, at the historic 1957 Merdeka independence proclamation.",
+      "kb": 119
+    },
+    "body": [
+      {
+        "file": "/media/malaysia/independence-1957/body-1.webp",
+        "credit": "Malaysian1966 / Wikimedia Commons",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Stadium_Merdeka_Kuala_Lumpur_2007.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Stadium Merdeka, Kuala Lumpur, where independence was proclaimed on 31 August 1957",
+        "alt": "The curved grandstand and open oval of Stadium Merdeka in Kuala Lumpur under a bright sky, the historic arena where Malaya's independence was declared.",
+        "kb": 173
+      },
+      {
+        "file": "/media/malaysia/independence-1957/body-2.webp",
+        "credit": "Radosław Botev / Wikimedia Commons",
+        "license": "CC BY 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Flagpole_of_Dataran_Merdeka.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The giant flagpole at Dataran Merdeka (Merdeka Square), Kuala Lumpur",
+        "alt": "The towering white flagpole of Dataran Merdeka rising high above the green lawn of Merdeka Square in Kuala Lumpur, where the Union Jack was lowered at midnight in 1957.",
+        "kb": 153
+      }
+    ]
+  },
+  "malaysia/national-day-vs-malaysia-day": {
+    "hero": {
+      "file": "/media/malaysia/national-day-vs-malaysia-day/hero.webp",
+      "credit": "Rizuan / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:55th_Merdeka_Day_Picture_09.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "A Malaysian Army music band marches on parade during the 55th National Day Parade at Merdeka Square, Kuala Lumpur.",
+      "alt": "Uniformed military bandsmen march in formation past spectators during Malaysia's Merdeka Day parade at Dataran Merdeka.",
+      "kb": 165
+    },
+    "body": [
+      {
+        "file": "/media/malaysia/national-day-vs-malaysia-day/body-1.webp",
+        "credit": "Rizuan / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:59th_Merdeka_Day,_Picture_15.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Uniformed contingents parading with the Jalur Gemilang at the 59th Merdeka Day celebrations",
+        "alt": "Rows of uniformed officers marching in formation while carrying the red, white, blue and yellow Jalur Gemilang and other flags during a Merdeka Day parade.",
+        "kb": 174
+      },
+      {
+        "file": "/media/malaysia/national-day-vs-malaysia-day/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Hari-Merdeka-2013-Parade-230.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Celebrants waving the Jalur Gemilang during national day festivities in Kota Kinabalu, Sabah",
+        "alt": "A smiling crowd in Kota Kinabalu, Sabah, proudly raising and waving the Malaysian national flag during an open-air national day celebration in East Malaysia.",
+        "kb": 141
+      }
+    ]
+  },
+  "malaysia/wawasan-2020": {
+    "hero": {
+      "file": "/media/malaysia/wawasan-2020/hero.webp",
+      "credit": "Jorge Láscar / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_(18977925005).jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "The Petronas Twin Towers rise above the Kuala Lumpur skyline, the emblem of Malaysia's modernisation drive.",
+      "alt": "The gleaming Petronas Twin Towers soar above the Kuala Lumpur skyline under a bright sky.",
+      "kb": 34
+    },
+    "body": [
+      {
+        "file": "/media/malaysia/wawasan-2020/body-1.webp",
+        "credit": "Radosław Botev / Wikimedia Commons",
+        "license": "CC BY 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Fountain_in_KLCC_Park_(1).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The fountain at KLCC Park, in the Kuala Lumpur City Centre",
+        "alt": "Jets of water arc from the Symphony Lake fountain in KLCC Park, framed by manicured green lawns and landscaped city greenery beneath a bright tropical sky.",
+        "kb": 166
+      },
+      {
+        "file": "/media/malaysia/wawasan-2020/body-2.webp",
+        "credit": "Sean Doan / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Merdeka_PNB_118,_Kuala_Lumpur.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Merdeka 118 tower, one of the world's tallest buildings, in Kuala Lumpur",
+        "alt": "The slender, diamond-faceted Merdeka 118 skyscraper tapers to a tall spire high above the Kuala Lumpur skyline, one of the tallest buildings in the world.",
+        "kb": 95
+      }
+    ]
+  },
+  "malaysia/singapore-separation-1965": {
+    "hero": {
+      "file": "/media/malaysia/singapore-separation-1965/hero.webp",
+      "credit": "Ralff Nestor Nacor / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Johor_Causeway_from_Malaysia.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "The Johor-Singapore Causeway, the physical land link across the Straits of Johor connecting Malaysia and Singapore, which separated from Malaysia in 1965.",
+      "alt": "The Johor-Singapore Causeway stretches low across the shimmering Straits of Johor, carrying road and rail toward the Singapore shoreline on the horizon as seen from the Malaysian side.",
+      "kb": 143
+    },
+    "body": []
+  },
+  "malaysia/reid-commission": {
+    "hero": {
+      "file": "/media/malaysia/reid-commission/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Bangunan_Parlimen_Malaysia-01.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Bangunan Parlimen in Kuala Lumpur, the Parliament House of Malaysia, embodying the constitutional order the Reid Commission's 1957 constitution created.",
+      "alt": "Malaysia's Parliament House stands in landscaped grounds in Kuala Lumpur, its slender office tower and sculptural ribbed legislative chamber gleaming in bright daylight.",
+      "kb": 172
+    },
+    "body": []
+  },
+  "malaysia/new-economic-policy": {
+    "hero": {
+      "file": "/media/malaysia/new-economic-policy/hero.webp",
+      "credit": "Stefan Fussan / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "The federal government precinct at Putrajaya, with the rose-domed Putra Mosque and the Perdana Putra complex, representing national development.",
+      "alt": "The pink-domed Putra Mosque and the grand Perdana Putra administrative complex overlook a calm lake in Putrajaya, Malaysia's purpose-built federal capital.",
+      "kb": 155
+    },
+    "body": [
+      {
+        "file": "/media/malaysia/new-economic-policy/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Seri Wawasan Bridge over Putrajaya Lake, in the federal administrative capital",
+        "alt": "The white, sail-shaped pylon of the cable-stayed Seri Wawasan Bridge rises over the calm waters of Putrajaya Lake, steel cables fanning out to its deck.",
+        "kb": 153
+      },
+      {
+        "file": "/media/malaysia/new-economic-policy/body-2.webp",
+        "credit": "Balou46 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:MY-putrajaya-putra-bridge.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Putra Bridge (Jambatan Putra) over Putrajaya Lake, in the federal administrative capital",
+        "alt": "The Isfahan-inspired Putra Bridge arches across Putrajaya Lake, its tiled minaret-like piers and pointed arches reflected in the water beneath a blue sky.",
+        "kb": 148
+      }
+    ]
+  },
+  "malaysia/tunku-abdul-rahman": {
+    "hero": {
+      "file": "/media/malaysia/tunku-abdul-rahman/hero.webp",
+      "credit": "Harry Pot / Anefo (Dutch National Archives) / Wikimedia Commons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tunku_Abdul_Rahman_1960.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Tunku Abdul Rahman, the first Prime Minister of Malaya and Malaysia, who led the country to independence in 1957 and governed until 1970.",
+      "alt": "Tunku Abdul Rahman in a black songkok, horn-rimmed glasses and a dark overcoat and tie, photographed in black and white before an aircraft during a 1960 visit.",
+      "kb": 75
+    },
+    "body": []
+  },
+  "malaysia/abdul-razak-hussein": {
+    "hero": {
+      "file": "/media/malaysia/abdul-razak-hussein/hero.webp",
+      "credit": "Malaysian Government / Wikimedia Commons",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Tun_Abdul_Razak_Official_Portrait.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Abdul Razak Hussein, the second Prime Minister of Malaysia (1970-1976) and architect of the New Economic Policy.",
+      "alt": "Abdul Razak Hussein in a black songkok and dark suit with a patterned blue tie, facing forward in a formal official portrait against a gold brocade curtain.",
+      "kb": 88
+    },
+    "body": []
+  },
+  "malaysia/mahathir-mohamad": {
+    "hero": {
+      "file": "/media/malaysia/mahathir-mohamad/hero.webp",
+      "credit": "U.S. Embassy Kuala Lumpur / Wikimedia Commons",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Mahathir_Mohamad_in_August_2018.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Mahathir Mohamad, Malaysia's fourth and seventh Prime Minister, in an official portrait during his 2018 term in office.",
+      "alt": "Silver-haired Mahathir Mohamad smiles warmly in a grey suit bearing a 'Mahathir' name tag before an intricately carved wooden screen.",
+      "kb": 57
+    },
+    "body": []
+  },
+  "malaysia/abdullah-ahmad-badawi": {
+    "hero": {
+      "file": "/media/malaysia/abdullah-ahmad-badawi/hero.webp",
+      "credit": "World Economic Forum / swiss-image.ch / Gian Vaitl / Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Abdullah_Badawi_2007.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Abdullah Ahmad Badawi, Malaysia's fifth Prime Minister, photographed at the World Economic Forum in 2007.",
+      "alt": "A composed Abdullah Ahmad Badawi in a dark suit and open-collared shirt gazes thoughtfully upward while seated before a World Economic Forum backdrop.",
+      "kb": 42
+    },
+    "body": []
+  },
+  "malaysia/najib-razak": {
+    "hero": {
+      "file": "/media/malaysia/najib-razak/hero.webp",
+      "credit": "World Economic Forum / Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mohd_Najib_Bin_Tun_Abdul_Razak_World_Economic_Forum_2013.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Najib Razak, Malaysia's sixth Prime Minister, speaking during a World Economic Forum session in 2013.",
+      "alt": "Najib Razak gestures mid-sentence in a dark suit and red patterned tie, seated against a softly lit blue 'Forum' backdrop.",
+      "kb": 87
+    },
+    "body": []
+  },
+  "malaysia/muhyiddin-yassin": {
+    "hero": {
+      "file": "/media/malaysia/muhyiddin-yassin/hero.webp",
+      "credit": "Universiti Malaysia Sarawak (UNIMAS) / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Muhyiddin_Yassin_(51087589446)_(cropped).jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Muhyiddin Yassin, the eighth Prime Minister of Malaysia (2020-2021).",
+      "alt": "Grey-haired Muhyiddin Yassin in rimless glasses and a dark suit with a Malaysian emblem lapel pin speaks into a microphone against a blue backdrop.",
+      "kb": 79
+    },
+    "body": []
+  },
+  "malaysia/anwar-ibrahim": {
+    "hero": {
+      "file": "/media/malaysia/anwar-ibrahim/hero.webp",
+      "credit": "Laily Rachev / BPMI Setpres (Indonesian Presidential Secretariat) / Wikimedia Commons",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Anwar_Ibrahim_20230608.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Anwar Ibrahim, the tenth and current Prime Minister of Malaysia (2022-present).",
+      "alt": "Anwar Ibrahim in a dark suit and blue tie faces the camera in an upper-body portrait taken at an official state visit.",
+      "kb": 47
+    },
+    "body": []
+  },
+  "malaysia/ismail-sabri-yaakob": {
+    "hero": {
+      "file": "/media/malaysia/ismail-sabri-yaakob/hero.webp",
+      "credit": "U.S. Department of State / Wikimedia Commons",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Ismail_Sabri_in_the_White_House_(cropped,_3to4_portrait).jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Ismail Sabri Yaakob, the ninth Prime Minister of Malaysia (2021-2022).",
+      "alt": "Ismail Sabri Yaakob, grey-haired and wearing rimless glasses and a dark suit, in a close head-and-shoulders portrait at an official reception.",
+      "kb": 67
+    },
+    "body": []
+  },
+  "malaysia/japanese-occupation": {
+    "hero": {
+      "file": "/media/malaysia/japanese-occupation/hero.webp",
+      "credit": "No 9 Army Film & Photographic Unit (Sgt A. W. Stubbs), Imperial War Museums / Wikimedia Commons",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Japanese_Surrender_at_Singapore,_1945_SE4733.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "A brass band leads residents in a public parade in September 1945 marking the end of the Japanese occupation.",
+      "alt": "A military brass band leads a crowd of civilians marching along a street during a 1945 parade marking the end of Japanese rule.",
+      "kb": 151
+    },
+    "body": []
+  },
+  "malaysia/the-emergency": {
+    "hero": {
+      "file": "/media/malaysia/the-emergency/hero.webp",
+      "credit": "British official photographer, Imperial War Museums (IWM K 14005) / Wikimedia Commons",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:THE_MALAYAN_EMERGENCY_1948-1960_K14005.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "Soldiers return to camp in Pahang after a jungle patrol during the Malayan Emergency (1948-1960).",
+      "alt": "A file of uniformed soldiers wades back through a flooded paddy field toward camp after a jungle patrol.",
+      "kb": 122
+    },
+    "body": []
+  },
+  "malaysia/konfrontasi": {
+    "hero": {
+      "file": "/media/malaysia/konfrontasi/hero.webp",
+      "credit": "Chainwit. / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Memorial_to_the_Victims_of_Konfrontasi,_Dhoby_Ghaut_Green_(2025)_-_img_01.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "The memorial at Dhoby Ghaut Green commemorating the victims of the 1963-66 Indonesia-Malaysia Confrontation (Konfrontasi).",
+      "alt": "A stone memorial set in a landscaped urban green space commemorating those killed in the Indonesia-Malaysia Confrontation.",
+      "kb": 167
+    },
+    "body": []
+  },
+  "malaysia/second-communist-insurgency-1968-1989": {
+    "hero": {
+      "file": "/media/malaysia/second-communist-insurgency-1968-1989/hero.webp",
+      "credit": "Renek78 / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tugu_Negara_Kuala_Lumpur_1.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Tugu Negara, Malaysia's National Monument in Kuala Lumpur, commemorating those who died in the nation's struggle for freedom, including against the communist insurgencies.",
+      "alt": "The bronze Tugu Negara National Monument in Kuala Lumpur, a group of soldier figures raising a flag, standing against an open sky.",
+      "kb": 158
+    },
+    "body": []
+  },
+  "malaysia/sabah-sulu-claim": {
+    "hero": {
+      "file": "/media/malaysia/sabah-sulu-claim/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:LahadDatu_Sabah_TownView-05.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "A calm street view of Lahad Datu town on the east coast of Sabah, the district at the centre of the Sulu claim and the 2013 incursion.",
+      "alt": "A roundabout and low buildings in the town centre of Lahad Datu, Sabah, under a bright sky.",
+      "kb": 168
+    },
+    "body": []
+  },
+  "malaysia/rise-of-malay-nationalism": {
+    "hero": {
+      "file": "/media/malaysia/rise-of-malay-nationalism/hero.webp",
+      "credit": "Ibrahim Yaacob (Sekitar Malaya Merdeka, 1953) / Wikimedia Commons",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Ibrahim_Yaacob.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Ibrahim Yaacob, founder of the pre-war Malay nationalist movement Kesatuan Melayu Muda and a leading figure in the rise of Malay political nationalism in the 1930s and 1940s.",
+      "alt": "A black-and-white portrait of the Malay nationalist leader Ibrahim Yaacob in a buttoned jacket.",
+      "kb": 168
+    },
+    "body": []
+  },
+  "malaysia/what-malaysia-is": {
+    "hero": {
+      "file": "/media/malaysia/what-malaysia-is/hero.webp",
+      "credit": "U.S. Central Intelligence Agency (CIA) / Wikimedia Commons",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "A reference map of Malaysia showing Peninsular Malaysia and the states of Sabah and Sarawak on the island of Borneo, with major cities marked.",
+      "alt": "A political map of Malaysia showing Peninsular Malaysia to the west and Sabah and Sarawak on Borneo to the east, labelled with major cities.",
+      "kb": 85
+    },
+    "body": []
+  },
+  "malaysia/peninsular-and-borneo": {
+    "hero": {
+      "file": "/media/malaysia/peninsular-and-borneo/hero.webp",
+      "credit": "Peter Fitzgerald / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Malaysia_regions_map.png",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "A colour-coded regions map of Malaysia distinguishing Peninsular Malaysia from East Malaysia (Sabah and Sarawak) on Borneo, separated by the South China Sea.",
+      "alt": "A regions map of Malaysia with Peninsular Malaysia and East Malaysia on Borneo shown as separate colour-coded blocks across the South China Sea.",
+      "kb": 171
+    },
+    "body": []
+  },
+  "malaysia/malaysia-at-a-glance": {
+    "hero": {
+      "file": "/media/malaysia/malaysia-at-a-glance/hero.webp",
+      "credit": "Lah sadzik / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_skyline_at_night.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "The Kuala Lumpur skyline at night, with the Petronas Twin Towers and other high-rise buildings of Malaysia's capital city.",
+      "alt": "The illuminated Kuala Lumpur skyline at night, dominated by the Petronas Twin Towers and surrounding skyscrapers.",
+      "kb": 168
+    },
+    "body": []
+  },
+  "malaysia/ma63": {
+    "hero": {
+      "file": "/media/malaysia/ma63/hero.webp",
+      "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "The Sarawak State Legislative Assembly building (Dewan Undangan Negeri Sarawak), with its distinctive umbrella-shaped roof, in Kuching — a symbol of the Borneo state's autonomy under the Malaysia Agreement 1963.",
+      "alt": "The Sarawak State Legislative Assembly building in Kuching, topped by a tall golden umbrella-shaped roof, beside the Sarawak River.",
+      "kb": 154
+    },
+    "body": [
+      {
+        "file": "/media/malaysia/ma63/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_DewanUndanganNegeriSabah-01.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "The Sabah State Legislative Assembly building in Kota Kinabalu",
+        "alt": "The modern tiered tower of the Sabah State Legislative Assembly building in Kota Kinabalu, the seat of Sabah's elected state lawmakers.",
+        "kb": 157
+      },
+      {
+        "file": "/media/malaysia/ma63/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_CityMosque-08.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "The Kota Kinabalu City Mosque, Sabah",
+        "alt": "The blue-and-gold-domed Kota Kinabalu City Mosque mirrored in the still waters of its surrounding man-made lagoon in the Sabah state capital.",
+        "kb": 125
+      }
+    ]
+  },
+  "malaysia/1mdb-scandal": {
+    "hero": {
+      "file": "/media/malaysia/1mdb-scandal/hero.webp",
+      "credit": "Henrywky961122 / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Exchange_106.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "The Exchange 106 tower at the Tun Razak Exchange (TRX) financial district in Kuala Lumpur, the development historically associated with 1MDB.",
+      "alt": "The Exchange 106 skyscraper rising above the Tun Razak Exchange financial district in Kuala Lumpur.",
+      "kb": 179
+    },
+    "body": []
+  },
+  "malaysia/ops-lalang-1987": {
+    "hero": {
+      "file": "/media/malaysia/ops-lalang-1987/hero.webp",
+      "credit": "Wolfiewhite / Wikimedia Commons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Angled_view_of_the_front_of_Palace_of_Justice,_Putrajaya.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "The Palace of Justice (Istana Kehakiman) in Putrajaya, which houses Malaysia's Court of Appeal and Federal Court.",
+      "alt": "The Palace of Justice building in Putrajaya, home of Malaysia's superior courts.",
+      "kb": 169
+    },
+    "body": []
+  },
+  "malaysia/sheraton-move-2020": {
+    "hero": {
+      "file": "/media/malaysia/sheraton-move-2020/hero.webp",
+      "credit": "Stress 043 / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Front_building_Perdana_Putra_Putrajaya_2024.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Perdana Putra, the office complex of the Prime Minister of Malaysia at Putrajaya.",
+      "alt": "The Perdana Putra building housing the Malaysian Prime Minister's Office in Putrajaya, with its green dome.",
+      "kb": 167
+    },
+    "body": []
+  },
+  "malaysia/1998-reformasi": {
+    "hero": {
+      "file": "/media/malaysia/1998-reformasi/hero.webp",
+      "credit": "Kaihsu Tai / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bank_Negara_Malaysia.JPG",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Bank Negara Malaysia, the country's central bank in Kuala Lumpur, a neutral depiction tied to the Asian financial crisis context.",
+      "alt": "The Bank Negara Malaysia central bank building in Kuala Lumpur.",
+      "kb": 179
+    },
+    "body": []
+  },
+  "malaysia/2013-general-election": {
+    "hero": {
+      "file": "/media/malaysia/2013-general-election/hero.webp",
+      "credit": "Firdaus Latif / Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:MALAYSIA_GE13_(8713449487).jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Indelible ink is applied to a voter's finger during Malaysia's 2013 general election in Kuala Lumpur.",
+      "alt": "An election official applies indelible ink to a voter's fingernail at a Malaysian polling station.",
+      "kb": 55
+    },
+    "body": []
+  },
+  "malaysia/2018-change-of-government": {
+    "hero": {
+      "file": "/media/malaysia/2018-change-of-government/hero.webp",
+      "credit": "Two hundred percent / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:2008_general_election_polling_station,_Kajang.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "A Malaysian school serves as a polling station on a general-election polling day.",
+      "alt": "A school building in use as a polling station on election day in Malaysia, with directional signs for voters.",
+      "kb": 144
+    },
+    "body": []
+  },
+  "malaysia/2022-general-election": {
+    "hero": {
+      "file": "/media/malaysia/2022-general-election/hero.webp",
+      "credit": "AyyanD / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:GE15_Ink.jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "A voter's finger is marked with indelible ink during Malaysia's 2022 general election.",
+      "alt": "A voter's left index finger stained with purple indelible ink after casting a ballot.",
+      "kb": 40
+    },
+    "body": []
+  },
+  "malaysia/public-holidays-in-malaysia": {
+    "hero": {
+      "file": "/media/malaysia/public-holidays-in-malaysia/hero.webp",
+      "credit": "Firdaus Latif / Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_(5309956159).jpg",
+      "kind": "representative",
+      "origin": "third-party",
+      "subject": "Fireworks light up the night sky above the Petronas Twin Towers and the Kuala Lumpur skyline during a festive celebration.",
+      "alt": "Colourful fireworks bursting over the Petronas Twin Towers and the Kuala Lumpur city skyline at night.",
+      "kb": 167
+    },
+    "body": []
+  },
+  "malaysia/coat-of-arms": {
+    "hero": {
+      "file": "/media/malaysia/coat-of-arms/hero.webp",
+      "credit": "Hayden Soloviev / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Malaysia_in_Ottawa.jpg",
+      "kind": "actual",
+      "origin": "third-party",
+      "subject": "The Jata Negara, the coat of arms of Malaysia, mounted on the facade of a Malaysian diplomatic mission.",
+      "alt": "A painted relief of Malaysia's coat of arms, with two tigers flanking a shield beneath a crescent and star above the motto Bersekutu Bertambah Mutu.",
+      "kb": 175
     },
     "body": []
   }

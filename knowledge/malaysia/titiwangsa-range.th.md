@@ -18,7 +18,7 @@ keyTakeaways:
   - "ภูมิประเทศที่สูงของเทือกเขาอยู่ภายใต้ระดับที่เข้มงวดที่สุดของการคุ้มครองพื้นที่อ่อนไหวทางสิ่งแวดล้อมของมาเลเซีย ซึ่งปกป้องระบบนิเวศบนที่สูงและบนภูเขาจากการพัฒนา"
 appliesTo: "ผู้อ่านที่ต้องการคำอธิบายที่ตรงไปตรงมาและผ่านการตรวจสอบว่าเทือกเขาตีตีวังซาคืออะไร ทอดตัวที่ใด และเหตุใดมันจึงแบ่งแม่น้ำ ภูมิอากาศ และรูปแบบการตั้งถิ่นฐานของคาบสมุทรมาเลเซียเป็นด้านชายฝั่งตะวันตกและชายฝั่งตะวันออก"
 lang: "th"
-sourceContentHash: "8f6fd36f8d34a324"
+sourceContentHash: "0e3b056469d40cd0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -67,6 +67,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Peak_of_Banjaran_Titiwangsa.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-1.webp
+    alt: แถวต้นชาสีเขียวสดเรียงเป็นระดับตามแนวเส้นชั้นความสูงอย่างเป็นระเบียบ ปกคลุมเนินเขาลูกคลื่นของไร่ชาบารัตในแคเมอรอนไฮแลนด์สภายใต้ท้องฟ้านุ่มนวล
+    kind: actual
+    origin: third-party
+    subject: ไร่ชาบารัต (Bharat) ในแคเมอรอนไฮแลนด์ส ส่วนหนึ่งของเทือกเขาตีตีวังซา รัฐปะหัง
+    credit: Jakub Hałun / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1514_4106.jpg
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-2.webp
+    alt: กระท่อมสไตล์ทิวดอร์และร้านอาหารแห่งหนึ่งตั้งอยู่ท่ามกลางเนินเขาที่ปกคลุมด้วยป่าเขียวชอุ่มที่สถานตากอากาศเฟรเซอร์สฮิลล์ในเทือกเขาตีตีวังซา
+    kind: actual
+    origin: third-party
+    subject: เฟรเซอร์สฮิลล์ (Bukit Fraser) สถานตากอากาศบนภูเขาสมัยอาณานิคมในเทือกเขาตีตีวังซา รัฐปะหัง
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_8.jpg
 ---
 
 ทิ้งมะพร้าวลงบนด้านตะวันตกของสันเขาในเประตอนกลาง แล้วในที่สุดการเน่าของมันจะไปถึงช่องแคบมะละกา ทิ้งอีกลูกห่างไปทางตะวันออกไม่กี่ร้อยเมตร บนอีกด้านของสันเขาเดียวกัน แล้วมันจะลงเอยในทะเลจีนใต้ ไม่มีอะไรอื่นเกี่ยวกับภูมิทัศน์เปลี่ยนไป เพียงว่ามันตกบนด้านใดของเส้น

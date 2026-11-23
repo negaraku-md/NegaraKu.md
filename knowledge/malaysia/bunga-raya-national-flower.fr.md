@@ -28,7 +28,7 @@ faq:
     a: "Il était déjà reconnu dans tout le pays, avait une couleur et une forme attrayantes, un nom uniforme, était facilement disponible et n'était pas encore la fleur nationale d'un autre pays à l'époque."
 
 lang: "fr"
-sourceContentHash: "a414dd0c6fc76423"
+sourceContentHash: "6d9941dd740b944e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Red_Hibiscus_Flower_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-1.webp
+    alt: Une fleur d'hibiscus d'un rouge profond vue de biais, ses pétales ondulés encadrant une longue colonne staminale rouge qui s'arque vers le bas, terminée par un pollen jaune vif et de petits lobes rouges du stigmate, sur un fond de doux feuillage vert.
+    kind: actual
+    origin: third-party
+    subject: La bunga raya rouge (Hibiscus rosa-sinensis), la fleur nationale de la Malaisie, montrant sa longue colonne staminale
+    credit: Saadtitan12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Red_Hibiscus_rosa-sinensis_flower_close-up.jpg
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-2.webp
+    alt: Un hibiscus d'un rouge vif fleurit sur un arbuste feuillu dans le jardin d'un village malaisien, sa longue colonne staminale rouge rosé pendante, avec des cocotiers et une pelouse dégagée ensoleillée en arrière-plan.
+    kind: actual
+    origin: third-party
+    subject: Une bunga raya rouge (Hibiscus rosa-sinensis) fleurissant sur un arbuste dans le jardin d'un village malaisien
+    credit: Amek Rohaida / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bunga_Raya_di_Kg_Kuala_Lah.jpg
 ---
 
 Sept sortes de fleurs se sont un jour disputées l'honneur de représenter une nation nouvellement indépendante — et la gagnante ne fut ni la plus parfumée ni la plus rare, mais la plus familière dans chaque ville et chaque village. Cette fleur est le bunga raya, l'hibiscus.

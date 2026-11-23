@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Toute personne souhaitant comprendre les origines de la civilisation primitive sur les terres malaises avant l'existence des sultanats malais, ou qui prévoit de visiter les sites archéologiques et le musée du Kedah."
 
 lang: "fr"
-sourceContentHash: "37c769aa2420a10a"
+sourceContentHash: "a60815f197356c7c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:006_Bujang_Valley_Candi.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bujang-valley/body-1.webp
+    alt: Un soubassement de temple carré et à gradins, bâti en blocs de latérite rougeâtre, se dresse sur la terre nue sous un abri de protection ouvert en bois et tuiles, avec des collines verdoyantes et la forêt visibles au-delà.
+    kind: actual
+    origin: third-party
+    subject: Un candi (soubassement de temple hindou-bouddhique) reconstruit sur le site archéologique de la vallée de Bujang, Kedah
+    credit: Blackhurrem / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Archaeological_Complex_of_Bujang_Valley_2.jpg
+  - role: scene
+    src: /media/malaysia/bujang-valley/body-2.webp
+    alt: Quatre récipients en terre cuite et en céramique émaillée mis au jour — une haute jarre sombre à bec verseur, un pot rond blanc et deux petits bols — exposés sur des supports transparents dans une vitrine éclairée du musée.
+    kind: actual
+    origin: third-party
+    subject: Des récipients en céramique mis au jour dans la vallée de Bujang, Kedah, exposés au musée archéologique
+    credit: Anandajoti Bhikkhu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:007_Bujang_Valley_Pottery.jpg
 ---
 
 Sur une plaine proche de Gunung Jerai, parmi les rizières et les plantations de palmiers à huile, reposent des briques anciennes disposées des siècles avant que Melaka n'existe comme port. Certaines forment la base de temples hindous. D'autres sont des fourneaux de fonte du fer. Aucun sultan ayant jamais régné d'ici ne porte un nom connu aujourd'hui — mais ce que la société qui a construit ces temples et ces fourneaux a laissé derrière elle fait de la vallée de Bujang l'un des sites archéologiques les plus importants d'Asie du Sud-Est.

@@ -18,7 +18,7 @@ keyTakeaways:
   - "यूनेस्को के सलाहकार निकाय इसे हिमालय और न्यू गिनी के बीच का सबसे ऊँचा पर्वत बताते हैं, और यह अनुमानित 5,000-6,000 संवहनी पादप प्रजातियों को आश्रय देता है, जिनमें लगभग 1,000 ऑर्किड प्रजातियाँ शामिल हैं"
 appliesTo: "वे पाठक जो माउंट किनाबालू की सत्यापित ऊँचाई और संरक्षित-क्षेत्र दर्जा चाहते हैं, और इस बात की सरल व्याख्या चाहते हैं कि सबाह में एक ग्रेनाइट पर्वत भूवैज्ञानिक रूप से इतना नया क्यों है।"
 lang: "hi"
-sourceContentHash: "5bc72b1b2e12a8e0"
+sourceContentHash: "84be13b81d6b6c84"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -65,6 +65,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-1.webp
+    alt: माउंट किनाबालू के सर्वोच्च बिंदु लोज़ पीक की नंगी, दांतेदार धूसर-ग्रेनाइट चोटी, बंजर शिखर पठार के ऊपर साफ़ आसमान के सामने तीव्रता से उठती हुई।
+    kind: actual
+    origin: third-party
+    subject: लोज़ पीक (4,095 मीटर), सबाह में माउंट किनाबालू का शिखर
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-2.webp
+    alt: मांसाहारी नेपेंथेस विलोसा पौधे की गोलाकार, गहरी धारीदार नारंगी-लाल घट का नज़दीकी दृश्य, जिसका मुख दांतेदार किनारे से घिरा है, किनाबालू पार्क के धुंध भरे उच्चभूमि वन में उगता हुआ।
+    kind: actual
+    origin: third-party
+    subject: नेपेंथेस विलोसा (Nepenthes villosa), किनाबालू पार्क में माउंट किनाबालू के उच्चभूमि क्षेत्र की स्थानिक एक मांसाहारी घटपर्णी पौधा
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nepenthes_villosa_Mount_Kinabalu_1.jpg
 ---
 
 दशकों तक, हर संदर्भ पुस्तक वही संख्या देती थी: माउंट किनाबालू, मलेशिया की सबसे ऊँची चोटी, समुद्र-तल से 4,101 मीटर ऊपर खड़ी थी। फिर 1997 में, एक सर्वेक्षण दल ने शिखर की ओर थियोडोलाइट के बजाय उपग्रह ताने, और संख्या बदल गई। किसी पूर्णांकन-त्रुटि से नहीं — बल्कि छह मीटर से। पर्वत सिकुड़ा नहीं था। पुराना मापन बस ग़लत था, और किसी के पास इसे सिद्ध करने का उपकरण तब तक नहीं था जब तक GPS ने यह सुधार संभव नहीं कर दिया।

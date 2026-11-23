@@ -20,7 +20,7 @@ appliesTo: "キナバル山の検証済みの高度と保護区としての地�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5bc72b1b2e12a8e0"
+sourceContentHash: "84be13b81d6b6c84"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -64,6 +64,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-1.webp
+    alt: キナバル山の最高点であるロウズ・ピークの、むき出しでぎざぎざした灰色の花崗岩の尖峰が、荒涼とした山頂台地の上に澄んだ空を背にして鋭くそびえ立つ。
+    kind: actual
+    origin: third-party
+    subject: ロウズ・ピーク（標高4,095メートル）、サバ州キナバル山の頂
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-2.webp
+    alt: 食虫植物ネペンテス・ウィロサの、丸みを帯びて深い畝のあるオレンジがかった赤色の捕虫袋のクローズアップ。袋の口は歯状の縁取りで囲まれ、霧に包まれたキナバル公園の高地林に生育している。
+    kind: actual
+    origin: third-party
+    subject: ネペンテス・ウィロサ（Nepenthes villosa）、キナバル山の高地に固有の食虫性ウツボカズラ、キナバル公園にて
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nepenthes_villosa_Mount_Kinabalu_1.jpg
 ---
 
 数十年にわたり、あらゆる参考書が同じ数字を挙げていた——マレーシア最高峰であるキナバル山は、海抜4,101メートルである、と。ところが1997年、ある測量チームが、頂上にセオドライト（経緯儀）ではなく衛星を向けたことで、その数字が変わった。四捨五入の誤差ではない——六メートルもの違いである。山が縮んだわけではない。古い測定値が単に間違っていただけであり、GPSがその修正を可能にするまで、誰もそれを証明する手立てを持たなかったのである。

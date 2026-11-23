@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "वे सभी जो मलायी सल्तनतों के अस्तित्व से पहले मलायी भूमि पर आरंभिक सभ्यता की उत्पत्ति को समझना चाहते हैं, या जो केदाह में पुरातात्विक स्थलों और संग्रहालय की यात्रा की योजना बना रहे हैं।"
 
 lang: "hi"
-sourceContentHash: "37c769aa2420a10a"
+sourceContentHash: "a60815f197356c7c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:006_Bujang_Valley_Candi.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bujang-valley/body-1.webp
+    alt: लाल रंग की लेटराइट शिलाओं से बना एक सीढ़ीनुमा, वर्गाकार मंदिर आधार नंगी ज़मीन पर खड़ा है, जिसके ऊपर लकड़ी और खपरैल का खुला सुरक्षात्मक छप्पर है, और परे हरी पहाड़ियाँ तथा वन दिखाई देते हैं।
+    kind: actual
+    origin: third-party
+    subject: केदाह में बुजांग घाटी पुरातात्विक परिसर में एक पुनर्निर्मित चंडी (हिंदू-बौद्ध मंदिर आधार)
+    credit: Blackhurrem / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Archaeological_Complex_of_Bujang_Valley_2.jpg
+  - role: scene
+    src: /media/malaysia/bujang-valley/body-2.webp
+    alt: चार उत्खनित मृत्तिका और शीशे-चढ़े मिट्टी के पात्र — एक ऊँचा गहरे रंग का टोंटीदार घड़ा, एक गोल सफ़ेद मटका और दो छोटे कटोरे — एक प्रकाशित संग्रहालय शोकेस में पारदर्शी आधारों पर प्रदर्शित।
+    kind: actual
+    origin: third-party
+    subject: केदाह की बुजांग घाटी में उत्खनित मिट्टी के बर्तन, पुरातत्व संग्रहालय में प्रदर्शित
+    credit: Anandajoti Bhikkhu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:007_Bujang_Valley_Pottery.jpg
 ---
 
 गुनुंग जेराई (Gunung Jerai) के निकट एक समतल मैदान पर, धान के खेतों और ऑयल पाम बागानों के बीच, प्राचीन ईंटें पड़ी हैं जो मलक्का (Melaka) के एक बंदरगाह के रूप में अस्तित्व में आने से सदियों पहले रखी गई थीं। इनमें से कुछ हिंदू मंदिरों का आधार बनाती हैं। कुछ अन्य लौह-गलन की भट्टियाँ हैं। यहाँ से शासन करने वाले किसी सुलतान का नाम आज ज्ञात नहीं है — परंतु इन मंदिरों और भट्टियों को बनाने वाले समाज ने जो पीछे छोड़ा, वही बुजांग घाटी को दक्षिण-पूर्व एशिया के सबसे महत्वपूर्ण पुरातात्विक स्थलों में से एक बनाता है।

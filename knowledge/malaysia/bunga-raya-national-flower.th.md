@@ -28,7 +28,7 @@ faq:
     a: "มันเป็นที่รู้จักทั่วประเทศอยู่แล้ว มีสีและรูปทรงที่ดึงดูด มีชื่อที่เป็นแบบเดียวกัน หาได้ง่าย และยังไม่ได้เป็นดอกไม้ประจำชาติของประเทศอื่นใดในเวลานั้น"
 
 lang: "th"
-sourceContentHash: "a414dd0c6fc76423"
+sourceContentHash: "6d9941dd740b944e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Red_Hibiscus_Flower_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-1.webp
+    alt: ดอกชบาสีแดงเข้มมองจากมุมเฉียง กลีบดอกที่เป็นคลื่นโอบล้อมเส้าเกสรสีแดงยาวที่โค้งลงด้านล่าง ปลายเส้าประดับด้วยละอองเรณูสีเหลืองสดและพูยอดเกสรตัวเมียสีแดงเล็ก ๆ ตัดกับใบไม้สีเขียวนุ่มนวล
+    kind: actual
+    origin: third-party
+    subject: ดอกบุหงารายา (ชบา, Hibiscus rosa-sinensis) สีแดง ดอกไม้ประจำชาติของมาเลเซีย แสดงให้เห็นเส้าเกสรที่ยาว
+    credit: Saadtitan12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Red_Hibiscus_rosa-sinensis_flower_close-up.jpg
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-2.webp
+    alt: ดอกชบาสีแดงสดบานอยู่บนพุ่มไม้ใบดกในสวนหมู่บ้านของมาเลเซีย เส้าเกสรสีแดงอมชมพูที่ยาวห้อยลงมา โดยมีต้นมะพร้าวและสนามหญ้าโล่งที่มีแดดส่องอยู่เบื้องหลัง
+    kind: actual
+    origin: third-party
+    subject: ดอกบุหงารายา (ชบา, Hibiscus rosa-sinensis) สีแดงที่บานอยู่บนพุ่มไม้ในสวนหมู่บ้านของมาเลเซีย
+    credit: Amek Rohaida / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bunga_Raya_di_Kg_Kuala_Lah.jpg
 ---
 
 ดอกไม้เจ็ดชนิดเคยแข่งขันกันเพื่อเป็นตัวแทนของประเทศที่เพิ่งได้รับเอกราช และผู้ชนะไม่ใช่ชนิดที่หอมที่สุดหรือหายากที่สุด แต่เป็นชนิดที่รู้จักกันมากที่สุดในทุกเมืองและทุกหมู่บ้าน นั่นคือบุหงารายา (ดอกชบา)

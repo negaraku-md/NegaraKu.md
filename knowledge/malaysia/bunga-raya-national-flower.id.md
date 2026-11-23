@@ -28,7 +28,7 @@ faq:
     a: "Ia sudah dikenal di seluruh negeri, memiliki warna dan bentuk yang menarik, nama yang seragam, mudah didapat, dan belum menjadi bunga nasional negara lain mana pun pada masa itu."
 
 lang: "id"
-sourceContentHash: "a414dd0c6fc76423"
+sourceContentHash: "6d9941dd740b944e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Red_Hibiscus_Flower_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-1.webp
+    alt: Sekuntum bunga sepatu merah pekat dilihat dari sudut, kelopaknya yang berkerut membingkai tabung benang sari merah panjang yang melengkung ke bawah, berujung serbuk sari kuning cerah dan cuping putik merah kecil, dengan latar dedaunan hijau lembut.
+    kind: actual
+    origin: third-party
+    subject: Bunga raya merah (Hibiscus rosa-sinensis), bunga nasional Malaysia, memperlihatkan tabung benang sarinya yang panjang
+    credit: Saadtitan12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Red_Hibiscus_rosa-sinensis_flower_close-up.jpg
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-2.webp
+    alt: Sekuntum bunga sepatu merah menyala mekar pada semak berdaun lebat di taman sebuah desa di Malaysia, tabung benang sarinya yang panjang berwarna merah muda menjuntai, dengan pohon kelapa dan halaman terbuka yang disinari matahari di latar belakang.
+    kind: actual
+    origin: third-party
+    subject: Sekuntum bunga raya merah (Hibiscus rosa-sinensis) mekar pada semak di taman sebuah desa di Malaysia
+    credit: Amek Rohaida / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bunga_Raya_di_Kg_Kuala_Lah.jpg
 ---
 
 Tujuh jenis bunga pernah bersaing untuk mewakili sebuah negara yang baru merdeka — dan yang menang bukan yang paling harum atau paling langka, melainkan yang paling dikenal di setiap kota dan kampung. Itulah bunga raya.

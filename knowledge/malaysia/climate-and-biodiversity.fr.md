@@ -18,7 +18,7 @@ keyTakeaways:
   - "La Malaisie péninsulaire et Bornéo (Sabah et Sarawak) sont séparées par la mer de Chine méridionale et abritent des assemblages d'espèces distincts, Bornéo détenant l'essentiel des forêts marécageuses à tourbe et des mangroves du pays."
 appliesTo: "national"
 lang: "fr"
-sourceContentHash: "9a6c3f25f0c58105"
+sourceContentHash: "0658f2dcb7d1a474"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-1.webp
+    alt: Un jeune orang-outan de Bornéo au pelage orange rouille se suspend d'un bras à une corde tendue entre les arbres, l'autre main agrippant la corde, sur un fond de dense feuillage vert de forêt tropicale.
+    kind: actual
+    origin: third-party
+    subject: Un jeune orang-outan de Bornéo (Pongo pygmaeus), un grand singe que l'on ne trouve que dans les forêts tropicales de Bornéo
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_(Pongo_pygmaeus)_(14562544106).jpg
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-2.webp
+    alt: Une fleur de Rafflesia entièrement ouverte repose sur le sol forestier jonché de feuilles, ses cinq épais lobes brun rougeâtre couverts de taches pâles verruqueuses entourant une profonde coupe centrale ouverte.
+    kind: actual
+    origin: third-party
+    subject: Une Rafflesia en pleine floraison sur le sol de la forêt à Sabah, l'une des plus grandes fleurs du monde et une plante parasite de la forêt tropicale de Bornéo
+    credit: Rod Waddington / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rafflesia,_Sabah_(7247015058).jpg
 ---
 
 # Pourquoi la Malaisie est l'un des pays mégadivers du monde

@@ -22,7 +22,7 @@ appliesTo: "மலாய் சுல்தானகங்கள் தோன்
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "37c769aa2420a10a"
+sourceContentHash: "a60815f197356c7c"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:006_Bujang_Valley_Candi.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bujang-valley/body-1.webp
+    alt: சிவந்த லேட்டரைட் கற்களால் கட்டப்பட்ட படிநிலை, சதுர வடிவ கோயில் அடித்தளம் வெறும் தரையில் நிற்கிறது, அதற்கு மேலே மரம் மற்றும் ஓடுகளால் ஆன திறந்த பாதுகாப்பு கொட்டகை உள்ளது, தொலைவில் பச்சை குன்றுகளும் காடும் தெரிகின்றன.
+    kind: actual
+    origin: third-party
+    subject: கெடாவில் புஜாங் பள்ளத்தாக்கு தொல்லியல் வளாகத்தில் மீளமைக்கப்பட்ட சண்டி (இந்து-பௌத்த கோயில் அடித்தளம்)
+    credit: Blackhurrem / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Archaeological_Complex_of_Bujang_Valley_2.jpg
+  - role: scene
+    src: /media/malaysia/bujang-valley/body-2.webp
+    alt: அகழ்ந்தெடுக்கப்பட்ட நான்கு மட்பாண்டங்களும் மெருகூட்டப்பட்ட பீங்கான் பாத்திரங்களும் — குழாய் கொண்ட உயரமான கரிய ஜாடி, வட்டமான வெள்ளைப் பானை, இரண்டு சிறிய கிண்ணங்கள் — ஒளியூட்டப்பட்ட அருங்காட்சியக கண்ணாடிப் பெட்டியில் தெளிவான தாங்கிகள் மீது காட்சிக்கு வைக்கப்பட்டுள்ளன.
+    kind: actual
+    origin: third-party
+    subject: கெடாவின் புஜாங் பள்ளத்தாக்கில் அகழ்ந்தெடுக்கப்பட்ட மட்பாண்டங்கள், தொல்லியல் அருங்காட்சியகத்தில் காட்சிக்கு வைக்கப்பட்டுள்ளன
+    credit: Anandajoti Bhikkhu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:007_Bujang_Valley_Pottery.jpg
 ---
 
 Gunung Jerai அருகே அமைந்த ஒரு சமவெளியில், நெல் வயல்களுக்கும் எண்ணெய்ப் பனைத் தோட்டங்களுக்கும் இடையே, மலாக்கா ஒரு துறைமுகமாக உருவாவதற்குப் பல நூற்றாண்டுகளுக்கு முன்பே அடுக்கப்பட்ட பழங்கால செங்கற்கள் காணப்படுகின்றன. அவற்றில் சில இந்து கோயில்களின் அடித்தளத்தை உருவாக்குகின்றன. சில இரும்பு உருக்கும் உலைகள். இங்கிருந்து ஆட்சி செய்த எந்த சுல்தானின் பெயரும் இன்று அறியப்படவில்லை — ஆனால் அந்தக் கோயில்களையும் உலைகளையும் கட்டிய சமூகம் விட்டுச் சென்றவை Lembah Bujang-ஐ தென்கிழக்காசியாவின் மிக முக்கியமான தொல்லியல் தளங்களில் ஒன்றாக ஆக்குகின்றன.

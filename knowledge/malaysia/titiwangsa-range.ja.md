@@ -20,7 +20,7 @@ appliesTo: "ティティワンサ山脈とは何か、それがどこを通っ�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8f6fd36f8d34a324"
+sourceContentHash: "0e3b056469d40cd0"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -66,6 +66,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Peak_of_Banjaran_Titiwangsa.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-1.webp
+    alt: きれいに等高線状に並んだ鮮やかな緑の茶の木が、柔らかな空の下、キャメロンハイランドのバラット茶園のなだらかな丘を覆っている。
+    kind: actual
+    origin: third-party
+    subject: パハン州ティティワンサ山脈の一部、キャメロンハイランドにあるバラット茶園
+    credit: Jakub Hałun / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1514_4106.jpg
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-2.webp
+    alt: チューダー様式のコテージとレストランが、ティティワンサ山脈のフレーザーズヒル避暑地で、緑豊かな森に覆われた斜面の間にたたずんでいる。
+    kind: actual
+    origin: third-party
+    subject: フレーザーズヒル（ブキッ・フレーザー）、パハン州ティティワンサ山脈にある植民地時代の避暑地（ヒルステーション）
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_8.jpg
 ---
 
 ペラ州中部の尾根の西側にココナッツを一つ落とせば、やがてその腐った痕跡はマラッカ海峡へと辿り着く。同じ尾根の東側、わずか数百メートル先に一つ落とせば、それは南シナ海へと行き着く。地形そのものには、他に何の違いもない。違うのは、それがこの境界線のどちら側に落ちたかだけだ。

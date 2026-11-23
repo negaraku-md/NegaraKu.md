@@ -28,7 +28,7 @@ faq:
     a: "Nó đã được biết đến khắp cả nước, có màu sắc và hình dáng hấp dẫn, có tên gọi đồng nhất, dễ tìm, và chưa trở thành quốc hoa của bất kỳ quốc gia nào khác vào thời điểm đó."
 
 lang: "vi"
-sourceContentHash: "a414dd0c6fc76423"
+sourceContentHash: "6d9941dd740b944e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Red_Hibiscus_Flower_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-1.webp
+    alt: Một bông hoa dâm bụt đỏ thẫm nhìn nghiêng, những cánh hoa gợn sóng ôm lấy một cột nhị đỏ dài cong xuống, đầu điểm phấn hoa vàng tươi và các thùy nhụy đỏ nhỏ, trên nền tán lá xanh dịu.
+    kind: actual
+    origin: third-party
+    subject: Hoa dâm bụt đỏ bunga raya (Hibiscus rosa-sinensis), quốc hoa của Malaysia, thể hiện cột nhị dài
+    credit: Saadtitan12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Red_Hibiscus_rosa-sinensis_flower_close-up.jpg
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-2.webp
+    alt: Một bông dâm bụt đỏ rực nở trên bụi cây rậm lá trong vườn một ngôi làng ở Malaysia, cột nhị dài màu đỏ hồng buông rủ, với những cây dừa và bãi cỏ trống ngập nắng ở phía sau.
+    kind: actual
+    origin: third-party
+    subject: Một bông dâm bụt đỏ bunga raya (Hibiscus rosa-sinensis) nở trên bụi cây trong vườn một ngôi làng ở Malaysia
+    credit: Amek Rohaida / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bunga_Raya_di_Kg_Kuala_Lah.jpg
 ---
 
 Bảy loài hoa từng cạnh tranh để đại diện cho một quốc gia vừa mới độc lập — và loài chiến thắng không phải là loài thơm nhất hay hiếm nhất, mà là loài được biết đến nhiều nhất ở mỗi thị trấn và mỗi làng. Đó là bông dâm bụt.

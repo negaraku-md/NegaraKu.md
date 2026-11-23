@@ -20,7 +20,7 @@ appliesTo: "கினபாலு மலையின் சரிபார்க
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5bc72b1b2e12a8e0"
+sourceContentHash: "84be13b81d6b6c84"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -65,6 +65,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-1.webp
+    alt: கினபாலு மலையின் மிக உயர்ந்த புள்ளியான லோ சிகரத்தின் வெறுமையான, பற்களைப் போன்ற சாம்பல் கிரானைட் கூம்பு, தரிசான உச்சிப் பீடபூமிக்கு மேலே தெளிந்த வானத்தை நோக்கி கூர்மையாக எழும்புகிறது.
+    kind: actual
+    origin: third-party
+    subject: லோ சிகரம் (4,095 மீ), சபாவில் உள்ள கினபாலு மலையின் உச்சி
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-2.webp
+    alt: ஊனுண்ணி நெபந்தெஸ் வில்லோசா தாவரத்தின் வட்டமான, ஆழமாக விலாக்கோடுகள் கொண்ட செம்மஞ்சள் நிறக் குடுவையின் நெருங்கிய காட்சி; அதன் வாய் பற்கள் போன்ற விளிம்பால் சூழப்பட்டுள்ளது, கினபாலு பூங்காவின் மூடுபனி நிறைந்த மலைக் காட்டில் வளர்கிறது.
+    kind: actual
+    origin: third-party
+    subject: நெபந்தெஸ் வில்லோசா (Nepenthes villosa), கினபாலு பூங்காவில், கினபாலு மலையின் மலைப்பகுதிக்கே உரிய ஒரு ஊனுண்ணி குடுவைத் தாவரம்
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nepenthes_villosa_Mount_Kinabalu_1.jpg
 ---
 
 பல பத்தாண்டுகளாக, ஒவ்வொரு குறிப்பு நூலும் ஒரே எண்ணிக்கையையே தந்தன: மலேசியாவின் உயரிய சிகரமான கினபாலு மலை, கடல் மட்டத்திலிருந்து 4,101 மீட்டர் உயரத்தில் நின்றது. பின்னர் 1997 இல், ஒரு அளவீட்டுக் குழு தியோடோலைட்டுகளுக்குப் பதிலாக செயற்கைக்கோள்களைச் சிகரத்தை நோக்கித் திருப்பியது, அந்த எண்ணிக்கை மாறியது. முழுமையாக்கும் பிழையால் அல்ல — ஆறு மீட்டரால். மலை சுருங்கிவிடவில்லை. பழைய அளவீடு வெறுமனே தவறாக இருந்தது; GPS இந்தத் திருத்தத்தைச் சாத்தியமாக்கும் வரை அதை நிரூபிக்கும் கருவி யாரிடமும் இருக்கவில்லை.

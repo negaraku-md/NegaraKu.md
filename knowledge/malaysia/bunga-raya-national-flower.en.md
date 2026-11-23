@@ -28,7 +28,7 @@ faq:
     a: "It was already recognised throughout the country, had an attractive colour and shape, a uniform name, was easily available, and was not yet the national flower of any other country at the time."
 
 lang: "en"
-sourceContentHash: "a414dd0c6fc76423"
+sourceContentHash: "6d9941dd740b944e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Red_Hibiscus_Flower_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-1.webp
+    alt: A deep-red hibiscus bloom seen at an angle, its ruffled petals framing a long red staminal column that arches downward, tipped with bright yellow pollen and small red stigma lobes, against soft green foliage.
+    kind: actual
+    origin: third-party
+    subject: The red bunga raya (Hibiscus rosa-sinensis), Malaysia's national flower, showing its long staminal column
+    credit: Saadtitan12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Red_Hibiscus_rosa-sinensis_flower_close-up.jpg
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-2.webp
+    alt: A vivid red hibiscus blooms on a leafy shrub in a Malaysian village garden, its long pink-red staminal column dangling, with coconut palms and sunlit open lawn in the background.
+    kind: actual
+    origin: third-party
+    subject: A red bunga raya (Hibiscus rosa-sinensis) blooming on a shrub in a Malaysian village garden
+    credit: Amek Rohaida / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bunga_Raya_di_Kg_Kuala_Lah.jpg
 ---
 
 Seven kinds of flower once competed to represent a newly independent nation — and the winner was not the most fragrant or the rarest, but the one most familiar in every town and village. That flower is the bunga raya, the hibiscus.

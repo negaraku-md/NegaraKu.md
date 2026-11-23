@@ -18,7 +18,7 @@ keyTakeaways:
   - "Kawasan berketinggian tinggi pegunungan ini tergolong dalam tingkat paling ketat perlindungan Kawasan Sensitif Lingkungan Malaysia, yang melindungi ekosistem tanah tinggi dan pegunungan dari pembangunan"
 appliesTo: "Cocok untuk pembaca yang menginginkan penjelasan yang jelas dan terverifikasi tentang apa itu Banjaran Titiwangsa, ke mana ia membentang, dan mengapa ia membagi sungai, iklim, dan pola permukiman Semenanjung Malaysia menjadi sisi pantai barat dan pantai timur."
 lang: "id"
-sourceContentHash: "8f6fd36f8d34a324"
+sourceContentHash: "0e3b056469d40cd0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -67,6 +67,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Peak_of_Banjaran_Titiwangsa.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-1.webp
+    alt: Barisan pohon teh hijau terang berkontur rapi menyelimuti perbukitan bergelombang perkebunan Bharat di Cameron Highlands di bawah langit lembut.
+    kind: actual
+    origin: third-party
+    subject: Perkebunan teh Bharat di Cameron Highlands, bagian dari Pegunungan Titiwangsa, Pahang
+    credit: Jakub Hałun / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1514_4106.jpg
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-2.webp
+    alt: Pondok bergaya Tudor dan sebuah restoran bersarang di antara lereng berhutan hijau subur di tempat peristirahatan Bukit Fraser, di pegunungan Titiwangsa.
+    kind: actual
+    origin: third-party
+    subject: Bukit Fraser, sebuah tempat peristirahatan pegunungan era kolonial di Pegunungan Titiwangsa, Pahang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_8.jpg
 ---
 
 Jatuhkan sebutir kelapa di sisi barat sebuah punggungan di tengah Perak, dan pada akhirnya, hanyutannya akan sampai ke Selat Melaka. Jatuhkan sebutir lagi beberapa ratus meter ke timur, di sisi punggungan yang sama, dan ia akan berakhir di Laut Tiongkok Selatan. Tidak ada hal lain tentang lanskap itu yang berubah. Hanya di sisi mana garis itu ia jatuh.

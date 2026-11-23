@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "كل من يريد فهم أصول الحضارة المبكرة في الأراضي الملايوية قبل وجود السلطنات الملايوية، أو من يخطط لزيارة المواقع الأثرية والمتحف في ولاية كيداه."
 
 lang: "ar"
-sourceContentHash: "37c769aa2420a10a"
+sourceContentHash: "a60815f197356c7c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -81,6 +81,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:006_Bujang_Valley_Candi.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bujang-valley/body-1.webp
+    alt: قاعدة معبد مربعة مدرّجة مبنية من كتل اللاتريت المحمرّة تقف على أرض عارية تحت مظلّة حماية مفتوحة من الخشب والقرميد، وتظهر خلفها تلال خضراء وغابة.
+    kind: actual
+    origin: third-party
+    subject: معبد تشاندي (أساس معبد هندوسي-بوذي) مُعاد بناؤه في مجمّع وادي بوجانغ الأثري، قدح
+    credit: Blackhurrem / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Archaeological_Complex_of_Bujang_Valley_2.jpg
+  - role: scene
+    src: /media/malaysia/bujang-valley/body-2.webp
+    alt: أربع أوانٍ خزفية فخارية ومزججة مستخرجة — جرّة داكنة طويلة ذات فوهة، وإناء أبيض مستدير، ووعاءان صغيران — معروضة على حوامل شفافة داخل خزانة عرض مضاءة في المتحف.
+    kind: actual
+    origin: third-party
+    subject: أوانٍ خزفية مستخرجة من وادي بوجانغ، قدح، معروضة في المتحف الأثري
+    credit: Anandajoti Bhikkhu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:007_Bujang_Valley_Pottery.jpg
 ---
 
 في سهل منبسط قرب جبل جيراي (Gunung Jerai)، بين حقول الأرز ومزارع نخيل الزيت، تمتد طوب قديم رُصّ قبل قرون من وجود ملقا (Melaka) ميناءً. بعضه يشكّل قواعد معابد هندوسية. وبعضه الآخر أفران لصهر الحديد. لا سلطان حكم من هنا يُعرف اسمه اليوم — لكن ما خلّفه المجتمع الذي بنى هذه المعابد والأفران يجعل وادي بوجانغ (Bujang Valley) واحدًا من أهم المواقع الأثرية في جنوب شرق آسيا.

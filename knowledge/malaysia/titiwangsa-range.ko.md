@@ -18,7 +18,7 @@ keyTakeaways:
   - "이 산맥의 고지대 지형은 고원 및 산지 생태계를 개발로부터 보호하는 말레이시아 환경민감지역(Environmentally Sensitive Area) 보호의 가장 엄격한 등급에 속합니다"
 appliesTo: "티티왕사 산맥(Titiwangsa Range)이 무엇인지, 어디로 뻗어 있는지, 그리고 왜 말레이 반도의 강, 기후, 정착 양상을 서해안과 동해안 두 편으로 갈라놓는지에 대한 평이하고 검증된 설명을 원하는 독자."
 lang: "ko"
-sourceContentHash: "8f6fd36f8d34a324"
+sourceContentHash: "0e3b056469d40cd0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -67,6 +67,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Peak_of_Banjaran_Titiwangsa.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-1.webp
+    alt: 깔끔하게 등고선을 따라 늘어선 선명한 초록빛 차나무들이 부드러운 하늘 아래 카메론 하일랜드 바랏 차밭의 완만한 언덕을 뒤덮고 있다.
+    kind: actual
+    origin: third-party
+    subject: 파항주 티티왕사산맥의 일부인 카메론 하일랜드의 바랏 차밭
+    credit: Jakub Hałun / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1514_4106.jpg
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-2.webp
+    alt: 튜더 양식의 오두막들과 식당 한 곳이 티티왕사산맥의 프레이저스 힐 휴양지에서 울창한 초록빛 숲으로 뒤덮인 비탈 사이에 자리 잡고 있다.
+    kind: actual
+    origin: third-party
+    subject: 프레이저스 힐(부킷 프레이저), 파항주 티티왕사산맥에 있는 식민지 시대의 고원 휴양지
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_8.jpg
 ---
 
 페락(Perak) 중부의 어느 능선 서쪽 면에 코코넛 하나를 떨어뜨리면, 결국 그 썩은 물은 말라카 해협에 이릅니다. 같은 능선의 반대편, 즉 수백 미터 동쪽에 하나를 떨어뜨리면, 그것은 남중국해로 흘러듭니다. 지형에 관한 다른 것은 아무것도 바뀌지 않습니다. 그저 그것이 선의 어느 쪽에 떨어졌는가만 다를 뿐입니다.

@@ -17356,5 +17356,737 @@
         "subject": "Masjid Bandaraya Kota Kinabalu, Sabah"
       }
     ]
+  },
+  "malaysia/mount-kinabalu": {
+    "zh": [
+      {
+        "alt": "罗氏峰裸露、嶙峋的灰色花岗岩尖峰——神山的最高点——在荒芜的峰顶高原之上，衬着晴朗的天空陡然耸立。",
+        "subject": "罗氏峰（海拔4,095米），沙巴神山（京那巴鲁山）的顶峰"
+      },
+      {
+        "alt": "食虫植物长毛猪笼草圆润、棱脊深凹的橙红色捕虫笼特写，笼口边缘布满锯齿状唇环，生长在京那巴鲁公园云雾缭绕的高地森林中。",
+        "subject": "长毛猪笼草（Nepenthes villosa），一种京那巴鲁山高地特有的食虫猪笼草，摄于京那巴鲁公园"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "キナバル山の最高点であるロウズ・ピークの、むき出しでぎざぎざした灰色の花崗岩の尖峰が、荒涼とした山頂台地の上に澄んだ空を背にして鋭くそびえ立つ。",
+        "subject": "ロウズ・ピーク（標高4,095メートル）、サバ州キナバル山の頂"
+      },
+      {
+        "alt": "食虫植物ネペンテス・ウィロサの、丸みを帯びて深い畝のあるオレンジがかった赤色の捕虫袋のクローズアップ。袋の口は歯状の縁取りで囲まれ、霧に包まれたキナバル公園の高地林に生育している。",
+        "subject": "ネペンテス・ウィロサ（Nepenthes villosa）、キナバル山の高地に固有の食虫性ウツボカズラ、キナバル公園にて"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "키나발루산의 최고점인 로스 피크의 헐벗고 뾰족한 회색 화강암 첨봉이 황량한 정상 고원 위로 맑은 하늘을 배경으로 가파르게 솟아 있다.",
+        "subject": "로스 피크(해발 4,095m), 사바주 키나발루산의 정상"
+      },
+      {
+        "alt": "식충식물 네펜테스 빌로사의 둥글고 깊은 능선이 있는 주황빛 붉은 포충낭을 가까이서 본 모습. 통의 입구는 톱니 모양의 가장자리로 둘러싸여 있으며, 안개가 자욱한 키나발루 공원의 고지대 숲에서 자라고 있다.",
+        "subject": "네펜테스 빌로사(Nepenthes villosa), 키나발루산 고지대에 고유한 식충성 벌레잡이통풀, 키나발루 공원에서 촬영"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ยอดหินแกรนิตสีเทาที่เปลือยเปล่าและขรุขระของโลวส์พีก ซึ่งเป็นจุดสูงสุดของภูเขาคินาบาลู ตั้งตระหง่านขึ้นอย่างชันตัดกับท้องฟ้าแจ่มใสเหนือที่ราบสูงยอดเขาอันแห้งแล้ง",
+        "subject": "ยอดโลวส์พีก (Low's Peak) สูง 4,095 เมตร ยอดสูงสุดของภูเขาคินาบาลู รัฐซาบาห์"
+      },
+      {
+        "alt": "ภาพระยะใกล้ของกระเปาะดักแมลงสีส้มแดงทรงกลมที่มีสันร่องลึกของพืชกินแมลง Nepenthes villosa ปากกระเปาะมีขอบหยักคล้ายฟันล้อมรอบ เติบโตอยู่ในป่าที่สูงอันปกคลุมด้วยหมอกของอุทยานคินาบาลู",
+        "subject": "หม้อข้าวหม้อแกงลิงชนิด Nepenthes villosa พืชกินแมลงที่พบเฉพาะถิ่นบนที่สูงของภูเขาคินาบาลู ในอุทยานคินาบาลู"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "माउंट किनाबालू के सर्वोच्च बिंदु लोज़ पीक की नंगी, दांतेदार धूसर-ग्रेनाइट चोटी, बंजर शिखर पठार के ऊपर साफ़ आसमान के सामने तीव्रता से उठती हुई।",
+        "subject": "लोज़ पीक (4,095 मीटर), सबाह में माउंट किनाबालू का शिखर"
+      },
+      {
+        "alt": "मांसाहारी नेपेंथेस विलोसा पौधे की गोलाकार, गहरी धारीदार नारंगी-लाल घट का नज़दीकी दृश्य, जिसका मुख दांतेदार किनारे से घिरा है, किनाबालू पार्क के धुंध भरे उच्चभूमि वन में उगता हुआ।",
+        "subject": "नेपेंथेस विलोसा (Nepenthes villosa), किनाबालू पार्क में माउंट किनाबालू के उच्चभूमि क्षेत्र की स्थानिक एक मांसाहारी घटपर्णी पौधा"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "النتوء الصخري الجرانيتي الرمادي العاري والمسنن لقمة لو، أعلى نقطة في جبل كينابالو، يرتفع بحدة أمام سماء صافية فوق هضبة القمة القاحلة.",
+        "subject": "قمة لو (4,095 م)، ذروة جبل كينابالو، صباح"
+      },
+      {
+        "alt": "لقطة مقرّبة لإبريق مستدير عميق التضليع بلون أحمر برتقالي لنبات Nepenthes villosa آكل اللحوم، تحيط بفوهته حافة مسننة، ينمو في غابة المرتفعات الضبابية بحديقة كينابالو.",
+        "subject": "نبات الإبريق آكل اللحوم Nepenthes villosa، المستوطن في مرتفعات جبل كينابالو، في حديقة كينابالو"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La aguja desnuda y dentada de granito gris del Pico Low, el punto más alto del monte Kinabalu, que se eleva abruptamente contra un cielo despejado sobre la árida meseta de la cumbre.",
+        "subject": "El Pico Low (4.095 m), la cumbre del monte Kinabalu, Sabah"
+      },
+      {
+        "alt": "Primer plano de la jarra redondeada y profundamente acanalada de color rojo anaranjado de la planta carnívora Nepenthes villosa, con la boca bordeada por un reborde dentado, que crece en el bosque brumoso de las tierras altas del Parque de Kinabalu.",
+        "subject": "Nepenthes villosa, una planta carnívora de jarra endémica de las tierras altas del monte Kinabalu, en el Parque de Kinabalu"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "La flèche de granite gris, nue et déchiquetée, du pic Low, point culminant du mont Kinabalu, s'élevant abruptement sur un ciel dégagé au-dessus du plateau sommital aride.",
+        "subject": "Le pic Low (4 095 m), le sommet du mont Kinabalu, Sabah"
+      },
+      {
+        "alt": "Gros plan sur l'urne arrondie et profondément nervurée, d'un rouge orangé, de la plante carnivore Nepenthes villosa, dont l'ouverture est bordée d'un péristome denté, poussant dans la forêt d'altitude brumeuse du parc de Kinabalu.",
+        "subject": "Nepenthes villosa, une plante carnivore à urne endémique des hautes terres du mont Kinabalu, dans le parc de Kinabalu"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Menara granit kelabu Puncak Low yang gondol dan bergerigi, titik tertinggi Gunung Kinabalu, menjulang tajam menongkah langit cerah di atas dataran tinggi puncak yang gersang.",
+        "subject": "Puncak Low (4,095 m), kemuncak Gunung Kinabalu, Sabah"
+      },
+      {
+        "alt": "Tampak dekat periuk bulat berlurah dalam berwarna jingga kemerahan bagi tumbuhan karnivor Nepenthes villosa, mulutnya berbibir bergerigi, tumbuh di hutan tanah tinggi berkabus Taman Kinabalu.",
+        "subject": "Nepenthes villosa, periuk kera karnivor endemik di tanah tinggi Gunung Kinabalu, di Taman Kinabalu"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Menara granit kelabu Puncak Low yang gundul dan bergerigi, titik tertinggi Gunung Kinabalu, menjulang tajam di hadapan langit cerah di atas dataran tinggi puncak yang gersang.",
+        "subject": "Puncak Low (4.095 m), puncak Gunung Kinabalu, Sabah"
+      },
+      {
+        "alt": "Tampak dekat kantong bulat beralur dalam berwarna jingga kemerahan dari tumbuhan karnivora Nepenthes villosa, mulutnya berbibir bergerigi, tumbuh di hutan dataran tinggi berkabut Taman Kinabalu.",
+        "subject": "Nepenthes villosa, kantong semar karnivora endemik di dataran tinggi Gunung Kinabalu, di Taman Kinabalu"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Chóp đá granit xám trơ trụi và lởm chởm của đỉnh Low, điểm cao nhất của núi Kinabalu, vươn lên sắc nét trên nền trời quang đãng phía trên cao nguyên đỉnh núi cằn cỗi.",
+        "subject": "Đỉnh Low (4.095 m), đỉnh cao nhất của núi Kinabalu, Sabah"
+      },
+      {
+        "alt": "Cận cảnh chiếc ấm tròn có gân sâu màu đỏ cam của cây ăn thịt Nepenthes villosa, miệng ấm viền một gờ răng cưa, mọc trong khu rừng vùng cao sương mù của Vườn quốc gia Kinabalu.",
+        "subject": "Nepenthes villosa, một loài cây nắp ấm ăn thịt đặc hữu của vùng cao núi Kinabalu, tại Vườn quốc gia Kinabalu"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கினபாலு மலையின் மிக உயர்ந்த புள்ளியான லோ சிகரத்தின் வெறுமையான, பற்களைப் போன்ற சாம்பல் கிரானைட் கூம்பு, தரிசான உச்சிப் பீடபூமிக்கு மேலே தெளிந்த வானத்தை நோக்கி கூர்மையாக எழும்புகிறது.",
+        "subject": "லோ சிகரம் (4,095 மீ), சபாவில் உள்ள கினபாலு மலையின் உச்சி"
+      },
+      {
+        "alt": "ஊனுண்ணி நெபந்தெஸ் வில்லோசா தாவரத்தின் வட்டமான, ஆழமாக விலாக்கோடுகள் கொண்ட செம்மஞ்சள் நிறக் குடுவையின் நெருங்கிய காட்சி; அதன் வாய் பற்கள் போன்ற விளிம்பால் சூழப்பட்டுள்ளது, கினபாலு பூங்காவின் மூடுபனி நிறைந்த மலைக் காட்டில் வளர்கிறது.",
+        "subject": "நெபந்தெஸ் வில்லோசா (Nepenthes villosa), கினபாலு பூங்காவில், கினபாலு மலையின் மலைப்பகுதிக்கே உரிய ஒரு ஊனுண்ணி குடுவைத் தாவரம்"
+      }
+    ]
+  },
+  "malaysia/titiwangsa-range": {
+    "zh": [
+      {
+        "alt": "一行行修剪整齐、轮廓分明的翠绿茶树铺满金马仑高原Bharat茶园起伏的山丘，上方是柔和的天空。",
+        "subject": "彭亨州蒂迪旺沙山脉一带金马仑高原上的Bharat茶园"
+      },
+      {
+        "alt": "都铎风格的小屋和一间餐厅坐落在福隆港避暑地郁郁葱葱的绿色林坡之间，四周是蒂迪旺沙群山。",
+        "subject": "福隆港（Bukit Fraser），彭亨州蒂迪旺沙山脉中一处殖民时期的山区避暑地"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "きれいに等高線状に並んだ鮮やかな緑の茶の木が、柔らかな空の下、キャメロンハイランドのバラット茶園のなだらかな丘を覆っている。",
+        "subject": "パハン州ティティワンサ山脈の一部、キャメロンハイランドにあるバラット茶園"
+      },
+      {
+        "alt": "チューダー様式のコテージとレストランが、ティティワンサ山脈のフレーザーズヒル避暑地で、緑豊かな森に覆われた斜面の間にたたずんでいる。",
+        "subject": "フレーザーズヒル（ブキッ・フレーザー）、パハン州ティティワンサ山脈にある植民地時代の避暑地（ヒルステーション）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "깔끔하게 등고선을 따라 늘어선 선명한 초록빛 차나무들이 부드러운 하늘 아래 카메론 하일랜드 바랏 차밭의 완만한 언덕을 뒤덮고 있다.",
+        "subject": "파항주 티티왕사산맥의 일부인 카메론 하일랜드의 바랏 차밭"
+      },
+      {
+        "alt": "튜더 양식의 오두막들과 식당 한 곳이 티티왕사산맥의 프레이저스 힐 휴양지에서 울창한 초록빛 숲으로 뒤덮인 비탈 사이에 자리 잡고 있다.",
+        "subject": "프레이저스 힐(부킷 프레이저), 파항주 티티왕사산맥에 있는 식민지 시대의 고원 휴양지"
+      }
+    ],
+    "th": [
+      {
+        "alt": "แถวต้นชาสีเขียวสดเรียงเป็นระดับตามแนวเส้นชั้นความสูงอย่างเป็นระเบียบ ปกคลุมเนินเขาลูกคลื่นของไร่ชาบารัตในแคเมอรอนไฮแลนด์สภายใต้ท้องฟ้านุ่มนวล",
+        "subject": "ไร่ชาบารัต (Bharat) ในแคเมอรอนไฮแลนด์ส ส่วนหนึ่งของเทือกเขาตีตีวังซา รัฐปะหัง"
+      },
+      {
+        "alt": "กระท่อมสไตล์ทิวดอร์และร้านอาหารแห่งหนึ่งตั้งอยู่ท่ามกลางเนินเขาที่ปกคลุมด้วยป่าเขียวชอุ่มที่สถานตากอากาศเฟรเซอร์สฮิลล์ในเทือกเขาตีตีวังซา",
+        "subject": "เฟรเซอร์สฮิลล์ (Bukit Fraser) สถานตากอากาศบนภูเขาสมัยอาณานิคมในเทือกเขาตีตีวังซา รัฐปะหัง"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कोमल आसमान के नीचे कैमरून हाइलैंड्स में भारत बागान की लहरदार पहाड़ियों को ढकती चमकीली हरी चाय की झाड़ियों की करीने से बनी घुमावदार कतारें।",
+        "subject": "कैमरून हाइलैंड्स में भारत चाय बागान, तितिवांगसा श्रेणी का हिस्सा, पहांग"
+      },
+      {
+        "alt": "तितिवांगसा पर्वतों में फ़्रेज़र्स हिल स्थल पर हरी-भरी वनाच्छादित ढलानों के बीच बसे ट्यूडर-शैली के कॉटेज और एक रेस्तरां।",
+        "subject": "फ़्रेज़र्स हिल (बुकिट फ़्रेज़र), तितिवांगसा श्रेणी में औपनिवेशिक काल का एक पर्वतीय विश्रामस्थल, पहांग"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "صفوف مرتبة ومتعرجة من شجيرات الشاي الخضراء الزاهية تغطي التلال المتموجة لمزرعة بهارات في مرتفعات كاميرون تحت سماء هادئة.",
+        "subject": "مزرعة شاي بهارات في مرتفعات كاميرون، جزء من سلسلة تيتيوانغسا، بَهَانغ"
+      },
+      {
+        "alt": "أكواخ على الطراز التيودوري ومطعم تتوسط منحدرات خضراء غنّاء مكسوة بالغابات في مصيف تل فريزر، في جبال تيتيوانغسا.",
+        "subject": "تل فريزر (بوكيت فريزر)، مصيف جبلي من الحقبة الاستعمارية في سلسلة تيتيوانغسا، بَهَانغ"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Hileras prolijamente curvadas de arbustos de té de un verde brillante cubren las colinas onduladas de la plantación Bharat en las Cameron Highlands bajo un cielo suave.",
+        "subject": "La plantación de té Bharat en las Cameron Highlands, parte de la cordillera de Titiwangsa, Pahang"
+      },
+      {
+        "alt": "Cabañas de estilo Tudor y un restaurante enclavados entre exuberantes laderas boscosas verdes en la estación de Fraser's Hill, en las montañas de Titiwangsa.",
+        "subject": "Fraser's Hill (Bukit Fraser), una estación de montaña de la época colonial en la cordillera de Titiwangsa, Pahang"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des rangées soigneusement dessinées de théiers d'un vert vif recouvrent les collines ondoyantes de la plantation Bharat dans les Cameron Highlands sous un ciel doux.",
+        "subject": "La plantation de thé Bharat dans les Cameron Highlands, partie de la chaîne de Titiwangsa, Pahang"
+      },
+      {
+        "alt": "Des cottages de style Tudor et un restaurant nichés parmi de luxuriantes pentes boisées verdoyantes à la station de Fraser's Hill, dans les montagnes de Titiwangsa.",
+        "subject": "Fraser's Hill (Bukit Fraser), une station de montagne de l'époque coloniale dans la chaîne de Titiwangsa, Pahang"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Barisan pokok teh hijau terang yang berkontur kemas menyelimuti bukit-bukau beralun ladang Bharat di Tanah Tinggi Cameron di bawah langit lembut.",
+        "subject": "Ladang teh Bharat di Tanah Tinggi Cameron, sebahagian daripada Banjaran Titiwangsa, Pahang"
+      },
+      {
+        "alt": "Kotej bergaya Tudor dan sebuah restoran tersergam di antara cerun berhutan hijau subur di pusat peranginan Bukit Fraser, di pergunungan Titiwangsa.",
+        "subject": "Bukit Fraser, sebuah pusat peranginan tanah tinggi era kolonial di Banjaran Titiwangsa, Pahang"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Barisan pohon teh hijau terang berkontur rapi menyelimuti perbukitan bergelombang perkebunan Bharat di Cameron Highlands di bawah langit lembut.",
+        "subject": "Perkebunan teh Bharat di Cameron Highlands, bagian dari Pegunungan Titiwangsa, Pahang"
+      },
+      {
+        "alt": "Pondok bergaya Tudor dan sebuah restoran bersarang di antara lereng berhutan hijau subur di tempat peristirahatan Bukit Fraser, di pegunungan Titiwangsa.",
+        "subject": "Bukit Fraser, sebuah tempat peristirahatan pegunungan era kolonial di Pegunungan Titiwangsa, Pahang"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những hàng cây trà xanh tươi uốn lượn ngay ngắn phủ kín các ngọn đồi thoai thoải của đồn điền Bharat ở Cao nguyên Cameron dưới bầu trời dịu nhẹ.",
+        "subject": "Đồn điền trà Bharat ở Cao nguyên Cameron, một phần của dãy Titiwangsa, Pahang"
+      },
+      {
+        "alt": "Những ngôi nhà gỗ kiểu Tudor và một nhà hàng nép mình giữa các sườn đồi rừng xanh tươi tốt tại trạm nghỉ Đồi Fraser, trong dãy núi Titiwangsa.",
+        "subject": "Đồi Fraser (Bukit Fraser), một trạm nghỉ mát trên núi thời thuộc địa thuộc dãy Titiwangsa, Pahang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "மென்மையான வானத்தின் கீழ் கேமரூன் மலைப்பகுதியில் உள்ள பாரத் தோட்டத்தின் அலைபோல் வளைந்த குன்றுகளை மூடியிருக்கும், நேர்த்தியாக வளைவுக் கோடுகளில் அமைந்த பிரகாசமான பச்சை தேயிலைச் செடிகளின் வரிசைகள்.",
+        "subject": "கேமரூன் மலைப்பகுதியில் உள்ள பாரத் தேயிலைத் தோட்டம், திதிவாங்சா மலைத்தொடரின் ஒரு பகுதி, பகாங்"
+      },
+      {
+        "alt": "திதிவாங்சா மலைகளில் உள்ள பிரேசர்ஸ் ஹில் தலத்தில் பசுமையான காடுகள் சூழ்ந்த சரிவுகளுக்கு இடையே அமைந்துள்ள டியூடர் பாணிக் குடிசைகளும் ஒரு உணவகமும்.",
+        "subject": "பிரேசர்ஸ் ஹில் (புக்கிட் பிரேசர்), திதிவாங்சா மலைத்தொடரில் காலனித்துவ காலத்து மலைவாச தலம், பகாங்"
+      }
+    ]
+  },
+  "malaysia/malaysia-rivers": {
+    "zh": [
+      {
+        "alt": "拉让江宽阔而平静的水面映照着金色的傍晚天空，两岸是砂拉越低矮的林木河岸，渐渐没入远方。",
+        "subject": "黄昏时分砂拉越的拉让江，马来西亚最长的河流"
+      },
+      {
+        "alt": "狭窄的马六甲河在马六甲历史老城区色彩缤纷的河畔店屋与滨水步道之间流淌。",
+        "subject": "蜿蜒流过马六甲古城历史老城区的马六甲河"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ラジャン川の広く穏やかな水面が金色の夕空を映し、サラワクの低く森に覆われた岸辺が遠くへと霞んでいく。",
+        "subject": "夕暮れのサラワク州を流れるラジャン川、マレーシア最長の川"
+      },
+      {
+        "alt": "狭いムラカ川が、マラッカの歴史的な旧市街の色鮮やかな川沿いのショップハウスと水辺の遊歩道の間を流れている。",
+        "subject": "マラッカ市の歴史的な旧市街を蛇行して流れるムラカ川"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "라장강의 넓고 잔잔한 수면이 황금빛 저녁 하늘을 비추고, 숲으로 뒤덮인 사라왁의 낮은 강기슭이 멀리 희미하게 사라져 간다.",
+        "subject": "해 질 녘 사라왁주를 흐르는 라장강, 말레이시아에서 가장 긴 강"
+      },
+      {
+        "alt": "좁은 믈라카강이 말라카의 역사적인 구시가지의 알록달록한 강변 숍하우스와 수변 산책로 사이를 흐르고 있다.",
+        "subject": "말라카시의 역사적인 구시가지를 굽이쳐 흐르는 믈라카강"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ผืนน้ำอันกว้างใหญ่และสงบนิ่งของแม่น้ำราจังสะท้อนท้องฟ้ายามเย็นสีทอง ขนาบด้วยริมฝั่งป่าเตี้ย ๆ ของซาราวักที่เลือนหายไปในระยะไกล",
+        "subject": "แม่น้ำราจัง (Rajang) ยามพลบค่ำในรัฐซาราวัก แม่น้ำที่ยาวที่สุดของมาเลเซีย"
+      },
+      {
+        "alt": "แม่น้ำมะละกาที่แคบไหลผ่านระหว่างอาคารพาณิชย์ริมน้ำสีสันสดใสและทางเดินเลียบน้ำในย่านเมืองเก่าอันเก่าแก่ของมะละกา",
+        "subject": "แม่น้ำมะละกาที่คดเคี้ยวผ่านย่านเมืองเก่าอันเก่าแก่ของเมืองมะละกา"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "रजांग नदी का विस्तृत, शांत फैलाव सुनहरे संध्या आकाश को प्रतिबिंबित करता है, जो दूरी में विलीन होती सरावाक की नीची वनाच्छादित तटरेखाओं से घिरा है।",
+        "subject": "सरावाक में सांझ के समय रजांग नदी, मलेशिया की सबसे लंबी नदी"
+      },
+      {
+        "alt": "मलक्का के ऐतिहासिक पुराने नगर में रंगीन नदी-किनारे की दुकान-घरों और जलतट के पैदल मार्गों के बीच बहती संकरी मलक्का नदी।",
+        "subject": "मलक्का शहर के ऐतिहासिक पुराने नगर से होकर बहती मलक्का नदी"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "المسطح الواسع الهادئ لنهر راجانغ يعكس سماء مسائية ذهبية، تحده ضفاف ساراواك المنخفضة المكسوة بالغابات التي تتلاشى في البعيد.",
+        "subject": "نهر راجانغ عند الغسق في ساراواك، أطول أنهار ماليزيا"
+      },
+      {
+        "alt": "نهر ملقا الضيق يجري بين بيوت المتاجر الملونة على ضفافه وممرات المشاة على الواجهة المائية في البلدة القديمة التاريخية لملقا.",
+        "subject": "نهر ملقا يتعرّج عبر البلدة القديمة التاريخية لمدينة ملقا"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La amplia y tranquila extensión del río Rajang refleja un cielo vespertino dorado, bordeada por las bajas orillas boscosas de Sarawak que se desvanecen en la distancia.",
+        "subject": "El río Rajang al atardecer en Sarawak, el río más largo de Malasia"
+      },
+      {
+        "alt": "El estrecho río Melaka fluye entre coloridas casas-tienda ribereñas y paseos junto al agua en el casco histórico de Malaca.",
+        "subject": "El río Melaka serpenteando por el casco histórico de la ciudad de Malaca"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "La vaste et calme étendue de la rivière Rajang reflète un ciel du soir doré, bordée par les basses rives boisées du Sarawak qui s'estompent au loin.",
+        "subject": "La rivière Rajang au crépuscule dans le Sarawak, le plus long cours d'eau de Malaisie"
+      },
+      {
+        "alt": "L'étroite rivière Melaka s'écoule entre des maisons-boutiques colorées en bord de rivière et des promenades au fil de l'eau dans la vieille ville historique de Malacca.",
+        "subject": "La rivière Melaka serpentant à travers la vieille ville historique de Malacca"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Hamparan luas dan tenang Sungai Rajang memantulkan langit senja keemasan, dibatasi tebing berhutan rendah Sarawak yang menghilang ke kejauhan.",
+        "subject": "Sungai Rajang pada waktu senja di Sarawak, sungai terpanjang di Malaysia"
+      },
+      {
+        "alt": "Sungai Melaka yang sempit mengalir di antara rumah kedai tepi sungai berwarna-warni dan laluan pejalan kaki tepi air di bandar lama bersejarah Melaka.",
+        "subject": "Sungai Melaka berliku menyusuri bandar lama bersejarah Bandar Melaka"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Bentangan luas dan tenang Sungai Rajang memantulkan langit senja keemasan, dibatasi tebing berhutan rendah Sarawak yang memudar ke kejauhan.",
+        "subject": "Sungai Rajang pada waktu senja di Sarawak, sungai terpanjang di Malaysia"
+      },
+      {
+        "alt": "Sungai Melaka yang sempit mengalir di antara ruko tepi sungai berwarna-warni dan jalur pejalan kaki tepi air di kota tua bersejarah Melaka.",
+        "subject": "Sungai Melaka berkelok menyusuri kota tua bersejarah Kota Melaka"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Mặt nước rộng lớn, phẳng lặng của sông Rajang phản chiếu bầu trời chiều vàng óng, hai bên là những bờ rừng thấp của Sarawak mờ dần về phía xa.",
+        "subject": "Sông Rajang lúc hoàng hôn ở Sarawak, con sông dài nhất Malaysia"
+      },
+      {
+        "alt": "Dòng sông Melaka hẹp chảy giữa những dãy nhà phố ven sông đầy màu sắc và lối đi bộ ven nước trong khu phố cổ lịch sử của Malacca.",
+        "subject": "Sông Melaka uốn lượn qua khu phố cổ lịch sử của thành phố Malacca"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ராஜாங் ஆற்றின் அகன்ற, அமைதியான நீர்ப்பரப்பு பொன்னிற மாலை வானத்தைப் பிரதிபலிக்கிறது, தொலைவில் மறையும் சரவாக்கின் தாழ்வான காடுகள் சூழ்ந்த கரைகளால் எல்லைப்படுத்தப்பட்டுள்ளது.",
+        "subject": "சரவாக்கில் அந்தி வேளையில் ராஜாங் ஆறு, மலேசியாவின் மிக நீளமான ஆறு"
+      },
+      {
+        "alt": "மலாக்காவின் வரலாற்றுப் பழைய நகரில் வண்ணமயமான ஆற்றங்கரை கடை-வீடுகளுக்கும் நீர்முக நடைபாதைகளுக்கும் இடையே பாயும் குறுகிய மலாக்கா ஆறு.",
+        "subject": "மலாக்கா நகரின் வரலாற்றுச் சிறப்புமிக்க பழைய நகரைக் கடந்து வளைந்து செல்லும் மலாக்கா ஆறு"
+      }
+    ]
+  },
+  "malaysia/climate-and-biodiversity": {
+    "zh": [
+      {
+        "alt": "一只锈橙色的年幼婆罗洲猩猩用一只手臂吊在树间拉起的绳索上，另一只手抓着绳子，背景是茂密的绿色雨林枝叶。",
+        "subject": "一只年幼的婆罗洲猩猩（Pongo pygmaeus），一种仅见于婆罗洲雨林的大型类人猿"
+      },
+      {
+        "alt": "一朵完全绽放的大王花躺在铺满落叶的林地上，五片厚实的红褐色花瓣上布满浅色的疣状斑点，环绕着中央深凹、开口的花杯。",
+        "subject": "沙巴林地上一朵盛开的大王花（Rafflesia），世界上最大的花之一，是婆罗洲雨林中的一种寄生植物"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "錆びたオレンジ色のボルネオオランウータンの幼獣が、木々の間に張られたロープに片腕でぶら下がり、もう一方の手でロープを握っている。背景には深い緑の熱帯雨林の葉が広がる。",
+        "subject": "ボルネオオランウータン（Pongo pygmaeus）の幼獣、ボルネオの熱帯雨林にのみ生息する大型類人猿"
+      },
+      {
+        "alt": "完全に開いたラフレシアの花が落ち葉の散らばる林床に咲いている。厚みのある5枚の赤褐色の裂片は淡いいぼ状の斑点に覆われ、中央の深く開いた杯状部を囲んでいる。",
+        "subject": "サバ州の林床で満開になったラフレシア、世界最大級の花の一つで、ボルネオの熱帯雨林に寄生する植物"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "녹슨 주황색의 어린 보르네오오랑우탄이 나무 사이에 걸쳐진 밧줄에 한 팔로 매달린 채 다른 손으로 줄을 붙잡고 있으며, 배경에는 울창한 초록빛 열대우림 잎들이 펼쳐져 있다.",
+        "subject": "어린 보르네오오랑우탄(Pongo pygmaeus), 보르네오 열대우림에서만 발견되는 대형 유인원"
+      },
+      {
+        "alt": "완전히 피어난 라플레시아 꽃이 낙엽이 깔린 숲 바닥에 놓여 있다. 두꺼운 다섯 개의 적갈색 꽃잎은 옅은 사마귀 같은 반점으로 덮여 있으며, 가운데의 깊고 열린 잔 모양 부분을 둘러싸고 있다.",
+        "subject": "사바주의 숲 바닥에 활짝 핀 라플레시아, 세계에서 가장 큰 꽃 중 하나이자 보르네오 열대우림의 기생식물"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ลูกอุรังอุตังบอร์เนียวสีส้มสนิมห้อยตัวด้วยแขนข้างเดียวจากเชือกที่ขึงระหว่างต้นไม้ อีกมือหนึ่งจับเชือกไว้ ตัดกับฉากหลังเป็นพุ่มใบไม้ป่าฝนสีเขียวหนาทึบ",
+        "subject": "ลูกอุรังอุตังบอร์เนียว (Pongo pygmaeus) ลิงไร้หางขนาดใหญ่ที่พบเฉพาะในป่าฝนของเกาะบอร์เนียวเท่านั้น"
+      },
+      {
+        "alt": "ดอกราฟเฟลเซียที่บานเต็มที่วางอยู่บนพื้นป่าที่เกลื่อนด้วยใบไม้ร่วง กลีบหนาสีน้ำตาลแดงทั้งห้ากลีบปกคลุมด้วยจุดนูนคล้ายหูดสีซีด ล้อมรอบถ้วยกลางที่เปิดลึก",
+        "subject": "ดอกราฟเฟลเซีย (Rafflesia) ที่บานเต็มที่บนพื้นป่าในรัฐซาบาห์ หนึ่งในดอกไม้ที่ใหญ่ที่สุดในโลกและเป็นพืชกาฝากของป่าฝนบอร์เนียว"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "जंग-नारंगी रंग का एक युवा बोर्नियन ओरंगुटान पेड़ों के बीच बंधी रस्सी से एक बांह के सहारे लटका है, दूसरे हाथ से रस्सी थामे हुए, घने हरे वर्षावन के पत्तों की पृष्ठभूमि के सामने।",
+        "subject": "एक युवा बोर्नियन ओरंगुटान (Pongo pygmaeus), एक महाकपि जो केवल बोर्नियो के वर्षावनों में पाया जाता है"
+      },
+      {
+        "alt": "पत्तों से बिखरे वन-तल पर पूरी तरह खुला एक रैफ्लेसिया फूल पड़ा है, इसकी पाँच मोटी लाल-भूरी पंखुड़ियाँ हल्के मस्से जैसे धब्बों से ढकी हैं जो एक गहरे खुले केंद्रीय कटोरे को घेरती हैं।",
+        "subject": "सबाह में वन-तल पर पूर्ण खिली एक रैफ्लेसिया (Rafflesia), दुनिया के सबसे बड़े फूलों में से एक और बोर्नियो वर्षावन का एक परजीवी पौधा"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "إنسان غاب بورنيو صغير بلون برتقالي صدئ يتدلى بذراع واحدة من حبل ممدود بين الأشجار، ممسكًا الحبل بيده الأخرى، أمام خلفية من أوراق الغابة المطيرة الخضراء الكثيفة.",
+        "subject": "إنسان غاب بورنيو صغير (Pongo pygmaeus)، قرد عظيم لا يوجد إلا في غابات بورنيو المطيرة"
+      },
+      {
+        "alt": "زهرة رافليسيا مفتوحة بالكامل ترقد على أرضية الغابة المغطاة بأوراق الشجر المتساقطة، فصوصها الخمسة السميكة البنية المحمرّة مغطاة ببقع شاحبة شبيهة بالثآليل تحيط بكأس مركزية عميقة مفتوحة.",
+        "subject": "زهرة رافليسيا متفتحة بالكامل على أرضية الغابة في صباح، إحدى أكبر الزهور في العالم ونبات طفيلي في غابة بورنيو المطيرة"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un joven orangután de Borneo de color naranja rojizo cuelga de un brazo de una cuerda tendida entre los árboles, sujetando la cuerda con la otra mano, sobre un fondo de densa vegetación verde de selva tropical.",
+        "subject": "Un orangután de Borneo joven (Pongo pygmaeus), un gran simio que solo se encuentra en las selvas de Borneo"
+      },
+      {
+        "alt": "Una flor de Rafflesia completamente abierta reposa sobre el suelo del bosque cubierto de hojarasca, con sus cinco gruesos lóbulos de color marrón rojizo cubiertos de manchas pálidas verrugosas que rodean una profunda copa central abierta.",
+        "subject": "Una Rafflesia en plena floración en el suelo del bosque en Sabah, una de las flores más grandes del mundo y una planta parásita de la selva de Borneo"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un jeune orang-outan de Bornéo au pelage orange rouille se suspend d'un bras à une corde tendue entre les arbres, l'autre main agrippant la corde, sur un fond de dense feuillage vert de forêt tropicale.",
+        "subject": "Un jeune orang-outan de Bornéo (Pongo pygmaeus), un grand singe que l'on ne trouve que dans les forêts tropicales de Bornéo"
+      },
+      {
+        "alt": "Une fleur de Rafflesia entièrement ouverte repose sur le sol forestier jonché de feuilles, ses cinq épais lobes brun rougeâtre couverts de taches pâles verruqueuses entourant une profonde coupe centrale ouverte.",
+        "subject": "Une Rafflesia en pleine floraison sur le sol de la forêt à Sabah, l'une des plus grandes fleurs du monde et une plante parasite de la forêt tropicale de Bornéo"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Seekor orang utan Borneo muda berwarna jingga karat bergayut dengan sebelah lengan pada tali yang direntang antara pokok, tangan satu lagi mencengkam tali, berlatarkan dedaunan hutan hujan hijau yang tebal.",
+        "subject": "Seekor orang utan Borneo muda (Pongo pygmaeus), mawas besar yang hanya ditemui di hutan hujan Borneo"
+      },
+      {
+        "alt": "Sekuntum bunga Rafflesia yang mekar sepenuhnya terletak di lantai hutan yang bersepah daun, lima cuping tebal berwarna perang kemerahan dipenuhi tompok pucat seperti ketuat mengelilingi mangkuk tengah yang dalam dan terbuka.",
+        "subject": "Sekuntum Rafflesia mekar penuh di lantai hutan di Sabah, antara bunga terbesar di dunia dan tumbuhan parasit hutan hujan Borneo"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Seekor orangutan Borneo muda berwarna jingga karat bergelantung dengan satu lengan pada tali yang direntang di antara pepohonan, tangan satunya mencengkeram tali, dengan latar dedaunan hutan hujan hijau yang rapat.",
+        "subject": "Seekor orangutan Borneo muda (Pongo pygmaeus), kera besar yang hanya ditemukan di hutan hujan Borneo"
+      },
+      {
+        "alt": "Sekuntum bunga Rafflesia yang mekar sepenuhnya terletak di lantai hutan yang bertaburan daun, lima cuping tebalnya berwarna cokelat kemerahan dipenuhi bintik pucat mirip kutil yang mengelilingi mangkuk tengah yang dalam dan terbuka.",
+        "subject": "Sekuntum Rafflesia mekar penuh di lantai hutan di Sabah, salah satu bunga terbesar di dunia dan tumbuhan parasit hutan hujan Borneo"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một con đười ươi Borneo non màu cam gỉ sét đu một tay trên sợi dây căng giữa các cây, tay kia nắm lấy dây, trên nền tán lá rừng mưa xanh rậm rạp.",
+        "subject": "Một con đười ươi Borneo non (Pongo pygmaeus), loài vượn lớn chỉ có ở các khu rừng mưa Borneo"
+      },
+      {
+        "alt": "Một bông hoa Rafflesia nở hoàn toàn nằm trên nền rừng phủ đầy lá rụng, năm thùy dày màu nâu đỏ phủ những đốm nhạt sần sùi bao quanh một chiếc chén trung tâm sâu và mở rộng.",
+        "subject": "Một bông Rafflesia nở rộ trên nền rừng ở Sabah, một trong những loài hoa lớn nhất thế giới và là loài cây ký sinh của rừng mưa Borneo"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "துருப்பிடித்த செம்மஞ்சள் நிற இளம் போர்னியோ ஒராங்குட்டான் மரங்களுக்கிடையே கட்டப்பட்ட கயிற்றில் ஒரு கையால் தொங்குகிறது, மறு கையால் கயிற்றைப் பிடித்துள்ளது, அடர்ந்த பச்சை மழைக்காட்டு இலைகளைப் பின்னணியாகக் கொண்டுள்ளது.",
+        "subject": "இளம் போர்னியோ ஒராங்குட்டான் (Pongo pygmaeus), போர்னியோவின் மழைக்காடுகளில் மட்டுமே காணப்படும் ஒரு பெரிய மனிதக்குரங்கு"
+      },
+      {
+        "alt": "உதிர்ந்த இலைகள் பரவிய காட்டுத் தரையில் முழுமையாக விரிந்த ஒரு ரஃப்ளேசியா மலர்; அதன் ஐந்து தடிமனான சிவப்பு-பழுப்பு இதழ்கள் வெளிர் மருக்கள் போன்ற புள்ளிகளால் மூடப்பட்டு, ஆழமான திறந்த மைய கிண்ணத்தைச் சூழ்ந்துள்ளன.",
+        "subject": "சபாவில் காட்டுத் தரையில் முழுமையாக மலர்ந்த ரஃப்ளேசியா, உலகின் மிகப்பெரிய மலர்களில் ஒன்றும் போர்னியோ மழைக்காட்டின் ஒரு ஒட்டுண்ணித் தாவரமும் ஆகும்"
+      }
+    ]
+  },
+  "malaysia/bujang-valley": {
+    "zh": [
+      {
+        "alt": "一座以红褐色红土砖砌成的方形阶梯式庙宇基座立于裸露的地面上，上方是一座开放式的木构瓦顶保护棚，远处可见绿色的山丘与森林。",
+        "subject": "吉打州布央谷考古群中一座复原的印度教—佛教庙宇基座（candi）"
+      },
+      {
+        "alt": "四件出土的陶器与釉陶器皿——一只高高的深色带流罐、一只圆形白罐和两只小碗——陈列在明亮展柜内的透明托架上。",
+        "subject": "吉打州布央谷出土的陶瓷器皿，陈列于考古博物馆"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "赤みを帯びたラテライトの切石で築かれた階段状の方形の寺院基壇が、木材と瓦でできた開放的な保護用の覆い屋の下、むき出しの地面に立っている。奥には緑の丘と森が見える。",
+        "subject": "ケダ州のブジャン渓谷遺跡群にある復元されたチャンディ（ヒンドゥー・仏教寺院の基壇）"
+      },
+      {
+        "alt": "出土した4つの土器と釉薬をかけた陶磁器——背の高い黒っぽい注ぎ口付きの壺、丸い白い壺、小さな鉢2つ——が、照明の当たった博物館の展示ケース内の透明な台に並べられている。",
+        "subject": "ケダ州のブジャン渓谷で出土し、考古博物館に展示されている陶磁器"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "불그스름한 라테라이트 블록으로 쌓은 계단식 사각형 사원 기단이 목재와 기와로 된 개방형 보호 지붕 아래 맨땅 위에 서 있고, 그 너머로 초록빛 언덕과 숲이 보인다.",
+        "subject": "케다주 부장 계곡 고고학 유적지에 복원된 찬디(힌두-불교 사원 기단)"
+      },
+      {
+        "alt": "출토된 네 점의 토기와 유약을 바른 도자기 그릇—키 큰 짙은 색 주둥이 달린 항아리, 둥근 흰색 단지, 작은 그릇 두 개—이 조명이 켜진 박물관 전시 케이스 안의 투명한 받침대 위에 전시되어 있다.",
+        "subject": "케다주 부장 계곡에서 출토되어 고고학 박물관에 전시된 도자기 그릇들"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ฐานศาสนสถานทรงสี่เหลี่ยมแบบขั้นบันไดที่ก่อด้วยก้อนศิลาแลงสีแดง ตั้งอยู่บนพื้นดินเปลือยใต้เพิงคุ้มครองแบบเปิดโล่งที่ทำจากไม้และกระเบื้อง โดยมีเนินเขาเขียวขจีและป่าปรากฏอยู่เบื้องหลัง",
+        "subject": "จันดี (candi) ฐานศาสนสถานฮินดู-พุทธที่ได้รับการบูรณะ ณ แหล่งโบราณคดีหุบเขาบูจัง รัฐเกอดะฮ์"
+      },
+      {
+        "alt": "ภาชนะดินเผาและเครื่องเคลือบที่ขุดพบสี่ชิ้น ได้แก่ ไหสีเข้มทรงสูงมีพวย หม้อกลมสีขาว และชามเล็กสองใบ จัดแสดงบนแท่นใสในตู้พิพิธภัณฑ์ที่มีแสงส่อง",
+        "subject": "ภาชนะเครื่องปั้นดินเผาที่ขุดพบ ณ หุบเขาบูจัง รัฐเกอดะฮ์ จัดแสดงอยู่ในพิพิธภัณฑ์โบราณคดี"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "लाल रंग की लेटराइट शिलाओं से बना एक सीढ़ीनुमा, वर्गाकार मंदिर आधार नंगी ज़मीन पर खड़ा है, जिसके ऊपर लकड़ी और खपरैल का खुला सुरक्षात्मक छप्पर है, और परे हरी पहाड़ियाँ तथा वन दिखाई देते हैं।",
+        "subject": "केदाह में बुजांग घाटी पुरातात्विक परिसर में एक पुनर्निर्मित चंडी (हिंदू-बौद्ध मंदिर आधार)"
+      },
+      {
+        "alt": "चार उत्खनित मृत्तिका और शीशे-चढ़े मिट्टी के पात्र — एक ऊँचा गहरे रंग का टोंटीदार घड़ा, एक गोल सफ़ेद मटका और दो छोटे कटोरे — एक प्रकाशित संग्रहालय शोकेस में पारदर्शी आधारों पर प्रदर्शित।",
+        "subject": "केदाह की बुजांग घाटी में उत्खनित मिट्टी के बर्तन, पुरातत्व संग्रहालय में प्रदर्शित"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "قاعدة معبد مربعة مدرّجة مبنية من كتل اللاتريت المحمرّة تقف على أرض عارية تحت مظلّة حماية مفتوحة من الخشب والقرميد، وتظهر خلفها تلال خضراء وغابة.",
+        "subject": "معبد تشاندي (أساس معبد هندوسي-بوذي) مُعاد بناؤه في مجمّع وادي بوجانغ الأثري، قدح"
+      },
+      {
+        "alt": "أربع أوانٍ خزفية فخارية ومزججة مستخرجة — جرّة داكنة طويلة ذات فوهة، وإناء أبيض مستدير، ووعاءان صغيران — معروضة على حوامل شفافة داخل خزانة عرض مضاءة في المتحف.",
+        "subject": "أوانٍ خزفية مستخرجة من وادي بوجانغ، قدح، معروضة في المتحف الأثري"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una base de templo cuadrada y escalonada construida con bloques de laterita rojiza se alza sobre la tierra desnuda bajo un cobertizo protector abierto de madera y tejas, con colinas verdes y bosque visibles al fondo.",
+        "subject": "Un candi (base de templo hindú-budista) reconstruido en el complejo arqueológico del valle de Bujang, Kedah"
+      },
+      {
+        "alt": "Cuatro vasijas de cerámica y loza vidriada excavadas —una jarra alta y oscura con pico, una vasija redonda blanca y dos cuencos pequeños— expuestas sobre soportes transparentes en una vitrina iluminada del museo.",
+        "subject": "Vasijas de cerámica excavadas en el valle de Bujang, Kedah, expuestas en el museo arqueológico"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un soubassement de temple carré et à gradins, bâti en blocs de latérite rougeâtre, se dresse sur la terre nue sous un abri de protection ouvert en bois et tuiles, avec des collines verdoyantes et la forêt visibles au-delà.",
+        "subject": "Un candi (soubassement de temple hindou-bouddhique) reconstruit sur le site archéologique de la vallée de Bujang, Kedah"
+      },
+      {
+        "alt": "Quatre récipients en terre cuite et en céramique émaillée mis au jour — une haute jarre sombre à bec verseur, un pot rond blanc et deux petits bols — exposés sur des supports transparents dans une vitrine éclairée du musée.",
+        "subject": "Des récipients en céramique mis au jour dans la vallée de Bujang, Kedah, exposés au musée archéologique"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah tapak kuil segi empat bertingkat yang dibina daripada blok laterit kemerahan berdiri di atas tanah lapang di bawah pondok perlindungan terbuka berbumbung kayu dan genting, dengan bukit hijau dan hutan kelihatan di sebalik.",
+        "subject": "Sebuah candi (asas tapak kuil Hindu-Buddha) yang dibina semula di kompleks arkeologi Lembah Bujang, Kedah"
+      },
+      {
+        "alt": "Empat bekas tembikar dan seramik bersalut kaca yang digali — sebuah tempayan tinggi berwarna gelap bermuncung, sebuah periuk bulat putih dan dua mangkuk kecil — dipamerkan di atas penyangga lutsinar dalam almari pameran muzium yang bercahaya.",
+        "subject": "Bekas tembikar yang digali di Lembah Bujang, Kedah, dipamerkan di muzium arkeologi"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah dasar candi persegi bertingkat yang dibangun dari balok laterit kemerahan berdiri di atas tanah terbuka di bawah naungan pelindung terbuka dari kayu dan genting, dengan perbukitan hijau dan hutan tampak di kejauhan.",
+        "subject": "Sebuah candi (fondasi candi Hindu-Buddha) yang direkonstruksi di kompleks arkeologi Lembah Bujang, Kedah"
+      },
+      {
+        "alt": "Empat bejana gerabah dan keramik berglasir hasil galian — sebuah guci tinggi gelap bercorong, sebuah pot bulat putih dan dua mangkuk kecil — dipamerkan di atas penyangga bening dalam lemari pajang museum yang bercahaya.",
+        "subject": "Bejana keramik yang digali di Lembah Bujang, Kedah, dipamerkan di museum arkeologi"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một nền đền hình vuông dạng bậc thang xây bằng các khối đá ong đỏ đứng trên nền đất trống dưới một mái che bảo vệ hở làm bằng gỗ và ngói, với đồi núi xanh và rừng cây thấp thoáng phía sau.",
+        "subject": "Một ngôi candi (nền móng đền thờ Hindu-Phật giáo) được phục dựng tại quần thể khảo cổ Thung lũng Bujang, Kedah"
+      },
+      {
+        "alt": "Bốn hiện vật gốm đất nung và gốm tráng men được khai quật — một chiếc bình cao màu sẫm có vòi, một hũ tròn màu trắng và hai chiếc bát nhỏ — trưng bày trên các giá đỡ trong suốt trong tủ kính được chiếu sáng của bảo tàng.",
+        "subject": "Các đồ gốm khai quật tại Thung lũng Bujang, Kedah, trưng bày trong bảo tàng khảo cổ"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "சிவந்த லேட்டரைட் கற்களால் கட்டப்பட்ட படிநிலை, சதுர வடிவ கோயில் அடித்தளம் வெறும் தரையில் நிற்கிறது, அதற்கு மேலே மரம் மற்றும் ஓடுகளால் ஆன திறந்த பாதுகாப்பு கொட்டகை உள்ளது, தொலைவில் பச்சை குன்றுகளும் காடும் தெரிகின்றன.",
+        "subject": "கெடாவில் புஜாங் பள்ளத்தாக்கு தொல்லியல் வளாகத்தில் மீளமைக்கப்பட்ட சண்டி (இந்து-பௌத்த கோயில் அடித்தளம்)"
+      },
+      {
+        "alt": "அகழ்ந்தெடுக்கப்பட்ட நான்கு மட்பாண்டங்களும் மெருகூட்டப்பட்ட பீங்கான் பாத்திரங்களும் — குழாய் கொண்ட உயரமான கரிய ஜாடி, வட்டமான வெள்ளைப் பானை, இரண்டு சிறிய கிண்ணங்கள் — ஒளியூட்டப்பட்ட அருங்காட்சியக கண்ணாடிப் பெட்டியில் தெளிவான தாங்கிகள் மீது காட்சிக்கு வைக்கப்பட்டுள்ளன.",
+        "subject": "கெடாவின் புஜாங் பள்ளத்தாக்கில் அகழ்ந்தெடுக்கப்பட்ட மட்பாண்டங்கள், தொல்லியல் அருங்காட்சியகத்தில் காட்சிக்கு வைக்கப்பட்டுள்ளன"
+      }
+    ]
+  },
+  "malaysia/bunga-raya-national-flower": {
+    "zh": [
+      {
+        "alt": "一朵深红色的朱槿花斜侧展示，褶皱的花瓣环绕着一条向下弯曲的红色细长雄蕊柱，柱端点缀着鲜黄色花粉和红色的小柱头裂片，衬着柔和的绿叶。",
+        "subject": "红色大红花（朱槿，Hibiscus rosa-sinensis），马来西亚国花，图中可见其细长的雄蕊柱"
+      },
+      {
+        "alt": "一朵鲜红色的朱槿在马来西亚乡村花园一丛枝叶繁茂的灌木上绽放，细长的粉红色雄蕊柱垂悬着，背景是椰子树和洒满阳光的开阔草坪。",
+        "subject": "一株马来西亚乡村花园灌木上盛开的红色大红花（朱槿，Hibiscus rosa-sinensis）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "深紅のハイビスカスの花を斜めから見たところ。ひだのある花びらが、下向きに弧を描く長い赤いずい柱を縁取り、その先端は鮮やかな黄色の花粉と赤い柱頭の裂片で彩られ、柔らかな緑の葉を背にしている。",
+        "subject": "赤いブンガ・ラヤ（ハイビスカス、Hibiscus rosa-sinensis）、マレーシアの国花で、長い雄しべの柱（ずい柱）が見える"
+      },
+      {
+        "alt": "鮮やかな赤いハイビスカスが、マレーシアの村の庭の葉の茂った低木に咲き、長いピンクがかった赤のずい柱が垂れ下がっている。背景にはココヤシと日の当たる開けた芝生が広がる。",
+        "subject": "マレーシアの村の庭の低木に咲く赤いブンガ・ラヤ（ハイビスカス、Hibiscus rosa-sinensis）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "짙은 붉은색 하이비스커스 꽃을 비스듬히 바라본 모습. 주름진 꽃잎이 아래로 굽은 긴 붉은 수술대를 감싸고 있으며, 그 끝에는 선명한 노란색 꽃가루와 붉은 암술머리 조각들이 달려 있고, 부드러운 초록 잎을 배경으로 하고 있다.",
+        "subject": "붉은 붕아라야(하이비스커스, Hibiscus rosa-sinensis), 말레이시아의 국화로 긴 수술대가 드러나 있다"
+      },
+      {
+        "alt": "선명한 붉은색 하이비스커스가 말레이시아 시골 마을 정원의 잎이 무성한 관목에 피어 있고, 길고 분홍빛 도는 붉은 수술대가 늘어져 있으며, 배경에는 코코넛야자와 햇살이 비치는 탁 트인 잔디밭이 보인다.",
+        "subject": "말레이시아 시골 마을 정원의 관목에 피어난 붉은 붕아라야(하이비스커스, Hibiscus rosa-sinensis)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ดอกชบาสีแดงเข้มมองจากมุมเฉียง กลีบดอกที่เป็นคลื่นโอบล้อมเส้าเกสรสีแดงยาวที่โค้งลงด้านล่าง ปลายเส้าประดับด้วยละอองเรณูสีเหลืองสดและพูยอดเกสรตัวเมียสีแดงเล็ก ๆ ตัดกับใบไม้สีเขียวนุ่มนวล",
+        "subject": "ดอกบุหงารายา (ชบา, Hibiscus rosa-sinensis) สีแดง ดอกไม้ประจำชาติของมาเลเซีย แสดงให้เห็นเส้าเกสรที่ยาว"
+      },
+      {
+        "alt": "ดอกชบาสีแดงสดบานอยู่บนพุ่มไม้ใบดกในสวนหมู่บ้านของมาเลเซีย เส้าเกสรสีแดงอมชมพูที่ยาวห้อยลงมา โดยมีต้นมะพร้าวและสนามหญ้าโล่งที่มีแดดส่องอยู่เบื้องหลัง",
+        "subject": "ดอกบุหงารายา (ชบา, Hibiscus rosa-sinensis) สีแดงที่บานอยู่บนพุ่มไม้ในสวนหมู่บ้านของมาเลเซีย"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक कोण से देखा गया गहरे लाल रंग का गुड़हल का फूल, जिसकी लहरदार पंखुड़ियाँ नीचे की ओर झुके एक लंबे लाल पुंकेसर-स्तंभ को घेरती हैं, जिसका सिरा चमकीले पीले पराग और छोटे लाल वर्तिकाग्र खंडों से युक्त है, कोमल हरे पत्तों की पृष्ठभूमि के सामने।",
+        "subject": "लाल बुंगा राया (Hibiscus rosa-sinensis), मलेशिया का राष्ट्रीय फूल, अपने लंबे पुंकेसर-स्तंभ को दर्शाता हुआ"
+      },
+      {
+        "alt": "एक मलेशियाई गाँव के बगीचे में पत्तेदार झाड़ी पर एक चमकीला लाल गुड़हल खिला है, इसका लंबा गुलाबी-लाल पुंकेसर-स्तंभ लटका हुआ है, पृष्ठभूमि में नारियल के पेड़ और धूप से भरा खुला लॉन है।",
+        "subject": "एक मलेशियाई गाँव के बगीचे में एक झाड़ी पर खिलता लाल बुंगा राया (Hibiscus rosa-sinensis)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "زهرة كركديه حمراء داكنة تُرى من زاوية، بتلاتها المموجة تحيط بعمود سَدَاتي أحمر طويل ينحني إلى الأسفل، تعلوه حبوب لقاح صفراء زاهية وفصوص ميسم حمراء صغيرة، أمام خلفية من أوراق خضراء ناعمة.",
+        "subject": "زهرة الكركديه الحمراء بونغا رايا (Hibiscus rosa-sinensis)، الزهرة الوطنية لماليزيا، ويظهر فيها عمودها السَّدَاتي الطويل"
+      },
+      {
+        "alt": "زهرة كركديه حمراء زاهية تتفتح على شجيرة مورقة في حديقة قرية ماليزية، عمودها السَّدَاتي الطويل بلون أحمر وردي متدلٍّ، وفي الخلفية أشجار جوز الهند ومرج مفتوح تغمره الشمس.",
+        "subject": "زهرة كركديه حمراء بونغا رايا (Hibiscus rosa-sinensis) تتفتح على شجيرة في حديقة قرية ماليزية"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una flor de hibisco de color rojo intenso vista en ángulo, con sus pétalos ondulados enmarcando una larga columna estaminal roja que se arquea hacia abajo, rematada con polen amarillo brillante y pequeños lóbulos rojos del estigma, sobre un fondo de suave follaje verde.",
+        "subject": "La bunga raya roja (Hibiscus rosa-sinensis), la flor nacional de Malasia, mostrando su larga columna estaminal"
+      },
+      {
+        "alt": "Un hibisco de un rojo vivo florece en un arbusto frondoso en el jardín de un pueblo de Malasia, con su larga columna estaminal de color rojo rosado colgando, y cocoteros y un césped abierto iluminado por el sol al fondo.",
+        "subject": "Una bunga raya roja (Hibiscus rosa-sinensis) floreciendo en un arbusto en el jardín de un pueblo de Malasia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une fleur d'hibiscus d'un rouge profond vue de biais, ses pétales ondulés encadrant une longue colonne staminale rouge qui s'arque vers le bas, terminée par un pollen jaune vif et de petits lobes rouges du stigmate, sur un fond de doux feuillage vert.",
+        "subject": "La bunga raya rouge (Hibiscus rosa-sinensis), la fleur nationale de la Malaisie, montrant sa longue colonne staminale"
+      },
+      {
+        "alt": "Un hibiscus d'un rouge vif fleurit sur un arbuste feuillu dans le jardin d'un village malaisien, sa longue colonne staminale rouge rosé pendante, avec des cocotiers et une pelouse dégagée ensoleillée en arrière-plan.",
+        "subject": "Une bunga raya rouge (Hibiscus rosa-sinensis) fleurissant sur un arbuste dans le jardin d'un village malaisien"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sekuntum bunga raya merah pekat dilihat dari sudut, kelopaknya yang berkerut membingkai turus stamen merah panjang yang melengkung ke bawah, berhujungkan debunga kuning terang dan cuping stigma merah kecil, berlatarkan dedaunan hijau lembut.",
+        "subject": "Bunga raya merah (Hibiscus rosa-sinensis), bunga kebangsaan Malaysia, memaparkan turus stamennya yang panjang"
+      },
+      {
+        "alt": "Sekuntum bunga raya merah menyala mekar pada pokok renek berdaun lebat di taman sebuah kampung di Malaysia, turus stamennya yang panjang berwarna merah jambu terjuntai, dengan pokok kelapa dan laman terbuka yang disinari matahari di latar belakang.",
+        "subject": "Sekuntum bunga raya merah (Hibiscus rosa-sinensis) mekar pada pokok renek di taman sebuah kampung di Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sekuntum bunga sepatu merah pekat dilihat dari sudut, kelopaknya yang berkerut membingkai tabung benang sari merah panjang yang melengkung ke bawah, berujung serbuk sari kuning cerah dan cuping putik merah kecil, dengan latar dedaunan hijau lembut.",
+        "subject": "Bunga raya merah (Hibiscus rosa-sinensis), bunga nasional Malaysia, memperlihatkan tabung benang sarinya yang panjang"
+      },
+      {
+        "alt": "Sekuntum bunga sepatu merah menyala mekar pada semak berdaun lebat di taman sebuah desa di Malaysia, tabung benang sarinya yang panjang berwarna merah muda menjuntai, dengan pohon kelapa dan halaman terbuka yang disinari matahari di latar belakang.",
+        "subject": "Sekuntum bunga raya merah (Hibiscus rosa-sinensis) mekar pada semak di taman sebuah desa di Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một bông hoa dâm bụt đỏ thẫm nhìn nghiêng, những cánh hoa gợn sóng ôm lấy một cột nhị đỏ dài cong xuống, đầu điểm phấn hoa vàng tươi và các thùy nhụy đỏ nhỏ, trên nền tán lá xanh dịu.",
+        "subject": "Hoa dâm bụt đỏ bunga raya (Hibiscus rosa-sinensis), quốc hoa của Malaysia, thể hiện cột nhị dài"
+      },
+      {
+        "alt": "Một bông dâm bụt đỏ rực nở trên bụi cây rậm lá trong vườn một ngôi làng ở Malaysia, cột nhị dài màu đỏ hồng buông rủ, với những cây dừa và bãi cỏ trống ngập nắng ở phía sau.",
+        "subject": "Một bông dâm bụt đỏ bunga raya (Hibiscus rosa-sinensis) nở trên bụi cây trong vườn một ngôi làng ở Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஒரு கோணத்தில் காணப்படும் அடர் சிவப்பு செம்பருத்தி மலர்; அதன் சுருக்கமான இதழ்கள் கீழ்நோக்கி வளையும் நீண்ட சிவப்பு மகரந்தத் தண்டைச் சூழ்கின்றன, அதன் நுனியில் பிரகாசமான மஞ்சள் மகரந்தமும் சிறிய சிவப்பு சூலக முனை மடல்களும் உள்ளன, மென்மையான பச்சை இலைகளைப் பின்னணியாகக் கொண்டுள்ளது.",
+        "subject": "சிவப்பு பூங்கா ராயா (Hibiscus rosa-sinensis), மலேசியாவின் தேசிய மலர், அதன் நீண்ட மகரந்தத் தண்டைக் காட்டுகிறது"
+      },
+      {
+        "alt": "மலேசிய கிராமத் தோட்டத்தில் இலைகள் அடர்ந்த ஒரு புதரில் ஒரு பிரகாசமான சிவப்பு செம்பருத்தி மலர்கிறது, அதன் நீண்ட இளஞ்சிவப்பு மகரந்தத் தண்டு தொங்குகிறது, பின்னணியில் தென்னை மரங்களும் வெயில் படர்ந்த திறந்த புல்வெளியும் உள்ளன.",
+        "subject": "மலேசிய கிராமத் தோட்டத்தில் ஒரு புதரில் மலர்ந்த சிவப்பு பூங்கா ராயா (Hibiscus rosa-sinensis)"
+      }
+    ]
   }
 }

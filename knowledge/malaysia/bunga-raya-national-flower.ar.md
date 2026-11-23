@@ -28,7 +28,7 @@ faq:
     a: "كانت معروفةً بالفعل في جميع أنحاء البلاد، وذات لون وشكل جذّابين، واسم موحّد، وسهلة التوفّر، ولم تكن حينها الزهرة الوطنية لأي بلد آخر."
 
 lang: "ar"
-sourceContentHash: "a414dd0c6fc76423"
+sourceContentHash: "6d9941dd740b944e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -79,6 +79,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Red_Hibiscus_Flower_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-1.webp
+    alt: زهرة كركديه حمراء داكنة تُرى من زاوية، بتلاتها المموجة تحيط بعمود سَدَاتي أحمر طويل ينحني إلى الأسفل، تعلوه حبوب لقاح صفراء زاهية وفصوص ميسم حمراء صغيرة، أمام خلفية من أوراق خضراء ناعمة.
+    kind: actual
+    origin: third-party
+    subject: زهرة الكركديه الحمراء بونغا رايا (Hibiscus rosa-sinensis)، الزهرة الوطنية لماليزيا، ويظهر فيها عمودها السَّدَاتي الطويل
+    credit: Saadtitan12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Red_Hibiscus_rosa-sinensis_flower_close-up.jpg
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-2.webp
+    alt: زهرة كركديه حمراء زاهية تتفتح على شجيرة مورقة في حديقة قرية ماليزية، عمودها السَّدَاتي الطويل بلون أحمر وردي متدلٍّ، وفي الخلفية أشجار جوز الهند ومرج مفتوح تغمره الشمس.
+    kind: actual
+    origin: third-party
+    subject: زهرة كركديه حمراء بونغا رايا (Hibiscus rosa-sinensis) تتفتح على شجيرة في حديقة قرية ماليزية
+    credit: Amek Rohaida / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bunga_Raya_di_Kg_Kuala_Lah.jpg
 ---
 
 تنافست ذات يوم سبعة أنواع من الزهور على تمثيل أمّة حديثة الاستقلال — ولم يكن الفائز أعطرها ولا أندرها، بل أكثرها ألفةً في كل بلدة وقرية. تلك الزهرة هي البونغا رايا (bunga raya)، أي زهرة الخطمي.

@@ -19,7 +19,7 @@ keyTakeaways:
   - "คาบสมุทรมาเลเซียและเกาะบอร์เนียว (ซาบาห์และซาราวัก) ถูกแยกจากกันด้วยทะเลจีนใต้และเป็นที่อยู่ของกลุ่มชนิดพันธุ์ที่แตกต่างกัน โดยบอร์เนียวมีป่าพรุและป่าชายเลนส่วนใหญ่ของประเทศ"
 appliesTo: "ระดับชาติ"
 lang: "th"
-sourceContentHash: "9a6c3f25f0c58105"
+sourceContentHash: "0658f2dcb7d1a474"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-1.webp
+    alt: ลูกอุรังอุตังบอร์เนียวสีส้มสนิมห้อยตัวด้วยแขนข้างเดียวจากเชือกที่ขึงระหว่างต้นไม้ อีกมือหนึ่งจับเชือกไว้ ตัดกับฉากหลังเป็นพุ่มใบไม้ป่าฝนสีเขียวหนาทึบ
+    kind: actual
+    origin: third-party
+    subject: ลูกอุรังอุตังบอร์เนียว (Pongo pygmaeus) ลิงไร้หางขนาดใหญ่ที่พบเฉพาะในป่าฝนของเกาะบอร์เนียวเท่านั้น
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_(Pongo_pygmaeus)_(14562544106).jpg
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-2.webp
+    alt: ดอกราฟเฟลเซียที่บานเต็มที่วางอยู่บนพื้นป่าที่เกลื่อนด้วยใบไม้ร่วง กลีบหนาสีน้ำตาลแดงทั้งห้ากลีบปกคลุมด้วยจุดนูนคล้ายหูดสีซีด ล้อมรอบถ้วยกลางที่เปิดลึก
+    kind: actual
+    origin: third-party
+    subject: ดอกราฟเฟลเซีย (Rafflesia) ที่บานเต็มที่บนพื้นป่าในรัฐซาบาห์ หนึ่งในดอกไม้ที่ใหญ่ที่สุดในโลกและเป็นพืชกาฝากของป่าฝนบอร์เนียว
+    credit: Rod Waddington / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rafflesia,_Sabah_(7247015058).jpg
 ---
 
 # เหตุใดมาเลเซียจึงเป็นหนึ่งในประเทศที่มีความหลากหลายทางชีวภาพสูงยิ่งของโลก

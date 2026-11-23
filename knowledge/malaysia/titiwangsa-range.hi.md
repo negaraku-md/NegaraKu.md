@@ -18,7 +18,7 @@ keyTakeaways:
   - "श्रेणी का उच्च-ऊँचाई वाला इलाक़ा मलेशिया के पर्यावरण-संवेदी क्षेत्र संरक्षणों के सबसे कठोर स्तर के अंतर्गत आता है, जो उच्चभूमि और पर्वतीय पारिस्थितिक-तंत्रों को विकास से बचाता है"
 appliesTo: "वे पाठक जो यह स्पष्ट, सत्यापित विवरण चाहते हैं कि तितिवांगसा श्रेणी क्या है, कहाँ तक फैली है, और यह प्रायद्वीपीय मलेशिया की नदियों, जलवायु और बसावट-प्रतिमान को पश्चिमी-तट और पूर्वी-तट पक्षों में क्यों बाँटती है।"
 lang: "hi"
-sourceContentHash: "8f6fd36f8d34a324"
+sourceContentHash: "0e3b056469d40cd0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -67,6 +67,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Peak_of_Banjaran_Titiwangsa.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-1.webp
+    alt: कोमल आसमान के नीचे कैमरून हाइलैंड्स में भारत बागान की लहरदार पहाड़ियों को ढकती चमकीली हरी चाय की झाड़ियों की करीने से बनी घुमावदार कतारें।
+    kind: actual
+    origin: third-party
+    subject: कैमरून हाइलैंड्स में भारत चाय बागान, तितिवांगसा श्रेणी का हिस्सा, पहांग
+    credit: Jakub Hałun / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1514_4106.jpg
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-2.webp
+    alt: तितिवांगसा पर्वतों में फ़्रेज़र्स हिल स्थल पर हरी-भरी वनाच्छादित ढलानों के बीच बसे ट्यूडर-शैली के कॉटेज और एक रेस्तरां।
+    kind: actual
+    origin: third-party
+    subject: फ़्रेज़र्स हिल (बुकिट फ़्रेज़र), तितिवांगसा श्रेणी में औपनिवेशिक काल का एक पर्वतीय विश्रामस्थल, पहांग
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_8.jpg
 ---
 
 मध्य पेराक में किसी कटक के पश्चिमी ओर एक नारियल गिरा दीजिए और, अंततः, उसका सड़ा हुआ अंश मलक्का जलडमरूमध्य तक पहुँच जाएगा। उसी कटक के दूसरी ओर, कुछ सौ मीटर पूरब में एक और गिरा दीजिए, और वह दक्षिणी चीन सागर में जा पहुँचेगा। परिदृश्य में और कुछ नहीं बदलता। बस यह कि वह रेखा के किस ओर गिरा।

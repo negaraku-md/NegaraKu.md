@@ -18,7 +18,7 @@ keyTakeaways:
   - "El terreno de gran altitud de la cordillera queda bajo el nivel más estricto de las protecciones de Área Ambientalmente Sensible de Malasia, que resguardan los ecosistemas de tierras altas y de montaña frente al desarrollo"
 appliesTo: "Lectores que quieran una explicación clara y verificada de qué es la cordillera de Titiwangsa, por dónde discurre y por qué divide los ríos, el clima y el patrón de asentamiento de la Malasia peninsular en un lado de costa oeste y otro de costa este."
 lang: "es"
-sourceContentHash: "8f6fd36f8d34a324"
+sourceContentHash: "0e3b056469d40cd0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -67,6 +67,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Peak_of_Banjaran_Titiwangsa.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-1.webp
+    alt: Hileras prolijamente curvadas de arbustos de té de un verde brillante cubren las colinas onduladas de la plantación Bharat en las Cameron Highlands bajo un cielo suave.
+    kind: actual
+    origin: third-party
+    subject: La plantación de té Bharat en las Cameron Highlands, parte de la cordillera de Titiwangsa, Pahang
+    credit: Jakub Hałun / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1514_4106.jpg
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-2.webp
+    alt: Cabañas de estilo Tudor y un restaurante enclavados entre exuberantes laderas boscosas verdes en la estación de Fraser's Hill, en las montañas de Titiwangsa.
+    kind: actual
+    origin: third-party
+    subject: Fraser's Hill (Bukit Fraser), una estación de montaña de la época colonial en la cordillera de Titiwangsa, Pahang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_8.jpg
 ---
 
 Deje caer un coco en el lado oeste de una cresta en el centro de Perak y, con el tiempo, su putrefacción llegará al estrecho de Malaca. Déjelo caer unos cientos de metros al este, al otro lado de la misma cresta, y acaba en el mar de China Meridional. Nada más del paisaje cambia. Solo el lado de la línea en el que cayó.

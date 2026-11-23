@@ -19,7 +19,7 @@ keyTakeaways:
   - "Semenanjung Malaysia dan Borneo (Sabah dan Sarawak) dipisahkan oleh Laut Tiongkok Selatan dan menjadi tuan rumah bagi kelompok spesies yang berbeda, dengan Borneo memegang mayoritas hutan rawa gambut dan hutan bakau negara."
 appliesTo: "nasional"
 lang: "id"
-sourceContentHash: "9a6c3f25f0c58105"
+sourceContentHash: "0658f2dcb7d1a474"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-1.webp
+    alt: Seekor orangutan Borneo muda berwarna jingga karat bergelantung dengan satu lengan pada tali yang direntang di antara pepohonan, tangan satunya mencengkeram tali, dengan latar dedaunan hutan hujan hijau yang rapat.
+    kind: actual
+    origin: third-party
+    subject: Seekor orangutan Borneo muda (Pongo pygmaeus), kera besar yang hanya ditemukan di hutan hujan Borneo
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_(Pongo_pygmaeus)_(14562544106).jpg
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-2.webp
+    alt: Sekuntum bunga Rafflesia yang mekar sepenuhnya terletak di lantai hutan yang bertaburan daun, lima cuping tebalnya berwarna cokelat kemerahan dipenuhi bintik pucat mirip kutil yang mengelilingi mangkuk tengah yang dalam dan terbuka.
+    kind: actual
+    origin: third-party
+    subject: Sekuntum Rafflesia mekar penuh di lantai hutan di Sabah, salah satu bunga terbesar di dunia dan tumbuhan parasit hutan hujan Borneo
+    credit: Rod Waddington / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rafflesia,_Sabah_(7247015058).jpg
 ---
 
 # Mengapa Malaysia Termasuk dalam Kelompok Negara Megadiverse Dunia

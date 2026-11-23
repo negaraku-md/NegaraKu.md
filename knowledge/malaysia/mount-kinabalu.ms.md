@@ -18,7 +18,7 @@ keyTakeaways:
   - "Ia digambarkan oleh badan penasihat UNESCO sebagai gunung tertinggi antara Himalaya dan New Guinea, dan menempatkan anggaran 5,000-6,000 spesies tumbuhan vaskular termasuk kira-kira 1,000 spesies orkid"
 appliesTo: "Pembaca yang mahukan ketinggian yang disahkan dan status kawasan perlindungan Gunung Kinabalu, serta penjelasan mudah mengapa sebuah gunung granit di Sabah dari segi geologi begitu muda."
 lang: "ms"
-sourceContentHash: "5bc72b1b2e12a8e0"
+sourceContentHash: "84be13b81d6b6c84"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -65,6 +65,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Gunung_Kinabalu_Sabah.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-1.webp
+    alt: Menara granit kelabu Puncak Low yang gondol dan bergerigi, titik tertinggi Gunung Kinabalu, menjulang tajam menongkah langit cerah di atas dataran tinggi puncak yang gersang.
+    kind: actual
+    origin: third-party
+    subject: Puncak Low (4,095 m), kemuncak Gunung Kinabalu, Sabah
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Low's_Peak_Mount_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/mount-kinabalu/body-2.webp
+    alt: Tampak dekat periuk bulat berlurah dalam berwarna jingga kemerahan bagi tumbuhan karnivor Nepenthes villosa, mulutnya berbibir bergerigi, tumbuh di hutan tanah tinggi berkabus Taman Kinabalu.
+    kind: actual
+    origin: third-party
+    subject: Nepenthes villosa, periuk kera karnivor endemik di tanah tinggi Gunung Kinabalu, di Taman Kinabalu
+    credit: kallerna / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nepenthes_villosa_Mount_Kinabalu_1.jpg
 ---
 
 Selama beberapa dekad, setiap buku rujukan memberikan angka yang sama: Gunung Kinabalu, puncak tertinggi Malaysia, berdiri setinggi 4,101 meter di atas paras laut. Kemudian pada 1997, satu pasukan tinjauan mengarahkan satelit ke arah puncak dan bukan lagi teodolit, dan angka itu berubah. Bukan sekadar kesilapan pembundaran — tetapi sebanyak enam meter. Gunung itu tidak menyusut. Ukuran lama itu sememangnya silap, dan tiada siapa mempunyai alat untuk membuktikannya sehinggalah GPS menjadikan pembetulan itu mungkin.

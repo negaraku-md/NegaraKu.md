@@ -18,7 +18,7 @@ keyTakeaways:
   - "La Malasia Peninsular y Borneo (Sabah y Sarawak) están separadas por el Mar de China Meridional y albergan conjuntos de especies distintos, con Borneo conteniendo la mayor parte de los bosques pantanosos de turba y de manglar del país."
 appliesTo: "nacional"
 lang: "es"
-sourceContentHash: "9a6c3f25f0c58105"
+sourceContentHash: "0658f2dcb7d1a474"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -70,6 +70,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-1.webp
+    alt: Un joven orangután de Borneo de color naranja rojizo cuelga de un brazo de una cuerda tendida entre los árboles, sujetando la cuerda con la otra mano, sobre un fondo de densa vegetación verde de selva tropical.
+    kind: actual
+    origin: third-party
+    subject: Un orangután de Borneo joven (Pongo pygmaeus), un gran simio que solo se encuentra en las selvas de Borneo
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_(Pongo_pygmaeus)_(14562544106).jpg
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-2.webp
+    alt: Una flor de Rafflesia completamente abierta reposa sobre el suelo del bosque cubierto de hojarasca, con sus cinco gruesos lóbulos de color marrón rojizo cubiertos de manchas pálidas verrugosas que rodean una profunda copa central abierta.
+    kind: actual
+    origin: third-party
+    subject: Una Rafflesia en plena floración en el suelo del bosque en Sabah, una de las flores más grandes del mundo y una planta parásita de la selva de Borneo
+    credit: Rod Waddington / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rafflesia,_Sabah_(7247015058).jpg
 ---
 
 # Por qué Malasia es uno de los países megadiversos del mundo

@@ -69,6 +69,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-1.webp
+    alt: A young rust-orange Bornean orangutan hangs by one arm from a rope strung between trees, its other hand gripping the line, set against a backdrop of dense green rainforest foliage.
+    kind: actual
+    origin: third-party
+    subject: A young Bornean orangutan (Pongo pygmaeus), a great ape found only in the rainforests of Borneo
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_(Pongo_pygmaeus)_(14562544106).jpg
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-2.webp
+    alt: A fully open Rafflesia flower rests on the leaf-littered forest floor, its five thick reddish-brown lobes covered in pale wart-like spots surrounding a deep open central cup.
+    kind: actual
+    origin: third-party
+    subject: A Rafflesia in full bloom on the forest floor in Sabah, one of the world's largest flowers and a parasitic plant of the Borneo rainforest
+    credit: Rod Waddington / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rafflesia,_Sabah_(7247015058).jpg
 ---
 
 # Why Malaysia Is One of the World's Megadiverse Countries

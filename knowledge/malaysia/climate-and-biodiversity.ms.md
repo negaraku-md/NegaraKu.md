@@ -62,7 +62,7 @@ keywords:
   - "monsoon Malaysia"
   - "MetMalaysia"
   - "MyBIS"
-sourceContentHash: "9a6c3f25f0c58105"
+sourceContentHash: "0658f2dcb7d1a474"
 framework: explainer
 hero: '/media/malaysia/climate-and-biodiversity/hero.webp'
 heroAlt: 'Hamparan luas kanopi hutan hujan hijau subur menyelimuti bukit-bukau yang pudar menjadi rabung biru berjerebu di kejauhan, di bawah langit pucat mendung.'
@@ -71,6 +71,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Taman_Negara_from_Bukit_Terisek.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-1.webp
+    alt: Seekor orang utan Borneo muda berwarna jingga karat bergayut dengan sebelah lengan pada tali yang direntang antara pokok, tangan satu lagi mencengkam tali, berlatarkan dedaunan hutan hujan hijau yang tebal.
+    kind: actual
+    origin: third-party
+    subject: Seekor orang utan Borneo muda (Pongo pygmaeus), mawas besar yang hanya ditemui di hutan hujan Borneo
+    credit: Bernard DUPONT / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_(Pongo_pygmaeus)_(14562544106).jpg
+  - role: scene
+    src: /media/malaysia/climate-and-biodiversity/body-2.webp
+    alt: Sekuntum bunga Rafflesia yang mekar sepenuhnya terletak di lantai hutan yang bersepah daun, lima cuping tebal berwarna perang kemerahan dipenuhi tompok pucat seperti ketuat mengelilingi mangkuk tengah yang dalam dan terbuka.
+    kind: actual
+    origin: third-party
+    subject: Sekuntum Rafflesia mekar penuh di lantai hutan di Sabah, antara bunga terbesar di dunia dan tumbuhan parasit hutan hujan Borneo
+    credit: Rod Waddington / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rafflesia,_Sabah_(7247015058).jpg
 ---
 
 # Mengapa Malaysia Tergolong dalam Kalangan Negara Megadiverse Dunia

@@ -69,6 +69,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Bilit_Sabah_Sungai-Kinabatangan-at-Kg-Bilit-01.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-1.webp
+    alt: Hamparan luas dan tenang Sungai Rajang memantulkan langit senja keemasan, dibatasi tebing berhutan rendah Sarawak yang menghilang ke kejauhan.
+    kind: actual
+    origin: third-party
+    subject: Sungai Rajang pada waktu senja di Sarawak, sungai terpanjang di Malaysia
+    credit: Cerevisae / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:View_of_the_Rajang_river_in_the_evening.jpg
+  - role: scene
+    src: /media/malaysia/malaysia-rivers/body-2.webp
+    alt: Sungai Melaka yang sempit mengalir di antara rumah kedai tepi sungai berwarna-warni dan laluan pejalan kaki tepi air di bandar lama bersejarah Melaka.
+    kind: actual
+    origin: third-party
+    subject: Sungai Melaka berliku menyusuri bandar lama bersejarah Bandar Melaka
+    credit: Engin Akyurt / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Melaka_(Malacca)_River.jpg
 ---
 
 Sebelum ada Lebuhraya Pan Borneo atau penerbangan MASwings, cara satu-satunya untuk sampai ke pedalaman Sarawak ialah menyusuri sungai selama berhari-hari. Bandar-bandar besar hari ini — Sibu, Kapit, Sandakan, Pekan — bukan wujud secara kebetulan di lokasi masing-masing. Setiap satu duduk di tempat yang ditentukan oleh sungai: di muara, di simpang pertemuan dua sungai, atau di titik terjauh yang masih boleh dimudiki kapal. Tiga sungai — Rajang, Kinabatangan dan Pahang — menunjukkan corak ini paling jelas.

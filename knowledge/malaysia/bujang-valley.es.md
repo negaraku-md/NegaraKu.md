@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Cualquiera que desee comprender los orígenes de la civilización temprana en las tierras malayas antes de que existieran los sultanatos malayos, o que esté planeando una visita a los yacimientos arqueológicos y al museo de Kedah."
 
 lang: "es"
-sourceContentHash: "37c769aa2420a10a"
+sourceContentHash: "a60815f197356c7c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:006_Bujang_Valley_Candi.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bujang-valley/body-1.webp
+    alt: Una base de templo cuadrada y escalonada construida con bloques de laterita rojiza se alza sobre la tierra desnuda bajo un cobertizo protector abierto de madera y tejas, con colinas verdes y bosque visibles al fondo.
+    kind: actual
+    origin: third-party
+    subject: Un candi (base de templo hindú-budista) reconstruido en el complejo arqueológico del valle de Bujang, Kedah
+    credit: Blackhurrem / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Archaeological_Complex_of_Bujang_Valley_2.jpg
+  - role: scene
+    src: /media/malaysia/bujang-valley/body-2.webp
+    alt: Cuatro vasijas de cerámica y loza vidriada excavadas —una jarra alta y oscura con pico, una vasija redonda blanca y dos cuencos pequeños— expuestas sobre soportes transparentes en una vitrina iluminada del museo.
+    kind: actual
+    origin: third-party
+    subject: Vasijas de cerámica excavadas en el valle de Bujang, Kedah, expuestas en el museo arqueológico
+    credit: Anandajoti Bhikkhu / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:007_Bujang_Valley_Pottery.jpg
 ---
 
 En una llanura cercana a Gunung Jerai, entre arrozales y plantaciones de palma aceitera, yacen ladrillos antiguos dispuestos siglos antes de que Melaka existiera como puerto. Algunos de ellos forman la base de templos hindúes. Otros son hornos de fundición de hierro. Ningún sultán que gobernara alguna vez desde aquí tiene un nombre conocido hoy — pero lo que dejó tras de sí la sociedad que construyó estos templos y hornos convierte al Valle de Bujang en uno de los yacimientos arqueológicos más importantes del Sudeste Asiático.

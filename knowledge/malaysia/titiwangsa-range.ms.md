@@ -20,7 +20,7 @@ appliesTo: "Sesuai untuk pembaca yang mahukan penjelasan yang jelas dan disahkan
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8f6fd36f8d34a324"
+sourceContentHash: "0e3b056469d40cd0"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -67,6 +67,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Peak_of_Banjaran_Titiwangsa.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-1.webp
+    alt: Barisan pokok teh hijau terang yang berkontur kemas menyelimuti bukit-bukau beralun ladang Bharat di Tanah Tinggi Cameron di bawah langit lembut.
+    kind: actual
+    origin: third-party
+    subject: Ladang teh Bharat di Tanah Tinggi Cameron, sebahagian daripada Banjaran Titiwangsa, Pahang
+    credit: Jakub Hałun / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1514_4106.jpg
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-2.webp
+    alt: Kotej bergaya Tudor dan sebuah restoran tersergam di antara cerun berhutan hijau subur di pusat peranginan Bukit Fraser, di pergunungan Titiwangsa.
+    kind: actual
+    origin: third-party
+    subject: Bukit Fraser, sebuah pusat peranginan tanah tinggi era kolonial di Banjaran Titiwangsa, Pahang
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_8.jpg
 ---
 
 Jatuhkan sebiji kelapa di sebelah barat sebuah rabung di tengah Perak, dan akhirnya, reputannya akan sampai ke Selat Melaka. Jatuhkan sebiji lagi beberapa ratus meter ke timur, di sebelah rabung yang sama, dan ia akan berakhir di Laut China Selatan. Tiada apa-apa lagi tentang landskap itu yang berubah. Hanya sebelah mana garisan itu ia jatuh.

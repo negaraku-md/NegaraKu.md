@@ -20,7 +20,7 @@ appliesTo: "适合想要一份浅白且经过查证的说明，了解蒂蒂旺�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8f6fd36f8d34a324"
+sourceContentHash: "0e3b056469d40cd0"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -67,6 +67,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Peak_of_Banjaran_Titiwangsa.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-1.webp
+    alt: 一行行修剪整齐、轮廓分明的翠绿茶树铺满金马仑高原Bharat茶园起伏的山丘，上方是柔和的天空。
+    kind: actual
+    origin: third-party
+    subject: 彭亨州蒂迪旺沙山脉一带金马仑高原上的Bharat茶园
+    credit: Jakub Hałun / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1514_4106.jpg
+  - role: scene
+    src: /media/malaysia/titiwangsa-range/body-2.webp
+    alt: 都铎风格的小屋和一间餐厅坐落在福隆港避暑地郁郁葱葱的绿色林坡之间，四周是蒂迪旺沙群山。
+    kind: actual
+    origin: third-party
+    subject: 福隆港（Bukit Fraser），彭亨州蒂迪旺沙山脉中一处殖民时期的山区避暑地
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Frasers_Hill_8.jpg
 ---
 
 在霹雳州中部一道山脊的西侧丢下一颗椰子，最终，它腐烂后的痕迹会流入马六甲海峡。在同一道山脊的东侧、仅仅数百米之外丢下一颗，它最终会流入南中国海。地貌本身没有任何其他改变。差别只在于它落在了这条界线的哪一侧。

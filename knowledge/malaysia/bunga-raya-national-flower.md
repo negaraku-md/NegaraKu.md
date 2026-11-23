@@ -78,6 +78,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Red_Hibiscus_Flower_1.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-1.webp
+    alt: Sekuntum bunga raya merah pekat dilihat dari sudut, kelopaknya yang berkerut membingkai turus stamen merah panjang yang melengkung ke bawah, berhujungkan debunga kuning terang dan cuping stigma merah kecil, berlatarkan dedaunan hijau lembut.
+    kind: actual
+    origin: third-party
+    subject: Bunga raya merah (Hibiscus rosa-sinensis), bunga kebangsaan Malaysia, memaparkan turus stamennya yang panjang
+    credit: Saadtitan12 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Red_Hibiscus_rosa-sinensis_flower_close-up.jpg
+  - role: scene
+    src: /media/malaysia/bunga-raya-national-flower/body-2.webp
+    alt: Sekuntum bunga raya merah menyala mekar pada pokok renek berdaun lebat di taman sebuah kampung di Malaysia, turus stamennya yang panjang berwarna merah jambu terjuntai, dengan pokok kelapa dan laman terbuka yang disinari matahari di latar belakang.
+    kind: actual
+    origin: third-party
+    subject: Sekuntum bunga raya merah (Hibiscus rosa-sinensis) mekar pada pokok renek di taman sebuah kampung di Malaysia
+    credit: Amek Rohaida / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Bunga_Raya_di_Kg_Kuala_Lah.jpg
 ---
 
 Tujuh jenis bunga pernah bersaing untuk mewakili sebuah negara yang baru merdeka — dan yang menang bukan yang paling harum atau paling jarang, tetapi yang paling dikenali di setiap pekan dan kampung. Itulah bunga raya.
