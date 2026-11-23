@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "d7df97b39a2da0c7"
+sourceContentHash: "e30d1ed6a06d7023"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -79,6 +79,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_temple-Kuala_Lumpur_Malaysia.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-1.webp
+    alt: 霹雳怡保卡鲁玛莱穆鲁干庙（Kallumalai Murugan Temple）层叠、色彩鲜艳的塔门（gopuram），布满印度教神祇雕像
+    kind: actual
+    origin: third-party
+    subject: 霹雳怡保卡鲁玛莱穆鲁干庙色彩缤纷的塔门（gopuram）
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kallumalai_Murugan_Temple,_Ipoh,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-2.webp
+    alt: 为屠妖节在地面铺设的精致、色彩斑斓的 kolam 地画，这是马来西亚主要的印度教节庆
+    kind: actual
+    origin: third-party
+    subject: 屠妖节（Deepavali）的 kolam 地画，马来西亚
+    credit: John Ragai / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg
 ---
 
 在马来西亚的任何城镇，无论是在一座旧橡胶园的边缘，还是在市中心的老街上，都能见到一座马里安曼庙。那些戈普兰塔楼与屠妖节的灯火并非偶然 — 它们述说着一个历时一个半世纪以上的社群的历史。

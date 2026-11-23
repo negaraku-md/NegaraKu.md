@@ -32,7 +32,7 @@ faq:
   - q: "¿Cómo está hoy la comunidad chettiar en Malasia?"
     a: "A mediados del siglo XX, los cambios en la legislación monetaria y los vuelcos políticos redujeron el negocio tradicional del préstamo de dinero. Muchos se pasaron al comercio, a las profesiones y a los campos relacionados con la educación. Aunque es una comunidad reducida en número, mantiene una identidad cultural propia a través de los templos, las fiestas, la comida y las tradiciones familiares."
 lang: "es"
-sourceContentHash: "9862f72c904a9334"
+sourceContentHash: "7e3e2be6ebfbcd23"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Waterfall_Temple.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-1.webp
+    alt: Un colorido gopuram de templo del sur de la India cubierto de figuras esculpidas, sobre un cielo despejado en Penang
+    kind: actual
+    origin: third-party
+    subject: El templo Sivan de los Nagarathar (Nattukottai Chettiar) en George Town, Penang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Nagarathar_Sivan_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-2.webp
+    alt: Un alto carro de templo dorado adornado con guirnaldas avanzando por una calle de Penang al anochecer entre una multitud de devotos
+    kind: actual
+    origin: third-party
+    subject: El carro dorado y los devotos durante la procesión de Thaipusam en Penang, una festividad que la comunidad Chettiar ayuda a mantener
+    credit: Seelit2004 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_Festival_The_Golden_Chariot_and_the_Followers.jpg
 ---
 
 El día del Thaipusam en Penang, un majestuoso carro hecho de plata parte de la calle Lebuh Penang hacia el templo de Murugan en lo alto de la colina. Ni ese carro ni la comunidad que lo ha dirigido durante más de un siglo son casuales: ambos cuentan la historia de una tradición mercantil-bancaria que viajó desde Chettinad hasta la Malaya.

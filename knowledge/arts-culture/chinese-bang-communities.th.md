@@ -33,7 +33,7 @@ faq:
     a: "เส้นแบ่งระหว่างบังจางลงอย่างชัดเจน ด้วยการแต่งงานข้ามบัง การขยายตัวของเมือง และภาษาจีนกลางที่กลายเป็นภาษากลางข้ามภาษาถิ่นผ่านการศึกษาภาษาจีน สำนึกเรื่องถิ่นกำเนิดของคนรุ่นใหม่ส่วนใหญ่อ่อนกว่ารุ่นปู่ย่าตายาย แต่บังมิได้หายไปทั้งหมด: สมาคมตระกูล สมาคมคนบ้านเกิด ศาลบรรพชน และสุสานทั่วประเทศยังดำเนินการอยู่ หลายคนยังรู้ถิ่นกำเนิดของตน และอิทธิพลของมันยังเห็นได้ในโอกาสอย่างเช็งเม้ง (การไหว้สุสาน) อาจกล่าวได้ว่าบังค่อย ๆ เปลี่ยนจาก 'โครงกระดูกที่จัดระเบียบสังคม' ไปสู่ 'ความทรงจำทางวัฒนธรรมและประวัติศาสตร์'"
 
 lang: "th"
-sourceContentHash: "5650e666f12a2927"
+sourceContentHash: "10ca23f6290e2d4a"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-1.webp
+    alt: อาคารช็อปเฮาส์ยุคก่อนสงครามสีเหลืองแดงที่เป็นที่ตั้งสมาคมตระกูลชาวฮกเกี้ยน บนถนนใจกลางกรุงกัวลาลัมเปอร์
+    kind: actual
+    origin: third-party
+    subject: อาคารสมาคมฮกเกี้ยนแห่งรัฐสลังงอร์ (สมาคมตระกูลของกลุ่มภาษาฮกเกี้ยน) บนถนนฮัง เลกิว กรุงกัวลาลัมเปอร์
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Selangor_Hokkien_Association_Building,_Jalan_Hang_Lekiu,_central_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-2.webp
+    alt: ช็อปเฮาส์สามชั้นสไตล์นีโอคลาสสิกอันวิจิตรที่เคยเป็นที่ตั้งสมาคมตระกูลชาวฮากกา ใจกลางเมืองเซอเริมบัน
+    kind: actual
+    origin: third-party
+    subject: อาคารสมาคมฮุยโจว (ฮากกา) เดิม สมาคมตระกูลของกลุ่มภาษาฮากกาในเมืองเซอเริมบัน
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fui_Chiu_Association_Building,_Seremban.jpg
 ---
 
 บนถนนเก่าของปีนัง ร้านรวงที่ค้ำจุนหน้าร้านทั้งแถวส่วนใหญ่คือกิจการของชาวฮกเกี้ยน; ในเมืองที่รุ่งเรืองขึ้นเพราะดีบุกอย่างกัวลาลัมเปอร์และอีโปห์ เหมืองแร่และสมาคมช่างเต็มไปด้วยชาวกวางฟู่และชาวแคะ; และไม่ว่าคุณจะก้าวเข้าเมืองใด ร้านกาแฟเก่าที่ขายกาแฟไหหลำและขนมปังปิ้งทาเนยกับสังขยานั้น หลังเคาน์เตอร์มักยืนอยู่ด้วยชาวไหหลำ

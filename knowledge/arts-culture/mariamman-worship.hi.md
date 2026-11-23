@@ -33,7 +33,7 @@ faq:
   - q: "क्या मारीअम्मन पूजा एक अलग धर्म है?"
     a: "नहीं। मारीअम्मन पूजा व्यापक हिंदू धर्म का, और विशेष रूप से शाक्त (शक्ति) परंपरा का हिस्सा है। अम्मन को प्रायः देवी काली और दुर्गा के रूपों के साथ पूजा जाता है। मलेशियाई हिंदू समुदाय में अम्मन पूजा शिव और मुरुगन की पूजा के साथ-साथ चलती है।"
 lang: "hi"
-sourceContentHash: "74fa7f5263aec6a2"
+sourceContentHash: "f0f0df6a703389cd"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple_2,_central_Kuala_Lumpur.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-1.webp
+    alt: जॉर्ज टाउन में Mariamman मंदिर का तराशा हुआ गोपुरम शिखर, जो हिंदू देवताओं की चटख रंगों में रंगी आकृतियों से ढका है
+    kind: actual
+    origin: third-party
+    subject: पेनांग के जॉर्ज टाउन में श्री महामारियम्मन मंदिर, देवी Mariamman को समर्पित शहर का सबसे पुराना हिंदू मंदिर
+    credit: Sin-siong (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-2.webp
+    alt: एक Mariamman मंदिर का स्तंभयुक्त भीतरी प्रार्थना कक्ष, जिसमें चित्रित छतें और गर्भगृह की ओर मंदिर-स्थल हैं
+    kind: actual
+    origin: third-party
+    subject: पेनांग के जॉर्ज टाउन में Mariamman मंदिर का भीतरी प्रार्थना कक्ष
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mahamariamman_Tempel_Innen.JPG
 ---
 
 मलेशिया में लगभग किसी भी पुराने रबर बागान के पास, और शहरी केंद्रों की समय-बीती पुरानी सड़कों पर, एक मारीअम्मन मंदिर मिल ही जाता है। गेरुए-पीले रंग के मुख वाली अम्मन की मूर्ति, और वर्षा ऋतु से पहले होने वाले उत्सव, संयोग नहीं हैं — वे डेढ़ सदी से अधिक के एक तमिल समुदाय के इतिहास और आस्था की परंपरा को अपने भीतर समेटे हुए हैं।

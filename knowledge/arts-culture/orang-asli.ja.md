@@ -37,7 +37,7 @@ socialTitle: "オラン・アスリとは誰か——三大グループ、18支�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "22c8505f8289ae57"
+sourceContentHash: "461e1709110699f4"
 
 status: "published"
 aiAssisted: true
@@ -100,6 +100,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Welcome_to_Kampung_Orang_Asli_Lubuk_Legong_village_mural_in_front_of_the_school_building.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-1.webp
+    alt: マー・メリの演者が、彫刻された木製の祖霊の仮面とひだ状の椰子葉の衣装をまとい、野外の文化披露の場で観客を前にマイン・ジョオを踊る
+    kind: actual
+    origin: third-party
+    subject: マー・メリのマイン・ジョオの仮面舞踊。クアラルンプールの文化披露の場で上演
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayin_Jo%E2%80%99oh_Mah_Meri_Masked_Dance_by_Tompoq_Topoh_22.jpg
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-2.webp
+    alt: クアラルンプールのオラン・アスリ工芸博物館の入口。看板の傍らに大きな木彫りのオラン・アスリ像が立ち、周囲に熱帯の植栽が広がる
+    kind: actual
+    origin: third-party
+    subject: オラン・アスリ工芸博物館（Muzium Seni Kraf Orang Asli）、クアラルンプール
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Seni_Kraf_Orang_Asli.jpg
 ---
 
 マレーシアという名がまだ地図に存在しなかったはるか以前から、半島の森林、高地、沿岸には、すでに人々が暮らしていた。今日、彼らは総称してオラン・アスリ（Orang Asli）と呼ばれている——マレー語で「最初の人間」または「原初の住民」を意味する言葉である。

@@ -33,7 +33,7 @@ faq:
     a: "世界的な新聞業界の趨勢と同様に、マレーシア華語新聞の紙媒体発行部数はこの二十年ほどで総じて減少し、読者——とりわけ若い世代——はますますスマートフォンやインターネットを通じてニュースを得るようになっている。そのため各紙はニュースサイト、電子新聞、スマートフォンアプリなどのデジタル・プラットフォームを展開し、一部のコンテンツはソーシャルメディアでも拡散されている。紙媒体が完全に姿を消すか否か、またその時期については依然不確実であり、本稿は予測を行わない。"
 
 lang: "ja"
-sourceContentHash: "ba3edfb9eefffbdb"
+sourceContentHash: "b0d960a64daed408"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sin_Chew_Daily_Miri_(2024).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-1.webp
+    alt: ペナンの華語日刊紙『光華日報』の初期の一面。中国語と英語の見出しが付され、ほかの古い華字新聞の紙面とともに並べられている
+    kind: actual
+    origin: third-party
+    subject: マレーシア最古の華語日刊紙『光華日報』の一面（ペナン）
+    credit: Gzdavidwong / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwong_Wah_Yit_Po.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-2.webp
+    alt: ジョホールバルの『南洋商報』事務所。店先の上部に、緑色の漢字とローマ字で新聞名が掲げられている
+    kind: actual
+    origin: third-party
+    subject: 題字看板を掲げた『南洋商報』の事務所、ジョホールバル
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nanyang_Siang_Pau.jpg
 ---
 
 早朝のコピティアム（茶餐室）では、広げられた華語新聞がしばしば一杯のコーヒーとともに置かれている。読者は一面の国内外の大きなニュースをめくると、たいてい最もなじみのある紙面へまっすぐ向かう——地元ニュースでどの華語小学校がまたバザーを開いたかをまず見る人もいれば、副刊（文芸欄）や論説欄をめくる人、そして訃報・三行広告・宝くじの結果だけを目当てにする人もいる。多くのマレーシア華人にとって、華語新聞は単なるニュースではなく、毎日続けられる中国語の読書習慣でもある。

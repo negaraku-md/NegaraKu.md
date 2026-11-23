@@ -26,7 +26,7 @@ appliesTo: "ผู้ที่ต้องการทำความเข้�
 lang: "th"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7bc376bb0aba475a"
+sourceContentHash: "81025b6c8ff0a5c4"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-1.webp
+    alt: มหาวิหารเซนต์แมรีสีขาวสถาปัตยกรรมกอทิกรีไววัล โบสถ์แองกลิกันข้างจัตุรัสเมอร์เดกาในกรุงกัวลาลัมเปอร์
+    kind: actual
+    origin: third-party
+    subject: มหาวิหารแองกลิกันเซนต์แมรี กรุงกัวลาลัมเปอร์
+    credit: Flaming Ferrari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St._Mary's_Cathedral,_Kuala_Lumpur.JPG
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-2.webp
+    alt: โบสถ์คาทอลิกโฮลีทรินิตีสมัยใหม่ในเมืองตาเวา รัฐซาบาห์ แทนชุมชนคริสต์ศาสนิกชนในมาเลเซียตะวันออก
+    kind: actual
+    origin: third-party
+    subject: โบสถ์คาทอลิกโฮลีทรินิตี เมืองตาเวา รัฐซาบาห์
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Holy-Trinity-Catholic-Church-01.jpg
 ---
 
 เรื่องราวของศาสนาคริสต์ในมาเลเซียมีศูนย์กลางสองแห่ง และไม่มีแห่งใดอยู่ในเมืองหลวง

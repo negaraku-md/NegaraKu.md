@@ -31,7 +31,7 @@ faq:
     a: "ผู้รับได้รับสารเชิดชูเกียรติแห่งชาติ (Warkah Penghormatan Negara) เงินสด RM60,000 งบการจัดพิมพ์มูลค่าสูงสุด RM500,000 (สูงสุด 50,000 เล่ม) การรักษาพยาบาลฟรีในหอผู้ป่วยชั้นหนึ่งของโรงพยาบาลรัฐ ตลอดจนเบี้ยเลี้ยง RM5,000 ต่อเดือน"
 
 lang: "th"
-sourceContentHash: "c27d87b5dbf2077e"
+sourceContentHash: "baad7b6b6a245b8b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-1.webp
+    alt: ผู้อ่านจำนวนมากเดินชมบูธสำนักพิมพ์ที่เรียงรายเต็มไปด้วยหนังสือในงานหนังสือนานาชาติของมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: ผู้มาเยือนเดินชมบูธในงานหนังสือนานาชาติกัวลาลัมเปอร์ (Pesta Buku Antarabangsa Kuala Lumpur) ปี 2023
+    credit: Wiki Farazi (Wikimedia Commons) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pesta_Buku_Antarabangsa_Kuala_Lumpur_2023_20230529_143928.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-2.webp
+    alt: อาคารหอสมุดแห่งชาติมาเลเซียในกรุงกัวลาลัมเปอร์ ยอดอาคารเป็นหลังคาสีน้ำเงินลายซงเก็ตอันโดดเด่น
+    kind: actual
+    origin: third-party
+    subject: หอสมุดแห่งชาติมาเลเซีย (Perpustakaan Negara Malaysia) ในกรุงกัวลาลัมเปอร์ ที่มีหลังคาทรงเต็นท์ลายผ้าซงเก็ต
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_National-Library-of-Malaysia-02.jpg
 ---
 
 ก่อนจะมีนวนิยายและก่อนจะมีสำนักงานภาษา นักเล่าเรื่องคนหนึ่งก็ได้ประพันธ์วีรบุรุษมลายูในลานราชสำนักมะละกาแล้ว จากประเพณีมุขปาฐะนั้นเองที่งอกเงยหนึ่งในมรดกวรรณกรรมที่มั่งคั่งที่สุดในภูมิภาคนี้ — ประเพณีที่ปัจจุบันเฉลิมฉลองด้วยตำแหน่งของชาติ เงินหลายแสนริงกิต และที่นั่งอันทรงเกียรติในอารยธรรมของชาติ

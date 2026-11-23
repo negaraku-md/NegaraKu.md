@@ -32,7 +32,7 @@ seoTitle: "اللغة التاميلية في ماليزيا: المتحدثون
 socialTitle: "كيف يُتحدَّث بالتاميلية وتُدرَّس وتُحمى في ماليزيا"
 
 lang: "ar"
-sourceContentHash: "1bdf48a0219ea1f5"
+sourceContentHash: "9d8e74703093b827"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -96,6 +96,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-1.webp
+    alt: لافتة ماليزية حمراء وبيضاء 'ممنوع الدخول' كُتب عليها 'Dilarang Masuk' مع التحذير نفسه بالإنجليزية والصينية والبنجابية، وفي السطر الأخير بخط التاميل.
+    kind: actual
+    origin: third-party
+    subject: لافتة ماليزية متعدّدة اللغات تتضمّن سطرًا بخط التاميل، Kota Kinabalu
+    credit: SSYoung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:%22No_Admittance%22_sign_in_five_languages_in_Kota_Kinabalu,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-2.webp
+    alt: مبنى الفصول المفتوح لمدرسة ابتدائية تدرّس بالتاميلية في Changlun، Kedah، تتدلّى الأعلام الماليزية من مداخلها وحافة سقفها تحت سماء مشرقة.
+    kind: actual
+    origin: third-party
+    subject: مبنى الفصول الدراسية لمدرسة ابتدائية تاميلية من النوع الوطني، Changlun، Kedah
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom2(1).jpg
 ---
 
 في مزارع المطاط القديمة في الملايو، كانت بعض أوائل الفصول الدراسية حظائر وأكواخًا، وكانت الدروس تُلقى بالتاميلية. ووفقًا لدراسة تاريخية نُشرت في مجلة الجمعية التاريخية الماليزية، فقد كان تعليم ابتدائي أساسي بالتاميلية يُقدَّم في المزارع منذ أوائل القرن العشرين، بموجب قوانين العمل آنذاك، وظل لمدة طويلة يُدرَّس على يد كتبة وعاملين بدوام جزئي بدلًا من معلمين مدرَّبين.

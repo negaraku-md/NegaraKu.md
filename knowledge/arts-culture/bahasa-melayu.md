@@ -100,6 +100,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka_building,_Malaysia_(DSCF0833).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-1.webp
+    alt: Papan tanda tergantung bertulis 'Buku Melayu' di atas meja yang dipenuhi buku berbahasa Melayu sementara pengunjung menyelak di pesta buku Malaysia
+    kind: actual
+    origin: third-party
+    subject: Bahagian buku berbahasa Melayu di sebuah pesta buku di Malaysia
+    credit: Uniku Putra / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BBWBooks_Malay_Book_2012.JPG
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-2.webp
+    alt: Manuskrip tulisan tangan dalam tulisan Jawi yang sudah usang, terbuka dan dipamerkan di atas penyangga dalam almari kaca
+    kind: actual
+    origin: third-party
+    subject: Manuskrip berbahasa Melayu dalam tulisan Jawi yang terbuka (Hukum Kanun Melaka), Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 Di Kuala Berang, Terengganu, ditemukan sebuah prasasti batu yang padanya terpahat perkataan Melayu — bukan dalam huruf yang kita kenali hari ini, tetapi dalam aksara Arab yang disesuaikan untuk bunyi Melayu. Menurut Arkib Negara Malaysia, prasasti itu bertarikh 1303 Masihi.

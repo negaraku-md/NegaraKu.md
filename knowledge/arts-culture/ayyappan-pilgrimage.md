@@ -77,6 +77,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penangayappantemple.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-1.webp
+    alt: கறுப்பு உடை அணிந்து, தலையில் துணிக் கட்டுடன், சபரிமலை யாத்திரையில் காட்டுப் பாதையில் நடக்கும் பக்தர்கள்
+    kind: representative
+    origin: third-party
+    subject: கறுப்பு உடை அணிந்த ஐயப்பன் பக்தர்கள் சபரிமலை கோயிலை நோக்கி காட்டுப் பாதையில் பயணிக்கிறார்கள்
+    credit: Shantham11 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pilgrims_trekking_on_the_path_through_forests_leading_to_Sabarimala_temple.jpg
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-2.webp
+    alt: ஐயப்ப சுவாமியின் பெரிய வண்ணப்பொடிக் கோலம், எரியும் பித்தளை அகல் விளக்குகள் மற்றும் மலர் மாலைகளால் சூழப்பட்டு, பின்னால் அமர்ந்த மேளக்காரருடன்
+    kind: representative
+    origin: third-party
+    subject: ஐயப்பன் சடங்குக் கோலம், பித்தளை அகல் விளக்குகள் மற்றும் மேளக்காரருடன் — ஐயப்ப சுவாமிக்கான ஒரு பக்தி மரபு
+    credit: Sajith moothakurambu / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AYYAPPAN_THEYATTU.jpg
 ---
 
 ஆண்டின் இறுதி மாதங்களில் மலேசியாவின் பல ஊர்களில் ஒரு காட்சி தெரியும்:

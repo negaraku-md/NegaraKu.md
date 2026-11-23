@@ -34,7 +34,7 @@ faq:
     a: "是的，部分语言依据教育部的学生母语（Pupil's Own Language，POL）计划教授，通常作为选修科目。卡达山杜顺语自1997年开始的试点计划以来，一直在沙巴政府学校中教授，伊班语则在砂拉越学校中教授。是否开课取决于需求，以及是否符合政策规定的最低班级人数。"
 
 lang: "zh"
-sourceContentHash: "d94b9d6d02d53a14"
+sourceContentHash: "dae5581cc3aa31e5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -89,6 +89,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-1.webp
+    alt: 身着黑金两色卡达山（Kadazan）传统服饰、头戴锥形帽的年轻人手持竹制乐器，出席沙巴一场户外文化活动
+    kind: actual
+    origin: third-party
+    subject: 身着传统服饰的卡达山坦加拉（Kadazan Tangara）族群，出席沙巴巴巴（Papar）的丰收节（Kaamatan）庆典
+    credit: Jjurieee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kadazan_Tangara_Papar.jpg
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-2.webp
+    alt: 一对身着乌鲁人（Orang Ulu）礼服、头戴串珠头饰的男女，站在绘有婆罗洲卷曲纹样的墙前
+    kind: actual
+    origin: third-party
+    subject: 一对身着传统服饰的乌鲁人（Orang Ulu）伉俪，站在绘有图案的长屋壁画前，砂拉越
+    credit: AjarnRichard / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orang_Ulu_(Dayak)_People_with_Tradtional_Motifs.jpg
 ---
 
 飞越婆罗洲内陆，你在一小时内所跨越的语言，比大多数国家全境的语言总数还要多。沙巴高地的一条河谷、砂拉越上巴南河（Baram）畔的一座长屋、沿海的一个渔村——每一处都可能以邻近山谷几乎听不懂的语言迎接你。

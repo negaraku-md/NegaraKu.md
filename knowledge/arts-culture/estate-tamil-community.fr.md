@@ -32,7 +32,7 @@ faq:
   - q: "Qui travaille aujourd'hui dans les plantations ?"
     a: "Aujourd'hui, la plupart des ouvriers des plantations de Malaisie sont des travailleurs migrants étrangers. Pour ce qui est de la communauté tamoule, la grande migration de la plantation vers la ville s'est en grande partie achevée il y a des décennies ; la communauté d'aujourd'hui est devenue une communauté largement urbaine et semi-urbaine."
 lang: "fr"
-sourceContentHash: "26feee7acc3d6568"
+sourceContentHash: "03062d40a74e2b62"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Ladang_Sungai_Getah.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-1.webp
+    alt: Un ouvrier recueillant le latex d'un hévéa dans une plantation de Malacca en 1946, évoquant le travail de plantation qui a façonné les communautés des plantations de Malaisie.
+    kind: representative
+    origin: third-party
+    subject: Saignée de l'hévéa dans une plantation de caoutchouc à Malacca (1946)
+    credit: Willem van de Poll / Nationaal Archief / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vrouw_bezig_met_het_aftappen_van_rubber_op_een_rubberplantage_in_Malakka,_Bestanddeelnr_255-6638.jpg
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-2.webp
+    alt: 'Une vitrine de l''Indian Heritage Centre de Johor Bahru intitulée ''Premiers métiers : la saignée du caoutchouc'', avec un mannequin vêtu d''un sari, des seaux de latex et des photographies historiques de plantations légendées en tamoul.'
+    kind: actual
+    origin: third-party
+    subject: 'Exposition « Premiers métiers : la saignée du caoutchouc » sur le patrimoine des plantations des Tamouls de Malaisie, Indian Heritage Centre, Johor Bahru'
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indian_Heritage_Centre_(Johor_Bahru)_(2025)_-_img_10.jpg
 ---
 
 Aux abords de nombreuses villes anciennes de Malaisie, une plantation d'hévéas qui s'étendait autrefois, verte, est aujourd'hui devenue un quartier résidentiel empli de maisons et de rangées de commerces. Au milieu de ces nouveaux bâtiments, un vieux temple d'Amman ou une petite école tamoule subsiste parfois — marque indélébile d'une communauté qui a été déplacée.

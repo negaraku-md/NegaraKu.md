@@ -36,7 +36,7 @@ socialTitle: "マレー語はいかにして国語となったか——そして
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "ac6472952bdfcbbb"
+sourceContentHash: "1fc94a71a343c3e0"
 
 status: "published"
 aiAssisted: true
@@ -101,6 +101,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka_building,_Malaysia_(DSCF0833).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-1.webp
+    alt: マレーシアのブックフェアで、「マレー語の本」と記された吊り看板の下、マレー語のペーパーバックが積まれた台を買い物客が物色している
+    kind: actual
+    origin: third-party
+    subject: マレーシアのブックフェアにおけるマレー語書籍のコーナー
+    credit: Uniku Putra / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BBWBooks_Malay_Book_2012.JPG
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-2.webp
+    alt: ジャウィ文字で書かれた古い手書き写本が、ガラスケース内の展示台の上に開いて置かれている
+    kind: actual
+    origin: third-party
+    subject: ジャウィ文字で書かれた開いたマレー語写本（マラッカ法典 Hukum Kanun Melaka の法令集）、マレーシア
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 トレンガヌ州クアラ・ブランで、マレー語の言葉が刻まれた一枚の石碑が発見された——今日わたしたちが見慣れている文字ではなく、マレー語の音に合わせて調整されたアラビア文字によってである。マレーシア国家公文書館（Arkib Negara Malaysia）によれば、この碑文の年代は西暦1303年である。

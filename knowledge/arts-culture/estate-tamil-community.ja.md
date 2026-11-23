@@ -32,7 +32,7 @@ faq:
   - q: "今日、農園で働いているのは誰ですか。"
     a: "今日、マレーシアの農園労働者の多くは外国人の出稼ぎ労働者である。タミル人社会に関して言えば、農園から町への大きな移動は数十年前にほぼ完了しており、今日の社会はおおむね都市・準都市の社会へと変わっている。"
 lang: "ja"
-sourceContentHash: "26feee7acc3d6568"
+sourceContentHash: "03062d40a74e2b62"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Ladang_Sungai_Getah.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-1.webp
+    alt: 1946年、マラッカの農園でゴムの木から樹液を採取する労働者。マレーシアの農園社会を形づくったプランテーション労働を想起させる
+    kind: representative
+    origin: third-party
+    subject: マラッカのゴム農園でのゴム採取（1946年）
+    credit: Willem van de Poll / Nationaal Archief / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vrouw_bezig_met_het_aftappen_van_rubber_op_een_rubberplantage_in_Malakka,_Bestanddeelnr_255-6638.jpg
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-2.webp
+    alt: ジョホールバルのインド文化遺産センターの博物館展示「初期の職業：ゴム採取」。サリーをまとった人形、樹液の採取桶、タミル語の説明が付された歴史的な農園の写真が並ぶ
+    kind: actual
+    origin: third-party
+    subject: タミル系マレーシア人の農園遺産を扱う「初期の職業：ゴム採取」展、ジョホールバルのインド文化遺産センター
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indian_Heritage_Centre_(Johor_Bahru)_(2025)_-_img_10.jpg
 ---
 
 マレーシアの多くの古い町のはずれでは、かつて緑一面に広がっていたゴム農園が、いまでは家々と商店街で埋め尽くされた住宅地に変わっている。その新しい建物のあいだに、ときおり古いアンマン寺院や小さなタミル学校が残って立っている——立ち退いていった一つの社会の、色あせない刻印として。

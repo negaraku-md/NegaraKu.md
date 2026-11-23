@@ -35,7 +35,7 @@ seoTitle: "Orang Asli: Tiga Kelompok Utama, 18 Suku, dan JAKOA"
 socialTitle: "Siapa Orang Asli — tiga kelompok, 18 suku, dan lembaga yang menjaganya"
 
 lang: "id"
-sourceContentHash: "22c8505f8289ae57"
+sourceContentHash: "461e1709110699f4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -100,6 +100,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Welcome_to_Kampung_Orang_Asli_Lubuk_Legong_village_mural_in_front_of_the_school_building.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-1.webp
+    alt: Seorang penari Mah Meri bertopeng kayu roh leluhur yang berukir dan berbusana daun palem berlipit menarikan Mayin Jo'oh di depan penonton pada sebuah pergelaran budaya terbuka.
+    kind: actual
+    origin: third-party
+    subject: Tarian bertopeng Mayin Jo'oh suku Mah Meri yang dipentaskan pada sebuah pergelaran budaya di Kuala Lumpur
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayin_Jo%E2%80%99oh_Mah_Meri_Masked_Dance_by_Tompoq_Topoh_22.jpg
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-2.webp
+    alt: Pintu masuk Museum Seni Kerajinan Orang Asli di Kuala Lumpur, dengan sebuah patung kayu Orang Asli besar berukir berdiri di samping papan nama di tengah tanaman tropis.
+    kind: actual
+    origin: third-party
+    subject: Museum Seni Kerajinan Orang Asli (Muzium Seni Kraf Orang Asli), Kuala Lumpur
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Seni_Kraf_Orang_Asli.jpg
 ---
 
 Jauh sebelum nama Malaysia muncul di peta, sudah ada masyarakat yang mendiami hutan, dataran tinggi, dan pesisir Semenanjung. Kini mereka dikenal secara kolektif sebagai Orang Asli — istilah bahasa Melayu yang berarti "manusia asal" atau "penduduk asli".

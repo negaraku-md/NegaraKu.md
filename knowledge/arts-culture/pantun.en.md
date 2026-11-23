@@ -36,7 +36,7 @@ socialTitle: "The oldest oral poetry of the Malays — the story of the pantun a
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "038f73b231155ba9"
+sourceContentHash: "1f1ce01aeea4925b"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/pantun/body-1.webp
+    alt: Intricately carved leather shadow puppets of mythic figures cast sharp silhouettes against a glowing screen during a Kelantan-Patani wayang kulit performance.
+    kind: actual
+    origin: third-party
+    subject: Kelantan-Patani style wayang kulit shadow play
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg
+  - role: scene
+    src: /media/arts-culture/pantun/body-2.webp
+    alt: An ornately carved Malay gamelan ensemble of bronze gongs, kettle-gongs and wooden metallophones displayed at the Music Museum in Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Malay gamelan ensemble at the Music Museum, Kuala Lumpur
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg
 ---
 
 > Pisang emas dibawa belayar,

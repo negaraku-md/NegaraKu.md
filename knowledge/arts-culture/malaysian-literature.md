@@ -79,6 +79,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-1.webp
+    alt: Orang ramai pembaca menyelak deretan gerai penerbit yang bertimbun buku di pesta buku antarabangsa Malaysia
+    kind: actual
+    origin: third-party
+    subject: Pengunjung menyelak gerai di Pesta Buku Antarabangsa Kuala Lumpur 2023
+    credit: Wiki Farazi (Wikimedia Commons) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pesta_Buku_Antarabangsa_Kuala_Lumpur_2023_20230529_143928.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-2.webp
+    alt: Bangunan Perpustakaan Negara Malaysia di Kuala Lumpur, bermahkotakan bumbung berpola songket biru yang tersendiri
+    kind: actual
+    origin: third-party
+    subject: Perpustakaan Negara Malaysia di Kuala Lumpur, dengan bumbung khemah berinspirasikan songket
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_National-Library-of-Malaysia-02.jpg
 ---
 
 Sebelum ada novel dan sebelum ada dewan bahasa, seorang penglipur lara sudah pun mengarang wira Melayu di halaman istana Melaka. Daripada tradisi lisan itulah tumbuh salah satu warisan sastera terkaya di rantau ini — satu tradisi yang hari ini diraikan dengan gelaran negara, wang ratusan ribu ringgit dan kerusi kehormat dalam tamadun bangsa.

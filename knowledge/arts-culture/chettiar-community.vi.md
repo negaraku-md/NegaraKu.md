@@ -32,7 +32,7 @@ faq:
   - q: "Cộng đồng Chettiar tại Malaysia ngày nay ra sao?"
     a: "Vào giữa thế kỷ 20, những thay đổi về luật tiền tệ và các biến động chính trị đã làm thu hẹp nghề cho vay tiền truyền thống. Nhiều người chuyển sang kinh doanh, các nghề chuyên môn và những lĩnh vực liên quan đến giáo dục. Dù là một cộng đồng ít về số lượng, họ vẫn gìn giữ một bản sắc văn hóa riêng biệt qua các đền thờ, lễ hội, ẩm thực và truyền thống gia đình."
 lang: "vi"
-sourceContentHash: "9862f72c904a9334"
+sourceContentHash: "7e3e2be6ebfbcd23"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Waterfall_Temple.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-1.webp
+    alt: Tháp gopuram của ngôi đền Nam Ấn nhiều màu sắc phủ kín các tượng điêu khắc, in trên nền trời quang đãng ở Penang
+    kind: actual
+    origin: third-party
+    subject: Đền Sivan Nagarathar (Nattukottai Chettiar) ở George Town, Penang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Nagarathar_Sivan_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-2.webp
+    alt: Một cỗ xe đền cao dát vàng treo đầy vòng hoa di chuyển qua một con phố ở Penang lúc chạng vạng giữa đám đông tín đồ
+    kind: actual
+    origin: third-party
+    subject: Cỗ xe vàng và các tín đồ trong lễ rước Thaipusam ở Penang, một lễ hội mà cộng đồng Chettiar góp phần gìn giữ
+    credit: Seelit2004 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_Festival_The_Golden_Chariot_and_the_Followers.jpg
 ---
 
 Vào ngày lễ Thaipusam ở Penang, một cỗ xe nguy nga làm bằng bạc sẽ khởi hành từ đường Lebuh Penang hướng về đền Murugan trên đồi. Cả cỗ xe ấy lẫn cộng đồng đã điều hành nó suốt hơn một thế kỷ đều không phải là ngẫu nhiên — cả hai kể lại câu chuyện của một truyền thống thương mại - ngân hàng đã vượt đường xa từ Chettinad đến Malaya.

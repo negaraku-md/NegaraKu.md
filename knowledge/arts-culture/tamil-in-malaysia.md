@@ -95,6 +95,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-1.webp
+    alt: A red-and-white Malaysian 'No Admittance' sign reading 'Dilarang Masuk' with the same warning in English, Chinese, Punjabi and, on the bottom line, Tamil script.
+    kind: actual
+    origin: third-party
+    subject: Multilingual Malaysian sign with a Tamil-script line, Kota Kinabalu
+    credit: SSYoung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:%22No_Admittance%22_sign_in_five_languages_in_Kota_Kinabalu,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-2.webp
+    alt: The open classroom block of a Tamil-medium primary school in Changlun, Kedah, its doorways and roofline hung with Malaysian flags under a bright sky.
+    kind: actual
+    origin: third-party
+    subject: Classroom block of a Tamil national-type primary school, Changlun, Kedah
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom2(1).jpg
 ---
 
 On the old rubber estates of Malaya, some of the earliest classrooms were sheds and huts, and the lessons were in Tamil. According to a historical study published in the journal of the Malaysian Historical Society, a basic primary education in Tamil was offered on plantations from the early twentieth century, provided for under labour codes of the day and, for a long time, taught by clerks and part-timers rather than trained teachers.

@@ -36,7 +36,7 @@ socialTitle: "Du Sejarah Melayu jusqu'aux Lauréats littéraires nationaux — l
 lang: "fr"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "106c6c9a2b36cbbd"
+sourceContentHash: "4bae3e712b485a1f"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -87,6 +87,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_%E2%80%98The_Crown_of_Kings%E2%80%99,_a_Malay_%E2%80%98mirror_for_princes%E2%80%99.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malay-literature/body-1.webp
+    alt: La page d'ouverture d'un manuscrit Jawi du Hikayat Merong Mahawangsa, la chronique classique de Kedah, rédigée en malais en écriture arabe fluide dans un cadre réglé.
+    kind: actual
+    origin: third-party
+    subject: Page d'ouverture en écriture Jawi du Hikayat Merong Mahawangsa (Annales de Kedah)
+    credit: Unknown author (R. J. Wilkinson lithograph, 1898) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hkyt_merong_mahawgsa.jpg
+  - role: scene
+    src: /media/arts-culture/malay-literature/body-2.webp
+    alt: Un frontispice enluminé d'or, de rouge et de noir ouvrant un manuscrit du Syair Ken Tambuhan, un roman classique en vers malais issu des contes de Panji.
+    kind: representative
+    origin: third-party
+    subject: Frontispice enluminé d'un manuscrit du roman en vers malais Syair Ken Tambuhan
+    credit: Unknown author (Leiden University Library) / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Decoration_1_Syair_Ken_Tambuhan_Or._1965_(page_9_crop).jpg
 ---
 
 Dans un vieux manuscrit est gravée l'histoire des rois de Melaka, le périple de Hang Tuah et l'effondrement d'un empire — non pas comme une chronique historique sèche, mais comme un récit vivant de personnages, de dialogues et de belles lettres. Ce manuscrit, le *Sejarah Melayu* ou *Sulalatus Salatin*, est l'une des toutes premières œuvres qui attestent à quel point la tradition des lettres en langue malaise est longue et riche.

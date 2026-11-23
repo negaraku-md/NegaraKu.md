@@ -34,7 +34,7 @@ faq:
     a: "Nó thường được gọi là 'Malaysian New Wave', làn sóng các nhà làm phim độc lập đầu những năm 2000. Da Huang Pictures, thành lập năm 2004 bởi Tan Chui Mui, Amir Muhammad, James Lee và Liew Seng Tat, trở thành một trong những hạt nhân của nó; phim của Tan, Love Conquers All, đoạt Giải New Currents và FIPRESCI tại Liên hoan phim Quốc tế Busan 2006 cùng Giải Tiger tại Rotterdam."
 
 lang: "vi"
-sourceContentHash: "defc3df96dc13355"
+sourceContentHash: "45a175545944f31c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -92,6 +92,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Rumah_Kelahiran_P._Ramlee.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-1.webp
+    alt: Mặt tiền đường phố và bảng hiệu của Rạp Coliseum cũ, một rạp chiếu phim một màn hình trước chiến tranh ở trung tâm Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Rạp Coliseum lịch sử trên đường Jalan Tuanku Abdul Rahman, Kuala Lumpur, một trong những rạp chiếu phim lâu đời còn tồn tại của Malaysia
+    credit: Two hundred percent (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Coliseum_Cinema,_Kuala_Lumpur_(February_2007).jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-2.webp
+    alt: Tiền sảnh và bảng hiệu rực sáng của một cụm rạp chiếu phim hiện đại bên trong một trung tâm mua sắm ở Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Lối vào một cụm rạp chiếu phim hiện đại tại Pavilion Bukit Bintang, Kuala Lumpur
+    credit: PulauKakatua19 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dadi_Cinema_Pavilion_Bukit_Bintang.jpg
 ---
 
 Năm 1955, một chàng trai từng làm *clapper* và phụ máy quay tại một xưởng phim ở số 8 Jalan Ampas, Singapore, lần đầu ngồi vào ghế đạo diễn ở tuổi 26. Bộ phim là *Penarek Becha*. Tên anh là P. Ramlee. Câu chuyện của ngành điện ảnh Malaysia bắt đầu không phải ở Kuala Lumpur, mà ở một xưởng phim Singapore do hai anh em từ Thượng Hải làm chủ — và nó chưa từng ngừng chuyển động kể từ đó.

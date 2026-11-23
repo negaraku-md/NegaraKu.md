@@ -36,7 +36,7 @@ socialTitle: "クランタン方言、北部方言、サラワク・マレー語
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "5b24bf4ffc138470"
+sourceContentHash: "b41043538f8f4aad"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_House1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malay-dialects/body-1.webp
+    alt: ルマ・ワリサン・ハジ・ス。クアラ・トレンガヌ東海岸様式で建てられた一対の伝統的なマレー木造家屋
+    kind: actual
+    origin: third-party
+    subject: トレンガヌの伝統的なマレー木造家屋（ルマ・ワリサン・ハジ・ス）、クアラ・トレンガヌ
+    credit: Fikku fiq / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rumah_Warisan_Haji_Su,_Kuala_Terengganu.jpg
+  - role: scene
+    src: /media/arts-culture/malay-dialects/body-2.webp
+    alt: ミナンカバウ様式の反り上がった屋根をもつ伝統的なヌグリ・スンビランの家屋。スレンバンの州立博物館の敷地に展示されている
+    kind: actual
+    origin: third-party
+    subject: ミナンカバウ様式のヌグリ・スンビラン伝統家屋、スレンバンの州立博物館
+    credit: Ardzun / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg
 ---
 
 コタバルの話者、アロースターの話者、クチンの話者は、三者とも自分はマレー語を話していると言うかもしれない——だが、それぞれの村でくつろいで雑談すると、その響きは互いに理解し合うのに少しの調整を要するほど大きく異なることがある。この違いこそが方言、すなわち日常のことばでロガット（loghat）と呼ばれるものである。

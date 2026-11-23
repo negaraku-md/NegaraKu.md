@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/pantun/body-1.webp
+    alt: Patung bayang-bayang kulit berukir rumit yang menggambarkan tokoh mitos membentuk siluet tajam pada sebuah skrin bercahaya semasa persembahan wayang kulit Kelantan-Patani.
+    kind: actual
+    origin: third-party
+    subject: Wayang kulit gaya Kelantan-Patani
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg
+  - role: scene
+    src: /media/arts-culture/pantun/body-2.webp
+    alt: Sebuah ensembel gamelan Melayu berukir indah terdiri daripada gong gangsa, gong berpencu dan metalofon kayu yang dipamerkan di Muzium Muzik, Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Ensembel gamelan Melayu di Muzium Muzik, Kuala Lumpur
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg
 ---
 
 > Pisang emas dibawa belayar,

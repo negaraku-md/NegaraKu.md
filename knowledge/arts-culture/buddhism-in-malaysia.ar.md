@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ar"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "48f4e6165d3f9202"
+sourceContentHash: "480d50bf66cae13c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -77,6 +77,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-1.webp
+    alt: الواجهة والأسقف المذهّبة والمبلّطة المزخرفة لمعبد بوذي تايلاندي أمام سماء زرقاء في Penang
+    kind: actual
+    origin: third-party
+    subject: معبد Wat Chaiya Mangkalaram، معبد بوذي تايلاندي من مذهب Theravada في George Town بولاية Penang
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Wat-Chaiya-Mangkalaram-Temple-01.jpg
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-2.webp
+    alt: تمثال بوذا جالس تحيط به كتل من أزهار الأقحوان الصفراء والبيضاء والوردية على عربة احتفال Wesak
+    kind: actual
+    origin: third-party
+    subject: تمثال بوذا مزيّن بالزهور على عربة احتفال يوم Wesak في معبد Wat Nikrodharam، Alor Setar، Kedah
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg
 ---
 
 على سفح جبل في بينانغ، يطل ظلّ برج معبد كيك لوك سي على مدينة جورج تاون؛ وفي حي

@@ -34,7 +34,7 @@ seoTitle: "อักษรรูมี"
 socialTitle: "อักษรละตินกลายเป็นอักษรทางการของภาษามลายูได้อย่างไร — เรื่องราวของอักษรรูมี"
 
 lang: "th"
-sourceContentHash: "d7c1f7cd753500f4"
+sourceContentHash: "319660fc21be5b70"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/rumi-script/body-1.webp
+    alt: ป้ายชื่อถนนสีน้ำเงินข้อความ 'Jalan Pasir Puteh' ด้วยอักษรโรมัน (รูมี) อยู่ใต้ชื่อเดียวกันในอักษรยาวี ริมถนนในรัฐกลันตัน
+    kind: actual
+    origin: third-party
+    subject: ป้ายชื่อถนนสองภาษาอักษรยาวีและรูมี รัฐกลันตัน
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG
+  - role: scene
+    src: /media/arts-culture/rumi-script/body-2.webp
+    alt: ป้ายชื่อถนนมาเลเซียสีเขียวข้อความ 'Persiaran Greentown 4C, Poskod 30450 Ipoh' ด้วยอักษรโรมันภาษามลายู (รูมี)
+    kind: actual
+    origin: third-party
+    subject: ป้ายชื่อถนนภาษามลายูด้วยอักษรรูมี เมืองอีโปห์
+    credit: Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malay_signboard_with_English_location_name_in_Ipoh.jpg
 ---
 
 เมื่อเราอ่านคำภาษามลายูในปัจจุบัน — บนป้ายจราจร ในหนังสือพิมพ์ บนหน้าจอโทรศัพท์ — เราอ่านมันด้วยตัวอักษรชุดเดียวกับอักษรภาษาอังกฤษ: a, b, c, d และต่อไปเรื่อย ๆ อักษรนั้นเรียกว่าอักษรรูมี มันคุ้นเคยจนหลายคนไม่รู้ตัวว่ารูมีไม่ใช่อักษรดั้งเดิมของภาษามลายู และว่ารูปแบบที่เรียบร้อยและเป็นมาตรฐานเดียวกันในปัจจุบันนั้นเป็นผลของความพยายามกำหนดมาตรฐานที่กินเวลายาวนานกว่าหนึ่งร้อยปี

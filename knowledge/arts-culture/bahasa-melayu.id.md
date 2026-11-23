@@ -34,7 +34,7 @@ seoTitle: "Bahasa Melayu: Bahasa Kebangsaan di Bawah Perkara 152"
 socialTitle: "Bagaimana bahasa Melayu menjadi bahasa kebangsaan — dan berpindah dari Jawi ke Rumi"
 
 lang: "id"
-sourceContentHash: "ac6472952bdfcbbb"
+sourceContentHash: "1fc94a71a343c3e0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -101,6 +101,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka_building,_Malaysia_(DSCF0833).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-1.webp
+    alt: Papan gantung bertuliskan 'Buku Melayu' di atas meja yang penuh buku berbahasa Melayu sementara pengunjung melihat-lihat di pameran buku Malaysia
+    kind: actual
+    origin: third-party
+    subject: Bagian buku berbahasa Melayu di sebuah pameran buku di Malaysia
+    credit: Uniku Putra / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BBWBooks_Malay_Book_2012.JPG
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-2.webp
+    alt: Naskah tulisan tangan beraksara Jawi yang sudah tua, terbuka dan dipajang di atas penyangga dalam lemari kaca
+    kind: actual
+    origin: third-party
+    subject: Naskah berbahasa Melayu beraksara Jawi yang terbuka (Hukum Kanun Melaka), Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 Di Kuala Berang, Terengganu, ditemukan sebuah prasasti batu yang padanya terpahat kata-kata Melayu — bukan dalam huruf yang kita kenal hari ini, tetapi dalam aksara Arab yang disesuaikan untuk bunyi Melayu. Menurut Arsip Nasional Malaysia, prasasti itu bertanggal 1303 Masehi.

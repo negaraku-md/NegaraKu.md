@@ -34,7 +34,7 @@ faq:
     a: "Có, một số được, theo chương trình Ngôn ngữ Của học sinh (Pupil's Own Language, POL) của Bộ Giáo dục, thường là một môn tự chọn. Kadazandusun đã được dạy trong các trường công lập ở Sabah kể từ một chương trình thí điểm bắt đầu năm 1997, và Iban được dạy trong các trường ở Sarawak. Sự sẵn có phụ thuộc vào nhu cầu và vào việc đáp ứng sĩ số lớp tối thiểu do chính sách đặt ra."
 
 lang: "vi"
-sourceContentHash: "d94b9d6d02d53a14"
+sourceContentHash: "dae5581cc3aa31e5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -89,6 +89,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-1.webp
+    alt: Những người trẻ trong trang phục Kadazan màu đen và vàng cùng nón hình chóp, cầm nhạc cụ bằng tre, tại một sự kiện văn hóa ngoài trời ở Sabah
+    kind: actual
+    origin: third-party
+    subject: Cộng đồng Kadazan Tangara trong trang phục truyền thống tại lễ hội mừng mùa gặt Kaamatan ở Papar, Sabah
+    credit: Jjurieee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kadazan_Tangara_Papar.jpg
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-2.webp
+    alt: Một người đàn ông và một phụ nữ trong trang phục nghi lễ Orang Ulu và mũ đội đầu kết cườm đứng trước bức tường vẽ các họa tiết Borneo uốn lượn
+    kind: actual
+    origin: third-party
+    subject: Một cặp Orang Ulu trong trang phục truyền thống trước bức bích họa nhà dài, Sarawak
+    credit: AjarnRichard / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orang_Ulu_(Dayak)_People_with_Tradtional_Motifs.jpg
 ---
 
 Bay qua vùng nội địa của Borneo và bạn vượt qua nhiều ngôn ngữ hơn trong một giờ so với hầu hết các nước có tổng cộng. Một thung lũng sông ở vùng cao nguyên của Sabah, một nhà dài trên thượng nguồn sông Baram ở Sarawak, một làng chài ven biển — mỗi nơi có thể chào bạn bằng một tiếng nói mà thung lũng kế bên khó hiểu được.

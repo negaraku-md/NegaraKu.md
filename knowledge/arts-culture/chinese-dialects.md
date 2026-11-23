@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-1.webp
+    alt: 槟城一座潮州华人宗祠上，绘饰精美的门板画着身披长袍的人物，另有一幅老虎浮雕
+    kind: actual
+    origin: third-party
+    subject: 韩江家庙彩绘门神与老虎浮雕，这是槟城乔治市的潮州方言群庙宇
+    credit: Christophe95 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Han_Jiang_Ancestral_Temple_1.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-2.webp
+    alt: 乔治市一条幽静街道旁，成排两层高的老旧华人店屋，门窗紧闭，设有带顶盖的五脚基走廊
+    kind: actual
+    origin: third-party
+    subject: 槟城乔治市街头一排带五脚基（骑楼）的老华人店屋
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
 ---
 
 在槟城的咖啡店，你用福建话喊一杯 kopi；到了吉隆坡与怡保，同一杯咖啡换成广东话；再往砂拉越的诗巫去，招呼你的很可能是福州话。三处的人都是华人，说的却是三种互不相通的话。

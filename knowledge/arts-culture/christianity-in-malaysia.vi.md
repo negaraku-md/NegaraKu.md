@@ -26,7 +26,7 @@ appliesTo: "Bất kỳ ai muốn tìm hiểu về Kitô giáo tại Malaysia —
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7bc376bb0aba475a"
+sourceContentHash: "81025b6c8ff0a5c4"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-1.webp
+    alt: Nhà thờ chính tòa St Mary màu trắng theo phong cách Tân Gothic, một nhà thờ Anh giáo bên cạnh Quảng trường Merdeka ở Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Nhà thờ chính tòa Anh giáo St Mary, Kuala Lumpur
+    credit: Flaming Ferrari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St._Mary's_Cathedral,_Kuala_Lumpur.JPG
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-2.webp
+    alt: Nhà thờ Công giáo Holy Trinity hiện đại ở Tawau, Sabah, đại diện cho các cộng đồng Kitô giáo ở Đông Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Nhà thờ Công giáo Holy Trinity, Tawau, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Holy-Trinity-Catholic-Church-01.jpg
 ---
 
 Câu chuyện Kitô giáo của Malaysia có hai trung tâm trọng lực, và không trung tâm

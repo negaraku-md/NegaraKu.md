@@ -34,7 +34,7 @@ seoTitle: "판툰(Pantun)"
 socialTitle: "말레이인의 가장 오래된 구전시 — 판툰 이야기와 그 유네스코 유산"
 
 lang: "ko"
-sourceContentHash: "038f73b231155ba9"
+sourceContentHash: "1f1ce01aeea4925b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/pantun/body-1.webp
+    alt: 정교하게 조각한 신화 속 인물 가죽 인형들이 클란탄-파타니 양식의 와양 쿨릿 공연 때 빛나는 막에 또렷한 그림자를 드리운다
+    kind: actual
+    origin: third-party
+    subject: 클란탄-파타니 양식의 와양 쿨릿(그림자극)
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg
+  - role: scene
+    src: /media/arts-culture/pantun/body-2.webp
+    alt: 청동 징, 솥 모양 징, 나무 건반 타악기로 이루어진 정교하게 조각된 말레이 가믈란 합주가 쿠알라룸푸르 음악박물관에 전시되어 있다
+    kind: actual
+    origin: third-party
+    subject: 말레이 가믈란 합주, 쿠알라룸푸르 음악박물관
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg
 ---
 
 > 황금 바나나를 싣고 항해를 떠나,

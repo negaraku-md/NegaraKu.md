@@ -32,7 +32,7 @@ faq:
   - q: "'스와미예 사라남 아야파'는 무슨 뜻인가요?"
     a: "이는 아야판 신앙의 주된 귀의 영창으로, 스와미에게 자신을 맡긴다는 뜻의 문구이며, 서원을 지키는 이들과 순례자들이 끊임없이 읊습니다. 서원 기간 내내, 순례 길에서, 그리고 바잔 가운데 울려 퍼집니다."
 lang: "ko"
-sourceContentHash: "c0cc8aa15f42b7b0"
+sourceContentHash: "c3cfb1ea38600a5f"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penangayappantemple.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-1.webp
+    alt: 검은 옷을 입고 천으로 머리를 감싼 순례자들이 사바리말라로 향하는 순례길의 숲길을 걷고 있다
+    kind: representative
+    origin: third-party
+    subject: 검은 옷을 입은 아이야판(Ayyappan) 신자들이 사바리말라 사원을 향해 숲길을 순례하는 모습
+    credit: Shantham11 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pilgrims_trekking_on_the_path_through_forests_leading_to_Sabarimala_temple.jpg
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-2.webp
+    alt: 색가루로 바닥에 그린 아이야판 신의 큰 그림(kalam)이 불을 밝힌 놋쇠 기름등과 꽃목걸이로 둘러싸여 있고, 뒤쪽에 북 치는 이가 앉아 있다
+    kind: representative
+    origin: third-party
+    subject: 놋쇠 기름등과 북 치는 이를 곁들인 아이야판 의례 바닥 그림(kalam), 아이야파 신을 기리는 신앙 전통
+    credit: Sajith moothakurambu / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AYYAPPAN_THEYATTU.jpg
 ---
 
 한 해가 저무는 몇 달 동안, 말레이시아의 여러 고장에서 한 광경이 눈에 띈다. 검은색 또는 파란색 옷을 입고 목에 루드라크샤 말라를 걸친 채 수염을 기른 남자들이 서로를 "스와미"라고 부른다. 이들은 아야판 서원을 지키는 사람들이며, 그 가운데 다수는 케랄라주의 사바리말라로 떠날 준비를 하고 있다. 이 글은 그 신앙과 서원의 전통을 중립적으로 서술한다. 어떤 믿음도 해설하거나 평가하지 않는다.

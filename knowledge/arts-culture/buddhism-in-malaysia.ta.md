@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "48f4e6165d3f9202"
+sourceContentHash: "480d50bf66cae13c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -77,6 +77,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-1.webp
+    alt: பினாங்கில் நீல வானத்தை பின்னணியாகக் கொண்ட ஒரு தாய் பௌத்தக் கோயிலின் அலங்கார தங்க முலாம் பூசிய, ஓடு பதித்த முகப்பும் கூரைகளும்
+    kind: actual
+    origin: third-party
+    subject: வாட் சையா மங்கலாராம், பினாங்கு ஜார்ஜ் டவுனில் உள்ள ஒரு தாய் தேரவாத பௌத்தக் கோயில்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Wat-Chaiya-Mangkalaram-Temple-01.jpg
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-2.webp
+    alt: வெசாக் பண்டிகை ஊர்தியில் மஞ்சள், வெள்ளை, இளஞ்சிவப்பு சாமந்திப் பூக் குவியல்களால் சூழப்பட்ட அமர்ந்த புத்தர் சிலை
+    kind: actual
+    origin: third-party
+    subject: கெடா, அலோர் சேத்தார், வாட் நிக்ரோதாராமில் வெசாக் தின ஊர்தியில் மலர்களால் அலங்கரிக்கப்பட்ட புத்தர் உருவம்
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg
 ---
 
 பினாங்கின் மலைச் சரிவில், கெக் லோக் சி கோயிலின் கோபுர நிழல் ஜார்ஜ்டவுனை நோக்கி விரிந்திருக்கிறது;

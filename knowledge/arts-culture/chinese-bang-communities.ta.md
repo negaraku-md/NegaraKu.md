@@ -33,7 +33,7 @@ faq:
     a: "பாங்குகளுக்கிடையிலான எல்லைகள் தெளிவாக மங்கியுள்ளன. பாங்-கடந்த கலப்புத் திருமணம், நகரமயமாதல், சீனக் கல்வி வழியாக மாண்டரின் கிளைமொழி-கடந்த பொதுமொழியாக ஆனமை ஆகியவற்றுடன், இளைய தலைமுறையின் மூதாதையர்-தேய உணர்வு பெரும்பாலும் தம் முன்னோரை விட மெலிந்துள்ளது. ஆயினும் பாங்குகள் முற்றிலும் மறைந்துவிடவில்லை: நாடெங்கும் கூட்டுறவுச் சங்கங்கள், ஊர்ச் சங்கங்கள், குல ஆலயங்கள், இடுகாடுகள் இன்னமும் இயங்குகின்றன, பலர் இன்னமும் தம் மூதாதையர் தேயத்தை அறிவர், சிங்மிங் (கல்லறை சுத்தம்) போன்ற சந்தர்ப்பங்களில் அதன் தாக்கம் இன்னமும் தெரிகிறது. பாங் 'சமூகத்தை ஒழுங்கமைத்த முதுகெலும்பிலிருந்து' படிப்படியாக 'பண்பாட்டு, வரலாற்று நினைவாக' மாறிவருகிறது எனலாம்."
 
 lang: "ta"
-sourceContentHash: "5650e666f12a2927"
+sourceContentHash: "10ca23f6290e2d4a"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-1.webp
+    alt: கோலாலம்பூரின் ஒரு முக்கியத் தெருவில் ஹொக்கியன் குல சங்கம் அமைந்துள்ள, போருக்கு முந்தைய மஞ்சள்-சிவப்பு கடை-வீடு கட்டிடம்
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர், ஜாலான் ஹாங் லெகியூவில் உள்ள சிலாங்கூர் ஹொக்கியன் சங்கக் கட்டிடம் (ஹொக்கியன் கிளைமொழிக் குழு குல சங்கம்)
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Selangor_Hokkien_Association_Building,_Jalan_Hang_Lekiu,_central_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-2.webp
+    alt: செரம்பான் நகர மையத்தில் ஒரு காலத்தில் ஹக்கா குல சங்கம் அமைந்திருந்த, அலங்காரமான நியோகிளாசிக்கல் மூன்றடுக்குக் கடை-வீடு
+    kind: actual
+    origin: third-party
+    subject: செரம்பானில் முன்னாள் ஃபுய் சியூ (ஹூய்சோ ஹக்கா) சங்கக் கட்டிடம், ஒரு ஹக்கா கிளைமொழிக் குழு குல மாளிகை
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fui_Chiu_Association_Building,_Seremban.jpg
 ---
 
 பினாங்கின் பழைய தெருக்களில், ஒரு கடைத்தெரு முழுவதையும் தாங்கிநிற்கும் கடைகள் பெரும்பாலும் ஃபூக்கியன் மக்களின் வணிக நிறுவனங்களே; வெள்ளீயத்தால் செழித்த கோலாலம்பூர், ஈப்போ போன்ற நகரங்களில் சுரங்கங்களும் தொழிற்சங்கங்களும் கான்டனீஸ், ஹக்கா மக்களால் நிரம்பியிருந்தன; எந்த நகருக்குள் நுழைந்தாலும், ஹைனான் காப்பியையும் வெண்ணெயும் கயாவும் தடவிய டோஸ்ட்டையும் விற்கும் பழைய காப்பிக் கடையின் கவுண்டருக்குப் பின்னால் பெரும்பாலும் ஒரு ஹைனானீஸ் நிற்கிறார்.

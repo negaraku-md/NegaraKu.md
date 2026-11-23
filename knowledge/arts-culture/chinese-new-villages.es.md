@@ -32,7 +32,7 @@ faq:
   - q: "¿Qué cuestiones contemporáneas afrontan las Nuevas Aldeas?"
     a: "Entre las cuestiones habituales están la tenencia de la tierra (algunas parcelas se poseen con una Licencia de Ocupación Temporal / TOL o un título de arrendamiento a 99 años en lugar de plena propiedad), el envejecimiento de la población y la emigración de los jóvenes, y la infraestructura envejecida. En los últimos años también han surgido iniciativas para inscribir las Nuevas Aldeas como patrimonio y para revitalizar las comunidades mediante murales, rutas gastronómicas e historias de las aldeas."
 lang: "es"
-sourceContentHash: "5a86ba6336d66776"
+sourceContentHash: "c33d9cd6d8fcceac"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Seri_Setia_3.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-villages/body-1.webp
+    alt: El ornamentado arco de entrada que señala el acceso a Broga, una aldea nueva china en Negeri Sembilan, con colinas al fondo.
+    kind: actual
+    origin: third-party
+    subject: Arco de entrada de la aldea nueva de Broga, Negeri Sembilan
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Broga_1.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-villages/body-2.webp
+    alt: Una esquina de la aldea nueva de Seri Setia, en Petaling Jaya, con un mural pintado y farolillos y adornos rojos de Año Nuevo chino.
+    kind: actual
+    origin: third-party
+    subject: Mural y decoraciones de Año Nuevo chino en la aldea nueva de Seri Setia, Petaling Jaya, Selangor
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Setia_CNY2022_3.jpg
 ---
 
 Si hoy entras en Semenyih, Kampar o Sekinchan, lo que ves en su mayor parte es la estampa corriente de un pueblo pequeño: hileras de casas-tienda, una escuela primaria china, templos y asociaciones de clan, cafeterías de carretera y tiendas de ultramarinos. Pero muchos de estos lugares comparten una identidad común: son "Nuevas Aldeas". Tras ese nombre en apariencia anodino se esconde una historia de la [Emergencia Malaya](/es/malaysia/the-emergency), de la contrainsurgencia y de un traslado a gran escala.

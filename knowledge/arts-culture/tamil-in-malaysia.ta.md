@@ -32,7 +32,7 @@ seoTitle: "மலேசியாவில் தமிழ்: பேசுநர
 socialTitle: "மலேசியாவில் தமிழ் எவ்வாறு பேசப்படுகிறது, கற்பிக்கப்படுகிறது, பாதுகாக்கப்படுகிறது"
 
 lang: "ta"
-sourceContentHash: "1bdf48a0219ea1f5"
+sourceContentHash: "9d8e74703093b827"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -96,6 +96,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-1.webp
+    alt: '''தடைசெய்யப்பட்ட நுழைவு'' எனும் சிவப்பு-வெள்ளை மலேசியப் பலகை, ''திலாராங் மாசுக்'' என்பதுடன் அதே எச்சரிக்கை ஆங்கிலம், சீனம், பஞ்சாபி மொழிகளிலும், கீழ் வரியில் தமிழ் எழுத்திலும்.'
+    kind: actual
+    origin: third-party
+    subject: ஒரு தமிழ் எழுத்து வரியுடன் கூடிய பல்மொழி மலேசியப் பலகை, கோத்தா கினபாலு
+    credit: SSYoung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:%22No_Admittance%22_sign_in_five_languages_in_Kota_Kinabalu,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-2.webp
+    alt: கெடா, சாங்லூனில் ஒரு தமிழ்வழி தொடக்கப் பள்ளியின் திறந்த வகுப்பறைத் தொகுதி, அதன் வாயில்களும் கூரை விளிம்பும் தெளிந்த வானத்தின் கீழ் மலேசியக் கொடிகளால் அலங்கரிக்கப்பட்டுள்ளன.
+    kind: actual
+    origin: third-party
+    subject: ஒரு தமிழ்வழி நடுநிலை தொடக்கப் பள்ளியின் வகுப்பறைத் தொகுதி, கெடா, சாங்லூன்
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom2(1).jpg
 ---
 
 மலாயாவின் பழைய ரப்பர் தோட்டங்களில், ஆரம்பகாலப் பள்ளியறைகளில் சில கொட்டகைகளாகவும் குடிசைகளாகவும் இருந்தன, பாடங்கள் தமிழில் நடந்தன. மலேசிய வரலாற்றுச் சங்கத்தின் (Malaysian Historical Society) இதழில் வெளியான ஒரு வரலாற்று ஆய்வின்படி, இருபதாம் நூற்றாண்டின் தொடக்கத்திலிருந்து தோட்டங்களில் தமிழில் அடிப்படைத் தொடக்கக் கல்வி வழங்கப்பட்டது; அது அன்றைய தொழிலாளர் விதிகளின் கீழ் ஏற்பாடு செய்யப்பட்டது, மேலும் நீண்ட காலமாக பயிற்சி பெற்ற ஆசிரியர்களைவிட எழுத்தர்களாலும் பகுதி-நேரப் பணியாளர்களாலும் கற்பிக்கப்பட்டது.

@@ -32,7 +32,7 @@ faq:
   - q: "Apakah Festival Sembilan Dewa Kaisar sama dengan Festival Hantu Lapar (Sembahyang Rebutan) atau Tahun Baru Imlek?"
     a: "Tidak sama. Festival Sembilan Dewa Kaisar adalah festival Taoisme pada bulan sembilan penanggalan lunar yang khusus memuja Sembilan Dewa Kaisar, berporos pada menjemput air, berpantang makan, dan mengantar dewa; Festival Hantu Lapar (Yulan) jatuh pada bulan tujuh penanggalan lunar, bertema penyelamatan menyeluruh dan pembebasan arwah gentayangan; sedangkan Tahun Baru Imlek adalah festival budaya bermusim yang berporos pada reuni keluarga. Ketiganya berbeda dalam waktu, objek, dan makna, dan tidak sepatutnya dicampuradukkan."
 lang: "id"
-sourceContentHash: "642647a0f184876b"
+sourceContentHash: "fef1d3cfdfb90ea5"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_Festival_(Ipoh)_3.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-1.webp
+    alt: Sebuah kelenteng yang dihias saat Festival Sembilan Dewa Kaisar di Kepala Batas, dengan lampion, panji-panji kuning, dan sesajen
+    kind: actual
+    origin: third-party
+    subject: Festival Sembilan Dewa Kaisar (Kew Ong Yah) dirayakan di sebuah kelenteng di Kepala Batas, Penang
+    credit: LEE 003 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_(KepalaBatas)_2.jpg
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-2.webp
+    alt: Sebuah gerbang upacara berhias yang menuju ke pelataran Kelenteng Sembilan Dewa Kaisar Tow Boo Kong di Butterworth
+    kind: actual
+    origin: third-party
+    subject: Gerbang berhias Kelenteng Sembilan Dewa Kaisar Tow Boo Kong di Butterworth, Penang
+    credit: Photo Dharma / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Archway_to_the_Temple_(9031159018).jpg
 ---
 
 Pada malam sebelum tanggal 1 bulan sembilan penanggalan lunar, sebaris penganut berbusana putih dengan selempang kuning di pinggang, memegang dupa harum, keluar beriringan dari kelenteng menuju tepi sungai atau pantai terdekat. Di depan ada gong dan tambur, di belakang asap dupa — mereka pergi untuk "menjemput air" dan "menyambut dewa", mengiringi Sembilan Dewa Kaisar pulang ke kelenteng. Selama sembilan hari berikutnya, di dalam kelenteng dupa tak putus-putus, di luar kelenteng semerbak aroma makanan vegetarian; dan pada malam tanggal 9, barisan yang sama akan kembali berbaris ke tepi air untuk mengantar dewa pulang.

@@ -37364,5 +37364,3909 @@
         "subject": "Des sprinteurs sur piste s'élançant sur les planches relevées d'un vélodrome"
       }
     ]
+  },
+  "arts-culture/ayyappan-pilgrimage": {
+    "zh": [
+      {
+        "alt": "身着黑衣、头缠布巾的朝圣者行走在通往沙巴里马拉（Sabarimala）的林间小径上",
+        "subject": "身着黑衣的阿雅潘（Ayyappan）信徒徒步穿越林间小径，前往沙巴里马拉圣殿"
+      },
+      {
+        "alt": "地面上以彩色粉末绘成的阿雅潘神大型图案（kalam），四周环绕点燃的黄铜油灯与花环，后方有一名盘坐的鼓手",
+        "subject": "阿雅潘仪式地画（kalam），配以黄铜油灯与鼓手，是敬奉阿雅潘神的虔诚传统"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "黒衣をまとい布で頭を覆った巡礼者たちが、サバリマラへの巡礼路となる森の小道を歩いている",
+        "subject": "黒衣のアイヤッパン（Ayyappan）信者が、サバリマラの聖堂を目指して森の道を巡礼する様子"
+      },
+      {
+        "alt": "色粉で床に描かれたアイヤッパン神の大きな絵（kalam）。点灯した真鍮の油灯と花輪に囲まれ、背後に太鼓奏者が座っている",
+        "subject": "真鍮の油灯と太鼓奏者を伴うアイヤッパンの儀礼床絵（kalam）。アイヤッパ神への信仰の伝統"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "검은 옷을 입고 천으로 머리를 감싼 순례자들이 사바리말라로 향하는 순례길의 숲길을 걷고 있다",
+        "subject": "검은 옷을 입은 아이야판(Ayyappan) 신자들이 사바리말라 사원을 향해 숲길을 순례하는 모습"
+      },
+      {
+        "alt": "색가루로 바닥에 그린 아이야판 신의 큰 그림(kalam)이 불을 밝힌 놋쇠 기름등과 꽃목걸이로 둘러싸여 있고, 뒤쪽에 북 치는 이가 앉아 있다",
+        "subject": "놋쇠 기름등과 북 치는 이를 곁들인 아이야판 의례 바닥 그림(kalam), 아이야파 신을 기리는 신앙 전통"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ผู้แสวงบุญสวมชุดดำและใช้ผ้าคลุมศีรษะเดินไปตามเส้นทางในป่าในการจาริกแสวงบุญสู่ศบริมาลา",
+        "subject": "สาวกอัยยัปปัน (Ayyappan) ในชุดดำเดินเท้าผ่านเส้นทางในป่ามุ่งสู่เทวสถานศบริมาลา"
+      },
+      {
+        "alt": "ภาพวาดบนพื้นด้วยผงสีขนาดใหญ่เป็นรูปเทพอัยยัปปะ ล้อมรอบด้วยตะเกียงน้ำมันทองเหลืองที่จุดไว้และพวงมาลัยดอกไม้ โดยมีมือกลองนั่งอยู่ด้านหลัง",
+        "subject": "ภาพวาดบนพื้นในพิธีกรรมของอัยยัปปัน (kalam) พร้อมตะเกียงน้ำมันทองเหลืองและมือกลอง ประเพณีแห่งศรัทธาต่อองค์เทพอัยยัปปะ"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Penganut berpakaian hitam, dengan tudung kepala daripada kain, menyusuri denai hutan dalam ziarah ke Sabarimala",
+        "subject": "Penganut Ayyappan berpakaian hitam mendaki denai hutan menuju kuil Sabarimala"
+      },
+      {
+        "alt": "Lukisan lantai serbuk berwarna yang besar menggambarkan dewa Ayyappa, dikelilingi pelita minyak tembaga yang menyala dan untaian bunga, dengan seorang pemain gendang duduk di belakang",
+        "subject": "Lukisan lantai ritual Ayyappan (kalam) dengan pelita minyak tembaga dan pemain gendang, satu tradisi kebaktian bagi Dewa Ayyappa"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Peziarah berpakaian hitam, dengan penutup kepala dari kain, berjalan menyusuri jalan setapak hutan dalam ziarah ke Sabarimala",
+        "subject": "Umat Ayyappan berpakaian hitam mendaki jalan setapak hutan menuju kuil Sabarimala"
+      },
+      {
+        "alt": "Lukisan lantai dari bubuk warna berukuran besar yang menggambarkan dewa Ayyappa, dikelilingi pelita minyak kuningan yang menyala dan untaian bunga, dengan seorang penabuh gendang duduk di belakang",
+        "subject": "Lukisan lantai ritual Ayyappan (kalam) dengan pelita minyak kuningan dan penabuh gendang, sebuah tradisi devosi bagi Dewa Ayyappa"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những người hành hương mặc đồ đen, trùm khăn vải trên đầu, đi trên lối mòn trong rừng trên đường hành hương đến Sabarimala",
+        "subject": "Tín đồ Ayyappan mặc đồ đen đi bộ trên lối mòn trong rừng hướng về đền Sabarimala"
+      },
+      {
+        "alt": "Bức tranh sàn bằng bột màu lớn vẽ thần Ayyappa, bao quanh bởi những ngọn đèn dầu bằng đồng đang cháy và vòng hoa, phía sau có một người đánh trống ngồi",
+        "subject": "Tranh sàn nghi lễ Ayyappan (kalam) với đèn dầu đồng và người đánh trống, một truyền thống sùng kính Thần Ayyappa"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கறுப்பு உடை அணிந்து, தலையில் துணிக் கட்டுடன், சபரிமலை யாத்திரையில் காட்டுப் பாதையில் நடக்கும் பக்தர்கள்",
+        "subject": "கறுப்பு உடை அணிந்த ஐயப்பன் பக்தர்கள் சபரிமலை கோயிலை நோக்கி காட்டுப் பாதையில் பயணிக்கிறார்கள்"
+      },
+      {
+        "alt": "ஐயப்ப சுவாமியின் பெரிய வண்ணப்பொடிக் கோலம், எரியும் பித்தளை அகல் விளக்குகள் மற்றும் மலர் மாலைகளால் சூழப்பட்டு, பின்னால் அமர்ந்த மேளக்காரருடன்",
+        "subject": "ஐயப்பன் சடங்குக் கோலம், பித்தளை அகல் விளக்குகள் மற்றும் மேளக்காரருடன் — ஐயப்ப சுவாமிக்கான ஒரு பக்தி மரபு"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "काले वस्त्र और कपड़े से सिर ढके तीर्थयात्री, साबरीमला की तीर्थयात्रा पर जंगल की पगडंडी पर चलते हुए",
+        "subject": "साबरीमला मंदिर की ओर जंगल के रास्ते पर चलते काले वस्त्रधारी अय्यप्पन भक्त"
+      },
+      {
+        "alt": "देवता अय्यप्पा का रंगीन चूर्ण से बना एक बड़ा भूमि-चित्र, जलते पीतल के दीपों और फूलों की मालाओं से घिरा, पीछे एक बैठा ढोलवादक",
+        "subject": "पीतल के दीपों और एक ढोलवादक के साथ अय्यप्पन अनुष्ठानिक भूमि-चित्र (कलम), भगवान अय्यप्पा के लिए एक भक्ति परंपरा"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "حجّاج يرتدون ملابس سوداء مع أغطية رأس قماشية يمشون في درب غابي في حجّهم إلى Sabarimala",
+        "subject": "محبّو Ayyappan بالملابس السوداء يسيرون في مسار غابي نحو معبد Sabarimala"
+      },
+      {
+        "alt": "لوحة أرضية كبيرة ملوّنة من المسحوق تصوّر الإله Ayyappa، تحيط بها مصابيح زيتية نحاسية مضاءة وأكاليل من الزهور، وخلفها قارع طبل جالس",
+        "subject": "لوحة أرضية طقسية لـ Ayyappan (kalam) مع مصابيح زيتية نحاسية وقارع طبل، تقليد تعبّدي للإله Ayyappa"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Peregrinos vestidos de negro, con la cabeza cubierta de tela, caminando por un sendero del bosque en la peregrinación a Sabarimala",
+        "subject": "Devotos de Ayyappan vestidos de negro recorriendo un sendero forestal hacia el santuario de Sabarimala"
+      },
+      {
+        "alt": "Una gran pintura de suelo en polvo de colores que representa a la deidad Ayyappa, rodeada de lámparas de aceite de latón encendidas y guirnaldas de flores, con un tamborilero sentado detrás",
+        "subject": "Pintura ritual de suelo de Ayyappan (kalam) con lámparas de aceite de latón y un tamborilero, una tradición devocional dedicada al Señor Ayyappa"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des pèlerins vêtus de noir, la tête couverte d'un tissu, marchant sur un sentier forestier lors du pèlerinage à Sabarimala",
+        "subject": "Des dévots d'Ayyappan vêtus de noir cheminant sur un sentier forestier vers le sanctuaire de Sabarimala"
+      },
+      {
+        "alt": "Une grande peinture au sol en poudre colorée représentant la divinité Ayyappa, entourée de lampes à huile en laiton allumées et de guirlandes de fleurs, avec un joueur de tambour assis derrière",
+        "subject": "Peinture rituelle au sol d'Ayyappan (kalam) avec des lampes à huile en laiton et un joueur de tambour, une tradition dévotionnelle dédiée au Seigneur Ayyappa"
+      }
+    ]
+  },
+  "arts-culture/bahasa-melayu": {
+    "zh": [
+      {
+        "alt": "马来西亚书展上，一面写着「马来文书籍」的悬挂招牌下，摊桌堆满马来文平装书，顾客正在翻阅选购",
+        "subject": "马来西亚某书展上的马来文书籍专区"
+      },
+      {
+        "alt": "一份陈旧的手抄本以爪夷文（Jawi）书写，摊开陈列于玻璃柜内的展架上",
+        "subject": "一份以爪夷文书写、摊开的马来文手稿（《马六甲法典》Hukum Kanun Melaka 法律汇编），马来西亚"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マレーシアのブックフェアで、「マレー語の本」と記された吊り看板の下、マレー語のペーパーバックが積まれた台を買い物客が物色している",
+        "subject": "マレーシアのブックフェアにおけるマレー語書籍のコーナー"
+      },
+      {
+        "alt": "ジャウィ文字で書かれた古い手書き写本が、ガラスケース内の展示台の上に開いて置かれている",
+        "subject": "ジャウィ文字で書かれた開いたマレー語写本（マラッカ法典 Hukum Kanun Melaka の法令集）、マレーシア"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "말레이시아 도서전에서 '말레이어 책'이라 적힌 걸개 간판 아래, 말레이어 문고본이 쌓인 매대를 손님들이 둘러보고 있다",
+        "subject": "말레이시아 도서전의 말레이어 도서 코너"
+      },
+      {
+        "alt": "자위(Jawi) 문자로 쓰인 오래된 필사본이 유리 진열장 안 받침대 위에 펼쳐져 전시되어 있다",
+        "subject": "자위 문자로 쓰인 펼쳐진 말레이어 필사본(믈라카 법전 Hukum Kanun Melaka 법률 모음), 말레이시아"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ป้ายแขวนข้อความ 'หนังสือภาษามลายู' เหนือโต๊ะที่กองหนังสือปกอ่อนภาษามลายู โดยมีผู้ซื้อกำลังเลือกดูที่งานหนังสือในมาเลเซีย",
+        "subject": "โซนหนังสือภาษามลายูในงานหนังสือแห่งหนึ่งในมาเลเซีย"
+      },
+      {
+        "alt": "ต้นฉบับลายมือเก่าที่เปิดกางออก เขียนด้วยอักษรยาวี จัดแสดงบนแท่นในตู้กระจก",
+        "subject": "ต้นฉบับภาษามลายูที่เปิดกางออก เขียนด้วยอักษรยาวี (ประมวลกฎหมาย Hukum Kanun Melaka ของมะละกา) มาเลเซีย"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Papan tanda tergantung bertulis 'Buku Melayu' di atas meja yang dipenuhi buku berbahasa Melayu sementara pengunjung menyelak di pesta buku Malaysia",
+        "subject": "Bahagian buku berbahasa Melayu di sebuah pesta buku di Malaysia"
+      },
+      {
+        "alt": "Manuskrip tulisan tangan dalam tulisan Jawi yang sudah usang, terbuka dan dipamerkan di atas penyangga dalam almari kaca",
+        "subject": "Manuskrip berbahasa Melayu dalam tulisan Jawi yang terbuka (Hukum Kanun Melaka), Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Papan gantung bertuliskan 'Buku Melayu' di atas meja yang penuh buku berbahasa Melayu sementara pengunjung melihat-lihat di pameran buku Malaysia",
+        "subject": "Bagian buku berbahasa Melayu di sebuah pameran buku di Malaysia"
+      },
+      {
+        "alt": "Naskah tulisan tangan beraksara Jawi yang sudah tua, terbuka dan dipajang di atas penyangga dalam lemari kaca",
+        "subject": "Naskah berbahasa Melayu beraksara Jawi yang terbuka (Hukum Kanun Melaka), Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Tấm biển treo ghi 'Sách tiếng Mã Lai' phía trên những chiếc bàn chất đầy sách bìa mềm tiếng Mã Lai khi khách tham quan xem sách tại hội chợ sách Malaysia",
+        "subject": "Khu sách tiếng Mã Lai tại một hội chợ sách ở Malaysia"
+      },
+      {
+        "alt": "Một bản thảo viết tay bằng chữ Jawi đã cũ, mở ra và trưng bày trên giá trong tủ kính",
+        "subject": "Một bản thảo tiếng Mã Lai mở bằng chữ Jawi (bộ luật Hukum Kanun Melaka), Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "மலேசியப் புத்தகக் கண்காட்சியில் மக்கள் புத்தகங்களைப் பார்த்துக்கொண்டிருக்கையில், மலாய் மொழி புத்தகங்கள் குவிந்த மேசைகளுக்கு மேலே 'மலாய் புத்தகங்கள்' எனத் தொங்கும் அறிவிப்புப் பலகை",
+        "subject": "மலேசியாவில் ஒரு புத்தகக் கண்காட்சியில் மலாய் மொழி புத்தகப் பகுதி"
+      },
+      {
+        "alt": "கண்ணாடிப் பேழைக்குள் ஒரு தாங்கியின் மீது காட்சிப்படுத்தப்பட்ட, ஜாவி எழுத்தில் எழுதப்பட்ட பழைய கையெழுத்துப் பிரதி",
+        "subject": "ஜாவி எழுத்தில் திறந்த மலாய் மொழி கையெழுத்துப் பிரதி (ஹுக்கூம் கானூன் மெலாக்கா சட்டத் தொகுப்பு), மலேசியா"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक मलेशियाई पुस्तक मेले में 'मलय पुस्तकें' लिखा लटका हुआ बोर्ड, जिसके नीचे मलय-भाषा की पेपरबैक किताबों से भरी मेज़ों पर ग्राहक पुस्तकें देख रहे हैं",
+        "subject": "मलेशिया में एक पुस्तक मेले में मलय-भाषा की पुस्तकों का खंड"
+      },
+      {
+        "alt": "काँच के बक्से में एक स्टैंड पर प्रदर्शित जावी लिपि में एक पुरानी, खुली हस्तलिखित पांडुलिपि",
+        "subject": "जावी लिपि में एक खुली मलय-भाषा पांडुलिपि (हुकुम कानून मेलाका विधि-संग्रह), मलेशिया"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "لافتة معلّقة كُتب عليها 'كتب ملايوية' فوق طاولات مكدّسة بكتب ملايوية ورقية الغلاف بينما يتصفّحها الزوار في معرض كتاب ماليزي",
+        "subject": "قسم الكتب باللغة الملايوية في معرض كتاب في ماليزيا"
+      },
+      {
+        "alt": "مخطوطة يدوية قديمة مفتوحة بخط Jawi معروضة على حامل داخل صندوق زجاجي",
+        "subject": "مخطوطة ملايوية مفتوحة بخط Jawi (مدونة قوانين Hukum Kanun Melaka)، ماليزيا"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un cartel colgante que dice 'Libros en malayo' sobre mesas repletas de libros de bolsillo en lengua malaya, mientras los visitantes hojean en una feria del libro malasia",
+        "subject": "La sección de libros en lengua malaya en una feria del libro en Malasia"
+      },
+      {
+        "alt": "Un antiguo manuscrito manuscrito abierto en escritura Jawi, expuesto sobre un atril dentro de una vitrina de cristal",
+        "subject": "Un manuscrito abierto en lengua malaya en escritura Jawi (el compendio jurídico Hukum Kanun Melaka), Malasia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une pancarte suspendue indiquant « Livres malais » au-dessus de tables chargées de livres de poche en langue malaise, tandis que des visiteurs les parcourent lors d'un salon du livre malaisien",
+        "subject": "La section des livres en langue malaise lors d'un salon du livre en Malaisie"
+      },
+      {
+        "alt": "Un ancien manuscrit manuscrit ouvert en écriture Jawi, exposé sur un support dans une vitrine en verre",
+        "subject": "Un manuscrit ouvert en langue malaise en écriture Jawi (le recueil juridique Hukum Kanun Melaka), Malaisie"
+      }
+    ]
+  },
+  "arts-culture/borneo-indigenous-languages": {
+    "zh": [
+      {
+        "alt": "身着黑金两色卡达山（Kadazan）传统服饰、头戴锥形帽的年轻人手持竹制乐器，出席沙巴一场户外文化活动",
+        "subject": "身着传统服饰的卡达山坦加拉（Kadazan Tangara）族群，出席沙巴巴巴（Papar）的丰收节（Kaamatan）庆典"
+      },
+      {
+        "alt": "一对身着乌鲁人（Orang Ulu）礼服、头戴串珠头饰的男女，站在绘有婆罗洲卷曲纹样的墙前",
+        "subject": "一对身着传统服饰的乌鲁人（Orang Ulu）伉俪，站在绘有图案的长屋壁画前，砂拉越"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "黒と金のカダザン衣装と円錐形の帽子を身につけ、竹製の楽器を手にした若者たちが、サバの野外文化イベントに参加している",
+        "subject": "伝統衣装をまとったカダザン・タンガラ（Kadazan Tangara）の人々が、サバ州パパルの収穫祭カアマタン（Kaamatan）を祝う様子"
+      },
+      {
+        "alt": "オラン・ウルの儀礼衣装とビーズ飾りの頭飾りを身につけた男女が、ボルネオの渦巻き文様が描かれた壁の前に立っている",
+        "subject": "伝統衣装をまとったオラン・ウル（Orang Ulu）の夫婦が、文様の描かれたロングハウスの壁画の前に立つ、サラワク州"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "검정과 금색의 카다잔 의상과 원뿔형 모자를 쓰고 대나무 악기를 든 젊은이들이 사바의 야외 문화 행사에 참여하고 있다",
+        "subject": "전통 의상을 입은 카다잔 탕가라(Kadazan Tangara) 공동체가 사바주 파파르의 수확제 카아마탄(Kaamatan)을 기념하는 모습"
+      },
+      {
+        "alt": "오랑 울루 의례 복장과 구슬 머리장식을 한 남녀가 보르네오의 소용돌이 문양이 그려진 벽 앞에 서 있다",
+        "subject": "전통 복장을 한 오랑 울루(Orang Ulu) 부부가 문양이 그려진 롱하우스 벽화 앞에 선 모습, 사라왁주"
+      }
+    ],
+    "th": [
+      {
+        "alt": "คนหนุ่มสาวในชุดกาดาซานสีดำทองและหมวกทรงกรวย ถือเครื่องดนตรีไม้ไผ่ ในงานวัฒนธรรมกลางแจ้งที่รัฐซาบาห์",
+        "subject": "ชุมชนกาดาซานตังการา (Kadazan Tangara) ในชุดดั้งเดิม ร่วมเฉลิมฉลองเทศกาลเก็บเกี่ยว Kaamatan ที่เมืองปาปาร์ รัฐซาบาห์"
+      },
+      {
+        "alt": "ชายหญิงในชุดพิธีของชาวโอรังอูลูและเครื่องประดับศีรษะลูกปัด ยืนอยู่หน้ากำแพงที่วาดลวดลายม้วนแบบบอร์เนียว",
+        "subject": "คู่สามีภรรยาชาวโอรังอูลู (Orang Ulu) ในชุดดั้งเดิม ยืนอยู่หน้าภาพจิตรกรรมฝาผนังบ้านยาว รัฐซาราวัก"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Golongan muda berpakaian Kadazan hitam-emas dan bertopi kon, memegang alat muzik buluh, pada satu acara kebudayaan terbuka di Sabah",
+        "subject": "Masyarakat Kadazan Tangara berpakaian tradisional pada sambutan menuai Kaamatan di Papar, Sabah"
+      },
+      {
+        "alt": "Seorang lelaki dan wanita berpakaian istiadat Orang Ulu dan bertutup kepala manik berdiri di hadapan dinding yang dilukis dengan motif Borneo berpusar",
+        "subject": "Sepasang Orang Ulu berpakaian tradisional di hadapan mural rumah panjang yang dilukis, Sarawak"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Kaum muda berbusana Kadazan hitam-emas dan bertopi kerucut, memegang alat musik bambu, pada sebuah acara budaya terbuka di Sabah",
+        "subject": "Masyarakat Kadazan Tangara berbusana tradisional pada perayaan panen Kaamatan di Papar, Sabah"
+      },
+      {
+        "alt": "Seorang pria dan wanita berbusana adat Orang Ulu dan penutup kepala manik berdiri di depan dinding yang dilukis dengan motif Borneo yang berpusar",
+        "subject": "Sepasang Orang Ulu berbusana tradisional di depan mural rumah panjang yang dilukis, Sarawak"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những người trẻ trong trang phục Kadazan màu đen và vàng cùng nón hình chóp, cầm nhạc cụ bằng tre, tại một sự kiện văn hóa ngoài trời ở Sabah",
+        "subject": "Cộng đồng Kadazan Tangara trong trang phục truyền thống tại lễ hội mừng mùa gặt Kaamatan ở Papar, Sabah"
+      },
+      {
+        "alt": "Một người đàn ông và một phụ nữ trong trang phục nghi lễ Orang Ulu và mũ đội đầu kết cườm đứng trước bức tường vẽ các họa tiết Borneo uốn lượn",
+        "subject": "Một cặp Orang Ulu trong trang phục truyền thống trước bức bích họa nhà dài, Sarawak"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கறுப்பு-தங்க நிற கடாசான் உடையும் கூம்பு தொப்பியும் அணிந்த இளைஞர்கள், மூங்கில் இசைக்கருவிகளைப் பிடித்தபடி, சபாவில் ஒரு திறந்தவெளி பண்பாட்டு நிகழ்வில்",
+        "subject": "சபா, பப்பாரில் நடந்த காமாட்டான் அறுவடைப் பண்டிகையில் பாரம்பரிய உடையில் கடாசான் தங்காரா சமூகத்தினர்"
+      },
+      {
+        "alt": "சுழலும் போர்னியோ வடிவங்கள் தீட்டப்பட்ட சுவருக்கு முன்னால் நின்றிருக்கும், ஓராங் உலு சடங்கு உடையும் மணி பதித்த தலையணியும் அணிந்த ஓர் ஆணும் பெண்ணும்",
+        "subject": "சரவாக்கில் தீட்டப்பட்ட நீள்வீட்டுச் சுவரோவியத்திற்கு முன்னால் பாரம்பரிய உடையில் ஓராங் உலு தம்பதி"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "सबा में एक खुले सांस्कृतिक आयोजन में काले-सुनहरे कडाज़ान परिधान और शंक्वाकार टोपियों में, बाँस के वाद्य थामे युवा",
+        "subject": "सबा के पापर में कामातान (Kaamatan) फसल उत्सव में पारंपरिक वेशभूषा में कडाज़ान तांगारा समुदाय"
+      },
+      {
+        "alt": "Orang Ulu के अनुष्ठानिक परिधान और मनकों के शिरोवस्त्र में एक पुरुष और एक महिला, बोर्नियो की घुमावदार आकृतियों से चित्रित दीवार के सामने खड़े",
+        "subject": "सरवाक में एक चित्रित लॉन्गहाउस भित्तिचित्र के सामने पारंपरिक वेशभूषा में एक Orang Ulu दंपति"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "شبّان بالزي الكادازاني الأسود والذهبي وقبعات مخروطية يحملون آلات من الخيزران في فعالية ثقافية مفتوحة في Sabah",
+        "subject": "مجتمع Kadazan Tangara بالأزياء التقليدية في احتفال حصاد Kaamatan في Papar بولاية Sabah"
+      },
+      {
+        "alt": "رجل وامرأة بالزي الاحتفالي لـ Orang Ulu وأغطية رأس مزيّنة بالخرز يقفان أمام جدار مرسوم بزخارف بورنيو المتموّجة",
+        "subject": "زوجان من Orang Ulu بالزي التقليدي أمام جدارية لبيت طويل مرسومة، Sarawak"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Jóvenes con traje kadazan negro y dorado y sombreros cónicos, sosteniendo instrumentos de bambú, en un acto cultural al aire libre en Sabah",
+        "subject": "La comunidad Kadazan Tangara con vestimenta tradicional en una celebración de la cosecha Kaamatan en Papar, Sabah"
+      },
+      {
+        "alt": "Un hombre y una mujer con atuendo ceremonial Orang Ulu y tocados de cuentas, de pie ante una pared pintada con motivos ondulantes de Borneo",
+        "subject": "Una pareja Orang Ulu con vestimenta tradicional ante un mural pintado de una casa comunal (longhouse), Sarawak"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des jeunes en costume kadazan noir et or et chapeaux coniques, tenant des instruments en bambou, lors d'un événement culturel en plein air à Sabah",
+        "subject": "La communauté Kadazan Tangara en tenue traditionnelle lors d'une célébration des moissons Kaamatan à Papar, Sabah"
+      },
+      {
+        "alt": "Un homme et une femme en tenue cérémonielle Orang Ulu et coiffes de perles, debout devant un mur peint de motifs tourbillonnants de Bornéo",
+        "subject": "Un couple Orang Ulu en tenue traditionnelle devant une fresque peinte de maison longue, Sarawak"
+      }
+    ]
+  },
+  "arts-culture/buddhism-in-malaysia": {
+    "zh": [
+      {
+        "alt": "槟城一座泰国佛寺华丽的鎏金贴瓷立面与屋顶，映衬蓝天",
+        "subject": "卧佛寺（Wat Chaiya Mangkalaram），位于槟城乔治市的泰国上座部佛教寺院"
+      },
+      {
+        "alt": "一尊盘坐的佛像被大量黄、白、粉色菊花簇拥，置于卫塞节花车之上",
+        "subject": "吉打亚罗士打 Wat Nikrodharam 卫塞节（Wesak）花车上花团锦簇的佛像"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "青空を背に、きらびやかに金箔を施しタイルで飾られたタイ仏教寺院の正面と屋根（ペナン）",
+        "subject": "ワット・チャイヤ・マンカラーラム、ペナン・ジョージタウンにあるタイ上座部仏教の寺院"
+      },
+      {
+        "alt": "黄・白・ピンクの菊の花に埋もれるように囲まれた坐像の仏が、ウェーサーカ祭の山車に安置されている",
+        "subject": "ケダ州アロースターのワット・ニクロダーラムでのウェーサーカ（Wesak）の山車に飾られた仏像"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "푸른 하늘을 배경으로 금박과 타일로 화려하게 장식된 태국 불교 사원의 정면과 지붕(페낭)",
+        "subject": "왓 차이야 망칼라람, 페낭 조지타운에 있는 태국 상좌부 불교 사원"
+      },
+      {
+        "alt": "노랑, 흰색, 분홍 국화에 둘러싸인 좌불상이 웨삭 축제 수레 위에 모셔져 있다",
+        "subject": "크다주 알로르스타르의 왓 니크로다람 웨삭(Wesak)절 수레에 꽃으로 장식된 불상"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ด้านหน้าและหลังคาของวัดไทยที่ปิดทองและประดับกระเบื้องอย่างวิจิตร ตัดกับท้องฟ้าสีครามที่ปีนัง",
+        "subject": "วัดไชยมังคลาราม วัดพุทธเถรวาทแบบไทยในจอร์จทาวน์ รัฐปีนัง"
+      },
+      {
+        "alt": "พระพุทธรูปปางประทับนั่งรายล้อมด้วยดอกเบญจมาศสีเหลือง ขาว และชมพูจำนวนมากบนรถบุปผชาติวันวิสาขบูชา",
+        "subject": "พระพุทธรูปประดับดอกไม้บนรถบุปผชาติวันวิสาขบูชา (Wesak) ที่วัดนิโครธาราม เมืองอาโลร์เซอตาร์ รัฐเกอดะฮ์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Fasad dan bumbung bersadur emas serta berjubin sebuah tokong Buddha Thai yang indah berlatarkan langit biru di Pulau Pinang",
+        "subject": "Wat Chaiya Mangkalaram, sebuah tokong Buddha Theravada Thai di George Town, Pulau Pinang"
+      },
+      {
+        "alt": "Patung Buddha duduk dikelilingi timbunan bunga kekwa kuning, putih dan merah jambu di atas sebuah pelampung perayaan Wesak",
+        "subject": "Patung Buddha berhias bunga di atas pelampung Hari Wesak di Wat Nikrodharam, Alor Setar, Kedah"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Fasad dan atap bersepuh emas serta berubin dari sebuah wihara Buddha Thai yang indah berlatar langit biru di Penang",
+        "subject": "Wat Chaiya Mangkalaram, sebuah wihara Buddha Theravada Thai di George Town, Penang"
+      },
+      {
+        "alt": "Arca Buddha duduk dikelilingi tumpukan bunga krisan kuning, putih, dan merah muda di atas sebuah kendaraan hias perayaan Waisak",
+        "subject": "Arca Buddha berhias bunga di atas kendaraan hias Hari Waisak di Wat Nikrodharam, Alor Setar, Kedah"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Mặt tiền và mái chùa Phật giáo Thái dát vàng và lát gạch men lộng lẫy in trên nền trời xanh ở Penang",
+        "subject": "Wat Chaiya Mangkalaram, một ngôi chùa Phật giáo Nguyên thủy Thái ở George Town, Penang"
+      },
+      {
+        "alt": "Tượng Phật ngồi được bao quanh bởi vô số hoa cúc vàng, trắng và hồng trên một chiếc xe diễu hành lễ Phật Đản",
+        "subject": "Tượng Phật trang hoàng hoa trên xe diễu hành ngày lễ Phật Đản tại Wat Nikrodharam, Alor Setar, Kedah"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பினாங்கில் நீல வானத்தை பின்னணியாகக் கொண்ட ஒரு தாய் பௌத்தக் கோயிலின் அலங்கார தங்க முலாம் பூசிய, ஓடு பதித்த முகப்பும் கூரைகளும்",
+        "subject": "வாட் சையா மங்கலாராம், பினாங்கு ஜார்ஜ் டவுனில் உள்ள ஒரு தாய் தேரவாத பௌத்தக் கோயில்"
+      },
+      {
+        "alt": "வெசாக் பண்டிகை ஊர்தியில் மஞ்சள், வெள்ளை, இளஞ்சிவப்பு சாமந்திப் பூக் குவியல்களால் சூழப்பட்ட அமர்ந்த புத்தர் சிலை",
+        "subject": "கெடா, அலோர் சேத்தார், வாட் நிக்ரோதாராமில் வெசாக் தின ஊர்தியில் மலர்களால் அலங்கரிக்கப்பட்ட புத்தர் உருவம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "पेनांग में नीले आकाश के सामने एक थाई बौद्ध मंदिर का अलंकृत सुनहरा और टाइलदार अग्रभाग और छतें",
+        "subject": "वाट चाइया मंगकलाराम, पेनांग के जॉर्ज टाउन में एक थाई थेरवाद बौद्ध मंदिर"
+      },
+      {
+        "alt": "Wesak उत्सव की झाँकी पर पीले, सफ़ेद और गुलाबी गुलदाउदी के ढेरों से घिरी एक बैठी हुई बुद्ध प्रतिमा",
+        "subject": "केदाह के अलोर सेतार स्थित वाट निक्रोधाराम में Wesak दिवस की झाँकी पर फूलों से सजी बुद्ध प्रतिमा"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "الواجهة والأسقف المذهّبة والمبلّطة المزخرفة لمعبد بوذي تايلاندي أمام سماء زرقاء في Penang",
+        "subject": "معبد Wat Chaiya Mangkalaram، معبد بوذي تايلاندي من مذهب Theravada في George Town بولاية Penang"
+      },
+      {
+        "alt": "تمثال بوذا جالس تحيط به كتل من أزهار الأقحوان الصفراء والبيضاء والوردية على عربة احتفال Wesak",
+        "subject": "تمثال بوذا مزيّن بالزهور على عربة احتفال يوم Wesak في معبد Wat Nikrodharam، Alor Setar، Kedah"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La fachada y los tejados dorados y revestidos de azulejos, profusamente ornamentados, de un templo budista tailandés contra un cielo azul en Penang",
+        "subject": "Wat Chaiya Mangkalaram, un templo budista Theravada tailandés en George Town, Penang"
+      },
+      {
+        "alt": "Una estatua sedente de Buda rodeada de abundantes crisantemos amarillos, blancos y rosados en una carroza de la festividad de Wesak",
+        "subject": "Una imagen de Buda engalanada con flores en una carroza del Día de Wesak en Wat Nikrodharam, Alor Setar, Kedah"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "La façade et les toits dorés et carrelés, richement ornés, d'un temple bouddhiste thaï sur fond de ciel bleu à Penang",
+        "subject": "Wat Chaiya Mangkalaram, un temple bouddhiste thaï Theravada à George Town, Penang"
+      },
+      {
+        "alt": "Une statue de Bouddha assis entourée de masses de chrysanthèmes jaunes, blancs et roses sur un char de la fête de Wesak",
+        "subject": "Une statue de Bouddha ornée de fleurs sur un char du jour de Wesak à Wat Nikrodharam, Alor Setar, Kedah"
+      }
+    ]
+  },
+  "arts-culture/chettiar-community": {
+    "zh": [
+      {
+        "alt": "一座色彩缤纷的南印度庙宇塔门（gopuram），布满雕塑人像，映衬槟城晴朗的天空",
+        "subject": "纳加拉塔（Nagarathar，即 Nattukottai Chettiar）湿婆庙，位于槟城乔治市"
+      },
+      {
+        "alt": "黄昏时分，一辆高耸、挂满花环的鎏金庙宇神车在信众人潮中行经槟城街道",
+        "subject": "槟城大宝森节（Thaipusam）游行中的金色神车与信众，这一节庆有赖哲智亚（Chettiar）社群的维系"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "彫刻された人物像で埋め尽くされた色鮮やかな南インド式寺院の塔門（ゴープラム）が、ペナンの澄んだ空を背にそびえる",
+        "subject": "ナーガラタール（ナットゥコッタイ・チェッティアル）のシヴァ寺院、ペナン・ジョージタウン"
+      },
+      {
+        "alt": "花輪を掛けた高くそびえる金色の寺院の山車が、夕暮れのペナンの通りを信者の群衆の中を進んでいく",
+        "subject": "ペナンのタイプーサム行列における金色の山車と信者たち。チェッティアル社会が支える祭り"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "조각상으로 뒤덮인 화려한 남인도식 사원 탑문(고푸람)이 페낭의 맑은 하늘을 배경으로 서 있다",
+        "subject": "나가라타르(나투코타이 체티아르) 시바 사원, 페낭 조지타운"
+      },
+      {
+        "alt": "꽃목걸이를 두른 높다란 금빛 사원 수레가 해질 녘 페낭 거리를 신자들의 인파 속으로 지나간다",
+        "subject": "페낭 타이푸삼 행렬의 금색 수레와 신자들, 체티아르(Chettiar) 공동체가 이어가는 축제"
+      }
+    ],
+    "th": [
+      {
+        "alt": "โคปุรัมของวัดอินเดียใต้ที่เต็มไปด้วยรูปปั้นแกะสลักและสีสันสดใส ตัดกับท้องฟ้าแจ่มใสที่ปีนัง",
+        "subject": "วัดศิวะนาคารธาร์ (นัตตุโกฏไฏ เจฏฏิยาร์) ในจอร์จทาวน์ รัฐปีนัง"
+      },
+      {
+        "alt": "ราชรถวัดปิดทองสูงตระหง่านประดับพวงมาลัยเคลื่อนไปตามถนนในปีนังยามพลบค่ำท่ามกลางฝูงชนผู้ศรัทธา",
+        "subject": "ราชรถทองคำและผู้ศรัทธาในขบวนไทปูซัมที่ปีนัง เทศกาลที่ชุมชนเจฏฏิยาร์ (Chettiar) ช่วยสืบสาน"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Gopuram kuil India Selatan yang berwarna-warni dipenuhi arca ukiran, berlatarkan langit cerah di Pulau Pinang",
+        "subject": "Kuil Sivan Nagarathar (Nattukottai Chettiar) di George Town, Pulau Pinang"
+      },
+      {
+        "alt": "Sebuah rata kuil tinggi bersadur emas yang digantungi untaian bunga bergerak di sebuah jalan di Pulau Pinang pada waktu senja dalam kalangan orang ramai penganut",
+        "subject": "Rata emas dan para penganut semasa perarakan Thaipusam di Pulau Pinang, satu perayaan yang disokong oleh masyarakat Chettiar"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Gopuram kuil India Selatan yang berwarna-warni penuh arca pahatan, berlatar langit cerah di Penang",
+        "subject": "Kuil Sivan Nagarathar (Nattukottai Chettiar) di George Town, Penang"
+      },
+      {
+        "alt": "Sebuah kereta kencana kuil yang tinggi bersepuh emas dan digantungi untaian bunga bergerak di sebuah jalan di Penang saat senja di tengah kerumunan umat",
+        "subject": "Kereta kencana emas dan para umat saat prosesi Thaipusam di Penang, sebuah perayaan yang turut dilestarikan oleh masyarakat Chettiar"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Tháp gopuram của ngôi đền Nam Ấn nhiều màu sắc phủ kín các tượng điêu khắc, in trên nền trời quang đãng ở Penang",
+        "subject": "Đền Sivan Nagarathar (Nattukottai Chettiar) ở George Town, Penang"
+      },
+      {
+        "alt": "Một cỗ xe đền cao dát vàng treo đầy vòng hoa di chuyển qua một con phố ở Penang lúc chạng vạng giữa đám đông tín đồ",
+        "subject": "Cỗ xe vàng và các tín đồ trong lễ rước Thaipusam ở Penang, một lễ hội mà cộng đồng Chettiar góp phần gìn giữ"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பினாங்கில் தெளிவான வானத்தைப் பின்னணியாகக் கொண்ட, செதுக்கப்பட்ட உருவங்கள் நிறைந்த வண்ணமயமான தென்னிந்தியக் கோயில் கோபுரம்",
+        "subject": "பினாங்கு ஜார்ஜ் டவுனில் உள்ள நகரத்தார் (நாட்டுக்கோட்டை செட்டியார்) சிவன் கோயில்"
+      },
+      {
+        "alt": "மாலைப் பொழுதில் பக்தர் கூட்டத்திடையே பினாங்கு தெருவில் ஊர்ந்து செல்லும், மாலைகள் தொங்கும் உயரமான தங்க முலாம் பூசிய கோயில் தேர்",
+        "subject": "செட்டியார் சமூகம் நிலைநிறுத்த உதவும் பண்டிகையான தைப்பூசப் பவனியின்போது பினாங்கில் தங்கத் தேரும் பக்தர்களும்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "पेनांग में साफ़ आकाश के सामने मूर्तियों से भरा एक रंगीन दक्षिण भारतीय मंदिर गोपुरम",
+        "subject": "पेनांग के जॉर्ज टाउन में नागरत्तार (नट्टुकोट्टई चेट्टियार) शिवन मंदिर"
+      },
+      {
+        "alt": "संध्या के समय भक्तों की भीड़ के बीच पेनांग की एक सड़क से गुज़रता मालाओं से सजा एक ऊँचा सुनहरा मंदिर रथ",
+        "subject": "पेनांग में थाईपुसम जुलूस के दौरान स्वर्ण रथ और भक्त, एक उत्सव जिसे चेट्टियार समुदाय बनाए रखने में सहयोग करता है"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "برج معبد (gopuram) هندي جنوبي ملوّن مغطّى بتماثيل منحوتة أمام سماء صافية في Penang",
+        "subject": "معبد Nagarathar (Nattukottai Chettiar) Sivan في George Town بولاية Penang"
+      },
+      {
+        "alt": "عربة معبد مذهّبة عالية معلّقة بأكاليل الزهور تتحرّك عبر شارع في Penang عند الغسق وسط حشد من المحبّين",
+        "subject": "العربة الذهبية والمحبّون خلال موكب Thaipusam في Penang، وهو احتفال يسهم مجتمع Chettiar في الحفاظ عليه"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un colorido gopuram de templo del sur de la India cubierto de figuras esculpidas, sobre un cielo despejado en Penang",
+        "subject": "El templo Sivan de los Nagarathar (Nattukottai Chettiar) en George Town, Penang"
+      },
+      {
+        "alt": "Un alto carro de templo dorado adornado con guirnaldas avanzando por una calle de Penang al anochecer entre una multitud de devotos",
+        "subject": "El carro dorado y los devotos durante la procesión de Thaipusam en Penang, una festividad que la comunidad Chettiar ayuda a mantener"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un gopuram de temple sud-indien coloré, couvert de figures sculptées, se détachant sur un ciel dégagé à Penang",
+        "subject": "Le temple Sivan des Nagarathar (Nattukottai Chettiar) à George Town, Penang"
+      },
+      {
+        "alt": "Un haut char de temple doré orné de guirlandes avançant dans une rue de Penang au crépuscule au milieu d'une foule de dévots",
+        "subject": "Le char doré et les dévots lors de la procession de Thaipusam à Penang, une fête que la communauté Chettiar contribue à perpétuer"
+      }
+    ]
+  },
+  "arts-culture/chinese-bang-communities": {
+    "zh": [
+      {
+        "alt": "吉隆坡市中心街道上一栋黄红相间的战前店屋，设有福建会馆",
+        "subject": "雪兰莪福建会馆（福建方言群会馆）大楼，位于吉隆坡 Jalan Hang Lekiu"
+      },
+      {
+        "alt": "芙蓉市中心一栋华丽的三层新古典主义店屋，曾设有一所客家会馆",
+        "subject": "旧惠州（客家）会馆大楼，一所客家方言群会馆，位于芙蓉"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "クアラルンプール中心部の通りに建つ、福建人の会館が入る戦前の黄と赤の店屋（ショップハウス）",
+        "subject": "スランゴール福建会館（福建方言グループの同郷会館）の建物、クアラルンプールのジャラン・ハン・レキウ"
+      },
+      {
+        "alt": "スレンバン中心部に建つ、かつて客家の会館が入っていた華麗な新古典主義様式の三階建て店屋",
+        "subject": "旧恵州（客家）会館の建物、スレンバンにある客家方言グループの同郷会館"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "쿠알라룸푸르 중심가에 자리한, 푸젠(복건) 회관이 들어선 전전(戰前) 시기의 노랑과 빨강 숍하우스 건물",
+        "subject": "슬랑오르 푸젠 회관(푸젠 방언 집단의 동향 회관) 건물, 쿠알라룸푸르 잘란 항 레키우"
+      },
+      {
+        "alt": "스렘반 도심에 자리한, 한때 하카(객가) 회관이 들어섰던 화려한 신고전주의 양식의 3층 숍하우스",
+        "subject": "옛 후이저우(혜주 하카) 회관 건물, 스렘반에 있는 하카 방언 집단의 동향 회관"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคารช็อปเฮาส์ยุคก่อนสงครามสีเหลืองแดงที่เป็นที่ตั้งสมาคมตระกูลชาวฮกเกี้ยน บนถนนใจกลางกรุงกัวลาลัมเปอร์",
+        "subject": "อาคารสมาคมฮกเกี้ยนแห่งรัฐสลังงอร์ (สมาคมตระกูลของกลุ่มภาษาฮกเกี้ยน) บนถนนฮัง เลกิว กรุงกัวลาลัมเปอร์"
+      },
+      {
+        "alt": "ช็อปเฮาส์สามชั้นสไตล์นีโอคลาสสิกอันวิจิตรที่เคยเป็นที่ตั้งสมาคมตระกูลชาวฮากกา ใจกลางเมืองเซอเริมบัน",
+        "subject": "อาคารสมาคมฮุยโจว (ฮากกา) เดิม สมาคมตระกูลของกลุ่มภาษาฮากกาในเมืองเซอเริมบัน"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah bangunan rumah kedai pra-perang berwarna kuning dan merah yang menempatkan sebuah persatuan kongsi Hokkien di sebuah jalan utama Kuala Lumpur",
+        "subject": "Bangunan Persatuan Hokkien Selangor (persatuan kongsi dialek Hokkien) di Jalan Hang Lekiu, Kuala Lumpur"
+      },
+      {
+        "alt": "Sebuah rumah kedai Neoklasik tiga tingkat yang berhias, yang pernah menempatkan sebuah persatuan kongsi Hakka di tengah bandar Seremban",
+        "subject": "Bekas bangunan Persatuan Fui Chiu (Hakka Huizhou), sebuah rumah kongsi dialek Hakka di Seremban"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah bangunan ruko pra-perang berwarna kuning dan merah yang menampung sebuah perkumpulan marga Hokkien di sebuah jalan utama Kuala Lumpur",
+        "subject": "Gedung Perkumpulan Hokkien Selangor (perkumpulan marga dialek Hokkien) di Jalan Hang Lekiu, Kuala Lumpur"
+      },
+      {
+        "alt": "Sebuah ruko Neoklasik tiga lantai yang berhias, yang dahulu menampung sebuah perkumpulan marga Hakka di pusat kota Seremban",
+        "subject": "Bekas gedung Perkumpulan Fui Chiu (Hakka Huizhou), sebuah rumah marga dialek Hakka di Seremban"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một tòa nhà phố cổ trước chiến tranh màu vàng và đỏ, nơi đặt một hội quán dòng họ Phúc Kiến trên một con phố trung tâm Kuala Lumpur",
+        "subject": "Tòa nhà Hội quán Phúc Kiến Selangor (hội quán nhóm phương ngữ Phúc Kiến) trên đường Jalan Hang Lekiu, Kuala Lumpur"
+      },
+      {
+        "alt": "Một tòa nhà phố Tân cổ điển ba tầng trang trí công phu, từng là nơi đặt một hội quán dòng họ Khách Gia ở trung tâm Seremban",
+        "subject": "Tòa nhà cũ của Hội quán Fui Chiu (Khách Gia Huệ Châu), một hội quán nhóm phương ngữ Khách Gia ở Seremban"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கோலாலம்பூரின் ஒரு முக்கியத் தெருவில் ஹொக்கியன் குல சங்கம் அமைந்துள்ள, போருக்கு முந்தைய மஞ்சள்-சிவப்பு கடை-வீடு கட்டிடம்",
+        "subject": "கோலாலம்பூர், ஜாலான் ஹாங் லெகியூவில் உள்ள சிலாங்கூர் ஹொக்கியன் சங்கக் கட்டிடம் (ஹொக்கியன் கிளைமொழிக் குழு குல சங்கம்)"
+      },
+      {
+        "alt": "செரம்பான் நகர மையத்தில் ஒரு காலத்தில் ஹக்கா குல சங்கம் அமைந்திருந்த, அலங்காரமான நியோகிளாசிக்கல் மூன்றடுக்குக் கடை-வீடு",
+        "subject": "செரம்பானில் முன்னாள் ஃபுய் சியூ (ஹூய்சோ ஹக்கா) சங்கக் கட்டிடம், ஒரு ஹக்கா கிளைமொழிக் குழு குல மாளிகை"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कुआलालंपुर की एक केंद्रीय सड़क पर युद्ध-पूर्व के पीले-लाल शॉपहाउस भवन में स्थित एक होक्किएन कुल संघ",
+        "subject": "कुआलालंपुर की जालान हांग लेकियू पर सेलांगोर होक्किएन एसोसिएशन भवन (एक होक्किएन बोली-समूह कुल संघ)"
+      },
+      {
+        "alt": "सेरेम्बान के मध्य क्षेत्र में एक अलंकृत नवशास्त्रीय तीन-मंज़िला शॉपहाउस, जिसमें कभी एक हक्का कुल संघ था",
+        "subject": "सेरेम्बान में पूर्व फुई चिउ (हुइज़ोउ हक्का) एसोसिएशन भवन, एक हक्का बोली-समूह कुल भवन"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مبنى تجاري سكني (shophouse) أصفر وأحمر من حقبة ما قبل الحرب يضمّ جمعية عشائرية من Hokkien في شارع وسط Kuala Lumpur",
+        "subject": "مبنى جمعية Hokkien في Selangor (جمعية عشائرية لمجموعة لهجة Hokkien) في Jalan Hang Lekiu، Kuala Lumpur"
+      },
+      {
+        "alt": "مبنى تجاري سكني من ثلاثة طوابق بطراز كلاسيكي حديث مزخرف كان يضمّ ذات يوم جمعية عشائرية من Hakka في وسط Seremban",
+        "subject": "مبنى جمعية Fui Chiu (Huizhou Hakka) السابق، بيت عشائري لمجموعة لهجة Hakka في Seremban"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un edificio de casa-tienda (shophouse) de antes de la guerra, en amarillo y rojo, que alberga una asociación de clan hokkien en una calle céntrica de Kuala Lumpur",
+        "subject": "El edificio de la Asociación Hokkien de Selangor (una asociación de clan del grupo dialectal hokkien) en Jalan Hang Lekiu, Kuala Lumpur"
+      },
+      {
+        "alt": "Una ornamentada casa-tienda neoclásica de tres plantas que en su día albergó una asociación de clan hakka en el centro de Seremban",
+        "subject": "El antiguo edificio de la Asociación Fui Chiu (hakka de Huizhou), una casa de clan del grupo dialectal hakka en Seremban"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un bâtiment de maison-boutique (shophouse) d'avant-guerre, jaune et rouge, abritant une association de clan hokkien dans une rue du centre de Kuala Lumpur",
+        "subject": "Le bâtiment de l'Association Hokkien de Selangor (une association de clan du groupe dialectal hokkien), Jalan Hang Lekiu, Kuala Lumpur"
+      },
+      {
+        "alt": "Une maison-boutique néoclassique de trois étages richement ornée qui abrita autrefois une association de clan hakka dans le centre de Seremban",
+        "subject": "L'ancien bâtiment de l'Association Fui Chiu (hakka de Huizhou), une maison de clan du groupe dialectal hakka à Seremban"
+      }
+    ]
+  },
+  "arts-culture/chinese-cemeteries": {
+    "zh": [
+      {
+        "alt": "砂拉越一片草地上，成排铺砖的欧米茄形（马蹄形）华人坟墓，各有墓碑与供桌",
+        "subject": "砂拉越古晋附近华人义山里铺砖的马蹄形华人坟墓"
+      },
+      {
+        "alt": "清明扫墓时节，一座草坟上横放着一条条压着的彩色纸张，旁有墓碑",
+        "subject": "武吉布朗坟场（Bukit Brown Cemetery）清明扫墓时，坟头压放的彩色挂纸"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "サラワクの草地に並ぶ、墓石と祭壇を備えたタイル張りのオメガ型（馬蹄形）の華人墓",
+        "subject": "サラワク州クチン近郊の華人墓地にあるタイル張りの馬蹄形の華人墓"
+      },
+      {
+        "alt": "清明の墓参りの折、草の盛り土の墓に色紙の帯を重ねて置き、傍らに墓石が立つ",
+        "subject": "ブキッ・ブラウン墓地での清明（墓掃除）の際、墓の盛り土に重しとして置かれた色紙"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "사라왁의 풀밭에 비석과 제단을 갖춘 타일 입힌 오메가형(말굽형) 중국식 무덤이 줄지어 있다",
+        "subject": "사라왁 쿠칭 인근 중국인 묘지의 타일 입힌 말굽형 중국식 무덤"
+      },
+      {
+        "alt": "청명 성묘 때 비석 옆 풀로 덮인 봉분 위에 눌러 놓은 색종이 띠가 가로놓여 있다",
+        "subject": "부킷 브라운 묘지의 청명(성묘) 때 봉분 위에 눌러 둔 색종이"
+      }
+    ],
+    "th": [
+      {
+        "alt": "สุสานจีนรูปเกือกม้าปูกระเบื้องเรียงรายพร้อมแผ่นศิลาจารึกและแท่นบูชาในสุสานหญ้าที่รัฐซาราวัก",
+        "subject": "หลุมศพจีนรูปเกือกม้าปูกระเบื้องในสุสานจีนใกล้เมืองกูชิง รัฐซาราวัก"
+      },
+      {
+        "alt": "แถบกระดาษสีวางทับบนเนินหลุมศพหญ้าข้างแผ่นศิลาจารึกในช่วงเทศกาลเช็งเม้งกวาดสุสาน",
+        "subject": "กระดาษสีที่วางทับบนเนินหลุมศพในช่วงเช็งเม้ง (กวาดสุสาน) ที่สุสานบูกิตบราวน์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Barisan kubur Cina berbentuk omega yang berjubin, lengkap dengan batu nisan dan altar, di sebuah tanah perkuburan berumput di Sarawak",
+        "subject": "Kubur Cina berjubin berbentuk ladam kuda di sebuah tanah perkuburan Cina berhampiran Kuching, Sarawak"
+      },
+      {
+        "alt": "Jalur kertas berwarna disusun melintang di atas sebuah busut kubur berumput di sebelah batu nisan semasa perayaan membersih kubur Qingming",
+        "subject": "Kertas berwarna diberatkan di atas busut kubur semasa Qingming (membersih kubur) di Tanah Perkuburan Bukit Brown"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Barisan makam Tionghoa berbentuk omega berubin, lengkap dengan batu nisan dan altar, di sebuah pemakaman berumput di Sarawak",
+        "subject": "Makam Tionghoa berubin berbentuk tapal kuda di sebuah pemakaman Tionghoa dekat Kuching, Sarawak"
+      },
+      {
+        "alt": "Lembaran kertas warna-warni dibentangkan di atas gundukan makam berumput di samping batu nisan saat perayaan bersih kubur Qingming",
+        "subject": "Kertas warna-warni diberi pemberat di atas gundukan makam saat Qingming (ziarah bersih kubur) di Pemakaman Bukit Brown"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những hàng mộ người Hoa hình chữ omega lát gạch men, có bia mộ và bàn thờ, trong một nghĩa trang đầy cỏ ở Sarawak",
+        "subject": "Những ngôi mộ người Hoa lát gạch men hình móng ngựa tại một nghĩa trang người Hoa gần Kuching, Sarawak"
+      },
+      {
+        "alt": "Những dải giấy màu đặt ngang trên một nấm mộ phủ cỏ bên cạnh bia mộ trong lễ tảo mộ Thanh Minh",
+        "subject": "Giấy màu được chặn lên nấm mộ trong dịp Thanh Minh (tảo mộ) tại Nghĩa trang Bukit Brown"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "சரவாக்கில் புல் படர்ந்த கல்லறையில் கல்வெட்டுகளும் பீடங்களும் கொண்ட, ஓடு பதித்த ஓமேகா வடிவச் சீனக் கல்லறைகளின் வரிசைகள்",
+        "subject": "சரவாக், குச்சிங் அருகே ஒரு சீனக் கல்லறையில் ஓடு பதித்த குதிரை லாட வடிவச் சீனக் கல்லறைகள்"
+      },
+      {
+        "alt": "சிங்மிங் கல்லறை சுத்தம் செய்யும் பண்டிகையின்போது கல்வெட்டுக்கு அருகே புல் படர்ந்த கல்லறை மேட்டின் மீது விரிக்கப்பட்ட வண்ணக் காகிதப் பட்டைகள்",
+        "subject": "புக்கிட் பிரவுன் கல்லறையில் சிங்மிங் (கல்லறை சுத்தம் செய்தல்) நாளில் கல்லறை மேட்டின் மீது அழுத்தி வைக்கப்பட்ட வண்ணக் காகிதங்கள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "सरवाक के एक घासदार कब्रिस्तान में शिलालेखों और वेदियों के साथ टाइलदार ओमेगा-आकार की चीनी कब्रों की पंक्तियाँ",
+        "subject": "सरवाक के कुचिंग के पास एक चीनी कब्रिस्तान में टाइलदार घोड़े की नाल के आकार की चीनी कब्रें"
+      },
+      {
+        "alt": "Qingming कब्र-सफ़ाई उत्सव के दौरान एक शिलालेख के पास घासदार कब्र के टीले पर बिछाई गई रंगीन कागज़ की पट्टियाँ",
+        "subject": "बुकित ब्राउन कब्रिस्तान में Qingming (कब्र-सफ़ाई) के दौरान एक कब्र के टीले पर दबाए गए रंगीन कागज़"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "صفوف من القبور الصينية المبلّطة على شكل حرف أوميغا مع شواهد ومذابح في مقبرة عشبية في Sarawak",
+        "subject": "قبور صينية مبلّطة على شكل حدوة حصان في مقبرة صينية قرب Kuching، Sarawak"
+      },
+      {
+        "alt": "شرائط من الورق الملوّن موضوعة فوق كومة قبر عشبية بجانب شاهد خلال مهرجان Qingming لكنس القبور",
+        "subject": "أوراق ملوّنة مثبّتة على كومة قبر خلال Qingming (كنس القبور) في مقبرة Bukit Brown"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Hileras de tumbas chinas en forma de omega, revestidas de azulejos, con lápidas y altares en un cementerio con césped en Sarawak",
+        "subject": "Tumbas chinas en forma de herradura, revestidas de azulejos, en un cementerio chino cerca de Kuching, Sarawak"
+      },
+      {
+        "alt": "Tiras de papel de colores colocadas sobre un túmulo con césped junto a una lápida durante la festividad de barrido de tumbas Qingming",
+        "subject": "Papeles de colores sujetos sobre un túmulo durante el Qingming (barrido de tumbas) en el cementerio de Bukit Brown"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des rangées de tombes chinoises carrelées en forme d'oméga, avec stèles et autels, dans un cimetière herbeux au Sarawak",
+        "subject": "Tombes chinoises carrelées en forme de fer à cheval dans un cimetière chinois près de Kuching, Sarawak"
+      },
+      {
+        "alt": "Des bandes de papier coloré déposées sur un tertre funéraire herbeux à côté d'une stèle pendant la fête du balayage des tombes Qingming",
+        "subject": "Papiers colorés lestés sur un tertre funéraire pendant Qingming (le balayage des tombes) au cimetière de Bukit Brown"
+      }
+    ]
+  },
+  "arts-culture/chinese-dialects": {
+    "zh": [
+      {
+        "alt": "槟城一座潮州华人宗祠上，绘饰精美的门板画着身披长袍的人物，另有一幅老虎浮雕",
+        "subject": "韩江家庙彩绘门神与老虎浮雕，这是槟城乔治市的潮州方言群庙宇"
+      },
+      {
+        "alt": "乔治市一条幽静街道旁，成排两层高的老旧华人店屋，门窗紧闭，设有带顶盖的五脚基走廊",
+        "subject": "槟城乔治市街头一排带五脚基（骑楼）的老华人店屋"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ペナンの潮州人の祖廟で、長衣をまとった人物を描いた精緻な門扉の絵と虎の浮き彫り",
+        "subject": "韓江家廟の彩色された門神と虎の浮き彫り。ペナン・ジョージタウンの潮州（ティオチュウ）方言グループの寺院"
+      },
+      {
+        "alt": "ジョージタウンの静かな通りに並ぶ、鎧戸の窓とフィフトフットウェイ（屋根付き歩廊）を備えた古い二階建ての華人店屋",
+        "subject": "ペナン・ジョージタウンの通りに並ぶ、フィフトフットウェイを備えた古い華人店屋（ショップハウス）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "페낭의 차오저우(조주) 사당에 긴 옷을 입은 인물을 그린 정교한 문짝 그림과 호랑이 부조가 있다",
+        "subject": "한장가묘(韓江家廟)의 채색 문신(門神)과 호랑이 부조, 페낭 조지타운의 차오저우(潮州) 방언 집단 사당"
+      },
+      {
+        "alt": "조지타운의 한적한 거리를 따라 늘어선, 덧문을 닫은 창과 지붕 덮인 '다섯 발 보도'를 갖춘 낡은 2층 중국식 숍하우스",
+        "subject": "페낭 조지타운 거리에 늘어선 '다섯 발 보도'를 갖춘 오래된 중국식 숍하우스"
+      }
+    ],
+    "th": [
+      {
+        "alt": "บานประตูเขียนลวดลายรูปบุคคลสวมเสื้อคลุมยาวและภาพแกะสลักนูนรูปเสือที่ศาลเจ้าบรรพชนชาวแต้จิ๋วในปีนัง",
+        "subject": "เทพทวารบาลและภาพแกะสลักนูนรูปเสือที่ศาลเจ้าหานเจียง ศาลเจ้าบรรพชนของกลุ่มภาษาแต้จิ๋วในจอร์จทาวน์ รัฐปีนัง"
+      },
+      {
+        "alt": "ช็อปเฮาส์จีนสองชั้นเก่าแก่ผุกร่อนพร้อมหน้าต่างบานเกล็ดปิดและทางเดินมีหลังคาคลุม เรียงรายตามถนนอันเงียบสงบในจอร์จทาวน์",
+        "subject": "แถวช็อปเฮาส์จีนเก่าแก่พร้อมทางเดินมีหลังคาคลุม (five-foot-way) บนถนนในจอร์จทาวน์ รัฐปีนัง"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Panel pintu bergambar indah bersama figura berjubah dan ukiran timbul harimau di sebuah tokong leluhur Cina Teochew di Pulau Pinang",
+        "subject": "Dewa pintu bergambar dan ukiran timbul harimau di Tokong Leluhur Han Jiang, tokong kumpulan dialek Teochew di George Town, Pulau Pinang"
+      },
+      {
+        "alt": "Rumah kedai Cina dua tingkat yang usang dengan tingkap berbidai dan laluan kaki lima beratap menganjur sepanjang sebuah jalan yang sunyi di George Town",
+        "subject": "Sebaris rumah kedai Cina lama dengan laluan kaki lima di sebuah jalan di George Town, Pulau Pinang"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Panel pintu berlukis indah dengan figur berjubah dan relief harimau di sebuah kelenteng leluhur Tionghoa Tiochiu di Penang",
+        "subject": "Dewa pintu berlukis dan relief harimau di Kelenteng Leluhur Han Jiang, kelenteng kelompok dialek Tiochiu di George Town, Penang"
+      },
+      {
+        "alt": "Ruko Tionghoa dua lantai yang usang dengan jendela berdaun dan trotoar kaki lima beratap memanjang di sepanjang jalan yang sepi di George Town",
+        "subject": "Sederet ruko Tionghoa tua dengan trotoar kaki lima di sebuah jalan di George Town, Penang"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những tấm cửa vẽ tinh xảo hình các nhân vật mặc áo choàng và phù điêu hổ tại một đền thờ tổ tiên người Hoa Triều Châu ở Penang",
+        "subject": "Thần giữ cửa được vẽ và phù điêu hổ tại Đền thờ Tổ tiên Han Jiang, ngôi đền của nhóm phương ngữ Triều Châu ở George Town, Penang"
+      },
+      {
+        "alt": "Những căn nhà phố người Hoa hai tầng cũ kỹ với cửa sổ lá sách và lối đi năm thước có mái che kéo dài dọc một con phố yên tĩnh ở George Town",
+        "subject": "Một dãy nhà phố cổ của người Hoa với lối đi năm thước trên một con phố ở George Town, Penang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பினாங்கில் ஒரு தியோச்சியூ சீன மூதாதையர் கோயிலில் அங்கி அணிந்த உருவங்கள் தீட்டப்பட்ட கதவுத் தட்டிகளும் புலி புடைப்புச் சிற்பமும்",
+        "subject": "பினாங்கு ஜார்ஜ் டவுனில் தியோச்சியூ கிளைமொழிக் குழு கோயிலான ஹான் ஜியாங் மூதாதையர் கோயிலில் தீட்டப்பட்ட கதவுக் காவல் தெய்வங்களும் புலி புடைப்புச் சிற்பமும்"
+      },
+      {
+        "alt": "ஜார்ஜ் டவுனின் அமைதியான தெரு ஒன்றின் ஓரத்தில், மூடிய ஜன்னல்களும் கூரையிட்ட ஐந்தடி நடைபாதைகளும் கொண்ட பழைய இருமாடிச் சீனக் கடை-வீடுகள்",
+        "subject": "பினாங்கு ஜார்ஜ் டவுனில் ஒரு தெருவில் ஐந்தடி நடைபாதைகளுடன் கூடிய பழைய சீனக் கடை-வீடுகளின் வரிசை"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "पेनांग के एक टियोचिऊ चीनी पैतृक मंदिर में वस्त्रधारी आकृतियों के अलंकृत चित्रित द्वार-पट और बाघ की उभरी कलाकृति",
+        "subject": "पेनांग के जॉर्ज टाउन में टियोचिऊ बोली-समूह के हान जियांग पैतृक मंदिर में चित्रित द्वारपाल और बाघ की उभरी कलाकृति"
+      },
+      {
+        "alt": "जॉर्ज टाउन की एक शांत सड़क के किनारे खिड़की-बंद झरोखों और ढके पाँच-फुट मार्गों वाले जर्जर दो-मंज़िला चीनी शॉपहाउस",
+        "subject": "पेनांग के जॉर्ज टाउन की एक सड़क पर पाँच-फुट-मार्ग वाले पुराने चीनी शॉपहाउसों की एक पंक्ति"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "ألواح أبواب مرسومة بزخرفة لشخصيات بأردية ونقش نمر بارز في معبد صيني للأسلاف من Teochew في Penang",
+        "subject": "آلهة أبواب مرسومة ونقش نمر بارز في معبد Han Jiang للأسلاف، معبد مجموعة لهجة Teochew في George Town، Penang"
+      },
+      {
+        "alt": "مبانٍ تجارية سكنية صينية من طابقين عليها آثار القِدم، بنوافذ ذات مصاريع وممرات مغطّاة بعرض خمسة أقدام، تصطف على طول شارع هادئ في George Town",
+        "subject": "صف من المباني التجارية السكنية الصينية القديمة (shophouses) ذات ممرات الأقدام الخمسة في شارع بـ George Town، Penang"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Paneles de puerta pintados con esmero, con figuras ataviadas con túnicas, y un relieve de tigre en un templo ancestral chino teochew en Penang",
+        "subject": "Dioses guardianes de las puertas pintados y un relieve de tigre en el templo ancestral Han Jiang, el templo del grupo dialectal teochew en George Town, Penang"
+      },
+      {
+        "alt": "Casas-tienda chinas de dos plantas desgastadas por el tiempo, con ventanas de contraventanas y soportales cubiertos de cinco pies, a lo largo de una tranquila calle de George Town",
+        "subject": "Una hilera de antiguas casas-tienda chinas con soportales de cinco pies (five-foot-ways) en una calle de George Town, Penang"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Panneaux de porte peints avec raffinement représentant des personnages en robe et un relief de tigre dans un temple ancestral chinois teochew à Penang",
+        "subject": "Dieux gardiens des portes peints et relief de tigre au temple ancestral Han Jiang, le temple du groupe dialectal teochew à George Town, Penang"
+      },
+      {
+        "alt": "Des maisons-boutiques chinoises de deux étages patinées par le temps, aux fenêtres à volets et aux galeries couvertes de cinq pieds, bordant une rue tranquille de George Town",
+        "subject": "Une rangée d'anciennes maisons-boutiques chinoises à galeries de cinq pieds (five-foot-ways) dans une rue de George Town, Penang"
+      }
+    ]
+  },
+  "arts-culture/chinese-language-press": {
+    "zh": [
+      {
+        "alt": "槟城华文日报《光华日报》早期的头版，以中文与英文标题刊印，与其他陈旧华文报页陈列在一起",
+        "subject": "马来西亚历史最悠久的华文日报《光华日报》头版（槟城）"
+      },
+      {
+        "alt": "新山一处《南洋商报》办事处，店面上方以绿色中文字与罗马字母标示报名",
+        "subject": "挂有报头招牌的《南洋商报》办事处，新山"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ペナンの華語日刊紙『光華日報』の初期の一面。中国語と英語の見出しが付され、ほかの古い華字新聞の紙面とともに並べられている",
+        "subject": "マレーシア最古の華語日刊紙『光華日報』の一面（ペナン）"
+      },
+      {
+        "alt": "ジョホールバルの『南洋商報』事務所。店先の上部に、緑色の漢字とローマ字で新聞名が掲げられている",
+        "subject": "題字看板を掲げた『南洋商報』の事務所、ジョホールバル"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "페낭의 중국어 일간지 《광화일보》의 초기 1면으로, 중국어와 영어 제호가 실려 다른 오래된 중국어 신문 지면들과 함께 놓여 있다",
+        "subject": "말레이시아에서 가장 오래된 중국어 일간지 《광화일보》 1면(페낭)"
+      },
+      {
+        "alt": "조호르바루의 《남양상보》 사무소로, 점포 상단에 녹색 한자와 로마자로 신문 이름이 걸려 있다",
+        "subject": "제호 간판을 내건 《남양상보》 사무소, 조호르바루"
+      }
+    ],
+    "th": [
+      {
+        "alt": "หน้าหนึ่งยุคแรกของหนังสือพิมพ์จีนกวงหัวยิตเปา ในปีนัง พาดหัวด้วยตัวอักษรจีนและอังกฤษ วางอยู่ท่ามกลางหน้าหนังสือพิมพ์จีนเก่าอื่น ๆ",
+        "subject": "หน้าหนึ่งของกวงหัวยิตเปา หนังสือพิมพ์รายวันภาษาจีนที่เก่าแก่ที่สุดของมาเลเซีย (ปีนัง)"
+      },
+      {
+        "alt": "สำนักงานหนังสือพิมพ์หนานหยางเซียงเปาในเมืองยะโฮร์บาห์รู มีชื่อหนังสือพิมพ์เป็นตัวอักษรจีนสีเขียวและอักษรโรมันเหนือหน้าร้าน",
+        "subject": "สำนักงานหนังสือพิมพ์หนานหยางเซียงเปาพร้อมป้ายชื่อหัวหนังสือพิมพ์ เมืองยะโฮร์บาห์รู"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Muka depan awal akhbar harian Cina Pulau Pinang Kwong Wah Yit Poh, berkepala dalam aksara Cina dan Inggeris, tersusun antara halaman akhbar Cina lama yang lain.",
+        "subject": "Muka depan Kwong Wah Yit Poh, akhbar harian berbahasa Cina tertua di Malaysia (Pulau Pinang)"
+      },
+      {
+        "alt": "Pejabat Nanyang Siang Pau di Johor Bahru, dengan fasadnya membawa nama akhbar itu dalam aksara Cina hijau dan huruf Rumi di atas sebuah kedai.",
+        "subject": "Pejabat akhbar Nanyang Siang Pau dengan papan tanda kepala akhbar, Johor Bahru"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Halaman depan awal koran harian Tionghoa Penang Kwong Wah Yit Poh, berjudul dalam aksara Tionghoa dan Inggris, tersusun di antara halaman koran Tionghoa lawas lainnya.",
+        "subject": "Halaman depan Kwong Wah Yit Poh, surat kabar harian berbahasa Tionghoa tertua di Malaysia (Penang)"
+      },
+      {
+        "alt": "Kantor Nanyang Siang Pau di Johor Bahru, fasadnya memuat nama surat kabar itu dalam aksara Tionghoa hijau dan huruf Latin di atas sebuah toko.",
+        "subject": "Kantor surat kabar Nanyang Siang Pau dengan papan nama kepala koran, Johor Bahru"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Trang nhất thời kỳ đầu của nhật báo tiếng Hoa Penang Kwong Wah Yit Poh, tiêu đề bằng chữ Hán và tiếng Anh, xếp giữa những trang báo tiếng Hoa cũ khác.",
+        "subject": "Trang nhất của Kwong Wah Yit Poh, nhật báo tiếng Hoa lâu đời nhất Malaysia (Penang)"
+      },
+      {
+        "alt": "Văn phòng Nanyang Siang Pau ở Johor Bahru, mặt tiền mang tên tờ báo bằng chữ Hán màu xanh lá và chữ La-tinh phía trên một cửa hàng.",
+        "subject": "Văn phòng báo Nanyang Siang Pau với bảng hiệu tiêu đề báo, Johor Bahru"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "சீன எழுத்துக்களிலும் ஆங்கிலத்திலும் தலைப்பிடப்பட்ட, பினாங்கு சீன நாளிதழ் குவாங் வா யிட் போவின் ஆரம்பகால முதல் பக்கம், மற்ற பழைய சீன நாளிதழ் பக்கங்களுக்கு இடையே அடுக்கப்பட்டுள்ளது.",
+        "subject": "குவாங் வா யிட் போ, மலேசியாவின் மிகப் பழமையான சீன மொழி நாளிதழின் (பினாங்கு) முதல் பக்கம்"
+      },
+      {
+        "alt": "ஜொகூர் பாருவில் நான்யாங் சியாங் பாவ் அலுவலகம், அதன் முகப்பு ஒரு கடைக்கு மேலே நாளிதழின் பெயரை பச்சை நிற சீன எழுத்துக்களிலும் ரோமன் எழுத்துக்களிலும் தாங்கியுள்ளது.",
+        "subject": "நாளிதழ் தலைப்புப் பலகையுடன் நான்யாங் சியாங் பாவ் நாளிதழ் அலுவலகம், ஜொகூர் பாரு"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "पेनांग के चीनी दैनिक Kwong Wah Yit Poh का एक आरंभिक मुखपृष्ठ, जिसका शीर्षक चीनी अक्षरों और अंग्रेज़ी में है, अन्य पुराने चीनी समाचारपत्र पृष्ठों के बीच रखा हुआ।",
+        "subject": "Kwong Wah Yit Poh का मुखपृष्ठ, मलेशिया का सबसे पुराना चीनी-भाषा दैनिक (पेनांग)"
+      },
+      {
+        "alt": "जोहोर बाहरू में एक Nanyang Siang Pau कार्यालय, जिसके अग्रभाग पर एक दुकान के ऊपर हरे चीनी अक्षरों और रोमन अक्षरों में समाचारपत्र का नाम अंकित है।",
+        "subject": "मास्टहेड साइनबोर्ड के साथ Nanyang Siang Pau समाचारपत्र कार्यालय, जोहोर बाहरू"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "صفحة أولى مبكرة من الصحيفة الصينية Kwong Wah Yit Poh الصادرة في Penang، بعنوان بالحروف الصينية والإنجليزية، موضوعة بين صفحات صحف صينية قديمة أخرى.",
+        "subject": "الصفحة الأولى من Kwong Wah Yit Poh، أقدم صحيفة يومية باللغة الصينية في ماليزيا (Penang)"
+      },
+      {
+        "alt": "مكتب لصحيفة Nanyang Siang Pau في Johor Bahru، تحمل واجهته اسم الصحيفة بحروف صينية خضراء وحروف لاتينية فوق واجهة متجر.",
+        "subject": "مكتب صحيفة Nanyang Siang Pau بلافتة اسمها، Johor Bahru"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una de las primeras portadas del diario chino de Penang Kwong Wah Yit Poh, encabezada con caracteres chinos e inglés, dispuesta entre otras páginas antiguas de periódicos chinos.",
+        "subject": "Portada de Kwong Wah Yit Poh, el diario en lengua china más antiguo de Malasia (Penang)"
+      },
+      {
+        "alt": "Una oficina de Nanyang Siang Pau en Johor Bahru, cuya fachada luce el nombre del periódico en caracteres chinos verdes y letras latinas sobre un local comercial.",
+        "subject": "Oficina del periódico Nanyang Siang Pau con el rótulo de su cabecera, Johor Bahru"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une des premières unes du quotidien chinois de Penang Kwong Wah Yit Poh, titrée en caractères chinois et en anglais, disposée parmi d'autres pages de journaux chinois anciens.",
+        "subject": "Une de Kwong Wah Yit Poh, le plus ancien quotidien en langue chinoise de Malaisie (Penang)"
+      },
+      {
+        "alt": "Un bureau de Nanyang Siang Pau à Johor Bahru, dont la façade porte le nom du journal en caractères chinois verts et en lettres latines au-dessus d'une devanture.",
+        "subject": "Les bureaux du journal Nanyang Siang Pau avec l'enseigne de sa manchette, Johor Bahru"
+      }
+    ]
+  },
+  "arts-culture/chinese-new-villages": {
+    "zh": [
+      {
+        "alt": "新村布罗加（Broga）的入口牌楼，标示着进村的方向，背后是群山",
+        "subject": "森美兰州布罗加新村的入口牌楼"
+      },
+      {
+        "alt": "八打灵再也斯里实达（Seri Setia）新村的一个街角，有一幅彩绘壁画和红色的农历新年灯笼与装饰",
+        "subject": "雪兰莪八打灵再也斯里实达新村的壁画与农历新年装饰"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "華人新村ブロガへ至る道を示す装飾的な入口の牌楼（アーチ）。背後に丘陵が広がる",
+        "subject": "ブロガ新村の入口の牌楼、ヌグリ・スンビラン州"
+      },
+      {
+        "alt": "プタリン・ジャヤのスリ・スティア新村の街角。壁画と赤い旧正月の提灯や飾り付けが見られる",
+        "subject": "スリ・スティア新村の壁画と旧正月の飾り付け、スランゴール州プタリン・ジャヤ"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "중국계 신촌 브로가로 들어가는 길을 표시한 장식 입구 패루(아치), 뒤로 구릉이 펼쳐진다",
+        "subject": "브로가 신촌 입구의 패루, 느그리슴빌란주"
+      },
+      {
+        "alt": "프탈링자야 스리스티아 신촌의 길모퉁이에 벽화와 붉은 설 등불과 장식이 있다",
+        "subject": "스리스티아 신촌의 벽화와 설 장식, 슬랑오르주 프탈링자야"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ซุ้มประตูทางเข้าประดับตกแต่งบอกทางเข้าหมู่บ้านใหม่ชาวจีนโบรกา โดยมีเนินเขาอยู่เบื้องหลัง",
+        "subject": "ซุ้มประตูทางเข้าหมู่บ้านใหม่โบรกา รัฐเนอเกอรีเซิมบีลัน"
+      },
+      {
+        "alt": "มุมถนนในหมู่บ้านใหม่เซอรีเซอเตียในเปอตาลิงจายา มีภาพจิตรกรรมฝาผนังและโคมแดงพร้อมเครื่องประดับตรุษจีน",
+        "subject": "ภาพจิตรกรรมฝาผนังและเครื่องประดับตรุษจีนในหมู่บ้านใหม่เซอรีเซอเตีย เปอตาลิงจายา รัฐสลังงอร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Gerbang pintu masuk berhias yang menandakan jalan masuk ke Broga, sebuah kampung baru Cina di Negeri Sembilan, dengan bukit di belakangnya.",
+        "subject": "Gerbang pintu masuk Kampung Baru Broga, Negeri Sembilan"
+      },
+      {
+        "alt": "Sebuah simpang jalan di Kampung Baru Seri Setia, Petaling Jaya, dengan mural dinding bercat serta tanglung dan hiasan Tahun Baru Cina berwarna merah.",
+        "subject": "Mural dinding dan hiasan Tahun Baru Cina di Kampung Baru Seri Setia, Petaling Jaya, Selangor"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Gerbang masuk berhias yang menandai jalan masuk ke Broga, sebuah desa baru Tionghoa di Negeri Sembilan, dengan perbukitan di belakangnya.",
+        "subject": "Gerbang masuk Desa Baru Broga, Negeri Sembilan"
+      },
+      {
+        "alt": "Sebuah sudut jalan di Desa Baru Seri Setia, Petaling Jaya, dengan mural dinding bercat serta lampion dan hiasan Tahun Baru Imlek berwarna merah.",
+        "subject": "Mural dinding dan hiasan Tahun Baru Imlek di Desa Baru Seri Setia, Petaling Jaya, Selangor"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Cổng vào trang trí đánh dấu lối vào Broga, một làng mới của người Hoa ở Negeri Sembilan, với đồi núi phía sau.",
+        "subject": "Cổng vào Làng mới Broga, Negeri Sembilan"
+      },
+      {
+        "alt": "Một góc phố ở Làng mới Seri Setia, Petaling Jaya, với bức bích họa trên tường và những chiếc đèn lồng đỏ cùng đồ trang trí Tết Nguyên đán.",
+        "subject": "Bích họa tường và đồ trang trí Tết Nguyên đán ở Làng mới Seri Setia, Petaling Jaya, Selangor"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "நெகிரி செம்பிலானில் உள்ள புரோகா எனும் சீனப் புதுக் கிராமத்திற்குள் செல்லும் வழியைக் குறிக்கும் அலங்கார நுழைவு வளைவு, பின்னணியில் மலைகளுடன்.",
+        "subject": "நெகிரி செம்பிலான், புரோகா புதுக் கிராமத்தின் நுழைவு வளைவு"
+      },
+      {
+        "alt": "பெட்டாலிங் ஜெயாவில் உள்ள செரி செத்தியா புதுக் கிராமத்தின் ஒரு தெரு முனை, சுவரோவியத்துடனும் சிவப்பு சீனப் புத்தாண்டு விளக்குகள் மற்றும் அலங்காரங்களுடனும்.",
+        "subject": "சிலாங்கூர், பெட்டாலிங் ஜெயா, செரி செத்தியா புதுக் கிராமத்தில் சுவரோவியமும் சீனப் புத்தாண்டு அலங்காரங்களும்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "नेगेरी सेम्बिलान के एक चीनी नए गाँव ब्रोगा में प्रवेश का मार्ग दर्शाता अलंकृत प्रवेश तोरण, पीछे पहाड़ियाँ।",
+        "subject": "ब्रोगा नया गाँव का प्रवेश तोरण, नेगेरी सेम्बिलान"
+      },
+      {
+        "alt": "पेटालिंग जाया के सेरी सेतिया नए गाँव का एक गली का कोना, जहाँ एक चित्रित भित्तिचित्र और लाल चीनी नववर्ष के लालटेन व सजावट हैं।",
+        "subject": "सेरी सेतिया नया गाँव में भित्तिचित्र और चीनी नववर्ष की सजावट, पेटालिंग जाया, सेलांगोर"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "بوابة مدخل مزخرفة تحدّد الطريق إلى Broga، وهي قرية صينية جديدة في Negeri Sembilan، وخلفها تلال.",
+        "subject": "بوابة مدخل قرية Broga الجديدة، Negeri Sembilan"
+      },
+      {
+        "alt": "زاوية شارع في قرية Seri Setia الجديدة، Petaling Jaya، مع جدارية مرسومة وفوانيس وزينة حمراء لرأس السنة الصينية.",
+        "subject": "جدارية وزينة رأس السنة الصينية في قرية Seri Setia الجديدة، Petaling Jaya، Selangor"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El ornamentado arco de entrada que señala el acceso a Broga, una aldea nueva china en Negeri Sembilan, con colinas al fondo.",
+        "subject": "Arco de entrada de la aldea nueva de Broga, Negeri Sembilan"
+      },
+      {
+        "alt": "Una esquina de la aldea nueva de Seri Setia, en Petaling Jaya, con un mural pintado y farolillos y adornos rojos de Año Nuevo chino.",
+        "subject": "Mural y decoraciones de Año Nuevo chino en la aldea nueva de Seri Setia, Petaling Jaya, Selangor"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "L'arche d'entrée ornementale marquant l'accès à Broga, un nouveau village chinois du Negeri Sembilan, avec des collines en arrière-plan.",
+        "subject": "Arche d'entrée du nouveau village de Broga, Negeri Sembilan"
+      },
+      {
+        "alt": "Un coin de rue du nouveau village de Seri Setia, à Petaling Jaya, avec une fresque peinte et des lanternes et décorations rouges du Nouvel An chinois.",
+        "subject": "Fresque murale et décorations du Nouvel An chinois au nouveau village de Seri Setia, Petaling Jaya, Selangor"
+      }
+    ]
+  },
+  "arts-culture/chinese-religion-in-malaysia": {
+    "zh": [
+      {
+        "alt": "新山柔佛古庙华丽的立面，入口处有龙形屋脊雕塑、陶瓷浮雕与红灯笼",
+        "subject": "柔佛古庙，一座华人民间信仰庙宇"
+      },
+      {
+        "alt": "槟城乔治市观音亭前，一簇簇点燃的香冒出缕缕青烟，这是一座历史悠久的华人礼拜场所",
+        "subject": "槟城乔治市观音亭（广福宫）里燃烧的香"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ジョホールバル古廟の華麗な正面。龍の屋根飾り、陶製の浮き彫り、入口の赤い提灯が見える",
+        "subject": "ジョホールバル古廟、華人の民間信仰の寺院"
+      },
+      {
+        "alt": "ペナン・ジョージタウンの観音亭の前で、束になった線香が煙を立ち上らせる。古くから続く華人の礼拝所である",
+        "subject": "ペナン・ジョージタウンの観音亭で焚かれる線香"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "조호르바루 고묘(古廟)의 화려한 정면으로, 입구에 용 모양 지붕 조각과 도자기 부조, 붉은 등불이 있다",
+        "subject": "조호르바루 고묘, 중국 민간신앙 사원"
+      },
+      {
+        "alt": "페낭 조지타운 관음정 앞에서 다발로 피운 향이 연기를 피워 올린다. 오랜 역사를 지닌 중국인 예배처이다",
+        "subject": "페낭 조지타운 관음정(광복궁)에서 피우는 향"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ด้านหน้าอันวิจิตรของศาลเจ้าจีนเก่ายะโฮร์บาห์รู ประดับประติมากรรมมังกรบนหลังคา ภาพปูนปั้นดินเผา และโคมแดงที่ทางเข้า",
+        "subject": "ศาลเจ้าจีนเก่ายะโฮร์บาห์รู ศาลเจ้าความเชื่อพื้นบ้านของชาวจีน"
+      },
+      {
+        "alt": "ธูปที่จุดไว้เป็นกลุ่มส่งควันลอยขึ้นเบื้องหน้าศาลเจ้าแม่กวนอิมในจอร์จทาวน์ รัฐปีนัง สถานที่สักการะของชาวจีนที่มีมายาวนาน",
+        "subject": "ธูปที่จุดเผาที่ศาลเจ้าแม่กวนอิม จอร์จทาวน์ รัฐปีนัง"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Fasad indah Tokong Lama Cina Johor Bahru, dengan arca naga di bumbung, relief seramik dan tanglung merah di pintu masuk.",
+        "subject": "Tokong Lama Cina Johor Bahru, sebuah tokong agama rakyat Cina"
+      },
+      {
+        "alt": "Gugusan colok yang menyala mengepulkan asap di hadapan Tokong Dewi Kuan Yin di George Town, Pulau Pinang, sebuah rumah ibadat Cina yang lama tertegak.",
+        "subject": "Colok yang terbakar di Tokong Dewi Kuan Yin, George Town, Pulau Pinang"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Fasad indah Kelenteng Tua Tionghoa Johor Bahru, dengan patung naga di atap, relief keramik, dan lampion merah di pintu masuk.",
+        "subject": "Kelenteng Tua Tionghoa Johor Bahru, sebuah kelenteng agama rakyat Tionghoa"
+      },
+      {
+        "alt": "Rumpun hio yang menyala mengepulkan asap di depan Kelenteng Dewi Kwan Im di George Town, Penang, sebuah rumah ibadah Tionghoa yang telah lama berdiri.",
+        "subject": "Hio yang terbakar di Kelenteng Dewi Kwan Im, George Town, Penang"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Mặt tiền lộng lẫy của Đền cổ người Hoa Johor Bahru, với tượng rồng trên mái, phù điêu gốm sứ và đèn lồng đỏ ở lối vào.",
+        "subject": "Đền cổ người Hoa Johor Bahru, một ngôi đền tín ngưỡng dân gian người Hoa"
+      },
+      {
+        "alt": "Những bó nhang đang cháy nghi ngút khói trước Đền Quán Âm ở George Town, Penang, một nơi thờ tự lâu đời của người Hoa.",
+        "subject": "Nhang đang cháy tại Đền Quán Âm, George Town, Penang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஜொகூர் பாரு பழைய சீனக் கோயிலின் அலங்கார முகப்பு, கூரையில் டிராகன் சிற்பங்கள், மட்பாண்ட புடைப்புச் சிற்பங்கள் மற்றும் நுழைவாயிலில் சிவப்பு விளக்குகளுடன்.",
+        "subject": "ஜொகூர் பாரு பழைய சீனக் கோயில், ஒரு சீன நாட்டார் சமயக் கோயில்"
+      },
+      {
+        "alt": "பினாங்கு ஜார்ஜ் டவுனில் நெடுங்காலமாக நிலைத்திருக்கும் ஒரு சீன வழிபாட்டுத் தலமான குவான் யின் தேவி கோயிலுக்கு முன்னால் புகை எழுப்பும் எரியும் ஊதுபத்திக் கொத்துகள்.",
+        "subject": "பினாங்கு ஜார்ஜ் டவுன், குவான் யின் தேவி கோயிலில் எரியும் ஊதுபத்திகள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "जोहोर बाहरू पुराने चीनी मंदिर का अलंकृत अग्रभाग, जिसमें छत पर ड्रैगन की मूर्तियाँ, चीनी-मिट्टी की उभरी कलाकृतियाँ और प्रवेश पर लाल लालटेन हैं।",
+        "subject": "जोहोर बाहरू पुराना चीनी मंदिर, एक चीनी लोक-धर्म मंदिर"
+      },
+      {
+        "alt": "पेनांग के जॉर्ज टाउन में करुणा-देवी मंदिर के सामने धुआँ उठाती जलती अगरबत्तियों के गुच्छे, एक लंबे समय से स्थापित चीनी पूजा-स्थल।",
+        "subject": "पेनांग के जॉर्ज टाउन में करुणा-देवी मंदिर (Goddess of Mercy Temple) में जलती अगरबत्तियाँ"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "الواجهة المزخرفة للمعبد الصيني القديم في Johor Bahru، بتماثيل تنانين على السقف ونقوش خزفية وفوانيس حمراء عند المدخل.",
+        "subject": "المعبد الصيني القديم في Johor Bahru، معبد للدين الشعبي الصيني"
+      },
+      {
+        "alt": "حُزم من أعواد البخور المشتعلة تتصاعد منها الأدخنة أمام معبد إلهة الرحمة في George Town، Penang، وهو مكان عبادة صيني عريق.",
+        "subject": "أعواد بخور مشتعلة في معبد إلهة الرحمة (Goddess of Mercy Temple)، George Town، Penang"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La ornamentada fachada del Antiguo Templo Chino de Johor Bahru, con esculturas de dragones en el tejado, relieves cerámicos y farolillos rojos en la entrada.",
+        "subject": "El Antiguo Templo Chino de Johor Bahru, un templo de la religión popular china"
+      },
+      {
+        "alt": "Haces de varitas de incienso encendidas que desprenden humo ante el Templo de la Diosa de la Misericordia en George Town, Penang, un lugar de culto chino de larga tradición.",
+        "subject": "Varitas de incienso encendidas en el Templo de la Diosa de la Misericordia, George Town, Penang"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "La façade ornementée de l'Ancien Temple chinois de Johor Bahru, avec des sculptures de dragons sur le toit, des reliefs en céramique et des lanternes rouges à l'entrée.",
+        "subject": "L'Ancien Temple chinois de Johor Bahru, un temple de la religion populaire chinoise"
+      },
+      {
+        "alt": "Des faisceaux de bâtons d'encens allumés dégageant de la fumée devant le temple de la Déesse de la Miséricorde à George Town, Penang, un lieu de culte chinois de longue tradition.",
+        "subject": "Bâtons d'encens allumés au temple de la Déesse de la Miséricorde, George Town, Penang"
+      }
+    ]
+  },
+  "arts-culture/christianity-in-malaysia": {
+    "zh": [
+      {
+        "alt": "白色哥特复兴式的圣玛利亚座堂，一座坐落于吉隆坡独立广场旁的圣公会教堂",
+        "subject": "圣玛利亚圣公会座堂，吉隆坡"
+      },
+      {
+        "alt": "沙巴斗湖现代风格的圣三一天主教堂，代表着东马的基督徒社群",
+        "subject": "圣三一天主教堂，沙巴斗湖"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "クアラルンプールのムルデカ広場の傍らに建つ、白いゴシック・リバイバル様式の聖マリア座堂（聖公会の教会）",
+        "subject": "聖マリア聖公会座堂、クアラルンプール"
+      },
+      {
+        "alt": "サバ州タワウにある現代的な聖三位一体カトリック教会。東マレーシアのキリスト教徒社会を象徴する",
+        "subject": "聖三位一体カトリック教会、サバ州タワウ"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "쿠알라룸푸르 머르데카 광장 옆에 자리한 흰색 고딕 복고 양식의 성 마리아 대성당(성공회 교회)",
+        "subject": "성 마리아 성공회 대성당, 쿠알라룸푸르"
+      },
+      {
+        "alt": "사바주 타와우의 현대식 삼위일체 가톨릭 성당으로, 동말레이시아의 기독교 공동체를 대표한다",
+        "subject": "삼위일체 가톨릭 성당, 사바주 타와우"
+      }
+    ],
+    "th": [
+      {
+        "alt": "มหาวิหารเซนต์แมรีสีขาวสถาปัตยกรรมกอทิกรีไววัล โบสถ์แองกลิกันข้างจัตุรัสเมอร์เดกาในกรุงกัวลาลัมเปอร์",
+        "subject": "มหาวิหารแองกลิกันเซนต์แมรี กรุงกัวลาลัมเปอร์"
+      },
+      {
+        "alt": "โบสถ์คาทอลิกโฮลีทรินิตีสมัยใหม่ในเมืองตาเวา รัฐซาบาห์ แทนชุมชนคริสต์ศาสนิกชนในมาเลเซียตะวันออก",
+        "subject": "โบสถ์คาทอลิกโฮลีทรินิตี เมืองตาเวา รัฐซาบาห์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Katedral St Mary yang putih bergaya Gothic-revival, sebuah gereja Anglican di sisi Dataran Merdeka di Kuala Lumpur.",
+        "subject": "Katedral Anglican St Mary, Kuala Lumpur"
+      },
+      {
+        "alt": "Gereja Katolik Holy Trinity yang moden di Tawau, Sabah, mewakili masyarakat Kristian di Malaysia Timur.",
+        "subject": "Gereja Katolik Holy Trinity, Tawau, Sabah"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Katedral St Mary yang putih bergaya Gothic-revival, sebuah gereja Anglikan di samping Dataran Merdeka di Kuala Lumpur.",
+        "subject": "Katedral Anglikan St Mary, Kuala Lumpur"
+      },
+      {
+        "alt": "Gereja Katolik Holy Trinity yang modern di Tawau, Sabah, mewakili masyarakat Kristiani di Malaysia Timur.",
+        "subject": "Gereja Katolik Holy Trinity, Tawau, Sabah"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Nhà thờ chính tòa St Mary màu trắng theo phong cách Tân Gothic, một nhà thờ Anh giáo bên cạnh Quảng trường Merdeka ở Kuala Lumpur.",
+        "subject": "Nhà thờ chính tòa Anh giáo St Mary, Kuala Lumpur"
+      },
+      {
+        "alt": "Nhà thờ Công giáo Holy Trinity hiện đại ở Tawau, Sabah, đại diện cho các cộng đồng Kitô giáo ở Đông Malaysia.",
+        "subject": "Nhà thờ Công giáo Holy Trinity, Tawau, Sabah"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கோலாலம்பூரில் மெர்டேகா சதுக்கத்திற்கு அருகில் உள்ள ஒரு ஆங்கிலிக்கன் தேவாலயமான, வெண்மையான கோதிக்-மறுமலர்ச்சி பாணி செயிண்ட் மேரி பேராலயம்.",
+        "subject": "செயிண்ட் மேரி ஆங்கிலிக்கன் பேராலயம், கோலாலம்பூர்"
+      },
+      {
+        "alt": "சபா, தவாவில் உள்ள நவீன ஹோலி டிரினிட்டி கத்தோலிக்க தேவாலயம், கிழக்கு மலேசியாவின் கிறிஸ்தவ சமூகங்களைப் பிரதிநிதித்துவப்படுத்துகிறது.",
+        "subject": "ஹோலி டிரினிட்டி கத்தோலிக்க தேவாலயம், சபா, தவாவ்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कुआलालंपुर में मर्डेका चौक के पास सफ़ेद गॉथिक-रिवाइवल सेंट मैरी कैथेड्रल, एक एंग्लिकन गिरजाघर।",
+        "subject": "सेंट मैरी एंग्लिकन कैथेड्रल, कुआलालंपुर"
+      },
+      {
+        "alt": "सबा के तावाउ में आधुनिक होली ट्रिनिटी कैथोलिक चर्च, जो पूर्वी मलेशिया के ईसाई समुदायों का प्रतिनिधित्व करता है।",
+        "subject": "होली ट्रिनिटी कैथोलिक चर्च, तावाउ, सबा"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "كاتدرائية القديسة مريم البيضاء بطراز القوطية الجديدة، وهي كنيسة أنغليكانية بجوار ميدان Merdeka في Kuala Lumpur.",
+        "subject": "كاتدرائية القديسة مريم الأنغليكانية، Kuala Lumpur"
+      },
+      {
+        "alt": "كنيسة الثالوث الأقدس الكاثوليكية الحديثة في Tawau، Sabah، التي تمثّل المجتمعات المسيحية في ماليزيا الشرقية.",
+        "subject": "كنيسة الثالوث الأقدس الكاثوليكية، Tawau، Sabah"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La catedral de Santa María, blanca y de estilo neogótico, una iglesia anglicana junto a la plaza Merdeka en Kuala Lumpur.",
+        "subject": "Catedral anglicana de Santa María, Kuala Lumpur"
+      },
+      {
+        "alt": "La moderna iglesia católica de la Santísima Trinidad en Tawau, Sabah, que representa a las comunidades cristianas de Malasia Oriental.",
+        "subject": "Iglesia católica de la Santísima Trinidad, Tawau, Sabah"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "La cathédrale Sainte-Marie, blanche et de style néogothique, une église anglicane proche de la place Merdeka à Kuala Lumpur.",
+        "subject": "Cathédrale anglicane Sainte-Marie, Kuala Lumpur"
+      },
+      {
+        "alt": "La moderne église catholique de la Sainte-Trinité à Tawau, Sabah, représentant les communautés chrétiennes de Malaisie orientale.",
+        "subject": "Église catholique de la Sainte-Trinité, Tawau, Sabah"
+      }
+    ]
+  },
+  "arts-culture/estate-tamil-community": {
+    "zh": [
+      {
+        "alt": "1946 年马六甲一座园丘里，一名工人正从橡胶树上割取胶汁，令人联想到塑造了马来西亚园丘社群的种植园劳动",
+        "subject": "马六甲橡胶园里的割胶作业（1946 年）"
+      },
+      {
+        "alt": "新山印度文化遗产中心的一处博物馆展览，题为「早期职业：割胶」，陈列着身披纱丽的人像、胶汁桶，以及配有泰米尔文说明的历史园丘照片",
+        "subject": "新山印度文化遗产中心「早期职业：割胶」展览，呈现泰米尔裔马来西亚人的园丘文化遗产"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "1946年、マラッカの農園でゴムの木から樹液を採取する労働者。マレーシアの農園社会を形づくったプランテーション労働を想起させる",
+        "subject": "マラッカのゴム農園でのゴム採取（1946年）"
+      },
+      {
+        "alt": "ジョホールバルのインド文化遺産センターの博物館展示「初期の職業：ゴム採取」。サリーをまとった人形、樹液の採取桶、タミル語の説明が付された歴史的な農園の写真が並ぶ",
+        "subject": "タミル系マレーシア人の農園遺産を扱う「初期の職業：ゴム採取」展、ジョホールバルのインド文化遺産センター"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "1946년 믈라카의 한 농원에서 노동자가 고무나무에서 수액을 채취하고 있다. 말레이시아 농원 공동체를 형성한 플랜테이션 노동을 떠올리게 한다",
+        "subject": "믈라카 고무 농원의 고무 채취 작업(1946년)"
+      },
+      {
+        "alt": "조호르바루 인도 문화유산 센터의 '초기 직업: 고무 채취' 전시로, 사리를 입은 인물상, 수액 통, 타밀어 설명이 달린 옛 농원 사진이 전시되어 있다",
+        "subject": "타밀계 말레이시아인의 농원 유산을 다룬 '초기 직업: 고무 채취' 전시, 조호르바루 인도 문화유산 센터"
+      }
+    ],
+    "th": [
+      {
+        "alt": "คนงานกรีดน้ำยางจากต้นยางพาราในสวนยางที่มะละกาในปี 1946 ชวนให้นึกถึงแรงงานในไร่ที่หล่อหลอมชุมชนไร่ของมาเลเซีย",
+        "subject": "การกรีดยางในสวนยางพาราที่มะละกา (ปี 1946)"
+      },
+      {
+        "alt": "นิทรรศการในพิพิธภัณฑ์ที่ศูนย์มรดกอินเดียในยะโฮร์บาห์รู ชื่อ 'อาชีพยุคแรก: การกรีดยาง' มีหุ่นสวมผ้าส่าหรี ถังน้ำยาง และภาพถ่ายสวนยางในอดีตพร้อมคำบรรยายภาษาทมิฬ",
+        "subject": "นิทรรศการ 'อาชีพยุคแรก: การกรีดยาง' ว่าด้วยมรดกไร่ของชาวทมิฬมาเลเซีย ที่ศูนย์มรดกอินเดีย ยะโฮร์บาห์รู"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Seorang pekerja menoreh getah daripada sebatang pokok getah di sebuah estet di Melaka pada tahun 1946, menggambarkan buruh ladang yang membentuk masyarakat estet Malaysia.",
+        "subject": "Menoreh getah di sebuah ladang getah di Melaka (1946)"
+      },
+      {
+        "alt": "Sebuah pameran muzium di Pusat Warisan India di Johor Bahru bertajuk Early Occupations: Rubber Tapping, dengan figura bersari, baldi getah dan foto estet bersejarah berkapsyen Tamil.",
+        "subject": "Pameran \"Early Occupations: Rubber Tapping\" tentang warisan estet Tamil Malaysia, Pusat Warisan India, Johor Bahru"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Seorang pekerja menyadap lateks dari sebatang pohon karet di sebuah perkebunan di Malaka pada tahun 1946, menggambarkan buruh perkebunan yang membentuk masyarakat perkebunan Malaysia.",
+        "subject": "Menyadap karet di sebuah perkebunan karet di Malaka (1946)"
+      },
+      {
+        "alt": "Sebuah pajangan museum di Pusat Warisan India di Johor Bahru berjudul Early Occupations: Rubber Tapping, dengan figur bersari, ember lateks, dan foto perkebunan bersejarah berketerangan Tamil.",
+        "subject": "Pameran \"Early Occupations: Rubber Tapping\" tentang warisan perkebunan Tamil Malaysia, Pusat Warisan India, Johor Bahru"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một công nhân cạo mủ từ cây cao su tại một đồn điền ở Malacca năm 1946, gợi nhắc lao động đồn điền đã hình thành các cộng đồng đồn điền của Malaysia.",
+        "subject": "Cạo mủ cao su tại một đồn điền cao su ở Malacca (1946)"
+      },
+      {
+        "alt": "Một gian trưng bày bảo tàng tại Trung tâm Di sản Ấn Độ ở Johor Bahru với tiêu đề Early Occupations: Rubber Tapping, có hình người mặc sari, xô đựng mủ và ảnh đồn điền lịch sử kèm chú thích tiếng Tamil.",
+        "subject": "Gian trưng bày \"Early Occupations: Rubber Tapping\" về di sản đồn điền của người Tamil Malaysia, Trung tâm Di sản Ấn Độ, Johor Bahru"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "1946-இல் மலாக்காவில் ஒரு எஸ்டேட்டில் ரப்பர் மரத்திலிருந்து பாலைச் சீவி எடுக்கும் ஒரு தொழிலாளி, மலேசியாவின் எஸ்டேட் சமூகங்களை வடிவமைத்த தோட்டத் தொழிலாளர்களை நினைவுறுத்துகிறது.",
+        "subject": "மலாக்காவில் ஒரு ரப்பர் தோட்டத்தில் ரப்பர் சீவுதல் (1946)"
+      },
+      {
+        "alt": "ஜொகூர் பாரு இந்திய பாரம்பரிய மையத்தில் \"ஆரம்பக் கால தொழில்கள்: ரப்பர் சீவுதல்\" எனும் தலைப்பில் ஒரு அருங்காட்சியக காட்சி, புடவை அணிந்த உருவம், ரப்பர் பால் வாளிகள் மற்றும் தமிழ் தலைப்புகளுடன் கூடிய வரலாற்று எஸ்டேட் புகைப்படங்களுடன்.",
+        "subject": "தமிழ் மலேசிய எஸ்டேட் பாரம்பரியம் குறித்த \"ஆரம்பக் கால தொழில்கள்: ரப்பர் சீவுதல்\" கண்காட்சி, இந்திய பாரம்பரிய மையம், ஜொகூர் பாரு"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "1946 में मलक्का के एक बागान में एक रबर के पेड़ से लेटेक्स दोहन करता एक मज़दूर, जो उस बागान श्रम को दर्शाता है जिसने मलेशिया के बागान समुदायों को आकार दिया।",
+        "subject": "मलक्का में एक रबर बागान में रबर-दोहन (1946)"
+      },
+      {
+        "alt": "जोहोर बाहरू के भारतीय विरासत केंद्र में 'प्रारंभिक व्यवसाय: रबर-दोहन' शीर्षक वाली एक संग्रहालय प्रदर्शनी, जिसमें साड़ी पहने एक आकृति, लेटेक्स की बाल्टियाँ और तमिल कैप्शन वाली ऐतिहासिक बागान तस्वीरें हैं।",
+        "subject": "तमिल मलेशियाई बागान विरासत पर \"प्रारंभिक व्यवसाय: रबर-दोहन\" प्रदर्शनी, भारतीय विरासत केंद्र, जोहोर बाहरू"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "عامل يستخرج اللاتكس من شجرة مطاط في مزرعة بـ Malacca عام 1946، مستحضرًا عمل المزارع الذي شكّل مجتمعات المزارع في ماليزيا.",
+        "subject": "استخراج المطاط في مزرعة مطاط في Malacca (1946)"
+      },
+      {
+        "alt": "معروضة متحفية في مركز التراث الهندي بـ Johor Bahru بعنوان 'المهن الأولى: استخراج المطاط'، تضمّ مجسّمًا يرتدي ساري ودلاء لاتكس وصورًا تاريخية للمزارع مع تعليقات بالتاميلية.",
+        "subject": "معرض \"المهن الأولى: استخراج المطاط\" حول تراث مزارع التاميل الماليزيين، مركز التراث الهندي (Indian Heritage Centre)، Johor Bahru"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un trabajador sangrando látex de un árbol de caucho en una finca de Malaca en 1946, evocando el trabajo de plantación que forjó las comunidades de las fincas de Malasia.",
+        "subject": "Extracción de látex (sangrado) en una plantación de caucho en Malaca (1946)"
+      },
+      {
+        "alt": "Una vitrina del Indian Heritage Centre de Johor Bahru titulada 'Primeras ocupaciones: la extracción de caucho', con una figura vestida con sari, cubos de látex y fotografías históricas de fincas con pies de foto en tamil.",
+        "subject": "Exposición «Primeras ocupaciones: la extracción de caucho» sobre el patrimonio de las fincas de los tamiles malasios, Indian Heritage Centre, Johor Bahru"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un ouvrier recueillant le latex d'un hévéa dans une plantation de Malacca en 1946, évoquant le travail de plantation qui a façonné les communautés des plantations de Malaisie.",
+        "subject": "Saignée de l'hévéa dans une plantation de caoutchouc à Malacca (1946)"
+      },
+      {
+        "alt": "Une vitrine de l'Indian Heritage Centre de Johor Bahru intitulée 'Premiers métiers : la saignée du caoutchouc', avec un mannequin vêtu d'un sari, des seaux de latex et des photographies historiques de plantations légendées en tamoul.",
+        "subject": "Exposition « Premiers métiers : la saignée du caoutchouc » sur le patrimoine des plantations des Tamouls de Malaisie, Indian Heritage Centre, Johor Bahru"
+      }
+    ]
+  },
+  "arts-culture/hinduism-in-malaysia": {
+    "zh": [
+      {
+        "alt": "霹雳怡保卡鲁玛莱穆鲁干庙（Kallumalai Murugan Temple）层叠、色彩鲜艳的塔门（gopuram），布满印度教神祇雕像",
+        "subject": "霹雳怡保卡鲁玛莱穆鲁干庙色彩缤纷的塔门（gopuram）"
+      },
+      {
+        "alt": "为屠妖节在地面铺设的精致、色彩斑斓的 kolam 地画，这是马来西亚主要的印度教节庆",
+        "subject": "屠妖节（Deepavali）的 kolam 地画，马来西亚"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ペラ州イポーのカルマライ・ムルガン寺院の、段を重ねた鮮やかな彩色の塔門（ゴープラム）。ヒンドゥー教の神々の彫像で覆われている",
+        "subject": "ペラ州イポーのカルマライ・ムルガン寺院の色鮮やかな塔門（ゴープラム）"
+      },
+      {
+        "alt": "ディーパバリのために床に描かれた、精緻で色鮮やかなコーラム。マレーシアで最も重要なヒンドゥー教の祭りである",
+        "subject": "ディーパバリ（Deepavali）のコーラム（床絵）、マレーシア"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "페락주 이포의 칼루말라이 무루간 사원의 층층이 쌓인 선명한 색채의 탑문(고푸람)으로, 힌두교 신들의 조각상으로 뒤덮여 있다",
+        "subject": "페락주 이포 칼루말라이 무루간 사원의 화려한 탑문(고푸람)"
+      },
+      {
+        "alt": "디파발리를 맞아 바닥에 그린 정교하고 색이 선명한 콜람. 말레이시아의 주요 힌두교 축제이다",
+        "subject": "디파발리(Deepavali)의 콜람(바닥 그림), 말레이시아"
+      }
+    ],
+    "th": [
+      {
+        "alt": "โคปุรัมหลายชั้นสีสันสดใสของวัดกัลลุมาไลมุรุกันในเมืองอีโปห์ รัฐเประ ปกคลุมด้วยรูปปั้นเทพเจ้าฮินดู",
+        "subject": "โคปุรัมสีสันสดใสของวัดกัลลุมาไลมุรุกัน เมืองอีโปห์ รัฐเประ"
+      },
+      {
+        "alt": "โกลัม (kolam) อันประณีตและสีสันสดใสที่วาดบนพื้นเนื่องในเทศกาลดีปาวลี เทศกาลฮินดูที่สำคัญที่สุดในมาเลเซีย",
+        "subject": "โกลัม (kolam) ของเทศกาลดีปาวลี (Deepavali) มาเลเซีย"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Menara gopuram berperingkat Kuil Murugan Kallumalai di Ipoh, Perak, yang dicat terang dan dipenuhi arca dewa-dewi Hindu.",
+        "subject": "Gopuram berwarna-warni Kuil Murugan Kallumalai, Ipoh, Perak"
+      },
+      {
+        "alt": "Sebuah kolam yang rumit dan berwarna-warni dihampar di atas lantai untuk Deepavali, perayaan utama Hindu di Malaysia.",
+        "subject": "Sebuah kolam Deepavali (seni lantai), Malaysia"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Menara gopuram bertingkat Kuil Murugan Kallumalai di Ipoh, Perak, yang dicat cerah dan penuh arca dewa-dewi Hindu.",
+        "subject": "Gopuram berwarna-warni Kuil Murugan Kallumalai, Ipoh, Perak"
+      },
+      {
+        "alt": "Sebuah kolam yang rumit dan berwarna-warni dihampar di atas lantai untuk Deepavali, perayaan utama Hindu di Malaysia.",
+        "subject": "Sebuah kolam Deepavali (seni lantai), Malaysia"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Tháp gopuram nhiều tầng của Đền Murugan Kallumalai ở Ipoh, Perak, được sơn màu rực rỡ và phủ kín các tượng thần Hindu.",
+        "subject": "Tháp gopuram nhiều màu sắc của Đền Murugan Kallumalai, Ipoh, Perak"
+      },
+      {
+        "alt": "Một hình kolam tinh xảo, nhiều màu sắc được bày trên sàn nhà cho dịp Deepavali, lễ hội Hindu chính ở Malaysia.",
+        "subject": "Một hình kolam Deepavali (nghệ thuật trên sàn), Malaysia"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பேராக், ஈப்போவில் உள்ள கல்லுமலை முருகன் கோயிலின் அடுக்கடுக்கான, பிரகாசமாக வர்ணம் பூசப்பட்ட கோபுர கோபுரம், இந்து தெய்வங்களின் சிற்பங்களால் நிரம்பியுள்ளது.",
+        "subject": "பேராக், ஈப்போ, கல்லுமலை முருகன் கோயிலின் வண்ணமயமான கோபுரம்"
+      },
+      {
+        "alt": "மலேசியாவின் முதன்மை இந்து பண்டிகையான தீபாவளிக்காக தரையில் இடப்பட்ட நுணுக்கமான, பிரகாசமான வண்ணக் கோலம்.",
+        "subject": "ஒரு தீபாவளி கோலம் (தரை அலங்காரம்), மலேசியா"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "पेराक के इपोह स्थित कल्लुमलाई मुरुगन मंदिर का स्तरीय, चटख रंगों में रंगा गोपुरम शिखर, जो तराशी गई हिंदू देवमूर्तियों से ढका है।",
+        "subject": "कल्लुमलाई मुरुगन मंदिर का रंगीन गोपुरम, इपोह, पेराक"
+      },
+      {
+        "alt": "मलेशिया के प्रमुख हिंदू त्योहार दीपावली के लिए फ़र्श पर बनाया गया एक जटिल, चटख रंगों वाला कोलम।",
+        "subject": "एक दीपावली कोलम (kolam, भूमि-कला), मलेशिया"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "برج المعبد (gopuram) المتدرّج والمطليّ بألوان زاهية لمعبد Kallumalai Murugan في Ipoh، Perak، مغطّى بتماثيل منحوتة لآلهة هندوسية.",
+        "subject": "برج معبد (gopuram) ملوّن لمعبد Kallumalai Murugan، Ipoh، Perak"
+      },
+      {
+        "alt": "رسم kolam دقيق وزاهي الألوان مفروش على الأرض بمناسبة Deepavali، أهمّ عيد هندوسي في ماليزيا.",
+        "subject": "رسم أرضي (kolam) بمناسبة Deepavali، ماليزيا"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La torre gopuram escalonada y de vivos colores del templo Kallumalai Murugan en Ipoh, Perak, cubierta de deidades hindúes esculpidas.",
+        "subject": "Colorido gopuram del templo Kallumalai Murugan, Ipoh, Perak"
+      },
+      {
+        "alt": "Un kolam intrincado y de vivos colores dispuesto en el suelo para Deepavali, la principal festividad hindú de Malasia.",
+        "subject": "Un kolam (arte de suelo) de Deepavali, Malasia"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "La tour gopuram à étages et aux couleurs vives du temple Kallumalai Murugan à Ipoh, Perak, couverte de divinités hindoues sculptées.",
+        "subject": "Le gopuram coloré du temple Kallumalai Murugan, Ipoh, Perak"
+      },
+      {
+        "alt": "Un kolam complexe et aux couleurs vives tracé au sol pour Deepavali, la principale fête hindoue de Malaisie.",
+        "subject": "Un kolam (art au sol) de Deepavali, Malaisie"
+      }
+    ]
+  },
+  "arts-culture/malay-dialects": {
+    "zh": [
+      {
+        "alt": "哈芝苏传统屋（Rumah Warisan Haji Su），一对以瓜拉登嘉楼东海岸风格建造的传统马来木屋",
+        "subject": "登嘉楼传统马来木屋（哈芝苏传统屋），瓜拉登嘉楼"
+      },
+      {
+        "alt": "传统的森美兰屋，配有米南加保风格上翘的屋顶，陈列于芙蓉州博物馆园区",
+        "subject": "米南加保风格的森美兰传统屋，位于芙蓉州博物馆"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ルマ・ワリサン・ハジ・ス。クアラ・トレンガヌ東海岸様式で建てられた一対の伝統的なマレー木造家屋",
+        "subject": "トレンガヌの伝統的なマレー木造家屋（ルマ・ワリサン・ハジ・ス）、クアラ・トレンガヌ"
+      },
+      {
+        "alt": "ミナンカバウ様式の反り上がった屋根をもつ伝統的なヌグリ・スンビランの家屋。スレンバンの州立博物館の敷地に展示されている",
+        "subject": "ミナンカバウ様式のヌグリ・スンビラン伝統家屋、スレンバンの州立博物館"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "루마 와리산 하지 수, 쿠알라트렝가누 동해안 양식으로 지은 전통 말레이 목조 가옥 한 쌍",
+        "subject": "트렝가누 전통 말레이 목조 가옥(루마 와리산 하지 수), 쿠알라트렝가누"
+      },
+      {
+        "alt": "미낭카바우 양식의 위로 치솟은 지붕을 가진 전통 느그리슴빌란 가옥이 스렘반 주립박물관 경내에 전시되어 있다",
+        "subject": "미낭카바우 양식의 느그리슴빌란 전통 가옥, 스렘반 주립박물관"
+      }
+    ],
+    "th": [
+      {
+        "alt": "รูมะฮ์วาริซันฮัจญีซู บ้านไม้มลายูดั้งเดิมสองหลังในรูปแบบชายฝั่งตะวันออกของกัวลาตรังกานู",
+        "subject": "บ้านไม้มลายูดั้งเดิมแบบตรังกานู (รูมะฮ์วาริซันฮัจญีซู) เมืองกัวลาตรังกานู"
+      },
+      {
+        "alt": "บ้านดั้งเดิมแบบเนอเกอรีเซิมบีลันที่มีหลังคาเชิดขึ้นแบบมีนังกาเบา จัดแสดงในบริเวณพิพิธภัณฑ์ประจำรัฐที่เซอเริมบัน",
+        "subject": "บ้านดั้งเดิมแบบเนอเกอรีเซิมบีลันสไตล์มีนังกาเบา ที่พิพิธภัณฑ์ประจำรัฐ เมืองเซอเริมบัน"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Rumah Warisan Haji Su, sepasang rumah Melayu kayu tradisional dalam gaya pantai timur Kuala Terengganu.",
+        "subject": "Rumah Melayu tradisional Terengganu (Rumah Warisan Haji Su), Kuala Terengganu"
+      },
+      {
+        "alt": "Rumah tradisional Negeri Sembilan dengan bumbung melentik gaya Minangkabau, dipamerkan di perkarangan muzium negeri di Seremban.",
+        "subject": "Rumah tradisional Negeri Sembilan gaya Minangkabau di Muzium Negeri, Seremban"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Rumah Warisan Haji Su, sepasang rumah Melayu kayu tradisional bergaya pantai timur Kuala Terengganu.",
+        "subject": "Rumah Melayu tradisional Terengganu (Rumah Warisan Haji Su), Kuala Terengganu"
+      },
+      {
+        "alt": "Rumah tradisional Negeri Sembilan dengan atap melengkung gaya Minangkabau, dipamerkan di halaman museum negeri bagian di Seremban.",
+        "subject": "Rumah tradisional Negeri Sembilan bergaya Minangkabau di Museum Negeri Bagian, Seremban"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Rumah Warisan Haji Su, một cặp nhà gỗ truyền thống của người Mã Lai theo phong cách bờ biển phía đông Kuala Terengganu.",
+        "subject": "Nhà Mã Lai truyền thống Terengganu (Rumah Warisan Haji Su), Kuala Terengganu"
+      },
+      {
+        "alt": "Những ngôi nhà truyền thống Negeri Sembilan với mái cong vút kiểu Minangkabau, được trưng bày trong khuôn viên bảo tàng bang ở Seremban.",
+        "subject": "Nhà truyền thống Negeri Sembilan kiểu Minangkabau tại Bảo tàng Bang, Seremban"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ரூமா வாரிசான் ஹாஜி சு, கிழக்குக் கரை கோலாத் தெரங்கானு பாணியிலான ஒரு ஜோடி பாரம்பரிய மலாய் மரவீடுகள்.",
+        "subject": "தெரங்கானு பாரம்பரிய மலாய் வீடுகள் (ரூமா வாரிசான் ஹாஜி சு), கோலாத் தெரங்கானு"
+      },
+      {
+        "alt": "செரம்பானில் மாநில அருங்காட்சியக வளாகத்தில் காட்சிப்படுத்தப்பட்ட, மேல்நோக்கி வளைந்த மினாங்கபாவ் பாணி கூரைகளுடன் கூடிய பாரம்பரிய நெகிரி செம்பிலான் வீடுகள்.",
+        "subject": "செரம்பான் மாநில அருங்காட்சியகத்தில் மினாங்கபாவ் பாணி நெகிரி செம்பிலான் பாரம்பரிய வீடுகள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "Rumah Warisan Haji Su, कुआला तेरेंगानु की पूर्वी-तट शैली में बने लकड़ी के पारंपरिक मलय घरों की एक जोड़ी।",
+        "subject": "पारंपरिक तेरेंगानु मलय घर (Rumah Warisan Haji Su), कुआला तेरेंगानु"
+      },
+      {
+        "alt": "सेरेम्बान के राज्य संग्रहालय परिसर में प्रदर्शित, ऊपर की ओर उठी मिनांगकाबाउ-शैली की छतों वाले पारंपरिक नेगेरी सेम्बिलान घर।",
+        "subject": "राज्य संग्रहालय में मिनांगकाबाउ शैली के नेगेरी सेम्बिलान पारंपरिक घर, सेरेम्बान"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "Rumah Warisan Haji Su، زوج من منازل الملايو الخشبية التقليدية بطراز الساحل الشرقي في Kuala Terengganu.",
+        "subject": "منازل الملايو التقليدية في Terengganu (Rumah Warisan Haji Su)، Kuala Terengganu"
+      },
+      {
+        "alt": "منازل Negeri Sembilan التقليدية بأسقف مرفوعة الأطراف على طراز Minangkabau، معروضة في ساحة المتحف الولائي في Seremban.",
+        "subject": "منازل Negeri Sembilan التقليدية بطراز Minangkabau في المتحف الولائي، Seremban"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Rumah Warisan Haji Su, un par de casas malayas tradicionales de madera al estilo de la costa este de Kuala Terengganu.",
+        "subject": "Casas malayas tradicionales de Terengganu (Rumah Warisan Haji Su), Kuala Terengganu"
+      },
+      {
+        "alt": "Casas tradicionales de Negeri Sembilan con tejados de aleros alzados al estilo minangkabau, expuestas en el recinto del museo estatal de Seremban.",
+        "subject": "Casas tradicionales de Negeri Sembilan de estilo minangkabau en el Museo Estatal, Seremban"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Rumah Warisan Haji Su, une paire de maisons malaises traditionnelles en bois dans le style de la côte est de Kuala Terengganu.",
+        "subject": "Maisons malaises traditionnelles de Terengganu (Rumah Warisan Haji Su), Kuala Terengganu"
+      },
+      {
+        "alt": "Maisons traditionnelles de Negeri Sembilan aux toits relevés de style minangkabau, exposées dans l'enceinte du musée de l'État à Seremban.",
+        "subject": "Maisons traditionnelles de Negeri Sembilan de style minangkabau au Musée de l'État, Seremban"
+      }
+    ]
+  },
+  "arts-culture/malay-literature": {
+    "zh": [
+      {
+        "alt": "《马荣马哈旺萨传》（Hikayat Merong Mahawangsa）爪夷文手稿的开篇页，这部吉打古典编年史以流畅的阿拉伯字母马来文书写，置于画格之内",
+        "subject": "《马荣马哈旺萨传》（吉打纪年）的爪夷文开篇页"
+      },
+      {
+        "alt": "《肯丹布罕诗篇》（Syair Ken Tambuhan）手稿开篇的金、红、黑彩饰题头，这是一部帕尼（Panji）故事系列的马来古典韵文传奇",
+        "subject": "马来韵文传奇《肯丹布罕诗篇》手稿的彩饰题头"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "『ヒカヤット・ムロン・マハワンサ』のジャウィ文字写本の冒頭ページ。ケダの古典年代記で、罫線で囲まれた枠内に流麗なアラビア文字のマレー語で書かれている",
+        "subject": "『ヒカヤット・ムロン・マハワンサ』（ケダ年代記）のジャウィ文字による冒頭ページ"
+      },
+      {
+        "alt": "マレー古典韻文物語『シャイル・ケン・タンブハン』の写本冒頭を飾る、金・赤・黒の装飾見出し。パンジ物語系の作品である",
+        "subject": "マレー韻文物語『シャイル・ケン・タンブハン』写本の装飾見出し"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "《히카얏 머롱 마하왕사》 자위 문자 필사본의 첫 쪽. 크다의 고전 연대기로, 괘선을 두른 틀 안에 유려한 아랍 문자 말레이어로 쓰여 있다",
+        "subject": "《히카얏 머롱 마하왕사》(크다 연대기)의 자위 문자 첫 쪽"
+      },
+      {
+        "alt": "말레이 고전 운문 로맨스 《샤이르 켄 탐부한》 필사본의 첫머리를 여는 금·빨강·검정 채식(彩飾) 머리장식. 판지(Panji) 설화 계열의 작품이다",
+        "subject": "말레이 운문 로맨스 《샤이르 켄 탐부한》 필사본의 채식 머리장식"
+      }
+    ],
+    "th": [
+      {
+        "alt": "หน้าเปิดของต้นฉบับอักษรยาวีเรื่องฮิกายัตเมอโรงมหาวังสา พงศาวดารคลาสสิกของเกอดะฮ์ เขียนด้วยภาษามลายูอักษรอาหรับที่พลิ้วไหวภายในกรอบเส้น",
+        "subject": "หน้าเปิดอักษรยาวีของเรื่องฮิกายัตเมอโรงมหาวังสา (พงศาวดารเกอดะฮ์)"
+      },
+      {
+        "alt": "หัวกระดาษประดับสีทอง แดง และดำที่เปิดต้นฉบับเรื่องชาอีร์เกนตัมบูฮัน นิทานร้อยกรองคลาสสิกภาษามลายูในตระกูลนิทานปันจี",
+        "subject": "หัวกระดาษประดับของต้นฉบับนิทานร้อยกรองมลายูเรื่องชาอีร์เกนตัมบูฮัน"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Halaman pembuka sebuah manuskrip Jawi Hikayat Merong Mahawangsa, kronik klasik Kedah, ditulis dalam bahasa Melayu beraksara Arab yang mengalir di dalam bingkai bergaris.",
+        "subject": "Halaman pembuka Jawi Hikayat Merong Mahawangsa (Annals Kedah)"
+      },
+      {
+        "alt": "Kepala halaman beriluminasi emas, merah dan hitam yang membuka sebuah manuskrip Syair Ken Tambuhan, sebuah syair romantis Melayu klasik daripada kisah Panji.",
+        "subject": "Kepala halaman beriluminasi sebuah manuskrip syair romantis Melayu Syair Ken Tambuhan"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Halaman pembuka sebuah naskah Jawi Hikayat Merong Mahawangsa, kronik klasik Kedah, ditulis dalam bahasa Melayu beraksara Arab yang mengalir di dalam bingkai bergaris.",
+        "subject": "Halaman pembuka Jawi Hikayat Merong Mahawangsa (Sejarah Kedah)"
+      },
+      {
+        "alt": "Hiasan kepala halaman beriluminasi emas, merah, dan hitam yang membuka sebuah naskah Syair Ken Tambuhan, sebuah syair roman Melayu klasik dari kisah Panji.",
+        "subject": "Hiasan kepala halaman beriluminasi sebuah naskah syair roman Melayu Syair Ken Tambuhan"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Trang mở đầu của một bản thảo chữ Jawi của Hikayat Merong Mahawangsa, biên niên sử cổ điển của Kedah, viết bằng tiếng Mã Lai chữ Ả Rập uyển chuyển trong khung kẻ ô.",
+        "subject": "Trang mở đầu chữ Jawi của Hikayat Merong Mahawangsa (Biên niên sử Kedah)"
+      },
+      {
+        "alt": "Phần đầu trang trang trí vàng, đỏ và đen mở đầu một bản thảo của Syair Ken Tambuhan, một áng thơ tình cổ điển Mã Lai thuộc các truyện Panji.",
+        "subject": "Phần đầu trang trang trí của một bản thảo áng thơ tình Mã Lai Syair Ken Tambuhan"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கெடாவின் தொன்மையான நாளாகமமான ஹிகாயாத் மெரோங் மகாவாங்சாவின் ஒரு ஜாவி கையெழுத்துப் பிரதியின் தொடக்கப் பக்கம், கோடிட்ட சட்டகத்திற்குள் அரபி எழுத்தில் ஒழுகும் மலாய் மொழியில் எழுதப்பட்டுள்ளது.",
+        "subject": "ஹிகாயாத் மெரோங் மகாவாங்சாவின் (கெடா நாளாகமம்) தொடக்க ஜாவி பக்கம்"
+      },
+      {
+        "alt": "பாஞ்சி கதைகளைச் சேர்ந்த ஒரு தொன்மையான மலாய் காதல் காப்பியமான சையர் கென் தம்புஹானின் ஒரு கையெழுத்துப் பிரதியைத் தொடங்கும் தங்கம், சிவப்பு, கறுப்பு ஒளியலங்காரத் தலைப்பு.",
+        "subject": "மலாய் காதல் காப்பியமான சையர் கென் தம்புஹான் கையெழுத்துப் பிரதியின் ஒளியலங்காரத் தலைப்பு"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "शास्त्रीय केदाह इतिवृत्त हिकायत मेरोंग महावांग्सा की एक जावी पांडुलिपि का आरंभिक पृष्ठ, एक रेखांकित ढाँचे के भीतर प्रवाहमान अरबी-लिपि मलय में लिखा।",
+        "subject": "हिकायत मेरोंग महावांग्सा (केदाह इतिवृत्त) का आरंभिक जावी पृष्ठ"
+      },
+      {
+        "alt": "पांजी कथाओं के एक शास्त्रीय मलय पद्य-प्रेमकाव्य शैर केन तम्बुहान की पांडुलिपि का आरंभ करता सुनहरा, लाल और काला अलंकृत शीर्ष-भाग।",
+        "subject": "मलय पद्य-प्रेमकाव्य शैर केन तम्बुहान की एक पांडुलिपि का अलंकृत शीर्ष-भाग"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "الصفحة الافتتاحية لمخطوطة Jawi من Hikayat Merong Mahawangsa، وهي حوليات Kedah الكلاسيكية، مكتوبة بالملايوية بخط عربي انسيابي داخل إطار مسطّر.",
+        "subject": "الصفحة الافتتاحية بخط Jawi من Hikayat Merong Mahawangsa (حوليات Kedah)"
+      },
+      {
+        "alt": "زخرفة استهلالية مذهّبة بالأحمر والأسود تفتتح مخطوطة Syair Ken Tambuhan، وهي ملحمة شعرية ملايوية كلاسيكية من حكايات Panji.",
+        "subject": "زخرفة استهلالية مذهّبة لمخطوطة من الملحمة الشعرية الملايوية Syair Ken Tambuhan"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La página inicial de un manuscrito Jawi del Hikayat Merong Mahawangsa, la crónica clásica de Kedah, escrita en malayo con fluida grafía árabe dentro de un marco pautado.",
+        "subject": "Página inicial en escritura Jawi del Hikayat Merong Mahawangsa (Anales de Kedah)"
+      },
+      {
+        "alt": "Un frontispicio iluminado en oro, rojo y negro que abre un manuscrito del Syair Ken Tambuhan, un clásico romance en verso malayo de los relatos de Panji.",
+        "subject": "Frontispicio iluminado de un manuscrito del romance en verso malayo Syair Ken Tambuhan"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "La page d'ouverture d'un manuscrit Jawi du Hikayat Merong Mahawangsa, la chronique classique de Kedah, rédigée en malais en écriture arabe fluide dans un cadre réglé.",
+        "subject": "Page d'ouverture en écriture Jawi du Hikayat Merong Mahawangsa (Annales de Kedah)"
+      },
+      {
+        "alt": "Un frontispice enluminé d'or, de rouge et de noir ouvrant un manuscrit du Syair Ken Tambuhan, un roman classique en vers malais issu des contes de Panji.",
+        "subject": "Frontispice enluminé d'un manuscrit du roman en vers malais Syair Ken Tambuhan"
+      }
+    ]
+  },
+  "arts-culture/malaysian-film-industry": {
+    "zh": [
+      {
+        "alt": "吉隆坡市中心一座战前单厅电影院——古典戏院（Coliseum Cinema）的街面立面与遮檐招牌",
+        "subject": "位于吉隆坡东姑阿都拉曼路的历史悠久的古典戏院（Coliseum Cinema），马来西亚现存最古老的电影院之一"
+      },
+      {
+        "alt": "吉隆坡一家购物商场内，一座当代多厅电影院灯火通明的大堂与招牌",
+        "subject": "吉隆坡武吉免登柏威年广场（Pavilion Bukit Bintang）一家现代多厅电影院的入口"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "クアラルンプール中心部にある戦前の単館映画館、旧コロシアム・シネマの通りに面した正面とマーキー看板",
+        "subject": "クアラルンプールのジャラン・トゥアンク・アブドゥル・ラーマンにある歴史的なコロシアム・シネマ。マレーシアに現存する最古級の映画館の一つ"
+      },
+      {
+        "alt": "クアラルンプールのショッピングモール内にある現代的なシネコンの、明るく照らされたロビーと看板",
+        "subject": "クアラルンプールのパビリオン・ブキッ・ビンタンにある現代的なシネコンの入口"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "쿠알라룸푸르 중심부에 있는 전전(戰前) 시기 단관 극장인 옛 콜로세움 시네마의 거리 쪽 정면과 차양 간판",
+        "subject": "쿠알라룸푸르 잘란 퉁쿠 압둘 라만에 있는 역사적인 콜로세움 시네마, 말레이시아에 현존하는 가장 오래된 극장 중 하나"
+      },
+      {
+        "alt": "쿠알라룸푸르의 한 쇼핑몰 안에 있는 현대식 멀티플렉스 극장의 환하게 밝혀진 로비와 간판",
+        "subject": "쿠알라룸푸르 파빌리온 부킷 빈탕에 있는 현대식 멀티플렉스 극장 입구"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ด้านหน้าและป้ายกันสาดของโรงภาพยนตร์โคลีเซียมเก่า โรงหนังจอเดี่ยวยุคก่อนสงครามใจกลางกรุงกัวลาลัมเปอร์",
+        "subject": "โรงภาพยนตร์โคลีเซียมอันเก่าแก่บนถนนตวนกูอับดุลระห์มาน กรุงกัวลาลัมเปอร์ หนึ่งในโรงหนังที่เก่าแก่ที่สุดที่ยังหลงเหลืออยู่ของมาเลเซีย"
+      },
+      {
+        "alt": "โถงทางเข้าและป้ายที่สว่างไสวของโรงภาพยนตร์มัลติเพล็กซ์สมัยใหม่ภายในห้างสรรพสินค้าในกรุงกัวลาลัมเปอร์",
+        "subject": "ทางเข้าโรงภาพยนตร์มัลติเพล็กซ์สมัยใหม่ที่พาวิลเลียน บูกิตบินตัง กรุงกัวลาลัมเปอร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Fasad jalan dan papan tanda marki Pawagam Coliseum lama, sebuah dewan wayang skrin tunggal pra-perang di tengah bandar Kuala Lumpur",
+        "subject": "Pawagam Coliseum bersejarah di Jalan Tuanku Abdul Rahman, Kuala Lumpur, salah satu dewan wayang terawal yang masih bertahan di Malaysia"
+      },
+      {
+        "alt": "Ruang legar dan papan tanda yang terang-benderang bagi sebuah pawagam multipleks kontemporari di dalam sebuah pusat beli-belah Kuala Lumpur",
+        "subject": "Pintu masuk sebuah pawagam multipleks moden di Pavilion Bukit Bintang, Kuala Lumpur"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Fasad jalan dan papan marki Bioskop Coliseum tua, sebuah gedung bioskop layar tunggal pra-perang di pusat kota Kuala Lumpur",
+        "subject": "Bioskop Coliseum bersejarah di Jalan Tuanku Abdul Rahman, Kuala Lumpur, salah satu gedung bioskop tertua yang masih bertahan di Malaysia"
+      },
+      {
+        "alt": "Lobi dan papan nama yang terang-benderang dari sebuah bioskop multipleks kontemporer di dalam sebuah mal perbelanjaan Kuala Lumpur",
+        "subject": "Pintu masuk sebuah bioskop multipleks modern di Pavilion Bukit Bintang, Kuala Lumpur"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Mặt tiền đường phố và bảng hiệu của Rạp Coliseum cũ, một rạp chiếu phim một màn hình trước chiến tranh ở trung tâm Kuala Lumpur",
+        "subject": "Rạp Coliseum lịch sử trên đường Jalan Tuanku Abdul Rahman, Kuala Lumpur, một trong những rạp chiếu phim lâu đời còn tồn tại của Malaysia"
+      },
+      {
+        "alt": "Tiền sảnh và bảng hiệu rực sáng của một cụm rạp chiếu phim hiện đại bên trong một trung tâm mua sắm ở Kuala Lumpur",
+        "subject": "Lối vào một cụm rạp chiếu phim hiện đại tại Pavilion Bukit Bintang, Kuala Lumpur"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கோலாலம்பூர் நகர மையத்தில் போருக்கு முந்தைய ஒற்றைத் திரை திரையரங்கமான பழைய கொலிசியம் சினிமாவின் தெரு முகப்பும் விளம்பரப் பலகையும்",
+        "subject": "கோலாலம்பூர், ஜாலான் துவாங்கு அப்துல் ரஹ்மானில் உள்ள வரலாற்றுச் சிறப்புமிக்க கொலிசியம் சினிமா, மலேசியாவில் இன்னும் எஞ்சியிருக்கும் மிகப் பழமையான திரையரங்குகளில் ஒன்று"
+      },
+      {
+        "alt": "கோலாலம்பூர் வணிக வளாகம் ஒன்றினுள் ஒரு சமகால மல்டிபிளெக்ஸ் திரையரங்கின் பிரகாசமாக ஒளிரும் முன்கூடமும் அறிவிப்புப் பலகையும்",
+        "subject": "கோலாலம்பூர், பெவிலியன் புக்கிட் பிந்தாங்கில் ஒரு நவீன மல்டிபிளெக்ஸ் திரையரங்கின் நுழைவாயில்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "पुराने कोलिज़ियम सिनेमा का सड़क-अग्रभाग और मार्की, कुआलालंपुर के मध्य में युद्ध-पूर्व का एक सिंगल-स्क्रीन सिनेमाघर",
+        "subject": "कुआलालंपुर की जालान तुआंकू अब्दुल रहमान पर ऐतिहासिक कोलिज़ियम सिनेमा, मलेशिया के सबसे पुराने बचे हुए सिनेमाघरों में से एक"
+      },
+      {
+        "alt": "कुआलालंपुर के एक शॉपिंग मॉल के भीतर एक समकालीन मल्टीप्लेक्स सिनेमा का चमकदार रोशनी वाला फ़ोयर और साइनबोर्ड",
+        "subject": "कुआलालंपुर के पैविलियन बुकित बिंतांग में एक आधुनिक मल्टीप्लेक्स सिनेमा का प्रवेश"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "الواجهة الشارعية ولوحة الإعلانات لسينما Coliseum القديمة، وهي دار سينما ذات شاشة واحدة من حقبة ما قبل الحرب في وسط Kuala Lumpur",
+        "subject": "سينما Coliseum التاريخية في Jalan Tuanku Abdul Rahman، Kuala Lumpur، إحدى أقدم دور السينما الباقية في ماليزيا"
+      },
+      {
+        "alt": "البهو شديد الإضاءة واللافتات لسينما متعددة الصالات معاصرة داخل مركز تسوّق في Kuala Lumpur",
+        "subject": "مدخل سينما متعددة الصالات حديثة في Pavilion Bukit Bintang، Kuala Lumpur"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La fachada y la marquesina del antiguo cine Coliseum, una sala de pantalla única de antes de la guerra en el centro de Kuala Lumpur",
+        "subject": "El histórico cine Coliseum en Jalan Tuanku Abdul Rahman, Kuala Lumpur, una de las salas de cine más antiguas que se conservan en Malasia"
+      },
+      {
+        "alt": "El vestíbulo luminosamente iluminado y la rotulación de un cine multisalas contemporáneo dentro de un centro comercial de Kuala Lumpur",
+        "subject": "La entrada de un moderno cine multisalas en Pavilion Bukit Bintang, Kuala Lumpur"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "La façade sur rue et le fronton de l'ancien cinéma Coliseum, une salle de cinéma à écran unique d'avant-guerre dans le centre de Kuala Lumpur",
+        "subject": "L'historique cinéma Coliseum sur Jalan Tuanku Abdul Rahman, Kuala Lumpur, l'une des plus anciennes salles de cinéma subsistant en Malaisie"
+      },
+      {
+        "alt": "Le hall vivement éclairé et la signalétique d'un cinéma multiplexe contemporain à l'intérieur d'un centre commercial de Kuala Lumpur",
+        "subject": "L'entrée d'un cinéma multiplexe moderne au Pavilion Bukit Bintang, Kuala Lumpur"
+      }
+    ]
+  },
+  "arts-culture/malaysian-literature": {
+    "zh": [
+      {
+        "alt": "成群读者在马来西亚国际书展上翻阅一排排堆满书籍的出版社摊位",
+        "subject": "参观者在 2023 年吉隆坡国际书展（Pesta Buku Antarabangsa Kuala Lumpur）摊位前选购"
+      },
+      {
+        "alt": "吉隆坡的马来西亚国家图书馆大楼，顶部覆有一幅别具一格的蓝色宋吉（songket）纹样屋顶",
+        "subject": "吉隆坡马来西亚国家图书馆（Perpustakaan Negara Malaysia），以宋吉（songket）为灵感的帐篷式屋顶"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マレーシアの国際ブックフェアで、本が積み上げられた出版社のブースの列を大勢の読者が物色している",
+        "subject": "2023年クアラルンプール国際ブックフェア（Pesta Buku Antarabangsa Kuala Lumpur）でブースを巡る来場者"
+      },
+      {
+        "alt": "クアラルンプールにあるマレーシア国立図書館の建物。特徴的な青いソンケット文様の屋根を頂いている",
+        "subject": "クアラルンプールのマレーシア国立図書館（Perpustakaan Negara Malaysia）。ソンケット（songket）に着想を得たテント状の屋根をもつ"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "말레이시아 국제 도서전에서 책이 쌓인 출판사 부스 줄을 수많은 독자들이 둘러보고 있다",
+        "subject": "2023년 쿠알라룸푸르 국제 도서전(Pesta Buku Antarabangsa Kuala Lumpur)의 부스를 둘러보는 방문객들"
+      },
+      {
+        "alt": "쿠알라룸푸르에 있는 말레이시아 국립도서관 건물로, 독특한 파란색 송켓 문양 지붕을 이고 있다",
+        "subject": "쿠알라룸푸르의 말레이시아 국립도서관(Perpustakaan Negara Malaysia), 송켓(songket)에서 영감을 받은 천막형 지붕"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ผู้อ่านจำนวนมากเดินชมบูธสำนักพิมพ์ที่เรียงรายเต็มไปด้วยหนังสือในงานหนังสือนานาชาติของมาเลเซีย",
+        "subject": "ผู้มาเยือนเดินชมบูธในงานหนังสือนานาชาติกัวลาลัมเปอร์ (Pesta Buku Antarabangsa Kuala Lumpur) ปี 2023"
+      },
+      {
+        "alt": "อาคารหอสมุดแห่งชาติมาเลเซียในกรุงกัวลาลัมเปอร์ ยอดอาคารเป็นหลังคาสีน้ำเงินลายซงเก็ตอันโดดเด่น",
+        "subject": "หอสมุดแห่งชาติมาเลเซีย (Perpustakaan Negara Malaysia) ในกรุงกัวลาลัมเปอร์ ที่มีหลังคาทรงเต็นท์ลายผ้าซงเก็ต"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Orang ramai pembaca menyelak deretan gerai penerbit yang bertimbun buku di pesta buku antarabangsa Malaysia",
+        "subject": "Pengunjung menyelak gerai di Pesta Buku Antarabangsa Kuala Lumpur 2023"
+      },
+      {
+        "alt": "Bangunan Perpustakaan Negara Malaysia di Kuala Lumpur, bermahkotakan bumbung berpola songket biru yang tersendiri",
+        "subject": "Perpustakaan Negara Malaysia di Kuala Lumpur, dengan bumbung khemah berinspirasikan songket"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Kerumunan pembaca melihat-lihat deretan stan penerbit yang bertumpuk buku di pameran buku internasional Malaysia",
+        "subject": "Pengunjung melihat-lihat stan di Pameran Buku Internasional Kuala Lumpur (Pesta Buku Antarabangsa Kuala Lumpur) 2023"
+      },
+      {
+        "alt": "Gedung Perpustakaan Nasional Malaysia di Kuala Lumpur, bermahkotakan atap berpola songket biru yang khas",
+        "subject": "Perpustakaan Nasional Malaysia di Kuala Lumpur, dengan atap tenda berinspirasi songket"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Đám đông độc giả xem các dãy gian hàng nhà xuất bản chất đầy sách tại hội chợ sách quốc tế của Malaysia",
+        "subject": "Khách tham quan xem các gian hàng tại Hội chợ Sách Quốc tế Kuala Lumpur (Pesta Buku Antarabangsa Kuala Lumpur) 2023"
+      },
+      {
+        "alt": "Tòa nhà Thư viện Quốc gia Malaysia ở Kuala Lumpur, với mái nhà hình lều họa tiết songket màu xanh đặc trưng",
+        "subject": "Thư viện Quốc gia Malaysia ở Kuala Lumpur, với mái lều lấy cảm hứng từ vải songket"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "மலேசியாவின் சர்வதேச புத்தகக் கண்காட்சியில் புத்தகங்கள் குவிந்த வெளியீட்டாளர் அரங்குகளின் வரிசைகளைப் பார்க்கும் வாசகர் கூட்டம்",
+        "subject": "கோலாலம்பூர் சர்வதேச புத்தகக் கண்காட்சி (பெஸ்தா புக்கு அந்தராபங்சா கோலாலம்பூர்) 2023-இல் அரங்குகளைப் பார்க்கும் பார்வையாளர்கள்"
+      },
+      {
+        "alt": "கோலாலம்பூரில் தனித்துவமான நீல சொங்கெட் வடிவக் கூரையால் முடிசூட்டப்பட்ட மலேசிய தேசிய நூலக கட்டிடம்",
+        "subject": "சொங்கெட் கலையால் உந்தப்பட்ட கூடாரக் கூரையுடன் கோலாலம்பூரில் உள்ள மலேசிய தேசிய நூலகம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "मलेशिया के अंतरराष्ट्रीय पुस्तक मेले में पुस्तकों से भरे प्रकाशकों के स्टॉलों की पंक्तियाँ देखते पाठकों की भीड़",
+        "subject": "कुआलालंपुर अंतरराष्ट्रीय पुस्तक मेला (Pesta Buku Antarabangsa Kuala Lumpur) 2023 में स्टॉल देखते आगंतुक"
+      },
+      {
+        "alt": "कुआलालंपुर में मलेशिया के राष्ट्रीय पुस्तकालय की इमारत, जिसके ऊपर एक विशिष्ट नीली सोंगकेट-पैटर्न वाली छत है",
+        "subject": "कुआलालंपुर में मलेशिया का राष्ट्रीय पुस्तकालय (Perpustakaan Negara Malaysia), जिसकी छत सोंगकेट से प्रेरित तंबूनुमा है"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "حشود من القرّاء يتصفّحون صفوف أجنحة الناشرين المكدّسة بالكتب في معرض الكتاب الدولي في ماليزيا",
+        "subject": "زوّار يتصفّحون الأجنحة في معرض Kuala Lumpur الدولي للكتاب (Pesta Buku Antarabangsa Kuala Lumpur) 2023"
+      },
+      {
+        "alt": "مبنى المكتبة الوطنية الماليزية في Kuala Lumpur، يعلوه سقف أزرق مميّز بزخرفة songket",
+        "subject": "المكتبة الوطنية الماليزية (Perpustakaan Negara Malaysia) في Kuala Lumpur، بسقفها الخيميّ المستوحى من نسيج songket"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Multitudes de lectores recorriendo hileras de estands de editoriales repletos de libros en la feria internacional del libro de Malasia",
+        "subject": "Visitantes recorriendo los estands en la Feria Internacional del Libro de Kuala Lumpur (Pesta Buku Antarabangsa Kuala Lumpur) 2023"
+      },
+      {
+        "alt": "El edificio de la Biblioteca Nacional de Malasia en Kuala Lumpur, coronado por un característico tejado azul con motivos de songket",
+        "subject": "La Biblioteca Nacional de Malasia (Perpustakaan Negara Malaysia) en Kuala Lumpur, con su tejado en forma de carpa inspirado en el songket"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des foules de lecteurs parcourant des rangées de stands d'éditeurs chargés de livres au salon international du livre de Malaisie",
+        "subject": "Des visiteurs parcourant les stands au Salon international du livre de Kuala Lumpur (Pesta Buku Antarabangsa Kuala Lumpur) 2023"
+      },
+      {
+        "alt": "Le bâtiment de la Bibliothèque nationale de Malaisie à Kuala Lumpur, coiffé d'un toit bleu caractéristique à motifs de songket",
+        "subject": "La Bibliothèque nationale de Malaisie (Perpustakaan Negara Malaysia) à Kuala Lumpur, avec son toit en tente inspiré du songket"
+      }
+    ]
+  },
+  "arts-culture/manglish": {
+    "zh": [
+      {
+        "alt": "乔治市一条店屋街，店面招牌以英文、泰米尔文、中文和马来文并列呈现",
+        "subject": "槟城乔治市一条小印度街道，沿街店铺招牌以多种语言与文字书写"
+      },
+      {
+        "alt": "傍晚时分，顾客走过马来西亚一处热闹夜市里成排的食品与货品摊档",
+        "subject": "雪兰莪沙登（Seri Kembangan）的夜市（pasar malam），马来西亚日常多语环境的街头一景"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ジョージタウンの店屋街。店先には英語・タミル語・中国語・マレー語の看板が並んで掲げられている",
+        "subject": "ペナン・ジョージタウンのリトル・インディアの通り。沿道の看板が複数の言語と文字で記されている"
+      },
+      {
+        "alt": "夕方、マレーシアの賑わう夜市で、食べ物や品物の屋台の列の前を買い物客が歩いている",
+        "subject": "スランゴール州スリ・クンバンガンのパサール・マラム（夜市）。マレーシアの日常的な多言語の街の光景"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "조지타운의 한 숍하우스 거리로, 점포 간판이 영어·타밀어·중국어·말레이어로 나란히 걸려 있다",
+        "subject": "페낭 조지타운의 리틀 인디아 거리, 길을 따라 여러 언어와 문자로 쓰인 상점 간판들"
+      },
+      {
+        "alt": "저녁 무렵, 말레이시아의 북적이는 야시장에서 음식과 물건을 파는 좌판 줄을 따라 손님들이 걷고 있다",
+        "subject": "슬랑오르주 스리 큼방안의 파사르 말람(야시장), 말레이시아의 일상적인 다언어 거리 풍경"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ถนนช็อปเฮาส์ในจอร์จทาวน์ที่หน้าร้านมีป้ายภาษาอังกฤษ ทมิฬ จีน และมลายูเรียงเคียงกัน",
+        "subject": "ถนนลิตเติลอินเดียในจอร์จทาวน์ รัฐปีนัง เรียงรายด้วยป้ายร้านค้าหลายภาษาและหลายอักษร"
+      },
+      {
+        "alt": "ผู้คนเดินผ่านแถวแผงขายอาหารและสินค้าในตลาดนัดกลางคืนที่คึกคักของมาเลเซียในยามเย็น",
+        "subject": "ตลาดนัดกลางคืน (ปาซาร์มาลัม) ที่เซอรีเกิมบางัน รัฐสลังงอร์ บรรยากาศถนนหลายภาษาในชีวิตประจำวันของมาเลเซีย"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah jalan rumah kedai di George Town yang kedai-kedainya membawa papan tanda dalam bahasa Inggeris, Tamil, Cina dan Melayu bersebelahan",
+        "subject": "Sebuah jalan Little India di George Town, Pulau Pinang, dipenuhi papan tanda kedai dalam beberapa bahasa dan aksara"
+      },
+      {
+        "alt": "Pembeli berjalan melepasi deretan gerai makanan dan barangan di sebuah pasar malam Malaysia yang sibuk pada waktu petang",
+        "subject": "Sebuah pasar malam di Seri Kembangan, Selangor, satu suasana jalanan Malaysia yang berbilang bahasa sehari-hari"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah jalan ruko di George Town yang toko-tokonya memasang papan nama dalam bahasa Inggris, Tamil, Tionghoa, dan Melayu berdampingan",
+        "subject": "Sebuah jalan Little India di George Town, Penang, dipenuhi papan nama toko dalam beberapa bahasa dan aksara"
+      },
+      {
+        "alt": "Pembeli berjalan melewati deretan lapak makanan dan barang di sebuah pasar malam Malaysia yang ramai pada malam hari",
+        "subject": "Sebuah pasar malam di Seri Kembangan, Selangor, sebuah suasana jalanan Malaysia yang multibahasa sehari-hari"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một con phố nhà phố ở George Town nơi các cửa hàng treo bảng hiệu bằng tiếng Anh, tiếng Tamil, tiếng Hoa và tiếng Mã Lai cạnh nhau",
+        "subject": "Một con phố Little India ở George Town, Penang, san sát bảng hiệu cửa hàng bằng nhiều ngôn ngữ và chữ viết"
+      },
+      {
+        "alt": "Người mua sắm đi ngang qua các dãy quầy bán thức ăn và hàng hóa tại một khu chợ đêm Malaysia nhộn nhịp vào buổi tối",
+        "subject": "Một khu chợ đêm (pasar malam) ở Seri Kembangan, Selangor, một khung cảnh đường phố Malaysia đa ngôn ngữ thường ngày"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஜார்ஜ் டவுனில் கடைகள் ஆங்கிலம், தமிழ், சீனம், மலாய் ஆகிய மொழிகளில் அடுத்தடுத்து அறிவிப்புப் பலகைகளைக் கொண்டிருக்கும் ஒரு கடை-வீடு தெரு",
+        "subject": "பினாங்கு ஜார்ஜ் டவுனில் பல மொழிகளிலும் எழுத்துக்களிலும் கடை அறிவிப்புப் பலகைகள் நிறைந்த ஒரு லிட்டில் இந்தியா தெரு"
+      },
+      {
+        "alt": "மாலை வேளையில் ஒரு பரபரப்பான மலேசிய இரவுச் சந்தையில் உணவு மற்றும் பொருட்கள் விற்கும் கடை வரிசைகளைக் கடந்து நடக்கும் வாங்குநர்கள்",
+        "subject": "சிலாங்கூர், செரி கெம்பாங்கானில் ஒரு இரவுச் சந்தை (பசார் மாலம்), அன்றாட பல்மொழி மலேசிய தெரு சூழல்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "जॉर्ज टाउन की एक शॉपहाउस सड़क, जहाँ दुकानों के मुखौटों पर अंग्रेज़ी, तमिल, चीनी और मलय में साथ-साथ साइनबोर्ड लगे हैं",
+        "subject": "पेनांग के जॉर्ज टाउन में एक लिटिल इंडिया सड़क, जहाँ कई भाषाओं और लिपियों में दुकानों के साइनबोर्ड लगे हैं"
+      },
+      {
+        "alt": "शाम को एक व्यस्त मलेशियाई रात्रि बाज़ार में भोजन और सामान के स्टॉलों की पंक्तियों के पास से गुज़रते खरीदार",
+        "subject": "सेलांगोर के सेरी केम्बांगान में एक पसार मलम (pasar malam, रात्रि बाज़ार), एक रोज़मर्रा का बहुभाषी मलेशियाई सड़क दृश्य"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "شارع مبانٍ تجارية سكنية في George Town حيث تحمل واجهات المحلات لافتات بالإنجليزية والتاميلية والصينية والملايوية جنبًا إلى جنب",
+        "subject": "شارع في Little India بـ George Town، Penang، تصطف على جانبيه لافتات محلات بعدّة لغات وخطوط"
+      },
+      {
+        "alt": "متسوّقون يمرّون بجانب صفوف من أكشاك الطعام والسلع في سوق ليلي ماليزي مزدحم في المساء",
+        "subject": "سوق ليلي (pasar malam) في Seri Kembangan، Selangor، مشهد شارع ماليزي يومي متعدّد اللغات"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una calle de casas-tienda de George Town donde las fachadas de los comercios lucen rótulos en inglés, tamil, chino y malayo unos junto a otros",
+        "subject": "Una calle de Little India en George Town, Penang, flanqueada por rótulos de comercios en varios idiomas y escrituras"
+      },
+      {
+        "alt": "Compradores paseando junto a hileras de puestos de comida y mercancías en un concurrido mercado nocturno malasio al anochecer",
+        "subject": "Un pasar malam (mercado nocturno) en Seri Kembangan, Selangor, un escenario callejero malasio cotidiano y multilingüe"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Une rue de maisons-boutiques de George Town où les devantures portent côte à côte des enseignes en anglais, tamoul, chinois et malais",
+        "subject": "Une rue de Little India à George Town, Penang, bordée d'enseignes de boutiques en plusieurs langues et écritures"
+      },
+      {
+        "alt": "Des clients passant devant des rangées d'étals de nourriture et de marchandises dans un marché de nuit malaisien animé, en soirée",
+        "subject": "Un pasar malam (marché de nuit) à Seri Kembangan, Selangor, une scène de rue malaisienne quotidienne et multilingue"
+      }
+    ]
+  },
+  "arts-culture/mariamman-worship": {
+    "zh": [
+      {
+        "alt": "乔治市玛丽安曼庙雕饰精美的塔门（gopuram），布满色彩鲜艳的印度教神祇人像",
+        "subject": "斯里玛哈玛丽安曼庙（Sri Mahamariamman Temple），位于槟城乔治市，是城中最古老、供奉女神玛丽安曼的印度教庙宇"
+      },
+      {
+        "alt": "一座玛丽安曼庙的列柱式内殿祈祷厅，天花板绘有彩画，一座座神龛朝向内殿",
+        "subject": "槟城乔治市玛丽安曼庙的内殿祈祷厅"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ジョージタウンのマリアマン寺院の彫刻された塔門（ゴープラム）。ヒンドゥー教の神々の鮮やかに彩色された像で覆われている",
+        "subject": "スリ・マハマリアマン寺院、ペナン・ジョージタウン。女神マリアマンを祀る、市内最古のヒンドゥー教寺院"
+      },
+      {
+        "alt": "列柱の立つマリアマン寺院の内部祈祷堂。彩色された天井と、至聖所へ向かう祠が並ぶ",
+        "subject": "ペナン・ジョージタウンのマリアマン寺院の内部祈祷堂"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "조지타운 마리암만 사원의 조각된 탑문(고푸람)으로, 선명하게 채색된 힌두교 신들의 상으로 뒤덮여 있다",
+        "subject": "스리 마하마리암만 사원, 페낭 조지타운. 여신 마리암만을 모신 시내에서 가장 오래된 힌두교 사원"
+      },
+      {
+        "alt": "기둥이 늘어선 마리암만 사원의 내부 기도실로, 채색된 천장과 지성소를 향한 신전들이 있다",
+        "subject": "페낭 조지타운 마리암만 사원의 내부 기도실"
+      }
+    ],
+    "th": [
+      {
+        "alt": "โคปุรัมแกะสลักของวัดมาริอัมมันในจอร์จทาวน์ ปกคลุมด้วยรูปปั้นเทพเจ้าฮินดูที่ทาสีสดใส",
+        "subject": "วัดศรีมหามาริอัมมันในจอร์จทาวน์ รัฐปีนัง วัดฮินดูที่เก่าแก่ที่สุดในเมืองซึ่งอุทิศแด่เทวีมาริอัมมัน"
+      },
+      {
+        "alt": "ห้องสวดมนต์ภายในที่มีเสาเรียงรายของวัดมาริอัมมัน พร้อมเพดานเขียนสีและศาลเจ้าที่หันไปทางห้องศักดิ์สิทธิ์",
+        "subject": "ห้องสวดมนต์ภายในของวัดมาริอัมมันในจอร์จทาวน์ รัฐปีนัง"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Menara gopuram berukir kuil Mariamman di George Town, dipenuhi figura dewa-dewi Hindu yang dicat terang",
+        "subject": "Kuil Sri Mahamariamman di George Town, Pulau Pinang, kuil Hindu tertua di bandar itu yang didedikasikan kepada Dewi Mariamman"
+      },
+      {
+        "alt": "Dewan sembahyang dalaman bertiang sebuah kuil Mariamman, dengan siling bercat dan tempat pemujaan menghala ke arah bilik suci",
+        "subject": "Dewan sembahyang dalaman kuil Mariamman di George Town, Pulau Pinang"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Menara gopuram berpahat kuil Mariamman di George Town, penuh figur dewa-dewi Hindu yang dicat cerah",
+        "subject": "Kuil Sri Mahamariamman di George Town, Penang, kuil Hindu tertua di kota itu yang didedikasikan kepada Dewi Mariamman"
+      },
+      {
+        "alt": "Ruang ibadah bagian dalam bertiang sebuah kuil Mariamman, dengan langit-langit berlukis dan tempat pemujaan menghadap ke ruang suci",
+        "subject": "Ruang ibadah bagian dalam kuil Mariamman di George Town, Penang"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Tháp gopuram chạm khắc của đền Mariamman ở George Town, phủ kín các tượng thần Hindu được sơn màu rực rỡ",
+        "subject": "Đền Sri Mahamariamman ở George Town, Penang, ngôi đền Hindu lâu đời nhất thành phố thờ nữ thần Mariamman"
+      },
+      {
+        "alt": "Gian thờ bên trong có cột của một đền Mariamman, với trần nhà được vẽ và các điện thờ hướng về khu chính điện",
+        "subject": "Gian thờ bên trong đền Mariamman ở George Town, Penang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பிரகாசமாக வர்ணம் பூசப்பட்ட இந்து தெய்வ உருவங்களால் மூடப்பட்ட, ஜார்ஜ் டவுனில் உள்ள மாரியம்மன் கோயிலின் செதுக்கப்பட்ட கோபுர கோபுரம்",
+        "subject": "பினாங்கு ஜார்ஜ் டவுனில் உள்ள ஸ்ரீ மகாமாரியம்மன் கோயில், மாரியம்மன் தேவிக்கு அர்ப்பணிக்கப்பட்ட அந்நகரின் மிகப் பழமையான இந்துக் கோயில்"
+      },
+      {
+        "alt": "ஒரு மாரியம்மன் கோயிலின் தூண்களுடன் கூடிய உட்புற வழிபாட்டு மண்டபம், வர்ணம் பூசிய கூரைகளுடனும் கருவறையை நோக்கிய சந்நிதிகளுடனும்",
+        "subject": "பினாங்கு ஜார்ஜ் டவுனில் உள்ள மாரியம்மன் கோயிலின் உட்புற வழிபாட்டு மண்டபம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "जॉर्ज टाउन में Mariamman मंदिर का तराशा हुआ गोपुरम शिखर, जो हिंदू देवताओं की चटख रंगों में रंगी आकृतियों से ढका है",
+        "subject": "पेनांग के जॉर्ज टाउन में श्री महामारियम्मन मंदिर, देवी Mariamman को समर्पित शहर का सबसे पुराना हिंदू मंदिर"
+      },
+      {
+        "alt": "एक Mariamman मंदिर का स्तंभयुक्त भीतरी प्रार्थना कक्ष, जिसमें चित्रित छतें और गर्भगृह की ओर मंदिर-स्थल हैं",
+        "subject": "पेनांग के जॉर्ज टाउन में Mariamman मंदिर का भीतरी प्रार्थना कक्ष"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "برج المعبد المنحوت (gopuram) لمعبد Mariamman في George Town، مغطّى بتماثيل مطليّة بألوان زاهية لآلهة هندوسية",
+        "subject": "معبد Sri Mahamariamman في George Town، Penang، أقدم معبد هندوسي في المدينة مكرّس للإلهة Mariamman"
+      },
+      {
+        "alt": "قاعة الصلاة الداخلية ذات الأعمدة لمعبد Mariamman، بأسقف مرسومة ومزارات تتّجه نحو قُدس الأقداس",
+        "subject": "قاعة الصلاة الداخلية لمعبد Mariamman في George Town، Penang"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La torre gopuram esculpida del templo de Mariamman en George Town, cubierta de figuras de deidades hindúes pintadas con vivos colores",
+        "subject": "El templo Sri Mahamariamman en George Town, Penang, el templo hindú más antiguo de la ciudad dedicado a la diosa Mariamman"
+      },
+      {
+        "alt": "La sala de oración interior con columnas de un templo de Mariamman, con techos pintados y santuarios hacia el sanctasanctórum",
+        "subject": "La sala de oración interior del templo de Mariamman en George Town, Penang"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "La tour gopuram sculptée du temple de Mariamman à George Town, couverte de figures de divinités hindoues peintes de couleurs vives",
+        "subject": "Le temple Sri Mahamariamman à George Town, Penang, le plus ancien temple hindou de la ville dédié à la déesse Mariamman"
+      },
+      {
+        "alt": "La salle de prière intérieure à colonnes d'un temple de Mariamman, aux plafonds peints et aux sanctuaires orientés vers le saint des saints",
+        "subject": "La salle de prière intérieure du temple de Mariamman à George Town, Penang"
+      }
+    ]
+  },
+  "arts-culture/mazu-worship": {
+    "zh": [
+      {
+        "alt": "瓜拉登嘉楼一座历史悠久的华人妈祖庙华丽的屋顶与立面，屋脊饰有龙形装饰",
+        "subject": "和安宫，瓜拉登嘉楼一座妈祖（天后，海神）庙，是登嘉楼最古老的华人庙宇之一"
+      },
+      {
+        "alt": "一座海南妈祖庙的主殿，悬挂着灯笼，香烟缭绕，神龛配有鎏金饰件",
+        "subject": "槟城乔治市海南庙（Tokong Hainan）的内殿神坛，这是一座供奉海神妈祖的庙宇"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "クアラ・トレンガヌにある歴史的な華人の媽祖廟の、龍の棟飾りを備えた華麗な屋根と正面",
+        "subject": "和安宮。クアラ・トレンガヌの媽祖（天后、海の女神）廟で、トレンガヌ最古級の華人寺院の一つ"
+      },
+      {
+        "alt": "海南系の媽祖廟の本殿。吊り下げられた提灯、線香、金箔を施した祠の装飾が見られる",
+        "subject": "ペナン・ジョージタウンの海南廟（Tokong Hainan）の内部の祭壇。海の女神・媽祖を祀る寺院"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "쿠알라트렝가누에 있는 역사적인 중국식 마쭈 사당의 화려한 지붕과 정면으로, 용 모양 용마루 장식이 있다",
+        "subject": "허안궁(和安宮), 쿠알라트렝가누의 마쭈(천후, 바다의 여신) 사당으로, 트렝가누에서 가장 오래된 중국 사당 중 하나"
+      },
+      {
+        "alt": "하이난계 마쭈 사당의 본전으로, 등불이 걸려 있고 향이 피어오르며 신전에 금박 장식이 되어 있다",
+        "subject": "페낭 조지타운 하이난묘(Tokong Hainan)의 내부 제단, 바다의 여신 마쭈를 기리는 사당"
+      }
+    ],
+    "th": [
+      {
+        "alt": "หลังคาและด้านหน้าอันวิจิตรของศาลเจ้าแม่หม่าโจ้วจีนเก่าแก่ในกัวลาตรังกานู พร้อมเครื่องประดับมังกรบนสันหลังคา",
+        "subject": "ศาลเจ้าโฮอันเกียง ศาลเจ้าแม่หม่าโจ้ว (เทียนโฮ่ว เทพีแห่งท้องทะเล) ในกัวลาตรังกานู หนึ่งในศาลเจ้าจีนที่เก่าแก่ที่สุดในตรังกานู"
+      },
+      {
+        "alt": "ห้องแท่นบูชาหลักของศาลเจ้าแม่หม่าโจ้วชาวไหหลำในจอร์จทาวน์ พร้อมโคมแขวน ธูป และเครื่องประดับแท่นบูชาปิดทอง",
+        "subject": "แท่นบูชาภายในศาลเจ้าไหหลำ (Tokong Hainan) ในจอร์จทาวน์ รัฐปีนัง ศาลเจ้าที่บูชาเทพีแห่งท้องทะเลหม่าโจ้ว"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Bumbung dan fasad indah sebuah tokong Mazu Cina bersejarah di Kuala Terengganu, dengan hiasan naga di perabung",
+        "subject": "Ho Ann Kiong, sebuah tokong Mazu (Tian Hou, dewi laut) di Kuala Terengganu, antara tokong Cina tertua di Terengganu"
+      },
+      {
+        "alt": "Dewan altar utama sebuah tokong Mazu Hainan di George Town, dengan tanglung tergantung, colok dan kelengkapan altar bersadur emas",
+        "subject": "Altar dalaman Tokong Hainan di George Town, Pulau Pinang, sebuah tokong yang memuja dewi laut Mazu"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Atap dan fasad indah sebuah kelenteng Mazu Tionghoa bersejarah di Kuala Terengganu, dengan hiasan naga di bubungan",
+        "subject": "Ho Ann Kiong, sebuah kelenteng Mazu (Tian Hou, dewi laut) di Kuala Terengganu, salah satu kelenteng Tionghoa tertua di Terengganu"
+      },
+      {
+        "alt": "Ruang altar utama sebuah kelenteng Mazu Hainan di George Town, dengan lampion tergantung, hio, dan perlengkapan altar bersepuh emas",
+        "subject": "Altar bagian dalam Kelenteng Hainan (Tokong Hainan) di George Town, Penang, sebuah kelenteng yang memuja dewi laut Mazu"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Mái và mặt tiền lộng lẫy của một ngôi đền Mazu người Hoa lịch sử ở Kuala Terengganu, với họa tiết rồng trên bờ nóc",
+        "subject": "Ho Ann Kiong, một ngôi đền Mazu (Thiên Hậu, nữ thần biển) ở Kuala Terengganu, một trong những ngôi đền người Hoa lâu đời nhất ở Terengganu"
+      },
+      {
+        "alt": "Gian bàn thờ chính của một ngôi đền Mazu người Hải Nam ở George Town, với đèn lồng treo, nhang và đồ thờ dát vàng",
+        "subject": "Bàn thờ bên trong Đền Hải Nam (Tokong Hainan) ở George Town, Penang, một ngôi đền thờ nữ thần biển Mazu"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கோலாத் தெரங்கானுவில் ஒரு வரலாற்றுச் சீன மாசூ கோயிலின் அலங்கார கூரையும் முகப்பும், கூரை முகட்டில் டிராகன் அலங்காரங்களுடன்",
+        "subject": "ஹோ ஆன் கியோங், கோலாத் தெரங்கானுவில் ஒரு மாசூ (தியான் ஹூ, கடல் தேவி) கோயில், தெரங்கானுவின் மிகப் பழமையான சீனக் கோயில்களில் ஒன்று"
+      },
+      {
+        "alt": "ஜார்ஜ் டவுனில் ஒரு ஹைனான் மாசூ கோயிலின் முதன்மை பீட மண்டபம், தொங்கும் விளக்குகள், ஊதுபத்தி மற்றும் தங்க முலாம் பூசிய சந்நிதி அலங்காரங்களுடன்",
+        "subject": "கடல் தேவி மாசூவை வழிபடும் கோயிலான, பினாங்கு ஜார்ஜ் டவுனில் உள்ள ஹைனான் கோயிலின் (டோகோங் ஹைனான்) உட்புற பீடம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कुआला तेरेंगानु में एक ऐतिहासिक चीनी Mazu मंदिर की अलंकृत छत और अग्रभाग, जिसकी छत के शिखर पर ड्रैगन की सजावट है",
+        "subject": "हो आन कियोंग, कुआला तेरेंगानु में एक Mazu (तियान होउ, समुद्र की देवी) मंदिर, तेरेंगानु के सबसे पुराने चीनी मंदिरों में से एक"
+      },
+      {
+        "alt": "जॉर्ज टाउन में एक हैनानी Mazu मंदिर का मुख्य वेदी-कक्ष, जहाँ लटकते लालटेन, अगरबत्ती और सुनहरे मंदिर-साज हैं",
+        "subject": "पेनांग के जॉर्ज टाउन में हैनान मंदिर (Tokong Hainan) की भीतरी वेदी, समुद्र-देवी Mazu का सम्मान करने वाला एक मंदिर"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "السقف والواجهة المزخرفان لمعبد Mazu صيني تاريخي في Kuala Terengganu، بزخارف تنانين على حافة السقف",
+        "subject": "Ho Ann Kiong، معبد Mazu (Tian Hou، إلهة البحر) في Kuala Terengganu، من أقدم المعابد الصينية في Terengganu"
+      },
+      {
+        "alt": "قاعة المذبح الرئيسية لمعبد Mazu الهايناني في George Town، مع فوانيس معلّقة وبخور وتجهيزات مزار مذهّبة",
+        "subject": "المذبح الداخلي لمعبد Hainan (Tokong Hainan) في George Town، Penang، وهو معبد يكرّم إلهة البحر Mazu"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El tejado y la fachada ornamentados de un histórico templo chino de Mazu en Kuala Terengganu, con decoraciones de dragones en la cumbrera",
+        "subject": "Ho Ann Kiong, un templo de Mazu (Tian Hou, diosa del mar) en Kuala Terengganu, uno de los templos chinos más antiguos de Terengganu"
+      },
+      {
+        "alt": "La sala principal del altar de un templo de Mazu hainanés en George Town, con farolillos colgantes, incienso y ornamentos de santuario dorados",
+        "subject": "El altar interior del Templo de Hainan (Tokong Hainan) en George Town, Penang, un templo que honra a la diosa del mar Mazu"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Le toit et la façade ornementés d'un temple chinois historique de Mazu à Kuala Terengganu, avec des décorations de dragons sur le faîte",
+        "subject": "Ho Ann Kiong, un temple de Mazu (Tian Hou, déesse de la mer) à Kuala Terengganu, parmi les plus anciens temples chinois du Terengganu"
+      },
+      {
+        "alt": "La salle principale de l'autel d'un temple de Mazu hainanais à George Town, avec des lanternes suspendues, de l'encens et des ornements de sanctuaire dorés",
+        "subject": "L'autel intérieur du temple de Hainan (Tokong Hainan) à George Town, Penang, un temple honorant la déesse de la mer Mazu"
+      }
+    ]
+  },
+  "arts-culture/national-cultural-policy": {
+    "zh": [
+      {
+        "alt": "一群身着砂拉越传统服饰的舞者在台上为观众表演一支民间舞蹈",
+        "subject": "身着传统服饰的表演者在马来西亚一场文化展演中呈献砂拉越民间舞蹈"
+      },
+      {
+        "alt": "马来西亚国家博物馆的正面，这是一座拥有米南加保尖顶屋顶与大型瓷砖壁画镶板的建筑",
+        "subject": "吉隆坡的马来西亚国家博物馆（Muzium Negara），拥有米南加保风格屋顶与文化遗产马赛克壁画"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "サラワクの伝統衣装をまとった一団の踊り手が、観客のために舞台で民俗舞踊を披露している",
+        "subject": "伝統衣装をまとった出演者が、マレーシアの文化披露の場でサラワクの民俗舞踊を演じる様子"
+      },
+      {
+        "alt": "マレーシア国立博物館の正面。ミナンカバウ様式の尖った屋根と大きなタイル張りの壁画パネルを備えた建物",
+        "subject": "クアラルンプールのマレーシア国立博物館（Muzium Negara）。ミナンカバウ様式の屋根と文化遺産を描いたモザイク壁画をもつ"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "사라왁 전통 의상을 입은 한 무리의 무용수가 관객 앞 무대에서 민속춤을 선보이고 있다",
+        "subject": "전통 의상을 입은 공연자들이 말레이시아의 한 문화 공연에서 사라왁 민속춤을 선보이는 모습"
+      },
+      {
+        "alt": "말레이시아 국립박물관의 정면으로, 미낭카바우 양식의 뾰족한 지붕과 큰 타일 벽화 패널을 갖춘 건물이다",
+        "subject": "쿠알라룸푸르의 말레이시아 국립박물관(Muzium Negara), 미낭카바우 양식 지붕과 문화유산 모자이크 벽화를 지님"
+      }
+    ],
+    "th": [
+      {
+        "alt": "คณะนักแสดงในชุดดั้งเดิมของซาราวักแสดงระบำพื้นเมืองบนเวทีต่อหน้าผู้ชม",
+        "subject": "นักแสดงในชุดดั้งเดิมแสดงระบำพื้นเมืองของซาราวักในงานแสดงวัฒนธรรมในมาเลเซีย"
+      },
+      {
+        "alt": "ด้านหน้าของพิพิธภัณฑ์แห่งชาติมาเลเซีย อาคารที่มีหลังคายอดแหลมแบบมีนังกาเบาและแผงจิตรกรรมโมเสกกระเบื้องขนาดใหญ่",
+        "subject": "พิพิธภัณฑ์แห่งชาติมาเลเซีย (Muzium Negara) ในกรุงกัวลาลัมเปอร์ ที่มีหลังคาแบบมีนังกาเบาและภาพจิตรกรรมโมเสกมรดกวัฒนธรรม"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sekumpulan penari berpakaian tradisional Sarawak mempersembahkan tarian rakyat di atas pentas kepada penonton",
+        "subject": "Penghibur berpakaian tradisional mempersembahkan tarian rakyat Sarawak pada sebuah pameran kebudayaan di Malaysia"
+      },
+      {
+        "alt": "Bahagian hadapan Muzium Negara Malaysia, sebuah bangunan dengan bumbung melentik gaya Minangkabau dan panel mural mozek yang besar",
+        "subject": "Muzium Negara Malaysia di Kuala Lumpur, dengan bumbung gaya Minangkabau dan mural mozek warisan"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sekelompok penari berbusana tradisional Sarawak mementaskan tarian rakyat di atas panggung untuk penonton",
+        "subject": "Penampil berbusana tradisional mementaskan tarian rakyat Sarawak pada sebuah pergelaran budaya di Malaysia"
+      },
+      {
+        "alt": "Bagian depan Museum Nasional Malaysia, sebuah bangunan dengan atap melengkung gaya Minangkabau dan panel mural mozaik yang besar",
+        "subject": "Museum Nasional Malaysia (Muzium Negara) di Kuala Lumpur, dengan atap gaya Minangkabau dan mural mozaik warisan"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một nhóm vũ công trong trang phục truyền thống Sarawak biểu diễn điệu múa dân gian trên sân khấu trước khán giả",
+        "subject": "Nghệ sĩ trong trang phục truyền thống biểu diễn điệu múa dân gian Sarawak tại một chương trình văn hóa ở Malaysia"
+      },
+      {
+        "alt": "Mặt trước của Bảo tàng Quốc gia Malaysia, một tòa nhà với mái nhọn kiểu Minangkabau và các tấm bích họa khảm lớn",
+        "subject": "Bảo tàng Quốc gia Malaysia (Muzium Negara) ở Kuala Lumpur, với mái kiểu Minangkabau và bích họa khảm di sản"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பாரம்பரிய சரவாக் உடை அணிந்த நடனக் கலைஞர்கள் குழு ஒன்று பார்வையாளர்களுக்காக மேடையில் நாட்டுப்புற நடனம் ஆடுகிறது",
+        "subject": "மலேசியாவில் ஒரு பண்பாட்டு நிகழ்வில் பாரம்பரிய உடையில் சரவாக் நாட்டுப்புற நடனத்தை நிகழ்த்தும் கலைஞர்கள்"
+      },
+      {
+        "alt": "மலேசிய தேசிய அருங்காட்சியகத்தின் முன்பகுதி, மேல்நோக்கி வளைந்த மினாங்கபாவ் பாணி கூரையும் பெரிய ஓடு பதித்த சுவரோவியப் பலகைகளும் கொண்ட கட்டிடம்",
+        "subject": "கோலாலம்பூரில் உள்ள மலேசிய தேசிய அருங்காட்சியகம் (மியூசியம் நெகாரா), மினாங்கபாவ் பாணி கூரையும் பாரம்பரிய ஓட்டு சுவரோவியங்களும் கொண்டது"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "पारंपरिक सरवाकी वेशभूषा में नर्तकों का एक समूह मंच पर दर्शकों के लिए एक लोकनृत्य प्रस्तुत करता हुआ",
+        "subject": "मलेशिया में एक सांस्कृतिक प्रदर्शन में पारंपरिक वेशभूषा में सरवाक लोकनृत्य प्रस्तुत करते कलाकार"
+      },
+      {
+        "alt": "मलेशिया के राष्ट्रीय संग्रहालय का अग्रभाग, एक इमारत जिसकी मिनांगकाबाउ नुकीली छत और बड़े टाइलदार भित्तिचित्र पैनल हैं",
+        "subject": "कुआलालंपुर में मलेशिया का राष्ट्रीय संग्रहालय (Muzium Negara), जिसकी मिनांगकाबाउ-शैली की छत और विरासत मोज़ेक भित्तिचित्र हैं"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "مجموعة من الراقصين بالأزياء التقليدية لـ Sarawak يؤدّون رقصة شعبية على المسرح أمام الجمهور",
+        "subject": "فنّانون بالأزياء التقليدية يقدّمون رقصة شعبية من Sarawak في عرض ثقافي في ماليزيا"
+      },
+      {
+        "alt": "واجهة المتحف الوطني الماليزي، وهو مبنى ذو سقف مدبّب بطراز Minangkabau وألواح جداريات مبلّطة كبيرة",
+        "subject": "المتحف الوطني الماليزي (Muzium Negara) في Kuala Lumpur، بسقفه بطراز Minangkabau وجدارياته الفسيفسائية التراثية"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un grupo de bailarines con vestimenta tradicional de Sarawak interpretando una danza folclórica en un escenario ante el público",
+        "subject": "Artistas con vestimenta tradicional presentando una danza folclórica de Sarawak en una muestra cultural en Malasia"
+      },
+      {
+        "alt": "La fachada del Museo Nacional de Malasia, un edificio con un tejado apuntado minangkabau y grandes paneles murales de azulejos",
+        "subject": "El Museo Nacional de Malasia (Muzium Negara) en Kuala Lumpur, con su tejado de estilo minangkabau y murales de mosaico patrimoniales"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un groupe de danseurs en costume traditionnel de Sarawak interprétant une danse folklorique sur scène devant un public",
+        "subject": "Des artistes en costume traditionnel présentant une danse folklorique de Sarawak lors d'une vitrine culturelle en Malaisie"
+      },
+      {
+        "alt": "La façade du Musée national de Malaisie, un bâtiment au toit pointu minangkabau et aux grands panneaux muraux carrelés",
+        "subject": "Le Musée national de Malaisie (Muzium Negara) à Kuala Lumpur, avec son toit de style minangkabau et ses fresques en mosaïque patrimoniales"
+      }
+    ]
+  },
+  "arts-culture/navaratri": {
+    "zh": [
+      {
+        "alt": "舞者身着色彩鲜艳的传统服饰，在欢快的九夜节 Garba 舞中围成圆圈起舞",
+        "subject": "九夜节（Navaratri）期间表演的 Garba 民间舞蹈，是这一节庆标志性的集体庆祝活动之一"
+      },
+      {
+        "alt": "九夜节 golu 节庆玩偶陈列的阶梯上，精心摆放着小巧的装饰性鸟形与人形玩偶",
+        "subject": "九夜节 golu（kolu）节庆玩偶陈列上摆放的小塑像特写"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "色鮮やかな伝統衣装をまとった踊り手たちが、活気あるナヴァラートリのガルバ舞踊で輪になって踊る",
+        "subject": "ナヴァラートリの折に踊られるガルバの民俗舞踊。この祭りを象徴する共同体の祝祭の一つ"
+      },
+      {
+        "alt": "ナヴァラートリのゴルの人形飾りの段に、小さな装飾的な鳥や人物の人形が丁寧に並べられている",
+        "subject": "ナヴァラートリのゴル（kolu）の祭りの人形飾りに並ぶ小さな人形の接写"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "선명한 색의 전통 의상을 입은 무용수들이 활기찬 나바라트리 가르바 춤에서 원을 이루며 춤춘다",
+        "subject": "나바라트리(Navaratri) 기간에 추는 가르바 민속춤, 이 축제를 대표하는 공동체 축제 중 하나"
+      },
+      {
+        "alt": "나바라트리 골루 축제 인형 전시의 계단에 작은 장식용 새와 인물 인형들이 정성스레 놓여 있다",
+        "subject": "나바라트리 골루(kolu) 축제 인형 전시에 놓인 작은 인형들의 근접 모습"
+      }
+    ],
+    "th": [
+      {
+        "alt": "นักเต้นในชุดดั้งเดิมสีสันสดใสเคลื่อนไหวเป็นวงกลมในการเต้นการ์บาอันคึกคักช่วงเทศกาลนวราตรี",
+        "subject": "การเต้นพื้นเมืองการ์บาที่แสดงในช่วงเทศกาลนวราตรี หนึ่งในการเฉลิมฉลองร่วมกันอันเป็นเอกลักษณ์ของเทศกาล"
+      },
+      {
+        "alt": "ตุ๊กตานกและรูปคนตกแต่งขนาดเล็กจัดวางอย่างประณีตบนชั้นบันไดของการจัดแสดงตุ๊กตาโกลูในเทศกาลนวราตรี",
+        "subject": "ภาพระยะใกล้ของตุ๊กตาที่จัดวางบนการแสดงตุ๊กตาโกลู (golu/kolu) ในเทศกาลนวราตรี"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Penari berpakaian tradisional berwarna-warni bergerak dalam bulatan semasa tarian Garba Navaratri yang rancak",
+        "subject": "Tarian rakyat Garba yang dipersembahkan semasa Navaratri, salah satu sambutan beramai-ramai yang menjadi ciri khas perayaan itu"
+      },
+      {
+        "alt": "Patung-patung burung dan figura hiasan yang kecil disusun dengan teliti di atas tangga bertingkat sebuah paparan golu Navaratri",
+        "subject": "Pandangan dekat patung-patung yang disusun pada sebuah paparan anak patung golu (kolu) perayaan Navaratri"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Penari berbusana tradisional warna-warni bergerak melingkar saat tarian Garba Navaratri yang meriah",
+        "subject": "Tarian rakyat Garba yang dipentaskan saat Navaratri, salah satu perayaan komunal yang menjadi ciri khas festival itu"
+      },
+      {
+        "alt": "Patung-patung burung dan figur hias kecil disusun dengan cermat di tangga bertingkat sebuah pajangan golu Navaratri",
+        "subject": "Tampak dekat patung-patung yang disusun pada sebuah pajangan boneka golu (kolu) festival Navaratri"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những vũ công trong trang phục truyền thống nhiều màu sắc di chuyển thành vòng tròn trong điệu múa Garba Navaratri sôi động",
+        "subject": "Điệu múa dân gian Garba được trình diễn trong dịp Navaratri, một trong những lễ mừng cộng đồng tiêu biểu của lễ hội"
+      },
+      {
+        "alt": "Những bức tượng chim và tượng nhỏ trang trí được sắp xếp cẩn thận trên các bậc thang của một gian trưng bày búp bê golu Navaratri",
+        "subject": "Cận cảnh các bức tượng được sắp xếp trên một gian trưng bày búp bê golu (kolu) lễ hội Navaratri"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கலகலப்பான நவராத்திரி கர்பா நடனத்தின்போது வண்ணமயமான பாரம்பரிய உடையில் வட்டமாக நகரும் நடனக் கலைஞர்கள்",
+        "subject": "நவராத்திரியின்போது நிகழ்த்தப்படும் கர்பா நாட்டுப்புற நடனம், இப்பண்டிகையின் தனிச்சிறப்புமிக்க கூட்டு கொண்டாட்டங்களில் ஒன்று"
+      },
+      {
+        "alt": "ஒரு நவராத்திரி கொலு காட்சியின் அடுக்குப் படிகளில் கவனமாக அடுக்கப்பட்ட சிறிய அலங்காரப் பறவை மற்றும் உருவப் பொம்மைகள்",
+        "subject": "ஒரு நவராத்திரி கொலு பொம்மை காட்சியில் அடுக்கப்பட்ட உருவங்களின் அருகிலான காட்சி"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक जीवंत नवरात्रि गरबा नृत्य के दौरान रंगीन पारंपरिक वेशभूषा में घेरे में घूमते नर्तक",
+        "subject": "नवरात्रि के दौरान प्रस्तुत एक गरबा लोकनृत्य, त्योहार के विशिष्ट सामूहिक उत्सवों में से एक"
+      },
+      {
+        "alt": "एक नवरात्रि गोलू प्रदर्शनी के सीढ़ीनुमा चरणों पर सावधानी से सजाई गई छोटी सजावटी पक्षी और आकृति गुड़ियाँ",
+        "subject": "एक नवरात्रि गोलू (कोलु) उत्सव गुड़िया प्रदर्शनी पर सजाई गई मूर्तियों का निकट दृश्य"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "راقصون بأزياء تقليدية ملوّنة يتحرّكون في دائرة خلال رقصة Garba نابضة بالحياة في Navaratri",
+        "subject": "رقصة Garba الشعبية تُؤدّى خلال Navaratri، وهي من الاحتفالات الجماعية المميّزة للمهرجان"
+      },
+      {
+        "alt": "دمى صغيرة زخرفية على هيئة طيور وشخصيات مرتّبة بعناية على الدرجات المتدرّجة لعرض golu في Navaratri",
+        "subject": "منظر قريب لتماثيل مرتّبة على عرض الدمى في مهرجان golu (kolu) بمناسبة Navaratri"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Bailarines con coloridos trajes tradicionales moviéndose en círculo durante una animada danza Garba de Navaratri",
+        "subject": "Una danza folclórica Garba interpretada durante Navaratri, una de las celebraciones comunitarias emblemáticas de la festividad"
+      },
+      {
+        "alt": "Pequeñas muñecas decorativas de aves y figuras dispuestas con esmero en los peldaños escalonados de una exhibición golu de Navaratri",
+        "subject": "Vista de cerca de las figurillas dispuestas en una exhibición de muñecas del festival golu (kolu) de Navaratri"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des danseurs en costumes traditionnels colorés évoluant en cercle lors d'une danse Garba animée de Navaratri",
+        "subject": "Une danse folklorique Garba exécutée pendant Navaratri, l'une des célébrations communautaires emblématiques de la fête"
+      },
+      {
+        "alt": "De petites poupées décoratives d'oiseaux et de personnages soigneusement disposées sur les gradins d'une présentation golu de Navaratri",
+        "subject": "Vue rapprochée de figurines disposées sur une présentation de poupées du festival golu (kolu) de Navaratri"
+      }
+    ]
+  },
+  "arts-culture/nine-emperor-gods-festival": {
+    "zh": [
+      {
+        "alt": "九皇爷诞期间槟城北海（应为 Kepala Batas）一座装饰一新的庙宇，挂满灯笼、黄色幡旗与供品",
+        "subject": "槟城甲抛峇底（Kepala Batas）一座庙宇举行的九皇爷诞（Kew Ong Yah）庆典"
+      },
+      {
+        "alt": "一座华丽的礼仪牌楼，通往北海斗母宫九皇爷庙的庙宇院落",
+        "subject": "槟城北海斗母宫（Tow Boo Kong）九皇爷庙装饰华丽的牌楼"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "九皇爺祭の折に飾り付けられたクパラ・バタスの寺院。提灯、黄色の幟、供物が見られる",
+        "subject": "ペナン州クパラ・バタスの寺院で営まれる九皇爺祭（Kew Ong Yah）"
+      },
+      {
+        "alt": "バターワースの斗母宮九皇爺廟の境内へと続く、華麗な儀礼用の牌楼",
+        "subject": "ペナン州バターワースの斗母宮（Tow Boo Kong）九皇爺廟の飾られた牌楼"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "구황야 축제 때 장식한 크팔라 바타스의 한 사당으로, 등불과 노란 깃발, 공물이 보인다",
+        "subject": "페낭주 크팔라 바타스의 한 사당에서 열리는 구황야(Kew Ong Yah) 축제"
+      },
+      {
+        "alt": "버터워스의 두무궁 구황야 사당 경내로 이어지는 화려한 의례용 패루",
+        "subject": "페낭주 버터워스 두무궁(Tow Boo Kong) 구황야 사당의 장식된 패루"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ศาลเจ้าที่ประดับตกแต่งในช่วงเทศกาลกิวอ๋องเอี๋ยที่เกอปาลาบาตัส พร้อมโคม ธงสีเหลือง และเครื่องเซ่น",
+        "subject": "เทศกาลเก้าอ๋องเอี๋ย (Kew Ong Yah) ที่ศาลเจ้าแห่งหนึ่งในเกอปาลาบาตัส รัฐปีนัง"
+      },
+      {
+        "alt": "ซุ้มประตูพิธีอันวิจิตรที่นำไปสู่บริเวณศาลเจ้าเก้าอ๋องเอี๋ยโต้วบ๊อก้งในบัตเตอร์เวิร์ธ",
+        "subject": "ซุ้มประตูที่ประดับตกแต่งของศาลเจ้าเก้าอ๋องเอี๋ยโต้วบ๊อก้ง (Tow Boo Kong) ในบัตเตอร์เวิร์ธ รัฐปีนัง"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah tokong yang berhias semasa Perayaan Sembilan Maharaja Dewa di Kepala Batas, dengan tanglung, panji-panji kuning dan persembahan",
+        "subject": "Perayaan Sembilan Maharaja Dewa (Kew Ong Yah) disambut di sebuah tokong di Kepala Batas, Pulau Pinang"
+      },
+      {
+        "alt": "Sebuah gerbang istiadat berhias yang menuju ke perkarangan Tokong Sembilan Maharaja Dewa Tow Boo Kong di Butterworth",
+        "subject": "Gerbang berhias Tokong Sembilan Maharaja Dewa Tow Boo Kong di Butterworth, Pulau Pinang"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah kelenteng yang dihias saat Festival Sembilan Dewa Kaisar di Kepala Batas, dengan lampion, panji-panji kuning, dan sesajen",
+        "subject": "Festival Sembilan Dewa Kaisar (Kew Ong Yah) dirayakan di sebuah kelenteng di Kepala Batas, Penang"
+      },
+      {
+        "alt": "Sebuah gerbang upacara berhias yang menuju ke pelataran Kelenteng Sembilan Dewa Kaisar Tow Boo Kong di Butterworth",
+        "subject": "Gerbang berhias Kelenteng Sembilan Dewa Kaisar Tow Boo Kong di Butterworth, Penang"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một ngôi đền được trang hoàng trong dịp Lễ hội Cửu Hoàng Gia ở Kepala Batas, với đèn lồng, cờ phướn vàng và lễ vật",
+        "subject": "Lễ hội Cửu Hoàng Gia (Kew Ong Yah) được cử hành tại một ngôi đền ở Kepala Batas, Penang"
+      },
+      {
+        "alt": "Một cổng nghi lễ trang trí công phu dẫn vào khuôn viên Đền Cửu Hoàng Gia Tow Boo Kong ở Butterworth",
+        "subject": "Cổng trang trí của Đền Cửu Hoàng Gia Tow Boo Kong ở Butterworth, Penang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கெபாலா படாஸில் ஒன்பது பேரரசத் தெய்வங்கள் திருவிழாவின்போது அலங்கரிக்கப்பட்ட ஒரு கோயில், விளக்குகள், மஞ்சள் கொடிகள் மற்றும் படையல்களுடன்",
+        "subject": "பினாங்கு, கெபாலா படாஸில் ஒரு கோயிலில் கொண்டாடப்படும் ஒன்பது பேரரசத் தெய்வங்கள் திருவிழா (கியூ ஓங் யா)"
+      },
+      {
+        "alt": "பட்டர்வொர்த்தில் தௌ பூ கோங் ஒன்பது பேரரசத் தெய்வங்கள் கோயில் வளாகத்திற்குள் செல்லும் ஒரு அலங்கார சடங்கு வளைவு",
+        "subject": "பினாங்கு, பட்டர்வொர்த்தில் உள்ள தௌ பூ கோங் ஒன்பது பேரரசத் தெய்வங்கள் கோயிலின் அலங்கார வளைவு"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "केपाला बातास में नवसम्राट देव उत्सव के दौरान एक सजा हुआ मंदिर, जहाँ लालटेन, पीले बैनर और प्रसाद हैं",
+        "subject": "पेनांग के केपाला बातास में एक मंदिर में मनाया जाने वाला नवसम्राट देव उत्सव (Nine Emperor Gods Festival, Kew Ong Yah)"
+      },
+      {
+        "alt": "बटरवर्थ में टाउ बू कोंग नवसम्राट देव मंदिर परिसर की ओर जाता एक अलंकृत अनुष्ठानिक तोरण",
+        "subject": "पेनांग के बटरवर्थ में टाउ बू कोंग नवसम्राट देव मंदिर का सजा हुआ तोरण"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "معبد مزيّن خلال مهرجان الآلهة الأباطرة التسعة في Kepala Batas، بالفوانيس والرايات الصفراء والقرابين",
+        "subject": "مهرجان الآلهة الأباطرة التسعة (Nine Emperor Gods Festival، Kew Ong Yah) يُحتفى به في معبد بـ Kepala Batas، Penang"
+      },
+      {
+        "alt": "بوابة احتفالية مزخرفة تؤدّي إلى حرم معبد الآلهة الأباطرة التسعة Tow Boo Kong في Butterworth",
+        "subject": "البوابة المزخرفة لمعبد الآلهة الأباطرة التسعة Tow Boo Kong في Butterworth، Penang"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un templo engalanado durante la Fiesta de los Nueve Dioses Emperadores en Kepala Batas, con farolillos, estandartes amarillos y ofrendas",
+        "subject": "La Fiesta de los Nueve Dioses Emperadores (Kew Ong Yah) celebrada en un templo de Kepala Batas, Penang"
+      },
+      {
+        "alt": "Un ornamentado arco ceremonial que da acceso al recinto del templo de los Nueve Dioses Emperadores Tow Boo Kong en Butterworth",
+        "subject": "El arco engalanado del Templo de los Nueve Dioses Emperadores Tow Boo Kong en Butterworth, Penang"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un temple décoré pendant la Fête des Neuf Dieux Empereurs à Kepala Batas, avec des lanternes, des bannières jaunes et des offrandes",
+        "subject": "La Fête des Neuf Dieux Empereurs (Kew Ong Yah) célébrée dans un temple à Kepala Batas, Penang"
+      },
+      {
+        "alt": "Une arche cérémonielle ornementée menant à l'enceinte du temple des Neuf Dieux Empereurs Tow Boo Kong à Butterworth",
+        "subject": "L'arche décorée du temple des Neuf Dieux Empereurs Tow Boo Kong à Butterworth, Penang"
+      }
+    ]
+  },
+  "arts-culture/orang-asli": {
+    "zh": [
+      {
+        "alt": "一名玛美里（Mah Meri）表演者戴着雕刻的木制祖灵面具、身着褶状棕榈叶服饰，在吉隆坡一场露天文化展演中为观众表演 Mayin Jo'oh 舞",
+        "subject": "玛美里（Mah Meri）Mayin Jo'oh 面具舞，在吉隆坡一场文化展演中演出"
+      },
+      {
+        "alt": "吉隆坡原住民手工艺博物馆的入口，招牌旁立着一尊高大的雕木原住民（Orang Asli）雕像，四周绿意环绕",
+        "subject": "原住民手工艺博物馆（Muzium Seni Kraf Orang Asli），吉隆坡"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マー・メリの演者が、彫刻された木製の祖霊の仮面とひだ状の椰子葉の衣装をまとい、野外の文化披露の場で観客を前にマイン・ジョオを踊る",
+        "subject": "マー・メリのマイン・ジョオの仮面舞踊。クアラルンプールの文化披露の場で上演"
+      },
+      {
+        "alt": "クアラルンプールのオラン・アスリ工芸博物館の入口。看板の傍らに大きな木彫りのオラン・アスリ像が立ち、周囲に熱帯の植栽が広がる",
+        "subject": "オラン・アスリ工芸博物館（Muzium Seni Kraf Orang Asli）、クアラルンプール"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "마 메리 공연자가 조각한 나무 조상령 가면과 주름진 야자잎 의상을 걸치고 쿠알라룸푸르의 야외 문화 공연에서 관객 앞에 마인 조오 춤을 춘다",
+        "subject": "마 메리(Mah Meri)의 마인 조오 가면춤, 쿠알라룸푸르의 한 문화 공연에서 상연"
+      },
+      {
+        "alt": "쿠알라룸푸르 오랑 아슬리 공예박물관 입구로, 간판 옆에 큰 나무 조각 오랑 아슬리 상이 서 있고 주위에 열대 식재가 우거져 있다",
+        "subject": "오랑 아슬리 공예박물관(Muzium Seni Kraf Orang Asli), 쿠알라룸푸르"
+      }
+    ],
+    "th": [
+      {
+        "alt": "นักแสดงชาวมะฮ์เมอรีสวมหน้ากากไม้แกะสลักรูปวิญญาณบรรพชนและชุดใบปาล์มจีบ เต้นระบำมายินโจโอห์ต่อหน้าผู้ชมในงานแสดงวัฒนธรรมกลางแจ้ง",
+        "subject": "ระบำหน้ากากมายินโจโอห์ของชาวมะฮ์เมอรี แสดงในงานแสดงวัฒนธรรมที่กรุงกัวลาลัมเปอร์"
+      },
+      {
+        "alt": "ทางเข้าพิพิธภัณฑ์หัตถศิลป์โอรังอัสลีในกรุงกัวลาลัมเปอร์ มีรูปสลักไม้ขนาดใหญ่ของชาวโอรังอัสลียืนอยู่ข้างป้ายท่ามกลางพรรณไม้เขตร้อน",
+        "subject": "พิพิธภัณฑ์หัตถศิลป์โอรังอัสลี (Muzium Seni Kraf Orang Asli) กรุงกัวลาลัมเปอร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Seorang penari Mah Meri bertopeng kayu roh leluhur yang berukir dan berpakaian daun palma berlipat menarikan Mayin Jo'oh di hadapan penonton pada sebuah pameran kebudayaan terbuka.",
+        "subject": "Tarian bertopeng Mayin Jo'oh suku Mah Meri yang dipersembahkan pada sebuah pameran kebudayaan di Kuala Lumpur"
+      },
+      {
+        "alt": "Pintu masuk Muzium Seni Kraf Orang Asli di Kuala Lumpur, dengan sebuah arca kayu Orang Asli yang besar berukir berdiri di sebelah papan tanda di tengah-tengah tanaman tropika.",
+        "subject": "Muzium Seni Kraf Orang Asli, Kuala Lumpur"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Seorang penari Mah Meri bertopeng kayu roh leluhur yang berukir dan berbusana daun palem berlipit menarikan Mayin Jo'oh di depan penonton pada sebuah pergelaran budaya terbuka.",
+        "subject": "Tarian bertopeng Mayin Jo'oh suku Mah Meri yang dipentaskan pada sebuah pergelaran budaya di Kuala Lumpur"
+      },
+      {
+        "alt": "Pintu masuk Museum Seni Kerajinan Orang Asli di Kuala Lumpur, dengan sebuah patung kayu Orang Asli besar berukir berdiri di samping papan nama di tengah tanaman tropis.",
+        "subject": "Museum Seni Kerajinan Orang Asli (Muzium Seni Kraf Orang Asli), Kuala Lumpur"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một nghệ sĩ Mah Meri đeo mặt nạ gỗ chạm khắc hình linh hồn tổ tiên và mặc trang phục lá cọ xếp nếp biểu diễn điệu Mayin Jo'oh trước khán giả tại một chương trình văn hóa ngoài trời.",
+        "subject": "Điệu múa mặt nạ Mayin Jo'oh của người Mah Meri được trình diễn tại một chương trình văn hóa ở Kuala Lumpur"
+      },
+      {
+        "alt": "Lối vào Bảo tàng Nghề thủ công Orang Asli ở Kuala Lumpur, với một tượng gỗ Orang Asli lớn được chạm khắc đứng bên cạnh bảng hiệu giữa cây cối nhiệt đới.",
+        "subject": "Bảo tàng Nghề thủ công Orang Asli (Muzium Seni Kraf Orang Asli), Kuala Lumpur"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "செதுக்கப்பட்ட மர மூதாதையர் ஆவி முகமூடியும் மடிப்புக்கொண்ட பனையோலை உடையும் அணிந்த ஒரு மா மேரி கலைஞர், ஒரு திறந்தவெளி பண்பாட்டு நிகழ்வில் பார்வையாளர்களுக்கு முன்னால் மாயின் ஜோஓ நடனம் ஆடுகிறார்.",
+        "subject": "கோலாலம்பூரில் ஒரு பண்பாட்டு நிகழ்வில் நிகழ்த்தப்பட்ட மா மேரி மாயின் ஜோஓ முகமூடி நடனம்"
+      },
+      {
+        "alt": "கோலாலம்பூரில் உள்ள ஓராங் அஸ்லி கைவினைக் கலை அருங்காட்சியகத்தின் நுழைவாயில், வெப்பமண்டலத் தாவரங்களுக்கு நடுவே அறிவிப்புப் பலகைக்கு அருகில் நிற்கும் ஒரு பெரிய செதுக்கப்பட்ட ஓராங் அஸ்லி மரச் சிற்பத்துடன்.",
+        "subject": "ஓராங் அஸ்லி கைவினைக் கலை அருங்காட்சியகம் (மியூசியம் செனி கிராஃப் ஓராங் அஸ்லி), கோலாலம்பூர்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक खुले सांस्कृतिक प्रदर्शन में दर्शकों के सामने तराशे हुए लकड़ी के पूर्वज-आत्मा मुखौटे और ताड़-पत्ते की चुन्नटदार वेशभूषा में एक Mah Meri कलाकार मायिन जोओह नृत्य करता हुआ।",
+        "subject": "कुआलालंपुर में एक सांस्कृतिक प्रदर्शन में प्रस्तुत माह मेरी मायिन जोओह (Mah Meri Mayin Jo'oh) मुखौटा नृत्य"
+      },
+      {
+        "alt": "कुआलालंपुर में Orang Asli शिल्प संग्रहालय का प्रवेश, जहाँ उष्णकटिबंधीय हरियाली के बीच साइनबोर्ड के पास एक बड़ी तराशी हुई लकड़ी की Orang Asli मूर्ति खड़ी है।",
+        "subject": "Orang Asli शिल्प संग्रहालय (Muzium Seni Kraf Orang Asli), कुआलालंपुर"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "فنّان من Mah Meri يرتدي قناع روح الأسلاف المنحوت من الخشب وزيًّا مطويًّا من سعف النخيل يؤدّي رقصة Mayin Jo'oh أمام الجمهور في عرض ثقافي في الهواء الطلق.",
+        "subject": "رقصة الأقنعة Mah Meri Mayin Jo'oh تُؤدّى في عرض ثقافي في Kuala Lumpur"
+      },
+      {
+        "alt": "مدخل متحف حِرَف Orang Asli في Kuala Lumpur، حيث يقف منحوت خشبي كبير لـ Orang Asli بجانب اللافتة وسط نباتات استوائية.",
+        "subject": "متحف حِرَف Orang Asli (Muzium Seni Kraf Orang Asli)، Kuala Lumpur"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un intérprete mah meri, con una máscara de espíritu ancestral tallada en madera y un traje plisado de hojas de palma, baila el Mayin Jo'oh ante el público en una muestra cultural al aire libre.",
+        "subject": "Danza de máscaras Mah Meri Mayin Jo'oh interpretada en una muestra cultural en Kuala Lumpur"
+      },
+      {
+        "alt": "La entrada del Museo de Artesanía Orang Asli en Kuala Lumpur, con una gran escultura de madera tallada orang asli junto al rótulo, entre vegetación tropical.",
+        "subject": "Museo de Artesanía Orang Asli (Muzium Seni Kraf Orang Asli), Kuala Lumpur"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un danseur mah meri, portant un masque d'esprit ancestral sculpté dans le bois et un costume plissé en feuilles de palmier, exécute le Mayin Jo'oh devant un public lors d'une vitrine culturelle en plein air.",
+        "subject": "Danse masquée Mah Meri Mayin Jo'oh exécutée lors d'une vitrine culturelle à Kuala Lumpur"
+      },
+      {
+        "alt": "L'entrée du Musée de l'artisanat Orang Asli à Kuala Lumpur, où une grande sculpture en bois orang asli se dresse à côté de l'enseigne, au milieu d'une végétation tropicale.",
+        "subject": "Musée de l'artisanat Orang Asli (Muzium Seni Kraf Orang Asli), Kuala Lumpur"
+      }
+    ]
+  },
+  "arts-culture/panguni-uthiram": {
+    "zh": [
+      {
+        "alt": "一辆高耸、装饰精美、载着神像的木制庙宇神车（ther），在 Panguni 庙宇神车节期间被拉行穿过拥挤的街道",
+        "subject": "Panguni 节期间的庙宇神车（ther）游行，米拉坡（Mylapore）"
+      },
+      {
+        "alt": "两辆高大、装饰鲜艳的庙宇神车并排而立，四周环绕着信众与祭司，正值 Panguni Uthiram 神车节",
+        "subject": "Panguni Uthiram 神车节上装饰华美的庙宇神车"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "神像を載せた、高くそびえ精緻に装飾された木製の寺院の山車（テール）が、パングニの山車祭の折に人であふれる通りを引かれていく",
+        "subject": "パングニ祭の折の寺院の山車（テール）の行列、マイラポール"
+      },
+      {
+        "alt": "高く色鮮やかに装飾された二台の寺院の山車が、信者と司祭に囲まれて並び立つ、パングニ・ウティラムの山車祭",
+        "subject": "パングニ・ウティラムの山車祭に並ぶ装飾された寺院の山車"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "신상을 실은 높다랗고 정교하게 장식된 나무 사원 수레(테르)가 파응구니 사원 수레 축제 때 붐비는 거리를 끌려 지나간다",
+        "subject": "파응구니 축제 때의 사원 수레(테르) 행렬, 마일라포르"
+      },
+      {
+        "alt": "높고 선명하게 장식된 두 대의 사원 수레가 신자와 사제들에 둘러싸여 나란히 서 있다, 파응구니 우티람 수레 축제",
+        "subject": "파응구니 우티람 수레 축제에 늘어선 장식된 사원 수레"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ราชรถวัดไม้สูงตระหง่านประดับประดาอย่างวิจิตรบรรทุกรูปเทพเจ้า ถูกชักลากไปตามถนนที่เนืองแน่นด้วยผู้คนในเทศกาลราชรถปังกุนี",
+        "subject": "ขบวนราชรถวัด (ther) ในช่วงเทศกาลปังกุนี เมืองไมลาปอร์"
+      },
+      {
+        "alt": "ราชรถวัดสูงประดับสีสันสดใสสองคันตั้งเคียงข้างกันท่ามกลางผู้ศรัทธาและนักบวชในเทศกาลราชรถปังกุนีอุทิรัม",
+        "subject": "ราชรถวัดที่ประดับประดาในเทศกาลราชรถปังกุนีอุทิรัม"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah rata kuil kayu yang tinggi dan dihias dengan rumit membawa arca dewa ditarik melalui sebuah jalan yang sesak semasa perayaan rata kuil Panguni.",
+        "subject": "Perarakan rata kuil (ther) semasa perayaan Panguni, Mylapore"
+      },
+      {
+        "alt": "Dua buah rata kuil yang tinggi dan dihias dengan terang berdiri bersebelahan di tengah-tengah penganut dan sami di sebuah perayaan rata Panguni Uthiram.",
+        "subject": "Rata kuil berhias di sebuah perayaan rata Panguni Uthiram"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah kereta kencana kuil dari kayu yang tinggi dan dihias rumit membawa arca dewa ditarik melalui jalan yang padat saat perayaan kereta kuil Panguni.",
+        "subject": "Prosesi kereta kencana kuil (ther) saat perayaan Panguni, Mylapore"
+      },
+      {
+        "alt": "Dua kereta kencana kuil yang tinggi dan dihias cerah berdiri berdampingan di tengah umat dan pendeta di sebuah perayaan kereta Panguni Uthiram.",
+        "subject": "Kereta kencana kuil berhias di sebuah perayaan kereta Panguni Uthiram"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một cỗ xe đền bằng gỗ cao và trang trí công phu chở các tượng thần được kéo qua một con phố đông đúc trong lễ rước xe đền Panguni.",
+        "subject": "Lễ rước xe đền (ther) trong dịp lễ Panguni, Mylapore"
+      },
+      {
+        "alt": "Hai cỗ xe đền cao và trang trí rực rỡ đứng cạnh nhau giữa các tín đồ và tu sĩ tại một lễ rước xe Panguni Uthiram.",
+        "subject": "Những cỗ xe đền trang trí tại một lễ rước xe Panguni Uthiram"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பங்குனி தேர்த் திருவிழாவின்போது தெய்வ உருவங்களைச் சுமந்து செல்லும் உயரமான, நுணுக்கமாக அலங்கரிக்கப்பட்ட ஒரு மரத் தேர் நெரிசலான தெருவில் இழுத்துச் செல்லப்படுகிறது.",
+        "subject": "மயிலாப்பூரில் பங்குனி திருவிழாவின்போது தேர் (ther) ஊர்வலம்"
+      },
+      {
+        "alt": "ஒரு பங்குனி உத்திரத் தேர்த் திருவிழாவில் பக்தர்கள் மற்றும் அர்ச்சகர்களுக்கு நடுவே அருகருகே நிற்கும் இரண்டு உயரமான, பிரகாசமாக அலங்கரிக்கப்பட்ட கோயில் தேர்கள்.",
+        "subject": "ஒரு பங்குனி உத்திரத் தேர்த் திருவிழாவில் அலங்கரிக்கப்பட்ட கோயில் தேர்கள்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक पंगुनि मंदिर-रथ उत्सव के दौरान देवमूर्तियों को ले जाता एक विशाल, बारीकी से सजाया गया लकड़ी का मंदिर रथ एक भीड़भाड़ वाली सड़क से खींचा जाता हुआ।",
+        "subject": "पंगुनि उत्सव के दौरान मंदिर-रथ (ther) जुलूस, मायलापुर"
+      },
+      {
+        "alt": "एक पंगुनि उथिरम रथ उत्सव में भक्तों और पुजारियों के बीच दो ऊँचे, चटख रंगों में सजे मंदिर रथ अगल-बगल खड़े हैं।",
+        "subject": "एक पंगुनि उथिरम रथ उत्सव में सजे हुए मंदिर रथ"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "عربة معبد خشبية شاهقة ومزخرفة بدقّة تحمل تماثيل الآلهة تُجَرّ عبر شارع مزدحم خلال مهرجان عربة المعبد في Panguni.",
+        "subject": "موكب عربة المعبد (ther) خلال مهرجان Panguni، Mylapore"
+      },
+      {
+        "alt": "عربتا معبد عاليتان مزخرفتان بألوان زاهية تقفان جنبًا إلى جنب وسط المحبّين والكهنة في مهرجان العربات Panguni Uthiram.",
+        "subject": "عربات معبد مزخرفة في مهرجان العربات Panguni Uthiram"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un imponente carro de templo de madera, minuciosamente decorado y portando figuras de deidades, es arrastrado por una calle abarrotada durante una festividad del carro del templo de Panguni.",
+        "subject": "Procesión del carro del templo (ther) durante la festividad de Panguni, Mylapore"
+      },
+      {
+        "alt": "Dos altos carros de templo, decorados con vivos colores, se alzan uno junto al otro entre devotos y sacerdotes en una festividad de los carros de Panguni Uthiram.",
+        "subject": "Carros de templo decorados en una festividad de los carros de Panguni Uthiram"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un char de temple en bois imposant et minutieusement décoré, portant des figures de divinités, est tiré dans une rue bondée pendant une fête du char du temple de Panguni.",
+        "subject": "Procession du char du temple (ther) pendant la fête de Panguni, Mylapore"
+      },
+      {
+        "alt": "Deux hauts chars de temple, décorés de couleurs vives, se dressent côte à côte parmi les dévots et les prêtres lors d'une fête des chars de Panguni Uthiram.",
+        "subject": "Chars de temple décorés lors d'une fête des chars de Panguni Uthiram"
+      }
+    ]
+  },
+  "arts-culture/pantun": {
+    "zh": [
+      {
+        "alt": "吉兰丹-北大年风格皮影戏（wayang kulit）表演中，雕刻精细的神话人物皮偶在发光的幕布上投下清晰的剪影",
+        "subject": "吉兰丹-北大年风格的皮影戏（wayang kulit）"
+      },
+      {
+        "alt": "一组雕饰精美的马来甘美兰（gamelan）乐器，由青铜锣、釜锣与木制排琴组成，陈列于吉隆坡音乐博物馆",
+        "subject": "马来甘美兰（gamelan）乐队，吉隆坡音乐博物馆"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "精緻に彫られた神話的人物の革影絵人形が、ケランタン・パタニ様式のワヤン・クリ上演の折、光る幕に鋭い影を落とす",
+        "subject": "ケランタン・パタニ様式のワヤン・クリ（影絵芝居）"
+      },
+      {
+        "alt": "青銅の銅鑼、釜型の銅鑼、木製の鍵盤打楽器からなる、精緻に彫刻されたマレーのガムラン合奏が、クアラルンプールの音楽博物館に展示されている",
+        "subject": "マレーのガムラン合奏、クアラルンプールの音楽博物館"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "정교하게 조각한 신화 속 인물 가죽 인형들이 클란탄-파타니 양식의 와양 쿨릿 공연 때 빛나는 막에 또렷한 그림자를 드리운다",
+        "subject": "클란탄-파타니 양식의 와양 쿨릿(그림자극)"
+      },
+      {
+        "alt": "청동 징, 솥 모양 징, 나무 건반 타악기로 이루어진 정교하게 조각된 말레이 가믈란 합주가 쿠알라룸푸르 음악박물관에 전시되어 있다",
+        "subject": "말레이 가믈란 합주, 쿠알라룸푸르 음악박물관"
+      }
+    ],
+    "th": [
+      {
+        "alt": "หุ่นหนังรูปตัวละครในตำนานที่แกะสลักอย่างประณีตทอดเงาคมชัดบนจอที่ส่องสว่างระหว่างการแสดงหนังตะลุงแบบกลันตัน-ปัตตานี",
+        "subject": "การแสดงหนังตะลุง (wayang kulit) แบบกลันตัน-ปัตตานี"
+      },
+      {
+        "alt": "วงกาเมลันมลายูที่แกะสลักอย่างวิจิตร ประกอบด้วยฆ้องสัมฤทธิ์ ฆ้องหม้อ และระนาดโลหะไม้ จัดแสดงที่พิพิธภัณฑ์ดนตรีในกรุงกัวลาลัมเปอร์",
+        "subject": "วงกาเมลันมลายู ที่พิพิธภัณฑ์ดนตรี กรุงกัวลาลัมเปอร์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Patung bayang-bayang kulit berukir rumit yang menggambarkan tokoh mitos membentuk siluet tajam pada sebuah skrin bercahaya semasa persembahan wayang kulit Kelantan-Patani.",
+        "subject": "Wayang kulit gaya Kelantan-Patani"
+      },
+      {
+        "alt": "Sebuah ensembel gamelan Melayu berukir indah terdiri daripada gong gangsa, gong berpencu dan metalofon kayu yang dipamerkan di Muzium Muzik, Kuala Lumpur.",
+        "subject": "Ensembel gamelan Melayu di Muzium Muzik, Kuala Lumpur"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Wayang kulit berukir rumit yang menggambarkan tokoh mitos membentuk siluet tajam pada sebuah layar bercahaya saat pertunjukan wayang kulit Kelantan-Patani.",
+        "subject": "Wayang kulit gaya Kelantan-Patani"
+      },
+      {
+        "alt": "Sebuah ansambel gamelan Melayu berukir indah terdiri dari gong perunggu, gong berpencu, dan metalofon kayu yang dipajang di Museum Musik, Kuala Lumpur.",
+        "subject": "Ansambel gamelan Melayu di Museum Musik, Kuala Lumpur"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những con rối bóng bằng da chạm khắc tinh xảo hình các nhân vật thần thoại tạo nên bóng sắc nét trên một tấm màn phát sáng trong một buổi diễn wayang kulit Kelantan-Patani.",
+        "subject": "Múa rối bóng wayang kulit kiểu Kelantan-Patani"
+      },
+      {
+        "alt": "Một dàn nhạc gamelan Mã Lai chạm khắc công phu gồm cồng đồng, cồng núm và các metalophone bằng gỗ được trưng bày tại Bảo tàng Âm nhạc, Kuala Lumpur.",
+        "subject": "Dàn nhạc gamelan Mã Lai tại Bảo tàng Âm nhạc, Kuala Lumpur"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "ஒரு கெலந்தான்-பட்டானி வயாங் குலித் நிகழ்ச்சியின்போது புராணப் பாத்திரங்களைச் சித்தரிக்கும் நுணுக்கமாகச் செதுக்கப்பட்ட தோல் நிழல் பொம்மைகள் ஒளிரும் திரையில் கூர்மையான நிழலுருக்களை ஏற்படுத்துகின்றன.",
+        "subject": "கெலந்தான்-பட்டானி பாணி வயாங் குலித் நிழல் நாடகம்"
+      },
+      {
+        "alt": "கோலாலம்பூர் இசை அருங்காட்சியகத்தில் காட்சிப்படுத்தப்பட்ட, வெண்கல கொங், முலைக் கொங் மற்றும் மர மெட்டலோஃபோன்களைக் கொண்ட அழகாகச் செதுக்கப்பட்ட மலாய் கமேலான் இசைக்குழு.",
+        "subject": "கோலாலம்பூர் இசை அருங்காட்சியகத்தில் மலாய் கமேலான் இசைக்குழு"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक केलंतान-पातानी wayang kulit प्रस्तुति के दौरान पौराणिक पात्रों की बारीकी से तराशी गई चमड़े की छाया-कठपुतलियाँ एक दमकते परदे पर तीखी परछाइयाँ डालती हुईं।",
+        "subject": "केलंतान-पातानी शैली का wayang kulit छाया-नाट्य"
+      },
+      {
+        "alt": "कुआलालंपुर के संगीत संग्रहालय में प्रदर्शित काँसे के घंटों, केतली-घंटों और लकड़ी के मेटालोफ़ोनों का एक अलंकृत रूप से तराशा गया मलय gamelan वाद्यवृंद।",
+        "subject": "संगीत संग्रहालय में मलय gamelan वाद्यवृंद, कुआलालंपुर"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "دمى خيال ظلّ جلدية منحوتة بدقّة لشخصيات أسطورية تلقي ظلالًا حادّة على شاشة متوهّجة خلال عرض wayang kulit على طراز Kelantan-Patani.",
+        "subject": "مسرح خيال الظلّ wayang kulit على طراز Kelantan-Patani"
+      },
+      {
+        "alt": "فرقة gamelan ملايوية منحوتة بزخرفة، مؤلّفة من أجراس برونزية وأجراس قِدرية ومعدنيات صوتية خشبية، معروضة في متحف الموسيقى في Kuala Lumpur.",
+        "subject": "فرقة gamelan ملايوية في متحف الموسيقى، Kuala Lumpur"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Marionetas de sombras de cuero minuciosamente talladas que representan figuras míticas proyectan nítidas siluetas sobre una pantalla iluminada durante una representación de wayang kulit kelantan-patani.",
+        "subject": "Teatro de sombras wayang kulit de estilo kelantan-patani"
+      },
+      {
+        "alt": "Un conjunto de gamelan malayo profusamente tallado, de gongs de bronce, gongs-caldera y metalófonos de madera, expuesto en el Museo de la Música de Kuala Lumpur.",
+        "subject": "Conjunto de gamelan malayo en el Museo de la Música, Kuala Lumpur"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des marionnettes d'ombres en cuir finement ciselées représentant des figures mythiques projettent des silhouettes nettes sur un écran lumineux lors d'une représentation de wayang kulit kelantan-patani.",
+        "subject": "Théâtre d'ombres wayang kulit de style kelantan-patani"
+      },
+      {
+        "alt": "Un ensemble de gamelan malais richement sculpté, composé de gongs en bronze, de gongs-bouilloires et de métallophones en bois, exposé au Musée de la musique de Kuala Lumpur.",
+        "subject": "Ensemble de gamelan malais au Musée de la musique, Kuala Lumpur"
+      }
+    ]
+  },
+  "arts-culture/peranakan": {
+    "zh": [
+      {
+        "alt": "马六甲一栋峇峇娘惹（Peranakan）店屋的上层立面，配有拱形绿松石色百叶窗、灰塑浮雕，以及一道琉璃瓷砖带饰",
+        "subject": "峇峇娘惹（Peranakan）风格店屋立面，马六甲"
+      },
+      {
+        "alt": "一只峇峇娘惹瓷制茶碗及其碗盖，白地之上绘有粉色牡丹与凤凰，陈列于展柜中",
+        "subject": "绘有花卉与鸟纹的峇峇娘惹（娘惹瓷器）茶具瓷器"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "マラッカのプラナカン様式の店屋の上層部の正面。アーチ型のターコイズ色の鎧戸、漆喰の浮き彫り、施釉タイルの帯飾りを備える",
+        "subject": "プラナカン様式の店屋の正面、マラッカ"
+      },
+      {
+        "alt": "プラナカンの磁器の茶碗とその蓋。白地にピンクの牡丹と鳳凰が描かれ、展示ケースに収められている",
+        "subject": "花と鳥の文様を描いたプラナカン（ニョニャ焼）の茶器磁器"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "믈라카의 페라나칸 양식 숍하우스 상층 정면으로, 아치형 청록색 덧문과 회반죽 부조, 유약 타일 띠 장식을 갖추고 있다",
+        "subject": "페라나칸(Peranakan) 양식 숍하우스 정면, 믈라카"
+      },
+      {
+        "alt": "페라나칸 자기 찻그릇과 그 뚜껑으로, 흰 바탕에 분홍 모란과 봉황이 그려져 진열장에 전시되어 있다",
+        "subject": "꽃과 새 문양을 그린 페라나칸(뇨냐 자기) 다기 자기"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ด้านหน้าชั้นบนของช็อปเฮาส์แบบเปอรานากันในมะละกา พร้อมบานเกล็ดโค้งสีเทอร์ควอยซ์ ลวดลายปูนปั้นนูน และแถบกระเบื้องเคลือบ",
+        "subject": "ด้านหน้าช็อปเฮาส์แบบเปอรานากัน (Peranakan) มะละกา"
+      },
+      {
+        "alt": "ถ้วยน้ำชากระเบื้องเคลือบเปอรานากันพร้อมฝา เขียนลายดอกโบตั๋นสีชมพูและนกฟีนิกซ์บนพื้นขาว จัดแสดงในตู้",
+        "subject": "เครื่องกระเบื้องชุดน้ำชาเปอรานากัน (nyonyaware) ลายดอกไม้และนก"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Fasad bahagian atas sebuah rumah kedai Peranakan di Melaka, dengan bidai berdaun berbentuk lengkung berwarna pirus, relief acuan dan sejalur kerja jubin berkilat.",
+        "subject": "Fasad rumah kedai gaya Peranakan, Melaka"
+      },
+      {
+        "alt": "Sebuah mangkuk teh porselin Peranakan berserta tudungnya dicat dengan bunga peoni merah jambu dan burung feniks pada dasar putih, dipamerkan di dalam almari kaca.",
+        "subject": "Porselin teh Peranakan (barangan nyonya) dengan motif bunga dan burung"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Fasad bagian atas sebuah ruko Peranakan di Malaka, dengan daun jendela berbentuk lengkung berwarna pirus, relief cetak, dan sejalur pekerjaan ubin mengkilap.",
+        "subject": "Fasad ruko gaya Peranakan, Malaka"
+      },
+      {
+        "alt": "Sebuah mangkuk teh porselin Peranakan beserta tutupnya dilukisi bunga peoni merah muda dan burung phoenix pada dasar putih, dipajang di dalam lemari kaca.",
+        "subject": "Porselin teh Peranakan (nyonyaware) dengan motif bunga dan burung"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Phần mặt tiền phía trên của một căn nhà phố Peranakan ở Malacca, với cửa chớp hình vòm màu ngọc lam, phù điêu đúc và một dải gạch men bóng.",
+        "subject": "Mặt tiền nhà phố kiểu Peranakan, Malacca"
+      },
+      {
+        "alt": "Một chiếc bát trà sứ Peranakan cùng nắp được vẽ hoa mẫu đơn hồng và chim phượng hoàng trên nền trắng, trưng bày trong tủ kính.",
+        "subject": "Sứ trà Peranakan (đồ nyonya) với họa tiết hoa và chim"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "மலாக்காவில் ஒரு பேரநக்கான் கடை-வீட்டின் மேல் முகப்பு, பச்சை-நீல நிற வளைவான ஜன்னல் தட்டிகள், வார்ப்பு புடைப்புச் சிற்பங்கள் மற்றும் மெருகூட்டப்பட்ட ஓட்டு வேலைப்பாட்டின் ஒரு பட்டையுடன்.",
+        "subject": "பேரநக்கான் பாணி கடை-வீடு முகப்பு, மலாக்கா"
+      },
+      {
+        "alt": "வெள்ளைப் பின்னணியில் இளஞ்சிவப்பு பியோனி மலர்களும் பீனிக்ஸ் பறவைகளும் தீட்டப்பட்ட, கண்ணாடிப் பேழையில் காட்சிப்படுத்தப்பட்ட ஒரு பேரநக்கான் பீங்கான் தேநீர் கிண்ணமும் அதன் மூடியும்.",
+        "subject": "மலர் மற்றும் பறவை வடிவங்களுடன் பேரநக்கான் (நியோன்யா பீங்கான்) தேநீர் பீங்கான்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "मलक्का में एक Peranakan शॉपहाउस का ऊपरी अग्रभाग, जिसमें मेहराबदार फ़िरोज़ी झिलमिली झरोखे, ढली हुई उभरी कलाकृतियाँ और चमकदार टाइलकारी की एक पट्टी है।",
+        "subject": "Peranakan शैली का शॉपहाउस अग्रभाग, मलक्का"
+      },
+      {
+        "alt": "सफ़ेद पृष्ठभूमि पर गुलाबी चपरासी के फूलों और फ़ीनिक्स पक्षियों से चित्रित एक Peranakan चीनी-मिट्टी का चाय-पात्र और उसका ढक्कन, एक बक्से में प्रदर्शित।",
+        "subject": "फूल और पक्षी आकृतियों वाली Peranakan (nyonyaware) चाय चीनी-मिट्टी"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "الواجهة العلوية لمبنى تجاري سكني من طراز Peranakan في Malacca، بمصاريع فيروزية مقوّسة ذات شرائح ونقوش بارزة مصبوبة وشريط من البلاط المزجّج.",
+        "subject": "واجهة مبنى تجاري سكني (shophouse) على طراز Peranakan، Malacca"
+      },
+      {
+        "alt": "وعاء شاي خزفي Peranakan وغطاؤه مرسوم عليهما زهور فاوانيا وردية وطيور عنقاء على أرضية بيضاء، معروضان في صندوق زجاجي.",
+        "subject": "خزف شاي Peranakan (nyonyaware) بزخارف نباتية وطيور"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La fachada superior de una casa-tienda Peranakan en Malaca, con contraventanas de láminas de color turquesa en arco, relieves moldeados y una franja de azulejos vidriados.",
+        "subject": "Fachada de casa-tienda de estilo Peranakan, Malaca"
+      },
+      {
+        "alt": "Un cuenco de té de porcelana Peranakan y su tapa, pintados con peonías rosadas y aves fénix sobre fondo blanco, expuestos en una vitrina.",
+        "subject": "Porcelana de té Peranakan (nyonyaware) con motivos florales y de aves"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "La façade supérieure d'une maison-boutique Peranakan à Malacca, avec des volets à lamelles turquoise cintrés, des reliefs moulés et une bande de carreaux émaillés.",
+        "subject": "Façade de maison-boutique de style Peranakan, Malacca"
+      },
+      {
+        "alt": "Un bol à thé en porcelaine Peranakan et son couvercle, peints de pivoines roses et de phénix sur fond blanc, exposés dans une vitrine.",
+        "subject": "Porcelaine à thé Peranakan (nyonyaware) à motifs floraux et d'oiseaux"
+      }
+    ]
+  },
+  "arts-culture/rumi-script": {
+    "zh": [
+      {
+        "alt": "吉兰丹路边一块蓝色路牌，上方以爪夷文书写、下方以罗马化的 Rumi 字母写着「Jalan Pasir Puteh」",
+        "subject": "爪夷文与 Rumi 文并列的双语路牌，吉兰丹"
+      },
+      {
+        "alt": "怡保一块绿色马来西亚路牌，以罗马化马来文（Rumi）写着「Persiaran Greentown 4C, Poskod 30450 Ipoh」",
+        "subject": "以 Rumi 文书写的马来路名牌，怡保"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "クランタンの路傍にある青い街路名の標識。ジャウィ文字の下に、ローマ字化されたルミ文字で「Jalan Pasir Puteh」と同じ名が記されている",
+        "subject": "ジャウィ文字とルミ文字を併記した二言語の街路名標識、クランタン"
+      },
+      {
+        "alt": "イポーにある緑色のマレーシアの街路標識。ローマ字化されたマレー語（ルミ）で「Persiaran Greentown 4C, Poskod 30450 Ipoh」と記されている",
+        "subject": "ルミ文字で書かれたマレー語の道路名標識、イポー"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "클란탄 길가의 파란색 도로명 표지판으로, 자위 문자 이름 아래에 로마자화된 루미 문자로 'Jalan Pasir Puteh'라고 같은 이름이 적혀 있다",
+        "subject": "자위 문자와 루미 문자를 나란히 적은 이중언어 도로명 표지판, 클란탄"
+      },
+      {
+        "alt": "이포의 녹색 말레이시아 도로 표지판으로, 로마자화된 말레이어(루미)로 'Persiaran Greentown 4C, Poskod 30450 Ipoh'라고 적혀 있다",
+        "subject": "루미 문자로 쓴 말레이어 도로명 표지판, 이포"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ป้ายชื่อถนนสีน้ำเงินข้อความ 'Jalan Pasir Puteh' ด้วยอักษรโรมัน (รูมี) อยู่ใต้ชื่อเดียวกันในอักษรยาวี ริมถนนในรัฐกลันตัน",
+        "subject": "ป้ายชื่อถนนสองภาษาอักษรยาวีและรูมี รัฐกลันตัน"
+      },
+      {
+        "alt": "ป้ายชื่อถนนมาเลเซียสีเขียวข้อความ 'Persiaran Greentown 4C, Poskod 30450 Ipoh' ด้วยอักษรโรมันภาษามลายู (รูมี)",
+        "subject": "ป้ายชื่อถนนภาษามลายูด้วยอักษรรูมี เมืองอีโปห์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah papan nama jalan biru bertulis 'Jalan Pasir Puteh' dalam huruf Rumi di bawah nama yang sama dalam tulisan Jawi, di tepi sebuah jalan di Kelantan.",
+        "subject": "Papan nama jalan dwibahasa Jawi dan Rumi, Kelantan"
+      },
+      {
+        "alt": "Sebuah papan tanda jalan Malaysia berwarna hijau bertulis 'Persiaran Greentown 4C, Poskod 30450 Ipoh' dalam huruf Melayu Rumi.",
+        "subject": "Papan nama jalan Melayu dalam tulisan Rumi, Ipoh"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah papan nama jalan biru bertuliskan 'Jalan Pasir Puteh' dalam huruf Latin Rumi di bawah nama yang sama beraksara Jawi, di tepi sebuah jalan di Kelantan.",
+        "subject": "Papan nama jalan dwibahasa Jawi dan Rumi, Kelantan"
+      },
+      {
+        "alt": "Sebuah papan nama jalan Malaysia berwarna hijau bertuliskan 'Persiaran Greentown 4C, Poskod 30450 Ipoh' dalam huruf Melayu Latin (Rumi).",
+        "subject": "Papan nama jalan Melayu beraksara Rumi, Ipoh"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một biển tên đường màu xanh ghi 'Jalan Pasir Puteh' bằng chữ La-tinh Rumi bên dưới cùng tên đó bằng chữ Jawi, bên đường ở Kelantan.",
+        "subject": "Biển tên đường song ngữ Jawi và Rumi, Kelantan"
+      },
+      {
+        "alt": "Một biển báo đường phố Malaysia màu xanh lá ghi 'Persiaran Greentown 4C, Poskod 30450 Ipoh' bằng chữ Mã Lai La-tinh (Rumi).",
+        "subject": "Biển tên đường tiếng Mã Lai bằng chữ Rumi, Ipoh"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கெலந்தானில் ஒரு சாலையோரத்தில், ஜாவி எழுத்தில் அதே பெயருக்குக் கீழே 'ஜாலான் பாசிர் புத்தே' என ரோமானிய ரூமி எழுத்தில் எழுதப்பட்ட ஒரு நீல சாலைப் பெயர்ப் பலகை.",
+        "subject": "ஜாவி-ரூமி இருமொழி சாலைப் பெயர்ப் பலகை, கெலந்தான்"
+      },
+      {
+        "alt": "'பெர்சியாரான் கிரீன்டவுன் 4C, போஸ்கோட் 30450 ஈப்போ' என ரோமானிய மலாய் (ரூமி) எழுத்தில் எழுதப்பட்ட ஒரு பச்சை மலேசிய சாலைப் பலகை.",
+        "subject": "ரூமி எழுத்தில் மலாய் சாலைப் பெயர்ப் பலகை, ஈப்போ"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "केलंतान में एक सड़क के किनारे एक नीला सड़क-नाम चिन्ह, जिस पर Jawi लिपि में उसी नाम के नीचे रोमनीकृत Rumi अक्षरों में 'Jalan Pasir Puteh' लिखा है।",
+        "subject": "Jawi और Rumi में द्विभाषी सड़क-नाम चिन्ह, केलंतान"
+      },
+      {
+        "alt": "एक हरा मलेशियाई सड़क चिन्ह, जिस पर रोमनीकृत मलय (Rumi) अक्षरों में 'Persiaran Greentown 4C, Poskod 30450 Ipoh' लिखा है।",
+        "subject": "Rumi लिपि में मलय सड़क-नाम चिन्ह, इपोह"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "لافتة اسم شارع زرقاء كُتب عليها 'Jalan Pasir Puteh' بحروف Rumi اللاتينية أسفل الاسم نفسه بخط Jawi، على جانب طريق في Kelantan.",
+        "subject": "لافتة اسم شارع ثنائية اللغة بخطّي Jawi وRumi، Kelantan"
+      },
+      {
+        "alt": "لافتة شارع ماليزية خضراء كُتب عليها 'Persiaran Greentown 4C, Poskod 30450 Ipoh' بحروف ملايوية لاتينية (Rumi).",
+        "subject": "لافتة اسم طريق ملايوية بخط Rumi، Ipoh"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una señal azul de nombre de calle que dice 'Jalan Pasir Puteh' en letras latinas Rumi, bajo el mismo nombre en escritura Jawi, al borde de una carretera en Kelantan.",
+        "subject": "Señal bilingüe de nombre de calle en Jawi y Rumi, Kelantan"
+      },
+      {
+        "alt": "Una señal vial malasia verde que dice 'Persiaran Greentown 4C, Poskod 30450 Ipoh' en grafía malaya latina (Rumi).",
+        "subject": "Señal de nombre de vía en malayo en escritura Rumi, Ipoh"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un panneau bleu de nom de rue indiquant « Jalan Pasir Puteh » en lettres latines Rumi, sous le même nom en écriture Jawi, au bord d'une route au Kelantan.",
+        "subject": "Panneau bilingue de nom de rue en Jawi et en Rumi, Kelantan"
+      },
+      {
+        "alt": "Un panneau routier malaisien vert indiquant « Persiaran Greentown 4C, Poskod 30450 Ipoh » en graphie malaise latine (Rumi).",
+        "subject": "Panneau de nom de voie en malais en écriture Rumi, Ipoh"
+      }
+    ]
+  },
+  "arts-culture/tamil-in-malaysia": {
+    "zh": [
+      {
+        "alt": "一块红白相间的马来西亚「禁止进入」标牌，以马来文写着「Dilarang Masuk」，并以英文、中文、旁遮普文书写同样的警示，最底一行为泰米尔文",
+        "subject": "带有泰米尔文字一行的马来西亚多语标牌，哥打京那巴鲁"
+      },
+      {
+        "alt": "吉打樟仑一所泰米尔文小学开放式的课室楼，门廊与屋檐在晴朗天空下挂满马来西亚国旗",
+        "subject": "泰米尔国民型小学的课室楼，吉打樟仑（Changlun）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "赤と白のマレーシアの「立入禁止」標識。マレー語で「Dilarang Masuk」と記され、同じ警告が英語・中国語・パンジャブ語で、最下段にタミル文字で書かれている",
+        "subject": "タミル文字の一行を含むマレーシアの多言語標識、コタ・キナバル"
+      },
+      {
+        "alt": "ケダ州チャンルンのタミル語教育小学校の開放的な教室棟。晴れた空の下、戸口や軒先にマレーシアの国旗が掲げられている",
+        "subject": "タミル系国民型小学校の教室棟、ケダ州チャンルン"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "빨강과 흰색의 말레이시아 '출입 금지' 표지판으로, 말레이어로 'Dilarang Masuk'이라 적고 같은 경고를 영어·중국어·펀자브어로, 맨 아랫줄에 타밀 문자로 적었다",
+        "subject": "타밀 문자 한 줄이 들어간 말레이시아 다언어 표지판, 코타키나발루"
+      },
+      {
+        "alt": "크다주 창룬의 타밀어 소학교 개방형 교실 동으로, 맑은 하늘 아래 출입구와 처마에 말레이시아 국기가 걸려 있다",
+        "subject": "타밀어 국민형 초등학교 교실 동, 크다주 창룬(Changlun)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ป้าย 'ห้ามเข้า' สีแดงขาวของมาเลเซียข้อความ 'Dilarang Masuk' พร้อมคำเตือนเดียวกันในภาษาอังกฤษ จีน ปัญจาบ และบรรทัดล่างสุดเป็นอักษรทมิฬ",
+        "subject": "ป้ายหลายภาษาของมาเลเซียที่มีบรรทัดอักษรทมิฬ เมืองโกตากินาบาลู"
+      },
+      {
+        "alt": "อาคารเรียนแบบเปิดโล่งของโรงเรียนประถมภาษาทมิฬในชังลุน รัฐเกอดะฮ์ ประตูและชายคาประดับธงชาติมาเลเซียใต้ท้องฟ้าสดใส",
+        "subject": "อาคารเรียนของโรงเรียนประถมประเภทชาติพันธุ์ภาษาทมิฬ ชังลุน รัฐเกอดะฮ์"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Sebuah papan tanda 'Dilarang Masuk' Malaysia berwarna merah dan putih dengan amaran yang sama dalam bahasa Inggeris, Cina, Punjabi dan, pada baris paling bawah, tulisan Tamil.",
+        "subject": "Papan tanda Malaysia berbilang bahasa dengan satu baris tulisan Tamil, Kota Kinabalu"
+      },
+      {
+        "alt": "Blok bilik darjah terbuka sebuah sekolah rendah jenis kebangsaan Tamil di Changlun, Kedah, dengan pintu dan garisan bumbungnya dihiasi bendera Malaysia di bawah langit cerah.",
+        "subject": "Blok bilik darjah sebuah sekolah rendah jenis kebangsaan Tamil, Changlun, Kedah"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Sebuah papan 'Dilarang Masuk' Malaysia berwarna merah dan putih dengan peringatan yang sama dalam bahasa Inggris, Tionghoa, Punjabi, dan, pada baris paling bawah, aksara Tamil.",
+        "subject": "Papan petunjuk Malaysia multibahasa dengan satu baris aksara Tamil, Kota Kinabalu"
+      },
+      {
+        "alt": "Blok ruang kelas terbuka sebuah sekolah dasar jenis kebangsaan Tamil di Changlun, Kedah, dengan pintu dan garis atapnya dihiasi bendera Malaysia di bawah langit cerah.",
+        "subject": "Blok ruang kelas sebuah sekolah dasar jenis kebangsaan Tamil, Changlun, Kedah"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Một biển 'Cấm vào' của Malaysia màu đỏ và trắng ghi 'Dilarang Masuk' với cùng lời cảnh báo bằng tiếng Anh, tiếng Hoa, tiếng Punjab và, ở dòng dưới cùng, chữ Tamil.",
+        "subject": "Biển báo đa ngôn ngữ của Malaysia có một dòng chữ Tamil, Kota Kinabalu"
+      },
+      {
+        "alt": "Dãy phòng học mở của một trường tiểu học quốc lập hệ Tamil ở Changlun, Kedah, với các ô cửa và đường mái treo cờ Malaysia dưới bầu trời trong.",
+        "subject": "Dãy phòng học của một trường tiểu học quốc lập hệ Tamil, Changlun, Kedah"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "'தடைசெய்யப்பட்ட நுழைவு' எனும் சிவப்பு-வெள்ளை மலேசியப் பலகை, 'திலாராங் மாசுக்' என்பதுடன் அதே எச்சரிக்கை ஆங்கிலம், சீனம், பஞ்சாபி மொழிகளிலும், கீழ் வரியில் தமிழ் எழுத்திலும்.",
+        "subject": "ஒரு தமிழ் எழுத்து வரியுடன் கூடிய பல்மொழி மலேசியப் பலகை, கோத்தா கினபாலு"
+      },
+      {
+        "alt": "கெடா, சாங்லூனில் ஒரு தமிழ்வழி தொடக்கப் பள்ளியின் திறந்த வகுப்பறைத் தொகுதி, அதன் வாயில்களும் கூரை விளிம்பும் தெளிந்த வானத்தின் கீழ் மலேசியக் கொடிகளால் அலங்கரிக்கப்பட்டுள்ளன.",
+        "subject": "ஒரு தமிழ்வழி நடுநிலை தொடக்கப் பள்ளியின் வகுப்பறைத் தொகுதி, கெடா, சாங்லூன்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "एक लाल-सफ़ेद मलेशियाई 'प्रवेश निषेध' चिन्ह, जिस पर 'Dilarang Masuk' लिखा है और वही चेतावनी अंग्रेज़ी, चीनी, पंजाबी में तथा सबसे नीचे की पंक्ति में तमिल लिपि में है।",
+        "subject": "तमिल-लिपि की एक पंक्ति वाला बहुभाषी मलेशियाई चिन्ह, कोटा किनाबालु"
+      },
+      {
+        "alt": "केदाह के चांगलुन में एक तमिल-माध्यम प्राथमिक विद्यालय का खुला कक्षा-खंड, जिसके दरवाज़ों और छत की कगार पर एक उज्ज्वल आकाश के नीचे मलेशियाई झंडे लटके हैं।",
+        "subject": "एक तमिल राष्ट्रीय-प्रकार प्राथमिक विद्यालय का कक्षा-खंड, चांगलुन, केदाह"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "لافتة ماليزية حمراء وبيضاء 'ممنوع الدخول' كُتب عليها 'Dilarang Masuk' مع التحذير نفسه بالإنجليزية والصينية والبنجابية، وفي السطر الأخير بخط التاميل.",
+        "subject": "لافتة ماليزية متعدّدة اللغات تتضمّن سطرًا بخط التاميل، Kota Kinabalu"
+      },
+      {
+        "alt": "مبنى الفصول المفتوح لمدرسة ابتدائية تدرّس بالتاميلية في Changlun، Kedah، تتدلّى الأعلام الماليزية من مداخلها وحافة سقفها تحت سماء مشرقة.",
+        "subject": "مبنى الفصول الدراسية لمدرسة ابتدائية تاميلية من النوع الوطني، Changlun، Kedah"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Una señal malasia de 'Prohibido el paso', roja y blanca, que dice 'Dilarang Masuk' con la misma advertencia en inglés, chino, panyabí y, en la última línea, en escritura tamil.",
+        "subject": "Señal malasia multilingüe con una línea en escritura tamil, Kota Kinabalu"
+      },
+      {
+        "alt": "El bloque de aulas abierto de una escuela primaria de lengua tamil en Changlun, Kedah, con banderas malasias colgando de sus entradas y del alero bajo un cielo luminoso.",
+        "subject": "Bloque de aulas de una escuela primaria nacional de tipo tamil, Changlun, Kedah"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un panneau malaisien « Entrée interdite », rouge et blanc, indiquant « Dilarang Masuk » avec le même avertissement en anglais, chinois, pendjabi et, sur la dernière ligne, en écriture tamoule.",
+        "subject": "Panneau malaisien multilingue avec une ligne en écriture tamoule, Kota Kinabalu"
+      },
+      {
+        "alt": "Le bloc de salles de classe ouvert d'une école primaire de langue tamoule à Changlun, Kedah, ses entrées et sa ligne de toit pavoisées de drapeaux malaisiens sous un ciel lumineux.",
+        "subject": "Bloc de salles de classe d'une école primaire nationale de type tamoul, Changlun, Kedah"
+      }
+    ]
+  },
+  "arts-culture/tua-pek-kong": {
+    "zh": [
+      {
+        "alt": "槟城丹绒道光大伯公庙红色的立面与华丽的瓷砖屋顶，入口处有守护石狮与高大的红色香烛",
+        "subject": "丹绒道光大伯公庙，槟城"
+      },
+      {
+        "alt": "一尊鎏金、长须的大伯公神像端坐于神坛之上，两侧有侍神相伴，神像前点着蜡烛、立着一束束香",
+        "subject": "平线寺（Ping Sien Si）的大伯公神坛，霹雳"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ペナンのタンジュン・トコンにある大伯公廟の赤い正面と華麗なタイル張りの屋根。入口には守護の獅子像と背の高い赤い線香蝋燭が置かれている",
+        "subject": "タンジュン・トコン大伯公廟、ペナン"
+      },
+      {
+        "alt": "金箔を施した長い髭の大伯公の神像が祭壇に坐し、両脇に従神を従える。その前には灯された蝋燭と束になった線香が立ち上る",
+        "subject": "平線寺（Ping Sien Si）の大伯公の祭壇、ペラ州"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "페낭 탄중토콩 대백공 사당의 붉은 정면과 화려한 타일 지붕으로, 입구에 수호 사자상과 높다란 붉은 향초가 있다",
+        "subject": "탄중토콩 대백공 사당, 페낭"
+      },
+      {
+        "alt": "금박을 입힌 긴 수염의 대백공 신상이 제단에 앉아 양옆에 시종신을 거느리고, 그 앞에 켜진 촛불과 다발로 세운 향이 피어오른다",
+        "subject": "핑시엔시(Ping Sien Si)의 대백공 제단, 페락주"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ด้านหน้าสีแดงและหลังคาปูกระเบื้องอันวิจิตรของศาลเจ้าตั่วเป็กก๋งที่ตันจงโตก้ง ปีนัง พร้อมสิงโตผู้พิทักษ์และเทียนธูปสีแดงสูงที่ทางเข้า",
+        "subject": "ศาลเจ้าตั่วเป็กก๋งตันจงโตก้ง รัฐปีนัง"
+      },
+      {
+        "alt": "รูปเทพตั่วเป็กก๋งปิดทองมีเคราประทับนั่งบนแท่นบูชาขนาบด้วยเทพผู้ติดตาม พร้อมเทียนที่จุดไว้และธูปเป็นมัดที่ลอยควันอยู่เบื้องหน้า",
+        "subject": "แท่นบูชาเทพตั่วเป็กก๋งที่วัดเพ่งเซียนซี รัฐเประ"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Fasad merah dan bumbung berjubin indah Tokong Tua Pek Kong di Tanjung Tokong, Pulau Pinang, dengan singa pengawal dan lilin colok merah yang tinggi di pintu masuk.",
+        "subject": "Tokong Tua Pek Kong Tanjung Tokong, Pulau Pinang"
+      },
+      {
+        "alt": "Sebuah arca dewa Tua Pek Kong berjanggut dan bersadur emas duduk di atas altar diapit oleh pengiring, dengan lilin yang menyala dan ikatan colok berkepul-kepul di hadapannya.",
+        "subject": "Altar dewa Tua Pek Kong di Ping Sien Si, Perak"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Fasad merah dan atap berubin indah Kelenteng Tua Pek Kong di Tanjung Tokong, Penang, dengan singa penjaga dan lilin merah tinggi di pintu masuk.",
+        "subject": "Kelenteng Tua Pek Kong Tanjung Tokong, Penang"
+      },
+      {
+        "alt": "Sebuah arca dewa Tua Pek Kong berjanggut dan bersepuh emas duduk di atas altar diapit para pengiring, dengan lilin menyala dan ikatan hio mengepul di depannya.",
+        "subject": "Altar dewa Tua Pek Kong di Ping Sien Si, Perak"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Mặt tiền đỏ và mái lát gạch men lộng lẫy của đền Tua Pek Kong ở Tanjung Tokong, Penang, với sư tử canh cổng và những cây nến đỏ cao ở lối vào.",
+        "subject": "Đền Tua Pek Kong Tanjung Tokong, Penang"
+      },
+      {
+        "alt": "Một tượng thần Tua Pek Kong có râu, dát vàng ngồi trên bàn thờ với các vị hầu cận hai bên, phía trước là những ngọn nến cháy và những bó nhang nghi ngút khói.",
+        "subject": "Bàn thờ thần Tua Pek Kong tại Ping Sien Si, Perak"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பினாங்கு, தஞ்சோங் டோகோங்கில் உள்ள துவா பெக் கோங் கோயிலின் சிவப்பு முகப்பும் அலங்கார ஓட்டுக் கூரையும், நுழைவாயிலில் காவல் சிங்கங்களும் உயரமான சிவப்பு ஊதுபத்தி மெழுகுவர்த்திகளுடன்.",
+        "subject": "தஞ்சோங் டோகோங் துவா பெக் கோங் கோயில், பினாங்கு"
+      },
+      {
+        "alt": "பணியாளர்களால் இருபுறமும் சூழப்பட்டு ஒரு பீடத்தில் அமர்ந்திருக்கும் தங்க முலாம் பூசிய, தாடி கொண்ட துவா பெக் கோங் தெய்வ உருவம், அதற்கு முன்னால் எரியும் மெழுகுவர்த்திகளும் புகை எழுப்பும் ஊதுபத்திக் கற்றைகளுடன்.",
+        "subject": "பேராக், பிங் சியென் சியில் துவா பெக் கோங் தெய்வப் பீடம்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "पेनांग के तंजुंग तोकोंग में Tua Pek Kong मंदिर का लाल अग्रभाग और अलंकृत टाइलदार छत, जहाँ प्रवेश पर द्वारपाल सिंह और ऊँची लाल अगरबत्ती-मोमबत्तियाँ हैं।",
+        "subject": "तंजुंग तोकोंग Tua Pek Kong मंदिर, पेनांग"
+      },
+      {
+        "alt": "सेवकों से घिरी एक वेदी पर विराजमान एक सुनहरी, दाढ़ीवाली Tua Pek Kong देव-मूर्ति, जिसके सामने जलती मोमबत्तियाँ और अगरबत्ती के गुच्छे उठ रहे हैं।",
+        "subject": "पिंग सिएन सी में Tua Pek Kong देव-वेदी, पेराक"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "الواجهة الحمراء والسقف المبلّط المزخرف لمعبد Tua Pek Kong في Tanjung Tokong، Penang، مع أسود حارسة وشموع بخور حمراء طويلة عند المدخل.",
+        "subject": "معبد Tua Pek Kong في Tanjung Tokong، Penang"
+      },
+      {
+        "alt": "تمثال مذهّب للإله Tua Pek Kong ذي اللحية جالس على مذبح يحفّ به مرافقون، وأمامه شموع مشتعلة وحُزم من البخور المتصاعد.",
+        "subject": "مذبح الإله Tua Pek Kong في Ping Sien Si، Perak"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La fachada roja y el ornamentado tejado de azulejos del templo de Tua Pek Kong en Tanjung Tokong, Penang, con leones guardianes y altas velas rojas de incienso en la entrada.",
+        "subject": "Templo de Tua Pek Kong en Tanjung Tokong, Penang"
+      },
+      {
+        "alt": "Una figura dorada y barbada de la deidad Tua Pek Kong sentada en un altar, flanqueada por acólitos, con velas encendidas y haces de incienso alzándose ante ella.",
+        "subject": "Altar de la deidad Tua Pek Kong en Ping Sien Si, Perak"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "La façade rouge et le toit carrelé ornementé du temple de Tua Pek Kong à Tanjung Tokong, Penang, avec des lions gardiens et de hautes bougies d'encens rouges à l'entrée.",
+        "subject": "Temple de Tua Pek Kong à Tanjung Tokong, Penang"
+      },
+      {
+        "alt": "Une figure dorée et barbue de la divinité Tua Pek Kong assise sur un autel, flanquée d'acolytes, avec des bougies allumées et des faisceaux d'encens s'élevant devant elle.",
+        "subject": "Autel de la divinité Tua Pek Kong à Ping Sien Si, Perak"
+      }
+    ]
+  },
+  "arts-culture/visiting-a-malaysian-open-house": {
+    "zh": [
+      {
+        "alt": "宾客身着峇迪（batik）与马来传统服装（baju kurung），在一场开斋节（Hari Raya Aidilfitri）开放门户活动的门口微笑握手致意",
+        "subject": "宾客在开斋节（Hari Raya Aidilfitri）开放门户活动中向主人家致意问候"
+      },
+      {
+        "alt": "一串用棕榈叶编织、捆扎在一起的马来粽（ketupat）米糕外壳，是马来西亚开斋节开放门户待客的主食",
+        "subject": "为开斋节准备的编织马来粽（ketupat）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "バティックやバジュ・クルンをまとった客たちが、ハリラヤ・アイディルフィトリのオープンハウスの戸口で、微笑みながら握手を交わして挨拶する",
+        "subject": "ハリラヤ・アイディルフィトリのオープンハウスで主人家に挨拶する客たち"
+      },
+      {
+        "alt": "椰子の葉で編んで束ねたクトゥパ（ketupat）の米菓子の包み。マレーシアのハリラヤのオープンハウスのもてなしに欠かせない定番である",
+        "subject": "ハリラヤのために用意された編みクトゥパ（ketupat）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "바틱과 바주 쿠룽을 입은 손님들이 하리 라야 아이딜피트리 오픈하우스 문간에서 미소 지으며 악수로 인사를 나눈다",
+        "subject": "하리 라야 아이딜피트리 오픈하우스에서 집주인에게 인사하는 손님들"
+      },
+      {
+        "alt": "야자잎으로 엮어 함께 묶은 크투팟(ketupat) 쌀떡 껍질 한 묶음, 말레이시아 하리 라야 오픈하우스 접대의 주식이다",
+        "subject": "하리 라야를 위해 준비한 엮은 크투팟(ketupat)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "แขกในชุดผ้าบาติกและบาจูกุรุงยิ้มและจับมือทักทายกันที่ประตูบ้านในงานเปิดบ้านฮารีรายอ ออิดิลฟิตรี",
+        "subject": "แขกทักทายเจ้าภาพในงานเปิดบ้านฮารีรายอ ออิดิลฟิตรี"
+      },
+      {
+        "alt": "กลุ่มเปลือกข้าวเกอตูปัตที่สานจากใบปาล์มมัดรวมกัน อาหารหลักของการต้อนรับในงานเปิดบ้านฮารีรายอของมาเลเซีย",
+        "subject": "เกอตูปัต (ketupat) ที่สานไว้สำหรับฮารีรายอ"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Tetamu berpakaian batik dan baju kurung tersenyum dan berjabat tangan memberi salam di muka pintu sebuah rumah terbuka Hari Raya Aidilfitri.",
+        "subject": "Tetamu beramah mesra dengan tuan rumah di sebuah rumah terbuka Hari Raya Aidilfitri"
+      },
+      {
+        "alt": "Seikat sarung ketupat anyaman daun palma yang diikat bersama, satu makanan ruji keramahan rumah terbuka Hari Raya Malaysia.",
+        "subject": "Ketupat anyaman untuk Hari Raya"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Tamu berbusana batik dan baju kurung tersenyum dan berjabat tangan memberi salam di ambang pintu sebuah open house Hari Raya Idulfitri.",
+        "subject": "Tamu bersalaman ramah dengan tuan rumah di sebuah open house Hari Raya Idulfitri"
+      },
+      {
+        "alt": "Seikat selongsong ketupat anyaman daun palem yang diikat bersama, sebuah sajian pokok keramahtamahan open house Lebaran Malaysia.",
+        "subject": "Ketupat anyaman untuk Lebaran"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Khách mặc batik và baju kurung mỉm cười và bắt tay chào hỏi ở ngưỡng cửa một buổi tiếp khách mở nhà dịp Hari Raya Aidilfitri.",
+        "subject": "Khách chào hỏi thân mật với chủ nhà tại một buổi mở nhà Hari Raya Aidilfitri"
+      },
+      {
+        "alt": "Một chùm vỏ bánh gạo ketupat đan bằng lá cọ buộc lại với nhau, một món đặc trưng trong lòng hiếu khách mở nhà dịp Hari Raya của Malaysia.",
+        "subject": "Bánh ketupat đan cho dịp Hari Raya"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பத்திக் மற்றும் பாஜு குரோங் உடை அணிந்த விருந்தினர்கள் ஒரு ஹரி ராயா ஐதில்பித்ரி திறந்த வீட்டு வாயிலில் புன்னகைத்து கைகுலுக்கி வணக்கம் தெரிவிக்கின்றனர்.",
+        "subject": "ஒரு ஹரி ராயா ஐதில்பித்ரி திறந்த வீட்டில் வீட்டு உரிமையாளர்களை அன்புடன் வரவேற்கும் விருந்தினர்கள்"
+      },
+      {
+        "alt": "ஒன்றாகக் கட்டப்பட்ட, பனையோலையால் பின்னப்பட்ட கெத்துப்பாத் அரிசி உறைகளின் ஒரு கொத்து, மலேசிய ஹரி ராயா திறந்த வீட்டு விருந்தோம்பலின் ஒரு முக்கிய உணவு.",
+        "subject": "ஹரி ராயாவுக்கான பின்னப்பட்ட கெத்துப்பாத்"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "batik और baju kurung पहने अतिथि एक Hari Raya Aidilfitri ओपन हाउस के दरवाज़े पर मुस्कुराते हुए अभिवादन में हाथ मिलाते हुए।",
+        "subject": "एक Hari Raya Aidilfitri ओपन हाउस में मेज़बानों का अभिवादन करते अतिथि"
+      },
+      {
+        "alt": "एक साथ बँधे बुने हुए ताड़-पत्ते के ketupat चावल-आवरणों का एक गुच्छा, मलेशियाई Hari Raya ओपन-हाउस आतिथ्य का एक अनिवार्य अंग।",
+        "subject": "Hari Raya के लिए बुने हुए ketupat चावल-पकवान"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "ضيوف يرتدون batik وbaju kurung يبتسمون ويتصافحون تحيّةً عند مدخل بيت مفتوح بمناسبة Hari Raya Aidilfitri.",
+        "subject": "ضيوف يحيّون مُضيفيهم في بيت مفتوح بمناسبة Hari Raya Aidilfitri"
+      },
+      {
+        "alt": "مجموعة من أغلفة أرز ketupat المنسوجة من سعف النخيل مربوطة معًا، وهي ركن أساسي في ضيافة البيت المفتوح الماليزية في Hari Raya.",
+        "subject": "كعكات أرز ketupat المنسوجة لـ Hari Raya"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Invitados con batik y baju kurung sonríen y se dan la mano a modo de saludo en la puerta de una jornada de puertas abiertas de Hari Raya Aidilfitri.",
+        "subject": "Invitados saludando a sus anfitriones en una jornada de puertas abiertas de Hari Raya Aidilfitri"
+      },
+      {
+        "alt": "Un racimo de fundas de arroz ketupat trenzadas con hojas de palma y atadas entre sí, un elemento básico de la hospitalidad malasia de puertas abiertas en Hari Raya.",
+        "subject": "Pasteles de arroz ketupat trenzados para Hari Raya"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des invités en batik et baju kurung sourient et se serrent la main en signe de salutation sur le pas de la porte d'une journée portes ouvertes de Hari Raya Aidilfitri.",
+        "subject": "Des invités saluant leurs hôtes lors d'une journée portes ouvertes de Hari Raya Aidilfitri"
+      },
+      {
+        "alt": "Un ensemble d'étuis de riz ketupat tressés en feuilles de palmier et liés ensemble, un incontournable de l'hospitalité malaisienne des portes ouvertes de Hari Raya.",
+        "subject": "Gâteaux de riz ketupat tressés pour Hari Raya"
+      }
+    ]
   }
 }

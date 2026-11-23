@@ -32,7 +32,7 @@ faq:
   - q: "आज मलेशिया में चेट्टियार समुदाय की स्थिति कैसी है?"
     a: "बीसवीं सदी के मध्य में वित्तीय कानूनों में बदलाव और राजनीतिक परिवर्तनों ने पारंपरिक धन-उधारी व्यवसाय को सिकोड़ दिया। बहुत से लोग व्यापार, पेशेवर कार्यों और शिक्षा से जुड़े क्षेत्रों की ओर चले गए। संख्या में छोटा समुदाय होते हुए भी, वे मंदिरों, त्योहारों, भोजन और पारिवारिक परंपराओं के माध्यम से एक विशिष्ट सांस्कृतिक पहचान बनाए रखते हैं।"
 lang: "hi"
-sourceContentHash: "9862f72c904a9334"
+sourceContentHash: "7e3e2be6ebfbcd23"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Waterfall_Temple.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-1.webp
+    alt: पेनांग में साफ़ आकाश के सामने मूर्तियों से भरा एक रंगीन दक्षिण भारतीय मंदिर गोपुरम
+    kind: actual
+    origin: third-party
+    subject: पेनांग के जॉर्ज टाउन में नागरत्तार (नट्टुकोट्टई चेट्टियार) शिवन मंदिर
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Nagarathar_Sivan_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-2.webp
+    alt: संध्या के समय भक्तों की भीड़ के बीच पेनांग की एक सड़क से गुज़रता मालाओं से सजा एक ऊँचा सुनहरा मंदिर रथ
+    kind: actual
+    origin: third-party
+    subject: पेनांग में थाईपुसम जुलूस के दौरान स्वर्ण रथ और भक्त, एक उत्सव जिसे चेट्टियार समुदाय बनाए रखने में सहयोग करता है
+    credit: Seelit2004 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_Festival_The_Golden_Chariot_and_the_Followers.jpg
 ---
 
 पिनांग के थाईपुसम के दिन, चाँदी से बना एक भव्य रथ लेबुह पिनांग सड़क से चलकर पहाड़ी पर स्थित मुरुगन मंदिर की ओर प्रस्थान करता है। वह रथ, और एक सदी से अधिक समय से उसे चलाता आया समुदाय, संयोगमात्र नहीं हैं — दोनों चेट्टिनाड से मलाया तक की यात्रा करने वाली एक व्यापार-बैंकिंग परंपरा की कहानी कहते हैं।

@@ -34,7 +34,7 @@ seoTitle: "ปันตุน"
 socialTitle: "กวีมุขปาฐะที่เก่าแก่ที่สุดของชาวมลายู — เรื่องราวของปันตุนและมรดก UNESCO ของมัน"
 
 lang: "th"
-sourceContentHash: "038f73b231155ba9"
+sourceContentHash: "1f1ce01aeea4925b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/pantun/body-1.webp
+    alt: หุ่นหนังรูปตัวละครในตำนานที่แกะสลักอย่างประณีตทอดเงาคมชัดบนจอที่ส่องสว่างระหว่างการแสดงหนังตะลุงแบบกลันตัน-ปัตตานี
+    kind: actual
+    origin: third-party
+    subject: การแสดงหนังตะลุง (wayang kulit) แบบกลันตัน-ปัตตานี
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg
+  - role: scene
+    src: /media/arts-culture/pantun/body-2.webp
+    alt: วงกาเมลันมลายูที่แกะสลักอย่างวิจิตร ประกอบด้วยฆ้องสัมฤทธิ์ ฆ้องหม้อ และระนาดโลหะไม้ จัดแสดงที่พิพิธภัณฑ์ดนตรีในกรุงกัวลาลัมเปอร์
+    kind: actual
+    origin: third-party
+    subject: วงกาเมลันมลายู ที่พิพิธภัณฑ์ดนตรี กรุงกัวลาลัมเปอร์
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg
 ---
 
 > Pisang emas dibawa belayar,

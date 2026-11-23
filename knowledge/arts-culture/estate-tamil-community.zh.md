@@ -32,7 +32,7 @@ faq:
   - q: "今天在园丘工作的是谁？"
     a: "今天马来西亚的园丘工人大多是外籍移工。就泰米尔社群而言，从园丘到城镇的大迁移早在数十年前便已大体完成；今日的社群已在很大程度上转变为一个城市与半城市社群。"
 lang: "zh"
-sourceContentHash: "26feee7acc3d6568"
+sourceContentHash: "03062d40a74e2b62"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Ladang_Sungai_Getah.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-1.webp
+    alt: 1946 年马六甲一座园丘里，一名工人正从橡胶树上割取胶汁，令人联想到塑造了马来西亚园丘社群的种植园劳动
+    kind: representative
+    origin: third-party
+    subject: 马六甲橡胶园里的割胶作业（1946 年）
+    credit: Willem van de Poll / Nationaal Archief / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vrouw_bezig_met_het_aftappen_van_rubber_op_een_rubberplantage_in_Malakka,_Bestanddeelnr_255-6638.jpg
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-2.webp
+    alt: 新山印度文化遗产中心的一处博物馆展览，题为「早期职业：割胶」，陈列着身披纱丽的人像、胶汁桶，以及配有泰米尔文说明的历史园丘照片
+    kind: actual
+    origin: third-party
+    subject: 新山印度文化遗产中心「早期职业：割胶」展览，呈现泰米尔裔马来西亚人的园丘文化遗产
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indian_Heritage_Centre_(Johor_Bahru)_(2025)_-_img_10.jpg
 ---
 
 在马来西亚许多老城镇的边缘，一片曾经绿意盎然的树胶园，如今已变成遍布房屋与店铺街的住宅区。在那些新建筑之间，有时还残留着一座古老的阿曼庙，或一所小小的泰米尔小学——那是一个已被迁离的社群未曾褪色的印记。

@@ -34,7 +34,7 @@ faq:
     a: "இது பெரும்பாலும் ‘Malaysian New Wave’ என்று குறிப்பிடப்படுகிறது; இது 2000களின் தொடக்கத்தில் தோன்றிய சுயாதீனத் திரைப்பட இயக்குநர்களின் அலை. 2004-இல் Tan Chui Mui, Amir Muhammad, James Lee மற்றும் Liew Seng Tat ஆகியோரால் நிறுவப்பட்ட Da Huang Pictures அதன் மையங்களில் ஒன்றாக மாறியது; Tan-இன் படமான Love Conquers All, 2006 Busan சர்வதேச திரைப்பட விழாவில் New Currents மற்றும் FIPRESCI விருதுகளையும், Rotterdam-இல் Tiger விருதையும் வென்றது."
 
 lang: "ta"
-sourceContentHash: "defc3df96dc13355"
+sourceContentHash: "45a175545944f31c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -92,6 +92,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Rumah_Kelahiran_P._Ramlee.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-1.webp
+    alt: கோலாலம்பூர் நகர மையத்தில் போருக்கு முந்தைய ஒற்றைத் திரை திரையரங்கமான பழைய கொலிசியம் சினிமாவின் தெரு முகப்பும் விளம்பரப் பலகையும்
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர், ஜாலான் துவாங்கு அப்துல் ரஹ்மானில் உள்ள வரலாற்றுச் சிறப்புமிக்க கொலிசியம் சினிமா, மலேசியாவில் இன்னும் எஞ்சியிருக்கும் மிகப் பழமையான திரையரங்குகளில் ஒன்று
+    credit: Two hundred percent (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Coliseum_Cinema,_Kuala_Lumpur_(February_2007).jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-2.webp
+    alt: கோலாலம்பூர் வணிக வளாகம் ஒன்றினுள் ஒரு சமகால மல்டிபிளெக்ஸ் திரையரங்கின் பிரகாசமாக ஒளிரும் முன்கூடமும் அறிவிப்புப் பலகையும்
+    kind: actual
+    origin: third-party
+    subject: கோலாலம்பூர், பெவிலியன் புக்கிட் பிந்தாங்கில் ஒரு நவீன மல்டிபிளெக்ஸ் திரையரங்கின் நுழைவாயில்
+    credit: PulauKakatua19 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dadi_Cinema_Pavilion_Bukit_Bintang.jpg
 ---
 
 1955-இல், சிங்கப்பூர் No. 8 Jalan Ampas-இல் அமைந்த ஒரு ஸ்டூடியோவில் முன்னாள் *clapper* பையனாகவும் உதவி ஒளிப்பதிவாளராகவும் இருந்த ஒருவர், 26 வயதில் முதல் முறையாக இயக்குநர் நாற்காலியில் அமர்ந்தார். அந்தப் படம் *Penarek Becha*. அவரது பெயர் P. Ramlee. மலேசியத் திரைப்படத் துறையின் கதை Kuala Lumpur-இல் அல்ல, மாறாக Shanghai-ஐச் சேர்ந்த இரு சகோதரர்களுக்குச் சொந்தமான ஒரு சிங்கப்பூர் ஸ்டூடியோவில் தொடங்குகிறது — அன்றிலிருந்து அது நகர்வதை நிறுத்தவே இல்லை.

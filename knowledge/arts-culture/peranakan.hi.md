@@ -18,7 +18,7 @@ keyTakeaways:
   - "Nyonya वेशभूषा के केंद्र में स्थित kebaya को 2024 में Brunei, Indonesia, Malaysia, Singapore और Thailand के एक संयुक्त नामांकन में UNESCO की अमूर्त धरोहर सूची में अंकित किया गया"
 appliesTo: "वह हर व्यक्ति जो Peranakan (Baba-Nyonya) कौन हैं, और Melaka तथा Penang में उनके व्यंजन, वेशभूषा और भौतिक धरोहर को कैसे पहचानें — इसका एक तथ्यात्मक, सम्मानजनक अवलोकन चाहता है।"
 lang: "hi"
-sourceContentHash: "b8424f95164f1085"
+sourceContentHash: "c1d45c3d697ac014"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Baba_Nyonya_Heritage_Museum_-_Reception_Hall.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/peranakan/body-1.webp
+    alt: मलक्का में एक Peranakan शॉपहाउस का ऊपरी अग्रभाग, जिसमें मेहराबदार फ़िरोज़ी झिलमिली झरोखे, ढली हुई उभरी कलाकृतियाँ और चमकदार टाइलकारी की एक पट्टी है।
+    kind: actual
+    origin: third-party
+    subject: Peranakan शैली का शॉपहाउस अग्रभाग, मलक्का
+    credit: P. Hughes / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_-_traditional_Peranakan-style_shophouse.jpg
+  - role: scene
+    src: /media/arts-culture/peranakan/body-2.webp
+    alt: सफ़ेद पृष्ठभूमि पर गुलाबी चपरासी के फूलों और फ़ीनिक्स पक्षियों से चित्रित एक Peranakan चीनी-मिट्टी का चाय-पात्र और उसका ढक्कन, एक बक्से में प्रदर्शित।
+    kind: representative
+    origin: third-party
+    subject: फूल और पक्षी आकृतियों वाली Peranakan (nyonyaware) चाय चीनी-मिट्टी
+    credit: Gniam Jin Hong / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peranakan_tea_porcelain_with_floral_and_birds_motifs.jpg
 ---
 
 Melaka की Heeren Street पर किसी पुराने नगर-भवन में प्रवेश कीजिए, और कहानी किसी के एक शब्द कहने से पहले ही वस्तुओं में कह दी जाती है। सामने तीन टुकड़ों वाले सोने के ब्रोच से पिन की हुई एक कसी हुई फीतेदार (lace) ब्लाउज़। चप्पलों की एक जोड़ी जिसके अगले भाग हज़ारों नन्ही काँच की मनकों से ढके हैं, प्रत्येक हाथ से टाँकी गई। एक लंबी संगमरमर-शीर्ष मेज़ ऐसे भोजन के लिए सजी है जो न पूरी तरह चीनी है, न पूरी तरह मलय। ये सब Peranakan — Baba-Nyonya — की हैं, वह समुदाय जिसने दो दुनियाओं के बीच जीकर एक संस्कृति रच दी।

@@ -32,7 +32,7 @@ faq:
     a: "Ya. Oxford English Dictionary telah menambahkan beberapa kata Bahasa Inggris Malaysia dalam pembaruan berturut-turut, termasuk lepak, shiok, dan teh tarik pada 2016, beberapa istilah Manglish dan makanan Malaysia termasuk mamak, kopitiam, dan atas kemudian pada tahun yang sama, serta kata seperti boleh, agak-agak, dan wayang dalam pembaruan berikutnya — mengakui penggunaan Malaysia yang telah lama mapan dan bukannya menciptakan bahasa Inggris baru."
 
 lang: "id"
-sourceContentHash: "8f82ee70d6e9258e"
+sourceContentHash: "74516c4c0a947cb1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_2025.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/manglish/body-1.webp
+    alt: Sebuah jalan ruko di George Town yang toko-tokonya memasang papan nama dalam bahasa Inggris, Tamil, Tionghoa, dan Melayu berdampingan
+    kind: actual
+    origin: third-party
+    subject: Sebuah jalan Little India di George Town, Penang, dipenuhi papan nama toko dalam beberapa bahasa dan aksara
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_Scene_-_Little_India_-_George_Town_-_Penang_-_Malaysia_(35445172795).jpg
+  - role: scene
+    src: /media/arts-culture/manglish/body-2.webp
+    alt: Pembeli berjalan melewati deretan lapak makanan dan barang di sebuah pasar malam Malaysia yang ramai pada malam hari
+    kind: actual
+    origin: third-party
+    subject: Sebuah pasar malam di Seri Kembangan, Selangor, sebuah suasana jalanan Malaysia yang multibahasa sehari-hari
+    credit: '*angys* (Wikimedia Commons) / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pasar_Malam_Seri_Kembangan_(230403)_01.jpg
 ---
 
 "Can or not?" "Wait ah, later confirm lor." "Don't play play, I already tell you."

@@ -32,7 +32,7 @@ faq:
     a: "네. 옥스퍼드 영어 사전(Oxford English Dictionary)은 여러 차례의 갱신을 거치며 다수의 말레이시아 영어 낱말을 추가했습니다. 2016년에 lepak, shiok, teh tarik을, 같은 해 후반에 mamak, kopitiam, atas을 비롯한 여러 망글리시·말레이시아 음식 용어를, 그리고 이후 갱신에서 boleh, agak-agak, wayang 같은 낱말을 추가하여 — 새로운 영어를 만든 것이 아니라 정착된 말레이시아 용법을 인정했습니다."
 
 lang: "ko"
-sourceContentHash: "8f82ee70d6e9258e"
+sourceContentHash: "74516c4c0a947cb1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_2025.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/manglish/body-1.webp
+    alt: 조지타운의 한 숍하우스 거리로, 점포 간판이 영어·타밀어·중국어·말레이어로 나란히 걸려 있다
+    kind: actual
+    origin: third-party
+    subject: 페낭 조지타운의 리틀 인디아 거리, 길을 따라 여러 언어와 문자로 쓰인 상점 간판들
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_Scene_-_Little_India_-_George_Town_-_Penang_-_Malaysia_(35445172795).jpg
+  - role: scene
+    src: /media/arts-culture/manglish/body-2.webp
+    alt: 저녁 무렵, 말레이시아의 북적이는 야시장에서 음식과 물건을 파는 좌판 줄을 따라 손님들이 걷고 있다
+    kind: actual
+    origin: third-party
+    subject: 슬랑오르주 스리 큼방안의 파사르 말람(야시장), 말레이시아의 일상적인 다언어 거리 풍경
+    credit: '*angys* (Wikimedia Commons) / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pasar_Malam_Seri_Kembangan_(230403)_01.jpg
 ---
 
 "Can or not?" "Wait ah, later confirm lor." "Don't play play, I already tell you."

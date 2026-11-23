@@ -29,7 +29,7 @@ faq:
   - q: "媽祖を拝むのは道教ですか、それとも仏教ですか。"
     a: "媽祖は主として道教と華人の民間信仰の範疇に属し、しばしば他の神々とともに祀られます。一部の仏教の文脈でも媽祖への供奉が見られます。実践の上で、多くの華人は道教・仏教・民間信仰を厳密に区別せず、これはマレーシア華人の信仰が全般に相互に融合している状況と一致します。本稿は信仰の現象を記述するにとどまり、その宗教的意味を評価するものではありません。"
 lang: "ja"
-sourceContentHash: "1e60c14522a81280"
+sourceContentHash: "f3c9d3857e6a2d83"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-3.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mazu-worship/body-1.webp
+    alt: クアラ・トレンガヌにある歴史的な華人の媽祖廟の、龍の棟飾りを備えた華麗な屋根と正面
+    kind: actual
+    origin: third-party
+    subject: 和安宮。クアラ・トレンガヌの媽祖（天后、海の女神）廟で、トレンガヌ最古級の華人寺院の一つ
+    credit: Fikku_fiq (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ho_Ann_Kiong.jpg
+  - role: scene
+    src: /media/arts-culture/mazu-worship/body-2.webp
+    alt: 海南系の媽祖廟の本殿。吊り下げられた提灯、線香、金箔を施した祠の装飾が見られる
+    kind: actual
+    origin: third-party
+    subject: ペナン・ジョージタウンの海南廟（Tokong Hainan）の内部の祭壇。海の女神・媽祖を祀る寺院
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hainan_Tempel_Innen.JPG
 ---
 
 クアラルンプールの楽聖嶺（Robson Heights）の小高い丘の上に、赤い柱と瑠璃瓦の六階建ての廟が街を見下ろして建っている——これが楽聖嶺天后宮であり、華人世界で最も名高い海の女神・媽祖を祀っている。かつて海路で南来した華人は、海を渡る前後に無事を祈って彼女に祈願した。今日ここは、参拝者が線香を供える廟であると同時に、海南の同郷人が集う場であり、観光客が写真を撮る名所でもある。

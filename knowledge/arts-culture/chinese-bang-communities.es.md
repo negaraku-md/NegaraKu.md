@@ -33,7 +33,7 @@ faq:
     a: "Las fronteras entre los bang se han difuminado claramente. Con los matrimonios entre bang, la urbanización y el mandarín convertido en lengua común interdialectal a través de la educación en chino, la conciencia del origen ancestral en las generaciones jóvenes suele ser más débil que la de sus mayores. Pero los bang no han desaparecido del todo: por todo el país siguen activas las asociaciones de clan, las asociaciones de paisanos, los salones ancestrales y los cementerios, mucha gente sigue conociendo su origen ancestral, y su influencia aún se percibe en ocasiones como el Qingming (la limpieza de tumbas). Los bang han pasado poco a poco de ser 'la columna vertebral que organizaba la sociedad' a ser 'una memoria de la cultura y la historia'."
 
 lang: "es"
-sourceContentHash: "5650e666f12a2927"
+sourceContentHash: "10ca23f6290e2d4a"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-1.webp
+    alt: Un edificio de casa-tienda (shophouse) de antes de la guerra, en amarillo y rojo, que alberga una asociación de clan hokkien en una calle céntrica de Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: El edificio de la Asociación Hokkien de Selangor (una asociación de clan del grupo dialectal hokkien) en Jalan Hang Lekiu, Kuala Lumpur
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Selangor_Hokkien_Association_Building,_Jalan_Hang_Lekiu,_central_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-2.webp
+    alt: Una ornamentada casa-tienda neoclásica de tres plantas que en su día albergó una asociación de clan hakka en el centro de Seremban
+    kind: actual
+    origin: third-party
+    subject: El antiguo edificio de la Asociación Fui Chiu (hakka de Huizhou), una casa de clan del grupo dialectal hakka en Seremban
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fui_Chiu_Association_Building,_Seremban.jpg
 ---
 
 En las viejas calles de Penang, los comercios que sostienen toda una hilera de escaparates son en su mayoría negocios regentados por hokkien; en ciudades que surgieron del estaño, como Kuala Lumpur e Ipoh, las minas y los gremios se llenaban de cantoneses y hakka; y en cualquier ciudad en la que uno entre, el viejo café que vende café hainanés y tostadas con mantequilla y kaya tiene a menudo a un hainanés detrás del mostrador.

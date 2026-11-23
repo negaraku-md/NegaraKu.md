@@ -103,6 +103,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-1.webp
+    alt: Guests in batik and baju kurung smile and shake hands in greeting at the doorway of a Hari Raya Aidilfitri open house.
+    kind: representative
+    origin: third-party
+    subject: Guests greeting their hosts at a Hari Raya Aidilfitri open house
+    credit: Embassy of the Republic of Indonesia, Bandar Seri Begawan / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indonesian_Embassy_host_Aidilfitri_Open_House_02.jpg
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-2.webp
+    alt: A cluster of woven palm-leaf ketupat rice casings tied together, a staple of Malaysian Hari Raya open-house hospitality.
+    kind: actual
+    origin: third-party
+    subject: Woven ketupat rice cakes for Hari Raya
+    credit: Miss Izzah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_Nasi.jpg
 ---
 
 You have been invited to a *rumah terbuka* — an open house. Maybe it's a

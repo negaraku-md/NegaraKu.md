@@ -33,7 +33,7 @@ faq:
     a: "Thanh Minh là ngày nhộn nhịp nhất trong năm ở nghĩa sơn. Trong khoảng mười ngày quanh dịp Thanh Minh, các gia đình người Hoa thường cả nhà đến nghĩa sơn tảo mộ và cúng tổ tiên — nhổ cỏ, lau dọn bia mộ, tô lại những chữ khắc đã phai và bày biện lễ vật. Ở Quảng Đông, tảo mộ thường được gọi là 'bái sơn' (拜山, viếng mộ trên núi), và cách nói này cũng theo chân người di cư đến vùng Nam Dương. Những năm gần đây một số ban quản lý nghĩa sơn khuyến khích cách làm giản tiện, thân thiện với môi trường và xử lý rác đúng cách, và một số gia đình nay viếng hộc tro hoặc tưởng niệm trực tuyến thay thế."
 
 lang: "vi"
-sourceContentHash: "e72824defc696291"
+sourceContentHash: "bde2db0f6db810c5"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Melaka_Malaysia_Chinese-Cemetery-at-Bukit-Cina-04.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-1.webp
+    alt: Những hàng mộ người Hoa hình chữ omega lát gạch men, có bia mộ và bàn thờ, trong một nghĩa trang đầy cỏ ở Sarawak
+    kind: actual
+    origin: third-party
+    subject: Những ngôi mộ người Hoa lát gạch men hình móng ngựa tại một nghĩa trang người Hoa gần Kuching, Sarawak
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Chinese_graveyard_in_Sarawak_(29089016533).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-cemeteries/body-2.webp
+    alt: Những dải giấy màu đặt ngang trên một nấm mộ phủ cỏ bên cạnh bia mộ trong lễ tảo mộ Thanh Minh
+    kind: representative
+    origin: third-party
+    subject: Giấy màu được chặn lên nấm mộ trong dịp Thanh Minh (tảo mộ) tại Nghĩa trang Bukit Brown
+    credit: Jacklee / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Five_coloured_papers_on_a_grave_mound,_Bukit_Brown_Cemetery,_Singapore_-_20110326-01.jpg
 ---
 
 Vào dịp Thanh Minh, khi trời còn chưa sáng hẳn, dưới chân đồi Bukit Cina ở Melaka đã đỗ chật xe. Hết gia đình này đến gia đình khác tay cầm hoa tươi, nhang, nến và lễ vật, men theo sườn đồi nhấp nhô đi về phía mộ tổ tiên nhà mình. Có người trước tiên thắp nhang tại một khám đá nhỏ bên cạnh mộ khắc chữ "Hậu Thổ", rồi quay sang chăm sóc bia mộ của người đã khuất — nhổ cỏ, tô lại những chữ khắc đã phai, rồi bày biện lễ vật. Những ngôi mộ dày đặc trải dọc sườn đồi, tất cả cùng một hướng, là chốn yên nghỉ của hết thế hệ này đến thế hệ khác người Hoa di cư xuống phương nam.

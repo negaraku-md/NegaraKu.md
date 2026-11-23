@@ -36,7 +36,7 @@ socialTitle: "马来人最古老的口传诗歌——pantun 的故事及其 UNES
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "038f73b231155ba9"
+sourceContentHash: "1f1ce01aeea4925b"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/pantun/body-1.webp
+    alt: 吉兰丹-北大年风格皮影戏（wayang kulit）表演中，雕刻精细的神话人物皮偶在发光的幕布上投下清晰的剪影
+    kind: actual
+    origin: third-party
+    subject: 吉兰丹-北大年风格的皮影戏（wayang kulit）
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg
+  - role: scene
+    src: /media/arts-culture/pantun/body-2.webp
+    alt: 一组雕饰精美的马来甘美兰（gamelan）乐器，由青铜锣、釜锣与木制排琴组成，陈列于吉隆坡音乐博物馆
+    kind: actual
+    origin: third-party
+    subject: 马来甘美兰（gamelan）乐队，吉隆坡音乐博物馆
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg
 ---
 
 > Pisang emas dibawa belayar,

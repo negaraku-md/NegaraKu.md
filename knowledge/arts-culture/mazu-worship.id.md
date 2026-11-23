@@ -29,7 +29,7 @@ faq:
   - q: "Apakah memuja Mazu tergolong Taoisme atau Buddha?"
     a: "Mazu terutama tergolong dalam ranah Taoisme dan kepercayaan rakyat Tionghoa, dan sering dipuja bersama dewa-dewa lain; dalam sejumlah konteks Buddha juga terdapat pemujaan terhadap Mazu. Dalam praktiknya banyak orang Tionghoa tidak membedakan secara ketat antara Taoisme, Buddha, dan kepercayaan rakyat, sejalan dengan keadaan kepercayaan orang Tionghoa Malaysia yang pada umumnya saling berbaur. Artikel ini hanya mendeskripsikan fenomena kepercayaan dan tidak menilai makna keagamaannya."
 lang: "id"
-sourceContentHash: "1e60c14522a81280"
+sourceContentHash: "f3c9d3857e6a2d83"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-3.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mazu-worship/body-1.webp
+    alt: Atap dan fasad indah sebuah kelenteng Mazu Tionghoa bersejarah di Kuala Terengganu, dengan hiasan naga di bubungan
+    kind: actual
+    origin: third-party
+    subject: Ho Ann Kiong, sebuah kelenteng Mazu (Tian Hou, dewi laut) di Kuala Terengganu, salah satu kelenteng Tionghoa tertua di Terengganu
+    credit: Fikku_fiq (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ho_Ann_Kiong.jpg
+  - role: scene
+    src: /media/arts-culture/mazu-worship/body-2.webp
+    alt: Ruang altar utama sebuah kelenteng Mazu Hainan di George Town, dengan lampion tergantung, hio, dan perlengkapan altar bersepuh emas
+    kind: actual
+    origin: third-party
+    subject: Altar bagian dalam Kelenteng Hainan (Tokong Hainan) di George Town, Penang, sebuah kelenteng yang memuja dewi laut Mazu
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hainan_Tempel_Innen.JPG
 ---
 
 Di atas sebuah bukit kecil di Robson Heights, Kuala Lumpur, berdiri sebuah kelenteng enam lantai bertiang merah dan beratap genting kaca yang menghadap ke kota — inilah Thean Hou Temple, yang memuja dewi laut paling termasyhur di dunia Tionghoa: Mazu. Dahulu, orang Tionghoa yang merantau ke selatan melalui laut kerap berdoa memohon keselamatan kepadanya sebelum dan sesudah menyeberangi lautan; kini, tempat ini sekaligus menjadi kelenteng tempat umat menyalakan dupa, tempat sanak sekampung Hainan berkumpul, dan latar bagi foto para wisatawan.

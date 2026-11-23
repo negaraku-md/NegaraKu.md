@@ -29,7 +29,7 @@ faq:
   - q: "การบูชาหม่าจู่ถือเป็นลัทธิเต๋าหรือพุทธศาสนา"
     a: "หม่าจู่อยู่ในขอบเขตของลัทธิเต๋าและความเชื่อพื้นบ้านของชาวจีนเป็นหลัก และมักได้รับการประดิษฐานร่วมกับเทพองค์อื่น ๆ ในบางบริบทของพุทธศาสนาก็พบการบูชาหม่าจู่ด้วย ในทางปฏิบัติ ชาวจีนจำนวนมากไม่ได้แยกลัทธิเต๋า พุทธศาสนา และความเชื่อพื้นบ้านออกจากกันอย่างเคร่งครัด ซึ่งสอดคล้องกับสภาพความเชื่อของชาวจีนมาเลเซียที่โดยทั่วไปหลอมรวมเข้าด้วยกัน บทความนี้เพียงบรรยายปรากฏการณ์ทางความเชื่อ และไม่ตัดสินความหมายทางศาสนา"
 lang: "th"
-sourceContentHash: "1e60c14522a81280"
+sourceContentHash: "f3c9d3857e6a2d83"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-3.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mazu-worship/body-1.webp
+    alt: หลังคาและด้านหน้าอันวิจิตรของศาลเจ้าแม่หม่าโจ้วจีนเก่าแก่ในกัวลาตรังกานู พร้อมเครื่องประดับมังกรบนสันหลังคา
+    kind: actual
+    origin: third-party
+    subject: ศาลเจ้าโฮอันเกียง ศาลเจ้าแม่หม่าโจ้ว (เทียนโฮ่ว เทพีแห่งท้องทะเล) ในกัวลาตรังกานู หนึ่งในศาลเจ้าจีนที่เก่าแก่ที่สุดในตรังกานู
+    credit: Fikku_fiq (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ho_Ann_Kiong.jpg
+  - role: scene
+    src: /media/arts-culture/mazu-worship/body-2.webp
+    alt: ห้องแท่นบูชาหลักของศาลเจ้าแม่หม่าโจ้วชาวไหหลำในจอร์จทาวน์ พร้อมโคมแขวน ธูป และเครื่องประดับแท่นบูชาปิดทอง
+    kind: actual
+    origin: third-party
+    subject: แท่นบูชาภายในศาลเจ้าไหหลำ (Tokong Hainan) ในจอร์จทาวน์ รัฐปีนัง ศาลเจ้าที่บูชาเทพีแห่งท้องทะเลหม่าโจ้ว
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hainan_Tempel_Innen.JPG
 ---
 
 บนเนินเขาเล็ก ๆ ที่รอบสันไฮตส์ (Robson Heights) ในกัวลาลัมเปอร์ มีวัดหกชั้นเสาแดงหลังคากระเบื้องเคลือบตั้งตระหง่านมองลงมายังเมือง นี่คือวัดเทียนโฮ่ว ซึ่งประดิษฐานเทพีแห่งท้องทะเลที่มีชื่อเสียงที่สุดในโลกของชาวจีน นั่นคือหม่าจู่ ในอดีต ชาวจีนที่อพยพลงใต้ทางทะเลมักอธิษฐานขอความปลอดภัยจากเธอทั้งก่อนและหลังการข้ามทะเล ทุกวันนี้ที่นี่เป็นทั้งวัดที่ผู้ศรัทธามาจุดธูปบูชา เป็นที่รวมตัวของชาวไหหลำร่วมถิ่น และเป็นสถานที่ที่นักท่องเที่ยวมาถ่ายภาพ

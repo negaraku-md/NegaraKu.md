@@ -33,7 +33,7 @@ faq:
   - q: "Le culte de Mariamman est-il une religion à part ?"
     a: "Non. Le culte de Mariamman fait partie de l'hindouisme plus large et, en particulier, de la tradition shakta (shakti). Amman est souvent vénérée avec les formes de la déesse Kali et Durga. Dans la communauté hindoue de Malaisie, le culte d'Amman se pratique parallèlement au culte de Shiva et de Murugan."
 lang: "fr"
-sourceContentHash: "74fa7f5263aec6a2"
+sourceContentHash: "f0f0df6a703389cd"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple_2,_central_Kuala_Lumpur.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-1.webp
+    alt: La tour gopuram sculptée du temple de Mariamman à George Town, couverte de figures de divinités hindoues peintes de couleurs vives
+    kind: actual
+    origin: third-party
+    subject: Le temple Sri Mahamariamman à George Town, Penang, le plus ancien temple hindou de la ville dédié à la déesse Mariamman
+    credit: Sin-siong (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-2.webp
+    alt: La salle de prière intérieure à colonnes d'un temple de Mariamman, aux plafonds peints et aux sanctuaires orientés vers le saint des saints
+    kind: actual
+    origin: third-party
+    subject: La salle de prière intérieure du temple de Mariamman à George Town, Penang
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mahamariamman_Tempel_Innen.JPG
 ---
 
 À proximité de presque toutes les anciennes plantations d'hévéas de Malaisie, et le long des rues chargées d'histoire des centres-villes, on peut trouver un temple de Mariamman. La statue d'Amman au visage jaune ocre, et les fêtes qui se tiennent avant la saison des pluies, ne sont pas le fruit du hasard : elles portent plus d'un siècle et demi d'histoire et de tradition de foi d'une communauté tamoule.

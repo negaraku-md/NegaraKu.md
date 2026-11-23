@@ -31,7 +31,7 @@ faq:
     a: "Penerima memperoleh Warkah Penghormatan Negara, uang tunai RM60,000, alokasi penerbitan bernilai hingga RM500,000 (hingga 50,000 naskah), perawatan medis gratis kelas satu di rumah sakit pemerintah, serta tunjangan RM5,000 sebulan."
 
 lang: "id"
-sourceContentHash: "c27d87b5dbf2077e"
+sourceContentHash: "baad7b6b6a245b8b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-1.webp
+    alt: Kerumunan pembaca melihat-lihat deretan stan penerbit yang bertumpuk buku di pameran buku internasional Malaysia
+    kind: actual
+    origin: third-party
+    subject: Pengunjung melihat-lihat stan di Pameran Buku Internasional Kuala Lumpur (Pesta Buku Antarabangsa Kuala Lumpur) 2023
+    credit: Wiki Farazi (Wikimedia Commons) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pesta_Buku_Antarabangsa_Kuala_Lumpur_2023_20230529_143928.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-2.webp
+    alt: Gedung Perpustakaan Nasional Malaysia di Kuala Lumpur, bermahkotakan atap berpola songket biru yang khas
+    kind: actual
+    origin: third-party
+    subject: Perpustakaan Nasional Malaysia di Kuala Lumpur, dengan atap tenda berinspirasi songket
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_National-Library-of-Malaysia-02.jpg
 ---
 
 Sebelum ada novel dan sebelum ada dewan bahasa, seorang penglipur lara sudah mengarang wira Melayu di halaman istana Melaka. Dari tradisi lisan itulah tumbuh salah satu warisan sastra terkaya di kawasan ini — sebuah tradisi yang saat ini dirayakan dengan gelar negara, uang ratusan ribu ringgit, dan kursi kehormatan dalam peradaban bangsa.

@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "th"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "ffa309d9ae04f20d"
+sourceContentHash: "cbcbfec907d9ad67"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-1.webp
+    alt: ด้านหน้าอันวิจิตรของศาลเจ้าจีนเก่ายะโฮร์บาห์รู ประดับประติมากรรมมังกรบนหลังคา ภาพปูนปั้นดินเผา และโคมแดงที่ทางเข้า
+    kind: actual
+    origin: third-party
+    subject: ศาลเจ้าจีนเก่ายะโฮร์บาห์รู ศาลเจ้าความเชื่อพื้นบ้านของชาวจีน
+    credit: Ralff Nestor Nacor / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Ancient_Temple,_Malaysia_(2).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-2.webp
+    alt: ธูปที่จุดไว้เป็นกลุ่มส่งควันลอยขึ้นเบื้องหน้าศาลเจ้าแม่กวนอิมในจอร์จทาวน์ รัฐปีนัง สถานที่สักการะของชาวจีนที่มีมายาวนาน
+    kind: actual
+    origin: third-party
+    subject: ธูปที่จุดเผาที่ศาลเจ้าแม่กวนอิม จอร์จทาวน์ รัฐปีนัง
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_092_-_Penang_-_burning_incense_at_the_Goddess_of_Mercy_Temple_(3923018968).jpg
 ---
 
 เมื่อก้าวเข้าสู่วัดจีนแห่งใดก็ตามในมาเลเซีย คุณมีแนวโน้มจะได้เห็นพระพุทธเจ้า

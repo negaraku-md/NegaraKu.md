@@ -35,7 +35,7 @@ seoTitle: "Orang Asli: ba nhóm chính, 18 tộc người và JAKOA"
 socialTitle: "Orang Asli là ai — ba nhóm, 18 tộc người, và cơ quan chăm lo cho họ"
 
 lang: "vi"
-sourceContentHash: "22c8505f8289ae57"
+sourceContentHash: "461e1709110699f4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -100,6 +100,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Welcome_to_Kampung_Orang_Asli_Lubuk_Legong_village_mural_in_front_of_the_school_building.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-1.webp
+    alt: Một nghệ sĩ Mah Meri đeo mặt nạ gỗ chạm khắc hình linh hồn tổ tiên và mặc trang phục lá cọ xếp nếp biểu diễn điệu Mayin Jo'oh trước khán giả tại một chương trình văn hóa ngoài trời.
+    kind: actual
+    origin: third-party
+    subject: Điệu múa mặt nạ Mayin Jo'oh của người Mah Meri được trình diễn tại một chương trình văn hóa ở Kuala Lumpur
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayin_Jo%E2%80%99oh_Mah_Meri_Masked_Dance_by_Tompoq_Topoh_22.jpg
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-2.webp
+    alt: Lối vào Bảo tàng Nghề thủ công Orang Asli ở Kuala Lumpur, với một tượng gỗ Orang Asli lớn được chạm khắc đứng bên cạnh bảng hiệu giữa cây cối nhiệt đới.
+    kind: actual
+    origin: third-party
+    subject: Bảo tàng Nghề thủ công Orang Asli (Muzium Seni Kraf Orang Asli), Kuala Lumpur
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Seni_Kraf_Orang_Asli.jpg
 ---
 
 Từ lâu trước khi cái tên Malaysia hiện diện trên bản đồ, đã có những cộng đồng cư trú trong rừng, vùng cao nguyên và ven biển của bán đảo. Ngày nay họ được gọi chung là Orang Asli — thuật ngữ tiếng Mã Lai nghĩa là «con người nguyên thủy» hay «cư dân bản địa».

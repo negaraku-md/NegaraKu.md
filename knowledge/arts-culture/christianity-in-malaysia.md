@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-1.webp
+    alt: The white Gothic-revival St Mary's Cathedral, an Anglican church beside Merdeka Square in Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: St Mary's Anglican Cathedral, Kuala Lumpur
+    credit: Flaming Ferrari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St._Mary's_Cathedral,_Kuala_Lumpur.JPG
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-2.webp
+    alt: The modern Holy Trinity Catholic Church in Tawau, Sabah, representing the Christian communities of East Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Holy Trinity Catholic Church, Tawau, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Holy-Trinity-Catholic-Church-01.jpg
 ---
 
 Malaysia's Christian story has two centres of gravity, and neither is in the

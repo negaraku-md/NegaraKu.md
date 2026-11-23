@@ -34,7 +34,7 @@ seoTitle: "बहासा मेलायू: अनुच्छेद 152 क�
 socialTitle: "बहासा मेलायू राष्ट्रभाषा कैसे बनी — और जावी से रूमी तक कैसे पहुँची"
 
 lang: "hi"
-sourceContentHash: "ac6472952bdfcbbb"
+sourceContentHash: "1fc94a71a343c3e0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -102,6 +102,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka_building,_Malaysia_(DSCF0833).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-1.webp
+    alt: एक मलेशियाई पुस्तक मेले में 'मलय पुस्तकें' लिखा लटका हुआ बोर्ड, जिसके नीचे मलय-भाषा की पेपरबैक किताबों से भरी मेज़ों पर ग्राहक पुस्तकें देख रहे हैं
+    kind: actual
+    origin: third-party
+    subject: मलेशिया में एक पुस्तक मेले में मलय-भाषा की पुस्तकों का खंड
+    credit: Uniku Putra / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BBWBooks_Malay_Book_2012.JPG
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-2.webp
+    alt: काँच के बक्से में एक स्टैंड पर प्रदर्शित जावी लिपि में एक पुरानी, खुली हस्तलिखित पांडुलिपि
+    kind: actual
+    origin: third-party
+    subject: जावी लिपि में एक खुली मलय-भाषा पांडुलिपि (हुकुम कानून मेलाका विधि-संग्रह), मलेशिया
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 कुआला बेरांग, तेरेंगानु में, एक शिलालेख मिला जिस पर मलय शब्द अंकित थे — उन अक्षरों में नहीं जिन्हें हम आज जानते हैं, बल्कि मलय ध्वनियों के लिए अनुकूलित अरबी लिपि में। मलेशिया राष्ट्रीय अभिलेखागार (Arkib Negara Malaysia) के अनुसार, यह शिलालेख 1303 ईस्वी का है।

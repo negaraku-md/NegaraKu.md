@@ -32,7 +32,7 @@ seoTitle: "Dialectos chinos de Malasia: hokkien, cantonés y hakka por región"
 socialTitle: "Los mismos chinos, ¿por qué lenguas distintas? El mapa dialectal de Malasia"
 
 lang: "es"
-sourceContentHash: "c773c2be8c4e6544"
+sourceContentHash: "377a93a3d1a42245"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-1.webp
+    alt: Paneles de puerta pintados con esmero, con figuras ataviadas con túnicas, y un relieve de tigre en un templo ancestral chino teochew en Penang
+    kind: actual
+    origin: third-party
+    subject: Dioses guardianes de las puertas pintados y un relieve de tigre en el templo ancestral Han Jiang, el templo del grupo dialectal teochew en George Town, Penang
+    credit: Christophe95 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Han_Jiang_Ancestral_Temple_1.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-2.webp
+    alt: Casas-tienda chinas de dos plantas desgastadas por el tiempo, con ventanas de contraventanas y soportales cubiertos de cinco pies, a lo largo de una tranquila calle de George Town
+    kind: actual
+    origin: third-party
+    subject: Una hilera de antiguas casas-tienda chinas con soportales de cinco pies (five-foot-ways) en una calle de George Town, Penang
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
 ---
 
 En un café de Penang, pide un kopi en hokkien; en Kuala Lumpur e Ipoh, esa misma taza de café se pide en cantonés; vaya más lejos, hasta Sibu, en Sarawak, y quien le atienda probablemente hable foochow. Los tres son chinos malasios y, sin embargo, hablan tres lenguas mutuamente ininteligibles.

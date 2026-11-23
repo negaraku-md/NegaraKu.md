@@ -32,7 +32,7 @@ seoTitle: "말레이시아 화인 방언: 호키엔어, 광둥어, 하카어의 
 socialTitle: "같은 화인인데 왜 저마다 다른 말을 쓰는가? 말레이시아 방언 지도"
 
 lang: "ko"
-sourceContentHash: "c773c2be8c4e6544"
+sourceContentHash: "377a93a3d1a42245"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-1.webp
+    alt: 페낭의 차오저우(조주) 사당에 긴 옷을 입은 인물을 그린 정교한 문짝 그림과 호랑이 부조가 있다
+    kind: actual
+    origin: third-party
+    subject: 한장가묘(韓江家廟)의 채색 문신(門神)과 호랑이 부조, 페낭 조지타운의 차오저우(潮州) 방언 집단 사당
+    credit: Christophe95 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Han_Jiang_Ancestral_Temple_1.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-2.webp
+    alt: 조지타운의 한적한 거리를 따라 늘어선, 덧문을 닫은 창과 지붕 덮인 '다섯 발 보도'를 갖춘 낡은 2층 중국식 숍하우스
+    kind: actual
+    origin: third-party
+    subject: 페낭 조지타운 거리에 늘어선 '다섯 발 보도'를 갖춘 오래된 중국식 숍하우스
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
 ---
 
 페낭의 커피숍에서는 호키엔어로 코피(kopi) 한 잔을 시키고, 쿠알라룸푸르와 이포에 가면 같은 커피 한 잔이 광둥어로 바뀌며, 사라왁 시부로 더 가면 당신을 맞이하는 것은 십중팔구 푸저우어입니다. 세 곳의 사람 모두 화인이지만, 말하는 것은 서로 통하지 않는 세 가지 말입니다.

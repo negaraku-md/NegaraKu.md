@@ -31,7 +31,7 @@ faq:
     a: "수상자는 국가 명예 증서(Warkah Penghormatan Negara), 현금 RM60,000, 최대 RM500,000 상당의 출판 지원(최대 50,000부), 정부 병원 1등 병실 무료 진료, 그리고 월 수당 RM5,000을 받습니다."
 
 lang: "ko"
-sourceContentHash: "c27d87b5dbf2077e"
+sourceContentHash: "baad7b6b6a245b8b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-1.webp
+    alt: 말레이시아 국제 도서전에서 책이 쌓인 출판사 부스 줄을 수많은 독자들이 둘러보고 있다
+    kind: actual
+    origin: third-party
+    subject: 2023년 쿠알라룸푸르 국제 도서전(Pesta Buku Antarabangsa Kuala Lumpur)의 부스를 둘러보는 방문객들
+    credit: Wiki Farazi (Wikimedia Commons) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pesta_Buku_Antarabangsa_Kuala_Lumpur_2023_20230529_143928.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-2.webp
+    alt: 쿠알라룸푸르에 있는 말레이시아 국립도서관 건물로, 독특한 파란색 송켓 문양 지붕을 이고 있다
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르의 말레이시아 국립도서관(Perpustakaan Negara Malaysia), 송켓(songket)에서 영감을 받은 천막형 지붕
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_National-Library-of-Malaysia-02.jpg
 ---
 
 소설이 있기 전, 언어원(dewan bahasa)이 있기 전에, 한 이야기꾼(penglipur lara)이 이미 믈라카 궁정 뜰에서 말레이 영웅을 지어냈습니다. 바로 그 구전 전통에서 이 지역에서 가장 풍요로운 문학 유산 가운데 하나가 자라났습니다 — 오늘날 국가 칭호와 수십만 링깃의 돈, 그리고 민족 문명 속 명예로운 자리로 기려지는 전통입니다.

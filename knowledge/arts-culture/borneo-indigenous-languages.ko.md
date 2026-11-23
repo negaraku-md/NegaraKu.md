@@ -34,7 +34,7 @@ faq:
     a: "네, 일부는 교육부의 모어 교육(Pupil's Own Language, POL) 프로그램 아래 보통 선택 과목으로 가르쳐집니다. 카다잔두순(Kadazandusun)은 1997년에 시작된 시범 사업 이래 사바의 공립학교에서 가르쳐지고 있으며, 이반은 사라왁의 학교에서 가르쳐집니다. 개설 여부는 수요와 정책이 정한 최소 학급 규모 충족에 달려 있습니다."
 
 lang: "ko"
-sourceContentHash: "d94b9d6d02d53a14"
+sourceContentHash: "dae5581cc3aa31e5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -89,6 +89,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-1.webp
+    alt: 검정과 금색의 카다잔 의상과 원뿔형 모자를 쓰고 대나무 악기를 든 젊은이들이 사바의 야외 문화 행사에 참여하고 있다
+    kind: actual
+    origin: third-party
+    subject: 전통 의상을 입은 카다잔 탕가라(Kadazan Tangara) 공동체가 사바주 파파르의 수확제 카아마탄(Kaamatan)을 기념하는 모습
+    credit: Jjurieee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kadazan_Tangara_Papar.jpg
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-2.webp
+    alt: 오랑 울루 의례 복장과 구슬 머리장식을 한 남녀가 보르네오의 소용돌이 문양이 그려진 벽 앞에 서 있다
+    kind: actual
+    origin: third-party
+    subject: 전통 복장을 한 오랑 울루(Orang Ulu) 부부가 문양이 그려진 롱하우스 벽화 앞에 선 모습, 사라왁주
+    credit: AjarnRichard / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orang_Ulu_(Dayak)_People_with_Tradtional_Motifs.jpg
 ---
 
 보르네오의 내륙 위를 날면, 대부분의 나라가 통틀어 지닌 것보다 많은 언어를 한 시간 안에 지나갑니다. 사바 고지대의 한 강 골짜기, 사라왁 상류 바람강(Baram)의 한 롱하우스, 해안의 한 어촌 — 저마다 옆 골짜기가 거의 알아듣지 못하는 말로 당신을 맞이할 수 있습니다.

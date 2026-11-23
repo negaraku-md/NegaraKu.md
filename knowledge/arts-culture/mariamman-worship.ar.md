@@ -33,7 +33,7 @@ faq:
   - q: "هل عبادة ماريامّان دين مستقل؟"
     a: "لا. عبادة ماريامّان جزء من الهندوسية الأوسع، ولا سيما من تقليد الشاكتا (شاكتي). وكثيرًا ما تُبجَّل أمّان مع شكلَي الإلهة كالي ودورغا. وفي المجتمع الهندوسي الماليزي تسير عبادة أمّان جنبًا إلى جنب مع عبادة شيفا ومورغان."
 lang: "ar"
-sourceContentHash: "74fa7f5263aec6a2"
+sourceContentHash: "f0f0df6a703389cd"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple_2,_central_Kuala_Lumpur.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-1.webp
+    alt: برج المعبد المنحوت (gopuram) لمعبد Mariamman في George Town، مغطّى بتماثيل مطليّة بألوان زاهية لآلهة هندوسية
+    kind: actual
+    origin: third-party
+    subject: معبد Sri Mahamariamman في George Town، Penang، أقدم معبد هندوسي في المدينة مكرّس للإلهة Mariamman
+    credit: Sin-siong (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-2.webp
+    alt: قاعة الصلاة الداخلية ذات الأعمدة لمعبد Mariamman، بأسقف مرسومة ومزارات تتّجه نحو قُدس الأقداس
+    kind: actual
+    origin: third-party
+    subject: قاعة الصلاة الداخلية لمعبد Mariamman في George Town، Penang
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mahamariamman_Tempel_Innen.JPG
 ---
 
 بجوار أي مزرعة مطاط قديمة تقريبًا في ماليزيا، وعلى امتداد الشوارع العتيقة في مراكز المدن، يمكنك أن تجد معبدًا لماريامّان. إن تمثال أمّان بوجهه الأصفر المائل إلى لون المغرة، والمهرجانات التي تُقام قبل موسم الأمطار، ليست من قبيل المصادفة — فهي تحمل أكثر من قرن ونصف من تاريخ مجتمع تاميلي وتقليده في الإيمان.

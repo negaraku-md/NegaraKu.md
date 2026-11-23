@@ -30,7 +30,7 @@ faq:
     a: "According to JKKN, the DKK 1971 forms the basis of the National Culture Policy (DAKEN) 2021, which is built on seven pillars with an implementation period of 2021-2025. JKKN also states that the DKK 1971 was never formally endorsed at Cabinet level, even though it guided administration for about 50 years."
 
 lang: "en"
-sourceContentHash: "13839d2ad5ad43f3"
+sourceContentHash: "14db5b6eb5ede180"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala-Lumpur_Malaysia_Istana-Budaya-02.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/national-cultural-policy/body-1.webp
+    alt: A group of dancers in traditional Sarawakian costume performing a folk dance on stage for an audience
+    kind: actual
+    origin: third-party
+    subject: Performers in traditional costume presenting a Sarawak folk dance at a cultural showcase in Malaysia
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_folk_dancers_(28655218970).jpg
+  - role: scene
+    src: /media/arts-culture/national-cultural-policy/body-2.webp
+    alt: The front of the National Museum of Malaysia, a building with a Minangkabau peaked roof and large tiled mural panels
+    kind: actual
+    origin: third-party
+    subject: The National Museum of Malaysia (Muzium Negara) in Kuala Lumpur, with its Minangkabau-style roof and heritage mosaic murals
+    credit: Bahnfrend (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jpg
 ---
 
 In 1971, about two years after the [13 May 1969 incident](/malaysia/13-may-1969), a group of scholars, arts practitioners and leaders gathered at the University of Malaya to answer a difficult question for a multiracial nation: what is meant by "national culture"? The answer that emerged — the National Cultural Policy (DKK) — remains a policy reference to this day, and remains, in equal measure, a subject of debate.

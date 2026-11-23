@@ -36,7 +36,7 @@ socialTitle: "Logat Kelantan, dialek utara, Melayu Sarawak — keragaman dialek 
 lang: "id"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "5b24bf4ffc138470"
+sourceContentHash: "b41043538f8f4aad"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_House1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malay-dialects/body-1.webp
+    alt: Rumah Warisan Haji Su, sepasang rumah Melayu kayu tradisional bergaya pantai timur Kuala Terengganu.
+    kind: actual
+    origin: third-party
+    subject: Rumah Melayu tradisional Terengganu (Rumah Warisan Haji Su), Kuala Terengganu
+    credit: Fikku fiq / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rumah_Warisan_Haji_Su,_Kuala_Terengganu.jpg
+  - role: scene
+    src: /media/arts-culture/malay-dialects/body-2.webp
+    alt: Rumah tradisional Negeri Sembilan dengan atap melengkung gaya Minangkabau, dipamerkan di halaman museum negeri bagian di Seremban.
+    kind: actual
+    origin: third-party
+    subject: Rumah tradisional Negeri Sembilan bergaya Minangkabau di Museum Negeri Bagian, Seremban
+    credit: Ardzun / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg
 ---
 
 Seorang penutur dari Kota Bharu, seorang dari Alor Setar, dan seorang dari Kuching mungkin sama-sama mengatakan bahwa mereka bertutur dalam bahasa Melayu — tetapi ketika mereka bercakap santai di kampung masing-masing, bunyinya bisa sangat berbeda sehingga memerlukan sedikit penyesuaian untuk saling memahami. Perbedaan inilah yang disebut dialek, atau dalam bahasa sehari-hari, logat.

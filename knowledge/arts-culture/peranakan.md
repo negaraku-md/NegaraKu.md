@@ -68,6 +68,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Baba_Nyonya_Heritage_Museum_-_Reception_Hall.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/peranakan/body-1.webp
+    alt: The upper facade of a Peranakan shophouse in Malacca, with arched turquoise louvred shutters, moulded reliefs and a band of glazed tilework.
+    kind: actual
+    origin: third-party
+    subject: Peranakan-style shophouse facade, Malacca
+    credit: P. Hughes / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_-_traditional_Peranakan-style_shophouse.jpg
+  - role: scene
+    src: /media/arts-culture/peranakan/body-2.webp
+    alt: A Peranakan porcelain tea bowl and its lid painted with pink peonies and phoenix birds on a white ground, displayed in a case.
+    kind: representative
+    origin: third-party
+    subject: Peranakan (nyonyaware) tea porcelain with floral and bird motifs
+    credit: Gniam Jin Hong / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peranakan_tea_porcelain_with_floral_and_birds_motifs.jpg
 ---
 
 Walk into an old townhouse on Melaka's Heeren Street and the story is told in objects before anyone says a word. A tightly fitted lace blouse pinned at the front with a three-piece gold brooch. A pair of slippers whose toes are covered in thousands of tiny glass beads, each stitched by hand. A long marble-topped table set for a meal that is neither quite Chinese nor quite Malay. These belong to the Peranakans — the Baba-Nyonya — a community that made a culture out of living between two worlds.

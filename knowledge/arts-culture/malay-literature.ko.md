@@ -34,7 +34,7 @@ seoTitle: "말레이 문학"
 socialTitle: "《스자라 믈라유》에서 국가문인까지 — 말레이 문필 이야기"
 
 lang: "ko"
-sourceContentHash: "106c6c9a2b36cbbd"
+sourceContentHash: "4bae3e712b485a1f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -87,6 +87,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_%E2%80%98The_Crown_of_Kings%E2%80%99,_a_Malay_%E2%80%98mirror_for_princes%E2%80%99.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malay-literature/body-1.webp
+    alt: 《히카얏 머롱 마하왕사》 자위 문자 필사본의 첫 쪽. 크다의 고전 연대기로, 괘선을 두른 틀 안에 유려한 아랍 문자 말레이어로 쓰여 있다
+    kind: actual
+    origin: third-party
+    subject: 《히카얏 머롱 마하왕사》(크다 연대기)의 자위 문자 첫 쪽
+    credit: Unknown author (R. J. Wilkinson lithograph, 1898) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hkyt_merong_mahawgsa.jpg
+  - role: scene
+    src: /media/arts-culture/malay-literature/body-2.webp
+    alt: 말레이 고전 운문 로맨스 《샤이르 켄 탐부한》 필사본의 첫머리를 여는 금·빨강·검정 채식(彩飾) 머리장식. 판지(Panji) 설화 계열의 작품이다
+    kind: representative
+    origin: third-party
+    subject: 말레이 운문 로맨스 《샤이르 켄 탐부한》 필사본의 채식 머리장식
+    credit: Unknown author (Leiden University Library) / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Decoration_1_Syair_Ken_Tambuhan_Or._1965_(page_9_crop).jpg
 ---
 
 한 옛 사본에는 믈라카 왕들의 이야기, 항 투아(Hang Tuah)의 여정, 그리고 한 제국의 몰락이 새겨져 있습니다 — 메마른 역사 기록으로서가 아니라, 인물과 대화와 문예가 살아 숨 쉬는 이야기로서. 그 사본, 《스자라 믈라유(Sejarah Melayu)》 또는 《술랄라투스 살라틴(Sulalatus Salatin)》은 말레이어 문필 전통이 얼마나 길고 풍부한지를 증언하는 가장 이른 작품의 하나입니다.

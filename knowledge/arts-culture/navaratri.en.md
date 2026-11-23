@@ -32,7 +32,7 @@ faq:
   - q: "Is Navaratri celebrated only by Tamils?"
     a: "No. Although Golu and Saraswati/Ayudha Puja are prominent in the South Indian-Tamil tradition, Malaysia's Gujarati and North Indian communities celebrate Navaratri with Garba and Dandiya dances, and the Bengali community holds Durga Puja. Each community's practice differs."
 lang: "en"
-sourceContentHash: "4de698b1470bf32c"
+sourceContentHash: "dae52d8e596d9c8f"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Navratri_Golu_-_Dashavatara.JPG'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/navaratri/body-1.webp
+    alt: Dancers in colourful traditional dress moving in a circle during a lively Navaratri Garba dance
+    kind: representative
+    origin: third-party
+    subject: A Garba folk dance performed during Navaratri, one of the festival's signature communal celebrations
+    credit: Saurabh sirohiya (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lively_Navratri_Garba_dance_performances.jpg
+  - role: scene
+    src: /media/arts-culture/navaratri/body-2.webp
+    alt: Small decorative bird and figure dolls carefully arranged on the tiered steps of a Navaratri golu display
+    kind: representative
+    origin: third-party
+    subject: A close view of figurines arranged on a Navaratri golu (kolu) festival doll display
+    credit: GoDakshin / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Birds_in_a_Golu_display_over_Hindu_Navaratri_festival_Kolu_dolls.jpg
 ---
 
 During Navaratri, along one side wall of the reception room of a Malaysian Tamil Hindu home, steps are raised in an odd number. On these cloth-covered steps, deity figurines and dolls that recount scenes from the myths are arranged in rows. In the evening, relatives and neighbours come to view the **Golu**; songs ring out; and departing guests are given thamboolam and sweets. This is not a one-day event — it is the hallmark of a festival that stretches across nine nights.

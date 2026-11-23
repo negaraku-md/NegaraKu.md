@@ -36,7 +36,7 @@ socialTitle: "马来语如何成为国家语言——并从爪夷文过渡到罗
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "ac6472952bdfcbbb"
+sourceContentHash: "1fc94a71a343c3e0"
 
 status: "published"
 aiAssisted: true
@@ -102,6 +102,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka_building,_Malaysia_(DSCF0833).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-1.webp
+    alt: 马来西亚书展上，一面写着「马来文书籍」的悬挂招牌下，摊桌堆满马来文平装书，顾客正在翻阅选购
+    kind: actual
+    origin: third-party
+    subject: 马来西亚某书展上的马来文书籍专区
+    credit: Uniku Putra / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BBWBooks_Malay_Book_2012.JPG
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-2.webp
+    alt: 一份陈旧的手抄本以爪夷文（Jawi）书写，摊开陈列于玻璃柜内的展架上
+    kind: actual
+    origin: third-party
+    subject: 一份以爪夷文书写、摊开的马来文手稿（《马六甲法典》Hukum Kanun Melaka 法律汇编），马来西亚
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 在登嘉楼的 Kuala Berang，曾发现一块石碑，上面刻着马来文词语——不是用我们今天所熟悉的字母，而是用为马来语音调整过的阿拉伯字母。据大马国家档案局（Arkib Negara Malaysia）所述，这块碑文的年代为公元1303年。

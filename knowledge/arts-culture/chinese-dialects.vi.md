@@ -32,7 +32,7 @@ seoTitle: "Phương ngữ người Hoa Malaysia: phân bố tiếng Phúc Kiến
 socialTitle: "Cùng là người Hoa, vì sao lại nói tiếng khác nhau? Bản đồ phương ngữ Malaysia"
 
 lang: "vi"
-sourceContentHash: "c773c2be8c4e6544"
+sourceContentHash: "377a93a3d1a42245"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-1.webp
+    alt: Những tấm cửa vẽ tinh xảo hình các nhân vật mặc áo choàng và phù điêu hổ tại một đền thờ tổ tiên người Hoa Triều Châu ở Penang
+    kind: actual
+    origin: third-party
+    subject: Thần giữ cửa được vẽ và phù điêu hổ tại Đền thờ Tổ tiên Han Jiang, ngôi đền của nhóm phương ngữ Triều Châu ở George Town, Penang
+    credit: Christophe95 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Han_Jiang_Ancestral_Temple_1.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-2.webp
+    alt: Những căn nhà phố người Hoa hai tầng cũ kỹ với cửa sổ lá sách và lối đi năm thước có mái che kéo dài dọc một con phố yên tĩnh ở George Town
+    kind: actual
+    origin: third-party
+    subject: Một dãy nhà phố cổ của người Hoa với lối đi năm thước trên một con phố ở George Town, Penang
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
 ---
 
 Ở quán cà phê tại Penang, bạn gọi một ly kopi bằng tiếng Phúc Kiến; đến Kuala Lumpur và Ipoh, cùng một ly cà phê ấy lại đổi sang tiếng Quảng Đông; đi xa hơn nữa tới Sibu ở Sarawak, người tiếp đón bạn rất có thể lại nói tiếng Phúc Châu. Người ở cả ba nơi đều là người Hoa, nhưng nói ba thứ tiếng không thông hiểu lẫn nhau.

@@ -32,7 +32,7 @@ faq:
   - q: "Làng Mới đối mặt với những vấn đề đương đại nào?"
     a: "Các vấn đề thường gặp gồm quyền sở hữu đất (một số thửa được giữ theo Giấy phép Chiếm dụng Tạm thời / TOL hoặc giấy chủ quyền thuê 99 năm thay vì sở hữu vĩnh viễn), dân số già hóa và người trẻ di cư đi, cùng hạ tầng xuống cấp. Những năm gần đây cũng xuất hiện các sáng kiến đưa Làng Mới vào danh mục di sản và phục hồi cộng đồng qua tranh tường, lộ trình ẩm thực và lịch sử làng."
 lang: "vi"
-sourceContentHash: "5a86ba6336d66776"
+sourceContentHash: "c33d9cd6d8fcceac"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Seri_Setia_3.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-villages/body-1.webp
+    alt: Cổng vào trang trí đánh dấu lối vào Broga, một làng mới của người Hoa ở Negeri Sembilan, với đồi núi phía sau.
+    kind: actual
+    origin: third-party
+    subject: Cổng vào Làng mới Broga, Negeri Sembilan
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Broga_1.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-villages/body-2.webp
+    alt: Một góc phố ở Làng mới Seri Setia, Petaling Jaya, với bức bích họa trên tường và những chiếc đèn lồng đỏ cùng đồ trang trí Tết Nguyên đán.
+    kind: actual
+    origin: third-party
+    subject: Bích họa tường và đồ trang trí Tết Nguyên đán ở Làng mới Seri Setia, Petaling Jaya, Selangor
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Setia_CNY2022_3.jpg
 ---
 
 Bước vào Semenyih, Kampar hay Sekinchan ngày nay, điều bạn thấy phần lớn là dáng vẻ bình thường của một thị trấn nhỏ: những dãy nhà phố, một trường tiểu học tiếng Hoa, đền miếu và hội quán, quán cà phê ven đường và tiệm tạp hóa. Nhưng nhiều nơi trong số này cùng mang một bản sắc chung — chúng là "Làng Mới". Đằng sau cái tên tưởng chừng bình thản ấy là một lịch sử về [Tình trạng Khẩn cấp Malaya](/vi/malaysia/the-emergency), việc chống nổi dậy và cuộc di dời quy mô lớn.

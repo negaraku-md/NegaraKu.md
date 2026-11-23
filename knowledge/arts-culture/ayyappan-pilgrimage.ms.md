@@ -32,7 +32,7 @@ faq:
   - q: "Apakah maksud 'Swamiye Saranam Ayyappa'?"
     a: "Ini ialah laungan saranam utama dalam pemujaan Ayyappan — satu ungkapan yang bermaksud menyerahkan diri kepada Swami, yang terus dilaungkan oleh para pelaku puasa dan jemaah haji. Ia bergema sepanjang tempoh puasa, dalam perjalanan ziarah dan dalam majlis bhajan."
 lang: "ms"
-sourceContentHash: "c0cc8aa15f42b7b0"
+sourceContentHash: "c3cfb1ea38600a5f"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penangayappantemple.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-1.webp
+    alt: Penganut berpakaian hitam, dengan tudung kepala daripada kain, menyusuri denai hutan dalam ziarah ke Sabarimala
+    kind: representative
+    origin: third-party
+    subject: Penganut Ayyappan berpakaian hitam mendaki denai hutan menuju kuil Sabarimala
+    credit: Shantham11 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pilgrims_trekking_on_the_path_through_forests_leading_to_Sabarimala_temple.jpg
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-2.webp
+    alt: Lukisan lantai serbuk berwarna yang besar menggambarkan dewa Ayyappa, dikelilingi pelita minyak tembaga yang menyala dan untaian bunga, dengan seorang pemain gendang duduk di belakang
+    kind: representative
+    origin: third-party
+    subject: Lukisan lantai ritual Ayyappan (kalam) dengan pelita minyak tembaga dan pemain gendang, satu tradisi kebaktian bagi Dewa Ayyappa
+    credit: Sajith moothakurambu / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AYYAPPAN_THEYATTU.jpg
 ---
 
 Pada bulan-bulan akhir tahun, satu pemandangan kelihatan di banyak pekan di Malaysia: lelaki berpakaian hitam atau biru, memakai rantai rudraksha di leher dan membiarkan janggut tumbuh, saling memanggil satu sama lain "Swami". Mereka ialah pelaku puasa Ayyappan — ramai yang sedang bersiap untuk ke Sabarimala di Kerala. Rencana ini menerangkan pemujaan dan tradisi puasa itu secara neutral; ia tidak menghurai atau menilai mana-mana kepercayaan.

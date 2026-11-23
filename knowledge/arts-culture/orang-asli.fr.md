@@ -35,7 +35,7 @@ seoTitle: "Orang Asli : trois grands groupes, 18 sous-groupes et le JAKOA"
 socialTitle: "Qui sont les Orang Asli : trois groupes, 18 sous-groupes et l'agence qui veille sur eux"
 
 lang: "fr"
-sourceContentHash: "22c8505f8289ae57"
+sourceContentHash: "461e1709110699f4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,6 +101,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Welcome_to_Kampung_Orang_Asli_Lubuk_Legong_village_mural_in_front_of_the_school_building.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-1.webp
+    alt: Un danseur mah meri, portant un masque d'esprit ancestral sculpté dans le bois et un costume plissé en feuilles de palmier, exécute le Mayin Jo'oh devant un public lors d'une vitrine culturelle en plein air.
+    kind: actual
+    origin: third-party
+    subject: Danse masquée Mah Meri Mayin Jo'oh exécutée lors d'une vitrine culturelle à Kuala Lumpur
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayin_Jo%E2%80%99oh_Mah_Meri_Masked_Dance_by_Tompoq_Topoh_22.jpg
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-2.webp
+    alt: L'entrée du Musée de l'artisanat Orang Asli à Kuala Lumpur, où une grande sculpture en bois orang asli se dresse à côté de l'enseigne, au milieu d'une végétation tropicale.
+    kind: actual
+    origin: third-party
+    subject: Musée de l'artisanat Orang Asli (Muzium Seni Kraf Orang Asli), Kuala Lumpur
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Seni_Kraf_Orang_Asli.jpg
 ---
 
 Bien avant que le nom de Malaisie n'existe sur aucune carte, des communautés habitaient déjà les forêts, les hautes terres et les côtes de la péninsule. On les connaît aujourd'hui collectivement sous le nom d'Orang Asli, une expression malaise signifiant «peuple originel» ou «habitants originels».

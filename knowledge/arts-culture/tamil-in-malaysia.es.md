@@ -32,7 +32,7 @@ seoTitle: "El tamil en Malasia: hablantes, escuelas SJKT y estatus constituciona
 socialTitle: "Cómo se habla, se escolariza y se protege el tamil en Malasia"
 
 lang: "es"
-sourceContentHash: "1bdf48a0219ea1f5"
+sourceContentHash: "9d8e74703093b827"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -96,6 +96,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-1.webp
+    alt: Una señal malasia de 'Prohibido el paso', roja y blanca, que dice 'Dilarang Masuk' con la misma advertencia en inglés, chino, panyabí y, en la última línea, en escritura tamil.
+    kind: actual
+    origin: third-party
+    subject: Señal malasia multilingüe con una línea en escritura tamil, Kota Kinabalu
+    credit: SSYoung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:%22No_Admittance%22_sign_in_five_languages_in_Kota_Kinabalu,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-2.webp
+    alt: El bloque de aulas abierto de una escuela primaria de lengua tamil en Changlun, Kedah, con banderas malasias colgando de sus entradas y del alero bajo un cielo luminoso.
+    kind: actual
+    origin: third-party
+    subject: Bloque de aulas de una escuela primaria nacional de tipo tamil, Changlun, Kedah
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom2(1).jpg
 ---
 
 En las viejas plantaciones de caucho de Malaya, algunas de las primeras aulas fueron cobertizos y chozas, y las lecciones se daban en tamil. Según un estudio histórico publicado en la revista de la Asociación Histórica de Malasia, desde principios del siglo XX se ofrecía en las plantaciones una educación primaria básica en tamil, prevista en los códigos laborales de la época y, durante mucho tiempo, impartida por oficinistas y trabajadores a tiempo parcial en lugar de por docentes formados.

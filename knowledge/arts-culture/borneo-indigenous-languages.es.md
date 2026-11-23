@@ -34,7 +34,7 @@ faq:
     a: "Sí, algunas se enseñan, en el marco del programa Pupil's Own Language (POL) del Ministerio de Educación, por lo general como asignatura optativa. El kadazandusun se enseña en las escuelas públicas de Sabah desde un proyecto piloto que comenzó en 1997, y el iban se enseña en las escuelas de Sarawak. La disponibilidad depende de la demanda y de alcanzar el tamaño mínimo de clase fijado por la política."
 
 lang: "es"
-sourceContentHash: "d94b9d6d02d53a14"
+sourceContentHash: "dae5581cc3aa31e5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -89,6 +89,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-1.webp
+    alt: Jóvenes con traje kadazan negro y dorado y sombreros cónicos, sosteniendo instrumentos de bambú, en un acto cultural al aire libre en Sabah
+    kind: actual
+    origin: third-party
+    subject: La comunidad Kadazan Tangara con vestimenta tradicional en una celebración de la cosecha Kaamatan en Papar, Sabah
+    credit: Jjurieee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kadazan_Tangara_Papar.jpg
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-2.webp
+    alt: Un hombre y una mujer con atuendo ceremonial Orang Ulu y tocados de cuentas, de pie ante una pared pintada con motivos ondulantes de Borneo
+    kind: actual
+    origin: third-party
+    subject: Una pareja Orang Ulu con vestimenta tradicional ante un mural pintado de una casa comunal (longhouse), Sarawak
+    credit: AjarnRichard / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orang_Ulu_(Dayak)_People_with_Tradtional_Motifs.jpg
 ---
 
 Sobrevuele el interior de Borneo y cruzará más lenguas en una hora que las que la mayoría de los países albergan en total. Un valle fluvial en las tierras altas de Sabah, una casa comunal en el curso alto del Baram, en Sarawak, un pueblo pesquero de la costa: cada uno puede saludarle en una lengua que el valle vecino apenas entiende.

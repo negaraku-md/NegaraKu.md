@@ -33,7 +33,7 @@ faq:
     a: "تماشيًا مع اتجاهات صناعة الصحافة عالميًا، تراجع توزيع النسخ الورقية للصحافة الصينية الماليزية عمومًا خلال نحو العقدين الماضيين، إذ بات القرّاء — ولا سيما الجيل الأصغر — يحصلون على الأخبار أكثر فأكثر عبر الهواتف المحمولة والإنترنت. ولذلك طوّرت الصحف منصات رقمية مثل مواقع الأخبار والصحف الإلكترونية وتطبيقات الهاتف المحمول، كما يُنشَر جزء من المحتوى على وسائل التواصل الاجتماعي. أمّا ما إذا كانت النسخة الورقية ستختفي تمامًا ومتى، فلا يزال غير مؤكد، ولا يقدّم هذا المقال أي تنبّؤ."
 
 lang: "ar"
-sourceContentHash: "ba3edfb9eefffbdb"
+sourceContentHash: "b0d960a64daed408"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sin_Chew_Daily_Miri_(2024).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-1.webp
+    alt: صفحة أولى مبكرة من الصحيفة الصينية Kwong Wah Yit Poh الصادرة في Penang، بعنوان بالحروف الصينية والإنجليزية، موضوعة بين صفحات صحف صينية قديمة أخرى.
+    kind: actual
+    origin: third-party
+    subject: الصفحة الأولى من Kwong Wah Yit Poh، أقدم صحيفة يومية باللغة الصينية في ماليزيا (Penang)
+    credit: Gzdavidwong / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwong_Wah_Yit_Po.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-2.webp
+    alt: مكتب لصحيفة Nanyang Siang Pau في Johor Bahru، تحمل واجهته اسم الصحيفة بحروف صينية خضراء وحروف لاتينية فوق واجهة متجر.
+    kind: actual
+    origin: third-party
+    subject: مكتب صحيفة Nanyang Siang Pau بلافتة اسمها، Johor Bahru
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nanyang_Siang_Pau.jpg
 ---
 
 في مقهى الكوبيتيام (kopitiam) عند الصباح الباكر، كثيرًا ما توضع صحيفة صينية مفرودة إلى جانب فنجان قهوة. يقلّب القارئ العناوين الكبرى المحلية والدولية في الصفحة الأولى، ثم يتجه عادةً رأسًا إلى الصفحات الأقرب إليه — فمنهم من ينظر أولًا في الأخبار المحلية ليرى أي مدرسة صينية ابتدائية أقامت بازارًا خيريًا من جديد، ومنهم من يقلّب الملحق الأدبي وصفحة الرأي، ومنهم من لا يبغي سوى صفحة النعي والإعلانات المبوّبة ونتائج اليانصيب. وبالنسبة إلى كثير من الصينيين الماليزيين، ليست الصحيفة الصينية مجرد أخبار، بل هي أيضًا عادة قراءة بالصينية تتكرّر كل يوم.

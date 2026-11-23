@@ -26,7 +26,7 @@ appliesTo: "말레이시아의 기독교 — 그 인구, 집중 지역, 교파, 
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7bc376bb0aba475a"
+sourceContentHash: "81025b6c8ff0a5c4"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-1.webp
+    alt: 쿠알라룸푸르 머르데카 광장 옆에 자리한 흰색 고딕 복고 양식의 성 마리아 대성당(성공회 교회)
+    kind: actual
+    origin: third-party
+    subject: 성 마리아 성공회 대성당, 쿠알라룸푸르
+    credit: Flaming Ferrari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St._Mary's_Cathedral,_Kuala_Lumpur.JPG
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-2.webp
+    alt: 사바주 타와우의 현대식 삼위일체 가톨릭 성당으로, 동말레이시아의 기독교 공동체를 대표한다
+    kind: actual
+    origin: third-party
+    subject: 삼위일체 가톨릭 성당, 사바주 타와우
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Holy-Trinity-Catholic-Church-01.jpg
 ---
 
 말레이시아 기독교의 이야기에는 두 개의 중심이 있는데, 그 어느 것도 수도에 있지

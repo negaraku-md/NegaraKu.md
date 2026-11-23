@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "48f4e6165d3f9202"
+sourceContentHash: "480d50bf66cae13c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -77,6 +77,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-1.webp
+    alt: 青空を背に、きらびやかに金箔を施しタイルで飾られたタイ仏教寺院の正面と屋根（ペナン）
+    kind: actual
+    origin: third-party
+    subject: ワット・チャイヤ・マンカラーラム、ペナン・ジョージタウンにあるタイ上座部仏教の寺院
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Wat-Chaiya-Mangkalaram-Temple-01.jpg
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-2.webp
+    alt: 黄・白・ピンクの菊の花に埋もれるように囲まれた坐像の仏が、ウェーサーカ祭の山車に安置されている
+    kind: actual
+    origin: third-party
+    subject: ケダ州アロースターのワット・ニクロダーラムでのウェーサーカ（Wesak）の山車に飾られた仏像
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg
 ---
 
 ペナンの丘の上では、極楽寺の塔影がジョージタウンを見下ろしている。クアラルンプール

@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "ffa309d9ae04f20d"
+sourceContentHash: "cbcbfec907d9ad67"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-1.webp
+    alt: ジョホールバル古廟の華麗な正面。龍の屋根飾り、陶製の浮き彫り、入口の赤い提灯が見える
+    kind: actual
+    origin: third-party
+    subject: ジョホールバル古廟、華人の民間信仰の寺院
+    credit: Ralff Nestor Nacor / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Ancient_Temple,_Malaysia_(2).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-2.webp
+    alt: ペナン・ジョージタウンの観音亭の前で、束になった線香が煙を立ち上らせる。古くから続く華人の礼拝所である
+    kind: actual
+    origin: third-party
+    subject: ペナン・ジョージタウンの観音亭で焚かれる線香
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_092_-_Penang_-_burning_incense_at_the_Goddess_of_Mercy_Temple_(3923018968).jpg
 ---
 
 マレーシアのどの華人寺廟に足を踏み入れても、同じ一つの空間のなかで仏・道・民間の

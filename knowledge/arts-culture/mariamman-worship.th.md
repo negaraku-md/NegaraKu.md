@@ -33,7 +33,7 @@ faq:
   - q: "การบูชามาริอัมมันเป็นศาสนาแยกต่างหากหรือไม่?"
     a: "ไม่ การบูชามาริอัมมันเป็นส่วนหนึ่งของศาสนาฮินดูที่กว้างกว่า โดยเฉพาะประเพณีศักตะ (ศักติ) อัมมันมักได้รับการบูชาร่วมกับรูปของพระแม่กาลีและพระแม่ทุรคา ในชุมชนฮินดูมาเลเซีย การบูชาอัมมันดำเนินควบคู่ไปกับการบูชาพระศิวะและมุรุกัน"
 lang: "th"
-sourceContentHash: "74fa7f5263aec6a2"
+sourceContentHash: "f0f0df6a703389cd"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple_2,_central_Kuala_Lumpur.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-1.webp
+    alt: โคปุรัมแกะสลักของวัดมาริอัมมันในจอร์จทาวน์ ปกคลุมด้วยรูปปั้นเทพเจ้าฮินดูที่ทาสีสดใส
+    kind: actual
+    origin: third-party
+    subject: วัดศรีมหามาริอัมมันในจอร์จทาวน์ รัฐปีนัง วัดฮินดูที่เก่าแก่ที่สุดในเมืองซึ่งอุทิศแด่เทวีมาริอัมมัน
+    credit: Sin-siong (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-2.webp
+    alt: ห้องสวดมนต์ภายในที่มีเสาเรียงรายของวัดมาริอัมมัน พร้อมเพดานเขียนสีและศาลเจ้าที่หันไปทางห้องศักดิ์สิทธิ์
+    kind: actual
+    origin: third-party
+    subject: ห้องสวดมนต์ภายในของวัดมาริอัมมันในจอร์จทาวน์ รัฐปีนัง
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mahamariamman_Tempel_Innen.JPG
 ---
 
 ใกล้ ๆ สวนยางเก่าแทบทุกแห่งในมาเลเซีย และตามถนนเก่าแก่ในย่านใจกลางเมือง คุณจะพบวัดมาริอัมมันได้ รูปเคารพอัมมันที่มีใบหน้าสีเหลืองดินเทศ และเทศกาลที่จัดขึ้นก่อนฤดูฝน ไม่ใช่เรื่องบังเอิญ—สิ่งเหล่านี้แบกรับประวัติศาสตร์และประเพณีความเชื่อของชุมชนทมิฬยาวนานกว่าหนึ่งศตวรรษครึ่ง

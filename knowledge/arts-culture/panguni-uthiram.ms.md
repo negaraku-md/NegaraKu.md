@@ -30,7 +30,7 @@ faq:
   - q: "Di manakah Panguni Uthiram disambut secara besar-besaran di Malaysia?"
     a: "Kuil Sri Marathandavar Bala Dhandayuthapani di Maran, Pahang, terkenal dengan salah satu sambutannya yang paling besar; Kuil Murugan di Kapar, Selangor, turut mengadakan perayaan besar dengan kavadi dan perarakan kereta kuda kuil. Selain itu, banyak kuil Murugan dan Mariamman di seluruh negara menyambut hari ini mengikut skala masing-masing. Skala dan amalan perayaan berbeza-beza antara satu kuil dengan kuil yang lain."
 lang: "ms"
-sourceContentHash: "7f189b2da9dcb8fe"
+sourceContentHash: "b924d48206a28dc0"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Devotees_and_Musicians_with_Decorated_Kavadis_on_Procession_Street_at_Batu_Caves_(250211).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-1.webp
+    alt: Sebuah rata kuil kayu yang tinggi dan dihias dengan rumit membawa arca dewa ditarik melalui sebuah jalan yang sesak semasa perayaan rata kuil Panguni.
+    kind: representative
+    origin: third-party
+    subject: Perarakan rata kuil (ther) semasa perayaan Panguni, Mylapore
+    credit: N. Vivekananthamoorthy / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Temple-Car-Festival-Mylapore-Chennai-India.jpg
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-2.webp
+    alt: Dua buah rata kuil yang tinggi dan dihias dengan terang berdiri bersebelahan di tengah-tengah penganut dan sami di sebuah perayaan rata Panguni Uthiram.
+    kind: representative
+    origin: third-party
+    subject: Rata kuil berhias di sebuah perayaan rata Panguni Uthiram
+    credit: Dharmaphotography / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perur_car_festival.jpg
 ---
 
 Pada bulan Panguni, ada satu malam ketika bulan purnama memenuhi langit.

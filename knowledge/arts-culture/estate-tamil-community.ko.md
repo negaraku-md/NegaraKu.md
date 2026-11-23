@@ -32,7 +32,7 @@ faq:
   - q: "오늘날 농원에서 일하는 사람은 누구인가요?"
     a: "오늘날 말레이시아의 농원 노동자 대다수는 외국인 이주 노동자다. 타밀 공동체로 말하자면, 농원에서 도시로의 큰 이동은 수십 년 전에 대체로 완료되었고, 오늘날의 공동체는 대체로 도시·준도시 공동체로 바뀌었다."
 lang: "ko"
-sourceContentHash: "26feee7acc3d6568"
+sourceContentHash: "03062d40a74e2b62"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Ladang_Sungai_Getah.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-1.webp
+    alt: 1946년 믈라카의 한 농원에서 노동자가 고무나무에서 수액을 채취하고 있다. 말레이시아 농원 공동체를 형성한 플랜테이션 노동을 떠올리게 한다
+    kind: representative
+    origin: third-party
+    subject: 믈라카 고무 농원의 고무 채취 작업(1946년)
+    credit: Willem van de Poll / Nationaal Archief / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vrouw_bezig_met_het_aftappen_van_rubber_op_een_rubberplantage_in_Malakka,_Bestanddeelnr_255-6638.jpg
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-2.webp
+    alt: '조호르바루 인도 문화유산 센터의 ''초기 직업: 고무 채취'' 전시로, 사리를 입은 인물상, 수액 통, 타밀어 설명이 달린 옛 농원 사진이 전시되어 있다'
+    kind: actual
+    origin: third-party
+    subject: '타밀계 말레이시아인의 농원 유산을 다룬 ''초기 직업: 고무 채취'' 전시, 조호르바루 인도 문화유산 센터'
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indian_Heritage_Centre_(Johor_Bahru)_(2025)_-_img_10.jpg
 ---
 
 말레이시아의 많은 오래된 도시 변두리에는, 한때 푸르게 펼쳐져 있던 고무 농원이 이제는 집들과 상가 거리로 가득 찬 주택지로 바뀌어 있다. 그 새 건물들 사이에, 때때로 오래된 암만 사원이나 작은 타밀 학교가 아직 남아 서 있다 — 이주해 간 한 공동체의, 바래지 않은 흔적으로.

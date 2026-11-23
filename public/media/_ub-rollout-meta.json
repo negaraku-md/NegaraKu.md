@@ -4817,7 +4817,30 @@
       "alt": "A brightly illuminated Ayyappan Hindu temple at night, with Kerala-style tiered roofs, gold-lit pillars and a small shrine of the deity crowning the entrance.",
       "kb": 85
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/ayyappan-pilgrimage/body-1.webp",
+        "credit": "Shantham11 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pilgrims_trekking_on_the_path_through_forests_leading_to_Sabarimala_temple.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Ayyappan devotees in black trekking a forest path toward the Sabarimala shrine",
+        "alt": "Pilgrims dressed in black, with cloth head coverings, walking a forest trail on the pilgrimage to Sabarimala",
+        "kb": 282
+      },
+      {
+        "file": "/media/arts-culture/ayyappan-pilgrimage/body-2.webp",
+        "credit": "Sajith moothakurambu / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:AYYAPPAN_THEYATTU.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Ayyappan ritual floor painting (kalam) with brass oil lamps and a drummer, a devotional tradition for Lord Ayyappa",
+        "alt": "A large coloured powder floor painting of the deity Ayyappa, ringed by lit brass oil lamps and flower garlands, with a seated drummer behind",
+        "kb": 175
+      }
+    ]
   },
   "arts-culture/bahasa-melayu": {
     "hero": {
@@ -4831,7 +4854,30 @@
       "alt": "The tall Dewan Bahasa dan Pustaka tower in Kuala Lumpur, its name spelt across the podium, the national language and literature authority's headquarters seen from the road.",
       "kb": 77
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/bahasa-melayu/body-1.webp",
+        "credit": "Uniku Putra / Wikimedia Commons",
+        "license": "PD",
+        "source": "https://commons.wikimedia.org/wiki/File:BBWBooks_Malay_Book_2012.JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Malay-language books section at a book fair in Malaysia",
+        "alt": "A hanging sign reading 'Malay Books' above tables piled with Malay-language paperbacks as shoppers browse at a Malaysian book fair",
+        "kb": 154
+      },
+      {
+        "file": "/media/arts-culture/bahasa-melayu/body-2.webp",
+        "credit": "Wee Hong / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "An open Malay-language manuscript in Jawi script (the Hukum Kanun Melaka legal digest), Malaysia",
+        "alt": "An aged, open handwritten manuscript in Jawi script displayed on a stand in a glass case",
+        "kb": 162
+      }
+    ]
   },
   "arts-culture/borneo-indigenous-languages": {
     "hero": {
@@ -4845,7 +4891,30 @@
       "alt": "A long timber Iban longhouse raised on wooden stilts along a forested hillside above a river in Sarawak, the communal home of a Dayak community.",
       "kb": 234
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/borneo-indigenous-languages/body-1.webp",
+        "credit": "Jjurieee / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kadazan_Tangara_Papar.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Kadazan Tangara community in traditional dress at a Kaamatan harvest celebration in Papar, Sabah",
+        "alt": "Young people in black-and-gold Kadazan costume and conical hats, holding bamboo instruments, at an outdoor cultural event in Sabah",
+        "kb": 172
+      },
+      {
+        "file": "/media/arts-culture/borneo-indigenous-languages/body-2.webp",
+        "credit": "AjarnRichard / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Orang_Ulu_(Dayak)_People_with_Tradtional_Motifs.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "An Orang Ulu couple in traditional dress before a painted longhouse mural, Sarawak",
+        "alt": "A man and woman in Orang Ulu ceremonial attire and beaded headgear standing against a wall painted with swirling Borneo motifs",
+        "kb": 164
+      }
+    ]
   },
   "arts-culture/buddhism-in-malaysia": {
     "hero": {
@@ -4859,7 +4928,30 @@
       "alt": "The hillside Kek Lok Si Buddhist temple in Penang, with its sweeping gold-tiled roof, tiered terraces lined with red lanterns and a pagoda fountain in the courtyard.",
       "kb": 164
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/buddhism-in-malaysia/body-1.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Wat-Chaiya-Mangkalaram-Temple-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Wat Chaiya Mangkalaram, a Thai Theravada Buddhist temple in George Town, Penang",
+        "alt": "The ornate gilded and tiled facade and roofs of a Thai Buddhist temple against a blue sky in Penang",
+        "kb": 167
+      },
+      {
+        "file": "/media/arts-culture/buddhism-in-malaysia/body-2.webp",
+        "credit": "Marufish / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A flower-decked Buddha image on a Wesak Day float at Wat Nikrodharam, Alor Setar, Kedah",
+        "alt": "A seated Buddha statue surrounded by masses of yellow, white and pink chrysanthemums on a Wesak festival float",
+        "kb": 151
+      }
+    ]
   },
   "arts-culture/chettiar-community": {
     "hero": {
@@ -4873,7 +4965,30 @@
       "alt": "The white gopuram tower of the Nattukottai Chettiar Waterfall Hilltop Temple rising from dense green jungle on a Penang hillside.",
       "kb": 167
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/chettiar-community/body-1.webp",
+        "credit": "Cmglee / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Nagarathar_Sivan_Temple.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Nagarathar (Nattukottai Chettiar) Sivan Temple in George Town, Penang",
+        "alt": "A colourful South Indian temple gopuram covered in sculpted figures, set against a clear sky in Penang",
+        "kb": 174
+      },
+      {
+        "file": "/media/arts-culture/chettiar-community/body-2.webp",
+        "credit": "Seelit2004 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Thaipusam_Festival_The_Golden_Chariot_and_the_Followers.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The golden chariot and devotees during the Thaipusam procession in Penang, a festival the Chettiar community helps sustain",
+        "alt": "A tall gilded temple chariot hung with garlands moving through a Penang street at dusk amid a crowd of devotees",
+        "kb": 170
+      }
+    ]
   },
   "arts-culture/chinese-bang-communities": {
     "hero": {
@@ -4887,7 +5002,30 @@
       "alt": "The ornate Leong San Tong Khoo Kongsi clan association temple in George Town, Penang, its roof ridges crowded with painted dragons and figurines above a richly carved and gilded prayer hall.",
       "kb": 217
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/chinese-bang-communities/body-1.webp",
+        "credit": "Two hundred percent / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Selangor_Hokkien_Association_Building,_Jalan_Hang_Lekiu,_central_Kuala_Lumpur.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Selangor Hokkien Association building (a Hokkien dialect-group clan association) on Jalan Hang Lekiu, Kuala Lumpur",
+        "alt": "A pre-war yellow-and-red shophouse building housing a Hokkien clan association on a central Kuala Lumpur street",
+        "kb": 169
+      },
+      {
+        "file": "/media/arts-culture/chinese-bang-communities/body-2.webp",
+        "credit": "AyyanD / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Fui_Chiu_Association_Building,_Seremban.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The former Fui Chiu (Huizhou Hakka) Association building, a Hakka dialect-group clan house in Seremban",
+        "alt": "An ornate Neoclassical three-storey shophouse that once housed a Hakka clan association in downtown Seremban",
+        "kb": 167
+      }
+    ]
   },
   "arts-culture/chinese-cemeteries": {
     "hero": {
@@ -4901,7 +5039,30 @@
       "alt": "A large horseshoe-shaped Chinese tomb with gilded inscriptions and carved side panels set into a grassy mound among trees on the Bukit China burial hill in Melaka.",
       "kb": 172
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/chinese-cemeteries/body-1.webp",
+        "credit": "Thomas Quine / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Chinese_graveyard_in_Sarawak_(29089016533).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Tiled horseshoe-shaped Chinese graves at a Chinese cemetery near Kuching, Sarawak",
+        "alt": "Rows of tiled omega-shaped Chinese tombs with headstones and altars in a grassy cemetery in Sarawak",
+        "kb": 160
+      },
+      {
+        "file": "/media/arts-culture/chinese-cemeteries/body-2.webp",
+        "credit": "Jacklee / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Five_coloured_papers_on_a_grave_mound,_Bukit_Brown_Cemetery,_Singapore_-_20110326-01.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Coloured papers weighted onto a grave mound during Qingming (tomb-sweeping) at Bukit Brown Cemetery",
+        "alt": "Strips of coloured paper laid across a grassy grave mound beside a headstone during the Qingming tomb-sweeping festival",
+        "kb": 176
+      }
+    ]
   },
   "arts-culture/chinese-dialects": {
     "hero": {
@@ -4915,7 +5076,30 @@
       "alt": "The green pagoda-roofed gateway over Jalan Petaling in Kuala Lumpur's Chinatown, marked 'Petaling Street' with red lanterns and Chinese shop signage above a busy market street.",
       "kb": 173
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/chinese-dialects/body-1.webp",
+        "credit": "Christophe95 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Han_Jiang_Ancestral_Temple_1.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Painted door-gods and tiger relief at the Han Jiang Ancestral Temple, the Teochew dialect-group temple in George Town, Penang",
+        "alt": "Ornately painted door panels of robed figures and a tiger relief at a Teochew Chinese ancestral temple in Penang",
+        "kb": 170
+      },
+      {
+        "file": "/media/arts-culture/chinese-dialects/body-2.webp",
+        "credit": "Milei.vencel / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A row of old Chinese shophouses with five-foot-ways on a street in George Town, Penang",
+        "alt": "Weathered two-storey Chinese shophouses with shuttered windows and covered five-foot walkways lining a quiet George Town street",
+        "kb": 171
+      }
+    ]
   },
   "arts-culture/chinese-language-press": {
     "hero": {
@@ -4929,7 +5113,30 @@
       "alt": "The white office building of the Chinese-language newspaper Sin Chew Daily in Miri, its name shown in English and Chinese characters on the facade and gate wall.",
       "kb": 165
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/chinese-language-press/body-1.webp",
+        "credit": "Gzdavidwong / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kwong_Wah_Yit_Po.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Front page of Kwong Wah Yit Poh, Malaysia's oldest Chinese-language daily (Penang)",
+        "alt": "An early front page of the Penang Chinese daily Kwong Wah Yit Poh, headed in Chinese characters and English, laid among other vintage Chinese newspaper pages.",
+        "kb": 142
+      },
+      {
+        "file": "/media/arts-culture/chinese-language-press/body-2.webp",
+        "credit": "Chongkian / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Nanyang_Siang_Pau.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Nanyang Siang Pau newspaper office with masthead signage, Johor Bahru",
+        "alt": "A Nanyang Siang Pau office in Johor Bahru, its facade carrying the newspaper's name in green Chinese characters and Roman letters above a shopfront.",
+        "kb": 71
+      }
+    ]
   },
   "arts-culture/chinese-new-villages": {
     "hero": {
@@ -4943,7 +5150,30 @@
       "alt": "A weathered single-storey timber-and-zinc house typical of a Malaysian Chinese New Village, fronting a quiet residential street with cars parked alongside.",
       "kb": 169
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/chinese-new-villages/body-1.webp",
+        "credit": "Slleong / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Broga_1.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Entrance archway of Broga New Village, Negeri Sembilan",
+        "alt": "The ornamental entrance archway marking the way into Broga, a Chinese new village in Negeri Sembilan, with hills behind.",
+        "kb": 172
+      },
+      {
+        "file": "/media/arts-culture/chinese-new-villages/body-2.webp",
+        "credit": "Slleong / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Seri_Setia_CNY2022_3.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Wall mural and Chinese New Year decorations at Seri Setia New Village, Petaling Jaya, Selangor",
+        "alt": "A street corner in Seri Setia New Village, Petaling Jaya, with a painted wall mural and red Chinese New Year lanterns and decorations.",
+        "kb": 164
+      }
+    ]
   },
   "arts-culture/chinese-religion-in-malaysia": {
     "hero": {
@@ -4957,7 +5187,30 @@
       "alt": "The upswept, dragon-topped tiled roofs of the Chinese Thean Hou Temple in Kuala Lumpur, framed by rows of hanging red lanterns against a blue sky.",
       "kb": 178
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/chinese-religion-in-malaysia/body-1.webp",
+        "credit": "Ralff Nestor Nacor / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Johor_Ancient_Temple,_Malaysia_(2).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Johor Bahru Old Chinese Temple, a Chinese folk-religion temple",
+        "alt": "The ornate facade of the Johor Bahru Old Chinese Temple, with dragon roof sculptures, ceramic reliefs and red lanterns at the entrance.",
+        "kb": 166
+      },
+      {
+        "file": "/media/arts-culture/chinese-religion-in-malaysia/body-2.webp",
+        "credit": "McKay Savage / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Malaysia_-_092_-_Penang_-_burning_incense_at_the_Goddess_of_Mercy_Temple_(3923018968).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Burning joss sticks at the Goddess of Mercy Temple, George Town, Penang",
+        "alt": "Clusters of lit joss sticks sending up smoke before the Goddess of Mercy Temple in George Town, Penang, a long-established Chinese place of worship.",
+        "kb": 118
+      }
+    ]
   },
   "arts-culture/christianity-in-malaysia": {
     "hero": {
@@ -4971,7 +5224,30 @@
       "alt": "The whitewashed stone ruins of the 16th-century St Paul's Church on Melaka's St Paul's Hill, with the marble statue of St Francis Xavier standing in the foreground.",
       "kb": 178
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/christianity-in-malaysia/body-1.webp",
+        "credit": "Flaming Ferrari / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:St._Mary's_Cathedral,_Kuala_Lumpur.JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "St Mary's Anglican Cathedral, Kuala Lumpur",
+        "alt": "The white Gothic-revival St Mary's Cathedral, an Anglican church beside Merdeka Square in Kuala Lumpur.",
+        "kb": 174
+      },
+      {
+        "file": "/media/arts-culture/christianity-in-malaysia/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Holy-Trinity-Catholic-Church-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Holy Trinity Catholic Church, Tawau, Sabah",
+        "alt": "The modern Holy Trinity Catholic Church in Tawau, Sabah, representing the Christian communities of East Malaysia.",
+        "kb": 176
+      }
+    ]
   },
   "arts-culture/estate-tamil-community": {
     "hero": {
@@ -4985,7 +5261,30 @@
       "alt": "The low buildings of SJK(T) Ladang Sungai Getah, a Tamil-medium primary school named on its signboard serving a rubber-estate community, seen from the roadside.",
       "kb": 177
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/estate-tamil-community/body-1.webp",
+        "credit": "Willem van de Poll / Nationaal Archief / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Vrouw_bezig_met_het_aftappen_van_rubber_op_een_rubberplantage_in_Malakka,_Bestanddeelnr_255-6638.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Rubber tapping on a rubber plantation in Malacca (1946)",
+        "alt": "A worker tapping latex from a rubber tree on an estate in Malacca in 1946, evoking the plantation labour that shaped Malaysia's estate communities.",
+        "kb": 155
+      },
+      {
+        "file": "/media/arts-culture/estate-tamil-community/body-2.webp",
+        "credit": "Chainwit. / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Indian_Heritage_Centre_(Johor_Bahru)_(2025)_-_img_10.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "\"Early Occupations: Rubber Tapping\" exhibit on Tamil Malaysian estate heritage, Indian Heritage Centre, Johor Bahru",
+        "alt": "A museum display at the Indian Heritage Centre in Johor Bahru titled Early Occupations: Rubber Tapping, with a saree-clad figure, latex buckets and historic estate photographs with Tamil captions.",
+        "kb": 94
+      }
+    ]
   },
   "arts-culture/hinduism-in-malaysia": {
     "hero": {
@@ -4999,7 +5298,30 @@
       "alt": "The tall, colourfully sculpted gopuram tower of the Sri Mahamariamman Temple in central Kuala Lumpur, crowded with Hindu deity figures above the temple entrance where visitors stand.",
       "kb": 176
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/hinduism-in-malaysia/body-1.webp",
+        "credit": "hams Nocete / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kallumalai_Murugan_Temple,_Ipoh,_Malaysia.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Colourful gopuram of the Kallumalai Murugan Temple, Ipoh, Perak",
+        "alt": "The tiered, brightly painted gopuram tower of the Kallumalai Murugan Temple in Ipoh, Perak, covered with sculpted Hindu deities.",
+        "kb": 248
+      },
+      {
+        "file": "/media/arts-culture/hinduism-in-malaysia/body-2.webp",
+        "credit": "John Ragai / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A Deepavali kolam (floor art), Malaysia",
+        "alt": "An intricate, brightly coloured kolam laid out on the floor for Deepavali, the main Hindu festival in Malaysia.",
+        "kb": 141
+      }
+    ]
   },
   "arts-culture/malay-dialects": {
     "hero": {
@@ -5013,7 +5335,30 @@
       "alt": "A traditional Pahang Malay wooden house raised on stilts, with a steep tiled roof, carved gable fascia and a covered timber staircase, set on a green lawn.",
       "kb": 159
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/malay-dialects/body-1.webp",
+        "credit": "Fikku fiq / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rumah_Warisan_Haji_Su,_Kuala_Terengganu.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Traditional Terengganu Malay houses (Rumah Warisan Haji Su), Kuala Terengganu",
+        "alt": "Rumah Warisan Haji Su, a pair of traditional timber Malay houses in the east-coast style of Kuala Terengganu.",
+        "kb": 173
+      },
+      {
+        "file": "/media/arts-culture/malay-dialects/body-2.webp",
+        "credit": "Ardzun / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Minangkabau-style Negeri Sembilan traditional houses at the State Museum, Seremban",
+        "alt": "Traditional Negeri Sembilan houses with upswept Minangkabau-style roofs, displayed at the state museum grounds in Seremban.",
+        "kb": 166
+      }
+    ]
   },
   "arts-culture/malay-literature": {
     "hero": {
@@ -5027,7 +5372,30 @@
       "alt": "The gilded, floral-bordered opening double page of the Taj al-Salatin ('The Crown of Kings'), a classical Malay literary manuscript written in Jawi script.",
       "kb": 279
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/malay-literature/body-1.webp",
+        "credit": "Unknown author (R. J. Wilkinson lithograph, 1898) / Wikimedia Commons",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Hkyt_merong_mahawgsa.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Opening Jawi page of the Hikayat Merong Mahawangsa (Kedah Annals)",
+        "alt": "The opening page of a Jawi manuscript of the Hikayat Merong Mahawangsa, the classical Kedah chronicle, written in flowing Arabic-script Malay within a ruled frame.",
+        "kb": 126
+      },
+      {
+        "file": "/media/arts-culture/malay-literature/body-2.webp",
+        "credit": "Unknown author (Leiden University Library) / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Decoration_1_Syair_Ken_Tambuhan_Or._1965_(page_9_crop).jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Illuminated headpiece of a manuscript of the Malay verse romance Syair Ken Tambuhan",
+        "alt": "A gold, red and black illuminated headpiece opening a manuscript of the Syair Ken Tambuhan, a classical Malay verse romance of the Panji tales.",
+        "kb": 179
+      }
+    ]
   },
   "arts-culture/malaysian-film-industry": {
     "hero": {
@@ -5041,7 +5409,30 @@
       "alt": "The restored traditional Malay timber house that is the birthplace of film legend P. Ramlee, now a memorial, with a thatched roof and a commemorative plaque on its brick forecourt.",
       "kb": 176
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/malaysian-film-industry/body-1.webp",
+        "credit": "Two hundred percent (Wikimedia Commons) / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Coliseum_Cinema,_Kuala_Lumpur_(February_2007).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The historic Coliseum Cinema on Jalan Tuanku Abdul Rahman, Kuala Lumpur, one of Malaysia's oldest surviving movie halls",
+        "alt": "The street facade and marquee of the old Coliseum Cinema, a pre-war single-screen movie hall in central Kuala Lumpur",
+        "kb": 171
+      },
+      {
+        "file": "/media/arts-culture/malaysian-film-industry/body-2.webp",
+        "credit": "PulauKakatua19 (Wikimedia Commons) / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dadi_Cinema_Pavilion_Bukit_Bintang.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The entrance of a modern multiplex cinema at Pavilion Bukit Bintang, Kuala Lumpur",
+        "alt": "The brightly lit foyer and signage of a contemporary multiplex cinema inside a Kuala Lumpur shopping mall",
+        "kb": 163
+      }
+    ]
   },
   "arts-culture/malaysian-literature": {
     "hero": {
@@ -5055,7 +5446,30 @@
       "alt": "The Dewan Bahasa dan Pustaka building in Kuala Lumpur, its curved facade covered by a large mural of Malaysian life and its name partly visible on the red office tower beside it.",
       "kb": 132
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/malaysian-literature/body-1.webp",
+        "credit": "Wiki Farazi (Wikimedia Commons) / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pesta_Buku_Antarabangsa_Kuala_Lumpur_2023_20230529_143928.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Visitors browsing stalls at the Kuala Lumpur International Book Fair (Pesta Buku Antarabangsa Kuala Lumpur) 2023",
+        "alt": "Crowds of readers browsing rows of publisher stalls stacked with books at Malaysia's international book fair",
+        "kb": 152
+      },
+      {
+        "file": "/media/arts-culture/malaysian-literature/body-2.webp",
+        "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_National-Library-of-Malaysia-02.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The National Library of Malaysia (Perpustakaan Negara Malaysia) in Kuala Lumpur, with its songket-inspired tent roof",
+        "alt": "The National Library of Malaysia building in Kuala Lumpur, topped by a distinctive blue songket-patterned roof",
+        "kb": 153
+      }
+    ]
   },
   "arts-culture/manglish": {
     "hero": {
@@ -5069,7 +5483,30 @@
       "alt": "A hand-painted orange and blue sign reading PETALING STREET KUALA LUMPUR on a utility box marked with graffiti, with a city street and buildings behind it.",
       "kb": 140
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/manglish/body-1.webp",
+        "credit": "Adam Jones / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Street_Scene_-_Little_India_-_George_Town_-_Penang_-_Malaysia_(35445172795).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A Little India street in George Town, Penang, lined with shop signboards in several languages and scripts",
+        "alt": "A George Town shophouse street where storefronts carry signboards in English, Tamil, Chinese and Malay side by side",
+        "kb": 179
+      },
+      {
+        "file": "/media/arts-culture/manglish/body-2.webp",
+        "credit": "*angys* (Wikimedia Commons) / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pasar_Malam_Seri_Kembangan_(230403)_01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "A pasar malam (night market) at Seri Kembangan, Selangor, an everyday multilingual Malaysian street setting",
+        "alt": "Shoppers walking past rows of food and goods stalls at a busy Malaysian night market in the evening",
+        "kb": 104
+      }
+    ]
   },
   "arts-culture/mariamman-worship": {
     "hero": {
@@ -5083,7 +5520,30 @@
       "alt": "The towering sculpted gopuram of the Sri Maha Mariamman Temple in Kuala Lumpur, its signboard naming the temple above rows of painted Hindu deity figures, with a street and traffic in front.",
       "kb": 139
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/mariamman-worship/body-1.webp",
+        "credit": "Sin-siong (Wikimedia Commons) / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Sri Mahamariamman Temple in George Town, Penang, the oldest Hindu temple in the city dedicated to the goddess Mariamman",
+        "alt": "The sculpted gopuram tower of the Mariamman temple in George Town, covered with brightly painted figures of Hindu deities",
+        "kb": 177
+      },
+      {
+        "file": "/media/arts-culture/mariamman-worship/body-2.webp",
+        "credit": "Hajotthu (Wikimedia Commons) / Wikimedia Commons",
+        "license": "CC BY 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mahamariamman_Tempel_Innen.JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The interior prayer hall of the Mariamman temple in George Town, Penang",
+        "alt": "The pillared interior prayer hall of a Mariamman temple, with painted ceilings and shrines toward the sanctum",
+        "kb": 148
+      }
+    ]
   },
   "arts-culture/mazu-worship": {
     "hero": {
@@ -5097,7 +5557,30 @@
       "alt": "The Thean Hou Temple in Kuala Lumpur with hundreds of red lanterns strung in cascades from its tiered roof, a dragon-decorated incense burner on the forecourt and worshippers at the main hall.",
       "kb": 178
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/mazu-worship/body-1.webp",
+        "credit": "Fikku_fiq (Wikimedia Commons) / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ho_Ann_Kiong.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Ho Ann Kiong, a Mazu (Tian Hou, goddess of the sea) temple in Kuala Terengganu, among the oldest Chinese temples in Terengganu",
+        "alt": "The ornate roof and facade of a historic Chinese Mazu temple in Kuala Terengganu, with dragon ridge decorations",
+        "kb": 162
+      },
+      {
+        "file": "/media/arts-culture/mazu-worship/body-2.webp",
+        "credit": "Hajotthu (Wikimedia Commons) / Wikimedia Commons",
+        "license": "CC BY 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hainan_Tempel_Innen.JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The interior altar of the Hainan Temple (Tokong Hainan) in George Town, Penang, a temple honouring the sea-goddess Mazu",
+        "alt": "The main altar hall of a Hainanese Mazu temple in George Town, with hanging lanterns, incense and gilded shrine fittings",
+        "kb": 175
+      }
+    ]
   },
   "arts-culture/national-cultural-policy": {
     "hero": {
@@ -5111,7 +5594,30 @@
       "alt": "The main entrance of Istana Budaya, the national theatre, with its sweeping sirih-junjung roof, gold lotus emblem and a broad flight of steps leading to carved timber doors.",
       "kb": 131
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/national-cultural-policy/body-1.webp",
+        "credit": "Thomas Quine / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sarawak_folk_dancers_(28655218970).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Performers in traditional costume presenting a Sarawak folk dance at a cultural showcase in Malaysia",
+        "alt": "A group of dancers in traditional Sarawakian costume performing a folk dance on stage for an audience",
+        "kb": 46
+      },
+      {
+        "file": "/media/arts-culture/national-cultural-policy/body-2.webp",
+        "credit": "Bahnfrend (Wikimedia Commons) / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The National Museum of Malaysia (Muzium Negara) in Kuala Lumpur, with its Minangkabau-style roof and heritage mosaic murals",
+        "alt": "The front of the National Museum of Malaysia, a building with a Minangkabau peaked roof and large tiled mural panels",
+        "kb": 172
+      }
+    ]
   },
   "arts-culture/navaratri": {
     "hero": {
@@ -5125,7 +5631,30 @@
       "alt": "A tiered Navaratri Kolu display draped in green cloth, the top step holding the ten avatars of Vishnu and lower steps filled with brightly painted figures of Hindu deities and figurines.",
       "kb": 179
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/navaratri/body-1.webp",
+        "credit": "Saurabh sirohiya (Wikimedia Commons) / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lively_Navratri_Garba_dance_performances.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A Garba folk dance performed during Navaratri, one of the festival's signature communal celebrations",
+        "alt": "Dancers in colourful traditional dress moving in a circle during a lively Navaratri Garba dance",
+        "kb": 189
+      },
+      {
+        "file": "/media/arts-culture/navaratri/body-2.webp",
+        "credit": "GoDakshin / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Birds_in_a_Golu_display_over_Hindu_Navaratri_festival_Kolu_dolls.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "A close view of figurines arranged on a Navaratri golu (kolu) festival doll display",
+        "alt": "Small decorative bird and figure dolls carefully arranged on the tiered steps of a Navaratri golu display",
+        "kb": 104
+      }
+    ]
   },
   "arts-culture/nine-emperor-gods-festival": {
     "hero": {
@@ -5139,7 +5668,30 @@
       "alt": "A crowd of devotees holding joss sticks before a dragon-flanked temple altar hung with yellow lanterns during the Nine Emperor Gods Festival in Ipoh, smoke rising from incense in the foreground.",
       "kb": 174
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/nine-emperor-gods-festival/body-1.webp",
+        "credit": "LEE 003 (Wikimedia Commons) / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_(KepalaBatas)_2.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The Nine Emperor Gods Festival (Kew Ong Yah) observed at a temple in Kepala Batas, Penang",
+        "alt": "A decorated temple during the Nine Emperor Gods Festival in Kepala Batas, with lanterns, yellow banners and offerings",
+        "kb": 174
+      },
+      {
+        "file": "/media/arts-culture/nine-emperor-gods-festival/body-2.webp",
+        "credit": "Photo Dharma / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:001_Archway_to_the_Temple_(9031159018).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "The decorated archway of the Tow Boo Kong Nine Emperor Gods Temple in Butterworth, Penang",
+        "alt": "An ornate ceremonial archway leading into the Tow Boo Kong Nine Emperor Gods temple compound in Butterworth",
+        "kb": 153
+      }
+    ]
   },
   "arts-culture/orang-asli": {
     "hero": {
@@ -5153,7 +5705,30 @@
       "alt": "A colourful painted wall mural reading Selamat Datang ke KOA Lubuk Legong in front of a village school building with a tiled roof, framed by green trees.",
       "kb": 166
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/orang-asli/body-1.webp",
+        "credit": "Qhairy / Wikimedia Commons",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mayin_Jo%E2%80%99oh_Mah_Meri_Masked_Dance_by_Tompoq_Topoh_22.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Mah Meri Mayin Jo'oh masked dance performed at a cultural showcase in Kuala Lumpur",
+        "alt": "A Mah Meri performer in a carved wooden ancestral-spirit mask and pleated palm-leaf costume dances the Mayin Jo'oh before an audience at an open-air cultural showcase.",
+        "kb": 166
+      },
+      {
+        "file": "/media/arts-culture/orang-asli/body-2.webp",
+        "credit": "Renek78 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Muzium_Seni_Kraf_Orang_Asli.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Orang Asli Craft Museum (Muzium Seni Kraf Orang Asli), Kuala Lumpur",
+        "alt": "The entrance of the Orang Asli Craft Museum in Kuala Lumpur, a large carved wooden Orang Asli sculpture standing beside the signboard amid tropical planting.",
+        "kb": 172
+      }
+    ]
   },
   "arts-culture/panguni-uthiram": {
     "hero": {
@@ -5167,7 +5742,30 @@
       "alt": "A large Tamil Hindu street procession at dusk with devotees carrying decorated peacock kavadi and musicians playing drums among a dense crowd near Batu Caves.",
       "kb": 173
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/panguni-uthiram/body-1.webp",
+        "credit": "N. Vivekananthamoorthy / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Temple-Car-Festival-Mylapore-Chennai-India.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Temple-car (ther) procession during the Panguni festival, Mylapore",
+        "alt": "A towering, intricately decorated wooden temple chariot carrying deity figures is drawn through a crowded street during a Panguni temple-car festival.",
+        "kb": 167
+      },
+      {
+        "file": "/media/arts-culture/panguni-uthiram/body-2.webp",
+        "credit": "Dharmaphotography / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Perur_car_festival.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Decorated temple chariots at a Panguni Uthiram car festival",
+        "alt": "Two tall, brightly decorated temple chariots stand side by side amid devotees and priests at a Panguni Uthiram car festival.",
+        "kb": 171
+      }
+    ]
   },
   "arts-culture/pantun": {
     "hero": {
@@ -5181,7 +5779,30 @@
       "alt": "Malay performers in green and gold traditional costume with ornate headgear seated on the ground and making synchronised hand gestures during a dikir barat performance, hand drums in front of them.",
       "kb": 173
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/pantun/body-1.webp",
+        "credit": "The Bangsawan / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Kelantan-Patani style wayang kulit shadow play",
+        "alt": "Intricately carved leather shadow puppets of mythic figures cast sharp silhouettes against a glowing screen during a Kelantan-Patani wayang kulit performance.",
+        "kb": 94
+      },
+      {
+        "file": "/media/arts-culture/pantun/body-2.webp",
+        "credit": "The Bangsawan / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Malay gamelan ensemble at the Music Museum, Kuala Lumpur",
+        "alt": "An ornately carved Malay gamelan ensemble of bronze gongs, kettle-gongs and wooden metallophones displayed at the Music Museum in Kuala Lumpur.",
+        "kb": 176
+      }
+    ]
   },
   "arts-culture/peranakan": {
     "hero": {
@@ -5195,7 +5816,30 @@
       "alt": "A Peranakan reception hall at the Baba Nyonya Heritage Museum in Melaka, with gilded carved blackwood screens, mother-of-pearl inlaid furniture, a marble-topped round table and painted bird-and-flower panels on the walls.",
       "kb": 170
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/peranakan/body-1.webp",
+        "credit": "P. Hughes / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Malacca_-_traditional_Peranakan-style_shophouse.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Peranakan-style shophouse facade, Malacca",
+        "alt": "The upper facade of a Peranakan shophouse in Malacca, with arched turquoise louvred shutters, moulded reliefs and a band of glazed tilework.",
+        "kb": 147
+      },
+      {
+        "file": "/media/arts-culture/peranakan/body-2.webp",
+        "credit": "Gniam Jin Hong / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Peranakan_tea_porcelain_with_floral_and_birds_motifs.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Peranakan (nyonyaware) tea porcelain with floral and bird motifs",
+        "alt": "A Peranakan porcelain tea bowl and its lid painted with pink peonies and phoenix birds on a white ground, displayed in a case.",
+        "kb": 168
+      }
+    ]
   },
   "arts-culture/rumi-script": {
     "hero": {
@@ -5209,7 +5853,30 @@
       "alt": "A blue Malaysian street sign reading Jalan Pasir Puteh in Jawi script above and in Rumi (Latin) letters below, with a man on a motorcycle passing beside it.",
       "kb": 73
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/rumi-script/body-1.webp",
+        "credit": "Kerina yin / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Bilingual Jawi-and-Rumi street-name sign, Kelantan",
+        "alt": "A blue street-name sign reading 'Jalan Pasir Puteh' in romanised Rumi letters beneath the same name in Jawi script, at a roadside in Kelantan.",
+        "kb": 73
+      },
+      {
+        "file": "/media/arts-culture/rumi-script/body-2.webp",
+        "credit": "Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Malay_signboard_with_English_location_name_in_Ipoh.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Malay road-name sign in Rumi script, Ipoh",
+        "alt": "A green Malaysian street sign reading 'Persiaran Greentown 4C, Poskod 30450 Ipoh' in romanised Malay (Rumi) lettering.",
+        "kb": 165
+      }
+    ]
   },
   "arts-culture/tamil-in-malaysia": {
     "hero": {
@@ -5223,7 +5890,30 @@
       "alt": "The gate signboard of a Tamil-medium school in Changlun, Kedah, lettered in Tamil script above the English name S.J.K (Tamil) Changlun, with the school building behind.",
       "kb": 150
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/tamil-in-malaysia/body-1.webp",
+        "credit": "SSYoung / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:%22No_Admittance%22_sign_in_five_languages_in_Kota_Kinabalu,_Malaysia.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Multilingual Malaysian sign with a Tamil-script line, Kota Kinabalu",
+        "alt": "A red-and-white Malaysian 'No Admittance' sign reading 'Dilarang Masuk' with the same warning in English, Chinese, Punjabi and, on the bottom line, Tamil script.",
+        "kb": 104
+      },
+      {
+        "file": "/media/arts-culture/tamil-in-malaysia/body-2.webp",
+        "credit": "Ksmuthukrishnan / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom2(1).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Classroom block of a Tamil national-type primary school, Changlun, Kedah",
+        "alt": "The open classroom block of a Tamil-medium primary school in Changlun, Kedah, its doorways and roofline hung with Malaysian flags under a bright sky.",
+        "kb": 171
+      }
+    ]
   },
   "arts-culture/tua-pek-kong": {
     "hero": {
@@ -5237,7 +5927,30 @@
       "alt": "The red and gold ornate gateway of the Tua Pek Kong Temple in Sibu, flanked by gilded guardian lions, with a tall seven-storey pagoda rising behind it against a blue sky.",
       "kb": 157
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/tua-pek-kong/body-1.webp",
+        "credit": "marufish / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tanjong_Tokong_Tua_Pek_Kong_Temple.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Tanjung Tokong Tua Pek Kong Temple, Penang",
+        "alt": "The red facade and ornate tiled roof of the Tua Pek Kong temple at Tanjung Tokong, Penang, with guardian lions and tall red joss candles at the entrance.",
+        "kb": 171
+      },
+      {
+        "file": "/media/arts-culture/tua-pek-kong/body-2.webp",
+        "credit": "Anandajoti Bhikkhu / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_062_Tua_Pek_Kong_(15821797501).jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Tua Pek Kong deity altar at Ping Sien Si, Perak",
+        "alt": "A gilded, bearded Tua Pek Kong deity figure seated on an altar flanked by attendants, with lit candles and bundles of incense rising before it.",
+        "kb": 155
+      }
+    ]
   },
   "arts-culture/visiting-a-malaysian-open-house": {
     "hero": {
@@ -5251,7 +5964,30 @@
       "alt": "An overhead view of a Hari Raya feast spread on a table, with pots of beef rendang and vegetable curry, a dish of sambal, and plates of woven ketupat casings and sliced compressed rice.",
       "kb": 133
     },
-    "body": []
+    "body": [
+      {
+        "file": "/media/arts-culture/visiting-a-malaysian-open-house/body-1.webp",
+        "credit": "Embassy of the Republic of Indonesia, Bandar Seri Begawan / Wikimedia Commons",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Indonesian_Embassy_host_Aidilfitri_Open_House_02.jpg",
+        "kind": "representative",
+        "origin": "third-party",
+        "subject": "Guests greeting their hosts at a Hari Raya Aidilfitri open house",
+        "alt": "Guests in batik and baju kurung smile and shake hands in greeting at the doorway of a Hari Raya Aidilfitri open house.",
+        "kb": 99
+      },
+      {
+        "file": "/media/arts-culture/visiting-a-malaysian-open-house/body-2.webp",
+        "credit": "Miss Izzah / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ketupat_Nasi.jpg",
+        "kind": "actual",
+        "origin": "third-party",
+        "subject": "Woven ketupat rice cakes for Hari Raya",
+        "alt": "A cluster of woven palm-leaf ketupat rice casings tied together, a staple of Malaysian Hari Raya open-house hospitality.",
+        "kb": 105
+      }
+    ]
   },
   "states/johor": {
     "hero": {

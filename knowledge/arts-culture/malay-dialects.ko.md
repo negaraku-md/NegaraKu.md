@@ -34,7 +34,7 @@ seoTitle: "말레이 방언"
 socialTitle: "클란탄 사투리, 북부 방언, 사라왁 말레이어 — 말레이어 방언의 다양성"
 
 lang: "ko"
-sourceContentHash: "5b24bf4ffc138470"
+sourceContentHash: "b41043538f8f4aad"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_House1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malay-dialects/body-1.webp
+    alt: 루마 와리산 하지 수, 쿠알라트렝가누 동해안 양식으로 지은 전통 말레이 목조 가옥 한 쌍
+    kind: actual
+    origin: third-party
+    subject: 트렝가누 전통 말레이 목조 가옥(루마 와리산 하지 수), 쿠알라트렝가누
+    credit: Fikku fiq / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rumah_Warisan_Haji_Su,_Kuala_Terengganu.jpg
+  - role: scene
+    src: /media/arts-culture/malay-dialects/body-2.webp
+    alt: 미낭카바우 양식의 위로 치솟은 지붕을 가진 전통 느그리슴빌란 가옥이 스렘반 주립박물관 경내에 전시되어 있다
+    kind: actual
+    origin: third-party
+    subject: 미낭카바우 양식의 느그리슴빌란 전통 가옥, 스렘반 주립박물관
+    credit: Ardzun / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg
 ---
 
 코타바루(Kota Bharu) 출신, 알로르스타르(Alor Setar) 출신, 쿠칭(Kuching) 출신의 화자가 모두 자신이 말레이어를 쓴다고 똑같이 말할 수 있습니다 — 그러나 각자의 고향 마을에서 편하게 이야기를 나눌 때면, 그 소리는 서로를 이해하는 데 약간의 적응이 필요할 만큼 크게 다를 수 있습니다. 바로 이 차이를 방언, 혹은 일상어로 사투리(loghat)라고 부릅니다.

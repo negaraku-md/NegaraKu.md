@@ -29,7 +29,7 @@ faq:
   - q: "Thờ Mã Tổ thuộc Đạo giáo hay Phật giáo?"
     a: "Mã Tổ chủ yếu thuộc phạm vi Đạo giáo và tín ngưỡng dân gian của người Hoa, thường được thờ chung với các vị thần khác; trong một số bối cảnh Phật giáo cũng thấy việc thờ Mã Tổ. Trên thực tế, nhiều người Hoa không phân biệt nghiêm ngặt giữa Đạo giáo, Phật giáo và tín ngưỡng dân gian, điều này phù hợp với tình trạng tín ngưỡng của người Hoa Malaysia nhìn chung hòa quyện lẫn nhau. Bài viết này chỉ mô tả hiện tượng tín ngưỡng, không phán xét ý nghĩa tôn giáo của nó."
 lang: "vi"
-sourceContentHash: "1e60c14522a81280"
+sourceContentHash: "f3c9d3857e6a2d83"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-3.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mazu-worship/body-1.webp
+    alt: Mái và mặt tiền lộng lẫy của một ngôi đền Mazu người Hoa lịch sử ở Kuala Terengganu, với họa tiết rồng trên bờ nóc
+    kind: actual
+    origin: third-party
+    subject: Ho Ann Kiong, một ngôi đền Mazu (Thiên Hậu, nữ thần biển) ở Kuala Terengganu, một trong những ngôi đền người Hoa lâu đời nhất ở Terengganu
+    credit: Fikku_fiq (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ho_Ann_Kiong.jpg
+  - role: scene
+    src: /media/arts-culture/mazu-worship/body-2.webp
+    alt: Gian bàn thờ chính của một ngôi đền Mazu người Hải Nam ở George Town, với đèn lồng treo, nhang và đồ thờ dát vàng
+    kind: actual
+    origin: third-party
+    subject: Bàn thờ bên trong Đền Hải Nam (Tokong Hainan) ở George Town, Penang, một ngôi đền thờ nữ thần biển Mazu
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hainan_Tempel_Innen.JPG
 ---
 
 Trên một ngọn đồi nhỏ tại Robson Heights ở Kuala Lumpur, một ngôi miếu sáu tầng cột đỏ ngói lưu ly nhìn xuống thành phố — đó chính là Thiên Hậu Cung (Thean Hou Temple), thờ nữ thần biển nổi tiếng nhất trong thế giới người Hoa: Mã Tổ. Thuở trước, người Hoa xuôi Nam bằng đường biển thường cầu bà phù hộ bình an trước và sau khi vượt biển; ngày nay, nơi đây vừa là ngôi miếu để tín đồ dâng hương, vừa là chỗ tụ họp của đồng hương Hải Nam, vừa là nơi du khách chụp ảnh.

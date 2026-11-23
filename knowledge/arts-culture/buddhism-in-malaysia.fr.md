@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "fr"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "48f4e6165d3f9202"
+sourceContentHash: "480d50bf66cae13c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -77,6 +77,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-1.webp
+    alt: La façade et les toits dorés et carrelés, richement ornés, d'un temple bouddhiste thaï sur fond de ciel bleu à Penang
+    kind: actual
+    origin: third-party
+    subject: Wat Chaiya Mangkalaram, un temple bouddhiste thaï Theravada à George Town, Penang
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Wat-Chaiya-Mangkalaram-Temple-01.jpg
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-2.webp
+    alt: Une statue de Bouddha assis entourée de masses de chrysanthèmes jaunes, blancs et roses sur un char de la fête de Wesak
+    kind: actual
+    origin: third-party
+    subject: Une statue de Bouddha ornée de fleurs sur un char du jour de Wesak à Wat Nikrodharam, Alor Setar, Kedah
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg
 ---
 
 Sur les collines de Penang, la silhouette de la pagode du Kek Lok Si domine

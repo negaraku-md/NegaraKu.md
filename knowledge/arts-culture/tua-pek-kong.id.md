@@ -33,7 +33,7 @@ faq:
     a: "'Meminta api' (请火, Chneah Hoay, 'menatap api' dalam dialek Hokkien) adalah ritual yang diwariskan lebih dari seratus tahun oleh Poh Hock Seah di Penang, diadakan pada 14 sampai 16 bulan pertama kalender lunar di Kelenteng Tua Pek Kong Hai Choo Soo di Tanjong Tokong, dengan upacara meminta api resmi berlangsung pada tengah malam Festival Lampion. Selama ritual, semua lampu dan lilin di dalam kelenteng dipadamkan; anggota mengambil api dari tungku bara dalam keranjang pikulan dupa lalu mengipasinya, meramal nasib tahun mendatang dari kekuatan nyala api, tiga kali berturut-turut yang masing-masing mewakili tiga musim dalam setahun; secara tradisi hanya anggota pria yang ikut. Setelah upacara selesai dan lampu dinyalakan kembali, barulah masyarakat umum boleh masuk untuk bersembahyang. Artikel ini hanya memaparkan prosedurnya dan tidak menghakimi makna keagamaannya."
 
 lang: "id"
-sourceContentHash: "24e27178b70c08f9"
+sourceContentHash: "f3f881791e865e1d"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Facade_of_Tua_Pek_Kong_Temple,_Sibu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tua-pek-kong/body-1.webp
+    alt: Fasad merah dan atap berubin indah Kelenteng Tua Pek Kong di Tanjung Tokong, Penang, dengan singa penjaga dan lilin merah tinggi di pintu masuk.
+    kind: actual
+    origin: third-party
+    subject: Kelenteng Tua Pek Kong Tanjung Tokong, Penang
+    credit: marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjong_Tokong_Tua_Pek_Kong_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/tua-pek-kong/body-2.webp
+    alt: Sebuah arca dewa Tua Pek Kong berjanggut dan bersepuh emas duduk di atas altar diapit para pengiring, dengan lilin menyala dan ikatan hio mengepul di depannya.
+    kind: actual
+    origin: third-party
+    subject: Altar dewa Tua Pek Kong di Ping Sien Si, Perak
+    credit: Anandajoti Bhikkhu / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_062_Tua_Pek_Kong_(15821797501).jpg
 ---
 
 Di tepi laut di Tanjung Tokong (丹絨道光) di Penang berdiri sebuah kelenteng yang tidak seberapa besar, sunyi hampir sepanjang tahun. Namun menjelang Festival Lampion, suasananya berubah sama sekali: keranjang pikulan dupa, gong dan gendang, serta barisan panjang orang datang jauh-jauh dari George Town; pada malam hari setiap lampu dan lilin di dalam kelenteng dipadamkan, dan sekelompok orang mengerumuni tungku bara, menahan napas sambil mengipasi api — seberapa tinggi nyala api melonjak dipandang sebagai sebuah "ramalan" untuk tahun mendatang. Kelenteng inilah, dalam benak banyak orang, mata air pemujaan Tua Pek Kong.

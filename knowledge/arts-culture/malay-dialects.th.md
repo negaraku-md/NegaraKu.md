@@ -34,7 +34,7 @@ seoTitle: "ภาษาถิ่นมลายู"
 socialTitle: "สำเนียงกลันตัน ภาษาถิ่นเหนือ มลายูซาราวัก — ความหลากหลายของภาษาถิ่นมลายู"
 
 lang: "th"
-sourceContentHash: "5b24bf4ffc138470"
+sourceContentHash: "b41043538f8f4aad"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_House1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malay-dialects/body-1.webp
+    alt: รูมะฮ์วาริซันฮัจญีซู บ้านไม้มลายูดั้งเดิมสองหลังในรูปแบบชายฝั่งตะวันออกของกัวลาตรังกานู
+    kind: actual
+    origin: third-party
+    subject: บ้านไม้มลายูดั้งเดิมแบบตรังกานู (รูมะฮ์วาริซันฮัจญีซู) เมืองกัวลาตรังกานู
+    credit: Fikku fiq / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rumah_Warisan_Haji_Su,_Kuala_Terengganu.jpg
+  - role: scene
+    src: /media/arts-culture/malay-dialects/body-2.webp
+    alt: บ้านดั้งเดิมแบบเนอเกอรีเซิมบีลันที่มีหลังคาเชิดขึ้นแบบมีนังกาเบา จัดแสดงในบริเวณพิพิธภัณฑ์ประจำรัฐที่เซอเริมบัน
+    kind: actual
+    origin: third-party
+    subject: บ้านดั้งเดิมแบบเนอเกอรีเซิมบีลันสไตล์มีนังกาเบา ที่พิพิธภัณฑ์ประจำรัฐ เมืองเซอเริมบัน
+    credit: Ardzun / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg
 ---
 
 ผู้พูดจากโกตาบารู ผู้พูดจากอาโลร์เซอตาร์ และผู้พูดจากกูชิง อาจพูดเหมือนกันว่าพวกเขาพูดภาษามลายู — แต่เมื่อพวกเขาสนทนากันอย่างลำลองในหมู่บ้านของแต่ละคน เสียงนั้นอาจต่างกันมากจนต้องปรับตัวเล็กน้อยเพื่อจะเข้าใจกัน ความแตกต่างนี้เองที่เรียกว่าภาษาถิ่น หรือในภาษาปากเรียกว่า loghat (สำเนียง)

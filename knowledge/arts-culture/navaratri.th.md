@@ -32,7 +32,7 @@ faq:
   - q: "นวราตรีมีเฉพาะชาวทมิฬที่ฉลองหรือไม่?"
     a: "ไม่ใช่ แม้โกลูและการบูชาพระสรัสวดี/เครื่องมือจะเด่นในธรรมเนียมอินเดียใต้-ทมิฬ แต่ชุมชนคุชราตและอินเดียเหนือในมาเลเซียเฉลิมฉลองนวราตรีด้วยการรำครรพะและฑัณฑิยะ และชุมชนเบงกอลจัดทุรคาบูชา แนวปฏิบัติของแต่ละชุมชนแตกต่างกันไป"
 lang: "th"
-sourceContentHash: "4de698b1470bf32c"
+sourceContentHash: "dae52d8e596d9c8f"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Navratri_Golu_-_Dashavatara.JPG'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/navaratri/body-1.webp
+    alt: นักเต้นในชุดดั้งเดิมสีสันสดใสเคลื่อนไหวเป็นวงกลมในการเต้นการ์บาอันคึกคักช่วงเทศกาลนวราตรี
+    kind: representative
+    origin: third-party
+    subject: การเต้นพื้นเมืองการ์บาที่แสดงในช่วงเทศกาลนวราตรี หนึ่งในการเฉลิมฉลองร่วมกันอันเป็นเอกลักษณ์ของเทศกาล
+    credit: Saurabh sirohiya (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lively_Navratri_Garba_dance_performances.jpg
+  - role: scene
+    src: /media/arts-culture/navaratri/body-2.webp
+    alt: ตุ๊กตานกและรูปคนตกแต่งขนาดเล็กจัดวางอย่างประณีตบนชั้นบันไดของการจัดแสดงตุ๊กตาโกลูในเทศกาลนวราตรี
+    kind: representative
+    origin: third-party
+    subject: ภาพระยะใกล้ของตุ๊กตาที่จัดวางบนการแสดงตุ๊กตาโกลู (golu/kolu) ในเทศกาลนวราตรี
+    credit: GoDakshin / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Birds_in_a_Golu_display_over_Hindu_Navaratri_festival_Kolu_dolls.jpg
 ---
 
 ในช่วงนวราตรี ตามผนังด้านหนึ่งของห้องรับแขกในบ้านฮินดูทมิฬแห่งหนึ่งในมาเลเซีย จะมีการตั้งชั้นขั้นบันไดจำนวนคี่ขึ้นมา บนขั้นที่คลุมด้วยผ้าเหล่านั้น เทวรูปและตุ๊กตาที่เล่าเรื่องฉากต่าง ๆ จากปกรณัมจะถูกจัดเรียงเป็นแถว พอตกเย็น ญาติมิตรและเพื่อนบ้านจะมาชม **โกลู** นี้ เสียงเพลงดังกังวาน และแขกที่กลับจะได้รับธัมพูลัมและของหวาน นี่ไม่ใช่งานเพียงวันเดียว — หากเป็นเครื่องหมายของเทศกาลที่ทอดยาวตลอดเก้าคืน

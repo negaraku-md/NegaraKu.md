@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "ko"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "d7df97b39a2da0c7"
+sourceContentHash: "e30d1ed6a06d7023"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -79,6 +79,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_temple-Kuala_Lumpur_Malaysia.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-1.webp
+    alt: 페락주 이포의 칼루말라이 무루간 사원의 층층이 쌓인 선명한 색채의 탑문(고푸람)으로, 힌두교 신들의 조각상으로 뒤덮여 있다
+    kind: actual
+    origin: third-party
+    subject: 페락주 이포 칼루말라이 무루간 사원의 화려한 탑문(고푸람)
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kallumalai_Murugan_Temple,_Ipoh,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-2.webp
+    alt: 디파발리를 맞아 바닥에 그린 정교하고 색이 선명한 콜람. 말레이시아의 주요 힌두교 축제이다
+    kind: actual
+    origin: third-party
+    subject: 디파발리(Deepavali)의 콜람(바닥 그림), 말레이시아
+    credit: John Ragai / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg
 ---
 
 말레이시아의 어느 도시에서든 오래된 고무 플랜테이션 가장자리나 도심의 유서 깊은

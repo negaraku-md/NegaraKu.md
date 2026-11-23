@@ -32,7 +32,7 @@ faq:
     a: "ใช่ พจนานุกรมภาษาอังกฤษออกซ์ฟอร์ดได้เพิ่มคำภาษาอังกฤษมาเลเซียหลายคำในการปรับปรุงหลายครั้ง รวมถึง lepak, shiok และ teh tarik ในปี 2016 คำแมงกลิชและคำอาหารมาเลเซียหลายคำ รวมถึง mamak, kopitiam และ atas ในปีเดียวกันนั้น และคำอย่าง boleh, agak-agak และ wayang ในการปรับปรุงครั้งต่อมา — เป็นการยอมรับการใช้แบบมาเลเซียที่มีมาแต่เดิม ไม่ใช่การประดิษฐ์ภาษาอังกฤษขึ้นใหม่"
 
 lang: "th"
-sourceContentHash: "8f82ee70d6e9258e"
+sourceContentHash: "74516c4c0a947cb1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_2025.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/manglish/body-1.webp
+    alt: ถนนช็อปเฮาส์ในจอร์จทาวน์ที่หน้าร้านมีป้ายภาษาอังกฤษ ทมิฬ จีน และมลายูเรียงเคียงกัน
+    kind: actual
+    origin: third-party
+    subject: ถนนลิตเติลอินเดียในจอร์จทาวน์ รัฐปีนัง เรียงรายด้วยป้ายร้านค้าหลายภาษาและหลายอักษร
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_Scene_-_Little_India_-_George_Town_-_Penang_-_Malaysia_(35445172795).jpg
+  - role: scene
+    src: /media/arts-culture/manglish/body-2.webp
+    alt: ผู้คนเดินผ่านแถวแผงขายอาหารและสินค้าในตลาดนัดกลางคืนที่คึกคักของมาเลเซียในยามเย็น
+    kind: actual
+    origin: third-party
+    subject: ตลาดนัดกลางคืน (ปาซาร์มาลัม) ที่เซอรีเกิมบางัน รัฐสลังงอร์ บรรยากาศถนนหลายภาษาในชีวิตประจำวันของมาเลเซีย
+    credit: '*angys* (Wikimedia Commons) / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pasar_Malam_Seri_Kembangan_(230403)_01.jpg
 ---
 
 "Can or not?" "Wait ah, later confirm lor." "Don't play play, I already tell you."

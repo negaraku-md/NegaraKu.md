@@ -32,7 +32,7 @@ faq:
   - q: "كيف حال جماعة الشيتيار في ماليزيا اليوم؟"
     a: "في منتصف القرن العشرين، أدّت التغييرات في القوانين المالية والتحوّلات السياسية إلى تقلّص مهنة الإقراض التقليدية. وانتقل كثيرون إلى التجارة والمهن والمجالات المرتبطة بالتعليم. ورغم أنها جماعة قليلة العدد، فإنها تحافظ على هوية ثقافية متميّزة عبر المعابد والأعياد والطعام وتقاليد الأسرة."
 lang: "ar"
-sourceContentHash: "9862f72c904a9334"
+sourceContentHash: "7e3e2be6ebfbcd23"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Waterfall_Temple.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-1.webp
+    alt: برج معبد (gopuram) هندي جنوبي ملوّن مغطّى بتماثيل منحوتة أمام سماء صافية في Penang
+    kind: actual
+    origin: third-party
+    subject: معبد Nagarathar (Nattukottai Chettiar) Sivan في George Town بولاية Penang
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Nagarathar_Sivan_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-2.webp
+    alt: عربة معبد مذهّبة عالية معلّقة بأكاليل الزهور تتحرّك عبر شارع في Penang عند الغسق وسط حشد من المحبّين
+    kind: actual
+    origin: third-party
+    subject: العربة الذهبية والمحبّون خلال موكب Thaipusam في Penang، وهو احتفال يسهم مجتمع Chettiar في الحفاظ عليه
+    credit: Seelit2004 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_Festival_The_Golden_Chariot_and_the_Followers.jpg
 ---
 
 في يوم عيد ثايبوسام ببينانغ، تنطلق عربة مهيبة مصنوعة من الفضة من شارع ليبوه بينانغ متجهةً إلى معبد مورُغان على التلّة. وليست تلك العربة، ولا الجماعة التي تُسيّرها منذ أكثر من قرن، محض مصادفة — فكلتاهما تروي قصة تقليد تجاري-صيرفي قطع الطريق من تشيتيناد إلى مالايا.

@@ -36,7 +36,7 @@ socialTitle: "吉兰丹口音、北部方言、砂拉越马来语——马来语
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "5b24bf4ffc138470"
+sourceContentHash: "b41043538f8f4aad"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_House1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malay-dialects/body-1.webp
+    alt: 哈芝苏传统屋（Rumah Warisan Haji Su），一对以瓜拉登嘉楼东海岸风格建造的传统马来木屋
+    kind: actual
+    origin: third-party
+    subject: 登嘉楼传统马来木屋（哈芝苏传统屋），瓜拉登嘉楼
+    credit: Fikku fiq / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rumah_Warisan_Haji_Su,_Kuala_Terengganu.jpg
+  - role: scene
+    src: /media/arts-culture/malay-dialects/body-2.webp
+    alt: 传统的森美兰屋，配有米南加保风格上翘的屋顶，陈列于芙蓉州博物馆园区
+    kind: actual
+    origin: third-party
+    subject: 米南加保风格的森美兰传统屋，位于芙蓉州博物馆
+    credit: Ardzun / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg
 ---
 
 一位来自哥打峇鲁的说话者、一位来自亚罗士打的说话者，与一位来自古晋的说话者，或许都会说自己讲的是马来语——但当他们各自在家乡随意闲聊时，其声音可以如此不同，以致需要稍加适应才能彼此理解。这种差异便称为方言，或在日常用语中称为 loghat（口音）。

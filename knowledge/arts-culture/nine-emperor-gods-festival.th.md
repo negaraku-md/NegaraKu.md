@@ -32,7 +32,7 @@ faq:
   - q: "เทศกาลกิ้วอ๋องเหมือนกับเทศกาลสารทจีน (ผีไม่มีญาติ) หรือตรุษจีนหรือไม่?"
     a: "ไม่เหมือนกัน เทศกาลกิ้วอ๋องเป็นเทศกาลลัทธิเต๋าในเดือน 9 ตามจันทรคติที่บูชาเก้าเทพจักรพรรดิโดยเฉพาะ มีการเชิญน้ำ การกินเจ และการส่งเสด็จเป็นแก่น ส่วนเทศกาลสารทจีน (อวี๋หลาน) อยู่ในเดือน 7 ตามจันทรคติ มีการโปรดและอุทิศส่วนกุศลแก่ดวงวิญญาณเร่ร่อนเป็นหัวข้อ ขณะที่ตรุษจีนเป็นเทศกาลวัฒนธรรมตามฤดูกาลที่เน้นการรวมญาติในครอบครัว ทั้งสามต่างกันทั้งเวลา วัตถุประสงค์ และความหมาย ไม่ควรนำมาปนกัน"
 lang: "th"
-sourceContentHash: "642647a0f184876b"
+sourceContentHash: "fef1d3cfdfb90ea5"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_Festival_(Ipoh)_3.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-1.webp
+    alt: ศาลเจ้าที่ประดับตกแต่งในช่วงเทศกาลกิวอ๋องเอี๋ยที่เกอปาลาบาตัส พร้อมโคม ธงสีเหลือง และเครื่องเซ่น
+    kind: actual
+    origin: third-party
+    subject: เทศกาลเก้าอ๋องเอี๋ย (Kew Ong Yah) ที่ศาลเจ้าแห่งหนึ่งในเกอปาลาบาตัส รัฐปีนัง
+    credit: LEE 003 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_(KepalaBatas)_2.jpg
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-2.webp
+    alt: ซุ้มประตูพิธีอันวิจิตรที่นำไปสู่บริเวณศาลเจ้าเก้าอ๋องเอี๋ยโต้วบ๊อก้งในบัตเตอร์เวิร์ธ
+    kind: actual
+    origin: third-party
+    subject: ซุ้มประตูที่ประดับตกแต่งของศาลเจ้าเก้าอ๋องเอี๋ยโต้วบ๊อก้ง (Tow Boo Kong) ในบัตเตอร์เวิร์ธ รัฐปีนัง
+    credit: Photo Dharma / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Archway_to_the_Temple_(9031159018).jpg
 ---
 
 ในคืนก่อนวันขึ้น 1 ค่ำเดือน 9 ตามจันทรคติ แถวผู้ศรัทธาที่สวมชุดขาวคาดผ้าสีเหลืองที่เอว ถือธูปหอมทยอยออกจากศาลเจ้า มุ่งไปยังริมแม่น้ำหรือชายทะเลที่ใกล้ที่สุด ข้างหน้าเป็นฆ้องและกลอง ข้างหลังเป็นควันธูป—พวกเขากำลังไป "เชิญน้ำ" และ "รับเสด็จ" เพื่ออัญเชิญเก้าเทพจักรพรรดิกลับสู่ศาลเจ้า ตลอดเก้าวันถัดมา ภายในศาลเจ้าควันธูปไม่ขาดสาย ภายนอกศาลเจ้าหอมกลิ่นอาหารเจ และในคืนวันขึ้น 9 ค่ำ แถวเดิมจะตั้งขบวนไปยังริมน้ำอีกครั้งเพื่อส่งเสด็จเทพเจ้ากลับ

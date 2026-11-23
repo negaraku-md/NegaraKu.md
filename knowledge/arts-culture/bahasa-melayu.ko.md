@@ -34,7 +34,7 @@ seoTitle: "말레이어: 제152조 아래의 국어"
 socialTitle: "말레이어는 어떻게 국어가 되었는가 — 그리고 자위에서 로마자로의 전환"
 
 lang: "ko"
-sourceContentHash: "ac6472952bdfcbbb"
+sourceContentHash: "1fc94a71a343c3e0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -101,6 +101,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka_building,_Malaysia_(DSCF0833).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-1.webp
+    alt: 말레이시아 도서전에서 '말레이어 책'이라 적힌 걸개 간판 아래, 말레이어 문고본이 쌓인 매대를 손님들이 둘러보고 있다
+    kind: actual
+    origin: third-party
+    subject: 말레이시아 도서전의 말레이어 도서 코너
+    credit: Uniku Putra / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BBWBooks_Malay_Book_2012.JPG
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-2.webp
+    alt: 자위(Jawi) 문자로 쓰인 오래된 필사본이 유리 진열장 안 받침대 위에 펼쳐져 전시되어 있다
+    kind: actual
+    origin: third-party
+    subject: 자위 문자로 쓰인 펼쳐진 말레이어 필사본(믈라카 법전 Hukum Kanun Melaka 법률 모음), 말레이시아
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 트렝가누(Terengganu) 쿠알라 브랑(Kuala Berang)에서, 말레이어 낱말이 새겨진 한 돌 비문이 발견되었습니다 — 오늘날 우리가 아는 글자가 아니라, 말레이어 음에 맞게 조정된 아랍 문자로 말입니다. 말레이시아 국립 문서보관소(Arkib Negara Malaysia)에 따르면 그 비문은 서기 1303년의 연대를 지닙니다.

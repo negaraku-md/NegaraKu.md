@@ -32,7 +32,7 @@ faq:
   - q: "Who works on the estates today?"
     a: "Today most of Malaysia's estate workers are foreign migrant labourers. As far as the Tamil community is concerned, the great estate-to-town migration was largely complete decades ago; today's community has become a largely urban and semi-urban one."
 lang: "en"
-sourceContentHash: "26feee7acc3d6568"
+sourceContentHash: "03062d40a74e2b62"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Ladang_Sungai_Getah.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-1.webp
+    alt: A worker tapping latex from a rubber tree on an estate in Malacca in 1946, evoking the plantation labour that shaped Malaysia's estate communities.
+    kind: representative
+    origin: third-party
+    subject: Rubber tapping on a rubber plantation in Malacca (1946)
+    credit: Willem van de Poll / Nationaal Archief / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vrouw_bezig_met_het_aftappen_van_rubber_op_een_rubberplantage_in_Malakka,_Bestanddeelnr_255-6638.jpg
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-2.webp
+    alt: 'A museum display at the Indian Heritage Centre in Johor Bahru titled Early Occupations: Rubber Tapping, with a saree-clad figure, latex buckets and historic estate photographs with Tamil captions.'
+    kind: actual
+    origin: third-party
+    subject: '"Early Occupations: Rubber Tapping" exhibit on Tamil Malaysian estate heritage, Indian Heritage Centre, Johor Bahru'
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indian_Heritage_Centre_(Johor_Bahru)_(2025)_-_img_10.jpg
 ---
 
 On the fringes of many of Malaysia's older towns, a rubber estate that once stretched out green has now become a residential area full of houses and rows of shops. Among those new buildings, an old Amman temple or a small Tamil school sometimes still stands — the enduring mark of a community that has been displaced.

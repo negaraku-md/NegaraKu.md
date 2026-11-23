@@ -73,6 +73,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Devotees_and_Musicians_with_Decorated_Kavadis_on_Procession_Street_at_Batu_Caves_(250211).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-1.webp
+    alt: பங்குனி தேர்த் திருவிழாவின்போது தெய்வ உருவங்களைச் சுமந்து செல்லும் உயரமான, நுணுக்கமாக அலங்கரிக்கப்பட்ட ஒரு மரத் தேர் நெரிசலான தெருவில் இழுத்துச் செல்லப்படுகிறது.
+    kind: representative
+    origin: third-party
+    subject: மயிலாப்பூரில் பங்குனி திருவிழாவின்போது தேர் (ther) ஊர்வலம்
+    credit: N. Vivekananthamoorthy / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Temple-Car-Festival-Mylapore-Chennai-India.jpg
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-2.webp
+    alt: ஒரு பங்குனி உத்திரத் தேர்த் திருவிழாவில் பக்தர்கள் மற்றும் அர்ச்சகர்களுக்கு நடுவே அருகருகே நிற்கும் இரண்டு உயரமான, பிரகாசமாக அலங்கரிக்கப்பட்ட கோயில் தேர்கள்.
+    kind: representative
+    origin: third-party
+    subject: ஒரு பங்குனி உத்திரத் தேர்த் திருவிழாவில் அலங்கரிக்கப்பட்ட கோயில் தேர்கள்
+    credit: Dharmaphotography / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perur_car_festival.jpg
 ---
 
 பங்குனி மாதம் வானில் முழு நிலவு நிறையும் ஓர் இரவு. தமிழ் மரபில் இந்த

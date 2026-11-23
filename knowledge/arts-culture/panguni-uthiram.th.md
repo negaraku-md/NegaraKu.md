@@ -30,7 +30,7 @@ faq:
   - q: "ในมาเลเซีย ปังกุนิ อุตติรัม ถูกเฉลิมฉลองอย่างยิ่งใหญ่ที่ไหน?"
     a: "วัดศรีมารธานทาวาร์ บาลา ทันทายุธาปานี ในมารัน รัฐปะหัง เป็นที่รู้จักด้วยการเฉลิมฉลองที่ยิ่งใหญ่ที่สุดแห่งหนึ่ง ส่วนวัดมุรุกันในกาปาร์ รัฐสลังงอร์ ก็จัดงานฉลองขนาดใหญ่ที่มีกาวดีและขบวนแห่รถเทวรูป นอกจากนี้ยังมีวัดมุรุกันและวัดมาริอัมมันอีกหลายแห่งทั่วประเทศที่ถือปฏิบัติวันนี้ตามขนาดของตน ขนาดและธรรมเนียมของการเฉลิมฉลองแตกต่างกันไปในแต่ละวัด"
 lang: "th"
-sourceContentHash: "7f189b2da9dcb8fe"
+sourceContentHash: "b924d48206a28dc0"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Devotees_and_Musicians_with_Decorated_Kavadis_on_Procession_Street_at_Batu_Caves_(250211).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-1.webp
+    alt: ราชรถวัดไม้สูงตระหง่านประดับประดาอย่างวิจิตรบรรทุกรูปเทพเจ้า ถูกชักลากไปตามถนนที่เนืองแน่นด้วยผู้คนในเทศกาลราชรถปังกุนี
+    kind: representative
+    origin: third-party
+    subject: ขบวนราชรถวัด (ther) ในช่วงเทศกาลปังกุนี เมืองไมลาปอร์
+    credit: N. Vivekananthamoorthy / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Temple-Car-Festival-Mylapore-Chennai-India.jpg
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-2.webp
+    alt: ราชรถวัดสูงประดับสีสันสดใสสองคันตั้งเคียงข้างกันท่ามกลางผู้ศรัทธาและนักบวชในเทศกาลราชรถปังกุนีอุทิรัม
+    kind: representative
+    origin: third-party
+    subject: ราชรถวัดที่ประดับประดาในเทศกาลราชรถปังกุนีอุทิรัม
+    credit: Dharmaphotography / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perur_car_festival.jpg
 ---
 
 ในเดือนปังกุนิ มีคืนหนึ่งที่พระจันทร์เต็มดวงเรืองรองเต็มท้องฟ้า ในประเพณีทมิฬ

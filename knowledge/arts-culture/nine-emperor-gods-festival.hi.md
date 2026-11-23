@@ -32,7 +32,7 @@ faq:
   - q: "क्या नौ सम्राट देवता उत्सव भूखे प्रेत उत्सव या चीनी नववर्ष जैसा है?"
     a: "नहीं। नौ सम्राट देवता उत्सव चांद्र नवें माह में विशेष रूप से नौ सम्राट देवताओं की पूजा का ताओ त्योहार है, जिसका केंद्र जल-आह्वान, शाकाहारी व्रत और देव-विदाई है; भूखे प्रेत उत्सव (Yulan) चांद्र सातवें माह में आता है, जिसका विषय भटकती आत्माओं का सार्वभौम उद्धार व तारण है; जबकि चीनी नववर्ष पारिवारिक मिलन-केंद्रित एक ऋतु-सांस्कृतिक त्योहार है। तीनों समय, लक्ष्य और अर्थ में भिन्न हैं, और इन्हें आपस में नहीं मिलाना चाहिए।"
 lang: "hi"
-sourceContentHash: "642647a0f184876b"
+sourceContentHash: "fef1d3cfdfb90ea5"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_Festival_(Ipoh)_3.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-1.webp
+    alt: केपाला बातास में नवसम्राट देव उत्सव के दौरान एक सजा हुआ मंदिर, जहाँ लालटेन, पीले बैनर और प्रसाद हैं
+    kind: actual
+    origin: third-party
+    subject: पेनांग के केपाला बातास में एक मंदिर में मनाया जाने वाला नवसम्राट देव उत्सव (Nine Emperor Gods Festival, Kew Ong Yah)
+    credit: LEE 003 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_(KepalaBatas)_2.jpg
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-2.webp
+    alt: बटरवर्थ में टाउ बू कोंग नवसम्राट देव मंदिर परिसर की ओर जाता एक अलंकृत अनुष्ठानिक तोरण
+    kind: actual
+    origin: third-party
+    subject: पेनांग के बटरवर्थ में टाउ बू कोंग नवसम्राट देव मंदिर का सजा हुआ तोरण
+    credit: Photo Dharma / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Archway_to_the_Temple_(9031159018).jpg
 ---
 
 चांद्र नवें माह की पहली तिथि की पूर्वसंध्या पर, श्वेत वस्त्र पहने और कमर में पीली पट्टी बांधे भक्तों की एक पंक्ति हाथों में धूप लिए मंदिर से क्रम में बाहर निकलती है और निकटतम नदी-तट या समुद्र-तट की ओर बढ़ती है। आगे घड़ियाल और ढोल, पीछे धूप का धुआँ—वे 'जल-आह्वान' और 'देव-स्वागत' के लिए जा रहे हैं, ताकि नौ सम्राट देवताओं को मंदिर में ले आएँ। आगे के नौ दिनों तक मंदिर के भीतर धूप-दीप अनवरत जलते हैं, और बाहर शाकाहारी भोजन की सुगंध फैलती है; नौवीं तिथि की रात को वही पंक्ति फिर जल-तट पर जाकर देवताओं को विदा करती है।

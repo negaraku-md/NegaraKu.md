@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "d7df97b39a2da0c7"
+sourceContentHash: "e30d1ed6a06d7023"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -79,6 +79,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_temple-Kuala_Lumpur_Malaysia.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-1.webp
+    alt: ペラ州イポーのカルマライ・ムルガン寺院の、段を重ねた鮮やかな彩色の塔門（ゴープラム）。ヒンドゥー教の神々の彫像で覆われている
+    kind: actual
+    origin: third-party
+    subject: ペラ州イポーのカルマライ・ムルガン寺院の色鮮やかな塔門（ゴープラム）
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kallumalai_Murugan_Temple,_Ipoh,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-2.webp
+    alt: ディーパバリのために床に描かれた、精緻で色鮮やかなコーラム。マレーシアで最も重要なヒンドゥー教の祭りである
+    kind: actual
+    origin: third-party
+    subject: ディーパバリ（Deepavali）のコーラム（床絵）、マレーシア
+    credit: John Ragai / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg
 ---
 
 マレーシアのどの町でも、古いゴム農園のはずれや、都市中心部の由緒ある通りに、

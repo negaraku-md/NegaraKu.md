@@ -34,7 +34,7 @@ faq:
     a: "نعم، بعضها، ضمن برنامج لغة التلميذ الأمّ (Pupil's Own Language, POL) التابع لوزارة التعليم، عادةً مادةً اختيارية. فالكادازاندوسون تُدرَّس في مدارس صباح الحكومية منذ مشروع تجريبي بدأ عام 1997، والإيبان تُدرَّس في مدارس ساراواك. وتتوقّف الإتاحة على الطلب وعلى بلوغ الحدّ الأدنى لحجم الصف الذي تحدّده السياسة."
 
 lang: "ar"
-sourceContentHash: "d94b9d6d02d53a14"
+sourceContentHash: "dae5581cc3aa31e5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -89,6 +89,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-1.webp
+    alt: شبّان بالزي الكادازاني الأسود والذهبي وقبعات مخروطية يحملون آلات من الخيزران في فعالية ثقافية مفتوحة في Sabah
+    kind: actual
+    origin: third-party
+    subject: مجتمع Kadazan Tangara بالأزياء التقليدية في احتفال حصاد Kaamatan في Papar بولاية Sabah
+    credit: Jjurieee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kadazan_Tangara_Papar.jpg
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-2.webp
+    alt: رجل وامرأة بالزي الاحتفالي لـ Orang Ulu وأغطية رأس مزيّنة بالخرز يقفان أمام جدار مرسوم بزخارف بورنيو المتموّجة
+    kind: actual
+    origin: third-party
+    subject: زوجان من Orang Ulu بالزي التقليدي أمام جدارية لبيت طويل مرسومة، Sarawak
+    credit: AjarnRichard / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orang_Ulu_(Dayak)_People_with_Tradtional_Motifs.jpg
 ---
 
 حلّق فوق داخلية بورنيو تَعبُر في ساعة واحدة من اللغات أكثر مما تحويه معظم البلدان في مجموعها. فوادٍ نهري في مرتفعات صباح، وبيتٌ طويل على أعالي نهر بارام في ساراواك، وقريةُ صيدٍ ساحلية — قد يحيّيك كلٌّ منها بلسانٍ لا يكاد الوادي المجاور يفهمه.

@@ -32,7 +32,7 @@ faq:
   - q: "Que signifie « Swamiye Saranam Ayyappa » ?"
     a: "C'est le principal chant de refuge de la dévotion à Ayyappan — une formule qui signifie la remise de soi au Swami, répétée sans cesse par les dévots et les pèlerins. Elle résonne tout au long du vœu, pendant le pèlerinage et dans les bhajans."
 lang: "fr"
-sourceContentHash: "c0cc8aa15f42b7b0"
+sourceContentHash: "c3cfb1ea38600a5f"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penangayappantemple.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-1.webp
+    alt: Des pèlerins vêtus de noir, la tête couverte d'un tissu, marchant sur un sentier forestier lors du pèlerinage à Sabarimala
+    kind: representative
+    origin: third-party
+    subject: Des dévots d'Ayyappan vêtus de noir cheminant sur un sentier forestier vers le sanctuaire de Sabarimala
+    credit: Shantham11 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pilgrims_trekking_on_the_path_through_forests_leading_to_Sabarimala_temple.jpg
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-2.webp
+    alt: Une grande peinture au sol en poudre colorée représentant la divinité Ayyappa, entourée de lampes à huile en laiton allumées et de guirlandes de fleurs, avec un joueur de tambour assis derrière
+    kind: representative
+    origin: third-party
+    subject: Peinture rituelle au sol d'Ayyappan (kalam) avec des lampes à huile en laiton et un joueur de tambour, une tradition dévotionnelle dédiée au Seigneur Ayyappa
+    credit: Sajith moothakurambu / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AYYAPPAN_THEYATTU.jpg
 ---
 
 Dans les derniers mois de l'année, une scène se répète dans de nombreuses villes de Malaisie : des hommes vêtus de noir ou de bleu, portant un chapelet de rudraksha autour du cou et laissant pousser leur barbe, s'appellent mutuellement « Swami ». Ce sont les dévots du vœu d'Ayyappan — beaucoup d'entre eux se préparant à partir pour Sabarimala, au Kerala. Cet article décrit cette dévotion et les traditions du vœu de manière neutre ; il n'explique ni n'évalue aucune croyance.

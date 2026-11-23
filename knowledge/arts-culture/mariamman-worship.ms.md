@@ -33,7 +33,7 @@ faq:
   - q: "Adakah pemujaan Mariamman satu agama yang berasingan?"
     a: "Tidak. Pemujaan Mariamman merupakan sebahagian daripada agama Hindu yang lebih luas, khususnya tradisi Shakta (Shakti). Amman sering dipuja bersama bentuk dewi Kali dan Durga. Dalam komuniti Hindu Malaysia, pemujaan Amman berjalan seiring dengan pemujaan Shiva dan Murugan."
 lang: "ms"
-sourceContentHash: "74fa7f5263aec6a2"
+sourceContentHash: "f0f0df6a703389cd"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple_2,_central_Kuala_Lumpur.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-1.webp
+    alt: Menara gopuram berukir kuil Mariamman di George Town, dipenuhi figura dewa-dewi Hindu yang dicat terang
+    kind: actual
+    origin: third-party
+    subject: Kuil Sri Mahamariamman di George Town, Pulau Pinang, kuil Hindu tertua di bandar itu yang didedikasikan kepada Dewi Mariamman
+    credit: Sin-siong (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-2.webp
+    alt: Dewan sembahyang dalaman bertiang sebuah kuil Mariamman, dengan siling bercat dan tempat pemujaan menghala ke arah bilik suci
+    kind: actual
+    origin: third-party
+    subject: Dewan sembahyang dalaman kuil Mariamman di George Town, Pulau Pinang
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mahamariamman_Tempel_Innen.JPG
 ---
 
 Berhampiran hampir mana-mana ladang getah lama di Malaysia, dan di sepanjang jalan-jalan lama di pusat bandar, anda boleh menemui sebuah kuil Mariamman. Patung Amman yang berwajah kuning oker, dan perayaan yang diadakan sebelum musim hujan, bukanlah suatu kebetulan — ia menanggung lebih satu setengah abad sejarah dan tradisi kepercayaan sebuah komuniti Tamil.

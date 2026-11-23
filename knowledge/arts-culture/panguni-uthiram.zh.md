@@ -30,7 +30,7 @@ faq:
   - q: "在马来西亚，班古尼乌提拉姆节在哪里盛大庆祝？"
     a: "彭亨马兰的斯里马拉坦达瓦尔巴拉丹达尤塔帕尼庙以其最盛大的庆典之一而闻名；雪兰莪加埔的穆鲁甘庙也举办有卡瓦迪与神车巡游的大型庆典。除此之外，全国许多穆鲁甘庙与玛丽安曼庙都按各自的规模奉行这一天。庆典的规模与习俗因庙而异。"
 lang: "zh"
-sourceContentHash: "7f189b2da9dcb8fe"
+sourceContentHash: "b924d48206a28dc0"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Devotees_and_Musicians_with_Decorated_Kavadis_on_Procession_Street_at_Batu_Caves_(250211).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-1.webp
+    alt: 一辆高耸、装饰精美、载着神像的木制庙宇神车（ther），在 Panguni 庙宇神车节期间被拉行穿过拥挤的街道
+    kind: representative
+    origin: third-party
+    subject: Panguni 节期间的庙宇神车（ther）游行，米拉坡（Mylapore）
+    credit: N. Vivekananthamoorthy / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Temple-Car-Festival-Mylapore-Chennai-India.jpg
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-2.webp
+    alt: 两辆高大、装饰鲜艳的庙宇神车并排而立，四周环绕着信众与祭司，正值 Panguni Uthiram 神车节
+    kind: representative
+    origin: third-party
+    subject: Panguni Uthiram 神车节上装饰华美的庙宇神车
+    credit: Dharmaphotography / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perur_car_festival.jpg
 ---
 
 在班古尼月，天上有一夜满月盈空。在泰米尔传统中，这个光辉的日子有着特别的

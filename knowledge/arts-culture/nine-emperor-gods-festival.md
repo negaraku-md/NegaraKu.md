@@ -79,6 +79,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_Festival_(Ipoh)_3.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-1.webp
+    alt: 九皇爷诞期间槟城北海（应为 Kepala Batas）一座装饰一新的庙宇，挂满灯笼、黄色幡旗与供品
+    kind: actual
+    origin: third-party
+    subject: 槟城甲抛峇底（Kepala Batas）一座庙宇举行的九皇爷诞（Kew Ong Yah）庆典
+    credit: LEE 003 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_(KepalaBatas)_2.jpg
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-2.webp
+    alt: 一座华丽的礼仪牌楼，通往北海斗母宫九皇爷庙的庙宇院落
+    kind: actual
+    origin: third-party
+    subject: 槟城北海斗母宫（Tow Boo Kong）九皇爷庙装饰华丽的牌楼
+    credit: Photo Dharma / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Archway_to_the_Temple_(9031159018).jpg
 ---
 
 农历九月初一的前夜，一列身穿白衣、腰系黄带的信众手持清香，从庙里鱼贯而出，往最近的河边或海边走去。锣鼓在前，香烟在后——他们是去「请水」「迎驾」，把九皇大帝恭请回庙。接下来的九天，庙里香火不断，庙外斋菜飘香；到了初九夜里，同样的队伍又会列队到水边，把神明恭送回銮。

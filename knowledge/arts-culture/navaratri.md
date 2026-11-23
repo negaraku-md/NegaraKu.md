@@ -78,6 +78,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Navratri_Golu_-_Dashavatara.JPG'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/navaratri/body-1.webp
+    alt: கலகலப்பான நவராத்திரி கர்பா நடனத்தின்போது வண்ணமயமான பாரம்பரிய உடையில் வட்டமாக நகரும் நடனக் கலைஞர்கள்
+    kind: representative
+    origin: third-party
+    subject: நவராத்திரியின்போது நிகழ்த்தப்படும் கர்பா நாட்டுப்புற நடனம், இப்பண்டிகையின் தனிச்சிறப்புமிக்க கூட்டு கொண்டாட்டங்களில் ஒன்று
+    credit: Saurabh sirohiya (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lively_Navratri_Garba_dance_performances.jpg
+  - role: scene
+    src: /media/arts-culture/navaratri/body-2.webp
+    alt: ஒரு நவராத்திரி கொலு காட்சியின் அடுக்குப் படிகளில் கவனமாக அடுக்கப்பட்ட சிறிய அலங்காரப் பறவை மற்றும் உருவப் பொம்மைகள்
+    kind: representative
+    origin: third-party
+    subject: ஒரு நவராத்திரி கொலு பொம்மை காட்சியில் அடுக்கப்பட்ட உருவங்களின் அருகிலான காட்சி
+    credit: GoDakshin / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Birds_in_a_Golu_display_over_Hindu_Navaratri_festival_Kolu_dolls.jpg
 ---
 
 நவராத்திரி நாட்களில் மலேசியத் தமிழ் இந்து வீடு ஒன்றின் வரவேற்பறையில் ஒரு

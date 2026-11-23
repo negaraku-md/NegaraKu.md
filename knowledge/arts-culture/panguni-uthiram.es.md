@@ -30,7 +30,7 @@ faq:
   - q: "¿Dónde se celebra el Panguni Uthiram a gran escala en Malasia?"
     a: "El templo Sri Marathandavar Bala Dhandayuthapani en Maran, Pahang, es conocido por una de sus mayores celebraciones; el templo Murugan de Kapar, en Selangor, también organiza una gran fiesta con kavadi y procesión del carro. Además, muchos templos de Murugan y de Mariamman por todo el país observan este día a su propia escala. La escala y las costumbres de la celebración varían de un templo a otro."
 lang: "es"
-sourceContentHash: "7f189b2da9dcb8fe"
+sourceContentHash: "b924d48206a28dc0"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Devotees_and_Musicians_with_Decorated_Kavadis_on_Procession_Street_at_Batu_Caves_(250211).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-1.webp
+    alt: Un imponente carro de templo de madera, minuciosamente decorado y portando figuras de deidades, es arrastrado por una calle abarrotada durante una festividad del carro del templo de Panguni.
+    kind: representative
+    origin: third-party
+    subject: Procesión del carro del templo (ther) durante la festividad de Panguni, Mylapore
+    credit: N. Vivekananthamoorthy / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Temple-Car-Festival-Mylapore-Chennai-India.jpg
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-2.webp
+    alt: Dos altos carros de templo, decorados con vivos colores, se alzan uno junto al otro entre devotos y sacerdotes en una festividad de los carros de Panguni Uthiram.
+    kind: representative
+    origin: third-party
+    subject: Carros de templo decorados en una festividad de los carros de Panguni Uthiram
+    credit: Dharmaphotography / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perur_car_festival.jpg
 ---
 
 En el mes de Panguni hay una noche en que la luna llena colma el cielo.

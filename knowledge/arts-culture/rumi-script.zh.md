@@ -36,7 +36,7 @@ socialTitle: "拉丁字母如何成为马来语的官方文字——罗马字的
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d7c1f7cd753500f4"
+sourceContentHash: "319660fc21be5b70"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/rumi-script/body-1.webp
+    alt: 吉兰丹路边一块蓝色路牌，上方以爪夷文书写、下方以罗马化的 Rumi 字母写着「Jalan Pasir Puteh」
+    kind: actual
+    origin: third-party
+    subject: 爪夷文与 Rumi 文并列的双语路牌，吉兰丹
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG
+  - role: scene
+    src: /media/arts-culture/rumi-script/body-2.webp
+    alt: 怡保一块绿色马来西亚路牌，以罗马化马来文（Rumi）写着「Persiaran Greentown 4C, Poskod 30450 Ipoh」
+    kind: actual
+    origin: third-party
+    subject: 以 Rumi 文书写的马来路名牌，怡保
+    credit: Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malay_signboard_with_English_location_name_in_Ipoh.jpg
 ---
 
 当我们今天阅读马来语词汇时——在路牌上、报章里、手机屏幕上——我们所读的是与英文字母相同的文字：a、b、c、d 等等。这种文字称为罗马字（Rumi）。它如此寻常，以致许多人并未意识到罗马字并非马来语的原生文字，而其今日整齐统一的形态，乃是历经逾百年标准化努力的成果。

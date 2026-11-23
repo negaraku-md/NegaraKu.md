@@ -34,7 +34,7 @@ seoTitle: "மலாய் மொழி: சரத்து 152-இன் கீ
 socialTitle: "மலாய் மொழி எப்படித் தேசிய மொழியானது — ஜாவியிலிருந்து ரூமிக்கு மாறியதும்"
 
 lang: "ta"
-sourceContentHash: "ac6472952bdfcbbb"
+sourceContentHash: "1fc94a71a343c3e0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -101,6 +101,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka_building,_Malaysia_(DSCF0833).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-1.webp
+    alt: மலேசியப் புத்தகக் கண்காட்சியில் மக்கள் புத்தகங்களைப் பார்த்துக்கொண்டிருக்கையில், மலாய் மொழி புத்தகங்கள் குவிந்த மேசைகளுக்கு மேலே 'மலாய் புத்தகங்கள்' எனத் தொங்கும் அறிவிப்புப் பலகை
+    kind: actual
+    origin: third-party
+    subject: மலேசியாவில் ஒரு புத்தகக் கண்காட்சியில் மலாய் மொழி புத்தகப் பகுதி
+    credit: Uniku Putra / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BBWBooks_Malay_Book_2012.JPG
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-2.webp
+    alt: கண்ணாடிப் பேழைக்குள் ஒரு தாங்கியின் மீது காட்சிப்படுத்தப்பட்ட, ஜாவி எழுத்தில் எழுதப்பட்ட பழைய கையெழுத்துப் பிரதி
+    kind: actual
+    origin: third-party
+    subject: ஜாவி எழுத்தில் திறந்த மலாய் மொழி கையெழுத்துப் பிரதி (ஹுக்கூம் கானூன் மெலாக்கா சட்டத் தொகுப்பு), மலேசியா
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 குவாலா பேராங் (Kuala Berang), டெரங்கானுவில் (Terengganu), மலாய் மொழிச் சொற்கள் பொறிக்கப்பட்ட ஒரு கல்வெட்டுக் கல் கண்டெடுக்கப்பட்டது — இன்று நாம் அறிந்த எழுத்துகளில் அல்ல, மாறாக மலாய் ஒலிகளுக்கு ஏற்றவாறு தழுவப்பட்ட அரபு எழுத்துகளில். மலேசிய தேசிய ஆவணக் காப்பகத்தின் (Arkib Negara Malaysia) படி, அந்தக் கல்வெட்டு கி.பி. 1303 தேதியிட்டது.

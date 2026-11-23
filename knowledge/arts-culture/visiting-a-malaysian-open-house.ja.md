@@ -33,7 +33,7 @@ faq:
 
 lang: "ja"
 translationStatus: "in-sync"
-sourceContentHash: "2ef3b91f644f0acc"
+sourceContentHash: "acfaf78b01fd9c6b"
 masterLanguage: "en"
 
 status: "published"
@@ -104,6 +104,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-1.webp
+    alt: バティックやバジュ・クルンをまとった客たちが、ハリラヤ・アイディルフィトリのオープンハウスの戸口で、微笑みながら握手を交わして挨拶する
+    kind: representative
+    origin: third-party
+    subject: ハリラヤ・アイディルフィトリのオープンハウスで主人家に挨拶する客たち
+    credit: Embassy of the Republic of Indonesia, Bandar Seri Begawan / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indonesian_Embassy_host_Aidilfitri_Open_House_02.jpg
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-2.webp
+    alt: 椰子の葉で編んで束ねたクトゥパ（ketupat）の米菓子の包み。マレーシアのハリラヤのオープンハウスのもてなしに欠かせない定番である
+    kind: actual
+    origin: third-party
+    subject: ハリラヤのために用意された編みクトゥパ（ketupat）
+    credit: Miss Izzah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_Nasi.jpg
 ---
 
 あなたは *ルマ・トゥルブカ*（rumah terbuka）――オープンハウス――に招かれました。

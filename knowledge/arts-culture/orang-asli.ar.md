@@ -35,7 +35,7 @@ seoTitle: "أورانغ أسلي: المجموعات الرئيسية الثلا
 socialTitle: "من هم أورانغ أسلي — ثلاث مجموعات، و18 مجموعة فرعية، والجهة التي ترعاهم"
 
 lang: "ar"
-sourceContentHash: "22c8505f8289ae57"
+sourceContentHash: "461e1709110699f4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,6 +101,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Welcome_to_Kampung_Orang_Asli_Lubuk_Legong_village_mural_in_front_of_the_school_building.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-1.webp
+    alt: فنّان من Mah Meri يرتدي قناع روح الأسلاف المنحوت من الخشب وزيًّا مطويًّا من سعف النخيل يؤدّي رقصة Mayin Jo'oh أمام الجمهور في عرض ثقافي في الهواء الطلق.
+    kind: actual
+    origin: third-party
+    subject: رقصة الأقنعة Mah Meri Mayin Jo'oh تُؤدّى في عرض ثقافي في Kuala Lumpur
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayin_Jo%E2%80%99oh_Mah_Meri_Masked_Dance_by_Tompoq_Topoh_22.jpg
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-2.webp
+    alt: مدخل متحف حِرَف Orang Asli في Kuala Lumpur، حيث يقف منحوت خشبي كبير لـ Orang Asli بجانب اللافتة وسط نباتات استوائية.
+    kind: actual
+    origin: third-party
+    subject: متحف حِرَف Orang Asli (Muzium Seni Kraf Orang Asli)، Kuala Lumpur
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Seni_Kraf_Orang_Asli.jpg
 ---
 
 قبل أن يظهر اسم ماليزيا على أي خريطة بزمن طويل، كانت هناك مجتمعات تسكن غابات شبه الجزيرة ومرتفعاتها وسواحلها. ويُعرفون اليوم جماعيًا بأورانغ أسلي — وهو مصطلح مالاوي يعني «الناس الأصليين» أو «السكان الأصليين».

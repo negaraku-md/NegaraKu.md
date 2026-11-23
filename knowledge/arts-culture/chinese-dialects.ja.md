@@ -34,7 +34,7 @@ socialTitle: "同じ華人なのに、なぜ言葉が違う？マレーシアの
 lang: "ja"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "c773c2be8c4e6544"
+sourceContentHash: "377a93a3d1a42245"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-1.webp
+    alt: ペナンの潮州人の祖廟で、長衣をまとった人物を描いた精緻な門扉の絵と虎の浮き彫り
+    kind: actual
+    origin: third-party
+    subject: 韓江家廟の彩色された門神と虎の浮き彫り。ペナン・ジョージタウンの潮州（ティオチュウ）方言グループの寺院
+    credit: Christophe95 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Han_Jiang_Ancestral_Temple_1.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-2.webp
+    alt: ジョージタウンの静かな通りに並ぶ、鎧戸の窓とフィフトフットウェイ（屋根付き歩廊）を備えた古い二階建ての華人店屋
+    kind: actual
+    origin: third-party
+    subject: ペナン・ジョージタウンの通りに並ぶ、フィフトフットウェイを備えた古い華人店屋（ショップハウス）
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
 ---
 
 ペナンのコーヒーショップでは、福建語で「コピ」を一杯注文する。クアラルンプールやイポーに行けば、同じ一杯のコーヒーは広東語で注文することになる。さらにサラワクのシブまで行けば、あなたを迎えるのはおそらく福州語だろう。三か所の人々はいずれも華人でありながら、話しているのは互いに通じ合わない三つの言葉である。

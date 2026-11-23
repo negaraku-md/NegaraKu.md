@@ -33,7 +33,7 @@ faq:
     a: "'Meminta api' (请火, Chneah Hoay, 'merenung api' dalam dialek Hokkien) ialah upacara yang diwarisi lebih seratus tahun oleh Poh Hock Seah di Pulau Pinang, diadakan dari 14 hingga 16 hari bulan pertama kalendar lunar di Tokong Tua Pek Kong Hai Choo Soo di Tanjung Tokong, dengan upacara meminta api rasmi berlangsung pada tengah malam Perayaan Tanglung. Semasa upacara, semua lampu dan lilin di dalam tokong dipadamkan; ahli mengambil api dari bara dalam bakul tiang colok dan mengipasnya, menilik nasib tahun mendatang daripada kekuatan nyalaan api, tiga kali berturut-turut yang masing-masing mewakili tiga musim dalam setahun; secara tradisinya hanya ahli lelaki yang menyertainya. Setelah upacara selesai, lampu dinyalakan semula dan orang ramai barulah boleh masuk untuk memuja. Rencana ini hanya menerangkan prosedurnya dan tidak membuat sebarang penilaian terhadap makna agamanya."
 
 lang: "ms"
-sourceContentHash: "24e27178b70c08f9"
+sourceContentHash: "f3f881791e865e1d"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Facade_of_Tua_Pek_Kong_Temple,_Sibu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tua-pek-kong/body-1.webp
+    alt: Fasad merah dan bumbung berjubin indah Tokong Tua Pek Kong di Tanjung Tokong, Pulau Pinang, dengan singa pengawal dan lilin colok merah yang tinggi di pintu masuk.
+    kind: actual
+    origin: third-party
+    subject: Tokong Tua Pek Kong Tanjung Tokong, Pulau Pinang
+    credit: marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjong_Tokong_Tua_Pek_Kong_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/tua-pek-kong/body-2.webp
+    alt: Sebuah arca dewa Tua Pek Kong berjanggut dan bersadur emas duduk di atas altar diapit oleh pengiring, dengan lilin yang menyala dan ikatan colok berkepul-kepul di hadapannya.
+    kind: actual
+    origin: third-party
+    subject: Altar dewa Tua Pek Kong di Ping Sien Si, Perak
+    credit: Anandajoti Bhikkhu / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_062_Tua_Pek_Kong_(15821797501).jpg
 ---
 
 Di tepi laut di Tanjung Tokong, Pulau Pinang, berdiri sebuah tokong yang tidak begitu besar, sunyi hampir sepanjang tahun. Namun sekitar Perayaan Tanglung, keadaannya berubah sama sekali: bakul tiang colok, gong dan gendang, serta barisan panjang orang ramai datang jauh dari George Town; pada waktu malam setiap lampu dan lilin di dalam tokong dipadamkan, dan sekumpulan orang berhimpun mengelilingi bara api, mengipas api sambil menahan nafas — betapa tinggi nyalaan api melonjak dianggap sebagai satu "ramalan" untuk tahun mendatang. Tokong inilah, pada fikiran ramai orang, punca mula pemujaan Tua Pek Kong.

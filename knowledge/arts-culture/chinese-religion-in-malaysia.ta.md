@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ta"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "ffa309d9ae04f20d"
+sourceContentHash: "cbcbfec907d9ad67"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-1.webp
+    alt: ஜொகூர் பாரு பழைய சீனக் கோயிலின் அலங்கார முகப்பு, கூரையில் டிராகன் சிற்பங்கள், மட்பாண்ட புடைப்புச் சிற்பங்கள் மற்றும் நுழைவாயிலில் சிவப்பு விளக்குகளுடன்.
+    kind: actual
+    origin: third-party
+    subject: ஜொகூர் பாரு பழைய சீனக் கோயில், ஒரு சீன நாட்டார் சமயக் கோயில்
+    credit: Ralff Nestor Nacor / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Ancient_Temple,_Malaysia_(2).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-2.webp
+    alt: பினாங்கு ஜார்ஜ் டவுனில் நெடுங்காலமாக நிலைத்திருக்கும் ஒரு சீன வழிபாட்டுத் தலமான குவான் யின் தேவி கோயிலுக்கு முன்னால் புகை எழுப்பும் எரியும் ஊதுபத்திக் கொத்துகள்.
+    kind: actual
+    origin: third-party
+    subject: பினாங்கு ஜார்ஜ் டவுன், குவான் யின் தேவி கோயிலில் எரியும் ஊதுபத்திகள்
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_092_-_Penang_-_burning_incense_at_the_Goddess_of_Mercy_Temple_(3923018968).jpg
 ---
 
 மலேசியாவின் எந்தவொரு சீனக் கோயிலுக்குள் நுழைந்தாலும், ஒரே இடத்தில் பௌத்த, தாவோயிய மற்றும்

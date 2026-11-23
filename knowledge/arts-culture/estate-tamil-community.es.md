@@ -32,7 +32,7 @@ faq:
   - q: "¿Quién trabaja hoy en las plantaciones?"
     a: "Hoy, la mayoría de los trabajadores de las plantaciones de Malasia son trabajadores migrantes extranjeros. En lo que respecta a la comunidad tamil, la gran migración de la plantación a la ciudad se completó en gran medida hace décadas; la comunidad actual se ha convertido en una comunidad en gran medida urbana y semiurbana."
 lang: "es"
-sourceContentHash: "26feee7acc3d6568"
+sourceContentHash: "03062d40a74e2b62"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Ladang_Sungai_Getah.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-1.webp
+    alt: Un trabajador sangrando látex de un árbol de caucho en una finca de Malaca en 1946, evocando el trabajo de plantación que forjó las comunidades de las fincas de Malasia.
+    kind: representative
+    origin: third-party
+    subject: Extracción de látex (sangrado) en una plantación de caucho en Malaca (1946)
+    credit: Willem van de Poll / Nationaal Archief / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vrouw_bezig_met_het_aftappen_van_rubber_op_een_rubberplantage_in_Malakka,_Bestanddeelnr_255-6638.jpg
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-2.webp
+    alt: 'Una vitrina del Indian Heritage Centre de Johor Bahru titulada ''Primeras ocupaciones: la extracción de caucho'', con una figura vestida con sari, cubos de látex y fotografías históricas de fincas con pies de foto en tamil.'
+    kind: actual
+    origin: third-party
+    subject: 'Exposición «Primeras ocupaciones: la extracción de caucho» sobre el patrimonio de las fincas de los tamiles malasios, Indian Heritage Centre, Johor Bahru'
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indian_Heritage_Centre_(Johor_Bahru)_(2025)_-_img_10.jpg
 ---
 
 En las afueras de muchas de las ciudades antiguas de Malasia, una plantación de caucho que en otro tiempo se extendía verde se ha convertido hoy en una zona residencial repleta de casas e hileras de comercios. Entre esos edificios nuevos, a veces aún se mantiene en pie un viejo templo de Amman o una pequeña escuela tamil: la marca imborrable de una comunidad que ha sido desplazada.

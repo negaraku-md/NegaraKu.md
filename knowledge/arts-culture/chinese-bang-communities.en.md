@@ -33,7 +33,7 @@ faq:
     a: "The lines between the bang have clearly faded. With cross-bang intermarriage, urbanisation, and Mandarin becoming a cross-dialect common tongue through Chinese-language education, the younger generation's sense of ancestral origin is mostly weaker than their forebears'. But the bang have not disappeared entirely: clan associations, hometown associations, ancestral halls and cemeteries around the country are still active, many people still know their ancestral origin, and its influence can still be seen at occasions such as Qingming (tomb-sweeping). The bang have gradually shifted from being 'the backbone that organised society' to being 'a memory of culture and history'."
 
 lang: "en"
-sourceContentHash: "5650e666f12a2927"
+sourceContentHash: "10ca23f6290e2d4a"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-1.webp
+    alt: A pre-war yellow-and-red shophouse building housing a Hokkien clan association on a central Kuala Lumpur street
+    kind: actual
+    origin: third-party
+    subject: The Selangor Hokkien Association building (a Hokkien dialect-group clan association) on Jalan Hang Lekiu, Kuala Lumpur
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Selangor_Hokkien_Association_Building,_Jalan_Hang_Lekiu,_central_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-2.webp
+    alt: An ornate Neoclassical three-storey shophouse that once housed a Hakka clan association in downtown Seremban
+    kind: actual
+    origin: third-party
+    subject: The former Fui Chiu (Huizhou Hakka) Association building, a Hakka dialect-group clan house in Seremban
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fui_Chiu_Association_Building,_Seremban.jpg
 ---
 
 On the old streets of Penang, the shops that hold up an entire row of storefronts are mostly Hokkien-run businesses; in cities that rose on tin such as Kuala Lumpur and Ipoh, the mines and guilds were packed with Cantonese and Hakka people; and whatever town you walk into, the old coffee shop selling Hainanese coffee and toast with butter and kaya often has a Hainanese standing behind the counter.

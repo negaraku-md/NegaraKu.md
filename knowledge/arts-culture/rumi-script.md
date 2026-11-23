@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/rumi-script/body-1.webp
+    alt: Sebuah papan nama jalan biru bertulis 'Jalan Pasir Puteh' dalam huruf Rumi di bawah nama yang sama dalam tulisan Jawi, di tepi sebuah jalan di Kelantan.
+    kind: actual
+    origin: third-party
+    subject: Papan nama jalan dwibahasa Jawi dan Rumi, Kelantan
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG
+  - role: scene
+    src: /media/arts-culture/rumi-script/body-2.webp
+    alt: Sebuah papan tanda jalan Malaysia berwarna hijau bertulis 'Persiaran Greentown 4C, Poskod 30450 Ipoh' dalam huruf Melayu Rumi.
+    kind: actual
+    origin: third-party
+    subject: Papan nama jalan Melayu dalam tulisan Rumi, Ipoh
+    credit: Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malay_signboard_with_English_location_name_in_Ipoh.jpg
 ---
 
 Apabila kita membaca perkataan Melayu hari ini — pada papan tanda jalan, dalam akhbar, pada skrin telefon — kita membacanya dalam huruf yang sama dengan abjad Inggeris: a, b, c, d dan seterusnya. Tulisan itu dipanggil tulisan Rumi. Ia begitu biasa sehingga ramai yang tidak sedar bahawa Rumi bukanlah tulisan asli bahasa Melayu, dan bahawa bentuknya yang kemas dan seragam hari ini ialah hasil usaha penyeragaman yang memakan masa lebih seratus tahun.

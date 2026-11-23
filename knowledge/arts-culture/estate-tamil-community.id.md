@@ -32,7 +32,7 @@ faq:
   - q: "Siapa yang bekerja di perkebunan sekarang?"
     a: "Kini sebagian besar pekerja perkebunan di Malaysia adalah buruh migran warga asing. Bagi komunitas Tamil, perpindahan besar dari perkebunan ke kota sebagian besar sudah tuntas beberapa dekade lalu; komunitas masa kini telah menjadi komunitas yang sebagian besar perkotaan dan semi-perkotaan."
 lang: "id"
-sourceContentHash: "26feee7acc3d6568"
+sourceContentHash: "03062d40a74e2b62"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Ladang_Sungai_Getah.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-1.webp
+    alt: Seorang pekerja menyadap lateks dari sebatang pohon karet di sebuah perkebunan di Malaka pada tahun 1946, menggambarkan buruh perkebunan yang membentuk masyarakat perkebunan Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Menyadap karet di sebuah perkebunan karet di Malaka (1946)
+    credit: Willem van de Poll / Nationaal Archief / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vrouw_bezig_met_het_aftappen_van_rubber_op_een_rubberplantage_in_Malakka,_Bestanddeelnr_255-6638.jpg
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-2.webp
+    alt: 'Sebuah pajangan museum di Pusat Warisan India di Johor Bahru berjudul Early Occupations: Rubber Tapping, dengan figur bersari, ember lateks, dan foto perkebunan bersejarah berketerangan Tamil.'
+    kind: actual
+    origin: third-party
+    subject: 'Pameran "Early Occupations: Rubber Tapping" tentang warisan perkebunan Tamil Malaysia, Pusat Warisan India, Johor Bahru'
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indian_Heritage_Centre_(Johor_Bahru)_(2025)_-_img_10.jpg
 ---
 
 Di pinggiran banyak kota tua Malaysia, sebuah perkebunan karet yang dulu terhampar hijau kini telah menjadi kawasan permukiman yang penuh rumah dan deretan ruko. Di antara bangunan-bangunan baru itu, kadang masih berdiri sebuah kuil Amman tua atau sebuah sekolah Tamil kecil — sebagai tanda yang tak pudar dari sebuah komunitas yang telah tersingkir.

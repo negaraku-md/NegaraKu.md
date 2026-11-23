@@ -32,7 +32,7 @@ faq:
   - q: "¿Es la Fiesta de los Nueve Dioses Emperadores lo mismo que la Fiesta de los Fantasmas Hambrientos o el Año Nuevo chino?"
     a: "No. La Fiesta de los Nueve Dioses Emperadores es una fiesta taoísta del noveno mes lunar dedicada específicamente a los Nueve Dioses Emperadores, centrada en la invocación del agua, el ayuno vegetariano y la despedida de los dioses; la Fiesta de los Fantasmas Hambrientos (Yulan) cae en el séptimo mes lunar y tiene por tema la salvación universal y la liberación de las almas errantes; el Año Nuevo chino es una fiesta cultural estacional centrada en la reunión familiar. Las tres difieren en tiempo, objeto y significado, y no deben confundirse."
 lang: "es"
-sourceContentHash: "642647a0f184876b"
+sourceContentHash: "fef1d3cfdfb90ea5"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_Festival_(Ipoh)_3.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-1.webp
+    alt: Un templo engalanado durante la Fiesta de los Nueve Dioses Emperadores en Kepala Batas, con farolillos, estandartes amarillos y ofrendas
+    kind: actual
+    origin: third-party
+    subject: La Fiesta de los Nueve Dioses Emperadores (Kew Ong Yah) celebrada en un templo de Kepala Batas, Penang
+    credit: LEE 003 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_(KepalaBatas)_2.jpg
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-2.webp
+    alt: Un ornamentado arco ceremonial que da acceso al recinto del templo de los Nueve Dioses Emperadores Tow Boo Kong en Butterworth
+    kind: actual
+    origin: third-party
+    subject: El arco engalanado del Templo de los Nueve Dioses Emperadores Tow Boo Kong en Butterworth, Penang
+    credit: Photo Dharma / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Archway_to_the_Temple_(9031159018).jpg
 ---
 
 En la víspera del día 1 del noveno mes lunar, una fila de fieles vestidos de blanco con una faja amarilla a la cintura sale del templo en orden, con varillas de incienso en la mano, y se dirige a la orilla de río o de mar más cercana. Delante, gongs y tambores; detrás, el humo del incienso: van a la 'invocación del agua' y a la 'recepción de los dioses', para escoltar a los Nueve Dioses Emperadores de regreso al templo. Durante los nueve días siguientes el incienso no cesa dentro del templo, y el aroma de la comida vegetariana flota afuera; la noche del día 9, la misma fila volverá a formarse a la orilla del agua para despedir a las deidades.

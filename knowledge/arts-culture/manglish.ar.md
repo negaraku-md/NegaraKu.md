@@ -32,7 +32,7 @@ faq:
     a: "نعم. أضاف قاموس أوكسفورد الإنجليزي (Oxford English Dictionary) عدداً من الكلمات الإنجليزية الماليزية عبر تحديثات متتالية، منها lepak وshiok وteh tarik عام 2016، وعدة مصطلحات مانغليشية وأطعمة ماليزية منها mamak وkopitiam وatas لاحقاً في العام نفسه، وكلمات مثل boleh وagak-agak وwayang في تحديث لاحق — اعترافاً باستخدام ماليزي راسخ لا ابتكاراً لإنجليزية جديدة."
 
 lang: "ar"
-sourceContentHash: "8f82ee70d6e9258e"
+sourceContentHash: "74516c4c0a947cb1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_2025.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/manglish/body-1.webp
+    alt: شارع مبانٍ تجارية سكنية في George Town حيث تحمل واجهات المحلات لافتات بالإنجليزية والتاميلية والصينية والملايوية جنبًا إلى جنب
+    kind: actual
+    origin: third-party
+    subject: شارع في Little India بـ George Town، Penang، تصطف على جانبيه لافتات محلات بعدّة لغات وخطوط
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_Scene_-_Little_India_-_George_Town_-_Penang_-_Malaysia_(35445172795).jpg
+  - role: scene
+    src: /media/arts-culture/manglish/body-2.webp
+    alt: متسوّقون يمرّون بجانب صفوف من أكشاك الطعام والسلع في سوق ليلي ماليزي مزدحم في المساء
+    kind: actual
+    origin: third-party
+    subject: سوق ليلي (pasar malam) في Seri Kembangan، Selangor، مشهد شارع ماليزي يومي متعدّد اللغات
+    credit: '*angys* (Wikimedia Commons) / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pasar_Malam_Seri_Kembangan_(230403)_01.jpg
 ---
 
 "Can or not?" "Wait ah, later confirm lor." "Don't play play, I already tell you."

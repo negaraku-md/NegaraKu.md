@@ -34,7 +34,7 @@ faq:
     a: "ஆம், சில கற்பிக்கப்படுகின்றன, கல்வி அமைச்சின் Pupil's Own Language (POL) திட்டத்தின் கீழ், பொதுவாக ஒரு தேர்வுப் பாடமாக. Kadazandusun 1997-ல் தொடங்கிய பயிற்சிச் சோதனையிலிருந்து சபா அரசாங்கப் பள்ளிகளில் கற்பிக்கப்படுகிறது, மேலும் Iban சரவாக் பள்ளிகளில் கற்பிக்கப்படுகிறது. கிடைப்பது தேவையையும், கொள்கையால் நிர்ணயிக்கப்பட்ட குறைந்தபட்ச வகுப்பு அளவை நிறைவேற்றுவதையும் சார்ந்துள்ளது."
 
 lang: "ta"
-sourceContentHash: "d94b9d6d02d53a14"
+sourceContentHash: "dae5581cc3aa31e5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -89,6 +89,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-1.webp
+    alt: கறுப்பு-தங்க நிற கடாசான் உடையும் கூம்பு தொப்பியும் அணிந்த இளைஞர்கள், மூங்கில் இசைக்கருவிகளைப் பிடித்தபடி, சபாவில் ஒரு திறந்தவெளி பண்பாட்டு நிகழ்வில்
+    kind: actual
+    origin: third-party
+    subject: சபா, பப்பாரில் நடந்த காமாட்டான் அறுவடைப் பண்டிகையில் பாரம்பரிய உடையில் கடாசான் தங்காரா சமூகத்தினர்
+    credit: Jjurieee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kadazan_Tangara_Papar.jpg
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-2.webp
+    alt: சுழலும் போர்னியோ வடிவங்கள் தீட்டப்பட்ட சுவருக்கு முன்னால் நின்றிருக்கும், ஓராங் உலு சடங்கு உடையும் மணி பதித்த தலையணியும் அணிந்த ஓர் ஆணும் பெண்ணும்
+    kind: actual
+    origin: third-party
+    subject: சரவாக்கில் தீட்டப்பட்ட நீள்வீட்டுச் சுவரோவியத்திற்கு முன்னால் பாரம்பரிய உடையில் ஓராங் உலு தம்பதி
+    credit: AjarnRichard / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orang_Ulu_(Dayak)_People_with_Tradtional_Motifs.jpg
 ---
 
 போர்னியோவின் உட்பகுதிக்கு மேலே பறந்து செல்லுங்கள், பெரும்பாலான நாடுகள் மொத்தமாகக் கொண்டுள்ளதைவிட அதிக மொழிகளை ஒரு மணி நேரத்தில் கடந்து செல்வீர்கள். சபாவின் மலைப்பகுதிகளில் உள்ள ஒரு நதிப் பள்ளத்தாக்கு, சரவாக்கில் மேல் Baram ஆற்றங்கரையில் உள்ள ஒரு நீள்வீடு (longhouse), ஒரு கடலோர மீன்பிடி கிராமம் — ஒவ்வொன்றும் அடுத்த பள்ளத்தாக்கு அரிதாகவே புரிந்துகொள்ளும் ஒரு மொழியில் உங்களை வரவேற்கக்கூடும்.

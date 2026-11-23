@@ -34,7 +34,7 @@ faq:
     a: "ใช่ บางภาษาสอน ภายใต้โครงการภาษาแม่ของนักเรียน (Pupil's Own Language, POL) ของกระทรวงศึกษาธิการ โดยปกติเป็นวิชาเลือก กาดาซันดูซุนสอนในโรงเรียนของรัฐในซาบาห์ตั้งแต่โครงการนำร่องที่เริ่มในปี 1997 และอีบันสอนในโรงเรียนของซาราวัก ความพร้อมขึ้นอยู่กับความต้องการและการมีจำนวนนักเรียนขั้นต่ำตามที่นโยบายกำหนด"
 
 lang: "th"
-sourceContentHash: "d94b9d6d02d53a14"
+sourceContentHash: "dae5581cc3aa31e5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -89,6 +89,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-1.webp
+    alt: คนหนุ่มสาวในชุดกาดาซานสีดำทองและหมวกทรงกรวย ถือเครื่องดนตรีไม้ไผ่ ในงานวัฒนธรรมกลางแจ้งที่รัฐซาบาห์
+    kind: actual
+    origin: third-party
+    subject: ชุมชนกาดาซานตังการา (Kadazan Tangara) ในชุดดั้งเดิม ร่วมเฉลิมฉลองเทศกาลเก็บเกี่ยว Kaamatan ที่เมืองปาปาร์ รัฐซาบาห์
+    credit: Jjurieee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kadazan_Tangara_Papar.jpg
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-2.webp
+    alt: ชายหญิงในชุดพิธีของชาวโอรังอูลูและเครื่องประดับศีรษะลูกปัด ยืนอยู่หน้ากำแพงที่วาดลวดลายม้วนแบบบอร์เนียว
+    kind: actual
+    origin: third-party
+    subject: คู่สามีภรรยาชาวโอรังอูลู (Orang Ulu) ในชุดดั้งเดิม ยืนอยู่หน้าภาพจิตรกรรมฝาผนังบ้านยาว รัฐซาราวัก
+    credit: AjarnRichard / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orang_Ulu_(Dayak)_People_with_Tradtional_Motifs.jpg
 ---
 
 บินเหนือพื้นที่ตอนในของบอร์เนียว แล้วคุณจะข้ามภาษามากกว่าที่หลายประเทศมีทั้งหมดในเวลาชั่วโมงเดียว หุบเขาแม่น้ำในที่สูงของซาบาห์ บ้านยาวบนแม่น้ำบารัม (Baram) ตอนบนในซาราวัก หมู่บ้านประมงชายฝั่ง — แต่ละแห่งอาจทักทายคุณด้วยภาษาที่หุบเขาถัดไปแทบไม่เข้าใจ

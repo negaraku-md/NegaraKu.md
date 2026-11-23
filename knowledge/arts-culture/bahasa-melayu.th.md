@@ -34,7 +34,7 @@ seoTitle: "ภาษามลายู: ภาษาประจำชาติ�
 socialTitle: "ภาษามลายูกลายเป็นภาษาประจำชาติได้อย่างไร — และย้ายจากยาวีสู่รูมี"
 
 lang: "th"
-sourceContentHash: "ac6472952bdfcbbb"
+sourceContentHash: "1fc94a71a343c3e0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -101,6 +101,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka_building,_Malaysia_(DSCF0833).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-1.webp
+    alt: ป้ายแขวนข้อความ 'หนังสือภาษามลายู' เหนือโต๊ะที่กองหนังสือปกอ่อนภาษามลายู โดยมีผู้ซื้อกำลังเลือกดูที่งานหนังสือในมาเลเซีย
+    kind: actual
+    origin: third-party
+    subject: โซนหนังสือภาษามลายูในงานหนังสือแห่งหนึ่งในมาเลเซีย
+    credit: Uniku Putra / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BBWBooks_Malay_Book_2012.JPG
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-2.webp
+    alt: ต้นฉบับลายมือเก่าที่เปิดกางออก เขียนด้วยอักษรยาวี จัดแสดงบนแท่นในตู้กระจก
+    kind: actual
+    origin: third-party
+    subject: ต้นฉบับภาษามลายูที่เปิดกางออก เขียนด้วยอักษรยาวี (ประมวลกฎหมาย Hukum Kanun Melaka ของมะละกา) มาเลเซีย
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 ที่กัวลาเบอรัง (Kuala Berang) ตรังกานู มีการค้นพบจารึกหินก้อนหนึ่งที่บนนั้นสลักคำมลายู — ไม่ใช่ในอักษรที่เรารู้จักในปัจจุบัน แต่ในอักษรอาหรับที่ปรับให้เข้ากับเสียงมลายู ตามหอจดหมายเหตุแห่งชาติมาเลเซีย จารึกนั้นมีอายุ ค.ศ. 1303

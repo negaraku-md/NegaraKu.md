@@ -33,7 +33,7 @@ faq:
 
 lang: "ko"
 translationStatus: "in-sync"
-sourceContentHash: "2ef3b91f644f0acc"
+sourceContentHash: "acfaf78b01fd9c6b"
 masterLanguage: "en"
 
 status: "published"
@@ -104,6 +104,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-1.webp
+    alt: 바틱과 바주 쿠룽을 입은 손님들이 하리 라야 아이딜피트리 오픈하우스 문간에서 미소 지으며 악수로 인사를 나눈다
+    kind: representative
+    origin: third-party
+    subject: 하리 라야 아이딜피트리 오픈하우스에서 집주인에게 인사하는 손님들
+    credit: Embassy of the Republic of Indonesia, Bandar Seri Begawan / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indonesian_Embassy_host_Aidilfitri_Open_House_02.jpg
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-2.webp
+    alt: 야자잎으로 엮어 함께 묶은 크투팟(ketupat) 쌀떡 껍질 한 묶음, 말레이시아 하리 라야 오픈하우스 접대의 주식이다
+    kind: actual
+    origin: third-party
+    subject: 하리 라야를 위해 준비한 엮은 크투팟(ketupat)
+    credit: Miss Izzah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_Nasi.jpg
 ---
 
 여러분은 *루마 터부카*(rumah terbuka) — 오픈 하우스에 초대받았습니다. 어쩌면

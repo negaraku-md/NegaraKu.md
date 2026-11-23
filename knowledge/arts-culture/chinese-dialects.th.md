@@ -32,7 +32,7 @@ seoTitle: "ภาษาถิ่นของชาวจีนมาเลเซ
 socialTitle: "เป็นชาวจีนเหมือนกัน เหตุใดจึงพูดกันคนละภาษา? แผนที่ภาษาถิ่นของมาเลเซีย"
 
 lang: "th"
-sourceContentHash: "c773c2be8c4e6544"
+sourceContentHash: "377a93a3d1a42245"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-1.webp
+    alt: บานประตูเขียนลวดลายรูปบุคคลสวมเสื้อคลุมยาวและภาพแกะสลักนูนรูปเสือที่ศาลเจ้าบรรพชนชาวแต้จิ๋วในปีนัง
+    kind: actual
+    origin: third-party
+    subject: เทพทวารบาลและภาพแกะสลักนูนรูปเสือที่ศาลเจ้าหานเจียง ศาลเจ้าบรรพชนของกลุ่มภาษาแต้จิ๋วในจอร์จทาวน์ รัฐปีนัง
+    credit: Christophe95 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Han_Jiang_Ancestral_Temple_1.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-2.webp
+    alt: ช็อปเฮาส์จีนสองชั้นเก่าแก่ผุกร่อนพร้อมหน้าต่างบานเกล็ดปิดและทางเดินมีหลังคาคลุม เรียงรายตามถนนอันเงียบสงบในจอร์จทาวน์
+    kind: actual
+    origin: third-party
+    subject: แถวช็อปเฮาส์จีนเก่าแก่พร้อมทางเดินมีหลังคาคลุม (five-foot-way) บนถนนในจอร์จทาวน์ รัฐปีนัง
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
 ---
 
 ที่ร้านกาแฟในปีนัง คุณสั่งกาแฟหนึ่งแก้ว (kopi) ด้วยภาษาฮกเกี้ยน พอถึงกัวลาลัมเปอร์และอีโปห์ กาแฟแก้วเดียวกันเปลี่ยนเป็นภาษากวางตุ้ง ไปต่อที่ซิบูของซาราวัก คนที่ทักทายคุณน่าจะพูดภาษาฝูโจว คนทั้งสามที่นั่นล้วนเป็นชาวจีน แต่พูดสามภาษาที่พูดกันไม่รู้เรื่อง

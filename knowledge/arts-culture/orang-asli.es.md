@@ -35,7 +35,7 @@ seoTitle: "Orang Asli: tres grupos principales, 18 subgrupos y el JAKOA"
 socialTitle: "Quiénes son los Orang Asli: tres grupos, 18 subgrupos y la agencia que vela por ellos"
 
 lang: "es"
-sourceContentHash: "22c8505f8289ae57"
+sourceContentHash: "461e1709110699f4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -101,6 +101,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Welcome_to_Kampung_Orang_Asli_Lubuk_Legong_village_mural_in_front_of_the_school_building.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-1.webp
+    alt: Un intérprete mah meri, con una máscara de espíritu ancestral tallada en madera y un traje plisado de hojas de palma, baila el Mayin Jo'oh ante el público en una muestra cultural al aire libre.
+    kind: actual
+    origin: third-party
+    subject: Danza de máscaras Mah Meri Mayin Jo'oh interpretada en una muestra cultural en Kuala Lumpur
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayin_Jo%E2%80%99oh_Mah_Meri_Masked_Dance_by_Tompoq_Topoh_22.jpg
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-2.webp
+    alt: La entrada del Museo de Artesanía Orang Asli en Kuala Lumpur, con una gran escultura de madera tallada orang asli junto al rótulo, entre vegetación tropical.
+    kind: actual
+    origin: third-party
+    subject: Museo de Artesanía Orang Asli (Muzium Seni Kraf Orang Asli), Kuala Lumpur
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Seni_Kraf_Orang_Asli.jpg
 ---
 
 Mucho antes de que el nombre Malasia existiera en mapa alguno, ya había comunidades que habitaban los bosques, las tierras altas y las costas de la península. Hoy se las conoce colectivamente como Orang Asli, una expresión malaya que significa «pueblo original» o «habitantes originarios».

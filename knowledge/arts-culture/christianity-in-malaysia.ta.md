@@ -26,7 +26,7 @@ appliesTo: "மலேசியக் கிறிஸ்தவம் — அத�
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7bc376bb0aba475a"
+sourceContentHash: "81025b6c8ff0a5c4"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-1.webp
+    alt: கோலாலம்பூரில் மெர்டேகா சதுக்கத்திற்கு அருகில் உள்ள ஒரு ஆங்கிலிக்கன் தேவாலயமான, வெண்மையான கோதிக்-மறுமலர்ச்சி பாணி செயிண்ட் மேரி பேராலயம்.
+    kind: actual
+    origin: third-party
+    subject: செயிண்ட் மேரி ஆங்கிலிக்கன் பேராலயம், கோலாலம்பூர்
+    credit: Flaming Ferrari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St._Mary's_Cathedral,_Kuala_Lumpur.JPG
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-2.webp
+    alt: சபா, தவாவில் உள்ள நவீன ஹோலி டிரினிட்டி கத்தோலிக்க தேவாலயம், கிழக்கு மலேசியாவின் கிறிஸ்தவ சமூகங்களைப் பிரதிநிதித்துவப்படுத்துகிறது.
+    kind: actual
+    origin: third-party
+    subject: ஹோலி டிரினிட்டி கத்தோலிக்க தேவாலயம், சபா, தவாவ்
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Holy-Trinity-Catholic-Church-01.jpg
 ---
 
 மலேசியாவின் கிறிஸ்தவக் கதைக்கு இரண்டு ஈர்ப்பு மையங்கள் உள்ளன, இரண்டும் தலைநகரில் இல்லை.

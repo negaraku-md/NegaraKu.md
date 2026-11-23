@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-1.webp
+    alt: 新山柔佛古庙华丽的立面，入口处有龙形屋脊雕塑、陶瓷浮雕与红灯笼
+    kind: actual
+    origin: third-party
+    subject: 柔佛古庙，一座华人民间信仰庙宇
+    credit: Ralff Nestor Nacor / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Ancient_Temple,_Malaysia_(2).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-2.webp
+    alt: 槟城乔治市观音亭前，一簇簇点燃的香冒出缕缕青烟，这是一座历史悠久的华人礼拜场所
+    kind: actual
+    origin: third-party
+    subject: 槟城乔治市观音亭（广福宫）里燃烧的香
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_092_-_Penang_-_burning_incense_at_the_Goddess_of_Mercy_Temple_(3923018968).jpg
 ---
 
 走进马来西亚任何一座华人庙宇,你很可能在同一个空间里看到佛、道与民间神明共处:

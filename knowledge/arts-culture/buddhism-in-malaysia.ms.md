@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "48f4e6165d3f9202"
+sourceContentHash: "480d50bf66cae13c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -77,6 +77,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-1.webp
+    alt: Fasad dan bumbung bersadur emas serta berjubin sebuah tokong Buddha Thai yang indah berlatarkan langit biru di Pulau Pinang
+    kind: actual
+    origin: third-party
+    subject: Wat Chaiya Mangkalaram, sebuah tokong Buddha Theravada Thai di George Town, Pulau Pinang
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Wat-Chaiya-Mangkalaram-Temple-01.jpg
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-2.webp
+    alt: Patung Buddha duduk dikelilingi timbunan bunga kekwa kuning, putih dan merah jambu di atas sebuah pelampung perayaan Wesak
+    kind: actual
+    origin: third-party
+    subject: Patung Buddha berhias bunga di atas pelampung Hari Wesak di Wat Nikrodharam, Alor Setar, Kedah
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg
 ---
 
 Di lereng bukit Pulau Pinang, bayang pagoda Kek Lok Si meninjau Georgetown; di

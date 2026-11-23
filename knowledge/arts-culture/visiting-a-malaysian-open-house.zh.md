@@ -33,7 +33,7 @@ faq:
 
 lang: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "2ef3b91f644f0acc"
+sourceContentHash: "acfaf78b01fd9c6b"
 masterLanguage: "en"
 
 status: "published"
@@ -104,6 +104,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-1.webp
+    alt: 宾客身着峇迪（batik）与马来传统服装（baju kurung），在一场开斋节（Hari Raya Aidilfitri）开放门户活动的门口微笑握手致意
+    kind: representative
+    origin: third-party
+    subject: 宾客在开斋节（Hari Raya Aidilfitri）开放门户活动中向主人家致意问候
+    credit: Embassy of the Republic of Indonesia, Bandar Seri Begawan / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indonesian_Embassy_host_Aidilfitri_Open_House_02.jpg
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-2.webp
+    alt: 一串用棕榈叶编织、捆扎在一起的马来粽（ketupat）米糕外壳，是马来西亚开斋节开放门户待客的主食
+    kind: actual
+    origin: third-party
+    subject: 为开斋节准备的编织马来粽（ketupat）
+    credit: Miss Izzah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_Nasi.jpg
 ---
 
 你受邀到一场 *rumah terbuka*（开放门户）。也许是同事的开斋节、邻居的农历新年、朋友的

@@ -19,7 +19,7 @@ keyTakeaways:
   - "Kebaya, yang menjadi tumpuan pakaian Nyonya, masuk dalam daftar warisan takbenda UNESCO pada 2024 melalui pencalonan bersama oleh Brunei, Indonesia, Malaysia, Singapura, dan Thailand"
 appliesTo: "Siapa saja yang ingin mendapatkan gambaran yang tepat dan penuh hormat tentang siapa Peranakan (Baba-Nyonya), dan cara mengenali masakan, pakaian, serta warisan benda mereka di Melaka dan Pulau Pinang."
 lang: "id"
-sourceContentHash: "b8424f95164f1085"
+sourceContentHash: "c1d45c3d697ac014"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -69,6 +69,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Baba_Nyonya_Heritage_Museum_-_Reception_Hall.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/peranakan/body-1.webp
+    alt: Fasad bagian atas sebuah ruko Peranakan di Malaka, dengan daun jendela berbentuk lengkung berwarna pirus, relief cetak, dan sejalur pekerjaan ubin mengkilap.
+    kind: actual
+    origin: third-party
+    subject: Fasad ruko gaya Peranakan, Malaka
+    credit: P. Hughes / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_-_traditional_Peranakan-style_shophouse.jpg
+  - role: scene
+    src: /media/arts-culture/peranakan/body-2.webp
+    alt: Sebuah mangkuk teh porselin Peranakan beserta tutupnya dilukisi bunga peoni merah muda dan burung phoenix pada dasar putih, dipajang di dalam lemari kaca.
+    kind: representative
+    origin: third-party
+    subject: Porselin teh Peranakan (nyonyaware) dengan motif bunga dan burung
+    credit: Gniam Jin Hong / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peranakan_tea_porcelain_with_floral_and_birds_motifs.jpg
 ---
 
 Masuklah ke sebuah ruko tua di Heeren Street, Melaka, dan kisah itu tersampaikan melalui benda-benda sebelum siapa pun mengucap sepatah kata. Sehelai blus renda yang ketat, disematkan di bagian depan dengan kerongsang emas tiga keping. Sepasang sepatu yang ujung jarinya diselimuti ribuan manik kaca halus, dijahit satu per satu dengan tangan. Sebuah meja panjang berpermukaan marmer tersedia untuk sebuah santapan yang bukan sepenuhnya Tionghoa maupun sepenuhnya Melayu. Semua ini milik Peranakan — Baba-Nyonya — sebuah komunitas yang membangun satu budaya dari kehidupan di antara dua dunia.

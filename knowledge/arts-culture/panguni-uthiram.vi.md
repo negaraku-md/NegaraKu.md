@@ -30,7 +30,7 @@ faq:
   - q: "Ở Malaysia, Panguni Uthiram được cử hành lớn ở đâu?"
     a: "Đền Sri Marathandavar Bala Dhandayuthapani tại Maran, Pahang, nổi tiếng với một trong những lễ cử hành lớn nhất; đền Murugan ở Kapar, Selangor, cũng tổ chức lễ hội lớn với kavadi và đám rước xe thần. Ngoài ra, nhiều đền Murugan và đền Mariamman trên khắp cả nước cũng giữ ngày này theo quy mô của mình. Quy mô và tập tục của lễ hội khác nhau tùy từng đền."
 lang: "vi"
-sourceContentHash: "7f189b2da9dcb8fe"
+sourceContentHash: "b924d48206a28dc0"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Devotees_and_Musicians_with_Decorated_Kavadis_on_Procession_Street_at_Batu_Caves_(250211).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-1.webp
+    alt: Một cỗ xe đền bằng gỗ cao và trang trí công phu chở các tượng thần được kéo qua một con phố đông đúc trong lễ rước xe đền Panguni.
+    kind: representative
+    origin: third-party
+    subject: Lễ rước xe đền (ther) trong dịp lễ Panguni, Mylapore
+    credit: N. Vivekananthamoorthy / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Temple-Car-Festival-Mylapore-Chennai-India.jpg
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-2.webp
+    alt: Hai cỗ xe đền cao và trang trí rực rỡ đứng cạnh nhau giữa các tín đồ và tu sĩ tại một lễ rước xe Panguni Uthiram.
+    kind: representative
+    origin: third-party
+    subject: Những cỗ xe đền trang trí tại một lễ rước xe Panguni Uthiram
+    credit: Dharmaphotography / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perur_car_festival.jpg
 ---
 
 Vào tháng Panguni, có một đêm trăng tròn tràn ngập bầu trời. Trong truyền

@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "id"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "48f4e6165d3f9202"
+sourceContentHash: "480d50bf66cae13c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -77,6 +77,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-1.webp
+    alt: Fasad dan atap bersepuh emas serta berubin dari sebuah wihara Buddha Thai yang indah berlatar langit biru di Penang
+    kind: actual
+    origin: third-party
+    subject: Wat Chaiya Mangkalaram, sebuah wihara Buddha Theravada Thai di George Town, Penang
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Wat-Chaiya-Mangkalaram-Temple-01.jpg
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-2.webp
+    alt: Arca Buddha duduk dikelilingi tumpukan bunga krisan kuning, putih, dan merah muda di atas sebuah kendaraan hias perayaan Waisak
+    kind: actual
+    origin: third-party
+    subject: Arca Buddha berhias bunga di atas kendaraan hias Hari Waisak di Wat Nikrodharam, Alor Setar, Kedah
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg
 ---
 
 Di lereng bukit Pulau Pinang, bayangan pagoda Kek Lok Si menatap George Town; di

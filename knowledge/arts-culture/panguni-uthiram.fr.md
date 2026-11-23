@@ -30,7 +30,7 @@ faq:
   - q: "Où le Panguni Uthiram est-il célébré à grande échelle en Malaisie ?"
     a: "Le temple Sri Marathandavar Bala Dhandayuthapani à Maran, dans le Pahang, est réputé pour l'une de ses plus grandes célébrations ; le temple Murugan de Kapar, dans le Selangor, organise aussi une grande fête avec kavadi et procession du char. Par ailleurs, de nombreux temples de Murugan et de Mariamman à travers le pays observent ce jour à leur propre échelle. L'ampleur et les coutumes de la célébration varient d'un temple à l'autre."
 lang: "fr"
-sourceContentHash: "7f189b2da9dcb8fe"
+sourceContentHash: "b924d48206a28dc0"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Devotees_and_Musicians_with_Decorated_Kavadis_on_Procession_Street_at_Batu_Caves_(250211).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-1.webp
+    alt: Un char de temple en bois imposant et minutieusement décoré, portant des figures de divinités, est tiré dans une rue bondée pendant une fête du char du temple de Panguni.
+    kind: representative
+    origin: third-party
+    subject: Procession du char du temple (ther) pendant la fête de Panguni, Mylapore
+    credit: N. Vivekananthamoorthy / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Temple-Car-Festival-Mylapore-Chennai-India.jpg
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-2.webp
+    alt: Deux hauts chars de temple, décorés de couleurs vives, se dressent côte à côte parmi les dévots et les prêtres lors d'une fête des chars de Panguni Uthiram.
+    kind: representative
+    origin: third-party
+    subject: Chars de temple décorés lors d'une fête des chars de Panguni Uthiram
+    credit: Dharmaphotography / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perur_car_festival.jpg
 ---
 
 Au mois de Panguni, il est une nuit où la pleine lune emplit le ciel.

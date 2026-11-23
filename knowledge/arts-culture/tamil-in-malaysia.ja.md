@@ -34,7 +34,7 @@ socialTitle: "マレーシアでタミル語はどう話され、教えられ、
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1bdf48a0219ea1f5"
+sourceContentHash: "9d8e74703093b827"
 
 status: "published"
 aiAssisted: true
@@ -96,6 +96,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-1.webp
+    alt: 赤と白のマレーシアの「立入禁止」標識。マレー語で「Dilarang Masuk」と記され、同じ警告が英語・中国語・パンジャブ語で、最下段にタミル文字で書かれている
+    kind: actual
+    origin: third-party
+    subject: タミル文字の一行を含むマレーシアの多言語標識、コタ・キナバル
+    credit: SSYoung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:%22No_Admittance%22_sign_in_five_languages_in_Kota_Kinabalu,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-2.webp
+    alt: ケダ州チャンルンのタミル語教育小学校の開放的な教室棟。晴れた空の下、戸口や軒先にマレーシアの国旗が掲げられている
+    kind: actual
+    origin: third-party
+    subject: タミル系国民型小学校の教室棟、ケダ州チャンルン
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom2(1).jpg
 ---
 
 かつてのマラヤのゴムプランテーションでは、最も初期の教室の一部は小屋や掘っ立て小屋であり、授業はタミル語で行われていた。マレーシア歴史学会（Persatuan Sejarah Malaysia）の機関誌に掲載された歴史研究によれば、二十世紀初頭からプランテーションにおいて基礎的なタミル語初等教育が提供されており、それは当時の労働法典のもとで定められたものであった。そして長い間、教えるのは訓練を受けた教員ではなく、事務員や非常勤の者たちであった。

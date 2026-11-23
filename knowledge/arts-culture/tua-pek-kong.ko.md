@@ -33,7 +33,7 @@ faq:
     a: "'청화'(请火, Chneah Hoay, 민난어로 '불을 본다')는 페낭의 보복사가 백 년 넘게 이어 온 의례로, 음력 1월 14일부터 16일까지 탄종 토콩의 해주서 투아 펙 콩 묘에서 열리며, 정식 청화는 정월대보름 자시(子時)에 행해집니다. 의례 때는 사당 안의 모든 등불과 촛불이 꺼지고, 회원들은 향담(香擔) 안의 화정(火鼎)에서 불을 취해 부채로 부칩니다. 불꽃의 세기로 다가올 해의 운세를 점치며, 이를 연이어 세 번 하여 각각 한 해의 세 절기에 대응시킵니다. 전통적으로 청화는 남성 회원만 참여합니다. 의례가 끝나고 등불을 다시 켠 뒤에야 일반인이 사당에 들어가 참배할 수 있습니다. 이 글은 그 절차만을 서술하며 그 종교적 의미에 대해서는 판단하지 않습니다."
 
 lang: "ko"
-sourceContentHash: "24e27178b70c08f9"
+sourceContentHash: "f3f881791e865e1d"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Facade_of_Tua_Pek_Kong_Temple,_Sibu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tua-pek-kong/body-1.webp
+    alt: 페낭 탄중토콩 대백공 사당의 붉은 정면과 화려한 타일 지붕으로, 입구에 수호 사자상과 높다란 붉은 향초가 있다
+    kind: actual
+    origin: third-party
+    subject: 탄중토콩 대백공 사당, 페낭
+    credit: marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjong_Tokong_Tua_Pek_Kong_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/tua-pek-kong/body-2.webp
+    alt: 금박을 입힌 긴 수염의 대백공 신상이 제단에 앉아 양옆에 시종신을 거느리고, 그 앞에 켜진 촛불과 다발로 세운 향이 피어오른다
+    kind: actual
+    origin: third-party
+    subject: 핑시엔시(Ping Sien Si)의 대백공 제단, 페락주
+    credit: Anandajoti Bhikkhu / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_062_Tua_Pek_Kong_(15821797501).jpg
 ---
 
 페낭의 탄종 토콩(丹絨道光, Tanjung Tokong) 바닷가에 그리 크지 않은 사당 하나가 서 있다. 일 년 중 대부분은 조용하다. 그러나 정월대보름 무렵이 되면 상황은 완전히 달라진다. 향담, 징과 북, 긴 사람들의 행렬이 조지타운에서 줄지어 온다. 밤이 되면 사당 안의 모든 등불과 촛불이 꺼지고, 사람들이 화정을 둘러싸고 숨죽인 채 불을 부친다 — 불꽃이 얼마나 높이 치솟는지가 다가올 해에 대한 하나의 '예보'로 여겨진다. 이 사당이야말로 많은 이들의 마음속에서 투아 펙 콩 신앙의 발원지다.

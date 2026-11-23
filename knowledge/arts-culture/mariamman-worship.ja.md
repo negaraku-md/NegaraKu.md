@@ -33,7 +33,7 @@ faq:
   - q: "マーリアンマン信仰は独立した一つの宗教ですか？"
     a: "いいえ。マーリアンマン信仰は、より広いヒンドゥー教の、とりわけシャークタ（シャクティ）の伝統の一部です。アンマンはしばしば女神カーリーやドゥルガーの形態とともに崇められます。マレーシアのヒンドゥー教社会では、アンマン信仰はシヴァやムルガンの信仰と並んで営まれています。"
 lang: "ja"
-sourceContentHash: "74fa7f5263aec6a2"
+sourceContentHash: "f0f0df6a703389cd"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple_2,_central_Kuala_Lumpur.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-1.webp
+    alt: ジョージタウンのマリアマン寺院の彫刻された塔門（ゴープラム）。ヒンドゥー教の神々の鮮やかに彩色された像で覆われている
+    kind: actual
+    origin: third-party
+    subject: スリ・マハマリアマン寺院、ペナン・ジョージタウン。女神マリアマンを祀る、市内最古のヒンドゥー教寺院
+    credit: Sin-siong (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-2.webp
+    alt: 列柱の立つマリアマン寺院の内部祈祷堂。彩色された天井と、至聖所へ向かう祠が並ぶ
+    kind: actual
+    origin: third-party
+    subject: ペナン・ジョージタウンのマリアマン寺院の内部祈祷堂
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mahamariamman_Tempel_Innen.JPG
 ---
 
 マレーシアの古いゴム農園のほとんどすぐそば、そして町の中心部の年季の入った通り沿いには、マーリアンマン寺院を見つけることができます。黄土色の顔をしたアンマンの像、そして雨季の前に行われる祭り——それらは偶然ではなく、一世紀半を超えるタミル社会の歴史と信仰の伝統を担っています。

@@ -36,7 +36,7 @@ socialTitle: "Bảng chữ cái Latinh đã trở thành văn tự chính thức
 lang: "vi"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d7c1f7cd753500f4"
+sourceContentHash: "319660fc21be5b70"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/rumi-script/body-1.webp
+    alt: Một biển tên đường màu xanh ghi 'Jalan Pasir Puteh' bằng chữ La-tinh Rumi bên dưới cùng tên đó bằng chữ Jawi, bên đường ở Kelantan.
+    kind: actual
+    origin: third-party
+    subject: Biển tên đường song ngữ Jawi và Rumi, Kelantan
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG
+  - role: scene
+    src: /media/arts-culture/rumi-script/body-2.webp
+    alt: Một biển báo đường phố Malaysia màu xanh lá ghi 'Persiaran Greentown 4C, Poskod 30450 Ipoh' bằng chữ Mã Lai La-tinh (Rumi).
+    kind: actual
+    origin: third-party
+    subject: Biển tên đường tiếng Mã Lai bằng chữ Rumi, Ipoh
+    credit: Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malay_signboard_with_English_location_name_in_Ipoh.jpg
 ---
 
 Khi chúng ta đọc một từ tiếng Mã Lai ngày nay — trên biển báo đường, trong báo chí, trên màn hình điện thoại — chúng ta đọc nó bằng những chữ cái giống với bảng chữ cái tiếng Anh: a, b, c, d và tiếp theo. Chữ viết đó được gọi là chữ Rumi. Nó quen thuộc đến mức nhiều người không nhận ra rằng Rumi không phải là văn tự nguyên thủy của tiếng Mã Lai, và rằng hình thức gọn gàng, thống nhất của nó ngày nay là kết quả của một nỗ lực chuẩn hóa kéo dài hơn một trăm năm.

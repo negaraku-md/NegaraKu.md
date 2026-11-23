@@ -32,7 +32,7 @@ faq:
   - q: "구황야탄은 중원절이나 설(음력 설)과 같습니까?"
     a: "같지 않습니다. 구황야탄은 음력 9월에 구황대제를 전적으로 받드는 도교 축제로, 청수·식재·송가를 중심으로 합니다. 중원절(우란분)은 음력 7월로, 떠도는 혼을 널리 구제하는 보도(普度)·천도(薦度)를 주제로 합니다. 음력 설은 가족 단란을 중심으로 하는 세시 문화 축제입니다. 셋은 시기·대상·의미가 각기 다르므로 혼동해서는 안 됩니다."
 lang: "ko"
-sourceContentHash: "642647a0f184876b"
+sourceContentHash: "fef1d3cfdfb90ea5"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_Festival_(Ipoh)_3.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-1.webp
+    alt: 구황야 축제 때 장식한 크팔라 바타스의 한 사당으로, 등불과 노란 깃발, 공물이 보인다
+    kind: actual
+    origin: third-party
+    subject: 페낭주 크팔라 바타스의 한 사당에서 열리는 구황야(Kew Ong Yah) 축제
+    credit: LEE 003 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_(KepalaBatas)_2.jpg
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-2.webp
+    alt: 버터워스의 두무궁 구황야 사당 경내로 이어지는 화려한 의례용 패루
+    kind: actual
+    origin: third-party
+    subject: 페낭주 버터워스 두무궁(Tow Boo Kong) 구황야 사당의 장식된 패루
+    credit: Photo Dharma / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Archway_to_the_Temple_(9031159018).jpg
 ---
 
 음력 9월 1일 전야, 흰옷을 입고 허리에 황색 띠를 두른 신도들의 행렬이 맑은 향을 손에 들고 사원에서 줄줄이 나와 가장 가까운 강가나 바닷가로 향한다. 앞에는 징과 북, 뒤에는 향 연기—그들은 '청수'와 '영가'를 위해, 구황대제를 사원으로 맞이하러 가는 것이다. 이어지는 아흐레 동안 사원 안에서는 향화가 끊이지 않고, 사원 밖에서는 채식의 향이 감돈다. 그리고 9일 밤이 되면 같은 행렬이 다시 물가에 늘어서 신을 배웅한다.

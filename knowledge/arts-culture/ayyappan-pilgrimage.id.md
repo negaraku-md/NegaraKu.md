@@ -32,7 +32,7 @@ faq:
   - q: "Apa arti 'Swamiye Saranam Ayyappa'?"
     a: "Ini adalah pekik saranam utama dalam pemujaan Ayyappan — sebuah ungkapan yang berarti penyerahan diri kepada Swami, yang terus-menerus dilantunkan oleh para pelaku dan peziarah. Ia bergema sepanjang laku, di perjalanan ziarah, dan dalam bhajan."
 lang: "id"
-sourceContentHash: "c0cc8aa15f42b7b0"
+sourceContentHash: "c3cfb1ea38600a5f"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penangayappantemple.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-1.webp
+    alt: Peziarah berpakaian hitam, dengan penutup kepala dari kain, berjalan menyusuri jalan setapak hutan dalam ziarah ke Sabarimala
+    kind: representative
+    origin: third-party
+    subject: Umat Ayyappan berpakaian hitam mendaki jalan setapak hutan menuju kuil Sabarimala
+    credit: Shantham11 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pilgrims_trekking_on_the_path_through_forests_leading_to_Sabarimala_temple.jpg
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-2.webp
+    alt: Lukisan lantai dari bubuk warna berukuran besar yang menggambarkan dewa Ayyappa, dikelilingi pelita minyak kuningan yang menyala dan untaian bunga, dengan seorang penabuh gendang duduk di belakang
+    kind: representative
+    origin: third-party
+    subject: Lukisan lantai ritual Ayyappan (kalam) dengan pelita minyak kuningan dan penabuh gendang, sebuah tradisi devosi bagi Dewa Ayyappa
+    credit: Sajith moothakurambu / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AYYAPPAN_THEYATTU.jpg
 ---
 
 Pada bulan-bulan terakhir tahun, sebuah pemandangan tampak di banyak kota di seluruh Malaysia: para lelaki berpakaian hitam atau biru, mengenakan untaian rudraksha di leher dan membiarkan janggut tumbuh, saling menyapa satu sama lain "Swami". Mereka adalah para pelaku laku Ayyappan — banyak di antaranya sedang bersiap berangkat ke Sabarimala di Kerala. Artikel ini menguraikan pemujaan dan tradisi laku itu secara netral; ia tidak menafsirkan maupun menilai keyakinan apa pun.

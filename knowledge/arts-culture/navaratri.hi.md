@@ -32,7 +32,7 @@ faq:
   - q: "क्या नवरात्रि केवल तमिल लोग मनाते हैं?"
     a: "नहीं। यद्यपि गोलू और सरस्वती/आयुध पूजा दक्षिण भारतीय-तमिल परंपरा में प्रमुख हैं, मलेशिया के गुजराती और उत्तर भारतीय समुदाय गरबा और डांडिया नृत्य के साथ नवरात्रि मनाते हैं, और बंगाली समुदाय दुर्गा पूजा करता है। हर समुदाय की रीत अलग होती है।"
 lang: "hi"
-sourceContentHash: "4de698b1470bf32c"
+sourceContentHash: "dae52d8e596d9c8f"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Navratri_Golu_-_Dashavatara.JPG'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/navaratri/body-1.webp
+    alt: एक जीवंत नवरात्रि गरबा नृत्य के दौरान रंगीन पारंपरिक वेशभूषा में घेरे में घूमते नर्तक
+    kind: representative
+    origin: third-party
+    subject: नवरात्रि के दौरान प्रस्तुत एक गरबा लोकनृत्य, त्योहार के विशिष्ट सामूहिक उत्सवों में से एक
+    credit: Saurabh sirohiya (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lively_Navratri_Garba_dance_performances.jpg
+  - role: scene
+    src: /media/arts-culture/navaratri/body-2.webp
+    alt: एक नवरात्रि गोलू प्रदर्शनी के सीढ़ीनुमा चरणों पर सावधानी से सजाई गई छोटी सजावटी पक्षी और आकृति गुड़ियाँ
+    kind: representative
+    origin: third-party
+    subject: एक नवरात्रि गोलू (कोलु) उत्सव गुड़िया प्रदर्शनी पर सजाई गई मूर्तियों का निकट दृश्य
+    credit: GoDakshin / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Birds_in_a_Golu_display_over_Hindu_Navaratri_festival_Kolu_dolls.jpg
 ---
 
 नवरात्रि के दिनों में, मलेशिया के किसी तमिल हिंदू घर के बैठक-कक्ष की एक ओर की दीवार के सहारे विषम संख्या में सीढ़ीनुमा चरणें खड़ी की जाती हैं। कपड़े से ढकी उन चरणों पर देव-प्रतिमाएँ और पौराणिक दृश्यों को बताने वाली गुड़िया पंक्तियों में सजाई जाती हैं। साँझ ढले रिश्तेदार और पड़ोसी उस **गोलू** को देखने आते हैं; गीत गूँजते हैं; और विदा होते अतिथियों को थांबूलम तथा मिठाई दी जाती है। यह एक दिन का आयोजन नहीं — यह नौ रातों तक फैले एक पर्व की पहचान है।

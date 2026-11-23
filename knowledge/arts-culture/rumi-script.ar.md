@@ -36,7 +36,7 @@ socialTitle: "كيف صارت الأبجدية اللاتينية الخط ال�
 lang: "ar"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d7c1f7cd753500f4"
+sourceContentHash: "319660fc21be5b70"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/rumi-script/body-1.webp
+    alt: لافتة اسم شارع زرقاء كُتب عليها 'Jalan Pasir Puteh' بحروف Rumi اللاتينية أسفل الاسم نفسه بخط Jawi، على جانب طريق في Kelantan.
+    kind: actual
+    origin: third-party
+    subject: لافتة اسم شارع ثنائية اللغة بخطّي Jawi وRumi، Kelantan
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG
+  - role: scene
+    src: /media/arts-culture/rumi-script/body-2.webp
+    alt: لافتة شارع ماليزية خضراء كُتب عليها 'Persiaran Greentown 4C, Poskod 30450 Ipoh' بحروف ملايوية لاتينية (Rumi).
+    kind: actual
+    origin: third-party
+    subject: لافتة اسم طريق ملايوية بخط Rumi، Ipoh
+    credit: Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malay_signboard_with_English_location_name_in_Ipoh.jpg
 ---
 
 حين نقرأ كلمة ملايوية اليوم — على لافتات الطرق، وفي الصحف، وعلى شاشات الهواتف — نقرأها بالحروف نفسها التي تتكون منها الأبجدية الإنجليزية: a وb وc وd وما بعدها. ويُسمى هذا الخط الخط الرومي. وهو مألوف إلى حدٍّ يجعل كثيرين لا يدركون أن الرومي ليس الخط الأصلي للغة الملايوية، وأن صورته المرتبة الموحدة اليوم ثمرة جهد توحيدٍ استغرق أكثر من مئة عام.

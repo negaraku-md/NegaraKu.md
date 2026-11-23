@@ -87,6 +87,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-1.webp
+    alt: 吉隆坡市中心街道上一栋黄红相间的战前店屋，设有福建会馆
+    kind: actual
+    origin: third-party
+    subject: 雪兰莪福建会馆（福建方言群会馆）大楼，位于吉隆坡 Jalan Hang Lekiu
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Selangor_Hokkien_Association_Building,_Jalan_Hang_Lekiu,_central_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-2.webp
+    alt: 芙蓉市中心一栋华丽的三层新古典主义店屋，曾设有一所客家会馆
+    kind: actual
+    origin: third-party
+    subject: 旧惠州（客家）会馆大楼，一所客家方言群会馆，位于芙蓉
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fui_Chiu_Association_Building,_Seremban.jpg
 ---
 
 在槟城的老街，撑起一整条街市面的，多是福建人开的商号；到了吉隆坡与怡保这些因锡矿而兴的城市，矿场与行会里挤满了广府与客家人；而无论走进哪一座城镇，那间卖海南咖啡、烤面包配牛油咖椰的老咖啡店，招牌后面站的，常常是海南人。

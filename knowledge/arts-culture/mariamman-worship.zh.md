@@ -33,7 +33,7 @@ faq:
   - q: "马里安曼崇拜是一种独立的宗教吗？"
     a: "不是。马里安曼崇拜是更广泛的印度教的一部分，尤其是沙克达（性力）传统的一部分。安曼常与女神迦梨（Kali）、杜尔迦（Durga）的形相一同受到崇奉。在马来西亚印度教社群中，安曼崇拜与湿婆（Shiva）、穆鲁干（Murugan）崇拜并行不悖。"
 lang: "zh"
-sourceContentHash: "74fa7f5263aec6a2"
+sourceContentHash: "f0f0df6a703389cd"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -77,6 +77,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple_2,_central_Kuala_Lumpur.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-1.webp
+    alt: 乔治市玛丽安曼庙雕饰精美的塔门（gopuram），布满色彩鲜艳的印度教神祇人像
+    kind: actual
+    origin: third-party
+    subject: 斯里玛哈玛丽安曼庙（Sri Mahamariamman Temple），位于槟城乔治市，是城中最古老、供奉女神玛丽安曼的印度教庙宇
+    credit: Sin-siong (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-2.webp
+    alt: 一座玛丽安曼庙的列柱式内殿祈祷厅，天花板绘有彩画，一座座神龛朝向内殿
+    kind: actual
+    origin: third-party
+    subject: 槟城乔治市玛丽安曼庙的内殿祈祷厅
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mahamariamman_Tempel_Innen.JPG
 ---
 
 在马来西亚几乎任何一座老橡胶园丘附近，以及城镇中心那些历经岁月的老街上，都能见到一座马里安曼庙。那尊面庞涂成赭黄色的安曼神像，以及在雨季来临前举行的庆典，并非偶然——它们承载着一个泰米尔社群长达一个半世纪以上的历史与信仰传统。

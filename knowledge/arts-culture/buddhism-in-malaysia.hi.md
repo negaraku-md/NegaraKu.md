@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "hi"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "48f4e6165d3f9202"
+sourceContentHash: "480d50bf66cae13c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -77,6 +77,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-1.webp
+    alt: पेनांग में नीले आकाश के सामने एक थाई बौद्ध मंदिर का अलंकृत सुनहरा और टाइलदार अग्रभाग और छतें
+    kind: actual
+    origin: third-party
+    subject: वाट चाइया मंगकलाराम, पेनांग के जॉर्ज टाउन में एक थाई थेरवाद बौद्ध मंदिर
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Wat-Chaiya-Mangkalaram-Temple-01.jpg
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-2.webp
+    alt: Wesak उत्सव की झाँकी पर पीले, सफ़ेद और गुलाबी गुलदाउदी के ढेरों से घिरी एक बैठी हुई बुद्ध प्रतिमा
+    kind: actual
+    origin: third-party
+    subject: केदाह के अलोर सेतार स्थित वाट निक्रोधाराम में Wesak दिवस की झाँकी पर फूलों से सजी बुद्ध प्रतिमा
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg
 ---
 
 पिनांग की पहाड़ियों पर केक लोक सी के शिखर जॉर्जटाउन की ओर झाँकते हैं; कुआलालंपुर

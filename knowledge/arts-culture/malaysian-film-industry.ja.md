@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "defc3df96dc13355"
+sourceContentHash: "45a175545944f31c"
 
 status: "published"
 aiAssisted: true
@@ -92,6 +92,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Rumah_Kelahiran_P._Ramlee.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-1.webp
+    alt: クアラルンプール中心部にある戦前の単館映画館、旧コロシアム・シネマの通りに面した正面とマーキー看板
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールのジャラン・トゥアンク・アブドゥル・ラーマンにある歴史的なコロシアム・シネマ。マレーシアに現存する最古級の映画館の一つ
+    credit: Two hundred percent (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Coliseum_Cinema,_Kuala_Lumpur_(February_2007).jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-2.webp
+    alt: クアラルンプールのショッピングモール内にある現代的なシネコンの、明るく照らされたロビーと看板
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールのパビリオン・ブキッ・ビンタンにある現代的なシネコンの入口
+    credit: PulauKakatua19 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dadi_Cinema_Pavilion_Bukit_Bintang.jpg
 ---
 
 1955年、シンガポールのジャラン・アンパス（Jalan Ampas）8番地にあったスタジオでかつて*クラッパー*係と助手カメラマンを務めていた若者が、26歳で初めて監督の椅子に座った。その映画は*Penarek Becha*（人力車引き）。名はP・ラムリー。マレーシア映画産業の物語はクアラルンプールではなく、上海出身の兄弟が所有するシンガポールのスタジオから始まった——そしてそれ以来、歩みを止めたことはない。

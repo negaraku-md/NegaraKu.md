@@ -30,7 +30,7 @@ faq:
   - q: "말레이시아에서 팡구니 우티람은 어디에서 성대하게 기념되나요?"
     a: "파항주 마란의 스리 마라탄다바르 발라 단다유타파니 사원이 가장 성대한 기념 중 하나로 알려져 있으며, 슬랑오르주 카파르의 무루간 사원에서도 카바디와 수레 행렬을 갖춘 대규모 축제가 열립니다. 이 밖에도 전국의 많은 무루간 사원과 마리암만 사원이 각자의 규모로 이 날을 지킵니다. 축제의 규모와 관습은 사원마다 다릅니다."
 lang: "ko"
-sourceContentHash: "7f189b2da9dcb8fe"
+sourceContentHash: "b924d48206a28dc0"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Devotees_and_Musicians_with_Decorated_Kavadis_on_Procession_Street_at_Batu_Caves_(250211).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-1.webp
+    alt: 신상을 실은 높다랗고 정교하게 장식된 나무 사원 수레(테르)가 파응구니 사원 수레 축제 때 붐비는 거리를 끌려 지나간다
+    kind: representative
+    origin: third-party
+    subject: 파응구니 축제 때의 사원 수레(테르) 행렬, 마일라포르
+    credit: N. Vivekananthamoorthy / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Temple-Car-Festival-Mylapore-Chennai-India.jpg
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-2.webp
+    alt: 높고 선명하게 장식된 두 대의 사원 수레가 신자와 사제들에 둘러싸여 나란히 서 있다, 파응구니 우티람 수레 축제
+    kind: representative
+    origin: third-party
+    subject: 파응구니 우티람 수레 축제에 늘어선 장식된 사원 수레
+    credit: Dharmaphotography / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perur_car_festival.jpg
 ---
 
 팡구니 월, 하늘에 보름달이 가득 차는 밤이 있다. 타밀 전통에서 이 빛나는

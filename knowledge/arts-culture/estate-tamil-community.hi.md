@@ -32,7 +32,7 @@ faq:
   - q: "आज बागानों में कौन काम करता है?"
     a: "आज मलेशिया के अधिकांश बागान-श्रमिक विदेशी प्रवासी मज़दूर हैं। जहाँ तक तमिल समुदाय का सवाल है, बागान से शहर की ओर बड़ा प्रवास कई दशक पहले ही काफ़ी हद तक पूरा हो चुका था; आज का समुदाय बड़े पैमाने पर एक शहरी एवं अर्ध-शहरी समुदाय बन चुका है।"
 lang: "hi"
-sourceContentHash: "26feee7acc3d6568"
+sourceContentHash: "03062d40a74e2b62"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Ladang_Sungai_Getah.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-1.webp
+    alt: 1946 में मलक्का के एक बागान में एक रबर के पेड़ से लेटेक्स दोहन करता एक मज़दूर, जो उस बागान श्रम को दर्शाता है जिसने मलेशिया के बागान समुदायों को आकार दिया।
+    kind: representative
+    origin: third-party
+    subject: मलक्का में एक रबर बागान में रबर-दोहन (1946)
+    credit: Willem van de Poll / Nationaal Archief / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vrouw_bezig_met_het_aftappen_van_rubber_op_een_rubberplantage_in_Malakka,_Bestanddeelnr_255-6638.jpg
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-2.webp
+    alt: 'जोहोर बाहरू के भारतीय विरासत केंद्र में ''प्रारंभिक व्यवसाय: रबर-दोहन'' शीर्षक वाली एक संग्रहालय प्रदर्शनी, जिसमें साड़ी पहने एक आकृति, लेटेक्स की बाल्टियाँ और तमिल कैप्शन वाली ऐतिहासिक बागान तस्वीरें हैं।'
+    kind: actual
+    origin: third-party
+    subject: 'तमिल मलेशियाई बागान विरासत पर "प्रारंभिक व्यवसाय: रबर-दोहन" प्रदर्शनी, भारतीय विरासत केंद्र, जोहोर बाहरू'
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indian_Heritage_Centre_(Johor_Bahru)_(2025)_-_img_10.jpg
 ---
 
 मलेशिया के अनेक पुराने शहरों की सरहद पर, कभी हरा-भरा फैला हुआ एक रबर बागान अब घरों और दुकान-बाज़ारों से भरे एक रिहायशी इलाक़े में बदल चुका है। उन नई इमारतों के बीच, कभी-कभी एक पुराना अम्मन मंदिर या एक छोटा-सा तमिल विद्यालय आज भी खड़ा मिल जाता है — एक विस्थापित समुदाय की न मिटने वाली पहचान के रूप में।

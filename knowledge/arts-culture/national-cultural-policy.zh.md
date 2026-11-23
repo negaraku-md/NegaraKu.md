@@ -30,7 +30,7 @@ faq:
     a: "根据JKKN，1971年国家文化政策成为以七大支柱为基础、实施期为2021至2025年的2021年国家文化政策（DAKEN）的基础。JKKN也表示，1971年国家文化政策从未在内阁层级正式获得批准，尽管它指导了大约50年的行政工作。"
 
 lang: "zh"
-sourceContentHash: "13839d2ad5ad43f3"
+sourceContentHash: "14db5b6eb5ede180"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala-Lumpur_Malaysia_Istana-Budaya-02.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/national-cultural-policy/body-1.webp
+    alt: 一群身着砂拉越传统服饰的舞者在台上为观众表演一支民间舞蹈
+    kind: actual
+    origin: third-party
+    subject: 身着传统服饰的表演者在马来西亚一场文化展演中呈献砂拉越民间舞蹈
+    credit: Thomas Quine / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sarawak_folk_dancers_(28655218970).jpg
+  - role: scene
+    src: /media/arts-culture/national-cultural-policy/body-2.webp
+    alt: 马来西亚国家博物馆的正面，这是一座拥有米南加保尖顶屋顶与大型瓷砖壁画镶板的建筑
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡的马来西亚国家博物馆（Muzium Negara），拥有米南加保风格屋顶与文化遗产马赛克壁画
+    credit: Bahnfrend (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Negara,_2023_(01).jpg
 ---
 
 1971年，即[1969年五一三事件](/malaysia/13-may-1969)约两年之后，一群学者、艺术工作者与领袖聚集在马来亚大学，共同回答一个对多元种族国家而言颇为棘手的问题：什么才是"国家文化"？由此产生的答案——国家文化政策（Dasar Kebudayaan Kebangsaan，DKK）——至今仍是政策的参照依据，同时也仍然是争论的话题。

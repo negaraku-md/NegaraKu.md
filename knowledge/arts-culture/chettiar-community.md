@@ -81,6 +81,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Waterfall_Temple.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-1.webp
+    alt: பினாங்கில் தெளிவான வானத்தைப் பின்னணியாகக் கொண்ட, செதுக்கப்பட்ட உருவங்கள் நிறைந்த வண்ணமயமான தென்னிந்தியக் கோயில் கோபுரம்
+    kind: actual
+    origin: third-party
+    subject: பினாங்கு ஜார்ஜ் டவுனில் உள்ள நகரத்தார் (நாட்டுக்கோட்டை செட்டியார்) சிவன் கோயில்
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Nagarathar_Sivan_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-2.webp
+    alt: மாலைப் பொழுதில் பக்தர் கூட்டத்திடையே பினாங்கு தெருவில் ஊர்ந்து செல்லும், மாலைகள் தொங்கும் உயரமான தங்க முலாம் பூசிய கோயில் தேர்
+    kind: actual
+    origin: third-party
+    subject: செட்டியார் சமூகம் நிலைநிறுத்த உதவும் பண்டிகையான தைப்பூசப் பவனியின்போது பினாங்கில் தங்கத் தேரும் பக்தர்களும்
+    credit: Seelit2004 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_Festival_The_Golden_Chariot_and_the_Followers.jpg
 ---
 
 பினாங்கின் தைப்பூச நாளில், வெள்ளியால் செய்த ஒரு பிரம்மாண்டத் தேர் லேபுவா பினாங்

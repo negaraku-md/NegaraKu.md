@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Facade_of_Tua_Pek_Kong_Temple,_Sibu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tua-pek-kong/body-1.webp
+    alt: 槟城丹绒道光大伯公庙红色的立面与华丽的瓷砖屋顶，入口处有守护石狮与高大的红色香烛
+    kind: actual
+    origin: third-party
+    subject: 丹绒道光大伯公庙，槟城
+    credit: marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjong_Tokong_Tua_Pek_Kong_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/tua-pek-kong/body-2.webp
+    alt: 一尊鎏金、长须的大伯公神像端坐于神坛之上，两侧有侍神相伴，神像前点着蜡烛、立着一束束香
+    kind: actual
+    origin: third-party
+    subject: 平线寺（Ping Sien Si）的大伯公神坛，霹雳
+    credit: Anandajoti Bhikkhu / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_062_Tua_Pek_Kong_(15821797501).jpg
 ---
 
 在槟城丹绒道光（Tanjung Tokong）的海边，有一座不算宏大的庙，一年里大半时候都很安静。可一到元宵前后，情况就全然不同：香担、锣鼓、人龙从乔治市一路而来，夜里庙内灯烛尽熄，一群人围着火鼎屏息煽火——火焰窜得高不高，被看作对来年的一则「预报」。这座庙，就是许多人心目中大伯公信仰的源头。

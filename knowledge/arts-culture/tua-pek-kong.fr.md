@@ -33,7 +33,7 @@ faq:
     a: "La « demande du feu » (请火, Chneah Hoay, « contempler le feu » en hokkien) est un rite que Poh Hock Seah, à Penang, transmet depuis plus de cent ans ; elle se tient du 14 au 16 du premier mois lunaire au temple Tua Pek Kong de Hai Choo Soo, à Tanjong Tokong, la demande du feu officielle ayant lieu à minuit de la fête des Lanternes. Pendant le rite, toutes les lumières et bougies du temple sont éteintes ; les membres tirent le feu d'un brasier placé dans les paniers des perches à encens et l'attisent à l'éventail, augurant la fortune de l'année à venir d'après la vigueur des flammes, trois fois de suite correspondant aux trois saisons de l'année ; par tradition, seuls les membres masculins y prennent part. Une fois le rite achevé et les lumières rallumées, le public peut alors entrer pour rendre un culte. Cet article décrit seulement le déroulement et ne porte aucun jugement sur son sens religieux."
 
 lang: "fr"
-sourceContentHash: "24e27178b70c08f9"
+sourceContentHash: "f3f881791e865e1d"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Facade_of_Tua_Pek_Kong_Temple,_Sibu.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tua-pek-kong/body-1.webp
+    alt: La façade rouge et le toit carrelé ornementé du temple de Tua Pek Kong à Tanjung Tokong, Penang, avec des lions gardiens et de hautes bougies d'encens rouges à l'entrée.
+    kind: actual
+    origin: third-party
+    subject: Temple de Tua Pek Kong à Tanjung Tokong, Penang
+    credit: marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tanjong_Tokong_Tua_Pek_Kong_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/tua-pek-kong/body-2.webp
+    alt: Une figure dorée et barbue de la divinité Tua Pek Kong assise sur un autel, flanquée d'acolytes, avec des bougies allumées et des faisceaux d'encens s'élevant devant elle.
+    kind: actual
+    origin: third-party
+    subject: Autel de la divinité Tua Pek Kong à Ping Sien Si, Perak
+    credit: Anandajoti Bhikkhu / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ping_Sien_Si_-_062_Tua_Pek_Kong_(15821797501).jpg
 ---
 
 Sur le rivage de Tanjung Tokong (丹絨道光), à Penang, se dresse un temple de taille modeste, silencieux la plus grande partie de l'année. Mais aux abords de la fête des Lanternes, la scène change du tout au tout : paniers de perches à encens, gongs et tambours, et longues files de gens arrivent de loin depuis George Town ; la nuit, toutes les lumières et bougies du temple sont éteintes, et une foule entoure un brasier, attisant le feu en retenant son souffle — la hauteur à laquelle jaillissent les flammes est tenue pour une « prévision » de l'année à venir. Ce temple est, dans l'esprit de beaucoup, la source du culte de Tua Pek Kong.

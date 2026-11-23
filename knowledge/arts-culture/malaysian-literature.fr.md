@@ -31,7 +31,7 @@ faq:
     a: "Les lauréats reçoivent une Lettre nationale d'honneur, RM60,000 en espèces, une allocation d'édition pouvant atteindre RM500,000 (jusqu'à 50,000 exemplaires), des soins médicaux gratuits en chambre de première classe dans les hôpitaux publics et une allocation mensuelle de RM5,000."
 
 lang: "fr"
-sourceContentHash: "c27d87b5dbf2077e"
+sourceContentHash: "baad7b6b6a245b8b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-1.webp
+    alt: Des foules de lecteurs parcourant des rangées de stands d'éditeurs chargés de livres au salon international du livre de Malaisie
+    kind: actual
+    origin: third-party
+    subject: Des visiteurs parcourant les stands au Salon international du livre de Kuala Lumpur (Pesta Buku Antarabangsa Kuala Lumpur) 2023
+    credit: Wiki Farazi (Wikimedia Commons) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pesta_Buku_Antarabangsa_Kuala_Lumpur_2023_20230529_143928.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-2.webp
+    alt: Le bâtiment de la Bibliothèque nationale de Malaisie à Kuala Lumpur, coiffé d'un toit bleu caractéristique à motifs de songket
+    kind: actual
+    origin: third-party
+    subject: La Bibliothèque nationale de Malaisie (Perpustakaan Negara Malaysia) à Kuala Lumpur, avec son toit en tente inspiré du songket
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_National-Library-of-Malaysia-02.jpg
 ---
 
 Avant qu'il n'y ait des romans et avant qu'il n'y ait un conseil de la langue, un conteur composait déjà des héros malais dans la cour du palais de Malacca. C'est de cette tradition orale qu'a grandi l'un des patrimoines littéraires les plus riches de la région — une tradition aujourd'hui célébrée par un titre national, des centaines de milliers de ringgit et une place d'honneur dans la civilisation de la nation.

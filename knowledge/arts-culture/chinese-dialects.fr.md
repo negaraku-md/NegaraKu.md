@@ -32,7 +32,7 @@ seoTitle: "Dialectes chinois de Malaisie : hokkien, cantonais et hakka par régi
 socialTitle: "Mêmes Chinois, pourquoi des langues différentes ? La carte dialectale de la Malaisie"
 
 lang: "fr"
-sourceContentHash: "c773c2be8c4e6544"
+sourceContentHash: "377a93a3d1a42245"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-1.webp
+    alt: Panneaux de porte peints avec raffinement représentant des personnages en robe et un relief de tigre dans un temple ancestral chinois teochew à Penang
+    kind: actual
+    origin: third-party
+    subject: Dieux gardiens des portes peints et relief de tigre au temple ancestral Han Jiang, le temple du groupe dialectal teochew à George Town, Penang
+    credit: Christophe95 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Han_Jiang_Ancestral_Temple_1.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-2.webp
+    alt: Des maisons-boutiques chinoises de deux étages patinées par le temps, aux fenêtres à volets et aux galeries couvertes de cinq pieds, bordant une rue tranquille de George Town
+    kind: actual
+    origin: third-party
+    subject: Une rangée d'anciennes maisons-boutiques chinoises à galeries de cinq pieds (five-foot-ways) dans une rue de George Town, Penang
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
 ---
 
 Dans un café de Penang, on commande un kopi en hokkien ; à Kuala Lumpur et à Ipoh, cette même tasse de café se demande en cantonais ; poussez plus loin, jusqu'à Sibu, au Sarawak, et celui qui vous sert parlera probablement foochow. Tous trois sont des Chinois de Malaisie et, pourtant, ils parlent trois langues mutuellement inintelligibles.

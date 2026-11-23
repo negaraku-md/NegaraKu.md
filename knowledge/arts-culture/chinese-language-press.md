@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sin_Chew_Daily_Miri_(2024).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-1.webp
+    alt: 槟城华文日报《光华日报》早期的头版，以中文与英文标题刊印，与其他陈旧华文报页陈列在一起
+    kind: actual
+    origin: third-party
+    subject: 马来西亚历史最悠久的华文日报《光华日报》头版（槟城）
+    credit: Gzdavidwong / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwong_Wah_Yit_Po.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-2.webp
+    alt: 新山一处《南洋商报》办事处，店面上方以绿色中文字与罗马字母标示报名
+    kind: actual
+    origin: third-party
+    subject: 挂有报头招牌的《南洋商报》办事处，新山
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nanyang_Siang_Pau.jpg
 ---
 
 清晨的茶餐室里，一份摊开的华文报常常和一杯咖啡摆在一起。读者翻过头版的国内外大事，往往径直走向自己最熟悉的版面——有人先看地方新闻里哪所华小又办了义卖，有人先翻副刊和言论版，也有人只为了讣告、分类广告和马票。对许多马来西亚华人而言，华文报不只是新闻，更是一种每天都在进行的中文阅读习惯。

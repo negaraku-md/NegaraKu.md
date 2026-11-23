@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ko"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "48f4e6165d3f9202"
+sourceContentHash: "480d50bf66cae13c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -77,6 +77,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-1.webp
+    alt: 푸른 하늘을 배경으로 금박과 타일로 화려하게 장식된 태국 불교 사원의 정면과 지붕(페낭)
+    kind: actual
+    origin: third-party
+    subject: 왓 차이야 망칼라람, 페낭 조지타운에 있는 태국 상좌부 불교 사원
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Wat-Chaiya-Mangkalaram-Temple-01.jpg
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-2.webp
+    alt: 노랑, 흰색, 분홍 국화에 둘러싸인 좌불상이 웨삭 축제 수레 위에 모셔져 있다
+    kind: actual
+    origin: third-party
+    subject: 크다주 알로르스타르의 왓 니크로다람 웨삭(Wesak)절 수레에 꽃으로 장식된 불상
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg
 ---
 
 페낭의 언덕 위에서 극락사(極樂寺)의 탑 그림자가 조지타운을 내려다보고, 쿠알라룸푸르

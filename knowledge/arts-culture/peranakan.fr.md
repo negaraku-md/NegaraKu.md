@@ -19,7 +19,7 @@ keyTakeaways:
   - "Le kebaya, central dans le costume nyonya, a été inscrit sur la liste du patrimoine immatériel de l'UNESCO en 2024 dans une candidature conjointe du Brunei, de l'Indonésie, de la Malaisie, de Singapour et de la Thaïlande"
 appliesTo: "Toute personne cherchant un aperçu factuel et respectueux de qui sont les Peranakan (baba-nyonya) et de la manière de reconnaître leur cuisine, leur costume et leur patrimoine matériel à Melaka et à Penang."
 lang: "fr"
-sourceContentHash: "b8424f95164f1085"
+sourceContentHash: "c1d45c3d697ac014"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -69,6 +69,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Baba_Nyonya_Heritage_Museum_-_Reception_Hall.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/peranakan/body-1.webp
+    alt: La façade supérieure d'une maison-boutique Peranakan à Malacca, avec des volets à lamelles turquoise cintrés, des reliefs moulés et une bande de carreaux émaillés.
+    kind: actual
+    origin: third-party
+    subject: Façade de maison-boutique de style Peranakan, Malacca
+    credit: P. Hughes / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_-_traditional_Peranakan-style_shophouse.jpg
+  - role: scene
+    src: /media/arts-culture/peranakan/body-2.webp
+    alt: Un bol à thé en porcelaine Peranakan et son couvercle, peints de pivoines roses et de phénix sur fond blanc, exposés dans une vitrine.
+    kind: representative
+    origin: third-party
+    subject: Porcelaine à thé Peranakan (nyonyaware) à motifs floraux et d'oiseaux
+    credit: Gniam Jin Hong / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peranakan_tea_porcelain_with_floral_and_birds_motifs.jpg
 ---
 
 Entrez dans une vieille maison de ville de la rue Heeren à Melaka et l'histoire se raconte en objets avant que quiconque ne dise un mot. Un chemisier de dentelle ajusté, épinglé sur le devant par une broche en or en trois pièces. Une paire de pantoufles dont les bouts sont couverts de milliers de minuscules perles de verre, chacune cousue à la main. Une longue table à plateau de marbre dressée pour un repas qui n'est ni tout à fait chinois ni tout à fait malais. Tout cela appartient aux Peranakan — les baba-nyonya —, une communauté qui a fait une culture du fait de vivre entre deux mondes.

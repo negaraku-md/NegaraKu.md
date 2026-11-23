@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "ffa309d9ae04f20d"
+sourceContentHash: "cbcbfec907d9ad67"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-1.webp
+    alt: The ornate facade of the Johor Bahru Old Chinese Temple, with dragon roof sculptures, ceramic reliefs and red lanterns at the entrance.
+    kind: actual
+    origin: third-party
+    subject: The Johor Bahru Old Chinese Temple, a Chinese folk-religion temple
+    credit: Ralff Nestor Nacor / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Ancient_Temple,_Malaysia_(2).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-2.webp
+    alt: Clusters of lit joss sticks sending up smoke before the Goddess of Mercy Temple in George Town, Penang, a long-established Chinese place of worship.
+    kind: actual
+    origin: third-party
+    subject: Burning joss sticks at the Goddess of Mercy Temple, George Town, Penang
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_092_-_Penang_-_burning_incense_at_the_Goddess_of_Mercy_Temple_(3923018968).jpg
 ---
 
 Step into any Chinese temple in Malaysia and you will likely find Buddhist, Taoist

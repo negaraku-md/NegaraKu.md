@@ -36,7 +36,7 @@ socialTitle: "Comment l'alphabet latin est devenu l'écriture officielle du mala
 lang: "fr"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d7c1f7cd753500f4"
+sourceContentHash: "319660fc21be5b70"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/rumi-script/body-1.webp
+    alt: Un panneau bleu de nom de rue indiquant « Jalan Pasir Puteh » en lettres latines Rumi, sous le même nom en écriture Jawi, au bord d'une route au Kelantan.
+    kind: actual
+    origin: third-party
+    subject: Panneau bilingue de nom de rue en Jawi et en Rumi, Kelantan
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG
+  - role: scene
+    src: /media/arts-culture/rumi-script/body-2.webp
+    alt: Un panneau routier malaisien vert indiquant « Persiaran Greentown 4C, Poskod 30450 Ipoh » en graphie malaise latine (Rumi).
+    kind: actual
+    origin: third-party
+    subject: Panneau de nom de voie en malais en écriture Rumi, Ipoh
+    credit: Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malay_signboard_with_English_location_name_in_Ipoh.jpg
 ---
 
 Lorsque nous lisons un mot malais aujourd'hui — sur un panneau routier, dans un journal, sur l'écran d'un téléphone — nous le lisons dans les mêmes lettres que l'alphabet anglais : a, b, c, d et ainsi de suite. Cette écriture est appelée l'écriture Rumi. Elle est si habituelle que beaucoup ne se rendent pas compte que le Rumi n'est pas l'écriture d'origine du malais, et que sa forme soignée et uniforme d'aujourd'hui est le fruit d'un effort d'uniformisation qui a pris plus de cent ans.

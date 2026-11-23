@@ -37,7 +37,7 @@ socialTitle: "谁是原住民（Orang Asli）——三大族群、18个支系，
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "22c8505f8289ae57"
+sourceContentHash: "461e1709110699f4"
 
 status: "published"
 aiAssisted: true
@@ -101,6 +101,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Welcome_to_Kampung_Orang_Asli_Lubuk_Legong_village_mural_in_front_of_the_school_building.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-1.webp
+    alt: 一名玛美里（Mah Meri）表演者戴着雕刻的木制祖灵面具、身着褶状棕榈叶服饰，在吉隆坡一场露天文化展演中为观众表演 Mayin Jo'oh 舞
+    kind: actual
+    origin: third-party
+    subject: 玛美里（Mah Meri）Mayin Jo'oh 面具舞，在吉隆坡一场文化展演中演出
+    credit: Qhairy / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mayin_Jo%E2%80%99oh_Mah_Meri_Masked_Dance_by_Tompoq_Topoh_22.jpg
+  - role: scene
+    src: /media/arts-culture/orang-asli/body-2.webp
+    alt: 吉隆坡原住民手工艺博物馆的入口，招牌旁立着一尊高大的雕木原住民（Orang Asli）雕像，四周绿意环绕
+    kind: actual
+    origin: third-party
+    subject: 原住民手工艺博物馆（Muzium Seni Kraf Orang Asli），吉隆坡
+    credit: Renek78 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Muzium_Seni_Kraf_Orang_Asli.jpg
 ---
 
 早在「马来西亚」这个名字出现在地图上之前，就已经有族群居住在半岛的森林、高地与沿海地带。今天，他们统称为「原住民」（Orang Asli）——这个马来语词汇的意思是「最初的人」或「原始居民」。

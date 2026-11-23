@@ -32,7 +32,7 @@ seoTitle: "मलेशिया में तमिल: बोलने वा�
 socialTitle: "मलेशिया में तमिल कैसे बोली, पढ़ाई और संरक्षित की जाती है"
 
 lang: "hi"
-sourceContentHash: "1bdf48a0219ea1f5"
+sourceContentHash: "9d8e74703093b827"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -96,6 +96,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-1.webp
+    alt: एक लाल-सफ़ेद मलेशियाई 'प्रवेश निषेध' चिन्ह, जिस पर 'Dilarang Masuk' लिखा है और वही चेतावनी अंग्रेज़ी, चीनी, पंजाबी में तथा सबसे नीचे की पंक्ति में तमिल लिपि में है।
+    kind: actual
+    origin: third-party
+    subject: तमिल-लिपि की एक पंक्ति वाला बहुभाषी मलेशियाई चिन्ह, कोटा किनाबालु
+    credit: SSYoung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:%22No_Admittance%22_sign_in_five_languages_in_Kota_Kinabalu,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-2.webp
+    alt: केदाह के चांगलुन में एक तमिल-माध्यम प्राथमिक विद्यालय का खुला कक्षा-खंड, जिसके दरवाज़ों और छत की कगार पर एक उज्ज्वल आकाश के नीचे मलेशियाई झंडे लटके हैं।
+    kind: actual
+    origin: third-party
+    subject: एक तमिल राष्ट्रीय-प्रकार प्राथमिक विद्यालय का कक्षा-खंड, चांगलुन, केदाह
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom2(1).jpg
 ---
 
 मलाया के पुराने रबड़ एस्टेटों में, कुछ सबसे आरंभिक कक्षाएँ छप्पर और झोपड़ियाँ थीं, और पाठ तमिल में होते थे। मलेशियाई ऐतिहासिक संघ की पत्रिका में प्रकाशित एक ऐतिहासिक अध्ययन के अनुसार, बीसवीं सदी के आरंभ से बागानों पर तमिल में एक बुनियादी प्राथमिक शिक्षा प्रदान की जाती थी, जो उस समय के श्रम-संहिताओं के अंतर्गत उपलब्ध कराई जाती थी और, एक लंबे समय तक, प्रशिक्षित शिक्षकों के बजाय लिपिकों और अंशकालिक कर्मियों द्वारा पढ़ाई जाती थी।

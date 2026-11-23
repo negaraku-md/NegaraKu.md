@@ -36,7 +36,7 @@ socialTitle: "Bagaimana abjad Latin menjadi tulisan resmi bahasa Melayu — kisa
 lang: "id"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d7c1f7cd753500f4"
+sourceContentHash: "319660fc21be5b70"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -86,6 +86,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/rumi-script/body-1.webp
+    alt: Sebuah papan nama jalan biru bertuliskan 'Jalan Pasir Puteh' dalam huruf Latin Rumi di bawah nama yang sama beraksara Jawi, di tepi sebuah jalan di Kelantan.
+    kind: actual
+    origin: third-party
+    subject: Papan nama jalan dwibahasa Jawi dan Rumi, Kelantan
+    credit: Kerina yin / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Papan_tanda_nama_jalan_dalam_tulisan_Jawi_dan_Rumi.JPG
+  - role: scene
+    src: /media/arts-culture/rumi-script/body-2.webp
+    alt: Sebuah papan nama jalan Malaysia berwarna hijau bertuliskan 'Persiaran Greentown 4C, Poskod 30450 Ipoh' dalam huruf Melayu Latin (Rumi).
+    kind: actual
+    origin: third-party
+    subject: Papan nama jalan Melayu beraksara Rumi, Ipoh
+    credit: Mohd Fazlin Mohd Effendy Ooi / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malay_signboard_with_English_location_name_in_Ipoh.jpg
 ---
 
 Ketika kita membaca kata Melayu saat ini — pada papan tanda jalan, dalam surat kabar, pada layar telepon — kita membacanya dalam huruf yang sama dengan abjad Inggris: a, b, c, d, dan seterusnya. Tulisan itu disebut tulisan Rumi. Ia begitu lazim sehingga banyak orang tidak sadar bahwa Rumi bukanlah tulisan asli bahasa Melayu, dan bahwa bentuknya yang rapi dan seragam saat ini adalah hasil upaya penyeragaman yang memakan waktu lebih dari seratus tahun.

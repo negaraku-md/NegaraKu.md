@@ -33,7 +33,7 @@ faq:
     a: "En línea con la tendencia mundial del sector periodístico, la circulación en papel de la prensa china de Malasia ha disminuido en general en las últimas dos décadas, y los lectores —sobre todo las generaciones más jóvenes— obtienen cada vez más las noticias a través del teléfono móvil e internet. Por ello los periódicos han desarrollado plataformas digitales como sitios web de noticias, ediciones electrónicas y aplicaciones móviles, y parte de los contenidos también se difunde en las redes sociales. Si el papel desaparecerá por completo, y cuándo, sigue siendo incierto, y este artículo no hace ninguna predicción."
 
 lang: "es"
-sourceContentHash: "ba3edfb9eefffbdb"
+sourceContentHash: "b0d960a64daed408"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sin_Chew_Daily_Miri_(2024).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-1.webp
+    alt: Una de las primeras portadas del diario chino de Penang Kwong Wah Yit Poh, encabezada con caracteres chinos e inglés, dispuesta entre otras páginas antiguas de periódicos chinos.
+    kind: actual
+    origin: third-party
+    subject: Portada de Kwong Wah Yit Poh, el diario en lengua china más antiguo de Malasia (Penang)
+    credit: Gzdavidwong / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kwong_Wah_Yit_Po.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-language-press/body-2.webp
+    alt: Una oficina de Nanyang Siang Pau en Johor Bahru, cuya fachada luce el nombre del periódico en caracteres chinos verdes y letras latinas sobre un local comercial.
+    kind: actual
+    origin: third-party
+    subject: Oficina del periódico Nanyang Siang Pau con el rótulo de su cabecera, Johor Bahru
+    credit: Chongkian / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nanyang_Siang_Pau.jpg
 ---
 
 En el kopitiam (cafetería) de primera hora de la mañana, un periódico chino desplegado suele estar junto a una taza de café. El lector pasa las grandes noticias nacionales e internacionales de la portada y, por lo general, se dirige directamente a las páginas que mejor conoce: unos miran primero, en las noticias locales, qué escuela primaria china ha organizado otra feria benéfica; otros hojean el suplemento literario y la página de opinión; y otros solo buscan las esquelas, los anuncios por palabras y los resultados de la lotería. Para muchos chinos de Malasia, el periódico chino no es solo noticia, sino también un hábito diario de lectura en chino.

@@ -36,7 +36,7 @@ socialTitle: "La poesía oral más antigua del pueblo malayo — la historia del
 lang: "es"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "038f73b231155ba9"
+sourceContentHash: "1f1ce01aeea4925b"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dikir_Barat_with_family.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/pantun/body-1.webp
+    alt: Marionetas de sombras de cuero minuciosamente talladas que representan figuras míticas proyectan nítidas siluetas sobre una pantalla iluminada durante una representación de wayang kulit kelantan-patani.
+    kind: actual
+    origin: third-party
+    subject: Teatro de sombras wayang kulit de estilo kelantan-patani
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wayang_Kulit_Kelantan-Patani.jpg
+  - role: scene
+    src: /media/arts-culture/pantun/body-2.webp
+    alt: Un conjunto de gamelan malayo profusamente tallado, de gongs de bronce, gongs-caldera y metalófonos de madera, expuesto en el Museo de la Música de Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Conjunto de gamelan malayo en el Museo de la Música, Kuala Lumpur
+    credit: The Bangsawan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Gamelan_Melayu_Muzium_Muzik.jpg
 ---
 
 > Pisang emas dibawa belayar,

@@ -32,7 +32,7 @@ faq:
   - q: "나바라트리는 타밀인만 기리나요?"
     a: "아닙니다. 골루와 사라스와티/아유다 푸자는 남인도-타밀 전통에서 두드러지지만, 말레이시아의 구자라트·북인도 공동체는 가르바와 단디야 춤으로 나바라트리를 기리고, 벵골 공동체는 두르가 푸자를 엽니다. 공동체마다 관습이 다릅니다."
 lang: "ko"
-sourceContentHash: "4de698b1470bf32c"
+sourceContentHash: "dae52d8e596d9c8f"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Navratri_Golu_-_Dashavatara.JPG'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/navaratri/body-1.webp
+    alt: 선명한 색의 전통 의상을 입은 무용수들이 활기찬 나바라트리 가르바 춤에서 원을 이루며 춤춘다
+    kind: representative
+    origin: third-party
+    subject: 나바라트리(Navaratri) 기간에 추는 가르바 민속춤, 이 축제를 대표하는 공동체 축제 중 하나
+    credit: Saurabh sirohiya (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lively_Navratri_Garba_dance_performances.jpg
+  - role: scene
+    src: /media/arts-culture/navaratri/body-2.webp
+    alt: 나바라트리 골루 축제 인형 전시의 계단에 작은 장식용 새와 인물 인형들이 정성스레 놓여 있다
+    kind: representative
+    origin: third-party
+    subject: 나바라트리 골루(kolu) 축제 인형 전시에 놓인 작은 인형들의 근접 모습
+    credit: GoDakshin / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Birds_in_a_Golu_display_over_Hindu_Navaratri_festival_Kolu_dolls.jpg
 ---
 
 나바라트리 기간이면, 말레이시아의 한 타밀 힌두교 가정 거실에서는 한쪽 벽을 따라 홀수 단의 계단식 단이 세워진다. 천으로 덮인 그 단 위에는 신상과, 신화의 장면을 담은 인형들이 줄지어 놓인다. 저녁이 되면 친지와 이웃이 **골루**를 보러 찾아오고, 노랫소리가 울려 퍼지며, 돌아가는 손님에게는 탐불람과 단것이 건네진다. 이는 하루짜리 행사가 아니라 — 아홉 밤에 걸쳐 이어지는 축제의 표지다.

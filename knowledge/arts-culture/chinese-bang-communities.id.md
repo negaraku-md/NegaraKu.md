@@ -33,7 +33,7 @@ faq:
     a: "Batas-batas antar-bang jelas telah memudar. Dengan perkawinan campur lintas-bang, urbanisasi, serta bahasa Mandarin yang menjadi bahasa bersama lintas-dialek melalui pendidikan bahasa Tionghoa, kesadaran generasi muda akan asal usul leluhur umumnya lebih lemah daripada leluhur mereka. Namun bang tidak lenyap sepenuhnya: perkumpulan marga, perkumpulan sekampung, rumah abu, dan permakaman di seluruh negeri masih beroperasi, banyak orang masih mengetahui asal usul leluhurnya, dan pengaruhnya masih tampak pada kesempatan seperti Qingming (menyapu makam). Bang berangsur beralih dari 'tulang punggung yang mengorganisasi masyarakat' menjadi 'kenangan budaya dan sejarah'."
 
 lang: "id"
-sourceContentHash: "5650e666f12a2927"
+sourceContentHash: "10ca23f6290e2d4a"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-1.webp
+    alt: Sebuah bangunan ruko pra-perang berwarna kuning dan merah yang menampung sebuah perkumpulan marga Hokkien di sebuah jalan utama Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Gedung Perkumpulan Hokkien Selangor (perkumpulan marga dialek Hokkien) di Jalan Hang Lekiu, Kuala Lumpur
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Selangor_Hokkien_Association_Building,_Jalan_Hang_Lekiu,_central_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-2.webp
+    alt: Sebuah ruko Neoklasik tiga lantai yang berhias, yang dahulu menampung sebuah perkumpulan marga Hakka di pusat kota Seremban
+    kind: actual
+    origin: third-party
+    subject: Bekas gedung Perkumpulan Fui Chiu (Hakka Huizhou), sebuah rumah marga dialek Hakka di Seremban
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fui_Chiu_Association_Building,_Seremban.jpg
 ---
 
 Di jalan-jalan lama Penang, toko-toko yang menopang satu deretan muka kedai sepenuhnya kebanyakan adalah usaha milik orang Hokkien; di kota-kota yang bangkit karena timah seperti Kuala Lumpur dan Ipoh, tambang dan perkumpulan usaha dipadati orang Kanton dan Hakka; dan ke kota mana pun Anda masuki, kedai kopi lama yang menjual kopi Hainan serta roti bakar dengan mentega dan kaya itu, di balik mejanya sering berdiri seorang Hainan.

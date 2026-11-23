@@ -36,7 +36,7 @@ socialTitle: "How Bahasa Melayu became the national language — and moved from 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "ac6472952bdfcbbb"
+sourceContentHash: "1fc94a71a343c3e0"
 
 status: "published"
 aiAssisted: true
@@ -102,6 +102,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka_building,_Malaysia_(DSCF0833).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-1.webp
+    alt: A hanging sign reading 'Malay Books' above tables piled with Malay-language paperbacks as shoppers browse at a Malaysian book fair
+    kind: actual
+    origin: third-party
+    subject: The Malay-language books section at a book fair in Malaysia
+    credit: Uniku Putra / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BBWBooks_Malay_Book_2012.JPG
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-2.webp
+    alt: An aged, open handwritten manuscript in Jawi script displayed on a stand in a glass case
+    kind: actual
+    origin: third-party
+    subject: An open Malay-language manuscript in Jawi script (the Hukum Kanun Melaka legal digest), Malaysia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 In Kuala Berang, Terengganu, a stone inscription was found bearing Malay words — not in the letters we know today, but in Arabic script adapted for Malay sounds. According to Arkib Negara Malaysia (the National Archives of Malaysia), the inscription is dated 1303 CE.

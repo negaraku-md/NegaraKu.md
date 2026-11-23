@@ -36,7 +36,7 @@ socialTitle: "Sejarah Melayu முதல் தேசிய இலக்கி�
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "106c6c9a2b36cbbd"
+sourceContentHash: "4bae3e712b485a1f"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -87,6 +87,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_%E2%80%98The_Crown_of_Kings%E2%80%99,_a_Malay_%E2%80%98mirror_for_princes%E2%80%99.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malay-literature/body-1.webp
+    alt: கெடாவின் தொன்மையான நாளாகமமான ஹிகாயாத் மெரோங் மகாவாங்சாவின் ஒரு ஜாவி கையெழுத்துப் பிரதியின் தொடக்கப் பக்கம், கோடிட்ட சட்டகத்திற்குள் அரபி எழுத்தில் ஒழுகும் மலாய் மொழியில் எழுதப்பட்டுள்ளது.
+    kind: actual
+    origin: third-party
+    subject: ஹிகாயாத் மெரோங் மகாவாங்சாவின் (கெடா நாளாகமம்) தொடக்க ஜாவி பக்கம்
+    credit: Unknown author (R. J. Wilkinson lithograph, 1898) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hkyt_merong_mahawgsa.jpg
+  - role: scene
+    src: /media/arts-culture/malay-literature/body-2.webp
+    alt: பாஞ்சி கதைகளைச் சேர்ந்த ஒரு தொன்மையான மலாய் காதல் காப்பியமான சையர் கென் தம்புஹானின் ஒரு கையெழுத்துப் பிரதியைத் தொடங்கும் தங்கம், சிவப்பு, கறுப்பு ஒளியலங்காரத் தலைப்பு.
+    kind: representative
+    origin: third-party
+    subject: மலாய் காதல் காப்பியமான சையர் கென் தம்புஹான் கையெழுத்துப் பிரதியின் ஒளியலங்காரத் தலைப்பு
+    credit: Unknown author (Leiden University Library) / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Decoration_1_Syair_Ken_Tambuhan_Or._1965_(page_9_crop).jpg
 ---
 
 ஒரு பழைய கையெழுத்துப் படியில், மலாக்கா அரசர்களின் கதை, Hang Tuah-வின் பயணம், மற்றும் ஒரு பேரரசின் வீழ்ச்சி பொறிக்கப்பட்டுள்ளன — வறண்ட வரலாற்றுக் குறிப்பாக அல்ல, மாறாக பாத்திரம், உரையாடல் மற்றும் இலக்கியத்துடன் உயிர்ப்புள்ள கதையாக. அந்தக் கையெழுத்துப் படி, *Sejarah Melayu* அல்லது *Sulalatus Salatin*, மலாய் மொழி எழுத்து மரபு எவ்வளவு நீண்டதும் வளமானதும் என்பதை நிரூபிக்கும் மிகப் பழமையான படைப்புகளில் ஒன்று.

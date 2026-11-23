@@ -33,7 +33,7 @@ faq:
 
 lang: "fr"
 translationStatus: "in-sync"
-sourceContentHash: "2ef3b91f644f0acc"
+sourceContentHash: "acfaf78b01fd9c6b"
 masterLanguage: "en"
 
 status: "published"
@@ -104,6 +104,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-1.webp
+    alt: Des invités en batik et baju kurung sourient et se serrent la main en signe de salutation sur le pas de la porte d'une journée portes ouvertes de Hari Raya Aidilfitri.
+    kind: representative
+    origin: third-party
+    subject: Des invités saluant leurs hôtes lors d'une journée portes ouvertes de Hari Raya Aidilfitri
+    credit: Embassy of the Republic of Indonesia, Bandar Seri Begawan / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indonesian_Embassy_host_Aidilfitri_Open_House_02.jpg
+  - role: scene
+    src: /media/arts-culture/visiting-a-malaysian-open-house/body-2.webp
+    alt: Un ensemble d'étuis de riz ketupat tressés en feuilles de palmier et liés ensemble, un incontournable de l'hospitalité malaisienne des portes ouvertes de Hari Raya.
+    kind: actual
+    origin: third-party
+    subject: Gâteaux de riz ketupat tressés pour Hari Raya
+    credit: Miss Izzah / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ketupat_Nasi.jpg
 ---
 
 Vous avez été invité à un *rumah terbuka* — une maison ouverte. C'est peut-être

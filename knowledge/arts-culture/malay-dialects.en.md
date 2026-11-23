@@ -36,7 +36,7 @@ socialTitle: "The Kelantan vernacular, northern dialects, Sarawak Malay — the 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "5b24bf4ffc138470"
+sourceContentHash: "b41043538f8f4aad"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -84,6 +84,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Pahang_House1.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malay-dialects/body-1.webp
+    alt: Rumah Warisan Haji Su, a pair of traditional timber Malay houses in the east-coast style of Kuala Terengganu.
+    kind: actual
+    origin: third-party
+    subject: Traditional Terengganu Malay houses (Rumah Warisan Haji Su), Kuala Terengganu
+    credit: Fikku fiq / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Rumah_Warisan_Haji_Su,_Kuala_Terengganu.jpg
+  - role: scene
+    src: /media/arts-culture/malay-dialects/body-2.webp
+    alt: Traditional Negeri Sembilan houses with upswept Minangkabau-style roofs, displayed at the state museum grounds in Seremban.
+    kind: actual
+    origin: third-party
+    subject: Minangkabau-style Negeri Sembilan traditional houses at the State Museum, Seremban
+    credit: Ardzun / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Negeri_Sembilan_Traditional_Houses_in_Muzium_Negeri.jpg
 ---
 
 A speaker from Kota Bharu, one from Alor Setar and one from Kuching might all say they speak Malay — but when they chat casually in their respective villages, the sound can be so different that it takes a little adjustment to understand one another. It is this difference that is called a dialect, or in everyday language, loghat.

@@ -26,7 +26,7 @@ appliesTo: "वे सभी जो मलेशिया में ईसाई
 lang: "hi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7bc376bb0aba475a"
+sourceContentHash: "81025b6c8ff0a5c4"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-1.webp
+    alt: कुआलालंपुर में मर्डेका चौक के पास सफ़ेद गॉथिक-रिवाइवल सेंट मैरी कैथेड्रल, एक एंग्लिकन गिरजाघर।
+    kind: actual
+    origin: third-party
+    subject: सेंट मैरी एंग्लिकन कैथेड्रल, कुआलालंपुर
+    credit: Flaming Ferrari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St._Mary's_Cathedral,_Kuala_Lumpur.JPG
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-2.webp
+    alt: सबा के तावाउ में आधुनिक होली ट्रिनिटी कैथोलिक चर्च, जो पूर्वी मलेशिया के ईसाई समुदायों का प्रतिनिधित्व करता है।
+    kind: actual
+    origin: third-party
+    subject: होली ट्रिनिटी कैथोलिक चर्च, तावाउ, सबा
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Holy-Trinity-Catholic-Church-01.jpg
 ---
 
 मलेशिया की ईसाई कहानी के दो गुरुत्व-केंद्र हैं, और इनमें से कोई भी राजधानी में

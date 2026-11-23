@@ -26,7 +26,7 @@ appliesTo: "マレーシアのキリスト教——その人口、どこに集�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7bc376bb0aba475a"
+sourceContentHash: "81025b6c8ff0a5c4"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-1.webp
+    alt: クアラルンプールのムルデカ広場の傍らに建つ、白いゴシック・リバイバル様式の聖マリア座堂（聖公会の教会）
+    kind: actual
+    origin: third-party
+    subject: 聖マリア聖公会座堂、クアラルンプール
+    credit: Flaming Ferrari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St._Mary's_Cathedral,_Kuala_Lumpur.JPG
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-2.webp
+    alt: サバ州タワウにある現代的な聖三位一体カトリック教会。東マレーシアのキリスト教徒社会を象徴する
+    kind: actual
+    origin: third-party
+    subject: 聖三位一体カトリック教会、サバ州タワウ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Holy-Trinity-Catholic-Church-01.jpg
 ---
 
 マレーシアのキリスト教の物語には二つの重心があり、そのどちらも首都にはない。

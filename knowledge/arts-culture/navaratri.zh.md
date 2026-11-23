@@ -32,7 +32,7 @@ faq:
   - q: "九夜节只有泰米尔人庆祝吗？"
     a: "不是。尽管 Golu 与辩才天女祭／器具祭在南印度—泰米尔传统中最为突出，马来西亚的古吉拉特与北印度社群以 Garba 与 Dandiya 舞来庆祝九夜节，孟加拉社群则举办难近母祭。每个社群的做法各不相同。"
 lang: "zh"
-sourceContentHash: "4de698b1470bf32c"
+sourceContentHash: "dae52d8e596d9c8f"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Navratri_Golu_-_Dashavatara.JPG'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/navaratri/body-1.webp
+    alt: 舞者身着色彩鲜艳的传统服饰，在欢快的九夜节 Garba 舞中围成圆圈起舞
+    kind: representative
+    origin: third-party
+    subject: 九夜节（Navaratri）期间表演的 Garba 民间舞蹈，是这一节庆标志性的集体庆祝活动之一
+    credit: Saurabh sirohiya (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lively_Navratri_Garba_dance_performances.jpg
+  - role: scene
+    src: /media/arts-culture/navaratri/body-2.webp
+    alt: 九夜节 golu 节庆玩偶陈列的阶梯上，精心摆放着小巧的装饰性鸟形与人形玩偶
+    kind: representative
+    origin: third-party
+    subject: 九夜节 golu（kolu）节庆玩偶陈列上摆放的小塑像特写
+    credit: GoDakshin / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Birds_in_a_Golu_display_over_Hindu_Navaratri_festival_Kolu_dolls.jpg
 ---
 
 九夜节期间，在马来西亚一户泰米尔印度教家庭的客厅里，会沿着一面侧墙搭起单数层的阶台。在那铺着布的阶台上，神像与讲述神话场景的娃娃一排排摆放其上。到了傍晚，亲友与左邻右舍前来观赏这座 **Golu**；歌声响起；离去的宾客会获赠 thamboolam 与甜点。这不是一日之事——而是一个绵延九夜的节庆的标志。

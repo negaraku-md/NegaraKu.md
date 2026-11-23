@@ -33,7 +33,7 @@ faq:
     a: "Ranh giới giữa các bang rõ ràng đã mờ đi. Với hôn nhân khác bang, đô thị hóa, và tiếng Hoa phổ thông trở thành ngôn ngữ chung xuyên phương ngữ qua giáo dục tiếng Hoa, ý thức về nguồn gốc tổ tiên ở thế hệ trẻ phần lớn nhạt hơn so với ông bà họ. Nhưng bang chưa biến mất hoàn toàn: hội quán, hội đồng hương, từ đường và nghĩa trang khắp cả nước vẫn hoạt động, nhiều người vẫn biết rõ nguồn gốc tổ tiên của mình, và ảnh hưởng của bang vẫn thấy được trong những dịp như Thanh Minh (tảo mộ). Có thể nói bang đang dần chuyển từ 'bộ khung tổ chức xã hội' sang 'ký ức về văn hóa và lịch sử'."
 
 lang: "vi"
-sourceContentHash: "5650e666f12a2927"
+sourceContentHash: "10ca23f6290e2d4a"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -84,6 +84,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Khoo_Kongsi_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-1.webp
+    alt: Một tòa nhà phố cổ trước chiến tranh màu vàng và đỏ, nơi đặt một hội quán dòng họ Phúc Kiến trên một con phố trung tâm Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: Tòa nhà Hội quán Phúc Kiến Selangor (hội quán nhóm phương ngữ Phúc Kiến) trên đường Jalan Hang Lekiu, Kuala Lumpur
+    credit: Two hundred percent / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Selangor_Hokkien_Association_Building,_Jalan_Hang_Lekiu,_central_Kuala_Lumpur.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-bang-communities/body-2.webp
+    alt: Một tòa nhà phố Tân cổ điển ba tầng trang trí công phu, từng là nơi đặt một hội quán dòng họ Khách Gia ở trung tâm Seremban
+    kind: actual
+    origin: third-party
+    subject: Tòa nhà cũ của Hội quán Fui Chiu (Khách Gia Huệ Châu), một hội quán nhóm phương ngữ Khách Gia ở Seremban
+    credit: AyyanD / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fui_Chiu_Association_Building,_Seremban.jpg
 ---
 
 Trên những con phố cổ của Penang, các cửa hiệu nâng đỡ cả một dãy mặt tiền phần nhiều là cơ sở buôn bán của người Phúc Kiến; ở những đô thị hưng thịnh nhờ thiếc như Kuala Lumpur và Ipoh, hầm mỏ và phường hội chật ních người Quảng Phủ và Khách Gia; và bước vào bất cứ thị trấn nào, quán cà phê cũ bán cà phê Hải Nam cùng bánh mì nướng phết bơ và kaya ấy, phía sau quầy thường là một người Hải Nam.

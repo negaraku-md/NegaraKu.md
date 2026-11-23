@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "vi"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "ffa309d9ae04f20d"
+sourceContentHash: "cbcbfec907d9ad67"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-1.webp
+    alt: Mặt tiền lộng lẫy của Đền cổ người Hoa Johor Bahru, với tượng rồng trên mái, phù điêu gốm sứ và đèn lồng đỏ ở lối vào.
+    kind: actual
+    origin: third-party
+    subject: Đền cổ người Hoa Johor Bahru, một ngôi đền tín ngưỡng dân gian người Hoa
+    credit: Ralff Nestor Nacor / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Ancient_Temple,_Malaysia_(2).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-2.webp
+    alt: Những bó nhang đang cháy nghi ngút khói trước Đền Quán Âm ở George Town, Penang, một nơi thờ tự lâu đời của người Hoa.
+    kind: actual
+    origin: third-party
+    subject: Nhang đang cháy tại Đền Quán Âm, George Town, Penang
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_092_-_Penang_-_burning_incense_at_the_Goddess_of_Mercy_Temple_(3923018968).jpg
 ---
 
 Bước vào bất kỳ ngôi miếu người Hoa nào ở Malaysia, bạn rất có thể thấy Phật,

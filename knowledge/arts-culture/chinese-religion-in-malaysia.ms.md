@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "ffa309d9ae04f20d"
+sourceContentHash: "cbcbfec907d9ad67"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-1.webp
+    alt: Fasad indah Tokong Lama Cina Johor Bahru, dengan arca naga di bumbung, relief seramik dan tanglung merah di pintu masuk.
+    kind: actual
+    origin: third-party
+    subject: Tokong Lama Cina Johor Bahru, sebuah tokong agama rakyat Cina
+    credit: Ralff Nestor Nacor / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Ancient_Temple,_Malaysia_(2).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-2.webp
+    alt: Gugusan colok yang menyala mengepulkan asap di hadapan Tokong Dewi Kuan Yin di George Town, Pulau Pinang, sebuah rumah ibadat Cina yang lama tertegak.
+    kind: actual
+    origin: third-party
+    subject: Colok yang terbakar di Tokong Dewi Kuan Yin, George Town, Pulau Pinang
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_092_-_Penang_-_burning_incense_at_the_Goddess_of_Mercy_Temple_(3923018968).jpg
 ---
 
 Apabila anda melangkah ke dalam mana-mana kuil Cina di Malaysia, besar

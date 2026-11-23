@@ -32,7 +32,7 @@ faq:
   - q: "'स्वामीये शरणम् अय्यप्पा' का क्या अर्थ है?"
     a: "यह अय्यप्पन उपासना का प्रमुख शरणागति-घोष है — एक वाक्य जिसका अर्थ है स्वयं को स्वामी के प्रति समर्पित करना, जिसे व्रती और तीर्थयात्री निरंतर दोहराते हैं। यह व्रत के दौरान, तीर्थयात्रा में और भजनों में गूँजता रहता है।"
 lang: "hi"
-sourceContentHash: "c0cc8aa15f42b7b0"
+sourceContentHash: "c3cfb1ea38600a5f"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penangayappantemple.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-1.webp
+    alt: काले वस्त्र और कपड़े से सिर ढके तीर्थयात्री, साबरीमला की तीर्थयात्रा पर जंगल की पगडंडी पर चलते हुए
+    kind: representative
+    origin: third-party
+    subject: साबरीमला मंदिर की ओर जंगल के रास्ते पर चलते काले वस्त्रधारी अय्यप्पन भक्त
+    credit: Shantham11 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pilgrims_trekking_on_the_path_through_forests_leading_to_Sabarimala_temple.jpg
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-2.webp
+    alt: देवता अय्यप्पा का रंगीन चूर्ण से बना एक बड़ा भूमि-चित्र, जलते पीतल के दीपों और फूलों की मालाओं से घिरा, पीछे एक बैठा ढोलवादक
+    kind: representative
+    origin: third-party
+    subject: पीतल के दीपों और एक ढोलवादक के साथ अय्यप्पन अनुष्ठानिक भूमि-चित्र (कलम), भगवान अय्यप्पा के लिए एक भक्ति परंपरा
+    credit: Sajith moothakurambu / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AYYAPPAN_THEYATTU.jpg
 ---
 
 वर्ष के अंतिम महीनों में मलेशिया के अनेक कस्बों में एक दृश्य दिखाई देता है: काले या नीले वस्त्र धारण किए, गले में रुद्राक्ष की माला पहने और दाढ़ी बढ़ाए हुए पुरुष एक-दूसरे को "स्वामी" कहकर संबोधित करते हैं। ये अय्यप्पन व्रती हैं — इनमें से अनेक केरल के सबरीमला जाने की तैयारी कर रहे हैं। यह लेख उस उपासना और व्रत परंपराओं का तटस्थ वर्णन करता है; यह किसी भी आस्था की न तो व्याख्या करता है और न ही मूल्यांकन।

@@ -31,7 +31,7 @@ faq:
     a: "प्राप्तकर्ताओं को एक राष्ट्रीय सम्मान-पत्र, RM60,000 नकद, RM500,000 तक मूल्य का प्रकाशन आवंटन (50,000 प्रतियों तक), सरकारी अस्पतालों में निःशुल्क प्रथम-श्रेणी-वार्ड चिकित्सा, और RM5,000 का मासिक भत्ता मिलता है।"
 
 lang: "hi"
-sourceContentHash: "c27d87b5dbf2077e"
+sourceContentHash: "baad7b6b6a245b8b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -80,6 +80,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-1.webp
+    alt: मलेशिया के अंतरराष्ट्रीय पुस्तक मेले में पुस्तकों से भरे प्रकाशकों के स्टॉलों की पंक्तियाँ देखते पाठकों की भीड़
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर अंतरराष्ट्रीय पुस्तक मेला (Pesta Buku Antarabangsa Kuala Lumpur) 2023 में स्टॉल देखते आगंतुक
+    credit: Wiki Farazi (Wikimedia Commons) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pesta_Buku_Antarabangsa_Kuala_Lumpur_2023_20230529_143928.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-2.webp
+    alt: कुआलालंपुर में मलेशिया के राष्ट्रीय पुस्तकालय की इमारत, जिसके ऊपर एक विशिष्ट नीली सोंगकेट-पैटर्न वाली छत है
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर में मलेशिया का राष्ट्रीय पुस्तकालय (Perpustakaan Negara Malaysia), जिसकी छत सोंगकेट से प्रेरित तंबूनुमा है
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_National-Library-of-Malaysia-02.jpg
 ---
 
 इससे पहले कि उपन्यास होते और इससे पहले कि कोई भाषा-परिषद होती, एक कथावाचक मलक्का के महल के आँगन में पहले से ही मलय नायकों को गढ़ रहा था। उसी मौखिक परंपरा से इस क्षेत्र की सबसे समृद्ध साहित्यिक विरासतों में से एक पनपी — एक ऐसी परंपरा जिसे आज एक राष्ट्रीय उपाधि, लाखों रिंगिट और राष्ट्र की सभ्यता में एक सम्मानित आसन के साथ सराहा जाता है।

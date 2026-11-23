@@ -34,7 +34,7 @@ seoTitle: "Bahasa Melayu: lengua nacional según el Artículo 152"
 socialTitle: "Cómo el bahasa melayu se convirtió en la lengua nacional — y pasó del jawi al rumi"
 
 lang: "es"
-sourceContentHash: "ac6472952bdfcbbb"
+sourceContentHash: "1fc94a71a343c3e0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -102,6 +102,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka_building,_Malaysia_(DSCF0833).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-1.webp
+    alt: Un cartel colgante que dice 'Libros en malayo' sobre mesas repletas de libros de bolsillo en lengua malaya, mientras los visitantes hojean en una feria del libro malasia
+    kind: actual
+    origin: third-party
+    subject: La sección de libros en lengua malaya en una feria del libro en Malasia
+    credit: Uniku Putra / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BBWBooks_Malay_Book_2012.JPG
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-2.webp
+    alt: Un antiguo manuscrito manuscrito abierto en escritura Jawi, expuesto sobre un atril dentro de una vitrina de cristal
+    kind: actual
+    origin: third-party
+    subject: Un manuscrito abierto en lengua malaya en escritura Jawi (el compendio jurídico Hukum Kanun Melaka), Malasia
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 En Kuala Berang, Terengganu, se halló una inscripción en piedra con palabras malayas — no en las letras que hoy conocemos, sino en escritura árabe adaptada a los sonidos del malayo. Según el Archivo Nacional de Malasia (Arkib Negara Malaysia), la inscripción está fechada en 1303 d. C.

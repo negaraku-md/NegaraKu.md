@@ -32,7 +32,7 @@ faq:
   - q: "新村はどのような今日的な課題に直面していますか？"
     a: "よくある課題には、土地保有（一部の区画は永久権ではなく一時占有許可／TOLや99年の借地権で保有されている）、人口の高齢化と若者の流出、老朽化した社会基盤などがあります。近年は、新村を文化遺産として登録し、壁画・食の散策路・村の歴史を通じてコミュニティを再活性化しようとする取り組みも現れています。"
 lang: "ja"
-sourceContentHash: "5a86ba6336d66776"
+sourceContentHash: "c33d9cd6d8fcceac"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Seri_Setia_3.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-villages/body-1.webp
+    alt: 華人新村ブロガへ至る道を示す装飾的な入口の牌楼（アーチ）。背後に丘陵が広がる
+    kind: actual
+    origin: third-party
+    subject: ブロガ新村の入口の牌楼、ヌグリ・スンビラン州
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Broga_1.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-villages/body-2.webp
+    alt: プタリン・ジャヤのスリ・スティア新村の街角。壁画と赤い旧正月の提灯や飾り付けが見られる
+    kind: actual
+    origin: third-party
+    subject: スリ・スティア新村の壁画と旧正月の飾り付け、スランゴール州プタリン・ジャヤ
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Setia_CNY2022_3.jpg
 ---
 
 今日のスメニー、カンパー、あるいはスキンチャン（Sekinchan）に足を踏み入れると、目に入るのはたいてい、ごくふつうの小さな町の風景です。軒を連ねるショップハウス、華文の小学校、寺廟や会館、通り沿いのコーヒーショップや雑貨店。けれど、こうした町の多くはひとつの共通した出自を分かち合っています——それらは「新村」なのです。一見なんの変哲もないこの呼び名の背後には、[マラヤ非常事態](/ja/malaysia/the-emergency)と対反乱、そして大規模な移住という歴史があります。

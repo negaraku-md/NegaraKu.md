@@ -32,7 +32,7 @@ faq:
   - q: "หมู่บ้านใหม่เผชิญประเด็นร่วมสมัยใดบ้าง?"
     a: "ประเด็นที่พบบ่อย ได้แก่ การถือครองที่ดิน (ที่ดินบางแปลงถือครองด้วยใบอนุญาตครอบครองชั่วคราว / TOL หรือโฉนดสิทธิการเช่า 99 ปี แทนที่จะเป็นกรรมสิทธิ์ถาวร) ประชากรสูงวัยและการย้ายออกของคนหนุ่มสาว รวมถึงโครงสร้างพื้นฐานที่เก่าแก่ ในช่วงไม่กี่ปีมานี้ยังมีความริเริ่มที่จะขึ้นทะเบียนหมู่บ้านใหม่เป็นมรดก และฟื้นฟูชุมชนผ่านภาพจิตรกรรมฝาผนัง เส้นทางอาหาร และประวัติหมู่บ้าน"
 lang: "th"
-sourceContentHash: "5a86ba6336d66776"
+sourceContentHash: "c33d9cd6d8fcceac"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Seri_Setia_3.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-villages/body-1.webp
+    alt: ซุ้มประตูทางเข้าประดับตกแต่งบอกทางเข้าหมู่บ้านใหม่ชาวจีนโบรกา โดยมีเนินเขาอยู่เบื้องหลัง
+    kind: actual
+    origin: third-party
+    subject: ซุ้มประตูทางเข้าหมู่บ้านใหม่โบรกา รัฐเนอเกอรีเซิมบีลัน
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Broga_1.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-villages/body-2.webp
+    alt: มุมถนนในหมู่บ้านใหม่เซอรีเซอเตียในเปอตาลิงจายา มีภาพจิตรกรรมฝาผนังและโคมแดงพร้อมเครื่องประดับตรุษจีน
+    kind: actual
+    origin: third-party
+    subject: ภาพจิตรกรรมฝาผนังและเครื่องประดับตรุษจีนในหมู่บ้านใหม่เซอรีเซอเตีย เปอตาลิงจายา รัฐสลังงอร์
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Setia_CNY2022_3.jpg
 ---
 
 เมื่อก้าวเข้าสู่เซอเมนเยะฮ์ (Semenyih) กัมปาร์ (Kampar) หรือเซอกินจัน (Sekinchan) ในวันนี้ สิ่งที่คุณเห็นส่วนใหญ่คือภาพของเมืองเล็ก ๆ ธรรมดา ตึกแถวเรียงราย โรงเรียนประถมภาษาจีน ศาลเจ้าและสมาคม ร้านกาแฟริมทางและร้านขายของชำ แต่หลายแห่งในที่เหล่านี้มีอัตลักษณ์ร่วมกันอย่างหนึ่ง นั่นคือเป็น "หมู่บ้านใหม่" เบื้องหลังชื่อที่ดูธรรมดานี้มีประวัติศาสตร์เกี่ยวกับ[ภาวะฉุกเฉินมลายา](/th/malaysia/the-emergency) การปราบปรามการก่อความไม่สงบ และการย้ายถิ่นครั้งใหญ่

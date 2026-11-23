@@ -79,6 +79,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_temple-Kuala_Lumpur_Malaysia.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-1.webp
+    alt: பேராக், ஈப்போவில் உள்ள கல்லுமலை முருகன் கோயிலின் அடுக்கடுக்கான, பிரகாசமாக வர்ணம் பூசப்பட்ட கோபுர கோபுரம், இந்து தெய்வங்களின் சிற்பங்களால் நிரம்பியுள்ளது.
+    kind: actual
+    origin: third-party
+    subject: பேராக், ஈப்போ, கல்லுமலை முருகன் கோயிலின் வண்ணமயமான கோபுரம்
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kallumalai_Murugan_Temple,_Ipoh,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-2.webp
+    alt: மலேசியாவின் முதன்மை இந்து பண்டிகையான தீபாவளிக்காக தரையில் இடப்பட்ட நுணுக்கமான, பிரகாசமான வண்ணக் கோலம்.
+    kind: actual
+    origin: third-party
+    subject: ஒரு தீபாவளி கோலம் (தரை அலங்காரம்), மலேசியா
+    credit: John Ragai / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg
 ---
 
 மலேசியாவின் எந்த நகரத்திலும் ஒரு பழைய ரப்பர்த் தோட்டத்தின் ஓரத்திலோ, நகர மையத்தின்

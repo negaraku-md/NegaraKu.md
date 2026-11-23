@@ -26,7 +26,7 @@ appliesTo: "Cualquiera que quiera comprender el cristianismo en Malasia: su demo
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7bc376bb0aba475a"
+sourceContentHash: "81025b6c8ff0a5c4"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:St._Paul%27s_Church_Malacca_2012.JPG'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-1.webp
+    alt: La catedral de Santa María, blanca y de estilo neogótico, una iglesia anglicana junto a la plaza Merdeka en Kuala Lumpur.
+    kind: actual
+    origin: third-party
+    subject: Catedral anglicana de Santa María, Kuala Lumpur
+    credit: Flaming Ferrari / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:St._Mary's_Cathedral,_Kuala_Lumpur.JPG
+  - role: scene
+    src: /media/arts-culture/christianity-in-malaysia/body-2.webp
+    alt: La moderna iglesia católica de la Santísima Trinidad en Tawau, Sabah, que representa a las comunidades cristianas de Malasia Oriental.
+    kind: actual
+    origin: third-party
+    subject: Iglesia católica de la Santísima Trinidad, Tawau, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Tawau_Sabah_Holy-Trinity-Catholic-Church-01.jpg
 ---
 
 La historia cristiana de Malasia tiene dos centros de gravedad, y ninguno está en

@@ -34,7 +34,7 @@ faq:
     a: "يُشار إليها كثيراً بـ«الموجة الماليزية الجديدة» (Malaysian New Wave)، وهي موجة من صنّاع الأفلام المستقلين في أوائل العقد الأول من الألفية. وصارت دا هوانغ بيكتشرز (Da Huang Pictures)، التي أسّسها عام 2004 تان تشوي موي (Tan Chui Mui) وأمير محمد (Amir Muhammad) وجيمس لي (James Lee) وليو سينغ تات (Liew Seng Tat)، إحدى مراكزها؛ وفاز فيلم تان الحب يقهر الجميع (Love Conquers All) بجائزتي نيو كارنتس (New Currents) والفيبريسي (FIPRESCI) في مهرجان بوسان السينمائي الدولي 2006 وجائزة التايغر (Tiger Award) في روتردام."
 
 lang: "ar"
-sourceContentHash: "defc3df96dc13355"
+sourceContentHash: "45a175545944f31c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -92,6 +92,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Rumah_Kelahiran_P._Ramlee.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-1.webp
+    alt: الواجهة الشارعية ولوحة الإعلانات لسينما Coliseum القديمة، وهي دار سينما ذات شاشة واحدة من حقبة ما قبل الحرب في وسط Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: سينما Coliseum التاريخية في Jalan Tuanku Abdul Rahman، Kuala Lumpur، إحدى أقدم دور السينما الباقية في ماليزيا
+    credit: Two hundred percent (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Coliseum_Cinema,_Kuala_Lumpur_(February_2007).jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-2.webp
+    alt: البهو شديد الإضاءة واللافتات لسينما متعددة الصالات معاصرة داخل مركز تسوّق في Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: مدخل سينما متعددة الصالات حديثة في Pavilion Bukit Bintang، Kuala Lumpur
+    credit: PulauKakatua19 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dadi_Cinema_Pavilion_Bukit_Bintang.jpg
 ---
 
 في عام 1955، جلس شابٌّ كان في السابق حامل لوحة الترقيم (clapper) ومساعد مصوّر في استوديو برقم 8 جالان أمباس (Jalan Ampas) بسنغافورة، على كرسي الإخراج للمرة الأولى وهو في السادسة والعشرين. وكان الفيلم *بيناريك بيتشا (Penarek Becha)*. واسمه ب. رملي (P. Ramlee). تبدأ قصة صناعة السينما الماليزية لا في كوالالمبور، بل في استوديو سنغافوري يملكه شقيقان من شنغهاي — ولم تتوقف عن الحركة منذ ذلك الحين.

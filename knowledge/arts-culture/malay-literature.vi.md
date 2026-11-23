@@ -36,7 +36,7 @@ socialTitle: "Từ Sejarah Melayu cho đến các Văn hào Quốc gia — câu 
 lang: "vi"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "106c6c9a2b36cbbd"
+sourceContentHash: "4bae3e712b485a1f"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -87,6 +87,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_%E2%80%98The_Crown_of_Kings%E2%80%99,_a_Malay_%E2%80%98mirror_for_princes%E2%80%99.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malay-literature/body-1.webp
+    alt: Trang mở đầu của một bản thảo chữ Jawi của Hikayat Merong Mahawangsa, biên niên sử cổ điển của Kedah, viết bằng tiếng Mã Lai chữ Ả Rập uyển chuyển trong khung kẻ ô.
+    kind: actual
+    origin: third-party
+    subject: Trang mở đầu chữ Jawi của Hikayat Merong Mahawangsa (Biên niên sử Kedah)
+    credit: Unknown author (R. J. Wilkinson lithograph, 1898) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hkyt_merong_mahawgsa.jpg
+  - role: scene
+    src: /media/arts-culture/malay-literature/body-2.webp
+    alt: Phần đầu trang trang trí vàng, đỏ và đen mở đầu một bản thảo của Syair Ken Tambuhan, một áng thơ tình cổ điển Mã Lai thuộc các truyện Panji.
+    kind: representative
+    origin: third-party
+    subject: Phần đầu trang trang trí của một bản thảo áng thơ tình Mã Lai Syair Ken Tambuhan
+    credit: Unknown author (Leiden University Library) / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Decoration_1_Syair_Ken_Tambuhan_Or._1965_(page_9_crop).jpg
 ---
 
 Trong một bản thảo cổ, khắc ghi câu chuyện về các vị vua của Melaka, hành trình của Hang Tuah, và sự sụp đổ của một đế chế — không phải như một ghi chép lịch sử khô khan, mà như một câu chuyện sống động với nhân vật, đối thoại và văn chương. Bản thảo đó, *Sejarah Melayu* hay *Sulalatus Salatin*, là một trong những tác phẩm sớm nhất chứng minh truyền thống chữ nghĩa của tiếng Mã Lai dài lâu và phong phú đến nhường nào.

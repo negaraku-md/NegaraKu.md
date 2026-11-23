@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "es"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "48f4e6165d3f9202"
+sourceContentHash: "480d50bf66cae13c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -77,6 +77,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-1.webp
+    alt: La fachada y los tejados dorados y revestidos de azulejos, profusamente ornamentados, de un templo budista tailandés contra un cielo azul en Penang
+    kind: actual
+    origin: third-party
+    subject: Wat Chaiya Mangkalaram, un templo budista Theravada tailandés en George Town, Penang
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Wat-Chaiya-Mangkalaram-Temple-01.jpg
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-2.webp
+    alt: Una estatua sedente de Buda rodeada de abundantes crisantemos amarillos, blancos y rosados en una carroza de la festividad de Wesak
+    kind: actual
+    origin: third-party
+    subject: Una imagen de Buda engalanada con flores en una carroza del Día de Wesak en Wat Nikrodharam, Alor Setar, Kedah
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg
 ---
 
 En las laderas de Penang, la silueta de las pagodas del templo Kek Lok Si domina

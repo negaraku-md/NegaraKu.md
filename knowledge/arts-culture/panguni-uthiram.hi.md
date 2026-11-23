@@ -30,7 +30,7 @@ faq:
   - q: "मलेशिया में पंगुनि उत्तिरम कहाँ बड़े पैमाने पर मनाया जाता है?"
     a: "पहांग के मारन स्थित श्री मारथांडवर बाला दंडायुधपानी मंदिर अपने सबसे भव्य उत्सवों में से एक के लिए जाना जाता है; सेलांगोर के कापार स्थित मुरुगन मंदिर में भी कावड़ी और रथ-जुलूस के साथ बड़ा उत्सव होता है। इनके अतिरिक्त, पूरे देश में अनेक मुरुगन और मारीअम्मन मंदिर अपने-अपने आकार में इस दिन को मनाते हैं। उत्सव का आकार और प्रथाएँ मंदिर-दर-मंदिर भिन्न होती हैं।"
 lang: "hi"
-sourceContentHash: "7f189b2da9dcb8fe"
+sourceContentHash: "b924d48206a28dc0"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Devotees_and_Musicians_with_Decorated_Kavadis_on_Procession_Street_at_Batu_Caves_(250211).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-1.webp
+    alt: एक पंगुनि मंदिर-रथ उत्सव के दौरान देवमूर्तियों को ले जाता एक विशाल, बारीकी से सजाया गया लकड़ी का मंदिर रथ एक भीड़भाड़ वाली सड़क से खींचा जाता हुआ।
+    kind: representative
+    origin: third-party
+    subject: पंगुनि उत्सव के दौरान मंदिर-रथ (ther) जुलूस, मायलापुर
+    credit: N. Vivekananthamoorthy / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Temple-Car-Festival-Mylapore-Chennai-India.jpg
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-2.webp
+    alt: एक पंगुनि उथिरम रथ उत्सव में भक्तों और पुजारियों के बीच दो ऊँचे, चटख रंगों में सजे मंदिर रथ अगल-बगल खड़े हैं।
+    kind: representative
+    origin: third-party
+    subject: एक पंगुनि उथिरम रथ उत्सव में सजे हुए मंदिर रथ
+    credit: Dharmaphotography / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perur_car_festival.jpg
 ---
 
 पंगुनि महीने में एक ऐसी रात आती है जब पूर्ण चंद्रमा आकाश को भर देता है।

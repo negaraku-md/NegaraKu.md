@@ -34,7 +34,7 @@ socialTitle: "淡米尔文在马来西亚如何被使用、教授与保护"
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1bdf48a0219ea1f5"
+sourceContentHash: "9d8e74703093b827"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -96,6 +96,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-1.webp
+    alt: 一块红白相间的马来西亚「禁止进入」标牌，以马来文写着「Dilarang Masuk」，并以英文、中文、旁遮普文书写同样的警示，最底一行为泰米尔文
+    kind: actual
+    origin: third-party
+    subject: 带有泰米尔文字一行的马来西亚多语标牌，哥打京那巴鲁
+    credit: SSYoung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:%22No_Admittance%22_sign_in_five_languages_in_Kota_Kinabalu,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-2.webp
+    alt: 吉打樟仑一所泰米尔文小学开放式的课室楼，门廊与屋檐在晴朗天空下挂满马来西亚国旗
+    kind: actual
+    origin: third-party
+    subject: 泰米尔国民型小学的课室楼，吉打樟仑（Changlun）
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom2(1).jpg
 ---
 
 在马来亚旧日的橡胶种植园里，最早的一些课堂设于工棚与茅屋之中，授课语言正是淡米尔文。根据马来西亚历史学会期刊上发表的一项历史研究，早在二十世纪初，种植园便依据当时的劳工法典，提供淡米尔文基础小学教育，而且在很长一段时间里，授课者是文员与兼职人员，而非受过训练的教师。

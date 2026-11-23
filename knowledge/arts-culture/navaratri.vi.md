@@ -32,7 +32,7 @@ faq:
   - q: "Có phải chỉ người Tamil mới mừng Navaratri?"
     a: "Không. Dù Golu và lễ Saraswati/Ayudha Puja nổi bật trong truyền thống Nam Ấn-Tamil, các cộng đồng Gujarat và Bắc Ấn ở Malaysia mừng Navaratri bằng múa Garba và Dandiya, còn cộng đồng Bengal tổ chức Durga Puja. Nếp thực hành của mỗi cộng đồng mỗi khác."
 lang: "vi"
-sourceContentHash: "4de698b1470bf32c"
+sourceContentHash: "dae52d8e596d9c8f"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -79,6 +79,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Navratri_Golu_-_Dashavatara.JPG'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/navaratri/body-1.webp
+    alt: Những vũ công trong trang phục truyền thống nhiều màu sắc di chuyển thành vòng tròn trong điệu múa Garba Navaratri sôi động
+    kind: representative
+    origin: third-party
+    subject: Điệu múa dân gian Garba được trình diễn trong dịp Navaratri, một trong những lễ mừng cộng đồng tiêu biểu của lễ hội
+    credit: Saurabh sirohiya (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Lively_Navratri_Garba_dance_performances.jpg
+  - role: scene
+    src: /media/arts-culture/navaratri/body-2.webp
+    alt: Những bức tượng chim và tượng nhỏ trang trí được sắp xếp cẩn thận trên các bậc thang của một gian trưng bày búp bê golu Navaratri
+    kind: representative
+    origin: third-party
+    subject: Cận cảnh các bức tượng được sắp xếp trên một gian trưng bày búp bê golu (kolu) lễ hội Navaratri
+    credit: GoDakshin / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Birds_in_a_Golu_display_over_Hindu_Navaratri_festival_Kolu_dolls.jpg
 ---
 
 Trong dịp Navaratri, dọc theo một bức tường bên của phòng khách một gia đình Hindu Tamil ở Malaysia, người ta dựng lên các bậc tầng với số bậc lẻ. Trên những bậc phủ vải ấy, tượng thần và những con búp bê kể lại các cảnh trong thần thoại được xếp thành hàng. Về chiều, họ hàng và hàng xóm đến xem **Golu**; tiếng hát vang lên; và khách ra về được tặng thamboolam cùng đồ ngọt. Đây không phải sự kiện một ngày — mà là dấu hiệu của một lễ hội trải dài suốt chín đêm.

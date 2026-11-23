@@ -73,6 +73,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-3.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mazu-worship/body-1.webp
+    alt: 瓜拉登嘉楼一座历史悠久的华人妈祖庙华丽的屋顶与立面，屋脊饰有龙形装饰
+    kind: actual
+    origin: third-party
+    subject: 和安宫，瓜拉登嘉楼一座妈祖（天后，海神）庙，是登嘉楼最古老的华人庙宇之一
+    credit: Fikku_fiq (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Ho_Ann_Kiong.jpg
+  - role: scene
+    src: /media/arts-culture/mazu-worship/body-2.webp
+    alt: 一座海南妈祖庙的主殿，悬挂着灯笼，香烟缭绕，神龛配有鎏金饰件
+    kind: actual
+    origin: third-party
+    subject: 槟城乔治市海南庙（Tokong Hainan）的内殿神坛，这是一座供奉海神妈祖的庙宇
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hainan_Tempel_Innen.JPG
 ---
 
 在吉隆坡乐圣岭（Robson Heights）的山岗上，一座六层的红柱琉璃瓦庙宇俯瞰着城市——这就是乐圣岭天后宫，供奉的是华人世界里最著名的海神：妈祖。过去，循海路南来的华人每每在渡海前后向她祈求平安；今天，这里既是香客上香的庙宇，也是海南乡亲聚首、游客取景的去处。

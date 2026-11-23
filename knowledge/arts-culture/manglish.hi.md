@@ -32,7 +32,7 @@ faq:
     a: "हाँ। ऑक्सफ़ोर्ड इंग्लिश डिक्शनरी (Oxford English Dictionary) ने क्रमिक अद्यतनों में कई मलेशियाई अंग्रेज़ी शब्द जोड़े हैं, जिनमें 2016 में lepak, shiok और teh tarik, उसी वर्ष बाद में mamak, kopitiam और atas सहित कई मानग्लिश एवं मलेशियाई-भोजन के शब्द, और एक बाद के अद्यतन में boleh, agak-agak और wayang जैसे शब्द शामिल हैं — यह नई अंग्रेज़ी गढ़ने के बजाय स्थापित मलेशियाई प्रयोग को मान्यता देना है।"
 
 lang: "hi"
-sourceContentHash: "8f82ee70d6e9258e"
+sourceContentHash: "74516c4c0a947cb1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -86,6 +86,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_2025.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/manglish/body-1.webp
+    alt: जॉर्ज टाउन की एक शॉपहाउस सड़क, जहाँ दुकानों के मुखौटों पर अंग्रेज़ी, तमिल, चीनी और मलय में साथ-साथ साइनबोर्ड लगे हैं
+    kind: actual
+    origin: third-party
+    subject: पेनांग के जॉर्ज टाउन में एक लिटिल इंडिया सड़क, जहाँ कई भाषाओं और लिपियों में दुकानों के साइनबोर्ड लगे हैं
+    credit: Adam Jones / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Street_Scene_-_Little_India_-_George_Town_-_Penang_-_Malaysia_(35445172795).jpg
+  - role: scene
+    src: /media/arts-culture/manglish/body-2.webp
+    alt: शाम को एक व्यस्त मलेशियाई रात्रि बाज़ार में भोजन और सामान के स्टॉलों की पंक्तियों के पास से गुज़रते खरीदार
+    kind: actual
+    origin: third-party
+    subject: सेलांगोर के सेरी केम्बांगान में एक पसार मलम (pasar malam, रात्रि बाज़ार), एक रोज़मर्रा का बहुभाषी मलेशियाई सड़क दृश्य
+    credit: '*angys* (Wikimedia Commons) / Wikimedia Commons'
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pasar_Malam_Seri_Kembangan_(230403)_01.jpg
 ---
 
 "Can or not?" "Wait ah, later confirm lor." "Don't play play, I already tell you."

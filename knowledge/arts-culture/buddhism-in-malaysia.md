@@ -77,6 +77,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kek_Lok_Si_Temple_(I).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-1.webp
+    alt: 槟城一座泰国佛寺华丽的鎏金贴瓷立面与屋顶，映衬蓝天
+    kind: actual
+    origin: third-party
+    subject: 卧佛寺（Wat Chaiya Mangkalaram），位于槟城乔治市的泰国上座部佛教寺院
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Penang_Malaysia_Wat-Chaiya-Mangkalaram-Temple-01.jpg
+  - role: scene
+    src: /media/arts-culture/buddhism-in-malaysia/body-2.webp
+    alt: 一尊盘坐的佛像被大量黄、白、粉色菊花簇拥，置于卫塞节花车之上
+    kind: actual
+    origin: third-party
+    subject: 吉打亚罗士打 Wat Nikrodharam 卫塞节（Wesak）花车上花团锦簇的佛像
+    credit: Marufish / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Wesak_Day_at_Alor_Setar_(17770014715).jpg
 ---
 
 在槟城的山坡上,极乐寺的塔影俯瞰着乔治市;在吉隆坡的十五碑,一座上座部寺院里

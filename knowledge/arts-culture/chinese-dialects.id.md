@@ -32,7 +32,7 @@ seoTitle: "Dialek Tionghoa Malaysia: Sebaran Wilayah Hokkien, Kantonis, dan Hakk
 socialTitle: "Sama-Sama Tionghoa, Mengapa Bahasa Tak Serupa? Peta Dialek Malaysia"
 
 lang: "id"
-sourceContentHash: "c773c2be8c4e6544"
+sourceContentHash: "377a93a3d1a42245"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-1.webp
+    alt: Panel pintu berlukis indah dengan figur berjubah dan relief harimau di sebuah kelenteng leluhur Tionghoa Tiochiu di Penang
+    kind: actual
+    origin: third-party
+    subject: Dewa pintu berlukis dan relief harimau di Kelenteng Leluhur Han Jiang, kelenteng kelompok dialek Tiochiu di George Town, Penang
+    credit: Christophe95 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Han_Jiang_Ancestral_Temple_1.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-2.webp
+    alt: Ruko Tionghoa dua lantai yang usang dengan jendela berdaun dan trotoar kaki lima beratap memanjang di sepanjang jalan yang sepi di George Town
+    kind: actual
+    origin: third-party
+    subject: Sederet ruko Tionghoa tua dengan trotoar kaki lima di sebuah jalan di George Town, Penang
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
 ---
 
 Di sebuah kedai kopi di Pulau Pinang, Anda memesan kopi dalam bahasa Hokkien; di Kuala Lumpur dan Ipoh, cangkir kopi yang sama dipesan dalam bahasa Kantonis; teruskan lagi ke Sibu, Sarawak, dan orang yang melayani Anda kemungkinan besar berbicara dalam bahasa Foochow. Ketiganya orang Tionghoa — tetapi mereka berbicara dalam tiga bahasa yang tidak dapat saling dipahami.

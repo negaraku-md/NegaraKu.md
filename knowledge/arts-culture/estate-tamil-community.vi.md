@@ -32,7 +32,7 @@ faq:
   - q: "Ngày nay ai làm việc tại các đồn điền?"
     a: "Ngày nay phần lớn lao động đồn điền ở Malaysia là lao động nhập cư người nước ngoài. Đối với cộng đồng Tamil, cuộc di cư lớn từ đồn điền ra thị trấn về cơ bản đã hoàn tất từ nhiều thập niên trước; cộng đồng ngày nay đã trở thành một cộng đồng phần lớn là đô thị và bán đô thị."
 lang: "vi"
-sourceContentHash: "26feee7acc3d6568"
+sourceContentHash: "03062d40a74e2b62"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -85,6 +85,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:SJK_(T)_Ladang_Sungai_Getah.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-1.webp
+    alt: Một công nhân cạo mủ từ cây cao su tại một đồn điền ở Malacca năm 1946, gợi nhắc lao động đồn điền đã hình thành các cộng đồng đồn điền của Malaysia.
+    kind: representative
+    origin: third-party
+    subject: Cạo mủ cao su tại một đồn điền cao su ở Malacca (1946)
+    credit: Willem van de Poll / Nationaal Archief / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Vrouw_bezig_met_het_aftappen_van_rubber_op_een_rubberplantage_in_Malakka,_Bestanddeelnr_255-6638.jpg
+  - role: scene
+    src: /media/arts-culture/estate-tamil-community/body-2.webp
+    alt: 'Một gian trưng bày bảo tàng tại Trung tâm Di sản Ấn Độ ở Johor Bahru với tiêu đề Early Occupations: Rubber Tapping, có hình người mặc sari, xô đựng mủ và ảnh đồn điền lịch sử kèm chú thích tiếng Tamil.'
+    kind: actual
+    origin: third-party
+    subject: 'Gian trưng bày "Early Occupations: Rubber Tapping" về di sản đồn điền của người Tamil Malaysia, Trung tâm Di sản Ấn Độ, Johor Bahru'
+    credit: Chainwit. / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Indian_Heritage_Centre_(Johor_Bahru)_(2025)_-_img_10.jpg
 ---
 
 Ở ven rìa nhiều thị trấn cổ của Malaysia, một đồn điền cao su từng trải dài xanh ngát nay đã trở thành khu dân cư chật kín nhà cửa và những dãy phố buôn bán. Giữa những tòa nhà mới ấy, đôi khi vẫn còn một ngôi đền Amman cũ hay một trường Tamil nhỏ đứng sót lại — như dấu ấn không phai của một cộng đồng đã bị dời đi.

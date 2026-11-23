@@ -32,7 +32,7 @@ faq:
   - q: "今日马来西亚的哲智亚社群情况如何？"
     a: "20 世纪中叶，金融法规的变动与政治变迁使传统放贷行业萎缩。许多人转入工商、专业与教育相关领域。尽管人数不多，他们仍透过寺庙、节庆、美食与家族传统守护着独特的文化身份。"
 lang: "zh"
-sourceContentHash: "9862f72c904a9334"
+sourceContentHash: "7e3e2be6ebfbcd23"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -82,6 +82,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Waterfall_Temple.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-1.webp
+    alt: 一座色彩缤纷的南印度庙宇塔门（gopuram），布满雕塑人像，映衬槟城晴朗的天空
+    kind: actual
+    origin: third-party
+    subject: 纳加拉塔（Nagarathar，即 Nattukottai Chettiar）湿婆庙，位于槟城乔治市
+    credit: Cmglee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Nagarathar_Sivan_Temple.jpg
+  - role: scene
+    src: /media/arts-culture/chettiar-community/body-2.webp
+    alt: 黄昏时分，一辆高耸、挂满花环的鎏金庙宇神车在信众人潮中行经槟城街道
+    kind: actual
+    origin: third-party
+    subject: 槟城大宝森节（Thaipusam）游行中的金色神车与信众，这一节庆有赖哲智亚（Chettiar）社群的维系
+    credit: Seelit2004 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Thaipusam_Festival_The_Golden_Chariot_and_the_Followers.jpg
 ---
 
 在槟城大宝森节这一天，一座以白银打造的宏伟战车会从槟榔律（Lebuh Penang）启程，驶向山上的穆鲁甘庙。那座战车，以及一个多世纪以来掌管它的社群，都并非偶然——它们诉说着一段从哲智纳德远航至马来亚的商贸银行传统的故事。

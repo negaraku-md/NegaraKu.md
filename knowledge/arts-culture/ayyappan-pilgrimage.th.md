@@ -32,7 +32,7 @@ faq:
   - q: "'สวามิเย ศรนัม อัยยัปปา' หมายความว่าอย่างไร?"
     a: "นี่คือบทสวดขอที่พึ่งหลักของการบูชาพระอัยยัปปัน — เป็นวลีที่มีความหมายว่าการมอบตนแด่องค์สวามี ซึ่งผู้ถือพรตและผู้จาริกจะสวดอย่างต่อเนื่อง บทสวดนี้ก้องกังวานตลอดช่วงถือพรต ระหว่างการจาริก และในบทภชัน"
 lang: "th"
-sourceContentHash: "c0cc8aa15f42b7b0"
+sourceContentHash: "c3cfb1ea38600a5f"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penangayappantemple.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-1.webp
+    alt: ผู้แสวงบุญสวมชุดดำและใช้ผ้าคลุมศีรษะเดินไปตามเส้นทางในป่าในการจาริกแสวงบุญสู่ศบริมาลา
+    kind: representative
+    origin: third-party
+    subject: สาวกอัยยัปปัน (Ayyappan) ในชุดดำเดินเท้าผ่านเส้นทางในป่ามุ่งสู่เทวสถานศบริมาลา
+    credit: Shantham11 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pilgrims_trekking_on_the_path_through_forests_leading_to_Sabarimala_temple.jpg
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-2.webp
+    alt: ภาพวาดบนพื้นด้วยผงสีขนาดใหญ่เป็นรูปเทพอัยยัปปะ ล้อมรอบด้วยตะเกียงน้ำมันทองเหลืองที่จุดไว้และพวงมาลัยดอกไม้ โดยมีมือกลองนั่งอยู่ด้านหลัง
+    kind: representative
+    origin: third-party
+    subject: ภาพวาดบนพื้นในพิธีกรรมของอัยยัปปัน (kalam) พร้อมตะเกียงน้ำมันทองเหลืองและมือกลอง ประเพณีแห่งศรัทธาต่อองค์เทพอัยยัปปะ
+    credit: Sajith moothakurambu / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AYYAPPAN_THEYATTU.jpg
 ---
 
 ในช่วงเดือนท้าย ๆ ของปี มีภาพหนึ่งปรากฏให้เห็นในหลายเมืองทั่วมาเลเซีย ชายผู้สวมเสื้อผ้าสีดำหรือสีน้ำเงิน สวมประคำรุทรากษะที่คอและไว้หนวดเครา เรียกขานกันและกันว่า "สวามี" พวกเขาคือผู้ถือพรตอัยยัปปัน — หลายคนกำลังเตรียมเดินทางไปยังสวามิมาลัยในรัฐเกรละ บทความนี้บรรยายการบูชาและธรรมเนียมการถือพรตนั้นอย่างเป็นกลาง มิได้อธิบายหรือประเมินความเชื่อใด ๆ

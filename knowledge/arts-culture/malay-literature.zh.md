@@ -36,7 +36,7 @@ socialTitle: "从《马来纪年》到国家文学家——马来书写文学的
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "106c6c9a2b36cbbd"
+sourceContentHash: "4bae3e712b485a1f"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -87,6 +87,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_%E2%80%98The_Crown_of_Kings%E2%80%99,_a_Malay_%E2%80%98mirror_for_princes%E2%80%99.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malay-literature/body-1.webp
+    alt: 《马荣马哈旺萨传》（Hikayat Merong Mahawangsa）爪夷文手稿的开篇页，这部吉打古典编年史以流畅的阿拉伯字母马来文书写，置于画格之内
+    kind: actual
+    origin: third-party
+    subject: 《马荣马哈旺萨传》（吉打纪年）的爪夷文开篇页
+    credit: Unknown author (R. J. Wilkinson lithograph, 1898) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hkyt_merong_mahawgsa.jpg
+  - role: scene
+    src: /media/arts-culture/malay-literature/body-2.webp
+    alt: 《肯丹布罕诗篇》（Syair Ken Tambuhan）手稿开篇的金、红、黑彩饰题头，这是一部帕尼（Panji）故事系列的马来古典韵文传奇
+    kind: representative
+    origin: third-party
+    subject: 马来韵文传奇《肯丹布罕诗篇》手稿的彩饰题头
+    credit: Unknown author (Leiden University Library) / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Decoration_1_Syair_Ken_Tambuhan_Or._1965_(page_9_crop).jpg
 ---
 
 在一部古老的抄本中，镌刻着马六甲诸王的故事、汉都亚的历程，以及一个帝国的覆亡——不是作为干枯的史料，而是作为有血有肉的人物、对白与文采俱全的故事。这部抄本，《Sejarah Melayu》（马来纪年）或《Sulalatus Salatin》，是最早证明马来语书写传统何其悠久丰厚的作品之一。

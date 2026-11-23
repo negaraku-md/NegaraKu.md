@@ -30,7 +30,7 @@ faq:
   - q: "Where is Panguni Uthiram celebrated on a large scale in Malaysia?"
     a: "The Sri Marathandavar Bala Dhandayuthapani temple in Maran, Pahang, is known for one of its largest celebrations; the Murugan temple in Kapar, Selangor, also holds a large festival with kavadi and a chariot procession. Besides these, many Murugan and Mariamman temples across the country observe this day on their own scale. The scale and practices of the festival vary from temple to temple."
 lang: "en"
-sourceContentHash: "7f189b2da9dcb8fe"
+sourceContentHash: "b924d48206a28dc0"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Devotees_and_Musicians_with_Decorated_Kavadis_on_Procession_Street_at_Batu_Caves_(250211).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-1.webp
+    alt: A towering, intricately decorated wooden temple chariot carrying deity figures is drawn through a crowded street during a Panguni temple-car festival.
+    kind: representative
+    origin: third-party
+    subject: Temple-car (ther) procession during the Panguni festival, Mylapore
+    credit: N. Vivekananthamoorthy / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Temple-Car-Festival-Mylapore-Chennai-India.jpg
+  - role: scene
+    src: /media/arts-culture/panguni-uthiram/body-2.webp
+    alt: Two tall, brightly decorated temple chariots stand side by side amid devotees and priests at a Panguni Uthiram car festival.
+    kind: representative
+    origin: third-party
+    subject: Decorated temple chariots at a Panguni Uthiram car festival
+    credit: Dharmaphotography / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Perur_car_festival.jpg
 ---
 
 In the month of Panguni there is a night when the full moon fills the

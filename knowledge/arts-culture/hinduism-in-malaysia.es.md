@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "es"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "d7df97b39a2da0c7"
+sourceContentHash: "e30d1ed6a06d7023"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -79,6 +79,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_temple-Kuala_Lumpur_Malaysia.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-1.webp
+    alt: La torre gopuram escalonada y de vivos colores del templo Kallumalai Murugan en Ipoh, Perak, cubierta de deidades hindúes esculpidas.
+    kind: actual
+    origin: third-party
+    subject: Colorido gopuram del templo Kallumalai Murugan, Ipoh, Perak
+    credit: hams Nocete / Wikimedia Commons
+    license: CC BY-SA 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kallumalai_Murugan_Temple,_Ipoh,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/hinduism-in-malaysia/body-2.webp
+    alt: Un kolam intrincado y de vivos colores dispuesto en el suelo para Deepavali, la principal festividad hindú de Malasia.
+    kind: actual
+    origin: third-party
+    subject: Un kolam (arte de suelo) de Deepavali, Malasia
+    credit: John Ragai / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Deepavali_Kolam_in_Malaysia.jpg
 ---
 
 En cualquier ciudad de Malasia, al borde de una antigua plantación de caucho o en

@@ -34,7 +34,7 @@ seoTitle: "วรรณกรรมมลายู"
 socialTitle: "จาก Sejarah Melayu สู่ศิลปินแห่งชาติ — เรื่องราวของงานประพันธ์มลายู"
 
 lang: "th"
-sourceContentHash: "106c6c9a2b36cbbd"
+sourceContentHash: "4bae3e712b485a1f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -87,6 +87,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Initial_pages_of_the_Taj_al-Salatin,_%E2%80%98The_Crown_of_Kings%E2%80%99,_a_Malay_%E2%80%98mirror_for_princes%E2%80%99.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malay-literature/body-1.webp
+    alt: หน้าเปิดของต้นฉบับอักษรยาวีเรื่องฮิกายัตเมอโรงมหาวังสา พงศาวดารคลาสสิกของเกอดะฮ์ เขียนด้วยภาษามลายูอักษรอาหรับที่พลิ้วไหวภายในกรอบเส้น
+    kind: actual
+    origin: third-party
+    subject: หน้าเปิดอักษรยาวีของเรื่องฮิกายัตเมอโรงมหาวังสา (พงศาวดารเกอดะฮ์)
+    credit: Unknown author (R. J. Wilkinson lithograph, 1898) / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hkyt_merong_mahawgsa.jpg
+  - role: scene
+    src: /media/arts-culture/malay-literature/body-2.webp
+    alt: หัวกระดาษประดับสีทอง แดง และดำที่เปิดต้นฉบับเรื่องชาอีร์เกนตัมบูฮัน นิทานร้อยกรองคลาสสิกภาษามลายูในตระกูลนิทานปันจี
+    kind: representative
+    origin: third-party
+    subject: หัวกระดาษประดับของต้นฉบับนิทานร้อยกรองมลายูเรื่องชาอีร์เกนตัมบูฮัน
+    credit: Unknown author (Leiden University Library) / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Decoration_1_Syair_Ken_Tambuhan_Or._1965_(page_9_crop).jpg
 ---
 
 ในต้นฉบับเก่าเล่มหนึ่ง เรื่องราวของบรรดาราชาแห่งมะละกา การเดินทางของฮัง ตัวะฮฺ (Hang Tuah) และการล่มสลายของจักรวรรดิถูกจารึกไว้ — ไม่ใช่ในฐานะบันทึกประวัติศาสตร์ที่แห้งแล้ง แต่ในฐานะเรื่องเล่าที่มีชีวิตด้วยตัวละคร บทสนทนา และวรรณศิลป์ ต้นฉบับนั้น *Sejarah Melayu* หรือ *Sulalatus Salatin* คือหนึ่งในงานยุคแรกสุดที่พิสูจน์ว่าธรรมเนียมงานประพันธ์ในภาษามลายูนั้นยาวนานและมั่งคั่งเพียงใด

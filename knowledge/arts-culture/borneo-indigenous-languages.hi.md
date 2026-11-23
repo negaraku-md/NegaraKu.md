@@ -34,7 +34,7 @@ faq:
     a: "हाँ, कुछ पढ़ाई जाती हैं, शिक्षा मंत्रालय के Pupil's Own Language (POL) कार्यक्रम के तहत, आम तौर पर एक वैकल्पिक विषय के रूप में। कादाज़ानदुसुन 1997 में शुरू हुए एक प्रायोगिक कार्यक्रम से सबा के सरकारी स्कूलों में पढ़ाई जाती रही है, और इबान सरावाक के स्कूलों में पढ़ाई जाती है। उपलब्धता माँग पर और नीति द्वारा निर्धारित न्यूनतम कक्षा-आकार को पूरा करने पर निर्भर करती है।"
 
 lang: "hi"
-sourceContentHash: "d94b9d6d02d53a14"
+sourceContentHash: "dae5581cc3aa31e5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -89,6 +89,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:011107_Langhouse_der_IBAN.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-1.webp
+    alt: सबा में एक खुले सांस्कृतिक आयोजन में काले-सुनहरे कडाज़ान परिधान और शंक्वाकार टोपियों में, बाँस के वाद्य थामे युवा
+    kind: actual
+    origin: third-party
+    subject: सबा के पापर में कामातान (Kaamatan) फसल उत्सव में पारंपरिक वेशभूषा में कडाज़ान तांगारा समुदाय
+    credit: Jjurieee / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kadazan_Tangara_Papar.jpg
+  - role: scene
+    src: /media/arts-culture/borneo-indigenous-languages/body-2.webp
+    alt: Orang Ulu के अनुष्ठानिक परिधान और मनकों के शिरोवस्त्र में एक पुरुष और एक महिला, बोर्नियो की घुमावदार आकृतियों से चित्रित दीवार के सामने खड़े
+    kind: actual
+    origin: third-party
+    subject: सरवाक में एक चित्रित लॉन्गहाउस भित्तिचित्र के सामने पारंपरिक वेशभूषा में एक Orang Ulu दंपति
+    credit: AjarnRichard / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Orang_Ulu_(Dayak)_People_with_Tradtional_Motifs.jpg
 ---
 
 बोर्नियो के भीतरी हिस्से के ऊपर से उड़ें तो आप एक घंटे में इतनी भाषाओं को पार कर जाते हैं जितनी अधिकांश देशों में कुल मिलाकर होती हैं। सबा के उच्चभूमि की एक नदी-घाटी, सरावाक के ऊपरी बारम पर एक लॉन्गहाउस, एक तटीय मछुआरा गाँव — हर एक आपका अभिवादन ऐसी भाषा में कर सकता है जिसे अगली घाटी मुश्किल से समझती है।

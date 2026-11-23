@@ -81,6 +81,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Seri_Setia_3.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-new-villages/body-1.webp
+    alt: 新村布罗加（Broga）的入口牌楼，标示着进村的方向，背后是群山
+    kind: actual
+    origin: third-party
+    subject: 森美兰州布罗加新村的入口牌楼
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Broga_1.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-new-villages/body-2.webp
+    alt: 八打灵再也斯里实达（Seri Setia）新村的一个街角，有一幅彩绘壁画和红色的农历新年灯笼与装饰
+    kind: actual
+    origin: third-party
+    subject: 雪兰莪八打灵再也斯里实达新村的壁画与农历新年装饰
+    credit: Slleong / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Seri_Setia_CNY2022_3.jpg
 ---
 
 走进今天的士毛月、金宝或士林河（Sekinchan），你看到的多半是寻常的小镇景象：一排排店屋、华文小学、庙宇与会馆、路边的茶室与杂货店。但这些名字里不少都带着一个共同的身份——它们是「新村」。这个看似平淡的称呼，背后是一段关于[马来亚紧急状态](/malaysia/the-emergency)、反叛乱与大规模迁徙的历史。

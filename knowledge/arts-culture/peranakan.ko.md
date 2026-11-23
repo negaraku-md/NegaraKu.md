@@ -18,7 +18,7 @@ keyTakeaways:
   - "뇨냐 의상의 중심인 크바야(kebaya)는 2024년 브루나이, 인도네시아, 말레이시아, 싱가포르, 태국의 공동 신청으로 유네스코 무형유산 목록에 등재되었습니다"
 appliesTo: "페라나칸(바바-뇨냐)이 누구인지, 그리고 믈라카와 페낭에서 그들의 음식, 의상, 물질 유산을 어떻게 알아볼 수 있는지에 대한 사실적이고 존중하는 개관을 원하는 모든 사람."
 lang: "ko"
-sourceContentHash: "b8424f95164f1085"
+sourceContentHash: "c1d45c3d697ac014"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Baba_Nyonya_Heritage_Museum_-_Reception_Hall.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/peranakan/body-1.webp
+    alt: 믈라카의 페라나칸 양식 숍하우스 상층 정면으로, 아치형 청록색 덧문과 회반죽 부조, 유약 타일 띠 장식을 갖추고 있다
+    kind: actual
+    origin: third-party
+    subject: 페라나칸(Peranakan) 양식 숍하우스 정면, 믈라카
+    credit: P. Hughes / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malacca_-_traditional_Peranakan-style_shophouse.jpg
+  - role: scene
+    src: /media/arts-culture/peranakan/body-2.webp
+    alt: 페라나칸 자기 찻그릇과 그 뚜껑으로, 흰 바탕에 분홍 모란과 봉황이 그려져 진열장에 전시되어 있다
+    kind: representative
+    origin: third-party
+    subject: 꽃과 새 문양을 그린 페라나칸(뇨냐 자기) 다기 자기
+    credit: Gniam Jin Hong / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Peranakan_tea_porcelain_with_floral_and_birds_motifs.jpg
 ---
 
 믈라카 히런 스트리트(Heeren Street)의 오래된 타운하우스에 들어서면, 누가 한마디 하기도 전에 물건들이 이야기를 들려줍니다. 앞섶을 세 개짜리 금 브로치로 여민, 몸에 꼭 맞는 레이스 블라우스. 앞코가 수천 개의 작은 유리구슬로 덮여 한 알 한 알 손으로 꿰맨 슬리퍼 한 켤레. 중국식도 말레이식도 아닌 식사를 차린 긴 대리석 상판 식탁. 이것들은 페라나칸 — 바바-뇨냐 — 의 것이며, 두 세계 사이에 사는 데서 하나의 문화를 만들어 낸 공동체의 것입니다.

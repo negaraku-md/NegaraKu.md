@@ -34,7 +34,7 @@ socialTitle: "Bagaimana bahasa Tamil dituturkan, diajar dan dilindungi di Malays
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1bdf48a0219ea1f5"
+sourceContentHash: "9d8e74703093b827"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -96,6 +96,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Sign_Wall(1).jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-1.webp
+    alt: Sebuah papan tanda 'Dilarang Masuk' Malaysia berwarna merah dan putih dengan amaran yang sama dalam bahasa Inggeris, Cina, Punjabi dan, pada baris paling bawah, tulisan Tamil.
+    kind: actual
+    origin: third-party
+    subject: Papan tanda Malaysia berbilang bahasa dengan satu baris tulisan Tamil, Kota Kinabalu
+    credit: SSYoung / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:%22No_Admittance%22_sign_in_five_languages_in_Kota_Kinabalu,_Malaysia.jpg
+  - role: scene
+    src: /media/arts-culture/tamil-in-malaysia/body-2.webp
+    alt: Blok bilik darjah terbuka sebuah sekolah rendah jenis kebangsaan Tamil di Changlun, Kedah, dengan pintu dan garisan bumbungnya dihiasi bendera Malaysia di bawah langit cerah.
+    kind: actual
+    origin: third-party
+    subject: Blok bilik darjah sebuah sekolah rendah jenis kebangsaan Tamil, Changlun, Kedah
+    credit: Ksmuthukrishnan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Changlun(Kedah)_Tamil_School_Classroom2(1).jpg
 ---
 
 Di ladang-ladang getah lama Malaya, sebahagian daripada bilik darjah paling awal adalah bangsal dan pondok, dan pengajarannya dalam bahasa Tamil. Menurut satu kajian sejarah yang diterbitkan dalam jurnal Persatuan Sejarah Malaysia, pendidikan rendah asas dalam bahasa Tamil ditawarkan di ladang-ladang sejak awal abad kedua puluh, diperuntukkan di bawah kanun buruh pada masa itu dan, untuk tempoh yang lama, diajar oleh kerani dan pekerja sambilan dan bukannya guru terlatih.

@@ -34,7 +34,7 @@ faq:
     a: "On l'appelle souvent la « nouvelle vague malaisienne » (Malaysian New Wave), une vague de cinéastes indépendants du début des années 2000. Da Huang Pictures, fondée en 2004 par Tan Chui Mui, Amir Muhammad, James Lee et Liew Seng Tat, en est devenue l'un des pôles ; le film de Tan, Love Conquers All, a remporté les prix New Currents et FIPRESCI au Festival international du film de Busan de 2006 et le Tiger Award à Rotterdam."
 
 lang: "fr"
-sourceContentHash: "defc3df96dc13355"
+sourceContentHash: "45a175545944f31c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -92,6 +92,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Rumah_Kelahiran_P._Ramlee.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-1.webp
+    alt: La façade sur rue et le fronton de l'ancien cinéma Coliseum, une salle de cinéma à écran unique d'avant-guerre dans le centre de Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: L'historique cinéma Coliseum sur Jalan Tuanku Abdul Rahman, Kuala Lumpur, l'une des plus anciennes salles de cinéma subsistant en Malaisie
+    credit: Two hundred percent (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Coliseum_Cinema,_Kuala_Lumpur_(February_2007).jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-film-industry/body-2.webp
+    alt: Le hall vivement éclairé et la signalétique d'un cinéma multiplexe contemporain à l'intérieur d'un centre commercial de Kuala Lumpur
+    kind: actual
+    origin: third-party
+    subject: L'entrée d'un cinéma multiplexe moderne au Pavilion Bukit Bintang, Kuala Lumpur
+    credit: PulauKakatua19 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Dadi_Cinema_Pavilion_Bukit_Bintang.jpg
 ---
 
 En 1955, un ancien clap-man et assistant caméraman d'un studio situé au n° 8 de Jalan Ampas, à Singapour, s'est assis pour la première fois dans le fauteuil du réalisateur, à l'âge de 26 ans. Le film était *Penarek Becha*. Il s'appelait P. Ramlee. L'histoire de l'industrie cinématographique de la Malaisie ne commence pas à Kuala Lumpur, mais dans un studio de Singapour appartenant à deux frères de Shanghai — et elle n'a cessé de bouger depuis.

@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "fr"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "ffa309d9ae04f20d"
+sourceContentHash: "cbcbfec907d9ad67"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-2.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-1.webp
+    alt: La façade ornementée de l'Ancien Temple chinois de Johor Bahru, avec des sculptures de dragons sur le toit, des reliefs en céramique et des lanternes rouges à l'entrée.
+    kind: actual
+    origin: third-party
+    subject: L'Ancien Temple chinois de Johor Bahru, un temple de la religion populaire chinoise
+    credit: Ralff Nestor Nacor / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Johor_Ancient_Temple,_Malaysia_(2).jpg
+  - role: scene
+    src: /media/arts-culture/chinese-religion-in-malaysia/body-2.webp
+    alt: Des faisceaux de bâtons d'encens allumés dégageant de la fumée devant le temple de la Déesse de la Miséricorde à George Town, Penang, un lieu de culte chinois de longue tradition.
+    kind: actual
+    origin: third-party
+    subject: Bâtons d'encens allumés au temple de la Déesse de la Miséricorde, George Town, Penang
+    credit: McKay Savage / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Malaysia_-_092_-_Penang_-_burning_incense_at_the_Goddess_of_Mercy_Temple_(3923018968).jpg
 ---
 
 En entrant dans n'importe quel temple chinois de Malaisie, vous verrez très

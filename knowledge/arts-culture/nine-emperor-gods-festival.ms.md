@@ -32,7 +32,7 @@ faq:
   - q: "Adakah Perayaan Sembilan Maharaja Dewa sama dengan Perayaan Hantu Lapar atau Tahun Baharu Cina?"
     a: "Tidak sama. Perayaan Sembilan Maharaja Dewa ialah perayaan Taoisme pada bulan sembilan kalendar lunar yang khusus memuja Sembilan Maharaja Dewa, berpaksikan menjemput air, berpantang makan dan menghantar pulang dewa; Perayaan Hantu Lapar (Yulan) jatuh pada bulan tujuh kalendar lunar, bertemakan penyelamatan menyeluruh dan pembebasan roh yang bergentayangan; Tahun Baharu Cina pula ialah perayaan budaya bermusim yang berpaksikan perhimpunan keluarga. Ketiga-tiganya berbeza dari segi masa, objek dan makna, dan tidak sepatutnya dicampuradukkan."
 lang: "ms"
-sourceContentHash: "642647a0f184876b"
+sourceContentHash: "fef1d3cfdfb90ea5"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -80,6 +80,25 @@ heroLicense: 'CC BY 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_Festival_(Ipoh)_3.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-1.webp
+    alt: Sebuah tokong yang berhias semasa Perayaan Sembilan Maharaja Dewa di Kepala Batas, dengan tanglung, panji-panji kuning dan persembahan
+    kind: actual
+    origin: third-party
+    subject: Perayaan Sembilan Maharaja Dewa (Kew Ong Yah) disambut di sebuah tokong di Kepala Batas, Pulau Pinang
+    credit: LEE 003 (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Nine_Emperor_Gods_(KepalaBatas)_2.jpg
+  - role: scene
+    src: /media/arts-culture/nine-emperor-gods-festival/body-2.webp
+    alt: Sebuah gerbang istiadat berhias yang menuju ke perkarangan Tokong Sembilan Maharaja Dewa Tow Boo Kong di Butterworth
+    kind: actual
+    origin: third-party
+    subject: Gerbang berhias Tokong Sembilan Maharaja Dewa Tow Boo Kong di Butterworth, Pulau Pinang
+    credit: Photo Dharma / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:001_Archway_to_the_Temple_(9031159018).jpg
 ---
 
 Pada malam sebelum hari pertama bulan sembilan kalendar lunar, sebaris penganut berpakaian putih dengan ikat pinggang kuning keluar beratur dari tokong, sambil memegang colok, menuju ke tepi sungai atau pantai yang terdekat. Gong dan gendang di hadapan, asap colok di belakang — mereka pergi untuk "menjemput air" dan "menyambut dewa", mengiringi Sembilan Maharaja Dewa pulang ke tokong. Sepanjang sembilan hari berikutnya, colok tidak putus-putus di dalam tokong, dan bau makanan vegetarian berbau harum di luar; pada malam hari kesembilan, barisan yang sama akan beratur semula ke tepi air untuk menghantar pulang dewa.

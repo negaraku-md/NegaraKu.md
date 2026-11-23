@@ -34,7 +34,7 @@ seoTitle: "اللغة الملايوية: اللغة الوطنية بموجب �
 socialTitle: "كيف أصبحت اللغة الملايوية اللغة الوطنية — وانتقلت من الجاوي إلى الرومي"
 
 lang: "ar"
-sourceContentHash: "ac6472952bdfcbbb"
+sourceContentHash: "1fc94a71a343c3e0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -102,6 +102,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka_building,_Malaysia_(DSCF0833).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-1.webp
+    alt: لافتة معلّقة كُتب عليها 'كتب ملايوية' فوق طاولات مكدّسة بكتب ملايوية ورقية الغلاف بينما يتصفّحها الزوار في معرض كتاب ماليزي
+    kind: actual
+    origin: third-party
+    subject: قسم الكتب باللغة الملايوية في معرض كتاب في ماليزيا
+    credit: Uniku Putra / Wikimedia Commons
+    license: PD
+    sourceUrl: https://commons.wikimedia.org/wiki/File:BBWBooks_Malay_Book_2012.JPG
+  - role: scene
+    src: /media/arts-culture/bahasa-melayu/body-2.webp
+    alt: مخطوطة يدوية قديمة مفتوحة بخط Jawi معروضة على حامل داخل صندوق زجاجي
+    kind: actual
+    origin: third-party
+    subject: مخطوطة ملايوية مفتوحة بخط Jawi (مدونة قوانين Hukum Kanun Melaka)، ماليزيا
+    credit: Wee Hong / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Hukum_Kanun_Melaka.jpg
 ---
 
 في كوالا بيرانغ بترغكانو، عُثِر على نقش حجري يحمل كلمات ملايوية — لا بالحروف

@@ -32,7 +32,7 @@ seoTitle: "Dialek Cina Malaysia: Taburan Wilayah Hokkien, Kantonis dan Hakka"
 socialTitle: "Sama-Sama Cina, Kenapa Bahasa Tak Serupa? Peta Dialek Malaysia"
 
 lang: "ms"
-sourceContentHash: "c773c2be8c4e6544"
+sourceContentHash: "377a93a3d1a42245"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 status: "published"
@@ -83,6 +83,25 @@ heroLicense: 'CC BY-SA 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_01.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-1.webp
+    alt: Panel pintu bergambar indah bersama figura berjubah dan ukiran timbul harimau di sebuah tokong leluhur Cina Teochew di Pulau Pinang
+    kind: actual
+    origin: third-party
+    subject: Dewa pintu bergambar dan ukiran timbul harimau di Tokong Leluhur Han Jiang, tokong kumpulan dialek Teochew di George Town, Pulau Pinang
+    credit: Christophe95 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Han_Jiang_Ancestral_Temple_1.jpg
+  - role: scene
+    src: /media/arts-culture/chinese-dialects/body-2.webp
+    alt: Rumah kedai Cina dua tingkat yang usang dengan tingkap berbidai dan laluan kaki lima beratap menganjur sepanjang sebuah jalan yang sunyi di George Town
+    kind: actual
+    origin: third-party
+    subject: Sebaris rumah kedai Cina lama dengan laluan kaki lima di sebuah jalan di George Town, Pulau Pinang
+    credit: Milei.vencel / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Str_of_George_Town,_Penang,_Malaysia..JPG
 ---
 
 Di sebuah kedai kopi di Pulau Pinang, anda memesan kopi dalam bahasa Hokkien; di Kuala Lumpur dan Ipoh, cawan kopi yang sama dipesan dalam bahasa Kantonis; teruskan lagi ke Sibu, Sarawak, dan orang yang melayan anda kemungkinan besar bertutur dalam bahasa Foochow. Ketiga-tiganya orang Cina — namun mereka bertutur dalam tiga bahasa yang tidak boleh difahami antara satu sama lain.

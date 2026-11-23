@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple_2,_central_Kuala_Lumpur.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-1.webp
+    alt: பிரகாசமாக வர்ணம் பூசப்பட்ட இந்து தெய்வ உருவங்களால் மூடப்பட்ட, ஜார்ஜ் டவுனில் உள்ள மாரியம்மன் கோயிலின் செதுக்கப்பட்ட கோபுர கோபுரம்
+    kind: actual
+    origin: third-party
+    subject: பினாங்கு ஜார்ஜ் டவுனில் உள்ள ஸ்ரீ மகாமாரியம்மன் கோயில், மாரியம்மன் தேவிக்கு அர்ப்பணிக்கப்பட்ட அந்நகரின் மிகப் பழமையான இந்துக் கோயில்
+    credit: Sin-siong (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sri_Mahamariamman_Temple,_Georgetown-01.jpg
+  - role: scene
+    src: /media/arts-culture/mariamman-worship/body-2.webp
+    alt: ஒரு மாரியம்மன் கோயிலின் தூண்களுடன் கூடிய உட்புற வழிபாட்டு மண்டபம், வர்ணம் பூசிய கூரைகளுடனும் கருவறையை நோக்கிய சந்நிதிகளுடனும்
+    kind: actual
+    origin: third-party
+    subject: பினாங்கு ஜார்ஜ் டவுனில் உள்ள மாரியம்மன் கோயிலின் உட்புற வழிபாட்டு மண்டபம்
+    credit: Hajotthu (Wikimedia Commons) / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Mahamariamman_Tempel_Innen.JPG
 ---
 
 மலேசியாவின் எந்தப் பழைய ரப்பர்த் தோட்டத்திற்கு அருகிலும், நகர மையங்களின்

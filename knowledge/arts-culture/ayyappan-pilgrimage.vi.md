@@ -32,7 +32,7 @@ faq:
   - q: "'Swamiye Saranam Ayyappa' nghĩa là gì?"
     a: "Đây là câu xướng quy y chính của tín ngưỡng thờ thần Ayyappan — một câu mang nghĩa phó thác bản thân cho Swami, được những người giữ nguyện và người hành hương xướng lên không ngừng. Nó vang vọng suốt kỳ khổ hạnh, trên đường hành hương và trong các buổi bhajan."
 lang: "vi"
-sourceContentHash: "c0cc8aa15f42b7b0"
+sourceContentHash: "c3cfb1ea38600a5f"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 status: "published"
@@ -78,6 +78,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Penangayappantemple.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-1.webp
+    alt: Những người hành hương mặc đồ đen, trùm khăn vải trên đầu, đi trên lối mòn trong rừng trên đường hành hương đến Sabarimala
+    kind: representative
+    origin: third-party
+    subject: Tín đồ Ayyappan mặc đồ đen đi bộ trên lối mòn trong rừng hướng về đền Sabarimala
+    credit: Shantham11 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pilgrims_trekking_on_the_path_through_forests_leading_to_Sabarimala_temple.jpg
+  - role: scene
+    src: /media/arts-culture/ayyappan-pilgrimage/body-2.webp
+    alt: Bức tranh sàn bằng bột màu lớn vẽ thần Ayyappa, bao quanh bởi những ngọn đèn dầu bằng đồng đang cháy và vòng hoa, phía sau có một người đánh trống ngồi
+    kind: representative
+    origin: third-party
+    subject: Tranh sàn nghi lễ Ayyappan (kalam) với đèn dầu đồng và người đánh trống, một truyền thống sùng kính Thần Ayyappa
+    credit: Sajith moothakurambu / Wikimedia Commons
+    license: CC BY 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:AYYAPPAN_THEYATTU.jpg
 ---
 
 Vào những tháng cuối năm, một cảnh tượng hiện ra ở nhiều thị trấn khắp Malaysia: những người đàn ông mặc áo đen hoặc xanh lam, đeo chuỗi hạt rudraksha quanh cổ và để râu, gọi nhau là "Swami". Đó là những người giữ nguyện Ayyappan — nhiều người trong số họ đang chuẩn bị lên đường đến Sabarimala ở bang Kerala. Bài viết này mô tả tín ngưỡng ấy và các truyền thống giữ nguyện một cách trung lập; nó không diễn giải cũng không đánh giá bất kỳ niềm tin nào.

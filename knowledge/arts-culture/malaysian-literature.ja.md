@@ -33,7 +33,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "c27d87b5dbf2077e"
+sourceContentHash: "baad7b6b6a245b8b"
 
 status: "published"
 aiAssisted: true
@@ -80,6 +80,25 @@ heroLicense: 'CC0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Dewan_Bahasa_dan_Pustaka.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-1.webp
+    alt: マレーシアの国際ブックフェアで、本が積み上げられた出版社のブースの列を大勢の読者が物色している
+    kind: actual
+    origin: third-party
+    subject: 2023年クアラルンプール国際ブックフェア（Pesta Buku Antarabangsa Kuala Lumpur）でブースを巡る来場者
+    credit: Wiki Farazi (Wikimedia Commons) / Wikimedia Commons
+    license: CC0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Pesta_Buku_Antarabangsa_Kuala_Lumpur_2023_20230529_143928.jpg
+  - role: scene
+    src: /media/arts-culture/malaysian-literature/body-2.webp
+    alt: クアラルンプールにあるマレーシア国立図書館の建物。特徴的な青いソンケット文様の屋根を頂いている
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールのマレーシア国立図書館（Perpustakaan Negara Malaysia）。ソンケット（songket）に着想を得たテント状の屋根をもつ
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_National-Library-of-Malaysia-02.jpg
 ---
 
 小説が世に出るよりも早く、そして語文局が設立されるよりも早く、ひとりの語り部（penglipur lara）は、すでにマラッカの宮廷の庭でマレーの英雄を語っていた。その口承の伝統からこそ、この地域で最も豊かな文学遺産の一つが育まれた——今日では国家の称号、数十万リンギットの賞金、そして民族の文明における名誉の席によって讃えられている伝統である。
