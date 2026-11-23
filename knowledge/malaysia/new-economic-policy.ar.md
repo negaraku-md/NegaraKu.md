@@ -66,6 +66,13 @@ relations:
 related: ["rukun-negara", "the-emergency", "independence-1957", "formation-of-malaysia-1963", "population-composition"]
 keywords: ["السياسة الاقتصادية الجديدة", "New Economic Policy", "NEP", "Dasar Ekonomi Baru", "DEB", "Second Malaysia Plan", "إعادة هيكلة المجتمع", "القضاء على الفقر", "الوحدة الوطنية", "حصة البوميبوترا 30%"]
 framework: explainer
+hero: '/media/malaysia/new-economic-policy/hero.webp'
+heroAlt: 'مسجد بوترا ذو القبة الوردية ومجمّع بردانا بوترا الإداري الفخم يطلّان على بحيرة هادئة في بوتراجايا، العاصمة الاتحادية الماليزية المشيّدة خصّيصًا.'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 عادةً ما تُستذكر السياسة الاقتصادية الجديدة بكلمة واحدة — «إعادة الهيكلة» — وظلت موضع جدل منذ ذلك الحين. لكن السياسة ذكرت أهدافها كتابةً، في خطة حكومية عُرضت على البرلمان، وكانت تلك الأهداف اثنين لا واحداً، مع فكرة ثالثة تعلو كليهما. تبيّن هذه المقالة ما تقوله الوثائق، بالترتيب الذي تقوله به.

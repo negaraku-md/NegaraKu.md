@@ -84,6 +84,13 @@ relations:
 related: ["new-economic-policy"]
 keywords: ["Wawasan 2020", "Vision 2020", "Visión 2020", "Mahathir Mohamad", "Bangsa Malaysia", "nación desarrollada", "nueve retos", "Wawasan Kemakmuran Bersama 2030", "Visión de Prosperidad Compartida 2030"]
 framework: explainer
+hero: '/media/malaysia/wawasan-2020/hero.webp'
+heroAlt: 'Las relucientes Torres Gemelas Petronas se alzan sobre el horizonte de Kuala Lumpur bajo un cielo luminoso.'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_(18977925005).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Una mañana de febrero de 1991, un Primer Ministro se puso de pie ante las principales figuras empresariales del país y fijó una meta para los siguientes 30 años: para el año 2020, Malasia debía convertirse en una nación plenamente desarrollada — no solo en términos económicos, sino también en unidad, justicia social y madurez cívica. Esa visión acabó conociéndose como Wawasan 2020.

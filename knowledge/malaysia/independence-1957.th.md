@@ -64,6 +64,13 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["Merdeka 1957", "Malayan independence", "Tunku Abdul Rahman", "Reid Commission", "Stadium Merdeka"]
 framework: history-culture
+hero: '/media/malaysia/independence-1957/hero.webp'
+heroAlt: 'ตนกู อับดุล ระห์มาน ยืนอยู่หน้าฝูงชน ชูมือขึ้น ในพิธีประกาศเอกราชเมอร์เดกาอันเป็นประวัติศาสตร์เมื่อปี 1957'
+heroCredit: 'Malaysian and British Government (1957) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Merdeka_1957_tunku_abdul_rahman.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ในเวลาไม่กี่นาทีหลังเที่ยงคืนของวันที่ 31 สิงหาคม 1957 บน padang หน้าสลังงอร์คลับเก่า (Selangor Club) ในกัวลาลัมเปอร์ ธงยูเนียนแจ็กถูกลดลงและธงของสหพันธรัฐมลายาใหม่ถูกชักขึ้น มันคือภาพที่คนส่วนใหญ่จดจำเกี่ยวกับเมอร์เดกา แต่งานที่แท้จริงของเอกราชได้เสร็จสิ้นไปหลายเดือนก่อนหน้า ในห้องประชุมคณะกรรมการในลอนดอนและกัวลาลัมเปอร์ โดยผู้คนที่เจรจาเกี่ยวกับข้อของรัฐธรรมนูญที่ยังไม่มีอยู่ในปีก่อนหน้า

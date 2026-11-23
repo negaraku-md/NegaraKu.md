@@ -66,6 +66,13 @@ relations:
 related: ["rukun-negara", "the-emergency", "independence-1957", "formation-of-malaysia-1963", "population-composition"]
 keywords: ["New Economic Policy", "NEP", "Dasar Ekonomi Baru", "DEB", "Second Malaysia Plan", "restructuring society", "poverty eradication", "national unity", "Outline Perspective Plan", "30 per cent Bumiputera equity"]
 framework: explainer
+hero: '/media/malaysia/new-economic-policy/hero.webp'
+heroAlt: 'Masjid Putra berkubah merah jambu dan kompleks pentadbiran Perdana Putra yang megah menghadap tasik yang tenang di Putrajaya, ibu kota persekutuan Malaysia yang dibina khas.'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Dasar Ekonomi Baru biasanya diingati dengan satu perkataan sahaja — "penyusunan semula" — dan telah diperdebatkan sejak itu. Namun dasar ini menyatakan matlamatnya sendiri secara bertulis, dalam sebuah rancangan kerajaan yang dibentangkan di Parlimen, dan matlamat itu ada dua, bukan satu, dengan satu idea ketiga yang berada di atas kedua-duanya. Rencana ini mengemukakan apa yang dinyatakan oleh dokumen-dokumen itu, mengikut susunan sebagaimana dokumen-dokumen itu menyatakannya.

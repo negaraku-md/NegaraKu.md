@@ -84,6 +84,13 @@ relations:
 related: ["new-economic-policy"]
 keywords: ["Wawasan 2020", "Vision 2020", "Mahathir Mohamad", "Bangsa Malaysia", "negara maju", "sembilan cabaran", "Wawasan Kemakmuran Bersama 2030"]
 framework: explainer
+hero: '/media/malaysia/wawasan-2020/hero.webp'
+heroAlt: 'Menara Kembar Petronas yang berkilau menjulang di atas cakrawala Kuala Lumpur di bawah langit cerah.'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_(18977925005).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Pada suatu pagi Februari 1991, seorang Perdana Menteri berdiri di hadapan para pengusaha terkemuka negeri dan menetapkan satu sasaran untuk 30 tahun ke depan: menjelang tahun 2020, Malaysia harus menjadi sebuah negara maju sepenuhnya — bukan sekadar dari segi ekonomi, tetapi juga dari segi persatuan, keadilan sosial, dan kematangan sipil. Gagasan itulah yang kemudian dikenal sebagai Wawasan 2020.

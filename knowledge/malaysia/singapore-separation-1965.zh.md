@@ -78,6 +78,13 @@ relations:
 related: ["formation-of-malaysia-1963", "ma63", "independence-1957"]
 keywords: ["Singapore separation 1965", "Independence of Singapore Agreement", "Singapore Day", "Constitution and Malaysia (Singapore Amendment) Act 1965", "Malaysian Malaysia", "Tunku Abdul Rahman", "Lee Kuan Yew"]
 framework: history-culture
+hero: '/media/malaysia/singapore-separation-1965/hero.webp'
+heroAlt: '柔佛—新加坡长堤低低地横跨波光粼粼的柔佛海峡，承载着公路与铁路，从马来西亚一侧望去，通向地平线上的新加坡海岸线。'
+heroCredit: 'Ralff Nestor Nacor / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Causeway_from_Malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 一个国家在短短一个周末之内失去了一个创始州。协议在星期六签署，宪法修正案在星期一通过，而就在同一个星期一上午10时，新加坡广播电台（Radio Singapura）正在宣读一份独立文告。大多数分裂的联邦都是缓慢而喧嚣地走向瓦解的。而这一个——从法律意义上说——是在大约四十八小时之内，透过秘密起草、由十五名部长签署的文件解体的。

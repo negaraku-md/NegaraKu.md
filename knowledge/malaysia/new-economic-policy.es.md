@@ -66,6 +66,13 @@ relations:
 related: ["rukun-negara", "the-emergency", "independence-1957", "formation-of-malaysia-1963", "population-composition"]
 keywords: ["New Economic Policy", "NEP", "Dasar Ekonomi Baru", "DEB", "Second Malaysia Plan", "restructuring society", "poverty eradication", "national unity", "Outline Perspective Plan", "30 per cent Bumiputera equity"]
 framework: explainer
+hero: '/media/malaysia/new-economic-policy/hero.webp'
+heroAlt: 'La mezquita Putra, de cúpula rosada, y el grandioso complejo administrativo Perdana Putra se asoman a un lago tranquilo en Putrajaya, la capital federal de Malasia construida expresamente para tal fin.'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 La Nueva Política Económica suele recordarse con una sola palabra — «reestructuración» — y se ha discutido desde entonces. Pero la política declaró sus propios fines por escrito, en un plan gubernamental presentado ante el Parlamento, y esos fines fueron dos, no uno, con una tercera idea situada por encima de ambos. Este artículo expone lo que dicen los documentos, en el orden en que los documentos lo dicen.

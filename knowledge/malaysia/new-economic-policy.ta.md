@@ -66,6 +66,13 @@ relations:
 related: ["rukun-negara", "the-emergency", "independence-1957", "formation-of-malaysia-1963", "population-composition"]
 keywords: ["New Economic Policy", "NEP", "Dasar Ekonomi Baru", "DEB", "Second Malaysia Plan", "restructuring society", "poverty eradication", "national unity", "Outline Perspective Plan", "30 per cent Bumiputera equity"]
 framework: explainer
+hero: '/media/malaysia/new-economic-policy/hero.webp'
+heroAlt: 'இளஞ்சிவப்பு குவிமாடம் கொண்ட புத்ரா மசூதியும், கம்பீரமான பெர்டானா புத்ரா நிர்வாக வளாகமும், மலேசியாவின் திட்டமிட்டுக் கட்டப்பட்ட கூட்டாட்சித் தலைநகரான புத்ராஜெயாவில் அமைதியான ஏரியைப் பார்த்தபடி அமைந்துள்ளன.'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 புதிய பொருளாதாரக் கொள்கை (New Economic Policy, NEP) பொதுவாக ஒரே ஒரு சொல்லில் — "மறுசீரமைப்பு" (restructuring) — நினைவுகூரப்படுகிறது, அன்றிலிருந்து அதைப் பற்றிய விவாதங்கள் தொடர்ந்து வருகின்றன. ஆனால் இக்கொள்கை தனது நோக்கங்களைப் பாராளுமன்றத்தில் தாக்கல் செய்யப்பட்ட ஓர் அரசாங்கத் திட்டத்தில், எழுத்துப்பூர்வமாக அறிவித்தது; அந்த நோக்கங்கள் ஒன்று அல்ல, இரண்டு; அவை இரண்டையும் விட மேலான மூன்றாவது கருத்தொன்றும் இருந்தது. இந்தக் கட்டுரை, ஆவணங்கள் கூறும் வரிசையிலேயே அவை கூறுவதை விவரிக்கிறது.

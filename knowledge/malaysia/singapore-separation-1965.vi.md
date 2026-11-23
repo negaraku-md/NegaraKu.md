@@ -79,6 +79,13 @@ relations:
 related: ["formation-of-malaysia-1963", "ma63", "independence-1957"]
 keywords: ["Singapore separation 1965", "Independence of Singapore Agreement", "Singapore Day", "Constitution and Malaysia (Singapore Amendment) Act 1965", "Malaysian Malaysia", "Tunku Abdul Rahman", "Lee Kuan Yew"]
 framework: history-culture
+hero: '/media/malaysia/singapore-separation-1965/hero.webp'
+heroAlt: 'Đường đắp Johor-Singapore trải dài thấp qua eo biển Johor lấp lánh, mang theo đường bộ và đường sắt hướng về bờ biển Singapore phía chân trời, nhìn từ phía Malaysia.'
+heroCredit: 'Ralff Nestor Nacor / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Causeway_from_Malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Một đất nước đã mất một bang sáng lập chỉ trong một cuối tuần. Thỏa thuận được ký vào một ngày thứ Bảy, tu chính hiến pháp được thông qua vào ngày thứ Hai, và đến 10 giờ sáng cùng ngày thứ Hai đó một tuyên cáo độc lập đang được đọc trên đài Radio Singapura. Phần lớn các liên bang tan vỡ thì làm điều đó một cách chậm rãi và ồn ào. Liên bang này bị giải thể — theo nghĩa pháp lý — trong khoảng bốn mươi tám giờ, bởi các văn kiện được soạn thảo trong bí mật và được ký bởi mười lăm bộ trưởng.

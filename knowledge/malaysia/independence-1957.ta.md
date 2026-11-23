@@ -64,6 +64,13 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["Merdeka 1957", "Malayan independence", "Tunku Abdul Rahman", "Reid Commission", "Stadium Merdeka"]
 framework: history-culture
+hero: '/media/malaysia/independence-1957/hero.webp'
+heroAlt: '1957 ஆம் ஆண்டின் வரலாற்றுச் சிறப்புமிக்க மெர்டேகா சுதந்திரப் பிரகடனத்தின் போது, துங்கு அப்துல் ரகுமான் கூட்டத்தின் முன் கையை உயர்த்தியபடி நிற்கிறார்.'
+heroCredit: 'Malaysian and British Government (1957) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Merdeka_1957_tunku_abdul_rahman.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1957 ஆகஸ்ட் 31 அன்று நள்ளிரவைத் தாண்டிய சில நிமிடங்களில், Kuala Lumpur-இல் உள்ள பழைய Selangor Club-க்கு முன்னால் இருந்த padang-இல், Union Jack கீழிறக்கப்பட்டு, புதிய மலாயா கூட்டரசின் (Federation of Malaya) கொடி ஏற்றப்பட்டது. இதுவே பெரும்பாலானவர்கள் Merdeka பற்றி மனதில் கொண்டிருக்கும் காட்சி — ஆனால் சுதந்திரத்தின் உண்மையான வேலை மாதங்களுக்கு முன்பே, லண்டன் மற்றும் Kuala Lumpur-இல் உள்ள குழு அறைகளில், முந்தைய ஆண்டு வரை இருந்திராத ஒரு அரசியலமைப்பின் பிரிவுகள் குறித்து பேச்சுவார்த்தை நடத்திய மக்களால் முடிக்கப்பட்டிருந்தது.

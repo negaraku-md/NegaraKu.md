@@ -69,6 +69,13 @@ related: ["independence-1957", "formation-of-malaysia-1963", "singapore-separati
 entity: "Hari Kebangsaan dan Hari Malaysia"
 keywords: ["اليوم الوطني", "يوم الاستقلال", "يوم ماليزيا", "Hari Kebangsaan", "Hari Malaysia", "31 أغسطس 1957", "16 سبتمبر 1963"]
 framework: explainer
+hero: '/media/malaysia/national-day-vs-malaysia-day/hero.webp'
+heroAlt: 'عازفو الفرقة العسكرية بالزي الرسمي يسيرون في تشكيل منظّم أمام المتفرجين خلال عرض يوم مرديكا الماليزي في ساحة مرديكا (داتاران مرديكا).'
+heroCredit: 'Rizuan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:55th_Merdeka_Day_Picture_09.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 يحتوي التقويم الماليزي في كل عام على تاريخين يسهل الخلط بينهما: 31 أغسطس و16 سبتمبر. ويُحتفى بكليهما بالأعلام والمسيرات والأناشيد الوطنية. ومع ذلك فإنهما يحييان ذكرى حدثين مختلفين تفصل بينهما ست سنوات، ويصفان دولتين مختلفتي الشكل.

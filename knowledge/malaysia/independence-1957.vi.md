@@ -65,6 +65,13 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["Merdeka 1957", "Malayan independence", "Tunku Abdul Rahman", "Reid Commission", "Stadium Merdeka"]
 framework: history-culture
+hero: '/media/malaysia/independence-1957/hero.webp'
+heroAlt: 'Tunku Abdul Rahman đứng trước đám đông, giơ cao tay, tại lễ tuyên bố độc lập Merdeka lịch sử năm 1957.'
+heroCredit: 'Malaysian and British Government (1957) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Merdeka_1957_tunku_abdul_rahman.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Vài phút sau nửa đêm ngày 31 tháng 8 năm 1957, trên padang (sân) trước Selangor Club cũ ở Kuala Lumpur, lá cờ Union Jack được hạ xuống và lá cờ của Liên bang Malaya mới được kéo lên. Đó là hình ảnh mà hầu hết mọi người mang theo về Merdeka — nhưng công việc thực sự của nền độc lập đã hoàn thành nhiều tháng trước đó, trong các phòng ủy ban ở London và Kuala Lumpur, bởi những người thương lượng về các điều khoản của một hiến pháp chưa tồn tại một năm trước đó.

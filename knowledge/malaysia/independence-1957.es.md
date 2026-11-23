@@ -64,6 +64,13 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["Merdeka 1957", "Malayan independence", "Tunku Abdul Rahman", "Reid Commission", "Stadium Merdeka"]
 framework: history-culture
+hero: '/media/malaysia/independence-1957/hero.webp'
+heroAlt: 'Tunku Abdul Rahman se encuentra ante una multitud, con la mano en alto, en la histórica proclamación de independencia Merdeka de 1957.'
+heroCredit: 'Malaysian and British Government (1957) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Merdeka_1957_tunku_abdul_rahman.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Unos minutos pasada la medianoche del 31 de agosto de 1957, en el padang frente al antiguo Selangor Club de Kuala Lumpur, la Union Jack bajó y la bandera de la nueva Federación de Malaya subió. Es la imagen que la mayoría de la gente conserva de la Merdeka — pero el verdadero trabajo de la independencia se había terminado meses antes, en salas de comités de Londres y Kuala Lumpur, por personas que negociaban cláusulas de una constitución que el año anterior ni siquiera existía.

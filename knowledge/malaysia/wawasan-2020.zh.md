@@ -84,6 +84,13 @@ relations:
 related: ["new-economic-policy"]
 keywords: ["Wawasan 2020", "Vision 2020", "Mahathir Mohamad", "Bangsa Malaysia", "negara maju", "sembilan cabaran", "Wawasan Kemakmuran Bersama 2030"]
 framework: explainer
+hero: '/media/malaysia/wawasan-2020/hero.webp'
+heroAlt: '熠熠生辉的双峰塔在明亮的天空下高耸于吉隆坡的天际线之上。'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_(18977925005).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1991年2月的一个早晨，一位首相站在国内知名商界人士面前，为未来30年立下一个目标：到2020年，马来西亚应成为一个完全发达的国家——不仅在经济层面，也包括团结、社会公正与公民成熟等方面。这个构想后来便被称为2020年宏愿。

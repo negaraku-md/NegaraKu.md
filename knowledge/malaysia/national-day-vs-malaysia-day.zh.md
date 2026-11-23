@@ -68,6 +68,13 @@ related: ["independence-1957", "formation-of-malaysia-1963", "singapore-separati
 entity: "Hari Kebangsaan dan Hari Malaysia"
 keywords: ["Hari Kebangsaan", "Hari Merdeka", "Hari Malaysia", "31 Ogos 1957", "16 September 1963", "beza Hari Kebangsaan Hari Malaysia"]
 framework: explainer
+hero: '/media/malaysia/national-day-vs-malaysia-day/hero.webp'
+heroAlt: '身着制服的军乐队队员列队行进，在默迪卡广场的马来西亚国庆日游行中经过观众面前。'
+heroCredit: 'Rizuan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:55th_Merdeka_Day_Picture_09.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 马来西亚的日历上，每年都有两个容易被误认为是同一回事的日期：8月31日与9月16日。两者都以旗帜、游行与爱国歌曲来庆祝。然而，这两个日期纪念的是不同的事件，相隔六年，描述的是两个形态不同的国家。

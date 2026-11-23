@@ -65,6 +65,13 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["默迪卡 1957", "马来亚独立", "东姑阿都拉曼", "李特宪制委员会", "默迪卡体育场"]
 framework: history-culture
+hero: '/media/malaysia/independence-1957/hero.webp'
+heroAlt: '东姑阿都拉曼举手站在人群前，正值1957年历史性的默迪卡独立宣言。'
+heroCredit: 'Malaysian and British Government (1957) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Merdeka_1957_tunku_abdul_rahman.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1957年8月31日午夜刚过几分钟，在吉隆坡旧雪兰莪俱乐部前方的广场（padang）上，米字旗降下，新的马来亚联合邦国旗升起。这是大多数人对默迪卡所怀有的画面——但独立的实际工作在数月前就已完成，是在伦敦与吉隆坡的委员会会议室里，由一群人就一部前一年还不存在的宪法条文逐一谈判而成。

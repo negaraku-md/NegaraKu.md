@@ -69,6 +69,13 @@ related: ["independence-1957", "formation-of-malaysia-1963", "singapore-separati
 entity: "Hari Kebangsaan dan Hari Malaysia"
 keywords: ["राष्ट्रीय दिवस", "मेरदेका दिवस", "मलेशिया दिवस", "Hari Kebangsaan", "Hari Malaysia", "31 अगस्त 1957", "16 सितंबर 1963"]
 framework: explainer
+hero: '/media/malaysia/national-day-vs-malaysia-day/hero.webp'
+heroAlt: 'दातारान मेरडेका में मलेशिया की मेरडेका दिवस परेड के दौरान वर्दीधारी सैन्य बैंड के सदस्य दर्शकों के सामने से व्यवस्थित पंक्ति में मार्च करते हुए।'
+heroCredit: 'Rizuan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:55th_Merdeka_Day_Picture_09.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 हर वर्ष, मलेशिया के कैलेंडर में दो तिथियाँ होती हैं जिन्हें आसानी से एक ही चीज़ समझ लिया जाता है: 31 अगस्त और 16 सितंबर। दोनों को झंडों, परेडों और देशभक्ति गीतों के साथ मनाया जाता है। फिर भी दोनों भिन्न घटनाओं का स्मरण करते हैं, जिनके बीच छह वर्ष का अंतर है, और दो भिन्न आकार वाले देशों का वर्णन करते हैं।

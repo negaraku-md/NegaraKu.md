@@ -84,6 +84,13 @@ relations:
 related: ["new-economic-policy"]
 keywords: ["Wawasan 2020", "Vision 2020", "विज़न 2020", "महातिर मोहम्मद", "Mahathir Mohamad", "Bangsa Malaysia", "बंगसा मलेशिया", "विकसित राष्ट्र", "नौ चुनौतियाँ", "Wawasan Kemakmuran Bersama 2030", "साझा समृद्धि विज़न 2030"]
 framework: explainer
+hero: '/media/malaysia/wawasan-2020/hero.webp'
+heroAlt: 'चमचमाते पेट्रोनास ट्विन टावर्स उज्ज्वल आकाश के नीचे कुआलालंपुर के क्षितिज से ऊपर उठते हुए।'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_(18977925005).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1991 की एक फरवरी की सुबह, एक प्रधानमंत्री राष्ट्र के अग्रणी व्यापारिक व्यक्तित्वों के समक्ष खड़े हुए और अगले 30 वर्षों के लिए एक लक्ष्य रखा: वर्ष 2020 तक मलेशिया को एक पूर्णतः विकसित राष्ट्र बन जाना चाहिए — केवल आर्थिक दृष्टि से नहीं, बल्कि एकता, सामाजिक न्याय और नागरिक परिपक्वता में भी। वह विज़न आगे चलकर Wawasan 2020 के नाम से जाना गया।

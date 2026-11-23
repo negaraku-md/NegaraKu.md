@@ -84,6 +84,13 @@ relations:
 related: ["new-economic-policy"]
 keywords: ["Wawasan 2020", "Vision 2020", "رؤية 2020", "مهاتير محمد", "Mahathir Mohamad", "Bangsa Malaysia", "الأمة الماليزية", "دولة متقدمة", "التحديات التسعة", "Wawasan Kemakmuran Bersama 2030", "رؤية الازدهار المشترك 2030"]
 framework: explainer
+hero: '/media/malaysia/wawasan-2020/hero.webp'
+heroAlt: 'برجا بتروناس التوأمان اللامعان يرتفعان فوق أفق كوالالمبور تحت سماء مشرقة.'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_(18977925005).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 في صباح أحد أيام فبراير عام 1991، وقف رئيس الوزراء أمام كبار رجال الأعمال في البلاد وحدّد هدفًا للسنوات الثلاثين المقبلة: أن تصبح ماليزيا، بحلول عام 2020، دولة متقدمة بالكامل — لا من الناحية الاقتصادية فحسب، بل في الوحدة والعدالة الاجتماعية والنضج المدني أيضًا. وقد عُرفت تلك الرؤية باسم Wawasan 2020.

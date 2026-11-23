@@ -69,6 +69,13 @@ related: ["independence-1957", "formation-of-malaysia-1963", "singapore-separati
 entity: "Hari Kebangsaan dan Hari Malaysia"
 keywords: ["Hari Kebangsaan", "Hari Merdeka", "Hari Malaysia", "31 Ogos 1957", "16 September 1963", "beza Hari Kebangsaan Hari Malaysia"]
 framework: explainer
+hero: '/media/malaysia/national-day-vs-malaysia-day/hero.webp'
+heroAlt: 'Músicos militares uniformados marchan en formación ante los espectadores durante el desfile del Día de Merdeka de Malasia en Dataran Merdeka.'
+heroCredit: 'Rizuan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:55th_Merdeka_Day_Picture_09.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Cada año, el calendario de Malasia contiene dos fechas que fácilmente se confunden como si fueran lo mismo: el 31 de agosto y el 16 de septiembre. Ambas se marcan con banderas, desfiles y canciones patrióticas. Sin embargo, las dos conmemoran acontecimientos distintos, con seis años de diferencia, y describen dos países de formas distintas.

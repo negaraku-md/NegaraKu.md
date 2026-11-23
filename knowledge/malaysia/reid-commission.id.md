@@ -64,6 +64,13 @@ relations:
 related: ["independence-1957", "malayan-union", "formation-of-malaysia-1963"]
 keywords: ["Reid Commission", "Federation of Malaya Constitution", "Lord Reid", "Ivor Jennings", "1957 constitution", "Malayan independence"]
 framework: profile
+hero: '/media/malaysia/reid-commission/hero.webp'
+heroAlt: 'Gedung Parlemen Malaysia berdiri di area berlanskap di Kuala Lumpur, dengan menara kantornya yang ramping dan ruang legislatif berusuk bergaya patung yang berkilau di bawah cahaya siang yang terang.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Bangunan_Parlimen_Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Ketika para pemimpin Tanah Melayu dan pemerintah British sepakat, pada awal 1956, bahwa kemerdekaan harus tiba menjelang Agustus 1957, mereka menghadapi sebuah masalah yang tidak dapat diselesaikan oleh tenggat semata: negara baru itu tidak memiliki konstitusi. Alih-alih menulisnya sendiri, mereka menyerahkan tugas itu kepada lima ahli hukum — tidak seorang pun dari mereka orang Tanah Melayu — dan meminta mereka merancang, dari luar, mesin perundangan sebuah negara yang tidak akan mereka tinggali.

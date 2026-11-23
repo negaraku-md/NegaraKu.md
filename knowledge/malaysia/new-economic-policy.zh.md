@@ -65,6 +65,13 @@ relations:
 related: ["rukun-negara", "the-emergency", "independence-1957", "formation-of-malaysia-1963", "population-composition"]
 keywords: ["New Economic Policy", "NEP", "Dasar Ekonomi Baru", "DEB", "Second Malaysia Plan", "restructuring society", "poverty eradication", "national unity", "Outline Perspective Plan", "30 per cent Bumiputera equity"]
 framework: explainer
+hero: '/media/malaysia/new-economic-policy/hero.webp'
+heroAlt: '粉红色圆顶的布特拉清真寺与宏伟的布特拉宫行政大楼俯瞰着布城一泓平静的湖水，布城是马来西亚专门规划兴建的联邦行政首都。'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 新经济政策通常仅以一个词——「重组」——被人们记住，并因此争论至今。然而，这项政策以书面形式，在提呈国会的政府计划中自行陈述了其目标，而这些目标是两个，不是一个，此外还有一个凌驾两者之上的第三重理念。本文按照文件本身陈述的顺序，说明这些文件实际写了什么。

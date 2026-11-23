@@ -64,6 +64,13 @@ relations:
 related: ["independence-1957", "malayan-union", "formation-of-malaysia-1963"]
 keywords: ["Reid Commission", "Federation of Malaya Constitution", "Lord Reid", "Ivor Jennings", "1957 constitution", "Malayan independence"]
 framework: profile
+hero: '/media/malaysia/reid-commission/hero.webp'
+heroAlt: 'மலேசிய நாடாளுமன்றக் கட்டிடம் கோலாலம்பூரில் அழகுபடுத்தப்பட்ட பசுமைப் பகுதியில் அமைந்துள்ளது; அதன் மெல்லிய அலுவலகக் கோபுரமும் சிற்பக் கலை பாணியிலான விலா எலும்பு வடிவச் சட்டமன்ற மண்டபமும் பிரகாசமான பகல் ஒளியில் மின்னுகின்றன.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Bangunan_Parlimen_Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1956 ஆம் ஆண்டின் தொடக்கத்தில், 1957 ஆகஸ்ட்டுக்குள் சுதந்திரம் வர வேண்டும் என்று மலாயாவின் தலைவர்களும் பிரிட்டிஷ் அரசாங்கமும் உடன்பட்டபோது, ஒரு காலக்கெடுவால் மட்டும் தீர்க்க முடியாத ஒரு பிரச்சினை அவர்களுக்கு இருந்தது: புதிய நாட்டுக்கு அரசியலமைப்பே இல்லை. அதைத் தாங்களே எழுதுவதற்குப் பதிலாக, அவர்கள் அந்தப் பணியை ஐந்து சட்ட வல்லுநர்களிடம் — அவர்களில் எவரும் மலாயாவைச் சேர்ந்தவர்கள் அல்ல — ஒப்படைத்தனர்; தாங்கள் வாழப்போகாத ஒரு நாட்டின் சட்ட இயந்திரத்தை வெளியிலிருந்து வடிவமைக்குமாறு கேட்டுக்கொண்டனர்.

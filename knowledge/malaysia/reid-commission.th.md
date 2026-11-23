@@ -64,6 +64,13 @@ relations:
 related: ["independence-1957", "malayan-union", "formation-of-malaysia-1963"]
 keywords: ["Reid Commission", "Federation of Malaya Constitution", "Lord Reid", "Ivor Jennings", "1957 constitution", "Malayan independence"]
 framework: profile
+hero: '/media/malaysia/reid-commission/hero.webp'
+heroAlt: 'อาคารรัฐสภามาเลเซียตั้งอยู่ท่ามกลางพื้นที่จัดสวนในกัวลาลัมเปอร์ โดยอาคารสำนักงานทรงเพรียวและห้องประชุมนิติบัญญัติรูปซี่โครงดุจงานประติมากรรมส่องประกายกลางแสงแดดสดใส'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Bangunan_Parlimen_Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 เมื่อผู้นำของมลายาและรัฐบาลอังกฤษเห็นพ้องกันในต้นปี 1956 ว่าเอกราชควรมาถึงภายในเดือนสิงหาคม 1957 พวกเขามีปัญหาที่เส้นตายเพียงอย่างเดียวแก้ไม่ได้ คือ ประเทศใหม่ไม่มีรัฐธรรมนูญ แทนที่จะเขียนเอง พวกเขามอบงานให้แก่นักกฎหมายห้าคน ไม่มีใครเป็นชาวมลายา และขอให้พวกเขาออกแบบกลไกทางกฎหมายของรัฐที่พวกเขาจะไม่ได้อยู่อาศัย จากภายนอก

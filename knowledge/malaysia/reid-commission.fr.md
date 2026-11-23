@@ -64,6 +64,13 @@ relations:
 related: ["independence-1957", "malayan-union", "formation-of-malaysia-1963"]
 keywords: ["Reid Commission", "Federation of Malaya Constitution", "Lord Reid", "Ivor Jennings", "1957 constitution", "Malayan independence"]
 framework: profile
+hero: '/media/malaysia/reid-commission/hero.webp'
+heroAlt: 'La Maison du Parlement de la Malaisie se dresse dans un parc paysager à Kuala Lumpur, sa fine tour de bureaux et sa chambre législative sculpturale aux nervures saillantes brillant sous la vive lumière du jour.'
+heroCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Bangunan_Parlimen_Malaysia-01.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Lorsque, au début de 1956, les dirigeants de la Malaya et le gouvernement britannique convinrent que l'indépendance devait venir avant août 1957, ils avaient un problème qu'un simple délai ne pouvait résoudre à lui seul : le nouveau pays n'avait pas de constitution. Plutôt que de l'écrire eux-mêmes, ils confièrent le travail à cinq juristes — aucun d'entre eux n'était malaisien — et leur demandèrent de concevoir, de l'extérieur, la machinerie juridique d'un État où ils ne vivraient pas.

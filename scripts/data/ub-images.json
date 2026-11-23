@@ -6757,5 +6757,77 @@
       "alt": "A slender, many-armed bronze bodhisattva figure, green with age, lit against a dark museum backdrop.",
       "position": "attention"
     }
+  },
+  "malaysia/independence-1957": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Merdeka_1957_tunku_abdul_rahman.jpg",
+      "license": "Public domain",
+      "by": "Malaysian and British Government (1957)",
+      "page": "https://commons.wikimedia.org/wiki/File:Merdeka_1957_tunku_abdul_rahman.jpg",
+      "kind": "actual",
+      "subject": "Tunku Abdul Rahman raises his hand during the proclamation of Malaya's independence on 31 August 1957.",
+      "alt": "Tunku Abdul Rahman stands before a crowd, hand raised, at the historic 1957 Merdeka independence proclamation.",
+      "position": "attention"
+    }
+  },
+  "malaysia/national-day-vs-malaysia-day": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/55th_Merdeka_Day_Picture_09.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Rizuan",
+      "page": "https://commons.wikimedia.org/wiki/File:55th_Merdeka_Day_Picture_09.jpg",
+      "kind": "actual",
+      "subject": "A Malaysian Army music band marches on parade during the 55th National Day Parade at Merdeka Square, Kuala Lumpur.",
+      "alt": "Uniformed military bandsmen march in formation past spectators during Malaysia's Merdeka Day parade at Dataran Merdeka.",
+      "position": "attention"
+    }
+  },
+  "malaysia/wawasan-2020": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_%2818977925005%29.jpg",
+      "license": "CC BY 2.0",
+      "by": "Jorge Láscar",
+      "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_(18977925005).jpg",
+      "kind": "representative",
+      "subject": "The Petronas Twin Towers rise above the Kuala Lumpur skyline, the emblem of Malaysia's modernisation drive.",
+      "alt": "The gleaming Petronas Twin Towers soar above the Kuala Lumpur skyline under a bright sky.",
+      "position": "attention"
+    }
+  },
+  "malaysia/singapore-separation-1965": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Johor_Causeway_from_Malaysia.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Ralff Nestor Nacor",
+      "page": "https://commons.wikimedia.org/wiki/File:Johor_Causeway_from_Malaysia.jpg",
+      "kind": "representative",
+      "subject": "The Johor-Singapore Causeway, the physical land link across the Straits of Johor connecting Malaysia and Singapore, which separated from Malaysia in 1965.",
+      "alt": "The Johor-Singapore Causeway stretches low across the shimmering Straits of Johor, carrying road and rail toward the Singapore shoreline on the horizon as seen from the Malaysian side.",
+      "position": "attention"
+    }
+  },
+  "malaysia/reid-commission": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Kuala_Lumpur_Malaysia_Bangunan_Parlimen_Malaysia-01.jpg",
+      "license": "CC BY-SA 3.0",
+      "by": "CEphoto, Uwe Aranas",
+      "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Bangunan_Parlimen_Malaysia-01.jpg",
+      "kind": "representative",
+      "subject": "Bangunan Parlimen in Kuala Lumpur, the Parliament House of Malaysia, embodying the constitutional order the Reid Commission's 1957 constitution created.",
+      "alt": "Malaysia's Parliament House stands in landscaped grounds in Kuala Lumpur, its slender office tower and sculptural ribbed legislative chamber gleaming in bright daylight.",
+      "position": "attention"
+    }
+  },
+  "malaysia/new-economic-policy": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg",
+      "license": "CC BY-SA 3.0",
+      "by": "Stefan Fussan",
+      "page": "https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg",
+      "kind": "representative",
+      "subject": "The federal government precinct at Putrajaya, with the rose-domed Putra Mosque and the Perdana Putra complex, representing national development.",
+      "alt": "The pink-domed Putra Mosque and the grand Perdana Putra administrative complex overlook a calm lake in Putrajaya, Malaysia's purpose-built federal capital.",
+      "position": "attention"
+    }
   }
 }

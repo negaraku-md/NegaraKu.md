@@ -79,6 +79,13 @@ relations:
 related: ["formation-of-malaysia-1963", "ma63", "independence-1957"]
 keywords: ["Singapore separation 1965", "Independence of Singapore Agreement", "Singapore Day", "Constitution and Malaysia (Singapore Amendment) Act 1965", "Malaysian Malaysia", "Tunku Abdul Rahman", "Lee Kuan Yew"]
 framework: history-culture
+hero: '/media/malaysia/singapore-separation-1965/hero.webp'
+heroAlt: 'La calzada Johor-Singapur se extiende baja sobre el reluciente estrecho de Johor, llevando la carretera y el ferrocarril hacia la costa de Singapur en el horizonte, vista desde el lado malasio.'
+heroCredit: 'Ralff Nestor Nacor / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Johor_Causeway_from_Malaysia.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Un país perdió un estado fundador en un solo fin de semana. El acuerdo se firmó un sábado, la enmienda constitucional se aprobó el lunes, y a las 10 de la mañana de ese mismo lunes una proclamación de independencia se leía por Radio Singapura. La mayoría de las federaciones que se rompen lo hacen despacio y con estruendo. Esta se disolvió — en el sentido jurídico — en unas cuarenta y ocho horas, mediante documentos redactados en secreto y firmados por quince ministros.

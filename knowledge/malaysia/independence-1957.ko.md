@@ -64,6 +64,13 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["Merdeka 1957", "Malayan independence", "Tunku Abdul Rahman", "Reid Commission", "Stadium Merdeka"]
 framework: history-culture
+hero: '/media/malaysia/independence-1957/hero.webp'
+heroAlt: '툰쿠 압둘 라만이 한 손을 든 채 군중 앞에 서서 1957년 역사적인 머르데카 독립 선언을 하고 있다.'
+heroCredit: 'Malaysian and British Government (1957) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Merdeka_1957_tunku_abdul_rahman.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1957년 8월 31일 자정을 몇 분 넘긴 시각, 쿠알라룸푸르(Kuala Lumpur)의 옛 슬랑오르 클럽(Selangor Club) 앞 파당(padang)에서 유니언 잭이 내려가고 새 말라야 연방(Federation of Malaya)의 국기가 올라갔습니다. 이것이 대부분의 사람들이 므르데카(Merdeka)에 대해 품고 있는 이미지입니다 — 그러나 독립의 실제 작업은 그보다 몇 달 앞서, 런던과 쿠알라룸푸르의 위원회실에서, 한 해 전만 해도 존재하지 않던 헌법의 조항들을 놓고 협상하던 사람들에 의해 이미 끝나 있었습니다.

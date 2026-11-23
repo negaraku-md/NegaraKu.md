@@ -84,6 +84,13 @@ relations:
 related: ["new-economic-policy"]
 keywords: ["Wawasan 2020", "Vision 2020", "Mahathir Mohamad", "Bangsa Malaysia", "negara maju", "sembilan cabaran", "Wawasan Kemakmuran Bersama 2030"]
 framework: explainer
+hero: '/media/malaysia/wawasan-2020/hero.webp'
+heroAlt: 'きらめくペトロナスツインタワーが、明るい空の下、クアラルンプールのスカイラインの上にそびえ立つ。'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_(18977925005).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 1991年2月のある朝、一人の首相が国内有数の実業家たちの前に立ち、30年先を見据えた一つの目標を掲げた——2020年までに、マレーシアは完全な先進国とならなければならない。それは経済面だけでなく、団結、社会的公正、そして市民的成熟の面においてもである。この構想こそが、のちにワワサン2020として知られるようになった。

@@ -65,6 +65,13 @@ relations:
 related: ["rukun-negara", "the-emergency", "independence-1957", "formation-of-malaysia-1963", "population-composition"]
 keywords: ["New Economic Policy", "NEP", "Dasar Ekonomi Baru", "DEB", "Second Malaysia Plan", "restructuring society", "poverty eradication", "national unity", "Outline Perspective Plan", "30 per cent Bumiputera equity"]
 framework: explainer
+hero: '/media/malaysia/new-economic-policy/hero.webp'
+heroAlt: '분홍빛 돔의 푸트라 모스크와 웅장한 페르다나 푸트라 행정 청사가 푸트라자야의 잔잔한 호수를 내려다보고 있다. 푸트라자야는 말레이시아가 계획적으로 조성한 연방 행정 수도이다.'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 신경제정책은 흔히 "재편"이라는 한 단어로 기억되며, 그 이후로 줄곧 논쟁의 대상이 되어 왔습니다. 그러나 이 정책은 의회에 상정된 정부 계획 문서에서 스스로의 목표를 글로 명시했으며, 그 목표는 하나가 아니라 둘이었고, 그 둘 위에 세 번째 개념이 자리하고 있었습니다. 이 글은 문서가 말하는 내용을, 문서가 말하는 순서 그대로 정리합니다.

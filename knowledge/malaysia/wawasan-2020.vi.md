@@ -84,6 +84,13 @@ relations:
 related: ["new-economic-policy"]
 keywords: ["Wawasan 2020", "Vision 2020", "Mahathir Mohamad", "Bangsa Malaysia", "negara maju", "sembilan cabaran", "Wawasan Kemakmuran Bersama 2030"]
 framework: explainer
+hero: '/media/malaysia/wawasan-2020/hero.webp'
+heroAlt: 'Tháp đôi Petronas lấp lánh vươn cao trên đường chân trời Kuala Lumpur dưới bầu trời trong sáng.'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_(18977925005).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Vào một buổi sáng tháng 2 năm 1991, một Thủ tướng đứng trước các doanh nhân hàng đầu của đất nước và đặt một mục tiêu cho 30 năm phía trước: đến năm 2020, Malaysia phải trở thành một nước phát triển đầy đủ — không chỉ về mặt kinh tế, mà còn về mặt đoàn kết, công bằng xã hội và sự trưởng thành công dân. Chính tầm nhìn đó về sau được biết đến là Wawasan 2020.

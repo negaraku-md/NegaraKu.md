@@ -69,6 +69,13 @@ related: ["independence-1957", "formation-of-malaysia-1963", "singapore-separati
 entity: "Hari Kebangsaan dan Hari Malaysia"
 keywords: ["Hari Kebangsaan", "Hari Merdeka", "Hari Malaysia", "31 Ogos 1957", "16 September 1963", "beza Hari Kebangsaan Hari Malaysia"]
 framework: explainer
+hero: '/media/malaysia/national-day-vs-malaysia-day/hero.webp'
+heroAlt: 'தாத்தாரான் மெர்டேகாவில் நடைபெறும் மலேசியாவின் மெர்டேகா தின அணிவகுப்பின் போது, சீருடை அணிந்த இராணுவ இசைக்கலைஞர்கள் பார்வையாளர்களைக் கடந்து அணிவகுத்துச் செல்கின்றனர்.'
+heroCredit: 'Rizuan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:55th_Merdeka_Day_Picture_09.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ஒவ்வொரு ஆண்டும் மலேசியாவின் நாட்காட்டியில், ஒரே விஷயம் என்று எளிதில் தவறாகக் கருதப்படும் இரண்டு தேதிகள் உள்ளன: 31 ஆகஸ்ட் மற்றும் 16 செப்டம்பர். இரண்டும் கொடிகள், அணிவகுப்புகள் மற்றும் தேசபக்திப் பாடல்களுடன் கொண்டாடப்படுகின்றன. ஆயினும் இவை இரண்டும் ஆறு ஆண்டுகள் இடைவெளியில் நிகழ்ந்த வெவ்வேறு நிகழ்வுகளைக் குறிக்கின்றன, மேலும் வெவ்வேறு வடிவங்களைக் கொண்ட இரண்டு நாடுகளை விவரிக்கின்றன.

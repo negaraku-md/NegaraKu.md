@@ -84,6 +84,13 @@ relations:
 related: ["new-economic-policy"]
 keywords: ["Wawasan 2020", "Vision 2020", "Mahathir Mohamad", "Bangsa Malaysia", "negara maju", "sembilan cabaran", "Wawasan Kemakmuran Bersama 2030"]
 framework: explainer
+hero: '/media/malaysia/wawasan-2020/hero.webp'
+heroAlt: 'ตึกแฝดเปโตรนาสที่ส่องประกายตระหง่านเหนือเส้นขอบฟ้าของกัวลาลัมเปอร์ภายใต้ท้องฟ้าสดใส'
+heroCredit: 'Jorge Láscar / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_(18977925005).jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 ในเช้าวันหนึ่งของเดือนกุมภาพันธ์ 1991 นายกรัฐมนตรีคนหนึ่งยืนอยู่ต่อหน้านักธุรกิจชั้นนำของประเทศและวางเป้าหมายหนึ่งสำหรับ 30 ปีข้างหน้า คือ ภายในปี 2020 มาเลเซียพึงกลายเป็นประเทศที่พัฒนาแล้วอย่างสมบูรณ์ ไม่เพียงในแง่เศรษฐกิจ แต่ยังในแง่ความสามัคคี ความยุติธรรมทางสังคม และวุฒิภาวะของพลเมือง แนวคิดนั้นเองที่ต่อมาเป็นที่รู้จักในชื่อวิสัยทัศน์ 2020

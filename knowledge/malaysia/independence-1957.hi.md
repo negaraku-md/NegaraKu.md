@@ -64,6 +64,13 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["Merdeka 1957", "Malayan independence", "Tunku Abdul Rahman", "Reid Commission", "Stadium Merdeka"]
 framework: history-culture
+hero: '/media/malaysia/independence-1957/hero.webp'
+heroAlt: 'टुंकू अब्दुल रहमान 1957 के ऐतिहासिक मेरडेका स्वतंत्रता उद्घोषणा के अवसर पर हाथ उठाए भीड़ के सामने खड़े हैं।'
+heroCredit: 'Malaysian and British Government (1957) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Merdeka_1957_tunku_abdul_rahman.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 31 अगस्त 1957 को आधी रात के कुछ मिनट बाद, कुआलालंपुर में पुराने Selangor Club के सामने पडांग (padang) पर, यूनियन जैक (Union Jack) उतारा गया और नए मलाया संघ का झंडा फहराया गया। यही वह छवि है जो अधिकांश लोग मेरदेका की अपने मन में रखते हैं — लेकिन स्वतंत्रता का असली काम महीनों पहले ही पूरा हो चुका था, लंदन और कुआलालंपुर के समिति-कक्षों में, ऐसे लोगों द्वारा जो एक ऐसे संविधान की धाराओं पर बातचीत कर रहे थे जो एक साल पहले अस्तित्व में ही नहीं था।

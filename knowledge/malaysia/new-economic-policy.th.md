@@ -66,6 +66,13 @@ relations:
 related: ["rukun-negara", "the-emergency", "independence-1957", "formation-of-malaysia-1963", "population-composition"]
 keywords: ["New Economic Policy", "NEP", "Dasar Ekonomi Baru", "DEB", "Second Malaysia Plan", "restructuring society", "poverty eradication", "national unity", "Outline Perspective Plan", "30 per cent Bumiputera equity"]
 framework: explainer
+hero: '/media/malaysia/new-economic-policy/hero.webp'
+heroAlt: 'มัสยิดปุตราโดมสีชมพูและอาคารบริหารเปอร์ดานาปุตราอันโอ่อ่า มองลงสู่ทะเลสาบอันสงบนิ่งในปุตราจายา เมืองหลวงฝ่ายบริหารของรัฐบาลกลางที่มาเลเซียวางผังสร้างขึ้นโดยเฉพาะ'
+heroCredit: 'Stefan Fussan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 3.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 นโยบายเศรษฐกิจใหม่มักถูกจดจำในคำเดียว คือ "การปรับโครงสร้าง" และถูกถกเถียงกันตั้งแต่นั้นมา แต่นโยบายระบุจุดมุ่งหมายของตนเองเป็นลายลักษณ์อักษรในแผนของรัฐบาลที่เสนอต่อรัฐสภา และจุดมุ่งหมายเหล่านั้นมีสองข้อ ไม่ใช่หนึ่ง โดยมีแนวคิดที่สามอยู่เหนือทั้งสอง บทความนี้นำเสนอสิ่งที่เอกสารกล่าว ในลำดับที่เอกสารกล่าว

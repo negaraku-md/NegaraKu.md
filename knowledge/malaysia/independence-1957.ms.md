@@ -65,6 +65,13 @@ relations:
 related: ["federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["Merdeka 1957", "Kemerdekaan Tanah Melayu", "Tunku Abdul Rahman", "Suruhanjaya Reid", "Stadium Merdeka"]
 framework: history-culture
+hero: '/media/malaysia/independence-1957/hero.webp'
+heroAlt: 'Tunku Abdul Rahman berdiri di hadapan orang ramai, tangan diangkat, pada perisytiharan kemerdekaan Merdeka 1957 yang bersejarah.'
+heroCredit: 'Malaysian and British Government (1957) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Merdeka_1957_tunku_abdul_rahman.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Beberapa minit selepas tengah malam pada 31 Ogos 1957, di padang di hadapan bangunan lama Kelab Selangor di Kuala Lumpur, bendera Union Jack diturunkan dan bendera Persekutuan Tanah Melayu yang baharu dinaikkan. Itulah gambaran yang dibawa oleh kebanyakan orang tentang Merdeka — tetapi kerja sebenar kemerdekaan telah pun selesai berbulan-bulan sebelumnya, di dalam bilik-bilik jawatankuasa di London dan Kuala Lumpur, oleh orang yang berunding tentang fasal-fasal sebuah perlembagaan yang tidak wujud pada tahun sebelumnya.

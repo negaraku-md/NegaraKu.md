@@ -67,6 +67,13 @@ related: ["independence-1957", "formation-of-malaysia-1963", "singapore-separati
 entity: "Hari Kebangsaan dan Hari Malaysia"
 keywords: ["Hari Kebangsaan", "Hari Merdeka", "Hari Malaysia", "31 Ogos 1957", "16 September 1963", "beza Hari Kebangsaan Hari Malaysia"]
 framework: explainer
+hero: '/media/malaysia/national-day-vs-malaysia-day/hero.webp'
+heroAlt: '制服姿の軍楽隊員が隊列を組んで行進し、ムルデカ広場で行われるマレーシアの独立記念日パレードで観衆の前を通り過ぎる。'
+heroCredit: 'Rizuan / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:55th_Merdeka_Day_Picture_09.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 マレーシアの暦には毎年、同じものと混同されやすい二つの日付がある。8月31日と9月16日である。両方とも国旗、パレード、そして愛国歌によって祝われる。しかしこの二つは異なる出来事を示しており、6年の隔たりがあり、形の異なる二つの国家を物語っている。
