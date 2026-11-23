@@ -75,6 +75,13 @@ related: ["langkasuka", "johor"]
 keywords: ["Melaka Sultanate", "Parameswara", "Malacca history", "Hukum Kanun Melaka", "Malay sultanate origins"]
 framework: history-culture
 wikidata: "Q46652"
+hero: '/media/malaysia/melaka-sultanate/hero.webp'
+heroAlt: 'A sprawling timber palace with steeply stacked, multi-tiered grey roofs sits amid manicured tropical gardens, viewed from above with the historic town of Melaka spread out behind it.'
+heroCredit: 'Adiput / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 A prince runs from a burning city. He crosses a strait, kills a local chief who sheltered him, and keeps running — through Muar, through Ujong Tanah — until he stops under a tree on a riverbank to rest his dogs. One of them corners a mouse deer, and the mouse deer, cornered, turns and kicks it into the water. The prince takes this as an omen: even the smallest creature here fights back. He decides this is where he will build his city, and names it after the tree he is sitting under — a *melaka* tree.

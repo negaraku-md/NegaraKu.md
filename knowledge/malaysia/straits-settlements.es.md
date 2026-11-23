@@ -93,6 +93,13 @@ relations:
 related: ["malayan-union", "melaka-sultanate", "singapore-separation-1965"]
 keywords: ["Asentamientos del Estrecho", "historia colonial de Penang", "dominio británico en Melaka", "colonia de la Corona de Singapur", "Tratado de Pangkor 1874", "sistema de residentes británicos", "Estados Malayos Federados", "Estados Malayos No Federados", "residente general Kuala Lumpur", "asesor general de Johor"]
 framework: history-culture
+hero: '/media/malaysia/straits-settlements/hero.webp'
+heroAlt: 'Una entrada de techo de madera cálidamente iluminada entre muros de piedra desgastados resplandece al anochecer, con su letrero luminoso que dice ''Fort Cornwallis 1786 Penang'' sobre un sendero abierto que conduce al recinto del fuerte.'
+heroCredit: 'Supanut Arunoprayote / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fort_Cornwallis,_Penang_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Tres puertos, cuatro cambios de estatus administrativo y cuarenta y un años. Eso son los Asentamientos del Estrecho antes siquiera de tocar los estados malayos.

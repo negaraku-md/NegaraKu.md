@@ -72,6 +72,13 @@ relations:
 related: ["langkasuka", "johor"]
 keywords: ["Melaka Sultanate", "Parameswara", "Malacca history", "Hukum Kanun Melaka", "Malay sultanate origins"]
 framework: history-culture
+hero: '/media/malaysia/melaka-sultanate/hero.webp'
+heroAlt: 'Un extenso palacio de madera con tejados grises de múltiples niveles, escalonados y de fuerte pendiente, se alza entre cuidados jardines tropicales, visto desde lo alto con la histórica ciudad de Malaca extendida detrás de él.'
+heroCredit: 'Adiput / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Un príncipe huye de una ciudad en llamas. Cruza un estrecho, mata a un jefe local que le había dado cobijo, y sigue huyendo — a través de Muar, a través de Ujong Tanah — hasta que se detiene bajo un árbol, a la orilla de un río, para que descansen sus perros. Uno de ellos acorrala a un ciervo ratón (pelanduk) y este, acorralado, se vuelve y lo arroja de una patada al agua. El príncipe lo toma como un augurio: hasta la criatura más pequeña se defiende en este lugar. Decide que aquí construirá su ciudad, y la nombra en honor al árbol bajo el que está sentado — un árbol *melaka*.

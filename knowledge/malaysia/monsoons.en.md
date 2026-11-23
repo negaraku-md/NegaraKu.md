@@ -80,6 +80,13 @@ faq:
   - q: Is the Northeast Monsoon equally severe throughout November to March?
     a: No. Official data from the National Security Council (MKN) for the 2024/2025 season shows that the highest-risk areas shift by phase. In the early phase (November–December) Kelantan, Terengganu, Pahang, Johor, Sarawak and Sabah were affected; in the late phase (January–February) the focus shifted to Pahang, Johor, Sarawak and Sabah — Kelantan and Terengganu were no longer listed as highest-risk. The whole season is expected to record 5 to 7 episodes of heavy rain.
 framework: explainer
+hero: '/media/malaysia/monsoons/hero.webp'
+heroAlt: 'Wind-driven rain lashes a cluster of palm trees bending over a deserted, water-slicked city plaza, their fronds streaming sideways beneath a leaden grey sky as high-rise towers fade into the downpour.'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Every November, before checking the news, many residents of Kota Bharu, Kuala Terengganu and Kuantan start checking the water levels of rivers near their homes. This is not a habit born of unexpected disaster — it is a predictable schedule that repeats every year, and its cause is the same seasonal wind system that also determines when the west coast of the Peninsula turns dry.

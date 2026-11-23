@@ -61,6 +61,13 @@ social:
 verificationNeeded:
   - "Tanggal pasti proklamasi Wan Ahmad sebagai sultan diberikan secara tidak konsisten di berbagai sumber — gelar itu diambil pada 1881, dengan proklamasi resmi yang dilaporkan pada 8 September 1881 dan pentabalan resmi kemudian bertarikh 1884; urutan yang tepat sebaiknya dikonfirmasi terhadap sumber ilmiah seperti A History of Pahang karya Linehan."
 framework: history-culture
+hero: '/media/malaysia/pahang-sultanate/hero.webp'
+heroAlt: 'Sebuah istana era kolonial putih yang megah dengan atap genteng merah dan tulisan Jawi di atas pintu masuk melengkungnya, terpantul di kolam cermin yang tenang yang diapit patung bangau di bawah langit berawan.'
+heroCredit: 'Fikku fiq / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Di sepanjang Sungai Pahang, tempat kota raja lama Pekan masih berdiri dekat muara sungai, sebuah takhta yang telah lama hening selama dua abad kembali ditegakkan. Pada 1881 para pembesar Pahang berhimpun bukan untuk menobatkan orang asing melainkan untuk memulihkan sebuah gelar yang pernah dipegang tanah mereka — dan orang yang mereka proklamasikan sebagai sultan telah memenangkan hak itu dengan cara yang berat, dengan mengalahkan saudara tirinya sendiri dalam sebuah perang yang panjang dan getir. Inilah kisah bagaimana mahkota Pahang hilang di dalam sebuah kekaisaran yang lebih besar, dan bagaimana putra seorang perdana menteri membawanya kembali.

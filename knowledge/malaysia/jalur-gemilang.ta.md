@@ -69,6 +69,13 @@ relations:
 related: ["formation-of-malaysia-1963", "independence-1957", "negaraku-anthem"]
 keywords: ["Jalur Gemilang", "bendera Malaysia", "14 jalur", "bintang pecah 14", "bulan sabit", "Mohamed bin Hamzah", "maksud warna bendera Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/jalur-gemilang/hero.webp'
+heroAlt: 'மஞ்சள் பிறைச்சந்திரன் மற்றும் பதினான்கு முனை நட்சத்திரத்தைச் சுமக்கும் நீல நிறக் கோணத்துடன் கூடிய சிவப்பு-வெள்ளை கோடுகள் கொண்ட மலேசியக் கொடி, நீல வானத்தை எதிர்கொண்டு உயரமான வெண்ணிறக் கொடிக்கம்பத்திலிருந்து முழுமையாகப் பறக்கிறது.'
+heroCredit: 'MALS-malayan tiger / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalur_Gemilang_@_Dataran_Merdeka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # Jalur Gemilang: 13 மாநிலங்களுக்கு ஏன் 14 கோடுகள்

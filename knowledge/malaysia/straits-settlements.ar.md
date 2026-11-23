@@ -93,6 +93,13 @@ relations:
 related: ["malayan-union", "melaka-sultanate", "singapore-separation-1965"]
 keywords: ["مستوطنات المضائق", "تاريخ بينانغ الاستعماري", "ملقا تحت الحكم البريطاني", "معاهدة بانكور 1874", "نظام المقيم البريطاني", "الولايات الملايوية المتحدة", "الولايات الملايوية غير المتحدة", "Straits Settlements", "Pangkor Treaty 1874", "British Resident system", "Federated Malay States", "Unfederated Malay States"]
 framework: history-culture
+hero: '/media/malaysia/straits-settlements/hero.webp'
+heroAlt: 'بوابة ذات سقف خشبي مضاءة بدفء بين جدران حجرية بالية تتلألأ عند الغسق، ويعلو مدخلها لافتة منيرة كُتب عليها ''Fort Cornwallis 1786 Penang'' فوق ممر مفتوح يؤدي إلى ساحة الحصن.'
+heroCredit: 'Supanut Arunoprayote / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fort_Cornwallis,_Penang_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 ثلاثة موانئ، وأربعة تغييرات في الوضع الإداري، وواحد وأربعون عامًا. ذلك هو حال مستوطنات المضائق قبل أن تمسّ الولايات الملايوية على الإطلاق.

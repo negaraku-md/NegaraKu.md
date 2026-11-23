@@ -62,6 +62,13 @@ relations:
 related: ["melaka-sultanate", "portuguese-melaka-1511", "straits-settlements", "singapore-separation-1965"]
 keywords: ["سلطنة جوهر-رياو", "Kesultanan Johor-Riau", "سلطنة جوهر", "Sultan Alauddin Riayat Shah II", "Sultan Mahmud Shah", "وريث سلطنة ملقا", "Johor Lama", "سلالة بندهارا", "Riau-Lingga", "المؤسسة الملكية الملايوية"]
 framework: history-culture
+hero: '/media/malaysia/johor-riau-sultanate/hero.webp'
+heroAlt: 'مسجد أبيض فخم على الطراز الفيكتوري ببرجين مدبّبين وقباب زرقاء مسودّة يرتفع فوق حدائق منسّقة تحت سماء ملبّدة بالغيوم.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في سنة 1511، أسقطت مدافع البرتغاليين مدينةً — لكن لا عرشًا. فحين سقط حصن ملقا، لم يستسلم السلطان محمود شاه، آخر سلاطين ملقا. بل انسحب جنوبًا مع العائلة المالكة وكبار الوزراء، والأهمّ من ذلك كلّه، مع كامل النظام المؤسسي الذي جعل من ملقا سلطنة. فُقدت المدينة؛ وتنقّلت السلطنة.

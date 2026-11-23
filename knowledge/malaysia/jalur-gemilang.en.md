@@ -66,6 +66,13 @@ relations:
 related: ["formation-of-malaysia-1963", "independence-1957", "negaraku-anthem"]
 keywords: ["Jalur Gemilang", "bendera Malaysia", "14 jalur", "bintang pecah 14", "bulan sabit", "Mohamed bin Hamzah", "maksud warna bendera Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/jalur-gemilang/hero.webp'
+heroAlt: 'The red-and-white striped Malaysian flag with its blue canton bearing a yellow crescent and fourteen-point star streams out fully from a tall white flagpole against a blue sky.'
+heroCredit: 'MALS-malayan tiger / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalur_Gemilang_@_Dataran_Merdeka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # Jalur Gemilang: Why 14 Stripes for 13 States

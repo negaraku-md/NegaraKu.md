@@ -63,6 +63,13 @@ verificationNeeded:
   - "Tahun tepat Residen British pertama Selangor (James Guthrie Davidson) menyandang jawatan itu: sumber memberikan kedua-dua 1874 dan 1875. Sahkan dengan sebuah sejarah akademik seperti karya J.M. Gullick tentang Selangor."
   - "Tarikh kemangkatan Sultan Salehuddin Shah (sumber memberikan 1778 dan 1782) dan butiran tepat pertabalan 1766 di Kota Lumut; sahkan dengan sebuah sejarah ilmiah Selangor."
 framework: history-culture
+hero: '/media/malaysia/selangor-sultanate/hero.webp'
+heroAlt: 'Sebuah istana zaman kolonial dua tingkat bercat putih dengan bumbung berjubin merah dan beranda berpagar susur luas berdiri di atas hamparan rumput terurus yang dikelilingi pokok kelapa.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Bandar_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Di pantai barat Semenanjung Tanah Melayu, di mana Sungai Klang dan Sungai Selangor mengalir ke dalam Selat Melaka, satu bangsa pelaut dari seberang kepulauan membina salah satu negeri terkaya di semenanjung. Harta mereka tidak dibina atas rempah atau emas tetapi atas bijih timah — bijih kelabu yang terkubur dalam lembah-lembah yang, dalam satu abad, akan menyeret kesultanan muda itu ke dalam satu perang merebut kekayaannya sendiri dan, akhirnya, di bawah bayang seorang Residen British. Inilah kisah Kesultanan Selangor, sebuah dinasti Bugis yang barisannya masih bersemayam di atas takhta hari ini.

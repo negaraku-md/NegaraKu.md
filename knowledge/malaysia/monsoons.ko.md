@@ -79,6 +79,13 @@ faq:
   - q: 북동 몬순은 11월부터 3월까지 내내 똑같이 심각합니까?
     a: 아닙니다. 2024/2025 시즌에 대한 국가안전보장회의(MKN)의 공식 자료는 최고 위험 지역이 단계에 따라 바뀐다는 것을 보여줍니다. 초기 단계(11월~12월)에는 클란탄, 트렝가누, 파항, 조호르, 사라왁, 사바가 영향을 받았습니다. 후기 단계(1월~2월)에는 초점이 파항, 조호르, 사라왁, 사바로 옮겨갔고 — 클란탄과 트렝가누는 더 이상 최고 위험 지역으로 분류되지 않았습니다. 시즌 전체로는 5~7회의 폭우가 기록될 것으로 예상됩니다.
 framework: explainer
+hero: '/media/malaysia/monsoons/hero.webp'
+heroAlt: '바람에 몰아치는 비가 인적 없이 물에 젖어 번들거리는 도심 광장 위로 휘어진 야자수 무리를 후려치고, 납빛 하늘 아래 잎사귀들이 옆으로 나부끼며 고층 빌딩들이 폭우 속으로 흐릿하게 사라진다.'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 해마다 11월이면, 뉴스를 확인하기도 전에 코타바루(Kota Bharu), 쿠알라트렝가누(Kuala Terengganu), 콴탄(Kuantan)의 많은 주민이 집 근처 강의 수위를 살피기 시작합니다. 이는 예기치 못한 재난에서 생겨난 습관이 아닙니다. 해마다 되풀이되는 예측 가능한 일정이며, 그 원인은 서해안이 언제 마르는지를 함께 결정하는 바로 그 같은 계절풍 체계입니다.

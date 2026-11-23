@@ -93,6 +93,13 @@ relations:
 related: ["malayan-union", "melaka-sultanate", "singapore-separation-1965"]
 keywords: ["Straits Settlements", "Penang colonial history", "Melaka British rule", "Singapore crown colony", "Pangkor Treaty 1874", "British Resident system", "Federated Malay States", "Unfederated Malay States", "Resident-General Kuala Lumpur", "Johor General Adviser"]
 framework: history-culture
+hero: '/media/malaysia/straits-settlements/hero.webp'
+heroAlt: 'அடர்ந்து தேய்ந்த கல் சுவர்களுக்கு இடையே அரவணைப்பான ஒளியில் மிளிரும் மரக் கூரை நுழைவாயில் அந்தி நேரத்தில் பிரகாசிக்கிறது, கோட்டை வளாகத்திற்குள் செல்லும் திறந்த பாதைக்கு மேலே ''Fort Cornwallis 1786 Penang'' எனப் படிக்கும் ஒளிரும் பலகையுடன்.'
+heroCredit: 'Supanut Arunoprayote / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fort_Cornwallis,_Penang_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 மூன்று துறைமுகங்கள், நிர்வாக அந்தஸ்தில் நான்கு மாற்றங்கள், நாற்பத்தொரு ஆண்டுகள். மலாய் மாநிலங்களைத் தொடுவதற்கு முன்பே நீரிணைக் குடியேற்றங்கள் (Straits Settlements) என்பது இதுதான்.

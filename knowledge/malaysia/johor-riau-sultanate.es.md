@@ -63,6 +63,13 @@ relations:
 related: ["melaka-sultanate", "portuguese-melaka-1511", "straits-settlements", "singapore-separation-1965"]
 keywords: ["Kesultanan Johor-Riau", "Sultanato de Johor", "Sultan Alauddin Riayat Shah II", "Sultan Mahmud Shah", "heredero del Sultanato de Melaka", "Johor Lama", "Dinastía Bendahara", "Riau-Lingga", "institución real malaya"]
 framework: history-culture
+hero: '/media/malaysia/johor-riau-sultanate/hero.webp'
+heroAlt: 'Una imponente mezquita blanca de estilo victoriano, con dos torres rematadas en aguja y cúpulas de un azul negruzco, se alza sobre jardines ajardinados bajo un cielo encapotado.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 En 1511, los cañones portugueses derribaron una ciudad — pero no un trono. Cuando la fortaleza de Melaka cayó, el Sultán Mahmud Shah, el último sultán de Melaka, no se rindió. Se retiró hacia el sur junto con la familia real, los ministros principales y — lo más importante — todo el orden institucional que hacía de Melaka un sultanato. La ciudad se perdió; el sultanato se trasladó.

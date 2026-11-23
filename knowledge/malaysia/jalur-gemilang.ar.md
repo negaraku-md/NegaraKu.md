@@ -69,6 +69,13 @@ relations:
 related: ["formation-of-malaysia-1963", "independence-1957", "negaraku-anthem"]
 keywords: ["Jalur Gemilang", "جالور جميلانغ", "علم ماليزيا", "Malaysian flag", "14 شريطًا", "النجمة ذات 14 رأسًا", "الهلال", "Mohamed bin Hamzah", "معنى ألوان العلم الماليزي"]
 framework: history-culture
+hero: '/media/malaysia/jalur-gemilang/hero.webp'
+heroAlt: 'العلم الماليزي المخطّط بالأحمر والأبيض، وفي زاويته الزرقاء هلال أصفر ونجمة ذات أربعة عشر رأسًا، يرفرف منبسطًا بالكامل من سارية بيضاء عالية أمام سماء زرقاء.'
+heroCredit: 'MALS-malayan tiger / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalur_Gemilang_@_Dataran_Merdeka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # جالور جميلانغ: لماذا 14 شريطًا مقابل 13 ولاية

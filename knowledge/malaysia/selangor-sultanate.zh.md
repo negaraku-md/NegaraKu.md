@@ -63,6 +63,13 @@ verificationNeeded:
   - "雪兰莪首任英国参政司（James Guthrie Davidson）就任的确切年份：各资料给出1874与1875两种说法。请对照一部学术史著加以确认，例如 J.M. Gullick 关于雪兰莪的著作。"
   - "Sultan Salehuddin Shah 的卒年（各资料给出1778与1782两种）以及1766年在 Kota Lumut 的确切加冕细节；请对照一部雪兰莪学术史加以确认。"
 framework: history-culture
+hero: '/media/malaysia/selangor-sultanate/hero.webp'
+heroAlt: '一座两层的白色殖民时期宫殿，红瓦屋顶，配有带栏杆的宽阔走廊，坐落于椰林环绕、修剪整齐的草坪之上。'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Bandar_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 在马来半岛西海岸，巴生河（Klang）与雪兰莪河流入马六甲海峡之处，一支来自群岛另一端的航海民族建起了半岛上最富庶的州属之一。他们的财富并非建立在香料或黄金之上，而是建立在锡——埋藏于河谷中的那种灰色矿石——之上；这锡在一个世纪之内，便把这个年轻的苏丹王朝拖入一场争夺自身财富的战争，并最终置于一名英国参政司的阴影之下。这是雪兰莪苏丹王朝的故事，一个其世系至今仍坐在王座上的布吉斯（Bugis）王朝。

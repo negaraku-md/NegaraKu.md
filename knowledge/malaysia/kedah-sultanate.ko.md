@@ -63,6 +63,13 @@ verificationNeeded:
   - "전통적인 서기 1136년 건국 연대와 프라 옹 마하왕사(Phra Ong Mahawangsa)가 술탄 무자파르 샤 1세(Sultan Mudzaffar Shah I)로 개종한 일은 케다 연대기(Kedah Annals, Hikayat Merong Mahawangsa)와 아트타리크 살라실라 느그리 케다(At-Tarikh Salasilah Negeri Kedah)에서 비롯됩니다; 역사가들은 그 이른 연대를 개연성이 낮다고 보며, 리처드 윈스테트(Richard Winstedt)는 아체(Aceh) 측 기록을 인용하여 개종 연대를 1474년으로 제시합니다."
   - "케다를 '가장 오래된 말레이 술탄국'이라고 자주 서술하는 것은 전통적/통속적 성격 규정이며, 여기에 인용된 자료들로는 독립적으로 확인되지 않습니다."
 framework: history-culture
+hero: '/media/malaysia/kedah-sultanate/hero.webp'
+heroAlt: '무리 지은 검은 양파 모양 돔과 가느다란 첨탑을 얹은 장엄한 하얀 무어 양식 모스크가, 극적인 구름 아래 탁 트인 광장 위로 화려한 아치형 정면을 높이 세우고 있다.'
+heroCredit: 'Choomengfoo / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Zahir_Masjid.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 말레이시아에서 자신의 과거를 케다만큼 거리낌 없이 드러내는 곳은 드뭅니다. 알로르 스타르(Alor Setar) 위로 첨탑이 솟기 훨씬 전부터, 므르복강(Merbok)과 무다강(Muda) 사이의 벼가 푸른 평야는 인도와 중국, 말레이 세계를 오가며 몬순 바람을 타는 상인들의 상륙지였습니다. 뱃사람과 학자들은 이 해안을 카다람(Kadaram) 혹은 카타하(Kataha)로 알았고, 고고학자들은 오늘날 이곳을 부장 계곡(Bujang Valley)의 사원 둔덕들로 압니다. 그 세계주의적인 힌두-불교적 시작에서, [스리비자야](/ko/malaysia/srivijaya)(Srivijaya)와 촐라(Chola), 아유타야(Ayutthaya)와 방콕(Bangkok), 그리고 마침내 대영제국을 견뎌 낸 하나의 말레이 군주국이 자라났습니다.

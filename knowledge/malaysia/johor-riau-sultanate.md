@@ -66,6 +66,13 @@ relations:
 related: ["melaka-sultanate", "portuguese-melaka-1511", "straits-settlements", "singapore-separation-1965"]
 keywords: ["Kesultanan Johor-Riau", "Kesultanan Johor", "Sultan Alauddin Riayat Shah II", "Sultan Mahmud Shah", "waris Kesultanan Melaka", "Johor Lama", "Dinasti Bendahara", "Riau-Lingga", "institusi diraja Melayu"]
 framework: history-culture
+hero: '/media/malaysia/johor-riau-sultanate/hero.webp'
+heroAlt: 'Sebuah masjid putih bergaya Victoria yang megah dengan sepasang menara bermenara tajam dan kubah biru-hitam menjulang di atas taman yang terhias di bawah langit mendung.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Pada 1511, meriam Portugis meruntuhkan sebuah kota — tetapi bukan sebuah takhta. Ketika Kota Melaka tumbang, Sultan Mahmud Shah, sultan Melaka terakhir, tidak menyerah. Baginda berundur ke selatan bersama keluarga diraja, para pembesar, dan yang paling penting, keseluruhan susunan institusi yang menjadikan Melaka sebuah kesultanan. Kota itu hilang; kesultanan itu bergerak.

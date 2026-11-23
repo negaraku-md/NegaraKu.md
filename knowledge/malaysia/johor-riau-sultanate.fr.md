@@ -63,6 +63,13 @@ relations:
 related: ["melaka-sultanate", "portuguese-melaka-1511", "straits-settlements", "singapore-separation-1965"]
 keywords: ["Kesultanan Johor-Riau", "Sultanat de Johor", "Sultan Alauddin Riayat Shah II", "Sultan Mahmud Shah", "héritier du Sultanat de Melaka", "Johor Lama", "dynastie des Bendahara", "Riau-Lingga", "institution royale malaise"]
 framework: history-culture
+hero: '/media/malaysia/johor-riau-sultanate/hero.webp'
+heroAlt: 'Une imposante mosquée blanche de style victorien, aux deux tours surmontées de flèches et aux coupoles d''un bleu-noir, s''élève au-dessus de jardins paysagers sous un ciel couvert.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 En 1511, les canons portugais abattirent une ville — mais non un trône. Lorsque la forteresse de Melaka tomba, le Sultan Mahmud Shah, le dernier sultan de Melaka, ne se rendit pas. Il se retira vers le sud avec la famille royale, les ministres principaux et — surtout — tout l'ordre institutionnel qui faisait de Melaka un sultanat. La ville fut perdue ; le sultanat se déplaça.

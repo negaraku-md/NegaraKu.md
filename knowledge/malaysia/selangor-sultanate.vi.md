@@ -63,6 +63,13 @@ verificationNeeded:
   - "Năm chính xác vị Công sứ Anh đầu tiên của Selangor (James Guthrie Davidson) nhậm chức: các nguồn đưa ra cả 1874 lẫn 1875. Xác nhận với một công trình lịch sử học thuật như công trình của J.M. Gullick về Selangor."
   - "Ngày mất của Sultan Salehuddin Shah (các nguồn đưa ra 1778 và 1782) và các chi tiết lễ đăng quang chính xác năm 1766 tại Kota Lumut; xác nhận với một công trình lịch sử học thuật về Selangor."
 framework: history-culture
+hero: '/media/malaysia/selangor-sultanate/hero.webp'
+heroAlt: 'Một cung điện thời thuộc địa hai tầng quét vôi trắng với mái ngói đỏ và hiên rộng có lan can đứng trên bãi cỏ được chăm chút viền quanh bởi những cây dừa.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Bandar_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Trên bờ tây của Bán đảo Mã Lai, nơi các con sông Klang và Selangor đổ vào Eo biển Malacca, một dân tộc đi biển từ phía bên kia quần đảo đã dựng nên một trong những bang giàu có nhất của bán đảo. Vận may của họ không được dựng trên gia vị hay vàng mà trên thiếc — thứ quặng xám chôn trong các thung lũng mà, trong vòng một thế kỷ, sẽ kéo vương quốc Hồi giáo non trẻ vào một cuộc chiến giành chính sự giàu có của nó và, cuối cùng, vào dưới bóng một Công sứ Anh. Đây là câu chuyện về Vương quốc Hồi giáo Selangor, một vương triều Bugis mà dòng dõi vẫn còn ngồi trên ngai vàng ngày nay.

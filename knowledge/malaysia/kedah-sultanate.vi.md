@@ -63,6 +63,13 @@ verificationNeeded:
   - "Niên đại thành lập theo truyền thống năm 1136 CN và việc Phra Ong Mahawangsa cải sang Hồi giáo thành Sultan Mudzaffar Shah I bắt nguồn từ Biên niên sử Kedah (Hikayat Merong Mahawangsa) và At-Tarikh Salasilah Negeri Kedah; các sử gia coi niên đại sớm này là khó xảy ra, và Richard Winstedt, dẫn một ghi chép của người Aceh, đưa ra năm 1474 cho việc cải đạo."
   - "Việc thường xuyên mô tả Kedah là 「vương quốc Hồi giáo Mã Lai lâu đời nhất」 là một cách mô tả theo truyền thống/phổ biến và không được các nguồn trích dẫn ở đây xác nhận độc lập."
 framework: history-culture
+hero: '/media/malaysia/kedah-sultanate/hero.webp'
+heroAlt: 'Một nhà thờ Hồi giáo phong cách Moor màu trắng uy nghi được tô điểm bằng những mái vòm hình củ hành đen mọc thành cụm và các ngọn tháp mảnh mai, mặt tiền vòm chạm trổ công phu vươn lên trên quảng trường rộng mở dưới những đám mây kịch tính.'
+heroCredit: 'Choomengfoo / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Zahir_Masjid.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Ít nơi nào ở Malaysia mang trong mình quá khứ một cách cởi mở như Kedah. Rất lâu trước khi những ngọn tháp giáo đường vươn lên trên Alor Setar, vùng đồng bằng xanh màu lúa giữa hai con sông Merbok và Muda đã là nơi cập bến của các thương nhân cưỡi gió mùa đi lại giữa Ấn Độ, Trung Hoa và thế giới Mã Lai. Các thủy thủ và học giả biết đến bờ biển này với tên Kadaram hay Kataha; các nhà khảo cổ ngày nay biết đến nó qua những gò đền của Thung lũng Bujang. Từ khởi đầu Hindu-Phật giáo, mang tính quốc tế ấy đã mọc lên một chế độ quân chủ Mã Lai có thể trụ vững qua [Srivijaya](/vi/malaysia/srivijaya) và Chola, Ayutthaya và Bangkok, và cuối cùng là Đế quốc Anh.

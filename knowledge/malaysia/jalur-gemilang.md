@@ -68,6 +68,13 @@ relations:
 related: ["formation-of-malaysia-1963", "independence-1957", "negaraku-anthem"]
 keywords: ["Jalur Gemilang", "bendera Malaysia", "14 jalur", "bintang pecah 14", "bulan sabit", "Mohamed bin Hamzah", "maksud warna bendera Malaysia"]
 framework: history-culture
+hero: '/media/malaysia/jalur-gemilang/hero.webp'
+heroAlt: 'Bendera Malaysia berjalur merah dan putih dengan kantonnya yang biru membawa bulan sabit kuning dan bintang pecah empat belas berkibar penuh dari tiang bendera putih yang tinggi menentang langit biru.'
+heroCredit: 'MALS-malayan tiger / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Jalur_Gemilang_@_Dataran_Merdeka.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 # Jalur Gemilang: Mengapa 14 Jalur untuk 13 Buah Negeri

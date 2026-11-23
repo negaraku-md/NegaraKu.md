@@ -63,6 +63,13 @@ relations:
 related: ["melaka-sultanate", "portuguese-melaka-1511", "straits-settlements", "singapore-separation-1965"]
 keywords: ["Kesultanan Johor-Riau", "Kesultanan Johor", "Sultan Alauddin Riayat Shah II", "Sultan Mahmud Shah", "waris Kesultanan Melaka", "Johor Lama", "Dinasti Bendahara", "Riau-Lingga", "institusi diraja Melayu"]
 framework: history-culture
+hero: '/media/malaysia/johor-riau-sultanate/hero.webp'
+heroAlt: 'இரட்டை கூர் கோபுரங்கள் மற்றும் நீல-கருப்பு கும்பங்களைக் கொண்ட பிரம்மாண்டமான வெண்ணிற விக்டோரியா பாணி மசூதி, மேகமூட்டமான வானத்தின் கீழ் அழகுபடுத்தப்பட்ட தோட்டங்களுக்கு மேலே உயர்ந்து நிற்கிறது.'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1511இல், போர்த்துகீசியரின் பீரங்கிகள் ஒரு நகரத்தைத் தகர்த்தன — ஆனால் ஓர் அரியணையை அல்ல. மலாக்கா நகரம் வீழ்ந்தபோது, கடைசி மலாக்கா சுல்தானான Sultan Mahmud Shah சரணடையவில்லை. அவர் அரச குடும்பத்துடனும், பிரபுக்களுடனும், எல்லாவற்றையும்விட முக்கியமாக மலாக்காவை ஒரு சுல்தானகமாக்கிய முழு நிறுவன அமைப்புடனும் தெற்கே பின்வாங்கினார். நகரம் இழக்கப்பட்டது; சுல்தானகம் நகர்ந்தது.

@@ -63,6 +63,13 @@ relations:
 related: ["melaka-sultanate", "portuguese-melaka-1511", "straits-settlements", "singapore-separation-1965"]
 keywords: ["सल्तनत जोहोर-रियाउ", "Kesultanan Johor-Riau", "जोहोर सल्तनत", "Sultan Alauddin Riayat Shah II", "Sultan Mahmud Shah", "मलक्का सल्तनत का उत्तराधिकारी", "Johor Lama", "बेंदाहारा वंश", "Riau-Lingga", "मलय राजसी संस्था"]
 framework: history-culture
+hero: '/media/malaysia/johor-riau-sultanate/hero.webp'
+heroAlt: 'दो शिखरदार मीनारों और नीले-काले गुंबदों वाली एक भव्य सफ़ेद विक्टोरियन-शैली की मस्जिद बादलों से घिरे आकाश के नीचे सजे-सँवरे बगीचों के ऊपर उभरती है।'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1511 में, पुर्तगाली तोपों ने एक नगर को गिरा दिया — पर एक सिंहासन को नहीं। जब मलक्का का क़िला गिरा, तो मलक्का के अंतिम सुल्तान सुल्तान महमूद शाह ने आत्मसमर्पण नहीं किया। वे राजपरिवार, प्रधान मंत्रियों, और — सबसे महत्वपूर्ण रूप से — उस समूची संस्थागत व्यवस्था के साथ दक्षिण की ओर पीछे हटे जिसने मलक्का को एक सल्तनत बनाया था। नगर खो गया; सल्तनत स्थानांतरित हो गई।

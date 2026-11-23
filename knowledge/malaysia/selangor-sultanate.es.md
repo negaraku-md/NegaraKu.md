@@ -63,6 +63,13 @@ verificationNeeded:
   - "El año exacto en que el primer Residente británico de Selangor (James Guthrie Davidson) asumió el cargo: las fuentes dan tanto 1874 como 1875. Confírmese con una historia académica como la obra de J. M. Gullick sobre Selangor."
   - "La fecha de la muerte del Sultán Salehuddin Shah (las fuentes dan 1778 y 1782) y los detalles precisos de la coronación de 1766 en Kota Lumut; confírmese con una historia académica de Selangor."
 framework: history-culture
+hero: '/media/malaysia/selangor-sultanate/hero.webp'
+heroAlt: 'Un palacio de la época colonial de dos plantas, encalado, con tejado de tejas rojas y una amplia galería con balaustrada, se alza sobre un césped cuidado bordeado de cocoteros.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Bandar_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 En la costa occidental de la península malaya, donde los ríos Klang y Selangor desembocan en el Estrecho de Malaca, un pueblo marinero del extremo opuesto del archipiélago construyó uno de los estados más prósperos de la península. Su fortuna no se construyó sobre especias ni oro, sino sobre el estaño —el mineral gris enterrado en los valles que, en el plazo de un siglo, arrastraría al joven sultanato a una guerra por sus propias riquezas y, con el tiempo, bajo la sombra de un Residente británico—. Esta es la historia del Sultanato de Selangor, una dinastía bugis cuyo linaje aún se sienta hoy en el trono.

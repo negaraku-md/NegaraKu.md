@@ -70,6 +70,13 @@ relations:
 related: ["langkasuka", "johor"]
 keywords: ["Melaka Sultanate", "Parameswara", "Malacca history", "Hukum Kanun Melaka", "Malay sultanate origins"]
 framework: history-culture
+hero: '/media/malaysia/melaka-sultanate/hero.webp'
+heroAlt: '幾重にも急勾配で積み重なった多層の灰色の屋根を頂く広大な木造宮殿が、手入れの行き届いた熱帯の庭園の中に建ち、上空から見下ろすとその背後に歴史都市マラッカの町並みが広がっている。'
+heroCredit: 'Adiput / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 一人の王子が、燃え盛る都市から逃げ出す。彼は海峡を渡り、自分をかくまってくれた地元の首長を殺し、そのまま走り続ける——ムアルを抜け、ウジョン・タナを抜け——ついに川岸の一本の木の下で足を止め、犬たちを休ませる。その一匹がマメジカを追い詰めたが、追い詰められたマメジカは身をひるがえし、犬を蹴って川に落とした。王子はこれを予兆と受け取る——この地では、どんなに小さな生き物でも反撃するのだと。彼はここに自分の都市を築くことを決め、腰を下ろしていた木にちなんでその名を付けた——*melaka*（マラッカ）の木である。

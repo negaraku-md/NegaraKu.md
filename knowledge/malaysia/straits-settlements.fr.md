@@ -93,6 +93,13 @@ relations:
 related: ["malayan-union", "melaka-sultanate", "singapore-separation-1965"]
 keywords: ["Établissements des Détroits", "histoire coloniale de Penang", "domination britannique à Melaka", "colonie de la Couronne de Singapour", "Traité de Pangkor 1874", "système des résidents britanniques", "États malais fédérés", "États malais non fédérés", "résident général Kuala Lumpur", "conseiller général de Johor"]
 framework: history-culture
+hero: '/media/malaysia/straits-settlements/hero.webp'
+heroAlt: 'Une porte au toit de bois chaleureusement éclairée, entre des murs de pierre patinés, rayonne au crépuscule, son enseigne lumineuse indiquant ''Fort Cornwallis 1786 Penang'' au-dessus d''un passage ouvert menant à l''enceinte du fort.'
+heroCredit: 'Supanut Arunoprayote / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fort_Cornwallis,_Penang_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Trois ports, quatre changements de statut administratif et quarante et un ans. Voilà les Établissements des Détroits avant même de toucher aux États malais.

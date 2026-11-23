@@ -79,6 +79,13 @@ faq:
   - q: Gió mùa Đông Bắc có dữ dội như nhau suốt từ tháng 11 đến tháng 3 không?
     a: Không. Dữ liệu chính thức của Hội đồng An ninh Quốc gia (MKN) cho mùa 2024/2025 cho thấy các khu vực có nguy cơ cao nhất thay đổi theo từng giai đoạn. Trong giai đoạn đầu (tháng 11–tháng 12), Kelantan, Terengganu, Pahang, Johor, Sarawak và Sabah bị ảnh hưởng; trong giai đoạn cuối (tháng 1–tháng 2), trọng tâm chuyển sang Pahang, Johor, Sarawak và Sabah — Kelantan và Terengganu không còn được liệt kê là khu vực có nguy cơ cao nhất. Dự kiến cả mùa sẽ ghi nhận 5 đến 7 đợt mưa lớn.
 framework: explainer
+hero: '/media/malaysia/monsoons/hero.webp'
+heroAlt: 'Mưa quất theo gió táp vào một cụm cây cọ đang oằn mình trên quảng trường thành phố vắng vẻ, trơn ướt nước, những tàu lá bay dạt sang một bên dưới bầu trời xám xịt nặng nề khi các tòa cao ốc mờ dần trong cơn mưa xối xả.'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Mỗi tháng Mười Một, trước khi xem tin tức, nhiều cư dân Kota Bharu, Kuala Terengganu và Kuantan bắt đầu kiểm tra mực nước sông gần nhà mình. Đây không phải là một thói quen nảy sinh từ một thảm họa bất ngờ — nó là một lịch trình có thể dự đoán, lặp lại mỗi năm, và nguyên nhân của nó là cùng một hệ thống gió theo mùa vốn cũng quyết định khi nào bờ tây Bán đảo lại khô.

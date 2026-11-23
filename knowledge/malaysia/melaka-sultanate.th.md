@@ -70,6 +70,13 @@ relations:
 related: ["langkasuka", "johor"]
 keywords: ["Melaka Sultanate", "Parameswara", "Malacca history", "Hukum Kanun Melaka", "Malay sultanate origins"]
 framework: history-culture
+hero: '/media/malaysia/melaka-sultanate/hero.webp'
+heroAlt: 'พระราชวังไม้ขนาดใหญ่หลังคาสีเทาหลายชั้นซ้อนลดหลั่นลาดชันตั้งอยู่กลางสวนเขตร้อนที่ตัดแต่งอย่างประณีต มองจากมุมสูงเห็นเมืองประวัติศาสตร์มะละกาแผ่กว้างอยู่เบื้องหลัง'
+heroCredit: 'Adiput / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 เจ้าชายวิ่งหนีจากเมืองที่ถูกเผา พระองค์ข้ามช่องแคบ สังหารหัวหน้าท้องถิ่นที่ให้ที่พักพิงแก่พระองค์ และวิ่งต่อไป ผ่านมัวร์ (Muar) ผ่านอูจง ตานะฮ์ (Ujong Tanah) จนกระทั่งพระองค์หยุดใต้ต้นไม้ริมฝั่งแม่น้ำเพื่อพักสุนัขของพระองค์ สุนัขตัวหนึ่งต้อนกระจงจนมุม และกระจงที่จนมุมก็หันมาเตะมันลงน้ำ เจ้าชายถือว่านี่เป็นลางบอกเหตุ แม้แต่สัตว์ที่เล็กที่สุดที่นี่ก็ต่อสู้กลับ พระองค์ตัดสินใจว่านี่คือที่ที่พระองค์จะสร้างเมืองของพระองค์ และตั้งชื่อตามต้นไม้ที่พระองค์กำลังนั่งอยู่ใต้มัน คือ ต้น *มะละกา*

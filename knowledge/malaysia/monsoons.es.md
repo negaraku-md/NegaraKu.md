@@ -80,6 +80,13 @@ faq:
   - q: ¿Es el monzón del noreste igual de severo durante todo el periodo de noviembre a marzo?
     a: No. Los datos oficiales del Consejo de Seguridad Nacional (MKN) para la temporada 2024/2025 muestran que las zonas de mayor riesgo cambian según la fase. En la fase inicial (noviembre–diciembre) se vieron afectados Kelantan, Terengganu, Pahang, Johor, Sarawak y Sabah; en la fase tardía (enero–febrero) el foco se trasladó a Pahang, Johor, Sarawak y Sabah, y Kelantan y Terengganu dejaron de figurar entre las de mayor riesgo. Se espera que toda la temporada registre entre 5 y 7 episodios de lluvias intensas.
 framework: explainer
+hero: '/media/malaysia/monsoons/hero.webp'
+heroAlt: 'La lluvia impulsada por el viento azota un grupo de palmeras que se inclinan sobre una plaza urbana desierta y reluciente de agua, con sus frondas ondeando de lado bajo un cielo gris plomizo mientras las torres se desdibujan entre el aguacero.'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Cada noviembre, antes de mirar las noticias, muchos residentes de Kota Bharu, Kuala Terengganu y Kuantan empiezan a vigilar los niveles de agua de los ríos cercanos a sus casas. No es un hábito nacido de un desastre inesperado — es un calendario previsible que se repite cada año, y su causa es el mismo sistema de vientos estacionales que también determina cuándo la costa oeste de la Península se vuelve seca.

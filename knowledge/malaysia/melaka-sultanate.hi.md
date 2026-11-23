@@ -71,6 +71,13 @@ relations:
 related: ["langkasuka", "johor"]
 keywords: ["Melaka Sultanate", "Parameswara", "Malacca history", "Hukum Kanun Melaka", "Malay sultanate origins"]
 framework: history-culture
+hero: '/media/malaysia/melaka-sultanate/hero.webp'
+heroAlt: 'घने विस्तार वाला एक लकड़ी का महल, जिसकी खड़ी ढलान वाली बहु-स्तरीय भूरी छतें एक के ऊपर एक सजी हैं, सुव्यवस्थित उष्णकटिबंधीय बगीचों के बीच खड़ा है, ऊपर से देखने पर इसके पीछे मलक्का का ऐतिहासिक नगर फैला हुआ दिखता है।'
+heroCredit: 'Adiput / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 एक राजकुमार एक जलते हुए नगर से भागता है। वह एक जलडमरूमध्य पार करता है, एक स्थानीय सरदार को मार डालता है जिसने उसे शरण दी थी, और भागता रहता है — मुआर (Muar) से होकर, उजोंग तानाह (Ujong Tanah) से होकर — जब तक वह अपने कुत्तों को विश्राम देने के लिए एक नदी के किनारे एक पेड़ के नीचे नहीं रुकता। उनमें से एक कुत्ता एक पेलंडुक (कंचिल, mouse deer) को घेर लेता है, और घिरा हुआ वह कंचिल मुड़कर उसे पानी में ठोकर मार देता है। राजकुमार इसे एक शुभ-संकेत मानता है: यहाँ तो सबसे छोटा प्राणी भी पलटकर लड़ता है। वह तय करता है कि वह अपना नगर यहीं बसाएगा, और उसका नाम उस पेड़ के नाम पर रखता है जिसके नीचे वह बैठा है — एक *मेलाका* (melaka) वृक्ष।

@@ -61,6 +61,13 @@ social:
 verificationNeeded:
   - "ワン・アフマドのスルタン宣言の正確な日付は資料によって一貫しない——称号は1881年に名乗られ、正式な宣言は1881年9月8日に報じられ、のちの正式な即位は1884年とされる。正確な経過は、リネハンのA History of Pahangのような学術資料に照らして確認されるべきである。"
 framework: history-culture
+hero: '/media/malaysia/pahang-sultanate/hero.webp'
+heroAlt: '赤い瓦屋根を持ち、アーチ型の入口の上にジャウィ文字が掲げられた壮麗な白い植民地時代の宮殿が、鶴の彫像に挟まれた静かな水盤に映り込み、曇り空が広がっている。'
+heroCredit: 'Fikku fiq / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 パハン川沿い、古き王都プカンが今も河口近くに佇むその地で、二世紀にわたって静まっていた王座が再び立てられた。1881年、パハンの首長たちは見知らぬ者を戴くためにではなく、かつてこの地が持っていた称号を回復するために集まった——そして彼らがスルタンとして宣言した男は、その権利を骨の折れるやり方で、すなわち自らの異母兄を長く苦い戦争で打ち破ることによって勝ち取っていた。本稿は、パハンの王冠がいかに大きな帝国の内側で失われ、そして一人の首席大臣の子がいかにそれを取り戻したかの物語である。

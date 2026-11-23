@@ -71,6 +71,13 @@ relations:
 related: ["langkasuka", "johor"]
 keywords: ["Kesultanan Melaka", "Parameswara", "sejarah Melaka", "Hukum Kanun Melaka", "asal usul kesultanan Melayu"]
 framework: history-culture
+hero: '/media/malaysia/melaka-sultanate/hero.webp'
+heroAlt: 'Sebuah istana kayu yang luas dengan atap abu-abu bertingkat-tingkat yang curam dan bertumpuk berdiri di tengah taman tropis yang tertata rapi, dilihat dari atas dengan kota bersejarah Melaka terhampar di belakangnya.'
+heroCredit: 'Adiput / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Seorang putra melarikan diri dari sebuah kota yang terbakar. Ia menyeberangi sebuah selat, membunuh seorang pemimpin setempat yang melindunginya, dan terus lari — melalui Muar, melalui Ujong Tanah — hingga ia berhenti di bawah sebatang pohon di tepi sungai untuk mengistirahatkan anjing-anjingnya. Salah satu dari anjing itu menyudutkan seekor pelanduk, dan pelanduk itu, ketika tersudut, berbalik dan menendangnya ke dalam air. Sang putra menganggap ini sebagai pertanda: makhluk sekecil apa pun di sini ikut melawan. Ia memutuskan bahwa di sinilah ia akan membangun kotanya, dan menamainya sesuai pohon tempat ia sedang duduk — sebatang pohon *melaka*.

@@ -62,6 +62,13 @@ verificationNeeded:
   - "The traditional 1136 CE founding date and the conversion of Phra Ong Mahawangsa into Sultan Mudzaffar Shah I derive from the Kedah Annals (Hikayat Merong Mahawangsa) and At-Tarikh Salasilah Negeri Kedah; historians regard the early date as unlikely, and Richard Winstedt, citing an Acehnese account, gives 1474 for the conversion."
   - "The frequent description of Kedah as 'the oldest Malay sultanate' is a traditional/popular characterisation and is not independently confirmed by the sources cited here."
 framework: history-culture
+hero: '/media/malaysia/kedah-sultanate/hero.webp'
+heroAlt: 'A majestic white Moorish mosque crowned by clustered black onion domes and slender minarets, its ornate arched facade rising above an open plaza beneath dramatic clouds.'
+heroCredit: 'Choomengfoo / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Zahir_Masjid.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Few places in Malaysia carry their past as openly as Kedah. Long before minarets rose over Alor Setar, the rice-green plain between the Merbok and Muda rivers was a landfall for traders riding the monsoon winds between India, China and the Malay world. Sailors and scholars knew this coast as Kadaram or Kataha; archaeologists know it today by the temple mounds of the Bujang Valley. Out of that cosmopolitan, Hindu-Buddhist beginning grew a Malay monarchy that would weather [Srivijaya](/malaysia/srivijaya) and Chola, Ayutthaya and Bangkok, and finally the British Empire.

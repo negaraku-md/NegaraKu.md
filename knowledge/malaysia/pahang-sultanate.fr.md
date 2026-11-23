@@ -61,6 +61,13 @@ social:
 verificationNeeded:
   - "La date exacte de la proclamation de Wan Ahmad comme sultan est donnée de manière incohérente selon les sources — le titre fut assumé en 1881, avec une proclamation formelle rapportée le 8 septembre 1881 et une installation formelle ultérieure datée de 1884 ; la séquence précise devrait être confirmée par une source savante telle que A History of Pahang de Linehan."
 framework: history-culture
+hero: '/media/malaysia/pahang-sultanate/hero.webp'
+heroAlt: 'Un imposant palais blanc de l''époque coloniale, aux toits de tuiles rouges et portant une écriture jawi au-dessus de son entrée en arc, se reflète dans un bassin immobile flanqué de sculptures de grues sous un ciel nuageux.'
+heroCredit: 'Fikku fiq / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Le long de la rivière Pahang, où l'ancienne ville royale de Pekan se dresse encore près de l'embouchure, un trône resté silencieux pendant deux siècles fut de nouveau élevé. En 1881, les chefs de Pahang se rassemblèrent non pour couronner un étranger mais pour restaurer un titre que leur terre avait autrefois porté — et l'homme qu'ils proclamèrent sultan avait gagné ce droit à la dure, en défaisant son propre demi-frère dans une guerre longue et amère. Voici l'histoire de la façon dont la couronne de Pahang fut perdue au sein d'un empire plus vaste, et dont le fils d'un premier ministre la ramena.

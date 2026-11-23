@@ -78,6 +78,13 @@ faq:
   - q: 北東モンスーンは11月から3月まで一様に激しいのですか?
     a: いいえ。2024/2025シーズンに関する国家安全保障会議(MKN)の公式データによれば、最もリスクの高い地域は時期によって変化します。初期(11月〜12月)にはクランタン、トレンガヌ、パハン、ジョホール、サラワク、サバが影響を受けました。後期(1月〜2月)には重点がパハン、ジョホール、サラワク、サバに移り、クランタンとトレンガヌはもはや最高リスク地域として挙げられていません。シーズン全体で5〜7回の大雨が記録されると予想されています。
 framework: explainer
+hero: '/media/malaysia/monsoons/hero.webp'
+heroAlt: '風にあおられた雨が、人気のない水に濡れた都市広場でしなる椰子の木立を打ちつけ、鉛色の空の下で葉が横向きになびき、高層ビル群が豪雨の中に霞んでいる。'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 毎年11月、ニュースを確認するよりも先に、コタバル、クアラトレンガヌ、クアンタンの多くの住民は自宅近くの川の水位を確認し始める。これは予期せぬ災害から生まれた習慣ではない——予測可能で毎年繰り返される一つのスケジュールであり、その原因は同じ季節風のシステムであって、それが半島の西海岸がいつ乾燥するかをも決定づけている。

@@ -62,6 +62,13 @@ relations:
 related: ["melaka-sultanate", "portuguese-melaka-1511", "straits-settlements", "singapore-separation-1965"]
 keywords: ["Kesultanan Johor-Riau", "Kesultanan Johor", "Sultan Alauddin Riayat Shah II", "Sultan Mahmud Shah", "waris Kesultanan Melaka", "Johor Lama", "Dinasti Bendahara", "Riau-Lingga", "institusi diraja Melayu"]
 framework: history-culture
+hero: '/media/malaysia/johor-riau-sultanate/hero.webp'
+heroAlt: '一座宏伟的白色维多利亚式清真寺，配有一对尖塔和蓝黑色圆顶，在阴沉的天空下矗立于精心布置的花园之上。'
+heroCredit: 'Chongkian / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1511年，葡萄牙人的炮火摧毁了一座城池——但没有摧毁一个王位。马六甲城陷落之际，末代马六甲苏丹苏丹马末沙并未投降。他偕同皇室成员、重臣，以及最重要的——使马六甲成为一个苏丹国的整套体制——一并南撤。城池失去了，苏丹国却继续前行。

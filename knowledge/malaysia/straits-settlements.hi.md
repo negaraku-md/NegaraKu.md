@@ -93,6 +93,13 @@ relations:
 related: ["malayan-union", "melaka-sultanate", "singapore-separation-1965"]
 keywords: ["Straits Settlements", "स्ट्रेट्स सेटलमेंट्स", "पेनांग औपनिवेशिक इतिहास", "मेलाका ब्रिटिश शासन", "सिंगापुर क्राउन कॉलोनी", "Pangkor Treaty 1874", "British Resident system", "Federated Malay States", "Unfederated Malay States", "Resident-General Kuala Lumpur", "Johor General Adviser"]
 framework: history-culture
+hero: '/media/malaysia/straits-settlements/hero.webp'
+heroAlt: 'मौसम की मार झेली पत्थर की दीवारों के बीच लकड़ी की छत वाला एक गर्म रोशनी से जगमगाता प्रवेशद्वार गोधूलि में चमक रहा है, जिसके प्रकाशित चिह्न पर ''Fort Cornwallis 1786 Penang'' लिखा है, और इसके नीचे किले के मैदान की ओर जाता खुला रास्ता है।'
+heroCredit: 'Supanut Arunoprayote / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fort_Cornwallis,_Penang_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 तीन बंदरगाह, प्रशासनिक स्थिति में चार परिवर्तन, और इकतालीस वर्ष। यह स्ट्रेट्स सेटलमेंट्स का हाल है, मलय राज्यों को छूने से पहले ही।

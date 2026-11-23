@@ -6505,5 +6505,113 @@
       "alt": "Putrajaya across the lake, with the pink-domed Putra Mosque and its tall minaret on the left and the green-domed Perdana Putra government complex on the right under a cloudy sky.",
       "position": "attention"
     }
+  },
+  "malaysia/melaka-sultanate": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Malacca_Sultanate_Palace.JPG",
+      "license": "Public domain",
+      "by": "Adiput",
+      "page": "https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG",
+      "kind": "actual",
+      "subject": "The Melaka Sultanate Palace Museum (Istana Kesultanan Melaka), the wooden replica of the 15th-century sultan's palace in Melaka, Malaysia.",
+      "alt": "A sprawling timber palace with steeply stacked, multi-tiered grey roofs sits amid manicured tropical gardens, viewed from above with the historic town of Melaka spread out behind it.",
+      "position": "attention"
+    }
+  },
+  "malaysia/straits-settlements": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Fort_Cornwallis%2C_Penang_%28I%29.jpg",
+      "license": "CC BY 4.0",
+      "by": "Supanut Arunoprayote",
+      "page": "https://commons.wikimedia.org/wiki/File:Fort_Cornwallis,_Penang_(I).jpg",
+      "kind": "actual",
+      "subject": "The entrance gateway of Fort Cornwallis (built 1786) in George Town, Penang, Malaysia, the largest standing fort of the former British Straits Settlements.",
+      "alt": "A warmly lit timber-roofed gateway between weathered stone walls glows at dusk, its illuminated sign reading 'Fort Cornwallis 1786 Penang' above an open pathway leading into the fort grounds.",
+      "position": "attention"
+    }
+  },
+  "malaysia/monsoons": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Kuala_Lumpur%2C_Malaysia%2C_Tropical_rain.jpg",
+      "license": "CC BY 4.0",
+      "by": "Vyacheslav Argenberg",
+      "page": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg",
+      "kind": "representative",
+      "subject": "A heavy tropical rainstorm sweeping across a plaza in Kuala Lumpur, Malaysia, an honest stand-in for the torrential rain of Malaysia's monsoon seasons.",
+      "alt": "Wind-driven rain lashes a cluster of palm trees bending over a deserted, water-slicked city plaza, their fronds streaming sideways beneath a leaden grey sky as high-rise towers fade into the downpour.",
+      "position": "attention"
+    }
+  },
+  "malaysia/perak-sultanate": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Istana_Iskandariah%2C_Kuala_Kangsar.jpg",
+      "license": "CC BY 4.0",
+      "by": "Gerd Fahrenhorst",
+      "page": "https://commons.wikimedia.org/wiki/File:Istana_Iskandariah,_Kuala_Kangsar.jpg",
+      "kind": "actual",
+      "subject": "Istana Iskandariah, the official royal palace of the Sultan of Perak, in Bukit Chandan, Kuala Kangsar, Perak, Malaysia.",
+      "alt": "A white royal palace crowned with gilded onion domes rises behind an ornate black-and-white perimeter fence on a green hillside under a clear sky.",
+      "position": "attention"
+    }
+  },
+  "malaysia/selangor-sultanate": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Istana_Bandar_1.jpg",
+      "license": "CC0",
+      "by": "Wiki Farazi",
+      "page": "https://commons.wikimedia.org/wiki/File:Istana_Bandar_1.jpg",
+      "kind": "actual",
+      "subject": "Istana Bandar (Istana Sultan Alaeddin), a historic royal palace of the Selangor Sultanate in Kampung Bandar, Kuala Langat, Selangor, Malaysia.",
+      "alt": "A two-storey whitewashed colonial-era palace with a red tiled roof and a wide balustraded verandah stands on a manicured lawn fringed by coconut palms.",
+      "position": "attention"
+    }
+  },
+  "malaysia/johor-riau-sultanate": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Sultan_Abu_Bakar_State_Mosque.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Chongkian",
+      "page": "https://commons.wikimedia.org/wiki/File:Sultan_Abu_Bakar_State_Mosque.jpg",
+      "kind": "actual",
+      "subject": "The Sultan Abu Bakar State Mosque, the royal state mosque of Johor, in Johor Bahru, Johor, Malaysia.",
+      "alt": "A grand white Victorian-style mosque with twin spired towers and blue-black domes rises above landscaped gardens beneath an overcast sky.",
+      "position": "attention"
+    }
+  },
+  "malaysia/pahang-sultanate": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sultan_abu_bakar_museum%2C_pekan.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Fikku fiq",
+      "page": "https://commons.wikimedia.org/wiki/File:Sultan_abu_bakar_museum,_pekan.jpg",
+      "kind": "actual",
+      "subject": "The Sultan Abu Bakar Museum (the former royal residence, now the royal museum) in Pekan, Pahang, seat of the Pahang Sultanate.",
+      "alt": "A grand white colonial-era palace with red-tiled roofs and Jawi script above its arched entrance, mirrored in a still reflecting pool flanked by crane sculptures under a cloudy sky.",
+      "position": "attention"
+    }
+  },
+  "malaysia/jalur-gemilang": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Jalur_Gemilang_%40_Dataran_Merdeka.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "MALS-malayan tiger",
+      "page": "https://commons.wikimedia.org/wiki/File:Jalur_Gemilang_@_Dataran_Merdeka.jpg",
+      "kind": "actual",
+      "subject": "The Malaysian national flag (Jalur Gemilang) flying from the flagpole at Dataran Merdeka (Merdeka Square), Kuala Lumpur.",
+      "alt": "The red-and-white striped Malaysian flag with its blue canton bearing a yellow crescent and fourteen-point star streams out fully from a tall white flagpole against a blue sky.",
+      "position": "attention"
+    }
+  },
+  "malaysia/kedah-sultanate": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Zahir_Masjid.jpg",
+      "license": "CC BY-SA 4.0",
+      "by": "Choomengfoo",
+      "page": "https://commons.wikimedia.org/wiki/File:Zahir_Masjid.jpg",
+      "kind": "actual",
+      "subject": "The Zahir Mosque (Masjid Zahir) in Alor Setar, Kedah, one of Malaysia's oldest and grandest royal mosques, associated with the Kedah Sultanate.",
+      "alt": "A majestic white Moorish mosque crowned by clustered black onion domes and slender minarets, its ornate arched facade rising above an open plaza beneath dramatic clouds.",
+      "position": "attention"
+    }
   }
 }

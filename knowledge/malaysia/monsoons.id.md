@@ -80,6 +80,13 @@ faq:
   - q: Apakah Monsun Timur Laut sama parahnya sepanjang November hingga Maret?
     a: Tidak. Data resmi Dewan Keamanan Nasional (MKN) untuk musim 2024/2025 menunjukkan bahwa kawasan berisiko tertinggi berubah menurut fase. Pada fase awal (November–Desember) Kelantan, Terengganu, Pahang, Johor, Sarawak, dan Sabah terdampak; pada fase akhir (Januari–Februari) fokus beralih ke Pahang, Johor, Sarawak, dan Sabah — Kelantan dan Terengganu tidak lagi terdaftar sebagai berisiko tertinggi. Keseluruhan musim diperkirakan mencatat 5 hingga 7 episode hujan lebat.
 framework: explainer
+hero: '/media/malaysia/monsoons/hero.webp'
+heroAlt: 'Hujan yang dihempas angin menerpa sekelompok pohon palem yang membungkuk di atas plaza kota yang sepi dan licin oleh air, pelepahnya melambai ke samping di bawah langit kelabu suram saat menara pencakar langit memudar dalam derasnya hujan.'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Setiap November, sebelum memeriksa berita, banyak penduduk Kota Bharu, Kuala Terengganu, dan Kuantan mulai memeriksa ketinggian air sungai di dekat rumah mereka. Ini bukan kebiasaan yang timbul dari bencana tak terduga — ia adalah jadwal yang dapat diperkirakan, berulang setiap tahun, dan penyebabnya adalah satu sistem angin musiman yang sama yang juga menentukan kapan pantai barat Semenanjung justru kering.

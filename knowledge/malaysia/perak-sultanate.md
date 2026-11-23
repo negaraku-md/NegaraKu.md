@@ -63,6 +63,13 @@ verificationNeeded:
   - "The precise founding year is conventionally given as 1528 (the year Melaka's Mahmud Shah died at Kampar), but some genealogies place Muzaffar Shah I's installation a few years earlier or later."
 framework: history-culture
 wikidata: "Q2649311"
+hero: '/media/malaysia/perak-sultanate/hero.webp'
+heroAlt: 'A white royal palace crowned with gilded onion domes rises behind an ornate black-and-white perimeter fence on a green hillside under a clear sky.'
+heroCredit: 'Gerd Fahrenhorst / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Iskandariah,_Kuala_Kangsar.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 When Melaka fell to Portuguese cannon in 1511, the dynasty that had made the Strait famous did not die with the city. Its last sultan, Mahmud Shah, withdrew up the archipelago and left two sons; one would refound the royal line downriver in Johor, the other would carry the old Melaka crown north, to a quiet valley threaded by a river whose sandbanks glittered with tin. That northern kingdom became Perak, and nearly five centuries later it is still ruled by the same bloodline, now by a sultan whose throne is passed not from father to son but along a moving ladder of princes. This is the story of how a defeated dynasty survived, grew rich on tin, lost its sovereignty to Britain over a single treaty, and endured into the present.

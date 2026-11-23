@@ -63,6 +63,13 @@ verificationNeeded:
   - "슬랑오르 초대 영국 레지던트(제임스 거스리 데이비드슨, James Guthrie Davidson)가 취임한 정확한 연도: 자료들은 1874년과 1875년을 모두 제시합니다. J.M. 걸릭(J.M. Gullick)의 슬랑오르 연구와 같은 학술 역사서로 확인하십시오."
   - "술탄 살레후딘 샤의 사망 연도(자료들은 1778년과 1782년을 제시)와 코타 루뭇(Kota Lumut)에서의 정확한 1766년 대관 세부 사항; 슬랑오르에 관한 학술 역사서로 확인하십시오."
 framework: history-culture
+hero: '/media/malaysia/selangor-sultanate/hero.webp'
+heroAlt: '붉은 기와지붕과 난간을 두른 넓은 베란다를 갖춘 하얗게 칠한 2층짜리 식민지 시대 궁전이 야자수로 둘러싸인 잘 손질된 잔디밭 위에 서 있다.'
+heroCredit: 'Wiki Farazi / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Istana_Bandar_1.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 말레이반도 서해안, 클랑강(Klang)과 슬랑오르강(Selangor)이 말라카 해협(Strait of Malacca)으로 흘러드는 그곳에서, 군도 저편에서 온 한 항해 민족이 반도에서 가장 부유한 주의 하나를 세웠습니다. 그들의 재산은 향신료나 금이 아니라 주석 — 한 세기도 안 되어 이 젊은 술탄국을 제 부를 둘러싼 전쟁으로, 그리고 끝내 영국 레지던트의 그늘 아래로 끌어들일, 골짜기에 묻힌 잿빛 광석 — 위에 세워졌습니다. 이것은 그 계보가 오늘날에도 왕좌에 앉아 있는 부기스(Bugis) 왕조, 슬랑오르 술탄국의 이야기입니다.

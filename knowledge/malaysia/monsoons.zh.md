@@ -79,6 +79,13 @@ faq:
   - q: 东北季候风在整个11月至3月期间都同样严重吗?
     a: 不是。国家安全理事会(MKN)针对2024/2025季节的官方数据显示,风险最高的地区会随阶段而变化。在初期阶段(11月至12月),吉兰丹、登嘉楼、彭亨、柔佛、砂拉越和沙巴受到影响;在后期阶段(1月至2月),重点转移到彭亨、柔佛、砂拉越和沙巴——吉兰丹和登嘉楼不再被列为风险最高地区。预计整个季节将录得5至7次强降雨。
 framework: explainer
+hero: '/media/malaysia/monsoons/hero.webp'
+heroAlt: '狂风裹挟暴雨抽打着一丛在空荡湿滑的城市广场上弯折的棕榈树，树叶在铅灰色天空下被吹得横向飞舞，高楼大厦消隐于倾盆大雨之中。'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 每年11月，在查看新闻之前，哥打巴鲁（Kota Bharu）、瓜拉登嘉楼（Kuala Terengganu）与关丹（Kuantan）的许多居民就已开始查看住家附近的河流水位。这并非源自突发灾难的习惯——而是一份可以预测、年复一年重演的时间表，其成因是同一套季节性风系，也正是它决定了半岛西海岸何时转为干燥。

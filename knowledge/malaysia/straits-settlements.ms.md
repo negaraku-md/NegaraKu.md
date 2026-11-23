@@ -93,6 +93,13 @@ relations:
 related: ["malayan-union", "melaka-sultanate", "singapore-separation-1965"]
 keywords: ["Straits Settlements", "Penang colonial history", "Melaka British rule", "Singapore crown colony", "Pangkor Treaty 1874", "British Resident system", "Federated Malay States", "Unfederated Malay States", "Resident-General Kuala Lumpur", "Johor General Adviser"]
 framework: history-culture
+hero: '/media/malaysia/straits-settlements/hero.webp'
+heroAlt: 'Sebuah pintu gerbang berbumbung kayu yang bercahaya hangat di antara dinding batu lusuh bersinar pada waktu senja, dengan papan tandanya yang bercahaya tertera ''Fort Cornwallis 1786 Penang'' di atas laluan terbuka yang menuju ke kawasan kota.'
+heroCredit: 'Supanut Arunoprayote / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fort_Cornwallis,_Penang_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Tiga pelabuhan, empat perubahan taraf pentadbiran, dan empat puluh satu tahun. Itulah Negeri-Negeri Selat — sebelum ia langsung menyentuh negeri-negeri Melayu.

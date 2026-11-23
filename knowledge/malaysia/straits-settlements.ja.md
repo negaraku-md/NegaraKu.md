@@ -92,6 +92,13 @@ relations:
 related: ["malayan-union", "melaka-sultanate", "singapore-separation-1965"]
 keywords: ["Straits Settlements", "Penang colonial history", "Melaka British rule", "Singapore crown colony", "Pangkor Treaty 1874", "British Resident system", "Federated Malay States", "Unfederated Malay States", "Resident-General Kuala Lumpur", "Johor General Adviser"]
 framework: history-culture
+hero: '/media/malaysia/straits-settlements/hero.webp'
+heroAlt: '夕暮れ時、風化した石壁の間に立つ木造屋根の門が暖かな光を放ち、その上で「Fort Cornwallis 1786 Penang」と記された看板が灯り、下の開けた通路が砦の敷地内へと続いている。'
+heroCredit: 'Supanut Arunoprayote / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fort_Cornwallis,_Penang_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 三つの港、四十一年間で四度の行政上の地位の変更。これが、マレー属邦に触れる以前の海峡植民地（Straits Settlements）の姿である。

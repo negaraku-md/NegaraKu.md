@@ -71,6 +71,13 @@ relations:
 related: ["langkasuka", "johor"]
 keywords: ["سلطنة ملقا", "باراميسوارا", "تاريخ ملقا", "Hukum Kanun Melaka", "أصول السلطنة الملايوية", "Melaka Sultanate", "Parameswara"]
 framework: history-culture
+hero: '/media/malaysia/melaka-sultanate/hero.webp'
+heroAlt: 'قصر خشبي مترامي الأطراف تعلوه أسقف رمادية متعددة المستويات متدرجة شديدة الانحدار، يقوم وسط حدائق استوائية مُنسّقة، ويظهر من الأعلى وخلفه تمتد مدينة ملقا التاريخية.'
+heroCredit: 'Adiput / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 أميرٌ يفرّ من مدينة تحترق. يعبر مضيقاً، ويقتل زعيماً محلياً آواه، ويواصل الفرار — عبر موار (Muar)، وعبر أوجونغ تاناه (Ujong Tanah) — حتى يتوقف تحت شجرة على ضفة نهر ليريح كلابه. يحاصر أحد كلابه غزالاً صغيراً (pelanduk)، فيستدير الغزال المحاصَر ويركله إلى الماء. يأخذ الأمير ذلك فألاً: حتى أصغر مخلوق هنا يقاوم. فيقرّر أن هنا سيبني مدينته، ويسمّيها على اسم الشجرة التي يجلس تحتها — شجرة *ملقا* (melaka).

@@ -63,6 +63,13 @@ verificationNeeded:
   - "Tanggal pendirian menurut tradisi pada 1136 M dan perubahan Phra Ong Mahawangsa menjadi Sultan Mudzaffar Shah I berasal dari Hikayat Kedah (Hikayat Merong Mahawangsa) dan At-Tarikh Salasilah Negeri Kedah; para sejarawan menganggap tanggal awal itu tidak mungkin, dan Richard Winstedt, mengutip sebuah catatan Aceh, memberikan tahun 1474 untuk perpindahan agama tersebut."
   - "Gambaran yang kerap muncul tentang Kedah sebagai 'kesultanan Melayu tertua' adalah penggambaran tradisional/populer dan tidak dikonfirmasi secara independen oleh sumber-sumber yang dikutip di sini."
 framework: history-culture
+hero: '/media/malaysia/kedah-sultanate/hero.webp'
+heroAlt: 'Sebuah masjid Moor putih yang agung dimahkotai kubah bawang hitam bergerombol dan menara ramping, fasad melengkungnya yang berukir menjulang di atas plaza terbuka di bawah awan yang dramatis.'
+heroCredit: 'Choomengfoo / Wikimedia Commons'
+heroLicense: 'CC BY-SA 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Zahir_Masjid.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Sedikit tempat di Malaysia yang memikul masa lalunya seterbuka Kedah. Jauh sebelum menara-menara masjid menjulang di atas Alor Setar, dataran hijau padi di antara Sungai Merbok dan Muda menjadi tempat pendaratan para pedagang yang menunggangi angin monsun antara India, Tiongkok, dan dunia Melayu. Para pelaut dan cendekiawan mengenal pesisir ini sebagai Kadaram atau Kataha; para arkeolog kini mengenalnya melalui gundukan-gundukan candi di Lembah Bujang. Dari awal yang kosmopolitan dan bercorak Hindu-Buddha itu tumbuhlah sebuah monarki Melayu yang akan mengarungi [Sriwijaya](/id/malaysia/srivijaya) dan Chola, Ayutthaya dan Bangkok, serta akhirnya Kerajaan Inggris.

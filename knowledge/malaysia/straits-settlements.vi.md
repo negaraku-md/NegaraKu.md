@@ -93,6 +93,13 @@ relations:
 related: ["malayan-union", "melaka-sultanate", "singapore-separation-1965"]
 keywords: ["Straits Settlements", "Penang colonial history", "Melaka British rule", "Singapore crown colony", "Pangkor Treaty 1874", "British Resident system", "Federated Malay States", "Unfederated Malay States", "Resident-General Kuala Lumpur", "Johor General Adviser"]
 framework: history-culture
+hero: '/media/malaysia/straits-settlements/hero.webp'
+heroAlt: 'Một cổng mái gỗ được chiếu sáng ấm áp giữa những bức tường đá phong hóa rực sáng lúc hoàng hôn, với tấm biển phát sáng ghi ''Fort Cornwallis 1786 Penang'' phía trên lối đi mở dẫn vào khuôn viên pháo đài.'
+heroCredit: 'Supanut Arunoprayote / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Fort_Cornwallis,_Penang_(I).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Ba cảng, bốn lần thay đổi tình trạng hành chính, và bốn mươi mốt năm. Đó là các bang Eo biển trước khi nó chạm đến các bang Mã Lai.

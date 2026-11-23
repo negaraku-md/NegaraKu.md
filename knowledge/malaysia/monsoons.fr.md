@@ -80,6 +80,13 @@ faq:
   - q: La mousson du nord-est est-elle aussi violente tout au long de la période de novembre à mars ?
     a: Non. Les données officielles du Conseil national de sécurité (MKN) pour la saison 2024/2025 montrent que les zones les plus à risque changent selon la phase. Lors de la phase initiale (novembre–décembre), le Kelantan, le Terengganu, le Pahang, le Johor, le Sarawak et le Sabah ont été touchés ; lors de la phase tardive (janvier–février), l'accent s'est déplacé vers le Pahang, le Johor, le Sarawak et le Sabah — le Kelantan et le Terengganu ne figurant plus parmi les zones les plus à risque. L'ensemble de la saison devrait enregistrer de 5 à 7 épisodes de fortes pluies.
 framework: explainer
+hero: '/media/malaysia/monsoons/hero.webp'
+heroAlt: 'Une pluie poussée par le vent fouette un bouquet de palmiers courbés au-dessus d''une place urbaine déserte et luisante d''eau, leurs frondes flottant sur le côté sous un ciel gris de plomb tandis que les tours s''estompent dans l''averse.'
+heroCredit: 'Vyacheslav Argenberg / Wikimedia Commons'
+heroLicense: 'CC BY 4.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur,_Malaysia,_Tropical_rain.jpg'
+heroKind: "representative"
+heroOrigin: "third-party"
 ---
 
 Chaque novembre, avant même de regarder les informations, de nombreux habitants de Kota Bharu, Kuala Terengganu et Kuantan se mettent à surveiller le niveau de l'eau des rivières proches de chez eux. Ce n'est pas une habitude née d'une catastrophe inattendue — c'est un calendrier prévisible qui se répète chaque année, et sa cause est le même système de vents saisonniers qui détermine aussi quand la côte ouest de la Péninsule devient sèche.
