@@ -73,6 +73,13 @@ sources:
 related: ["1998-reformasi", "2018-change-of-government", "prime-ministers-of-malaysia", "mahathir-mohamad"]
 keywords: ["Anwar Ibrahim", "tenth prime minister Malaysia", "Reformasi", "MADANI government", "Pakatan Harapan"]
 framework: profile
+hero: '/media/malaysia/anwar-ibrahim/hero.webp'
+heroAlt: '짙은 색 정장과 파란 넥타이를 맨 안와르 이브라힘이 공식 국빈 방문에서 촬영된 상반신 초상에서 카메라를 바라보고 있다.'
+heroCredit: 'Laily Rachev / BPMI Setpres (Indonesian Presidential Secretariat) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Anwar_Ibrahim_20230608.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 안와르 이브라힘(Anwar Ibrahim, 1947년 8월 10일 출생)은 말레이시아(Malaysia)

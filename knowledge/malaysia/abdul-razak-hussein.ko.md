@@ -71,6 +71,13 @@ verificationNeeded:
   - "정확한 날짜(총리 재임, 출생, 사망)를 페르다나 리더십 재단(Perdana Leadership Foundation)과 총리실과 대조하여 확인하십시오."
   - "국민전선(Barisan Nasional)의 창설 연도는 자료마다 다릅니다(연립은 1973년에 형태를 갖추었고 1974년에 공식 등록됨); 그것에 의거하기 전에 정확한 날짜와 표현을 확인하십시오."
 framework: profile
+hero: '/media/malaysia/abdul-razak-hussein/hero.webp'
+heroAlt: '검은 송콕에 짙은 색 정장과 파란 무늬 넥타이를 맨 압둘 라작 후세인이 금색 브로케이드 커튼을 배경으로 정면을 바라보는 공식 초상.'
+heroCredit: 'Malaysian Government / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tun_Abdul_Razak_Official_Portrait.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 몇 해의 격동 속에서 툰 압둘 라작 후세인은 비상 통치 아래 놓인 나라의 헌정적 관리인에서 그 현대 경제 질서의 수석 설계자로 나아갔습니다. 말레이시아의 제2대 총리는 겨우 5년 남짓 통치했으나, 그가 세운 틀 — 적극적 우대 조치의 경제, 지배적 연립, 그리고 실용적 외교 — 은 재임 중 그의 갑작스러운 서거 이후로도 수십 년간 이 나라를 빚었습니다. 많은 말레이시아인에게 그는 그저 **바파 펨방우난(Bapa Pembangunan)**, 곧 개발의 아버지로 남아 있습니다.

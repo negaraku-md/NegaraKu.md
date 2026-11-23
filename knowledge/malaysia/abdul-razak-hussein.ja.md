@@ -71,6 +71,13 @@ verificationNeeded:
   - "正確な日付（首相在任期間、生年、没年）を、パルダナ・リーダーシップ財団及び首相府に照らして確認すること。"
   - "バリサン・ナショナルの創設年について資料は食い違う（連合は1973年に形をとり、1974年に正式に登録された）。それに依拠する前に、正確な日付と表現を確認すること。"
 framework: profile
+hero: '/media/malaysia/abdul-razak-hussein/hero.webp'
+heroAlt: '黒いソンコック帽をかぶり、濃色のスーツに青い模様のネクタイを締めたアブドゥル・ラザク・フセインが、金色の錦織のカーテンを背に正面を向いた公式の肖像。'
+heroCredit: 'Malaysian Government / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tun_Abdul_Razak_Official_Portrait.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 数年の激動のうちに、トゥン・アブドゥル・ラザク・フセインは、非常事態統治下の国の憲法上の暫定管理者から、その近代の経済秩序の立案者へと移っていった。マレーシアの第2代首相はわずか五年ほど統治したにすぎないが、彼が築いた枠組み——積極的差別是正措置の経済、支配的な連合、そして実利的な外交政策——は、彼が在任中に突然死去したのちも何十年にもわたって国を形づくった。多くのマレーシア人にとって、彼はいまも単に**開発の父（Bapa Pembangunan）**である。

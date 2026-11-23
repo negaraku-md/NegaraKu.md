@@ -68,6 +68,13 @@ sources:
 related: ["sheraton-move-2020", "prime-ministers-of-malaysia", "2022-general-election", "ismail-sabri-yaakob", "mahathir-mohamad"]
 keywords: ["Muhyiddin Yassin", "Mahiaddin Md Yassin", "perdana menteri kelapan Malaysia", "Perikatan Nasional", "BERSATU"]
 framework: profile
+hero: '/media/malaysia/muhyiddin-yassin/hero.webp'
+heroAlt: 'Muhyiddin Yassin yang berambut kelabu mengenakan kacamata tanpa bingkai dan setelan gelap dengan pin kerah berlambang Malaysia berbicara ke mikrofon berlatar latar biru.'
+heroCredit: 'Universiti Malaysia Sarawak (UNIMAS) / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Muhyiddin_Yassin_(51087589446)_(cropped).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 > **Draf — sensitif.** Artikel ini adalah ringkasan netral yang masih dalam

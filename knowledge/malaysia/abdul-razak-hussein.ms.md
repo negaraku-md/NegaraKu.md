@@ -71,6 +71,13 @@ verificationNeeded:
   - "Sahkan tarikh tepat (keperdanaan, kelahiran, kematian) dengan Perdana Leadership Foundation dan Pejabat Perdana Menteri."
   - "Sumber berselisih tentang tahun pengasasan Barisan Nasional (gabungan itu mengambil bentuk pada 1973 dan didaftarkan secara rasmi pada 1974); sahkan tarikh dan perkataan tepat sebelum bergantung padanya."
 framework: profile
+hero: '/media/malaysia/abdul-razak-hussein/hero.webp'
+heroAlt: 'Abdul Razak Hussein bersongkok hitam dan bersut gelap dengan tali leher biru bercorak, menghadap ke hadapan dalam potret rasmi berlatarkan langsir brokat berwarna emas.'
+heroCredit: 'Malaysian Government / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tun_Abdul_Razak_Official_Portrait.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Dalam ruang beberapa tahun yang bergelora, Tun Abdul Razak Hussein berpindah daripada penjaga perlembagaan sebuah negara di bawah pemerintahan darurat kepada perancang utama tatanan ekonomi modennya. Perdana Menteri kedua Malaysia memerintah hampir lima tahun sahaja, namun kerangka yang dibinanya — sebuah ekonomi tindakan afirmatif, sebuah gabungan yang dominan dan satu dasar luar yang pragmatik — membentuk negara selama beberapa dekad selepas kematiannya yang mengejut dalam jawatan. Bagi ramai rakyat Malaysia beliau kekal sekadar **Bapa Pembangunan**.

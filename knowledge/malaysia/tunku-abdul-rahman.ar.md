@@ -67,6 +67,13 @@ verificationNeeded:
   - "حسّاس: يتناول اضطرابات 13 مايو 1969 العرقية (العرق) والحكّام الملايويين (الملكية). جميع التوصيفات ملخَّصة بحياد؛ يُعاد التحقق منها مقابل مصادر أولية وتُطلب موافقة مراجع بشري مؤهّل قبل النشر."
   - "تأكيد التواريخ الدقيقة (رئاسة الوزراء، الميلاد، الوفاة) مقابل مؤسسة بردانة للقيادة ومكتب رئيس الوزراء."
 framework: profile
+hero: '/media/malaysia/tunku-abdul-rahman/hero.webp'
+heroAlt: 'تونكو عبد الرحمن مرتديًا طاقية سونغكوك سوداء ونظارة ذات إطار سميك ومعطفًا داكنًا وربطة عنق، مصوَّرًا بالأبيض والأسود أمام طائرة خلال زيارة عام 1960.'
+heroCredit: 'Harry Pot / Anefo (Dutch National Archives) / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tunku_Abdul_Rahman_1960.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 في صباح 31 أغسطس 1957، أمام ملعب مرديكا المكتظّ في كوالالمبور،

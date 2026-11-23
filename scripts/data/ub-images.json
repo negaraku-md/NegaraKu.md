@@ -6829,5 +6829,101 @@
       "alt": "The pink-domed Putra Mosque and the grand Perdana Putra administrative complex overlook a calm lake in Putrajaya, Malaysia's purpose-built federal capital.",
       "position": "attention"
     }
+  },
+  "malaysia/tunku-abdul-rahman": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Tunku_Abdul_Rahman_1960.jpg",
+      "license": "CC0",
+      "by": "Harry Pot / Anefo (Dutch National Archives)",
+      "page": "https://commons.wikimedia.org/wiki/File:Tunku_Abdul_Rahman_1960.jpg",
+      "kind": "actual",
+      "subject": "Tunku Abdul Rahman, the first Prime Minister of Malaya and Malaysia, who led the country to independence in 1957 and governed until 1970.",
+      "alt": "Tunku Abdul Rahman in a black songkok, horn-rimmed glasses and a dark overcoat and tie, photographed in black and white before an aircraft during a 1960 visit.",
+      "position": "top"
+    }
+  },
+  "malaysia/abdul-razak-hussein": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Tun_Abdul_Razak_Official_Portrait.jpg",
+      "license": "Public domain",
+      "by": "Malaysian Government",
+      "page": "https://commons.wikimedia.org/wiki/File:Tun_Abdul_Razak_Official_Portrait.jpg",
+      "kind": "actual",
+      "subject": "Abdul Razak Hussein, the second Prime Minister of Malaysia (1970-1976) and architect of the New Economic Policy.",
+      "alt": "Abdul Razak Hussein in a black songkok and dark suit with a patterned blue tie, facing forward in a formal official portrait against a gold brocade curtain.",
+      "position": "top"
+    }
+  },
+  "malaysia/mahathir-mohamad": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Mahathir_Mohamad_in_August_2018.jpg",
+      "license": "Public domain",
+      "by": "U.S. Embassy Kuala Lumpur",
+      "page": "https://commons.wikimedia.org/wiki/File:Mahathir_Mohamad_in_August_2018.jpg",
+      "kind": "actual",
+      "subject": "Mahathir Mohamad, Malaysia's fourth and seventh Prime Minister, in an official portrait during his 2018 term in office.",
+      "alt": "Silver-haired Mahathir Mohamad smiles warmly in a grey suit bearing a 'Mahathir' name tag before an intricately carved wooden screen.",
+      "position": "top"
+    }
+  },
+  "malaysia/abdullah-ahmad-badawi": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Abdullah_Badawi_2007.jpg",
+      "license": "CC BY-SA 2.0",
+      "by": "World Economic Forum / swiss-image.ch / Gian Vaitl",
+      "page": "https://commons.wikimedia.org/wiki/File:Abdullah_Badawi_2007.jpg",
+      "kind": "actual",
+      "subject": "Abdullah Ahmad Badawi, Malaysia's fifth Prime Minister, photographed at the World Economic Forum in 2007.",
+      "alt": "A composed Abdullah Ahmad Badawi in a dark suit and open-collared shirt gazes thoughtfully upward while seated before a World Economic Forum backdrop.",
+      "position": "top"
+    }
+  },
+  "malaysia/najib-razak": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Mohd_Najib_Bin_Tun_Abdul_Razak_World_Economic_Forum_2013.jpg",
+      "license": "CC BY-SA 2.0",
+      "by": "World Economic Forum",
+      "page": "https://commons.wikimedia.org/wiki/File:Mohd_Najib_Bin_Tun_Abdul_Razak_World_Economic_Forum_2013.jpg",
+      "kind": "actual",
+      "subject": "Najib Razak, Malaysia's sixth Prime Minister, speaking during a World Economic Forum session in 2013.",
+      "alt": "Najib Razak gestures mid-sentence in a dark suit and red patterned tie, seated against a softly lit blue 'Forum' backdrop.",
+      "position": "attention"
+    }
+  },
+  "malaysia/muhyiddin-yassin": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Muhyiddin_Yassin_%2851087589446%29_%28cropped%29.jpg",
+      "license": "CC BY 2.0",
+      "by": "Universiti Malaysia Sarawak (UNIMAS)",
+      "page": "https://commons.wikimedia.org/wiki/File:Muhyiddin_Yassin_(51087589446)_(cropped).jpg",
+      "kind": "actual",
+      "subject": "Muhyiddin Yassin, the eighth Prime Minister of Malaysia (2020-2021).",
+      "alt": "Grey-haired Muhyiddin Yassin in rimless glasses and a dark suit with a Malaysian emblem lapel pin speaks into a microphone against a blue backdrop.",
+      "position": "top"
+    }
+  },
+  "malaysia/anwar-ibrahim": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Anwar_Ibrahim_20230608.jpg",
+      "license": "Public domain",
+      "by": "Laily Rachev / BPMI Setpres (Indonesian Presidential Secretariat)",
+      "page": "https://commons.wikimedia.org/wiki/File:Anwar_Ibrahim_20230608.jpg",
+      "kind": "actual",
+      "subject": "Anwar Ibrahim, the tenth and current Prime Minister of Malaysia (2022-present).",
+      "alt": "Anwar Ibrahim in a dark suit and blue tie faces the camera in an upper-body portrait taken at an official state visit.",
+      "position": "top"
+    }
+  },
+  "malaysia/ismail-sabri-yaakob": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Ismail_Sabri_in_the_White_House_%28cropped%2C_3to4_portrait%29.jpg",
+      "license": "Public domain",
+      "by": "U.S. Department of State",
+      "page": "https://commons.wikimedia.org/wiki/File:Ismail_Sabri_in_the_White_House_(cropped,_3to4_portrait).jpg",
+      "kind": "actual",
+      "subject": "Ismail Sabri Yaakob, the ninth Prime Minister of Malaysia (2021-2022).",
+      "alt": "Ismail Sabri Yaakob, grey-haired and wearing rimless glasses and a dark suit, in a close head-and-shoulders portrait at an official reception.",
+      "position": "centre"
+    }
   }
 }

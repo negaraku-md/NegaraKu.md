@@ -70,6 +70,13 @@ verificationNeeded:
   - "Figure politique récente ; le concept d'Islam Hadhari (religion) et les résultats électoraux sont résumés de manière neutre — à revérifier par rapport aux sources primaires et nécessite la validation d'un relecteur humain avant publication."
   - "CONFIRMER sa date de décès (rapportée le 14 avril 2025, à l'Institut national du cœur à Kuala Lumpur, à l'âge de 85 ans — note : la date initialement fournie du 20 avril 2025 semble incorrecte) et toutes les dates de fonctions par rapport aux sources primaires avant publication."
 framework: profile
+hero: '/media/malaysia/abdullah-ahmad-badawi/hero.webp'
+heroAlt: 'Un Abdullah Ahmad Badawi posé, en costume sombre et chemise au col ouvert, lève pensivement les yeux, assis devant un décor du Forum économique mondial.'
+heroCredit: 'World Economic Forum / swiss-image.ch / Gian Vaitl / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Abdullah_Badawi_2007.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Après le long et énergique mandat de [Mahathir Mohamad](/fr/malaysia/mahathir-mohamad), la Malaisie, fin 2003, hérita d'un type de dirigeant très différent : un ancien fonctionnaire de Penang à la voix douce qui promettait la consultation plutôt que le commandement, un gouvernement intègre plutôt que de grands projets, et un ton public plus doux. Abdullah Ahmad Badawi — connu de presque tout le monde simplement sous le nom de **« Pak Lah »** — devint le **cinquième Premier ministre** du pays sur une vague de bienveillance, remporta l'un des plus larges mandats électoraux de l'histoire malaisienne, puis, cinq ans plus tard, présida l'élection qui remodela la politique de la nation.

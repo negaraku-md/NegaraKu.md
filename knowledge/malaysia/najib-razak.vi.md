@@ -71,6 +71,13 @@ sources:
 related: ["1mdb-scandal", "prime-ministers-of-malaysia", "2018-change-of-government", "mahathir-mohamad", "anwar-ibrahim"]
 keywords: ["Najib Razak", "Mohd Najib Abdul Razak", "sixth prime minister Malaysia", "1MDB", "SRC International"]
 framework: profile
+hero: '/media/malaysia/najib-razak/hero.webp'
+heroAlt: 'Najib Razak khoát tay giữa câu nói trong bộ com-lê sẫm màu và cà vạt đỏ hoa văn, ngồi trước phông nền ''Forum'' màu xanh được chiếu sáng dịu.'
+heroCredit: 'World Economic Forum / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mohd_Najib_Bin_Tun_Abdul_Razak_World_Economic_Forum_2013.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 > **Bản nháp — nhạy cảm.** Bài viết này là một bản tóm tắt trung lập, đang trong

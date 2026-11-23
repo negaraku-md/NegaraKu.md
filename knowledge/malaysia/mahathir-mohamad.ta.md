@@ -73,6 +73,13 @@ sources:
 related: ["wawasan-2020", "ops-lalang-1987", "1998-reformasi", "new-economic-policy", "2018-change-of-government"]
 keywords: ["Mahathir Mohamad", "Tun Mahathir", "fourth prime minister Malaysia", "Vision 2020", "Wawasan 2020"]
 framework: profile
+hero: '/media/malaysia/mahathir-mohamad/hero.webp'
+heroAlt: 'வெள்ளி நிற முடி கொண்ட Mahathir Mohamad, ''Mahathir'' என்ற பெயர் அட்டை பொருத்திய சாம்பல் நிற சூட் அணிந்து, நுட்பமாக செதுக்கப்பட்ட மரத் திரையின் முன் அன்புடன் புன்னகைக்கிறார்.'
+heroCredit: 'U.S. Embassy Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mahathir_Mohamad_in_August_2018.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Mahathir Mohamad (1925 ஜூலை 10 அன்று பிறந்தார்) மலேசியாவின் மிக நீண்ட காலம் பதவி

@@ -68,6 +68,13 @@ sources:
 related: ["muhyiddin-yassin", "2022-general-election", "prime-ministers-of-malaysia", "anwar-ibrahim", "najib-razak"]
 keywords: ["إسماعيل صبري يعقوب", "رئيس وزراء ماليزيا التاسع", "Keluarga Malaysia", "مذكرة تفاهم الاستقرار 2021", "UMNO", "Ismail Sabri Yaakob", "ninth prime minister Malaysia"]
 framework: profile
+hero: '/media/malaysia/ismail-sabri-yaakob/hero.webp'
+heroAlt: 'إسماعيل صبري يعقوب، ذو الشعر الرمادي ومرتديًا نظارة بلا إطار وبدلة داكنة، في صورة مقرّبة للرأس والكتفين خلال استقبال رسمي.'
+heroCredit: 'U.S. Department of State / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ismail_Sabri_in_the_White_House_(cropped,_3to4_portrait).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 > **مسودّة — حسّاسة.** هذا المقال ملخّص محايد لا يزال قيد الإعداد ولم

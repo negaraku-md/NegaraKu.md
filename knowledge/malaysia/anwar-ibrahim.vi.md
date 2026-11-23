@@ -73,6 +73,13 @@ sources:
 related: ["1998-reformasi", "2018-change-of-government", "prime-ministers-of-malaysia", "mahathir-mohamad"]
 keywords: ["Anwar Ibrahim", "tenth prime minister Malaysia", "Reformasi", "MADANI government", "Pakatan Harapan"]
 framework: profile
+hero: '/media/malaysia/anwar-ibrahim/hero.webp'
+heroAlt: 'Anwar Ibrahim trong bộ com-lê sẫm màu và cà vạt xanh hướng về phía máy ảnh trong bức chân dung nửa người được chụp tại một chuyến thăm cấp nhà nước chính thức.'
+heroCredit: 'Laily Rachev / BPMI Setpres (Indonesian Presidential Secretariat) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Anwar_Ibrahim_20230608.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Anwar Ibrahim (sinh ngày 10 tháng 8 năm 1947) là **Thủ tướng thứ mười** của Malaysia,

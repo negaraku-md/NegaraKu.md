@@ -73,6 +73,13 @@ sources:
 related: ["wawasan-2020", "ops-lalang-1987", "1998-reformasi", "new-economic-policy", "2018-change-of-government"]
 keywords: ["Mahathir Mohamad", "Tun Mahathir", "perdana menteri keempat Malaysia", "Wawasan 2020", "Vision 2020"]
 framework: profile
+hero: '/media/malaysia/mahathir-mohamad/hero.webp'
+heroAlt: 'Mahathir Mohamad yang beruban tersenyum mesra dalam sut kelabu yang berlabel nama ''Mahathir'', berlatarkan skrin kayu berukir halus.'
+heroCredit: 'U.S. Embassy Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mahathir_Mohamad_in_August_2018.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Mahathir Mohamad (lahir 10 Julai 1925) ialah Perdana Menteri Malaysia yang paling

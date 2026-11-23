@@ -67,6 +67,13 @@ verificationNeeded:
   - "SENSITIF: menyentuh kerusuhan rasial 13 Mei 1969 (ras) dan para Raja Melayu (royalti). Semua penggambaran dirangkum secara netral; periksa ulang terhadap sumber primer dan mintalah peninjau manusia yang kompeten menyetujui sebelum publikasi."
   - "Konfirmasikan tanggal-tanggal pasti (masa jabatan perdana menteri, kelahiran, kematian) terhadap Perdana Leadership Foundation dan Kantor Perdana Menteri."
 framework: profile
+hero: '/media/malaysia/tunku-abdul-rahman/hero.webp'
+heroAlt: 'Tunku Abdul Rahman mengenakan songkok hitam, kacamata berbingkai tanduk, serta mantel gelap dan dasi, difoto dalam warna hitam putih di depan sebuah pesawat saat kunjungan pada tahun 1960.'
+heroCredit: 'Harry Pot / Anefo (Dutch National Archives) / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tunku_Abdul_Rahman_1960.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Pada pagi 31 Agustus 1957, di hadapan Stadion Merdeka yang penuh sesak di Kuala

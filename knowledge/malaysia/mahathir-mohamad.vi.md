@@ -73,6 +73,13 @@ sources:
 related: ["wawasan-2020", "ops-lalang-1987", "1998-reformasi", "new-economic-policy", "2018-change-of-government"]
 keywords: ["Mahathir Mohamad", "Tun Mahathir", "fourth prime minister Malaysia", "Vision 2020", "Wawasan 2020"]
 framework: profile
+hero: '/media/malaysia/mahathir-mohamad/hero.webp'
+heroAlt: 'Mahathir Mohamad tóc bạc mỉm cười ấm áp trong bộ com-lê xám gắn bảng tên ''Mahathir'', phía trước một tấm bình phong gỗ chạm khắc tinh xảo.'
+heroCredit: 'U.S. Embassy Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mahathir_Mohamad_in_August_2018.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Mahathir Mohamad (sinh ngày 10 tháng 7 năm 1925) là Thủ tướng tại vị lâu nhất của

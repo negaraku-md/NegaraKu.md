@@ -69,6 +69,13 @@ sources:
 related: ["sheraton-move-2020", "prime-ministers-of-malaysia", "2022-general-election", "ismail-sabri-yaakob", "mahathir-mohamad"]
 keywords: ["محيي الدين ياسين", "Muhyiddin Yassin", "Mahiaddin Md Yassin", "رئيس وزراء ماليزيا الثامن", "Perikatan Nasional", "BERSATU"]
 framework: profile
+hero: '/media/malaysia/muhyiddin-yassin/hero.webp'
+heroAlt: 'محيي الدين ياسين ذو الشعر الرمادي مرتديًا نظارة بلا إطار وبدلة داكنة مع دبوس شعار ماليزي على الطية، يتحدث في ميكروفون أمام خلفية زرقاء.'
+heroCredit: 'Universiti Malaysia Sarawak (UNIMAS) / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Muhyiddin_Yassin_(51087589446)_(cropped).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 > **مسودة — حساسة.** هذه المقالة ملخص محايد قيد الإعداد ولم تُراجَع للنشر.

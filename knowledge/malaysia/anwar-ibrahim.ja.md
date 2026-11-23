@@ -73,6 +73,13 @@ sources:
 related: ["1998-reformasi", "2018-change-of-government", "prime-ministers-of-malaysia", "mahathir-mohamad"]
 keywords: ["Anwar Ibrahim", "tenth prime minister Malaysia", "Reformasi", "MADANI government", "Pakatan Harapan"]
 framework: profile
+hero: '/media/malaysia/anwar-ibrahim/hero.webp'
+heroAlt: '濃色のスーツに青いネクタイを締めたアンワル・イブラヒムが、公式の国賓訪問で撮影された上半身の肖像でカメラの方を向いている。'
+heroCredit: 'Laily Rachev / BPMI Setpres (Indonesian Presidential Secretariat) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Anwar_Ibrahim_20230608.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 アンワル・イブラヒム（1947年8月10日生まれ）は、マレーシア**第10代首相**であり、2022年11月24日以来在任している。この職に至る道のりは、政治的対立、投獄、そして野党指導者としての活動という二十年以上に及ぶものであり、彼を現代マレーシア政治において最も重要な人物の一人たらしめている。

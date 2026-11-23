@@ -73,6 +73,13 @@ sources:
 related: ["1998-reformasi", "2018-change-of-government", "prime-ministers-of-malaysia", "mahathir-mohamad"]
 keywords: ["أنور إبراهيم", "Anwar Ibrahim", "رئيس وزراء ماليزيا العاشر", "tenth prime minister Malaysia", "Reformasi", "حكومة MADANI", "MADANI government", "Pakatan Harapan"]
 framework: profile
+hero: '/media/malaysia/anwar-ibrahim/hero.webp'
+heroAlt: 'أنور إبراهيم مرتديًا بدلة داكنة وربطة عنق زرقاء ينظر إلى الكاميرا في صورة للجزء العلوي من الجسم التُقطت خلال زيارة رسمية.'
+heroCredit: 'Laily Rachev / BPMI Setpres (Indonesian Presidential Secretariat) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Anwar_Ibrahim_20230608.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 أنور إبراهيم (وُلد في 10 أغسطس 1947) هو **رئيس وزراء ماليزيا العاشر**، في

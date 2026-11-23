@@ -68,6 +68,13 @@ sources:
 related: ["muhyiddin-yassin", "2022-general-election", "prime-ministers-of-malaysia", "anwar-ibrahim", "najib-razak"]
 keywords: ["इस्माइल सबरी याकूब", "मलेशिया के नौवें प्रधानमंत्री", "Keluarga Malaysia", "स्थिरता MOU 2021", "UMNO", "Ismail Sabri Yaakob", "ninth prime minister Malaysia"]
 framework: profile
+hero: '/media/malaysia/ismail-sabri-yaakob/hero.webp'
+heroAlt: 'चाँदी जैसे बालों वाले इस्माइल साबरी याकूब बिना फ्रेम वाले चश्मे और गहरे रंग के सूट में, एक आधिकारिक स्वागत समारोह में सिर और कंधों के नज़दीकी चित्र में।'
+heroCredit: 'U.S. Department of State / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ismail_Sabri_in_the_White_House_(cropped,_3to4_portrait).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 > **मसौदा — संवेदनशील।** यह लेख एक निष्पक्ष, निर्माणाधीन सारांश है और इसे

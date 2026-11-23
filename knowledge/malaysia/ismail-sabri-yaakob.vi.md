@@ -68,6 +68,13 @@ sources:
 related: ["muhyiddin-yassin", "2022-general-election", "prime-ministers-of-malaysia", "anwar-ibrahim", "najib-razak"]
 keywords: ["Ismail Sabri Yaakob", "ninth prime minister Malaysia", "Keluarga Malaysia", "MOU stability 2021", "UMNO"]
 framework: profile
+hero: '/media/malaysia/ismail-sabri-yaakob/hero.webp'
+heroAlt: 'Ismail Sabri Yaakob tóc hoa râm, đeo kính không gọng và mặc com-lê sẫm màu, trong bức chân dung cận cảnh đầu và vai tại một buổi tiếp đón chính thức.'
+heroCredit: 'U.S. Department of State / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ismail_Sabri_in_the_White_House_(cropped,_3to4_portrait).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 > **Bản nháp — nhạy cảm.** Bài viết này là một bản tóm tắt trung lập, đang trong quá

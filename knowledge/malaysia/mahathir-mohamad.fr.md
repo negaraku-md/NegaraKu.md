@@ -73,6 +73,13 @@ sources:
 related: ["wawasan-2020", "ops-lalang-1987", "1998-reformasi", "new-economic-policy", "2018-change-of-government"]
 keywords: ["Mahathir Mohamad", "Tun Mahathir", "fourth prime minister Malaysia", "Vision 2020", "Wawasan 2020"]
 framework: profile
+hero: '/media/malaysia/mahathir-mohamad/hero.webp'
+heroAlt: 'Mahathir Mohamad, aux cheveux argentés, sourit chaleureusement dans un costume gris portant un badge au nom de ''Mahathir'' devant un paravent de bois finement sculpté.'
+heroCredit: 'U.S. Embassy Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mahathir_Mohamad_in_August_2018.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Mahathir Mohamad (né le 10 juillet 1925) est le Premier ministre à la plus

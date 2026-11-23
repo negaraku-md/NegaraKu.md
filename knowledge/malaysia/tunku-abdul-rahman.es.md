@@ -67,6 +67,13 @@ verificationNeeded:
   - "SENSIBLE: atañe a los disturbios raciales del 13 de mayo de 1969 (raza) y a los Gobernantes malayos (realeza). Todas las caracterizaciones se resumen de forma neutral; reverifíquese frente a fuentes primarias y obténgase la aprobación de un revisor humano cualificado antes de la publicación."
   - "Confírmense las fechas exactas (mandato, nacimiento, muerte) frente a la Perdana Leadership Foundation y la Oficina del Primer Ministro."
 framework: profile
+hero: '/media/malaysia/tunku-abdul-rahman/hero.webp'
+heroAlt: 'Tunku Abdul Rahman con un songkok negro, gafas de montura gruesa y un abrigo oscuro y corbata, fotografiado en blanco y negro ante un avión durante una visita en 1960.'
+heroCredit: 'Harry Pot / Anefo (Dutch National Archives) / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tunku_Abdul_Rahman_1960.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 En la mañana del 31 de agosto de 1957, ante un Estadio Merdeka abarrotado en Kuala

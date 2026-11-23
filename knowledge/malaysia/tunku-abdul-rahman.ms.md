@@ -67,6 +67,13 @@ verificationNeeded:
   - "SENSITIF: menyentuh pergolakan kaum 13 Mei 1969 (kaum) dan Raja-Raja Melayu (kedaulatan raja). Semua pencirian diringkaskan secara neutral; semak semula dengan sumber primer dan dapatkan kelulusan seorang penyemak manusia yang layak sebelum penerbitan."
   - "Sahkan tarikh tepat (keperdanaan, kelahiran, kematian) dengan Perdana Leadership Foundation dan Pejabat Perdana Menteri."
 framework: profile
+hero: '/media/malaysia/tunku-abdul-rahman/hero.webp'
+heroAlt: 'Tunku Abdul Rahman bersongkok hitam, berkaca mata bingkai tanduk serta berbaju kot gelap dan bertali leher, dirakam dalam foto hitam putih di hadapan sebuah pesawat semasa lawatan pada tahun 1960.'
+heroCredit: 'Harry Pot / Anefo (Dutch National Archives) / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tunku_Abdul_Rahman_1960.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 Pada pagi 31 Ogos 1957, di hadapan Stadium Merdeka yang sesak di Kuala

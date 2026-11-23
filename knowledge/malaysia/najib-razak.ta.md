@@ -71,6 +71,13 @@ sources:
 related: ["1mdb-scandal", "prime-ministers-of-malaysia", "2018-change-of-government", "mahathir-mohamad", "anwar-ibrahim"]
 keywords: ["Najib Razak", "Mohd Najib Abdul Razak", "sixth prime minister Malaysia", "1MDB", "SRC International"]
 framework: profile
+hero: '/media/malaysia/najib-razak/hero.webp'
+heroAlt: 'Najib Razak அடர் நிற சூட் மற்றும் வடிவமைப்புள்ள சிவப்பு டை அணிந்து, மெதுவாக ஒளியூட்டப்பட்ட நீல ''Forum'' பின்னணியின் முன் அமர்ந்து, பேசும்போது கையசைக்கிறார்.'
+heroCredit: 'World Economic Forum / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mohd_Najib_Bin_Tun_Abdul_Razak_World_Economic_Forum_2013.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 > **வரைவு — உணர்வுபூர்வமானது.** இந்தக் கட்டுரை ஒரு நடுநிலையான, பணி நடந்துகொண்டிருக்கும்

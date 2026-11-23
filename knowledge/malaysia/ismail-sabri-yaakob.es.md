@@ -68,6 +68,13 @@ sources:
 related: ["muhyiddin-yassin", "2022-general-election", "prime-ministers-of-malaysia", "anwar-ibrahim", "najib-razak"]
 keywords: ["Ismail Sabri Yaakob", "noveno primer ministro de Malasia", "Keluarga Malaysia", "MOU de estabilidad 2021", "UMNO"]
 framework: profile
+hero: '/media/malaysia/ismail-sabri-yaakob/hero.webp'
+heroAlt: 'Ismail Sabri Yaakob, de cabello canoso y con gafas sin montura y traje oscuro, en un retrato cercano de cabeza y hombros en una recepción oficial.'
+heroCredit: 'U.S. Department of State / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ismail_Sabri_in_the_White_House_(cropped,_3to4_portrait).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 > **Borrador — sensible.** Este artículo es un resumen neutral y en elaboración que

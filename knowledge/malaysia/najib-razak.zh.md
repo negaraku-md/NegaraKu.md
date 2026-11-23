@@ -71,6 +71,13 @@ sources:
 related: ["1mdb-scandal", "prime-ministers-of-malaysia", "2018-change-of-government", "mahathir-mohamad", "anwar-ibrahim"]
 keywords: ["纳吉·拉萨", "Mohd Najib Abdul Razak", "马来西亚第六任首相", "1MDB", "SRC International"]
 framework: profile
+hero: '/media/malaysia/najib-razak/hero.webp'
+heroAlt: '纳吉·拉萨身穿深色西装，系着红色花纹领带，说话间做着手势，坐在柔和灯光映照的蓝色“Forum”背景板前。'
+heroCredit: 'World Economic Forum / Wikimedia Commons'
+heroLicense: 'CC BY-SA 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mohd_Najib_Bin_Tun_Abdul_Razak_World_Economic_Forum_2013.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 > **草稿——敏感。** 本文为中立、仍在撰写中的摘要，尚未经审阅以供发布。它提及

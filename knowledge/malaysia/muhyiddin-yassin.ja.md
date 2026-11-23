@@ -68,6 +68,13 @@ sources:
 related: ["sheraton-move-2020", "prime-ministers-of-malaysia", "2022-general-election", "ismail-sabri-yaakob", "mahathir-mohamad"]
 keywords: ["Muhyiddin Yassin", "Mahiaddin Md Yassin", "eighth prime minister Malaysia", "Perikatan Nasional", "BERSATU"]
 framework: profile
+hero: '/media/malaysia/muhyiddin-yassin/hero.webp'
+heroAlt: '白髪交じりのムヒディン・ヤシンが、縁なし眼鏡をかけ、マレーシアの紋章のラペルピンを付けた濃色のスーツ姿で、青い背景の前でマイクに向かって話している。'
+heroCredit: 'Universiti Malaysia Sarawak (UNIMAS) / Wikimedia Commons'
+heroLicense: 'CC BY 2.0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Muhyiddin_Yassin_(51087589446)_(cropped).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 > **下書き——機微な内容。** 本記事は中立的な、作業中の要約であり、公開に向けた審査をまだ経ていない。法的手続きに言及しており、3R+1のテーマに触れるものであり、公開されていない。

@@ -68,6 +68,13 @@ sources:
 related: ["muhyiddin-yassin", "2022-general-election", "prime-ministers-of-malaysia", "anwar-ibrahim", "najib-razak"]
 keywords: ["Ismail Sabri Yaakob", "ninth prime minister Malaysia", "Keluarga Malaysia", "MOU stability 2021", "UMNO"]
 framework: profile
+hero: '/media/malaysia/ismail-sabri-yaakob/hero.webp'
+heroAlt: '희끗한 머리에 무테 안경을 쓰고 짙은 색 정장을 입은 이스마일 사브리 야콥의, 공식 리셉션에서 촬영된 얼굴과 어깨 위주의 근접 초상.'
+heroCredit: 'U.S. Department of State / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Ismail_Sabri_in_the_White_House_(cropped,_3to4_portrait).jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 > **초안 — 민감.** 이 글은 중립적이고 진행 중인 요약이며 발행을 위한 검토를 거치지

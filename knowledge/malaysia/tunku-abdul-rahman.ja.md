@@ -67,6 +67,13 @@ verificationNeeded:
   - "センシティブ：1969年5月13日の民族騒乱（人種）及びマレー統治者（王室）に触れる。すべての性格づけは中立的に要約されている。一次資料に照らして再確認し、公開前に適格な人による審査者の承認を得ること。"
   - "正確な日付（首相在任期間、生年、没年）を、パルダナ・リーダーシップ財団及び首相府に照らして確認すること。"
 framework: profile
+hero: '/media/malaysia/tunku-abdul-rahman/hero.webp'
+heroAlt: '黒いソンコック帽をかぶり、太い縁の眼鏡をかけ、濃色のオーバーコートにネクタイを締めたトゥンク・アブドゥル・ラーマンが、1960年の訪問時に航空機の前で白黒で撮影されている。'
+heroCredit: 'Harry Pot / Anefo (Dutch National Archives) / Wikimedia Commons'
+heroLicense: 'CC0'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Tunku_Abdul_Rahman_1960.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 1957年8月31日の朝、クアラルンプールの満員のムルデカ・スタジアムの前で、一人のケダの王子が手を挙げ、群衆を率いて七たび**「ムルデカ！」**——自由——の叫びを上げた。その人物こそ**トゥンク・アブドゥル・ラーマン・プトラ・アル・ハジ**であり、マラヤ独立宣言に記録されたその瞬間は、マラヤ連邦に対する英国統治の終わりと、彼が初代首相として統べることになる独立国家の誕生を告げるものであった。

@@ -73,6 +73,13 @@ sources:
 related: ["wawasan-2020", "ops-lalang-1987", "1998-reformasi", "new-economic-policy", "2018-change-of-government"]
 keywords: ["马哈迪·莫哈末", "敦马哈迪", "马来西亚第四任首相", "2020宏愿", "Wawasan 2020"]
 framework: profile
+hero: '/media/malaysia/mahathir-mohamad/hero.webp'
+heroAlt: '银发的马哈迪·莫哈末身穿灰色西装，别着写有“Mahathir”的姓名牌，在雕刻精美的木屏风前温暖地微笑。'
+heroCredit: 'U.S. Embassy Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mahathir_Mohamad_in_August_2018.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 马哈迪·莫哈末（1925 年 7 月 10 日出生）是马来西亚在任最久的首相，也是现代国家

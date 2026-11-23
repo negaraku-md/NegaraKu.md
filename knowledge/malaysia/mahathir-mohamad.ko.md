@@ -73,6 +73,13 @@ sources:
 related: ["wawasan-2020", "ops-lalang-1987", "1998-reformasi", "new-economic-policy", "2018-change-of-government"]
 keywords: ["Mahathir Mohamad", "Tun Mahathir", "fourth prime minister Malaysia", "Vision 2020", "Wawasan 2020"]
 framework: profile
+hero: '/media/malaysia/mahathir-mohamad/hero.webp'
+heroAlt: '은발의 마하티르 모하맛이 ''Mahathir'' 이름표를 단 회색 정장 차림으로 정교하게 조각된 나무 가림막 앞에서 따뜻하게 미소 짓고 있다.'
+heroCredit: 'U.S. Embassy Kuala Lumpur / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Mahathir_Mohamad_in_August_2018.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 마하티르 모하맛(Mahathir Mohamad, 1925년 7월 10일 출생)은 말레이시아 역사상 가장 오래 재임한 총리이자 현대 국가를 규정하는 인물 가운데 하나입니다. 의사로 훈련받은 그는 통일말레이국민조직(UMNO)을 통해 정치에 입문하여 22년간 **제4대 총리**로 나라를 이끌었고, 수십 년 뒤 **제7대** 총리로 돌아왔습니다.

@@ -73,6 +73,13 @@ sources:
 related: ["1998-reformasi", "2018-change-of-government", "prime-ministers-of-malaysia", "mahathir-mohamad"]
 keywords: ["अनवर इब्राहिम", "Anwar Ibrahim", "मलेशिया के दसवें प्रधानमंत्री", "tenth prime minister Malaysia", "Reformasi", "MADANI सरकार", "MADANI government", "Pakatan Harapan"]
 framework: profile
+hero: '/media/malaysia/anwar-ibrahim/hero.webp'
+heroAlt: 'अनवर इब्राहिम गहरे रंग के सूट और नीली टाई में कैमरे की ओर देखते हुए, एक आधिकारिक राजकीय यात्रा के दौरान लिए गए कमर तक के चित्र में।'
+heroCredit: 'Laily Rachev / BPMI Setpres (Indonesian Presidential Secretariat) / Wikimedia Commons'
+heroLicense: 'Public domain'
+heroSource: 'https://commons.wikimedia.org/wiki/File:Anwar_Ibrahim_20230608.jpg'
+heroKind: "actual"
+heroOrigin: "third-party"
 ---
 
 अनवर इब्राहिम (जन्म 10 अगस्त 1947) मलेशिया के **दसवें प्रधानमंत्री** हैं, जो
