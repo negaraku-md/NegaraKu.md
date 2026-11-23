@@ -31,7 +31,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ca15cfa45f8cdedf"
+sourceContentHash: "139cce668f1240b1"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -71,6 +71,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Merdeka_1957_tunku_abdul_rahman.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/independence-1957/body-1.webp
+    alt: பிரகாசமான வானத்தின் கீழ் Kuala Lumpur-இல் உள்ள Stadium Merdeka-வின் வளைந்த பார்வையாளர் மேடையும் திறந்த நீள்வட்ட மைதானமும், மலாயாவின் சுதந்திரம் அறிவிக்கப்பட்ட வரலாற்றுச் சிறப்புமிக்க அரங்கம்.
+    kind: actual
+    origin: third-party
+    subject: 1957 ஆகஸ்ட் 31 அன்று சுதந்திரம் பிரகடனப்படுத்தப்பட்ட Stadium Merdeka, Kuala Lumpur
+    credit: Malaysian1966 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Merdeka_Kuala_Lumpur_2007.jpg
+  - role: scene
+    src: /media/malaysia/independence-1957/body-2.webp
+    alt: Kuala Lumpur-இல் உள்ள Dataran Merdeka-வின் பசுமையான புல்வெளிக்கு மேலே உயர்ந்து நிற்கும் வெண்ணிற கொடிக்கம்பம், 1957 நள்ளிரவில் Union Jack கொடி இறக்கப்பட்ட இடம்.
+    kind: actual
+    origin: third-party
+    subject: Dataran Merdeka (மெர்டேகா சதுக்கம்), Kuala Lumpur-இல் உள்ள மாபெரும் கொடிக்கம்பம்
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flagpole_of_Dataran_Merdeka.jpg
 ---
 
 1957 ஆகஸ்ட் 31 அன்று நள்ளிரவைத் தாண்டிய சில நிமிடங்களில், Kuala Lumpur-இல் உள்ள பழைய Selangor Club-க்கு முன்னால் இருந்த padang-இல், Union Jack கீழிறக்கப்பட்டு, புதிய மலாயா கூட்டரசின் (Federation of Malaya) கொடி ஏற்றப்பட்டது. இதுவே பெரும்பாலானவர்கள் Merdeka பற்றி மனதில் கொண்டிருக்கும் காட்சி — ஆனால் சுதந்திரத்தின் உண்மையான வேலை மாதங்களுக்கு முன்பே, லண்டன் மற்றும் Kuala Lumpur-இல் உள்ள குழு அறைகளில், முந்தைய ஆண்டு வரை இருந்திராத ஒரு அரசியலமைப்பின் பிரிவுகள் குறித்து பேச்சுவார்த்தை நடத்திய மக்களால் முடிக்கப்பட்டிருந்தது.

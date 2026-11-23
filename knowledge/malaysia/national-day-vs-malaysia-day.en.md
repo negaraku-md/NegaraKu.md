@@ -32,7 +32,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "25064de19f113798"
+sourceContentHash: "4b4bc192a0cb8abd"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:55th_Merdeka_Day_Picture_09.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-1.webp
+    alt: Rows of uniformed officers marching in formation while carrying the red, white, blue and yellow Jalur Gemilang and other flags during a Merdeka Day parade.
+    kind: actual
+    origin: third-party
+    subject: Uniformed contingents parading with the Jalur Gemilang at the 59th Merdeka Day celebrations
+    credit: Rizuan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:59th_Merdeka_Day,_Picture_15.jpg
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-2.webp
+    alt: A smiling crowd in Kota Kinabalu, Sabah, proudly raising and waving the Malaysian national flag during an open-air national day celebration in East Malaysia.
+    kind: actual
+    origin: third-party
+    subject: Celebrants waving the Jalur Gemilang during national day festivities in Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Hari-Merdeka-2013-Parade-230.jpg
 ---
 
 Every year, Malaysia's calendar contains two dates that are easily mistaken for the same thing: 31 August and 16 September. Both are marked with flags, parades and patriotic songs. Yet the two commemorate different events, six years apart, and describe two differently shaped countries.

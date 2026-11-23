@@ -31,7 +31,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6eb2de3c5c01ceae"
+sourceContentHash: "061872cf7f5b271c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -73,6 +73,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-1.webp
+    alt: Panorama luas kaki langit Kota Kinabalu di Sabah, menara pencakar langit menjulang di atas puncak pokok hijau dengan garis pantai dan bukit di latar belakang, mewakili negeri Borneo yang menyertai Malaysia pada tahun 1963.
+    kind: representative
+    origin: third-party
+    subject: Kota Kinabalu, ibu negeri Sabah, salah satu negeri Borneo yang bergabung membentuk Malaysia pada tahun 1963
+    credit: Jason Thien / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panorama_of_Greater_Kota_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-2.webp
+    alt: Esplanad Tebingan Kuching yang berlanskap terbentang di sepanjang Sungai Sarawak, dengan kaki langit bandar lama di seberang air, mewakili kemasukan Sarawak ke dalam Persekutuan Malaysia pada tahun 1963.
+    kind: representative
+    origin: third-party
+    subject: Tebingan Kuching di sepanjang Sungai Sarawak, Sarawak, yang bergabung membentuk Malaysia pada tahun 1963
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Waterfront,_Kuching,_Sarawak_2.jpg
 ---
 
 Empat wilayah menjadi satu negara pada 16 September 1963, dan dalam masa dua tahun salah satu daripadanya telah pun keluar. Fakta itu sahaja memberitahu anda bahawa penggabungan 1963 bukanlah satu latihan pentadbiran yang kemas — ia merupakan satu projek politik yang dipertikaikan, ditentang oleh dua kerajaan jiran dan terungkai oleh ketegangan dalaman hampir sebaik sahaja ia berjaya.

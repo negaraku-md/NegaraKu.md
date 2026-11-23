@@ -30,7 +30,7 @@ faq:
     a: "Singapour se sépara le 9 août 1965 à la suite d'un vote au Parlement de Malaisie. La tension politique entre le Parti d'action populaire et le gouvernement de l'Alliance au sujet de la politique économique et des bases de la concurrence politique précéda la séparation. Aucune des deux parties n'avait prévu cette issue lors de la fusion de 1963."
 
 lang: "fr"
-sourceContentHash: "6eb2de3c5c01ceae"
+sourceContentHash: "061872cf7f5b271c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -73,6 +73,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-1.webp
+    alt: Un vaste panorama de la ligne d'horizon de Kota Kinabalu, dans le Sabah, où des tours s'élèvent au-dessus de la cime verte des arbres avec le littoral et les collines à l'arrière-plan, représentant l'État de Bornéo qui a rejoint la Malaisie en 1963.
+    kind: representative
+    origin: third-party
+    subject: Kota Kinabalu, capitale du Sabah, l'un des États de Bornéo qui se sont unis pour former la Malaisie en 1963
+    credit: Jason Thien / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panorama_of_Greater_Kota_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-2.webp
+    alt: L'esplanade aménagée du front de mer de Kuching s'étend le long de la rivière Sarawak, avec la ligne d'horizon de la vieille ville de l'autre côté de l'eau, représentant l'entrée du Sarawak dans la Fédération de Malaisie en 1963.
+    kind: representative
+    origin: third-party
+    subject: Le front de mer de Kuching le long de la rivière Sarawak, dans le Sarawak, qui s'est uni pour former la Malaisie en 1963
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Waterfront,_Kuching,_Sarawak_2.jpg
 ---
 
 Quatre territoires devinrent un seul pays le 16 septembre 1963, et en moins de deux ans l'un d'eux était déjà parti. Ce seul fait vous dit que la fusion de 1963 ne fut pas un exercice administratif bien ordonné — ce fut un projet politique contesté, auquel s'opposèrent deux gouvernements voisins et qui se défit sous l'effet de tensions internes presque dès qu'il eut abouti.

@@ -31,7 +31,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ca15cfa45f8cdedf"
+sourceContentHash: "139cce668f1240b1"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -71,6 +71,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Merdeka_1957_tunku_abdul_rahman.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/independence-1957/body-1.webp
+    alt: 明るい空の下、クアラルンプールのStadium Merdekaの湾曲したスタンドと開放的な楕円形フィールド。マラヤの独立が宣言された歴史的な競技場。
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールのStadium Merdeka。1957年8月31日に独立が宣言された場所
+    credit: Malaysian1966 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Merdeka_Kuala_Lumpur_2007.jpg
+  - role: scene
+    src: /media/malaysia/independence-1957/body-2.webp
+    alt: クアラルンプールのDataran Merdekaにそびえる白い巨大な掲揚塔。ムルデカ広場の緑の芝生の上に高く立ち、1957年の真夜中にユニオンジャックが降ろされた場所。
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールのDataran Merdeka（ムルデカ広場）にある巨大な掲揚塔
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flagpole_of_Dataran_Merdeka.jpg
 ---
 
 1957年8月31日の真夜中を数分過ぎたころ、クアラルンプールの旧セランゴール・クラブ（Selangor Club）前の広場（パダン、padang）で、ユニオンジャック（Union Jack、英国旗）が降ろされ、新生マラヤ連邦の国旗が掲げられた。これは、大半の人がムルデカに対して抱く光景である——しかし独立の実際の作業は、その数か月前に、ロンドンとクアラルンプールの委員会室において、前年にはまだ存在していなかった憲法の条文をめぐって交渉を重ねた人々によって、すでに終えられていた。

@@ -16624,5 +16624,737 @@
         "subject": "பழைய கோலாலம்பூர் ரயில் நிலையம் (1910), மூரிஷ் பாணி பிரிட்டிஷ் கால முனையம்"
       }
     ]
+  },
+  "malaysia/independence-1957": {
+    "zh": [
+      {
+        "alt": "明朗天空下，吉隆坡Stadium Merdeka弧形看台与开阔的椭圆形场地，这座历史性竞技场正是宣布马来亚独立之地。",
+        "subject": "吉隆坡的Stadium Merdeka，1957年8月31日在此宣布独立"
+      },
+      {
+        "alt": "吉隆坡Dataran Merdeka的高耸白色旗杆，矗立于独立广场的绿色草坪之上，1957年午夜英国米字旗在此降下。",
+        "subject": "吉隆坡Dataran Merdeka（独立广场）的巨型旗杆"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "明るい空の下、クアラルンプールのStadium Merdekaの湾曲したスタンドと開放的な楕円形フィールド。マラヤの独立が宣言された歴史的な競技場。",
+        "subject": "クアラルンプールのStadium Merdeka。1957年8月31日に独立が宣言された場所"
+      },
+      {
+        "alt": "クアラルンプールのDataran Merdekaにそびえる白い巨大な掲揚塔。ムルデカ広場の緑の芝生の上に高く立ち、1957年の真夜中にユニオンジャックが降ろされた場所。",
+        "subject": "クアラルンプールのDataran Merdeka（ムルデカ広場）にある巨大な掲揚塔"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "밝은 하늘 아래 쿠알라룸푸르 Stadium Merdeka의 곡선형 관중석과 탁 트인 타원형 경기장, 말라야의 독립이 선언된 역사적 경기장.",
+        "subject": "1957년 8월 31일 독립이 선포된 쿠알라룸푸르의 Stadium Merdeka"
+      },
+      {
+        "alt": "쿠알라룸푸르 Dataran Merdeka의 머르데카 광장 푸른 잔디밭 위로 높이 솟은 흰색 거대 게양대, 1957년 자정에 유니언잭이 내려진 곳.",
+        "subject": "쿠알라룸푸르 Dataran Merdeka(머르데카 광장)의 거대한 국기 게양대"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อัฒจันทร์โค้งและสนามรูปวงรีอันเปิดโล่งของ Stadium Merdeka ในกัวลาลัมเปอร์ใต้ท้องฟ้าสดใส สนามประวัติศาสตร์ที่มีการประกาศเอกราชของมลายา",
+        "subject": "Stadium Merdeka ในกัวลาลัมเปอร์ สถานที่ประกาศเอกราชเมื่อวันที่ 31 สิงหาคม 1957"
+      },
+      {
+        "alt": "เสาธงสีขาวสูงตระหง่านของ Dataran Merdeka ตั้งสูงเหนือสนามหญ้าเขียวขจีของจัตุรัสเมอร์เดกาในกัวลาลัมเปอร์ สถานที่ซึ่งธงยูเนียนแจ็กถูกเชิญลงในเวลาเที่ยงคืนปี 1957",
+        "subject": "เสาธงขนาดยักษ์ที่ Dataran Merdeka (จัตุรัสเมอร์เดกา) กัวลาลัมเปอร์"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "उज्ज्वल आकाश के नीचे कुआलालंपुर में स्टेडियम मर्देका की घुमावदार दर्शक-दीर्घा और खुला अंडाकार मैदान, वह ऐतिहासिक स्थल जहाँ मलाया की स्वतंत्रता की घोषणा की गई थी।",
+        "subject": "स्टेडियम मर्देका, कुआलालंपुर, जहाँ 31 अगस्त 1957 को स्वतंत्रता की घोषणा की गई थी"
+      },
+      {
+        "alt": "कुआलालंपुर में मर्देका स्क्वायर के हरे मैदान से ऊँचा उठता दातारन मर्देका का विशाल सफ़ेद ध्वज-स्तंभ, जहाँ 1957 में आधी रात को यूनियन जैक उतारा गया था।",
+        "subject": "दातारन मर्देका (मर्देका स्क्वायर), कुआलालंपुर में विशाल ध्वज-स्तंभ"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "المدرَّج المنحني والساحة البيضاوية المفتوحة لاستاد مرديكا في كوالالمبور تحت سماء مشرقة، الحلبة التاريخية التي أُعلن فيها استقلال ملايا.",
+        "subject": "استاد مرديكا في كوالالمبور، حيث أُعلن الاستقلال في 31 أغسطس 1957"
+      },
+      {
+        "alt": "سارية العلم البيضاء الشاهقة في داتاران مرديكا ترتفع عالياً فوق المرج الأخضر لساحة مرديكا في كوالالمبور، حيث أُنزل علم الاتحاد (اليونيون جاك) عند منتصف الليل عام 1957.",
+        "subject": "سارية العلم العملاقة في داتاران مرديكا (ساحة مرديكا) بكوالالمبور"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La tribuna curva y el óvalo abierto del Stadium Merdeka en Kuala Lumpur bajo un cielo luminoso, el histórico recinto donde se declaró la independencia de Malaya.",
+        "subject": "El Stadium Merdeka, en Kuala Lumpur, donde se proclamó la independencia el 31 de agosto de 1957"
+      },
+      {
+        "alt": "El imponente mástil blanco de Dataran Merdeka se eleva por encima del césped verde de la plaza Merdeka en Kuala Lumpur, donde la Union Jack fue arriada a medianoche en 1957.",
+        "subject": "El gigantesco mástil de Dataran Merdeka (plaza Merdeka), en Kuala Lumpur"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "La tribune incurvée et l'ovale ouvert du Stadium Merdeka à Kuala Lumpur sous un ciel lumineux, l'enceinte historique où l'indépendance de la Malaya a été déclarée.",
+        "subject": "Le Stadium Merdeka, à Kuala Lumpur, où l'indépendance a été proclamée le 31 août 1957"
+      },
+      {
+        "alt": "Le haut mât blanc de Dataran Merdeka s'élève bien au-dessus de la pelouse verte de la place Merdeka à Kuala Lumpur, où l'Union Jack a été abaissé à minuit en 1957.",
+        "subject": "Le mât géant de Dataran Merdeka (place Merdeka), à Kuala Lumpur"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Tempat duduk penonton yang melengkung dan padang bujur terbuka Stadium Merdeka di Kuala Lumpur di bawah langit cerah, arena bersejarah tempat kemerdekaan Tanah Melayu diisytiharkan.",
+        "subject": "Stadium Merdeka, Kuala Lumpur, tempat kemerdekaan diisytiharkan pada 31 Ogos 1957"
+      },
+      {
+        "alt": "Tiang bendera putih yang menjulang tinggi di Dataran Merdeka mengatasi hamparan rumput hijau di Kuala Lumpur, tempat Union Jack diturunkan pada tengah malam pada tahun 1957.",
+        "subject": "Tiang bendera gergasi di Dataran Merdeka, Kuala Lumpur"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Tribune melengkung dan lapangan oval terbuka Stadium Merdeka di Kuala Lumpur di bawah langit cerah, arena bersejarah tempat kemerdekaan Malaya dideklarasikan.",
+        "subject": "Stadium Merdeka, Kuala Lumpur, tempat kemerdekaan diproklamasikan pada 31 Agustus 1957"
+      },
+      {
+        "alt": "Tiang bendera putih menjulang tinggi di Dataran Merdeka di atas hamparan rumput hijau Lapangan Merdeka di Kuala Lumpur, tempat Union Jack diturunkan pada tengah malam tahun 1957.",
+        "subject": "Tiang bendera raksasa di Dataran Merdeka (Lapangan Merdeka), Kuala Lumpur"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Khán đài cong và sân hình bầu dục mở của Stadium Merdeka ở Kuala Lumpur dưới bầu trời trong xanh, đấu trường lịch sử nơi nền độc lập của Malaya được tuyên bố.",
+        "subject": "Sân vận động Stadium Merdeka, Kuala Lumpur, nơi nền độc lập được tuyên bố vào ngày 31 tháng 8 năm 1957"
+      },
+      {
+        "alt": "Cột cờ trắng cao vút của Dataran Merdeka vươn cao trên bãi cỏ xanh của Quảng trường Merdeka ở Kuala Lumpur, nơi lá cờ Union Jack được hạ xuống vào lúc nửa đêm năm 1957.",
+        "subject": "Cột cờ khổng lồ tại Dataran Merdeka (Quảng trường Merdeka), Kuala Lumpur"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "பிரகாசமான வானத்தின் கீழ் Kuala Lumpur-இல் உள்ள Stadium Merdeka-வின் வளைந்த பார்வையாளர் மேடையும் திறந்த நீள்வட்ட மைதானமும், மலாயாவின் சுதந்திரம் அறிவிக்கப்பட்ட வரலாற்றுச் சிறப்புமிக்க அரங்கம்.",
+        "subject": "1957 ஆகஸ்ட் 31 அன்று சுதந்திரம் பிரகடனப்படுத்தப்பட்ட Stadium Merdeka, Kuala Lumpur"
+      },
+      {
+        "alt": "Kuala Lumpur-இல் உள்ள Dataran Merdeka-வின் பசுமையான புல்வெளிக்கு மேலே உயர்ந்து நிற்கும் வெண்ணிற கொடிக்கம்பம், 1957 நள்ளிரவில் Union Jack கொடி இறக்கப்பட்ட இடம்.",
+        "subject": "Dataran Merdeka (மெர்டேகா சதுக்கம்), Kuala Lumpur-இல் உள்ள மாபெரும் கொடிக்கம்பம்"
+      }
+    ]
+  },
+  "malaysia/national-day-vs-malaysia-day": {
+    "zh": [
+      {
+        "alt": "默迪卡日游行中，一排排身着制服的人员列队行进，手持红白蓝黄的Jalur Gemilang及其他旗帜。",
+        "subject": "制服队伍手持Jalur Gemilang在第59届默迪卡日庆典上游行"
+      },
+      {
+        "alt": "在东马来西亚的户外国庆庆典上，沙巴Kota Kinabalu的人群面带微笑，自豪地高举并挥舞马来西亚国旗。",
+        "subject": "庆祝者在沙巴Kota Kinabalu的国庆庆典中挥舞Jalur Gemilang"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "ムルデカ・デーのパレードで、赤・白・青・黄のJalur Gemilangやその他の旗を掲げ、隊列を組んで行進する制服姿の隊員たち。",
+        "subject": "第59回ムルデカ・デー祝典でJalur Gemilangを掲げて行進する制服の部隊"
+      },
+      {
+        "alt": "東マレーシアの屋外ナショナル・デー祝典で、マレーシア国旗を誇らしげに掲げて振る、サバ州Kota Kinabaluの笑顔の群衆。",
+        "subject": "サバ州Kota Kinabaluのナショナル・デー祝典でJalur Gemilangを振る人々"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "머르데카 데이 퍼레이드에서 빨강·흰색·파랑·노랑의 Jalur Gemilang과 여러 깃발을 들고 대열을 이루어 행진하는 제복 차림의 대원들.",
+        "subject": "제59회 머르데카 데이 기념식에서 Jalur Gemilang을 들고 행진하는 제복 부대"
+      },
+      {
+        "alt": "동말레이시아의 야외 국경일 축제에서 말레이시아 국기를 자랑스럽게 들고 흔드는 사바주 Kota Kinabalu의 미소 띤 군중.",
+        "subject": "사바주 Kota Kinabalu의 국경일 축제에서 Jalur Gemilang을 흔드는 축하객들"
+      }
+    ],
+    "th": [
+      {
+        "alt": "แถวเจ้าหน้าที่ในเครื่องแบบเดินแถวอย่างเป็นระเบียบ พร้อมถือธง Jalur Gemilang สีแดง ขาว น้ำเงิน และเหลือง และธงอื่น ๆ ระหว่างขบวนพาเหรดวันเมอร์เดกา",
+        "subject": "หน่วยในเครื่องแบบเดินพาเหรดพร้อมธง Jalur Gemilang ในงานฉลองวันเมอร์เดกาครั้งที่ 59"
+      },
+      {
+        "alt": "ฝูงชนที่ยิ้มแย้มใน Kota Kinabalu รัฐซาบะฮ์ ชูและโบกธงชาติมาเลเซียอย่างภาคภูมิใจระหว่างงานฉลองวันชาติกลางแจ้งในมาเลเซียตะวันออก",
+        "subject": "ผู้ร่วมฉลองโบกธง Jalur Gemilang ในงานฉลองวันชาติที่ Kota Kinabalu รัฐซาบะฮ์"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "मर्देका दिवस परेड के दौरान लाल, सफ़ेद, नीले और पीले जालूर गेमिलांग तथा अन्य ध्वज थामे पंक्तिबद्ध होकर कदमताल करते वर्दीधारी अधिकारी।",
+        "subject": "59वें मर्देका दिवस समारोह में जालूर गेमिलांग के साथ परेड करते वर्दीधारी दल"
+      },
+      {
+        "alt": "कोटा किनाबालू, सबा में एक मुस्कुराती भीड़ पूर्वी मलेशिया में खुले में आयोजित राष्ट्रीय दिवस समारोह के दौरान गर्व से मलेशियाई राष्ट्रध्वज उठाकर लहरा रही है।",
+        "subject": "कोटा किनाबालू, सबा में राष्ट्रीय दिवस के उत्सव के दौरान जालूर गेमिलांग लहराते उत्सवकर्ता"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "صفوف من الضباط بالزي الرسمي يسيرون في تشكيل منظّم حاملين علم جالور جميلانج الأحمر والأبيض والأزرق والأصفر وأعلاماً أخرى خلال موكب يوم مرديكا.",
+        "subject": "فرق بالزي الرسمي تسير في موكب حاملةً علم جالور جميلانج في احتفالات يوم مرديكا التاسع والخمسين"
+      },
+      {
+        "alt": "حشد مبتسم في كوتا كينابالو بولاية صباح يرفع ويلوّح بفخر بالعلم الوطني الماليزي خلال احتفال باليوم الوطني في الهواء الطلق في ماليزيا الشرقية.",
+        "subject": "محتفلون يلوّحون بعلم جالور جميلانج خلال احتفالات اليوم الوطني في كوتا كينابالو بولاية صباح"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Filas de oficiales uniformados marchando en formación mientras portan la Jalur Gemilang roja, blanca, azul y amarilla y otras banderas durante un desfile del Día de Merdeka.",
+        "subject": "Contingentes uniformados desfilando con la Jalur Gemilang en la 59.ª celebración del Día de Merdeka"
+      },
+      {
+        "alt": "Una multitud sonriente en Kota Kinabalu, Sabah, alza y ondea con orgullo la bandera nacional de Malasia durante una celebración al aire libre del día nacional en Malasia Oriental.",
+        "subject": "Celebrantes ondeando la Jalur Gemilang durante las festividades del día nacional en Kota Kinabalu, Sabah"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des rangées d'officiers en uniforme marchant en formation en portant le Jalur Gemilang rouge, blanc, bleu et jaune ainsi que d'autres drapeaux lors d'un défilé du Jour de Merdeka.",
+        "subject": "Des contingents en uniforme défilant avec le Jalur Gemilang lors du 59e anniversaire du Jour de Merdeka"
+      },
+      {
+        "alt": "Une foule souriante à Kota Kinabalu, dans le Sabah, lève et agite fièrement le drapeau national malaisien lors d'une célébration en plein air de la fête nationale en Malaisie orientale.",
+        "subject": "Des participants agitant le Jalur Gemilang lors des festivités de la fête nationale à Kota Kinabalu, dans le Sabah"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Barisan pegawai berpakaian seragam berarak dalam formasi sambil membawa Jalur Gemilang berwarna merah, putih, biru dan kuning serta bendera lain semasa perarakan Hari Merdeka.",
+        "subject": "Kontinjen berpakaian seragam berarak dengan Jalur Gemilang pada sambutan Hari Merdeka ke-59"
+      },
+      {
+        "alt": "Orang ramai yang tersenyum di Kota Kinabalu, Sabah, dengan bangganya menaikkan dan mengibarkan bendera kebangsaan Malaysia semasa sambutan hari kebangsaan di tempat terbuka di Malaysia Timur.",
+        "subject": "Orang ramai mengibarkan Jalur Gemilang semasa sambutan hari kebangsaan di Kota Kinabalu, Sabah"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Barisan petugas berseragam berbaris dalam formasi sambil membawa Jalur Gemilang berwarna merah, putih, biru, dan kuning serta bendera lainnya saat parade Hari Merdeka.",
+        "subject": "Kontingen berseragam berparade dengan Jalur Gemilang pada perayaan Hari Merdeka ke-59"
+      },
+      {
+        "alt": "Kerumunan yang tersenyum di Kota Kinabalu, Sabah, dengan bangga mengangkat dan mengibarkan bendera nasional Malaysia saat perayaan hari kebangsaan di ruang terbuka di Malaysia Timur.",
+        "subject": "Warga mengibarkan Jalur Gemilang saat perayaan hari kebangsaan di Kota Kinabalu, Sabah"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những hàng sĩ quan mặc đồng phục diễu hành theo đội hình trong khi mang lá cờ Jalur Gemilang màu đỏ, trắng, xanh dương và vàng cùng các lá cờ khác trong cuộc diễu hành Ngày Merdeka.",
+        "subject": "Các đoàn mặc đồng phục diễu hành cùng lá cờ Jalur Gemilang tại lễ kỷ niệm Ngày Merdeka lần thứ 59"
+      },
+      {
+        "alt": "Đám đông tươi cười ở Kota Kinabalu, Sabah, tự hào giương cao và vẫy lá quốc kỳ Malaysia trong lễ kỷ niệm ngày quốc khánh ngoài trời ở Đông Malaysia.",
+        "subject": "Những người tham gia vẫy lá cờ Jalur Gemilang trong lễ hội ngày quốc khánh ở Kota Kinabalu, Sabah"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "Merdeka தின அணிவகுப்பின்போது சிவப்பு, வெள்ளை, நீலம் மற்றும் மஞ்சள் நிற Jalur Gemilang கொடியையும் பிற கொடிகளையும் ஏந்தி வரிசையாக அணிவகுத்துச் செல்லும் சீருடை அணிந்த அதிகாரிகள்.",
+        "subject": "59வது Merdeka தினக் கொண்டாட்டத்தில் Jalur Gemilang கொடியுடன் அணிவகுத்துச் செல்லும் சீருடை அணிகள்"
+      },
+      {
+        "alt": "கிழக்கு மலேசியாவில் திறந்தவெளி தேசிய தினக் கொண்டாட்டத்தின்போது Kota Kinabalu, Sabah-இல் மலேசிய தேசியக் கொடியைப் பெருமையுடன் உயர்த்தி அசைக்கும் புன்னகைக்கும் மக்கள் கூட்டம்.",
+        "subject": "Kota Kinabalu, Sabah-இல் தேசிய தின விழாவின்போது Jalur Gemilang கொடியை அசைக்கும் கொண்டாட்டக்காரர்கள்"
+      }
+    ]
+  },
+  "malaysia/formation-of-malaysia-1963": {
+    "zh": [
+      {
+        "alt": "沙巴Kota Kinabalu天际线的辽阔全景，高楼耸立于苍翠树冠之上，远处是海岸线与丘陵，代表1963年加入马来西亚的婆罗洲州属。",
+        "subject": "Kota Kinabalu，沙巴首府，1963年加入组成马来西亚的婆罗洲州属之一"
+      },
+      {
+        "alt": "经园林美化的古晋海滨长廊沿砂拉越河延伸，隔水可见老城天际线，代表砂拉越于1963年加入马来西亚联邦。",
+        "subject": "砂拉越河畔的Kuching Waterfront，砂拉越于1963年加入组成马来西亚"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "サバ州Kota Kinabaluのスカイラインを一望するパノラマ。緑の梢の上に高層ビルが立ち並び、その先には海岸線と丘陵が広がる。1963年にマレーシアへ加わったボルネオの州を表す。",
+        "subject": "Kota Kinabalu。サバ州の州都で、1963年にマレーシアを結成するために加わったボルネオの州の一つ"
+      },
+      {
+        "alt": "サラワク川に沿って延びる、造園されたKuching Waterfrontの遊歩道。川の対岸には旧市街のスカイラインが見える。1963年のサラワクのマレーシア連邦加入を表す。",
+        "subject": "サラワク川沿いのKuching Waterfront。サラワクは1963年にマレーシアを結成するために加わった"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "사바주 Kota Kinabalu 스카이라인의 광활한 파노라마, 푸른 나무 꼭대기 위로 솟은 고층 빌딩과 그 너머의 해안선과 구릉, 1963년 말레이시아에 합류한 보르네오 주를 상징한다.",
+        "subject": "사바주의 주도 Kota Kinabalu, 1963년 말레이시아 결성에 합류한 보르네오 주 중 하나"
+      },
+      {
+        "alt": "사라왁강을 따라 길게 뻗은 조경된 Kuching Waterfront 산책로, 강 건너편으로 보이는 구도심 스카이라인, 1963년 사라왁의 말레이시아 연방 가입을 상징한다.",
+        "subject": "사라왁강을 따라 자리한 Kuching Waterfront, 사라왁은 1963년 말레이시아 결성에 합류했다"
+      }
+    ],
+    "th": [
+      {
+        "alt": "ภาพพาโนรามากว้างไกลของเส้นขอบฟ้า Kota Kinabalu ในรัฐซาบะฮ์ อาคารสูงตระหง่านเหนือยอดไม้เขียวขจี พร้อมแนวชายฝั่งและเนินเขาอยู่ไกลออกไป แทนรัฐบนเกาะบอร์เนียวที่เข้าร่วมมาเลเซียในปี 1963",
+        "subject": "Kota Kinabalu เมืองหลวงของรัฐซาบะฮ์ หนึ่งในรัฐบนเกาะบอร์เนียวที่เข้าร่วมก่อตั้งมาเลเซียในปี 1963"
+      },
+      {
+        "alt": "ทางเดินเลียบน้ำ Kuching Waterfront ที่จัดภูมิทัศน์อย่างสวยงาม ทอดยาวไปตามแม่น้ำซาราวัก โดยมีเส้นขอบฟ้าเมืองเก่าอยู่อีกฟากของแม่น้ำ แทนการเข้าร่วมสหพันธรัฐมาเลเซียของรัฐซาราวักในปี 1963",
+        "subject": "Kuching Waterfront ริมแม่น้ำซาราวักในรัฐซาราวัก ซึ่งเข้าร่วมก่อตั้งมาเลเซียในปี 1963"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "सबा में कोटा किनाबालू के क्षितिज का विस्तृत मनोरम दृश्य, हरे वृक्षों के ऊपर उठती गगनचुंबी इमारतें और परे समुद्र-तट तथा पहाड़ियाँ, जो 1963 में मलेशिया में शामिल हुए बोर्नियो राज्य का प्रतिनिधित्व करता है।",
+        "subject": "कोटा किनाबालू, सबा की राजधानी, बोर्नियो के उन राज्यों में से एक जो 1963 में मिलकर मलेशिया बने"
+      },
+      {
+        "alt": "सारावाक नदी के किनारे फैला सुंदर भूदृश्य वाला कुचिंग वॉटरफ्रंट प्रोमेनेड, जिसके उस पार पुराने शहर का क्षितिज दिखता है, जो 1963 में मलेशिया संघ में सारावाक के प्रवेश का प्रतिनिधित्व करता है।",
+        "subject": "सारावाक नदी के किनारे कुचिंग वॉटरफ्रंट, सारावाक, जो 1963 में मिलकर मलेशिया बना"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "بانوراما واسعة لأفق كوتا كينابالو في صباح، حيث ترتفع الأبراج الشاهقة فوق قمم الأشجار الخضراء مع الساحل والتلال في الخلفية، تمثّل ولاية بورنيو التي انضمت إلى ماليزيا عام 1963.",
+        "subject": "كوتا كينابالو، عاصمة صباح، إحدى ولايتي بورنيو اللتين انضمتا لتشكيل ماليزيا عام 1963"
+      },
+      {
+        "alt": "رصيف كوتشينغ المائي المنسَّق الممتد على طول نهر ساراواك، مع أفق المدينة القديمة على الضفة المقابلة من المياه، يمثّل انضمام ساراواك إلى اتحاد ماليزيا عام 1963.",
+        "subject": "واجهة كوتشينغ المائية على طول نهر ساراواك بولاية ساراواك، التي انضمت لتشكيل ماليزيا عام 1963"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Un amplio panorama del horizonte de Kota Kinabalu en Sabah, con torres de gran altura que se elevan por encima de las copas verdes de los árboles y, al fondo, la costa y las colinas, que representa el estado de Borneo que se unió a Malasia en 1963.",
+        "subject": "Kota Kinabalu, capital de Sabah, uno de los estados de Borneo que se unieron para formar Malasia en 1963"
+      },
+      {
+        "alt": "El paseo marítimo ajardinado de Kuching se extiende a lo largo del río Sarawak, con el horizonte de la antigua ciudad al otro lado del agua, que representa la entrada de Sarawak en la Federación de Malasia en 1963.",
+        "subject": "El paseo marítimo de Kuching a lo largo del río Sarawak, en Sarawak, que se unió para formar Malasia en 1963"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Un vaste panorama de la ligne d'horizon de Kota Kinabalu, dans le Sabah, où des tours s'élèvent au-dessus de la cime verte des arbres avec le littoral et les collines à l'arrière-plan, représentant l'État de Bornéo qui a rejoint la Malaisie en 1963.",
+        "subject": "Kota Kinabalu, capitale du Sabah, l'un des États de Bornéo qui se sont unis pour former la Malaisie en 1963"
+      },
+      {
+        "alt": "L'esplanade aménagée du front de mer de Kuching s'étend le long de la rivière Sarawak, avec la ligne d'horizon de la vieille ville de l'autre côté de l'eau, représentant l'entrée du Sarawak dans la Fédération de Malaisie en 1963.",
+        "subject": "Le front de mer de Kuching le long de la rivière Sarawak, dans le Sarawak, qui s'est uni pour former la Malaisie en 1963"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Panorama luas kaki langit Kota Kinabalu di Sabah, menara pencakar langit menjulang di atas puncak pokok hijau dengan garis pantai dan bukit di latar belakang, mewakili negeri Borneo yang menyertai Malaysia pada tahun 1963.",
+        "subject": "Kota Kinabalu, ibu negeri Sabah, salah satu negeri Borneo yang bergabung membentuk Malaysia pada tahun 1963"
+      },
+      {
+        "alt": "Esplanad Tebingan Kuching yang berlanskap terbentang di sepanjang Sungai Sarawak, dengan kaki langit bandar lama di seberang air, mewakili kemasukan Sarawak ke dalam Persekutuan Malaysia pada tahun 1963.",
+        "subject": "Tebingan Kuching di sepanjang Sungai Sarawak, Sarawak, yang bergabung membentuk Malaysia pada tahun 1963"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Panorama luas cakrawala Kota Kinabalu di Sabah, menara pencakar langit menjulang di atas puncak pepohonan hijau dengan garis pantai dan perbukitan di kejauhan, mewakili negara bagian Borneo yang bergabung dengan Malaysia pada tahun 1963.",
+        "subject": "Kota Kinabalu, ibu kota Sabah, salah satu negara bagian Borneo yang bergabung membentuk Malaysia pada tahun 1963"
+      },
+      {
+        "alt": "Esplanade tepi Sungai Kuching yang tertata membentang di sepanjang Sungai Sarawak, dengan cakrawala kota tua di seberang air, mewakili masuknya Sarawak ke dalam Federasi Malaysia pada tahun 1963.",
+        "subject": "Tepi Sungai Kuching di sepanjang Sungai Sarawak, Sarawak, yang bergabung membentuk Malaysia pada tahun 1963"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Toàn cảnh rộng lớn của đường chân trời Kota Kinabalu ở Sabah, những tòa tháp cao tầng vươn lên trên những ngọn cây xanh với đường bờ biển và đồi núi phía xa, đại diện cho bang Borneo đã gia nhập Malaysia vào năm 1963.",
+        "subject": "Kota Kinabalu, thủ phủ của Sabah, một trong những bang trên đảo Borneo đã gia nhập để thành lập Malaysia vào năm 1963"
+      },
+      {
+        "alt": "Khu bờ sông Kuching được quy hoạch cảnh quan trải dài dọc theo sông Sarawak, với đường chân trời phố cổ bên kia sông, đại diện cho việc Sarawak gia nhập Liên bang Malaysia vào năm 1963.",
+        "subject": "Bờ sông Kuching dọc theo sông Sarawak, Sarawak, nơi đã gia nhập để thành lập Malaysia vào năm 1963"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "Sabah-இல் உள்ள Kota Kinabalu வானளாவிய காட்சியின் விரிவான பனோரமா, பசுமையான மரங்களின் உச்சிக்கு மேலே உயர்ந்து நிற்கும் உயரமான கோபுரங்கள், தொலைவில் கடற்கரை மற்றும் மலைகளுடன், 1963-இல் மலேசியாவில் இணைந்த போர்னியோ மாநிலத்தைக் குறிக்கிறது.",
+        "subject": "1963-இல் மலேசியாவை உருவாக்க இணைந்த போர்னியோ மாநிலங்களில் ஒன்றான Sabah-இன் தலைநகரான Kota Kinabalu"
+      },
+      {
+        "alt": "Sarawak ஆற்றின் கரையோரமாக நீண்டு செல்லும் நிலத்தோற்ற அமைப்புடன் கூடிய Kuching நீர்முகப்பு உலாத்தளம், ஆற்றுக்கு அப்பால் பழைய நகர வானளாவிய காட்சியுடன், 1963-இல் மலேசியக் கூட்டமைப்பில் Sarawak இணைந்ததைக் குறிக்கிறது.",
+        "subject": "1963-இல் மலேசியாவை உருவாக்க இணைந்த Sarawak, Sarawak ஆற்றின் கரையோரமாக அமைந்த Kuching நீர்முகப்பு"
+      }
+    ]
+  },
+  "malaysia/wawasan-2020": {
+    "zh": [
+      {
+        "alt": "水柱从KLCC Park的Symphony Lake喷泉中弧形喷出，四周是修剪整齐的绿草坪与园林美化的城市绿意，明亮的热带天空之下。",
+        "subject": "吉隆坡市中心KLCC Park的喷泉"
+      },
+      {
+        "alt": "纤细、呈钻石切面的Merdeka 118摩天大楼向上收窄至高耸的尖顶，矗立于吉隆坡天际线之上，是世界最高建筑之一。",
+        "subject": "吉隆坡的Merdeka 118大楼，世界最高建筑之一"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "KLCC ParkのSymphony Lakeの噴水から弧を描いて噴き出す水。手入れされた緑の芝生と造園された街の緑に囲まれ、明るい熱帯の空の下に広がる。",
+        "subject": "クアラルンプール市街中心部のKLCC Parkにある噴水"
+      },
+      {
+        "alt": "細身でダイヤモンドのようなファセットを持つ超高層ビルMerdeka 118が、高い尖塔へと細くそびえ、クアラルンプールのスカイラインの上に立つ。世界で最も高い建築物の一つ。",
+        "subject": "クアラルンプールのMerdeka 118タワー。世界で最も高い建築物の一つ"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "KLCC Park의 Symphony Lake 분수에서 호를 그리며 뿜어져 나오는 물줄기, 잘 손질된 푸른 잔디와 조경된 도심 녹지에 둘러싸인 밝은 열대 하늘 아래 풍경.",
+        "subject": "쿠알라룸푸르 도심의 KLCC Park 분수"
+      },
+      {
+        "alt": "날렵하고 다이아몬드처럼 각진 초고층 빌딩 Merdeka 118이 높은 첨탑으로 좁아지며 쿠알라룸푸르 스카이라인 위로 솟아 있는, 세계에서 가장 높은 건물 중 하나.",
+        "subject": "쿠알라룸푸르의 Merdeka 118 타워, 세계에서 가장 높은 건물 중 하나"
+      }
+    ],
+    "th": [
+      {
+        "alt": "สายน้ำพุ่งเป็นเส้นโค้งจากน้ำพุ Symphony Lake ใน KLCC Park รายล้อมด้วยสนามหญ้าเขียวขจีที่ตัดแต่งอย่างดีและพื้นที่สีเขียวในเมืองที่จัดภูมิทัศน์ ภายใต้ท้องฟ้าเขตร้อนอันสดใส",
+        "subject": "น้ำพุที่ KLCC Park ใจกลางเมืองกัวลาลัมเปอร์"
+      },
+      {
+        "alt": "ตึกระฟ้า Merdeka 118 ทรงเพรียวที่มีผิวเหลี่ยมมุมคล้ายเพชร ค่อย ๆ เรียวขึ้นสู่ยอดแหลมสูงเหนือเส้นขอบฟ้ากัวลาลัมเปอร์ หนึ่งในอาคารที่สูงที่สุดในโลก",
+        "subject": "อาคาร Merdeka 118 ในกัวลาลัมเปอร์ หนึ่งในอาคารที่สูงที่สุดในโลก"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "KLCC पार्क में सिम्फनी झील के फव्वारे से पानी की धाराएँ चाप बनाती हुई ऊपर उठती हैं, जो उज्ज्वल उष्णकटिबंधीय आकाश के नीचे सुव्यवस्थित हरे मैदानों और सुंदर शहरी हरियाली से घिरी हैं।",
+        "subject": "कुआलालंपुर सिटी सेंटर में KLCC पार्क का फव्वारा"
+      },
+      {
+        "alt": "पतला, हीरे जैसी पहलदार मर्देका 118 गगनचुंबी भवन कुआलालंपुर के क्षितिज से ऊँचा उठकर एक लंबी मीनार में सिमटता है, जो दुनिया की सबसे ऊँची इमारतों में से एक है।",
+        "subject": "कुआलालंपुर में मर्देका 118 टावर, दुनिया की सबसे ऊँची इमारतों में से एक"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "نفثات الماء تتقوّس من نافورة بحيرة سيمفوني في حديقة KLCC، تحيط بها مروج خضراء مشذّبة ومساحات خضراء حضرية منسَّقة تحت سماء استوائية مشرقة.",
+        "subject": "نافورة حديقة KLCC في وسط مدينة كوالالمبور"
+      },
+      {
+        "alt": "ناطحة السحاب النحيلة مرديكا 118 ذات الأوجه الماسية تتناقص صعوداً نحو قمة عالية فوق أفق كوالالمبور، وهي أحد أطول المباني في العالم.",
+        "subject": "برج مرديكا 118 في كوالالمبور، أحد أطول المباني في العالم"
+      }
+    ],
+    "es": [
+      {
+        "alt": "Chorros de agua se arquean desde la fuente del lago Symphony en el KLCC Park, enmarcados por cuidados céspedes verdes y vegetación urbana ajardinada bajo un luminoso cielo tropical.",
+        "subject": "La fuente del KLCC Park, en el centro de la ciudad de Kuala Lumpur"
+      },
+      {
+        "alt": "El esbelto rascacielos Merdeka 118, de facetas en forma de diamante, se estrecha hacia una alta aguja muy por encima del horizonte de Kuala Lumpur, uno de los edificios más altos del mundo.",
+        "subject": "La torre Merdeka 118, uno de los edificios más altos del mundo, en Kuala Lumpur"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Des jets d'eau jaillissent en arc depuis la fontaine du lac Symphony dans le KLCC Park, encadrés par des pelouses vertes soignées et une verdure urbaine aménagée sous un ciel tropical lumineux.",
+        "subject": "La fontaine du KLCC Park, dans le centre-ville de Kuala Lumpur"
+      },
+      {
+        "alt": "Le gratte-ciel élancé Merdeka 118, aux facettes en losange, s'effile vers une haute flèche bien au-dessus de la ligne d'horizon de Kuala Lumpur, l'un des plus hauts bâtiments du monde.",
+        "subject": "La tour Merdeka 118, l'un des plus hauts bâtiments du monde, à Kuala Lumpur"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Pancutan air melengkung dari air pancut Tasik Simfoni di Taman KLCC, dibingkai oleh hamparan rumput hijau terurus dan kehijauan bandar berlanskap di bawah langit tropika yang cerah.",
+        "subject": "Air pancut di Taman KLCC, di Pusat Bandar Raya Kuala Lumpur"
+      },
+      {
+        "alt": "Pencakar langit Merdeka 118 yang langsing dan bersisi berlian meruncing kepada menara puncak yang tinggi mengatasi kaki langit Kuala Lumpur, salah satu bangunan tertinggi di dunia.",
+        "subject": "Menara Merdeka 118, salah satu bangunan tertinggi di dunia, di Kuala Lumpur"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Semburan air melengkung dari air mancur Danau Symphony di Taman KLCC, dibingkai oleh hamparan rumput hijau terawat dan tanaman hijau kota yang tertata di bawah langit tropis yang cerah.",
+        "subject": "Air mancur di Taman KLCC, di Pusat Kota Kuala Lumpur"
+      },
+      {
+        "alt": "Pencakar langit Merdeka 118 yang ramping dan bersisi berlian meruncing menjadi menara puncak tinggi di atas cakrawala Kuala Lumpur, salah satu gedung tertinggi di dunia.",
+        "subject": "Menara Merdeka 118, salah satu gedung tertinggi di dunia, di Kuala Lumpur"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Những tia nước vòng cung phun lên từ đài phun nước Hồ Symphony trong Công viên KLCC, được bao quanh bởi những bãi cỏ xanh được cắt tỉa và cây xanh đô thị được quy hoạch dưới bầu trời nhiệt đới trong xanh.",
+        "subject": "Đài phun nước tại Công viên KLCC, trong Trung tâm Thành phố Kuala Lumpur"
+      },
+      {
+        "alt": "Tòa nhà chọc trời Merdeka 118 mảnh mai với các mặt cắt hình kim cương thon dần lên đỉnh tháp cao vút trên đường chân trời Kuala Lumpur, một trong những tòa nhà cao nhất thế giới.",
+        "subject": "Tòa tháp Merdeka 118, một trong những tòa nhà cao nhất thế giới, ở Kuala Lumpur"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "Taman KLCC-இல் உள்ள Symphony ஏரி நீரூற்றிலிருந்து வளைவாக எழும்பும் நீர்த்தாரைகள், பிரகாசமான வெப்பமண்டல வானத்தின் கீழ் நேர்த்தியாக பராமரிக்கப்பட்ட பசும்புல்வெளிகள் மற்றும் நிலத்தோற்ற நகரப் பசுமையால் சூழப்பட்டுள்ளது.",
+        "subject": "Kuala Lumpur நகர மையத்தில் உள்ள Taman KLCC-இல் உள்ள நீரூற்று"
+      },
+      {
+        "alt": "மெல்லிய, வைர வடிவப் பட்டைகள் கொண்ட Merdeka 118 வானளாவிய கட்டிடம் Kuala Lumpur வானளாவிய காட்சிக்கு மேலே உயரமான சிகரமாகக் கூம்பி நிற்கிறது, உலகின் உயரமான கட்டிடங்களில் ஒன்று.",
+        "subject": "Kuala Lumpur-இல் உள்ள, உலகின் உயரமான கட்டிடங்களில் ஒன்றான Merdeka 118 கோபுரம்"
+      }
+    ]
+  },
+  "malaysia/new-economic-policy": {
+    "zh": [
+      {
+        "alt": "斜拉桥Seri Wawasan Bridge白色帆形桥塔矗立于平静的Putrajaya湖面之上，钢索呈扇形展开连向桥面。",
+        "subject": "联邦行政首都Putrajaya湖上的Seri Wawasan Bridge"
+      },
+      {
+        "alt": "灵感源自伊斯法罕的Putra Bridge横跨Putrajaya湖，其镶瓷砖的宣礼塔式桥墩与尖拱在蓝天下倒映水中。",
+        "subject": "联邦行政首都Putrajaya湖上的Putra Bridge（Jambatan Putra）"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "斜張橋Seri Wawasan Bridgeの白い帆の形をした主塔が、穏やかなPutrajaya湖の水面にそびえ、鋼鉄のケーブルが橋桁へ扇状に広がる。",
+        "subject": "連邦行政都市のPutrajaya湖に架かるSeri Wawasan Bridge"
+      },
+      {
+        "alt": "イスファハンに着想を得たPutra BridgeがPutrajaya湖を弧を描いて渡り、タイル張りのミナレットのような橋脚と尖塔アーチが青空の下、水面に映る。",
+        "subject": "連邦行政都市のPutrajaya湖に架かるPutra Bridge（Jambatan Putra）"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "사장교 Seri Wawasan Bridge의 흰색 돛 모양 주탑이 잔잔한 Putrajaya 호수 위로 솟아 있고, 강철 케이블이 상판을 향해 부채꼴로 펼쳐진다.",
+        "subject": "연방 행정수도의 Putrajaya 호수를 가로지르는 Seri Wawasan Bridge"
+      },
+      {
+        "alt": "이스파한에서 영감을 받은 Putra Bridge가 Putrajaya 호수를 아치형으로 가로지르며, 타일로 장식된 미나레트 같은 교각과 뾰족한 아치가 푸른 하늘 아래 수면에 비친다.",
+        "subject": "연방 행정수도의 Putrajaya 호수를 가로지르는 Putra Bridge(Jambatan Putra)"
+      }
+    ],
+    "th": [
+      {
+        "alt": "เสาสะพานทรงใบเรือสีขาวของสะพานขึงเคเบิล Seri Wawasan Bridge ตั้งตระหง่านเหนือผืนน้ำอันสงบของทะเลสาบ Putrajaya โดยมีสายเคเบิลเหล็กแผ่เป็นรูปพัดไปยังพื้นสะพาน",
+        "subject": "Seri Wawasan Bridge ข้ามทะเลสาบ Putrajaya ในเมืองหลวงฝ่ายบริหารของสหพันธรัฐ"
+      },
+      {
+        "alt": "Putra Bridge ที่ได้แรงบันดาลใจจากเมืองอิสฟาฮาน ทอดโค้งข้ามทะเลสาบ Putrajaya โดยมีตอม่อคล้ายหอคอยสุเหร่าประดับกระเบื้องและซุ้มโค้งแหลมสะท้อนเงาในน้ำใต้ท้องฟ้าสีคราม",
+        "subject": "Putra Bridge (Jambatan Putra) ข้ามทะเลสาบ Putrajaya ในเมืองหลวงฝ่ายบริหารของสหพันธรัฐ"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "केबल-स्टेड सेरी वावासन ब्रिज का सफ़ेद, पाल के आकार का स्तंभ पुत्राजया झील के शांत जल के ऊपर उठता है, जिसके इस्पात के तार उसके डेक तक पंखे की तरह फैले हैं।",
+        "subject": "संघीय प्रशासनिक राजधानी में पुत्राजया झील पर सेरी वावासन ब्रिज"
+      },
+      {
+        "alt": "इस्फ़हान से प्रेरित पुत्रा ब्रिज पुत्राजया झील के आर-पार मेहराबनुमा फैला है, इसके टाइल जड़े मीनार जैसे स्तंभ और नुकीले मेहराब नीले आकाश के नीचे पानी में प्रतिबिंबित होते हैं।",
+        "subject": "संघीय प्रशासनिक राजधानी में पुत्राजया झील पर पुत्रा ब्रिज (जम्बातान पुत्रा)"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "البرج الأبيض الشبيه بالشراع لجسر سري واواسان المعلّق بالكابلات يرتفع فوق مياه بحيرة بوتراجايا الهادئة، فيما تتوزّع الكابلات الفولاذية كالمروحة نحو سطحه.",
+        "subject": "جسر سري واواسان فوق بحيرة بوتراجايا في العاصمة الإدارية الاتحادية"
+      },
+      {
+        "alt": "جسر بوترا المستوحى من طراز أصفهان يمتد مقوّساً عبر بحيرة بوتراجايا، وتنعكس دعاماته المكسوّة بالبلاط الشبيهة بالمآذن وأقواسه المدبّبة في الماء تحت سماء زرقاء.",
+        "subject": "جسر بوترا (جمباتان بوترا) فوق بحيرة بوتراجايا في العاصمة الإدارية الاتحادية"
+      }
+    ],
+    "es": [
+      {
+        "alt": "El pilón blanco en forma de vela del puente atirantado Seri Wawasan se eleva sobre las tranquilas aguas del lago Putrajaya, con cables de acero desplegándose en abanico hacia su tablero.",
+        "subject": "El puente Seri Wawasan sobre el lago Putrajaya, en la capital administrativa federal"
+      },
+      {
+        "alt": "El puente Putra, de inspiración isfahaní, se arquea sobre el lago Putrajaya, con sus pilares alicatados semejantes a alminares y sus arcos apuntados reflejados en el agua bajo un cielo azul.",
+        "subject": "El puente Putra (Jambatan Putra) sobre el lago Putrajaya, en la capital administrativa federal"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "Le pylône blanc en forme de voile du pont à haubans Seri Wawasan s'élève au-dessus des eaux calmes du lac Putrajaya, ses câbles d'acier se déployant en éventail vers son tablier.",
+        "subject": "Le pont Seri Wawasan au-dessus du lac Putrajaya, dans la capitale administrative fédérale"
+      },
+      {
+        "alt": "Le pont Putra, d'inspiration ispahane, s'arque au-dessus du lac Putrajaya, ses piles carrelées évoquant des minarets et ses arcs brisés se reflétant dans l'eau sous un ciel bleu.",
+        "subject": "Le pont Putra (Jambatan Putra) au-dessus du lac Putrajaya, dans la capitale administrative fédérale"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Tiang menara putih berbentuk layar bagi Jambatan Seri Wawasan yang berkabel menjulang di atas air tenang Tasik Putrajaya, dengan kabel keluli terbentang seperti kipas ke dek jambatan.",
+        "subject": "Jambatan Seri Wawasan di atas Tasik Putrajaya, di pusat pentadbiran persekutuan"
+      },
+      {
+        "alt": "Jambatan Putra yang diilhamkan oleh Isfahan melengkung merentasi Tasik Putrajaya, dengan tiang seperti menara berjubin dan lengkungan tajamnya terpantul di air di bawah langit biru.",
+        "subject": "Jambatan Putra di atas Tasik Putrajaya, di pusat pentadbiran persekutuan"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Pilon putih berbentuk layar dari Jembatan Seri Wawasan yang ditahan kabel menjulang di atas perairan tenang Danau Putrajaya, dengan kabel baja memancar seperti kipas ke lantai jembatan.",
+        "subject": "Jembatan Seri Wawasan di atas Danau Putrajaya, di pusat administrasi federal"
+      },
+      {
+        "alt": "Jembatan Putra yang terinspirasi Isfahan melengkung melintasi Danau Putrajaya, dengan pilar berubin menyerupai menara dan lengkungan runcingnya terpantul di air di bawah langit biru.",
+        "subject": "Jembatan Putra (Jambatan Putra) di atas Danau Putrajaya, di pusat administrasi federal"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Trụ tháp màu trắng hình cánh buồm của cầu dây văng Seri Wawasan vươn lên trên mặt nước phẳng lặng của Hồ Putrajaya, những sợi cáp thép tỏa ra như hình quạt đến mặt cầu.",
+        "subject": "Cầu Seri Wawasan bắc qua Hồ Putrajaya, tại thủ đô hành chính liên bang"
+      },
+      {
+        "alt": "Cầu Putra lấy cảm hứng từ Isfahan uốn cong qua Hồ Putrajaya, các trụ cầu ốp gạch giống tháp giáo đường và những vòm nhọn của nó phản chiếu trên mặt nước dưới bầu trời xanh.",
+        "subject": "Cầu Putra (Jambatan Putra) bắc qua Hồ Putrajaya, tại thủ đô hành chính liên bang"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "கம்பிகளால் தாங்கப்பட்ட Jambatan Seri Wawasan-இன் வெண்ணிற, பாய்மர வடிவத் தூண் Putrajaya ஏரியின் அமைதியான நீருக்கு மேல் உயர்கிறது, எஃகுக் கம்பிகள் அதன் தளத்தை நோக்கி விசிறி போல் விரிகின்றன.",
+        "subject": "கூட்டாட்சி நிர்வாகத் தலைநகரில், Putrajaya ஏரிக்கு மேல் அமைந்த Jambatan Seri Wawasan"
+      },
+      {
+        "alt": "Isfahan-ஆல் உந்தப்பட்ட Jambatan Putra, Putrajaya ஏரியை வளைந்து கடக்கிறது, ஓடு பதித்த மினாரட் போன்ற தூண்களும் கூர்மையான வளைவுகளும் நீல வானத்தின் கீழ் நீரில் பிரதிபலிக்கின்றன.",
+        "subject": "கூட்டாட்சி நிர்வாகத் தலைநகரில், Putrajaya ஏரிக்கு மேல் அமைந்த Jambatan Putra (புத்ரா பாலம்)"
+      }
+    ]
+  },
+  "malaysia/ma63": {
+    "zh": [
+      {
+        "alt": "Kota Kinabalu的Sabah State Legislative Assembly大楼，现代化的层叠式塔楼，是沙巴民选州议员的所在地。",
+        "subject": "Kota Kinabalu的Sabah State Legislative Assembly大楼"
+      },
+      {
+        "alt": "蓝金穹顶的Kota Kinabalu City Mosque，在沙巴州首府环绕其周的人工潟湖平静水面上映出倒影。",
+        "subject": "沙巴的Kota Kinabalu City Mosque"
+      }
+    ],
+    "ja": [
+      {
+        "alt": "Kota Kinabaluに立つSabah State Legislative Assemblyの建物。現代的な段状のタワーで、サバ州の民選議員が集う議場。",
+        "subject": "Kota KinabaluにあるSabah State Legislative Assemblyの建物"
+      },
+      {
+        "alt": "青と金のドームを戴くKota Kinabalu City Mosqueが、サバ州都にある周囲の人工ラグーンの静かな水面に映る。",
+        "subject": "サバ州のKota Kinabalu City Mosque"
+      }
+    ],
+    "ko": [
+      {
+        "alt": "Kota Kinabalu에 자리한 Sabah State Legislative Assembly 건물의 현대적인 계단식 타워, 사바주 선출직 주의원들이 모이는 의사당.",
+        "subject": "Kota Kinabalu에 있는 Sabah State Legislative Assembly 건물"
+      },
+      {
+        "alt": "파란색과 금색 돔을 얹은 Kota Kinabalu City Mosque가 사바주 주도의 주변 인공 석호의 잔잔한 수면에 비친다.",
+        "subject": "사바주의 Kota Kinabalu City Mosque"
+      }
+    ],
+    "th": [
+      {
+        "alt": "อาคาร Sabah State Legislative Assembly ใน Kota Kinabalu อาคารทรงหอคอยแบบขั้นบันไดสมัยใหม่ อันเป็นที่ทำการของสมาชิกสภานิติบัญญัติรัฐซาบะฮ์ที่มาจากการเลือกตั้ง",
+        "subject": "อาคาร Sabah State Legislative Assembly ใน Kota Kinabalu"
+      },
+      {
+        "alt": "Kota Kinabalu City Mosque ที่มีโดมสีน้ำเงินและทอง สะท้อนเงาในผืนน้ำนิ่งของลากูนที่มนุษย์สร้างขึ้นโดยรอบ ในเมืองหลวงของรัฐซาบะฮ์",
+        "subject": "Kota Kinabalu City Mosque รัฐซาบะฮ์"
+      }
+    ],
+    "hi": [
+      {
+        "alt": "कोटा किनाबालू में सबा राज्य विधानसभा भवन की आधुनिक सीढ़ीनुमा मीनार, जो सबा के निर्वाचित राज्य विधायकों का स्थल है।",
+        "subject": "कोटा किनाबालू में सबा राज्य विधानसभा भवन"
+      },
+      {
+        "alt": "नीले और सुनहरे गुंबद वाली कोटा किनाबालू सिटी मस्जिद सबा की राज्य राजधानी में अपने चारों ओर बने मानव-निर्मित लैगून के स्थिर जल में प्रतिबिंबित होती है।",
+        "subject": "कोटा किनाबालू सिटी मस्जिद, सबा"
+      }
+    ],
+    "ar": [
+      {
+        "alt": "البرج المدرَّج الحديث لمبنى الجمعية التشريعية لولاية صباح في كوتا كينابالو، مقر مشرّعي الولاية المنتخبين في صباح.",
+        "subject": "مبنى الجمعية التشريعية لولاية صباح في كوتا كينابالو"
+      },
+      {
+        "alt": "مسجد مدينة كوتا كينابالو ذو القباب الزرقاء والذهبية ينعكس في المياه الساكنة للبحيرة الاصطناعية المحيطة به في عاصمة ولاية صباح.",
+        "subject": "مسجد مدينة كوتا كينابالو، صباح"
+      }
+    ],
+    "es": [
+      {
+        "alt": "La moderna torre escalonada del edificio de la Asamblea Legislativa del Estado de Sabah en Kota Kinabalu, sede de los legisladores estatales electos de Sabah.",
+        "subject": "El edificio de la Asamblea Legislativa del Estado de Sabah en Kota Kinabalu"
+      },
+      {
+        "alt": "La Mezquita de la Ciudad de Kota Kinabalu, de cúpulas azules y doradas, se refleja en las aguas tranquilas de la laguna artificial que la rodea en la capital del estado de Sabah.",
+        "subject": "La Mezquita de la Ciudad de Kota Kinabalu, Sabah"
+      }
+    ],
+    "fr": [
+      {
+        "alt": "La tour moderne à gradins du bâtiment de l'Assemblée législative de l'État du Sabah à Kota Kinabalu, siège des législateurs élus de l'État du Sabah.",
+        "subject": "Le bâtiment de l'Assemblée législative de l'État du Sabah à Kota Kinabalu"
+      },
+      {
+        "alt": "La mosquée de la ville de Kota Kinabalu, aux coupoles bleues et dorées, se reflète dans les eaux calmes de la lagune artificielle qui l'entoure, dans la capitale de l'État du Sabah.",
+        "subject": "La mosquée de la ville de Kota Kinabalu, dans le Sabah"
+      }
+    ],
+    "ms": [
+      {
+        "alt": "Menara bertingkat moden bangunan Dewan Undangan Negeri Sabah di Kota Kinabalu, tempat bersidang ahli penggubal undang-undang negeri Sabah yang dipilih.",
+        "subject": "Bangunan Dewan Undangan Negeri Sabah di Kota Kinabalu"
+      },
+      {
+        "alt": "Masjid Bandaraya Kota Kinabalu yang berkubah biru dan emas terpantul di air tenang lagun buatan manusia yang mengelilinginya di ibu negeri Sabah.",
+        "subject": "Masjid Bandaraya Kota Kinabalu, Sabah"
+      }
+    ],
+    "id": [
+      {
+        "alt": "Menara bertingkat modern gedung Dewan Undangan Negeri Sabah di Kota Kinabalu, tempat berkedudukan para pembuat undang-undang negara bagian Sabah yang dipilih.",
+        "subject": "Gedung Dewan Undangan Negeri Sabah di Kota Kinabalu"
+      },
+      {
+        "alt": "Masjid Bandaraya Kota Kinabalu yang berkubah biru dan emas terpantul di air tenang laguna buatan manusia yang mengelilinginya di ibu kota negara bagian Sabah.",
+        "subject": "Masjid Bandaraya Kota Kinabalu, Sabah"
+      }
+    ],
+    "vi": [
+      {
+        "alt": "Tòa tháp nhiều tầng hiện đại của tòa nhà Hội đồng Lập pháp Bang Sabah ở Kota Kinabalu, nơi làm việc của các nhà lập pháp bang Sabah được bầu cử.",
+        "subject": "Tòa nhà Hội đồng Lập pháp Bang Sabah (Dewan Undangan Negeri Sabah) ở Kota Kinabalu"
+      },
+      {
+        "alt": "Nhà thờ Hồi giáo Thành phố Kota Kinabalu với mái vòm xanh và vàng phản chiếu trên mặt nước tĩnh lặng của đầm nhân tạo bao quanh tại thủ phủ bang Sabah.",
+        "subject": "Nhà thờ Hồi giáo Thành phố Kota Kinabalu (Masjid Bandaraya Kota Kinabalu), Sabah"
+      }
+    ],
+    "ta": [
+      {
+        "alt": "Kota Kinabalu-இல் உள்ள Dewan Undangan Negeri Sabah கட்டிடத்தின் நவீன அடுக்கு அடுக்கான கோபுரம், Sabah-இன் தேர்ந்தெடுக்கப்பட்ட மாநில சட்டமன்ற உறுப்பினர்களின் அவை இடம்.",
+        "subject": "Kota Kinabalu-இல் உள்ள Dewan Undangan Negeri Sabah கட்டிடம்"
+      },
+      {
+        "alt": "நீலம் மற்றும் தங்க நிறக் குவிமாடம் கொண்ட Masjid Bandaraya Kota Kinabalu, Sabah மாநிலத் தலைநகரில் அதைச் சூழ்ந்துள்ள மனிதனால் உருவாக்கப்பட்ட நீர்த்தேக்கத்தின் அமைதியான நீரில் பிரதிபலிக்கிறது.",
+        "subject": "Masjid Bandaraya Kota Kinabalu, Sabah"
+      }
+    ]
   }
 }

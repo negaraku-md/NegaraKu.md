@@ -29,7 +29,7 @@ faq:
     a: "Singapura berpisah pada 9 Agustus 1965 menyusul sebuah pemungutan suara di Parlemen Malaysia. Ketegangan politik antara Parti Tindakan Rakyat dan pemerintah Perikatan mengenai kebijakan ekonomi dan dasar persaingan politik telah mendahului perpisahan itu. Kedua pihak tidak merencanakan hasil demikian pada penggabungan 1963."
 
 lang: "id"
-sourceContentHash: "6eb2de3c5c01ceae"
+sourceContentHash: "061872cf7f5b271c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -73,6 +73,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-1.webp
+    alt: Panorama luas cakrawala Kota Kinabalu di Sabah, menara pencakar langit menjulang di atas puncak pepohonan hijau dengan garis pantai dan perbukitan di kejauhan, mewakili negara bagian Borneo yang bergabung dengan Malaysia pada tahun 1963.
+    kind: representative
+    origin: third-party
+    subject: Kota Kinabalu, ibu kota Sabah, salah satu negara bagian Borneo yang bergabung membentuk Malaysia pada tahun 1963
+    credit: Jason Thien / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panorama_of_Greater_Kota_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-2.webp
+    alt: Esplanade tepi Sungai Kuching yang tertata membentang di sepanjang Sungai Sarawak, dengan cakrawala kota tua di seberang air, mewakili masuknya Sarawak ke dalam Federasi Malaysia pada tahun 1963.
+    kind: representative
+    origin: third-party
+    subject: Tepi Sungai Kuching di sepanjang Sungai Sarawak, Sarawak, yang bergabung membentuk Malaysia pada tahun 1963
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Waterfront,_Kuching,_Sarawak_2.jpg
 ---
 
 Empat wilayah menjadi satu negara pada 16 September 1963, dan dalam waktu dua tahun salah satunya telah keluar. Fakta itu saja memberi tahu Anda bahwa penggabungan 1963 bukanlah sebuah latihan administratif yang rapi — ia merupakan sebuah proyek politik yang dipersengketakan, ditentang oleh dua pemerintah tetangga dan terurai oleh ketegangan internal hampir segera setelah ia berhasil.

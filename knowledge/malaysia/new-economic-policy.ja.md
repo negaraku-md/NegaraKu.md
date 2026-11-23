@@ -22,7 +22,7 @@ appliesTo: "新経済政策について、党派的な記述ではなく、公�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6f9599be22d1ac5f"
+sourceContentHash: "c42144eca9ef3f83"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -71,6 +71,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-1.webp
+    alt: 斜張橋Seri Wawasan Bridgeの白い帆の形をした主塔が、穏やかなPutrajaya湖の水面にそびえ、鋼鉄のケーブルが橋桁へ扇状に広がる。
+    kind: actual
+    origin: third-party
+    subject: 連邦行政都市のPutrajaya湖に架かるSeri Wawasan Bridge
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-2.webp
+    alt: イスファハンに着想を得たPutra BridgeがPutrajaya湖を弧を描いて渡り、タイル張りのミナレットのような橋脚と尖塔アーチが青空の下、水面に映る。
+    kind: actual
+    origin: third-party
+    subject: 連邦行政都市のPutrajaya湖に架かるPutra Bridge（Jambatan Putra）
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-putra-bridge.jpg
 ---
 
 新経済政策は、たいてい「再編」という一語だけで記憶され、それ以来ずっと議論の的となってきた。しかし、この政策は、国会に提出された政府計画の中で、自らの目標を書面で述べている。その目標は一つではなく二つであり、さらにその両方の上に位置する第三の理念があった。本稿は、文書自体が述べている順序に従って、文書が実際に何を述べているかを整理する。

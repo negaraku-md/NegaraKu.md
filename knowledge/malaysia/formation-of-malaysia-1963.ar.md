@@ -29,7 +29,7 @@ faq:
     a: "انفصلت سنغافورة في 9 أغسطس 1965 عقب تصويت في البرلمان الماليزي. وقد سبق الانفصالَ توترٌ سياسي بين حزب العمل الشعبي (People's Action Party) وحكومة التحالف (Alliance) حول السياسة الاقتصادية وأساس التنافس السياسي. ولم يكن أيٌّ من الطرفين قد خطّط لتلك النتيجة عند دمج 1963."
 
 lang: "ar"
-sourceContentHash: "6eb2de3c5c01ceae"
+sourceContentHash: "061872cf7f5b271c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -72,6 +72,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-1.webp
+    alt: بانوراما واسعة لأفق كوتا كينابالو في صباح، حيث ترتفع الأبراج الشاهقة فوق قمم الأشجار الخضراء مع الساحل والتلال في الخلفية، تمثّل ولاية بورنيو التي انضمت إلى ماليزيا عام 1963.
+    kind: representative
+    origin: third-party
+    subject: كوتا كينابالو، عاصمة صباح، إحدى ولايتي بورنيو اللتين انضمتا لتشكيل ماليزيا عام 1963
+    credit: Jason Thien / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panorama_of_Greater_Kota_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-2.webp
+    alt: رصيف كوتشينغ المائي المنسَّق الممتد على طول نهر ساراواك، مع أفق المدينة القديمة على الضفة المقابلة من المياه، يمثّل انضمام ساراواك إلى اتحاد ماليزيا عام 1963.
+    kind: representative
+    origin: third-party
+    subject: واجهة كوتشينغ المائية على طول نهر ساراواك بولاية ساراواك، التي انضمت لتشكيل ماليزيا عام 1963
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Waterfront,_Kuching,_Sarawak_2.jpg
 ---
 
 صارت أربعة أقاليم بلداً واحداً في 16 سبتمبر 1963، وفي غضون عامين كان أحدها قد غادر بالفعل. وهذه الحقيقة وحدها تكشف أن دمج 1963 لم يكن تمريناً إدارياً مرتّباً — بل كان مشروعاً سياسياً مُتنازَعاً عليه، عارضته حكومتان مجاورتان، وتفكّك بفعل توترات داخلية بُعيد نجاحه مباشرة.

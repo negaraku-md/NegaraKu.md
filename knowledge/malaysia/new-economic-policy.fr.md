@@ -21,7 +21,7 @@ keyTakeaways:
   - "La NEP a été formulée après les événements du 13 mai 1969 et a été remplacée par la Politique nationale de développement en 1991"
 appliesTo: "Les lecteurs qui veulent les objectifs, cibles et cadre temporel documentés de la Nouvelle Politique économique tels que déclarés dans les textes officiels des plans malaisiens, plutôt qu'un compte rendu partisan de celle-ci."
 lang: "fr"
-sourceContentHash: "6f9599be22d1ac5f"
+sourceContentHash: "c42144eca9ef3f83"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -73,6 +73,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-1.webp
+    alt: Le pylône blanc en forme de voile du pont à haubans Seri Wawasan s'élève au-dessus des eaux calmes du lac Putrajaya, ses câbles d'acier se déployant en éventail vers son tablier.
+    kind: actual
+    origin: third-party
+    subject: Le pont Seri Wawasan au-dessus du lac Putrajaya, dans la capitale administrative fédérale
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-2.webp
+    alt: Le pont Putra, d'inspiration ispahane, s'arque au-dessus du lac Putrajaya, ses piles carrelées évoquant des minarets et ses arcs brisés se reflétant dans l'eau sous un ciel bleu.
+    kind: actual
+    origin: third-party
+    subject: Le pont Putra (Jambatan Putra) au-dessus du lac Putrajaya, dans la capitale administrative fédérale
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-putra-bridge.jpg
 ---
 
 La Nouvelle Politique économique est habituellement retenue en un seul mot — « restructuration » — et débattue depuis lors. Mais la politique a déclaré ses propres fins par écrit, dans un plan gouvernemental déposé au Parlement, et ces fins étaient au nombre de deux, et non d'une, avec une troisième idée placée au-dessus des deux. Cet article expose ce que disent les documents, dans l'ordre où les documents le disent.

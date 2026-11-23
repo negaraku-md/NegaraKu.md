@@ -32,7 +32,7 @@ faq:
     a: "साझा समृद्धि विज़न 2030 (WKB 2030) को अक्टूबर 2019 में उत्तराधिकारी विज़न के रूप में प्रस्तुत किया गया, जो 2021 से 2030 की अवधि के लिए समतामूलक समृद्धि पर केंद्रित है।"
 
 lang: "hi"
-sourceContentHash: "64099ed3e8eb2be7"
+sourceContentHash: "337bb3277dc1eeb1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_(18977925005).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-1.webp
+    alt: KLCC पार्क में सिम्फनी झील के फव्वारे से पानी की धाराएँ चाप बनाती हुई ऊपर उठती हैं, जो उज्ज्वल उष्णकटिबंधीय आकाश के नीचे सुव्यवस्थित हरे मैदानों और सुंदर शहरी हरियाली से घिरी हैं।
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर सिटी सेंटर में KLCC पार्क का फव्वारा
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fountain_in_KLCC_Park_(1).jpg
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-2.webp
+    alt: पतला, हीरे जैसी पहलदार मर्देका 118 गगनचुंबी भवन कुआलालंपुर के क्षितिज से ऊँचा उठकर एक लंबी मीनार में सिमटता है, जो दुनिया की सबसे ऊँची इमारतों में से एक है।
+    kind: actual
+    origin: third-party
+    subject: कुआलालंपुर में मर्देका 118 टावर, दुनिया की सबसे ऊँची इमारतों में से एक
+    credit: Sean Doan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_PNB_118,_Kuala_Lumpur.jpg
 ---
 
 1991 की एक फरवरी की सुबह, एक प्रधानमंत्री राष्ट्र के अग्रणी व्यापारिक व्यक्तित्वों के समक्ष खड़े हुए और अगले 30 वर्षों के लिए एक लक्ष्य रखा: वर्ष 2020 तक मलेशिया को एक पूर्णतः विकसित राष्ट्र बन जाना चाहिए — केवल आर्थिक दृष्टि से नहीं, बल्कि एकता, सामाजिक न्याय और नागरिक परिपक्वता में भी। वह विज़न आगे चलकर Wawasan 2020 के नाम से जाना गया।

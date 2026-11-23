@@ -30,7 +30,7 @@ faq:
     a: "Cả hai khoảnh khắc đều có thật. Việc chuyển giao chủ quyền về mặt pháp lý có hiệu lực lúc nửa đêm ngày 31 tháng 8 năm 1957, được đánh dấu bằng lễ cờ tại padang (sân) ở Kuala Lumpur. Buổi lễ tuyên ngôn công khai, với tiếng hô Merdeka bảy lần, diễn ra sau đó vào sáng cùng ngày tại Stadium Merdeka."
 
 lang: "vi"
-sourceContentHash: "ca15cfa45f8cdedf"
+sourceContentHash: "139cce668f1240b1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -72,6 +72,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Merdeka_1957_tunku_abdul_rahman.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/independence-1957/body-1.webp
+    alt: Khán đài cong và sân hình bầu dục mở của Stadium Merdeka ở Kuala Lumpur dưới bầu trời trong xanh, đấu trường lịch sử nơi nền độc lập của Malaya được tuyên bố.
+    kind: actual
+    origin: third-party
+    subject: Sân vận động Stadium Merdeka, Kuala Lumpur, nơi nền độc lập được tuyên bố vào ngày 31 tháng 8 năm 1957
+    credit: Malaysian1966 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Merdeka_Kuala_Lumpur_2007.jpg
+  - role: scene
+    src: /media/malaysia/independence-1957/body-2.webp
+    alt: Cột cờ trắng cao vút của Dataran Merdeka vươn cao trên bãi cỏ xanh của Quảng trường Merdeka ở Kuala Lumpur, nơi lá cờ Union Jack được hạ xuống vào lúc nửa đêm năm 1957.
+    kind: actual
+    origin: third-party
+    subject: Cột cờ khổng lồ tại Dataran Merdeka (Quảng trường Merdeka), Kuala Lumpur
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flagpole_of_Dataran_Merdeka.jpg
 ---
 
 Vài phút sau nửa đêm ngày 31 tháng 8 năm 1957, trên padang (sân) trước Selangor Club cũ ở Kuala Lumpur, lá cờ Union Jack được hạ xuống và lá cờ của Liên bang Malaya mới được kéo lên. Đó là hình ảnh mà hầu hết mọi người mang theo về Merdeka — nhưng công việc thực sự của nền độc lập đã hoàn thành nhiều tháng trước đó, trong các phòng ủy ban ở London và Kuala Lumpur, bởi những người thương lượng về các điều khoản của một hiến pháp chưa tồn tại một năm trước đó.

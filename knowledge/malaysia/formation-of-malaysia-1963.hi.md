@@ -29,7 +29,7 @@ faq:
     a: "मलेशियाई संसद में एक मतदान के बाद सिंगापुर 9 अगस्त 1965 को अलग हो गया। पीपल्स एक्शन पार्टी और एलायंस सरकार के बीच आर्थिक नीति और राजनीतिक प्रतिस्पर्धा के आधार को लेकर राजनीतिक तनाव इस अलगाव से पहले का था। 1963 के विलय के समय किसी भी पक्ष ने उस परिणाम की योजना नहीं बनाई थी।"
 
 lang: "hi"
-sourceContentHash: "6eb2de3c5c01ceae"
+sourceContentHash: "061872cf7f5b271c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -72,6 +72,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-1.webp
+    alt: सबा में कोटा किनाबालू के क्षितिज का विस्तृत मनोरम दृश्य, हरे वृक्षों के ऊपर उठती गगनचुंबी इमारतें और परे समुद्र-तट तथा पहाड़ियाँ, जो 1963 में मलेशिया में शामिल हुए बोर्नियो राज्य का प्रतिनिधित्व करता है।
+    kind: representative
+    origin: third-party
+    subject: कोटा किनाबालू, सबा की राजधानी, बोर्नियो के उन राज्यों में से एक जो 1963 में मिलकर मलेशिया बने
+    credit: Jason Thien / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panorama_of_Greater_Kota_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-2.webp
+    alt: सारावाक नदी के किनारे फैला सुंदर भूदृश्य वाला कुचिंग वॉटरफ्रंट प्रोमेनेड, जिसके उस पार पुराने शहर का क्षितिज दिखता है, जो 1963 में मलेशिया संघ में सारावाक के प्रवेश का प्रतिनिधित्व करता है।
+    kind: representative
+    origin: third-party
+    subject: सारावाक नदी के किनारे कुचिंग वॉटरफ्रंट, सारावाक, जो 1963 में मिलकर मलेशिया बना
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Waterfront,_Kuching,_Sarawak_2.jpg
 ---
 
 16 सितंबर 1963 को चार क्षेत्र एक देश बने, और दो साल के भीतर उनमें से एक पहले ही जा चुका था। यह तथ्य अकेले ही आपको बता देता है कि 1963 का विलय कोई सुव्यवस्थित प्रशासनिक कवायद नहीं था — यह एक विवादित राजनीतिक परियोजना थी, जिसका विरोध दो पड़ोसी सरकारों ने किया और जो सफल होते ही लगभग तुरंत आंतरिक तनाव से बिखरने लगी।

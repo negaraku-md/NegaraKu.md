@@ -30,7 +30,7 @@ faq:
     a: "Le Jour de la Malaisie n'est devenu un jour férié fédéral national que des décennies après la formation de la fédération. Avant cela, le 16 septembre n'était férié que dans certains territoires et n'était pas observé uniformément à l'échelle nationale, même s'il était la date de formation de la fédération depuis 1963."
 
 lang: "fr"
-sourceContentHash: "25064de19f113798"
+sourceContentHash: "4b4bc192a0cb8abd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:55th_Merdeka_Day_Picture_09.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-1.webp
+    alt: Des rangées d'officiers en uniforme marchant en formation en portant le Jalur Gemilang rouge, blanc, bleu et jaune ainsi que d'autres drapeaux lors d'un défilé du Jour de Merdeka.
+    kind: actual
+    origin: third-party
+    subject: Des contingents en uniforme défilant avec le Jalur Gemilang lors du 59e anniversaire du Jour de Merdeka
+    credit: Rizuan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:59th_Merdeka_Day,_Picture_15.jpg
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-2.webp
+    alt: Une foule souriante à Kota Kinabalu, dans le Sabah, lève et agite fièrement le drapeau national malaisien lors d'une célébration en plein air de la fête nationale en Malaisie orientale.
+    kind: actual
+    origin: third-party
+    subject: Des participants agitant le Jalur Gemilang lors des festivités de la fête nationale à Kota Kinabalu, dans le Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Hari-Merdeka-2013-Parade-230.jpg
 ---
 
 Chaque année, le calendrier de la Malaisie contient deux dates que l'on confond facilement : le 31 août et le 16 septembre. Toutes deux sont marquées par des drapeaux, des défilés et des chants patriotiques. Pourtant, les deux commémorent des événements différents, à six ans d'intervalle, et décrivent deux pays de formes différentes.

@@ -29,7 +29,7 @@ faq:
     a: "สิงคโปร์แยกตัวเมื่อวันที่ 9 สิงหาคม 1965 หลังการลงมติในรัฐสภามาเลเซีย ความตึงเครียดทางการเมืองระหว่างพรรคกิจประชาชน (People's Action Party) กับรัฐบาลพรรคพันธมิตร (Alliance) เกี่ยวกับนโยบายเศรษฐกิจและพื้นฐานของการแข่งขันทางการเมืองมาก่อนการแยกตัว ทั้งสองฝ่ายไม่ได้วางแผนสำหรับผลลัพธ์นั้นในการรวมปี 1963"
 
 lang: "th"
-sourceContentHash: "6eb2de3c5c01ceae"
+sourceContentHash: "061872cf7f5b271c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -72,6 +72,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-1.webp
+    alt: ภาพพาโนรามากว้างไกลของเส้นขอบฟ้า Kota Kinabalu ในรัฐซาบะฮ์ อาคารสูงตระหง่านเหนือยอดไม้เขียวขจี พร้อมแนวชายฝั่งและเนินเขาอยู่ไกลออกไป แทนรัฐบนเกาะบอร์เนียวที่เข้าร่วมมาเลเซียในปี 1963
+    kind: representative
+    origin: third-party
+    subject: Kota Kinabalu เมืองหลวงของรัฐซาบะฮ์ หนึ่งในรัฐบนเกาะบอร์เนียวที่เข้าร่วมก่อตั้งมาเลเซียในปี 1963
+    credit: Jason Thien / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panorama_of_Greater_Kota_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-2.webp
+    alt: ทางเดินเลียบน้ำ Kuching Waterfront ที่จัดภูมิทัศน์อย่างสวยงาม ทอดยาวไปตามแม่น้ำซาราวัก โดยมีเส้นขอบฟ้าเมืองเก่าอยู่อีกฟากของแม่น้ำ แทนการเข้าร่วมสหพันธรัฐมาเลเซียของรัฐซาราวักในปี 1963
+    kind: representative
+    origin: third-party
+    subject: Kuching Waterfront ริมแม่น้ำซาราวักในรัฐซาราวัก ซึ่งเข้าร่วมก่อตั้งมาเลเซียในปี 1963
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Waterfront,_Kuching,_Sarawak_2.jpg
 ---
 
 สี่ดินแดนกลายเป็นประเทศเดียวเมื่อวันที่ 16 กันยายน 1963 และภายในสองปีหนึ่งในนั้นก็ได้ออกไปแล้ว ข้อเท็จจริงนั้นเพียงอย่างเดียวก็บอกคุณได้ว่าการรวมปี 1963 ไม่ใช่การดำเนินการทางการบริหารที่เรียบร้อย มันเป็นโครงการทางการเมืองที่เป็นข้อโต้แย้ง ถูกคัดค้านโดยรัฐบาลเพื่อนบ้านสองประเทศและคลี่คลายไปด้วยความตึงเครียดภายในแทบจะทันทีที่สำเร็จ

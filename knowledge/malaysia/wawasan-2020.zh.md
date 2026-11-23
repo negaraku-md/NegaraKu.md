@@ -32,7 +32,7 @@ faq:
     a: "2030年共享繁荣愿景（WKB 2030）于2019年10月推出，作为继任构想，聚焦于2021至2030年期间实现公平的繁荣。"
 
 lang: "zh"
-sourceContentHash: "64099ed3e8eb2be7"
+sourceContentHash: "337bb3277dc1eeb1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_(18977925005).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-1.webp
+    alt: 水柱从KLCC Park的Symphony Lake喷泉中弧形喷出，四周是修剪整齐的绿草坪与园林美化的城市绿意，明亮的热带天空之下。
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡市中心KLCC Park的喷泉
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fountain_in_KLCC_Park_(1).jpg
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-2.webp
+    alt: 纤细、呈钻石切面的Merdeka 118摩天大楼向上收窄至高耸的尖顶，矗立于吉隆坡天际线之上，是世界最高建筑之一。
+    kind: actual
+    origin: third-party
+    subject: 吉隆坡的Merdeka 118大楼，世界最高建筑之一
+    credit: Sean Doan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_PNB_118,_Kuala_Lumpur.jpg
 ---
 
 1991年2月的一个早晨，一位首相站在国内知名商界人士面前，为未来30年立下一个目标：到2020年，马来西亚应成为一个完全发达的国家——不仅在经济层面，也包括团结、社会公正与公民成熟等方面。这个构想后来便被称为2020年宏愿。

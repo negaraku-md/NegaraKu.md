@@ -32,7 +32,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6eb2de3c5c01ceae"
+sourceContentHash: "061872cf7f5b271c"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -73,6 +73,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-1.webp
+    alt: Sabah-இல் உள்ள Kota Kinabalu வானளாவிய காட்சியின் விரிவான பனோரமா, பசுமையான மரங்களின் உச்சிக்கு மேலே உயர்ந்து நிற்கும் உயரமான கோபுரங்கள், தொலைவில் கடற்கரை மற்றும் மலைகளுடன், 1963-இல் மலேசியாவில் இணைந்த போர்னியோ மாநிலத்தைக் குறிக்கிறது.
+    kind: representative
+    origin: third-party
+    subject: 1963-இல் மலேசியாவை உருவாக்க இணைந்த போர்னியோ மாநிலங்களில் ஒன்றான Sabah-இன் தலைநகரான Kota Kinabalu
+    credit: Jason Thien / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panorama_of_Greater_Kota_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-2.webp
+    alt: Sarawak ஆற்றின் கரையோரமாக நீண்டு செல்லும் நிலத்தோற்ற அமைப்புடன் கூடிய Kuching நீர்முகப்பு உலாத்தளம், ஆற்றுக்கு அப்பால் பழைய நகர வானளாவிய காட்சியுடன், 1963-இல் மலேசியக் கூட்டமைப்பில் Sarawak இணைந்ததைக் குறிக்கிறது.
+    kind: representative
+    origin: third-party
+    subject: 1963-இல் மலேசியாவை உருவாக்க இணைந்த Sarawak, Sarawak ஆற்றின் கரையோரமாக அமைந்த Kuching நீர்முகப்பு
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Waterfront,_Kuching,_Sarawak_2.jpg
 ---
 
 நான்கு நிலப்பரப்புகள் 1963 செப்டம்பர் 16 அன்று ஒரே நாடாயின, ஆனால் இரண்டு ஆண்டுகளுக்குள் அவற்றில் ஒன்று ஏற்கனவே வெளியேறிவிட்டது. அந்த உண்மை மட்டுமே 1963 இணைப்பு ஒரு நேர்த்தியான நிர்வாக நடவடிக்கை அல்ல என்பதை உங்களுக்குச் சொல்கிறது — அது ஒரு சர்ச்சைக்குரிய அரசியல் திட்டமாக இருந்தது, இரண்டு அண்டை நாட்டு அரசாங்கங்களால் எதிர்க்கப்பட்டது, மேலும் வெற்றி பெற்றவுடனேயே உள்நாட்டு இழுபறியால் அவிழ்ந்துவிட்டது.

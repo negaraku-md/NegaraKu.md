@@ -72,6 +72,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-1.webp
+    alt: The white, sail-shaped pylon of the cable-stayed Seri Wawasan Bridge rises over the calm waters of Putrajaya Lake, steel cables fanning out to its deck.
+    kind: actual
+    origin: third-party
+    subject: The Seri Wawasan Bridge over Putrajaya Lake, in the federal administrative capital
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-2.webp
+    alt: The Isfahan-inspired Putra Bridge arches across Putrajaya Lake, its tiled minaret-like piers and pointed arches reflected in the water beneath a blue sky.
+    kind: actual
+    origin: third-party
+    subject: Putra Bridge (Jambatan Putra) over Putrajaya Lake, in the federal administrative capital
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-putra-bridge.jpg
 ---
 
 The New Economic Policy is usually remembered as a single word — "restructuring" — and argued about ever since. But the policy stated its own aims in writing, in a government plan tabled in Parliament, and those aims were two, not one, with a third idea sitting above both. This article sets out what the documents say, in the order the documents say it.

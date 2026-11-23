@@ -71,6 +71,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-1.webp
+    alt: A sweeping panorama of the Kota Kinabalu skyline in Sabah, high-rise towers rising above green treetops with the coastline and hills beyond, representing the Borneo state that joined Malaysia in 1963.
+    kind: representative
+    origin: third-party
+    subject: Kota Kinabalu, capital of Sabah, one of the Borneo states that joined to form Malaysia in 1963
+    credit: Jason Thien / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panorama_of_Greater_Kota_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-2.webp
+    alt: The landscaped Kuching Waterfront esplanade stretching along the Sarawak River, with the old city skyline across the water, representing Sarawak's entry into the Federation of Malaysia in 1963.
+    kind: representative
+    origin: third-party
+    subject: The Kuching Waterfront along the Sarawak River, Sarawak, which joined to form Malaysia in 1963
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Waterfront,_Kuching,_Sarawak_2.jpg
 ---
 
 Four territories became one country on 16 September 1963, and within two years one of them had already left. That fact alone tells you the 1963 merger was not a tidy administrative exercise — it was a contested political project, opposed by two neighbouring governments and unravelled by internal strain almost as soon as it succeeded.

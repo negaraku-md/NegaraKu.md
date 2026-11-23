@@ -32,7 +32,7 @@ faq:
     a: "Wawasan Kemakmuran Bersama 2030 (WKB 2030) được công bố vào tháng 10 năm 2019 như một tầm nhìn kế nhiệm tập trung vào sự thịnh vượng công bằng cho giai đoạn 2021 đến 2030."
 
 lang: "vi"
-sourceContentHash: "64099ed3e8eb2be7"
+sourceContentHash: "337bb3277dc1eeb1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_(18977925005).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-1.webp
+    alt: Những tia nước vòng cung phun lên từ đài phun nước Hồ Symphony trong Công viên KLCC, được bao quanh bởi những bãi cỏ xanh được cắt tỉa và cây xanh đô thị được quy hoạch dưới bầu trời nhiệt đới trong xanh.
+    kind: actual
+    origin: third-party
+    subject: Đài phun nước tại Công viên KLCC, trong Trung tâm Thành phố Kuala Lumpur
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fountain_in_KLCC_Park_(1).jpg
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-2.webp
+    alt: Tòa nhà chọc trời Merdeka 118 mảnh mai với các mặt cắt hình kim cương thon dần lên đỉnh tháp cao vút trên đường chân trời Kuala Lumpur, một trong những tòa nhà cao nhất thế giới.
+    kind: actual
+    origin: third-party
+    subject: Tòa tháp Merdeka 118, một trong những tòa nhà cao nhất thế giới, ở Kuala Lumpur
+    credit: Sean Doan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_PNB_118,_Kuala_Lumpur.jpg
 ---
 
 Vào một buổi sáng tháng 2 năm 1991, một Thủ tướng đứng trước các doanh nhân hàng đầu của đất nước và đặt một mục tiêu cho 30 năm phía trước: đến năm 2020, Malaysia phải trở thành một nước phát triển đầy đủ — không chỉ về mặt kinh tế, mà còn về mặt đoàn kết, công bằng xã hội và sự trưởng thành công dân. Chính tầm nhìn đó về sau được biết đến là Wawasan 2020.

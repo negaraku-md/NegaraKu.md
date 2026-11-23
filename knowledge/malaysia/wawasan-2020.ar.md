@@ -32,7 +32,7 @@ faq:
     a: "أُطلقت رؤية الازدهار المشترك 2030 (WKB 2030) في أكتوبر 2019 بوصفها الرؤية الخَلَف، مع التركيز على الازدهار المنصف للفترة من 2021 إلى 2030."
 
 lang: "ar"
-sourceContentHash: "64099ed3e8eb2be7"
+sourceContentHash: "337bb3277dc1eeb1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_(18977925005).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-1.webp
+    alt: نفثات الماء تتقوّس من نافورة بحيرة سيمفوني في حديقة KLCC، تحيط بها مروج خضراء مشذّبة ومساحات خضراء حضرية منسَّقة تحت سماء استوائية مشرقة.
+    kind: actual
+    origin: third-party
+    subject: نافورة حديقة KLCC في وسط مدينة كوالالمبور
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fountain_in_KLCC_Park_(1).jpg
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-2.webp
+    alt: ناطحة السحاب النحيلة مرديكا 118 ذات الأوجه الماسية تتناقص صعوداً نحو قمة عالية فوق أفق كوالالمبور، وهي أحد أطول المباني في العالم.
+    kind: actual
+    origin: third-party
+    subject: برج مرديكا 118 في كوالالمبور، أحد أطول المباني في العالم
+    credit: Sean Doan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_PNB_118,_Kuala_Lumpur.jpg
 ---
 
 في صباح أحد أيام فبراير عام 1991، وقف رئيس الوزراء أمام كبار رجال الأعمال في البلاد وحدّد هدفًا للسنوات الثلاثين المقبلة: أن تصبح ماليزيا، بحلول عام 2020، دولة متقدمة بالكامل — لا من الناحية الاقتصادية فحسب، بل في الوحدة والعدالة الاجتماعية والنضج المدني أيضًا. وقد عُرفت تلك الرؤية باسم Wawasan 2020.

@@ -21,7 +21,7 @@ keyTakeaways:
   - "DEB disusun menyusul peristiwa 13 Mei 1969 dan digantikan oleh Dasar Pembangunan Nasional pada 1991"
 appliesTo: "Pembaca yang menginginkan tujuan, sasaran, dan kerangka waktu Dasar Ekonomi Baru yang terdokumentasi sebagaimana dinyatakan dalam teks rancangan resmi Malaysia, dan bukan catatan yang berat sebelah mengenainya."
 lang: "id"
-sourceContentHash: "6f9599be22d1ac5f"
+sourceContentHash: "c42144eca9ef3f83"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -73,6 +73,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-1.webp
+    alt: Pilon putih berbentuk layar dari Jembatan Seri Wawasan yang ditahan kabel menjulang di atas perairan tenang Danau Putrajaya, dengan kabel baja memancar seperti kipas ke lantai jembatan.
+    kind: actual
+    origin: third-party
+    subject: Jembatan Seri Wawasan di atas Danau Putrajaya, di pusat administrasi federal
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-2.webp
+    alt: Jembatan Putra yang terinspirasi Isfahan melengkung melintasi Danau Putrajaya, dengan pilar berubin menyerupai menara dan lengkungan runcingnya terpantul di air di bawah langit biru.
+    kind: actual
+    origin: third-party
+    subject: Jembatan Putra (Jambatan Putra) di atas Danau Putrajaya, di pusat administrasi federal
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-putra-bridge.jpg
 ---
 
 Dasar Ekonomi Baru biasanya diingat dengan satu kata saja — "penyusunan ulang" — dan telah diperdebatkan sejak itu. Namun kebijakan ini menyatakan tujuannya sendiri secara tertulis, dalam sebuah rancangan pemerintah yang dibentangkan di Parlemen, dan tujuan itu ada dua, bukan satu, dengan satu gagasan ketiga yang berada di atas keduanya. Artikel ini menyajikan apa yang dinyatakan oleh dokumen-dokumen itu, menurut urutan sebagaimana dokumen-dokumen itu menyatakannya.

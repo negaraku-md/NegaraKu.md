@@ -32,7 +32,7 @@ faq:
     a: "La Vision de prospérité partagée 2030 (WKB 2030) fut lancée en octobre 2019 comme vision successeure, centrée sur une prospérité équitable pour la période 2021 à 2030."
 
 lang: "fr"
-sourceContentHash: "64099ed3e8eb2be7"
+sourceContentHash: "337bb3277dc1eeb1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_(18977925005).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-1.webp
+    alt: Des jets d'eau jaillissent en arc depuis la fontaine du lac Symphony dans le KLCC Park, encadrés par des pelouses vertes soignées et une verdure urbaine aménagée sous un ciel tropical lumineux.
+    kind: actual
+    origin: third-party
+    subject: La fontaine du KLCC Park, dans le centre-ville de Kuala Lumpur
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fountain_in_KLCC_Park_(1).jpg
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-2.webp
+    alt: Le gratte-ciel élancé Merdeka 118, aux facettes en losange, s'effile vers une haute flèche bien au-dessus de la ligne d'horizon de Kuala Lumpur, l'un des plus hauts bâtiments du monde.
+    kind: actual
+    origin: third-party
+    subject: La tour Merdeka 118, l'un des plus hauts bâtiments du monde, à Kuala Lumpur
+    credit: Sean Doan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_PNB_118,_Kuala_Lumpur.jpg
 ---
 
 Par un matin de février 1991, un Premier ministre se tint debout devant les principales figures du monde des affaires du pays et fixa un objectif pour les 30 années suivantes : d'ici l'an 2020, la Malaisie devait devenir une nation pleinement développée — non seulement sur le plan économique, mais aussi en matière d'unité, de justice sociale et de maturité civique. Cette vision finit par être connue sous le nom de Wawasan 2020.

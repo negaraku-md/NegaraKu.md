@@ -29,7 +29,7 @@ faq:
     a: "Les deux moments sont réels. Le transfert légal de la souveraineté prit effet à minuit le 31 août 1957, marqué par la cérémonie du drapeau sur le padang de Kuala Lumpur. La cérémonie publique de proclamation, avec le septuple cri de « Merdeka », eut lieu plus tard le même matin au Stadium Merdeka."
 
 lang: "fr"
-sourceContentHash: "ca15cfa45f8cdedf"
+sourceContentHash: "139cce668f1240b1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Merdeka_1957_tunku_abdul_rahman.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/independence-1957/body-1.webp
+    alt: La tribune incurvée et l'ovale ouvert du Stadium Merdeka à Kuala Lumpur sous un ciel lumineux, l'enceinte historique où l'indépendance de la Malaya a été déclarée.
+    kind: actual
+    origin: third-party
+    subject: Le Stadium Merdeka, à Kuala Lumpur, où l'indépendance a été proclamée le 31 août 1957
+    credit: Malaysian1966 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Merdeka_Kuala_Lumpur_2007.jpg
+  - role: scene
+    src: /media/malaysia/independence-1957/body-2.webp
+    alt: Le haut mât blanc de Dataran Merdeka s'élève bien au-dessus de la pelouse verte de la place Merdeka à Kuala Lumpur, où l'Union Jack a été abaissé à minuit en 1957.
+    kind: actual
+    origin: third-party
+    subject: Le mât géant de Dataran Merdeka (place Merdeka), à Kuala Lumpur
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flagpole_of_Dataran_Merdeka.jpg
 ---
 
 Quelques minutes après minuit, le 31 août 1957, sur le padang devant l'ancien Selangor Club de Kuala Lumpur, l'Union Jack s'abaissa et le drapeau de la nouvelle Fédération de Malaya s'éleva. C'est l'image que la plupart des gens conservent de la Merdeka — mais le véritable travail de l'indépendance s'était achevé des mois plus tôt, dans des salles de commission à Londres et à Kuala Lumpur, par des personnes négociant des clauses d'une constitution qui, l'année précédente, n'existait même pas.

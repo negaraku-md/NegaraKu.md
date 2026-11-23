@@ -20,7 +20,7 @@ keyTakeaways:
   - "신경제정책(NEP)은 1969년 5월 13일 사건 이후 수립되었으며, 1991년 국가개발정책(National Development Policy)으로 계승되었습니다"
 appliesTo: "신경제정책(New Economic Policy)에 대한 당파적 서술이 아니라, 말레이시아 공식 계획 문서에 명시된 그 목표, 지표, 시행 기간을 문서화된 형태로 원하는 독자."
 lang: "ko"
-sourceContentHash: "6f9599be22d1ac5f"
+sourceContentHash: "c42144eca9ef3f83"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -72,6 +72,25 @@ heroLicense: 'CC BY-SA 3.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Putrajaya_Putra_Mosque_and_Perdana_Putra_Complex.jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-1.webp
+    alt: 사장교 Seri Wawasan Bridge의 흰색 돛 모양 주탑이 잔잔한 Putrajaya 호수 위로 솟아 있고, 강철 케이블이 상판을 향해 부채꼴로 펼쳐진다.
+    kind: actual
+    origin: third-party
+    subject: 연방 행정수도의 Putrajaya 호수를 가로지르는 Seri Wawasan Bridge
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Wawasan-Bridge-01.jpg
+  - role: scene
+    src: /media/malaysia/new-economic-policy/body-2.webp
+    alt: 이스파한에서 영감을 받은 Putra Bridge가 Putrajaya 호수를 아치형으로 가로지르며, 타일로 장식된 미나레트 같은 교각과 뾰족한 아치가 푸른 하늘 아래 수면에 비친다.
+    kind: actual
+    origin: third-party
+    subject: 연방 행정수도의 Putrajaya 호수를 가로지르는 Putra Bridge(Jambatan Putra)
+    credit: Balou46 / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:MY-putrajaya-putra-bridge.jpg
 ---
 
 신경제정책은 흔히 "재편"이라는 한 단어로 기억되며, 그 이후로 줄곧 논쟁의 대상이 되어 왔습니다. 그러나 이 정책은 의회에 상정된 정부 계획 문서에서 스스로의 목표를 글로 명시했으며, 그 목표는 하나가 아니라 둘이었고, 그 둘 위에 세 번째 개념이 자리하고 있었습니다. 이 글은 문서가 말하는 내용을, 문서가 말하는 순서 그대로 정리합니다.

@@ -29,7 +29,7 @@ faq:
     a: "말레이시아의 날은 연방이 결성된 지 수십 년이 지나서야 전국적 연방 공휴일이 되었습니다. 그 이전에는 9월 16일이 일부 지역에서만 공휴일이었고, 1963년 이래 연방 결성 날짜였음에도 전국 차원에서 일률적으로 기념되지는 않았습니다."
 
 lang: "ko"
-sourceContentHash: "25064de19f113798"
+sourceContentHash: "4b4bc192a0cb8abd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:55th_Merdeka_Day_Picture_09.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-1.webp
+    alt: 머르데카 데이 퍼레이드에서 빨강·흰색·파랑·노랑의 Jalur Gemilang과 여러 깃발을 들고 대열을 이루어 행진하는 제복 차림의 대원들.
+    kind: actual
+    origin: third-party
+    subject: 제59회 머르데카 데이 기념식에서 Jalur Gemilang을 들고 행진하는 제복 부대
+    credit: Rizuan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:59th_Merdeka_Day,_Picture_15.jpg
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-2.webp
+    alt: 동말레이시아의 야외 국경일 축제에서 말레이시아 국기를 자랑스럽게 들고 흔드는 사바주 Kota Kinabalu의 미소 띤 군중.
+    kind: actual
+    origin: third-party
+    subject: 사바주 Kota Kinabalu의 국경일 축제에서 Jalur Gemilang을 흔드는 축하객들
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Hari-Merdeka-2013-Parade-230.jpg
 ---
 
 해마다 말레이시아 달력에는 같은 것으로 혼동하기 쉬운 두 날짜가 있습니다. 8월 31일과 9월 16일입니다. 둘 다 국기와 행진, 애국적인 노래로 기념됩니다. 그러나 두 날짜는 6년 떨어진 서로 다른 사건을 나타내며, 서로 형태가 다른 두 나라를 가리킵니다.

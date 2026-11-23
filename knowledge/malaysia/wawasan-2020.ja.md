@@ -34,7 +34,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "64099ed3e8eb2be7"
+sourceContentHash: "337bb3277dc1eeb1"
 
 status: "published"
 aiAssisted: true
@@ -91,6 +91,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_(18977925005).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-1.webp
+    alt: KLCC ParkのSymphony Lakeの噴水から弧を描いて噴き出す水。手入れされた緑の芝生と造園された街の緑に囲まれ、明るい熱帯の空の下に広がる。
+    kind: actual
+    origin: third-party
+    subject: クアラルンプール市街中心部のKLCC Parkにある噴水
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fountain_in_KLCC_Park_(1).jpg
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-2.webp
+    alt: 細身でダイヤモンドのようなファセットを持つ超高層ビルMerdeka 118が、高い尖塔へと細くそびえ、クアラルンプールのスカイラインの上に立つ。世界で最も高い建築物の一つ。
+    kind: actual
+    origin: third-party
+    subject: クアラルンプールのMerdeka 118タワー。世界で最も高い建築物の一つ
+    credit: Sean Doan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_PNB_118,_Kuala_Lumpur.jpg
 ---
 
 1991年2月のある朝、一人の首相が国内有数の実業家たちの前に立ち、30年先を見据えた一つの目標を掲げた——2020年までに、マレーシアは完全な先進国とならなければならない。それは経済面だけでなく、団結、社会的公正、そして市民的成熟の面においてもである。この構想こそが、のちにワワサン2020として知られるようになった。

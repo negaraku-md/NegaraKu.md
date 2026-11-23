@@ -30,7 +30,7 @@ faq:
     a: "Hari Malaysia menjadi hari libur umum federal di seluruh negara baru beberapa dekade setelah federasi dibentuk. Sebelum itu, 16 September hanya hari libur di sebagian wilayah dan tidak dirayakan secara seragam di tingkat nasional, meskipun ia telah menjadi tanggal pembentukan federasi sejak 1963."
 
 lang: "id"
-sourceContentHash: "25064de19f113798"
+sourceContentHash: "4b4bc192a0cb8abd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:55th_Merdeka_Day_Picture_09.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-1.webp
+    alt: Barisan petugas berseragam berbaris dalam formasi sambil membawa Jalur Gemilang berwarna merah, putih, biru, dan kuning serta bendera lainnya saat parade Hari Merdeka.
+    kind: actual
+    origin: third-party
+    subject: Kontingen berseragam berparade dengan Jalur Gemilang pada perayaan Hari Merdeka ke-59
+    credit: Rizuan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:59th_Merdeka_Day,_Picture_15.jpg
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-2.webp
+    alt: Kerumunan yang tersenyum di Kota Kinabalu, Sabah, dengan bangga mengangkat dan mengibarkan bendera nasional Malaysia saat perayaan hari kebangsaan di ruang terbuka di Malaysia Timur.
+    kind: actual
+    origin: third-party
+    subject: Warga mengibarkan Jalur Gemilang saat perayaan hari kebangsaan di Kota Kinabalu, Sabah
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Hari-Merdeka-2013-Parade-230.jpg
 ---
 
 Setiap tahun kalender Malaysia memuat dua tanggal yang mudah dikelirukan sebagai hal yang sama: 31 Agustus dan 16 September. Keduanya dirayakan dengan bendera, pawai, dan lagu patriotik. Namun keduanya menandai peristiwa yang berbeda, terpisah enam tahun, dan menggambarkan dua negara yang berlainan bentuk.

@@ -29,7 +29,7 @@ faq:
     a: "Singapore tách ra vào ngày 9 tháng 8 năm 1965 sau một cuộc bỏ phiếu tại Nghị viện Malaysia. Căng thẳng chính trị giữa Đảng Hành động Nhân dân (People's Action Party) và chính phủ Liên minh Alliance về chính sách kinh tế và cơ sở của sự cạnh tranh chính trị đã diễn ra trước cuộc chia tách. Không bên nào đã lên kế hoạch cho kết cục đó tại cuộc hợp nhất năm 1963."
 
 lang: "vi"
-sourceContentHash: "6eb2de3c5c01ceae"
+sourceContentHash: "061872cf7f5b271c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -72,6 +72,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Malaysia_Day_in_Singapore_1963.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-1.webp
+    alt: Toàn cảnh rộng lớn của đường chân trời Kota Kinabalu ở Sabah, những tòa tháp cao tầng vươn lên trên những ngọn cây xanh với đường bờ biển và đồi núi phía xa, đại diện cho bang Borneo đã gia nhập Malaysia vào năm 1963.
+    kind: representative
+    origin: third-party
+    subject: Kota Kinabalu, thủ phủ của Sabah, một trong những bang trên đảo Borneo đã gia nhập để thành lập Malaysia vào năm 1963
+    credit: Jason Thien / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Panorama_of_Greater_Kota_Kinabalu.jpg
+  - role: scene
+    src: /media/malaysia/formation-of-malaysia-1963/body-2.webp
+    alt: Khu bờ sông Kuching được quy hoạch cảnh quan trải dài dọc theo sông Sarawak, với đường chân trời phố cổ bên kia sông, đại diện cho việc Sarawak gia nhập Liên bang Malaysia vào năm 1963.
+    kind: representative
+    origin: third-party
+    subject: Bờ sông Kuching dọc theo sông Sarawak, Sarawak, nơi đã gia nhập để thành lập Malaysia vào năm 1963
+    credit: Fabio Achilli / Wikimedia Commons
+    license: CC BY 2.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:The_Waterfront,_Kuching,_Sarawak_2.jpg
 ---
 
 Bốn lãnh thổ trở thành một đất nước vào ngày 16 tháng 9 năm 1963, và trong vòng hai năm một trong số đó đã rời đi. Chỉ riêng sự thật đó cho bạn biết cuộc hợp nhất năm 1963 không phải là một bài toán hành chính gọn gàng — nó là một dự án chính trị bị tranh cãi, bị hai chính phủ láng giềng phản đối và bị căng thẳng nội bộ tháo gỡ gần như ngay khi nó thành công.

@@ -32,7 +32,7 @@ faq:
     a: "La Visión de Prosperidad Compartida 2030 (WKB 2030) se lanzó en octubre de 2019 como visión sucesora, centrada en una prosperidad equitativa para el periodo 2021 a 2030."
 
 lang: "es"
-sourceContentHash: "64099ed3e8eb2be7"
+sourceContentHash: "337bb3277dc1eeb1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -91,6 +91,25 @@ heroLicense: 'CC BY 2.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Kuala_Lumpur%27s_skyline_dominated_by_the_Petronas_Towers_(18977925005).jpg'
 heroKind: "representative"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-1.webp
+    alt: Chorros de agua se arquean desde la fuente del lago Symphony en el KLCC Park, enmarcados por cuidados céspedes verdes y vegetación urbana ajardinada bajo un luminoso cielo tropical.
+    kind: actual
+    origin: third-party
+    subject: La fuente del KLCC Park, en el centro de la ciudad de Kuala Lumpur
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Fountain_in_KLCC_Park_(1).jpg
+  - role: scene
+    src: /media/malaysia/wawasan-2020/body-2.webp
+    alt: El esbelto rascacielos Merdeka 118, de facetas en forma de diamante, se estrecha hacia una alta aguja muy por encima del horizonte de Kuala Lumpur, uno de los edificios más altos del mundo.
+    kind: actual
+    origin: third-party
+    subject: La torre Merdeka 118, uno de los edificios más altos del mundo, en Kuala Lumpur
+    credit: Sean Doan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Merdeka_PNB_118,_Kuala_Lumpur.jpg
 ---
 
 Una mañana de febrero de 1991, un Primer Ministro se puso de pie ante las principales figuras empresariales del país y fijó una meta para los siguientes 30 años: para el año 2020, Malasia debía convertirse en una nación plenamente desarrollada — no solo en términos económicos, sino también en unidad, justicia social y madurez cívica. Esa visión acabó conociéndose como Wawasan 2020.

@@ -30,7 +30,7 @@ faq:
     a: "मलेशिया दिवस संघ के गठन के दशकों बाद ही एक देशव्यापी संघीय सार्वजनिक अवकाश बना। इससे पहले, 16 सितंबर केवल कुछ क्षेत्रों में अवकाश था और राष्ट्रीय स्तर पर एकसमान रूप से नहीं मनाया जाता था, यद्यपि यह 1963 से संघ के गठन की तिथि रही थी।"
 
 lang: "hi"
-sourceContentHash: "25064de19f113798"
+sourceContentHash: "4b4bc192a0cb8abd"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -76,6 +76,25 @@ heroLicense: 'CC BY-SA 4.0'
 heroSource: 'https://commons.wikimedia.org/wiki/File:55th_Merdeka_Day_Picture_09.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-1.webp
+    alt: मर्देका दिवस परेड के दौरान लाल, सफ़ेद, नीले और पीले जालूर गेमिलांग तथा अन्य ध्वज थामे पंक्तिबद्ध होकर कदमताल करते वर्दीधारी अधिकारी।
+    kind: actual
+    origin: third-party
+    subject: 59वें मर्देका दिवस समारोह में जालूर गेमिलांग के साथ परेड करते वर्दीधारी दल
+    credit: Rizuan / Wikimedia Commons
+    license: CC BY-SA 4.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:59th_Merdeka_Day,_Picture_15.jpg
+  - role: scene
+    src: /media/malaysia/national-day-vs-malaysia-day/body-2.webp
+    alt: कोटा किनाबालू, सबा में एक मुस्कुराती भीड़ पूर्वी मलेशिया में खुले में आयोजित राष्ट्रीय दिवस समारोह के दौरान गर्व से मलेशियाई राष्ट्रध्वज उठाकर लहरा रही है।
+    kind: actual
+    origin: third-party
+    subject: कोटा किनाबालू, सबा में राष्ट्रीय दिवस के उत्सव के दौरान जालूर गेमिलांग लहराते उत्सवकर्ता
+    credit: CEphoto, Uwe Aranas / Wikimedia Commons
+    license: CC BY-SA 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Sabah_Malaysia_Hari-Merdeka-2013-Parade-230.jpg
 ---
 
 हर वर्ष, मलेशिया के कैलेंडर में दो तिथियाँ होती हैं जिन्हें आसानी से एक ही चीज़ समझ लिया जाता है: 31 अगस्त और 16 सितंबर। दोनों को झंडों, परेडों और देशभक्ति गीतों के साथ मनाया जाता है। फिर भी दोनों भिन्न घटनाओं का स्मरण करते हैं, जिनके बीच छह वर्ष का अंतर है, और दो भिन्न आकार वाले देशों का वर्णन करते हैं।

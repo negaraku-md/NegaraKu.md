@@ -29,7 +29,7 @@ faq:
     a: "두 순간 모두 실재합니다. 주권의 법적 이양은 1957년 8월 31일 자정에 발효되었으며, 쿠알라룸푸르(Kuala Lumpur)의 파당(padang)에서 열린 국기 게양식으로 기념되었습니다. 「므르데카」를 일곱 번 외치는 공개 선언식은 그날 오전 늦게 므르데카 경기장(Stadium Merdeka)에서 거행되었습니다."
 
 lang: "ko"
-sourceContentHash: "ca15cfa45f8cdedf"
+sourceContentHash: "139cce668f1240b1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -71,6 +71,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Merdeka_1957_tunku_abdul_rahman.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/independence-1957/body-1.webp
+    alt: 밝은 하늘 아래 쿠알라룸푸르 Stadium Merdeka의 곡선형 관중석과 탁 트인 타원형 경기장, 말라야의 독립이 선언된 역사적 경기장.
+    kind: actual
+    origin: third-party
+    subject: 1957년 8월 31일 독립이 선포된 쿠알라룸푸르의 Stadium Merdeka
+    credit: Malaysian1966 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Merdeka_Kuala_Lumpur_2007.jpg
+  - role: scene
+    src: /media/malaysia/independence-1957/body-2.webp
+    alt: 쿠알라룸푸르 Dataran Merdeka의 머르데카 광장 푸른 잔디밭 위로 높이 솟은 흰색 거대 게양대, 1957년 자정에 유니언잭이 내려진 곳.
+    kind: actual
+    origin: third-party
+    subject: 쿠알라룸푸르 Dataran Merdeka(머르데카 광장)의 거대한 국기 게양대
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flagpole_of_Dataran_Merdeka.jpg
 ---
 
 1957년 8월 31일 자정을 몇 분 넘긴 시각, 쿠알라룸푸르(Kuala Lumpur)의 옛 슬랑오르 클럽(Selangor Club) 앞 파당(padang)에서 유니언 잭이 내려가고 새 말라야 연방(Federation of Malaya)의 국기가 올라갔습니다. 이것이 대부분의 사람들이 므르데카(Merdeka)에 대해 품고 있는 이미지입니다 — 그러나 독립의 실제 작업은 그보다 몇 달 앞서, 런던과 쿠알라룸푸르의 위원회실에서, 한 해 전만 해도 존재하지 않던 헌법의 조항들을 놓고 협상하던 사람들에 의해 이미 끝나 있었습니다.

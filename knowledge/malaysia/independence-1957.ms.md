@@ -31,7 +31,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ca15cfa45f8cdedf"
+sourceContentHash: "139cce668f1240b1"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -72,6 +72,25 @@ heroLicense: 'Public domain'
 heroSource: 'https://commons.wikimedia.org/wiki/File:Merdeka_1957_tunku_abdul_rahman.jpg'
 heroKind: "actual"
 heroOrigin: "third-party"
+images:
+  - role: scene
+    src: /media/malaysia/independence-1957/body-1.webp
+    alt: Tempat duduk penonton yang melengkung dan padang bujur terbuka Stadium Merdeka di Kuala Lumpur di bawah langit cerah, arena bersejarah tempat kemerdekaan Tanah Melayu diisytiharkan.
+    kind: actual
+    origin: third-party
+    subject: Stadium Merdeka, Kuala Lumpur, tempat kemerdekaan diisytiharkan pada 31 Ogos 1957
+    credit: Malaysian1966 / Wikimedia Commons
+    license: Public domain
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Stadium_Merdeka_Kuala_Lumpur_2007.jpg
+  - role: scene
+    src: /media/malaysia/independence-1957/body-2.webp
+    alt: Tiang bendera putih yang menjulang tinggi di Dataran Merdeka mengatasi hamparan rumput hijau di Kuala Lumpur, tempat Union Jack diturunkan pada tengah malam pada tahun 1957.
+    kind: actual
+    origin: third-party
+    subject: Tiang bendera gergasi di Dataran Merdeka, Kuala Lumpur
+    credit: Radosław Botev / Wikimedia Commons
+    license: CC BY 3.0
+    sourceUrl: https://commons.wikimedia.org/wiki/File:Flagpole_of_Dataran_Merdeka.jpg
 ---
 
 Beberapa minit selepas tengah malam pada 31 Ogos 1957, di padang di hadapan bangunan lama Kelab Selangor di Kuala Lumpur, bendera Union Jack diturunkan dan bendera Persekutuan Tanah Melayu yang baharu dinaikkan. Itulah gambaran yang dibawa oleh kebanyakan orang tentang Merdeka — tetapi kerja sebenar kemerdekaan telah pun selesai berbulan-bulan sebelumnya, di dalam bilik-bilik jawatankuasa di London dan Kuala Lumpur, oleh orang yang berunding tentang fasal-fasal sebuah perlembagaan yang tidak wujud pada tahun sebelumnya.
