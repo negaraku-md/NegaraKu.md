@@ -159,6 +159,21 @@ function wrapText(text, { maxLatin, maxCjk, maxLines }) {
   return lines;
 }
 
+// The top-corner brand lockup — the official NegaraKu.md logo's proportions,
+// measured from the master artwork: hexagon HEIGHT = 5.48 × the wordmark
+// font-size (logo hexagon 612px : wordmark cap ≈ 112px), and the gap from the
+// hexagon's bottom to the wordmark = 0.108 × hexagon height. This makes the mark
+// dominant over the wordmark exactly as the real logo (hexagon : wordmark width
+// ≈ 1 : 1.4), instead of the old small-icon-over-big-text lockup. `cx` is the
+// shared centre of the stacked badge + wordmark; `topY` is the badge's top edge.
+function brandLockup(cx, font, ink, topY) {
+  const bs = Math.round(5.48 * font);                 // hexagon size (height)
+  const cy = topY + bs / 2;                           // badge() wants its centre
+  const wy = Math.round(cy + bs / 2 + 0.108 * bs + 0.72 * font); // wordmark baseline
+  return `${badge(cx, cy, bs)}
+  <text x="${cx}" y="${wy}" text-anchor="middle" font-family="${TITLE_FONT}" font-size="${font}" font-weight="700" fill="${ink}">NegaraKu<tspan fill="#FFC000">.md</tspan></text>`;
+}
+
 function articleSvg(a) {
   const lang = a.lang;
   const cjkTitle = /[㐀-鿿一-龥]/.test(a.title || '');
@@ -229,7 +244,7 @@ function articleSvg(a) {
   const sStart = tStart + (tLines.length - 1) * tLh + 54;
   const sLines = wrapText(a.summary || '', { maxLatin: 70, maxCjk: 34, maxLines: 3 });
   const sSpans = sLines.map((l, i) => `<tspan x="${EDGE}" dy="${i === 0 ? 0 : 34}">${esc(l)}</tspan>`).join('');
-  const RX = RTL ? 120 : 1080;         // badge + wordmark lockup side
+  const RX = RTL ? 175 : 1025;         // badge + wordmark lockup side (inboard of FB's feed-edge crop)
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <defs>${RTL ? AR_FONTS : ""}<radialGradient id="glow" cx="12%" cy="0%" r="70%">
     <stop offset="0%" stop-color="#FFC000" stop-opacity="0.10"/><stop offset="100%" stop-color="#FFC000" stop-opacity="0"/>
@@ -242,9 +257,7 @@ function articleSvg(a) {
   ${chips.join('\n  ')}
   <text x="${EDGE}" y="${tStart}" text-anchor="${ANCHOR}" font-family="${TITLE_FONT}" font-size="${cjkTitle ? 52 : 50}" font-weight="800" fill="#F4F4F8">${tSpans}</text>
   <text x="${EDGE}" y="${sStart}" text-anchor="${ANCHOR}" font-family="${bodyFont}" font-size="25" font-weight="400" fill="#9A9AB8">${sSpans}</text>
-  ${badge(RX, 70, 78)}
-  <text x="${RX}" y="150" text-anchor="middle" font-family="${TITLE_FONT}" font-size="27" font-weight="700" fill="#F4F4F8">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
-  <text x="${RX}" y="174" text-anchor="middle" font-family="${BODY_FONT}" font-size="15" font-weight="700" letter-spacing="1.5" fill="#C0C0D0">${L(lang, 'Terokai Malaysia, mesra AI', 'Explore Malaysia, AI-friendly', '探索马来西亚，对 AI 友好', 'மலேசியாவை ஆராயுங்கள், AI-நட்பு', 'マレーシアを探索、AIフレンドリー', '말레이시아 탐색, AI 친화적', 'สำรวจมาเลเซีย เป็นมิตรกับ AI', 'Khám phá Malaysia, thân thiện với AI', 'Jelajahi Malaysia, ramah AI', 'استكشف ماليزيا، صديقة لـ AI', 'मलेशिया को एक्सप्लोर करें, AI-अनुकूल', 'Explora Malasia, compatible con la IA', "Explorez la Malaisie, adaptée à l'IA")}</text>
+  ${brandLockup(RX, 24, '#F4F4F8', 24)}
 </svg>`;
 }
 
@@ -271,7 +284,7 @@ function photoOverlaySvg(a) {
   const baseY = 560 - (tLines.length - 1) * tLh;
   const tSpans = tLines.map((l, i) => `<text x="${EDGE}" y="${baseY + i * tLh}" text-anchor="${ANCHOR}" font-family="${tfont}" font-size="${tSize}" font-weight="800" fill="#FFFFFF">${esc(l)}</text>`).join('\n  ');
   const crumbY = baseY - tLines.length * tLh + 2;
-  const RX = RTL ? 110 : 1090;
+  const RX = RTL ? 165 : 1035;         // inboard of FB's feed-edge crop (was 1090 → ".md" clipped)
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <defs>${RTL ? AR_FONTS : ''}
     <linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#05050A" stop-opacity="0"/><stop offset="48%" stop-color="#05050A" stop-opacity="0.18"/><stop offset="100%" stop-color="#05050A" stop-opacity="0.92"/></linearGradient>
@@ -280,8 +293,7 @@ function photoOverlaySvg(a) {
   <rect width="1200" height="210" fill="url(#topscrim)"/>
   <rect width="1200" height="630" fill="url(#scrim)"/>
   <rect x="0" y="0" width="1200" height="8" fill="#FFC000"/>
-  ${badge(RX, 62, 68)}
-  <text x="${RX}" y="138" text-anchor="middle" font-family="${TITLE_FONT}" font-size="24" font-weight="700" fill="#FFFFFF">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
+  ${brandLockup(RX, 24, '#FFFFFF', 26)}
   <text x="${EDGE}" y="${crumbY}" text-anchor="${ANCHOR}" font-family="${bfont}" font-size="25" font-weight="600" fill="#FFC000">${esc(crumb)}</text>
   ${tSpans}
 </svg>`;
