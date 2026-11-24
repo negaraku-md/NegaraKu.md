@@ -39,7 +39,10 @@ jobs:
           FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
           FB_DELETE_ALL_CONFIRM: ${{ github.event.inputs.confirm }}
           # Force dry-run unless the confirm phrase is exact — belt and braces with
-          # the script's own guard.
-          FB_DRY_RUN: ${{ github.event.inputs.confirm == 'DELETE ALL' && '' || '1' }}
+          # the script's own guard. NOTE: the "confirmed" branch must be a NON-EMPTY,
+          # non-'1' string ('0'), because GitHub Actions treats '' as falsy and would
+          # fall through to the '|| 1' branch — which silently forced every run to a
+          # dry run even when confirm was exactly "DELETE ALL".
+          FB_DRY_RUN: ${{ github.event.inputs.confirm == 'DELETE ALL' && '0' || '1' }}
           FB_ONLY_LANGS: ${{ github.event.inputs.only_langs }}
         run: node scripts/delete-all-facebook-posts.mjs
