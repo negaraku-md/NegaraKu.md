@@ -61,6 +61,22 @@ jobs:
 
       - run: npm ci
 
+      # Load the LATEST posted-manifest from the unprotected `fb-state` branch, not
+      # from main. main is a protected branch, so the Actions bot cannot push the
+      # advancing manifest back to it (GH006) — which previously froze the manifest
+      # and made the poster re-post the same ranked batch every run. Runtime state
+      # lives on fb-state instead; main's analytics/posted.json is only the seed the
+      # first time fb-state doesn't exist yet.
+      - name: Load posted-manifest from state branch
+        run: |
+          git fetch origin fb-state --depth=1 2>/dev/null || true
+          if git cat-file -e origin/fb-state:posted.json 2>/dev/null; then
+            git show origin/fb-state:posted.json > analytics/posted.json
+            echo "loaded posted-manifest from fb-state"
+          else
+            echo "no fb-state branch yet — seeding from main's analytics/posted.json"
+          fi
+
       - name: Post backlog to Facebook
         env:
           FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
@@ -84,17 +100,29 @@ jobs:
           FB_ONLY_LANGS: ${{ github.event.inputs.only_langs }}
         run: node scripts/post-backlog-to-facebook.mjs ${{ github.event.inputs.files }}
 
-      - name: Commit the posted-manifest if it changed
-        # always() so a post id is committed even if the poster exits non-zero —
+      - name: Persist posted-manifest to state branch
+        # always() so a post id is persisted even if the poster exits non-zero —
         # the manifest is the record of what's live and must never be lost.
+        # Writes to the UNPROTECTED `fb-state` branch (single file posted.json) via
+        # git plumbing — no worktree/branch switch, portable, and NOT subject to
+        # main's branch protection. commit-tree + push <sha>:refs/heads/fb-state.
         if: ${{ always() && github.event.inputs.dry_run != 'true' }}
+        env:
+          GIT_AUTHOR_NAME: 'github-actions[bot]'
+          GIT_AUTHOR_EMAIL: '41898282+github-actions[bot]@users.noreply.github.com'
+          GIT_COMMITTER_NAME: 'github-actions[bot]'
+          GIT_COMMITTER_EMAIL: '41898282+github-actions[bot]@users.noreply.github.com'
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add analytics/posted.json 2>/dev/null || true
-          if git diff --cached --quiet -- analytics/posted.json; then
-            echo "manifest unchanged — nothing to commit"
-          else
-            git commit -m "chore(fb): advance backlog posted-manifest [skip deploy]"
-            git push
+          [ -f analytics/posted.json ] || { echo "no manifest file — nothing to persist"; exit 0; }
+          git fetch origin fb-state --depth=1 2>/dev/null || true
+          blob=$(git hash-object -w analytics/posted.json)
+          tree=$(printf '100644 blob %s\tposted.json\n' "$blob" | git mktree)
+          parent=""
+          if git rev-parse --verify --quiet origin/fb-state >/dev/null; then
+            prevtree=$(git rev-parse "origin/fb-state^{tree}" 2>/dev/null || echo "")
+            if [ "$tree" = "$prevtree" ]; then echo "manifest unchanged — nothing to persist"; exit 0; fi
+            parent="-p origin/fb-state"
           fi
+          commit=$(git commit-tree "$tree" $parent -m "chore(fb): advance posted-manifest [state]")
+          git push origin "$commit:refs/heads/fb-state"
+          echo "persisted posted-manifest to fb-state ($commit)"
