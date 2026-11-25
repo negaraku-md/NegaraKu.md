@@ -170,7 +170,19 @@ function brandLockup(cx, font, ink, topY) {
   const bs = Math.round(5.48 * font);                 // hexagon size (height)
   const cy = topY + bs / 2;                           // badge() wants its centre
   const wy = Math.round(cy + bs / 2 + 0.108 * bs + 0.72 * font); // wordmark baseline
-  return `${badge(cx, cy, bs)}
+  // Solid dark PLATE behind the lockup, so the logo always sits on its own near-
+  // black background — exactly like the master logo artwork — and never washes out
+  // on a bright or same-colour hero photo (e.g. a gold-background portrait). This is
+  // the robust fix over a soft scrim. Barely visible on the dark text card.
+  const hexW = 0.882 * bs, wordW = 6.8 * font;        // widths of the two elements
+  const padX = Math.round(font * 1.25);
+  const plateW = Math.round(Math.max(hexW, wordW) + padX * 2);
+  const top = Math.round(topY - font * 0.85);
+  const bottom = Math.round(wy + font * 0.3 + font * 0.85); // wordmark baseline + descender + pad
+  const plateX = Math.round(cx - plateW / 2);
+  const r = Math.round(font * 0.9);
+  return `<rect x="${plateX}" y="${top}" width="${plateW}" height="${bottom - top}" rx="${r}" ry="${r}" fill="#0A0A0A" fill-opacity="0.72"/>
+  ${badge(cx, cy, bs)}
   <text x="${cx}" y="${wy}" text-anchor="middle" font-family="${TITLE_FONT}" font-size="${font}" font-weight="700" fill="${ink}">NegaraKu<tspan fill="#FFC000">.md</tspan></text>`;
 }
 
@@ -257,7 +269,7 @@ function articleSvg(a) {
   ${chips.join('\n  ')}
   <text x="${EDGE}" y="${tStart}" text-anchor="${ANCHOR}" font-family="${TITLE_FONT}" font-size="${cjkTitle ? 52 : 50}" font-weight="800" fill="#F4F4F8">${tSpans}</text>
   <text x="${EDGE}" y="${sStart}" text-anchor="${ANCHOR}" font-family="${bodyFont}" font-size="25" font-weight="400" fill="#9A9AB8">${sSpans}</text>
-  ${brandLockup(RX, 24, '#F4F4F8', 24)}
+  ${brandLockup(RX, 14, '#F4F4F8', 24)}
 </svg>`;
 }
 
@@ -293,7 +305,7 @@ function photoOverlaySvg(a) {
   <rect width="1200" height="210" fill="url(#topscrim)"/>
   <rect width="1200" height="630" fill="url(#scrim)"/>
   <rect x="0" y="0" width="1200" height="8" fill="#FFC000"/>
-  ${brandLockup(RX, 24, '#FFFFFF', 26)}
+  ${brandLockup(RX, 14, '#FFFFFF', 26)}
   <text x="${EDGE}" y="${crumbY}" text-anchor="${ANCHOR}" font-family="${bfont}" font-size="25" font-weight="600" fill="#FFC000">${esc(crumb)}</text>
   ${tSpans}
 </svg>`;
@@ -414,7 +426,13 @@ async function main() {
     console.warn('[og] manifest not found — wrote default.png only. Run `npm run sync` first.');
     return;
   }
-  const items = manifest.filter((a) => a.lang && a.category && a.slug && a.title);
+  let items = manifest.filter((a) => a.lang && a.category && a.slug && a.title);
+  // OG_ONLY=cat/slug[,cat/slug…] limits the render to those articles (all langs,
+  // or restrict with OG_ONLY_LANGS=en,ms). Used to build + ship a SAMPLE card to
+  // R2 for confirmation before regenerating the whole corpus. Empty = all.
+  const onlySet = new Set((process.env.OG_ONLY || '').split(',').map((s) => s.trim()).filter(Boolean));
+  const onlyLangs = new Set((process.env.OG_ONLY_LANGS || '').split(',').map((s) => s.trim()).filter(Boolean));
+  if (onlySet.size) items = items.filter((a) => onlySet.has(`${a.category}/${a.slug}`) && (!onlyLangs.size || onlyLangs.has(a.lang)));
 
   // Template version: a change to this renderer or the logo regenerates every card.
   let tv = '0';
@@ -492,21 +510,25 @@ async function main() {
     // Resume checkpoint: persist the cache every ~20 batches so a mid-run SIGSEGV
     // doesn't throw away the work. build-og-safe.mjs reruns us; the hash check
     // then skips everything already rendered and we continue where we left off.
-    if (++batchNo % 20 === 0) {
+    if (!onlySet.size && ++batchNo % 20 === 0) {
       try { await writeFile(CACHE_FILE, JSON.stringify({ version: tv, images: next })); } catch { /* best-effort */ }
     }
   }
 
   // Prune cards for articles that no longer exist (keep the default cards).
-  const keep = new Set(['default', 'en/default', 'zh/default']);
+  // SKIP pruning entirely in OG_ONLY/sample mode — `wanted` only holds the sample
+  // article(s), so pruning would delete every other card. Also skip persisting the
+  // cache in sample mode, so a sample build never marks the corpus as up to date.
   let pruned = 0;
-  for (const p of await collectCards(OUT_DIR)) {
-    const rel = path.relative(OUT_DIR, p).split(path.sep).join('/').replace(/\.thumb\.webp$/, '').replace(/\.png$/, '');
-    if (keep.has(rel) || wanted.has(rel)) continue;
-    try { await unlink(p); pruned++; } catch { /* ignore */ }
+  if (!onlySet.size) {
+    const keep = new Set(['default', 'en/default', 'zh/default']);
+    for (const p of await collectCards(OUT_DIR)) {
+      const rel = path.relative(OUT_DIR, p).split(path.sep).join('/').replace(/\.thumb\.webp$/, '').replace(/\.png$/, '');
+      if (keep.has(rel) || wanted.has(rel)) continue;
+      try { await unlink(p); pruned++; } catch { /* ignore */ }
+    }
+    await writeFile(CACHE_FILE, JSON.stringify({ version: tv, images: next }));
   }
-
-  await writeFile(CACHE_FILE, JSON.stringify({ version: tv, images: next }));
   console.log(`[og] default cards + ${made} regenerated, ${cached} cached, ${pruned} pruned, ${failed.length} error-skipped, ${skippedFont} font-skipped`);
   if (skippedFont) console.warn(`[og] ${skippedFont} card(s) left unchanged — missing script font(s): ${[...missingFonts].join(', ')}. Fix the font install to render them next run.`);
   if (failed.length) console.warn(`[og] skipped cards (${failed.length}): ${failed.slice(0, 30).join(', ')}${failed.length > 30 ? ' …' : ''}`);
