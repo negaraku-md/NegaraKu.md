@@ -87,17 +87,43 @@ jobs:
           AWS_REQUEST_CHECKSUM_CALCULATION: when_required
           AWS_RESPONSE_CHECKSUM_VALIDATION: when_required
           OG_ONLY_LANGS: ${{ github.event.inputs.only_langs }}
+          # Needed to PURGE the sample card URLs off Cloudflare's edge after upload.
+          # OG cards are uploaded immutable/max-age=1yr, so the edge keeps serving the
+          # OLD card for the stable URL until purged — and Facebook freezes whatever it
+          # fetches at post time. Without this purge the sample FB post shows the stale
+          # pre-redesign card. (The full regen in deploy.yml already purge_everything.)
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CF_ZONE_ID: ${{ secrets.CF_ZONE_ID }}
+          OG_BASE_URL: ${{ vars.OG_BASE_URL }}
         run: |
           node scripts/sync.mjs
           ONLY=$(echo "${{ github.event.inputs.files }}" | tr ' ' '\n' | sed -E 's#^knowledge/##; s#\.md$##' | grep . | paste -sd, -)
           echo "sample OG cards: $ONLY (langs: ${OG_ONLY_LANGS:-all})"
           OG_ONLY="$ONLY" node scripts/build-og.mjs
           EP="https://${R2_ACCOUNT_ID}.r2.cloudflarestorage.com"
+          # Force-replace on origin (no --size-only: the new card can be byte-close to
+          # the old one) so R2 definitely holds the redesigned card.
           aws s3 sync public/og "s3://${R2_BUCKET}/" --endpoint-url "$EP" \
-            --size-only --no-progress --only-show-errors \
+            --no-progress --only-show-errors \
             --exclude "*" --include "*.png" \
             --content-type image/png \
             --cache-control "public, max-age=300"
+          # Purge the exact sample card URLs off Cloudflare's edge so FB fetches fresh.
+          BASE="${OG_BASE_URL:-https://og.negaraku.md}"
+          URLS=$(cd public/og && find . -type f -name '*.png' | sed "s#^\./#${BASE}/#")
+          echo "purging edge cache for:"; echo "$URLS"
+          if [ -n "$CF_API_TOKEN" ] && [ -n "$CF_ZONE_ID" ]; then
+            BODY=$(printf '%s\n' $URLS | jq -R . | jq -s '{files: .}')
+            code=$(curl -s -o /tmp/ogpurge.json -w '%{http_code}' -X POST \
+              "https://api.cloudflare.com/client/v4/zones/${CF_ZONE_ID}/purge_cache" \
+              -H "Authorization: Bearer ${CF_API_TOKEN}" \
+              -H 'Content-Type: application/json' --data "$BODY")
+            echo "purge HTTP $code"; cat /tmp/ogpurge.json; echo
+            # Give the edge a moment to drop the objects before FB fetches them.
+            sleep 8
+          else
+            echo "::warning::CF_API_TOKEN / CF_ZONE_ID not set — edge NOT purged; sample post may show the stale card."
+          fi
 
       # Load the LATEST posted-manifest from the unprotected `fb-state` branch, not
       # from main. main is a protected branch, so the Actions bot cannot push the
