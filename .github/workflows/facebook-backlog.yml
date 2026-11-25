@@ -72,6 +72,33 @@ jobs:
 
       - run: npm ci
 
+      # SIGN-OFF SAMPLE (branch-only, never on main): when dispatched manually with
+      # explicit `files`, rebuild just those OG cards with the CURRENT branch's
+      # renderer and push them to R2, so the sample FB post below shows the NEW card
+      # design WITHOUT regenerating the whole corpus. Mirrors deploy.yml's R2 offload.
+      - name: Build + upload sample OG card(s) to R2
+        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.files != '' }}
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+          R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+          R2_BUCKET: ${{ secrets.R2_BUCKET }}
+          AWS_REQUEST_CHECKSUM_CALCULATION: when_required
+          AWS_RESPONSE_CHECKSUM_VALIDATION: when_required
+          OG_ONLY_LANGS: ${{ github.event.inputs.only_langs }}
+        run: |
+          node scripts/sync.mjs
+          ONLY=$(echo "${{ github.event.inputs.files }}" | tr ' ' '\n' | sed -E 's#^knowledge/##; s#\.md$##' | grep . | paste -sd, -)
+          echo "sample OG cards: $ONLY (langs: ${OG_ONLY_LANGS:-all})"
+          OG_ONLY="$ONLY" node scripts/build-og.mjs
+          EP="https://${R2_ACCOUNT_ID}.r2.cloudflarestorage.com"
+          aws s3 sync public/og "s3://${R2_BUCKET}/" --endpoint-url "$EP" \
+            --size-only --no-progress --only-show-errors \
+            --exclude "*" --include "*.png" \
+            --content-type image/png \
+            --cache-control "public, max-age=300"
+
       # Load the LATEST posted-manifest from the unprotected `fb-state` branch, not
       # from main. main is a protected branch, so the Actions bot cannot push the
       # advancing manifest back to it (GH006) — which previously froze the manifest
@@ -125,7 +152,7 @@ jobs:
         # Writes to the UNPROTECTED `fb-state` branch (single file posted.json) via
         # git plumbing — no worktree/branch switch, portable, and NOT subject to
         # main's branch protection. commit-tree + push <sha>:refs/heads/fb-state.
-        if: ${{ always() && github.event.inputs.dry_run != 'true' }}
+        if: ${{ always() && github.event.inputs.dry_run != 'true' && github.event.inputs.files == '' }}
         env:
           GIT_AUTHOR_NAME: 'github-actions[bot]'
           GIT_AUTHOR_EMAIL: '41898282+github-actions[bot]@users.noreply.github.com'
