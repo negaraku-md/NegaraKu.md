@@ -256,7 +256,7 @@ function articleSvg(a) {
   const sStart = tStart + (tLines.length - 1) * tLh + 54;
   const sLines = wrapText(a.summary || '', { maxLatin: 70, maxCjk: 34, maxLines: 3 });
   const sSpans = sLines.map((l, i) => `<tspan x="${EDGE}" dy="${i === 0 ? 0 : 34}">${esc(l)}</tspan>`).join('');
-  const RX = RTL ? 175 : 1025;         // badge + wordmark lockup side (inboard of FB's feed-edge crop)
+  const RX = RTL ? 141 : 1058;         // lockup centre: plate near-edge sits 76px from the card edge = the text EDGE inset (symmetric)
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <defs>${RTL ? AR_FONTS : ""}<radialGradient id="glow" cx="12%" cy="0%" r="70%">
     <stop offset="0%" stop-color="#FFC000" stop-opacity="0.10"/><stop offset="100%" stop-color="#FFC000" stop-opacity="0"/>
@@ -296,7 +296,7 @@ function photoOverlaySvg(a) {
   const baseY = 560 - (tLines.length - 1) * tLh;
   const tSpans = tLines.map((l, i) => `<text x="${EDGE}" y="${baseY + i * tLh}" text-anchor="${ANCHOR}" font-family="${tfont}" font-size="${tSize}" font-weight="800" fill="#FFFFFF">${esc(l)}</text>`).join('\n  ');
   const crumbY = baseY - tLines.length * tLh + 2;
-  const RX = RTL ? 165 : 1035;         // inboard of FB's feed-edge crop (was 1090 → ".md" clipped)
+  const RX = RTL ? 135 : 1064;         // lockup centre: plate near-edge sits 70px from the card edge = the text EDGE inset (symmetric)
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <defs>${RTL ? AR_FONTS : ''}
     <linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#05050A" stop-opacity="0"/><stop offset="48%" stop-color="#05050A" stop-opacity="0.18"/><stop offset="100%" stop-color="#05050A" stop-opacity="0.92"/></linearGradient>
