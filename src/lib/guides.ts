@@ -497,6 +497,23 @@ export const GUIDES: Guide[] = [
     ],
   },
   {
+    id: 'expanding-into-malaysia',
+    pillar: 'doing-business',
+    icon: '🌐',
+    title: { ms: "Mengembangkan perniagaan ke Malaysia", en: "Expanding into Malaysia", zh: "将业务拓展到马来西亚", ta: "மலேசியாவுக்கு வணிகத்தை விரிவாக்குதல்", ja: "マレーシアへの事業進出", ko: "말레이시아 사업 진출", th: "ขยายธุรกิจเข้าสู่มาเลเซีย", vi: "Mở rộng kinh doanh vào Malaysia", id: "Ekspansi bisnis ke Malaysia", ar: "التوسّع إلى ماليزيا", hi: "मलेशिया में व्यवसाय विस्तार", es: "Expandirse a Malasia", fr: "S'implanter en Malaisie" },
+    blurb: { ms: "Laluan penubuhan untuk syarikat atau pelabur asing — sama ada anda boleh memiliki perniagaan sepenuhnya, struktur yang hendak digunakan dan cara memperbadankan syarikat, mengalih modal masuk dan keluar, pas kerja untuk pasukan anda, cara anda dan kakitangan dikenakan cukai, serta insentif yang mungkin anda layak.", en: "The setup path for a foreign company or investor — whether you can own the business, which structure to use and how to incorporate, moving capital in and out, work passes for your team, how you and your staff are taxed, and the incentives you may qualify for.", zh: "外国公司或投资者的落地路径——能否全资持有业务、该用哪种结构及如何注册公司、资金的进出汇兑、团队的工作准证、你与员工如何纳税,以及你可能符合资格的奖掖。", ta: "வெளிநாட்டு நிறுவனம் அல்லது முதலீட்டாளருக்கான அமைப்புப் பாதை — வணிகத்தை நீங்கள் சொந்தமாக வைத்திருக்க முடியுமா, எந்த அமைப்பைப் பயன்படுத்துவது மற்றும் நிறுவனத்தை எவ்வாறு பதிவு செய்வது, மூலதனத்தை உள்ளே வெளியே நகர்த்துதல், உங்கள் குழுவுக்கான பணி அனுமதிச்சீட்டுகள், நீங்களும் உங்கள் ஊழியர்களும் எவ்வாறு வரி விதிக்கப்படுகிறீர்கள், மேலும் நீங்கள் தகுதி பெறக்கூடிய ஊக்கத்தொகைகள்.", ja: "外国企業や投資家のための進出ステップ——事業を保有できるか、どの形態を使い会社をどう設立するか、資本の出入り、チームの就労パス、自分と従業員の課税、そして受けられる優遇措置まで。", ko: "외국 기업이나 투자자를 위한 진출 경로 — 사업을 소유할 수 있는지, 어떤 형태로 어떻게 법인을 설립하는지, 자본의 반입·반출, 팀을 위한 취업 패스, 본인과 직원의 과세, 그리고 받을 수 있는 인센티브까지.", th: "เส้นทางการเข้ามาตั้งธุรกิจสำหรับบริษัทหรือนักลงทุนต่างชาติ — คุณถือครองธุรกิจได้หรือไม่ ควรใช้โครงสร้างแบบใดและจดทะเบียนบริษัทอย่างไร การโอนเงินทุนเข้าออก ใบอนุญาตทำงานสำหรับทีมของคุณ คุณและพนักงานถูกเก็บภาษีอย่างไร และสิทธิประโยชน์ที่คุณอาจมีคุณสมบัติได้รับ", vi: "Lộ trình thiết lập cho công ty hoặc nhà đầu tư nước ngoài — bạn có được sở hữu doanh nghiệp hay không, nên dùng loại hình nào và thành lập công ty ra sao, chuyển vốn ra vào, giấy phép lao động cho đội ngũ của bạn, bạn và nhân viên bị đánh thuế thế nào, cùng các ưu đãi bạn có thể đủ điều kiện.", id: "Jalur pendirian untuk perusahaan atau investor asing — apakah Anda boleh memiliki bisnisnya, struktur mana yang digunakan dan cara mendirikan perusahaan, memindahkan modal masuk dan keluar, izin kerja untuk tim Anda, bagaimana Anda dan karyawan dikenai pajak, serta insentif yang mungkin Anda penuhi syaratnya.", ar: "مسار التأسيس لشركة أو مستثمر أجنبي — هل يمكنك تملّك النشاط، وأيّ هيكل تستخدم وكيف تؤسّس الشركة، وتحريك رأس المال دخولاً وخروجاً، وتصاريح العمل لفريقك، وكيف تُفرض الضريبة عليك وعلى موظفيك، والحوافز التي قد تكون مؤهلاً لها.", hi: "किसी विदेशी कंपनी या निवेशक के लिए सेटअप की राह — क्या आप व्यवसाय के मालिक हो सकते हैं, कौन-सी संरचना अपनाएँ और कंपनी कैसे पंजीकृत करें, पूँजी का आना-जाना, आपकी टीम के लिए वर्क पास, आप और आपके कर्मचारी कैसे कर-योग्य हैं, और वे प्रोत्साहन जिनके लिए आप पात्र हो सकते हैं।", es: "La ruta de implantación para una empresa o inversor extranjero: si puedes ser titular del negocio, qué estructura usar y cómo constituir la sociedad, mover capital dentro y fuera, permisos de trabajo para tu equipo, cómo tributáis tú y tu personal, y los incentivos a los que podrías optar.", fr: "Le parcours d'implantation pour une entreprise ou un investisseur étranger — si vous pouvez détenir l'activité, quelle structure utiliser et comment constituer la société, faire entrer et sortir des capitaux, les permis de travail pour votre équipe, comment vous et vos salariés êtes imposés, et les incitations auxquelles vous pourriez prétendre." },
+    steps: [
+      { cat: 'business', slug: 'foreign-ownership-malaysia' },
+      { cat: 'business', slug: 'business-structures-malaysia' },
+      { cat: 'business', slug: 'register-sdn-bhd' },
+      { cat: 'business', slug: 'foreign-exchange-policy-malaysia' },
+      { cat: 'employment', slug: 'employment-pass-malaysia' },
+      { cat: 'employment', slug: 'hiring-foreign-workers-malaysia' },
+      { cat: 'taxation', slug: 'expatriate-and-non-resident-tax' },
+      { cat: 'taxation', slug: 'tax-incentives-directory' },
+    ],
+  },
+  {
     id: 'first-food-tour-malaysia',
     pillar: 'eat-drink-play',
     icon: '🍜',
