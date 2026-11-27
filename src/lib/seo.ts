@@ -7,6 +7,7 @@ import { SITE } from './site';
 import { llmsFullUrl } from './llmsFull';
 import { localePath, withTrailingSlash, LOCALES } from './i18n';
 import { getGitInfo } from './apidata';
+import { ogMetaUrl } from './og';
 
 // BCP-47 language tags for every launched locale (for schema.org inLanguage).
 const BCP47: Record<Locale, string> = { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th', vi: 'vi', id: 'id', ar: 'ar', hi: 'hi', es: 'es', fr: 'fr' };
@@ -145,11 +146,23 @@ export function articleJsonLd(article: Article, locale: Locale): Record<string, 
   // Reader-need framework (Sprint 1b v2) → a language-independent content-type
   // signal for AI / answer engines: schema.org `genre` + `learningResourceType`.
   const fw = getFramework(d.framework);
+  // Google Discover / Article rich-result image signal. Discover is image-first
+  // and withholds eligibility without a high-res (≥1200px) image in structured
+  // data. Reuse the generated OG card — guaranteed present for every article,
+  // exactly 1200×630, and the same asset already advertised as og:image (served
+  // from R2 when OG_BASE_URL is set). Freshness-neutral: no per-article authoring.
+  const ogCard = ogMetaUrl(`/og/${locale}/${d.category}/${d.slug}.png`, SITE);
   return {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: d.title,
     description: d.summary,
+    image: {
+      '@type': 'ImageObject',
+      url: ogCard,
+      width: 1200,
+      height: 630,
+    },
     ...(fw ? { genre: fw.genre, learningResourceType: fw.learningResourceType } : {}),
     // The 30-second direct answer, machine-readable. This is the concise,
     // liftable answer AI assistants and answer engines quote — previously it
