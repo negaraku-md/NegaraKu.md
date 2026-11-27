@@ -38,7 +38,7 @@ faq:
     a: "그렇습니다. 유언집행자는 사망을 말레이시아 국세청(LHDN)에 알리고, 피상속인의 최종 신고서와 상속재산의 신고서를 제출하며, 상속재산을 분배하기 전에 미납 세금과 벌금을 정산해야 합니다. 말레이시아 국세청(LHDN)은 사망을 통지받은 해의 말부터 3년간 부과할 수 있습니다."
 
 lang: "ko"
-sourceContentHash: "41452eb0f37e297f"
+sourceContentHash: "4f17ffe66a193226"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,19 +48,27 @@ reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-08
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 verificationNeeded: []
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: corrected the incidental aside that the carbon tax runs 'from 2026' — it was announced for 2026 but deferred on 5 October 2026; added an internal link to the carbon-tax guide. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "개인의 사망 (말레이시아 세무 기술 자료) (Death of an individual (Malaysian tax technical article))"
     url: "https://www.accaglobal.com/gb/en/student/exam-support-resources/professional-exams-study-resources/p6/technical-articles/death.html"
     publisher: "ACCA Global"
+  - title: "정부, 글로벌 불확실성 속 탄소세 연기 (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "상속세 문제가 말레이시아에서 다시 대두되다 (Question of inheritance tax resurfaces in Malaysia)"
     url: "https://theedgemalaysia.com/article/question-inheritance-tax-resurfaces-malaysia"
     publisher: "The Edge Malaysia"
@@ -123,7 +131,7 @@ framework: explainer
 
 폐지 전, 상속재산세는 더 큰 상속재산에만 적용되었습니다. 0%, 5%, 10%의 누진세율로 부과되었습니다. RM200만 이하로 평가된 상속재산은 아무것도 내지 않았고, 최고 10% 세율은 RM400만을 초과하여 평가된 상속재산에 적용되었습니다. 기준이 높고 부과가 사망 시에만 발동되었기 때문에, 그것이 올린 세수는 미미했습니다 — 이것이 세무 자문가들이 일반적으로 그 폐지 이유로 드는 것입니다.
 
-상속세를 되살리자는 생각은 이따금 떠오릅니다. 재도입은 2016년과 2017년경에 소문이 돌았고(사회관계망에서 유포된 미확인 메시지는 세율을 10%로 제시했습니다), 페낭 소비자협회는 2018년 예산안에 앞서 최부유층으로부터 세수를 올리는 방편으로 이를 주장했습니다. 매번 제안은 기각되거나 보류되었습니다. 세무 전문가들은 상속세가 말레이시아가 이미 부과하는 세금 — 인지세와 부동산이득세 — 과 중복되고 투자를 위축시킬 수 있다는 이유로 일상적으로 반대합니다. 재도입은 2025년 예산안에 앞서 다시 추측되었으나 구체적 제안은 뒤따르지 않았고, 2026년 예산안(2025년 10월 10일 제출)도 아무것도 도입하지 않았습니다 — 진정으로 새로운 유일한 세금은 철·철강·에너지 부문에 대한 2026년부터의 탄소세입니다. 이 안내서 날짜 기준으로, 어떤 상속세, 상속재산세, 또는 사망세도 존재하거나 예정되어 있지 않습니다.
+상속세를 되살리자는 생각은 이따금 떠오릅니다. 재도입은 2016년과 2017년경에 소문이 돌았고(사회관계망에서 유포된 미확인 메시지는 세율을 10%로 제시했습니다), 페낭 소비자협회는 2018년 예산안에 앞서 최부유층으로부터 세수를 올리는 방편으로 이를 주장했습니다. 매번 제안은 기각되거나 보류되었습니다. 세무 전문가들은 상속세가 말레이시아가 이미 부과하는 세금 — 인지세와 부동산이득세 — 과 중복되고 투자를 위축시킬 수 있다는 이유로 일상적으로 반대합니다. 재도입은 2025년 예산안에 앞서 다시 추측되었으나 구체적 제안은 뒤따르지 않았고, 2026년 예산안(2025년 10월 10일 제출)도 아무것도 도입하지 않았습니다 — 진정으로 새로운 유일한 세금은 철·철강·에너지 부문에 대한 탄소세였습니다 — 2026년에 시행 예정이었으나 [2026년 10월 5일 연기되었습니다](/taxation/carbon-tax-malaysia). 이 안내서 날짜 기준으로, 어떤 상속세, 상속재산세, 또는 사망세도 존재하거나 예정되어 있지 않습니다.
 
 그렇다면 상속 자체에 세금이 없다면, 세금이 실제로 어디에서 등장하는가? 세 곳에서이며, 모두 재산의 이전이 아니라 *소득과 이득*에 관한 것입니다.
 

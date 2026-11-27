@@ -40,7 +40,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "41452eb0f37e297f"
+sourceContentHash: "4f17ffe66a193226"
 
 status: "published"
 aiAssisted: true
@@ -48,19 +48,27 @@ reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-08
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 verificationNeeded: []
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: corrected the incidental aside that the carbon tax runs 'from 2026' — it was announced for 2026 but deferred on 5 October 2026; added an internal link to the carbon-tax guide. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "個人の死亡（マレーシア税務テクニカル記事） (Death of an individual (Malaysian tax technical article))"
     url: "https://www.accaglobal.com/gb/en/student/exam-support-resources/professional-exams-study-resources/p6/technical-articles/death.html"
     publisher: "ACCA Global"
+  - title: "政府、世界的な不確実性の中で炭素税を先送り (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "相続税の是非がマレーシアで再浮上 (Question of inheritance tax resurfaces in Malaysia)"
     url: "https://theedgemalaysia.com/article/question-inheritance-tax-resurfaces-malaysia"
     publisher: "The Edge Malaysia"
@@ -123,7 +131,7 @@ framework: explainer
 
 廃止前、遺産税は規模の大きい遺産にのみ適用されていた。税率は0%、5%、10%の段階制で、評価額RM200万以下の遺産は非課税、評価額RM400万を超える遺産には最高税率の10%が適用された。閾値が高く、かつこの税が死亡時にのみ発生する性質であったため、それがもたらす税収は限られたものであった——これが、税務コンサルタントが一般に挙げる廃止の理由である。
 
-相続税を復活させるという発想は、折に触れて浮上する。2016年から2017年ごろには再導入の噂が流れ（ソーシャルメディアで出回った未確認情報は税率を10%としていた）、ペナン消費者協会は2018年度予算案に先立ち、最富裕層から税収を得る手段としてその導入を主張した。しかしそのたびに、提案は却下されるか棚上げにされてきた。税務専門家は、相続税がマレーシアで既に課されている税——印紙税及び不動産譲渡益税——と重複し、投資を阻害しかねないという理由で、一貫して反対してきた。2025年度予算案に先立って再導入がふたたび憶測されたが、具体的な提案は続かず、2026年度予算案（2025年10月10日に提出）も同様に導入を見送った——その中で真に新規の税は、2026年から鉄鋼・エネルギー部門に課される炭素税のみである。本稿の執筆時点で、相続税、遺産税、死亡税のいずれも存在せず、導入も予定されていない。
+相続税を復活させるという発想は、折に触れて浮上する。2016年から2017年ごろには再導入の噂が流れ（ソーシャルメディアで出回った未確認情報は税率を10%としていた）、ペナン消費者協会は2018年度予算案に先立ち、最富裕層から税収を得る手段としてその導入を主張した。しかしそのたびに、提案は却下されるか棚上げにされてきた。税務専門家は、相続税がマレーシアで既に課されている税——印紙税及び不動産譲渡益税——と重複し、投資を阻害しかねないという理由で、一貫して反対してきた。2025年度予算案に先立って再導入がふたたび憶測されたが、具体的な提案は続かず、2026年度予算案（2025年10月10日に提出）も同様に導入を見送った——その中で真に新規の税は鉄鋼・エネルギー部門に課される炭素税のみであったが、これは2026年に導入予定とされたものの、[2026年10月5日に先送りされた](/taxation/carbon-tax-malaysia)。本稿の執筆時点で、相続税、遺産税、死亡税のいずれも存在せず、導入も予定されていない。
 
 では、相続そのものに税がかからないとすれば、税は実際にはどこで登場するのか。三つの場面であり、そのいずれも財産の移転ではなく*収入と利得*に関わるものである。
 

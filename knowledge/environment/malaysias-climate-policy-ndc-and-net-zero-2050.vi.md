@@ -18,7 +18,7 @@ keyTakeaways:
   - "Mức cắt giảm chia thành 20 MtCO₂eq không điều kiện và thêm 10 MtCO₂eq có điều kiện phụ thuộc vào tài chính khí hậu quốc tế, chuyển giao công nghệ và xây dựng năng lực."
   - "Phát thải được dự phóng đạt đỉnh giữa năm 2029 và 2034; Malaysia cam kết đạt đỉnh không muộn hơn năm 2034 và khát vọng đạt đỉnh vào năm 2030 nếu sự hỗ trợ cho phép."
   - "Chính sách Biến đổi Khí hậu Quốc gia 2.0 là chính sách bao trùm; phát thải khí nhà kính ròng bằng không vào năm 2050 là khát vọng dài hạn."
-  - "Một Đạo luật Biến đổi Khí hậu đang được soạn thảo để tạo ra một kho dữ liệu, một khung báo cáo MMRV, một Quỹ Khí hậu Quốc gia và một chương trình mua bán phát thải trong nước; một thuế carbon đối với sắt, thép và năng lượng được ấn định cho năm 2026."
+  - "Một Đạo luật Biến đổi Khí hậu đang được soạn thảo để tạo ra một kho dữ liệu, một khung báo cáo MMRV, một Quỹ Khí hậu Quốc gia và một chương trình mua bán phát thải trong nước; một thuế carbon đối với sắt, thép và năng lượng được ấn định cho năm 2026 nhưng đã bị hoãn vào ngày 5 tháng 10 năm 2026."
 appliesTo: "Các nhóm bền vững và ESG của doanh nghiệp, các công ty năng lượng và sản xuất trong các lĩnh vực khó giảm phát thải, nhà đầu tư và chuyên viên phân tích theo dõi các thị trường carbon của Malaysia, nhà nghiên cứu chính sách, sinh viên, và bất kỳ ai cố hiểu Malaysia đang đứng ở đâu về khí hậu."
 
 faq:
@@ -31,12 +31,12 @@ faq:
   - q: "Đạo luật Biến đổi Khí hậu là gì và nó đã thành luật chưa?"
     a: "Đó là một đạo luật bao trùm được đề xuất nhằm mang lại hiệu lực pháp lý cho các cam kết khí hậu của Malaysia — một kho dữ liệu khí hậu quốc gia, một khung đo lường-giám sát-báo cáo-và-xác minh (MMRV) bắt buộc, một Quỹ Khí hậu Quốc gia và một chương trình mua bán phát thải trong nước. Tính đến thông tin công khai mới nhất nó vẫn chưa được ban hành; một tài liệu tham vấn được công bố năm 2024 và dự luật đang được chuẩn bị để trình Nghị viện."
   - q: "Có thuế carbon hay thị trường carbon ở Malaysia không?"
-    a: "Chính phủ đã công bố một thuế carbon đối với các ngành sắt, thép và năng lượng có hiệu lực vào năm 2026, phù hợp với một Chính sách Thị trường Carbon Quốc gia và Dự luật Biến đổi Khí hậu sắp tới. Theo Kế hoạch Malaysia lần thứ 13 (2026–2030) nó cũng có ý định khởi động một chương trình mua bán phát thải trong nước. Malaysia còn có ý định sử dụng hợp tác tự nguyện theo Điều 6 của Thỏa thuận Paris."
+    a: "Chính phủ đã công bố một thuế carbon đối với các ngành sắt, thép và năng lượng cho năm 2026, nhưng vào ngày 5 tháng 10 năm 2026 Bộ trưởng NRES đã hoãn nó — nó sẽ không có hiệu lực vào năm 2026, và chưa có ngày bắt đầu mới nào được ấn định. Nó phù hợp với một Chính sách Thị trường Carbon Quốc gia và Dự luật Biến đổi Khí hậu sắp tới. Theo Kế hoạch Malaysia lần thứ 13 (2026–2030) chính phủ cũng có ý định khởi động một chương trình mua bán phát thải trong nước. Malaysia còn có ý định sử dụng hợp tác tự nguyện theo Điều 6 của Thỏa thuận Paris."
   - q: "Các phần có điều kiện của NDC là gì?"
     a: "Trong mục tiêu 15–30 MtCO₂eq, lên đến 20 MtCO₂eq là không điều kiện — Malaysia cam kết với nó bất kể thế nào. Thêm 10 MtCO₂eq là có điều kiện, nghĩa là nó sẽ chỉ được thực hiện nếu tài chính khí hậu quốc tế, chuyển giao công nghệ và hỗ trợ xây dựng năng lực được cung cấp."
 
 lang: "vi"
-sourceContentHash: "6a0b336c4432c9c8"
+sourceContentHash: "29ba93df6f074e81"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -45,15 +45,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: recorded that the carbon tax on iron, steel and energy, slated for 2026, was deferred on 5 October 2026 (will not take effect in 2026; no new start date) in the key takeaways, FAQ and body. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
+  - title: "Chính phủ hoãn thuế carbon giữa những bất định toàn cầu (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "Phiên bản thứ ba Đóng góp do Quốc gia Tự quyết định của Malaysia (NDC 3.0) (Malaysia's Third Iteration of the Nationally Determined Contribution (NDC 3.0))"
     url: "https://unfccc.int/sites/default/files/2025-10/Malaysia%20NDC%203.0%20to%20UNFCCC%202025%20final.pdf"
     publisher: "Công ước khung của Liên Hợp Quốc về Biến đổi Khí hậu (UNFCCC)"
@@ -162,7 +170,7 @@ Một điều lưu ý quan trọng: tính đến thông tin công khai mới nh�
 
 Hai cơ chế riêng biệt đang hình thành, và chúng dễ bị nhầm lẫn.
 
-Thứ nhất là một **thuế carbon.** Chính phủ công bố rằng một thuế carbon đối với các **ngành sắt, thép và năng lượng sẽ có hiệu lực vào năm 2026**, phù hợp với một Chính sách Thị trường Carbon Quốc gia (Dasar Pasaran Karbon Kebangsaan) và Dự luật Biến đổi Khí hậu sắp tới. Một khoản thuế cố định *giá* của mỗi tấn và để lượng phát thải điều chỉnh.
+Thứ nhất là một **thuế carbon.** Chính phủ công bố rằng một thuế carbon đối với các ngành sắt, thép và năng lượng sẽ có hiệu lực vào năm 2026 — nhưng vào **ngày 5 tháng 10 năm 2026** Bộ trưởng NRES đã **hoãn** nó, viện dẫn các căng thẳng địa chính trị và giá năng lượng biến động; nó sẽ không có hiệu lực vào năm 2026, và chưa có ngày bắt đầu mới nào được ấn định. Nó phù hợp với một Chính sách Thị trường Carbon Quốc gia (Dasar Pasaran Karbon Kebangsaan) và Dự luật Biến đổi Khí hậu sắp tới. Một khoản thuế cố định *giá* của mỗi tấn và để lượng phát thải điều chỉnh.
 
 Thứ hai là **chương trình mua bán phát thải trong nước.** Theo Kế hoạch Malaysia lần thứ 13 (2026–2030), Malaysia có ý định giới thiệu Chính sách Thị trường Carbon Quốc gia và khởi động một ETS trong nước. Một ETS đặt giới hạn *lượng* phát thải và để thị trường đặt giá, với Đạo luật Biến đổi Khí hậu cung cấp cơ sở pháp lý cho nó.
 

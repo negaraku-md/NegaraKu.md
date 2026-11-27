@@ -18,7 +18,7 @@ keyTakeaways:
   - "Pengurangan itu terbagi menjadi 20 MtCO₂eq tanpa syarat dan 10 MtCO₂eq tambahan yang bersyarat pada pembiayaan iklim internasional, alih teknologi dan pembangunan kapasitas."
   - "Emisi diperkirakan mencapai puncak antara 2029 dan 2034; Malaysia berkomitmen untuk mencapai puncak selambat-lambatnya pada 2034 dan beraspirasi mencapai puncak menjelang 2030 jika dukungan mengizinkan."
   - "Kebijakan Perubahan Iklim Nasional 2.0 adalah kebijakan payung; emisi gas rumah kaca nol bersih menjelang 2050 adalah aspirasi jangka panjang."
-  - "Undang-Undang Perubahan Iklim sedang disusun untuk mewujudkan repositori data, kerangka pelaporan MMRV, Dana Iklim Nasional dan skema perdagangan emisi domestik; pajak karbon atas besi, baja dan energi dijadwalkan pada 2026."
+  - "Undang-Undang Perubahan Iklim sedang disusun untuk mewujudkan repositori data, kerangka pelaporan MMRV, Dana Iklim Nasional dan skema perdagangan emisi domestik; pajak karbon atas besi, baja dan energi dijadwalkan pada 2026 tetapi ditunda pada 5 Oktober 2026."
 appliesTo: "Tim keberlanjutan bisnis dan ESG, firma energi dan manufaktur dalam sektor yang sulit didekarbonisasi, investor dan analis yang melacak pasar karbon Malaysia, peneliti kebijakan, pelajar, dan siapa saja yang mencoba memahami posisi Malaysia tentang iklim."
 
 faq:
@@ -31,12 +31,12 @@ faq:
   - q: "Apa itu Undang-Undang Perubahan Iklim dan apakah sudah menjadi undang-undang?"
     a: "Ia merupakan statuta payung yang diusulkan bertujuan memberi kuasa legislatif kepada komitmen iklim Malaysia — repositori data iklim nasional, kerangka pengukuran-pemantauan-pelaporan-dan-verifikasi (MMRV) yang wajib, Dana Iklim Nasional dan skema perdagangan emisi domestik. Hingga informasi publik terkini, ia masih belum disahkan menjadi undang-undang; sebuah kertas konsultasi dikeluarkan pada 2024 dan rancangan undang-undang itu sedang disiapkan untuk diajukan ke Parlemen."
   - q: "Apakah ada pajak karbon atau pasar karbon di Malaysia?"
-    a: "Pemerintah telah mengumumkan pajak karbon atas industri besi, baja dan energi yang akan berlaku pada 2026, selaras dengan Kebijakan Pasar Karbon Nasional dan Rancangan Undang-Undang Perubahan Iklim yang akan datang. Di bawah Rancangan Malaysia Ke-13 (2026–2030), ia juga berhasrat meluncurkan skema perdagangan emisi domestik. Malaysia turut berhasrat menggunakan kerja sama sukarela di bawah Pasal 6 Perjanjian Paris."
+    a: "Pemerintah mengumumkan pajak karbon atas industri besi, baja dan energi untuk 2026, tetapi pada 5 Oktober 2026 Menteri NRES menundanya — pajak itu tidak akan berlaku pada 2026, dan belum ada tanggal mulai baru yang ditetapkan. Ia selaras dengan Kebijakan Pasar Karbon Nasional dan Rancangan Undang-Undang Perubahan Iklim yang akan datang. Di bawah Rancangan Malaysia Ke-13 (2026–2030), pemerintah juga berhasrat meluncurkan skema perdagangan emisi domestik. Malaysia turut berhasrat menggunakan kerja sama sukarela di bawah Pasal 6 Perjanjian Paris."
   - q: "Apa bagian bersyarat dalam NDC?"
     a: "Dari sasaran 15–30 MtCO₂eq, hingga 20 MtCO₂eq bersifat tanpa syarat — Malaysia berkomitmen padanya tanpa memandang keadaan. Sebanyak 10 MtCO₂eq tambahan bersifat bersyarat, berarti ia hanya akan dicapai jika pembiayaan iklim internasional, alih teknologi dan dukungan pembangunan kapasitas tersedia."
 
 lang: "id"
-sourceContentHash: "6a0b336c4432c9c8"
+sourceContentHash: "29ba93df6f074e81"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -45,15 +45,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: recorded that the carbon tax on iron, steel and energy, slated for 2026, was deferred on 5 October 2026 (will not take effect in 2026; no new start date) in the key takeaways, FAQ and body. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
+  - title: "Pemerintah menunda pajak karbon di tengah ketidakpastian global (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "Lelaran Ketiga Sumbangan Ditentukan Secara Nasional Malaysia (NDC 3.0) (Malaysia's Third Iteration of the Nationally Determined Contribution (NDC 3.0))"
     url: "https://unfccc.int/sites/default/files/2025-10/Malaysia%20NDC%203.0%20to%20UNFCCC%202025%20final.pdf"
     publisher: "United Nations Framework Convention on Climate Change (UNFCCC)"
@@ -162,7 +170,7 @@ Satu pengingat penting: hingga informasi publik terkini, Undang-undang itu **mas
 
 Dua mekanisme berbeda sedang terbentuk, dan keduanya mudah dikacaukan.
 
-Yang pertama adalah **pajak karbon.** Pemerintah mengumumkan bahwa pajak karbon atas **industri besi, baja dan energi akan berlaku pada 2026**, selaras dengan Kebijakan Pasar Karbon Nasional dan Rancangan Undang-Undang Perubahan Iklim yang akan datang. Pajak menetapkan *harga* per ton dan membiarkan kuantitas emisi menyesuaikan diri.
+Yang pertama adalah **pajak karbon.** Pemerintah mengumumkan bahwa pajak karbon atas industri besi, baja dan energi akan berlaku pada 2026 — tetapi pada **5 Oktober 2026** Menteri NRES **menundanya**, dengan alasan ketegangan geopolitik dan harga energi yang bergejolak; pajak itu tidak akan berlaku pada 2026, dan belum ada tanggal mulai baru yang ditetapkan. Ia selaras dengan Kebijakan Pasar Karbon Nasional dan Rancangan Undang-Undang Perubahan Iklim yang akan datang. Pajak menetapkan *harga* per ton dan membiarkan kuantitas emisi menyesuaikan diri.
 
 Yang kedua adalah **skema perdagangan emisi domestik.** Di bawah Rancangan Malaysia Ke-13 (2026–2030), Malaysia berhasrat memperkenalkan Kebijakan Pasar Karbon Nasional dan meluncurkan ETS domestik. ETS membatasi *kuantitas* emisi dan membiarkan pasar menetapkan harga, dengan Undang-Undang Perubahan Iklim menyediakan dasar legislatifnya.
 

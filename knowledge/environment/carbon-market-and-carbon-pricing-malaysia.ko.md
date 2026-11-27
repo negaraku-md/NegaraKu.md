@@ -12,24 +12,24 @@ mode: "practical"
 contentType: "faq"
 sensitivity: "none"
 
-answer: "말레이시아는 아직 경제 전반에 걸친 탄소 가격을 두고 있지 않습니다. 탄소는 현재 부르사 탄소거래소(Bursa Carbon Exchange)에서 자발적으로 거래되며, 국가 탄소시장 정책(National Carbon Market Policy, 2026년 4월 21일 발표)이 향후 규제 이행 시장의 틀을 정합니다. 철강·에너지에 대한 탄소세와 국내 배출권거래제가 계획되어 있으나, The Edge Malaysia에 따르면 탄소세는 2026년 중반 기준으로 기후변화법안(Climate Change Bill)을 기다리며 보류되어 있었습니다."
+answer: "말레이시아는 아직 경제 전반에 걸친 탄소 가격을 두고 있지 않습니다. 탄소는 현재 부르사 탄소거래소(Bursa Carbon Exchange)에서 자발적으로 거래되며, 국가 탄소시장 정책(National Carbon Market Policy, 2026년 4월 21일 발표)이 향후 규제 이행 시장의 틀을 정합니다. 철강·에너지에 대한 탄소세와 국내 배출권거래제가 계획되어 있으나, 2026년 10월 5일 NRES 장관이 탄소세가 연기되어 2026년에는 시행되지 않을 것이라고 발표했으며, 이는 기후변화법안(Climate Change Bill)을 기다리고 있습니다."
 keyTakeaways:
   - "국가 탄소시장 정책은 2026년 4월 1일 내각 승인을 거쳐 2026년 4월 21일 천연자원환경지속가능부(NRES)가 발표했습니다."
   - "부르사 탄소거래소는 자발적 시장이며, 2023년 3월 16일 첫 경매에서 15만 배출권을 판매하여 RM18.50(GTC)과 RM68.00(GNC+)에 낙찰되었습니다."
-  - "당초 2026년으로 예정되었던 철강·에너지 부문에 대한 탄소세는 The Edge Malaysia에 의해 2026년 기준 보류 상태로 보도되었습니다."
+  - "당초 2026년으로 예정되었던 철강·에너지 부문에 대한 탄소세는 2026년 10월 5일 NRES 장관에 의해 연기되어 2026년에는 도입되지 않습니다. 새로운 시작일은 정해지지 않았습니다."
   - "탄소포집·활용·저장법(CCUS Act 2025, Act 870)은 2025년 7월 22일 제정되어 말레이시아 CCUS청(MCCA)을 설립합니다."
 appliesTo: "말레이시아가 탄소에 어떻게 가격을 매기고 거래하는지 추적하는 기업, 지속가능성 담당팀, 투자자, 정책 관찰자."
 
 faq:
   - q: "말레이시아에 탄소세가 있습니까?"
-    a: "아직 없습니다. 철강·에너지 부문에 대한 탄소세가 2026년으로 발표되었으나, The Edge Malaysia는 그 시행이 지정학적 긴장과 국민·산업에 대한 추가 비용 부담을 피하기 위해 기후변화법안(Climate Change Bill)을 기다리며 보류되었다고 보도했습니다."
+    a: "아직 없습니다. 철강·에너지 부문에 대한 탄소세가 2026년으로 발표되었으나, 2026년 10월 5일 NRES 장관 Datuk Seri Arthur Joseph Kurup가 지정학적 긴장과 에너지 가격 변동성을 이유로 이를 연기하여 2026년에는 시행하지 않겠다고 발표했습니다. 새로운 시작일은 정해지지 않았으며, 시행은 국가 탄소시장 정책과 계류 중인 기후변화법안(Climate Change Bill) 이후로 순차 진행됩니다."
   - q: "말레이시아에서 탄소배출권은 어디에서 거래할 수 있습니까?"
     a: "Bursa Malaysia Carbon Market Sdn Bhd가 운영하는 자발적 시장인 부르사 탄소거래소(BCX)에서 거래할 수 있으며, 경매, 연속 거래, 장외 거래를 제공합니다."
   - q: "국가 탄소시장 정책이란 무엇입니까?"
     a: "규제 이행 가격제 수단이 도입되기에 앞서 고신뢰성 탄소시장, 국가 탄소 등록부, 모니터링 체계를 구축하기 위해 2026년 4월 21일 NRES가 발표한 틀입니다."
 
 lang: "ko"
-sourceContentHash: "da637e665e1a9fd4"
+sourceContentHash: "3f730671ca2c2681"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -38,20 +38,28 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 verificationNeeded:
   - "부르사 탄소거래소가 2016년 이후 Verra 발행 프로젝트로 등재를 제한하는지 여부(1차 자료인 BCX/Bursa Malaysia 출처가 없어 해당 주장은 삭제됨. 인용된 BCX 소개 페이지는 이를 명시하지 않음)."
   - "BCX에 등재된 말레이시아 출처 프로젝트의 현재 목록과 개수(예: 쿠아무트 열대우림 보전 프로젝트), 날짜가 명시된 권위 있는 출처와 함께(검증 전까지 해당 주장은 삭제됨)."
-  - "국가 기후변화법안(National Climate Change Bill)의 정확한 상정일과 현황(The Edge는 2026년 7월에 상정될 것으로 예상된다고 보도함)."
-  - "기후변화법안 상정 이후에도 탄소세가 계속 보류되는지 여부, 그리고 NRES/재무부의 최신 공식 현황."
+  - "국가 기후변화법안(National Climate Change Bill)의 정확한 상정일과 현황(The Edge는 2026년 7월에 상정될 것으로 예상된다고 보도했으며, NRES 장관은 2026년 10월 5일 조만간 상정될 수 있기를 바란다고 밝힘)."
+  - "2026년 10월 5일 연기 이후 새로운 탄소세 시작일이 정해졌는지 여부 — 2027년 예산안을 포함하여 이 검토 시점까지 발표된 바 없습니다."
 revisions:
   - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: replaced the 'on hold as of mid-2026' framing with the deferral the NRES Minister announced on 5 October 2026 (carbon tax will not be implemented in 2026; no new start date; Budget 2027 set none) in the answer, key takeaways, FAQ and body. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-07-28
+updated: 2026-11-27
 sources:
+  - title: "정부, 글로벌 불확실성 속 탄소세 연기 (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "말레이시아 탄소시장 생태계를 이끌기 위한 국가 탄소시장 정책 발표 (National Carbon Market Policy launched to guide Malaysia's carbon market ecosystem)"
     url: "https://theedgemalaysia.com/node/800680"
     publisher: "The Edge Malaysia"
@@ -117,7 +125,7 @@ NCMP는 말레이시아의 기후 공약을 열망 수준이 아니라 집행 �
 
 두 가지 규제 이행 수단이 계획되어 있습니다:
 
-- **탄소세.** 2026년까지 철강·에너지 부문에 대해 발표되었으나 — The Edge Malaysia에 따르면 — 그 시행은 지정학적 긴장과 국민·산업에 대한 추가 비용 부담을 피하기 위해 **보류**되었습니다.
+- **탄소세.** 2026년까지 철강·에너지 부문에 대해 발표되었으나, **2026년 10월 5일** NRES 장관 Datuk Seri Arthur Joseph Kurup는 지정학적 긴장과 에너지 가격 변동성을 이유로 이것이 **연기**되어 2026년에는 시행되지 않을 것이라고 밝혔습니다. 새로운 시작일은 정해지지 않았으며, 2026년 10월 9일 상정된 2027년 예산안도 이를 발표하지 않았습니다. 자세한 내용은 [말레이시아의 연기된 탄소세](/taxation/carbon-tax-malaysia)를 참조하십시오.
 - **국내 배출권거래제(DETS).** 향후 기후변화법안이 DETS의 법적 근거를 제공할 것으로 예상되며, 이는 탄소세 이후에 개발될 예정입니다. 제13차 말레이시아 계획(2026–2030)은 이를 출범시키겠다고 약속하고 있습니다.
 
 ## 탄소 포집은 어디에 들어맞습니까?

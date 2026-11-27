@@ -40,7 +40,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "41452eb0f37e297f"
+sourceContentHash: "4f17ffe66a193226"
 
 status: "published"
 aiAssisted: true
@@ -48,19 +48,27 @@ reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-08
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 verificationNeeded: []
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: corrected the incidental aside that the carbon tax runs 'from 2026' — it was announced for 2026 but deferred on 5 October 2026; added an internal link to the carbon-tax guide. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "个人的身故（马来西亚税务技术文章） (Death of an individual (Malaysian tax technical article))"
     url: "https://www.accaglobal.com/gb/en/student/exam-support-resources/professional-exams-study-resources/p6/technical-articles/death.html"
     publisher: "ACCA Global"
+  - title: "政府在全球不确定性下延后碳税 (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "遗产税议题在马来西亚再度浮现 (Question of inheritance tax resurfaces in Malaysia)"
     url: "https://theedgemalaysia.com/article/question-inheritance-tax-resurfaces-malaysia"
     publisher: "The Edge Malaysia"
@@ -123,7 +131,7 @@ framework: explainer
 
 在废除之前，遗产税仅适用于较大的遗产。它按0%、5%及10%的税率征收：估值在RM2 million或以下的遗产不缴税，最高10%的税率适用于估值超过RM4 million的遗产。由于门槛高，且该税仅在死亡时触发，它所带来的税收有限——这正是税务顾问普遍给出的废除理由。
 
-重新开征继承税的想法时不时会浮现。2016年和2017年前后曾传出重新开征的传闻（社交媒体上流传的未经证实的消息将税率定为10%），槟城消费人协会也在2018年财政预算案之前主张开征，作为向最富裕群体征收税收的一种方式。但每一次，相关提案都被驳回或搁置。税务专家一贯反对，理由是继承税会与马来西亚已征收的税种——印花税与不动产利得税——重叠，并可能抑制投资。2025年财政预算案之前再度出现相关猜测，但并无具体提案随之而来；2026年财政预算案（于2025年10月10日提呈）同样未开征任何此类税——其唯一真正新增的税种是自2026年起对钢铁与能源行业征收的碳税。截至本指南发布之日，不存在也未计划开征任何继承税、遗产税或死亡税。
+重新开征继承税的想法时不时会浮现。2016年和2017年前后曾传出重新开征的传闻（社交媒体上流传的未经证实的消息将税率定为10%），槟城消费人协会也在2018年财政预算案之前主张开征，作为向最富裕群体征收税收的一种方式。但每一次，相关提案都被驳回或搁置。税务专家一贯反对，理由是继承税会与马来西亚已征收的税种——印花税与不动产利得税——重叠，并可能抑制投资。2025年财政预算案之前再度出现相关猜测，但并无具体提案随之而来；2026年财政预算案（于2025年10月10日提呈）同样未开征任何此类税——其唯一真正新增的税种是针对钢铁与能源行业的碳税——原定于2026年开征，但已[于2026年10月5日延后](/taxation/carbon-tax-malaysia)。截至本指南发布之日，不存在也未计划开征任何继承税、遗产税或死亡税。
 
 那么，既然继承本身没有税，税究竟在哪里进入这幅图景？在三个环节，且全都关乎*收入与利得*，而非财富的转移。
 

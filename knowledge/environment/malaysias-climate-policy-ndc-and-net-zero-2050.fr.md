@@ -18,7 +18,7 @@ keyTakeaways:
   - "La réduction se répartit en 20 MtéqCO₂ inconditionnels et 10 MtéqCO₂ supplémentaires conditionnés à un financement climatique international, à un transfert de technologie et à un renforcement des capacités."
   - "Les émissions devraient atteindre leur pic entre 2029 et 2034 ; la Malaisie s'engage à atteindre le pic au plus tard en 2034 et aspire à l'atteindre d'ici 2030 si le soutien le permet."
   - "La Politique nationale sur le changement climatique 2.0 est la politique globale ; des émissions nettes nulles de gaz à effet de serre pour 2050 sont l'aspiration à long terme."
-  - "Une loi sur le changement climatique est en cours de rédaction pour créer un référentiel de données, un cadre de notification MMRV, un Fonds national pour le climat et un système national d'échange de quotas d'émission ; une taxe carbone pour le fer, l'acier et l'énergie est prévue pour 2026."
+  - "Une loi sur le changement climatique est en cours de rédaction pour créer un référentiel de données, un cadre de notification MMRV, un Fonds national pour le climat et un système national d'échange de quotas d'émission ; une taxe carbone pour le fer, l'acier et l'énergie était prévue pour 2026 mais a été reportée le 5 octobre 2026."
 appliesTo: "Équipes de durabilité et ESG des entreprises, sociétés de l'énergie et de la manufacture dans les secteurs difficiles à décarboner, investisseurs et analystes suivant les marchés carbone malaisiens, chercheurs en politiques publiques, étudiants, et toute personne cherchant à comprendre où en est la Malaisie en matière de climat."
 
 faq:
@@ -31,12 +31,12 @@ faq:
   - q: "Qu'est-ce que la loi sur le changement climatique et est-elle déjà en vigueur ?"
     a: "C'est une loi-cadre proposée visant à donner force juridique aux engagements climatiques de la Malaisie — un référentiel national de données climatiques, un cadre obligatoire de mesure-surveillance-notification-et-vérification (MMRV), un Fonds national pour le climat et un système national d'échange de quotas d'émission. Selon les informations publiques les plus récentes, elle n'avait pas encore été promulguée ; un document de consultation a été publié en 2024 et le projet de loi était en préparation pour être présenté au Parlement."
   - q: "Y a-t-il une taxe carbone ou un marché carbone en Malaisie ?"
-    a: "Le gouvernement a annoncé une taxe carbone pour les industries du fer, de l'acier et de l'énergie devant entrer en vigueur en 2026, alignée sur une Politique nationale du marché carbone et le futur projet de loi sur le changement climatique. Dans le cadre du 13e Plan de la Malaisie (2026–2030), il entend aussi lancer un système national d'échange de quotas d'émission. La Malaisie compte en outre recourir à la coopération volontaire au titre de l'Article 6 de l'Accord de Paris."
+    a: "Le gouvernement a annoncé une taxe carbone pour les industries du fer, de l'acier et de l'énergie pour 2026, mais le 5 octobre 2026 le ministre du NRES l'a reportée — elle n'entrera pas en vigueur en 2026, et aucune nouvelle date d'entrée en vigueur n'a été fixée. Elle est alignée sur une Politique nationale du marché carbone et le futur projet de loi sur le changement climatique. Dans le cadre du 13e Plan de la Malaisie (2026–2030), le gouvernement entend aussi lancer un système national d'échange de quotas d'émission. La Malaisie compte en outre recourir à la coopération volontaire au titre de l'Article 6 de l'Accord de Paris."
   - q: "Quelles sont les parties conditionnelles de la CDN ?"
     a: "Sur l'objectif de 15–30 MtéqCO₂, jusqu'à 20 MtéqCO₂ sont inconditionnels — la Malaisie s'y engage quoi qu'il arrive. 10 MtéqCO₂ supplémentaires sont conditionnels, ce qui signifie qu'ils ne seront réalisés que si un financement climatique international, un transfert de technologie et un soutien au renforcement des capacités sont fournis."
 
 lang: "fr"
-sourceContentHash: "6a0b336c4432c9c8"
+sourceContentHash: "29ba93df6f074e81"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -45,15 +45,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: recorded that the carbon tax on iron, steel and energy, slated for 2026, was deferred on 5 October 2026 (will not take effect in 2026; no new start date) in the key takeaways, FAQ and body. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
+  - title: "Le gouvernement reporte la taxe carbone dans un contexte d'incertitudes mondiales (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "Troisième itération de la Contribution déterminée au niveau national de la Malaisie (CDN 3.0) (Malaysia's Third Iteration of the Nationally Determined Contribution (NDC 3.0))"
     url: "https://unfccc.int/sites/default/files/2025-10/Malaysia%20NDC%203.0%20to%20UNFCCC%202025%20final.pdf"
     publisher: "Convention-cadre des Nations unies sur les changements climatiques (UNFCCC)"
@@ -162,7 +170,7 @@ Une mise en garde importante : selon les informations publiques les plus récent
 
 Deux mécanismes distincts prennent forme, et il est facile de les confondre.
 
-Le premier est une **taxe carbone.** Le gouvernement a annoncé qu'une taxe carbone pour les **industries du fer, de l'acier et de l'énergie entrera en vigueur en 2026**, alignée sur une Politique nationale du marché carbone (Dasar Pasaran Karbon Kebangsaan) et le futur projet de loi sur le changement climatique. Une taxe fixe le *prix* de chaque tonne et laisse la quantité d'émissions s'ajuster.
+Le premier est une **taxe carbone.** Le gouvernement a annoncé qu'une taxe carbone pour les industries du fer, de l'acier et de l'énergie devait entrer en vigueur en 2026 — mais le **5 octobre 2026** le ministre du NRES l'a **reportée**, invoquant des tensions géopolitiques et la volatilité des prix de l'énergie ; elle n'entrera pas en vigueur en 2026, et aucune nouvelle date d'entrée en vigueur n'a été fixée. Elle est alignée sur une Politique nationale du marché carbone (Dasar Pasaran Karbon Kebangsaan) et le futur projet de loi sur le changement climatique. Une taxe fixe le *prix* de chaque tonne et laisse la quantité d'émissions s'ajuster.
 
 Le second est le **système national d'échange de quotas d'émission.** Dans le cadre du 13e Plan de la Malaisie (2026–2030), la Malaisie entend introduire la Politique nationale du marché carbone et lancer un SEQE national. Un SEQE plafonne la *quantité* d'émissions et laisse le marché fixer le prix, la loi sur le changement climatique en fournissant la base juridique.
 

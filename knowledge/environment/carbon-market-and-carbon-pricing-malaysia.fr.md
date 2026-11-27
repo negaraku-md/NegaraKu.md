@@ -12,24 +12,24 @@ mode: "practical"
 contentType: "faq"
 sensitivity: "none"
 
-answer: "La Malaisie n'a pas encore de prix du carbone à l'échelle de l'économie. Le carbone s'échange actuellement de façon volontaire sur la Bursa Carbon Exchange, tandis que la Politique nationale du marché du carbone (lancée le 21 avril 2026) établit le cadre d'un futur marché de conformité. Une taxe carbone sur le fer, l'acier et l'énergie ainsi qu'un système national d'échange de quotas d'émission sont prévus mais, selon The Edge Malaysia, la taxe carbone était suspendue à la mi-2026 dans l'attente du projet de loi sur le changement climatique."
+answer: "La Malaisie n'a pas encore de prix du carbone à l'échelle de l'économie. Le carbone s'échange actuellement de façon volontaire sur la Bursa Carbon Exchange, tandis que la Politique nationale du marché du carbone (lancée le 21 avril 2026) établit le cadre d'un futur marché de conformité. Une taxe carbone sur le fer, l'acier et l'énergie ainsi qu'un système national d'échange de quotas d'émission sont prévus mais, le 5 octobre 2026, le ministre du NRES a annoncé que la taxe carbone avait été reportée et ne serait pas mise en œuvre en 2026, dans l'attente du projet de loi sur le changement climatique."
 keyTakeaways:
   - "La Politique nationale du marché du carbone a été lancée par le NRES le 21 avril 2026, après l'approbation du Cabinet le 1er avril 2026."
   - "La Bursa Carbon Exchange est un marché volontaire ; sa vente aux enchères inaugurale du 16 mars 2023 a écoulé 150,000 crédits, au prix de clôture de RM18.50 (GTC) et RM68.00 (GNC+)."
-  - "Une taxe carbone sur les secteurs du fer, de l'acier et de l'énergie, initialement prévue pour 2026, a été signalée par The Edge Malaysia comme suspendue en 2026."
+  - "Une taxe carbone sur les secteurs du fer, de l'acier et de l'énergie, initialement prévue pour 2026, a été reportée le 5 octobre 2026 par le ministre du NRES et ne sera pas introduite en 2026 ; aucune nouvelle date de début n'a été fixée."
   - "La loi CCUS de 2025 (Act 870) a été promulguée le 22 juillet 2025 et crée l'Agence CCUS de Malaisie (MCCA)."
 appliesTo: "Entreprises, équipes de durabilité, investisseurs et observateurs des politiques qui suivent la façon dont la Malaisie tarifie et échange le carbone."
 
 faq:
   - q: "La Malaisie a-t-elle une taxe carbone ?"
-    a: "Pas encore. Une taxe carbone sur les secteurs du fer, de l'acier et de l'énergie a été annoncée pour 2026, mais The Edge Malaysia a rapporté que sa mise en œuvre était suspendue en raison de tensions géopolitiques et pour éviter des pressions de coûts supplémentaires sur la population et les industries, dans l'attente du projet de loi sur le changement climatique."
+    a: "Pas encore. Une taxe carbone sur les secteurs du fer, de l'acier et de l'énergie a été annoncée pour 2026, mais le 5 octobre 2026, le ministre du NRES, Datuk Seri Arthur Joseph Kurup, a annoncé qu'elle avait été reportée et ne serait pas mise en œuvre en 2026, invoquant des tensions géopolitiques et la volatilité des prix de l'énergie. Aucune nouvelle date de début n'a été fixée, et le déploiement reste séquencé après la Politique nationale du marché du carbone et le projet de loi sur le changement climatique en attente."
   - q: "Où peut-on échanger des crédits carbone en Malaisie ?"
     a: "Sur la Bursa Carbon Exchange (BCX), un marché volontaire exploité par Bursa Malaysia Carbon Market Sdn Bhd, proposant des ventes aux enchères, des échanges en continu et des transactions hors marché."
   - q: "Qu'est-ce que la Politique nationale du marché du carbone ?"
     a: "Un cadre lancé par le NRES le 21 avril 2026 pour construire un marché du carbone de haute intégrité, un registre national du carbone et des systèmes de suivi avant l'introduction d'instruments de tarification de conformité."
 
 lang: "fr"
-sourceContentHash: "da637e665e1a9fd4"
+sourceContentHash: "3f730671ca2c2681"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -38,20 +38,28 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 verificationNeeded:
   - "Whether the Bursa Carbon Exchange restricts listings to Verra-issued projects from 2016 onwards (claim removed pending a primary BCX/Bursa Malaysia source; the cited BCX About page does not state this)."
   - "The current list and count of Malaysian-origin projects listed on the BCX (e.g. the Kuamut Rainforest Conservation Project), with a dated authoritative source (claim removed pending verification)."
-  - "The exact tabling date and status of the National Climate Change Bill (The Edge reported it was expected to be tabled in July 2026)."
-  - "Whether the carbon tax remains on hold after the Climate Change Bill is tabled, and the latest official status from NRES / Ministry of Finance."
+  - "The exact tabling date and status of the National Climate Change Bill (The Edge reported it was expected to be tabled in July 2026; the NRES Minister said on 5 October 2026 he hoped it could be tabled soon)."
+  - "Whether a new carbon-tax start date is set following the 5 October 2026 deferral — none had been announced as of this pass, including in Budget 2027."
 revisions:
   - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: replaced the 'on hold as of mid-2026' framing with the deferral the NRES Minister announced on 5 October 2026 (carbon tax will not be implemented in 2026; no new start date; Budget 2027 set none) in the answer, key takeaways, FAQ and body. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-07-28
+updated: 2026-11-27
 sources:
+  - title: "Le gouvernement reporte la taxe carbone face aux incertitudes mondiales (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "La Politique nationale du marché du carbone est lancée pour guider l'écosystème du marché du carbone de la Malaisie (National Carbon Market Policy launched to guide Malaysia's carbon market ecosystem)"
     url: "https://theedgemalaysia.com/node/800680"
     publisher: "The Edge Malaysia"
@@ -117,7 +125,7 @@ Quinze entités commerciales locales — institutions financières et entreprise
 
 Deux instruments de conformité sont prévus :
 
-- **Taxe carbone.** Annoncée pour les secteurs du fer, de l'acier et de l'énergie d'ici 2026, mais — selon The Edge Malaysia — sa mise en œuvre a été **suspendue** en raison de tensions géopolitiques et pour éviter des pressions de coûts supplémentaires sur la population et les industries.
+- **Taxe carbone.** Annoncée pour les secteurs du fer, de l'acier et de l'énergie d'ici 2026, mais le **5 octobre 2026**, le ministre du NRES, Datuk Seri Arthur Joseph Kurup, a déclaré qu'elle avait été **reportée** et ne serait pas mise en œuvre en 2026, invoquant des tensions géopolitiques et la volatilité des prix de l'énergie. Aucune nouvelle date de début n'a été fixée, et le Budget 2027 (déposé le 9 octobre 2026) n'en a pas annoncé. Voir [la taxe carbone différée de la Malaisie](/taxation/carbon-tax-malaysia) pour le détail.
 - **Système national d'échange de quotas d'émission (DETS).** Le prochain projet de loi sur le changement climatique devrait fournir la base juridique d'un DETS, à développer après la taxe carbone. Le 13e Plan de la Malaisie (2026–2030) s'engage à le lancer.
 
 ## Où s'inscrit le captage du carbone ?

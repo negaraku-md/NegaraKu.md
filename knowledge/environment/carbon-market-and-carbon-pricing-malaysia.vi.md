@@ -12,24 +12,24 @@ mode: "practical"
 contentType: "faq"
 sensitivity: "none"
 
-answer: "Malaysia vẫn chưa có một mức giá carbon trên toàn bộ nền kinh tế. Carbon hiện được giao dịch tự nguyện trên Bursa Carbon Exchange, trong khi Chính sách Thị trường Carbon Quốc gia (ra mắt ngày 21 tháng 4 năm 2026) đặt khung cho một thị trường tuân thủ trong tương lai. Một thuế carbon đối với sắt, thép và năng lượng cùng một chương trình mua bán phát thải trong nước được lên kế hoạch nhưng, theo The Edge Malaysia, thuế carbon bị tạm hoãn tính đến giữa năm 2026 trong khi chờ Dự luật Biến đổi Khí hậu."
+answer: "Malaysia vẫn chưa có một mức giá carbon trên toàn bộ nền kinh tế. Carbon hiện được giao dịch tự nguyện trên Bursa Carbon Exchange, trong khi Chính sách Thị trường Carbon Quốc gia (ra mắt ngày 21 tháng 4 năm 2026) đặt khung cho một thị trường tuân thủ trong tương lai. Một thuế carbon đối với sắt, thép và năng lượng cùng một chương trình mua bán phát thải trong nước được lên kế hoạch nhưng, vào ngày 5 tháng 10 năm 2026, Bộ trưởng NRES đã công bố rằng thuế carbon đã bị hoãn và sẽ không được đưa vào áp dụng trong năm 2026, trong khi chờ Dự luật Biến đổi Khí hậu."
 keyTakeaways:
   - "Chính sách Thị trường Carbon Quốc gia được NRES ra mắt vào ngày 21 tháng 4 năm 2026, sau khi Nội các phê duyệt vào ngày 1 tháng 4 năm 2026."
   - "Bursa Carbon Exchange là một thị trường tự nguyện; phiên đấu giá khai mạc của nó vào ngày 16 tháng 3 năm 2023 đã bán 150.000 tín chỉ, chốt ở mức RM18.50 (GTC) và RM68.00 (GNC+)."
-  - "Một thuế carbon đối với các lĩnh vực sắt, thép và năng lượng, ban đầu được ấn định cho năm 2026, được The Edge Malaysia đưa tin là bị tạm hoãn tính đến năm 2026."
+  - "Một thuế carbon đối với các lĩnh vực sắt, thép và năng lượng, ban đầu được ấn định cho năm 2026, đã bị Bộ trưởng NRES hoãn vào ngày 5 tháng 10 năm 2026 và sẽ không được giới thiệu trong năm 2026; chưa có mốc khởi động mới nào được đặt ra."
   - "Đạo luật CCUS 2025 (Act 870) được ban hành vào ngày 22 tháng 7 năm 2025 và thành lập Cơ quan CCUS Malaysia (MCCA)."
 appliesTo: "Doanh nghiệp, các nhóm bền vững, nhà đầu tư và người theo dõi chính sách đang theo dõi cách Malaysia định giá và giao dịch carbon."
 
 faq:
   - q: "Malaysia có thuế carbon không?"
-    a: "Chưa. Một thuế carbon đối với các lĩnh vực sắt, thép và năng lượng được công bố cho năm 2026, nhưng The Edge Malaysia đưa tin rằng việc triển khai nó bị tạm hoãn do các căng thẳng địa chính trị và để tránh các áp lực chi phí bổ sung lên người dân và các ngành, trong khi chờ Dự luật Biến đổi Khí hậu."
+    a: "Chưa. Một thuế carbon đối với các lĩnh vực sắt, thép và năng lượng được công bố cho năm 2026, nhưng vào ngày 5 tháng 10 năm 2026, Bộ trưởng NRES, Datuk Seri Arthur Joseph Kurup, đã công bố rằng nó đã bị hoãn và sẽ không được đưa vào áp dụng trong năm 2026, viện dẫn các căng thẳng địa chính trị và giá năng lượng biến động. Chưa có mốc khởi động mới nào được đặt ra, và việc triển khai vẫn được sắp xếp sau Chính sách Thị trường Carbon Quốc gia và Dự luật Biến đổi Khí hậu đang chờ."
   - q: "Tín chỉ carbon có thể được giao dịch ở đâu tại Malaysia?"
     a: "Trên Bursa Carbon Exchange (BCX), một thị trường tự nguyện do Bursa Malaysia Carbon Market Sdn Bhd vận hành, cung cấp đấu giá, giao dịch liên tục và các giao dịch ngoài sàn."
   - q: "Chính sách Thị trường Carbon Quốc gia là gì?"
     a: "Một khung do NRES ra mắt vào ngày 21 tháng 4 năm 2026 để xây dựng một thị trường carbon có tính toàn vẹn cao, một sổ đăng ký carbon quốc gia và các hệ thống giám sát trước khi các công cụ định giá tuân thủ được giới thiệu."
 
 lang: "vi"
-sourceContentHash: "da637e665e1a9fd4"
+sourceContentHash: "3f730671ca2c2681"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -38,20 +38,28 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 verificationNeeded:
   - "Liệu Bursa Carbon Exchange có hạn chế các niêm yết chỉ cho các dự án do Verra cấp từ năm 2016 trở đi hay không (tuyên bố đã bị gỡ bỏ trong khi chờ một nguồn sơ cấp của BCX/Bursa Malaysia; trang Giới thiệu BCX được dẫn không nêu điều này)."
   - "Danh sách và số lượng hiện tại của các dự án có nguồn gốc Malaysia được niêm yết trên BCX (ví dụ Dự án Bảo tồn Rừng mưa Kuamut), với một nguồn có thẩm quyền đề ngày (tuyên bố đã bị gỡ bỏ trong khi chờ xác minh)."
-  - "Ngày trình chính xác và tình trạng của Dự luật Biến đổi Khí hậu Quốc gia (The Edge đưa tin nó được dự kiến trình vào tháng 7 năm 2026)."
-  - "Liệu thuế carbon có còn bị tạm hoãn sau khi Dự luật Biến đổi Khí hậu được trình hay không, và tình trạng chính thức mới nhất từ NRES / Bộ Tài chính."
+  - "Ngày trình chính xác và tình trạng của Dự luật Biến đổi Khí hậu Quốc gia (The Edge đưa tin nó được dự kiến trình vào tháng 7 năm 2026; Bộ trưởng NRES cho biết vào ngày 5 tháng 10 năm 2026 rằng ông hy vọng nó có thể được trình sớm)."
+  - "Liệu một mốc khởi động thuế carbon mới có được đặt ra sau khi bị hoãn vào ngày 5 tháng 10 năm 2026 hay không — chưa có mốc nào được công bố tính đến lần rà soát này, kể cả trong Ngân sách 2027."
 revisions:
   - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: replaced the 'on hold as of mid-2026' framing with the deferral the NRES Minister announced on 5 October 2026 (carbon tax will not be implemented in 2026; no new start date; Budget 2027 set none) in the answer, key takeaways, FAQ and body. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-07-28
+updated: 2026-11-27
 sources:
+  - title: "Chính phủ hoãn thuế carbon giữa những bất ổn toàn cầu (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "Chính sách Thị trường Carbon Quốc gia được ra mắt để định hướng hệ sinh thái thị trường carbon của Malaysia (National Carbon Market Policy launched to guide Malaysia's carbon market ecosystem)"
     url: "https://theedgemalaysia.com/node/800680"
     publisher: "The Edge Malaysia"
@@ -117,7 +125,7 @@ Mười lăm pháp nhân doanh nghiệp trong nước — các định chế tà
 
 Hai công cụ tuân thủ được lên kế hoạch:
 
-- **Thuế carbon.** Được công bố cho các lĩnh vực sắt, thép và năng lượng vào năm 2026, nhưng — theo The Edge Malaysia — việc triển khai nó bị đặt **tạm hoãn** do các căng thẳng địa chính trị và để tránh các áp lực chi phí bổ sung lên người dân và các ngành.
+- **Thuế carbon.** Được công bố cho các lĩnh vực sắt, thép và năng lượng vào năm 2026, nhưng vào ngày **5 tháng 10 năm 2026**, Bộ trưởng NRES, Datuk Seri Arthur Joseph Kurup, cho biết nó đã bị **hoãn** và sẽ không được đưa vào áp dụng trong năm 2026, viện dẫn các căng thẳng địa chính trị và giá năng lượng biến động. Chưa có mốc khởi động mới nào được đặt ra, và Ngân sách 2027 (trình vào ngày 9 tháng 10 năm 2026) đã không công bố một mốc nào. Xem [Thuế carbon bị hoãn của Malaysia](/taxation/carbon-tax-malaysia) để biết chi tiết.
 - **Chương trình Mua bán Phát thải Trong nước (DETS).** Dự luật Biến đổi Khí hậu sắp tới được kỳ vọng cung cấp cơ sở pháp lý cho một DETS, được phát triển sau thuế carbon. Kế hoạch Malaysia lần thứ 13 (2026–2030) cam kết khởi động nó.
 
 ## Việc thu giữ carbon nằm ở đâu?

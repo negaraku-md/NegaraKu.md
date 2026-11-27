@@ -18,7 +18,7 @@ keyTakeaways:
   - "削減量は、無条件の20 MtCO₂eqと、国際的な気候資金、技術移転、能力構築を条件とするさらなる10 MtCO₂eqに分かれる。"
   - "排出量は2029年から2034年の間にピークを迎えると予測されている。マレーシアは遅くとも2034年までにピークに達することを約束し、支援が得られれば2030年までのピーク到達を目指す。"
   - "国家気候変動政策2.0が総括的な政策であり、2050年までの温室効果ガスのネットゼロ排出が長期的な目標である。"
-  - "気候変動法（Climate Change Act）は、データリポジトリ、MMRV報告枠組み、国家気候基金、国内排出量取引制度を創設するために起草中であり、鉄鋼・エネルギー分野を対象とする炭素税は2026年に予定されている。"
+  - "気候変動法（Climate Change Act）は、データリポジトリ、MMRV報告枠組み、国家気候基金、国内排出量取引制度を創設するために起草中であり、鉄鋼・エネルギー分野を対象とする炭素税は2026年に予定されていたが、2026年10月5日に先送りされた。"
 appliesTo: "企業のサステナビリティ・ESGチーム、難減排分野のエネルギー・製造企業、マレーシアの炭素市場を追う投資家やアナリスト、政策研究者、学生、そしてマレーシアの気候政策の立ち位置を理解したい人向け。"
 
 faq:
@@ -31,7 +31,7 @@ faq:
   - q: "気候変動法（Climate Change Act）とは何か、すでに法律になっているのか？"
     a: "これはマレーシアの気候公約に法的効力を与えることを意図した、提案段階の総括的な成文法である——国家気候データリポジトリ、強制的な測定・モニタリング・報告・検証（MMRV）枠組み、国家気候基金、そして国内排出量取引制度を含む。最新の公開情報の時点では、まだ制定されていない。2024年に協議文書が公表され、法案は国会への上程に向けて準備中であった。"
   - q: "マレーシアに炭素税や炭素市場はあるのか？"
-    a: "政府は、鉄鋼・エネルギー産業を対象とする炭素税を2026年に発効させると発表しており、国家炭素市場政策および策定中の気候変動法案（Climate Change Bill）と整合させる方針である。第13次マレーシア計画（2026–2030）の下では、国内排出量取引制度の開始も予定している。さらにマレーシアは、パリ協定第6条に基づく自主的協力の活用も意図している。"
+    a: "政府は鉄鋼・エネルギー産業を対象とする炭素税を2026年に導入すると発表したが、2026年10月5日に天然資源・環境持続可能性省（NRES）大臣がこれを先送りした——2026年中には発効せず、新たな開始時期も設定されていない。これは国家炭素市場政策および策定中の気候変動法案（Climate Change Bill）と整合している。第13次マレーシア計画（2026–2030）の下では、政府は国内排出量取引制度の開始も予定している。さらにマレーシアは、パリ協定第6条に基づく自主的協力の活用も意図している。"
   - q: "NDCのうち条件付きの部分とは？"
     a: "15–30 MtCO₂eqの目標のうち、最大20 MtCO₂eqは無条件であり、マレーシアはこれを状況にかかわらず約束している。さらなる10 MtCO₂eqは条件付きであり、国際的な気候資金、技術移転、能力構築支援が提供された場合にのみ実現される。"
 
@@ -44,16 +44,24 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: recorded that the carbon tax on iron, steel and energy, slated for 2026, was deferred on 5 October 2026 (will not take effect in 2026; no new start date) in the key takeaways, FAQ and body. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-08-01
-sourceContentHash: "6a0b336c4432c9c8"
+updated: 2026-11-27
+sourceContentHash: "29ba93df6f074e81"
 sources:
+  - title: "政府、世界的な不確実性の中で炭素税を先送り (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "マレーシアの国が決定する貢献（NDC）第3版（NDC 3.0） (Malaysia's Third Iteration of the Nationally Determined Contribution (NDC 3.0))"
     url: "https://unfccc.int/sites/default/files/2025-10/Malaysia%20NDC%203.0%20to%20UNFCCC%202025%20final.pdf"
     publisher: "United Nations Framework Convention on Climate Change (UNFCCC)"
@@ -162,7 +170,7 @@ NCCP 2.0が戦略であり、NDCが公約であるとすれば、気候変動法
 
 二つの異なる仕組みが形を成しつつあり、混同しやすい。
 
-第一は**炭素税**である。政府は、**鉄鋼・エネルギー産業を対象とする炭素税を2026年に発効させる**と発表しており、国家炭素市場政策（Dasar Pasaran Karbon Kebangsaan）および策定中の気候変動法案（Climate Change Bill）と整合させる方針である。税は各トンの*価格*を固定し、排出量そのものは変動するに任せる。
+第一は**炭素税**である。政府は、鉄鋼・エネルギー産業を対象とする炭素税を2026年に発効させると発表したが、**2026年10月5日**に天然資源・環境持続可能性省（NRES）大臣が、地政学的緊張とエネルギー価格の変動を理由にこれを**先送り**した——2026年中には発効せず、新たな開始時期も設定されていない。これは国家炭素市場政策（Dasar Pasaran Karbon Kebangsaan）および策定中の気候変動法案（Climate Change Bill）と整合している。税は各トンの*価格*を固定し、排出量そのものは変動するに任せる。
 
 第二は**国内排出量取引制度**である。第13次マレーシア計画（2026–2030）の下で、マレーシアは国家炭素市場政策を導入し、国内ETSを開始する意向である。ETSは排出の*量*に上限を設け、価格は市場に決定させる仕組みであり、その法的根拠は気候変動法によって与えられる。
 

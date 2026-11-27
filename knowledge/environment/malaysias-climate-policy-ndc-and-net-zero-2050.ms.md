@@ -18,7 +18,7 @@ keyTakeaways:
   - "Pengurangan itu terbahagi kepada 20 MtCO₂eq tanpa syarat dan 10 MtCO₂eq tambahan yang bersyarat kepada pembiayaan iklim antarabangsa, pemindahan teknologi dan pembinaan keupayaan."
   - "Pelepasan dijangka mencapai puncak antara 2029 dan 2034; Malaysia komited untuk mencapai puncak selewat-lewatnya pada 2034 dan beraspirasi mencapai puncak menjelang 2030 jika sokongan mengizinkan."
   - "Dasar Perubahan Iklim Negara 2.0 ialah dasar payung; pelepasan gas rumah hijau sifar bersih menjelang 2050 ialah aspirasi jangka panjang."
-  - "Akta Perubahan Iklim sedang digubal untuk mewujudkan repositori data, kerangka pelaporan MMRV, Dana Iklim Negara dan skim perdagangan pelepasan domestik; cukai karbon ke atas besi, keluli dan tenaga dijadualkan pada 2026."
+  - "Akta Perubahan Iklim sedang digubal untuk mewujudkan repositori data, kerangka pelaporan MMRV, Dana Iklim Negara dan skim perdagangan pelepasan domestik; cukai karbon ke atas besi, keluli dan tenaga dijadualkan pada 2026 tetapi ditangguhkan pada 5 Oktober 2026."
 appliesTo: "Pasukan kelestarian perniagaan dan ESG, firma tenaga dan pembuatan dalam sektor yang sukar dinyahkarbon, pelabur dan penganalisis yang menjejaki pasaran karbon Malaysia, penyelidik dasar, pelajar, dan sesiapa yang cuba memahami kedudukan Malaysia tentang iklim."
 
 faq:
@@ -31,12 +31,12 @@ faq:
   - q: "Apakah Akta Perubahan Iklim dan adakah ia sudah menjadi undang-undang?"
     a: "Ia merupakan statut payung yang dicadangkan bertujuan memberi kuasa perundangan kepada komitmen iklim Malaysia — repositori data iklim negara, kerangka pengukuran-pemantauan-pelaporan-dan-pengesahan (MMRV) yang wajib, Dana Iklim Negara dan skim perdagangan pelepasan domestik. Setakat maklumat awam terkini, ia masih belum digubal menjadi undang-undang; sebuah kertas perundingan dikeluarkan pada 2024 dan rang undang-undang itu sedang disediakan untuk dibentangkan di Parlimen."
   - q: "Adakah terdapat cukai karbon atau pasaran karbon di Malaysia?"
-    a: "Kerajaan telah mengumumkan cukai karbon ke atas industri besi, keluli dan tenaga yang akan berkuat kuasa pada 2026, selaras dengan Dasar Pasaran Karbon Kebangsaan dan Rang Undang-Undang Perubahan Iklim yang akan datang. Di bawah Rancangan Malaysia Ke-13 (2026–2030), ia juga berhasrat melancarkan skim perdagangan pelepasan domestik. Malaysia turut berhasrat menggunakan kerjasama sukarela di bawah Perkara 6 Perjanjian Paris."
+    a: "Kerajaan mengumumkan cukai karbon ke atas industri besi, keluli dan tenaga untuk 2026, tetapi pada 5 Oktober 2026 Menteri NRES menangguhkannya — ia tidak akan berkuat kuasa pada 2026, dan tiada tarikh mula baharu ditetapkan. Ia selaras dengan Dasar Pasaran Karbon Kebangsaan dan Rang Undang-Undang Perubahan Iklim yang akan datang. Di bawah Rancangan Malaysia Ke-13 (2026–2030), kerajaan juga berhasrat melancarkan skim perdagangan pelepasan domestik. Malaysia turut berhasrat menggunakan kerjasama sukarela di bawah Perkara 6 Perjanjian Paris."
   - q: "Apakah bahagian bersyarat dalam NDC?"
     a: "Daripada sasaran 15–30 MtCO₂eq, sehingga 20 MtCO₂eq adalah tanpa syarat — Malaysia komited kepadanya tanpa mengira keadaan. Sebanyak 10 MtCO₂eq tambahan adalah bersyarat, bermaksud ia hanya akan dicapai jika pembiayaan iklim antarabangsa, pemindahan teknologi dan sokongan pembinaan keupayaan disediakan."
 
 lang: "ms"
-sourceContentHash: "6a0b336c4432c9c8"
+sourceContentHash: "29ba93df6f074e81"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -45,15 +45,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: recorded that the carbon tax on iron, steel and energy, slated for 2026, was deferred on 5 October 2026 (will not take effect in 2026; no new start date) in the key takeaways, FAQ and body. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
+  - title: "Kerajaan menangguhkan cukai karbon dalam ketidakpastian global (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "Lelaran Ketiga Sumbangan Ditentukan Secara Nasional Malaysia (NDC 3.0) (Malaysia's Third Iteration of the Nationally Determined Contribution (NDC 3.0))"
     url: "https://unfccc.int/sites/default/files/2025-10/Malaysia%20NDC%203.0%20to%20UNFCCC%202025%20final.pdf"
     publisher: "United Nations Framework Convention on Climate Change (UNFCCC)"
@@ -162,7 +170,7 @@ Satu peringatan penting: setakat maklumat awam terkini, Akta itu **masih belum d
 
 Dua mekanisme berbeza sedang terbentuk, dan kedua-duanya mudah dikelirukan.
 
-Yang pertama ialah **cukai karbon.** Kerajaan mengumumkan bahawa cukai karbon ke atas **industri besi, keluli dan tenaga akan berkuat kuasa pada 2026**, selaras dengan Dasar Pasaran Karbon Kebangsaan dan Rang Undang-Undang Perubahan Iklim yang akan datang. Cukai menetapkan *harga* bagi setiap tan dan membiarkan kuantiti pelepasan menyesuaikan diri.
+Yang pertama ialah **cukai karbon.** Kerajaan mengumumkan bahawa cukai karbon ke atas industri besi, keluli dan tenaga akan berkuat kuasa pada 2026 — tetapi pada **5 Oktober 2026** Menteri NRES **menangguhkannya**, memetik ketegangan geopolitik dan harga tenaga yang tidak menentu; ia tidak akan berkuat kuasa pada 2026, dan tiada tarikh mula baharu ditetapkan. Ia selaras dengan Dasar Pasaran Karbon Kebangsaan dan Rang Undang-Undang Perubahan Iklim yang akan datang. Cukai menetapkan *harga* bagi setiap tan dan membiarkan kuantiti pelepasan menyesuaikan diri.
 
 Yang kedua ialah **skim perdagangan pelepasan domestik.** Di bawah Rancangan Malaysia Ke-13 (2026–2030), Malaysia berhasrat memperkenalkan Dasar Pasaran Karbon Kebangsaan dan melancarkan ETS domestik. ETS mengehadkan *kuantiti* pelepasan dan membiarkan pasaran menetapkan harga, dengan Akta Perubahan Iklim menyediakan asas perundangannya.
 

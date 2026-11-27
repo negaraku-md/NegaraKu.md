@@ -12,24 +12,24 @@ mode: "practical"
 contentType: "faq"
 sensitivity: "none"
 
-answer: "Malaysia belum memiliki harga karbon menyeluruh ekonomi. Karbon kini diperdagangkan secara sukarela di Bursa Karbon (Bursa Carbon Exchange), sementara Kebijakan Pasar Karbon Nasional (diluncurkan pada 21 April 2026) menetapkan kerangka untuk pasar kepatuhan di masa depan. Pajak karbon atas besi, baja dan energi serta skema perdagangan emisi domestik direncanakan tetapi, menurut The Edge Malaysia, pajak karbon itu ditunda hingga pertengahan 2026 sambil menunggu Rancangan Undang-Undang Perubahan Iklim."
+answer: "Malaysia belum memiliki harga karbon menyeluruh ekonomi. Karbon kini diperdagangkan secara sukarela di Bursa Karbon (Bursa Carbon Exchange), sementara Kebijakan Pasar Karbon Nasional (diluncurkan pada 21 April 2026) menetapkan kerangka untuk pasar kepatuhan di masa depan. Pajak karbon atas besi, baja dan energi serta skema perdagangan emisi domestik direncanakan tetapi, pada 5 Oktober 2026, Menteri NRES mengumumkan bahwa pajak karbon itu telah ditunda dan tidak akan dilaksanakan pada 2026, sambil menunggu Rancangan Undang-Undang Perubahan Iklim."
 keyTakeaways:
   - "Kebijakan Pasar Karbon Nasional diluncurkan oleh NRES pada 21 April 2026, setelah persetujuan Kabinet pada 1 April 2026."
   - "Bursa Karbon (Bursa Carbon Exchange) adalah pasar sukarela; lelang perdananya pada 16 Maret 2023 menjual 150,000 kredit, diselesaikan pada RM18.50 (GTC) dan RM68.00 (GNC+)."
-  - "Pajak karbon atas sektor besi, baja dan energi, yang awalnya dijadwalkan untuk 2026, dilaporkan oleh The Edge Malaysia sebagai ditunda hingga 2026."
+  - "Pajak karbon atas sektor besi, baja dan energi, yang awalnya dijadwalkan untuk 2026, ditunda pada 5 Oktober 2026 oleh Menteri NRES dan tidak akan diperkenalkan pada 2026; tidak ada tanggal mulai baru yang telah ditetapkan."
   - "CCUS Act 2025 (Act 870) disahkan pada 22 Juli 2025 dan mendirikan Agensi CCUS Malaysia (MCCA)."
 appliesTo: "Bisnis, tim keberlanjutan, investor dan pengamat kebijakan yang mengikuti cara Malaysia menetapkan harga dan memperdagangkan karbon."
 
 faq:
   - q: "Apakah Malaysia memiliki pajak karbon?"
-    a: "Belum. Pajak karbon atas sektor besi, baja dan energi diumumkan untuk 2026, tetapi The Edge Malaysia melaporkan bahwa pelaksanaannya ditunda menyusul ketegangan geopolitik dan untuk menghindari tekanan biaya tambahan kepada rakyat dan industri, sambil menunggu Rancangan Undang-Undang Perubahan Iklim."
+    a: "Belum. Pajak karbon atas sektor besi, baja dan energi diumumkan untuk 2026, tetapi pada 5 Oktober 2026 Menteri NRES, Datuk Seri Arthur Joseph Kurup, mengumumkan bahwa pajak itu telah ditunda dan tidak akan dilaksanakan pada 2026, dengan alasan ketegangan geopolitik dan harga energi yang bergejolak. Tidak ada tanggal mulai baru yang telah ditetapkan, dan pelaksanaannya tetap diurutkan setelah Kebijakan Pasar Karbon Nasional dan Rancangan Undang-Undang Perubahan Iklim yang masih menunggu."
   - q: "Di mana kredit karbon dapat diperdagangkan di Malaysia?"
     a: "Di Bursa Karbon (Bursa Carbon Exchange, BCX), sebuah pasar sukarela yang dioperasikan oleh Bursa Malaysia Carbon Market Sdn Bhd, menawarkan lelang, perdagangan berkelanjutan dan transaksi luar pasar."
   - q: "Apa itu Kebijakan Pasar Karbon Nasional?"
     a: "Sebuah kerangka yang diluncurkan oleh NRES pada 21 April 2026 untuk membangun pasar karbon berintegritas tinggi, daftar karbon nasional dan sistem pemantauan sebelum instrumen penetapan harga kepatuhan diperkenalkan."
 
 lang: "id"
-sourceContentHash: "da637e665e1a9fd4"
+sourceContentHash: "3f730671ca2c2681"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -38,20 +38,28 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 verificationNeeded:
   - "Apakah Bursa Carbon Exchange membatasi pencatatan pada proyek yang dikeluarkan Verra dari 2016 dan seterusnya (klaim dihapus sambil menunggu sumber utama BCX/Bursa Malaysia; halaman About BCX yang dikutip tidak menyatakannya)."
   - "Daftar dan jumlah terkini proyek asal Malaysia yang dicatatkan pada BCX (mis. Kuamut Rainforest Conservation Project), dengan sumber berwibawa bertanggal (klaim dihapus sambil menunggu verifikasi)."
-  - "Tanggal pengajuan tepat dan status National Climate Change Bill (The Edge melaporkan ini diperkirakan diajukan pada Juli 2026)."
-  - "Apakah pajak karbon tetap ditunda setelah Climate Change Bill diajukan, dan status resmi terkini dari NRES / Kementerian Keuangan."
+  - "Tanggal pengajuan tepat dan status National Climate Change Bill (The Edge melaporkan ini diperkirakan diajukan pada Juli 2026; Menteri NRES mengatakan pada 5 Oktober 2026 bahwa ia berharap RUU itu dapat segera diajukan)."
+  - "Apakah tanggal mulai pajak karbon baru ditetapkan setelah penundaan 5 Oktober 2026 — belum ada yang diumumkan hingga putaran ini, termasuk dalam Anggaran 2027."
 revisions:
   - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: replaced the 'on hold as of mid-2026' framing with the deferral the NRES Minister announced on 5 October 2026 (carbon tax will not be implemented in 2026; no new start date; Budget 2027 set none) in the answer, key takeaways, FAQ and body. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-07-28
+updated: 2026-11-27
 sources:
+  - title: "Pemerintah menunda pajak karbon di tengah ketidakpastian global (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "Kebijakan Pasar Karbon Nasional diluncurkan untuk memandu ekosistem pasar karbon Malaysia (National Carbon Market Policy launched to guide Malaysia's carbon market ecosystem)"
     url: "https://theedgemalaysia.com/node/800680"
     publisher: "The Edge Malaysia"
@@ -117,7 +125,7 @@ Lima belas entitas korporat lokal — institusi keuangan dan perusahaan terkait 
 
 Dua instrumen kepatuhan direncanakan:
 
-- **Pajak karbon.** Diumumkan untuk sektor besi, baja dan energi menjelang 2026, tetapi — menurut The Edge Malaysia — pelaksanaannya **ditunda** menyusul ketegangan geopolitik dan untuk menghindari tekanan biaya tambahan kepada rakyat dan industri.
+- **Pajak karbon.** Diumumkan untuk sektor besi, baja dan energi menjelang 2026, tetapi pada **5 Oktober 2026** Menteri NRES, Datuk Seri Arthur Joseph Kurup, mengatakan bahwa pajak itu telah **ditunda** dan tidak akan dilaksanakan pada 2026, dengan alasan ketegangan geopolitik dan harga energi yang bergejolak. Tidak ada tanggal mulai baru yang telah ditetapkan, dan Anggaran 2027 (disampaikan pada 9 Oktober 2026) tidak mengumumkannya. Lihat [pajak karbon Malaysia yang ditunda](/taxation/carbon-tax-malaysia) untuk rinciannya.
 - **Skema Perdagangan Emisi Domestik (DETS).** Rancangan Undang-Undang Perubahan Iklim yang akan datang diperkirakan menyediakan dasar hukum bagi sebuah DETS, yang akan dikembangkan setelah pajak karbon. Rancangan Malaysia Ke-13 (2026–2030) berkomitmen untuk meluncurkannya.
 
 ## Di mana letak penangkapan karbon?

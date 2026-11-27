@@ -12,17 +12,17 @@ mode: "practical"
 contentType: "faq"
 sensitivity: "none"
 
-answer: "Malaysia does not yet have an economy-wide carbon price. Carbon is currently traded voluntarily on the Bursa Carbon Exchange, while the National Carbon Market Policy (launched 21 April 2026) sets the framework for a future compliance market. A carbon tax on iron, steel and energy and a domestic emissions trading scheme are planned but, per The Edge Malaysia, the carbon tax was on hold as of mid-2026 pending the Climate Change Bill."
+answer: "Malaysia does not yet have an economy-wide carbon price. Carbon is currently traded voluntarily on the Bursa Carbon Exchange, while the National Carbon Market Policy (launched 21 April 2026) sets the framework for a future compliance market. A carbon tax on iron, steel and energy and a domestic emissions trading scheme are planned but, on 5 October 2026, the NRES Minister announced the carbon tax had been deferred and would not be implemented in 2026, pending the Climate Change Bill."
 keyTakeaways:
   - "The National Carbon Market Policy was launched by NRES on 21 April 2026, after Cabinet approval on 1 April 2026."
   - "The Bursa Carbon Exchange is a voluntary market; its inaugural auction on 16 March 2023 sold 150,000 credits, clearing at RM18.50 (GTC) and RM68.00 (GNC+)."
-  - "A carbon tax on iron, steel and energy sectors, originally slated for 2026, was reported by The Edge Malaysia to be on hold as of 2026."
+  - "A carbon tax on iron, steel and energy sectors, originally slated for 2026, was deferred on 5 October 2026 by the NRES Minister and will not be introduced in 2026; no new start date has been set."
   - "The CCUS Act 2025 (Act 870) was enacted on 22 July 2025 and establishes the Malaysia CCUS Agency (MCCA)."
 appliesTo: "Businesses, sustainability teams, investors and policy watchers tracking how Malaysia prices and trades carbon."
 
 faq:
   - q: "Does Malaysia have a carbon tax?"
-    a: "Not yet. A carbon tax on the iron, steel and energy sectors was announced for 2026, but The Edge Malaysia reported that its implementation was on hold due to geopolitical tensions and to avoid additional cost pressures on people and industries, pending the Climate Change Bill."
+    a: "Not yet. A carbon tax on the iron, steel and energy sectors was announced for 2026, but on 5 October 2026 the NRES Minister, Datuk Seri Arthur Joseph Kurup, announced it had been deferred and would not be implemented in 2026, citing geopolitical tensions and volatile energy prices. No new start date has been set, and roll-out remains sequenced after the National Carbon Market Policy and the pending Climate Change Bill."
   - q: "Where can carbon credits be traded in Malaysia?"
     a: "On the Bursa Carbon Exchange (BCX), a voluntary market operated by Bursa Malaysia Carbon Market Sdn Bhd, offering auction, continuous trading and off-market transactions."
   - q: "What is the National Carbon Market Policy?"
@@ -37,20 +37,28 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 verificationNeeded:
   - "Whether the Bursa Carbon Exchange restricts listings to Verra-issued projects from 2016 onwards (claim removed pending a primary BCX/Bursa Malaysia source; the cited BCX About page does not state this)."
   - "The current list and count of Malaysian-origin projects listed on the BCX (e.g. the Kuamut Rainforest Conservation Project), with a dated authoritative source (claim removed pending verification)."
-  - "The exact tabling date and status of the National Climate Change Bill (The Edge reported it was expected to be tabled in July 2026)."
-  - "Whether the carbon tax remains on hold after the Climate Change Bill is tabled, and the latest official status from NRES / Ministry of Finance."
+  - "The exact tabling date and status of the National Climate Change Bill (The Edge reported it was expected to be tabled in July 2026; the NRES Minister said on 5 October 2026 he hoped it could be tabled soon)."
+  - "Whether a new carbon-tax start date is set following the 5 October 2026 deferral — none had been announced as of this pass, including in Budget 2027."
 revisions:
   - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: replaced the 'on hold as of mid-2026' framing with the deferral the NRES Minister announced on 5 October 2026 (carbon tax will not be implemented in 2026; no new start date; Budget 2027 set none) in the answer, key takeaways, FAQ and body. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-07-28
+updated: 2026-11-27
 sources:
+  - title: "Govt defers carbon tax amid global uncertainties"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "National Carbon Market Policy launched to guide Malaysia's carbon market ecosystem"
     url: "https://theedgemalaysia.com/node/800680"
     publisher: "The Edge Malaysia"
@@ -116,7 +124,7 @@ Fifteen local corporate entities — financial institutions and government-linke
 
 Two compliance instruments are planned:
 
-- **Carbon tax.** Announced for the iron, steel and energy sectors by 2026, but — according to The Edge Malaysia — its implementation was placed **on hold** due to geopolitical tensions and to avoid additional cost pressures on people and industries.
+- **Carbon tax.** Announced for the iron, steel and energy sectors by 2026, but on **5 October 2026** the NRES Minister, Datuk Seri Arthur Joseph Kurup, said it had been **deferred** and would not be implemented in 2026, citing geopolitical tensions and volatile energy prices. No new start date has been set, and Budget 2027 (tabled 9 October 2026) did not announce one. See [Malaysia's deferred carbon tax](/taxation/carbon-tax-malaysia) for the detail.
 - **Domestic Emissions Trading Scheme (DETS).** The forthcoming Climate Change Bill is expected to provide the legal basis for a DETS, to be developed after the carbon tax. The 13th Malaysia Plan (2026–2030) commits to launching it.
 
 ## Where does carbon capture fit in?

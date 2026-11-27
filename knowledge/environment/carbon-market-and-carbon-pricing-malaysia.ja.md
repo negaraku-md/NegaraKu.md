@@ -12,24 +12,24 @@ mode: "practical"
 contentType: "faq"
 sensitivity: "none"
 
-answer: "マレーシアには、経済全体を対象とする炭素価格はまだ存在しない。炭素は現在、ブルサ・カーボン取引所（BCX）でボランタリーに取引されており、国家炭素市場政策（2026年4月21日に発表）が将来のコンプライアンス市場の枠組みを定めている。鉄鋼・エネルギー部門を対象とする炭素税と国内排出量取引制度が計画されているが、The Edge Malaysiaによれば、炭素税は2026年半ば時点で、気候変動法案（Climate Change Bill）の行方待ちで保留されていた。"
+answer: "マレーシアには、経済全体を対象とする炭素価格はまだ存在しない。炭素は現在、ブルサ・カーボン取引所（BCX）でボランタリーに取引されており、国家炭素市場政策（2026年4月21日に発表）が将来のコンプライアンス市場の枠組みを定めている。鉄鋼・エネルギー部門を対象とする炭素税と国内排出量取引制度が計画されているが、2026年10月5日、NRES相は、気候変動法案（Climate Change Bill）の行方待ちで、炭素税が先送りされ2026年中には実施されないと発表した。"
 keyTakeaways:
   - "国家炭素市場政策は、2026年4月1日の閣議承認を経て、2026年4月21日に天然資源・環境持続可能性省（NRES）により発表された。"
   - "ブルサ・カーボン取引所はボランタリー市場である。2023年3月16日の初回オークションで15万単位のクレジットを売却し、成約価格はRM18.50（GTC）およびRM68.00（GNC+）であった。"
-  - "鉄鋼・エネルギー部門を対象とする炭素税は、当初2026年の導入が予定されていたが、The Edge Malaysiaの報道によれば、2026年時点で保留となっている。"
+  - "鉄鋼・エネルギー部門を対象とする炭素税は、当初2026年の導入が予定されていたが、2026年10月5日にNRES相によって先送りされ、2026年中には導入されない。新たな開始時期は設定されていない。"
   - "2025年炭素回収・利用・貯留法（Act 870）は2025年7月22日に制定され、マレーシア炭素回収・利用・貯留庁（MCCA）を設立する。"
 appliesTo: "マレーシアがどのように炭素の価格付けと取引を行うかを注視する企業、サステナビリティ担当チーム、投資家、政策ウォッチャー向け。"
 
 faq:
   - q: "マレーシアに炭素税はあるか？"
-    a: "まだない。鉄鋼・エネルギー部門を対象とする炭素税は2026年の導入が発表されていたが、The Edge Malaysiaの報道によれば、地政学的緊張と、国民や産業への追加的なコスト圧力を避けるため、気候変動法案（Climate Change Bill）の行方待ちでその実施は保留されている。"
+    a: "まだない。鉄鋼・エネルギー部門を対象とする炭素税は2026年の導入が発表されていたが、2026年10月5日、NRES相のDatuk Seri Arthur Joseph Kurupは、地政学的緊張とエネルギー価格の変動を理由に、同税が先送りされ2026年中には実施されないと発表した。新たな開始時期は設定されておらず、導入は国家炭素市場政策および審議中の気候変動法案（Climate Change Bill）の後に順を追って進められる。"
   - q: "マレーシアではどこでカーボンクレジットを取引できるか？"
     a: "ブルサ・カーボン取引所（BCX）で取引できる。これはBursa Malaysia Carbon Market Sdn Bhdが運営するボランタリー市場であり、オークション、継続取引、場外取引の3方式を提供している。"
   - q: "国家炭素市場政策とは何か？"
     a: "コンプライアンス価格付け手段が導入される前に、高い誠実性を備えた炭素市場、国家炭素登録簿、モニタリング体制を構築するため、NRESが2026年4月21日に発表した枠組みである。"
 
 lang: "ja"
-sourceContentHash: "da637e665e1a9fd4"
+sourceContentHash: "3f730671ca2c2681"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -38,20 +38,28 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 verificationNeeded:
   - "ブルサ・カーボン取引所が、2016年以降にVerraが発行したプロジェクトのみに上場を限定しているかどうか（BCX／Bursa Malaysiaの一次資料が確認できないため、当該記載は削除済み。引用元のBCX Aboutページにはこの記載がない）。"
   - "BCXに上場されているマレーシア発祥プロジェクトの現在のリストと件数（例：Kuamut Rainforest Conservation Project）、および日付入りの権威ある出典（検証待ちのため当該記載は削除済み）。"
-  - "National Climate Change Billの正確な提出日と現在の状況（The Edgeは2026年7月に提出される見通しと報じた）。"
-  - "気候変動法案（Climate Change Bill）が提出された後も炭素税の保留が続くかどうか、およびNRES／財務省（Ministry of Finance）からの最新の公式見解。"
+  - "National Climate Change Billの正確な提出日と現在の状況（The Edgeは2026年7月に提出される見通しと報じた。NRES相は2026年10月5日、間もなく提出できることを望むと述べた）。"
+  - "2026年10月5日の先送りを受けて、新たな炭素税の開始時期が設定されたかどうか——本パス時点では、2027年予算案（Budget 2027）を含め、いずれも発表されていない。"
 revisions:
   - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: replaced the 'on hold as of mid-2026' framing with the deferral the NRES Minister announced on 5 October 2026 (carbon tax will not be implemented in 2026; no new start date; Budget 2027 set none) in the answer, key takeaways, FAQ and body. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-07-28
+updated: 2026-11-27
 sources:
+  - title: "政府、世界的な不確実性の中で炭素税を先送り (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "マレーシアの炭素市場エコシステムを導くため国家炭素市場政策が発表 (National Carbon Market Policy launched to guide Malaysia's carbon market ecosystem)"
     url: "https://theedgemalaysia.com/node/800680"
     publisher: "The Edge Malaysia"
@@ -117,7 +125,7 @@ NCMPは、まもなく提出される**気候変動法案（Climate Change Bill�
 
 二つのコンプライアンス手段が計画されている。
 
-- **炭素税。** 鉄鋼・エネルギー部門を対象に2026年までの導入が発表されていたが、The Edge Malaysiaによれば、地政学的緊張と、国民や産業への追加的なコスト圧力を避けるため、その実施は**保留**とされた。
+- **炭素税。** 鉄鋼・エネルギー部門を対象に2026年までの導入が発表されていたが、**2026年10月5日**、NRES相のDatuk Seri Arthur Joseph Kurupは、地政学的緊張とエネルギー価格の変動を理由に、同税が**先送り**され2026年中には実施されないと述べた。新たな開始時期は設定されておらず、2026年10月9日に提呈された2027年予算案（Budget 2027）でも発表されなかった。詳しくは[マレーシアの先送りされた炭素税](/taxation/carbon-tax-malaysia)を参照。
 - **国内排出量取引制度（Domestic Emissions Trading Scheme、DETS）。** まもなく提出される気候変動法案が、炭素税の後に整備されるDETSの法的根拠を与えると見込まれている。第13次マレーシア計画（2026年～2030年）は、その導入を公約している。
 
 ## 炭素回収はどこに位置づけられるか？

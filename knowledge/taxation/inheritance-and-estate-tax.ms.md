@@ -40,7 +40,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "41452eb0f37e297f"
+sourceContentHash: "4f17ffe66a193226"
 
 status: "published"
 aiAssisted: true
@@ -48,19 +48,27 @@ reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-08
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 verificationNeeded: []
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: corrected the incidental aside that the carbon tax runs 'from 2026' — it was announced for 2026 but deferred on 5 October 2026; added an internal link to the carbon-tax guide. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "Kematian individu (artikel teknikal cukai Malaysia) (Death of an individual (Malaysian tax technical article))"
     url: "https://www.accaglobal.com/gb/en/student/exam-support-resources/professional-exams-study-resources/p6/technical-articles/death.html"
     publisher: "ACCA Global"
+  - title: "Kerajaan menangguhkan cukai karbon dalam ketidakpastian global (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "Isu cukai warisan muncul semula di Malaysia (Question of inheritance tax resurfaces in Malaysia)"
     url: "https://theedgemalaysia.com/article/question-inheritance-tax-resurfaces-malaysia"
     publisher: "The Edge Malaysia"
@@ -123,7 +131,7 @@ Tidak. Malaysia tidak mengenakan sebarang cukai warisan, cukai harta pusaka, ata
 
 Sebelum pemansuhan, duti harta pusaka hanya terpakai kepada harta pusaka yang lebih besar. Ia dikenakan pada skala 0%, 5% dan 10%: harta pusaka bernilai RM2 juta atau ke bawah tidak membayar apa-apa, dan kadar tertinggi 10% terpakai kepada harta pusaka bernilai melebihi RM4 juta. Oleh sebab ambangnya tinggi dan duti hanya dicetuskan pada kematian, hasil yang dikumpulnya adalah sederhana — itulah sebab yang biasanya diberikan perunding cukai untuk pemansuhannya.
 
-Idea untuk membawa kembali cukai warisan muncul dari semasa ke semasa. Pengenalan semula dikhabarkan sekitar 2016 dan 2017 (mesej yang tidak disahkan yang tersebar di media sosial meletakkan kadarnya pada 10%), dan Persatuan Pengguna Pulau Pinang berhujah untuknya menjelang Bajet 2018 sebagai cara untuk menjana hasil daripada golongan terkaya. Setiap kali, cadangan itu telah ditolak atau ditangguhkan. Pakar cukai kerap membantah atas alasan bahawa cukai warisan akan bertindih dengan cukai yang sudah dikenakan Malaysia — duti setem dan cukai keuntungan harta tanah — dan boleh menghalang pelaburan. Pengenalan semula sekali lagi dispekulasikan menjelang Bajet 2025, tetapi tiada cadangan konkrit menyusul, dan Bajet 2026 (dibentangkan pada 10 Oktober 2025) juga tidak memperkenalkan apa-apa — satu-satunya cukai baharu yang benar-benar baharu ialah cukai karbon dari 2026 untuk sektor besi, keluli dan tenaga. Setakat tarikh panduan ini, tiada cukai warisan, duti harta pusaka atau cukai kematian wujud atau dijadualkan.
+Idea untuk membawa kembali cukai warisan muncul dari semasa ke semasa. Pengenalan semula dikhabarkan sekitar 2016 dan 2017 (mesej yang tidak disahkan yang tersebar di media sosial meletakkan kadarnya pada 10%), dan Persatuan Pengguna Pulau Pinang berhujah untuknya menjelang Bajet 2018 sebagai cara untuk menjana hasil daripada golongan terkaya. Setiap kali, cadangan itu telah ditolak atau ditangguhkan. Pakar cukai kerap membantah atas alasan bahawa cukai warisan akan bertindih dengan cukai yang sudah dikenakan Malaysia — duti setem dan cukai keuntungan harta tanah — dan boleh menghalang pelaburan. Pengenalan semula sekali lagi dispekulasikan menjelang Bajet 2025, tetapi tiada cadangan konkrit menyusul, dan Bajet 2026 (dibentangkan pada 10 Oktober 2025) juga tidak memperkenalkan apa-apa — satu-satunya cukai baharu yang benar-benar baharu ialah cukai karbon untuk sektor besi, keluli dan tenaga — diumumkan untuk 2026, tetapi [ditangguhkan pada 5 Oktober 2026](/taxation/carbon-tax-malaysia). Setakat tarikh panduan ini, tiada cukai warisan, duti harta pusaka atau cukai kematian wujud atau dijadualkan.
 
 Jadi jika tiada cukai ke atas warisan itu sendiri, di manakah cukai sebenarnya masuk dalam gambaran? Di tiga tempat, kesemuanya adalah mengenai *pendapatan dan keuntungan*, bukan pemindahan kekayaan.
 

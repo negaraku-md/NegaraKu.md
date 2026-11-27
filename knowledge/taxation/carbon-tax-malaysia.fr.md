@@ -1,24 +1,24 @@
 ---
 topicId: MY-TAX-0123
-title: "La future taxe carbone de la Malaisie sur le fer, l'acier et l'énergie"
+title: "La taxe carbone différée de la Malaisie sur le fer, l'acier et l'énergie"
 seoTitle: "Taxe carbone de la Malaisie : taux, secteurs et calendrier"
 slug: "carbon-tax-malaysia"
 category: "taxation"
 subcategory: ["carbon"]
-summary: "La Malaisie prévoit de tarifer le carbone pour la première fois, en commençant par ses secteurs du fer, de l'acier et de l'énergie. Aucun taux officiel n'a été confirmé, et le déploiement est lié à une nouvelle politique de marché du carbone et à un projet de loi sur le changement climatique en attente."
+summary: "La Malaisie prévoit de tarifer le carbone pour la première fois, en commençant par ses secteurs du fer, de l'acier et de l'énergie — mais le 5 octobre 2026, le gouvernement a reporté la taxe, qui ne sera pas introduite en 2026. Aucun taux officiel n'a été confirmé, et le déploiement est lié à une nouvelle politique de marché du carbone et à un projet de loi sur le changement climatique en attente."
 
 tier: "3"
 mode: "narrative"
 contentType: "news"
 sensitivity: "none"
 
-answer: "La Malaisie entend introduire une taxe carbone sur ses secteurs du fer, de l'acier et de l'énergie, annoncée pour la première fois dans le Budget 2025 et réaffirmée dans le Budget 2026 pour une introduction d'ici 2026. Le gouvernement n'a pas officiellement confirmé de taux ; certains médias et cabinets de conseil ont fait état d'un chiffre attendu de RM35-45 (US$8-11) par tonne, mais celui-ci n'est pas confirmé et d'autres estimations ont circulé. La mise en œuvre est alignée sur la Politique nationale du marché du carbone et un projet de loi sur le changement climatique en attente, et les autorités ont indiqué que le calendrier pourrait être réexaminé."
+answer: "La Malaisie a annoncé une taxe carbone sur ses secteurs du fer, de l'acier et de l'énergie dans le Budget 2025 et l'a réaffirmée dans le Budget 2026 pour une introduction d'ici 2026 — mais le 5 octobre 2026, le ministre des Ressources naturelles et de la Durabilité environnementale (NRES), Datuk Seri Arthur Joseph Kurup, a déclaré qu'elle avait été reportée et ne serait pas mise en œuvre en 2026, invoquant des tensions géopolitiques et la volatilité des prix de l'énergie. Aucune nouvelle date de début n'a été fixée, et le Budget 2027 (déposé le 9 octobre 2026) n'en a pas annoncé. Le gouvernement n'a pas confirmé de taux ; les médias et les cabinets de conseil ont fait état de chiffres d'environ RM35-45 (US$8-11) par tonne et, dans des analyses ultérieures, aussi bas qu'environ RM10, mais aucun n'est officiel. Le déploiement est séquencé après la Politique nationale du marché du carbone et le projet de loi sur le changement climatique en attente (RUU PIN)."
 keyTakeaways:
   - "La taxe vise d'abord trois secteurs difficiles à décarboner : le fer, l'acier et l'énergie."
-  - "Aucun taux officiel n'a été fixé ; RM35-45 (US$8-11) par tonne est un chiffre rapporté par les médias et les cabinets de conseil, et non un taux gouvernemental confirmé, et d'autres estimations ont circulé."
-  - "Elle a été annoncée dans le Budget 2025 (déposé le 18 octobre 2024) et réaffirmée dans le Budget 2026 (déposé le 10 octobre 2025) pour une introduction d'ici 2026."
+  - "Aucun taux officiel n'a été fixé ; RM35-45 (US$8-11) par tonne est un chiffre rapporté par les médias et les cabinets de conseil, et non un taux gouvernemental confirmé, et des analyses ultérieures ont évoqué des chiffres aussi bas qu'environ RM10."
+  - "Elle a été annoncée dans le Budget 2025 (déposé le 18 octobre 2024) et réaffirmée dans le Budget 2026 (déposé le 10 octobre 2025) pour une introduction d'ici 2026 — mais le 5 octobre 2026, le gouvernement l'a reportée, et elle ne sera pas introduite en 2026."
+  - "Aucune nouvelle date de début n'a été fixée ; le Budget 2027 (déposé le 9 octobre 2026) n'en a pas annoncé."
   - "Le déploiement est lié à la Politique nationale du marché du carbone et au projet de loi sur le changement climatique en attente (RUU PIN)."
-  - "Les autorités ont indiqué que le calendrier pourrait être réexaminé en raison de pressions géopolitiques et économiques."
 appliesTo: "Fabricants, exportateurs et équipes financières des industries malaisiennes du fer, de l'acier et de l'énergie, ainsi que les professionnels de la durabilité et de la fiscalité qui suivent la tarification du carbone."
 
 faq:
@@ -27,10 +27,12 @@ faq:
   - q: "Quels secteurs paient la taxe carbone en premier ?"
     a: "Les secteurs du fer, de l'acier et de l'énergie sont les premières cibles, choisis en tant qu'industries fortement émettrices et difficiles à décarboner."
   - q: "Quand la taxe carbone commence-t-elle ?"
-    a: "Son introduction a été annoncée pour 2026, bien que les autorités aient indiqué que le calendrier pourrait être réexaminé."
+    a: "Son introduction a été annoncée pour 2026, mais le 5 octobre 2026, le ministre du NRES, Datuk Seri Arthur Joseph Kurup, a annoncé qu'elle avait été reportée et ne serait pas mise en œuvre en 2026. Aucune nouvelle date de début n'a été fixée, et le Budget 2027 (déposé le 9 octobre 2026) n'en a pas annoncé."
+  - q: "Pourquoi la taxe carbone a-t-elle été reportée ?"
+    a: "Le 5 octobre 2026, le ministre du NRES a déclaré que le gouvernement l'avait reportée en raison de tensions géopolitiques et de la volatilité des prix de l'énergie, et pour donner un répit aux industries concernées le temps de mettre d'abord en place le cadre de soutien — y compris un plafond d'émissions au-delà duquel la taxe s'appliquerait comme une pénalité."
 
 lang: "fr"
-sourceContentHash: "1b480b649a14d8fe"
+sourceContentHash: "444da0adc4c2f238"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -39,21 +41,29 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: recorded the deferral announced on 5 October 2026 by the NRES Minister (carbon tax will not be implemented in 2026; no new start date; Budget 2027 set none) across the title, summary, answer, key takeaways, FAQ and body; added the emissions-ceiling-penalty mechanism he described; noted later analysis floating a rate as low as ~RM10; dated the National Carbon Market Policy launch (21 April 2026). Source: The Star, 5 October 2026."
+    reviewer: null
 
 verificationNeeded:
-  - "Aucun taux de taxe carbone officiel n'a été publié au journal officiel à ce jour. Le chiffre de RM35-45 (US$8-11)/tonne provient de médias et de cabinets de conseil et n'est pas confirmé ; d'autres estimations, plus basses, ont circulé dans des informations ultérieures. Un humain devrait confirmer le taux réel une fois publié."
+  - "Aucun taux de taxe carbone officiel n'a été publié au journal officiel à ce jour. Le chiffre de RM35-45 (US$8-11)/tonne provient de médias et de cabinets de conseil et n'est pas confirmé ; des analyses ultérieures ont évoqué des chiffres aussi bas qu'environ RM10. Un humain devrait confirmer le taux réel une fois publié."
   - "La sensibilité est définie sur « none », mais il s'agit d'un sujet de politique fiscale et climatique politiquement sensible. Un éditeur humain devrait confirmer si cette classification est appropriée."
-  - "Le statut parlementaire actuel et la fenêtre de dépôt prévue du projet de loi sur le changement climatique (RUU PIN)."
-  - "Si la date de début « d'ici 2026 » tient toujours, compte tenu des signaux officiels selon lesquels la mise en œuvre pourrait être réexaminée."
+  - "Le statut parlementaire actuel et la fenêtre de dépôt prévue du projet de loi sur le changement climatique (RUU PIN) ; le ministre du NRES a déclaré le 5 octobre 2026 qu'il espérait qu'il pourrait être déposé bientôt."
+  - "Si une nouvelle date de début de la taxe carbone est fixée à la suite du report du 5 octobre 2026 — aucune n'avait été annoncée lors de cette passe, y compris dans le Budget 2027."
 
-updated: 2026-08-07
+updated: 2026-11-27
 sources:
+  - title: "Le gouvernement reporte la taxe carbone face aux incertitudes mondiales (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "Budget 2025 : le gouvernement introduira une taxe carbone sur les industries du fer, de l'acier et de l'énergie d'ici 2026 (Budget 2025: Govt to introduce carbon tax on iron, steel and energy industries by 2026)"
     url: "https://www.mida.gov.my/mida-news/budget-2025-govt-to-introduce-carbon-tax-on-iron-steel-and-energy-industries-by-2026/"
     publisher: "Autorité malaisienne de développement des investissements (MIDA)"
@@ -91,9 +101,9 @@ keywords: ["taxe carbone Malaisie", "tarification du carbone Malaisie", "taxe ca
 framework: explainer
 ---
 
-La Malaisie se prépare à mettre un prix sur le carbone pour la première fois, et elle commence par les industries qui émettent le plus.
+La Malaisie se prépare à mettre un prix sur le carbone pour la première fois, et elle commence par les industries qui émettent le plus — mais ce premier pas a été repoussé.
 
-Le plan, annoncé pour la première fois dans le Budget 2025 et réaffirmé dans le Budget 2026, consiste à taxer les émissions de carbone des secteurs du fer, de l'acier et de l'énergie d'ici 2026. C'est un premier pas modeste, mais il marque un changement de politique : des émissions qui n'avaient pas de prix commenceraient à avoir un coût.
+Le plan, annoncé pour la première fois dans le Budget 2025 et réaffirmé dans le Budget 2026, visait à taxer les émissions de carbone des secteurs du fer, de l'acier et de l'énergie d'ici 2026. C'est un premier pas modeste, et il marque un changement de politique : des émissions qui n'avaient pas de prix commenceraient à avoir un coût. En octobre 2026, cependant, le gouvernement a **reporté** la taxe — elle ne prendra pas effet en 2026, et aucune nouvelle date de début n'a été fixée.
 
 ## Qui paiera la taxe carbone de la Malaisie en premier ?
 
@@ -114,22 +124,24 @@ Les sources officielles sont explicites sur ce point. L'annonce de la MIDA n'a p
 
 Traitez la fourchette de RM35-45 comme une hypothèse de planification non confirmée plutôt que comme un chiffre inscrit dans la loi. Certaines informations ultérieures ont pointé vers des chiffres différents — et parfois plus bas —, ce qui renforce l'idée que le taux n'est pas encore arrêté.
 
-## Quand commence-t-elle — et pourquoi la prudence ?
+## Quand commence-t-elle — et pourquoi le report ?
 
 La mesure a été annoncée lors du dépôt du Budget 2025, le 18 octobre 2024, et réaffirmée lors du dépôt du Budget 2026, le 10 octobre 2025, les deux fois pour une introduction « d'ici 2026 ».
 
-Mais le calendrier n'est pas verrouillé. Les autorités ont indiqué que la mise en œuvre pourrait être réexaminée en raison de vents contraires géopolitiques et économiques. Le message constant du ministère des Ressources naturelles et de la Durabilité environnementale (NRES) est qu'un marché du carbone opérationnel et des données d'émissions fiables devraient précéder une taxe punitive.
+Cette date de début a désormais glissé. Le **5 octobre 2026**, le ministre des Ressources naturelles et de la Durabilité environnementale (NRES), **Datuk Seri Arthur Joseph Kurup**, a déclaré que la taxe carbone avait été **reportée** et ne serait **pas mise en œuvre en 2026**, invoquant des tensions géopolitiques — en particulier en Asie de l'Ouest — et la volatilité des prix de l'énergie, ainsi que la nécessité de donner un répit aux industries concernées. Le Budget 2027, déposé quatre jours plus tard, le **9 octobre 2026**, n'a pas fixé de nouvelle date de début.
+
+Le message sur l'enchaînement reste constant : un marché du carbone opérationnel et des données d'émissions fiables devraient précéder une taxe punitive. Le ministre a indiqué que le gouvernement mettrait d'abord en place le cadre et fixerait un **plafond d'émissions**, la taxe carbone s'appliquant ensuite comme une pénalité sur les émissions *au-delà* de ce plafond.
 
 ## Comment s'inscrit-elle dans le plan climatique plus large de la Malaisie ?
 
 La taxe est un élément d'une architecture plus vaste construite en parallèle :
 
-- **Politique nationale du marché du carbone (NCMP)** — lancée par le NRES pour établir un cadre d'échange de crédits carbone en amont de la taxe.
-- **Projet de loi sur le changement climatique (RUU PIN)** — en voie de dépôt au Parlement ; il vise à mettre en place un système de surveillance, de notification et de vérification (MRV) et la base juridique d'un futur système d'échange de quotas d'émission.
+- **Politique nationale du marché du carbone (NCMP)** — lancée par le NRES le 21 avril 2026 (après l'approbation du Cabinet le 1er avril 2026) pour établir un cadre d'échange de crédits carbone en amont de la taxe.
+- **Projet de loi sur le changement climatique (RUU PIN)** — pas encore déposé ; le 5 octobre 2026, le ministre du NRES a déclaré qu'il espérait qu'il pourrait être déposé bientôt. Il vise à mettre en place un système de surveillance, de notification et de vérification (MRV) et la base juridique d'un futur système d'échange de quotas d'émission.
 - **Fonds national de transition énergétique (NETF)** — doté de RM150 millions dans le Budget 2026 pour soutenir la [Feuille de route nationale de transition énergétique](/energy/national-energy-transition-roadmap-netr), vers laquelle les recettes du carbone devraient affluer.
 
 Ensemble, ces éléments soutiennent les objectifs de la Malaisie d'une réduction de 45 % de l'intensité carbone de l'ensemble de l'économie d'ici 2030 (par rapport à 2005) et de la neutralité carbone d'ici 2050, selon le traceur de l'ICAP.
 
 ## Et ensuite
 
-Surveillez trois choses : l'arrivée du projet de loi sur le changement climatique au Parlement, la publication d'un taux officiel enfin arrêté, et la confirmation de la date de début. Tant que le taux n'est pas publié au journal officiel, tout chiffre précis en ringgit — y compris RM35-45 — reste non confirmé. Cette page sera mise à jour à mesure que la politique sera confirmée.
+La taxe étant reportée, surveillez trois choses : la fixation d'une **nouvelle date de début** après le report, l'arrivée du **projet de loi sur le changement climatique** au Parlement, et la publication d'un **taux officiel** enfin arrêté. Tant que le taux n'est pas publié au journal officiel, tout chiffre précis en ringgit — RM35-45 ou le ~RM10 plus bas évoqué dans des analyses ultérieures — reste non confirmé. Cette page sera mise à jour à mesure que la politique sera confirmée.

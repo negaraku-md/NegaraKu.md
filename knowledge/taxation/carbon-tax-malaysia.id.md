@@ -1,24 +1,24 @@
 ---
 topicId: MY-TAX-0123
-title: "Pajak Karbon Malaysia yang Akan Diterapkan atas Besi, Baja, dan Energi"
+title: "Pajak Karbon Malaysia yang Ditunda atas Besi, Baja, dan Energi"
 seoTitle: "Pajak Karbon Malaysia: Tarif, Sektor, dan Lini Masa"
 slug: "carbon-tax-malaysia"
 category: "taxation"
 subcategory: ["carbon"]
-summary: "Malaysia merencanakan untuk menetapkan harga atas karbon untuk pertama kalinya, dimulai dengan sektor besi, baja, dan energi. Tidak ada tarif resmi yang telah dipastikan, dan pelaksanaannya dikaitkan dengan kebijakan pasar karbon baru serta Rancangan Undang-Undang Perubahan Iklim yang masih menunggu."
+summary: "Malaysia merencanakan untuk menetapkan harga atas karbon untuk pertama kalinya, dimulai dengan sektor besi, baja, dan energi — tetapi pada 5 Oktober 2026 pemerintah menunda pajak tersebut, dan ia tidak akan diperkenalkan pada 2026. Tidak ada tarif resmi yang telah dipastikan, dan pelaksanaannya dikaitkan dengan kebijakan pasar karbon baru serta Rancangan Undang-Undang Perubahan Iklim yang masih menunggu."
 
 tier: "3"
 mode: "narrative"
 contentType: "news"
 sensitivity: "none"
 
-answer: "Malaysia bermaksud memperkenalkan pajak karbon atas sektor besi, baja, dan energinya, yang pertama kali diumumkan dalam Anggaran 2025 dan ditegaskan kembali dalam Anggaran 2026 untuk diperkenalkan menjelang 2026. Pemerintah belum memastikan tarif secara resmi; sebagian liputan media dan penasihat melaporkan angka yang diperkirakan sebesar RM35-45 (US$8-11) per ton, tetapi ini belum dipastikan dan estimasi lain turut beredar. Pelaksanaannya sedang diselaraskan dengan Kebijakan Pasar Karbon Nasional dan Rancangan Undang-Undang Perubahan Iklim yang masih menunggu, dan pejabat telah mengisyaratkan bahwa penetapan waktunya mungkin dikaji ulang."
+answer: "Malaysia mengumumkan pajak karbon atas sektor besi, baja, dan energinya dalam Anggaran 2025 dan menegaskannya kembali dalam Anggaran 2026 untuk diperkenalkan menjelang 2026 — tetapi pada 5 Oktober 2026 Menteri Sumber Daya Alam dan Kelestarian Lingkungan (NRES), Datuk Seri Arthur Joseph Kurup, mengatakan bahwa pajak itu telah ditunda dan tidak akan dilaksanakan pada 2026, dengan alasan ketegangan geopolitik dan harga energi yang bergejolak. Tidak ada tanggal mulai baru yang telah ditetapkan, dan Anggaran 2027 (disampaikan pada 9 Oktober 2026) tidak mengumumkannya. Pemerintah belum memastikan tarif; liputan media dan penasihat melaporkan angka sekitar RM35-45 (US$8-11) per ton dan, dalam analisis kemudian, serendah sekitar RM10, tetapi tidak ada yang resmi. Pelaksanaannya sedang diurutkan setelah Kebijakan Pasar Karbon Nasional dan Rancangan Undang-Undang Perubahan Iklim (RUU PIN) yang masih menunggu."
 keyTakeaways:
   - "Pajak ini menyasar tiga sektor yang sulit didekarbonisasi lebih dulu: besi, baja, dan energi."
-  - "Tidak ada tarif resmi yang telah ditetapkan; RM35-45 (US$8-11) per ton adalah angka yang dilaporkan oleh media/penasihat, bukan tarif pemerintah yang dipastikan, dan estimasi lain turut beredar."
-  - "Ia diumumkan dalam Anggaran 2025 (disampaikan pada 18 Oktober 2024) dan ditegaskan kembali dalam Anggaran 2026 (disampaikan pada 10 Oktober 2025) untuk diperkenalkan menjelang 2026."
+  - "Tidak ada tarif resmi yang telah ditetapkan; RM35-45 (US$8-11) per ton adalah angka yang dilaporkan oleh media/penasihat, bukan tarif pemerintah yang dipastikan, dan analisis kemudian telah memunculkan angka serendah sekitar RM10."
+  - "Ia diumumkan dalam Anggaran 2025 (disampaikan pada 18 Oktober 2024) dan ditegaskan kembali dalam Anggaran 2026 (disampaikan pada 10 Oktober 2025) untuk diperkenalkan menjelang 2026 — tetapi pada 5 Oktober 2026 pemerintah menundanya, dan ia tidak akan diperkenalkan pada 2026."
+  - "Tidak ada tanggal mulai baru yang telah ditetapkan; Anggaran 2027 (disampaikan pada 9 Oktober 2026) tidak mengumumkannya."
   - "Pelaksanaannya dikaitkan dengan Kebijakan Pasar Karbon Nasional dan Rancangan Undang-Undang Perubahan Iklim (RUU PIN) yang masih menunggu."
-  - "Pejabat telah mengisyaratkan bahwa lini masa mungkin dikaji ulang di tengah tekanan geopolitik dan ekonomi."
 appliesTo: "Produsen, eksportir, dan tim keuangan dalam industri besi, baja, dan energi Malaysia, serta profesional keberlanjutan dan pajak yang melacak penetapan harga karbon."
 
 faq:
@@ -27,10 +27,12 @@ faq:
   - q: "Sektor mana yang membayar pajak karbon lebih dulu?"
     a: "Sektor besi, baja, dan energi adalah sasaran awal, dipilih sebagai industri beremisi tinggi yang sulit didekarbonisasi."
   - q: "Kapan pajak karbon dimulai?"
-    a: "Ia diumumkan untuk diperkenalkan menjelang 2026, meskipun pejabat telah mengisyaratkan bahwa penetapan waktunya mungkin dikaji ulang."
+    a: "Ia diumumkan untuk diperkenalkan menjelang 2026, tetapi pada 5 Oktober 2026 Menteri Sumber Daya Alam dan Kelestarian Lingkungan (NRES), Datuk Seri Arthur Joseph Kurup, mengumumkan bahwa pajak itu telah ditunda dan tidak akan dilaksanakan pada 2026. Tidak ada tanggal mulai baru yang telah ditetapkan, dan Anggaran 2027 (disampaikan pada 9 Oktober 2026) tidak mengumumkannya."
+  - q: "Mengapa pajak karbon ditunda?"
+    a: "Pada 5 Oktober 2026 Menteri NRES mengatakan pemerintah menundanya karena ketegangan geopolitik dan harga energi yang bergejolak, serta untuk memberi industri yang terdampak ruang bernapas sementara kerangka pendukungnya — termasuk batas atas emisi yang di atasnya pajak akan dikenakan sebagai penalti — diterapkan lebih dulu."
 
 lang: "id"
-sourceContentHash: "1b480b649a14d8fe"
+sourceContentHash: "444da0adc4c2f238"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -39,21 +41,29 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: recorded the deferral announced on 5 October 2026 by the NRES Minister (carbon tax will not be implemented in 2026; no new start date; Budget 2027 set none) across the title, summary, answer, key takeaways, FAQ and body; added the emissions-ceiling-penalty mechanism he described; noted later analysis floating a rate as low as ~RM10; dated the National Carbon Market Policy launch (21 April 2026). Source: The Star, 5 October 2026."
+    reviewer: null
 
 verificationNeeded:
-  - "Tidak ada tarif pajak karbon resmi yang telah diundangkan hingga putaran ini. Angka RM35-45 (US$8-11)/ton dilaporkan media/penasihat dan tidak dipastikan; estimasi lain yang lebih rendah telah beredar dalam pelaporan kemudian. Manusia harus memastikan tarif sebenarnya setelah diterbitkan."
+  - "Tidak ada tarif pajak karbon resmi yang telah diundangkan hingga putaran ini. Angka RM35-45 (US$8-11)/ton dilaporkan media/penasihat dan tidak dipastikan; analisis kemudian telah memunculkan angka serendah sekitar RM10. Manusia harus memastikan tarif sebenarnya setelah diterbitkan."
   - "Sensitivitas ditetapkan ke 'none', tetapi ini merupakan topik kebijakan fiskal dan iklim yang sarat politik. Editor manusia hendaknya memastikan apakah klasifikasi itu sesuai."
-  - "Status parlemen terkini dan perkiraan waktu pembentangan bagi Climate Change Bill (RUU PIN)."
-  - "Apakah tanggal mulai 'menjelang 2026' masih berlaku mengingat isyarat resmi bahwa pelaksanaan mungkin ditinjau ulang."
+  - "Status parlemen terkini dan perkiraan waktu pembentangan bagi Climate Change Bill (RUU PIN); Menteri NRES mengatakan pada 5 Oktober 2026 bahwa ia berharap RUU itu dapat segera dibentangkan."
+  - "Apakah tanggal mulai pajak karbon baru ditetapkan setelah penundaan 5 Oktober 2026 — belum ada yang diumumkan hingga putaran ini, termasuk dalam Anggaran 2027."
 
-updated: 2026-08-07
+updated: 2026-11-27
 sources:
+  - title: "Pemerintah menunda pajak karbon di tengah ketidakpastian global (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "Anggaran 2025: Pemerintah akan memperkenalkan pajak karbon atas industri besi, baja, dan energi menjelang 2026 (Budget 2025: Govt to introduce carbon tax on iron, steel and energy industries by 2026)"
     url: "https://www.mida.gov.my/mida-news/budget-2025-govt-to-introduce-carbon-tax-on-iron-steel-and-energy-industries-by-2026/"
     publisher: "Badan Pembangunan Investasi Malaysia (MIDA)"
@@ -91,9 +101,9 @@ keywords: ["Malaysia carbon tax", "carbon pricing Malaysia", "iron steel energy 
 framework: explainer
 ---
 
-Malaysia sedang bersiap-siap untuk menetapkan harga atas karbon untuk pertama kalinya, dan ia dimulai dengan industri yang mengeluarkan emisi paling banyak.
+Malaysia sedang bersiap-siap untuk menetapkan harga atas karbon untuk pertama kalinya, dan ia dimulai dengan industri yang mengeluarkan emisi paling banyak — tetapi langkah pertama itu telah ditunda.
 
-Rencana ini, yang pertama kali diumumkan dalam Anggaran 2025 dan ditegaskan kembali dalam Anggaran 2026, adalah untuk mengenakan pajak atas emisi karbon dari sektor besi, baja, dan energi menjelang 2026. Ia merupakan langkah pertama yang sederhana, tetapi ia menandai sebuah peralihan kebijakan: emisi yang selama ini tidak dikenai harga akan mulai membawa biaya.
+Rencana ini, yang pertama kali diumumkan dalam Anggaran 2025 dan ditegaskan kembali dalam Anggaran 2026, adalah untuk mengenakan pajak atas emisi karbon dari sektor besi, baja, dan energi menjelang 2026. Ia merupakan langkah pertama yang sederhana, dan ia menandai sebuah peralihan kebijakan: emisi yang selama ini tidak dikenai harga akan mulai membawa biaya. Namun pada Oktober 2026, pemerintah **menunda** pajak tersebut — ia tidak akan berlaku pada 2026, dan tidak ada tanggal mulai baru yang telah ditetapkan.
 
 ## Siapa yang akan membayar pajak karbon Malaysia lebih dulu?
 
@@ -114,22 +124,24 @@ Sumber resmi jelas mengenai hal ini. Pengumuman MIDA tidak menyatakan tarif, dan
 
 Anggaplah rentang RM35-45 sebagai asumsi perencanaan yang belum dipastikan dan bukan angka yang telah ditetapkan. Sebagian laporan kemudian telah menunjukkan angka yang berbeda — dan di sebagian tempat lebih rendah — yang semakin menguatkan bahwa tarif tersebut belum difinalisasi.
 
-## Kapan ia dimulai — dan mengapa perlu berhati-hati?
+## Kapan ia dimulai — dan mengapa ditunda?
 
 Langkah ini diumumkan ketika Anggaran 2025 disampaikan pada 18 Oktober 2024, dan ditegaskan kembali ketika Anggaran 2026 disampaikan pada 10 Oktober 2025, keduanya untuk diperkenalkan "menjelang 2026."
 
-Namun lini masa tersebut belum difinalisasi. Pejabat telah mengisyaratkan bahwa pelaksanaannya mungkin dikaji ulang di tengah tantangan geopolitik dan ekonomi. Pesan yang konsisten dari Kementerian Sumber Daya Alam dan Kelestarian Lingkungan (NRES) adalah pasar karbon yang berfungsi serta data emisi yang andal perlu ada *sebelum* pajak penalti dikenakan.
+Tanggal mulai itu kini telah tergelincir. Pada **5 Oktober 2026**, Menteri Sumber Daya Alam dan Kelestarian Lingkungan (NRES), **Datuk Seri Arthur Joseph Kurup**, mengatakan bahwa pajak karbon itu telah **ditunda** dan tidak akan dilaksanakan pada 2026, dengan alasan ketegangan geopolitik — khususnya di Asia Barat — dan harga energi yang bergejolak, serta kebutuhan untuk memberi industri yang terdampak ruang bernapas. Anggaran 2027, yang disampaikan empat hari kemudian pada **9 Oktober 2026**, tidak menetapkan tanggal mulai baru.
+
+Pesan pengurutannya konsisten: pasar karbon yang berfungsi serta data emisi yang andal perlu ada *sebelum* pajak penalti dikenakan. Menteri itu mengisyaratkan bahwa pemerintah akan terlebih dahulu menerapkan kerangka tersebut dan menetapkan **batas atas emisi**, dengan pajak karbon kemudian dikenakan sebagai penalti atas emisi *di atas* batas tersebut.
 
 ## Bagaimana ia cocok dengan rencana iklim Malaysia yang lebih luas?
 
 Pajak ini merupakan satu bagian dari arsitektur yang lebih besar yang sedang dibangun secara paralel:
 
-- **Kebijakan Pasar Karbon Nasional (NCMP)** — diluncurkan oleh NRES untuk mewujudkan kerangka bagi perdagangan kredit karbon sebelum pajak dikenakan.
-- **Rancangan Undang-Undang Perubahan Iklim (RUU PIN)** — sedang bergerak ke arah pembentangan di Parlemen; ia bertujuan untuk membentuk sistem pemantauan, pelaporan, dan verifikasi (MRV) serta dasar hukum bagi skema perdagangan emisi pada masa depan.
+- **Kebijakan Pasar Karbon Nasional (NCMP)** — diluncurkan oleh NRES pada 21 April 2026 (setelah persetujuan Kabinet pada 1 April 2026) untuk mewujudkan kerangka bagi perdagangan kredit karbon sebelum pajak dikenakan.
+- **Rancangan Undang-Undang Perubahan Iklim (RUU PIN)** — belum dibentangkan; pada 5 Oktober 2026 Menteri NRES mengatakan bahwa ia berharap RUU itu dapat segera dibentangkan. Ia bertujuan untuk membentuk sistem pemantauan, pelaporan, dan verifikasi (MRV) serta dasar hukum bagi skema perdagangan emisi pada masa depan.
 - **Dana Transisi Energi Nasional (NETF)** — dialokasikan RM150 juta di bawah Anggaran 2026 untuk mendukung [Peta Jalan Transisi Energi Nasional](/id/energy/national-energy-transition-roadmap-netr), yang mana pendapatan karbon diperkirakan mengalir masuk.
 
 Bersama-sama, ini mendukung sasaran Malaysia untuk mengurangi intensitas karbon seluruh ekonomi sebanyak 45% menjelang 2030 (dibandingkan 2005) dan nol bersih menjelang 2050, menurut pelacak ICAP.
 
 ## Apa yang selanjutnya
 
-Perhatikan tiga hal: Rancangan Undang-Undang Perubahan Iklim sampai ke Parlemen, tarif resmi akhirnya diterbitkan, dan konfirmasi tanggal mulai. Hingga tarif tersebut diundangkan, angka ringgit spesifik apa pun — termasuk RM35-45 — tetap tidak dipastikan. Halaman ini akan diperbarui ketika kebijakan tersebut dipastikan.
+Dengan pajak yang ditunda, perhatikan tiga hal: **tanggal mulai baru** yang ditetapkan setelah penundaan, **Rancangan Undang-Undang Perubahan Iklim** sampai ke Parlemen, dan **tarif resmi** akhirnya diterbitkan. Hingga tarif tersebut diundangkan, angka ringgit spesifik apa pun — RM35-45 atau ~RM10 yang lebih rendah yang dimunculkan dalam analisis kemudian — tetap tidak dipastikan. Halaman ini akan diperbarui ketika kebijakan tersebut dipastikan.

@@ -18,7 +18,7 @@ keyTakeaways:
   - "该削减量分为无条件的2000万吨二氧化碳当量，以及另外1000万吨——后者以获得国际气候融资、技术转让和能力建设为条件。"
   - "预计排放将在2029年至2034年间达峰；马来西亚承诺最迟在2034年达峰，若获得支持则力争在2030年前达峰。"
   - "《国家气候变化政策2.0》是总纲性政策；到2050年实现温室气体净零排放是长期愿景。"
-  - "《气候变化法》正在起草中，旨在建立数据库、MMRV报告框架、国家气候基金以及国内排放交易机制；针对钢铁与能源行业的碳税定于2026年开征。"
+  - "《气候变化法》正在起草中，旨在建立数据库、MMRV报告框架、国家气候基金以及国内排放交易机制；针对钢铁与能源行业的碳税原定于2026年开征，但已于2026年10月5日延后。"
 appliesTo: "企业可持续发展与ESG团队、难减排行业中的能源与制造企业、追踪马来西亚碳市场的投资者与分析师、政策研究人员、学生，以及任何想了解马来西亚气候立场的人。"
 
 faq:
@@ -31,12 +31,12 @@ faq:
   - q: "《气候变化法》是什么，它已经成为法律了吗？"
     a: "它是一部拟议中的总纲性成文法，旨在赋予马来西亚气候承诺法律效力——包括建立国家气候数据库、强制性的测量-监测-报告-核查（MMRV）框架、国家气候基金以及国内排放交易机制。根据最新公开信息，该法尚未颁布；2024年发布了一份咨询文件，法案正在准备提交国会审议。"
   - q: "马来西亚有碳税或碳市场吗？"
-    a: "政府已宣布将对钢铁与能源行业征收碳税，于2026年生效，并与《国家碳市场政策》及即将出台的《气候变化法案》相衔接。根据《第十三大马计划》（2026–2030），马来西亚还打算推出国内排放交易机制。此外，马来西亚有意运用《巴黎协定》第六条下的自愿合作。"
+    a: "政府曾宣布将于2026年对钢铁与能源行业征收碳税，但天然资源与环境永续部部长于2026年10月5日宣布将其延后——该碳税不会在2026年生效，且尚未设定新的开征日期。它与《国家碳市场政策》及即将出台的《气候变化法案》相衔接。根据《第十三大马计划》（2026–2030），政府还打算推出国内排放交易机制。此外，马来西亚有意运用《巴黎协定》第六条下的自愿合作。"
   - q: "NDC中有条件的部分是什么？"
     a: "在1500万至3000万吨二氧化碳当量的目标中，最多2000万吨是无条件的——马来西亚无论如何都会兑现。另外1000万吨是有条件的，即只有在获得国际气候融资、技术转让和能力建设支持的情况下才会实现。"
 
 lang: "zh"
-sourceContentHash: "6a0b336c4432c9c8"
+sourceContentHash: "29ba93df6f074e81"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -45,15 +45,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: recorded that the carbon tax on iron, steel and energy, slated for 2026, was deferred on 5 October 2026 (will not take effect in 2026; no new start date) in the key takeaways, FAQ and body. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
+  - title: "政府在全球不确定性下延后碳税 (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "马来西亚国家自主贡献第三版（NDC 3.0） (Malaysia's Third Iteration of the Nationally Determined Contribution (NDC 3.0))"
     url: "https://unfccc.int/sites/default/files/2025-10/Malaysia%20NDC%203.0%20to%20UNFCCC%202025%20final.pdf"
     publisher: "United Nations Framework Convention on Climate Change (UNFCCC)"
@@ -162,7 +170,7 @@ framework: explainer
 
 正在成形的有两种截然不同的机制，它们容易被混淆。
 
-第一种是**碳税**。政府宣布将对**钢铁与能源行业征收碳税，于2026年生效**，并与《国家碳市场政策》（Dasar Pasaran Karbon Kebangsaan）及即将出台的《气候变化法案》相衔接。税收固定每吨的*价格*，让排放的数量自行调整。
+第一种是**碳税**。政府曾宣布对钢铁与能源行业征收的碳税将于2026年生效——但天然资源与环境永续部部长于2026年10月5日将其延后，理由是地缘政治紧张与能源价格波动；该碳税不会在2026年生效，且尚未设定新的开征日期。它与《国家碳市场政策》（Dasar Pasaran Karbon Kebangsaan）及即将出台的《气候变化法案》相衔接。税收固定每吨的*价格*，让排放的数量自行调整。
 
 第二种是**国内排放交易机制**。根据《第十三大马计划》（2026–2030），马来西亚打算推出《国家碳市场政策》并启动国内ETS。ETS为排放的*数量*设定上限，让市场决定价格，其法律依据由《气候变化法》提供。
 

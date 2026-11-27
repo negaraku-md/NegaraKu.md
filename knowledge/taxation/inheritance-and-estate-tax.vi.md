@@ -38,7 +38,7 @@ faq:
     a: "Có. Người thi hành di chúc phải thông báo cho LHDN về việc tử vong, nộp tờ khai cuối cùng của người quá cố và các tờ khai của di sản, và giải quyết bất kỳ thuế và chế tài còn nợ nào trước khi phân chia di sản. LHDN có ba năm kể từ khi kết thúc năm nó được thông báo về việc tử vong để đưa ra các đánh giá."
 
 lang: "vi"
-sourceContentHash: "41452eb0f37e297f"
+sourceContentHash: "4f17ffe66a193226"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,19 +48,27 @@ reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-08
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 verificationNeeded: []
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: corrected the incidental aside that the carbon tax runs 'from 2026' — it was announced for 2026 but deferred on 5 October 2026; added an internal link to the carbon-tax guide. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "Cái chết của một cá nhân (bài viết kỹ thuật thuế Malaysia) (Death of an individual (Malaysian tax technical article))"
     url: "https://www.accaglobal.com/gb/en/student/exam-support-resources/professional-exams-study-resources/p6/technical-articles/death.html"
     publisher: "ACCA Global"
+  - title: "Chính phủ hoãn thuế carbon giữa những bất định toàn cầu (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "Vấn đề thuế thừa kế lại nổi lên ở Malaysia (Question of inheritance tax resurfaces in Malaysia)"
     url: "https://theedgemalaysia.com/article/question-inheritance-tax-resurfaces-malaysia"
     publisher: "The Edge Malaysia"
@@ -150,9 +158,11 @@ Mỗi lần, các đề xuất đều bị bác bỏ hoặc gác lại. Các chu
 đã thu — thuế trước bạ và thuế lãi bất động sản — và có thể cản trở đầu tư. Việc
 tái áp dụng lại được suy đoán trước Ngân sách 2025, nhưng không có đề xuất cụ thể
 nào theo sau, và Ngân sách 2026 (trình bày vào ngày 10 tháng 10 năm 2025) cũng
-không đưa ra loại nào — thuế thực sự mới duy nhất của nó là một thuế carbon từ
-2026 cho các ngành sắt, thép và năng lượng. Tính đến ngày của hướng dẫn này, không
-có thuế thừa kế, thuế di sản hay thuế tử vong nào tồn tại hoặc được lên lịch.
+không đưa ra loại nào — thuế thực sự mới duy nhất của nó là một thuế carbon cho các
+ngành sắt, thép và năng lượng — được công bố cho năm 2026, nhưng [đã bị hoãn vào
+ngày 5 tháng 10 năm 2026](/taxation/carbon-tax-malaysia). Tính đến ngày của hướng
+dẫn này, không có thuế thừa kế, thuế di sản hay thuế tử vong nào tồn tại hoặc được
+lên lịch.
 
 Vậy nếu không có thuế trên chính khoản thừa kế, thì thuế thực sự bước vào bức
 tranh ở đâu? Ở ba nơi, tất cả đều về *thu nhập và lãi*, chứ không phải sự chuyển

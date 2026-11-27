@@ -47,19 +47,27 @@ reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-08
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 verificationNeeded: []
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: corrected the incidental aside that the carbon tax runs 'from 2026' — it was announced for 2026 but deferred on 5 October 2026; added an internal link to the carbon-tax guide. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "Death of an individual (Malaysian tax technical article)"
     url: "https://www.accaglobal.com/gb/en/student/exam-support-resources/professional-exams-study-resources/p6/technical-articles/death.html"
     publisher: "ACCA Global"
+  - title: "Govt defers carbon tax amid global uncertainties"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "Question of inheritance tax resurfaces in Malaysia"
     url: "https://theedgemalaysia.com/article/question-inheritance-tax-resurfaces-malaysia"
     publisher: "The Edge Malaysia"
@@ -122,7 +130,7 @@ No. Malaysia levies no inheritance tax, estate tax, or death duty on the assets 
 
 Before abolition, estate duty applied only to larger estates. It was charged on a scale of 0%, 5% and 10%: estates valued at RM2 million or below paid nothing, and the top 10% rate applied to estates valued above RM4 million. Because the threshold was high and the duty was triggered only on death, the revenue it raised was modest — which is the reason tax consultants generally give for its repeal.
 
-The idea of bringing an inheritance tax back surfaces from time to time. Reintroduction was rumoured around 2016 and 2017 (unconfirmed messages circulating on social media put the rate at 10%), and the Consumers Association of Penang argued for it ahead of Budget 2018 as a way to raise revenue from the wealthiest. Each time, the proposals have been dismissed or shelved. Tax experts routinely push back on the grounds that an inheritance tax would overlap with taxes Malaysia already charges — stamp duty and real property gains tax — and could deter investment. Reintroduction was again speculated ahead of Budget 2025, but no concrete proposal followed, and Budget 2026 (tabled on 10 October 2025) introduced none either — its only genuinely new tax is a carbon tax from 2026 for the iron, steel and energy sectors. As at the date of this guide, no inheritance tax, estate duty or death tax exists or is scheduled.
+The idea of bringing an inheritance tax back surfaces from time to time. Reintroduction was rumoured around 2016 and 2017 (unconfirmed messages circulating on social media put the rate at 10%), and the Consumers Association of Penang argued for it ahead of Budget 2018 as a way to raise revenue from the wealthiest. Each time, the proposals have been dismissed or shelved. Tax experts routinely push back on the grounds that an inheritance tax would overlap with taxes Malaysia already charges — stamp duty and real property gains tax — and could deter investment. Reintroduction was again speculated ahead of Budget 2025, but no concrete proposal followed, and Budget 2026 (tabled on 10 October 2025) introduced none either — its only genuinely new tax was a carbon tax for the iron, steel and energy sectors — announced for 2026, but [deferred on 5 October 2026](/taxation/carbon-tax-malaysia). As at the date of this guide, no inheritance tax, estate duty or death tax exists or is scheduled.
 
 So if there is no tax on the inheritance itself, where does tax actually enter the picture? In three places, all of which are about *income and gains*, not the transfer of wealth.
 

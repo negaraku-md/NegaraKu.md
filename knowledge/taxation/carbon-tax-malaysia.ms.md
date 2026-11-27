@@ -1,24 +1,24 @@
 ---
 topicId: MY-TAX-0123
-title: "Cukai Karbon Malaysia yang Bakal Dilaksanakan ke atas Besi, Keluli dan Tenaga"
+title: "Cukai Karbon Malaysia yang Ditangguhkan ke atas Besi, Keluli dan Tenaga"
 seoTitle: "Cukai Karbon Malaysia: Kadar, Sektor dan Garis Masa"
 slug: "carbon-tax-malaysia"
 category: "taxation"
 subcategory: ["carbon"]
-summary: "Malaysia merancang untuk meletakkan harga ke atas karbon buat kali pertama, bermula dengan sektor besi, keluli dan tenaga. Tiada kadar rasmi yang telah disahkan, dan pelaksanaannya dikaitkan dengan dasar pasaran karbon baharu serta Rang Undang-Undang Perubahan Iklim yang masih menunggu."
+summary: "Malaysia merancang untuk meletakkan harga ke atas karbon buat kali pertama, bermula dengan sektor besi, keluli dan tenaga — tetapi pada 5 Oktober 2026 kerajaan menangguhkan cukai tersebut, dan ia tidak akan diperkenalkan pada 2026. Tiada kadar rasmi yang telah disahkan, dan pelaksanaannya dikaitkan dengan dasar pasaran karbon baharu serta Rang Undang-Undang Perubahan Iklim yang masih menunggu."
 
 tier: "3"
 mode: "narrative"
 contentType: "news"
 sensitivity: "none"
 
-answer: "Malaysia berhasrat untuk memperkenalkan cukai karbon ke atas sektor besi, keluli dan tenaganya, yang pertama kali diumumkan dalam Belanjawan 2025 dan ditegaskan semula dalam Belanjawan 2026 untuk diperkenalkan menjelang 2026. Kerajaan belum mengesahkan kadar secara rasmi; sesetengah liputan media dan penasihat melaporkan angka yang dijangka sebanyak RM35-45 (US$8-11) setiap tan, tetapi ini belum disahkan dan anggaran lain turut beredar. Pelaksanaannya sedang diselaraskan dengan Dasar Pasaran Karbon Negara dan Rang Undang-Undang Perubahan Iklim yang masih menunggu, dan pegawai telah memberi isyarat bahawa penetapan masanya mungkin dikaji semula."
+answer: "Malaysia mengumumkan cukai karbon ke atas sektor besi, keluli dan tenaganya dalam Belanjawan 2025 dan menegaskannya semula dalam Belanjawan 2026 untuk diperkenalkan menjelang 2026 — tetapi pada 5 Oktober 2026 Menteri Sumber Asli dan Kelestarian Alam (NRES), Datuk Seri Arthur Joseph Kurup, berkata ia telah ditangguhkan dan tidak akan dilaksanakan pada 2026, sambil memetik ketegangan geopolitik dan harga tenaga yang tidak menentu. Tiada tarikh permulaan baharu ditetapkan, dan Belanjawan 2027 (dibentangkan pada 9 Oktober 2026) tidak mengumumkan sebarang tarikh. Kerajaan belum mengesahkan kadar; liputan media dan penasihat melaporkan angka sekitar RM35-45 (US$8-11) setiap tan dan, dalam analisis terkemudian, serendah kira-kira RM10, tetapi tiada satu pun yang rasmi. Pelaksanaannya sedang disusun selepas Dasar Pasaran Karbon Negara dan Rang Undang-Undang Perubahan Iklim (RUU PIN) yang masih menunggu."
 keyTakeaways:
   - "Cukai ini menyasarkan tiga sektor yang sukar dinyahkarbon terlebih dahulu: besi, keluli dan tenaga."
-  - "Tiada kadar rasmi yang telah ditetapkan; RM35-45 (US$8-11) setiap tan ialah angka yang dilaporkan oleh media/penasihat, bukan kadar kerajaan yang disahkan, dan anggaran lain turut beredar."
-  - "Ia diumumkan dalam Belanjawan 2025 (dibentangkan pada 18 Oktober 2024) dan ditegaskan semula dalam Belanjawan 2026 (dibentangkan pada 10 Oktober 2025) untuk diperkenalkan menjelang 2026."
+  - "Tiada kadar rasmi yang telah ditetapkan; RM35-45 (US$8-11) setiap tan ialah angka yang dilaporkan oleh media/penasihat, bukan kadar kerajaan yang disahkan, dan analisis terkemudian telah menimbulkan angka serendah kira-kira RM10."
+  - "Ia diumumkan dalam Belanjawan 2025 (dibentangkan pada 18 Oktober 2024) dan ditegaskan semula dalam Belanjawan 2026 (dibentangkan pada 10 Oktober 2025) untuk diperkenalkan menjelang 2026 — tetapi pada 5 Oktober 2026 kerajaan menangguhkannya, dan ia tidak akan diperkenalkan pada 2026."
+  - "Tiada tarikh permulaan baharu ditetapkan; Belanjawan 2027 (dibentangkan pada 9 Oktober 2026) tidak mengumumkan sebarang tarikh."
   - "Pelaksanaannya dikaitkan dengan Dasar Pasaran Karbon Negara dan Rang Undang-Undang Perubahan Iklim (RUU PIN) yang masih menunggu."
-  - "Pegawai telah memberi isyarat bahawa garis masa mungkin dikaji semula di tengah-tengah tekanan geopolitik dan ekonomi."
 appliesTo: "Pengeluar, pengeksport dan pasukan kewangan dalam industri besi, keluli dan tenaga Malaysia, serta profesional kelestarian dan cukai yang menjejaki penetapan harga karbon."
 
 faq:
@@ -27,10 +27,12 @@ faq:
   - q: "Sektor manakah yang membayar cukai karbon terlebih dahulu?"
     a: "Sektor besi, keluli dan tenaga ialah sasaran awal, dipilih sebagai industri berpelepasan tinggi yang sukar dinyahkarbon."
   - q: "Bilakah cukai karbon bermula?"
-    a: "Ia diumumkan untuk diperkenalkan menjelang 2026, walaupun pegawai telah memberi isyarat bahawa penetapan masanya mungkin dikaji semula."
+    a: "Ia diumumkan untuk diperkenalkan menjelang 2026, tetapi pada 5 Oktober 2026 Menteri NRES, Datuk Seri Arthur Joseph Kurup, mengumumkan ia telah ditangguhkan dan tidak akan dilaksanakan pada 2026. Tiada tarikh permulaan baharu ditetapkan, dan Belanjawan 2027 (dibentangkan pada 9 Oktober 2026) tidak mengumumkan sebarang tarikh."
+  - q: "Mengapakah cukai karbon ditangguhkan?"
+    a: "Pada 5 Oktober 2026 Menteri NRES berkata kerajaan menangguhkannya berikutan ketegangan geopolitik dan harga tenaga yang tidak menentu, serta bagi memberi industri yang terjejas ruang bernafas sementara rangka kerja sokongan — termasuk siling pelepasan yang mana cukai akan dikenakan sebagai penalti sekiranya pelepasan melebihinya — disediakan terlebih dahulu."
 
 lang: "ms"
-sourceContentHash: "1b480b649a14d8fe"
+sourceContentHash: "444da0adc4c2f238"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -39,21 +41,29 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-07
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: recorded the deferral announced on 5 October 2026 by the NRES Minister (carbon tax will not be implemented in 2026; no new start date; Budget 2027 set none) across the title, summary, answer, key takeaways, FAQ and body; added the emissions-ceiling-penalty mechanism he described; noted later analysis floating a rate as low as ~RM10; dated the National Carbon Market Policy launch (21 April 2026). Source: The Star, 5 October 2026."
+    reviewer: null
 
 verificationNeeded:
-  - "Tiada kadar cukai karbon rasmi telah diwartakan setakat pusingan ini. Angka RM35-45 (US$8-11)/tan dilaporkan media/nasihat dan tidak disahkan; anggaran lain yang lebih rendah telah beredar dalam pelaporan kemudian. Manusia harus mengesahkan kadar sebenar setelah diterbitkan."
+  - "Tiada kadar cukai karbon rasmi telah diwartakan setakat pusingan ini. Angka RM35-45 (US$8-11)/tan dilaporkan media/nasihat dan tidak disahkan; analisis terkemudian telah menimbulkan angka serendah kira-kira RM10. Manusia harus mengesahkan kadar sebenar setelah diterbitkan."
   - "Kepekaan ditetapkan kepada 'none', tetapi ini merupakan topik dasar fiskal dan iklim yang sarat politik. Editor manusia hendaklah mengesahkan sama ada pengelasan itu sesuai."
-  - "Status parlimen semasa dan tempoh pembentangan yang dijangka bagi Climate Change Bill (RUU PIN)."
-  - "Sama ada tarikh permulaan 'menjelang 2026' masih berkuat kuasa memandangkan isyarat rasmi bahawa pelaksanaan mungkin disemak semula."
+  - "Status parlimen semasa dan tempoh pembentangan yang dijangka bagi Climate Change Bill (RUU PIN); Menteri NRES berkata pada 5 Oktober 2026 beliau berharap ia dapat dibentangkan tidak lama lagi."
+  - "Sama ada tarikh permulaan cukai karbon baharu ditetapkan berikutan penangguhan 5 Oktober 2026 — tiada yang diumumkan setakat pusingan ini, termasuk dalam Belanjawan 2027."
 
-updated: 2026-08-07
+updated: 2026-11-27
 sources:
+  - title: "Kerajaan tangguh cukai karbon di tengah ketidaktentuan global (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "Belanjawan 2025: Kerajaan akan memperkenalkan cukai karbon ke atas industri besi, keluli dan tenaga menjelang 2026 (Budget 2025: Govt to introduce carbon tax on iron, steel and energy industries by 2026)"
     url: "https://www.mida.gov.my/mida-news/budget-2025-govt-to-introduce-carbon-tax-on-iron-steel-and-energy-industries-by-2026/"
     publisher: "Lembaga Pembangunan Pelaburan Malaysia (MIDA)"
@@ -91,9 +101,9 @@ keywords: ["Malaysia carbon tax", "carbon pricing Malaysia", "iron steel energy 
 framework: explainer
 ---
 
-Malaysia sedang bersiap sedia untuk meletakkan harga ke atas karbon buat kali pertama, dan ia bermula dengan industri yang mengeluarkan pelepasan paling banyak.
+Malaysia sedang bersiap sedia untuk meletakkan harga ke atas karbon buat kali pertama, dan ia bermula dengan industri yang mengeluarkan pelepasan paling banyak — tetapi langkah pertama itu telah ditangguhkan.
 
-Rancangan ini, yang pertama kali diumumkan dalam Belanjawan 2025 dan ditegaskan semula dalam Belanjawan 2026, adalah untuk mengenakan cukai ke atas pelepasan karbon daripada sektor besi, keluli dan tenaga menjelang 2026. Ia merupakan langkah pertama yang sederhana, tetapi ia menandakan satu peralihan dasar: pelepasan yang selama ini tidak dikenakan harga akan mula membawa kos.
+Rancangan ini, yang pertama kali diumumkan dalam Belanjawan 2025 dan ditegaskan semula dalam Belanjawan 2026, adalah untuk mengenakan cukai ke atas pelepasan karbon daripada sektor besi, keluli dan tenaga menjelang 2026. Ia merupakan langkah pertama yang sederhana, dan ia menandakan satu peralihan dasar: pelepasan yang selama ini tidak dikenakan harga akan mula membawa kos. Namun, pada Oktober 2026, kerajaan **menangguhkan** cukai tersebut — ia tidak akan berkuat kuasa pada 2026, dan tiada tarikh permulaan baharu ditetapkan.
 
 ## Siapakah yang akan membayar cukai karbon Malaysia terlebih dahulu?
 
@@ -114,22 +124,24 @@ Sumber rasmi jelas mengenai perkara ini. Pengumuman MIDA tidak menyatakan kadar,
 
 Anggaplah julat RM35-45 sebagai andaian perancangan yang belum disahkan dan bukannya angka yang telah digubal. Sesetengah laporan terkemudian telah menunjukkan angka yang berbeza — dan di sesetengah tempat lebih rendah — yang mengukuhkan lagi bahawa kadar tersebut belum lagi dimuktamadkan.
 
-## Bilakah ia bermula — dan mengapa perlu berhati-hati?
+## Bilakah ia bermula — dan mengapa ditangguhkan?
 
 Langkah ini diumumkan ketika Belanjawan 2025 dibentangkan pada 18 Oktober 2024, dan ditegaskan semula ketika Belanjawan 2026 dibentangkan pada 10 Oktober 2025, kedua-duanya untuk diperkenalkan "menjelang 2026."
 
-Namun garis masa tersebut belum dimuktamadkan. Pegawai telah memberi isyarat bahawa pelaksanaannya mungkin dikaji semula di tengah-tengah cabaran geopolitik dan ekonomi. Mesej yang konsisten daripada Kementerian Sumber Asli dan Kelestarian Alam (NRES) ialah pasaran karbon yang berfungsi serta data pelepasan yang boleh dipercayai perlu wujud *sebelum* cukai penalti dikenakan.
+Tarikh permulaan itu kini tergelincir. Pada **5 Oktober 2026**, Menteri Sumber Asli dan Kelestarian Alam (NRES), **Datuk Seri Arthur Joseph Kurup**, berkata cukai karbon telah **ditangguhkan** dan tidak akan dilaksanakan pada 2026, sambil memetik ketegangan geopolitik — terutamanya di Asia Barat — dan harga tenaga yang tidak menentu, serta keperluan untuk memberi industri yang terjejas ruang bernafas. Belanjawan 2027, yang dibentangkan empat hari kemudian pada **9 Oktober 2026**, tidak menetapkan tarikh permulaan baharu.
+
+Mesej urutannya adalah konsisten: pasaran karbon yang berfungsi serta data pelepasan yang boleh dipercayai perlu wujud *sebelum* cukai penalti dikenakan. Menteri itu menyatakan bahawa kerajaan akan terlebih dahulu menyediakan rangka kerja dan menetapkan **siling pelepasan**, dengan cukai karbon kemudiannya dikenakan sebagai penalti ke atas pelepasan *melebihi* siling tersebut.
 
 ## Bagaimanakah ia sesuai dengan pelan iklim Malaysia yang lebih luas?
 
 Cukai ini merupakan satu bahagian daripada seni bina yang lebih besar yang sedang dibina secara selari:
 
-- **Dasar Pasaran Karbon Negara (NCMP)** — dilancarkan oleh NRES untuk mewujudkan rangka kerja bagi perdagangan kredit karbon sebelum cukai dikenakan.
-- **Rang Undang-Undang Perubahan Iklim (RUU PIN)** — sedang bergerak ke arah pembentangan di Parlimen; ia bertujuan untuk menubuhkan sistem pemantauan, pelaporan dan pengesahan (MRV) serta asas perundangan bagi skim perdagangan pelepasan pada masa hadapan.
+- **Dasar Pasaran Karbon Negara (NCMP)** — dilancarkan oleh NRES pada 21 April 2026 (selepas kelulusan Kabinet pada 1 April 2026) untuk mewujudkan rangka kerja bagi perdagangan kredit karbon sebelum cukai dikenakan.
+- **Rang Undang-Undang Perubahan Iklim (RUU PIN)** — belum lagi dibentangkan; pada 5 Oktober 2026 Menteri NRES berkata beliau berharap ia dapat dibentangkan tidak lama lagi. Ia bertujuan untuk menubuhkan sistem pemantauan, pelaporan dan pengesahan (MRV) serta asas perundangan bagi skim perdagangan pelepasan pada masa hadapan.
 - **Dana Peralihan Tenaga Negara (NETF)** — diperuntukkan RM150 juta di bawah Belanjawan 2026 untuk menyokong [Peta Jalan Peralihan Tenaga Negara](/energy/national-energy-transition-roadmap-netr), yang mana hasil karbon dijangka mengalir masuk.
 
 Bersama-sama, ini menyokong sasaran Malaysia untuk mengurangkan intensiti karbon seluruh ekonomi sebanyak 45% menjelang 2030 (berbanding 2005) dan sifar bersih menjelang 2050, menurut penjejak ICAP.
 
 ## Apa yang seterusnya
 
-Perhatikan tiga perkara: Rang Undang-Undang Perubahan Iklim sampai ke Parlimen, kadar rasmi akhirnya diterbitkan, dan pengesahan tarikh permulaan. Sehingga kadar tersebut diwartakan, sebarang angka ringgit yang khusus — termasuk RM35-45 — kekal tidak disahkan. Halaman ini akan dikemas kini apabila dasar tersebut disahkan.
+Dengan cukai itu ditangguhkan, perhatikan tiga perkara: **tarikh permulaan baharu** ditetapkan selepas penangguhan, **Rang Undang-Undang Perubahan Iklim** sampai ke Parlimen, dan **kadar rasmi** akhirnya diterbitkan. Sehingga kadar tersebut diwartakan, sebarang angka ringgit yang khusus — RM35-45 atau angka lebih rendah ~RM10 yang ditimbulkan dalam analisis terkemudian — kekal tidak disahkan. Halaman ini akan dikemas kini apabila dasar tersebut disahkan.

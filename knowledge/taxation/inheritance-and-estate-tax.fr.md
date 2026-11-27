@@ -38,7 +38,7 @@ faq:
     a: "Oui. L'exécuteur testamentaire doit informer la LHDN du décès, déposer la déclaration finale du défunt et les déclarations de la succession, et régler tout impôt et pénalité en souffrance avant de distribuer la succession. La LHDN dispose de trois ans, à compter de la fin de l'année où elle est informée du décès, pour émettre des avis d'imposition."
 
 lang: "fr"
-sourceContentHash: "41452eb0f37e297f"
+sourceContentHash: "4f17ffe66a193226"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,19 +48,27 @@ reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-08
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 verificationNeeded: []
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: corrected the incidental aside that the carbon tax runs 'from 2026' — it was announced for 2026 but deferred on 5 October 2026; added an internal link to the carbon-tax guide. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "Décès d'une personne physique (article technique fiscal malaisien) (Death of an individual (Malaysian tax technical article))"
     url: "https://www.accaglobal.com/gb/en/student/exam-support-resources/professional-exams-study-resources/p6/technical-articles/death.html"
     publisher: "ACCA Global"
+  - title: "Le gouvernement reporte la taxe carbone dans un contexte d'incertitudes mondiales (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "La question de l'impôt sur les héritages refait surface en Malaisie (Question of inheritance tax resurfaces in Malaysia)"
     url: "https://theedgemalaysia.com/article/question-inheritance-tax-resurfaces-malaysia"
     publisher: "The Edge Malaysia"
@@ -123,7 +131,7 @@ Non. La Malaisie ne prélève aucun impôt sur les héritages, aucun impôt sur 
 
 Avant l'abolition, les droits de succession ne s'appliquaient qu'aux successions les plus importantes. Ils étaient perçus selon un barème de 0 %, 5 % et 10 % : les successions évaluées à RM2 millions ou moins ne payaient rien, et le taux maximal de 10 % s'appliquait aux successions évaluées au-delà de RM4 millions. Comme le seuil était élevé et que l'impôt n'était déclenché qu'au décès, les recettes qu'il générait étaient modestes — ce qui est la raison que les conseillers fiscaux donnent généralement pour son abrogation.
 
-L'idée de réintroduire un impôt sur les héritages refait surface de temps à autre. Une réintroduction a été évoquée vers 2016 et 2017 (des messages non confirmés circulant sur les réseaux sociaux fixaient le taux à 10 %), et la Consumers Association of Penang l'a défendue en vue du Budget 2018 comme moyen de lever des recettes auprès des plus fortunés. À chaque fois, les propositions ont été écartées ou mises de côté. Les experts fiscaux la rejettent régulièrement au motif qu'un impôt sur les héritages chevaucherait des impôts que la Malaisie prélève déjà — le droit de timbre et l'impôt sur les plus-values immobilières — et pourrait dissuader l'investissement. Une réintroduction a de nouveau été spéculée en vue du Budget 2025, mais aucune proposition concrète n'a suivi, et le Budget 2026 (présenté le 10 octobre 2025) n'en a introduit aucune non plus — son seul impôt véritablement nouveau est une taxe carbone à partir de 2026 pour les secteurs du fer, de l'acier et de l'énergie. À la date de ce guide, aucun impôt sur les héritages, aucun droit de succession ni aucun impôt sur le décès n'existe ou n'est prévu.
+L'idée de réintroduire un impôt sur les héritages refait surface de temps à autre. Une réintroduction a été évoquée vers 2016 et 2017 (des messages non confirmés circulant sur les réseaux sociaux fixaient le taux à 10 %), et la Consumers Association of Penang l'a défendue en vue du Budget 2018 comme moyen de lever des recettes auprès des plus fortunés. À chaque fois, les propositions ont été écartées ou mises de côté. Les experts fiscaux la rejettent régulièrement au motif qu'un impôt sur les héritages chevaucherait des impôts que la Malaisie prélève déjà — le droit de timbre et l'impôt sur les plus-values immobilières — et pourrait dissuader l'investissement. Une réintroduction a de nouveau été spéculée en vue du Budget 2025, mais aucune proposition concrète n'a suivi, et le Budget 2026 (présenté le 10 octobre 2025) n'en a introduit aucune non plus — son seul impôt véritablement nouveau était une taxe carbone pour les secteurs du fer, de l'acier et de l'énergie — annoncée pour 2026, mais [reportée le 5 octobre 2026](/taxation/carbon-tax-malaysia). À la date de ce guide, aucun impôt sur les héritages, aucun droit de succession ni aucun impôt sur le décès n'existe ou n'est prévu.
 
 Alors, s'il n'y a pas d'impôt sur l'héritage lui-même, où l'impôt entre-t-il réellement en scène ? En trois endroits, tous relatifs *aux revenus et aux gains*, et non à la transmission du patrimoine.
 

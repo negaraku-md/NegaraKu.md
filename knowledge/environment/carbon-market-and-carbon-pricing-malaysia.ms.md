@@ -12,24 +12,24 @@ mode: "practical"
 contentType: "faq"
 sensitivity: "none"
 
-answer: "Malaysia belum lagi mempunyai harga karbon menyeluruh ekonomi. Karbon kini diniagakan secara sukarela di Bursa Karbon (Bursa Carbon Exchange), manakala Dasar Pasaran Karbon Negara (dilancarkan pada 21 April 2026) menetapkan rangka kerja untuk pasaran pematuhan pada masa hadapan. Cukai karbon ke atas besi, keluli dan tenaga serta skim perdagangan pelepasan domestik dirancang tetapi, menurut The Edge Malaysia, cukai karbon itu ditangguhkan setakat pertengahan 2026 sementara menunggu Rang Undang-Undang Perubahan Iklim."
+answer: "Malaysia belum lagi mempunyai harga karbon menyeluruh ekonomi. Karbon kini diniagakan secara sukarela di Bursa Karbon (Bursa Carbon Exchange), manakala Dasar Pasaran Karbon Negara (dilancarkan pada 21 April 2026) menetapkan rangka kerja untuk pasaran pematuhan pada masa hadapan. Cukai karbon ke atas besi, keluli dan tenaga serta skim perdagangan pelepasan domestik dirancang tetapi, pada 5 Oktober 2026, Menteri NRES mengumumkan cukai karbon itu telah ditangguhkan dan tidak akan dilaksanakan pada 2026, sementara menunggu Rang Undang-Undang Perubahan Iklim."
 keyTakeaways:
   - "Dasar Pasaran Karbon Negara dilancarkan oleh NRES pada 21 April 2026, selepas kelulusan Kabinet pada 1 April 2026."
   - "Bursa Karbon (Bursa Carbon Exchange) ialah pasaran sukarela; lelongan sulungnya pada 16 Mac 2023 menjual 150,000 kredit, dilangsaikan pada RM18.50 (GTC) dan RM68.00 (GNC+)."
-  - "Cukai karbon ke atas sektor besi, keluli dan tenaga, yang asalnya dijadualkan untuk 2026, dilaporkan oleh The Edge Malaysia sebagai ditangguhkan setakat 2026."
+  - "Cukai karbon ke atas sektor besi, keluli dan tenaga, yang asalnya dijadualkan untuk 2026, ditangguhkan pada 5 Oktober 2026 oleh Menteri NRES dan tidak akan diperkenalkan pada 2026; tiada tarikh permulaan baharu ditetapkan."
   - "Akta CCUS 2025 (Akta 870) digubal pada 22 Julai 2025 dan menubuhkan Agensi CCUS Malaysia (MCCA)."
 appliesTo: "Perniagaan, pasukan kelestarian, pelabur dan pemerhati dasar yang menjejaki cara Malaysia menetapkan harga dan meniagakan karbon."
 
 faq:
   - q: "Adakah Malaysia mempunyai cukai karbon?"
-    a: "Belum lagi. Cukai karbon ke atas sektor besi, keluli dan tenaga diumumkan untuk 2026, tetapi The Edge Malaysia melaporkan bahawa pelaksanaannya ditangguhkan berikutan ketegangan geopolitik dan bagi mengelakkan tekanan kos tambahan kepada rakyat dan industri, sementara menunggu Rang Undang-Undang Perubahan Iklim."
+    a: "Belum lagi. Cukai karbon ke atas sektor besi, keluli dan tenaga diumumkan untuk 2026, tetapi pada 5 Oktober 2026 Menteri NRES, Datuk Seri Arthur Joseph Kurup, mengumumkan ia telah ditangguhkan dan tidak akan dilaksanakan pada 2026, sambil memetik ketegangan geopolitik dan harga tenaga yang tidak menentu. Tiada tarikh permulaan baharu ditetapkan, dan pelaksanaannya kekal disusun selepas Dasar Pasaran Karbon Negara dan Rang Undang-Undang Perubahan Iklim yang masih menunggu."
   - q: "Di mana kredit karbon boleh diniagakan di Malaysia?"
     a: "Di Bursa Karbon (Bursa Carbon Exchange, BCX), sebuah pasaran sukarela yang dikendalikan oleh Bursa Malaysia Carbon Market Sdn Bhd, menawarkan lelongan, dagangan berterusan dan transaksi luar pasaran."
   - q: "Apakah Dasar Pasaran Karbon Negara?"
     a: "Sebuah rangka kerja yang dilancarkan oleh NRES pada 21 April 2026 untuk membina pasaran karbon berintegriti tinggi, daftar karbon kebangsaan dan sistem pemantauan sebelum instrumen penetapan harga pematuhan diperkenalkan."
 
 lang: "ms"
-sourceContentHash: "da637e665e1a9fd4"
+sourceContentHash: "3f730671ca2c2681"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -38,20 +38,28 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 verificationNeeded:
   - "Sama ada Bursa Carbon Exchange mengehadkan penyenaraian kepada projek yang dikeluarkan Verra dari 2016 dan seterusnya (dakwaan dikeluarkan sementara menunggu sumber utama BCX/Bursa Malaysia; halaman About BCX yang dipetik tidak menyatakannya)."
   - "Senarai dan bilangan semasa projek asal Malaysia yang disenaraikan pada BCX (cth. Kuamut Rainforest Conservation Project), dengan sumber berwibawa bertarikh (dakwaan dibuang sementara menunggu pengesahan)."
-  - "Tarikh pembentangan tepat dan status National Climate Change Bill (The Edge melaporkan ia dijangka dibentangkan pada Julai 2026)."
-  - "Sama ada cukai karbon kekal ditangguhkan selepas Climate Change Bill dibentangkan, dan status rasmi terkini daripada NRES / Kementerian Kewangan."
+  - "Tarikh pembentangan tepat dan status National Climate Change Bill (The Edge melaporkan ia dijangka dibentangkan pada Julai 2026; Menteri NRES berkata pada 5 Oktober 2026 beliau berharap ia dapat dibentangkan tidak lama lagi)."
+  - "Sama ada tarikh permulaan cukai karbon baharu ditetapkan berikutan penangguhan 5 Oktober 2026 — tiada yang diumumkan setakat pusingan ini, termasuk dalam Belanjawan 2027."
 revisions:
   - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: replaced the 'on hold as of mid-2026' framing with the deferral the NRES Minister announced on 5 October 2026 (carbon tax will not be implemented in 2026; no new start date; Budget 2027 set none) in the answer, key takeaways, FAQ and body. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-07-28
+updated: 2026-11-27
 sources:
+  - title: "Kerajaan tangguh cukai karbon di tengah ketidaktentuan global (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "Dasar Pasaran Karbon Negara dilancarkan untuk memandu ekosistem pasaran karbon Malaysia (National Carbon Market Policy launched to guide Malaysia's carbon market ecosystem)"
     url: "https://theedgemalaysia.com/node/800680"
     publisher: "The Edge Malaysia"
@@ -117,7 +125,7 @@ Lima belas entiti korporat tempatan — institusi kewangan dan syarikat berkaita
 
 Dua instrumen pematuhan dirancang:
 
-- **Cukai karbon.** Diumumkan untuk sektor besi, keluli dan tenaga menjelang 2026, tetapi — menurut The Edge Malaysia — pelaksanaannya **ditangguhkan** berikutan ketegangan geopolitik dan bagi mengelakkan tekanan kos tambahan kepada rakyat dan industri.
+- **Cukai karbon.** Diumumkan untuk sektor besi, keluli dan tenaga menjelang 2026, tetapi pada **5 Oktober 2026** Menteri NRES, Datuk Seri Arthur Joseph Kurup, berkata ia telah **ditangguhkan** dan tidak akan dilaksanakan pada 2026, sambil memetik ketegangan geopolitik dan harga tenaga yang tidak menentu. Tiada tarikh permulaan baharu ditetapkan, dan Belanjawan 2027 (dibentangkan pada 9 Oktober 2026) tidak mengumumkan sebarang tarikh. Lihat [cukai karbon Malaysia yang ditangguhkan](/taxation/carbon-tax-malaysia) untuk butirannya.
 - **Skim Perdagangan Pelepasan Domestik (DETS).** Rang Undang-Undang Perubahan Iklim yang bakal datang dijangka menyediakan asas perundangan bagi sebuah DETS, yang akan dibangunkan selepas cukai karbon. Rancangan Malaysia Ke-13 (2026–2030) komited untuk melancarkannya.
 
 ## Di manakah penangkapan karbon terletak?

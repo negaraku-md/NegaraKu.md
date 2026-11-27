@@ -18,7 +18,7 @@ keyTakeaways:
   - "The cut splits into an unconditional 20 MtCO₂eq and a further 10 MtCO₂eq conditional on international climate finance, technology transfer and capacity-building."
   - "Emissions are projected to peak between 2029 and 2034; Malaysia commits to peak no later than 2034 and aspires to peak by 2030 if support allows."
   - "The National Climate Change Policy 2.0 is the umbrella policy; net-zero greenhouse-gas emissions by 2050 is the long-term aspiration."
-  - "A Climate Change Act is being drafted to create a data repository, an MMRV reporting framework, a National Climate Fund and a domestic emissions trading scheme; a carbon tax on iron, steel and energy is slated for 2026."
+  - "A Climate Change Act is being drafted to create a data repository, an MMRV reporting framework, a National Climate Fund and a domestic emissions trading scheme; a carbon tax on iron, steel and energy was slated for 2026 but was deferred on 5 October 2026."
 appliesTo: "Business sustainability and ESG teams, energy and manufacturing firms in hard-to-abate sectors, investors and analysts tracking Malaysian carbon markets, policy researchers, students, and anyone trying to understand where Malaysia stands on climate."
 
 faq:
@@ -31,7 +31,7 @@ faq:
   - q: "What is the Climate Change Act and is it law yet?"
     a: "It is a proposed umbrella statute intended to give Malaysia's climate commitments legal force — a national climate-data repository, a mandatory measurement-monitoring-reporting-and-verification (MMRV) framework, a National Climate Fund and a domestic emissions trading scheme. As of the latest public information it had not yet been enacted; a consultation paper was released in 2024 and the bill was being prepared for tabling in Parliament."
   - q: "Is there a carbon tax or carbon market in Malaysia?"
-    a: "The government has announced a carbon tax on the iron, steel and energy industries to take effect in 2026, aligned with a National Carbon Market Policy and the forthcoming Climate Change Bill. Under the 13th Malaysia Plan (2026–2030) it also intends to launch a domestic emissions trading scheme. Malaysia additionally intends to use voluntary cooperation under Article 6 of the Paris Agreement."
+    a: "The government announced a carbon tax on the iron, steel and energy industries for 2026, but on 5 October 2026 the NRES Minister deferred it — it will not take effect in 2026, and no new start date has been set. It is aligned with a National Carbon Market Policy and the forthcoming Climate Change Bill. Under the 13th Malaysia Plan (2026–2030) the government also intends to launch a domestic emissions trading scheme. Malaysia additionally intends to use voluntary cooperation under Article 6 of the Paris Agreement."
   - q: "What are the conditional parts of the NDC?"
     a: "Of the 15–30 MtCO₂eq target, up to 20 MtCO₂eq is unconditional — Malaysia commits to it regardless. A further 10 MtCO₂eq is conditional, meaning it will only be delivered if international climate finance, technology transfer and capacity-building support are provided."
 
@@ -44,15 +44,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: recorded that the carbon tax on iron, steel and energy, slated for 2026, was deferred on 5 October 2026 (will not take effect in 2026; no new start date) in the key takeaways, FAQ and body. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
+  - title: "Govt defers carbon tax amid global uncertainties"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "Malaysia's Third Iteration of the Nationally Determined Contribution (NDC 3.0)"
     url: "https://unfccc.int/sites/default/files/2025-10/Malaysia%20NDC%203.0%20to%20UNFCCC%202025%20final.pdf"
     publisher: "United Nations Framework Convention on Climate Change (UNFCCC)"
@@ -161,7 +169,7 @@ An important caveat: as of the latest public information, the Act had **not yet 
 
 Two distinct mechanisms are taking shape, and they are easy to confuse.
 
-The first is a **carbon tax.** The government announced that a carbon tax on the **iron, steel and energy industries will take effect in 2026**, aligned with a National Carbon Market Policy (Dasar Pasaran Karbon Kebangsaan) and the forthcoming Climate Change Bill. A tax fixes the *price* of each tonne and lets the quantity of emissions adjust.
+The first is a **carbon tax.** The government announced that a carbon tax on the iron, steel and energy industries would take effect in 2026 — but on **5 October 2026** the NRES Minister **deferred** it, citing geopolitical tensions and volatile energy prices; it will not take effect in 2026, and no new start date has been set. It is aligned with a National Carbon Market Policy (Dasar Pasaran Karbon Kebangsaan) and the forthcoming Climate Change Bill. A tax fixes the *price* of each tonne and lets the quantity of emissions adjust.
 
 The second is the **domestic emissions trading scheme.** Under the 13th Malaysia Plan (2026–2030), Malaysia intends to introduce the National Carbon Market Policy and launch a domestic ETS. An ETS caps the *quantity* of emissions and lets the market set the price, with the Climate Change Act providing its legal basis.
 

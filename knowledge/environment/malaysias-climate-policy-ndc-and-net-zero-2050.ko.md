@@ -18,7 +18,7 @@ keyTakeaways:
   - "감축량은 무조건적 2,000만 톤 CO₂환산량과, 국제 기후 재원·기술 이전·역량 강화에 조건부인 추가 1,000만 톤 CO₂환산량으로 나뉩니다."
   - "배출량은 2029년에서 2034년 사이에 정점에 이를 것으로 예측되며, 말레이시아는 늦어도 2034년까지 정점에 도달하겠다고 약속하고, 지원이 허용된다면 2030년까지 정점에 도달하기를 바랍니다."
   - "국가 기후변화 정책 2.0은 상위 정책이며, 2050년까지 온실가스 순배출 제로는 장기적 지향입니다."
-  - "데이터 저장소, MMRV 보고 체계, 국가 기후 기금, 국내 배출권 거래제를 만들기 위해 기후변화법이 입안되고 있으며, 철·강·에너지에 대한 탄소세는 2026년으로 예정되어 있습니다."
+  - "데이터 저장소, MMRV 보고 체계, 국가 기후 기금, 국내 배출권 거래제를 만들기 위해 기후변화법이 입안되고 있으며, 철·강·에너지에 대한 탄소세는 2026년으로 예정되었으나 2026년 10월 5일 연기되었습니다."
 appliesTo: "기업의 지속가능성·ESG 팀, 감축이 어려운 부문의 에너지·제조 기업, 말레이시아 탄소 시장을 추적하는 투자자와 분석가, 정책 연구자, 학생, 그리고 기후에 관한 말레이시아의 입장을 이해하려는 모든 사람."
 
 faq:
@@ -31,12 +31,12 @@ faq:
   - q: "기후변화법이란 무엇이며 이미 법이 되었습니까?"
     a: "국가 기후 데이터 저장소, 의무적 측정-모니터링-보고-검증(MMRV) 체계, 국가 기후 기금, 국내 배출권 거래제를 통해 말레이시아의 기후 약속에 법적 효력을 부여하려는 제안된 포괄 법령입니다. 최신 공개 정보 기준으로는 아직 제정되지 않았으며, 2024년에 협의 문서가 발표되었고 법안이 국회 상정을 위해 준비되고 있었습니다."
   - q: "말레이시아에 탄소세나 탄소 시장이 있습니까?"
-    a: "정부는 국가 탄소 시장 정책 및 준비 중인 기후변화 법안과 연계하여 2026년부터 철·강·에너지 산업에 대한 탄소세를 시행한다고 발표했습니다. 제13차 말레이시아 계획(2026~2030년) 아래에서 국내 배출권 거래제도 출범시킬 예정입니다. 말레이시아는 추가로 파리협정 제6조에 따른 자발적 협력을 활용할 의향입니다."
+    a: "정부는 철·강·에너지 산업에 대한 탄소세를 2026년에 시행하겠다고 발표했으나, 2026년 10월 5일 NRES 장관이 이를 연기했습니다 — 2026년에는 시행되지 않으며, 새로운 시행 시점은 정해지지 않았습니다. 이는 국가 탄소 시장 정책 및 준비 중인 기후변화 법안과 연계됩니다. 제13차 말레이시아 계획(2026~2030년) 아래에서 정부는 국내 배출권 거래제도 출범시킬 예정입니다. 말레이시아는 추가로 파리협정 제6조에 따른 자발적 협력을 활용할 의향입니다."
   - q: "NDC의 조건부 부분은 무엇입니까?"
     a: "1,500만~3,000만 톤 CO₂환산량 목표 중 최대 2,000만 톤 CO₂환산량은 무조건적으로, 말레이시아가 여건과 무관하게 약속합니다. 추가 1,000만 톤 CO₂환산량은 조건부로, 국제 기후 재원, 기술 이전, 역량 강화 지원이 제공될 경우에만 달성됩니다."
 
 lang: "ko"
-sourceContentHash: "6a0b336c4432c9c8"
+sourceContentHash: "29ba93df6f074e81"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -45,15 +45,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: recorded that the carbon tax on iron, steel and energy, slated for 2026, was deferred on 5 October 2026 (will not take effect in 2026; no new start date) in the key takeaways, FAQ and body. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
+  - title: "정부, 글로벌 불확실성 속 탄소세 연기 (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "말레이시아 국가결정기여 제3차(NDC 3.0) (Malaysia's Third Iteration of the Nationally Determined Contribution (NDC 3.0))"
     url: "https://unfccc.int/sites/default/files/2025-10/Malaysia%20NDC%203.0%20to%20UNFCCC%202025%20final.pdf"
     publisher: "United Nations Framework Convention on Climate Change (UNFCCC)"
@@ -162,7 +170,7 @@ NCCP 2.0이 전략이고 NDC가 약속이라면, 기후변화법은 집행 층�
 
 두 가지 뚜렷이 다른 메커니즘이 형성되고 있으며, 혼동하기 쉽습니다.
 
-첫째는 **탄소세**입니다. 정부는 국가 탄소 시장 정책(Dasar Pasaran Karbon Kebangsaan) 및 준비 중인 기후변화 법안과 연계하여 **철·강·에너지 산업에 대한 탄소세가 2026년부터 시행**된다고 발표했습니다. 세금은 각 톤의 *가격*을 고정하고 배출 *양*이 조정되도록 둡니다.
+첫째는 **탄소세**입니다. 정부는 철·강·에너지 산업에 대한 탄소세가 2026년부터 시행된다고 발표했으나 — **2026년 10월 5일** NRES 장관이 지정학적 긴장과 변동성 큰 에너지 가격을 이유로 이를 **연기**했으며, 2026년에는 시행되지 않고 새로운 시행 시점도 정해지지 않았습니다. 이는 국가 탄소 시장 정책(Dasar Pasaran Karbon Kebangsaan) 및 준비 중인 기후변화 법안과 연계됩니다. 세금은 각 톤의 *가격*을 고정하고 배출 *양*이 조정되도록 둡니다.
 
 둘째는 **국내 배출권 거래제**입니다. 제13차 말레이시아 계획(2026~2030년) 아래에서 말레이시아는 국가 탄소 시장 정책을 도입하고 국내 ETS를 출범시킬 의향입니다. ETS는 배출 *양*에 상한을 두고 시장이 가격을 정하도록 하며, 기후변화법이 그 법적 근거를 제공합니다.
 

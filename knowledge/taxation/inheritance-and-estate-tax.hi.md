@@ -38,7 +38,7 @@ faq:
     a: "हाँ। निष्पादक को LHDN को मृत्यु की सूचना देनी होगी, मृतक की अंतिम विवरणी और संपदा की विवरणियाँ दाखिल करनी होंगी, और संपदा वितरित करने से पहले किसी भी बकाया कर और दंड का निपटान करना होगा। जिस वर्ष LHDN को मृत्यु की सूचना मिलती है उसके अंत से तीन वर्ष तक LHDN के पास निर्धारण करने का समय होता है।"
 
 lang: "hi"
-sourceContentHash: "41452eb0f37e297f"
+sourceContentHash: "4f17ffe66a193226"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,19 +48,27 @@ reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-08
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 verificationNeeded: []
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: corrected the incidental aside that the carbon tax runs 'from 2026' — it was announced for 2026 but deferred on 5 October 2026; added an internal link to the carbon-tax guide. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "किसी व्यक्ति की मृत्यु (मलेशियाई कर तकनीकी लेख) (Death of an individual (Malaysian tax technical article))"
     url: "https://www.accaglobal.com/gb/en/student/exam-support-resources/professional-exams-study-resources/p6/technical-articles/death.html"
     publisher: "ACCA Global"
+  - title: "सरकार ने वैश्विक अनिश्चितताओं के बीच कार्बन कर स्थगित किया (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "विरासत कर का सवाल मलेशिया में फिर से उभरा (Question of inheritance tax resurfaces in Malaysia)"
     url: "https://theedgemalaysia.com/article/question-inheritance-tax-resurfaces-malaysia"
     publisher: "The Edge Malaysia"
@@ -123,7 +131,7 @@ framework: explainer
 
 समाप्ति से पहले, संपदा शुल्क केवल बड़ी संपदाओं पर लागू होता था। यह 0%, 5% और 10% के पैमाने पर लगाया जाता था: RM2 मिलियन या उससे कम मूल्य की संपदाएँ कुछ नहीं देतीं, और सबसे ऊँची 10% दर RM4 मिलियन से अधिक मूल्य की संपदाओं पर लागू होती थी। चूँकि सीमा ऊँची थी और शुल्क केवल मृत्यु पर ही लगता था, इससे जुटने वाला राजस्व मामूली था — यही कारण कर सलाहकार आमतौर पर इसके निरसन के लिए देते हैं।
 
-विरासत कर को वापस लाने का विचार समय-समय पर उभरता रहता है। 2016 और 2017 के आसपास इसके पुनः प्रवर्तन की अफवाह थी (सोशल मीडिया पर प्रसारित अपुष्ट संदेशों ने दर 10% बताई थी), और Consumers Association of Penang ने Budget 2018 से पहले इसे सबसे धनी लोगों से राजस्व जुटाने के तरीके के रूप में समर्थन दिया। हर बार, प्रस्ताव खारिज या टाल दिए गए। कर विशेषज्ञ नियमित रूप से इस आधार पर विरोध करते हैं कि विरासत कर उन करों से अतिव्याप्त होगा जो मलेशिया पहले से लगाता है — स्टांप शुल्क और अचल संपत्ति लाभ कर — और निवेश को हतोत्साहित कर सकता है। Budget 2025 से पहले फिर से पुनः प्रवर्तन की अटकलें लगीं, लेकिन कोई ठोस प्रस्ताव नहीं आया, और Budget 2026 (10 October 2025 को प्रस्तुत) में भी कोई नहीं लाया गया — इसका एकमात्र वास्तव में नया कर लोहा, इस्पात और ऊर्जा क्षेत्रों के लिए 2026 से एक कार्बन कर है। इस मार्गदर्शिका की तिथि तक, कोई विरासत कर, संपदा शुल्क या मृत्यु कर न अस्तित्व में है और न ही निर्धारित है।
+विरासत कर को वापस लाने का विचार समय-समय पर उभरता रहता है। 2016 और 2017 के आसपास इसके पुनः प्रवर्तन की अफवाह थी (सोशल मीडिया पर प्रसारित अपुष्ट संदेशों ने दर 10% बताई थी), और Consumers Association of Penang ने Budget 2018 से पहले इसे सबसे धनी लोगों से राजस्व जुटाने के तरीके के रूप में समर्थन दिया। हर बार, प्रस्ताव खारिज या टाल दिए गए। कर विशेषज्ञ नियमित रूप से इस आधार पर विरोध करते हैं कि विरासत कर उन करों से अतिव्याप्त होगा जो मलेशिया पहले से लगाता है — स्टांप शुल्क और अचल संपत्ति लाभ कर — और निवेश को हतोत्साहित कर सकता है। Budget 2025 से पहले फिर से पुनः प्रवर्तन की अटकलें लगीं, लेकिन कोई ठोस प्रस्ताव नहीं आया, और Budget 2026 (10 October 2025 को प्रस्तुत) में भी कोई नहीं लाया गया — इसका एकमात्र वास्तव में नया कर लोहा, इस्पात और ऊर्जा क्षेत्रों के लिए एक कार्बन कर था — जिसे 2026 के लिए घोषित किया गया था, लेकिन [5 October 2026 को स्थगित कर दिया गया](/taxation/carbon-tax-malaysia)। इस मार्गदर्शिका की तिथि तक, कोई विरासत कर, संपदा शुल्क या मृत्यु कर न अस्तित्व में है और न ही निर्धारित है।
 
 तो यदि विरासत पर ही कोई कर नहीं है, तो कर वास्तव में कहाँ तस्वीर में प्रवेश करता है? तीन स्थानों पर, जिनमें से सभी *आय और लाभ* के बारे में हैं, धन के हस्तांतरण के बारे में नहीं।
 

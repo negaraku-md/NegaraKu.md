@@ -38,7 +38,7 @@ faq:
     a: "Sí. El albacea debe informar del fallecimiento a la LHDN, presentar la declaración final del fallecido y las declaraciones de la sucesión, y liquidar cualquier impuesto y sanción pendientes antes de distribuir la sucesión. La LHDN tiene tres años, desde el final del año en que se le notifica el fallecimiento, para emitir liquidaciones."
 
 lang: "es"
-sourceContentHash: "41452eb0f37e297f"
+sourceContentHash: "4f17ffe66a193226"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,19 +48,27 @@ reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-08
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 verificationNeeded: []
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: corrected the incidental aside that the carbon tax runs 'from 2026' — it was announced for 2026 but deferred on 5 October 2026; added an internal link to the carbon-tax guide. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "Fallecimiento de una persona física (artículo técnico fiscal de Malasia) (Death of an individual (Malaysian tax technical article))"
     url: "https://www.accaglobal.com/gb/en/student/exam-support-resources/professional-exams-study-resources/p6/technical-articles/death.html"
     publisher: "ACCA Global"
+  - title: "El Gobierno aplaza el impuesto al carbono en medio de incertidumbres globales (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "La cuestión del impuesto sobre herencias resurge en Malasia (Question of inheritance tax resurfaces in Malaysia)"
     url: "https://theedgemalaysia.com/article/question-inheritance-tax-resurfaces-malaysia"
     publisher: "The Edge Malaysia"
@@ -123,7 +131,7 @@ No. Malasia no aplica ningún impuesto sobre herencias, impuesto de sucesiones n
 
 Antes de la abolición, el impuesto de sucesiones se aplicaba solo a las sucesiones mayores. Se cobraba en una escala de 0%, 5% y 10%: las sucesiones valoradas en RM2 millones o menos no pagaban nada, y la tasa máxima del 10% se aplicaba a las sucesiones valoradas por encima de RM4 millones. Dado que el umbral era alto y el impuesto se detonaba solo al fallecer, los ingresos que recaudaba eran modestos — que es la razón que los asesores fiscales suelen dar para su derogación.
 
-La idea de reintroducir un impuesto sobre herencias resurge de vez en cuando. Se rumoreó una reintroducción hacia 2016 y 2017 (mensajes no confirmados que circulaban en redes sociales situaban la tasa en el 10%), y la Consumers Association of Penang abogó por ella de cara al Presupuesto 2018 como forma de recaudar de los más ricos. Cada vez, las propuestas han sido descartadas o aparcadas. Los expertos fiscales suelen rebatirla con el argumento de que un impuesto sobre herencias se solaparía con impuestos que Malasia ya cobra — el impuesto de timbre y el impuesto sobre ganancias de bienes inmuebles — y podría disuadir la inversión. Se volvió a especular con la reintroducción de cara al Presupuesto 2025, pero no siguió ninguna propuesta concreta, y el Presupuesto 2026 (presentado el 10 de octubre de 2025) tampoco introdujo ninguno — su único impuesto genuinamente nuevo es un impuesto sobre el carbono a partir de 2026 para los sectores del hierro, el acero y la energía. A la fecha de esta guía, no existe ni está previsto ningún impuesto sobre herencias, impuesto de sucesiones o impuesto sobre el fallecimiento.
+La idea de reintroducir un impuesto sobre herencias resurge de vez en cuando. Se rumoreó una reintroducción hacia 2016 y 2017 (mensajes no confirmados que circulaban en redes sociales situaban la tasa en el 10%), y la Consumers Association of Penang abogó por ella de cara al Presupuesto 2018 como forma de recaudar de los más ricos. Cada vez, las propuestas han sido descartadas o aparcadas. Los expertos fiscales suelen rebatirla con el argumento de que un impuesto sobre herencias se solaparía con impuestos que Malasia ya cobra — el impuesto de timbre y el impuesto sobre ganancias de bienes inmuebles — y podría disuadir la inversión. Se volvió a especular con la reintroducción de cara al Presupuesto 2025, pero no siguió ninguna propuesta concreta, y el Presupuesto 2026 (presentado el 10 de octubre de 2025) tampoco introdujo ninguno — su único impuesto genuinamente nuevo era un impuesto sobre el carbono para los sectores del hierro, el acero y la energía — anunciado para 2026, pero [aplazado el 5 de octubre de 2026](/taxation/carbon-tax-malaysia). A la fecha de esta guía, no existe ni está previsto ningún impuesto sobre herencias, impuesto de sucesiones o impuesto sobre el fallecimiento.
 
 Entonces, si no hay impuesto sobre la herencia misma, ¿dónde entra realmente el impuesto en escena? En tres lugares, todos ellos relativos a *la renta y las ganancias*, no a la transmisión del patrimonio.
 

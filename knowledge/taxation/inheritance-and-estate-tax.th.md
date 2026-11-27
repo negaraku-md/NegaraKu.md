@@ -38,7 +38,7 @@ faq:
     a: "ต้อง ผู้จัดการมรดกต้องแจ้ง LHDN เรื่องการเสียชีวิต ยื่นแบบสุดท้ายของผู้ตายและแบบของกองมรดก และชำระภาษีค้างและค่าปรับใดก่อนแบ่งกองมรดก LHDN มีเวลาสามปีนับจากสิ้นปีที่ได้รับแจ้งการเสียชีวิตในการออกการประเมิน"
 
 lang: "th"
-sourceContentHash: "41452eb0f37e297f"
+sourceContentHash: "4f17ffe66a193226"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,19 +48,27 @@ reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-08
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 verificationNeeded: []
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: corrected the incidental aside that the carbon tax runs 'from 2026' — it was announced for 2026 but deferred on 5 October 2026; added an internal link to the carbon-tax guide. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "การเสียชีวิตของบุคคลธรรมดา (บทความเทคนิคภาษีมาเลเซีย) (Death of an individual (Malaysian tax technical article))"
     url: "https://www.accaglobal.com/gb/en/student/exam-support-resources/professional-exams-study-resources/p6/technical-articles/death.html"
     publisher: "ACCA Global"
+  - title: "รัฐบาลเลื่อนภาษีคาร์บอนท่ามกลางความไม่แน่นอนทั่วโลก (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "ประเด็นภาษีมรดกกลับมาเป็นที่ถกเถียงในมาเลเซีย (Question of inheritance tax resurfaces in Malaysia)"
     url: "https://theedgemalaysia.com/article/question-inheritance-tax-resurfaces-malaysia"
     publisher: "The Edge Malaysia"
@@ -135,8 +143,8 @@ framework: explainer
 2018 เป็นวิธีเก็บรายได้จากผู้มั่งคั่งที่สุด แต่ละครั้งข้อเสนอถูกปฏิเสธหรือพักไว้ ผู้เชี่ยวชาญภาษีมักคัดค้านบนพื้นฐานว่า
 ภาษีมรดกจะซ้อนทับกับภาษีที่มาเลเซียเก็บอยู่แล้ว — อากรแสตมป์และภาษีกำไรจากอสังหาริมทรัพย์ — และอาจขัดขวางการลงทุน
 การนำกลับมาถูกคาดเดาอีกครั้งก่อน Budget 2025 แต่ไม่มีข้อเสนอที่เป็นรูปธรรมตามมา และ Budget 2026 (เสนอเมื่อวันที่
-10 ตุลาคม 2025) ก็ไม่ได้นำมาใช้เช่นกัน — ภาษีใหม่ที่แท้จริงเพียงอย่างเดียวคือภาษีคาร์บอนตั้งแต่ปี 2026 สำหรับภาคเหล็ก
-เหล็กกล้า และพลังงาน ณ วันที่ของคู่มือนี้ ไม่มีภาษีมรดก อากรกองมรดก หรือภาษีการเสียชีวิตที่มีอยู่หรือกำหนดไว้
+10 ตุลาคม 2025) ก็ไม่ได้นำมาใช้เช่นกัน — ภาษีใหม่ที่แท้จริงเพียงอย่างเดียวคือภาษีคาร์บอนสำหรับภาคเหล็ก
+เหล็กกล้า และพลังงาน — ประกาศสำหรับปี 2026 แต่[ถูกเลื่อนเมื่อวันที่ 5 ตุลาคม 2026](/taxation/carbon-tax-malaysia) ณ วันที่ของคู่มือนี้ ไม่มีภาษีมรดก อากรกองมรดก หรือภาษีการเสียชีวิตที่มีอยู่หรือกำหนดไว้
 
 ดังนั้นหากไม่มีภาษีบนตัวมรดกเอง ภาษีเข้ามาในภาพจริงที่ไหน? ในสามที่ ทั้งหมดเกี่ยวกับ *เงินได้และกำไร* ไม่ใช่การโอนความมั่งคั่ง
 

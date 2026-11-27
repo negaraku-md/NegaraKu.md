@@ -18,7 +18,7 @@ keyTakeaways:
   - "El recorte se divide en 20 MtCO₂eq incondicionales y otros 10 MtCO₂eq condicionados a financiación climática internacional, transferencia de tecnología y creación de capacidades."
   - "Se proyecta que las emisiones alcancen su pico entre 2029 y 2034; Malasia se compromete a alcanzar el pico a más tardar en 2034 y aspira a alcanzarlo para 2030 si el apoyo lo permite."
   - "La Política Nacional de Cambio Climático 2.0 es la política paraguas; las emisiones netas cero de gases de efecto invernadero para 2050 son la aspiración a largo plazo."
-  - "Se está redactando una Ley de Cambio Climático para crear un repositorio de datos, un marco de notificación MMRV, un Fondo Nacional del Clima y un régimen nacional de comercio de emisiones; un impuesto sobre el carbono para el hierro, el acero y la energía está previsto para 2026."
+  - "Se está redactando una Ley de Cambio Climático para crear un repositorio de datos, un marco de notificación MMRV, un Fondo Nacional del Clima y un régimen nacional de comercio de emisiones; un impuesto sobre el carbono para el hierro, el acero y la energía estaba previsto para 2026 pero fue aplazado el 5 de octubre de 2026."
 appliesTo: "Equipos de sostenibilidad y ESG de empresas, firmas de energía y manufactura en sectores difíciles de descarbonizar, inversores y analistas que siguen los mercados de carbono malasios, investigadores de políticas, estudiantes y cualquiera que intente entender dónde se encuentra Malasia en materia climática."
 
 faq:
@@ -31,12 +31,12 @@ faq:
   - q: "¿Qué es la Ley de Cambio Climático y es ya ley?"
     a: "Es una ley paraguas propuesta destinada a dar fuerza jurídica a los compromisos climáticos de Malasia — un repositorio nacional de datos climáticos, un marco obligatorio de medición-monitoreo-notificación-y-verificación (MMRV), un Fondo Nacional del Clima y un régimen nacional de comercio de emisiones. Según la información pública más reciente, aún no había sido promulgada; en 2024 se publicó un documento de consulta y el proyecto de ley se estaba preparando para presentarlo al Parlamento."
   - q: "¿Hay un impuesto sobre el carbono o un mercado de carbono en Malasia?"
-    a: "El gobierno ha anunciado un impuesto sobre el carbono para las industrias del hierro, el acero y la energía que entrará en vigor en 2026, alineado con una Política Nacional del Mercado de Carbono y el futuro Proyecto de Ley de Cambio Climático. En el marco del 13.º Plan de Malasia (2026–2030) también tiene la intención de lanzar un régimen nacional de comercio de emisiones. Malasia, además, pretende recurrir a la cooperación voluntaria conforme al Artículo 6 del Acuerdo de París."
+    a: "El gobierno anunció un impuesto sobre el carbono para las industrias del hierro, el acero y la energía para 2026, pero el 5 de octubre de 2026 el Ministro del NRES lo aplazó — no entrará en vigor en 2026 y no se ha fijado ninguna nueva fecha de inicio. Está alineado con una Política Nacional del Mercado de Carbono y el futuro Proyecto de Ley de Cambio Climático. En el marco del 13.º Plan de Malasia (2026–2030) el gobierno también tiene la intención de lanzar un régimen nacional de comercio de emisiones. Malasia, además, pretende recurrir a la cooperación voluntaria conforme al Artículo 6 del Acuerdo de París."
   - q: "¿Cuáles son las partes condicionales de la NDC?"
     a: "Del objetivo de 15–30 MtCO₂eq, hasta 20 MtCO₂eq son incondicionales — Malasia se compromete a ello pase lo que pase. Otros 10 MtCO₂eq son condicionales, lo que significa que solo se lograrán si se proporcionan financiación climática internacional, transferencia de tecnología y apoyo a la creación de capacidades."
 
 lang: "es"
-sourceContentHash: "6a0b336c4432c9c8"
+sourceContentHash: "29ba93df6f074e81"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -45,15 +45,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: recorded that the carbon tax on iron, steel and energy, slated for 2026, was deferred on 5 October 2026 (will not take effect in 2026; no new start date) in the key takeaways, FAQ and body. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
+  - title: "El Gobierno aplaza el impuesto al carbono en medio de incertidumbres globales (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "Tercera iteración de la Contribución Determinada a Nivel Nacional de Malasia (NDC 3.0) (Malaysia's Third Iteration of the Nationally Determined Contribution (NDC 3.0))"
     url: "https://unfccc.int/sites/default/files/2025-10/Malaysia%20NDC%203.0%20to%20UNFCCC%202025%20final.pdf"
     publisher: "Convención Marco de las Naciones Unidas sobre el Cambio Climático (UNFCCC)"
@@ -162,7 +170,7 @@ Una advertencia importante: según la información pública más reciente, la Le
 
 Están tomando forma dos mecanismos distintos, y es fácil confundirlos.
 
-El primero es un **impuesto sobre el carbono.** El gobierno anunció que un impuesto sobre el carbono para las **industrias del hierro, el acero y la energía entrará en vigor en 2026**, alineado con una Política Nacional del Mercado de Carbono (Dasar Pasaran Karbon Kebangsaan) y el futuro Proyecto de Ley de Cambio Climático. Un impuesto fija el *precio* de cada tonelada y deja que la cantidad de emisiones se ajuste.
+El primero es un **impuesto sobre el carbono.** El gobierno anunció que un impuesto sobre el carbono para las industrias del hierro, el acero y la energía entraría en vigor en 2026 — pero el **5 de octubre de 2026** el Ministro del NRES lo **aplazó**, citando tensiones geopolíticas y la volatilidad de los precios de la energía; no entrará en vigor en 2026 y no se ha fijado ninguna nueva fecha de inicio. Está alineado con una Política Nacional del Mercado de Carbono (Dasar Pasaran Karbon Kebangsaan) y el futuro Proyecto de Ley de Cambio Climático. Un impuesto fija el *precio* de cada tonelada y deja que la cantidad de emisiones se ajuste.
 
 El segundo es el **régimen nacional de comercio de emisiones.** En el marco del 13.º Plan de Malasia (2026–2030), Malasia tiene la intención de introducir la Política Nacional del Mercado de Carbono y lanzar un ETS nacional. Un ETS limita la *cantidad* de emisiones y deja que el mercado fije el precio, con la Ley de Cambio Climático proporcionando su base jurídica.
 

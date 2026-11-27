@@ -12,24 +12,24 @@ mode: "practical"
 contentType: "faq"
 sensitivity: "none"
 
-answer: "马来西亚尚未推出覆盖全经济体的碳价。目前碳在马交所碳交易所（Bursa Carbon Exchange）上以自愿方式交易，而《国家碳市场政策》（于2026年4月21日推出）为未来的合规市场设定框架。针对钢铁与能源行业的碳税以及国内排放交易机制均在计划中，但据《The Edge Malaysia》报道，截至2026年年中，碳税因《气候变化法案》待定而暂缓实施。"
+answer: "马来西亚尚未推出覆盖全经济体的碳价。目前碳在马交所碳交易所（Bursa Carbon Exchange）上以自愿方式交易，而《国家碳市场政策》（于2026年4月21日推出）为未来的合规市场设定框架。针对钢铁与能源行业的碳税以及国内排放交易机制均在计划中，但在2026年10月5日，NRES部长宣布碳税已被延后，将不会在2026年实施，有待《气候变化法案》出台。"
 keyTakeaways:
   - "《国家碳市场政策》在内阁于2026年4月1日批准后，由天然资源与环境永续部（NRES）于2026年4月21日推出。"
   - "马交所碳交易所是一个自愿性市场；其于2023年3月16日举行的首次拍卖售出15万单位碳信用，成交价分别为每单位18.50令吉（GTC）和68.00令吉（GNC+）。"
-  - "针对钢铁与能源行业、原定于2026年开征的碳税，据《The Edge Malaysia》报道，截至2026年已暂缓实施。"
+  - "针对钢铁与能源行业、原定于2026年开征的碳税，已于2026年10月5日由NRES部长延后，将不会在2026年开征；尚未设定新的起始日期。"
   - "《2025年碳捕集、利用与封存法令》（第870号法令）于2025年7月22日颁布，并设立马来西亚碳捕集、利用与封存署（MCCA）。"
 appliesTo: "关注马来西亚如何为碳定价及进行碳交易的企业、可持续发展团队、投资者与政策观察者。"
 
 faq:
   - q: "马来西亚有碳税吗？"
-    a: "尚未有。针对钢铁与能源行业的碳税曾宣布于2026年开征，但《The Edge Malaysia》报道称，由于地缘政治紧张局势，以及为避免对民众与产业造成额外成本压力，其实施在《气候变化法案》待定期间暂缓执行。"
+    a: "尚未有。针对钢铁与能源行业的碳税曾宣布于2026年开征，但在2026年10月5日，NRES部长Datuk Seri Arthur Joseph Kurup宣布该碳税已被延后，将不会在2026年实施，理由是地缘政治紧张局势与能源价格波动。政府尚未设定新的起始日期，推行工作仍排定在《国家碳市场政策》及待审的《气候变化法案》之后。"
   - q: "在马来西亚可以在哪里交易碳信用？"
     a: "在马交所碳交易所（BCX）交易。这是一个由Bursa Malaysia Carbon Market Sdn Bhd运营的自愿性市场，提供拍卖、连续交易与场外交易三种方式。"
   - q: "什么是《国家碳市场政策》？"
     a: "这是天然资源与环境永续部（NRES）于2026年4月21日推出的一项框架，旨在于引入合规定价工具之前，建立一个高诚信度的碳市场、国家碳登记册与监测系统。"
 
 lang: "zh"
-sourceContentHash: "da637e665e1a9fd4"
+sourceContentHash: "3f730671ca2c2681"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -38,20 +38,28 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 verificationNeeded:
   - "Bursa Carbon Exchange 是否将挂牌限于 2016 年起由 Verra 签发的项目（该说法因缺乏 BCX/Bursa Malaysia 一手来源而已删除；所引用的 BCX About 页面并未如此说明）。"
   - "BCX 上挂牌的马来西亚本土项目当前清单与数量（例如 Kuamut Rainforest Conservation Project），并附注明日期的权威来源（相关表述在核实前已删除）。"
-  - "National Climate Change Bill 的确切提呈日期及状态（The Edge 报道预计将于 2026 年 7 月提呈）。"
-  - "在 Climate Change Bill 提呈后碳税是否仍搁置，以及来自 NRES / Ministry of Finance 的最新官方状态。"
+  - "National Climate Change Bill 的确切提呈日期及状态（The Edge 报道预计将于 2026 年 7 月提呈；NRES 部长于 2026 年 10 月 5 日表示，他希望该法案能尽快提呈）。"
+  - "在 2026 年 10 月 5 日延后之后，是否已设定新的碳税起始日期——截至本次核订尚未宣布，包括在 2027 年财政预算案中。"
 revisions:
   - revision: 0
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: replaced the 'on hold as of mid-2026' framing with the deferral the NRES Minister announced on 5 October 2026 (carbon tax will not be implemented in 2026; no new start date; Budget 2027 set none) in the answer, key takeaways, FAQ and body. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-07-28
+updated: 2026-11-27
 sources:
+  - title: "政府因全球不确定性而推迟碳税 (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "国家碳市场政策推出，以引导马来西亚碳市场生态系统 (National Carbon Market Policy launched to guide Malaysia's carbon market ecosystem)"
     url: "https://theedgemalaysia.com/node/800680"
     publisher: "The Edge Malaysia"
@@ -117,7 +125,7 @@ framework: explainer
 
 计划中有两项合规工具：
 
-- **碳税。** 曾宣布于2026年针对钢铁与能源行业开征，但据《The Edge Malaysia》报道，由于地缘政治紧张局势，以及为避免对民众与产业造成额外成本压力，其实施已被**暂缓**。
+- **碳税。** 曾宣布于2026年针对钢铁与能源行业开征，但在2026年10月5日，NRES部长Datuk Seri Arthur Joseph Kurup表示，碳税已被**延后**，将不会在2026年实施，理由是地缘政治紧张局势与能源价格波动。政府尚未设定新的起始日期，2026年10月9日提呈的2027年财政预算案也未宣布任何日期。详情见[马来西亚延后的碳税](/taxation/carbon-tax-malaysia)。
 - **国内排放交易机制（DETS）。** 即将出台的《气候变化法案》预计将为国内排放交易机制提供法律依据，该机制将在碳税之后制定。《第十三大马计划》（2026–2030）承诺将其推出。
 
 ## 碳捕集在其中处于什么位置？

@@ -38,7 +38,7 @@ faq:
     a: "Ya. Wasi harus memberi tahu LHDN tentang kematian, menyampaikan laporan akhir pewaris dan laporan harta peninggalan, serta menyelesaikan pajak dan penalti tertunggak apa pun sebelum membagikan harta peninggalan. LHDN memiliki tiga tahun dari akhir tahun ia diberi tahu tentang kematian untuk menerbitkan ketetapan."
 
 lang: "id"
-sourceContentHash: "41452eb0f37e297f"
+sourceContentHash: "4f17ffe66a193226"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,19 +48,27 @@ reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-08
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 verificationNeeded: []
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update: corrected the incidental aside that the carbon tax runs 'from 2026' — it was announced for 2026 but deferred on 5 October 2026; added an internal link to the carbon-tax guide. Source: The Star, 5 October 2026."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "Kematian individu (artikel teknis pajak Malaysia) (Death of an individual (Malaysian tax technical article))"
     url: "https://www.accaglobal.com/gb/en/student/exam-support-resources/professional-exams-study-resources/p6/technical-articles/death.html"
     publisher: "ACCA Global"
+  - title: "Pemerintah menunda pajak karbon di tengah ketidakpastian global (Govt defers carbon tax amid global uncertainties)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/05/govt-defers-carbon-tax-amid-global-uncertainties"
+    publisher: "The Star"
+    date: "2026-10-05"
   - title: "Isu pajak warisan muncul kembali di Malaysia (Question of inheritance tax resurfaces in Malaysia)"
     url: "https://theedgemalaysia.com/article/question-inheritance-tax-resurfaces-malaysia"
     publisher: "The Edge Malaysia"
@@ -123,7 +131,7 @@ Tidak. Malaysia tidak mengenakan pajak warisan, pajak harta peninggalan, atau be
 
 Sebelum penghapusan, bea harta peninggalan hanya berlaku bagi harta peninggalan yang lebih besar. Ia dikenakan pada skala 0%, 5% dan 10%: harta peninggalan bernilai RM2 juta atau ke bawah tidak membayar apa-apa, dan tarif tertinggi 10% berlaku bagi harta peninggalan bernilai melebihi RM4 juta. Karena ambangnya tinggi dan bea hanya dipicu pada kematian, penerimaan yang dikumpulkannya sederhana — itulah alasan yang biasanya diberikan konsultan pajak untuk penghapusannya.
 
-Ide untuk membawa kembali pajak warisan muncul dari waktu ke waktu. Pengenalan kembali dikabarkan sekitar 2016 dan 2017 (pesan tidak terverifikasi yang tersebar di media sosial menempatkan tarifnya pada 10%), dan Persatuan Pengguna Pulau Pinang berargumen untuknya menjelang Anggaran 2018 sebagai cara untuk menghasilkan penerimaan dari golongan terkaya. Setiap kali, usulan itu telah ditolak atau ditangguhkan. Pakar pajak kerap membantah atas alasan bahwa pajak warisan akan tumpang tindih dengan pajak yang sudah dikenakan Malaysia — bea meterai dan pajak keuntungan harta tanah — dan dapat menghambat investasi. Pengenalan kembali sekali lagi dispekulasikan menjelang Anggaran 2025, tetapi tidak ada usulan konkret menyusul, dan Anggaran 2026 (disampaikan pada 10 Oktober 2025) juga tidak memperkenalkan apa-apa — satu-satunya pajak baru yang benar-benar baru adalah pajak karbon mulai 2026 untuk sektor besi, baja dan energi. Hingga tanggal panduan ini, tidak ada pajak warisan, bea harta peninggalan atau pajak kematian yang ada atau dijadwalkan.
+Ide untuk membawa kembali pajak warisan muncul dari waktu ke waktu. Pengenalan kembali dikabarkan sekitar 2016 dan 2017 (pesan tidak terverifikasi yang tersebar di media sosial menempatkan tarifnya pada 10%), dan Persatuan Pengguna Pulau Pinang berargumen untuknya menjelang Anggaran 2018 sebagai cara untuk menghasilkan penerimaan dari golongan terkaya. Setiap kali, usulan itu telah ditolak atau ditangguhkan. Pakar pajak kerap membantah atas alasan bahwa pajak warisan akan tumpang tindih dengan pajak yang sudah dikenakan Malaysia — bea meterai dan pajak keuntungan harta tanah — dan dapat menghambat investasi. Pengenalan kembali sekali lagi dispekulasikan menjelang Anggaran 2025, tetapi tidak ada usulan konkret menyusul, dan Anggaran 2026 (disampaikan pada 10 Oktober 2025) juga tidak memperkenalkan apa-apa — satu-satunya pajak baru yang benar-benar baru adalah pajak karbon untuk sektor besi, baja dan energi — diumumkan untuk 2026, tetapi [ditunda pada 5 Oktober 2026](/taxation/carbon-tax-malaysia). Hingga tanggal panduan ini, tidak ada pajak warisan, bea harta peninggalan atau pajak kematian yang ada atau dijadwalkan.
 
 Jadi jika tidak ada pajak atas warisan itu sendiri, di manakah pajak sebenarnya masuk dalam gambaran? Di tiga tempat, semuanya mengenai *pendapatan dan keuntungan*, bukan pemindahan kekayaan.
 
