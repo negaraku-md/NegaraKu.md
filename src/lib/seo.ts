@@ -139,6 +139,29 @@ function authorFor(d: Article['data']): Record<string, unknown> {
   return { '@type': 'Organization', '@id': ORG_ID, name: 'NegaraKu.md', url: SITE };
 }
 
+/**
+ * True first-published date for schema.org `datePublished`. Prefer an explicit
+ * `created` field; otherwise fall back to the EARLIEST revision-history entry
+ * (revision 0 = "Approved and published") — the real birth date — and only then
+ * to `updated`. Finally clamp so the publish date can never be later than the
+ * last-modified date.
+ *
+ * Why this matters: ~97% of articles carry no `created` field, so datePublished
+ * previously collapsed onto `updated`. Every freshness edit then pushed the
+ * publish date forward, erasing the published↔modified delta Google needs to
+ * show an "Updated" byline in the SERP (the whole point of the timeliness
+ * program) and mimicking the fresh-dating pattern its spam heuristics penalise.
+ * Pinning datePublished to revision 0 restores the article's honest provenance.
+ */
+function publishedDate(d: Article['data']): Date {
+  const birth =
+    d.created ??
+    (d.revisions.length
+      ? d.revisions.reduce((min, r) => (r.date < min ? r.date : min), d.revisions[0].date)
+      : d.updated);
+  return birth > d.updated ? d.updated : birth;
+}
+
 /** Schema.org Article JSON-LD for a knowledge entry. */
 export function articleJsonLd(article: Article, locale: Locale): Record<string, unknown> {
   const d = article.data;
@@ -171,7 +194,7 @@ export function articleJsonLd(article: Article, locale: Locale): Record<string, 
     // Use the single BCP-47 map — the previous inline ternary silently omitted
     // `th` and `vi`, so Thai and Vietnamese articles declared inLanguage "en".
     inLanguage: BCP47[locale],
-    datePublished: (d.created ?? d.updated).toISOString(),
+    datePublished: publishedDate(d).toISOString(),
     dateModified: d.updated.toISOString(),
     mainEntityOfPage: url,
     url,
