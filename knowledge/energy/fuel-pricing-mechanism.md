@@ -17,7 +17,7 @@ keyTakeaways:
   - "Harga bahan api ditetapkan mingguan melalui formula APM sejak April 2017."
   - "Pengumuman harga dibuat pada hari Rabu, satu jadual yang berkuat kuasa sejak 3 Mac 2021."
   - "RON97 diapungkan penuh; harganya berubah setiap minggu mengikut pasaran global."
-  - "RON95 bersubsidi dikekalkan RM1.99/liter (BUDI95, had 300 liter sebulan) manakala harga pasaran am terapung."
+  - "RON95 bersubsidi dikekalkan RM1.99/liter (BUDI95; kuota bulanan 300 liter, dipulihkan 1 September 2026 selepas potongan sementara kepada 200 liter) manakala harga pasaran am terapung."
 appliesTo: "Pemandu, pengguna, dan sesiapa yang ingin memahami sebab harga pam berubah setiap minggu."
 
 faq:
@@ -35,19 +35,22 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 verificationNeeded:
   - "Hari pengumuman sebelum 3 Mac 2021 (Jumaat atau Khamis) — sumber sekunder (paultan.org) menyebut peralihan kepada Rabu tetapi tidak jelas hari asal; sahkan dengan siaran rasmi jika perlu."
   - "Tarikh mula tepat 'April 2017' bagi mekanisme mingguan APM — kini bersandar pada nota latar katalog OpenDOSM; sahkan dengan sumber dasar rasmi."
   - "Harga RON97 minggu sebelumnya (RM3.24) diperoleh secara aritmetik daripada pengurangan 8 sen yang dinyatakan dalam siaran MOF, bukan tersurat dalam siaran itu."
-  - "Sahkan sama ada kadar BUDI95 RM1.99 dan harga pasaran am RON95 masih terkini pada tarikh penerbitan."
 revisions:
   - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Recorded the BUDI95 quota cut to 200 litres (1 April 2026) and its restoration to 300 litres (1 September 2026), price unchanged at RM1.99; resolved the open check on whether the BUDI95 rate and quota were still current."
+    reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "Non-Subsidised RON95 Retail Price Set At RM2.60 Per Litre As BUDI95 Commences"
     url: "https://www.mof.gov.my/portal/en/news/press-release/non-subsidised-ron95-retail-price-set-at-rm2-60-per-litre-as-budi95-commences"
@@ -58,6 +61,10 @@ sources:
   - title: "Government Reduces Non-Subsidised RON95, RON97 And Diesel Retail Prices From 25 December 2025 To 31 December 2025"
     url: "https://www.mof.gov.my/portal/en/news/press-release/retail-price/government-reduces-non-subsidised-ron95-ron97-and-diesel-retail-prices-from-25-december-2025-to-31-december-2025"
     publisher: "Kementerian Kewangan Malaysia (MOF)"
+  - title: "BUDI95 Quota Restored To 300 Litres A Month"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/budi95-quota-restored-to-300-litres-a-month"
+    publisher: "Kementerian Kewangan Malaysia (MOF)"
+    date: "2026-08-30"
   - title: "Government Implements Targeted Diesel Subsidy For Peninsular Malaysia Effective 10 June 2024"
     url: "https://www.mof.gov.my/portal/en/news/press-release/government-implements-targeted-diesel-subsidy-for-peninsular-malaysia-effective-10-june-2024"
     publisher: "Kementerian Kewangan Malaysia (MOF)"
@@ -100,7 +107,7 @@ Di sinilah perbezaan besarnya. RON95 dan diesel tertakluk kepada dasar subsidi b
 | Diesel (Semenanjung) | Terapung sejak subsidi ditarik | RM2.94 |
 | Diesel (Sabah, Sarawak, Labuan) | Dikawal, dikekalkan | RM2.15 |
 
-Di bawah program BUDI95 yang bermula 30 September 2025, rakyat Malaysia yang layak membeli RON95 pada RM1.99 seliter, dengan subsidi RM0.61 seliter sehingga had 300 liter sebulan — bernilai sehingga RM183 sebulan seorang. Harga pasaran am RON95 yang tidak bersubsidi pula ditetapkan pada RM2.60 seliter bagi Oktober 2025 dan turun naik mengikut APM selepas itu (contohnya RM2.56 bagi minggu 25–31 Disember 2025).
+Di bawah program BUDI95 yang bermula 30 September 2025, rakyat Malaysia yang layak membeli RON95 pada RM1.99 seliter, dengan subsidi RM0.61 seliter sehingga had 300 liter sebulan — bernilai sehingga RM183 sebulan seorang. (Kuota itu dikurangkan sementara kepada 200 liter antara 1 April dan 31 Ogos 2026, kemudian dipulihkan kepada 300 liter mulai 1 September 2026; harga kekal RM1.99.) Harga pasaran am RON95 yang tidak bersubsidi pula ditetapkan pada RM2.60 seliter bagi Oktober 2025 dan turun naik mengikut APM selepas itu (contohnya RM2.56 bagi minggu 25–31 Disember 2025).
 
 Bagi diesel, subsidi disasarkan semula di Semenanjung mulai 10 Jun 2024. Sebelum itu diesel bersubsidi dijual pada RM2.15 seliter di seluruh negara; mulai tarikh tersebut, kerajaan menetapkan harga runcit diesel tidak bersubsidi di Semenanjung pada RM3.35 seliter, manakala diesel di Sabah, Sarawak dan Labuan kekal pada RM2.15 seliter. Sejak itu diesel di Semenanjung terapung mengikut APM (RM2.94 bagi minggu 25–31 Disember 2025).
 

@@ -15,7 +15,7 @@ sensitivity: "none"
 answer: "Sejak Juni 2024 (diesel) dan 30 September 2025 (RON95), Malaysia mengganti subsidi bahan bakar menyeluruh dengan subsidi tepat sasaran. Warga negara yang layak membeli RON95 pada RM1.99 per liter di bawah program BUDI95, sementara kelompok T15 (15% berpendapatan tertinggi) dikecualikan. Diesel Semenanjung diapungkan ke harga pasar, dengan subsidi disalurkan langsung kepada individu dan sektor logistik yang layak. Kelayakan diperiksa melalui basis data PADU dan diverifikasi menggunakan MyKad di pompa."
 keyTakeaways:
   - "RON95 bersubsidi adalah RM1.99 per liter untuk warga negara yang layak, berlaku 30 September 2025; harga RON95 tanpa subsidi ditetapkan mingguan melalui APM dan sebesar RM3.77 per liter pada minggu 6–12 Agustus 2026 (subsidi efektif sekitar RM1.78 per liter saat itu)."
-  - "Kuota bulanan BUDI95 dikurangi dari 300 liter menjadi 200 liter mulai 1 April 2026 (harga tetap RM1.99); mulai 1 Juli 2026 kuota 200 liter itu dibagi antara RON95 bersubsidi dan Budi Diesel, sementara pengemudi e-hailing/gig mempertahankan batas atas 800 liter."
+  - "Kuota bulanan BUDI95 dikurangi dari 300 menjadi 200 liter pada 1 April 2026, kemudian dipulihkan ke 300 liter mulai 1 September 2026 (harga tetap RM1.99); kuota itu dibagi antara RON95 bersubsidi dan Budi Diesel, sementara pengemudi e-hailing/gig mempertahankan batas atas 800 liter."
   - "Diesel Semenanjung diapungkan ke RM3.35 per liter pada 10 Juni 2024; pemerintah memperkirakan penghematan sekitar RM5 miliar setahun dari rasionalisasi diesel."
   - "Subsidi RON95 menyeluruh menelan biaya hampir RM20 miliar setahun pada 2023 dan 2024; BUDI95 diperkirakan menghemat RM2.5–4 miliar setahun."
   - "Penghematan dialihkan ke bantuan tunai: alokasi gabungan STR dan SARA untuk 2026 berjumlah RM15 miliar (alokasi tertinggi sejauh ini), memberi manfaat kepada sekitar 9 juta penerima."
@@ -27,17 +27,17 @@ faq:
     a: "RM1.99 per liter untuk warga negara Malaysia yang layak, berlaku 30 September 2025. Harga RON95 tanpa subsidi (untuk yang tidak layak atau setelah kuota habis) ditetapkan mingguan melalui Mekanisme Penetapan Harga Otomatis (APM) — yaitu RM3.77 per liter pada minggu 6–12 Agustus 2026."
   - q: "Siapa yang tidak layak mendapatkan RON95 bersubsidi?"
     a: "Kelompok T15, yaitu 15% rumah tangga berpendapatan tertinggi, dikecualikan. Warga asing tanpa MyKad juga tidak dapat membeli RON95 bersubsidi."
-  - q: "Apa itu kuota 200 liter?"
-    a: "Setiap individu yang layak dapat membeli hingga 200 liter RON95 bersubsidi sebulan (dikurangi dari 300 liter mulai 1 April 2026, harga tetap RM1.99). Mulai 1 Juli 2026 kuota 200 liter itu dibagi antara RON95 bersubsidi dan Budi Diesel. Setelah kuota habis, pembelian dikenakan harga tanpa subsidi. Pengemudi e-hailing dan p-hailing mempertahankan batas atas 800 liter sebulan."
+  - q: "Apa itu kuota BUDI95?"
+    a: "Setiap individu yang layak dapat membeli hingga 300 liter RON95 bersubsidi sebulan — dipulihkan ke 300 liter mulai 1 September 2026 setelah dikurangi sementara ke 200 liter pada 1 April 2026 (harga tetap RM1.99). Kuota itu dibagi antara RON95 bersubsidi dan Budi Diesel. Setelah kuota habis, pembelian dikenakan harga tanpa subsidi. Pengemudi e-hailing dan p-hailing mempertahankan batas atas 800 liter sebulan."
   - q: "Bagaimana kelayakan saya diverifikasi di pompa?"
     a: "Melalui MyKad yang dimasukkan ke terminal, aplikasi perusahaan minyak seperti Setel dan Shell, e-wallet Touch 'n Go, atau pembayaran tunai di loket. Sistem terhubung dengan basis data PADU secara otomatis."
   - q: "Apa yang terjadi pada subsidi diesel?"
-    a: "Diesel Semenanjung diapungkan ke harga pasar (RM3.35 per liter) pada 10 Juni 2024. Individu dan sektor logistik yang layak menerima subsidi tepat sasaran; mulai 1 Juli 2026, pemilik kendaraan diesel pribadi yang layak membeli diesel pada RM2.10 per liter di bawah Budi Diesel, dengan kuota 200 liter dibagi bersama RON95 bersubsidi."
+    a: "Diesel Semenanjung diapungkan ke harga pasar (RM3.35 per liter) pada 10 Juni 2024. Individu dan sektor logistik yang layak menerima subsidi tepat sasaran; mulai 1 Juli 2026, pemilik kendaraan diesel pribadi yang layak membeli diesel pada RM2.10 per liter di bawah Budi Diesel, dengan kuota dasar 300 liter dibagi bersama RON95 bersubsidi; pemilik pikap dan jip yang layak menerima hingga 400 liter per bulan."
   - q: "Apakah harga di Sabah dan Sarawak sama?"
     a: "Diesel di Sabah, Sarawak dan Labuan dipertahankan pada RM2.15 per liter dan tidak diapungkan seperti di Semenanjung. RON95 bersubsidi RM1.99 berlaku untuk warga negara yang layak di seluruh negara."
 
 lang: "id"
-sourceContentHash: "d36719911ef1139c"
+sourceContentHash: "60c4cba7ab6c5590"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -47,7 +47,7 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-08-14
-revision: 0
+revision: 1
 verificationNeeded:
   - "Klasifikasi sensitivity ditetapkan 'none' mengikuti templat, tetapi rasionalisasi subsidi bahan bakar adalah isu kebijakan yang dapat menimbulkan perdebatan politik; editor manusia perlu menilai ulang apakah 'none' sesuai."
 revisions:
@@ -55,8 +55,12 @@ revisions:
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "BUDI95 monthly quota restored to 300 litres from 1 September 2026 (reversing the 1 April 2026 cut to 200 litres), price unchanged at RM1.99; BUDI Diesel for eligible pickup/jeep owners raised to up to 400 litres; Budget 2027 kept fuel subsidies at about RM40 billion for 2027."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "Non-Subsidised RON95 Retail Price Set At RM2.60 Per Litre As BUDI95 Commences"
     url: "https://www.mof.gov.my/portal/en/news/press-release/non-subsidised-ron95-retail-price-set-at-rm2-60-per-litre-as-budi95-commences"
@@ -124,6 +128,10 @@ sources:
   - title: "Kuota BUDI95 Diselaraskan Sementara Kepada 200 Liter Sebulan Mulai 1 April Ini"
     url: "https://www.bernama.com/bm/news.php?id=2537929"
     publisher: "BERNAMA"
+  - title: "Kuota BUDI95 Dipulihkan Menjadi 300 Liter Per Bulan (BUDI95 Quota Restored To 300 Litres A Month)"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/budi95-quota-restored-to-300-litres-a-month"
+    publisher: "Kementerian Keuangan Malaysia (MOF)"
+    date: "2026-08-30"
 
 entity: "BUDI MADANI"
 relations:
@@ -206,7 +214,7 @@ Tiga bagian bergerak serentak setiap kali Anda mengisi bahan bakar: verifikasi i
 - **[Touch 'n Go](/id/transport/touch-n-go) eWallet** atau Outdoor Payment Terminal (OPT).
 - **Pembayaran tunai di loket** — disediakan khusus untuk mereka yang tidak memiliki e-wallet atau akses internet.
 
-**Kuota** membatasi penyalahgunaan. Setiap individu yang layak mendapat **200 liter sebulan** pada harga bersubsidi — dikurangi dari 300 liter mulai **1 April 2026**, sementara harga dipertahankan pada RM1.99. Mulai **1 Juli 2026**, kuota 200 liter itu **dibagi** antara RON95 bersubsidi (RM1.99) dan Budi Diesel (RM2.10) — keduanya menarik dari satu saldo yang sama. Jika kuota habis, pembelian berikutnya dikenakan harga tanpa subsidi. Pengemudi e-hailing dan p-hailing mempertahankan batas atas lebih tinggi sebesar **800 liter sebulan** karena kebutuhan kerja mereka.
+**Kuota** membatasi penyalahgunaan. Setiap individu yang layak mendapat **300 liter sebulan** pada harga bersubsidi — dikurangi ke 200 liter pada **1 April 2026** dan kemudian **dipulihkan ke 300 liter mulai 1 September 2026**, sementara harga dipertahankan pada RM1.99. Kuota itu **dibagi** antara RON95 bersubsidi (RM1.99) dan Budi Diesel (RM2.10) — keduanya menarik dari satu saldo yang sama. Jika kuota habis, pembelian berikutnya dikenakan harga tanpa subsidi. Pengemudi e-hailing dan p-hailing mempertahankan batas atas lebih tinggi sebesar **800 liter sebulan** karena kebutuhan kerja mereka. Pemulihan kuota pada 1 September 2026 diumumkan Perdana Menteri Datuk Seri Anwar Ibrahim dalam amanat Hari Kemerdekaannya — dengan alasan tekanan biaya hidup tidak dapat menunggu Anggaran 2027 — dan Anggaran 2027 (diajukan pada 9 Oktober 2026) mempertahankan alokasi subsidi bahan bakar pada sekitar RM40 miliar.
 
 Berikut ringkasan harga dan manfaat RON95:
 
@@ -215,7 +223,7 @@ Berikut ringkasan harga dan manfaat RON95:
 | RON95 bersubsidi (warga negara layak) | RM1.99 / liter |
 | RON95 tanpa subsidi (minggu 6–12 Agustus 2026) | RM3.77 / liter |
 | Subsidi efektif (minggu 6–12 Agustus 2026) | ~RM1.78 / liter |
-| Kuota bulanan (mulai 1 April 2026) | 200 liter |
+| Kuota bulanan (mulai 1 September 2026) | 300 liter |
 | RON97 (saat BUDI95 dimulai) | RM3.21 / liter |
 | RON95 transportasi umum darat | RM2.05 / liter |
 | Berlaku | 30 September 2025 |
@@ -238,7 +246,7 @@ Adapun individu, pada mulanya menerima **bantuan tunai** — di bawah **BUDI Ind
 
 Hingga **30 September 2025** (snapshot indikatif), Kementerian Keuangan melaporkan lebih dari **140,000** penerima BUDI Individu (RM430 juta), **180,000** penerima BUDI Agri-Komoditi (RM350 juta), dan **121,618** perusahaan dengan **355,074** kendaraan yang disetujui untuk kartu armada. Mulai **1 Juli 2026**, skema bantuan tunai BUDI Individu dan BUDI Agri-Komoditi diserap ke dalam subsidi di pompa Budi Diesel, dengan penerima yang sudah ada dipindahkan secara otomatis.
 
-Mulai **1 Juli 2026**, program **Budi Diesel** memperbolehkan pemilik kendaraan diesel pribadi yang layak membeli diesel pada **RM2.10 per liter** — sekitar **700,000** pemilik kendaraan (400,000 di Semenanjung; 300,000 di Sabah, Sarawak dan Labuan). Kelayakan diverifikasi melalui MyKad dan basis data JPJ. Kuota dasar bulanan adalah **200 liter yang dibagi** dengan RON95 bersubsidi BUDI95; pemilik pikap dan SUV yang memenuhi kriteria dapat mengajukan tambahan 100 liter (total 300 liter). Diesel bersubsidi hanya berlaku untuk campuran **B10 ke atas**; B7 tetap tanpa subsidi pada tarif pasar mingguan.
+Mulai **1 Juli 2026**, program **Budi Diesel** memperbolehkan pemilik kendaraan diesel pribadi yang layak membeli diesel pada **RM2.10 per liter** — sekitar **700,000** pemilik kendaraan (400,000 di Semenanjung; 300,000 di Sabah, Sarawak dan Labuan). Kelayakan diverifikasi melalui MyKad dan basis data JPJ. Kuota dasar bulanan adalah **300 liter yang dibagi** dengan RON95 bersubsidi BUDI95 (dipulihkan dari 200 liter mulai 1 September 2026); pemilik pikap dan jip yang memenuhi kriteria menerima hingga **400 liter per bulan**. Diesel bersubsidi hanya berlaku untuk campuran **B10 ke atas**; B7 tetap tanpa subsidi pada tarif pasar mingguan.
 
 | Kategori diesel | Harga / liter |
 |---|---|
@@ -281,7 +289,7 @@ Gunakan kerangka ringkas ini untuk RON95:
 1. **Apakah Anda warga negara Malaysia dengan MyKad bercip aktif?** Jika tidak — Anda membayar harga tanpa subsidi (RM3.77 per liter pada minggu 6–12 Agustus 2026).
 2. **Apakah Anda memegang lisensi mengemudi yang sah?** Ini adalah syarat dasar kelayakan yang diumumkan pemerintah.
 3. **Apakah Anda termasuk dalam kelompok T15 (15% berpendapatan tertinggi)?** Jika ya — Anda dikecualikan dari subsidi.
-4. **Jika lolos 1–3:** Anda layak untuk 200 liter RON95 pada RM1.99 setiap bulan. Tidak ada pendaftaran khusus yang diperlukan bagi kebanyakan orang — cukup verifikasi kelayakan di pompa menggunakan MyKad atau aplikasi.
+4. **Jika lolos 1–3:** Anda layak untuk 300 liter RON95 pada RM1.99 setiap bulan. Tidak ada pendaftaran khusus yang diperlukan bagi kebanyakan orang — cukup verifikasi kelayakan di pompa menggunakan MyKad atau aplikasi.
 5. **Jika Anda pengemudi e-hailing/p-hailing atau pemilik kendaraan diesel:** periksa portal BUDI MADANI untuk kuota tambahan atau program khusus (misalnya Budi Diesel untuk kendaraan diesel pribadi).
 
 Untuk diesel pribadi, syarat tambahan adalah Anda harus **memiliki sendiri** kendaraan diesel yang terdaftar dengan pajak jalan yang sah — kepemilikan diverifikasi melalui basis data JPJ.
@@ -290,7 +298,7 @@ Untuk diesel pribadi, syarat tambahan adalah Anda harus **memiliki sendiri** ken
 
 - **Mengira Anda perlu "mendaftar" untuk RON95.** Bagi mayoritas warga negara, kelayakan diverifikasi secara otomatis melalui PADU dan MyKad di pompa — bukan melalui formulir terpisah.
 - **Keliru antara harga diesel dan RON95.** Keduanya program berbeda dengan tanggal, harga dan mekanisme sendiri. RON95 = RM1.99 (BUDI95); diesel pribadi = RM2.10 (Budi Diesel, dari Juli 2026).
-- **Lupa batas kuota.** Pembelian melebihi 200 liter sebulan (RON95, mulai 1 April 2026) dikenakan harga penuh; mulai 1 Juli 2026 kuota 200 liter itu dibagi dengan Budi Diesel. Ada juga batas setiap transaksi (misalnya RM250 seperti dinyatakan operator).
+- **Lupa batas kuota.** Pembelian melebihi kuota bulanan (300 liter RON95, dipulihkan 1 September 2026) dikenakan harga penuh; kuota itu dibagi dengan Budi Diesel. Ada juga batas setiap transaksi (misalnya RM250 seperti dinyatakan operator).
 - **Menganggap harga tetap.** Harga *tanpa subsidi* ditentukan Kementerian Keuangan melalui Mekanisme Penetapan Harga Otomatis (APM) dan berubah setiap minggu; hanya harga bersubsidi RM1.99 yang stabil.
 - **Mengira Sabah/Sarawak sama dengan Semenanjung untuk diesel.** Diesel di Sabah, Sarawak dan Labuan tidak diapungkan dan tetap RM2.15 per liter.
 - **Membeli RON97 dengan harapan subsidi.** RON97 tidak pernah disubsidi dan tetap pada tarif pasar (RM3.21 per liter saat BUDI95 dimulai; RM4.35 per liter pada minggu 6–12 Agustus 2026).

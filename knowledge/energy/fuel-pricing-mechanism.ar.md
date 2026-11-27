@@ -17,7 +17,7 @@ keyTakeaways:
   - "تُحدَّد أسعار الوقود أسبوعياً عبر صيغة APM منذ أبريل 2017."
   - "تُعلَن الأسعار أيام الأربعاء، وهو جدول زمني ساري المفعول منذ 3 مارس 2021."
   - "يتحرك البنزين RON97 بحرية كاملة؛ ويتغير سعره كل أسبوع تماشياً مع السوق العالمية."
-  - "يُثبَّت البنزين RON95 المدعوم عند RM1.99 لكل لتر (BUDI95، بحدٍّ أقصى 300 لتر شهرياً) بينما يتحرك سعر السوق العام بحرية."
+  - "يُثبَّت البنزين RON95 المدعوم عند RM1.99 لكل لتر (BUDI95؛ حصة شهرية قدرها 300 لتر، أُعيدت في 1 سبتمبر 2026 بعد خفض مؤقت إلى 200 لتر) بينما يتحرك سعر السوق العام بحرية."
 appliesTo: "السائقون والمستهلكون وكل من يريد فهم سبب تغير أسعار المضخة كل أسبوع."
 
 faq:
@@ -27,7 +27,7 @@ faq:
     a: "يُثبَّت سعر البنزين RON95 المدعوم عند RM1.99 لكل لتر للمواطنين المؤهلين في إطار برنامج BUDI95، لكن سعر السوق العام غير المدعوم يتقلب تماشياً مع آلية APM."
 
 lang: "ar"
-sourceContentHash: "31beae2d3f6af51b"
+sourceContentHash: "4eae5f9c10c770b6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -36,19 +36,22 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 verificationNeeded:
   - "يوم الإعلان قبل 3 مارس 2021 (الجمعة أو الخميس) — يذكر مصدر ثانوي (paultan.org) التحوّل إلى الأربعاء لكنه غير واضح بشأن اليوم الأصلي؛ تأكَّد من بيان رسمي عند الحاجة."
   - "تاريخ البدء الدقيق «أبريل 2017» لآلية APM الأسبوعية — يعتمد حالياً على ملاحظة الخلفية في فهرس OpenDOSM؛ تأكَّد من مصدر سياسي رسمي."
   - "سعر البنزين RON97 في الأسبوع السابق (RM3.24) مستنتَج حسابياً من خفض 8 سن المذكور في بيان وزارة المالية (MOF)، وليس منصوصاً عليه صراحةً في ذلك البيان."
-  - "تأكَّد مما إذا كان سعر BUDI95 البالغ RM1.99 وسعر السوق العام للبنزين RON95 لا يزالان ساريين حتى تاريخ النشر."
 revisions:
   - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Recorded the BUDI95 quota cut to 200 litres (1 April 2026) and its restoration to 300 litres (1 September 2026), price unchanged at RM1.99; resolved the open check on whether the BUDI95 rate and quota were still current."
+    reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "تحديد سعر التجزئة للبنزين RON95 غير المدعوم عند RM2.60 لكل لتر مع انطلاق BUDI95 (Non-Subsidised RON95 Retail Price Set At RM2.60 Per Litre As BUDI95 Commences)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/non-subsidised-ron95-retail-price-set-at-rm2-60-per-litre-as-budi95-commences"
@@ -59,6 +62,10 @@ sources:
   - title: "الحكومة تخفّض أسعار التجزئة للبنزين RON95 وRON97 والديزل غير المدعومة من 25 ديسمبر 2025 إلى 31 ديسمبر 2025 (Government Reduces Non-Subsidised RON95, RON97 And Diesel Retail Prices From 25 December 2025 To 31 December 2025)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/retail-price/government-reduces-non-subsidised-ron95-ron97-and-diesel-retail-prices-from-25-december-2025-to-31-december-2025"
     publisher: "وزارة المالية الماليزية (MOF)"
+  - title: "استعادة حصة BUDI95 إلى 300 لتر شهرياً (BUDI95 Quota Restored To 300 Litres A Month)"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/budi95-quota-restored-to-300-litres-a-month"
+    publisher: "وزارة المالية الماليزية (MOF)"
+    date: "2026-08-30"
   - title: "الحكومة تطبّق دعم الديزل الموجَّه لشبه الجزيرة الماليزية اعتباراً من 10 يونيو 2024 (Government Implements Targeted Diesel Subsidy For Peninsular Malaysia Effective 10 June 2024)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/government-implements-targeted-diesel-subsidy-for-peninsular-malaysia-effective-10-june-2024"
     publisher: "وزارة المالية الماليزية (MOF)"
@@ -101,7 +108,7 @@ framework: explainer
 | الديزل (شبه الجزيرة الماليزية) | يتحرك بحرية منذ سحب الدعم | RM2.94 |
 | الديزل (صباح وساراواك ولابوان) | مضبوط ومثبَّت | RM2.15 |
 
-في إطار برنامج BUDI95 الذي بدأ في 30 سبتمبر 2025، يمكن للماليزيين المؤهلين شراء البنزين RON95 بسعر RM1.99 لكل لتر، بدعم قدره RM0.61 لكل لتر حتى حدٍّ أقصى 300 لتر شهرياً — بما يصل إلى RM183 شهرياً لكل شخص. أما سعر السوق العام غير المدعوم للبنزين RON95 فقد حُدِّد عند RM2.60 لكل لتر لشهر أكتوبر 2025 ثم يتقلب في إطار APM بعد ذلك (مثلاً RM2.56 لأسبوع 25–31 ديسمبر 2025).
+في إطار برنامج BUDI95 الذي بدأ في 30 سبتمبر 2025، يمكن للماليزيين المؤهلين شراء البنزين RON95 بسعر RM1.99 لكل لتر، بدعم قدره RM0.61 لكل لتر حتى حدٍّ أقصى 300 لتر شهرياً — بما يصل إلى RM183 شهرياً لكل شخص. (خُفِّضت تلك الحصة مؤقتاً إلى 200 لتر بين 1 أبريل و31 أغسطس 2026، ثم أُعيدت إلى 300 لتر اعتباراً من 1 سبتمبر 2026؛ وبقي السعر عند RM1.99.) أما سعر السوق العام غير المدعوم للبنزين RON95 فقد حُدِّد عند RM2.60 لكل لتر لشهر أكتوبر 2025 ثم يتقلب في إطار APM بعد ذلك (مثلاً RM2.56 لأسبوع 25–31 ديسمبر 2025).
 
 أما بالنسبة إلى الديزل، فقد أُعيد توجيه الدعم في شبه الجزيرة الماليزية اعتباراً من 10 يونيو 2024. وقبل ذلك، كان الديزل المدعوم يُباع بسعر RM2.15 لكل لتر على مستوى البلاد؛ ومن ذلك التاريخ، حدّدت الحكومة سعر التجزئة للديزل غير المدعوم في شبه الجزيرة عند RM3.35 لكل لتر، بينما ظل الديزل في صباح وساراواك ولابوان عند RM2.15 لكل لتر. ومنذ ذلك الحين، أصبح الديزل في شبه الجزيرة يتحرك بحرية في إطار APM (RM2.94 لأسبوع 25–31 ديسمبر 2025).
 

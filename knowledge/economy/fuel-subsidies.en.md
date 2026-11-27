@@ -16,7 +16,7 @@ keyTakeaways:
   - "The subsidy is the residual gap: the APM price minus the set subsidised price — the government does not control one side of the market price, so the cost cannot be estimated in advance"
   - "The RON95 and diesel subsidy burden leapt from around RM0.7 billion (January 2026) to RM7.5 billion (April 2026) as Brent hit US$120 a barrel"
   - "BUDI95 began on 30 September 2025: general-market RON95 at RM2.60, subsidised price RM1.99 per litre for eligible recipients, initially quota-capped at 300 litres a month"
-  - "The BUDI95 quota was adjusted to 200 litres a month from 1 April 2026; the price stayed at RM1.99 per litre"
+  - "The BUDI95 quota was cut temporarily to 200 litres a month on 1 April 2026, then restored to 300 litres from 1 September 2026; the price stayed at RM1.99 per litre"
   - "From 1 July 2026, subsidised diesel was standardised at RM2.10 per litre nationwide through BUDI Diesel with MyKad verification"
 appliesTo: "Drivers, transport operators, fiscal analysts and anyone trying to understand why the price at the pump differs from the price that was announced."
 
@@ -24,16 +24,16 @@ seoTitle: "Malaysia's Fuel Subsidies: APM, BUDI95 and BUDI Diesel"
 
 faq:
   - q: "What is the subsidised RON95 price under BUDI95?"
-    a: "RM1.99 per litre, with a quota of 200 litres a month for eligible recipients from 1 April 2026. Litres beyond the quota are bought at the weekly market price — RM3.62 per litre for the period 23 to 29 July 2026."
+    a: "RM1.99 per litre, with a quota of 300 litres a month for eligible recipients — restored on 1 September 2026 after a temporary cut to 200 litres on 1 April 2026. Litres beyond the quota are bought at the weekly market price — for example RM3.62 per litre for the period 23 to 29 July 2026."
   - q: "Who is eligible to buy diesel at RM2.10 per litre?"
-    a: "Eligible private diesel-vehicle owners, under BUDI Diesel, which began on 1 July 2026. Eligibility is verified using MyKad at the station, with a base quota of 200 litres a month and an additional 100 litres that can be applied for by owners of pick-up trucks and jeeps."
+    a: "Eligible private diesel-vehicle owners, under BUDI Diesel, which began on 1 July 2026. Eligibility is verified using MyKad at the station, with a base quota of 300 litres a month (aligned with BUDI95 from 1 September 2026); eligible owners of pick-up trucks and jeeps receive up to 400 litres a month."
   - q: "Why do fuel prices change every week?"
     a: "Retail prices are calculated using the Automatic Pricing Mechanism (APM) formula, which tracks the market price of already-refined petroleum products. Since 3 March 2021, announcements have been made on Wednesdays and take effect from Thursday to the following Wednesday."
   - q: "How much do fuel subsidies cost the government?"
     a: "It varies with market prices. The RON95 and diesel subsidy burden was around RM0.7 billion in January 2026 and peaked at RM7.5 billion in April 2026, before being projected at around RM3.5 billion a month in June 2026."
 
 lang: "en"
-sourceContentHash: "4d77f16bdf432b0a"
+sourceContentHash: "d66aa4941f93c049"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -43,15 +43,19 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2028-01-24
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "BUDI95 monthly quota restored to 300 litres from 1 September 2026 (reversing the 1 April 2026 cut to 200 litres), price unchanged at RM1.99; BUDI Diesel for eligible pickup/jeep owners raised to up to 400 litres; Budget 2027 kept fuel subsidies at about RM40 billion for 2027."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Harga Petrol & Diesel — katalog data"
     url: "https://open.dosm.gov.my/ms-MY/data-catalogue/fuelprice"
@@ -64,6 +68,10 @@ sources:
     url: "https://mof.gov.my/portal/ms/berita/siaran-media/budi95-diselaras-kepada-200-liter-sebulan-harga-kekal-rm1-99-seliter"
     publisher: "Kementerian Kewangan Malaysia"
     date: "2026-03-26"
+  - title: "BUDI95 Quota Restored To 300 Litres A Month"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/budi95-quota-restored-to-300-litres-a-month"
+    publisher: "Ministry of Finance Malaysia"
+    date: "2026-08-30"
   - title: "Harga Runcit Petrol Dan Diesel Dikekalkan, Tanggungan Subsidi Diunjur RM3.5 Bilion Sebulan"
     url: "https://mof.gov.my/portal/ms/berita/siaran-media/harga-runcit-petrol-dan-diesel-dikekalkan-tanggungan-subsidi-diunjur-rm3-5-bilion-sebulan"
     publisher: "Kementerian Kewangan Malaysia"
@@ -154,10 +162,13 @@ A targeted model does not eliminate price risk. It shrinks the **volume** expose
 | 30 Sep 2025 | BUDI95 begins: general-market RON95 at RM2.60, subsidised price RM1.99 per litre, quota of 300 litres a month |
 | 1 Apr 2026 | BUDI95 quota adjusted to 200 litres a month; price stays at RM1.99 |
 | 1 Jul 2026 | BUDI Diesel: subsidised diesel standardised at RM2.10 per litre nationwide |
+| 1 Sep 2026 | BUDI95 quota restored to 300 litres a month; price stays at RM1.99; BUDI Diesel for pick-up and jeep owners raised to up to 400 litres |
 
 At BUDI95's launch, the subsidy was equivalent to 61 sen per litre against the general-market price of RM2.60, with a benefit of up to around RM183 a month at the full 300-litre quota. By June 2026, when non-subsidised RON95 stood at RM3.72 per litre, the Ministry of Finance estimated savings of around RM346 a month for a consumer using 200 litres — and stated that more than 14 million people were beneficiaries of the programme.
 
 When the quota was adjusted on 1 April 2026, the government stated that nearly 90 percent of eligible consumers used less than 200 litres a month, with average usage around 100 litres. The additional quota for e-hailing operators remained at 800 litres a month.
+
+That temporary adjustment was later reversed: the base quota was **restored to 300 litres a month from 1 September 2026**, when Prime Minister Datuk Seri Anwar Ibrahim announced in his National Day address that cost-of-living pressures could not wait for the tabling of Budget 2027. The price stayed at RM1.99 per litre and the move benefited more than 16 million subsidised-RON95 users; at the same time, eligible pick-up and jeep diesel owners were raised to up to 400 litres of BUDI Diesel a month. Budget 2027, tabled on 9 October 2026, kept the fuel-subsidy allocation at around RM40 billion for 2027.
 
 ## Who pays what, today
 
@@ -175,7 +186,7 @@ For the period 23 to 29 July 2026, after Brent rose around 16 percent in a week:
 
 The last two schemes are administered by the Ministry of Domestic Trade and Cost of Living through the MySubsidi system, not through MyKad. SKPS (Sistem Kawalan Petrol Bersubsidi, the Subsidised Petrol Control System) covers 21 vehicle types across the land public transport and goods transport sectors — taxis, school buses, ambulances, refrigerated lorries and others. Vehicles can be registered under an individual's name, a company registered with SSM, or a cooperative or local authority; registration is done only through MySubsidi and there is no manual application. Approval is instant, subject to entity type, class of use and a valid vehicle road tax.
 
-For BUDI Diesel, which began on 1 July 2026, the base quota is 200 litres a month, with an additional 100 litres that can be applied for by owners of pick-up trucks and jeeps. Eligibility is verified using MyKad at the station. The programme targets around 700,000 private diesel-vehicle owners — around 400,000 in the Peninsula and 300,000 in Sabah, Sarawak and W.P. Labuan — compared with around 180,000 recipients in the Peninsula under the previous BUDI Diesel Individu cash-transfer scheme. Specific rates are also set for fishermen (RM1.65 per litre) and public transport including school buses (RM1.88 per litre).
+For BUDI Diesel, which began on 1 July 2026, the base quota is 300 litres a month — restored from 200 litres on 1 September 2026, in line with BUDI95 — while eligible owners of pick-up trucks and jeeps receive up to 400 litres a month. Eligibility is verified using MyKad at the station. The programme targets around 700,000 private diesel-vehicle owners — around 400,000 in the Peninsula and 300,000 in Sabah, Sarawak and W.P. Labuan — compared with around 180,000 recipients in the Peninsula under the previous BUDI Diesel Individu cash-transfer scheme. Specific rates are also set for fishermen (RM1.65 per litre) and public transport including school buses (RM1.88 per litre).
 
 ## Common mistakes
 
@@ -187,7 +198,7 @@ For BUDI Diesel, which began on 1 July 2026, the base quota is 200 litres a mont
 
 **Assuming Malaysia is an energy exporter shielded from high prices.** Government petroleum revenue does rise when prices rise, but the subsidy burden rises at the same time — and the two do not necessarily move at the same rate. The net effect on the budget depends on volume, price and subsidy structure all at once; it is not an automatic hedge.
 
-**Assuming the targeting is final.** The BUDI95 quota adjustment in April 2026 was stated as a temporary measure pending global supply conditions stabilising. The parameters — price, quota, eligibility — are policy variables, not constants.
+**Assuming the targeting is final.** The BUDI95 quota adjustment in April 2026 was stated as a temporary measure pending global supply conditions stabilising — and the quota was indeed restored to 300 litres on 1 September 2026. The parameters — price, quota, eligibility — are policy variables, not constants.
 
 ## What's next
 

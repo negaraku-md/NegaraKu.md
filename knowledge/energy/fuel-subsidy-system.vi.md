@@ -15,7 +15,7 @@ sensitivity: "none"
 answer: "Kể từ tháng 6 năm 2024 (diesel) và ngày 30 tháng 9 năm 2025 (RON95), Malaysia thay thế trợ cấp nhiên liệu toàn diện bằng trợ cấp có mục tiêu. Công dân đủ điều kiện mua RON95 ở mức RM1.99 mỗi lít theo chương trình BUDI95, trong khi nhóm T15 (15% có thu nhập cao nhất) bị loại trừ. Diesel ở Bán đảo được thả nổi theo giá thị trường, với trợ cấp được cấp trực tiếp cho các cá nhân và ngành hậu cần đủ điều kiện. Điều kiện được kiểm tra qua cơ sở dữ liệu PADU và được xác nhận bằng MyKad tại vòi bơm."
 keyTakeaways:
   - "RON95 được trợ cấp là RM1.99 mỗi lít cho công dân đủ điều kiện, có hiệu lực từ ngày 30 tháng 9 năm 2025; giá RON95 không trợ cấp được ấn định hằng tuần qua APM và là RM3.77 mỗi lít vào tuần 6–12 tháng 8 năm 2026 (trợ cấp thực tế khoảng RM1.78 mỗi lít khi đó)."
-  - "Hạn ngạch hằng tháng của BUDI95 được giảm từ 300 lít xuống 200 lít từ ngày 1 tháng 4 năm 2026 (giá giữ RM1.99); từ ngày 1 tháng 7 năm 2026 hạn ngạch 200 lít đó được chia sẻ giữa RON95 được trợ cấp và Budi Diesel, trong khi người lái e-hailing/gig giữ mức trần 800 lít."
+  - "Hạn ngạch hằng tháng của BUDI95 bị cắt từ 300 xuống 200 lít vào ngày 1 tháng 4 năm 2026, rồi được khôi phục lên 300 lít kể từ ngày 1 tháng 9 năm 2026 (giá giữ RM1.99); hạn ngạch đó được chia sẻ giữa RON95 được trợ cấp và Budi Diesel, trong khi người lái e-hailing/gig giữ mức trần 800 lít."
   - "Diesel ở Bán đảo được thả nổi lên RM3.35 mỗi lít vào ngày 10 tháng 6 năm 2024; chính phủ ước tính tiết kiệm khoảng RM5 tỷ mỗi năm từ việc hợp lý hóa diesel."
   - "Trợ cấp RON95 toàn diện tốn gần RM20 tỷ mỗi năm vào 2023 và 2024; BUDI95 dự kiến tiết kiệm RM2.5–4 tỷ mỗi năm."
   - "Khoản tiết kiệm được chuyển sang hỗ trợ tiền mặt: khoản phân bổ gộp STR và SARA cho năm 2026 lên tới RM15 tỷ (khoản phân bổ cao nhất từ trước đến nay), mang lại lợi ích cho khoảng 9 triệu người thụ hưởng."
@@ -27,17 +27,17 @@ faq:
     a: "RM1.99 mỗi lít cho công dân Malaysia đủ điều kiện, có hiệu lực từ ngày 30 tháng 9 năm 2025. Giá RON95 không trợ cấp (cho người không đủ điều kiện hoặc sau khi hết hạn ngạch) được ấn định hằng tuần qua Cơ chế Ấn định Giá Tự động (APM) — nó là RM3.77 mỗi lít vào tuần 6–12 tháng 8 năm 2026."
   - q: "Ai không đủ điều kiện nhận RON95 được trợ cấp?"
     a: "Nhóm T15, tức 15% hộ gia đình có thu nhập cao nhất, bị loại trừ. Người nước ngoài không có MyKad cũng không thể mua RON95 được trợ cấp."
-  - q: "Hạn ngạch 200 lít là gì?"
-    a: "Mỗi cá nhân đủ điều kiện có thể mua tới 200 lít RON95 được trợ cấp mỗi tháng (giảm từ 300 lít từ ngày 1 tháng 4 năm 2026, giá giữ RM1.99). Từ ngày 1 tháng 7 năm 2026 hạn ngạch 200 lít đó được chia sẻ giữa RON95 được trợ cấp và Budi Diesel. Sau khi hết hạn ngạch, việc mua chịu giá không trợ cấp. Người lái e-hailing và p-hailing giữ mức trần 800 lít mỗi tháng."
+  - q: "Hạn ngạch BUDI95 là gì?"
+    a: "Mỗi cá nhân đủ điều kiện có thể mua tới 300 lít RON95 được trợ cấp mỗi tháng — được khôi phục lên 300 lít kể từ ngày 1 tháng 9 năm 2026 sau khi bị cắt tạm thời còn 200 lít vào ngày 1 tháng 4 năm 2026 (giá giữ RM1.99). Hạn ngạch đó được chia sẻ giữa RON95 được trợ cấp và Budi Diesel. Sau khi hết hạn ngạch, việc mua chịu giá không trợ cấp. Người lái e-hailing và p-hailing giữ mức trần 800 lít mỗi tháng."
   - q: "Điều kiện của tôi được xác nhận tại vòi bơm như thế nào?"
     a: "Qua MyKad được đưa vào terminal, ứng dụng công ty dầu như Setel và Shell, ví điện tử Touch 'n Go, hoặc thanh toán tiền mặt tại quầy. Hệ thống kết nối với cơ sở dữ liệu PADU một cách tự động."
   - q: "Điều gì xảy ra với trợ cấp diesel?"
-    a: "Diesel ở Bán đảo được thả nổi theo giá thị trường (RM3.35 mỗi lít) vào ngày 10 tháng 6 năm 2024. Các cá nhân và ngành hậu cần đủ điều kiện nhận trợ cấp có mục tiêu; từ ngày 1 tháng 7 năm 2026, chủ xe diesel cá nhân đủ điều kiện mua diesel ở mức RM2.10 mỗi lít theo Budi Diesel, với hạn ngạch 200 lít được chia sẻ với RON95 được trợ cấp."
+    a: "Diesel ở Bán đảo được thả nổi theo giá thị trường (RM3.35 mỗi lít) vào ngày 10 tháng 6 năm 2024. Các cá nhân và ngành hậu cần đủ điều kiện nhận trợ cấp có mục tiêu; từ ngày 1 tháng 7 năm 2026, chủ xe diesel cá nhân đủ điều kiện mua diesel ở mức RM2.10 mỗi lít theo Budi Diesel, với hạn ngạch cơ bản 300 lít được chia sẻ với RON95 được trợ cấp; chủ xe bán tải và xe jeep đủ điều kiện nhận tối đa 400 lít mỗi tháng."
   - q: "Giá ở Sabah và Sarawak có giống nhau không?"
     a: "Diesel ở Sabah, Sarawak và Labuan giữ ở mức RM2.15 mỗi lít và không được thả nổi như ở Bán đảo. RON95 được trợ cấp RM1.99 áp dụng cho công dân đủ điều kiện trên toàn quốc."
 
 lang: "vi"
-sourceContentHash: "d36719911ef1139c"
+sourceContentHash: "60c4cba7ab6c5590"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -47,7 +47,7 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-08-14
-revision: 0
+revision: 1
 verificationNeeded:
   - "Phân loại sensitivity được đặt là 'none' theo mẫu, nhưng việc hợp lý hóa trợ cấp nhiên liệu là một vấn đề chính sách có thể gây tranh luận chính trị; người biên tập cần đánh giá lại liệu 'none' có phù hợp hay không."
 revisions:
@@ -55,8 +55,12 @@ revisions:
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "BUDI95 monthly quota restored to 300 litres from 1 September 2026 (reversing the 1 April 2026 cut to 200 litres), price unchanged at RM1.99; BUDI Diesel for eligible pickup/jeep owners raised to up to 400 litres; Budget 2027 kept fuel subsidies at about RM40 billion for 2027."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "Giá bán lẻ RON95 không trợ giá ấn định ở mức RM2,60/lít khi BUDI95 bắt đầu (Non-Subsidised RON95 Retail Price Set At RM2.60 Per Litre As BUDI95 Commences)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/non-subsidised-ron95-retail-price-set-at-rm2-60-per-litre-as-budi95-commences"
@@ -124,6 +128,10 @@ sources:
   - title: "Hạn ngạch BUDI95 tạm thời điều chỉnh còn 200 lít mỗi tháng từ ngày 1 tháng 4 này (Kuota BUDI95 Diselaraskan Sementara Kepada 200 Liter Sebulan Mulai 1 April Ini)"
     url: "https://www.bernama.com/bm/news.php?id=2537929"
     publisher: "BERNAMA"
+  - title: "Hạn ngạch BUDI95 được khôi phục lên 300 lít mỗi tháng (BUDI95 Quota Restored To 300 Litres A Month)"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/budi95-quota-restored-to-300-litres-a-month"
+    publisher: "Bộ Tài chính Malaysia (MOF)"
+    date: "2026-08-30"
 
 entity: "BUDI MADANI"
 relations:
@@ -206,7 +214,7 @@ Ba bộ phận vận hành cùng lúc mỗi khi bạn đổ xăng: xác nhận d
 - **[Touch 'n Go](/vi/transport/touch-n-go) eWallet** hoặc Outdoor Payment Terminal (OPT).
 - **Thanh toán tiền mặt tại quầy** — được chuẩn bị riêng cho những ai không có ví điện tử hoặc không có internet.
 
-**Hạn ngạch** hạn chế việc lạm dụng. Mỗi cá nhân đủ điều kiện nhận **200 lít mỗi tháng** ở mức giá được trợ cấp — giảm từ 300 lít từ ngày **1 tháng 4 năm 2026**, trong khi giá được giữ ở mức RM1.99. Từ ngày **1 tháng 7 năm 2026**, hạn ngạch 200 lít đó được **chia sẻ** giữa RON95 được trợ cấp (RM1.99) và Budi Diesel (RM2.10) — cả hai rút từ cùng một số dư. Nếu hết hạn ngạch, việc mua tiếp chịu giá không trợ cấp. Người lái e-hailing và p-hailing giữ mức trần cao hơn là **800 lít mỗi tháng** vì nhu cầu công việc của họ.
+**Hạn ngạch** hạn chế việc lạm dụng. Mỗi cá nhân đủ điều kiện nhận **300 lít mỗi tháng** ở mức giá được trợ cấp — bị cắt còn 200 lít vào ngày **1 tháng 4 năm 2026** rồi **được khôi phục lên 300 lít kể từ ngày 1 tháng 9 năm 2026**, trong khi giá được giữ ở mức RM1.99. Hạn ngạch đó được **chia sẻ** giữa RON95 được trợ cấp (RM1.99) và Budi Diesel (RM2.10) — cả hai rút từ cùng một số dư. Nếu hết hạn ngạch, việc mua tiếp chịu giá không trợ cấp. Người lái e-hailing và p-hailing giữ mức trần cao hơn là **800 lít mỗi tháng** vì nhu cầu công việc của họ. Việc khôi phục vào ngày 1 tháng 9 năm 2026 được Thủ tướng Datuk Seri Anwar Ibrahim công bố trong bài phát biểu Ngày Quốc khánh — với lý do áp lực chi phí sinh hoạt không thể chờ đến Ngân sách 2027 — và Ngân sách 2027 (được trình vào ngày 9 tháng 10 năm 2026) giữ khoản phân bổ trợ cấp nhiên liệu ở khoảng RM40 tỷ.
 
 Dưới đây là tóm tắt giá và lợi ích của RON95:
 
@@ -215,7 +223,7 @@ Dưới đây là tóm tắt giá và lợi ích của RON95:
 | RON95 được trợ cấp (công dân đủ điều kiện) | RM1.99 / lít |
 | RON95 không trợ cấp (tuần 6–12 tháng 8 2026) | RM3.77 / lít |
 | Trợ cấp thực tế (tuần 6–12 tháng 8 2026) | ~RM1.78 / lít |
-| Hạn ngạch hằng tháng (từ 1 tháng 4 2026) | 200 lít |
+| Hạn ngạch hằng tháng (từ 1 tháng 9 2026) | 300 lít |
 | RON97 (khi BUDI95 bắt đầu) | RM3.21 / lít |
 | RON95 giao thông công cộng đường bộ | RM2.05 / lít |
 | Có hiệu lực | 30 tháng 9 năm 2025 |
@@ -238,7 +246,7 @@ Còn các cá nhân ban đầu nhận **hỗ trợ tiền mặt** — theo **BUD
 
 Tính đến ngày **30 tháng 9 năm 2025** (ảnh chụp chỉ báo), Bộ Tài chính báo cáo hơn **140,000** người thụ hưởng BUDI Individu (RM430 triệu), **180,000** người thụ hưởng BUDI Agri-Komoditi (RM350 triệu), và **121,618** công ty với **355,074** xe được phê duyệt thẻ đội xe. Từ ngày **1 tháng 7 năm 2026**, các chương trình hỗ trợ tiền mặt BUDI Individu và BUDI Agri-Komoditi được hấp thụ vào trợ cấp tại vòi bơm Budi Diesel, với người thụ hưởng hiện tại được chuyển sang một cách tự động.
 
-Từ ngày **1 tháng 7 năm 2026**, chương trình **Budi Diesel** cho phép chủ xe diesel cá nhân đủ điều kiện mua diesel ở mức **RM2.10 mỗi lít** — khoảng **700,000** chủ xe (400,000 ở Bán đảo; 300,000 ở Sabah, Sarawak và Labuan). Điều kiện được xác nhận qua MyKad và cơ sở dữ liệu JPJ. Hạn ngạch cơ bản hằng tháng là **200 lít được chia sẻ** với RON95 được trợ cấp BUDI95; chủ xe bán tải và SUV đáp ứng tiêu chí có thể xin thêm 100 lít (tổng 300 lít). Diesel được trợ cấp chỉ áp dụng cho hỗn hợp **B10 trở lên**; B7 giữ không trợ cấp ở mức thị trường hằng tuần.
+Từ ngày **1 tháng 7 năm 2026**, chương trình **Budi Diesel** cho phép chủ xe diesel cá nhân đủ điều kiện mua diesel ở mức **RM2.10 mỗi lít** — khoảng **700,000** chủ xe (400,000 ở Bán đảo; 300,000 ở Sabah, Sarawak và Labuan). Điều kiện được xác nhận qua MyKad và cơ sở dữ liệu JPJ. Hạn ngạch cơ bản hằng tháng là **300 lít được chia sẻ** với RON95 được trợ cấp BUDI95 (được khôi phục từ 200 lít vào ngày 1 tháng 9 năm 2026); chủ xe bán tải và xe jeep đáp ứng tiêu chí nhận tối đa **400 lít mỗi tháng**. Diesel được trợ cấp chỉ áp dụng cho hỗn hợp **B10 trở lên**; B7 giữ không trợ cấp ở mức thị trường hằng tuần.
 
 | Hạng mục diesel | Giá / lít |
 |---|---|
@@ -281,7 +289,7 @@ Hãy dùng khung ngắn gọn này cho RON95:
 1. **Bạn là công dân Malaysia có MyKad với chip hoạt động?** Nếu không — bạn trả giá không trợ cấp (RM3.77 mỗi lít vào tuần 6–12 tháng 8 năm 2026).
 2. **Bạn giữ một giấy phép lái xe hợp lệ?** Đây là điều kiện cơ bản do chính phủ công bố.
 3. **Bạn thuộc nhóm T15 (15% có thu nhập cao nhất)?** Nếu có — bạn bị loại khỏi trợ cấp.
-4. **Nếu vượt qua 1–3:** bạn đủ điều kiện cho 200 lít RON95 ở mức RM1.99 mỗi tháng. Không cần đăng ký đặc biệt đối với hầu hết mọi người — chỉ cần xác nhận điều kiện tại vòi bơm bằng MyKad hoặc ứng dụng.
+4. **Nếu vượt qua 1–3:** bạn đủ điều kiện cho 300 lít RON95 ở mức RM1.99 mỗi tháng. Không cần đăng ký đặc biệt đối với hầu hết mọi người — chỉ cần xác nhận điều kiện tại vòi bơm bằng MyKad hoặc ứng dụng.
 5. **Nếu bạn là người lái e-hailing/p-hailing hoặc chủ xe diesel:** hãy kiểm tra cổng BUDI MADANI để biết hạn ngạch bổ sung hoặc các chương trình chuyên biệt (ví dụ Budi Diesel cho xe diesel cá nhân).
 
 Đối với diesel cá nhân, điều kiện bổ sung là bạn phải **tự sở hữu** một xe diesel đã đăng ký với thuế đường bộ hợp lệ — quyền sở hữu được xác nhận qua cơ sở dữ liệu JPJ.
@@ -290,7 +298,7 @@ Hãy dùng khung ngắn gọn này cho RON95:
 
 - **Cho rằng bạn cần "đăng ký" cho RON95.** Đối với đa số công dân, điều kiện được xác nhận tự động qua PADU và MyKad tại vòi bơm — không phải qua một biểu mẫu riêng.
 - **Nhầm lẫn giữa giá diesel và RON95.** Cả hai là các chương trình khác nhau với ngày tháng, giá và cơ chế riêng. RON95 = RM1.99 (BUDI95); diesel cá nhân = RM2.10 (Budi Diesel, từ tháng 7 năm 2026).
-- **Quên giới hạn hạn ngạch.** Việc mua vượt 200 lít mỗi tháng (RON95, từ 1 tháng 4 năm 2026) chịu giá đầy đủ; từ ngày 1 tháng 7 năm 2026 hạn ngạch 200 lít đó được chia sẻ với Budi Diesel. Cũng có giới hạn mỗi giao dịch (ví dụ RM250 như các nhà điều hành nêu).
+- **Quên giới hạn hạn ngạch.** Việc mua vượt hạn ngạch hằng tháng (300 lít RON95, được khôi phục ngày 1 tháng 9 năm 2026) chịu giá đầy đủ; hạn ngạch đó được chia sẻ với Budi Diesel. Cũng có giới hạn mỗi giao dịch (ví dụ RM250 như các nhà điều hành nêu).
 - **Cho rằng giá cố định.** Giá *không trợ cấp* do Bộ Tài chính xác định qua Cơ chế Ấn định Giá Tự động (APM) và thay đổi mỗi tuần; chỉ giá được trợ cấp RM1.99 là ổn định.
 - **Cho rằng Sabah/Sarawak giống Bán đảo đối với diesel.** Diesel ở Sabah, Sarawak và Labuan không được thả nổi và giữ ở mức RM2.15 mỗi lít.
 - **Mua RON97 mong được trợ cấp.** RON97 chưa bao giờ được trợ cấp và giữ ở mức thị trường (RM3.21 mỗi lít khi BUDI95 bắt đầu; RM4.35 mỗi lít vào tuần 6–12 tháng 8 năm 2026).

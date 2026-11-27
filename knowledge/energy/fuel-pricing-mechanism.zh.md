@@ -17,7 +17,7 @@ keyTakeaways:
   - "自 2017 年 4 月起，燃油价格通过 APM 公式每周设定。"
   - "价格公布定于星期三，这一时间表自 2021 年 3 月 3 日起生效。"
   - "RON97 完全浮动；其价格每周随全球市场变动。"
-  - "受补贴的 RON95 维持在每升 RM1.99（BUDI95，每月上限 300 升），而一般市场价格则浮动。"
+  - "受补贴的 RON95 维持在每升 RM1.99（BUDI95；每月配额 300 升，于 2026 年 9 月 1 日恢复，此前曾临时下调至 200 升），而一般市场价格则浮动。"
 appliesTo: "驾车者、消费者，以及任何想了解油站价格为何每周变动的人。"
 
 faq:
@@ -27,7 +27,7 @@ faq:
     a: "受补贴的 RON95 在 BUDI95 计划下为合格国民维持在每升 RM1.99，但不补贴的一般市场价格则依据 APM 上下波动。"
 
 lang: "zh"
-sourceContentHash: "31beae2d3f6af51b"
+sourceContentHash: "4eae5f9c10c770b6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -36,19 +36,22 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 verificationNeeded:
   - "2021 年 3 月 3 日之前的公布日（星期五或星期四）— 次要来源（paultan.org）提到改为星期三，但原本是星期几并不清楚；如有需要请以官方公告加以确认。"
   - "APM每周机制的确切起始日期「April 2017」——目前依据的是OpenDOSM目录的背景注释；请以官方政策来源确认。"
   - "上一周RON97的价格（RM3.24）是根据MOF公告所述下调8仙以算术方式推算得出的，并非公告中明确列出的。"
-  - "请核实 BUDI95 的 RM1.99 费率及 RON95 的一般市场价在发布之日是否仍为最新。"
 revisions:
   - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Recorded the BUDI95 quota cut to 200 litres (1 April 2026) and its restoration to 300 litres (1 September 2026), price unchanged at RM1.99; resolved the open check on whether the BUDI95 rate and quota were still current."
+    reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "随着 BUDI95 启动，无补贴 RON95 零售价定于每公升 RM2.60 (Non-Subsidised RON95 Retail Price Set At RM2.60 Per Litre As BUDI95 Commences)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/non-subsidised-ron95-retail-price-set-at-rm2-60-per-litre-as-budi95-commences"
@@ -59,6 +62,10 @@ sources:
   - title: "政府自 2025 年 12 月 25 日至 2025 年 12 月 31 日下调无补贴 RON95、RON97 及柴油零售价 (Government Reduces Non-Subsidised RON95, RON97 And Diesel Retail Prices From 25 December 2025 To 31 December 2025)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/retail-price/government-reduces-non-subsidised-ron95-ron97-and-diesel-retail-prices-from-25-december-2025-to-31-december-2025"
     publisher: "马来西亚财政部（MOF）"
+  - title: "BUDI95 配额恢复至每月 300 公升 (BUDI95 Quota Restored To 300 Litres A Month)"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/budi95-quota-restored-to-300-litres-a-month"
+    publisher: "马来西亚财政部（MOF）"
+    date: "2026-08-30"
   - title: "政府自 2024 年 6 月 10 日起为马来西亚半岛实施针对性柴油补贴 (Government Implements Targeted Diesel Subsidy For Peninsular Malaysia Effective 10 June 2024)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/government-implements-targeted-diesel-subsidy-for-peninsular-malaysia-effective-10-june-2024"
     publisher: "马来西亚财政部（MOF）"
@@ -101,7 +108,7 @@ RON97 不受补贴。其价格完全浮动——它随 APM 的计算结果每周
 | 柴油（半岛） | 撤销补贴后浮动 | RM2.94 |
 | 柴油（沙巴、砂拉越、纳闽） | 受管制，维持不变 | RM2.15 |
 
-在自 2025 年 9 月 30 日开始的 BUDI95 计划下，合格的马来西亚国民可以每升 RM1.99 购买 RON95，每升补贴 RM0.61，每月上限 300 升——每人每月价值高达 RM183。至于不受补贴的 RON95 一般市场价格，则在 2025 年 10 月定为每升 RM2.60，此后依 APM 上下波动（例如 2025 年 12 月 25–31 日那一周为 RM2.56）。
+在自 2025 年 9 月 30 日开始的 BUDI95 计划下，合格的马来西亚国民可以每升 RM1.99 购买 RON95，每升补贴 RM0.61，每月上限 300 升——每人每月价值高达 RM183。（该配额在 2026 年 4 月 1 日至 8 月 31 日之间临时下调至 200 升，随后自 2026 年 9 月 1 日起恢复至 300 升；价格维持 RM1.99。）至于不受补贴的 RON95 一般市场价格，则在 2025 年 10 月定为每升 RM2.60，此后依 APM 上下波动（例如 2025 年 12 月 25–31 日那一周为 RM2.56）。
 
 至于柴油，半岛地区自 2024 年 6 月 10 日起重新实施定向补贴。在此之前，受补贴柴油在全国以每升 RM2.15 出售；从该日起，政府将半岛不受补贴柴油的零售价格定为每升 RM3.35，而沙巴、砂拉越和纳闽的柴油则维持在每升 RM2.15。此后半岛的柴油依 APM 浮动（2025 年 12 月 25–31 日那一周为 RM2.94）。
 

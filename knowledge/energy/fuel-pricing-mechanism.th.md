@@ -17,7 +17,7 @@ keyTakeaways:
   - "ราคาเชื้อเพลิงถูกกำหนดรายสัปดาห์ผ่านสูตร APM นับตั้งแต่เดือนเมษายน 2017"
   - "การประกาศราคาทำในวันพุธ ซึ่งเป็นตารางที่มีผลบังคับนับตั้งแต่ 3 มีนาคม 2021"
   - "RON97 ลอยตัวเต็มที่ ราคาเปลี่ยนแปลงทุกสัปดาห์ตามตลาดโลก"
-  - "RON95 ที่ได้รับอุดหนุนถูกคงไว้ที่ RM1.99/ลิตร (BUDI95 จำกัด 300 ลิตรต่อเดือน) ขณะที่ราคาตลาดทั่วไปลอยตัว"
+  - "RON95 ที่ได้รับอุดหนุนถูกคงไว้ที่ RM1.99/ลิตร (BUDI95 โควตารายเดือน 300 ลิตร ปรับคืนเมื่อ 1 กันยายน 2026 หลังถูกลดชั่วคราวเป็น 200 ลิตร) ขณะที่ราคาตลาดทั่วไปลอยตัว"
 appliesTo: "ผู้ขับขี่ ผู้บริโภค และผู้ที่ต้องการเข้าใจเหตุที่ราคาที่ปั๊มเปลี่ยนแปลงทุกสัปดาห์"
 
 faq:
@@ -27,7 +27,7 @@ faq:
     a: "ราคา RON95 ที่ได้รับอุดหนุนถูกคงไว้ที่ RM1.99 ต่อลิตรสำหรับประชาชนที่มีคุณสมบัติภายใต้ BUDI95 แต่ราคาตลาดทั่วไปที่ไม่ได้รับอุดหนุนผันผวนตาม APM"
 
 lang: "th"
-sourceContentHash: "31beae2d3f6af51b"
+sourceContentHash: "4eae5f9c10c770b6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -36,19 +36,22 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 verificationNeeded:
   - "วันประกาศก่อน 3 มีนาคม 2021 (วันศุกร์หรือวันพฤหัสบดี) แหล่งข้อมูลทุติยภูมิ (paultan.org) กล่าวถึงการเปลี่ยนไปเป็นวันพุธแต่ไม่ชัดเจนว่าวันเดิมคือวันใด โปรดยืนยันกับประกาศทางการหากจำเป็น"
   - "วันเริ่มที่แน่นอน 'เมษายน 2017' สำหรับกลไกรายสัปดาห์ APM ปัจจุบันอ้างอิงจากหมายเหตุพื้นหลังของแคตตาล็อก OpenDOSM โปรดยืนยันกับแหล่งข้อมูลนโยบายทางการ"
   - "ราคา RON97 ของสัปดาห์ก่อนหน้า (RM3.24) ได้มาโดยการคำนวณจากการลดลง 8 เซ็นที่ระบุในประกาศของ MOF ไม่ได้ระบุตรง ๆ ในประกาศนั้น"
-  - "โปรดยืนยันว่าอัตรา BUDI95 RM1.99 และราคาตลาดทั่วไป RON95 ยังเป็นปัจจุบัน ณ วันที่เผยแพร่หรือไม่"
 revisions:
   - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Recorded the BUDI95 quota cut to 200 litres (1 April 2026) and its restoration to 300 litres (1 September 2026), price unchanged at RM1.99; resolved the open check on whether the BUDI95 rate and quota were still current."
+    reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "ราคาขายปลีก RON95 แบบไม่อุดหนุนกำหนดที่ลิตรละ RM2.60 เมื่อ BUDI95 เริ่มต้น (Non-Subsidised RON95 Retail Price Set At RM2.60 Per Litre As BUDI95 Commences)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/non-subsidised-ron95-retail-price-set-at-rm2-60-per-litre-as-budi95-commences"
@@ -59,6 +62,10 @@ sources:
   - title: "รัฐบาลลดราคาขายปลีก RON95, RON97 และดีเซลแบบไม่อุดหนุน ตั้งแต่ 25 ธันวาคม 2025 ถึง 31 ธันวาคม 2025 (Government Reduces Non-Subsidised RON95, RON97 And Diesel Retail Prices From 25 December 2025 To 31 December 2025)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/retail-price/government-reduces-non-subsidised-ron95-ron97-and-diesel-retail-prices-from-25-december-2025-to-31-december-2025"
     publisher: "กระทรวงการคลังมาเลเซีย (MOF)"
+  - title: "โควตา BUDI95 ปรับคืนเป็น 300 ลิตรต่อเดือน (BUDI95 Quota Restored To 300 Litres A Month)"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/budi95-quota-restored-to-300-litres-a-month"
+    publisher: "กระทรวงการคลังมาเลเซีย (MOF)"
+    date: "2026-08-30"
   - title: "รัฐบาลดำเนินการอุดหนุนดีเซลแบบเจาะจงสำหรับมาเลเซียคาบสมุทร มีผล 10 มิถุนายน 2024 (Government Implements Targeted Diesel Subsidy For Peninsular Malaysia Effective 10 June 2024)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/government-implements-targeted-diesel-subsidy-for-peninsular-malaysia-effective-10-june-2024"
     publisher: "กระทรวงการคลังมาเลเซีย (MOF)"
@@ -101,7 +108,7 @@ RON97 ไม่ได้รับอุดหนุน ราคาลอยต�
 | ดีเซล (คาบสมุทร) | ลอยตัวนับตั้งแต่เงินอุดหนุนถูกถอน | RM2.94 |
 | ดีเซล (ซาบาห์ ซาราวัก ลาบวน) | ควบคุม คงไว้ | RM2.15 |
 
-ภายใต้โครงการ BUDI95 ที่เริ่ม 30 กันยายน 2025 ชาวมาเลเซียที่มีคุณสมบัติซื้อ RON95 ที่ RM1.99 ต่อลิตร ด้วยเงินอุดหนุน RM0.61 ต่อลิตรจนถึงขีดจำกัด 300 ลิตรต่อเดือน มีมูลค่าสูงถึง RM183 ต่อเดือนต่อคน ส่วนราคาตลาดทั่วไป RON95 ที่ไม่ได้รับอุดหนุนถูกกำหนดที่ RM2.60 ต่อลิตรสำหรับเดือนตุลาคม 2025 และผันผวนตาม APM หลังจากนั้น (เช่น RM2.56 สำหรับสัปดาห์ 25–31 ธันวาคม 2025)
+ภายใต้โครงการ BUDI95 ที่เริ่ม 30 กันยายน 2025 ชาวมาเลเซียที่มีคุณสมบัติซื้อ RON95 ที่ RM1.99 ต่อลิตร ด้วยเงินอุดหนุน RM0.61 ต่อลิตรจนถึงขีดจำกัด 300 ลิตรต่อเดือน มีมูลค่าสูงถึง RM183 ต่อเดือนต่อคน (โควตานั้นถูกลดชั่วคราวเป็น 200 ลิตรระหว่าง 1 เมษายนถึง 31 สิงหาคม 2026 แล้วปรับคืนเป็น 300 ลิตรตั้งแต่ 1 กันยายน 2026 ราคาคงอยู่ที่ RM1.99) ส่วนราคาตลาดทั่วไป RON95 ที่ไม่ได้รับอุดหนุนถูกกำหนดที่ RM2.60 ต่อลิตรสำหรับเดือนตุลาคม 2025 และผันผวนตาม APM หลังจากนั้น (เช่น RM2.56 สำหรับสัปดาห์ 25–31 ธันวาคม 2025)
 
 สำหรับดีเซล เงินอุดหนุนถูกเจาะจงเป้าหมายใหม่ในคาบสมุทรนับตั้งแต่ 10 มิถุนายน 2024 ก่อนหน้านั้นดีเซลที่ได้รับอุดหนุนถูกขายที่ RM2.15 ต่อลิตรทั่วประเทศ นับตั้งแต่วันดังกล่าว รัฐบาลกำหนดราคาขายปลีกดีเซลที่ไม่ได้รับอุดหนุนในคาบสมุทรที่ RM3.35 ต่อลิตร ขณะที่ดีเซลในซาบาห์ ซาราวัก และลาบวนยังคงที่ RM2.15 ต่อลิตร นับแต่นั้นดีเซลในคาบสมุทรลอยตัวตาม APM (RM2.94 สำหรับสัปดาห์ 25–31 ธันวาคม 2025)
 

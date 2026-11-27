@@ -17,7 +17,7 @@ keyTakeaways:
   - "연료 가격은 2017년 4월 이후 APM 공식을 통해 매주 정해집니다."
   - "가격 발표는 수요일에 이루어지며, 이 일정은 2021년 3월 3일부터 시행되었습니다."
   - "RON97은 완전 변동제입니다; 그 가격은 세계 시장에 따라 매주 바뀝니다."
-  - "보조금이 적용되는 RON95는 리터당 RM1.99로 유지되며(BUDI95, 월 300리터 한도), 일반 시장 가격은 변동합니다."
+  - "보조금이 적용되는 RON95는 리터당 RM1.99로 유지되며(BUDI95; 월 쿼터 300리터, 200리터로의 일시 축소 후 2026년 9월 1일 복원), 일반 시장 가격은 변동합니다."
 appliesTo: "운전자, 소비자, 그리고 주유소 가격이 왜 매주 바뀌는지 이해하고자 하는 모든 사람."
 
 faq:
@@ -27,7 +27,7 @@ faq:
     a: "보조금이 적용되는 RON95 가격은 BUDI95 아래 자격이 있는 국민에게 리터당 RM1.99로 유지되지만, 보조금이 없는 일반 시장 가격은 APM에 따라 오르내립니다."
 
 lang: "ko"
-sourceContentHash: "31beae2d3f6af51b"
+sourceContentHash: "4eae5f9c10c770b6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -36,19 +36,22 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 verificationNeeded:
   - "2021년 3월 3일 이전의 발표 요일(금요일 또는 목요일) — 2차 출처(paultan.org)는 수요일로의 전환을 언급하지만 원래 요일은 분명하지 않음; 필요하면 공식 발표로 확인할 것."
   - "APM 주간 메커니즘의 정확한 시작 시점 '2017년 4월' — 현재 OpenDOSM 카탈로그의 배경 주석에 근거함; 공식 정책 출처로 확인할 것."
   - "전주 RON97 가격(RM3.24)은 MOF 발표에 명시된 8센 인하로부터 산술적으로 도출된 것이며, 그 발표에 명시된 것이 아님."
-  - "BUDI95 요율 RM1.99와 RON95 일반 시장 가격이 발행일 기준으로 여전히 최신인지 확인할 것."
 revisions:
   - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Recorded the BUDI95 quota cut to 200 litres (1 April 2026) and its restoration to 300 litres (1 September 2026), price unchanged at RM1.99; resolved the open check on whether the BUDI95 rate and quota were still current."
+    reviewer: null
 
-updated: 2026-08-01
+updated: 2026-11-27
 sources:
   - title: "BUDI95 시행과 함께 무보조 RON95 소매가 리터당 RM2.60로 책정 (Non-Subsidised RON95 Retail Price Set At RM2.60 Per Litre As BUDI95 Commences)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/non-subsidised-ron95-retail-price-set-at-rm2-60-per-litre-as-budi95-commences"
@@ -59,6 +62,10 @@ sources:
   - title: "정부, 2025년 12월 25일부터 2025년 12월 31일까지 무보조 RON95·RON97 및 디젤 소매가 인하 (Government Reduces Non-Subsidised RON95, RON97 And Diesel Retail Prices From 25 December 2025 To 31 December 2025)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/retail-price/government-reduces-non-subsidised-ron95-ron97-and-diesel-retail-prices-from-25-december-2025-to-31-december-2025"
     publisher: "말레이시아 재무부(MOF)"
+  - title: "BUDI95 쿼터, 월 300리터로 복원 (BUDI95 Quota Restored To 300 Litres A Month)"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/budi95-quota-restored-to-300-litres-a-month"
+    publisher: "말레이시아 재무부(MOF)"
+    date: "2026-08-30"
   - title: "정부, 2024년 6월 10일부터 반도 말레이시아에 대상 디젤 보조 시행 (Government Implements Targeted Diesel Subsidy For Peninsular Malaysia Effective 10 June 2024)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/government-implements-targeted-diesel-subsidy-for-peninsular-malaysia-effective-10-june-2024"
     publisher: "말레이시아 재무부(MOF)"
@@ -101,7 +108,7 @@ RON97은 보조금이 없습니다. 그 가격은 완전 변동제로 — 상한
 | 디젤(반도) | 보조금 철회 이후 변동 | RM2.94 |
 | 디젤(사바, 사라왁, 라부안) | 통제, 유지 | RM2.15 |
 
-2025년 9월 30일에 시작된 BUDI95 프로그램 아래에서, 자격이 있는 말레이시아 국민은 RON95를 리터당 RM1.99에 구매하며, 월 300리터 한도까지 리터당 RM0.61의 보조금이 적용됩니다 — 1인당 월 최대 RM183에 달하는 가치입니다. 보조금이 없는 RON95 일반 시장 가격은 2025년 10월 기준 리터당 RM2.60으로 정해졌고 이후 APM에 따라 오르내립니다(예: 2025년 12월 25~31일 주에는 RM2.56).
+2025년 9월 30일에 시작된 BUDI95 프로그램 아래에서, 자격이 있는 말레이시아 국민은 RON95를 리터당 RM1.99에 구매하며, 월 300리터 한도까지 리터당 RM0.61의 보조금이 적용됩니다 — 1인당 월 최대 RM183에 달하는 가치입니다. (그 쿼터는 2026년 4월 1일과 8월 31일 사이에 200리터로 일시 축소되었다가 2026년 9월 1일부터 300리터로 복원되었습니다; 가격은 RM1.99로 유지되었습니다.) 보조금이 없는 RON95 일반 시장 가격은 2025년 10월 기준 리터당 RM2.60으로 정해졌고 이후 APM에 따라 오르내립니다(예: 2025년 12월 25~31일 주에는 RM2.56).
 
 디젤의 경우, 2024년 6월 10일부터 반도에서 보조금이 다시 표적화되었습니다. 그전에는 보조금이 적용된 디젤이 전국에서 리터당 RM2.15에 팔렸으나, 그날부터 정부는 반도의 보조금 없는 디젤 소매 가격을 리터당 RM3.35로 정했고, 사바, 사라왁, 라부안의 디젤은 리터당 RM2.15로 유지되었습니다. 그 이후 반도의 디젤은 APM에 따라 변동합니다(2025년 12월 25~31일 주에는 RM2.94).
 

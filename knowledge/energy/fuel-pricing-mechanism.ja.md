@@ -17,7 +17,7 @@ keyTakeaways:
   - "燃料価格は2017年4月以降、APMの公式を通じて毎週設定されている。"
   - "価格の発表は水曜日に行われ、この日程は2021年3月3日以降適用されている。"
   - "RON97は完全変動制であり、その価格は世界市場に応じて毎週変動する。"
-  - "補助金付きRON95は1リットルRM1.99で維持される（BUDI95、月300リットル上限）一方、一般市場価格は変動する。"
+  - "補助金付きRON95は1リットルRM1.99で維持される（BUDI95；月間配給枠300リットル、200リットルへの一時的な削減を経て2026年9月1日に回復）一方、一般市場価格は変動する。"
 appliesTo: "ドライバー、消費者、そして給油所の価格が毎週変動する理由を理解したいすべての人。"
 
 faq:
@@ -35,20 +35,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 verificationNeeded:
   - "2021年3月3日以前の発表曜日（金曜日または木曜日）——二次情報源（paultan.org）は水曜日への変更に言及しているが、元の曜日は明確でない。必要であれば公式発表で確認されたい。"
   - "APM週次メカニズムの正確な開始日「2017年4月」——現在はOpenDOSMカタログの背景説明に依拠している。公式の政策情報源で確認されたい。"
   - "前週のRON97価格（RM3.24）は、MOFの発表に記載された8セン引き下げから算術的に導出したものであり、発表自体に明記されているわけではない。"
-  - "BUDI95のRM1.99という料金及びRON95一般市場価格が、発表日時点で依然として最新であるかを確認されたい。"
 revisions:
   - revision: 0
     date: 2026-08-01
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Recorded the BUDI95 quota cut to 200 litres (1 April 2026) and its restoration to 300 litres (1 September 2026), price unchanged at RM1.99; resolved the open check on whether the BUDI95 rate and quota were still current."
+    reviewer: null
 
-updated: 2026-08-01
-sourceContentHash: "31beae2d3f6af51b"
+updated: 2026-11-27
+sourceContentHash: "4eae5f9c10c770b6"
 sources:
   - title: "BUDI95開始に伴い、無補助RON95の小売価格を1リットルRM2.60に設定 (Non-Subsidised RON95 Retail Price Set At RM2.60 Per Litre As BUDI95 Commences)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/non-subsidised-ron95-retail-price-set-at-rm2-60-per-litre-as-budi95-commences"
@@ -59,6 +62,10 @@ sources:
   - title: "政府、2025年12月25日から2025年12月31日まで無補助RON95・RON97・ディーゼルの小売価格を引き下げ (Government Reduces Non-Subsidised RON95, RON97 And Diesel Retail Prices From 25 December 2025 To 31 December 2025)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/retail-price/government-reduces-non-subsidised-ron95-ron97-and-diesel-retail-prices-from-25-december-2025-to-31-december-2025"
     publisher: "マレーシア財務省（MOF）"
+  - title: "BUDI95の配給枠が月300リットルに回復 (BUDI95 Quota Restored To 300 Litres A Month)"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/budi95-quota-restored-to-300-litres-a-month"
+    publisher: "マレーシア財務省（MOF）"
+    date: "2026-08-30"
   - title: "政府、2024年6月10日より半島マレーシア向けの的を絞ったディーゼル補助を実施 (Government Implements Targeted Diesel Subsidy For Peninsular Malaysia Effective 10 June 2024)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/government-implements-targeted-diesel-subsidy-for-peninsular-malaysia-effective-10-june-2024"
     publisher: "マレーシア財務省（MOF）"
@@ -101,7 +108,7 @@ RON97は補助金の対象外である。価格は週次変動制のもとで完
 | ディーゼル（半島部） | 補助金撤廃後は変動 | RM2.94 |
 | ディーゼル（サバ州、サラワク州、ラブアン） | 統制、維持 | RM2.15 |
 
-2025年9月30日に開始されたBUDI95プログラムのもとで、資格のあるマレーシア国民は1リットルRM1.99でRON95を購入でき、補助金は1リットルRM0.61、月300リットルを上限とする——一人当たり月最大RM183相当となる。一方、補助金の対象外である一般市場のRON95価格は2025年10月には1リットルRM2.60に設定され、それ以降はAPMに応じて上下している（例えば2025年12月25日から31日の週はRM2.56）。
+2025年9月30日に開始されたBUDI95プログラムのもとで、資格のあるマレーシア国民は1リットルRM1.99でRON95を購入でき、補助金は1リットルRM0.61、月300リットルを上限とする——一人当たり月最大RM183相当となる。（この配給枠は2026年4月1日から8月31日まで一時的に200リットルへ削減され、その後2026年9月1日から300リットルに回復された。価格はRM1.99のまま維持された。）一方、補助金の対象外である一般市場のRON95価格は2025年10月には1リットルRM2.60に設定され、それ以降はAPMに応じて上下している（例えば2025年12月25日から31日の週はRM2.56）。
 
 ディーゼルについては、2024年6月10日より半島部で補助金の対象が絞り直された。それ以前は、補助金付きディーゼルが全国で1リットルRM2.15で販売されていた。この日以降、政府は半島部における補助金対象外ディーゼルの小売価格を1リットルRM3.35に設定し、サバ州、サラワク州及びラブアンのディーゼルは1リットルRM2.15のまま据え置かれた。それ以来、半島部のディーゼルはAPMに応じて変動している（2025年12月25日から31日の週はRM2.94）。
 

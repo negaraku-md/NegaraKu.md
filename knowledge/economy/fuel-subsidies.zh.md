@@ -16,7 +16,7 @@ keyTakeaways:
   - "补贴是一个剩余额：APM价格减去设定的补贴价格——政府只能控制方程式的一边，市场价格那一边，因此成本无法预先估算"
   - "当布伦特原油触及每桶US$120时，RON95与柴油的补贴负担从约RM0.7 billion（2026年1月）跃升至RM7.5 billion（2026年4月）"
   - "BUDI95于2025年9月30日启动：市场普通RON95为RM2.60，合格领取者的补贴价为每公升RM1.99，起初配额为每月300公升"
-  - "BUDI95配额自2026年4月1日起调整为每月200公升；价格维持每公升RM1.99"
+  - "BUDI95配额于2026年4月1日临时下调至每月200公升，随后自2026年9月1日起恢复至300公升；价格维持每公升RM1.99"
   - "自2026年7月1日起，补贴柴油通过BUDI Diesel在全国统一为每公升RM2.10，并以MyKad核实身份"
 appliesTo: "驾驶人士、运输业者、财政分析人员，以及任何想弄清楚为何油站价格与所宣布价格不同的人。"
 
@@ -24,16 +24,16 @@ seoTitle: "马来西亚燃油补贴：APM、BUDI95与BUDI Diesel"
 
 faq:
   - q: "BUDI95下的补贴RON95价格是多少？"
-    a: "每公升RM1.99，自2026年4月1日起，合格领取者的配额为每月200公升。超出配额的公升数须以每周市场价格购买——2026年7月23日至29日期间为每公升RM3.62。"
+    a: "每公升RM1.99，合格领取者的配额为每月300公升——于2026年9月1日恢复，此前曾在2026年4月1日临时下调至200公升。超出配额的公升数须以每周市场价格购买——例如2026年7月23日至29日期间为每公升RM3.62。"
   - q: "谁有资格以每公升RM2.10购买柴油？"
-    a: "符合资格的私人柴油车主，依据2026年7月1日启动的BUDI Diesel。资格在油站以MyKad核实，基本配额为每月200公升，皮卡与吉普车车主可另外申请追加100公升。"
+    a: "符合资格的私人柴油车主，依据2026年7月1日启动的BUDI Diesel。资格在油站以MyKad核实，基本配额为每月300公升（自2026年9月1日起与BUDI95看齐）；符合资格的皮卡与吉普车车主每月可获最多400公升。"
   - q: "为何燃油价格每周都会变动？"
     a: "零售价格是使用自动定价机制（APM）公式计算的，该公式追踪已经提炼的石油产品的市场价格。自2021年3月3日起，宣布日为每周三，并从周四起生效至下周三。"
   - q: "燃油补贴让政府付出多少成本？"
     a: "这随市场价格而变动。RON95与柴油的补贴负担在2026年1月约为RM0.7 billion，并在2026年4月冲上RM7.5 billion的高峰，随后预计在2026年6月降至每月约RM3.5 billion。"
 
 lang: "zh"
-sourceContentHash: "4d77f16bdf432b0a"
+sourceContentHash: "d66aa4941f93c049"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -43,15 +43,19 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2028-01-24
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "BUDI95 monthly quota restored to 300 litres from 1 September 2026 (reversing the 1 April 2026 cut to 200 litres), price unchanged at RM1.99; BUDI Diesel for eligible pickup/jeep owners raised to up to 400 litres; Budget 2027 kept fuel subsidies at about RM40 billion for 2027."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "汽油与柴油价格 — 数据目录 (Harga Petrol & Diesel — katalog data)"
     url: "https://open.dosm.gov.my/ms-MY/data-catalogue/fuelprice"
@@ -64,6 +68,10 @@ sources:
     url: "https://mof.gov.my/portal/ms/berita/siaran-media/budi95-diselaras-kepada-200-liter-sebulan-harga-kekal-rm1-99-seliter"
     publisher: "马来西亚财政部"
     date: "2026-03-26"
+  - title: "BUDI95 配额恢复至每月 300 公升 (BUDI95 Quota Restored To 300 Litres A Month)"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/budi95-quota-restored-to-300-litres-a-month"
+    publisher: "马来西亚财政部"
+    date: "2026-08-30"
   - title: "汽油与柴油零售价维持不变，补贴负担预计每月 RM35 亿 (Harga Runcit Petrol Dan Diesel Dikekalkan, Tanggungan Subsidi Diunjur RM3.5 Bilion Sebulan)"
     url: "https://mof.gov.my/portal/ms/berita/siaran-media/harga-runcit-petrol-dan-diesel-dikekalkan-tanggungan-subsidi-diunjur-rm3-5-bilion-sebulan"
     publisher: "马来西亚财政部"
@@ -154,10 +162,13 @@ APM是一道行政公式，而不是市场机制。它根据石油产品的每�
 | 2025年9月30日 | BUDI95启动：市场普通RON95为RM2.60，补贴价为每公升RM1.99，配额为每月300公升 |
 | 2026年4月1日 | BUDI95配额调整为每月200公升；价格维持RM1.99 |
 | 2026年7月1日 | BUDI Diesel：补贴柴油在全国统一为每公升RM2.10 |
+| 2026年9月1日 | BUDI95配额恢复至每月300公升；价格维持RM1.99；皮卡与吉普车车主的BUDI Diesel上调至每月最多400公升 |
 
 BUDI95推出时，相较于市场普通价RM2.60，补贴相当于每公升61 sen，以每月300公升的全额配额计算，最高可省约每月RM183。到了2026年6月，当无补贴RON95为每公升RM3.72时，财政部估计使用200公升的消费者可节省约每月RM346——并表示该计划惠及超过1,400万人。
 
 在2026年4月1日调整配额时，政府表示近90%的合格消费者每月使用少于200公升，平均使用量约为100公升。电召车（e-hailing）营运者的额外配额则维持在每月800公升。
+
+这项临时调整后来被撤回：基本配额**自2026年9月1日起恢复至每月300公升**。首相拿督斯里安华·依布拉欣（Datuk Seri Anwar Ibrahim）在国庆献词中宣布，生活成本压力不能等到2027年财政预算案提呈。价格维持每公升RM1.99，此举惠及超过1600万名补贴RON95用户；与此同时，符合资格的皮卡与吉普车柴油车主的BUDI Diesel上调至每月最多400公升。2027年财政预算案已于2026年10月9日提呈，将燃油补贴拨款维持在2027年约RM40 billion。
 
 ## 今天谁付多少
 
@@ -175,7 +186,7 @@ BUDI95推出时，相较于市场普通价RM2.60，补贴相当于每公升61 se
 
 最后两项计划由国内贸易及生活费部（Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup，KPDN）透过MySubsidi系统管理，而非透过MyKad。SKPS（Sistem Kawalan Petrol Bersubsidi，补贴汽油管控系统）涵盖21种车辆类型，横跨陆路公共交通与陆路货运领域——德士、校车、救护车、冷藏货车等。车辆可以个人名义、在SSM注册的公司名义，或合作社与地方当局名义登记；登记只能透过MySubsidi进行，没有人工申请。批准是即时的，视实体类型、使用类别及车辆路税是否有效而定。
 
-至于2026年7月1日启动的BUDI Diesel，基本配额为每月200公升，皮卡与吉普车车主可另外申请追加100公升。资格在油站以MyKad核实。该计划锁定约70万名私人柴油车车主——半岛约40万人，沙巴、砂拉越及联邦直辖区纳闽约30万人——相较之下，先前的BUDI Diesel Individu现金转移计划在半岛只有约18万名领取者。渔民（每公升RM1.65）以及包括校车在内的公共交通（每公升RM1.88）也订有专属费率。
+至于2026年7月1日启动的BUDI Diesel，基本配额为每月300公升——自2026年9月1日起由200公升恢复，与BUDI95看齐——而符合资格的皮卡与吉普车车主每月可获最多400公升。资格在油站以MyKad核实。该计划锁定约70万名私人柴油车车主——半岛约40万人，沙巴、砂拉越及联邦直辖区纳闽约30万人——相较之下，先前的BUDI Diesel Individu现金转移计划在半岛只有约18万名领取者。渔民（每公升RM1.65）以及包括校车在内的公共交通（每公升RM1.88）也订有专属费率。
 
 ## 常见错误
 
@@ -187,7 +198,7 @@ BUDI95推出时，相较于市场普通价RM2.60，补贴相当于每公升61 se
 
 **以为马来西亚身为能源出口国就不受高油价影响。** 政府的石油收入确实会随价格上涨而增加，但补贴负担也在同一时间上升——而且两者不一定以相同的速度变动。对预算的净影响同时取决于数量、价格与补贴结构；这不是一种自动对冲。
 
-**以为精准补贴的目标对象已成定局。** 2026年4月的BUDI95配额调整，被表明为在全球供应状况稳定之前的临时措施。价格、配额、资格等参数，是政策变量，而不是常数。
+**以为精准补贴的目标对象已成定局。** 2026年4月的BUDI95配额调整，被表明为在全球供应状况稳定之前的临时措施——而配额确实已在2026年9月1日恢复至300公升。价格、配额、资格等参数，是政策变量，而不是常数。
 
 ## 下一步
 

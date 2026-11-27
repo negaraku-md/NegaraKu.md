@@ -16,7 +16,7 @@ keyTakeaways:
   - "보조금은 격차의 잔여분입니다: APM 가격에서 정해진 보조 가격을 뺀 것 — 정부는 시장 가격 쪽을 통제하지 않으므로 그 비용을 미리 추정할 수 없습니다"
   - "RON95와 경유 보조금 부담은 브렌트가 배럴당 미화 120달러에 이르자 약 RM7억(2026년 1월)에서 RM75억(2026년 4월)으로 급등했습니다"
   - "BUDI95는 2025년 9월 30일 시작되었습니다: RON95 일반 시장가 RM2.60, 적격 수혜자 보조 가격 리터당 RM1.99, 처음에는 월 300리터 쿼터"
-  - "BUDI95 쿼터는 2026년 4월 1일부터 월 200리터로 조정되었으며, 가격은 리터당 RM1.99로 유지됩니다"
+  - "BUDI95 쿼터는 2026년 4월 1일 월 200리터로 일시 축소되었다가 2026년 9월 1일부터 300리터로 복원되었습니다; 가격은 리터당 RM1.99로 유지됩니다"
   - "2026년 7월 1일부터 보조 경유는 BUDI Diesel을 통해 MyKad 확인으로 전국 리터당 RM2.10으로 통일되었습니다"
 appliesTo: "운전자, 운송 사업자, 재정 분석가, 그리고 주유소 가격이 발표된 가격과 왜 다른지 이해하려는 모든 사람."
 
@@ -24,16 +24,16 @@ seoTitle: "말레이시아 연료 보조금: APM, BUDI95, BUDI Diesel"
 
 faq:
   - q: "BUDI95 하에서 보조 RON95 가격은 얼마입니까?"
-    a: "리터당 RM1.99이며, 2026년 4월 1일부터 적격 수혜자에게 월 200리터 쿼터가 적용됩니다. 쿼터를 초과하는 리터는 주간 시장 가격으로 구매됩니다 — 2026년 7월 23일부터 29일까지는 리터당 RM3.62입니다."
+    a: "리터당 RM1.99이며, 적격 수혜자에게 월 300리터 쿼터가 적용됩니다 — 2026년 4월 1일 200리터로 일시 축소되었다가 2026년 9월 1일 복원되었습니다. 쿼터를 초과하는 리터는 주간 시장 가격으로 구매됩니다 — 예를 들어 2026년 7월 23일부터 29일까지는 리터당 RM3.62입니다."
   - q: "누가 리터당 RM2.10에 경유를 살 수 있습니까?"
-    a: "2026년 7월 1일 시작된 BUDI Diesel 하에서 적격 개인 소유 경유 차량 소유자입니다. 자격은 주유소에서 MyKad로 확인되며, 기본 쿼터 월 200리터에 픽업과 지프 소유자는 추가 100리터를 신청할 수 있습니다."
+    a: "2026년 7월 1일 시작된 BUDI Diesel 하에서 적격 개인 소유 경유 차량 소유자입니다. 자격은 주유소에서 MyKad로 확인되며, 기본 쿼터는 월 300리터이고(2026년 9월 1일부터 BUDI95와 일치); 적격 픽업과 지프 소유자는 월 최대 400리터를 받습니다."
   - q: "연료 가격은 왜 매주 바뀝니까?"
     a: "소매 가격은 시장에서 이미 정제된 석유 제품 가격을 추적하는 자동 가격 메커니즘(APM) 공식을 사용하여 산출됩니다. 2021년 3월 3일 이후 발표는 수요일에 이루어져 목요일부터 다음 수요일까지 적용됩니다."
   - q: "연료 보조금이 정부에 드는 비용은 얼마입니까?"
     a: "시장 가격에 따라 변합니다. RON95와 경유 보조금 부담은 2026년 1월 약 RM7억이었고 4월에 RM75억으로 정점을 찍었다가, 6월에는 월 약 RM35억으로 전망되었습니다."
 
 lang: "ko"
-sourceContentHash: "4d77f16bdf432b0a"
+sourceContentHash: "d66aa4941f93c049"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -43,15 +43,19 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2028-01-24
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "BUDI95 monthly quota restored to 300 litres from 1 September 2026 (reversing the 1 April 2026 cut to 200 litres), price unchanged at RM1.99; BUDI Diesel for eligible pickup/jeep owners raised to up to 400 litres; Budget 2027 kept fuel subsidies at about RM40 billion for 2027."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "휘발유 및 디젤 가격 — 데이터 카탈로그 (Harga Petrol & Diesel — katalog data)"
     url: "https://open.dosm.gov.my/ms-MY/data-catalogue/fuelprice"
@@ -64,6 +68,10 @@ sources:
     url: "https://mof.gov.my/portal/ms/berita/siaran-media/budi95-diselaras-kepada-200-liter-sebulan-harga-kekal-rm1-99-seliter"
     publisher: "말레이시아 재무부"
     date: "2026-03-26"
+  - title: "BUDI95 쿼터, 월 300리터로 복원 (BUDI95 Quota Restored To 300 Litres A Month)"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/budi95-quota-restored-to-300-litres-a-month"
+    publisher: "말레이시아 재무부"
+    date: "2026-08-30"
   - title: "Harga Runcit Petrol Dan Diesel Dikekalkan, Tanggungan Subsidi Diunjur RM35억 Sebulan"
     url: "https://mof.gov.my/portal/ms/berita/siaran-media/harga-runcit-petrol-dan-diesel-dikekalkan-tanggungan-subsidi-diunjur-rm3-5-bilion-sebulan"
     publisher: "말레이시아 재무부"
@@ -181,6 +189,7 @@ APM은 시장 메커니즘이 아니라 행정 공식입니다. 이는 석유 �
 | 2025년 9월 30일 | BUDI95 시작: RON95 일반 시장가 RM2.60, 보조 가격 리터당 RM1.99, 월 300리터 쿼터 |
 | 2026년 4월 1일 | BUDI95 쿼터를 월 200리터로 조정, 가격은 RM1.99로 유지 |
 | 2026년 7월 1일 | BUDI Diesel: 보조 경유가 전국 리터당 RM2.10으로 통일 |
+| 2026년 9월 1일 | BUDI95 쿼터를 월 300리터로 복원; 가격은 RM1.99로 유지; 픽업과 지프 소유자용 BUDI Diesel을 최대 400리터로 인상 |
 
 BUDI95 출범 시, 보조금은 일반 시장가 RM2.60 대비 리터당 61센에 해당했으며, 300리터 전체
 쿼터에서 월 약 RM183까지의 혜택이 있었습니다. 2026년 6월 무렵, 무보조 RON95가 리터당 RM3.72에
@@ -190,6 +199,13 @@ BUDI95 출범 시, 보조금은 일반 시장가 RM2.60 대비 리터당 61센�
 2026년 4월 1일 쿼터가 조정될 때, 정부는 적격 소비자의 거의 90%가 월 200리터 미만을 사용하며
 평균 사용량이 약 100리터라고 밝혔습니다. e-헤일링 운영자를 위한 추가 쿼터는 월 800리터로
 유지됩니다.
+
+그 임시 조정은 이후 철회되었습니다: 기본 쿼터가 **2026년 9월 1일부터 월 300리터로 복원**
+되었으며, 이는 다툭 스리 안와르 이브라힘(Datuk Seri Anwar Ibrahim) 총리가 국경일 담화에서
+생활비 압박이 2027년 예산안 제출을 기다릴 수 없다고 발표하면서 이루어졌습니다. 가격은 리터당
+RM1.99로 유지되었고 이 조치는 1,600만 명이 넘는 보조 RON95 이용자에게 혜택을 주었습니다;
+동시에, 적격 픽업과 지프 경유 차량 소유자는 월 최대 400리터의 BUDI Diesel로 인상되었습니다.
+2026년 10월 9일 제출된 2027년 예산안은 연료 보조금 배정을 2027년 약 RM400억으로 유지했습니다.
 
 ## 오늘 누가 얼마를 내는가
 
@@ -211,8 +227,9 @@ SKPS는 육상 대중교통과 육상 화물 운송 부문에 걸친 21종의 �
 등록될 수 있습니다. 등록은 MySubsidi를 통해서만 이루어지며 수동 신청은 없습니다. 승인은 차체
 유형, 사용 등급, 유효한 차량세를 조건으로 즉시 이루어집니다.
 
-2026년 7월 1일 시작된 BUDI Diesel의 경우 기본 쿼터는 월 200리터이며, 픽업과 지프 소유자는
-추가 100리터를 신청할 수 있습니다. 자격은 주유소에서 MyKad로 확인됩니다. 이 프로그램은 약
+2026년 7월 1일 시작된 BUDI Diesel의 경우 기본 쿼터는 월 300리터이며 — 2026년 9월 1일 BUDI95와
+일치하도록 200리터에서 복원되었습니다 — 적격 픽업과 지프 소유자는 월 최대 400리터를 받습니다.
+자격은 주유소에서 MyKad로 확인됩니다. 이 프로그램은 약
 70만 명의 개인 소유 경유 차량 소유자 — 반도 약 40만 명, 사바·사라왁·W.P. 라부안 약 30만 명 —
 를 표적으로 하며, 이는 이전 BUDI Diesel 개인 현금 이전 제도 하의 반도 약 18만 명 수혜자와
 대비됩니다. 어민(리터당 RM1.65)과 스쿨버스를 포함한 대중교통(리터당 RM1.88)에 대한 특정
@@ -237,8 +254,8 @@ SKPS는 육상 대중교통과 육상 화물 운송 부문에 걸친 21종의 �
 자동적 헤지가 아닙니다.
 
 **그 목표가 확정이라고 가정하는 것.** 2026년 4월 BUDI95 쿼터 조정은 글로벌 공급 상황이
-안정될 때까지의 임시 조치로 명시되었습니다. 매개변수 — 가격, 쿼터, 자격 — 는 상수가 아니라
-정책 변수입니다.
+안정될 때까지의 임시 조치로 명시되었습니다 — 그리고 실제로 그 쿼터는 2026년 9월 1일 300리터로
+복원되었습니다. 매개변수 — 가격, 쿼터, 자격 — 는 상수가 아니라 정책 변수입니다.
 
 ## 다음으로 볼 내용
 

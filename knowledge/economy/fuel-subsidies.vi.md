@@ -16,7 +16,7 @@ keyTakeaways:
   - "Trợ giá là khoảng cách còn lại: giá APM trừ đi giá được trợ giá ấn định — chính phủ không kiểm soát vế giá thị trường, nên chi phí của nó không thể ước tính trước"
   - "Gánh nặng trợ giá RON95 và diesel tăng vọt từ khoảng RM0.7 tỷ (tháng 1 năm 2026) lên RM7.5 tỷ (tháng 4 năm 2026) khi dầu Brent chạm US$120/thùng"
   - "BUDI95 bắt đầu ngày 30 tháng 9 năm 2025: RON95 thị trường phổ thông RM2.60, giá được trợ giá RM1.99 mỗi lít cho người thụ hưởng đủ điều kiện, ban đầu có hạn ngạch 300 lít mỗi tháng"
-  - "Hạn ngạch BUDI95 được điều chỉnh còn 200 lít mỗi tháng kể từ ngày 1 tháng 4 năm 2026; giá giữ ở RM1.99 mỗi lít"
+  - "Hạn ngạch BUDI95 bị cắt tạm thời còn 200 lít mỗi tháng vào ngày 1 tháng 4 năm 2026, rồi được khôi phục lên 300 lít kể từ ngày 1 tháng 9 năm 2026; giá giữ ở RM1.99 mỗi lít"
   - "Kể từ ngày 1 tháng 7 năm 2026, dầu diesel được trợ giá được thống nhất ở RM2.10 mỗi lít trên toàn quốc qua BUDI Diesel với việc xác thực bằng MyKad"
 appliesTo: "Người lái xe, doanh nghiệp vận tải, nhà phân tích tài khóa và bất kỳ ai đang cố hiểu vì sao giá ở trạm bơm khác với giá được công bố."
 
@@ -24,16 +24,16 @@ seoTitle: "Trợ giá nhiên liệu Malaysia: APM, BUDI95 và BUDI Diesel"
 
 faq:
   - q: "Giá RON95 được trợ giá theo BUDI95 là bao nhiêu?"
-    a: "RM1.99 mỗi lít, với hạn ngạch 200 lít mỗi tháng cho người thụ hưởng đủ điều kiện kể từ ngày 1 tháng 4 năm 2026. Số lít vượt hạn ngạch được mua theo giá thị trường hằng tuần — RM3.62 mỗi lít cho giai đoạn 23 đến 29 tháng 7 năm 2026."
+    a: "RM1.99 mỗi lít, với hạn ngạch 300 lít mỗi tháng cho người thụ hưởng đủ điều kiện — được khôi phục vào ngày 1 tháng 9 năm 2026 sau khi bị cắt tạm thời còn 200 lít vào ngày 1 tháng 4 năm 2026. Số lít vượt hạn ngạch được mua theo giá thị trường hằng tuần — ví dụ RM3.62 mỗi lít cho giai đoạn 23 đến 29 tháng 7 năm 2026."
   - q: "Ai đủ điều kiện mua dầu diesel ở RM2.10 mỗi lít?"
-    a: "Chủ các xe diesel cá nhân đủ điều kiện, theo BUDI Diesel bắt đầu ngày 1 tháng 7 năm 2026. Điều kiện được xác thực bằng MyKad tại trạm, với hạn ngạch cơ bản 200 lít mỗi tháng và 100 lít bổ sung có thể xin cho chủ xe bán tải và xe jeep."
+    a: "Chủ các xe diesel cá nhân đủ điều kiện, theo BUDI Diesel bắt đầu ngày 1 tháng 7 năm 2026. Điều kiện được xác thực bằng MyKad tại trạm, với hạn ngạch cơ bản 300 lít mỗi tháng (đồng bộ với BUDI95 kể từ ngày 1 tháng 9 năm 2026); chủ xe bán tải và xe jeep đủ điều kiện nhận tối đa 400 lít mỗi tháng."
   - q: "Vì sao giá nhiên liệu thay đổi mỗi tuần?"
     a: "Giá bán lẻ được tính theo công thức Cơ chế Giá Tự động (APM) vốn theo dõi giá các sản phẩm dầu mỏ đã tinh chế trên thị trường. Kể từ ngày 3 tháng 3 năm 2021, việc công bố được thực hiện vào thứ Tư và có hiệu lực từ thứ Năm đến thứ Tư tuần sau."
   - q: "Trợ giá nhiên liệu tốn của chính phủ bao nhiêu?"
     a: "Nó thay đổi theo giá thị trường. Gánh nặng trợ giá RON95 và diesel vào khoảng RM0.7 tỷ vào tháng 1 năm 2026 và đạt đỉnh RM7.5 tỷ vào tháng 4 năm 2026, trước khi được dự phóng khoảng RM3.5 tỷ mỗi tháng vào tháng 6 năm 2026."
 
 lang: "vi"
-sourceContentHash: "4d77f16bdf432b0a"
+sourceContentHash: "d66aa4941f93c049"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -43,15 +43,19 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2028-01-24
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "BUDI95 monthly quota restored to 300 litres from 1 September 2026 (reversing the 1 April 2026 cut to 200 litres), price unchanged at RM1.99; BUDI Diesel for eligible pickup/jeep owners raised to up to 400 litres; Budget 2027 kept fuel subsidies at about RM40 billion for 2027."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Giá Xăng & Dầu Diesel — danh mục dữ liệu (Harga Petrol & Diesel — katalog data)"
     url: "https://open.dosm.gov.my/ms-MY/data-catalogue/fuelprice"
@@ -64,6 +68,10 @@ sources:
     url: "https://mof.gov.my/portal/ms/berita/siaran-media/budi95-diselaras-kepada-200-liter-sebulan-harga-kekal-rm1-99-seliter"
     publisher: "Bộ Tài chính Malaysia"
     date: "2026-03-26"
+  - title: "Hạn ngạch BUDI95 được khôi phục lên 300 lít mỗi tháng (BUDI95 Quota Restored To 300 Litres A Month)"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/budi95-quota-restored-to-300-litres-a-month"
+    publisher: "Bộ Tài chính Malaysia"
+    date: "2026-08-30"
   - title: "Giá bán lẻ xăng và dầu diesel được giữ nguyên, gánh nặng trợ giá dự kiến RM3,5 tỷ mỗi tháng (Harga Runcit Petrol Dan Diesel Dikekalkan, Tanggungan Subsidi Diunjur RM3.5 Bilion Sebulan)"
     url: "https://mof.gov.my/portal/ms/berita/siaran-media/harga-runcit-petrol-dan-diesel-dikekalkan-tanggungan-subsidi-diunjur-rm3-5-bilion-sebulan"
     publisher: "Bộ Tài chính Malaysia"
@@ -154,10 +162,13 @@ Mô hình có mục tiêu không xóa bỏ rủi ro giá. Nó thu nhỏ **khối
 | 30 tháng 9 năm 2025 | BUDI95 bắt đầu: RON95 thị trường phổ thông RM2.60, giá được trợ giá RM1.99 mỗi lít, hạn ngạch 300 lít mỗi tháng |
 | 1 tháng 4 năm 2026 | Hạn ngạch BUDI95 điều chỉnh còn 200 lít mỗi tháng; giá giữ ở RM1.99 |
 | 1 tháng 7 năm 2026 | BUDI Diesel: dầu diesel được trợ giá thống nhất ở RM2.10 mỗi lít trên toàn quốc |
+| 1 tháng 9 năm 2026 | Hạn ngạch BUDI95 được khôi phục lên 300 lít mỗi tháng; giá giữ ở RM1.99; BUDI Diesel cho chủ xe bán tải và xe jeep được nâng lên tối đa 400 lít |
 
 Khi BUDI95 ra mắt, trợ giá tương đương 61 sen mỗi lít so với giá thị trường phổ thông RM2.60, với lợi ích lên tới khoảng RM183 mỗi tháng ở hạn ngạch đầy đủ 300 lít. Đến tháng 6 năm 2026, khi RON95 không trợ giá ở mức RM3.72 mỗi lít, Bộ Tài chính ước tính khoản tiết kiệm khoảng RM346 mỗi tháng cho người dùng sử dụng 200 lít — và nêu hơn 14 triệu người thụ hưởng của chương trình.
 
 Khi hạn ngạch được điều chỉnh vào ngày 1 tháng 4 năm 2026, chính phủ nêu rằng gần 90 phần trăm người dùng đủ điều kiện sử dụng dưới 200 lít mỗi tháng, với mức sử dụng trung bình khoảng 100 lít. Hạn ngạch bổ sung cho các đơn vị e-hailing giữ ở 800 lít mỗi tháng.
+
+Việc điều chỉnh tạm thời đó về sau đã được đảo ngược: hạn ngạch cơ bản được **khôi phục lên 300 lít mỗi tháng kể từ ngày 1 tháng 9 năm 2026**, khi Thủ tướng Datuk Seri Anwar Ibrahim tuyên bố trong bài phát biểu Ngày Quốc khánh rằng áp lực chi phí sinh hoạt không thể chờ đến khi trình Ngân sách 2027. Giá giữ ở RM1.99 mỗi lít và động thái này mang lại lợi ích cho hơn 16 triệu người dùng RON95 được trợ giá; cùng lúc đó, chủ xe bán tải và xe jeep chạy diesel đủ điều kiện được nâng lên tối đa 400 lít BUDI Diesel mỗi tháng. Ngân sách 2027, được trình vào ngày 9 tháng 10 năm 2026, giữ khoản phân bổ trợ giá nhiên liệu ở khoảng RM40 tỷ cho năm 2027.
 
 ## Ai trả bao nhiêu, ngày hôm nay
 
@@ -175,7 +186,7 @@ Cho giai đoạn 23 đến 29 tháng 7 năm 2026, sau khi Brent tăng khoảng 1
 
 Hai chương trình cuối được Bộ Thương mại Nội địa và Chi phí Sinh hoạt điều hành qua hệ thống MySubsidi, chứ không qua MyKad. SKPS bao gồm 21 loại phương tiện trải rộng khu vực vận tải công cộng đường bộ và vận tải hàng hóa đường bộ — taxi, xe buýt trường học, xe cứu thương, xe tải đông lạnh và các loại khác. Phương tiện có thể được đăng ký dưới tên cá nhân, công ty đã đăng ký với SSM, hoặc hợp tác xã và chính quyền địa phương; việc đăng ký chỉ được thực hiện qua MySubsidi và không có đơn thủ công. Việc phê duyệt là tức thời, tùy theo loại thân xe, hạng sử dụng và thuế đường bộ hợp lệ của phương tiện.
 
-Đối với BUDI Diesel bắt đầu ngày 1 tháng 7 năm 2026, hạn ngạch cơ bản là 200 lít mỗi tháng, với 100 lít bổ sung có thể xin cho chủ xe bán tải và xe jeep. Điều kiện được xác thực bằng MyKad tại trạm. Chương trình này nhắm tới khoảng 700.000 chủ xe diesel cá nhân — khoảng 400.000 ở Bán đảo và 300.000 ở Sabah, Sarawak và W.P. Labuan — so với khoảng 180.000 người thụ hưởng ở Bán đảo theo chương trình chuyển tiền mặt BUDI Diesel Individu trước đó. Mức giá riêng cũng được ấn định cho ngư dân (RM1.65 mỗi lít) và vận tải công cộng bao gồm xe buýt trường học (RM1.88 mỗi lít).
+Đối với BUDI Diesel bắt đầu ngày 1 tháng 7 năm 2026, hạn ngạch cơ bản là 300 lít mỗi tháng — được khôi phục từ 200 lít vào ngày 1 tháng 9 năm 2026, đồng bộ với BUDI95 — trong khi chủ xe bán tải và xe jeep đủ điều kiện nhận tối đa 400 lít mỗi tháng. Điều kiện được xác thực bằng MyKad tại trạm. Chương trình này nhắm tới khoảng 700.000 chủ xe diesel cá nhân — khoảng 400.000 ở Bán đảo và 300.000 ở Sabah, Sarawak và W.P. Labuan — so với khoảng 180.000 người thụ hưởng ở Bán đảo theo chương trình chuyển tiền mặt BUDI Diesel Individu trước đó. Mức giá riêng cũng được ấn định cho ngư dân (RM1.65 mỗi lít) và vận tải công cộng bao gồm xe buýt trường học (RM1.88 mỗi lít).
 
 ## Những nhầm lẫn thường gặp
 
@@ -187,7 +198,7 @@ Hai chương trình cuối được Bộ Thương mại Nội địa và Chi ph�
 
 **Coi Malaysia là một nước xuất khẩu năng lượng được che chắn khỏi giá cao.** Hạng thu dầu mỏ của chính phủ quả thực tăng khi giá lên, nhưng gánh nặng trợ giá cũng tăng cùng lúc — và cả hai không nhất thiết dịch chuyển với cùng một tốc độ. Tác động ròng lên ngân sách phụ thuộc vào khối lượng, giá và cấu trúc trợ giá đồng thời; nó không phải là một cơ chế phòng ngừa rủi ro tự động.
 
-**Cho rằng mục tiêu là dứt điểm.** Việc điều chỉnh hạn ngạch BUDI95 vào tháng 4 năm 2026 được nêu là một biện pháp tạm thời cho đến khi tình hình nguồn cung toàn cầu ổn định. Các tham số — giá, hạn ngạch, điều kiện — là các biến số chính sách, không phải hằng số.
+**Cho rằng mục tiêu là dứt điểm.** Việc điều chỉnh hạn ngạch BUDI95 vào tháng 4 năm 2026 được nêu là một biện pháp tạm thời cho đến khi tình hình nguồn cung toàn cầu ổn định — và hạn ngạch đó quả thực đã được khôi phục lên 300 lít vào ngày 1 tháng 9 năm 2026. Các tham số — giá, hạn ngạch, điều kiện — là các biến số chính sách, không phải hằng số.
 
 ## Tiếp theo
 

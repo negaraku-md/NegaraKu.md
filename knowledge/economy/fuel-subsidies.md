@@ -16,7 +16,7 @@ keyTakeaways:
   - "Subsidi ialah baki jurang: harga APM tolak harga bersubsidi yang ditetapkan — kerajaan tidak mengawal sebelah harga pasaran, jadi kosnya tidak boleh dianggarkan awal"
   - "Tanggungan subsidi RON95 dan diesel melonjak daripada kira-kira RM0.7 bilion (Januari 2026) kepada RM7.5 bilion (April 2026) apabila Brent mencecah AS$120 setong"
   - "BUDI95 bermula 30 September 2025: RON95 pasaran umum RM2.60, harga bersubsidi RM1.99 seliter untuk penerima layak, pada mulanya berkuota 300 liter sebulan"
-  - "Kuota BUDI95 diselaraskan kepada 200 liter sebulan mulai 1 April 2026; harga kekal RM1.99 seliter"
+  - "Kuota BUDI95 dikurangkan sementara kepada 200 liter sebulan pada 1 April 2026, kemudian dipulihkan kepada 300 liter mulai 1 September 2026; harga kekal RM1.99 seliter"
   - "Mulai 1 Julai 2026 diesel bersubsidi diseragamkan pada RM2.10 seliter di seluruh negara melalui BUDI Diesel dengan pengesahan MyKad"
 appliesTo: "Pemandu, pengusaha pengangkutan, penganalisis fiskal dan sesiapa yang cuba memahami mengapa harga di pam berbeza daripada harga yang diumumkan."
 
@@ -24,9 +24,9 @@ seoTitle: "Subsidi Bahan Api Malaysia: APM, BUDI95 dan BUDI Diesel"
 
 faq:
   - q: "Berapakah harga RON95 bersubsidi di bawah BUDI95?"
-    a: "RM1.99 seliter, dengan kuota 200 liter sebulan bagi penerima layak mulai 1 April 2026. Liter yang melebihi kuota dibeli pada harga pasaran mingguan — RM3.62 seliter bagi tempoh 23 hingga 29 Julai 2026."
+    a: "RM1.99 seliter, dengan kuota 300 liter sebulan bagi penerima layak — dipulihkan pada 1 September 2026 selepas dikurangkan sementara kepada 200 liter pada 1 April 2026. Liter yang melebihi kuota dibeli pada harga pasaran mingguan — contohnya RM3.62 seliter bagi tempoh 23 hingga 29 Julai 2026."
   - q: "Siapa layak membeli diesel pada RM2.10 seliter?"
-    a: "Pemilik kenderaan diesel persendirian yang layak, di bawah BUDI Diesel yang bermula 1 Julai 2026. Kelayakan disahkan menggunakan MyKad di stesen, dengan kuota asas 200 liter sebulan dan tambahan 100 liter yang boleh dipohon bagi pemilik pikap dan jip."
+    a: "Pemilik kenderaan diesel persendirian yang layak, di bawah BUDI Diesel yang bermula 1 Julai 2026. Kelayakan disahkan menggunakan MyKad di stesen, dengan kuota asas 300 liter sebulan (sejajar dengan BUDI95 mulai 1 September 2026); pemilik pikap dan jip yang layak menerima sehingga 400 liter sebulan."
   - q: "Mengapa harga bahan api berubah setiap minggu?"
     a: "Harga runcit dikira menggunakan formula Mekanisme Harga Automatik (APM) yang menjejaki harga produk petroleum yang sudah ditapis di pasaran. Sejak 3 Mac 2021 pengumuman dibuat pada hari Rabu dan berkuat kuasa Khamis hingga Rabu berikutnya."
   - q: "Berapakah kos subsidi bahan api kepada kerajaan?"
@@ -42,15 +42,19 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2028-01-24
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "BUDI95 monthly quota restored to 300 litres from 1 September 2026 (reversing the 1 April 2026 cut to 200 litres), price unchanged at RM1.99; BUDI Diesel for eligible pickup/jeep owners raised to up to 400 litres; Budget 2027 kept fuel subsidies at about RM40 billion for 2027."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Harga Petrol & Diesel — katalog data"
     url: "https://open.dosm.gov.my/ms-MY/data-catalogue/fuelprice"
@@ -63,6 +67,10 @@ sources:
     url: "https://mof.gov.my/portal/ms/berita/siaran-media/budi95-diselaras-kepada-200-liter-sebulan-harga-kekal-rm1-99-seliter"
     publisher: "Kementerian Kewangan Malaysia"
     date: "2026-03-26"
+  - title: "BUDI95 Quota Restored To 300 Litres A Month"
+    url: "https://www.mof.gov.my/portal/en/news/press-citations/budi95-quota-restored-to-300-litres-a-month"
+    publisher: "Kementerian Kewangan Malaysia"
+    date: "2026-08-30"
   - title: "Harga Runcit Petrol Dan Diesel Dikekalkan, Tanggungan Subsidi Diunjur RM3.5 Bilion Sebulan"
     url: "https://mof.gov.my/portal/ms/berita/siaran-media/harga-runcit-petrol-dan-diesel-dikekalkan-tanggungan-subsidi-diunjur-rm3-5-bilion-sebulan"
     publisher: "Kementerian Kewangan Malaysia"
@@ -153,10 +161,13 @@ Model bersasar tidak menghapuskan risiko harga. Ia mengecilkan **isi padu** yang
 | 30 Sep 2025 | BUDI95 bermula: RON95 pasaran umum RM2.60, harga bersubsidi RM1.99 seliter, kuota 300 liter sebulan |
 | 1 Apr 2026 | Kuota BUDI95 diselaraskan kepada 200 liter sebulan; harga kekal RM1.99 |
 | 1 Jul 2026 | BUDI Diesel: diesel bersubsidi diseragamkan pada RM2.10 seliter di seluruh negara |
+| 1 Sep 2026 | Kuota BUDI95 dipulihkan kepada 300 liter sebulan; harga kekal RM1.99; BUDI Diesel bagi pemilik pikap dan jip dinaikkan sehingga 400 liter |
 
 Pada pelancaran BUDI95, subsidi bersamaan 61 sen seliter berbanding harga pasaran umum RM2.60, dengan manfaat sehingga kira-kira RM183 sebulan pada kuota penuh 300 liter. Menjelang Jun 2026, apabila RON95 tanpa subsidi berada pada RM3.72 seliter, Kementerian Kewangan menganggarkan penjimatan kira-kira RM346 sebulan bagi pengguna yang menggunakan 200 liter — dan menyatakan lebih 14 juta penerima manfaat program itu.
 
 Ketika kuota diselaraskan pada 1 April 2026, kerajaan menyatakan bahawa hampir 90 peratus pengguna layak menggunakan kurang daripada 200 liter sebulan, dengan penggunaan purata sekitar 100 liter. Kuota tambahan bagi pengendali e-hailing kekal pada 800 liter sebulan.
+
+Pelarasan sementara itu kemudian ditarik balik: kuota asas **dipulihkan kepada 300 liter sebulan mulai 1 September 2026**, apabila Perdana Menteri Datuk Seri Anwar Ibrahim mengumumkan dalam amanat Hari Kebangsaan bahawa tekanan kos sara hidup tidak boleh menunggu pembentangan Belanjawan 2027. Harga kekal RM1.99 seliter dan langkah itu memberi manfaat kepada lebih 16 juta pengguna RON95 bersubsidi; pada masa yang sama, pemilik pikap dan jip diesel yang layak dinaikkan sehingga 400 liter Budi Diesel sebulan. Belanjawan 2027, yang dibentangkan pada 9 Oktober 2026, mengekalkan peruntukan subsidi bahan api pada kira-kira RM40 bilion untuk 2027.
 
 ## Siapa membayar berapa, hari ini
 
@@ -174,7 +185,7 @@ Bagi tempoh 23 hingga 29 Julai 2026, selepas Brent meningkat kira-kira 16 peratu
 
 Dua skim terakhir dikendalikan oleh Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup melalui sistem MySubsidi, bukan melalui MyKad. SKPS meliputi 21 jenis kenderaan merentasi sektor pengangkutan awam darat dan pengangkutan barangan darat — teksi, bas sekolah, ambulans, lori sejuk beku dan lain-lain. Kenderaan boleh didaftarkan atas nama individu, syarikat berdaftar dengan SSM, atau koperasi dan pihak berkuasa tempatan; pendaftaran dibuat hanya melalui MySubsidi dan tiada permohonan manual. Kelulusan adalah serta merta, tertakluk kepada jenis badan, kelas kegunaan dan cukai jalan kenderaan yang sah.
 
-Bagi BUDI Diesel yang bermula 1 Julai 2026, kuota asas ialah 200 liter sebulan, dengan tambahan 100 liter boleh dipohon bagi pemilik pikap dan jip. Kelayakan disahkan menggunakan MyKad di stesen. Program ini menyasarkan kira-kira 700,000 pemilik kenderaan diesel persendirian — kira-kira 400,000 di Semenanjung dan 300,000 di Sabah, Sarawak dan W.P. Labuan — berbanding kira-kira 180,000 penerima di Semenanjung di bawah skim pemindahan tunai BUDI Diesel Individu sebelumnya. Kadar khusus turut ditetapkan bagi nelayan (RM1.65 seliter) dan pengangkutan awam termasuk bas sekolah (RM1.88 seliter).
+Bagi BUDI Diesel yang bermula 1 Julai 2026, kuota asas ialah 300 liter sebulan — dipulihkan daripada 200 liter mulai 1 September 2026, sejajar dengan BUDI95 — manakala pemilik pikap dan jip yang layak menerima sehingga 400 liter sebulan. Kelayakan disahkan menggunakan MyKad di stesen. Program ini menyasarkan kira-kira 700,000 pemilik kenderaan diesel persendirian — kira-kira 400,000 di Semenanjung dan 300,000 di Sabah, Sarawak dan W.P. Labuan — berbanding kira-kira 180,000 penerima di Semenanjung di bawah skim pemindahan tunai BUDI Diesel Individu sebelumnya. Kadar khusus turut ditetapkan bagi nelayan (RM1.65 seliter) dan pengangkutan awam termasuk bas sekolah (RM1.88 seliter).
 
 ## Kesilapan lazim
 
@@ -186,7 +197,7 @@ Bagi BUDI Diesel yang bermula 1 Julai 2026, kuota asas ialah 200 liter sebulan, 
 
 **Menganggap Malaysia sebagai pengeksport tenaga terlindung daripada harga tinggi.** Hasil petroleum kerajaan memang meningkat apabila harga naik, tetapi tanggungan subsidi juga meningkat pada masa yang sama — dan kedua-duanya tidak semestinya bergerak pada kadar yang sama. Kesan bersihnya kepada belanjawan bergantung pada isi padu, harga dan struktur subsidi serentak; ia bukan lindung nilai automatik.
 
-**Menganggap sasaran itu muktamad.** Pelarasan kuota BUDI95 pada April 2026 dinyatakan sebagai langkah sementara sehingga keadaan bekalan global stabil. Parameter — harga, kuota, kelayakan — adalah pemboleh ubah dasar, bukan pemalar.
+**Menganggap sasaran itu muktamad.** Pelarasan kuota BUDI95 pada April 2026 dinyatakan sebagai langkah sementara sehingga keadaan bekalan global stabil — dan memang kuota itu dipulihkan kepada 300 liter pada 1 September 2026. Parameter — harga, kuota, kelayakan — adalah pemboleh ubah dasar, bukan pemalar.
 
 ## Apa seterusnya
 
