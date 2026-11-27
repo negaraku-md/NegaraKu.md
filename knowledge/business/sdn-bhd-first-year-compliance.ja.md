@@ -137,22 +137,26 @@ obligations:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d210ed718721460b"
+sourceContentHash: "a25b6554199519aa"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "電子インボイスの規模免除をRM3,000,000未満に更新し、section 1.6.10のグループ要件を追加。引用を e-Invoice Guideline v4.8（2026年8月30日）に更新。"
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "Companies Act 2016 (Act 777)、2022年8月1日現在 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
@@ -174,7 +178,7 @@ sources:
   - title: "e-インボイス導入スケジュール (2025年12月7日更新) (e-Invoice Implementation Timeline (updated 7 December 2025))"
     url: "https://www.hasil.gov.my/en/e-invois/pelaksanaan-e-invois-di-malaysia/garis-masa-pelaksanaan-e-invois/"
     publisher: "マレーシア内国歳入庁 (LHDN)"
-  - title: "IRBM e-インボイスガイドライン (バージョン4.7) (IRBM e-Invoice Guideline (Version 4.7))"
+  - title: "IRBM e-インボイスガイドライン (バージョン4.8) (IRBM e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "マレーシア内国歳入庁 (LHDN)"
   - title: "事業の登録 — MySST (Registering your Business — MySST)"
@@ -327,12 +331,14 @@ RM250万を超えないこと、そして総事業収入がRM5,000万を超え�
 自分は対象外だと思い込む前に、あなたのサービスが課税対象区分に該当するか、そしてどの
 閾値が適用されるかを確認されたい。
 
-**e-Invoice**は、年間営業額に応じて段階的に導入される。年間営業額がRM100万未満の納税者
+**e-Invoice**は、年間営業額に応じて段階的に導入される。年間営業額がRM300万未満の納税者
 はe-Invoice実施の対象から免除される。LHDNが公表するタイムラインによれば、段階的な義務化
 日は、RM1億を超える納税者については2024年8月1日から、RM500万までの区分については2026年
-1月1日まで順次設定されている。したがって、新設のSdn Bhdは、その収入がRM100万を下回って
-いる間は免除される。IRBM e-Invoice Guidelineのもとでは、新規事業がRM100万の免除閾値を
-超えた場合、2026年7月1日という猶予付きの実施日が与えられる。
+1月1日まで順次設定されている。したがって、新設のSdn Bhdは、その収入がRM300万を下回って
+いる間は免除される——ただし、ガイドラインのsection 1.6.10のもとで、持株会社の子会社で
+あるか、又は年間営業額が少なくともRM300万ある関連会社若しくは非個人株主を有する場合には、
+この規模による免除は適用されない。そうでなければ、新規事業がRM300万の免除閾値を超えた
+時点で、2026年7月1日という猶予付きの実施日が与えられる。
 
 ## 従業員を雇用するとき：EPF、SOCSOとEIS
 

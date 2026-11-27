@@ -45,7 +45,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "12fac171732261f3"
+sourceContentHash: "098a1b33b5921f56"
 
 status: "published"
 aiAssisted: true
@@ -53,19 +53,23 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Ambang pengecualian dikemas kini kepada bawah RM3,000,000 (dengan syarat kumpulan seksyen 1.6.10) dan sitasi garis panduan dikemas kini kepada Umum v4.8 (30 Ogos 2026) dan Khusus v4.9 (7 September 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "Garis Panduan e-Invois (Versi 4.7) — seksyen 2.2 hingga 2.5 (e-Invoice Guideline (Version 4.7) — sections 2.2 to 2.5)"
+  - title: "Garis Panduan e-Invois (Versi 4.8) — seksyen 2.2 hingga 2.5 (e-Invoice Guideline (Version 4.8) — sections 2.2 to 2.5)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MyInvois SDK (MyInvois SDK)"
     url: "https://sdk.myinvois.hasil.gov.my/"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
@@ -75,10 +79,10 @@ sources:
   - title: "MyInvois SDK — respons ralat standard (MyInvois SDK — standard error response)"
     url: "https://sdk.myinvois.hasil.gov.my/standard-error-response/"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
-  - title: "Garis Panduan Khusus e-Invois (Versi 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+  - title: "Garis Panduan Khusus e-Invois (Versi 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "MyInvois transmission mechanisms"
 relations:
@@ -176,7 +180,7 @@ bervolum tinggi, apa pun yang dikatakan oleh lejar jualannya.
 
 | Laluan | Sesuai untuk | Perhatikan |
 | --- | --- | --- |
-| **Integrasi ERP terus** | ERP yang mantap dengan penyetempatan Malaysia yang diselenggara, atau keupayaan kejuruteraan dalaman | Penyelenggaraan berterusan apabila versi garis panduan berubah — v4.7 dan v4.8 kedua-duanya dikeluarkan pada 7 July 2026 |
+| **Integrasi ERP terus** | ERP yang mantap dengan penyetempatan Malaysia yang diselenggara, atau keupayaan kejuruteraan dalaman | Penyelenggaraan berterusan apabila versi garis panduan berubah — Garis Panduan Umum mencapai v4.8 pada 30 Ogos 2026 dan Garis Panduan Khusus v4.9 pada 7 September 2026 |
 | **Penyedia perkhidmatan Peppol** | Perniagaan yang juga mahukan pertukaran dokumen boleh saling beroperasi dengan rakan niaga | Peppol bukan keperluan MyInvois; jangan bayar untuknya seolah-olah ia adalah satu |
 | **Penyedia teknologi bukan-Peppol / middleware** | Berbilang sistem sumber, kumpulan POS, atau ERP tanpa penyetempatan | Penjagaan data, terma keluar, dan sama ada mereka menghantar di bawah kelayakan (credentials) mereka sendiri |
 
@@ -210,8 +214,8 @@ meliputi masa gangguan LHDN, bukan gangguan vendor anda.
 
 ## Laluan keputusan
 
-1. **Adakah anda dikecualikan?** Bawah perolehan tahunan RM1,000,000,
-   berhenti di sini.
+1. **Adakah anda dikecualikan?** Bawah perolehan tahunan RM3,000,000, dan
+   tidak terikat dengan kumpulan pada RM3,000,000 atau lebih, berhenti di sini.
 2. **Kira dokumen bulanan** merentasi keempat-empat kategori di atas.
 3. **Kira-kira di bawah seratus, kebanyakannya disatukan?** Portal, dengan
    muat naik kelompok Excel. Semak semula setiap tahun.

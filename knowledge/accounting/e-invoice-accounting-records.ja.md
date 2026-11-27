@@ -15,7 +15,7 @@ sensitivity: "none"
 answer: "検証済みの e-Invoice は、それ単独では十分な法定会計記録とはならない。Companies Act 2016 第245条は、取引を十分に説明でき、かつ便宜かつ適正に監査され得る記録を、取引完了から7年間保存することを求めている。Income Tax Act 1967 第82条は、当該所得が属する年度の末日から7年間の保存を求め、記録をマレーシア国内に保管することを義務付け、電子形式に関する条件も課している。LHDN自身の e-Invoice Guideline は、IRBMによる保存があるにもかかわらず、納税者に自らの記録を保持するよう注意喚起している。"
 keyTakeaways:
   - "3つの制度、3つの起算点：CA 2016 s.245(3) は取引完了から、ITA s.82(1)(a) は所得が属する年度の末日から、ITA s.82A(1) は賦課年度の末日から起算される"
-  - "e-Invoice Guideline（Version 4.7、2026年7月7日発行）は、IRBMによる保存があるにもかかわらず、納税者に十分な記録の保持を明示的に注意喚起している"
+  - "e-Invoice Guideline（Version 4.8、2026年8月30日発行）は、IRBMによる保存があるにもかかわらず、納税者に十分な記録の保持を明示的に注意喚起している"
   - "MyInvoisが保持するのは検証済み文書であり、その背後にある契約、納品の証拠、原価計算、判断そのものではない——s.245 はそれらすべてを必要とする"
   - "ITA s.82(8) はマレーシア国内の事業に関する記録をマレーシア国内で保管・保存することを求めており、MyInvoisによる保存はその義務を果たすものではない"
   - "ITA s.82(2A) は e-Invoice が発行された場合に印刷された通し番号付き領収書の要件を免除する——ただし s.82(2B) は合算取引インボイスについてこれを復活させる"
@@ -25,7 +25,7 @@ appliesTo: "e-Invoice の適用段階にあるマレーシア企業の財務チ�
 
 faq:
   - q: "MyInvoisが私のe-Invoiceを保存してくれるなら、自分でも記録を保持する必要がありますか。"
-    a: "必要です。e-Invoice Guideline（Version 4.7）は、すべての検証済み e-Invoice が IRBM のデータベースに保存されると述べたうえで、その保存があるにもかかわらず、納税者は当該取引に関する十分な記録と文書を保持するよう注意喚起されている、としている。IRBMのデータベースはIRBMの記録である。Companies Act 2016 も Income Tax Act 1967 も、それをもって自分自身の義務が果たされたとは扱わない。"
+    a: "必要です。e-Invoice Guideline（Version 4.8）は、すべての検証済み e-Invoice が IRBM のデータベースに保存されると述べたうえで、その保存があるにもかかわらず、納税者は当該取引に関する十分な記録と文書を保持するよう注意喚起されている、としている。IRBMのデータベースはIRBMの記録である。Companies Act 2016 も Income Tax Act 1967 も、それをもって自分自身の義務が果たされたとは扱わない。"
   - q: "e-Invoiceにはどの保存期間が適用されますか。"
     a: "あなたの会社に適用されるものすべてです。Companies Act 2016 s.245(3) は取引完了から7年間。Income Tax Act 1967 s.82(1)(a) は事業所得が属する年度の末日から7年間、s.82A(1) は賦課年度の末日から7年間です。安全な方針は三者のうち最も遅い日付を採用することであり、実務上は賦課年度が終了してから少なくとも7年間は保存することを意味します。"
   - q: "検証済みのe-Invoiceは監査人にとって十分ですか。"
@@ -44,26 +44,30 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8f59afbef6de896e"
+sourceContentHash: "a93eed08c8baff3f"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "ガイドライン引用を e-Invoice Guideline v4.8（2026年8月30日、第2.3.7/2.4.6項は変更なし）および Specific Guideline v4.9（2026年9月7日）に更新。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "電子インボイス・ガイドライン（バージョン4.7） (e-Invoice Guideline (Version 4.7))"
+  - title: "電子インボイス・ガイドライン（バージョン4.8） (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "マレーシア内国歳入庁 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "1967年所得税法 (Act 53)、2024年5月21日現在の再版 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "マレーシア内国歳入庁 (LHDN)"
@@ -72,10 +76,10 @@ sources:
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "マレーシア企業委員会 (SSM)"
     date: "2022-08-01"
-  - title: "電子インボイス個別ガイドライン（バージョン4.8） (e-Invoice Specific Guideline (Version 4.8))"
+  - title: "電子インボイス個別ガイドライン（バージョン4.9） (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "マレーシア内国歳入庁 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "e-Invoice record-keeping obligations"
 relations:
@@ -101,7 +105,7 @@ framework: explainer
 
 | | Companies Act 2016 | Income Tax Act 1967 | MyInvois |
 | --- | --- | --- | --- |
-| 条文 | s.245 | s.82、s.82A、s.82C | e-Invoice Guideline v4.7、ITA s.134Aに基づき発行 |
+| 条文 | s.245 | s.82、s.82A、s.82C | e-Invoice Guideline v4.8、ITA s.134Aに基づき発行 |
 | 保存すべきもの | 取引および財務状況を十分に説明できる会計記録その他の記録 | 事業所得を確定するための十分な記録、および課税所得を確定するための文書 | なし——IRBMが検証済み文書を保存する |
 | 保存期間の起算 | **取引完了**から7年（s.245(3)） | **所得が属する年度の末日**から7年（s.82(1)(a)）；**賦課年度の末日**から7年（s.82A(1)） | 公表された保存の確約なし |
 | 保存場所 | 登録事務所、または取締役が適当と考える場所（s.245(4)） | **マレーシア国内**（s.82(8)、s.82A(5)） | IRBMのデータベース |
@@ -120,8 +124,8 @@ framework: explainer
 
 ## LHDNが保存について実際に述べていること
 
-e-Invoice Guideline（Version 4.7）は2026年7月7日に発行され、2025年12月7日付の
-Version 4.6を置き換えるものであり、MyInvois Portal経由については第2.3.7項で、API経由
+e-Invoice Guideline（Version 4.8）は2026年8月30日に発行され、2026年7月7日付の
+Version 4.7を置き換えるものであり、MyInvois Portal経由については第2.3.7項で、API経由
 については第2.4.6項で保存について扱っている。両者とも同じことを述べている。
 
 > All validated e-Invoices will be stored in IRBM's database. Notwithstanding the

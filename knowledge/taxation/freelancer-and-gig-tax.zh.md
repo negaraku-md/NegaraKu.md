@@ -19,7 +19,7 @@ keyTakeaways:
   - "Section 39(1)(a) 挡下家庭与私人开支——居家办公要按比例分摊，绝不要整间屋子都申索"
   - "CP500 分期付款可在 6 月 30 日前修订一次、10 月 31 日前再修订一次，不是只有一次"
   - "s.107B(4) 的 10% 加征只咬超出 30% 幅度的那一部分，而且只在你曾申请修订的情况下适用"
-  - "年营业额低于 RM1,000,000 的电子发票豁免是永久的，不是延后"
+  - "年营业额低于 RM3,000,000 的电子发票豁免是永久的，不是延后"
   - "Gig Workers Act 2025 改变的是你在劳工法上的分类，不是你的税务分类"
 appliesTo: "自由业者、承包者、内容创作者、平台骑手与司机，以及任何收入不来自薪金单的人。"
 
@@ -31,7 +31,7 @@ faq:
   - q: "s.4(a) 与 s.4(f) 收入有什么分别？"
     a: "Section 4(a) 涵盖来自业务的收益或盈利；s.4(f) 则是不落在前面任何一段之下的收益或盈利之剩余类别。Section 4(a) 会把整套扣除与资本减免机制一并带来，还有亏损减免。Section 4(f) 一样都没有，因此归入 s.4(f) 通常意味着几乎是按毛额缴税。"
   - q: "零工工作者需要开电子发票吗？"
-    a: "要等到被纳入范围才需要。年营业额或收入低于 RM1,000,000 的电子发票豁免是一项常设豁免，不是延后。在 2023 至 2025 年间开业、营业额至少 RM1 million 的企业自 2026 年 7 月 1 日起适用，而第 4 阶段群组的过渡宽限期一直到 2027 年 12 月 31 日。"
+    a: "要等到被纳入范围才需要。年营业额或收入低于 RM3,000,000 的电子发票豁免是一项常设豁免，不是延后。在 2023 至 2025 年间开业、营业额至少 RM3 million 的企业自 2026 年 7 月 1 日起适用，而第 4 阶段群组的过渡宽限期一直到 2027 年 12 月 31 日。"
   - q: "Gig Workers Act 2025 会改变我的税务吗？"
     a: "不会。Act 872 是一部为劳工与社会保障目的而设的分类法令，界定谁在服务协议下算是零工工作者。你的所得税分类仍然取决于 Income Tax Act 1967 的 s.4，而落在 Act 872 之内并不会让你在税务上成为雇员。"
 
@@ -42,7 +42,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4902766a1bf0ff6f"
+sourceContentHash: "9704634ba023d531"
 
 status: "published"
 aiAssisted: true
@@ -50,14 +50,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "电子发票豁免门槛更新为低于 RM3,000,000（新企业门槛更新为 RM3 million），依据电子发票指南 4.8 版（2026 年 8 月 30 日）；引用已刷新。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
   - title: "Income Tax Act 1967 (Act 53)，2024年5月21日重印本 — ss.4, 33, 39, 107B (Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — ss.4, 33, 39, 107B)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -67,10 +71,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
     publisher: "马来西亚内陆税收局 (LHDN)"
     date: "2025-12-30"
-  - title: "电子发票指南 (e-Invoice Guideline)"
+  - title: "电子发票指南（4.8版）(e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "马来西亚内陆税收局 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "税率 — 个人 (Kadar Cukai — Individu)"
     url: "https://www.hasil.gov.my/individu/kadar-cukai/"
     publisher: "马来西亚内陆税收局 (LHDN)"
@@ -172,9 +176,9 @@ Section 33(1) 容许扣除**完全且专为**产生总收入而付出的开支�
 
 | 情形 | 效果 |
 | --- | --- |
-| 年营业额或收入低于 **RM1,000,000** | **豁免**——一项常设豁免，不是延后 |
+| 年营业额或收入低于 **RM3,000,000** | **豁免**——一项常设豁免，不是延后 |
 | 未经营业务的个人 | 豁免 |
-| 2023 至 2025 年开业、营业额至少 RM1 million | 自 **2026 年 7 月 1 日**起强制 |
+| 2023 至 2025 年开业、营业额至少 RM3 million | 自 **2026 年 7 月 1 日**起强制 |
 | 2026 年或之后开业 | 2026 年 7 月 1 日，或开业日期 |
 | 第 4 阶段群组的过渡宽限期 | 至 **2027 年 12 月 31 日** |
 
@@ -207,7 +211,7 @@ s.4(a) 业务。
   运作，而 s.107B(3) 的 10% 无须通知即适用。
 - **以为 s.77C 的最终税选择涵盖了你。** 它要求**只有**受雇收入。任何自由业收入
   都会把你排除在外，你必须呈报。
-- **把 RM1 million 这个电子发票数字当成延后。** 它是一项与营业额挂钩的常设豁免，
+- **把 RM3 million 这个电子发票数字当成延后。** 它是一项与营业额挂钩的常设豁免，
   而在你跨过它的那一年它就消失了。
 - **把 Act 872 读成税务上的重新分类。** 它不是。
 

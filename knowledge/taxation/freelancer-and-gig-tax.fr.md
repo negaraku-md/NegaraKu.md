@@ -19,7 +19,7 @@ keyTakeaways:
   - "La s.39(1)(a) bloque les dépenses domestiques et privées — répartissez le bureau à domicile, ne réclamez jamais toute la maison"
   - "Les versements CP500 peuvent être modifiés une fois avant le 30 juin et une fois avant le 31 octobre, pas une seule fois"
   - "La majoration de 10 % de la s.107B(4) ne mord que sur l'excédent au-delà d'une marge de 30 %, et seulement si vous avez demandé la modification"
-  - "L'exemption de e-Invoice en dessous de RM1,000,000 de chiffre d'affaires annuel est permanente, et non un report"
+  - "L'exemption de e-Invoice en dessous de RM3,000,000 de chiffre d'affaires annuel est permanente, et non un report"
   - "La Gig Workers Act 2025 change votre classification en droit du travail, pas votre classification fiscale"
 appliesTo: "Indépendants, sous-traitants, créateurs de contenu, livreurs et chauffeurs de plateforme, et toute personne ayant un revenu hors bulletin de paie."
 
@@ -31,7 +31,7 @@ faq:
   - q: "Quelle est la différence entre le revenu de la s.4(a) et celui de la s.4(f) ?"
     a: "La section 4(a) couvre les gains ou profits d'une entreprise ; la s.4(f) est la catégorie résiduelle des gains ou profits ne relevant d'aucun alinéa antérieur. La s.4(a) emporte avec elle tout le mécanisme de déduction et d'allocation en capital, ainsi que le dégrèvement pour pertes. La s.4(f) n'a rien de tout cela, de sorte qu'une classification en s.4(f) signifie généralement payer l'impôt sur un montant proche du brut."
   - q: "Les travailleurs de plateforme doivent-ils émettre des e-Invoices ?"
-    a: "Seulement une fois dans le champ d'application. L'exemption de e-Invoice pour un chiffre d'affaires ou des revenus annuels inférieurs à RM1,000,000 est une exemption permanente, non un report. Les entreprises ayant commencé entre 2023 et 2025 avec un chiffre d'affaires d'au moins RM1 million débutent le 1er juillet 2026, et la cohorte de la Phase 4 bénéficie d'une période de relaxation provisoire allant jusqu'au 31 décembre 2027."
+    a: "Seulement une fois dans le champ d'application. L'exemption de e-Invoice pour un chiffre d'affaires ou des revenus annuels inférieurs à RM3,000,000 est une exemption permanente, non un report. Les entreprises ayant commencé entre 2023 et 2025 avec un chiffre d'affaires d'au moins RM3 millions débutent le 1er juillet 2026, et la cohorte de la Phase 4 bénéficie d'une période de relaxation provisoire allant jusqu'au 31 décembre 2027."
   - q: "La Gig Workers Act 2025 change-t-elle mon impôt ?"
     a: "Non. L'Act 872 est une loi de classification à des fins de travail et de sécurité sociale et définit qui compte comme travailleur de plateforme au titre d'un accord de services. Votre classification à l'impôt sur le revenu continue de dépendre de la s.4 de l'Income Tax Act 1967, et le fait d'être couvert par l'Act 872 ne fait pas de vous un salarié au sens fiscal."
 
@@ -40,7 +40,7 @@ verificationNeeded:
   - "Whether platform operators are required to issue self-billed e-Invoices for payments to individual gig workers, and at which phase, should be confirmed against the current e-Invoice Specific Guideline"
 
 lang: "fr"
-sourceContentHash: "4902766a1bf0ff6f"
+sourceContentHash: "9704634ba023d531"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -50,14 +50,18 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Seuil d'exemption de la facture électronique abaissé à moins de RM3,000,000 (et seuil pour les nouvelles entreprises porté à RM3 millions) selon la Directive sur l'e-Invoice v4.8 (30 août 2026) ; citation actualisée."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
   - title: "Loi relative à l'impôt sur le revenu de 1967 (loi 53), réimpression du 21 mai 2024 — ss.4, 33, 39, 107B (Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — ss.4, 33, 39, 107B)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -67,10 +71,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
     publisher: "Administration fiscale de Malaisie (LHDN)"
     date: "2025-12-30"
-  - title: "Directive sur l'e-Invoice (e-Invoice Guideline)"
+  - title: "Directive sur l'e-Invoice (version 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Administration fiscale de Malaisie (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "Taux d'imposition — Personne physique (Kadar Cukai — Individu)"
     url: "https://www.hasil.gov.my/individu/kadar-cukai/"
     publisher: "Administration fiscale de Malaisie (LHDN)"
@@ -192,9 +196,9 @@ en est véritablement exclu.
 
 | Position | Effet |
 | --- | --- |
-| Chiffre d'affaires ou revenus annuels inférieurs à **RM1,000,000** | **Exempté** — une exemption permanente, non un report |
+| Chiffre d'affaires ou revenus annuels inférieurs à **RM3,000,000** | **Exempté** — une exemption permanente, non un report |
 | Personnes physiques n'exerçant pas d'entreprise | Exempté |
-| Ayant commencé entre 2023 et 2025 avec un chiffre d'affaires d'au moins RM1 million | Obligatoire à partir du **1er juillet 2026** |
+| Ayant commencé entre 2023 et 2025 avec un chiffre d'affaires d'au moins RM3 million | Obligatoire à partir du **1er juillet 2026** |
 | Ayant commencé en 2026 ou après | 1er juillet 2026 ou la date de commencement |
 | Relaxation provisoire de la cohorte de la Phase 4 | Jusqu'au **31 décembre 2027** |
 
@@ -235,7 +239,7 @@ par des canaux documentés. Un revenu documenté est un revenu déclaré.
 - **Supposer que l'option d'impôt final de la s.77C vous couvre.** Elle exige un revenu
   d'emploi **uniquement**. Tout revenu d'indépendant vous en exclut et vous devez
   déclarer.
-- **Traiter le chiffre de RM1 million de l'e-Invoice comme un délai.** C'est une
+- **Traiter le chiffre de RM3 millions de l'e-Invoice comme un délai.** C'est une
   exemption permanente liée au chiffre d'affaires, et elle disparaît l'année où vous le
   franchissez.
 - **Lire l'Act 872 comme une reclassification fiscale.** Elle n'en est pas une.

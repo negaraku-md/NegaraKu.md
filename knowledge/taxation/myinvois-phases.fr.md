@@ -12,11 +12,11 @@ mode: "practical"
 contentType: "data"
 sensitivity: "none"
 
-answer: "Le mandat de facture électronique de la Malaisie se déroule en quatre phases selon le chiffre d'affaires du FY2022 : le 1er août 2024 au-dessus de RM100 millions, le 1er janvier 2025 au-dessus de RM25 millions et jusqu'à RM100 millions, le 1er juillet 2025 au-dessus de RM5 millions et jusqu'à RM25 millions, et le 1er janvier 2026 jusqu'à RM5 millions. Les contribuables dont le chiffre d'affaires annuel est inférieur à RM1 million sont exonérés. Les entreprises qui ont commencé à opérer à partir de 2023 démarrent le 1er juillet 2026."
+answer: "Le mandat de facture électronique de la Malaisie se déroule en quatre phases selon le chiffre d'affaires du FY2022 : le 1er août 2024 au-dessus de RM100 millions, le 1er janvier 2025 au-dessus de RM25 millions et jusqu'à RM100 millions, le 1er juillet 2025 au-dessus de RM5 millions et jusqu'à RM25 millions, et le 1er janvier 2026 jusqu'à RM5 millions. Les contribuables dont le chiffre d'affaires annuel est inférieur à RM3 millions sont exonérés, sauf s'ils sont liés à un groupe au-dessus de ce seuil. Les entreprises qui ont commencé à opérer à partir de 2023 avec un chiffre d'affaires d'au moins RM3 millions démarrent le 1er juillet 2026."
 keyTakeaways:
   - "Quatre phases seulement — la phase qui vous concerne est fixée par votre chiffre d'affaires du FY2022 et ne change jamais"
-  - "En dessous de RM1,000,000 de chiffre d'affaires ou de recettes annuels, c'est une exonération totale, non un report"
-  - "Les nouvelles entreprises qui commencent entre 2023 et 2025 avec un chiffre d'affaires d'au moins RM1 million démarrent le 1er juillet 2026"
+  - "En dessous de RM3,000,000 de chiffre d'affaires ou de recettes annuels, c'est une exonération totale, non un report — mais elle est retirée si un actionnaire, une société mère ou une société liée est à RM3,000,000 ou plus"
+  - "Les nouvelles entreprises qui commencent entre 2023 et 2025 avec un chiffre d'affaires d'au moins RM3 millions démarrent le 1er juillet 2026"
   - "Les contribuables de la phase 4 bénéficient d'une période d'assouplissement provisoire qui va jusqu'au 31 décembre 2027"
   - "Pendant l'assouplissement, vous pouvez tout consolider et refuser les demandes de facture électronique individuelle"
   - "Un SVDP de facture électronique est ouvert du 7 juillet 2026 au 31 décembre 2027 pour régulariser les soumissions manquées"
@@ -70,14 +70,14 @@ obligations:
     criteria:
       - metric: "turnover"
         op: "lt"
-        value: 1000000
+        value: 3000000
     exemption: true
-    due: "Full exemption if annual turnover or revenue is below RM1,000,000; otherwise mandatory, as all phases are now in force"
+    due: "Full exemption if annual turnover or revenue is below RM3,000,000 and not tied to a group at RM3,000,000 or more; otherwise mandatory, as all phases are now in force"
     authority: "LHDN"
     statute: "Income Tax Act 1967, s.82C"
 
 lang: "fr"
-sourceContentHash: "fe5d22ede93ea4c0"
+sourceContentHash: "a4aa5bd3b9ec2d19"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,23 +87,27 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Exonération de taille relevée à moins de RM3,000,000 et ajout de la nouvelle condition de chiffre d'affaires de groupe de la section 1.6.10 ; seuil des nouvelles entreprises mis à jour à RM3,000,000 ; citations des guides actualisées (Général v4.8, 30 août 2026 ; Spécifique v4.9, 7 septembre 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "Guide de la facture électronique (Version 4.7) (e-Invoice Guideline (Version 4.7))"
+  - title: "Guide de la facture électronique (Version 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Direction générale des impôts de Malaisie (LHDN)"
-    date: "2026-07-07"
-  - title: "Guide spécifique de la facture électronique (Version 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+    date: "2026-08-30"
+  - title: "Guide spécifique de la facture électronique (Version 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "Direction générale des impôts de Malaisie (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
   - title: "Calendrier de mise en œuvre de la facture électronique (Garis Masa Pelaksanaan e-Invois)"
     url: "https://www.hasil.gov.my/e-invois/garis-masa-pelaksanaan-e-invois/"
     publisher: "Direction générale des impôts de Malaisie (LHDN)"
@@ -121,13 +125,13 @@ relations:
   - { rel: "explained-in", to: "e-invoice-data-fields" }
   - { rel: "related-to", to: "consolidated-e-invoice" }
 related: ["e-invoicing", "consolidated-e-invoice", "self-billed-e-invoice", "myinvois-integration", "e-invoice-data-fields"]
-keywords: ["phases MyInvois", "date de mise en œuvre facture électronique Malaisie", "exonération facture électronique RM1 million", "période d'assouplissement facture électronique", "calendrier facture électronique LHDN", "tarikh pelaksanaan e-invois"]
+keywords: ["phases MyInvois", "date de mise en œuvre facture électronique Malaisie", "exonération facture électronique RM3 million", "période d'assouplissement facture électronique", "calendrier facture électronique LHDN", "tarikh pelaksanaan e-invois"]
 framework: data-reference
 ---
 
-Deux chiffres décident de tout : votre chiffre d'affaires du FY2022, qui fixe votre phase de façon permanente, et RM1,000,000, en dessous duquel vous êtes hors du système entièrement. Tout le reste de cette page n'est que détail.
+Deux chiffres décident de tout : votre chiffre d'affaires du FY2022, qui fixe votre phase de façon permanente, et RM3,000,000, en dessous duquel vous êtes hors du système entièrement (sauf si vous êtes lié à un groupe plus grand). Tout le reste de cette page n'est que détail.
 
-Cette page est maintenue sous forme de données car les dates ont changé plus d'une fois. Les chiffres ci-dessous sont tirés du **Guide de la facture électronique version 4.7** et du **Guide spécifique de la facture électronique version 4.8**, tous deux publiés le 7 juillet 2026.
+Cette page est maintenue sous forme de données car les dates ont changé plus d'une fois. Les chiffres ci-dessous sont tirés du **Guide de la facture électronique version 4.8** (30 août 2026) et du **Guide spécifique de la facture électronique version 4.9** (7 septembre 2026).
 
 ## Quelles sont les dates obligatoires des phases ?
 
@@ -138,7 +142,7 @@ Cette page est maintenue sous forme de données car les dates ont changé plus d
 | 3 | **Au-dessus de RM5 millions et jusqu'à RM25 millions** | **1er juillet 2025** |
 | 4 | **Jusqu'à RM5 millions** | **1er janvier 2026** |
 
-Il n'y a pas de phase 5. Une cinquième phase pour la tranche RM150,000–RM500,000 figurait dans des versions antérieures du guide et a disparu de la version 4.7.
+Il n'y a pas de phase 5. Une cinquième phase pour la tranche RM150,000–RM500,000 figurait dans des versions antérieures du guide et a disparu du guide actuel.
 
 ## Comment ma phase est-elle déterminée ?
 
@@ -154,21 +158,21 @@ Une fois fixée, elle est fixée. La section 1.5 du Guide est explicite : les va
 
 | Entreprise commencée | Date de mise en œuvre de la facture électronique |
 | --- | --- |
-| 2023 à 2025, chiffre d'affaires d'au moins RM1,000,000 | **1er juillet 2026** |
+| 2023 à 2025, chiffre d'affaires d'au moins RM3,000,000 | **1er juillet 2026** |
 | 2026 et au-delà | **1er juillet 2026** ou la date de démarrage |
-| 2026 et au-delà, chiffre d'affaires de la première année inférieur à RM1,000,000 | **1er janvier de la deuxième année suivant** l'année où le chiffre d'affaires a atteint RM1,000,000 |
+| 2026 et au-delà, chiffre d'affaires de la première année inférieur à RM3,000,000 | **1er janvier de la deuxième année suivant** l'année où le chiffre d'affaires a atteint RM3,000,000 |
 
 ## Qui est exonéré ?
 
 La section 1.6.1 du Guide exonère de l'émission de toute facture électronique, y compris pour compte propre :
 
-- Les contribuables dont le chiffre d'affaires ou les recettes annuels sont **inférieurs à RM1,000,000**
+- Les contribuables dont le chiffre d'affaires ou les recettes annuels sont **inférieurs à RM3,000,000**
 - Les bureaux diplomatiques étrangers
 - Les personnes physiques n'exerçant pas d'activité économique
 - Les organismes statutaires, les autorités statutaires et les autorités locales, pour les perceptions statutaires, et pour les biens vendus ou les services rendus **avant le 1er juillet 2025**
 - Les organisations internationales, pour les biens vendus ou les services rendus **avant le 1er juillet 2025**
 
-L'exonération s'attache à la personne, non au groupe. Section 1.6.5 : une société détenue par une personne exonérée met tout de même en œuvre selon son propre calendrier.
+Deux règles encadrent l'exonération liée à la taille. La section 1.6.5 maintient le caractère personnel des *autres* exonérations — une société détenue par une personne exonérée met tout de même en œuvre selon son propre calendrier. La section 1.6.10, ajoutée dans la version 4.8, fait l'inverse pour l'exonération liée à la taille : elle retire l'exonération en dessous de RM3,000,000 à tout contribuable dont l'actionnaire non-individuel, la société mère, ou la société liée ou coentreprise a un chiffre d'affaires ou des recettes annuels d'au moins RM3,000,000. Une petite société au sein d'un groupe plus grand est donc dans le champ malgré sa propre taille.
 
 Par ailleurs, la section 1.6.7 retire du champ des types de revenus spécifiques — revenus d'emploi, pension, pension alimentaire, zakat, certaines distributions de dividendes, valeurs cotées en bourse et valeurs de contrats dérivés, et les cessions d'actions non cotées sauf lorsque le cédant est une société, une LLP, une entité fiduciaire ou une société coopérative.
 
@@ -206,7 +210,7 @@ Pas du Guide. La **Section 82C de la Income Tax Act 1967**, insérée par la Fin
 
 ## Erreurs courantes
 
-- **Traiter le chiffre de RM1 million comme un report.** C'est une exonération permanente à la section 1.6.1. Ce n'est pas non plus une phase — il n'y a pas de phase 5.
+- **Traiter le chiffre de RM3 millions comme un report.** C'est une exonération permanente à la section 1.6.1. Ce n'est pas non plus une phase — il n'y a pas de phase 5.
 - **Recalculer votre phase à partir du chiffre d'affaires actuel.** Le test porte sur le FY2022, une seule fois.
 - **Lire l'assouplissement de la phase 4 comme des vacances.** Les soumissions consolidées sont la condition de la concession, non une alternative à celle-ci.
 - **Supposer que la fenêtre de 72 heures est une fenêtre de correction.** Elle annule ; elle ne modifie pas. Passé 72 heures, on émet une facture électronique de note de crédit, de débit ou de remboursement.

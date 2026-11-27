@@ -26,7 +26,7 @@ verificationNeeded:
   - "ما إذا كانت RMCD قد أصدرت دليلاً مخصصاً يوفّق بين التمثيل البصري للفاتورة الإلكترونية وبيانات فاتورة SST — لم يُعثر على أيٍّ منه على mysst.customs.gov.my"
 
 lang: "ar"
-sourceContentHash: "cf809540c51ed69e"
+sourceContentHash: "88e1064951c53abf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -36,14 +36,18 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "e-Invoice exemption threshold updated to below RM3,000,000 and the e-Invoice Guideline citation refreshed to v4.8 (30 August 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
   - title: "قانون المالية (رقم 2) لسنة 2023 (Act 851) — المادة 82C (Finance (No. 2) Act 2023 (Act 851) — section 82C)"
     url: "https://www.myttx.customs.gov.my/wp-content/uploads/2024/02/WJW23%EF%80%A21341-BI.pdf"
@@ -55,10 +59,10 @@ sources:
   - title: "Sales Tax Regulations 2018 — اللائحة 7 (Sales Tax Regulations 2018 — regulation 7)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Sales-Tax-Regulations-2018.pdf"
     publisher: "دائرة الجمارك الملكية الماليزية (RMCD)"
-  - title: "إرشادات الفاتورة الإلكترونية (الإصدار 4.7) (e-Invoice Guideline (Version 4.7))"
+  - title: "إرشادات الفاتورة الإلكترونية (الإصدار 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MySST — إصدار الفواتير (MySST — Issuing Invoices)"
     url: "https://mysst.customs.gov.my/issuing-invoices/"
     publisher: "دائرة الجمارك الملكية الماليزية (RMCD)"
@@ -91,7 +95,7 @@ framework: explainer
 | الغرض | إثبات الدخل والمصروف لأغراض ضريبة الدخل | دليل على الضريبة المفروضة لأغراض محاسبة SST |
 
 لا يحلّ أحدهما محلّ الآخر. فالشركة المسجّلة في SST التي يقلّ رقم أعمالها عن
-RM1 مليون معفاة من الفوترة الإلكترونية ولا تزال تُصدر فواتير SST. والشركة
+RM3 مليون معفاة من الفوترة الإلكترونية ولا تزال تُصدر فواتير SST. والشركة
 الكبيرة غير المسجّلة هي العكس.
 
 ## الحكم الذي يحكم هذا فعلاً

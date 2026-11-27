@@ -19,7 +19,7 @@ keyTakeaways:
   - "Section 39(1)(a) blocks domestic and private expenses — apportion the home office, never claim the whole house"
   - "CP500 instalments can be varied once by 30 June and once by 31 October, not just once"
   - "The s.107B(4) 10% increase bites only on the excess over a 30% margin, and only if you applied to vary"
-  - "e-Invoice exemption below RM1,000,000 annual turnover is permanent, not a deferral"
+  - "e-Invoice exemption below RM3,000,000 annual turnover is permanent, not a deferral"
   - "The Gig Workers Act 2025 changes your labour-law classification, not your tax classification"
 appliesTo: "Freelancers, contractors, content creators, platform riders and drivers, and anyone with income outside a payslip."
 
@@ -31,7 +31,7 @@ faq:
   - q: "What is the difference between s.4(a) and s.4(f) income?"
     a: "Section 4(a) covers gains or profits from a business; s.4(f) is the residual class for gains or profits not falling under any earlier paragraph. Section 4(a) brings the whole deduction and capital allowance machinery with it, plus loss relief. Section 4(f) has none of that, so a s.4(f) classification usually means paying tax on something close to gross."
   - q: "Do gig workers need to issue e-Invoices?"
-    a: "Only once they are in scope. The e-Invoice exemption for annual turnover or revenue below RM1,000,000 is a standing exemption, not a deferral. Businesses that commenced in 2023 to 2025 with turnover of at least RM1 million begin on 1 July 2026, and the Phase 4 cohort has an interim relaxation period running to 31 December 2027."
+    a: "Only once they are in scope. The e-Invoice exemption for annual turnover or revenue below RM3,000,000 is a standing exemption, not a deferral. Businesses that commenced in 2023 to 2025 with turnover of at least RM3 million begin on 1 July 2026, and the Phase 4 cohort has an interim relaxation period running to 31 December 2027."
   - q: "Does the Gig Workers Act 2025 change my tax?"
     a: "No. Act 872 is a classification statute for labour and social-security purposes and defines who counts as a gig worker under a service agreement. Your income tax classification still turns on s.4 of the Income Tax Act 1967, and being inside Act 872 does not make you an employee for tax."
 
@@ -48,14 +48,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "e-Invoice exemption threshold updated to below RM3,000,000 (and new-business threshold to RM3 million) per e-Invoice Guideline v4.8 (30 August 2026); citation refreshed."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
   - title: "Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — ss.4, 33, 39, 107B"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -65,10 +69,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia"
     date: "2025-12-30"
-  - title: "e-Invoice Guideline"
+  - title: "e-Invoice Guideline (Version 4.8)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "Kadar Cukai — Individu"
     url: "https://www.hasil.gov.my/individu/kadar-cukai/"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia"
@@ -188,9 +192,9 @@ outside it.
 
 | Position | Effect |
 | --- | --- |
-| Annual turnover or revenue below **RM1,000,000** | **Exempt** — a standing exemption, not a deferral |
+| Annual turnover or revenue below **RM3,000,000** | **Exempt** — a standing exemption, not a deferral |
 | Individuals not carrying on a business | Exempt |
-| Commenced 2023 to 2025 with turnover of at least RM1 million | Mandatory from **1 July 2026** |
+| Commenced 2023 to 2025 with turnover of at least RM3 million | Mandatory from **1 July 2026** |
 | Commenced 2026 or later | 1 July 2026 or the commencement date |
 | Phase 4 cohort interim relaxation | To **31 December 2027** |
 
@@ -230,7 +234,7 @@ documented channels. Documented income is reported income.
   s.107B(3) applies without notice.
 - **Assuming the s.77C final-tax election covers you.** It requires employment
   income **only**. Any freelance income removes you from it and you must file.
-- **Treating the RM1 million e-Invoice figure as a delay.** It is a standing
+- **Treating the RM3 million e-Invoice figure as a delay.** It is a standing
   exemption tied to turnover, and it disappears the year you cross it.
 - **Reading Act 872 as a tax reclassification.** It is not one.
 

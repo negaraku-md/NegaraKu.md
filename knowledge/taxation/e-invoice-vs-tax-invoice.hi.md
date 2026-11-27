@@ -26,7 +26,7 @@ verificationNeeded:
   - "क्या RMCD ने e-Invoice दृश्य प्रस्तुति को SST चालान विवरणों के साथ मिलाने वाला कोई समर्पित गाइड जारी किया है — mysst.customs.gov.my पर कोई नहीं मिला"
 
 lang: "hi"
-sourceContentHash: "cf809540c51ed69e"
+sourceContentHash: "88e1064951c53abf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -36,14 +36,18 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "e-Invoice छूट सीमा को RM3,000,000 से कम पर अद्यतन किया गया और e-Invoice दिशानिर्देश उद्धरण v4.8 (30 अगस्त 2026) पर अद्यतन किया गया।"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
   - title: "वित्त (संख्या 2) अधिनियम 2023 (Act 851) — धारा 82C (Finance (No. 2) Act 2023 (Act 851) — section 82C)"
     url: "https://www.myttx.customs.gov.my/wp-content/uploads/2024/02/WJW23%EF%80%A21341-BI.pdf"
@@ -55,10 +59,10 @@ sources:
   - title: "Sales Tax Regulations 2018 — विनियम 7 (Sales Tax Regulations 2018 — regulation 7)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Sales-Tax-Regulations-2018.pdf"
     publisher: "मलेशियाई शाही सीमा-शुल्क विभाग (RMCD)"
-  - title: "e-Invoice दिशानिर्देश (संस्करण 4.7) (e-Invoice Guideline (Version 4.7))"
+  - title: "e-Invoice दिशानिर्देश (संस्करण 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "मलेशियाई अंतर्देशीय राजस्व बोर्ड (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MySST — चालान जारी करना (MySST — Issuing Invoices)"
     url: "https://mysst.customs.gov.my/issuing-invoices/"
     publisher: "मलेशियाई शाही सीमा-शुल्क विभाग (RMCD)"
@@ -90,7 +94,7 @@ MyInvois के माध्यम से किसी चालान को �
 | सत्यापन | LHDN को संचरित और LHDN द्वारा सत्यापित | कोई नहीं — न प्रस्तुति, न संदर्भ संख्या |
 | प्रयोजन | आयकर के लिए आय और व्यय का प्रमाण | SST लेखांकन के लिए आरोपित कर का साक्ष्य |
 
-कोई भी दूसरे का स्थान नहीं लेता। RM1 मिलियन से कम टर्नओवर वाली SST-पंजीकृत कंपनी
+कोई भी दूसरे का स्थान नहीं लेता। RM3 मिलियन से कम टर्नओवर वाली SST-पंजीकृत कंपनी
 e-Invoicing से छूट-प्राप्त है और फिर भी SST चालान जारी करती है। एक बड़ी
 गैर-पंजीकृत कंपनी इसके विपरीत है।
 

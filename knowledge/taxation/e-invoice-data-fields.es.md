@@ -28,7 +28,7 @@ verificationNeeded:
   - "Per-endpoint API rate limits — the SDK refers to Integration Practices without stating numeric limits on the FAQ page"
 
 lang: "es"
-sourceContentHash: "7457966f1e6638bb"
+sourceContentHash: "d6091cac37e7af1d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -38,19 +38,23 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Citaciones de las guías actualizadas a la Guía de la e-Invoice v4.8 (30 de agosto de 2026) y la Guía Específica v4.9 (7 de septiembre de 2026); estructura de campos sin cambios."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "Guía de la e-Invoice (Versión 4.7) — Apéndices 1 y 2 (e-Invoice Guideline (Version 4.7) — Appendices 1 and 2)"
+  - title: "Guía de la e-Invoice (Versión 4.8) — Apéndices 1 y 2 (e-Invoice Guideline (Version 4.8) — Appendices 1 and 2)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Junta de Impuestos Internos de Malasia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MyInvois SDK — reglas de validación de documentos (MyInvois SDK — document validation rules)"
     url: "https://sdk.myinvois.hasil.gov.my/document-validation-rules/"
     publisher: "Junta de Impuestos Internos de Malasia (LHDN)"
@@ -60,10 +64,10 @@ sources:
   - title: "MyInvois SDK — respuesta de error estándar (MyInvois SDK — standard error response)"
     url: "https://sdk.myinvois.hasil.gov.my/standard-error-response/"
     publisher: "Junta de Impuestos Internos de Malasia (LHDN)"
-  - title: "Guía Específica de la e-Invoice (Versión 4.8) — Apéndice 1, lista de TIN generales (e-Invoice Specific Guideline (Version 4.8) — Appendix 1, list of general TIN)"
+  - title: "Guía Específica de la e-Invoice (Versión 4.9) — Apéndice 1, lista de TIN generales (e-Invoice Specific Guideline (Version 4.9) — Appendix 1, list of general TIN)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "Junta de Impuestos Internos de Malasia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "e-Invoice data fields"
 relations:
@@ -79,7 +83,7 @@ framework: data-reference
 Cada envío rechazado se remonta a una de dos cosas: un campo que LHDN trata como
 obligatorio pero que tu ERP trata como opcional, o un valor de código que no
 figura en la lista de LHDN. Esta página es la lista de campos, tal como se
-publica en los Apéndices 1 y 2 de la Guía de la e-Invoice versión 4.7.
+publica en los Apéndices 1 y 2 de la Guía de la e-Invoice versión 4.8.
 
 El formato es **XML o JSON**, ambos conformes a **UBL 2.1**. LHDN agrupa los 55
 campos en ocho categorías: Address, Business Details, Contact Number, Invoice

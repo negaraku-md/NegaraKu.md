@@ -12,11 +12,11 @@ mode: "practical"
 contentType: "data"
 sensitivity: "none"
 
-answer: "马来西亚的电子发票强制规定按 FY2022 营业额分四个阶段推行：2024 年 8 月 1 日为超过 RM100 million，2025 年 1 月 1 日为超过 RM25 million 至 RM100 million，2025 年 7 月 1 日为超过 RM5 million 至 RM25 million，2026 年 1 月 1 日为 RM5 million 以下。年营业额低于 RM1 million 的纳税人获豁免。自 2023 年起开始营运的企业则自 2026 年 7 月 1 日起开始。"
+answer: "马来西亚的电子发票强制规定按 FY2022 营业额分四个阶段推行：2024 年 8 月 1 日为超过 RM100 million，2025 年 1 月 1 日为超过 RM25 million 至 RM100 million，2025 年 7 月 1 日为超过 RM5 million 至 RM25 million，2026 年 1 月 1 日为 RM5 million 以下。年营业额低于 RM3 million 的纳税人获豁免，但隶属于高于该门槛的集团者除外。自 2023 年起开始营运、营业额至少 RM3 million 的企业则自 2026 年 7 月 1 日起开始。"
 keyTakeaways:
   - "只有四个阶段——你落在哪个阶段由 FY2022 营业额固定下来，之后永不改变"
-  - "年营业额或收入低于 RM1,000,000 是完全豁免，不是延期"
-  - "2023 至 2025 年间开始营运、营业额至少 RM1 million 的新企业，自 2026 年 7 月 1 日起开始"
+  - "年营业额或收入低于 RM3,000,000 是完全豁免，不是延期——但若股东、控股或关联公司达 RM3,000,000 或以上，则会被撤销"
+  - "2023 至 2025 年间开始营运、营业额至少 RM3 million 的新企业，自 2026 年 7 月 1 日起开始"
   - "第四阶段纳税人的过渡宽限期一路延到 2027 年 12 月 31 日"
   - "在宽限期内你可以把一切都综合处理，并拒绝个别开具电子发票的要求"
   - "一项电子发票 SVDP 自 2026 年 7 月 7 日至 2027 年 12 月 31 日开放，用以补正漏交的提交"
@@ -72,14 +72,14 @@ obligations:
         op: "lt"
         value: 1000000
     exemption: true
-    due: "若年营业额或收入低于 RM1,000,000 则完全豁免；否则为强制，因为所有阶段现已生效"
+    due: "若年营业额或收入低于 RM3,000,000 且未隶属于达 RM3,000,000 或以上的集团则完全豁免；否则为强制，因为所有阶段现已生效"
     authority: "LHDN"
     statute: "Income Tax Act 1967, s.82C"
 
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "fe5d22ede93ea4c0"
+sourceContentHash: "a4aa5bd3b9ec2d19"
 
 status: "published"
 aiAssisted: true
@@ -87,23 +87,27 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "规模豁免提高至低于 RM3,000,000，并新增第 1.6.10 节的集团营业额条件；新企业门槛更新为 RM3,000,000；指南引用更新为 General v4.8（2026 年 8 月 30 日）与 Specific v4.9（2026 年 9 月 7 日）。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "电子发票指南（第4.7版） (e-Invoice Guideline (Version 4.7))"
+  - title: "电子发票指南（第4.8版） (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "马来西亚内陆税收局 (LHDN)"
-    date: "2026-07-07"
-  - title: "电子发票特定指南（第4.8版） (e-Invoice Specific Guideline (Version 4.8))"
+    date: "2026-08-30"
+  - title: "电子发票特定指南（第4.9版） (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "马来西亚内陆税收局 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
   - title: "电子发票实施时间线 (Garis Masa Pelaksanaan e-Invois)"
     url: "https://www.hasil.gov.my/e-invois/garis-masa-pelaksanaan-e-invois/"
     publisher: "马来西亚内陆税收局 (LHDN)"
@@ -121,16 +125,16 @@ relations:
   - { rel: "explained-in", to: "e-invoice-data-fields" }
   - { rel: "related-to", to: "consolidated-e-invoice" }
 related: ["e-invoicing", "consolidated-e-invoice", "self-billed-e-invoice", "myinvois-integration", "e-invoice-data-fields"]
-keywords: ["MyInvois phases", "e-Invoice implementation date Malaysia", "e-Invoice exemption RM1 million", "e-Invoice relaxation period", "LHDN e-Invoice timeline", "tarikh pelaksanaan e-invois"]
+keywords: ["MyInvois phases", "e-Invoice implementation date Malaysia", "e-Invoice exemption RM3 million", "e-Invoice relaxation period", "LHDN e-Invoice timeline", "tarikh pelaksanaan e-invois"]
 framework: data-reference
 ---
 
-两个数字决定一切：你的 FY2022 营业额，它永久固定你的阶段；以及 RM1,000,000，低于
-它你就完全在这套系统之外。本页其余的一切都是细节。
+两个数字决定一切：你的 FY2022 营业额，它永久固定你的阶段；以及 RM3,000,000，低于
+它你就完全在这套系统之外（除非你隶属于一个更大的集团）。本页其余的一切都是细节。
 
-本页以数据形式维护，因为这些日期已经改动过不止一次。以下数字读自 2026 年 7 月 7 日
-同时发布的 **e-Invoice Guideline 第 4.7 版**与 **e-Invoice Specific Guideline
-第 4.8 版**。
+本页以数据形式维护，因为这些日期已经改动过不止一次。以下数字读自 **e-Invoice
+Guideline 第 4.8 版**（2026 年 8 月 30 日）与 **e-Invoice Specific Guideline
+第 4.9 版**（2026 年 9 月 7 日）。
 
 ## 强制阶段日期是什么？
 
@@ -142,7 +146,7 @@ framework: data-reference
 | 4 | **RM5 million 以下** | **2026 年 1 月 1 日** |
 
 没有第五阶段。针对 RM150,000–RM500,000 级距的第五阶段曾出现在较早的指引版本中，
-在第 4.7 版中已经不见了。
+在现行指引中已经不见了。
 
 ## 我的阶段怎么定？
 
@@ -159,22 +163,26 @@ framework: data-reference
 
 | 企业开始营运 | 电子发票实施日期 |
 | --- | --- |
-| 2023 至 2025 年，营业额至少 RM1,000,000 | **2026 年 7 月 1 日** |
+| 2023 至 2025 年，营业额至少 RM3,000,000 | **2026 年 7 月 1 日** |
 | 2026 年起 | **2026 年 7 月 1 日**或开始营运之日 |
-| 2026 年起，首年营业额低于 RM1,000,000 | 营业额达到 RM1,000,000 那一年**之后第二年的 1 月 1 日** |
+| 2026 年起，首年营业额低于 RM3,000,000 | 营业额达到 RM3,000,000 那一年**之后第二年的 1 月 1 日** |
 
 ## 谁获豁免？
 
 指引第 1.6.1 节豁免以下各方开具任何电子发票，包括自开的：
 
-- 年营业额或收入**低于 RM1,000,000** 的纳税人
+- 年营业额或收入**低于 RM3,000,000** 的纳税人
 - 外国外交机构
 - 未从事业务的个人
 - 法定机构、法定当局与地方当局，就法定征收，以及就**2025 年 7 月 1 日之前**售出的
   货物或提供的服务
 - 国际组织，就**2025 年 7 月 1 日之前**售出的货物或提供的服务
 
-豁免依附于该人，不是集团。第 1.6.5 节：由获豁免者拥有的公司，仍按自己的时间表实施。
+有两条规则对规模豁免作出限定。第 1.6.5 节让*其他*豁免维持个人性——由获豁免者拥有
+的公司，仍按自己的时间表实施。第 1.6.10 节（于第 4.8 版新增）对规模豁免做的恰恰
+相反：凡纳税人的非个人股东、控股公司，或关联公司或合资企业的年营业额或收入达
+RM3,000,000 或以上，即撤销其低于 RM3,000,000 的豁免。因此，身处较大集团内的小公司，
+纵然自身规模不大，仍被纳入范围。
 
 另外，第 1.6.7 节把特定收入类型移出网外——受雇收入、退休金、赡养费、天课、某些
 股息分派、交易所买卖证券与衍生品合约价值，以及非上市股份的处置，惟处置方为公司、
@@ -223,7 +231,7 @@ LLP、信托机构或合作社者除外。
 
 ## 常见错误
 
-- **把 RM1 million 这个数字当成延期。** 它是第 1.6.1 节中一项常设的豁免。它也不是
+- **把 RM3 million 这个数字当成延期。** 它是第 1.6.1 节中一项常设的豁免。它也不是
   一个阶段——没有第五阶段。
 - **拿现在的营业额重算你的阶段。** 测试的是 FY2022，只测一次。
 - **把第四阶段的宽限读成放假。** 呈交综合文件是这项宽减的条件，不是它的替代品。

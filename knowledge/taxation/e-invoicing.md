@@ -12,11 +12,11 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "e-Invoicing requires invoice data to be submitted to LHDN's MyInvois system for validation, through the free MyInvois Portal or an API-connected system. A validated document receives a Unique Identifier Number and QR code. The mandate is phased by annual turnover, with the final phase reaching businesses up to RM5 million from 1 January 2026 and businesses below RM1 million exempt. Each phase carries its own interim relaxation period."
+answer: "e-Invoicing requires invoice data to be submitted to LHDN's MyInvois system for validation, through the free MyInvois Portal or an API-connected system. A validated document receives a Unique Identifier Number and QR code. The mandate is phased by annual turnover, with the final phase reaching businesses up to RM5 million from 1 January 2026 and businesses below RM3 million exempt. Each phase carries its own interim relaxation period."
 keyTakeaways:
   - "Validation happens through MyInvois before the document functions as an invoice for income tax purposes"
   - "Four phases, no fifth — the last began 1 January 2026 for turnover up to RM5 million"
-  - "Businesses with annual turnover below RM1,000,000 are exempt"
+  - "Businesses with annual turnover below RM3,000,000 are exempt — unless tied to a group above that threshold"
   - "Your phase is fixed by FY2022 or YA2022 figures and does not move afterwards"
   - "An LHDN-validated e-Invoice does not automatically satisfy the SST tax invoice rules — that is a separate document requirement"
 appliesTo: "Business owners, finance teams and system administrators preparing for or operating under the e-Invoice mandate."
@@ -32,23 +32,27 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Size exemption threshold corrected to below RM3,000,000 and the new section 1.6.10 group condition noted, per e-Invoice Guideline v4.8 (30 August 2026); guideline citations refreshed (General v4.8, Specific v4.9)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "IRBM e-Invoice Guideline"
+  - title: "IRBM e-Invoice Guideline (Version 4.8)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "LHDN"
-    date: "2026-07-07"
-  - title: "IRBM e-Invoice Specific Guideline"
+    date: "2026-08-30"
+  - title: "IRBM e-Invoice Specific Guideline (Version 4.9)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "LHDN"
-    date: "2026-07-07"
+    date: "2026-09-07"
   - title: "MyInvois Portal"
     url: "https://myinvois.hasil.gov.my/"
     publisher: "LHDN"
@@ -99,12 +103,15 @@ have a dedicated answer.
 
 **There is no phase five.** The rollout ran in four phases by annual turnover,
 ending with the cohort up to RM5 million from 1 January 2026. Businesses with
-annual turnover below **RM1,000,000** are exempt, alongside foreign diplomatic
-offices and individuals not carrying on a business. This does not contradict the
-separate **1 July 2026** start that applies to *newly commenced* businesses — one
-that began in 2023 to 2025 with turnover of RM1 million or more comes in on that
-date. It is a rule for entrants without an FY2022 baseline, not a fifth turnover
-phase.
+annual turnover below **RM3,000,000** are exempt, alongside foreign diplomatic
+offices and individuals not carrying on a business. The size exemption carries a
+catch: under section 1.6.10 of the Guideline it falls away if a non-individual
+shareholder, holding company or related company is itself at RM3 million or
+more — the [phases guide](/en/taxation/myinvois-phases) has the test. This does
+not contradict the separate **1 July 2026** start that applies to *newly
+commenced* businesses — one that began in 2023 to 2025 with turnover of RM3
+million or more comes in on that date. It is a rule for entrants without an
+FY2022 baseline, not a fifth turnover phase.
 
 **Your phase is fixed, not floating.** It is determined by the FY2022 audited
 financial statements or the YA2022 return, pro-rated where the year end changed,

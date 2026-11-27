@@ -28,7 +28,7 @@ verificationNeeded:
   - "엔드포인트별 API 요청 제한 — SDK는 FAQ 페이지에 수치 제한을 명시하지 않은 채 통합 실무(Integration Practices)를 언급합니다"
 
 lang: "ko"
-sourceContentHash: "7457966f1e6638bb"
+sourceContentHash: "d6091cac37e7af1d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -37,19 +37,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "지침 인용을 e-Invoice 지침 v4.8(2026년 8월 30일) 및 특정 지침 v4.9(2026년 9월 7일)로 갱신함; 필드 구조는 변경 없음."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "전자세금계산서 지침 (버전 4.7) — 부록 1 및 2 (e-Invoice Guideline (Version 4.7) — Appendices 1 and 2)"
+  - title: "전자세금계산서 지침 (버전 4.8) — 부록 1 및 2 (e-Invoice Guideline (Version 4.8) — Appendices 1 and 2)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "내국세입청 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MyInvois SDK — 문서 검증 규칙 (MyInvois SDK — document validation rules)"
     url: "https://sdk.myinvois.hasil.gov.my/document-validation-rules/"
     publisher: "내국세입청 (LHDN)"
@@ -59,10 +63,10 @@ sources:
   - title: "MyInvois SDK — 표준 오류 응답 (MyInvois SDK — standard error response)"
     url: "https://sdk.myinvois.hasil.gov.my/standard-error-response/"
     publisher: "내국세입청 (LHDN)"
-  - title: "전자세금계산서 특정 지침 (버전 4.8) — 부록 1, 일반 TIN 목록 (e-Invoice Specific Guideline (Version 4.8) — Appendix 1, list of general TIN)"
+  - title: "전자세금계산서 특정 지침 (버전 4.9) — 부록 1, 일반 TIN 목록 (e-Invoice Specific Guideline (Version 4.9) — Appendix 1, list of general TIN)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "내국세입청 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "e-Invoice data fields"
 relations:
@@ -75,7 +79,7 @@ keywords: ["e-Invoice data fields", "55 fields e-Invoice", "MyInvois mandatory f
 framework: data-reference
 ---
 
-거부된 모든 제출은 두 가지 중 하나로 귀결됩니다. LHDN이 필수로 취급하지만 귀사 ERP가 선택으로 취급하는 필드, 또는 LHDN 목록에 없는 코드 값입니다. 이 페이지는 전자송장 지침(e-Invoice Guideline) 버전 4.7의 부록 1과 2에 공표된 대로의 필드 목록입니다.
+거부된 모든 제출은 두 가지 중 하나로 귀결됩니다. LHDN이 필수로 취급하지만 귀사 ERP가 선택으로 취급하는 필드, 또는 LHDN 목록에 없는 코드 값입니다. 이 페이지는 전자송장 지침(e-Invoice Guideline) 버전 4.8의 부록 1과 2에 공표된 대로의 필드 목록입니다.
 
 형식은 **XML 또는 JSON**이며, 둘 다 **UBL 2.1**을 준수합니다. LHDN은 55개 필드를 여덟 개 범주로 묶습니다. 주소(Address), 사업 세부정보(Business Details), 연락처(Contact Number), 송장 세부정보(Invoice Details), 당사자(Parties), 당사자 세부정보(Party Details), 결제 정보(Payment Info), 그리고 제품/용역(Products / Services)입니다.
 

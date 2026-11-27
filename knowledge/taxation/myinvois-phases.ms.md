@@ -12,11 +12,11 @@ mode: "practical"
 contentType: "data"
 sensitivity: "none"
 
-answer: "Mandat e-Invois Malaysia berjalan dalam empat fasa mengikut perolehan FY2022: 1 August 2024 bagi melebihi RM100 juta, 1 January 2025 bagi melebihi RM25 juta sehingga RM100 juta, 1 July 2025 bagi melebihi RM5 juta sehingga RM25 juta, dan 1 January 2026 bagi sehingga RM5 juta. Pembayar cukai dengan perolehan tahunan di bawah RM1 juta dikecualikan. Perniagaan yang mula beroperasi dari 2023 dan seterusnya bermula pada 1 July 2026."
+answer: "Mandat e-Invois Malaysia berjalan dalam empat fasa mengikut perolehan FY2022: 1 August 2024 bagi melebihi RM100 juta, 1 January 2025 bagi melebihi RM25 juta sehingga RM100 juta, 1 July 2025 bagi melebihi RM5 juta sehingga RM25 juta, dan 1 January 2026 bagi sehingga RM5 juta. Pembayar cukai dengan perolehan tahunan di bawah RM3 juta dikecualikan, melainkan terikat dengan kumpulan yang melebihi ambang itu. Perniagaan yang mula beroperasi dari 2023 dan seterusnya dengan perolehan sekurang-kurangnya RM3 juta bermula pada 1 July 2026."
 keyTakeaways:
   - "Hanya empat fasa — fasa yang anda jatuh ke dalamnya ditetapkan oleh perolehan FY2022 anda dan tidak pernah berubah"
-  - "Perolehan atau hasil tahunan di bawah RM1,000,000 adalah pengecualian penuh, bukan penangguhan"
-  - "Perniagaan baharu yang bermula 2023–2025 dengan perolehan sekurang-kurangnya RM1 juta bermula 1 July 2026"
+  - "Perolehan atau hasil tahunan di bawah RM3,000,000 adalah pengecualian penuh, bukan penangguhan — tetapi ia ditarik balik jika pemegang saham, syarikat induk atau syarikat berkaitan berada pada RM3,000,000 atau lebih"
+  - "Perniagaan baharu yang bermula 2023–2025 dengan perolehan sekurang-kurangnya RM3 juta bermula 1 July 2026"
   - "Pembayar cukai fasa 4 mempunyai tempoh pelonggaran sementara yang berjalan sehingga 31 December 2027"
   - "Semasa pelonggaran anda boleh menyatukan segala-galanya dan menolak permintaan e-Invois individu"
   - "Satu SVDP e-Invois dibuka dari 7 July 2026 hingga 31 December 2027 untuk menyelaraskan penghantaran yang terlepas"
@@ -70,16 +70,16 @@ obligations:
     criteria:
       - metric: "turnover"
         op: "lt"
-        value: 1000000
+        value: 3000000
     exemption: true
-    due: "Pengecualian penuh jika perolehan atau hasil tahunan di bawah RM1,000,000; jika tidak, ia mandatori kerana semua fasa kini berkuat kuasa"
+    due: "Pengecualian penuh jika perolehan atau hasil tahunan di bawah RM3,000,000 dan tidak terikat dengan kumpulan pada RM3,000,000 atau lebih; jika tidak, ia mandatori kerana semua fasa kini berkuat kuasa"
     authority: "LHDN"
     statute: "Income Tax Act 1967, s.82C"
 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "fe5d22ede93ea4c0"
+sourceContentHash: "a4aa5bd3b9ec2d19"
 
 status: "published"
 aiAssisted: true
@@ -87,23 +87,27 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Pengecualian saiz dinaikkan kepada bawah RM3,000,000 dan syarat perolehan kumpulan seksyen 1.6.10 baharu ditambah; ambang perniagaan baharu dikemas kini kepada RM3,000,000; sitasi garis panduan dikemas kini kepada Umum v4.8 (30 Ogos 2026) dan Khusus v4.9 (7 September 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "Garis Panduan e-Invois (Versi 4.7) (e-Invoice Guideline (Version 4.7))"
+  - title: "Garis Panduan e-Invois (Versi 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
-    date: "2026-07-07"
-  - title: "Garis Panduan Khusus e-Invois (Versi 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+    date: "2026-08-30"
+  - title: "Garis Panduan Khusus e-Invois (Versi 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
   - title: "Garis Masa Pelaksanaan e-Invois (Garis Masa Pelaksanaan e-Invois)"
     url: "https://www.hasil.gov.my/e-invois/garis-masa-pelaksanaan-e-invois/"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
@@ -121,18 +125,19 @@ relations:
   - { rel: "explained-in", to: "e-invoice-data-fields" }
   - { rel: "related-to", to: "consolidated-e-invoice" }
 related: ["e-invoicing", "consolidated-e-invoice", "self-billed-e-invoice", "myinvois-integration", "e-invoice-data-fields"]
-keywords: ["fasa MyInvois", "tarikh pelaksanaan e-invois Malaysia", "pengecualian e-invois RM1 juta", "tempoh pelonggaran e-invois", "garis masa e-invois LHDN", "tarikh pelaksanaan e-invois"]
+keywords: ["fasa MyInvois", "tarikh pelaksanaan e-invois Malaysia", "pengecualian e-invois RM3 juta", "tempoh pelonggaran e-invois", "garis masa e-invois LHDN", "tarikh pelaksanaan e-invois"]
 framework: data-reference
 ---
 
 Dua angka menentukan semuanya: perolehan FY2022 anda, yang menetapkan fasa
-anda secara kekal, dan RM1,000,000, di bawah mana anda terkeluar sepenuhnya
-daripada sistem ini. Segala-galanya yang lain pada halaman ini adalah butiran.
+anda secara kekal, dan RM3,000,000, di bawah mana anda terkeluar sepenuhnya
+daripada sistem ini (melainkan anda terikat dengan kumpulan yang lebih besar).
+Segala-galanya yang lain pada halaman ini adalah butiran.
 
 Halaman ini dikekalkan sebagai data kerana tarikh-tarikh telah berubah lebih
 daripada sekali. Angka-angka di bawah diambil daripada **e-Invoice Guideline
-versi 4.7** dan **e-Invoice Specific Guideline versi 4.8**, kedua-duanya
-diterbitkan pada 7 July 2026.
+versi 4.8** (30 Ogos 2026) dan **e-Invoice Specific Guideline versi 4.9**
+(7 September 2026).
 
 ## Apakah tarikh fasa mandatori?
 
@@ -144,7 +149,7 @@ diterbitkan pada 7 July 2026.
 | 4 | **Sehingga RM5 juta** | **1 January 2026** |
 
 Tiada fasa 5. Fasa kelima bagi julat RM150,000–RM500,000 pernah muncul dalam
-versi guideline terdahulu dan telah tiada dalam versi 4.7.
+versi guideline terdahulu dan telah tiada dalam garis panduan semasa.
 
 ## Bagaimana fasa saya ditentukan?
 
@@ -163,9 +168,9 @@ RM4 juta hari ini masih merupakan pembayar cukai fasa 2.
 
 | Perniagaan bermula | Tarikh pelaksanaan e-Invois |
 | --- | --- |
-| 2023 hingga 2025, perolehan sekurang-kurangnya RM1,000,000 | **1 July 2026** |
+| 2023 hingga 2025, perolehan sekurang-kurangnya RM3,000,000 | **1 July 2026** |
 | 2026 dan seterusnya | **1 July 2026** atau tarikh permulaan |
-| 2026 dan seterusnya, perolehan tahun pertama di bawah RM1,000,000 | **1 January tahun kedua berikutnya** selepas tahun perolehan mencapai RM1,000,000 |
+| 2026 dan seterusnya, perolehan tahun pertama di bawah RM3,000,000 | **1 January tahun kedua berikutnya** selepas tahun perolehan mencapai RM3,000,000 |
 
 ## Siapakah yang dikecualikan?
 
@@ -173,7 +178,7 @@ Section 1.6.1 Guideline mengecualikan, daripada mengeluarkan sebarang
 e-Invois termasuk yang dibil sendiri (self-billed):
 
 - Pembayar cukai dengan perolehan atau hasil tahunan **kurang daripada
-  RM1,000,000**
+  RM3,000,000**
 - Pejabat diplomatik asing
 - Individu yang tidak menjalankan perniagaan
 - Badan berkanun, pihak berkuasa berkanun dan pihak berkuasa tempatan, bagi
@@ -182,9 +187,15 @@ e-Invois termasuk yang dibil sendiri (self-billed):
 - Pertubuhan antarabangsa, bagi barangan yang dijual atau perkhidmatan yang
   dilaksanakan **sebelum 1 July 2025**
 
-Pengecualian itu melekat pada orang tersebut, bukan kumpulan. Section 1.6.5:
-sebuah syarikat yang dimiliki oleh orang yang dikecualikan tetap
-melaksanakan mengikut garis masanya sendiri.
+Dua peraturan menghadkan pengecualian saiz ini. Section 1.6.5 mengekalkan
+pengecualian *lain* sebagai bersifat peribadi — sebuah syarikat yang dimiliki
+oleh orang yang dikecualikan tetap melaksanakan mengikut garis masanya sendiri.
+Section 1.6.10, yang ditambah dalam versi 4.8, melakukan sebaliknya bagi
+pengecualian saiz: ia menarik balik pengecualian bawah-RM3,000,000 daripada
+mana-mana pembayar cukai yang pemegang saham bukan individu, syarikat induk,
+atau syarikat berkaitan atau usaha sama mempunyai perolehan atau hasil tahunan
+sekurang-kurangnya RM3,000,000. Sebuah syarikat kecil dalam kumpulan yang lebih
+besar oleh itu termasuk dalam skop walaupun saiznya sendiri kecil.
 
 Secara berasingan, section 1.6.7 mengeluarkan jenis pendapatan tertentu
 daripada skop — pendapatan penggajian, pencen, alimoni, zakat, sesetengah
@@ -247,7 +258,7 @@ pelanggaran s.82C(1), (6) dan (7) sebagai satu kesalahan.
 
 ## Kesilapan biasa
 
-- **Menganggap angka RM1 juta sebagai penangguhan.** Ia adalah pengecualian
+- **Menganggap angka RM3 juta sebagai penangguhan.** Ia adalah pengecualian
   kekal dalam section 1.6.1. Ia juga bukan satu fasa — tiada fasa 5.
 - **Mengira semula fasa anda daripada perolehan semasa.** Ujiannya ialah
   FY2022, sekali sahaja.

@@ -12,11 +12,11 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "La facturation électronique exige que les données de la facture soient transmises au système MyInvois de la LHDN pour validation, via le portail MyInvois gratuit ou un système connecté par API. Un document validé reçoit un numéro d'identifiant unique et un code QR. Le mandat est échelonné selon le chiffre d'affaires annuel, la dernière phase atteignant les entreprises jusqu'à RM5 millions à partir du 1er janvier 2026, les entreprises en dessous de RM1 million étant exonérées. Chaque phase comporte sa propre période d'assouplissement provisoire."
+answer: "La facturation électronique exige que les données de la facture soient transmises au système MyInvois de la LHDN pour validation, via le portail MyInvois gratuit ou un système connecté par API. Un document validé reçoit un numéro d'identifiant unique et un code QR. Le mandat est échelonné selon le chiffre d'affaires annuel, la dernière phase atteignant les entreprises jusqu'à RM5 millions à partir du 1er janvier 2026, les entreprises en dessous de RM3 millions étant exonérées. Chaque phase comporte sa propre période d'assouplissement provisoire."
 keyTakeaways:
   - "La validation passe par MyInvois avant que le document ne fonctionne comme une facture aux fins de l'impôt sur le revenu"
   - "Quatre phases, pas de cinquième : la dernière a commencé le 1er janvier 2026 pour un chiffre d'affaires jusqu'à RM5 millions"
-  - "Les entreprises dont le chiffre d'affaires annuel est inférieur à RM1,000,000 sont exonérées"
+  - "Les entreprises dont le chiffre d'affaires annuel est inférieur à RM3,000,000 sont exonérées — sauf si elles sont liées à un groupe au-dessus de ce seuil"
   - "Votre phase est fixée par les chiffres de l'exercice 2022 ou de l'exercice d'imposition 2022 et ne change pas ensuite"
   - "Une facture électronique validée par la LHDN ne satisfait pas automatiquement aux règles de la facture fiscale SST — c'est une exigence documentaire distincte"
 appliesTo: "Chefs d'entreprise, équipes financières et administrateurs de systèmes qui se préparent au mandat de la facture électronique ou qui opèrent sous son régime."
@@ -24,7 +24,7 @@ appliesTo: "Chefs d'entreprise, équipes financières et administrateurs de syst
 verificationNeeded: []
 
 lang: "fr"
-sourceContentHash: "46533f76e2996181"
+sourceContentHash: "7269dd5c2ab6076f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -34,23 +34,27 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Seuil d'exonération de taille corrigé à moins de RM3,000,000 et nouvelle condition de groupe de la section 1.6.10 signalée, conformément au Guide de la facture électronique v4.8 (30 août 2026) ; citations des guides actualisées (Général v4.8, Spécifique v4.9)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "Directive sur la facture électronique de l'IRBM (IRBM e-Invoice Guideline)"
+  - title: "Directive sur la facture électronique de l'IRBM (Version 4.8) (IRBM e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Administration fiscale de Malaisie (LHDN)"
-    date: "2026-07-07"
-  - title: "Directive spécifique sur la facture électronique de l'IRBM (IRBM e-Invoice Specific Guideline)"
+    date: "2026-08-30"
+  - title: "Directive spécifique sur la facture électronique de l'IRBM (Version 4.9) (IRBM e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "Administration fiscale de Malaisie (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
   - title: "Portail MyInvois (MyInvois Portal)"
     url: "https://myinvois.hasil.gov.my/"
     publisher: "Administration fiscale de Malaisie (LHDN)"
@@ -104,13 +108,16 @@ ont une réponse dédiée.
 **Il n'y a pas de phase cinq.** Le déploiement s'est fait en quatre phases selon
 le chiffre d'affaires annuel, se terminant par la cohorte jusqu'à RM5 millions à
 partir du 1er janvier 2026. Les entreprises dont le chiffre d'affaires annuel est
-inférieur à **RM1,000,000** sont exonérées, aux côtés des bureaux diplomatiques
-étrangers et des personnes physiques n'exerçant pas d'activité. Cela ne contredit
-pas le démarrage distinct du **1er juillet 2026** qui s'applique aux entreprises
-*nouvellement créées* — une entreprise qui a débuté entre 2023 et 2025 avec un
-chiffre d'affaires de RM1 million ou plus y entre à cette date. C'est une règle
-pour les entrants sans référence à l'exercice 2022, non une cinquième phase de
-chiffre d'affaires.
+inférieur à **RM3,000,000** sont exonérées, aux côtés des bureaux diplomatiques
+étrangers et des personnes physiques n'exerçant pas d'activité. L'exonération liée
+à la taille comporte un piège : au titre de la section 1.6.10 du Guide, elle
+disparaît si un actionnaire non-individuel, une société mère ou une société liée
+est lui-même à RM3 millions ou plus — le [guide des phases](/fr/taxation/myinvois-phases)
+contient le test. Cela ne contredit pas le démarrage distinct du **1er juillet 2026**
+qui s'applique aux entreprises *nouvellement créées* — une entreprise qui a débuté
+entre 2023 et 2025 avec un chiffre d'affaires de RM3 millions ou plus y entre à
+cette date. C'est une règle pour les entrants sans référence à l'exercice 2022,
+non une cinquième phase de chiffre d'affaires.
 
 **Votre phase est fixe, non flottante.** Elle est déterminée par les états
 financiers audités de l'exercice 2022 ou la déclaration de l'exercice d'imposition

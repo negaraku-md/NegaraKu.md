@@ -30,7 +30,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7457966f1e6638bb"
+sourceContentHash: "d6091cac37e7af1d"
 
 status: "published"
 aiAssisted: true
@@ -38,19 +38,23 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "指南引用更新为 e-Invoice Guideline v4.8（2026 年 8 月 30 日）与 Specific Guideline v4.9（2026 年 9 月 7 日）；栏位结构不变。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "电子发票指南（4.7版）——附录1和2 (e-Invoice Guideline (Version 4.7) — Appendices 1 and 2)"
+  - title: "电子发票指南（4.8版）——附录1和2 (e-Invoice Guideline (Version 4.8) — Appendices 1 and 2)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "内陆税收局 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MyInvois SDK — 文档验证规则 (MyInvois SDK — document validation rules)"
     url: "https://sdk.myinvois.hasil.gov.my/document-validation-rules/"
     publisher: "内陆税收局 (LHDN)"
@@ -60,10 +64,10 @@ sources:
   - title: "MyInvois SDK — 标准错误响应 (MyInvois SDK — standard error response)"
     url: "https://sdk.myinvois.hasil.gov.my/standard-error-response/"
     publisher: "内陆税收局 (LHDN)"
-  - title: "电子发票专项指南（4.8版）——附录1，通用TIN列表 (e-Invoice Specific Guideline (Version 4.8) — Appendix 1, list of general TIN)"
+  - title: "电子发票专项指南（4.9版）——附录1，通用TIN列表 (e-Invoice Specific Guideline (Version 4.9) — Appendix 1, list of general TIN)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "内陆税收局 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "e-Invoice data fields"
 relations:
@@ -78,7 +82,7 @@ framework: data-reference
 
 每一次提交被拒，追究起来不外乎两件事：某个 LHDN 视为必填、而你的 ERP 视为选填的
 栏位，或者某个不在 LHDN 清单里的代码值。本页就是那份栏位清单，取自 e-Invoice
-Guideline 4.7 版的 Appendix 1 与 Appendix 2。
+Guideline 4.8 版的 Appendix 1 与 Appendix 2。
 
 格式为 **XML 或 JSON**，两者皆须符合 **UBL 2.1**。LHDN 把这 55 个栏位分为八个
 类别：Address、Business Details、Contact Number、Invoice Details、Parties、

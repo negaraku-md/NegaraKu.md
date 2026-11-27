@@ -28,7 +28,7 @@ verificationNeeded:
   - "Giới hạn tần suất gọi API theo từng endpoint — SDK dẫn chiếu đến Integration Practices mà không nêu các giới hạn bằng số trên trang FAQ"
 
 lang: "vi"
-sourceContentHash: "7457966f1e6638bb"
+sourceContentHash: "d6091cac37e7af1d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -37,19 +37,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Cập nhật trích dẫn hướng dẫn thành e-Invoice Guideline v4.8 (30 tháng 8 năm 2026) và Specific Guideline v4.9 (7 tháng 9 năm 2026); cấu trúc trường không đổi."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "Hướng dẫn Hóa đơn Điện tử (Phiên bản 4.7) — Phụ lục 1 và 2 (e-Invoice Guideline (Version 4.7) — Appendices 1 and 2)"
+  - title: "Hướng dẫn Hóa đơn Điện tử (Phiên bản 4.8) — Phụ lục 1 và 2 (e-Invoice Guideline (Version 4.8) — Appendices 1 and 2)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Cục Thuế Nội địa (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MyInvois SDK — quy tắc xác thực tài liệu (MyInvois SDK — document validation rules)"
     url: "https://sdk.myinvois.hasil.gov.my/document-validation-rules/"
     publisher: "Cục Thuế Nội địa (LHDN)"
@@ -59,10 +63,10 @@ sources:
   - title: "MyInvois SDK — phản hồi lỗi chuẩn (MyInvois SDK — standard error response)"
     url: "https://sdk.myinvois.hasil.gov.my/standard-error-response/"
     publisher: "Cục Thuế Nội địa (LHDN)"
-  - title: "Hướng dẫn Cụ thể về Hóa đơn Điện tử (Phiên bản 4.8) — Phụ lục 1, danh sách TIN chung (e-Invoice Specific Guideline (Version 4.8) — Appendix 1, list of general TIN)"
+  - title: "Hướng dẫn Cụ thể về Hóa đơn Điện tử (Phiên bản 4.9) — Phụ lục 1, danh sách TIN chung (e-Invoice Specific Guideline (Version 4.9) — Appendix 1, list of general TIN)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "Cục Thuế Nội địa (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "e-Invoice data fields"
 relations:
@@ -78,7 +82,7 @@ framework: data-reference
 Mọi lần nộp bị từ chối đều truy nguyên về một trong hai thứ: một trường mà LHDN coi
 là bắt buộc mà ERP của bạn coi là tùy chọn, hoặc một giá trị mã không nằm trong
 danh sách của LHDN. Trang này là danh sách các trường, như được công bố trong Appendix 1 và 2 của
-e-Invoice Guideline phiên bản 4.7.
+e-Invoice Guideline phiên bản 4.8.
 
 Định dạng là **XML hoặc JSON**, cả hai tuân theo **UBL 2.1**. LHDN nhóm 55
 trường thành tám loại: Địa chỉ, Chi tiết Doanh nghiệp, Số Liên hệ, Chi tiết

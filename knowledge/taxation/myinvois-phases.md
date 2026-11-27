@@ -12,11 +12,11 @@ mode: "practical"
 contentType: "data"
 sensitivity: "none"
 
-answer: "Malaysia's e-Invoice mandate runs in four phases by FY2022 turnover: 1 August 2024 above RM100 million, 1 January 2025 above RM25 million to RM100 million, 1 July 2025 above RM5 million to RM25 million, and 1 January 2026 up to RM5 million. Taxpayers with annual turnover below RM1 million are exempt. Businesses that began operating from 2023 onwards start on 1 July 2026."
+answer: "Malaysia's e-Invoice mandate runs in four phases by FY2022 turnover: 1 August 2024 above RM100 million, 1 January 2025 above RM25 million to RM100 million, 1 July 2025 above RM5 million to RM25 million, and 1 January 2026 up to RM5 million. Taxpayers with annual turnover below RM3 million are exempt, unless tied to a group above that threshold. Businesses that began operating from 2023 onwards with turnover of at least RM3 million start on 1 July 2026."
 keyTakeaways:
   - "Four phases only — the phase you fall into is fixed by your FY2022 turnover and never changes"
-  - "Below RM1,000,000 annual turnover or revenue is a full exemption, not a deferral"
-  - "New businesses commencing 2023–2025 with turnover of at least RM1 million start 1 July 2026"
+  - "Below RM3,000,000 annual turnover or revenue is a full exemption, not a deferral — but it is withdrawn if a shareholder, holding or related company is at RM3,000,000 or more"
+  - "New businesses commencing 2023–2025 with turnover of at least RM3 million start 1 July 2026"
   - "Phase 4 taxpayers have an interim relaxation period running all the way to 31 December 2027"
   - "During relaxation you may consolidate everything and refuse individual e-Invoice requests"
   - "An e-Invoice SVDP is open from 7 July 2026 to 31 December 2027 to regularise missed submissions"
@@ -72,7 +72,7 @@ obligations:
         op: "lt"
         value: 1000000
     exemption: true
-    due: "Full exemption if annual turnover or revenue is below RM1,000,000; otherwise mandatory, as all phases are now in force"
+    due: "Full exemption if annual turnover or revenue is below RM3,000,000 and not tied to a group at RM3,000,000 or more; otherwise mandatory, as all phases are now in force"
     authority: "LHDN"
     statute: "Income Tax Act 1967, s.82C"
 
@@ -85,23 +85,27 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Size exemption raised to below RM3,000,000 and the new section 1.6.10 group-turnover condition added; new-business threshold updated to RM3,000,000; guideline citations refreshed to General v4.8 (30 August 2026) and Specific v4.9 (7 September 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "e-Invoice Guideline (Version 4.7)"
+  - title: "e-Invoice Guideline (Version 4.8)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "LHDN"
-    date: "2026-07-07"
-  - title: "e-Invoice Specific Guideline (Version 4.8)"
+    date: "2026-08-30"
+  - title: "e-Invoice Specific Guideline (Version 4.9)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "LHDN"
-    date: "2026-07-07"
+    date: "2026-09-07"
   - title: "Garis Masa Pelaksanaan e-Invois"
     url: "https://www.hasil.gov.my/e-invois/garis-masa-pelaksanaan-e-invois/"
     publisher: "LHDN"
@@ -119,17 +123,18 @@ relations:
   - { rel: "explained-in", to: "e-invoice-data-fields" }
   - { rel: "related-to", to: "consolidated-e-invoice" }
 related: ["e-invoicing", "consolidated-e-invoice", "self-billed-e-invoice", "myinvois-integration", "e-invoice-data-fields"]
-keywords: ["MyInvois phases", "e-Invoice implementation date Malaysia", "e-Invoice exemption RM1 million", "e-Invoice relaxation period", "LHDN e-Invoice timeline", "tarikh pelaksanaan e-invois"]
+keywords: ["MyInvois phases", "e-Invoice implementation date Malaysia", "e-Invoice exemption RM3 million", "e-Invoice relaxation period", "LHDN e-Invoice timeline", "tarikh pelaksanaan e-invois"]
 framework: data-reference
 ---
 
 Two numbers decide everything: your FY2022 turnover, which fixes your phase
-permanently, and RM1,000,000, below which you are out of the system entirely.
-Everything else on this page is detail.
+permanently, and RM3,000,000, below which you are out of the system entirely
+(unless you are tied to a larger group). Everything else on this page is detail.
 
 This page is maintained as data because the dates have moved more than once.
-The figures below are read off the **e-Invoice Guideline version 4.7** and the
-**e-Invoice Specific Guideline version 4.8**, both published 7 July 2026.
+The figures below are read off the **e-Invoice Guideline version 4.8**
+(30 August 2026) and the **e-Invoice Specific Guideline version 4.9**
+(7 September 2026).
 
 ## What are the mandatory phase dates?
 
@@ -141,7 +146,7 @@ The figures below are read off the **e-Invoice Guideline version 4.7** and the
 | 4 | **Up to RM5 million** | **1 January 2026** |
 
 There is no phase 5. A fifth phase for the RM150,000–RM500,000 band appeared in
-earlier guideline versions and is gone from version 4.7.
+earlier guideline versions and is gone from the current guideline.
 
 ## How is my phase determined?
 
@@ -159,16 +164,16 @@ million in 2022 and RM4 million today is still a phase 2 taxpayer.
 
 | Business commenced | e-Invoice implementation date |
 | --- | --- |
-| 2023 to 2025, turnover at least RM1,000,000 | **1 July 2026** |
+| 2023 to 2025, turnover at least RM3,000,000 | **1 July 2026** |
 | 2026 onwards | **1 July 2026** or the commencement date |
-| 2026 onwards, first-year turnover below RM1,000,000 | **1 January of the second year following** the year turnover reached RM1,000,000 |
+| 2026 onwards, first-year turnover below RM3,000,000 | **1 January of the second year following** the year turnover reached RM3,000,000 |
 
 ## Who is exempt?
 
 Section 1.6.1 of the Guideline exempts, from issuing any e-Invoice including
 self-billed:
 
-- Taxpayers with annual turnover or revenue **less than RM1,000,000**
+- Taxpayers with annual turnover or revenue **less than RM3,000,000**
 - Foreign diplomatic offices
 - Individuals not conducting a business
 - Statutory bodies, statutory authorities and local authorities, for statutory
@@ -176,8 +181,13 @@ self-billed:
 - International organisations, for goods sold or services performed **before
   1 July 2025**
 
-The exemption attaches to the person, not the group. Section 1.6.5: a company
-owned by an exempt person still implements on its own timeline.
+Two rules qualify the size exemption. Section 1.6.5 keeps the *other*
+exemptions personal — a company owned by an exempt person still implements on
+its own timeline. Section 1.6.10, added in version 4.8, does the opposite for
+the size exemption: it withdraws the below-RM3,000,000 exemption from any
+taxpayer whose non-individual shareholder, holding company, or related company
+or joint venture has annual turnover or revenue of at least RM3,000,000. A small
+company inside a larger group is therefore in scope despite its own size.
 
 Separately, section 1.6.7 removes specific income types from the net —
 employment income, pension, alimony, zakat, certain dividend distributions,
@@ -237,7 +247,7 @@ offence.
 
 ## Common mistakes
 
-- **Treating the RM1 million figure as a deferral.** It is a standing exemption
+- **Treating the RM3 million figure as a deferral.** It is a standing exemption
   in section 1.6.1. It is also not a phase — there is no phase 5.
 - **Recomputing your phase from current turnover.** The test is FY2022, once.
 - **Reading the phase 4 relaxation as a holiday.** Consolidated submissions are

@@ -51,23 +51,27 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Guideline citations refreshed to e-Invoice Guideline v4.8 (30 August 2026) and Specific Guideline v4.9 (7 September 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "แนวปฏิบัติเฉพาะใบแจ้งหนี้อิเล็กทรอนิกส์ (เวอร์ชัน 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+  - title: "แนวปฏิบัติเฉพาะใบแจ้งหนี้อิเล็กทรอนิกส์ (เวอร์ชัน 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "กรมสรรพากร (LHDN)"
-    date: "2026-07-07"
-  - title: "แนวปฏิบัติใบแจ้งหนี้อิเล็กทรอนิกส์ (เวอร์ชัน 4.7) (e-Invoice Guideline (Version 4.7))"
+    date: "2026-09-07"
+  - title: "แนวปฏิบัติใบแจ้งหนี้อิเล็กทรอนิกส์ (เวอร์ชัน 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "กรมสรรพากร (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "Finance (No. 2) Act 2023 (Act 851) — มาตรา 82C(7) (Finance (No. 2) Act 2023 (Act 851) — section 82C(7))"
     url: "https://www.myttx.customs.gov.my/wp-content/uploads/2024/02/WJW23%EF%80%A21341-BI.pdf"
     publisher: "รัฐบาลมาเลเซีย"

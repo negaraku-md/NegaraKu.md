@@ -28,21 +28,25 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "cf809540c51ed69e"
+sourceContentHash: "88e1064951c53abf"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "電子インボイスの免除基準額を RM3,000,000 未満に更新し、e-Invoice Guideline 引用を v4.8（2026年8月30日）に更新。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
   - title: "Finance (No. 2) Act 2023 (Act 851) — 第82C条 (Finance (No. 2) Act 2023 (Act 851) — section 82C)"
     url: "https://www.myttx.customs.gov.my/wp-content/uploads/2024/02/WJW23%EF%80%A21341-BI.pdf"
@@ -54,10 +58,10 @@ sources:
   - title: "Sales Tax Regulations 2018 — 規則7 (Sales Tax Regulations 2018 — regulation 7)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Sales-Tax-Regulations-2018.pdf"
     publisher: "マレーシア王立関税局 (RMCD)"
-  - title: "電子インボイスガイドライン（バージョン4.7） (e-Invoice Guideline (Version 4.7))"
+  - title: "電子インボイスガイドライン（バージョン4.8） (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "内国歳入庁 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MySST — インボイスの発行 (MySST — Issuing Invoices)"
     url: "https://mysst.customs.gov.my/issuing-invoices/"
     publisher: "マレーシア王立関税局 (RMCD)"
@@ -90,7 +94,7 @@ framework: explainer
 | 検証 | LHDNへ送信され、LHDNにより検証される | なし——提出も参照番号も不要 |
 | 目的 | 所得税上の収入・支出の証明 | SST入帳における課税の証拠 |
 
-どちらも他方の代わりにはならない。売上高がRM100万未満のSST登録企業は電子
+どちらも他方の代わりにはならない。売上高がRM300万未満のSST登録企業は電子
 インボイスを免除されるが、それでもSST税務インボイスは発行し続ける。逆に、
 規模が大きく未登録の企業はその逆となる。
 

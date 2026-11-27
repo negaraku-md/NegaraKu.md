@@ -43,7 +43,7 @@ verificationNeeded:
   - "الحدّ الأقصى لعدد الصفوف المقبولة في جدول بيانات الرفع المجمّع ببوابة MyInvois — تذكر LHDN عددًا معيّنًا دون أن تصرّح به"
 
 lang: "ar"
-sourceContentHash: "12fac171732261f3"
+sourceContentHash: "098a1b33b5921f56"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -53,19 +53,23 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Exemption threshold updated to below RM3,000,000 (with the section 1.6.10 group condition) and guideline citations refreshed to General v4.8 (30 August 2026) and Specific v4.9 (7 September 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "دليل الفوترة الإلكترونية (الإصدار 4.7) — الأقسام 2.2 إلى 2.5 (e-Invoice Guideline (Version 4.7) — sections 2.2 to 2.5)"
+  - title: "دليل الفوترة الإلكترونية (الإصدار 4.8) — الأقسام 2.2 إلى 2.5 (e-Invoice Guideline (Version 4.8) — sections 2.2 to 2.5)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "مجموعة تطوير برمجيات MyInvois (MyInvois SDK)"
     url: "https://sdk.myinvois.hasil.gov.my/"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
@@ -75,10 +79,10 @@ sources:
   - title: "مجموعة تطوير برمجيات MyInvois — استجابة الخطأ القياسية (MyInvois SDK — standard error response)"
     url: "https://sdk.myinvois.hasil.gov.my/standard-error-response/"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
-  - title: "الدليل الخاص بالفوترة الإلكترونية (الإصدار 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+  - title: "الدليل الخاص بالفوترة الإلكترونية (الإصدار 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "MyInvois transmission mechanisms"
 relations:
@@ -163,7 +167,7 @@ RM10,000** يجب أن تكون معاملةً مُفرَدة، في جميع ا
 
 | المسار | يناسب | انتبه لـ |
 | --- | --- | --- |
-| **التكامل المباشر مع ERP** | نظام ERP راسخ ذو تعريب ماليزي مُصان، أو قدرة هندسية داخلية | الصيانة المستمرة مع تغيّر إصدارات الدليل — صدر v4.7 وv4.8 معًا في 7 يوليو 2026 |
+| **التكامل المباشر مع ERP** | نظام ERP راسخ ذو تعريب ماليزي مُصان، أو قدرة هندسية داخلية | الصيانة المستمرة مع تغيّر إصدارات الدليل — بلغ الدليل العام الإصدار v4.8 في 30 أغسطس 2026 والدليل الخاص الإصدار v4.9 في 7 سبتمبر 2026 |
 | **مزوّد خدمة Peppol** | المنشآت التي تريد أيضًا تبادل مستندات قابلًا للتشغيل البيني مع الشركاء التجاريين | Peppol ليست اشتراطًا من MyInvois؛ فلا تدفع مقابلها كأنها كذلك |
 | **مزوّد تقني من غير Peppol / وسيط برمجي** | أنظمة مصدر متعدّدة، أو مجموعات نقاط بيع (POS)، أو ERP بلا تعريب | حفظ البيانات، وشروط الخروج، وما إذا كانوا يُرسلون باستخدام بيانات اعتمادهم الخاصة |
 
@@ -191,7 +195,7 @@ RM10,000** يجب أن تكون معاملةً مُفرَدة، في جميع ا
 
 ## مسار قرار
 
-1. **هل أنت مُعفى؟** إن كان حجم أعمالك السنوي دون RM1,000,000، فتوقّف.
+1. **هل أنت مُعفى؟** إن كان حجم أعمالك السنوي دون RM3,000,000، ولم تكن مرتبطاً بمجموعة تبلغ RM3,000,000 أو أكثر، فتوقّف.
 2. **عُدّ المستندات الشهرية** عبر الفئات الأربع أعلاه.
 3. **أقلّ من مئة تقريبًا، وأغلبها موحَّد؟** البوابة، مع الرفع المجمّع عبر Excel. وأعد
    النظر سنويًا.

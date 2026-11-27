@@ -26,7 +26,7 @@ verificationNeeded:
   - "e-Invoice-இன் காட்சி வடிவத்தை SST விலைப்பட்டியல் விவரங்களுடன் இணக்கப்படுத்தும் ஒரு பிரத்யேக வழிகாட்டியை RMCD வெளியிட்டுள்ளதா என்பது — mysst.customs.gov.my-இல் அத்தகைய ஒன்று கண்டறியப்படவில்லை"
 
 lang: "ta"
-sourceContentHash: "cf809540c51ed69e"
+sourceContentHash: "88e1064951c53abf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -35,14 +35,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "e-Invoice விலக்கு வரம்பு RM3,000,000-க்குக் கீழ் எனப் புதுப்பிக்கப்பட்டு, e-Invoice Guideline மேற்கோள் v4.8 (30 August 2026) எனப் புதுப்பிக்கப்பட்டது."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
   - title: "Finance (No. 2) Act 2023 (Act 851) — பிரிவு 82C (Finance (No. 2) Act 2023 (Act 851) — section 82C)"
     url: "https://www.myttx.customs.gov.my/wp-content/uploads/2024/02/WJW23%EF%80%A21341-BI.pdf"
@@ -54,10 +58,10 @@ sources:
   - title: "Sales Tax Regulations 2018 — ஒழுங்குமுறை 7 (Sales Tax Regulations 2018 — regulation 7)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Sales-Tax-Regulations-2018.pdf"
     publisher: "மலேசிய அரச சுங்கத் துறை (RMCD)"
-  - title: "மின்-விலைப்பட்டியல் வழிகாட்டி (பதிப்பு 4.7) (e-Invoice Guideline (Version 4.7))"
+  - title: "மின்-விலைப்பட்டியல் வழிகாட்டி (பதிப்பு 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MySST — விலைப்பட்டியல்களை வழங்குதல் (MySST — Issuing Invoices)"
     url: "https://mysst.customs.gov.my/issuing-invoices/"
     publisher: "மலேசிய அரச சுங்கத் துறை (RMCD)"
@@ -90,7 +94,7 @@ framework: explainer
 | சரிபார்ப்பு | LHDN-க்கு அனுப்பப்பட்டு அதனால் சரிபார்க்கப்படுகிறது | இல்லை — சமர்ப்பிப்பு இல்லை, குறிப்பு எண் இல்லை |
 | நோக்கம் | வருமான வரிக்கான வருமானம் மற்றும் செலவுக்கான சான்று | SST கணக்கியலுக்கு விதிக்கப்பட்ட வரிக்கான ஆதாரம் |
 
-இரண்டில் ஒன்று மற்றொன்றை மாற்றியமைக்காது. வருவாயில் RM1 million-க்குக் கீழே உள்ள
+இரண்டில் ஒன்று மற்றொன்றை மாற்றியமைக்காது. வருவாயில் RM3 million-க்குக் கீழே உள்ள
 ஒரு SST-பதிவுசெய்யப்பட்ட நிறுவனம் e-Invoicing-இலிருந்து விலக்களிக்கப்பட்டது, ஆனால்
 இன்னும் SST விலைப்பட்டிகளை வழங்குகிறது. பதிவுசெய்யப்படாத ஒரு பெரிய நிறுவனத்தின்
 நிலை இதற்கு நேர்மாறானது.

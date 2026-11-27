@@ -26,7 +26,7 @@ verificationNeeded:
   - "RMCD ได้ออกคู่มือเฉพาะที่ประนอม visual representation ของ e-Invoice กับรายละเอียดใบกำกับภาษี SST หรือไม่ — ไม่พบบน mysst.customs.gov.my"
 
 lang: "th"
-sourceContentHash: "cf809540c51ed69e"
+sourceContentHash: "88e1064951c53abf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -35,14 +35,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "e-Invoice exemption threshold updated to below RM3,000,000 and the e-Invoice Guideline citation refreshed to v4.8 (30 August 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
   - title: "Finance (No. 2) Act 2023 (Act 851) — มาตรา 82C (Finance (No. 2) Act 2023 (Act 851) — section 82C)"
     url: "https://www.myttx.customs.gov.my/wp-content/uploads/2024/02/WJW23%EF%80%A21341-BI.pdf"
@@ -54,10 +58,10 @@ sources:
   - title: "Sales Tax Regulations 2018 — ข้อ 7 (Sales Tax Regulations 2018 — regulation 7)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Sales-Tax-Regulations-2018.pdf"
     publisher: "กรมศุลกากรมาเลเซีย (RMCD)"
-  - title: "แนวปฏิบัติใบแจ้งหนี้อิเล็กทรอนิกส์ (เวอร์ชัน 4.7) (e-Invoice Guideline (Version 4.7))"
+  - title: "แนวปฏิบัติใบแจ้งหนี้อิเล็กทรอนิกส์ (เวอร์ชัน 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "กรมสรรพากร (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MySST — การออกใบแจ้งหนี้ (MySST — Issuing Invoices)"
     url: "https://mysst.customs.gov.my/issuing-invoices/"
     publisher: "กรมศุลกากรมาเลเซีย (RMCD)"
@@ -89,7 +93,7 @@ framework: explainer
 | การตรวจสอบ | ส่งไปยังและตรวจสอบโดย LHDN | ไม่มี — ไม่มีการยื่น ไม่มีหมายเลขอ้างอิง |
 | วัตถุประสงค์ | หลักฐานเงินได้และค่าใช้จ่ายสำหรับภาษีเงินได้ | หลักฐานภาษีที่เรียกเก็บสำหรับการบัญชี SST |
 
-ไม่มีอันใดแทนอีกอัน บริษัทที่จดทะเบียน SST ที่มีมูลค่าการซื้อขายต่ำกว่า RM1 ล้านได้รับยกเว้นจาก e-Invoicing
+ไม่มีอันใดแทนอีกอัน บริษัทที่จดทะเบียน SST ที่มีมูลค่าการซื้อขายต่ำกว่า RM3 ล้านได้รับยกเว้นจาก e-Invoicing
 และยังคงออกใบกำกับภาษี SST บริษัทใหญ่ที่ไม่ได้จดทะเบียนเป็นตรงกันข้าม
 
 ## บทบัญญัติที่กำกับเรื่องนี้จริง ๆ

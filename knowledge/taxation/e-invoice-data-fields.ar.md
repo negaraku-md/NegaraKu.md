@@ -28,7 +28,7 @@ verificationNeeded:
   - "حدود معدل استدعاء الـ API لكل نقطة نهاية — تُحيل الـ SDK إلى Integration Practices دون ذكر حدود رقمية على صفحة الأسئلة المتكرِّرة"
 
 lang: "ar"
-sourceContentHash: "7457966f1e6638bb"
+sourceContentHash: "d6091cac37e7af1d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -38,19 +38,23 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Guideline citations refreshed to e-Invoice Guideline v4.8 (30 August 2026) and Specific Guideline v4.9 (7 September 2026); field structure unchanged."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "إرشادات الفاتورة الإلكترونية (الإصدار 4.7) — الملحقان 1 و2 (e-Invoice Guideline (Version 4.7) — Appendices 1 and 2)"
+  - title: "إرشادات الفاتورة الإلكترونية (الإصدار 4.8) — الملحقان 1 و2 (e-Invoice Guideline (Version 4.8) — Appendices 1 and 2)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MyInvois SDK — قواعد التحقّق من المستندات (MyInvois SDK — document validation rules)"
     url: "https://sdk.myinvois.hasil.gov.my/document-validation-rules/"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
@@ -60,10 +64,10 @@ sources:
   - title: "MyInvois SDK — استجابة الخطأ القياسية (MyInvois SDK — standard error response)"
     url: "https://sdk.myinvois.hasil.gov.my/standard-error-response/"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
-  - title: "إرشادات الفاتورة الإلكترونية الخاصة (الإصدار 4.8) — الملحق 1، قائمة TIN العام (e-Invoice Specific Guideline (Version 4.8) — Appendix 1, list of general TIN)"
+  - title: "إرشادات الفاتورة الإلكترونية الخاصة (الإصدار 4.9) — الملحق 1، قائمة TIN العام (e-Invoice Specific Guideline (Version 4.9) — Appendix 1, list of general TIN)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "e-Invoice data fields"
 relations:
@@ -76,7 +80,7 @@ keywords: ["حقول بيانات الفاتورة الإلكترونية", "55 
 framework: data-reference
 ---
 
-كل تقديم مرفوض يعود إلى واحد من أمرين: حقل تعامله LHDN باعتباره إلزامياً بينما يعامله نظام ERP لديك باعتباره اختيارياً، أو قيمة رمز غير موجودة في قائمة LHDN. وهذه الصفحة هي قائمة الحقول، كما نُشرت في الملحقين 1 و2 من إرشادات الفاتورة الإلكترونية الإصدار 4.7.
+كل تقديم مرفوض يعود إلى واحد من أمرين: حقل تعامله LHDN باعتباره إلزامياً بينما يعامله نظام ERP لديك باعتباره اختيارياً، أو قيمة رمز غير موجودة في قائمة LHDN. وهذه الصفحة هي قائمة الحقول، كما نُشرت في الملحقين 1 و2 من إرشادات الفاتورة الإلكترونية الإصدار 4.8.
 
 الصيغة هي **XML أو JSON**، وكلاهما مطابق لـ **UBL 2.1**. وتُجمِّع LHDN الحقول الـ 55 في ثماني فئات: Address، وBusiness Details، وContact Number، وInvoice Details، وParties، وParty Details، وPayment Info، وProducts / Services.
 

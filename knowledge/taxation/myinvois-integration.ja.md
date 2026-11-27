@@ -45,26 +45,30 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "12fac171732261f3"
+sourceContentHash: "098a1b33b5921f56"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "免除基準額を RM3,000,000 未満に更新（section 1.6.10 のグループ条件を含む）。ガイドライン引用を General v4.8（2026年8月30日）および Specific v4.9（2026年9月7日）に更新。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "電子インボイス・ガイドライン（バージョン4.7）— セクション2.2から2.5 (e-Invoice Guideline (Version 4.7) — sections 2.2 to 2.5)"
+  - title: "電子インボイス・ガイドライン（バージョン4.8）— セクション2.2から2.5 (e-Invoice Guideline (Version 4.8) — sections 2.2 to 2.5)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "マレーシア内国歳入庁 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MyInvois SDK (MyInvois SDK)"
     url: "https://sdk.myinvois.hasil.gov.my/"
     publisher: "マレーシア内国歳入庁 (LHDN)"
@@ -74,10 +78,10 @@ sources:
   - title: "MyInvois SDK — 標準エラー応答 (MyInvois SDK — standard error response)"
     url: "https://sdk.myinvois.hasil.gov.my/standard-error-response/"
     publisher: "マレーシア内国歳入庁 (LHDN)"
-  - title: "電子インボイス個別ガイドライン（バージョン4.8） (e-Invoice Specific Guideline (Version 4.8))"
+  - title: "電子インボイス個別ガイドライン（バージョン4.9） (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "マレーシア内国歳入庁 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "MyInvois transmission mechanisms"
 relations:
@@ -138,7 +142,7 @@ framework: decision
 
 | 経路 | 適する対象 | 注意点 |
 | --- | --- | --- |
-| **直接ERP連携** | 維持管理されたマレーシア・ローカライゼーションを備えた成熟ERP、又は社内エンジニアリング能力を持つ事業者 | ガイドラインのバージョンが変わるたびの継続的な保守——v4.7とv4.8はいずれも2026年7月7日に公開された |
+| **直接ERP連携** | 維持管理されたマレーシア・ローカライゼーションを備えた成熟ERP、又は社内エンジニアリング能力を持つ事業者 | ガイドラインのバージョンが変わるたびの継続的な保守——一般ガイドラインは2026年8月30日にv4.8に、個別ガイドラインは2026年9月7日にv4.9に達した |
 | **Peppolサービスプロバイダー** | 取引先との相互運用可能な文書交換も望む事業者 | PeppolはMyInvoisの要件ではない；それが要件であるかのように費用を払わないこと |
 | **非Peppol技術プロバイダー／ミドルウェア** | 複数の元システム、POS拠点群、又はローカライゼーションのないERP | データの保管責任、退出条件、及び自社自身の認証情報で提出するかどうか |
 
@@ -157,7 +161,7 @@ SDKは、仲介者は**自社自身のClient IDとClient Secret**を用いて提
 
 ## 判断の道筋
 
-1. **免除対象か。** 年間売上高がRM1,000,000未満であれば、ここで終わりである。
+1. **免除対象か。** 年間売上高がRM3,000,000未満で、かつRM3,000,000以上のグループに属していなければ、ここで終わりである。
 2. 上記四つのカテゴリーすべてにわたって、**月次の文書数を数える**。
 3. **おおよそ百件未満で、ほとんどが統合か。** ポータルを、Excel一括アップロードとともに使う。毎年見直すこと。
 4. **数百から数千件で、単一の元システムか。** 自社のERPベンダーに、そのMyInvoisローカライゼーションが何をカバーするか尋ねる——具体的には自己請求種別11から14、及び輸入に係る附属書の項目である。

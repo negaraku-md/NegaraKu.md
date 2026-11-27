@@ -135,7 +135,7 @@ obligations:
     statute: "Income Tax Act 1967"
 
 lang: "vi"
-sourceContentHash: "d210ed718721460b"
+sourceContentHash: "a25b6554199519aa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -145,15 +145,19 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Cập nhật miễn trừ theo quy mô e-Invoice thành dưới RM3,000,000 kèm điều kiện nhóm theo mục 1.6.10; trích dẫn được làm mới thành e-Invoice Guideline v4.8 (30 tháng 8 năm 2026)."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "Companies Act 2016 (Act 777), tính đến ngày 1 tháng 8 năm 2022 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
@@ -175,7 +179,7 @@ sources:
   - title: "Lộ trình Triển khai Hóa đơn điện tử (cập nhật ngày 7 tháng 12 năm 2025) (e-Invoice Implementation Timeline (updated 7 December 2025))"
     url: "https://www.hasil.gov.my/en/e-invois/pelaksanaan-e-invois-di-malaysia/garis-masa-pelaksanaan-e-invois/"
     publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
-  - title: "Hướng dẫn Hóa đơn điện tử của IRBM (Phiên bản 4.7) (IRBM e-Invoice Guideline (Version 4.7))"
+  - title: "Hướng dẫn Hóa đơn điện tử của IRBM (Phiên bản 4.8) (IRBM e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
   - title: "Đăng ký Doanh nghiệp của bạn — MySST (Registering your Business — MySST)"
@@ -339,12 +343,15 @@ thuế từ ngày 1 tháng 7 năm 2025 (bao gồm cho thuê và dịch vụ tài
 ngưỡng nào, trước khi bạn giả định rằng bạn nằm ngoài nó.
 
 **e-Invoice** được phân giai đoạn theo doanh thu hằng năm. Người nộp thuế có doanh thu hằng năm dưới
-RM1 triệu được miễn triển khai e-Invoice; các ngày bắt buộc theo giai đoạn chạy
+RM3 triệu được miễn triển khai e-Invoice; các ngày bắt buộc theo giai đoạn chạy
 từ ngày 1 tháng 8 năm 2024 cho người nộp thuế trên RM100 triệu xuống đến ngày 1 tháng 1 năm 2026 cho
 băng lên đến RM5 triệu, theo dòng thời gian đã công bố của LHDN. Một Sdn Bhd mới thành lập do đó
-được miễn trong khi doanh thu của nó ở dưới RM1 triệu. Theo IRBM e-Invoice
-Guideline, một khi một doanh nghiệp mới vượt qua ngưỡng miễn RM1 triệu, nó được cho
-một ngày triển khai ưu đãi là ngày 1 tháng 7 năm 2026.
+được miễn trong khi doanh thu của nó ở dưới RM3 triệu — trừ khi, theo mục 1.6.10
+của Hướng dẫn, nó là một công ty con của một công ty mẹ, hoặc có một công ty liên
+quan hoặc một cổ đông không phải cá nhân, với doanh thu hằng năm ít nhất RM3 triệu,
+trong trường hợp đó sự miễn theo quy mô không áp dụng. Nếu không, một khi một doanh
+nghiệp mới vượt qua ngưỡng miễn RM3 triệu, nó được cho một ngày triển khai ưu đãi là
+ngày 1 tháng 7 năm 2026.
 
 ## Khi bạn tuyển dụng: EPF, SOCSO và EIS
 

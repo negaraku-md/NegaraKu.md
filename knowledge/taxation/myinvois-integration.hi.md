@@ -43,7 +43,7 @@ verificationNeeded:
   - "MyInvois पोर्टल बैच अपलोड स्प्रेडशीट में स्वीकृत पंक्तियों की अधिकतम संख्या — LHDN एक निश्चित संख्या का वर्णन करता है पर उसे बताता नहीं"
 
 lang: "hi"
-sourceContentHash: "12fac171732261f3"
+sourceContentHash: "098a1b33b5921f56"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -53,19 +53,23 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "छूट सीमा को RM3,000,000 से कम पर अद्यतन किया गया (खंड 1.6.10 की समूह-शर्त सहित) और मार्गदर्शिका उद्धरण सामान्य v4.8 (30 अगस्त 2026) और विशिष्ट v4.9 (7 सितंबर 2026) पर अद्यतन किए गए।"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "ई-चालान मार्गदर्शिका (संस्करण 4.7) — खंड 2.2 से 2.5 (e-Invoice Guideline (Version 4.7) — sections 2.2 to 2.5)"
+  - title: "ई-चालान मार्गदर्शिका (संस्करण 4.8) — खंड 2.2 से 2.5 (e-Invoice Guideline (Version 4.8) — sections 2.2 to 2.5)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "मलेशियाई आंतरिक राजस्व बोर्ड (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MyInvois SDK (MyInvois SDK)"
     url: "https://sdk.myinvois.hasil.gov.my/"
     publisher: "मलेशियाई आंतरिक राजस्व बोर्ड (LHDN)"
@@ -75,10 +79,10 @@ sources:
   - title: "MyInvois SDK — मानक त्रुटि प्रतिक्रिया (MyInvois SDK — standard error response)"
     url: "https://sdk.myinvois.hasil.gov.my/standard-error-response/"
     publisher: "मलेशियाई आंतरिक राजस्व बोर्ड (LHDN)"
-  - title: "ई-चालान विशिष्ट मार्गदर्शिका (संस्करण 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+  - title: "ई-चालान विशिष्ट मार्गदर्शिका (संस्करण 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "मलेशियाई आंतरिक राजस्व बोर्ड (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "MyInvois transmission mechanisms"
 relations:
@@ -166,7 +170,7 @@ framework: decision
 
 | मार्ग | किसके लिए उपयुक्त | किस पर ध्यान दें |
 | --- | --- | --- |
-| **सीधा ERP एकीकरण** | एक स्थापित ERP जिसमें अनुरक्षित मलेशियाई स्थानीयकरण हो, या आंतरिक इंजीनियरिंग क्षमता | मार्गदर्शिका संस्करण बदलने पर सतत अनुरक्षण — v4.7 और v4.8 दोनों 7 जुलाई 2026 को आए |
+| **सीधा ERP एकीकरण** | एक स्थापित ERP जिसमें अनुरक्षित मलेशियाई स्थानीयकरण हो, या आंतरिक इंजीनियरिंग क्षमता | मार्गदर्शिका संस्करण बदलने पर सतत अनुरक्षण — सामान्य मार्गदर्शिका 30 अगस्त 2026 को v4.8 पर और विशिष्ट मार्गदर्शिका 7 सितंबर 2026 को v4.9 पर पहुँची |
 | **Peppol सेवा प्रदाता** | वे व्यवसाय जो व्यापारिक साझेदारों के साथ अंतर-संचालनीय दस्तावेज़ विनिमय भी चाहते हैं | Peppol MyInvois की अनिवार्यता नहीं है; इसके लिए ऐसे भुगतान न करें मानो वह अनिवार्य हो |
 | **गैर-Peppol प्रौद्योगिकी प्रदाता / मिडलवेयर** | कई स्रोत सिस्टम, POS तंत्र, या बिना स्थानीयकरण वाला ERP | डेटा संरक्षण, निकास शर्तें, और क्या वे अपनी स्वयं की साख के तहत प्रस्तुत करते हैं |
 
@@ -195,7 +199,7 @@ SDK बताता है कि मध्यस्थ **अपने स्व
 
 ## एक निर्णय-पथ
 
-1. **क्या आप छूट-प्राप्त हैं?** RM1,000,000 वार्षिक टर्नओवर से नीचे, रुक जाएँ।
+1. **क्या आप छूट-प्राप्त हैं?** RM3,000,000 वार्षिक टर्नओवर से नीचे, और RM3,000,000 या अधिक वाले किसी समूह से बंधे न हों, तो रुक जाएँ।
 2. ऊपर की सभी चार श्रेणियों में **मासिक दस्तावेज़ गिनें**।
 3. **लगभग सौ से कम, अधिकांशतः समेकित?** पोर्टल, Excel बैच अपलोड के साथ। सालाना पुनर्विचार
    करें।

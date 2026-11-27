@@ -12,11 +12,11 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "e-Invois memerlukan data invois dihantar ke sistem MyInvois LHDN untuk disahkan, sama ada melalui Portal MyInvois yang percuma atau sistem yang disepadukan melalui API. Dokumen yang disahkan menerima Nombor Pengenalan Unik dan kod QR. Mandat ini dilaksanakan secara berfasa mengikut perolehan tahunan, dengan fasa terakhir merangkumi perniagaan sehingga RM5 juta bermula 1 Januari 2026, manakala perniagaan dengan perolehan bawah RM1 juta dikecualikan. Setiap fasa membawa tempoh kelonggaran interimnya sendiri."
+answer: "e-Invois memerlukan data invois dihantar ke sistem MyInvois LHDN untuk disahkan, sama ada melalui Portal MyInvois yang percuma atau sistem yang disepadukan melalui API. Dokumen yang disahkan menerima Nombor Pengenalan Unik dan kod QR. Mandat ini dilaksanakan secara berfasa mengikut perolehan tahunan, dengan fasa terakhir merangkumi perniagaan sehingga RM5 juta bermula 1 Januari 2026, manakala perniagaan dengan perolehan bawah RM3 juta dikecualikan. Setiap fasa membawa tempoh kelonggaran interimnya sendiri."
 keyTakeaways:
   - "Pengesahan berlaku melalui MyInvois sebelum dokumen itu berfungsi sebagai invois bagi tujuan cukai pendapatan"
   - "Empat fasa, tiada fasa kelima — fasa terakhir bermula 1 Januari 2026 bagi perolehan sehingga RM5 juta"
-  - "Perniagaan dengan perolehan tahunan bawah RM1,000,000 dikecualikan"
+  - "Perniagaan dengan perolehan tahunan bawah RM3,000,000 dikecualikan — melainkan terikat dengan kumpulan yang melebihi ambang itu"
   - "Fasa anda ditetapkan oleh angka FY2022 atau YA2022 dan tidak berubah selepas itu"
   - "e-Invois yang disahkan LHDN tidak secara automatik memenuhi peraturan invois cukai SST — itu adalah keperluan dokumen yang berasingan"
 appliesTo: "Pemilik perniagaan, pasukan kewangan dan pentadbir sistem yang bersedia untuk atau sedang beroperasi di bawah mandat e-Invois."
@@ -26,7 +26,7 @@ verificationNeeded: []
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "46533f76e2996181"
+sourceContentHash: "7269dd5c2ab6076f"
 
 status: "published"
 aiAssisted: true
@@ -34,23 +34,27 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Ambang pengecualian saiz dibetulkan kepada bawah RM3,000,000 dan syarat kumpulan seksyen 1.6.10 baharu dicatatkan, menurut e-Invoice Guideline v4.8 (30 Ogos 2026); sitasi garis panduan dikemas kini (Umum v4.8, Khusus v4.9)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "Garis Panduan e-Invois IRBM (IRBM e-Invoice Guideline)"
+  - title: "Garis Panduan e-Invois IRBM (Versi 4.8) (IRBM e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
-    date: "2026-07-07"
-  - title: "Garis Panduan Khusus e-Invois IRBM (IRBM e-Invoice Specific Guideline)"
+    date: "2026-08-30"
+  - title: "Garis Panduan Khusus e-Invois IRBM (Versi 4.9) (IRBM e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
   - title: "Portal MyInvois (MyInvois Portal)"
     url: "https://myinvois.hasil.gov.my/"
     publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
@@ -105,13 +109,17 @@ kebanyakannya mempunyai jawapan khusus.
 
 **Tiada fasa kelima.** Pelaksanaan berjalan dalam empat fasa mengikut
 perolehan tahunan, berakhir dengan kohort sehingga RM5 juta bermula 1 Januari
-2026. Perniagaan dengan perolehan tahunan bawah **RM1,000,000** dikecualikan,
+2026. Perniagaan dengan perolehan tahunan bawah **RM3,000,000** dikecualikan,
 bersama pejabat diplomatik asing dan individu yang tidak menjalankan
-perniagaan. Ini tidak bercanggah dengan tarikh mula **1 Julai 2026** yang
-berasingan dan terpakai kepada perniagaan yang *baharu bermula* — sebuah
-perniagaan yang bermula antara 2023 hingga 2025 dengan perolehan RM1 juta atau
-lebih akan terlibat pada tarikh tersebut. Ia adalah peraturan bagi peserta
-baharu yang tiada asas FY2022, bukan fasa perolehan kelima.
+perniagaan. Pengecualian saiz ini membawa satu syarat: di bawah seksyen 1.6.10
+Garis Panduan, ia gugur jika pemegang saham bukan individu, syarikat induk atau
+syarikat berkaitan itu sendiri berada pada RM3 juta atau lebih — [panduan
+fasa](/taxation/myinvois-phases) mempunyai ujiannya. Ini tidak bercanggah
+dengan tarikh mula **1 Julai 2026** yang berasingan dan terpakai kepada
+perniagaan yang *baharu bermula* — sebuah perniagaan yang bermula antara 2023
+hingga 2025 dengan perolehan RM3 juta atau lebih akan terlibat pada tarikh
+tersebut. Ia adalah peraturan bagi peserta baharu yang tiada asas FY2022, bukan
+fasa perolehan kelima.
 
 **Fasa anda tetap, bukan terapung.** Ia ditentukan oleh penyata kewangan
 diaudit FY2022 atau pemulangan YA2022, diselaraskan secara pro rata jika akhir

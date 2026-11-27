@@ -43,7 +43,7 @@ verificationNeeded:
   - "Jumlah maksimum baris yang diterima dalam lembar kerja unggah massal MyInvois Portal — LHDN menyebut suatu jumlah tanpa menyatakannya"
 
 lang: "id"
-sourceContentHash: "12fac171732261f3"
+sourceContentHash: "098a1b33b5921f56"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -53,19 +53,23 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Ambang pengecualian diperbarui menjadi di bawah RM3,000,000 (dengan kondisi kelompok section 1.6.10) dan kutipan garis panduan diperbarui menjadi Umum v4.8 (30 Agustus 2026) dan Khusus v4.9 (7 September 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "Pedoman e-Invois (Versi 4.7) — bagian 2.2 hingga 2.5 (e-Invoice Guideline (Version 4.7) — sections 2.2 to 2.5)"
+  - title: "Pedoman e-Invois (Versi 4.8) — bagian 2.2 hingga 2.5 (e-Invoice Guideline (Version 4.8) — sections 2.2 to 2.5)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Badan Pendapatan Dalam Negeri Malaysia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MyInvois SDK (MyInvois SDK)"
     url: "https://sdk.myinvois.hasil.gov.my/"
     publisher: "Badan Pendapatan Dalam Negeri Malaysia (LHDN)"
@@ -75,10 +79,10 @@ sources:
   - title: "MyInvois SDK — respons galat standar (MyInvois SDK — standard error response)"
     url: "https://sdk.myinvois.hasil.gov.my/standard-error-response/"
     publisher: "Badan Pendapatan Dalam Negeri Malaysia (LHDN)"
-  - title: "Pedoman Khusus e-Invois (Versi 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+  - title: "Pedoman Khusus e-Invois (Versi 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "Badan Pendapatan Dalam Negeri Malaysia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "MyInvois transmission mechanisms"
 relations:
@@ -171,7 +175,7 @@ bervolume tinggi, apa pun yang dikatakan oleh buku besar penjualannya.
 
 | Jalur | Cocok untuk | Perhatikan |
 | --- | --- | --- |
-| **Integrasi ERP langsung** | ERP yang mapan dengan lokalisasi Malaysia yang terpelihara, atau kemampuan rekayasa internal | Pemeliharaan berkelanjutan apabila versi pedoman berubah — v4.7 dan v4.8 keduanya dikeluarkan pada 7 Juli 2026 |
+| **Integrasi ERP langsung** | ERP yang mapan dengan lokalisasi Malaysia yang terpelihara, atau kemampuan rekayasa internal | Pemeliharaan berkelanjutan apabila versi pedoman berubah — Garis Panduan Umum mencapai v4.8 pada 30 Agustus 2026 dan Garis Panduan Khusus v4.9 pada 7 September 2026 |
 | **Penyedia layanan Peppol** | Usaha yang juga menginginkan pertukaran dokumen yang dapat saling beroperasi dengan mitra niaga | Peppol bukan persyaratan MyInvois; jangan bayar untuknya seolah-olah ia adalah satu |
 | **Penyedia teknologi bukan-Peppol / middleware** | Beberapa sistem sumber, kumpulan POS, atau ERP tanpa lokalisasi | Penjagaan data, syarat keluar, dan apakah mereka mengirim di bawah kredensial (credentials) mereka sendiri |
 
@@ -203,8 +207,8 @@ vendor Anda.
 
 ## Jalur keputusan
 
-1. **Apakah Anda dikecualikan?** Di bawah peredaran tahunan RM1,000,000, berhenti
-   di sini.
+1. **Apakah Anda dikecualikan?** Di bawah peredaran tahunan RM3,000,000, dan tidak
+   terikat pada suatu kelompok pada RM3,000,000 atau lebih, berhenti di sini.
 2. **Hitung dokumen bulanan** lintas keempat kategori di atas.
 3. **Kira-kira di bawah seratus, kebanyakannya dikonsolidasikan?** Portal, dengan
    unggah massal Excel. Periksa ulang setiap tahun.

@@ -19,7 +19,7 @@ keyTakeaways:
   - "Seksyen 39(1)(a) menyekat perbelanjaan domestik dan persendirian — agihkan pejabat rumah mengikut bahagian, jangan sesekali tuntut keseluruhan rumah"
   - "Ansuran CP500 boleh diubah sekali menjelang 30 Jun dan sekali lagi menjelang 31 Oktober, bukan hanya sekali"
   - "Kenaikan 10% di bawah s.107B(4) hanya terpakai pada lebihan melebihi margin 30%, dan hanya jika anda memohon untuk mengubah ansuran"
-  - "Pengecualian e-Invois bagi perolehan tahunan di bawah RM1,000,000 adalah kekal, bukan penangguhan"
+  - "Pengecualian e-Invois bagi perolehan tahunan di bawah RM3,000,000 adalah kekal, bukan penangguhan"
   - "Akta Pekerja Gig 2025 mengubah klasifikasi undang-undang buruh anda, bukan klasifikasi cukai anda"
 appliesTo: "Pekerja bebas (freelancer), kontraktor, pencipta kandungan, penunggang dan pemandu platform, serta sesiapa sahaja yang mempunyai pendapatan di luar slip gaji."
 
@@ -31,7 +31,7 @@ faq:
   - q: "Apakah perbezaan antara pendapatan s.4(a) dan s.4(f)?"
     a: "Seksyen 4(a) meliputi keuntungan atau perolehan daripada perniagaan; s.4(f) adalah kelas baki bagi keuntungan atau perolehan yang tidak termasuk di bawah mana-mana perenggan terdahulu. Seksyen 4(a) membawa bersamanya keseluruhan mekanisme potongan dan elaun modal, serta pelepasan kerugian. Seksyen 4(f) tiada semua itu, jadi klasifikasi s.4(f) biasanya bermakna membayar cukai atas sesuatu yang hampir kepada jumlah kasar."
   - q: "Perlukah pekerja gig mengeluarkan e-Invois?"
-    a: "Hanya apabila mereka berada dalam skop. Pengecualian e-Invois bagi perolehan atau hasil tahunan di bawah RM1,000,000 adalah pengecualian kekal, bukan penangguhan. Perniagaan yang bermula antara 2023 hingga 2025 dengan perolehan sekurang-kurangnya RM1 juta bermula pada 1 Julai 2026, dan kohort Fasa 4 mempunyai tempoh kelonggaran sementara sehingga 31 Disember 2027."
+    a: "Hanya apabila mereka berada dalam skop. Pengecualian e-Invois bagi perolehan atau hasil tahunan di bawah RM3,000,000 adalah pengecualian kekal, bukan penangguhan. Perniagaan yang bermula antara 2023 hingga 2025 dengan perolehan sekurang-kurangnya RM3 juta bermula pada 1 Julai 2026, dan kohort Fasa 4 mempunyai tempoh kelonggaran sementara sehingga 31 Disember 2027."
   - q: "Adakah Akta Pekerja Gig 2025 mengubah cukai saya?"
     a: "Tidak. Akta 872 adalah statut klasifikasi untuk tujuan buruh dan keselamatan sosial dan mentakrifkan siapa yang dikira sebagai pekerja gig di bawah perjanjian perkhidmatan. Klasifikasi cukai pendapatan anda masih bergantung kepada s.4 Akta Cukai Pendapatan 1967, dan berada di bawah Akta 872 tidak menjadikan anda pekerja bergaji untuk tujuan cukai."
 
@@ -42,7 +42,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4902766a1bf0ff6f"
+sourceContentHash: "9704634ba023d531"
 
 status: "published"
 aiAssisted: true
@@ -50,14 +50,18 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Ambang pengecualian e-Invois dikemas kini kepada di bawah RM3,000,000 (dan ambang perniagaan baharu kepada RM3 juta) menurut Garis Panduan e-Invois v4.8 (30 Ogos 2026); petikan dikemas kini."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
   - title: "Income Tax Act 1967 (Act 53), cetakan semula 21 Mei 2024 — ss.4, 33, 39, 107B (Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — ss.4, 33, 39, 107B)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -67,10 +71,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia"
     date: "2025-12-30"
-  - title: "Garis Panduan e-Invois (e-Invoice Guideline)"
+  - title: "Garis Panduan e-Invois (Versi 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "Kadar Cukai — Individu (Kadar Cukai — Individu)"
     url: "https://www.hasil.gov.my/individu/kadar-cukai/"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia"
@@ -203,9 +207,9 @@ benar-benar berada di luar skopnya.
 
 | Kedudukan | Kesan |
 | --- | --- |
-| Perolehan atau hasil tahunan di bawah **RM1,000,000** | **Dikecualikan** — pengecualian kekal, bukan penangguhan |
+| Perolehan atau hasil tahunan di bawah **RM3,000,000** | **Dikecualikan** — pengecualian kekal, bukan penangguhan |
 | Individu yang tidak menjalankan perniagaan | Dikecualikan |
-| Bermula antara 2023 hingga 2025 dengan perolehan sekurang-kurangnya RM1 juta | Wajib bermula **1 Julai 2026** |
+| Bermula antara 2023 hingga 2025 dengan perolehan sekurang-kurangnya RM3 juta | Wajib bermula **1 Julai 2026** |
 | Bermula 2026 atau selepasnya | 1 Julai 2026 atau tarikh permulaan |
 | Kelonggaran sementara kohort Fasa 4 | Sehingga **31 Disember 2027** |
 
@@ -251,7 +255,7 @@ dilaporkan.
 - **Menganggap pilihan cukai muktamad s.77C melindungi anda.** Ia memerlukan
   pendapatan pekerjaan **sahaja**. Sebarang pendapatan bebas menggugurkan anda
   daripadanya dan anda mesti memfailkan.
-- **Menganggap angka RM1 juta e-Invois sebagai kelewatan.** Ia adalah
+- **Menganggap angka RM3 juta e-Invois sebagai kelewatan.** Ia adalah
   pengecualian kekal yang terikat kepada perolehan, dan ia hilang pada tahun
   anda melepasinya.
 - **Membaca Akta 872 sebagai pengklasifikasian semula cukai.** Ia bukan

@@ -12,11 +12,11 @@ mode: "practical"
 contentType: "data"
 sensitivity: "none"
 
-answer: "マレーシアの電子インボイス義務化は、FY2022の売上高に応じて四段階で進む。2024年8月1日はRM1億超、2025年1月1日はRM2,500万超からRM1億まで、2025年7月1日はRM500万超からRM2,500万まで、2026年1月1日はRM500万までである。年間売上高がRM100万未満の納税者は免除される。2023年以降に事業を開始した事業者は2026年7月1日から開始する。"
+answer: "マレーシアの電子インボイス義務化は、FY2022の売上高に応じて四段階で進む。2024年8月1日はRM1億超、2025年1月1日はRM2,500万超からRM1億まで、2025年7月1日はRM500万超からRM2,500万まで、2026年1月1日はRM500万までである。年間売上高がRM300万未満の納税者は免除される（ただし、その基準額を超えるグループに属している場合を除く）。2023年以降に事業を開始し、売上高が少なくともRM300万の事業者は2026年7月1日から開始する。"
 keyTakeaways:
   - "段階は四つだけ——自社が属する段階はFY2022の売上高によって固定され、その後は変わらない"
-  - "年間売上高又は収入がRM1,000,000未満であれば完全な免除であり、延期ではない"
-  - "2023年から2025年の間に開業し、売上高が少なくともRM100万の新規事業者は、2026年7月1日から開始する"
+  - "年間売上高又は収入がRM3,000,000未満であれば完全な免除であり、延期ではない——ただし、株主、持株会社又は関連会社がRM3,000,000以上である場合には撤回される"
+  - "2023年から2025年の間に開業し、売上高が少なくともRM300万の新規事業者は、2026年7月1日から開始する"
   - "第4段階の納税者には、2027年12月31日まで続く暫定緩和期間がある"
   - "緩和期間中は、すべてを統合し、個別電子インボイスの要求を拒否することができる"
   - "電子インボイスSVDPが2026年7月7日から2027年12月31日まで開放され、漏れた提出を是正できる"
@@ -72,37 +72,41 @@ obligations:
         op: "lt"
         value: 1000000
     exemption: true
-    due: "Full exemption if annual turnover or revenue is below RM1,000,000; otherwise mandatory, as all phases are now in force"
+    due: "Full exemption if annual turnover or revenue is below RM3,000,000 and not tied to a group at RM3,000,000 or more; otherwise mandatory, as all phases are now in force"
     authority: "LHDN"
     statute: "Income Tax Act 1967, s.82C"
 
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "fe5d22ede93ea4c0"
+sourceContentHash: "a4aa5bd3b9ec2d19"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "規模免除を RM3,000,000 未満に引き上げ、新設の section 1.6.10 のグループ売上高条件を追加。新規事業者の基準額を RM3,000,000 に更新。ガイドライン引用を General v4.8（2026年8月30日）および Specific v4.9（2026年9月7日）に更新。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "電子インボイス・ガイドライン（バージョン4.7） (e-Invoice Guideline (Version 4.7))"
+  - title: "電子インボイス・ガイドライン（バージョン4.8） (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "マレーシア内国歳入庁 (LHDN)"
-    date: "2026-07-07"
-  - title: "電子インボイス個別ガイドライン（バージョン4.8） (e-Invoice Specific Guideline (Version 4.8))"
+    date: "2026-08-30"
+  - title: "電子インボイス個別ガイドライン（バージョン4.9） (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "マレーシア内国歳入庁 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
   - title: "電子インボイス導入タイムライン (Garis Masa Pelaksanaan e-Invois)"
     url: "https://www.hasil.gov.my/e-invois/garis-masa-pelaksanaan-e-invois/"
     publisher: "マレーシア内国歳入庁 (LHDN)"
@@ -120,13 +124,13 @@ relations:
   - { rel: "explained-in", to: "e-invoice-data-fields" }
   - { rel: "related-to", to: "consolidated-e-invoice" }
 related: ["e-invoicing", "consolidated-e-invoice", "self-billed-e-invoice", "myinvois-integration", "e-invoice-data-fields"]
-keywords: ["MyInvois phases", "e-Invoice implementation date Malaysia", "e-Invoice exemption RM1 million", "e-Invoice relaxation period", "LHDN e-Invoice timeline", "tarikh pelaksanaan e-invois"]
+keywords: ["MyInvois phases", "e-Invoice implementation date Malaysia", "e-Invoice exemption RM3 million", "e-Invoice relaxation period", "LHDN e-Invoice timeline", "tarikh pelaksanaan e-invois"]
 framework: data-reference
 ---
 
-すべてを決めるのは二つの数字である。ひとつは自社のFY2022売上高で、これが段階を恒久的に固定する。もうひとつはRM1,000,000で、これを下回ればこの制度から完全に外れる。このページの残りはすべて細部にすぎない。
+すべてを決めるのは二つの数字である。ひとつは自社のFY2022売上高で、これが段階を恒久的に固定する。もうひとつはRM3,000,000で、これを下回ればこの制度から完全に外れる（ただし、より大きなグループに属している場合を除く）。このページの残りはすべて細部にすぎない。
 
-このページはデータとして維持されている。日付がこれまでに一度ならず変更されてきたためである。以下の数字は、いずれも2026年7月7日に公表された**e-Invoice Guideline第4.7版**と**e-Invoice Specific Guideline第4.8版**から読み取ったものである。
+このページはデータとして維持されている。日付がこれまでに一度ならず変更されてきたためである。以下の数字は、**e-Invoice Guideline第4.8版**（2026年8月30日）および**e-Invoice Specific Guideline第4.9版**（2026年9月7日）から読み取ったものである。
 
 ## 強制段階の日付は何か？
 
@@ -137,7 +141,7 @@ framework: data-reference
 | 3 | **RM500万を超えRM2,500万以下** | **2025年7月1日** |
 | 4 | **RM500万以下** | **2026年1月1日** |
 
-第5段階は存在しない。RM150,000～RM500,000の区分を対象とする第5段階は、以前の指針の版には存在したが、第4.7版では姿を消している。
+第5段階は存在しない。RM150,000～RM500,000の区分を対象とする第5段階は、以前の指針の版には存在したが、現行の指針では姿を消している。
 
 ## 自社の段階はどう決まるのか？
 
@@ -153,21 +157,21 @@ framework: data-reference
 
 | 事業開始時期 | 電子インボイス実施日 |
 | --- | --- |
-| 2023年から2025年、売上高がRM1,000,000以上 | **2026年7月1日** |
+| 2023年から2025年、売上高がRM3,000,000以上 | **2026年7月1日** |
 | 2026年以降 | **2026年7月1日**又は開業日 |
-| 2026年以降、初年度の売上高がRM1,000,000未満 | 売上高がRM1,000,000に達した年の**翌々年1月1日** |
+| 2026年以降、初年度の売上高がRM3,000,000未満 | 売上高がRM3,000,000に達した年の**翌々年1月1日** |
 
 ## 誰が免除されるのか？
 
 指針のsection 1.6.1は、自己請求を含むいかなる電子インボイスの発行からも、次の者を免除している。
 
-- 年間売上高又は収入が**RM1,000,000未満**の納税者
+- 年間売上高又は収入が**RM3,000,000未満**の納税者
 - 外国の外交機関
 - 事業を営んでいない個人
 - 法定機関、法定当局及び地方当局——法定徴収について、並びに**2025年7月1日より前**に販売された物品又は提供された役務について
 - 国際機関——**2025年7月1日より前**に販売された物品又は提供された役務について
 
-免除はその者個人に付随するものであり、グループには付随しない。Section 1.6.5——免除される者が所有する会社であっても、自社独自の日程で実施する。
+規模免除を限定する規則が二つある。Section 1.6.5は*その他の*免除を個人に付随するものとして維持する——免除される者が所有する会社であっても、自社独自の日程で実施する。第4.8版で新設されたSection 1.6.10は、規模免除については逆のことを行う：非個人の株主、持株会社、又は関連会社若しくはジョイントベンチャーが年間売上高又は収入でRM3,000,000以上である納税者からは、RM3,000,000未満の免除を撤回する。したがって、より大きなグループに属する小規模な会社は、自社の規模にかかわらず対象となる。
 
 これとは別に、section 1.6.7は特定の所得類型を対象から除外している——雇用所得、年金、扶養手当、ザカート、特定の配当分配、取引所で取引される証券及びデリバティブ契約の価額、並びに非上場株式の処分。ただし処分者が会社、LLP、信託機関又は協同組合である場合を除く。
 
@@ -205,7 +209,7 @@ framework: data-reference
 
 ## よくある誤り
 
-- **RM100万という数字を延期だと捉えること。** これはsection 1.6.1に定める常設の免除である。また段階でもない——第5段階は存在しない。
+- **RM300万という数字を延期だと捉えること。** これはsection 1.6.1に定める常設の免除である。また段階でもない——第5段階は存在しない。
 - **現在の売上高から段階を再計算すること。** 判定基準はFY2022の一度きりである。
 - **第4段階の緩和を休暇だと読むこと。** 統合提出は優遇措置の条件であって、その代わりの選択肢ではない。
 - **72時間の窓を訂正のための猶予だと思い込むこと。** それは取消であり、修正ではない。72時間を過ぎた後は、クレジットノート、デビットノート又は返金ノートの電子インボイスを発行することになる。

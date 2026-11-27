@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "cf809540c51ed69e"
+sourceContentHash: "88e1064951c53abf"
 
 status: "published"
 aiAssisted: true
@@ -36,14 +36,18 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Ambang pengecualian e-Invois dikemas kini kepada bawah RM3,000,000 dan sitasi e-Invoice Guideline dikemas kini kepada v4.8 (30 Ogos 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
   - title: "Finance (No. 2) Act 2023 (Act 851) — seksyen 82C (Finance (No. 2) Act 2023 (Act 851) — section 82C)"
     url: "https://www.myttx.customs.gov.my/wp-content/uploads/2024/02/WJW23%EF%80%A21341-BI.pdf"
@@ -55,10 +59,10 @@ sources:
   - title: "Sales Tax Regulations 2018 — peraturan 7 (Sales Tax Regulations 2018 — regulation 7)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Sales-Tax-Regulations-2018.pdf"
     publisher: "Jabatan Kastam Diraja Malaysia (RMCD)"
-  - title: "Garis Panduan e-Invois (Versi 4.7) (e-Invoice Guideline (Version 4.7))"
+  - title: "Garis Panduan e-Invois (Versi 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MySST — Mengeluarkan Invois (MySST — Issuing Invoices)"
     url: "https://mysst.customs.gov.my/issuing-invoices/"
     publisher: "Jabatan Kastam Diraja Malaysia (RMCD)"
@@ -92,7 +96,7 @@ mahukan dua perkara berbeza daripada dokumen kertas yang sama.
 | Tujuan | Bukti pendapatan dan perbelanjaan untuk cukai pendapatan | Bukti cukai yang dikenakan untuk perakaunan SST |
 
 Tiada satu pun menggantikan yang lain. Sebuah syarikat berdaftar SST dengan
-perolehan di bawah RM1 juta dikecualikan daripada e-Invois dan masih
+perolehan di bawah RM3 juta dikecualikan daripada e-Invois dan masih
 mengeluarkan invois SST. Syarikat besar yang tidak berdaftar pula sebaliknya.
 
 ## Peruntukan yang sebenarnya mentadbir perkara ini

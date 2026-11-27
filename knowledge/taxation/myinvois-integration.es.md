@@ -43,7 +43,7 @@ verificationNeeded:
   - "The maximum number of rows accepted in the MyInvois Portal batch upload spreadsheet — LHDN describes a certain number without stating it"
 
 lang: "es"
-sourceContentHash: "12fac171732261f3"
+sourceContentHash: "098a1b33b5921f56"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -53,19 +53,23 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Umbral de exención actualizado a menos de RM3,000,000 (con la condición de grupo de la sección 1.6.10) y citaciones de las guías actualizadas a General v4.8 (30 de agosto de 2026) y Específica v4.9 (7 de septiembre de 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "Guía de la factura electrónica (Versión 4.7) — secciones 2.2 a 2.5 (e-Invoice Guideline (Version 4.7) — sections 2.2 to 2.5)"
+  - title: "Guía de la factura electrónica (Versión 4.8) — secciones 2.2 a 2.5 (e-Invoice Guideline (Version 4.8) — sections 2.2 to 2.5)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Junta de Ingresos Internos de Malasia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MyInvois SDK (MyInvois SDK)"
     url: "https://sdk.myinvois.hasil.gov.my/"
     publisher: "Junta de Ingresos Internos de Malasia (LHDN)"
@@ -75,10 +79,10 @@ sources:
   - title: "MyInvois SDK — respuesta de error estándar (MyInvois SDK — standard error response)"
     url: "https://sdk.myinvois.hasil.gov.my/standard-error-response/"
     publisher: "Junta de Ingresos Internos de Malasia (LHDN)"
-  - title: "Guía específica de la factura electrónica (Versión 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+  - title: "Guía específica de la factura electrónica (Versión 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "Junta de Ingresos Internos de Malasia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "MyInvois transmission mechanisms"
 relations:
@@ -139,7 +143,7 @@ Un taller que vende tres coches al mes tiene una carga de trabajo trivial en el 
 
 | Vía | Adecuada para | A lo que hay que prestar atención |
 | --- | --- | --- |
-| **Integración directa con el ERP** | ERP consolidado con una localización malasia mantenida, o capacidad de ingeniería interna | Mantenimiento continuo a medida que cambian las versiones de la guía — la v4.7 y la v4.8 aterrizaron ambas el 7 de julio de 2026 |
+| **Integración directa con el ERP** | ERP consolidado con una localización malasia mantenida, o capacidad de ingeniería interna | Mantenimiento continuo a medida que cambian las versiones de la guía — la Guía General alcanzó la v4.8 el 30 de agosto de 2026 y la Guía Específica la v4.9 el 7 de septiembre de 2026 |
 | **Proveedor de servicios Peppol** | Negocios que además quieren un intercambio de documentos interoperable con socios comerciales | Peppol no es un requisito de MyInvois; no pague por él como si lo fuera |
 | **Proveedor tecnológico no Peppol / middleware** | Varios sistemas de origen, parques de POS, o un ERP sin localización | Custodia de los datos, condiciones de salida, y si envían con sus propias credenciales |
 
@@ -158,7 +162,7 @@ Sobre las caídas, LHDN ofrece un alivio. La sección 2.5.4 de la Guía de la fa
 
 ## Un itinerario de decisión
 
-1. **¿Está exento?** Por debajo de RM1,000,000 de facturación anual, deténgase.
+1. **¿Está exento?** Por debajo de RM3,000,000 de facturación anual, y no vinculado a un grupo de RM3,000,000 o más, deténgase.
 2. **Cuente los documentos mensuales** en las cuatro categorías anteriores.
 3. **¿Menos de un centenar, en su mayoría consolidados?** El portal, con la carga por lotes de Excel. Revíselo cada año.
 4. **¿De cientos a miles, un único sistema de origen?** Pregunte a su proveedor de ERP qué cubre su localización de MyInvois — en concreto, los tipos por cuenta propia 11 a 14 y los campos de anexo para las importaciones.

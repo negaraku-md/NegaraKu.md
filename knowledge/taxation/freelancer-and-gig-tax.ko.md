@@ -19,7 +19,7 @@ keyTakeaways:
   - "제39(1)(a)조는 가사 및 사적 비용을 차단합니다 — 재택 사무실은 안분하고, 집 전체를 청구해서는 안 됩니다"
   - "CP500 분납은 6월 30일까지 한 번, 10월 31일까지 한 번 변경할 수 있으며, 단 한 번만이 아닙니다"
   - "제107B(4)조의 10% 가산은 30% 여유를 초과하는 부분에만, 그리고 변경을 신청한 경우에만 적용됩니다"
-  - "연간 매출 RM1,000,000 미만의 전자송장 면제는 유예가 아니라 영구적입니다"
+  - "연간 매출 RM3,000,000 미만의 전자송장 면제는 유예가 아니라 영구적입니다"
   - "긱 워커법 2025(Gig Workers Act 2025)는 귀하의 노동법상 분류를 바꾸는 것이지 세무상 분류를 바꾸는 것이 아닙니다"
 appliesTo: "프리랜서, 계약자, 콘텐츠 크리에이터, 플랫폼 배달원과 기사, 그리고 급여명세서 밖의 소득이 있는 모든 사람."
 
@@ -31,7 +31,7 @@ faq:
   - q: "제4(a)조 소득과 제4(f)조 소득의 차이는 무엇입니까?"
     a: "제4(a)조는 사업으로부터의 이득이나 이익을 다루고, 제4(f)조는 앞선 어느 항에도 해당하지 않는 이득이나 이익에 대한 잔여 분류입니다. 제4(a)조는 공제와 자본공제 장치 전체와 손실 감면을 함께 가져옵니다. 제4(f)조에는 그런 것이 전혀 없으므로, 제4(f)조 분류는 대개 총액에 가까운 금액에 대해 세금을 내는 것을 의미합니다."
   - q: "긱 워커는 전자송장을 발행해야 합니까?"
-    a: "적용 대상이 된 경우에만 그렇습니다. 연간 매출 또는 수입 RM1,000,000 미만에 대한 전자송장 면제는 유예가 아니라 상시 면제입니다. 매출 RM100만 이상으로 2023년부터 2025년 사이에 개시한 사업체는 2026년 7월 1일에 시작하며, 4단계 집단은 2027년 12월 31일까지 이어지는 잠정 완화 기간을 갖습니다."
+    a: "적용 대상이 된 경우에만 그렇습니다. 연간 매출 또는 수입 RM3,000,000 미만에 대한 전자송장 면제는 유예가 아니라 상시 면제입니다. 매출 RM300만 이상으로 2023년부터 2025년 사이에 개시한 사업체는 2026년 7월 1일에 시작하며, 4단계 집단은 2027년 12월 31일까지 이어지는 잠정 완화 기간을 갖습니다."
   - q: "긱 워커법 2025(Gig Workers Act 2025)가 내 세금을 바꿉니까?"
     a: "아닙니다. Act 872는 노동 및 사회보장 목적의 분류 법률로서 용역 계약에 따라 누가 긱 워커로 인정되는지를 정의합니다. 귀하의 소득세 분류는 여전히 소득세법(Income Tax Act 1967) 제4조에 달려 있으며, Act 872의 적용을 받는다고 해서 세무상 근로자가 되는 것은 아닙니다."
 
@@ -40,7 +40,7 @@ verificationNeeded:
   - "플랫폼 운영자가 개별 긱 워커에 대한 지급에 대해 자기청구 전자송장을 발행해야 하는지, 그리고 어느 단계에서인지는 현행 전자송장 세부 지침(e-Invoice Specific Guideline)에 대조하여 확인해야 합니다"
 
 lang: "ko"
-sourceContentHash: "4902766a1bf0ff6f"
+sourceContentHash: "9704634ba023d531"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -49,14 +49,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "e-Invoice exemption threshold updated to below RM3,000,000 (and new-business threshold to RM3 million) per e-Invoice Guideline v4.8 (30 August 2026); citation refreshed."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
   - title: "Income Tax Act 1967 (Act 53), 2024년 5월 21일 재발행본 — ss.4, 33, 39, 107B (Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — ss.4, 33, 39, 107B)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -66,10 +70,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
     publisher: "말레이시아 내국세청 (LHDN)"
     date: "2025-12-30"
-  - title: "전자 송장 가이드라인 (e-Invoice Guideline)"
+  - title: "전자 송장 가이드라인 (버전 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "말레이시아 내국세청 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "세율 — 개인 (Kadar Cukai — Individu)"
     url: "https://www.hasil.gov.my/individu/kadar-cukai/"
     publisher: "말레이시아 내국세청 (LHDN)"
@@ -152,7 +156,7 @@ framework: explainer
 
 | 입장 | 효과 |
 | --- | --- |
-| 연간 매출이나 수입이 **RM1,000,000** 미만 | **면제** — 상시 면제이지 유예가 아님 |
+| 연간 매출이나 수입이 **RM3,000,000** 미만 | **면제** — 상시 면제이지 유예가 아님 |
 | 사업을 영위하지 않는 개인 | 면제 |
 | 2023년부터 2025년 사이에 매출 RM100만 이상으로 개시 | **2026년 7월 1일**부터 의무 |
 | 2026년 이후 개시 | 2026년 7월 1일 또는 개시일 |
@@ -175,7 +179,7 @@ Act 872는 **분류** 법률입니다. 긱 워커와 용역 계약을 정의하�
 - **장비를 비용 처리하는 것.** 자본 항목은 제33(1)조가 아니라 부칙 3 자본공제를 통합니다.
 - **부과가 이루어지지 않았다는 이유로 CP500을 무시하는 것.** 제107B(1)조는 세금이 부과되었는지 여부와 관계없이 작동하며, 제107B(3)조에 따른 10%는 통지 없이 적용됩니다.
 - **제77C조 최종 세금 선택이 자신을 포괄한다고 가정하는 것.** 그것은 고용 소득**만**을 요구합니다. 어떤 프리랜서 소득이든 이를 배제하며 신고해야 합니다.
-- **RM100만 전자송장 수치를 유예로 취급하는 것.** 그것은 매출에 연동된 상시 면제이며, 넘는 해에 사라집니다.
+- **RM300만 전자송장 수치를 유예로 취급하는 것.** 그것은 매출에 연동된 상시 면제이며, 넘는 해에 사라집니다.
 - **Act 872를 세금 재분류로 읽는 것.** 그것이 아닙니다.
 
 ## 다음 단계

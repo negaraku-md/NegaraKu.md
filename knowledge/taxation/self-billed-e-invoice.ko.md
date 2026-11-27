@@ -50,23 +50,27 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "지침 인용을 e-Invoice 지침 v4.8(2026년 8월 30일) 및 특정 지침 v4.9(2026년 9월 7일)로 갱신함."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "전자 인보이스 특정 지침 (버전 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+  - title: "전자 인보이스 특정 지침 (버전 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "말레이시아 국내세입청 (LHDN)"
-    date: "2026-07-07"
-  - title: "전자 인보이스 지침 (버전 4.7) (e-Invoice Guideline (Version 4.7))"
+    date: "2026-09-07"
+  - title: "전자 인보이스 지침 (버전 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "말레이시아 국내세입청 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "Finance (No. 2) Act 2023 (Act 851) — 제82C조 (Finance (No. 2) Act 2023 (Act 851) — section 82C)"
     url: "https://www.myttx.customs.gov.my/wp-content/uploads/2024/02/WJW23%EF%80%A21341-BI.pdf"
     publisher: "말레이시아 정부"

@@ -15,7 +15,7 @@ sensitivity: "none"
 answer: "e-Invois yang disahkan bukan dengan sendirinya rekod perakaunan berkanun yang mencukupi. Seksyen 245 Akta Syarikat 2016 memerlukan rekod yang cukup menjelaskan transaksi dan boleh diaudit dengan mudah dan betul, disimpan selama 7 tahun daripada penyempurnaan transaksi. Seksyen 82 Akta Cukai Pendapatan 1967 berjalan selama 7 tahun daripada akhir tahun yang berkaitan dengan pendapatan itu, memerlukan rekod disimpan di Malaysia, dan mengenakan syarat format elektronik. Garis Panduan e-Invois LHDN sendiri mengingatkan pembayar cukai supaya menyimpan rekod mereka sendiri walaupun IRBM turut menyimpannya."
 keyTakeaways:
   - "Tiga rejim, tiga jam: CA 2016 s.245(3) berjalan daripada penyempurnaan transaksi; ITA s.82(1)(a) daripada akhir tahun yang berkaitan dengan pendapatan itu; ITA s.82A(1) daripada akhir tahun taksiran"
-  - "Garis Panduan e-Invois (Versi 4.7, diterbitkan 7 Julai 2026) secara jelas mengingatkan pembayar cukai supaya menyimpan rekod yang mencukupi walaupun IRBM menyimpannya"
+  - "Garis Panduan e-Invois (Versi 4.8, diterbitkan 30 Ogos 2026) secara jelas mengingatkan pembayar cukai supaya menyimpan rekod yang mencukupi walaupun IRBM menyimpannya"
   - "MyInvois menyimpan dokumen yang disahkan, bukan kontrak, bukti penghantaran, kos atau pertimbangan di sebaliknya — s.245 memerlukan kesemuanya itu"
   - "ITA s.82(8) memerlukan rekod berkaitan perniagaan Malaysia disimpan dan dikekalkan di Malaysia; penyimpanan oleh MyInvois tidak melepaskan kewajipan itu"
   - "ITA s.82(2A) menghapuskan keperluan resit siri bercetak apabila e-Invois dikeluarkan — tetapi s.82(2B) mengembalikannya semula bagi invois transaksi konsolidasi"
@@ -25,7 +25,7 @@ appliesTo: "Pasukan kewangan, setiausaha syarikat dan pengarah syarikat Malaysia
 
 faq:
   - q: "Jika MyInvois menyimpan e-Invois saya, adakah saya masih perlu menyimpan rekod?"
-    a: "Ya. Garis Panduan e-Invois (Versi 4.7) menyatakan bahawa semua e-Invois yang disahkan akan disimpan dalam pangkalan data IRBM dan, walaupun begitu, pembayar cukai diingatkan supaya menyimpan rekod dan dokumentasi yang mencukupi berkaitan transaksi tersebut. Pangkalan data IRBM adalah rekod IRBM. Baik Akta Syarikat 2016 mahupun Akta Cukai Pendapatan 1967 tidak menganggapnya melepaskan kewajipan anda sendiri."
+    a: "Ya. Garis Panduan e-Invois (Versi 4.8) menyatakan bahawa semua e-Invois yang disahkan akan disimpan dalam pangkalan data IRBM dan, walaupun begitu, pembayar cukai diingatkan supaya menyimpan rekod dan dokumentasi yang mencukupi berkaitan transaksi tersebut. Pangkalan data IRBM adalah rekod IRBM. Baik Akta Syarikat 2016 mahupun Akta Cukai Pendapatan 1967 tidak menganggapnya melepaskan kewajipan anda sendiri."
   - q: "Tempoh penyimpanan yang mana terpakai kepada e-Invois?"
     a: "Kesemua tempoh yang terpakai kepada syarikat anda. Akta Syarikat 2016 s.245(3) berjalan selama 7 tahun daripada penyempurnaan transaksi. Akta Cukai Pendapatan 1967 s.82(1)(a) berjalan selama 7 tahun daripada akhir tahun yang berkaitan dengan pendapatan perniagaan itu, dan s.82A(1) berjalan selama 7 tahun daripada akhir tahun taksiran. Dasar yang selamat ialah tarikh terkemudian daripada ketiga-tiganya, yang pada praktiknya bermakna menyimpan sekurang-kurangnya sehingga 7 tahun selepas tahun taksiran itu tamat."
   - q: "Adakah e-Invois yang disahkan mencukupi untuk juruaudit?"
@@ -44,7 +44,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8f59afbef6de896e"
+sourceContentHash: "a93eed08c8baff3f"
 
 status: "published"
 aiAssisted: true
@@ -52,19 +52,23 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Sitasi garis panduan dikemas kini kepada e-Invoice Guideline v4.8 (30 Ogos 2026, perenggan 2.3.7/2.4.6 tidak berubah) dan Specific Guideline v4.9 (7 September 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "Garis Panduan e-Invois (Versi 4.7) (e-Invoice Guideline (Version 4.7))"
+  - title: "Garis Panduan e-Invois (Versi 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "Akta Cukai Pendapatan 1967 (Akta 53), cetakan semula pada 21 Mei 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
@@ -73,10 +77,10 @@ sources:
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
     date: "2022-08-01"
-  - title: "Garis Panduan Khusus e-Invois (Versi 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+  - title: "Garis Panduan Khusus e-Invois (Versi 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "e-Invoice record-keeping obligations"
 relations:
@@ -104,7 +108,7 @@ apa, atau untuk berapa lama.
 
 | | Akta Syarikat 2016 | Akta Cukai Pendapatan 1967 | MyInvois |
 | --- | --- | --- | --- |
-| Peruntukan | s.245 | s.82, s.82A, s.82C | Garis Panduan e-Invois v4.7, dikeluarkan di bawah s.134A ITA |
+| Peruntukan | s.245 | s.82, s.82A, s.82C | Garis Panduan e-Invois v4.8, dikeluarkan di bawah s.134A ITA |
 | Apa yang perlu disimpan | Rekod perakaunan dan rekod lain yang cukup menjelaskan transaksi dan kedudukan kewangan | Rekod yang mencukupi untuk menentukan pendapatan perniagaan, dan dokumen untuk menentukan pendapatan boleh dicukai | Tiada — IRBM menyimpan dokumen yang disahkan |
 | Jam penyimpanan | 7 tahun daripada **penyempurnaan transaksi** (s.245(3)) | 7 tahun daripada **akhir tahun yang berkaitan dengan pendapatan itu** (s.82(1)(a)); 7 tahun daripada **akhir tahun taksiran** (s.82A(1)) | Tiada komitmen tempoh penyimpanan yang diterbitkan |
 | Di mana | Pejabat berdaftar atau sebagaimana difikirkan sesuai oleh pengarah (s.245(4)) | **Di Malaysia** (s.82(8), s.82A(5)) | Pangkalan data IRBM |
@@ -127,8 +131,8 @@ sesuatu potongan ialah potongan itu sendiri ditambah penalti.
 
 ## Apa yang sebenarnya dikatakan LHDN tentang penyimpanan
 
-Garis Panduan e-Invois (Versi 4.7), diterbitkan 7 Julai 2026 dan menggantikan
-Versi 4.6 bertarikh 7 Disember 2025, membincangkan penyimpanan pada perenggan
+Garis Panduan e-Invois (Versi 4.8), diterbitkan 30 Ogos 2026 dan menggantikan
+Versi 4.7 bertarikh 7 Julai 2026, membincangkan penyimpanan pada perenggan
 2.3.7 bagi laluan Portal MyInvois dan perenggan 2.4.6 bagi laluan API.
 Kedua-duanya menyatakan perkara yang sama:
 

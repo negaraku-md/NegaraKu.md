@@ -43,7 +43,7 @@ verificationNeeded:
   - "Số hàng tối đa được chấp nhận trong bảng tính tải lên hàng loạt của MyInvois Portal — LHDN mô tả một số nhất định mà không nêu nó"
 
 lang: "vi"
-sourceContentHash: "12fac171732261f3"
+sourceContentHash: "098a1b33b5921f56"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -52,19 +52,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Ngưỡng miễn được cập nhật thành dưới RM3,000,000 (cùng điều kiện tập đoàn của section 1.6.10) và cập nhật trích dẫn hướng dẫn thành General v4.8 (30 tháng 8 năm 2026) và Specific v4.9 (7 tháng 9 năm 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "Hướng dẫn Hóa đơn điện tử (Phiên bản 4.7) — mục 2.2 đến 2.5 (e-Invoice Guideline (Version 4.7) — sections 2.2 to 2.5)"
+  - title: "Hướng dẫn Hóa đơn điện tử (Phiên bản 4.8) — mục 2.2 đến 2.5 (e-Invoice Guideline (Version 4.8) — sections 2.2 to 2.5)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Tổng cục Thuế Nội địa Malaysia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MyInvois SDK (MyInvois SDK)"
     url: "https://sdk.myinvois.hasil.gov.my/"
     publisher: "Tổng cục Thuế Nội địa Malaysia (LHDN)"
@@ -74,10 +78,10 @@ sources:
   - title: "MyInvois SDK — phản hồi lỗi tiêu chuẩn (MyInvois SDK — standard error response)"
     url: "https://sdk.myinvois.hasil.gov.my/standard-error-response/"
     publisher: "Tổng cục Thuế Nội địa Malaysia (LHDN)"
-  - title: "Hướng dẫn cụ thể Hóa đơn điện tử (Phiên bản 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+  - title: "Hướng dẫn cụ thể Hóa đơn điện tử (Phiên bản 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "Tổng cục Thuế Nội địa Malaysia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "MyInvois transmission mechanisms"
 relations:
@@ -166,7 +170,7 @@ e-Invoicing khối lượng cao, bất kể sổ bán hàng của nó nói gì.
 
 | Lộ trình | Phù hợp | Cần chú ý |
 | --- | --- | --- |
-| **Tích hợp ERP trực tiếp** | ERP đã thiết lập với một bản địa hóa Malaysia được duy trì, hoặc năng lực kỹ thuật nội bộ | Bảo trì liên tục khi các phiên bản hướng dẫn thay đổi — v4.7 và v4.8 đều xuất hiện vào ngày 7 tháng 7 năm 2026 |
+| **Tích hợp ERP trực tiếp** | ERP đã thiết lập với một bản địa hóa Malaysia được duy trì, hoặc năng lực kỹ thuật nội bộ | Bảo trì liên tục khi các phiên bản hướng dẫn thay đổi — General Guideline đạt v4.8 vào ngày 30 tháng 8 năm 2026 và Specific Guideline đạt v4.9 vào ngày 7 tháng 9 năm 2026 |
 | **Nhà cung cấp dịch vụ Peppol** | Các doanh nghiệp cũng muốn trao đổi chứng từ có khả năng tương tác với các đối tác thương mại | Peppol không phải là một yêu cầu của MyInvois; đừng trả tiền cho nó như thể nó là |
 | **Nhà cung cấp công nghệ / middleware không phải Peppol** | Nhiều hệ thống nguồn, các cụm POS, hoặc một ERP không có bản địa hóa | Sự lưu giữ dữ liệu, các điều khoản rời bỏ, và liệu họ có nộp dưới thông tin xác thực của chính họ hay không |
 
@@ -197,7 +201,7 @@ nhà cung cấp của bạn.
 
 ## Một lộ trình quyết định
 
-1. **Bạn có được miễn không?** Dưới RM1,000,000 doanh thu hằng năm, dừng lại.
+1. **Bạn có được miễn không?** Dưới RM3,000,000 doanh thu hằng năm, và không gắn với một tập đoàn đạt RM3,000,000 trở lên, dừng lại.
 2. **Đếm các chứng từ hằng tháng** trên tất cả bốn nhóm ở trên.
 3. **Dưới khoảng một trăm, chủ yếu là hợp nhất?** Portal, với tải lên hàng loạt
    bằng Excel. Xem xét lại hằng năm.

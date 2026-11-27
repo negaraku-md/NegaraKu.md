@@ -52,23 +52,27 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "指南引用更新为 e-Invoice Guideline v4.8（2026 年 8 月 30 日）与 Specific Guideline v4.9（2026 年 9 月 7 日）。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "电子发票专项指南（4.8版） (e-Invoice Specific Guideline (Version 4.8))"
+  - title: "电子发票专项指南（4.9版） (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "内陆税收局 (LHDN)"
-    date: "2026-07-07"
-  - title: "电子发票指南（4.7版） (e-Invoice Guideline (Version 4.7))"
+    date: "2026-09-07"
+  - title: "电子发票指南（4.8版） (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "内陆税收局 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "Finance (No. 2) Act 2023 (Act 851) — 第82C(7)条 (Finance (No. 2) Act 2023 (Act 851) — section 82C(7))"
     url: "https://www.myttx.customs.gov.my/wp-content/uploads/2024/02/WJW23%EF%80%A21341-BI.pdf"
     publisher: "马来西亚政府"

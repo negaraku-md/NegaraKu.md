@@ -12,11 +12,11 @@ mode: "practical"
 contentType: "data"
 sensitivity: "none"
 
-answer: "Bắt buộc e-Invoice của Malaysia chạy qua bốn giai đoạn theo doanh thu FY2022: 1 tháng 8 năm 2024 trên RM100 triệu, 1 tháng 1 năm 2025 trên RM25 triệu đến RM100 triệu, 1 tháng 7 năm 2025 trên RM5 triệu đến RM25 triệu, và 1 tháng 1 năm 2026 đến RM5 triệu. Người nộp thuế có doanh thu hằng năm dưới RM1 triệu được miễn. Các doanh nghiệp bắt đầu hoạt động từ 2023 trở đi bắt đầu vào 1 tháng 7 năm 2026."
+answer: "Bắt buộc e-Invoice của Malaysia chạy qua bốn giai đoạn theo doanh thu FY2022: 1 tháng 8 năm 2024 trên RM100 triệu, 1 tháng 1 năm 2025 trên RM25 triệu đến RM100 triệu, 1 tháng 7 năm 2025 trên RM5 triệu đến RM25 triệu, và 1 tháng 1 năm 2026 đến RM5 triệu. Người nộp thuế có doanh thu hằng năm dưới RM3 triệu được miễn, trừ khi gắn với một tập đoàn vượt ngưỡng đó. Các doanh nghiệp bắt đầu hoạt động từ 2023 trở đi với doanh thu ít nhất RM3 triệu bắt đầu vào 1 tháng 7 năm 2026."
 keyTakeaways:
   - "Chỉ có bốn giai đoạn — giai đoạn bạn rơi vào được cố định bởi doanh thu FY2022 của bạn và không bao giờ thay đổi"
-  - "Dưới RM1,000,000 doanh thu hoặc doanh số hằng năm là một sự miễn hoàn toàn, không phải một sự hoãn lại"
-  - "Các doanh nghiệp mới bắt đầu hoạt động 2023–2025 với doanh thu ít nhất RM1 triệu bắt đầu 1 tháng 7 năm 2026"
+  - "Dưới RM3,000,000 doanh thu hoặc doanh số hằng năm là một sự miễn hoàn toàn, không phải một sự hoãn lại — nhưng nó bị rút nếu một cổ đông, công ty holding hay công ty liên quan đạt RM3,000,000 trở lên"
+  - "Các doanh nghiệp mới bắt đầu hoạt động 2023–2025 với doanh thu ít nhất RM3 triệu bắt đầu 1 tháng 7 năm 2026"
   - "Người nộp thuế Giai đoạn 4 có một kỳ nới lỏng tạm thời kéo dài đến tận 31 tháng 12 năm 2027"
   - "Trong kỳ nới lỏng bạn có thể hợp nhất mọi thứ và từ chối các yêu cầu e-Invoice riêng lẻ"
   - "Một SVDP e-Invoice mở từ 7 tháng 7 năm 2026 đến 31 tháng 12 năm 2027 để hợp thức hóa các lần nộp bị bỏ lỡ"
@@ -70,14 +70,14 @@ obligations:
     criteria:
       - metric: "turnover"
         op: "lt"
-        value: 1000000
+        value: 3000000
     exemption: true
-    due: "Miễn hoàn toàn nếu doanh thu hoặc doanh số hằng năm dưới RM1,000,000; nếu không thì bắt buộc, vì tất cả các giai đoạn nay đều đã có hiệu lực"
+    due: "Miễn hoàn toàn nếu doanh thu hoặc doanh số hằng năm dưới RM3,000,000 và không gắn với một tập đoàn đạt RM3,000,000 trở lên; nếu không thì bắt buộc, vì tất cả các giai đoạn nay đều đã có hiệu lực"
     authority: "LHDN"
     statute: "Income Tax Act 1967, s.82C"
 
 lang: "vi"
-sourceContentHash: "fe5d22ede93ea4c0"
+sourceContentHash: "a4aa5bd3b9ec2d19"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,23 +86,27 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Khoản miễn theo quy mô được nâng thành dưới RM3,000,000 và bổ sung điều kiện doanh thu tập đoàn mới của section 1.6.10; ngưỡng doanh nghiệp mới được cập nhật thành RM3,000,000; cập nhật trích dẫn hướng dẫn thành General v4.8 (30 tháng 8 năm 2026) và Specific v4.9 (7 tháng 9 năm 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "Hướng dẫn Hóa đơn điện tử (Phiên bản 4.7) (e-Invoice Guideline (Version 4.7))"
+  - title: "Hướng dẫn Hóa đơn điện tử (Phiên bản 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Tổng cục Thuế Nội địa Malaysia (LHDN)"
-    date: "2026-07-07"
-  - title: "Hướng dẫn cụ thể Hóa đơn điện tử (Phiên bản 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+    date: "2026-08-30"
+  - title: "Hướng dẫn cụ thể Hóa đơn điện tử (Phiên bản 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "Tổng cục Thuế Nội địa Malaysia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
   - title: "Lộ trình triển khai Hóa đơn điện tử (Garis Masa Pelaksanaan e-Invois)"
     url: "https://www.hasil.gov.my/e-invois/garis-masa-pelaksanaan-e-invois/"
     publisher: "Tổng cục Thuế Nội địa Malaysia (LHDN)"
@@ -120,18 +124,18 @@ relations:
   - { rel: "explained-in", to: "e-invoice-data-fields" }
   - { rel: "related-to", to: "consolidated-e-invoice" }
 related: ["e-invoicing", "consolidated-e-invoice", "self-billed-e-invoice", "myinvois-integration", "e-invoice-data-fields"]
-keywords: ["MyInvois phases", "e-Invoice implementation date Malaysia", "e-Invoice exemption RM1 million", "e-Invoice relaxation period", "LHDN e-Invoice timeline", "tarikh pelaksanaan e-invois"]
+keywords: ["MyInvois phases", "e-Invoice implementation date Malaysia", "e-Invoice exemption RM3 million", "e-Invoice relaxation period", "LHDN e-Invoice timeline", "tarikh pelaksanaan e-invois"]
 framework: data-reference
 ---
 
 Hai con số quyết định mọi thứ: doanh thu FY2022 của bạn, vốn cố định giai đoạn của
-bạn một cách vĩnh viễn, và RM1,000,000, dưới mức đó bạn hoàn toàn nằm ngoài hệ
-thống. Mọi thứ khác trên trang này là chi tiết.
+bạn một cách vĩnh viễn, và RM3,000,000, dưới mức đó bạn hoàn toàn nằm ngoài hệ
+thống (trừ khi bạn gắn với một tập đoàn lớn hơn). Mọi thứ khác trên trang này là chi tiết.
 
 Trang này được duy trì dưới dạng dữ liệu vì các ngày đã dịch chuyển hơn một lần.
-Các con số dưới đây được đọc từ **e-Invoice Guideline phiên bản 4.7** và
-**e-Invoice Specific Guideline phiên bản 4.8**, cả hai được công bố ngày 7 tháng 7
-năm 2026.
+Các con số dưới đây được đọc từ **e-Invoice Guideline phiên bản 4.8**
+(30 tháng 8 năm 2026) và **e-Invoice Specific Guideline phiên bản 4.9**
+(7 tháng 9 năm 2026).
 
 ## Các ngày giai đoạn bắt buộc là gì?
 
@@ -143,7 +147,7 @@ năm 2026.
 | 4 | **Đến RM5 triệu** | **1 tháng 1 năm 2026** |
 
 Không có giai đoạn 5. Một giai đoạn thứ năm cho dải RM150,000–RM500,000 đã xuất
-hiện trong các phiên bản hướng dẫn trước đó và đã biến mất khỏi phiên bản 4.7.
+hiện trong các phiên bản hướng dẫn trước đó và đã biến mất khỏi hướng dẫn hiện hành.
 
 ## Giai đoạn của tôi được xác định như thế nào?
 
@@ -161,16 +165,16 @@ triệu vào năm 2022 và RM4 triệu hôm nay vẫn là một người nộp t
 
 | Doanh nghiệp bắt đầu hoạt động | Ngày triển khai e-Invoice |
 | --- | --- |
-| 2023 đến 2025, doanh thu ít nhất RM1,000,000 | **1 tháng 7 năm 2026** |
+| 2023 đến 2025, doanh thu ít nhất RM3,000,000 | **1 tháng 7 năm 2026** |
 | 2026 trở đi | **1 tháng 7 năm 2026** hoặc ngày bắt đầu hoạt động |
-| 2026 trở đi, doanh thu năm đầu dưới RM1,000,000 | **1 tháng 1 của năm thứ hai tiếp theo** năm mà doanh thu đạt RM1,000,000 |
+| 2026 trở đi, doanh thu năm đầu dưới RM3,000,000 | **1 tháng 1 của năm thứ hai tiếp theo** năm mà doanh thu đạt RM3,000,000 |
 
 ## Ai được miễn?
 
 Section 1.6.1 của Guideline miễn, khỏi việc phát hành bất kỳ e-Invoice nào kể cả
 tự lập hóa đơn:
 
-- Người nộp thuế có doanh thu hoặc doanh số hằng năm **dưới RM1,000,000**
+- Người nộp thuế có doanh thu hoặc doanh số hằng năm **dưới RM3,000,000**
 - Các văn phòng ngoại giao nước ngoài
 - Các cá nhân không tiến hành một hoạt động kinh doanh
 - Các cơ quan luật định, các cơ quan có thẩm quyền luật định và các chính quyền địa
@@ -179,8 +183,14 @@ tự lập hóa đơn:
 - Các tổ chức quốc tế, đối với hàng bán hoặc dịch vụ thực hiện **trước 1 tháng 7
   năm 2025**
 
-Khoản miễn gắn với người, không phải tập đoàn. Section 1.6.5: một công ty do một
-người được miễn sở hữu vẫn triển khai theo lộ trình của riêng nó.
+Hai quy tắc giới hạn khoản miễn theo quy mô. Section 1.6.5 giữ các khoản miễn *khác*
+mang tính cá nhân — một công ty do một người được miễn sở hữu vẫn triển khai theo lộ
+trình của riêng nó. Section 1.6.10, được bổ sung trong phiên bản 4.8, làm điều ngược
+lại đối với khoản miễn theo quy mô: nó rút khoản miễn dưới-RM3,000,000 khỏi bất kỳ người
+nộp thuế nào mà cổ đông không phải cá nhân, công ty holding, hay công ty liên quan hoặc
+liên doanh của họ có doanh thu hoặc doanh số hằng năm ít nhất RM3,000,000. Do đó một
+công ty nhỏ bên trong một tập đoàn lớn hơn vẫn nằm trong phạm vi bất kể quy mô của riêng
+nó.
 
 Tách biệt, section 1.6.7 loại các loại thu nhập cụ thể khỏi phạm vi — thu nhập việc
 làm, lương hưu, cấp dưỡng, zakat, một số khoản phân chia cổ tức nhất định, giá trị
@@ -239,7 +249,7 @@ e-Invoice thay thế trong vòng **ba ngày** kể từ một hóa đơn bị l�
 
 ## Những sai lầm phổ biến
 
-- **Coi con số RM1 triệu là một sự hoãn lại.** Nó là một khoản miễn thường trực
+- **Coi con số RM3 triệu là một sự hoãn lại.** Nó là một khoản miễn thường trực
   trong section 1.6.1. Nó cũng không phải là một giai đoạn — không có giai đoạn 5.
 - **Tính lại giai đoạn của bạn từ doanh thu hiện tại.** Bài kiểm tra là FY2022, một
   lần.

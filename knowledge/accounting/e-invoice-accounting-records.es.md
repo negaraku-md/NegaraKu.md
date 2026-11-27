@@ -15,7 +15,7 @@ sensitivity: "none"
 answer: "Una factura electrónica validada no es por sí sola un registro contable legal suficiente. El artículo 245 de la Ley de Sociedades de 2016 exige registros que expliquen suficientemente la transacción y que puedan auditarse de forma cómoda y adecuada, conservados durante 7 años desde la finalización de la transacción. El artículo 82 de la Ley del Impuesto sobre la Renta de 1967 corre 7 años desde el final del año al que se refieren los ingresos, exige que los registros se conserven en Malasia e impone condiciones de formato electrónico. La propia Directriz de Factura Electrónica de la LHDN recuerda a los contribuyentes que conserven sus propios registros a pesar del almacenamiento del IRBM."
 keyTakeaways:
   - "Tres regímenes, tres relojes: el art. 245(3) de la CA 2016 corre desde la finalización de la transacción; el art. 82(1)(a) de la ITA desde el final del año al que se refieren los ingresos; el art. 82A(1) de la ITA desde el final del ejercicio de evaluación"
-  - "La Directriz de Factura Electrónica (Versión 4.7, publicada el 7 de julio de 2026) recuerda expresamente a los contribuyentes que conserven registros suficientes a pesar del almacenamiento del IRBM"
+  - "La Directriz de Factura Electrónica (Versión 4.8, publicada el 30 de agosto de 2026) recuerda expresamente a los contribuyentes que conserven registros suficientes a pesar del almacenamiento del IRBM"
   - "MyInvois guarda el documento validado, no el contrato, la prueba de entrega, el cálculo de costes ni el criterio que hay detrás — el art. 245 necesita todo eso"
   - "El art. 82(8) de la ITA exige que los registros relativos a un negocio malasio se conserven y mantengan en Malasia; el almacenamiento en MyInvois no cumple esa obligación"
   - "El art. 82(2A) de la ITA elimina el requisito del recibo impreso con serie cuando se emite una factura electrónica — pero el art. 82(2B) lo restablece para las facturas de transacciones consolidadas"
@@ -25,7 +25,7 @@ appliesTo: "Equipos financieros, secretarios de sociedades y directores de empre
 
 faq:
   - q: "Si MyInvois almacena mis facturas electrónicas, ¿sigo teniendo que conservar registros?"
-    a: "Sí. La Directriz de Factura Electrónica (Versión 4.7) establece que todas las facturas electrónicas validadas se almacenarán en la base de datos del IRBM y que, a pesar de ese almacenamiento, se recuerda a los contribuyentes que conserven registros y documentación suficientes en relación con la transacción. La base de datos del IRBM es el registro del IRBM. Ni la Ley de Sociedades de 2016 ni la Ley del Impuesto sobre la Renta de 1967 la consideran como cumplimiento de su propia obligación."
+    a: "Sí. La Directriz de Factura Electrónica (Versión 4.8) establece que todas las facturas electrónicas validadas se almacenarán en la base de datos del IRBM y que, a pesar de ese almacenamiento, se recuerda a los contribuyentes que conserven registros y documentación suficientes en relación con la transacción. La base de datos del IRBM es el registro del IRBM. Ni la Ley de Sociedades de 2016 ni la Ley del Impuesto sobre la Renta de 1967 la consideran como cumplimiento de su propia obligación."
   - q: "¿Qué plazo de conservación se aplica a una factura electrónica?"
     a: "Todos los que apliquen a su empresa. El art. 245(3) de la Ley de Sociedades de 2016 corre 7 años desde la finalización de la transacción. El art. 82(1)(a) de la Ley del Impuesto sobre la Renta de 1967 corre 7 años desde el final del año al que se refieren los ingresos del negocio, y el art. 82A(1) corre 7 años desde el final del ejercicio de evaluación. La política segura es el más tardío de los tres, lo que en la práctica significa conservar hasta al menos 7 años después del cierre del ejercicio de evaluación."
   - q: "¿Es suficiente una factura electrónica validada para el auditor?"
@@ -42,7 +42,7 @@ verificationNeeded:
   - "Confirm the Sales Tax Act 2018 and Service Tax Act 2018 record retention periods separately before extending this analysis to SST documents"
 
 lang: "es"
-sourceContentHash: "8f59afbef6de896e"
+sourceContentHash: "a93eed08c8baff3f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -52,19 +52,23 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Citaciones de las guías actualizadas a la Guía de la e-Invoice v4.8 (30 de agosto de 2026, apartados 2.3.7/2.4.6 sin cambios) y la Guía Específica v4.9 (7 de septiembre de 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "Directriz de Factura Electrónica (Versión 4.7) (e-Invoice Guideline (Version 4.7))"
+  - title: "Directriz de Factura Electrónica (Versión 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Junta de Ingresos Internos de Malasia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "Ley del Impuesto sobre la Renta de 1967 (Ley 53), reimpresión a 21 de mayo de 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "Junta de Ingresos Internos de Malasia (LHDN)"
@@ -73,10 +77,10 @@ sources:
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "Comisión de Sociedades de Malasia (SSM)"
     date: "2022-08-01"
-  - title: "Directriz Específica de Factura Electrónica (Versión 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+  - title: "Directriz Específica de Factura Electrónica (Versión 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "Junta de Ingresos Internos de Malasia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "e-Invoice record-keeping obligations"
 relations:
@@ -102,7 +106,7 @@ no coinciden en qué hay que conservar, dónde, en qué forma ni durante cuánto
 
 | | Ley de Sociedades de 2016 | Ley del Impuesto sobre la Renta de 1967 | MyInvois |
 | --- | --- | --- | --- |
-| Disposición | art. 245 | art. 82, art. 82A, art. 82C | Directriz de Factura Electrónica v4.7, emitida conforme al art. 134A de la ITA |
+| Disposición | art. 245 | art. 82, art. 82A, art. 82C | Directriz de Factura Electrónica v4.8, emitida conforme al art. 134A de la ITA |
 | Qué debe conservarse | Registros contables y de otro tipo que expliquen suficientemente las transacciones y la situación financiera | Registros suficientes para determinar los ingresos del negocio, y documentos para determinar la renta gravable | Nada — el IRBM almacena el documento validado |
 | Reloj de conservación | 7 años desde la **finalización de la transacción** (art. 245(3)) | 7 años desde el **final del año al que se refieren los ingresos** (art. 82(1)(a)); 7 años desde el **final del ejercicio de evaluación** (art. 82A(1)) | Sin compromiso de conservación publicado |
 | Dónde | Domicilio social o donde los directores estimen conveniente (art. 245(4)) | **En Malasia** (art. 82(8), art. 82A(5)) | Base de datos del IRBM |
@@ -123,8 +127,8 @@ poder justificar una deducción es la deducción más las sanciones.
 
 ## Lo que la LHDN dice realmente sobre el almacenamiento
 
-La Directriz de Factura Electrónica (Versión 4.7), publicada el 7 de julio de 2026 y que
-sustituye a la Versión 4.6 del 7 de diciembre de 2025, trata el almacenamiento en el
+La Directriz de Factura Electrónica (Versión 4.8), publicada el 30 de agosto de 2026 y que
+sustituye a la Versión 4.7 del 7 de julio de 2026, trata el almacenamiento en el
 apartado 2.3.7 para la vía del Portal MyInvois y en el apartado 2.4.6 para la vía API.
 Ambos dicen lo mismo:
 

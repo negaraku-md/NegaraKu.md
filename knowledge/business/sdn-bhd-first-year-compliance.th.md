@@ -135,7 +135,7 @@ obligations:
     statute: "Income Tax Act 1967"
 
 lang: "th"
-sourceContentHash: "d210ed718721460b"
+sourceContentHash: "a25b6554199519aa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -145,15 +145,19 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "e-Invoice size exemption updated to below RM3,000,000 with the section 1.6.10 group condition; citation refreshed to e-Invoice Guideline v4.8 (30 August 2026)."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "Companies Act 2016 (Act 777) ณ วันที่ 1 สิงหาคม 2022 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
@@ -175,7 +179,7 @@ sources:
   - title: "กำหนดการดำเนินการ e-Invoice (ปรับปรุง 7 ธันวาคม 2025) (e-Invoice Implementation Timeline (updated 7 December 2025))"
     url: "https://www.hasil.gov.my/en/e-invois/pelaksanaan-e-invois-di-malaysia/garis-masa-pelaksanaan-e-invois/"
     publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
-  - title: "แนวทาง e-Invoice ของ IRBM (เวอร์ชัน 4.7) (IRBM e-Invoice Guideline (Version 4.7))"
+  - title: "แนวทาง e-Invoice ของ IRBM (เวอร์ชัน 4.8) (IRBM e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
   - title: "การลงทะเบียนธุรกิจของคุณ — MySST (Registering your Business — MySST)"
@@ -316,11 +320,13 @@ MySST คือ RM500,000 ของสินค้าที่ต้องเส
 2025 (รวมถึงการเช่าหรือลิสซิ่งและบริการทางการเงิน) จดทะเบียนที่ RM1,000,000 ตรวจสอบว่าบริการของ
 คุณอยู่ในประเภทที่ต้องเสียภาษีหรือไม่ และบนเกณฑ์ใด ก่อนที่คุณจะสมมติว่าคุณอยู่นอกมัน
 
-**e-Invoice** ทยอยตามยอดขายประจำปี ผู้เสียภาษีที่มียอดขายประจำปีน้อยกว่า RM1 ล้านได้รับการยกเว้น
+**e-Invoice** ทยอยตามยอดขายประจำปี ผู้เสียภาษีที่มียอดขายประจำปีน้อยกว่า RM3 ล้านได้รับการยกเว้น
 จากการดำเนินการ e-Invoice; วันที่ภาคบังคับที่ทยอยเริ่มจาก 1 สิงหาคม 2024 สำหรับผู้เสียภาษีเกิน RM100
 ล้านลงมาถึง 1 มกราคม 2026 สำหรับช่วงถึง RM5 ล้าน ตามกรอบเวลาที่ LHDN เผยแพร่ Sdn Bhd ที่เพิ่ง
-จดทะเบียนจัดตั้งจึงได้รับการยกเว้นในขณะที่รายได้ยังต่ำกว่า RM1 ล้าน ภายใต้ IRBM e-Invoice Guideline
-เมื่อธุรกิจใหม่ข้ามเกณฑ์ยกเว้น RM1 ล้าน จะได้รับวันดำเนินการแบบผ่อนปรนที่ 1 กรกฎาคม 2026
+จดทะเบียนจัดตั้งจึงได้รับการยกเว้นในขณะที่รายได้ยังต่ำกว่า RM3 ล้าน — เว้นแต่ว่าตามข้อ 1.6.10 ของแนวทาง
+บริษัทนั้นเป็นบริษัทย่อยของบริษัทโฮลดิ้ง หรือมีบริษัทที่เกี่ยวข้องหรือผู้ถือหุ้นที่ไม่ใช่บุคคลธรรมดา ซึ่งมียอดขาย
+ประจำปีอย่างน้อย RM3 ล้าน ในกรณีนั้นการยกเว้นตามขนาดจะไม่นำมาใช้ มิฉะนั้น เมื่อธุรกิจใหม่ข้ามเกณฑ์ยกเว้น
+RM3 ล้าน จะได้รับวันดำเนินการแบบผ่อนปรนที่ 1 กรกฎาคม 2026
 
 ## เมื่อคุณจ้างงาน: EPF, SOCSO และ EIS
 

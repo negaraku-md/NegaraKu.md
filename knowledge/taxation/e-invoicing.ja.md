@@ -12,11 +12,11 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "電子インボイスは、無料のMyInvoisポータルまたはAPI連携システムを通じて、請求データをLHDNのMyInvoisシステムに送信し検証を受けることを求める。検証を受けた書類には、固有識別番号（Unique Identifier Number）とQRコードが発行される。この義務は年間売上高に応じて段階的に導入され、最終段階は2026年1月1日から年間売上高RM500万までの事業者に及び、年間売上高RM100万未満の事業者は免除される。各段階にはそれぞれ独自の経過的緩和期間がある。"
+answer: "電子インボイスは、無料のMyInvoisポータルまたはAPI連携システムを通じて、請求データをLHDNのMyInvoisシステムに送信し検証を受けることを求める。検証を受けた書類には、固有識別番号（Unique Identifier Number）とQRコードが発行される。この義務は年間売上高に応じて段階的に導入され、最終段階は2026年1月1日から年間売上高RM500万までの事業者に及び、年間売上高RM300万未満の事業者は免除される。各段階にはそれぞれ独自の経過的緩和期間がある。"
 keyTakeaways:
   - "検証はMyInvoisを通じて行われ、それが完了して初めて当該書類は所得税上のインボイスとして機能する"
   - "段階は四つで、五つ目はない——最後の段階は2026年1月1日に始まり、年間売上高RM500万までを対象とする"
-  - "年間売上高RM1,000,000未満の事業者は免除される"
+  - "年間売上高RM3,000,000未満の事業者は免除される——ただし、その基準額を超えるグループに属している場合を除く"
   - "自社の段階はFY2022またはYA2022の数値によって固定され、その後は変わらない"
   - "LHDNの検証を受けた電子インボイスは、SSTの税務インボイス規則を自動的には満たさない——それは別個の書類要件である"
 appliesTo: "電子インボイス義務化に備え、またはその下で運用している事業主、財務チーム及びシステム管理者。"
@@ -26,30 +26,34 @@ verificationNeeded: []
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "46533f76e2996181"
+sourceContentHash: "7269dd5c2ab6076f"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "規模免除の基準額を RM3,000,000 未満に修正し、新設の section 1.6.10 のグループ条件を注記（e-Invoice Guideline v4.8、2026年8月30日に基づく）。ガイドライン引用を更新（General v4.8、Specific v4.9）。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "IRBM 電子インボイスガイドライン (IRBM e-Invoice Guideline)"
+  - title: "IRBM 電子インボイスガイドライン（バージョン4.8） (IRBM e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "内国歳入庁 (LHDN)"
-    date: "2026-07-07"
-  - title: "IRBM 電子インボイス個別ガイドライン (IRBM e-Invoice Specific Guideline)"
+    date: "2026-08-30"
+  - title: "IRBM 電子インボイス個別ガイドライン（バージョン4.9） (IRBM e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "内国歳入庁 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
   - title: "MyInvois ポータル (MyInvois Portal)"
     url: "https://myinvois.hasil.gov.my/"
     publisher: "内国歳入庁 (LHDN)"
@@ -101,11 +105,14 @@ LHDNがそう認めるからこそ有効になる——書類はMyInvoisに送�
 
 **第五段階は存在しない。** 段階的導入は年間売上高に基づく四段階で行われ、
 2026年1月1日から始まる年間売上高RM500万までの群が最後である。年間売上高
-**RM1,000,000**未満の事業者は、海外の外交機関及び事業を営んでいない個人と
-ともに免除される。これは、*新規開業*事業者に適用される別の**2026年7月1日**
-開始日と矛盾するものではない——2023年から2025年の間に開業し、年間売上高が
-RM100万以上の事業者は、その日付から対象となる。これはFY2022基準を持たない
-新規参入者のための規則であって、第五の売上高段階ではない。
+**RM3,000,000**未満の事業者は、海外の外交機関及び事業を営んでいない個人と
+ともに免除される。この規模免除には落とし穴がある——ガイドラインのsection
+1.6.10により、非個人の株主、持株会社又は関連会社自体がRM300万以上である
+場合、その免除は消滅する。判定基準は[段階ガイド](/ja/taxation/myinvois-phases)に
+ある。これは、*新規開業*事業者に適用される別の**2026年7月1日**開始日と矛盾
+するものではない——2023年から2025年の間に開業し、年間売上高がRM300万以上の
+事業者は、その日付から対象となる。これはFY2022基準を持たない新規参入者の
+ための規則であって、第五の売上高段階ではない。
 
 **自社の段階は固定であり、変動しない。** 段階はFY2022の監査済財務諸表、
 または年結が変更された場合は按分されたYA2022の申告書によって決定され、

@@ -43,7 +43,7 @@ verificationNeeded:
   - "MyInvois 포털 일괄 업로드 스프레드시트가 허용하는 최대 행 수 — 말레이시아 국세청(LHDN)은 특정 수를 명시하지 않고 설명합니다"
 
 lang: "ko"
-sourceContentHash: "12fac171732261f3"
+sourceContentHash: "098a1b33b5921f56"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -52,19 +52,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "면제 기준을 RM3,000,000 미만으로 갱신함(제1.6.10절 그룹 조건 포함); 지침 인용을 일반 v4.8(2026년 8월 30일) 및 특정 v4.9(2026년 9월 7일)로 갱신함."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "전자 송장 가이드라인(버전 4.7) — 2.2부터 2.5절 (e-Invoice Guideline (Version 4.7) — sections 2.2 to 2.5)"
+  - title: "전자 송장 가이드라인(버전 4.8) — 2.2부터 2.5절 (e-Invoice Guideline (Version 4.8) — sections 2.2 to 2.5)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "말레이시아 내국세청 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MyInvois SDK (MyInvois SDK)"
     url: "https://sdk.myinvois.hasil.gov.my/"
     publisher: "말레이시아 내국세청 (LHDN)"
@@ -74,10 +78,10 @@ sources:
   - title: "MyInvois SDK — 표준 오류 응답 (MyInvois SDK — standard error response)"
     url: "https://sdk.myinvois.hasil.gov.my/standard-error-response/"
     publisher: "말레이시아 내국세청 (LHDN)"
-  - title: "전자 송장 특정 가이드라인(버전 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+  - title: "전자 송장 특정 가이드라인(버전 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "말레이시아 내국세청 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "MyInvois transmission mechanisms"
 relations:
@@ -161,7 +165,7 @@ Number), 검증 타임스탬프, 그리고 시각적 표현물의 QR 코드입�
 
 | 경로 | 적합 대상 | 주의 사항 |
 | --- | --- | --- |
-| **직접 ERP 연동** | 유지관리되는 말레이시아 현지화가 적용된 기존 ERP, 또는 사내 엔지니어링 역량 | 지침 버전이 바뀔 때마다 지속적 유지관리 — v4.7과 v4.8이 모두 2026년 7월 7일에 나옴 |
+| **직접 ERP 연동** | 유지관리되는 말레이시아 현지화가 적용된 기존 ERP, 또는 사내 엔지니어링 역량 | 지침 버전이 바뀔 때마다 지속적 유지관리 — 일반 지침은 2026년 8월 30일에 v4.8에, 특정 지침은 2026년 9월 7일에 v4.9에 도달함 |
 | **Peppol 서비스 제공자** | 거래 상대방과 상호운용 가능한 문서 교환도 원하는 사업체 | Peppol은 MyInvois 요건이 아님; 요건인 것처럼 비용을 지불하지 말 것 |
 | **비Peppol 기술 제공자 / 미들웨어** | 여러 소스 시스템, POS 자산군, 또는 현지화가 없는 ERP | 데이터 보관, 해지 조건, 그리고 그들이 자체 자격 증명으로 제출하는지 여부 |
 
@@ -190,7 +194,7 @@ MyInvois 시스템 자체가 유지보수 또는 기술적 이유로 중단되�
 
 ## 의사결정 경로
 
-1. **면제 대상입니까?** 연간 매출액 RM1,000,000 미만이면 여기서 멈추십시오.
+1. **면제 대상입니까?** 연간 매출액 RM3,000,000 미만이고 RM3,000,000 이상의 그룹에 연결되지 않으면 여기서 멈추십시오.
 2. 위의 네 범주 전반에 걸쳐 **월별 문서를 집계하십시오**.
 3. **대략 100건 미만이고 대부분 통합 문서입니까?** Excel 일괄 업로드를 활용한
    포털입니다. 매년 재검토하십시오.

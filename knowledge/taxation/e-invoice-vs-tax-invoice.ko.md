@@ -26,7 +26,7 @@ verificationNeeded:
   - "RMCD가 전자송장 시각적 표현을 SST 송장 항목과 조화시키는 전용 지침을 발행했는지 여부 — mysst.customs.gov.my에서 확인되지 않았습니다"
 
 lang: "ko"
-sourceContentHash: "cf809540c51ed69e"
+sourceContentHash: "88e1064951c53abf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -35,14 +35,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "e-Invoice 면제 기준을 RM3,000,000 미만으로 갱신하고 e-Invoice 지침 인용을 v4.8(2026년 8월 30일)로 갱신함."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
   - title: "Finance (No. 2) Act 2023 (Act 851) — 제82C조 (Finance (No. 2) Act 2023 (Act 851) — section 82C)"
     url: "https://www.myttx.customs.gov.my/wp-content/uploads/2024/02/WJW23%EF%80%A21341-BI.pdf"
@@ -54,10 +58,10 @@ sources:
   - title: "Sales Tax Regulations 2018 — 규정 7 (Sales Tax Regulations 2018 — regulation 7)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Sales-Tax-Regulations-2018.pdf"
     publisher: "말레이시아 왕립관세청 (RMCD)"
-  - title: "전자세금계산서 지침 (버전 4.7) (e-Invoice Guideline (Version 4.7))"
+  - title: "전자세금계산서 지침 (버전 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "내국세입청 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MySST — 인보이스 발행 (MySST — Issuing Invoices)"
     url: "https://mysst.customs.gov.my/issuing-invoices/"
     publisher: "말레이시아 왕립관세청 (RMCD)"
@@ -87,7 +91,7 @@ MyInvois를 통해 송장을 검증한다고 해서 그것이 SST 송장이 되�
 | 검증 | LHDN에 전송되어 검증됨 | 없음 — 제출도, 참조 번호도 없음 |
 | 목적 | 소득세를 위한 소득과 비용의 증빙 | SST 회계를 위한 부과 세금의 증거 |
 
-어느 것도 다른 것을 대체하지 않습니다. 매출 RM100만 미만의 SST 등록 회사는 전자송장이 면제되며 여전히 SST 송장을 발행합니다. 대형 비등록 회사는 그 반대입니다.
+어느 것도 다른 것을 대체하지 않습니다. 매출 RM300만 미만의 SST 등록 회사는 전자송장이 면제되며 여전히 SST 송장을 발행합니다. 대형 비등록 회사는 그 반대입니다.
 
 ## 실제로 이를 규율하는 규정
 

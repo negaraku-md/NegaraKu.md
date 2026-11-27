@@ -12,11 +12,11 @@ mode: "practical"
 contentType: "data"
 sensitivity: "none"
 
-answer: "Mandat e-Invois Malaysia berjalan dalam empat fase menurut peredaran FY2022: 1 Agustus 2024 bagi melebihi RM100 juta, 1 Januari 2025 bagi melebihi RM25 juta hingga RM100 juta, 1 Juli 2025 bagi melebihi RM5 juta hingga RM25 juta, dan 1 Januari 2026 bagi hingga RM5 juta. Wajib pajak dengan peredaran tahunan di bawah RM1 juta dikecualikan. Usaha yang mulai beroperasi dari 2023 dan seterusnya dimulai pada 1 Juli 2026."
+answer: "Mandat e-Invois Malaysia berjalan dalam empat fase menurut peredaran FY2022: 1 Agustus 2024 bagi melebihi RM100 juta, 1 Januari 2025 bagi melebihi RM25 juta hingga RM100 juta, 1 Juli 2025 bagi melebihi RM5 juta hingga RM25 juta, dan 1 Januari 2026 bagi hingga RM5 juta. Wajib pajak dengan peredaran tahunan di bawah RM3 juta dikecualikan, kecuali jika terikat pada suatu kelompok di atas ambang tersebut. Usaha yang mulai beroperasi dari 2023 dan seterusnya dengan peredaran sekurang-kurangnya RM3 juta dimulai pada 1 Juli 2026."
 keyTakeaways:
   - "Hanya empat fase — fase yang Anda masuki ditetapkan oleh peredaran FY2022 Anda dan tidak pernah berubah"
-  - "Peredaran atau penghasilan tahunan di bawah RM1,000,000 adalah pengecualian penuh, bukan penundaan"
-  - "Usaha baru yang mulai 2023–2025 dengan peredaran sekurang-kurangnya RM1 juta dimulai 1 Juli 2026"
+  - "Peredaran atau penghasilan tahunan di bawah RM3,000,000 adalah pengecualian penuh, bukan penundaan — tetapi ditarik jika pemegang saham, perusahaan induk atau perusahaan terkait berada pada RM3,000,000 atau lebih"
+  - "Usaha baru yang mulai 2023–2025 dengan peredaran sekurang-kurangnya RM3 juta dimulai 1 Juli 2026"
   - "Wajib pajak fase 4 memiliki masa pelonggaran sementara yang berjalan hingga 31 Desember 2027"
   - "Selama pelonggaran Anda dapat mengonsolidasikan segalanya dan menolak permintaan e-Invois individu"
   - "Satu SVDP e-Invois dibuka dari 7 Juli 2026 hingga 31 Desember 2027 untuk menyelaraskan pengiriman yang terlewat"
@@ -70,14 +70,14 @@ obligations:
     criteria:
       - metric: "turnover"
         op: "lt"
-        value: 1000000
+        value: 3000000
     exemption: true
-    due: "Pengecualian penuh jika peredaran atau penghasilan tahunan di bawah RM1,000,000; jika tidak, ia wajib karena semua fase kini berlaku"
+    due: "Pengecualian penuh jika peredaran atau penghasilan tahunan di bawah RM3,000,000 dan tidak terikat pada suatu kelompok pada RM3,000,000 atau lebih; jika tidak, ia wajib karena semua fase kini berlaku"
     authority: "LHDN"
     statute: "Income Tax Act 1967, s.82C"
 
 lang: "id"
-sourceContentHash: "fe5d22ede93ea4c0"
+sourceContentHash: "a4aa5bd3b9ec2d19"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,23 +87,27 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Pengecualian berdasarkan ukuran dinaikkan menjadi di bawah RM3,000,000 dan kondisi peredaran kelompok section 1.6.10 yang baru ditambahkan; ambang usaha baru diperbarui menjadi RM3,000,000; kutipan garis panduan diperbarui menjadi Umum v4.8 (30 Agustus 2026) dan Khusus v4.9 (7 September 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "Pedoman e-Invois (Versi 4.7) (e-Invoice Guideline (Version 4.7))"
+  - title: "Pedoman e-Invois (Versi 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Badan Pendapatan Dalam Negeri Malaysia (LHDN)"
-    date: "2026-07-07"
-  - title: "Pedoman Khusus e-Invois (Versi 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+    date: "2026-08-30"
+  - title: "Pedoman Khusus e-Invois (Versi 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "Badan Pendapatan Dalam Negeri Malaysia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
   - title: "Lini Masa Pelaksanaan e-Invois (Garis Masa Pelaksanaan e-Invois)"
     url: "https://www.hasil.gov.my/e-invois/garis-masa-pelaksanaan-e-invois/"
     publisher: "Badan Pendapatan Dalam Negeri Malaysia (LHDN)"
@@ -121,18 +125,19 @@ relations:
   - { rel: "explained-in", to: "e-invoice-data-fields" }
   - { rel: "related-to", to: "consolidated-e-invoice" }
 related: ["e-invoicing", "consolidated-e-invoice", "self-billed-e-invoice", "myinvois-integration", "e-invoice-data-fields"]
-keywords: ["fasa MyInvois", "tarikh pelaksanaan e-invois Malaysia", "pengecualian e-invois RM1 juta", "tempoh pelonggaran e-invois", "garis masa e-invois LHDN", "tarikh pelaksanaan e-invois"]
+keywords: ["fasa MyInvois", "tarikh pelaksanaan e-invois Malaysia", "pengecualian e-invois RM3 juta", "tempoh pelonggaran e-invois", "garis masa e-invois LHDN", "tarikh pelaksanaan e-invois"]
 framework: data-reference
 ---
 
 Dua angka menentukan semuanya: peredaran FY2022 Anda, yang menetapkan fase Anda
-secara permanen, dan RM1,000,000, di bawah mana Anda keluar sepenuhnya dari sistem
-ini. Segala sesuatu lain pada halaman ini adalah rincian.
+secara permanen, dan RM3,000,000, di bawah mana Anda keluar sepenuhnya dari sistem
+ini (kecuali Anda terikat pada kelompok yang lebih besar). Segala sesuatu lain pada
+halaman ini adalah rincian.
 
 Halaman ini dipertahankan sebagai data karena tanggal-tanggalnya telah berubah
 lebih dari sekali. Angka-angka di bawah diambil dari **e-Invoice Guideline versi
-4.7** dan **e-Invoice Specific Guideline versi 4.8**, keduanya diterbitkan pada
-7 Juli 2026.
+4.8** (30 Agustus 2026) dan **e-Invoice Specific Guideline versi 4.9**
+(7 September 2026).
 
 ## Apa tanggal fase wajib?
 
@@ -144,7 +149,7 @@ lebih dari sekali. Angka-angka di bawah diambil dari **e-Invoice Guideline versi
 | 4 | **Hingga RM5 juta** | **1 Januari 2026** |
 
 Tidak ada fase 5. Fase kelima bagi rentang RM150,000–RM500,000 pernah muncul dalam
-versi guideline terdahulu dan telah hilang dalam versi 4.7.
+versi guideline terdahulu dan telah hilang dalam versi guideline terkini.
 
 ## Bagaimana fase saya ditentukan?
 
@@ -163,16 +168,16 @@ merupakan wajib pajak fase 2.
 
 | Usaha dimulai | Tanggal pelaksanaan e-Invois |
 | --- | --- |
-| 2023 hingga 2025, peredaran sekurang-kurangnya RM1,000,000 | **1 Juli 2026** |
+| 2023 hingga 2025, peredaran sekurang-kurangnya RM3,000,000 | **1 Juli 2026** |
 | 2026 dan seterusnya | **1 Juli 2026** atau tanggal mulai |
-| 2026 dan seterusnya, peredaran tahun pertama di bawah RM1,000,000 | **1 Januari tahun kedua berikutnya** setelah tahun peredaran mencapai RM1,000,000 |
+| 2026 dan seterusnya, peredaran tahun pertama di bawah RM3,000,000 | **1 Januari tahun kedua berikutnya** setelah tahun peredaran mencapai RM3,000,000 |
 
 ## Siapa yang dikecualikan?
 
 Section 1.6.1 Guideline mengecualikan, dari menerbitkan e-Invois apa pun termasuk
 yang self-billed:
 
-- Wajib pajak dengan peredaran atau penghasilan tahunan **kurang dari RM1,000,000**
+- Wajib pajak dengan peredaran atau penghasilan tahunan **kurang dari RM3,000,000**
 - Kantor diplomatik asing
 - Individu yang tidak menjalankan usaha
 - Badan statutori, otoritas statutori dan otoritas lokal, bagi pungutan statutori,
@@ -180,9 +185,15 @@ yang self-billed:
 - Organisasi internasional, bagi barang yang dijual atau jasa yang dilaksanakan
   **sebelum 1 Juli 2025**
 
-Pengecualian itu melekat pada orang tersebut, bukan kelompok. Section 1.6.5: sebuah
-perusahaan yang dimiliki oleh orang yang dikecualikan tetap melaksanakan menurut
-lini masanya sendiri.
+Dua aturan membatasi pengecualian berdasarkan ukuran. Section 1.6.5 menjaga
+pengecualian *lain* tetap bersifat personal — sebuah perusahaan yang dimiliki oleh
+orang yang dikecualikan tetap melaksanakan menurut lini masanya sendiri. Section
+1.6.10, yang ditambahkan dalam versi 4.8, melakukan hal sebaliknya bagi pengecualian
+berdasarkan ukuran: ia menarik pengecualian di bawah RM3,000,000 dari setiap wajib
+pajak yang pemegang saham bukan-individu, perusahaan induk, atau perusahaan terkait
+atau usaha patungannya memiliki peredaran atau penghasilan tahunan sekurang-kurangnya
+RM3,000,000. Sebuah perusahaan kecil di dalam kelompok yang lebih besar karena itu
+berada dalam lingkup meskipun ukurannya sendiri kecil.
 
 Secara terpisah, section 1.6.7 mengeluarkan jenis pendapatan tertentu dari cakupan
 — pendapatan penggajian, pensiun, alimoni, zakat, sebagian distribusi dividen,
@@ -243,7 +254,7 @@ tindak pidana.
 
 ## Kesalahan umum
 
-- **Menganggap angka RM1 juta sebagai penundaan.** Ia adalah pengecualian permanen
+- **Menganggap angka RM3 juta sebagai penundaan.** Ia adalah pengecualian permanen
   dalam section 1.6.1. Ia juga bukan satu fase — tidak ada fase 5.
 - **Menghitung ulang fase Anda dari peredaran terkini.** Ujiannya adalah FY2022,
   sekali saja.

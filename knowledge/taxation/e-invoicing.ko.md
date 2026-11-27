@@ -12,11 +12,11 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "전자송장은 무료 MyInvois 포털이나 API 연동 시스템을 통해 송장 데이터를 검증을 위해 LHDN의 MyInvois 시스템에 제출하도록 요구합니다. 검증된 문서는 고유 식별번호(Unique Identifier Number)와 QR 코드를 받습니다. 이 의무는 연간 매출로 단계화되며, 마지막 단계는 2026년 1월 1일부터 매출 RM500만까지의 사업체에 미치고 RM100만 미만의 사업체는 면제됩니다. 각 단계에는 자체의 임시 완화 기간이 있습니다."
+answer: "전자송장은 무료 MyInvois 포털이나 API 연동 시스템을 통해 송장 데이터를 검증을 위해 LHDN의 MyInvois 시스템에 제출하도록 요구합니다. 검증된 문서는 고유 식별번호(Unique Identifier Number)와 QR 코드를 받습니다. 이 의무는 연간 매출로 단계화되며, 마지막 단계는 2026년 1월 1일부터 매출 RM500만까지의 사업체에 미치고 RM300만 미만의 사업체는 면제됩니다. 각 단계에는 자체의 임시 완화 기간이 있습니다."
 keyTakeaways:
   - "검증은 문서가 소득세 목적의 송장으로 기능하기 전에 MyInvois를 통해 이루어집니다"
   - "네 개 단계, 다섯 번째는 없습니다 — 마지막 단계는 매출 RM500만까지의 사업체에 대해 2026년 1월 1일 시작되었습니다"
-  - "연간 매출이 RM1,000,000 미만인 사업체는 면제됩니다"
+  - "연간 매출이 RM3,000,000 미만인 사업체는 면제됩니다 — 그 기준 이상의 그룹에 연결되지 않은 한"
   - "귀사의 단계는 2022 회계연도 또는 2022 과세연도 수치로 확정되며 이후 변동되지 않습니다"
   - "말레이시아 국세청(LHDN)이 검증한 전자송장이 자동으로 SST 세금 송장 규칙을 충족하지는 않습니다 — 그것은 별개의 문서 요건입니다"
 appliesTo: "전자송장 의무를 준비하거나 그에 따라 운영하는 사업주, 재무팀 및 시스템 관리자."
@@ -24,7 +24,7 @@ appliesTo: "전자송장 의무를 준비하거나 그에 따라 운영하는 �
 verificationNeeded: []
 
 lang: "ko"
-sourceContentHash: "46533f76e2996181"
+sourceContentHash: "7269dd5c2ab6076f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -33,23 +33,27 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "규모 면제 기준을 RM3,000,000 미만으로 정정하고 신설 제1.6.10절 그룹 조건을 반영함(e-Invoice 지침 v4.8, 2026년 8월 30일 기준); 지침 인용을 갱신함(일반 v4.8, 특정 v4.9)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "IRBM 전자세금계산서 지침 (IRBM e-Invoice Guideline)"
+  - title: "IRBM 전자세금계산서 지침 (버전 4.8) (IRBM e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "내국세입청 (LHDN)"
-    date: "2026-07-07"
-  - title: "IRBM 전자세금계산서 특정 지침 (IRBM e-Invoice Specific Guideline)"
+    date: "2026-08-30"
+  - title: "IRBM 전자세금계산서 특정 지침 (버전 4.9) (IRBM e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "내국세입청 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
   - title: "MyInvois 포털 (MyInvois Portal)"
     url: "https://myinvois.hasil.gov.my/"
     publisher: "내국세입청 (LHDN)"
@@ -94,7 +98,7 @@ framework: journey-hub
 
 ## 사람들이 잘못 아는 네 가지
 
-**5단계는 없습니다.** 도입은 연간 매출로 네 단계에 걸쳐 진행되었고, 2026년 1월 1일부터 RM500만까지의 집단으로 종료되었습니다. 연간 매출 **RM1,000,000** 미만의 사업체는 외국 외교 사무소와 사업을 영위하지 않는 개인과 함께 면제됩니다. 이는 *신규 개시* 사업체에 적용되는 별도의 **2026년 7월 1일** 시작과 모순되지 않습니다 — 2023년부터 2025년 사이에 매출 RM100만 이상으로 시작한 사업체는 그 날짜에 편입됩니다. 이는 FY2022 기준이 없는 진입자를 위한 규칙이지, 다섯 번째 매출 단계가 아닙니다.
+**5단계는 없습니다.** 도입은 연간 매출로 네 단계에 걸쳐 진행되었고, 2026년 1월 1일부터 RM500만까지의 집단으로 종료되었습니다. 연간 매출 **RM3,000,000** 미만의 사업체는 외국 외교 사무소와 사업을 영위하지 않는 개인과 함께 면제됩니다. 규모 면제에는 함정이 있습니다: 지침 제1.6.10절에 따라, 비개인 주주, 지주회사 또는 관계회사가 그 자체로 RM300만 이상인 경우 면제가 사라집니다 — [단계 안내서](/en/taxation/myinvois-phases)에 그 판정 기준이 있습니다. 이는 *신규 개시* 사업체에 적용되는 별도의 **2026년 7월 1일** 시작과 모순되지 않습니다 — 2023년부터 2025년 사이에 매출 RM300만 이상으로 시작한 사업체는 그 날짜에 편입됩니다. 이는 FY2022 기준이 없는 진입자를 위한 규칙이지, 다섯 번째 매출 단계가 아닙니다.
 
 **귀사의 단계는 고정되어 있으며 유동적이지 않습니다.** 이는 FY2022 감사 재무제표나 YA2022 신고서로 결정되며, 회계연도 종료가 바뀐 경우 안분되고, 이후 이동하지 않습니다. 나중에 기준을 넘어 성장한다고 해서 더 이른 단계로 이동하지 않고, 축소된다고 해서 벗어나지도 않습니다.
 

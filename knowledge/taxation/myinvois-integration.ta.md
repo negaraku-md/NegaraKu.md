@@ -43,7 +43,7 @@ verificationNeeded:
   - "MyInvois Portal தொகுப்பு பதிவேற்ற விரிதாளில் ஏற்கப்படும் அதிகபட்ச வரிசைகளின் எண்ணிக்கை — LHDN ஒரு குறிப்பிட்ட எண்ணிக்கையை விவரிக்கிறது, ஆனால் அதைக் கூறவில்லை"
 
 lang: "ta"
-sourceContentHash: "12fac171732261f3"
+sourceContentHash: "098a1b33b5921f56"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -52,19 +52,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "விலக்கு வரம்பு RM3,000,000-க்குக் கீழ் எனப் புதுப்பிக்கப்பட்டது (section 1.6.10 குழு நிபந்தனையுடன்); வழிகாட்டி மேற்கோள்கள் General v4.8 (30 August 2026) மற்றும் Specific v4.9 (7 September 2026) எனப் புதுப்பிக்கப்பட்டன."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "மின்-விலைப்பட்டியல் வழிகாட்டி (பதிப்பு 4.7) — பிரிவுகள் 2.2 முதல் 2.5 வரை (e-Invoice Guideline (Version 4.7) — sections 2.2 to 2.5)"
+  - title: "மின்-விலைப்பட்டியல் வழிகாட்டி (பதிப்பு 4.8) — பிரிவுகள் 2.2 முதல் 2.5 வரை (e-Invoice Guideline (Version 4.8) — sections 2.2 to 2.5)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MyInvois SDK (MyInvois SDK)"
     url: "https://sdk.myinvois.hasil.gov.my/"
     publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
@@ -74,10 +78,10 @@ sources:
   - title: "MyInvois SDK — நிலையான பிழை பதில் (MyInvois SDK — standard error response)"
     url: "https://sdk.myinvois.hasil.gov.my/standard-error-response/"
     publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
-  - title: "மின்-விலைப்பட்டியல் குறிப்பிட்ட வழிகாட்டி (பதிப்பு 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+  - title: "மின்-விலைப்பட்டியல் குறிப்பிட்ட வழிகாட்டி (பதிப்பு 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "MyInvois transmission mechanisms"
 relations:
@@ -176,7 +180,7 @@ e-Invoice Specific Guideline-இன் Table 3.6-இல் உள்ள ஒன�
 
 | வழி | பொருத்தமானது | கவனிக்க வேண்டியவை |
 | --- | --- | --- |
-| **நேரடி ERP ஒருங்கிணைப்பு** | பராமரிக்கப்படும் மலேசிய உள்ளூர்மயமாக்கல் கொண்ட நிறுவப்பட்ட ERP, அல்லது உள்ளக பொறியியல் திறன் | வழிகாட்டி பதிப்புகள் மாறும்போது தொடர்ச்சியான பராமரிப்பு — v4.7 மற்றும் v4.8 இரண்டும் 2026 ஜூலை 7-இல் வெளியாயின |
+| **நேரடி ERP ஒருங்கிணைப்பு** | பராமரிக்கப்படும் மலேசிய உள்ளூர்மயமாக்கல் கொண்ட நிறுவப்பட்ட ERP, அல்லது உள்ளக பொறியியல் திறன் | வழிகாட்டி பதிப்புகள் மாறும்போது தொடர்ச்சியான பராமரிப்பு — General Guideline 2026 ஆகஸ்ட் 30-இல் v4.8-ஐயும், Specific Guideline 2026 செப்டம்பர் 7-இல் v4.9-ஐயும் அடைந்தது |
 | **Peppol சேவை வழங்குநர்** | வர்த்தகக் கூட்டாளர்களுடன் இடையியங்கக்கூடிய ஆவணப் பரிமாற்றத்தையும் விரும்பும் வணிகங்கள் | Peppol ஒரு MyInvois தேவை அல்ல; அது தேவை போல் அதற்குப் பணம் செலுத்த வேண்டாம் |
 | **Peppol அல்லாத தொழில்நுட்ப வழங்குநர் / middleware** | பல மூலப் பயன்பாடுகள், POS தொகுப்புகள், அல்லது உள்ளூர்மயமாக்கல் இல்லாத ERP | தரவு பாதுகாப்புரிமை, வெளியேறும் விதிமுறைகள், மற்றும் அவர்கள் தங்கள் சொந்த அனுமதிச்சான்றுகளின் கீழ் சமர்ப்பிக்கிறார்களா என்பது |
 
@@ -207,8 +211,9 @@ LHDN-இன் செயலிழப்பை உள்ளடக்குகி�
 
 ## ஒரு முடிவுப் பாதை
 
-1. **நீங்கள் விலக்கு அளிக்கப்பட்டவரா?** ஆண்டு விற்றுமுதல் RM1,000,000-க்குக்
-   கீழ் இருந்தால், நிறுத்துங்கள்.
+1. **நீங்கள் விலக்கு அளிக்கப்பட்டவரா?** ஆண்டு விற்றுமுதல் RM3,000,000-க்குக்
+   கீழ் இருந்து, RM3,000,000 அல்லது அதற்கு மேலுள்ள ஒரு குழுவுடன் இணைக்கப்படாத
+   இடத்தில், நிறுத்துங்கள்.
 2. மேலே உள்ள நான்கு வகைகளிலும் **மாதாந்திர ஆவணங்களை எண்ணுங்கள்**.
 3. **ஏறக்குறைய நூறுக்குக் கீழ், பெரும்பாலும் ஒருங்கிணைந்தவை?** Excel தொகுப்பு
    பதிவேற்றத்துடன் Portal. ஆண்டுதோறும் மறுபரிசீலனை செய்யுங்கள்.

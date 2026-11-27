@@ -137,7 +137,7 @@ obligations:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d210ed718721460b"
+sourceContentHash: "a25b6554199519aa"
 
 status: "published"
 aiAssisted: true
@@ -145,15 +145,19 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Pengecualian saiz e-Invois dikemas kini kepada di bawah RM3,000,000 dengan syarat kumpulan seksyen 1.6.10; petikan dikemas kini kepada Garis Panduan e-Invois v4.8 (30 Ogos 2026)."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "Companies Act 2016 (Act 777), pada 1 Ogos 2022 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
@@ -175,7 +179,7 @@ sources:
   - title: "Garis Masa Pelaksanaan e-Invois (dikemas kini 7 Disember 2025) (e-Invoice Implementation Timeline (updated 7 December 2025))"
     url: "https://www.hasil.gov.my/e-invois/pelaksanaan-e-invois-di-malaysia/garis-masa-pelaksanaan-e-invois/"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
-  - title: "Garis Panduan e-Invois IRBM (Versi 4.7) (IRBM e-Invoice Guideline (Version 4.7))"
+  - title: "Garis Panduan e-Invois IRBM (Versi 4.8) (IRBM e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
   - title: "Mendaftarkan Perniagaan Anda — MySST (Registering your Business — MySST)"
@@ -336,12 +340,15 @@ RM1,000,000. Semak sama ada perkhidmatan anda tergolong dalam kategori bercukai,
 pada ambang yang mana, sebelum anda andaikan anda berada di luarnya.
 
 **e-Invois** dilaksanakan berperingkat mengikut pusing ganti tahunan. Pembayar cukai
-dengan pusing ganti tahunan kurang daripada RM1 juta dikecualikan daripada pelaksanaan
+dengan pusing ganti tahunan kurang daripada RM3 juta dikecualikan daripada pelaksanaan
 e-Invois; tarikh mandatori berperingkat bermula dari 1 Ogos 2024 untuk pembayar cukai
 melebihi RM100 juta hingga ke 1 Januari 2026 untuk jaluran sehingga RM5 juta, menurut
 garis masa yang diterbitkan LHDN. Sdn Bhd yang baru diperbadankan oleh itu dikecualikan
-selagi hasilnya kekal di bawah RM1 juta. Di bawah Garis Panduan e-Invois IRBM, sebaik
-sahaja perniagaan baharu melepasi ambang pengecualian RM1 juta, ia diberikan tarikh
+selagi hasilnya kekal di bawah RM3 juta — melainkan, di bawah seksyen 1.6.10 Garis
+Panduan, ia merupakan anak syarikat kepada sebuah syarikat induk, atau mempunyai syarikat
+berkaitan atau pemegang saham bukan individu, dengan pusing ganti tahunan sekurang-kurangnya
+RM3 juta, yang mana dalam keadaan itu pengecualian saiz tidak terpakai. Jika tidak, sebaik
+sahaja perniagaan baharu melepasi ambang pengecualian RM3 juta, ia diberikan tarikh
 pelaksanaan konsesi 1 Julai 2026.
 
 ## Apabila anda mengambil pekerja: KWSP, PERKESO dan SIP

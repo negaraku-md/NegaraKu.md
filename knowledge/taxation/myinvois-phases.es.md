@@ -12,11 +12,11 @@ mode: "practical"
 contentType: "data"
 sensitivity: "none"
 
-answer: "El mandato de factura electrónica de Malasia se ejecuta en cuatro fases según la facturación del FY2022: el 1 de agosto de 2024 por encima de RM100 millones, el 1 de enero de 2025 por encima de RM25 millones y hasta RM100 millones, el 1 de julio de 2025 por encima de RM5 millones y hasta RM25 millones, y el 1 de enero de 2026 hasta RM5 millones. Los contribuyentes con una facturación anual inferior a RM1 millón están exentos. Los negocios que comenzaron a operar a partir de 2023 empiezan el 1 de julio de 2026."
+answer: "El mandato de factura electrónica de Malasia se ejecuta en cuatro fases según la facturación del FY2022: el 1 de agosto de 2024 por encima de RM100 millones, el 1 de enero de 2025 por encima de RM25 millones y hasta RM100 millones, el 1 de julio de 2025 por encima de RM5 millones y hasta RM25 millones, y el 1 de enero de 2026 hasta RM5 millones. Los contribuyentes con una facturación anual inferior a RM3 millones están exentos, salvo que estén vinculados a un grupo por encima de ese umbral. Los negocios que comenzaron a operar a partir de 2023 con una facturación de al menos RM3 millones empiezan el 1 de julio de 2026."
 keyTakeaways:
   - "Solo cuatro fases — la fase que le corresponde la fija su facturación del FY2022 y no cambia nunca"
-  - "Por debajo de RM1,000,000 de facturación o ingresos anuales es una exención total, no un aplazamiento"
-  - "Los nuevos negocios que comienzan entre 2023 y 2025 con una facturación de al menos RM1 millón empiezan el 1 de julio de 2026"
+  - "Por debajo de RM3,000,000 de facturación o ingresos anuales es una exención total, no un aplazamiento — pero se retira si un accionista, una sociedad matriz o una empresa vinculada tiene RM3,000,000 o más"
+  - "Los nuevos negocios que comienzan entre 2023 y 2025 con una facturación de al menos RM3 millones empiezan el 1 de julio de 2026"
   - "Los contribuyentes de la fase 4 tienen un período de flexibilización provisional que llega hasta el 31 de diciembre de 2027"
   - "Durante la flexibilización puede consolidarlo todo y rechazar las solicitudes de factura electrónica individual"
   - "Un SVDP de factura electrónica está abierto del 7 de julio de 2026 al 31 de diciembre de 2027 para regularizar los envíos no realizados"
@@ -72,12 +72,12 @@ obligations:
         op: "lt"
         value: 1000000
     exemption: true
-    due: "Full exemption if annual turnover or revenue is below RM1,000,000; otherwise mandatory, as all phases are now in force"
+    due: "Full exemption if annual turnover or revenue is below RM3,000,000 and not tied to a group at RM3,000,000 or more; otherwise mandatory, as all phases are now in force"
     authority: "LHDN"
     statute: "Income Tax Act 1967, s.82C"
 
 lang: "es"
-sourceContentHash: "fe5d22ede93ea4c0"
+sourceContentHash: "a4aa5bd3b9ec2d19"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -87,23 +87,27 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Exención por tamaño elevada a menos de RM3,000,000 y añadida la nueva condición de facturación de grupo de la sección 1.6.10; umbral de nuevos negocios actualizado a RM3,000,000; citaciones de las guías actualizadas a General v4.8 (30 de agosto de 2026) y Específica v4.9 (7 de septiembre de 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "Guía de la factura electrónica (Versión 4.7) (e-Invoice Guideline (Version 4.7))"
+  - title: "Guía de la factura electrónica (Versión 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Junta de Ingresos Internos de Malasia (LHDN)"
-    date: "2026-07-07"
-  - title: "Guía específica de la factura electrónica (Versión 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+    date: "2026-08-30"
+  - title: "Guía específica de la factura electrónica (Versión 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "Junta de Ingresos Internos de Malasia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
   - title: "Cronograma de implementación de la factura electrónica (Garis Masa Pelaksanaan e-Invois)"
     url: "https://www.hasil.gov.my/e-invois/garis-masa-pelaksanaan-e-invois/"
     publisher: "Junta de Ingresos Internos de Malasia (LHDN)"
@@ -121,13 +125,13 @@ relations:
   - { rel: "explained-in", to: "e-invoice-data-fields" }
   - { rel: "related-to", to: "consolidated-e-invoice" }
 related: ["e-invoicing", "consolidated-e-invoice", "self-billed-e-invoice", "myinvois-integration", "e-invoice-data-fields"]
-keywords: ["MyInvois phases", "e-Invoice implementation date Malaysia", "e-Invoice exemption RM1 million", "e-Invoice relaxation period", "LHDN e-Invoice timeline", "tarikh pelaksanaan e-invois"]
+keywords: ["MyInvois phases", "e-Invoice implementation date Malaysia", "e-Invoice exemption RM3 million", "e-Invoice relaxation period", "LHDN e-Invoice timeline", "tarikh pelaksanaan e-invois"]
 framework: data-reference
 ---
 
-Dos cifras lo deciden todo: su facturación del FY2022, que fija su fase de forma permanente, y RM1,000,000, por debajo de la cual queda fuera del sistema por completo. Todo lo demás en esta página es detalle.
+Dos cifras lo deciden todo: su facturación del FY2022, que fija su fase de forma permanente, y RM3,000,000, por debajo de la cual queda fuera del sistema por completo (salvo que esté vinculado a un grupo mayor). Todo lo demás en esta página es detalle.
 
-Esta página se mantiene como datos porque las fechas se han movido más de una vez. Las cifras siguientes están tomadas de la **Guía de la factura electrónica versión 4.7** y de la **Guía específica de la factura electrónica versión 4.8**, ambas publicadas el 7 de julio de 2026.
+Esta página se mantiene como datos porque las fechas se han movido más de una vez. Las cifras siguientes están tomadas de la **Guía de la factura electrónica versión 4.8** (30 de agosto de 2026) y de la **Guía específica de la factura electrónica versión 4.9** (7 de septiembre de 2026).
 
 ## ¿Cuáles son las fechas obligatorias de las fases?
 
@@ -138,7 +142,7 @@ Esta página se mantiene como datos porque las fechas se han movido más de una 
 | 3 | **Por encima de RM5 millones y hasta RM25 millones** | **1 de julio de 2025** |
 | 4 | **Hasta RM5 millones** | **1 de enero de 2026** |
 
-No hay fase 5. Una quinta fase para la banda de RM150,000–RM500,000 apareció en versiones anteriores de la guía y ha desaparecido de la versión 4.7.
+No hay fase 5. Una quinta fase para la banda de RM150,000–RM500,000 apareció en versiones anteriores de la guía y ha desaparecido de la guía vigente.
 
 ## ¿Cómo se determina mi fase?
 
@@ -154,21 +158,21 @@ Una vez fijada, queda fijada. La sección 1.5 de la Guía es explícita: los cam
 
 | Negocio comenzado | Fecha de implementación de la factura electrónica |
 | --- | --- |
-| 2023 a 2025, facturación de al menos RM1,000,000 | **1 de julio de 2026** |
+| 2023 a 2025, facturación de al menos RM3,000,000 | **1 de julio de 2026** |
 | 2026 en adelante | **1 de julio de 2026** o la fecha de inicio |
-| 2026 en adelante, facturación del primer año inferior a RM1,000,000 | **1 de enero del segundo año siguiente** al año en que la facturación alcanzó RM1,000,000 |
+| 2026 en adelante, facturación del primer año inferior a RM3,000,000 | **1 de enero del segundo año siguiente** al año en que la facturación alcanzó RM3,000,000 |
 
 ## ¿Quién está exento?
 
 La sección 1.6.1 de la Guía exime de emitir cualquier factura electrónica, incluidas las de por cuenta propia, a:
 
-- Los contribuyentes con una facturación o ingresos anuales **inferiores a RM1,000,000**
+- Los contribuyentes con una facturación o ingresos anuales **inferiores a RM3,000,000**
 - Las oficinas diplomáticas extranjeras
 - Las personas físicas que no ejercen una actividad económica
 - Los organismos estatutarios, las autoridades estatutarias y las autoridades locales, por las recaudaciones estatutarias, y por los bienes vendidos o los servicios prestados **antes del 1 de julio de 2025**
 - Las organizaciones internacionales, por los bienes vendidos o los servicios prestados **antes del 1 de julio de 2025**
 
-La exención se vincula a la persona, no al grupo. Sección 1.6.5: una empresa propiedad de una persona exenta implementa igualmente según su propio cronograma.
+Dos reglas matizan la exención por tamaño. La sección 1.6.5 mantiene personales las *otras* exenciones — una empresa propiedad de una persona exenta implementa igualmente según su propio cronograma. La sección 1.6.10, añadida en la versión 4.8, hace lo contrario para la exención por tamaño: retira la exención de menos de RM3,000,000 a cualquier contribuyente cuyo accionista no individual, sociedad matriz, o empresa vinculada o negocio conjunto tenga una facturación o ingresos anuales de al menos RM3,000,000. Una empresa pequeña dentro de un grupo mayor está, por tanto, dentro del alcance a pesar de su propio tamaño.
 
 Por separado, la sección 1.6.7 retira del ámbito tipos de renta específicos — rentas del trabajo, pensión, pensión alimenticia, zakat, ciertas distribuciones de dividendos, valores cotizados en bolsa y valores de contratos de derivados, y las transmisiones de acciones no cotizadas salvo cuando el transmitente sea una empresa, LLP, entidad fiduciaria o sociedad cooperativa.
 
@@ -206,7 +210,7 @@ No de la Guía. La **Sección 82C de la Income Tax Act 1967**, incorporada por l
 
 ## Errores comunes
 
-- **Tratar la cifra de RM1 millón como un aplazamiento.** Es una exención permanente en la sección 1.6.1. Tampoco es una fase — no hay fase 5.
+- **Tratar la cifra de RM3 millones como un aplazamiento.** Es una exención permanente en la sección 1.6.1. Tampoco es una fase — no hay fase 5.
 - **Recalcular su fase a partir de la facturación actual.** La prueba es el FY2022, una sola vez.
 - **Leer la flexibilización de la fase 4 como unas vacaciones.** Los envíos consolidados son la condición de la concesión, no una alternativa a ella.
 - **Suponer que la ventana de 72 horas es una ventana de corrección.** Cancela; no modifica. Pasadas las 72 horas se emite una factura electrónica de nota de crédito, débito o reembolso.

@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "cf809540c51ed69e"
+sourceContentHash: "88e1064951c53abf"
 
 status: "published"
 aiAssisted: true
@@ -36,14 +36,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "电子发票豁免门槛更新为低于 RM3,000,000，并将 e-Invoice Guideline 引用更新为 v4.8（2026 年 8 月 30 日）。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
   - title: "Finance (No. 2) Act 2023 (Act 851) — 第82C条 (Finance (No. 2) Act 2023 (Act 851) — section 82C)"
     url: "https://www.myttx.customs.gov.my/wp-content/uploads/2024/02/WJW23%EF%80%A21341-BI.pdf"
@@ -55,10 +59,10 @@ sources:
   - title: "Sales Tax Regulations 2018 — 第7条例 (Sales Tax Regulations 2018 — regulation 7)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Sales-Tax-Regulations-2018.pdf"
     publisher: "马来西亚皇家关税局 (RMCD)"
-  - title: "电子发票指南（4.7版） (e-Invoice Guideline (Version 4.7))"
+  - title: "电子发票指南（4.8版） (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "内陆税收局 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MySST — 开具发票 (MySST — Issuing Invoices)"
     url: "https://mysst.customs.gov.my/issuing-invoices/"
     publisher: "马来西亚皇家关税局 (RMCD)"
@@ -90,7 +94,7 @@ framework: explainer
 | 验证 | 传送至 LHDN 并由其验证 | 无——不必提交，没有参考编号 |
 | 用途 | 所得税上的收入与开支凭证 | SST 入账上已征税款的证据 |
 
-两者互不取代。一家营业额低于 RM1 million 的已注册 SST 公司，获豁免电子发票，
+两者互不取代。一家营业额低于 RM3 million 的已注册 SST 公司，获豁免电子发票，
 但仍然要开 SST 发票。一家规模大而未注册 SST 的公司则刚好相反。
 
 ## 真正管这件事的条文

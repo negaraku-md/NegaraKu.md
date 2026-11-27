@@ -26,7 +26,7 @@ verificationNeeded:
   - "Si RMCD a publié un guide dédié conciliant la représentation visuelle de l'e-Invoice avec les mentions de la facture SST — aucun n'a été localisé sur mysst.customs.gov.my"
 
 lang: "fr"
-sourceContentHash: "cf809540c51ed69e"
+sourceContentHash: "88e1064951c53abf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -36,14 +36,18 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Seuil d'exonération de la facture électronique mis à jour à moins de RM3,000,000 et citation du Guide de la facture électronique actualisée à la v4.8 (30 août 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
   - title: "Finance (No. 2) Act 2023 (Act 851) — section 82C (loi de finances (n° 2) de 2023)"
     url: "https://www.myttx.customs.gov.my/wp-content/uploads/2024/02/WJW23%EF%80%A21341-BI.pdf"
@@ -55,10 +59,10 @@ sources:
   - title: "Sales Tax Regulations 2018 — regulation 7 (règlement de 2018 sur la taxe sur les ventes — règlement 7)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Sales-Tax-Regulations-2018.pdf"
     publisher: "Département royal des douanes de Malaisie (RMCD)"
-  - title: "Guide de l'e-Invoice (version 4.7) (e-Invoice Guideline (Version 4.7))"
+  - title: "Guide de l'e-Invoice (version 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Direction générale des impôts de Malaisie (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MySST — Émission des factures (MySST — Issuing Invoices)"
     url: "https://mysst.customs.gov.my/issuing-invoices/"
     publisher: "Département royal des douanes de Malaisie (RMCD)"
@@ -92,7 +96,7 @@ deux choses différentes du même document.
 | Finalité | Preuve de revenu et de dépense pour l'impôt sur le revenu | Preuve de l'impôt perçu pour la comptabilité SST |
 
 Aucun ne remplace l'autre. Une entreprise inscrite à la SST dont le chiffre d'affaires
-est inférieur à RM1 million est exemptée de la facturation électronique et émet pourtant des factures
+est inférieur à RM3 millions est exemptée de la facturation électronique et émet pourtant des factures
 SST. Une grande entreprise non inscrite est le cas inverse.
 
 ## La disposition qui régit réellement ceci

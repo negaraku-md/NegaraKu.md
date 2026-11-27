@@ -36,19 +36,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Guideline citations refreshed to e-Invoice Guideline v4.8 (30 August 2026) and Specific Guideline v4.9 (7 September 2026); field structure unchanged."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "e-Invoice Guideline (Version 4.7) — Appendices 1 and 2"
+  - title: "e-Invoice Guideline (Version 4.8) — Appendices 1 and 2"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "LHDN"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MyInvois SDK — document validation rules"
     url: "https://sdk.myinvois.hasil.gov.my/document-validation-rules/"
     publisher: "LHDN"
@@ -58,10 +62,10 @@ sources:
   - title: "MyInvois SDK — standard error response"
     url: "https://sdk.myinvois.hasil.gov.my/standard-error-response/"
     publisher: "LHDN"
-  - title: "e-Invoice Specific Guideline (Version 4.8) — Appendix 1, list of general TIN"
+  - title: "e-Invoice Specific Guideline (Version 4.9) — Appendix 1, list of general TIN"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "LHDN"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "e-Invoice data fields"
 relations:
@@ -77,7 +81,7 @@ framework: data-reference
 Every rejected submission traces back to one of two things: a field LHDN treats
 as mandatory that your ERP treats as optional, or a code value that is not in
 LHDN's list. This page is the field list, as published in Appendices 1 and 2 of
-the e-Invoice Guideline version 4.7.
+the e-Invoice Guideline version 4.8.
 
 Format is **XML or JSON**, both conforming to **UBL 2.1**. LHDN groups the 55
 fields into eight categories: Address, Business Details, Contact Number, Invoice

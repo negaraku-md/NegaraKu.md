@@ -12,11 +12,11 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "Hóa đơn điện tử yêu cầu dữ liệu hóa đơn được nộp cho hệ thống MyInvois của LHDN để thẩm định, thông qua MyInvois Portal miễn phí hoặc một hệ thống được kết nối API. Một tài liệu đã được thẩm định nhận được một Unique Identifier Number và mã QR. Quy định bắt buộc được phân theo từng giai đoạn theo doanh thu hằng năm, với giai đoạn cuối cùng vươn tới các doanh nghiệp lên đến RM5 triệu từ ngày 1 tháng 1 năm 2026 và các doanh nghiệp dưới RM1 triệu được miễn. Mỗi giai đoạn mang thời gian nới lỏng tạm thời riêng của nó."
+answer: "Hóa đơn điện tử yêu cầu dữ liệu hóa đơn được nộp cho hệ thống MyInvois của LHDN để thẩm định, thông qua MyInvois Portal miễn phí hoặc một hệ thống được kết nối API. Một tài liệu đã được thẩm định nhận được một Unique Identifier Number và mã QR. Quy định bắt buộc được phân theo từng giai đoạn theo doanh thu hằng năm, với giai đoạn cuối cùng vươn tới các doanh nghiệp lên đến RM5 triệu từ ngày 1 tháng 1 năm 2026 và các doanh nghiệp dưới RM3 triệu được miễn. Mỗi giai đoạn mang thời gian nới lỏng tạm thời riêng của nó."
 keyTakeaways:
   - "Việc thẩm định xảy ra thông qua MyInvois trước khi tài liệu hoạt động như một hóa đơn cho các mục đích thuế thu nhập"
   - "Bốn giai đoạn, không có giai đoạn thứ năm — giai đoạn cuối bắt đầu ngày 1 tháng 1 năm 2026 cho doanh thu lên đến RM5 triệu"
-  - "Các doanh nghiệp có doanh thu hằng năm dưới RM1,000,000 được miễn"
+  - "Các doanh nghiệp có doanh thu hằng năm dưới RM3,000,000 được miễn — trừ khi gắn với một tập đoàn vượt ngưỡng đó"
   - "Giai đoạn của bạn được cố định bởi các con số FY2022 hoặc YA2022 và không thay đổi sau đó"
   - "Một hóa đơn điện tử đã được LHDN thẩm định không tự động thỏa mãn các quy tắc về hóa đơn thuế SST — đó là một yêu cầu tài liệu riêng biệt"
 appliesTo: "Các chủ doanh nghiệp, nhóm tài chính và quản trị viên hệ thống chuẩn bị cho hoặc hoạt động theo quy định bắt buộc về hóa đơn điện tử."
@@ -24,7 +24,7 @@ appliesTo: "Các chủ doanh nghiệp, nhóm tài chính và quản trị viên 
 verificationNeeded: []
 
 lang: "vi"
-sourceContentHash: "46533f76e2996181"
+sourceContentHash: "7269dd5c2ab6076f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -33,23 +33,27 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Ngưỡng miễn theo quy mô được chỉnh thành dưới RM3,000,000 và ghi nhận điều kiện tập đoàn mới của section 1.6.10, theo e-Invoice Guideline v4.8 (30 tháng 8 năm 2026); cập nhật trích dẫn hướng dẫn (General v4.8, Specific v4.9)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "Hướng dẫn Hóa đơn Điện tử của IRBM (IRBM e-Invoice Guideline)"
+  - title: "Hướng dẫn Hóa đơn Điện tử của IRBM (Phiên bản 4.8) (IRBM e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Cục Thuế Nội địa (LHDN)"
-    date: "2026-07-07"
-  - title: "Hướng dẫn Cụ thể về Hóa đơn Điện tử của IRBM (IRBM e-Invoice Specific Guideline)"
+    date: "2026-08-30"
+  - title: "Hướng dẫn Cụ thể về Hóa đơn Điện tử của IRBM (Phiên bản 4.9) (IRBM e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "Cục Thuế Nội địa (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
   - title: "Cổng MyInvois (MyInvois Portal)"
     url: "https://myinvois.hasil.gov.my/"
     publisher: "Cục Thuế Nội địa (LHDN)"
@@ -100,10 +104,13 @@ có một câu trả lời riêng.
 
 **Không có giai đoạn thứ năm.** Việc triển khai chạy trong bốn giai đoạn theo doanh thu hằng năm,
 kết thúc với nhóm lên đến RM5 triệu từ ngày 1 tháng 1 năm 2026. Các doanh nghiệp có
-doanh thu hằng năm dưới **RM1,000,000** được miễn, cùng với các văn phòng ngoại giao
-nước ngoài và các cá nhân không thực hiện một hoạt động kinh doanh. Điều này không mâu thuẫn với
+doanh thu hằng năm dưới **RM3,000,000** được miễn, cùng với các văn phòng ngoại giao
+nước ngoài và các cá nhân không thực hiện một hoạt động kinh doanh. Khoản miễn theo quy mô
+có một điểm cần lưu ý: theo section 1.6.10 của Guideline, nó mất hiệu lực nếu một cổ đông
+không phải cá nhân, công ty holding hay công ty liên quan tự nó đạt RM3 triệu trở lên —
+[hướng dẫn về giai đoạn](/vi/taxation/myinvois-phases) có bài kiểm tra này. Điều này không mâu thuẫn với
 mốc bắt đầu **1 tháng 7 năm 2026** riêng biệt áp dụng cho các doanh nghiệp *mới bắt đầu* — một
-doanh nghiệp bắt đầu trong 2023 đến 2025 với doanh thu từ RM1 triệu trở lên vào vào ngày đó.
+doanh nghiệp bắt đầu trong 2023 đến 2025 với doanh thu từ RM3 triệu trở lên vào ngày đó.
 Đó là một quy tắc cho những đơn vị mới tham gia không có cơ sở FY2022, không phải một giai đoạn doanh thu
 thứ năm.
 

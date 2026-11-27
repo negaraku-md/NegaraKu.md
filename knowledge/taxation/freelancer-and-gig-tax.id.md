@@ -19,7 +19,7 @@ keyTakeaways:
   - "Pasal 39(1)(a) membatasi biaya domestik dan pribadi — alokasikan kantor rumah menurut proporsi, jangan sekali-kali mengklaim seluruh rumah"
   - "Angsuran CP500 dapat diubah sekali menjelang 30 Juni dan sekali lagi menjelang 31 Oktober, bukan hanya sekali"
   - "Kenaikan 10% di bawah Pasal 107B(4) hanya berlaku atas kelebihan di atas margin 30%, dan hanya jika Anda mengajukan permohonan untuk mengubah angsuran"
-  - "Pengecualian e-Invois bagi peredaran tahunan di bawah RM1,000,000 bersifat permanen, bukan penundaan"
+  - "Pengecualian e-Invois bagi peredaran tahunan di bawah RM3,000,000 bersifat permanen, bukan penundaan"
   - "Gig Workers Act 2025 mengubah klasifikasi hukum ketenagakerjaan Anda, bukan klasifikasi pajak Anda"
 appliesTo: "Pekerja lepas (freelancer), kontraktor, pembuat konten, pengendara dan pengemudi platform, serta siapa saja yang memiliki pendapatan di luar slip gaji."
 
@@ -31,7 +31,7 @@ faq:
   - q: "Apa perbedaan antara pendapatan Pasal 4(a) dan Pasal 4(f)?"
     a: "Pasal 4(a) mencakup keuntungan atau perolehan dari usaha; Pasal 4(f) adalah kelas sisa bagi keuntungan atau perolehan yang tidak termasuk di bawah huruf mana pun sebelumnya. Pasal 4(a) membawa serta keseluruhan mekanisme pengurangan dan capital allowance, serta kompensasi kerugian. Pasal 4(f) tidak memiliki semua itu, sehingga klasifikasi Pasal 4(f) biasanya berarti membayar pajak atas sesuatu yang hampir sama dengan jumlah bruto."
   - q: "Perlukah pekerja gig menerbitkan e-Invois?"
-    a: "Hanya apabila mereka berada dalam cakupan. Pengecualian e-Invois bagi peredaran atau penghasilan tahunan di bawah RM1,000,000 adalah pengecualian permanen, bukan penundaan. Usaha yang dimulai antara 2023 hingga 2025 dengan peredaran sekurang-kurangnya RM1 juta dimulai pada 1 Juli 2026, dan kelompok Fase 4 memiliki masa kelonggaran sementara hingga 31 Desember 2027."
+    a: "Hanya apabila mereka berada dalam cakupan. Pengecualian e-Invois bagi peredaran atau penghasilan tahunan di bawah RM3,000,000 adalah pengecualian permanen, bukan penundaan. Usaha yang dimulai antara 2023 hingga 2025 dengan peredaran sekurang-kurangnya RM3 juta dimulai pada 1 Juli 2026, dan kelompok Fase 4 memiliki masa kelonggaran sementara hingga 31 Desember 2027."
   - q: "Apakah Gig Workers Act 2025 mengubah pajak saya?"
     a: "Tidak. Act 872 adalah undang-undang klasifikasi untuk tujuan ketenagakerjaan dan jaminan sosial serta mendefinisikan siapa yang dianggap sebagai pekerja gig di bawah perjanjian layanan. Klasifikasi pajak penghasilan Anda tetap bergantung pada Pasal 4 Income Tax Act 1967, dan berada di bawah Act 872 tidak menjadikan Anda pekerja bergaji untuk tujuan pajak."
 
@@ -40,7 +40,7 @@ verificationNeeded:
   - "Apakah operator platform diwajibkan menerbitkan e-Invois self-billed bagi pembayaran kepada pekerja gig individu, dan pada fase mana, harus diverifikasi terhadap e-Invoice Specific Guideline terkini"
 
 lang: "id"
-sourceContentHash: "4902766a1bf0ff6f"
+sourceContentHash: "9704634ba023d531"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -50,14 +50,18 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Ambang pengecualian e-Invois diperbarui menjadi di bawah RM3,000,000 (dan ambang usaha baru menjadi RM3 juta) menurut Pedoman e-Invois v4.8 (30 Agustus 2026); kutipan diperbarui."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
   - title: "Income Tax Act 1967 (Act 53), cetak ulang 21 Mei 2024 — Pasal 4, 33, 39, 107B (Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — ss.4, 33, 39, 107B)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -67,10 +71,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
     publisher: "Badan Pendapatan Dalam Negeri Malaysia (LHDN)"
     date: "2025-12-30"
-  - title: "Pedoman e-Invois (e-Invoice Guideline)"
+  - title: "Pedoman e-Invois (Versi 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Badan Pendapatan Dalam Negeri Malaysia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "Tarif Pajak — Individu (Kadar Cukai — Individu)"
     url: "https://www.hasil.gov.my/individu/kadar-cukai/"
     publisher: "Badan Pendapatan Dalam Negeri Malaysia (LHDN)"
@@ -200,9 +204,9 @@ berada di luar cakupannya.
 
 | Posisi | Dampak |
 | --- | --- |
-| Peredaran atau penghasilan tahunan di bawah **RM1,000,000** | **Dikecualikan** — pengecualian permanen, bukan penundaan |
+| Peredaran atau penghasilan tahunan di bawah **RM3,000,000** | **Dikecualikan** — pengecualian permanen, bukan penundaan |
 | Individu yang tidak menjalankan usaha | Dikecualikan |
-| Dimulai antara 2023 hingga 2025 dengan peredaran sekurang-kurangnya RM1 juta | Wajib mulai **1 Juli 2026** |
+| Dimulai antara 2023 hingga 2025 dengan peredaran sekurang-kurangnya RM3 juta | Wajib mulai **1 Juli 2026** |
 | Dimulai 2026 atau sesudahnya | 1 Juli 2026 atau tanggal mulai |
 | Kelonggaran sementara kelompok Fase 4 | Hingga **31 Desember 2027** |
 
@@ -246,7 +250,7 @@ terdokumentasi. Pendapatan yang terdokumentasi adalah pendapatan yang dilaporkan
 - **Menganggap opsi pajak final Pasal 77C melindungi Anda.** Ia mensyaratkan
   pendapatan kerja **saja**. Setiap pendapatan lepas menggugurkan Anda darinya
   dan Anda harus menyampaikan laporan.
-- **Menganggap angka RM1 juta e-Invois sebagai penundaan.** Ia adalah
+- **Menganggap angka RM3 juta e-Invois sebagai penundaan.** Ia adalah
   pengecualian permanen yang terikat pada peredaran, dan ia hilang pada tahun
   Anda melampauinya.
 - **Membaca Act 872 sebagai reklasifikasi pajak.** Bukan demikian.

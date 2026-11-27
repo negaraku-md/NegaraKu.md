@@ -19,7 +19,7 @@ keyTakeaways:
   - "La s.39(1)(a) bloquea los gastos domésticos y privados — prorratea la oficina en casa, nunca reclames toda la casa"
   - "Los plazos del CP500 pueden modificarse una vez antes del 30 de junio y una vez antes del 31 de octubre, no solo una vez"
   - "El incremento del 10% de la s.107B(4) solo muerde sobre el exceso respecto a un margen del 30%, y solo si solicitaste la modificación"
-  - "La exención de e-Invoice por debajo de RM1,000,000 de facturación anual es permanente, no un aplazamiento"
+  - "La exención de e-Invoice por debajo de RM3,000,000 de facturación anual es permanente, no un aplazamiento"
   - "La Gig Workers Act 2025 cambia tu clasificación en el derecho laboral, no tu clasificación fiscal"
 appliesTo: "Freelancers, contratistas, creadores de contenido, repartidores y conductores de plataforma, y cualquiera con renta fuera de una nómina."
 
@@ -31,7 +31,7 @@ faq:
   - q: "¿Cuál es la diferencia entre la renta de la s.4(a) y la de la s.4(f)?"
     a: "La Section 4(a) cubre las ganancias o beneficios de un negocio; la s.4(f) es la clase residual para ganancias o beneficios que no caen bajo ningún párrafo anterior. La s.4(a) trae consigo toda la maquinaria de deducción y asignación de capital, más el alivio por pérdidas. La s.4(f) no tiene nada de eso, así que una clasificación de la s.4(f) suele significar pagar impuesto sobre algo cercano al bruto."
   - q: "¿Tienen los trabajadores gig que emitir e-Invoices?"
-    a: "Solo una vez que están dentro del ámbito. La exención de e-Invoice para una facturación o ingresos anuales por debajo de RM1,000,000 es una exención permanente, no un aplazamiento. Los negocios que iniciaron entre 2023 y 2025 con una facturación de al menos RM1 millón empiezan el 1 de julio de 2026, y el grupo de la Fase 4 tiene un periodo de relajación provisional que se extiende hasta el 31 de diciembre de 2027."
+    a: "Solo una vez que están dentro del ámbito. La exención de e-Invoice para una facturación o ingresos anuales por debajo de RM3,000,000 es una exención permanente, no un aplazamiento. Los negocios que iniciaron entre 2023 y 2025 con una facturación de al menos RM3 millones empiezan el 1 de julio de 2026, y el grupo de la Fase 4 tiene un periodo de relajación provisional que se extiende hasta el 31 de diciembre de 2027."
   - q: "¿Cambia mi impuesto la Gig Workers Act 2025?"
     a: "No. La Act 872 es una ley de clasificación a efectos laborales y de seguridad social y define quién cuenta como trabajador gig bajo un acuerdo de servicios. Tu clasificación en el impuesto sobre la renta sigue dependiendo de la s.4 de la Income Tax Act 1967, y estar dentro de la Act 872 no te convierte en empleado a efectos fiscales."
 
@@ -40,7 +40,7 @@ verificationNeeded:
   - "Whether platform operators are required to issue self-billed e-Invoices for payments to individual gig workers, and at which phase, should be confirmed against the current e-Invoice Specific Guideline"
 
 lang: "es"
-sourceContentHash: "4902766a1bf0ff6f"
+sourceContentHash: "9704634ba023d531"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -50,14 +50,18 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Umbral de exención de e-Invoice actualizado a inferior a RM3,000,000 (y el umbral de nuevos negocios a RM3 millones) conforme a la e-Invoice Guideline v4.8 (30 de agosto de 2026); citación actualizada."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
   - title: "Ley del Impuesto sobre la Renta de 1967 (Ley 53), reimpresión de 21 de mayo de 2024 — ss.4, 33, 39, 107B (Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — ss.4, 33, 39, 107B)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -67,10 +71,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
     publisher: "Junta de Recaudación Interna de Malasia (LHDN)"
     date: "2025-12-30"
-  - title: "Directriz de e-Invoice (e-Invoice Guideline)"
+  - title: "Directriz de e-Invoice (versión 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Junta de Recaudación Interna de Malasia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "Tasas impositivas — Persona física (Kadar Cukai — Individu)"
     url: "https://www.hasil.gov.my/individu/kadar-cukai/"
     publisher: "Junta de Recaudación Interna de Malasia (LHDN)"
@@ -190,9 +194,9 @@ genuinamente fuera de él.
 
 | Posición | Efecto |
 | --- | --- |
-| Facturación o ingresos anuales por debajo de **RM1,000,000** | **Exento** — una exención permanente, no un aplazamiento |
+| Facturación o ingresos anuales por debajo de **RM3,000,000** | **Exento** — una exención permanente, no un aplazamiento |
 | Personas físicas que no llevan a cabo un negocio | Exento |
-| Iniciaron entre 2023 y 2025 con una facturación de al menos RM1 millón | Obligatorio desde el **1 de julio de 2026** |
+| Iniciaron entre 2023 y 2025 con una facturación de al menos RM3 millones | Obligatorio desde el **1 de julio de 2026** |
 | Iniciaron en 2026 o después | 1 de julio de 2026 o la fecha de inicio |
 | Relajación provisional del grupo de la Fase 4 | Hasta el **31 de diciembre de 2027** |
 
@@ -233,7 +237,7 @@ de canales documentados. La renta documentada es renta declarada.
 - **Suponer que la elección de impuesto final de la s.77C te cubre.** Exige renta del
   empleo **únicamente**. Cualquier renta freelance te excluye de ella y debes
   presentar declaración.
-- **Tratar la cifra de RM1 millón del e-Invoice como un retraso.** Es una exención
+- **Tratar la cifra de RM3 millones del e-Invoice como un retraso.** Es una exención
   permanente ligada a la facturación, y desaparece el año en que la superas.
 - **Leer la Act 872 como una reclasificación fiscal.** No lo es.
 

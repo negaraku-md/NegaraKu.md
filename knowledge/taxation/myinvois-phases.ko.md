@@ -12,11 +12,11 @@ mode: "practical"
 contentType: "data"
 sensitivity: "none"
 
-answer: "말레이시아의 e-Invoice 의무는 FY2022 매출을 기준으로 네 단계로 진행됩니다: RM1억 초과는 2024년 8월 1일, RM2,500만 초과 RM1억 이하는 2025년 1월 1일, RM500만 초과 RM2,500만 이하는 2025년 7월 1일, RM500만 이하는 2026년 1월 1일. 연간 매출이 RM100만 미만인 납세자는 면제됩니다. 2023년 이후 영업을 시작한 사업체는 2026년 7월 1일에 시작합니다."
+answer: "말레이시아의 e-Invoice 의무는 FY2022 매출을 기준으로 네 단계로 진행됩니다: RM1억 초과는 2024년 8월 1일, RM2,500만 초과 RM1억 이하는 2025년 1월 1일, RM500만 초과 RM2,500만 이하는 2025년 7월 1일, RM500만 이하는 2026년 1월 1일. 연간 매출이 RM300만 미만인 납세자는 면제되며, 그 기준 이상의 그룹에 연결된 경우는 제외됩니다. 2023년 이후 영업을 시작하여 매출 RM300만 이상인 사업체는 2026년 7월 1일에 시작합니다."
 keyTakeaways:
   - "네 단계뿐입니다 — 귀하가 속하는 단계는 2022 회계연도 매출로 확정되며 결코 변하지 않습니다"
-  - "연간 매출 또는 수입 RM1,000,000 미만은 유예가 아니라 완전 면제입니다"
-  - "매출 RM100만 이상으로 2023~2025년에 개시한 신규 사업체는 2026년 7월 1일에 시작합니다"
+  - "연간 매출 또는 수입 RM3,000,000 미만은 유예가 아니라 완전 면제입니다 — 그러나 주주, 지주회사 또는 관계회사가 RM3,000,000 이상인 경우 철회됩니다"
+  - "매출 RM300만 이상으로 2023~2025년에 개시한 신규 사업체는 2026년 7월 1일에 시작합니다"
   - "4단계 납세자는 2027년 12월 31일까지 이어지는 잠정 완화 기간을 갖습니다"
   - "완화 기간 동안에는 모든 것을 통합할 수 있고 개별 전자송장 요청을 거절할 수 있습니다"
   - "누락된 제출을 정상화하기 위한 전자송장 자진신고 프로그램(SVDP)이 2026년 7월 7일부터 2027년 12월 31일까지 열려 있습니다"
@@ -70,14 +70,14 @@ obligations:
     criteria:
       - metric: "turnover"
         op: "lt"
-        value: 1000000
+        value: 3000000
     exemption: true
-    due: "연간 매출 또는 수입이 RM1,000,000 미만이면 완전 면제. 그렇지 않으면 모든 단계가 현재 시행 중이므로 의무입니다"
+    due: "연간 매출 또는 수입이 RM3,000,000 미만이고 RM3,000,000 이상의 그룹에 연결되지 않은 경우 완전 면제. 그렇지 않으면 모든 단계가 현재 시행 중이므로 의무입니다"
     authority: "LHDN"
     statute: "Income Tax Act 1967, s.82C"
 
 lang: "ko"
-sourceContentHash: "fe5d22ede93ea4c0"
+sourceContentHash: "a4aa5bd3b9ec2d19"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -86,23 +86,27 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "규모 면제를 RM3,000,000 미만으로 상향하고 신설 제1.6.10절 그룹 매출 조건을 추가함; 신규 사업 기준을 RM3,000,000으로 갱신함; 지침 인용을 일반 v4.8(2026년 8월 30일) 및 특정 v4.9(2026년 9월 7일)로 갱신함."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "전자 송장 가이드라인(버전 4.7) (e-Invoice Guideline (Version 4.7))"
+  - title: "전자 송장 가이드라인(버전 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "말레이시아 내국세청 (LHDN)"
-    date: "2026-07-07"
-  - title: "전자 송장 특정 가이드라인(버전 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+    date: "2026-08-30"
+  - title: "전자 송장 특정 가이드라인(버전 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "말레이시아 내국세청 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
   - title: "전자 송장 시행 일정 (Garis Masa Pelaksanaan e-Invois)"
     url: "https://www.hasil.gov.my/e-invois/garis-masa-pelaksanaan-e-invois/"
     publisher: "말레이시아 내국세청 (LHDN)"
@@ -120,16 +124,17 @@ relations:
   - { rel: "explained-in", to: "e-invoice-data-fields" }
   - { rel: "related-to", to: "consolidated-e-invoice" }
 related: ["e-invoicing", "consolidated-e-invoice", "self-billed-e-invoice", "myinvois-integration", "e-invoice-data-fields"]
-keywords: ["MyInvois phases", "e-Invoice implementation date Malaysia", "e-Invoice exemption RM100만", "e-Invoice relaxation period", "LHDN e-Invoice timeline", "tarikh pelaksanaan e-invois"]
+keywords: ["MyInvois phases", "e-Invoice implementation date Malaysia", "e-Invoice exemption RM300만", "e-Invoice relaxation period", "LHDN e-Invoice timeline", "tarikh pelaksanaan e-invois"]
 framework: data-reference
 ---
 
 두 숫자가 모든 것을 결정합니다: 귀하의 단계를 영구적으로 고정하는 FY2022 매출, 그리고 그
-미만이면 제도에서 완전히 벗어나는 RM1,000,000. 이 페이지의 나머지는 모두 세부 사항입니다.
+미만이면 (더 큰 그룹에 연결되지 않은 한) 제도에서 완전히 벗어나는 RM3,000,000. 이 페이지의
+나머지는 모두 세부 사항입니다.
 
-이 페이지는 날짜가 한 번 이상 바뀌었기 때문에 데이터로 유지됩니다. 아래 수치는 둘 다 2026년
-7월 7일에 공표된 **e-Invoice 지침 버전 4.7**과 **e-Invoice 개별 지침 버전 4.8**에서 읽어낸
-것입니다.
+이 페이지는 날짜가 한 번 이상 바뀌었기 때문에 데이터로 유지됩니다. 아래 수치는 **e-Invoice
+지침 버전 4.8**(2026년 8월 30일)과 **e-Invoice 개별 지침 버전 4.9**(2026년 9월 7일)에서
+읽어낸 것입니다.
 
 ## 의무 단계 날짜는 어떻게 됩니까?
 
@@ -140,8 +145,8 @@ framework: data-reference
 | 3 | **RM500만 초과 RM2,500만 이하** | **2025년 7월 1일** |
 | 4 | **RM500만 이하** | **2026년 1월 1일** |
 
-5단계는 없습니다. RM150,000–RM500,000 구간에 대한 5단계가 이전 지침 버전에 나타났으나 버전
-4.7에서 사라졌습니다.
+5단계는 없습니다. RM150,000–RM500,000 구간에 대한 5단계가 이전 지침 버전에 나타났으나 현재
+지침에서 사라졌습니다.
 
 ## 내 단계는 어떻게 정해집니까?
 
@@ -159,23 +164,26 @@ framework: data-reference
 
 | 사업 개시 | e-Invoice 시행일 |
 | --- | --- |
-| 2023~2025, 매출 RM1,000,000 이상 | **2026년 7월 1일** |
+| 2023~2025, 매출 RM3,000,000 이상 | **2026년 7월 1일** |
 | 2026년 이후 | **2026년 7월 1일** 또는 개시일 |
-| 2026년 이후, 첫해 매출 RM1,000,000 미만 | 매출이 RM1,000,000에 도달한 해의 **다음 두 번째 해의 1월 1일** |
+| 2026년 이후, 첫해 매출 RM3,000,000 미만 | 매출이 RM3,000,000에 도달한 해의 **다음 두 번째 해의 1월 1일** |
 
 ## 누가 면제됩니까?
 
 지침 제1.6.1절은 자가 발행을 포함한 모든 e-Invoice 발행에서 다음을 면제합니다:
 
-- 연간 매출 또는 수익이 **RM1,000,000 미만**인 납세자
+- 연간 매출 또는 수익이 **RM3,000,000 미만**인 납세자
 - 외국 외교 공관
 - 사업을 영위하지 않는 개인
 - 법정 기관, 법정 당국, 지방자치단체 — 법정 징수, 그리고 **2025년 7월 1일 이전**에 판매된
   재화 또는 수행된 서비스에 대해
 - 국제기구 — **2025년 7월 1일 이전**에 판매된 재화 또는 수행된 서비스에 대해
 
-면제는 그룹이 아니라 사람에게 귀속됩니다. 제1.6.5절: 면제 대상자가 소유한 회사도 자체 일정에
-따라 시행합니다.
+두 가지 규칙이 규모 면제를 한정합니다. 제1.6.5절은 *그 밖의* 면제를 사람 단위로 유지합니다 —
+면제 대상자가 소유한 회사도 자체 일정에 따라 시행합니다. 버전 4.8에서 신설된 제1.6.10절은
+규모 면제에 대해 정반대로 작용합니다: 비개인 주주, 지주회사, 또는 관계회사나 합작회사가 연간
+매출 또는 수입 RM3,000,000 이상인 납세자로부터 RM3,000,000 미만 면제를 철회합니다. 따라서 더
+큰 그룹에 속한 소규모 회사는 자신의 규모와 무관하게 대상에 포함됩니다.
 
 별도로, 제1.6.7절은 특정 소득 유형을 대상에서 제외합니다 — 고용소득, 연금, 위자료, 자캇, 특정
 배당 분배, 거래소 상장 증권 및 파생상품 계약 가치, 그리고 양도인이 회사, LLP, 신탁체 또는
@@ -226,7 +234,7 @@ s.120(1)(d)는 s.82C(1), (6), (7)의 위반을 범죄로 규정합니다.
 
 ## 흔한 실수
 
-- **RM100만 수치를 유예로 취급하는 것.** 이는 제1.6.1절의 상시 면제입니다. 또한 단계도
+- **RM300만 수치를 유예로 취급하는 것.** 이는 제1.6.1절의 상시 면제입니다. 또한 단계도
   아닙니다 — 5단계는 없습니다.
 - **현재 매출로 단계를 다시 계산하는 것.** 판정은 FY2022, 한 번뿐입니다.
 - **4단계 완화를 휴일로 읽는 것.** 통합 제출이 그 완화의 조건이지 대안이 아닙니다.

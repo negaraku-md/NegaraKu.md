@@ -34,14 +34,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "e-Invoice exemption threshold updated to below RM3,000,000 and the e-Invoice Guideline citation refreshed to v4.8 (30 August 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
   - title: "Finance (No. 2) Act 2023 (Act 851) — section 82C"
     url: "https://www.myttx.customs.gov.my/wp-content/uploads/2024/02/WJW23%EF%80%A21341-BI.pdf"
@@ -53,10 +57,10 @@ sources:
   - title: "Sales Tax Regulations 2018 — regulation 7"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Sales-Tax-Regulations-2018.pdf"
     publisher: "RMCD"
-  - title: "e-Invoice Guideline (Version 4.7)"
+  - title: "e-Invoice Guideline (Version 4.8)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "LHDN"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MySST — Issuing Invoices"
     url: "https://mysst.customs.gov.my/issuing-invoices/"
     publisher: "RMCD"
@@ -89,7 +93,7 @@ the same piece of paper.
 | Validation | Transmitted to and validated by LHDN | None — no submission, no reference number |
 | Purpose | Proof of income and expense for income tax | Evidence of tax charged for SST accounting |
 
-Neither replaces the other. An SST-registered company below RM1 million in
+Neither replaces the other. An SST-registered company below RM3 million in
 turnover is exempt from e-Invoicing and still issues SST invoices. A large
 non-registered company is the reverse.
 

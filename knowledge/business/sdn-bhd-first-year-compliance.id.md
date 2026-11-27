@@ -135,7 +135,7 @@ obligations:
     statute: "Income Tax Act 1967"
 
 lang: "id"
-sourceContentHash: "d210ed718721460b"
+sourceContentHash: "a25b6554199519aa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -145,15 +145,19 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Pengecualian ukuran e-Invois diperbarui menjadi di bawah RM3,000,000 dengan ketentuan kelompok bagian 1.6.10; kutipan diperbarui menjadi Pedoman e-Invois v4.8 (30 Agustus 2026)."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "Companies Act 2016 (Act 777), pada 1 Agustus 2022 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
@@ -175,7 +179,7 @@ sources:
   - title: "Garis Waktu Pelaksanaan e-Invois (diperbarui 7 Desember 2025) (e-Invoice Implementation Timeline (updated 7 December 2025))"
     url: "https://www.hasil.gov.my/e-invois/pelaksanaan-e-invois-di-malaysia/garis-masa-pelaksanaan-e-invois/"
     publisher: "Badan Hasil Dalam Negeri Malaysia (LHDN)"
-  - title: "Pedoman e-Invois IRBM (Versi 4.7) (IRBM e-Invoice Guideline (Version 4.7))"
+  - title: "Pedoman e-Invois IRBM (Versi 4.8) (IRBM e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Badan Hasil Dalam Negeri Malaysia (LHDN)"
   - title: "Mendaftarkan Usaha Anda — MySST (Registering your Business — MySST)"
@@ -336,13 +340,16 @@ RM1,000,000. Periksa apakah jasa Anda tergolong dalam kategori kena pajak, dan
 pada ambang yang mana, sebelum Anda mengasumsikan Anda berada di luarnya.
 
 **e-Invois** dilaksanakan secara bertahap menurut omzet tahunan. Wajib pajak
-dengan omzet tahunan kurang dari RM1 juta dikecualikan dari pelaksanaan
+dengan omzet tahunan kurang dari RM3 juta dikecualikan dari pelaksanaan
 e-Invois; tanggal wajib bertahap mulai dari 1 Agustus 2024 untuk wajib pajak
 melebihi RM100 juta hingga 1 Januari 2026 untuk kelompok hingga RM5 juta, menurut
 garis waktu yang diterbitkan LHDN. Sdn Bhd yang baru didirikan karenanya dikecualikan
-selama pendapatannya tetap di bawah RM1 juta. Di bawah Pedoman e-Invois IRBM, begitu
-usaha baru melampaui ambang pengecualian RM1 juta, ia diberikan tanggal
-pelaksanaan konsesi 1 Juli 2026.
+selama pendapatannya tetap di bawah RM3 juta — kecuali, di bawah bagian 1.6.10
+Pedoman, ia merupakan anak perusahaan dari perusahaan induk, atau memiliki perusahaan
+terkait atau pemegang saham bukan individu, dengan omzet tahunan sekurang-kurangnya
+RM3 juta, yang dalam hal itu pengecualian berdasarkan ukuran tersebut tidak berlaku.
+Jika tidak, begitu usaha baru melampaui ambang pengecualian RM3 juta, ia diberikan
+tanggal pelaksanaan konsesi 1 Juli 2026.
 
 ## Saat Anda mempekerjakan pekerja: KWSP, PERKESO, dan SIP
 

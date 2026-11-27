@@ -51,19 +51,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Exemption threshold updated to below RM3,000,000 (with the section 1.6.10 group condition) and guideline citations refreshed to General v4.8 (30 August 2026) and Specific v4.9 (7 September 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "e-Invoice Guideline (Version 4.7) — sections 2.2 to 2.5"
+  - title: "e-Invoice Guideline (Version 4.8) — sections 2.2 to 2.5"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "LHDN"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MyInvois SDK"
     url: "https://sdk.myinvois.hasil.gov.my/"
     publisher: "LHDN"
@@ -73,10 +77,10 @@ sources:
   - title: "MyInvois SDK — standard error response"
     url: "https://sdk.myinvois.hasil.gov.my/standard-error-response/"
     publisher: "LHDN"
-  - title: "e-Invoice Specific Guideline (Version 4.8)"
+  - title: "e-Invoice Specific Guideline (Version 4.9)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "LHDN"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "MyInvois transmission mechanisms"
 relations:
@@ -166,7 +170,7 @@ whatever its sales ledger says.
 
 | Route | Suits | Watch for |
 | --- | --- | --- |
-| **Direct ERP integration** | Established ERP with a maintained Malaysian localisation, or in-house engineering capacity | Ongoing maintenance as guideline versions change — v4.7 and v4.8 both landed on 7 July 2026 |
+| **Direct ERP integration** | Established ERP with a maintained Malaysian localisation, or in-house engineering capacity | Ongoing maintenance as guideline versions change — the General Guideline reached v4.8 on 30 August 2026 and the Specific Guideline v4.9 on 7 September 2026 |
 | **Peppol service provider** | Businesses that also want interoperable document exchange with trading partners | Peppol is not a MyInvois requirement; do not pay for it as if it were |
 | **Non-Peppol technology provider / middleware** | Multiple source systems, POS estates, or an ERP with no localisation | Data custody, exit terms, and whether they submit under their own credentials |
 
@@ -195,7 +199,7 @@ LHDN's downtime, not your vendor's.
 
 ## A decision path
 
-1. **Are you exempt?** Below RM1,000,000 annual turnover, stop.
+1. **Are you exempt?** Below RM3,000,000 annual turnover, and not tied to a group at RM3,000,000 or more, stop.
 2. **Count monthly documents** across all four categories above.
 3. **Under roughly a hundred, mostly consolidated?** Portal, with the Excel
    batch upload. Revisit annually.

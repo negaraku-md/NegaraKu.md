@@ -28,7 +28,7 @@ verificationNeeded:
   - "Batas laju API setiap titik akhir — SDK merujuk pada Integration Practices tanpa menyatakan batas numerik pada laman FAQ"
 
 lang: "id"
-sourceContentHash: "7457966f1e6638bb"
+sourceContentHash: "d6091cac37e7af1d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -38,19 +38,23 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Kutipan garis panduan diperbarui menjadi e-Invoice Guideline v4.8 (30 Agustus 2026) dan Specific Guideline v4.9 (7 September 2026); struktur medan tidak berubah."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "Garis Panduan e-Invois (Versi 4.7) — Lampiran 1 dan 2 (e-Invoice Guideline (Version 4.7) — Appendices 1 and 2)"
+  - title: "Garis Panduan e-Invois (Versi 4.8) — Lampiran 1 dan 2 (e-Invoice Guideline (Version 4.8) — Appendices 1 and 2)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MyInvois SDK — peraturan pengesahan dokumen (MyInvois SDK — document validation rules)"
     url: "https://sdk.myinvois.hasil.gov.my/document-validation-rules/"
     publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
@@ -60,10 +64,10 @@ sources:
   - title: "MyInvois SDK — respons ralat piawai (MyInvois SDK — standard error response)"
     url: "https://sdk.myinvois.hasil.gov.my/standard-error-response/"
     publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
-  - title: "Garis Panduan Khusus e-Invois (Versi 4.8) — Lampiran 1, senarai TIN am (e-Invoice Specific Guideline (Version 4.8) — Appendix 1, list of general TIN)"
+  - title: "Garis Panduan Khusus e-Invois (Versi 4.9) — Lampiran 1, senarai TIN am (e-Invoice Specific Guideline (Version 4.9) — Appendix 1, list of general TIN)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "e-Invoice data fields"
 relations:
@@ -80,7 +84,7 @@ Setiap penyerahan yang ditolak bisa dilacak kembali ke salah satu dari
 dua hal: medan yang dianggap wajib oleh LHDN tetapi dianggap opsional oleh
 ERP Anda, atau nilai kode yang tidak ada dalam daftar LHDN. Halaman ini adalah
 daftar medan tersebut, sebagaimana diterbitkan dalam Appendix 1 dan Appendix 2
-Garis Panduan e-Invois versi 4.7.
+Garis Panduan e-Invois versi 4.8.
 
 Formatnya adalah **XML atau JSON**, keduanya harus mematuhi **UBL 2.1**.
 LHDN mengelompokkan 55 medan ini ke dalam delapan kategori: Address, Business

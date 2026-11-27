@@ -15,7 +15,7 @@ sensitivity: "none"
 answer: "e-Invois yang divalidasi bukan dengan sendirinya catatan akuntansi statutori yang memadai. Pasal 245 Undang-Undang Perusahaan 2016 mewajibkan catatan yang cukup menjelaskan transaksi dan dapat diaudit dengan mudah dan benar, disimpan selama 7 tahun sejak selesainya transaksi. Pasal 82 Undang-Undang Pajak Penghasilan 1967 berjalan selama 7 tahun sejak akhir tahun yang berkaitan dengan penghasilan itu, mewajibkan catatan disimpan di Malaysia, dan mengenakan syarat format elektronik. Pedoman e-Invois LHDN sendiri mengingatkan wajib pajak agar menyimpan catatan mereka sendiri meskipun IRBM turut menyimpannya."
 keyTakeaways:
   - "Tiga rezim, tiga jam: CA 2016 Pasal 245(3) berjalan sejak selesainya transaksi; ITA Pasal 82(1)(a) sejak akhir tahun yang berkaitan dengan penghasilan itu; ITA Pasal 82A(1) sejak akhir tahun taksiran"
-  - "Pedoman e-Invois (Versi 4.7, diterbitkan 7 Juli 2026) secara jelas mengingatkan wajib pajak agar menyimpan catatan yang memadai meskipun IRBM menyimpannya"
+  - "Pedoman e-Invois (Versi 4.8, diterbitkan 30 Agustus 2026) secara jelas mengingatkan wajib pajak agar menyimpan catatan yang memadai meskipun IRBM menyimpannya"
   - "MyInvois menyimpan dokumen yang divalidasi, bukan kontrak, bukti pengiriman, biaya atau pertimbangan di baliknya — Pasal 245 mewajibkan kesemuanya itu"
   - "ITA Pasal 82(8) mewajibkan catatan terkait bisnis Malaysia disimpan dan dipertahankan di Malaysia; penyimpanan oleh MyInvois tidak menghapus kewajiban itu"
   - "ITA Pasal 82(2A) menghapus keharusan kuitansi berseri tercetak apabila e-Invois diterbitkan — tetapi Pasal 82(2B) mengembalikannya bagi invois transaksi konsolidasi"
@@ -25,7 +25,7 @@ appliesTo: "Tim keuangan, sekretaris perusahaan dan direktur perusahaan Malaysia
 
 faq:
   - q: "Jika MyInvois menyimpan e-Invois saya, apakah saya masih perlu menyimpan catatan?"
-    a: "Ya. Pedoman e-Invois (Versi 4.7) menyatakan bahwa semua e-Invois yang divalidasi akan disimpan dalam basis data IRBM dan, meskipun demikian, wajib pajak diingatkan agar menyimpan catatan dan dokumentasi yang memadai terkait transaksi tersebut. Basis data IRBM adalah catatan IRBM. Baik Undang-Undang Perusahaan 2016 maupun Undang-Undang Pajak Penghasilan 1967 tidak menganggapnya menghapus kewajiban Anda sendiri."
+    a: "Ya. Pedoman e-Invois (Versi 4.8) menyatakan bahwa semua e-Invois yang divalidasi akan disimpan dalam basis data IRBM dan, meskipun demikian, wajib pajak diingatkan agar menyimpan catatan dan dokumentasi yang memadai terkait transaksi tersebut. Basis data IRBM adalah catatan IRBM. Baik Undang-Undang Perusahaan 2016 maupun Undang-Undang Pajak Penghasilan 1967 tidak menganggapnya menghapus kewajiban Anda sendiri."
   - q: "Periode penyimpanan yang mana berlaku untuk e-Invois?"
     a: "Semua periode yang berlaku untuk perusahaan Anda. Undang-Undang Perusahaan 2016 Pasal 245(3) berjalan selama 7 tahun sejak selesainya transaksi. Undang-Undang Pajak Penghasilan 1967 Pasal 82(1)(a) berjalan selama 7 tahun sejak akhir tahun yang berkaitan dengan penghasilan bisnis itu, dan Pasal 82A(1) berjalan selama 7 tahun sejak akhir tahun taksiran. Kebijakan yang aman adalah tanggal paling akhir dari ketiganya, yang dalam praktik berarti menyimpan setidaknya sampai 7 tahun setelah tahun taksiran itu berakhir."
   - q: "Apakah e-Invois yang divalidasi memadai untuk auditor?"
@@ -42,7 +42,7 @@ verificationNeeded:
   - "Verifikasi periode penyimpanan catatan berdasarkan Sales Tax Act 2018 dan Service Tax Act 2018 secara terpisah sebelum memperluas analisis ini ke dokumen SST"
 
 lang: "id"
-sourceContentHash: "8f59afbef6de896e"
+sourceContentHash: "a93eed08c8baff3f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -52,19 +52,23 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Kutipan garis panduan diperbarui menjadi e-Invoice Guideline v4.8 (30 Agustus 2026, paragraf 2.3.7/2.4.6 tidak berubah) dan Specific Guideline v4.9 (7 September 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "Pedoman e-Invois (Versi 4.7) (e-Invoice Guideline (Version 4.7))"
+  - title: "Pedoman e-Invois (Versi 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Badan Pendapatan Dalam Negeri Malaysia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "Undang-Undang Pajak Penghasilan 1967 (Akta 53), cetak ulang pada 21 Mei 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "Badan Pendapatan Dalam Negeri Malaysia (LHDN)"
@@ -73,10 +77,10 @@ sources:
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "Komisi Perusahaan Malaysia (SSM)"
     date: "2022-08-01"
-  - title: "Pedoman Khusus e-Invois (Versi 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+  - title: "Pedoman Khusus e-Invois (Versi 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "Badan Pendapatan Dalam Negeri Malaysia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "e-Invoice record-keeping obligations"
 relations:
@@ -103,7 +107,7 @@ berapa lama.
 
 | | Undang-Undang Perusahaan 2016 | Undang-Undang Pajak Penghasilan 1967 | MyInvois |
 | --- | --- | --- | --- |
-| Ketentuan | Pasal 245 | Pasal 82, Pasal 82A, Pasal 82C | Pedoman e-Invois v4.7, dikeluarkan berdasarkan Pasal 134A ITA |
+| Ketentuan | Pasal 245 | Pasal 82, Pasal 82A, Pasal 82C | Pedoman e-Invois v4.8, dikeluarkan berdasarkan Pasal 134A ITA |
 | Apa yang perlu disimpan | Catatan akuntansi dan catatan lain yang cukup menjelaskan transaksi dan posisi keuangan | Catatan yang memadai untuk menentukan penghasilan bisnis, dan dokumen untuk menentukan penghasilan kena pajak | Tidak ada — IRBM menyimpan dokumen yang divalidasi |
 | Jam penyimpanan | 7 tahun sejak **selesainya transaksi** (Pasal 245(3)) | 7 tahun sejak **akhir tahun yang berkaitan dengan penghasilan itu** (Pasal 82(1)(a)); 7 tahun sejak **akhir tahun taksiran** (Pasal 82A(1)) | Tidak ada komitmen periode penyimpanan yang diterbitkan |
 | Di mana | Kantor terdaftar atau sebagaimana dipandang sesuai oleh direktur (Pasal 245(4)) | **Di Malaysia** (Pasal 82(8), Pasal 82A(5)) | Basis data IRBM |
@@ -125,8 +129,8 @@ pengurangan pajak adalah pengurangan itu sendiri ditambah penalti.
 
 ## Apa yang sebenarnya dikatakan LHDN tentang penyimpanan
 
-Pedoman e-Invois (Versi 4.7), diterbitkan 7 Juli 2026 dan menggantikan Versi 4.6
-bertanggal 7 Desember 2025, membahas penyimpanan pada paragraf 2.3.7 bagi jalur Portal
+Pedoman e-Invois (Versi 4.8), diterbitkan 30 Agustus 2026 dan menggantikan Versi 4.7
+bertanggal 7 Juli 2026, membahas penyimpanan pada paragraf 2.3.7 bagi jalur Portal
 MyInvois dan paragraf 2.4.6 bagi jalur API. Keduanya menyatakan hal yang sama:
 
 > Semua e-Invois yang divalidasi akan disimpan dalam basis data IRBM.

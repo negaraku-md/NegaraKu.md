@@ -28,7 +28,7 @@ verificationNeeded:
   - "ขีดจำกัดอัตราของ API ต่อ endpoint — SDK อ้างถึง Integration Practices โดยไม่ระบุขีดจำกัดที่เป็นตัวเลขบนหน้า FAQ"
 
 lang: "th"
-sourceContentHash: "7457966f1e6638bb"
+sourceContentHash: "d6091cac37e7af1d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -37,19 +37,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Guideline citations refreshed to e-Invoice Guideline v4.8 (30 August 2026) and Specific Guideline v4.9 (7 September 2026); field structure unchanged."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "แนวปฏิบัติใบแจ้งหนี้อิเล็กทรอนิกส์ (เวอร์ชัน 4.7) — ภาคผนวก 1 และ 2 (e-Invoice Guideline (Version 4.7) — Appendices 1 and 2)"
+  - title: "แนวปฏิบัติใบแจ้งหนี้อิเล็กทรอนิกส์ (เวอร์ชัน 4.8) — ภาคผนวก 1 และ 2 (e-Invoice Guideline (Version 4.8) — Appendices 1 and 2)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "กรมสรรพากร (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MyInvois SDK — กฎการตรวจสอบเอกสาร (MyInvois SDK — document validation rules)"
     url: "https://sdk.myinvois.hasil.gov.my/document-validation-rules/"
     publisher: "กรมสรรพากร (LHDN)"
@@ -59,10 +63,10 @@ sources:
   - title: "MyInvois SDK — การตอบกลับข้อผิดพลาดมาตรฐาน (MyInvois SDK — standard error response)"
     url: "https://sdk.myinvois.hasil.gov.my/standard-error-response/"
     publisher: "กรมสรรพากร (LHDN)"
-  - title: "แนวปฏิบัติเฉพาะใบแจ้งหนี้อิเล็กทรอนิกส์ (เวอร์ชัน 4.8) — ภาคผนวก 1 รายการ TIN ทั่วไป (e-Invoice Specific Guideline (Version 4.8) — Appendix 1, list of general TIN)"
+  - title: "แนวปฏิบัติเฉพาะใบแจ้งหนี้อิเล็กทรอนิกส์ (เวอร์ชัน 4.9) — ภาคผนวก 1 รายการ TIN ทั่วไป (e-Invoice Specific Guideline (Version 4.9) — Appendix 1, list of general TIN)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "กรมสรรพากร (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "e-Invoice data fields"
 relations:
@@ -77,7 +81,7 @@ framework: data-reference
 
 การยื่นที่ถูกปฏิเสธทุกครั้งสืบกลับไปยังหนึ่งในสองสิ่ง: ช่องที่ LHDN ถือว่าบังคับแต่ ERP ของคุณถือว่าไม่บังคับ
 หรือค่ารหัสที่ไม่อยู่ในรายการของ LHDN หน้านี้คือรายการช่อง ตามที่เผยแพร่ใน Appendix 1 และ 2 ของ
-e-Invoice Guideline เวอร์ชัน 4.7
+e-Invoice Guideline เวอร์ชัน 4.8
 
 รูปแบบคือ **XML หรือ JSON** ทั้งคู่เป็นไปตาม **UBL 2.1** LHDN จัดกลุ่ม 55 ช่องเป็นแปดหมวด: ที่อยู่
 รายละเอียดธุรกิจ หมายเลขติดต่อ รายละเอียดใบแจ้งหนี้ คู่สัญญา รายละเอียดคู่สัญญา ข้อมูลการชำระเงิน และ

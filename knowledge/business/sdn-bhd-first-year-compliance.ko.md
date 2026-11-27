@@ -135,7 +135,7 @@ obligations:
     statute: "Income Tax Act 1967"
 
 lang: "ko"
-sourceContentHash: "d210ed718721460b"
+sourceContentHash: "a25b6554199519aa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -145,15 +145,19 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "e-Invoice size exemption updated to below RM3,000,000 with the section 1.6.10 group condition; citation refreshed to e-Invoice Guideline v4.8 (30 August 2026)."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "Companies Act 2016 (Act 777), 2022년 8월 1일 기준 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
@@ -175,7 +179,7 @@ sources:
   - title: "e-인보이스 시행 일정 (2025년 12월 7일 갱신) (e-Invoice Implementation Timeline (updated 7 December 2025))"
     url: "https://www.hasil.gov.my/en/e-invois/pelaksanaan-e-invois-di-malaysia/garis-masa-pelaksanaan-e-invois/"
     publisher: "말레이시아 국세청 (LHDN)"
-  - title: "IRBM e-인보이스 지침 (버전 4.7) (IRBM e-Invoice Guideline (Version 4.7))"
+  - title: "IRBM e-인보이스 지침 (버전 4.8) (IRBM e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "말레이시아 국세청 (LHDN)"
   - title: "사업체 등록하기 — MySST (Registering your Business — MySST)"
@@ -324,11 +328,14 @@ LHDN 공개 예규 8/2025(Public Ruling No. 8/2025)에 따르면, 적격 회사�
 속하는지, 그리고 어느 문턱값에 속하는지를 여러분이 그 밖에 있다고 가정하기 전에
 확인하십시오.
 
-**e-Invoice**는 연 매출액에 따라 단계적으로 시행됩니다. 연 매출액이 RM100만 미만인
+**e-Invoice**는 연 매출액에 따라 단계적으로 시행됩니다. 연 매출액이 RM300만 미만인
 납세자는 e-Invoice 시행에서 면제됩니다; 단계별 의무 시행일은 RM1억 초과 납세자에
 대한 2024년 8월 1일부터 RM500만까지 대역에 대한 2026년 1월 1일까지, LHDN이 공개한
-일정에 따라 진행됩니다. 따라서 신설 Sdn Bhd는 매출이 RM100만 미만으로 유지되는 동안
-면제됩니다. IRBM e-Invoice 지침(IRBM e-Invoice Guideline)에 따라, 신규 사업체가 RM100만 면제 문턱값을 넘어서면 2026년 7월 1일이라는 유예된 시행일을 부여받습니다.
+일정에 따라 진행됩니다. 따라서 신설 Sdn Bhd는 매출이 RM300만 미만으로 유지되는 동안
+면제됩니다 — 다만 지침 제1.6.10항에 따라, 지주회사의 자회사이거나 연 매출액이 RM300만
+이상인 관계회사 또는 개인이 아닌 주주를 둔 경우에는 규모 면제가 적용되지 않습니다.
+그렇지 않은 경우, 신규 사업체가 RM300만 면제 문턱값을 넘어서면 2026년 7월 1일이라는
+유예된 시행일을 부여받습니다.
 
 ## 고용할 때: EPF, SOCSO 및 EIS
 

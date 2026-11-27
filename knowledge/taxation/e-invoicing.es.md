@@ -12,11 +12,11 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "La e-facturación exige que los datos de la factura se envíen al sistema MyInvois de LHDN para su validación, a través del MyInvois Portal gratuito o de un sistema conectado por API. Un documento validado recibe un Número de Identificador Único y un código QR. El mandato se aplica por fases según la facturación anual, y la última fase alcanza a las empresas de hasta RM5 millones desde el 1 de enero de 2026, quedando exentas las empresas por debajo de RM1 millón. Cada fase lleva su propio período de relajación provisional."
+answer: "La e-facturación exige que los datos de la factura se envíen al sistema MyInvois de LHDN para su validación, a través del MyInvois Portal gratuito o de un sistema conectado por API. Un documento validado recibe un Número de Identificador Único y un código QR. El mandato se aplica por fases según la facturación anual, y la última fase alcanza a las empresas de hasta RM5 millones desde el 1 de enero de 2026, quedando exentas las empresas por debajo de RM3 millones. Cada fase lleva su propio período de relajación provisional."
 keyTakeaways:
   - "La validación ocurre a través de MyInvois antes de que el documento funcione como factura a efectos del impuesto sobre la renta"
   - "Cuatro fases, no hay quinta: la última comenzó el 1 de enero de 2026 para facturaciones de hasta RM5 millones"
-  - "Las empresas con una facturación anual inferior a RM1,000,000 están exentas"
+  - "Las empresas con una facturación anual inferior a RM3,000,000 están exentas — salvo que estén vinculadas a un grupo por encima de ese umbral"
   - "Tu fase queda fijada por las cifras del FY2022 o del YA2022 y no cambia después"
   - "Una e-Invoice validada por LHDN no satisface automáticamente las reglas de la factura fiscal SST — ese es un requisito de documento aparte"
 appliesTo: "Propietarios de empresas, equipos de finanzas y administradores de sistemas que se preparan para el mandato de la e-Invoice o que operan bajo él."
@@ -24,7 +24,7 @@ appliesTo: "Propietarios de empresas, equipos de finanzas y administradores de s
 verificationNeeded: []
 
 lang: "es"
-sourceContentHash: "46533f76e2996181"
+sourceContentHash: "7269dd5c2ab6076f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -34,23 +34,27 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Umbral de exención por tamaño corregido a menos de RM3,000,000 y añadida la nueva condición de grupo de la sección 1.6.10, conforme a la Guía de la e-Invoice v4.8 (30 de agosto de 2026); citaciones de las guías actualizadas (General v4.8, Específica v4.9)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "Guía de la e-Invoice del IRBM (IRBM e-Invoice Guideline)"
+  - title: "Guía de la e-Invoice del IRBM (Versión 4.8) (IRBM e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Junta de Impuestos Internos de Malasia (LHDN)"
-    date: "2026-07-07"
-  - title: "Guía Específica de la e-Invoice del IRBM (IRBM e-Invoice Specific Guideline)"
+    date: "2026-08-30"
+  - title: "Guía Específica de la e-Invoice del IRBM (Versión 4.9) (IRBM e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "Junta de Impuestos Internos de Malasia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
   - title: "MyInvois Portal"
     url: "https://myinvois.hasil.gov.my/"
     publisher: "Junta de Impuestos Internos de Malasia (LHDN)"
@@ -103,13 +107,16 @@ tiene una respuesta dedicada.
 
 **No existe una fase cinco.** La implantación se realizó en cuatro fases según la
 facturación anual, terminando con la cohorte de hasta RM5 millones desde el 1 de
-enero de 2026. Las empresas con una facturación anual inferior a **RM1,000,000**
+enero de 2026. Las empresas con una facturación anual inferior a **RM3,000,000**
 están exentas, junto con las oficinas diplomáticas extranjeras y las personas
-físicas que no ejercen una actividad empresarial. Esto no contradice el inicio
-aparte del **1 de julio de 2026** que se aplica a las empresas de *nueva
-constitución*: una que comenzó entre 2023 y 2025 con una facturación de RM1
-millón o más entra en esa fecha. Es una regla para los entrantes sin una
-referencia del FY2022, no una quinta fase de facturación.
+físicas que no ejercen una actividad empresarial. La exención por tamaño tiene
+una trampa: en virtud de la sección 1.6.10 de la Guía decae si un accionista no
+individual, una sociedad matriz o una empresa vinculada tiene por sí misma RM3
+millones o más — la [guía de fases](/en/taxation/myinvois-phases) contiene la
+prueba. Esto no contradice el inicio aparte del **1 de julio de 2026** que se
+aplica a las empresas de *nueva constitución*: una que comenzó entre 2023 y 2025
+con una facturación de RM3 millones o más entra en esa fecha. Es una regla para
+los entrantes sin una referencia del FY2022, no una quinta fase de facturación.
 
 **Tu fase es fija, no flotante.** Se determina por los estados financieros
 auditados del FY2022 o la declaración del YA2022, prorrateada cuando cambió el

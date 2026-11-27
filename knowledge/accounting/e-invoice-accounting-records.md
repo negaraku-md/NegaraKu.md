@@ -15,7 +15,7 @@ sensitivity: "none"
 answer: "A validated e-Invoice is not by itself a sufficient statutory accounting record. Section 245 of the Companies Act 2016 requires records that sufficiently explain the transaction and can be conveniently and properly audited, retained 7 years from completion of the transaction. Section 82 of the Income Tax Act 1967 runs 7 years from the end of the year to which the income relates, requires records to be kept in Malaysia, and imposes electronic format conditions. LHDN's own e-Invoice Guideline reminds taxpayers to retain their own records notwithstanding IRBM storage."
 keyTakeaways:
   - "Three regimes, three clocks: CA 2016 s.245(3) runs from completion of the transaction; ITA s.82(1)(a) from the end of the year the income relates to; ITA s.82A(1) from the end of the year of assessment"
-  - "The e-Invoice Guideline (Version 4.7, published 7 July 2026) expressly reminds taxpayers to retain sufficient records notwithstanding IRBM storage"
+  - "The e-Invoice Guideline (Version 4.8, published 30 August 2026) expressly reminds taxpayers to retain sufficient records notwithstanding IRBM storage"
   - "MyInvois holds the validated document, not the contract, delivery evidence, costing or judgement behind it — s.245 needs all of those"
   - "ITA s.82(8) requires records relating to a Malaysian business to be kept and retained in Malaysia; MyInvois storage does not discharge that"
   - "ITA s.82(2A) removes the printed serial receipt requirement where an e-Invoice is issued — but s.82(2B) reinstates it for consolidated transaction invoices"
@@ -25,7 +25,7 @@ appliesTo: "Finance teams, company secretaries and directors of Malaysian compan
 
 faq:
   - q: "If MyInvois stores my e-Invoices, do I still need to keep records?"
-    a: "Yes. The e-Invoice Guideline (Version 4.7) states that all validated e-Invoices will be stored in IRBM's database and, notwithstanding that storage, taxpayers are reminded to retain sufficient records and documentation in relation to the transaction. IRBM's database is IRBM's record. Neither the Companies Act 2016 nor the Income Tax Act 1967 treats it as discharging your own obligation."
+    a: "Yes. The e-Invoice Guideline (Version 4.8) states that all validated e-Invoices will be stored in IRBM's database and, notwithstanding that storage, taxpayers are reminded to retain sufficient records and documentation in relation to the transaction. IRBM's database is IRBM's record. Neither the Companies Act 2016 nor the Income Tax Act 1967 treats it as discharging your own obligation."
   - q: "Which retention period applies to an e-Invoice?"
     a: "All of them that apply to your company. Companies Act 2016 s.245(3) runs 7 years from completion of the transaction. Income Tax Act 1967 s.82(1)(a) runs 7 years from the end of the year to which the business income relates, and s.82A(1) runs 7 years from the end of the year of assessment. The safe policy is the latest of the three, which in practice means retaining until at least 7 years after the year of assessment closes."
   - q: "Is a validated e-Invoice enough for the auditor?"
@@ -50,19 +50,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Guideline citations refreshed to e-Invoice Guideline v4.8 (30 August 2026, paragraphs 2.3.7/2.4.6 unchanged) and Specific Guideline v4.9 (7 September 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "e-Invoice Guideline (Version 4.7)"
+  - title: "e-Invoice Guideline (Version 4.8)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "LHDN"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "LHDN"
@@ -71,10 +75,10 @@ sources:
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "SSM"
     date: "2022-08-01"
-  - title: "e-Invoice Specific Guideline (Version 4.8)"
+  - title: "e-Invoice Specific Guideline (Version 4.9)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "LHDN"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "e-Invoice record-keeping obligations"
 relations:
@@ -100,7 +104,7 @@ on what has to be kept, where, in what form, or for how long.
 
 | | Companies Act 2016 | Income Tax Act 1967 | MyInvois |
 | --- | --- | --- | --- |
-| Provision | s.245 | s.82, s.82A, s.82C | e-Invoice Guideline v4.7, issued under s.134A ITA |
+| Provision | s.245 | s.82, s.82A, s.82C | e-Invoice Guideline v4.8, issued under s.134A ITA |
 | What must be kept | Accounting and other records that sufficiently explain transactions and financial position | Sufficient records to ascertain business income, and documents to ascertain chargeable income | Nothing — IRBM stores the validated document |
 | Retention clock | 7 years from **completion of the transaction** (s.245(3)) | 7 years from the **end of the year the income relates to** (s.82(1)(a)); 7 years from the **end of the year of assessment** (s.82A(1)) | No published retention commitment |
 | Where | Registered office or as directors think fit (s.245(4)) | **In Malaysia** (s.82(8), s.82A(5)) | IRBM database |
@@ -120,8 +124,8 @@ being unable to substantiate a deduction is the deduction plus penalties.
 
 ## What LHDN actually says about storage
 
-The e-Invoice Guideline (Version 4.7), published 7 July 2026 and replacing Version
-4.6 of 7 December 2025, deals with storage at paragraph 2.3.7 for the MyInvois Portal
+The e-Invoice Guideline (Version 4.8), published 30 August 2026 and replacing
+Version 4.7 of 7 July 2026, deals with storage at paragraph 2.3.7 for the MyInvois Portal
 route and paragraph 2.4.6 for the API route. Both say the same thing:
 
 > All validated e-Invoices will be stored in IRBM's database. Notwithstanding the

@@ -12,11 +12,11 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "电子发票要求发票数据提交至 LHDN 的 MyInvois 系统作验证，途径是免费的 MyInvois Portal 或以 API 连接的系统。通过验证的文件会获发一组唯一识别号码（Unique Identifier Number）与 QR 码。这项强制规定按年营业额分阶段推行，最后一个阶段自 2026 年 1 月 1 日起涵盖营业额至 RM5 million 的企业，年营业额低于 RM1 million 者获豁免。每个阶段各有自己的过渡宽限期。"
+answer: "电子发票要求发票数据提交至 LHDN 的 MyInvois 系统作验证，途径是免费的 MyInvois Portal 或以 API 连接的系统。通过验证的文件会获发一组唯一识别号码（Unique Identifier Number）与 QR 码。这项强制规定按年营业额分阶段推行，最后一个阶段自 2026 年 1 月 1 日起涵盖营业额至 RM5 million 的企业，年营业额低于 RM3 million 者获豁免。每个阶段各有自己的过渡宽限期。"
 keyTakeaways:
   - "文件须先经 MyInvois 验证，才在所得税用途上具备发票的作用"
   - "四个阶段，没有第五个——最后一个阶段自 2026 年 1 月 1 日起，适用于营业额至 RM5 million 的群组"
-  - "年营业额低于 RM1,000,000 的企业获豁免"
+  - "年营业额低于 RM3,000,000 的企业获豁免——除非隶属于高于该门槛的集团"
   - "你属于哪个阶段，由 FY2022 或 YA2022 的数字定死，之后不会变动"
   - "经 LHDN 验证的电子发票，并不自动满足 SST 税务发票的规定——那是另一项文件要求"
 appliesTo: "正在为电子发票强制规定作准备、或已在其下运作的企业主、财务团队与系统管理员。"
@@ -26,7 +26,7 @@ verificationNeeded: []
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "46533f76e2996181"
+sourceContentHash: "7269dd5c2ab6076f"
 
 status: "published"
 aiAssisted: true
@@ -34,23 +34,27 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "规模豁免门槛更正为低于 RM3,000,000，并依 e-Invoice Guideline v4.8（2026 年 8 月 30 日）注明新增的第 1.6.10 节集团条件；指南引用更新（General v4.8、Specific v4.9）。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "IRBM 电子发票指南 (IRBM e-Invoice Guideline)"
+  - title: "IRBM 电子发票指南（第4.8版） (IRBM e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "内陆税收局 (LHDN)"
-    date: "2026-07-07"
-  - title: "IRBM 电子发票专项指南 (IRBM e-Invoice Specific Guideline)"
+    date: "2026-08-30"
+  - title: "IRBM 电子发票专项指南（第4.9版） (IRBM e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "内陆税收局 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
   - title: "MyInvois 门户 (MyInvois Portal)"
     url: "https://myinvois.hasil.gov.my/"
     publisher: "内陆税收局 (LHDN)"
@@ -99,10 +103,13 @@ framework: journey-hub
 ## 四件大家搞错的事
 
 **没有第五阶段。** 推行按年营业额分四个阶段进行，最后是自 2026 年 1 月 1 日起
-营业额至 RM5 million 的群组。年营业额低于 **RM1,000,000** 的企业获豁免，
-外国外交机构与未经营业务的个人亦然。这并不与适用于*新开业*企业的另一个 **2026 年
-7 月 1 日**起始日相抵触——凡在 2023 至 2025 年间开业、营业额达 RM1 million 或以上者，
-自该日纳入。那是给没有 FY2022 基准的新进者的规则，不是第五个营业额阶段。
+营业额至 RM5 million 的群组。年营业额低于 **RM3,000,000** 的企业获豁免，
+外国外交机构与未经营业务的个人亦然。规模豁免带一个陷阱：依指引第 1.6.10 节，若
+非个人股东、控股公司或关联公司本身达 RM3 million 或以上，该豁免即失效——[阶段
+那一篇](/zh/taxation/myinvois-phases)载有这项测试。这并不与适用于*新开业*企业的
+另一个 **2026 年 7 月 1 日**起始日相抵触——凡在 2023 至 2025 年间开业、营业额达
+RM3 million 或以上者，自该日纳入。那是给没有 FY2022 基准的新进者的规则，不是第五个
+营业额阶段。
 
 **你的阶段是定死的，不是浮动的。** 它由 FY2022 经审计财务报表或 YA2022 报税表
 决定，年结日有变动者按比例计算，之后就不会再变。日后成长越过某个门槛，不会把你

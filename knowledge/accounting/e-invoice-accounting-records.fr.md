@@ -15,7 +15,7 @@ sensitivity: "none"
 answer: "Une facture électronique validée n'est pas à elle seule un registre comptable légal suffisant. La section 245 de la loi sur les sociétés de 2016 exige des registres qui expliquent suffisamment la transaction et qui peuvent être audités de façon commode et adéquate, conservés pendant 7 ans à compter de l'achèvement de la transaction. La section 82 de la loi relative à l'impôt sur le revenu de 1967 court sur 7 ans à compter de la fin de l'année à laquelle le revenu se rapporte, exige que les registres soient conservés en Malaisie et impose des conditions de format électronique. La propre directive sur la facture électronique de la LHDN rappelle aux contribuables de conserver leurs propres registres nonobstant le stockage par l'IRBM."
 keyTakeaways:
   - "Trois régimes, trois horloges : la s.245(3) de la CA 2016 court à compter de l'achèvement de la transaction ; la s.82(1)(a) de l'ITA à compter de la fin de l'année à laquelle le revenu se rapporte ; la s.82A(1) de l'ITA à compter de la fin de l'exercice d'imposition"
-  - "La directive sur la facture électronique (version 4.7, publiée le 7 juillet 2026) rappelle expressément aux contribuables de conserver des registres suffisants nonobstant le stockage par l'IRBM"
+  - "La directive sur la facture électronique (version 4.8, publiée le 30 août 2026) rappelle expressément aux contribuables de conserver des registres suffisants nonobstant le stockage par l'IRBM"
   - "MyInvois conserve le document validé, non le contrat, la preuve de livraison, le calcul des coûts ni le jugement qui les sous-tend — la s.245 a besoin de tout cela"
   - "La s.82(8) de l'ITA exige que les registres relatifs à une activité malaisienne soient conservés et tenus en Malaisie ; le stockage par MyInvois n'y satisfait pas"
   - "La s.82(2A) de l'ITA supprime l'exigence du reçu imprimé à numéro de série lorsqu'une facture électronique est émise — mais la s.82(2B) la rétablit pour les factures de transactions consolidées"
@@ -25,7 +25,7 @@ appliesTo: "Équipes financières, secrétaires de société et administrateurs 
 
 faq:
   - q: "Si MyInvois stocke mes factures électroniques, dois-je encore conserver des registres ?"
-    a: "Oui. La directive sur la facture électronique (version 4.7) énonce que toutes les factures électroniques validées seront stockées dans la base de données de l'IRBM et que, nonobstant ce stockage, il est rappelé aux contribuables de conserver des registres et une documentation suffisants en lien avec la transaction. La base de données de l'IRBM est le registre de l'IRBM. Ni la loi sur les sociétés de 2016 ni la loi relative à l'impôt sur le revenu de 1967 ne la considèrent comme acquittant votre propre obligation."
+    a: "Oui. La directive sur la facture électronique (version 4.8) énonce que toutes les factures électroniques validées seront stockées dans la base de données de l'IRBM et que, nonobstant ce stockage, il est rappelé aux contribuables de conserver des registres et une documentation suffisants en lien avec la transaction. La base de données de l'IRBM est le registre de l'IRBM. Ni la loi sur les sociétés de 2016 ni la loi relative à l'impôt sur le revenu de 1967 ne la considèrent comme acquittant votre propre obligation."
   - q: "Quel délai de conservation s'applique à une facture électronique ?"
     a: "Tous ceux qui s'appliquent à votre société. La s.245(3) de la loi sur les sociétés de 2016 court sur 7 ans à compter de l'achèvement de la transaction. La s.82(1)(a) de la loi relative à l'impôt sur le revenu de 1967 court sur 7 ans à compter de la fin de l'année à laquelle le revenu d'activité se rapporte, et la s.82A(1) court sur 7 ans à compter de la fin de l'exercice d'imposition. La politique sûre est la plus tardive des trois, ce qui signifie en pratique conserver jusqu'à au moins 7 ans après la clôture de l'exercice d'imposition."
   - q: "Une facture électronique validée suffit-elle pour l'auditeur ?"
@@ -42,7 +42,7 @@ verificationNeeded:
   - "Confirm the Sales Tax Act 2018 and Service Tax Act 2018 record retention periods separately before extending this analysis to SST documents"
 
 lang: "fr"
-sourceContentHash: "8f59afbef6de896e"
+sourceContentHash: "a93eed08c8baff3f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -52,19 +52,23 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Citations des guides actualisées au Guide de la facture électronique v4.8 (30 août 2026, paragraphes 2.3.7/2.4.6 inchangés) et au Guide spécifique v4.9 (7 septembre 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "Directive sur la facture électronique (version 4.7) (e-Invoice Guideline (Version 4.7))"
+  - title: "Directive sur la facture électronique (version 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Administration fiscale de Malaisie (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "Loi relative à l'impôt sur le revenu de 1967 (loi 53), réimpression au 21 mai 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "Administration fiscale de Malaisie (LHDN)"
@@ -73,10 +77,10 @@ sources:
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "Commission des sociétés de Malaisie (SSM)"
     date: "2022-08-01"
-  - title: "Directive spécifique sur la facture électronique (version 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+  - title: "Directive spécifique sur la facture électronique (version 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "Administration fiscale de Malaisie (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "e-Invoice record-keeping obligations"
 relations:
@@ -103,7 +107,7 @@ temps.
 
 | | Loi sur les sociétés de 2016 | Loi relative à l'impôt sur le revenu de 1967 | MyInvois |
 | --- | --- | --- | --- |
-| Disposition | s.245 | s.82, s.82A, s.82C | Directive sur la facture électronique v4.7, prise au titre de la s.134A de l'ITA |
+| Disposition | s.245 | s.82, s.82A, s.82C | Directive sur la facture électronique v4.8, prise au titre de la s.134A de l'ITA |
 | Ce qui doit être conservé | Registres comptables et autres qui expliquent suffisamment les transactions et la situation financière | Registres suffisants pour déterminer le revenu d'activité, et documents pour déterminer le revenu imposable | Rien — l'IRBM stocke le document validé |
 | Horloge de conservation | 7 ans à compter de l'**achèvement de la transaction** (s.245(3)) | 7 ans à compter de la **fin de l'année à laquelle le revenu se rapporte** (s.82(1)(a)) ; 7 ans à compter de la **fin de l'exercice d'imposition** (s.82A(1)) | Aucun engagement de conservation publié |
 | Où | Siège social ou là où les administrateurs le jugent approprié (s.245(4)) | **En Malaisie** (s.82(8), s.82A(5)) | Base de données de l'IRBM |
@@ -124,8 +128,8 @@ le coût de l'incapacité à justifier une déduction est la déduction majorée
 
 ## Ce que la LHDN dit réellement du stockage
 
-La directive sur la facture électronique (version 4.7), publiée le 7 juillet 2026 et
-remplaçant la version 4.6 du 7 décembre 2025, traite du stockage au paragraphe 2.3.7 pour la
+La directive sur la facture électronique (version 4.8), publiée le 30 août 2026 et
+remplaçant la version 4.7 du 7 juillet 2026, traite du stockage au paragraphe 2.3.7 pour la
 voie du portail MyInvois et au paragraphe 2.4.6 pour la voie API. Les deux disent la même
 chose :
 

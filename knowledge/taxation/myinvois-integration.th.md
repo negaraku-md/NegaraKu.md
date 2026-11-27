@@ -43,7 +43,7 @@ verificationNeeded:
   - "จำนวนแถวสูงสุดที่ยอมรับในสเปรดชีตอัปโหลดแบทช์ของ MyInvois Portal — LHDN อธิบายจำนวนหนึ่งโดยไม่ระบุมัน"
 
 lang: "th"
-sourceContentHash: "12fac171732261f3"
+sourceContentHash: "098a1b33b5921f56"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -52,19 +52,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Exemption threshold updated to below RM3,000,000 (with the section 1.6.10 group condition) and guideline citations refreshed to General v4.8 (30 August 2026) and Specific v4.9 (7 September 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "แนวปฏิบัติ e-Invoice (เวอร์ชัน 4.7) — หัวข้อ 2.2 ถึง 2.5 (e-Invoice Guideline (Version 4.7) — sections 2.2 to 2.5)"
+  - title: "แนวปฏิบัติ e-Invoice (เวอร์ชัน 4.8) — หัวข้อ 2.2 ถึง 2.5 (e-Invoice Guideline (Version 4.8) — sections 2.2 to 2.5)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MyInvois SDK (MyInvois SDK)"
     url: "https://sdk.myinvois.hasil.gov.my/"
     publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
@@ -74,10 +78,10 @@ sources:
   - title: "MyInvois SDK — การตอบสนองข้อผิดพลาดมาตรฐาน (MyInvois SDK — standard error response)"
     url: "https://sdk.myinvois.hasil.gov.my/standard-error-response/"
     publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
-  - title: "แนวปฏิบัติเฉพาะ e-Invoice (เวอร์ชัน 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+  - title: "แนวปฏิบัติเฉพาะ e-Invoice (เวอร์ชัน 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "MyInvois transmission mechanisms"
 relations:
@@ -150,7 +154,7 @@ framework: decision
 
 | เส้นทาง | เหมาะกับ | ต้องระวัง |
 | --- | --- | --- |
-| **การเชื่อมต่อ ERP โดยตรง** | ERP ที่จัดตั้งแล้วพร้อมการปรับให้เข้ากับมาเลเซียที่ดูแลอยู่ หรือความสามารถวิศวกรรมภายใน | การบำรุงรักษาต่อเนื่องเมื่อเวอร์ชันแนวทางเปลี่ยน — v4.7 และ v4.8 ทั้งคู่มาถึงวันที่ 7 กรกฎาคม 2026 |
+| **การเชื่อมต่อ ERP โดยตรง** | ERP ที่จัดตั้งแล้วพร้อมการปรับให้เข้ากับมาเลเซียที่ดูแลอยู่ หรือความสามารถวิศวกรรมภายใน | การบำรุงรักษาต่อเนื่องเมื่อเวอร์ชันแนวทางเปลี่ยน — General Guideline มาถึง v4.8 เมื่อวันที่ 30 สิงหาคม 2026 และ Specific Guideline v4.9 เมื่อวันที่ 7 กันยายน 2026 |
 | **ผู้ให้บริการ Peppol** | ธุรกิจที่ต้องการการแลกเปลี่ยนเอกสารที่ทำงานร่วมกันได้กับคู่ค้าด้วย | Peppol ไม่ใช่ข้อกำหนดของ MyInvois; อย่าจ่ายสำหรับมันราวกับว่าเป็น |
 | **ผู้ให้บริการเทคโนโลยีที่ไม่ใช่ Peppol / middleware** | ระบบต้นทางหลายระบบ กลุ่ม POS หรือ ERP ที่ไม่มีการปรับให้เข้ากับมาเลเซีย | การเก็บข้อมูล เงื่อนไขการออก และว่าพวกเขาส่งภายใต้ข้อมูลรับรองของตนเองหรือไม่ |
 
@@ -173,7 +177,7 @@ SDK ระบุว่าตัวกลางส่งโดยใช้ **Clie
 
 ## เส้นทางการตัดสินใจ
 
-1. **คุณได้รับยกเว้นหรือไม่?** ต่ำกว่ามูลค่าการซื้อขายรายปี RM1,000,000 หยุด
+1. **คุณได้รับยกเว้นหรือไม่?** ต่ำกว่ามูลค่าการซื้อขายรายปี RM3,000,000 และไม่ผูกกับกลุ่มที่มีมูลค่าถึง RM3,000,000 หรือมากกว่า หยุด
 2. **นับเอกสารรายเดือน** ข้ามสี่หมวดข้างต้น
 3. **ต่ำกว่าประมาณหนึ่งร้อย ส่วนใหญ่แบบรวม?** Portal พร้อมการอัปโหลดแบทช์ Excel ทบทวนรายปี
 4. **หลักร้อยถึงหลักพัน ระบบต้นทางเดียว?** ถามผู้ขาย ERP ของคุณว่าการปรับให้เข้ากับ MyInvois ครอบคลุมอะไร —

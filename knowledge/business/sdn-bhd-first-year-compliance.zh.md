@@ -137,7 +137,7 @@ obligations:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d210ed718721460b"
+sourceContentHash: "a25b6554199519aa"
 
 status: "published"
 aiAssisted: true
@@ -145,15 +145,19 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "电子发票规模豁免更新为低于 RM3,000,000，并加入指南第 1.6.10 条的集团条件；引用刷新为电子发票指南 4.8 版（2026 年 8 月 30 日）。"
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "Companies Act 2016 (Act 777)，截至2022年8月1日 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
@@ -175,7 +179,7 @@ sources:
   - title: "电子发票实施时间表 (2025年12月7日更新) (e-Invoice Implementation Timeline (updated 7 December 2025))"
     url: "https://www.hasil.gov.my/en/e-invois/pelaksanaan-e-invois-di-malaysia/garis-masa-pelaksanaan-e-invois/"
     publisher: "马来西亚内陆税收局 (LHDN)"
-  - title: "IRBM 电子发票指南 (4.7版) (IRBM e-Invoice Guideline (Version 4.7))"
+  - title: "IRBM 电子发票指南 (4.8版) (IRBM e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "马来西亚内陆税收局 (LHDN)"
   - title: "为您的企业注册 — MySST (Registering your Business — MySST)"
@@ -275,7 +279,7 @@ framework: journey-hub
 
 **SST** 按活动和营业额适用，而非抽象地按公司规模适用。根据 MySST，一般注册门槛为 12 个月期间内 RM500,000 的应税货品或应税服务，但各类别的具体门槛有所不同——餐饮或餐厅服务的注册门槛为 RM1,500,000，某些类别如信用卡和报关代理服务则完全没有门槛，而自 2025 年 7 月 1 日起新纳入应税范围的服务（包括租赁和金融服务）的注册门槛为 RM1,000,000。在你认定自己不在范围之内之前，先查清你的服务是否属于某个应税类别，以及适用哪一档门槛。
 
-**电子发票** 按年营业额分阶段实施。年营业额低于 RM100 万的纳税人获豁免实施电子发票；根据 LHDN 公布的时间表，分阶段的强制生效日期从 2024 年 8 月 1 日（针对超过 RM1 亿的纳税人）一直排到 2026 年 1 月 1 日（针对至多 RM500 万这一档）。因此，只要一家新注册私人有限公司的收入维持在 RM100 万以下，它就获得豁免。根据 IRBM 电子发票指南，一旦新企业跨过 RM100 万的豁免门槛，它将获得 2026 年 7 月 1 日这一宽限实施日期。
+**电子发票** 按年营业额分阶段实施。年营业额低于 RM300 万的纳税人获豁免实施电子发票；根据 LHDN 公布的时间表，分阶段的强制生效日期从 2024 年 8 月 1 日（针对超过 RM1 亿的纳税人）一直排到 2026 年 1 月 1 日（针对至多 RM500 万这一档）。因此，只要一家新注册私人有限公司的收入维持在 RM300 万以下，它就获得豁免——除非根据指南第 1.6.10 条，该公司是某控股公司的子公司，或拥有年营业额至少 RM300 万的关联公司或非个人股东，在此情况下该规模豁免不适用。否则，一旦新企业跨过 RM300 万的豁免门槛，它将获得 2026 年 7 月 1 日这一宽限实施日期。
 
 ## 当你聘用员工时：EPF、SOCSO 与 EIS
 

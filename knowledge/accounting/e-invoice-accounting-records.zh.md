@@ -15,7 +15,7 @@ sensitivity: "none"
 answer: "一份经验证的电子发票本身并不构成一份足够的法定会计记录。Companies Act 2016 第 245 条要求记录须足以解释交易，并能便于且妥善地接受审计，自交易完成起保存 7 年。Income Tax Act 1967 第 82 条是自所得所属年度结束起算 7 年，要求记录保存在马来西亚境内，并订下电子格式的条件。LHDN 自己的 e-Invoice Guideline 也提醒纳税人：尽管 IRBM 有储存，仍须保留自己的记录。"
 keyTakeaways:
   - "三套制度，三个时钟：CA 2016 s.245(3) 自交易完成起算；ITA s.82(1)(a) 自所得所属年度结束起算；ITA s.82A(1) 自课税年结束起算"
-  - "e-Invoice Guideline（Version 4.7，2026 年 7 月 7 日发布）明文提醒纳税人：尽管 IRBM 有储存，仍须保留足够的记录"
+  - "e-Invoice Guideline（Version 4.8，2026 年 8 月 30 日发布）明文提醒纳税人：尽管 IRBM 有储存，仍须保留足够的记录"
   - "MyInvois 持有的是经验证的文件，而不是其背后的合约、交付凭证、成本计算或判断——s.245 这些全都要"
   - "ITA s.82(8) 要求与马来西亚业务有关的记录须在马来西亚境内保存与保留；MyInvois 的储存并不能履行这项义务"
   - "ITA s.82(2A) 在已开立电子发票的情况下取消了印制流水号收据的要求——但 s.82(2B) 就合并交易发票把它恢复了"
@@ -25,7 +25,7 @@ appliesTo: "已进入某一电子发票阶段的马来西亚公司的财务团�
 
 faq:
   - q: "如果 MyInvois 已经储存了我的电子发票，我还需要保存记录吗？"
-    a: "需要。e-Invoice Guideline（Version 4.7）说明，所有经验证的电子发票都将储存于 IRBM 的数据库，并且，尽管 IRBM 有此储存，仍提醒纳税人保留与该交易有关的足够记录与文件。IRBM 的数据库是 IRBM 的记录。Companies Act 2016 与 Income Tax Act 1967 都不把它视为你自己那项义务的履行。"
+    a: "需要。e-Invoice Guideline（Version 4.8）说明，所有经验证的电子发票都将储存于 IRBM 的数据库，并且，尽管 IRBM 有此储存，仍提醒纳税人保留与该交易有关的足够记录与文件。IRBM 的数据库是 IRBM 的记录。Companies Act 2016 与 Income Tax Act 1967 都不把它视为你自己那项义务的履行。"
   - q: "电子发票适用哪一个保存期？"
     a: "适用于你公司的每一个都算。Companies Act 2016 s.245(3) 是自交易完成起算 7 年。Income Tax Act 1967 s.82(1)(a) 是自营业所得所属年度结束起算 7 年，而 s.82A(1) 是自课税年结束起算 7 年。稳妥的政策是取三者中最迟的那一个，实务上意味着至少保留至课税年结束后 7 年。"
   - q: "一份经验证的电子发票对审计师来说够了吗？"
@@ -44,7 +44,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8f59afbef6de896e"
+sourceContentHash: "a93eed08c8baff3f"
 
 status: "published"
 aiAssisted: true
@@ -52,19 +52,23 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "指南引用更新为 e-Invoice Guideline v4.8（2026 年 8 月 30 日，第 2.3.7/2.4.6 段不变）与 Specific Guideline v4.9（2026 年 9 月 7 日）。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "电子发票指南（4.7版） (e-Invoice Guideline (Version 4.7))"
+  - title: "电子发票指南（4.8版） (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "马来西亚内陆税收局 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "《1967年所得税法》(Act 53)，2024年5月21日重印本 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "马来西亚内陆税收局 (LHDN)"
@@ -73,10 +77,10 @@ sources:
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "马来西亚公司委员会 (SSM)"
     date: "2022-08-01"
-  - title: "电子发票专项指南（4.8版） (e-Invoice Specific Guideline (Version 4.8))"
+  - title: "电子发票专项指南（4.9版） (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "马来西亚内陆税收局 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "e-Invoice record-keeping obligations"
 relations:
@@ -101,7 +105,7 @@ Companies Act 读过。
 
 | | Companies Act 2016 | Income Tax Act 1967 | MyInvois |
 | --- | --- | --- | --- |
-| 条文 | s.245 | s.82、s.82A、s.82C | e-Invoice Guideline v4.7，依 ITA s.134A 发出 |
+| 条文 | s.245 | s.82、s.82A、s.82C | e-Invoice Guideline v4.8，依 ITA s.134A 发出 |
 | 必须保存什么 | 足以解释交易与财务状况的会计及其他记录 | 足以确定营业所得的记录，以及确定应课税收入的文件 | 无——IRBM 储存经验证的文件 |
 | 保存时钟 | 自**交易完成**起 7 年（s.245(3)） | 自**所得所属年度结束**起 7 年（s.82(1)(a)）；自**课税年结束**起 7 年（s.82A(1)） | 无已公布的保存承诺 |
 | 存放地点 | 注册办事处或董事认为合适之处（s.245(4)） | **在马来西亚境内**（s.82(8)、s.82A(5)） | IRBM 数据库 |
@@ -118,8 +122,8 @@ Companies Act 读过。
 
 ## LHDN 对储存究竟怎么说
 
-e-Invoice Guideline（Version 4.7）于 2026 年 7 月 7 日发布，取代 2025 年 12 月 7 日的
-Version 4.6，在第 2.3.7 段处理 MyInvois Portal 路径的储存，在第 2.4.6 段处理 API 路径。
+e-Invoice Guideline（Version 4.8）于 2026 年 8 月 30 日发布，取代 2026 年 7 月 7 日的
+Version 4.7，在第 2.3.7 段处理 MyInvois Portal 路径的储存，在第 2.4.6 段处理 API 路径。
 两处说的是同一件事：
 
 > All validated e-Invoices will be stored in IRBM's database. Notwithstanding the

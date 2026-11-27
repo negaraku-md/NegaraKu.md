@@ -15,7 +15,7 @@ sensitivity: "none"
 answer: "Một e-Invoice đã được xác thực tự nó không phải là một sổ sách kế toán theo luật định đầy đủ. Section 245 của Companies Act 2016 yêu cầu sổ sách đủ để giải thích giao dịch và có thể được kiểm toán một cách thuận tiện và đúng đắn, lưu giữ 7 năm kể từ khi hoàn tất giao dịch. Section 82 của Income Tax Act 1967 chạy 7 năm kể từ cuối năm mà thu nhập liên quan đến, yêu cầu sổ sách được lưu giữ tại Malaysia, và áp đặt các điều kiện về định dạng điện tử. e-Invoice Guideline của chính LHDN nhắc nhở người nộp thuế lưu giữ sổ sách của riêng mình bất kể việc lưu trữ của IRBM."
 keyTakeaways:
   - "Ba chế độ, ba đồng hồ: CA 2016 s.245(3) chạy từ khi hoàn tất giao dịch; ITA s.82(1)(a) từ cuối năm mà thu nhập liên quan đến; ITA s.82A(1) từ cuối năm tính thuế"
-  - "e-Invoice Guideline (Phiên bản 4.7, công bố ngày 7 tháng 7 năm 2026) nhắc nhở rõ ràng người nộp thuế lưu giữ đủ sổ sách bất kể việc lưu trữ của IRBM"
+  - "e-Invoice Guideline (Phiên bản 4.8, công bố ngày 30 tháng 8 năm 2026) nhắc nhở rõ ràng người nộp thuế lưu giữ đủ sổ sách bất kể việc lưu trữ của IRBM"
   - "MyInvois giữ tài liệu đã được xác thực, không phải hợp đồng, bằng chứng giao hàng, tính giá hay xét đoán đằng sau nó — s.245 cần tất cả những thứ đó"
   - "ITA s.82(8) yêu cầu sổ sách liên quan đến một hoạt động kinh doanh tại Malaysia được lưu giữ tại Malaysia; việc lưu trữ của MyInvois không hoàn thành nghĩa vụ đó"
   - "ITA s.82(2A) loại bỏ yêu cầu biên nhận đánh số in ra khi một e-Invoice được phát hành — nhưng s.82(2B) khôi phục nó cho các hóa đơn giao dịch hợp nhất"
@@ -25,7 +25,7 @@ appliesTo: "Các nhóm tài chính, thư ký công ty và giám đốc của cá
 
 faq:
   - q: "Nếu MyInvois lưu trữ các e-Invoice của tôi, tôi có còn cần giữ sổ sách không?"
-    a: "Có. e-Invoice Guideline (Phiên bản 4.7) nêu rằng tất cả các e-Invoice đã được xác thực sẽ được lưu trữ trong cơ sở dữ liệu của IRBM và, bất kể việc lưu trữ đó, người nộp thuế được nhắc nhở lưu giữ đủ sổ sách và tài liệu liên quan đến giao dịch. Cơ sở dữ liệu của IRBM là sổ sách của IRBM. Cả Companies Act 2016 lẫn Income Tax Act 1967 đều không coi nó là hoàn thành nghĩa vụ của riêng bạn."
+    a: "Có. e-Invoice Guideline (Phiên bản 4.8) nêu rằng tất cả các e-Invoice đã được xác thực sẽ được lưu trữ trong cơ sở dữ liệu của IRBM và, bất kể việc lưu trữ đó, người nộp thuế được nhắc nhở lưu giữ đủ sổ sách và tài liệu liên quan đến giao dịch. Cơ sở dữ liệu của IRBM là sổ sách của IRBM. Cả Companies Act 2016 lẫn Income Tax Act 1967 đều không coi nó là hoàn thành nghĩa vụ của riêng bạn."
   - q: "Thời hạn lưu giữ nào áp dụng cho một e-Invoice?"
     a: "Tất cả những thời hạn áp dụng cho công ty của bạn. Companies Act 2016 s.245(3) chạy 7 năm kể từ khi hoàn tất giao dịch. Income Tax Act 1967 s.82(1)(a) chạy 7 năm kể từ cuối năm mà thu nhập kinh doanh liên quan đến, và s.82A(1) chạy 7 năm kể từ cuối năm tính thuế. Chính sách an toàn là mốc muộn nhất trong ba mốc, trên thực tế nghĩa là lưu giữ đến ít nhất 7 năm sau khi năm tính thuế khép lại."
   - q: "Một e-Invoice đã được xác thực có đủ cho kiểm toán viên không?"
@@ -42,7 +42,7 @@ verificationNeeded:
   - "Hãy xác nhận thời hạn lưu giữ sổ sách của Sales Tax Act 2018 và Service Tax Act 2018 một cách riêng biệt trước khi mở rộng phân tích này sang các tài liệu SST"
 
 lang: "vi"
-sourceContentHash: "8f59afbef6de896e"
+sourceContentHash: "a93eed08c8baff3f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -51,19 +51,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Cập nhật trích dẫn hướng dẫn thành e-Invoice Guideline v4.8 (30 tháng 8 năm 2026, các đoạn 2.3.7/2.4.6 không đổi) và Specific Guideline v4.9 (7 tháng 9 năm 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "Hướng dẫn Hóa đơn điện tử (Phiên bản 4.7) (e-Invoice Guideline (Version 4.7))"
+  - title: "Hướng dẫn Hóa đơn điện tử (Phiên bản 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "Income Tax Act 1967 (Act 53), bản in lại tính đến ngày 21 tháng 5 năm 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
@@ -72,10 +76,10 @@ sources:
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2022-08-01"
-  - title: "Hướng dẫn cụ thể về Hóa đơn điện tử (Phiên bản 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+  - title: "Hướng dẫn cụ thể về Hóa đơn điện tử (Phiên bản 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "e-Invoice record-keeping obligations"
 relations:
@@ -101,7 +105,7 @@ nhau về những gì phải được giữ, ở đâu, ở định dạng nào,
 
 | | Companies Act 2016 | Income Tax Act 1967 | MyInvois |
 | --- | --- | --- | --- |
-| Điều khoản | s.245 | s.82, s.82A, s.82C | e-Invoice Guideline v4.7, ban hành theo s.134A ITA |
+| Điều khoản | s.245 | s.82, s.82A, s.82C | e-Invoice Guideline v4.8, ban hành theo s.134A ITA |
 | Điều phải giữ | Sổ sách kế toán và các sổ sách khác đủ để giải thích các giao dịch và tình hình tài chính | Đủ sổ sách để xác định thu nhập kinh doanh, và tài liệu để xác định thu nhập chịu thuế | Không gì — IRBM lưu trữ tài liệu đã được xác thực |
 | Đồng hồ lưu giữ | 7 năm kể từ **khi hoàn tất giao dịch** (s.245(3)) | 7 năm kể từ **cuối năm mà thu nhập liên quan đến** (s.82(1)(a)); 7 năm kể từ **cuối năm tính thuế** (s.82A(1)) | Không có cam kết lưu giữ công bố |
 | Ở đâu | Trụ sở đăng ký hoặc nơi các giám đốc thấy phù hợp (s.245(4)) | **Tại Malaysia** (s.82(8), s.82A(5)) | Cơ sở dữ liệu IRBM |
@@ -122,8 +126,8 @@ phạt.
 
 ## LHDN thực sự nói gì về việc lưu trữ
 
-e-Invoice Guideline (Phiên bản 4.7), công bố ngày 7 tháng 7 năm 2026 và thay thế
-Phiên bản 4.6 ngày 7 tháng 12 năm 2025, xử lý việc lưu trữ ở đoạn 2.3.7 cho tuyến Cổng
+e-Invoice Guideline (Phiên bản 4.8), công bố ngày 30 tháng 8 năm 2026 và thay thế
+Phiên bản 4.7 ngày 7 tháng 7 năm 2026, xử lý việc lưu trữ ở đoạn 2.3.7 cho tuyến Cổng
 MyInvois và đoạn 2.4.6 cho tuyến API. Cả hai đều nói cùng một điều:
 
 > All validated e-Invoices will be stored in IRBM's database. Notwithstanding the

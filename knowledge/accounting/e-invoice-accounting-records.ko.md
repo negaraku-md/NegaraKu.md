@@ -15,7 +15,7 @@ sensitivity: "none"
 answer: "검증된 전자 송장은 그 자체로 충분한 법정 회계기록이 아닙니다. 2016년 회사법(Companies Act 2016) 제245조는 거래를 충분히 설명하고 편리하고 적절하게 감사받을 수 있는 기록을 거래 완료 후 7년간 보존할 것을 요구합니다. 소득세법(Income Tax Act 1967) 제82조는 소득이 관련된 연도 말로부터 7년으로 정하고, 기록을 말레이시아 내에 보관할 것을 요구하며, 전자 형식 조건을 부과합니다. LHDN 자체의 전자 송장 지침(e-Invoice Guideline)은 IRBM 저장에도 불구하고 납세자가 자신의 기록을 보존할 것을 상기시킵니다."
 keyTakeaways:
   - "세 가지 제도, 세 개의 시계: CA 2016 제245조 제3항은 거래 완료부터; ITA 제82조 제1항 (a)호는 소득이 관련된 연도 말부터; ITA 제82A조 제1항은 부과연도 말부터"
-  - "전자 송장 지침(버전 4.7, 2026년 7월 7일 공표)은 IRBM 저장에도 불구하고 납세자가 충분한 기록을 보존할 것을 명시적으로 상기시킵니다"
+  - "전자 송장 지침(버전 4.8, 2026년 8월 30일 공표)은 IRBM 저장에도 불구하고 납세자가 충분한 기록을 보존할 것을 명시적으로 상기시킵니다"
   - "MyInvois는 검증된 문서를 보유하며, 그 배후의 계약, 인도 증거, 원가 계산 또는 판단은 보유하지 않습니다 — 제245조는 그 모두를 필요로 합니다"
   - "ITA 제82조 제8항은 말레이시아 사업과 관련된 기록을 말레이시아 내에 보관·보존할 것을 요구합니다; MyInvois 저장은 이를 이행하지 않습니다"
   - "ITA 제82조 제2A항은 전자 송장이 발행되는 경우 인쇄된 일련번호 영수증 요건을 없앱니다 — 그러나 제82조 제2B항은 통합 거래 송장에 대해 이를 다시 부과합니다"
@@ -25,7 +25,7 @@ appliesTo: "전자 송장 단계 내에 있는 말레이시아 회사의 재무�
 
 faq:
   - q: "MyInvois가 내 전자 송장을 저장한다면 여전히 기록을 보관해야 합니까?"
-    a: "예. 전자 송장 지침(버전 4.7)은 모든 검증된 전자 송장이 IRBM 데이터베이스에 저장될 것이며, 그 저장에도 불구하고 납세자가 거래와 관련된 충분한 기록과 문서를 보존할 것을 상기시킨다고 명시합니다. IRBM 데이터베이스는 IRBM의 기록입니다. 2016년 회사법도 소득세법 1967도 그것을 귀하 자신의 의무 이행으로 취급하지 않습니다."
+    a: "예. 전자 송장 지침(버전 4.8)은 모든 검증된 전자 송장이 IRBM 데이터베이스에 저장될 것이며, 그 저장에도 불구하고 납세자가 거래와 관련된 충분한 기록과 문서를 보존할 것을 상기시킨다고 명시합니다. IRBM 데이터베이스는 IRBM의 기록입니다. 2016년 회사법도 소득세법 1967도 그것을 귀하 자신의 의무 이행으로 취급하지 않습니다."
   - q: "전자 송장에는 어떤 보존 기간이 적용됩니까?"
     a: "귀사에 적용되는 모든 기간입니다. 2016년 회사법 제245조 제3항은 거래 완료 후 7년으로 정합니다. 소득세법 1967 제82조 제1항 (a)호는 사업 소득이 관련된 연도 말로부터 7년으로 정하고, 제82A조 제1항은 부과연도 말로부터 7년으로 정합니다. 안전한 정책은 세 가지 중 가장 늦은 것이며, 실무적으로 이는 부과연도가 종료된 후 최소 7년까지 보존하는 것을 의미합니다."
   - q: "검증된 전자 송장이 감사인에게 충분합니까?"
@@ -42,7 +42,7 @@ verificationNeeded:
   - "이 분석을 SST 문서로 확장하기 전에 2018년 판매세법(Sales Tax Act 2018) 및 2018년 서비스세법(Service Tax Act 2018)의 기록 보존 기간을 별도로 확인하십시오"
 
 lang: "ko"
-sourceContentHash: "8f59afbef6de896e"
+sourceContentHash: "a93eed08c8baff3f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -51,19 +51,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "지침 인용을 e-Invoice 지침 v4.8(2026년 8월 30일, 문단 2.3.7/2.4.6 변경 없음) 및 특정 지침 v4.9(2026년 9월 7일)로 갱신함."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "전자송장 가이드라인 (버전 4.7) (e-Invoice Guideline (Version 4.7))"
+  - title: "전자송장 가이드라인 (버전 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "말레이시아 국세청 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "1967년 소득세법 (Act 53), 2024년 5월 21일 기준 재발행본 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "말레이시아 국세청 (LHDN)"
@@ -72,10 +76,10 @@ sources:
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "말레이시아 기업위원회 (SSM)"
     date: "2022-08-01"
-  - title: "전자송장 특정 가이드라인 (버전 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+  - title: "전자송장 특정 가이드라인 (버전 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "말레이시아 국세청 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "e-Invoice record-keeping obligations"
 relations:
@@ -100,7 +104,7 @@ framework: explainer
 
 | | 2016년 회사법 | 소득세법 1967 | MyInvois |
 | --- | --- | --- | --- |
-| 조항 | 제245조 | 제82조, 제82A조, 제82C조 | 전자 송장 지침 v4.7, ITA 제134A조에 따라 발행 |
+| 조항 | 제245조 | 제82조, 제82A조, 제82C조 | 전자 송장 지침 v4.8, ITA 제134A조에 따라 발행 |
 | 보관해야 하는 것 | 거래와 재무상태를 충분히 설명하는 회계기록 및 기타 기록 | 사업 소득을 확정할 충분한 기록, 과세 소득을 확정할 문서 | 없음 — IRBM이 검증된 문서를 저장 |
 | 보존 시계 | **거래 완료**로부터 7년(제245조 제3항) | **소득이 관련된 연도 말**로부터 7년(제82조 제1항 (a)호); **부과연도 말**로부터 7년(제82A조 제1항) | 공표된 보존 약속 없음 |
 | 장소 | 등록 사무소 또는 이사가 적절하다고 판단하는 곳(제245조 제4항) | **말레이시아 내**(제82조 제8항, 제82A조 제5항) | IRBM 데이터베이스 |
@@ -119,7 +123,7 @@ framework: explainer
 
 ## 저장에 관해 LHDN이 실제로 하는 말
 
-2025년 12월 7일 버전 4.6을 대체하여 2026년 7월 7일에 공표된 전자 송장 지침(버전 4.7)은
+2026년 7월 7일 버전 4.7을 대체하여 2026년 8월 30일에 공표된 전자 송장 지침(버전 4.8)은
 MyInvois 포털 경로에 대해서는 문단 2.3.7에서, API 경로에 대해서는 문단 2.4.6에서 저장을
 다룹니다. 둘 다 같은 말을 합니다:
 

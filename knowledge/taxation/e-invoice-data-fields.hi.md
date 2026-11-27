@@ -28,7 +28,7 @@ verificationNeeded:
   - "प्रति-एंडपॉइंट API दर-सीमाएँ — SDK FAQ पृष्ठ पर संख्यात्मक सीमाएँ बताए बिना Integration Practices की ओर संकेत करता है"
 
 lang: "hi"
-sourceContentHash: "7457966f1e6638bb"
+sourceContentHash: "d6091cac37e7af1d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -38,19 +38,23 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "मार्गदर्शिका उद्धरण e-Invoice मार्गदर्शिका v4.8 (30 अगस्त 2026) और विशिष्ट मार्गदर्शिका v4.9 (7 सितंबर 2026) पर अद्यतन किए गए; फ़ील्ड संरचना अपरिवर्तित।"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "e-Invoice दिशानिर्देश (संस्करण 4.7) — परिशिष्ट 1 और 2 (e-Invoice Guideline (Version 4.7) — Appendices 1 and 2)"
+  - title: "e-Invoice दिशानिर्देश (संस्करण 4.8) — परिशिष्ट 1 और 2 (e-Invoice Guideline (Version 4.8) — Appendices 1 and 2)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "मलेशियाई अंतर्देशीय राजस्व बोर्ड (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MyInvois SDK — दस्तावेज़ सत्यापन नियम (MyInvois SDK — document validation rules)"
     url: "https://sdk.myinvois.hasil.gov.my/document-validation-rules/"
     publisher: "मलेशियाई अंतर्देशीय राजस्व बोर्ड (LHDN)"
@@ -60,10 +64,10 @@ sources:
   - title: "MyInvois SDK — मानक त्रुटि प्रतिक्रिया (MyInvois SDK — standard error response)"
     url: "https://sdk.myinvois.hasil.gov.my/standard-error-response/"
     publisher: "मलेशियाई अंतर्देशीय राजस्व बोर्ड (LHDN)"
-  - title: "e-Invoice विशिष्ट दिशानिर्देश (संस्करण 4.8) — परिशिष्ट 1, सामान्य TIN की सूची (e-Invoice Specific Guideline (Version 4.8) — Appendix 1, list of general TIN)"
+  - title: "e-Invoice विशिष्ट दिशानिर्देश (संस्करण 4.9) — परिशिष्ट 1, सामान्य TIN की सूची (e-Invoice Specific Guideline (Version 4.9) — Appendix 1, list of general TIN)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "मलेशियाई अंतर्देशीय राजस्व बोर्ड (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "e-Invoice data fields"
 relations:
@@ -79,7 +83,7 @@ framework: data-reference
 हर अस्वीकृत प्रस्तुति दो में से एक चीज़ तक पहुँचती है: कोई ऐसा फ़ील्ड जिसे LHDN
 अनिवार्य मानता है जबकि आपका ERP उसे वैकल्पिक मानता है, या कोई कोड-मान जो LHDN की
 सूची में नहीं है। यह पृष्ठ फ़ील्ड सूची है, जैसा कि e-Invoice दिशानिर्देश संस्करण
-4.7 के परिशिष्ट 1 और 2 में प्रकाशित है।
+4.8 के परिशिष्ट 1 और 2 में प्रकाशित है।
 
 प्रारूप है **XML या JSON**, दोनों **UBL 2.1** के अनुरूप। LHDN 55 फ़ील्डों को आठ
 श्रेणियों में समूहित करता है: Address, Business Details, Contact Number, Invoice

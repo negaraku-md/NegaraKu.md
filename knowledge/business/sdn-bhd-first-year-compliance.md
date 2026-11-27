@@ -144,15 +144,19 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "e-Invoice size exemption updated to below RM3,000,000 with the section 1.6.10 group condition; citation refreshed to e-Invoice Guideline v4.8 (30 August 2026)."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "Companies Act 2016 (Act 777), as at 1 August 2022"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
@@ -174,7 +178,7 @@ sources:
   - title: "e-Invoice Implementation Timeline (updated 7 December 2025)"
     url: "https://www.hasil.gov.my/en/e-invois/pelaksanaan-e-invois-di-malaysia/garis-masa-pelaksanaan-e-invois/"
     publisher: "LHDN"
-  - title: "IRBM e-Invoice Guideline (Version 4.7)"
+  - title: "IRBM e-Invoice Guideline (Version 4.8)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "LHDN"
   - title: "Registering your Business — MySST"
@@ -338,12 +342,15 @@ at RM1,000,000. Check whether your service falls in a taxable category, and on w
 threshold, before you assume you are outside it.
 
 **e-Invoice** is phased by annual turnover. Taxpayers with annual turnover of less than
-RM1 million are exempt from e-Invoice implementation; the phased mandatory dates run
+RM3 million are exempt from e-Invoice implementation; the phased mandatory dates run
 from 1 August 2024 for taxpayers above RM100 million down to 1 January 2026 for the
 band up to RM5 million, per LHDN's published timeline. A newly incorporated Sdn Bhd is
-therefore exempt while its revenue stays below RM1 million. Under the IRBM e-Invoice
-Guideline, once a new business crosses the RM1 million exemption threshold it is given
-a concessionary implementation date of 1 July 2026.
+therefore exempt while its revenue stays below RM3 million — unless, under section
+1.6.10 of the Guideline, it is a subsidiary of a holding company, or has a related
+company or non-individual shareholder, with annual turnover of at least RM3 million, in
+which case the size exemption does not apply. Otherwise, once a new business crosses the
+RM3 million exemption threshold it is given a concessionary implementation date of
+1 July 2026.
 
 ## When you hire: EPF, SOCSO and EIS
 

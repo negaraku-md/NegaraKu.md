@@ -26,7 +26,7 @@ verificationNeeded:
   - "Liệu RMCD đã ban hành một hướng dẫn chuyên biệt dung hòa bản thể hiện trực quan của hóa đơn điện tử với các thông tin bắt buộc của hóa đơn SST hay chưa — không tìm thấy hướng dẫn nào trên mysst.customs.gov.my"
 
 lang: "vi"
-sourceContentHash: "cf809540c51ed69e"
+sourceContentHash: "88e1064951c53abf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -35,14 +35,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Ngưỡng miễn hóa đơn điện tử được cập nhật thành dưới RM3,000,000 và cập nhật trích dẫn e-Invoice Guideline thành v4.8 (30 tháng 8 năm 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
   - title: "Finance (No. 2) Act 2023 (Act 851) — điều 82C (Finance (No. 2) Act 2023 (Act 851) — section 82C)"
     url: "https://www.myttx.customs.gov.my/wp-content/uploads/2024/02/WJW23%EF%80%A21341-BI.pdf"
@@ -54,10 +58,10 @@ sources:
   - title: "Sales Tax Regulations 2018 — quy định 7 (Sales Tax Regulations 2018 — regulation 7)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Sales-Tax-Regulations-2018.pdf"
     publisher: "Cục Hải quan Hoàng gia Malaysia (RMCD)"
-  - title: "Hướng dẫn Hóa đơn Điện tử (Phiên bản 4.7) (e-Invoice Guideline (Version 4.7))"
+  - title: "Hướng dẫn Hóa đơn Điện tử (Phiên bản 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Cục Thuế Nội địa (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MySST — Phát hành Hóa đơn (MySST — Issuing Invoices)"
     url: "https://mysst.customs.gov.my/issuing-invoices/"
     publisher: "Cục Hải quan Hoàng gia Malaysia (RMCD)"
@@ -90,7 +94,7 @@ cùng một tờ giấy.
 | Thẩm định | Được truyền đến và thẩm định bởi LHDN | Không có — không nộp, không có số tham chiếu |
 | Mục đích | Bằng chứng thu nhập và chi phí cho thuế thu nhập | Bằng chứng về thuế đã đánh cho việc hạch toán SST |
 
-Không cái nào thay thế cái kia. Một công ty đã đăng ký SST dưới RM1 triệu doanh thu
+Không cái nào thay thế cái kia. Một công ty đã đăng ký SST dưới RM3 triệu doanh thu
 được miễn hóa đơn điện tử và vẫn phát hành hóa đơn SST. Một công ty lớn
 chưa đăng ký thì ngược lại.
 

@@ -135,7 +135,7 @@ obligations:
     statute: "Income Tax Act 1967"
 
 lang: "es"
-sourceContentHash: "d210ed718721460b"
+sourceContentHash: "a25b6554199519aa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -145,15 +145,19 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Exención por tamaño de e-Invoice actualizada a inferior a RM3,000,000 con la condición de grupo de la sección 1.6.10; citación actualizada a la e-Invoice Guideline v4.8 (30 de agosto de 2026)."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "Ley de Sociedades de 2016 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
@@ -175,7 +179,7 @@ sources:
   - title: "Cronograma de implementación de la factura electrónica (actualizado el 7 de diciembre de 2025) (e-Invoice Implementation Timeline (updated 7 December 2025))"
     url: "https://www.hasil.gov.my/en/e-invois/pelaksanaan-e-invois-di-malaysia/garis-masa-pelaksanaan-e-invois/"
     publisher: "Junta de Ingresos Internos de Malasia (LHDN)"
-  - title: "Directriz de factura electrónica del IRBM (versión 4.7) (IRBM e-Invoice Guideline (Version 4.7))"
+  - title: "Directriz de factura electrónica del IRBM (versión 4.8) (IRBM e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Junta de Ingresos Internos de Malasia (LHDN)"
   - title: "Registra tu negocio — MySST (Registering your Business — MySST)"
@@ -345,14 +349,17 @@ y los servicios financieros) se registran a RM1,000,000. Comprueba si tu servici
 en una categoría gravable, y en qué umbral, antes de dar por hecho que quedas fuera.
 
 La **factura electrónica** se escalona por facturación anual. Los contribuyentes con
-una facturación anual inferior a RM1 millón están exentos de implementar la factura
+una facturación anual inferior a RM3 millones están exentos de implementar la factura
 electrónica; las fechas obligatorias escalonadas van desde el 1 de agosto de 2024 para
 los contribuyentes por encima de RM100 millones hasta el 1 de enero de 2026 para el
 tramo de hasta RM5 millones, según el cronograma publicado por LHDN. Por tanto, una Sdn
-Bhd recién constituida está exenta mientras sus ingresos permanezcan por debajo de RM1
-millón. Conforme a la IRBM e-Invoice Guideline, una vez que un negocio nuevo supera el
-umbral de exención de RM1 millón se le concede una fecha de implementación
-concesionaria del 1 de julio de 2026.
+Bhd recién constituida está exenta mientras sus ingresos permanezcan por debajo de RM3
+millones, salvo que, conforme a la sección 1.6.10 de la Guideline, sea una filial de una
+sociedad matriz, o tenga una empresa relacionada o un accionista que no sea persona
+física, con una facturación anual de al menos RM3 millones, en cuyo caso la exención por
+tamaño no se aplica. De lo contrario, una vez que un negocio nuevo supera el umbral de
+exención de RM3 millones se le concede una fecha de implementación concesionaria del
+1 de julio de 2026.
 
 ## Cuando contratas: EPF, SOCSO y EIS
 

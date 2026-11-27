@@ -19,7 +19,7 @@ keyTakeaways:
   - "Section 39(1)(a) chặn các chi phí gia dụng và riêng tư — hãy phân bổ văn phòng tại nhà, đừng bao giờ kê khai toàn bộ căn nhà"
   - "Các đợt trả góp CP500 có thể được thay đổi một lần trước 30 tháng 6 và một lần trước 31 tháng 10, không chỉ một lần"
   - "Khoản tăng 10% theo s.107B(4) chỉ phát sinh trên phần vượt biên độ 30%, và chỉ khi bạn đã nộp đơn xin thay đổi"
-  - "Việc miễn e-Invoice cho doanh thu hằng năm dưới RM1,000,000 là vĩnh viễn, không phải một sự hoãn lại"
+  - "Việc miễn e-Invoice cho doanh thu hằng năm dưới RM3,000,000 là vĩnh viễn, không phải một sự hoãn lại"
   - "Gig Workers Act 2025 thay đổi phân loại theo luật lao động của bạn, không phải phân loại thuế của bạn"
 appliesTo: "Người làm tự do, nhà thầu, người sáng tạo nội dung, tài xế và người giao hàng trên nền tảng, và bất kỳ ai có thu nhập ngoài một phiếu lương."
 
@@ -31,7 +31,7 @@ faq:
   - q: "Sự khác biệt giữa thu nhập theo s.4(a) và s.4(f) là gì?"
     a: "Section 4(a) bao phủ lãi hoặc lợi nhuận từ một hoạt động kinh doanh; s.4(f) là nhóm còn lại cho lãi hoặc lợi nhuận không rơi vào bất kỳ đoạn nào trước đó. Section 4(a) kéo theo toàn bộ cơ chế khấu trừ và khấu trừ vốn, cộng với giảm nhẹ lỗ. Section 4(f) không có gì trong số đó, nên một phân loại s.4(f) thường có nghĩa là nộp thuế trên một khoản gần bằng tổng thu."
   - q: "Lao động gig có cần phát hành e-Invoice không?"
-    a: "Chỉ khi nào họ nằm trong phạm vi. Khoản miễn e-Invoice cho doanh thu hoặc doanh số hằng năm dưới RM1,000,000 là một khoản miễn thường trực, không phải một sự hoãn lại. Các doanh nghiệp bắt đầu từ 2023 đến 2025 với doanh thu ít nhất RM1 triệu bắt đầu từ 1 tháng 7 năm 2026, và nhóm Giai đoạn 4 có một kỳ nới lỏng tạm thời kéo dài đến 31 tháng 12 năm 2027."
+    a: "Chỉ khi nào họ nằm trong phạm vi. Khoản miễn e-Invoice cho doanh thu hoặc doanh số hằng năm dưới RM3,000,000 là một khoản miễn thường trực, không phải một sự hoãn lại. Các doanh nghiệp bắt đầu từ 2023 đến 2025 với doanh thu ít nhất RM3 triệu bắt đầu từ 1 tháng 7 năm 2026, và nhóm Giai đoạn 4 có một kỳ nới lỏng tạm thời kéo dài đến 31 tháng 12 năm 2027."
   - q: "Gig Workers Act 2025 có thay đổi thuế của tôi không?"
     a: "Không. Act 872 là một đạo luật phân loại cho các mục đích lao động và an sinh xã hội và định nghĩa ai được tính là lao động gig theo một thỏa thuận dịch vụ. Phân loại thuế thu nhập của bạn vẫn xoay quanh s.4 của Income Tax Act 1967, và việc nằm trong Act 872 không làm cho bạn trở thành người lao động về mặt thuế."
 
@@ -40,7 +40,7 @@ verificationNeeded:
   - "Việc liệu các nhà vận hành nền tảng có bắt buộc phải phát hành e-Invoice tự lập hóa đơn (self-billed) cho các khoản chi trả cho từng lao động gig hay không, và ở giai đoạn nào, cần được xác nhận với Hướng dẫn cụ thể về e-Invoice hiện hành"
 
 lang: "vi"
-sourceContentHash: "4902766a1bf0ff6f"
+sourceContentHash: "9704634ba023d531"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -49,14 +49,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Cập nhật ngưỡng miễn e-Invoice thành dưới RM3,000,000 (và ngưỡng doanh nghiệp mới thành RM3 triệu) theo e-Invoice Guideline v4.8 (30 tháng 8 năm 2026); trích dẫn được làm mới."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
   - title: "Income Tax Act 1967 (Act 53), bản in lại ngày 21 tháng 5 năm 2024 — ss.4, 33, 39, 107B (Income Tax Act 1967 (Act 53), reprint of 21 May 2024 — ss.4, 33, 39, 107B)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -66,10 +70,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
     publisher: "Tổng cục Thuế Nội địa Malaysia (LHDN)"
     date: "2025-12-30"
-  - title: "Hướng dẫn Hóa đơn điện tử (e-Invoice Guideline)"
+  - title: "Hướng dẫn Hóa đơn điện tử (Phiên bản 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Tổng cục Thuế Nội địa Malaysia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "Thuế suất — Cá nhân (Kadar Cukai — Individu)"
     url: "https://www.hasil.gov.my/individu/kadar-cukai/"
     publisher: "Tổng cục Thuế Nội địa Malaysia (LHDN)"
@@ -189,9 +193,9 @@ nó.
 
 | Vị thế | Hiệu ứng |
 | --- | --- |
-| Doanh thu hoặc doanh số hằng năm dưới **RM1,000,000** | **Được miễn** — một khoản miễn thường trực, không phải một sự hoãn lại |
+| Doanh thu hoặc doanh số hằng năm dưới **RM3,000,000** | **Được miễn** — một khoản miễn thường trực, không phải một sự hoãn lại |
 | Cá nhân không tiến hành hoạt động kinh doanh | Được miễn |
-| Bắt đầu từ 2023 đến 2025 với doanh thu ít nhất RM1 triệu | Bắt buộc từ **1 tháng 7 năm 2026** |
+| Bắt đầu từ 2023 đến 2025 với doanh thu ít nhất RM3 triệu | Bắt buộc từ **1 tháng 7 năm 2026** |
 | Bắt đầu từ 2026 trở đi | 1 tháng 7 năm 2026 hoặc ngày bắt đầu hoạt động |
 | Nới lỏng tạm thời của nhóm Giai đoạn 4 | Đến **31 tháng 12 năm 2027** |
 
@@ -232,7 +236,7 @@ qua các kênh có chứng từ. Thu nhập có chứng từ là thu nhập đư
 - **Giả định rằng lựa chọn thuế cuối cùng theo s.77C bao phủ bạn.** Nó đòi hỏi
   **chỉ** thu nhập việc làm. Bất kỳ thu nhập làm tự do nào cũng loại bạn khỏi nó
   và bạn phải nộp.
-- **Coi con số RM1 triệu về e-Invoice như một sự trì hoãn.** Đó là một khoản miễn
+- **Coi con số RM3 triệu về e-Invoice như một sự trì hoãn.** Đó là một khoản miễn
   thường trực gắn với doanh thu, và nó biến mất vào năm bạn vượt qua nó.
 - **Đọc Act 872 như một sự phân loại lại về thuế.** Nó không phải vậy.
 

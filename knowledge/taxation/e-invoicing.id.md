@@ -12,11 +12,11 @@ mode: "practical"
 contentType: "guide"
 sensitivity: "none"
 
-answer: "e-Invois memerlukan data faktur dikirim ke sistem MyInvois LHDN untuk disahkan, baik melalui Portal MyInvois yang gratis atau sistem yang terintegrasi melalui API. Dokumen yang disahkan menerima Nomor Identifikasi Unik dan kode QR. Mandat ini dilaksanakan secara bertahap menurut omzet tahunan, dengan fase terakhir mencakup usaha hingga RM5 juta mulai 1 Januari 2026, sedangkan usaha dengan omzet di bawah RM1 juta dikecualikan. Setiap fase membawa periode kelonggaran interimnya sendiri."
+answer: "e-Invois memerlukan data faktur dikirim ke sistem MyInvois LHDN untuk disahkan, baik melalui Portal MyInvois yang gratis atau sistem yang terintegrasi melalui API. Dokumen yang disahkan menerima Nomor Identifikasi Unik dan kode QR. Mandat ini dilaksanakan secara bertahap menurut omzet tahunan, dengan fase terakhir mencakup usaha hingga RM5 juta mulai 1 Januari 2026, sedangkan usaha dengan omzet di bawah RM3 juta dikecualikan. Setiap fase membawa periode kelonggaran interimnya sendiri."
 keyTakeaways:
   - "Pengesahan terjadi melalui MyInvois sebelum dokumen itu berfungsi sebagai faktur bagi tujuan pajak pendapatan"
   - "Empat fase, tidak ada fase kelima — fase terakhir mulai 1 Januari 2026 bagi omzet hingga RM5 juta"
-  - "Usaha dengan omzet tahunan di bawah RM1,000,000 dikecualikan"
+  - "Usaha dengan omzet tahunan di bawah RM3,000,000 dikecualikan — kecuali jika terikat pada suatu kelompok di atas ambang tersebut"
   - "Fase Anda ditetapkan oleh angka FY2022 atau YA2022 dan tidak berubah setelahnya"
   - "e-Invois yang disahkan LHDN tidak secara otomatis memenuhi aturan faktur pajak SST — itu adalah persyaratan dokumen yang terpisah"
 appliesTo: "Pemilik usaha, tim keuangan dan administrator sistem yang bersiap untuk atau sedang beroperasi di bawah mandat e-Invois."
@@ -24,7 +24,7 @@ appliesTo: "Pemilik usaha, tim keuangan dan administrator sistem yang bersiap un
 verificationNeeded: []
 
 lang: "id"
-sourceContentHash: "46533f76e2996181"
+sourceContentHash: "7269dd5c2ab6076f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -34,23 +34,27 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Ambang pengecualian berdasarkan ukuran dikoreksi menjadi di bawah RM3,000,000 dan kondisi kelompok baru section 1.6.10 dicatat, sesuai e-Invoice Guideline v4.8 (30 Agustus 2026); kutipan garis panduan diperbarui (Umum v4.8, Khusus v4.9)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "Garis Panduan e-Invois IRBM (IRBM e-Invoice Guideline)"
+  - title: "Garis Panduan e-Invois IRBM (Versi 4.8) (IRBM e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
-    date: "2026-07-07"
-  - title: "Garis Panduan Khusus e-Invois IRBM (IRBM e-Invoice Specific Guideline)"
+    date: "2026-08-30"
+  - title: "Garis Panduan Khusus e-Invois IRBM (Versi 4.9) (IRBM e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
   - title: "Portal MyInvois (MyInvois Portal)"
     url: "https://myinvois.hasil.gov.my/"
     publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
@@ -105,11 +109,15 @@ sebagian besarnya memiliki jawaban khusus.
 
 **Tidak ada fase kelima.** Pelaksanaan berjalan dalam empat fase menurut
 omzet tahunan, berakhir dengan kohort hingga RM5 juta mulai 1 Januari
-2026. Usaha dengan omzet tahunan di bawah **RM1,000,000** dikecualikan,
+2026. Usaha dengan omzet tahunan di bawah **RM3,000,000** dikecualikan,
 bersama kantor diplomatik asing dan individu yang tidak menjalankan
-usaha. Ini tidak berbenturan dengan tanggal mulai **1 Juli 2026** yang
+usaha. Pengecualian berdasarkan ukuran ini membawa satu jebakan: di bawah
+section 1.6.10 Guideline, ia gugur jika pemegang saham bukan-individu,
+perusahaan induk atau perusahaan terkait itu sendiri berada pada RM3 juta
+atau lebih — [panduan fase](/id/taxation/myinvois-phases) memuat ujiannya.
+Ini tidak berbenturan dengan tanggal mulai **1 Juli 2026** yang
 terpisah dan berlaku bagi usaha yang *baru mulai* — sebuah
-usaha yang mulai antara 2023 hingga 2025 dengan omzet RM1 juta atau
+usaha yang mulai antara 2023 hingga 2025 dengan omzet RM3 juta atau
 lebih akan terlibat pada tanggal tersebut. Ia adalah aturan bagi peserta
 baru yang tidak memiliki dasar FY2022, bukan fase omzet kelima.
 

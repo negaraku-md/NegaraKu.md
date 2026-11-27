@@ -135,7 +135,7 @@ obligations:
     statute: "Income Tax Act 1967"
 
 lang: "hi"
-sourceContentHash: "d210ed718721460b"
+sourceContentHash: "a25b6554199519aa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -145,15 +145,19 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "e-Invoice आकार-छूट को RM3,000,000 से नीचे अद्यतन किया गया, धारा 1.6.10 की समूह-शर्त के साथ; उद्धरण e-Invoice दिशानिर्देश v4.8 (30 अगस्त 2026) के अनुसार ताज़ा किया गया।"
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "कंपनी अधिनियम 2016 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
@@ -175,7 +179,7 @@ sources:
   - title: "ई-इनवॉइस कार्यान्वयन समयरेखा (7 दिसंबर 2025 को अद्यतन) (e-Invoice Implementation Timeline (updated 7 December 2025))"
     url: "https://www.hasil.gov.my/en/e-invois/pelaksanaan-e-invois-di-malaysia/garis-masa-pelaksanaan-e-invois/"
     publisher: "मलेशियाई अंतर्देशीय राजस्व बोर्ड (LHDN)"
-  - title: "IRBM ई-इनवॉइस दिशानिर्देश (संस्करण 4.7) (IRBM e-Invoice Guideline (Version 4.7))"
+  - title: "IRBM ई-इनवॉइस दिशानिर्देश (संस्करण 4.8) (IRBM e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "मलेशियाई अंतर्देशीय राजस्व बोर्ड (LHDN)"
   - title: "अपना व्यवसाय पंजीकृत करना — MySST (Registering your Business — MySST)"
@@ -328,13 +332,15 @@ RM1,500,000 पर पंजीकृत होती हैं, क्रेड
 सेवाएँ शामिल हैं) RM1,000,000 पर पंजीकृत होती हैं। इससे पहले कि आप मान लें कि आप इसके बाहर
 हैं, जाँचें कि आपकी सेवा किसी करयोग्य श्रेणी में आती है या नहीं, और किस सीमा पर।
 
-**ई-इनवॉइस** वार्षिक कारोबार के अनुसार चरणबद्ध है। जिन करदाताओं का वार्षिक कारोबार RM1 मिलियन
+**ई-इनवॉइस** वार्षिक कारोबार के अनुसार चरणबद्ध है। जिन करदाताओं का वार्षिक कारोबार RM3 मिलियन
 से कम है, वे ई-इनवॉइस कार्यान्वयन से छूट-प्राप्त हैं; चरणबद्ध अनिवार्य तारीखें LHDN की
 प्रकाशित समयरेखा के अनुसार RM100 मिलियन से ऊपर के करदाताओं हेतु 1 अगस्त 2024 से लेकर RM5
 मिलियन तक के वर्ग हेतु 1 जनवरी 2026 तक चलती हैं। अतः नवगठित Sdn Bhd तब तक छूट-प्राप्त है जब तक
-उसका राजस्व RM1 मिलियन से नीचे रहता है। IRBM e-Invoice Guideline के तहत, जैसे ही कोई नया
-कारोबार RM1 मिलियन की छूट-सीमा पार करता है, उसे 1 जुलाई 2026 की रियायती कार्यान्वयन तारीख दी
-जाती है।
+उसका राजस्व RM3 मिलियन से नीचे रहता है — सिवाय इसके कि, दिशानिर्देश की धारा 1.6.10 के तहत, वह
+किसी होल्डिंग कंपनी की सहायक कंपनी हो, या उसका कोई संबद्ध कंपनी या ग़ैर-व्यक्तिगत शेयरधारक हो,
+जिसका वार्षिक कारोबार कम-से-कम RM3 मिलियन हो, जिस स्थिति में आकार-आधारित छूट लागू नहीं होती।
+अन्यथा, जैसे ही कोई नया कारोबार RM3 मिलियन की छूट-सीमा पार करता है, उसे 1 जुलाई 2026 की
+रियायती कार्यान्वयन तारीख दी जाती है।
 
 ## जब आप कर्मचारी रखें: EPF, SOCSO और EIS
 

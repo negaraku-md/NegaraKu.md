@@ -45,7 +45,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "12fac171732261f3"
+sourceContentHash: "098a1b33b5921f56"
 
 status: "published"
 aiAssisted: true
@@ -53,19 +53,23 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "豁免门槛更新为低于 RM3,000,000（连同第 1.6.10 节的集团条件），指南引用更新为 General v4.8（2026 年 8 月 30 日）与 Specific v4.9（2026 年 9 月 7 日）。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "电子发票指南（第4.7版）— 第2.2至2.5节 (e-Invoice Guideline (Version 4.7) — sections 2.2 to 2.5)"
+  - title: "电子发票指南（第4.8版）— 第2.2至2.5节 (e-Invoice Guideline (Version 4.8) — sections 2.2 to 2.5)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "马来西亚内陆税收局 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MyInvois SDK (MyInvois SDK)"
     url: "https://sdk.myinvois.hasil.gov.my/"
     publisher: "马来西亚内陆税收局 (LHDN)"
@@ -75,10 +79,10 @@ sources:
   - title: "MyInvois SDK — 标准错误响应 (MyInvois SDK — standard error response)"
     url: "https://sdk.myinvois.hasil.gov.my/standard-error-response/"
     publisher: "马来西亚内陆税收局 (LHDN)"
-  - title: "电子发票特定指南（第4.8版） (e-Invoice Specific Guideline (Version 4.8))"
+  - title: "电子发票特定指南（第4.9版） (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "马来西亚内陆税收局 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "MyInvois transmission mechanisms"
 relations:
@@ -158,7 +162,7 @@ Table 3.6 中有九项活动完全不能综合——汽车、机票、建筑合�
 
 | 路径 | 适合 | 要留意 |
 | --- | --- | --- |
-| **直接 ERP 集成** | 有维护中的马来西亚本地化的成熟 ERP，或有内部工程能力 | 指引版本变动时的持续维护——v4.7 与 v4.8 都在 2026 年 7 月 7 日落地 |
+| **直接 ERP 集成** | 有维护中的马来西亚本地化的成熟 ERP，或有内部工程能力 | 指引版本变动时的持续维护——General Guideline 于 2026 年 8 月 30 日到达 v4.8，Specific Guideline 于 2026 年 9 月 7 日到达 v4.9 |
 | **Peppol 服务供应商** | 同时想与贸易伙伴进行可互通文件交换的企业 | Peppol 不是 MyInvois 的要求；别当它是要求那样付钱 |
 | **非 Peppol 技术供应商／中间件** | 多个来源系统、POS 网点群，或没有本地化的 ERP | 数据保管权、退出条款，以及它们是否以自己的凭证提交 |
 
@@ -183,7 +187,7 @@ System 本身因维护或技术理由而停摆，而纳税人能证明其合规�
 
 ## 一条决策路径
 
-1. **你获豁免吗？** 年营业额低于 RM1,000,000，就到此为止。
+1. **你获豁免吗？** 年营业额低于 RM3,000,000，且未隶属于达 RM3,000,000 或以上的集团，就到此为止。
 2. **数一数每月文件**，涵盖以上四个类别。
 3. **大约一百份以下、以综合为主？** Portal，配 Excel 批量上传。每年重新检视一次。
 4. **数百至数千份、单一来源系统？** 问你的 ERP 供应商他们的 MyInvois 本地化涵盖

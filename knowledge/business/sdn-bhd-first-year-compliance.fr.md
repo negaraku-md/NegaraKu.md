@@ -135,7 +135,7 @@ obligations:
     statute: "Income Tax Act 1967"
 
 lang: "fr"
-sourceContentHash: "d210ed718721460b"
+sourceContentHash: "a25b6554199519aa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -145,15 +145,19 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Exemption liée à la taille pour la facture électronique abaissée à moins de RM3,000,000 avec la condition de groupe de la section 1.6.10 ; citation actualisée vers la Directive sur l'e-Invoice v4.8 (30 août 2026)."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "Loi sur les sociétés de 2016 (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
@@ -175,7 +179,7 @@ sources:
   - title: "Calendrier de mise en œuvre de la facture électronique (mis à jour le 7 décembre 2025) (e-Invoice Implementation Timeline (updated 7 December 2025))"
     url: "https://www.hasil.gov.my/en/e-invois/pelaksanaan-e-invois-di-malaysia/garis-masa-pelaksanaan-e-invois/"
     publisher: "Administration fiscale de Malaisie (LHDN)"
-  - title: "Directive sur la facture électronique de l'IRBM (version 4.7) (IRBM e-Invoice Guideline (Version 4.7))"
+  - title: "Directive sur la facture électronique de l'IRBM (version 4.8) (IRBM e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Administration fiscale de Malaisie (LHDN)"
   - title: "Enregistrez votre entreprise — MySST (Registering your Business — MySST)"
@@ -345,14 +349,16 @@ s'enregistrent à RM1,000,000. Vérifiez si votre service relève d'une catégor
 quel seuil, avant de présumer en être exclu.
 
 La **facture électronique** est échelonnée par chiffre d'affaires annuel. Les contribuables
-dont le chiffre d'affaires annuel est inférieur à RM1 million sont exemptés de la mise en
+dont le chiffre d'affaires annuel est inférieur à RM3 millions sont exemptés de la mise en
 œuvre de la facture électronique ; les dates d'obligation échelonnées vont du 1er août 2024
 pour les contribuables au-dessus de RM100 millions jusqu'au 1er janvier 2026 pour la tranche
 allant jusqu'à RM5 millions, selon le calendrier publié par la LHDN. Une Sdn Bhd
-nouvellement constituée est donc exemptée tant que ses revenus restent sous RM1 million. Au
-titre de l'IRBM e-Invoice Guideline, une fois qu'une nouvelle entreprise franchit le seuil
-d'exemption de RM1 million, une date de mise en œuvre concessionnaire du 1er juillet 2026
-lui est accordée.
+nouvellement constituée est donc exemptée tant que ses revenus restent sous RM3 millions —
+sauf si, au titre de la section 1.6.10 de la Directive, elle est une filiale d'une société
+holding, ou a une société liée ou un actionnaire non-personne physique, dont le chiffre
+d'affaires annuel atteint au moins RM3 millions, auquel cas l'exemption liée à la taille ne
+s'applique pas. Sinon, une fois qu'une nouvelle entreprise franchit le seuil d'exemption de
+RM3 millions, une date de mise en œuvre concessionnaire du 1er juillet 2026 lui est accordée.
 
 ## Lorsque vous embauchez : EPF, SOCSO et EIS
 

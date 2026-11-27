@@ -28,7 +28,7 @@ verificationNeeded:
   - "ஒவ்வொரு endpoint-க்குமான API வீத வரம்புகள் — SDK அதன் FAQ பக்கத்தில் எண்வழி வரம்புகளைக் கூறாமல் Integration Practices ஐக் குறிப்பிடுகிறது"
 
 lang: "ta"
-sourceContentHash: "7457966f1e6638bb"
+sourceContentHash: "d6091cac37e7af1d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -37,19 +37,23 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "வழிகாட்டி மேற்கோள்கள் e-Invoice Guideline v4.8 (30 August 2026) மற்றும் Specific Guideline v4.9 (7 September 2026) எனப் புதுப்பிக்கப்பட்டன; புலக் கட்டமைப்பு மாறவில்லை."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "மின்-விலைப்பட்டியல் வழிகாட்டி (பதிப்பு 4.7) — இணைப்புகள் 1 மற்றும் 2 (e-Invoice Guideline (Version 4.7) — Appendices 1 and 2)"
+  - title: "மின்-விலைப்பட்டியல் வழிகாட்டி (பதிப்பு 4.8) — இணைப்புகள் 1 மற்றும் 2 (e-Invoice Guideline (Version 4.8) — Appendices 1 and 2)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MyInvois SDK — ஆவண சரிபார்ப்பு விதிகள் (MyInvois SDK — document validation rules)"
     url: "https://sdk.myinvois.hasil.gov.my/document-validation-rules/"
     publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
@@ -59,10 +63,10 @@ sources:
   - title: "MyInvois SDK — நிலையான பிழை பதில் (MyInvois SDK — standard error response)"
     url: "https://sdk.myinvois.hasil.gov.my/standard-error-response/"
     publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
-  - title: "மின்-விலைப்பட்டியல் குறிப்பிட்ட வழிகாட்டி (பதிப்பு 4.8) — இணைப்பு 1, பொது TIN பட்டியல் (e-Invoice Specific Guideline (Version 4.8) — Appendix 1, list of general TIN)"
+  - title: "மின்-விலைப்பட்டியல் குறிப்பிட்ட வழிகாட்டி (பதிப்பு 4.9) — இணைப்பு 1, பொது TIN பட்டியல் (e-Invoice Specific Guideline (Version 4.9) — Appendix 1, list of general TIN)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "e-Invoice data fields"
 relations:
@@ -78,7 +82,7 @@ framework: data-reference
 நிராகரிக்கப்படும் ஒவ்வொரு சமர்ப்பிப்பும் இரண்டு விஷயங்களில் ஒன்றைப்
 பின்தொடர்கிறது: உங்கள் ERP விருப்பத்தேர்வாகக் கருதும் ஆனால் LHDN கட்டாயமாகக்
 கருதும் ஒரு புலம், அல்லது LHDN இன் பட்டியலில் இல்லாத ஒரு குறியீட்டு மதிப்பு.
-இந்தப் பக்கம், e-Invoice Guideline பதிப்பு 4.7 இன் Appendix 1 மற்றும்
+இந்தப் பக்கம், e-Invoice Guideline பதிப்பு 4.8 இன் Appendix 1 மற்றும்
 Appendix 2 இல் வெளியிடப்பட்டுள்ள புலப் பட்டியல் ஆகும்.
 
 வடிவம் **XML அல்லது JSON**, இரண்டும் **UBL 2.1** உடன் இணங்கும். LHDN ஆனது 55

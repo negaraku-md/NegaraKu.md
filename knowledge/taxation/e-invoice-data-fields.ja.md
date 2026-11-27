@@ -30,26 +30,30 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7457966f1e6638bb"
+sourceContentHash: "d6091cac37e7af1d"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "ガイドライン引用を e-Invoice Guideline v4.8（2026年8月30日）および Specific Guideline v4.9（2026年9月7日）に更新。項目構造に変更なし。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "電子インボイスガイドライン（バージョン4.7）— 附属書1・2 (e-Invoice Guideline (Version 4.7) — Appendices 1 and 2)"
+  - title: "電子インボイスガイドライン（バージョン4.8）— 附属書1・2 (e-Invoice Guideline (Version 4.8) — Appendices 1 and 2)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "内国歳入庁 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "MyInvois SDK — ドキュメント検証ルール (MyInvois SDK — document validation rules)"
     url: "https://sdk.myinvois.hasil.gov.my/document-validation-rules/"
     publisher: "内国歳入庁 (LHDN)"
@@ -59,10 +63,10 @@ sources:
   - title: "MyInvois SDK — 標準エラーレスポンス (MyInvois SDK — standard error response)"
     url: "https://sdk.myinvois.hasil.gov.my/standard-error-response/"
     publisher: "内国歳入庁 (LHDN)"
-  - title: "電子インボイス個別ガイドライン（バージョン4.8）— 附属書1、一般TINの一覧 (e-Invoice Specific Guideline (Version 4.8) — Appendix 1, list of general TIN)"
+  - title: "電子インボイス個別ガイドライン（バージョン4.9）— 附属書1、一般TINの一覧 (e-Invoice Specific Guideline (Version 4.9) — Appendix 1, list of general TIN)"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "内国歳入庁 (LHDN)"
-    date: "2026-07-07"
+    date: "2026-09-07"
 
 entity: "e-Invoice data fields"
 relations:
@@ -77,7 +81,7 @@ framework: data-reference
 
 拒否された提出物は、突き詰めれば必ず次の二つのどちらかに行き着く——LHDNが必須と
 して扱う項目をERPが任意として扱っている、あるいはLHDNのリストにないコード値を
-使っている、のいずれかである。本ページは、e-Invoice Guideline第4.7版の
+使っている、のいずれかである。本ページは、e-Invoice Guideline第4.8版の
 Appendix 1及びAppendix 2に公開されている項目リストである。
 
 形式は**XMLまたはJSON**で、いずれも**UBL 2.1**に準拠する。LHDNはこの55項目を

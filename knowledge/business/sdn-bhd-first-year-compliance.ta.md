@@ -137,7 +137,7 @@ obligations:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d210ed718721460b"
+sourceContentHash: "a25b6554199519aa"
 
 status: "published"
 aiAssisted: true
@@ -145,15 +145,19 @@ reviewer: null
 publishedBy: "ashton-tan"
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "e-Invoice அளவு விலக்கு RM3,000,000-க்குக் கீழ் என, பிரிவு 1.6.10 குழு நிபந்தனையுடன் புதுப்பிக்கப்பட்டது; மேற்கோள் e-Invoice வழிகாட்டி பதிப்பு 4.8 (30 ஆகஸ்ட் 2026) என புதுப்பிக்கப்பட்டது."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-08-14
+updated: 2026-11-27
 sources:
   - title: "Companies Act 2016 (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி (Companies Act 2016 (Act 777), as at 1 August 2022)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
@@ -175,7 +179,7 @@ sources:
   - title: "மின்-விலைப்பட்டியல் அமலாக்க கால அட்டவணை (2025 டிசம்பர் 7 புதுப்பிக்கப்பட்டது) (e-Invoice Implementation Timeline (updated 7 December 2025))"
     url: "https://www.hasil.gov.my/en/e-invois/pelaksanaan-e-invois-di-malaysia/garis-masa-pelaksanaan-e-invois/"
     publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
-  - title: "IRBM மின்-விலைப்பட்டியல் வழிகாட்டி (பதிப்பு 4.7) (IRBM e-Invoice Guideline (Version 4.7))"
+  - title: "IRBM மின்-விலைப்பட்டியல் வழிகாட்டி (பதிப்பு 4.8) (IRBM e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
   - title: "உங்கள் வணிகத்தைப் பதிவு செய்தல் — MySST (Registering your Business — MySST)"
@@ -357,14 +361,17 @@ Income Tax Act 1967 இன் s.107C(4A) இன் கீழ், தகுதி
 வரம்பில் என்பதைச் சரிபார்க்கவும்.
 
 **e-Invoice** வருடாந்திர விற்றுமுதலின் அடிப்படையில் கட்டம் கட்டமாக அமல்படுத்தப்
-படுகிறது. வருடாந்திர விற்றுமுதல் RM1 million க்குக் குறைவாக உள்ள வரி செலுத்துவோர்
+படுகிறது. வருடாந்திர விற்றுமுதல் RM3 million க்குக் குறைவாக உள்ள வரி செலுத்துவோர்
 e-Invoice அமலாக்கத்திலிருந்து விலக்கு பெற்றவர்கள்; LHDN இன் வெளியிடப்பட்ட
 காலவரிசைப்படி, கட்டம் கட்டமான கட்டாயத் தேதிகள் RM100 million க்கு மேல் உள்ள வரி
 செலுத்துவோருக்கு 1 August 2024 முதல் தொடங்கி, RM5 million வரையிலான பிரிவுக்கு 1
 January 2026 வரை நீள்கின்றன. எனவே புதிதாகப் பதிவு செய்யப்பட்ட Sdn Bhd இன் வருவாய்
-RM1 million க்குக் கீழ் இருக்கும் வரை அது விலக்கு பெற்றுள்ளது. IRBM e-Invoice
-Guideline இன் கீழ், ஒரு புதிய வணிகம் RM1 million விலக்கு வரம்பைக் கடந்தவுடன், அதற்கு
-1 July 2026 என்ற சலுகை அமலாக்கத் தேதி வழங்கப்படுகிறது.
+RM3 million க்குக் கீழ் இருக்கும் வரை அது விலக்கு பெற்றுள்ளது — வழிகாட்டியின் பிரிவு
+1.6.10 இன் கீழ், அது ஒரு ஹோல்டிங் நிறுவனத்தின் துணை நிறுவனமாக இருந்தால், அல்லது
+குறைந்தது RM3 million வருடாந்திர விற்றுமுதல் கொண்ட ஒரு தொடர்புடைய நிறுவனம் அல்லது
+தனிநபர் அல்லாத பங்குதாரரைக் கொண்டிருந்தால் தவிர; அப்படிப்பட்ட சந்தர்ப்பங்களில்
+அளவு விலக்கு பொருந்தாது. இல்லையெனில், ஒரு புதிய வணிகம் RM3 million விலக்கு வரம்பைக்
+கடந்தவுடன், அதற்கு 1 July 2026 என்ற சலுகை அமலாக்கத் தேதி வழங்கப்படுகிறது.
 
 ## நீங்கள் பணியமர்த்தும்போது: EPF, SOCSO மற்றும் EIS
 

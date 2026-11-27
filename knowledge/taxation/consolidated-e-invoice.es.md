@@ -52,23 +52,27 @@ reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2027-07-22
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Citaciones de las guías actualizadas a la Guía de la e-Invoice v4.8 (30 de agosto de 2026) y la Guía Específica v4.9 (7 de septiembre de 2026)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-11-27
 sources:
-  - title: "Directriz específica de e-Invoice (Versión 4.8) (e-Invoice Specific Guideline (Version 4.8))"
+  - title: "Directriz específica de e-Invoice (Versión 4.9) (e-Invoice Specific Guideline (Version 4.9))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Specific-Guideline.pdf"
     publisher: "Junta de Ingresos Internos de Malasia (LHDN)"
-    date: "2026-07-07"
-  - title: "Directriz de e-Invoice (Versión 4.7) (e-Invoice Guideline (Version 4.7))"
+    date: "2026-09-07"
+  - title: "Directriz de e-Invoice (Versión 4.8) (e-Invoice Guideline (Version 4.8))"
     url: "https://www.hasil.gov.my/wp-content/uploads/IRBM-e-Invoice-Guideline.pdf"
     publisher: "Junta de Ingresos Internos de Malasia (LHDN)"
-    date: "2026-07-07"
+    date: "2026-08-30"
   - title: "Ley de Finanzas (n.º 2) de 2023 (Ley 851) — sección 82C(7) (Finance (No. 2) Act 2023 (Act 851) — section 82C(7))"
     url: "https://www.myttx.customs.gov.my/wp-content/uploads/2024/02/WJW23%EF%80%A21341-BI.pdf"
     publisher: "Gobierno de Malasia"
