@@ -85,7 +85,7 @@ relations:
   - { rel: "administered-by", to: "immigration-department-malaysia" }
   - { rel: "compares-with", to: "employment-pass-malaysia" }
   - { rel: "related-to", to: "employment" }
-related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
+related: ["employment-pass-malaysia", "employment-pass-founder-malaysia", "hiring-foreign-workers-malaysia", "dependant-social-visit-passes", "professional-visit-pass"]
 keywords: ["permis de travail malaisie", "professional visit pass", "de rantau nomad pass", "residence pass talent", "dependant pass malaisie", "investor pass malaisie", "malaysia work pass", "employment pass"]
 framework: decision
 stayFacts:
