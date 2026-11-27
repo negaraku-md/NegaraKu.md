@@ -81,7 +81,7 @@ relations:
   - { rel: "governs", to: "control-of-padi-and-rice-act-1994" }
   - { rel: "related-to", to: "bernas-padiberas-nasional" }
   - { rel: "related-to", to: "kementerian-kemajuan-desa-dan-wilayah" }
-related: []
+related: ["agricultural-subsidies-farm-input-support", "food-security-self-sufficiency-policy", "fama-agricultural-marketing-authority", "mardi-agricultural-research-institute"]
 keywords: ["KPKM", "Kementerian Pertanian dan Keterjaminan Makanan", "Ministry of Agriculture and Food Security", "कृषि एवं खाद्य सुरक्षा मंत्रालय", "DOA", "DVS", "DOF", "FAMA", "MARDI", "LPP", "LKIM", "BERNAS", "मलेशियाई कृषि एजेंसियाँ"]
 framework: profile
 ---

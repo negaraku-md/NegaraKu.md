@@ -70,7 +70,7 @@ entity: "Mekanisme Penetapan Harga Automatik (APM)"
 relations:
   - { rel: "related-to", to: "budi95-fuel-subsidy" }
   - { rel: "related-to", to: "diesel-subsidy-rationalisation" }
-related: []
+related: ["electricity-tariff-energy-transition", "ministry-of-domestic-trade-kpdn", "price-control-anti-profiteering-act"]
 keywords: ["APM", "آلية التسعير التلقائي", "أسعار الوقود", "RON97", "RON95", "BUDI95", "دعم الوقود", "سعر المضخة الأسبوعي", "fuel price Malaysia"]
 framework: explainer
 ---

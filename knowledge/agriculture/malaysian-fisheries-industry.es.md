@@ -85,7 +85,7 @@ relations:
   - { rel: "administered-by", to: "department-of-fisheries-malaysia" }
   - { rel: "related-to", to: "lkim" }
   - { rel: "related-to", to: "mmea" }
-related: []
+related: ["department-of-fisheries-malaysia", "ministry-of-agriculture-food-security-and-agencies", "food-security-self-sufficiency-policy"]
 keywords: ["industria pesquera de Malasia", "producción de pescado de Malasia", "acuicultura Malasia", "aquaculture Malaysia", "LKIM", "Departamento de Pesca de Malasia", "Ley de Pesca 1985", "Fisheries Act 1985", "intrusión de embarcaciones pesqueras extranjeras", "IUU fishing Malaysia"]
 framework: profile
 hero: '/media/agriculture/malaysian-fisheries-industry/hero.webp'

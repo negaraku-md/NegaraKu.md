@@ -87,7 +87,7 @@ wikidata: "Q112020"
 relations:
   - { rel: "related-to", to: "fgv-holdings" }
   - { rel: "governs", to: "group-settlement-areas-act-1960" }
-related: []
+related: ["palm-oil-industry", "rubber-industry", "agricultural-subsidies-farm-input-support"]
 keywords: ["FELDA", "peneroka", "colonisation des terres", "palmier à huile", "FGV Holdings", "loi foncière 1960", "pauvreté rurale"]
 framework: profile
 hero: '/media/agriculture/felda-land-settlement-scheme/hero.webp'

@@ -75,7 +75,7 @@ entity: "Dasar Agromakanan Negara 2.0"
 relations:
   - { rel: "administered-by", to: "mafi-ministry-agriculture-food-security" }
   - { rel: "related-to", to: "padi-rice-industry-malaysia" }
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "padi-and-rice-industry", "agricultural-subsidies-farm-input-support"]
 keywords: ["الأمن الغذائي", "food security Malaysia", "مستوى الاكتفاء الذاتي", "SSL", "SSR", "السياسة الوطنية للأغذية الزراعية", "Dasar Agromakanan Negara", "DAN 2.0", "الأرز", "beras"]
 framework: explainer
 ---

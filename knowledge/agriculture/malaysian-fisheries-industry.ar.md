@@ -85,7 +85,7 @@ relations:
   - { rel: "administered-by", to: "department-of-fisheries-malaysia" }
   - { rel: "related-to", to: "lkim" }
   - { rel: "related-to", to: "mmea" }
-related: []
+related: ["department-of-fisheries-malaysia", "ministry-of-agriculture-food-security-and-agencies", "food-security-self-sufficiency-policy"]
 keywords: ["صناعة مصايد الأسماك في ماليزيا", "إنتاج الأسماك في ماليزيا", "الاستزراع المائي", "aquaculture Malaysia", "LKIM", "دائرة مصايد الأسماك الماليزية", "قانون مصايد الأسماك 1985", "Fisheries Act 1985", "تسلّل سفن الصيد الأجنبية", "IUU fishing Malaysia"]
 framework: profile
 hero: '/media/agriculture/malaysian-fisheries-industry/hero.webp'

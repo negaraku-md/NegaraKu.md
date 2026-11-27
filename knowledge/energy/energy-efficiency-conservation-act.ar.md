@@ -78,7 +78,7 @@ relations:
   - { rel: "administered-by", to: "suruhanjaya-tenaga" }
   - { rel: "supersedes", to: "efficient-management-electrical-energy-regulations-2008" }
   - { rel: "affects", to: "commercial-buildings-malaysia" }
-related: []
+related: ["energy-commission-suruhanjaya-tenaga", "electricity-tariff-energy-transition", "seda-malaysia"]
 keywords: ["EECA 2024", "Act 861", "كفاءة الطاقة", "لجنة الطاقة", "Suruhanjaya Tenaga", "مدير طاقة مسجّل", "pengurus tenaga berdaftar", "تدقيق الطاقة", "audit tenaga", "كثافة طاقة المبنى", "intensiti tenaga bangunan", "MEPS"]
 framework: rules
 wikidata: "Q142235995"

@@ -90,7 +90,7 @@ relations:
   - { rel: "governs", to: "electricity-supply-act-447" }
   - { rel: "governs", to: "gas-supply-act-501" }
   - { rel: "governs", to: "energy-efficiency-conservation-act-2024" }
-related: []
+related: ["electricity-tariff-energy-transition", "energy-efficiency-conservation-act", "seda-malaysia"]
 keywords: ["Suruhanjaya Tenaga", "لجنة الطاقة الماليزية", "Energy Commission Malaysia", "قانون لجنة الطاقة لسنة 2001", "Act 610", "تعرفة الكهرباء في ماليزيا", "EECA 2024", "Act 861", "PETRA"]
 framework: profile
 ---

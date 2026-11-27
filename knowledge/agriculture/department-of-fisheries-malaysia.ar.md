@@ -74,7 +74,7 @@ sources:
 entity: "Department of Fisheries Malaysia (Jabatan Perikanan Malaysia)"
 wikidata: "Q113542338"
 relations: []
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "malaysian-fisheries-industry", "food-security-self-sufficiency-policy"]
 keywords: ["إدارة مصايد الأسماك في ماليزيا", "DOF", "Jabatan Perikanan Malaysia", "مصايد الأسماك في ماليزيا", "Fisheries Act 1985", "رخصة الصيد في ماليزيا", "الاستزراع المائي في ماليزيا", "dof.gov.my", "fishing licence Malaysia", "Director-General of Fisheries"]
 framework: profile
 hero: '/media/agriculture/department-of-fisheries-malaysia/hero.webp'

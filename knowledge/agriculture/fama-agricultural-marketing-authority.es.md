@@ -74,7 +74,7 @@ entity: "Lembaga Pemasaran Pertanian Persekutuan (FAMA)"
 wikidata: "Q5440003"
 relations:
   - { rel: "administered-by", to: "kementerian-pertanian-keterjaminan-makanan" }
-related: []
+related: ["ministry-of-agriculture-food-security-and-agencies", "agricultural-subsidies-farm-input-support", "padi-and-rice-industry"]
 keywords: ["FAMA", "Autoridad Federal de Comercialización Agrícola", "Lembaga Pemasaran Pertanian Persekutuan", "Federal Agricultural Marketing Authority", "Act 141", "mercado de agricultores", "My Farm Outlet", "Agrobazaar", "comercialización agrícola", "fama.gov.my"]
 framework: profile
 hero: '/media/agriculture/fama-agricultural-marketing-authority/hero.webp'
