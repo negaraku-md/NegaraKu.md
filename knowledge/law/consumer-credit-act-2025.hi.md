@@ -101,7 +101,7 @@ entity: "Consumer Credit Act 2025"
 relations:
   - { rel: "administered-by", to: "consumer-credit-commission" }
   - { rel: "related-to", to: "hire-purchase-act-1967" }
-related: []
+related: ["bank-negara-malaysia", "credit-reports-ccris-ctos", "akpk-debt-management"]
 keywords: ["उपभोक्ता ऋण अधिनियम 2025", "Consumer Credit Act", "BNPL मलेशिया", "उपभोक्ता ऋण आयोग", "किराया-खरीद अधिनियम 1967", "प्रभावी ब्याज दर", "Rule of 78"]
 framework: explainer
 wikidata: "Q142235980"

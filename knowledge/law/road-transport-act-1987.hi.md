@@ -74,7 +74,7 @@ sources:
 entity: "Road Transport Act 1987 (Act 333)"
 wikidata: "Q27962026"
 relations: []
-related: []
+related: ["road-transport-department-jpj", "road-safety-in-malaysia", "motorcycle-riding-rules"]
 keywords: ["सड़क परिवहन अधिनियम 1987", "Road Transport Act 1987", "Act 333", "Akta Pengangkutan Jalan 1987", "RTA 1987", "JPJ", "बिना लाइसेंस ड्राइविंग मलेशिया", "यातायात अपराध मलेशिया", "नशे में ड्राइविंग दंड मलेशिया", "खतरनाक ड्राइविंग मलेशिया", "driving without licence Malaysia", "DUI Malaysia penalty"]
 framework: rules
 ---

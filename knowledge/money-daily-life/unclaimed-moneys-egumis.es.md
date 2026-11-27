@@ -65,7 +65,7 @@ entity: "eGUMIS"
 relations:
   - { rel: "administered-by", to: "jabatan-akauntan-negara-malaysia" }
   - { rel: "governs", to: "unclaimed-moneys-act-1965" }
-related: []
+related: ["wills-and-probate-in-malaysia", "credit-reports-ccris-ctos"]
 keywords: ["dinero no reclamado", "eGUMIS", "dinero inactivo", "Departamento del Contador General", "wang tak dituntut", "unclaimed moneys", "Akta Wang Tak Dituntut 1965", "Jabatan Akauntan Negara", "JANM", "wang dorman", "bayaran balik"]
 framework: how-to
 ---

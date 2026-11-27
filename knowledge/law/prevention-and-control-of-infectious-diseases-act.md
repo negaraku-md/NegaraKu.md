@@ -68,7 +68,7 @@ wikidata: "Q87897624"
 relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
   - { rel: "related-to", to: "movement-control-order-covid-19" }
-related: []
+related: ["covid-19-pandemic-response-and-legacy", "public-healthcare-system-malaysia", "ministry-of-health-moh"]
 keywords: ["Akta 342", "penyakit berjangkit", "kuarantin", "PKP", "COVID-19", "kawasan jangkitan tempatan", "kesihatan awam", "Kementerian Kesihatan Malaysia"]
 framework: rules
 ---

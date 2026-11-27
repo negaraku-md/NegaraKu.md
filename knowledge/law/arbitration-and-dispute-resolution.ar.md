@@ -83,7 +83,7 @@ wikidata: "Q7413295"
 relations:
   - { rel: "governs", to: "arbitration-and-dispute-resolution" }
   - { rel: "related-to", to: "contract-law" }
-related: []
+related: ["arbitration-vs-litigation-malaysia", "cipaa-construction-adjudication-malaysia", "legal-aid-in-malaysia"]
 keywords: ["التحكيم", "AIAC", "قانون التحكيم 2005", "الوساطة", "تسوية المنازعات", "اتفاقية نيويورك", "تمويل الطرف الثالث", "الأونسيترال", "arbitration", "Arbitration Act 2005", "mediation", "dispute resolution", "New York Convention", "third-party funding", "UNCITRAL"]
 framework: explainer
 ---

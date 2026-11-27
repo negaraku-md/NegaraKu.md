@@ -83,7 +83,7 @@ wikidata: "Q7413295"
 relations:
   - { rel: "governs", to: "arbitration-and-dispute-resolution" }
   - { rel: "related-to", to: "contract-law" }
-related: []
+related: ["arbitration-vs-litigation-malaysia", "cipaa-construction-adjudication-malaysia", "legal-aid-in-malaysia"]
 keywords: ["मध्यस्थता", "AIAC", "मध्यस्थता अधिनियम 2005", "मध्यस्थता-सुलह", "विवाद समाधान", "न्यूयॉर्क कन्वेंशन", "तृतीय-पक्ष वित्तपोषण", "UNCITRAL", "arbitration", "Arbitration Act 2005", "mediation", "dispute resolution", "New York Convention", "third-party funding"]
 framework: explainer
 ---

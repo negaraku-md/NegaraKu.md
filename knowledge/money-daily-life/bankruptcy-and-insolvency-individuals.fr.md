@@ -89,7 +89,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-insolvensi-malaysia" }
   - { rel: "governs", to: "insolvency-act-1967" }
   - { rel: "compares-with", to: "akpk-debt-management-programme" }
-related: []
+related: ["akpk-debt-management", "credit-reports-ccris-ctos", "bank-negara-malaysia"]
 keywords: ["faillite", "kebankrapan", "bankrap", "insolvabilité", "insolvensi", "Loi sur l'insolvabilité 1967", "Insolvency Act 1967", "MDI", "Directeur général de l'insolvabilité", "réhabilitation de la faillite", "section 33C", "AKPK", "DMP"]
 framework: explainer
 ---

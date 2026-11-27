@@ -73,7 +73,7 @@ sources:
 entity: "Road Transport Act 1987 (Act 333)"
 wikidata: "Q27962026"
 relations: []
-related: []
+related: ["road-transport-department-jpj", "road-safety-in-malaysia", "motorcycle-riding-rules"]
 keywords: ["Road Transport Act 1987", "Act 333", "Akta Pengangkutan Jalan 1987", "RTA 1987", "JPJ", "driving without licence Malaysia", "traffic offences Malaysia", "DUI Malaysia penalty", "Road Transport Amendment Act 2020", "dangerous driving Malaysia", "Section 41 RTA", "Section 44 RTA"]
 framework: rules
 ---

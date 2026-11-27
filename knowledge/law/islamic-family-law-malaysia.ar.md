@@ -68,7 +68,7 @@ wikidata: "Q141851348"
 relations:
   - { rel: "administered-by", to: "syariah-courts-malaysia" }
   - { rel: "related-to", to: "harta-sepencarian-malaysia" }
-related: []
+related: ["faraid-and-islamic-inheritance", "law-reform-marriage-and-divorce-act-1976", "civil-and-syariah-courts"]
 keywords: ["قانون الأحوال الشخصية الإسلامي", "Act 303", "المحكمة الشرعية", "الطلاق", "الفسخ", "الخلع", "الحضانة", "النفقة", "تعدد الزوجات", "islamic family law malaysia"]
 framework: rules
 ---

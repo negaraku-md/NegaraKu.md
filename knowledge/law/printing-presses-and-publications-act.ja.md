@@ -73,7 +73,7 @@ wikidata: "Q7245316"
 relations:
   - { rel: "administered-by", to: "kementerian-dalam-negeri" }
   - { rel: "related-to", to: "malaysian-media-council-act" }
-related: []
+related: ["official-secrets-act-1972", "sedition-act", "online-safety-act-malaysia"]
 keywords: ["Akta Mesin Cetak dan Penerbitan", "Akta 301", "PPPA", "permit akhbar", "lesen mesin cetak", "Menteri Dalam Negeri", "kebebasan media"]
 framework: rules
 ---

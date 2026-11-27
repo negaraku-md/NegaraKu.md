@@ -62,7 +62,7 @@ relations:
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "related-to", to: "zakat-pendapatan" }
-related: []
+related: ["income-tax-individuals", "lhdn-e-ansuran-tax-instalments", "faraid-and-islamic-inheritance"]
 keywords: ["zakat deducción fiscal", "Sección 6A", "Ley del Impuesto sobre la Renta de 1967", "deducción fiscal del zakat LHDN", "zakat frente a desgravación fiscal", "organismo estatal de zakat", "Seksyen 6A", "badan zakat negeri"]
 framework: explainer
 ---

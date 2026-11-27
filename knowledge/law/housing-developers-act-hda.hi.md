@@ -97,7 +97,7 @@ relations:
   - { rel: "administered-by", to: "kpkt" }
   - { rel: "explained-in", to: "tribunal-tuntutan-pembeli-rumah" }
   - { rel: "related-to", to: "strata-titles-act-1985" }
-related: []
+related: ["homebuyer-protection-abandoned-projects", "strata-management-jmb-mc", "ministry-of-housing-local-government-kpkt"]
 keywords: ["HDA", "Act 118", "Jadual H", "Jadual G", "ganti rugi lewat", "LAD", "milikan kosong", "APDL", "Tribunal Tuntutan Pembeli Rumah", "आवास विकास अधिनियम", "गृह-क्रेता संरक्षण"]
 framework: rules
 wikidata: "Q142235984"

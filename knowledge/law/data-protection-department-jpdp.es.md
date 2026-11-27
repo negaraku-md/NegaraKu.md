@@ -78,7 +78,7 @@ sources:
 entity: "Personal Data Protection Department (Jabatan Perlindungan Data Peribadi, JPDP), Malaysia"
 wikidata: "Q113543393"
 relations: []
-related: []
+related: ["pdpa-2010", "pdpa-compliance-malaysia", "data-protection-officer-malaysia"]
 keywords: ["JPDP", "Jabatan Perlindungan Data Peribadi", "Personal Data Protection Department", "Departamento de Protección de Datos Personales", "PDPA Malaysia", "Personal Data Protection Act 2010", "Act 709", "registro de controladores de datos Malasia", "Personal Data Protection Commissioner", "pdp.gov.my", "PDPA Amendment Act 2024", "notificación de brechas de datos Malasia", "DPO Malaysia", "Suruhanjaya Perlindungan Data Peribadi", "SPDP daftar"]
 framework: profile
 ---

@@ -87,7 +87,7 @@ entity: "Law Reform (Marriage and Divorce) Act 1976"
 relations:
   - { rel: "administered-by", to: "jabatan-pendaftaran-negara" }
   - { rel: "related-to", to: "islamic-family-law-malaysia" }
-related: []
+related: ["islamic-family-law-malaysia", "wills-and-probate-in-malaysia", "registering-a-marriage-civil"]
 keywords: ["Akta 164", "नागरिक विवाह", "ग़ैर-मुस्लिम तलाक", "वैवाहिक संपत्ति", "harta sepencarian", "Law Reform Marriage and Divorce Act 1976", "धारा 76", "राष्ट्रीय पंजीकरण विभाग"]
 framework: rules
 wikidata: "Q142235988"

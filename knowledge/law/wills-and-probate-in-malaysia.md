@@ -86,7 +86,7 @@ sources:
 
 relations:
   - { rel: "related-to", to: "estate-planning-in-malaysia" }
-related: []
+related: ["faraid-and-islamic-inheritance", "law-reform-marriage-and-divorce-act-1976", "property-inheritance-faraid-distribution"]
 keywords: ["wasiat", "probet", "pusaka", "Akta Pembahagian 1958", "Akta Wasiat 1959", "surat kuasa mentadbir", "bukan Islam"]
 framework: explainer
 ---
