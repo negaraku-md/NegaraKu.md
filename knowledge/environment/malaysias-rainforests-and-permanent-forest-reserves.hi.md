@@ -75,7 +75,7 @@ relations:
   - { rel: "governs", to: "malaysias-rainforests-and-permanent-forest-reserves" }
   - { rel: "administered-by", to: "jabatan-perhutanan-semenanjung-malaysia" }
   - { rel: "related-to", to: "federal-constitution-state-and-federal-lists" }
-related: []
+related: ["deforestation-and-forest-loss-in-malaysia", "national-parks-and-protected-areas-malaysia", "taman-negara-ecotourism-guide"]
 keywords: ["स्थायी वन आरक्षित", "hutan simpanan kekal", "राष्ट्रीय वानिकी अधिनियम 1984", "akta perhutanan negara 1984", "वन राजपत्रण", "pewartaan hutan", "राज्य सूची", "मलेशिया के वर्षावन", "hutan hujan malaysia", "वन आरक्षित राजपत्र-विमोचन", "सबाह वन अधिनियमन", "सारावाक वन अध्यादेश"]
 framework: explainer
 hero: '/media/environment/malaysias-rainforests-and-permanent-forest-reserves/hero.webp'

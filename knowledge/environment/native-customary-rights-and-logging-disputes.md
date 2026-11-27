@@ -64,7 +64,7 @@ relations:
   - { rel: "governs", to: "sarawak-land-code" }
   - { rel: "related-to", to: "logging-and-forestry-in-malaysia" }
   - { rel: "related-to", to: "orang-asal-indigenous-peoples" }
-related: []
+related: ["deforestation-and-forest-loss-in-malaysia", "palm-oil-sustainability-mspo-and-deforestation", "malaysias-rainforests-and-permanent-forest-reserves"]
 keywords: ["native customary rights", "NCR land", "Sarawak Land Code", "TR Sandah", "pemakai menoa", "pulau galau", "temuda", "Sabah Land Ordinance", "logging disputes", "native title"]
 framework: explainer
 hero: '/media/environment/native-customary-rights-and-logging-disputes/hero.webp'

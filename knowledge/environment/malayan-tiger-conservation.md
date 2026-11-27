@@ -75,7 +75,7 @@ wikidata: "Q215836"
 relations:
   - { rel: "administered-by", to: "perhilitan" }
   - { rel: "located-in", to: "taman-negara" }
-related: []
+related: ["wildlife-conservation-act-and-perhilitan", "national-parks-and-protected-areas-malaysia", "bornean-orangutan-and-habitat-protection"]
 keywords: ["Malayan tiger", "Harimau Malaya", "Panthera tigris jacksoni", "Critically Endangered", "National Tiger Survey", "Perhilitan", "MYCAT", "tiger conservation", "Al-Sultan Abdullah Royal Tiger Reserve"]
 framework: explainer
 hero: '/media/environment/malayan-tiger-conservation/hero.webp'

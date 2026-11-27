@@ -73,7 +73,7 @@ sources:
 entity: "Department of National Heritage (Jabatan Warisan Negara)"
 wikidata: "Q7354460"
 relations: []
-related: []
+related: ["national-heritage-sites", "cultural-heritage-tourism-malaysia", "traditional-malay-architecture"]
 keywords: ["Jabatan Warisan Negara", "JWN", "राष्ट्रीय विरासत विभाग", "Department of National Heritage", "राष्ट्रीय विरासत अधिनियम 2005", "National Heritage Act 2005", "Act 645", "Warisan Kebangsaan", "राष्ट्रीय विरासत रजिस्टर", "National Heritage Register", "विरासत आयुक्त", "Commissioner of Heritage", "heritage.gov.my", "MOTAC", "राष्ट्रीय विरासत मलेशिया राजपत्र", "Daftar Warisan Kebangsaan", "Warisan Orang Hidup"]
 framework: profile
 ---

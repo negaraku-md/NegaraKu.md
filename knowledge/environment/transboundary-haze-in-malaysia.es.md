@@ -81,7 +81,7 @@ entity: "Air Pollutant Index (API)"
 relations:
   - { rel: "administered-by", to: "jabatan-alam-sekitar" }
   - { rel: "related-to", to: "asean-agreement-on-transboundary-haze-pollution" }
-related: []
+related: ["air-pollutant-index-api-malaysia", "palm-oil-sustainability-mspo-and-deforestation", "department-of-environment-doe"]
 keywords: ["bruma", "transboundary haze", "API", "Índice de Contaminantes del Aire", "Sumatra", "Kalimantan", "ASEAN", "Departamento de Medio Ambiente", "calidad del aire", "haze"]
 framework: explainer
 hero: '/media/environment/transboundary-haze-in-malaysia/hero.webp'

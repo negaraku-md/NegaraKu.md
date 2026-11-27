@@ -95,7 +95,7 @@ entity: "Penyu Malaysia"
 relations:
   - { rel: "governs", to: "fisheries-act-1985-marine-parks" }
   - { rel: "related-to", to: "terengganu-turtle-enactment" }
-related: []
+related: ["wildlife-conservation-act-and-perhilitan", "national-parks-and-protected-areas-malaysia", "bornean-orangutan-and-habitat-protection"]
 keywords: ["السلاحف البحرية", "السلحفاة الجلدية", "رانتاو أبانغ", "الحديقة البحرية", "قانون مصايد الأسماك 1985", "مرسوم سلاحف ترينغانو", "الحفاظ على البيئة البحرية", "بيض السلاحف", "sea turtles", "marine conservation"]
 framework: explainer
 hero: '/media/environment/sea-turtles-and-marine-conservation-malaysia/hero.webp'

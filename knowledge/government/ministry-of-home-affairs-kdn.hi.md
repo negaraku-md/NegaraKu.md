@@ -73,7 +73,7 @@ sources:
 entity: "Ministry of Home Affairs (Malaysia) / Kementerian Dalam Negeri (KDN)"
 wikidata: "Q4294304"
 relations: []
-related: []
+related: ["immigration-department-jim", "national-anti-drugs-agency-aadk", "rela-peoples-volunteer-corps"]
 keywords: ["KDN", "Kementerian Dalam Negeri", "मलेशिया गृह मंत्रालय", "Ministry of Home Affairs Malaysia", "MOHA", "KDN एजेंसियाँ", "KDN विभाग", "agensi bawah KDN", "मलेशिया गृह मंत्री", "fungsi KDN", "JPN", "Jabatan Imigresen", "PDRM", "AKPS", "Registry of Societies", "फ़िल्म सेंसरशिप बोर्ड"]
 framework: profile
 hero: '/media/government/ministry-of-home-affairs-kdn/hero.webp'

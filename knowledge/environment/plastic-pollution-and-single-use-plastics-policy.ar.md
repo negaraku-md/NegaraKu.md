@@ -69,7 +69,7 @@ sources:
 entity: "Peta Jalan Ke Arah Sifar Plastik Sekali Guna 2018-2030"
 relations:
   - { rel: "related-to", to: "solid-waste-management-in-malaysia" }
-related: []
+related: ["solid-waste-management-and-recycling", "local-government-councils", "rivers-water-pollution-and-water-security"]
 keywords: ["البلاستيك ذو الاستخدام الواحد", "رسم الكيس البلاستيكي", "التلوث البلاستيكي", "خارطة طريق البلاستيك ماليزيا", "استدامة البلاستيك 2021-2030", "single-use plastics", "plastic bag charge"]
 framework: explainer
 hero: '/media/environment/plastic-pollution-and-single-use-plastics-policy/hero.webp'

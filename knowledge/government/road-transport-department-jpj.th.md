@@ -71,7 +71,7 @@ wikidata: "Q6742016"
 relations:
   - rel: "part-of"
     to: "malaysia"
-related: []
+related: ["road-transport-act-1987", "motorcycle-riding-rules", "road-safety-in-malaysia"]
 keywords: ["JPJ", "Jabatan Pengangkutan Jalan", "Road Transport Department", "driving licence Malaysia", "road tax", "vehicle registration", "Road Transport Act 1987", "MyJPJ", "mySIKAP", "LKM"]
 social:
   hashtags: ["JPJ", "RoadTaxMalaysia", "DrivingLicence", "MyJPJ"]

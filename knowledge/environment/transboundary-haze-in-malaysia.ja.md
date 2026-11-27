@@ -81,7 +81,7 @@ entity: "Air Pollutant Index (API)"
 relations:
   - { rel: "administered-by", to: "jabatan-alam-sekitar" }
   - { rel: "related-to", to: "asean-agreement-on-transboundary-haze-pollution" }
-related: []
+related: ["air-pollutant-index-api-malaysia", "palm-oil-sustainability-mspo-and-deforestation", "department-of-environment-doe"]
 keywords: ["jerebu", "transboundary haze", "API", "Indeks Pencemar Udara", "Sumatera", "Kalimantan", "ASEAN", "Jabatan Alam Sekitar", "kualiti udara"]
 framework: explainer
 hero: '/media/environment/transboundary-haze-in-malaysia/hero.webp'

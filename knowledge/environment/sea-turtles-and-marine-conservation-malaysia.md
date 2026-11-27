@@ -94,7 +94,7 @@ entity: "Penyu Malaysia"
 relations:
   - { rel: "governs", to: "fisheries-act-1985-marine-parks" }
   - { rel: "related-to", to: "terengganu-turtle-enactment" }
-related: []
+related: ["wildlife-conservation-act-and-perhilitan", "national-parks-and-protected-areas-malaysia", "bornean-orangutan-and-habitat-protection"]
 keywords: ["penyu", "penyu belimbing", "Rantau Abang", "taman laut", "Akta Perikanan 1985", "Enakmen Penyu Terengganu", "pemuliharaan marin", "telur penyu"]
 framework: explainer
 hero: '/media/environment/sea-turtles-and-marine-conservation-malaysia/hero.webp'

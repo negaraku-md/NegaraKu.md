@@ -81,7 +81,7 @@ entity: "Air Pollutant Index (API)"
 relations:
   - { rel: "administered-by", to: "jabatan-alam-sekitar" }
   - { rel: "related-to", to: "asean-agreement-on-transboundary-haze-pollution" }
-related: []
+related: ["air-pollutant-index-api-malaysia", "palm-oil-sustainability-mspo-and-deforestation", "department-of-environment-doe"]
 keywords: ["धुंध", "transboundary haze", "API", "वायु प्रदूषक सूचकांक", "सुमात्रा", "कालीमंतान", "आसियान", "पर्यावरण विभाग", "वायु गुणवत्ता", "haze"]
 framework: explainer
 hero: '/media/environment/transboundary-haze-in-malaysia/hero.webp'

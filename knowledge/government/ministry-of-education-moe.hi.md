@@ -82,7 +82,7 @@ sources:
 entity: "Ministry of Education Malaysia (Kementerian Pendidikan Malaysia, KPM)"
 wikidata: "Q3816079"
 relations: []
-related: []
+related: ["malaysian-education-system", "mrsm-and-fully-residential-schools", "special-education-and-learning-support"]
 keywords: ["Ministry of Education Malaysia", "KPM", "Kementerian Pendidikan Malaysia", "मलेशिया शिक्षा मंत्रालय", "Fadhlina Sidek", "Education Act 1996", "शिक्षा अधिनियम 1996", "Malaysia Education Blueprint", "PPPM", "KPM vs KPT", "menteri pendidikan", "moe.gov.my", "मलेशिया अनिवार्य शिक्षा", "मलेशिया स्कूल प्रणाली"]
 framework: profile
 hero: '/media/government/ministry-of-education-moe/hero.webp'

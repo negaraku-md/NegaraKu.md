@@ -103,7 +103,7 @@ wikidata: "Q85976374"
 relations:
   - { rel: "governs", to: "solid-waste-management-and-recycling" }
   - { rel: "related-to", to: "circular-economy-blueprint" }
-related: []
+related: ["local-government-councils", "plastic-pollution-and-single-use-plastics-policy", "environmental-quality-act-1974"]
 keywords: ["القانون 672", "SWCorp", "إعادة التدوير", "النفايات الصلبة", "مطمر النفايات", "فصل النفايات من المصدر", "الاقتصاد الدائري", "Act 672", "recycling"]
 framework: explainer
 hero: '/media/environment/solid-waste-management-and-recycling/hero.webp'

@@ -79,7 +79,7 @@ sources:
 entity: "Ministry of Health Malaysia (Kementerian Kesihatan Malaysia)"
 wikidata: "Q4294352"
 relations: []
-related: []
+related: ["public-healthcare-system-malaysia", "health-white-paper-and-system-reform", "medical-tourism-malaysia"]
 keywords: ["Ministry of Health Malaysia", "मलेशिया स्वास्थ्य मंत्रालय", "KKM", "Kementerian Kesihatan Malaysia", "MOH Malaysia", "मलेशिया स्वास्थ्य मंत्री", "Director-General of Health", "स्वास्थ्य महानिदेशक", "klinik kesihatan", "moh.gov.my", "मलेशिया सार्वजनिक स्वास्थ्य देखभाल", "Dzulkefly Ahmad", "RM1 क्लिनिक शुल्क"]
 framework: profile
 hero: '/media/government/ministry-of-health-moh/hero.webp'

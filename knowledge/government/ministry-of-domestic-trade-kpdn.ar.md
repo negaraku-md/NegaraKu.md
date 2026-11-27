@@ -83,7 +83,7 @@ sources:
 entity: "Ministry of Domestic Trade and Cost of Living (Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup, KPDN)"
 wikidata: "Q12689906"
 relations: []
-related: []
+related: ["competition-act-2010", "price-control-anti-profiteering-act", "franchise-registration-malaysia"]
 keywords: ["KPDN", "Ministry of Domestic Trade and Cost of Living", "وزارة التجارة الداخلية وتكلفة المعيشة", "شكاوى KPDN", "Price Control and Anti-Profiteering Act 2011", "قانون ضبط الأسعار", "Ez ADU KPDN", "محكمة مطالبات المستهلكين TTPM", "الخط الساخن KPDN", "ضبط أسعار السلع", "حماية المستهلك في ماليزيا", "Armizan Mohd Ali", "SSM MyIPO MyCC", "Ops Pantau KPDN"]
 framework: profile
 hero: '/media/government/ministry-of-domestic-trade-kpdn/hero.webp'

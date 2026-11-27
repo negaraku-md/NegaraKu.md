@@ -75,7 +75,7 @@ relations:
   - { rel: "governs", to: "malaysias-rainforests-and-permanent-forest-reserves" }
   - { rel: "administered-by", to: "jabatan-perhutanan-semenanjung-malaysia" }
   - { rel: "related-to", to: "federal-constitution-state-and-federal-lists" }
-related: []
+related: ["deforestation-and-forest-loss-in-malaysia", "national-parks-and-protected-areas-malaysia", "taman-negara-ecotourism-guide"]
 keywords: ["hutan simpanan kekal", "akta perhutanan negara 1984", "pewartaan hutan", "senarai negeri", "hutan hujan malaysia", "degazette hutan simpan", "enakmen hutan sabah", "ordinan hutan sarawak"]
 framework: explainer
 hero: '/media/environment/malaysias-rainforests-and-permanent-forest-reserves/hero.webp'

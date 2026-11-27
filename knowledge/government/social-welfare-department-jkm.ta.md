@@ -75,7 +75,7 @@ sources:
 entity: "Jabatan Kebajikan Masyarakat (Department of Social Welfare, JKM)"
 wikidata: "Q7354381"
 relations: []
-related: []
+related: ["disability-and-oku-healthcare-access", "persons-with-disabilities-employment-malaysia", "b40-m40-t20-income-classification"]
 keywords: ["JKM", "Jabatan Kebajikan Masyarakat", "Department of Social Welfare Malaysia", "bantuan JKM", "OKU card", "OKU registration", "eBantuan JKM", "eKasih", "MyDaftar OKU", "Bantuan Kanak-Kanak BKK", "Persons with Disabilities Act 2008", "kad OKU"]
 framework: profile
 hero: '/media/government/social-welfare-department-jkm/hero.webp'

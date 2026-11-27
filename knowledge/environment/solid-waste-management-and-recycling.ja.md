@@ -102,7 +102,7 @@ wikidata: "Q85976374"
 relations:
   - { rel: "governs", to: "solid-waste-management-and-recycling" }
   - { rel: "related-to", to: "circular-economy-blueprint" }
-related: []
+related: ["local-government-councils", "plastic-pollution-and-single-use-plastics-policy", "environmental-quality-act-1974"]
 keywords: ["Akta 672", "SWCorp", "kitar semula", "sisa pepejal", "tapak pelupusan", "pengasingan sisa di punca", "ekonomi kitaran"]
 framework: explainer
 hero: '/media/environment/solid-waste-management-and-recycling/hero.webp'

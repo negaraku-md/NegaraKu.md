@@ -75,7 +75,7 @@ sources:
 entity: "Ministry of Housing and Local Government (Kementerian Perumahan dan Kerajaan Tempatan, KPKT)"
 wikidata: "Q6867161"
 relations: []
-related: []
+related: ["local-government-act-1976", "local-government-councils", "strata-management-jmb-mc"]
 keywords: ["KPKT", "Kementerian Perumahan dan Kerajaan Tempatan", "आवास एवं स्थानीय सरकार मंत्रालय मलेशिया", "Ministry of Housing and Local Government Malaysia", "KPKT कार्य", "KPKT एजेंसियाँ", "JBPM", "PLANMalaysia", "Jabatan Kerajaan Tempatan", "Jabatan Perumahan Negara", "आवास एवं स्ट्रेटा प्रबंधन अधिकरण", "SWCorp", "Strata Management Act 2013", "Local Government Act 1976", "Nga Kor Ming", "किफ़ायती आवास मलेशिया B40 M40"]
 framework: profile
 hero: '/media/government/ministry-of-housing-local-government-kpkt/hero.webp'

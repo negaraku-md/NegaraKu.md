@@ -68,7 +68,7 @@ sources:
 entity: "Peta Jalan Ke Arah Sifar Plastik Sekali Guna 2018-2030"
 relations:
   - { rel: "related-to", to: "solid-waste-management-in-malaysia" }
-related: []
+related: ["solid-waste-management-and-recycling", "local-government-councils", "rivers-water-pollution-and-water-security"]
 keywords: ["plastik sekali guna", "caj beg plastik", "pencemaran plastik", "peta jalan plastik Malaysia", "kelestarian plastik 2021-2030"]
 framework: explainer
 hero: '/media/environment/plastic-pollution-and-single-use-plastics-policy/hero.webp'

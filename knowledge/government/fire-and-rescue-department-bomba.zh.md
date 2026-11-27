@@ -68,7 +68,7 @@ entity: "Fire and Rescue Department of Malaysia (Jabatan Bomba dan Penyelamat Ma
 relations:
   - rel: "part-of"
     to: "malaysia"
-related: []
+related: ["fire-safety-and-prevention-malaysia", "mers-999-emergency-numbers", "civil-defence-force-apm"]
 keywords: ["BOMBA", "Jabatan Bomba dan Penyelamat Malaysia", "Fire and Rescue Department", "999 emergency", "fire safety Malaysia", "JBPM", "fire certificate", "Perakuan Bomba", "Fire Services Act 1988", "MERS 999"]
 social:
   hashtags: ["#BOMBA", "#FireAndRescue", "#Malaysia", "#999", "#FireSafety"]
