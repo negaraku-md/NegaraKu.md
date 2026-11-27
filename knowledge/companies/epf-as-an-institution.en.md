@@ -5,31 +5,31 @@ seoTitle: "EPF (KWSP): Malaysia's Largest Retirement Fund & Institutional Invest
 slug: "epf-as-an-institution"
 category: "companies"
 subcategory: ["pension"]
-summary: "The EPF is Malaysia's largest mandatory retirement fund and the country's most influential institutional investor, with investment assets reaching RM1.25 trillion at the end of 2024."
+summary: "The EPF is Malaysia's largest mandatory retirement fund and the country's most influential institutional investor, with investment assets reaching RM1.41 trillion at the end of 2025."
 
 tier: "4"
 mode: "narrative"
 contentType: "agency"
 sensitivity: "none"
 
-answer: "The Employees Provident Fund (EPF), or Kumpulan Wang Simpanan Pekerja (KWSP), is a statutory body under the Ministry of Finance that manages the mandatory retirement savings of Malaysia's private-sector workers. Established on 1 October 1951 and now governed by the EPF Act 1991, the fund held RM1.25 trillion in investment assets for 16.22 million members at the end of 2024, making it the country's largest institutional investor. It declared a 6.30% dividend for both Conventional and Shariah Savings for 2024."
+answer: "The Employees Provident Fund (EPF), or Kumpulan Wang Simpanan Pekerja (KWSP), is a statutory body under the Ministry of Finance that manages the mandatory retirement savings of Malaysia's private-sector workers. Established on 1 October 1951 and now governed by the EPF Act 1991, the fund held RM1.41 trillion in investment assets for over 16 million members at the end of 2025, making it the country's largest institutional investor. It declared a 6.15% dividend for both Conventional and Shariah Savings for 2025."
 keyTakeaways:
   - "The EPF was established on 1 October 1951 and is now governed by the EPF Act 1991 under the Ministry of Finance."
-  - "Investment assets reached RM1.25 trillion at the end of 2024, up more than 10% from RM1.13 trillion in 2023."
-  - "The 2024 dividend was 6.30% for both Conventional Savings and Shariah Savings, with a total payout of RM73.24 billion."
+  - "Investment assets reached RM1.41 trillion at the end of 2025, up 12.8% from RM1.25 trillion at the end of 2024."
+  - "The 2025 dividend was 6.15% for both Conventional Savings and Shariah Savings, with a total payout of RM79.6 billion."
   - "Conventional Savings are guaranteed a minimum of 2.50% per year; Shariah Savings carry no minimum guarantee."
 appliesTo: "EPF members, Malaysian employees and employers, finance students, and anyone seeking to understand the EPF's role as an institution and investor."
 
 faq:
-  - q: "What were the EPF's investment assets at the end of 2024?"
-    a: "The EPF's investment assets reached RM1.25 trillion on 31 December 2024, up more than 10% from RM1.13 trillion in 2023, with 63% invested in the domestic market."
-  - q: "What was the EPF dividend for 2024?"
-    a: "The EPF declared a 6.30% dividend for Conventional Savings and 6.30% for Shariah Savings for 2024 — a total payout of RM73.24 billion and the highest rate since 2017."
+  - q: "What were the EPF's investment assets at the end of 2025?"
+    a: "The EPF's investment assets reached RM1.41 trillion on 31 December 2025, up 12.8% from RM1.25 trillion at the end of 2024, with about 62% invested in the domestic market."
+  - q: "What was the EPF dividend for 2025?"
+    a: "The EPF declared a 6.15% dividend for Conventional Savings and 6.15% for Shariah Savings for 2025 — a total payout of RM79.6 billion."
   - q: "Are EPF dividends guaranteed?"
     a: "Conventional Savings are guaranteed a minimum of 2.50% per year under the EPF Act 1991. Shariah Savings, on the other hand, depend entirely on the actual performance of the portfolio, with no minimum guarantee."
 
 lang: "en"
-sourceContentHash: "e680578dd6d6768e"
+sourceContentHash: "5880ecbafce2caf4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 verificationNeeded:
   - "The appointment date of Chief Executive Officer Ahmad Zulqarnain Onn (reported to take effect on 19 February 2024) — not covered by any of the listed sources."
   - "The establishment date of 1 October 1951 and the reference to the KWSP Ordinance 1951 — institutional/legislative facts without a fetched primary source; confirm with an official KWSP publication or the Government Gazette."
@@ -51,8 +51,13 @@ revisions:
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update to FY2025 figures: dividend 6.15% (RM79.6b payout), investment assets RM1.41tn at end-2025 (+12.8%), 2025 investment-income breakdown. Replaces the 2024 headline figures. AI freshness update; cited to The Star / Malay Mail / data.gov.my."
+    contributor: "ai"
+    reviewer: null
 
-updated: 2026-07-28
+updated: 2026-11-27
 sources:
   - title: "Employees Provident Fund Act 1991 (Act 452), s.27"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20452.pdf"
@@ -75,6 +80,14 @@ sources:
   - title: "Annual EPF Dividend (open data catalogue)"
     url: "https://data.gov.my/data-catalogue/epf_dividend"
     publisher: "data.gov.my / Employees Provident Fund"
+  - title: "RM79.6bil windfall for EPF members (EPF declares 6.15% dividend for 2025)"
+    url: "https://www.thestar.com.my/news/nation/2026/03/01/rm796bil-windfall-for-epf-members"
+    publisher: "The Star"
+    date: "2026-03-01"
+  - title: "EPF announces 6.15pc dividend for both conventional, Syariah savings for 2025"
+    url: "https://www.malaymail.com/news/malaysia/2026/02/28/epf-announces-615pc-dividend-for-both-conventional-shariah-savings-for-2025/210707"
+    publisher: "Malay Mail"
+    date: "2026-02-28"
 
 entity: "Kumpulan Wang Simpanan Pekerja (KWSP)"
 wikidata: "Q5374309"
@@ -88,7 +101,7 @@ keywords: ["KWSP", "EPF", "dana persaraan", "pelabur institusi", "dividen KWSP",
 framework: profile
 ---
 
-Every time a private-sector worker in Malaysia receives a payslip, a portion of their income flows into a single institution that now holds more than RM1.25 trillion. That institution is the Employees Provident Fund, or EPF.
+Every time a private-sector worker in Malaysia receives a payslip, a portion of their income flows into a single institution that now holds more than RM1.41 trillion. That institution is the Employees Provident Fund, or EPF.
 
 It is not merely a savings account. The EPF is Malaysia's largest mandatory retirement fund and, at the same time, the country's most influential institutional investor — a major shareholder in many companies listed on Bursa Malaysia and a steady buyer of government bonds.
 
@@ -102,38 +115,38 @@ Overall management rests with the EPF Board, supported by an Investment Panel th
 
 ## How big is the EPF really?
 
-At the end of 2024, the EPF's investment assets reached RM1.25 trillion — up more than 10% from RM1.13 trillion in 2023. The fund covers 16.22 million members, including 8.78 million active members.
+At the end of 2025, the EPF's investment assets reached RM1.41 trillion — up 12.8% from RM1.25 trillion at the end of 2024. The fund covers over 16 million members.
 
-The table below summarises the institution's profile at the end of 2024:
+The table below summarises the institution's profile at the end of 2025:
 
-| Indicator | Value (end of 2024) |
+| Indicator | Value (end of 2025) |
 |---|---|
-| Investment assets | RM1.25 trillion |
-| Annual asset growth | more than 10% (from RM1.13 trillion) |
-| Total members | 16.22 million |
-| Active members | 8.78 million |
-| Domestic investment allocation | 63% |
-| Overseas investment allocation | 37% |
-| Total investment income 2024 | RM74.46 billion |
+| Investment assets | RM1.41 trillion (RM1,409 billion) |
+| Annual asset growth | 12.8% (from RM1.25 trillion) |
+| Total members | over 16 million |
+| Domestic investment allocation | ~62% |
+| Overseas investment allocation | ~38% |
+| Total investment income 2025 | RM79.15 billion |
+| Distributable income 2025 | RM82.7 billion |
 
 ## How does the EPF invest members' money?
 
-As an institutional investor, the EPF spreads its funds across several asset classes. In 2024, equities were the main income engine, followed by fixed-income instruments such as Malaysian Government Securities.
+As an institutional investor, the EPF spreads its funds across several asset classes. In 2025, equities were the main income engine, followed by fixed-income instruments such as Malaysian Government Securities.
 
-The contribution of each asset class to 2024 investment income (a total of RM74.46 billion) and its return on investment:
+Each asset class's contribution to 2025 investment income (total RM79.15 billion):
 
-| Asset class | % of total income | Return (ROI) |
+| Asset class | 2025 income | % of total |
 |---|---|---|
-| Equities | ~67% | 9.90% |
-| Fixed income | ~29% | 4.27% |
-| Real estate & infrastructure | — | 5.13% |
-| Money market instruments | — | 1.89% |
+| Equities | RM49.24 billion | 62% |
+| Fixed income | RM26.27 billion | 33% |
+| Private markets (real estate, infrastructure, private equity) | RM3.01 billion | 4% |
+| Money-market instruments | RM0.63 billion | 1% |
 
-Although 63% of assets are invested domestically, global investments contributed more than half of income in 2024: income from global markets reached RM37.44 billion versus RM37.02 billion from domestic markets — evidence that international exposure plays an important role in the fund's returns.
+About 62% of EPF's assets are invested domestically and 38% offshore (end-2025), yet global investments remain important to the fund's overall returns.
 
 ## How much dividend does the EPF pay each year?
 
-This is the figure members most anticipate at the start of each year. For 2024, the EPF declared a 6.30% dividend for Conventional Savings and 6.30% for Shariah Savings — a total payout of RM73.24 billion and the highest rate since 2017.
+This is the figure members most anticipate at the start of each year. For 2025, the EPF declared a 6.15% dividend for Conventional Savings and 6.15% for Shariah Savings — a total payout of RM79.6 billion (RM67.1 billion for Conventional Savings and RM12.5 billion for Shariah Savings), declared on 28 February 2026. This was down from 6.30% in 2024 (RM73.24 billion).
 
 The history of annual dividend rates (source: official EPF open data at data.gov.my):
 

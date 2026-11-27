@@ -5,31 +5,31 @@ seoTitle: "EPF (KWSP) : le plus grand fonds de retraite et investisseur institut
 slug: "epf-as-an-institution"
 category: "companies"
 subcategory: ["pension"]
-summary: "L'EPF est le plus grand fonds de retraite obligatoire de Malaisie et l'investisseur institutionnel le plus influent du pays, avec des actifs d'investissement ayant atteint RM1.25 billion fin 2024."
+summary: "L'EPF est le plus grand fonds de retraite obligatoire de Malaisie et l'investisseur institutionnel le plus influent du pays, avec des actifs d'investissement ayant atteint RM1.41 billion fin 2025."
 
 tier: "4"
 mode: "narrative"
 contentType: "agency"
 sensitivity: "none"
 
-answer: "L'Employees Provident Fund (EPF), ou Kumpulan Wang Simpanan Pekerja (KWSP), est un organisme statutaire placé sous le Ministère des finances qui gère l'épargne-retraite obligatoire des travailleurs du secteur privé de Malaisie. Créé le 1er octobre 1951 et aujourd'hui régi par l'EPF Act 1991, le fonds détenait RM1.25 billion d'actifs d'investissement pour 16.22 millions d'affiliés fin 2024, ce qui en fait le plus grand investisseur institutionnel du pays. Il a déclaré un dividende de 6.30% à la fois pour l'Épargne conventionnelle et pour l'Épargne Shariah de 2024."
+answer: "L'Employees Provident Fund (EPF), ou Kumpulan Wang Simpanan Pekerja (KWSP), est un organisme statutaire placé sous le Ministère des finances qui gère l'épargne-retraite obligatoire des travailleurs du secteur privé de Malaisie. Créé le 1er octobre 1951 et aujourd'hui régi par l'EPF Act 1991, le fonds détenait RM1.41 billion d'actifs d'investissement pour plus de 16 millions d'affiliés fin 2025, ce qui en fait le plus grand investisseur institutionnel du pays. Il a déclaré un dividende de 6.15% à la fois pour l'Épargne conventionnelle et pour l'Épargne Shariah de 2025."
 keyTakeaways:
   - "L'EPF a été créé le 1er octobre 1951 et est aujourd'hui régi par l'EPF Act 1991 sous le Ministère des finances."
-  - "Les actifs d'investissement ont atteint RM1.25 billion fin 2024, en hausse de plus de 10% par rapport à RM1.13 billion en 2023."
-  - "Le dividende de 2024 était de 6.30% à la fois pour l'Épargne conventionnelle et pour l'Épargne Shariah, avec un versement total de RM73.24 milliards."
+  - "Les actifs d'investissement ont atteint RM1.41 billion fin 2025, en hausse de 12.8% par rapport à RM1.25 billion fin 2024."
+  - "Le dividende de 2025 était de 6.15% à la fois pour l'Épargne conventionnelle et pour l'Épargne Shariah, avec un versement total de RM79.6 milliards."
   - "L'Épargne conventionnelle est garantie d'un minimum de 2.50% par an ; l'Épargne Shariah ne comporte aucune garantie minimale."
 appliesTo: "Affiliés de l'EPF, employés et employeurs malaisiens, étudiants en finance, et quiconque cherche à comprendre le rôle de l'EPF en tant qu'institution et investisseur."
 
 faq:
-  - q: "Quels étaient les actifs d'investissement de l'EPF fin 2024 ?"
-    a: "Les actifs d'investissement de l'EPF ont atteint RM1.25 billion au 31 décembre 2024, en hausse de plus de 10% par rapport à RM1.13 billion en 2023, dont 63% investis sur le marché intérieur."
-  - q: "Quel a été le dividende de l'EPF pour 2024 ?"
-    a: "L'EPF a déclaré un dividende de 6.30% pour l'Épargne conventionnelle et de 6.30% pour l'Épargne Shariah de 2024 — un versement total de RM73.24 milliards et le taux le plus élevé depuis 2017."
+  - q: "Quels étaient les actifs d'investissement de l'EPF fin 2025 ?"
+    a: "Les actifs d'investissement de l'EPF ont atteint RM1.41 billion au 31 décembre 2025, en hausse de 12.8% par rapport à RM1.25 billion fin 2024, dont environ 62% investis sur le marché intérieur."
+  - q: "Quel a été le dividende de l'EPF pour 2025 ?"
+    a: "L'EPF a déclaré un dividende de 6.15% pour l'Épargne conventionnelle et de 6.15% pour l'Épargne Shariah de 2025 — un versement total de RM79.6 milliards."
   - q: "Les dividendes de l'EPF sont-ils garantis ?"
     a: "L'Épargne conventionnelle est garantie d'un minimum de 2.50% par an au titre de l'EPF Act 1991. L'Épargne Shariah, quant à elle, dépend entièrement du rendement réel du portefeuille, sans aucune garantie minimale."
 
 lang: "fr"
-sourceContentHash: "e680578dd6d6768e"
+sourceContentHash: "5880ecbafce2caf4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 verificationNeeded:
   - "La date de nomination du directeur général Ahmad Zulqarnain Onn (rapportée comme prenant effet le 19 février 2024) — non couverte par aucune des sources répertoriées."
   - "La date de création du 1er octobre 1951 et la référence à la KWSP Ordinance 1951 — des faits institutionnels/législatifs sans source primaire récupérée ; à confirmer avec une publication officielle du KWSP ou le Government Gazette."
@@ -51,8 +51,13 @@ revisions:
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Mise à jour des données vers l'exercice 2025 : dividende de 6.15% (versement de RM79.6 milliards), actifs d'investissement de RM1.41 billion fin 2025 (+12.8%), ventilation du revenu d'investissement 2025. Remplace les chiffres phares de 2024. Mise à jour par IA ; sources : The Star / Malay Mail / data.gov.my."
+    contributor: "ai"
+    reviewer: null
 
-updated: 2026-07-28
+updated: 2026-11-27
 sources:
   - title: "Loi sur le Fonds de prévoyance des employés de 1991 (Act 452), s.27 (Employees Provident Fund Act 1991 (Act 452), s.27)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20452.pdf"
@@ -75,6 +80,14 @@ sources:
   - title: "Dividende annuel de l'EPF (catalogue de données ouvertes) (Annual EPF Dividend (open data catalogue))"
     url: "https://data.gov.my/data-catalogue/epf_dividend"
     publisher: "data.gov.my / Employees Provident Fund"
+  - title: "Une aubaine de RM79.6 milliards pour les affiliés de l'EPF (RM79.6bil windfall for EPF members)"
+    url: "https://www.thestar.com.my/news/nation/2026/03/01/rm796bil-windfall-for-epf-members"
+    publisher: "The Star"
+    date: "2026-03-01"
+  - title: "L'EPF annonce un dividende de 6.15% pour l'Épargne conventionnelle et l'Épargne Shariah de 2025 (EPF announces 6.15pc dividend for both conventional, Syariah savings for 2025)"
+    url: "https://www.malaymail.com/news/malaysia/2026/02/28/epf-announces-615pc-dividend-for-both-conventional-shariah-savings-for-2025/210707"
+    publisher: "Malay Mail"
+    date: "2026-02-28"
 
 entity: "Kumpulan Wang Simpanan Pekerja (KWSP)"
 wikidata: "Q5374309"
@@ -88,7 +101,7 @@ keywords: ["KWSP", "EPF", "fonds de retraite", "investisseur institutionnel", "d
 framework: profile
 ---
 
-Chaque fois qu'un travailleur du secteur privé en Malaisie reçoit une fiche de paie, une partie de ses revenus afflue vers une seule institution qui détient désormais plus de RM1.25 billion. Cette institution est l'Employees Provident Fund, ou EPF.
+Chaque fois qu'un travailleur du secteur privé en Malaisie reçoit une fiche de paie, une partie de ses revenus afflue vers une seule institution qui détient désormais plus de RM1.41 billion. Cette institution est l'Employees Provident Fund, ou EPF.
 
 Ce n'est pas simplement un compte d'épargne. L'EPF est le plus grand fonds de retraite obligatoire de Malaisie et, en même temps, l'investisseur institutionnel le plus influent du pays : un actionnaire important de nombreuses sociétés cotées à Bursa Malaysia et un acheteur constant d'obligations d'État.
 
@@ -102,38 +115,38 @@ La gestion générale revient au Conseil de l'EPF, appuyé par un Panel d'invest
 
 ## Quelle est réellement la taille de l'EPF ?
 
-Fin 2024, les actifs d'investissement de l'EPF ont atteint RM1.25 billion — en hausse de plus de 10% par rapport à RM1.13 billion en 2023. Le fonds couvre 16.22 millions d'affiliés, dont 8.78 millions d'affiliés actifs.
+Fin 2025, les actifs d'investissement de l'EPF ont atteint RM1.41 billion — en hausse de 12.8% par rapport à RM1.25 billion fin 2024. Le fonds couvre plus de 16 millions d'affiliés.
 
-Le tableau ci-dessous résume le profil de l'institution fin 2024 :
+Le tableau ci-dessous résume le profil de l'institution fin 2025 :
 
-| Indicateur | Valeur (fin 2024) |
+| Indicateur | Valeur (fin 2025) |
 |---|---|
-| Actifs d'investissement | RM1.25 billion |
-| Croissance annuelle des actifs | plus de 10% (depuis RM1.13 billion) |
-| Total des affiliés | 16.22 millions |
-| Affiliés actifs | 8.78 millions |
-| Allocation d'investissement intérieure | 63% |
-| Allocation d'investissement à l'étranger | 37% |
-| Revenu total d'investissement 2024 | RM74.46 milliards |
+| Actifs d'investissement | RM1.41 billion (RM1,409 milliards) |
+| Croissance annuelle des actifs | 12.8% (depuis RM1.25 billion) |
+| Total des affiliés | plus de 16 millions |
+| Allocation d'investissement intérieure | environ 62% |
+| Allocation d'investissement à l'étranger | environ 38% |
+| Revenu total d'investissement 2025 | RM79.15 milliards |
+| Revenu distribuable 2025 | RM82.7 milliards |
 
 ## Comment l'EPF investit-il l'argent des affiliés ?
 
-En tant qu'investisseur institutionnel, l'EPF répartit ses fonds entre plusieurs classes d'actifs. En 2024, les actions ont été le principal moteur de revenus, suivies des instruments à revenu fixe tels que les Malaysian Government Securities.
+En tant qu'investisseur institutionnel, l'EPF répartit ses fonds entre plusieurs classes d'actifs. En 2025, les actions ont été le principal moteur de revenus, suivies des instruments à revenu fixe tels que les Malaysian Government Securities.
 
-La contribution de chaque classe d'actifs au revenu d'investissement de 2024 (un total de RM74.46 milliards) et son rendement de l'investissement :
+La contribution de chaque classe d'actifs au revenu d'investissement de 2025 (un total de RM79.15 milliards) :
 
-| Classe d'actifs | % du revenu total | Rendement (ROI) |
+| Classe d'actifs | Revenu d'investissement 2025 | % du total |
 |---|---|---|
-| Actions | ~67% | 9.90% |
-| Revenu fixe | ~29% | 4.27% |
-| Immobilier et infrastructures | — | 5.13% |
-| Instruments du marché monétaire | — | 1.89% |
+| Actions | RM49.24 milliards | 62% |
+| Revenu fixe | RM26.27 milliards | 33% |
+| Marchés privés (immobilier, infrastructures, private equity) | RM3.01 milliards | 4% |
+| Instruments du marché monétaire | RM0.63 milliards | 1% |
 
-Bien que 63% des actifs soient investis à l'intérieur, les investissements mondiaux ont apporté plus de la moitié des revenus en 2024 : les revenus des marchés mondiaux ont atteint RM37.44 milliards contre RM37.02 milliards pour les marchés intérieurs — preuve que l'exposition internationale joue un rôle important dans les rendements du fonds.
+Environ 62% des actifs de l'EPF sont investis sur le marché intérieur et 38% à l'étranger (fin 2025), mais les investissements mondiaux restent importants pour les rendements globaux.
 
 ## Combien de dividende l'EPF verse-t-il chaque année ?
 
-C'est le chiffre que les affiliés attendent le plus au début de chaque année. Pour 2024, l'EPF a déclaré un dividende de 6.30% pour l'Épargne conventionnelle et de 6.30% pour l'Épargne Shariah — un versement total de RM73.24 milliards et le taux le plus élevé depuis 2017.
+C'est le chiffre que les affiliés attendent le plus au début de chaque année. Pour 2025, l'EPF a déclaré un dividende de 6.15% pour l'Épargne conventionnelle et de 6.15% pour l'Épargne Shariah, déclaré le 28 février 2026 — un versement total de RM79.6 milliards.
 
 L'historique des taux de dividende annuels (source : données ouvertes officielles de l'EPF sur data.gov.my) :
 

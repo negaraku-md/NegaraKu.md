@@ -5,31 +5,31 @@ seoTitle: "KWSP(EPF): 말레이시아 최대 퇴직연금 및 기관투자자"
 slug: "epf-as-an-institution"
 category: "companies"
 subcategory: ["pension"]
-summary: "KWSP는 말레이시아 최대의 의무 가입 퇴직연금이자 국가에서 가장 영향력 있는 기관투자자로, 2024년 말 기준 투자자산이 RM1.25조에 이릅니다."
+summary: "KWSP는 말레이시아 최대의 의무 가입 퇴직연금이자 국가에서 가장 영향력 있는 기관투자자로, 2025년 말 기준 투자자산이 RM1.41조에 이르며 2025년도 배당은 6.15%로 선언되었습니다."
 
 tier: "4"
 mode: "narrative"
 contentType: "agency"
 sensitivity: "none"
 
-answer: "직원공제기금(Kumpulan Wang Simpanan Pekerja, KWSP / Employees Provident Fund, EPF)은 재무부(Ministry of Finance) 산하 법정 기관으로, 말레이시아 민간 부문 근로자의 의무 퇴직 저축을 관리합니다. 1951년 10월 1일에 설립되었으며 현재는 직원공제기금법(Employees Provident Fund Act 1991)의 규율을 받는 이 기금은 2024년 말 기준 1,622만 명의 가입자를 위해 RM1.25조의 투자자산을 보유하여 국가 최대의 기관투자자가 되었습니다. 이 기금은 2024년도 일반저축(Simpanan Konvensional)과 샤리아저축(Simpanan Shariah)에 대해 6.30%의 배당을 선언했습니다."
+answer: "직원공제기금(Kumpulan Wang Simpanan Pekerja, KWSP / Employees Provident Fund, EPF)은 재무부(Ministry of Finance) 산하 법정 기관으로, 말레이시아 민간 부문 근로자의 의무 퇴직 저축을 관리합니다. 1951년 10월 1일에 설립되었으며 현재는 직원공제기금법(Employees Provident Fund Act 1991)의 규율을 받는 이 기금은 2025년 말 기준 1,600만 명 이상의 가입자를 위해 RM1.41조의 투자자산을 보유하여 국가 최대의 기관투자자가 되었습니다. 이 기금은 2025년도 일반저축(Simpanan Konvensional)과 샤리아저축(Simpanan Shariah)에 대해 6.15%의 배당을 선언했으며(총 지급액 RM796억), 이는 2024년의 6.30%와 비교됩니다."
 keyTakeaways:
   - "KWSP는 1951년 10월 1일에 설립되었으며 현재는 재무부(Ministry of Finance) 산하 직원공제기금법(Employees Provident Fund Act 1991)의 규율을 받습니다."
-  - "투자자산은 2024년 말 기준 RM1.25조에 이르러, 2023년의 RM1.13조 대비 10% 이상 증가했습니다."
-  - "2024년 배당은 일반저축과 샤리아저축 모두 6.30%였으며, 총 지급액은 RM732.4억이었습니다."
+  - "투자자산은 2025년 말 기준 RM1.41조에 이르러, 2024년 말의 RM1.25조 대비 12.8% 증가했습니다."
+  - "2025년 배당은 일반저축과 샤리아저축 모두 6.15%였으며, 총 지급액은 RM796억(일반저축 RM671억 + 샤리아저축 RM125억)으로, 2024년의 6.30%와 비교됩니다."
   - "일반저축은 연 최소 2.50%가 보장되며, 샤리아저축은 최소 보장이 없습니다."
 appliesTo: "KWSP 가입자, 말레이시아 근로자 및 고용주, 금융을 공부하는 학생, 그리고 기관 및 투자자로서 KWSP의 역할을 이해하고자 하는 모든 사람."
 
 faq:
-  - q: "2024년 말 기준 KWSP의 투자자산은 얼마입니까?"
-    a: "KWSP의 투자자산은 2024년 12월 31일 기준 RM1.25조에 이르러 2023년의 RM1.13조 대비 10% 이상 증가했으며, 그중 63%가 국내 시장에 투자되었습니다."
-  - q: "2024년 KWSP 배당은 얼마입니까?"
-    a: "KWSP는 2024년도에 일반저축 6.30%와 샤리아저축 6.30%의 배당을 선언했습니다. 총 지급액은 RM732.4억으로 2017년 이후 최고 수준이었습니다."
+  - q: "2025년 말 기준 KWSP의 투자자산은 얼마입니까?"
+    a: "KWSP의 투자자산은 2025년 12월 31일 기준 RM1.41조(RM1조 4,090억)에 이르러 2024년 말의 RM1.25조 대비 12.8% 증가했으며, 그중 약 62%가 국내 시장에 투자되었습니다."
+  - q: "2025년 KWSP 배당은 얼마입니까?"
+    a: "KWSP는 2025년도에 일반저축 6.15%와 샤리아저축 6.15%의 배당을 선언했습니다. 총 지급액은 RM796억(일반저축 RM671억, 샤리아저축 RM125억)으로, 2026년 2월 28일에 선언되었습니다. 이는 2017년 이후 최고 수준이었던 2024년의 6.30%(RM732.4억)와 비교됩니다."
   - q: "KWSP 배당은 보장됩니까?"
     a: "일반저축은 직원공제기금법(Employees Provident Fund Act 1991)에 따라 연 최소 2.50%가 보장됩니다. 반면 샤리아저축은 최소 보장 없이 포트폴리오의 실제 성과에 전적으로 좌우됩니다."
 
 lang: "ko"
-sourceContentHash: "e680578dd6d6768e"
+sourceContentHash: "5880ecbafce2caf4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 verificationNeeded:
   - "최고경영자 Ahmad Zulqarnain Onn의 임명일(2024년 2월 19일 발효로 보도됨) — 나열된 출처 중 어느 것도 다루지 않음."
   - "설립일 1951년 10월 1일 및 직원공제기금령(EPF Ordinance 1951) 언급 — 1차 출처가 확보되지 않은 기관/법령 사실이므로, KWSP 공식 발행물 또는 관보(Warta Kerajaan)로 확인 필요."
@@ -51,8 +51,13 @@ revisions:
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "FY2025 수치로 최신화: 배당 6.15%(지급액 RM796억), 2025년 말 투자자산 RM1.41조(+12.8%), 2025년 투자 수익 자산군별 내역. 2024년 주요 수치를 대체. AI 최신화 업데이트; The Star / Malay Mail / data.gov.my 출처 인용."
+    contributor: "ai"
+    reviewer: null
 
-updated: 2026-07-28
+updated: 2026-11-27
 sources:
   - title: "Employees Provident Fund Act 1991 (Act 452), 제27조 (Employees Provident Fund Act 1991 (Act 452), s.27)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20452.pdf"
@@ -66,6 +71,14 @@ sources:
   - title: "2024년 EPF 배당 6.30%, 7년 만에 최고 — CEO (EPF Dividend Of 6.30 Pct For 2024 Is Highest In Seven Years -- CEO)"
     url: "https://www.bernama.com/en/news.php?id=2397979"
     publisher: "Bernama"
+  - title: "EPF 가입자를 위한 RM796억의 혜택 (RM79.6bil windfall for EPF members)"
+    url: "https://www.thestar.com.my/news/nation/2026/03/01/rm796bil-windfall-for-epf-members"
+    publisher: "The Star"
+    date: "2026-03-01"
+  - title: "EPF, 2025년도 일반저축과 샤리아저축 모두 6.15% 배당 발표 (EPF announces 6.15pc dividend for both conventional, Syariah savings for 2025)"
+    url: "https://www.malaymail.com/news/malaysia/2026/02/28/epf-announces-615pc-dividend-for-both-conventional-shariah-savings-for-2025/210707"
+    publisher: "Malay Mail"
+    date: "2026-02-28"
   - title: "특별 보고서: 2024년 EPF의 인상적인 6.3% 배당을 둘러싼 의혹 해소 (Special Report: Dispelling aspersions surrounding EPF's impressive 6.3% dividend for 2024)"
     url: "https://theedgemalaysia.com/node/747537"
     publisher: "The Edge Malaysia"
@@ -88,7 +101,7 @@ keywords: ["KWSP", "EPF", "dana persaraan", "pelabur institusi", "dividen KWSP",
 framework: profile
 ---
 
-말레이시아의 민간 부문 근로자가 급여명세서를 받을 때마다, 그 소득의 일부는 현재 RM1.25조 이상을 보유한 하나의 기관으로 흘러들어갑니다. 그것이 바로 직원공제기금(Kumpulan Wang Simpanan Pekerja), 즉 KWSP입니다.
+말레이시아의 민간 부문 근로자가 급여명세서를 받을 때마다, 그 소득의 일부는 현재 RM1.41조 이상을 보유한 하나의 기관으로 흘러들어갑니다. 그것이 바로 직원공제기금(Kumpulan Wang Simpanan Pekerja), 즉 KWSP입니다.
 
 이것은 단순한 저축 계좌가 아닙니다. KWSP는 말레이시아 최대의 의무 가입 퇴직연금인 동시에, 이 나라에서 가장 영향력 있는 기관투자자입니다. Bursa Malaysia에 상장된 많은 회사의 주요 주주이자 국채의 상시 매입자이기도 합니다.
 
@@ -102,38 +115,38 @@ KWSP는 1951년 10월 1일에 설립된 법정 기관으로, 처음에는 직원
 
 ## KWSP는 실제로 얼마나 큽니까?
 
-2024년 말 기준으로 KWSP의 투자자산은 RM1.25조에 이르렀으며, 이는 2023년의 RM1.13조 대비 10% 이상 증가한 수치입니다. 이 기금은 활동 가입자 878만 명을 포함해 1,622만 명의 가입자를 아우릅니다.
+2025년 말 기준으로 KWSP의 투자자산은 RM1.41조(RM1조 4,090억)에 이르렀으며, 이는 2024년 말의 RM1.25조 대비 12.8% 증가한 수치입니다. 이 기금은 1,600만 명 이상의 가입자를 아우릅니다.
 
-아래 표는 2024년 말 기준 이 기관의 개요를 요약합니다.
+아래 표는 2025년 말 기준 이 기관의 개요를 요약합니다.
 
-| 지표 | 값 (2024년 말) |
+| 지표 | 값 (2025년 말) |
 |---|---|
-| 투자자산 | RM1.25조 |
-| 연간 자산 성장률 | 10% 이상 (RM1.13조에서) |
-| 총 가입자 | 1,622만 명 |
-| 활동 가입자 | 878만 명 |
-| 국내 투자 비중 | 63% |
-| 해외 투자 비중 | 37% |
-| 2024년 총 투자 수익 | RM744.6억 |
+| 투자자산 | RM1.41조 (RM1조 4,090억) |
+| 연간 자산 성장률 | 12.8% (RM1.25조에서) |
+| 총 가입자 | 1,600만 명 이상 |
+| 국내 투자 비중 | ~62% |
+| 해외 투자 비중 | ~38% |
+| 2025년 총 투자 수익 | RM791.5억 |
+| 2025년 분배 가능 수익 | RM827억 |
 
 ## KWSP는 가입자의 자금을 어떻게 투자합니까?
 
-기관투자자로서 KWSP는 자금을 여러 자산군에 배분합니다. 2024년에는 주식이 주요 수익 엔진이 되었고, 그 뒤를 말레이시아 국채(Malaysian Government Securities)와 같은 채권 상품이 이었습니다.
+기관투자자로서 KWSP는 자금을 여러 자산군에 배분합니다. 2025년에는 주식이 주요 수익 엔진이 되었고, 그 뒤를 말레이시아 국채(Malaysian Government Securities)와 같은 채권 상품이 이었습니다.
 
-2024년 투자 수익(총 RM744.6억)에 대한 각 자산군의 기여도와 투자 수익률(ROI)은 다음과 같습니다.
+2025년 투자 수익(총 RM791.5억)에 대한 각 자산군의 기여도는 다음과 같습니다.
 
-| 자산군 | 총 수익 중 비중 | 수익률 (ROI) |
+| 자산군 | 2025년 수익 | 총액 대비 비중 |
 |---|---|---|
-| 주식 | ~67% | 9.90% |
-| 채권 | ~29% | 4.27% |
-| 부동산 및 인프라 | — | 5.13% |
-| 단기금융상품 | — | 1.89% |
+| 주식 | RM492.4억 | 62% |
+| 채권 | RM262.7억 | 33% |
+| 사모 시장 (부동산, 인프라, 사모펀드) | RM30.1억 | 4% |
+| 단기금융상품 | RM6.3억 | 1% |
 
-자산의 63%가 국내에 투자되었음에도, 2024년 수익의 절반 이상은 글로벌 투자에서 나왔습니다. 글로벌 시장에서의 수익은 RM374.4억으로 국내 시장의 RM370.2억을 앞섰으며, 이는 국제적 익스포저가 이 기금의 수익에 중요한 역할을 한다는 증거입니다.
+KWSP 자산의 약 62%는 국내에, 38%는 해외에 투자되어 있으며(2025년 말 기준), 그럼에도 글로벌 투자는 이 기금의 전체 수익에 여전히 중요한 역할을 합니다.
 
 ## KWSP는 매년 배당을 얼마나 지급합니까?
 
-이것은 매년 초 가입자들이 가장 기다리는 숫자입니다. 2024년도에 KWSP는 일반저축 6.30%와 샤리아저축 6.30%의 배당을 선언했습니다. 총 지급액은 RM732.4억으로 2017년 이후 최고 수준이었습니다.
+이것은 매년 초 가입자들이 가장 기다리는 숫자입니다. 2025년도에 KWSP는 일반저축 6.15%와 샤리아저축 6.15%의 배당을 선언했습니다. 총 지급액은 RM796억(일반저축 RM671억, 샤리아저축 RM125억)으로, 2026년 2월 28일에 선언되었습니다. 이는 2017년 이후 최고 수준이었던 2024년의 6.30%(RM732.4억)보다 다소 낮은 수준입니다.
 
 연간 배당률의 역사(출처: data.gov.my의 KWSP 공식 오픈데이터)는 다음과 같습니다.
 

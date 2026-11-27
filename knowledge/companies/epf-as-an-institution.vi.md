@@ -5,31 +5,31 @@ seoTitle: "KWSP (EPF): Quỹ hưu trí & nhà đầu tư tổ chức lớn nhấ
 slug: "epf-as-an-institution"
 category: "companies"
 subcategory: ["pension"]
-summary: "KWSP là quỹ hưu trí bắt buộc lớn nhất Malaysia và nhà đầu tư tổ chức có ảnh hưởng nhất của đất nước, với tài sản đầu tư đạt RM1.25 nghìn tỷ vào cuối năm 2024."
+summary: "KWSP là quỹ hưu trí bắt buộc lớn nhất Malaysia và nhà đầu tư tổ chức có ảnh hưởng nhất của đất nước, với tài sản đầu tư đạt RM1.41 nghìn tỷ vào cuối năm 2025 và cổ tức 6,15% được công bố cho năm 2025."
 
 tier: "4"
 mode: "narrative"
 contentType: "agency"
 sensitivity: "none"
 
-answer: "Quỹ Tiết kiệm Người lao động (Kumpulan Wang Simpanan Pekerja, KWSP), hay Employees Provident Fund (EPF), là một cơ quan theo luật định thuộc Bộ Tài chính quản lý tiết kiệm hưu trí bắt buộc của người lao động khu vực tư nhân Malaysia. Được thành lập vào ngày 1 tháng 10 năm 1951 và nay được điều chỉnh bởi Luật KWSP 1991 (EPF Act 1991), quỹ này nắm giữ tài sản đầu tư RM1.25 nghìn tỷ cho 16.22 triệu thành viên vào cuối năm 2024, khiến nó trở thành nhà đầu tư tổ chức lớn nhất của đất nước. Nó công bố cổ tức 6,30% cho Tiết kiệm Thông thường và Tiết kiệm Shariah cho năm 2024."
+answer: "Quỹ Tiết kiệm Người lao động (Kumpulan Wang Simpanan Pekerja, KWSP), hay Employees Provident Fund (EPF), là một cơ quan theo luật định thuộc Bộ Tài chính quản lý tiết kiệm hưu trí bắt buộc của người lao động khu vực tư nhân Malaysia. Được thành lập vào ngày 1 tháng 10 năm 1951 và nay được điều chỉnh bởi Luật KWSP 1991 (EPF Act 1991), quỹ này nắm giữ tài sản đầu tư RM1.41 nghìn tỷ cho hơn 16 triệu thành viên vào cuối năm 2025, khiến nó trở thành nhà đầu tư tổ chức lớn nhất của đất nước. Nó công bố cổ tức 6,15% cho Tiết kiệm Thông thường và Tiết kiệm Shariah cho năm 2025 (tổng khoản chi trả RM79.6 tỷ), so với 6,30% vào năm 2024."
 keyTakeaways:
   - "KWSP được thành lập vào ngày 1 tháng 10 năm 1951 và nay được điều chỉnh bởi Luật KWSP 1991 (EPF Act 1991) thuộc Bộ Tài chính."
-  - "Tài sản đầu tư đạt RM1.25 nghìn tỷ vào cuối năm 2024, tăng hơn 10% so với RM1.13 nghìn tỷ vào năm 2023."
-  - "Cổ tức 2024 là 6,30% cho cả Tiết kiệm Thông thường và Tiết kiệm Shariah, với tổng khoản chi trả RM73.24 tỷ."
+  - "Tài sản đầu tư đạt RM1.41 nghìn tỷ vào cuối năm 2025, tăng 12,8% so với RM1.25 nghìn tỷ vào cuối năm 2024."
+  - "Cổ tức 2025 là 6,15% cho cả Tiết kiệm Thông thường và Tiết kiệm Shariah, với tổng khoản chi trả RM79.6 tỷ (RM67.1 tỷ Thông thường + RM12.5 tỷ Shariah), so với 6,30% vào năm 2024."
   - "Tiết kiệm Thông thường được bảo đảm tối thiểu 2,50% mỗi năm; Tiết kiệm Shariah không có bảo đảm tối thiểu."
 appliesTo: "Thành viên KWSP, người lao động và người sử dụng lao động Malaysia, học sinh sinh viên tài chính, và bất kỳ ai muốn hiểu vai trò của KWSP như một thể chế và nhà đầu tư."
 
 faq:
-  - q: "Tài sản đầu tư của KWSP vào cuối năm 2024 là bao nhiêu?"
-    a: "Tài sản đầu tư của KWSP đạt RM1.25 nghìn tỷ vào ngày 31 tháng 12 năm 2024, tăng hơn 10% so với RM1.13 nghìn tỷ vào năm 2023, với 63% được đầu tư vào thị trường trong nước."
-  - q: "Cổ tức KWSP cho năm 2024 là bao nhiêu?"
-    a: "KWSP công bố cổ tức 6,30% cho Tiết kiệm Thông thường và 6,30% cho Tiết kiệm Shariah cho năm 2024 — tổng khoản chi trả RM73.24 tỷ và là mức cao nhất kể từ năm 2017."
+  - q: "Tài sản đầu tư của KWSP vào cuối năm 2025 là bao nhiêu?"
+    a: "Tài sản đầu tư của KWSP đạt RM1.41 nghìn tỷ (RM1,409 tỷ) vào ngày 31 tháng 12 năm 2025, tăng 12,8% so với RM1.25 nghìn tỷ vào cuối năm 2024, với khoảng 62% được đầu tư vào thị trường trong nước."
+  - q: "Cổ tức KWSP cho năm 2025 là bao nhiêu?"
+    a: "KWSP công bố cổ tức 6,15% cho Tiết kiệm Thông thường và 6,15% cho Tiết kiệm Shariah cho năm 2025 — tổng khoản chi trả RM79.6 tỷ (RM67.1 tỷ Thông thường, RM12.5 tỷ Shariah), được công bố vào ngày 28 tháng 2 năm 2026. So với 6,30% (RM73.24 tỷ) cho năm 2024, là mức cao nhất kể từ năm 2017."
   - q: "Cổ tức KWSP có được bảo đảm không?"
     a: "Tiết kiệm Thông thường được bảo đảm tối thiểu 2,50% mỗi năm theo Luật KWSP 1991 (EPF Act 1991). Còn Tiết kiệm Shariah phụ thuộc hoàn toàn vào hiệu quả thực tế của danh mục đầu tư mà không có bảo đảm tối thiểu."
 
 lang: "vi"
-sourceContentHash: "e680578dd6d6768e"
+sourceContentHash: "5880ecbafce2caf4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 verificationNeeded:
   - "Ngày bổ nhiệm Tổng Giám đốc Điều hành Ahmad Zulqarnain Onn (được báo cáo có hiệu lực từ 19 tháng 2 năm 2024) — không được bất kỳ nguồn nào được liệt kê đề cập."
   - "Ngày thành lập 1 tháng 10 năm 1951 và tham chiếu Pháp lệnh KWSP 1951 — các sự kiện về thể chế/pháp lý không có nguồn sơ cấp được truy xuất; hãy xác nhận với ấn phẩm chính thức của KWSP hoặc Công báo Chính phủ."
@@ -51,8 +51,13 @@ revisions:
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Cập nhật làm mới sang số liệu năm tài chính 2025: cổ tức 6,15% (tổng chi trả RM79.6 tỷ), tài sản đầu tư RM1.41 nghìn tỷ vào cuối năm 2025 (+12,8%), phân tích thu nhập đầu tư năm 2025. Thay thế các số liệu tiêu đề năm 2024. Cập nhật làm mới bằng AI; trích dẫn từ The Star / Malay Mail / data.gov.my."
+    contributor: "ai"
+    reviewer: null
 
-updated: 2026-07-28
+updated: 2026-11-27
 sources:
   - title: "Đạo luật Quỹ Tiết kiệm Nhân viên 1991 (Employees Provident Fund Act 1991, Act 452), điều 27 (Employees Provident Fund Act 1991 (Act 452), s.27)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20452.pdf"
@@ -66,6 +71,14 @@ sources:
   - title: "Cổ tức EPF 6,30% cho năm 2024 Cao nhất trong Bảy năm -- CEO (EPF Dividend Of 6.30 Pct For 2024 Is Highest In Seven Years -- CEO)"
     url: "https://www.bernama.com/en/news.php?id=2397979"
     publisher: "Bernama"
+  - title: "RM79.6 tỷ lợi nhuận bất ngờ cho thành viên EPF (RM79.6bil windfall for EPF members)"
+    url: "https://www.thestar.com.my/news/nation/2026/03/01/rm796bil-windfall-for-epf-members"
+    publisher: "The Star"
+    date: "2026-03-01"
+  - title: "EPF công bố cổ tức 6,15% cho cả Tiết kiệm Thông thường và Shariah cho năm 2025 (EPF announces 6.15pc dividend for both conventional, Syariah savings for 2025)"
+    url: "https://www.malaymail.com/news/malaysia/2026/02/28/epf-announces-615pc-dividend-for-both-conventional-shariah-savings-for-2025/210707"
+    publisher: "Malay Mail"
+    date: "2026-02-28"
   - title: "Báo cáo Đặc biệt: Xóa tan những nghi ngờ xoay quanh mức cổ tức ấn tượng 6,3% của EPF cho năm 2024 (Special Report: Dispelling aspersions surrounding EPF's impressive 6.3% dividend for 2024)"
     url: "https://theedgemalaysia.com/node/747537"
     publisher: "The Edge Malaysia"
@@ -88,7 +101,7 @@ keywords: ["KWSP", "EPF", "dana persaraan", "pelabur institusi", "dividen KWSP",
 framework: profile
 ---
 
-Mỗi khi một người lao động khu vực tư nhân ở Malaysia nhận phiếu lương, một phần thu nhập của họ chảy vào một thể chế duy nhất nay nắm giữ hơn RM1.25 nghìn tỷ. Đó là Quỹ Tiết kiệm Người lao động, hay KWSP.
+Mỗi khi một người lao động khu vực tư nhân ở Malaysia nhận phiếu lương, một phần thu nhập của họ chảy vào một thể chế duy nhất nay nắm giữ hơn RM1.41 nghìn tỷ. Đó là Quỹ Tiết kiệm Người lao động, hay KWSP.
 
 Nó không chỉ là một tài khoản tiết kiệm. KWSP là quỹ hưu trí bắt buộc lớn nhất Malaysia và, đồng thời, nhà đầu tư tổ chức có ảnh hưởng nhất ở đất nước này — cổ đông chính trong nhiều công ty niêm yết trên Bursa Malaysia và người mua thường xuyên trái phiếu chính phủ.
 
@@ -102,38 +115,38 @@ Việc quản lý cấp cao nhất do Hội đồng KWSP nắm giữ, với sự
 
 ## KWSP thực sự lớn đến mức nào?
 
-Vào cuối năm 2024, tài sản đầu tư của KWSP đạt RM1.25 nghìn tỷ — tăng hơn 10% so với RM1.13 nghìn tỷ vào năm 2023. Quỹ này bao trùm 16.22 triệu thành viên, bao gồm 8.78 triệu thành viên đang hoạt động.
+Vào cuối năm 2025, tài sản đầu tư của KWSP đạt RM1.41 nghìn tỷ (RM1,409 tỷ) — tăng 12,8% so với RM1.25 nghìn tỷ vào cuối năm 2024. Quỹ này bao trùm hơn 16 triệu thành viên.
 
-Bảng dưới đây tóm tắt hồ sơ của thể chế này vào cuối năm 2024:
+Bảng dưới đây tóm tắt hồ sơ của thể chế này vào cuối năm 2025:
 
-| Chỉ số | Giá trị (cuối năm 2024) |
+| Chỉ số | Giá trị (cuối năm 2025) |
 |---|---|
-| Tài sản đầu tư | RM1.25 nghìn tỷ |
-| Tăng trưởng tài sản hàng năm | hơn 10% (từ RM1.13 nghìn tỷ) |
-| Tổng số thành viên | 16.22 triệu |
-| Thành viên đang hoạt động | 8.78 triệu |
-| Phân bổ đầu tư trong nước | 63% |
-| Phân bổ đầu tư nước ngoài | 37% |
-| Tổng thu nhập đầu tư 2024 | RM74.46 tỷ |
+| Tài sản đầu tư | RM1.41 nghìn tỷ (RM1,409 tỷ) |
+| Tăng trưởng tài sản hàng năm | 12,8% (từ RM1.25 nghìn tỷ) |
+| Tổng số thành viên | hơn 16 triệu |
+| Phân bổ đầu tư trong nước | ~62% |
+| Phân bổ đầu tư nước ngoài | ~38% |
+| Tổng thu nhập đầu tư 2025 | RM79.15 tỷ |
+| Thu nhập có thể phân phối 2025 | RM82.7 tỷ |
 
 ## KWSP đầu tư tiền của thành viên như thế nào?
 
-Với tư cách một nhà đầu tư tổ chức, KWSP phân tán quỹ của mình qua nhiều lớp tài sản. Vào năm 2024, cổ phiếu là động cơ chính của thu nhập, tiếp theo là các công cụ thu nhập cố định như Chứng khoán Chính phủ Malaysia.
+Với tư cách một nhà đầu tư tổ chức, KWSP phân tán quỹ của mình qua nhiều lớp tài sản. Vào năm 2025, cổ phiếu là động cơ chính của thu nhập, tiếp theo là các công cụ thu nhập cố định như Chứng khoán Chính phủ Malaysia.
 
-Đóng góp của mỗi lớp tài sản vào thu nhập đầu tư 2024 (tổng RM74.46 tỷ) và lợi nhuận đầu tư của nó:
+Đóng góp của mỗi lớp tài sản vào thu nhập đầu tư 2025 (tổng RM79.15 tỷ):
 
-| Lớp tài sản | % trên tổng thu nhập | Lợi nhuận (ROI) |
+| Lớp tài sản | Thu nhập 2025 | % trên tổng |
 |---|---|---|
-| Cổ phiếu | ~67% | 9,90% |
-| Thu nhập cố định | ~29% | 4,27% |
-| Bất động sản & hạ tầng | — | 5,13% |
-| Công cụ thị trường tiền tệ | — | 1,89% |
+| Cổ phiếu | RM49.24 tỷ | 62% |
+| Thu nhập cố định | RM26.27 tỷ | 33% |
+| Thị trường tư nhân (bất động sản, hạ tầng, vốn cổ phần tư nhân) | RM3.01 tỷ | 4% |
+| Công cụ thị trường tiền tệ | RM0.63 tỷ | 1% |
 
-Dù 63% tài sản được đầu tư trong nước, đầu tư toàn cầu đóng góp hơn một nửa thu nhập vào năm 2024: thu nhập từ thị trường toàn cầu đạt RM37.44 tỷ so với RM37.02 tỷ từ thị trường trong nước — bằng chứng rằng sự tiếp xúc quốc tế đóng vai trò quan trọng trong lợi nhuận của quỹ này.
+Khoảng 62% tài sản của KWSP được đầu tư trong nước và 38% ở nước ngoài (cuối năm 2025), nhưng đầu tư toàn cầu vẫn đóng vai trò quan trọng đối với lợi nhuận tổng thể của quỹ này.
 
 ## KWSP trả bao nhiêu cổ tức mỗi năm?
 
-Đây là con số mà thành viên mong chờ nhất mỗi đầu năm. Cho năm 2024, KWSP công bố cổ tức 6,30% cho Tiết kiệm Thông thường và 6,30% cho Tiết kiệm Shariah — tổng khoản chi trả RM73.24 tỷ và là mức cao nhất kể từ năm 2017.
+Đây là con số mà thành viên mong chờ nhất mỗi đầu năm. Cho năm 2025, KWSP công bố cổ tức 6,15% cho Tiết kiệm Thông thường và 6,15% cho Tiết kiệm Shariah — tổng khoản chi trả RM79.6 tỷ (RM67.1 tỷ Thông thường, RM12.5 tỷ Shariah), được công bố vào ngày 28 tháng 2 năm 2026. Con số này thấp hơn một chút so với 6,30% (RM73.24 tỷ) cho năm 2024, là mức cao nhất kể từ năm 2017.
 
 Lịch sử mức cổ tức hàng năm (nguồn: dữ liệu mở chính thức của KWSP tại data.gov.my):
 

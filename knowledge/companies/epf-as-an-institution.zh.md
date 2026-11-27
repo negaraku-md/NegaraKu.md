@@ -5,31 +5,31 @@ seoTitle: "雇员公积金局（EPF）：马来西亚最大退休基金与机构
 slug: "epf-as-an-institution"
 category: "companies"
 subcategory: ["pension"]
-summary: "雇员公积金局（KWSP）是马来西亚最大的强制性退休基金，也是全国最具影响力的机构投资者，截至2024年底投资资产高达1.25万亿令吉。"
+summary: "雇员公积金局（KWSP）是马来西亚最大的强制性退休基金，也是全国最具影响力的机构投资者，截至2025年底投资资产高达1.41万亿令吉。"
 
 tier: "4"
 mode: "narrative"
 contentType: "agency"
 sensitivity: "none"
 
-answer: "雇员公积金局（Kumpulan Wang Simpanan Pekerja, KWSP），即雇员公积金（Employees Provident Fund, EPF），是隶属于财政部的法定机构，负责管理马来西亚私营领域雇员的强制性退休储蓄。该基金于1951年10月1日成立，现由《1991年雇员公积金局法令》（Akta KWSP 1991）监管，截至2024年底为1622万名会员持有1.25万亿令吉的投资资产，成为全国最大的机构投资者。它为2024年的传统储蓄（Simpanan Konvensional）与伊斯兰储蓄（Simpanan Shariah）宣布派发6.30%的股息。"
+answer: "雇员公积金局（Kumpulan Wang Simpanan Pekerja, KWSP），即雇员公积金（Employees Provident Fund, EPF），是隶属于财政部的法定机构，负责管理马来西亚私营领域雇员的强制性退休储蓄。该基金于1951年10月1日成立，现由《1991年雇员公积金局法令》（Akta KWSP 1991）监管，截至2025年底为超过1600万名会员持有1.41万亿令吉的投资资产，成为全国最大的机构投资者。它为2025年的传统储蓄（Simpanan Konvensional）与伊斯兰储蓄（Simpanan Shariah）宣布派发6.15%的股息。"
 keyTakeaways:
   - "雇员公积金局于1951年10月1日成立，现由财政部辖下的《1991年雇员公积金局法令》监管。"
-  - "投资资产于2024年底达到1.25万亿令吉，比2023年的1.13万亿令吉增长超过10%。"
-  - "2024年传统储蓄与伊斯兰储蓄的股息均为6.30%，总派息额为732.4亿令吉。"
+  - "投资资产于2025年底达到1.41万亿令吉，比2024年底的1.25万亿令吉增长12.8%。"
+  - "2025年传统储蓄与伊斯兰储蓄的股息均为6.15%，总派息额为796亿令吉。"
   - "传统储蓄每年获保证至少2.50%的回报；伊斯兰储蓄则没有最低保证。"
 appliesTo: "雇员公积金局会员、马来西亚雇员与雇主、财经学生，以及任何想了解雇员公积金局作为机构和投资者角色的人士。"
 
 faq:
-  - q: "雇员公积金局在2024年底的投资资产有多少？"
-    a: "雇员公积金局的投资资产于2024年12月31日达到1.25万亿令吉，比2023年的1.13万亿令吉增长超过10%，其中63%投资于国内市场。"
-  - q: "雇员公积金局2024年的股息是多少？"
-    a: "雇员公积金局为2024年宣布传统储蓄派发6.30%的股息、伊斯兰储蓄派发6.30%的股息——总派息额为732.4亿令吉，是自2017年以来的最高水平。"
+  - q: "雇员公积金局在2025年底的投资资产有多少？"
+    a: "雇员公积金局的投资资产于2025年12月31日达到1.41万亿令吉，比2024年底的1.25万亿令吉增长12.8%，其中约62%投资于国内市场。"
+  - q: "雇员公积金局2025年的股息是多少？"
+    a: "雇员公积金局为2025年宣布传统储蓄派发6.15%的股息、伊斯兰储蓄派发6.15%的股息——总派息额为796亿令吉。"
   - q: "雇员公积金局的股息有保证吗？"
     a: "根据《1991年雇员公积金局法令》，传统储蓄每年获保证至少2.50%的回报。伊斯兰储蓄则完全取决于投资组合的实际表现，没有最低保证。"
 
 lang: "zh"
-sourceContentHash: "e680578dd6d6768e"
+sourceContentHash: "5880ecbafce2caf4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 verificationNeeded:
   - "首席执行员Ahmad Zulqarnain Onn的委任日期（据报于2024年2月19日生效）——所列来源均未涵盖。"
   - "成立日期1 Oktober 1951及Ordinan KWSP 1951的引用——属机构/法律事实但未抓取一手来源；须以KWSP官方出版物或Warta Kerajaan核实。"
@@ -51,8 +51,13 @@ revisions:
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "更新至2025财年数据的例行刷新：股息6.15%（派息796亿令吉）、截至2025年底投资资产达1.41万亿令吉（增长12.8%）、2025年投资收入构成明细。取代原2024年亮点数据。AI例行数据刷新；引自《The Star》／《Malay Mail》／data.gov.my。"
+    contributor: "ai"
+    reviewer: null
 
-updated: 2026-07-28
+updated: 2026-11-27
 sources:
   - title: "Employees Provident Fund Act 1991 (Act 452), 第27条 (Employees Provident Fund Act 1991 (Act 452), s.27)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20452.pdf"
@@ -72,6 +77,14 @@ sources:
   - title: "2024 年 EPF 派息提高至 6.30%，派发 RM73.24 billion（引用 KWSP 公告数据）(EPF Dividend Increase to 6.30% for 2024 with RM73.24 Billion Payout (memetik angka pengumuman KWSP))"
     url: "https://www.ajobthing.com/resources/blog/epf-2024-dividend-6-30-percent-rm73-24-billion-payout"
     publisher: "AJobThing"
+  - title: "EPF 会员喜获 RM796 亿巨额派息 (RM79.6bil windfall for EPF members)"
+    url: "https://www.thestar.com.my/news/nation/2026/03/01/rm796bil-windfall-for-epf-members"
+    publisher: "The Star"
+    date: "2026-03-01"
+  - title: "EPF 宣布 2025 年传统与伊斯兰储蓄均派息 6.15% (EPF announces 6.15pc dividend for both conventional, Syariah savings for 2025)"
+    url: "https://www.malaymail.com/news/malaysia/2026/02/28/epf-announces-615pc-dividend-for-both-conventional-shariah-savings-for-2025/210707"
+    publisher: "Malay Mail"
+    date: "2026-02-28"
   - title: "EPF 年度派息（开放数据目录）(Annual EPF Dividend (open data catalogue))"
     url: "https://data.gov.my/data-catalogue/epf_dividend"
     publisher: "data.gov.my / 雇员公积金局 (EPF)"
@@ -88,7 +101,7 @@ keywords: ["KWSP", "EPF", "dana persaraan", "pelabur institusi", "dividen KWSP",
 framework: profile
 ---
 
-每当马来西亚的一名私营领域雇员收到工资单时，他收入的一部分便会流向一个如今持有超过1.25万亿令吉的单一机构。那就是雇员公积金局（Kumpulan Wang Simpanan Pekerja），即KWSP。
+每当马来西亚的一名私营领域雇员收到工资单时，他收入的一部分便会流向一个如今持有超过1.41万亿令吉的单一机构。那就是雇员公积金局（Kumpulan Wang Simpanan Pekerja），即KWSP。
 
 它不仅仅是一个储蓄账户。雇员公积金局是马来西亚最大的强制性退休基金，同时也是全国最具影响力的机构投资者——众多马来西亚交易所（Bursa Malaysia）上市公司的主要股东，也是政府债券的稳定买家。
 
@@ -102,38 +115,38 @@ framework: profile
 
 ## 雇员公积金局到底有多大？
 
-截至2024年底，雇员公积金局的投资资产达到1.25万亿令吉——比2023年的1.13万亿令吉增长超过10%。该基金覆盖1622万名会员，其中包括878万名活跃会员。
+截至2025年底，雇员公积金局的投资资产达到1.41万亿令吉——比2024年底的1.25万亿令吉增长12.8%。该基金覆盖超过1600万名会员。
 
-下表概述了这一机构截至2024年底的概况：
+下表概述了这一机构截至2025年底的概况：
 
-| 指标 | 数值（2024年底） |
+| 指标 | 数值（2025年底） |
 |---|---|
-| 投资资产 | 1.25万亿令吉 |
-| 资产年增长率 | 超过10%（从1.13万亿令吉） |
-| 会员总数 | 1622万 |
-| 活跃会员 | 878万 |
-| 国内投资配置 | 63% |
-| 海外投资配置 | 37% |
-| 2024年投资收入总额 | 744.6亿令吉 |
+| 投资资产 | 1.41万亿令吉（14,090亿令吉） |
+| 资产年增长率 | 12.8%（从1.25万亿令吉） |
+| 会员总数 | 超过1600万 |
+| 国内投资配置 | 约62% |
+| 海外投资配置 | 约38% |
+| 2025年投资收入总额 | 791.5亿令吉 |
+| 2025年可分配收入 | 827亿令吉 |
 
 ## 雇员公积金局如何投资会员的资金？
 
-作为机构投资者，雇员公积金局将其资金分散配置于多个资产类别。2024年，股票是收入的主要引擎，其次是马来西亚政府证券（Sekuriti Kerajaan Malaysia）等固定收益工具。
+作为机构投资者，雇员公积金局将其资金分散配置于多个资产类别。2025年，股票是收入的主要引擎，其次是马来西亚政府证券（Sekuriti Kerajaan Malaysia）等固定收益工具。
 
-各资产类别对2024年投资收入（总额744.6亿令吉）的贡献及其投资回报率：
+各资产类别对2025年投资收入（共791.5亿令吉）的贡献：
 
-| 资产类别 | 占收入总额百分比 | 回报率（ROI） |
+| 资产类别 | 2025年收入 | 占收入总额百分比 |
 |---|---|---|
-| 股票 | 约67% | 9.90% |
-| 固定收益 | 约29% | 4.27% |
-| 房地产与基础设施 | — | 5.13% |
-| 货币市场工具 | — | 1.89% |
+| 股票 | 492.4亿令吉 | 62% |
+| 固定收益 | 262.7亿令吉 | 33% |
+| 私募市场（房地产、基础设施、私募股权） | 30.1亿令吉 | 4% |
+| 货币市场工具 | 6.3亿令吉 | 1% |
 
-尽管63%的资产投资于国内，但全球投资在2024年贡献了超过一半的收入：来自全球市场的收入达到374.4亿令吉，而来自国内市场的收入为370.2亿令吉——这证明国际敞口在该基金的回报中扮演着重要角色。
+雇员公积金局约62%的资产投资于国内，38%投资于海外（截至2025年底），但全球投资对该基金的整体回报依然重要。
 
 ## 雇员公积金局每年派发多少股息？
 
-这是会员每年年初最期待的数字。对于2024年，雇员公积金局宣布传统储蓄派发6.30%的股息、伊斯兰储蓄派发6.30%的股息——总派息额为732.4亿令吉，是自2017年以来的最高水平。
+这是会员每年年初最期待的数字。对于2025年，雇员公积金局于2026年2月28日宣布传统储蓄派发6.15%的股息、伊斯兰储蓄派发6.15%的股息——总派息额为796亿令吉。
 
 历年股息率（来源：雇员公积金局在data.gov.my的官方开放数据）：
 

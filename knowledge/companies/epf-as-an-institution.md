@@ -5,26 +5,26 @@ seoTitle: "KWSP (EPF): Dana Persaraan & Pelabur Institusi Terbesar Malaysia"
 slug: "epf-as-an-institution"
 category: "companies"
 subcategory: ["pension"]
-summary: "KWSP ialah dana persaraan wajib terbesar Malaysia dan pelabur institusi paling berpengaruh negara, dengan aset pelaburan mencecah RM1.25 trilion pada penghujung 2024."
+summary: "KWSP ialah dana persaraan wajib terbesar Malaysia dan pelabur institusi paling berpengaruh negara, dengan aset pelaburan mencecah RM1.41 trilion pada penghujung 2025 dan dividen 6.15% diisytiharkan untuk 2025."
 
 tier: "4"
 mode: "narrative"
 contentType: "agency"
 sensitivity: "none"
 
-answer: "Kumpulan Wang Simpanan Pekerja (KWSP), atau Employees Provident Fund (EPF), ialah badan berkanun di bawah Kementerian Kewangan yang menguruskan simpanan persaraan wajib pekerja swasta Malaysia. Ditubuhkan pada 1 Oktober 1951 dan kini dikawal oleh Akta KWSP 1991, dana ini memegang aset pelaburan RM1.25 trilion untuk 16.22 juta ahli pada penghujung 2024, menjadikannya pelabur institusi terbesar negara. Ia mengisytiharkan dividen 6.30% bagi Simpanan Konvensional dan Shariah untuk tahun 2024."
+answer: "Kumpulan Wang Simpanan Pekerja (KWSP), atau Employees Provident Fund (EPF), ialah badan berkanun di bawah Kementerian Kewangan yang menguruskan simpanan persaraan wajib pekerja swasta Malaysia. Ditubuhkan pada 1 Oktober 1951 dan kini dikawal oleh Akta KWSP 1991, dana ini memegang aset pelaburan RM1.41 trilion untuk lebih 16 juta ahli pada penghujung 2025, menjadikannya pelabur institusi terbesar negara. Ia mengisytiharkan dividen 6.15% bagi Simpanan Konvensional dan Shariah untuk tahun 2025 (jumlah bayaran RM79.6 bilion), berbanding 6.30% pada 2024."
 keyTakeaways:
   - "KWSP ditubuhkan pada 1 Oktober 1951 dan kini dikawal oleh Akta KWSP 1991 di bawah Kementerian Kewangan."
-  - "Aset pelaburan mencecah RM1.25 trilion pada penghujung 2024, meningkat lebih 10% berbanding RM1.13 trilion pada 2023."
-  - "Dividen 2024 ialah 6.30% bagi kedua-dua Simpanan Konvensional dan Simpanan Shariah, dengan jumlah bayaran RM73.24 bilion."
+  - "Aset pelaburan mencecah RM1.41 trilion pada penghujung 2025, meningkat 12.8% berbanding RM1.25 trilion pada penghujung 2024."
+  - "Dividen 2025 ialah 6.15% bagi kedua-dua Simpanan Konvensional dan Simpanan Shariah, dengan jumlah bayaran RM79.6 bilion (RM67.1 bilion Konvensional + RM12.5 bilion Shariah), berbanding 6.30% pada 2024."
   - "Simpanan Konvensional dijamin sekurang-kurangnya 2.50% setahun; Simpanan Shariah tiada jaminan minimum."
 appliesTo: "Ahli KWSP, pekerja dan majikan Malaysia, pelajar kewangan, dan sesiapa yang ingin memahami peranan KWSP sebagai institusi dan pelabur."
 
 faq:
-  - q: "Apakah aset pelaburan KWSP pada penghujung 2024?"
-    a: "Aset pelaburan KWSP mencecah RM1.25 trilion pada 31 Disember 2024, meningkat lebih 10% berbanding RM1.13 trilion pada 2023, dengan 63% dilaburkan dalam pasaran domestik."
-  - q: "Berapa dividen KWSP untuk 2024?"
-    a: "KWSP mengisytiharkan dividen 6.30% bagi Simpanan Konvensional dan 6.30% bagi Simpanan Shariah untuk 2024 — jumlah bayaran RM73.24 bilion dan kadar tertinggi sejak 2017."
+  - q: "Apakah aset pelaburan KWSP pada penghujung 2025?"
+    a: "Aset pelaburan KWSP mencecah RM1.41 trilion (RM1,409 bilion) pada 31 Disember 2025, meningkat 12.8% berbanding RM1.25 trilion pada penghujung 2024, dengan kira-kira 62% dilaburkan dalam pasaran domestik."
+  - q: "Berapa dividen KWSP untuk 2025?"
+    a: "KWSP mengisytiharkan dividen 6.15% bagi Simpanan Konvensional dan 6.15% bagi Simpanan Shariah untuk 2025 — jumlah bayaran RM79.6 bilion (RM67.1 bilion Konvensional, RM12.5 bilion Shariah), diisytiharkan pada 28 Februari 2026. Ini berbanding 6.30% (RM73.24 bilion) untuk 2024."
   - q: "Adakah dividen KWSP dijamin?"
     a: "Simpanan Konvensional dijamin sekurang-kurangnya 2.50% setahun di bawah Akta KWSP 1991. Simpanan Shariah pula bergantung sepenuhnya pada prestasi sebenar portfolio tanpa jaminan minimum."
 
@@ -37,7 +37,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 verificationNeeded:
   - "Tarikh pelantikan Ketua Pegawai Eksekutif Ahmad Zulqarnain Onn (dilaporkan berkuat kuasa 19 Februari 2024) — tidak diliputi oleh mana-mana sumber yang disenaraikan."
   - "Tarikh penubuhan 1 Oktober 1951 dan rujukan Ordinan KWSP 1951 — fakta institusi/perundangan tanpa sumber utama yang di-fetch; sahkan dengan penerbitan rasmi KWSP atau Warta Kerajaan."
@@ -50,8 +50,13 @@ revisions:
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Freshness update to FY2025 figures: dividend 6.15% (RM79.6b payout), investment assets RM1.41tn at end-2025 (+12.8%), 2025 investment-income breakdown. Replaces the 2024 headline figures. AI freshness update; cited to The Star / Malay Mail / data.gov.my."
+    contributor: "ai"
+    reviewer: null
 
-updated: 2026-07-28
+updated: 2026-11-27
 sources:
   - title: "Employees Provident Fund Act 1991 (Act 452), s.27"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20452.pdf"
@@ -65,6 +70,14 @@ sources:
   - title: "EPF Dividend Of 6.30 Pct For 2024 Is Highest In Seven Years -- CEO"
     url: "https://www.bernama.com/en/news.php?id=2397979"
     publisher: "Bernama"
+  - title: "RM79.6bil windfall for EPF members (EPF declares 6.15% dividend for 2025)"
+    url: "https://www.thestar.com.my/news/nation/2026/03/01/rm796bil-windfall-for-epf-members"
+    publisher: "The Star"
+    date: "2026-03-01"
+  - title: "EPF announces 6.15pc dividend for both conventional, Syariah savings for 2025"
+    url: "https://www.malaymail.com/news/malaysia/2026/02/28/epf-announces-615pc-dividend-for-both-conventional-shariah-savings-for-2025/210707"
+    publisher: "Malay Mail"
+    date: "2026-02-28"
   - title: "Special Report: Dispelling aspersions surrounding EPF's impressive 6.3% dividend for 2024"
     url: "https://theedgemalaysia.com/node/747537"
     publisher: "The Edge Malaysia"
@@ -87,7 +100,7 @@ keywords: ["KWSP", "EPF", "dana persaraan", "pelabur institusi", "dividen KWSP",
 framework: profile
 ---
 
-Setiap kali seorang pekerja swasta di Malaysia menerima slip gaji, sebahagian daripada pendapatannya mengalir ke satu institusi tunggal yang kini memegang lebih RM1.25 trilion. Itulah Kumpulan Wang Simpanan Pekerja, atau KWSP.
+Setiap kali seorang pekerja swasta di Malaysia menerima slip gaji, sebahagian daripada pendapatannya mengalir ke satu institusi tunggal yang kini memegang lebih RM1.41 trilion. Itulah Kumpulan Wang Simpanan Pekerja, atau KWSP.
 
 Ia bukan sekadar akaun simpanan. KWSP adalah dana persaraan wajib terbesar Malaysia dan, dalam masa yang sama, pelabur institusi paling berpengaruh di negara ini — pemegang saham utama dalam banyak syarikat tersenarai di Bursa Malaysia dan pembeli tetap bon kerajaan.
 
@@ -101,38 +114,38 @@ Pengurusan tertinggi dipegang oleh Lembaga KWSP, dengan sokongan Panel Pelaburan
 
 ## Sebesar mana KWSP sebenarnya?
 
-Pada penghujung 2024, aset pelaburan KWSP mencecah RM1.25 trilion — meningkat lebih 10% berbanding RM1.13 trilion pada 2023. Dana ini menaungi 16.22 juta ahli, termasuk 8.78 juta ahli aktif.
+Pada penghujung 2025, aset pelaburan KWSP mencecah RM1.41 trilion (RM1,409 bilion) — meningkat 12.8% berbanding RM1.25 trilion pada penghujung 2024. Dana ini menaungi lebih 16 juta ahli.
 
-Jadual di bawah meringkaskan profil institusi ini pada penghujung 2024:
+Jadual di bawah meringkaskan profil institusi ini pada penghujung 2025:
 
-| Petunjuk | Nilai (penghujung 2024) |
+| Petunjuk | Nilai (penghujung 2025) |
 |---|---|
-| Aset pelaburan | RM1.25 trilion |
-| Pertumbuhan aset tahunan | lebih 10% (dari RM1.13 trilion) |
-| Jumlah ahli | 16.22 juta |
-| Ahli aktif | 8.78 juta |
-| Peruntukan pelaburan domestik | 63% |
-| Peruntukan pelaburan luar negara | 37% |
-| Jumlah pendapatan pelaburan 2024 | RM74.46 bilion |
+| Aset pelaburan | RM1.41 trilion (RM1,409 bilion) |
+| Pertumbuhan aset tahunan | 12.8% (dari RM1.25 trilion) |
+| Jumlah ahli | lebih 16 juta |
+| Peruntukan pelaburan domestik | ~62% |
+| Peruntukan pelaburan luar negara | ~38% |
+| Jumlah pendapatan pelaburan 2025 | RM79.15 bilion |
+| Pendapatan boleh diagih 2025 | RM82.7 bilion |
 
 ## Bagaimana KWSP melaburkan wang ahli?
 
-Sebagai pelabur institusi, KWSP menyebarkan dananya merentas beberapa kelas aset. Pada 2024, ekuiti menjadi enjin utama pendapatan, diikuti instrumen pendapatan tetap seperti Sekuriti Kerajaan Malaysia.
+Sebagai pelabur institusi, KWSP menyebarkan dananya merentas beberapa kelas aset. Pada 2025, ekuiti menjadi enjin utama pendapatan, diikuti instrumen pendapatan tetap seperti Sekuriti Kerajaan Malaysia.
 
-Sumbangan setiap kelas aset kepada pendapatan pelaburan 2024 (jumlah RM74.46 bilion) dan pulangan pelaburannya:
+Sumbangan setiap kelas aset kepada pendapatan pelaburan 2025 (jumlah RM79.15 bilion):
 
-| Kelas aset | % daripada jumlah pendapatan | Pulangan (ROI) |
+| Kelas aset | Pendapatan 2025 | % daripada jumlah |
 |---|---|---|
-| Ekuiti | ~67% | 9.90% |
-| Pendapatan tetap | ~29% | 4.27% |
-| Hartanah & infrastruktur | — | 5.13% |
-| Instrumen pasaran wang | — | 1.89% |
+| Ekuiti | RM49.24 bilion | 62% |
+| Pendapatan tetap | RM26.27 bilion | 33% |
+| Pasaran persendirian (hartanah, infrastruktur, ekuiti persendirian) | RM3.01 bilion | 4% |
+| Instrumen pasaran wang | RM0.63 bilion | 1% |
 
-Walaupun 63% aset dilaburkan di dalam negara, pelaburan global menyumbang lebih separuh pendapatan pada 2024: pendapatan dari pasaran global mencecah RM37.44 bilion berbanding RM37.02 bilion dari pasaran domestik — bukti bahawa pendedahan antarabangsa memainkan peranan penting dalam pulangan dana ini.
+Kira-kira 62% aset KWSP dilaburkan di dalam negara dan 38% di luar negara (penghujung 2025), namun pelaburan global kekal memainkan peranan penting dalam pulangan keseluruhan dana ini.
 
 ## Berapa dividen yang dibayar KWSP setiap tahun?
 
-Inilah angka yang paling dinanti ahli setiap awal tahun. Untuk tahun 2024, KWSP mengisytiharkan dividen 6.30% bagi Simpanan Konvensional dan 6.30% bagi Simpanan Shariah — jumlah bayaran RM73.24 bilion dan kadar tertinggi sejak 2017.
+Inilah angka yang paling dinanti ahli setiap awal tahun. Untuk tahun 2025, KWSP mengisytiharkan dividen 6.15% bagi Simpanan Konvensional dan 6.15% bagi Simpanan Shariah — jumlah bayaran RM79.6 bilion (RM67.1 bilion Konvensional, RM12.5 bilion Shariah), diisytiharkan pada 28 Februari 2026. Ini lebih rendah sedikit daripada 6.30% (RM73.24 bilion) untuk 2024.
 
 Sejarah kadar dividen tahunan (sumber: data terbuka rasmi KWSP di data.gov.my):
 

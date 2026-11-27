@@ -5,31 +5,31 @@ seoTitle: "KWSP (EPF): Dana Pensiun & Investor Institusi Terbesar Malaysia"
 slug: "epf-as-an-institution"
 category: "companies"
 subcategory: ["pension"]
-summary: "KWSP adalah dana pensiun wajib terbesar Malaysia dan investor institusi paling berpengaruh di negara itu, dengan aset investasi mencapai RM1.25 triliun pada akhir 2024."
+summary: "KWSP adalah dana pensiun wajib terbesar Malaysia dan investor institusi paling berpengaruh di negara itu, dengan aset investasi mencapai RM1.41 triliun pada akhir 2025."
 
 tier: "4"
 mode: "narrative"
 contentType: "agency"
 sensitivity: "none"
 
-answer: "Kumpulan Wang Simpanan Pekerja (KWSP), atau Employees Provident Fund (EPF), adalah badan menurut undang-undang di bawah Kementerian Keuangan yang mengelola simpanan pensiun wajib pekerja swasta Malaysia. Didirikan pada 1 Oktober 1951 dan kini diatur oleh Akta KWSP 1991, dana ini memegang aset investasi RM1.25 triliun untuk 16.22 juta anggota pada akhir 2024, menjadikannya investor institusi terbesar di negara itu. Ia mengumumkan dividen 6.30% bagi Simpanan Konvensional dan Syariah untuk tahun 2024."
+answer: "Kumpulan Wang Simpanan Pekerja (KWSP), atau Employees Provident Fund (EPF), adalah badan menurut undang-undang di bawah Kementerian Keuangan yang mengelola simpanan pensiun wajib pekerja swasta Malaysia. Didirikan pada 1 Oktober 1951 dan kini diatur oleh Akta KWSP 1991, dana ini memegang aset investasi RM1.41 triliun untuk lebih dari 16 juta anggota pada akhir 2025, menjadikannya investor institusi terbesar di negara itu. Ia mengumumkan dividen 6.15% bagi Simpanan Konvensional dan Syariah untuk tahun 2025."
 keyTakeaways:
   - "KWSP didirikan pada 1 Oktober 1951 dan kini diatur oleh Akta KWSP 1991 di bawah Kementerian Keuangan."
-  - "Aset investasi mencapai RM1.25 triliun pada akhir 2024, meningkat lebih dari 10% dibanding RM1.13 triliun pada 2023."
-  - "Dividen 2024 adalah 6.30% bagi kedua Simpanan Konvensional dan Simpanan Syariah, dengan total pembayaran RM73.24 miliar."
+  - "Aset investasi mencapai RM1.41 triliun pada akhir 2025, meningkat 12.8% dibanding RM1.25 triliun pada akhir 2024."
+  - "Dividen 2025 adalah 6.15% bagi kedua Simpanan Konvensional dan Simpanan Syariah, dengan total pembayaran RM79.6 miliar."
   - "Simpanan Konvensional dijamin sekurang-kurangnya 2.50% setahun; Simpanan Syariah tanpa jaminan minimum."
 appliesTo: "Anggota KWSP, pekerja dan pemberi kerja Malaysia, pelajar keuangan, dan siapa saja yang ingin memahami peran KWSP sebagai institusi dan investor."
 
 faq:
-  - q: "Berapa aset investasi KWSP pada akhir 2024?"
-    a: "Aset investasi KWSP mencapai RM1.25 triliun pada 31 Desember 2024, meningkat lebih dari 10% dibanding RM1.13 triliun pada 2023, dengan 63% diinvestasikan di pasar domestik."
-  - q: "Berapa dividen KWSP untuk 2024?"
-    a: "KWSP mengumumkan dividen 6.30% bagi Simpanan Konvensional dan 6.30% bagi Simpanan Syariah untuk 2024 — total pembayaran RM73.24 miliar dan tarif tertinggi sejak 2017."
+  - q: "Berapa aset investasi KWSP pada akhir 2025?"
+    a: "Aset investasi KWSP mencapai RM1.41 triliun pada 31 Desember 2025, meningkat 12.8% dibanding RM1.25 triliun pada akhir 2024, dengan sekitar 62% diinvestasikan di pasar domestik."
+  - q: "Berapa dividen KWSP untuk 2025?"
+    a: "KWSP mengumumkan dividen 6.15% bagi Simpanan Konvensional dan 6.15% bagi Simpanan Syariah untuk 2025 — total pembayaran RM79.6 miliar, diumumkan pada 28 Februari 2026."
   - q: "Apakah dividen KWSP dijamin?"
     a: "Simpanan Konvensional dijamin sekurang-kurangnya 2.50% setahun di bawah Akta KWSP 1991. Simpanan Syariah bergantung sepenuhnya pada kinerja aktual portofolio tanpa jaminan minimum."
 
 lang: "id"
-sourceContentHash: "e680578dd6d6768e"
+sourceContentHash: "5880ecbafce2caf4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -38,7 +38,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
-revision: 0
+revision: 1
 verificationNeeded:
   - "Tanggal pengangkatan Ketua Pegawai Eksekutif Ahmad Zulqarnain Onn (dilaporkan berlaku 19 Februari 2024) — tidak tercakup oleh sumber mana pun yang terdaftar."
   - "Tanggal pendirian 1 Oktober 1951 dan rujukan Ordinan KWSP 1951 — fakta institusi/perundang-undangan tanpa sumber primer yang di-fetch; verifikasi dengan publikasi resmi KWSP atau Warta Kerajaan."
@@ -51,8 +51,13 @@ revisions:
     date: 2026-07-28
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-11-27
+    change: "Pembaruan kesegaran ke angka TK2025: dividen 6.15% (pembayaran RM79.6 miliar), aset investasi RM1.41 triliun pada akhir 2025 (+12.8%), rincian pendapatan investasi 2025. Menggantikan angka utama 2024. Pembaruan kesegaran oleh AI; dikutip dari The Star / Malay Mail / data.gov.my."
+    contributor: "ai"
+    reviewer: null
 
-updated: 2026-07-28
+updated: 2026-11-27
 sources:
   - title: "Employees Provident Fund Act 1991 (Act 452), s.27"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20452.pdf"
@@ -75,6 +80,14 @@ sources:
   - title: "Annual EPF Dividend (open data catalogue)"
     url: "https://data.gov.my/data-catalogue/epf_dividend"
     publisher: "data.gov.my / Employees Provident Fund"
+  - title: "Rezeki RM79.6 bilion untuk anggota KWSP (RM79.6bil windfall for EPF members)"
+    url: "https://www.thestar.com.my/news/nation/2026/03/01/rm796bil-windfall-for-epf-members"
+    publisher: "The Star"
+    date: "2026-03-01"
+  - title: "KWSP umum dividen 6.15 peratus untuk simpanan Konvensional dan Syariah bagi 2025 (EPF announces 6.15pc dividend for both conventional, Syariah savings for 2025)"
+    url: "https://www.malaymail.com/news/malaysia/2026/02/28/epf-announces-615pc-dividend-for-both-conventional-shariah-savings-for-2025/210707"
+    publisher: "Malay Mail"
+    date: "2026-02-28"
 
 entity: "Kumpulan Wang Simpanan Pekerja (KWSP)"
 wikidata: "Q5374309"
@@ -88,7 +101,7 @@ keywords: ["KWSP", "EPF", "dana persaraan", "pelabur institusi", "dividen KWSP",
 framework: profile
 ---
 
-Setiap kali seorang pekerja swasta di Malaysia menerima slip gaji, sebagian dari pendapatannya mengalir ke satu institusi tunggal yang kini memegang lebih dari RM1.25 triliun. Itulah Kumpulan Wang Simpanan Pekerja, atau KWSP.
+Setiap kali seorang pekerja swasta di Malaysia menerima slip gaji, sebagian dari pendapatannya mengalir ke satu institusi tunggal yang kini memegang lebih dari RM1.41 triliun. Itulah Kumpulan Wang Simpanan Pekerja, atau KWSP.
 
 Ia bukan sekadar rekening tabungan. KWSP adalah dana pensiun wajib terbesar Malaysia dan, pada saat yang sama, investor institusi paling berpengaruh di negara ini — pemegang saham utama dalam banyak perusahaan tercatat di Bursa Malaysia dan pembeli tetap obligasi pemerintah.
 
@@ -102,38 +115,38 @@ Pengelolaan tertinggi dipegang oleh Lembaga KWSP, dengan dukungan Panel Pelabura
 
 ## Sebesar apa KWSP sebenarnya?
 
-Pada akhir 2024, aset investasi KWSP mencapai RM1.25 triliun — meningkat lebih dari 10% dibanding RM1.13 triliun pada 2023. Dana ini menaungi 16.22 juta anggota, termasuk 8.78 juta anggota aktif.
+Pada akhir 2025, aset investasi KWSP mencapai RM1.41 triliun — meningkat 12.8% dibanding RM1.25 triliun pada akhir 2024. Dana ini menaungi lebih dari 16 juta anggota.
 
-Tabel di bawah meringkas profil institusi ini pada akhir 2024:
+Tabel di bawah meringkas profil institusi ini pada akhir 2025:
 
-| Indikator | Nilai (akhir 2024) |
+| Indikator | Nilai (akhir 2025) |
 |---|---|
-| Aset investasi | RM1.25 triliun |
-| Pertumbuhan aset tahunan | lebih dari 10% (dari RM1.13 triliun) |
-| Total anggota | 16.22 juta |
-| Anggota aktif | 8.78 juta |
-| Alokasi investasi domestik | 63% |
-| Alokasi investasi luar negeri | 37% |
-| Total pendapatan investasi 2024 | RM74.46 miliar |
+| Aset investasi | RM1.41 triliun (RM1,409 miliar) |
+| Pertumbuhan aset tahunan | 12.8% (dari RM1.25 triliun) |
+| Total anggota | lebih dari 16 juta |
+| Alokasi investasi domestik | ~62% |
+| Alokasi investasi luar negeri | ~38% |
+| Total pendapatan investasi 2025 | RM79.15 miliar |
+| Pendapatan boleh agih 2025 | RM82.7 miliar |
 
 ## Bagaimana KWSP menginvestasikan uang anggota?
 
-Sebagai investor institusi, KWSP menyebarkan dananya ke beberapa kelas aset. Pada 2024, ekuitas menjadi mesin utama pendapatan, diikuti instrumen pendapatan tetap seperti Sekuriti Kerajaan Malaysia.
+Sebagai investor institusi, KWSP menyebarkan dananya ke beberapa kelas aset. Pada 2025, ekuitas menjadi mesin utama pendapatan, diikuti instrumen pendapatan tetap seperti Sekuriti Kerajaan Malaysia.
 
-Kontribusi setiap kelas aset terhadap pendapatan investasi 2024 (total RM74.46 miliar) dan imbal hasil investasinya:
+Kontribusi setiap kelas aset terhadap pendapatan investasi 2025 (total RM79.15 miliar):
 
-| Kelas aset | % dari total pendapatan | Imbal hasil (ROI) |
+| Kelas aset | Pendapatan | % dari total pendapatan |
 |---|---|---|
-| Ekuitas | ~67% | 9.90% |
-| Pendapatan tetap | ~29% | 4.27% |
-| Properti & infrastruktur | — | 5.13% |
-| Instrumen pasar uang | — | 1.89% |
+| Ekuitas | RM49.24 miliar | 62% |
+| Pendapatan tetap | RM26.27 miliar | 33% |
+| Pasar swasta (properti, infrastruktur, ekuitas swasta) | RM3.01 miliar | 4% |
+| Instrumen pasar uang | RM0.63 miliar | 1% |
 
-Walaupun 63% aset diinvestasikan di dalam negeri, investasi global menyumbang lebih dari separuh pendapatan pada 2024: pendapatan dari pasar global mencapai RM37.44 miliar dibanding RM37.02 miliar dari pasar domestik — bukti bahwa eksposur internasional memainkan peran penting dalam imbal hasil dana ini.
+Sekitar 62% aset KWSP diinvestasikan di dalam negeri dan 38% di luar negeri (akhir 2025), namun investasi global tetap penting bagi imbal hasil keseluruhan dana ini.
 
 ## Berapa dividen yang dibayar KWSP setiap tahun?
 
-Inilah angka yang paling dinanti anggota setiap awal tahun. Untuk tahun 2024, KWSP mengumumkan dividen 6.30% bagi Simpanan Konvensional dan 6.30% bagi Simpanan Syariah — total pembayaran RM73.24 miliar dan tarif tertinggi sejak 2017.
+Inilah angka yang paling dinanti anggota setiap awal tahun. Untuk tahun 2025, KWSP mengumumkan dividen 6.15% bagi Simpanan Konvensional dan 6.15% bagi Simpanan Syariah — total pembayaran RM79.6 miliar, diumumkan pada 28 Februari 2026.
 
 Sejarah tarif dividen tahunan (sumber: data terbuka resmi KWSP di data.gov.my):
 
