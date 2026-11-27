@@ -36,9 +36,17 @@ Three patterns, three different moves:
 
 ## 2. Move 1 — Deepen **Employment & HR** (existing category)
 
-**Why:** 31,830 Google impressions and 129 all-channel sessions from only 55 articles — the highest demand-per-article in the pillar on the largest impression base. It is also core 1company advisory territory (payroll/HR), so it feeds the sponsor funnel, not just traffic. The core compliance topics are already covered; the gaps are specialised/emerging topics and the **foreign-talent** sub-cluster.
+> **⚠ 2026-11-27 CORRECTION — the foreign-talent half of this backlog is NOT a real gap; do not author it.**
+> A pre-authoring slug+topic audit (the article standard's mandatory "verify a gap by looking, not guessing" step) found the proposed foreign-talent articles already exist under better slugs, with substantive published coverage:
+> - EP categories (#15) → `employment/employment-pass-malaysia` (**3,002 words**, current to 1 Jun 2026 salary bands), plus `settling-in/employment-pass` (1,512w) and `business/employment-pass-founder-malaysia` (1,796w).
+> - Dependent/LTSVP (#17) → `settling-in/dependant-social-visit-passes` (855w).
+> - Professional Visit Pass (#18) → `settling-in/professional-visit-pass` (1,165w).
+> - ESD/MYXpats (#16) → covered in-flow across ~20 articles (`employment-pass-malaysia`, `hiring-foreign-workers-malaysia`, `work-passes-malaysia`).
+> - Quota (part of #19) → `employment/hiring-foreign-workers-malaysia` §3; that article is a complete s.60K→quota→VWR→FOMEMA→PLKS→exit guide.
+>
+> Only FWCMS-specifically (#19) and source-countries (#20) are genuinely uncovered — both marginal (niche/volatile/sensitive) and **recommended against** as standalone articles. **Net: the demand-per-article signal (2.35) means this cluster is well-made and FOUND, not thin — it does not warrant new articles.** The real lever is discovery/cross-linking of the existing rich articles (as done for Companies in §4), not volume. The HR-compliance sub-list below is unaudited; audit each by slug before writing, and expect similar overlap.
 
-**Backlog (~25 articles, grouped). Each follows the article standard — full pipeline, every claim cited, sensitivity-gated reviewer where needed.**
+**Backlog (~25 articles, grouped) — HISTORICAL/UNAUDITED. Audit each slug+topic against the live corpus before writing; the foreign-talent group (15–20) is superseded by the correction above.**
 
 HR-compliance deepening:
 1. `sick-leave-and-hospitalisation-malaysia`
@@ -123,6 +131,6 @@ As Move 1's foreign-talent articles (15–20) land, promote the richest into the
 
 1. ✅ **Guide shipped** — `expanding-into-malaysia` in `src/lib/guides.ts` (this change; local commit, not pushed).
 2. ▶ **Companies link campaign** — run `suggest-crosslinks.mjs` → review → apply → `check-internal-links --strict` → push. Fill MAHB Wikidata QID. (Ready on go-ahead.)
-3. ▶ **Employment sprint** — write backlog §2 in demand order (foreign-talent + HR-compliance first), per article standard, sensitivity-gated reviewer = ashton-tan where flagged.
+3. ✅→✗ **Employment sprint — CANCELLED after audit (2026-11-27).** The foreign-talent group already exists (see §2 correction); grinding out near-duplicates violates the article standard. HR-compliance list is unaudited and likely overlaps too. Real lever for a well-stocked category = discovery/cross-linking, not new articles. Re-scope before any authoring.
 
 Each push is a live deploy — batch and verify the final Pages run lands.
