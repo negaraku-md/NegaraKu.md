@@ -26,17 +26,23 @@ faq:
     a: "They are the same thing. What Malaysians call road tax (cukai jalan) is formally the Motor Vehicle Licence — Lesen Kenderaan Motor, or LKM — issued by JPJ to permit a vehicle to be used on public roads. It must be renewed periodically, and the vehicle must carry valid motor insurance, which JPJ's system checks before issuing the licence."
   - q: "How do I renew my driving licence or road tax online?"
     a: "JPJ offers online renewal through its public portal (mySIKAP) and the MyJPJ app, which also provide digital copies of the driving licence and road tax (e-LKM). Renewals can also be done at JPJ counters and through appointed partners. Check the current options and fees on the JPJ portal (jpj.gov.my)."
+  - q: "What is the difference between JPJ and PUSPAKOM?"
+    a: "JPJ is the government department that registers vehicles, licenses drivers, issues road tax and enforces road-transport law. PUSPAKOM is not a department — it is a licensed vehicle-inspection provider that carries out the physical roadworthiness inspection commercial and certain other vehicles must pass before JPJ will renew their road tax. JPJ relies on the inspection result; it does not inspect vehicles itself."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: "2026-11-05"
+reviewed: 2026-11-27
 reviewDue: null
 publishedBy: "ashton-tan"
-revision: 0
-revisions: []
+revision: 1
+revisions:
+  - revision: 1
+    date: 2026-11-18
+    change: "Grafted sourced sections on road-tax renewal, the JPJeBid/JPJeQ digital services, the JPJ–PUSPAKOM–police distinction, and JPJ's location — content recovered from the retired transport/ duplicate and re-verified against JPJ, MyGovernment and PUSPAKOM sources (pending human re-review of the grafted material)."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "JPJ's establishment date: sources conflict between a 1937 origin (Road Transport Board under the Traffic Enactment 1937) and formation on 1 April 1946 — verify against JPJ's official history/corporate pages."
   - "Current Director-General of JPJ and the parent-ministry leadership — confirm on the JPJ and MOT official sites (named officials change with Cabinet)."
@@ -44,7 +50,10 @@ verificationNeeded:
   - "Current PUSPAKOM inspection requirement for LKM renewal (the rule that private vehicles with road tax expired up to three years can renew without inspection dates to 2020) — confirm current policy on JPJ/MyGov."
   - "Whether JPJ absorbed the Road Safety Department (JKJR) functions from 1 May 2020 and the current scope of that merger — verify on an official JPJ/MOT source."
   - "The precise section of the Road Transport Act 1987 that requires a motor vehicle licence (road tax) and the current penalties for driving unlicensed or with expired road tax — confirm against the authoritative AGC text of Act 333."
-updated: 2026-11-05
+  - "Exact JPJ headquarters block/street address (Complex D, Block D4, No. 26 Jalan Tun Hussein, Presint 4, 62100 Putrajaya) — taken from secondary sources; confirm on an official jpj.gov.my contact page."
+  - "PUSPAKOM's status after the inspection concession was reformed in 2024 (licensed under Section 126(1) of Act 333; additional inspection firms appointed by the Ministry of Transport in 2025) — confirm the current scope and which providers are operating on an official MOT/JPJ source."
+  - "The two-month road-tax renewal window for private vehicles, and the rule that a private vehicle lapsed more than three years needs a special inspection before renewal — reported from JPJ guidelines; confirm on the current JPJ/MyGovernment page."
+updated: 2026-11-18
 sources:
   - title: "Portal Rasmi Jabatan Pengangkutan Jalan (JPJ) — Road Transport Department Malaysia"
     url: "https://www.jpj.gov.my/en/"
@@ -65,6 +74,12 @@ sources:
     url: "https://www.malaymail.com/news/malaysia/2024/09/12/a-guide-to-the-different-classes-and-categories-of-the-malaysian-driving-licence/148770"
     publisher: "Malay Mail"
     date: "2024-09-12"
+  - title: "Bidding for Vehicle Registration Numbers (JPJeBid)"
+    url: "https://www.malaysia.gov.my/en/categories/transportation/vehicle-services/bidding-for-vehicle-registration-numbers-jpjebid"
+    publisher: "MyGovernment (malaysia.gov.my), Government of Malaysia"
+  - title: "Inspection Types & Fees"
+    url: "https://www.puspakom.com.my/inspection-types-fees/"
+    publisher: "PUSPAKOM"
 entity: "Road Transport Department (Jabatan Pengangkutan Jalan, JPJ)"
 wikidata: "Q6742016"
 relations:
@@ -120,14 +135,32 @@ Because the Act is amended regularly — including periodic reviews of penalties
 JPJ has moved much of its service delivery online while keeping physical counters. Transactions can be done through:
 
 - **mySIKAP** — the public online portal (at *public.jpj.gov.my*) for renewing road tax and driving licences and other transactions.
-- **The MyJPJ app** — a mobile app that provides digital copies of the driving licence and road tax (**e-LKM**), lets users check licence status and summonses, and supports renewals. Existing mySIKAP credentials carry over to the app.
-- **JPJ counters and appointed partners** — branch offices, self-service kiosks, and partners such as Pos Malaysia and MyEG for over-the-counter renewals.
+- **The MyJPJ app** — a mobile app that provides digital copies of the driving licence and road tax (**e-LKM**), lets users check licence status and summonses, and supports renewals. Existing mySIKAP credentials carry over to the app, which also acts as a gateway to JPJ's other digital services.
+- **JPJeBid and JPJeQ** — **JPJeBid** is JPJ's online system for bidding on preferred vehicle registration numbers, and **JPJeQ** issues online queue numbers for counter visits; both are reachable from the MyJPJ gateway.
+- **JPJ counters and appointed partners** — branch offices and self-service kiosks in every state and federal territory, plus partners such as Pos Malaysia and MyEG for over-the-counter renewals.
 
 Since 2023, JPJ has issued digital road tax and digital driving licences, and physical display of the road-tax sticker is no longer mandatory for most private vehicles.
 
-## JPJ vs the traffic police
+## How road tax renewal works
 
-A common point of confusion is where JPJ ends and the police begin. JPJ is a department of the **Ministry of Transport** and handles licensing, registration, road tax and road-transport enforcement. The traffic police are a branch of the **Royal Malaysia Police ([PDRM](/government/pdrm))**, which sits under the Ministry of Home Affairs. Both enforce rules on the road — and a motorist may receive a summons from either — but they are separate agencies with different parent ministries and different core mandates. The MyJPJ app reflects this overlap by letting users view and pay both JPJ and PDRM summonses in one place.
+Renewing road tax is the JPJ transaction most motorists repeat most often, and it runs to a fixed set of conditions:
+
+- **Timing.** The LKM is renewed shortly before it expires — JPJ's guidelines set a two-month renewal window for private vehicles — for either six months or a year. The step-by-step process is covered in the [road tax renewal guide](/transport/road-tax-renewal).
+- **Insurance first.** Valid motor insurance covering the vehicle is a precondition; JPJ's systems verify it electronically before issuing the licence, so a lapsed policy blocks the renewal.
+- **Inspection where required.** Commercial vehicles must hold a current [vehicle-inspection report](/transport/puspakom-vehicle-inspections) before JPJ will renew the road tax. A private vehicle whose road tax has lapsed for more than three years must also pass a special inspection first.
+- **No outstanding blocks.** Unresolved summonses or a blacklist flag against the vehicle or owner can hold up a renewal until they are cleared.
+
+Once those conditions are met, renewal can be completed through the MyJPJ app or mySIKAP portal, at a JPJ counter or kiosk, or through appointed partners such as Pos Malaysia and MyEG.
+
+## JPJ, PUSPAKOM and the traffic police
+
+Three bodies touch the same vehicle and are easily confused. A common point of confusion is where JPJ ends and the police begin. JPJ is a department of the **Ministry of Transport** and handles licensing, registration, road tax and road-transport enforcement. The traffic police are a branch of the **Royal Malaysia Police ([PDRM](/government/pdrm))**, which sits under the Ministry of Home Affairs. Both enforce rules on the road — and a motorist may receive a summons from either — but they are separate agencies with different parent ministries and different core mandates. The MyJPJ app reflects this overlap by letting users view and pay both JPJ and PDRM summonses in one place.
+
+**PUSPAKOM** is the third name motorists meet, and it is neither JPJ nor the police. It is not a government department at all but a licensed vehicle-inspection provider operating under the Road Transport Act 1987 — for decades the sole inspection company, and, after the inspection concession was reformed in 2024, the first firm licensed under the new mechanism (with other operators since appointed). PUSPAKOM carries out the physical roadworthiness inspection that commercial and certain other vehicles must pass; JPJ does not inspect vehicles itself — it relies on the inspection result before renewing the road tax. The [PUSPAKOM inspection guide](/transport/puspakom-vehicle-inspections) explains which vehicles need it and how often.
+
+## Where to find JPJ
+
+JPJ's headquarters is in Putrajaya — in Complex D of the Federal Government Administrative Centre, on Jalan Tun Hussein in Presint 4 — and the department runs branch offices, counters and self-service kiosks in every state and federal territory, so most licensing and road-tax business can be handled close to home. A dedicated Putrajaya customer branch opened at Galeria PJH in Presint 4 in early 2025. For a specific task — renewing a licence, paying road tax, checking summonses or bidding for a plate — the MyJPJ app or your nearest JPJ office is the place to begin.
 
 ## Why it matters
 
