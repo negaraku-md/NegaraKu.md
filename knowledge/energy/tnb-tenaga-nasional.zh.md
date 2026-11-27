@@ -76,7 +76,7 @@ wikidata: "Q1584297"
 relations:
   - { rel: "related-to", to: "sabah-electricity" }
   - { rel: "related-to", to: "khazanah-nasional" }
-related: ["khazanah-nasional"]
+related: ["khazanah", "tenaga-nasional"]
 keywords: ["TNB", "Tenaga Nasional Berhad", "Lembaga Letrik Negara", "utiliti elektrik", "Grid Nasional", "Bursa Malaysia"]
 hero: '/media/energy/tnb-tenaga-nasional/hero.webp'
 heroAlt: '马来西亚一座火力发电站，烟囱矗立在密集的高压输电铁塔群之后。'

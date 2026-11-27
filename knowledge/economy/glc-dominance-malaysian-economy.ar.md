@@ -82,7 +82,7 @@ entity: "Government-Linked Investment Companies (GLICs)"
 relations:
   - { rel: "related-to", to: "khazanah-nasional-sovereign-wealth-fund" }
   - { rel: "related-to", to: "epf-kwsp-retirement-savings" }
-related: []
+related: ["glcs-and-glics-in-malaysia", "khazanah", "tenaga-nasional", "maybank", "telekom-malaysia", "sime-darby-group"]
 keywords: ["GLC", "GLIC", "Khazanah", "الشركات المرتبطة بالحكومة", "شركات الاستثمار الحكومية", "Bursa Malaysia", "PERKUKUH", "ملكية الدولة", "الاقتصاد الماليزي"]
 framework: explainer
 ---

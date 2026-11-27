@@ -76,7 +76,7 @@ wikidata: "Q1584297"
 relations:
   - { rel: "related-to", to: "sabah-electricity" }
   - { rel: "related-to", to: "khazanah-nasional" }
-related: ["khazanah-nasional"]
+related: ["khazanah", "tenaga-nasional"]
 keywords: ["TNB", "Tenaga Nasional Berhad", "Lembaga Letrik Negara", "utiliti elektrik", "Grid Nasional", "Bursa Malaysia"]
 hero: '/media/energy/tnb-tenaga-nasional/hero.webp'
 heroAlt: 'A thermal power station with chimney stacks behind a dense cluster of high-voltage transmission towers in Malaysia.'

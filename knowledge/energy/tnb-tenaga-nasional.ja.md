@@ -76,7 +76,7 @@ wikidata: "Q1584297"
 relations:
   - { rel: "related-to", to: "sabah-electricity" }
   - { rel: "related-to", to: "khazanah-nasional" }
-related: ["khazanah-nasional"]
+related: ["khazanah", "tenaga-nasional"]
 keywords: ["TNB", "Tenaga Nasional Berhad", "Lembaga Letrik Negara", "utiliti elektrik", "Grid Nasional", "Bursa Malaysia"]
 hero: '/media/energy/tnb-tenaga-nasional/hero.webp'
 heroAlt: 'マレーシアにある、密集した高圧送電鉄塔の群れの背後に煙突がそびえる火力発電所。'

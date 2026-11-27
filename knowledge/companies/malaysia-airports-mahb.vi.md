@@ -71,6 +71,7 @@ sources:
     publisher: "The Star"
 
 entity: "Malaysia Airports Holdings Berhad (MAHB)"
+wikidata: "Q4202182"
 relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["genting-group"]

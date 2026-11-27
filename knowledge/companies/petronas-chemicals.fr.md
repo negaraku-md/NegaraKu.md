@@ -74,6 +74,7 @@ sources:
     publisher: "StockAnalysis.com"
 
 entity: "Petronas Chemicals Group (PCG)"
+wikidata: "Q139388026"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "petronas" }
