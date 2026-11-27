@@ -10,9 +10,9 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "翌日物政策金利（OPR）は、マレーシア国立銀行（Bank Negara Malaysia、BNM）の基準金利であり、銀行間の翌日物貸借について同行が目標とする金利である。2026年9月3日時点で2.75%であり、2026年の金融政策委員会（MPC）による1月22日、3月5日、5月7日、7月9日、9月3日のすべての決定を通じて据え置かれている（BNM Financial Markets Investor Portal）。OPRは、銀行が基準金利（Base Rate）を設定する際の基点であり、そのため大半のマレーシア人が住宅ローンで支払い、定期預金で得る金利のもとになっている。"
+answer: "翌日物政策金利（OPR）は、マレーシア国立銀行（Bank Negara Malaysia、BNM）の基準金利であり、銀行間の翌日物貸借について同行が目標とする金利である。2026年11月5日時点で2.75%であり、2026年の金融政策委員会（MPC）による1月22日、3月5日、5月7日、7月9日、9月3日、11月5日の6回すべての決定を通じて据え置かれている。11月5日は年内最後の会合であった（BNM Financial Markets Investor Portal）。次回のMPC会合は2027年1月21日に予定されている。OPRは、銀行が基準金利（Base Rate）を設定する際の基点であり、そのため大半のマレーシア人が住宅ローンで支払い、定期預金で得る金利のもとになっている。"
 keyTakeaways:
-  - "OPRは2026年9月3日時点で2.75%であり、それまでの2026年の全MPC会合で据え置かれた"
+  - "OPRは2026年11月5日時点で2.75%であり、2026年の6回の全MPC会合で据え置かれた——11月5日の決定は年内最後で、次回会合は2027年1月21日"
   - "これはBNMが銀行間の翌日物貸借について目標とする金利であり、あなたに直接課される金利ではない"
   - "銀行はこれをもとに基準金利（Base Rate）を設定するため、数週間以内に住宅ローンや預金に波及する"
   - "MPCは公表されたスケジュールに従い、年6回会合を開く"
@@ -22,22 +22,26 @@ appliesTo: "変動金利ローンを利用する借り手、貯蓄者、そし�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "468ccecd722728f7"
+sourceContentHash: "918686f7096fef46"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 2
+    date: 2026-11-27
+    change: "Freshness update: added the 5 November 2026 MPC decision (OPR held at 2.75%), the sixth and final meeting of 2026; refreshed the currency dates and noted the next meeting on 21 January 2027. The rate is unchanged."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "OPR（翌日物政策金利）データ——金融市場投資家ポータル (OPR data — Financial Markets Investor Portal)"
     url: "https://financialmarkets.bnm.gov.my/data-download-opr"
@@ -46,6 +50,7 @@ sources:
   - title: "OPR（翌日物政策金利）の決定 (OPR Decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
     publisher: "マレーシア国立銀行（バンク・ヌガラ・マレーシア）"
+    date: "2026-11-05"
   - title: "2026年MPC（金融政策委員会）会合スケジュール (MPC Meeting Schedule 2026)"
     url: "https://www.bnm.gov.my/monetary-stability/mpc-meetings/-/tag/mpc-2026"
     publisher: "マレーシア国立銀行（バンク・ヌガラ・マレーシア）"
@@ -71,11 +76,11 @@ framework: explainer
 
 | 指標 | 数値 | 時点 | 出典 |
 | --- | --- | --- | --- |
-| 翌日物政策金利（OPR） | 2.75% | 2026年9月3日 | BNM（FMIP） |
+| 翌日物政策金利（OPR） | 2.75% | 2026年11月5日 | BNM（FMIP） |
 | MYOR（実際の翌日物金利） | 2.75% | 2026年7月23日 | BNM（FMIP） |
 | MGS 10年債利回り | 3.70% | 2026年7月24日 | BNM（FMIP） |
 
-**2026年のOPR決定（現時点まで）**
+**2026年のOPR決定**
 
 | MPC決定日 | OPR |
 | --- | --- |
@@ -84,6 +89,7 @@ framework: explainer
 | 2026年5月7日 | 2.75% |
 | 2026年7月9日 | 2.75% |
 | 2026年9月3日 | 2.75% |
+| 2026年11月5日 | 2.75% |
 
 ## あなたが実際に支払うことのない金利
 

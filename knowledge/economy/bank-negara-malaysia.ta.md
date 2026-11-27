@@ -33,7 +33,7 @@ verificationNeeded: []
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "61fb7c40d0b40295"
+sourceContentHash: "271526d56c6b2be3"
 
 status: "published"
 aiAssisted: true
@@ -41,15 +41,19 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 2
+    date: 2026-11-27
+    change: "Freshness update: updated the OPR reference to the 5 November 2026 MPC hold (2.75%), the final Monetary Policy Committee meeting of 2026. Rate unchanged."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Central Bank of Malaysia Act 2009 (Act 701), Act A1616/2020 வரையிலான திருத்தங்களை உள்ளடக்கியது (Central Bank of Malaysia Act 2009 (Act 701), incorporating amendments up to Act A1616/2020)"
     url: "https://www.bnm.gov.my/documents/20124/277ebcd5-9c21-209b-3984-170ba28351d6"
@@ -81,7 +85,7 @@ sources:
   - title: "ஒரே இரவுக் கொள்கை வட்டி முடிவுகள் (Overnight Policy Rate decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
     publisher: "மலேசிய மத்திய வங்கி"
-    date: "2026-07-09"
+    date: "2026-11-05"
   - title: "மலேசியாவில் டிஜிட்டல் சொத்துகளின் ஒழுங்குமுறை குறித்த கூட்டு அறிக்கை (Joint Statement on Regulation of Digital Assets in Malaysia)"
     url: "https://www.bnm.gov.my/-/joint-statement-on-regulation-of-digital-assets-in-malaysia"
     publisher: "மலேசிய மத்திய வங்கி மற்றும் மலேசியப் பத்திரங்கள் ஆணையம்"
@@ -188,7 +192,7 @@ BNM-இன் முடிவுகள் Governor ஒருவரிடம் �
 
 இரு நியமன விதிகள் முக்கியம்: Governor ஐந்தாண்டு பதவிக்காலத்திற்கு Yang di-Pertuan Agong ஆலும், Deputy Governors மூன்றாண்டுகளுக்கு Minister of Finance ஆலும் நியமிக்கப்படுகிறார்கள் (s.15(1), s.15(4)).
 
-MPC ஆண்டுக்குக் குறைந்தது ஆறு முறை கூட வேண்டும் (First Schedule, paragraph 3 — முதல் அட்டவணை, பத்தி 3), மேலும் ஒவ்வொரு கூட்டத்திற்குப் பிறகும் ஒரு நாணயக் கொள்கை அறிக்கையை — முடிவும் அதன் காரணமும் — வெளியிட Section 24 வங்கிக்குக் கடமையிடுகிறது. Overnight Policy Rate 2025 ஜூலை 9 அன்று செய்யப்பட்ட குறைப்பிற்குப் பிறகு 2.75% என நிலைத்திருந்தது, மேலும் அதன் பிறகு ஒவ்வொரு கூட்டத்திலும் அப்படியே வைக்கப்பட்டுள்ளது — சமீபத்தில் 2026 செப்டம்பர் 3 அன்று. அந்த ஒற்றை எண் உங்கள் கடனுக்கு எவ்வாறு பயணிக்கிறது என்பது [Overnight Policy Rate](/ta/economy/opr-monetary-policy)-இல் விவரிக்கப்பட்டுள்ளது.
+MPC ஆண்டுக்குக் குறைந்தது ஆறு முறை கூட வேண்டும் (First Schedule, paragraph 3 — முதல் அட்டவணை, பத்தி 3), மேலும் ஒவ்வொரு கூட்டத்திற்குப் பிறகும் ஒரு நாணயக் கொள்கை அறிக்கையை — முடிவும் அதன் காரணமும் — வெளியிட Section 24 வங்கிக்குக் கடமையிடுகிறது. Overnight Policy Rate 2025 ஜூலை 9 அன்று செய்யப்பட்ட குறைப்பிற்குப் பிறகு 2.75% என நிலைத்திருந்தது, மேலும் அதன் பிறகு ஒவ்வொரு கூட்டத்திலும் அப்படியே வைக்கப்பட்டுள்ளது — சமீபத்தில் 2026 நவம்பர் 5 அன்று, ஆண்டின் இறுதி பணவியல் கொள்கைக் குழு கூட்டம். அந்த ஒற்றை எண் உங்கள் கடனுக்கு எவ்வாறு பயணிக்கிறது என்பது [Overnight Policy Rate](/ta/economy/opr-monetary-policy)-இல் விவரிக்கப்பட்டுள்ளது.
 
 ## Bank Negara எவ்வளவு சுதந்திரமானது?
 

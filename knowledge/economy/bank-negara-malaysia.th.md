@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "th"
-sourceContentHash: "61fb7c40d0b40295"
+sourceContentHash: "271526d56c6b2be3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -41,15 +41,19 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 2
+    date: 2026-11-27
+    change: "Freshness update: updated the OPR reference to the 5 November 2026 MPC hold (2.75%), the final Monetary Policy Committee meeting of 2026. Rate unchanged."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Central Bank of Malaysia Act 2009 (Act 701) รวมการแก้ไขจนถึง Act A1616/2020 (Central Bank of Malaysia Act 2009 (Act 701), incorporating amendments up to Act A1616/2020)"
     url: "https://www.bnm.gov.my/documents/20124/277ebcd5-9c21-209b-3984-170ba28351d6"
@@ -81,7 +85,7 @@ sources:
   - title: "การตัดสินใจอัตราดอกเบี้ยนโยบายข้ามคืน (Overnight Policy Rate decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
     publisher: "ธนาคารกลางมาเลเซีย"
-    date: "2026-07-09"
+    date: "2026-11-05"
   - title: "แถลงการณ์ร่วมว่าด้วยการกำกับดูแลสินทรัพย์ดิจิทัลในมาเลเซีย (Joint Statement on Regulation of Digital Assets in Malaysia)"
     url: "https://www.bnm.gov.my/-/joint-statement-on-regulation-of-digital-assets-in-malaysia"
     publisher: "ธนาคารกลางมาเลเซียและคณะกรรมการกำกับหลักทรัพย์มาเลเซีย"
@@ -196,7 +200,7 @@ images:
 MPC ต้องประชุมอย่างน้อยหกครั้งต่อปี (ตารางแรก วรรค 3) และมาตรา 24 บังคับให้ธนาคารเผยแพร่
 แถลงการณ์นโยบายการเงิน คือการตัดสินใจบวกเหตุผล หลังการประชุมทุกครั้ง อัตราดอกเบี้ยนโยบาย
 ข้ามคืนอยู่ที่ 2.75% นับตั้งแต่การปรับลดเมื่อ 9 กรกฎาคม 2025 และคงไว้ไม่เปลี่ยนแปลงในการประชุม
-ทุกครั้งนับแต่นั้น — ล่าสุดเมื่อ 3 กันยายน 2026 วิธีที่ตัวเลขเดียวนั้นเดินทางสู่สินเชื่อของคุณครอบคลุมใน
+ทุกครั้งนับแต่นั้น — ล่าสุดเมื่อ 5 พฤศจิกายน 2026 ซึ่งเป็นการประชุมคณะกรรมการนโยบายการเงินครั้งสุดท้ายของปี วิธีที่ตัวเลขเดียวนั้นเดินทางสู่สินเชื่อของคุณครอบคลุมใน
 [อัตราดอกเบี้ยนโยบายข้ามคืน](/th/economy/opr-monetary-policy)
 
 ## ธนาคารกลางมาเลเซียเป็นอิสระเพียงใด?

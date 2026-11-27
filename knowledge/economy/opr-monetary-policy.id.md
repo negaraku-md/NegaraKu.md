@@ -11,9 +11,9 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "Suku Bunga Kebijakan Semalam (OPR) adalah suku bunga acuan Bank Negara Malaysia — suku bunga yang disasarkannya untuk pinjaman semalam antarbank. Suku bunga ini berada pada 2.75% per 3 September 2026, tidak berubah sepanjang setiap keputusan Komite Kebijakan Moneter 2026 — 22 Januari, 5 Maret, 7 Mei, 9 Juli, dan 3 September (BNM Financial Markets Investor Portal). OPR adalah jangkar yang menjadi dasar bank menetapkan Suku Bunga Dasar mereka, dan karena itu apa yang dibayar kebanyakan rakyat Malaysia untuk pinjaman rumah dan diperoleh dari deposito berjangka."
+answer: "Suku Bunga Kebijakan Semalam (OPR) adalah suku bunga acuan Bank Negara Malaysia — suku bunga yang disasarkannya untuk pinjaman semalam antarbank. Suku bunga ini berada pada 2.75% per 5 November 2026, tidak berubah sepanjang keenam keputusan Komite Kebijakan Moneter 2026 — 22 Januari, 5 Maret, 7 Mei, 9 Juli, 3 September, dan 5 November, yang terakhir pada tahun ini (BNM Financial Markets Investor Portal). Rapat MPC berikutnya dijadwalkan pada 21 Januari 2027. OPR adalah jangkar yang menjadi dasar bank menetapkan Suku Bunga Dasar mereka, dan karena itu apa yang dibayar kebanyakan rakyat Malaysia untuk pinjaman rumah dan diperoleh dari deposito berjangka."
 keyTakeaways:
-  - "OPR adalah 2.75% per 3 September 2026, dipertahankan pada setiap rapat MPC 2026 hingga tanggal tersebut"
+  - "OPR adalah 2.75% per 5 November 2026, dipertahankan pada keenam rapat MPC 2026 — keputusan 5 November adalah yang terakhir pada tahun ini, dengan rapat berikutnya pada 21 Januari 2027"
   - "Ini adalah suku bunga yang disasarkan BNM untuk pinjaman antarbank secara semalam — bukan suku bunga yang dikenakan langsung kepada Anda"
   - "Bank menetapkan Suku Bunga Dasar mereka berdasarkannya, jadi ia sampai ke pinjaman rumah dan deposito dalam beberapa minggu"
   - "MPC mengadakan rapat enam kali setahun mengikuti jadwal yang diterbitkan"
@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Peminjam dengan pinjaman suku bunga mengambang, penabung, dan siapa saja yang mencoba memahami berita suku bunga Malaysia."
 
 lang: "id"
-sourceContentHash: "468ccecd722728f7"
+sourceContentHash: "918686f7096fef46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -31,15 +31,19 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 2
+    date: 2026-11-27
+    change: "Freshness update: added the 5 November 2026 MPC decision (OPR held at 2.75%), the sixth and final meeting of 2026; refreshed the currency dates and noted the next meeting on 21 January 2027. The rate is unchanged."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Data OPR — Portal Investor Pasar Keuangan (OPR data — Financial Markets Investor Portal)"
     url: "https://financialmarkets.bnm.gov.my/data-download-opr"
@@ -48,6 +52,7 @@ sources:
   - title: "Keputusan OPR (OPR Decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
     publisher: "Bank Negara Malaysia"
+    date: "2026-11-05"
   - title: "Jadwal Rapat MPC 2026 (MPC Meeting Schedule 2026)"
     url: "https://www.bnm.gov.my/monetary-stability/mpc-meetings/-/tag/mpc-2026"
     publisher: "Bank Negara Malaysia"
@@ -73,11 +78,11 @@ framework: explainer
 
 | Metrik | Nilai | Per | Sumber |
 | --- | --- | --- | --- |
-| Suku Bunga Kebijakan Semalam | 2.75% | 3 September 2026 | BNM (FMIP) |
+| Suku Bunga Kebijakan Semalam | 2.75% | 5 November 2026 | BNM (FMIP) |
 | MYOR (suku bunga semalam sebenarnya) | 2.75% | 23 Juli 2026 | BNM (FMIP) |
 | Imbal hasil MGS 10 tahun | 3.70% | 24 Juli 2026 | BNM (FMIP) |
 
-**Keputusan OPR 2026 sejauh ini**
+**Keputusan OPR 2026**
 
 | Tanggal keputusan MPC | OPR |
 | --- | --- |
@@ -86,6 +91,7 @@ framework: explainer
 | 7 Mei 2026 | 2.75% |
 | 9 Juli 2026 | 2.75% |
 | 3 September 2026 | 2.75% |
+| 5 November 2026 | 2.75% |
 
 ## Suku bunga yang tidak pernah benar-benar Anda bayar
 

@@ -11,9 +11,9 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "Lãi suất Chính sách Qua đêm (Overnight Policy Rate, OPR) là lãi suất chuẩn của Bank Negara Malaysia — lãi suất mà nó nhắm tới cho việc cho vay qua đêm giữa các ngân hàng. Nó ở mức 2,75% tính đến ngày 3 tháng 9 năm 2026, không đổi qua mọi quyết định của Ủy ban Chính sách Tiền tệ năm 2026 vào ngày 22 tháng 1, 5 tháng 3, 7 tháng 5, 9 tháng 7 và 3 tháng 9 (BNM Financial Markets Investor Portal). OPR là mỏ neo mà từ đó các ngân hàng ấn định Lãi suất Cơ sở của mình, và do đó là những gì hầu hết người Malaysia trả cho một khoản vay mua nhà và thu được trên một khoản tiền gửi có kỳ hạn."
+answer: "Lãi suất Chính sách Qua đêm (Overnight Policy Rate, OPR) là lãi suất chuẩn của Bank Negara Malaysia — lãi suất mà nó nhắm tới cho việc cho vay qua đêm giữa các ngân hàng. Nó ở mức 2,75% tính đến ngày 5 tháng 11 năm 2026, không đổi qua tất cả sáu quyết định của Ủy ban Chính sách Tiền tệ năm 2026 vào ngày 22 tháng 1, 5 tháng 3, 7 tháng 5, 9 tháng 7, 3 tháng 9 và 5 tháng 11, cuộc họp cuối cùng của năm (BNM Financial Markets Investor Portal). Cuộc họp MPC tiếp theo được dự kiến vào ngày 21 tháng 1 năm 2027. OPR là mỏ neo mà từ đó các ngân hàng ấn định Lãi suất Cơ sở của mình, và do đó là những gì hầu hết người Malaysia trả cho một khoản vay mua nhà và thu được trên một khoản tiền gửi có kỳ hạn."
 keyTakeaways:
-  - "OPR là 2,75% tính đến ngày 3 tháng 9 năm 2026, được giữ nguyên tại mọi cuộc họp MPC năm 2026 cho đến ngày đó"
+  - "OPR là 2,75% tính đến ngày 5 tháng 11 năm 2026, được giữ nguyên tại cả sáu cuộc họp MPC năm 2026 — quyết định ngày 5 tháng 11 là quyết định cuối cùng của năm, với cuộc họp tiếp theo vào ngày 21 tháng 1 năm 2027"
   - "Đó là lãi suất mà BNM nhắm tới cho việc cho vay liên ngân hàng qua đêm — không phải một lãi suất bạn bị tính trực tiếp"
   - "Các ngân hàng định giá Lãi suất Cơ sở của mình từ nó, nên nó lan tới các khoản vay mua nhà và tiền gửi trong vòng vài tuần"
   - "MPC họp sáu lần một năm theo một lịch được công bố"
@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Người vay có các khoản vay lãi suất thả nổi, người tiết kiệm, và bất kỳ ai đang cố hiểu tin tức lãi suất của Malaysia."
 
 lang: "vi"
-sourceContentHash: "468ccecd722728f7"
+sourceContentHash: "918686f7096fef46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -31,15 +31,19 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 2
+    date: 2026-11-27
+    change: "Freshness update: added the 5 November 2026 MPC decision (OPR held at 2.75%), the sixth and final meeting of 2026; refreshed the currency dates and noted the next meeting on 21 January 2027. The rate is unchanged."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Dữ liệu OPR — Cổng thông tin Nhà đầu tư Thị trường Tài chính (OPR data — Financial Markets Investor Portal)"
     url: "https://financialmarkets.bnm.gov.my/data-download-opr"
@@ -48,6 +52,7 @@ sources:
   - title: "Các quyết định OPR (OPR Decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
     publisher: "Ngân hàng Trung ương Malaysia (Bank Negara Malaysia)"
+    date: "2026-11-05"
   - title: "Lịch họp MPC 2026 (MPC Meeting Schedule 2026)"
     url: "https://www.bnm.gov.my/monetary-stability/mpc-meetings/-/tag/mpc-2026"
     publisher: "Ngân hàng Trung ương Malaysia (Bank Negara Malaysia)"
@@ -73,11 +78,11 @@ framework: explainer
 
 | Chỉ tiêu | Giá trị | Tính đến | Nguồn |
 | --- | --- | --- | --- |
-| Lãi suất Chính sách Qua đêm | 2,75% | 3 tháng 9 năm 2026 | BNM (FMIP) |
+| Lãi suất Chính sách Qua đêm | 2,75% | 5 tháng 11 năm 2026 | BNM (FMIP) |
 | MYOR (lãi suất qua đêm thực tế) | 2,75% | 23 tháng 7 năm 2026 | BNM (FMIP) |
 | Lợi suất MGS kỳ hạn 10 năm | 3,70% | 24 tháng 7 năm 2026 | BNM (FMIP) |
 
-**Các quyết định OPR năm 2026 cho đến nay**
+**Các quyết định OPR năm 2026**
 
 | Ngày quyết định của MPC | OPR |
 | --- | --- |
@@ -86,6 +91,7 @@ framework: explainer
 | 7 tháng 5 năm 2026 | 2,75% |
 | 9 tháng 7 năm 2026 | 2,75% |
 | 3 tháng 9 năm 2026 | 2,75% |
+| 5 tháng 11 năm 2026 | 2,75% |
 
 ## Một lãi suất bạn không bao giờ thực sự trả
 

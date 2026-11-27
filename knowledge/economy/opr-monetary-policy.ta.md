@@ -11,9 +11,9 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "இரவுநேரக் கொள்கை வீதம் (Overnight Policy Rate, OPR) என்பது வங்கி நெகாரா மலேசியாவின் (Bank Negara Malaysia, BNM) அளவுகோல் வட்டி வீதமாகும் — வங்கிகளுக்கு இடையிலான இரவுநேரக் கடன் வழங்கலுக்கு அது இலக்காக வைத்திருக்கும் வீதம். 2026 செப்டம்பர் 3 நிலவரப்படி இது 2.75% ஆக இருந்தது, 2026 ஜனவரி 22, மார்ச் 5, மே 7, ஜூலை 9 மற்றும் செப்டம்பர் 3 ஆகிய ஒவ்வொரு பணவியல் கொள்கைக் குழு (Monetary Policy Committee, MPC) முடிவிலும் மாறாமல் இருந்தது (BNM Financial Markets Investor Portal). வங்கிகள் தங்கள் அடிப்படை வீதத்தை (Base Rate, BR) நிர்ணயிக்கும் நங்கூரமாக OPR அமைகிறது, எனவே பெரும்பாலான மலேசியர்கள் வீட்டுக் கடனில் செலுத்துவதையும் நிலையான வைப்பில் ஈட்டுவதையும் இதுவே தீர்மானிக்கிறது."
+answer: "இரவுநேரக் கொள்கை வீதம் (Overnight Policy Rate, OPR) என்பது வங்கி நெகாரா மலேசியாவின் (Bank Negara Malaysia, BNM) அளவுகோல் வட்டி வீதமாகும் — வங்கிகளுக்கு இடையிலான இரவுநேரக் கடன் வழங்கலுக்கு அது இலக்காக வைத்திருக்கும் வீதம். 2026 நவம்பர் 5 நிலவரப்படி இது 2.75% ஆக இருந்தது, 2026 ஜனவரி 22, மார்ச் 5, மே 7, ஜூலை 9, செப்டம்பர் 3 மற்றும் நவம்பர் 5 ஆகிய ஆறு பணவியல் கொள்கைக் குழு (Monetary Policy Committee, MPC) முடிவுகள் ஒவ்வொன்றிலும் மாறாமல் இருந்தது — நவம்பர் 5 ஆண்டின் கடைசி முடிவாகும் (BNM Financial Markets Investor Portal). அடுத்த MPC கூட்டம் 2027 ஜனவரி 21 அன்று திட்டமிடப்பட்டுள்ளது. வங்கிகள் தங்கள் அடிப்படை வீதத்தை (Base Rate, BR) நிர்ணயிக்கும் நங்கூரமாக OPR அமைகிறது, எனவே பெரும்பாலான மலேசியர்கள் வீட்டுக் கடனில் செலுத்துவதையும் நிலையான வைப்பில் ஈட்டுவதையும் இதுவே தீர்மானிக்கிறது."
 keyTakeaways:
-  - "2026 செப்டம்பர் 3 நிலவரப்படி OPR 2.75% ஆக இருந்தது, அந்தத் தேதி வரையிலான ஒவ்வொரு 2026 MPC கூட்டத்திலும் அப்படியே வைத்திருக்கப்பட்டது"
+  - "2026 நவம்பர் 5 நிலவரப்படி OPR 2.75% ஆக இருந்தது, ஆறு 2026 MPC கூட்டங்கள் அனைத்திலும் அப்படியே வைத்திருக்கப்பட்டது — நவம்பர் 5 முடிவு ஆண்டின் கடைசியாகும், அடுத்த கூட்டம் 2027 ஜனவரி 21 அன்று"
   - "இது வங்கிகளுக்கு இடையிலான இரவுநேரக் கடன் வழங்கலுக்கு BNM இலக்காக வைத்திருக்கும் வீதம் — உங்களிடம் நேரடியாக வசூலிக்கப்படும் வீதம் அல்ல"
   - "வங்கிகள் தங்கள் அடிப்படை வீதத்தை இதை அடிப்படையாகக் கொண்டு நிர்ணயிக்கின்றன, எனவே இது சில வாரங்களுக்குள் வீட்டுக் கடன்களையும் வைப்புகளையும் சென்றடைகிறது"
   - "MPC ஆண்டுக்கு ஆறு முறை, வெளியிடப்பட்ட அட்டவணைப்படி கூடுகிறது"
@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "மிதக்கும்-வீதக் கடன்களைக் கொண்ட கடன் வாங்குபவர்கள், சேமிப்பாளர்கள், மற்றும் மலேசிய வட்டி வீத செய்திகளைப் புரிந்துகொள்ள முயற்சிக்கும் எவரும்."
 
 lang: "ta"
-sourceContentHash: "468ccecd722728f7"
+sourceContentHash: "918686f7096fef46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -31,15 +31,19 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 2
+    date: 2026-11-27
+    change: "Freshness update: added the 5 November 2026 MPC decision (OPR held at 2.75%), the sixth and final meeting of 2026; refreshed the currency dates and noted the next meeting on 21 January 2027. The rate is unchanged."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "OPR தரவு — நிதிச் சந்தை முதலீட்டாளர் போர்டல் (OPR data — Financial Markets Investor Portal)"
     url: "https://financialmarkets.bnm.gov.my/data-download-opr"
@@ -48,6 +52,7 @@ sources:
   - title: "OPR முடிவுகள் (OPR Decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
     publisher: "மலேசிய மத்திய வங்கி (பான்க் நெகாரா மலேசியா)"
+    date: "2026-11-05"
   - title: "MPC கூட்ட அட்டவணை 2026 (MPC Meeting Schedule 2026)"
     url: "https://www.bnm.gov.my/monetary-stability/mpc-meetings/-/tag/mpc-2026"
     publisher: "மலேசிய மத்திய வங்கி (பான்க் நெகாரா மலேசியா)"
@@ -73,11 +78,11 @@ framework: explainer
 
 | அளவீடு | மதிப்பு | நிலவரத் தேதி | ஆதாரம் |
 | --- | --- | --- | --- |
-| இரவுநேரக் கொள்கை வீதம் (OPR) | 2.75% | 3 September 2026 | BNM (FMIP) |
+| இரவுநேரக் கொள்கை வீதம் (OPR) | 2.75% | 5 November 2026 | BNM (FMIP) |
 | MYOR (உண்மையான இரவுநேர வீதம்) | 2.75% | 23 July 2026 | BNM (FMIP) |
 | MGS 10-ஆண்டு ஈட்டுவீதம் | 3.70% | 24 July 2026 | BNM (FMIP) |
 
-**இதுவரையிலான 2026 OPR முடிவுகள்**
+**2026 OPR முடிவுகள்**
 
 | MPC முடிவுத் தேதி | OPR |
 | --- | --- |
@@ -86,6 +91,7 @@ framework: explainer
 | 7 May 2026 | 2.75% |
 | 9 July 2026 | 2.75% |
 | 3 September 2026 | 2.75% |
+| 5 November 2026 | 2.75% |
 
 ## நீங்கள் உண்மையில் ஒருபோதும் செலுத்தாத ஒரு வீதம்
 

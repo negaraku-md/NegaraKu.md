@@ -11,9 +11,9 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "Kadar Dasar Semalaman (OPR) ialah kadar faedah penanda aras Bank Negara Malaysia — kadar yang disasarkannya untuk pinjaman semalaman antara bank. Ia berada pada 2.75% setakat 3 September 2026, tidak berubah sepanjang setiap keputusan Jawatankuasa Dasar Monetari 2026 — 22 Januari, 5 Mac, 7 Mei, 9 Julai dan 3 September (BNM Financial Markets Investor Portal). OPR ialah sauh yang menjadi asas bank menetapkan Kadar Asas mereka, dan oleh itu apa yang dibayar oleh kebanyakan rakyat Malaysia untuk pinjaman perumahan dan diperoleh daripada deposit tetap."
+answer: "Kadar Dasar Semalaman (OPR) ialah kadar faedah penanda aras Bank Negara Malaysia — kadar yang disasarkannya untuk pinjaman semalaman antara bank. Ia berada pada 2.75% setakat 5 November 2026, tidak berubah sepanjang kesemua enam keputusan Jawatankuasa Dasar Monetari 2026 — 22 Januari, 5 Mac, 7 Mei, 9 Julai, 3 September dan 5 November, yang terakhir bagi tahun ini (BNM Financial Markets Investor Portal). Mesyuarat MPC seterusnya dijadualkan pada 21 Januari 2027. OPR ialah sauh yang menjadi asas bank menetapkan Kadar Asas mereka, dan oleh itu apa yang dibayar oleh kebanyakan rakyat Malaysia untuk pinjaman perumahan dan diperoleh daripada deposit tetap."
 keyTakeaways:
-  - "OPR ialah 2.75% setakat 3 September 2026, dikekalkan pada setiap mesyuarat MPC 2026 sehingga tarikh tersebut"
+  - "OPR ialah 2.75% setakat 5 November 2026, dikekalkan pada kesemua enam mesyuarat MPC 2026 — keputusan 5 November merupakan yang terakhir bagi tahun ini, dengan mesyuarat seterusnya pada 21 Januari 2027"
   - "Ia adalah kadar yang disasarkan BNM untuk pinjaman antara bank secara semalaman — bukan kadar yang dikenakan terus ke atas anda"
   - "Bank menetapkan Kadar Asas mereka berdasarkannya, jadi ia sampai kepada pinjaman perumahan dan deposit dalam masa beberapa minggu"
   - "MPC bermesyuarat enam kali setahun mengikut jadual yang diterbitkan"
@@ -23,7 +23,7 @@ appliesTo: "Peminjam dengan pinjaman kadar apungan, penyimpan, dan sesiapa yang 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "468ccecd722728f7"
+sourceContentHash: "918686f7096fef46"
 
 status: "published"
 aiAssisted: true
@@ -31,15 +31,19 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 2
+    date: 2026-11-27
+    change: "Freshness update: added the 5 November 2026 MPC decision (OPR held at 2.75%), the sixth and final meeting of 2026; refreshed the currency dates and noted the next meeting on 21 January 2027. The rate is unchanged."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Data OPR — Portal Pelabur Pasaran Kewangan (OPR data — Financial Markets Investor Portal)"
     url: "https://financialmarkets.bnm.gov.my/data-download-opr"
@@ -48,6 +52,7 @@ sources:
   - title: "Keputusan OPR (OPR Decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
     publisher: "Bank Negara Malaysia"
+    date: "2026-11-05"
   - title: "Jadual Mesyuarat MPC 2026 (MPC Meeting Schedule 2026)"
     url: "https://www.bnm.gov.my/monetary-stability/mpc-meetings/-/tag/mpc-2026"
     publisher: "Bank Negara Malaysia"
@@ -73,11 +78,11 @@ framework: explainer
 
 | Metrik | Nilai | Setakat | Sumber |
 | --- | --- | --- | --- |
-| Kadar Dasar Semalaman | 2.75% | 3 September 2026 | BNM (FMIP) |
+| Kadar Dasar Semalaman | 2.75% | 5 November 2026 | BNM (FMIP) |
 | MYOR (kadar semalaman sebenar) | 2.75% | 23 Julai 2026 | BNM (FMIP) |
 | Hasil MGS 10 tahun | 3.70% | 24 Julai 2026 | BNM (FMIP) |
 
-**Keputusan OPR 2026 setakat ini**
+**Keputusan OPR 2026**
 
 | Tarikh keputusan MPC | OPR |
 | --- | --- |
@@ -86,6 +91,7 @@ framework: explainer
 | 7 Mei 2026 | 2.75% |
 | 9 Julai 2026 | 2.75% |
 | 3 September 2026 | 2.75% |
+| 5 November 2026 | 2.75% |
 
 ## Kadar yang anda tidak pernah benar-benar bayar
 

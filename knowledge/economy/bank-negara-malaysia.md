@@ -40,7 +40,7 @@ reviewer: null
 reviewed: "2026-10-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-04-25
-revision: 1
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
@@ -50,9 +50,13 @@ revisions:
     date: 2026-10-25
     change: "Review-due refresh: verified Governor + statutory basis unchanged; updated OPR to the 3 September 2026 MPC hold (2.75%)."
     reviewer: null
+  - revision: 2
+    date: 2026-11-27
+    change: "Freshness update: updated the OPR reference to the 5 November 2026 MPC hold (2.75%), the final Monetary Policy Committee meeting of 2026. Rate unchanged."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-10-25
+updated: 2026-11-27
 sources:
   - title: "Central Bank of Malaysia Act 2009 (Act 701), incorporating amendments up to Act A1616/2020"
     url: "https://www.bnm.gov.my/documents/20124/277ebcd5-9c21-209b-3984-170ba28351d6"
@@ -84,7 +88,7 @@ sources:
   - title: "Overnight Policy Rate decisions"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
     publisher: "Bank Negara Malaysia"
-    date: "2026-09-03"
+    date: "2026-11-05"
   - title: "Joint Statement on Regulation of Digital Assets in Malaysia"
     url: "https://www.bnm.gov.my/-/joint-statement-on-regulation-of-digital-assets-in-malaysia"
     publisher: "Bank Negara Malaysia and Securities Commission Malaysia"
@@ -203,7 +207,8 @@ The MPC must meet at least six times a year (First Schedule, paragraph 3), and
 section 24 obliges the Bank to publish a monetary policy statement — decision
 plus rationale — after every meeting. The Overnight Policy Rate has stood at
 2.75% since the 25-basis-point cut on 9 July 2025, and has been held at every
-meeting since — most recently on 3 September 2026. How that single number
+meeting since — most recently on 5 November 2026, the final Monetary Policy
+Committee meeting of the year. How that single number
 travels to your loan is covered in
 [the Overnight Policy Rate](/en/economy/opr-monetary-policy).
 

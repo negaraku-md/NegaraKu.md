@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "hi"
-sourceContentHash: "61fb7c40d0b40295"
+sourceContentHash: "271526d56c6b2be3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -41,15 +41,19 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 2
+    date: 2026-11-27
+    change: "Freshness update: updated the OPR reference to the 5 November 2026 MPC hold (2.75%), the final Monetary Policy Committee meeting of 2026. Rate unchanged."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "मलेशिया केंद्रीय बैंक अधिनियम 2009 (Act 701), Act A1616/2020 तक के संशोधनों सहित (Central Bank of Malaysia Act 2009 (Act 701), incorporating amendments up to Act A1616/2020)"
     url: "https://www.bnm.gov.my/documents/20124/277ebcd5-9c21-209b-3984-170ba28351d6"
@@ -81,7 +85,7 @@ sources:
   - title: "रातोंरात नीति दर निर्णय (Overnight Policy Rate decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
     publisher: "बैंक नेगारा मलेशिया (BNM)"
-    date: "2026-07-09"
+    date: "2026-11-05"
   - title: "मलेशिया में डिजिटल संपत्तियों के विनियमन पर संयुक्त वक्तव्य (Joint Statement on Regulation of Digital Assets in Malaysia)"
     url: "https://www.bnm.gov.my/-/joint-statement-on-regulation-of-digital-assets-in-malaysia"
     publisher: "बैंक नेगारा मलेशिया (BNM) और मलेशिया प्रतिभूति आयोग (SC)"
@@ -199,7 +203,7 @@ BNM के निर्णय जानबूझकर वैधानिक न
 MPC को वर्ष में कम-से-कम छह बार बैठक करनी होती है (प्रथम अनुसूची, अनुच्छेद 3),
 और धारा 24 बैंक को हर बैठक के बाद एक मौद्रिक नीति वक्तव्य — निर्णय के साथ उसका
 तर्क — प्रकाशित करने के लिए बाध्य करती है। रातोंरात नीति दर 9 जुलाई 2025 की कटौती
-के बाद से 2.75% पर रही है और तब से हर बैठक में अपरिवर्तित रखी गई है — सबसे हाल में 3 सितंबर 2026 को। यह
+के बाद से 2.75% पर रही है और तब से हर बैठक में अपरिवर्तित रखी गई है — सबसे हाल में 5 नवंबर 2026 को, जो वर्ष की अंतिम मौद्रिक नीति समिति बैठक थी। यह
 एकल संख्या आपके ऋण तक कैसे पहुँचती है, यह
 [रातोंरात नीति दर](/en/economy/opr-monetary-policy) में शामिल है।
 

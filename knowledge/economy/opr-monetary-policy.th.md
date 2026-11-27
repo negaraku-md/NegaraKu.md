@@ -11,9 +11,9 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "อัตราดอกเบี้ยนโยบายข้ามคืน (Overnight Policy Rate, OPR) เป็นอัตราดอกเบี้ยอ้างอิงของธนาคารกลางมาเลเซีย (Bank Negara Malaysia) ซึ่งเป็นอัตราที่ธนาคารกลางกำหนดเป้าหมายสำหรับการกู้ยืมข้ามคืนระหว่างธนาคาร OPR อยู่ที่ 2.75% ณ วันที่ 3 กันยายน 2026 ไม่เปลี่ยนแปลงตลอดทุกการตัดสินใจของคณะกรรมการนโยบายการเงินในปี 2026 เมื่อวันที่ 22 มกราคม 5 มีนาคม 7 พฤษภาคม 9 กรกฎาคม และ 3 กันยายน (BNM Financial Markets Investor Portal) OPR เป็นสมอที่ธนาคารต่าง ๆ ใช้กำหนดอัตราดอกเบี้ยฐาน (Base Rate) และจึงเป็นสิ่งที่ชาวมาเลเซียส่วนใหญ่จ่ายสำหรับสินเชื่อบ้านและได้รับจากเงินฝากประจำ"
+answer: "อัตราดอกเบี้ยนโยบายข้ามคืน (Overnight Policy Rate, OPR) เป็นอัตราดอกเบี้ยอ้างอิงของธนาคารกลางมาเลเซีย (Bank Negara Malaysia) ซึ่งเป็นอัตราที่ธนาคารกลางกำหนดเป้าหมายสำหรับการกู้ยืมข้ามคืนระหว่างธนาคาร OPR อยู่ที่ 2.75% ณ วันที่ 5 พฤศจิกายน 2026 ไม่เปลี่ยนแปลงตลอดทั้งหกการตัดสินใจของคณะกรรมการนโยบายการเงินในปี 2026 เมื่อวันที่ 22 มกราคม 5 มีนาคม 7 พฤษภาคม 9 กรกฎาคม 3 กันยายน และ 5 พฤศจิกายน ซึ่งเป็นครั้งสุดท้ายของปี (BNM Financial Markets Investor Portal) การประชุม MPC ครั้งถัดไปมีกำหนดในวันที่ 21 มกราคม 2027 OPR เป็นสมอที่ธนาคารต่าง ๆ ใช้กำหนดอัตราดอกเบี้ยฐาน (Base Rate) และจึงเป็นสิ่งที่ชาวมาเลเซียส่วนใหญ่จ่ายสำหรับสินเชื่อบ้านและได้รับจากเงินฝากประจำ"
 keyTakeaways:
-  - "OPR อยู่ที่ 2.75% ณ วันที่ 3 กันยายน 2026 คงไว้ในทุกการประชุม MPC ปี 2026 จนถึงวันนั้น"
+  - "OPR อยู่ที่ 2.75% ณ วันที่ 5 พฤศจิกายน 2026 คงไว้ในทุกการประชุม MPC ปี 2026 ทั้งหกครั้ง โดยการตัดสินใจเมื่อ 5 พฤศจิกายนเป็นครั้งสุดท้ายของปี การประชุมครั้งถัดไปในวันที่ 21 มกราคม 2027"
   - "เป็นอัตราที่ BNM กำหนดเป้าหมายสำหรับการกู้ยืมข้ามคืนระหว่างธนาคาร ไม่ใช่อัตราที่คุณถูกคิดโดยตรง"
   - "ธนาคารกำหนดอัตราดอกเบี้ยฐานจากมัน จึงส่งถึงสินเชื่อบ้านและเงินฝากภายในไม่กี่สัปดาห์"
   - "MPC ประชุมหกครั้งต่อปีตามกำหนดการที่เผยแพร่"
@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "ผู้กู้ที่มีสินเชื่ออัตราลอยตัว ผู้ออม และผู้ที่พยายามเข้าใจข่าวอัตราดอกเบี้ยของมาเลเซีย"
 
 lang: "th"
-sourceContentHash: "468ccecd722728f7"
+sourceContentHash: "918686f7096fef46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -31,15 +31,19 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 2
+    date: 2026-11-27
+    change: "Freshness update: added the 5 November 2026 MPC decision (OPR held at 2.75%), the sixth and final meeting of 2026; refreshed the currency dates and noted the next meeting on 21 January 2027. The rate is unchanged."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "ข้อมูล OPR (อัตราดอกเบี้ยนโยบายข้ามคืน) — พอร์ทัลนักลงทุนตลาดการเงิน (OPR data — Financial Markets Investor Portal)"
     url: "https://financialmarkets.bnm.gov.my/data-download-opr"
@@ -48,6 +52,7 @@ sources:
   - title: "มติ OPR (OPR Decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
     publisher: "ธนาคารกลางมาเลเซีย"
+    date: "2026-11-05"
   - title: "กำหนดการประชุม MPC 2026 (MPC Meeting Schedule 2026)"
     url: "https://www.bnm.gov.my/monetary-stability/mpc-meetings/-/tag/mpc-2026"
     publisher: "ธนาคารกลางมาเลเซีย"
@@ -73,11 +78,11 @@ framework: explainer
 
 | ตัวชี้วัด | ค่า | ณ วันที่ | แหล่งที่มา |
 | --- | --- | --- | --- |
-| อัตราดอกเบี้ยนโยบายข้ามคืน | 2.75% | 3 กันยายน 2026 | BNM (FMIP) |
+| อัตราดอกเบี้ยนโยบายข้ามคืน | 2.75% | 5 พฤศจิกายน 2026 | BNM (FMIP) |
 | MYOR (อัตราข้ามคืนที่แท้จริง) | 2.75% | 23 กรกฎาคม 2026 | BNM (FMIP) |
 | อัตราผลตอบแทน MGS อายุ 10 ปี | 3.70% | 24 กรกฎาคม 2026 | BNM (FMIP) |
 
-**การตัดสินใจ OPR ปี 2026 จนถึงปัจจุบัน**
+**การตัดสินใจ OPR ปี 2026**
 
 | วันที่ตัดสินใจของ MPC | OPR |
 | --- | --- |
@@ -86,6 +91,7 @@ framework: explainer
 | 7 พฤษภาคม 2026 | 2.75% |
 | 9 กรกฎาคม 2026 | 2.75% |
 | 3 กันยายน 2026 | 2.75% |
+| 5 พฤศจิกายน 2026 | 2.75% |
 
 ## อัตราที่คุณไม่เคยจ่ายจริง
 

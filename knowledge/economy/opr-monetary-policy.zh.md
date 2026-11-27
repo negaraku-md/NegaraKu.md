@@ -10,9 +10,9 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "隔夜政策利率（OPR）是大马国家银行（Bank Negara Malaysia，BNM）的基准利率——即其针对银行间隔夜拆借所设定的目标利率。截至 2026 年 9 月 3 日，该利率维持在 2.75%，在 2026 年 1 月 22 日、3 月 5 日、5 月 7 日、7 月 9 日与 9 月 3 日的每一次货币政策委员会（MPC）决策中均保持不变（BNM Financial Markets Investor Portal）。OPR 是银行厘定其基本利率（Base Rate，BR）的锚点，因此也是大多数马来西亚人在房屋贷款上所支付、以及在定期存款上所获得的利率的依据。"
+answer: "隔夜政策利率（OPR）是大马国家银行（Bank Negara Malaysia，BNM）的基准利率——即其针对银行间隔夜拆借所设定的目标利率。截至 2026 年 11 月 5 日，该利率维持在 2.75%，在 2026 年 1 月 22 日、3 月 5 日、5 月 7 日、7 月 9 日、9 月 3 日与 11 月 5 日全部六次货币政策委员会（MPC）决策中均保持不变——11 月 5 日为本年度最后一次（BNM Financial Markets Investor Portal）。下一次 MPC 会议定于 2027 年 1 月 21 日举行。OPR 是银行厘定其基本利率（Base Rate，BR）的锚点，因此也是大多数马来西亚人在房屋贷款上所支付、以及在定期存款上所获得的利率的依据。"
 keyTakeaways:
-  - "截至 2026 年 9 月 3 日，OPR 为 2.75%，在此之前 2026 年每一次 MPC 会议均维持不变"
+  - "截至 2026 年 11 月 5 日，OPR 为 2.75%，在 2026 年全部六次 MPC 会议上均维持不变——11 月 5 日的决议为本年度最后一次，下一次会议为 2027 年 1 月 21 日"
   - "这是 BNM 针对银行间隔夜拆借所设定的目标利率——并非直接向你收取的利率"
   - "银行依据它厘定各自的基本利率，因此几周之内便会传导至房屋贷款与存款"
   - "MPC 每年按公布的时间表召开六次会议"
@@ -22,7 +22,7 @@ appliesTo: "持有浮动利率贷款的借款人、储蓄者，以及任何想�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "468ccecd722728f7"
+sourceContentHash: "918686f7096fef46"
 
 status: "published"
 aiAssisted: true
@@ -30,15 +30,19 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 2
+    date: 2026-11-27
+    change: "Freshness update: added the 5 November 2026 MPC decision (OPR held at 2.75%), the sixth and final meeting of 2026; refreshed the currency dates and noted the next meeting on 21 January 2027. The rate is unchanged."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "隔夜政策利率数据——金融市场投资者门户 (OPR data — Financial Markets Investor Portal)"
     url: "https://financialmarkets.bnm.gov.my/data-download-opr"
@@ -47,6 +51,7 @@ sources:
   - title: "隔夜政策利率决议 (OPR Decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
     publisher: "马来西亚国家银行"
+    date: "2026-11-05"
   - title: "2026年货币政策委员会会议日程 (MPC Meeting Schedule 2026)"
     url: "https://www.bnm.gov.my/monetary-stability/mpc-meetings/-/tag/mpc-2026"
     publisher: "马来西亚国家银行"
@@ -72,11 +77,11 @@ framework: explainer
 
 | 指标 | 数值 | 截至 | 来源 |
 | --- | --- | --- | --- |
-| 隔夜政策利率 | 2.75% | 2026 年 9 月 3 日 | BNM（FMIP） |
+| 隔夜政策利率 | 2.75% | 2026 年 11 月 5 日 | BNM（FMIP） |
 | MYOR（实际隔夜利率） | 2.75% | 2026 年 7 月 23 日 | BNM（FMIP） |
 | MGS 10 年期收益率 | 3.70% | 2026 年 7 月 24 日 | BNM（FMIP） |
 
-**2026 年迄今的 OPR 决策**
+**2026 年的 OPR 决策**
 
 | MPC 决策日期 | OPR |
 | --- | --- |
@@ -85,6 +90,7 @@ framework: explainer
 | 2026 年 5 月 7 日 | 2.75% |
 | 2026 年 7 月 9 日 | 2.75% |
 | 2026 年 9 月 3 日 | 2.75% |
+| 2026 年 11 月 5 日 | 2.75% |
 
 ## 一个你从未真正支付的利率
 

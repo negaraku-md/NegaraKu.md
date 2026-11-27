@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "fr"
-sourceContentHash: "61fb7c40d0b40295"
+sourceContentHash: "271526d56c6b2be3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -41,15 +41,19 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 2
+    date: 2026-11-27
+    change: "Freshness update: updated the OPR reference to the 5 November 2026 MPC hold (2.75%), the final Monetary Policy Committee meeting of 2026. Rate unchanged."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Central Bank of Malaysia Act 2009 (Act 701), intégrant les amendements jusqu'à l'Act A1616/2020 (Central Bank of Malaysia Act 2009 (Act 701), incorporating amendments up to Act A1616/2020)"
     url: "https://www.bnm.gov.my/documents/20124/277ebcd5-9c21-209b-3984-170ba28351d6"
@@ -81,7 +85,7 @@ sources:
   - title: "Décisions sur le taux directeur au jour le jour (Overnight Policy Rate decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
     publisher: "Bank Negara Malaysia"
-    date: "2026-07-09"
+    date: "2026-11-05"
   - title: "Déclaration conjointe sur la réglementation des actifs numériques en Malaisie (Joint Statement on Regulation of Digital Assets in Malaysia)"
     url: "https://www.bnm.gov.my/-/joint-statement-on-regulation-of-digital-assets-in-malaysia"
     publisher: "Bank Negara Malaysia et Commission des valeurs mobilières de la Malaisie (SC)"
@@ -201,7 +205,7 @@ Le MPC doit se réunir au moins six fois par an (Première annexe, paragraphe 3)
 et la Section 24 oblige la Banque à publier une déclaration de politique
 monétaire — décision plus justification — après chaque réunion. Le taux directeur
 au jour le jour s'établit à 2.75% depuis la baisse du 9 juillet 2025 et est resté
-inchangé à chaque réunion depuis lors — la plus récente le 3 septembre 2026. La manière dont ce seul chiffre
+inchangé à chaque réunion depuis lors — la plus récente le 5 novembre 2026, la dernière réunion du Comité de politique monétaire de l'année. La manière dont ce seul chiffre
 parvient jusqu'à votre prêt est traitée dans
 [le taux directeur au jour le jour](/fr/economy/opr-monetary-policy).
 

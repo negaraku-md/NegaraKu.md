@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "zh"
-sourceContentHash: "61fb7c40d0b40295"
+sourceContentHash: "271526d56c6b2be3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -41,15 +41,19 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 2
+    date: 2026-11-27
+    change: "Freshness update: updated the OPR reference to the 5 November 2026 MPC hold (2.75%), the final Monetary Policy Committee meeting of 2026. Rate unchanged."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Central Bank of Malaysia Act 2009 (Act 701)，纳入至 Act A1616/2020 的修订 (Central Bank of Malaysia Act 2009 (Act 701), incorporating amendments up to Act A1616/2020)"
     url: "https://www.bnm.gov.my/documents/20124/277ebcd5-9c21-209b-3984-170ba28351d6"
@@ -81,7 +85,7 @@ sources:
   - title: "隔夜政策利率决议 (Overnight Policy Rate decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
     publisher: "马来西亚国家银行"
-    date: "2026-07-09"
+    date: "2026-11-05"
   - title: "关于马来西亚数字资产监管的联合声明 (Joint Statement on Regulation of Digital Assets in Malaysia)"
     url: "https://www.bnm.gov.my/-/joint-statement-on-regulation-of-digital-assets-in-malaysia"
     publisher: "马来西亚国家银行与马来西亚证券监督委员会"
@@ -195,7 +199,7 @@ BNM 的决策刻意分散于多个法定机构之间，而非集中在总裁一�
 
 MPC 每年须至少召开六次会议（First Schedule（第一附表）第 3 段），第 24 条则
 要求该局在每次会议后发布货币政策声明——决议连同理据。隔夜政策利率自 2025 年
-7 月 9 日调降以来一直维持在 2.75%，并在此后的每一次会议上维持不变——最近一次是在 2026 年 9 月 3 日。这
+7 月 9 日调降以来一直维持在 2.75%，并在此后的每一次会议上维持不变——最近一次是在 2026 年 11 月 5 日，即本年度最后一次货币政策委员会会议。这
 个单一数字如何影响你的贷款，详见
 [隔夜政策利率](/zh/economy/opr-monetary-policy)。
 

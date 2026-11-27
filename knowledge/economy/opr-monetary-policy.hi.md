@@ -10,9 +10,9 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "ओवरनाइट पॉलिसी रेट (OPR) बैंक नेगारा मलेशिया की बेंचमार्क ब्याज दर है — वह दर जिसे वह बैंकों के बीच रातोंरात उधारी के लिए लक्षित करता है। 3 सितंबर 2026 तक यह 2.75% पर रहा, जो 22 जनवरी, 5 मार्च, 7 मई, 9 जुलाई और 3 सितंबर को 2026 की मौद्रिक नीति समिति के हर निर्णय में अपरिवर्तित रहा (BNM फ़ाइनेंशियल मार्केट्स इन्वेस्टर पोर्टल)। OPR वह आधार है जिससे बैंक अपनी आधार दर तय करते हैं, और इसलिए अधिकांश मलेशियाई जो बंधक ऋण पर चुकाते हैं और सावधि जमा पर कमाते हैं।"
+answer: "ओवरनाइट पॉलिसी रेट (OPR) बैंक नेगारा मलेशिया की बेंचमार्क ब्याज दर है — वह दर जिसे वह बैंकों के बीच रातोंरात उधारी के लिए लक्षित करता है। 5 नवंबर 2026 तक यह 2.75% पर रहा, जो 22 जनवरी, 5 मार्च, 7 मई, 9 जुलाई, 3 सितंबर और 5 नवंबर को 2026 की मौद्रिक नीति समिति के सभी छह निर्णयों में अपरिवर्तित रहा — 5 नवंबर वर्ष का अंतिम था (BNM फ़ाइनेंशियल मार्केट्स इन्वेस्टर पोर्टल)। अगली MPC बैठक 21 जनवरी 2027 को निर्धारित है। OPR वह आधार है जिससे बैंक अपनी आधार दर तय करते हैं, और इसलिए अधिकांश मलेशियाई जो बंधक ऋण पर चुकाते हैं और सावधि जमा पर कमाते हैं।"
 keyTakeaways:
-  - "3 सितंबर 2026 तक OPR 2.75% था, जो उस तिथि तक 2026 की हर MPC बैठक में यथावत रखा गया"
+  - "5 नवंबर 2026 तक OPR 2.75% था, जो 2026 की सभी छह MPC बैठकों में यथावत रखा गया — 5 नवंबर का निर्णय वर्ष का अंतिम था, अगली बैठक 21 जनवरी 2027 को"
   - "यह वह दर है जिसे BNM रातोंरात अंतर-बैंक उधारी के लिए लक्षित करता है — ऐसी दर नहीं जो आपसे सीधे वसूली जाती है"
   - "बैंक अपनी आधार दर इसी पर तय करते हैं, इसलिए यह हफ़्तों के भीतर बंधक ऋणों और जमाओं तक पहुँचती है"
   - "MPC एक प्रकाशित कार्यक्रम पर वर्ष में छह बार बैठक करती है"
@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "अस्थायी-दर ऋण वाले उधारकर्ता, बचतकर्ता, और कोई भी जो मलेशियाई ब्याज दर समाचार को समझना चाहता है।"
 
 lang: "hi"
-sourceContentHash: "468ccecd722728f7"
+sourceContentHash: "918686f7096fef46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -30,15 +30,19 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 2
+    date: 2026-11-27
+    change: "Freshness update: added the 5 November 2026 MPC decision (OPR held at 2.75%), the sixth and final meeting of 2026; refreshed the currency dates and noted the next meeting on 21 January 2027. The rate is unchanged."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "OPR डेटा — फ़ाइनेंशियल मार्केट्स इन्वेस्टर पोर्टल (OPR data — Financial Markets Investor Portal)"
     url: "https://financialmarkets.bnm.gov.my/data-download-opr"
@@ -47,6 +51,7 @@ sources:
   - title: "OPR निर्णय (OPR Decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
     publisher: "बैंक नेगारा मलेशिया (Bank Negara Malaysia)"
+    date: "2026-11-05"
   - title: "MPC बैठक कार्यक्रम 2026 (MPC Meeting Schedule 2026)"
     url: "https://www.bnm.gov.my/monetary-stability/mpc-meetings/-/tag/mpc-2026"
     publisher: "बैंक नेगारा मलेशिया (Bank Negara Malaysia)"
@@ -72,11 +77,11 @@ framework: explainer
 
 | मानक | मूल्य | जिस तिथि तक | स्रोत |
 | --- | --- | --- | --- |
-| ओवरनाइट पॉलिसी रेट | 2.75% | 3 सितंबर 2026 | BNM (FMIP) |
+| ओवरनाइट पॉलिसी रेट | 2.75% | 5 नवंबर 2026 | BNM (FMIP) |
 | MYOR (वास्तविक रातोंरात दर) | 2.75% | 23 जुलाई 2026 | BNM (FMIP) |
 | MGS 10-वर्षीय प्रतिफल | 3.70% | 24 जुलाई 2026 | BNM (FMIP) |
 
-**अब तक 2026 के OPR निर्णय**
+**2026 के OPR निर्णय**
 
 | MPC निर्णय तिथि | OPR |
 | --- | --- |
@@ -85,6 +90,7 @@ framework: explainer
 | 7 मई 2026 | 2.75% |
 | 9 जुलाई 2026 | 2.75% |
 | 3 सितंबर 2026 | 2.75% |
+| 5 नवंबर 2026 | 2.75% |
 
 ## एक दर जो आप वास्तव में कभी नहीं चुकाते
 

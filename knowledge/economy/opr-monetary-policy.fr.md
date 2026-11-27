@@ -11,9 +11,9 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "Le taux directeur au jour le jour (OPR) est le taux d'intérêt de référence de Bank Negara Malaysia — le taux qu'elle cible pour les prêts au jour le jour entre banques. Il s'établissait à 2,75 % au 3 septembre 2026, inchangé au fil de toutes les décisions du Comité de politique monétaire de 2026 des 22 janvier, 5 mars, 7 mai, 9 juillet et 3 septembre (Portail de l'investisseur des marchés financiers de BNM). L'OPR est l'ancrage à partir duquel les banques fixent leur taux de base, et donc ce que la plupart des Malaisiens paient sur un prêt immobilier et gagnent sur un dépôt à terme."
+answer: "Le taux directeur au jour le jour (OPR) est le taux d'intérêt de référence de Bank Negara Malaysia — le taux qu'elle cible pour les prêts au jour le jour entre banques. Il s'établissait à 2,75 % au 5 novembre 2026, inchangé au fil des six décisions du Comité de politique monétaire de 2026 des 22 janvier, 5 mars, 7 mai, 9 juillet, 3 septembre et 5 novembre, la dernière de l'année (Portail de l'investisseur des marchés financiers de BNM). La prochaine réunion du MPC est prévue pour le 21 janvier 2027. L'OPR est l'ancrage à partir duquel les banques fixent leur taux de base, et donc ce que la plupart des Malaisiens paient sur un prêt immobilier et gagnent sur un dépôt à terme."
 keyTakeaways:
-  - "L'OPR était de 2,75 % au 3 septembre 2026, maintenu à chaque réunion du MPC de 2026 jusqu'à cette date"
+  - "L'OPR était de 2,75 % au 5 novembre 2026, maintenu à chacune des six réunions du MPC de 2026 — la décision du 5 novembre était la dernière de l'année, la prochaine réunion étant prévue le 21 janvier 2027"
   - "C'est le taux que BNM cible pour les prêts interbancaires au jour le jour — pas un taux qui vous est facturé directement"
   - "Les banques fixent leur taux de base à partir de lui, de sorte qu'il atteint les prêts immobiliers et les dépôts en quelques semaines"
   - "Le MPC se réunit six fois par an selon un calendrier publié"
@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Emprunteurs ayant des prêts à taux variable, épargnants, et quiconque cherche à comprendre l'actualité des taux d'intérêt en Malaisie."
 
 lang: "fr"
-sourceContentHash: "468ccecd722728f7"
+sourceContentHash: "918686f7096fef46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -31,15 +31,19 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 2
+    date: 2026-11-27
+    change: "Freshness update: added the 5 November 2026 MPC decision (OPR held at 2.75%), the sixth and final meeting of 2026; refreshed the currency dates and noted the next meeting on 21 January 2027. The rate is unchanged."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Données de l'OPR — Portail de l'investisseur des marchés financiers (OPR data — Financial Markets Investor Portal)"
     url: "https://financialmarkets.bnm.gov.my/data-download-opr"
@@ -48,6 +52,7 @@ sources:
   - title: "Décisions sur l'OPR (OPR Decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
     publisher: "Bank Negara Malaysia"
+    date: "2026-11-05"
   - title: "Calendrier des réunions du MPC 2026 (MPC Meeting Schedule 2026)"
     url: "https://www.bnm.gov.my/monetary-stability/mpc-meetings/-/tag/mpc-2026"
     publisher: "Bank Negara Malaysia"
@@ -73,11 +78,11 @@ framework: explainer
 
 | Indicateur | Valeur | Au | Source |
 | --- | --- | --- | --- |
-| Taux directeur au jour le jour | 2,75 % | 3 septembre 2026 | BNM (FMIP) |
+| Taux directeur au jour le jour | 2,75 % | 5 novembre 2026 | BNM (FMIP) |
 | MYOR (taux réel au jour le jour) | 2,75 % | 23 juillet 2026 | BNM (FMIP) |
 | Rendement des MGS à 10 ans | 3,70 % | 24 juillet 2026 | BNM (FMIP) |
 
-**Décisions sur l'OPR en 2026 à ce jour**
+**Décisions sur l'OPR en 2026**
 
 | Date de la décision du MPC | OPR |
 | --- | --- |
@@ -86,6 +91,7 @@ framework: explainer
 | 7 mai 2026 | 2,75 % |
 | 9 juillet 2026 | 2,75 % |
 | 3 septembre 2026 | 2,75 % |
+| 5 novembre 2026 | 2,75 % |
 
 ## Un taux que vous ne payez jamais réellement
 

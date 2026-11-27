@@ -10,9 +10,9 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "기준금리(OPR, Overnight Policy Rate)는 말레이시아 중앙은행(BNM)의 벤치마크 금리로, 은행 간 하루짜리(오버나이트) 대출에 대해 BNM이 목표로 하는 금리입니다. 2026년 9월 3일 기준 2.75%였으며, 1월 22일, 3월 5일, 5월 7일, 7월 9일, 9월 3일의 2026년 통화정책위원회(MPC) 모든 결정에 걸쳐 변동이 없었습니다(BNM 금융시장 투자자 포털). OPR은 은행이 기준금리(Base Rate)를 설정하는 기준점이며, 따라서 대부분의 말레이시아 국민이 주택담보대출에서 지불하고 정기예금에서 얻는 금리를 좌우합니다."
+answer: "기준금리(OPR, Overnight Policy Rate)는 말레이시아 중앙은행(BNM)의 벤치마크 금리로, 은행 간 하루짜리(오버나이트) 대출에 대해 BNM이 목표로 하는 금리입니다. 2026년 11월 5일 기준 2.75%였으며, 1월 22일, 3월 5일, 5월 7일, 7월 9일, 9월 3일, 11월 5일의 2026년 통화정책위원회(MPC) 여섯 차례 결정 모두에 걸쳐 변동이 없었습니다 — 11월 5일은 그해 마지막 회의였습니다(BNM 금융시장 투자자 포털). 다음 MPC 회의는 2027년 1월 21일로 예정되어 있습니다. OPR은 은행이 기준금리(Base Rate)를 설정하는 기준점이며, 따라서 대부분의 말레이시아 국민이 주택담보대출에서 지불하고 정기예금에서 얻는 금리를 좌우합니다."
 keyTakeaways:
-  - "OPR은 2026년 9월 3일 기준 2.75%였으며, 그 시점까지 2026년의 모든 MPC 회의에서 동결되었습니다"
+  - "OPR은 2026년 11월 5일 기준 2.75%였으며, 2026년 여섯 차례 MPC 회의 모두에서 동결되었습니다 — 11월 5일 결정은 그해 마지막이었고, 다음 회의는 2027년 1월 21일입니다"
   - "이는 BNM이 은행 간 오버나이트 대출에 대해 목표로 하는 금리이며, 당신에게 직접 부과되는 금리가 아닙니다"
   - "은행이 이를 기준으로 기준금리(Base Rate)를 책정하므로, 몇 주 안에 주택담보대출과 예금에 도달합니다"
   - "MPC는 공표된 일정에 따라 연 6회 회의를 엽니다"
@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "변동금리 대출을 보유한 차입자, 저축자, 그리고 말레이시아 금리 뉴스를 이해하려는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "468ccecd722728f7"
+sourceContentHash: "918686f7096fef46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -30,15 +30,19 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 2
+    date: 2026-11-27
+    change: "Freshness update: added the 5 November 2026 MPC decision (OPR held at 2.75%), the sixth and final meeting of 2026; refreshed the currency dates and noted the next meeting on 21 January 2027. The rate is unchanged."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "OPR(익일물 정책금리) 데이터 — 금융시장 투자자 포털 (OPR data — Financial Markets Investor Portal)"
     url: "https://financialmarkets.bnm.gov.my/data-download-opr"
@@ -47,6 +51,7 @@ sources:
   - title: "OPR(익일물 정책금리) 결정 (OPR Decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
     publisher: "말레이시아 국립은행(방크 느가라 말레이시아)"
+    date: "2026-11-05"
   - title: "2026 MPC(통화정책위원회) 회의 일정 (MPC Meeting Schedule 2026)"
     url: "https://www.bnm.gov.my/monetary-stability/mpc-meetings/-/tag/mpc-2026"
     publisher: "말레이시아 국립은행(방크 느가라 말레이시아)"
@@ -72,11 +77,11 @@ framework: explainer
 
 | 지표 | 값 | 기준일 | 출처 |
 | --- | --- | --- | --- |
-| 기준금리(OPR) | 2.75% | 2026년 9월 3일 | BNM (FMIP) |
+| 기준금리(OPR) | 2.75% | 2026년 11월 5일 | BNM (FMIP) |
 | MYOR(실제 오버나이트 금리) | 2.75% | 2026년 7월 23일 | BNM (FMIP) |
 | MGS 10년물 수익률 | 3.70% | 2026년 7월 24일 | BNM (FMIP) |
 
-**현재까지의 2026년 OPR 결정**
+**2026년 OPR 결정**
 
 | MPC 결정일 | OPR |
 | --- | --- |
@@ -85,6 +90,7 @@ framework: explainer
 | 2026년 5월 7일 | 2.75% |
 | 2026년 7월 9일 | 2.75% |
 | 2026년 9월 3일 | 2.75% |
+| 2026년 11월 5일 | 2.75% |
 
 ## 당신이 실제로는 결코 지불하지 않는 금리
 

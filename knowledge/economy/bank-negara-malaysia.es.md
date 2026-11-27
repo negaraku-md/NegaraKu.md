@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "es"
-sourceContentHash: "61fb7c40d0b40295"
+sourceContentHash: "271526d56c6b2be3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -41,15 +41,19 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 2
+    date: 2026-11-27
+    change: "Freshness update: updated the OPR reference to the 5 November 2026 MPC hold (2.75%), the final Monetary Policy Committee meeting of 2026. Rate unchanged."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Ley del Banco Central de Malasia 2009 (Act 701), que incorpora las enmiendas hasta la Act A1616/2020 (Central Bank of Malaysia Act 2009 (Act 701), incorporating amendments up to Act A1616/2020)"
     url: "https://www.bnm.gov.my/documents/20124/277ebcd5-9c21-209b-3984-170ba28351d6"
@@ -81,7 +85,7 @@ sources:
   - title: "Decisiones sobre el Tipo de Política a un Día (Overnight Policy Rate decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
     publisher: "Bank Negara Malaysia"
-    date: "2026-07-09"
+    date: "2026-11-05"
   - title: "Comunicado conjunto sobre la regulación de los activos digitales en Malasia (Joint Statement on Regulation of Digital Assets in Malaysia)"
     url: "https://www.bnm.gov.my/-/joint-statement-on-regulation-of-digital-assets-in-malaysia"
     publisher: "Bank Negara Malaysia y Comisión de Valores de Malasia (SC)"
@@ -202,7 +206,7 @@ El MPC debe reunirse al menos seis veces al año (Primer Anexo, párrafo 3), y l
 Sección 24 obliga al Banco a publicar una declaración de política monetaria —
 decisión más fundamentación — tras cada reunión. El Tipo de Política a un Día se
 ha situado en el 2.75% desde el recorte del 9 de julio de 2025 y se mantuvo sin
-cambios en cada reunión desde entonces, la más reciente la del 3 de septiembre de 2026. Cómo viaja ese único número hasta
+cambios en cada reunión desde entonces, la más reciente la del 5 de noviembre de 2026, la última reunión del Comité de Política Monetaria del año. Cómo viaja ese único número hasta
 su préstamo se trata en
 [el Tipo de Política a un Día](/en/economy/opr-monetary-policy).
 

@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "ja"
-sourceContentHash: "61fb7c40d0b40295"
+sourceContentHash: "271526d56c6b2be3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -40,15 +40,19 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 2
+    date: 2026-11-27
+    change: "Freshness update: updated the OPR reference to the 5 November 2026 MPC hold (2.75%), the final Monetary Policy Committee meeting of 2026. Rate unchanged."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Central Bank of Malaysia Act 2009（Act 701）、Act A1616/2020までの改正を反映 (Central Bank of Malaysia Act 2009 (Act 701), incorporating amendments up to Act A1616/2020)"
     url: "https://www.bnm.gov.my/documents/20124/277ebcd5-9c21-209b-3984-170ba28351d6"
@@ -80,7 +84,7 @@ sources:
   - title: "翌日物政策金利の決定 (Overnight Policy Rate decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
     publisher: "マレーシア国立銀行"
-    date: "2026-07-09"
+    date: "2026-11-05"
   - title: "マレーシアにおけるデジタル資産の規制に関する共同声明 (Joint Statement on Regulation of Digital Assets in Malaysia)"
     url: "https://www.bnm.gov.my/-/joint-statement-on-regulation-of-digital-assets-in-malaysia"
     publisher: "マレーシア国立銀行およびマレーシア証券委員会"
@@ -201,7 +205,7 @@ s.15(4)）。
 MPCは年に少なくとも6回会合を開かなければならず（First Schedule（第一附表）
 第3項）、s.24は、同局に対し、会合のたびに金融政策声明——決定内容とその
 根拠——を公表することを義務付けている。OPRは、2025年7月9日の引き下げ以降
-2.75%で据え置かれており、それ以降の毎回の会合で据え置かれ、直近では2026年9月3日に据え置かれた。この一つの
+2.75%で据え置かれており、それ以降の毎回の会合で据え置かれ、直近では2026年11月5日、すなわち年内最後の金融政策委員会（MPC）会合で据え置かれた。この一つの
 数字がどのようにあなたの融資に影響するかについては、
 [翌日物政策金利](/ja/economy/opr-monetary-policy)を参照。
 

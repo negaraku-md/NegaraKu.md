@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "ko"
-sourceContentHash: "61fb7c40d0b40295"
+sourceContentHash: "271526d56c6b2be3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -41,15 +41,19 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 2
+    date: 2026-11-27
+    change: "Freshness update: updated the OPR reference to the 5 November 2026 MPC hold (2.75%), the final Monetary Policy Committee meeting of 2026. Rate unchanged."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "Central Bank of Malaysia Act 2009 (Act 701), Act A1616/2020까지의 개정 반영 (Central Bank of Malaysia Act 2009 (Act 701), incorporating amendments up to Act A1616/2020)"
     url: "https://www.bnm.gov.my/documents/20124/277ebcd5-9c21-209b-3984-170ba28351d6"
@@ -81,7 +85,7 @@ sources:
   - title: "익일물 정책금리 결정 (Overnight Policy Rate decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
     publisher: "말레이시아 중앙은행"
-    date: "2026-07-09"
+    date: "2026-11-05"
   - title: "말레이시아 디지털 자산 규제에 관한 공동 성명 (Joint Statement on Regulation of Digital Assets in Malaysia)"
     url: "https://www.bnm.gov.my/-/joint-statement-on-regulation-of-digital-assets-in-malaysia"
     publisher: "말레이시아 중앙은행 및 말레이시아 증권위원회"
@@ -195,7 +199,7 @@ BNM의 결정은 총재에게 집중되지 않고, 의도적으로 여러 법정
 
 MPC는 연 6회 이상 회의를 열어야 하며(부칙 제1, 제3항), 제24조는 은행이 매 회의 후 통화정책
 성명 — 결정과 그 근거 — 을 공표하도록 의무화합니다. 기준금리(OPR)는 2025년 7월 9일 인하
-이후 2.75%를 유지해 왔으며 그 이후 매 회의에서 유지되어 왔으며, 가장 최근으로는 2026년 9월 3일에 유지되었습니다. 그 하나의
+이후 2.75%를 유지해 왔으며 그 이후 매 회의에서 유지되어 왔으며, 가장 최근으로는 2026년 11월 5일에 유지되었는데, 이는 올해의 마지막 통화정책위원회 회의였습니다. 그 하나의
 숫자가 어떻게 당신의 대출에 도달하는지는 [기준금리(OPR)](/ko/economy/opr-monetary-policy)에서
 다룹니다.
 

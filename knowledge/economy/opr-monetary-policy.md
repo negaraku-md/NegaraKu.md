@@ -11,9 +11,9 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "The Overnight Policy Rate (OPR) is Bank Negara Malaysia's benchmark interest rate — the rate it targets for overnight lending between banks. It stood at 2.75% as at 3 September 2026, unchanged across every 2026 Monetary Policy Committee decision — 22 January, 5 March, 7 May, 9 July and 3 September (BNM Financial Markets Investor Portal). The OPR is the anchor from which banks set their Base Rate, and therefore what most Malaysians pay on a mortgage and earn on a fixed deposit."
+answer: "The Overnight Policy Rate (OPR) is Bank Negara Malaysia's benchmark interest rate — the rate it targets for overnight lending between banks. It stood at 2.75% as at 5 November 2026, unchanged across all six 2026 Monetary Policy Committee decisions — 22 January, 5 March, 7 May, 9 July, 3 September and 5 November, the last of the year (BNM Financial Markets Investor Portal). The next MPC meeting is scheduled for 21 January 2027. The OPR is the anchor from which banks set their Base Rate, and therefore what most Malaysians pay on a mortgage and earn on a fixed deposit."
 keyTakeaways:
-  - "The OPR was 2.75% as at 3 September 2026, held at every 2026 MPC meeting to that date"
+  - "The OPR was 2.75% as at 5 November 2026, held at all six 2026 MPC meetings — the 5 November decision was the last of the year, with the next meeting on 21 January 2027"
   - "It is the rate BNM targets for overnight interbank lending — not a rate you are charged directly"
   - "Banks price their Base Rate off it, so it reaches mortgages and deposits within weeks"
   - "The MPC meets six times a year on a published schedule"
@@ -30,7 +30,7 @@ reviewer: null
 reviewed: "2026-10-25"
 publishedBy: "ashton-tan"
 reviewDue: 2028-04-25
-revision: 1
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
@@ -40,9 +40,13 @@ revisions:
     date: 2026-10-25
     change: "Review-due refresh: added the 9 July + 3 September 2026 MPC holds (OPR 2.75%)."
     reviewer: null
+  - revision: 2
+    date: 2026-11-27
+    change: "Freshness update: added the 5 November 2026 MPC decision (OPR held at 2.75%), the sixth and final meeting of 2026; refreshed the currency dates and noted the next meeting on 21 January 2027. The rate is unchanged."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-10-25
+updated: 2026-11-27
 sources:
   - title: "OPR data — Financial Markets Investor Portal"
     url: "https://financialmarkets.bnm.gov.my/data-download-opr"
@@ -51,6 +55,7 @@ sources:
   - title: "OPR Decisions"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
     publisher: "Bank Negara Malaysia"
+    date: "2026-11-05"
   - title: "MPC Meeting Schedule 2026"
     url: "https://www.bnm.gov.my/monetary-stability/mpc-meetings/-/tag/mpc-2026"
     publisher: "Bank Negara Malaysia"
@@ -76,11 +81,11 @@ framework: explainer
 
 | Metric | Value | As at | Source |
 | --- | --- | --- | --- |
-| Overnight Policy Rate | 2.75% | 3 September 2026 | BNM (FMIP) |
+| Overnight Policy Rate | 2.75% | 5 November 2026 | BNM (FMIP) |
 | MYOR (actual overnight rate) | 2.75% | 23 July 2026 | BNM (FMIP) |
 | MGS 10-year yield | 3.70% | 24 July 2026 | BNM (FMIP) |
 
-**2026 OPR decisions to date**
+**2026 OPR decisions**
 
 | MPC decision date | OPR |
 | --- | --- |
@@ -89,6 +94,7 @@ framework: explainer
 | 7 May 2026 | 2.75% |
 | 9 July 2026 | 2.75% |
 | 3 September 2026 | 2.75% |
+| 5 November 2026 | 2.75% |
 
 ## A rate you never actually pay
 

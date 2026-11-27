@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "ar"
-sourceContentHash: "61fb7c40d0b40295"
+sourceContentHash: "271526d56c6b2be3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -41,15 +41,19 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 2
+    date: 2026-11-27
+    change: "Freshness update: updated the OPR reference to the 5 November 2026 MPC hold (2.75%), the final Monetary Policy Committee meeting of 2026. Rate unchanged."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "قانون البنك المركزي الماليزي لسنة 2009 (Act 701)، شاملاً التعديلات حتى Act A1616/2020 (Central Bank of Malaysia Act 2009 (Act 701), incorporating amendments up to Act A1616/2020)"
     url: "https://www.bnm.gov.my/documents/20124/277ebcd5-9c21-209b-3984-170ba28351d6"
@@ -81,7 +85,7 @@ sources:
   - title: "قرارات سعر السياسة لليلة واحدة (Overnight Policy Rate decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
     publisher: "بنك نيغارا ماليزيا (BNM)"
-    date: "2026-07-09"
+    date: "2026-11-05"
   - title: "بيان مشترك حول تنظيم الأصول الرقمية في ماليزيا (Joint Statement on Regulation of Digital Assets in Malaysia)"
     url: "https://www.bnm.gov.my/-/joint-statement-on-regulation-of-digital-assets-in-malaysia"
     publisher: "بنك نيغارا ماليزيا (BNM) ولجنة الأوراق المالية الماليزية (SC)"
@@ -198,7 +202,7 @@ images:
 يجب أن تجتمع لجنة السياسة النقدية ست مرات على الأقل سنوياً (الجدول الأول،
 الفقرة 3)، وتُلزِم المادة 24 البنكَ بنشر بيان سياسة نقدية — القرار مع مسوّغاته —
 بعد كل اجتماع. وقد ظلّ سعر السياسة لليلة واحدة عند 2.75% منذ الخفض في
-9 يوليو 2025، وأُبقِيَ دون تغيير في كل اجتماع منذ ذلك الحين — وآخرها في 3 سبتمبر 2026. وكيفية وصول هذا الرقم
+9 يوليو 2025، وأُبقِيَ دون تغيير في كل اجتماع منذ ذلك الحين — وآخرها في 5 نوفمبر 2026، وهو الاجتماع الأخير للجنة السياسة النقدية في هذه السنة. وكيفية وصول هذا الرقم
 الواحد إلى قرضك موضّحة في
 [سعر السياسة لليلة واحدة](/economy/opr-monetary-policy).
 

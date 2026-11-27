@@ -10,9 +10,9 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "سعر السياسة لليلة واحدة (OPR) هو سعر الفائدة المرجعي لبنك نيغارا ماليزيا — وهو السعر الذي يستهدفه للإقراض بين البنوك لليلة واحدة. وبلغ 2.75% حتى 3 سبتمبر 2026، دون تغيير عبر كل قرارات لجنة السياسة النقدية لعام 2026 — 22 يناير و5 مارس و7 مايو و9 يوليو و3 سبتمبر (بوابة المستثمرين في الأسواق المالية لدى BNM). وOPR هو المرتكز الذي تحدّد البنوك على أساسه سعرها الأساسي، ومن ثَمّ ما يدفعه معظم الماليزيين على قرض منزلي وما يكسبونه من وديعة لأجل."
+answer: "سعر السياسة لليلة واحدة (OPR) هو سعر الفائدة المرجعي لبنك نيغارا ماليزيا — وهو السعر الذي يستهدفه للإقراض بين البنوك لليلة واحدة. وبلغ 2.75% حتى 5 نوفمبر 2026، دون تغيير عبر قرارات لجنة السياسة النقدية الستة جميعها لعام 2026 — 22 يناير و5 مارس و7 مايو و9 يوليو و3 سبتمبر و5 نوفمبر، وهو آخرها في السنة (بوابة المستثمرين في الأسواق المالية لدى BNM). والاجتماع المقبل للجنة السياسة النقدية مقرَّر في 21 يناير 2027. وOPR هو المرتكز الذي تحدّد البنوك على أساسه سعرها الأساسي، ومن ثَمّ ما يدفعه معظم الماليزيين على قرض منزلي وما يكسبونه من وديعة لأجل."
 keyTakeaways:
-  - "كان OPR 2.75% حتى 3 سبتمبر 2026، ثُبّت في كل اجتماعات لجنة السياسة النقدية (MPC) لعام 2026 حتى ذلك التاريخ"
+  - "كان OPR 2.75% حتى 5 نوفمبر 2026، ثُبّت في اجتماعات لجنة السياسة النقدية (MPC) الستة جميعها لعام 2026 — وكان قرار 5 نوفمبر آخرها في السنة، والاجتماع المقبل في 21 يناير 2027"
   - "هو السعر الذي يستهدفه BNM للإقراض بين البنوك لليلة واحدة — لا سعرًا يُفرَض عليك مباشرةً"
   - "تسعّر البنوك سعرها الأساسي على أساسه، فيصل إلى القروض العقارية والودائع خلال أسابيع"
   - "تجتمع MPC ست مرات في السنة وفق جدول منشور"
@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "المقترضون أصحاب القروض ذات الأسعار المتغيرة، والمدّخرون، وكل من يحاول فهم أخبار أسعار الفائدة الماليزية."
 
 lang: "ar"
-sourceContentHash: "468ccecd722728f7"
+sourceContentHash: "918686f7096fef46"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -30,15 +30,19 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2026-10-24
-revision: 0
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 2
+    date: 2026-11-27
+    change: "Freshness update: added the 5 November 2026 MPC decision (OPR held at 2.75%), the sixth and final meeting of 2026; refreshed the currency dates and noted the next meeting on 21 January 2027. The rate is unchanged."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-11-27
 sources:
   - title: "بيانات OPR — بوابة المستثمرين في الأسواق المالية (OPR data — Financial Markets Investor Portal)"
     url: "https://financialmarkets.bnm.gov.my/data-download-opr"
@@ -47,6 +51,7 @@ sources:
   - title: "قرارات OPR (OPR Decisions)"
     url: "https://www.bnm.gov.my/monetary-stability/opr-decisions"
     publisher: "بنك نيغارا ماليزيا (Bank Negara Malaysia)"
+    date: "2026-11-05"
   - title: "جدول اجتماعات MPC لعام 2026 (MPC Meeting Schedule 2026)"
     url: "https://www.bnm.gov.my/monetary-stability/mpc-meetings/-/tag/mpc-2026"
     publisher: "بنك نيغارا ماليزيا (Bank Negara Malaysia)"
@@ -72,11 +77,11 @@ framework: explainer
 
 | المؤشر | القيمة | حتى | المصدر |
 | --- | --- | --- | --- |
-| سعر السياسة لليلة واحدة | 2.75% | 3 سبتمبر 2026 | BNM (FMIP) |
+| سعر السياسة لليلة واحدة | 2.75% | 5 نوفمبر 2026 | BNM (FMIP) |
 | MYOR (سعر الليلة الواحدة الفعلي) | 2.75% | 23 يوليو 2026 | BNM (FMIP) |
 | عائد MGS لأجل 10 سنوات | 3.70% | 24 يوليو 2026 | BNM (FMIP) |
 
-**قرارات OPR لعام 2026 حتى الآن**
+**قرارات OPR لعام 2026**
 
 | تاريخ قرار MPC | OPR |
 | --- | --- |
@@ -85,6 +90,7 @@ framework: explainer
 | 7 مايو 2026 | 2.75% |
 | 9 يوليو 2026 | 2.75% |
 | 3 سبتمبر 2026 | 2.75% |
+| 5 نوفمبر 2026 | 2.75% |
 
 ## سعر لا تدفعه فعلًا قط
 
