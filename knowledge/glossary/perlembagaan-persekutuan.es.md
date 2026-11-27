@@ -30,7 +30,7 @@ faq:
     a: "Entró en vigor el 31 de agosto de 1957 como Constitución de la Federación de Malaya, y más tarde se extendió y aplicó a la Federación de Malasia formada el 16 de septiembre de 1963."
 
 lang: "es"
-sourceContentHash: "b3ff63755f278553"
+sourceContentHash: "f1f3f1ddf64ff04d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

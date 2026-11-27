@@ -36,7 +36,7 @@ verificationNeeded:
   - "துல்லியமான மேற்கோள் தேவைப்பட்டால், Article மற்றும் section எண்களை Federal Constitution-இன் முழு உரையுடன் (Cetakan Semula 2020, AGC) உறுதிப்படுத்தவும்."
 
 lang: "ta"
-sourceContentHash: "0441017d6712ffd2"
+sourceContentHash: "deff10eecee5c73d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

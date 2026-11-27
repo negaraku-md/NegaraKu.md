@@ -30,7 +30,7 @@ faq:
     a: "Điều 114(3) quy định rằng một thành viên của SPR không thể bị bãi nhiệm trừ khi trên những căn cứ và theo cách thức áp dụng cho một thẩm phán Tòa án Liên bang — đây là một thủ tục tòa án đặc biệt (tribunal), chứ không phải một quyết định hành chính thông thường. Điều 114(4), ngược lại, yêu cầu bãi nhiệm trong một số trường hợp nhất định, chẳng hạn như khi một thành viên trở thành người phá sản chưa được giải trừ."
 
 lang: "vi"
-sourceContentHash: "f7e6efb325bedae2"
+sourceContentHash: "277c8e30e0f5e3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

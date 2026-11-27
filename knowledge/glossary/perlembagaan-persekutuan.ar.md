@@ -30,7 +30,7 @@ faq:
     a: "دخل حيّز النفاذ في 31 أغسطس 1957 بوصفه دستور اتحاد مالايا، ثم وُسّع نطاقه وطُبّق على اتحاد ماليزيا الذي تشكّل في 16 سبتمبر 1963."
 
 lang: "ar"
-sourceContentHash: "b3ff63755f278553"
+sourceContentHash: "f1f3f1ddf64ff04d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

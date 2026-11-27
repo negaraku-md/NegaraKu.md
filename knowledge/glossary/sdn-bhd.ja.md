@@ -21,7 +21,7 @@ appliesTo: "創業者、投資家、そしてマレーシアでの事業構造�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "ba35930a62b0d001"
+sourceContentHash: "3b623ccf1292d435"
 
 status: "published"
 aiAssisted: true

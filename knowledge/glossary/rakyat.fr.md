@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Étudiants, traducteurs, journalistes et toute personne souhaitant comprendre la différence entre le terme sociopolitique « rakyat » et le terme juridique « warganegara » dans le contexte malaisien."
 
 lang: "fr"
-sourceContentHash: "4db392730fe2ab93"
+sourceContentHash: "da3ffb913498da92"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

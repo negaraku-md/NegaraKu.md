@@ -23,7 +23,7 @@ appliesTo: "マレーシアで特定の問題についてどの政府レベル�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3aeed48391a5a422"
+sourceContentHash: "37287b854e9dacf6"
 status: "published"
 aiAssisted: true
 reviewer: null

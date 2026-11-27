@@ -36,7 +36,7 @@ faq:
     a: "The four states without a Ruler — Penang, Malacca, Sabah and Sarawak — carry out the functions conferred on the 'Ruler' under the Eighth Schedule through their respective Yang di-Pertua Negeri, the Head of State as defined in Article 160(2)."
 
 lang: "en"
-sourceContentHash: "8431620b21e8ef56"
+sourceContentHash: "a2890854896ece76"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

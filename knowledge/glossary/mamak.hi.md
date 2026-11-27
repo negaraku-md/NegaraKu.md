@@ -22,7 +22,7 @@ verificationNeeded:
   - "मालाया में पहली mamak दुकान किस विशिष्ट तिथि और स्थान पर स्थापित हुई — जो स्रोत मिले वे सामान्य रूप से ब्रिटिश औपनिवेशिक काल का उल्लेख करते हैं, बिना किसी पुष्ट तिथि या आधिकारिक अभिलेख के।"
 
 lang: "hi"
-sourceContentHash: "3046b79972e90a21"
+sourceContentHash: "75f77f620ea4d542"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

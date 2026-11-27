@@ -23,7 +23,7 @@ appliesTo: "希望了解马来传统法律体系的任何人——历史、法�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d4460bfefd0c039f"
+sourceContentHash: "e3de56adfde7565e"
 
 status: "published"
 aiAssisted: true

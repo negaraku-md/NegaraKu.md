@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Fondateurs de sociétés, comptables et toute personne lisant les statuts ou les états financiers d'une société."
 
 lang: "fr"
-sourceContentHash: "2025c24e85b0e3a8"
+sourceContentHash: "81fa2000eba9216c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

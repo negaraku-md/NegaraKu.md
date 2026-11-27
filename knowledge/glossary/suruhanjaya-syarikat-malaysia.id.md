@@ -38,7 +38,7 @@ faq:
     a: "SSM mengelola dan menegakkan aturan tersebut, tetapi aturan itu berasal dari statut. Laporan tahunan diwajibkan di bawah Akta Syarikat 2016, dan konsep modal disetor juga berasal dari Akta yang sama. SSM menerima penyampaian, menerbitkan Arahan Amalan mengenai prosedur dan penalti, serta mengambil tindakan penegakan terhadap pihak yang lalai."
 
 lang: "id"
-sourceContentHash: "48b70b131a01ea95"
+sourceContentHash: "3a436616c6210ce8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

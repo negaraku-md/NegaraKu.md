@@ -30,7 +30,7 @@ faq:
     a: "L'Article 114(3) prévoit qu'un membre de la SPR ne peut être révoqué que pour les motifs et selon la procédure applicables à un juge de la Cour fédérale — une procédure de tribunal, et non une décision administrative ordinaire. L'Article 114(4), à son tour, impose la révocation dans certaines circonstances, par exemple lorsqu'un membre devient un failli non réhabilité."
 
 lang: "fr"
-sourceContentHash: "f7e6efb325bedae2"
+sourceContentHash: "277c8e30e0f5e3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

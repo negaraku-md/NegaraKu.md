@@ -27,7 +27,7 @@ verificationNeeded:
   - "Le texte en langue malaise de la Constitution fédérale est une traduction du Cabinet du Procureur général. À moins et jusqu'à ce qu'il soit déclaré faisant foi en vertu de l'article 160B, c'est le texte anglais qui fait foi."
 
 lang: "fr"
-sourceContentHash: "557a7189c48a772b"
+sourceContentHash: "6ab4eee327e1827e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

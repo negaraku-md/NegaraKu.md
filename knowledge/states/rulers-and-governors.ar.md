@@ -36,7 +36,7 @@ verificationNeeded:
   - "التحقق من أرقام المواد والأقسام مقابل النص الكامل للدستور الاتحادي (إعادة طبع 2020، AGC) إذا لزم اقتباس حرفي دقيق."
 
 lang: "ar"
-sourceContentHash: "0441017d6712ffd2"
+sourceContentHash: "deff10eecee5c73d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

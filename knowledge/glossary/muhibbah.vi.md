@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn hiểu thuật ngữ 'muhibbah' bắt nguồn từ đâu và vì sao nó đã trở thành một trong những từ cốt lõi trong các cuộc trò chuyện về đoàn kết và hòa hợp ở Malaysia."
 
 lang: "vi"
-sourceContentHash: "48b1125ac43c6f0e"
+sourceContentHash: "254b14bc12028c96"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

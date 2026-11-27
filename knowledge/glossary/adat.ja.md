@@ -23,7 +23,7 @@ appliesTo: "マレーの伝統的な法律体系を理解したいすべての�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d4460bfefd0c039f"
+sourceContentHash: "e3de56adfde7565e"
 
 status: "published"
 aiAssisted: true

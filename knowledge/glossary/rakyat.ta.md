@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "மாணவர்கள், மொழிபெயர்ப்பாளர்கள், பத்திரிகையாளர்கள் மற்றும் மலேசியச் சூழலில் சமூக-அரசியல் சொல்லான “rakyat” க்கும் சட்டச் சொல்லான “warganegara” க்கும் இடையிலான வேறுபாட்டைப் புரிந்துகொள்ள விரும்பும் எவரும்."
 
 lang: "ta"
-sourceContentHash: "4db392730fe2ab93"
+sourceContentHash: "da3ffb913498da92"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

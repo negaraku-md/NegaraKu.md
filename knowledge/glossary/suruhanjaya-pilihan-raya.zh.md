@@ -30,7 +30,7 @@ faq:
     a: "第114(3)条规定，SPR委员不得被撤职，除非基于与联邦法院法官相同的理由并依相同方式——这是一项审裁庭程序，而非一般的行政决定。第114(4)条则规定在特定情况下必须予以撤职，例如当委员成为未获解除破产者时。"
 
 lang: "zh"
-sourceContentHash: "f7e6efb325bedae2"
+sourceContentHash: "277c8e30e0f5e3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

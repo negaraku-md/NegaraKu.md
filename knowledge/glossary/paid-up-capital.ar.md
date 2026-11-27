@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "مؤسِّسو الشركات والمحاسبون وكل من يطالع دستور الشركة أو بياناتها المالية."
 
 lang: "ar"
-sourceContentHash: "2025c24e85b0e3a8"
+sourceContentHash: "81fa2000eba9216c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

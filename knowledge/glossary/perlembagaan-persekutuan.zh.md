@@ -30,7 +30,7 @@ faq:
     a: "它于1957年8月31日作为马来亚联合邦宪法生效，随后扩大并适用于1963年9月16日成立的马来西亚联邦。"
 
 lang: "zh"
-sourceContentHash: "b3ff63755f278553"
+sourceContentHash: "f1f3f1ddf64ff04d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "任何想了解「muhibbah」这个词从何而来，以及它为何成为马来西亚关于团结与和谐讨论中核心词汇之一的人。"
 
 lang: "zh"
-sourceContentHash: "48b1125ac43c6f0e"
+sourceContentHash: "254b14bc12028c96"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

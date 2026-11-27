@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Fundadores de empresas, contadores y cualquiera que lea los estatutos o los estados financieros de una empresa."
 
 lang: "es"
-sourceContentHash: "2025c24e85b0e3a8"
+sourceContentHash: "81fa2000eba9216c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

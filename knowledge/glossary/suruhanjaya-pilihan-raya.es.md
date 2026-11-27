@@ -30,7 +30,7 @@ faq:
     a: "El Artículo 114(3) dispone que un miembro de la SPR no puede ser destituido salvo por los motivos y del modo que se aplican a un magistrado del Tribunal Federal —un procedimiento ante un tribunal especial, no una decisión administrativa ordinaria—. El Artículo 114(4), por su parte, exige la destitución en determinadas circunstancias, como cuando un miembro pasa a ser un quebrado no rehabilitado."
 
 lang: "es"
-sourceContentHash: "f7e6efb325bedae2"
+sourceContentHash: "277c8e30e0f5e3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

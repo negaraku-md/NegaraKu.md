@@ -38,7 +38,7 @@ faq:
     a: "SSM mentadbir dan menguatkuasakan peraturan tersebut, tetapi peraturan itu berpunca daripada statut. Penyata tahunan dikehendaki di bawah Akta Syarikat 2016, dan konsep modal berbayar juga datang daripada Akta yang sama. SSM menerima pemfailan, mengeluarkan Arahan Amalan mengenai prosedur dan penalti, serta mengambil tindakan penguatkuasaan terhadap pihak yang mungkir."
 
 lang: "ms"
-sourceContentHash: "48b70b131a01ea95"
+sourceContentHash: "3a436616c6210ce8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

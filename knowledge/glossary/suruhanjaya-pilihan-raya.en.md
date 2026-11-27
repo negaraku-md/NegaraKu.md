@@ -30,7 +30,7 @@ faq:
     a: "Article 114(3) provides that a member of the SPR may not be removed except on the grounds and in the manner that apply to a judge of the Federal Court — a tribunal process, not an ordinary administrative decision. Article 114(4), in turn, requires removal in certain circumstances, such as where a member becomes an undischarged bankrupt."
 
 lang: "en"
-sourceContentHash: "f7e6efb325bedae2"
+sourceContentHash: "277c8e30e0f5e3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

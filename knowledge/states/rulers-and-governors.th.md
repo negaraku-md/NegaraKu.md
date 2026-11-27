@@ -36,7 +36,7 @@ verificationNeeded:
   - "ยืนยันหมายเลขมาตราและมาตราย่อยเทียบกับตัวบทเต็มของรัฐธรรมนูญแห่งสหพันธรัฐ (ฉบับพิมพ์ซ้ำ 2020, AGC) หากจำเป็นต้องอ้างอิงที่แน่นอน"
 
 lang: "th"
-sourceContentHash: "0441017d6712ffd2"
+sourceContentHash: "deff10eecee5c73d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

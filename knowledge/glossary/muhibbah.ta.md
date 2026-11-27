@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "'muhibbah' என்ற சொல் எங்கிருந்து வந்தது என்பதையும், அது மலேசியாவில் ஒற்றுமை மற்றும் நல்லிணக்கம் குறித்த உரையாடல்களில் முக்கியச் சொற்களில் ஒன்றாக மாறியது ஏன் என்பதையும் புரிந்துகொள்ள விரும்பும் எவரும்."
 
 lang: "ta"
-sourceContentHash: "48b1125ac43c6f0e"
+sourceContentHash: "254b14bc12028c96"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

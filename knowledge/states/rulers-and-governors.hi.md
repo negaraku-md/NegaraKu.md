@@ -36,7 +36,7 @@ verificationNeeded:
   - "यदि कोई सटीक उद्धरण आवश्यक हो, तो अनुच्छेद और धारा संख्याओं की पुष्टि संघीय संविधान (पुनर्मुद्रण 2020, AGC) के पूर्ण पाठ से करें।"
 
 lang: "hi"
-sourceContentHash: "0441017d6712ffd2"
+sourceContentHash: "deff10eecee5c73d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

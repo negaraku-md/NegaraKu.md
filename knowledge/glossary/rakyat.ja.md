@@ -22,7 +22,7 @@ appliesTo: "学生、翻訳者、記者、そしてマレーシアの文脈に�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "4db392730fe2ab93"
+sourceContentHash: "da3ffb913498da92"
 
 status: "published"
 aiAssisted: true

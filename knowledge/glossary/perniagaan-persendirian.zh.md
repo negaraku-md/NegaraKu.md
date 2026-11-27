@@ -33,7 +33,7 @@ faq:
     a: "由于该企业不是独立的法律实体，其利润即为你的个人收入。你须在 B 表格（Form B）上申报，按个人（累进）税率纳税，通过 MyTax 电子报税门户提交。法定截止日期为 6 月 30 日；由于自 2024 课税年起，有营业收入个人的 B 表格必须以电子方式提交，实际适用的截止日期为电子报税宽限日 7 月 15 日。"
 
 lang: "zh"
-sourceContentHash: "1a9f38c341cebf45"
+sourceContentHash: "a98a799d191f882d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

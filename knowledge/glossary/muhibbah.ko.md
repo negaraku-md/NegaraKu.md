@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "'muhibbah'라는 말이 어디에서 왔는지, 그리고 그것이 왜 말레이시아의 화합과 조화에 관한 대화에서 핵심 단어 중 하나가 되었는지 이해하고자 하는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "48b1125ac43c6f0e"
+sourceContentHash: "254b14bc12028c96"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

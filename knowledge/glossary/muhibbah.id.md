@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang ingin memahami dari mana istilah 'muhibbah' berasal dan mengapa ia menjadi salah satu kata inti dalam percakapan tentang persatuan dan keharmonisan di Malaysia."
 
 lang: "id"
-sourceContentHash: "48b1125ac43c6f0e"
+sourceContentHash: "254b14bc12028c96"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

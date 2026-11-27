@@ -38,7 +38,7 @@ faq:
     a: "La SSM administra y hace cumplir esas reglas, pero su origen está en la ley. La declaración anual es obligatoria en virtud de la Companies Act 2016, y el concepto de capital desembolsado procede de esa misma ley. La SSM recibe los trámites, emite Practice Directives sobre procedimiento y sanciones, y toma medidas de ejecución contra los incumplidores."
 
 lang: "es"
-sourceContentHash: "48b70b131a01ea95"
+sourceContentHash: "3a436616c6210ce8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

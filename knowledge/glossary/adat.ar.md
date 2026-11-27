@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "كل من يسعى إلى فهم أنظمة القانون الملايوي التقليدي — طلاب التاريخ والقانون والدراسات الماليزية، والصحفيون، وموظفو الخدمة العامة، والقرّاء العامّون الذين يلتبس عليهم الفرق بين Adat Perpatih وAdat Temenggung."
 
 lang: "ar"
-sourceContentHash: "d4460bfefd0c039f"
+sourceContentHash: "e3de56adfde7565e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Students, translators, journalists and anyone seeking to understand the difference between the socio-political term 'rakyat' and the legal term 'warganegara' in the Malaysian context."
 
 lang: "en"
-sourceContentHash: "4db392730fe2ab93"
+sourceContentHash: "da3ffb913498da92"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -36,7 +36,7 @@ faq:
     a: "四个没有统治者的州——槟城、马六甲、沙巴与砂拉越——通过各自的州元首（Yang di-Pertua Negeri，即第160(2)条所定义的州首长）行使第八附表赋予「统治者」的职能。"
 
 lang: "zh"
-sourceContentHash: "8431620b21e8ef56"
+sourceContentHash: "a2890854896ece76"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

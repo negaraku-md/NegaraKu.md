@@ -22,7 +22,7 @@ verificationNeeded:
   - "Tanggal dan lokasi spesifik kedai mamak pertama didirikan di Tanah Melayu — sumber yang ditemukan menyebut era kolonial Inggris secara umum, tanpa tanggal atau rekaman resmi yang terverifikasi."
 
 lang: "id"
-sourceContentHash: "3046b79972e90a21"
+sourceContentHash: "75f77f620ea4d542"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

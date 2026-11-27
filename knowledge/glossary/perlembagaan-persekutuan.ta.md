@@ -30,7 +30,7 @@ faq:
     a: "இது 31 ஆகஸ்ட் 1957 அன்று Perlembagaan Persekutuan Tanah Melayu ஆக அமலுக்கு வந்தது; பின்னர் 16 செப்டம்பர் 1963 அன்று உருவான Persekutuan Malaysia-க்கு விரிவுபடுத்தப்பட்டு பயன்படுத்தப்பட்டது."
 
 lang: "ta"
-sourceContentHash: "b3ff63755f278553"
+sourceContentHash: "f1f3f1ddf64ff04d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

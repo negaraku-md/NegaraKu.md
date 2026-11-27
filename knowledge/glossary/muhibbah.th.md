@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการเข้าใจว่าคำว่า 'muhibbah' มาจากไหน และเหตุใดจึงกลายเป็นหนึ่งในคำหลักในการสนทนาเรื่องความสามัคคีและความกลมเกลียวในมาเลเซีย"
 
 lang: "th"
-sourceContentHash: "48b1125ac43c6f0e"
+sourceContentHash: "254b14bc12028c96"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

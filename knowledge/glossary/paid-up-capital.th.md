@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "ผู้ก่อตั้งบริษัท นักบัญชี และผู้ที่อ่านข้อบังคับหรืองบการเงินของบริษัท"
 
 lang: "th"
-sourceContentHash: "2025c24e85b0e3a8"
+sourceContentHash: "81fa2000eba9216c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

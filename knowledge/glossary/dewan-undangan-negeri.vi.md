@@ -36,7 +36,7 @@ faq:
     a: "Bốn bang không có Quân vương — Penang, Melaka, Sabah và Sarawak — thực hiện các chức năng được giao cho 'Quân vương' theo Phụ lục Tám thông qua Yang di-Pertua Negeri tương ứng của mình, tức người Đứng đầu Bang được định nghĩa trong Điều 160(2)."
 
 lang: "vi"
-sourceContentHash: "8431620b21e8ef56"
+sourceContentHash: "a2890854896ece76"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

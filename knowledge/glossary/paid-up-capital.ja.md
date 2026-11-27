@@ -21,7 +21,7 @@ appliesTo: "会社の創業者、会計士、そして会社の定款や財務�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2025c24e85b0e3a8"
+sourceContentHash: "81fa2000eba9216c"
 
 status: "published"
 aiAssisted: true

@@ -38,7 +38,7 @@ faq:
     a: "SSM 负责执行和监督这些规则，但它们源自法律条文。年度申报是《2016年公司法令》所要求的，实缴资本的概念也来自同一部法令。SSM 接收这些申报、就程序与罚则发布《执业指令》（Practice Directives），并对违规者采取执法行动。"
 
 lang: "zh"
-sourceContentHash: "48b70b131a01ea95"
+sourceContentHash: "3a436616c6210ce8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

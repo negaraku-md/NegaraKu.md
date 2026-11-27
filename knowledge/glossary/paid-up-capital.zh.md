@@ -21,7 +21,7 @@ appliesTo: "公司创办人、会计师，以及任何在阅读公司章程或�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2025c24e85b0e3a8"
+sourceContentHash: "81fa2000eba9216c"
 
 status: "published"
 aiAssisted: true

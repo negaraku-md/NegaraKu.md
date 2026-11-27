@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "557a7189c48a772b"
+sourceContentHash: "6ab4eee327e1827e"
 
 status: "archived"
 requestReason: "Duplicate slug across categories; consolidating to the canonical home (slug-collision cleanup)."

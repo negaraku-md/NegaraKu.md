@@ -27,7 +27,7 @@ verificationNeeded:
   - "จำนวนที่นั่งตามรัฐในมาตรา 46(2) อาจเปลี่ยนแปลงได้ผ่านการแก้ไขรัฐธรรมนูญภายหลังการทบทวนการแบ่งเขต โปรดตรวจสอบเทียบกับฉบับพิมพ์ซ้ำล่าสุด"
 
 lang: "th"
-sourceContentHash: "9b43f0c692cc687d"
+sourceContentHash: "16c0c765d74d8861"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

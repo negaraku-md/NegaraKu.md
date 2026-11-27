@@ -27,7 +27,7 @@ verificationNeeded:
   - "ตัวบทภาษามลายูของรัฐธรรมนูญแห่งสหพันธรัฐเป็นคำแปลโดยสำนักงานอัยการสูงสุด เว้นแต่และจนกว่าจะกำหนดให้เป็นฉบับที่ถือเป็นหลักภายใต้มาตรา 160b ตัวบทภาษาอังกฤษคือตัวบทที่ถือเป็นหลัก"
 
 lang: "th"
-sourceContentHash: "557a7189c48a772b"
+sourceContentHash: "6ab4eee327e1827e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

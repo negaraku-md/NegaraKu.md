@@ -36,7 +36,7 @@ faq:
     a: "Empat negeri tanpa Raja — Pulau Pinang, Melaka, Sabah, dan Sarawak — menjalankan fungsi yang diberikan kepada 'Raja' di bawah Jadwal Kedelapan melalui Yang di-Pertua Negeri masing-masing, yaitu Ketua Negeri yang didefinisikan dalam Pasal 160(2)."
 
 lang: "id"
-sourceContentHash: "8431620b21e8ef56"
+sourceContentHash: "a2890854896ece76"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "المؤسِّسون والمستثمرون وكل من يختار هيكلًا لنشاطه التجاري في ماليزيا."
 
 lang: "ar"
-sourceContentHash: "ba35930a62b0d001"
+sourceContentHash: "3b623ccf1292d435"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

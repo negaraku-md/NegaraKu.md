@@ -26,7 +26,7 @@ verificationNeeded:
   - "연방헌법의 말레이어 원문은 법무부(Jabatan Peguam Negara)의 번역입니다. 제160B조에 따라 정본으로 지정되기 전까지는 영어 원문이 정본입니다."
 
 lang: "ko"
-sourceContentHash: "557a7189c48a772b"
+sourceContentHash: "6ab4eee327e1827e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -27,7 +27,7 @@ verificationNeeded:
   - "Số ghế theo Bang trong Điều 46(2) có thể thay đổi qua sửa đổi Hiến pháp sau khi rà soát phân định ranh giới; hãy xác minh đối chiếu với bản in lại mới nhất."
 
 lang: "vi"
-sourceContentHash: "9b43f0c692cc687d"
+sourceContentHash: "16c0c765d74d8861"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

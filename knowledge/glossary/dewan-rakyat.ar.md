@@ -27,7 +27,7 @@ verificationNeeded:
   - "قد يتغيّر عدد المقاعد حسب الولاية بموجب المادة 46(2) عبر تعديل دستوري عقب مراجعة للحدود الانتخابية؛ تحقّق منه إزاء أحدث إعادة طبع."
 
 lang: "ar"
-sourceContentHash: "9b43f0c692cc687d"
+sourceContentHash: "16c0c765d74d8861"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

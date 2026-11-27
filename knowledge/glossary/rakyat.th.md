@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "นักเรียนนักศึกษา นักแปล นักข่าว และผู้ที่ต้องการเข้าใจความแตกต่างระหว่างคำทางสังคมการเมือง 'รักยัต' และคำทางกฎหมาย 'วาร์กาเนอการา' ในบริบทของมาเลเซีย"
 
 lang: "th"
-sourceContentHash: "4db392730fe2ab93"
+sourceContentHash: "da3ffb913498da92"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

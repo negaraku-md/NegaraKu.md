@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "كل من يرغب في فهم أصل مصطلح 'muhibbah' ولماذا أصبح واحدًا من الكلمات المحورية في الحديث عن الوحدة والوئام في ماليزيا."
 
 lang: "ar"
-sourceContentHash: "48b1125ac43c6f0e"
+sourceContentHash: "254b14bc12028c96"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

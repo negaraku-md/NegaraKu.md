@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Fondateurs, investisseurs et toute personne devant choisir une structure d'entreprise en Malaisie."
 
 lang: "fr"
-sourceContentHash: "ba35930a62b0d001"
+sourceContentHash: "3b623ccf1292d435"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

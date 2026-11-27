@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "कंपनी के संस्थापक, लेखाकार और वे सभी जो किसी कंपनी का संविधान या वित्तीय विवरण पढ़ रहे हैं।"
 
 lang: "hi"
-sourceContentHash: "2025c24e85b0e3a8"
+sourceContentHash: "81fa2000eba9216c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

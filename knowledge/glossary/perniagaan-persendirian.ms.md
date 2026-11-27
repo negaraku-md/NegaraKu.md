@@ -33,7 +33,7 @@ faq:
     a: "Oleh sebab perniagaan itu bukan entiti undang-undang yang berasingan, keuntungannya ialah pendapatan peribadi anda. Anda melaporkannya menggunakan Borang B dan membayar cukai pada kadar individu (progresif), memfailkan melalui portal e-Filing MyTax. Tarikh akhir berkanun ialah 30 Jun; kerana Borang B bagi individu yang mempunyai pendapatan perniagaan mesti difailkan secara elektronik mulai Tahun Taksiran 2024, tarikh akhir yang berkuat kuasa ialah tarikh tempoh tangguh e-Filing pada 15 Julai."
 
 lang: "ms"
-sourceContentHash: "1a9f38c341cebf45"
+sourceContentHash: "a98a799d191f882d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

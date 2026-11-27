@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "الطلاب والمترجمون والصحفيون وكل من يسعى إلى فهم الفرق بين المصطلح الاجتماعي-السياسي «rakyat» والمصطلح القانوني «warganegara» في السياق الماليزي."
 
 lang: "ar"
-sourceContentHash: "4db392730fe2ab93"
+sourceContentHash: "da3ffb913498da92"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

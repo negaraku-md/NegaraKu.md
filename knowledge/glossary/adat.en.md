@@ -24,7 +24,7 @@ appliesTo: "Anyone seeking to understand traditional Malay legal systems — stu
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d4460bfefd0c039f"
+sourceContentHash: "e3de56adfde7565e"
 
 status: "published"
 aiAssisted: true

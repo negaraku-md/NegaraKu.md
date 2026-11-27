@@ -36,7 +36,7 @@ faq:
     a: "Les quatre États sans Souverain — Penang, Malacca, Sabah et Sarawak — exercent les fonctions conférées au « Souverain » par la huitième annexe par l'intermédiaire de leur Yang di-Pertua Negeri respectif, le chef de l'État tel que défini à l'article 160(2)."
 
 lang: "fr"
-sourceContentHash: "8431620b21e8ef56"
+sourceContentHash: "a2890854896ece76"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

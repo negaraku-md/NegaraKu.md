@@ -30,7 +30,7 @@ faq:
     a: "It came into force on 31 August 1957 as the Constitution of the Federation of Malaya, and was later extended and applied to the Federation of Malaysia formed on 16 September 1963."
 
 lang: "en"
-sourceContentHash: "b3ff63755f278553"
+sourceContentHash: "f1f3f1ddf64ff04d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -23,7 +23,7 @@ verificationNeeded:
   - "The specific date and location where the first mamak shop was established in Malaya — sources found refer to the British colonial era in general, without a confirmed date or official record."
 
 lang: "es"
-sourceContentHash: "3046b79972e90a21"
+sourceContentHash: "75f77f620ea4d542"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

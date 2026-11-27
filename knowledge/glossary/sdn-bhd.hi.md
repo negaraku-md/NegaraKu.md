@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "संस्थापक, निवेशक और वे सभी जो मलेशिया में किसी व्यवसाय संरचना पर निर्णय ले रहे हैं।"
 
 lang: "hi"
-sourceContentHash: "ba35930a62b0d001"
+sourceContentHash: "3b623ccf1292d435"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

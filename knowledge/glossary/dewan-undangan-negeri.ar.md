@@ -36,7 +36,7 @@ faq:
     a: "الولايات الأربع التي لا حاكم لها — بينانغ وملاكا وصباح وساراواك — تمارس المهام المُسندة إلى «الحاكم» بموجب الجدول الثامن من خلال يانغ دي-بيرتوا نيغري (Yang di-Pertua Negeri) الخاص بكل منها، وهو رئيس الولاية كما تعرّفه المادة 160(2)."
 
 lang: "ar"
-sourceContentHash: "8431620b21e8ef56"
+sourceContentHash: "a2890854896ece76"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

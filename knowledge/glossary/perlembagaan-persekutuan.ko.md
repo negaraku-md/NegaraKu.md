@@ -30,7 +30,7 @@ faq:
     a: "그것은 1957년 8월 31일 말라야 연방 헌법으로 시행되었고, 이후 1963년 9월 16일 형성된 말레이시아 연방에 확장·적용되었습니다."
 
 lang: "ko"
-sourceContentHash: "b3ff63755f278553"
+sourceContentHash: "f1f3f1ddf64ff04d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

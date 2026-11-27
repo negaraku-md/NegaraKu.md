@@ -36,7 +36,7 @@ faq:
     a: "รัฐสี่รัฐที่ไม่มีราชา — ปีนัง มะละกา ซาบาห์ และซาราวัก — ปฏิบัติหน้าที่ที่มอบให้แก่ 'ราชา' ภายใต้บัญชีที่แปดผ่านยังดีเปอร์ตัวเนอเกอรี (Yang di-Pertua Negeri) ของแต่ละรัฐ ซึ่งเป็นประมุขของรัฐตามที่นิยามในมาตรา 160(2)"
 
 lang: "th"
-sourceContentHash: "8431620b21e8ef56"
+sourceContentHash: "a2890854896ece76"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

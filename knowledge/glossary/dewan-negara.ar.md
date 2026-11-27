@@ -27,7 +27,7 @@ verificationNeeded:
   - "النص باللغة الماليزية للدستور الاتحادي هو ترجمة من دائرة النائب العام. وإلى أن يُعلَن نصًّا موثوقًا بموجب المادة 160B، يبقى النص الإنجليزي هو النص الموثوق."
 
 lang: "ar"
-sourceContentHash: "557a7189c48a772b"
+sourceContentHash: "6ab4eee327e1827e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

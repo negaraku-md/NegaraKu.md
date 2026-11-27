@@ -36,7 +36,7 @@ verificationNeeded:
   - "Vérifier les numéros d'Article et de section par rapport au texte intégral de la Constitution fédérale (Réimpression 2020, AGC) si une citation exacte est requise."
 
 lang: "fr"
-sourceContentHash: "0441017d6712ffd2"
+sourceContentHash: "deff10eecee5c73d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "「muhibbah」という語がどこから来たのか、そしてなぜそれがマレーシアにおける団結と調和をめぐる議論の中心的な語の一つになったのかを理解したいすべての人。"
 
 lang: "ja"
-sourceContentHash: "48b1125ac43c6f0e"
+sourceContentHash: "254b14bc12028c96"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

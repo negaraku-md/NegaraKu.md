@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "நிறுவனர்கள், முதலீட்டாளர்கள், மற்றும் மலேசியாவில் வணிக அமைப்பை முடிவு செய்யும் எவரும்."
 
 lang: "ta"
-sourceContentHash: "ba35930a62b0d001"
+sourceContentHash: "3b623ccf1292d435"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -30,7 +30,7 @@ faq:
     a: "제114(3)조는 SPR의 위원이 말레이시아 연방법원 법관과 동일한 이유 및 동일한 방법에 의하지 아니하고는 면직될 수 없다고 규정하고 있다——이는 통상의 행정 결정이 아니라 심판 절차이다. 한편, 제114(4)조는 위원이 복권되지 아니한 파산자가 된 경우 등 특정한 상황에서 면직을 의무화하고 있다."
 
 lang: "ko"
-sourceContentHash: "f7e6efb325bedae2"
+sourceContentHash: "277c8e30e0f5e3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

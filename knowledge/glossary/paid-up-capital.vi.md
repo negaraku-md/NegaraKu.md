@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Người sáng lập công ty, kế toán và bất kỳ ai đọc điều lệ hoặc báo cáo tài chính của một công ty."
 
 lang: "vi"
-sourceContentHash: "2025c24e85b0e3a8"
+sourceContentHash: "81fa2000eba9216c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

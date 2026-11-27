@@ -30,7 +30,7 @@ faq:
     a: "Pasal 114(3) menetapkan bahwa anggota SPR tidak dapat diberhentikan kecuali atas dasar dan dengan cara yang berlaku bagi hakim Mahkamah Federal—suatu proses tribunal, bukan keputusan administratif biasa. Pasal 114(4), pada gilirannya, mewajibkan pemberhentian dalam keadaan tertentu, misalnya ketika seorang anggota menjadi pailit yang belum dipulihkan (undischarged bankrupt)."
 
 lang: "id"
-sourceContentHash: "f7e6efb325bedae2"
+sourceContentHash: "277c8e30e0f5e3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

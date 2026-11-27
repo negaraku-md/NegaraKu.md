@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Pelajar, penerjemah, wartawan, dan siapa saja yang ingin memahami perbedaan antara istilah sosio-politik 'rakyat' dan istilah hukum 'warga negara' dalam konteks Malaysia."
 
 lang: "id"
-sourceContentHash: "4db392730fe2ab93"
+sourceContentHash: "da3ffb913498da92"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

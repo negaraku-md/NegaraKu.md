@@ -30,7 +30,7 @@ faq:
     a: "यह 31 अगस्त 1957 को मलाया संघ के संविधान के रूप में प्रभावी हुआ, और बाद में 16 सितंबर 1963 को गठित मलेशिया संघ पर विस्तारित और लागू किया गया।"
 
 lang: "hi"
-sourceContentHash: "b3ff63755f278553"
+sourceContentHash: "f1f3f1ddf64ff04d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

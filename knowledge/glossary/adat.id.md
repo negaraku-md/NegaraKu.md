@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Siapa saja yang ingin memahami sistem hukum tradisional Melayu — pelajar sejarah, hukum, dan kajian Malaysia, wartawan, pegawai negeri, dan pembaca umum yang bingung dengan perbedaan antara Adat Perpatih dan Adat Temenggung."
 
 lang: "id"
-sourceContentHash: "d4460bfefd0c039f"
+sourceContentHash: "e3de56adfde7565e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
