@@ -66,7 +66,7 @@ sources:
 
 entity: "Private Clinic (Malaysia)"
 relations: []
-related: []
+related: ["register-sdn-bhd", "start-pharmacy-business-malaysia", "business-licence-malaysia"]
 keywords: ["comment ouvrir une clinique privée malaisie", "enregistrer clinique privée Act 586", "loi sur les établissements et services de santé privés 1998", "enregistrement de clinique CKAPS", "certificat annuel d'exercice professionnel malaisie", "clinique dentaire privée malaisie", "licence loi sur les poisons 1952 clinique", "how to open a private clinic malaysia", "annual practising certificate malaysia"]
 social:
   hashtags:

@@ -96,7 +96,7 @@ wikidata: "Q137161"
 relations:
   - { rel: "administered-by", to: "majlis-sukan-negara" }
   - { rel: "related-to", to: "program-podium" }
-related: []
+related: ["malaysian-sport-governance", "badminton-in-malaysia", "football-in-malaysia"]
 keywords: ["सुकमा", "SUKMA", "मलेशिया खेल", "Sukan Malaysia", "राष्ट्रीय खेल परिषद", "Majlis Sukan Negara", "पोडियम कार्यक्रम", "Program Podium", "युवा खिलाड़ी", "खेल विकास", "राष्ट्रीय खेल संस्थान", "Institut Sukan Negara"]
 framework: explainer
 hero: '/media/sports/sukma-games/hero.webp'

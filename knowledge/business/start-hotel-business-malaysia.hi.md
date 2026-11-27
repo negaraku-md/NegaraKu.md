@@ -68,7 +68,7 @@ sources:
     publisher: "मलेशिया कंपनी आयोग (SSM)"
 
 relations: []
-related: []
+related: ["register-sdn-bhd", "business-licence-malaysia"]
 keywords: ["मलेशिया में होटल व्यवसाय शुरू करें", "मलेशिया होटल लाइसेंस", "MOTAC आवास पंजीकरण", "tourist accommodation premises registration", "Tourism Industry Act 1992", "होटल के लिए PBT व्यवसाय परिसर लाइसेंस", "होटल के लिए BOMBA अग्नि प्रमाणपत्र", "मलेशिया होटल स्टार रेटिंग MOTAC"]
 social:
   hashtags:

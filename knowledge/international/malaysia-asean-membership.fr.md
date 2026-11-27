@@ -127,7 +127,7 @@ wikidata: "Q7768"
 relations:
   - { rel: "related-to", to: "malaysia-foreign-policy" }
   - { rel: "related-to", to: "rcep-malaysia" }
-related: []
+related: ["malaysia-singapore-relations"]
 keywords: ["ASEAN", "Malaysia ASEAN", "Deklarasi Bangkok", "Piagam ASEAN", "Komuniti ASEAN", "pengerusi ASEAN 2025", "Tun Abdul Razak", "Timor-Leste ASEAN"]
 framework: explainer
 ---

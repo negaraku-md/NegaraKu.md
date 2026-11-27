@@ -87,7 +87,7 @@ wikidata: "Q97208190"
 relations:
   - { rel: "governs", to: "malaysian-sport-associations" }
   - { rel: "related-to", to: "malaysia-olympic-history" }
-related: []
+related: ["badminton-in-malaysia", "football-in-malaysia", "sukma-games"]
 keywords: ["حوكمة الرياضة في ماليزيا", "Majlis Sukan Negara", "مفوّض الرياضة", "قانون تطوير الرياضة 1997", "المجلس الأولمبي الماليزي", "وزارة الشباب والرياضة", "المعهد الوطني للرياضة"]
 framework: explainer
 hero: '/media/sports/malaysian-sport-governance/hero.webp'

@@ -83,7 +83,7 @@ wikidata: "Q6742036"
 relations:
   - { rel: "administered-by", to: "majlis-peperiksaan-malaysia" }
   - { rel: "related-to", to: "stpm" }
-related: []
+related: ["malaysian-education-system"]
 keywords: ["MUET", "Majlis Peperiksaan Malaysia", "MPM", "MUET बैंड", "विश्वविद्यालय प्रवेश", "STPM", "अंग्रेज़ी भाषा दक्षता", "स्नातक डिग्री"]
 framework: explainer
 stayFacts:

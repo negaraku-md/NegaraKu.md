@@ -96,7 +96,7 @@ wikidata: "Q137161"
 relations:
   - { rel: "administered-by", to: "majlis-sukan-negara" }
   - { rel: "related-to", to: "program-podium" }
-related: []
+related: ["malaysian-sport-governance", "badminton-in-malaysia", "football-in-malaysia"]
 keywords: ["سوكما", "SUKMA", "الألعاب الماليزية", "Sukan Malaysia", "المجلس الوطني للرياضة", "Majlis Sukan Negara", "برنامج المنصة", "Program Podium", "الرياضيون الناشئون", "تطوير الرياضة", "المعهد الوطني للرياضة", "Institut Sukan Negara"]
 framework: explainer
 hero: '/media/sports/sukma-games/hero.webp'

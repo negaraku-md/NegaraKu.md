@@ -78,7 +78,7 @@ wikidata: "Q5260533"
 relations:
   - { rel: "related-to", to: "international-trade-in-endangered-species-act" }
   - { rel: "related-to", to: "taman-negara" }
-related: []
+related: ["national-parks-and-protected-areas-malaysia"]
 keywords: ["قانون حفظ الحياة البرية", "Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "الحياة البرية المحمية بالكامل", "totally protected wildlife", "الحياة البرية المحمية", "رخصة الحياة البرية", "تصريح خاص", "special permit", "الاتجار بالحياة البرية", "دائرة الحياة البرية والمتنزهات الوطنية"]
 framework: rules
 hero: '/media/environment/wildlife-conservation-act-and-perhilitan/hero.webp'

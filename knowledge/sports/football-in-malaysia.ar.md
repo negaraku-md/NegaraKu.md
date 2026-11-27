@@ -91,7 +91,7 @@ relations:
   - { rel: "administered-by", to: "football-association-of-malaysia" }
   - { rel: "related-to", to: "harimau-malaya" }
   - { rel: "related-to", to: "malaysia-cup" }
-related: []
+related: ["malaysian-sport-governance", "badminton-in-malaysia", "sukma-games"]
 keywords: ["كرة القدم الماليزية", "كأس ماليزيا", "هاريماو مالايا", "FAM", "الدوري الممتاز", "AFF", "football malaysia"]
 framework: history-culture
 hero: '/media/sports/football-in-malaysia/hero.webp'

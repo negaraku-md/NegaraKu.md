@@ -68,7 +68,7 @@ sources:
     publisher: "Comisión de Sociedades de Malasia (SSM)"
 
 relations: []
-related: []
+related: ["register-sdn-bhd", "business-licence-malaysia"]
 keywords: ["iniciar negocio hotelero malasia", "licencia hotel malasia", "registro alojamiento MOTAC", "registro local alojamiento turístico", "Tourism Industry Act 1992", "licencia local comercial PBT hotel", "certificado contra incendios BOMBA hotel", "clasificación estrellas hotel malasia MOTAC"]
 social:
   hashtags:

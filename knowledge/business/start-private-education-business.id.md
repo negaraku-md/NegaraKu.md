@@ -69,7 +69,7 @@ sources:
 
 entity: "Private Education Business (Malaysia)"
 relations: []
-related: []
+related: ["register-sdn-bhd", "start-childcare-centre-taska", "business-licence-malaysia"]
 keywords: ["start tuition centre malaysia", "private education licence malaysia", "register tuition centre JPN", "Education Act 1996 section 79", "private school registration malaysia", "MOE private education division", "Act 555 private higher education malaysia"]
 social:
   hashtags:

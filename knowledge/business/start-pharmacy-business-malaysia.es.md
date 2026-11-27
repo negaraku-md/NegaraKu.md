@@ -72,7 +72,7 @@ sources:
 
 entity: "Retail Pharmacy Business (Malaysia)"
 relations: []
-related: []
+related: ["register-sdn-bhd", "start-private-clinic-malaysia", "business-licence-malaysia"]
 keywords: ["abrir farmacia malasia", "licencia venenos tipo A malasia", "licencia farmacia minorista malasia", "farmacéutico registrado malasia", "certificado anual de retención farmacéutico", "Poisons Act 1952 malasia", "establecer farmacia comunitaria malasia", "división fiscalización farmacéutica"]
 social:
   hashtags:

@@ -105,7 +105,7 @@ relations:
   - { rel: "related-to", to: "proton" }
   - { rel: "related-to", to: "perodua" }
   - { rel: "related-to", to: "national-automotive-policy" }
-related: []
+related: ["automotive-industry-malaysia"]
 keywords: ["Proton", "Perodua", "voiture nationale", "Geely", "DRB-HICOM", "UMW", "Sime Darby", "Politique nationale de l'automobile", "NAP 2020", "véhicules électriques Malaisie", "e.MAS 7", "QV-E"]
 framework: profile
 hero: '/media/industries/automotive-industry/hero.webp'

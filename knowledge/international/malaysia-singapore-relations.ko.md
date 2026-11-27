@@ -85,7 +85,7 @@ relations:
   - { rel: "related-to", to: "johor-singapore-causeway" }
   - { rel: "related-to", to: "js-sez-johor-singapore-special-economic-zone" }
   - { rel: "compares-with", to: "malaysia-indonesia-relations" }
-related: []
+related: ["malaysia-asean-membership"]
 keywords: ["hubungan Malaysia Singapura", "perjanjian air 1962", "RTS Link", "Tambak Johor", "Pulau Batu Puteh", "JS-SEZ", "perpisahan 1965", "dagangan dua hala"]
 framework: explainer
 ---

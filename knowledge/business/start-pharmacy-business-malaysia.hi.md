@@ -72,7 +72,7 @@ sources:
 
 entity: "Retail Pharmacy Business (Malaysia)"
 relations: []
-related: []
+related: ["register-sdn-bhd", "start-private-clinic-malaysia", "business-licence-malaysia"]
 keywords: ["मलेशिया में फार्मेसी खोलें", "मलेशिया टाइप A विष लाइसेंस", "मलेशिया खुदरा फार्मेसी लाइसेंस", "मलेशिया पंजीकृत फार्मासिस्ट", "फार्मासिस्ट वार्षिक प्रतिधारण प्रमाणपत्र", "विष अधिनियम 1952", "सामुदायिक फार्मेसी स्थापना", "open pharmacy malaysia", "type A poisons licence malaysia", "registered pharmacist malaysia", "poisons act 1952 malaysia", "pharmacy enforcement division"]
 social:
   hashtags:

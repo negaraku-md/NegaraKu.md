@@ -83,7 +83,7 @@ wikidata: "Q6742036"
 relations:
   - { rel: "administered-by", to: "majlis-peperiksaan-malaysia" }
   - { rel: "related-to", to: "stpm" }
-related: []
+related: ["malaysian-education-system"]
 keywords: ["MUET", "مجلس الامتحانات الماليزي", "MPM", "نطاق MUET", "القبول الجامعي", "STPM", "إتقان اللغة الإنجليزية", "درجة البكالوريوس"]
 framework: explainer
 stayFacts:

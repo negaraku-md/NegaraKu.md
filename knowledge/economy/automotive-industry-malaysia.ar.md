@@ -107,7 +107,7 @@ sources:
 
 entity: "Automotive industry of Malaysia"
 relations: []
-related: []
+related: ["automotive-industry"]
 keywords: ["صناعة السيارات في ماليزيا", "Proton", "Perodua", "National Automotive Policy", "NAP 2020", "السيارات الكهربائية في ماليزيا", "TIV", "تصنيع السيارات في ماليزيا", "حوافز السيارات الكهربائية", "CKD"]
 framework: profile
 ---

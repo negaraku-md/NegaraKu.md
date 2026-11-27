@@ -85,7 +85,7 @@ relations:
   - { rel: "related-to", to: "johor-singapore-causeway" }
   - { rel: "related-to", to: "js-sez-johor-singapore-special-economic-zone" }
   - { rel: "compares-with", to: "malaysia-indonesia-relations" }
-related: []
+related: ["malaysia-asean-membership"]
 keywords: ["relations Malaisie Singapour", "accord sur l'eau 1962", "RTS Link", "Causeway de Johor", "Pulau Batu Puteh", "JS-SEZ", "séparation de 1965", "commerce bilatéral"]
 framework: explainer
 ---

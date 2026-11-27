@@ -60,7 +60,7 @@ sources:
 
 entity: "Home-Based Business (Malaysia)"
 relations: []
-related: []
+related: ["register-sdn-bhd", "business-licence-malaysia"]
 keywords: ["negocio desde casa malasia", "registrar negocio en línea malasia", "SSM ezBiz empresa unipersonal", "licencia perniagaan dari rumah", "licencia negocio doméstico PBT", "LHDN e-Daftar renta del negocio", "iniciar negocio desde casa malasia"]
 social:
   hashtags:

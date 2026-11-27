@@ -81,7 +81,7 @@ relations:
   - { rel: "governs", to: "national-parks-act-1980" }
   - { rel: "related-to", to: "biodiversity-malaysia" }
   - { rel: "related-to", to: "unesco-world-heritage-sites-malaysia" }
-related: []
+related: ["wildlife-conservation-act-and-perhilitan"]
 keywords: ["تامان نيغارا", "taman negara", "المناطق المحمية", "kawasan perlindungan", "قانون الحدائق الوطنية 1980", "Akta Taman Negara 1980", "حديقة كينابالو", "Gunung Mulu", "Sabah Parks", "Sarawak Forestry", "الحدائق البحرية", "taman laut", "PERHILITAN", "التراث العالمي لليونسكو", "Warisan Dunia UNESCO"]
 framework: explainer
 hero: '/media/environment/national-parks-and-protected-areas-malaysia/hero.webp'

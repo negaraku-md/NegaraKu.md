@@ -78,7 +78,7 @@ wikidata: "Q5260533"
 relations:
   - { rel: "related-to", to: "international-trade-in-endangered-species-act" }
   - { rel: "related-to", to: "taman-negara" }
-related: []
+related: ["national-parks-and-protected-areas-malaysia"]
 keywords: ["वन्यजीव संरक्षण अधिनियम", "Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "पूर्णतः संरक्षित वन्यजीव", "totally protected wildlife", "संरक्षित वन्यजीव", "वन्यजीव लाइसेंस", "विशेष परमिट", "special permit", "वन्यजीव तस्करी", "वन्यजीव एवं राष्ट्रीय उद्यान विभाग"]
 framework: rules
 hero: '/media/environment/wildlife-conservation-act-and-perhilitan/hero.webp'

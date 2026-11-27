@@ -71,7 +71,7 @@ sources:
 
 entity: "Retail Pharmacy Business (Malaysia)"
 relations: []
-related: []
+related: ["register-sdn-bhd", "start-private-clinic-malaysia", "business-licence-malaysia"]
 keywords: ["open pharmacy malaysia", "type A poisons licence malaysia", "retail pharmacy licence malaysia", "registered pharmacist malaysia", "annual retention certificate pharmacist", "poisons act 1952 malaysia", "community pharmacy setup malaysia", "pharmacy enforcement division"]
 social:
   hashtags:

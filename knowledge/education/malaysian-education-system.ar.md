@@ -87,7 +87,7 @@ relations:
   - { rel: "related-to", to: "stpm-vs-matriculation" }
   - { rel: "related-to", to: "tvet-malaysia" }
   - { rel: "related-to", to: "public-universities-malaysia" }
-related: []
+related: ["muet-and-university-entrance-tests"]
 keywords: ["نظام التعليم الماليزي", "Malaysian education system", "وزارة التعليم الماليزية", "KPM", "SPM", "STPM", "التهيئة الماليزية", "matriculation Malaysia", "TVET Malaysia", "الإطار الوطني للمؤهلات الماليزية"]
 framework: explainer
 hero: '/media/education/malaysian-education-system/hero.webp'

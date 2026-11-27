@@ -63,7 +63,7 @@ sources:
 
 entity: "TASKA (Childcare Centre, Malaysia)"
 relations: []
-related: []
+related: ["register-sdn-bhd", "start-private-education-business", "business-licence-malaysia"]
 keywords: ["मलेशिया में taska स्थापित करें", "मलेशिया बाल-देखभाल केंद्र पंजीकरण", "TASKA JKM registration", "Child Care Centre Act 1984", "Kursus Asuhan PERMATA KAP", "taska देखभालकर्ता अनुपात", "मलेशिया डे-केयर खोलें"]
 social:
   hashtags:

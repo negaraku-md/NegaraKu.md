@@ -78,7 +78,7 @@ wikidata: "Q5260533"
 relations:
   - { rel: "related-to", to: "international-trade-in-endangered-species-act" }
   - { rel: "related-to", to: "taman-negara" }
-related: []
+related: ["national-parks-and-protected-areas-malaysia"]
 keywords: ["Loi sur la conservation de la faune sauvage", "Wildlife Conservation Act 2010", "Act 716", "PERHILITAN", "faune sauvage totalement protégée", "totally protected wildlife", "faune sauvage protégée", "licence de faune sauvage", "permis spécial", "special permit", "trafic de faune sauvage", "Département de la faune sauvage et des parcs nationaux"]
 framework: rules
 hero: '/media/environment/wildlife-conservation-act-and-perhilitan/hero.webp'
