@@ -23,12 +23,22 @@ keyTakeaways:
 appliesTo: "Pembayar cukai individu, pekerja, pekerja gig, SME dan majikan, serta sesiapa yang merancang di sekitar perubahan cukai, gaji dan bantuan tunai Belanjawan 2027 Malaysia."
 
 lang: "ms"
-sourceContentHash: "425e9a866d80e746"
+sourceContentHash: "9fe163d3178410ed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
 status: "published"
-revision: 0
+revision: 1
+revisions:
+  - revision: 0
+    date: 2026-10-10
+    change: "Digubal, disemak dan diluluskan untuk penerbitan (penjelasan Belanjawan 2027, pada hari pembentangan)."
+    reviewer: "ashton-tan"
+  - revision: 1
+    date: 2026-11-27
+    change: "Kemas kini status parlimen: Belanjawan 2027 lulus peringkat dasar Dewan Rakyat (29 Okt 2026) dan Rang Undang-undang Perbekalan (Belanjawan) 2027 melepasi bacaan kali ketiganya (26 Nov 2026); menambah rangka jumlah pelaburan RM510b dan imej hero Parlimen. Kemas kini kesegaran AI; fakta parlimen disandarkan kepada Bernama."
+    contributor: "ai"
+    reviewer: null
 reviewed: "2026-10-10"
 reviewDue: 2028-04-10
 published: "2026-10-10"
@@ -37,7 +47,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 sensitivity: "none"
 
-updated: 2026-10-10
+updated: 2026-11-27
 sources:
   - title: "Belanjawan 2027 (Portal Belanjawan 2027 — Teks Ucapan, Tinjauan Ekonomi, Hasil & Perbelanjaan) (Belanjawan 2027 (Budget 2027 Portal — Speech, Economic Outlook, Revenue & Expenditure))"
     url: "https://belanjawan.mof.gov.my/en"
@@ -54,6 +64,10 @@ sources:
     url: "https://thesun.my/budget-2027/budget-2027-proposes-tax-measures-to-support-businesses-improve-cash-flow/"
     publisher: "The Sun"
     date: "2026-10-09"
+  - title: "Dewan Rakyat lulus Belanjawan 2027 (Dewan Rakyat passes Budget 2027)"
+    url: "https://www.bernama.com/en/general/news.php?id=2640018"
+    publisher: "Bernama"
+    date: "2026-11-26"
 
 
 entity: "Malaysia Budget 2027"
@@ -70,6 +84,14 @@ faq:
   - q: Mulai bila pembukaan akaun simpanan atau akaun semasa dikecualikan daripada duti setem di bawah Belanjawan 2027?
     a: Mulai 1 Januari 2027, pembukaan akaun simpanan atau akaun semasa dikecualikan sepenuhnya daripada duti setem. Tarikh yang sama turut membawa pemotongan cukai perkhidmatan bagi perkhidmatan penjagaan warga tua daripada 8% kepada 6%, serta permulaan hak bekerja bagi pasangan ekspatriat yang memegang pas tanggungan. Tarikh-tarikh ini seperti yang diumumkan pada 9 Oktober 2026 dan hanya berkuat kuasa setelah undang-undang serta perintah warta yang membolehkannya diluluskan.
 framework: explainer
+hero: "/media/economy/malaysia-budget-2027/hero.webp"
+heroAlt: "Bangunan Parlimen Malaysia di Kuala Lumpur, tempat Belanjawan 2027 dibahaskan dan diluluskan"
+heroCredit: "CEphoto, Uwe Aranas / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Bangunan_Parlimen_Malaysia-01.jpg"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: "the Malaysian Houses of Parliament (Bangunan Parlimen) in Kuala Lumpur"
 ---
 
 Pada 9 Oktober 2026, Perdana Menteri dan Menteri Kewangan Anwar Ibrahim
@@ -85,6 +107,29 @@ menjadi mengikat hanya apabila Rang Undang-undang Kewangan, Akta Perbekalan
 (Belanjawan) 2027 dan apa-apa perintah pemboleh diluluskan oleh Parlimen dan
 diwartakan. Untuk memahami cara proses itu berjalan, lihat
 [kitaran belanjawan persekutuan](/economy/federal-budget).
+
+## Status di Parlimen
+
+*Dikemas kini 27 November 2026.* Belanjawan 2027 kini telah melepasi **Dewan
+Rakyat**. Ia lulus pada **peringkat dasar pada 29 Oktober 2026** secara undi
+suara — selepas kerajaan menandatangani perjanjian keyakinan dan bekalan
+(confidence-and-supply) dengan 13 Ahli Parlimen pembangkang dan bebas — dan
+**Rang Undang-undang Perbekalan (Belanjawan) 2027 lulus bacaan kali ketiganya
+pada 26 November 2026 tanpa pindaan**, bersama-sama usul yang membenarkan
+perbelanjaan pembangunan sehingga **RM85 bilion**. Rang undang-undang itu kini
+dibawa ke **Dewan Negara** (Senat) untuk perbahasan, dan kemudian untuk
+**perkenan diraja**, sebelum ia menjadi Akta Perbekalan (Belanjawan) 2027.
+
+Dua perkara masih mengekalkan langkah-langkah di bawah sebagai *diumumkan, belum
+berkuat kuasa*: perubahan cukai bergantung pada **Rang Undang-undang Kewangan**
+yang berasingan, dan pelepasan serta perubahan kadar tertentu masing-masing
+memerlukan perintah warta tersendiri. Tarikh kuat kuasa yang dinyatakan dalam
+ucapan tidak berubah.
+
+Mengenai angka utama: **RM459.8 bilion** di bawah ialah peruntukan kerajaan
+persekutuan. Dengan mengira pelaburan oleh GLIC, perkongsian awam-swasta dan
+badan berkanun, kerajaan kini meletakkan **jumlahnya pada kira-kira RM510
+bilion**.
 
 ## Jika anda seorang individu
 
@@ -169,7 +214,11 @@ subsidi bahan api sesuai dengan gambaran kos sara hidup, lihat
 ## Diumumkan berbanding berkuat kuasa
 
 Segala-galanya di sini adalah **seperti yang diumumkan pada 9 Oktober 2026**.
-Tiada satu pun yang menjadi undang-undang lagi. Perubahan cukai berkuat kuasa
+Setakat **27 November 2026**, tiada satu pun daripadanya yang berkuat kuasa
+lagi: Rang Undang-undang Perbekalan (Belanjawan) 2027 telah lulus Dewan Rakyat
+tetapi masih memerlukan Dewan Negara dan perkenan diraja, dan perubahan cukai
+bergantung pada Rang Undang-undang Kewangan yang berasingan. Perubahan cukai
+berkuat kuasa
 melalui **Rang Undang-undang Kewangan** (dan Tahun Taksiran yang berkaitan);
 perbelanjaan dibenarkan oleh **Akta Perbekalan (Belanjawan) 2027**; dan
 pelepasan atau perubahan kadar tertentu dilaksanakan melalui **perintah yang
@@ -191,7 +240,9 @@ undang-undang. Lihat [kitaran belanjawan persekutuan](/economy/federal-budget).
 
 ## Apa seterusnya
 
-Apabila dokumen rasmi dan Rang Undang-undang Kewangan diterbitkan, halaman ini
+Rang Undang-undang Perbekalan (Belanjawan) 2027 melepasi Dewan Rakyat pada 26
+November 2026 dan kini beralih ke Dewan Negara serta perkenan diraja. Apabila
+Rang Undang-undang Kewangan dan perintah warta rasmi diterbitkan, halaman ini
 akan dikemaskini untuk menandakan setiap langkah **berkuat kuasa** (dengan
 rujukan wartanya) dan untuk membetulkan mana-mana angka yang berubah antara
 ucapan dan undang-undang. Untuk proses perundangan langkah demi langkah, baca

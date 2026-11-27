@@ -23,12 +23,22 @@ keyTakeaways:
 appliesTo: "Contribuables individuels, salariés, travailleurs de plateforme, PME et employeurs, et toute personne qui planifie autour des changements d'impôts, de salaires et d'aides en liquidités du Budget 2027 de la Malaisie."
 
 lang: "fr"
-sourceContentHash: "425e9a866d80e746"
+sourceContentHash: "9fe163d3178410ed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
 status: "published"
-revision: 0
+revision: 1
+revisions:
+  - revision: 0
+    date: 2026-10-10
+    change: "Rédigé, révisé et approuvé pour publication (fiche explicative du Budget 2027, le jour de la présentation)."
+    reviewer: "ashton-tan"
+  - revision: 1
+    date: 2026-11-27
+    change: "Mise à jour du statut parlementaire : le Budget 2027 a franchi l'étape de politique générale au Dewan Rakyat (29 oct. 2026) et le projet de loi de crédits (budget) 2027 a passé sa troisième lecture (26 nov. 2026) ; ajout du cadrage de l'investissement total de RM510 milliards et d'une image hero du Parlement. Mise à jour de fraîcheur par IA ; faits parlementaires attribués à Bernama."
+    contributor: "ai"
+    reviewer: null
 reviewed: "2026-10-10"
 reviewDue: 2028-04-10
 published: "2026-10-10"
@@ -37,7 +47,7 @@ aiAssisted: true
 reviewer: null
 sensitivity: "none"
 
-updated: 2026-10-10
+updated: 2026-11-27
 sources:
   - title: "Belanjawan 2027 (Portail du Budget 2027 — Discours, Perspectives économiques, Recettes et Dépenses) (Belanjawan 2027 (Budget 2027 Portal — Speech, Economic Outlook, Revenue & Expenditure))"
     url: "https://belanjawan.mof.gov.my/en"
@@ -54,6 +64,10 @@ sources:
     url: "https://thesun.my/budget-2027/budget-2027-proposes-tax-measures-to-support-businesses-improve-cash-flow/"
     publisher: "The Sun"
     date: "2026-10-09"
+  - title: "Le Dewan Rakyat adopte le Budget 2027 (Dewan Rakyat passes Budget 2027)"
+    url: "https://www.bernama.com/en/general/news.php?id=2640018"
+    publisher: "Bernama"
+    date: "2026-11-26"
 
 
 entity: "Malaysia Budget 2027"
@@ -70,6 +84,14 @@ faq:
   - q: À partir de quand l'ouverture d'un compte d'épargne ou courant est-elle exonérée du droit de timbre dans le cadre du Budget 2027 ?
     a: À partir du 1er janvier 2027, l'ouverture d'un compte d'épargne ou courant est totalement exonérée du droit de timbre. La même date porte aussi la réduction de la taxe sur les services pour les services de soins aux personnes âgées, de 8 % à 6 %, et le début des droits au travail du conjoint expatrié titulaire d'un pass de personne à charge. Ces dates sont celles annoncées le 9 octobre 2026 et ne prennent effet qu'une fois adoptés la loi habilitante et les arrêtés de publication officielle.
 framework: explainer
+hero: "/media/economy/malaysia-budget-2027/hero.webp"
+heroAlt: "Le Parlement de Malaisie (Bangunan Parlimen) à Kuala Lumpur, où le Budget 2027 a été débattu et adopté"
+heroCredit: "CEphoto, Uwe Aranas / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Bangunan_Parlimen_Malaysia-01.jpg"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: "the Malaysian Houses of Parliament (Bangunan Parlimen) in Kuala Lumpur"
 ---
 
 Le 9 octobre 2026, le Premier ministre et ministre des Finances Anwar Ibrahim a
@@ -85,6 +107,29 @@ adopte et que sont publiés au journal officiel le projet de loi de finances, la
 crédits (Supply (Budget) 2027 Act) et toute ordonnance d'application. Pour savoir
 comment ce processus fonctionne, voir
 [le cycle du budget fédéral](/economy/federal-budget).
+
+## Statut parlementaire
+
+*Mise à jour le 27 novembre 2026.* Le Budget 2027 a désormais franchi le
+**Dewan Rakyat**. Il a passé l'**étape de politique générale le 29 octobre 2026**
+par vote à main levée — après que le gouvernement eut signé un accord de confiance
+et de crédits avec 13 députés de l'opposition et indépendants — et le **projet de
+loi de crédits (budget) 2027 a passé sa troisième lecture le 26 novembre 2026 sans
+amendement**, aux côtés d'une motion autorisant jusqu'à **RM85 milliards** de
+dépenses de développement. Le projet de loi passe maintenant au **Dewan Negara**
+(Sénat) pour débat, puis à la **sanction royale**, avant de devenir la loi de
+crédits (budget) 2027.
+
+Deux choses maintiennent encore les mesures ci-dessous *annoncées, pas encore en
+vigueur* : les changements fiscaux relèvent d'un **projet de loi de finances**
+distinct, et les abattements et changements de taux précis nécessitent chacun leurs
+propres ordonnances publiées au journal officiel. Les dates d'entrée en vigueur
+indiquées dans le discours sont inchangées.
+
+Concernant le chiffre phare : les **RM459.8 milliards** ci-dessous correspondent à
+l'allocation du gouvernement fédéral. En comptant les investissements des GLIC, des
+partenariats public-privé et des organismes statutaires, le gouvernement situe
+désormais le **total à environ RM510 milliards**.
 
 ## Si vous êtes un particulier
 
@@ -171,8 +216,12 @@ subventions au carburant s'inscrivent dans le tableau du coût de la vie, voir
 
 ## Annoncé contre en vigueur
 
-Tout ce qui figure ici est **tel qu'annoncé le 9 octobre 2026**. Rien n'est encore la
-loi. Les changements fiscaux prennent effet par le biais du **projet de loi de
+Tout ce qui figure ici est **tel qu'annoncé le 9 octobre 2026**. Au
+**27 novembre 2026**, rien n'est encore en vigueur : le projet de loi de crédits
+(budget) 2027 a été adopté par le Dewan Rakyat mais nécessite encore le Dewan Negara
+et la sanction royale, et les changements fiscaux relèvent d'un projet de loi de
+finances distinct.
+Les changements fiscaux prennent effet par le biais du **projet de loi de
 finances** (et l'année d'imposition correspondante) ; les dépenses sont autorisées par
 la **loi de crédits (Supply (Budget) 2027 Act)** ; et les abattements ou changements
 de taux précis sont mis en œuvre par des **ordonnances publiées au journal officiel
@@ -195,8 +244,11 @@ semaines de débat parlementaire et des phases en commission avant de devenir lo
 
 ## Et après
 
-À mesure que les documents officiels et le projet de loi de finances seront publiés,
-cette page sera mise à jour pour marquer chaque mesure comme **en vigueur** (avec sa
-référence au journal officiel) et pour corriger tout chiffre ayant changé entre le
-discours et la loi. Pour le processus législatif étape par étape, lisez
+Le projet de loi de crédits (budget) 2027 a franchi le Dewan Rakyat le 26 novembre
+2026 et passe maintenant au Dewan Negara et à la sanction royale. À mesure que le
+projet de loi de finances et les ordonnances officielles publiées au journal officiel
+seront publiés, cette page sera mise à jour pour marquer chaque mesure comme
+**en vigueur** (avec sa référence au journal officiel) et pour corriger tout chiffre
+ayant changé entre le discours et la loi. Pour le processus législatif étape par
+étape, lisez
 [le cycle du budget fédéral](/economy/federal-budget).

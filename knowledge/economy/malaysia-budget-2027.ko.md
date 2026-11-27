@@ -22,12 +22,22 @@ keyTakeaways:
 appliesTo: "개인 납세자, 피고용인, 긱 노동자, 중소기업과 고용주, 그리고 말레이시아 2027년 예산안의 세금·임금·현금 지원 변경을 중심으로 계획을 세우는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "425e9a866d80e746"
+sourceContentHash: "9fe163d3178410ed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
 status: "published"
-revision: 0
+revision: 1
+revisions:
+  - revision: 0
+    date: 2026-10-10
+    change: "초안 작성, 검토 및 발행 승인 완료(2027년 예산안 해설, 제출 당일)."
+    reviewer: "ashton-tan"
+  - revision: 1
+    date: 2026-11-27
+    change: "의회 진행 상황 갱신: 2027년 예산안이 하원(Dewan Rakyat) 정책 단계를 통과하고(2026년 10월 29일), 2027년 세출(예산)법안이 3독회를 통과함(2026년 11월 26일); RM5,100억 총투자 관점과 의회 대표 이미지 추가. AI 신선도 업데이트; 의회 관련 사실은 Bernama 인용."
+    contributor: "ai"
+    reviewer: null
 reviewed: "2026-10-10"
 reviewDue: 2028-04-10
 published: "2026-10-10"
@@ -36,7 +46,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 sensitivity: "none"
 
-updated: 2026-10-10
+updated: 2026-11-27
 sources:
   - title: "2027년 예산안 (Belanjawan 2027 — 예산안 포털: 연설문, 경제 전망, 세입·세출)"
     url: "https://belanjawan.mof.gov.my/en"
@@ -53,6 +63,10 @@ sources:
     url: "https://thesun.my/budget-2027/budget-2027-proposes-tax-measures-to-support-businesses-improve-cash-flow/"
     publisher: "The Sun"
     date: "2026-10-09"
+  - title: "하원, 2027년 예산안 통과 (Dewan Rakyat passes Budget 2027)"
+    url: "https://www.bernama.com/en/general/news.php?id=2640018"
+    publisher: "Bernama"
+    date: "2026-11-26"
 
 
 entity: "Malaysia Budget 2027"
@@ -69,6 +83,14 @@ faq:
   - q: 2027년 예산안에 따라 예금 계좌나 당좌 계좌 개설이 인지세 면제가 되는 것은 언제부터인가요?
     a: 2027년 1월 1일부터 예금 계좌나 당좌 계좌 개설은 인지세가 전면 면제됩니다. 같은 날짜에는 노인 돌봄 서비스에 대한 서비스세를 8%에서 6%로 인하하는 것과, 부양 패스를 소지한 외국인 배우자의 취업권 시행도 함께 적용됩니다. 이 날짜들은 2026년 10월 9일에 발표된 것이며, 이를 시행하는 법률과 관보 명령이 통과된 뒤에야 효력을 발생합니다.
 framework: explainer
+hero: "/media/economy/malaysia-budget-2027/hero.webp"
+heroAlt: "2027년 예산안이 토론되고 통과된 쿠알라룸푸르의 말레이시아 국회의사당(Bangunan Parlimen)"
+heroCredit: "CEphoto, Uwe Aranas / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Bangunan_Parlimen_Malaysia-01.jpg"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: "the Malaysian Houses of Parliament (Bangunan Parlimen) in Kuala Lumpur"
 ---
 
 2026년 10월 9일, 총리 겸 재무장관인 안와르 이브라힘(Anwar Ibrahim)은 **2027년 예산안** —
@@ -80,6 +102,23 @@ framework: explainer
 *발표*이지 법이 아닙니다. 아래 조치들은 재정법안(Finance Bill), 2027년 세출(예산)법, 그리고
 관련 시행령이 의회를 통과하고 관보에 게재되어야 비로소 구속력을 갖습니다. 그 과정이 어떻게
 작동하는지는 [연방 예산 주기](/economy/federal-budget)를 참조하십시오.
+
+## 의회 진행 상황
+
+*2026년 11월 27일 업데이트.* 2027년 예산안은 이제 **하원(Dewan Rakyat)**을 통과했습니다.
+정부가 13명의 야당·무소속 의원과 신임·예산 합의를 체결한 뒤, 예산안은 **2026년 10월 29일
+정책 단계**를 구두 표결로 통과했고, **2027년 세출(예산)법안은 2026년 11월 26일 수정 없이
+3독회를 통과**했으며, 이와 함께 최대 **RM850억**의 개발 지출을 승인하는 동의안도 함께
+처리되었습니다. 이 법안은 이제 토론을 위해 **상원(Dewan Negara)**으로 넘어가고, 그 뒤
+**국왕 재가**를 거쳐야 비로소 2027년 세출(예산)법이 됩니다.
+
+여전히 아래 조치들을 *발표되었을 뿐 아직 시행되지 않은* 상태로 두는 두 가지가 있습니다.
+세금 변경은 별도의 **재정법안(Finance Bill)**을 통해 이루어지고, 특정 공제와 세율 변경은
+각각 별도의 관보 게재 시행령이 필요하다는 점입니다. 연설에서 밝힌 시행일은 변동이 없습니다.
+
+대표 수치에 관하여: 아래의 **RM4,598억**은 연방정부 배정액입니다. 정부연계투자회사(GLIC),
+민관협력(PPP), 법정기관의 투자를 합산하면, 정부는 이제 **총액을 약 RM5,100억**으로
+제시하고 있습니다.
 
 ## 개인이라면
 
@@ -149,7 +188,9 @@ framework: explainer
 
 ## 발표 대 시행
 
-여기 실린 모든 내용은 **2026년 10월 9일 발표 기준**입니다. 그 어느 것도 아직 법이 아닙니다.
+여기 실린 모든 내용은 **2026년 10월 9일 발표 기준**입니다. **2026년 11월 27일** 현재 그
+어느 것도 아직 시행되고 있지 않습니다. 2027년 세출(예산)법안은 하원을 통과했지만 여전히
+상원과 국왕 재가가 필요하며, 세금 변경은 별도의 재정법안을 통해 이루어집니다.
 세금 변경은 **재정법안**(및 해당 과세연도)을 통해 효력이 발생하고, 지출은 **2027년 세출(예산)법**으로
 승인되며, 특정 공제나 세율 변경은 **관보에 게재된 시행령(P.U.(A))**으로 실행됩니다. 날짜와
 수치는 연설과 최종 법률 사이에 바뀔 수 있으므로 — 계획이나 규정 준수를 위해 의존하는 사항은
@@ -167,6 +208,7 @@ framework: explainer
 
 ## 다음은 무엇인가
 
-공식 문서와 재정법안이 공표되는 대로, 이 페이지는 각 조치를 **시행됨**으로 표시하고(관보
+2027년 세출(예산)법안은 2026년 11월 26일 하원을 통과하여 이제 상원과 국왕 재가로 넘어갑니다.
+재정법안과 공식 관보 명령이 공표되는 대로, 이 페이지는 각 조치를 **시행됨**으로 표시하고(관보
 참조와 함께) 연설과 법률 사이에 바뀐 수치를 바로잡기 위해 업데이트될 것입니다. 단계별 입법
 과정은 [연방 예산 주기](/economy/federal-budget)를 읽어 보십시오.

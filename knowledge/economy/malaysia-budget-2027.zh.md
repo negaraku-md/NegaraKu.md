@@ -22,12 +22,22 @@ keyTakeaways:
 appliesTo: "个人纳税人、雇员、零工工作者、中小企业与雇主，以及任何围绕马来西亚2027财政预算案的税务、薪金与现金援助变动进行规划的人。"
 
 lang: "zh"
-sourceContentHash: "425e9a866d80e746"
+sourceContentHash: "9fe163d3178410ed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
 status: "published"
-revision: 0
+revision: 1
+revisions:
+  - revision: 0
+    date: 2026-10-10
+    change: "撰写、审核并批准发布（2027财政预算案解读，提呈当日）。"
+    reviewer: "ashton-tan"
+  - revision: 1
+    date: 2026-11-27
+    change: "国会进展更新：2027财政预算案通过下议院政策阶段（2026年10月29日），《2027年供应（财政预算）法案》三读通过（2026年11月26日）；新增约RM510 billion的总投资表述与一张国会大厦主图。AI时效性更新；国会相关事实引自马新社（Bernama）。"
+    contributor: "ai"
+    reviewer: null
 reviewed: "2026-10-10"
 reviewDue: 2028-04-10
 published: "2026-10-10"
@@ -36,7 +46,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 sensitivity: "none"
 
-updated: 2026-10-10
+updated: 2026-11-27
 sources:
   - title: "2027财政预算案（Budget 2027 Portal — Speech, Economic Outlook, Revenue & Expenditure）（2027财政预算案门户网站——演词、经济展望、收入与开支）"
     url: "https://belanjawan.mof.gov.my/en"
@@ -53,6 +63,10 @@ sources:
     url: "https://thesun.my/budget-2027/budget-2027-proposes-tax-measures-to-support-businesses-improve-cash-flow/"
     publisher: "The Sun"
     date: "2026-10-09"
+  - title: "下议院通过2027财政预算案（Dewan Rakyat passes Budget 2027）"
+    url: "https://www.bernama.com/en/general/news.php?id=2640018"
+    publisher: "Bernama"
+    date: "2026-11-26"
 
 
 entity: "Malaysia Budget 2027"
@@ -69,6 +83,14 @@ faq:
   - q: 根据2027年财政预算案,开设储蓄账户或往来账户从何时起获豁免印花税?
     a: 从2027年1月1日起,开设储蓄账户或往来账户将获完全豁免印花税。同一日期还包括:将长者护理服务的服务税从8%下调至6%,以及持家属准证的外籍配偶开始享有工作权利。这些日期是2026年10月9日公布的内容,须待相关法律与宪报命令通过后方才生效。
 framework: explainer
+hero: "/media/economy/malaysia-budget-2027/hero.webp"
+heroAlt: "位于吉隆坡的马来西亚国会大厦（Bangunan Parlimen），2027财政预算案在此辩论并通过"
+heroCredit: "CEphoto, Uwe Aranas / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Bangunan_Parlimen_Malaysia-01.jpg"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: "the Malaysian Houses of Parliament (Bangunan Parlimen) in Kuala Lumpur"
 ---
 
 2026年10月9日，首相兼财政部长安华（Anwar Ibrahim）提呈了
@@ -82,6 +104,22 @@ framework: explainer
 须待《财政法案》、《2027年供应（财政预算）法令》及任何
 相关实施命令获国会通过并刊宪后，方具约束力。关于该程序
 如何运作，参见[联邦财政预算周期](/economy/federal-budget)。
+
+## 国会进展
+
+*2026年11月27日更新。* 2027财政预算案现已通过**下议院**。它于**2026年10月29日**经
+口头表决通过**政策阶段**——此前政府与13名反对党及独立国会议员签署了信任供给
+协议——而**《2027年供应（财政预算）法案》已于2026年11月26日三读通过，未作
+修订**，同时另有一项议案授权最高**RM85 billion**的发展开支。该法案现将提交
+**上议院**（Dewan Negara）辩论，随后呈请**御准**，方能成为《2027年供应（财政
+预算）法令》。
+
+以下措施仍有两点使其停留在*已宣布、尚未生效*的状态：税务变动须通过另一部
+**《财政法案》**，而具体的回扣与税率变动各自须有相应的刊宪命令。演词所述的
+生效日期维持不变。
+
+关于标题数字：下文的**RM459.8 billion**是联邦政府的拨款。若计入政联投资公司
+（GLIC）、公私合营及法定机构的投资，政府现估算**总额约为RM510 billion**。
 
 ## 如果你是个人
 
@@ -155,7 +193,9 @@ framework: explainer
 
 ## 已宣布与已生效
 
-此处的一切均**以2026年10月9日宣布为准**。目前尚无一项成为法律。
+此处的一切均**以2026年10月9日宣布为准**。截至**2026年11月27日**，尚无一项生效：
+《2027年供应（财政预算）法案》已通过下议院，但仍须经上议院审议并获御准，而税务
+变动则须通过另一部《财政法案》。
 税务变动须通过**《财政法案》**（及相关课税年）生效；
 开支由**《2027年供应（财政预算）法令》**授权；而
 具体的回扣或税率变动则通过**刊宪命令
@@ -177,7 +217,7 @@ belanjawan.mof.gov.my上的**官方2027财政预算案文件**
 
 ## 下一步
 
-随着官方文件与《财政法案》陆续公布，本页将会
-更新，以标示每项措施**已生效**（连同其宪报参考编号），并
-更正任何在演词与法律之间有所变动的数字。关于
-逐步的立法程序，请阅读[联邦财政预算周期](/economy/federal-budget)。
+《2027年供应（财政预算）法案》已于2026年11月26日通过下议院，现正进入上议院审议
+及御准程序。随着《财政法案》与官方刊宪命令陆续公布，本页将会更新，以标示每项
+措施**已生效**（连同其宪报参考编号），并更正任何在演词与法律之间有所变动的
+数字。关于逐步的立法程序，请阅读[联邦财政预算周期](/economy/federal-budget)。

@@ -22,12 +22,22 @@ keyTakeaways:
 appliesTo: "個人納税者、被雇用者、ギグワーカー、中小企業（SME）および雇用主、そしてマレーシアの2027年度予算案における税・賃金・現金給付の変更をふまえて計画を立てるすべての人。"
 
 lang: "ja"
-sourceContentHash: "425e9a866d80e746"
+sourceContentHash: "9fe163d3178410ed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
 status: "published"
-revision: 0
+revision: 1
+revisions:
+  - revision: 0
+    date: 2026-10-10
+    change: "公開のために起草・レビューし、掲載を承認（2027年度予算案の解説、上程当日）。"
+    reviewer: "ashton-tan"
+  - revision: 1
+    date: 2026-11-27
+    change: "国会での審議状況の更新：2027年度予算案が下院（Dewan Rakyat）の政策段階を可決し（2026年10月29日）、2027年歳出（予算）法案が第三読会を通過した（2026年11月26日）。投資総額約RM5,100億という枠組みと国会議事堂のヒーロー画像を追加。AIによる鮮度更新、国会関連の事実はBernamaを出典とする。"
+    contributor: "ai"
+    reviewer: null
 reviewed: "2026-10-10"
 reviewDue: 2028-04-10
 published: "2026-10-10"
@@ -36,7 +46,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 sensitivity: "none"
 
-updated: 2026-10-10
+updated: 2026-11-27
 sources:
   - title: "2027年度予算（Belanjawan 2027 — 予算案ポータル：演説、経済見通し、歳入・歳出）(Belanjawan 2027 (Budget 2027 Portal — Speech, Economic Outlook, Revenue & Expenditure))"
     url: "https://belanjawan.mof.gov.my/en"
@@ -53,6 +63,10 @@ sources:
     url: "https://thesun.my/budget-2027/budget-2027-proposes-tax-measures-to-support-businesses-improve-cash-flow/"
     publisher: "The Sun"
     date: "2026-10-09"
+  - title: "下院、2027年度予算案を可決 (Dewan Rakyat passes Budget 2027)"
+    url: "https://www.bernama.com/en/general/news.php?id=2640018"
+    publisher: "Bernama"
+    date: "2026-11-26"
 
 
 entity: "Malaysia Budget 2027"
@@ -69,11 +83,27 @@ faq:
   - q: 2027年度予算案のもとで、貯蓄口座または当座口座の開設が印紙税免除となるのはいつからですか。
     a: 2027年1月1日から、貯蓄口座または当座口座の開設は完全に印紙税が免除されます。同じ日付にはまた、高齢者介護サービスに対するサービス税の8%から6%への引き下げと、扶養パスを持つ外国人配偶者の就労権の開始も含まれます。これらの日付は2026年10月9日に発表されたとおりであり、必要な法律および官報命令が可決されて初めて施行されます。
 framework: explainer
+hero: "/media/economy/malaysia-budget-2027/hero.webp"
+heroAlt: "クアラルンプールにあるマレーシア国会議事堂（Bangunan Parlimen）。2027年度予算案はここで審議・可決された。"
+heroCredit: "CEphoto, Uwe Aranas / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Bangunan_Parlimen_Malaysia-01.jpg"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: "the Malaysian Houses of Parliament (Bangunan Parlimen) in Kuala Lumpur"
 ---
 
 2026年10月9日、首相兼財務相のアンワル・イブラヒムは**2027年度予算案（Budget 2027）**を提出した——これは過去最大の**RM4,598億**の歳出計画であり、政府はこれを3つのテーマ、すなわち生活費の軽減、減税、賃上げを軸に打ち出した。
 
 このページは、発表された内容を、そして——それと同じくらい重要な——**各施策が実際にいつ施行されるのか**を、党派に偏らない平易な言葉でまとめたものである。読み進めるにあたって一つ心に留めておいてほしいのは、予算演説とは*発表*であって、法ではないということだ。以下の施策は、財政法案、2027年歳出（予算）法、および必要な施行命令が国会で可決され官報に掲載されて初めて拘束力を持つ。その手続きの仕組みについては、[連邦予算のサイクル](/economy/federal-budget)を参照のこと。
+
+## 国会での審議状況
+
+*2026年11月27日更新。* 2027年度予算案は、いまや**下院（Dewan Rakyat）**を通過した。政府が13人の野党および無所属議員と信任・歳出協定を結んだのち、**2026年10月29日に政策段階を**発声投票で可決し、**2027年歳出（予算）法案は2026年11月26日に修正なしで第三読会を通過**、あわせて最大**RM850億**の開発支出を承認する動議も可決された。法案は次に、審議のため**上院（Dewan Negara）**へ送られ、その後**国王裁可**を経て、2027年歳出（予算）法として成立する。
+
+以下の施策を依然として*発表済みだが未施行*にとどめているものが二つある。税制の変更は別個の**財政法案**によって施行されること、そして個別の控除や税率の変更にはそれぞれ官報掲載された命令が必要であることだ。演説で示された施行日に変更はない。
+
+総額の数字については、以下の**RM4,598億**は連邦政府の歳出配分である。GLIC（政府系投資会社）、官民連携、法定機関による投資を加えると、政府は現在、**総額を約RM5,100億**としている。
 
 ## あなたが個人の場合
 
@@ -119,7 +149,7 @@ framework: explainer
 
 ## 発表済みか、施行済みか
 
-ここに記載したものはすべて**2026年10月9日に発表された時点のもの**である。そのいずれもまだ法ではない。税制の変更は**財政法案**（および該当する賦課年度）を通じて施行され、歳出は**2027年歳出（予算）法**によって承認され、個別の控除や税率の変更は**官報掲載された命令（P.U.(A)）**を通じて実施される。日付や数字は、演説から最終的な法律までの間に変わり得る——したがって、計画やコンプライアンスのために頼りにしているものについては、[belanjawan.mof.gov.my](https://belanjawan.mof.gov.my/en)にある**公式の2027年度予算文書**と官報を確認してほしい。
+ここに記載したものはすべて**2026年10月9日に発表された時点のもの**である。**2026年11月27日**時点では、そのいずれもまだ施行されていない。2027年歳出（予算）法案は下院（Dewan Rakyat）を通過したが、なお上院（Dewan Negara）と国王裁可を必要とし、税制の変更は別個の財政法案によって施行される。税制の変更は**財政法案**（および該当する賦課年度）を通じて施行され、歳出は**2027年歳出（予算）法**によって承認され、個別の控除や税率の変更は**官報掲載された命令（P.U.(A)）**を通じて実施される。日付や数字は、演説から最終的な法律までの間に変わり得る——したがって、計画やコンプライアンスのために頼りにしているものについては、[belanjawan.mof.gov.my](https://belanjawan.mof.gov.my/en)にある**公式の2027年度予算文書**と官報を確認してほしい。
 
 ## よく混同されること
 
@@ -129,4 +159,4 @@ framework: explainer
 
 ## 今後について
 
-公式文書と財政法案が公表されるにつれて、このページは各施策を**施行済み**（官報の参照情報を付して）と記すよう、また演説から法律までの間に変わった数字を訂正するよう更新される。段階を追った立法プロセスについては、[連邦予算のサイクル](/economy/federal-budget)を読んでほしい。
+2027年歳出（予算）法案は2026年11月26日に下院（Dewan Rakyat）を通過し、現在は上院（Dewan Negara）と国王裁可へと進んでいる。財政法案と公式の官報命令が公表されるにつれて、このページは各施策を**施行済み**（官報の参照情報を付して）と記すよう、また演説から法律までの間に変わった数字を訂正するよう更新される。段階を追った立法プロセスについては、[連邦予算のサイクル](/economy/federal-budget)を読んでほしい。

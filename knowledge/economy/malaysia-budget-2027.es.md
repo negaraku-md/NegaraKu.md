@@ -23,12 +23,22 @@ keyTakeaways:
 appliesTo: "Contribuyentes individuales, empleados, trabajadores gig, pymes y empleadores, y cualquiera que planifique en torno a los cambios de impuestos, salarios y ayudas en efectivo del Presupuesto 2027 de Malasia."
 
 lang: "es"
-sourceContentHash: "425e9a866d80e746"
+sourceContentHash: "9fe163d3178410ed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
 status: "published"
-revision: 0
+revision: 1
+revisions:
+  - revision: 0
+    date: 2026-10-10
+    change: "Redactado, revisado y aprobado para publicación (explicativo del Presupuesto 2027, el día de su presentación)."
+    reviewer: "ashton-tan"
+  - revision: 1
+    date: 2026-11-27
+    change: "Actualización del estado parlamentario: el Presupuesto 2027 superó la fase de política en el Dewan Rakyat (29 oct 2026) y el Proyecto de Ley de Presupuestos (Supply (Budget) Bill 2027) superó su tercera lectura (26 nov 2026); se añadió el encuadre de la inversión total de RM510 mil millones y una imagen de cabecera del Parlamento. Actualización de frescura por IA; datos parlamentarios citados a Bernama."
+    contributor: "ai"
+    reviewer: null
 reviewed: "2026-10-10"
 reviewDue: 2028-04-10
 published: "2026-10-10"
@@ -37,7 +47,7 @@ aiAssisted: true
 reviewer: null
 sensitivity: "none"
 
-updated: 2026-10-10
+updated: 2026-11-27
 sources:
   - title: "Belanjawan 2027 (Portal del Presupuesto 2027 — Discurso, Perspectiva Económica, Ingresos y Gastos) (Belanjawan 2027 (Budget 2027 Portal — Speech, Economic Outlook, Revenue & Expenditure))"
     url: "https://belanjawan.mof.gov.my/en"
@@ -54,6 +64,10 @@ sources:
     url: "https://thesun.my/budget-2027/budget-2027-proposes-tax-measures-to-support-businesses-improve-cash-flow/"
     publisher: "The Sun"
     date: "2026-10-09"
+  - title: "El Dewan Rakyat aprueba el Presupuesto 2027 (Dewan Rakyat passes Budget 2027)"
+    url: "https://www.bernama.com/en/general/news.php?id=2640018"
+    publisher: "Bernama"
+    date: "2026-11-26"
 
 
 entity: "Malaysia Budget 2027"
@@ -70,6 +84,14 @@ faq:
   - q: ¿A partir de cuándo queda exenta del impuesto de timbre la apertura de una cuenta de ahorro o corriente bajo el Presupuesto 2027?
     a: A partir del 1 de enero de 2027, la apertura de una cuenta de ahorro o corriente queda totalmente exenta del impuesto de timbre. Esa misma fecha trae también la reducción del impuesto sobre servicios de los servicios de cuidado de ancianos del 8% al 6% y el inicio de los derechos laborales del cónyuge expatriado con un pase de dependiente. Estas fechas son las anunciadas el 9 de octubre de 2026 y solo surten efecto una vez aprobadas la ley habilitante y las órdenes de publicación oficial.
 framework: explainer
+hero: "/media/economy/malaysia-budget-2027/hero.webp"
+heroAlt: "El Parlamento de Malasia (Bangunan Parlimen) en Kuala Lumpur, donde se debatió y aprobó el Presupuesto 2027"
+heroCredit: "CEphoto, Uwe Aranas / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Bangunan_Parlimen_Malaysia-01.jpg"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: "the Malaysian Houses of Parliament (Bangunan Parlimen) in Kuala Lumpur"
 ---
 
 El 9 de octubre de 2026, el Primer Ministro y Ministro de Finanzas Anwar Ibrahim
@@ -85,6 +107,29 @@ que el Parlamento aprueba y se publican en el boletín oficial el Proyecto de Le
 de Finanzas, la Ley de Presupuestos (Supply (Budget) 2027 Act) y cualquier orden
 habilitante. Para saber cómo funciona ese proceso, véase
 [el ciclo del presupuesto federal](/economy/federal-budget).
+
+## Situación parlamentaria
+
+*Actualizado el 27 de noviembre de 2026.* El Presupuesto 2027 ya ha superado el
+**Dewan Rakyat**. Pasó la **fase de política el 29 de octubre de 2026** por
+votación a viva voz —después de que el Gobierno firmara un acuerdo de confianza y
+suministro con 13 diputados de la oposición e independientes— y el **Proyecto de
+Ley de Presupuestos (Supply (Budget) Bill 2027) superó su tercera lectura el 26 de
+noviembre de 2026 sin enmiendas**, junto con una moción que autoriza hasta **RM85
+mil millones** en gasto de desarrollo. El proyecto de ley pasa ahora al **Dewan
+Negara** (Senado) para su debate y, después, a la **sanción real**, antes de
+convertirse en la Ley de Presupuestos (Supply (Budget) Act 2027).
+
+Dos cosas siguen manteniendo las medidas de abajo *anunciadas, aún no en vigor*:
+los cambios fiscales van en un **Proyecto de Ley de Finanzas** aparte, y las
+desgravaciones y los cambios de tasa concretos necesitan cada uno sus propias
+órdenes publicadas en el boletín oficial. Las fechas de entrada en vigor indicadas
+en el discurso no varían.
+
+Sobre la cifra principal: los **RM459,8 mil millones** de abajo son la asignación
+del Gobierno federal. Contando las inversiones de las GLIC, las asociaciones
+público-privadas y los organismos estatutarios, el Gobierno sitúa ahora el **total
+en torno a los RM510 mil millones**.
 
 ## Si usted es un particular
 
@@ -170,8 +215,11 @@ subsidios al combustible en el panorama del coste de vida, véase
 
 ## Anunciado frente a en vigor
 
-Todo lo que figura aquí es **lo anunciado el 9 de octubre de 2026**. Nada de ello
-es ley todavía. Los cambios fiscales entran en vigor a través del **Proyecto de
+Todo lo que figura aquí es **lo anunciado el 9 de octubre de 2026**. A fecha de
+**27 de noviembre de 2026**, nada de ello está aún en vigor: el Proyecto de Ley de
+Presupuestos (Supply (Budget) Bill 2027) ha superado el Dewan Rakyat, pero todavía
+necesita el Dewan Negara y la sanción real, y los cambios fiscales van en un
+Proyecto de Ley de Finanzas aparte. Los cambios fiscales entran en vigor a través del **Proyecto de
 Ley de Finanzas** (y el Año de Liquidación correspondiente); el gasto lo autoriza
 la **Ley de Presupuestos (Supply (Budget) 2027 Act)**; y las desgravaciones o
 cambios de tasa concretos se aplican mediante **órdenes publicadas en el boletín
@@ -193,8 +241,10 @@ Véase [el ciclo del presupuesto federal](/economy/federal-budget).
 
 ## Qué sigue
 
-A medida que se publiquen los documentos oficiales y el Proyecto de Ley de
-Finanzas, esta página se actualizará para marcar cada medida como **en vigor** (con
-su referencia en el boletín oficial) y para corregir cualquier cifra que haya
-cambiado entre el discurso y la ley. Para el proceso legislativo paso a paso, lea
+El Proyecto de Ley de Presupuestos (Supply (Budget) Bill 2027) superó el Dewan
+Rakyat el 26 de noviembre de 2026 y pasa ahora al Dewan Negara y a la sanción real.
+A medida que se publiquen el Proyecto de Ley de Finanzas y las órdenes oficiales del
+boletín oficial, esta página se actualizará para marcar cada medida como **en
+vigor** (con su referencia en el boletín oficial) y para corregir cualquier cifra
+que haya cambiado entre el discurso y la ley. Para el proceso legislativo paso a paso, lea
 [el ciclo del presupuesto federal](/economy/federal-budget).

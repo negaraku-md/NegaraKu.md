@@ -25,10 +25,20 @@ appliesTo: "Wajib pajak individu, karyawan, pekerja gig, SME dan pemberi kerja, 
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "425e9a866d80e746"
+sourceContentHash: "9fe163d3178410ed"
 
 status: "published"
-revision: 0
+revision: 1
+revisions:
+  - revision: 0
+    date: 2026-10-10
+    change: "Disusun, ditinjau, dan disetujui untuk publikasi (penjelasan Budget 2027, pada hari pembentangan)."
+    reviewer: "ashton-tan"
+  - revision: 1
+    date: 2026-11-27
+    change: "Penyegaran status parlemen: Budget 2027 lolos tahap kebijakan Dewan Rakyat (29 Okt 2026) dan Supply (Budget) Bill 2027 melewati pembacaan ketiga (26 Nov 2026); menambahkan kerangka total investasi RM510b dan gambar hero Parlemen. Pembaruan kesegaran oleh AI; fakta parlemen dikutip dari Bernama."
+    contributor: "ai"
+    reviewer: null
 reviewed: "2026-10-10"
 reviewDue: 2028-04-10
 published: "2026-10-10"
@@ -37,7 +47,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 sensitivity: "none"
 
-updated: 2026-10-10
+updated: 2026-11-27
 sources:
   - title: "Belanjawan 2027 (Budget 2027 Portal — Pidato, Prospek Ekonomi, Pendapatan & Belanja) (Belanjawan 2027 / Budget 2027 Portal — Speech, Economic Outlook, Revenue & Expenditure)"
     url: "https://belanjawan.mof.gov.my/en"
@@ -54,6 +64,10 @@ sources:
     url: "https://thesun.my/budget-2027/budget-2027-proposes-tax-measures-to-support-businesses-improve-cash-flow/"
     publisher: "The Sun"
     date: "2026-10-09"
+  - title: "Dewan Rakyat mengesahkan Budget 2027 (Dewan Rakyat passes Budget 2027)"
+    url: "https://www.bernama.com/en/general/news.php?id=2640018"
+    publisher: "Bernama"
+    date: "2026-11-26"
 
 
 entity: "Malaysia Budget 2027"
@@ -70,6 +84,14 @@ faq:
   - q: Mulai kapan pembukaan rekening tabungan atau rekening giro dibebaskan dari bea meterai menurut Anggaran 2027?
     a: Mulai 1 Januari 2027, pembukaan rekening tabungan atau rekening giro sepenuhnya dibebaskan dari bea meterai. Tanggal yang sama juga membawa pemotongan pajak jasa untuk layanan perawatan lansia dari 8% menjadi 6%, serta mulai berlakunya hak kerja bagi pasangan ekspatriat yang memegang pas tanggungan (dependant pass). Tanggal-tanggal ini sesuai dengan yang diumumkan pada 9 Oktober 2026 dan baru berlaku setelah undang-undang serta perintah lembaran negara yang memberlakukannya disahkan.
 framework: explainer
+hero: "/media/economy/malaysia-budget-2027/hero.webp"
+heroAlt: "Gedung Parlemen Malaysia (Bangunan Parlimen) di Kuala Lumpur, tempat Budget 2027 diperdebatkan dan disahkan"
+heroCredit: "CEphoto, Uwe Aranas / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Bangunan_Parlimen_Malaysia-01.jpg"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: "the Malaysian Houses of Parliament (Bangunan Parlimen) in Kuala Lumpur"
 ---
 
 Pada 9 Oktober 2026, Perdana Menteri sekaligus Menteri Keuangan Anwar Ibrahim
@@ -84,6 +106,27 @@ adalah sebuah *pengumuman*, bukan undang-undang. Kebijakan di bawah ini baru
 mengikat setelah Finance Bill, Supply (Budget) 2027 Act, dan perintah pelaksana
 apa pun disahkan oleh Parlemen dan diwartakan. Untuk cara kerja proses itu, lihat
 [siklus anggaran federal](/economy/federal-budget).
+
+## Status parlemen
+
+*Diperbarui 27 November 2026.* Budget 2027 kini telah melewati **Dewan Rakyat**.
+Anggaran ini lolos **tahap kebijakan pada 29 Oktober 2026** melalui pungutan suara
+lisan — setelah pemerintah menandatangani perjanjian kepercayaan dan pasokan
+(confidence-and-supply) dengan 13 anggota parlemen oposisi dan independen — dan
+**Supply (Budget) Bill 2027 melewati pembacaan ketiganya pada 26 November 2026
+tanpa amendemen**, bersama sebuah mosi yang mengizinkan belanja pembangunan hingga
+**RM85 miliar**. RUU ini kini diteruskan ke **Dewan Negara** (Senat) untuk
+diperdebatkan, lalu untuk **perkenan diraja**, sebelum menjadi Supply (Budget)
+Act 2027.
+
+Dua hal masih membuat kebijakan di bawah ini berstatus *diumumkan, belum berlaku*:
+perubahan pajak dibawa oleh **Finance Bill** terpisah, dan keringanan serta
+perubahan tarif tertentu masing-masing memerlukan perintah warta tersendiri.
+Tanggal berlaku yang dinyatakan dalam pidato tidak berubah.
+
+Mengenai angka utama: **RM459.8 miliar** di bawah ini adalah alokasi pemerintah
+federal. Dengan menghitung investasi oleh GLIC, kemitraan pemerintah-swasta, dan
+badan berkanun, pemerintah kini menetapkan **total sekitar RM510 miliar**.
 
 ## Jika Anda seorang individu
 
@@ -162,8 +205,11 @@ bakar sesuai dengan gambaran biaya hidup, lihat [subsidi bahan bakar](/economy/f
 
 ## Diumumkan vs. berlaku
 
-Segala sesuatu di sini adalah **sebagaimana diumumkan pada 9 Oktober 2026**.
-Belum ada satu pun yang menjadi undang-undang. Perubahan pajak berlaku melalui
+Segala sesuatu di sini adalah **sebagaimana diumumkan pada 9 Oktober 2026**. Per
+**27 November 2026**, belum ada satu pun yang berlaku: Supply (Budget) Bill 2027
+telah melewati Dewan Rakyat tetapi masih memerlukan Dewan Negara dan perkenan
+diraja, dan perubahan pajak dibawa oleh Finance Bill terpisah. Perubahan pajak
+berlaku melalui
 **Finance Bill** (dan Tahun Penilaian yang relevan); belanja diotorisasi oleh
 **Supply (Budget) 2027 Act**; dan keringanan atau perubahan tarif tertentu
 dilaksanakan melalui **perintah yang diwartakan (P.U.(A))**. Tanggal dan angka
@@ -185,8 +231,10 @@ debat parlemen dan tahap komite sebelum menjadi undang-undang. Lihat
 
 ## Apa selanjutnya
 
-Seiring dokumen resmi dan Finance Bill diterbitkan, halaman ini akan diperbarui
-untuk menandai masing-masing kebijakan **berlaku** (dengan rujukan wartanya) dan
-untuk mengoreksi angka apa pun yang berubah antara pidato dan undang-undang.
+Supply (Budget) Bill 2027 melewati Dewan Rakyat pada 26 November 2026 dan kini
+bergerak ke Dewan Negara dan perkenan diraja. Seiring Finance Bill dan perintah
+warta resmi diterbitkan, halaman ini akan diperbarui untuk menandai masing-masing
+kebijakan **berlaku** (dengan rujukan wartanya) dan untuk mengoreksi angka apa pun
+yang berubah antara pidato dan undang-undang.
 Untuk proses legislatif langkah demi langkah, baca
 [siklus anggaran federal](/economy/federal-budget).

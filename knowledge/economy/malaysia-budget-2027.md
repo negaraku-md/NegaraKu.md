@@ -33,15 +33,20 @@ reviewed: "2026-10-10"
 reviewDue: 2028-04-10
 published: "2026-10-10"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-10-10
     change: "Drafted, reviewed and approved for publication (Budget 2027 explainer, day-of tabling)."
     reviewer: "ashton-tan"
+  - revision: 1
+    date: 2026-11-27
+    change: "Parliamentary status refresh: Budget 2027 passed the Dewan Rakyat policy stage (29 Oct 2026) and the Supply (Budget) Bill 2027 cleared its third reading (26 Nov 2026); added the RM510b total-investment framing and a Parliament hero image. AI freshness update; parliamentary facts cited to Bernama."
+    contributor: "ai"
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-10-10
+updated: 2026-11-27
 sources:
   - title: "Belanjawan 2027 (Budget 2027 Portal — Speech, Economic Outlook, Revenue & Expenditure)"
     url: "https://belanjawan.mof.gov.my/en"
@@ -58,6 +63,10 @@ sources:
     url: "https://thesun.my/budget-2027/budget-2027-proposes-tax-measures-to-support-businesses-improve-cash-flow/"
     publisher: "The Sun"
     date: "2026-10-09"
+  - title: "Dewan Rakyat passes Budget 2027"
+    url: "https://www.bernama.com/en/general/news.php?id=2640018"
+    publisher: "Bernama"
+    date: "2026-11-26"
 
 
 entity: "Malaysia Budget 2027"
@@ -74,6 +83,14 @@ faq:
   - q: From when is opening a savings or current account stamp-duty exempt under Budget 2027?
     a: From 1 January 2027, opening a savings or current account becomes fully stamp-duty exempt. That same date also carries the service-tax cut on elderly-care services from 8% to 6% and the start of expatriate-spouse work rights on a dependant pass. These dates are as announced on 9 October 2026 and take effect only once the enabling law and gazette orders are passed.
 framework: explainer
+hero: "/media/economy/malaysia-budget-2027/hero.webp"
+heroAlt: "The Malaysian Houses of Parliament (Bangunan Parlimen) in Kuala Lumpur, where Budget 2027 was debated and passed"
+heroCredit: "CEphoto, Uwe Aranas / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Bangunan_Parlimen_Malaysia-01.jpg"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: "the Malaysian Houses of Parliament (Bangunan Parlimen) in Kuala Lumpur"
 ---
 
 On 9 October 2026, Prime Minister and Finance Minister Anwar Ibrahim tabled
@@ -87,6 +104,25 @@ throughout: a budget speech is an *announcement*, not a law. The measures below
 become binding only once the Finance Bill, the Supply (Budget) 2027 Act and any
 enabling orders are passed by Parliament and gazetted. For how that process
 works, see [the federal budget cycle](/economy/federal-budget).
+
+## Parliamentary status
+
+*Updated 27 November 2026.* Budget 2027 has now cleared the **Dewan Rakyat**. It
+passed the **policy stage on 29 October 2026** by voice vote — after the government
+signed a confidence-and-supply agreement with 13 opposition and independent MPs —
+and the **Supply (Budget) Bill 2027 passed its third reading on 26 November 2026
+without amendments**, alongside a motion authorising up to **RM85 billion** in
+development spending. The bill now goes to the **Dewan Negara** (Senate) for debate,
+and then for **royal assent**, before it becomes the Supply (Budget) Act 2027.
+
+Two things still keep the measures below *announced, not yet in force*: the tax
+changes ride a separate **Finance Bill**, and specific reliefs and rate changes
+each need their own gazetted orders. The effective dates stated in the speech are
+unchanged.
+
+On the headline number: the **RM459.8 billion** below is the federal government
+allocation. Counting investments by GLICs, public-private partnerships and
+statutory bodies, the government now puts the **total at about RM510 billion**.
 
 ## If you're an individual
 
@@ -161,7 +197,10 @@ cost-of-living picture, see [fuel subsidies](/economy/fuel-subsidies).
 
 ## Announced vs. in force
 
-Everything here is **as announced on 9 October 2026**. None of it is law yet.
+Everything here is **as announced on 9 October 2026**. As of **27 November 2026**
+none of it is in force yet: the Supply (Budget) Bill 2027 has passed the Dewan
+Rakyat but still needs the Dewan Negara and royal assent, and the tax changes ride
+a separate Finance Bill.
 Tax changes take effect through the **Finance Bill** (and the relevant Year of
 Assessment); spending is authorised by the **Supply (Budget) 2027 Act**; and
 specific reliefs or rate changes are implemented through **gazetted orders
@@ -183,7 +222,9 @@ weeks of parliamentary debate and committee stages before becoming law. See
 
 ## What's next
 
-As the official documents and the Finance Bill are published, this page will be
-updated to mark each measure **in force** (with its gazette reference) and to
-correct any figure that changed between the speech and the law. For the
-step-by-step legislative process, read [the federal budget cycle](/economy/federal-budget).
+The Supply (Budget) Bill 2027 cleared the Dewan Rakyat on 26 November 2026 and now
+moves to the Dewan Negara and royal assent. As the Finance Bill and the official
+gazette orders are published, this page will be updated to mark each measure
+**in force** (with its gazette reference) and to correct any figure that changed
+between the speech and the law. For the step-by-step legislative process, read
+[the federal budget cycle](/economy/federal-budget).

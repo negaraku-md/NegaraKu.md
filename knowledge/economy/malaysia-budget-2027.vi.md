@@ -25,10 +25,20 @@ appliesTo: "Người nộp thuế cá nhân, người lao động, người lao 
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "425e9a866d80e746"
+sourceContentHash: "9fe163d3178410ed"
 
 status: "published"
-revision: 0
+revision: 1
+revisions:
+  - revision: 0
+    date: 2026-10-10
+    change: "Soạn thảo, duyệt và phê duyệt để xuất bản (bài giải thích Ngân sách 2027, trong ngày trình ngân sách)."
+    reviewer: "ashton-tan"
+  - revision: 1
+    date: 2026-11-27
+    change: "Cập nhật tình trạng tại Quốc hội: Ngân sách 2027 đã thông qua giai đoạn chính sách tại Dewan Rakyat (29 tháng 10 năm 2026) và Dự luật Cung ứng (Ngân sách) 2027 đã qua lần đọc thứ ba (26 tháng 11 năm 2026); bổ sung cách diễn đạt tổng đầu tư RM510 tỷ và một ảnh hero về Quốc hội. Cập nhật làm mới bằng AI; các dữ kiện về Quốc hội được dẫn nguồn từ Bernama."
+    contributor: "ai"
+    reviewer: null
 reviewed: "2026-10-10"
 reviewDue: 2028-04-10
 published: "2026-10-10"
@@ -37,7 +47,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 sensitivity: "none"
 
-updated: 2026-10-10
+updated: 2026-11-27
 sources:
   - title: "Ngân sách 2027 (Cổng Ngân sách 2027 — Bài phát biểu, Triển vọng Kinh tế, Thu & Chi) (Belanjawan 2027 — Budget 2027 Portal — Speech, Economic Outlook, Revenue & Expenditure)"
     url: "https://belanjawan.mof.gov.my/en"
@@ -54,6 +64,10 @@ sources:
     url: "https://thesun.my/budget-2027/budget-2027-proposes-tax-measures-to-support-businesses-improve-cash-flow/"
     publisher: "The Sun"
     date: "2026-10-09"
+  - title: "Dewan Rakyat thông qua Ngân sách 2027 (Dewan Rakyat passes Budget 2027)"
+    url: "https://www.bernama.com/en/general/news.php?id=2640018"
+    publisher: "Bernama"
+    date: "2026-11-26"
 
 
 entity: "Malaysia Budget 2027"
@@ -70,6 +84,14 @@ faq:
   - q: Theo Ngân sách 2027, việc mở tài khoản tiết kiệm hoặc tài khoản vãng lai được miễn thuế tem từ khi nào?
     a: Kể từ ngày 1 tháng 1 năm 2027, việc mở tài khoản tiết kiệm hoặc tài khoản vãng lai được miễn hoàn toàn thuế tem. Cùng ngày đó cũng áp dụng việc giảm thuế dịch vụ đối với dịch vụ chăm sóc người cao tuổi từ 8% xuống 6%, và bắt đầu quyền làm việc của vợ/chồng là người nước ngoài giữ thẻ phụ thuộc (dependant pass). Những ngày này đúng như đã công bố ngày 9 tháng 10 năm 2026 và chỉ có hiệu lực khi luật và các lệnh công báo liên quan được thông qua.
 framework: explainer
+hero: "/media/economy/malaysia-budget-2027/hero.webp"
+heroAlt: "Tòa nhà Quốc hội Malaysia (Bangunan Parlimen) ở Kuala Lumpur, nơi Ngân sách 2027 được tranh luận và thông qua"
+heroCredit: "CEphoto, Uwe Aranas / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Bangunan_Parlimen_Malaysia-01.jpg"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: "the Malaysian Houses of Parliament (Bangunan Parlimen) in Kuala Lumpur"
 ---
 
 Vào ngày 9 tháng 10 năm 2026, Thủ tướng kiêm Bộ trưởng Tài chính Anwar Ibrahim
@@ -84,6 +106,27 @@ không phải một đạo luật. Các biện pháp dưới đây chỉ trở n
 luật Tài chính, Đạo luật Cung ứng (Ngân sách) 2027 và bất kỳ lệnh thi hành nào
 được Quốc hội thông qua và công báo. Để hiểu quy trình đó vận hành ra sao, xem
 [chu trình ngân sách liên bang](/economy/federal-budget).
+
+## Tình trạng tại Quốc hội
+
+*Cập nhật ngày 27 tháng 11 năm 2026.* Ngân sách 2027 nay đã được **Dewan Rakyat**
+thông qua. Nó đã thông qua **giai đoạn chính sách vào ngày 29 tháng 10 năm 2026**
+bằng biểu quyết miệng — sau khi chính phủ ký một thỏa thuận tín nhiệm và cung ứng
+(confidence-and-supply) với 13 nghị sĩ đối lập và độc lập — và **Dự luật Cung ứng
+(Ngân sách) 2027 đã qua lần đọc thứ ba vào ngày 26 tháng 11 năm 2026 mà không có
+sửa đổi**, cùng với một kiến nghị cho phép chi tới **RM85 tỷ** cho chi tiêu phát
+triển. Dự luật nay chuyển sang **Dewan Negara** (Thượng viện) để tranh luận, rồi
+để nhận **sự phê chuẩn của hoàng gia**, trước khi trở thành Đạo luật Cung ứng
+(Ngân sách) 2027.
+
+Hai điều vẫn giữ cho các biện pháp dưới đây *đã được công bố, nhưng chưa có hiệu
+lực*: các thay đổi về thuế đi theo một **Dự luật Tài chính** riêng, và các khoản
+miễn giảm cùng thay đổi thuế suất cụ thể, mỗi thứ cần lệnh công báo riêng của nó.
+Các ngày có hiệu lực được nêu trong bài phát biểu không thay đổi.
+
+Về con số tiêu đề: **RM459.8 tỷ** dưới đây là khoản phân bổ của chính phủ liên
+bang. Tính cả các khoản đầu tư của các GLIC, các quan hệ đối tác công-tư và các
+cơ quan theo luật định, chính phủ nay đưa ra **tổng cộng khoảng RM510 tỷ**.
 
 ## Nếu bạn là một cá nhân
 
@@ -160,8 +203,11 @@ khớp vào bức tranh chi phí sinh hoạt ra sao, xem
 
 ## Đã công bố so với đã có hiệu lực
 
-Mọi điều ở đây là **như được công bố vào ngày 9 tháng 10 năm 2026**. Chưa có
-điều nào là luật. Các thay đổi về thuế có hiệu lực thông qua **Dự luật Tài chính**
+Mọi điều ở đây là **như được công bố vào ngày 9 tháng 10 năm 2026**. Tính đến
+**ngày 27 tháng 11 năm 2026**, chưa có điều nào có hiệu lực: Dự luật Cung ứng
+(Ngân sách) 2027 đã được Dewan Rakyat thông qua nhưng vẫn cần Dewan Negara và sự
+phê chuẩn của hoàng gia, và các thay đổi về thuế đi theo một Dự luật Tài chính
+riêng. Các thay đổi về thuế có hiệu lực thông qua **Dự luật Tài chính**
 (và Năm tính thuế liên quan); chi tiêu được ủy quyền bởi **Đạo luật Cung ứng
 (Ngân sách) 2027**; và các khoản miễn giảm hoặc thay đổi thuế suất cụ thể được
 thực thi thông qua các **lệnh được công báo (P.U.(A))**. Ngày tháng và con số có
@@ -183,8 +229,10 @@ luật. Xem [chu trình ngân sách liên bang](/economy/federal-budget).
 
 ## Tiếp theo là gì
 
-Khi các tài liệu chính thức và Dự luật Tài chính được công bố, trang này sẽ được
-cập nhật để đánh dấu mỗi biện pháp **đã có hiệu lực** (với tham chiếu công báo
-của nó) và để sửa bất kỳ con số nào đã thay đổi giữa bài phát biểu và luật. Để
+Dự luật Cung ứng (Ngân sách) 2027 đã được Dewan Rakyat thông qua vào ngày 26
+tháng 11 năm 2026 và nay chuyển sang Dewan Negara và sự phê chuẩn của hoàng gia.
+Khi Dự luật Tài chính và các lệnh công báo chính thức được công bố, trang này sẽ
+được cập nhật để đánh dấu mỗi biện pháp **đã có hiệu lực** (với tham chiếu công
+báo của nó) và để sửa bất kỳ con số nào đã thay đổi giữa bài phát biểu và luật. Để
 biết quy trình lập pháp từng bước, đọc
 [chu trình ngân sách liên bang](/economy/federal-budget).
