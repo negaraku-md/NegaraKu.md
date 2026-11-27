@@ -72,7 +72,7 @@ sources:
 relations:
   - { rel: "related-to", to: "malaysia-healthcare-system" }
   - { rel: "related-to", to: "health-white-paper-2023" }
-related: []
+related: ["mysejahtera-and-digital-health-records", "health-white-paper-and-system-reform", "prevention-and-control-of-infectious-diseases-act"]
 keywords: ["COVID-19 ماليزيا", "أمر مراقبة الحركة", "MCO", "PICK", "التطعيم", "MySejahtera", "الورقة البيضاء للصحة", "الجائحة"]
 framework: history-culture
 hero: '/media/healthcare/covid-19-pandemic-response-and-legacy/hero.webp'

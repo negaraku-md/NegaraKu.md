@@ -67,7 +67,7 @@ entity: "Jawatankuasa Muzakarah Fatwa Kebangsaan bagi Hal Ehwal Ugama Islam Mala
 relations:
   - { rel: "related-to", to: "national-immunisation-programme-malaysia" }
   - { rel: "related-to", to: "halal-certification-jakim" }
-related: []
+related: ["halal-certification-in-malaysia", "public-healthcare-system-malaysia", "traditional-and-complementary-medicine"]
 keywords: ["vaccin halal", "avis sur les vaccins", "gélatine dans les médicaments", "fatwa vaccin COVID-19", "darurat", "maqasid syariah", "JAKIM", "Muzakarah Fatwa Kebangsaan"]
 framework: explainer
 hero: '/media/healthcare/halal-status-of-vaccines-and-medicines/hero.webp'

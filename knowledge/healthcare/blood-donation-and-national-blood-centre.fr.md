@@ -70,7 +70,7 @@ entity: "Pusat Darah Negara"
 wikidata: "Q12701460"
 relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "hiv-aids-and-sexual-health-services"]
 keywords: ["don de sang", "Centre national du sang", "Pusat Darah Negara", "PDN", "conditions pour donner son sang", "privilèges du donneur", "blood donation Malaysia"]
 framework: how-to
 hero: '/media/healthcare/blood-donation-and-national-blood-centre/hero.webp'

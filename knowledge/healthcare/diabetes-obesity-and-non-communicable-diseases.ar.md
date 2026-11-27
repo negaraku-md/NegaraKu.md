@@ -72,7 +72,7 @@ sources:
 relations:
   - { rel: "related-to", to: "public-healthcare-system" }
   - { rel: "administered-by", to: "ministry-of-health" }
-related: []
+related: ["public-healthcare-system-malaysia", "klinik-kesihatan", "smoking-and-vaping-law-act-852"]
 keywords: ["السكري", "السمنة", "الأمراض غير المعدية", "NCD", "NHMS 2023", "ضريبة السكر", "PeKa B40", "Healthier Choice Logo", "الفحص الصحي", "diabetes"]
 framework: explainer
 hero: '/media/healthcare/diabetes-obesity-and-non-communicable-diseases/hero.webp'

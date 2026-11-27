@@ -74,7 +74,7 @@ wikidata: "Q99537753"
 relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
   - { rel: "related-to", to: "peka-b40-health-screening" }
-related: []
+related: ["covid-19-pandemic-response-and-legacy", "public-healthcare-system-malaysia", "telemedicine-and-online-doctor-services"]
 keywords: ["MySejahtera", "rekod kesihatan digital", "EMR", "kesihatan digital Malaysia", "KKM", "temu janji klinik kesihatan"]
 framework: explainer
 hero: '/media/healthcare/mysejahtera-and-digital-health-records/hero.webp'

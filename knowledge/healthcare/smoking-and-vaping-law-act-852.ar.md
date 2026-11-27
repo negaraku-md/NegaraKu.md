@@ -65,7 +65,7 @@ entity: "Control of Smoking Products for Public Health Act 2024 (Act 852)"
 relations:
   - { rel: "administered-by", to: "ministry-of-health-malaysia" }
   - { rel: "related-to", to: "vaping-in-malaysia" }
-related: []
+related: ["diabetes-obesity-and-non-communicable-diseases", "public-healthcare-system-malaysia", "ministry-of-health-moh"]
 keywords: ["Act 852", "قانون مراقبة التدخين", "السجائر الإلكترونية", "vape", "التبغ", "النيكوتين", "الحد الأدنى لسن التدخين", "generational endgame", "مناطق حظر التدخين"]
 framework: rules
 hero: '/media/healthcare/smoking-and-vaping-law-act-852/hero.webp'

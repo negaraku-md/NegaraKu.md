@@ -71,7 +71,7 @@ sources:
 relations:
   - { rel: "related-to", to: "malaysia-healthcare-system" }
   - { rel: "related-to", to: "health-white-paper-2023" }
-related: []
+related: ["mysejahtera-and-digital-health-records", "health-white-paper-and-system-reform", "prevention-and-control-of-infectious-diseases-act"]
 keywords: ["COVID-19 Malaysia", "PKP", "MCO", "PICK", "vaksinasi", "MySejahtera", "Kertas Putih Kesihatan", "pandemik"]
 framework: history-culture
 hero: '/media/healthcare/covid-19-pandemic-response-and-legacy/hero.webp'

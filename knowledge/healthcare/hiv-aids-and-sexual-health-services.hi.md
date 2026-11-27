@@ -80,7 +80,7 @@ sources:
 relations:
   - { rel: "related-to", to: "public-healthcare-system" }
   - { rel: "related-to", to: "klinik-kesihatan-services" }
-related: []
+related: ["public-healthcare-system-malaysia", "klinik-kesihatan", "blood-donation-and-national-blood-centre"]
 keywords: ["HIV", "AIDS", "HIV परीक्षण", "PrEP", "PEP", "ART", "यौन स्वास्थ्य", "Majlis AIDS Malaysia", "स्वास्थ्य मंत्रालय"]
 framework: explainer
 hero: '/media/healthcare/hiv-aids-and-sexual-health-services/hero.webp'

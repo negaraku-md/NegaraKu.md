@@ -126,7 +126,7 @@ sources:
 entity: "Ministry of Health Malaysia (Kementerian Kesihatan Malaysia, KKM/MOH)"
 wikidata: "Q4294352"
 relations: []
-related: []
+related: ["ministry-of-health-moh", "klinik-kesihatan", "peka-b40-and-health-schemes", "health-white-paper-and-system-reform"]
 keywords: ["système de santé publique de la Malaisie", "ministère de la Santé de Malaisie", "MOH", "KKM", "klinik kesihatan", "hôpital public Malaisie", "tarif de clinique RM1", "tarifs des hôpitaux publics Malaisie", "PeKa B40", "santé universelle Malaisie", "soins de santé en Malaisie", "système de santé à deux niveaux Malaisie"]
 framework: explainer
 hero: '/media/healthcare/public-healthcare-system-malaysia/hero.webp'

@@ -61,7 +61,7 @@ entity: "Majlis Perubatan Malaysia"
 wikidata: "Q12696644"
 relations:
   - { rel: "related-to", to: "healthcare-system-overview" }
-related: []
+related: ["ministry-of-health-moh", "public-healthcare-system-malaysia", "telemedicine-and-online-doctor-services"]
 keywords: ["डॉक्टर पंजीकरण", "pendaftaran doktor", "MMC", "MeRITS", "APC", "मलेशियन नर्सिंग बोर्ड", "Lembaga Jururawat Malaysia", "फार्मेसी बोर्ड मलेशिया", "Lembaga Farmasi Malaysia", "MAHPC", "संबद्ध स्वास्थ्य पेशा अधिनियम 2016", "Allied Health Professions Act 2016", "फिजियोथेरेपी"]
 framework: how-to
 hero: '/media/healthcare/allied-health-and-medical-practitioner-registration/hero.webp'

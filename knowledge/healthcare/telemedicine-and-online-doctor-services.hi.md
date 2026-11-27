@@ -66,7 +66,7 @@ sources:
 entity: "Telemedicine in Malaysia"
 relations:
   - { rel: "related-to", to: "public-vs-private-healthcare" }
-related: []
+related: ["allied-health-and-medical-practitioner-registration", "mysejahtera-and-digital-health-records", "public-healthcare-system-malaysia"]
 keywords: ["टेलीमेडिसिन मलेशिया", "telemedicine Malaysia", "ऑनलाइन डॉक्टर", "online doctor", "टेलीपरामर्श", "teleconsultation", "DoctorOnCall", "MMC दिशानिर्देश", "ई-नुस्खा", "Telemedicine Act 1997"]
 framework: explainer
 hero: '/media/healthcare/telemedicine-and-online-doctor-services/hero.webp'

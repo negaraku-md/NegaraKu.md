@@ -80,7 +80,7 @@ entity: "Seksyen 312 Kanun Keseksaan (Akta 574)"
 relations:
   - { rel: "governs", to: "abortion-law-in-malaysia" }
   - { rel: "related-to", to: "medical-act-1971" }
-related: []
+related: ["public-healthcare-system-malaysia", "hiv-aids-and-sexual-health-services", "ministry-of-health-moh"]
 keywords: ["pengguguran", "loi sur l'avortement Malaisie", "Seksyen 312 Kanun Keseksaan", "interruption de grossesse", "Akta Perubatan 1971", "directives KKM"]
 framework: explainer
 hero: '/media/healthcare/abortion-law-in-malaysia/hero.webp'

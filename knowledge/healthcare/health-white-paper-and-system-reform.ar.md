@@ -72,7 +72,7 @@ sources:
 entity: "Kertas Putih Kesihatan"
 relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "covid-19-pandemic-response-and-legacy"]
 keywords: ["kertas putih kesihatan", "الورقة البيضاء للصحة", "reformasi kesihatan", "إصلاح النظام الصحي", "تمويل الصحة", "KKM", "insurans kesihatan nasional", "التأمين الصحي الوطني", "Rakan KKM"]
 framework: explainer
 hero: '/media/healthcare/health-white-paper-and-system-reform/hero.webp'

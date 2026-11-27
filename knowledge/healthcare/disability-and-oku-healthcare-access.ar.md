@@ -76,7 +76,7 @@ wikidata: "Q7354381"
 relations:
   - { rel: "administered-by", to: "jabatan-kebajikan-masyarakat" }
   - { rel: "related-to", to: "public-healthcare-system" }
-related: []
+related: ["social-welfare-department-jkm", "persons-with-disabilities-employment-malaysia", "public-healthcare-system-malaysia"]
 keywords: ["ذوو الإعاقة", "OKU", "بطاقة OKU", "الرعاية الصحية لذوي الإعاقة", "PDK", "التأهيل المجتمعي", "الأجهزة المساعِدة", "JKM", "KKM", "EPOKU", "BTB"]
 framework: explainer
 hero: '/media/healthcare/disability-and-oku-healthcare-access/hero.webp'

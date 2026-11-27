@@ -57,7 +57,7 @@ sources:
 entity: "Majlis Perubatan Tradisional dan Komplementari"
 relations:
   - { rel: "governs", to: "traditional-and-complementary-medicine" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "halal-status-of-vaccines-and-medicines"]
 keywords: ["médecine traditionnelle", "MT&C", "Act 775", "MTC", "chiropraxie", "homéopathie", "enregistrement des praticiens", "Conseil de MT&C"]
 framework: rules
 hero: '/media/healthcare/traditional-and-complementary-medicine/hero.webp'

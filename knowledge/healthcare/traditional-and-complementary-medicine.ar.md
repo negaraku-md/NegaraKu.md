@@ -57,7 +57,7 @@ sources:
 entity: "Majlis Perubatan Tradisional dan Komplementari"
 relations:
   - { rel: "governs", to: "traditional-and-complementary-medicine" }
-related: []
+related: ["public-healthcare-system-malaysia", "ministry-of-health-moh", "halal-status-of-vaccines-and-medicines"]
 keywords: ["الطب التقليدي", "perubatan tradisional", "T&CM", "Act 775", "TCM", "العلاج بتقويم العمود الفقري", "chiropractic", "المعالجة المثلية", "homeopathy", "تسجيل الممارسين", "مجلس T&CM"]
 framework: rules
 hero: '/media/healthcare/traditional-and-complementary-medicine/hero.webp'
