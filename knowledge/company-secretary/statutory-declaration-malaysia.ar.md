@@ -62,7 +62,7 @@ entity: "Statutory Declaration (Malaysia)"
 relations:
   - { rel: "related-to", to: "statutory-declarations-act-1960" }
   - { rel: "related-to", to: "members-voluntary-winding-up-malaysia" }
-related: []
+related: ["company-secretary-malaysia", "directors-report", "financial-statements-lodgement"]
 keywords: ["الإقرار القانوني ماليزيا", "akuan berkanun", "مفوّض الأيمان ماليزيا", "statutory declaration malaysia", "commissioner for oaths malaysia", "statutory declarations act 1960", "عقوبة الإقرار القانوني الكاذب", "إقرار الملاءة المادة 443"]
 framework: explainer
 ---

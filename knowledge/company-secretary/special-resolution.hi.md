@@ -70,7 +70,7 @@ sources:
     publisher: "महान्यायवादी कार्यालय (मलेशिया के कानून)"
 entity: "Companies Act 2016 (Malaysia)"
 relations: []
-related: []
+related: ["agm-requirements", "share-capital-malaysia", "amalgamation-of-companies", "members-voluntary-winding-up"]
 keywords: ["special resolution", "ordinary resolution", "special resolution vs ordinary resolution", "Companies Act 2016", "special resolution 75%", "ordinary resolution simple majority", "section 292 Companies Act 2016", "section 291 Companies Act 2016", "written resolution private company Malaysia", "विशेष संकल्प", "साधारण संकल्प", "विशेष बनाम साधारण संकल्प", "लिखित संकल्प निजी कंपनी मलेशिया", "members resolution Malaysia", "SSM resolution Malaysia"]
 framework: explainer
 ---

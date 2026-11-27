@@ -70,7 +70,7 @@ sources:
     publisher: "مكتب النائب العام (قوانين ماليزيا)"
 entity: "Companies Act 2016 (Malaysia)"
 relations: []
-related: []
+related: ["agm-requirements", "share-capital-malaysia", "amalgamation-of-companies", "members-voluntary-winding-up"]
 keywords: ["special resolution", "ordinary resolution", "special resolution vs ordinary resolution", "Companies Act 2016", "special resolution 75%", "ordinary resolution simple majority", "section 292 Companies Act 2016", "section 291 Companies Act 2016", "written resolution private company Malaysia", "القرار الخاص", "القرار العادي", "القرار الخاص مقابل العادي", "قرار كتابي شركة خاصة ماليزيا", "members resolution Malaysia", "SSM resolution Malaysia"]
 framework: explainer
 ---

@@ -62,7 +62,7 @@ entity: "Statutory Declaration (Malaysia)"
 relations:
   - { rel: "related-to", to: "statutory-declarations-act-1960" }
   - { rel: "related-to", to: "members-voluntary-winding-up-malaysia" }
-related: []
+related: ["company-secretary-malaysia", "directors-report", "financial-statements-lodgement"]
 keywords: ["statutory declaration malaysia", "akuan berkanun", "commissioner for oaths malaysia", "statutory declarations act 1960", "false statutory declaration penalty", "declaration of solvency section 443"]
 framework: explainer
 ---

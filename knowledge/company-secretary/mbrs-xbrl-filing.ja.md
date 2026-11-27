@@ -82,7 +82,7 @@ sources:
     publisher: "Xberra Tagger"
 entity: "Malaysian Business Reporting System (MBRS)"
 relations: []
-related: []
+related: ["financial-statements-lodgement", "annual-return", "unaudited-financial-statements"]
 keywords: ["MBRS", "MBRS 2.0", "XBRL", "SSM", "mTool", "mPortal", "SSMxT", "SSM taxonomy", "financial statements filing Malaysia", "Companies Act 2016", "annual return", "exempt private company", "Suruhanjaya Syarikat Malaysia", "MFRS", "MPERS"]
 framework: how-to
 ---

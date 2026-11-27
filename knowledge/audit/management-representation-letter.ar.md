@@ -67,7 +67,7 @@ entity: "Surat Perwakilan Pengurusan (ISA 580)"
 relations:
   - { rel: "related-to", to: "external-audit" }
   - { rel: "related-to", to: "auditor-report" }
-related: []
+related: ["statutory-audit-process", "audit-preparation-checklist", "auditors-report-anatomy"]
 keywords: ["خطاب إقرارات الإدارة", "management representation letter", "ISA 580", "الإقرارات المكتوبة", "written representations", "دليل التدقيق", "المدقّق"]
 framework: explainer
 ---

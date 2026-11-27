@@ -103,7 +103,7 @@ relations:
   - { rel: "governs", to: "chartered-accountant-malaysia" }
   - { rel: "related-to", to: "audit-oversight-board" }
   - { rel: "related-to", to: "malaysian-accounting-standards-board" }
-related: []
+related: ["audit-oversight-board-pie-registration", "maicsa", "micpa"]
 keywords: ["MIA", "मलेशियाई लेखाकार संस्थान", "लेखाकार अधिनियम 1967", "Accountants Act 1967", "Chartered Accountant Malaysia", "CA(M)", "अभ्यास प्रमाणपत्र", "लेखा-परीक्षण लाइसेंस"]
 framework: profile
 ---

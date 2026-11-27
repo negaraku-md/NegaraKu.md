@@ -89,7 +89,7 @@ relations:
   - { rel: "governs", to: "franchise-act-1998" }
   - { rel: "administered-by", to: "kuskop-ministry-entrepreneur-cooperatives" }
   - { rel: "related-to", to: "starting-a-business-malaysia" }
-related: []
+related: ["business-licence-malaysia", "starting-a-business-in-malaysia", "ministry-of-domestic-trade-kpdn"]
 keywords: ["تسجيل الامتياز التجاري ماليزيا", "franchise act 1998", "MyFEX 2.0", "تسجيل مانح الامتياز", "تسجيل الممنوح له", "وثيقة إفصاح الامتياز", "المادة 6 قانون الامتياز", "موافقة المادة 54"]
 framework: how-to
 ---
