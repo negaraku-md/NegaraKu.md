@@ -26,18 +26,24 @@ faq:
     a: "Kedua-duanya adalah perkara yang sama. Apa yang dipanggil oleh rakyat Malaysia sebagai cukai jalan secara rasmi ialah Lesen Kenderaan Motor — LKM — yang dikeluarkan oleh JPJ untuk membenarkan sesebuah kenderaan digunakan di jalan raya awam. Ia mesti diperbaharui secara berkala, dan kenderaan itu mesti membawa insurans motor yang sah, yang disemak oleh sistem JPJ sebelum mengeluarkan lesen."
   - q: "Bagaimanakah saya memperbaharui lesen memandu atau cukai jalan dalam talian?"
     a: "JPJ menawarkan pembaharuan dalam talian menerusi portal awamnya (mySIKAP) dan aplikasi MyJPJ, yang juga menyediakan salinan digital lesen memandu dan cukai jalan (e-LKM). Pembaharuan juga boleh dibuat di kaunter JPJ dan menerusi rakan kongsi yang dilantik. Semak pilihan dan bayaran semasa di portal JPJ (jpj.gov.my)."
+  - q: "Apakah perbezaan antara JPJ dan PUSPAKOM?"
+    a: "JPJ ialah jabatan kerajaan yang mendaftarkan kenderaan, melesenkan pemandu, mengeluarkan cukai jalan dan menguatkuasakan undang-undang pengangkutan jalan. PUSPAKOM bukan sebuah jabatan — ia merupakan penyedia pemeriksaan kenderaan berlesen yang menjalankan pemeriksaan fizikal kesesuaian jalan raya yang mesti dilepasi oleh kenderaan perdagangan dan kenderaan tertentu lain sebelum JPJ memperbaharui cukai jalannya. JPJ bergantung pada keputusan pemeriksaan itu; ia tidak memeriksa kenderaan sendiri."
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d2a76d73479e19c2"
+sourceContentHash: "900f59ff9bbb0ab3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: "2026-11-05"
+reviewed: 2026-11-27
 reviewDue: null
 publishedBy: "ashton-tan"
-revision: 0
-revisions: []
+revision: 1
+revisions:
+  - revision: 1
+    date: 2026-11-18
+    change: "Mencantumkan bahagian bersumber mengenai pembaharuan cukai jalan, perkhidmatan digital JPJeBid/JPJeQ, perbezaan JPJ–PUSPAKOM–polis, dan lokasi JPJ — kandungan dipulihkan daripada pendua transport/ yang telah ditarik balik dan disahkan semula terhadap sumber JPJ, MyGovernment dan PUSPAKOM (menunggu semakan semula oleh manusia bagi bahan yang dicantumkan itu)."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Tarikh penubuhan JPJ: sumber bercanggah antara asal usul 1937 (Lembaga Pengangkutan Jalan di bawah Enakmen Trafik 1937) dan pembentukan pada 1 April 1946 — sahkan terhadap halaman sejarah/korporat rasmi JPJ."
   - "Ketua Pengarah JPJ semasa dan kepimpinan kementerian induk — sahkan di laman rasmi JPJ dan MOT (pegawai yang dinamakan berubah mengikut Kabinet)."
@@ -45,7 +51,10 @@ verificationNeeded:
   - "Keperluan pemeriksaan PUSPAKOM semasa untuk pembaharuan LKM (peraturan bahawa kenderaan persendirian dengan cukai jalan luput sehingga tiga tahun boleh diperbaharui tanpa pemeriksaan bertarikh 2020) — sahkan dasar semasa di JPJ/MyGov."
   - "Sama ada JPJ menyerap fungsi Jabatan Keselamatan Jalan Raya (JKJR) mulai 1 Mei 2020 dan skop semasa penggabungan itu — sahkan di sumber rasmi JPJ/MOT."
   - "Seksyen tepat Akta Pengangkutan Jalan 1987 yang memerlukan lesen kenderaan motor (cukai jalan) dan penalti semasa kerana memandu tanpa lesen atau dengan cukai jalan luput — sahkan terhadap teks berautoriti AGC bagi Akta 333."
-updated: 2026-11-05
+  - "Alamat blok/jalan ibu pejabat JPJ yang tepat (Complex D, Block D4, No. 26 Jalan Tun Hussein, Presint 4, 62100 Putrajaya) — diambil daripada sumber sekunder; sahkan pada halaman hubungi rasmi jpj.gov.my."
+  - "Status PUSPAKOM selepas konsesi pemeriksaan dirombak pada 2024 (dilesenkan di bawah Section 126(1) Act 333; firma pemeriksaan tambahan dilantik oleh Ministry of Transport pada 2025) — sahkan skop semasa dan penyedia mana yang beroperasi pada sumber rasmi MOT/JPJ."
+  - "Tempoh pembaharuan cukai jalan dua bulan bagi kenderaan persendirian, dan peraturan bahawa kenderaan persendirian yang luput lebih tiga tahun memerlukan pemeriksaan khas sebelum pembaharuan — dilaporkan daripada garis panduan JPJ; sahkan pada halaman JPJ/MyGovernment semasa."
+updated: 2026-11-18
 sources:
   - title: "Portal Rasmi Jabatan Pengangkutan Jalan (JPJ) (Portal Rasmi Jabatan Pengangkutan Jalan (JPJ) — Road Transport Department Malaysia)"
     url: "https://www.jpj.gov.my/en/"
@@ -66,6 +75,12 @@ sources:
     url: "https://www.malaymail.com/news/malaysia/2024/09/12/a-guide-to-the-different-classes-and-categories-of-the-malaysian-driving-licence/148770"
     publisher: "Malay Mail"
     date: "2024-09-12"
+  - title: "Bidaan Nombor Pendaftaran Kenderaan (JPJeBid) (Bidding for Vehicle Registration Numbers (JPJeBid))"
+    url: "https://www.malaysia.gov.my/en/categories/transportation/vehicle-services/bidding-for-vehicle-registration-numbers-jpjebid"
+    publisher: "MyGovernment (malaysia.gov.my), Kerajaan Malaysia"
+  - title: "Jenis & Bayaran Pemeriksaan (Inspection Types & Fees)"
+    url: "https://www.puspakom.com.my/inspection-types-fees/"
+    publisher: "PUSPAKOM"
 entity: "Road Transport Department (Jabatan Pengangkutan Jalan, JPJ)"
 wikidata: "Q6742016"
 relations:
@@ -139,14 +154,32 @@ Oleh sebab Akta ini dipinda secara berkala — termasuk semakan berkala penalti 
 JPJ telah memindahkan sebahagian besar penyampaian perkhidmatannya dalam talian sambil mengekalkan kaunter fizikal. Transaksi boleh dibuat menerusi:
 
 - **mySIKAP** — portal dalam talian awam (di *public.jpj.gov.my*) untuk memperbaharui cukai jalan dan lesen memandu serta transaksi lain.
-- **Aplikasi MyJPJ** — aplikasi mudah alih yang menyediakan salinan digital lesen memandu dan cukai jalan (**e-LKM**), membolehkan pengguna menyemak status lesen dan saman, serta menyokong pembaharuan. Kelayakan mySIKAP sedia ada dibawa ke aplikasi itu.
-- **Kaunter JPJ dan rakan kongsi yang dilantik** — pejabat cawangan, kiosk layan diri, dan rakan kongsi seperti Pos Malaysia dan MyEG untuk pembaharuan di kaunter.
+- **Aplikasi MyJPJ** — aplikasi mudah alih yang menyediakan salinan digital lesen memandu dan cukai jalan (**e-LKM**), membolehkan pengguna menyemak status lesen dan saman, serta menyokong pembaharuan. Kelayakan mySIKAP sedia ada dibawa ke aplikasi itu, yang juga bertindak sebagai gerbang ke perkhidmatan digital JPJ yang lain.
+- **JPJeBid dan JPJeQ** — **JPJeBid** ialah sistem dalam talian JPJ untuk membida nombor pendaftaran kenderaan pilihan, manakala **JPJeQ** mengeluarkan nombor giliran dalam talian untuk kunjungan ke kaunter; kedua-duanya boleh dicapai menerusi gerbang MyJPJ.
+- **Kaunter JPJ dan rakan kongsi yang dilantik** — pejabat cawangan dan kiosk layan diri dalam setiap negeri dan wilayah persekutuan, serta rakan kongsi seperti Pos Malaysia dan MyEG untuk pembaharuan di kaunter.
 
 Sejak 2023, JPJ telah mengeluarkan cukai jalan digital dan lesen memandu digital, dan pameran fizikal pelekat cukai jalan tidak lagi mandatori bagi kebanyakan kenderaan persendirian.
 
-## JPJ berbanding polis trafik
+## Bagaimana pembaharuan cukai jalan berfungsi
 
-Satu titik kekeliruan yang lazim ialah di mana JPJ berakhir dan polis bermula. JPJ ialah jabatan di bawah **Kementerian Pengangkutan** dan mengendalikan pelesenan, pendaftaran, cukai jalan dan penguatkuasaan pengangkutan jalan. Polis trafik ialah cabang **Polis Diraja Malaysia ([PDRM](/government/pdrm))**, yang terletak di bawah Kementerian Dalam Negeri. Kedua-duanya menguatkuasakan peraturan di jalan raya — dan seseorang pemandu mungkin menerima saman daripada mana-mana satu — tetapi ia merupakan agensi berasingan dengan kementerian induk yang berbeza dan mandat teras yang berbeza. Aplikasi MyJPJ mencerminkan pertindihan ini dengan membolehkan pengguna melihat dan membayar saman JPJ dan PDRM di satu tempat.
+Memperbaharui cukai jalan ialah transaksi JPJ yang paling kerap diulang oleh kebanyakan pemandu, dan ia tertakluk kepada satu set syarat yang tetap:
+
+- **Masa.** LKM diperbaharui sejurus sebelum ia luput — garis panduan JPJ menetapkan tempoh pembaharuan dua bulan bagi kenderaan persendirian — untuk tempoh enam bulan atau setahun. Proses langkah demi langkah dijelaskan dalam [panduan pembaharuan cukai jalan](/transport/road-tax-renewal).
+- **Insurans dahulu.** Insurans motor sah yang melindungi kenderaan ialah prasyarat; sistem JPJ mengesahkannya secara elektronik sebelum mengeluarkan lesen, jadi polisi yang luput menyekat pembaharuan.
+- **Pemeriksaan jika diperlukan.** Kenderaan perdagangan mesti memegang [laporan pemeriksaan kenderaan](/transport/puspakom-vehicle-inspections) semasa sebelum JPJ memperbaharui cukai jalan. Kenderaan persendirian yang cukai jalannya telah luput lebih tiga tahun juga mesti lulus pemeriksaan khas terlebih dahulu.
+- **Tiada sekatan tertunggak.** Saman yang belum diselesaikan atau tanda senarai hitam terhadap kenderaan atau pemilik boleh menangguhkan pembaharuan sehingga ia dijelaskan.
+
+Setelah syarat-syarat itu dipenuhi, pembaharuan boleh dilengkapkan menerusi aplikasi MyJPJ atau portal mySIKAP, di kaunter atau kiosk JPJ, atau menerusi rakan kongsi yang dilantik seperti Pos Malaysia dan MyEG.
+
+## JPJ, PUSPAKOM dan polis trafik
+
+Tiga badan menyentuh kenderaan yang sama dan mudah dikelirukan. Satu titik kekeliruan yang lazim ialah di mana JPJ berakhir dan polis bermula. JPJ ialah jabatan di bawah **Kementerian Pengangkutan** dan mengendalikan pelesenan, pendaftaran, cukai jalan dan penguatkuasaan pengangkutan jalan. Polis trafik ialah cabang **Polis Diraja Malaysia ([PDRM](/government/pdrm))**, yang terletak di bawah Kementerian Dalam Negeri. Kedua-duanya menguatkuasakan peraturan di jalan raya — dan seseorang pemandu mungkin menerima saman daripada mana-mana satu — tetapi ia merupakan agensi berasingan dengan kementerian induk yang berbeza dan mandat teras yang berbeza. Aplikasi MyJPJ mencerminkan pertindihan ini dengan membolehkan pengguna melihat dan membayar saman JPJ dan PDRM di satu tempat.
+
+**PUSPAKOM** ialah nama ketiga yang ditemui pemandu, dan ia bukan JPJ mahupun polis. Ia bukan sebuah jabatan kerajaan sama sekali, sebaliknya sebuah penyedia pemeriksaan kenderaan berlesen yang beroperasi di bawah Akta Pengangkutan Jalan 1987 — selama beberapa dekad syarikat pemeriksaan tunggal, dan, selepas konsesi pemeriksaan dirombak pada 2024, firma pertama yang dilesenkan di bawah mekanisme baharu itu (dengan pengendali lain dilantik sejak itu). PUSPAKOM menjalankan pemeriksaan fizikal kesesuaian jalan raya yang mesti dilepasi oleh kenderaan perdagangan dan kenderaan tertentu lain; JPJ tidak memeriksa kenderaan sendiri — ia bergantung pada keputusan pemeriksaan sebelum memperbaharui cukai jalan. [Panduan pemeriksaan PUSPAKOM](/transport/puspakom-vehicle-inspections) menerangkan kenderaan mana yang memerlukannya dan berapa kerap.
+
+## Di mana untuk mencari JPJ
+
+Ibu pejabat JPJ terletak di Putrajaya — di Complex D Pusat Pentadbiran Kerajaan Persekutuan, di Jalan Tun Hussein di Presint 4 — dan jabatan ini mengendalikan pejabat cawangan, kaunter dan kiosk layan diri dalam setiap negeri dan wilayah persekutuan, jadi kebanyakan urusan pelesenan dan cukai jalan boleh dikendalikan berhampiran rumah. Sebuah cawangan pelanggan Putrajaya yang khusus dibuka di Galeria PJH di Presint 4 pada awal 2025. Untuk tugasan tertentu — memperbaharui lesen, membayar cukai jalan, menyemak saman atau membida nombor pendaftaran — aplikasi MyJPJ atau pejabat JPJ terdekat anda ialah tempat untuk bermula.
 
 ## Mengapa ia penting
 

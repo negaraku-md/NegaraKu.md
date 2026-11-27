@@ -26,18 +26,24 @@ faq:
     a: "둘은 같은 것입니다. 말레이시아인이 도로세(cukai jalan)라 부르는 것은 공식적으로 자동차 면허 — Lesen Kenderaan Motor, 즉 LKM — 로, 차량을 공공 도로에서 사용할 수 있도록 JPJ가 발급합니다. 주기적으로 갱신해야 하며, 차량은 유효한 자동차 보험을 갖추어야 하는데, JPJ 시스템이 면허 발급 전에 이를 확인합니다."
   - q: "운전면허나 도로세를 온라인으로 어떻게 갱신합니까?"
     a: "JPJ는 공공 포털(mySIKAP)과 MyJPJ 앱을 통해 온라인 갱신을 제공하며, 이는 운전면허와 도로세의 디지털 사본(e-LKM)도 제공합니다. 갱신은 JPJ 창구와 지정 협력사를 통해서도 가능합니다. 현행 옵션과 수수료는 JPJ 포털(jpj.gov.my)에서 확인하십시오."
+  - q: "JPJ와 PUSPAKOM의 차이는 무엇입니까?"
+    a: "JPJ는 차량을 등록하고, 운전자에게 면허를 발급하며, 도로세를 발급하고, 육상교통법을 집행하는 정부 부서입니다. PUSPAKOM은 부서가 아니라 — 상용 차량과 특정 기타 차량이 JPJ가 도로세를 갱신하기 전에 통과해야 하는 물리적 운행적합성 검사를 수행하는 허가받은 차량 검사 업체입니다. JPJ는 그 검사 결과에 의존하며; 차량을 직접 검사하지는 않습니다."
 lang: "ko"
-sourceContentHash: "d2a76d73479e19c2"
+sourceContentHash: "900f59ff9bbb0ab3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: "2026-11-05"
+reviewed: 2026-11-27
 reviewDue: null
 publishedBy: "ashton-tan"
-revision: 0
-revisions: []
+revision: 1
+revisions:
+  - revision: 1
+    date: 2026-11-18
+    change: "도로세 갱신, JPJeBid/JPJeQ 디지털 서비스, JPJ–PUSPAKOM–경찰 구분, 그리고 JPJ의 소재지에 관한 출처 기반 섹션을 접목 — 폐지된 transport/ 중복 문서에서 복원하여 JPJ, MyGovernment, PUSPAKOM 자료와 재대조한 내용(접목된 자료는 인간 재검토 대기 중)."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "JPJ의 설립일: 자료가 1937년 기원(교통법령 1937에 따른 육상교통위원회)과 1946년 4월 1일 형성 사이에서 엇갈림 — JPJ의 공식 연혁/기업 페이지와 대조하여 확인."
   - "현직 JPJ 청장과 상위 부처 지도부 — JPJ와 MOT 공식 사이트에서 확인(지명된 공직자는 내각 변동에 따라 바뀜)."
@@ -45,7 +51,10 @@ verificationNeeded:
   - "LKM 갱신을 위한 현행 PUSPAKOM 검사 요건(도로세가 최대 3년까지 만료된 자가용은 검사 없이 갱신할 수 있다는 규칙은 2020년으로 거슬러 올라감) — JPJ/MyGov에서 현행 정책을 확인."
   - "JPJ가 2020년 5월 1일부터 도로안전청(JKJR) 기능을 흡수했는지와 그 통합의 현재 범위 — 공식 JPJ/MOT 자료로 확인."
   - "자동차 면허(도로세)를 요구하는 육상교통법 1987의 정확한 조항과, 무면허 운전 또는 도로세 만료 운전에 대한 현행 벌칙 — Act 333의 권위 있는 AGC 텍스트와 대조하여 확인."
-updated: 2026-11-05
+  - "JPJ 본부의 정확한 블록/도로 주소(Complex D, Block D4, No. 26 Jalan Tun Hussein, Presint 4, 62100 Putrajaya) — 2차 자료에서 가져옴; 공식 jpj.gov.my 연락처 페이지에서 확인."
+  - "2024년 검사 양허가 개편된 이후 PUSPAKOM의 지위(Act 333의 Section 126(1)에 따라 허가; 2025년 교통부가 추가 검사 업체 지정) — 현재 범위와 어느 업체가 운영 중인지를 공식 MOT/JPJ 자료에서 확인."
+  - "자가용의 2개월 도로세 갱신 기간과, 3년 넘게 만료된 자가용은 갱신 전 특별 검사가 필요하다는 규칙 — JPJ 지침에서 보고됨; 현행 JPJ/MyGovernment 페이지에서 확인."
+updated: 2026-11-18
 sources:
   - title: "육상교통청(JPJ) 공식 포털 — 말레이시아 육상교통청 (Portal Rasmi Jabatan Pengangkutan Jalan (JPJ) — Road Transport Department Malaysia)"
     url: "https://www.jpj.gov.my/en/"
@@ -66,6 +75,12 @@ sources:
     url: "https://www.malaymail.com/news/malaysia/2024/09/12/a-guide-to-the-different-classes-and-categories-of-the-malaysian-driving-licence/148770"
     publisher: "Malay Mail"
     date: "2024-09-12"
+  - title: "차량 등록번호 입찰(JPJeBid) (Bidding for Vehicle Registration Numbers (JPJeBid))"
+    url: "https://www.malaysia.gov.my/en/categories/transportation/vehicle-services/bidding-for-vehicle-registration-numbers-jpjebid"
+    publisher: "MyGovernment (malaysia.gov.my), 말레이시아 정부"
+  - title: "검사 종류 및 수수료 (Inspection Types & Fees)"
+    url: "https://www.puspakom.com.my/inspection-types-fees/"
+    publisher: "PUSPAKOM"
 entity: "Road Transport Department (Jabatan Pengangkutan Jalan, JPJ)"
 wikidata: "Q6742016"
 relations:
@@ -139,14 +154,32 @@ JPJ의 핵심 법적 권한은 **[육상교통법 1987](/ko/law/road-transport-a
 JPJ는 물리적 창구를 유지하면서도 많은 서비스 제공을 온라인으로 옮겼습니다. 거래는 다음을 통해 할 수 있습니다:
 
 - **mySIKAP** — 도로세와 운전면허 갱신 등 거래를 위한 공공 온라인 포털(*public.jpj.gov.my*).
-- **MyJPJ 앱** — 운전면허와 도로세의 디지털 사본(**e-LKM**)을 제공하고, 면허 상태와 소환장을 확인하게 하며, 갱신을 지원하는 모바일 앱. 기존 mySIKAP 자격이 앱으로 이어집니다.
-- **JPJ 창구와 지정 협력사** — 지점 사무소, 셀프서비스 키오스크, 그리고 창구 갱신을 위한 Pos Malaysia, MyEG 같은 협력사.
+- **MyJPJ 앱** — 운전면허와 도로세의 디지털 사본(**e-LKM**)을 제공하고, 면허 상태와 소환장을 확인하게 하며, 갱신을 지원하는 모바일 앱. 기존 mySIKAP 자격이 앱으로 이어지며, 이는 또한 JPJ의 다른 디지털 서비스로 가는 관문 역할도 합니다.
+- **JPJeBid와 JPJeQ** — **JPJeBid**는 선호 차량 등록번호 입찰을 위한 JPJ의 온라인 시스템이고, **JPJeQ**는 창구 방문을 위한 온라인 대기 번호를 발급합니다; 둘 다 MyJPJ 관문에서 접근할 수 있습니다.
+- **JPJ 창구와 지정 협력사** — 모든 주와 연방 직할구에 있는 지점 사무소, 셀프서비스 키오스크, 그리고 창구 갱신을 위한 Pos Malaysia, MyEG 같은 협력사.
 
 2023년부터 JPJ는 디지털 도로세와 디지털 운전면허를 발급해 왔으며, 대부분의 자가용은 도로세 스티커의 물리적 부착이 더 이상 의무가 아닙니다.
 
-## JPJ 대 교통경찰
+## 도로세 갱신은 어떻게 이루어지는가
 
-흔한 혼동 지점은 JPJ가 어디에서 끝나고 경찰이 어디에서 시작하는가입니다. JPJ는 **교통부**의 부서로 면허, 등록, 도로세, 육상교통 집행을 담당합니다. 교통경찰은 내무부 산하 **말레이시아 왕립경찰([PDRM](/ko/government/pdrm))**의 한 부문입니다. 둘 다 도로 규칙을 집행하며 — 운전자는 어느 쪽에서든 소환장을 받을 수 있습니다 — 그러나 둘은 상위 부처도 다르고 핵심 임무도 다른 별개의 기관입니다. MyJPJ 앱은 사용자가 JPJ와 PDRM 소환장을 한곳에서 조회·납부하게 함으로써 이 중첩을 반영합니다.
+도로세 갱신은 대부분의 운전자가 가장 자주 반복하는 JPJ 거래이며, 정해진 일련의 조건에 따라 진행됩니다:
+
+- **시기.** LKM은 만료 직전에 — JPJ 지침은 자가용에 2개월의 갱신 기간을 정합니다 — 6개월 또는 1년 단위로 갱신합니다. 단계별 절차는 [도로세 갱신 안내](/ko/transport/road-tax-renewal)에서 다룹니다.
+- **보험 먼저.** 차량을 담보하는 유효한 자동차 보험이 전제 조건이며; JPJ 시스템은 면허 발급 전에 이를 전자적으로 확인하므로, 효력이 끝난 보험은 갱신을 가로막습니다.
+- **필요 시 검사.** 상용 차량은 JPJ가 도로세를 갱신하기 전에 유효한 [차량 검사 보고서](/ko/transport/puspakom-vehicle-inspections)를 보유해야 합니다. 도로세가 3년 넘게 만료된 자가용 역시 먼저 특별 검사를 통과해야 합니다.
+- **미결 제한 없음.** 미해결 소환장이나 차량 또는 소유자에 대한 블랙리스트 표시는 해소될 때까지 갱신을 지연시킬 수 있습니다.
+
+이 조건들이 충족되면, 갱신은 MyJPJ 앱이나 mySIKAP 포털, JPJ 창구나 키오스크, 또는 Pos Malaysia, MyEG 같은 지정 협력사를 통해 완료할 수 있습니다.
+
+## JPJ, PUSPAKOM, 그리고 교통경찰
+
+세 기관이 같은 차량과 관련되며 쉽게 혼동됩니다. 흔한 혼동 지점은 JPJ가 어디에서 끝나고 경찰이 어디에서 시작하는가입니다. JPJ는 **교통부**의 부서로 면허, 등록, 도로세, 육상교통 집행을 담당합니다. 교통경찰은 내무부 산하 **말레이시아 왕립경찰([PDRM](/ko/government/pdrm))**의 한 부문입니다. 둘 다 도로 규칙을 집행하며 — 운전자는 어느 쪽에서든 소환장을 받을 수 있습니다 — 그러나 둘은 상위 부처도 다르고 핵심 임무도 다른 별개의 기관입니다. MyJPJ 앱은 사용자가 JPJ와 PDRM 소환장을 한곳에서 조회·납부하게 함으로써 이 중첩을 반영합니다.
+
+**PUSPAKOM**은 운전자가 마주하는 세 번째 이름이며, JPJ도 경찰도 아닙니다. 아예 정부 부서가 아니라 육상교통법 1987에 따라 운영되는 허가받은 차량 검사 업체로 — 수십 년간 유일한 검사 회사였고, 2024년 검사 양허가 개편된 뒤에는 새 체계 아래 최초로 허가받은 업체입니다(이후 다른 운영사들도 지정됨). PUSPAKOM은 상용 차량과 특정 기타 차량이 통과해야 하는 물리적 운행적합성 검사를 수행하며; JPJ는 차량을 직접 검사하지 않고 — 도로세를 갱신하기 전에 그 검사 결과에 의존합니다. [PUSPAKOM 검사 안내](/ko/transport/puspakom-vehicle-inspections)는 어떤 차량이 얼마나 자주 검사를 받아야 하는지를 설명합니다.
+
+## JPJ를 어디에서 찾을 수 있는가
+
+JPJ의 본부는 푸트라자야에 있으며 — 연방정부 행정중심지의 Complex D, Presint 4의 Jalan Tun Hussein에 위치합니다 — 이 부서는 모든 주와 연방 직할구에 지점 사무소, 창구, 셀프서비스 키오스크를 운영하므로, 대부분의 면허·도로세 업무를 가까운 곳에서 처리할 수 있습니다. 전용 푸트라자야 고객 지점이 2025년 초 Presint 4의 Galeria PJH에 문을 열었습니다. 특정 업무 — 면허 갱신, 도로세 납부, 소환장 조회, 번호판 입찰 — 의 경우 MyJPJ 앱이나 가장 가까운 JPJ 사무소가 출발점입니다.
 
 ## 왜 중요한가
 

@@ -26,18 +26,24 @@ faq:
     a: "両者は同じものである。マレーシア人が道路税（cukai jalan）と呼ぶものは、正式には自動車免許——Lesen Kenderaan Motor、すなわち LKM——であり、車両を公道で使用することを許すために JPJ が発行する。定期的に更新しなければならず、車両は有効な自動車保険を備えていなければならない。JPJ のシステムは免許を発行する前にこれを確認する。"
   - q: "運転免許や道路税をオンラインで更新するにはどうすればよいですか。"
     a: "JPJ は公式ポータル（mySIKAP）と MyJPJ アプリを通じてオンライン更新を提供しており、これらは運転免許と道路税（e-LKM）のデジタル版も提供する。更新は JPJ のカウンターや指定パートナーを通じても可能である。現在の選択肢と料金は JPJ のポータル（jpj.gov.my）で確認すること。"
+  - q: "JPJ と PUSPAKOM の違いは何ですか。"
+    a: "JPJ は、車両を登録し、運転者に免許を与え、道路税を発行し、道路交通法を執行する政府の局である。PUSPAKOM は局ではない——商用車両やその他一定の車両が道路税の更新を JPJ に認められる前に合格しなければならない物理的な走行適性検査を実施する、認可された車両検査事業者である。JPJ はその検査結果に依拠するのであって、自ら車両を検査するわけではない。"
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d2a76d73479e19c2"
+sourceContentHash: "900f59ff9bbb0ab3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: "2026-11-05"
+reviewed: 2026-11-27
 reviewDue: null
 publishedBy: "ashton-tan"
-revision: 0
-revisions: []
+revision: 1
+revisions:
+  - revision: 1
+    date: 2026-11-18
+    change: "道路税の更新、JPJeBid／JPJeQ のデジタルサービス、JPJ・PUSPAKOM・警察の区別、そして JPJ の所在地に関する、出典付きのセクションを接ぎ木した——廃止された transport/ の重複記事から復元し、JPJ、MyGovernment、PUSPAKOM の情報源に照らして再検証した内容（接ぎ木した部分は人手による再レビュー待ち）。"
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "JPJ の設立年：資料は1937年起源（1937年交通法令のもとでの道路交通委員会）と1946年4月1日の設立とで食い違う——JPJ の公式沿革／企業ページに照らして確認する。"
   - "現在の JPJ 局長と親省庁の指導部——JPJ と MOT の公式サイトで確認する（指名された官職者は内閣とともに変わる）。"
@@ -45,7 +51,10 @@ verificationNeeded:
   - "LKM 更新のための現在の PUSPAKOM 検査要件（道路税の有効期限が3年まで切れた自家用車が検査なしで更新できる規則は2020年にさかのぼる）——JPJ／MyGov で現在の方針を確認する。"
   - "JPJ が2020年5月1日から道路安全局（JKJR）の機能を吸収したかどうか、およびその統合の現在の範囲——JPJ／MOT の公式情報源で確認する。"
   - "自動車免許（道路税）を義務付ける1987年道路交通法の正確な条文と、無免許運転または道路税切れ運転に対する現在の罰則——Act 333 の AGC の正文に照らして確認する。"
-updated: 2026-11-05
+  - "JPJ 本部の正確なブロック／街路の住所（Complex D, Block D4, No. 26 Jalan Tun Hussein, Presint 4, 62100 Putrajaya）——二次情報源から取ったもの；公式の jpj.gov.my の問い合わせページで確認する。"
+  - "2024年に検査コンセッションが改革された後の PUSPAKOM の地位（Act 333 の Section 126(1) に基づき認可；2025年に運輸省（MOT）が追加の検査会社を指名）——現在の範囲とどの事業者が運営しているかを公式の MOT／JPJ の情報源で確認する。"
+  - "自家用車の道路税更新の2か月の期間、および自家用車の有効期限が3年以上切れた場合は更新前に特別検査を要する規則——JPJ のガイドラインから報じられたもの；現在の JPJ／MyGovernment のページで確認する。"
+updated: 2026-11-18
 sources:
   - title: "道路交通局（JPJ）公式ポータル——Road Transport Department Malaysia (Portal Rasmi Jabatan Pengangkutan Jalan (JPJ) — Road Transport Department Malaysia)"
     url: "https://www.jpj.gov.my/en/"
@@ -66,6 +75,12 @@ sources:
     url: "https://www.malaymail.com/news/malaysia/2024/09/12/a-guide-to-the-different-classes-and-categories-of-the-malaysian-driving-licence/148770"
     publisher: "Malay Mail"
     date: "2024-09-12"
+  - title: "車両登録番号の入札（JPJeBid） (Bidding for Vehicle Registration Numbers (JPJeBid))"
+    url: "https://www.malaysia.gov.my/en/categories/transportation/vehicle-services/bidding-for-vehicle-registration-numbers-jpjebid"
+    publisher: "MyGovernment（malaysia.gov.my）、マレーシア政府"
+  - title: "検査の種類と料金 (Inspection Types & Fees)"
+    url: "https://www.puspakom.com.my/inspection-types-fees/"
+    publisher: "PUSPAKOM"
 entity: "Road Transport Department (Jabatan Pengangkutan Jalan, JPJ)"
 wikidata: "Q6742016"
 relations:
@@ -139,14 +154,32 @@ JPJ の中核的な法的権限は**[1987年道路交通法](/ja/law/road-transp
 JPJ は、物理的なカウンターを維持しつつ、そのサービス提供の多くをオンラインに移した。取引は次を通じて行える。
 
 - **mySIKAP** —— 道路税や運転免許の更新、その他の取引のための公式オンラインポータル（*public.jpj.gov.my*）。
-- **MyJPJ アプリ** —— 運転免許と道路税のデジタル版（**e-LKM**）を提供し、免許の状況や召喚状を確認でき、更新にも対応するモバイルアプリ。既存の mySIKAP の認証情報がアプリに引き継がれる。
-- **JPJ のカウンターと指定パートナー** —— 支局、セルフサービス端末、そしてカウンターでの更新のための Pos Malaysia や MyEG といったパートナー。
+- **MyJPJ アプリ** —— 運転免許と道路税のデジタル版（**e-LKM**）を提供し、免許の状況や召喚状を確認でき、更新にも対応するモバイルアプリ。既存の mySIKAP の認証情報がアプリに引き継がれ、JPJ のその他のデジタルサービスへの入り口としても機能する。
+- **JPJeBid と JPJeQ** —— **JPJeBid** は希望するナンバープレートに入札するための JPJ のオンラインシステムであり、**JPJeQ** はカウンター来訪のためのオンライン整理番号を発行する；どちらも MyJPJ の入り口から利用できる。
+- **JPJ のカウンターと指定パートナー** —— すべての州と連邦直轄領にある支局、セルフサービス端末、そしてカウンターでの更新のための Pos Malaysia や MyEG といったパートナー。
 
 2023年以降、JPJ はデジタル道路税とデジタル運転免許を発行しており、ほとんどの自家用車について道路税ステッカーの物理的な掲示はもはや義務ではない。
 
-## JPJ と交通警察
+## 道路税の更新はどう行われるか
 
-よくある混同の一つは、JPJ がどこで終わり警察がどこで始まるかである。JPJ は**運輸省**の局であり、免許付与、登録、道路税、道路交通の執行を扱う。交通警察は**内務省**傘下のマレーシア王立警察（[PDRM](/ja/government/pdrm)）の一部門である。両者とも道路上の規則を執行し——運転者はいずれからも召喚状を受けることがある——が、別個の機関であり、親省庁も異なり、中核的な任務も異なる。MyJPJ アプリは、利用者が JPJ と PDRM の両方の召喚状を一か所で閲覧・支払いできるようにすることで、この重なりを反映している。
+道路税の更新は、ほとんどの運転者がもっとも頻繁に繰り返す JPJ の取引であり、決まった一連の条件に沿って進む。
+
+- **時期。** LKM は有効期限の少し前に更新する——JPJ のガイドラインは自家用車に2か月の更新期間を設けている——半年または1年のいずれかの期間で行う。手順ごとの流れは[道路税更新ガイド](/ja/transport/road-tax-renewal)で扱う。
+- **まず保険。** 車両を補償する有効な自動車保険が前提条件である；JPJ のシステムは免許を発行する前にこれを電子的に確認するため、失効した保険は更新を妨げる。
+- **必要な場合の検査。** 商用車両は、JPJ が道路税を更新する前に、有効な[車両検査報告書](/ja/transport/puspakom-vehicle-inspections)をもっていなければならない。道路税が3年以上切れた自家用車も、まず特別検査に合格しなければならない。
+- **未処理の支障がないこと。** 未解決の召喚状や、車両または所有者に対するブラックリストの標示があると、それらが解消されるまで更新が保留されることがある。
+
+これらの条件が満たされれば、更新は MyJPJ アプリや mySIKAP ポータル、JPJ のカウンターや端末、あるいは Pos Malaysia や MyEG といった指定パートナーを通じて完了できる。
+
+## JPJ、PUSPAKOM、そして交通警察
+
+三つの組織が同じ車両に関わり、混同されやすい。よくある混同の一つは、JPJ がどこで終わり警察がどこで始まるかである。JPJ は**運輸省**の局であり、免許付与、登録、道路税、道路交通の執行を扱う。交通警察は**内務省**傘下のマレーシア王立警察（[PDRM](/ja/government/pdrm)）の一部門である。両者とも道路上の規則を執行し——運転者はいずれからも召喚状を受けることがある——が、別個の機関であり、親省庁も異なり、中核的な任務も異なる。MyJPJ アプリは、利用者が JPJ と PDRM の両方の召喚状を一か所で閲覧・支払いできるようにすることで、この重なりを反映している。
+
+**PUSPAKOM** は運転者が出会う三つ目の名前であり、JPJ でも警察でもない。政府の局ではまったくなく、1987年道路交通法のもとで運営される認可された車両検査事業者である——数十年にわたり唯一の検査会社であり、2024年に検査コンセッションが改革された後は、新しい仕組みのもとで最初に認可された会社となった（その後、他の事業者も指名されている）。PUSPAKOM は、商用車両やその他一定の車両が合格しなければならない物理的な走行適性検査を実施する；JPJ は自ら車両を検査するわけではなく——道路税を更新する前にその検査結果に依拠する。どの車両にそれが必要で、どのくらいの頻度で必要かは[PUSPAKOM 検査ガイド](/ja/transport/puspakom-vehicle-inspections)が説明している。
+
+## JPJ はどこにあるか
+
+JPJ の本部はプトラジャヤにある——連邦政府行政センターの Complex D、Presint 4 の Jalan Tun Hussein 沿い——のに加え、同局はすべての州と連邦直轄領に支局、カウンター、セルフサービス端末を運営しているため、免許や道路税に関する業務のほとんどは自宅の近くで済ませられる。プトラジャヤ専用の顧客窓口は、2025年初めに Presint 4 の Galeria PJH に開設された。免許の更新、道路税の支払い、召喚状の確認、プレートの入札といった具体的な用件には、MyJPJ アプリか最寄りの JPJ 事務所が出発点となる。
 
 ## なぜ重要か
 

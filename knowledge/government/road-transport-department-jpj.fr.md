@@ -26,18 +26,24 @@ faq:
     a: "C'est la même chose. Ce que les Malaisiens appellent la taxe routière (cukai jalan) est formellement le permis de véhicule à moteur — Lesen Kenderaan Motor, ou LKM — délivré par le JPJ pour autoriser l'usage d'un véhicule sur les routes publiques. Il doit être renouvelé périodiquement, et le véhicule doit être couvert par une assurance automobile valide, que le système du JPJ vérifie avant de délivrer le permis."
   - q: "Comment renouveler mon permis de conduire ou ma taxe routière en ligne ?"
     a: "Le JPJ propose le renouvellement en ligne via son portail public (mySIKAP) et l'application MyJPJ, qui fournissent aussi des copies numériques du permis de conduire et de la taxe routière (e-LKM). Les renouvellements peuvent aussi se faire aux guichets du JPJ et auprès de partenaires désignés. Vérifiez les options et frais actuels sur le portail du JPJ (jpj.gov.my)."
+  - q: "Quelle est la différence entre le JPJ et PUSPAKOM ?"
+    a: "Le JPJ est le département gouvernemental qui immatricule les véhicules, délivre les permis aux conducteurs, émet la taxe routière et applique la loi sur le transport routier. PUSPAKOM n'est pas un département — c'est un prestataire d'inspection de véhicules agréé qui réalise l'inspection physique de l'état de marche que les véhicules commerciaux et certains autres véhicules doivent passer avant que le JPJ ne renouvelle leur taxe routière. Le JPJ se fonde sur le résultat de l'inspection ; il n'inspecte pas les véhicules lui-même."
 lang: "fr"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d2a76d73479e19c2"
+sourceContentHash: "900f59ff9bbb0ab3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: "2026-11-05"
+reviewed: 2026-11-27
 reviewDue: null
 publishedBy: "ashton-tan"
-revision: 0
-revisions: []
+revision: 1
+revisions:
+  - revision: 1
+    date: 2026-11-18
+    change: "Greffe de sections sourcées sur le renouvellement de la taxe routière, les services numériques JPJeBid/JPJeQ, la distinction JPJ–PUSPAKOM–police et l'emplacement du JPJ — contenu récupéré du doublon transport/ retiré et re-vérifié par rapport aux sources JPJ, MyGovernment et PUSPAKOM (en attente d'une nouvelle relecture humaine du contenu greffé)."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Date de création du JPJ : les sources divergent entre une origine en 1937 (Road Transport Board sous le Traffic Enactment 1937) et une formation le 1er avril 1946 — à vérifier par rapport aux pages d'histoire/corporatives officielles du JPJ."
   - "Directeur général actuel du JPJ et direction du ministère de tutelle — à confirmer sur les sites officiels du JPJ et du MOT (les responsables nommés changent avec le Cabinet)."
@@ -45,7 +51,10 @@ verificationNeeded:
   - "Exigence actuelle d'inspection PUSPAKOM pour le renouvellement du LKM (la règle selon laquelle les véhicules privés dont la taxe routière est expirée depuis jusqu'à trois ans peuvent renouveler sans inspection date de 2020) — à confirmer avec la politique actuelle sur JPJ/MyGov."
   - "Le fait de savoir si le JPJ a absorbé les fonctions du Département de la sécurité routière (JKJR) à compter du 1er mai 2020 et la portée actuelle de cette fusion — à vérifier sur une source officielle JPJ/MOT."
   - "La section précise du Road Transport Act 1987 qui exige un permis de véhicule à moteur (taxe routière) et les sanctions actuelles pour conduite sans permis ou avec taxe routière expirée — à confirmer par rapport au texte faisant foi de l'Act 333 de l'AGC."
-updated: 2026-11-05
+  - "L'adresse exacte (bloc/rue) du siège du JPJ (Complex D, Block D4, No. 26 Jalan Tun Hussein, Presint 4, 62100 Putrajaya) — tirée de sources secondaires ; à confirmer sur une page de contact officielle jpj.gov.my."
+  - "Le statut de PUSPAKOM après la réforme de la concession d'inspection en 2024 (agréé en vertu de la Section 126(1) de l'Act 333 ; des entreprises d'inspection supplémentaires nommées par le Ministry of Transport en 2025) — à confirmer la portée actuelle et quels prestataires opèrent sur une source officielle MOT/JPJ."
+  - "La fenêtre de renouvellement de deux mois de la taxe routière pour les véhicules privés, et la règle selon laquelle un véhicule privé dont la taxe est expirée depuis plus de trois ans doit passer une inspection spéciale avant renouvellement — rapporté d'après les directives du JPJ ; à confirmer sur la page actuelle JPJ/MyGovernment."
+updated: 2026-11-18
 sources:
   - title: "Portail officiel du Département des transports routiers (JPJ) — Road Transport Department Malaysia"
     url: "https://www.jpj.gov.my/en/"
@@ -66,6 +75,12 @@ sources:
     url: "https://www.malaymail.com/news/malaysia/2024/09/12/a-guide-to-the-different-classes-and-categories-of-the-malaysian-driving-licence/148770"
     publisher: "Malay Mail"
     date: "2024-09-12"
+  - title: "Enchères pour les numéros d'immatriculation de véhicules (Bidding for Vehicle Registration Numbers (JPJeBid))"
+    url: "https://www.malaysia.gov.my/en/categories/transportation/vehicle-services/bidding-for-vehicle-registration-numbers-jpjebid"
+    publisher: "MyGovernment (malaysia.gov.my), Gouvernement de la Malaisie"
+  - title: "Types et frais d'inspection (Inspection Types & Fees)"
+    url: "https://www.puspakom.com.my/inspection-types-fees/"
+    publisher: "PUSPAKOM"
 entity: "Road Transport Department (Jabatan Pengangkutan Jalan, JPJ)"
 wikidata: "Q6742016"
 relations:
@@ -139,14 +154,32 @@ Comme la loi est amendée régulièrement — y compris des révisions périodiq
 Le JPJ a transféré en ligne une grande partie de sa prestation de services tout en conservant des guichets physiques. Les opérations peuvent se faire à travers :
 
 - **mySIKAP** — le portail public en ligne (à *public.jpj.gov.my*) pour renouveler la taxe routière et les permis de conduire et effectuer d'autres opérations.
-- **L'application MyJPJ** — une application mobile qui fournit des copies numériques du permis de conduire et de la taxe routière (**e-LKM**), permet aux utilisateurs de vérifier le statut du permis et les contraventions, et prend en charge les renouvellements. Les identifiants mySIKAP existants sont repris dans l'application.
-- **Les guichets du JPJ et les partenaires désignés** — agences, bornes libre-service, et partenaires comme Pos Malaysia et MyEG pour les renouvellements au comptoir.
+- **L'application MyJPJ** — une application mobile qui fournit des copies numériques du permis de conduire et de la taxe routière (**e-LKM**), permet aux utilisateurs de vérifier le statut du permis et les contraventions, et prend en charge les renouvellements. Les identifiants mySIKAP existants sont repris dans l'application, qui agit aussi comme une passerelle vers les autres services numériques du JPJ.
+- **JPJeBid et JPJeQ** — **JPJeBid** est le système en ligne du JPJ pour enchérir sur les numéros d'immatriculation de véhicules préférés, et **JPJeQ** délivre des numéros de file d'attente en ligne pour les visites au guichet ; les deux sont accessibles depuis la passerelle MyJPJ.
+- **Les guichets du JPJ et les partenaires désignés** — agences et bornes libre-service dans chaque État et territoire fédéral, ainsi que des partenaires comme Pos Malaysia et MyEG pour les renouvellements au comptoir.
 
 Depuis 2023, le JPJ délivre une taxe routière numérique et des permis de conduire numériques, et l'affichage physique de la vignette de taxe routière n'est plus obligatoire pour la plupart des véhicules privés.
 
-## Le JPJ face à la police de la route
+## Comment fonctionne le renouvellement de la taxe routière
 
-Un point de confusion courant est de savoir où s'arrête le JPJ et où commence la police. Le JPJ est un département du **ministère des Transports** et gère les permis, l'immatriculation, la taxe routière et l'application des règles du transport routier. La police de la route est une branche de la **Police royale de Malaisie ([PDRM](/fr/government/pdrm))**, qui relève du ministère de l'Intérieur. Les deux appliquent les règles sur la route — et un automobiliste peut recevoir une contravention de l'une ou l'autre — mais ce sont des agences distinctes avec des ministères de tutelle différents et des mandats de base différents. L'application MyJPJ reflète ce recoupement en permettant aux utilisateurs de consulter et de payer à la fois les contraventions du JPJ et de la PDRM au même endroit.
+Le renouvellement de la taxe routière est l'opération du JPJ que la plupart des automobilistes répètent le plus souvent, et elle obéit à un ensemble fixe de conditions :
+
+- **Délais.** Le LKM se renouvelle peu avant son expiration — les directives du JPJ fixent une fenêtre de renouvellement de deux mois pour les véhicules privés — pour six mois ou un an. La procédure étape par étape est détaillée dans le [guide de renouvellement de la taxe routière](/fr/transport/road-tax-renewal).
+- **L'assurance d'abord.** Une assurance automobile valide couvrant le véhicule est une condition préalable ; les systèmes du JPJ la vérifient électroniquement avant de délivrer le permis, de sorte qu'une police échue bloque le renouvellement.
+- **Inspection lorsqu'elle est requise.** Les véhicules commerciaux doivent détenir un [rapport d'inspection de véhicule](/fr/transport/puspakom-vehicle-inspections) à jour avant que le JPJ ne renouvelle la taxe routière. Un véhicule privé dont la taxe routière est expirée depuis plus de trois ans doit également passer d'abord une inspection spéciale.
+- **Aucun blocage en suspens.** Des contraventions non réglées ou une inscription sur liste noire visant le véhicule ou le propriétaire peuvent retarder un renouvellement jusqu'à leur régularisation.
+
+Une fois ces conditions réunies, le renouvellement peut s'effectuer via l'application MyJPJ ou le portail mySIKAP, à un guichet ou une borne du JPJ, ou auprès de partenaires désignés comme Pos Malaysia et MyEG.
+
+## Le JPJ, PUSPAKOM et la police de la route
+
+Trois organismes touchent au même véhicule et sont facilement confondus. Un point de confusion courant est de savoir où s'arrête le JPJ et où commence la police. Le JPJ est un département du **ministère des Transports** et gère les permis, l'immatriculation, la taxe routière et l'application des règles du transport routier. La police de la route est une branche de la **Police royale de Malaisie ([PDRM](/fr/government/pdrm))**, qui relève du ministère de l'Intérieur. Les deux appliquent les règles sur la route — et un automobiliste peut recevoir une contravention de l'une ou l'autre — mais ce sont des agences distinctes avec des ministères de tutelle différents et des mandats de base différents. L'application MyJPJ reflète ce recoupement en permettant aux utilisateurs de consulter et de payer à la fois les contraventions du JPJ et de la PDRM au même endroit.
+
+**PUSPAKOM** est le troisième nom que rencontrent les automobilistes, et ce n'est ni le JPJ ni la police. Ce n'est pas du tout un département gouvernemental mais un prestataire d'inspection de véhicules agréé opérant en vertu du Road Transport Act 1987 — pendant des décennies la seule société d'inspection et, après la réforme de la concession d'inspection en 2024, la première entreprise agréée dans le cadre du nouveau mécanisme (d'autres opérateurs ayant été nommés depuis). PUSPAKOM réalise l'inspection physique de l'état de marche que les véhicules commerciaux et certains autres véhicules doivent passer ; le JPJ n'inspecte pas les véhicules lui-même — il se fonde sur le résultat de l'inspection avant de renouveler la taxe routière. Le [guide d'inspection PUSPAKOM](/fr/transport/puspakom-vehicle-inspections) explique quels véhicules en ont besoin et à quelle fréquence.
+
+## Où trouver le JPJ
+
+Le siège du JPJ se trouve à Putrajaya — dans le Complex D du Centre administratif du gouvernement fédéral, sur Jalan Tun Hussein dans le Presint 4 — et le département exploite des agences, des guichets et des bornes libre-service dans chaque État et territoire fédéral, de sorte que la plupart des démarches de permis et de taxe routière peuvent être effectuées près de chez soi. Une agence clientèle dédiée à Putrajaya a ouvert à Galeria PJH, dans le Precinct 4, début 2025. Pour une démarche précise — renouveler un permis, payer la taxe routière, vérifier des contraventions ou enchérir sur une plaque — l'application MyJPJ ou le bureau du JPJ le plus proche est le point de départ.
 
 ## Pourquoi c'est important
 

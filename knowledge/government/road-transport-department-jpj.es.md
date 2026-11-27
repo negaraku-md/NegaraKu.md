@@ -26,18 +26,24 @@ faq:
     a: "Son lo mismo. Lo que los malasios llaman impuesto de circulación (cukai jalan) es formalmente la Licencia del Vehículo de Motor — Lesen Kenderaan Motor, o LKM — emitida por la JPJ para permitir el uso de un vehículo en las vías públicas. Debe renovarse periódicamente, y el vehículo debe llevar un seguro de automóvil válido, que el sistema de la JPJ comprueba antes de emitir la licencia."
   - q: "¿Cómo renuevo mi permiso de conducir o el impuesto de circulación en línea?"
     a: "La JPJ ofrece la renovación en línea a través de su portal público (mySIKAP) y la aplicación MyJPJ, que también proporcionan copias digitales del permiso de conducir y del impuesto de circulación (e-LKM). Las renovaciones también pueden hacerse en los mostradores de la JPJ y a través de socios autorizados. Comprueba las opciones y tarifas actuales en el portal de la JPJ (jpj.gov.my)."
+  - q: "¿Cuál es la diferencia entre la JPJ y PUSPAKOM?"
+    a: "La JPJ es el departamento gubernamental que matricula vehículos, concede permisos a conductores, emite el impuesto de circulación y hace cumplir la ley del transporte por carretera. PUSPAKOM no es un departamento — es un proveedor autorizado de inspección de vehículos que realiza la inspección física de aptitud para circular que los vehículos comerciales y algunos otros deben superar antes de que la JPJ les renueve el impuesto de circulación. La JPJ se apoya en el resultado de la inspección; no inspecciona los vehículos ella misma."
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d2a76d73479e19c2"
+sourceContentHash: "900f59ff9bbb0ab3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: "2026-11-05"
+reviewed: 2026-11-27
 reviewDue: null
 publishedBy: "ashton-tan"
-revision: 0
-revisions: []
+revision: 1
+revisions:
+  - revision: 1
+    date: 2026-11-18
+    change: "Se injertaron secciones con fuentes sobre la renovación del impuesto de circulación, los servicios digitales JPJeBid/JPJeQ, la distinción entre la JPJ, PUSPAKOM y la policía, y la ubicación de la JPJ — contenido recuperado del duplicado retirado transport/ y verificado de nuevo frente a fuentes de la JPJ, MyGovernment y PUSPAKOM (pendiente de nueva revisión humana del material injertado)."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Fecha de creación de la JPJ: las fuentes discrepan entre un origen en 1937 (Junta de Transporte por Carretera bajo la Traffic Enactment 1937) y la formación el 1 de abril de 1946 — verificar frente a las páginas oficiales de historia/corporativas de la JPJ."
   - "El Director General actual de la JPJ y la dirección del ministerio matriz — confirmar en los sitios oficiales de la JPJ y el MOT (los cargos nombrados cambian con el Gabinete)."
@@ -45,7 +51,10 @@ verificationNeeded:
   - "El requisito actual de inspección de PUSPAKOM para la renovación de la LKM (la norma de que los vehículos privados con el impuesto de circulación vencido hasta tres años pueden renovar sin inspección data de 2020) — confirmar la política actual en la JPJ/MyGov."
   - "Si la JPJ absorbió las funciones del Departamento de Seguridad Vial (JKJR) a partir del 1 de mayo de 2020 y el alcance actual de esa fusión — verificar en una fuente oficial de la JPJ/MOT."
   - "La sección precisa de la Road Transport Act 1987 que exige una licencia de vehículo de motor (impuesto de circulación) y las sanciones actuales por conducir sin licencia o con el impuesto de circulación vencido — confirmar frente al texto autorizado de la Act 333 de la AGC."
-updated: 2026-11-05
+  - "La dirección exacta de bloque/calle de la sede de la JPJ (Complex D, Block D4, No. 26 Jalan Tun Hussein, Presint 4, 62100 Putrajaya) — tomada de fuentes secundarias; confirmar en una página de contacto oficial de jpj.gov.my."
+  - "La situación de PUSPAKOM tras la reforma de la concesión de inspección en 2024 (autorizada en virtud de la Section 126(1) de la Act 333; empresas de inspección adicionales nombradas por el Ministerio de Transporte en 2025) — confirmar el alcance actual y qué proveedores están operando en una fuente oficial del MOT/JPJ."
+  - "El plazo de renovación de dos meses del impuesto de circulación para vehículos privados, y la norma de que un vehículo privado con el impuesto vencido desde hace más de tres años necesita una inspección especial antes de renovar — reportado a partir de las directrices de la JPJ; confirmar en la página actual de la JPJ/MyGovernment."
+updated: 2026-11-18
 sources:
   - title: "Portal oficial del Jabatan Pengangkutan Jalan (JPJ) — Departamento de Transporte por Carretera de Malasia (Portal Rasmi Jabatan Pengangkutan Jalan (JPJ) — Road Transport Department Malaysia)"
     url: "https://www.jpj.gov.my/en/"
@@ -66,6 +75,12 @@ sources:
     url: "https://www.malaymail.com/news/malaysia/2024/09/12/a-guide-to-the-different-classes-and-categories-of-the-malaysian-driving-licence/148770"
     publisher: "Malay Mail"
     date: "2024-09-12"
+  - title: "Puja por números de matrícula de vehículos (JPJeBid) (Bidding for Vehicle Registration Numbers (JPJeBid))"
+    url: "https://www.malaysia.gov.my/en/categories/transportation/vehicle-services/bidding-for-vehicle-registration-numbers-jpjebid"
+    publisher: "MyGovernment (malaysia.gov.my), Gobierno de Malasia"
+  - title: "Tipos de inspección y tarifas (Inspection Types & Fees)"
+    url: "https://www.puspakom.com.my/inspection-types-fees/"
+    publisher: "PUSPAKOM"
 entity: "Road Transport Department (Jabatan Pengangkutan Jalan, JPJ)"
 wikidata: "Q6742016"
 relations:
@@ -139,14 +154,32 @@ Como la ley se modifica con regularidad — incluidas revisiones periódicas de 
 La JPJ ha trasladado buena parte de su prestación de servicios a internet sin dejar de mantener los mostradores físicos. Las gestiones pueden realizarse a través de:
 
 - **mySIKAP** — el portal público en línea (en *public.jpj.gov.my*) para renovar el impuesto de circulación y los permisos de conducir y realizar otras gestiones.
-- **La aplicación MyJPJ** — una aplicación móvil que proporciona copias digitales del permiso de conducir y del impuesto de circulación (**e-LKM**), permite a los usuarios comprobar el estado del permiso y las multas, y admite renovaciones. Las credenciales existentes de mySIKAP se trasladan a la aplicación.
-- **Los mostradores de la JPJ y los socios autorizados** — oficinas de sucursal, quioscos de autoservicio y socios como Pos Malaysia y MyEG para renovaciones en ventanilla.
+- **La aplicación MyJPJ** — una aplicación móvil que proporciona copias digitales del permiso de conducir y del impuesto de circulación (**e-LKM**), permite a los usuarios comprobar el estado del permiso y las multas, y admite renovaciones. Las credenciales existentes de mySIKAP se trasladan a la aplicación, que además actúa como puerta de acceso a los demás servicios digitales de la JPJ.
+- **JPJeBid y JPJeQ** — **JPJeBid** es el sistema en línea de la JPJ para pujar por números de matrícula de vehículo preferentes, y **JPJeQ** emite números de turno en línea para las visitas a los mostradores; a ambos se accede desde la puerta de entrada MyJPJ.
+- **Los mostradores de la JPJ y los socios autorizados** — oficinas de sucursal y quioscos de autoservicio en todos los estados y territorios federales, además de socios como Pos Malaysia y MyEG para renovaciones en ventanilla.
 
 Desde 2023, la JPJ emite el impuesto de circulación digital y los permisos de conducir digitales, y la exhibición física de la pegatina del impuesto de circulación ya no es obligatoria para la mayoría de los vehículos privados.
 
-## La JPJ frente a la policía de tráfico
+## Cómo funciona la renovación del impuesto de circulación
 
-Un punto frecuente de confusión es dónde termina la JPJ y dónde empieza la policía. La JPJ es un departamento del **Ministerio de Transporte** y se encarga de los permisos, la matriculación, el impuesto de circulación y la vigilancia del transporte por carretera. La policía de tráfico es una rama de la **Real Policía de Malasia ([PDRM](/es/government/pdrm))**, que depende del Ministerio del Interior. Ambos hacen cumplir las normas en la carretera — y un conductor puede recibir una multa de cualquiera de los dos — pero son organismos distintos, con ministerios matrices distintos y mandatos fundamentales distintos. La aplicación MyJPJ refleja este solapamiento al permitir a los usuarios ver y pagar en un mismo lugar las multas tanto de la JPJ como de la PDRM.
+Renovar el impuesto de circulación es la gestión de la JPJ que la mayoría de los conductores repiten con más frecuencia, y se rige por un conjunto fijo de condiciones:
+
+- **Plazos.** La LKM se renueva poco antes de que venza — las directrices de la JPJ fijan un plazo de renovación de dos meses para los vehículos privados — por seis meses o por un año. El proceso paso a paso se detalla en la [guía de renovación del impuesto de circulación](/es/transport/road-tax-renewal).
+- **El seguro primero.** Un seguro de automóvil válido que cubra el vehículo es un requisito previo; los sistemas de la JPJ lo verifican electrónicamente antes de emitir la licencia, de modo que una póliza caducada bloquea la renovación.
+- **Inspección cuando corresponde.** Los vehículos comerciales deben tener un [informe de inspección del vehículo](/es/transport/puspakom-vehicle-inspections) vigente antes de que la JPJ renueve el impuesto de circulación. Un vehículo privado cuyo impuesto de circulación lleve vencido más de tres años también debe superar primero una inspección especial.
+- **Sin bloqueos pendientes.** Las multas sin resolver o una marca de lista negra contra el vehículo o su titular pueden retener una renovación hasta que se resuelvan.
+
+Una vez cumplidas esas condiciones, la renovación puede completarse mediante la aplicación MyJPJ o el portal mySIKAP, en un mostrador o quiosco de la JPJ, o a través de socios autorizados como Pos Malaysia y MyEG.
+
+## La JPJ, PUSPAKOM y la policía de tráfico
+
+Tres organismos tocan el mismo vehículo y se confunden con facilidad. Un punto frecuente de confusión es dónde termina la JPJ y dónde empieza la policía. La JPJ es un departamento del **Ministerio de Transporte** y se encarga de los permisos, la matriculación, el impuesto de circulación y la vigilancia del transporte por carretera. La policía de tráfico es una rama de la **Real Policía de Malasia ([PDRM](/es/government/pdrm))**, que depende del Ministerio del Interior. Ambos hacen cumplir las normas en la carretera — y un conductor puede recibir una multa de cualquiera de los dos — pero son organismos distintos, con ministerios matrices distintos y mandatos fundamentales distintos. La aplicación MyJPJ refleja este solapamiento al permitir a los usuarios ver y pagar en un mismo lugar las multas tanto de la JPJ como de la PDRM.
+
+**PUSPAKOM** es el tercer nombre con el que se topan los conductores, y no es ni la JPJ ni la policía. No es en absoluto un departamento gubernamental, sino un proveedor autorizado de inspección de vehículos que opera en virtud de la Road Transport Act 1987 — durante décadas la única empresa de inspección y, tras la reforma de la concesión de inspección en 2024, la primera firma autorizada bajo el nuevo mecanismo (con otros operadores nombrados desde entonces). PUSPAKOM realiza la inspección física de aptitud para circular que los vehículos comerciales y algunos otros deben superar; la JPJ no inspecciona los vehículos ella misma — se apoya en el resultado de la inspección antes de renovar el impuesto de circulación. La [guía de inspección de PUSPAKOM](/es/transport/puspakom-vehicle-inspections) explica qué vehículos la necesitan y con qué frecuencia.
+
+## Dónde encontrar la JPJ
+
+La sede de la JPJ está en Putrajaya — en el Complex D del Centro Administrativo del Gobierno Federal, en Jalan Tun Hussein, en Presint 4 — y el departamento gestiona oficinas de sucursal, mostradores y quioscos de autoservicio en todos los estados y territorios federales, de modo que la mayoría de las gestiones de permisos y de impuesto de circulación pueden resolverse cerca de casa. Una sucursal de atención al cliente específica de Putrajaya abrió en Galeria PJH, en Precinto 4, a principios de 2025. Para una gestión concreta — renovar un permiso, pagar el impuesto de circulación, consultar multas o pujar por una matrícula — la aplicación MyJPJ o la oficina de la JPJ más cercana es el lugar por donde empezar.
 
 ## Por qué importa
 

@@ -26,18 +26,24 @@ faq:
     a: "Chúng là cùng một thứ. Cái mà người Malaysia gọi là thuế đường bộ (cukai jalan) chính thức là Giấy phép Phương tiện Cơ giới — Lesen Kenderaan Motor, hay LKM — do JPJ cấp để cho phép một phương tiện được sử dụng trên đường công cộng. Nó phải được gia hạn định kỳ, và phương tiện phải có bảo hiểm phương tiện cơ giới còn hiệu lực, điều mà hệ thống của JPJ kiểm tra trước khi cấp giấy phép."
   - q: "Làm thế nào để tôi gia hạn giấy phép lái xe hoặc thuế đường bộ trực tuyến?"
     a: "JPJ cung cấp gia hạn trực tuyến qua cổng công cộng của mình (mySIKAP) và ứng dụng MyJPJ, vốn cũng cung cấp bản sao kỹ thuật số của giấy phép lái xe và thuế đường bộ (e-LKM). Việc gia hạn cũng có thể được thực hiện tại các quầy JPJ và thông qua các đối tác được chỉ định. Hãy kiểm tra các lựa chọn và lệ phí hiện hành trên cổng JPJ (jpj.gov.my)."
+  - q: "JPJ và PUSPAKOM khác nhau như thế nào?"
+    a: "JPJ là cục chính phủ đăng ký phương tiện, cấp giấy phép cho tài xế, cấp thuế đường bộ và thực thi luật giao thông đường bộ. PUSPAKOM không phải là một cục — nó là một nhà cung cấp dịch vụ kiểm định phương tiện được cấp phép, thực hiện việc kiểm định tình trạng kỹ thuật thực tế mà phương tiện thương mại và một số phương tiện khác phải vượt qua trước khi JPJ gia hạn thuế đường bộ của chúng. JPJ dựa vào kết quả kiểm định; nó không tự kiểm định phương tiện."
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d2a76d73479e19c2"
+sourceContentHash: "900f59ff9bbb0ab3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: "2026-11-05"
+reviewed: 2026-11-27
 reviewDue: null
 publishedBy: "ashton-tan"
-revision: 0
-revisions: []
+revision: 1
+revisions:
+  - revision: 1
+    date: 2026-11-18
+    change: "Ghép thêm các phần có trích nguồn về việc gia hạn thuế đường bộ, các dịch vụ số JPJeBid/JPJeQ, sự phân biệt JPJ–PUSPAKOM–cảnh sát, và vị trí của JPJ — nội dung được khôi phục từ bản trùng lặp transport/ đã bị gỡ bỏ và được xác minh lại đối chiếu với các nguồn JPJ, MyGovernment và PUSPAKOM (đang chờ con người rà soát lại phần nội dung được ghép thêm)."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Ngày thành lập JPJ: các nguồn mâu thuẫn giữa nguồn gốc năm 1937 (Hội đồng Giao thông Đường bộ theo Pháp lệnh Giao thông 1937) và sự hình thành vào ngày 1 tháng 4 năm 1946 — xác minh đối chiếu với các trang lịch sử/doanh nghiệp chính thức của JPJ."
   - "Tổng Giám đốc hiện tại của JPJ và ban lãnh đạo của bộ chủ quản — xác nhận trên các trang chính thức của JPJ và MOT (các quan chức được nêu tên thay đổi theo Nội các)."
@@ -45,7 +51,10 @@ verificationNeeded:
   - "Yêu cầu kiểm định PUSPAKOM hiện hành cho việc gia hạn LKM (quy tắc rằng phương tiện cá nhân có thuế đường bộ hết hạn tới ba năm có thể gia hạn mà không cần kiểm định có từ năm 2020) — xác nhận chính sách hiện hành trên JPJ/MyGov."
   - "Liệu JPJ có tiếp quản các chức năng của Cục An toàn Đường bộ (JKJR) từ ngày 1 tháng 5 năm 2020 hay không và phạm vi hiện hành của cuộc sáp nhập đó — xác minh trên một nguồn chính thức của JPJ/MOT."
   - "Mục chính xác của Luật Giao thông Đường bộ 1987 yêu cầu giấy phép phương tiện cơ giới (thuế đường bộ) và các mức phạt hiện hành cho việc lái xe không phép hoặc với thuế đường bộ hết hạn — xác nhận đối chiếu với văn bản có thẩm quyền của AGC về Act 333."
-updated: 2026-11-05
+  - "Địa chỉ khối/đường chính xác của trụ sở JPJ (Complex D, Block D4, No. 26 Jalan Tun Hussein, Presint 4, 62100 Putrajaya) — lấy từ các nguồn thứ cấp; xác nhận trên một trang liên hệ chính thức của jpj.gov.my."
+  - "Tình trạng của PUSPAKOM sau khi nhượng quyền kiểm định được cải tổ vào năm 2024 (được cấp phép theo Section 126(1) của Act 333; các công ty kiểm định bổ sung được Bộ Giao thông bổ nhiệm vào năm 2025) — xác nhận phạm vi hiện hành và những nhà cung cấp nào đang hoạt động trên một nguồn chính thức của MOT/JPJ."
+  - "Thời hạn hai tháng để gia hạn thuế đường bộ đối với phương tiện cá nhân, và quy tắc rằng một phương tiện cá nhân hết hiệu lực quá ba năm cần một cuộc kiểm định đặc biệt trước khi gia hạn — được báo cáo từ các hướng dẫn của JPJ; xác nhận trên trang JPJ/MyGovernment hiện hành."
+updated: 2026-11-18
 sources:
   - title: "Portal Rasmi Jabatan Pengangkutan Jalan (JPJ) — Road Transport Department Malaysia"
     url: "https://www.jpj.gov.my/en/"
@@ -66,6 +75,12 @@ sources:
     url: "https://www.malaymail.com/news/malaysia/2024/09/12/a-guide-to-the-different-classes-and-categories-of-the-malaysian-driving-licence/148770"
     publisher: "Malay Mail"
     date: "2024-09-12"
+  - title: "Đấu giá Số đăng ký Phương tiện (JPJeBid) (Bidding for Vehicle Registration Numbers (JPJeBid))"
+    url: "https://www.malaysia.gov.my/en/categories/transportation/vehicle-services/bidding-for-vehicle-registration-numbers-jpjebid"
+    publisher: "MyGovernment (malaysia.gov.my), Chính phủ Malaysia"
+  - title: "Các loại hình kiểm định & Lệ phí (Inspection Types & Fees)"
+    url: "https://www.puspakom.com.my/inspection-types-fees/"
+    publisher: "PUSPAKOM"
 entity: "Road Transport Department (Jabatan Pengangkutan Jalan, JPJ)"
 wikidata: "Q6742016"
 relations:
@@ -139,14 +154,32 @@ Vì Luật được sửa đổi thường xuyên — bao gồm cả việc rà 
 JPJ đã chuyển phần lớn việc cung cấp dịch vụ của mình lên trực tuyến trong khi vẫn giữ các quầy vật lý. Các giao dịch có thể được thực hiện thông qua:
 
 - **mySIKAP** — cổng trực tuyến công cộng (tại *public.jpj.gov.my*) để gia hạn thuế đường bộ và giấy phép lái xe cùng các giao dịch khác.
-- **Ứng dụng MyJPJ** — một ứng dụng di động cung cấp bản sao kỹ thuật số của giấy phép lái xe và thuế đường bộ (**e-LKM**), cho phép người dùng kiểm tra tình trạng giấy phép và giấy phạt, và hỗ trợ việc gia hạn. Thông tin đăng nhập mySIKAP hiện có được chuyển sang ứng dụng.
-- **Các quầy JPJ và các đối tác được chỉ định** — các văn phòng chi nhánh, ki-ốt tự phục vụ, và các đối tác như Pos Malaysia và MyEG để gia hạn tại quầy.
+- **Ứng dụng MyJPJ** — một ứng dụng di động cung cấp bản sao kỹ thuật số của giấy phép lái xe và thuế đường bộ (**e-LKM**), cho phép người dùng kiểm tra tình trạng giấy phép và giấy phạt, và hỗ trợ việc gia hạn. Thông tin đăng nhập mySIKAP hiện có được chuyển sang ứng dụng, vốn cũng đóng vai trò cổng dẫn đến các dịch vụ số khác của JPJ.
+- **JPJeBid và JPJeQ** — **JPJeBid** là hệ thống trực tuyến của JPJ để đấu giá các số đăng ký phương tiện ưa thích, và **JPJeQ** cấp số thứ tự xếp hàng trực tuyến cho các lần đến quầy; cả hai đều có thể truy cập từ cổng MyJPJ.
+- **Các quầy JPJ và các đối tác được chỉ định** — các văn phòng chi nhánh và ki-ốt tự phục vụ ở mọi bang và lãnh thổ liên bang, cùng các đối tác như Pos Malaysia và MyEG để gia hạn tại quầy.
 
 Kể từ năm 2023, JPJ đã cấp thuế đường bộ kỹ thuật số và giấy phép lái xe kỹ thuật số, và việc trưng tem thuế đường bộ vật lý không còn bắt buộc đối với hầu hết phương tiện cá nhân.
 
-## JPJ so với cảnh sát giao thông
+## Việc gia hạn thuế đường bộ diễn ra như thế nào
 
-Một điểm gây nhầm lẫn phổ biến là ranh giới giữa JPJ và cảnh sát. JPJ là một cục của **Bộ Giao thông** và xử lý cấp phép, đăng ký, thuế đường bộ và thực thi giao thông đường bộ. Cảnh sát giao thông là một nhánh của **Cảnh sát Hoàng gia Malaysia ([PDRM](/vi/government/pdrm))**, vốn trực thuộc Bộ Nội vụ. Cả hai đều thực thi các quy tắc trên đường — và một người lái xe có thể nhận giấy phạt từ một trong hai bên — nhưng chúng là những cơ quan riêng biệt với các bộ chủ quản khác nhau và các nhiệm vụ cốt lõi khác nhau. Ứng dụng MyJPJ phản ánh sự chồng lấn này bằng cách cho phép người dùng xem và thanh toán cả giấy phạt của JPJ lẫn PDRM ở một nơi.
+Gia hạn thuế đường bộ là giao dịch với JPJ mà hầu hết người lái xe lặp lại thường xuyên nhất, và nó tuân theo một bộ điều kiện cố định:
+
+- **Thời điểm.** LKM được gia hạn ngay trước khi hết hạn — các hướng dẫn của JPJ đặt ra thời hạn gia hạn hai tháng đối với phương tiện cá nhân — cho sáu tháng hoặc một năm. Quy trình từng bước được trình bày trong [hướng dẫn gia hạn thuế đường bộ](/vi/transport/road-tax-renewal).
+- **Bảo hiểm trước tiên.** Bảo hiểm phương tiện cơ giới còn hiệu lực bao phủ phương tiện là điều kiện tiên quyết; các hệ thống của JPJ xác minh nó bằng điện tử trước khi cấp giấy phép, nên một hợp đồng bảo hiểm hết hiệu lực sẽ chặn việc gia hạn.
+- **Kiểm định ở nơi được yêu cầu.** Phương tiện thương mại phải có một [báo cáo kiểm định phương tiện](/vi/transport/puspakom-vehicle-inspections) hiện hành trước khi JPJ gia hạn thuế đường bộ. Một phương tiện cá nhân có thuế đường bộ đã hết hiệu lực quá ba năm cũng phải vượt qua một cuộc kiểm định đặc biệt trước.
+- **Không có khoản chặn tồn đọng.** Các giấy phạt chưa giải quyết hoặc một cờ đưa vào danh sách đen đối với phương tiện hoặc chủ sở hữu có thể giữ chậm việc gia hạn cho đến khi chúng được xử lý xong.
+
+Một khi các điều kiện đó được đáp ứng, việc gia hạn có thể được hoàn tất qua ứng dụng MyJPJ hoặc cổng mySIKAP, tại một quầy hoặc ki-ốt JPJ, hoặc thông qua các đối tác được chỉ định như Pos Malaysia và MyEG.
+
+## JPJ, PUSPAKOM và cảnh sát giao thông
+
+Ba cơ quan cùng liên quan đến một phương tiện và dễ bị nhầm lẫn. Một điểm gây nhầm lẫn phổ biến là ranh giới giữa JPJ và cảnh sát. JPJ là một cục của **Bộ Giao thông** và xử lý cấp phép, đăng ký, thuế đường bộ và thực thi giao thông đường bộ. Cảnh sát giao thông là một nhánh của **Cảnh sát Hoàng gia Malaysia ([PDRM](/vi/government/pdrm))**, vốn trực thuộc Bộ Nội vụ. Cả hai đều thực thi các quy tắc trên đường — và một người lái xe có thể nhận giấy phạt từ một trong hai bên — nhưng chúng là những cơ quan riêng biệt với các bộ chủ quản khác nhau và các nhiệm vụ cốt lõi khác nhau. Ứng dụng MyJPJ phản ánh sự chồng lấn này bằng cách cho phép người dùng xem và thanh toán cả giấy phạt của JPJ lẫn PDRM ở một nơi.
+
+**PUSPAKOM** là cái tên thứ ba mà người lái xe gặp, và nó không phải là JPJ cũng chẳng phải cảnh sát. Nó hoàn toàn không phải là một cục chính phủ mà là một nhà cung cấp dịch vụ kiểm định phương tiện được cấp phép, hoạt động theo Luật Giao thông Đường bộ 1987 — trong nhiều thập kỷ là công ty kiểm định duy nhất, và, sau khi nhượng quyền kiểm định được cải tổ vào năm 2024, là công ty đầu tiên được cấp phép theo cơ chế mới (với các nhà vận hành khác đã được bổ nhiệm kể từ đó). PUSPAKOM thực hiện việc kiểm định tình trạng kỹ thuật thực tế mà phương tiện thương mại và một số phương tiện khác phải vượt qua; JPJ không tự kiểm định phương tiện — nó dựa vào kết quả kiểm định trước khi gia hạn thuế đường bộ. [Hướng dẫn kiểm định PUSPAKOM](/vi/transport/puspakom-vehicle-inspections) giải thích phương tiện nào cần nó và tần suất ra sao.
+
+## Tìm JPJ ở đâu
+
+Trụ sở của JPJ nằm tại Putrajaya — trong Complex D của Trung tâm Hành chính Chính phủ Liên bang, trên Jalan Tun Hussein ở Presint 4 — và cục vận hành các văn phòng chi nhánh, quầy và ki-ốt tự phục vụ ở mọi bang và lãnh thổ liên bang, nên hầu hết việc cấp phép và thuế đường bộ có thể được xử lý gần nhà. Một chi nhánh khách hàng Putrajaya chuyên biệt đã khai trương tại Galeria PJH ở Precinct 4 vào đầu năm 2025. Đối với một nhiệm vụ cụ thể — gia hạn giấy phép, đóng thuế đường bộ, kiểm tra giấy phạt hoặc đấu giá một biển số — ứng dụng MyJPJ hoặc văn phòng JPJ gần nhất là nơi để bắt đầu.
 
 ## Vì sao điều này quan trọng
 

@@ -25,18 +25,24 @@ faq:
     a: "它们是同一回事。马来西亚人所称的路税（cukai jalan）正式名称是汽车执照——Lesen Kenderaan Motor，即 LKM——由 JPJ 发出，以准许车辆在公共道路上使用。它须定期更新，而车辆须持有有效的汽车保险，JPJ 的系统会在发出执照前加以核查。"
   - q: "我如何在线更新驾驶执照或路税？"
     a: "JPJ 透过其公共门户（mySIKAP）与 MyJPJ 应用程序提供在线更新，两者也提供驾驶执照与路税的电子副本（e-LKM）。更新也可在 JPJ 柜台及透过指定伙伴办理。请在 JPJ 门户（jpj.gov.my）查看当前的选项与费用。"
+  - q: "JPJ 与 PUSPAKOM 有何不同？"
+    a: "JPJ 是负责车辆注册、为驾驶者发照、发出路税并执行陆路交通法律的政府部门。PUSPAKOM 并非一个部门——它是一家获准的车辆检验供应商，为商用车辆及某些其他车辆进行其在 JPJ 更新路税前必须通过的实体适路性检验。JPJ 依据检验结果行事；它本身并不检验车辆。"
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d2a76d73479e19c2"
+sourceContentHash: "900f59ff9bbb0ab3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: "2026-11-05"
+reviewed: 2026-11-27
 reviewDue: null
 publishedBy: "ashton-tan"
-revision: 0
-revisions: []
+revision: 1
+revisions:
+  - revision: 1
+    date: 2026-11-18
+    change: "增补有来源佐证的章节：路税更新、JPJeBid/JPJeQ 数码服务、JPJ–PUSPAKOM–警察之区分，以及 JPJ 的所在地——内容系从已退役的 transport/ 重复文章中回收，并对照 JPJ、MyGovernment 与 PUSPAKOM 来源重新核实（增补内容待人工复审）。"
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "JPJ 的成立日期：来源在1937年起源（《1937年交通法令》下的陆路交通委员会）与1946年4月1日成立之间有分歧——对照 JPJ 官方历史／公司页面核实。"
   - "JPJ 现任总监及母部门的领导层——在 JPJ 与 MOT 官方网站确认（具名官员随内阁变动）。"
@@ -44,7 +50,10 @@ verificationNeeded:
   - "LKM 更新当前的 PUSPAKOM 检验要求（路税逾期至多三年的私人车辆可免检更新之规则可追溯至2020年）——在 JPJ/MyGov 确认当前政策。"
   - "JPJ 是否自2020年5月1日起吸纳了道路安全局（JKJR）的职能，以及该合并的当前范围——在 JPJ/MOT 官方来源核实。"
   - "《1987年陆路交通法令》中要求持有汽车执照（路税）的确切条文，以及无照驾驶或路税逾期当前的罚则——对照第333号法令的 AGC 权威文本确认。"
-updated: 2026-11-05
+  - "JPJ 总部确切的座号／街道地址（Complex D, Block D4, No. 26 Jalan Tun Hussein, Presint 4, 62100 Putrajaya）——取自二手来源；在官方 jpj.gov.my 联络页面确认。"
+  - "检验特许经营于2024年改革后 PUSPAKOM 的地位（根据 Act 333 的 Section 126(1) 获发执照；交通部于2025年委任额外的检验公司）——在官方 MOT/JPJ 来源确认当前范围及哪些供应商正在营运。"
+  - "私人车辆为期两个月的路税更新窗口，以及私人车辆逾期逾三年须先经特别检验方可更新之规则——据 JPJ 指南所报；在当前的 JPJ/MyGovernment 页面确认。"
+updated: 2026-11-18
 sources:
   - title: "陆路交通局（JPJ）官方门户 — 马来西亚陆路交通局 (Portal Rasmi Jabatan Pengangkutan Jalan (JPJ) — Road Transport Department Malaysia)"
     url: "https://www.jpj.gov.my/en/"
@@ -65,6 +74,12 @@ sources:
     url: "https://www.malaymail.com/news/malaysia/2024/09/12/a-guide-to-the-different-classes-and-categories-of-the-malaysian-driving-licence/148770"
     publisher: "Malay Mail"
     date: "2024-09-12"
+  - title: "竞标车辆注册号码（JPJeBid）(Bidding for Vehicle Registration Numbers (JPJeBid))"
+    url: "https://www.malaysia.gov.my/en/categories/transportation/vehicle-services/bidding-for-vehicle-registration-numbers-jpjebid"
+    publisher: "MyGovernment (malaysia.gov.my)，马来西亚政府"
+  - title: "检验类型与费用 (Inspection Types & Fees)"
+    url: "https://www.puspakom.com.my/inspection-types-fees/"
+    publisher: "PUSPAKOM"
 entity: "Road Transport Department (Jabatan Pengangkutan Jalan, JPJ)"
 wikidata: "Q6742016"
 relations:
@@ -138,14 +153,32 @@ JPJ 的核心法律依据是**[《1987年陆路交通法令》](/zh/law/road-tra
 JPJ 已将其大部分服务交付移至线上，同时保留实体柜台。各项交易可透过以下方式办理：
 
 - **mySIKAP**——公共在线门户（位于 *public.jpj.gov.my*），用于更新路税、驾驶执照及其他交易。
-- **MyJPJ 应用程序**——一款提供驾驶执照与路税电子副本（**e-LKM**）的手机应用，让用户查询执照状态与传票，并支援更新。现有的 mySIKAP 凭证可延用至该应用。
-- **JPJ 柜台与指定伙伴**——分局、自助服务终端机，以及诸如 Pos Malaysia 与 MyEG 等用于柜台更新的伙伴。
+- **MyJPJ 应用程序**——一款提供驾驶执照与路税电子副本（**e-LKM**）的手机应用，让用户查询执照状态与传票，并支援更新。现有的 mySIKAP 凭证可延用至该应用，该应用亦是通往 JPJ 其他数码服务的门户。
+- **JPJeBid 与 JPJeQ**——**JPJeBid** 是 JPJ 用于竞标心仪车辆注册号码的在线系统，而 **JPJeQ** 则为柜台办理签发在线排队号码；两者皆可从 MyJPJ 门户进入。
+- **JPJ 柜台与指定伙伴**——遍布各州及联邦直辖区的分局、自助服务终端机，以及诸如 Pos Malaysia 与 MyEG 等用于柜台更新的伙伴。
 
 自2023年起，JPJ 已发出电子路税与电子驾驶执照，而大多数私人车辆亦不再强制张贴实体路税贴纸。
 
-## JPJ 与交通警察
+## 路税更新如何运作
 
-一个常见的混淆点，在于 JPJ 的职责在何处结束、警察的职责从何处开始。JPJ 是**交通部**的一个部门，处理发照、注册、路税与陆路交通执法。交通警察是**皇家马来西亚警察（[PDRM](/zh/government/pdrm)）**的一个分支，隶属内政部。两者都执行道路规则——驾车者可能收到任一方发出的传票——但它们是母部门不同、核心职责不同的两个机构。MyJPJ 应用程序透过让用户在一处查看并缴付 JPJ 与 PDRM 的传票，反映了这种重叠。
+更新路税是大多数驾车者最常反复办理的 JPJ 交易，它依循一套固定的条件：
+
+- **时限。** LKM 在到期前不久更新——JPJ 的指南为私人车辆设定了为期两个月的更新窗口——可选更新半年或一年。逐步流程详见[路税更新指南](/zh/transport/road-tax-renewal)。
+- **先办保险。** 涵盖该车辆的有效汽车保险是前提条件；JPJ 的系统会在发出执照前以电子方式核实，因此失效的保单会阻挡更新。
+- **按需检验。** 商用车辆须持有当前的[车辆检验报告](/zh/transport/puspakom-vehicle-inspections)，JPJ 方会更新路税。路税逾期逾三年的私人车辆也须先通过一项特别检验。
+- **无未清事项阻挡。** 未了结的传票或针对该车辆或车主的黑名单标记，可能会拖延更新，直至获得清除。
+
+一旦满足这些条件，更新即可透过 MyJPJ 应用程序或 mySIKAP 门户、在 JPJ 柜台或终端机，或透过诸如 Pos Malaysia 与 MyEG 等指定伙伴完成。
+
+## JPJ、PUSPAKOM 与交通警察
+
+三个机构触及同一辆车，且容易被混淆。一个常见的混淆点，在于 JPJ 的职责在何处结束、警察的职责从何处开始。JPJ 是**交通部**的一个部门，处理发照、注册、路税与陆路交通执法。交通警察是**皇家马来西亚警察（[PDRM](/zh/government/pdrm)）**的一个分支，隶属内政部。两者都执行道路规则——驾车者可能收到任一方发出的传票——但它们是母部门不同、核心职责不同的两个机构。MyJPJ 应用程序透过让用户在一处查看并缴付 JPJ 与 PDRM 的传票，反映了这种重叠。
+
+**PUSPAKOM** 是驾车者会遇到的第三个名字，它既非 JPJ 亦非警察。它根本不是政府部门，而是一家在《1987年陆路交通法令》下营运的获准车辆检验供应商——数十年来是唯一的检验公司，而在检验特许经营于2024年改革后，成为新机制下首家获发执照的公司（此后已有其他营运商获委任）。PUSPAKOM 为商用车辆及某些其他车辆进行其必须通过的实体适路性检验；JPJ 本身并不检验车辆——它在更新路税前依据检验结果行事。[PUSPAKOM 检验指南](/zh/transport/puspakom-vehicle-inspections)解释哪些车辆需要检验以及多久一次。
+
+## 何处找到 JPJ
+
+JPJ 的总部位于布城——在联邦政府行政中心的 Complex D 内，坐落于 Presint 4 的 Jalan Tun Hussein——该局在各州及联邦直辖区均设有分局、柜台与自助服务终端机，因此大多数发照与路税事务都能就近办理。一个专门的布城客户分局已于2025年初在 Presint 4 的 Galeria PJH 开设。办理某项具体事务——更新执照、缴付路税、查询传票或竞标车牌——时，MyJPJ 应用程序或你最近的 JPJ 办事处便是着手之处。
 
 ## 为何重要
 

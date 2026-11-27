@@ -26,18 +26,24 @@ faq:
     a: "Keduanya adalah hal yang sama. Apa yang disebut warga Malaysia sebagai pajak jalan (cukai jalan) secara resmi adalah Lisensi Kendaraan Bermotor — Lesen Kenderaan Motor, atau LKM — yang diterbitkan JPJ untuk mengizinkan sebuah kendaraan digunakan di jalan umum. Ia harus diperbarui secara berkala, dan kendaraan harus memiliki asuransi kendaraan yang berlaku, yang diperiksa sistem JPJ sebelum menerbitkan lisensi."
   - q: "Bagaimana cara memperbarui SIM atau pajak jalan secara daring?"
     a: "JPJ menawarkan pembaruan daring melalui portal publiknya (mySIKAP) dan aplikasi MyJPJ, yang juga menyediakan salinan digital SIM dan pajak jalan (e-LKM). Pembaruan juga dapat dilakukan di loket JPJ dan melalui mitra yang ditunjuk. Periksa opsi dan biaya terkini di portal JPJ (jpj.gov.my)."
+  - q: "Apa beda antara JPJ dan PUSPAKOM?"
+    a: "JPJ adalah jabatan pemerintah yang mendaftarkan kendaraan, memberi izin kepada pengemudi, menerbitkan pajak jalan, dan menegakkan hukum angkutan jalan. PUSPAKOM bukanlah sebuah jabatan — ia adalah penyedia inspeksi kendaraan berlisensi yang melakukan inspeksi kelaikan jalan fisik yang harus dilalui kendaraan niaga dan kendaraan tertentu lainnya sebelum JPJ memperbarui pajak jalannya. JPJ bersandar pada hasil inspeksi; ia tidak menginspeksi kendaraan sendiri."
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d2a76d73479e19c2"
+sourceContentHash: "900f59ff9bbb0ab3"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: "2026-11-05"
+reviewed: 2026-11-27
 reviewDue: null
 publishedBy: "ashton-tan"
-revision: 0
-revisions: []
+revision: 1
+revisions:
+  - revision: 1
+    date: 2026-11-18
+    change: "Mencangkokkan bagian-bagian bersumber tentang pembaruan pajak jalan, layanan digital JPJeBid/JPJeQ, perbedaan JPJ–PUSPAKOM–polisi, dan lokasi JPJ — konten yang dipulihkan dari duplikat transport/ yang dipensiunkan dan diverifikasi ulang terhadap sumber JPJ, MyGovernment, dan PUSPAKOM (menunggu peninjauan ulang oleh manusia atas materi yang dicangkokkan)."
+    reviewer: "ashton-tan"
 verificationNeeded:
   - "Tanggal pendirian JPJ: sumber berselisih antara asal usul 1937 (Road Transport Board di bawah Traffic Enactment 1937) dan pembentukan pada 1 April 1946 — verifikasi terhadap halaman sejarah/korporat resmi JPJ."
   - "Direktur Jenderal JPJ saat ini dan kepemimpinan kementerian induk — konfirmasi di situs resmi JPJ dan MOT (pejabat yang disebut berubah mengikuti Kabinet)."
@@ -45,7 +51,10 @@ verificationNeeded:
   - "Persyaratan inspeksi PUSPAKOM saat ini untuk pembaruan LKM (aturan bahwa kendaraan pribadi dengan pajak jalan kedaluwarsa hingga tiga tahun dapat diperbarui tanpa inspeksi berasal dari 2020) — konfirmasi kebijakan terkini di JPJ/MyGov."
   - "Apakah JPJ menyerap fungsi Jabatan Keselamatan Jalan Raya (JKJR) sejak 1 Mei 2020 dan cakupan merger itu saat ini — verifikasi di sumber resmi JPJ/MOT."
   - "Pasal persis dalam Road Transport Act 1987 yang mensyaratkan lisensi kendaraan bermotor (pajak jalan) dan sanksi saat ini untuk mengemudi tanpa izin atau dengan pajak jalan kedaluwarsa — konfirmasi terhadap teks otoritatif AGC atas Act 333."
-updated: 2026-11-05
+  - "Alamat blok/jalan kantor pusat JPJ yang tepat (Complex D, Block D4, No. 26 Jalan Tun Hussein, Presint 4, 62100 Putrajaya) — diambil dari sumber sekunder; konfirmasi di halaman kontak resmi jpj.gov.my."
+  - "Status PUSPAKOM setelah konsesi inspeksi direformasi pada 2024 (dilisensikan di bawah Section 126(1) dari Act 333; perusahaan inspeksi tambahan ditunjuk oleh Kementerian Pengangkutan pada 2025) — konfirmasi cakupan saat ini dan penyedia mana yang beroperasi pada sumber resmi MOT/JPJ."
+  - "Jendela pembaruan pajak jalan dua bulan untuk kendaraan pribadi, dan aturan bahwa kendaraan pribadi yang kedaluwarsa lebih dari tiga tahun memerlukan inspeksi khusus sebelum pembaruan — dilaporkan dari panduan JPJ; konfirmasi di halaman JPJ/MyGovernment saat ini."
+updated: 2026-11-18
 sources:
   - title: "Portal Rasmi Jabatan Pengangkutan Jalan (JPJ) — Road Transport Department Malaysia"
     url: "https://www.jpj.gov.my/en/"
@@ -66,6 +75,12 @@ sources:
     url: "https://www.malaymail.com/news/malaysia/2024/09/12/a-guide-to-the-different-classes-and-categories-of-the-malaysian-driving-licence/148770"
     publisher: "Malay Mail"
     date: "2024-09-12"
+  - title: "Penawaran Nomor Pendaftaran Kendaraan (Bidding for Vehicle Registration Numbers (JPJeBid))"
+    url: "https://www.malaysia.gov.my/en/categories/transportation/vehicle-services/bidding-for-vehicle-registration-numbers-jpjebid"
+    publisher: "MyGovernment (malaysia.gov.my), Pemerintah Malaysia"
+  - title: "Jenis & Biaya Inspeksi (Inspection Types & Fees)"
+    url: "https://www.puspakom.com.my/inspection-types-fees/"
+    publisher: "PUSPAKOM"
 entity: "Road Transport Department (Jabatan Pengangkutan Jalan, JPJ)"
 wikidata: "Q6742016"
 relations:
@@ -139,14 +154,32 @@ Karena undang-undang ini diubah secara berkala — termasuk peninjauan sanksi se
 JPJ telah memindahkan sebagian besar penyampaian layanannya ke daring sambil mempertahankan loket fisik. Transaksi dapat dilakukan melalui:
 
 - **mySIKAP** — portal daring publik (di *public.jpj.gov.my*) untuk memperbarui pajak jalan dan SIM serta transaksi lainnya.
-- **Aplikasi MyJPJ** — aplikasi seluler yang menyediakan salinan digital SIM dan pajak jalan (**e-LKM**), memungkinkan pengguna memeriksa status lisensi dan surat tilang, serta mendukung pembaruan. Kredensial mySIKAP yang ada terbawa ke aplikasi ini.
-- **Loket JPJ dan mitra yang ditunjuk** — kantor cabang, kios swalayan, dan mitra seperti Pos Malaysia dan MyEG untuk pembaruan di loket.
+- **Aplikasi MyJPJ** — aplikasi seluler yang menyediakan salinan digital SIM dan pajak jalan (**e-LKM**), memungkinkan pengguna memeriksa status lisensi dan surat tilang, serta mendukung pembaruan. Kredensial mySIKAP yang ada terbawa ke aplikasi ini, yang juga berperan sebagai gerbang menuju layanan digital JPJ lainnya.
+- **JPJeBid dan JPJeQ** — **JPJeBid** adalah sistem daring JPJ untuk menawar nomor pendaftaran kendaraan pilihan, dan **JPJeQ** menerbitkan nomor antrean daring untuk kunjungan ke loket; keduanya dapat diakses dari gerbang MyJPJ.
+- **Loket JPJ dan mitra yang ditunjuk** — kantor cabang dan kios swalayan di setiap negara bagian dan wilayah persekutuan, ditambah mitra seperti Pos Malaysia dan MyEG untuk pembaruan di loket.
 
 Sejak 2023, JPJ telah menerbitkan pajak jalan digital dan SIM digital, dan penempelan fisik stiker pajak jalan tidak lagi wajib untuk sebagian besar kendaraan pribadi.
 
-## JPJ vs polisi lalu lintas
+## Bagaimana pembaruan pajak jalan bekerja
 
-Satu titik kebingungan yang umum adalah di mana JPJ berakhir dan polisi mulai. JPJ adalah jabatan **Kementerian Pengangkutan** dan menangani lisensi, pendaftaran, pajak jalan, dan penegakan angkutan jalan. Polisi lalu lintas adalah cabang dari **Polis Diraja Malaysia ([PDRM](/id/government/pdrm))**, yang berada di bawah Kementerian Dalam Negeri. Keduanya menegakkan aturan di jalan — dan seorang pengendara dapat menerima surat tilang dari salah satunya — tetapi mereka adalah instansi terpisah dengan kementerian induk berbeda dan mandat inti yang berbeda. Aplikasi MyJPJ mencerminkan tumpang tindih ini dengan memungkinkan pengguna melihat dan membayar surat tilang JPJ dan PDRM di satu tempat.
+Memperbarui pajak jalan adalah transaksi JPJ yang paling sering diulang kebanyakan pengendara, dan ia tunduk pada seperangkat syarat yang tetap:
+
+- **Waktu.** LKM diperbarui tidak lama sebelum kedaluwarsa — panduan JPJ menetapkan jendela pembaruan dua bulan untuk kendaraan pribadi — untuk masa enam bulan atau satu tahun. Proses langkah demi langkahnya diulas dalam [panduan pembaruan pajak jalan](/id/transport/road-tax-renewal).
+- **Asuransi dulu.** Asuransi kendaraan yang berlaku yang menanggung kendaraan adalah prasyarat; sistem JPJ memverifikasinya secara elektronik sebelum menerbitkan lisensi, sehingga polis yang kedaluwarsa menghambat pembaruan.
+- **Inspeksi jika diperlukan.** Kendaraan niaga harus memiliki [laporan inspeksi kendaraan](/id/transport/puspakom-vehicle-inspections) yang berlaku sebelum JPJ memperbarui pajak jalannya. Kendaraan pribadi yang pajak jalannya telah kedaluwarsa lebih dari tiga tahun juga harus lulus inspeksi khusus terlebih dahulu.
+- **Tidak ada hambatan tertunggak.** Surat tilang yang belum terselesaikan atau penanda blacklist terhadap kendaraan atau pemiliknya dapat menahan pembaruan hingga hal itu dibereskan.
+
+Setelah syarat-syarat itu terpenuhi, pembaruan dapat diselesaikan melalui aplikasi MyJPJ atau portal mySIKAP, di loket atau kios JPJ, atau melalui mitra yang ditunjuk seperti Pos Malaysia dan MyEG.
+
+## JPJ, PUSPAKOM, dan polisi lalu lintas
+
+Tiga badan bersinggungan dengan kendaraan yang sama dan mudah dikacaukan. Satu titik kebingungan yang umum adalah di mana JPJ berakhir dan polisi mulai. JPJ adalah jabatan **Kementerian Pengangkutan** dan menangani lisensi, pendaftaran, pajak jalan, dan penegakan angkutan jalan. Polisi lalu lintas adalah cabang dari **Polis Diraja Malaysia ([PDRM](/id/government/pdrm))**, yang berada di bawah Kementerian Dalam Negeri. Keduanya menegakkan aturan di jalan — dan seorang pengendara dapat menerima surat tilang dari salah satunya — tetapi mereka adalah instansi terpisah dengan kementerian induk berbeda dan mandat inti yang berbeda. Aplikasi MyJPJ mencerminkan tumpang tindih ini dengan memungkinkan pengguna melihat dan membayar surat tilang JPJ dan PDRM di satu tempat.
+
+**PUSPAKOM** adalah nama ketiga yang ditemui pengendara, dan ia bukan JPJ maupun polisi. Ia sama sekali bukan jabatan pemerintah, melainkan penyedia inspeksi kendaraan berlisensi yang beroperasi di bawah Road Transport Act 1987 — selama beberapa dekade menjadi satu-satunya perusahaan inspeksi, dan, setelah konsesi inspeksi direformasi pada 2024, perusahaan pertama yang dilisensikan di bawah mekanisme baru (dengan operator lain yang sejak itu ditunjuk). PUSPAKOM melakukan inspeksi kelaikan jalan fisik yang harus dilalui kendaraan niaga dan kendaraan tertentu lainnya; JPJ tidak menginspeksi kendaraan sendiri — ia bersandar pada hasil inspeksi sebelum memperbarui pajak jalan. [Panduan inspeksi PUSPAKOM](/id/transport/puspakom-vehicle-inspections) menjelaskan kendaraan mana yang memerlukannya dan seberapa sering.
+
+## Di mana menemukan JPJ
+
+Kantor pusat JPJ berada di Putrajaya — di Complex D Pusat Pentadbiran Kerajaan Persekutuan, di Jalan Tun Hussein di Presint 4 — dan jabatan ini menjalankan kantor cabang, loket, dan kios swalayan di setiap negara bagian dan wilayah persekutuan, sehingga sebagian besar urusan lisensi dan pajak jalan dapat ditangani di dekat rumah. Sebuah cabang pelanggan Putrajaya khusus dibuka di Galeria PJH di Presint 4 pada awal 2025. Untuk tugas tertentu — memperbarui lisensi, membayar pajak jalan, memeriksa surat tilang, atau menawar pelat — aplikasi MyJPJ atau kantor JPJ terdekat adalah tempat untuk memulai.
 
 ## Mengapa ini penting
 
