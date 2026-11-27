@@ -77,7 +77,7 @@ relations:
   - { rel: "related-to", to: "industries-palm-oil" }
   - { rel: "related-to", to: "industries-oil-and-gas" }
   - { rel: "related-to", to: "industries-tourism" }
-related: []
+related: ["automotive-industry", "construction-industry", "oil-gas-industry", "digital-economy-overview", "bumiputera"]
 keywords: ["Malaysia industries", "Malaysia economy sectors", "Malaysia GDP by sector", "Malaysia exports", "electrical and electronics Malaysia", "palm oil", "Malaysia manufacturing", "services sector Malaysia"]
 framework: explainer
 ---

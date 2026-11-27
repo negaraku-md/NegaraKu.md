@@ -109,7 +109,7 @@ sources:
     publisher: "هيئة تطوير الطاقة المستدامة (SEDA)"
 entity: "Renewable energy in Malaysia"
 relations: []
-related: []
+related: ["energy-sector-overview", "energy-commission-suruhanjaya-tenaga", "national-energy-transition-roadmap-netr", "solar-energy-malaysia", "electricity-tariff-energy-transition"]
 keywords: ["الطاقة المتجددة ماليزيا", "renewable energy Malaysia", "NETR", "خارطة الطريق الوطنية لتحوّل الطاقة", "MyRER", "NEM 3.0", "قياس صافي الطاقة ماليزيا", "SEDA", "الطاقة الشمسية واسعة النطاق", "LSS Malaysia", "CGPP", "CRESS", "الألواح الشمسية ماليزيا", "التعرفة التشجيعية ماليزيا", "TNB solar", "هدف الطاقة المتجددة 2050", "لجنة الطاقة الماليزية"]
 framework: explainer
 hero: '/media/energy/renewable-energy-in-malaysia/hero.webp'

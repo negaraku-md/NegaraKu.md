@@ -119,7 +119,7 @@ relations:
   - { rel: "governs", to: "worker-accommodation" }
   - { rel: "affects", to: "hiring-foreign-workers-malaysia" }
   - { rel: "related-to", to: "employment" }
-related: []
+related: ["employment-act-1955-guide", "hiring-foreign-workers-malaysia"]
 keywords: ["अधिनियम 446", "आवास के लिए प्रमाणपत्र", "मलेशिया श्रमिक आवास", "कर्मचारियों के न्यूनतम मानक आवास", "केंद्रीकृत आवास", "act 446", "certificate for accommodation", "worker accommodation malaysia"]
 framework: rules
 ---

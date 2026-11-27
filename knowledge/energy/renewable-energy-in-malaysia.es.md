@@ -109,7 +109,7 @@ sources:
     publisher: "SEDA Malaysia"
 entity: "Renewable energy in Malaysia"
 relations: []
-related: []
+related: ["energy-sector-overview", "energy-commission-suruhanjaya-tenaga", "national-energy-transition-roadmap-netr", "solar-energy-malaysia", "electricity-tariff-energy-transition"]
 keywords: ["renewable energy Malaysia", "NETR", "National Energy Transition Roadmap", "MyRER", "NEM 3.0", "Net Energy Metering Malaysia", "SEDA", "Large Scale Solar", "LSS Malaysia", "CGPP", "CRESS", "solar panel Malaysia", "feed-in tariff Malaysia", "TNB solar", "renewable energy target 2050", "Energy Commission Malaysia"]
 framework: explainer
 hero: '/media/energy/renewable-energy-in-malaysia/hero.webp'

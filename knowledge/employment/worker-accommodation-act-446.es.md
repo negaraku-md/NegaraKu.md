@@ -119,7 +119,7 @@ relations:
   - { rel: "governs", to: "worker-accommodation" }
   - { rel: "affects", to: "hiring-foreign-workers-malaysia" }
   - { rel: "related-to", to: "employment" }
-related: []
+related: ["employment-act-1955-guide", "hiring-foreign-workers-malaysia"]
 keywords: ["ley 446", "certificado de alojamiento", "alojamiento de trabajadores malasia", "normas mínimas de vivienda empleados", "alojamiento centralizado", "act 446", "certificate for accommodation"]
 framework: rules
 ---

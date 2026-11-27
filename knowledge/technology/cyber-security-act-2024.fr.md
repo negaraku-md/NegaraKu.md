@@ -81,7 +81,7 @@ relations:
   - { rel: "administered-by", to: "nacsa" }
   - { rel: "compares-with", to: "pdpa-malaysia" }
   - { rel: "related-to", to: "pdpa-malaysia" }
-related: []
+related: ["malaysia-cybersecurity-landscape", "pdpa-compliance-malaysia"]
 keywords: ["Cyber Security Act 2024", "Act 854", "NCII", "NACSA", "cybersecurity licensing Malaysia", "incident reporting Malaysia", "national critical information infrastructure", "loi sur la cybersécurité 2024", "cybersécurité Malaisie", "infrastructure d'information critique", "licences de cybersécurité"]
 framework: rules
 ---

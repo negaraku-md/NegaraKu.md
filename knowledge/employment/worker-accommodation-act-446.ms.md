@@ -119,7 +119,7 @@ relations:
   - { rel: "governs", to: "worker-accommodation" }
   - { rel: "affects", to: "hiring-foreign-workers-malaysia" }
   - { rel: "related-to", to: "employment" }
-related: []
+related: ["employment-act-1955-guide", "hiring-foreign-workers-malaysia"]
 keywords: ["akta 446", "perakuan penginapan", "penginapan pekerja malaysia", "piawaian minimum perumahan pekerja", "penginapan berpusat", "pekerja penginapan akta 446"]
 framework: rules
 ---
