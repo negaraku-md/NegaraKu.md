@@ -81,7 +81,7 @@ sources:
 relations:
   - { rel: "related-to", to: "property-buying-a-home-guide" }
   - { rel: "related-to", to: "property-real-property-gains-tax-rpgt" }
-related: []
+related: ["faraid-and-islamic-inheritance", "wills-and-probate-in-malaysia", "real-property-gains-tax"]
 keywords: ["फराइद", "faraid", "संपत्ति की विरासत", "वितरण अधिनियम 1958", "Distribution Act 1958", "Amanah Raya", "फराइद प्रमाणपत्र", "छोटी संपदा", "भूमि कार्यालय"]
 framework: explainer
 hero: '/media/property/property-inheritance-faraid-distribution/hero.webp'

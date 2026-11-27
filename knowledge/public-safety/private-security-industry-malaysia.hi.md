@@ -76,7 +76,7 @@ entity: "Industri keselamatan swasta Malaysia"
 relations:
   - { rel: "governs", to: "akta-agensi-persendirian-1971" }
   - { rel: "related-to", to: "royal-malaysia-police" }
-related: []
+related: ["rela-peoples-volunteer-corps", "ministry-of-home-affairs-kdn"]
 keywords: ["निजी सुरक्षा एजेंसी", "निजी एजेंसी लाइसेंस", "सहायक पुलिस", "निजी एजेंसी अधिनियम 1971", "मलेशिया सुरक्षा गार्ड", "KDN eSIMS", "सँभरा क्षेत्र"]
 framework: profile
 ---

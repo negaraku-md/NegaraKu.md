@@ -85,7 +85,7 @@ entity: "Strata Management Act 2013"
 wikidata: "Q28163587"
 relations:
   - { rel: "related-to", to: "property-buying-guide" }
-related: []
+related: ["strata-titles-act", "homebuyer-protection-abandoned-projects", "renovation-permits-and-ccc"]
 keywords: ["JMB", "MC", "مؤسسة الإدارة", "هيئة الإدارة المشتركة", "محكمة إدارة العقارات الطبقية", "قانون إدارة العقارات الطبقية 2013", "رسوم الصيانة", "صندوق الاحتياطي", "COB", "strata", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Akta Pengurusan Strata 2013"]
 framework: explainer
 hero: '/media/property/strata-management-jmb-mc/hero.webp'

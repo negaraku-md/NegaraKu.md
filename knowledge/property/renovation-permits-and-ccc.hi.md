@@ -68,7 +68,7 @@ entity: "Sijil Perakuan Siap dan Pematuhan (CCC)"
 relations:
   - { rel: "governs", to: "renovation-permits-and-ccc" }
   - { rel: "related-to", to: "buying-property-in-malaysia" }
-related: []
+related: ["local-government-councils", "strata-management-jmb-mc", "ministry-of-housing-local-government-kpkt"]
 keywords: ["CCC", "पूर्णता एवं अनुपालन प्रमाणपत्र", "घर का नवीनीकरण", "PBT स्वीकृति", "Akta 133", "नवीनीकरण परमिट", "Principal Submitting Person"]
 framework: rules
 hero: '/media/property/renovation-permits-and-ccc/hero.webp'

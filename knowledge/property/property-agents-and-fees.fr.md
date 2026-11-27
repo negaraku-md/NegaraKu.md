@@ -66,7 +66,7 @@ wikidata: "Q141851811"
 relations:
   - { rel: "governs", to: "property-agents-and-fees" }
   - { rel: "related-to", to: "tenancy-agreement-malaysia" }
-related: []
+related: ["property-auctions-foreclosure", "real-property-gains-tax", "affordable-housing-schemes"]
 keywords: ["agent immobilier", "REN", "LPEPH", "BOVAEP", "commission de l'agent", "honoraires de location", "négociateur immobilier", "property agent Malaysia"]
 framework: explainer
 hero: '/media/property/property-agents-and-fees/hero.webp'

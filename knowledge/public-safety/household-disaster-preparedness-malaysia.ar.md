@@ -91,7 +91,7 @@ sources:
 relations:
   - { rel: "related-to", to: "flood-warning-system-malaysia" }
   - { rel: "administered-by", to: "nadma-malaysia" }
-related: []
+related: ["civil-defence-force-apm", "social-welfare-department-jkm", "fire-safety-and-prevention-malaysia"]
 keywords: ["التأهب للفيضانات", "حقيبة الطوارئ", "فيضان الرياح الموسمية", "PPS", "Bantuan Wang Ihsan", "NADMA", "تحذيرات الطقس MetMalaysia", "انهيار أرضي", "زلزال صباح", "كارثة"]
 framework: how-to
 ---

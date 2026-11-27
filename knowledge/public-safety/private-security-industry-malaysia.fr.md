@@ -76,7 +76,7 @@ entity: "Industri keselamatan swasta Malaysia"
 relations:
   - { rel: "governs", to: "akta-agensi-persendirian-1971" }
   - { rel: "related-to", to: "royal-malaysia-police" }
-related: []
+related: ["rela-peoples-volunteer-corps", "ministry-of-home-affairs-kdn"]
 keywords: ["agence de sécurité privée", "licence d'agence privée", "police auxiliaire", "Private Agencies Act 1971", "garde de sécurité Malaisie", "KDN eSIMS", "zone fermée"]
 framework: profile
 ---

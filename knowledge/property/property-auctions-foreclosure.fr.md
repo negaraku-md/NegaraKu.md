@@ -74,7 +74,7 @@ sources:
 relations:
   - { rel: "related-to", to: "property-sale-purchase-agreement" }
   - { rel: "governs", to: "national-land-code-1965" }
-related: []
+related: ["property-agents-and-fees", "real-property-gains-tax", "homebuyer-protection-abandoned-projects"]
 keywords: ["bank lelong", "enchère immobilière Malaisie", "exécution hypothécaire", "proclamation de vente", "proclamation of sale", "enchère LACA", "ordre de vente", "prix de réserve", "foreclosure"]
 framework: explainer
 ---

@@ -108,7 +108,7 @@ relations:
   - { rel: "governs", to: "road-transport-act-1987" }
   - { rel: "administered-by", to: "miros" }
   - { rel: "related-to", to: "driving-licence-in-malaysia" }
-related: []
+related: ["road-transport-act-1987", "road-transport-department-jpj", "motorcycle-riding-rules"]
 keywords: ["sécurité routière", "accidents de la route Malaisie", "conduite sous l'emprise de l'alcool", "AES", "KEJARA", "MIROS", "Akta Pengangkutan Jalan 1987"]
 framework: explainer
 hero: '/media/public-safety/road-safety-in-malaysia/hero.webp'

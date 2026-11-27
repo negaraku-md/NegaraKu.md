@@ -74,7 +74,7 @@ sources:
 relations:
   - { rel: "related-to", to: "property-sale-purchase-agreement" }
   - { rel: "governs", to: "national-land-code-1965" }
-related: []
+related: ["property-agents-and-fees", "real-property-gains-tax", "homebuyer-protection-abandoned-projects"]
 keywords: ["bank lelong", "مزاد العقارات في ماليزيا", "حبس الرهن", "إعلان البيع", "proclamation of sale", "LACA auction", "أمر البيع", "السعر الأساسي", "foreclosure"]
 framework: explainer
 ---

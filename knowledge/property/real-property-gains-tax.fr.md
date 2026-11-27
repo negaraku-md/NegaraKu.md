@@ -81,7 +81,7 @@ relations:
   - { rel: "administered-by", to: "lembaga-hasil-dalam-negeri" }
   - { rel: "governs", to: "property-disposal" }
   - { rel: "related-to", to: "stamp-duty" }
-related: []
+related: ["rpgt-rates", "stamp-act-1949", "property-auctions-foreclosure"]
 keywords: ["RPGT", "impôt sur les plus-values immobilières", "CKHT", "LHDN", "cession immobilière", "taux RPGT", "exonération RPGT"]
 framework: rules
 hero: '/media/property/real-property-gains-tax/hero.webp'

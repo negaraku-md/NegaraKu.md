@@ -74,7 +74,7 @@ relations:
   - { rel: "governs", to: "malaysian-citizenship-by-descent" }
   - { rel: "administered-by", to: "jabatan-pendaftaran-negara" }
   - { rel: "related-to", to: "dual-citizenship-malaysia" }
-related: []
+related: ["malaysian-citizenship-by-registration", "registering-a-malaysian-born-abroad", "immigration-department-jim"]
 keywords: ["renuncia a la ciudadanía", "doble ciudadanía Malasia", "dual citizenship Malaysia", "artículo 23", "artículo 24", "Constitución Federal", "Formulario K", "Form K", "privación de ciudadanía", "JPN"]
 framework: explainer
 ---

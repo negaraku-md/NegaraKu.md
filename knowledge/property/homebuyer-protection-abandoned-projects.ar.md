@@ -85,7 +85,7 @@ entity: "Housing Development (Control and Licensing) Act 1966"
 relations:
   - { rel: "governs", to: "property-developers-malaysia" }
   - { rel: "related-to", to: "sale-and-purchase-agreement-property" }
-related: []
+related: ["housing-developers-act-hda", "affordable-housing-schemes", "strata-management-jmb-mc"]
 keywords: ["HDA", "القانون 118", "Akta 118", "APDL", "رخصة المطوّر", "lesen pemaju", "محكمة مطالبات مشتري المنازل", "Tribunal Tuntutan Pembeli Rumah", "المشاريع المتروكة", "projek terbengkalai", "SPNB", "KPKT", "حماية مشتري المنازل"]
 framework: explainer
 hero: '/media/property/homebuyer-protection-abandoned-projects/hero.webp'

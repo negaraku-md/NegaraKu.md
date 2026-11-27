@@ -85,7 +85,7 @@ entity: "Strata Management Act 2013"
 wikidata: "Q28163587"
 relations:
   - { rel: "related-to", to: "property-buying-guide" }
-related: []
+related: ["strata-titles-act", "homebuyer-protection-abandoned-projects", "renovation-permits-and-ccc"]
 keywords: ["JMB", "MC", "प्रबंधन निगम", "संयुक्त प्रबंधन निकाय", "स्ट्रेटा प्रबंधन अधिकरण", "स्ट्रेटा प्रबंधन अधिनियम 2013", "रखरखाव शुल्क", "सिंकिंग फंड", "COB", "strata", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Akta Pengurusan Strata 2013"]
 framework: explainer
 hero: '/media/property/strata-management-jmb-mc/hero.webp'

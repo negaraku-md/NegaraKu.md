@@ -74,7 +74,7 @@ sources:
 relations:
   - { rel: "related-to", to: "property-sale-purchase-agreement" }
   - { rel: "governs", to: "national-land-code-1965" }
-related: []
+related: ["property-agents-and-fees", "real-property-gains-tax", "homebuyer-protection-abandoned-projects"]
 keywords: ["bank lelong", "संपत्ति नीलामी मलेशिया", "बंधक-जब्ती", "बिक्री उद्घोषणा", "proclamation of sale", "LACA auction", "बिक्री आदेश", "आरक्षित मूल्य", "foreclosure"]
 framework: explainer
 ---

@@ -81,7 +81,7 @@ relations:
   - { rel: "administered-by", to: "lembaga-hasil-dalam-negeri" }
   - { rel: "governs", to: "property-disposal" }
   - { rel: "related-to", to: "stamp-duty" }
-related: []
+related: ["rpgt-rates", "stamp-act-1949", "property-auctions-foreclosure"]
 keywords: ["RPGT", "वास्तविक संपत्ति लाभ कर", "CKHT", "LHDN", "संपत्ति निपटान", "RPGT दर", "RPGT छूट"]
 framework: rules
 hero: '/media/property/real-property-gains-tax/hero.webp'

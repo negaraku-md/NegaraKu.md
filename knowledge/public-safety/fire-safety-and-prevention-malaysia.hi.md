@@ -68,7 +68,7 @@ wikidata: "Q13646141"
 relations:
   - { rel: "administered-by", to: "jabatan-bomba-dan-penyelamat-malaysia" }
   - { rel: "governs", to: "akta-perkhidmatan-bomba-1988" }
-related: []
+related: ["fire-and-rescue-department-bomba", "household-disaster-preparedness-malaysia", "renovation-permits-and-ccc"]
 keywords: ["अग्नि सुरक्षा", "अग्नि रोकथाम", "अग्नि प्रमाणपत्र", "perakuan bomba", "fire certificate", "JBPM", "अग्निशमन सेवा अधिनियम 1988"]
 framework: explainer
 hero: '/media/public-safety/fire-safety-and-prevention-malaysia/hero.webp'

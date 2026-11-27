@@ -75,7 +75,7 @@ sources:
 entity: "Immigration Department of Malaysia (Jabatan Imigresen Malaysia)"
 wikidata: "Q5260346"
 relations: []
-related: []
+related: ["malaysia-entry-visa-requirements", "immigration-overstay-and-blacklist", "sabah-sarawak-entry-requirements"]
 keywords: ["Immigration Department of Malaysia", "Jabatan Imigresen Malaysia", "JIM", "imi.gov.my", "MyOnline Passport", "MDAC", "Malaysia Digital Arrival Card", "renouvellement passeport Malaisie", "frais passeport Malaisie", "passeport 10 ans Malaisie", "Malaysia eVisa", "visa pass permis Malaisie", "Immigration Act 1959/63", "Passport Act 1966"]
 framework: profile
 hero: '/media/settling-in/immigration-department-jim/hero.webp'

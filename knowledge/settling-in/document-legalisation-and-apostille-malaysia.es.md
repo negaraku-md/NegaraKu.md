@@ -73,7 +73,7 @@ sources:
 relations:
   - { rel: "related-to", to: "marriage-registration-for-foreigners-malaysia" }
   - { rel: "related-to", to: "recognition-of-foreign-qualifications-malaysia" }
-related: []
+related: ["malaysia-foreign-policy-wisma-putra", "malaysian-citizenship-by-registration", "registering-a-malaysian-born-abroad"]
 keywords: ["legalización de documentos", "apostille Malaysia", "atestación consular", "Wisma Putra", "certificado de nacimiento extranjero", "certificado de matrimonio del extranjero", "atestación de título", "JPN documentos extranjeros"]
 framework: how-to
 stayFacts:
